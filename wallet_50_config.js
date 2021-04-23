@@ -1,1 +1,1 @@
-var mnemonic = "mean snow notable pond side yard estate illness creek marine comic kit";
+var mnemonic = "goose cotton hen tomorrow output brain dash barrel priority other mixed company";

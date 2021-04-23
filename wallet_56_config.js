@@ -1,1 +1,1 @@
-var mnemonic = "message enter metal crack three idle explain surge sick future ten purpose";
+var mnemonic = "avoid setup fiction clump blossom erase glimpse region absurd glow marine method";

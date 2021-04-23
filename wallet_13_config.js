@@ -1,1 +1,1 @@
-var mnemonic = "divorce skill either mirror banner pepper waste shaft gentle decide syrup issue";
+var mnemonic = "bullet crazy slam siren embrace bundle great recall chimney space butter bulb";

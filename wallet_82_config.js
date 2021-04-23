@@ -1,1 +1,1 @@
-var mnemonic = "patch rice close trouble hello boat scrub market bronze diet funny swift";
+var mnemonic = "answer south maze asthma pill today crane home pulse close ginger menu";

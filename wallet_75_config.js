@@ -1,1 +1,1 @@
-var mnemonic = "nuclear slab weapon zoo boy aunt embody gadget hidden remain electric rare";
+var mnemonic = "obey evidence drastic embark tide race sister hedgehog foil country grain high";

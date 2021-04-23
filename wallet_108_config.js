@@ -1,1 +1,1 @@
-var mnemonic = "dash time chest enjoy dutch enforce salmon begin act elbow robot door";
+var mnemonic = "deposit equal never useful sleep early fiscal undo clay shell razor machine";

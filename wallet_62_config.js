@@ -1,1 +1,1 @@
-var mnemonic = "garbage common oxygen attract chalk steel case embark naive ankle onion wagon";
+var mnemonic = "normal nerve blue coil define live bread wear erase brass tiger gas";

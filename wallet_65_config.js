@@ -1,1 +1,1 @@
-var mnemonic = "merit claim uncle together scheme visit found increase depart brand pave turn";
+var mnemonic = "youth lonely hood party bright flip pyramid pride clip hidden column palm";

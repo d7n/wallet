@@ -1,1 +1,1 @@
-var mnemonic = "tired ceiling sponsor clock correct jacket woman hero subway defense because luggage";
+var mnemonic = "faint wagon tragic olympic twelve ostrich pioneer crazy urban equal soldier result";

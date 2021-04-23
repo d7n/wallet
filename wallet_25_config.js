@@ -1,1 +1,1 @@
-var mnemonic = "reason carry initial small cool forward size sail stove tornado pitch frame";
+var mnemonic = "picnic cabbage tide bring custom meadow midnight draw just noble cycle bacon";

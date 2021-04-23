@@ -1,1 +1,1 @@
-var mnemonic = "unhappy combine repeat option element steel ripple repair fatigue cube anger web";
+var mnemonic = "box elevator love whisper forest bitter vacant vapor carry joy hockey pluck";

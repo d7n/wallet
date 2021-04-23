@@ -1,1 +1,1 @@
-var mnemonic = "lounge vintage scatter gas rally van fantasy impulse evil empty surprise nut";
+var mnemonic = "hammer kit loop coconut seminar distance liar middle prepare ignore business dismiss";

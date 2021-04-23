@@ -1,1 +1,1 @@
-var mnemonic = "donor crew mistake embark transfer tobacco capital frame vibrant connect hobby scene";
+var mnemonic = "profit lunar demand panda timber replace aware honey dog syrup grid term";

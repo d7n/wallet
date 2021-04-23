@@ -1,1 +1,1 @@
-var mnemonic = "library crop resource material envelope symptom quantum glass fever topic pen seven";
+var mnemonic = "camera depart weapon puppy fee resist expand rubber leg proof useless dilemma";

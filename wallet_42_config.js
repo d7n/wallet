@@ -1,1 +1,1 @@
-var mnemonic = "film cry rug ladder enact minimum great country leisure later rhythm tornado";
+var mnemonic = "carry fiction rail throw shadow donate amused very neglect essence bright zone";

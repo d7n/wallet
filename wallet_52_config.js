@@ -1,1 +1,1 @@
-var mnemonic = "midnight sister army high mimic apart two clock teach judge bone chronic";
+var mnemonic = "grass poem venue glove one father private weekend hello deputy mammal example";

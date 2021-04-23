@@ -1,1 +1,1 @@
-var mnemonic = "often quit science absurd pet hurdle depart aim taste sponsor bread minor";
+var mnemonic = "length pull ivory dish month pool comic ask vintage ill answer nest";

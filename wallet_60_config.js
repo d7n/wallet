@@ -1,1 +1,1 @@
-var mnemonic = "multiply tongue dignity sadness assume inquiry dinner boil pitch profit keep song";
+var mnemonic = "lobster again flame angle ignore ride hold sphere tube evil trouble pitch";

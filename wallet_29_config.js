@@ -1,1 +1,1 @@
-var mnemonic = "rookie provide spike fetch sea immune large foam hen merit vacuum zero";
+var mnemonic = "reopen awesome celery expose faint intact audit quantum thank cricket alien shoulder";

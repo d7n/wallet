@@ -1,1 +1,1 @@
-var mnemonic = "myself mad throw suspect oxygen kiss subway same dinner mango can axis";
+var mnemonic = "meat erode anxiety shock vendor deposit share satisfy category spike walk lesson";

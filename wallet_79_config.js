@@ -1,1 +1,1 @@
-var mnemonic = "congress drastic weapon correct high apple auto post hire trip eyebrow gravity";
+var mnemonic = "regular unfair trouble video mad feed bomb kid cream else vicious cup";

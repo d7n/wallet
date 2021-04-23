@@ -1,1 +1,1 @@
-var mnemonic = "water cancel frost universe child daughter any prosper breeze rebuild rude cabbage";
+var mnemonic = "vivid culture key call burden fatal dilemma village dash shiver poem eagle";

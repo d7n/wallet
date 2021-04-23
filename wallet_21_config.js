@@ -1,1 +1,1 @@
-var mnemonic = "attend depth whisper attend final pilot average convince flavor left burger basket";
+var mnemonic = "response exile flash virus effort keep shoulder group engage private brief prepare";

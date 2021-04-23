@@ -1,1 +1,1 @@
-var mnemonic = "spirit atom adult tuition crash cube brisk agent gold else average auto";
+var mnemonic = "park leaf credit noble home loop symptom heavy ticket shadow tomorrow soul";

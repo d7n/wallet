@@ -1,1 +1,1 @@
-var mnemonic = "tumble hello guess paddle resemble broccoli margin snow place aspect sheriff saddle";
+var mnemonic = "rose void speed bid thought coach method coyote chuckle interest morning hurt";

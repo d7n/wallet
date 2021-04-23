@@ -1,1 +1,1 @@
-var mnemonic = "federal edit daring parrot erase print blur nephew idle old mean oxygen";
+var mnemonic = "rare either canal wet trigger imitate plate rug diesel message script trial";

@@ -1,1 +1,1 @@
-var mnemonic = "club one decorate raccoon list foam layer alley observe harbor orange green";
+var mnemonic = "target random kitten wheel night range panda city govern fiscal weather noble";

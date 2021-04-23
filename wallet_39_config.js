@@ -1,1 +1,1 @@
-var mnemonic = "lady bunker chicken again split novel gift blanket receive kind grief earn";
+var mnemonic = "they mosquito wealth mad verb wave orchard lawn apart laugh glad adjust";

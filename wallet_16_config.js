@@ -1,1 +1,1 @@
-var mnemonic = "invite cloth slender panic praise fetch dress awesome sorry all narrow fetch";
+var mnemonic = "vacant winter genius often victory misery wrist depend finish seminar robot maid";

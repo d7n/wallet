@@ -1,1 +1,1 @@
-var mnemonic = "later suffer uphold infant risk shell olympic work rib album protect stool";
+var mnemonic = "soon royal ten damage divide carry rabbit tide long leopard grass wage";

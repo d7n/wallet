@@ -1,1 +1,1 @@
-var mnemonic = "already spy month ocean cool innocent gesture range seat panel gossip rifle";
+var mnemonic = "fantasy rocket wrong zero title move concert surface guide ranch radar spider";

@@ -1,1 +1,1 @@
-var mnemonic = "ecology disease tube price absorb youth turkey shell inform afford lonely tiger";
+var mnemonic = "gym advance tell raise loyal nerve candy load coin cheap boy extend";

@@ -1,1 +1,1 @@
-var mnemonic = "choose believe inhale okay science shadow style diary rigid teach volcano gown";
+var mnemonic = "say crash exile fox item outer disorder now pool collect step gown";

@@ -1,1 +1,1 @@
-var mnemonic = "gospel resist sick bind slide mimic smooth punch state famous round zone";
+var mnemonic = "plunge muffin curve weird item inspire reveal harvest strategy fetch buffalo wait";

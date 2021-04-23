@@ -1,1 +1,1 @@
-var mnemonic = "taste segment become engine local afford split leaf staff crane rich vicious";
+var mnemonic = "salute praise hedgehog great era crop picture know picture bamboo they pride";

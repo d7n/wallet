@@ -1,1 +1,1 @@
-var mnemonic = "swift wise blue snake clarify pioneer romance require repeat bright memory plastic";
+var mnemonic = "giant loan indoor satoshi bus switch survey canvas animal always staff gaze";

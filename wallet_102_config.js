@@ -1,1 +1,1 @@
-var mnemonic = "kingdom setup corn crunch rent piece ring spoil trouble mobile clay swing";
+var mnemonic = "ice prison design stock consider penalty manage debris oil consider carry tone";

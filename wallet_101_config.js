@@ -1,1 +1,1 @@
-var mnemonic = "spell snap bind budget false cash outer prefer imitate ocean badge tone";
+var mnemonic = "notable chapter mobile woman present balance outside level runway market flip endorse";

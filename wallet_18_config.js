@@ -1,1 +1,1 @@
-var mnemonic = "nominee extra eager uncover acquire salon over balcony embody garage upper book";
+var mnemonic = "eternal novel kitten drum birth genuine subway piano polar cousin corn guitar";

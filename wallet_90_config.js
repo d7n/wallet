@@ -1,1 +1,1 @@
-var mnemonic = "level double business sentence wrap miracle convince huge pyramid earn will iron";
+var mnemonic = "scale because afford hospital very boy witness step blood banana mixture rough";

@@ -1,1 +1,1 @@
-var mnemonic = "energy wrist tumble wink fatigue boss police just flame unit flower issue";
+var mnemonic = "oblige ginger slam protect drip nation music clerk antenna turtle hope issue";

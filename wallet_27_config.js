@@ -1,1 +1,1 @@
-var mnemonic = "barely wagon soup degree flame tilt crane add into region daring differ";
+var mnemonic = "unfold inch noise blade approve river practice grain unhappy reward inmate capable";

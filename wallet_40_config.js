@@ -1,1 +1,1 @@
-var mnemonic = "spin dad strong age engage job delay oven spell alley silk work";
+var mnemonic = "shiver elephant judge cash actor large leg liberty biology mouse decorate double";

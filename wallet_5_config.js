@@ -1,1 +1,1 @@
-var mnemonic = "result need know same ensure east wisdom vessel step silent inch obscure";
+var mnemonic = "evil access review enough snow sweet margin team river glow fame tray";

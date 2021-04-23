@@ -1,1 +1,1 @@
-var mnemonic = "lottery stamp vocal royal easy scan length pitch doll piano report noodle";
+var mnemonic = "pizza dish beach loop lunar truck aunt giggle phone damage forget stable";

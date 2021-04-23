@@ -1,1 +1,1 @@
-var mnemonic = "tube jar satoshi you word shy involve cash certain eternal pony coffee";
+var mnemonic = "hire price vehicle camp friend balcony skill swim over fatal labor define";

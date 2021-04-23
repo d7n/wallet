@@ -1,1 +1,1 @@
-var mnemonic = "sugar dolphin winter waste rate upset april garden sock film woman huge";
+var mnemonic = "opinion duck sad leisure habit ahead spatial cry sense shoulder crater boss";

@@ -1,1 +1,1 @@
-var mnemonic = "solution coral fix jump home chimney law tower evil organ square adult";
+var mnemonic = "torch combine beach lend spend know muffin blame puzzle laptop alpha first";

@@ -1,1 +1,1 @@
-var mnemonic = "become smooth fan bonus agent horror sudden knee enable army hole orchard";
+var mnemonic = "vintage tenant comfort host wood jar depart climb history gas pause syrup";

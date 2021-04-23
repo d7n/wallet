@@ -1,1 +1,1 @@
-var mnemonic = "kiwi left glimpse crack civil dinosaur home switch chronic enrich spawn way";
+var mnemonic = "nice acid angle citizen wolf tissue curve property embark leisure found genre";

@@ -1,1 +1,1 @@
-var mnemonic = "fitness present wine proud client arm horn bag junk gown adult throw";
+var mnemonic = "winner salmon benefit please youth lazy stick few grunt enforce clay inject";

@@ -1,1 +1,1 @@
-var mnemonic = "volume oval stadium surface wisdom delay come inner rifle raw shaft portion";
+var mnemonic = "valley vehicle female hobby february coral engine recycle length input scan apple";

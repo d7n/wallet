@@ -1,1 +1,1 @@
-var mnemonic = "random wrist smooth canyon poem hood brother venue quantum lock utility equal";
+var mnemonic = "cinnamon sort protect broken where crop crew talent advance erupt usage mountain";

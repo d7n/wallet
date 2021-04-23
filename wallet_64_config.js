@@ -1,1 +1,1 @@
-var mnemonic = "job student language narrow loan indicate inquiry divert jungle enact assume please";
+var mnemonic = "tag display split raw orphan cradle spice poem lamp opera flee replace";

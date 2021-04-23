@@ -1,1 +1,1 @@
-var mnemonic = "lawn tomorrow plate hill chalk display little upset friend comic barrel action";
+var mnemonic = "secret student conduct wire escape another wave sense account umbrella wise marine";

@@ -1,1 +1,1 @@
-var mnemonic = "young own dentist joke dry volume cover timber recycle gaze gadget dance";
+var mnemonic = "sweet debate cupboard lab hollow practice embark cabin cement coffee need lazy";

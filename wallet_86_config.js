@@ -1,1 +1,1 @@
-var mnemonic = "immense butter antique siren shell maze number shoulder leaf make evidence divorce";
+var mnemonic = "uphold tank manage pudding seek holiday attitude west spare alter skill shop";

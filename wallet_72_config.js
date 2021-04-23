@@ -1,1 +1,1 @@
-var mnemonic = "utility first ahead bounce ranch quick shell vintage leg dragon fun jar";
+var mnemonic = "theme erosion table midnight stick dash snack unhappy process view lobster mutual";

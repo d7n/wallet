@@ -1,1 +1,1 @@
-var mnemonic = "fame casino clutch coconut legal service man claw garlic often ankle dove";
+var mnemonic = "miracle rotate rich target dinner suffer dragon fringe tissue milk capable vintage";

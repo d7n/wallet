@@ -1,1 +1,1 @@
-var mnemonic = "insect manual quality jelly chest clip cousin pupil stone chicken plug move";
+var mnemonic = "toe civil place monkey legal smile decade question fragile gain input depend";

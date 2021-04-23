@@ -1,1 +1,1 @@
-var mnemonic = "bubble grass drip excess rally focus school library item punch tumble waste";
+var mnemonic = "oven frequent ocean artefact milk rule magnet spring omit window fan type";

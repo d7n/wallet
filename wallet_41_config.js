@@ -1,1 +1,1 @@
-var mnemonic = "service canyon vapor forget axis outer unhappy license maid obvious peasant keen";
+var mnemonic = "minimum park weather come rain famous unfold trust thumb coral step wink";

@@ -1,1 +1,1 @@
-var mnemonic = "spray cross van write pistol code spend zone master local orient worth";
+var mnemonic = "frog sister frame balance aware stand drift pumpkin eyebrow warrior crawl worry";

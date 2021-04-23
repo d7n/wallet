@@ -1,1 +1,1 @@
-var mnemonic = "furnace valley pledge system obscure another palace donkey odor exotic basic else";
+var mnemonic = "hello beyond tongue endless slogan style short type eyebrow congress language inform";

@@ -1,1 +1,1 @@
-var mnemonic = "moral object secret cart utility picture apart sadness meat wine below come";
+var mnemonic = "old pair cube burger perfect banner obscure kite april fringe decline silver";

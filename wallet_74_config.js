@@ -1,1 +1,1 @@
-var mnemonic = "giant glance soul hood off benefit mansion stay armed hawk coyote trust";
+var mnemonic = "visit notable like orient swift shift blame card govern pass crash melt";

@@ -1,1 +1,1 @@
-var mnemonic = "magic ranch forest resemble oven describe rookie powder night small open measure";
+var mnemonic = "hundred humble fog pledge goddess lion token pluck random accuse ancient drift";

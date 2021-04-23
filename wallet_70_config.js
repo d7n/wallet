@@ -1,1 +1,1 @@
-var mnemonic = "employ torch mule silly nephew review patient capital street beach attract maximum";
+var mnemonic = "current pole boost valve viable lake message idea december one inspire liberty";

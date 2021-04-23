@@ -1,1 +1,1 @@
-var mnemonic = "bag scare dune alpha fitness spoon leisure cry uniform wing popular friend";
+var mnemonic = "mention enjoy inherit village echo virtual abstract trend kangaroo tortoise destroy supply";

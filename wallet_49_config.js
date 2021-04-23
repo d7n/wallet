@@ -1,1 +1,1 @@
-var mnemonic = "fashion machine humble melody team scrap vague ivory magnet flat palm gown";
+var mnemonic = "giggle bus wolf used arctic antenna toy pottery blur cactus obtain wool";

@@ -1,1 +1,1 @@
-var mnemonic = "sad damp social purpose renew color tell this mushroom spot velvet switch";
+var mnemonic = "craft gaze thank year palace hurt news rhythm cook cricket produce review";

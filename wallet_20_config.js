@@ -1,1 +1,1 @@
-var mnemonic = "above prize ten flee cry that waste goat snack boy option citizen";
+var mnemonic = "bench stove warm episode rebuild salad crash foot flock suffer oven snake";

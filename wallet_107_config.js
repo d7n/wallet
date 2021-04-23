@@ -1,1 +1,1 @@
-var mnemonic = "deal panel seminar must enter adult hold enter stand whale work sibling";
+var mnemonic = "alcohol ripple country accident tiger high fossil lemon aspect round impact random";

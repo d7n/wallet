@@ -1,1 +1,1 @@
-var mnemonic = "delay fashion stumble aunt dose melt attend spider unfold autumn hope twice";
+var mnemonic = "confirm fault wedding weasel original predict relief ranch net pottery chunk skate";

@@ -1,1 +1,1 @@
-var mnemonic = "cash gold rally horror camp expand vast choice silent faculty biology job";
+var mnemonic = "rate caught cross bread engage expose laundry improve buyer kiwi post hen";

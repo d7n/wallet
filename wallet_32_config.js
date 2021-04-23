@@ -1,1 +1,1 @@
-var mnemonic = "pill faith since brown hope ribbon hat neither another explain photo regular";
+var mnemonic = "speed day aspect tortoise ugly torch junior ring surge later balance dawn";

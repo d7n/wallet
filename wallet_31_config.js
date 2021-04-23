@@ -1,1 +1,1 @@
-var mnemonic = "crew chuckle favorite talent crystal file unusual dirt render they open budget";
+var mnemonic = "actress run domain pond couple rescue biology kiss hen risk rich shed";

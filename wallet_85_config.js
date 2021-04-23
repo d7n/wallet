@@ -1,1 +1,1 @@
-var mnemonic = "priority involve struggle grain group journey predict profit burden charge bird okay";
+var mnemonic = "when impact wise empower glue proud return run toss venue river army";

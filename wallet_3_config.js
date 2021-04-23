@@ -1,1 +1,1 @@
-var mnemonic = "achieve pen ancient move omit roast online like caution dizzy gift salmon";
+var mnemonic = "engage cool label clever reject behave pistol swift huge people ankle post";

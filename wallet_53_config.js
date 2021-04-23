@@ -1,1 +1,1 @@
-var mnemonic = "child avocado first loyal evoke april promote poem glare oil move night";
+var mnemonic = "sadness morning tuition dawn harsh buddy cigar nominee soul light eagle puzzle";

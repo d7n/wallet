@@ -1,1 +1,1 @@
-var mnemonic = "regret swap toilet betray guitar spider heavy boil noble similar fiction budget";
+var mnemonic = "perfect pigeon stool used stumble price coin fossil catalog clock fortune crisp";

@@ -1,1 +1,1 @@
-var mnemonic = "dawn lumber wink habit door peasant hip opinion festival juice issue bunker";
+var mnemonic = "trouble any pupil rough sound sphere water thumb embark bracket eight worth";

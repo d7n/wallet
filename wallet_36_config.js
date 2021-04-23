@@ -1,1 +1,1 @@
-var mnemonic = "stick kiwi stool fine mercy roof town scout learn matter vendor drop";
+var mnemonic = "able goat crucial pole keep innocent way panda black brain school way";

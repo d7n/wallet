@@ -1,1 +1,1 @@
-var mnemonic = "shadow before rapid stone badge found dry celery title neglect rifle wrong";
+var mnemonic = "sniff infant royal cruel diary diagram color diesel peanut side until find";

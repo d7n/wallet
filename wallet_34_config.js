@@ -1,1 +1,1 @@
-var mnemonic = "life scrap boil brand outer raw flag among icon forget food brisk";
+var mnemonic = "spice toss answer fetch genius good cool barrel drink omit square crystal";

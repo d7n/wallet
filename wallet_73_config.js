@@ -1,1 +1,1 @@
-var mnemonic = "lottery fuel soup theme main actress gap small minute joke round trust";
+var mnemonic = "long reopen attitude busy mango pear clever rich planet broom sun satoshi";

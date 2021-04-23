@@ -1,1 +1,1 @@
-var mnemonic = "ask swamp social nut garden ribbon furnace flash student ostrich excuse ring";
+var mnemonic = "notable avocado connect small window fine frequent toward alone snack because boil";

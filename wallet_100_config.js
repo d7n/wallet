@@ -1,1 +1,1 @@
-var mnemonic = "weather power feel mystery affair dolphin can want hole diary burden angry";
+var mnemonic = "give myself hello carbon talent nice hockey shuffle minimum fragile found tackle";

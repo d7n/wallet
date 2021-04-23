@@ -1,1 +1,1 @@
-var mnemonic = "wrist trend refuse speak bus expose siege emotion olympic milk apology rural";
+var mnemonic = "robot saddle abstract loop average illness sunny ice topple blade minimum ride";

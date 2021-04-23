@@ -1,1 +1,1 @@
-var mnemonic = "exact category allow wood possible turn husband rude better bronze crash joy";
+var mnemonic = "snack stamp pepper wish short cotton act satisfy faith addict carry liberty";

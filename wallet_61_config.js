@@ -1,1 +1,1 @@
-var mnemonic = "truth urge approve because kangaroo final police clerk brand all clip alley";
+var mnemonic = "carry utility window music series basic decide absent captain symptom fine valid";

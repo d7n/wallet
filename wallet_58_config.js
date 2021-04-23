@@ -1,1 +1,1 @@
-var mnemonic = "plate danger feed huge subject lottery immune snake hour six gun almost";
+var mnemonic = "leg source patch lounge title violin clown tortoise gauge midnight lemon muscle";

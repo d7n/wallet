@@ -1,1 +1,1 @@
-var mnemonic = "body element volcano attack rough order surface away nice style prevent insect";
+var mnemonic = "donkey fragile equip waste lift welcome chair kite situate thank ticket save";
