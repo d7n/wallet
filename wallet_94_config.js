@@ -1,1 +1,1 @@
-var mnemonic = "wisdom brain culture scatter problem boat hold diary delay blast warm peasant";
+var mnemonic = "coin below mix account bonus aware awake alpha exercise dance attitude bench";

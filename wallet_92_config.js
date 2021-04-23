@@ -1,1 +1,1 @@
-var mnemonic = "reflect swim laugh normal rough verify cage fish pear delay jaguar home";
+var mnemonic = "clump typical utility casual vast evolve wrestle found fish front shadow nest";

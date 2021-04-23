@@ -1,1 +1,1 @@
-var mnemonic = "forget brick legal dial mother weird vintage knife lounge husband rare shadow";
+var mnemonic = "balcony brand open pride result excite rude general head repair inhale diagram";

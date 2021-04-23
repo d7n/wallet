@@ -1,1 +1,1 @@
-var mnemonic = "add express replace monkey bid deposit phrase hour riot million cable good";
+var mnemonic = "random once movie icon visual humor garage size ask replace neck drip";

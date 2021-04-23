@@ -1,1 +1,1 @@
-var mnemonic = "fan comfort proud sheriff plastic twin spoil end cross rich juice improve";
+var mnemonic = "weekend radar absent science snow silk lucky clinic trumpet donkey silent seven";

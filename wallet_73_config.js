@@ -1,1 +1,1 @@
-var mnemonic = "aspect appear army project enforce early crucial jazz gadget practice ecology run";
+var mnemonic = "there plate wife lonely replace verb excuse alcohol annual soft produce virtual";

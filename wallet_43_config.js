@@ -1,1 +1,1 @@
-var mnemonic = "bird pilot kitchen infant armed chimney reward analyst odor craft brown unique";
+var mnemonic = "aware balcony night gate wait dose twice point million damage ten three";

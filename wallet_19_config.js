@@ -1,1 +1,1 @@
-var mnemonic = "screen this describe arch suspect cousin silk match safe tiger safe useless";
+var mnemonic = "gasp toe survey naive decade antique small waste mirror wedding display loyal";

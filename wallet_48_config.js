@@ -1,1 +1,1 @@
-var mnemonic = "thank analyst turn punch vital rather west three note night pond surprise";
+var mnemonic = "apology potato govern express lyrics erosion frequent genius acquire doctor panther victory";

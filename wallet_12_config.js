@@ -1,1 +1,1 @@
-var mnemonic = "party enter critic coil demand pig raw grain gauge fade slogan pipe";
+var mnemonic = "lamp owner unknown soup december paddle speak segment tenant color gold ostrich";

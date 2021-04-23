@@ -1,1 +1,1 @@
-var mnemonic = "design detail artefact twin cereal crawl cat solve million real true sword";
+var mnemonic = "arch castle oyster mask nest range foil squeeze coil exist confirm stairs";

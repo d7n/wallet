@@ -1,1 +1,1 @@
-var mnemonic = "artwork gorilla spell name accuse twin duty initial hole goat vicious title";
+var mnemonic = "resemble badge stay round joy crush token spawn spoon garage success snow";

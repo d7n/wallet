@@ -1,1 +1,1 @@
-var mnemonic = "minor climb cabin blind tail cheese dog unveil radio renew egg angle";
+var mnemonic = "morning regret stairs fold ticket piano skill seven melt nuclear tail rule";

@@ -1,1 +1,1 @@
-var mnemonic = "mesh into client famous point pass lobster drive skill goddess medal guide";
+var mnemonic = "shine throw dose liar myth glory clock tiger category alpha nasty tattoo";

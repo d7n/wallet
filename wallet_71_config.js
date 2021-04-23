@@ -1,1 +1,1 @@
-var mnemonic = "frequent donor absurd another coin shoulder horn domain omit patient rack worth";
+var mnemonic = "island shiver unknown horror furnace model flat slight mansion toddler mention wear";

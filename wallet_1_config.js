@@ -1,1 +1,1 @@
-var mnemonic = "tuition candy weather slender document brown lens deal fiction tomorrow forget funny";
+var mnemonic = "curious embody exchange metal useless casual estate analyst old flash dinosaur fatigue";

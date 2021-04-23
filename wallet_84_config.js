@@ -1,1 +1,1 @@
-var mnemonic = "unveil liberty hen ocean dentist educate riot couple sauce harvest market jump";
+var mnemonic = "town slam track window undo random size wine foster tone select trend";

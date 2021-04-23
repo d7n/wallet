@@ -1,1 +1,1 @@
-var mnemonic = "muscle middle rain adjust draft glide cabin minimum field science palace kangaroo";
+var mnemonic = "priority proud march electric recycle worth penalty certain smooth need soon rescue";

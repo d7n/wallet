@@ -1,1 +1,1 @@
-var mnemonic = "approve home circle shoulder sphere math camera avocado three start monkey group";
+var mnemonic = "appear equal episode upset yellow ecology trumpet harsh curve trumpet exhibit vapor";

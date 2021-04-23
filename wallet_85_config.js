@@ -1,1 +1,1 @@
-var mnemonic = "piece case ecology moment wine stereo assist nominee march husband pyramid volcano";
+var mnemonic = "abuse attitude myth fiber camp dentist balance subway able blur crucial tobacco";

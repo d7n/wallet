@@ -1,1 +1,1 @@
-var mnemonic = "shed country into usage table arrive sign crew diamond vast nose motion";
+var mnemonic = "unveil jelly bronze upset copper marriage melody raise credit flag myself panther";

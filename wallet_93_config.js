@@ -1,1 +1,1 @@
-var mnemonic = "interest blood pepper busy nasty setup nation sad portion essence lamp credit";
+var mnemonic = "entry sleep room dial young daughter verb pupil owner earn scare physical";

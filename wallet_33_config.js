@@ -1,1 +1,1 @@
-var mnemonic = "prefer protect imitate hub sand this scatter muffin defense pause wood galaxy";
+var mnemonic = "glow dial volcano assault off enough sugar genre second street ecology census";

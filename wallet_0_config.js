@@ -1,1 +1,1 @@
-var mnemonic = "easy flag update moral grid rely shield scorpion property focus enact absorb";
+var mnemonic = "phone shoulder author diet round kiwi thought carbon join lift high skirt";

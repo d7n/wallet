@@ -1,1 +1,1 @@
-var mnemonic = "disorder crisp valley shield enough true push barely monster razor good black";
+var mnemonic = "clever mad caution patch inject train try federal pistol matter save soldier";

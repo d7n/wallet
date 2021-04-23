@@ -1,1 +1,1 @@
-var mnemonic = "tragic expand diamond rotate category explain airport cost vehicle basket thunder actual";
+var mnemonic = "morning celery grain train target exclude luggage middle near gloom lyrics brand";

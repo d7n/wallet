@@ -1,1 +1,1 @@
-var mnemonic = "input dish wrong typical dial shine sell cliff chicken liar dilemma beyond";
+var mnemonic = "six eyebrow winter basic fancy demand crater manual school siren floor immense";

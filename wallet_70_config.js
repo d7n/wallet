@@ -1,1 +1,1 @@
-var mnemonic = "miracle organ match recall economy scare nasty anxiety vessel include cousin group";
+var mnemonic = "honey tunnel script gospel surge valid wrist attend crash win scatter tag";

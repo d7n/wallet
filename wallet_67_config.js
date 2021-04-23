@@ -1,1 +1,1 @@
-var mnemonic = "ecology razor before innocent neutral young tilt road seven stool draft idle";
+var mnemonic = "mechanic seminar over armed rose mountain combine busy tumble toast jar blade";

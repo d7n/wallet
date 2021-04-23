@@ -1,1 +1,1 @@
-var mnemonic = "when account soon broom cheese dumb bone purchase assault shuffle baby clerk";
+var mnemonic = "eager cage soda two sunny prison warm crystal bless rebuild valley clutch";

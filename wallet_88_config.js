@@ -1,1 +1,1 @@
-var mnemonic = "confirm weekend toilet gallery custom term total simple joy absorb soccer clump";
+var mnemonic = "tourist hotel eye census consider dice acid cute planet column half urge";

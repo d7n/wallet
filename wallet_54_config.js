@@ -1,1 +1,1 @@
-var mnemonic = "position sign flip guilt maid lounge balance balance approve stock sheriff leopard";
+var mnemonic = "more medal novel music consider arena crazy exercise crew tobacco will silent";

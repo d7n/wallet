@@ -1,1 +1,1 @@
-var mnemonic = "wonder narrow gossip stuff exclude sniff endorse uncle scene daring only tomato";
+var mnemonic = "front source start kind push wink dust proud swear humor toss have";

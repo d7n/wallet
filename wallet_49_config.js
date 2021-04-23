@@ -1,1 +1,1 @@
-var mnemonic = "cycle adult disorder early tomorrow lake kiss pear canoe remind maximum cement";
+var mnemonic = "shine already genius taxi cloth cheap there barely weather sorry craft caution";

@@ -1,1 +1,1 @@
-var mnemonic = "annual budget quality card pony aware day stomach end estate bean horn";
+var mnemonic = "come thank eye victory emerge start utility misery aunt memory any amused";

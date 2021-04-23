@@ -1,1 +1,1 @@
-var mnemonic = "coffee someone glad air hobby tent kangaroo shoe pig gift casino tree";
+var mnemonic = "upset multiply drum curtain orient false bamboo embody relax gate welcome sock";

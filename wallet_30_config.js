@@ -1,1 +1,1 @@
-var mnemonic = "filter smoke wedding dream hero clever crunch maze inhale vague deer dynamic";
+var mnemonic = "affair lazy column crunch reflect bag river stand broom hotel purchase narrow";

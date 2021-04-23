@@ -1,1 +1,1 @@
-var mnemonic = "garment innocent wool net drop snap ramp pumpkin amateur scene elevator shiver";
+var mnemonic = "pig trend weapon father evolve stomach grit noise crew initial source someone";

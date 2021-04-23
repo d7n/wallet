@@ -1,1 +1,1 @@
-var mnemonic = "chalk pet donor wink suggest rotate surround impose sort already various bomb";
+var mnemonic = "island toe bulk head buyer obtain tornado misery genre december valve orange";

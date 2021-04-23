@@ -1,1 +1,1 @@
-var mnemonic = "recipe avocado glory inch lizard protect cry ride aware hundred imitate ranch";
+var mnemonic = "core census wild dune brand recipe crawl where unhappy foot flee custom";

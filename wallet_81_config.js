@@ -1,1 +1,1 @@
-var mnemonic = "domain plate dilemma photo theme swallow game stove convince always duty cruel";
+var mnemonic = "cream until proud view limit social empower proud exclude fire submit glove";

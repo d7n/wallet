@@ -1,1 +1,1 @@
-var mnemonic = "valid awful elder leader enroll image rescue calm design quote brief sponsor";
+var mnemonic = "mass ginger hidden indoor achieve miss song echo process actress run load";

@@ -1,1 +1,1 @@
-var mnemonic = "fresh upset thunder jaguar dutch recall learn easy vessel screen vessel light";
+var mnemonic = "burden tool name treat twenty spoil scale federal alpha eagle dolphin sugar";

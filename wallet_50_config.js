@@ -1,1 +1,1 @@
-var mnemonic = "frown true mango winter praise logic scatter suit erupt stuff divorce orphan";
+var mnemonic = "roast quality friend twelve swarm cook capable tobacco concert document whale accident";

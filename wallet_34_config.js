@@ -1,1 +1,1 @@
-var mnemonic = "drop crater whisper labor panel pluck predict mother leave pizza march coffee";
+var mnemonic = "balance uncover core fabric that insect flee memory fiscal ignore food local";

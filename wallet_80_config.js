@@ -1,1 +1,1 @@
-var mnemonic = "spice outdoor inside shaft cereal review problem trumpet solid settle tomato sunset";
+var mnemonic = "elbow acid hope game canoe vital coyote afraid erode wheel scrub enjoy";

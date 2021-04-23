@@ -1,1 +1,1 @@
-var mnemonic = "input happy opinion agent ugly tongue focus member cash stand staff brick";
+var mnemonic = "only runway observe mule recipe primary science way spare ramp illness neither";

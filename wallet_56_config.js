@@ -1,1 +1,1 @@
-var mnemonic = "anger situate sign kid avoid desert gallery grow shoot electric gain lake";
+var mnemonic = "praise scrap word stomach deliver vital elbow hello wagon sibling tape donate";

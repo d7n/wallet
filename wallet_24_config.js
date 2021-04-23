@@ -1,1 +1,1 @@
-var mnemonic = "planet suggest shallow problem orient bottom virtual exhibit bread exercise guess media";
+var mnemonic = "wide vote noise gate book vague hire open garment order rule exotic";

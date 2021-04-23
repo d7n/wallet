@@ -1,1 +1,1 @@
-var mnemonic = "heart strategy track paddle horn basket addict strong pact acid bitter rather";
+var mnemonic = "hold source mammal sting odor obvious order hip butter lamp major asset";

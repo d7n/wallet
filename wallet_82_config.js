@@ -1,1 +1,1 @@
-var mnemonic = "now universe eager roof brand cruel lamp hair seed icon there tobacco";
+var mnemonic = "obey funny inhale anger hint fuel december offer amused upset exile picnic";

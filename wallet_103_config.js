@@ -1,1 +1,1 @@
-var mnemonic = "rice subject wreck keen cook hamster buzz federal chief parade excess market";
+var mnemonic = "blue slice walnut party sausage ripple guard tiger bomb food amount prison";

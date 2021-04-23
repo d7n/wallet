@@ -1,1 +1,1 @@
-var mnemonic = "solar inch hover scatter property cat category puppy obey balcony leisure wise";
+var mnemonic = "section orbit cloth treat float egg hurry easy broom icon pitch coconut";

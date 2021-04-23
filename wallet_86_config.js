@@ -1,1 +1,1 @@
-var mnemonic = "loyal text can delay harvest orchard novel picnic copy mouse yellow wait";
+var mnemonic = "clean miss purchase abstract indoor sleep paper indoor eternal purchase fossil radar";

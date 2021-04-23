@@ -1,1 +1,1 @@
-var mnemonic = "budget stage never express afraid special elephant word fade dwarf much drive";
+var mnemonic = "pistol cotton oak modify fabric chief dinosaur during able wasp video spider";

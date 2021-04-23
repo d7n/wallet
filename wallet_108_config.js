@@ -1,1 +1,1 @@
-var mnemonic = "repeat voice wrap load total left jump park ocean ticket segment arm";
+var mnemonic = "link lunar limb guess present cradle face conduct pattern avoid upon vibrant";

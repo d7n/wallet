@@ -1,1 +1,1 @@
-var mnemonic = "hello have hurt kiss dawn code hen mobile laugh rival dice brown";
+var mnemonic = "reopen domain like walnut hole miracle random across system copper brain express";

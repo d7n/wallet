@@ -1,1 +1,1 @@
-var mnemonic = "sword urge search image daring love frost lava napkin joy blast casino";
+var mnemonic = "name conduct smoke finger base shrug stamp student conduct curtain radio october";

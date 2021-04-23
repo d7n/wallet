@@ -1,1 +1,1 @@
-var mnemonic = "derive basic behave glass audit people antenna symptom work east office lunch";
+var mnemonic = "farm question skull axis drive essence reflect angle patch bus dentist bubble";

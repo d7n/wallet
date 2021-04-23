@@ -1,1 +1,1 @@
-var mnemonic = "topic destroy good various doctor game inner detect rebuild report wait emotion";
+var mnemonic = "about state huge praise squeeze picnic emotion april group dry save nurse";

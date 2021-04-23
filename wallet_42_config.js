@@ -1,1 +1,1 @@
-var mnemonic = "guide tape draw upset shoot sentence hospital remember fit firm arch luggage";
+var mnemonic = "remember one amateur stuff detect salute jungle nasty long media usage enforce";

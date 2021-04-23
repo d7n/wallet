@@ -1,1 +1,1 @@
-var mnemonic = "system uphold pole swing exercise soap consider size type trash viable smooth";
+var mnemonic = "meat advance truck smile water ahead liquid problem hero lava merge purse";

@@ -1,1 +1,1 @@
-var mnemonic = "nose report sunset little reflect mule slice section street fringe vehicle fly";
+var mnemonic = "party razor cherry belt tiny trouble during extend inquiry owner dutch ladder";

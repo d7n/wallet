@@ -1,1 +1,1 @@
-var mnemonic = "crew globe half surface sketch inflict myth case together major merit draw";
+var mnemonic = "essence sample lock horse real gauge pretty input quarter lemon smile false";

@@ -1,1 +1,1 @@
-var mnemonic = "dad organ cave insect fork burst winter ostrich winter tree seven essence";
+var mnemonic = "track jaguar supply tuna actual tank garage true penalty possible brisk lazy";

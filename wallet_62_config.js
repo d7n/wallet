@@ -1,1 +1,1 @@
-var mnemonic = "scrap ranch dice frame initial silent couch three stone grain ride rival";
+var mnemonic = "window item scorpion series level utility before stairs usage hockey submit connect";

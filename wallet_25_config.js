@@ -1,1 +1,1 @@
-var mnemonic = "balcony provide patient exile bomb radio interest play token calm arctic food";
+var mnemonic = "cash pulse glance envelope celery gold poem brand visa abstract bounce key";

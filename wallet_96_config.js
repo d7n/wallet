@@ -1,1 +1,1 @@
-var mnemonic = "misery monitor grace sustain tortoise want around boss hold beach screen eye";
+var mnemonic = "silent sign spirit sail risk soldier duty style radar acoustic canal slot";

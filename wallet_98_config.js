@@ -1,1 +1,1 @@
-var mnemonic = "together arctic maze valley month primary wire filter property bread mesh frozen";
+var mnemonic = "limit mom uncle happy glad ivory motor end scrub endless tip use";

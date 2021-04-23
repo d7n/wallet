@@ -1,1 +1,1 @@
-var mnemonic = "patch trophy soldier alone into need digital middle myth timber cause turkey";
+var mnemonic = "certain double hybrid churn stove solar apology dash crawl tree moral mouse";

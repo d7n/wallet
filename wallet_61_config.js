@@ -1,1 +1,1 @@
-var mnemonic = "junior impulse include item use valid bottom pond lemon sphere bitter dose";
+var mnemonic = "vendor culture rose key bulb position satoshi lunar alone elevator endorse consider";

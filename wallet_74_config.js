@@ -1,1 +1,1 @@
-var mnemonic = "link hole payment garment comfort stamp cup awkward aspect that crew dilemma";
+var mnemonic = "exhibit minor critic upper ostrich cheese south border rebel indicate close sauce";

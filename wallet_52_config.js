@@ -1,1 +1,1 @@
-var mnemonic = "eight margin problem pear end gate toe market advice hood young april";
+var mnemonic = "rare lunar panther post whip love history frame purity furnace amateur moral";

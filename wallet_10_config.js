@@ -1,1 +1,1 @@
-var mnemonic = "when atom pizza tragic useful resemble figure vote reunion brass bamboo ecology";
+var mnemonic = "grain find perfect nut pistol control wall roast drum salt symbol marine";

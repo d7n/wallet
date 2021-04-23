@@ -1,1 +1,1 @@
-var mnemonic = "write swap allow bronze ask uniform craft uncover tower brief burger limb";
+var mnemonic = "enact private hamster sweet fire pull ready ill night mechanic note throw";

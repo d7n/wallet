@@ -1,1 +1,1 @@
-var mnemonic = "enrich reason announce trophy flip tag margin shrug treat safe vessel fatal";
+var mnemonic = "rural crucial latin awesome ethics stereo goat city pink trade garage shuffle";

@@ -1,1 +1,1 @@
-var mnemonic = "delay speed pave above case source moon display venture knife bag goose";
+var mnemonic = "worry replace tuna stamp camp smart sample turkey gauge shock argue ripple";

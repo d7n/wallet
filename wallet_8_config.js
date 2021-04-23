@@ -1,1 +1,1 @@
-var mnemonic = "file neglect adult sleep defy old gate pigeon month slender element dance";
+var mnemonic = "hour market motor limb stamp direct give valley danger nut utility awesome";

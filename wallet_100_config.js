@@ -1,1 +1,1 @@
-var mnemonic = "circle glove rifle radar tennis abuse hen waste joy vacant domain august";
+var mnemonic = "blush abuse sheriff heart electric family female empower episode spread solution van";

@@ -1,1 +1,1 @@
-var mnemonic = "beach route fetch lottery radio margin rescue cloud unlock ankle deny document";
+var mnemonic = "doctor word piano depend tray humble gown sorry glue pistol urban other";

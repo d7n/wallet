@@ -1,1 +1,1 @@
-var mnemonic = "pill cluster flee ghost witness fade ski cute party this never little";
+var mnemonic = "inherit power order glow work shove sauce repair gather inch rapid poem";

@@ -1,1 +1,1 @@
-var mnemonic = "stay odor school insane race head enough bar argue eyebrow emerge swing";
+var mnemonic = "deny sponsor left fatal valley muffin behind language security analyst affair carry";

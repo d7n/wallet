@@ -1,1 +1,1 @@
-var mnemonic = "mobile sheriff flee kick mouse barrel dinosaur true pattern quality soap festival";
+var mnemonic = "hover host vote doctor pattern taste decide noble rookie scale toilet hint";

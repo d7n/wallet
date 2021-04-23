@@ -1,1 +1,1 @@
-var mnemonic = "figure afraid adapt diary melt execute life taxi leisure female squeeze struggle";
+var mnemonic = "climb mobile impact belt detail easily kiss mosquito like bean number fish";

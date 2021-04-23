@@ -1,1 +1,1 @@
-var mnemonic = "spoon dinner stock flavor case pioneer assist cable balcony clarify core action";
+var mnemonic = "volcano road music chair boy depend hat current assault extend sail reunion";

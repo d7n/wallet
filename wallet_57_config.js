@@ -1,1 +1,1 @@
-var mnemonic = "mobile giggle range soap wall soon clock slot bundle traffic tissue claw";
+var mnemonic = "pool owner license trumpet clean fork force throw success mother carbon push";

@@ -1,1 +1,1 @@
-var mnemonic = "toast survey merry canoe reward knock movie into major spirit thumb boat";
+var mnemonic = "modify lion patrol frame idea stick rescue science strong burden exile ball";
