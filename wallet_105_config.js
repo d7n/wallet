@@ -1,1 +1,1 @@
-var mnemonic = "come hungry space bitter vital tray blood matrix volcano quiz trim february";
+var mnemonic = "gain that wrestle oppose mountain analyst comic beach dynamic admit recipe notable";

@@ -1,1 +1,1 @@
-var mnemonic = "carry jeans nut muscle fun movie asset image pioneer mind dance mosquito";
+var mnemonic = "strong measure sound assume harsh whale license tube ivory dutch height pumpkin";

@@ -1,1 +1,1 @@
-var mnemonic = "art frost few check smooth field image hand eagle pole aunt brush";
+var mnemonic = "kitchen cancel basic crouch this muscle foil switch immune parent sword final";

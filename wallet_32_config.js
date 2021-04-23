@@ -1,1 +1,1 @@
-var mnemonic = "pave spend scorpion noodle draw gasp author exhibit width couch call merry";
+var mnemonic = "side fetch switch season enact prison flame plug embody grid illness auto";

@@ -1,1 +1,1 @@
-var mnemonic = "velvet ready kid dinosaur name inherit pistol ready junior dry obvious high";
+var mnemonic = "decide draw waste strong cabbage chase join cupboard shadow boy empty giraffe";

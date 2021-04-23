@@ -1,1 +1,1 @@
-var mnemonic = "nice carbon waste couple ability barely zone chase palace abuse rubber treat";
+var mnemonic = "deputy day napkin hero snap clip fashion sugar manual label neck now";

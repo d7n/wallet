@@ -1,1 +1,1 @@
-var mnemonic = "negative link seven lawn luxury pattern whale fury chunk wagon vibrant fever";
+var mnemonic = "write give clinic butter grain ordinary clog siege fiscal tribe unlock suggest";

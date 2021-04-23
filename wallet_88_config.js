@@ -1,1 +1,1 @@
-var mnemonic = "illness position object grass document town sniff tuition sad useless sail indicate";
+var mnemonic = "planet venue steak saddle coconut success join sister entry shine end advice";

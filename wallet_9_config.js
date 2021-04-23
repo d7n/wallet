@@ -1,1 +1,1 @@
-var mnemonic = "catalog weird sail island story arch decrease govern spy isolate believe almost";
+var mnemonic = "rely cereal problem glare life original myself kind profit process code orchard";

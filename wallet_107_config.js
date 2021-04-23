@@ -1,1 +1,1 @@
-var mnemonic = "poet pull dirt coral diet pattern boss grape skate damage dutch sponsor";
+var mnemonic = "brave say wealth base peasant pony scene green margin avocado woman dune";

@@ -1,1 +1,1 @@
-var mnemonic = "cake uniform palace old electric photo define front scout pear notable defense";
+var mnemonic = "feel entry flat enter machine misery aim hard drive museum satoshi paper";

@@ -1,1 +1,1 @@
-var mnemonic = "develop ivory crater festival tray credit right analyst tank field february affair";
+var mnemonic = "kitchen program leg safe unfold aunt thrive exist exile shop zebra force";

@@ -1,1 +1,1 @@
-var mnemonic = "produce fog detail maze trial match parrot rigid trumpet possible holiday athlete";
+var mnemonic = "bless order mercy trigger inspire attract stable advance indicate youth nominee gym";

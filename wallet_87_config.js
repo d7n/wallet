@@ -1,1 +1,1 @@
-var mnemonic = "swallow side ordinary sense art obvious lonely shove receive tape tilt deny";
+var mnemonic = "enemy visa elbow merit drive dentist pool receive drink van hard bunker";

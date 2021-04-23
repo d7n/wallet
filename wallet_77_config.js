@@ -1,1 +1,1 @@
-var mnemonic = "obey series arm gadget ensure suspect icon together icon vague between portion";
+var mnemonic = "lounge verb sun crack choice buffalo deal range scatter jungle accident behave";

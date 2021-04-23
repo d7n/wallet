@@ -1,1 +1,1 @@
-var mnemonic = "light beef net also gaze course bundle ramp breeze risk churn ozone";
+var mnemonic = "pole toss entire weird major sure tent oval crime buddy digital exact";

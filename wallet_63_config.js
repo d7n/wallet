@@ -1,1 +1,1 @@
-var mnemonic = "rare portion sunset elevator movie movie often picture slender bicycle whisper current";
+var mnemonic = "sure prison cup recipe anchor grocery execute trip diary vacuum canvas noise";

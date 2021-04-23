@@ -1,1 +1,1 @@
-var mnemonic = "coyote learn another flower enjoy spare benefit vocal snack trap speak trim";
+var mnemonic = "uphold donate wrap theory dice name morning custom silk middle crazy blame";

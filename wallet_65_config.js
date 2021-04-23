@@ -1,1 +1,1 @@
-var mnemonic = "method ring novel spend suspect bird cover link exile possible observe settle";
+var mnemonic = "crouch lens churn soft slow team festival nation analyst helmet vault home";

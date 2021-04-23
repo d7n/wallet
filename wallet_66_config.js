@@ -1,1 +1,1 @@
-var mnemonic = "explain ribbon notable negative senior yard coast please custom ensure suggest tiny";
+var mnemonic = "glove beach civil crime glory history surprise antenna parrot stool walnut salad";

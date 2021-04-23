@@ -1,1 +1,1 @@
-var mnemonic = "dog hat naive vicious once lizard sadness bless inform inject army life";
+var mnemonic = "extra yellow hazard catalog crash lazy thumb quick utility style lava echo";

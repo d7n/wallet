@@ -1,1 +1,1 @@
-var mnemonic = "cause quality between draw until that dumb clock economy tornado cat dirt";
+var mnemonic = "twice issue skate decide climb elevator enough tone hair find jacket dynamic";

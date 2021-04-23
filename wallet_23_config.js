@@ -1,1 +1,1 @@
-var mnemonic = "height decrease purpose rally legal virtual oyster habit pride regret safe mask";
+var mnemonic = "forget jewel snap vital slice control sure success skin fog churn wreck";

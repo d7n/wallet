@@ -1,1 +1,1 @@
-var mnemonic = "cycle loyal hospital decline spawn anger language give noise earth key alien";
+var mnemonic = "vote figure cannon victory question badge fiscal hedgehog else creek analyst apple";

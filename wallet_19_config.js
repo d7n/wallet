@@ -1,1 +1,1 @@
-var mnemonic = "public subject planet wide bundle pupil pelican wage sound repair swim dust";
+var mnemonic = "genre upset one panic brief stairs purpose pair duty shell lab ramp";

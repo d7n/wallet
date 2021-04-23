@@ -1,1 +1,1 @@
-var mnemonic = "divorce upset entry volume emotion core expose box mom lens desert foot";
+var mnemonic = "property myth addict bracket velvet short shuffle account journey margin clay unusual";

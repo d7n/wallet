@@ -1,1 +1,1 @@
-var mnemonic = "power hat sustain foot cliff sorry energy aspect ship exit arena weasel";
+var mnemonic = "fame tiny idle rail drama nurse budget skin ensure bid element also";

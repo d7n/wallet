@@ -1,1 +1,1 @@
-var mnemonic = "donkey memory vague final deal focus umbrella waste relief visit lounge supply";
+var mnemonic = "seven audit step digital capable write ticket direct exhaust crew pencil chunk";

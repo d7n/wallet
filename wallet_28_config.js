@@ -1,1 +1,1 @@
-var mnemonic = "friend seven vast crystal guilt add accident denial void wing better arrive";
+var mnemonic = "enrich swear damage subject crucial small punch unfold sustain phone comic embark";

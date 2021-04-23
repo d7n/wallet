@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog annual wagon soft device obvious author energy secret old crazy banner";
+var mnemonic = "bacon accident stool shrug vital trend special brush chimney shine obey pulp";

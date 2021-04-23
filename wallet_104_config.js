@@ -1,1 +1,1 @@
-var mnemonic = "leaf sentence beef fluid fly rescue palm fantasy left sniff position various";
+var mnemonic = "insane leg timber mixed excess exchange fortune round sadness kidney review grocery";

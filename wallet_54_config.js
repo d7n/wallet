@@ -1,1 +1,1 @@
-var mnemonic = "refuse swear always segment caution hood faint culture noble gym luggage dog";
+var mnemonic = "safe daring canoe vehicle chair key useless mountain lab catalog runway similar";

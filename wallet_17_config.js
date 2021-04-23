@@ -1,1 +1,1 @@
-var mnemonic = "lock snap used entry venture night sugar swap move amount radar huge";
+var mnemonic = "wing hello attract million filter approve liberty wage evoke lamp problem celery";

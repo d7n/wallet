@@ -1,1 +1,1 @@
-var mnemonic = "trigger fall over tank patch churn ankle gauge toe height actress garden";
+var mnemonic = "control slide medal dynamic tragic kangaroo poem high agree leg business already";

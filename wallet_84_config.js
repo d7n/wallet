@@ -1,1 +1,1 @@
-var mnemonic = "switch leader canyon person unique error response now pottery street flower coffee";
+var mnemonic = "plastic display tiny stove hotel insect penalty execute axis bench make cash";

@@ -1,1 +1,1 @@
-var mnemonic = "fame cruel flee raw aerobic soft laundry derive illness hub tragic whisper";
+var mnemonic = "quality spin female still bounce glare dinner pool birth cake muscle hurdle";

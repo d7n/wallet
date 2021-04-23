@@ -1,1 +1,1 @@
-var mnemonic = "claw hole diary spider party scale hat prevent left happy sight horror";
+var mnemonic = "symptom mouse chef tragic fury penalty live dawn sweet humor govern grass";

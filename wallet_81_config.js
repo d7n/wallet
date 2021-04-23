@@ -1,1 +1,1 @@
-var mnemonic = "muscle hand stand fiscal interest valley tenant exact celery modify airport claim";
+var mnemonic = "humor scatter cream can trouble hurry lumber square glare maximum miracle noise";

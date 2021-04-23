@@ -1,1 +1,1 @@
-var mnemonic = "foil that burger amused apart ugly mushroom human veteran battle tissue dolphin";
+var mnemonic = "split hidden umbrella silk elegant never dad shuffle gym say nature swamp";

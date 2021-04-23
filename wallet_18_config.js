@@ -1,1 +1,1 @@
-var mnemonic = "crowd limit head taxi twenty shine snake hawk boost miss open source";
+var mnemonic = "nation stove slot tiger same wonder island seed gravity toast pear sport";

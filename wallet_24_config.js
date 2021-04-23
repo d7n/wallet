@@ -1,1 +1,1 @@
-var mnemonic = "umbrella tree ensure skate mesh under song gown poem romance impact borrow";
+var mnemonic = "armed wheat undo ketchup inform will job cup song grid forum lawsuit";

@@ -1,1 +1,1 @@
-var mnemonic = "tissue hard display slight barrel pink junior brisk hover reveal sell arena";
+var mnemonic = "false grit thought drop doll maple essence gun ozone eagle awful stuff";

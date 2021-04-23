@@ -1,1 +1,1 @@
-var mnemonic = "toy gym juice angle lemon day clarify unfold convince mechanic strike crash";
+var mnemonic = "talent zone elder wish audit answer garlic exercise ecology home sail infant";

@@ -1,1 +1,1 @@
-var mnemonic = "excess first brush domain trend bench feel bless monitor dilemma catch small";
+var mnemonic = "mammal prison boat cloth noise legal furnace coast student salad swear divide";

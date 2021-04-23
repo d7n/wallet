@@ -1,1 +1,1 @@
-var mnemonic = "giant tuition axis bleak cat sudden blame auction trial brain clerk real";
+var mnemonic = "lyrics danger silly attend moral edit pottery blast announce ecology month manual";

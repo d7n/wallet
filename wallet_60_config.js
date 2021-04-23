@@ -1,1 +1,1 @@
-var mnemonic = "rebel latin argue pudding pipe bronze vessel upgrade invite ivory recall witness";
+var mnemonic = "matrix journey rapid squirrel chapter attend infant board close clip body gentle";

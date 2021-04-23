@@ -1,1 +1,1 @@
-var mnemonic = "increase actual cliff struggle little rookie practice lumber possible gown enact boat";
+var mnemonic = "coral blanket report school humble supreme sword huge speed buddy custom client";

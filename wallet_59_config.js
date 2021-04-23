@@ -1,1 +1,1 @@
-var mnemonic = "enhance phrase abandon mimic raccoon voyage afford day space bar essence knee";
+var mnemonic = "fly nation autumn float quit memory sadness rival average purse grit jaguar";

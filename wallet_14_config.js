@@ -1,1 +1,1 @@
-var mnemonic = "bless urban extend cry suffer expect sweet marine faint wet loan misery";
+var mnemonic = "dwarf choice puzzle figure borrow route neglect lyrics fan lottery mean combine";

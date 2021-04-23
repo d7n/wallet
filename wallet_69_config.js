@@ -1,1 +1,1 @@
-var mnemonic = "inform oil slush neglect move lobster push filter dry unusual announce rare";
+var mnemonic = "strong float floor avocado broccoli twelve actress eagle effort system panther session";

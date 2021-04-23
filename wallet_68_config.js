@@ -1,1 +1,1 @@
-var mnemonic = "bottom skill someone canal subject ladder crawl that view impose shadow spare";
+var mnemonic = "toy destroy hungry rate puppy hole wrestle robust before jazz cash stable";

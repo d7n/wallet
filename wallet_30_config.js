@@ -1,1 +1,1 @@
-var mnemonic = "below invite danger height frozen pioneer range humble indicate ski globe catch";
+var mnemonic = "cruise drive churn strike rookie common barely mobile sport few pole actress";

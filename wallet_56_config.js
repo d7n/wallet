@@ -1,1 +1,1 @@
-var mnemonic = "train make giggle abstract melt enlist black blouse sock beauty obtain deliver";
+var mnemonic = "orbit market evidence loyal village verify soldier winter ivory crunch rough suggest";

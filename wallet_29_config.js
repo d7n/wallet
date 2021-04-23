@@ -1,1 +1,1 @@
-var mnemonic = "prize useless network scatter rather author awesome ride good sister lyrics style";
+var mnemonic = "dinner weird denial grape wood pioneer lock gloom achieve direct permit oven";

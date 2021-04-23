@@ -1,1 +1,1 @@
-var mnemonic = "just penalty foster exchange shoe festival soccer whisper obtain universe gap argue";
+var mnemonic = "naive cheese endless finger tobacco fiber scissors february practice man summer bachelor";

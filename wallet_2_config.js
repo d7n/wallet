@@ -1,1 +1,1 @@
-var mnemonic = "oxygen spawn blue moon steel boil torch churn ability camp boost coconut";
+var mnemonic = "dumb rule capital enemy pause thing runway deputy pull slender slice gas";

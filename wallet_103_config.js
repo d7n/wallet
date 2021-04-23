@@ -1,1 +1,1 @@
-var mnemonic = "deny move square strike acoustic figure depend today finish bid wool sadness";
+var mnemonic = "phone bag virus lava lucky divorce artefact lounge vacuum spirit term offer";

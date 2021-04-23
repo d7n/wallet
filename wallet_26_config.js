@@ -1,1 +1,1 @@
-var mnemonic = "sense across mule miracle cluster shine hair detail square antique merit peanut";
+var mnemonic = "scene jaguar bag absurd sure this dinosaur lizard auto person able photo";

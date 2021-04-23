@@ -1,1 +1,1 @@
-var mnemonic = "trigger early supreme anxiety elegant void critic cradle explain bundle smoke kitchen";
+var mnemonic = "trend cart during leg puzzle awkward detail brain cool black ill celery";

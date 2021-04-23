@@ -1,1 +1,1 @@
-var mnemonic = "become bring creek globe east rude never congress relax relax frost wing";
+var mnemonic = "quarter clutch toward gadget work limit size proof duck document transfer because";

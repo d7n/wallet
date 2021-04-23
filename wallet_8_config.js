@@ -1,1 +1,1 @@
-var mnemonic = "supreme welcome number humor famous burden quarter claim boat medal taxi beef";
+var mnemonic = "town odor clarify embody nothing dance hunt icon swamp term moon critic";

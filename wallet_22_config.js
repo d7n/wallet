@@ -1,1 +1,1 @@
-var mnemonic = "window champion they machine garage loud brick bike gas someone reopen dance";
+var mnemonic = "leader either celery glove liquid piece absent dose bubble atom agent rabbit";

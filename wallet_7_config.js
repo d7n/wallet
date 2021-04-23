@@ -1,1 +1,1 @@
-var mnemonic = "man dumb tuna credit family knock pitch fossil doll else face luxury";
+var mnemonic = "aerobic income exhibit harbor carbon help soul patch fence desert appear hair";

@@ -1,1 +1,1 @@
-var mnemonic = "circle educate humble abuse inhale maximum law dirt empower amount dust aunt";
+var mnemonic = "bachelor trophy unfold wire various slow fee wine luxury oppose gather start";

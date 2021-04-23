@@ -1,1 +1,1 @@
-var mnemonic = "chapter because dumb find cloud north dry remove nasty filter purchase scout";
+var mnemonic = "price ring hub arch moment sausage autumn involve any rebel father guilt";

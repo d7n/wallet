@@ -1,1 +1,1 @@
-var mnemonic = "slot fatal drama dash fresh slice connect tribe february present walk ship";
+var mnemonic = "quantum rebel action access senior very attack spend guide chicken nest shine";

@@ -1,1 +1,1 @@
-var mnemonic = "receive priority fitness immune announce cry setup offer pause dose vintage depth";
+var mnemonic = "trophy quit food summer funny burden strong dry coil host stadium color";

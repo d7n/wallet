@@ -1,1 +1,1 @@
-var mnemonic = "trick giant copper arena miracle initial net wheat prize hover tackle blur";
+var mnemonic = "enter artwork pair hello recall mail spread mushroom unaware onion acquire shoe";

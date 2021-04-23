@@ -1,1 +1,1 @@
-var mnemonic = "picture brother slight crisp advice mountain harsh zero actual extend such charge";
+var mnemonic = "safe dream oak slab clinic wheel spy ecology dust minor wheat spray";

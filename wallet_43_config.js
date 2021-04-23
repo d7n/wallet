@@ -1,1 +1,1 @@
-var mnemonic = "quality clerk begin clown glove marine wreck avoid foot goddess possible sample";
+var mnemonic = "melt produce squirrel swing sail sort snake indicate session moon photo excess";

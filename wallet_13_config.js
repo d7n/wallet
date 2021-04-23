@@ -1,1 +1,1 @@
-var mnemonic = "accuse speak cute spice tell buffalo health clip depth crew snow glimpse";
+var mnemonic = "forest plunge chaos off gauge desk gentle pair traffic random cheap brave";

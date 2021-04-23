@@ -1,1 +1,1 @@
-var mnemonic = "clinic remove cereal civil void frog approve tuition jewel affair embody differ";
+var mnemonic = "core weather mix letter edit laugh shock skin matter horror delay drastic";

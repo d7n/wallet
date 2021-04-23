@@ -1,1 +1,1 @@
-var mnemonic = "twist photo predict monitor cattle moment exist napkin weird roast milk candy";
+var mnemonic = "pupil ignore language cry loyal ordinary dial range shaft sure filter access";

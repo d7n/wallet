@@ -1,1 +1,1 @@
-var mnemonic = "fog figure ritual bid mutual result auction thumb truly inner timber delay";
+var mnemonic = "gorilla steak field term clock segment ribbon olympic access autumn clean liberty";

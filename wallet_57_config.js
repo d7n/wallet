@@ -1,1 +1,1 @@
-var mnemonic = "grow grace beach engine lion unit clutch purpose sleep across inside glory";
+var mnemonic = "hurry buddy donkey sad spoon merit season easy humor seat ticket ethics";

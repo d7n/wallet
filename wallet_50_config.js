@@ -1,1 +1,1 @@
-var mnemonic = "puzzle hazard south glimpse love group wash soldier expand sleep rug poet";
+var mnemonic = "carry wagon fit dish nature spin noodle achieve piano struggle thrive lock";

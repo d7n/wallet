@@ -1,1 +1,1 @@
-var mnemonic = "symbol genuine only lazy code waste afford rare slight siege shop lady";
+var mnemonic = "brush verify extend stuff master useless employ equip knife stick engine wrong";

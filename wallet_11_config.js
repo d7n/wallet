@@ -1,1 +1,1 @@
-var mnemonic = "that chapter thought weird where laptop very cheese unfold success vehicle local";
+var mnemonic = "tongue lemon unusual approve phone humble write grace sword virtual junk limit";

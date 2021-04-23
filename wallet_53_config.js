@@ -1,1 +1,1 @@
-var mnemonic = "remain cattle hunt matter cart clump armed aerobic guitar chief toss defense";
+var mnemonic = "find edge electric afraid entry again world coral ankle brisk cradle effort";

@@ -1,1 +1,1 @@
-var mnemonic = "palm arrest uncle life search owner laptop sick arm cricket credit know";
+var mnemonic = "frown walk purity brother awful poet trophy middle mango sign attitude flee";

@@ -1,1 +1,1 @@
-var mnemonic = "saddle sound pretty rib output wrong stay cotton decline tired pen cabbage";
+var mnemonic = "sudden better food asthma kick trend jewel nest message danger brown client";

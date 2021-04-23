@@ -1,1 +1,1 @@
-var mnemonic = "duck husband address scene humor north regular crew frown enter expire sting";
+var mnemonic = "bulb color life hard swim slab stumble around off unit satoshi pigeon";
