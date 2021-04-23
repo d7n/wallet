@@ -1,1 +1,1 @@
-var mnemonic = "purity effort essence blur medal spot gasp floor useful census rally size";
+var mnemonic = "nasty journey job dragon soccer cluster six absurd avocado digital label social";

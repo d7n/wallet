@@ -1,1 +1,1 @@
-var mnemonic = "another undo hunt imitate edge thunder put safe fire wink broccoli shoot";
+var mnemonic = "two message timber ice shy right pass replace pizza injury wrist flower";

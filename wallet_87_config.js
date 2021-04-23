@@ -1,1 +1,1 @@
-var mnemonic = "pizza honey frequent toward toilet poverty hat void witness lottery spare salute";
+var mnemonic = "spend grab explain believe degree banner icon brass goose best mail any";

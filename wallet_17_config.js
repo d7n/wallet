@@ -1,1 +1,1 @@
-var mnemonic = "memory modify hidden talent mad glove valve neglect soda brand certain wrestle";
+var mnemonic = "panel super acid shift travel thunder elite shoe coconut spin cash close";

@@ -1,1 +1,1 @@
-var mnemonic = "wrong train saddle release abuse arrive phone scrub one rate stove youth";
+var mnemonic = "awesome monster celery sure afford clean float undo shadow grant trumpet aware";

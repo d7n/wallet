@@ -1,1 +1,1 @@
-var mnemonic = "deal clarify stomach across lunar leave increase system jaguar cheap embark wrestle";
+var mnemonic = "salute drastic similar hero bulk bridge remind aspect area exact slush mind";

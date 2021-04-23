@@ -1,1 +1,1 @@
-var mnemonic = "siren mandate stand abuse left auction robust assault village plug meat entry";
+var mnemonic = "lab coral profit mixture seat effort blossom morning sweet meadow friend payment";

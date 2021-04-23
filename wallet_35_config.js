@@ -1,1 +1,1 @@
-var mnemonic = "rare orphan seed guess ugly retreat kick banana party artwork beauty liquid";
+var mnemonic = "mix only garage morning auction feel dentist payment giraffe fragile cruise argue";

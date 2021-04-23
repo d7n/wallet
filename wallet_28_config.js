@@ -1,1 +1,1 @@
-var mnemonic = "announce ball evil various elite track art mesh early awful angry market";
+var mnemonic = "immense fame bleak initial cloud prosper tragic steel latin analyst camera dignity";

@@ -1,1 +1,1 @@
-var mnemonic = "include initial polar sketch lobster gold regret hope client scheme ask draw";
+var mnemonic = "crazy swap snow wish garage divert song kit minimum ticket sting unveil";

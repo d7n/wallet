@@ -1,1 +1,1 @@
-var mnemonic = "artwork alcohol hotel enemy youth around robust genius once resemble crouch fade";
+var mnemonic = "husband asset orchard club rack kit pioneer where join improve size bullet";

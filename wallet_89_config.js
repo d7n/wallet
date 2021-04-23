@@ -1,1 +1,1 @@
-var mnemonic = "heavy nose sort fuel fix siren soup quality report race bounce earth";
+var mnemonic = "current twice host business render people issue involve armor urban equal gloom";

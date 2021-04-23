@@ -1,1 +1,1 @@
-var mnemonic = "dentist hold slab tiger essence dinner local absurd scorpion apology abandon pave";
+var mnemonic = "test scheme surprise turtle kingdom flush soul royal when like loud skill";

@@ -1,1 +1,1 @@
-var mnemonic = "service popular unknown this route wedding tourist worth peace shallow case inform";
+var mnemonic = "two elevator ladder shell track whip forget october supply memory rule crowd";

@@ -1,1 +1,1 @@
-var mnemonic = "mammal velvet recycle sauce estate comfort horse fame bag help bachelor margin";
+var mnemonic = "razor equal swallow bacon type giggle fox million trap upper bring smart";

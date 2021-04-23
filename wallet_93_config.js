@@ -1,1 +1,1 @@
-var mnemonic = "sentence fee volume short moment twin sell trouble flip rival put spider";
+var mnemonic = "fee spy fence future wheel outdoor mean chair cheese dish journey light";

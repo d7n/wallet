@@ -1,1 +1,1 @@
-var mnemonic = "laugh spot review nose wrap moral hair grief year arena rifle suspect";
+var mnemonic = "define program call mushroom copy sustain lava sadness bracket end fold orange";

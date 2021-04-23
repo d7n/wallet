@@ -1,1 +1,1 @@
-var mnemonic = "only affair cigar able jar salt index burst pill jar acid solar";
+var mnemonic = "spawn donkey save inspire plate digital wasp follow account assist turtle betray";

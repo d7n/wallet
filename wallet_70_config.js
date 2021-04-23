@@ -1,1 +1,1 @@
-var mnemonic = "vehicle surround oblige boss silk speed grant rib student improve uphold ethics";
+var mnemonic = "urge sweet laptop mammal tell toilet track elegant middle rapid must fitness";

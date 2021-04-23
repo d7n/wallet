@@ -1,1 +1,1 @@
-var mnemonic = "mosquito weather ketchup knife view admit economy blind brisk million merry bracket";
+var mnemonic = "truck clown verb tomorrow powder sleep crunch pole stomach kick congress humble";

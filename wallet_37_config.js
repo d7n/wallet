@@ -1,1 +1,1 @@
-var mnemonic = "express disease attitude dawn debris crane insect real since shine shop hobby";
+var mnemonic = "spider gravity water joke wire regular sound people place escape rural casual";

@@ -1,1 +1,1 @@
-var mnemonic = "report body shock diary material grid category motion outside regular negative shell";
+var mnemonic = "cupboard spin traffic infant around peanut second tortoise coil collect whale alcohol";

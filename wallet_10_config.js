@@ -1,1 +1,1 @@
-var mnemonic = "copper muscle warm essay lyrics zero waste walnut safe favorite cruel absent";
+var mnemonic = "wave chaos inject during sport weapon thunder involve range choice rate toy";

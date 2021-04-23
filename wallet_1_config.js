@@ -1,1 +1,1 @@
-var mnemonic = "lyrics federal aerobic tackle deposit fine job atom digital display attend sister";
+var mnemonic = "milk dentist unusual grass cradle emotion bird require gauge squirrel color mango";

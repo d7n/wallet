@@ -1,1 +1,1 @@
-var mnemonic = "pupil release wash weapon maze insane nation desk under subway scout reflect";
+var mnemonic = "fetch mail route jazz scorpion crack pottery poverty soul month step medal";

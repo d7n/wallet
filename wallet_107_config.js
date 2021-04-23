@@ -1,1 +1,1 @@
-var mnemonic = "village domain congress announce below clutch badge owner angry adult rocket badge";
+var mnemonic = "position foot useful truck cloud person input van crisp ecology undo heavy";

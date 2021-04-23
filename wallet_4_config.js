@@ -1,1 +1,1 @@
-var mnemonic = "next general divorce survey local pulp leader attitude abstract dinosaur panel proud";
+var mnemonic = "donkey unusual color gadget elite second attract match bronze roof lion remain";

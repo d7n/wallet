@@ -1,1 +1,1 @@
-var mnemonic = "liquid monster lyrics elder swear lonely fuel inside exclude victory mango garden";
+var mnemonic = "buzz attitude clap egg diesel broom address initial unveil actual humor best";

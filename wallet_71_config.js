@@ -1,1 +1,1 @@
-var mnemonic = "hard oxygen crawl pipe attract bid observe ethics this tower club woman";
+var mnemonic = "absorb cage jump cause deny jelly perfect virtual sadness extend wall curve";

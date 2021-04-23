@@ -1,1 +1,1 @@
-var mnemonic = "bless change fashion energy lens still narrow auto iron focus green afraid";
+var mnemonic = "filter color tobacco sheriff pulp pact age pioneer tired ensure armed pear";

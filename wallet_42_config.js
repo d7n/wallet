@@ -1,1 +1,1 @@
-var mnemonic = "grant butter demise chunk essay nothing there jar stem situate execute start";
+var mnemonic = "snack fatal term wife casual emerge misery symbol profit fit negative this";

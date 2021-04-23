@@ -1,1 +1,1 @@
-var mnemonic = "goddess roast range tragic sketch strategy cotton gossip rack coral symbol laundry";
+var mnemonic = "attend price simple basic earn way educate dwarf repair barely minute wreck";

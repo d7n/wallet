@@ -1,1 +1,1 @@
-var mnemonic = "wish word siege salmon super involve flavor wife stove brisk age spread";
+var mnemonic = "leg meadow panda flock fiscal candy stairs rose laugh word pluck atom";

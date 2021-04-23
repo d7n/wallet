@@ -1,1 +1,1 @@
-var mnemonic = "fringe awful improve cigar seminar play document dynamic wagon announce ladder parrot";
+var mnemonic = "suspect legend letter chaos rubber dad argue huge dust cabin coral sail";

@@ -1,1 +1,1 @@
-var mnemonic = "work crew vehicle also convince exercise organ glove crater frequent notable divide";
+var mnemonic = "color fluid gather where basic grunt fruit human shy oven match exile";

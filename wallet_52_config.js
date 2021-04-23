@@ -1,1 +1,1 @@
-var mnemonic = "thrive solar degree injury student eternal present paddle disagree frost annual butter";
+var mnemonic = "income hold heavy calm cabbage enter danger canyon great cause suspect risk";

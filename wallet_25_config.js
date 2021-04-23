@@ -1,1 +1,1 @@
-var mnemonic = "local apart biology maximum sponsor shuffle right river company risk motion limit";
+var mnemonic = "response reunion sleep stomach various virus venture question forget expect mouse bronze";

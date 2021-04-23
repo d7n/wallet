@@ -1,1 +1,1 @@
-var mnemonic = "point pole inquiry chalk december action hint mushroom sting sort myself taxi";
+var mnemonic = "gold ginger aunt order jelly sphere destroy hungry gate attend young chest";

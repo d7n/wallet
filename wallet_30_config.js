@@ -1,1 +1,1 @@
-var mnemonic = "stem top air gallery spare vessel swim exist topple gift trick easy";
+var mnemonic = "minor convince erase book reject draft total shiver music merry elephant whip";

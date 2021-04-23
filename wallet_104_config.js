@@ -1,1 +1,1 @@
-var mnemonic = "rule suffer pilot ribbon cupboard plunge guard quote nephew canal mind entry";
+var mnemonic = "pave appear shop equip another duck chat output atom plug actor sibling";

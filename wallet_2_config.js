@@ -1,1 +1,1 @@
-var mnemonic = "sick tiny antenna clown soul divert save subway hover resemble media drill";
+var mnemonic = "crouch dawn change myth risk divide basket paddle iron crouch smoke battle";

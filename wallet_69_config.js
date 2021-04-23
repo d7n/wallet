@@ -1,1 +1,1 @@
-var mnemonic = "fury nothing stool theme lesson sure refuse true display orbit base view";
+var mnemonic = "army neck wrestle dinosaur artist fuel voice people crew various bag moon";

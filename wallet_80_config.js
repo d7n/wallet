@@ -1,1 +1,1 @@
-var mnemonic = "guitar apology vicious common movie cradle sing govern upper pistol expand group";
+var mnemonic = "wild error diet soda history pair fly machine sponsor current illegal blame";

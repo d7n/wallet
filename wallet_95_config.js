@@ -1,1 +1,1 @@
-var mnemonic = "clown check crouch click boy chase job habit inspire cherry ivory execute";
+var mnemonic = "crop long crisp boss cattle rib wet snake recall disorder thank flag";

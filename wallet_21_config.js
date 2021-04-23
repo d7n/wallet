@@ -1,1 +1,1 @@
-var mnemonic = "blast what shoulder decline satisfy olympic curve nerve grab thunder fatigue wait";
+var mnemonic = "tide pact spend vessel input alone outside erosion local believe rose month";

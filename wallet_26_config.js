@@ -1,1 +1,1 @@
-var mnemonic = "person sudden safe pioneer camera grace tragic hard embrace glide hold expect";
+var mnemonic = "elbow deer sweet tattoo unveil body you denial you rough render asthma";

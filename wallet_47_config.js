@@ -1,1 +1,1 @@
-var mnemonic = "sadness famous slogan fragile penalty client divide stadium rug expand add iron";
+var mnemonic = "wife scale sketch casual curve fish expire option treat quit teach ask";

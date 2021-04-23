@@ -1,1 +1,1 @@
-var mnemonic = "tissue soap afford shell ancient walk public rug scare track milk sample";
+var mnemonic = "foam stomach grunt skate brick cushion fade faint bench stove cotton few";

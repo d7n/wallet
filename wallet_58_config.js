@@ -1,1 +1,1 @@
-var mnemonic = "betray collect tongue bacon achieve arm curve traffic exit grief mansion fine";
+var mnemonic = "lift shed access prefer swap husband spice today mad marine rice dove";

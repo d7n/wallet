@@ -1,1 +1,1 @@
-var mnemonic = "deal deposit borrow dial miss raccoon health insect tattoo purpose walnut elder";
+var mnemonic = "bean carry life heart beach pride school oval slow unable flower relief";

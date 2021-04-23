@@ -1,1 +1,1 @@
-var mnemonic = "ocean one conduct poverty pioneer stereo turtle wealth wheel display supply other";
+var mnemonic = "chase horror weapon jazz latin tenant turtle liar throw nose deer oval";

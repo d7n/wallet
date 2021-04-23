@@ -1,1 +1,1 @@
-var mnemonic = "decide museum fun emotion dose galaxy pencil anchor ceiling ribbon december prosper";
+var mnemonic = "outer sight shield planet jungle original hazard gun snake recall sudden smoke";

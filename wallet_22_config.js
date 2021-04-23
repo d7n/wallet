@@ -1,1 +1,1 @@
-var mnemonic = "protect palm search knee crunch deal faculty victory mix cotton fat settle";
+var mnemonic = "govern gaze attack secret task eyebrow project mystery wedding violin judge hedgehog";

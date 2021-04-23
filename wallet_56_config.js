@@ -1,1 +1,1 @@
-var mnemonic = "swift short panic like cargo maid dice sister pride lounge bubble material";
+var mnemonic = "cabbage song similar ignore figure volcano today mimic peace flame core way";

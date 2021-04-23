@@ -1,1 +1,1 @@
-var mnemonic = "narrow pulse truly type rely chicken mountain return hill fashion garbage question";
+var mnemonic = "hundred sudden mesh argue live half tired north jump sock walk upset";

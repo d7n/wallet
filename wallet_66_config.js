@@ -1,1 +1,1 @@
-var mnemonic = "subway palace oak cross rubber barrel link slim trash crash shield lecture";
+var mnemonic = "pattern cycle royal impose garlic bleak antenna shop strong regret early scorpion";

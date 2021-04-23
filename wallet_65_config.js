@@ -1,1 +1,1 @@
-var mnemonic = "alcohol april lens gain snap fit metal sword owner van brain man";
+var mnemonic = "local unit nasty rose tent forest typical mansion lobster ill marble glue";

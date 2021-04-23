@@ -1,1 +1,1 @@
-var mnemonic = "banner buddy expand gauge couch always taste end picnic minor sight quote";
+var mnemonic = "lobster middle olympic chest double wife analyst reason figure album pitch tennis";

@@ -1,1 +1,1 @@
-var mnemonic = "service fabric honey student poverty impact flame office tray present mother mom";
+var mnemonic = "mirror frog trick thunder dismiss return frequent beyond tattoo sign slam hen";

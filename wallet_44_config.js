@@ -1,1 +1,1 @@
-var mnemonic = "civil camp front hood dose army gossip divert alarm fire planet thought";
+var mnemonic = "unhappy odor wood scrub inch spot caught web visual cry under hammer";

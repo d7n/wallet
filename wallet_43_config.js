@@ -1,1 +1,1 @@
-var mnemonic = "runway explain shoulder wealth bomb ritual urge ostrich eternal opinion pepper gas";
+var mnemonic = "across bleak sunny inquiry pledge also true goddess inflict beach gift toddler";

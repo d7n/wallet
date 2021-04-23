@@ -1,1 +1,1 @@
-var mnemonic = "leaf toe chuckle friend flower lizard festival random sell then eyebrow female";
+var mnemonic = "guess luggage uphold skull life silly escape knife soda solid breeze citizen";

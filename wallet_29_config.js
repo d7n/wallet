@@ -1,1 +1,1 @@
-var mnemonic = "copy stock nasty fatal amount oblige service despair leaf tackle eternal text";
+var mnemonic = "brown please length cheese scan embark grab injury ensure alter infant busy";

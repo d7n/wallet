@@ -1,1 +1,1 @@
-var mnemonic = "jelly erode spell velvet welcome reopen afford parade toss huge modify great";
+var mnemonic = "drip enlist roast grocery suggest world coyote decorate six relief brain vintage";

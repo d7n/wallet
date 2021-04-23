@@ -1,1 +1,1 @@
-var mnemonic = "mimic adapt wet neck cloud manage flavor circle emerge want remain sound";
+var mnemonic = "vague skull jealous supply boat deal satoshi change novel globe boost trial";

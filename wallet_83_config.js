@@ -1,1 +1,1 @@
-var mnemonic = "harsh blood blue never trust rebuild pretty sure problem mystery soccer boat";
+var mnemonic = "current mirror afraid amount together remain spray such angle sudden season oblige";

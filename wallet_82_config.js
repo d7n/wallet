@@ -1,1 +1,1 @@
-var mnemonic = "blade sugar involve mobile solve tank fitness they misery dry maple punch";
+var mnemonic = "lady noodle school muffin invite castle real pulse face eager print slender";

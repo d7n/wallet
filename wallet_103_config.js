@@ -1,1 +1,1 @@
-var mnemonic = "cabbage machine lazy spread leopard supreme sand puzzle luxury remain planet observe";
+var mnemonic = "drill cargo crawl soon office industry marine elephant husband scare can curve";

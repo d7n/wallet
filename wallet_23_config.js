@@ -1,1 +1,1 @@
-var mnemonic = "globe loop burst add diesel tenant salad marriage physical episode ensure admit";
+var mnemonic = "scrap cram future differ cloud core curious dream hat fox march question";

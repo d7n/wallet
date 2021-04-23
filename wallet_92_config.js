@@ -1,1 +1,1 @@
-var mnemonic = "history staff drift tunnel place advice maze amazing essence prosper clutch ketchup";
+var mnemonic = "denial crane define verify chest shoot shrimp lawsuit bargain entire depart volcano";

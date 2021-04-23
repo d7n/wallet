@@ -1,1 +1,1 @@
-var mnemonic = "crater shallow wing dwarf jaguar rival patient snap wolf view lawsuit noise";
+var mnemonic = "phrase enrich purchase dish amount detect cactus crisp brass easily tray copper";

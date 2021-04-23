@@ -1,1 +1,1 @@
-var mnemonic = "slogan quote add response copy crime answer head damp supply swim weird";
+var mnemonic = "lumber stick plate perfect tonight spin they ostrich insane burger have okay";

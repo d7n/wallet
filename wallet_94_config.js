@@ -1,1 +1,1 @@
-var mnemonic = "edge nice toe drip census mobile expand tired neither flee win witness";
+var mnemonic = "junior aspect fault that always section glad replace work network half gap";

@@ -1,1 +1,1 @@
-var mnemonic = "task evoke pet brain pole hour barrel decide surround mix surface despair";
+var mnemonic = "shiver best peanut firm liquid trigger inside cup cereal novel depth raven";

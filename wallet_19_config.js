@@ -1,1 +1,1 @@
-var mnemonic = "runway topple loyal coil fitness cradle expire place clerk matrix border embrace";
+var mnemonic = "worry aim popular novel detect trouble potato garage fossil clap organ horn";

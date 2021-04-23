@@ -1,1 +1,1 @@
-var mnemonic = "night blade web concert hand settle almost ability night episode citizen seek";
+var mnemonic = "bless claim glue faith latin west dune despair leisure recycle supply cost";

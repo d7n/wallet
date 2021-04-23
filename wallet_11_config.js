@@ -1,1 +1,1 @@
-var mnemonic = "obtain radar essence quarter onion sea adult animal outside detect easy butter";
+var mnemonic = "shift theory admit rich right evil picture fancy chaos build need math";

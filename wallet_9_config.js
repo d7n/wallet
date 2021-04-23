@@ -1,1 +1,1 @@
-var mnemonic = "atom deer alpha cause truly write lizard ramp humble play unfair rhythm";
+var mnemonic = "surround broom daring gift virtual physical pyramid tattoo best broom smoke off";

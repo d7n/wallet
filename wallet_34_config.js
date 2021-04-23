@@ -1,1 +1,1 @@
-var mnemonic = "fever copy pyramid bacon cabin cereal junior hat sudden palm van size";
+var mnemonic = "subject mail seminar parent height matter armor trade real soup foam worry";

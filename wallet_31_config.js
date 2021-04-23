@@ -1,1 +1,1 @@
-var mnemonic = "supreme orange step bottom diagram extra bench turtle mosquito atom carbon pudding";
+var mnemonic = "review later neither acoustic gloom bracket hello whip luxury cement detail tail";

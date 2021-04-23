@@ -1,1 +1,1 @@
-var mnemonic = "course farm deer reward giggle deal account kitten inspire style girl crack";
+var mnemonic = "embody cradle swarm music dignity moral dinner onion pond bulk water lava";

@@ -1,1 +1,1 @@
-var mnemonic = "master install stick health divert layer fetch crime fat proof tiger rent";
+var mnemonic = "spice length side orchard bamboo sort old enroll order trade choose combine";

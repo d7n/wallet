@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit puppy romance pottery pitch liberty expose version wife kangaroo proud rail";
+var mnemonic = "same history sudden stove lottery spot seed sugar vacant safe liberty finger";

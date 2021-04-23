@@ -1,1 +1,1 @@
-var mnemonic = "patrol debate dress short erode glide mandate sound situate attitude engine idea";
+var mnemonic = "surge sunset chicken useless identify slab opera wedding idle amused brush robust";

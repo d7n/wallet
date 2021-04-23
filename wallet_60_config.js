@@ -1,1 +1,1 @@
-var mnemonic = "taste advice excuse liquid reject legal gate pretty equal cheese jewel student";
+var mnemonic = "globe lake grass resist cancel harvest empty stadium glad derive latin flag";

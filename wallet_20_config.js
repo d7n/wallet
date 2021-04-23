@@ -1,1 +1,1 @@
-var mnemonic = "spice history slow fluid rebel auction there belt heart almost step clip";
+var mnemonic = "very neutral quarter sibling traffic finger museum hover risk couple summer cause";

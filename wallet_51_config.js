@@ -1,1 +1,1 @@
-var mnemonic = "immune frequent monkey vintage science scissors case sunny parent begin dumb cry";
+var mnemonic = "seat canyon cattle absent unique immune edit tent guitar time fox skull";

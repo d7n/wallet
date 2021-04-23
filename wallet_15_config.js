@@ -1,1 +1,1 @@
-var mnemonic = "seek alcohol present horror eyebrow welcome share cable crisp topic shed april";
+var mnemonic = "outdoor alcohol matter account funny proof toe client truly genuine what raccoon";
