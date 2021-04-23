@@ -1,1 +1,1 @@
-var mnemonic = "peanut scrap club wing maid among purpose foster bid debate balance seminar";
+var mnemonic = "absent absent walnut phone hill hollow tower federal palm unlock video symbol";

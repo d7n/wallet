@@ -1,1 +1,1 @@
-var mnemonic = "soft teach evolve symbol curious inject cattle deputy faint depth equal october";
+var mnemonic = "local solid jeans helmet secret direct police material local famous daughter bar";

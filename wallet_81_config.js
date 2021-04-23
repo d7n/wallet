@@ -1,1 +1,1 @@
-var mnemonic = "raven embody tail drum expand frost rich cloth speak curtain web erase";
+var mnemonic = "page stuff jacket audit machine section kingdom field metal sunset camera lens";

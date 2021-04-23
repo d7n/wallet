@@ -1,1 +1,1 @@
-var mnemonic = "monkey dance since jacket pony season lava uphold photo now draw mouse";
+var mnemonic = "chunk poet ramp coast amount hotel pave laundry wrap since square parrot";

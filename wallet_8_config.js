@@ -1,1 +1,1 @@
-var mnemonic = "spin reunion sure bulk letter best idle panic hammer slot roast below";
+var mnemonic = "pole muscle sauce laundry skate candy curtain citizen attract always prepare letter";

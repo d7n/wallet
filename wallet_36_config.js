@@ -1,1 +1,1 @@
-var mnemonic = "issue float morning donor assist exhibit predict best govern bundle company client";
+var mnemonic = "flee flush zoo old rebuild option fold assume matrix margin love urge";

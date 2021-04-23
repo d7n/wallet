@@ -1,1 +1,1 @@
-var mnemonic = "obey warfare crucial shield donate forward turn worth latin rural false vacuum";
+var mnemonic = "panel limit cross office blade school auto win roof music hold tide";

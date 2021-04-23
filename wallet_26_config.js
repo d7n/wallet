@@ -1,1 +1,1 @@
-var mnemonic = "maid boat author seed affair reject artefact curve raven unlock often rather";
+var mnemonic = "history network scout essay town car second harsh casino anxiety journey tunnel";

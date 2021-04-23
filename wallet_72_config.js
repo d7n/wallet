@@ -1,1 +1,1 @@
-var mnemonic = "curious cycle sweet wedding prefer album casino use surface year income real";
+var mnemonic = "home tilt razor crush favorite wise reward token claim punch noble interest";

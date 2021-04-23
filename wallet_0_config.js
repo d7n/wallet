@@ -1,1 +1,1 @@
-var mnemonic = "certain burden orchard clump pull payment guilt north category agree calm fever";
+var mnemonic = "mind gasp chest diamond reveal dice moral cherry trust tribe write sleep";

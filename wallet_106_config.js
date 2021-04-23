@@ -1,1 +1,1 @@
-var mnemonic = "decade option orange leave enlist undo blue organ excuse sponsor honey lake";
+var mnemonic = "dial series quit present trigger away leave stick picnic pulp leopard host";

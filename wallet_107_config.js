@@ -1,1 +1,1 @@
-var mnemonic = "unknown rebel globe window double beyond fix witness reveal current announce injury";
+var mnemonic = "quiz attack target hurt family yard fiber emotion donkey door crazy tribe";

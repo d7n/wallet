@@ -1,1 +1,1 @@
-var mnemonic = "skate require appear strategy aspect feel bean camp cabbage enjoy reflect denial";
+var mnemonic = "lazy embrace income evoke office occur knee jar usage song stove guide";

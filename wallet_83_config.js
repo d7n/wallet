@@ -1,1 +1,1 @@
-var mnemonic = "truth border tray slogan resource tuna place author inside annual decrease math";
+var mnemonic = "public enact awake cake dial letter leopard crew stereo shock improve water";

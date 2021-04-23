@@ -1,1 +1,1 @@
-var mnemonic = "column erupt human spawn shaft bright excuse random mammal grunt magic spike";
+var mnemonic = "image beef glare harbor tide possible invite century input unhappy express senior";

@@ -1,1 +1,1 @@
-var mnemonic = "olympic tattoo gloom must must learn around chase draft unhappy bulk cannon";
+var mnemonic = "obscure point ill sketch acquire spoon plunge mushroom thing want frozen dragon";

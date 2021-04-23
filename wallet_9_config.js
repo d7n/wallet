@@ -1,1 +1,1 @@
-var mnemonic = "clerk gauge beauty basket eternal famous bright prefer scheme injury oyster slam";
+var mnemonic = "other permit coral visit session super bunker rubber chimney pond bid lizard";

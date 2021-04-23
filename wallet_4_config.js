@@ -1,1 +1,1 @@
-var mnemonic = "warrior initial skirt egg unknown group trick enforce chapter dragon oval million";
+var mnemonic = "elevator basket notice coach layer notice extra manage load bonus yard wood";

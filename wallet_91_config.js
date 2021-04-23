@@ -1,1 +1,1 @@
-var mnemonic = "motion indoor pass reason side rare symptom inherit double reunion empower obvious";
+var mnemonic = "bulk hedgehog upset thank legal rookie local member hedgehog buddy path elite";

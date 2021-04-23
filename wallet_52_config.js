@@ -1,1 +1,1 @@
-var mnemonic = "stumble few quote thought walk wide access industry toward true egg tray";
+var mnemonic = "amateur truck glare master glide program maid mixed certain capable race fever";

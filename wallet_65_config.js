@@ -1,1 +1,1 @@
-var mnemonic = "fiscal drive ranch priority energy release tiny goose again attract need bike";
+var mnemonic = "own skull shell jaguar blood episode icon exact raccoon edge witness fall";

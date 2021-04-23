@@ -1,1 +1,1 @@
-var mnemonic = "follow novel vital hurry silly any pipe spatial know music spend wolf";
+var mnemonic = "rigid crash jealous carpet voice entire object misery safe damp surface gaze";

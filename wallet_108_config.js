@@ -1,1 +1,1 @@
-var mnemonic = "surround elevator produce yellow bottom twelve portion very fee street second grass";
+var mnemonic = "believe trophy rotate talent truly canyon clay forum pottery nuclear neglect enforce";

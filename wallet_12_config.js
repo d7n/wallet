@@ -1,1 +1,1 @@
-var mnemonic = "lounge table account vicious cruel mansion chalk hero knife loud busy police";
+var mnemonic = "brain divide poet pigeon abandon lunch win wet praise scare merry churn";

@@ -1,1 +1,1 @@
-var mnemonic = "ecology expire force pink century uncle attend spoon canyon door cement abstract";
+var mnemonic = "guess empty nut half present amazing economy aunt find hamster august artwork";

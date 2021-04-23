@@ -1,1 +1,1 @@
-var mnemonic = "oyster firm coyote accident fiber include joke apart hollow pepper object stuff";
+var mnemonic = "target main stool crater post garlic mistake crash link duty slim quarter";

@@ -1,1 +1,1 @@
-var mnemonic = "sting invest mechanic pioneer small wonder off boss walk swarm banana sword";
+var mnemonic = "pottery kind swallow luggage pill bachelor bonus tenant leader spell chair inject";

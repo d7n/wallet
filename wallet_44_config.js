@@ -1,1 +1,1 @@
-var mnemonic = "warrior nurse slim drill struggle sphere occur build gym rebuild cloth omit";
+var mnemonic = "pond cupboard myth exile soldier jealous obey annual hold behind desk another";

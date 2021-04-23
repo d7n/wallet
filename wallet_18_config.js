@@ -1,1 +1,1 @@
-var mnemonic = "acoustic ostrich property depart patch uncover diary pink turtle total parrot moment";
+var mnemonic = "phone body steel amount bag stay boil artwork receive grace earn child";

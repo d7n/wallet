@@ -1,1 +1,1 @@
-var mnemonic = "match special planet ring gas bird garbage tourist spoon whisper spice amount";
+var mnemonic = "portion daring jaguar venture awesome silly garbage volume divert calm real fruit";

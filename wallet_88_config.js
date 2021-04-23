@@ -1,1 +1,1 @@
-var mnemonic = "primary umbrella march half ocean weather six marriage system danger kid patrol";
+var mnemonic = "page ordinary cement find spatial dust agent person where vintage wheel grid";

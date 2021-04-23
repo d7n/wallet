@@ -1,1 +1,1 @@
-var mnemonic = "express outer device naive choose cluster cargo chef muscle canoe rapid piece";
+var mnemonic = "claim defy devote carbon marine lonely suffer alter banner dinner hunt depart";

@@ -1,1 +1,1 @@
-var mnemonic = "mother skin proud certain shed canoe eagle toss all citizen cart radar";
+var mnemonic = "bachelor emotion asthma hazard liar trim siren salad attitude valley ketchup polar";

@@ -1,1 +1,1 @@
-var mnemonic = "bitter attend horse program alter decline code rubber point between assume useless";
+var mnemonic = "sausage stage ready custom puzzle boil antique quarter slow wide right goat";

@@ -1,1 +1,1 @@
-var mnemonic = "wage sweet embark now youth warm chef tree arm inner aspect excess";
+var mnemonic = "strike law deposit deputy garden few shiver fiber ripple gentle vast river";

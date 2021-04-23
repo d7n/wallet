@@ -1,1 +1,1 @@
-var mnemonic = "congress actor message relief bubble best vast clap industry bright moon fancy";
+var mnemonic = "mimic buddy organ hungry cave federal story goddess robust split trip verb";

@@ -1,1 +1,1 @@
-var mnemonic = "either cat coyote upper scout fiber gym bachelor club drill devote smoke";
+var mnemonic = "coconut easy exchange dad balance december bring family congress resource food oxygen";

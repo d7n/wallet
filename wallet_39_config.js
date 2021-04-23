@@ -1,1 +1,1 @@
-var mnemonic = "useful another timber riot water dinner dolphin afraid version reveal cliff portion";
+var mnemonic = "cattle topple require trash device canal knock submit echo erupt identify jar";

@@ -1,1 +1,1 @@
-var mnemonic = "guilt radar often scheme shed inmate confirm blush slight industry forest buzz";
+var mnemonic = "child wonder labor very lawn arrange stomach dynamic silver hammer fire odor";

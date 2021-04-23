@@ -1,1 +1,1 @@
-var mnemonic = "orange jaguar rigid apple tenant often mail large coyote taxi story advice";
+var mnemonic = "misery believe coconut board hip fringe reduce churn worth about sausage fetch";

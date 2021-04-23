@@ -1,1 +1,1 @@
-var mnemonic = "shy spoil install like camera punch item dune reflect beef scene symbol";
+var mnemonic = "boy fly turn emerge blade survey field torch flip fever shuffle donor";

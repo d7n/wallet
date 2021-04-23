@@ -1,1 +1,1 @@
-var mnemonic = "ginger acquire usual track then cheap claim cigar book grant upgrade hip";
+var mnemonic = "gate cupboard cigar pool honey garment jar waste cinnamon film arrive clerk";

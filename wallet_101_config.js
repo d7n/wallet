@@ -1,1 +1,1 @@
-var mnemonic = "rely galaxy spread appear betray vehicle tired donate hurry north leaf kiss";
+var mnemonic = "gate skull reason cash also night device pen indicate verify machine parrot";

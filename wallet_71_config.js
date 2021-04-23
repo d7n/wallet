@@ -1,1 +1,1 @@
-var mnemonic = "patient can path margin kick attitude obscure parade lounge worth life drastic";
+var mnemonic = "brief nominee crazy surprise cushion bomb fringe current stay canoe property pave";

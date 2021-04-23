@@ -1,1 +1,1 @@
-var mnemonic = "trick surge razor core soul aerobic term glove finger movie legend hand";
+var mnemonic = "tourist happy peasant bargain hedgehog waste grit blanket fashion either conduct next";

@@ -1,1 +1,1 @@
-var mnemonic = "cram problem stuff sail leaf radio friend remember blue tissue milk apple";
+var mnemonic = "detect north uncover erosion guide ticket aware bless finish mind husband core";

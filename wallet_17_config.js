@@ -1,1 +1,1 @@
-var mnemonic = "quiz mistake theory world drill retire exotic elegant steak warm tattoo city";
+var mnemonic = "unknown frozen sad march body summer sign expect brave atom wrong where";

@@ -1,1 +1,1 @@
-var mnemonic = "access regret inmate horn result fox action rug cycle bulk cause say";
+var mnemonic = "access useless harsh saddle reunion aim quick pilot mystery renew duck idle";

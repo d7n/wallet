@@ -1,1 +1,1 @@
-var mnemonic = "crane hammer hockey dream diesel force wife remain hire train narrow level";
+var mnemonic = "dolphin unit render fatal smart eternal stuff dinosaur cousin coin guard absent";

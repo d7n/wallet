@@ -1,1 +1,1 @@
-var mnemonic = "liberty liar proud raven chimney march this impulse power jar awkward owner";
+var mnemonic = "umbrella news shiver shine novel chapter first swap sense settle sure wreck";

@@ -1,1 +1,1 @@
-var mnemonic = "love eyebrow floor tongue motor connect frost error shiver version scene column";
+var mnemonic = "history admit black arrow sorry seat large video mixture joke pigeon nerve";

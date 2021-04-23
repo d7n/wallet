@@ -1,1 +1,1 @@
-var mnemonic = "shock lend session exercise cinnamon leaf item infant kitten hollow luggage couch";
+var mnemonic = "sentence proud ramp then average income cloth grocery remember across maid hidden";

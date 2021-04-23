@@ -1,1 +1,1 @@
-var mnemonic = "world across surge cream primary unknown east violin reduce remove shoot abstract";
+var mnemonic = "nation cradle all master auto laundry call there giggle dinner fatigue sugar";

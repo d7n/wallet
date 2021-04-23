@@ -1,1 +1,1 @@
-var mnemonic = "smart recipe flat bronze join fog base oval heart cool ozone situate";
+var mnemonic = "mail wool regular present weapon wild stool struggle tone master mouse physical";

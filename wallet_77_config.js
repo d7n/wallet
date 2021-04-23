@@ -1,1 +1,1 @@
-var mnemonic = "link labor sort pluck stand outdoor tiger fluid once report game logic";
+var mnemonic = "hard episode human fabric knock pencil aspect layer cupboard fit engine ahead";

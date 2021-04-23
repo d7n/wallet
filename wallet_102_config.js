@@ -1,1 +1,1 @@
-var mnemonic = "dust kidney execute web exhibit ostrich almost multiply have range lonely harvest";
+var mnemonic = "bone defy match enact grow interest grab direct curtain essay one awkward";

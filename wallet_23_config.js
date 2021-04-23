@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin curtain master dinner pear install surge torch fork mind jaguar cotton";
+var mnemonic = "oyster idea potato second jacket all gather drama siege young uncover thumb";

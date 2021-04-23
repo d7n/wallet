@@ -1,1 +1,1 @@
-var mnemonic = "settle rifle miss pelican elephant bar sentence robust rally lady canoe typical";
+var mnemonic = "matrix require height melt poet trade artwork survey stool lucky very lift";

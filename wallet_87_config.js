@@ -1,1 +1,1 @@
-var mnemonic = "moment ahead nut glow scatter wet popular merit wealth exclude tumble skate";
+var mnemonic = "between produce tilt census primary glad fringe element open mesh edit monitor";

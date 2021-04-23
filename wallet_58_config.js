@@ -1,1 +1,1 @@
-var mnemonic = "parent opera hill bless tackle cinnamon doctor pretty million fan always destroy";
+var mnemonic = "surprise cash electric spot paddle ribbon cook today intact forum home tent";

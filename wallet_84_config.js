@@ -1,1 +1,1 @@
-var mnemonic = "satisfy rule bid humble chuckle eyebrow crop lecture grace milk lawn fish";
+var mnemonic = "above giant quantum daughter direct exile rent leopard gaze banana oblige gesture";

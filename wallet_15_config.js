@@ -1,1 +1,1 @@
-var mnemonic = "oval suggest also torch vocal actual whip entire bid trumpet put solid";
+var mnemonic = "float icon buyer once foil theme advance affair prepare local cycle erase";

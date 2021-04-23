@@ -1,1 +1,1 @@
-var mnemonic = "deal habit vague couple thumb tired tip zebra pottery powder present soldier";
+var mnemonic = "kiwi near lazy surprise derive delay tennis second that boat nominee vehicle";

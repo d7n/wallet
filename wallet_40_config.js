@@ -1,1 +1,1 @@
-var mnemonic = "blue control army believe world joy top critic night acid outside unknown";
+var mnemonic = "fox scout submit catalog survey wise prison ready sand drink pulp glove";

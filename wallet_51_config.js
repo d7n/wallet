@@ -1,1 +1,1 @@
-var mnemonic = "abuse picture atom magic language just afford welcome knock oppose muffin emerge";
+var mnemonic = "addict mail final ridge keen whisper run material gain eager logic hockey";

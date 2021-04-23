@@ -1,1 +1,1 @@
-var mnemonic = "festival mutual olympic winter lion dinner brief grape loud stool smoke truck";
+var mnemonic = "sing robot spin skate field name picture glad gospel alone device soldier";

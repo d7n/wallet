@@ -1,1 +1,1 @@
-var mnemonic = "allow box remain deal worry usual blue despair glue expire tongue voyage";
+var mnemonic = "pencil clean barely miracle time rapid admit various issue erase edit yellow";

@@ -1,1 +1,1 @@
-var mnemonic = "air hammer wash actor check addict hope lamp zero they rubber matter";
+var mnemonic = "rare release innocent phrase rate prefer wood stone gain stereo pyramid protect";

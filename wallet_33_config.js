@@ -1,1 +1,1 @@
-var mnemonic = "admit face chat pyramid inspire beyond any afford real victory cheap cloud";
+var mnemonic = "survey like dignity trick trash sure window filter movie blade trim put";

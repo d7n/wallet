@@ -1,1 +1,1 @@
-var mnemonic = "powder push alien crisp style tortoise thought miss once organ under smile";
+var mnemonic = "avoid foster trip stem mercy attend fabric sudden advice erupt misery nurse";

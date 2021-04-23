@@ -1,1 +1,1 @@
-var mnemonic = "myth zone admit cruel proud teach exit hazard keep ability citizen pole";
+var mnemonic = "struggle wide oxygen outer paddle media layer stumble delay rough series east";

@@ -1,1 +1,1 @@
-var mnemonic = "shift fold can brush curtain sing drastic world rigid craft fat cereal";
+var mnemonic = "display alter miss bleak apology age often snake quality clutch civil same";

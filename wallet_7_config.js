@@ -1,1 +1,1 @@
-var mnemonic = "note omit captain impact note measure ensure wait surround erase sight snap";
+var mnemonic = "sick april task budget hockey race yard draft zone rocket travel bracket";

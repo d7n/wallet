@@ -1,1 +1,1 @@
-var mnemonic = "amateur rate pizza clump price next attract pole own knife act wet";
+var mnemonic = "other right basic next innocent man dwarf about learn expand mansion home";

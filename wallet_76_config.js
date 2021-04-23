@@ -1,1 +1,1 @@
-var mnemonic = "six mystery arch sister six certain document win strong cradle village bar";
+var mnemonic = "quit crime together always motion key jaguar wire decline maximum multiply athlete";

@@ -1,1 +1,1 @@
-var mnemonic = "soap fat foot attend slush cupboard earth never expose orient pattern story";
+var mnemonic = "hockey lab enrich eternal coach print black pole choose joke seminar upon";

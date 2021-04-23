@@ -1,1 +1,1 @@
-var mnemonic = "venture excess reject sing crowd purity upgrade exercise grief tongue evolve robot";
+var mnemonic = "road pink usage plunge material lobster genuine build essay crash salon neither";

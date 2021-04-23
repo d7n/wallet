@@ -1,1 +1,1 @@
-var mnemonic = "mushroom attend daring cat bulb snack spatial palm until topic project rice";
+var mnemonic = "hollow other health layer puppy width merry zone fall horror pudding swarm";

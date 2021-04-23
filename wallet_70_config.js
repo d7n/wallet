@@ -1,1 +1,1 @@
-var mnemonic = "crucial perfect inner clip useless script iron merge edge patch build tail";
+var mnemonic = "morning silk glory fire traffic picture sentence ensure country spike crystal annual";

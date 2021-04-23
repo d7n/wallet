@@ -1,1 +1,1 @@
-var mnemonic = "tail retire era message review dignity capable rose hello seven social bag";
+var mnemonic = "carpet distance language arm odor buddy only photo few elephant address index";

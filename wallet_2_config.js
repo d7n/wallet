@@ -1,1 +1,1 @@
-var mnemonic = "shallow useful advance expand opinion wood worth spend flip gun filter transfer";
+var mnemonic = "wing pet pulse crowd midnight olive traffic print theme vote aisle oak";

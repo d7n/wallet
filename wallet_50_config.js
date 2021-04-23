@@ -1,1 +1,1 @@
-var mnemonic = "short whale during similar people foil glare please cable worry neither bleak";
+var mnemonic = "century father minute keep between race promote circle short divide custom mountain";

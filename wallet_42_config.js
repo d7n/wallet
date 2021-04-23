@@ -1,1 +1,1 @@
-var mnemonic = "sting gesture federal dizzy pistol second when trip child anxiety sentence stool";
+var mnemonic = "exact glass ethics solution birth act wing total rebuild earth genre sting";

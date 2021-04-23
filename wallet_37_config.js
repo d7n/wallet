@@ -1,1 +1,1 @@
-var mnemonic = "habit trade sunny axis romance any fork fruit episode guilt life stumble";
+var mnemonic = "top gym aunt twist tiger excess sorry avocado oyster input come jazz";

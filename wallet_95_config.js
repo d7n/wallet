@@ -1,1 +1,1 @@
-var mnemonic = "cancel depart cause wool dance auction picnic drama say urge barrel invest";
+var mnemonic = "april small profit thing feature achieve galaxy photo borrow siren digital option";

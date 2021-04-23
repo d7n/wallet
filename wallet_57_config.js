@@ -1,1 +1,1 @@
-var mnemonic = "stick crater short album notable merit senior camera museum ten enjoy apology";
+var mnemonic = "beef story roof very retreat trend erode pipe someone enjoy fish habit";

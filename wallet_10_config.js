@@ -1,1 +1,1 @@
-var mnemonic = "blur trick harbor rabbit captain seek prevent lonely destroy naive sunset column";
+var mnemonic = "exit deny roast dolphin salt echo load identify stadium ozone jungle vibrant";

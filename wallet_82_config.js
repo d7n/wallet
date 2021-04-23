@@ -1,1 +1,1 @@
-var mnemonic = "bracket anxiety custom cream useless pact usage juice step isolate gaze observe";
+var mnemonic = "access feed miss angry nose private state force profit cabbage era tongue";

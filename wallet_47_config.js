@@ -1,1 +1,1 @@
-var mnemonic = "vivid settle invite basic lion improve memory oven evolve slow wine decade";
+var mnemonic = "summer solution feed check biology claim position drop cheap rescue wait syrup";

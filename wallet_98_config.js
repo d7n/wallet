@@ -1,1 +1,1 @@
-var mnemonic = "depart border symptom great weasel entry material away salon coffee special hero";
+var mnemonic = "sock cat depart sphere swift amateur twelve monkey foil ball quiz state";

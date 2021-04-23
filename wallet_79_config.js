@@ -1,1 +1,1 @@
-var mnemonic = "video auto lake kidney brass hand chest nothing measure wage ketchup erupt";
+var mnemonic = "bracket deliver injury flash humor million coach vanish unit ridge suffer legal";

@@ -1,1 +1,1 @@
-var mnemonic = "street rookie key sketch endorse solve cinnamon bridge ecology behind pencil net";
+var mnemonic = "protect two jewel bench saddle attend tattoo cave insect dynamic axis cloud";
