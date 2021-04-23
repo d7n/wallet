@@ -1,1 +1,1 @@
-var mnemonic = "apple flag wisdom minute toast tumble lunch vocal increase permit above spy";
+var mnemonic = "swim ankle oval erosion vast return crew salon employ draft august bargain";

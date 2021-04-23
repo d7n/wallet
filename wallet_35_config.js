@@ -1,1 +1,1 @@
-var mnemonic = "term little coin property soccer race forum boring bus forget draw deal";
+var mnemonic = "maximum foil cattle vault educate furnace sun century coach obtain bacon common";

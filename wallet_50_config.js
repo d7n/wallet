@@ -1,1 +1,1 @@
-var mnemonic = "castle brown oxygen sugar unaware screen goose tag popular eternal raw poet";
+var mnemonic = "ritual fatal coach farm cliff fresh diary adapt balance puppy train conduct";

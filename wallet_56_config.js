@@ -1,1 +1,1 @@
-var mnemonic = "soft pudding image become wish infant disorder forum else inmate foster evidence";
+var mnemonic = "brass joke tape leave bid vintage combine begin elevator wide farm prosper";

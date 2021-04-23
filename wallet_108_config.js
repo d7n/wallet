@@ -1,1 +1,1 @@
-var mnemonic = "leader wide sock fish pill fox license educate boring yard omit honey";
+var mnemonic = "soccer woman thunder fine town neck ice trust bomb attract comfort raise";

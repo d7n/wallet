@@ -1,1 +1,1 @@
-var mnemonic = "snack seek old army fragile victory shine net rival ozone garment mountain";
+var mnemonic = "bleak praise cloth boil slush grid come tower embrace shaft gadget deer";

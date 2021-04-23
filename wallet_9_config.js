@@ -1,1 +1,1 @@
-var mnemonic = "quote away exclude inspire regular elite sausage device brick once leisure tray";
+var mnemonic = "weapon garage balcony harsh air struggle convince thing correct carry script motor";

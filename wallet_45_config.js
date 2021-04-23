@@ -1,1 +1,1 @@
-var mnemonic = "lion alley stomach puppy team gravity rural student oil glide trick carry";
+var mnemonic = "isolate flavor shaft anchor allow minor stomach muscle crash surround crazy morning";

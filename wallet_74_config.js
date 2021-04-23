@@ -1,1 +1,1 @@
-var mnemonic = "member differ order tip armor strong deputy bag setup cereal cloud antique";
+var mnemonic = "bitter during decline shoot express elephant biology noble sleep profit creek wish";

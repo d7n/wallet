@@ -1,1 +1,1 @@
-var mnemonic = "unable group oven phone rent exhibit legal clog hockey fox fence hundred";
+var mnemonic = "adult gown grid earth attitude link crop actress topple october cancel force";

@@ -1,1 +1,1 @@
-var mnemonic = "sure soul control renew edge measure ripple speak body ladder snow world";
+var mnemonic = "buzz cool cheap bulk museum exhaust blur own place project sand palm";

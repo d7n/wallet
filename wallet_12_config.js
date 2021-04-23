@@ -1,1 +1,1 @@
-var mnemonic = "brave truth coil rather logic enable pistol clarify open gravity foot trade";
+var mnemonic = "door spy airport vintage casino sweet bronze charge into sausage sunny switch";

@@ -1,1 +1,1 @@
-var mnemonic = "brass rely mutual frame weather north drop alarm flat pull addict swap";
+var mnemonic = "wrap space defy absent book sport final judge juice remind solar gossip";

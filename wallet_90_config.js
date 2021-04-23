@@ -1,1 +1,1 @@
-var mnemonic = "museum burger wasp net vacuum brave canvas cover ginger local title tape";
+var mnemonic = "fit velvet token daring nothing tumble original first ridge shift penalty post";

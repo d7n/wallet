@@ -1,1 +1,1 @@
-var mnemonic = "hazard black want reunion match embark lift learn devote trend parent emerge";
+var mnemonic = "grocery bright message nurse stadium champion admit forest humor pill later merit";

@@ -1,1 +1,1 @@
-var mnemonic = "bag program dial input perfect denial check cool type chuckle arrow derive";
+var mnemonic = "hundred lawn final biology fee palace essay crash sleep glad chronic inside";

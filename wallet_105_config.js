@@ -1,1 +1,1 @@
-var mnemonic = "under heart manual discover chief discover all desk pair sun donkey loan";
+var mnemonic = "belt into affair stool skate wreck size where stuff mesh embrace group";

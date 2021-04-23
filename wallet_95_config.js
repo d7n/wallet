@@ -1,1 +1,1 @@
-var mnemonic = "danger pear lava where history elevator visa twice guard nasty grit orient";
+var mnemonic = "battle number kangaroo chalk race song text guide aerobic food boring alley";

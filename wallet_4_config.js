@@ -1,1 +1,1 @@
-var mnemonic = "tell amateur sweet pottery impose liberty school crash mobile fetch want zebra";
+var mnemonic = "bus skill dove length panic derive mistake curve item trophy resource element";

@@ -1,1 +1,1 @@
-var mnemonic = "wood enhance rib symptom stable camp account return engage stereo immune forum";
+var mnemonic = "sword orange endorse solution lamp convince oil vote object napkin creek wasp";

@@ -1,1 +1,1 @@
-var mnemonic = "drive snow give cloth repeat gloom draft hub lucky slice slam spring";
+var mnemonic = "brass season clever hollow fatigue vintage judge rabbit risk spy vault leader";

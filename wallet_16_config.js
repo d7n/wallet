@@ -1,1 +1,1 @@
-var mnemonic = "bread identify matrix tunnel outside hero recall awful dog palace modify solid";
+var mnemonic = "wife palm rack either response legend ice rug eternal antique helmet strike";

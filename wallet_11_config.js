@@ -1,1 +1,1 @@
-var mnemonic = "hurdle aim orange end tattoo borrow barrel ability elder original castle crash";
+var mnemonic = "oxygen public clog museum hub decide strong crumble two powder window volume";

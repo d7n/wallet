@@ -1,1 +1,1 @@
-var mnemonic = "join fruit jealous chunk borrow current rubber hidden bubble sister sponsor rally";
+var mnemonic = "tree pull define search antenna guard light brave note erupt poem swap";

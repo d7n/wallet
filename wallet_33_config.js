@@ -1,1 +1,1 @@
-var mnemonic = "truth wall attitude argue seven huge code field update endless cousin one";
+var mnemonic = "extra vast announce ladder end slab oyster manage phrase side rigid absorb";

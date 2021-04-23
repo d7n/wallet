@@ -1,1 +1,1 @@
-var mnemonic = "seminar jaguar pole clip toward depth blade retreat random away dish then";
+var mnemonic = "office sauce kick depend judge large joy coast place acquire ship town";

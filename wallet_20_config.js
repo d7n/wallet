@@ -1,1 +1,1 @@
-var mnemonic = "subway chalk excite mixed about witness manual praise plug east journey view";
+var mnemonic = "animal uncle include abandon knock inside color gun atom clever matter crawl";

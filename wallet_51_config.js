@@ -1,1 +1,1 @@
-var mnemonic = "brick hungry chapter captain today camp cloth make wagon horror oxygen any";
+var mnemonic = "guitar until seed wink roast reject twice scheme buffalo venue sleep below";

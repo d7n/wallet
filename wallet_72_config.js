@@ -1,1 +1,1 @@
-var mnemonic = "stuff fix hen beauty iron useless alley clever october love violin claw";
+var mnemonic = "cup skull direct hotel shine prosper define happy seven accident movie hen";

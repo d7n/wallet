@@ -1,1 +1,1 @@
-var mnemonic = "bonus evidence merit music favorite sort gift winner unable puzzle group unable";
+var mnemonic = "thrive voyage aisle use tunnel alcohol shoot verify bulb grant stone romance";

@@ -1,1 +1,1 @@
-var mnemonic = "drop term draft hub weird exile brass head reveal remember mask kiwi";
+var mnemonic = "receive cycle sound blame stool regular avocado vanish brave festival sample disorder";

@@ -1,1 +1,1 @@
-var mnemonic = "tourist opera robust ten answer angry decade slab pony pave hello biology";
+var mnemonic = "abandon chest veteran route rookie advice machine photo inhale cloth can curious";

@@ -1,1 +1,1 @@
-var mnemonic = "excite aisle music divert awful tobacco unique sleep priority sketch pluck undo";
+var mnemonic = "robot sadness sample ankle rug feel corn ketchup short finish gallery ability";

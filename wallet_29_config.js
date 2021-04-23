@@ -1,1 +1,1 @@
-var mnemonic = "grocery virus evil index plate finger type enhance august orchard play situate";
+var mnemonic = "huge category foil current jealous elevator tissue script lake cigar together cement";

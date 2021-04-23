@@ -1,1 +1,1 @@
-var mnemonic = "history balance point fiscal doll actor result emotion clinic patient okay neglect";
+var mnemonic = "good act clerk bullet poem senior push foil suspect ocean sail brisk";

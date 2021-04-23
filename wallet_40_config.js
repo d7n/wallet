@@ -1,1 +1,1 @@
-var mnemonic = "chief bean carry damp razor toilet weekend middle volume among patient scissors";
+var mnemonic = "diesel crowd idle lamp gravity dog visual bring victory mimic short grocery";

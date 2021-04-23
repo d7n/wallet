@@ -1,1 +1,1 @@
-var mnemonic = "course sibling grape jewel cost property help pottery seminar gravity dignity sting";
+var mnemonic = "file hollow cherry repair matrix skill special spice parade tag unusual evil";

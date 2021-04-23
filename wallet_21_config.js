@@ -1,1 +1,1 @@
-var mnemonic = "limb weather piece layer farm sponsor odor thing diet embark clog tool";
+var mnemonic = "method elbow assist easy rose divide rare person rain mean add cross";

@@ -1,1 +1,1 @@
-var mnemonic = "garlic exchange camp exclude giraffe cradle code credit leg stock rule similar";
+var mnemonic = "relief east misery champion slice ancient forum blossom response party panic blur";

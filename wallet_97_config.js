@@ -1,1 +1,1 @@
-var mnemonic = "fee spatial trash keen ostrich recycle match install cotton resemble team grape";
+var mnemonic = "machine bird slogan silk trophy supreme suit hint spring total lyrics poem";

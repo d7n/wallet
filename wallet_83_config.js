@@ -1,1 +1,1 @@
-var mnemonic = "oblige adult remove negative fold joke entry under cream walk rich buddy";
+var mnemonic = "steel among truly island trick forget chase liberty athlete bright fog media";

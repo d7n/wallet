@@ -1,1 +1,1 @@
-var mnemonic = "divert domain key praise reward open meadow valley hope fantasy student priority";
+var mnemonic = "order stamp muscle network typical over sand brick century hazard brave expand";

@@ -1,1 +1,1 @@
-var mnemonic = "august foot panic boat horn caught brass castle gesture guide retire bronze";
+var mnemonic = "fox era together stem essence prize random future slush business trim response";

@@ -1,1 +1,1 @@
-var mnemonic = "title seminar option vocal achieve story town melody chat trick foot slush";
+var mnemonic = "glimpse forest wet stairs rally tired shine margin face paddle stay baby";

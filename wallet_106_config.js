@@ -1,1 +1,1 @@
-var mnemonic = "pact hat captain three message cricket lion sure warrior truth inner battle";
+var mnemonic = "velvet happy sunny judge stock gentle adjust bicycle draft brand book budget";

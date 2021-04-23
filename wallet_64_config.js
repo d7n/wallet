@@ -1,1 +1,1 @@
-var mnemonic = "soul trumpet develop assault message fashion leaf afraid easy divorce month valid";
+var mnemonic = "pen head antenna now message seed pretty push cool squeeze stairs regular";

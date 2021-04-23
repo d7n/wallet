@@ -1,1 +1,1 @@
-var mnemonic = "over pass transfer alter wish antique name reform team school bulk width";
+var mnemonic = "match invite clock crash warm spy forget insect come chest unfair devote";

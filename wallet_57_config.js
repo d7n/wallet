@@ -1,1 +1,1 @@
-var mnemonic = "increase clay social torch melody square salad skate country glue tiger off";
+var mnemonic = "grocery random ice tuition hospital chase crisp jacket gauge lucky carbon figure";

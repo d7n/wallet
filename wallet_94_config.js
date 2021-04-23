@@ -1,1 +1,1 @@
-var mnemonic = "reopen catch burger lecture still float alley cinnamon left divorce any want";
+var mnemonic = "piano truth cloud equip banner orchard spot army aim gain repair peace";

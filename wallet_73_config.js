@@ -1,1 +1,1 @@
-var mnemonic = "tonight deal know please endless siege blind liquid leopard pluck secret truck";
+var mnemonic = "sorry museum dance mother reform fault document mom client vehicle turn discover";

@@ -1,1 +1,1 @@
-var mnemonic = "flock smart harvest average truly insect narrow cage zero apple eight mansion";
+var mnemonic = "anxiety ask mushroom speak divert sun wreck ivory wet young yellow wire";

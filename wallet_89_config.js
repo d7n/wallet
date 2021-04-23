@@ -1,1 +1,1 @@
-var mnemonic = "real embark miss sell blur lend scorpion example recycle hard razor bunker";
+var mnemonic = "build snake sunny female wire behind tumble hammer imitate net cattle dentist";

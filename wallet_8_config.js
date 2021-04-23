@@ -1,1 +1,1 @@
-var mnemonic = "surround problem claim pledge mountain output topic busy leave tone case mom";
+var mnemonic = "acid trim avocado hybrid heart permit car bargain minute intact toss follow";

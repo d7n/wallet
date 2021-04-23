@@ -1,1 +1,1 @@
-var mnemonic = "canoe rotate walnut magnet sorry ecology auction faculty crater real snack negative";
+var mnemonic = "tourist army extend warrior roast uphold fatigue fatigue link radio still very";

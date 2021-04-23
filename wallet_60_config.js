@@ -1,1 +1,1 @@
-var mnemonic = "gaze detect exotic minor quarter vessel steak either syrup glue galaxy stamp";
+var mnemonic = "novel book swing canvas bind lift answer sign cube indicate spice coil";

@@ -1,1 +1,1 @@
-var mnemonic = "kit employ addict mistake woman heart middle apology ramp lyrics reason path";
+var mnemonic = "make attract people market switch celery similar lunch fitness mass mail proof";

@@ -1,1 +1,1 @@
-var mnemonic = "eternal cradle humor basket enemy meat more alpha three bunker oyster rival";
+var mnemonic = "zero wide better wrist total solve survey ability subway endless over stairs";

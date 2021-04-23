@@ -1,1 +1,1 @@
-var mnemonic = "deer diamond slogan convince mean daring wise drill liar client build speed";
+var mnemonic = "evil slab kidney seven hockey fetch goose silly army human mix route";

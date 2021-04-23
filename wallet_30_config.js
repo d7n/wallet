@@ -1,1 +1,1 @@
-var mnemonic = "clump pioneer wrist lens float cloud soft little adapt end output gauge";
+var mnemonic = "tired clap pony safe describe bulb crop coil seven olive crisp already";

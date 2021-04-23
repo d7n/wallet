@@ -1,1 +1,1 @@
-var mnemonic = "recall one foam penalty resource car practice tomato top double sketch scout";
+var mnemonic = "emerge outer film give unique envelope grass nice segment keep much inspire";

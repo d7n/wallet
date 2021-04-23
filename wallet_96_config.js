@@ -1,1 +1,1 @@
-var mnemonic = "north pole trigger antenna keep fee subway detail avocado matter miss yard";
+var mnemonic = "minimum replace submit express uniform boil creek twin room video summer excuse";

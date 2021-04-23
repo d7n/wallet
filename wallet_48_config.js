@@ -1,1 +1,1 @@
-var mnemonic = "spoon monitor fat brother awesome route armor meat auction act mother success";
+var mnemonic = "dragon output pupil castle edge sort cloth tortoise loan potato pony trial";

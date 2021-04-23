@@ -1,1 +1,1 @@
-var mnemonic = "indoor control cigar report rather crunch unfold present feel salad festival truck";
+var mnemonic = "awkward present behind provide debate elevator rib museum bachelor harsh dial cruise";

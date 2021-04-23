@@ -1,1 +1,1 @@
-var mnemonic = "liquid parade conduct brief jealous smart silk happy frost shoot amused attend";
+var mnemonic = "salon patrol gasp security sauce cattle radar quality pledge boy shop size";

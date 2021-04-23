@@ -1,1 +1,1 @@
-var mnemonic = "spell bounce motion leg spoil two siege know defy prosper series message";
+var mnemonic = "rebuild idea wine gift door chest tent analyst heart original digital comfort";

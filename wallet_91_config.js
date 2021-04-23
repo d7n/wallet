@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon bachelor mammal million appear canvas canvas reduce possible nephew sea reject";
+var mnemonic = "pond toward chimney royal long final dash vast glow keen ripple bulk";

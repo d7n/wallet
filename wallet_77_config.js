@@ -1,1 +1,1 @@
-var mnemonic = "mule under fee medal note sport warrior chair cute document vote narrow";
+var mnemonic = "escape galaxy dice head basic cement cloth ensure thought violin what library";

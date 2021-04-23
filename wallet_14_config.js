@@ -1,1 +1,1 @@
-var mnemonic = "zone question output prize decorate toe plastic zero interest nature spend ginger";
+var mnemonic = "defy tag gift about venue outdoor filter pet fish ethics powder cabin";

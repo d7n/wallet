@@ -1,1 +1,1 @@
-var mnemonic = "wine senior neutral bunker twelve regular field feed injury innocent close must";
+var mnemonic = "book demise indoor online noise subject deputy funny equal proof total icon";

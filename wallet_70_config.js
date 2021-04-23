@@ -1,1 +1,1 @@
-var mnemonic = "alert vocal session ghost provide raise day cattle zone still bar canoe";
+var mnemonic = "move potato nose lake high surprise display surprise tumble learn option paper";

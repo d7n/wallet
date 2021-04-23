@@ -1,1 +1,1 @@
-var mnemonic = "wreck autumn argue glue ticket artist exotic antenna squirrel rare spare cluster";
+var mnemonic = "fringe double advance outer comic negative name auto umbrella junk answer ring";

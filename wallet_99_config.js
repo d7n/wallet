@@ -1,1 +1,1 @@
-var mnemonic = "giant banner victory always mind parade smooth powder eagle pulse behind evil";
+var mnemonic = "midnight neutral talent wonder wasp dumb jar erode walk satisfy sing void";

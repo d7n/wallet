@@ -1,1 +1,1 @@
-var mnemonic = "trap wash doll damp mystery walk open south morning frost shield apart";
+var mnemonic = "brand royal scout pair powder praise timber forget bean sick please ancient";

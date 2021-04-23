@@ -1,1 +1,1 @@
-var mnemonic = "rapid quality despair razor crush force arrest chase fortune clip outer waste";
+var mnemonic = "element aspect mail crime silver speed evolve sort toe ice clown monkey";

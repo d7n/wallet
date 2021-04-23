@@ -1,1 +1,1 @@
-var mnemonic = "waste mask upgrade sick snap mad subway false north amused harvest van";
+var mnemonic = "skill sing buddy ginger gasp verify brush field stand grit sail jacket";

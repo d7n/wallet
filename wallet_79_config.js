@@ -1,1 +1,1 @@
-var mnemonic = "luggage retire twin option gaze what slab hand kidney sustain frozen surround";
+var mnemonic = "letter viable horn project among kind race drastic leisure mad side round";

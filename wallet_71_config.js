@@ -1,1 +1,1 @@
-var mnemonic = "gate once relax vibrant humble receive secret mirror strong glow couch unhappy";
+var mnemonic = "rookie hope distance music walnut tag just drama absurd confirm canal deputy";

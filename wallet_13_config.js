@@ -1,1 +1,1 @@
-var mnemonic = "pizza jacket engine abstract blade inflict bounce avocado where divert industry group";
+var mnemonic = "strike blind cement popular solve tray bean toward beauty nerve crazy dutch";

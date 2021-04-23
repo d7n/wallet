@@ -1,1 +1,1 @@
-var mnemonic = "guide solar damp obscure install island away shed setup husband book stay";
+var mnemonic = "drift cable clerk derive fat above double violin nerve correct cup famous";

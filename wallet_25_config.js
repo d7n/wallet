@@ -1,1 +1,1 @@
-var mnemonic = "carpet napkin life extra undo road leopard hero puppy enable slot scissors";
+var mnemonic = "spatial lab clap assault release pumpkin trick lonely reunion brass wonder property";

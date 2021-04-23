@@ -1,1 +1,1 @@
-var mnemonic = "embrace industry course empower call emerge enroll people valid wink rubber old";
+var mnemonic = "amount win shoot cousin laptop witness vacuum rotate panel renew census track";

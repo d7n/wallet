@@ -1,1 +1,1 @@
-var mnemonic = "suggest eager trip diet drive fog oven mammal rebel good current fly";
+var mnemonic = "else social basic shadow novel debris flame miss cat life danger tank";

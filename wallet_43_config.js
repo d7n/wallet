@@ -1,1 +1,1 @@
-var mnemonic = "quote brass three inner hire garden ginger inch bonus scorpion drop round";
+var mnemonic = "pepper cross loop liberty walk armed benefit oak cannon ancient only category";

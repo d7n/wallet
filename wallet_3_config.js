@@ -1,1 +1,1 @@
-var mnemonic = "pulp smart source permit tornado visa stumble awkward rack beauty arm pole";
+var mnemonic = "hip lyrics only stove north jelly come waste gospel spring symptom marble";

@@ -1,1 +1,1 @@
-var mnemonic = "bleak crucial sea address income wash raise pupil tomato february symbol frown";
+var mnemonic = "damage achieve captain moral notice upset input stuff twenty picture enhance link";

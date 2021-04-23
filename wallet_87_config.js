@@ -1,1 +1,1 @@
-var mnemonic = "joy myself help produce curtain boss elder satoshi shed evoke unaware improve";
+var mnemonic = "depart mention bronze volcano ice screen bag attack board lizard hunt ignore";

@@ -1,1 +1,1 @@
-var mnemonic = "afraid roast tunnel winner crush essay suspect else quantum dish aim reunion";
+var mnemonic = "soft gadget glory similar town learn glove steel win main leisure neutral";

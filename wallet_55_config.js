@@ -1,1 +1,1 @@
-var mnemonic = "appear charge soul panda glove job return marriage model tissue side hidden";
+var mnemonic = "small mixed size enhance poverty carry concert battle galaxy potato sadness illegal";

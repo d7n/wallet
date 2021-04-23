@@ -1,1 +1,1 @@
-var mnemonic = "when spoon base surround item weird garage together seek devote dawn modify";
+var mnemonic = "arrange canoe melt hamster knife powder occur journey supreme defense stuff spoon";
