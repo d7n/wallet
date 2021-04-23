@@ -1,1 +1,1 @@
-var mnemonic = "travel swim essence barely path work ranch link century ice record parade";
+var mnemonic = "piece fine engine lonely grace text copper lumber way arctic health invite";

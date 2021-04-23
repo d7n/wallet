@@ -1,1 +1,1 @@
-var mnemonic = "echo frozen despair cart shallow rice north peanut pear object want segment";
+var mnemonic = "ahead mom tattoo globe define average method secret warrior useful term brain";

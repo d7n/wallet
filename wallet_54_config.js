@@ -1,1 +1,1 @@
-var mnemonic = "fever absorb diesel fitness school panic machine turtle banner move rapid inhale";
+var mnemonic = "roof rubber cause purse other radar staff chest use network version bicycle";

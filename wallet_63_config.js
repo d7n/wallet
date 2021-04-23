@@ -1,1 +1,1 @@
-var mnemonic = "spoon mirror guide dutch december basket sausage crowd fall right refuse try";
+var mnemonic = "child spare happy luxury bomb delay fence lottery clump stomach path suspect";

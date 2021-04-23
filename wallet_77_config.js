@@ -1,1 +1,1 @@
-var mnemonic = "radar bag shuffle usage wreck erupt cereal bachelor elite purchase cook hundred";
+var mnemonic = "favorite shoulder capable future trip half ritual expand item budget they exist";

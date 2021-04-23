@@ -1,1 +1,1 @@
-var mnemonic = "night panther gate good energy notice kitten sorry spend truth soul napkin";
+var mnemonic = "obscure proud bone increase snack medal measure remove search filter box upgrade";

@@ -1,1 +1,1 @@
-var mnemonic = "century cool boat hedgehog thumb orient sock erase eager artwork list spy";
+var mnemonic = "first excuse master people fatal when angry canvas catalog need visa trust";

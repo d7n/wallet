@@ -1,1 +1,1 @@
-var mnemonic = "burst couple heavy gossip fox practice garden fan kangaroo bounce poet gauge";
+var mnemonic = "around day lunar concert under practice can void badge style category change";

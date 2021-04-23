@@ -1,1 +1,1 @@
-var mnemonic = "typical spy pig walnut average disorder want lunar pluck atom truth resemble";
+var mnemonic = "dragon relax rifle ramp lion festival picnic churn ramp poverty answer round";

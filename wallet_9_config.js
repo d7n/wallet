@@ -1,1 +1,1 @@
-var mnemonic = "holiday fossil remain salmon apology rotate obey office lyrics mimic book skull";
+var mnemonic = "theme turkey notable boil inhale stomach acquire foil scorpion deputy title silly";

@@ -1,1 +1,1 @@
-var mnemonic = "total minute belt check roast host lesson ivory slight river deliver artwork";
+var mnemonic = "invest update shoe law spin thumb enact town milk fault city reduce";

@@ -1,1 +1,1 @@
-var mnemonic = "riot cargo drive bomb strategy electric depth slab myself stool also evoke";
+var mnemonic = "brother erosion bachelor hurry must hold floor swarm pottery industry knock area";

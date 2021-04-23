@@ -1,1 +1,1 @@
-var mnemonic = "damp company gym view armor impose now multiply direct toilet calm dry";
+var mnemonic = "trigger discover scrap wrap vote twenty kit equip already brush ecology alter";

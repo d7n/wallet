@@ -1,1 +1,1 @@
-var mnemonic = "slab friend rack flee high worth helmet viable snow rubber chest embark";
+var mnemonic = "casino harvest siren left battle inner lawsuit weird busy yard radio relief";

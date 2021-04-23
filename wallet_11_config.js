@@ -1,1 +1,1 @@
-var mnemonic = "rapid record glass awkward modify fine opera coach seminar code earth oxygen";
+var mnemonic = "evil tragic tag whisper obtain sudden once blast muffin dog crystal joy";

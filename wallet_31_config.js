@@ -1,1 +1,1 @@
-var mnemonic = "interest violin document grape found valley shallow jeans again salute push shell";
+var mnemonic = "wife enable change clock mixed myself social make test acquire cargo advance";

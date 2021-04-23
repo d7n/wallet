@@ -1,1 +1,1 @@
-var mnemonic = "salon surprise clock welcome cute noble secret success gaze scheme urge photo";
+var mnemonic = "squeeze cushion spice vague evoke ten frost garden play cream sentence symbol";

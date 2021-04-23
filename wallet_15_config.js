@@ -1,1 +1,1 @@
-var mnemonic = "pact drink use save canvas region one rescue kangaroo crew infant square";
+var mnemonic = "hair situate valid clay zebra pony wreck cage relief then tragic blast";

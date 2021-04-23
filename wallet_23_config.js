@@ -1,1 +1,1 @@
-var mnemonic = "mechanic mistake glove fly inmate bullet save erode inject address saddle tornado";
+var mnemonic = "usage sing floor chalk oil amateur copy crumble earn armor draft sister";

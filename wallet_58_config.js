@@ -1,1 +1,1 @@
-var mnemonic = "margin hidden forest slide sword ship absent bring recipe brief hawk valley";
+var mnemonic = "promote twelve arm magnet medal fade nest math hammer pencil gauge agree";

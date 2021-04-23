@@ -1,1 +1,1 @@
-var mnemonic = "hurdle detail lounge weasel artefact balcony burger end swear spend post adjust";
+var mnemonic = "penalty enrich trend occur similar word wisdom lunar ship claw rifle middle";

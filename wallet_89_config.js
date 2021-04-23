@@ -1,1 +1,1 @@
-var mnemonic = "stand industry glove planet transfer recycle fresh arrive found museum tree boil";
+var mnemonic = "turn differ wrong inside afraid border private uniform album black level blame";

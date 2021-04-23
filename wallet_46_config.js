@@ -1,1 +1,1 @@
-var mnemonic = "shadow month icon strategy setup ridge bleak shield insane steel rookie panic";
+var mnemonic = "oak patient shift motor hero patch party urge spoon salad horse nest";

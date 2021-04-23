@@ -1,1 +1,1 @@
-var mnemonic = "danger apple silk cattle fish tree youth portion crystal witness orbit unit";
+var mnemonic = "cruel hair thing case pupil brick use they denial tornado guitar hello";

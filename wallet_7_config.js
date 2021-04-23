@@ -1,1 +1,1 @@
-var mnemonic = "mistake angry piece say glue maple theme derive distance bag rally addict";
+var mnemonic = "maximum stick fringe recipe danger sample oil bind immune prevent taxi erode";

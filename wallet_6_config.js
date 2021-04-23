@@ -1,1 +1,1 @@
-var mnemonic = "wrap feel volcano swing abandon good scrap fury boring remove laugh pet";
+var mnemonic = "again stand exercise spare front bullet job retire wedding final group couple";

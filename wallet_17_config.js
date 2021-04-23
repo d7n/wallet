@@ -1,1 +1,1 @@
-var mnemonic = "lake slice steak phrase never offer dinner surround ill unusual where arrest";
+var mnemonic = "hat bag skate traffic size coast air ethics truck joke athlete rally";

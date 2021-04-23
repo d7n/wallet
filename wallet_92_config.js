@@ -1,1 +1,1 @@
-var mnemonic = "animal dentist twelve armed common capable charge inner bomb warrior device poem";
+var mnemonic = "donor brain horse popular indicate point tuna post burger mixture staff fine";

@@ -1,1 +1,1 @@
-var mnemonic = "riot party curtain ski good already hover play planet canvas loan amateur";
+var mnemonic = "rich mention display proof inject install flower cage member approve kangaroo current";

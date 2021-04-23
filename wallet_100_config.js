@@ -1,1 +1,1 @@
-var mnemonic = "boost peace debris rigid item jacket tonight fluid mean broccoli among light";
+var mnemonic = "obey loud sunny seven junk bind fly when immune vacuum ill patient";

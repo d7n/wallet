@@ -1,1 +1,1 @@
-var mnemonic = "cost lunch diamond west stool portion bird rude major asthma deal forum";
+var mnemonic = "soap type size flame ready relief unlock impose twelve culture cake cute";

@@ -1,1 +1,1 @@
-var mnemonic = "slogan next autumn village error target blur wisdom where govern blossom crew";
+var mnemonic = "winter educate number honey credit scorpion castle olympic air rebel unique horror";

@@ -1,1 +1,1 @@
-var mnemonic = "way document mechanic awake version renew describe jeans inspire still police cluster";
+var mnemonic = "friend vocal high antique direct ski opera neglect venue lamp pact evolve";

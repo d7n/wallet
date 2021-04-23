@@ -1,1 +1,1 @@
-var mnemonic = "mirror pretty member indicate general renew feature erode stereo angry silk leave";
+var mnemonic = "rebuild unusual aerobic pizza old arch join adapt undo trigger kitten purse";

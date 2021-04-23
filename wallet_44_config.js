@@ -1,1 +1,1 @@
-var mnemonic = "debate settle scrap useless they payment fetch fine diagram cousin tide tired";
+var mnemonic = "check kick crowd slab recall fun busy release spell consider stock memory";

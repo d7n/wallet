@@ -1,1 +1,1 @@
-var mnemonic = "between put wash month list viable regular street love young civil artist";
+var mnemonic = "alcohol rebuild improve give move lemon bargain security parrot asset dice swarm";

@@ -1,1 +1,1 @@
-var mnemonic = "hunt skirt impulse wish much ocean swear fence coin piece team brisk";
+var mnemonic = "add limb mixture flower skull slow utility stomach when rebuild orange shield";

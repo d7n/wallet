@@ -1,1 +1,1 @@
-var mnemonic = "blood jeans surge before toy orient switch slender liberty stumble beauty actress";
+var mnemonic = "unfold kind search churn rice expire later gaze car clump sense drill";

@@ -1,1 +1,1 @@
-var mnemonic = "peanut boat road scorpion stool hour artist tattoo duty protect nothing shine";
+var mnemonic = "demise oyster key fatigue clutch shoe dice reunion witness fashion curtain admit";

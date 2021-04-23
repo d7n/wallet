@@ -1,1 +1,1 @@
-var mnemonic = "bike copy stove stuff sting final farm pluck clay license burger slight";
+var mnemonic = "august taxi simple fashion apart dress very purity lesson grass clutch process";

@@ -1,1 +1,1 @@
-var mnemonic = "conduct staff acoustic shell famous expose network chunk wrong toss episode north";
+var mnemonic = "exact valve blade razor song little assault either cabbage cluster put snap";

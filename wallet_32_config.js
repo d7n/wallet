@@ -1,1 +1,1 @@
-var mnemonic = "brief furnace link lecture early home stick daring fold van vague slush";
+var mnemonic = "calm column hidden cram creek rare situate remove cream rail spatial oyster";

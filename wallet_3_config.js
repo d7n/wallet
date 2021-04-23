@@ -1,1 +1,1 @@
-var mnemonic = "either couch slight hockey board stomach chuckle then will dolphin shoot rule";
+var mnemonic = "find retreat pencil brisk arrow decorate gown rent style express cream evil";

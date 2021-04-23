@@ -1,1 +1,1 @@
-var mnemonic = "salmon wolf poet lumber puzzle whip pause scale primary rack outdoor reopen";
+var mnemonic = "satoshi million parent special dolphin decorate dinner funny hotel destroy reject mystery";

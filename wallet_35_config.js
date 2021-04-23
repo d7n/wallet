@@ -1,1 +1,1 @@
-var mnemonic = "frozen possible chicken recipe loud icon off panel liar plug daring shuffle";
+var mnemonic = "second salmon brisk foam brand flash theme lock flag false stem model";

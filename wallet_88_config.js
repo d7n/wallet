@@ -1,1 +1,1 @@
-var mnemonic = "head cigar economy salute lonely banana stock model neglect exact fury admit";
+var mnemonic = "payment device stand evolve arrange ridge turn napkin sting intact street office";

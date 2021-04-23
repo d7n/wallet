@@ -1,1 +1,1 @@
-var mnemonic = "riot benefit ensure bracket feel ramp among canal where heavy rifle barrel";
+var mnemonic = "never push icon loop globe permit eye nominee pulse spider order scout";

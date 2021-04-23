@@ -1,1 +1,1 @@
-var mnemonic = "say hood wise pudding coconut save pave bulk sight chief section celery";
+var mnemonic = "asset nerve cave click unit pony tooth pistol dilemma lens please marriage";

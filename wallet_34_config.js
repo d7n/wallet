@@ -1,1 +1,1 @@
-var mnemonic = "gain broom celery mixture dove clown side envelope bubble cram coffee stairs";
+var mnemonic = "upon blush strike shoot loan emotion wealth clarify vivid joke there catch";

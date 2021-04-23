@@ -1,1 +1,1 @@
-var mnemonic = "patrol wave broom credit position firm main night broom memory vote smart";
+var mnemonic = "resource cradle battle potato play planet animal grape open crazy peasant traffic";

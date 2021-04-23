@@ -1,1 +1,1 @@
-var mnemonic = "mass kitchen insane fog renew wool strike grab outside mansion find enter";
+var mnemonic = "cross scatter light garage steel puzzle movie blue note frost weather morning";

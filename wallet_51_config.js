@@ -1,1 +1,1 @@
-var mnemonic = "fantasy oak relax swim ghost always venture fan pull waste alien note";
+var mnemonic = "other kidney tube armed hand siren heavy high more bind forum sand";

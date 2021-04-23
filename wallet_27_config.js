@@ -1,1 +1,1 @@
-var mnemonic = "upgrade boy attract anxiety twelve agent laundry tenant pottery taste lady drastic";
+var mnemonic = "ramp borrow pencil census spare scrap cushion neglect excess wool sauce embark";

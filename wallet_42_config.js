@@ -1,1 +1,1 @@
-var mnemonic = "guilt acquire inform coyote truly exotic rug gravity junior shallow card this";
+var mnemonic = "hero potato style valve urge rookie emotion caution wreck poverty model excess";

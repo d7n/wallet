@@ -1,1 +1,1 @@
-var mnemonic = "crush wait promote often jelly tobacco useless behave chief interest miss exhibit";
+var mnemonic = "medal surround fence debris school open wild control you nut stomach identify";

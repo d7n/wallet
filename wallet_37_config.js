@@ -1,1 +1,1 @@
-var mnemonic = "tooth fossil cash drive worry long total like tornado jump album nephew";
+var mnemonic = "favorite prepare vapor ramp shop wire frog spin bronze this toilet speed";

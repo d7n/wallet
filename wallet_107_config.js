@@ -1,1 +1,1 @@
-var mnemonic = "cake boost young issue scheme glove usage you club settle enforce fold";
+var mnemonic = "burst enrich enroll acquire cook trigger exist dose dad great vehicle champion";

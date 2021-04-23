@@ -1,1 +1,1 @@
-var mnemonic = "come pudding display version clown install boring cannon grant child enrich soul";
+var mnemonic = "grunt black harsh girl walk sword perfect noise system cinnamon castle beef";

@@ -1,1 +1,1 @@
-var mnemonic = "divide tiny great draft trap skate evil creek indicate warm settle rotate";
+var mnemonic = "then witness chef bargain boring lock tuition clay fault target bread alone";

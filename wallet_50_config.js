@@ -1,1 +1,1 @@
-var mnemonic = "educate naive history crystal cry birth culture solid upset faith rare never";
+var mnemonic = "eagle bullet crunch sad kingdom gaze wait property wish control push kiwi";

@@ -1,1 +1,1 @@
-var mnemonic = "list disorder awesome rookie dress great home indoor parrot giraffe boat barrel";
+var mnemonic = "day expose chaos help pipe priority trouble banana lamp energy trip bright";

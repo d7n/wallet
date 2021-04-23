@@ -1,1 +1,1 @@
-var mnemonic = "submit sniff fine suit page when boss bring sorry fire spoon captain";
+var mnemonic = "hurdle account crouch oval symbol hip stadium wonder pluck thumb manage face";

@@ -1,1 +1,1 @@
-var mnemonic = "couple glance flight dumb dragon require hammer two grape path future use";
+var mnemonic = "exit popular great unusual wet square during penalty creek camera spin stick";

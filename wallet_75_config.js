@@ -1,1 +1,1 @@
-var mnemonic = "skate debate broom today cycle sand lonely song athlete error route practice";
+var mnemonic = "vivid little latin gun pink river advice outer analyst angry lab blur";

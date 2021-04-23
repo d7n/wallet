@@ -1,1 +1,1 @@
-var mnemonic = "immune crush antenna cluster clever pledge point interest mystery arena coffee inch";
+var mnemonic = "when fame table region phrase crush bring fabric apology chest network breeze";

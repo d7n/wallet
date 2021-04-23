@@ -1,1 +1,1 @@
-var mnemonic = "cheese moral barrel crowd tourist smart device lumber destroy club gadget antenna";
+var mnemonic = "capital cancel elephant leave service pride ball novel ring eye clean wheel";

@@ -1,1 +1,1 @@
-var mnemonic = "stove aim fury olympic spell then rocket cabin never foam true hobby";
+var mnemonic = "symptom breeze patch disease guide answer announce chest enter remember eternal video";

@@ -1,1 +1,1 @@
-var mnemonic = "nest use select arrive what myself mobile auto mouse tip fiber series";
+var mnemonic = "heart people laptop tomato admit warm urge silent side narrow pill volcano";

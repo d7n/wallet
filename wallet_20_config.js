@@ -1,1 +1,1 @@
-var mnemonic = "art cute fuel story crop idea embrace scorpion risk slight clog eager";
+var mnemonic = "setup tobacco banner gentle crystal horse street meat various toast cool shine";

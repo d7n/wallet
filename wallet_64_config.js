@@ -1,1 +1,1 @@
-var mnemonic = "comfort runway census another rebel pulse slight exist chicken clump midnight police";
+var mnemonic = "damage amused door guilt someone embrace evoke mansion maze treat report pigeon";

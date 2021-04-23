@@ -1,1 +1,1 @@
-var mnemonic = "shaft diagram loop device announce avoid flash trigger core city awkward ticket";
+var mnemonic = "nature brief glance treat effort object brown blind veteran dice sell grief";

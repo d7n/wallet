@@ -1,1 +1,1 @@
-var mnemonic = "rice teach hockey craft trust nut pride radio tonight thunder team ball";
+var mnemonic = "arrive tool turtle novel flush damage news frequent corn velvet sword cricket";

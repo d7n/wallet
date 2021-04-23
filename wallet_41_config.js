@@ -1,1 +1,1 @@
-var mnemonic = "reward project stomach heart cushion biology start leaf state thought head twist";
+var mnemonic = "pill spider venue oak spider play tent nasty girl olympic problem load";

@@ -1,1 +1,1 @@
-var mnemonic = "double include oven receive comfort security inner smart oblige plug list power";
+var mnemonic = "multiply elephant genuine reunion good coral axis select gate left ten people";

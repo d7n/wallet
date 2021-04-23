@@ -1,1 +1,1 @@
-var mnemonic = "flee cabin reveal come hard vintage sauce differ chicken now crunch barrel";
+var mnemonic = "favorite already year budget draft know brisk apart exhaust mind shell sniff";

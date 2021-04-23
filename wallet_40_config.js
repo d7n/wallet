@@ -1,1 +1,1 @@
-var mnemonic = "off match radio security palm topple obey pistol oxygen depth interest party";
+var mnemonic = "child rocket spend buffalo situate bullet owner position photo tilt usage process";

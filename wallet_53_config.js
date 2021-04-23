@@ -1,1 +1,1 @@
-var mnemonic = "olive consider pumpkin height guitar lounge obtain mercy humble pottery little hungry";
+var mnemonic = "brown little between recipe thank among inhale relief eager tiny size title";

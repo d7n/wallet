@@ -1,1 +1,1 @@
-var mnemonic = "trend luxury hour mutual hand chair empower such allow shaft dash length";
+var mnemonic = "solid noble observe drum shrimp jazz black correct brown already harbor guard";

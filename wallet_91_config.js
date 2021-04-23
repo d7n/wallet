@@ -1,1 +1,1 @@
-var mnemonic = "style wedding train west autumn brown there analyst agree vessel echo seek";
+var mnemonic = "canvas gym focus upper despair glimpse police motor digital begin burger diary";

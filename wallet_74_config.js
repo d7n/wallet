@@ -1,1 +1,1 @@
-var mnemonic = "toward also day used explain act basic subway crane kitchen debate obtain";
+var mnemonic = "kingdom rigid jump normal maid bundle deal ball choice father bean purpose";

@@ -1,1 +1,1 @@
-var mnemonic = "need sting earn never upgrade laugh wrap nation ostrich weasel shop return";
+var mnemonic = "slogan estate leave wreck axis cinnamon until elbow label broccoli omit daring";

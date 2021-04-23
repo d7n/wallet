@@ -1,1 +1,1 @@
-var mnemonic = "word wheel consider whip cabbage repair disagree charge morning gap cart feature";
+var mnemonic = "twin breeze decide present creek naive arrive inherit test gold answer essence";

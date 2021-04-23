@@ -1,1 +1,1 @@
-var mnemonic = "panel sting announce update tomorrow smile harbor depth appear add iron goddess";
+var mnemonic = "sun rude waste axis coach nurse hobby minor gather stamp treat bridge";

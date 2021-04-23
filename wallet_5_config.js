@@ -1,1 +1,1 @@
-var mnemonic = "casino cactus category lunar midnight pencil excess prepare skill feed mobile excite";
+var mnemonic = "knife feel guess sudden army found leader ski cigar baby web frame";

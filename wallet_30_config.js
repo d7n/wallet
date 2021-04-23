@@ -1,1 +1,1 @@
-var mnemonic = "drum donkey matrix hurdle rapid fog cup clog omit punch clock voice";
+var mnemonic = "agent civil awkward impact blossom pigeon critic stock end huge liar mandate";

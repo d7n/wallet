@@ -1,1 +1,1 @@
-var mnemonic = "eternal cheap tattoo recall day buddy month universe top spoon fever brown";
+var mnemonic = "race catch fire only busy marriage bind spray chimney thumb reunion lizard";

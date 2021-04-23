@@ -1,1 +1,1 @@
-var mnemonic = "veteran industry bunker tone garage alien notable endless kidney sniff engage audit";
+var mnemonic = "device brown ivory security casual gesture kitten arrow dream strong shiver news";

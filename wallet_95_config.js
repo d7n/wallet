@@ -1,1 +1,1 @@
-var mnemonic = "modify police fragile juice kiss mixed orchard glide mandate deny blind globe";
+var mnemonic = "neglect spatial rent seed arrive kiss review machine interest illness regular useful";

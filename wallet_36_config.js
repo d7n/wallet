@@ -1,1 +1,1 @@
-var mnemonic = "coil poet clever gather range first seat blossom play pottery adult release";
+var mnemonic = "sleep maple impact kind half table soda muffin junior clutch scrap find";

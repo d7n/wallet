@@ -1,1 +1,1 @@
-var mnemonic = "fence uncover unit maid avoid patch patrol this sibling mixture capital general";
+var mnemonic = "already manage supreme finish hamster motor kiss wool trumpet vendor angry asthma";

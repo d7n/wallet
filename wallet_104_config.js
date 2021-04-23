@@ -1,1 +1,1 @@
-var mnemonic = "pelican hamster spoon time summer term fragile measure glare solid minimum impose";
+var mnemonic = "advance disease pull dawn boost edit mouse cousin boy exercise change pig";
