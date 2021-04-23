@@ -1,1 +1,1 @@
-var mnemonic = "century puppy live day sea phrase cereal rain latin burden enable paper";
+var mnemonic = "agent scout sand lady rubber siege staff card street promote federal harbor";

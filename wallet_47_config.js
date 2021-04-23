@@ -1,1 +1,1 @@
-var mnemonic = "achieve crawl little arch dilemma orphan topple shiver paper expect view still";
+var mnemonic = "destroy swamp adjust gain phrase wisdom space weapon height garden swing voyage";

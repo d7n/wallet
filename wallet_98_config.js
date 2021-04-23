@@ -1,1 +1,1 @@
-var mnemonic = "funny stove bomb slogan office spray energy embody bread tone include sheriff";
+var mnemonic = "you digital fabric error rough giant snow tongue amount salad area dumb";

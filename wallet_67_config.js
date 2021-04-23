@@ -1,1 +1,1 @@
-var mnemonic = "replace random broom fiscal rate slam upon appear know firm bamboo ride";
+var mnemonic = "window wise jacket praise lock release february whip hobby cable stable stock";

@@ -1,1 +1,1 @@
-var mnemonic = "paddle boost legal project walnut doctor aware rhythm typical album donate double";
+var mnemonic = "move submit later social square midnight glare crop hobby style resemble polar";

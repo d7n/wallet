@@ -1,1 +1,1 @@
-var mnemonic = "else auction miracle letter doll borrow gift mind unknown crumble island harsh";
+var mnemonic = "monkey virus lyrics develop sister milk calm inspire purchase grab mention series";

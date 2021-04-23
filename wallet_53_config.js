@@ -1,1 +1,1 @@
-var mnemonic = "impulse above wing pond card cupboard siege mobile jeans track carry release";
+var mnemonic = "sunset vacuum ten bargain suit various conduct endless library gather feed crew";

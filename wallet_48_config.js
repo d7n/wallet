@@ -1,1 +1,1 @@
-var mnemonic = "fun relief quick erase neither pony inject sail math carbon title laptop";
+var mnemonic = "addict spoon fit regret phrase that repeat staff fashion hire team west";

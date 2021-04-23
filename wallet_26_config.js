@@ -1,1 +1,1 @@
-var mnemonic = "supreme cause vehicle cake pause kid liquid law green auto unusual reunion";
+var mnemonic = "tag census squirrel express describe danger anxiety simple enact emerge bamboo keep";

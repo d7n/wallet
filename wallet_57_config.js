@@ -1,1 +1,1 @@
-var mnemonic = "seminar nose farm bracket purpose coast under congress measure april bitter aim";
+var mnemonic = "cute disease bomb wheat extra fold elite cricket laundry legend hood mother";

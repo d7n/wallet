@@ -1,1 +1,1 @@
-var mnemonic = "bottom spin laugh furnace school between february stage army open hazard expire";
+var mnemonic = "engage inside focus kite twelve satisfy execute fetch dose note inner picture";

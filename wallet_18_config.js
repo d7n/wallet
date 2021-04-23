@@ -1,1 +1,1 @@
-var mnemonic = "nasty grain fuel borrow mouse poem camp useless again uncle apart novel";
+var mnemonic = "apple legend alien input wild coil rent never point nest extend shift";

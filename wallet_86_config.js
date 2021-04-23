@@ -1,1 +1,1 @@
-var mnemonic = "process casino where trash carbon helmet culture ready budget frost glove leaf";
+var mnemonic = "mixture blur noble employ deputy cloud earn mountain squeeze junior better fly";

@@ -1,1 +1,1 @@
-var mnemonic = "beach similar program pottery blame slab machine slight journey noble observe brain";
+var mnemonic = "vacant enact hire thing repeat bubble fault ice degree hard shield satisfy";

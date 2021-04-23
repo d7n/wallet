@@ -1,1 +1,1 @@
-var mnemonic = "pluck nuclear region change heart fatigue silver genre speed west amused daring";
+var mnemonic = "program seat globe insect slice east demise embrace opera minute glue ghost";

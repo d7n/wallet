@@ -1,1 +1,1 @@
-var mnemonic = "garden vote connect develop method weekend address shadow issue clown good burden";
+var mnemonic = "unit rhythm sunny pass time squirrel spirit immense initial cluster powder mask";

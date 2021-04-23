@@ -1,1 +1,1 @@
-var mnemonic = "guess talent equal boat soft jazz dance attitude lend annual student close";
+var mnemonic = "shell bullet genuine relief viable broken disagree pink stand gym pizza chimney";

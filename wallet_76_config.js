@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur atom cruise curtain claim robust crumble anxiety fall ship unaware crucial";
+var mnemonic = "section live host relief unaware coffee regular portion obey grow slot modify";

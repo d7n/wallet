@@ -1,1 +1,1 @@
-var mnemonic = "inspire breeze pet print wealth race young glad bridge census deputy own";
+var mnemonic = "library stage list truck fee walk shed elegant coconut ritual salon split";

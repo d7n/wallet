@@ -1,1 +1,1 @@
-var mnemonic = "river skate evoke pelican mystery erode tomato expect gauge vast noodle tape";
+var mnemonic = "link adult dilemma kid pool outdoor banner act require allow tornado smile";

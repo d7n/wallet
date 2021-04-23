@@ -1,1 +1,1 @@
-var mnemonic = "bunker forum mandate gorilla purse diesel stable dignity addict play observe increase";
+var mnemonic = "ecology square course warfare display arrive jump tube disease maple annual tonight";

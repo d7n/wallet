@@ -1,1 +1,1 @@
-var mnemonic = "lunar aunt chef grow blood govern level skate snack forget tag ketchup";
+var mnemonic = "power way defy regret forward tackle pretty twenty palace horror plug economy";

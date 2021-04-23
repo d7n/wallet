@@ -1,1 +1,1 @@
-var mnemonic = "case prize brain upon slab pledge seven mercy logic connect mansion angry";
+var mnemonic = "bomb feed cradle fire coyote cover margin fuel doll picnic spend toss";

@@ -1,1 +1,1 @@
-var mnemonic = "jaguar segment possible used doctor guide panic beyond ice street believe usage";
+var mnemonic = "key entire illegal ensure piano ramp illness hello reform dad what anchor";

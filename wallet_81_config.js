@@ -1,1 +1,1 @@
-var mnemonic = "cement interest sadness slender stadium list idle mesh shiver word fringe luxury";
+var mnemonic = "orbit peace penalty play luxury hunt edge thunder arrange two vanish alone";

@@ -1,1 +1,1 @@
-var mnemonic = "column brush pill guide mouse typical people solve laptop elephant brick spatial";
+var mnemonic = "bottom vital ski chicken stage nest other castle usage destroy resource excess";

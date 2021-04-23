@@ -1,1 +1,1 @@
-var mnemonic = "hope walk young drill beef balcony fortune miss civil view swim enroll";
+var mnemonic = "capable flag panel ostrich theory garlic clock stage diamond cabin domain often";

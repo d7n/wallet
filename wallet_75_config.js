@@ -1,1 +1,1 @@
-var mnemonic = "syrup spirit victory regular achieve sock amused worth symptom add use win";
+var mnemonic = "illegal reform tail this flight barrel funny thing actual ritual assault prevent";

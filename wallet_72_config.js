@@ -1,1 +1,1 @@
-var mnemonic = "gym ill pattern country clinic like endorse popular lab virus wagon hope";
+var mnemonic = "appear story three supply south autumn estate guide write victory degree antique";

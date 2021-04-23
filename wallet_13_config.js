@@ -1,1 +1,1 @@
-var mnemonic = "merge duty ceiling peanut honey wood genuine wreck country brand rib capable";
+var mnemonic = "bubble april stereo pen avoid tuna social either obtain obscure renew funny";

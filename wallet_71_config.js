@@ -1,1 +1,1 @@
-var mnemonic = "they senior security ranch radio what drill other move rib inject absorb";
+var mnemonic = "hedgehog swift hero fetch describe predict scatter usage chuckle armed donkey near";

@@ -1,1 +1,1 @@
-var mnemonic = "multiply dish senior coil bread zero guide ketchup few manage candy cereal";
+var mnemonic = "about game latin raise ritual weasel any long loop ridge muffin clarify";

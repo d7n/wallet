@@ -1,1 +1,1 @@
-var mnemonic = "float clerk pelican plate ticket nasty history pistol vast genre element provide";
+var mnemonic = "tomorrow unaware leaf library stem mask gentle phrase wheel notable two proof";

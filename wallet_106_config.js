@@ -1,1 +1,1 @@
-var mnemonic = "armor timber like worry captain route sketch thank spare stable vanish program";
+var mnemonic = "dynamic aunt math eye bar unhappy flee worry certain usual amazing lava";

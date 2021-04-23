@@ -1,1 +1,1 @@
-var mnemonic = "stairs token lyrics young ugly rebuild token wisdom clutch valid sorry escape";
+var mnemonic = "ozone worth author depart monster sense man urge evolve must mobile key";

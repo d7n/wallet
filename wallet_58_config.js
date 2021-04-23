@@ -1,1 +1,1 @@
-var mnemonic = "goddess now treat process elegant enjoy auto hard name proud picnic text";
+var mnemonic = "defense fury gloom diary minute abandon peasant sting stand veteran dentist squeeze";

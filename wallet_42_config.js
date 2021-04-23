@@ -1,1 +1,1 @@
-var mnemonic = "dune crumble jaguar later sphere scrub idle frost lens kangaroo mistake rich";
+var mnemonic = "excess level favorite sad champion skate crumble apart grunt enter whale proud";

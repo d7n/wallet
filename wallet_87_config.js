@@ -1,1 +1,1 @@
-var mnemonic = "parent genuine glow point mixture view horn hockey sand pull refuse jeans";
+var mnemonic = "memory trouble employ fee ten immense where angry ocean wink blood physical";

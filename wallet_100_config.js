@@ -1,1 +1,1 @@
-var mnemonic = "apple exhibit amount heavy furnace text genius toward seed depth foster section";
+var mnemonic = "member blur erase always surprise amused team transfer ship door pulp cruel";

@@ -1,1 +1,1 @@
-var mnemonic = "repeat alcohol fix fatigue lady runway jump volume dawn draft history hedgehog";
+var mnemonic = "above runway hamster cable diagram giggle gaze source narrow talk sound flip";

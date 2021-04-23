@@ -1,1 +1,1 @@
-var mnemonic = "supreme traffic they hover please notable easy hour indoor olympic praise silk";
+var mnemonic = "receive fringe key address replace defense wonder level isolate body farm heavy";

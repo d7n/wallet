@@ -1,1 +1,1 @@
-var mnemonic = "shield crane silver spider electric seminar bubble curious again chronic chat mobile";
+var mnemonic = "cushion bachelor lizard youth hair talk immense hope taste spin render degree";

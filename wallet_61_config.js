@@ -1,1 +1,1 @@
-var mnemonic = "intact exact remind come leg increase accident urban three alarm various anger";
+var mnemonic = "pilot upper fame result type loop south length another theme obvious good";

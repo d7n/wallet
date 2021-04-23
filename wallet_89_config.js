@@ -1,1 +1,1 @@
-var mnemonic = "split income yard garlic apology hero blame cool away canyon ability poverty";
+var mnemonic = "maze invest view food because they begin edge remain toy iron ahead";

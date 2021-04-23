@@ -1,1 +1,1 @@
-var mnemonic = "hold foam wine wear axis book clog bitter drift kitchen prison fruit";
+var mnemonic = "jaguar always point universe erode camera enough odor gain pottery chapter undo";

@@ -1,1 +1,1 @@
-var mnemonic = "sunset unknown unhappy embody bachelor explain rice wall undo sample over capable";
+var mnemonic = "diagram dress swing head put share office offer picture chronic october sad";

@@ -1,1 +1,1 @@
-var mnemonic = "physical gesture muffin company faint lunch chat salute divert abuse gorilla range";
+var mnemonic = "margin solar nut sibling involve tray museum recipe pole mass ancient man";

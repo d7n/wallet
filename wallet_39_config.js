@@ -1,1 +1,1 @@
-var mnemonic = "write broken sister ice trim swap endorse ribbon acoustic visual cement demand";
+var mnemonic = "pig bomb sadness keep repair goat frost cruel hole divorce analyst tackle";

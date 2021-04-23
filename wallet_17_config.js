@@ -1,1 +1,1 @@
-var mnemonic = "target dirt account method prevent sister puzzle museum promote special tired student";
+var mnemonic = "run piano security range arm loan never combine orange wonder utility doctor";

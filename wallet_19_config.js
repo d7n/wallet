@@ -1,1 +1,1 @@
-var mnemonic = "spoon shrimp seat sketch wall leisure first enrich dose position diamond donkey";
+var mnemonic = "tattoo bulk execute dash harbor since elegant depend vehicle seed fragile very";

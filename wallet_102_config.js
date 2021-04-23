@@ -1,1 +1,1 @@
-var mnemonic = "base settle clown demise wood debris fruit know lazy deposit forum finish";
+var mnemonic = "raw struggle flat hollow vibrant size also muscle path holiday wheat wool";

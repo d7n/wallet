@@ -1,1 +1,1 @@
-var mnemonic = "pioneer dilemma bike auction quit since patrol blame profit double social stock";
+var mnemonic = "number explain assault whisper direct employ valve limit raise work lake bone";

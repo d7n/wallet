@@ -1,1 +1,1 @@
-var mnemonic = "legal robust gold tomato donor female jewel theory submit jazz street famous";
+var mnemonic = "depend they false tell rescue spike bench female direct phone upper bring";

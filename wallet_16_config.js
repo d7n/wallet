@@ -1,1 +1,1 @@
-var mnemonic = "tattoo afford anxiety penalty human airport main people laundry divorce build found";
+var mnemonic = "brush dilemma discover slush above acid ketchup age absorb canyon answer mobile";

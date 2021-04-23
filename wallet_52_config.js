@@ -1,1 +1,1 @@
-var mnemonic = "innocent illness frog coyote issue mystery steak skin run silver ritual water";
+var mnemonic = "apple cook affair shed blossom thunder cactus cause trade magnet acquire laundry";

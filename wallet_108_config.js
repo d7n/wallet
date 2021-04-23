@@ -1,1 +1,1 @@
-var mnemonic = "bridge dismiss protect net method peasant favorite drive improve client bless river";
+var mnemonic = "inform husband foil share must arena lunar spawn hub profit wrist rally";

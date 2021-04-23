@@ -1,1 +1,1 @@
-var mnemonic = "mad gift amused rabbit alert onion ten happy pony two hip know";
+var mnemonic = "color sing truly choose question wage swear mosquito flash hair essence supreme";

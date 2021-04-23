@@ -1,1 +1,1 @@
-var mnemonic = "critic spice vintage vacuum hotel design gaze dash hood start beauty day";
+var mnemonic = "scrub neither night regular upset material finish moral rather moment enlist helmet";

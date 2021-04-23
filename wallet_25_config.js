@@ -1,1 +1,1 @@
-var mnemonic = "spy fury fragile tip poverty tuna skull assume toy purchase thank fog";
+var mnemonic = "hobby trust left ball bean flip pretty kitten material assume very brass";

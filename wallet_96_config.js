@@ -1,1 +1,1 @@
-var mnemonic = "setup chronic prosper music salad urge dwarf useless remember ozone because ocean";
+var mnemonic = "midnight nerve rabbit head access scan cushion toast limb doll doctor wage";

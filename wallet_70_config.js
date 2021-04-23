@@ -1,1 +1,1 @@
-var mnemonic = "proof cry repair display such whip teach debris kiwi parade express another";
+var mnemonic = "usage carry glad manage rich enough choice horse scene top boss crop";

@@ -1,1 +1,1 @@
-var mnemonic = "maple situate ceiling mobile athlete visit unfold divorce deny clerk text deposit";
+var mnemonic = "nation hurt champion knife caught uphold person rent vote appear sense marriage";

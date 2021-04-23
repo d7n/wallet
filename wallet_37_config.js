@@ -1,1 +1,1 @@
-var mnemonic = "install air quick thumb street pledge gorilla usual twenty robust caught fix";
+var mnemonic = "siren law whale ice laptop giant rookie vast rice season hunt nation";

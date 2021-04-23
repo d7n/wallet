@@ -1,1 +1,1 @@
-var mnemonic = "cushion daughter stand absorb actress below avoid trigger exile face february apology";
+var mnemonic = "effort clog evidence detect arch else gold sister fringe family faith shuffle";

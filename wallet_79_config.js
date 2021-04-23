@@ -1,1 +1,1 @@
-var mnemonic = "tumble kid dumb tray reject assume border until quality high female afford";
+var mnemonic = "unusual elegant sadness client green crystal have story diet bamboo service badge";

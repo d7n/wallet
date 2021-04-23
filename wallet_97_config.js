@@ -1,1 +1,1 @@
-var mnemonic = "usual hurry rally plug dial plug ocean mobile goddess original dwarf reveal";
+var mnemonic = "wasp nest predict wasp own column taste brush banner tiny arch wide";

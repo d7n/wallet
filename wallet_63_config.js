@@ -1,1 +1,1 @@
-var mnemonic = "state stamp night bleak soccer battle crack ball wine library response yellow";
+var mnemonic = "book flight design vague punch offer donate tool clinic hamster victory food";

@@ -1,1 +1,1 @@
-var mnemonic = "visual scrub trust slim promote small radio soon affair afraid explain flush";
+var mnemonic = "receive laugh fence link denial august tooth daughter pyramid bind mountain boil";

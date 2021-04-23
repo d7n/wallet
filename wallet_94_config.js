@@ -1,1 +1,1 @@
-var mnemonic = "love soda cloud wrestle rally provide inquiry pattern trap vessel steak thrive";
+var mnemonic = "kitten valve never scrap punch birth timber nut hamster act paddle ritual";

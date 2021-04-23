@@ -1,1 +1,1 @@
-var mnemonic = "danger catalog cargo frame slab stock firm control leisure task surge total";
+var mnemonic = "super meadow spike news soon escape recipe clinic chase moon deputy silent";

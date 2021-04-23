@@ -1,1 +1,1 @@
-var mnemonic = "master cactus gown cancel cute have frame auction mule island cereal hobby";
+var mnemonic = "meadow venue market click abandon talent guess cave submit unit return suit";

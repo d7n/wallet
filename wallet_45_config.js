@@ -1,1 +1,1 @@
-var mnemonic = "busy fiction long surge modify device valley gaze ritual two kidney crazy";
+var mnemonic = "tide worth allow spend pilot issue shock canoe spend fine viable episode";

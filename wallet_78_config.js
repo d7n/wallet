@@ -1,1 +1,1 @@
-var mnemonic = "remain sock heavy chaos endorse drive lamp include delay coyote law long";
+var mnemonic = "people change buyer gossip level cushion two achieve recycle choice zebra genre";

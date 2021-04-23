@@ -1,1 +1,1 @@
-var mnemonic = "advice capital away stand foam near gadget quit element wonder pupil jar";
+var mnemonic = "what forum surprise half quit fortune elephant metal bounce island pudding smart";

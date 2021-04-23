@@ -1,1 +1,1 @@
-var mnemonic = "seat ranch any pioneer sample dutch element comfort sunny unveil universe pluck";
+var mnemonic = "genre mammal rifle door decrease answer arrest arena satoshi identify faith century";

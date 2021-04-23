@@ -1,1 +1,1 @@
-var mnemonic = "dream twice net music icon promote endless space future tornado jelly acquire";
+var mnemonic = "various climb column dune faint milk moral tumble total symptom peasant solid";

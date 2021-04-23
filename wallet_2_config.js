@@ -1,1 +1,1 @@
-var mnemonic = "mobile piano box remind three layer upper badge room impulse message system";
+var mnemonic = "video second connect scrub electric glance express near outside soul half shaft";

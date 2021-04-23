@@ -1,1 +1,1 @@
-var mnemonic = "ridge manage begin true shrimp rug seed session glare spoon memory biology";
+var mnemonic = "lesson another penalty lumber empty lazy wing chuckle mystery believe filter rural";

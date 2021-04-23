@@ -1,1 +1,1 @@
-var mnemonic = "chunk vapor jaguar bird laptop crack trend path canal answer author alley";
+var mnemonic = "ignore dress pen hello doctor cactus toe six exhaust timber assault staff";

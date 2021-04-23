@@ -1,1 +1,1 @@
-var mnemonic = "pottery fiction forum magnet above sunny remain yard announce vital library trumpet";
+var mnemonic = "trophy arm paper resource pass runway cake victory waste board artwork squeeze";

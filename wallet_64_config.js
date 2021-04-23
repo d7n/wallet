@@ -1,1 +1,1 @@
-var mnemonic = "aunt isolate profit true usual girl into fury saddle tissue chat average";
+var mnemonic = "cabin gold family scare margin inform margin inform glimpse truck ecology catalog";

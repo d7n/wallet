@@ -1,1 +1,1 @@
-var mnemonic = "token mention canyon permit allow swim cattle fuel limit outer total snow";
+var mnemonic = "hedgehog room proud congress surprise three wrist bamboo insane orphan process trumpet";

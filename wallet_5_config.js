@@ -1,1 +1,1 @@
-var mnemonic = "whale shrimp rigid net blame resist crash pipe board immune unable permit";
+var mnemonic = "flip addict they lonely ten garden earth chalk reflect amateur save toddler";

@@ -1,1 +1,1 @@
-var mnemonic = "peasant adjust lock company twenty review still build inquiry hard bone valve";
+var mnemonic = "goat thrive decorate stomach soap cannon copper relief depth salmon grow knife";

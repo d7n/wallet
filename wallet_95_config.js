@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon method friend parent fever boring pencil token catalog grain strike knock";
+var mnemonic = "puzzle awesome nominee gap virus rent oval pool kiwi easily ski mandate";

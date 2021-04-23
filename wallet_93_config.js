@@ -1,1 +1,1 @@
-var mnemonic = "assist debate dad friend copper smart scare soft pyramid lab satoshi memory";
+var mnemonic = "ginger volume team replace addict lyrics scan seven mom slab interest attend";

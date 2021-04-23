@@ -1,1 +1,1 @@
-var mnemonic = "okay beach silly coral ankle split firm credit noise whip pepper toddler";
+var mnemonic = "valley rookie shop gravity laundry draft basic provide include follow duty this";

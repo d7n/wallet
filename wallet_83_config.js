@@ -1,1 +1,1 @@
-var mnemonic = "matrix rain brain double mixture rain liquid exercise satoshi code west utility";
+var mnemonic = "rebel language paper tip output awful until dolphin oval dish peanut oppose";

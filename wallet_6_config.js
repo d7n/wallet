@@ -1,1 +1,1 @@
-var mnemonic = "proof bronze salon all network nice guess night save vast talk teach";
+var mnemonic = "debris angry rose author canoe crush battle light seed region tiger other";

@@ -1,1 +1,1 @@
-var mnemonic = "valley coffee unfair lizard situate fabric quantum burden twist atom already runway";
+var mnemonic = "surface buffalo clap victory gloom approve ketchup banana truly assist nose thrive";
