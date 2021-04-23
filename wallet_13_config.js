@@ -1,1 +1,1 @@
-var mnemonic = "spirit marriage hole order detail length area lake develop dust human fitness";
+var mnemonic = "boy shrimp reduce razor bomb inhale identify zoo scissors dutch donkey copper";

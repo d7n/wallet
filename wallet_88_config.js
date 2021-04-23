@@ -1,1 +1,1 @@
-var mnemonic = "copper glare festival pond van citizen evil word detect tattoo squeeze vessel";
+var mnemonic = "record blur palm celery maple need february way fit robot science tide";

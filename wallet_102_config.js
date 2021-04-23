@@ -1,1 +1,1 @@
-var mnemonic = "rail develop guide bless erosion spray shop vibrant thank emerge crane print";
+var mnemonic = "fork post glass bleak discover grief yellow dad normal pride vehicle skill";

@@ -1,1 +1,1 @@
-var mnemonic = "vanish nothing favorite horse bleak exit travel rebel daughter start trouble spend";
+var mnemonic = "april resist help injury wild front ask deny mix quick school sadness";

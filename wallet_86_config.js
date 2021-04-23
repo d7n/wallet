@@ -1,1 +1,1 @@
-var mnemonic = "believe plastic have about monkey mouse affair exchange bag limit faint auto";
+var mnemonic = "betray police chest enroll medal finger reason below define swallow foster apple";

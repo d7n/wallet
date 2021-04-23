@@ -1,1 +1,1 @@
-var mnemonic = "group arrest cheese liberty zero movie actor drama city grace lion market";
+var mnemonic = "agent real empty what little disease oxygen negative world donate sad always";

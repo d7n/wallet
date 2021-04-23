@@ -1,1 +1,1 @@
-var mnemonic = "tobacco measure tortoise kite walk quantum pool logic pull flower milk style";
+var mnemonic = "milk expand current put build weapon limb clown crack place vanish wire";

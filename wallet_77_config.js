@@ -1,1 +1,1 @@
-var mnemonic = "level anxiety very uphold truly jewel feed pipe scare oven nominee move";
+var mnemonic = "goat city rookie prison talk polar guess pipe under vital twin elbow";

@@ -1,1 +1,1 @@
-var mnemonic = "forget noodle lemon later rail cinnamon palace glide picnic digital exit govern";
+var mnemonic = "focus siren analyst ten erode main tackle gloom trouble giant visit depend";

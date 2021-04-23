@@ -1,1 +1,1 @@
-var mnemonic = "poem shock myth stay mad joy decline rocket bar cram code canyon";
+var mnemonic = "someone canyon velvet owner unique boring equip message hungry achieve kitchen comic";

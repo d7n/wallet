@@ -1,1 +1,1 @@
-var mnemonic = "myth session orbit holiday sister ketchup pulp fault you wool display flash";
+var mnemonic = "chuckle athlete town awesome remove opinion popular soul final zone license display";

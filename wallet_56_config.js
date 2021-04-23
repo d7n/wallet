@@ -1,1 +1,1 @@
-var mnemonic = "lumber evil settle under student loan also vocal brand goat game rough";
+var mnemonic = "choose jar brain net oppose wild frequent scrub sustain joy bright affair";

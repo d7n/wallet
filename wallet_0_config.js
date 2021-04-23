@@ -1,1 +1,1 @@
-var mnemonic = "fitness lounge orange arm since ski field cricket tower own away parent";
+var mnemonic = "melody hello conduct cream proud myself flight foot pave lab document garment";

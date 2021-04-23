@@ -1,1 +1,1 @@
-var mnemonic = "lecture magnet orphan coral royal believe nose hand practice victory ceiling obey";
+var mnemonic = "couch luxury april south double clerk dish tumble mother science equal judge";

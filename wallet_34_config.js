@@ -1,1 +1,1 @@
-var mnemonic = "tuition carbon vendor senior dumb refuse foam cream cart trip net amused";
+var mnemonic = "rotate rhythm loud path sand what mango dish hover odor stage bacon";

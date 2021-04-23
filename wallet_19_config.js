@@ -1,1 +1,1 @@
-var mnemonic = "poem about crucial more shed sure unfair include fringe lamp action ozone";
+var mnemonic = "convince same actual pool clip garden scan blue wage enjoy anchor insect";

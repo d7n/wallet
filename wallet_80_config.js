@@ -1,1 +1,1 @@
-var mnemonic = "disorder anxiety hamster fan universe favorite doctor crush price element item diagram";
+var mnemonic = "misery hello amount absorb document heart blame success equip reveal tuition orient";

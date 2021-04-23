@@ -1,1 +1,1 @@
-var mnemonic = "pledge hair alien hold hat ranch cost rebuild bring execute mammal feel";
+var mnemonic = "forest stage upon subject again renew reveal claim oven amazing grape outdoor";

@@ -1,1 +1,1 @@
-var mnemonic = "dolphin captain arrow awake egg hundred door also spare inner salad rule";
+var mnemonic = "vivid burden poet pass curve dirt gasp hub aisle bench wheel kit";

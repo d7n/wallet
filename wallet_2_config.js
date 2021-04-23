@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo record whip cloth brisk keen midnight stereo plate toilet throw exist";
+var mnemonic = "spoil floor security famous kind curious twist save coffee exercise execute keen";

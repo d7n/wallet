@@ -1,1 +1,1 @@
-var mnemonic = "hint arm alcohol dog entry profit insane tray cook viable wagon flight";
+var mnemonic = "easy boil jar pride exhibit exit void prosper family uncle option month";

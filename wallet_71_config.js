@@ -1,1 +1,1 @@
-var mnemonic = "cliff gown project husband chase zebra remind left because test dolphin post";
+var mnemonic = "tuna copper nest buyer dragon much tragic reunion license cushion scale happy";

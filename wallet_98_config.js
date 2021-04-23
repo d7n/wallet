@@ -1,1 +1,1 @@
-var mnemonic = "fade blind market stone master bounce grass cradle dream model raccoon rose";
+var mnemonic = "write fade wreck second boy coach height host cement loyal poet glove";

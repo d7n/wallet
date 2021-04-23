@@ -1,1 +1,1 @@
-var mnemonic = "embark burst garden kite size space work okay globe diesel breeze awesome";
+var mnemonic = "hub cover age what record nurse crazy adapt evoke subject arrive seat";

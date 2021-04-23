@@ -1,1 +1,1 @@
-var mnemonic = "denial use wet muffin fortune allow toast cliff fiscal shock gravity despair";
+var mnemonic = "come issue staff must undo refuse stamp impulse water bread exhaust across";

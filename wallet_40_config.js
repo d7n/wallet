@@ -1,1 +1,1 @@
-var mnemonic = "youth urge cereal nurse page possible pink explain manual stable twice border";
+var mnemonic = "height family enough sunset client tool riot throw roast large noble point";

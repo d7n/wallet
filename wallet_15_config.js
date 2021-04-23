@@ -1,1 +1,1 @@
-var mnemonic = "borrow simple zone mixture model release family excess mistake key consider jar";
+var mnemonic = "model eight suit bulb invite duty elbow peace clock flip flower opinion";

@@ -1,1 +1,1 @@
-var mnemonic = "method brick fatal toilet trash turn doctor afford slice erupt enroll grocery";
+var mnemonic = "lawn canyon next loop bullet caution draft misery better captain material core";

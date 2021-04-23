@@ -1,1 +1,1 @@
-var mnemonic = "melody network net deal prize panda gasp sweet warrior project crack moral";
+var mnemonic = "despair section humble venue seven wild embody relief chapter output skull push";

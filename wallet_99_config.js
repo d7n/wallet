@@ -1,1 +1,1 @@
-var mnemonic = "squirrel crane arrange inflict car pony blossom warfare ensure vintage ocean absent";
+var mnemonic = "transfer gate innocent gauge once mind device panther embrace chase clean auto";

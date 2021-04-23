@@ -1,1 +1,1 @@
-var mnemonic = "spice crazy portion figure plunge element design easily stumble alone abstract before";
+var mnemonic = "blast ticket stool project silent okay clever winner devote happy detail cricket";

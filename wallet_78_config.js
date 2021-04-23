@@ -1,1 +1,1 @@
-var mnemonic = "steak cement dragon upon embrace wealth eight hello venture outer pupil winter";
+var mnemonic = "certain toward harbor spot home fine tissue major corn feature consider disorder";

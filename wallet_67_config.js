@@ -1,1 +1,1 @@
-var mnemonic = "pizza weekend below diary daughter any chest short urban huge tilt rare";
+var mnemonic = "rigid lawn cricket coin shy scatter acquire retreat raccoon notable car canoe";

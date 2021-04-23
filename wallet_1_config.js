@@ -1,1 +1,1 @@
-var mnemonic = "mystery south session script acquire blood guitar camera table purchase fold couch";
+var mnemonic = "choice truck gap lady success unveil hollow obey guitar submit vessel enable";

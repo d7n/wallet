@@ -1,1 +1,1 @@
-var mnemonic = "raise consider coin wife nest name earn seek shiver worth teach magnet";
+var mnemonic = "since ethics edit hockey idea onion require mosquito sign tragic custom act";

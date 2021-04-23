@@ -1,1 +1,1 @@
-var mnemonic = "pool window inspire clump mimic great lizard very this real opinion undo";
+var mnemonic = "predict giraffe phone carpet model shine breeze broom bubble whisper jungle come";

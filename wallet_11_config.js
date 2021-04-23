@@ -1,1 +1,1 @@
-var mnemonic = "quiz call try delay fox nurse chunk student owner dune chair sock";
+var mnemonic = "suffer travel warfare thank embark umbrella during online detect rifle fashion rookie";

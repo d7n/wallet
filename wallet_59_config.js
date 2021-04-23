@@ -1,1 +1,1 @@
-var mnemonic = "unusual reflect sample design poverty pluck obey express toy dress regular little";
+var mnemonic = "actress cave once silver bullet scale airport addict acid point phrase expose";

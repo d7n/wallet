@@ -1,1 +1,1 @@
-var mnemonic = "oval cook develop fluid envelope drop trip wool rough expand gloom bulb";
+var mnemonic = "custom stone long emotion into advance cook immune question prosper include dove";

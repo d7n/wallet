@@ -1,1 +1,1 @@
-var mnemonic = "blur loyal flower energy venue grace rebel sight rough hen boil capable";
+var mnemonic = "insect theme onion virus post common uniform false hand book decorate angry";

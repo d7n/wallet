@@ -1,1 +1,1 @@
-var mnemonic = "baby script escape wasp cricket comfort gloom legend father myth soldier young";
+var mnemonic = "setup village spice client quantum double shock pioneer bullet curtain heart axis";

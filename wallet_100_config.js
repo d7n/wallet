@@ -1,1 +1,1 @@
-var mnemonic = "buyer lion rural order kite treat arena staff laugh book provide recipe";
+var mnemonic = "oyster list resemble erode flush pencil topic powder sponsor clay rare exact";

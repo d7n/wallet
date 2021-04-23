@@ -1,1 +1,1 @@
-var mnemonic = "exile panther return divide tragic two confirm prison equip system brave focus";
+var mnemonic = "number follow venue budget venue icon insane garlic page become mixture magic";

@@ -1,1 +1,1 @@
-var mnemonic = "push mule excuse fine enough hard member loan deer stuff found merry";
+var mnemonic = "quality wait kangaroo hedgehog venue perfect dismiss awkward vessel blood debris toward";

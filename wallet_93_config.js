@@ -1,1 +1,1 @@
-var mnemonic = "mechanic save escape interest kitten very stock response vanish subway slight physical";
+var mnemonic = "crazy dash economy jazz anxiety addict surge warrior gentle reject canal good";

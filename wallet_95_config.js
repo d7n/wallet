@@ -1,1 +1,1 @@
-var mnemonic = "disease focus seat sister charge warfare garment history holiday hawk coral angle";
+var mnemonic = "piece soon still diagram enlist pitch exercise maximum guitar unfair night order";

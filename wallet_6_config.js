@@ -1,1 +1,1 @@
-var mnemonic = "where insane dismiss skirt crater net damp drum source oppose good possible";
+var mnemonic = "plug body basic spot pen bring bike shallow pet gentle garment audit";

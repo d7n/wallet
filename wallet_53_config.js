@@ -1,1 +1,1 @@
-var mnemonic = "acquire adapt cannon drama neither uncle daring refuse problem cage job kit";
+var mnemonic = "rely team give squeeze truth task safe aerobic enter vocal bag dice";

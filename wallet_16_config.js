@@ -1,1 +1,1 @@
-var mnemonic = "recycle bean wide grunt shoe easy plate maple margin outer pistol huge";
+var mnemonic = "hospital box rescue candy bitter basic tube degree focus misery rocket drift";

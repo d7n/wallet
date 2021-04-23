@@ -1,1 +1,1 @@
-var mnemonic = "strategy egg invite push message grant model dove bracket return ring differ";
+var mnemonic = "picnic chest river spice ice stable venture burger welcome margin orchard identify";

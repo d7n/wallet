@@ -1,1 +1,1 @@
-var mnemonic = "easy brush topic true this skill sword recipe buyer swap tell coffee";
+var mnemonic = "flat strong vast hill exact aim local business error type job assault";

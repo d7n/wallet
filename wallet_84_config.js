@@ -1,1 +1,1 @@
-var mnemonic = "three taste zebra stool business bean sun clip egg food pull myth";
+var mnemonic = "betray word hazard ill blade vacuum mirror topic race food spoil shuffle";

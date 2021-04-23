@@ -1,1 +1,1 @@
-var mnemonic = "powder retreat cruel shrug uniform verb afraid style pumpkin view figure wide";
+var mnemonic = "pluck jeans final company lion suspect hazard firm inquiry rifle element book";

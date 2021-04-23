@@ -1,1 +1,1 @@
-var mnemonic = "faint glove rain taste skirt wish crew return assume empower harvest deputy";
+var mnemonic = "life balcony okay jungle found valley remain kingdom maximum giggle balance lawn";

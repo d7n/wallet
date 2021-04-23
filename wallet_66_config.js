@@ -1,1 +1,1 @@
-var mnemonic = "spike forum talk tiger popular caution behind pear end hotel else velvet";
+var mnemonic = "zebra barely pledge bless learn bacon client swim exit saddle permit charge";

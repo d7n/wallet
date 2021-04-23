@@ -1,1 +1,1 @@
-var mnemonic = "vital riot stool predict boil erode rather near filter seat all banana";
+var mnemonic = "company comic sea renew warrior teach opera south knife nephew brain crush";

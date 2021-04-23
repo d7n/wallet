@@ -1,1 +1,1 @@
-var mnemonic = "slight robust lemon regular fish cost embark bitter property song video giraffe";
+var mnemonic = "shove afraid height fuel scissors swing income bicycle spirit fetch wolf garden";

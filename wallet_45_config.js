@@ -1,1 +1,1 @@
-var mnemonic = "picture bacon shadow then property age arm harvest light enter spoon wreck";
+var mnemonic = "tell health giggle lawn jacket flip chuckle crane pledge comfort chest cloth";

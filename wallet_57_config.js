@@ -1,1 +1,1 @@
-var mnemonic = "hotel head distance aim fabric glare gadget share indoor sing dice crumble";
+var mnemonic = "frequent symptom urban allow enroll urge echo legend easy rebuild limit nuclear";

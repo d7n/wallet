@@ -1,1 +1,1 @@
-var mnemonic = "social cancel logic breeze tongue crowd remember mouse clown armed chat jealous";
+var mnemonic = "capable disease mixture toe must live monitor fruit tomato child athlete excite";

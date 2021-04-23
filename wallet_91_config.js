@@ -1,1 +1,1 @@
-var mnemonic = "crowd foam century myself heart coil blue original lizard armed inmate material";
+var mnemonic = "reopen similar glass about pass hub sign say common lava clinic illegal";

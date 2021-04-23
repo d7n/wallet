@@ -1,1 +1,1 @@
-var mnemonic = "question nothing canal distance maze figure output foot dinner donkey bachelor derive";
+var mnemonic = "urban brave fluid merge turn please payment size humble mountain this chalk";

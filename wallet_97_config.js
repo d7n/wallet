@@ -1,1 +1,1 @@
-var mnemonic = "illegal morning erase very upper slim crash guide crawl gaze vacant discover";
+var mnemonic = "moral grant dutch crucial erase arrive donkey adult stem address library return";

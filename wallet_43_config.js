@@ -1,1 +1,1 @@
-var mnemonic = "topple impose table sister cook task tissue cage life assault uniform seat";
+var mnemonic = "rice ostrich dismiss evoke candy page wink elder awful whip office matter";

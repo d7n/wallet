@@ -1,1 +1,1 @@
-var mnemonic = "inflict trial fan quantum blast ski estate gesture thrive target theme ankle";
+var mnemonic = "pluck gas agree jealous pretty pause output shrimp banner surge charge fit";

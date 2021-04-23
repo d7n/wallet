@@ -1,1 +1,1 @@
-var mnemonic = "crush biology photo olive local act sport mom airport frost exhibit live";
+var mnemonic = "pair appear topple index force taxi valley trim decorate argue bread capital";

@@ -1,1 +1,1 @@
-var mnemonic = "where side empty sort fetch relief gossip waste tongue journey east myth";
+var mnemonic = "lazy flee scout execute symbol canyon enforce garment desert giggle claw mandate";

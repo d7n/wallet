@@ -1,1 +1,1 @@
-var mnemonic = "teach season photo patient easy unlock glide grit ghost return mention daring";
+var mnemonic = "gadget margin prize blouse tenant lens bacon dinosaur situate toilet shop flat";

@@ -1,1 +1,1 @@
-var mnemonic = "radar taste spray joke face cake involve culture forward slot marble step";
+var mnemonic = "pilot arctic before monkey door pipe clay tag gospel sign void erosion";

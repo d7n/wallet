@@ -1,1 +1,1 @@
-var mnemonic = "text angle audit sausage noise often magnet gauge kit exotic bread share";
+var mnemonic = "system satoshi decorate relax mechanic cool cabbage volume rival ketchup half festival";

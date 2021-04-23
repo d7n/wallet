@@ -1,1 +1,1 @@
-var mnemonic = "despair kangaroo original drive since uncle pave tell welcome steel amount baby";
+var mnemonic = "best bus object blouse bamboo neck matrix cover actress rack business cruise";

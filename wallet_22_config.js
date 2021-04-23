@@ -1,1 +1,1 @@
-var mnemonic = "grief lonely depend vanish aim entire budget million raven wrap cargo random";
+var mnemonic = "supply mule aware attract zone reopen funny praise fuel major gallery arm";

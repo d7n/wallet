@@ -1,1 +1,1 @@
-var mnemonic = "faint goose delay accuse fabric plug tool dynamic spice oak margin air";
+var mnemonic = "evolve balance oyster hedgehog stairs visual check stable direct pupil vicious either";

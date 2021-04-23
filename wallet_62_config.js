@@ -1,1 +1,1 @@
-var mnemonic = "suggest blast industry oak about stuff blade slogan luggage quantum space tank";
+var mnemonic = "wisdom follow slide spend transfer laugh liberty weapon injury health neck merge";

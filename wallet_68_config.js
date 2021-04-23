@@ -1,1 +1,1 @@
-var mnemonic = "whisper spend junk afraid season stuff aspect between swarm nominee stadium material";
+var mnemonic = "amount close hair paddle hole jump evoke various lazy fall chase merit";

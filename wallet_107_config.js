@@ -1,1 +1,1 @@
-var mnemonic = "suspect stove disorder arctic jazz regret festival error simple peasant crime panda";
+var mnemonic = "palm spike gorilla voice winter lucky pill almost matrix hope exist rebuild";

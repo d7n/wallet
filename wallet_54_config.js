@@ -1,1 +1,1 @@
-var mnemonic = "fix muscle interest ship bargain cream sort napkin spin faith what survey";
+var mnemonic = "level tribe lawn change sphere steel clerk escape loud empty tiger pumpkin";

@@ -1,1 +1,1 @@
-var mnemonic = "moment always cigar siege lamp tell assault panel like position onion horn";
+var mnemonic = "head upset elegant grab ankle sail view flavor gloom blur slogan congress";

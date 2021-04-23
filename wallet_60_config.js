@@ -1,1 +1,1 @@
-var mnemonic = "pulse toy lobster unique mention okay merit churn swarm rather valley notable";
+var mnemonic = "fuel garment jealous churn lunar right taste lobster window depth sick behave";

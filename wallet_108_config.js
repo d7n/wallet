@@ -1,1 +1,1 @@
-var mnemonic = "report erode used valve holiday wear frozen useful border anger debris cargo";
+var mnemonic = "squeeze pause produce bamboo scene elite debate chuckle broken treat wave amount";

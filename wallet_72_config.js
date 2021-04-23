@@ -1,1 +1,1 @@
-var mnemonic = "pact tube odor actual scan chat dress sign begin tunnel strike change";
+var mnemonic = "empower primary machine unfold ball shell decline spider client armed bench crack";

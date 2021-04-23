@@ -1,1 +1,1 @@
-var mnemonic = "swap wet purity wise confirm paper exist thought pyramid student volume guess";
+var mnemonic = "bicycle lamp resource motion blame bulk also canvas pottery sugar puzzle security";

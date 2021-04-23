@@ -1,1 +1,1 @@
-var mnemonic = "assist story young science valley all song alarm bicycle glass cute confirm";
+var mnemonic = "blanket cherry omit uphold clap merit vendor endorse plastic hint type matrix";

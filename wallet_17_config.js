@@ -1,1 +1,1 @@
-var mnemonic = "simple toddler property enrich boss pioneer raven want fitness melody peace walnut";
+var mnemonic = "scan fish stereo tomorrow skull inquiry solve embody convince legal silk winter";

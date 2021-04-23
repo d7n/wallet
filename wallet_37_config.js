@@ -1,1 +1,1 @@
-var mnemonic = "muscle genius submit daughter electric protect fresh vast arctic peanut gesture language";
+var mnemonic = "oven planet crazy unlock sniff buffalo bulk lazy long jar senior few";

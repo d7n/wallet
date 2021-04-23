@@ -1,1 +1,1 @@
-var mnemonic = "suspect frozen estate awful assault direct trap either void pretty concert danger";
+var mnemonic = "three slice garage able series repair pelican life add resource return cover";

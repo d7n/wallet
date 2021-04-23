@@ -1,1 +1,1 @@
-var mnemonic = "valve monkey clap wage replace mechanic notable tissue track opera digital space";
+var mnemonic = "grief poem ginger bonus disorder surround snake palm human cube sing promote";

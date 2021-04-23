@@ -1,1 +1,1 @@
-var mnemonic = "guide inflict staff retire sting trouble gain drip vendor achieve brown abstract";
+var mnemonic = "hill aware route grunt airport advance cattle jar walnut inmate student regret";
