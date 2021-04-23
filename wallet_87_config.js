@@ -1,1 +1,1 @@
-var mnemonic = "choose bag describe harsh tree cradle delay october before history spawn forget";
+var mnemonic = "sign acquire spatial skirt ask before entire divert grow salt quantum dinner";

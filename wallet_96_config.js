@@ -1,1 +1,1 @@
-var mnemonic = "joy finish slide ancient cluster flock reopen climb profit sketch census cage";
+var mnemonic = "local lake jazz any boat gas abstract scrap march hard lion potato";

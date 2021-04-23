@@ -1,1 +1,1 @@
-var mnemonic = "castle snow slab day field true stove battle front elephant tobacco car";
+var mnemonic = "rebel twist daughter enrich front aerobic put dial quantum supreme history desk";

@@ -1,1 +1,1 @@
-var mnemonic = "echo edit cherry other drop festival blue eight embark slim funny toy";
+var mnemonic = "price refuse smile neither vast cheap toilet tomato balcony borrow excess enrich";

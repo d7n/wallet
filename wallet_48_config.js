@@ -1,1 +1,1 @@
-var mnemonic = "squeeze mail orbit input toast leisure scene just wreck surround ivory silent";
+var mnemonic = "bleak hungry pretty finish recipe rival dismiss electric festival tomorrow animal deliver";

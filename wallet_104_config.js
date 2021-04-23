@@ -1,1 +1,1 @@
-var mnemonic = "help devote basic fringe call void prevent innocent clap mobile push twin";
+var mnemonic = "nominee make weather level wide song fall belt heavy point august begin";

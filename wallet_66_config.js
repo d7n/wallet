@@ -1,1 +1,1 @@
-var mnemonic = "pause setup desert nature coast more close erupt inherit course renew trigger";
+var mnemonic = "angry divert hybrid bench rabbit dice flee nation reunion destroy simple awake";

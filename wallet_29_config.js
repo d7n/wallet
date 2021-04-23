@@ -1,1 +1,1 @@
-var mnemonic = "vacant lake chief grass school girl fat axis harbor fun rapid else";
+var mnemonic = "neglect annual corn country beauty bridge stuff glass regret angle radio purity";

@@ -1,1 +1,1 @@
-var mnemonic = "chapter apology word disorder situate property thumb honey vocal spike pudding unfair";
+var mnemonic = "way resemble soul observe image kid reject kid category connect hidden elevator";

@@ -1,1 +1,1 @@
-var mnemonic = "pistol sick diary artefact quantum crunch diesel addict velvet minute sea purpose";
+var mnemonic = "dinner pair brisk ketchup runway ahead cruise park patrol cute faint build";

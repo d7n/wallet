@@ -1,1 +1,1 @@
-var mnemonic = "ridge bomb absorb chef unfold pyramid soccer vocal surprise tide raise october";
+var mnemonic = "mimic clown answer town cluster toy illness venue access ghost lift lady";

@@ -1,1 +1,1 @@
-var mnemonic = "resist summer engine term urban expire clean monitor monster borrow name void";
+var mnemonic = "eager exit skirt divide shaft magnet sting proof olive cram swarm energy";

@@ -1,1 +1,1 @@
-var mnemonic = "steak chat neglect mix round siege eyebrow wrestle magic ridge spend adult";
+var mnemonic = "quarter become fork all width pepper until impulse dish toast base demand";

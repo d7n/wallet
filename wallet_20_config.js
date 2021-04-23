@@ -1,1 +1,1 @@
-var mnemonic = "tired scorpion water car smart track hawk deny amount explain turtle arrest";
+var mnemonic = "detect copy utility soccer nature current knife shock envelope ordinary cancel nation";

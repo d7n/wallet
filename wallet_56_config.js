@@ -1,1 +1,1 @@
-var mnemonic = "palm egg cereal arch portion clerk lock better love fury digital exclude";
+var mnemonic = "echo slow bachelor decrease vibrant crater list inflict guide salad term expire";

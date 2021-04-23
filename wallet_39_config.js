@@ -1,1 +1,1 @@
-var mnemonic = "select income dismiss hire rally reflect situate clap skull task used cake";
+var mnemonic = "panther glow degree crater marine become still talent genre pioneer round rival";

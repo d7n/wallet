@@ -1,1 +1,1 @@
-var mnemonic = "inch combine dance uncle siege clever dinosaur anchor arrow situate agree grief";
+var mnemonic = "buyer rocket october leave harbor panther alley occur lend broccoli dirt cluster";

@@ -1,1 +1,1 @@
-var mnemonic = "panda clinic layer toast salad oak carbon stone tone addict oven spray";
+var mnemonic = "sketch vivid illegal correct furnace judge quarter above display fashion athlete sail";

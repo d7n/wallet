@@ -1,1 +1,1 @@
-var mnemonic = "still exhaust museum text mouse jump frost chalk sphere cherry salon addict";
+var mnemonic = "first throw talent essay blame century knock lottery urban man vote tourist";

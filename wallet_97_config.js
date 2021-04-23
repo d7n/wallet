@@ -1,1 +1,1 @@
-var mnemonic = "refuse area clown tortoise useless gloom win merit extra loyal gym mask";
+var mnemonic = "either random guess accident supreme smooth swear torch rib mushroom mail maze";

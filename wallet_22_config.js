@@ -1,1 +1,1 @@
-var mnemonic = "labor practice kind glass pond cube critic rail brother denial patient develop";
+var mnemonic = "gaze boil wisdom marriage august save sword squirrel nice balcony salon kiss";

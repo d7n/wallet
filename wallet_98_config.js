@@ -1,1 +1,1 @@
-var mnemonic = "result survey host half off visa mobile pulse peace gloom endorse matter";
+var mnemonic = "begin volcano upset dignity rural offer combine flash dolphin film invest kid";

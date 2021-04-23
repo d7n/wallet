@@ -1,1 +1,1 @@
-var mnemonic = "else base goddess inside doll obscure broccoli turkey loop tower victory consider";
+var mnemonic = "basket deny much pottery saddle select reveal rapid south head useful test";

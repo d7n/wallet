@@ -1,1 +1,1 @@
-var mnemonic = "trial reduce parade jar surge asset bamboo gasp link space divert mandate";
+var mnemonic = "believe own click own clutch poverty thank enrich ocean kitten actual duty";

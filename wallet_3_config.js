@@ -1,1 +1,1 @@
-var mnemonic = "average truck truth sea payment puzzle artwork machine floor connect sail kit";
+var mnemonic = "simple credit sock goose help balcony among risk nasty cup patrol knee";

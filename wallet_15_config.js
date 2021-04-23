@@ -1,1 +1,1 @@
-var mnemonic = "tenant arrest peace survey flag swim crystal bomb you betray foam intact";
+var mnemonic = "huge whisper onion behind arena govern virus plate estate way wealth seed";

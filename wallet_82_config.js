@@ -1,1 +1,1 @@
-var mnemonic = "action teach trim topple exit earth vocal aspect earth scare solve example";
+var mnemonic = "make apple join pride glass need cry nurse illegal anxiety jeans leg";

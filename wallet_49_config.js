@@ -1,1 +1,1 @@
-var mnemonic = "shift million congress spell bachelor minimum cool glad tell pact glue wolf";
+var mnemonic = "armor city jealous machine garage equal relief penalty surprise various inject story";

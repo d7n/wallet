@@ -1,1 +1,1 @@
-var mnemonic = "large render model noise brand edit course blast weather ball arch cancel";
+var mnemonic = "early protect fantasy tomato buyer usual cruise jeans clip answer grit toy";

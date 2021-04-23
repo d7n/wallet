@@ -1,1 +1,1 @@
-var mnemonic = "actual admit oyster library crunch leader multiply brain goose dress matrix clock";
+var mnemonic = "eyebrow unknown require goat cushion dismiss fly transfer motor demand riot cruel";

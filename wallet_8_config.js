@@ -1,1 +1,1 @@
-var mnemonic = "cereal wage conduct alert arrest require normal depend bus furnace enable honey";
+var mnemonic = "access liberty buffalo vacant aware collect random world copy obscure own flight";

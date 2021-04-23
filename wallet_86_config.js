@@ -1,1 +1,1 @@
-var mnemonic = "best supply seminar staff because address season traffic brick dolphin menu creek";
+var mnemonic = "example stem obvious fat garbage element flee kitchen isolate desert meat name";

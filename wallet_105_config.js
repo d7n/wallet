@@ -1,1 +1,1 @@
-var mnemonic = "wolf vanish black pledge motor capable olympic search delay minor dizzy usage";
+var mnemonic = "blade hunt invite shock valid shell track canvas midnight uncle write asset";

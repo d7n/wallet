@@ -1,1 +1,1 @@
-var mnemonic = "window toward stable genius thank level inner pair clown lock estate beauty";
+var mnemonic = "crazy gun latin magnet solve leave nurse voyage opera tobacco shock job";

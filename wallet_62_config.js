@@ -1,1 +1,1 @@
-var mnemonic = "adjust receive region confirm lunch response purse quantum worth donor absorb city";
+var mnemonic = "plastic city eyebrow document saddle curious apple decline leader radar among equip";

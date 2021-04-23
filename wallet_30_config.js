@@ -1,1 +1,1 @@
-var mnemonic = "protect resist trip mass water hedgehog motor copy club assume wolf theory";
+var mnemonic = "task voyage rebel party disorder found sleep banner ordinary obscure chase glance";

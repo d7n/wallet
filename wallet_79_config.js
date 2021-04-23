@@ -1,1 +1,1 @@
-var mnemonic = "orient jacket rare poem hat umbrella foster club twenty crop fish nose";
+var mnemonic = "used october effort into clown tissue post rally velvet below depend slush";

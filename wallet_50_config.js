@@ -1,1 +1,1 @@
-var mnemonic = "frog ensure wisdom drum inflict gift amount caught vanish ticket awake drama";
+var mnemonic = "raw comfort drive camera car purpose yellow verb atom bulb industry have";

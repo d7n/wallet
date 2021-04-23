@@ -1,1 +1,1 @@
-var mnemonic = "cream weird bottom garden wave hip mandate damp nation energy dry sustain";
+var mnemonic = "weasel deliver decrease inner horror science puppy frost kiss wrong noble else";

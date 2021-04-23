@@ -1,1 +1,1 @@
-var mnemonic = "quantum purse ginger crowd basic verify prefer skill echo direct barrel arrest";
+var mnemonic = "chef month firm army defy roast squirrel found convince gorilla mistake found";

@@ -1,1 +1,1 @@
-var mnemonic = "skirt mix salad document prefer position envelope evidence limb absorb snack ostrich";
+var mnemonic = "seek design purse scissors notable lumber eagle material main vehicle engage mountain";

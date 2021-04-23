@@ -1,1 +1,1 @@
-var mnemonic = "then thought thumb quality regret donate battle enter tortoise rice impulse copy";
+var mnemonic = "nurse onion alpha crawl assist taste taste virtual drastic earn very opinion";

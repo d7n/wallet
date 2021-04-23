@@ -1,1 +1,1 @@
-var mnemonic = "view phone limb boring cement face stuff little during brother scheme upgrade";
+var mnemonic = "ship stay hollow glad walnut laundry salute royal grape nice ball true";

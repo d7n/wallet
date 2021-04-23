@@ -1,1 +1,1 @@
-var mnemonic = "until detect cabin seek bracket note ask rain wall session bargain know";
+var mnemonic = "early envelope lemon unlock fury dish brick gentle what filter tool water";

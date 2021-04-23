@@ -1,1 +1,1 @@
-var mnemonic = "toy frozen blouse dash capital depth city extra point reflect evil settle";
+var mnemonic = "antique pet table hunt paper lock nasty beef exile grab stuff sunny";

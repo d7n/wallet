@@ -1,1 +1,1 @@
-var mnemonic = "outer multiply spider life injury prize chicken business glide price uncle wall";
+var mnemonic = "learn merry else sign soap wild eight coral ten narrow debris solar";

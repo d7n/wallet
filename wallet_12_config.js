@@ -1,1 +1,1 @@
-var mnemonic = "slow employ tooth end circle soup alien glue lamp blossom priority wedding";
+var mnemonic = "shoulder family arctic family rebuild grab stereo ready excuse alcohol skirt resource";

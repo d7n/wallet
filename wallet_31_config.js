@@ -1,1 +1,1 @@
-var mnemonic = "october chimney season agree beauty receive tumble jump version comic fringe path";
+var mnemonic = "inherit bounce bullet derive deliver recall risk city taxi void gate promote";

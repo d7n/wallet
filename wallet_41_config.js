@@ -1,1 +1,1 @@
-var mnemonic = "bulb degree gentle bike depth similar ribbon tribe balcony pool buzz era";
+var mnemonic = "tag remove outside area defy want camp ball alcohol olive rapid cave";

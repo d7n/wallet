@@ -1,1 +1,1 @@
-var mnemonic = "banner advice switch dose text rocket canoe amazing toddler fancy chicken theory";
+var mnemonic = "ancient hurt hobby pink machine eagle miss prevent remember drink end float";

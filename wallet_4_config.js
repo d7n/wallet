@@ -1,1 +1,1 @@
-var mnemonic = "gas trap enjoy poet draft involve panel cinnamon weather taste evidence spider";
+var mnemonic = "enforce budget also exist clock radar asthma split acoustic option poet hurry";

@@ -1,1 +1,1 @@
-var mnemonic = "nature east someone kitchen position project arm comic patch lyrics fortune nuclear";
+var mnemonic = "april erupt remember tree crew frost help atom endorse bleak say talk";

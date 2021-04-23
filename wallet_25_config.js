@@ -1,1 +1,1 @@
-var mnemonic = "birth great artefact boring city trigger funny hockey vapor treat slogan bacon";
+var mnemonic = "achieve minute pride purchase burst media purchase pass pear fiber increase solution";

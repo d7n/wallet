@@ -1,1 +1,1 @@
-var mnemonic = "aisle few final print quality shove party pudding oxygen file blur any";
+var mnemonic = "advance weapon traffic yellow produce amount bargain real above book move return";

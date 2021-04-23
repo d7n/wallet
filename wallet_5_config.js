@@ -1,1 +1,1 @@
-var mnemonic = "bean minor balcony learn final lawsuit razor stumble harbor retreat paper pond";
+var mnemonic = "aerobic address fancy unfair circle decrease slush drill weapon venue dynamic slab";

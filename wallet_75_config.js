@@ -1,1 +1,1 @@
-var mnemonic = "consider certain initial claim survey goose puzzle february farm finger repair glory";
+var mnemonic = "bus connect action air put neck weather paper pistol advice lock leave";

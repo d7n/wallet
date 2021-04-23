@@ -1,1 +1,1 @@
-var mnemonic = "hour kiss tool arrange addict jar express hotel vivid genre focus fee";
+var mnemonic = "manual parade good pledge lion public advice horse skirt model slice adult";

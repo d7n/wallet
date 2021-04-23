@@ -1,1 +1,1 @@
-var mnemonic = "inch beyond tortoise depart target gate time little lab dish salad fancy";
+var mnemonic = "oval armed toddler street royal assume rough chaos entire smile tilt alone";

@@ -1,1 +1,1 @@
-var mnemonic = "surge speak spring benefit lift issue spice surprise great pyramid three accident";
+var mnemonic = "private club nurse cloth when magnet sauce chimney assume offer angry defy";

@@ -1,1 +1,1 @@
-var mnemonic = "angle unlock just mean enroll range hotel shed whale treat artefact tuna";
+var mnemonic = "jungle glad second drift damp grid detail cost calm volume measure sunny";

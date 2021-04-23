@@ -1,1 +1,1 @@
-var mnemonic = "scale race luxury wrap sun exhaust oil glove solar twin addict quantum";
+var mnemonic = "tiny flame goddess despair distance local planet vendor someone jar labor mirror";

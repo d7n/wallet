@@ -1,1 +1,1 @@
-var mnemonic = "trap pipe guess coil general over public funny train opinion alien text";
+var mnemonic = "fence rail steel flight keen smoke spare quarter artist mango coyote common";

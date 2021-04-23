@@ -1,1 +1,1 @@
-var mnemonic = "web copper twin piece traffic property lemon noodle lift pause luggage camera";
+var mnemonic = "write bicycle parent sing chicken wear nuclear family midnight leave during cactus";

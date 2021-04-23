@@ -1,1 +1,1 @@
-var mnemonic = "wrong girl kidney rookie argue repeat dwarf glide into mind pole dance";
+var mnemonic = "gospel lucky rude moment excite mix amount prevent robot palace false capable";

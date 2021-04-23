@@ -1,1 +1,1 @@
-var mnemonic = "outside fringe wheel acoustic phone cup frog sadness insane acid whip left";
+var mnemonic = "process elite zebra illegal clog position moon robot emotion grant burden major";

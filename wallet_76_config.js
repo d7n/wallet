@@ -1,1 +1,1 @@
-var mnemonic = "funny another abstract cover gossip cram beauty cup error simple wrong warfare";
+var mnemonic = "awesome solve harvest rely flee unusual stuff collect once can smoke reopen";

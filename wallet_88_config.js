@@ -1,1 +1,1 @@
-var mnemonic = "hard surface drink cushion payment owner repair news science bus talk number";
+var mnemonic = "muffin pelican phone write couch stay frost detect deal disease isolate nut";

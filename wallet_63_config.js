@@ -1,1 +1,1 @@
-var mnemonic = "cable way horse curious excess real evil february second that between time";
+var mnemonic = "barely siren inquiry peanut pet soul alert bachelor exhaust floor net stick";

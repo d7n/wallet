@@ -1,1 +1,1 @@
-var mnemonic = "fruit curtain buyer time street quality endless reward riot soup prison sustain";
+var mnemonic = "hover inquiry volume tenant laundry intact other helmet zebra vintage quit wood";

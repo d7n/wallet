@@ -1,1 +1,1 @@
-var mnemonic = "decline hill canoe heart disorder asthma art orient cinnamon own upgrade buyer";
+var mnemonic = "stage pattern almost unveil bless bean trick lazy ski invite service dune";

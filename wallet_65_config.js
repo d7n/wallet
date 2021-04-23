@@ -1,1 +1,1 @@
-var mnemonic = "vacant slab panther between cherry person street oppose fame hammer logic mansion";
+var mnemonic = "actual office veteran rather pool horror offer embark crane cage usual plate";

@@ -1,1 +1,1 @@
-var mnemonic = "deposit orange mixed science monkey spray pact speak more clever topic cheese";
+var mnemonic = "rude caught library blouse dose bid kiss bench bamboo cross crouch bronze";

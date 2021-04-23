@@ -1,1 +1,1 @@
-var mnemonic = "this cabbage sentence claw island close alone december elite unusual indoor despair";
+var mnemonic = "proof actor chaos style echo trash hotel camp stay minimum code season";

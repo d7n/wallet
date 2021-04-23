@@ -1,1 +1,1 @@
-var mnemonic = "narrow manage ribbon peasant focus ozone inherit smile offer summer whale wagon";
+var mnemonic = "vague monkey ramp industry fat victory print unveil brown skill ten abuse";

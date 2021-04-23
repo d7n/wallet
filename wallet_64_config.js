@@ -1,1 +1,1 @@
-var mnemonic = "dismiss exclude age vintage sugar crystal hint finger lounge empower deer once";
+var mnemonic = "menu parade this term long high hurt circle butter they flame lonely";

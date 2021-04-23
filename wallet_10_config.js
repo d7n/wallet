@@ -1,1 +1,1 @@
-var mnemonic = "finish drum blind grunt option library express series punch ride great poverty";
+var mnemonic = "motor amateur output cute remember response angry unveil program near speed pair";

@@ -1,1 +1,1 @@
-var mnemonic = "siege oxygen mimic area ladder rail test drastic spike you galaxy owner";
+var mnemonic = "turtle gloom ketchup drama cat connect soft cattle lens journey marble hurry";

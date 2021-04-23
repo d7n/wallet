@@ -1,1 +1,1 @@
-var mnemonic = "emotion around soon squeeze funny canvas bacon steel forward hidden recall amateur";
+var mnemonic = "write water hand rail syrup still filter story play sure diet meadow";

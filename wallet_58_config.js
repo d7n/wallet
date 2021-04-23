@@ -1,1 +1,1 @@
-var mnemonic = "boy opera lobster still gallery question luggage school neck frame light group";
+var mnemonic = "chief clump someone high purchase cactus awkward dismiss banana more arch song";

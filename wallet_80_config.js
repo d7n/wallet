@@ -1,1 +1,1 @@
-var mnemonic = "weird company excess idea volcano wool high bike afraid include opera tortoise";
+var mnemonic = "lobster outside oil craft guard theory circle crowd bargain way spoon genre";

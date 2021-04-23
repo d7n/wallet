@@ -1,1 +1,1 @@
-var mnemonic = "earn embrace guard robot flush curve check culture artist argue burger dawn";
+var mnemonic = "debate balcony clog blur defense all domain actor climb cover shock isolate";

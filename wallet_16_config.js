@@ -1,1 +1,1 @@
-var mnemonic = "transfer powder laundry path parrot dice cloth uniform life camera wisdom mule";
+var mnemonic = "waste mercy infant moon furnace forget accuse offer tragic pencil month view";

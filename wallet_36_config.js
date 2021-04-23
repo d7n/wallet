@@ -1,1 +1,1 @@
-var mnemonic = "million almost isolate pet angle decade able behave hunt laundry web tilt";
+var mnemonic = "slab limb cotton bus dutch treat that dove plate more minor stereo";

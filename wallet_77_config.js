@@ -1,1 +1,1 @@
-var mnemonic = "museum cram grace film hobby deal process decline antique globe arrive present";
+var mnemonic = "shuffle holiday square wage oil egg outside kind better bus hip involve";

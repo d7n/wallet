@@ -1,1 +1,1 @@
-var mnemonic = "carpet lamp tattoo usage economy divide brush improve lab reduce disorder mouse";
+var mnemonic = "mesh switch baby good bone venue boat kitten void ceiling maid fire";

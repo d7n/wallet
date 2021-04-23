@@ -1,1 +1,1 @@
-var mnemonic = "happy length kitten level usage bind woman lunch arrow dust fox culture";
+var mnemonic = "pyramid parent blanket bitter behave rare snow mango silk man range oyster";

@@ -1,1 +1,1 @@
-var mnemonic = "seminar accident zone trick limit bracket edit alone warrior invest mad come";
+var mnemonic = "enable drama blade stay reveal when bid tomato chef knee delay comic";
