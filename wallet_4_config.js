@@ -1,1 +1,1 @@
-var mnemonic = "genre piano festival ordinary slam raven dragon hurt inner crystal endorse nothing";
+var mnemonic = "muscle middle rain adjust draft glide cabin minimum field science palace kangaroo";

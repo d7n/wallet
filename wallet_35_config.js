@@ -1,1 +1,1 @@
-var mnemonic = "violin camp spoil dentist across mother little subway crawl detect fatal trick";
+var mnemonic = "figure afraid adapt diary melt execute life taxi leisure female squeeze struggle";

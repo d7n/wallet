@@ -1,1 +1,1 @@
-var mnemonic = "few vessel response return area debris stay only weapon load empty bring";
+var mnemonic = "mesh into client famous point pass lobster drive skill goddess medal guide";

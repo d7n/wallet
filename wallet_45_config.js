@@ -1,1 +1,1 @@
-var mnemonic = "wild obey grocery swift lumber bounce demand tornado hold beach stumble chair";
+var mnemonic = "beach route fetch lottery radio margin rescue cloud unlock ankle deny document";

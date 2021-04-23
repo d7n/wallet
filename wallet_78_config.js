@@ -1,1 +1,1 @@
-var mnemonic = "fly hair enroll donkey manage sample angle admit firm husband resource glide";
+var mnemonic = "wonder narrow gossip stuff exclude sniff endorse uncle scene daring only tomato";

@@ -1,1 +1,1 @@
-var mnemonic = "birth violin robot end meadow suggest electric rate joy regular stem ticket";
+var mnemonic = "screen this describe arch suspect cousin silk match safe tiger safe useless";

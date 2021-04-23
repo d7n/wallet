@@ -1,1 +1,1 @@
-var mnemonic = "hamster muscle undo erupt scatter music exhibit hockey tiny pelican salon language";
+var mnemonic = "aspect appear army project enforce early crucial jazz gadget practice ecology run";

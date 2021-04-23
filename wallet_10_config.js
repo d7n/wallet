@@ -1,1 +1,1 @@
-var mnemonic = "business weather scout sadness sure obey bracket smart earn life cinnamon enact";
+var mnemonic = "when atom pizza tragic useful resemble figure vote reunion brass bamboo ecology";

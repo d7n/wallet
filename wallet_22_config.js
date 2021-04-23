@@ -1,1 +1,1 @@
-var mnemonic = "clean awake page need punch thought hub pioneer suffer swear hospital twist";
+var mnemonic = "approve home circle shoulder sphere math camera avocado three start monkey group";

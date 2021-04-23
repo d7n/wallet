@@ -1,1 +1,1 @@
-var mnemonic = "joke hurt document blast margin pipe indoor hen fit waste arm draft";
+var mnemonic = "bird pilot kitchen infant armed chimney reward analyst odor craft brown unique";

@@ -1,1 +1,1 @@
-var mnemonic = "panther annual pledge pipe auction opera fresh team inside horse later impose";
+var mnemonic = "filter smoke wedding dream hero clever crunch maze inhale vague deer dynamic";

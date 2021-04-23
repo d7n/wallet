@@ -1,1 +1,1 @@
-var mnemonic = "letter smile asset lion property topic aisle real jump model permit mirror";
+var mnemonic = "anger situate sign kid avoid desert gallery grow shoot electric gain lake";

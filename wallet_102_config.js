@@ -1,1 +1,1 @@
-var mnemonic = "degree describe wood make case label warfare off bean power setup water";
+var mnemonic = "design detail artefact twin cereal crawl cat solve million real true sword";

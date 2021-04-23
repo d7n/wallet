@@ -1,1 +1,1 @@
-var mnemonic = "stand all below program fantasy vote oil notable account blast elder seminar";
+var mnemonic = "input dish wrong typical dial shine sell cliff chicken liar dilemma beyond";

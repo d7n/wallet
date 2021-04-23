@@ -1,1 +1,1 @@
-var mnemonic = "vault demise humble neglect cotton marble meadow science burden convince kidney chat";
+var mnemonic = "loyal text can delay harvest orchard novel picnic copy mouse yellow wait";

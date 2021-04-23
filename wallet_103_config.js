@@ -1,1 +1,1 @@
-var mnemonic = "helmet drip wise biology theme alpha space aim paper pause life sample";
+var mnemonic = "rice subject wreck keen cook hamster buzz federal chief parade excess market";

@@ -1,1 +1,1 @@
-var mnemonic = "medal glimpse erase place wrong extra cave later pen dawn potato banana";
+var mnemonic = "frequent donor absurd another coin shoulder horn domain omit patient rack worth";

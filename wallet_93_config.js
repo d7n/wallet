@@ -1,1 +1,1 @@
-var mnemonic = "sunny discover brave trouble tank worth board clog hover ticket rigid stay";
+var mnemonic = "interest blood pepper busy nasty setup nation sad portion essence lamp credit";

@@ -1,1 +1,1 @@
-var mnemonic = "lunar have body level net expand wheel already food excess early ozone";
+var mnemonic = "balcony provide patient exile bomb radio interest play token calm arctic food";

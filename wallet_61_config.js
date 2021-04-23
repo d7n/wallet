@@ -1,1 +1,1 @@
-var mnemonic = "above marble turtle gauge aunt ivory matrix foil avoid index ensure surprise";
+var mnemonic = "junior impulse include item use valid bottom pond lemon sphere bitter dose";

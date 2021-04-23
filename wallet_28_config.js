@@ -1,1 +1,1 @@
-var mnemonic = "afraid bring lava spread flag embody solar swing year logic occur glance";
+var mnemonic = "stay odor school insane race head enough bar argue eyebrow emerge swing";

@@ -1,1 +1,1 @@
-var mnemonic = "magnet screen shed spoil kitchen cancel pond predict develop plunge whale antique";
+var mnemonic = "capital pill gallery erupt knee puzzle trim consider width garbage wire suffer";

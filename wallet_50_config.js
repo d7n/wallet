@@ -1,1 +1,1 @@
-var mnemonic = "rapid word oven turtle good enrich blade large master away glass immense";
+var mnemonic = "frown true mango winter praise logic scatter suit erupt stuff divorce orphan";

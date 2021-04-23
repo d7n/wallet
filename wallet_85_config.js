@@ -1,1 +1,1 @@
-var mnemonic = "wash spawn cover clip oval amateur brain thing dinosaur supply amazing remind";
+var mnemonic = "piece case ecology moment wine stereo assist nominee march husband pyramid volcano";

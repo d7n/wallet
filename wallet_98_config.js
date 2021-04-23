@@ -1,1 +1,1 @@
-var mnemonic = "arrive mechanic nature history park trash wife bread script exhibit sound fluid";
+var mnemonic = "together arctic maze valley month primary wire filter property bread mesh frozen";

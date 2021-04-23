@@ -1,1 +1,1 @@
-var mnemonic = "era nose pepper source panic chat quiz leave total place jeans head";
+var mnemonic = "heart strategy track paddle horn basket addict strong pact acid bitter rather";

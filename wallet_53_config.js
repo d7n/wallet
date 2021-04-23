@@ -1,1 +1,1 @@
-var mnemonic = "boring actor cram already wrap normal soda else ball income room crisp";
+var mnemonic = "artwork gorilla spell name accuse twin duty initial hole goat vicious title";

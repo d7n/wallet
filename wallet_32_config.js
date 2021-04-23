@@ -1,1 +1,1 @@
-var mnemonic = "retire during village spatial rough pencil symptom travel primary box final ostrich";
+var mnemonic = "budget stage never express afraid special elephant word fade dwarf much drive";

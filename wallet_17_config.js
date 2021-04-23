@@ -1,1 +1,1 @@
-var mnemonic = "ship frog broken since deal science actual patrol rate lens remain age";
+var mnemonic = "input happy opinion agent ugly tongue focus member cash stand staff brick";

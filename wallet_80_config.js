@@ -1,1 +1,1 @@
-var mnemonic = "sell fox episode idea else opinion myself educate drum acid breeze stable";
+var mnemonic = "spice outdoor inside shaft cereal review problem trumpet solid settle tomato sunset";

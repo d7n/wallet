@@ -1,1 +1,1 @@
-var mnemonic = "hover save hover paper frost struggle machine bike decide bleak regret suffer";
+var mnemonic = "easy flag update moral grid rely shield scorpion property focus enact absorb";

@@ -1,1 +1,1 @@
-var mnemonic = "differ lottery parrot include thought process truth zoo moment glue raccoon pudding";
+var mnemonic = "derive basic behave glass audit people antenna symptom work east office lunch";

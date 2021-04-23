@@ -1,1 +1,1 @@
-var mnemonic = "blast possible camp economy differ proof february because health okay winter birth";
+var mnemonic = "disorder crisp valley shield enough true push barely monster razor good black";

@@ -1,1 +1,1 @@
-var mnemonic = "math solar diesel scorpion chat trick maid tattoo enforce blue stone blast";
+var mnemonic = "crew globe half surface sketch inflict myth case together major merit draw";

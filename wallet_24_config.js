@@ -1,1 +1,1 @@
-var mnemonic = "very tourist measure again true open body napkin same own will define";
+var mnemonic = "planet suggest shallow problem orient bottom virtual exhibit bread exercise guess media";

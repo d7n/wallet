@@ -1,1 +1,1 @@
-var mnemonic = "cook hospital token medal icon wall razor voice autumn rebel general correct";
+var mnemonic = "reunion room rent best spot start buffalo problem baby panic what tail";

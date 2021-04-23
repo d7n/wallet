@@ -1,1 +1,1 @@
-var mnemonic = "harvest depend maid bounce defy plate spin modify depth gift century math";
+var mnemonic = "mobile giggle range soap wall soon clock slot bundle traffic tissue claw";

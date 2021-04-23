@@ -1,1 +1,1 @@
-var mnemonic = "autumn seed lady sentence pulse pride tent warrior aim today mother plunge";
+var mnemonic = "position sign flip guilt maid lounge balance balance approve stock sheriff leopard";

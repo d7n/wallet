@@ -1,1 +1,1 @@
-var mnemonic = "shrug cart leg copper also drum proud pet keep speed success lock";
+var mnemonic = "drop crater whisper labor panel pluck predict mother leave pizza march coffee";

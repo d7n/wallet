@@ -1,1 +1,1 @@
-var mnemonic = "fatal say body cabin inhale tired cotton receive around inquiry genre patient";
+var mnemonic = "guide tape draw upset shoot sentence hospital remember fit firm arch luggage";

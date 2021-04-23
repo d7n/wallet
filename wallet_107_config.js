@@ -1,1 +1,1 @@
-var mnemonic = "wasp arena reflect medal chapter boat matter retreat behind duck shed tiny";
+var mnemonic = "can motor chunk oyster account stereo quit razor drive film stone month";

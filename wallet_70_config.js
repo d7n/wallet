@@ -1,1 +1,1 @@
-var mnemonic = "attitude hold bench amateur over shuffle useless leg file return spy pigeon";
+var mnemonic = "miracle organ match recall economy scare nasty anxiety vessel include cousin group";

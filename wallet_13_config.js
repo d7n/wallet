@@ -1,1 +1,1 @@
-var mnemonic = "acoustic shed letter question inflict mass elevator ready civil venture tourist course";
+var mnemonic = "forget brick legal dial mother weird vintage knife lounge husband rare shadow";

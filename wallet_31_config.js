@@ -1,1 +1,1 @@
-var mnemonic = "best decorate peanut giggle setup tomorrow isolate planet flash toward evil obvious";
+var mnemonic = "category total uphold logic fun noble flee soldier board patch confirm unusual";

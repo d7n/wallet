@@ -1,1 +1,1 @@
-var mnemonic = "cousin hunt blur top mouse monster crack shift panic paddle nice involve";
+var mnemonic = "enrich reason announce trophy flip tag margin shrug treat safe vessel fatal";

@@ -1,1 +1,1 @@
-var mnemonic = "artwork wool network apart jaguar alter when almost hair pole empower inquiry";
+var mnemonic = "reflect swim laugh normal rough verify cage fish pear delay jaguar home";

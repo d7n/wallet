@@ -1,1 +1,1 @@
-var mnemonic = "fresh rookie shove rally boring climb force fuel hair laundry amused network";
+var mnemonic = "wheel dinosaur shop chat recycle century logic mask chunk include display wall";

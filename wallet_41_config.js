@@ -1,1 +1,1 @@
-var mnemonic = "ability library industry trade sleep winner canal gown simple perfect improve code";
+var mnemonic = "gun wear mansion lunch silly detail traffic october laptop injury real beauty";

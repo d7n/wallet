@@ -1,1 +1,1 @@
-var mnemonic = "dune mesh solid theme skate because rare cause pottery elegant acquire absorb";
+var mnemonic = "blouse increase reason morning vivid entire region alter puzzle rabbit blade gesture";

@@ -1,1 +1,1 @@
-var mnemonic = "health famous vote patient sorry garlic general rule squirrel protect until damage";
+var mnemonic = "verify make exist grocery noble upgrade crime spare into update chaos safe";

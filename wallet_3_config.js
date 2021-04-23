@@ -1,1 +1,1 @@
-var mnemonic = "there private prefer garage explain injury matter story merit mutual soccer gate";
+var mnemonic = "patch trophy soldier alone into need digital middle myth timber cause turkey";

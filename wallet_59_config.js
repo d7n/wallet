@@ -1,1 +1,1 @@
-var mnemonic = "pill alcohol involve tennis drip crew notable hub impact outer wool swarm";
+var mnemonic = "furnace ask gospel submit brave year sort atom margin joy glow nasty";

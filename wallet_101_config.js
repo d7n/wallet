@@ -1,1 +1,1 @@
-var mnemonic = "wet vacant prize candy awful upon scare truly industry battle again peace";
+var mnemonic = "delay speed pave above case source moon display venture knife bag goose";

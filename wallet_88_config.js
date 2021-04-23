@@ -1,1 +1,1 @@
-var mnemonic = "sister gasp stadium match top sting rain crazy crazy cover toss claim";
+var mnemonic = "confirm weekend toilet gallery custom term total simple joy absorb soccer clump";

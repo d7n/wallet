@@ -1,1 +1,1 @@
-var mnemonic = "celery term comic fitness photo ahead peace deny prosper nothing notable sail";
+var mnemonic = "fish minor grain alarm stomach original sniff stereo guitar put rally basic";

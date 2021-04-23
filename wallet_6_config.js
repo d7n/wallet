@@ -1,1 +1,1 @@
-var mnemonic = "offer audit imitate test ugly midnight reduce march text sort merit sun";
+var mnemonic = "message tumble left evoke collect task reveal material solve vibrant dismiss practice";

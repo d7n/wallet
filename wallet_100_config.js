@@ -1,1 +1,1 @@
-var mnemonic = "scan girl shuffle soon vague face cancel hill initial creek horse wrong";
+var mnemonic = "circle glove rifle radar tennis abuse hen waste joy vacant domain august";

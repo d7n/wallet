@@ -1,1 +1,1 @@
-var mnemonic = "satisfy target maid disorder stick book tip random observe obey cattle lecture";
+var mnemonic = "when account soon broom cheese dumb bone purchase assault shuffle baby clerk";

@@ -1,1 +1,1 @@
-var mnemonic = "cup discover inhale crop early cradle waste surprise decrease tail excuse oven";
+var mnemonic = "file neglect adult sleep defy old gate pigeon month slender element dance";

@@ -1,1 +1,1 @@
-var mnemonic = "seven escape lawsuit sorry sure welcome globe donate slab lamp moment delay";
+var mnemonic = "tuition candy weather slender document brown lens deal fiction tomorrow forget funny";

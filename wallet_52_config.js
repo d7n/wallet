@@ -1,1 +1,1 @@
-var mnemonic = "height weather human curious float among crane barely ship gun theme subject";
+var mnemonic = "eight margin problem pear end gate toe market advice hood young april";

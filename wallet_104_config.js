@@ -1,1 +1,1 @@
-var mnemonic = "adapt family diary aspect fault muffin witness student aisle inhale chef follow";
+var mnemonic = "coffee someone glad air hobby tent kangaroo shoe pig gift casino tree";

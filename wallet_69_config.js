@@ -1,1 +1,1 @@
-var mnemonic = "want bird reward distance buffalo injury people okay marine impulse post butter";
+var mnemonic = "fresh upset thunder jaguar dutch recall learn easy vessel screen vessel light";

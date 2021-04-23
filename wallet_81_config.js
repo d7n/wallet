@@ -1,1 +1,1 @@
-var mnemonic = "air section sauce scheme rocket rate avocado cruel merry solid rigid column";
+var mnemonic = "domain plate dilemma photo theme swallow game stove convince always duty cruel";

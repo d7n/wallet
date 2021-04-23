@@ -1,1 +1,1 @@
-var mnemonic = "pelican chuckle survey nurse cannon bus one spread twenty program hospital trumpet";
+var mnemonic = "topic destroy good various doctor game inner detect rebuild report wait emotion";

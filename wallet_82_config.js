@@ -1,1 +1,1 @@
-var mnemonic = "crane novel check nest speak alpha manual sight unaware change trust actress";
+var mnemonic = "now universe eager roof brand cruel lamp hair seed icon there tobacco";

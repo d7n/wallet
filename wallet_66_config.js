@@ -1,1 +1,1 @@
-var mnemonic = "zero kitten view start write dad gaze wreck manage photo enact envelope";
+var mnemonic = "regret abandon erosion bike grow series embark old say away elevator help";

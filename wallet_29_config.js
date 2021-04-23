@@ -1,1 +1,1 @@
-var mnemonic = "magnet aisle ranch endorse jaguar success else festival once vote alien sibling";
+var mnemonic = "write swap allow bronze ask uniform craft uncover tower brief burger limb";

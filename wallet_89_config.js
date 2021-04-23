@@ -1,1 +1,1 @@
-var mnemonic = "vital slam easy laundry security tonight recall check adult stereo trial laugh";
+var mnemonic = "shoulder future common flee pear impact reveal employ mention rough inquiry improve";

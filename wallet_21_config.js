@@ -1,1 +1,1 @@
-var mnemonic = "bread muffin erase buffalo easily angle recall job spread wage menu kitten";
+var mnemonic = "tragic expand diamond rotate category explain airport cost vehicle basket thunder actual";

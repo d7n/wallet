@@ -1,1 +1,1 @@
-var mnemonic = "either upon wisdom weasel appear crew coconut bicycle bridge method ensure that";
+var mnemonic = "issue winter ball danger mention net attract hen example naive repair van";

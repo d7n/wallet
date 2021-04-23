@@ -1,1 +1,1 @@
-var mnemonic = "find peanut tank tonight river spell echo someone belt trap extra blush";
+var mnemonic = "thank analyst turn punch vital rather west three note night pond surprise";

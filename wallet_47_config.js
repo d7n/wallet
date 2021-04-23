@@ -1,1 +1,1 @@
-var mnemonic = "stairs habit genuine muffin crisp crop census forward egg normal expire rotate";
+var mnemonic = "hello have hurt kiss dawn code hen mobile laugh rival dice brown";

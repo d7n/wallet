@@ -1,1 +1,1 @@
-var mnemonic = "mixture armed spot neither spring butter hour habit okay aware awful apple";
+var mnemonic = "sword urge search image daring love frost lava napkin joy blast casino";

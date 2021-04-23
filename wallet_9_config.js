@@ -1,1 +1,1 @@
-var mnemonic = "fog collect pyramid door later marble tissue length taxi scrub modify light";
+var mnemonic = "shaft airport youth barrel post sketch kitchen end lava neither make knife";

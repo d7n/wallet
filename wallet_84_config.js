@@ -1,1 +1,1 @@
-var mnemonic = "rule paddle regular globe swear tooth mandate exit hollow lazy reason potato";
+var mnemonic = "unveil liberty hen ocean dentist educate riot couple sauce harvest market jump";

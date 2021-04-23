@@ -1,1 +1,1 @@
-var mnemonic = "vocal zone rocket aware rough lottery bread flush buddy lab retreat amateur";
+var mnemonic = "dad organ cave insect fork burst winter ostrich winter tree seven essence";

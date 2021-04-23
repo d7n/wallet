@@ -1,1 +1,1 @@
-var mnemonic = "auction antique art birth woman reflect net ceiling whale side lyrics rabbit";
+var mnemonic = "fan comfort proud sheriff plastic twin spoil end cross rich juice improve";

@@ -1,1 +1,1 @@
-var mnemonic = "reflect doll act drastic jar album net furnace rude add combine minute";
+var mnemonic = "mobile sheriff flee kick mouse barrel dinosaur true pattern quality soap festival";

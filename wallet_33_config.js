@@ -1,1 +1,1 @@
-var mnemonic = "confirm rib foam myself math gift debris diary ticket extend enrich install";
+var mnemonic = "prefer protect imitate hub sand this scatter muffin defense pause wood galaxy";

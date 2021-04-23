@@ -1,1 +1,1 @@
-var mnemonic = "drink inject art deliver safe chief abandon stool float work bid police";
+var mnemonic = "annual budget quality card pony aware day stomach end estate bean horn";

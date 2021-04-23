@@ -1,1 +1,1 @@
-var mnemonic = "effort obvious hospital picture permit list endorse traffic habit essay define battle";
+var mnemonic = "link hole payment garment comfort stamp cup awkward aspect that crew dilemma";

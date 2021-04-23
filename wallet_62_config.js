@@ -1,1 +1,1 @@
-var mnemonic = "narrow good wood plunge rubber system boy eight print drum injury success";
+var mnemonic = "scrap ranch dice frame initial silent couch three stone grain ride rival";

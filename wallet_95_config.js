@@ -1,1 +1,1 @@
-var mnemonic = "treat tomato saddle wheel hedgehog device tag beyond frozen solid hip frown";
+var mnemonic = "solar inch hover scatter property cat category puppy obey balcony leisure wise";

@@ -1,1 +1,1 @@
-var mnemonic = "online entry viable fury right bubble bird glow tiny nest symptom minimum";
+var mnemonic = "nose report sunset little reflect mule slice section street fringe vehicle fly";

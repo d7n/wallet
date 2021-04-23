@@ -1,1 +1,1 @@
-var mnemonic = "scrub oxygen obscure that camera pilot waste hockey income damage trophy winter";
+var mnemonic = "cycle adult disorder early tomorrow lake kiss pear canoe remind maximum cement";

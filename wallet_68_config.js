@@ -1,1 +1,1 @@
-var mnemonic = "hollow embark nuclear soul kitchen trend assist nice figure old stamp chair";
+var mnemonic = "awkward balance leopard desk analyst slender quarter original upset arctic hamster jelly";
