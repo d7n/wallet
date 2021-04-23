@@ -1,1 +1,1 @@
-var mnemonic = "above giant quantum daughter direct exile rent leopard gaze banana oblige gesture";
+var mnemonic = "symptom host promote donate birth useless cloud sense blast ankle rug leg";

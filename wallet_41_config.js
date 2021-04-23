@@ -1,1 +1,1 @@
-var mnemonic = "tattoo steel betray loud bicycle stamp foster trick two notable goat version";
+var mnemonic = "false income theory code shift smart execute myth common aisle scrub fat";

@@ -1,1 +1,1 @@
-var mnemonic = "local solid jeans helmet secret direct police material local famous daughter bar";
+var mnemonic = "popular salon soda later design wealth mosquito remain tool rough final monitor";

@@ -1,1 +1,1 @@
-var mnemonic = "gate skull reason cash also night device pen indicate verify machine parrot";
+var mnemonic = "spider clock switch announce final width nation air owner satisfy joke gasp";

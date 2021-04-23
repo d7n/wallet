@@ -1,1 +1,1 @@
-var mnemonic = "between produce tilt census primary glad fringe element open mesh edit monitor";
+var mnemonic = "immense choose flush fence final rural club dice anger machine believe ugly";

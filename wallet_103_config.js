@@ -1,1 +1,1 @@
-var mnemonic = "second sing hard exact rotate sheriff artefact vital plunge cube chase energy";
+var mnemonic = "smoke luxury antique few behave owner hard wage guess veteran shadow gym";

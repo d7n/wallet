@@ -1,1 +1,1 @@
-var mnemonic = "pencil clean barely miracle time rapid admit various issue erase edit yellow";
+var mnemonic = "rude desk submit gym theme faculty arrange satoshi spend attend endless rhythm";

@@ -1,1 +1,1 @@
-var mnemonic = "april small profit thing feature achieve galaxy photo borrow siren digital option";
+var mnemonic = "ethics easily attend elite organ truck zero curious spice steel giant pilot";

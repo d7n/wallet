@@ -1,1 +1,1 @@
-var mnemonic = "mimic buddy organ hungry cave federal story goddess robust split trip verb";
+var mnemonic = "entry athlete keep find palm comic top thumb tooth idle toast force";

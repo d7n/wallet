@@ -1,1 +1,1 @@
-var mnemonic = "chunk poet ramp coast amount hotel pave laundry wrap since square parrot";
+var mnemonic = "immune legal grunt tired globe lawsuit husband jeans toast nothing fever police";

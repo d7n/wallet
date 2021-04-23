@@ -1,1 +1,1 @@
-var mnemonic = "pottery kind swallow luggage pill bachelor bonus tenant leader spell chair inject";
+var mnemonic = "dentist life rich corn garden begin exhaust alarm tooth music dentist resource";

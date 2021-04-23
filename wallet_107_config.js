@@ -1,1 +1,1 @@
-var mnemonic = "quiz attack target hurt family yard fiber emotion donkey door crazy tribe";
+var mnemonic = "endless crop rocket renew impulse vehicle brain math add tiny maid obey";

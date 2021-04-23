@@ -1,1 +1,1 @@
-var mnemonic = "absent absent walnut phone hill hollow tower federal palm unlock video symbol";
+var mnemonic = "tragic meadow blade gift position oxygen unlock melody trim faith chimney caution";

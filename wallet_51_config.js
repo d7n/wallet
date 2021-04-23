@@ -1,1 +1,1 @@
-var mnemonic = "addict mail final ridge keen whisper run material gain eager logic hockey";
+var mnemonic = "clever clip negative rival card clump gym unknown ridge capable regret style";

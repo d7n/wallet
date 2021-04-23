@@ -1,1 +1,1 @@
-var mnemonic = "sentence proud ramp then average income cloth grocery remember across maid hidden";
+var mnemonic = "attend relief fashion divorce razor quarter immense leaf twist gasp bar person";

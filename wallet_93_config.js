@@ -1,1 +1,1 @@
-var mnemonic = "term traffic club split hammer loop grass minimum team bless antenna advance";
+var mnemonic = "rule inner general primary cat betray embrace twin then damage useful island";

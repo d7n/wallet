@@ -1,1 +1,1 @@
-var mnemonic = "summer solution feed check biology claim position drop cheap rescue wait syrup";
+var mnemonic = "daring bread grow ankle click judge hamster mirror cruise guess sail taste";

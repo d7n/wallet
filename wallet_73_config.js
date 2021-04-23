@@ -1,1 +1,1 @@
-var mnemonic = "coconut easy exchange dad balance december bring family congress resource food oxygen";
+var mnemonic = "stone luggage frozen object gossip put trust grant genuine motion urge rare";

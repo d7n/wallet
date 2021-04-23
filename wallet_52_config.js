@@ -1,1 +1,1 @@
-var mnemonic = "amateur truck glare master glide program maid mixed certain capable race fever";
+var mnemonic = "wait double brother daring answer spray donate output swing flush coin chaos";

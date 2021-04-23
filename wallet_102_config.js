@@ -1,1 +1,1 @@
-var mnemonic = "bone defy match enact grow interest grab direct curtain essay one awkward";
+var mnemonic = "blue drive economy village avocado tennis oyster stock suspect number open ancient";

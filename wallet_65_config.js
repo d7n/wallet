@@ -1,1 +1,1 @@
-var mnemonic = "own skull shell jaguar blood episode icon exact raccoon edge witness fall";
+var mnemonic = "response rate jacket error rural anxiety wreck blind clump boost enact torch";

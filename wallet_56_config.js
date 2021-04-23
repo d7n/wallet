@@ -1,1 +1,1 @@
-var mnemonic = "clerk catch blanket pet useful cigar reduce spice rose tissue exile lens";
+var mnemonic = "mixture knock dash faith segment onion giggle pyramid random gym shove crack";

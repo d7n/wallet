@@ -1,1 +1,1 @@
-var mnemonic = "hard episode human fabric knock pencil aspect layer cupboard fit engine ahead";
+var mnemonic = "zebra busy talk install health senior deposit best plunge wine end mosquito";

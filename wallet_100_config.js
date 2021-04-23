@@ -1,1 +1,1 @@
-var mnemonic = "what group clip prepare hill situate debate annual travel welcome change permit";
+var mnemonic = "shy banner desert flight gauge snow anchor tribe huge kangaroo success actor";

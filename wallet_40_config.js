@@ -1,1 +1,1 @@
-var mnemonic = "fox scout submit catalog survey wise prison ready sand drink pulp glove";
+var mnemonic = "wisdom sample ankle deny stumble donor behind hope bridge guess blast green";

@@ -1,1 +1,1 @@
-var mnemonic = "detect north uncover erosion guide ticket aware bless finish mind husband core";
+var mnemonic = "keen ordinary giggle river flock bench turtle album recall race comic scorpion";

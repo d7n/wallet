@@ -1,1 +1,1 @@
-var mnemonic = "clutch chimney swarm write tip caution pizza few coyote false castle foot";
+var mnemonic = "tool demand opinion venue sausage network rookie uphold code mountain dizzy message";

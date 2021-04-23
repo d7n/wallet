@@ -1,1 +1,1 @@
-var mnemonic = "wing pet pulse crowd midnight olive traffic print theme vote aisle oak";
+var mnemonic = "simple manage rely neck ring coach margin file neglect glide pass proof";

@@ -1,1 +1,1 @@
-var mnemonic = "sick april task budget hockey race yard draft zone rocket travel bracket";
+var mnemonic = "novel success sure skill change fuel torch write funny fat legal front";

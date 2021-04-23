@@ -1,1 +1,1 @@
-var mnemonic = "adjust zebra torch can seek achieve thing there fiscal silent predict asthma";
+var mnemonic = "ensure example strike harsh slab cheese peanut sick mosquito carpet pledge weird";

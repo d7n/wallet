@@ -1,1 +1,1 @@
-var mnemonic = "sock cat depart sphere swift amateur twelve monkey foil ball quiz state";
+var mnemonic = "office engage swarm input cigar neutral prosper obvious cigar level divert cute";

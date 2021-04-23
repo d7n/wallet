@@ -1,1 +1,1 @@
-var mnemonic = "road pink usage plunge material lobster genuine build essay crash salon neither";
+var mnemonic = "punch ordinary wire another athlete you august attitude main bitter cable outside";

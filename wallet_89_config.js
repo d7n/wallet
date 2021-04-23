@@ -1,1 +1,1 @@
-var mnemonic = "struggle wide oxygen outer paddle media layer stumble delay rough series east";
+var mnemonic = "scheme vault during expire turkey youth try pact will kidney swear winter";

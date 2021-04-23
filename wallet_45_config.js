@@ -1,1 +1,1 @@
-var mnemonic = "history admit black arrow sorry seat large video mixture joke pigeon nerve";
+var mnemonic = "renew wasp gadget egg spray comfort danger cool laundry struggle hope vivid";

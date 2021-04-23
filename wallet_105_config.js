@@ -1,1 +1,1 @@
-var mnemonic = "target main stool crater post garlic mistake crash link duty slim quarter";
+var mnemonic = "license chalk annual infant paper other maid festival issue coast track normal";

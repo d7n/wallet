@@ -1,1 +1,1 @@
-var mnemonic = "tourist happy peasant bargain hedgehog waste grit blanket fashion either conduct next";
+var mnemonic = "indicate toward embrace warm demand step stick small orient earn ahead advice";

@@ -1,1 +1,1 @@
-var mnemonic = "image beef glare harbor tide possible invite century input unhappy express senior";
+var mnemonic = "lemon prepare sunset dose east drive flash crystal visit series grape spare";

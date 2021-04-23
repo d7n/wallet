@@ -1,1 +1,1 @@
-var mnemonic = "quit crime together always motion key jaguar wire decline maximum multiply athlete";
+var mnemonic = "shove donate slice client steak cloud piece ugly owner race robot guide";

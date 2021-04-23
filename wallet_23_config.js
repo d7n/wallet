@@ -1,1 +1,1 @@
-var mnemonic = "oyster idea potato second jacket all gather drama siege young uncover thumb";
+var mnemonic = "spot dance announce output limb ride corn match lucky doctor media easily";

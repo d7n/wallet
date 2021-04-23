@@ -1,1 +1,1 @@
-var mnemonic = "century father minute keep between race promote circle short divide custom mountain";
+var mnemonic = "sugar brick member april network neglect again review salmon twist loud collect";

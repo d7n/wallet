@@ -1,1 +1,1 @@
-var mnemonic = "public enact awake cake dial letter leopard crew stereo shock improve water";
+var mnemonic = "hair replace never private exchange twist cute various enter wait salt board";

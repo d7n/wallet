@@ -1,1 +1,1 @@
-var mnemonic = "sausage stage ready custom puzzle boil antique quarter slow wide right goat";
+var mnemonic = "female rate skate cancel vault able hood coast express ball make humble";

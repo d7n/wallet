@@ -1,1 +1,1 @@
-var mnemonic = "lazy embrace income evoke office occur knee jar usage song stove guide";
+var mnemonic = "fossil into animal focus monster curtain friend proof funny walk join trust";

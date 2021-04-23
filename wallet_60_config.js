@@ -1,1 +1,1 @@
-var mnemonic = "access useless harsh saddle reunion aim quick pilot mystery renew duck idle";
+var mnemonic = "disorder shoe shell fire tiger delay prosper fashion bag arctic direct estate";

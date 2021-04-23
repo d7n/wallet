@@ -1,1 +1,1 @@
-var mnemonic = "lemon multiply move best ramp kind guide tooth member bitter fiber midnight";
+var mnemonic = "guide lock spot olympic victory notice cradle release mom cannon client write";

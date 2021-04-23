@@ -1,1 +1,1 @@
-var mnemonic = "unknown frozen sad march body summer sign expect brave atom wrong where";
+var mnemonic = "rival fragile mix identify side hobby royal dentist fiber coffee muffin invest";

@@ -1,1 +1,1 @@
-var mnemonic = "other right basic next innocent man dwarf about learn expand mansion home";
+var mnemonic = "return solar gloom dinner sea eternal duty false mesh poet tomorrow easily";

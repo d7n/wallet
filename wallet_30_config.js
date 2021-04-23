@@ -1,1 +1,1 @@
-var mnemonic = "kiwi near lazy surprise derive delay tennis second that boat nominee vehicle";
+var mnemonic = "spin retire bright army rescue actress creek pilot window water amused finger";

@@ -1,1 +1,1 @@
-var mnemonic = "brain divide poet pigeon abandon lunch win wet praise scare merry churn";
+var mnemonic = "coconut copy shift drop arrest brown rely draw century glow author pink";

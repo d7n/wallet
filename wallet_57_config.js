@@ -1,1 +1,1 @@
-var mnemonic = "beef story roof very retreat trend erode pipe someone enjoy fish habit";
+var mnemonic = "enact climb antenna dream town actress swallow found daring symbol bird wolf";

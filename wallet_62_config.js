@@ -1,1 +1,1 @@
-var mnemonic = "nation cradle all master auto laundry call there giggle dinner fatigue sugar";
+var mnemonic = "paper derive disease foam glad hover invest general dignity certain history spoil";

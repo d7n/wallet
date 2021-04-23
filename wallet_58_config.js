@@ -1,1 +1,1 @@
-var mnemonic = "surprise cash electric spot paddle ribbon cook today intact forum home tent";
+var mnemonic = "trash hazard version object visual logic hint oven deposit giggle like rice";

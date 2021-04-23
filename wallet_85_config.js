@@ -1,1 +1,1 @@
-var mnemonic = "strike law deposit deputy garden few shiver fiber ripple gentle vast river";
+var mnemonic = "film treat disease custom net mystery census advice hammer rebel similar holiday";

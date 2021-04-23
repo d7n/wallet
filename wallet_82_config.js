@@ -1,1 +1,1 @@
-var mnemonic = "access feed miss angry nose private state force profit cabbage era tongue";
+var mnemonic = "coconut fence magnet amazing season talent device convince solve marine ask gadget";

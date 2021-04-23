@@ -1,1 +1,1 @@
-var mnemonic = "dignity include mandate film awful enemy neutral area common phrase fabric december";
+var mnemonic = "cloud develop similar wedding muscle layer basic ball ill candy border wrap";

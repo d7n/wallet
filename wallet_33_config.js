@@ -1,1 +1,1 @@
-var mnemonic = "survey like dignity trick trash sure window filter movie blade trim put";
+var mnemonic = "arrive husband grunt book penalty friend steel art stuff escape axis document";

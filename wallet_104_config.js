@@ -1,1 +1,1 @@
-var mnemonic = "panel limit cross office blade school auto win roof music hold tide";
+var mnemonic = "stomach impulse charge pair canyon awful peace used enact midnight success slender";

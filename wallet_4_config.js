@@ -1,1 +1,1 @@
-var mnemonic = "elevator basket notice coach layer notice extra manage load bonus yard wood";
+var mnemonic = "family cargo gaze start radio outer wisdom potato safe document torch seek";

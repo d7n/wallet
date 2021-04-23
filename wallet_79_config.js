@@ -1,1 +1,1 @@
-var mnemonic = "bracket deliver injury flash humor million coach vanish unit ridge suffer legal";
+var mnemonic = "resist clump output slogan broken ostrich heavy surface car palm error nature";

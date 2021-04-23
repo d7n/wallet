@@ -1,1 +1,1 @@
-var mnemonic = "misery believe coconut board hip fringe reduce churn worth about sausage fetch";
+var mnemonic = "melt image drink mechanic floor boat width large gasp broken retire device";

@@ -1,1 +1,1 @@
-var mnemonic = "jacket slight stairs jaguar dragon answer call adult cargo doctor useless club";
+var mnemonic = "charge shield hero case finger later sugar stool donate place blind useful";

@@ -1,1 +1,1 @@
-var mnemonic = "carpet distance language arm odor buddy only photo few elephant address index";
+var mnemonic = "gorilla lumber demand wood camera travel marble basket bounce unique dust swamp";

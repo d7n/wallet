@@ -1,1 +1,1 @@
-var mnemonic = "bulk hedgehog upset thank legal rookie local member hedgehog buddy path elite";
+var mnemonic = "liquid situate logic dad tell dwarf hammer surface romance galaxy monster denial";

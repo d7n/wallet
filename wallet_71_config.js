@@ -1,1 +1,1 @@
-var mnemonic = "brief nominee crazy surprise cushion bomb fringe current stay canoe property pave";
+var mnemonic = "ecology lawsuit figure hamster title fame sand notable shallow field company genre";

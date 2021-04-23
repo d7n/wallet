@@ -1,1 +1,1 @@
-var mnemonic = "portion daring jaguar venture awesome silly garbage volume divert calm real fruit";
+var mnemonic = "area length pottery fever play despair again liquid steak apology animal juice";

@@ -1,1 +1,1 @@
-var mnemonic = "breeze earth century empower attend great gorilla boat coach nothing surround pair";
+var mnemonic = "please inch long raven autumn cat gallery ready anxiety right spice useless";

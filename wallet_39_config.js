@@ -1,1 +1,1 @@
-var mnemonic = "cattle topple require trash device canal knock submit echo erupt identify jar";
+var mnemonic = "frost moral skull prefer puzzle cash trial worth wear fade fork execute";

@@ -1,1 +1,1 @@
-var mnemonic = "search quarter noodle muffin panda bubble juice accuse junk surface ivory mandate";
+var mnemonic = "sunny middle ski gaze cousin twelve soccer adapt poet stick pepper mercy";

@@ -1,1 +1,1 @@
-var mnemonic = "pond cupboard myth exile soldier jealous obey annual hold behind desk another";
+var mnemonic = "pupil alpha birth alien steel assume stuff benefit neutral sustain palace sea";

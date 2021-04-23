@@ -1,1 +1,1 @@
-var mnemonic = "phone body steel amount bag stay boil artwork receive grace earn child";
+var mnemonic = "couch whale deliver educate rather option cushion ugly ahead awkward tumble vibrant";

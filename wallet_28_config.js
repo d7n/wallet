@@ -1,1 +1,1 @@
-var mnemonic = "village glass seek witness pioneer brain lock often puppy science surprise clerk";
+var mnemonic = "dumb feed maze flight hill shop sponsor evolve thrive assault blossom youth";

@@ -1,1 +1,1 @@
-var mnemonic = "fame aspect style inflict fresh wasp lens bitter more movie urge tattoo";
+var mnemonic = "crystal fun enhance room melody cliff learn tide table negative token dolphin";

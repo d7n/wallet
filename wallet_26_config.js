@@ -1,1 +1,1 @@
-var mnemonic = "history network scout essay town car second harsh casino anxiety journey tunnel";
+var mnemonic = "degree aspect middle inject spring discover shoulder dwarf better current push tag";

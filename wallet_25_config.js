@@ -1,1 +1,1 @@
-var mnemonic = "protect two jewel bench saddle attend tattoo cave insect dynamic axis cloud";
+var mnemonic = "repair cabbage bicycle master sort want vendor unique quiz toss skill theory";

@@ -1,1 +1,1 @@
-var mnemonic = "display alter miss bleak apology age often snake quality clutch civil same";
+var mnemonic = "pole toe screen mercy very near iron space rebel unaware sock remember";

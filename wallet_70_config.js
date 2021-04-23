@@ -1,1 +1,1 @@
-var mnemonic = "morning silk glory fire traffic picture sentence ensure country spike crystal annual";
+var mnemonic = "nut one dizzy ramp spider hire dolphin robot key ecology effort hero";

@@ -1,1 +1,1 @@
-var mnemonic = "flee flush zoo old rebuild option fold assume matrix margin love urge";
+var mnemonic = "quality popular buffalo shadow gasp talk loyal direct task monkey swallow frozen";

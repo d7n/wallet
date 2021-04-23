@@ -1,1 +1,1 @@
-var mnemonic = "float icon buyer once foil theme advance affair prepare local cycle erase";
+var mnemonic = "struggle control hazard guess bench swim retreat proof member unfold weekend couple";

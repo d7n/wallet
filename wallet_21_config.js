@@ -1,1 +1,1 @@
-var mnemonic = "child wonder labor very lawn arrange stomach dynamic silver hammer fire odor";
+var mnemonic = "around require joke unfair motor cool mesh decorate usual voice whale ability";

@@ -1,1 +1,1 @@
-var mnemonic = "page ordinary cement find spatial dust agent person where vintage wheel grid";
+var mnemonic = "sea safe crowd camp any swift away initial faith monitor today impact";

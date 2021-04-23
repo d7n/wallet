@@ -1,1 +1,1 @@
-var mnemonic = "bachelor emotion asthma hazard liar trim siren salad attitude valley ketchup polar";
+var mnemonic = "gather add critic awesome despair present answer skate car negative salon version";

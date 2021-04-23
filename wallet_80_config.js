@@ -1,1 +1,1 @@
-var mnemonic = "mail wool regular present weapon wild stool struggle tone master mouse physical";
+var mnemonic = "ski save furnace joke arm they connect economy fetch unhappy begin fortune";

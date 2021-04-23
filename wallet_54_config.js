@@ -1,1 +1,1 @@
-var mnemonic = "avoid foster trip stem mercy attend fabric sudden advice erupt misery nurse";
+var mnemonic = "demise clump erosion fortune tobacco during remove steel focus stairs option name";

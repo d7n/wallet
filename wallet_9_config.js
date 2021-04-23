@@ -1,1 +1,1 @@
-var mnemonic = "other permit coral visit session super bunker rubber chimney pond bid lizard";
+var mnemonic = "main flee jar prevent wife initial buffalo inhale army feature machine under";

@@ -1,1 +1,1 @@
-var mnemonic = "pole muscle sauce laundry skate candy curtain citizen attract always prepare letter";
+var mnemonic = "fit south desk inform steak pear hazard wreck toward alone cabbage pony";

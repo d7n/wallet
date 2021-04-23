@@ -1,1 +1,1 @@
-var mnemonic = "mind gasp chest diamond reveal dice moral cherry trust tribe write sleep";
+var mnemonic = "absurd consider aunt puzzle captain wish portion slide club olive phrase fancy";
