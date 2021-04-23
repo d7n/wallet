@@ -1,1 +1,1 @@
-var mnemonic = "mass struggle minor build alley nature lyrics what random cup puppy bitter";
+var mnemonic = "review world just fix stone adult satoshi exclude sorry apple wrist happy";

@@ -1,1 +1,1 @@
-var mnemonic = "quote primary ankle net luxury suggest veteran punch gravity jacket diet close";
+var mnemonic = "robot kitten ethics intact amateur dizzy creek track organ sea session deposit";

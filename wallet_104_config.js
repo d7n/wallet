@@ -1,1 +1,1 @@
-var mnemonic = "icon illness present uphold erupt accident drama van neck fix almost inch";
+var mnemonic = "west wrist direct party giggle clinic basket gate betray taste local robust";

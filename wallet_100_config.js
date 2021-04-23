@@ -1,1 +1,1 @@
-var mnemonic = "home spawn depart faculty entire fresh certain grace pledge lend unveil section";
+var mnemonic = "vast reject pumpkin gorilla sauce bullet obey ecology slam ski tiny indicate";

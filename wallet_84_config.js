@@ -1,1 +1,1 @@
-var mnemonic = "whisper laugh latin hen plug cross mixture drink stomach army bus buffalo";
+var mnemonic = "border whip snack street steak kick oak various rich admit toast sponsor";

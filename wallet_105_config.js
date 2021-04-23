@@ -1,1 +1,1 @@
-var mnemonic = "busy life vacuum man jacket fashion inspire earth hammer waste subject voice";
+var mnemonic = "dice honey thunder rely remove bridge expand sad solve average beyond must";

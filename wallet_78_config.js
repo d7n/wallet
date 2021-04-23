@@ -1,1 +1,1 @@
-var mnemonic = "maid west point draft special travel entire day need carbon crucial right";
+var mnemonic = "crew mandate marine bread swap century device seat quit tragic emerge hair";

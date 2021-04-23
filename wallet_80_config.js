@@ -1,1 +1,1 @@
-var mnemonic = "seat emotion royal grape arctic farm early bird joke office hard swear";
+var mnemonic = "kid sketch blouse pave sudden miracle renew survey crane claw edge fall";

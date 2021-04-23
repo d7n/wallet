@@ -1,1 +1,1 @@
-var mnemonic = "connect wink wood embark van lion dolphin become dog uncle tired assume";
+var mnemonic = "rule travel tonight athlete blast muffin solve merge parent host sibling decline";

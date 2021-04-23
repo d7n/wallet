@@ -1,1 +1,1 @@
-var mnemonic = "top cross viable pottery wedding search phone sample onion educate sketch live";
+var mnemonic = "market token fatigue motion range dust raw laptop select correct current alert";

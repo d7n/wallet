@@ -1,1 +1,1 @@
-var mnemonic = "salt gesture stumble fox helmet possible swing oppose save hurry leaf sail";
+var mnemonic = "mango hard hope medal loan toss sister sorry fire gate dwarf truly";

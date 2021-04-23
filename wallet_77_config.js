@@ -1,1 +1,1 @@
-var mnemonic = "split sister absorb state bird ecology venue uncover below cupboard vivid fatal";
+var mnemonic = "purity potato fog noble celery moon fall rapid execute marriage naive wheel";

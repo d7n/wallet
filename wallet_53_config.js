@@ -1,1 +1,1 @@
-var mnemonic = "acquire east debate fashion scissors rare gentle actor require present consider witness";
+var mnemonic = "hen thumb message furnace dizzy since what wheat afraid quiz drastic bus";

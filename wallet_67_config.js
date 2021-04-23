@@ -1,1 +1,1 @@
-var mnemonic = "spike estate clog certain enact gallery ten letter car upset speak panic";
+var mnemonic = "crater fetch range casino peace must palm learn about lamp bike lobster";

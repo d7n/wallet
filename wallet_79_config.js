@@ -1,1 +1,1 @@
-var mnemonic = "convince provide crumble grocery torch broken ill boost sample erosion country disagree";
+var mnemonic = "unhappy reflect crime hurdle burst civil cover poverty firm vivid apology color";

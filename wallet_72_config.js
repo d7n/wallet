@@ -1,1 +1,1 @@
-var mnemonic = "style arena fabric avocado flush marine matrix magnet tooth dad jealous diamond";
+var mnemonic = "cement suit entire nuclear prison inhale water logic traffic need purity all";

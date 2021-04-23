@@ -1,1 +1,1 @@
-var mnemonic = "double fly valid patch piano worry treat steel better across hill curious";
+var mnemonic = "kitchen power comic radar gasp junior grief dress giant twist fame august";

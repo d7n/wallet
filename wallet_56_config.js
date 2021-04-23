@@ -1,1 +1,1 @@
-var mnemonic = "praise unit pulse orchard surprise differ daughter tribe race ugly seat thought";
+var mnemonic = "seed ask cotton brave eager same unable follow cricket toddler noise decade";

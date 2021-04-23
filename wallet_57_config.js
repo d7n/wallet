@@ -1,1 +1,1 @@
-var mnemonic = "gas there already rice sick eager cricket else jewel glove attend hotel";
+var mnemonic = "dilemma notable reward rural moral suffer tray fancy dose traffic unveil vital";

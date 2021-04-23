@@ -1,1 +1,1 @@
-var mnemonic = "flight glad trick someone post faith step essay obey orchard stock govern";
+var mnemonic = "casino celery sleep north run endless sunny rent strong collect smooth sleep";

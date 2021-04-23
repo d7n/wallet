@@ -1,1 +1,1 @@
-var mnemonic = "merry tell cheese congress nation view eyebrow van claim trend family chaos";
+var mnemonic = "box regret sphere vehicle regular volume access spy farm equip excuse genre";

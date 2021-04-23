@@ -1,1 +1,1 @@
-var mnemonic = "permit lonely labor bag junk collect describe civil object jar jungle iron";
+var mnemonic = "collect lamp stage scan aspect worry spell federal sadness work peanut pledge";

@@ -1,1 +1,1 @@
-var mnemonic = "risk rare satisfy clay baby rather alone leave gap elbow submit angry";
+var mnemonic = "fox decrease island reflect educate jeans pilot buffalo piano wait print junk";

@@ -1,1 +1,1 @@
-var mnemonic = "artwork draw fortune debate rule husband oil dizzy mountain enforce alpha cup";
+var mnemonic = "control bullet ring fix cross chef brother skin code library model sense";

@@ -1,1 +1,1 @@
-var mnemonic = "tube artist sick struggle love test prepare palace peasant toe pattern cross";
+var mnemonic = "diamond speak blossom hobby jealous cousin attract bus absurd park still giraffe";

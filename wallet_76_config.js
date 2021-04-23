@@ -1,1 +1,1 @@
-var mnemonic = "buzz rely impulse forum bracket day pilot raven motor talk planet spell";
+var mnemonic = "home panther wasp degree pole into nurse old drift brother urge offer";

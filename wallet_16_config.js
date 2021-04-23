@@ -1,1 +1,1 @@
-var mnemonic = "ecology boring elder regret just mule scrap exist quality occur shift antique";
+var mnemonic = "minimum destroy drill mention vicious wash help bread cupboard mistake discover render";

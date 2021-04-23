@@ -1,1 +1,1 @@
-var mnemonic = "warfare like key tobacco donkey illness laundry tree room neglect hurdle toward";
+var mnemonic = "pumpkin lunch sea page great able cement moment wasp angle surprise bomb";

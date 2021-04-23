@@ -1,1 +1,1 @@
-var mnemonic = "fade wagon device disorder burden frown give picnic call need brass indicate";
+var mnemonic = "wild upgrade window review tip thank grab execute increase neutral coffee gloom";

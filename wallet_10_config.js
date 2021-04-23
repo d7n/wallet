@@ -1,1 +1,1 @@
-var mnemonic = "chief coast leg vague image club rebel measure rotate glass rebuild cushion";
+var mnemonic = "bright engage innocent ribbon caution matter regular frown repeat replace inner absurd";

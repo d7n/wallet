@@ -1,1 +1,1 @@
-var mnemonic = "crystal family audit talent note ride solid jungle sheriff infant walk motion";
+var mnemonic = "payment demise useful purse occur excess science member track rice pulse brand";

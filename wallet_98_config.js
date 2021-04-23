@@ -1,1 +1,1 @@
-var mnemonic = "element vibrant wear include galaxy pepper hub chef table pretty history borrow";
+var mnemonic = "easily universe tree rude bring trash ability hood also industry cram door";

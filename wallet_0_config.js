@@ -1,1 +1,1 @@
-var mnemonic = "shop say service trim payment choose gesture skin donate foot sunny engage";
+var mnemonic = "body income notable repeat rack announce obscure loan gain stereo dilemma crazy";

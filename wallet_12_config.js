@@ -1,1 +1,1 @@
-var mnemonic = "rebuild hockey mimic tunnel olive ski control copper shoot comfort fury bread";
+var mnemonic = "junior bottom stairs cram wing ladder cherry kiss steel order source test";

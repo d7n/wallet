@@ -1,1 +1,1 @@
-var mnemonic = "enough rent leg salute quantum stand milk praise cloud unique glimpse weather";
+var mnemonic = "lobster warm never choice carpet cargo famous stick edge busy job recall";

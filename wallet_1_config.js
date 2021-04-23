@@ -1,1 +1,1 @@
-var mnemonic = "jaguar obtain actor wrap supply romance crouch mango used orphan task lawsuit";
+var mnemonic = "one broccoli hover wood sure response soap retire real canal upon net";

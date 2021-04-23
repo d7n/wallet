@@ -1,1 +1,1 @@
-var mnemonic = "pencil grow replace miss avoid brand valid nature loan sniff steel congress";
+var mnemonic = "example example shell slot garment maximum notable rigid novel grant media steel";

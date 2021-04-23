@@ -1,1 +1,1 @@
-var mnemonic = "feature lemon gesture hospital swift mutual crunch danger useless they swamp choice";
+var mnemonic = "page iron letter whip bone genuine radio donor dry stamp network turn";

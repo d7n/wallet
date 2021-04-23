@@ -1,1 +1,1 @@
-var mnemonic = "dress occur icon mean license method limb cushion gather echo love swim";
+var mnemonic = "urban model dust cousin bulb average enjoy proof rally hire recall amused";

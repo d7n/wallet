@@ -1,1 +1,1 @@
-var mnemonic = "chaos ethics limit marriage hockey broom camp liquid aisle vague scatter sight";
+var mnemonic = "split fly wet hobby decorate sort cushion error allow normal elevator length";

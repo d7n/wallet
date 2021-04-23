@@ -1,1 +1,1 @@
-var mnemonic = "camp basket cave increase mean apple misery young purchase rug olympic fade";
+var mnemonic = "security mobile cube peace skull doll kingdom repeat craft poverty raccoon horse";

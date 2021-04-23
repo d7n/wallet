@@ -1,1 +1,1 @@
-var mnemonic = "salmon curious deputy jump patient thumb badge come energy nest volcano donkey";
+var mnemonic = "purse loan term kite regular under oven random embark hope utility artwork";

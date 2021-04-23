@@ -1,1 +1,1 @@
-var mnemonic = "mass enjoy gadget vocal vote ladder tree wrap earn mercy long mistake";
+var mnemonic = "ethics gain claim assault pear spider kitchen swamp blanket dial season alert";

@@ -1,1 +1,1 @@
-var mnemonic = "mix often soda fiber nurse prosper output ignore top ten february seek";
+var mnemonic = "despair female race yard verb thrive sing gesture bid phrase clown balance";

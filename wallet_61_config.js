@@ -1,1 +1,1 @@
-var mnemonic = "unfold ensure liberty near tonight enact same toy rough bargain deny rent";
+var mnemonic = "table letter lawsuit loud harbor twist alert napkin loan left poem sugar";

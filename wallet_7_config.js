@@ -1,1 +1,1 @@
-var mnemonic = "garlic foster boost neglect vibrant order practice degree hire marble funny orient";
+var mnemonic = "manual flock online slide whale stay coyote case prize toe refuse write";

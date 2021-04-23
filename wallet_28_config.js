@@ -1,1 +1,1 @@
-var mnemonic = "chair second purse lake use paper blanket remind broom two dismiss answer";
+var mnemonic = "hospital sauce scatter beauty photo width anger obey target age wait quiz";

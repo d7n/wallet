@@ -1,1 +1,1 @@
-var mnemonic = "differ oil barrel dolphin wish stove gallery huge cabin emotion receive mail";
+var mnemonic = "nothing penalty velvet renew build wheel pet arm reward blast fade allow";

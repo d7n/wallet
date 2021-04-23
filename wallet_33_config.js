@@ -1,1 +1,1 @@
-var mnemonic = "radio autumn often prize one measure whip buddy future march soul wall";
+var mnemonic = "adjust spoon walnut entry illegal young year inch bracket quantum unit size";

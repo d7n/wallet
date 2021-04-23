@@ -1,1 +1,1 @@
-var mnemonic = "wink ride poem require arrow suggest number range fish stove version gossip";
+var mnemonic = "recipe anchor cousin bag humor drop thing people defense force eager adapt";

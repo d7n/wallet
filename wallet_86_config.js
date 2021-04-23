@@ -1,1 +1,1 @@
-var mnemonic = "execute reason brave sea key include decade toast luxury twice sting bacon";
+var mnemonic = "black hill trophy foster grow famous scheme wrist trim work era fatigue";

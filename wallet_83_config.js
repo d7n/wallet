@@ -1,1 +1,1 @@
-var mnemonic = "clerk valve skin visit begin inject mean network around blossom grief cliff";
+var mnemonic = "gossip taxi such nuclear creek impulse smooth toy fluid lucky path typical";

@@ -1,1 +1,1 @@
-var mnemonic = "fabric sound indoor immense helmet since recall journey primary sudden display glad";
+var mnemonic = "early pulse depth tiger talk mask sign snap garbage voice sense power";

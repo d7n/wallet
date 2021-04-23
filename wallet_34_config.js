@@ -1,1 +1,1 @@
-var mnemonic = "local hawk same arm truck ahead copy below sunset wild gain noodle";
+var mnemonic = "clean unique become brother click slender gasp sand float kingdom blossom shift";

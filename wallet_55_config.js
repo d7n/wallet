@@ -1,1 +1,1 @@
-var mnemonic = "rough cable release section bronze yard edge orient evidence nothing film change";
+var mnemonic = "rail crane gospel high scheme spider jungle process galaxy gravity tired usage";

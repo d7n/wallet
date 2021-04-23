@@ -1,1 +1,1 @@
-var mnemonic = "become prize ten charge time summer struggle bitter green ridge endorse artefact";
+var mnemonic = "armor media fluid spawn zone visit depart metal begin eyebrow despair fan";

@@ -1,1 +1,1 @@
-var mnemonic = "mammal render egg indicate leave slim fancy tail example actress tray clip";
+var mnemonic = "cloud couple scan response column outside click lizard number property tomato vast";

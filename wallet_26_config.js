@@ -1,1 +1,1 @@
-var mnemonic = "road short document help mandate forget apart average defy smart fall solution";
+var mnemonic = "faint depth marble bronze wink celery slot people suggest lunar dizzy clarify";

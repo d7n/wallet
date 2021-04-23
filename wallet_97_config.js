@@ -1,1 +1,1 @@
-var mnemonic = "cluster pulp assume enter tragic cupboard stem immense depth diagram tobacco income";
+var mnemonic = "device pole note veteran vintage acquire purchase fix gun course reunion enforce";

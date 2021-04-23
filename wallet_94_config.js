@@ -1,1 +1,1 @@
-var mnemonic = "ketchup warrior steak defy wisdom demand crack become snap dry suffer measure";
+var mnemonic = "bunker essay cook better woman park yellow carpet maximum budget clock blouse";

@@ -1,1 +1,1 @@
-var mnemonic = "salute spice adult wise happy shoe load artefact capital damp radio lunar";
+var mnemonic = "avoid room chuckle help loop child notice vital rapid cheese swing broom";

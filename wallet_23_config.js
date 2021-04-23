@@ -1,1 +1,1 @@
-var mnemonic = "best focus country cliff ridge wet outer proof audit bounce cotton race";
+var mnemonic = "jacket trigger knife joy dismiss day scare emotion achieve regular consider hover";

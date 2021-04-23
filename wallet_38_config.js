@@ -1,1 +1,1 @@
-var mnemonic = "plastic dolphin debris enemy simple saddle color wave evolve price excite dentist";
+var mnemonic = "juice casual boring shuffle fee drastic reason use list document room pair";

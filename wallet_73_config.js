@@ -1,1 +1,1 @@
-var mnemonic = "fit argue army smooth february mixture dove will flock you evoke index";
+var mnemonic = "thank nuclear enter card pull easily tunnel junk float clog deposit first";

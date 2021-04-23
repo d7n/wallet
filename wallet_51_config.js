@@ -1,1 +1,1 @@
-var mnemonic = "slab moment glass cannon club yellow coconut sniff scrub nature galaxy puzzle";
+var mnemonic = "cannon furnace gown else card domain garden bone expose sort snap minute";

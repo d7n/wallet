@@ -1,1 +1,1 @@
-var mnemonic = "couch urge island example erode ugly chimney panther unhappy face orient observe";
+var mnemonic = "slab diary harvest reject clever copy ability under check snake admit jewel";

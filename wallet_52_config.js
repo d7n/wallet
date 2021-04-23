@@ -1,1 +1,1 @@
-var mnemonic = "hub kingdom attitude joke battle future repair poet next bring kitchen spoil";
+var mnemonic = "special dinner trick salt provide lawn case ski salad couple note token";

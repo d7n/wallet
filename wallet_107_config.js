@@ -1,1 +1,1 @@
-var mnemonic = "state scheme filter glory bonus duty inspire over magic walnut design salt";
+var mnemonic = "evolve wire bid vanish result amazing crash assume dilemma pencil mouse thumb";

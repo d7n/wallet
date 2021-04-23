@@ -1,1 +1,1 @@
-var mnemonic = "adapt true normal unhappy canyon torch few ignore neutral way beach gossip";
+var mnemonic = "ankle ticket adult ozone despair tuition coffee mosquito ribbon rotate worth stomach";

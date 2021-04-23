@@ -1,1 +1,1 @@
-var mnemonic = "reopen physical clump toward habit coral hawk begin dynamic turtle token lecture";
+var mnemonic = "first afford recipe birth betray surge drum outer coach script nest dizzy";

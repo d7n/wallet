@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog original glance bacon happy place worry stay asset own depart stand";
+var mnemonic = "satisfy ethics achieve mention squeeze sibling foil column draw target quick inherit";

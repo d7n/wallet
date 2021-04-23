@@ -1,1 +1,1 @@
-var mnemonic = "athlete scorpion goat month march rhythm rose consider grunt next act fame";
+var mnemonic = "merry improve example print wagon devote crack increase worry little adjust image";

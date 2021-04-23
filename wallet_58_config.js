@@ -1,1 +1,1 @@
-var mnemonic = "solve initial teach edit awful expand feel traffic comic snack soldier liquid";
+var mnemonic = "car attend catch exercise fever movie property amount people crime network chair";

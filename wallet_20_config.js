@@ -1,1 +1,1 @@
-var mnemonic = "hunt consider genre need zebra foil harsh drift usage prepare galaxy desert";
+var mnemonic = "cliff virus walk fiction ahead egg spell favorite onion concert balance latin";

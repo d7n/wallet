@@ -1,1 +1,1 @@
-var mnemonic = "indicate conduct awkward video kind multiply doctor hello stereo onion round diamond";
+var mnemonic = "loyal tackle shadow jealous drum verb document spread quick night castle seat";

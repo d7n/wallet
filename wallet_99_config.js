@@ -1,1 +1,1 @@
-var mnemonic = "peace glue region mule little such flight salmon coral visual they sibling";
+var mnemonic = "whip fault poem memory speed renew lake potato egg hood omit jealous";

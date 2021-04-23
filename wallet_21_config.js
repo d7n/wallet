@@ -1,1 +1,1 @@
-var mnemonic = "evil hover welcome exclude usual bamboo depth traffic direct develop clown engine";
+var mnemonic = "junk text sad entry ensure alley smart load toddler mansion fold lawsuit";

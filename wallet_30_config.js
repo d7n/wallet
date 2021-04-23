@@ -1,1 +1,1 @@
-var mnemonic = "edge cross route tuna eyebrow cry cattle cry type auction local crowd";
+var mnemonic = "student attack reopen flower pioneer mistake snack engine hair major correct cook";

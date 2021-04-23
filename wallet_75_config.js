@@ -1,1 +1,1 @@
-var mnemonic = "shiver choice basket core usual normal odor island solve solution cave derive";
+var mnemonic = "wish click lady desert visual copper amazing pluck crowd series border desk";

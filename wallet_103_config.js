@@ -1,1 +1,1 @@
-var mnemonic = "column strategy expand merry hobby enrich term obvious math ball insane detail";
+var mnemonic = "fashion carry accident unit debris globe purse harvest auto title frog option";

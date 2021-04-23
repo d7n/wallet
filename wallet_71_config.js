@@ -1,1 +1,1 @@
-var mnemonic = "hurt gossip champion pilot alarm pulse trouble nurse wonder indicate thunder keep";
+var mnemonic = "lift exist regret salute subway wasp symptom food rose demand bird word";

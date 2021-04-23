@@ -1,1 +1,1 @@
-var mnemonic = "miss barrel local order october quiz cinnamon tilt orphan item brand exchange";
+var mnemonic = "fetch before print taste stool hurdle advice sweet narrow custom finish audit";

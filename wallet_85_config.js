@@ -1,1 +1,1 @@
-var mnemonic = "marriage jump forward salt abandon maximum tattoo desert poet lens scrub parrot";
+var mnemonic = "allow dial sponsor bean situate calm tumble there honey foster shoe call";

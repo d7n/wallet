@@ -1,1 +1,1 @@
-var mnemonic = "aunt spoon lend hope push gossip orphan genuine spawn volume trash vacuum";
+var mnemonic = "holiday report play relax coconut wrestle quick lucky parrot stairs exhibit junk";

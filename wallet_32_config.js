@@ -1,1 +1,1 @@
-var mnemonic = "indoor ribbon soup pact connect proof gaze steak orient argue lazy damp";
+var mnemonic = "silent vast absent magnet century enrich saddle nest memory inform coach jungle";

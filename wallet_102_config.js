@@ -1,1 +1,1 @@
-var mnemonic = "equip grow canoe awful foster chronic autumn reason metal wear explain protect";
+var mnemonic = "race coin winter tower wish lion near ramp strike chief idea giant";

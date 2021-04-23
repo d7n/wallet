@@ -1,1 +1,1 @@
-var mnemonic = "struggle width argue that maze lyrics before van elegant blouse mansion hurt";
+var mnemonic = "firm major large mask pelican damp miss draw universe rookie item health";

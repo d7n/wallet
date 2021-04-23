@@ -1,1 +1,1 @@
-var mnemonic = "doctor engine sleep else online lunch chef evil dolphin transfer can trigger";
+var mnemonic = "either science high sing cage live aware inside goddess aim great company";

@@ -1,1 +1,1 @@
-var mnemonic = "meat luggage impulse category pretty explain final glare hospital chicken sudden biology";
+var mnemonic = "wrong extra great spy write whisper bind brisk sadness pledge invest runway";

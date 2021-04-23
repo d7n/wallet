@@ -1,1 +1,1 @@
-var mnemonic = "reunion powder mango drop viable correct unlock meat track walnut soon prosper";
+var mnemonic = "immune clinic reason awesome element pear plug rail decide empower flight coconut";

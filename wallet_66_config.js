@@ -1,1 +1,1 @@
-var mnemonic = "emotion picnic bless feature toy mean auction coach page claw lobster buyer";
+var mnemonic = "snap monster civil feature push romance letter wrap odor cabin crater auto";

@@ -1,1 +1,1 @@
-var mnemonic = "peace million duck flag review blast float fatal tonight trade spy quiz";
+var mnemonic = "elbow struggle act gesture erase planet pet tonight chronic blur disagree lens";

@@ -1,1 +1,1 @@
-var mnemonic = "genre enter vicious sleep become wire edge library oxygen anger ensure author";
+var mnemonic = "faculty box rule crisp absorb clinic bullet ski saddle life remember liberty";

@@ -1,1 +1,1 @@
-var mnemonic = "zebra practice february trigger raise chef enlist shine course drum law choice";
+var mnemonic = "churn blue today rare throw honey stem liar coyote secret off desert";

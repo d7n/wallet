@@ -1,1 +1,1 @@
-var mnemonic = "essay occur cherry original about royal inch fragile must powder tip hospital";
+var mnemonic = "scrap frost wedding basket shop caught dose grief lizard flower dolphin sing";

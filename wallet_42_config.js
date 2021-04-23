@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog economy rival figure bone churn cute eye trumpet fold galaxy muffin";
+var mnemonic = "banner purity ladder jewel bicycle wolf reflect bachelor electric absent imitate once";
