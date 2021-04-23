@@ -1,1 +1,1 @@
-var mnemonic = "total renew betray congress goddess table trial glance switch comic group truly";
+var mnemonic = "divide tiny great draft trap skate evil creek indicate warm settle rotate";

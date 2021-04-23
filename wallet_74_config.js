@@ -1,1 +1,1 @@
-var mnemonic = "change culture dutch amount ribbon name garment extra middle front bridge conduct";
+var mnemonic = "toward also day used explain act basic subway crane kitchen debate obtain";

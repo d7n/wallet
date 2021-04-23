@@ -1,1 +1,1 @@
-var mnemonic = "trigger youth punch alter hand inherit lyrics nation dish grain onion tuna";
+var mnemonic = "list disorder awesome rookie dress great home indoor parrot giraffe boat barrel";

@@ -1,1 +1,1 @@
-var mnemonic = "zoo kitten slender crouch someone view toe crazy digital entry drama grit";
+var mnemonic = "damp company gym view armor impose now multiply direct toilet calm dry";

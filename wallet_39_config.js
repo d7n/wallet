@@ -1,1 +1,1 @@
-var mnemonic = "visit satisfy lift mention neither salute volume such imitate robust shy face";
+var mnemonic = "double include oven receive comfort security inner smart oblige plug list power";

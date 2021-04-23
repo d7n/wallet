@@ -1,1 +1,1 @@
-var mnemonic = "list route among print pause degree scout force loan toe run skill";
+var mnemonic = "modify police fragile juice kiss mixed orchard glide mandate deny blind globe";

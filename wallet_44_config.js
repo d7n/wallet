@@ -1,1 +1,1 @@
-var mnemonic = "inside treat soldier leader across address rain mercy chunk paddle alter oil";
+var mnemonic = "debate settle scrap useless they payment fetch fine diagram cousin tide tired";

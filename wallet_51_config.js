@@ -1,1 +1,1 @@
-var mnemonic = "sell walnut field neglect glove process toilet cactus defense myself nephew bronze";
+var mnemonic = "fantasy oak relax swim ghost always venture fan pull waste alien note";

@@ -1,1 +1,1 @@
-var mnemonic = "symbol dentist island carpet rescue taste equip edge volume capable primary cloth";
+var mnemonic = "coil poet clever gather range first seat blossom play pottery adult release";

@@ -1,1 +1,1 @@
-var mnemonic = "enter hole image top scorpion horn stadium apart economy spread dwarf tooth";
+var mnemonic = "pact drink use save canvas region one rescue kangaroo crew infant square";

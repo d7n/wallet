@@ -1,1 +1,1 @@
-var mnemonic = "basket remain festival amused motion toilet stable wash improve sleep decrease west";
+var mnemonic = "mechanic mistake glove fly inmate bullet save erode inject address saddle tornado";

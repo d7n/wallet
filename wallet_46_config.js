@@ -1,1 +1,1 @@
-var mnemonic = "gap asthma pistol strike embody leader identify trophy leave tone obey supply";
+var mnemonic = "shadow month icon strategy setup ridge bleak shield insane steel rookie panic";

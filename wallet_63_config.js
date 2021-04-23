@@ -1,1 +1,1 @@
-var mnemonic = "exotic project injury leisure year portion network dawn alert ecology ankle certain";
+var mnemonic = "spoon mirror guide dutch december basket sausage crowd fall right refuse try";

@@ -1,1 +1,1 @@
-var mnemonic = "lava win steel cousin hill dentist puzzle crater frequent say peasant rack";
+var mnemonic = "comfort runway census another rebel pulse slight exist chicken clump midnight police";

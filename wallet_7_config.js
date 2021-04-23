@@ -1,1 +1,1 @@
-var mnemonic = "doll burden daughter fiber base differ more digital wine tribe social flower";
+var mnemonic = "mistake angry piece say glue maple theme derive distance bag rally addict";

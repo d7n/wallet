@@ -1,1 +1,1 @@
-var mnemonic = "april brain put legend cushion legal canoe leg lucky select diet crowd";
+var mnemonic = "total minute belt check roast host lesson ivory slight river deliver artwork";

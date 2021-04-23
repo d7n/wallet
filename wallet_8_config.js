@@ -1,1 +1,1 @@
-var mnemonic = "nut settle picnic lonely waste pepper just street siege grit angle slim";
+var mnemonic = "panel sting announce update tomorrow smile harbor depth appear add iron goddess";

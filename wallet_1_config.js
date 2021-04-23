@@ -1,1 +1,1 @@
-var mnemonic = "happy venue leisure spatial snow device toe actress holiday garage undo struggle";
+var mnemonic = "nest use select arrive what myself mobile auto mouse tip fiber series";

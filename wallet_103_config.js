@@ -1,1 +1,1 @@
-var mnemonic = "lounge until race split sadness misery demise correct powder memory rail soft";
+var mnemonic = "shaft diagram loop device announce avoid flash trigger core city awkward ticket";

@@ -1,1 +1,1 @@
-var mnemonic = "idle divide slight draft topic harbor swear prize code catch fortune render";
+var mnemonic = "veteran industry bunker tone garage alien notable endless kidney sniff engage audit";

@@ -1,1 +1,1 @@
-var mnemonic = "organ market real visa gospel front grocery quantum enhance opinion cheese fancy";
+var mnemonic = "patrol wave broom credit position firm main night broom memory vote smart";

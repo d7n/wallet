@@ -1,1 +1,1 @@
-var mnemonic = "canoe night elephant essay water answer smart force poet wave route material";
+var mnemonic = "boost peace debris rigid item jacket tonight fluid mean broccoli among light";

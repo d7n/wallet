@@ -1,1 +1,1 @@
-var mnemonic = "bullet skull unveil kidney weasel museum case theme canal senior daring confirm";
+var mnemonic = "submit sniff fine suit page when boss bring sorry fire spoon captain";

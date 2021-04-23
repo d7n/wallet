@@ -1,1 +1,1 @@
-var mnemonic = "spike proof poverty jeans sudden luggage warm wing mystery satoshi alley else";
+var mnemonic = "echo frozen despair cart shallow rice north peanut pear object want segment";

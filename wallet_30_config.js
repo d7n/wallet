@@ -1,1 +1,1 @@
-var mnemonic = "mixed come piece security poet cat bracket razor garage cradle goddess vendor";
+var mnemonic = "drum donkey matrix hurdle rapid fog cup clog omit punch clock voice";

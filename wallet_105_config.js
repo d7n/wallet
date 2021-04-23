@@ -1,1 +1,1 @@
-var mnemonic = "remain siege feature century drill disagree direct combine mother example mean text";
+var mnemonic = "rice teach hockey craft trust nut pride radio tonight thunder team ball";

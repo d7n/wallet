@@ -1,1 +1,1 @@
-var mnemonic = "true song drastic notice beach umbrella quantum vicious stairs lunch hotel endless";
+var mnemonic = "chapter find loyal garage cat salad business foster scrap absorb mutual stadium";

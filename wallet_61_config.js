@@ -1,1 +1,1 @@
-var mnemonic = "super beef depart voice repeat planet palace carbon strong enable youth giraffe";
+var mnemonic = "chalk ahead wash unique celery any genuine make hard inquiry filter lock";

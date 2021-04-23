@@ -1,1 +1,1 @@
-var mnemonic = "naive trick menu inject certain vague west special people weekend crumble climb";
+var mnemonic = "interest violin document grape found valley shallow jeans again salute push shell";

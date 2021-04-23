@@ -1,1 +1,1 @@
-var mnemonic = "avoid silver wife deer adult cement hotel island empty soon left post";
+var mnemonic = "olive consider pumpkin height guitar lounge obtain mercy humble pottery little hungry";

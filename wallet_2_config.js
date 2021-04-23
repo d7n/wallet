@@ -1,1 +1,1 @@
-var mnemonic = "brown vault history evil feature hip liquid tenant author relax spell identify";
+var mnemonic = "riot cargo drive bomb strategy electric depth slab myself stool also evoke";

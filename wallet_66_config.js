@@ -1,1 +1,1 @@
-var mnemonic = "wash wine sick noble fine method mention palm above smile build crisp";
+var mnemonic = "escape lens tragic bargain lottery angle inquiry double gadget mixed tattoo youth";

@@ -1,1 +1,1 @@
-var mnemonic = "animal whip believe edge spot paddle short lazy husband job chaos void";
+var mnemonic = "danger apple silk cattle fish tree youth portion crystal witness orbit unit";

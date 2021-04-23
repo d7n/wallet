@@ -1,1 +1,1 @@
-var mnemonic = "green floor inform humor brisk desk govern wing milk gloom please match";
+var mnemonic = "peanut boat road scorpion stool hour artist tattoo duty protect nothing shine";

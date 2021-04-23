@@ -1,1 +1,1 @@
-var mnemonic = "they tuition brief hazard list drastic upset result crouch dragon royal thing";
+var mnemonic = "between put wash month list viable regular street love young civil artist";

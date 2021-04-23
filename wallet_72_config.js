@@ -1,1 +1,1 @@
-var mnemonic = "float motor this manual mimic this sail secret will peanut amateur park";
+var mnemonic = "address collect rigid sign together sheriff critic black disease bracket true wash";

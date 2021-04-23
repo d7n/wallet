@@ -1,1 +1,1 @@
-var mnemonic = "mixed satisfy answer illegal hover trumpet gate senior salute romance live brave";
+var mnemonic = "warfare bus slow treat skate hungry place drastic horn equal wire monitor";

@@ -1,1 +1,1 @@
-var mnemonic = "wave small north inherit abandon ocean candy endless lecture between output crater";
+var mnemonic = "head cigar economy salute lonely banana stock model neglect exact fury admit";

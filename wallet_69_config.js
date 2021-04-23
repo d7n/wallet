@@ -1,1 +1,1 @@
-var mnemonic = "typical hunt wish believe magic exchange olive ability sand north rough page";
+var mnemonic = "immune crush antenna cluster clever pledge point interest mystery arena coffee inch";

@@ -1,1 +1,1 @@
-var mnemonic = "save frog parent dune silent plug ritual forget equip dismiss render assault";
+var mnemonic = "rapid record glass awkward modify fine opera coach seminar code earth oxygen";

@@ -1,1 +1,1 @@
-var mnemonic = "connect dream advance jazz inject express mule unit speed whale flee response";
+var mnemonic = "mass kitchen insane fog renew wool strike grab outside mansion find enter";

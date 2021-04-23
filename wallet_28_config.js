@@ -1,1 +1,1 @@
-var mnemonic = "ten kiwi core rubber enough equal palace meadow toss embody boat intact";
+var mnemonic = "trend luxury hour mutual hand chair empower such allow shaft dash length";

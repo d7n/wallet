@@ -1,1 +1,1 @@
-var mnemonic = "market theme useless wealth cricket poet pull culture urban shoe plastic resource";
+var mnemonic = "lake slice steak phrase never offer dinner surround ill unusual where arrest";

@@ -1,1 +1,1 @@
-var mnemonic = "delay allow glimpse wasp ritual device taste smile industry staff author maze";
+var mnemonic = "stand industry glove planet transfer recycle fresh arrive found museum tree boil";

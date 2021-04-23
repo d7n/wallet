@@ -1,1 +1,1 @@
-var mnemonic = "only dish armor casual tool nominee damage dress pigeon river ivory unlock";
+var mnemonic = "art cute fuel story crop idea embrace scorpion risk slight clog eager";

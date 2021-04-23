@@ -1,1 +1,1 @@
-var mnemonic = "uniform space erode anxiety elbow cement purchase marble later airport apple million";
+var mnemonic = "travel swim essence barely path work ranch link century ice record parade";

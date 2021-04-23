@@ -1,1 +1,1 @@
-var mnemonic = "loop virus latin garden trick weird awkward layer diesel immense control cousin";
+var mnemonic = "layer bright grief tag tennis life limb repeat mystery maple ship aisle";

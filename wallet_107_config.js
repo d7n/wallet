@@ -1,1 +1,1 @@
-var mnemonic = "upset myself this tip pumpkin proud system slush wrestle uncover smile invite";
+var mnemonic = "cake boost young issue scheme glove usage you club settle enforce fold";

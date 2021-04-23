@@ -1,1 +1,1 @@
-var mnemonic = "orbit immune survey soccer pilot water hurt inside away rent good split";
+var mnemonic = "profit fever between wish peasant adapt steel riot jump shoulder mercy device";

@@ -1,1 +1,1 @@
-var mnemonic = "caution season extend debris crush reduce project seek ketchup pepper spot mule";
+var mnemonic = "burst couple heavy gossip fox practice garden fan kangaroo bounce poet gauge";

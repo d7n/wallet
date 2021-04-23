@@ -1,1 +1,1 @@
-var mnemonic = "hurry suggest author hire suffer hill fever identify mosquito hammer acid foster";
+var mnemonic = "style wedding train west autumn brown there analyst agree vessel echo seek";

@@ -1,1 +1,1 @@
-var mnemonic = "web town patrol shine group all feature oblige antenna cart bike honey";
+var mnemonic = "skate debate broom today cycle sand lonely song athlete error route practice";

@@ -1,1 +1,1 @@
-var mnemonic = "pride assault refuse hole broccoli swap alone aim aisle fame satoshi salute";
+var mnemonic = "slab friend rack flee high worth helmet viable snow rubber chest embark";

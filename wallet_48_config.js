@@ -1,1 +1,1 @@
-var mnemonic = "promote sheriff spring test broom blush layer soda coconut naive material rose";
+var mnemonic = "hunt skirt impulse wish much ocean swear fence coin piece team brisk";

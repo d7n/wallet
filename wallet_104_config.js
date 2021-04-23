@@ -1,1 +1,1 @@
-var mnemonic = "remove ask kit tonight nephew two elephant aerobic illness fantasy finish fence";
+var mnemonic = "pelican hamster spoon time summer term fragile measure glare solid minimum impose";

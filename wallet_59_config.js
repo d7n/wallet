@@ -1,1 +1,1 @@
-var mnemonic = "hammer quote goat strike ocean leader critic sunset retire robust exact photo";
+var mnemonic = "fence uncover unit maid avoid patch patrol this sibling mixture capital general";

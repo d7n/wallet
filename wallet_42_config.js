@@ -1,1 +1,1 @@
-var mnemonic = "waste brisk robust mind popular tattoo also hard organ scrub knee reveal";
+var mnemonic = "guilt acquire inform coyote truly exotic rug gravity junior shallow card this";

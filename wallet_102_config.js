@@ -1,1 +1,1 @@
-var mnemonic = "muffin beyond fire torch decline stay three off wrap oval favorite close";
+var mnemonic = "pelican notice cabin bar rate vital cherry broccoli issue swing must brisk";

@@ -1,1 +1,1 @@
-var mnemonic = "loud cluster captain sense worth seed wrap dance destroy cycle impulse clown";
+var mnemonic = "either couch slight hockey board stomach chuckle then will dolphin shoot rule";

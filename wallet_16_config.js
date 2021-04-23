@@ -1,1 +1,1 @@
-var mnemonic = "onion pave hurry canyon crater task piece predict shuffle wealth install castle";
+var mnemonic = "blood jeans surge before toy orient switch slender liberty stumble beauty actress";

@@ -1,1 +1,1 @@
-var mnemonic = "dad fluid orange innocent bomb budget suggest hidden depth finish define three";
+var mnemonic = "come pudding display version clown install boring cannon grant child enrich soul";

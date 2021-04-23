@@ -1,1 +1,1 @@
-var mnemonic = "only bench siege heart carpet assist bring material birth father soup merry";
+var mnemonic = "conduct staff acoustic shell famous expose network chunk wrong toss episode north";

@@ -1,1 +1,1 @@
-var mnemonic = "awesome envelope scan fringe scout fitness angry rent govern luggage gap humor";
+var mnemonic = "brief furnace link lecture early home stick daring fold van vague slush";

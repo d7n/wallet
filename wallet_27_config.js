@@ -1,1 +1,1 @@
-var mnemonic = "lunch edge embark cousin chair grant sad flag follow attack vapor orbit";
+var mnemonic = "upgrade boy attract anxiety twelve agent laundry tenant pottery taste lady drastic";

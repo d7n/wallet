@@ -1,1 +1,1 @@
-var mnemonic = "idea tag nuclear believe program order drum axis begin pledge lend color";
+var mnemonic = "way document mechanic awake version renew describe jeans inspire still police cluster";

@@ -1,1 +1,1 @@
-var mnemonic = "entry ripple doll exist unlock body visual reason near kitten bean prison";
+var mnemonic = "margin hidden forest slide sword ship absent bring recipe brief hawk valley";

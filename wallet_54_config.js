@@ -1,1 +1,1 @@
-var mnemonic = "caution tenant success right solar topic elephant later pulse elevator fashion license";
+var mnemonic = "fever absorb diesel fitness school panic machine turtle banner move rapid inhale";

@@ -1,1 +1,1 @@
-var mnemonic = "foil height work empower whale tumble eyebrow bike horn waste cliff ensure";
+var mnemonic = "better tiger token still verb rich bird happy fatigue symptom exact city";

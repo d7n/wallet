@@ -1,1 +1,1 @@
-var mnemonic = "tourist pull giggle bargain coin broom now opinion clip subject one income";
+var mnemonic = "cheese moral barrel crowd tourist smart device lumber destroy club gadget antenna";

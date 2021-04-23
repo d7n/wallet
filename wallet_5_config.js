@@ -1,1 +1,1 @@
-var mnemonic = "perfect know long cargo close dismiss desk volume kid despair dragon match";
+var mnemonic = "casino cactus category lunar midnight pencil excess prepare skill feed mobile excite";

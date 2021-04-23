@@ -1,1 +1,1 @@
-var mnemonic = "predict turn maze hello there kitten orchard drift parade voice history nose";
+var mnemonic = "eternal cheap tattoo recall day buddy month universe top spoon fever brown";

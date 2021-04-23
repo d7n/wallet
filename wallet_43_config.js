@@ -1,1 +1,1 @@
-var mnemonic = "screen image cereal alarm conduct solve inject then crush exist hobby kiwi";
+var mnemonic = "salon surprise clock welcome cute noble secret success gaze scheme urge photo";

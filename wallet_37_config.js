@@ -1,1 +1,1 @@
-var mnemonic = "monster space join employ hospital target couple upgrade yard silver ring settle";
+var mnemonic = "tooth fossil cash drive worry long total like tornado jump album nephew";

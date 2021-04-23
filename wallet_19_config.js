@@ -1,1 +1,1 @@
-var mnemonic = "only arrive police shell cliff base cancel party benefit novel arch siege";
+var mnemonic = "cost lunch diamond west stool portion bird rude major asthma deal forum";

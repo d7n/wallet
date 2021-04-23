@@ -1,1 +1,1 @@
-var mnemonic = "success yard guard visa strike color student wheel notice slot uphold slow";
+var mnemonic = "word wheel consider whip cabbage repair disagree charge morning gap cart feature";

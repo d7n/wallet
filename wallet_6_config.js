@@ -1,1 +1,1 @@
-var mnemonic = "digital expand winter ahead forest weapon until life parrot large asthma input";
+var mnemonic = "wrap feel volcano swing abandon good scrap fury boring remove laugh pet";

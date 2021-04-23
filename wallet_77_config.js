@@ -1,1 +1,1 @@
-var mnemonic = "pattern rude iron rice phrase federal glass fashion recall job strategy melt";
+var mnemonic = "radar bag shuffle usage wreck erupt cereal bachelor elite purchase cook hundred";

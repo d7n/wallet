@@ -1,1 +1,1 @@
-var mnemonic = "toe mule globe decrease wheel sign curious tiny choice hybrid glory depth";
+var mnemonic = "educate naive history crystal cry birth culture solid upset faith rare never";

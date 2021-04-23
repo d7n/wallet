@@ -1,1 +1,1 @@
-var mnemonic = "issue mushroom index purse then cloud snow pact fashion race chase other";
+var mnemonic = "frozen possible chicken recipe loud icon off panel liar plug daring shuffle";

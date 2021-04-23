@@ -1,1 +1,1 @@
-var mnemonic = "foster sight sport trumpet pretty second asthma small loyal stool word can";
+var mnemonic = "animal dentist twelve armed common capable charge inner bomb warrior device poem";

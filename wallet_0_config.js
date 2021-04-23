@@ -1,1 +1,1 @@
-var mnemonic = "damp gas media fly rain stage dinner powder want tragic assault find";
+var mnemonic = "stove aim fury olympic spell then rocket cabin never foam true hobby";

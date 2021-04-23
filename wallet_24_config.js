@@ -1,1 +1,1 @@
-var mnemonic = "snack short stove hill maid upgrade quality poem laptop gather any humble";
+var mnemonic = "patch unfold echo silent pilot feed card keen close garment subject calm";

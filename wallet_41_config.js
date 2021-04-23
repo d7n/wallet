@@ -1,1 +1,1 @@
-var mnemonic = "furnace give wasp daring kangaroo size caught silk hire obey keep pond";
+var mnemonic = "reward project stomach heart cushion biology start leaf state thought head twist";

@@ -1,1 +1,1 @@
-var mnemonic = "high thumb omit update toast police marine ship pause torch combine clerk";
+var mnemonic = "whale face gallery lunar height math myth virus ticket ketchup ankle napkin";
