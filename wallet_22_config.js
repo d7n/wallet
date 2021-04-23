@@ -1,1 +1,1 @@
-var mnemonic = "lonely income say rally use movie bounce cancel brain wrong parrot raw";
+var mnemonic = "grief lonely depend vanish aim entire budget million raven wrap cargo random";

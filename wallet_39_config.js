@@ -1,1 +1,1 @@
-var mnemonic = "tent copper donate embody vivid lion manual ancient change eight base moment";
+var mnemonic = "raise consider coin wife nest name earn seek shiver worth teach magnet";

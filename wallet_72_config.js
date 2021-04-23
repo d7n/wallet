@@ -1,1 +1,1 @@
-var mnemonic = "point orchard cement actual net strike sausage great discover lyrics fatigue scout";
+var mnemonic = "pact tube odor actual scan chat dress sign begin tunnel strike change";

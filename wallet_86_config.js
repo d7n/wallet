@@ -1,1 +1,1 @@
-var mnemonic = "smoke style foster path diet destroy rose bachelor fresh expect beyond lizard";
+var mnemonic = "believe plastic have about monkey mouse affair exchange bag limit faint auto";

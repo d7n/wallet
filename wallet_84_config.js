@@ -1,1 +1,1 @@
-var mnemonic = "tumble rifle easily exchange crime arrest squirrel elephant example forest unveil critic";
+var mnemonic = "three taste zebra stool business bean sun clip egg food pull myth";

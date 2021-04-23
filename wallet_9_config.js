@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow canal powder awake parrot raven holiday sleep lizard tag soccer fluid";
+var mnemonic = "tobacco measure tortoise kite walk quantum pool logic pull flower milk style";

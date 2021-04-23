@@ -1,1 +1,1 @@
-var mnemonic = "nominee point transfer fly alpha grape party window unhappy remember maximum host";
+var mnemonic = "sausage royal decline muscle sick lounge expect forget critic master enact harsh";

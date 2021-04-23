@@ -1,1 +1,1 @@
-var mnemonic = "card demand found vacuum meat use park execute refuse burden gravity demise";
+var mnemonic = "crowd foam century myself heart coil blue original lizard armed inmate material";

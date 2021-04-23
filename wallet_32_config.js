@@ -1,1 +1,1 @@
-var mnemonic = "young say help hurdle shoe crane cradle debate kit wedding slab record";
+var mnemonic = "poem shock myth stay mad joy decline rocket bar cram code canyon";

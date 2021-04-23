@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon chase energy jump adjust typical scan jewel trouble infant normal organ";
+var mnemonic = "fancy crack earn maximum speed banana gym clay only nephew edit okay";

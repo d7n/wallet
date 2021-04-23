@@ -1,1 +1,1 @@
-var mnemonic = "wild rally ring tomorrow day own point minute blind wise just mechanic";
+var mnemonic = "mechanic save escape interest kitten very stock response vanish subway slight physical";

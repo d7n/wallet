@@ -1,1 +1,1 @@
-var mnemonic = "pool fee ten razor boat swamp fine option infant squirrel find enough";
+var mnemonic = "inflict trial fan quantum blast ski estate gesture thrive target theme ankle";

@@ -1,1 +1,1 @@
-var mnemonic = "grit season step item report vote retreat trip moment brave scheme usual";
+var mnemonic = "lecture magnet orphan coral royal believe nose hand practice victory ceiling obey";

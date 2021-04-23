@@ -1,1 +1,1 @@
-var mnemonic = "survey frost alley forest leave afford luxury find inflict waste mixture shrug";
+var mnemonic = "whisper spend junk afraid season stuff aspect between swarm nominee stadium material";

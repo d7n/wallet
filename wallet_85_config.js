@@ -1,1 +1,1 @@
-var mnemonic = "hole sunny sand inquiry web medal auction alert fix member key gadget";
+var mnemonic = "type access margin frozen round purse street solid myself absorb frozen current";

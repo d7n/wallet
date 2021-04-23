@@ -1,1 +1,1 @@
-var mnemonic = "vault vessel phrase wool tobacco boss very network property peanut exhibit victory";
+var mnemonic = "teach season photo patient easy unlock glide grit ghost return mention daring";

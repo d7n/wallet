@@ -1,1 +1,1 @@
-var mnemonic = "group fitness motion cute remain moral wrap sell dinner ring enroll palm";
+var mnemonic = "quiz call try delay fox nurse chunk student owner dune chair sock";

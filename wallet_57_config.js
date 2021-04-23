@@ -1,1 +1,1 @@
-var mnemonic = "blind train crunch there absorb wild velvet rally ranch flash entire enroll";
+var mnemonic = "hotel head distance aim fabric glare gadget share indoor sing dice crumble";

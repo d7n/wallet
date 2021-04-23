@@ -1,1 +1,1 @@
-var mnemonic = "creek critic width faint wet develop figure school unknown nasty aisle rotate";
+var mnemonic = "push mule excuse fine enough hard member loan deer stuff found merry";

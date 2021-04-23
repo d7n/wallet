@@ -1,1 +1,1 @@
-var mnemonic = "ticket faculty arena imitate job powder oppose banana copy card measure loud";
+var mnemonic = "bind canyon trophy enemy indoor harsh harsh iron runway cigar ribbon olive";

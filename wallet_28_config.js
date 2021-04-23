@@ -1,1 +1,1 @@
-var mnemonic = "girl daughter recycle art embody exact phone render client execute beef sure";
+var mnemonic = "robot thought social congress biology stove snack trust crucial hockey crack boat";

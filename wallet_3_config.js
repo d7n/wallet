@@ -1,1 +1,1 @@
-var mnemonic = "endless world debris country fall include cream prize opera bar cry middle";
+var mnemonic = "ten clarify tobacco stage join century else paddle apple code vacant below";

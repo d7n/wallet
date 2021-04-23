@@ -1,1 +1,1 @@
-var mnemonic = "cook swap bronze pluck chaos click pride hawk rely wood fatal guess";
+var mnemonic = "fitness lounge orange arm since ski field cricket tower own away parent";

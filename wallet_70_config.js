@@ -1,1 +1,1 @@
-var mnemonic = "garlic roof indicate position lake upgrade task embark crash typical rabbit plastic";
+var mnemonic = "spike uncle diamond vicious liar connect kiss wait color result gravity romance";

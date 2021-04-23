@@ -1,1 +1,1 @@
-var mnemonic = "hover bless velvet tilt piece observe expand across speed present amused pulse";
+var mnemonic = "squirrel crane arrange inflict car pony blossom warfare ensure vintage ocean absent";

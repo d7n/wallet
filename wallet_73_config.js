@@ -1,1 +1,1 @@
-var mnemonic = "item human weapon income caution truth nut slow any nominee accident warfare";
+var mnemonic = "baby script escape wasp cricket comfort gloom legend father myth soldier young";

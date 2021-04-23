@@ -1,1 +1,1 @@
-var mnemonic = "busy lizard demise horse dilemma rubber analyst main symptom supreme sad doll";
+var mnemonic = "level anxiety very uphold truly jewel feed pipe scare oven nominee move";

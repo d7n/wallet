@@ -1,1 +1,1 @@
-var mnemonic = "address boy empty rookie ranch input barely average limb fancy area cannon";
+var mnemonic = "embark burst garden kite size space work okay globe diesel breeze awesome";

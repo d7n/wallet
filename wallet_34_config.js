@@ -1,1 +1,1 @@
-var mnemonic = "arrow else rough gauge worry hub better possible address crouch sense outdoor";
+var mnemonic = "tuition carbon vendor senior dumb refuse foam cream cart trip net amused";

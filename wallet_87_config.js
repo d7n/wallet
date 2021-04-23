@@ -1,1 +1,1 @@
-var mnemonic = "awful engine rug wasp filter deliver swarm panel now acquire noise same";
+var mnemonic = "method brick fatal toilet trash turn doctor afford slice erupt enroll grocery";

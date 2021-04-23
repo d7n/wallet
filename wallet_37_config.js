@@ -1,1 +1,1 @@
-var mnemonic = "pause toe shadow suggest convince wrong exhibit unique mosquito near risk wrist";
+var mnemonic = "muscle genius submit daughter electric protect fresh vast arctic peanut gesture language";

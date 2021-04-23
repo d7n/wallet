@@ -1,1 +1,1 @@
-var mnemonic = "number weird clog spend notice local kitchen virtual canal student battle finish";
+var mnemonic = "moment always cigar siege lamp tell assault panel like position onion horn";

@@ -1,1 +1,1 @@
-var mnemonic = "skirt pudding hold august capable remember pond palm extra doll excess ordinary";
+var mnemonic = "melody network net deal prize panda gasp sweet warrior project crack moral";

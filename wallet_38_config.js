@@ -1,1 +1,1 @@
-var mnemonic = "senior judge ordinary price admit pledge warm switch twelve pizza wild actress";
+var mnemonic = "suspect frozen estate awful assault direct trap either void pretty concert danger";

@@ -1,1 +1,1 @@
-var mnemonic = "tape sure wrong inherit defense where right crop desert maximum say coach";
+var mnemonic = "assist story young science valley all song alarm bicycle glass cute confirm";

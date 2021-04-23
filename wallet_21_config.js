@@ -1,1 +1,1 @@
-var mnemonic = "mammal awake order reduce hire embrace crazy nurse weekend next protect what";
+var mnemonic = "armed give double task curious element bronze sun torch amazing almost keep";

@@ -1,1 +1,1 @@
-var mnemonic = "cabbage kitchen fan harsh history alpha marine play walk input swamp weather";
+var mnemonic = "spice crazy portion figure plunge element design easily stumble alone abstract before";

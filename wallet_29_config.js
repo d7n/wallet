@@ -1,1 +1,1 @@
-var mnemonic = "main luxury police category pottery fix dirt order company project hair garden";
+var mnemonic = "denial use wet muffin fortune allow toast cliff fiscal shock gravity despair";

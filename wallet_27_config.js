@@ -1,1 +1,1 @@
-var mnemonic = "live settle leisure afford radio person ketchup face primary poem just put";
+var mnemonic = "pool window inspire clump mimic great lizard very this real opinion undo";

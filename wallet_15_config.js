@@ -1,1 +1,1 @@
-var mnemonic = "mimic sting viable glory trick twice mobile gesture gym front derive payment";
+var mnemonic = "borrow simple zone mixture model release family excess mistake key consider jar";

@@ -1,1 +1,1 @@
-var mnemonic = "oyster capable chat omit route summer cycle video radar gesture almost library";
+var mnemonic = "vanish nothing favorite horse bleak exit travel rebel daughter start trouble spend";

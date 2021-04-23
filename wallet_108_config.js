@@ -1,1 +1,1 @@
-var mnemonic = "grow blast document enhance random okay second educate island forget vast wealth";
+var mnemonic = "report erode used valve holiday wear frozen useful border anger debris cargo";

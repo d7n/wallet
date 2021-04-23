@@ -1,1 +1,1 @@
-var mnemonic = "street carbon jealous tree renew monitor dose prison phone lecture memory school";
+var mnemonic = "kangaroo record whip cloth brisk keen midnight stereo plate toilet throw exist";

@@ -1,1 +1,1 @@
-var mnemonic = "enough wool garden put chimney estate nominee such panther wild pencil pact";
+var mnemonic = "debate announce scout peanut sword guitar pilot fringe chaos toss pause tiny";

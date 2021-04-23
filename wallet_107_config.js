@@ -1,1 +1,1 @@
-var mnemonic = "world globe fruit civil topic uniform paper mirror silent garage comfort assault";
+var mnemonic = "suspect stove disorder arctic jazz regret festival error simple peasant crime panda";

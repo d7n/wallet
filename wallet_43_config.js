@@ -1,1 +1,1 @@
-var mnemonic = "suit pilot kid dizzy gravity bunker worth vehicle nasty slush claim allow";
+var mnemonic = "topple impose table sister cook task tissue cage life assault uniform seat";

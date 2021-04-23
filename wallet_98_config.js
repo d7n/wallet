@@ -1,1 +1,1 @@
-var mnemonic = "ensure hurdle annual soul peace banana sibling leopard invite obscure live soap";
+var mnemonic = "fade blind market stone master bounce grass cradle dream model raccoon rose";

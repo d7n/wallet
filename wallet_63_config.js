@@ -1,1 +1,1 @@
-var mnemonic = "axis office obvious soul muffin skill select fine thing economy special pioneer";
+var mnemonic = "group arrest cheese liberty zero movie actor drama city grace lion market";

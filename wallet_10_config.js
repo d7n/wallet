@@ -1,1 +1,1 @@
-var mnemonic = "cluster diet predict illegal solar wool wet vast panel gentle slow sorry";
+var mnemonic = "hint arm alcohol dog entry profit insane tray cook viable wagon flight";

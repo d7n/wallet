@@ -1,1 +1,1 @@
-var mnemonic = "celery pear rapid album genre kiwi unable crunch fantasy movie wise zero";
+var mnemonic = "vital riot stool predict boil erode rather near filter seat all banana";

@@ -1,1 +1,1 @@
-var mnemonic = "curtain tomato tooth cherry piece target disease noodle orchard hotel palace chaos";
+var mnemonic = "forget noodle lemon later rail cinnamon palace glide picnic digital exit govern";

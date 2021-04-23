@@ -1,1 +1,1 @@
-var mnemonic = "carbon drill boat pulse possible shield satoshi rigid shadow spice fine lend";
+var mnemonic = "recycle bean wide grunt shoe easy plate maple margin outer pistol huge";

@@ -1,1 +1,1 @@
-var mnemonic = "select edit elegant anger egg rare rate guess master vocal model capable";
+var mnemonic = "spirit marriage hole order detail length area lake develop dust human fitness";

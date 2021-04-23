@@ -1,1 +1,1 @@
-var mnemonic = "industry crowd usage ramp brain pilot window swift foam series certain wagon";
+var mnemonic = "blur loyal flower energy venue grace rebel sight rough hen boil capable";

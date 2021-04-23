@@ -1,1 +1,1 @@
-var mnemonic = "fish candy insect wisdom sell gesture useful taste diary utility gate sugar";
+var mnemonic = "myth session orbit holiday sister ketchup pulp fault you wool display flash";

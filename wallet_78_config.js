@@ -1,1 +1,1 @@
-var mnemonic = "move foil cheap vocal picture napkin dress dirt tennis abuse senior sign";
+var mnemonic = "steak cement dragon upon embrace wealth eight hello venture outer pupil winter";

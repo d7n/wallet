@@ -1,1 +1,1 @@
-var mnemonic = "make before onion recall diary month zero trick auto demand submit milk";
+var mnemonic = "pact soul share sample judge mechanic meadow lottery hip shoe record galaxy";

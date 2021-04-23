@@ -1,1 +1,1 @@
-var mnemonic = "conduct junk garment unknown truth aware evolve gown ticket news accuse furnace";
+var mnemonic = "pledge hair alien hold hat ranch cost rebuild bring execute mammal feel";

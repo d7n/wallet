@@ -1,1 +1,1 @@
-var mnemonic = "sleep move renew vocal half cannon snack enact tackle warm estate volcano";
+var mnemonic = "disorder anxiety hamster fan universe favorite doctor crush price element item diagram";

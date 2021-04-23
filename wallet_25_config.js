@@ -1,1 +1,1 @@
-var mnemonic = "all embody cannon luggage industry chimney stock wage mushroom employ day museum";
+var mnemonic = "easy brush topic true this skill sword recipe buyer swap tell coffee";

@@ -1,1 +1,1 @@
-var mnemonic = "lend anchor derive soccer black rebel bundle solve spell token remove there";
+var mnemonic = "crush biology photo olive local act sport mom airport frost exhibit live";

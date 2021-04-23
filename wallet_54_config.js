@@ -1,1 +1,1 @@
-var mnemonic = "daughter cheese vanish wonder hammer equal recipe ask rabbit market giant gaze";
+var mnemonic = "fix muscle interest ship bargain cream sort napkin spin faith what survey";

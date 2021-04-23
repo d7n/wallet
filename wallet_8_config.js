@@ -1,1 +1,1 @@
-var mnemonic = "question laugh grape erode robust dish other stand tank around festival cake";
+var mnemonic = "dolphin captain arrow awake egg hundred door also spare inner salad rule";

@@ -1,1 +1,1 @@
-var mnemonic = "tone deposit sorry idle build risk shock turkey turkey lock sudden entire";
+var mnemonic = "where insane dismiss skirt crater net damp drum source oppose good possible";

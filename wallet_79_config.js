@@ -1,1 +1,1 @@
-var mnemonic = "key soon library canyon book noodle curtain repair decline appear volume three";
+var mnemonic = "height arm inquiry domain genuine notice monster abuse there aerobic wealth riot";

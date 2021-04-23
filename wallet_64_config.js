@@ -1,1 +1,1 @@
-var mnemonic = "future draw pioneer desert also admit fog visual credit path faith idea";
+var mnemonic = "guide inflict staff retire sting trouble gain drip vendor achieve brown abstract";

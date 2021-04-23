@@ -1,1 +1,1 @@
-var mnemonic = "beauty limit nose hint found blade admit scan interest next chef tongue";
+var mnemonic = "absurd couple shy penalty resource valve pledge steel husband canvas bicycle enact";

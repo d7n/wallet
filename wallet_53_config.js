@@ -1,1 +1,1 @@
-var mnemonic = "fan design juice right section someone property pink upset topic warm tunnel";
+var mnemonic = "acquire adapt cannon drama neither uncle daring refuse problem cage job kit";

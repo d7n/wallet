@@ -1,1 +1,1 @@
-var mnemonic = "federal thank nature you climb van potato virus ghost please model twist";
+var mnemonic = "radar taste spray joke face cake involve culture forward slot marble step";

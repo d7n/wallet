@@ -1,1 +1,1 @@
-var mnemonic = "pole craft practice camp orbit net light advice core hurt hip nephew";
+var mnemonic = "pool lawsuit town rack sketch pride shift observe heavy guess file garlic";

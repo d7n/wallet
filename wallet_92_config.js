@@ -1,1 +1,1 @@
-var mnemonic = "poet near multiply same garment clap six short armor kit dial knife";
+var mnemonic = "awkward sample lecture lounge trophy pottery angle park exit draft knock casino";

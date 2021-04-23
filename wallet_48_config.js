@@ -1,1 +1,1 @@
-var mnemonic = "trial dragon riot bundle weather legend cook library salt proof above spell";
+var mnemonic = "swap wet purity wise confirm paper exist thought pyramid student volume guess";

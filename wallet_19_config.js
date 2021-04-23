@@ -1,1 +1,1 @@
-var mnemonic = "brass vacant glue fault barely grass muscle chase wrestle disease attack opera";
+var mnemonic = "poem about crucial more shed sure unfair include fringe lamp action ozone";

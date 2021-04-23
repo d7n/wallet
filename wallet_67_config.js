@@ -1,1 +1,1 @@
-var mnemonic = "tiger assume erupt behave once slot fluid common predict nose sport lift";
+var mnemonic = "pizza weekend below diary daughter any chest short urban huge tilt rare";

@@ -1,1 +1,1 @@
-var mnemonic = "dog buffalo trouble advance unusual camp clock jungle junior narrow slender delay";
+var mnemonic = "powder retreat cruel shrug uniform verb afraid style pumpkin view figure wide";

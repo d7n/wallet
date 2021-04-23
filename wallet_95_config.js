@@ -1,1 +1,1 @@
-var mnemonic = "stand initial sunset skate sentence language neutral genius crew apology live copy";
+var mnemonic = "disease focus seat sister charge warfare garment history holiday hawk coral angle";

@@ -1,1 +1,1 @@
-var mnemonic = "muscle short birth typical bunker account peasant civil hold deny candy witness";
+var mnemonic = "wall picture flavor rack word fragile museum arrow shoot gaze ivory refuse";

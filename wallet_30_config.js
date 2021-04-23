@@ -1,1 +1,1 @@
-var mnemonic = "firm cupboard silk crumble drastic awkward over helmet maid tool close lunar";
+var mnemonic = "faint glove rain taste skirt wish crew return assume empower harvest deputy";

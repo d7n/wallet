@@ -1,1 +1,1 @@
-var mnemonic = "drink ready bless sure shadow sense minor venture crumble jungle nut verb";
+var mnemonic = "spike forum talk tiger popular caution behind pear end hotel else velvet";

@@ -1,1 +1,1 @@
-var mnemonic = "topple hen crater sentence logic slice weekend net angle above embody wrap";
+var mnemonic = "question nothing canal distance maze figure output foot dinner donkey bachelor derive";

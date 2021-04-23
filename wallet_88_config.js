@@ -1,1 +1,1 @@
-var mnemonic = "remind disease praise bird ghost range cart elevator elbow melody salute joy";
+var mnemonic = "copper glare festival pond van citizen evil word detect tattoo squeeze vessel";

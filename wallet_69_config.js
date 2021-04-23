@@ -1,1 +1,1 @@
-var mnemonic = "crop unveil reward diagram broken away situate scheme head sorry smoke glue";
+var mnemonic = "scrap run piece rather erosion there rent seminar cigar toilet sheriff jacket";

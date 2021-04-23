@@ -1,1 +1,1 @@
-var mnemonic = "oyster guide violin high border pigeon intact critic grunt peasant appear net";
+var mnemonic = "strategy egg invite push message grant model dove bracket return ring differ";

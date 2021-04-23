@@ -1,1 +1,1 @@
-var mnemonic = "acid vivid dawn equal salt quarter pet clutch crumble eyebrow solar all";
+var mnemonic = "oval cook develop fluid envelope drop trip wool rough expand gloom bulb";

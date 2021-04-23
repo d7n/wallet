@@ -1,1 +1,1 @@
-var mnemonic = "enjoy earth organ enroll project help bunker empower ecology spoil day party";
+var mnemonic = "exile panther return divide tragic two confirm prison equip system brave focus";

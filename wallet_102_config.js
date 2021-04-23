@@ -1,1 +1,1 @@
-var mnemonic = "common drink net exile ahead print wealth stock memory stem future comfort";
+var mnemonic = "rail develop guide bless erosion spray shop vibrant thank emerge crane print";

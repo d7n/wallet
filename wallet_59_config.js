@@ -1,1 +1,1 @@
-var mnemonic = "build throw slide glass fortune select across coffee actual tip expand rookie";
+var mnemonic = "unusual reflect sample design poverty pluck obey express toy dress regular little";

@@ -1,1 +1,1 @@
-var mnemonic = "recall enemy punch intact firm control faint special kidney tourist dirt cave";
+var mnemonic = "mystery south session script acquire blood guitar camera table purchase fold couch";

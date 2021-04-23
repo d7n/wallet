@@ -1,1 +1,1 @@
-var mnemonic = "able model current metal casino chat army cram bullet wrestle later earth";
+var mnemonic = "slight robust lemon regular fish cost embark bitter property song video giraffe";

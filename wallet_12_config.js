@@ -1,1 +1,1 @@
-var mnemonic = "license journey travel public ritual frequent flag vapor farm human knife cluster";
+var mnemonic = "social cancel logic breeze tongue crowd remember mouse clown armed chat jealous";

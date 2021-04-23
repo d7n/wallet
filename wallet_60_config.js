@@ -1,1 +1,1 @@
-var mnemonic = "truly utility shadow fold spatial boil worry swing toward matter inmate scale";
+var mnemonic = "pulse toy lobster unique mention okay merit churn swarm rather valley notable";

@@ -1,1 +1,1 @@
-var mnemonic = "unusual lunch steak odor company predict session hard cancel duck wish truth";
+var mnemonic = "lumber evil settle under student loan also vocal brand goat game rough";

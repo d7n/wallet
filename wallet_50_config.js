@@ -1,1 +1,1 @@
-var mnemonic = "muscle skill muffin escape gift glare crunch green hammer silly fitness question";
+var mnemonic = "arrest stock sword tornado object artefact vacuum potato educate ghost patch truth";

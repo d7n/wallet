@@ -1,1 +1,1 @@
-var mnemonic = "thing road quick spice bomb reopen fruit want remain payment sound act";
+var mnemonic = "where side empty sort fetch relief gossip waste tongue journey east myth";

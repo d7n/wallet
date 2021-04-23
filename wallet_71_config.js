@@ -1,1 +1,1 @@
-var mnemonic = "easy now strong crack foster check carpet lucky poet genre relax walnut";
+var mnemonic = "cliff gown project husband chase zebra remind left because test dolphin post";
