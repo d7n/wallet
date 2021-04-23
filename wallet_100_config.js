@@ -1,1 +1,1 @@
-var mnemonic = "mobile sister input virus obey behind thank patient tissue undo cereal use";
+var mnemonic = "engage enable mimic assume similar toddler side nice virtual mobile silly camp";

@@ -1,1 +1,1 @@
-var mnemonic = "sun vacant load because fetch mesh inherit horse throw caught top lemon";
+var mnemonic = "kind swift process powder possible about category nominee frame fragile half glad";

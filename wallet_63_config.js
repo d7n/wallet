@@ -1,1 +1,1 @@
-var mnemonic = "renew chest cotton venue bunker slender speed vibrant wink grow scrub sense";
+var mnemonic = "swallow grab shop fitness daughter chapter light myth maze cram harbor observe";

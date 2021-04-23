@@ -1,1 +1,1 @@
-var mnemonic = "wash velvet gloom alpha concert guard occur turkey glide cost tiger today";
+var mnemonic = "blind interest fury garlic false cat merge embrace wonder glow much glow";

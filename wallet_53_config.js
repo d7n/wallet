@@ -1,1 +1,1 @@
-var mnemonic = "stool panda penalty swift kitchen fork liar start vendor dust equal layer";
+var mnemonic = "flight impose sister buzz audit jazz ball coconut route vanish pole point";

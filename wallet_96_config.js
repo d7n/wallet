@@ -1,1 +1,1 @@
-var mnemonic = "chronic canvas barely stadium inject frame friend police text portion turkey innocent";
+var mnemonic = "phrase near verb zebra giraffe life tray suit day blossom tank eight";

@@ -1,1 +1,1 @@
-var mnemonic = "spawn analyst joy social ensure fun punch birth message demand bubble family";
+var mnemonic = "pelican update actress run pupil gown climb job wall deputy clinic giggle";

@@ -1,1 +1,1 @@
-var mnemonic = "horror pill kite pen unable audit similar swift tool shoulder appear fold";
+var mnemonic = "panther wild donor impose clever embark license garlic aerobic narrow antique come";

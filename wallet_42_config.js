@@ -1,1 +1,1 @@
-var mnemonic = "achieve always topple more license mercy derive tourist ticket observe concert tape";
+var mnemonic = "decline quality town arch table cliff magnet avocado host garlic invest ankle";

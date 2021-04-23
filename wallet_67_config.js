@@ -1,1 +1,1 @@
-var mnemonic = "kingdom need hobby manage subway predict brain rookie diesel input width visa";
+var mnemonic = "myself salad wealth gorilla pelican blind document acoustic track twelve easy lazy";

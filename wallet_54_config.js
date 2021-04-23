@@ -1,1 +1,1 @@
-var mnemonic = "scan logic flavor success aerobic code supply anger sunset girl pumpkin receive";
+var mnemonic = "actress moral engine marble release depend deposit spike wire peasant grant two";

@@ -1,1 +1,1 @@
-var mnemonic = "electric unfold iron avocado pull suspect ice garden indoor reward tiger crawl";
+var mnemonic = "idle oval half comfort suit observe sunny elegant winner wrist squeeze gown";

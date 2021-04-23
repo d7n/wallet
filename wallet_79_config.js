@@ -1,1 +1,1 @@
-var mnemonic = "hundred then protect scan decorate anchor welcome torch awful insane act media";
+var mnemonic = "capital choice practice west coral cube salon inhale huge garlic bunker hip";

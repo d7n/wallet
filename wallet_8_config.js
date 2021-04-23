@@ -1,1 +1,1 @@
-var mnemonic = "steak crater purpose lawsuit ankle act side rely bone survey remain giant";
+var mnemonic = "artist acoustic six era miracle avocado muscle piano release donkey believe field";

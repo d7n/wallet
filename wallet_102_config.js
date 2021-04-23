@@ -1,1 +1,1 @@
-var mnemonic = "route banana range ceiling pilot fancy typical food slot twenty shift lizard";
+var mnemonic = "coin ankle stairs mammal toilet chunk hole coach purchase view abstract sweet";

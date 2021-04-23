@@ -1,1 +1,1 @@
-var mnemonic = "ranch basic truck text hand indoor olive gospel sister boy wide flag";
+var mnemonic = "water rude vague town media easy orange empower tool record nation cabbage";

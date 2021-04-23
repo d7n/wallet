@@ -1,1 +1,1 @@
-var mnemonic = "cluster wide fit cherry pitch pluck speak snack awkward scout open consider";
+var mnemonic = "mesh expire funny frequent food seven engine worry beef salmon tiger battle";

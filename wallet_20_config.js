@@ -1,1 +1,1 @@
-var mnemonic = "alone spare skull eye wreck supreme already exit unfair end purpose syrup";
+var mnemonic = "alert miracle glide decrease crawl shift squeeze effort shift recycle express mimic";

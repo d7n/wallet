@@ -1,1 +1,1 @@
-var mnemonic = "erase visual slush donor marble amused know elite mango north element rookie";
+var mnemonic = "narrow possible plate fury slim maze empower bone assume between offer youth";

@@ -1,1 +1,1 @@
-var mnemonic = "humble note mad wife nest pulp chase odor sample wish carbon admit";
+var mnemonic = "disorder drama pluck autumn sound void view evil payment coin collect repair";

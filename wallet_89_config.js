@@ -1,1 +1,1 @@
-var mnemonic = "air system repair few cabin caught apart mass steak acid manage ignore";
+var mnemonic = "doll approve physical clever genre path valley shaft situate loud cousin job";

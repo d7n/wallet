@@ -1,1 +1,1 @@
-var mnemonic = "service alpha inspire wild evidence biology ritual garment suggest plunge own empower";
+var mnemonic = "loyal unusual afford habit ball goat cruise life smile tent path iron";

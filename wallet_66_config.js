@@ -1,1 +1,1 @@
-var mnemonic = "hand soldier human erode split pigeon rain cause space kid then crumble";
+var mnemonic = "cake unfair boring combine unusual inch core talent capital feature lunar awake";

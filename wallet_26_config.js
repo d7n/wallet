@@ -1,1 +1,1 @@
-var mnemonic = "canyon bomb quiz balance knock index kit render opera error page damp";
+var mnemonic = "coast cinnamon cook copy agree blossom rebel damp immense rent donate update";

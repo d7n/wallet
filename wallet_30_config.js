@@ -1,1 +1,1 @@
-var mnemonic = "betray burger doll nose chunk minor forward excess fan flip deputy twist";
+var mnemonic = "repeat wing happy phone maximum easy reveal stand car sail tongue celery";

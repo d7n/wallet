@@ -1,1 +1,1 @@
-var mnemonic = "hawk shock size carpet walk upper slab very bracket sorry negative leaf";
+var mnemonic = "pioneer once recipe tissue evil valve media quarter urge cry canyon extend";

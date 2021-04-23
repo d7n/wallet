@@ -1,1 +1,1 @@
-var mnemonic = "argue hybrid egg palace beyond damp situate arch duty worth bleak smart";
+var mnemonic = "family aspect palm chimney post rifle valve install rice agree scissors film";

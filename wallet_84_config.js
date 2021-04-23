@@ -1,1 +1,1 @@
-var mnemonic = "custom ship mass act awake dinosaur birth slide vessel engage answer mix";
+var mnemonic = "cost cinnamon noodle sniff rabbit pigeon idle garlic pull system lottery outside";

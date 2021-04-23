@@ -1,1 +1,1 @@
-var mnemonic = "neck dune quit sting innocent forest eight hint husband reveal mammal toss";
+var mnemonic = "have extend result lawsuit airport luggage physical pool fat member squirrel sister";

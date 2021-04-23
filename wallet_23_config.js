@@ -1,1 +1,1 @@
-var mnemonic = "define around lock paper echo degree stool soap later lend nose impose";
+var mnemonic = "month rotate debate benefit loop small ridge sun edge forum also pipe";

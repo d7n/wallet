@@ -1,1 +1,1 @@
-var mnemonic = "hole above better merry member dwarf try section settle elder box matter";
+var mnemonic = "humble rally choose butter paper tell cheese tank knock uphold dilemma warfare";

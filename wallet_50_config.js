@@ -1,1 +1,1 @@
-var mnemonic = "visa glass clean cable topic swear real surprise gold feel prevent swift";
+var mnemonic = "sadness repeat baby section ridge connect piano foil power evidence first pitch";

@@ -1,1 +1,1 @@
-var mnemonic = "shrug barely mean gain this deposit eagle mom shield river rate aunt";
+var mnemonic = "same label faculty weather audit sauce impact cat broccoli owner answer shoe";

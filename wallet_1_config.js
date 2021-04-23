@@ -1,1 +1,1 @@
-var mnemonic = "flame sibling guilt sting daughter century clay august setup search south fragile";
+var mnemonic = "lady cheese scout caution have smoke this vocal visit topic flame vendor";

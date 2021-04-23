@@ -1,1 +1,1 @@
-var mnemonic = "unknown myth squeeze melody mandate idle menu topic drastic fluid bike nation";
+var mnemonic = "help despair gorilla remember duty real nominee unique pony toward stem limit";

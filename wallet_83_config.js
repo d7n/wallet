@@ -1,1 +1,1 @@
-var mnemonic = "brand north deer hammer balance elbow deliver color relief faith twist green";
+var mnemonic = "helmet eager inmate shaft owner dwarf mom fitness evoke napkin casino scare";

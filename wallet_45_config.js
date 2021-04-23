@@ -1,1 +1,1 @@
-var mnemonic = "zoo illegal slim answer aunt brave diet parade honey tank fever blanket";
+var mnemonic = "twist excess casual world scheme lunar code void sand disease cannon remind";

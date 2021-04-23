@@ -1,1 +1,1 @@
-var mnemonic = "father oil word treat face verb oppose exit mimic fluid senior unusual";
+var mnemonic = "fashion ice crop aisle mother onion deposit acid tone flavor gather motor";

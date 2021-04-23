@@ -1,1 +1,1 @@
-var mnemonic = "member strategy ginger divide width swim valid profit snack panther elder apology";
+var mnemonic = "brush also between unaware belt clog figure miracle payment odor glass eight";

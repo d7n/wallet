@@ -1,1 +1,1 @@
-var mnemonic = "absorb unusual grit daughter sun ostrich organ allow repeat subway pilot knee";
+var mnemonic = "equal flip salute crazy grit upon bone example vacuum better size motor";

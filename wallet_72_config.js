@@ -1,1 +1,1 @@
-var mnemonic = "pull hello bid table cruise mistake model scene cargo exit theory desert";
+var mnemonic = "coffee tomato glimpse jump usual era forward poet hair curtain solve clown";

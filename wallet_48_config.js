@@ -1,1 +1,1 @@
-var mnemonic = "dove earn nice reward lock mandate explain you refuse sniff april depart";
+var mnemonic = "matter core stomach wear novel slush prison evolve absurd garment copper session";

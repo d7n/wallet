@@ -1,1 +1,1 @@
-var mnemonic = "corn truth mask crater small teach fork vintage license chicken detail tattoo";
+var mnemonic = "upgrade decide hollow energy oyster dash nose trend cruise tackle fox seven";

@@ -1,1 +1,1 @@
-var mnemonic = "service reason cradle decade valley cannon panther vocal body normal galaxy obscure";
+var mnemonic = "health evolve fox law romance grid open entry advice vocal diesel choose";

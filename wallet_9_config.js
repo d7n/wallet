@@ -1,1 +1,1 @@
-var mnemonic = "glare visual pride enjoy time joy net soft wood mushroom mail rough";
+var mnemonic = "muscle stable flower place tiger net cash option lock ride warm spring";

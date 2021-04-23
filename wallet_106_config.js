@@ -1,1 +1,1 @@
-var mnemonic = "imitate genuine alone inside advice ozone vessel regular first need taste gaze";
+var mnemonic = "arena paddle raven come release garage exit champion search veteran still monkey";

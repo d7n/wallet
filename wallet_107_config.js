@@ -1,1 +1,1 @@
-var mnemonic = "impulse dad august claim boat buzz ugly light antique save oven surround";
+var mnemonic = "tiger belt grass deal celery ten toss grant price example mass toast";

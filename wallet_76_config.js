@@ -1,1 +1,1 @@
-var mnemonic = "cry diet warm layer just trap pretty couch author morning park hungry";
+var mnemonic = "path cash convince pill road beauty render fever kit transfer worry renew";

@@ -1,1 +1,1 @@
-var mnemonic = "maze switch own bachelor vault club bean gun face sunny junk rice";
+var mnemonic = "plate route feel output cattle name surface dial iron street diesel poem";

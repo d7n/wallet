@@ -1,1 +1,1 @@
-var mnemonic = "gospel drift segment recall tilt bullet cook celery often civil grab like";
+var mnemonic = "clinic rapid avocado lamp history gown core hobby amazing method income expose";

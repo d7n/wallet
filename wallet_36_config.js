@@ -1,1 +1,1 @@
-var mnemonic = "kid bargain require mirror fiction sauce defy vast mix gold fog fence";
+var mnemonic = "ethics any muffin always people clump urge enemy room puppy sell online";

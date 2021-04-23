@@ -1,1 +1,1 @@
-var mnemonic = "color bitter always fit learn muffin blame emerge peanut pact shadow day";
+var mnemonic = "collect nose census shoulder before anger clean extra bread amazing mule book";

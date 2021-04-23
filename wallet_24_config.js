@@ -1,1 +1,1 @@
-var mnemonic = "borrow dutch entire weather distance supply wish resist expect shell mad pluck";
+var mnemonic = "faint sweet animal tattoo gallery drink dignity diet deposit tray exist actual";

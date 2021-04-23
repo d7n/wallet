@@ -1,1 +1,1 @@
-var mnemonic = "bonus stereo arch whisper gauge key proof gain hour turn wrong possible";
+var mnemonic = "uncle load bitter place space chest garbage apple town math heavy coconut";

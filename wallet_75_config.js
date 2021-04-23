@@ -1,1 +1,1 @@
-var mnemonic = "cost trophy current oval apology economy allow weapon list flag tackle goddess";
+var mnemonic = "gossip boost tobacco knock artist wish work analyst mammal coyote depth lock";

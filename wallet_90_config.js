@@ -1,1 +1,1 @@
-var mnemonic = "inch tuition great pulp warrior outer begin walnut still snow nuclear pipe";
+var mnemonic = "execute kingdom ceiling crunch lamp void increase wreck crouch enact loud erase";

@@ -1,1 +1,1 @@
-var mnemonic = "balance property because host love kite stadium vicious raw visual flash hub";
+var mnemonic = "giggle tool vendor theme rely enable traffic invite loud tube sugar own";

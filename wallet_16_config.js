@@ -1,1 +1,1 @@
-var mnemonic = "wrist glad deliver anger grab hover seek year gain what tragic pioneer";
+var mnemonic = "boat rival recipe pitch pledge pride crash poem behind sudden bargain please";

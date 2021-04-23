@@ -1,1 +1,1 @@
-var mnemonic = "world nest media supply evil popular honey vague school just mimic sport";
+var mnemonic = "special script identify aim unfair list toe there blossom donor over state";

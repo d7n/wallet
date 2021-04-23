@@ -1,1 +1,1 @@
-var mnemonic = "frozen double suffer carpet dune punch moon zero canoe clarify skirt use";
+var mnemonic = "hire soft scout inspire boss stairs squirrel pear luggage scorpion forest execute";

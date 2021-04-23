@@ -1,1 +1,1 @@
-var mnemonic = "toss raw video ice metal maid sauce divert cycle gospel coil timber";
+var mnemonic = "stairs breeze peasant dish buffalo eye twist anger talk total army private";

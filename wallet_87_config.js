@@ -1,1 +1,1 @@
-var mnemonic = "donor aerobic theme public gentle danger float adult six primary cradle short";
+var mnemonic = "current what vault absorb local income shield intact own motion sock say";

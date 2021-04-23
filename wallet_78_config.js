@@ -1,1 +1,1 @@
-var mnemonic = "defy fatal fruit tonight eagle waste scatter spring skill expose tree peasant";
+var mnemonic = "foster cage indicate sock praise section usage cruel wheat denial ladder practice";

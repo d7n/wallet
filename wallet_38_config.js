@@ -1,1 +1,1 @@
-var mnemonic = "year setup kid ability evil regret scrap load tip mixture juice enhance";
+var mnemonic = "range eye crisp tilt shy talent envelope bomb faith engage bleak relief";

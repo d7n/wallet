@@ -1,1 +1,1 @@
-var mnemonic = "item kiss pelican practice item vacuum dress jump awake approve uphold thing";
+var mnemonic = "amazing hip impact waste retreat strategy debate insect tornado design brother nest";

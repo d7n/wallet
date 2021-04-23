@@ -1,1 +1,1 @@
-var mnemonic = "lesson faint fiscal poem baby shaft scare tide universe slogan wing man";
+var mnemonic = "top dish survey cycle sea fall decrease wing cool velvet ball frost";

@@ -1,1 +1,1 @@
-var mnemonic = "empty virus mixed dial iron antique ordinary recall enough another relief oil";
+var mnemonic = "morning blade service novel kitten arena quality walnut castle antique buddy involve";

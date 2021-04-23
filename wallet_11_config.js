@@ -1,1 +1,1 @@
-var mnemonic = "liquid fade property horn remain glory earth omit comic middle spread ribbon";
+var mnemonic = "sudden gun track target require describe ritual autumn exclude category slender short";

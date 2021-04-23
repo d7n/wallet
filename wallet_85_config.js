@@ -1,1 +1,1 @@
-var mnemonic = "series horror subway gallery narrow kid foot forest east suspect license vital";
+var mnemonic = "must series what brick bean proof cream rally shield style brush crisp";

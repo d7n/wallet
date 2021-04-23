@@ -1,1 +1,1 @@
-var mnemonic = "swallow gaze into rough anxiety joke prosper knock empty shiver snack august";
+var mnemonic = "jar cupboard nominee skin now language bleak under genius salute tourist degree";

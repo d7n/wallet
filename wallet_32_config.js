@@ -1,1 +1,1 @@
-var mnemonic = "mixture puppy seat valid labor finish point dumb arena dad skin fuel";
+var mnemonic = "antique admit float parade rival album moral aim give pact note harsh";

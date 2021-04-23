@@ -1,1 +1,1 @@
-var mnemonic = "test size circle away embody field april ten shuffle across shove erosion";
+var mnemonic = "mask scan proof describe scale shoulder danger achieve hand coral spray ten";

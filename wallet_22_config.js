@@ -1,1 +1,1 @@
-var mnemonic = "delay sorry confirm sunny differ diet initial humor mistake chase multiply invite";
+var mnemonic = "delay old mother estate boost excite team turkey beef useful jaguar false";

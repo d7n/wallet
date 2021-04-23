@@ -1,1 +1,1 @@
-var mnemonic = "choice govern belt desert talk famous canal govern entry similar hole fancy";
+var mnemonic = "hat tongue fluid child repeat despair galaxy oppose motor main scheme desk";

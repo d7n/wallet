@@ -1,1 +1,1 @@
-var mnemonic = "party jealous ostrich aerobic acid sad hand cage seven fatigue eternal bulk";
+var mnemonic = "equip calm attitude lumber toast drip impose humble affair imitate universe cable";

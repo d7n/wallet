@@ -1,1 +1,1 @@
-var mnemonic = "denial carbon keen defy bulb mushroom sentence palace card traffic talk sword";
+var mnemonic = "recall sadness anchor base favorite split laugh sad velvet tag equal cry";

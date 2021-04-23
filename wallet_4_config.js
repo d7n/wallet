@@ -1,1 +1,1 @@
-var mnemonic = "order strike quit helmet shine ritual orient ticket hospital holiday conduct move";
+var mnemonic = "clay rather popular boost problem team dolphin crawl scrub pull elevator warrior";

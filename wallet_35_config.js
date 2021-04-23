@@ -1,1 +1,1 @@
-var mnemonic = "fiction swamp bridge bitter warfare shoulder cannon hat term fold secret case";
+var mnemonic = "gloom focus laugh release two plug omit mountain settle ranch weapon crucial";

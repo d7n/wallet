@@ -1,1 +1,1 @@
-var mnemonic = "maze forum pigeon love mad shoot kingdom define axis slab repair window";
+var mnemonic = "birth stairs mesh exhibit rent when fortune since cube life satisfy obtain";

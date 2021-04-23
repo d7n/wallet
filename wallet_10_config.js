@@ -1,1 +1,1 @@
-var mnemonic = "indicate seven sort great desert affair unique key dirt key alcohol glory";
+var mnemonic = "say casino pigeon local artwork front simple common front slice slam arena";

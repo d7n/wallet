@@ -1,1 +1,1 @@
-var mnemonic = "near purse celery weapon collect easily drive brain oxygen crisp fringe live";
+var mnemonic = "surface raccoon evil potato quality thrive gloom need shoulder country palm season";

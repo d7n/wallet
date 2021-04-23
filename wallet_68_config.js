@@ -1,1 +1,1 @@
-var mnemonic = "vocal scrap sausage foster awesome this rapid found fog float draw hungry";
+var mnemonic = "reform frequent develop joke square spatial slab unable provide gallery diamond strike";

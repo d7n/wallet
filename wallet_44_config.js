@@ -1,1 +1,1 @@
-var mnemonic = "april kidney tenant harvest segment pact loyal casual hotel print grace ribbon";
+var mnemonic = "decide left lake hurry legal try machine unfold rug unknown elite entire";

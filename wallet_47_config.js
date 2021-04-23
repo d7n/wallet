@@ -1,1 +1,1 @@
-var mnemonic = "blade street record path april effort roast salute upper uniform feel enforce";
+var mnemonic = "panic trip magic mad pilot essence foster giraffe gloom peace rigid fancy";

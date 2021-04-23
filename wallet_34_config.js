@@ -1,1 +1,1 @@
-var mnemonic = "toddler night lift vibrant attitude bar cloth bamboo uncover render video convince";
+var mnemonic = "width cute relax food nature matter pumpkin unfair lesson twenty picture also";

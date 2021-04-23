@@ -1,1 +1,1 @@
-var mnemonic = "again jaguar robot raise coral pause summer picture coil level knife gaze";
+var mnemonic = "proud slender light raccoon shoulder side young staff fox rapid coin cotton";

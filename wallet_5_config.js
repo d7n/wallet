@@ -1,1 +1,1 @@
-var mnemonic = "peace rapid gasp shallow people snack clip panda roast spring evidence clay";
+var mnemonic = "vicious sand grant embody buzz brain tackle orchard behave cube program depth";

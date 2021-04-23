@@ -1,1 +1,1 @@
-var mnemonic = "naive gain physical improve inject cliff truck border police lake find drama";
+var mnemonic = "impulse opera rug provide rapid relief patch dilemma record token clinic scorpion";

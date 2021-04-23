@@ -1,1 +1,1 @@
-var mnemonic = "match fruit leader nuclear dawn buzz adjust citizen hero print alley diesel";
+var mnemonic = "coffee mixture coyote peace spirit onion buzz silly october wood want uniform";

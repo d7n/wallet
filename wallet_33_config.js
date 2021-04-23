@@ -1,1 +1,1 @@
-var mnemonic = "frost spell museum nature please slight visual surface brand cat employ sustain";
+var mnemonic = "liar unfold beach debate tragic walnut deliver town ride slot puzzle script";

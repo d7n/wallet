@@ -1,1 +1,1 @@
-var mnemonic = "boring carbon agent jacket ripple sea online infant egg web what praise";
+var mnemonic = "puzzle deliver game rabbit limit else maple attract day general mad thank";

@@ -1,1 +1,1 @@
-var mnemonic = "maple you genre drama hub mountain sudden minute grunt blouse detail raccoon";
+var mnemonic = "movie endless amused ceiling peace settle filter boss siren inhale detect approve";

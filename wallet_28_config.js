@@ -1,1 +1,1 @@
-var mnemonic = "oven fault flight wild clean edge veteran boost mail rhythm salt reform";
+var mnemonic = "want lemon bubble wisdom unit defy grid decline butter increase coyote glory";

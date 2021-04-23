@@ -1,1 +1,1 @@
-var mnemonic = "flight toilet leave wait history inject split claw height hip baby color";
+var mnemonic = "cash design olive wonder balance ship tongue globe hello plug fly rocket";

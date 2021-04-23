@@ -1,1 +1,1 @@
-var mnemonic = "flavor tail distance sign climb random shift detect dial immune tag uncle";
+var mnemonic = "weather symptom dad bounce flee employ weasel main column cross own word";

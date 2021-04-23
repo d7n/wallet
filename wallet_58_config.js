@@ -1,1 +1,1 @@
-var mnemonic = "dash link laugh omit surprise hood unusual gas kind lab blue carpet";
+var mnemonic = "margin client gasp detail vacant flight wheat erase nut pottery evil usual";
