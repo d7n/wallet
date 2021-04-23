@@ -1,1 +1,1 @@
-var mnemonic = "slow glare recycle canal summer airport used elder game prefer wisdom fluid";
+var mnemonic = "joy myself help produce curtain boss elder satoshi shed evoke unaware improve";

@@ -1,1 +1,1 @@
-var mnemonic = "oxygen draft response enjoy flavor carry auction myth okay luxury glad swarm";
+var mnemonic = "gate once relax vibrant humble receive secret mirror strong glow couch unhappy";

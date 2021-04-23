@@ -1,1 +1,1 @@
-var mnemonic = "edit inspire market budget noise humor demand couch maze sport casino truly";
+var mnemonic = "eternal cradle humor basket enemy meat more alpha three bunker oyster rival";

@@ -1,1 +1,1 @@
-var mnemonic = "board mix cube shield future hybrid buzz pupil museum guide average ticket";
+var mnemonic = "oblige adult remove negative fold joke entry under cream walk rich buddy";

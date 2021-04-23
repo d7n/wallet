@@ -1,1 +1,1 @@
-var mnemonic = "organ more rate document meadow mouse vast service lunch laugh divorce monkey";
+var mnemonic = "rapid quality despair razor crush force arrest chase fortune clip outer waste";

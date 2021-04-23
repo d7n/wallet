@@ -1,1 +1,1 @@
-var mnemonic = "edit trust aware arrange conduct pizza clog pioneer honey pact desk small";
+var mnemonic = "alert vocal session ghost provide raise day cattle zone still bar canoe";

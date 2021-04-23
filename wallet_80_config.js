@@ -1,1 +1,1 @@
-var mnemonic = "inmate crawl say reject pigeon envelope trick fatal used six board vehicle";
+var mnemonic = "deer diamond slogan convince mean daring wise drill liar client build speed";

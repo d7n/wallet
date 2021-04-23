@@ -1,1 +1,1 @@
-var mnemonic = "mention high island ripple trigger rapid still outer kidney taxi advance century";
+var mnemonic = "august foot panic boat horn caught brass castle gesture guide retire bronze";

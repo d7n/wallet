@@ -1,1 +1,1 @@
-var mnemonic = "sugar cinnamon promote knock fiscal tackle task adult return between message sunset";
+var mnemonic = "clump pioneer wrist lens float cloud soft little adapt end output gauge";

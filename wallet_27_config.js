@@ -1,1 +1,1 @@
-var mnemonic = "frozen fossil lecture boss spot frog silver remain giant canoe rather field";
+var mnemonic = "excite aisle music divert awful tobacco unique sleep priority sketch pluck undo";

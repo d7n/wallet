@@ -1,1 +1,1 @@
-var mnemonic = "artist course woman print skate pony say decorate express author remind couch";
+var mnemonic = "increase clay social torch melody square salad skate country glue tiger off";

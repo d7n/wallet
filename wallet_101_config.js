@@ -1,1 +1,1 @@
-var mnemonic = "trumpet young trap blush jealous cart atom cost soft deny dolphin tired";
+var mnemonic = "exhaust absorb tattoo industry spice turkey flash stamp void lumber industry sponsor";

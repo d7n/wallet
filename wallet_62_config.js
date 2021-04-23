@@ -1,1 +1,1 @@
-var mnemonic = "genius genius item finger labor side equip cage kind general cost salute";
+var mnemonic = "join fruit jealous chunk borrow current rubber hidden bubble sister sponsor rally";

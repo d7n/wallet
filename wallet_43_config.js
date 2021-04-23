@@ -1,1 +1,1 @@
-var mnemonic = "bind boat monkey lawn finger address dignity trend clean stairs pepper much";
+var mnemonic = "quote brass three inner hire garden ginger inch bonus scorpion drop round";

@@ -1,1 +1,1 @@
-var mnemonic = "panel proud raven sleep sunny utility account gentle rookie outdoor soft dose";
+var mnemonic = "stuff fix hen beauty iron useless alley clever october love violin claw";

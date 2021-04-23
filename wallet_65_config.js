@@ -1,1 +1,1 @@
-var mnemonic = "dentist pause foot private pact enjoy foster melt burden assist visa case";
+var mnemonic = "deposit spoil fish pet float trip chunk space carbon course crazy tennis";

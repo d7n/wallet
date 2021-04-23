@@ -1,1 +1,1 @@
-var mnemonic = "skull net butter merry smooth ask leisure stereo pact hurry design empty";
+var mnemonic = "drop term draft hub weird exile brass head reveal remember mask kiwi";

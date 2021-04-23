@@ -1,1 +1,1 @@
-var mnemonic = "earn ramp great boy mother fame best month burger walk brass prevent";
+var mnemonic = "canoe rotate walnut magnet sorry ecology auction faculty crater real snack negative";

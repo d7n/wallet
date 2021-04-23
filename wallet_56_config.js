@@ -1,1 +1,1 @@
-var mnemonic = "stadium switch orchard exist unaware fury casual theory quarter situate seat anchor";
+var mnemonic = "soft pudding image become wish infant disorder forum else inmate foster evidence";

@@ -1,1 +1,1 @@
-var mnemonic = "trophy fly wisdom gloom coffee immune deposit sadness ripple sauce potato saddle";
+var mnemonic = "mule under fee medal note sport warrior chair cute document vote narrow";

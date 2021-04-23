@@ -1,1 +1,1 @@
-var mnemonic = "rifle around abstract beef fault maze come limb inspire chunk slice drink";
+var mnemonic = "chief bean carry damp razor toilet weekend middle volume among patient scissors";

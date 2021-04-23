@@ -1,1 +1,1 @@
-var mnemonic = "rescue level kangaroo unusual man gallery scrub mother topple symbol apology gown";
+var mnemonic = "bonus evidence merit music favorite sort gift winner unable puzzle group unable";

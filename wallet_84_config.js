@@ -1,1 +1,1 @@
-var mnemonic = "dune thrive junk party beyond canvas degree loop powder pulp swift civil";
+var mnemonic = "episode trim human kangaroo exile bag couch crash angry mass police cute";

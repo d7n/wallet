@@ -1,1 +1,1 @@
-var mnemonic = "notice chunk expire spot camera decline where response base wisdom stock later";
+var mnemonic = "reduce ahead novel grunt close much absent diet world bench liquid sock";

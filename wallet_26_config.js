@@ -1,1 +1,1 @@
-var mnemonic = "glory mail giraffe alone gate peanut time galaxy aerobic exclude sentence idle";
+var mnemonic = "hazard black want reunion match embark lift learn devote trend parent emerge";

@@ -1,1 +1,1 @@
-var mnemonic = "praise discover rough east easily beef birth mixed amazing oil walnut place";
+var mnemonic = "lion alley stomach puppy team gravity rural student oil glide trick carry";

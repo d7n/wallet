@@ -1,1 +1,1 @@
-var mnemonic = "name grant champion hazard belt various heavy warfare online account valley piece";
+var mnemonic = "spell bounce motion leg spoil two siege know defy prosper series message";

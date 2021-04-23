@@ -1,1 +1,1 @@
-var mnemonic = "limit damage slush skin frequent kind devote crumble liquid ocean flame move";
+var mnemonic = "grocery virus evil index plate finger type enhance august orchard play situate";

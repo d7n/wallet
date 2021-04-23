@@ -1,1 +1,1 @@
-var mnemonic = "since garbage utility police charge sun shadow page share above across bike";
+var mnemonic = "right announce planet retreat write reduce genius sport fog melt coast ignore";

@@ -1,1 +1,1 @@
-var mnemonic = "crazy brass bright plate income elephant between alley hero gain honey gospel";
+var mnemonic = "sure soul control renew edge measure ripple speak body ladder snow world";

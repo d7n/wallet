@@ -1,1 +1,1 @@
-var mnemonic = "grid citizen castle shuffle olympic avocado train cousin trouble pluck provide cancel";
+var mnemonic = "track orange toast danger visa client flight trophy hold demise reunion surge";

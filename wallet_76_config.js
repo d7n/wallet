@@ -1,1 +1,1 @@
-var mnemonic = "indicate mimic elegant noodle desk decide rely obvious good trend sketch anxiety";
+var mnemonic = "seminar jaguar pole clip toward depth blade retreat random away dish then";

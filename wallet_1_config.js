@@ -1,1 +1,1 @@
-var mnemonic = "oval junk love shadow belt valley sure tourist enemy wild assume powder";
+var mnemonic = "when spoon base surround item weird garage together seek devote dawn modify";

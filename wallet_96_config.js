@@ -1,1 +1,1 @@
-var mnemonic = "girl fruit alert crystal ticket moon breeze cream used artefact hobby oppose";
+var mnemonic = "north pole trigger antenna keep fee subway detail avocado matter miss yard";

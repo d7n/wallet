@@ -1,1 +1,1 @@
-var mnemonic = "nut bottom ecology always produce liquid camera napkin desert reduce have among";
+var mnemonic = "castle brown oxygen sugar unaware screen goose tag popular eternal raw poet";

@@ -1,1 +1,1 @@
-var mnemonic = "canoe build post tongue autumn cycle arrest label step submit vital distance";
+var mnemonic = "appear charge soul panda glove job return marriage model tissue side hidden";

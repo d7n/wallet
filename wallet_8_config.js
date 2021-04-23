@@ -1,1 +1,1 @@
-var mnemonic = "adapt riot rapid basket utility kid high blanket bundle reopen month fragile";
+var mnemonic = "surround problem claim pledge mountain output topic busy leave tone case mom";

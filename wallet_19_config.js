@@ -1,1 +1,1 @@
-var mnemonic = "divide solar idle social situate glance task edge elevator rival absurd enhance";
+var mnemonic = "embrace industry course empower call emerge enroll people valid wink rubber old";

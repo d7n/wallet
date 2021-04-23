@@ -1,1 +1,1 @@
-var mnemonic = "illegal cigar initial stable thunder famous half quarter arrange demise circle work";
+var mnemonic = "ankle kid border organ dress roof collect spread time produce mutual spin";

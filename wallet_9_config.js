@@ -1,1 +1,1 @@
-var mnemonic = "humble extend easily fault crucial tragic where drama school risk yard minute";
+var mnemonic = "quote away exclude inspire regular elite sausage device brick once leisure tray";

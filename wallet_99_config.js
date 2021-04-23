@@ -1,1 +1,1 @@
-var mnemonic = "unhappy wish picture measure hedgehog that into maze bracket session weasel axis";
+var mnemonic = "giant banner victory always mind parade smooth powder eagle pulse behind evil";

@@ -1,1 +1,1 @@
-var mnemonic = "cannon loan need pride alarm advice approve farm crisp phrase frost useless";
+var mnemonic = "reopen catch burger lecture still float alley cinnamon left divorce any want";

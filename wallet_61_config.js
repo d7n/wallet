@@ -1,1 +1,1 @@
-var mnemonic = "trap gather hockey crop ostrich minor alcohol dress dad neutral wrap jelly";
+var mnemonic = "bench float column brown clever dry deer demand keep pulse jealous jungle";

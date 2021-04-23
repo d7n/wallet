@@ -1,1 +1,1 @@
-var mnemonic = "outside hamster apology exist soda hurry half coyote cotton coast noble devote";
+var mnemonic = "opera surround quarter zone wrestle matrix keen split category service saddle heart";

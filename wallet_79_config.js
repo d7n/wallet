@@ -1,1 +1,1 @@
-var mnemonic = "mercy transfer wheel magic scene protect educate resemble link execute hip screen";
+var mnemonic = "luggage retire twin option gaze what slab hand kidney sustain frozen surround";

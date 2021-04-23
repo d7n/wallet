@@ -1,1 +1,1 @@
-var mnemonic = "text host choose tilt assault inject asthma keep remind civil young dress";
+var mnemonic = "tourist opera robust ten answer angry decade slab pony pave hello biology";

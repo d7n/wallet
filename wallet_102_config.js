@@ -1,1 +1,1 @@
-var mnemonic = "fit mind million april blast poem loop erode party rocket guitar blur";
+var mnemonic = "afraid roast tunnel winner crush essay suspect else quantum dish aim reunion";

@@ -1,1 +1,1 @@
-var mnemonic = "rely advice call hazard input tattoo offer much ripple mistake bar limit";
+var mnemonic = "language space stage later warrior trick west number filter cart leg film";

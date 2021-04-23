@@ -1,1 +1,1 @@
-var mnemonic = "okay scare slow canoe fame machine arrive slot gold estate upper fat";
+var mnemonic = "indoor control cigar report rather crunch unfold present feel salad festival truck";

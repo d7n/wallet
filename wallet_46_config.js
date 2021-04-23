@@ -1,1 +1,1 @@
-var mnemonic = "school accident physical vicious camera knock relax talent life promote six oblige";
+var mnemonic = "snack seek old army fragile victory shine net rival ozone garment mountain";

@@ -1,1 +1,1 @@
-var mnemonic = "milk office quote hill trash kind super pigeon dry soldier slogan volcano";
+var mnemonic = "wreck autumn argue glue ticket artist exotic antenna squirrel rare spare cluster";

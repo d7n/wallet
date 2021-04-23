@@ -1,1 +1,1 @@
-var mnemonic = "quit cream burden copy tell burden beauty angry balance repeat throw crisp";
+var mnemonic = "subway chalk excite mixed about witness manual praise plug east journey view";

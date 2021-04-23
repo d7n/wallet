@@ -1,1 +1,1 @@
-var mnemonic = "drastic foam window pulse enforce cherry comfort floor help dolphin hold grain";
+var mnemonic = "wagon balance alert exile struggle antenna crystal patch tape only myself grace";

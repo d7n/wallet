@@ -1,1 +1,1 @@
-var mnemonic = "virus toilet bracket boring urge lucky pattern truck garage swear gospel enhance";
+var mnemonic = "hurdle aim orange end tattoo borrow barrel ability elder original castle crash";

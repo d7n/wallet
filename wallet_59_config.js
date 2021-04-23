@@ -1,1 +1,1 @@
-var mnemonic = "width boring dentist latin correct crazy veteran bulk panther lunar orchard prison";
+var mnemonic = "apple flag wisdom minute toast tumble lunch vocal increase permit above spy";

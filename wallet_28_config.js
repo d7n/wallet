@@ -1,1 +1,1 @@
-var mnemonic = "fatigue knife walk wreck able wide rural sail aerobic toss chapter donate";
+var mnemonic = "drive snow give cloth repeat gloom draft hub lucky slice slam spring";

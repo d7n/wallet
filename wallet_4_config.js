@@ -1,1 +1,1 @@
-var mnemonic = "sweet insect woman enable negative over behave alert bulb glance crater jacket";
+var mnemonic = "tell amateur sweet pottery impose liberty school crash mobile fetch want zebra";

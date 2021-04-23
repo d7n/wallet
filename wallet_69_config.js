@@ -1,1 +1,1 @@
-var mnemonic = "pattern stable survey unit holiday dose clown flavor spatial wool mirror improve";
+var mnemonic = "waste mask upgrade sick snap mad subway false north amused harvest van";

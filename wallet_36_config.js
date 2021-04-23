@@ -1,1 +1,1 @@
-var mnemonic = "unknown absorb protect kind indoor torch bottom nuclear swear habit auction arm";
+var mnemonic = "bleak crucial sea address income wash raise pupil tomato february symbol frown";

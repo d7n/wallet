@@ -1,1 +1,1 @@
-var mnemonic = "captain cluster elite ten wire jazz address unaware resemble capable enforce chimney";
+var mnemonic = "vicious clip safe bargain awake basket gate upper frame welcome number royal";

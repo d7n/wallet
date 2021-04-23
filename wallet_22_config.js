@@ -1,1 +1,1 @@
-var mnemonic = "guard unveil flat lobster balcony pet neither snack biology gas file design";
+var mnemonic = "wine senior neutral bunker twelve regular field feed injury innocent close must";

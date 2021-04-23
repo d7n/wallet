@@ -1,1 +1,1 @@
-var mnemonic = "trouble jealous club drip chase reveal pill lecture acoustic glance trap consider";
+var mnemonic = "flock smart harvest average truly insect narrow cage zero apple eight mansion";

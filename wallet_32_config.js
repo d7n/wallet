@@ -1,1 +1,1 @@
-var mnemonic = "absurd latin hire quit short bean much suggest alien conduct kind skin";
+var mnemonic = "course sibling grape jewel cost property help pottery seminar gravity dignity sting";

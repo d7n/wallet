@@ -1,1 +1,1 @@
-var mnemonic = "boost review course service hello heavy craft radar race ritual winter shaft";
+var mnemonic = "under heart manual discover chief discover all desk pair sun donkey loan";

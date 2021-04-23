@@ -1,1 +1,1 @@
-var mnemonic = "deliver end alcohol erase canoe cake tube escape proud diary thank flat";
+var mnemonic = "soul trumpet develop assault message fashion leaf afraid easy divorce month valid";

@@ -1,1 +1,1 @@
-var mnemonic = "huge gun about engine essay fly milk problem absurd pool deny ask";
+var mnemonic = "unable group oven phone rent exhibit legal clog hockey fox fence hundred";

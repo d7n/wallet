@@ -1,1 +1,1 @@
-var mnemonic = "lend license science broken zero dawn heavy awesome float eternal bar indoor";
+var mnemonic = "museum burger wasp net vacuum brave canvas cover ginger local title tape";

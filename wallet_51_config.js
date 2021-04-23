@@ -1,1 +1,1 @@
-var mnemonic = "hotel design paddle winter fabric adult thrive use dose tank pudding expect";
+var mnemonic = "brick hungry chapter captain today camp cloth make wagon horror oxygen any";

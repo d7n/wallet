@@ -1,1 +1,1 @@
-var mnemonic = "fatigue provide language season sketch gold all toy best tiger start glass";
+var mnemonic = "carpet napkin life extra undo road leopard hero puppy enable slot scissors";

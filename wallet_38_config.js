@@ -1,1 +1,1 @@
-var mnemonic = "decide borrow aspect book hurt ribbon slogan sweet butter crouch hobby sunset";
+var mnemonic = "history balance point fiscal doll actor result emotion clinic patient okay neglect";

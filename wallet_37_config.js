@@ -1,1 +1,1 @@
-var mnemonic = "shrimp enough dismiss rude churn pattern bag market note banner level network";
+var mnemonic = "stool maze lesson enough tide hair all gaze bag ritual piece unlock";

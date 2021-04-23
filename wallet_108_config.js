@@ -1,1 +1,1 @@
-var mnemonic = "patient year fun junk rubber host sadness company coin remind share couple";
+var mnemonic = "leader wide sock fish pill fox license educate boring yard omit honey";

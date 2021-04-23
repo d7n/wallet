@@ -1,1 +1,1 @@
-var mnemonic = "recall slab truck coast portion gap sword risk viable captain awful depth";
+var mnemonic = "fee spatial trash keen ostrich recycle match install cotton resemble team grape";

@@ -1,1 +1,1 @@
-var mnemonic = "dragon vacuum wealth plate erase notable combine absent state fresh angle snap";
+var mnemonic = "tonight deal know please endless siege blind liquid leopard pluck secret truck";

@@ -1,1 +1,1 @@
-var mnemonic = "more ski heavy recycle bitter left father learn erase direct sun maze";
+var mnemonic = "zone question output prize decorate toe plastic zero interest nature spend ginger";

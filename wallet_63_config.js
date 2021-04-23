@@ -1,1 +1,1 @@
-var mnemonic = "possible sound simple gentle biology ankle view labor tomorrow priority sting nest";
+var mnemonic = "arch yard remind bargain cycle focus game gallery cruise tail modify hood";

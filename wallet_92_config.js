@@ -1,1 +1,1 @@
-var mnemonic = "horse couch recall egg seven liberty orbit mixture vanish unique scrap menu";
+var mnemonic = "garlic exchange camp exclude giraffe cradle code credit leg stock rule similar";

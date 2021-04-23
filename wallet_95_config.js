@@ -1,1 +1,1 @@
-var mnemonic = "rich game assist slot boy two genius jeans cry gown flip direct";
+var mnemonic = "danger pear lava where history elevator visa twice guard nasty grit orient";

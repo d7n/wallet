@@ -1,1 +1,1 @@
-var mnemonic = "private divert parrot inform cement custom rail camp ozone visit rotate puzzle";
+var mnemonic = "guide solar damp obscure install island away shed setup husband book stay";

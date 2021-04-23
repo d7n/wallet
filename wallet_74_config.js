@@ -1,1 +1,1 @@
-var mnemonic = "seat topple air answer illegal decrease heart three engage harbor across camera";
+var mnemonic = "member differ order tip armor strong deputy bag setup cereal cloud antique";

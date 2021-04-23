@@ -1,1 +1,1 @@
-var mnemonic = "basket angle orbit believe dynamic benefit leader upper fruit scale guess butter";
+var mnemonic = "kit employ addict mistake woman heart middle apology ramp lyrics reason path";

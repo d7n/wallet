@@ -1,1 +1,1 @@
-var mnemonic = "notable predict produce point unfold nephew chaos woman amateur leisure climb gadget";
+var mnemonic = "pizza jacket engine abstract blade inflict bounce avocado where divert industry group";

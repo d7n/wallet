@@ -1,1 +1,1 @@
-var mnemonic = "chapter stool address useful brass tattoo find urban final topple pigeon analyst";
+var mnemonic = "divert domain key praise reward open meadow valley hope fantasy student priority";

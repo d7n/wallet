@@ -1,1 +1,1 @@
-var mnemonic = "deal fly toilet film industry mask carbon small dragon actual body curtain";
+var mnemonic = "title seminar option vocal achieve story town melody chat trick foot slush";

@@ -1,1 +1,1 @@
-var mnemonic = "viable tiger tragic crowd ice buddy cube wine load owner artist camera";
+var mnemonic = "pulp smart source permit tornado visa stumble awkward rack beauty arm pole";

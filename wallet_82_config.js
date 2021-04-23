@@ -1,1 +1,1 @@
-var mnemonic = "state spike boss turn ridge web scan dizzy title brass explain betray";
+var mnemonic = "bag program dial input perfect denial check cool type chuckle arrow derive";

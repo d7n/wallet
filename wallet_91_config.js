@@ -1,1 +1,1 @@
-var mnemonic = "green answer anxiety market switch world lesson rebuild sausage weekend fee warrior";
+var mnemonic = "cinnamon bachelor mammal million appear canvas canvas reduce possible nephew sea reject";

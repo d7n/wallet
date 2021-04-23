@@ -1,1 +1,1 @@
-var mnemonic = "marriage gas year involve hard region lunar island bargain whip exotic love";
+var mnemonic = "team certain report piece desk tattoo simple rely salmon twin tag siege";

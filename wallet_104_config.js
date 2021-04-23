@@ -1,1 +1,1 @@
-var mnemonic = "apology story smile jump town embrace sock pair proud creek grief group";
+var mnemonic = "chapter tattoo size sound cigar adjust portion flavor elder marriage expect ticket";

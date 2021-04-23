@@ -1,1 +1,1 @@
-var mnemonic = "inmate chat buyer income maximum around wine stay tobacco firm pyramid hospital";
+var mnemonic = "term little coin property soccer race forum boring bus forget draw deal";
