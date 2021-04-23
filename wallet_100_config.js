@@ -1,1 +1,1 @@
-var mnemonic = "purse girl observe strong turn ride believe proud latin burger rotate exist";
+var mnemonic = "mention high island ripple trigger rapid still outer kidney taxi advance century";

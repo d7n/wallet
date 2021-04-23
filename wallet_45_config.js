@@ -1,1 +1,1 @@
-var mnemonic = "slab sheriff mansion admit warfare magic cradle actress jeans trip slice borrow";
+var mnemonic = "praise discover rough east easily beef birth mixed amazing oil walnut place";

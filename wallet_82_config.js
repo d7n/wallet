@@ -1,1 +1,1 @@
-var mnemonic = "impose birth swear funny gloom waste tumble crumble eternal artefact hockey jungle";
+var mnemonic = "state spike boss turn ridge web scan dizzy title brass explain betray";

@@ -1,1 +1,1 @@
-var mnemonic = "slice alert health exile chuckle enjoy thing sorry grape bicycle doll disorder";
+var mnemonic = "sport above afford jump throw drop intact roast fame release deer debris";

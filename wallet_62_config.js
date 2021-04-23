@@ -1,1 +1,1 @@
-var mnemonic = "protect bullet throw decade crush category enforce snack cloth fringe record cotton";
+var mnemonic = "genius genius item finger labor side equip cage kind general cost salute";

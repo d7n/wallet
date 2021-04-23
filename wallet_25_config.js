@@ -1,1 +1,1 @@
-var mnemonic = "ask beauty similar still loyal differ puppy proof trust nephew ostrich left";
+var mnemonic = "fatigue provide language season sketch gold all toy best tiger start glass";

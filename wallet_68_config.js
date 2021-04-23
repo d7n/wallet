@@ -1,1 +1,1 @@
-var mnemonic = "venue stand tent finish fox valve feature fire victory clap design damage";
+var mnemonic = "trouble jealous club drip chase reveal pill lecture acoustic glance trap consider";

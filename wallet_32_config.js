@@ -1,1 +1,1 @@
-var mnemonic = "crawl genre robust gun never segment pigeon mouse piano soon audit blood";
+var mnemonic = "absurd latin hire quit short bean much suggest alien conduct kind skin";

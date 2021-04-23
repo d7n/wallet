@@ -1,1 +1,1 @@
-var mnemonic = "palace prosper link erase resource horn prison people rate spy science pave";
+var mnemonic = "rifle around abstract beef fault maze come limb inspire chunk slice drink";

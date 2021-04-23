@@ -1,1 +1,1 @@
-var mnemonic = "book ugly news hold top alien pigeon admit tooth gossip portion absent";
+var mnemonic = "address hen blanket chaos evoke hello ramp lottery work unfair apple trumpet";

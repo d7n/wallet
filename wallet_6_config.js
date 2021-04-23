@@ -1,1 +1,1 @@
-var mnemonic = "brick away steak speed wait predict prison follow pig claw exact asset";
+var mnemonic = "crazy brass bright plate income elephant between alley hero gain honey gospel";

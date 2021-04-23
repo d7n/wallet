@@ -1,1 +1,1 @@
-var mnemonic = "family sphere bright hold page bag alpha rural print bitter fever burden";
+var mnemonic = "recall slab truck coast portion gap sword risk viable captain awful depth";

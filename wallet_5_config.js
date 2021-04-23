@@ -1,1 +1,1 @@
-var mnemonic = "hip endorse steel walk poverty coil margin profit cabin trim devote water";
+var mnemonic = "earn ramp great boy mother fame best month burger walk brass prevent";

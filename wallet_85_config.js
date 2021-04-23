@@ -1,1 +1,1 @@
-var mnemonic = "gun fuel solar peasant proud put marriage carry salute canvas differ pipe";
+var mnemonic = "okay scare slow canoe fame machine arrive slot gold estate upper fat";

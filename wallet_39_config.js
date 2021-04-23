@@ -1,1 +1,1 @@
-var mnemonic = "program gorilla congress office pluck decorate kit loop loan pretty shine trust";
+var mnemonic = "romance pilot core stomach valid emerge trigger phone quantum exile around hunt";

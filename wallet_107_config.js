@@ -1,1 +1,1 @@
-var mnemonic = "peasant typical green shoot police modify slender grain neglect never two advice";
+var mnemonic = "will twin age inch main wild judge august history delay ozone hero";

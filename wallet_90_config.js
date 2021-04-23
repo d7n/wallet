@@ -1,1 +1,1 @@
-var mnemonic = "fever youth rifle gown kind razor amount primary success identify witness inherit";
+var mnemonic = "lend license science broken zero dawn heavy awesome float eternal bar indoor";

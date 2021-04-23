@@ -1,1 +1,1 @@
-var mnemonic = "kidney hazard avoid lottery asset drill cargo festival place law observe cargo";
+var mnemonic = "inmate chat buyer income maximum around wine stay tobacco firm pyramid hospital";

@@ -1,1 +1,1 @@
-var mnemonic = "swarm judge butter flee wisdom car only village access truth now bubble";
+var mnemonic = "edit trust aware arrange conduct pizza clog pioneer honey pact desk small";

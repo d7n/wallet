@@ -1,1 +1,1 @@
-var mnemonic = "cigar rural wonder symbol endorse regular body human talent forward fee pet";
+var mnemonic = "organ more rate document meadow mouse vast service lunch laugh divorce monkey";

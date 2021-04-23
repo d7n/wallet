@@ -1,1 +1,1 @@
-var mnemonic = "small deposit taste common chef clerk demand announce nice canal crash subway";
+var mnemonic = "skull net butter merry smooth ask leisure stereo pact hurry design empty";

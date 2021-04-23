@@ -1,1 +1,1 @@
-var mnemonic = "any infant shoot ticket asset pepper mirror sibling student rural elephant promote";
+var mnemonic = "divide solar idle social situate glance task edge elevator rival absurd enhance";

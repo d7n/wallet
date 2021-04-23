@@ -1,1 +1,1 @@
-var mnemonic = "odor salute legal narrow ostrich unknown float brain acquire person crater bind";
+var mnemonic = "dragon vacuum wealth plate erase notable combine absent state fresh angle snap";

@@ -1,1 +1,1 @@
-var mnemonic = "original shine travel hour surge kitten desert purpose know that brown level";
+var mnemonic = "adapt riot rapid basket utility kid high blanket bundle reopen month fragile";

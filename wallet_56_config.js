@@ -1,1 +1,1 @@
-var mnemonic = "matter tape canoe blossom sponsor frame yellow category sudden leisure habit trophy";
+var mnemonic = "stadium switch orchard exist unaware fury casual theory quarter situate seat anchor";

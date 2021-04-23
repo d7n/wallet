@@ -1,1 +1,1 @@
-var mnemonic = "chief crystal cross toilet try shoe giraffe rebuild gate tragic before junior";
+var mnemonic = "girl fruit alert crystal ticket moon breeze cream used artefact hobby oppose";

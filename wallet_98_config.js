@@ -1,1 +1,1 @@
-var mnemonic = "edge control abstract bomb carpet slogan unfair battle chef cry account hazard";
+var mnemonic = "basket angle orbit believe dynamic benefit leader upper fruit scale guess butter";

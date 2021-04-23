@@ -1,1 +1,1 @@
-var mnemonic = "casual once must sadness retire involve lecture install club void daring evidence";
+var mnemonic = "glory mail giraffe alone gate peanut time galaxy aerobic exclude sentence idle";

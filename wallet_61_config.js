@@ -1,1 +1,1 @@
-var mnemonic = "ugly hobby provide double urge mango spike frown need possible meadow city";
+var mnemonic = "trap gather hockey crop ostrich minor alcohol dress dad neutral wrap jelly";

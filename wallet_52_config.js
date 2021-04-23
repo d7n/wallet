@@ -1,1 +1,1 @@
-var mnemonic = "visit mosquito park hub draft cook off tag sister grab sport index";
+var mnemonic = "rely advice call hazard input tattoo offer much ripple mistake bar limit";

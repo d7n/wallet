@@ -1,1 +1,1 @@
-var mnemonic = "elevator chicken glue napkin argue wing match search island citizen execute huge";
+var mnemonic = "school accident physical vicious camera knock relax talent life promote six oblige";

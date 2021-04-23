@@ -1,1 +1,1 @@
-var mnemonic = "craft away space seat garment seven floor capable you voice pass enjoy";
+var mnemonic = "notice chunk expire spot camera decline where response base wisdom stock later";

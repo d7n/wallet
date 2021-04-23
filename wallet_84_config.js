@@ -1,1 +1,1 @@
-var mnemonic = "banana festival dial marriage entry cancel media immense sure caution organ kitten";
+var mnemonic = "dune thrive junk party beyond canvas degree loop powder pulp swift civil";

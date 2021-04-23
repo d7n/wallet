@@ -1,1 +1,1 @@
-var mnemonic = "giraffe silly betray visual silent slot marine cry dance plunge custom erase";
+var mnemonic = "sugar cinnamon promote knock fiscal tackle task adult return between message sunset";

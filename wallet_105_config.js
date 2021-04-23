@@ -1,1 +1,1 @@
-var mnemonic = "lion account voice patrol tell essay reward cry boss achieve skate frown";
+var mnemonic = "boost review course service hello heavy craft radar race ritual winter shaft";

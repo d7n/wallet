@@ -1,1 +1,1 @@
-var mnemonic = "other reason often south adult priority wise transfer dance shop evoke air";
+var mnemonic = "sweet insect woman enable negative over behave alert bulb glance crater jacket";

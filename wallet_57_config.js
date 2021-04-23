@@ -1,1 +1,1 @@
-var mnemonic = "lottery car attend lawsuit deal purpose guard float blush security scorpion melt";
+var mnemonic = "artist course woman print skate pony say decorate express author remind couch";

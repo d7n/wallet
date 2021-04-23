@@ -1,1 +1,1 @@
-var mnemonic = "local present width pact obtain weird spread grape obtain dutch era six";
+var mnemonic = "oval junk love shadow belt valley sure tourist enemy wild assume powder";

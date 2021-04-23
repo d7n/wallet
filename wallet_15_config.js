@@ -1,1 +1,1 @@
-var mnemonic = "cereal maid dream sustain hobby exercise swear wool wait city cheap glove";
+var mnemonic = "edit inspire market budget noise humor demand couch maze sport casino truly";

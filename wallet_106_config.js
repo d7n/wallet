@@ -1,1 +1,1 @@
-var mnemonic = "various burden crew pride dilemma include winner salute similar cliff giant erupt";
+var mnemonic = "fruit cycle lounge change fire glare mutual pink census verb broom pen";

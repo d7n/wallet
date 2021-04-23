@@ -1,1 +1,1 @@
-var mnemonic = "ginger foam laugh train obscure dream portion else drastic salon cash develop";
+var mnemonic = "cannon loan need pride alarm advice approve farm crisp phrase frost useless";

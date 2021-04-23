@@ -1,1 +1,1 @@
-var mnemonic = "buyer seminar sauce sister grape vanish wave unfold olive super tip nothing";
+var mnemonic = "nature tomato until romance because broom tribe service regret maple apology citizen";

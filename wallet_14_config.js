@@ -1,1 +1,1 @@
-var mnemonic = "object napkin cushion patch noble jaguar since harvest yard child agent fury";
+var mnemonic = "more ski heavy recycle bitter left father learn erase direct sun maze";

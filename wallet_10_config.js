@@ -1,1 +1,1 @@
-var mnemonic = "horn minor medal rescue clown raven middle setup aware toddler impact lend";
+var mnemonic = "collect deal afraid solve narrow option tenant deal else vendor amused auto";

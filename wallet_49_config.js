@@ -1,1 +1,1 @@
-var mnemonic = "man tray van master kit gadget slot obey pitch height lucky chaos";
+var mnemonic = "name grant champion hazard belt various heavy warfare online account valley piece";

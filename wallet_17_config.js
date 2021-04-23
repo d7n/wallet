@@ -1,1 +1,1 @@
-var mnemonic = "street below about record tribe comic defy brave legend local under lizard";
+var mnemonic = "text host choose tilt assault inject asthma keep remind civil young dress";

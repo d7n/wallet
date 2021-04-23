@@ -1,1 +1,1 @@
-var mnemonic = "correct medal strike chalk wild mirror video feel beyond lunar mouse tobacco";
+var mnemonic = "mercy transfer wheel magic scene protect educate resemble link execute hip screen";

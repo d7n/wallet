@@ -1,1 +1,1 @@
-var mnemonic = "carbon magnet liquid scissors crew call avoid surprise shoe drive hidden behind";
+var mnemonic = "mistake edit genuine minimum yellow aunt peasant proud holiday under panel olympic";

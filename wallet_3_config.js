@@ -1,1 +1,1 @@
-var mnemonic = "fatigue crouch example deposit spin pull flower save spirit alien program evolve";
+var mnemonic = "viable tiger tragic crowd ice buddy cube wine load owner artist camera";

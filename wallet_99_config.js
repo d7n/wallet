@@ -1,1 +1,1 @@
-var mnemonic = "prosper grid merry fringe broccoli spot favorite filter mansion lounge brief gasp";
+var mnemonic = "unhappy wish picture measure hedgehog that into maze bracket session weasel axis";

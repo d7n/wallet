@@ -1,1 +1,1 @@
-var mnemonic = "misery problem couch bar danger trade firm gown average also enable grunt";
+var mnemonic = "shrimp enough dismiss rude churn pattern bag market note banner level network";

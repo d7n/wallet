@@ -1,1 +1,1 @@
-var mnemonic = "forest erosion napkin curtain normal market shrug spot sick hole first leaf";
+var mnemonic = "panel proud raven sleep sunny utility account gentle rookie outdoor soft dose";

@@ -1,1 +1,1 @@
-var mnemonic = "dog coin ramp fee recycle parrot height arm jaguar satoshi enrich abuse";
+var mnemonic = "canoe build post tongue autumn cycle arrest label step submit vital distance";

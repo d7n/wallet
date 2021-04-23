@@ -1,1 +1,1 @@
-var mnemonic = "goose jungle identify rich seat link riot because again hundred industry rigid";
+var mnemonic = "drastic foam window pulse enforce cherry comfort floor help dolphin hold grain";

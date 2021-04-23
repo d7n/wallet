@@ -1,1 +1,1 @@
-var mnemonic = "draft excuse turkey shoe pepper owner captain winter base profit expose purity";
+var mnemonic = "patient year fun junk rubber host sadness company coin remind share couple";

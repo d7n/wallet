@@ -1,1 +1,1 @@
-var mnemonic = "fence green tag tortoise pear coil service trick inner music cabin mistake";
+var mnemonic = "amateur benefit woman access timber gravity today orient test anxiety mule chuckle";

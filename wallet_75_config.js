@@ -1,1 +1,1 @@
-var mnemonic = "else maze cluster east quit slight segment example differ clock symptom razor";
+var mnemonic = "private divert parrot inform cement custom rail camp ozone visit rotate puzzle";

@@ -1,1 +1,1 @@
-var mnemonic = "sunny peasant faith alpha athlete present grunt tip allow flame ring depart";
+var mnemonic = "milk office quote hill trash kind super pigeon dry soldier slogan volcano";

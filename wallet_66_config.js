@@ -1,1 +1,1 @@
-var mnemonic = "lift urban erosion skate ocean only zone seat brass slush canoe wide";
+var mnemonic = "chapter stool address useful brass tattoo find urban final topple pigeon analyst";

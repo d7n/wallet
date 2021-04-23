@@ -1,1 +1,1 @@
-var mnemonic = "width wolf lake slab guide gown window once fancy bulk pitch forget";
+var mnemonic = "outside hamster apology exist soda hurry half coyote cotton coast noble devote";

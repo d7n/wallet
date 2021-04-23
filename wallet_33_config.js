@@ -1,1 +1,1 @@
-var mnemonic = "sketch detect above card slot sick twin annual horse stamp ancient section";
+var mnemonic = "book blast bunker limit coffee final long casino spring square flip scout";

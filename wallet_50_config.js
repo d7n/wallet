@@ -1,1 +1,1 @@
-var mnemonic = "gasp you leg clarify ribbon section upon drum gasp spatial depth scan";
+var mnemonic = "nut bottom ecology always produce liquid camera napkin desert reduce have among";

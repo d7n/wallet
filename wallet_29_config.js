@@ -1,1 +1,1 @@
-var mnemonic = "crack put hour foot detail bicycle ramp secret guide hood east indoor";
+var mnemonic = "limit damage slush skin frequent kind devote crumble liquid ocean flame move";

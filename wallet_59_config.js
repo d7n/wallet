@@ -1,1 +1,1 @@
-var mnemonic = "violin police surge silver maple velvet matrix lazy slow vast video eye";
+var mnemonic = "width boring dentist latin correct crazy veteran bulk panther lunar orchard prison";

@@ -1,1 +1,1 @@
-var mnemonic = "sport desk catch term soft hawk cry chat derive gown purse fat";
+var mnemonic = "guard unveil flat lobster balcony pet neither snack biology gas file design";

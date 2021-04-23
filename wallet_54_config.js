@@ -1,1 +1,1 @@
-var mnemonic = "business penalty check group lion sadness involve help poet aunt powder achieve";
+var mnemonic = "deal fly toilet film industry mask carbon small dragon actual body curtain";

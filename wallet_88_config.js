@@ -1,1 +1,1 @@
-var mnemonic = "walk belt enter water analyst pool viable link pencil pact chase close";
+var mnemonic = "rescue level kangaroo unusual man gallery scrub mother topple symbol apology gown";

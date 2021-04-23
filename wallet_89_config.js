@@ -1,1 +1,1 @@
-var mnemonic = "any hundred between aim shell ketchup renew differ bar pass betray plastic";
+var mnemonic = "celery banana battle now dog pupil peanut sauce riot actual hood sad";

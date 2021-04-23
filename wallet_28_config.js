@@ -1,1 +1,1 @@
-var mnemonic = "scatter party occur edit strategy office regular dutch title combine elite latin";
+var mnemonic = "fatigue knife walk wreck able wide rural sail aerobic toss chapter donate";

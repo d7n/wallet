@@ -1,1 +1,1 @@
-var mnemonic = "used change analyst sister silk apart history upgrade harbor panther local phone";
+var mnemonic = "deliver end alcohol erase canoe cake tube escape proud diary thank flat";

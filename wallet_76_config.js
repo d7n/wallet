@@ -1,1 +1,1 @@
-var mnemonic = "knee float reopen fury repeat audit resist moral fix exhaust expand blanket";
+var mnemonic = "indicate mimic elegant noodle desk decide rely obvious good trend sketch anxiety";

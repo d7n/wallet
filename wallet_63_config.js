@@ -1,1 +1,1 @@
-var mnemonic = "iron excite satisfy trouble exhibit join gate pet view craft gain icon";
+var mnemonic = "possible sound simple gentle biology ankle view labor tomorrow priority sting nest";

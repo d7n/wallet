@@ -1,1 +1,1 @@
-var mnemonic = "expose another hope oak cannon rigid east clutch glance discover table fold";
+var mnemonic = "unknown absorb protect kind indoor torch bottom nuclear swear habit auction arm";

@@ -1,1 +1,1 @@
-var mnemonic = "bike lake grant electric volume also company mail card dinosaur session prison";
+var mnemonic = "since garbage utility police charge sun shadow page share above across bike";

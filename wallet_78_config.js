@@ -1,1 +1,1 @@
-var mnemonic = "trend lend wealth fall another walk hidden allow grass mention radio damp";
+var mnemonic = "wrist account before nasty valid margin you plastic flash outer brush fiscal";

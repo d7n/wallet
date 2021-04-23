@@ -1,1 +1,1 @@
-var mnemonic = "napkin stairs fiscal fly also convince maze garage method embrace raise master";
+var mnemonic = "trap magic snow today athlete educate history bubble early grow ski modify";

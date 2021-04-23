@@ -1,1 +1,1 @@
-var mnemonic = "fuel advice flower dial tattoo junk mansion fatal option talk clown mistake";
+var mnemonic = "inmate crawl say reject pigeon envelope trick fatal used six board vehicle";

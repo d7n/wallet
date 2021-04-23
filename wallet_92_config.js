@@ -1,1 +1,1 @@
-var mnemonic = "exhibit tell beach quantum night usual brand sunset knife luxury ensure joke";
+var mnemonic = "horse couch recall egg seven liberty orbit mixture vanish unique scrap menu";

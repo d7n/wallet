@@ -1,1 +1,1 @@
-var mnemonic = "income ethics tongue barely retire copper fever fiction guide myself wife hood";
+var mnemonic = "oxygen draft response enjoy flavor carry auction myth okay luxury glad swarm";

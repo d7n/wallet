@@ -1,1 +1,1 @@
-var mnemonic = "combine invest wage punch arrive concert country ramp arctic alone permit reduce";
+var mnemonic = "humble extend easily fault crucial tragic where drama school risk yard minute";

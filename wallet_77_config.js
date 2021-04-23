@@ -1,1 +1,1 @@
-var mnemonic = "author edit park know rescue success say destroy energy security attend photo";
+var mnemonic = "trophy fly wisdom gloom coffee immune deposit sadness ripple sauce potato saddle";

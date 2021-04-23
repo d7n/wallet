@@ -1,1 +1,1 @@
-var mnemonic = "enjoy bottom effort burger south zero spike satoshi frame exist index genre";
+var mnemonic = "seat topple air answer illegal decrease heart three engage harbor across camera";

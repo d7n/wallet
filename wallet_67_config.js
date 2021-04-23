@@ -1,1 +1,1 @@
-var mnemonic = "reduce frame gravity innocent indicate illness regret monitor output response satoshi cruel";
+var mnemonic = "beach fun ghost super like ranch notice whisper acquire month already cause";

@@ -1,1 +1,1 @@
-var mnemonic = "common muscle hurdle color sad flight extend banana inspire giraffe prison motor";
+var mnemonic = "bind boat monkey lawn finger address dignity trend clean stairs pepper much";

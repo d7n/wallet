@@ -1,1 +1,1 @@
-var mnemonic = "cheap allow depend average thumb noble physical jungle cheese cruel risk pole";
+var mnemonic = "hotel design paddle winter fabric adult thrive use dose tank pudding expect";

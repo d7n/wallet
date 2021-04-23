@@ -1,1 +1,1 @@
-var mnemonic = "hospital model cushion twist badge right galaxy moral unit street frame tool";
+var mnemonic = "quit cream burden copy tell burden beauty angry balance repeat throw crisp";

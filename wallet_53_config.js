@@ -1,1 +1,1 @@
-var mnemonic = "negative pink attitude hawk east glad sniff click phone tooth magic lamp";
+var mnemonic = "marriage gas year involve hard region lunar island bargain whip exotic love";

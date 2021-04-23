@@ -1,1 +1,1 @@
-var mnemonic = "flee donor flight sport venue royal cherry artwork suspect doll fantasy detect";
+var mnemonic = "trumpet young trap blush jealous cart atom cost soft deny dolphin tired";

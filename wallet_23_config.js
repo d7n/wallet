@@ -1,1 +1,1 @@
-var mnemonic = "lottery defense relief coyote speak wage meadow flush motion marriage guilt way";
+var mnemonic = "hard twist giggle humor gain caution home swap duck know eight daring";
