@@ -1,1 +1,1 @@
-var mnemonic = "choice truck gap lady success unveil hollow obey guitar submit vessel enable";
+var mnemonic = "trial reduce parade jar surge asset bamboo gasp link space divert mandate";

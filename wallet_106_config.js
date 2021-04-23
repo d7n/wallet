@@ -1,1 +1,1 @@
-var mnemonic = "appear suspect excuse always coach midnight wear future total birth update connect";
+var mnemonic = "rural fault unhappy prize album advice banner tourist bone razor fiber beach";

@@ -1,1 +1,1 @@
-var mnemonic = "correct idle gather canyon elite double fresh merit chunk fiber hurry rail";
+var mnemonic = "else base goddess inside doll obscure broccoli turkey loop tower victory consider";

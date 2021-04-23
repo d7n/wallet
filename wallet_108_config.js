@@ -1,1 +1,1 @@
-var mnemonic = "squeeze pause produce bamboo scene elite debate chuckle broken treat wave amount";
+var mnemonic = "fruit curtain buyer time street quality endless reward riot soup prison sustain";

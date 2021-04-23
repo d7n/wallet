@@ -1,1 +1,1 @@
-var mnemonic = "actress cave once silver bullet scale airport addict acid point phrase expose";
+var mnemonic = "ripple tide margin arrow program force comic loud giggle danger siege because";

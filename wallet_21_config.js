@@ -1,1 +1,1 @@
-var mnemonic = "crash ensure grow notable tired tortoise way dad ticket poet ancient veteran";
+var mnemonic = "outside fringe wheel acoustic phone cup frog sadness insane acid whip left";

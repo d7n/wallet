@@ -1,1 +1,1 @@
-var mnemonic = "betray police chest enroll medal finger reason below define swallow foster apple";
+var mnemonic = "best supply seminar staff because address season traffic brick dolphin menu creek";

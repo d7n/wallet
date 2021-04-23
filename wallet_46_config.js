@@ -1,1 +1,1 @@
-var mnemonic = "urban brave fluid merge turn please payment size humble mountain this chalk";
+var mnemonic = "resist summer engine term urban expire clean monitor monster borrow name void";

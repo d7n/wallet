@@ -1,1 +1,1 @@
-var mnemonic = "lawn canyon next loop bullet caution draft misery better captain material core";
+var mnemonic = "choose bag describe harsh tree cradle delay october before history spawn forget";

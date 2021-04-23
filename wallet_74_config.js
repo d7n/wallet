@@ -1,1 +1,1 @@
-var mnemonic = "delay salad opinion midnight since cube peanut burst finger liquid soon stay";
+var mnemonic = "decline hill canoe heart disorder asthma art orient cinnamon own upgrade buyer";

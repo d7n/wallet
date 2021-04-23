@@ -1,1 +1,1 @@
-var mnemonic = "shove afraid height fuel scissors swing income bicycle spirit fetch wolf garden";
+var mnemonic = "vacant slab panther between cherry person street oppose fame hammer logic mansion";

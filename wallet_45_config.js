@@ -1,1 +1,1 @@
-var mnemonic = "tell health giggle lawn jacket flip chuckle crane pledge comfort chest cloth";
+var mnemonic = "chapter apology word disorder situate property thumb honey vocal spike pudding unfair";

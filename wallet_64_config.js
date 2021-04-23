@@ -1,1 +1,1 @@
-var mnemonic = "hill aware route grunt airport advance cattle jar walnut inmate student regret";
+var mnemonic = "dismiss exclude age vintage sugar crystal hint finger lounge empower deer once";

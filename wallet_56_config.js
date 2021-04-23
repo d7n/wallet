@@ -1,1 +1,1 @@
-var mnemonic = "choose jar brain net oppose wild frequent scrub sustain joy bright affair";
+var mnemonic = "palm egg cereal arch portion clerk lock better love fury digital exclude";

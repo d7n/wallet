@@ -1,1 +1,1 @@
-var mnemonic = "convince same actual pool clip garden scan blue wage enjoy anchor insect";
+var mnemonic = "earn embrace guard robot flush curve check culture artist argue burger dawn";

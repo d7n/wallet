@@ -1,1 +1,1 @@
-var mnemonic = "system satoshi decorate relax mechanic cool cabbage volume rival ketchup half festival";
+var mnemonic = "inch combine dance uncle siege clever dinosaur anchor arrow situate agree grief";

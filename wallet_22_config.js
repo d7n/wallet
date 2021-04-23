@@ -1,1 +1,1 @@
-var mnemonic = "supply mule aware attract zone reopen funny praise fuel major gallery arm";
+var mnemonic = "labor practice kind glass pond cube critic rail brother denial patient develop";

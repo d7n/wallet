@@ -1,1 +1,1 @@
-var mnemonic = "spoil floor security famous kind curious twist save coffee exercise execute keen";
+var mnemonic = "pistol sick diary artefact quantum crunch diesel addict velvet minute sea purpose";

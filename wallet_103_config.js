@@ -1,1 +1,1 @@
-var mnemonic = "pluck jeans final company lion suspect hazard firm inquiry rifle element book";
+var mnemonic = "wrong girl kidney rookie argue repeat dwarf glide into mind pole dance";

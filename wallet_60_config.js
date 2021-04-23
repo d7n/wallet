@@ -1,1 +1,1 @@
-var mnemonic = "fuel garment jealous churn lunar right taste lobster window depth sick behave";
+var mnemonic = "view phone limb boring cement face stuff little during brother scheme upgrade";

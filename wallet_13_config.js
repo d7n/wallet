@@ -1,1 +1,1 @@
-var mnemonic = "boy shrimp reduce razor bomb inhale identify zoo scissors dutch donkey copper";
+var mnemonic = "panda clinic layer toast salad oak carbon stone tone addict oven spray";

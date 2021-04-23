@@ -1,1 +1,1 @@
-var mnemonic = "pink label recall account mask depend approve slide unusual situate space million";
+var mnemonic = "boy opera lobster still gallery question luggage school neck frame light group";

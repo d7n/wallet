@@ -1,1 +1,1 @@
-var mnemonic = "rely team give squeeze truth task safe aerobic enter vocal bag dice";
+var mnemonic = "inch beyond tortoise depart target gate time little lab dish salad fancy";

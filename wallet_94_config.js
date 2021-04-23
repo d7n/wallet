@@ -1,1 +1,1 @@
-var mnemonic = "head upset elegant grab ankle sail view flavor gloom blur slogan congress";
+var mnemonic = "carpet lamp tattoo usage economy divide brush improve lab reduce disorder mouse";

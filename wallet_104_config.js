@@ -1,1 +1,1 @@
-var mnemonic = "hub cover age what record nurse crazy adapt evoke subject arrive seat";
+var mnemonic = "help devote basic fringe call void prevent innocent clap mobile push twin";

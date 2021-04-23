@@ -1,1 +1,1 @@
-var mnemonic = "vivid burden poet pass curve dirt gasp hub aisle bench wheel kit";
+var mnemonic = "cereal wage conduct alert arrest require normal depend bus furnace enable honey";

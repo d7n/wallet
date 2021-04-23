@@ -1,1 +1,1 @@
-var mnemonic = "rice ostrich dismiss evoke candy page wink elder awful whip office matter";
+var mnemonic = "axis love obtain suffer fun conduct label inhale drip ticket utility kiss";

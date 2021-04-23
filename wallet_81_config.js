@@ -1,1 +1,1 @@
-var mnemonic = "pair appear topple index force taxi valley trim decorate argue bread capital";
+var mnemonic = "tell cheese hockey text hour vote elder dune cook ivory theory net";

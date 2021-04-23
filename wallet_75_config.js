@@ -1,1 +1,1 @@
-var mnemonic = "lazy flee scout execute symbol canyon enforce garment desert giggle claw mandate";
+var mnemonic = "consider certain initial claim survey goose puzzle february farm finger repair glory";

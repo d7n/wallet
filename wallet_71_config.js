@@ -1,1 +1,1 @@
-var mnemonic = "tuna copper nest buyer dragon much tragic reunion license cushion scale happy";
+var mnemonic = "emotion around soon squeeze funny canvas bacon steel forward hidden recall amateur";

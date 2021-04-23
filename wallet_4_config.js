@@ -1,1 +1,1 @@
-var mnemonic = "couch luxury april south double clerk dish tumble mother science equal judge";
+var mnemonic = "gas trap enjoy poet draft involve panel cinnamon weather taste evidence spider";

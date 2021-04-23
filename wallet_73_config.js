@@ -1,1 +1,1 @@
-var mnemonic = "setup village spice client quantum double shock pioneer bullet curtain heart axis";
+var mnemonic = "flight harvest long air gospel trend gauge purchase quote check about detect";

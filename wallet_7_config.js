@@ -1,1 +1,1 @@
-var mnemonic = "number follow venue budget venue icon insane garlic page become mixture magic";
+var mnemonic = "seminar accident zone trick limit bracket edit alone warrior invest mad come";

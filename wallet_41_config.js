@@ -1,1 +1,1 @@
-var mnemonic = "pluck gas agree jealous pretty pause output shrimp banner surge charge fit";
+var mnemonic = "bulb degree gentle bike depth similar ribbon tribe balcony pool buzz era";

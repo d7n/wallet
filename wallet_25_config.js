@@ -1,1 +1,1 @@
-var mnemonic = "flat strong vast hill exact aim local business error type job assault";
+var mnemonic = "birth great artefact boring city trigger funny hockey vapor treat slogan bacon";

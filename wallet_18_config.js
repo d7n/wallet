@@ -1,1 +1,1 @@
-var mnemonic = "custom stone long emotion into advance cook immune question prosper include dove";
+var mnemonic = "snack develop corn grab arctic number inhale cycle father rocket enhance dirt";

@@ -1,1 +1,1 @@
-var mnemonic = "plug body basic spot pen bring bike shallow pet gentle garment audit";
+var mnemonic = "large render model noise brand edit course blast weather ball arch cancel";

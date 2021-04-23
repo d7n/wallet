@@ -1,1 +1,1 @@
-var mnemonic = "insect theme onion virus post common uniform false hand book decorate angry";
+var mnemonic = "steak chat neglect mix round siege eyebrow wrestle magic ridge spend adult";

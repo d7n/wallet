@@ -1,1 +1,1 @@
-var mnemonic = "gadget margin prize blouse tenant lens bacon dinosaur situate toilet shop flat";
+var mnemonic = "deposit orange mixed science monkey spray pact speak more clever topic cheese";

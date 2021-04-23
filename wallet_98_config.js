@@ -1,1 +1,1 @@
-var mnemonic = "write fade wreck second boy coach height host cement loyal poet glove";
+var mnemonic = "result survey host half off visa mobile pulse peace gloom endorse matter";

@@ -1,1 +1,1 @@
-var mnemonic = "piece soon still diagram enlist pitch exercise maximum guitar unfair night order";
+var mnemonic = "trap pipe guess coil general over public funny train opinion alien text";

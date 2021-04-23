@@ -1,1 +1,1 @@
-var mnemonic = "rigid lawn cricket coin shy scatter acquire retreat raccoon notable car canoe";
+var mnemonic = "spell sphere merit engage robust afraid ugly text uncover despair pretty submit";

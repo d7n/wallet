@@ -1,1 +1,1 @@
-var mnemonic = "course quantum scrap hurdle rice grief habit afraid air major original wait";
+var mnemonic = "average truck truth sea payment puzzle artwork machine floor connect sail kit";

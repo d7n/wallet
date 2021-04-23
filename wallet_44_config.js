@@ -1,1 +1,1 @@
-var mnemonic = "like rigid midnight human lazy around rhythm deputy cinnamon into soda blur";
+var mnemonic = "nature east someone kitchen position project arm comic patch lyrics fortune nuclear";

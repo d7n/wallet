@@ -1,1 +1,1 @@
-var mnemonic = "empower primary machine unfold ball shell decline spider client armed bench crack";
+var mnemonic = "banner advice switch dose text rocket canoe amazing toddler fancy chicken theory";

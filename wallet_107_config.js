@@ -1,1 +1,1 @@
-var mnemonic = "palm spike gorilla voice winter lucky pill almost matrix hope exist rebuild";
+var mnemonic = "actual admit oyster library crunch leader multiply brain goose dress matrix clock";

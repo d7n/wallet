@@ -1,1 +1,1 @@
-var mnemonic = "company comic sea renew warrior teach opera south knife nephew brain crush";
+var mnemonic = "siege oxygen mimic area ladder rail test drastic spike you galaxy owner";

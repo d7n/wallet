@@ -1,1 +1,1 @@
-var mnemonic = "picnic chest river spice ice stable venture burger welcome margin orchard identify";
+var mnemonic = "mail drive carry future judge code rain grit increase turtle kingdom only";

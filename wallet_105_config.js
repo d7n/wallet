@@ -1,1 +1,1 @@
-var mnemonic = "hello joke pole grant kingdom exact erosion heavy crucial oval love shift";
+var mnemonic = "wolf vanish black pledge motor capable olympic search delay minor dizzy usage";

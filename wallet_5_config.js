@@ -1,1 +1,1 @@
-var mnemonic = "despair section humble venue seven wild embody relief chapter output skull push";
+var mnemonic = "bean minor balcony learn final lawsuit razor stumble harbor retreat paper pond";

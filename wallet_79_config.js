@@ -1,1 +1,1 @@
-var mnemonic = "faint victory today viable spare spike general chuckle mechanic exist judge gas";
+var mnemonic = "orient jacket rare poem hat umbrella foster club twenty crop fish nose";

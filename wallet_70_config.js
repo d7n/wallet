@@ -1,1 +1,1 @@
-var mnemonic = "follow parent fringe mechanic rack quarter junior claw combine bid little argue";
+var mnemonic = "inner taste delay inquiry large divide plunge grit word category glove exercise";

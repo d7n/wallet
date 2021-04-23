@@ -1,1 +1,1 @@
-var mnemonic = "grief poem ginger bonus disorder surround snake palm human cube sing promote";
+var mnemonic = "shift million congress spell bachelor minimum cool glad tell pact glue wolf";

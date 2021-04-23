@@ -1,1 +1,1 @@
-var mnemonic = "oyster list resemble erode flush pencil topic powder sponsor clay rare exact";
+var mnemonic = "cream weird bottom garden wave hip mandate damp nation energy dry sustain";

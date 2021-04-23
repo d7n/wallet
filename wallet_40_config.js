@@ -1,1 +1,1 @@
-var mnemonic = "height family enough sunset client tool riot throw roast large noble point";
+var mnemonic = "dumb jump item bleak village recipe alter weird caution couple win list";

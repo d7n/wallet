@@ -1,1 +1,1 @@
-var mnemonic = "zebra barely pledge bless learn bacon client swim exit saddle permit charge";
+var mnemonic = "pause setup desert nature coast more close erupt inherit course renew trigger";

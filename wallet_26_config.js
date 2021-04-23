@@ -1,1 +1,1 @@
-var mnemonic = "blast ticket stool project silent okay clever winner devote happy detail cricket";
+var mnemonic = "fold have first rival bunker correct what truth mule sketch bundle sausage";

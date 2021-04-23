@@ -1,1 +1,1 @@
-var mnemonic = "record blur palm celery maple need february way fit robot science tide";
+var mnemonic = "hard surface drink cushion payment owner repair news science bus talk number";

@@ -1,1 +1,1 @@
-var mnemonic = "certain toward harbor spot home fine tissue major corn feature consider disorder";
+var mnemonic = "aisle few final print quality shove party pudding oxygen file blur any";

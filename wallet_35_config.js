@@ -1,1 +1,1 @@
-var mnemonic = "blanket cherry omit uphold clap merit vendor endorse plastic hint type matrix";
+var mnemonic = "happy length kitten level usage bind woman lunch arrow dust fox culture";

@@ -1,1 +1,1 @@
-var mnemonic = "cheese physical mother blood welcome split tortoise range cycle permit permit slogan";
+var mnemonic = "still exhaust museum text mouse jump frost chalk sphere cherry salon addict";

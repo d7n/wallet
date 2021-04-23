@@ -1,1 +1,1 @@
-var mnemonic = "best bus object blouse bamboo neck matrix cover actress rack business cruise";
+var mnemonic = "truth omit bridge sorry wedding major such hand illegal blade elbow scrap";

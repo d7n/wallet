@@ -1,1 +1,1 @@
-var mnemonic = "solar elbow caution wrong knee boil rotate brother still reunion account claw";
+var mnemonic = "ridge bomb absorb chef unfold pyramid soccer vocal surprise tide raise october";

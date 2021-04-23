@@ -1,1 +1,1 @@
-var mnemonic = "predict giraffe phone carpet model shine breeze broom bubble whisper jungle come";
+var mnemonic = "hour kiss tool arrange addict jar express hotel vivid genre focus fee";

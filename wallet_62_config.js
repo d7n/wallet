@@ -1,1 +1,1 @@
-var mnemonic = "wisdom follow slide spend transfer laugh liberty weapon injury health neck merge";
+var mnemonic = "adjust receive region confirm lunch response purse quantum worth donor absorb city";

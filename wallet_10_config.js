@@ -1,1 +1,1 @@
-var mnemonic = "easy boil jar pride exhibit exit void prosper family uncle option month";
+var mnemonic = "finish drum blind grunt option library express series punch ride great poverty";

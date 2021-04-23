@@ -1,1 +1,1 @@
-var mnemonic = "hospital box rescue candy bitter basic tube degree focus misery rocket drift";
+var mnemonic = "transfer powder laundry path parrot dice cloth uniform life camera wisdom mule";

@@ -1,1 +1,1 @@
-var mnemonic = "model eight suit bulb invite duty elbow peace clock flip flower opinion";
+var mnemonic = "tenant arrest peace survey flag swim crystal bomb you betray foam intact";

@@ -1,1 +1,1 @@
-var mnemonic = "goat city rookie prison talk polar guess pipe under vital twin elbow";
+var mnemonic = "museum cram grace film hobby deal process decline antique globe arrive present";

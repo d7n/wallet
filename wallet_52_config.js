@@ -1,1 +1,1 @@
-var mnemonic = "sing prize flip ketchup merry globe trophy pitch trust shell arena ankle";
+var mnemonic = "castle snow slab day field true stove battle front elephant tobacco car";

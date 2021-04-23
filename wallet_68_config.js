@@ -1,1 +1,1 @@
-var mnemonic = "amount close hair paddle hole jump evoke various lazy fall chase merit";
+var mnemonic = "neutral duck aim sleep animal grass clutch zone merge crumble little figure";

@@ -1,1 +1,1 @@
-var mnemonic = "alien travel senior resource focus bless burger fringe glide beach visa balance";
+var mnemonic = "action teach trim topple exit earth vocal aspect earth scare solve example";

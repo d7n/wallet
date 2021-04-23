@@ -1,1 +1,1 @@
-var mnemonic = "crazy dash economy jazz anxiety addict surge warrior gentle reject canal good";
+var mnemonic = "arctic silent delay crystal table market wild vacant armed space silver peace";

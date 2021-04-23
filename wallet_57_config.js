@@ -1,1 +1,1 @@
-var mnemonic = "frequent symptom urban allow enroll urge echo legend easy rebuild limit nuclear";
+var mnemonic = "narrow manage ribbon peasant focus ozone inherit smile offer summer whale wagon";

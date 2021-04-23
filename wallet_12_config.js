@@ -1,1 +1,1 @@
-var mnemonic = "capable disease mixture toe must live monitor fruit tomato child athlete excite";
+var mnemonic = "slow employ tooth end circle soup alien glue lamp blossom priority wedding";

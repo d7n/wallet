@@ -1,1 +1,1 @@
-var mnemonic = "forest stage upon subject again renew reveal claim oven amazing grape outdoor";
+var mnemonic = "million almost isolate pet angle decade able behave hunt laundry web tilt";

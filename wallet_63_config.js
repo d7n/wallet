@@ -1,1 +1,1 @@
-var mnemonic = "agent real empty what little disease oxygen negative world donate sad always";
+var mnemonic = "cable way horse curious excess real evil february second that between time";

@@ -1,1 +1,1 @@
-var mnemonic = "oven planet crazy unlock sniff buffalo bulk lazy long jar senior few";
+var mnemonic = "eager uphold future more boost child patch reveal odor leisure chimney garment";

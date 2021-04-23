@@ -1,1 +1,1 @@
-var mnemonic = "melody hello conduct cream proud myself flight foot pave lab document garment";
+var mnemonic = "toy frozen blouse dash capital depth city extra point reflect evil settle";

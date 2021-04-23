@@ -1,1 +1,1 @@
-var mnemonic = "wool city idle unknown act health arena zone thing august impulse pledge";
+var mnemonic = "bag boost few shrimp shoot weekend into bid into patient raise dry";

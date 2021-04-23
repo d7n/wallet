@@ -1,1 +1,1 @@
-var mnemonic = "three slice garage able series repair pelican life add resource return cover";
+var mnemonic = "web copper twin piece traffic property lemon noodle lift pause luggage camera";

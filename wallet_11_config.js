@@ -1,1 +1,1 @@
-var mnemonic = "suffer travel warfare thank embark umbrella during online detect rifle fashion rookie";
+var mnemonic = "until detect cabin seek bracket note ask rain wall session bargain know";

@@ -1,1 +1,1 @@
-var mnemonic = "bicycle lamp resource motion blame bulk also canvas pottery sugar puzzle security";
+var mnemonic = "squeeze mail orbit input toast leisure scene just wreck surround ivory silent";

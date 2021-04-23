@@ -1,1 +1,1 @@
-var mnemonic = "betray word hazard ill blade vacuum mirror topic race food spoil shuffle";
+var mnemonic = "angle unlock just mean enroll range hotel shed whale treat artefact tuna";

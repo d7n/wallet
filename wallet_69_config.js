@@ -1,1 +1,1 @@
-var mnemonic = "like animal royal sudden crumble sphere cloth nurse soon absorb bone timber";
+var mnemonic = "window toward stable genius thank level inner pair clown lock estate beauty";

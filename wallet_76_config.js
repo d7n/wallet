@@ -1,1 +1,1 @@
-var mnemonic = "evolve balance oyster hedgehog stairs visual check stable direct pupil vicious either";
+var mnemonic = "funny another abstract cover gossip cram beauty cup error simple wrong warfare";

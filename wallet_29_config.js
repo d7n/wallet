@@ -1,1 +1,1 @@
-var mnemonic = "come issue staff must undo refuse stamp impulse water bread exhaust across";
+var mnemonic = "vacant lake chief grass school girl fat axis harbor fun rapid else";

@@ -1,1 +1,1 @@
-var mnemonic = "someone canyon velvet owner unique boring equip message hungry achieve kitchen comic";
+var mnemonic = "scale race luxury wrap sun exhaust oil glove solar twin addict quantum";

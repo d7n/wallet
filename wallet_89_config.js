@@ -1,1 +1,1 @@
-var mnemonic = "april resist help injury wild front ask deny mix quick school sadness";
+var mnemonic = "outer multiply spider life injury prize chicken business glide price uncle wall";

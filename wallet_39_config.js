@@ -1,1 +1,1 @@
-var mnemonic = "since ethics edit hockey idea onion require mosquito sign tragic custom act";
+var mnemonic = "select income dismiss hire rally reflect situate clap skull task used cake";

@@ -1,1 +1,1 @@
-var mnemonic = "reopen similar glass about pass hub sign say common lava clinic illegal";
+var mnemonic = "taste mirror foster card wreck damage skull present unique myth elite health";

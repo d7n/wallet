@@ -1,1 +1,1 @@
-var mnemonic = "install measure own they puzzle very account lounge face credit mutual outside";
+var mnemonic = "skirt mix salad document prefer position envelope evidence limb absorb snack ostrich";

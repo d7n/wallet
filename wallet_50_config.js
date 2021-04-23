@@ -1,1 +1,1 @@
-var mnemonic = "biology assume biology program goat almost balance push hold fatigue unveil face";
+var mnemonic = "frog ensure wisdom drum inflict gift amount caught vanish ticket awake drama";
