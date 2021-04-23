@@ -1,1 +1,1 @@
-var mnemonic = "bitter mandate wide moon marine rude large clerk tag sick between error";
+var mnemonic = "clinic remove cereal civil void frog approve tuition jewel affair embody differ";

@@ -1,1 +1,1 @@
-var mnemonic = "cupboard surge someone enlist pass protect certain never power way cram glory";
+var mnemonic = "duck husband address scene humor north regular crew frown enter expire sting";

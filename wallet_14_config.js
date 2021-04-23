@@ -1,1 +1,1 @@
-var mnemonic = "sound tank forget zero finger crater upon strike mistake sense sail age";
+var mnemonic = "bless urban extend cry suffer expect sweet marine faint wet loan misery";

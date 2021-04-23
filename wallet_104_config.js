@@ -1,1 +1,1 @@
-var mnemonic = "point stomach until vibrant spell piano cave surface razor weasel decrease foot";
+var mnemonic = "leaf sentence beef fluid fly rescue palm fantasy left sniff position various";

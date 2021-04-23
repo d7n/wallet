@@ -1,1 +1,1 @@
-var mnemonic = "photo slam worry donor matrix turkey tortoise explain jealous scorpion fork agent";
+var mnemonic = "saddle sound pretty rib output wrong stay cotton decline tired pen cabbage";

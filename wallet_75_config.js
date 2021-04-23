@@ -1,1 +1,1 @@
-var mnemonic = "degree goddess much soft dawn palace wet polar risk ripple stock junk";
+var mnemonic = "mind sample hero then stove clog note response pupil turtle issue endless";

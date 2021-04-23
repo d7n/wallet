@@ -1,1 +1,1 @@
-var mnemonic = "kiss maximum celery glare domain market online syrup company drama vibrant cereal";
+var mnemonic = "crowd limit head taxi twenty shine snake hawk boost miss open source";

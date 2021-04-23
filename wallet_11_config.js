@@ -1,1 +1,1 @@
-var mnemonic = "bacon ladder consider eternal bike tongue audit reject illegal admit world chunk";
+var mnemonic = "that chapter thought weird where laptop very cheese unfold success vehicle local";

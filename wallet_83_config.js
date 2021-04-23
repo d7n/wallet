@@ -1,1 +1,1 @@
-var mnemonic = "fortune witness flower chief track initial lounge eager crisp upon accident immense";
+var mnemonic = "excess first brush domain trend bench feel bless monitor dilemma catch small";

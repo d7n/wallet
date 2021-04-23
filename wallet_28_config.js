@@ -1,1 +1,1 @@
-var mnemonic = "burger stove crawl bag accident depart fluid trust inner post catch quick";
+var mnemonic = "friend seven vast crystal guilt add accident denial void wing better arrive";

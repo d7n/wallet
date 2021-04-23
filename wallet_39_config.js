@@ -1,1 +1,1 @@
-var mnemonic = "trumpet like traffic reject wheat exile fiction lumber ranch piano hobby flee";
+var mnemonic = "circle educate humble abuse inhale maximum law dirt empower amount dust aunt";

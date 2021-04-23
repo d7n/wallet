@@ -1,1 +1,1 @@
-var mnemonic = "seed glue exile off razor bitter domain record lizard boil manual curve";
+var mnemonic = "lock snap used entry venture night sugar swap move amount radar huge";

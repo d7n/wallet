@@ -1,1 +1,1 @@
-var mnemonic = "around transfer primary traffic faith puzzle buddy bright across west fault spread";
+var mnemonic = "enhance phrase abandon mimic raccoon voyage afford day space bar essence knee";

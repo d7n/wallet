@@ -1,1 +1,1 @@
-var mnemonic = "exist dune brown endless inherit result rare tonight kingdom junk ten loud";
+var mnemonic = "bunker corn dirt memory industry zebra practice foot person glue simple dolphin";

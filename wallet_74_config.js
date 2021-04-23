@@ -1,1 +1,1 @@
-var mnemonic = "vanish barrel name fee cluster bridge tourist under report occur can affair";
+var mnemonic = "present fury minute year fish antique chest shoulder heart surround mother sleep";

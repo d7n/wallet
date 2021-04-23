@@ -1,1 +1,1 @@
-var mnemonic = "path wrist fuel surge cherry firm save garage hood toe tenant raven";
+var mnemonic = "catalog weird sail island story arch decrease govern spy isolate believe almost";

@@ -1,1 +1,1 @@
-var mnemonic = "mutual ticket fabric cook alarm rural aisle dice unveil keen venue can";
+var mnemonic = "bottom skill someone canal subject ladder crawl that view impose shadow spare";

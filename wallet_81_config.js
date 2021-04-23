@@ -1,1 +1,1 @@
-var mnemonic = "crater argue avocado bus pull blouse team company lounge spoon fever wage";
+var mnemonic = "muscle hand stand fiscal interest valley tenant exact celery modify airport claim";

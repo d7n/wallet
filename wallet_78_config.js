@@ -1,1 +1,1 @@
-var mnemonic = "ocean cannon organ walk spike flush melody naive talk vacant this oak";
+var mnemonic = "pink replace surface grow immense travel loyal across bubble core future ordinary";

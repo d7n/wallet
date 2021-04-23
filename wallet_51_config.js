@@ -1,1 +1,1 @@
-var mnemonic = "marriage token ridge cook tattoo major destroy ugly six own slice you";
+var mnemonic = "slot fatal drama dash fresh slice connect tribe february present walk ship";

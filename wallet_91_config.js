@@ -1,1 +1,1 @@
-var mnemonic = "keen similar thrive gallery grace reopen indoor fold goddess give drama unfair";
+var mnemonic = "fork february ceiling file twenty year doctor crucial garden color scrap water";

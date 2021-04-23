@@ -1,1 +1,1 @@
-var mnemonic = "artist flee possible online dolphin flip agree fruit easy sadness crush describe";
+var mnemonic = "wisdom flavor shrug alert bubble unaware normal traffic claw ecology duck lecture";

@@ -1,1 +1,1 @@
-var mnemonic = "title upper ill dentist dentist buffalo liquid brief mixture click sea solve";
+var mnemonic = "refuse swear always segment caution hood faint culture noble gym luggage dog";

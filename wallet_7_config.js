@@ -1,1 +1,1 @@
-var mnemonic = "cereal host sock farm segment sing online two cave tennis round cereal";
+var mnemonic = "man dumb tuna credit family knock pitch fossil doll else face luxury";

@@ -1,1 +1,1 @@
-var mnemonic = "powder moment shrimp wrap charge popular knife praise travel increase connect orange";
+var mnemonic = "mom slogan arena orphan atom hammer notice leader scorpion patient remember claw";

@@ -1,1 +1,1 @@
-var mnemonic = "veteran problem ripple neck crystal knee clarify patrol various near clinic price";
+var mnemonic = "cake uniform palace old electric photo define front scout pear notable defense";

@@ -1,1 +1,1 @@
-var mnemonic = "prepare panel romance wedding fan expand expand ecology enemy interest table tuna";
+var mnemonic = "increase actual cliff struggle little rookie practice lumber possible gown enact boat";

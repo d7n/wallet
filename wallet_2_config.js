@@ -1,1 +1,1 @@
-var mnemonic = "thrive hand crane caution small gadget solve element below select spell item";
+var mnemonic = "oxygen spawn blue moon steel boil torch churn ability camp boost coconut";

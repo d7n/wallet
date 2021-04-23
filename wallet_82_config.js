@@ -1,1 +1,1 @@
-var mnemonic = "section unknown shoe kid patch ridge unaware under citizen text notable hotel";
+var mnemonic = "people frost early cute donkey hope text okay pencil pet actual maple";

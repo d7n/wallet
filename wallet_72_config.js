@@ -1,1 +1,1 @@
-var mnemonic = "topic labor check funny embark front memory viable agree slender inch choose";
+var mnemonic = "cycle loyal hospital decline spawn anger language give noise earth key alien";

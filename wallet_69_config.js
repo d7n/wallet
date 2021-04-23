@@ -1,1 +1,1 @@
-var mnemonic = "work mean clay custom vote remain bitter broken purity whale shiver clinic";
+var mnemonic = "inform oil slush neglect move lobster push filter dry unusual announce rare";

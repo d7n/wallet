@@ -1,1 +1,1 @@
-var mnemonic = "differ world drip quit piano people trigger kick hire math aisle industry";
+var mnemonic = "twist photo predict monitor cattle moment exist napkin weird roast milk candy";

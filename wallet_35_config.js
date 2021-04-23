@@ -1,1 +1,1 @@
-var mnemonic = "oxygen muscle grow chest kind prefer rare cruel window tower girl blood";
+var mnemonic = "just penalty foster exchange shoe festival soccer whisper obtain universe gap argue";

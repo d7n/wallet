@@ -1,1 +1,1 @@
-var mnemonic = "source beef weather chat steel supreme ring crop assist choose tattoo air";
+var mnemonic = "palm arrest uncle life search owner laptop sick arm cricket credit know";

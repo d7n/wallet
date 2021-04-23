@@ -1,1 +1,1 @@
-var mnemonic = "lecture fold link tank winner devote stem dress laundry wet company palm";
+var mnemonic = "fog figure ritual bid mutual result auction thumb truly inner timber delay";

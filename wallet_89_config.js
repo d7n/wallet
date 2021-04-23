@@ -1,1 +1,1 @@
-var mnemonic = "journey faculty dinosaur level cushion edge stereo ball help melt river task";
+var mnemonic = "light beef net also gaze course bundle ramp breeze risk churn ozone";

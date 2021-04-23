@@ -1,1 +1,1 @@
-var mnemonic = "green easy canyon gun execute enemy reason guilt exclude boost dust imitate";
+var mnemonic = "sense across mule miracle cluster shine hair detail square antique merit peanut";

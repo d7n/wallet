@@ -1,1 +1,1 @@
-var mnemonic = "item home rubber slim mother bottom kingdom caught actress milk empower basket";
+var mnemonic = "dog hat naive vicious once lizard sadness bless inform inject army life";

@@ -1,1 +1,1 @@
-var mnemonic = "diet fun trash evil rescue nurse arena welcome shoulder orange captain kind";
+var mnemonic = "toss sweet hair collect raven stay immune course trim chunk orbit stool";

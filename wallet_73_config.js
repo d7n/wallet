@@ -1,1 +1,1 @@
-var mnemonic = "skull original intact shell shuffle disease boss physical annual tunnel zoo sunset";
+var mnemonic = "sphere rate fence evoke emerge slot arrest ribbon unhappy clown style copper";

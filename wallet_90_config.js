@@ -1,1 +1,1 @@
-var mnemonic = "decorate tattoo lady blast dog air company clutch number code blanket ticket";
+var mnemonic = "negative link seven lawn luxury pattern whale fury chunk wagon vibrant fever";

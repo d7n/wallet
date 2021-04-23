@@ -1,1 +1,1 @@
-var mnemonic = "iron police clutch onion nominee smart travel top inhale exhibit alone plunge";
+var mnemonic = "train make giggle abstract melt enlist black blouse sock beauty obtain deliver";

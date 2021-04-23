@@ -1,1 +1,1 @@
-var mnemonic = "decorate peanut seminar student funny off urge foam virus pair stem pill";
+var mnemonic = "swallow side ordinary sense art obvious lonely shove receive tape tilt deny";

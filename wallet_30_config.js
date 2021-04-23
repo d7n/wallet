@@ -1,1 +1,1 @@
-var mnemonic = "between skirt robust during crop miss method primary hamster version crew power";
+var mnemonic = "below invite danger height frozen pioneer range humble indicate ski globe catch";

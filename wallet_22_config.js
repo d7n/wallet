@@ -1,1 +1,1 @@
-var mnemonic = "shiver slam portion outside unable amateur start cradle same egg when celery";
+var mnemonic = "window champion they machine garage loud brick bike gas someone reopen dance";

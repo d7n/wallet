@@ -1,1 +1,1 @@
-var mnemonic = "nothing manual adult noodle monkey fox gap jazz ketchup ivory home engage";
+var mnemonic = "claw hole diary spider party scale hat prevent left happy sight horror";

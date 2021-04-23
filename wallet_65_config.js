@@ -1,1 +1,1 @@
-var mnemonic = "alpha toe inquiry rocket review advance toddler enrich skin retreat pause replace";
+var mnemonic = "method ring novel spend suspect bird cover link exile possible observe settle";

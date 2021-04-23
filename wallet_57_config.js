@@ -1,1 +1,1 @@
-var mnemonic = "matter palm volume furnace private raw response maximum clutch despair obscure silver";
+var mnemonic = "grow grace beach engine lion unit clutch purpose sleep across inside glory";

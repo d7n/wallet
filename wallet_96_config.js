@@ -1,1 +1,1 @@
-var mnemonic = "rubber coin board couple tray tongue height depart empty side risk embark";
+var mnemonic = "brass large shoulder team torch kite metal damp bacon original galaxy athlete";

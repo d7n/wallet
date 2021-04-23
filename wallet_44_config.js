@@ -1,1 +1,1 @@
-var mnemonic = "camp burden argue grain fiber loan modify similar hunt tortoise dentist cradle";
+var mnemonic = "power hat sustain foot cliff sorry energy aspect ship exit arena weasel";

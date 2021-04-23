@@ -1,1 +1,1 @@
-var mnemonic = "there make orbit clip adjust midnight shop era similar poet globe behind";
+var mnemonic = "prize useless network scatter rather author awesome ride good sister lyrics style";

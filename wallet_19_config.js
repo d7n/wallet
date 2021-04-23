@@ -1,1 +1,1 @@
-var mnemonic = "record festival doctor alarm pluck right skill badge divorce infant buzz wink";
+var mnemonic = "public subject planet wide bundle pupil pelican wage sound repair swim dust";

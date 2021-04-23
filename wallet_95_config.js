@@ -1,1 +1,1 @@
-var mnemonic = "dentist yard evil entire wife eight sail still device parent wide monitor";
+var mnemonic = "tornado direct erode pretty trend knife draw cherry either ranch fold awful";

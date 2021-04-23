@@ -1,1 +1,1 @@
-var mnemonic = "sentence asthma million knife blur pig border sport image clog tiny lens";
+var mnemonic = "pave spend scorpion noodle draw gasp author exhibit width couch call merry";

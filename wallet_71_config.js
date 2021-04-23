@@ -1,1 +1,1 @@
-var mnemonic = "census once disease coast solution family switch rate lady coral bulk axis";
+var mnemonic = "trick giant copper arena miracle initial net wheat prize hover tackle blur";

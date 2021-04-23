@@ -1,1 +1,1 @@
-var mnemonic = "lava frog law scale model where arrow mushroom maid test account cram";
+var mnemonic = "pair toddler expand flame disease angle cat ozone knock pluck engage wire";

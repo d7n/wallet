@@ -1,1 +1,1 @@
-var mnemonic = "permit picnic upgrade absurd dwarf peasant beach adjust guilt thought before renew";
+var mnemonic = "quality clerk begin clown glove marine wreck avoid foot goddess possible sample";

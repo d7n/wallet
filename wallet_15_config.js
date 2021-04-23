@@ -1,1 +1,1 @@
-var mnemonic = "vague manage metal damage strike employ project orient olympic tortoise quality draw";
+var mnemonic = "typical female buddy dune math twin cherry clap humble fossil test group";

@@ -1,1 +1,1 @@
-var mnemonic = "equip interest mass panther park where chalk solar special first exclude like";
+var mnemonic = "poet pull dirt coral diet pattern boss grape skate damage dutch sponsor";

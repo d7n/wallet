@@ -1,1 +1,1 @@
-var mnemonic = "dog bring any hedgehog smoke mean twice radar cook clump tomato flame";
+var mnemonic = "trigger fall over tank patch churn ankle gauge toe height actress garden";

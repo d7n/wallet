@@ -1,1 +1,1 @@
-var mnemonic = "inch whisper almost upgrade choice concert guard forest anchor coast broken prefer";
+var mnemonic = "birth scatter crash flock dust use post tourist index misery defy mind";

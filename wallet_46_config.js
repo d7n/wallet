@@ -1,1 +1,1 @@
-var mnemonic = "stand cable begin flat great ill try fine position giant plate primary";
+var mnemonic = "develop ivory crater festival tray credit right analyst tank field february affair";

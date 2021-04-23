@@ -1,1 +1,1 @@
-var mnemonic = "guess enjoy pepper length fortune more piece vehicle divert brand snap sure";
+var mnemonic = "come hungry space bitter vital tray blood matrix volcano quiz trim february";

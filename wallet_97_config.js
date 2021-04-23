@@ -1,1 +1,1 @@
-var mnemonic = "diagram tiger rack album display drop toddler violin battle youth sing stomach";
+var mnemonic = "divorce upset entry volume emotion core expose box mom lens desert foot";

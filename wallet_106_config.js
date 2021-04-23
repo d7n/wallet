@@ -1,1 +1,1 @@
-var mnemonic = "tortoise wonder soccer bring immune ridge advice library erase wealth table wrist";
+var mnemonic = "state curious horror math puppy opinion unique dial miracle sell clip explain";

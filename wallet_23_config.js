@@ -1,1 +1,1 @@
-var mnemonic = "story space shift upper point rough height zebra ticket gossip loop creek";
+var mnemonic = "height decrease purpose rally legal virtual oyster habit pride regret safe mask";

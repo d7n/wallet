@@ -1,1 +1,1 @@
-var mnemonic = "flash own diamond discover axis nurse file asset borrow affair illness camp";
+var mnemonic = "airport zebra regular domain alert test marriage stove wrestle pitch virtual true";

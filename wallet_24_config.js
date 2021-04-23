@@ -1,1 +1,1 @@
-var mnemonic = "recall spend belt tide draft opinion dignity task undo step blush salute";
+var mnemonic = "umbrella tree ensure skate mesh under song gown poem romance impact borrow";

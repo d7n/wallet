@@ -1,1 +1,1 @@
-var mnemonic = "indoor wrestle shrug orbit goddess soft there manage check congress measure limit";
+var mnemonic = "produce fog detail maze trial match parrot rigid trumpet possible holiday athlete";

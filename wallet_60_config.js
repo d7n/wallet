@@ -1,1 +1,1 @@
-var mnemonic = "sadness sail fluid argue shrimp guard few supreme shed crawl parent cancel";
+var mnemonic = "rebel latin argue pudding pipe bronze vessel upgrade invite ivory recall witness";

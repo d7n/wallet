@@ -1,1 +1,1 @@
-var mnemonic = "glimpse envelope blast patient solar away family logic practice add camera lyrics";
+var mnemonic = "giant tuition axis bleak cat sudden blame auction trial brain clerk real";

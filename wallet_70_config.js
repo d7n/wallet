@@ -1,1 +1,1 @@
-var mnemonic = "hen glide pole enable friend flame polar chimney become behind tool wear";
+var mnemonic = "cause quality between draw until that dumb clock economy tornado cat dirt";

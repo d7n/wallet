@@ -1,1 +1,1 @@
-var mnemonic = "now special unknown few clinic lava reform leader reveal empty enroll balance";
+var mnemonic = "art frost few check smooth field image hand eagle pole aunt brush";

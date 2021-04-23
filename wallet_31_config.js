@@ -1,1 +1,1 @@
-var mnemonic = "feel sibling cool load pepper alley force worth excuse close lunar symbol";
+var mnemonic = "become bring creek globe east rude never congress relax relax frost wing";

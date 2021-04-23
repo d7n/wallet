@@ -1,1 +1,1 @@
-var mnemonic = "across blood chair light help please leopard dose wage hunt poet rabbit";
+var mnemonic = "illness position object grass document town sniff tuition sad useless sail indicate";

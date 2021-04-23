@@ -1,1 +1,1 @@
-var mnemonic = "mixture wash section frozen achieve ramp tongue picture vault object coffee hero";
+var mnemonic = "accuse speak cute spice tell buffalo health clip depth crew snow glimpse";

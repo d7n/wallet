@@ -1,1 +1,1 @@
-var mnemonic = "degree supply supply total occur glance foster uncle symbol arrange flock accident";
+var mnemonic = "toy gym juice angle lemon day clarify unfold convince mechanic strike crash";

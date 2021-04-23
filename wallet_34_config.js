@@ -1,1 +1,1 @@
-var mnemonic = "right feature village hen common innocent atom filter above auction tilt yellow";
+var mnemonic = "nice carbon waste couple ability barely zone chase palace abuse rubber treat";

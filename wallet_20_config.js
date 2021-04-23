@@ -1,1 +1,1 @@
-var mnemonic = "label pudding carpet protect clog buffalo lesson mother sing scrap balcony sorry";
+var mnemonic = "chapter because dumb find cloud north dry remove nasty filter purchase scout";
