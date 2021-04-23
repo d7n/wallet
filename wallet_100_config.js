@@ -1,1 +1,1 @@
-var mnemonic = "bleak wrong reform oil coconut where shrimp drift price sun mobile earth";
+var mnemonic = "copper tooth awkward height car deer mandate topple squirrel pudding curve soap";

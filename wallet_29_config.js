@@ -1,1 +1,1 @@
-var mnemonic = "drama away foam dish next wink remove display stage cushion prison tribe";
+var mnemonic = "season almost equip certain combine yellow essay pumpkin decline absent that calm";

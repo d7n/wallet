@@ -1,1 +1,1 @@
-var mnemonic = "basket arrive captain then plug deny anchor glimpse pride dash noise wall";
+var mnemonic = "burden obvious wheel debris sauce tobacco now gate cave awake sock scheme";

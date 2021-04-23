@@ -1,1 +1,1 @@
-var mnemonic = "where ill bleak idle task weird normal february parrot guilt claw absurd";
+var mnemonic = "cook squirrel rely segment crunch copper royal spring tourist eager garment load";

@@ -1,1 +1,1 @@
-var mnemonic = "mother bottom fat zoo lunar twenty prepare level question lucky bean supply";
+var mnemonic = "hair lunar snow like husband design matrix student skill riot faculty pottery";

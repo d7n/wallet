@@ -1,1 +1,1 @@
-var mnemonic = "hard off punch next outside twenty fee wash rigid ceiling source music";
+var mnemonic = "alarm unable beyond visual buzz dream glance false venture robust capital disagree";

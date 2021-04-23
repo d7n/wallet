@@ -1,1 +1,1 @@
-var mnemonic = "away enlist fortune utility rebel suit casual finish mystery awkward cereal leave";
+var mnemonic = "cherry amount post surround battle expand job accuse match view issue electric";

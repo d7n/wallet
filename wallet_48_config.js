@@ -1,1 +1,1 @@
-var mnemonic = "salad write alien alien unable teach side main sing female innocent muscle";
+var mnemonic = "net repair wave spray project wear zero elegant can candy basket eternal";

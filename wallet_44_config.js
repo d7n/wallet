@@ -1,1 +1,1 @@
-var mnemonic = "fiber rib verify high party doctor idle cycle muffin prosper secret color";
+var mnemonic = "remove bless marble rhythm armed brain favorite tornado obtain melody limb fabric";

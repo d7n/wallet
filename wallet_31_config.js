@@ -1,1 +1,1 @@
-var mnemonic = "merge always citizen brass beyond liberty auction flavor style coast rug wine";
+var mnemonic = "pen cruise during boring antenna dawn only potato cover glimpse today result";

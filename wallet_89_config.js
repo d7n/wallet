@@ -1,1 +1,1 @@
-var mnemonic = "jar snack bronze length elevator monster guilt stereo arrive title host family";
+var mnemonic = "cry firm member chunk alley decide midnight mirror piano leisure describe cycle";

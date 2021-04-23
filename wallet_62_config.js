@@ -1,1 +1,1 @@
-var mnemonic = "mercy small news idea trip leisure winter mechanic few excess infant annual";
+var mnemonic = "grunt unaware bus message verb circle remove crash seek depart audit dutch";

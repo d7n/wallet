@@ -1,1 +1,1 @@
-var mnemonic = "swim cash slush stable strike chest trap slow coyote muscle when token";
+var mnemonic = "sight rug latin army lamp all foam horn risk cream hand response";

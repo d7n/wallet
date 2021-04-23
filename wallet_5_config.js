@@ -1,1 +1,1 @@
-var mnemonic = "produce high sweet aim story infant jealous ensure daughter pill hunt crew";
+var mnemonic = "ignore luxury aunt slam fluid bracket honey despair practice drama cook piano";

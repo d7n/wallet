@@ -1,1 +1,1 @@
-var mnemonic = "viable cause horse cram nominee until radar panda chunk dragon tortoise loan";
+var mnemonic = "service obvious dose edit mandate city spy feature pen skate discover choose";

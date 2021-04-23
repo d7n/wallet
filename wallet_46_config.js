@@ -1,1 +1,1 @@
-var mnemonic = "gloom moon swallow remain finger cabin manage champion food author burden hunt";
+var mnemonic = "risk harvest captain release special lunar dial yard image vendor source outside";

@@ -1,1 +1,1 @@
-var mnemonic = "color purchase suit dumb buddy phone west sock wait canoe tribe style";
+var mnemonic = "picnic sword civil grow frost page about hand sting deny organ shy";

@@ -1,1 +1,1 @@
-var mnemonic = "inject twelve street eternal laptop peanut ill fancy green gravity sister close";
+var mnemonic = "ivory valve upper veteran connect chest cotton supreme expire reject soccer prize";

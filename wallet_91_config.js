@@ -1,1 +1,1 @@
-var mnemonic = "finger love mutual exotic fitness face obscure myth spatial soap portion music";
+var mnemonic = "desk what purpose asset town chuckle frown quick detail venue drill tortoise";

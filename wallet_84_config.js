@@ -1,1 +1,1 @@
-var mnemonic = "real ignore film add enroll advance smoke fatal reflect once concert party";
+var mnemonic = "coin supply subway drip gesture under dream advance ordinary october neither pool";

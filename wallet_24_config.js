@@ -1,1 +1,1 @@
-var mnemonic = "receive ride hen waste salon when gate tape vapor honey race design";
+var mnemonic = "silk forest walk arrive salt scale similar cluster olive grocery violin repeat";

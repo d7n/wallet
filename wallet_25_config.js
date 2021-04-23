@@ -1,1 +1,1 @@
-var mnemonic = "evidence dilemma interest act depend pluck bargain spy convince crop impose strategy";
+var mnemonic = "jealous spray grunt essence movie page smoke tide divert phone comic lucky";

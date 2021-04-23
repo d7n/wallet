@@ -1,1 +1,1 @@
-var mnemonic = "thunder thumb wonder myth practice demand describe raccoon tide evolve math proof";
+var mnemonic = "power enter hunt prison immense express ritual east vital color before pizza";

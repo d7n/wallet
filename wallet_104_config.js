@@ -1,1 +1,1 @@
-var mnemonic = "weather prize hurry physical carbon friend soup reduce betray artist arena job";
+var mnemonic = "remove april hill unit mutual horror tomorrow mixed impact agent pyramid inflict";

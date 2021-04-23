@@ -1,1 +1,1 @@
-var mnemonic = "work ghost embark hire fortune differ mind spin second country thing define";
+var mnemonic = "capable glow ribbon spider divorce vacuum tone veteran child smart rain impulse";

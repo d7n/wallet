@@ -1,1 +1,1 @@
-var mnemonic = "kite put fox trip donate range army soon food alter harvest inflict";
+var mnemonic = "knock wheat cry shrimp exhibit someone remember poverty grab shoulder load fire";

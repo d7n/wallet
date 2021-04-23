@@ -1,1 +1,1 @@
-var mnemonic = "slender misery begin abuse crop connect buffalo such wealth rhythm grocery spot";
+var mnemonic = "target gold soccer warrior clock pelican tone marine together unaware rug beef";

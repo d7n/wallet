@@ -1,1 +1,1 @@
-var mnemonic = "help undo green wide advance breeze member critic moral dream account annual";
+var mnemonic = "super style south oppose rich nephew arrow unveil draw laptop gather choice";

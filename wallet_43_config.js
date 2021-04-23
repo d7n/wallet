@@ -1,1 +1,1 @@
-var mnemonic = "begin elevator original cost slam casual old maple child safe satisfy upon";
+var mnemonic = "two fun broken bridge surround cave turkey ability wonder type bubble grit";

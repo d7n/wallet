@@ -1,1 +1,1 @@
-var mnemonic = "upper over leaf fabric fall decide song mule sketch vacuum panda tooth";
+var mnemonic = "debate vacant sample result amateur lonely identify skirt now slam pyramid beauty";

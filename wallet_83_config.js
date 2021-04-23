@@ -1,1 +1,1 @@
-var mnemonic = "garbage brave zone faint live honey degree monster noodle wine hover grocery";
+var mnemonic = "convince maple check horse lonely home film auto daring aware loop retreat";

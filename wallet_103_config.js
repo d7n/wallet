@@ -1,1 +1,1 @@
-var mnemonic = "rack start battle venue zero click shy prize snack seminar away actress";
+var mnemonic = "ordinary garment job matter tonight height hire stool arrest crack all ski";

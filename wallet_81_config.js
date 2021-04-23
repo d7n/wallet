@@ -1,1 +1,1 @@
-var mnemonic = "rally fetch machine mention snap produce rent swim weapon major drink insect";
+var mnemonic = "have rain biology viable mammal umbrella jar sand vacant story grape enlist";

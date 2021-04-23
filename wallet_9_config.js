@@ -1,1 +1,1 @@
-var mnemonic = "special endless fever key judge federal parade dress coil system genius tool";
+var mnemonic = "bullet license broccoli cushion used subway annual flight question scorpion master hazard";

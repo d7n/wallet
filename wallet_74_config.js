@@ -1,1 +1,1 @@
-var mnemonic = "sniff round canal receive leg palace crawl giant drama volume wealth swarm";
+var mnemonic = "okay famous vacant parrot ivory express crunch this laptop bounce dune museum";

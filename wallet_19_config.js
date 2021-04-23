@@ -1,1 +1,1 @@
-var mnemonic = "also client essence fury admit use drop famous almost target youth example";
+var mnemonic = "fashion tube grape explain employ quarter forget chuckle person clerk dutch decorate";

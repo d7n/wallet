@@ -1,1 +1,1 @@
-var mnemonic = "twist chest motion service owner case soap bunker sunset snack crawl nephew";
+var mnemonic = "bless oak unique wink nice alpha virtual poverty clean inmate cute stock";

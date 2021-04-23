@@ -1,1 +1,1 @@
-var mnemonic = "zoo debris nothing away sadness battle shine stand flat chaos vintage inside";
+var mnemonic = "lyrics grass blood survey medal rare tattoo slab sample tired seat tomorrow";

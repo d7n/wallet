@@ -1,1 +1,1 @@
-var mnemonic = "science page secret wish punch weasel brain gorilla inner stand flavor seven";
+var mnemonic = "suffer cable follow rebel curtain family physical brave motor catch loyal jazz";

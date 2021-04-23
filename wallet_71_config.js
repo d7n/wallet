@@ -1,1 +1,1 @@
-var mnemonic = "pink junior ozone clog exist exclude ride strike solution firm decide panic";
+var mnemonic = "square curious outer churn route monkey improve bid guard gather keep wine";

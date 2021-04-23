@@ -1,1 +1,1 @@
-var mnemonic = "scout high sketch grief ignore prison under body myth champion great begin";
+var mnemonic = "apart ask inherit know mango genuine peanut either resource pottery blur pool";

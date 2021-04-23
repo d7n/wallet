@@ -1,1 +1,1 @@
-var mnemonic = "say amazing jeans sure spell tuna claim bag hen wrong electric monkey";
+var mnemonic = "coyote first still festival smart actress balance crucial discover field pipe friend";

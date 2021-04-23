@@ -1,1 +1,1 @@
-var mnemonic = "verify assault leisure cannon mix two fall scale nominee unfold theme someone";
+var mnemonic = "raccoon proof purity hollow job lion giraffe toward sheriff nut few seven";

@@ -1,1 +1,1 @@
-var mnemonic = "tuition neck joke illegal want wing rally amount biology chalk actress code";
+var mnemonic = "journey lazy race joy clinic ski toddler hand skirt mad blossom drum";

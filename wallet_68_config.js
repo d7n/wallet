@@ -1,1 +1,1 @@
-var mnemonic = "better lab hedgehog nut dune report diagram inspire lemon hedgehog glare quit";
+var mnemonic = "doll submit skill bus three purse around reveal display happy fever rigid";

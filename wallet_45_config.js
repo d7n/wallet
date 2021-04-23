@@ -1,1 +1,1 @@
-var mnemonic = "artefact step bounce coyote pizza lobster merit vault lizard town select sad";
+var mnemonic = "mention dice speed nothing resemble fish worth tree civil gain seat tiny";

@@ -1,1 +1,1 @@
-var mnemonic = "height father weird maple mimic pill pear during debate pluck kitten trophy";
+var mnemonic = "raven educate scout document dance common impulse zone cheese diary burger lazy";

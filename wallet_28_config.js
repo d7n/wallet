@@ -1,1 +1,1 @@
-var mnemonic = "lecture donkey husband undo vehicle family sea ski dress chase ankle shy";
+var mnemonic = "design swing east ice glare patch treat panther wire aspect liberty panel";

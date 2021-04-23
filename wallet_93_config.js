@@ -1,1 +1,1 @@
-var mnemonic = "federal test wasp middle sample obey dentist fame canvas idea vessel bus";
+var mnemonic = "garden depth diet hill sell mass jungle shock smooth muscle gloom choose";

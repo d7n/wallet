@@ -1,1 +1,1 @@
-var mnemonic = "oyster intact vanish couch rebuild school family toast auction excite direct globe";
+var mnemonic = "enjoy tackle route like orange notice bridge shallow hold error rare timber";

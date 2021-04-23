@@ -1,1 +1,1 @@
-var mnemonic = "mistake unhappy coconut tower army wash coach valve similar warrior era bicycle";
+var mnemonic = "tomorrow boil run mind tray opera raccoon cushion shoot cheese evoke wise";

@@ -1,1 +1,1 @@
-var mnemonic = "lemon hundred ask mouse reform champion field timber sunset capable oak hair";
+var mnemonic = "cart insane remove void saddle assault ski jacket addict current actress upgrade";

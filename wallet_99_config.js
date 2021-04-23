@@ -1,1 +1,1 @@
-var mnemonic = "useful brave guess february mobile enrich flash banner rare fever anxiety food";
+var mnemonic = "cup weird there bind onion final possible input maze filter rapid dust";

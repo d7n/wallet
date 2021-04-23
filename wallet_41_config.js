@@ -1,1 +1,1 @@
-var mnemonic = "access risk essay canyon dish vessel initial major skate double slice capital";
+var mnemonic = "sleep ocean rebel orange cool father dwarf rather already mom sister bounce";

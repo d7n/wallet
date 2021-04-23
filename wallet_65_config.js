@@ -1,1 +1,1 @@
-var mnemonic = "acid barrel device transfer immune recycle hour assist nasty radio tell fresh";
+var mnemonic = "develop arrive tunnel glad tooth execute main urban better glad math various";

@@ -1,1 +1,1 @@
-var mnemonic = "hint fork satoshi steel sound crush pupil acoustic talent dress physical service";
+var mnemonic = "tackle imitate vanish chat real lift display shop mix bench mirror morning";

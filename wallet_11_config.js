@@ -1,1 +1,1 @@
-var mnemonic = "cross upgrade issue crunch error quarter clock found horror gorilla loan lecture";
+var mnemonic = "render fold stomach nest barrel scrap syrup pill mask stadium actor crumble";

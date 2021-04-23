@@ -1,1 +1,1 @@
-var mnemonic = "hand result divide any sibling shift exchange mango amount minute track belt";
+var mnemonic = "balance solid surprise leg refuse will member yard entry tunnel jar undo";

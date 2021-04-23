@@ -1,1 +1,1 @@
-var mnemonic = "relax hobby skill file elite gossip weather noise refuse seven found acoustic";
+var mnemonic = "scheme jewel weird water slam guard left reduce ski layer satisfy where";

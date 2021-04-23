@@ -1,1 +1,1 @@
-var mnemonic = "reflect kick subject hint weekend shallow connect surge spare series reason lady";
+var mnemonic = "describe hover camp calm human balcony casual cute walnut timber dwarf hotel";

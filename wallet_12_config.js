@@ -1,1 +1,1 @@
-var mnemonic = "solve foster defy faculty artwork obscure stuff umbrella enter belt gift must";
+var mnemonic = "behind pause truck powder whip around organ crack innocent lonely round diamond";

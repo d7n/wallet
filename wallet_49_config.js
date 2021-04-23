@@ -1,1 +1,1 @@
-var mnemonic = "car near can trim damage coin ten parade pistol egg tower rather";
+var mnemonic = "drop poverty badge bind east search guilt filter element reopen action inspire";

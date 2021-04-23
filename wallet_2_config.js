@@ -1,1 +1,1 @@
-var mnemonic = "valve meadow erupt grid half save link embark physical usage enable slogan";
+var mnemonic = "gospel suspect have shift isolate rural decide human such used creek behave";

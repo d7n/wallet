@@ -1,1 +1,1 @@
-var mnemonic = "coach eye boil puzzle flush version accuse north sheriff era copy lock";
+var mnemonic = "safe album rely brown load absurd aunt silver second traffic kite sleep";

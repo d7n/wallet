@@ -1,1 +1,1 @@
-var mnemonic = "witness parade analyst giggle arena monkey hood audit swap snake manage three";
+var mnemonic = "core pigeon winter risk suggest pupil erode home know identify clap program";

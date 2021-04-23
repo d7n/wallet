@@ -1,1 +1,1 @@
-var mnemonic = "vendor harvest spirit muscle planet hazard suit size song bamboo segment wheat";
+var mnemonic = "series buyer cycle fetch blame sell jealous bulb grace loan deny pistol";

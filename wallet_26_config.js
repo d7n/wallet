@@ -1,1 +1,1 @@
-var mnemonic = "broken gun lamp amazing aunt car give obey practice letter race tunnel";
+var mnemonic = "price together blade citizen drip chunk entry obey maid mechanic bonus oblige";

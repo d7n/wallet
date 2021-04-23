@@ -1,1 +1,1 @@
-var mnemonic = "senior sponsor acid few pair patient before length noise success nasty walnut";
+var mnemonic = "expand sweet squeeze young leave shift dutch screen slush tribe attend throw";

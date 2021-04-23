@@ -1,1 +1,1 @@
-var mnemonic = "walnut unfold arrive firm inside hood annual possible such lizard truly fault";
+var mnemonic = "wild pipe pizza alpha harbor ladder cargo lobster pipe roof theme engage";

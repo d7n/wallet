@@ -1,1 +1,1 @@
-var mnemonic = "first vote drip manage language involve movie food bounce assume title below";
+var mnemonic = "shoe maid laptop high announce govern address about gospel foil glance embark";

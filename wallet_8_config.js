@@ -1,1 +1,1 @@
-var mnemonic = "skirt reason bike nasty place general guilt tennis baby child fly misery";
+var mnemonic = "veteran rose stem type dilemma special sunny repair rotate table buyer sing";

@@ -1,1 +1,1 @@
-var mnemonic = "term poem senior hood pipe wrap galaxy amateur together cotton code kiss";
+var mnemonic = "bounce faith onion scorpion glove shield move alone hockey depart describe senior";

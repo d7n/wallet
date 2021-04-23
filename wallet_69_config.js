@@ -1,1 +1,1 @@
-var mnemonic = "visual uniform badge fire dinner glance announce mansion toe goose blade scrap";
+var mnemonic = "enter doctor flat tennis radar tip old panther strategy airport icon quote";

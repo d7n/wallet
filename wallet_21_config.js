@@ -1,1 +1,1 @@
-var mnemonic = "pet pool photo scissors tiny sadness outdoor sugar fault skirt shoot divorce";
+var mnemonic = "orange bomb federal accuse lazy yard bleak family task arrow inspire race";

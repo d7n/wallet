@@ -1,1 +1,1 @@
-var mnemonic = "banana degree hungry alpha critic spare chair scene mix cousin bullet harvest";
+var mnemonic = "arrest mad write ahead enforce kangaroo gown anxiety embrace device neglect slim";

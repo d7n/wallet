@@ -1,1 +1,1 @@
-var mnemonic = "canvas monster web target capital brand relax guilt fancy flag anxiety twelve";
+var mnemonic = "duty coil month ripple success weasel morning bring design vacant render vast";

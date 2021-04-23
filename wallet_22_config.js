@@ -1,1 +1,1 @@
-var mnemonic = "connect hub whip home daring ignore enhance lake such crane finish winner";
+var mnemonic = "rescue smart wheat aim strong bless guitar wrong struggle helmet air market";

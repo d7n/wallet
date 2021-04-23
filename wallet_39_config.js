@@ -1,1 +1,1 @@
-var mnemonic = "cannon wool rude grit lock embark purchase sand tunnel tennis horn around";
+var mnemonic = "dove obscure unfair choose garden kind stairs cover always fire syrup tackle";

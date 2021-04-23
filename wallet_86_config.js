@@ -1,1 +1,1 @@
-var mnemonic = "debris any cycle guess unhappy obscure afraid banner modify vacant olive sand";
+var mnemonic = "pattern hunt tragic moment wisdom corn clinic electric purchase fit web cattle";

@@ -1,1 +1,1 @@
-var mnemonic = "cable pencil assist average injury captain another ankle cruise extra hotel situate";
+var mnemonic = "swallow struggle shift catch uncover sustain machine sorry across warfare visit ribbon";

@@ -1,1 +1,1 @@
-var mnemonic = "sauce simple hill trim tourist flat wasp advance mail remind myself else";
+var mnemonic = "pitch hungry borrow warrior merge fabric shadow baby sorry cherry dial copy";

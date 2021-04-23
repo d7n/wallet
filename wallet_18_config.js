@@ -1,1 +1,1 @@
-var mnemonic = "essence behind baby genuine whale laugh please napkin decorate warm tank pulp";
+var mnemonic = "kind consider divorce clerk matter strategy mix lawsuit sibling ginger miss wrap";

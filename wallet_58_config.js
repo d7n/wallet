@@ -1,1 +1,1 @@
-var mnemonic = "current again prefer mule goat junior flower salmon neck equip version service";
+var mnemonic = "acquire vote stadium reunion wine approve episode picnic wire action crop print";

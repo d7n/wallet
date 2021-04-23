@@ -1,1 +1,1 @@
-var mnemonic = "mutual party tray access bulb prefer march social reform resemble fringe divert";
+var mnemonic = "chest shuffle creek like car town happy goat dinosaur discover camp favorite";

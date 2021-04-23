@@ -1,1 +1,1 @@
-var mnemonic = "seminar airport ostrich rubber aunt vast main divorce grant peanut promote dance";
+var mnemonic = "black castle sock bundle maximum scout right polar catch fatigue trumpet fade";

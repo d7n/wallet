@@ -1,1 +1,1 @@
-var mnemonic = "autumn good cupboard pretty find reunion employ legend grab achieve achieve beyond";
+var mnemonic = "obscure satisfy cement topic rubber just nurse acid accident salon mother oblige";

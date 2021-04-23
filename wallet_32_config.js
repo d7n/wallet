@@ -1,1 +1,1 @@
-var mnemonic = "kitten copy filter remind ride yellow fiscal link zone belt father moral";
+var mnemonic = "upper yard patch ask jazz distance elegant chicken radar screen chuckle arctic";

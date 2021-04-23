@@ -1,1 +1,1 @@
-var mnemonic = "elder assume top rough ramp much pupil nominee gallery gift proof coyote";
+var mnemonic = "song muscle recycle during under curtain canyon spend gaze junior imitate shoot";
