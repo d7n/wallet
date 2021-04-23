@@ -1,1 +1,1 @@
-var mnemonic = "quantum oblige fly estate lawn battle unique curious captain address lady proud";
+var mnemonic = "blur mosquito ceiling zebra syrup sweet office tide cup click grunt job";

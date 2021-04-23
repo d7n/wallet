@@ -1,1 +1,1 @@
-var mnemonic = "avoid aerobic noodle taxi skill crush finger taste cradle cactus duty wild";
+var mnemonic = "giraffe silly betray visual silent slot marine cry dance plunge custom erase";

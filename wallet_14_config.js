@@ -1,1 +1,1 @@
-var mnemonic = "word monkey vintage slim index arctic hair enact donate awful country place";
+var mnemonic = "object napkin cushion patch noble jaguar since harvest yard child agent fury";

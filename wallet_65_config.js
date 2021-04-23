@@ -1,1 +1,1 @@
-var mnemonic = "caution spice famous catalog olympic correct text toe sketch moral person tired";
+var mnemonic = "gown oval town arrange include picnic random matter deposit wrestle dignity sure";

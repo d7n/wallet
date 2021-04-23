@@ -1,1 +1,1 @@
-var mnemonic = "spin squeeze strike apple fragile doctor airport pudding bitter shoe fiscal raccoon";
+var mnemonic = "iron excite satisfy trouble exhibit join gate pet view craft gain icon";

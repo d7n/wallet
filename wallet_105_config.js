@@ -1,1 +1,1 @@
-var mnemonic = "surround fox spawn minor dish betray drum convince other erase uphold matrix";
+var mnemonic = "lion account voice patrol tell essay reward cry boss achieve skate frown";

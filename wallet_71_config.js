@@ -1,1 +1,1 @@
-var mnemonic = "afford chief reward cross figure sample glass office doll release amount better";
+var mnemonic = "income ethics tongue barely retire copper fever fiction guide myself wife hood";

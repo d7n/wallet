@@ -1,1 +1,1 @@
-var mnemonic = "glue kind knife tragic hobby young whisper wire near rice basket six";
+var mnemonic = "dog coin ramp fee recycle parrot height arm jaguar satoshi enrich abuse";

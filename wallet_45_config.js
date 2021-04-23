@@ -1,1 +1,1 @@
-var mnemonic = "vital admit then crystal medal ridge random category humble guard absent notable";
+var mnemonic = "slab sheriff mansion admit warfare magic cradle actress jeans trip slice borrow";

@@ -1,1 +1,1 @@
-var mnemonic = "pool wave plug chat law mule girl repeat delay size infant pave";
+var mnemonic = "gasp you leg clarify ribbon section upon drum gasp spatial depth scan";

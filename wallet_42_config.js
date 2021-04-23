@@ -1,1 +1,1 @@
-var mnemonic = "album orbit sunset distance educate obey letter hire total behave valid attract";
+var mnemonic = "sunny peasant faith alpha athlete present grunt tip allow flame ring depart";

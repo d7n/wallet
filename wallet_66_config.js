@@ -1,1 +1,1 @@
-var mnemonic = "satoshi champion debate hill bright clever broken lunch dust sport brown horror";
+var mnemonic = "lift urban erosion skate ocean only zone seat brass slush canoe wide";

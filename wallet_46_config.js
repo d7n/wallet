@@ -1,1 +1,1 @@
-var mnemonic = "pony wolf clock unfair sheriff time eye obvious huge unhappy you fatal";
+var mnemonic = "elevator chicken glue napkin argue wing match search island citizen execute huge";

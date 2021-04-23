@@ -1,1 +1,1 @@
-var mnemonic = "awesome reopen before update globe guess embrace man debate youth live tuna";
+var mnemonic = "used change analyst sister silk apart history upgrade harbor panther local phone";

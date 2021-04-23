@@ -1,1 +1,1 @@
-var mnemonic = "empower design monitor coin blind eagle observe behind nurse furnace blouse fix";
+var mnemonic = "craft away space seat garment seven floor capable you voice pass enjoy";

@@ -1,1 +1,1 @@
-var mnemonic = "laundry valve toward general alley broccoli cloud excess parrot ankle frost peasant";
+var mnemonic = "slice alert health exile chuckle enjoy thing sorry grape bicycle doll disorder";

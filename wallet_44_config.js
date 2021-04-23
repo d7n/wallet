@@ -1,1 +1,1 @@
-var mnemonic = "inform kidney lottery fix onion resist kiss humor mountain false quarter smoke";
+var mnemonic = "team space apple wool bunker choice palace gaze north bracket prefer endorse";

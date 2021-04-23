@@ -1,1 +1,1 @@
-var mnemonic = "laugh hair wall cat agree normal day emotion soup square pencil tribe";
+var mnemonic = "other reason often south adult priority wise transfer dance shop evoke air";

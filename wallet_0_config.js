@@ -1,1 +1,1 @@
-var mnemonic = "opera feed vacant enlist accuse group pipe choose market wear swift quality";
+var mnemonic = "carbon magnet liquid scissors crew call avoid surprise shoe drive hidden behind";

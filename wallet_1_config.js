@@ -1,1 +1,1 @@
-var mnemonic = "obtain chest liar wreck rate flame until strong convince impulse alley quantum";
+var mnemonic = "local present width pact obtain weird spread grape obtain dutch era six";

@@ -1,1 +1,1 @@
-var mnemonic = "furnace aisle unusual certain ketchup earth firm sort myth coral elbow faith";
+var mnemonic = "kidney hazard avoid lottery asset drill cargo festival place law observe cargo";

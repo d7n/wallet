@@ -1,1 +1,1 @@
-var mnemonic = "habit orchard glass couple notable camera biology involve village fine design duty";
+var mnemonic = "crawl genre robust gun never segment pigeon mouse piano soon audit blood";

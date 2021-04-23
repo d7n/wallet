@@ -1,1 +1,1 @@
-var mnemonic = "shock midnight leader settle purpose donkey awesome erase bike pact turtle install";
+var mnemonic = "peasant typical green shoot police modify slender grain neglect never two advice";

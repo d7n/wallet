@@ -1,1 +1,1 @@
-var mnemonic = "dinner question write master cook dentist submit absorb hire pipe twin frown";
+var mnemonic = "buyer seminar sauce sister grape vanish wave unfold olive super tip nothing";

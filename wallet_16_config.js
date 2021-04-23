@@ -1,1 +1,1 @@
-var mnemonic = "siege dog chunk climb maximum hurdle animal renew rice tuition prefer swift";
+var mnemonic = "undo dream awesome prize return exhaust negative around adjust file era wise";

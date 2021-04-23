@@ -1,1 +1,1 @@
-var mnemonic = "problem announce sauce swap allow casino height give icon among engage theme";
+var mnemonic = "venue stand tent finish fox valve feature fire victory clap design damage";

@@ -1,1 +1,1 @@
-var mnemonic = "lens nation render orient sail chief risk imitate cushion buyer hurt unusual";
+var mnemonic = "visit mosquito park hub draft cook off tag sister grab sport index";

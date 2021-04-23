@@ -1,1 +1,1 @@
-var mnemonic = "aware sand air benefit soccer horror proud resource junior fold act message";
+var mnemonic = "hospital model cushion twist badge right galaxy moral unit street frame tool";

@@ -1,1 +1,1 @@
-var mnemonic = "never noodle genuine loyal armed erupt strong into naive okay zero desk";
+var mnemonic = "purse girl observe strong turn ride believe proud latin burger rotate exist";

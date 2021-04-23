@@ -1,1 +1,1 @@
-var mnemonic = "come fire solution hair soldier mass coin oblige wave friend inner bring";
+var mnemonic = "strike idle card pencil ritual dirt maid gauge echo body veteran kick";

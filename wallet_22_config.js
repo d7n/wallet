@@ -1,1 +1,1 @@
-var mnemonic = "ticket exact stable auction sunny example unique physical economy object glow satoshi";
+var mnemonic = "sport desk catch term soft hawk cry chat derive gown purse fat";

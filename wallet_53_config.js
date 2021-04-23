@@ -1,1 +1,1 @@
-var mnemonic = "nation visual ice february solid grain salad exist same aunt speak frost";
+var mnemonic = "negative pink attitude hawk east glad sniff click phone tooth magic lamp";

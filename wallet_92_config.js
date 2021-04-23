@@ -1,1 +1,1 @@
-var mnemonic = "achieve jewel oppose people test laugh funny load camp account response output";
+var mnemonic = "exhibit tell beach quantum night usual brand sunset knife luxury ensure joke";

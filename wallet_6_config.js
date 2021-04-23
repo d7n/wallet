@@ -1,1 +1,1 @@
-var mnemonic = "capital above flee matter bracket join grow course march gauge frozen buddy";
+var mnemonic = "brick away steak speed wait predict prison follow pig claw exact asset";

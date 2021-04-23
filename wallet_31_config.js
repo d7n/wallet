@@ -1,1 +1,1 @@
-var mnemonic = "void swift pause alpha congress modify this small remind method cloud blur";
+var mnemonic = "bike lake grant electric volume also company mail card dinosaur session prison";

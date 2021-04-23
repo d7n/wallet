@@ -1,1 +1,1 @@
-var mnemonic = "long shoulder wave strong lend adapt pet phrase silver fluid upon cousin";
+var mnemonic = "envelope math fancy tray rail they music hospital stairs around avocado suffer";

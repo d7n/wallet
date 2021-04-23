@@ -1,1 +1,1 @@
-var mnemonic = "pulp title science intact lucky pigeon render want dawn swim stomach between";
+var mnemonic = "small deposit taste common chef clerk demand announce nice canal crash subway";

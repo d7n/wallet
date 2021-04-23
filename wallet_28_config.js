@@ -1,1 +1,1 @@
-var mnemonic = "time uncle penalty swim clerk foil park nephew fire harsh shaft gift";
+var mnemonic = "scatter party occur edit strategy office regular dutch title combine elite latin";

@@ -1,1 +1,1 @@
-var mnemonic = "erase consider web grant tissue flip device convince gym electric dawn interest";
+var mnemonic = "draft excuse turkey shoe pepper owner captain winter base profit expose purity";

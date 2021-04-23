@@ -1,1 +1,1 @@
-var mnemonic = "erupt ten goddess gather rely mystery hunt gown arctic tennis nasty grant";
+var mnemonic = "enjoy bottom effort burger south zero spike satoshi frame exist index genre";

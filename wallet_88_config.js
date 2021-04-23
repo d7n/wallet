@@ -1,1 +1,1 @@
-var mnemonic = "wood shoulder jungle into song meadow burger elbow want income horror final";
+var mnemonic = "walk belt enter water analyst pool viable link pencil pact chase close";

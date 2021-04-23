@@ -1,1 +1,1 @@
-var mnemonic = "stomach fault empty park ride dune dwarf fetch transfer must always secret";
+var mnemonic = "sunset mistake priority quit chicken ice reform bean time dove climb album";

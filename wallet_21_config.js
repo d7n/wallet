@@ -1,1 +1,1 @@
-var mnemonic = "crack imitate strike refuse settle paper convince level client donor object tomato";
+var mnemonic = "fence green tag tortoise pear coil service trick inner music cabin mistake";

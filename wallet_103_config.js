@@ -1,1 +1,1 @@
-var mnemonic = "burst between nest boy cherry virus guitar visa people gain spirit math";
+var mnemonic = "book ugly news hold top alien pigeon admit tooth gossip portion absent";

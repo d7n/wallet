@@ -1,1 +1,1 @@
-var mnemonic = "bag behind circle come media economy bean song hybrid floor phone stool";
+var mnemonic = "various burden crew pride dilemma include winner salute similar cliff giant erupt";

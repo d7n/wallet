@@ -1,1 +1,1 @@
-var mnemonic = "repair alter brave else dress cheese never banana ginger leopard quick replace";
+var mnemonic = "olive average question dry success exist fee coffee bonus venture giggle boring";

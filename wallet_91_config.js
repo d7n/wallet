@@ -1,1 +1,1 @@
-var mnemonic = "glance december attract chuckle place slender paddle ill betray decorate shy prison";
+var mnemonic = "snow boil mandate license wink crumble caught cradle hundred suggest morning someone";

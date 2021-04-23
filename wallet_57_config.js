@@ -1,1 +1,1 @@
-var mnemonic = "please flash clay nominee soul deposit relax believe stone vast lab immense";
+var mnemonic = "lottery car attend lawsuit deal purpose guard float blush security scorpion melt";

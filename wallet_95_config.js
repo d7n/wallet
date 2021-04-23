@@ -1,1 +1,1 @@
-var mnemonic = "drama gospel allow ramp able skin ladder true observe picnic cover door";
+var mnemonic = "tumble bag wrist mobile antique curious bamboo proud mansion swamp civil black";

@@ -1,1 +1,1 @@
-var mnemonic = "very faint insane close disagree attitude champion used degree faculty drum dad";
+var mnemonic = "original shine travel hour surge kitten desert purpose know that brown level";

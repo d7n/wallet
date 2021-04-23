@@ -1,1 +1,1 @@
-var mnemonic = "effort settle average require duck trade bicycle become rescue behind auction year";
+var mnemonic = "family sphere bright hold page bag alpha rural print bitter fever burden";

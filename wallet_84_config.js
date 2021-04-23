@@ -1,1 +1,1 @@
-var mnemonic = "lift foil taxi type tired wave panther client build either page north";
+var mnemonic = "banana festival dial marriage entry cancel media immense sure caution organ kitten";

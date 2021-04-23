@@ -1,1 +1,1 @@
-var mnemonic = "estate witness episode public cover trend black modify patrol derive forest crystal";
+var mnemonic = "business penalty check group lion sadness involve help poet aunt powder achieve";

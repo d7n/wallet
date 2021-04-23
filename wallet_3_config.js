@@ -1,1 +1,1 @@
-var mnemonic = "payment envelope resource party stadium public slam impact reveal giraffe number place";
+var mnemonic = "fatigue crouch example deposit spin pull flower save spirit alien program evolve";

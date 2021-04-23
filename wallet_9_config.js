@@ -1,1 +1,1 @@
-var mnemonic = "pepper vivid piece tribe early aunt portion sense attitude scrub tiny crush";
+var mnemonic = "combine invest wage punch arrive concert country ramp arctic alone permit reduce";

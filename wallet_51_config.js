@@ -1,1 +1,1 @@
-var mnemonic = "modify acoustic peace enroll clay office soldier subject grief bonus pull column";
+var mnemonic = "cheap allow depend average thumb noble physical jungle cheese cruel risk pole";

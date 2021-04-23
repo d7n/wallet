@@ -1,1 +1,1 @@
-var mnemonic = "sphere world present tortoise alarm orbit muffin armor extend pony electric resemble";
+var mnemonic = "chief crystal cross toilet try shoe giraffe rebuild gate tragic before junior";

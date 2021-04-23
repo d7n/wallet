@@ -1,1 +1,1 @@
-var mnemonic = "oak help equip yard fossil shift chapter shoulder lawn sense sing neglect";
+var mnemonic = "palace prosper link erase resource horn prison people rate spy science pave";

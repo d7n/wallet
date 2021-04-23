@@ -1,1 +1,1 @@
-var mnemonic = "parade pink forum frog purity library average maze reduce victory story useless";
+var mnemonic = "correct medal strike chalk wild mirror video feel beyond lunar mouse tobacco";

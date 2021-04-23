@@ -1,1 +1,1 @@
-var mnemonic = "job vessel pupil viable aspect term parade valve vocal mushroom clay nut";
+var mnemonic = "ask beauty similar still loyal differ puppy proof trust nephew ostrich left";

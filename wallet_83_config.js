@@ -1,1 +1,1 @@
-var mnemonic = "shrimp reveal trim remind car bike blouse leopard clutch armor roast agent";
+var mnemonic = "parrot remove laugh sleep gauge pear print tower select outer arrive erosion";

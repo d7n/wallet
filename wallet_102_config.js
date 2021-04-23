@@ -1,1 +1,1 @@
-var mnemonic = "face enemy spray ridge actual elevator isolate quick casual cupboard valve hazard";
+var mnemonic = "balance nerve health bread neglect dream super lottery major beauty drum tobacco";

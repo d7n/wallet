@@ -1,1 +1,1 @@
-var mnemonic = "busy umbrella pistol social runway myth pitch nephew depart entire amount erosion";
+var mnemonic = "any infant shoot ticket asset pepper mirror sibling student rural elephant promote";

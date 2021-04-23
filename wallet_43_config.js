@@ -1,1 +1,1 @@
-var mnemonic = "scorpion secret total busy nature below hockey torch token clean control deal";
+var mnemonic = "common muscle hurdle color sad flight extend banana inspire giraffe prison motor";

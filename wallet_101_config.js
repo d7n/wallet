@@ -1,1 +1,1 @@
-var mnemonic = "anchor robust clerk flat fiction tiger love patch obscure turtle course enrich";
+var mnemonic = "flee donor flight sport venue royal cherry artwork suspect doll fantasy detect";

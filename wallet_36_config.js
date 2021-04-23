@@ -1,1 +1,1 @@
-var mnemonic = "enrich lake ceiling alert flower cycle discover poverty mechanic dial awake doll";
+var mnemonic = "expose another hope oak cannon rigid east clutch glance discover table fold";

@@ -1,1 +1,1 @@
-var mnemonic = "warrior slab diesel team equal gate early lazy diary slab wool assault";
+var mnemonic = "sketch detect above card slot sick twin annual horse stamp ancient section";

@@ -1,1 +1,1 @@
-var mnemonic = "science jealous arena asset riot brass card enhance plate south nasty midnight";
+var mnemonic = "protect bullet throw decade crush category enforce snack cloth fringe record cotton";

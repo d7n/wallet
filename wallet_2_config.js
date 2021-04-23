@@ -1,1 +1,1 @@
-var mnemonic = "card coast sail fetch remove picnic vibrant good code hockey sense opera";
+var mnemonic = "cigar rural wonder symbol endorse regular body human talent forward fee pet";

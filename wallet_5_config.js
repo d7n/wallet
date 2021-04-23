@@ -1,1 +1,1 @@
-var mnemonic = "question ghost print frog organ misery void battle movie weapon alpha ice";
+var mnemonic = "hip endorse steel walk poverty coil margin profit cabin trim devote water";

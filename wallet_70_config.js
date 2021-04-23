@@ -1,1 +1,1 @@
-var mnemonic = "protect shallow item shock address foil vibrant window bronze round input pattern";
+var mnemonic = "swarm judge butter flee wisdom car only village access truth now bubble";

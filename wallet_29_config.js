@@ -1,1 +1,1 @@
-var mnemonic = "sheriff paper rule blast trust fatal photo swap garden range guilt rain";
+var mnemonic = "crack put hour foot detail bicycle ramp secret guide hood east indoor";

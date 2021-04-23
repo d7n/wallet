@@ -1,1 +1,1 @@
-var mnemonic = "again zebra topic theme business guitar custom easy scissors rack melody subway";
+var mnemonic = "cereal maid dream sustain hobby exercise swear wool wait city cheap glove";

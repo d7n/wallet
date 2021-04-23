@@ -1,1 +1,1 @@
-var mnemonic = "purse viable radio burger decorate duck improve boost man music diary suspect";
+var mnemonic = "force true perfect reduce empower gather lesson amused correct cake caution minimum";

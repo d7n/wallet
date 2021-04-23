@@ -1,1 +1,1 @@
-var mnemonic = "consider resemble hard jeans monster fire smooth easily train ability crash destroy";
+var mnemonic = "horn minor medal rescue clown raven middle setup aware toddler impact lend";

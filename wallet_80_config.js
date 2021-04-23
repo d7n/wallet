@@ -1,1 +1,1 @@
-var mnemonic = "pull purity toilet armor clay lake flash eager brief excess bring deputy";
+var mnemonic = "fuel advice flower dial tattoo junk mansion fatal option talk clown mistake";

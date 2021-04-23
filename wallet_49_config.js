@@ -1,1 +1,1 @@
-var mnemonic = "prevent next bulk view nasty coast season select refuse prosper diagram ketchup";
+var mnemonic = "man tray van master kit gadget slot obey pitch height lucky chaos";

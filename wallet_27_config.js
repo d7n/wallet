@@ -1,1 +1,1 @@
-var mnemonic = "slow hazard collect donate stem broken transfer opera apology wool biology door";
+var mnemonic = "unlock cross ostrich junk pretty glare mass denial wise basic decrease sound";

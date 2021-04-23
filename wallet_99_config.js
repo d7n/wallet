@@ -1,1 +1,1 @@
-var mnemonic = "front gaze engine crawl keen gossip peasant youth nuclear produce abandon raccoon";
+var mnemonic = "prosper grid merry fringe broccoli spot favorite filter mansion lounge brief gasp";

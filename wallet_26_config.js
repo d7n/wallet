@@ -1,1 +1,1 @@
-var mnemonic = "immune little bus frame state near pen fruit decide culture enjoy disagree";
+var mnemonic = "casual once must sadness retire involve lecture install club void daring evidence";

@@ -1,1 +1,1 @@
-var mnemonic = "shock adult breeze wife head valley scatter grab edge where used wagon";
+var mnemonic = "strong shallow message life volume pottery used account fence jaguar balance give";

@@ -1,1 +1,1 @@
-var mnemonic = "write reopen biology walk heavy toast museum bus balcony intact predict exist";
+var mnemonic = "impose birth swear funny gloom waste tumble crumble eternal artefact hockey jungle";

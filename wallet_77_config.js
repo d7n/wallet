@@ -1,1 +1,1 @@
-var mnemonic = "creek innocent hub model moon accuse calm usage tide story insane kind";
+var mnemonic = "author edit park know rescue success say destroy energy security attend photo";

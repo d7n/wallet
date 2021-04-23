@@ -1,1 +1,1 @@
-var mnemonic = "lunar pluck enlist all collect bomb cattle taxi sketch myself time blood";
+var mnemonic = "else maze cluster east quit slight segment example differ clock symptom razor";

@@ -1,1 +1,1 @@
-var mnemonic = "fly rough have attend across airport double dumb unveil cluster certain next";
+var mnemonic = "any hundred between aim shell ketchup renew differ bar pass betray plastic";

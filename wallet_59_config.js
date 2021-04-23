@@ -1,1 +1,1 @@
-var mnemonic = "tail kiwi alarm forest hundred focus pave language orchard jump rapid tragic";
+var mnemonic = "violin police surge silver maple velvet matrix lazy slow vast video eye";

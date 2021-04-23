@@ -1,1 +1,1 @@
-var mnemonic = "possible toe enroll mountain gun knife room marriage travel apple opinion harvest";
+var mnemonic = "cotton oak couch nest disease diagram scatter pulse unhappy pilot taxi cook";

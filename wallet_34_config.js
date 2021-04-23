@@ -1,1 +1,1 @@
-var mnemonic = "surge helmet deposit coin ethics kangaroo multiply huge science inner year switch";
+var mnemonic = "width wolf lake slab guide gown window once fancy bulk pitch forget";

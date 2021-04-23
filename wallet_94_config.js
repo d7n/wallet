@@ -1,1 +1,1 @@
-var mnemonic = "tongue shy inform erosion finish devote question hole kit humble guess annual";
+var mnemonic = "ginger foam laugh train obscure dream portion else drastic salon cash develop";

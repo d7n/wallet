@@ -1,1 +1,1 @@
-var mnemonic = "disorder decline below banana silly stand claim indicate wreck equip happy sing";
+var mnemonic = "goose jungle identify rich seat link riot because again hundred industry rigid";

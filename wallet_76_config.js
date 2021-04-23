@@ -1,1 +1,1 @@
-var mnemonic = "corn forest blanket tunnel nature idea double mouse leopard save injury phone";
+var mnemonic = "knee float reopen fury repeat audit resist moral fix exhaust expand blanket";
