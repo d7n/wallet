@@ -1,1 +1,1 @@
-var mnemonic = "wish wrist cram ready come lottery fiction memory poet crawl suggest drill";
+var mnemonic = "cable slice document unfair tree current cloud desk print stage absent business";

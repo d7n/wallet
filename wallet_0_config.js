@@ -1,1 +1,1 @@
-var mnemonic = "thunder vivid peanut pony outside pottery observe damage worth ecology permit popular";
+var mnemonic = "scene thunder autumn between current exact manual orient able cousin assume ranch";

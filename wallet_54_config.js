@@ -1,1 +1,1 @@
-var mnemonic = "brisk embrace elite inform camera build athlete spider shrug sad garbage risk";
+var mnemonic = "build rigid rookie eight crumble add top wild very staff collect mirror";

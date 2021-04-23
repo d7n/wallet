@@ -1,1 +1,1 @@
-var mnemonic = "material door garbage nice tobacco renew left announce flame doctor crop frost";
+var mnemonic = "myth blush term void absurd holiday fossil agree sting outdoor dress alter";

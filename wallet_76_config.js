@@ -1,1 +1,1 @@
-var mnemonic = "diary pumpkin benefit vacant funny tuition chat quality tomorrow edit notice scatter";
+var mnemonic = "menu eagle hard dry wheel visit wool broom genuine real ten priority";

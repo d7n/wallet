@@ -1,1 +1,1 @@
-var mnemonic = "wink goat picture cram job exclude bomb limb adjust elevator trumpet shoulder";
+var mnemonic = "scorpion cycle tree twin solve upgrade excite poet anchor say citizen remove";

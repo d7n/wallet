@@ -1,1 +1,1 @@
-var mnemonic = "arm divert express devote wife muscle forget car number daring essence quiz";
+var mnemonic = "payment angle finish castle convince decline enroll curve angry slam phone depart";

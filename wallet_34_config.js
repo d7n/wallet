@@ -1,1 +1,1 @@
-var mnemonic = "tail federal current income chapter ancient coconut cabbage large piano rebel begin";
+var mnemonic = "choice spray gossip hollow neck plug become humble inner reopen border fortune";

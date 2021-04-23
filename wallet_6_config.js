@@ -1,1 +1,1 @@
-var mnemonic = "ski decade pyramid energy globe they adjust devote come person axis ridge";
+var mnemonic = "hub favorite shine science renew cable stamp pizza fault prison year regret";

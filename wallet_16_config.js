@@ -1,1 +1,1 @@
-var mnemonic = "rose one debate visual access coast convince hill enable nerve mammal wise";
+var mnemonic = "afford acquire monkey include hello game idle adjust cushion title little document";

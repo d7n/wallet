@@ -1,1 +1,1 @@
-var mnemonic = "abandon there penalty crop gospel hundred credit eye film boss trophy simple";
+var mnemonic = "arrow great craft draw measure return section summer zero peace tool vague";

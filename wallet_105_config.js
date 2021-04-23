@@ -1,1 +1,1 @@
-var mnemonic = "always vote produce thank another nothing liberty proud ticket action another aspect";
+var mnemonic = "mountain depart true negative roast jealous demand spike congress luxury grunt puzzle";

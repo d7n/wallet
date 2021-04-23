@@ -1,1 +1,1 @@
-var mnemonic = "diagram usual amateur cost scout toward collect mimic verb home sausage equip";
+var mnemonic = "sick assume cliff security scene ill fat taste gap frost tool cotton";

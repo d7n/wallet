@@ -1,1 +1,1 @@
-var mnemonic = "bacon lesson raven gospel beef animal economy much purity there party park";
+var mnemonic = "three radio voyage busy addict license decrease erupt ordinary correct way escape";

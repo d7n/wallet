@@ -1,1 +1,1 @@
-var mnemonic = "thunder master valve possible enable rice route split rice rail glimpse desert";
+var mnemonic = "lawn much slush dirt tag surround business toddler frog device web script";

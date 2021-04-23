@@ -1,1 +1,1 @@
-var mnemonic = "seven battle divert shrimp cake faint steak casino large core caught father";
+var mnemonic = "toss talk captain disagree reunion chapter trouble prize drip model flame track";

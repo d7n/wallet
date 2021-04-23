@@ -1,1 +1,1 @@
-var mnemonic = "kitchen expand next club veteran music room maximum skin lesson pattern wide";
+var mnemonic = "water time purse kidney fix punch energy lumber exile curtain conduct office";

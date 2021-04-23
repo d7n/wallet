@@ -1,1 +1,1 @@
-var mnemonic = "forest brown release someone pattern runway wait tent broom review book nuclear";
+var mnemonic = "coral page magic vivid arch siege family similar kiwi process poet profit";

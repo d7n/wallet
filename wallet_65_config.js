@@ -1,1 +1,1 @@
-var mnemonic = "siege work try ring blouse jump treat atom comfort plastic unable flee";
+var mnemonic = "push wood dice pool logic rose caught south alarm rebel salt improve";

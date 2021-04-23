@@ -1,1 +1,1 @@
-var mnemonic = "come carry proud start odor lawsuit model exchange penalty modify knife guitar";
+var mnemonic = "ski hawk travel issue tank uphold blanket cupboard equip skirt rally bring";

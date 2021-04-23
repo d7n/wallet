@@ -1,1 +1,1 @@
-var mnemonic = "travel sand expand gas possible wasp stadium deputy dial dress arrest remove";
+var mnemonic = "plastic april frog error century alone tooth feature wink dumb cloud gift";

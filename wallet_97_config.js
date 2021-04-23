@@ -1,1 +1,1 @@
-var mnemonic = "pole solution mechanic keen expand year define return neither assume chimney orphan";
+var mnemonic = "yellow sea crack elevator anger style grain bacon exile cattle month drip";

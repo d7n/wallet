@@ -1,1 +1,1 @@
-var mnemonic = "release differ amazing deer point other extend buyer sustain choice monkey junior";
+var mnemonic = "wrong gown symptom lion text resource room math retire disorder fish drastic";

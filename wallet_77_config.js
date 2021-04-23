@@ -1,1 +1,1 @@
-var mnemonic = "drink silent mail nothing twice solar either yellow penalty stock pencil visa";
+var mnemonic = "lobster cattle history amount gorilla river prize post cupboard sell squirrel attend";

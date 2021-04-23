@@ -1,1 +1,1 @@
-var mnemonic = "meadow scheme zero survey cattle virus blossom series purity arrest canyon pigeon";
+var mnemonic = "solve wonder exit scorpion theme amount february across federal deny hair task";

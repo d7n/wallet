@@ -1,1 +1,1 @@
-var mnemonic = "disease spring hello aerobic female tree caught blossom maid tissue address myself";
+var mnemonic = "usage recipe armed common pill lesson between amazing loan pact buzz world";

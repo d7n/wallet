@@ -1,1 +1,1 @@
-var mnemonic = "spoil crawl rude main mass forum glow awesome gun dizzy east salon";
+var mnemonic = "alert stick suffer upper panic fabric elbow knife alarm odor rent very";

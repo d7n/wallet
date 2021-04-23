@@ -1,1 +1,1 @@
-var mnemonic = "bone sell scout endorse fog firm struggle train vicious taste pottery clarify";
+var mnemonic = "accident pelican repair surprise industry sketch doctor anchor giggle wide pilot dress";

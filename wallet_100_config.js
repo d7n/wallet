@@ -1,1 +1,1 @@
-var mnemonic = "lift trigger tail satisfy artwork library fantasy ignore trigger spin process burger";
+var mnemonic = "thunder strategy rally snack hood below combine feature girl boy coffee cry";

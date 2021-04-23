@@ -1,1 +1,1 @@
-var mnemonic = "cotton job swamp mystery toe lunch can load object guitar crunch bike";
+var mnemonic = "wagon gravity pumpkin uphold this alien pear start lock arrange chuckle orphan";

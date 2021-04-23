@@ -1,1 +1,1 @@
-var mnemonic = "such flame crawl proof deer fatal flash brain wrestle skirt elbow profit";
+var mnemonic = "dog lunch scare hunt little side split cram spin adjust one book";

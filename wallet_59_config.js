@@ -1,1 +1,1 @@
-var mnemonic = "draft merit private dial metal banana retreat flee letter sentence battle rich";
+var mnemonic = "member push jaguar pact donkey blade sort action mixture repeat damage female";

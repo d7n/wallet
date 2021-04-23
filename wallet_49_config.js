@@ -1,1 +1,1 @@
-var mnemonic = "receive farm cruel clog present finish idea allow ramp exhibit biology catch";
+var mnemonic = "educate swamp deer banner select civil swamp gravity second royal family police";

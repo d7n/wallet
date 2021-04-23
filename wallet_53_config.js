@@ -1,1 +1,1 @@
-var mnemonic = "rough attend deer lemon awake belt banana develop street fine furnace image";
+var mnemonic = "spend forward teach humble grace large require violin sail behave meadow flush";

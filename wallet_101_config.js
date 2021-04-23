@@ -1,1 +1,1 @@
-var mnemonic = "advice ritual antenna detect congress iron scheme lock coin organ purchase smile";
+var mnemonic = "job true idea anxiety jealous truck badge broccoli dynamic warfare length emerge";

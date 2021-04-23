@@ -1,1 +1,1 @@
-var mnemonic = "evil mountain insect message hospital install space sell ocean glue cigar since";
+var mnemonic = "utility swamp elbow noble swarm curve gaze edit shaft leave front token";

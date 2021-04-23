@@ -1,1 +1,1 @@
-var mnemonic = "diary fortune grab float van involve bulb initial pigeon say debate relief";
+var mnemonic = "proof impulse tunnel shock famous left final reflect behind van decide version";

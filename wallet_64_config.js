@@ -1,1 +1,1 @@
-var mnemonic = "bamboo fat humble brother journey travel siren engage oil expect language also";
+var mnemonic = "never blue mail abuse blouse evolve crumble annual slab regular dog resist";

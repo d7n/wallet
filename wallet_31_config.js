@@ -1,1 +1,1 @@
-var mnemonic = "skirt twenty practice already audit swamp sketch tragic useful bicycle win allow";
+var mnemonic = "exhibit reform august mutual farm athlete toast aware response purse voice yard";

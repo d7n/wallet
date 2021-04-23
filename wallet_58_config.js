@@ -1,1 +1,1 @@
-var mnemonic = "treat mechanic swift alley faith subway antenna check now gorilla grain layer";
+var mnemonic = "system law assault often crystal rack client arrest dwarf banner achieve organ";

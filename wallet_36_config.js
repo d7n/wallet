@@ -1,1 +1,1 @@
-var mnemonic = "alpha hover gift vacuum episode train title sock behave tomato need spatial";
+var mnemonic = "gesture fossil kiss village order flip sad more tragic there arctic moral";

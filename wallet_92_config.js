@@ -1,1 +1,1 @@
-var mnemonic = "vessel project pear salmon original demand clap artefact rookie hello net cannon";
+var mnemonic = "galaxy expand member flip win weasel deposit noise throw choice high stable";

@@ -1,1 +1,1 @@
-var mnemonic = "video sad horse style crouch owner blame invest section ring blossom bright";
+var mnemonic = "volume opera radar survey notable twelve vital nuclear net arrow sock movie";

@@ -1,1 +1,1 @@
-var mnemonic = "slam result expect engage credit mule horse project umbrella ginger artist coconut";
+var mnemonic = "exhaust company educate brain few harvest mask hip view consider what grow";

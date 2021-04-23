@@ -1,1 +1,1 @@
-var mnemonic = "crash ability desert space combine wrong buddy stable divide prepare bleak trend";
+var mnemonic = "okay enable correct chase lion wild grape razor pattern waste dirt learn";

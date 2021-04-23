@@ -1,1 +1,1 @@
-var mnemonic = "beauty creek radio employ seat place turkey intact return fossil iron toast";
+var mnemonic = "skate charge room genuine okay drama mention door boat alone bunker wild";

@@ -1,1 +1,1 @@
-var mnemonic = "face venue donkey absorb settle bring maple give obtain front liquid mouse";
+var mnemonic = "brisk insane spoil brush gaze resist produce receive base fruit clever file";

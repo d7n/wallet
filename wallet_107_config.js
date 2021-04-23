@@ -1,1 +1,1 @@
-var mnemonic = "labor fluid fee grit glass apart tree boss rhythm own cart climb";
+var mnemonic = "surge slide course elegant citizen marble arrest digital access rival apology nose";

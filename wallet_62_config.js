@@ -1,1 +1,1 @@
-var mnemonic = "boy finish thrive brand derive arch segment category lobster first elbow cruise";
+var mnemonic = "cheese fantasy hint thank sorry myself expand child year december morning remain";

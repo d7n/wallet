@@ -1,1 +1,1 @@
-var mnemonic = "foot cancel box fortune shallow flag wide mass keep marriage sunset old";
+var mnemonic = "steel ball supply iron diesel tree velvet buffalo below position industry casual";

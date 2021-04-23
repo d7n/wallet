@@ -1,1 +1,1 @@
-var mnemonic = "physical length lawn traffic stomach flock total punch place bleak auto spring";
+var mnemonic = "scare rhythm smooth pioneer regret pipe gift mushroom cycle grunt devote tenant";

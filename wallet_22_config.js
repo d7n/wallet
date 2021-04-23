@@ -1,1 +1,1 @@
-var mnemonic = "arrive brass barrel mule know devote true foot series normal project wonder";
+var mnemonic = "sponsor try gather stuff moment rent differ ship scare fetch team domain";

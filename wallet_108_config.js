@@ -1,1 +1,1 @@
-var mnemonic = "wealth prefer pet tonight mechanic section blast drum charge fluid weapon next";
+var mnemonic = "innocent sure tennis smooth clock pelican bubble fragile mechanic foil jungle indoor";

@@ -1,1 +1,1 @@
-var mnemonic = "ramp lock library rude vague winner captain current rate own gap return";
+var mnemonic = "essay daring palm cave hen force dust flush brown twin credit grape";

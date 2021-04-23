@@ -1,1 +1,1 @@
-var mnemonic = "cotton front soldier bounce muscle valve column advance tattoo tragic grace chief";
+var mnemonic = "arrange access live client burger roof rough slab just angry cram twenty";

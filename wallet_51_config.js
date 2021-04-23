@@ -1,1 +1,1 @@
-var mnemonic = "surround grain kitchen parrot pet cash trade today sunset weasel puzzle buzz";
+var mnemonic = "table trick bracket foot marble shed empower eye polar level observe session";

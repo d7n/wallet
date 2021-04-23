@@ -1,1 +1,1 @@
-var mnemonic = "post cage dilemma skill lend elite glass caught original kit better drill";
+var mnemonic = "gorilla sentence canyon smooth inhale apple infant medal eager lazy damage mountain";

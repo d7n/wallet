@@ -1,1 +1,1 @@
-var mnemonic = "enact hospital salt squeeze comic bag state entire dry picnic shallow onion";
+var mnemonic = "fine version nest tent upgrade behind able design swap rural little side";

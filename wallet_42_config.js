@@ -1,1 +1,1 @@
-var mnemonic = "rule lake staff develop modify ride future mobile luxury illegal discover across";
+var mnemonic = "drastic unknown clarify crunch staff student pen useful convince wool garment skirt";

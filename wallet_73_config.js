@@ -1,1 +1,1 @@
-var mnemonic = "vast key future wood flee domain husband thought twin misery when vintage";
+var mnemonic = "clarify gaze ugly kiss dutch there south heart daughter mutual system drift";

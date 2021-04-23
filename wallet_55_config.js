@@ -1,1 +1,1 @@
-var mnemonic = "afraid barrel crater pyramid month input work address keep surround conduct convince";
+var mnemonic = "initial exhibit promote slot useless owner audit cupboard expect oval joke rib";

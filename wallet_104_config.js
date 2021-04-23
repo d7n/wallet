@@ -1,1 +1,1 @@
-var mnemonic = "chronic shy cement obscure head weasel moon minor cement judge lucky convince";
+var mnemonic = "spread vibrant attract history broom assault history model grant kiwi person tumble";

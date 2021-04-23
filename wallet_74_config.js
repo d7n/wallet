@@ -1,1 +1,1 @@
-var mnemonic = "book under salon art name approve catch tape fiber clip toss excite";
+var mnemonic = "capital puppy taxi rotate verify cable wait borrow kit blouse industry miracle";

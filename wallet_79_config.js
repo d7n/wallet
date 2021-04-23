@@ -1,1 +1,1 @@
-var mnemonic = "raccoon client page cake scatter canyon sport rigid unfold toy quality ecology";
+var mnemonic = "recall sauce view system escape initial bean toast taste team author interest";

@@ -1,1 +1,1 @@
-var mnemonic = "project wall logic onion latin model dress butter supply save flag cat";
+var mnemonic = "slow narrow oyster urge where name love valve lumber decline force host";

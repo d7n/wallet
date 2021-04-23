@@ -1,1 +1,1 @@
-var mnemonic = "top fabric angle sock sure rally spirit kitten deposit town ceiling lawn";
+var mnemonic = "ride sentence can museum unveil acid silk february indoor disease box wire";

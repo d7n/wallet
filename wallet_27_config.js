@@ -1,1 +1,1 @@
-var mnemonic = "indicate melt because strong dinner fluid mixed deal oyster swallow invest weekend";
+var mnemonic = "army toddler endorse razor doll funny pipe voice frost very unhappy volcano";

@@ -1,1 +1,1 @@
-var mnemonic = "quality motor hour stove burst equip slush congress banner pattern mirror garbage";
+var mnemonic = "slam sunset nasty inside crane pudding fence addict alert gadget eagle mammal";

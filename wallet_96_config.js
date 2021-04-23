@@ -1,1 +1,1 @@
-var mnemonic = "year wealth enact spare junior liar female poverty air exhaust over lucky";
+var mnemonic = "imitate able dry admit wife cattle office novel theory fatal mimic cook";

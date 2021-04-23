@@ -1,1 +1,1 @@
-var mnemonic = "cricket special loop fragile victory negative bus pudding educate soup repeat concert";
+var mnemonic = "raven harsh arrange shove write guess surge route rubber science carry sign";

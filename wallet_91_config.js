@@ -1,1 +1,1 @@
-var mnemonic = "atom bicycle replace behave nasty clever country ocean fatigue mansion ill already";
+var mnemonic = "iron curious cube until today snake window cable gauge decorate punch volcano";

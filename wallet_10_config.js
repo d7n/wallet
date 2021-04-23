@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow chicken key seven soup captain pilot duty open whisper drastic essence";
+var mnemonic = "vacuum price random script major screen upgrade breeze illegal auto hospital february";

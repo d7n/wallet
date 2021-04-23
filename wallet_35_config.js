@@ -1,1 +1,1 @@
-var mnemonic = "doctor leopard harvest swap innocent romance stamp exercise company shadow dry eagle";
+var mnemonic = "giant tower random bleak stay into load barely next song pluck into";

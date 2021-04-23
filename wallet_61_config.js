@@ -1,1 +1,1 @@
-var mnemonic = "picnic jaguar error clip achieve seminar shock social garbage december convince term";
+var mnemonic = "like addict pelican team screen usual tube apart curtain soap cherry noble";

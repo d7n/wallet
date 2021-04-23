@@ -1,1 +1,1 @@
-var mnemonic = "lens street task horse seminar business success garage deal genius diet guess";
+var mnemonic = "yard rich success satisfy casual black cigar obey fit series tiger where";

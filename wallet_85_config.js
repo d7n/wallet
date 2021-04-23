@@ -1,1 +1,1 @@
-var mnemonic = "still strong shuffle promote share vendor cute salt sample risk novel they";
+var mnemonic = "embark predict grant fiction bonus involve brief apple spy brass basic isolate";

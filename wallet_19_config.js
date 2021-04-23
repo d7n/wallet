@@ -1,1 +1,1 @@
-var mnemonic = "neck leader blame unit rather poverty tumble gorilla frog wolf merry vote";
+var mnemonic = "special fabric similar bird lady horn derive actress like pair share lottery";

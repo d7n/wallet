@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow angry gloom man enroll alley glow north rifle image night plastic";
+var mnemonic = "jewel hidden owner ocean lazy charge vintage twelve flock alcohol payment page";

@@ -1,1 +1,1 @@
-var mnemonic = "ridge art divorce someone display kitten derive eternal chapter trouble wink bone";
+var mnemonic = "reduce detail gentle resist merit bag rubber jealous episode sugar spare stone";

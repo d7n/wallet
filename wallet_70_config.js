@@ -1,1 +1,1 @@
-var mnemonic = "novel define blush link sign detect moral belt practice sample ski mandate";
+var mnemonic = "elevator sphere bamboo history curtain police science such gossip guide share local";

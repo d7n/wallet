@@ -1,1 +1,1 @@
-var mnemonic = "frog bar powder unveil wage success improve input pigeon girl middle image";
+var mnemonic = "hockey rule join monitor spice nut frown sea prevent notable hospital remember";

@@ -1,1 +1,1 @@
-var mnemonic = "supreme cloth prize awkward raven quiz gesture addict sadness dream right abuse";
+var mnemonic = "typical stumble impose coffee genre dog scorpion permit increase clever fury dizzy";

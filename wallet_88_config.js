@@ -1,1 +1,1 @@
-var mnemonic = "stand misery huge mango dinner universe leg rubber whip bean wet drastic";
+var mnemonic = "evidence celery foam hard book tent dry knee anxiety thank better keep";

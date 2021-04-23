@@ -1,1 +1,1 @@
-var mnemonic = "enable burst vast vehicle ranch around slow behave outer minute toilet kick";
+var mnemonic = "mass still old chaos delay never approve pig cradle opera random this";

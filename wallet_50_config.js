@@ -1,1 +1,1 @@
-var mnemonic = "plunge catch reduce resist dad myself install thank evoke bacon magnet top";
+var mnemonic = "survey giggle vanish insane convince disorder steak clean flag orchard round chunk";

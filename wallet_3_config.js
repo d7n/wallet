@@ -1,1 +1,1 @@
-var mnemonic = "hold health dad remove snap original alter trigger camera young trend loyal";
+var mnemonic = "throw congress antique recycle rigid author cattle history coin sketch bracket retreat";

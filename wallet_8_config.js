@@ -1,1 +1,1 @@
-var mnemonic = "army tell kitchen polar virtual mail hobby side scrub slab industry salmon";
+var mnemonic = "draft plug slight follow alert yard reject rich explain derive beauty walnut";

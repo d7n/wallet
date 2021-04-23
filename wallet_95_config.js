@@ -1,1 +1,1 @@
-var mnemonic = "rebel pony dragon need globe joy dirt biology arch later fantasy crystal";
+var mnemonic = "supreme material forum source distance eternal list rocket hamster actress public cruel";

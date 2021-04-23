@@ -1,1 +1,1 @@
-var mnemonic = "layer turkey seminar chat loop protect dizzy chapter alley airport frame train";
+var mnemonic = "hospital pony invest arch path empty peasant nature glory bread struggle swing";

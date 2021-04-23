@@ -1,1 +1,1 @@
-var mnemonic = "visit cargo cattle burden seven iron enlist valley valve stand task menu";
+var mnemonic = "wreck gasp crazy pluck soup jaguar carpet slot glimpse below reason country";

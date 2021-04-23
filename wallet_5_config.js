@@ -1,1 +1,1 @@
-var mnemonic = "ginger wage spy want autumn gown direct hotel math confirm harbor language";
+var mnemonic = "deposit scan play student bomb boost effort depth marine pass mouse normal";

@@ -1,1 +1,1 @@
-var mnemonic = "bitter risk often primary brief minute check door spy decline session settle";
+var mnemonic = "valid truly child provide lounge verb amazing emerge isolate vintage voyage road";

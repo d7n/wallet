@@ -1,1 +1,1 @@
-var mnemonic = "pitch noodle tell route art boy movie shiver anchor distance away inject";
+var mnemonic = "clarify indicate exhibit jacket render junk river coconut green shiver orange pottery";

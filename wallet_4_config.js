@@ -1,1 +1,1 @@
-var mnemonic = "book bird evidence jump equal enable promote learn shaft whip nominee target";
+var mnemonic = "shoot whisper until work lemon valley chief salute robust verb connect appear";

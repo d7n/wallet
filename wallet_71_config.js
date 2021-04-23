@@ -1,1 +1,1 @@
-var mnemonic = "donate noodle enact surround tornado juice maid curious artwork spare enemy board";
+var mnemonic = "arrest phone actor wave phone room bronze icon lunch dentist mixed ladder";

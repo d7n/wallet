@@ -1,1 +1,1 @@
-var mnemonic = "rocket sibling conduct useful evil foster throw prison squeeze accuse dog easy";
+var mnemonic = "across decline broom solve loan orient oblige leopard void perfect welcome height";

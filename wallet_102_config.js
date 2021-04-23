@@ -1,1 +1,1 @@
-var mnemonic = "night burger ride wolf sight chuckle forward pen bag cargo clutch kitchen";
+var mnemonic = "balcony grief zone destroy spawn venture hour pair laptop initial little visit";
