@@ -1,1 +1,1 @@
-var mnemonic = "quality popular buffalo shadow gasp talk loyal direct task monkey swallow frozen";
+var mnemonic = "narrow pulse truly type rely chicken mountain return hill fashion garbage question";

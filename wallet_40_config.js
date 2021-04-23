@@ -1,1 +1,1 @@
-var mnemonic = "wisdom sample ankle deny stumble donor behind hope bridge guess blast green";
+var mnemonic = "master install stick health divert layer fetch crime fat proof tiger rent";

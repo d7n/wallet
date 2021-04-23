@@ -1,1 +1,1 @@
-var mnemonic = "frost moral skull prefer puzzle cash trial worth wear fade fork execute";
+var mnemonic = "hundred park feel knife slice acid slice grief govern tree solid thumb";

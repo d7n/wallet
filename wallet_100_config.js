@@ -1,1 +1,1 @@
-var mnemonic = "shy banner desert flight gauge snow anchor tribe huge kangaroo success actor";
+var mnemonic = "task evoke pet brain pole hour barrel decide surround mix surface despair";

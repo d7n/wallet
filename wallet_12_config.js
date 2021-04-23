@@ -1,1 +1,1 @@
-var mnemonic = "coconut copy shift drop arrest brown rely draw century glow author pink";
+var mnemonic = "course farm deer reward giggle deal account kitten inspire style girl crack";

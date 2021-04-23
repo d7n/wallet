@@ -1,1 +1,1 @@
-var mnemonic = "humor rookie salmon blade elite rain attract endless federal toward spice liquid";
+var mnemonic = "copper muscle warm essay lyrics zero waste walnut safe favorite cruel absent";

@@ -1,1 +1,1 @@
-var mnemonic = "magic spike prevent copy unable treat peanut income rug robot awake annual";
+var mnemonic = "laugh spot review nose wrap moral hair grief year arena rifle suspect";

@@ -1,1 +1,1 @@
-var mnemonic = "gorilla lumber demand wood camera travel marble basket bounce unique dust swamp";
+var mnemonic = "detect hole budget spider rotate double deposit between pizza opinion old web";

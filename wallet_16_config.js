@@ -1,1 +1,1 @@
-var mnemonic = "make tray chat subject debate electric vanish help safe travel atom convince";
+var mnemonic = "mimic adapt wet neck cloud manage flavor circle emerge want remain sound";

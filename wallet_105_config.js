@@ -1,1 +1,1 @@
-var mnemonic = "license chalk annual infant paper other maid festival issue coast track normal";
+var mnemonic = "stay draw buddy able kangaroo avoid govern journey craft senior cruise affair";

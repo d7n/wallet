@@ -1,1 +1,1 @@
-var mnemonic = "spot dance announce output limb ride corn match lucky doctor media easily";
+var mnemonic = "globe loop burst add diesel tenant salad marriage physical episode ensure admit";

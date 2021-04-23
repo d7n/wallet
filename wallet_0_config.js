@@ -1,1 +1,1 @@
-var mnemonic = "absurd consider aunt puzzle captain wish portion slide club olive phrase fancy";
+var mnemonic = "tissue soap afford shell ancient walk public rug scare track milk sample";

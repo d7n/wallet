@@ -1,1 +1,1 @@
-var mnemonic = "raise february tag color confirm hub buddy disease spatial claim brain fork";
+var mnemonic = "express disease attitude dawn debris crane insect real since shine shop hobby";

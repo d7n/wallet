@@ -1,1 +1,1 @@
-var mnemonic = "clever clip negative rival card clump gym unknown ridge capable regret style";
+var mnemonic = "immune frequent monkey vintage science scissors case sunny parent begin dumb cry";

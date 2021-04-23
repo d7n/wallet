@@ -1,1 +1,1 @@
-var mnemonic = "false income theory code shift smart execute myth common aisle scrub fat";
+var mnemonic = "deal deposit borrow dial miss raccoon health insect tattoo purpose walnut elder";

@@ -1,1 +1,1 @@
-var mnemonic = "dentist life rich corn garden begin exhaust alarm tooth music dentist resource";
+var mnemonic = "effort tape lazy make ready patch taste able lemon symbol sport seminar";

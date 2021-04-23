@@ -1,1 +1,1 @@
-var mnemonic = "paper derive disease foam glad hover invest general dignity certain history spoil";
+var mnemonic = "ocean one conduct poverty pioneer stereo turtle wealth wheel display supply other";

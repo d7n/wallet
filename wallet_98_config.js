@@ -1,1 +1,1 @@
-var mnemonic = "office engage swarm input cigar neutral prosper obvious cigar level divert cute";
+var mnemonic = "turkey fossil bottom destroy urban lock knock object rose clock bring action";

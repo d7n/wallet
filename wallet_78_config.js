@@ -1,1 +1,1 @@
-var mnemonic = "crack elevator silver budget olympic electric exercise artefact foam noble dog large";
+var mnemonic = "field feed color lens frozen jungle raven relief rule hair sadness oil";

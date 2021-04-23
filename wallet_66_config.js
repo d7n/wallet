@@ -1,1 +1,1 @@
-var mnemonic = "hurt boss spatial tree salute board advice bread fever useful flush accident";
+var mnemonic = "subway palace oak cross rubber barrel link slim trash crash shield lecture";

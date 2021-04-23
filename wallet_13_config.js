@@ -1,1 +1,1 @@
-var mnemonic = "melt image drink mechanic floor boat width large gasp broken retire device";
+var mnemonic = "foil universe vapor assume great shiver prize record daring question pair crater";

@@ -1,1 +1,1 @@
-var mnemonic = "tool demand opinion venue sausage network rookie uphold code mountain dizzy message";
+var mnemonic = "edge nice toe drip census mobile expand tired neither flee win witness";

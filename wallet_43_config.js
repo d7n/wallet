@@ -1,1 +1,1 @@
-var mnemonic = "jump crash awkward leg badge sad tornado click imitate man trumpet garden";
+var mnemonic = "runway explain shoulder wealth bomb ritual urge ostrich eternal opinion pepper gas";

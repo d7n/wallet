@@ -1,1 +1,1 @@
-var mnemonic = "wait double brother daring answer spray donate output swing flush coin chaos";
+var mnemonic = "thrive solar degree injury student eternal present paddle disagree frost annual butter";

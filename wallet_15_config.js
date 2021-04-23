@@ -1,1 +1,1 @@
-var mnemonic = "struggle control hazard guess bench swim retreat proof member unfold weekend couple";
+var mnemonic = "seek alcohol present horror eyebrow welcome share cable crisp topic shed april";

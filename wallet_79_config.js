@@ -1,1 +1,1 @@
-var mnemonic = "resist clump output slogan broken ostrich heavy surface car palm error nature";
+var mnemonic = "deal clarify stomach across lunar leave increase system jaguar cheap embark wrestle";

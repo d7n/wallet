@@ -1,1 +1,1 @@
-var mnemonic = "film treat disease custom net mystery census advice hammer rebel similar holiday";
+var mnemonic = "service fabric honey student poverty impact flame office tray present mother mom";

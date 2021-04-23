@@ -1,1 +1,1 @@
-var mnemonic = "segment idea reason predict copper theory artist want canoe since clog shell";
+var mnemonic = "protect palm search knee crunch deal faculty victory mix cotton fat settle";

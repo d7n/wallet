@@ -1,1 +1,1 @@
-var mnemonic = "please inch long raven autumn cat gallery ready anxiety right spice useless";
+var mnemonic = "decide museum fun emotion dose galaxy pencil anchor ceiling ribbon december prosper";

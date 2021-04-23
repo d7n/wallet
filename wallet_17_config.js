@@ -1,1 +1,1 @@
-var mnemonic = "rival fragile mix identify side hobby royal dentist fiber coffee muffin invest";
+var mnemonic = "memory modify hidden talent mad glove valve neglect soda brand certain wrestle";

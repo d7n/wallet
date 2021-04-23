@@ -1,1 +1,1 @@
-var mnemonic = "tragic meadow blade gift position oxygen unlock melody trim faith chimney caution";
+var mnemonic = "wish word siege salmon super involve flavor wife stove brisk age spread";

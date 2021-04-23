@@ -1,1 +1,1 @@
-var mnemonic = "popular salon soda later design wealth mosquito remain tool rough final monitor";
+var mnemonic = "work crew vehicle also convince exercise organ glove crater frequent notable divide";

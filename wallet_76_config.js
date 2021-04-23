@@ -1,1 +1,1 @@
-var mnemonic = "shove donate slice client steak cloud piece ugly owner race robot guide";
+var mnemonic = "little duck illness velvet wise salute spoon finish defense dust denial spice";

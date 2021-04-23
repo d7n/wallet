@@ -1,1 +1,1 @@
-var mnemonic = "elbow high mouse square stand solar genius melt random lake pizza win";
+var mnemonic = "fringe awful improve cigar seminar play document dynamic wagon announce ladder parrot";

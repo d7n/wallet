@@ -1,1 +1,1 @@
-var mnemonic = "trash hazard version object visual logic hint oven deposit giggle like rice";
+var mnemonic = "betray collect tongue bacon achieve arm curve traffic exit grief mansion fine";

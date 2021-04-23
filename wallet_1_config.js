@@ -1,1 +1,1 @@
-var mnemonic = "attend relief fashion divorce razor quarter immense leaf twist gasp bar person";
+var mnemonic = "lyrics federal aerobic tackle deposit fine job atom digital display attend sister";

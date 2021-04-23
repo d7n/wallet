@@ -1,1 +1,1 @@
-var mnemonic = "liquid situate logic dad tell dwarf hammer surface romance galaxy monster denial";
+var mnemonic = "naive pioneer hockey finger mouse giggle law able mouse west neither bone";

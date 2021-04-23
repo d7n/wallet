@@ -1,1 +1,1 @@
-var mnemonic = "myth refuse weapon rapid enroll unlock october sell quantum salon kangaroo faculty";
+var mnemonic = "only affair cigar able jar salt index burst pill jar acid solar";

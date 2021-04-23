@@ -1,1 +1,1 @@
-var mnemonic = "radio play organ plunge drill crack label adapt shop angle tone only";
+var mnemonic = "grant butter demise chunk essay nothing there jar stem situate execute start";

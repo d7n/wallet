@@ -1,1 +1,1 @@
-var mnemonic = "female rate skate cancel vault able hood coast express ball make humble";
+var mnemonic = "runway topple loyal coil fitness cradle expire place clerk matrix border embrace";

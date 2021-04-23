@@ -1,1 +1,1 @@
-var mnemonic = "around require joke unfair motor cool mesh decorate usual voice whale ability";
+var mnemonic = "blast what shoulder decline satisfy olympic curve nerve grab thunder fatigue wait";

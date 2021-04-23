@@ -1,1 +1,1 @@
-var mnemonic = "blue drive economy village avocado tennis oyster stock suspect number open ancient";
+var mnemonic = "slice ridge genre hurt burst three horse forget expose chest blood dolphin";

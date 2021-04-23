@@ -1,1 +1,1 @@
-var mnemonic = "couch whale deliver educate rather option cushion ugly ahead awkward tumble vibrant";
+var mnemonic = "siren mandate stand abuse left auction robust assault village plug meat entry";

@@ -1,1 +1,1 @@
-var mnemonic = "dumb feed maze flight hill shop sponsor evolve thrive assault blossom youth";
+var mnemonic = "announce ball evil various elite track art mesh early awful angry market";

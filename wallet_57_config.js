@@ -1,1 +1,1 @@
-var mnemonic = "enact climb antenna dream town actress swallow found daring symbol bird wolf";
+var mnemonic = "initial camp midnight invite witness income metal window toward brother lyrics street";

@@ -1,1 +1,1 @@
-var mnemonic = "spider clock switch announce final width nation air owner satisfy joke gasp";
+var mnemonic = "margin resource dose cat still like almost pumpkin anchor entire way grid";

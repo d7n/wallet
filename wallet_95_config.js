@@ -1,1 +1,1 @@
-var mnemonic = "ethics easily attend elite organ truck zero curious spice steel giant pilot";
+var mnemonic = "clown check crouch click boy chase job habit inspire cherry ivory execute";

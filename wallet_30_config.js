@@ -1,1 +1,1 @@
-var mnemonic = "spin retire bright army rescue actress creek pilot window water amused finger";
+var mnemonic = "stem top air gallery spare vessel swim exist topple gift trick easy";

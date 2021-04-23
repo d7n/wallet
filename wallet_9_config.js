@@ -1,1 +1,1 @@
-var mnemonic = "main flee jar prevent wife initial buffalo inhale army feature machine under";
+var mnemonic = "atom deer alpha cause truly write lizard ramp humble play unfair rhythm";

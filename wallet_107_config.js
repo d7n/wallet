@@ -1,1 +1,1 @@
-var mnemonic = "endless crop rocket renew impulse vehicle brain math add tiny maid obey";
+var mnemonic = "village domain congress announce below clutch badge owner angry adult rocket badge";

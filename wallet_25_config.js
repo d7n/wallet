@@ -1,1 +1,1 @@
-var mnemonic = "repair cabbage bicycle master sort want vendor unique quiz toss skill theory";
+var mnemonic = "local apart biology maximum sponsor shuffle right river company risk motion limit";

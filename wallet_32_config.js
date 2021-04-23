@@ -1,1 +1,1 @@
-var mnemonic = "return solar gloom dinner sea eternal duty false mesh poet tomorrow easily";
+var mnemonic = "dentist hold slab tiger essence dinner local absurd scorpion apology abandon pave";

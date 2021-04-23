@@ -1,1 +1,1 @@
-var mnemonic = "toward blossom rescue drama route valid soccer rich east tired flock swim";
+var mnemonic = "critic mechanic west sketch above project fiscal shallow forget need luggage forum";

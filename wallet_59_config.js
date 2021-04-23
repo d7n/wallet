@@ -1,1 +1,1 @@
-var mnemonic = "pole toe screen mercy very near iron space rebel unaware sock remember";
+var mnemonic = "crater shallow wing dwarf jaguar rival patient snap wolf view lawsuit noise";

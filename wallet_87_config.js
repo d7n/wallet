@@ -1,1 +1,1 @@
-var mnemonic = "immense choose flush fence final rural club dice anger machine believe ugly";
+var mnemonic = "pizza honey frequent toward toilet poverty hat void witness lottery spare salute";

@@ -1,1 +1,1 @@
-var mnemonic = "nut one dizzy ramp spider hire dolphin robot key ecology effort hero";
+var mnemonic = "vehicle surround oblige boss silk speed grant rib student improve uphold ethics";

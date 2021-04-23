@@ -1,1 +1,1 @@
-var mnemonic = "entry athlete keep find palm comic top thumb tooth idle toast force";
+var mnemonic = "book dutch sting job employ swim burger surface forest home sea layer";

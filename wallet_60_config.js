@@ -1,1 +1,1 @@
-var mnemonic = "disorder shoe shell fire tiger delay prosper fashion bag arctic direct estate";
+var mnemonic = "taste advice excuse liquid reject legal gate pretty equal cheese jewel student";

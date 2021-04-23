@@ -1,1 +1,1 @@
-var mnemonic = "smoke luxury antique few behave owner hard wage guess veteran shadow gym";
+var mnemonic = "cabbage machine lazy spread leopard supreme sand puzzle luxury remain planet observe";

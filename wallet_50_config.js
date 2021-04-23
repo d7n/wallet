@@ -1,1 +1,1 @@
-var mnemonic = "sugar brick member april network neglect again review salmon twist loud collect";
+var mnemonic = "liquid monster lyrics elder swear lonely fuel inside exclude victory mango garden";

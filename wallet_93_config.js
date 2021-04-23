@@ -1,1 +1,1 @@
-var mnemonic = "rule inner general primary cat betray embrace twin then damage useful island";
+var mnemonic = "sentence fee volume short moment twin sell trouble flip rival put spider";

@@ -1,1 +1,1 @@
-var mnemonic = "stone luggage frozen object gossip put trust grant genuine motion urge rare";
+var mnemonic = "fiscal still until uncle reject style disorder daring apple remain swim actress";

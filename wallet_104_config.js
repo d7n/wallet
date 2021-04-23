@@ -1,1 +1,1 @@
-var mnemonic = "stomach impulse charge pair canyon awful peace used enact midnight success slender";
+var mnemonic = "rule suffer pilot ribbon cupboard plunge guard quote nephew canal mind entry";

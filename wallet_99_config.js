@@ -1,1 +1,1 @@
-var mnemonic = "charge shield hero case finger later sugar stool donate place blind useful";
+var mnemonic = "mammal velvet recycle sauce estate comfort horse fame bag help bachelor margin";

@@ -1,1 +1,1 @@
-var mnemonic = "keen ordinary giggle river flock bench turtle album recall race comic scorpion";
+var mnemonic = "spice history slow fluid rebel auction there belt heart almost step clip";

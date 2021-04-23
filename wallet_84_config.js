@@ -1,1 +1,1 @@
-var mnemonic = "symptom host promote donate birth useless cloud sense blast ankle rug leg";
+var mnemonic = "wrong train saddle release abuse arrive phone scrub one rate stove youth";

@@ -1,1 +1,1 @@
-var mnemonic = "novel success sure skill change fuel torch write funny fat legal front";
+var mnemonic = "cabin rigid story poem alien model struggle sausage garment fancy sail uphold";

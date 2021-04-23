@@ -1,1 +1,1 @@
-var mnemonic = "area length pottery fever play despair again liquid steak apology animal juice";
+var mnemonic = "slogan quote add response copy crime answer head damp supply swim weird";

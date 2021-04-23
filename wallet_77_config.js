@@ -1,1 +1,1 @@
-var mnemonic = "zebra busy talk install health senior deposit best plunge wine end mosquito";
+var mnemonic = "jelly erode spell velvet welcome reopen afford parade toss huge modify great";

@@ -1,1 +1,1 @@
-var mnemonic = "material end audit biology repair nominee inform satisfy digital swallow athlete child";
+var mnemonic = "copy stock nasty fatal amount oblige service despair leaf tackle eternal text";

@@ -1,1 +1,1 @@
-var mnemonic = "ski save furnace joke arm they connect economy fetch unhappy begin fortune";
+var mnemonic = "guitar apology vicious common movie cradle sing govern upper pistol expand group";

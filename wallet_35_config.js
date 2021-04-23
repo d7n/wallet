@@ -1,1 +1,1 @@
-var mnemonic = "cloud develop similar wedding muscle layer basic ball ill candy border wrap";
+var mnemonic = "rare orphan seed guess ugly retreat kick banana party artwork beauty liquid";

@@ -1,1 +1,1 @@
-var mnemonic = "diagram pony traffic trade catalog enable length trash muscle detail torch pave";
+var mnemonic = "swing near hair client other cliff stay pole entry keen treat raw";

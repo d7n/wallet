@@ -1,1 +1,1 @@
-var mnemonic = "immune legal grunt tired globe lawsuit husband jeans toast nothing fever police";
+var mnemonic = "iron hollow blame rocket business mom crater hundred alley century harbor call";

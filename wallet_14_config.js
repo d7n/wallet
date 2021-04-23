@@ -1,1 +1,1 @@
-var mnemonic = "guide lock spot olympic victory notice cradle release mom cannon client write";
+var mnemonic = "artwork alcohol hotel enemy youth around robust genius once resemble crouch fade";

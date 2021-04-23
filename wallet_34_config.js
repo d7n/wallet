@@ -1,1 +1,1 @@
-var mnemonic = "punch ordinary wire another athlete you august attitude main bitter cable outside";
+var mnemonic = "fever copy pyramid bacon cabin cereal junior hat sudden palm van size";

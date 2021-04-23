@@ -1,1 +1,1 @@
-var mnemonic = "gather add critic awesome despair present answer skate car negative salon version";
+var mnemonic = "mosquito weather ketchup knife view admit economy blind brisk million merry bracket";

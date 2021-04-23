@@ -1,1 +1,1 @@
-var mnemonic = "minimum idle traffic wall popular refuse first egg provide heavy noodle vocal";
+var mnemonic = "banner buddy expand gauge couch always taste end picnic minor sight quote";

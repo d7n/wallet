@@ -1,1 +1,1 @@
-var mnemonic = "family cargo gaze start radio outer wisdom potato safe document torch seek";
+var mnemonic = "next general divorce survey local pulp leader attitude abstract dinosaur panel proud";

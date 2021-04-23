@@ -1,1 +1,1 @@
-var mnemonic = "daring bread grow ankle click judge hamster mirror cruise guess sail taste";
+var mnemonic = "sadness famous slogan fragile penalty client divide stadium rug expand add iron";

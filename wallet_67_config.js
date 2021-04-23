@@ -1,1 +1,1 @@
-var mnemonic = "lemon prepare sunset dose east drive flash crystal visit series grape spare";
+var mnemonic = "report body shock diary material grid category motion outside regular negative shell";

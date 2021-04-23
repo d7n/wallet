@@ -1,1 +1,1 @@
-var mnemonic = "simple manage rely neck ring coach margin file neglect glide pass proof";
+var mnemonic = "sick tiny antenna clown soul divert save subway hover resemble media drill";
