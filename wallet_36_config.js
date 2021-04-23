@@ -1,1 +1,1 @@
-var mnemonic = "other supreme budget faculty image diesel day pass host chase panel place";
+var mnemonic = "alpha hover gift vacuum episode train title sock behave tomato need spatial";

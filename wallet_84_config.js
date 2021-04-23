@@ -1,1 +1,1 @@
-var mnemonic = "blue fame practice mesh mixture story shadow captain minor nest cross want";
+var mnemonic = "reform autumn essay suspect calm monitor drip often refuse pudding reform situate";

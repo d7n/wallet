@@ -1,1 +1,1 @@
-var mnemonic = "candy subject special public rice wagon fit december inch vehicle kitten expose";
+var mnemonic = "seven battle divert shrimp cake faint steak casino large core caught father";

@@ -1,1 +1,1 @@
-var mnemonic = "supply front strategy brief choice rude word disorder final march step photo";
+var mnemonic = "object title escape town glad spike discover elder permit mosquito unfair body";

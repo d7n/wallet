@@ -1,1 +1,1 @@
-var mnemonic = "track soccer rhythm visa issue toward pair two idle siren guide calm";
+var mnemonic = "afraid barrel crater pyramid month input work address keep surround conduct convince";

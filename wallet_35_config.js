@@ -1,1 +1,1 @@
-var mnemonic = "wave fire rent spatial riot occur strong enact sudden scheme crumble foil";
+var mnemonic = "doctor leopard harvest swap innocent romance stamp exercise company shadow dry eagle";

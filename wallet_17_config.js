@@ -1,1 +1,1 @@
-var mnemonic = "slush twice exhibit blush embody crane head acquire antenna vocal lawsuit gas";
+var mnemonic = "wish wrist cram ready come lottery fiction memory poet crawl suggest drill";

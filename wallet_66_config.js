@@ -1,1 +1,1 @@
-var mnemonic = "recycle bind resemble cool thought endorse puzzle gallery digital child design board";
+var mnemonic = "kitchen expand next club veteran music room maximum skin lesson pattern wide";

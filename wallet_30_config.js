@@ -1,1 +1,1 @@
-var mnemonic = "sister ignore hundred disease quantum parent across monkey property field segment industry";
+var mnemonic = "social shock knee quote limit afford praise six trophy lemon begin crucial";

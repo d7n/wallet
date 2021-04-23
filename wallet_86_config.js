@@ -1,1 +1,1 @@
-var mnemonic = "diamond lemon second meadow border reduce opera happy broccoli direct useless forward";
+var mnemonic = "post cage dilemma skill lend elite glass caught original kit better drill";

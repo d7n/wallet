@@ -1,1 +1,1 @@
-var mnemonic = "matter desk correct snow dial cute chat screen tone fee purpose pepper";
+var mnemonic = "material door garbage nice tobacco renew left announce flame doctor crop frost";

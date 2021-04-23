@@ -1,1 +1,1 @@
-var mnemonic = "dust blade fancy lemon agree upper holiday model welcome trial style solid";
+var mnemonic = "project wall logic onion latin model dress butter supply save flag cat";

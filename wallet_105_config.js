@@ -1,1 +1,1 @@
-var mnemonic = "try island crystal climb afraid spend wink awake fine recall subway lottery";
+var mnemonic = "always vote produce thank another nothing liberty proud ticket action another aspect";

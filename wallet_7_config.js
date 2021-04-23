@@ -1,1 +1,1 @@
-var mnemonic = "sign heart try flee reduce comfort intact okay flower pencil pull vintage";
+var mnemonic = "quality motor hour stove burst equip slush congress banner pattern mirror garbage";

@@ -1,1 +1,1 @@
-var mnemonic = "burden mixture health sugar oven cake tonight travel path gossip only kiss";
+var mnemonic = "disease spring hello aerobic female tree caught blossom maid tissue address myself";

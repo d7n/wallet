@@ -1,1 +1,1 @@
-var mnemonic = "joke learn funny card potato flee company share autumn garbage oppose moment";
+var mnemonic = "still strong shuffle promote share vendor cute salt sample risk novel they";

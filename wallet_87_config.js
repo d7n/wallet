@@ -1,1 +1,1 @@
-var mnemonic = "embrace usage rigid wire roof vast wasp clever ignore magic noodle jelly";
+var mnemonic = "spoil crawl rude main mass forum glow awesome gun dizzy east salon";

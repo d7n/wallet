@@ -1,1 +1,1 @@
-var mnemonic = "man chimney tunnel physical carry box hub debris emotion lab that jelly";
+var mnemonic = "enact hospital salt squeeze comic bag state entire dry picnic shallow onion";

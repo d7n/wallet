@@ -1,1 +1,1 @@
-var mnemonic = "style ketchup orient connect inject behind east child mystery water scene borrow";
+var mnemonic = "boy finish thrive brand derive arch segment category lobster first elbow cruise";

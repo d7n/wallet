@@ -1,1 +1,1 @@
-var mnemonic = "can artist job antique enter infant step march inner village purchase win";
+var mnemonic = "night burger ride wolf sight chuckle forward pen bag cargo clutch kitchen";

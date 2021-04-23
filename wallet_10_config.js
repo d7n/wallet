@@ -1,1 +1,1 @@
-var mnemonic = "iron metal skirt force muscle trend life parade heavy sting special disagree";
+var mnemonic = "eyebrow chicken key seven soup captain pilot duty open whisper drastic essence";

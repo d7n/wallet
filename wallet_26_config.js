@@ -1,1 +1,1 @@
-var mnemonic = "category drive artefact skull badge lift flower fade head garment thunder type";
+var mnemonic = "add edit call budget portion panther live venture stock when shadow dinosaur";

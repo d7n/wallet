@@ -1,1 +1,1 @@
-var mnemonic = "ordinary man heart rain mean kangaroo bronze winner color asset merry they";
+var mnemonic = "layer turkey seminar chat loop protect dizzy chapter alley airport frame train";

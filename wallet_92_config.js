@@ -1,1 +1,1 @@
-var mnemonic = "stock current shoot wisdom chuckle champion father purse damp muffin dry dream";
+var mnemonic = "vessel project pear salmon original demand clap artefact rookie hello net cannon";

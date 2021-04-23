@@ -1,1 +1,1 @@
-var mnemonic = "voice process churn spider chat sustain fire inflict route armor tonight sort";
+var mnemonic = "year wealth enact spare junior liar female poverty air exhaust over lucky";

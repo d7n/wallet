@@ -1,1 +1,1 @@
-var mnemonic = "pretty fit blade message bike mammal dove next any transfer coin length";
+var mnemonic = "noble elite capable inquiry vacant safe evoke also blue position strike close";

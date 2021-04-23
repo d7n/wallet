@@ -1,1 +1,1 @@
-var mnemonic = "sweet above whisper reveal minor behave exit model fresh weekend carry tumble";
+var mnemonic = "rocket sibling conduct useful evil foster throw prison squeeze accuse dog easy";

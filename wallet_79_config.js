@@ -1,1 +1,1 @@
-var mnemonic = "empower cruise cliff couch border movie display leg combine ripple gorilla diet";
+var mnemonic = "raccoon client page cake scatter canyon sport rigid unfold toy quality ecology";

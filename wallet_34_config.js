@@ -1,1 +1,1 @@
-var mnemonic = "silly pattern artefact dial recycle message surge vague flame morning secret script";
+var mnemonic = "tail federal current income chapter ancient coconut cabbage large piano rebel begin";

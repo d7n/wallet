@@ -1,1 +1,1 @@
-var mnemonic = "tide kite best profit orbit develop jaguar boost slogan cheese slow strike";
+var mnemonic = "video sad horse style crouch owner blame invest section ring blossom bright";

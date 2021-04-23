@@ -1,1 +1,1 @@
-var mnemonic = "aim ten test argue antenna victory include turkey horse knock quit nature";
+var mnemonic = "bone sell scout endorse fog firm struggle train vicious taste pottery clarify";

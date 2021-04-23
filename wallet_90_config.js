@@ -1,1 +1,1 @@
-var mnemonic = "way jar weird know mention walk swallow fitness submit trial flat caught";
+var mnemonic = "evil mountain insect message hospital install space sell ocean glue cigar since";

@@ -1,1 +1,1 @@
-var mnemonic = "supply furnace believe track harvest media there surprise broccoli object hamster vocal";
+var mnemonic = "twice kid rain sorry illness wrong gallery promote diet endorse maximum erosion";

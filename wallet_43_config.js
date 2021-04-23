@@ -1,1 +1,1 @@
-var mnemonic = "exclude spy soda sketch maximum mixed opera stone jewel legal dream source";
+var mnemonic = "cotton front soldier bounce muscle valve column advance tattoo tragic grace chief";

@@ -1,1 +1,1 @@
-var mnemonic = "aisle impose dog grant hazard library recall police paddle method hundred swing";
+var mnemonic = "forest brown release someone pattern runway wait tent broom review book nuclear";

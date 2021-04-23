@@ -1,1 +1,1 @@
-var mnemonic = "usage disease bullet observe champion second cereal heavy upgrade series virtual culture";
+var mnemonic = "surround grain kitchen parrot pet cash trade today sunset weasel puzzle buzz";

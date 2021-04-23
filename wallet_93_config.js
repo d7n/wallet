@@ -1,1 +1,1 @@
-var mnemonic = "purpose anchor hard wisdom hold erode boost nest drift naive critic isolate";
+var mnemonic = "flock upset cattle nuclear dream asthma mean dinosaur three innocent reopen wrist";

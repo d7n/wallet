@@ -1,1 +1,1 @@
-var mnemonic = "help define shine fresh material over more ghost door typical into around";
+var mnemonic = "cotton job swamp mystery toe lunch can load object guitar crunch bike";

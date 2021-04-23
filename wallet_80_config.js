@@ -1,1 +1,1 @@
-var mnemonic = "palace omit island suggest message casual aspect unhappy ski waste wealth system";
+var mnemonic = "diagram usual amateur cost scout toward collect mimic verb home sausage equip";

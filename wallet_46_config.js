@@ -1,1 +1,1 @@
-var mnemonic = "tray metal region release claim census prevent sport awkward demise design improve";
+var mnemonic = "slam result expect engage credit mule horse project umbrella ginger artist coconut";

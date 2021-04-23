@@ -1,1 +1,1 @@
-var mnemonic = "earth source bind attend gadget used slender trophy dragon betray column night";
+var mnemonic = "picnic jaguar error clip achieve seminar shock social garbage december convince term";

@@ -1,1 +1,1 @@
-var mnemonic = "entire city great garment rabbit garden fish invest yellow hub bacon orchard";
+var mnemonic = "face venue donkey absorb settle bring maple give obtain front liquid mouse";

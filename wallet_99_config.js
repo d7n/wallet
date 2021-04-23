@@ -1,1 +1,1 @@
-var mnemonic = "wool universe wool sing celery rule athlete science dash pitch cupboard cluster";
+var mnemonic = "measure sample love install sunset typical hill final garbage fringe illness chef";

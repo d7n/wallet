@@ -1,1 +1,1 @@
-var mnemonic = "sail extend ginger harbor robot divorce identify idea village master abstract aspect";
+var mnemonic = "thunder master valve possible enable rice route split rice rail glimpse desert";

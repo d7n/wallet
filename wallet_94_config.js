@@ -1,1 +1,1 @@
-var mnemonic = "toddler bulb peasant proof blast pole cruel miss left legend orbit maximum";
+var mnemonic = "supreme cloth prize awkward raven quiz gesture addict sadness dream right abuse";

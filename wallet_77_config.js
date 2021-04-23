@@ -1,1 +1,1 @@
-var mnemonic = "recycle clay floor tissue nuclear forget become turn forest motor glare immune";
+var mnemonic = "drink silent mail nothing twice solar either yellow penalty stock pencil visa";

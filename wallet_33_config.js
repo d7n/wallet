@@ -1,1 +1,1 @@
-var mnemonic = "stomach expand bird leg tip rival glad question sad cinnamon nut miracle";
+var mnemonic = "ramp lock library rude vague winner captain current rate own gap return";

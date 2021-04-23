@@ -1,1 +1,1 @@
-var mnemonic = "true spray flight detail verify become kangaroo peasant guess tackle sting install";
+var mnemonic = "bacon lesson raven gospel beef animal economy much purity there party park";

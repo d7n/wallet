@@ -1,1 +1,1 @@
-var mnemonic = "noise soldier ritual fantasy student worth derive shed level rather arrive okay";
+var mnemonic = "abandon there penalty crop gospel hundred credit eye film boss trophy simple";

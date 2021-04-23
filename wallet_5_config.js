@@ -1,1 +1,1 @@
-var mnemonic = "water pass notice trick latin mansion canyon vacuum audit force shed pact";
+var mnemonic = "ginger wage spy want autumn gown direct hotel math confirm harbor language";

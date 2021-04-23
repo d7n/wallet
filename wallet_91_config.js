@@ -1,1 +1,1 @@
-var mnemonic = "advance finish walk ball situate session seven sister design because tag evidence";
+var mnemonic = "atom bicycle replace behave nasty clever country ocean fatigue mansion ill already";

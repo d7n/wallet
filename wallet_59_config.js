@@ -1,1 +1,1 @@
-var mnemonic = "twin panic license detail target electric crumble arctic hint online off sea";
+var mnemonic = "draft merit private dial metal banana retreat flee letter sentence battle rich";

@@ -1,1 +1,1 @@
-var mnemonic = "sorry obvious crush only detail hip emerge absurd wedding artefact defy cruel";
+var mnemonic = "enable burst vast vehicle ranch around slow behave outer minute toilet kick";

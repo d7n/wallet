@@ -1,1 +1,1 @@
-var mnemonic = "afford open manual virtual across decade plug simple depth faculty can eager";
+var mnemonic = "receive farm cruel clog present finish idea allow ramp exhibit biology catch";

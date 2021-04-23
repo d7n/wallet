@@ -1,1 +1,1 @@
-var mnemonic = "jacket ugly volume solve mutual sweet spare obvious puzzle tiny life test";
+var mnemonic = "wave inform day give farm bicycle dish canyon garment follow calm kid";

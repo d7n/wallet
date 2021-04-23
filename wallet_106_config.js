@@ -1,1 +1,1 @@
-var mnemonic = "daughter purity short ill protect keen zero frost submit twist illegal eternal";
+var mnemonic = "beauty creek radio employ seat place turkey intact return fossil iron toast";

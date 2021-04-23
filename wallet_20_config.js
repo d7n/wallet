@@ -1,1 +1,1 @@
-var mnemonic = "hen believe vicious donkey loan oak evidence equal dinosaur focus curve brand";
+var mnemonic = "crash ability desert space combine wrong buddy stable divide prepare bleak trend";

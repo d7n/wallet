@@ -1,1 +1,1 @@
-var mnemonic = "normal jealous buzz festival water float sail shell valley armed merry village";
+var mnemonic = "travel sand expand gas possible wasp stadium deputy dial dress arrest remove";

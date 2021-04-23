@@ -1,1 +1,1 @@
-var mnemonic = "purpose album digital reason winter early episode giraffe state fluid first spoon";
+var mnemonic = "lens street task horse seminar business success garage deal genius diet guess";

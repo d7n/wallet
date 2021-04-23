@@ -1,1 +1,1 @@
-var mnemonic = "grab vehicle bargain cigar machine calm hair exile crisp interest supreme shock";
+var mnemonic = "pole solution mechanic keen expand year define return neither assume chimney orphan";

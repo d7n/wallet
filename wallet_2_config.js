@@ -1,1 +1,1 @@
-var mnemonic = "muffin large impact ozone cannon wing erosion zone angle brush escape divorce";
+var mnemonic = "diary fortune grab float van involve bulb initial pigeon say debate relief";

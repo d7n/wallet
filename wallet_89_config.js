@@ -1,1 +1,1 @@
-var mnemonic = "hover name rail joke hundred account moon mimic crazy never town damage";
+var mnemonic = "frog bar powder unveil wage success improve input pigeon girl middle image";

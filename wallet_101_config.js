@@ -1,1 +1,1 @@
-var mnemonic = "logic time follow base fetch yellow noise sock vendor divert zebra sound";
+var mnemonic = "advice ritual antenna detect congress iron scheme lock coin organ purchase smile";

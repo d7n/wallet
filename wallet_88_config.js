@@ -1,1 +1,1 @@
-var mnemonic = "volume brisk dismiss bottom verify depth parade clap cushion cat pool maze";
+var mnemonic = "stand misery huge mango dinner universe leg rubber whip bean wet drastic";

@@ -1,1 +1,1 @@
-var mnemonic = "fury kick tobacco actress seven easy grain fee fortune rate noodle waste";
+var mnemonic = "ridge art divorce someone display kitten derive eternal chapter trouble wink bone";

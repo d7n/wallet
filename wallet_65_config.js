@@ -1,1 +1,1 @@
-var mnemonic = "practice oak margin ethics wheat accuse between vapor raven service powder aunt";
+var mnemonic = "siege work try ring blouse jump treat atom comfort plastic unable flee";

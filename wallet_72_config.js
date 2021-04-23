@@ -1,1 +1,1 @@
-var mnemonic = "ribbon level camera radar parade leader lunar stem seven only ahead explain";
+var mnemonic = "genre catalog chronic awkward cupboard hobby control since simple sleep perfect differ";

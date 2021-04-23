@@ -1,1 +1,1 @@
-var mnemonic = "sustain cloud logic all cupboard echo fish around limb fish retire element";
+var mnemonic = "such flame crawl proof deer fatal flash brain wrestle skirt elbow profit";

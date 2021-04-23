@@ -1,1 +1,1 @@
-var mnemonic = "scatter faculty gas sense decline effort mad syrup coffee hockey imitate citizen";
+var mnemonic = "visit cargo cattle burden seven iron enlist valley valve stand task menu";

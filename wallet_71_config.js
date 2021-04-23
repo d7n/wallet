@@ -1,1 +1,1 @@
-var mnemonic = "trap garbage expand kite outer excuse frown table behave trumpet dream speed";
+var mnemonic = "donate noodle enact surround tornado juice maid curious artwork spare enemy board";

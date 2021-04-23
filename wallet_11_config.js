@@ -1,1 +1,1 @@
-var mnemonic = "slice beyond penalty panel shiver camp absent sure program exit universe drink";
+var mnemonic = "top fabric angle sock sure rally spirit kitten deposit town ceiling lawn";

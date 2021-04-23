@@ -1,1 +1,1 @@
-var mnemonic = "execute trouble evoke casino hard twelve impact clinic engine vapor raw hat";
+var mnemonic = "indicate melt because strong dinner fluid mixed deal oyster swallow invest weekend";

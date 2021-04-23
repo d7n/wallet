@@ -1,1 +1,1 @@
-var mnemonic = "this dawn enrich owner sudden pave ship noise absurd tag left have";
+var mnemonic = "lift trigger tail satisfy artwork library fantasy ignore trigger spin process burger";

@@ -1,1 +1,1 @@
-var mnemonic = "mom jazz version problem mirror armor clever interest merry meadow gift toward";
+var mnemonic = "treat mechanic swift alley faith subway antenna check now gorilla grain layer";

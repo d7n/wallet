@@ -1,1 +1,1 @@
-var mnemonic = "caution tunnel scan scissors afford sketch helmet athlete position dwarf roast benefit";
+var mnemonic = "ski decade pyramid energy globe they adjust devote come person axis ridge";

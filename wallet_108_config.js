@@ -1,1 +1,1 @@
-var mnemonic = "luxury fortune mask glance balance enough tray erupt soul wheel state cargo";
+var mnemonic = "wealth prefer pet tonight mechanic section blast drum charge fluid weapon next";

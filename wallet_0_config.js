@@ -1,1 +1,1 @@
-var mnemonic = "mistake old vicious decrease road uncover child earn hole bright wealth glory";
+var mnemonic = "thunder vivid peanut pony outside pottery observe damage worth ecology permit popular";

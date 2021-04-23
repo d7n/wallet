@@ -1,1 +1,1 @@
-var mnemonic = "damage cream way delay wet habit program army aspect trouble stuff frequent";
+var mnemonic = "arrive brass barrel mule know devote true foot series normal project wonder";

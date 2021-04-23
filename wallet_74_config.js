@@ -1,1 +1,1 @@
-var mnemonic = "punch unusual crime hammer salute mercy dentist give castle hobby soap flee";
+var mnemonic = "book under salon art name approve catch tape fiber clip toss excite";

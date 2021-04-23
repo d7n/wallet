@@ -1,1 +1,1 @@
-var mnemonic = "man jeans once nation victory sudden jungle strong silent health taxi borrow";
+var mnemonic = "random inside naive walnut miss cigar shoulder recall cloth motion burden chest";

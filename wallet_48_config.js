@@ -1,1 +1,1 @@
-var mnemonic = "chalk wear safe harsh yard return destroy direct chief lottery afraid major";
+var mnemonic = "wink goat picture cram job exclude bomb limb adjust elevator trumpet shoulder";

@@ -1,1 +1,1 @@
-var mnemonic = "talent what video bean grunt anchor garment balcony episode cricket couch myself";
+var mnemonic = "rebel pony dragon need globe joy dirt biology arch later fantasy crystal";

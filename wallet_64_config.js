@@ -1,1 +1,1 @@
-var mnemonic = "round menu borrow trap afford spend inch box woman spawn short smooth";
+var mnemonic = "bamboo fat humble brother journey travel siren engage oil expect language also";

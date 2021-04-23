@@ -1,1 +1,1 @@
-var mnemonic = "foot shrug add talent juice above menu antique sort noodle critic plate";
+var mnemonic = "vast key future wood flee domain husband thought twin misery when vintage";

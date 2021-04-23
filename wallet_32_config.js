@@ -1,1 +1,1 @@
-var mnemonic = "oak badge ticket remember width toward middle nose gospel sphere fine combine";
+var mnemonic = "cricket special loop fragile victory negative bus pudding educate soup repeat concert";

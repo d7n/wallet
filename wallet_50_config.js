@@ -1,1 +1,1 @@
-var mnemonic = "close emotion special olive couple stuff spoil observe fog oxygen toe address";
+var mnemonic = "plunge catch reduce resist dad myself install thank evoke bacon magnet top";

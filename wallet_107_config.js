@@ -1,1 +1,1 @@
-var mnemonic = "wash similar employ hover give divide sudden knee ring captain spawn sausage";
+var mnemonic = "labor fluid fee grit glass apart tree boss rhythm own cart climb";

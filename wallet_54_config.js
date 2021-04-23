@@ -1,1 +1,1 @@
-var mnemonic = "pen soap other custom hundred anxiety flight symbol fortune table month space";
+var mnemonic = "brisk embrace elite inform camera build athlete spider shrug sad garbage risk";

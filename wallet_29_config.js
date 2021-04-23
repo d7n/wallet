@@ -1,1 +1,1 @@
-var mnemonic = "apart oppose practice whisper future chunk jump alpha tower luxury artefact olympic";
+var mnemonic = "pitch noodle tell route art boy movie shiver anchor distance away inject";
