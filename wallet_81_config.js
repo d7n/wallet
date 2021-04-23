@@ -1,1 +1,1 @@
-var mnemonic = "day expose chaos help pipe priority trouble banana lamp energy trip bright";
+var mnemonic = "panther echo fix begin spawn rigid switch barrel cabin grace unusual large";

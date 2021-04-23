@@ -1,1 +1,1 @@
-var mnemonic = "heart people laptop tomato admit warm urge silent side narrow pill volcano";
+var mnemonic = "feel pretty game rifle enable this minor trade kitten year material diet";

@@ -1,1 +1,1 @@
-var mnemonic = "canvas gym focus upper despair glimpse police motor digital begin burger diary";
+var mnemonic = "stick alcohol pattern toss beauty audit assault style dish employ fluid tortoise";

@@ -1,1 +1,1 @@
-var mnemonic = "hurdle account crouch oval symbol hip stadium wonder pluck thumb manage face";
+var mnemonic = "embody electric south ugly wheat employ float grain peasant coyote pear mix";

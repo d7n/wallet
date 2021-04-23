@@ -1,1 +1,1 @@
-var mnemonic = "dragon relax rifle ramp lion festival picnic churn ramp poverty answer round";
+var mnemonic = "ring ensure end arrive oblige fitness pave arrange taxi spider brass trim";

@@ -1,1 +1,1 @@
-var mnemonic = "usage sing floor chalk oil amateur copy crumble earn armor draft sister";
+var mnemonic = "trap level pass loyal check quit connect tiny exotic design bar replace";

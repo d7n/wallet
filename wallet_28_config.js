@@ -1,1 +1,1 @@
-var mnemonic = "solid noble observe drum shrimp jazz black correct brown already harbor guard";
+var mnemonic = "cricket ecology science month before knee okay grief garbage throw imitate act";

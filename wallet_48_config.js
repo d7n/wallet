@@ -1,1 +1,1 @@
-var mnemonic = "add limb mixture flower skull slow utility stomach when rebuild orange shield";
+var mnemonic = "armor autumn august menu business paper supreme hire pact plug embark exist";

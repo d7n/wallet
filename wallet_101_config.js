@@ -1,1 +1,1 @@
-var mnemonic = "never push icon loop globe permit eye nominee pulse spider order scout";
+var mnemonic = "hundred divert fresh tomato tube between south degree grunt cash equip average";

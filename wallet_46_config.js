@@ -1,1 +1,1 @@
-var mnemonic = "oak patient shift motor hero patch party urge spoon salad horse nest";
+var mnemonic = "tomato educate enhance ensure ketchup eager have essay hire small cruise smooth";

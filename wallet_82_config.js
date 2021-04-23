@@ -1,1 +1,1 @@
-var mnemonic = "cross scatter light garage steel puzzle movie blue note frost weather morning";
+var mnemonic = "milk pupil bag person prefer raccoon avocado hundred return depth stuff sport";

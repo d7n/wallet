@@ -1,1 +1,1 @@
-var mnemonic = "image clutch wolf illness moment reason tongue issue timber poverty loan oil";
+var mnemonic = "wolf chair urge pen gain bounce endorse million wrist clock gun pudding";

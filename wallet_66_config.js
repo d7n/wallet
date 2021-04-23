@@ -1,1 +1,1 @@
-var mnemonic = "want mesh three differ choose increase smooth side second unknown demise genuine";
+var mnemonic = "ensure order city lemon mixture edge twice asthma gloom pause rigid buyer";

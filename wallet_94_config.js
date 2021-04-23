@@ -1,1 +1,1 @@
-var mnemonic = "resource cradle battle potato play planet animal grape open crazy peasant traffic";
+var mnemonic = "first crystal chat harbor sail media magic since village obtain cat retire";

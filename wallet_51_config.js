@@ -1,1 +1,1 @@
-var mnemonic = "other kidney tube armed hand siren heavy high more bind forum sand";
+var mnemonic = "shoe legal clip father magnet dilemma build point diamond spend involve salon";

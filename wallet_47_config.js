@@ -1,1 +1,1 @@
-var mnemonic = "medal surround fence debris school open wild control you nut stomach identify";
+var mnemonic = "expose taste desert puppy idea chair three eight reveal gap just alarm";

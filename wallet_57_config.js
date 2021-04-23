@@ -1,1 +1,1 @@
-var mnemonic = "toast pyramid animal tag asset topic amused moon smoke curve pact outer";
+var mnemonic = "unit sister album rare table laundry name exile skill wedding lock over";

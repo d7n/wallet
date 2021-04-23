@@ -1,1 +1,1 @@
-var mnemonic = "first excuse master people fatal when angry canvas catalog need visa trust";
+var mnemonic = "spawn degree tail asset noodle negative cause assault assault private walnut project";

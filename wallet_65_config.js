@@ -1,1 +1,1 @@
-var mnemonic = "satoshi million parent special dolphin decorate dinner funny hotel destroy reject mystery";
+var mnemonic = "fork raise skill unusual tortoise action belt cable biology fee lamp lemon";

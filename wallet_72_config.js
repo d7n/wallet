@@ -1,1 +1,1 @@
-var mnemonic = "refuse chuckle scene decade across cycle broom faculty misery image dentist now";
+var mnemonic = "people swift vacant duty frog diary what ghost slide cash state attend";

@@ -1,1 +1,1 @@
-var mnemonic = "theme turkey notable boil inhale stomach acquire foil scorpion deputy title silly";
+var mnemonic = "apology repeat base foster crystal echo depth awesome mixture wrap blush seed";

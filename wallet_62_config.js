@@ -1,1 +1,1 @@
-var mnemonic = "version secret twin between bracket hawk subway nothing all shell sibling modify";
+var mnemonic = "blur animal present carpet buffalo organ common carbon sing ticket buddy kitten";

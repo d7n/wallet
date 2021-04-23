@@ -1,1 +1,1 @@
-var mnemonic = "unfold kind search churn rice expire later gaze car clump sense drill";
+var mnemonic = "damage long fold bench faith finger bunker ranch grit ketchup lawn squeeze";

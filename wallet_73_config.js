@@ -1,1 +1,1 @@
-var mnemonic = "exit popular great unusual wet square during penalty creek camera spin stick";
+var mnemonic = "rib prevent film meadow village news cable select song spend local candy";

@@ -1,1 +1,1 @@
-var mnemonic = "then witness chef bargain boring lock tuition clay fault target bread alone";
+var mnemonic = "color ready record simple bird exact visa fantasy wink solid invite awake";

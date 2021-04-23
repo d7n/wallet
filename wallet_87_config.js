@@ -1,1 +1,1 @@
-var mnemonic = "observe august grant goat bachelor approve decline hair chat thing laptop because";
+var mnemonic = "exhibit planet assault burger length eye pudding bright repeat foil siege math";

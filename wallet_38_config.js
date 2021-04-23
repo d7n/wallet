@@ -1,1 +1,1 @@
-var mnemonic = "exact valve blade razor song little assault either cabbage cluster put snap";
+var mnemonic = "defense train boring abuse truth seek shrimp fit arctic hat deny sketch";

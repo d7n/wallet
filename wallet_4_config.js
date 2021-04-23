@@ -1,1 +1,1 @@
-var mnemonic = "increase hip nerve live speak remain donate vote select joke claim taste";
+var mnemonic = "trade shoe salon else display flower round height wolf diamond flower cabbage";

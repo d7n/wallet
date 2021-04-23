@@ -1,1 +1,1 @@
-var mnemonic = "pill spider venue oak spider play tent nasty girl olympic problem load";
+var mnemonic = "furnace seek bullet trash traffic trial hat flat silk stool model grain";

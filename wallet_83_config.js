@@ -1,1 +1,1 @@
-var mnemonic = "casino harvest siren left battle inner lawsuit weird busy yard radio relief";
+var mnemonic = "bar beef employ glance frog door betray vague soldier spoil picnic pole";

@@ -1,1 +1,1 @@
-var mnemonic = "slogan estate leave wreck axis cinnamon until elbow label broccoli omit daring";
+var mnemonic = "return crop brush cargo silent economy slab tree run roast scissors sleep";

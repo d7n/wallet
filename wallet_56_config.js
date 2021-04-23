@@ -1,1 +1,1 @@
-var mnemonic = "penalty enrich trend occur similar word wisdom lunar ship claw rifle middle";
+var mnemonic = "bronze spring target sad reduce puppy faculty unable kiss aim hospital order";

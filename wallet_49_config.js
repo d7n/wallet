@@ -1,1 +1,1 @@
-var mnemonic = "ahead mom tattoo globe define average method secret warrior useful term brain";
+var mnemonic = "echo pizza cross oblige essence oblige ice bread force person session ordinary";

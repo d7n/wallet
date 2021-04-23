@@ -1,1 +1,1 @@
-var mnemonic = "neglect spatial rent seed arrive kiss review machine interest illness regular useful";
+var mnemonic = "forget father nature dismiss zone outside quote arctic ginger switch stumble spray";

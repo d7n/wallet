@@ -1,1 +1,1 @@
-var mnemonic = "child spare happy luxury bomb delay fence lottery clump stomach path suspect";
+var mnemonic = "siren empty armed drastic orbit gorilla alone aim slender emerge bulb cherry";

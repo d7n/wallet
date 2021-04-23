@@ -1,1 +1,1 @@
-var mnemonic = "sleep maple impact kind half table soda muffin junior clutch scrap find";
+var mnemonic = "city festival ancient water unfair honey swamp lava ivory heart engine olympic";

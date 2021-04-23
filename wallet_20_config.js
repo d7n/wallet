@@ -1,1 +1,1 @@
-var mnemonic = "setup tobacco banner gentle crystal horse street meat various toast cool shine";
+var mnemonic = "arch produce child absorb lounge token crunch bulb absurd horse case impulse";

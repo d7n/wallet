@@ -1,1 +1,1 @@
-var mnemonic = "upon blush strike shoot loan emotion wealth clarify vivid joke there catch";
+var mnemonic = "silly answer illness side appear arrange awake raven myth sauce blast when";

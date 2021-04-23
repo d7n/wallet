@@ -1,1 +1,1 @@
-var mnemonic = "alcohol rebuild improve give move lemon bargain security parrot asset dice swarm";
+var mnemonic = "puppy endless frame pigeon judge hurdle hollow today still curve swamp position";

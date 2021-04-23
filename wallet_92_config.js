@@ -1,1 +1,1 @@
-var mnemonic = "donor brain horse popular indicate point tuna post burger mixture staff fine";
+var mnemonic = "machine surge trash find mixed truly author jazz debate clap slot rescue";

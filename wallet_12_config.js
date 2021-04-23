@@ -1,1 +1,1 @@
-var mnemonic = "invest update shoe law spin thumb enact town milk fault city reduce";
+var mnemonic = "network warrior fog clever south position slender gesture buyer lava robust lion";

@@ -1,1 +1,1 @@
-var mnemonic = "woman find sister universe mechanic salt exhibit possible hollow gate toy video";
+var mnemonic = "session empty emerge alert warrior glad cherry slam pupil glass cook foster";

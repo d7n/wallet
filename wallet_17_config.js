@@ -1,1 +1,1 @@
-var mnemonic = "hat bag skate traffic size coast air ethics truck joke athlete rally";
+var mnemonic = "thunder neck abstract swift card evoke avocado price sock office unusual stool";

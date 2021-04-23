@@ -1,1 +1,1 @@
-var mnemonic = "cruel hair thing case pupil brick use they denial tornado guitar hello";
+var mnemonic = "prefer time only toast zoo hunt pioneer sport hole hover ritual across";

@@ -1,1 +1,1 @@
-var mnemonic = "glory retreat shift entire couple east hurry spray dynamic tower coin curious";
+var mnemonic = "process whale topic custom salad hip sweet jewel category maze sad post";

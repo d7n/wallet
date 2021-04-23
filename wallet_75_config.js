@@ -1,1 +1,1 @@
-var mnemonic = "vivid little latin gun pink river advice outer analyst angry lab blur";
+var mnemonic = "funny aerobic exact pretty guard robot lecture bottom grocery stairs sausage age";

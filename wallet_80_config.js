@@ -1,1 +1,1 @@
-var mnemonic = "around day lunar concert under practice can void badge style category change";
+var mnemonic = "fitness cotton coral raw strike uniform truth social near begin damage want";

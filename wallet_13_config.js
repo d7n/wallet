@@ -1,1 +1,1 @@
-var mnemonic = "august taxi simple fashion apart dress very purity lesson grass clutch process";
+var mnemonic = "sure tube knee burden art park neither space web catalog wet short";

@@ -1,1 +1,1 @@
-var mnemonic = "destroy tennis neck artefact tape tell amateur exercise hurt uncle life indoor";
+var mnemonic = "dress scan dawn extra fruit ring sell property blossom enemy ginger math";

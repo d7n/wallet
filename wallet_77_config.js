@@ -1,1 +1,1 @@
-var mnemonic = "favorite shoulder capable future trip half ritual expand item budget they exist";
+var mnemonic = "sample open indicate amateur fresh minor upon scrap fashion palace crack close";

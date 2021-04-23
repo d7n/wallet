@@ -1,1 +1,1 @@
-var mnemonic = "roof rubber cause purse other radar staff chest use network version bicycle";
+var mnemonic = "source hockey below clock embody grass various cannon hidden master debris general";

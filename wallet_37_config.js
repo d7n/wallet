@@ -1,1 +1,1 @@
-var mnemonic = "favorite prepare vapor ramp shop wire frog spin bronze this toilet speed";
+var mnemonic = "enable spatial caught spatial bomb reform mobile scale fox bus faint private";

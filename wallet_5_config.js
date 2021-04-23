@@ -1,1 +1,1 @@
-var mnemonic = "knife feel guess sudden army found leader ski cigar baby web frame";
+var mnemonic = "theory crush neither tennis vacant select frown moral example world drop steak";

@@ -1,1 +1,1 @@
-var mnemonic = "comic slab envelope sunset birth teach sample service uniform remind scare gauge";
+var mnemonic = "medal expect leader major onion violin check grape oven stick region oven";

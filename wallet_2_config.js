@@ -1,1 +1,1 @@
-var mnemonic = "brother erosion bachelor hurry must hold floor swarm pottery industry knock area";
+var mnemonic = "chicken eagle author promote trial unfold punch noise rich scout box install";

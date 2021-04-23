@@ -1,1 +1,1 @@
-var mnemonic = "favorite already year budget draft know brisk apart exhaust mind shell sniff";
+var mnemonic = "account life loan screen wedding script steak soldier enroll long season dynamic";

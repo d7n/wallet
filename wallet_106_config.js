@@ -1,1 +1,1 @@
-var mnemonic = "trigger discover scrap wrap vote twenty kit equip already brush ecology alter";
+var mnemonic = "hint search favorite concert phone novel feel spice bottom viable cereal damage";

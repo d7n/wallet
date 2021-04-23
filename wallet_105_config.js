@@ -1,1 +1,1 @@
-var mnemonic = "arrive tool turtle novel flush damage news frequent corn velvet sword cricket";
+var mnemonic = "donate gadget cherry square labor round sugar bright ivory major scissors rigid";

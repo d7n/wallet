@@ -1,1 +1,1 @@
-var mnemonic = "globe monitor ostrich stock please drip slab notice arrange debate spoil ill";
+var mnemonic = "planet wild eyebrow mass panic skin board spy jump feature quarter prepare";

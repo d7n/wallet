@@ -1,1 +1,1 @@
-var mnemonic = "race catch fire only busy marriage bind spray chimney thumb reunion lizard";
+var mnemonic = "device provide knock soldier anchor very silent consider recipe much old leisure";

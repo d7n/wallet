@@ -1,1 +1,1 @@
-var mnemonic = "child rocket spend buffalo situate bullet owner position photo tilt usage process";
+var mnemonic = "reward ice giraffe coyote slight fold vacuum cash peace visual gorilla hat";

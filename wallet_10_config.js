@@ -1,1 +1,1 @@
-var mnemonic = "piece fine engine lonely grace text copper lumber way arctic health invite";
+var mnemonic = "curve valid coyote gospel faculty orange mystery title spare sick abandon rebuild";

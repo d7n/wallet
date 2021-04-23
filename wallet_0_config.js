@@ -1,1 +1,1 @@
-var mnemonic = "symptom breeze patch disease guide answer announce chest enter remember eternal video";
+var mnemonic = "rubber umbrella visual pig bracket stomach hero enlist focus rail estate ready";

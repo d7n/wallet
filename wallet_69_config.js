@@ -1,1 +1,1 @@
-var mnemonic = "when fame table region phrase crush bring fabric apology chest network breeze";
+var mnemonic = "tortoise wish make federal cost guilt sister trophy tray copy chuckle train";

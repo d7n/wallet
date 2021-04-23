@@ -1,1 +1,1 @@
-var mnemonic = "multiply elephant genuine reunion good coral axis select gate left ten people";
+var mnemonic = "champion blossom card crisp humble march human unfold cover breeze captain winter";

@@ -1,1 +1,1 @@
-var mnemonic = "access convince two hour cake setup move rural reward used river punch";
+var mnemonic = "beauty can comfort shadow useless always suit text possible mouse draft embrace";

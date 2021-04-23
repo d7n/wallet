@@ -1,1 +1,1 @@
-var mnemonic = "calm column hidden cram creek rare situate remove cream rail spatial oyster";
+var mnemonic = "bubble patch window buddy dove garden inform angry approve laundry enable captain";

@@ -1,1 +1,1 @@
-var mnemonic = "friend vocal high antique direct ski opera neglect venue lamp pact evolve";
+var mnemonic = "retire elephant pupil desk powder art arm wear mobile diesel lunar unhappy";

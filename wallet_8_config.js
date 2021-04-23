@@ -1,1 +1,1 @@
-var mnemonic = "sun rude waste axis coach nurse hobby minor gather stamp treat bridge";
+var mnemonic = "target jealous tongue shoot oil start ethics warrior word tenant idle victory";

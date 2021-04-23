@@ -1,1 +1,1 @@
-var mnemonic = "wife enable change clock mixed myself social make test acquire cargo advance";
+var mnemonic = "hawk receive slender pistol solution parrot razor excess assume crazy impulse outside";

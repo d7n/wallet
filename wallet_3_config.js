@@ -1,1 +1,1 @@
-var mnemonic = "find retreat pencil brisk arrow decorate gown rent style express cream evil";
+var mnemonic = "draw awkward prefer phrase sure feature say toilet time little daring blade";

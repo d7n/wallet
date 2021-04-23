@@ -1,1 +1,1 @@
-var mnemonic = "hair situate valid clay zebra pony wreck cage relief then tragic blast";
+var mnemonic = "build lake question atom earth retire certain deal morning erosion agree expire";

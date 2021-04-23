@@ -1,1 +1,1 @@
-var mnemonic = "eagle bullet crunch sad kingdom gaze wait property wish control push kiwi";
+var mnemonic = "kind valid ginger piano mail muffin camp artefact pigeon elder addict tourist";

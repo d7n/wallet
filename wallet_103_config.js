@@ -1,1 +1,1 @@
-var mnemonic = "nature brief glance treat effort object brown blind veteran dice sell grief";
+var mnemonic = "squirrel kiss purse nut chunk step law spend field arrest buyer mercy";

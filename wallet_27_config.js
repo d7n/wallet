@@ -1,1 +1,1 @@
-var mnemonic = "ramp borrow pencil census spare scrap cushion neglect excess wool sauce embark";
+var mnemonic = "december flee upgrade mass hunt gentle drama obscure knife include obey kangaroo";

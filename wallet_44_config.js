@@ -1,1 +1,1 @@
-var mnemonic = "check kick crowd slab recall fun busy release spell consider stock memory";
+var mnemonic = "lava abandon unlock vapor kind truck useless love name crack object uniform";

@@ -1,1 +1,1 @@
-var mnemonic = "payment device stand evolve arrange ridge turn napkin sting intact street office";
+var mnemonic = "people belt crouch vintage hip blind slice february crowd color leave vast";

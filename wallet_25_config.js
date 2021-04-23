@@ -1,1 +1,1 @@
-var mnemonic = "test switch float cushion public smart skirt person fiscal now soldier blossom";
+var mnemonic = "monkey patrol broken trophy taxi frown album fix confirm elevator stable vessel";

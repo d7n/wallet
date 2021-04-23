@@ -1,1 +1,1 @@
-var mnemonic = "second salmon brisk foam brand flash theme lock flag false stem model";
+var mnemonic = "advice kind twelve figure deputy copy pilot fever clown eagle vital biology";

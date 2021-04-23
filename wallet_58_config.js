@@ -1,1 +1,1 @@
-var mnemonic = "promote twelve arm magnet medal fade nest math hammer pencil gauge agree";
+var mnemonic = "energy section tobacco client pencil birth program beyond hood spirit slender sell";

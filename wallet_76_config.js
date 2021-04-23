@@ -1,1 +1,1 @@
-var mnemonic = "pulse valley monster castle nuclear avocado frog solution thought candy view caution";
+var mnemonic = "neck what fold hill stadium ivory garage spider champion reunion breeze rally";

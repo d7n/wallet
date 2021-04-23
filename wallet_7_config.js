@@ -1,1 +1,1 @@
-var mnemonic = "maximum stick fringe recipe danger sample oil bind immune prevent taxi erode";
+var mnemonic = "raw boy goddess bag general hurry armed copy wheat cradle camera cherry";
