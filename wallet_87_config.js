@@ -1,1 +1,1 @@
-var mnemonic = "lend snow crazy brand paddle bargain canvas another bright limb runway bunker";
+var mnemonic = "typical session maze inquiry century outside love napkin pencil various onion sword";

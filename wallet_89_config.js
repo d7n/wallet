@@ -1,1 +1,1 @@
-var mnemonic = "view era express legal fetch smoke hurt coin pill mesh course april";
+var mnemonic = "pipe wrestle aim script review junk noble mad security rescue romance lab";

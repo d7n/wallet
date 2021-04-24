@@ -1,1 +1,1 @@
-var mnemonic = "old reason mean voice used two ostrich vivid click you fun habit";
+var mnemonic = "claim region item chronic glad asset popular select model roof either either";

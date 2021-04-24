@@ -1,1 +1,1 @@
-var mnemonic = "coral post glance detail excess book frost plastic track opinion twenty auction";
+var mnemonic = "door scout style tonight wage consider alter clinic hospital click nerve link";

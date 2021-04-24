@@ -1,1 +1,1 @@
-var mnemonic = "hockey exhibit same ship title joke couch arm flush pilot inspire jealous";
+var mnemonic = "witness match able model cake seat alone coil ethics rich trade supply";

@@ -1,1 +1,1 @@
-var mnemonic = "access elevator august donkey inform jewel satoshi glove lizard strike learn heart";
+var mnemonic = "live finish monster urban sight diamond bean long bless tilt egg army";

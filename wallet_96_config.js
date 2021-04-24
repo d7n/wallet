@@ -1,1 +1,1 @@
-var mnemonic = "diet milk capital alert mosquito antique ridge then better grass sad draft";
+var mnemonic = "pattern business syrup poet daring script orange gorilla member theme salon early";

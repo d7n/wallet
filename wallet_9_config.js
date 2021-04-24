@@ -1,1 +1,1 @@
-var mnemonic = "whisper gasp shine hawk truth burden flush slow quick mad blood unusual";
+var mnemonic = "major kidney music lyrics filter execute whale chair indoor feel stand asthma";

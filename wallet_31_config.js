@@ -1,1 +1,1 @@
-var mnemonic = "swallow tobacco alter dentist correct lawsuit wedding nephew never start pencil net";
+var mnemonic = "define nerve shrug glass obey define divide exact weapon pyramid wasp spawn";

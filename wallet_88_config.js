@@ -1,1 +1,1 @@
-var mnemonic = "enforce crucial wreck immense step step crouch discover pact vibrant learn object";
+var mnemonic = "earth exit apart taxi cruel rice uncover when junk sheriff surprise annual";

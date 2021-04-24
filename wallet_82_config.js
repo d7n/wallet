@@ -1,1 +1,1 @@
-var mnemonic = "audit life chest roast manage oppose rough cigar shrug brand lamp law";
+var mnemonic = "throw spread harsh good follow behave senior awake front ankle orient can";

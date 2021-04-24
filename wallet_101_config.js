@@ -1,1 +1,1 @@
-var mnemonic = "deal summer sister tornado device yard letter another rich traffic region isolate";
+var mnemonic = "embody lumber file soup relax genius item desert real mixed animal mushroom";

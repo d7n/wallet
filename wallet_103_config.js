@@ -1,1 +1,1 @@
-var mnemonic = "thought spell grunt game weather dose drill menu aware gas spin push";
+var mnemonic = "mountain margin mistake athlete parrot until day appear surprise aware mutual shoot";

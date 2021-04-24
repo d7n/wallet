@@ -1,1 +1,1 @@
-var mnemonic = "direct dinosaur purchase leaf sheriff frozen voyage mountain run treat emerge drink";
+var mnemonic = "tourist scrub practice guitar okay hundred midnight noise lonely alert dinner convince";

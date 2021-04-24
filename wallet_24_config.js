@@ -1,1 +1,1 @@
-var mnemonic = "under version milk city tray assume journey pistol swift sorry mad frown";
+var mnemonic = "wish shed much surround bid arch logic another mammal tell void cupboard";

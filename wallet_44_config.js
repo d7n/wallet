@@ -1,1 +1,1 @@
-var mnemonic = "extra twelve knife brave cancel pull ozone club priority brother crowd notable";
+var mnemonic = "float retire tobacco path differ orphan world credit broom lottery detect forget";

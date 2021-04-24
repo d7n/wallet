@@ -1,1 +1,1 @@
-var mnemonic = "nest body cruel road injury raccoon possible sketch birth trade cousin choose";
+var mnemonic = "text crash exact lemon lunar idea vacant never indoor degree major notable";

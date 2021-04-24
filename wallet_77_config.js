@@ -1,1 +1,1 @@
-var mnemonic = "all mixture bacon matter write leopard flush true often pig have major";
+var mnemonic = "crater admit worry fancy budget push long dolphin hybrid salmon two portion";

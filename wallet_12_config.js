@@ -1,1 +1,1 @@
-var mnemonic = "advance pave buzz danger smart stay segment joy confirm screen bicycle actor";
+var mnemonic = "echo culture betray hello vintage rain gap amazing ranch merry fever primary";

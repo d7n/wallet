@@ -1,1 +1,1 @@
-var mnemonic = "portion brick liquid marble smooth another hill mass local almost item copper";
+var mnemonic = "menu vicious wool business dirt wrist genius hill fix victory special flight";

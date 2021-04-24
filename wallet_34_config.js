@@ -1,1 +1,1 @@
-var mnemonic = "swap owner fit tail tired knock vault baby guess aisle seminar error";
+var mnemonic = "mean tiger action rug stable join express judge render section steel evil";

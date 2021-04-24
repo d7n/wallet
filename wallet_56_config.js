@@ -1,1 +1,1 @@
-var mnemonic = "uphold amateur long normal brain device process honey road burst awake salmon";
+var mnemonic = "giant sing walk together onion erosion fetch mixture scare account casino relief";

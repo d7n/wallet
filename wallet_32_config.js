@@ -1,1 +1,1 @@
-var mnemonic = "bachelor fragile exchange provide print best flavor fortune peasant claim novel purchase";
+var mnemonic = "shrug record beauty market talent hurry duck artwork season memory garlic remember";

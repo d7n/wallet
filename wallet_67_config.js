@@ -1,1 +1,1 @@
-var mnemonic = "april current another seed topple betray walk skull diamond case exclude gentle";
+var mnemonic = "nation shield chaos code load buzz meadow primary embark install aisle swear";

@@ -1,1 +1,1 @@
-var mnemonic = "fetch public love answer flower season notable hood solve hair guess animal";
+var mnemonic = "glide lonely pyramid there kiss meat latin gym abuse shop raven disagree";

@@ -1,1 +1,1 @@
-var mnemonic = "option wine pass stadium aspect dentist shell skull fly picture universe spider";
+var mnemonic = "network already cushion cover soon capable effort keen lift future coast follow";

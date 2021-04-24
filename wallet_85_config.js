@@ -1,1 +1,1 @@
-var mnemonic = "suspect earn cube snow educate creek jacket erosion winter peasant equal method";
+var mnemonic = "call review health success mammal front couple genuine crop found rebel scheme";

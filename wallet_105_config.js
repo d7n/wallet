@@ -1,1 +1,1 @@
-var mnemonic = "glad such system angle mesh vivid resemble foster peace food life flower";
+var mnemonic = "leaf index pigeon beyond cinnamon borrow depth catch barrel undo option track";

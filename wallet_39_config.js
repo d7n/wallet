@@ -1,1 +1,1 @@
-var mnemonic = "anxiety spirit grocery earth praise quarter expire teach system lens juice water";
+var mnemonic = "melody measure art pigeon flat exhibit obtain letter wagon shoe day praise";

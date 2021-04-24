@@ -1,1 +1,1 @@
-var mnemonic = "promote quality tissue acquire culture clarify meadow display furnace payment exchange limit";
+var mnemonic = "decline vapor reject spawn chimney solid poverty decrease ordinary speed solve twice";

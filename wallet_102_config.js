@@ -1,1 +1,1 @@
-var mnemonic = "solution keen cradle fatal stool clog tilt another brother final also camera";
+var mnemonic = "radio jealous garbage endorse object advice dirt moral series diesel exact spice";

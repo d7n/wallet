@@ -1,1 +1,1 @@
-var mnemonic = "used evolve miracle explain leader spell announce zone mixed silk erupt fault";
+var mnemonic = "salmon miracle battle sunset rabbit front bright flower best fish ill build";

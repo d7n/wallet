@@ -1,1 +1,1 @@
-var mnemonic = "wedding bird faith merge alert company wild maid chest palace differ connect";
+var mnemonic = "hold ice hurt lawsuit slogan weird oblige venture bone lend seminar medal";

@@ -1,1 +1,1 @@
-var mnemonic = "fashion reject tornado enough chase grace situate jelly misery phrase turtle pioneer";
+var mnemonic = "wonder entry pizza street soft cactus pelican much rail cotton attend retire";

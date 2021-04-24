@@ -1,1 +1,1 @@
-var mnemonic = "age muscle buzz cactus balance toward key ankle spot sick ritual expose";
+var mnemonic = "measure organ opinion smart below exchange rapid advance route tail able prevent";

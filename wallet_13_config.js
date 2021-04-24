@@ -1,1 +1,1 @@
-var mnemonic = "unfold swear suit goose juice simple shaft evolve runway easily trumpet globe";
+var mnemonic = "ability zoo swift trouble west ceiling fork furnace pull debate cloud reopen";

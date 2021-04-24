@@ -1,1 +1,1 @@
-var mnemonic = "month switch table tell flat confirm luxury basic pen north indicate usage";
+var mnemonic = "impulse symptom someone panther rigid few draft offer husband man cattle throw";

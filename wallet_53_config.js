@@ -1,1 +1,1 @@
-var mnemonic = "buddy matter brief ivory urban grief dial vault swamp like anxiety wheel";
+var mnemonic = "vital runway bike spice elite february course still drip man diamond fox";

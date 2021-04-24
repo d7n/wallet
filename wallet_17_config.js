@@ -1,1 +1,1 @@
-var mnemonic = "hotel talk rural mutual sense stereo solid smoke zero purpose weather disease";
+var mnemonic = "armed rally poem eternal apology proof cannon confirm athlete jealous muffin spin";

@@ -1,1 +1,1 @@
-var mnemonic = "butter erupt square remind visual timber such time bike rebuild inform animal";
+var mnemonic = "seminar hero ankle public found dwarf badge fame portion return poverty situate";

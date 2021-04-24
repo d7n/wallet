@@ -1,1 +1,1 @@
-var mnemonic = "vivid light immune cement disagree friend public uncover truly visual cradle long";
+var mnemonic = "useful obscure film accident horror gesture also dynamic melt buddy regret public";

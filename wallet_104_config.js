@@ -1,1 +1,1 @@
-var mnemonic = "denial deal rail verb spoil kite stairs cheap notice teach order observe";
+var mnemonic = "nose front cactus ignore crouch unit clarify catch dad modify beauty business";

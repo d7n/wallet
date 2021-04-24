@@ -1,1 +1,1 @@
-var mnemonic = "slight amateur party true urge dirt empower patrol fault onion glare original";
+var mnemonic = "fringe topple stick there fluid nuclear better marble discover flock lazy ranch";

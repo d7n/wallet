@@ -1,1 +1,1 @@
-var mnemonic = "key vintage near conduct wise chest wait camera lemon tree bless filter";
+var mnemonic = "hunt culture relax cabin face split foil summer slogan oak false vital";

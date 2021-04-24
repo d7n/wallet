@@ -1,1 +1,1 @@
-var mnemonic = "drift cluster wrist steak little clean blue cry blood left radio meat";
+var mnemonic = "lesson cat promote suspect catch ordinary alone citizen hair business midnight bracket";

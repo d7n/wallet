@@ -1,1 +1,1 @@
-var mnemonic = "buyer club history steel again among current accuse patient slide pill wink";
+var mnemonic = "theory inhale antique music ensure volume inmate deliver bacon setup pill approve";

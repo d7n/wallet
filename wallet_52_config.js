@@ -1,1 +1,1 @@
-var mnemonic = "offer alert marine aware purpose fly patch thrive dentist focus crouch tool";
+var mnemonic = "meadow modify scare transfer view dry disease avocado spin ocean hazard torch";

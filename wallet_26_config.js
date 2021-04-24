@@ -1,1 +1,1 @@
-var mnemonic = "labor trust cheese crash degree predict defense attend soda mosquito vessel wing";
+var mnemonic = "frown armor metal foil unknown spread weapon indoor congress pitch pudding twice";

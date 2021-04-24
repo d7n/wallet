@@ -1,1 +1,1 @@
-var mnemonic = "select clarify divert wrist silent inhale scatter awake pulse drill reduce fantasy";
+var mnemonic = "fame shuffle abuse fresh prize wash inform funny worry mesh mushroom then";

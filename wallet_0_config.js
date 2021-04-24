@@ -1,1 +1,1 @@
-var mnemonic = "joy moral nice creek exotic various mango velvet review thought romance program";
+var mnemonic = "tennis assume leaf penalty account leg coach silly general race ramp favorite";

@@ -1,1 +1,1 @@
-var mnemonic = "wide fork mixed feature world jump sponsor fit axis clay type river";
+var mnemonic = "second visual almost unaware change ocean kiwi rocket letter cover core actual";

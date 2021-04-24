@@ -1,1 +1,1 @@
-var mnemonic = "special speak depart family client horn fortune tired toilet amount match bounce";
+var mnemonic = "gospel pepper cruel tennis theory raise outside devote crater direct suffer north";

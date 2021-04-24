@@ -1,1 +1,1 @@
-var mnemonic = "sort bundle yard uncle survey mercy dad welcome boy violin diesel near";
+var mnemonic = "ranch dash expire spell roast soul olympic phone crisp reward hour tissue";

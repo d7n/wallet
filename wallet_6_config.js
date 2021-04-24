@@ -1,1 +1,1 @@
-var mnemonic = "taxi cheese suspect trigger reunion legal night ladder raccoon frozen bachelor wing";
+var mnemonic = "casual youth beyond spread approve express help inmate basket planet tobacco session";

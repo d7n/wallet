@@ -1,1 +1,1 @@
-var mnemonic = "slim race sport print affair dinosaur jeans silver shoulder must indicate robust";
+var mnemonic = "oppose nominee hollow clock crucial original sugar scheme lamp luxury afford lumber";

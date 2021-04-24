@@ -1,1 +1,1 @@
-var mnemonic = "day custom impose dynamic toilet seminar purse muffin scatter husband annual action";
+var mnemonic = "adapt fee dash sweet kitten orchard width casual cause merit category panel";

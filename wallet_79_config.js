@@ -1,1 +1,1 @@
-var mnemonic = "truck umbrella hamster teach curtain crisp frame brass funny luggage second claw";
+var mnemonic = "kick gap gym concert vanish bag decline bridge until broom open draft";

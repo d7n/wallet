@@ -1,1 +1,1 @@
-var mnemonic = "prize sunset check social blade program coach brisk bicycle armor coral depth";
+var mnemonic = "frown only behave hundred become earn market edge knee bar diet crater";

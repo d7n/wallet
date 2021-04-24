@@ -1,1 +1,1 @@
-var mnemonic = "torch salon ghost sketch immense chair above ozone super mansion nominee happy";
+var mnemonic = "welcome boat wine burger age bottom inner pottery teach anchor three wet";

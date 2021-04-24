@@ -1,1 +1,1 @@
-var mnemonic = "thing risk convince mango story congress client child essay fever daring select";
+var mnemonic = "village upper sibling blind salt measure tennis uncover wrap daring present lady";

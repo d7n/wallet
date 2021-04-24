@@ -1,1 +1,1 @@
-var mnemonic = "dumb oxygen coast west depth bonus uniform saddle obtain slice gauge true";
+var mnemonic = "alpha angle diesel steel word sadness flame noble smart enter belt lunar";

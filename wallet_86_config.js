@@ -1,1 +1,1 @@
-var mnemonic = "shine battle month circle impulse learn involve collect tube sport noise sick";
+var mnemonic = "erupt public impose amateur fitness analyst predict oven shell goat phone clarify";

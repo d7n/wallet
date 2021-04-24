@@ -1,1 +1,1 @@
-var mnemonic = "west flat essay picnic caution box endless sort famous loyal during leg";
+var mnemonic = "basket field total smoke finger loyal move bracket example limb excess vague";

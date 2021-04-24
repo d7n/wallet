@@ -1,1 +1,1 @@
-var mnemonic = "birth loan harbor fun season record relief swing mirror welcome coach level";
+var mnemonic = "margin track chase settle topic credit say tiny mistake garment trap charge";

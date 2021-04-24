@@ -1,1 +1,1 @@
-var mnemonic = "symbol squeeze table anger sketch rapid pioneer treat arch tiny lesson gold";
+var mnemonic = "pact concert hen link panel receive despair undo riot dress barrel ivory";

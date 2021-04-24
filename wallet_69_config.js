@@ -1,1 +1,1 @@
-var mnemonic = "alone scene mandate hospital output deliver avoid devote neck north into bleak";
+var mnemonic = "rather foil phone tobacco expose all belt brown pulse friend load shy";

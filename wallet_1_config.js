@@ -1,1 +1,1 @@
-var mnemonic = "ignore early olympic gloom bridge trigger angry finish chapter near few borrow";
+var mnemonic = "east tonight infant always unusual tennis menu flower daughter frost virtual filter";

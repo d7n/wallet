@@ -1,1 +1,1 @@
-var mnemonic = "century evolve raven jar antique neither oppose glue reunion still push also";
+var mnemonic = "test employ matter text immune voyage sign together rely peasant task memory";

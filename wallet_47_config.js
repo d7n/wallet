@@ -1,1 +1,1 @@
-var mnemonic = "measure sing used virus fossil old language middle audit magnet speak since";
+var mnemonic = "solution unknown planet peace evoke jump faith photo gift faint observe between";

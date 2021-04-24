@@ -1,1 +1,1 @@
-var mnemonic = "gallery spirit sport theme social replace tone corn misery magic climb super";
+var mnemonic = "hood actor salmon sick object loud clown swallow cupboard chief script weasel";

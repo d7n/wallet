@@ -1,1 +1,1 @@
-var mnemonic = "repair hold crew sudden pet health engage glance bridge donate stem stove";
+var mnemonic = "spray scan cry include honey audit domain salad cup master elite educate";

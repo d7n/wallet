@@ -1,1 +1,1 @@
-var mnemonic = "medal table aisle aspect tired example tray air shove soda galaxy cluster";
+var mnemonic = "captain kit problem chaos wine record gift boy river maple tomato doll";

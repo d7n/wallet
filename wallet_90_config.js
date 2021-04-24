@@ -1,1 +1,1 @@
-var mnemonic = "again ill derive special mom style raccoon cactus warrior supply struggle various";
+var mnemonic = "include spin glove chase move inspire reform diamond laundry field word primary";

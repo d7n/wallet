@@ -1,1 +1,1 @@
-var mnemonic = "mosquito frozen smart enhance victory quit material exclude monkey equip agent woman";
+var mnemonic = "ready keen casual rescue detect extend hundred business trap sponsor side share";

@@ -1,1 +1,1 @@
-var mnemonic = "hamster banner oppose romance trade goose ready doctor until bicycle armor lawsuit";
+var mnemonic = "lend tuna dizzy thought rack hospital clown rebuild ice clever cluster absorb";

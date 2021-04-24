@@ -1,1 +1,1 @@
-var mnemonic = "mystery rice victory tell poem neck tiger ship income share world sail";
+var mnemonic = "urge baby light verb twin run wool vote repeat fit armed when";

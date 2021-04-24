@@ -1,1 +1,1 @@
-var mnemonic = "buzz proof script squirrel promote emerge local useless report foot buffalo erode";
+var mnemonic = "already together roast develop case gather nothing crisp turtle lava motion device";

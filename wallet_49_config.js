@@ -1,1 +1,1 @@
-var mnemonic = "retire vendor unlock meat silk sand truck viable undo later tilt own";
+var mnemonic = "limb industry envelope runway wrap ready person magic floor robust illegal nation";

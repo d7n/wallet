@@ -1,1 +1,1 @@
-var mnemonic = "song parrot plunge donor three ready auto mystery age upgrade leisure young";
+var mnemonic = "congress else whip wagon still trash dolphin valid check sword phone maple";

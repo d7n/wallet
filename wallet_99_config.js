@@ -1,1 +1,1 @@
-var mnemonic = "slender perfect announce team two bronze sample comfort kangaroo pass mistake capital";
+var mnemonic = "fresh tooth easily alarm staff finger emotion trick remember budget denial private";

@@ -1,1 +1,1 @@
-var mnemonic = "result royal chest nasty level ring bottom mosquito sort world deputy quit";
+var mnemonic = "erosion orange ride destroy give cube sense trash run empty mean bulb";

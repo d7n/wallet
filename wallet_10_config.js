@@ -1,1 +1,1 @@
-var mnemonic = "canal comfort crash document pulse silent wreck spoil circle truck sock bench";
+var mnemonic = "quantum marriage home crime inhale pear economy service text brother thing used";

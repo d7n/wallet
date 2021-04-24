@@ -1,1 +1,1 @@
-var mnemonic = "rebel mail sorry poverty page identify north more depend kitten clutch video";
+var mnemonic = "roof hungry sister ethics man brief organ carry husband life table label";

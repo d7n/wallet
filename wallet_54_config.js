@@ -1,1 +1,1 @@
-var mnemonic = "climb finish bottom update switch country firm ship issue allow danger leopard";
+var mnemonic = "identify april enroll segment memory local outer ribbon lady beyond room cupboard";

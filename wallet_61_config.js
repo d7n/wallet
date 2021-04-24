@@ -1,1 +1,1 @@
-var mnemonic = "hand property math method jaguar minute series mushroom devote connect scatter unfold";
+var mnemonic = "someone milk armor render pulse ranch awkward situate fold protect helmet friend";

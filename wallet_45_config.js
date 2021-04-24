@@ -1,1 +1,1 @@
-var mnemonic = "cage void similar frog agent level afford joke mosquito reopen shove fancy";
+var mnemonic = "decrease hurt animal regular expire asset arrange super erosion resemble middle alcohol";
