@@ -1,1 +1,1 @@
-var mnemonic = "squirrel rice grace curious okay grit job melt frame absorb carpet doctor";
+var mnemonic = "civil execute tortoise outdoor person lobster disease grid grid easy tree envelope";

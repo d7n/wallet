@@ -1,1 +1,1 @@
-var mnemonic = "acoustic cargo ceiling grid evidence carpet tube husband matrix live nice spider";
+var mnemonic = "gap seat drip aunt judge guilt kind symbol stone abuse artwork tent";

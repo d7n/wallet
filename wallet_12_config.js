@@ -1,1 +1,1 @@
-var mnemonic = "toddler wild assault metal hospital disagree glide fan relax online topic attitude";
+var mnemonic = "error artist ready cage alert circle domain employ index casino school argue";

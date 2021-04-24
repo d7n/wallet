@@ -1,1 +1,1 @@
-var mnemonic = "mesh cupboard toy fortune scout month impulse coyote program crane job spirit";
+var mnemonic = "alert ladder grant ready speed split fiction pulp engine absorb poverty arena";

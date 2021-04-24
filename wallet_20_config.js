@@ -1,1 +1,1 @@
-var mnemonic = "health web dentist orient burst silent before cheese fit ask idea father";
+var mnemonic = "hello motor possible neutral ability brisk light moment chicken load card purse";

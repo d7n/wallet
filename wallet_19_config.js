@@ -1,1 +1,1 @@
-var mnemonic = "pipe meadow property that fix spatial detect parade south slender seat multiply";
+var mnemonic = "old glad comic brass idea entire rubber mimic appear october dad fatigue";

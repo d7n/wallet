@@ -1,1 +1,1 @@
-var mnemonic = "aerobic loop switch person erode magnet input tell raven breeze empower drastic";
+var mnemonic = "admit party inform remain grow ramp height either angle shuffle night crumble";

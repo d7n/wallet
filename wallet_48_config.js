@@ -1,1 +1,1 @@
-var mnemonic = "thrive eternal liberty rack inform fetch title disorder link fish grant neutral";
+var mnemonic = "identify fortune spot profit demand false cruel news suffer toward mammal cat";

@@ -1,1 +1,1 @@
-var mnemonic = "hope patient icon burger quality family gesture palm venue choose when bonus";
+var mnemonic = "will mom seek atom knock follow catalog govern record taxi camp slender";

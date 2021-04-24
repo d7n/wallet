@@ -1,1 +1,1 @@
-var mnemonic = "effort approve autumn inquiry design cargo sell clay express stamp kid rude";
+var mnemonic = "magic direct safe clean father mistake truly forget good kingdom rookie road";

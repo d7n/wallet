@@ -1,1 +1,1 @@
-var mnemonic = "stay lawsuit that enable twice hole virtual employ trust symptom advice chair";
+var mnemonic = "bean remove soon pride soldier walk visa camp brush glide ginger divide";

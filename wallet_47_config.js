@@ -1,1 +1,1 @@
-var mnemonic = "peace wild antenna play bracket blur drive term charge congress own print";
+var mnemonic = "hen cotton muscle baby alien metal cup century swear supply phone energy";

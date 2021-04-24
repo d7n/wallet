@@ -1,1 +1,1 @@
-var mnemonic = "ten plate bind pause talent chat spot wonder road photo adapt need";
+var mnemonic = "chimney magic rack measure february antique element embody kangaroo soul junior mother";

@@ -1,1 +1,1 @@
-var mnemonic = "phrase soda frame riot mirror win cloud blind mention affair lift deny";
+var mnemonic = "slab shiver giraffe fit tunnel theory sense infant path miss decrease erosion";

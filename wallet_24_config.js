@@ -1,1 +1,1 @@
-var mnemonic = "stable scale false uphold ice voyage evil faint quote orchard digital retire";
+var mnemonic = "find obtain find range spray couch old fringe govern right under loud";

@@ -1,1 +1,1 @@
-var mnemonic = "dentist absurd fence frame save dirt onion auto fiction add crane awake";
+var mnemonic = "unit begin clap glide beef film begin spoon stable sphere scrap grit";

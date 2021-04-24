@@ -1,1 +1,1 @@
-var mnemonic = "foot board between science pulse north trim thrive sick chef urge live";
+var mnemonic = "script catch pig fetch tone bacon busy village motor scout pelican nuclear";

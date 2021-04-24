@@ -1,1 +1,1 @@
-var mnemonic = "discover solar slush moon senior fragile donate photo false behave town bamboo";
+var mnemonic = "kit family under crowd tenant pelican burger prepare destroy cousin own master";

@@ -1,1 +1,1 @@
-var mnemonic = "soul canoe veteran this later giraffe buyer destroy guess fade popular coyote";
+var mnemonic = "profit dinosaur pony sunny pen cost whip priority atom wool owner eye";

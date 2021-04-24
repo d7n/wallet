@@ -1,1 +1,1 @@
-var mnemonic = "antenna width output hour paddle ivory able profit flee normal dad shaft";
+var mnemonic = "poet deposit dish merry trash angle unlock goose gospel faculty okay happy";

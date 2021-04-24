@@ -1,1 +1,1 @@
-var mnemonic = "old help library avoid angle fiction snake truck mercy tonight jelly major";
+var mnemonic = "hard govern hen toilet label obscure april black just merge only color";

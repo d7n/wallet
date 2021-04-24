@@ -1,1 +1,1 @@
-var mnemonic = "connect gaze before name second vapor ghost boring warfare wine expand celery";
+var mnemonic = "thank economy slot enhance plunge isolate make merry tattoo shine tunnel small";

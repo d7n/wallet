@@ -1,1 +1,1 @@
-var mnemonic = "isolate tonight path ritual you property genre dune into unknown nasty head";
+var mnemonic = "laugh wire path final mean trade flee pill buyer ivory amused camera";

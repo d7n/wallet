@@ -1,1 +1,1 @@
-var mnemonic = "muffin rent hurdle diary mushroom wasp globe hood inform inform surprise limit";
+var mnemonic = "recycle peasant hill front escape task sign give claim jeans sadness term";

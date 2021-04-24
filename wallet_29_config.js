@@ -1,1 +1,1 @@
-var mnemonic = "citizen spice distance width grocery lucky multiply expand fox slot front chaos";
+var mnemonic = "acquire hockey orchard ring napkin nuclear blade tongue easy novel subject pipe";

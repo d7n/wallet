@@ -1,1 +1,1 @@
-var mnemonic = "noble food found drastic rib fire illness choice clay above daughter echo";
+var mnemonic = "kitten idea mother carbon pumpkin stool fog remain core clarify load depth";

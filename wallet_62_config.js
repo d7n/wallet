@@ -1,1 +1,1 @@
-var mnemonic = "spawn parent ensure convince keen sport fluid abstract prevent rely critic tortoise";
+var mnemonic = "galaxy company vault filter muffin risk surface shoe wash angle siege portion";

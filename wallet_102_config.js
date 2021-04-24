@@ -1,1 +1,1 @@
-var mnemonic = "master method ice boring rice comic indoor awake poverty excite cat truck";
+var mnemonic = "purity knife return cabbage torch round bunker elbow color hair unable fade";

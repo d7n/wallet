@@ -1,1 +1,1 @@
-var mnemonic = "field october champion lawn swing picnic near confirm rug question old novel";
+var mnemonic = "upon jacket retire cruise leaf skull update accuse hub price pipe canoe";

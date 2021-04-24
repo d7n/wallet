@@ -1,1 +1,1 @@
-var mnemonic = "laptop fantasy runway demand around strong own genius smart cargo subject grow";
+var mnemonic = "erase item lyrics carbon impact roof mechanic token royal flavor pool prosper";

@@ -1,1 +1,1 @@
-var mnemonic = "rocket since hard fossil romance damage wheel drill humor travel blossom plunge";
+var mnemonic = "corn legal dial payment bar angry dignity cause type glove abuse dilemma";

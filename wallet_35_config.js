@@ -1,1 +1,1 @@
-var mnemonic = "invite version name wise thank draw moon pact upgrade sugar explain night";
+var mnemonic = "speed denial disagree clap fork bounce dove enact mushroom digital crumble bulk";

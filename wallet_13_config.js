@@ -1,1 +1,1 @@
-var mnemonic = "mistake reject slice wagon client master movie expect arena chunk promote gloom";
+var mnemonic = "dune twin ride tattoo unhappy upper ensure cinnamon want fresh asset apple";

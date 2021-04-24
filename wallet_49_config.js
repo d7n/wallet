@@ -1,1 +1,1 @@
-var mnemonic = "super super envelope peace gate nature solution physical horn rescue exhaust vapor";
+var mnemonic = "young job dwarf skill farm dog hungry open twin rug airport float";

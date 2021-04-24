@@ -1,1 +1,1 @@
-var mnemonic = "main prison bless worth idle tackle glare kick lottery exotic unfair birth";
+var mnemonic = "popular unlock erosion noble bulb wheat any west jungle enroll drive mutual";

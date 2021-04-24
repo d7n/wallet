@@ -1,1 +1,1 @@
-var mnemonic = "stereo become taste sudden foot forest entry fit shaft jaguar shock embark";
+var mnemonic = "license void tired alien initial later scan hold involve leave author mixture";

@@ -1,1 +1,1 @@
-var mnemonic = "eight swamp nerve sound mansion civil picnic wedding black perfect december key";
+var mnemonic = "idle submit figure task syrup wheel tent hollow bamboo come sponsor danger";

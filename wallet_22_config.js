@@ -1,1 +1,1 @@
-var mnemonic = "coyote unfold call lumber admit find fruit music dentist song begin source";
+var mnemonic = "desert crew detail gloom relax improve gas swear stool era gravity pudding";

@@ -1,1 +1,1 @@
-var mnemonic = "such dad sick cliff chief sock green expose fatigue fresh chef core";
+var mnemonic = "gas save more swarm enemy depth remove physical sauce list tattoo betray";

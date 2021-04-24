@@ -1,1 +1,1 @@
-var mnemonic = "lumber bomb shuffle slow mutual series stomach execute forest school camp measure";
+var mnemonic = "pool fish olympic script leopard three ritual one bar country absent basic";

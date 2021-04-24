@@ -1,1 +1,1 @@
-var mnemonic = "wage blast clever parade appear stay retire toward mail mushroom subject need";
+var mnemonic = "mom mammal usage salon divert track emotion lamp ride person hello memory";

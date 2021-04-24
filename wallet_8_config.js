@@ -1,1 +1,1 @@
-var mnemonic = "dumb museum slogan lottery wall term can barely sorry test satisfy shift";
+var mnemonic = "whisper inside voice ozone size walnut guard conduct path joy lunch list";

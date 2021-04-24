@@ -1,1 +1,1 @@
-var mnemonic = "include shield riot air cotton gather color until autumn canal moment carbon";
+var mnemonic = "piano tobacco pear again thought peanut wide model ostrich spider rate receive";

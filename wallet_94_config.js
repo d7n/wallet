@@ -1,1 +1,1 @@
-var mnemonic = "swap elbow effort armor panic salad grab radar loan tone trip few";
+var mnemonic = "swamp elite retire mandate illegal trust lemon oblige report pepper problem pioneer";

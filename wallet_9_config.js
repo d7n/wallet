@@ -1,1 +1,1 @@
-var mnemonic = "just hollow mirror essence oppose slight pumpkin wall apple mom whale scout";
+var mnemonic = "venture carpet level bronze entry naive mechanic body alcohol ghost wink bench";

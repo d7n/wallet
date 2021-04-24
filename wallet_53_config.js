@@ -1,1 +1,1 @@
-var mnemonic = "asthma cradle truly shield meat maid weasel kitchen broken help frequent task";
+var mnemonic = "attract live museum typical wait rib enrich online green battle strike voice";

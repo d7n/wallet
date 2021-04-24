@@ -1,1 +1,1 @@
-var mnemonic = "match regret danger gloom avoid window sample stove swing blue amount wheel";
+var mnemonic = "borrow round junior indoor steel casual surface lazy mountain control spike patient";

@@ -1,1 +1,1 @@
-var mnemonic = "dance raise first wool mammal pudding castle tool promote quote original fetch";
+var mnemonic = "mom glide series document fish grocery bulk muscle awful dream sorry clap";

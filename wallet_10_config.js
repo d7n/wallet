@@ -1,1 +1,1 @@
-var mnemonic = "width cattle account gossip bachelor fine wait buffalo agent settle foot fetch";
+var mnemonic = "describe large gentle aisle sorry diagram energy leaf know night split fork";

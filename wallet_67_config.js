@@ -1,1 +1,1 @@
-var mnemonic = "finger float glass size tuna output nasty decade camera scan beef east";
+var mnemonic = "food veteran ball friend mask abstract almost subject taste snake ability feed";

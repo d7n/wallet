@@ -1,1 +1,1 @@
-var mnemonic = "echo require barely six october plug vacant pupil left sport rain law";
+var mnemonic = "settle grape eye smoke pave size enjoy equip nasty crane climb boss";

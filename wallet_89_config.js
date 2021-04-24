@@ -1,1 +1,1 @@
-var mnemonic = "skull fee range dial fun height quote dinner lyrics click huge cruise";
+var mnemonic = "future scatter buddy right permit spare elevator style message write security fragile";

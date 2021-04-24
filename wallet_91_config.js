@@ -1,1 +1,1 @@
-var mnemonic = "draw fantasy fancy move thought clump chat direct chat fitness coast spend";
+var mnemonic = "begin wrong cancel used picture ripple distance rally curious buzz auto beauty";

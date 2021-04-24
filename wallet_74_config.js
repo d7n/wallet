@@ -1,1 +1,1 @@
-var mnemonic = "gun myth crew theory twice long kitten pyramid erode state shield olive";
+var mnemonic = "kitchen stuff female siren angry whip size point divert giant broken school";

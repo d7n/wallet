@@ -1,1 +1,1 @@
-var mnemonic = "music long wisdom left cute wedding calm battle twice young domain chase";
+var mnemonic = "ramp pioneer cash accident orphan desert syrup derive orchard exhibit tool crop";

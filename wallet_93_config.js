@@ -1,1 +1,1 @@
-var mnemonic = "regular salon obey race angle maximum carpet script easy hover laundry later";
+var mnemonic = "cram black general good better coconut vicious soup borrow tornado pencil whale";

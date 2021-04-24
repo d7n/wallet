@@ -1,1 +1,1 @@
-var mnemonic = "busy glimpse bridge planet penalty fever sustain raven glide need devote property";
+var mnemonic = "journey trade announce width lady meadow funny spice crane air dynamic year";

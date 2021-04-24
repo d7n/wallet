@@ -1,1 +1,1 @@
-var mnemonic = "group reject solution original awesome moral labor hour hungry layer atom slam";
+var mnemonic = "extend cattle fine excuse employ radio original illegal kit rice kind alpha";

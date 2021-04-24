@@ -1,1 +1,1 @@
-var mnemonic = "body empower estate profit member puzzle tongue harvest age fall lucky tone";
+var mnemonic = "mixed grocery castle fitness odor stable sponsor describe essay fruit team material";

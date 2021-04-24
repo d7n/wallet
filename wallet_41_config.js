@@ -1,1 +1,1 @@
-var mnemonic = "dwarf furnace wink fee social rookie adapt glass clever powder universe fatal";
+var mnemonic = "material labor wood cousin prevent smooth clump gate desert over arena confirm";

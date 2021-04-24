@@ -1,1 +1,1 @@
-var mnemonic = "better speak wrong bounce drill exile crane hen reopen explain diamond ordinary";
+var mnemonic = "more gasp party floor kitchen ship tent style cross material symptom outdoor";

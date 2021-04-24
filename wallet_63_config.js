@@ -1,1 +1,1 @@
-var mnemonic = "route medal earth virus best purchase noise orient acoustic east plate treat";
+var mnemonic = "improve coil velvet decade ginger play during tobacco father exclude shoot glue";

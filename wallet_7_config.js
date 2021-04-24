@@ -1,1 +1,1 @@
-var mnemonic = "patch coin upgrade inside tiger false other bonus melody trophy melt evolve";
+var mnemonic = "pistol miss scrub beyond pumpkin record boy appear mad truth elbow soup";

@@ -1,1 +1,1 @@
-var mnemonic = "book exhaust confirm front scorpion crumble deny analyst very bomb van sheriff";
+var mnemonic = "glare robust retreat near lake glide install gas feed crater crime deliver";

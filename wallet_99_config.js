@@ -1,1 +1,1 @@
-var mnemonic = "awkward nest rubber shove odor fortune mail jungle calm market canyon artist";
+var mnemonic = "feature game note exercise record march approve tent network embody local divert";

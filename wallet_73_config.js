@@ -1,1 +1,1 @@
-var mnemonic = "clown suffer donor absorb thank copper wine fury time honey culture afford";
+var mnemonic = "door lemon mobile asset join hand chair victory develop razor crush smoke";

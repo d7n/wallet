@@ -1,1 +1,1 @@
-var mnemonic = "then hockey exist another ride sick quality thing cupboard breeze during health";
+var mnemonic = "truth cliff square tip april type inside okay fever diagram cute high";

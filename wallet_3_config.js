@@ -1,1 +1,1 @@
-var mnemonic = "bacon gaze recycle crazy what dice pool poverty develop youth ability pattern";
+var mnemonic = "tuna view impose dawn way smooth tip spread own lake tone filter";

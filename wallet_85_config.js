@@ -1,1 +1,1 @@
-var mnemonic = "card unit grant globe dance slam soccer priority deer naive document hover";
+var mnemonic = "delay album ask great immune topic fish ancient hobby prosper leaf element";

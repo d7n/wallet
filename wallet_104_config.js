@@ -1,1 +1,1 @@
-var mnemonic = "guard upgrade gas draft vote rapid hard direct access kind arrive inquiry";
+var mnemonic = "kiwi seminar ride edit pelican minimum staff increase join pilot bunker under";

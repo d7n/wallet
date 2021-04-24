@@ -1,1 +1,1 @@
-var mnemonic = "habit awkward sponsor acid recall between quantum false ready teach main boost";
+var mnemonic = "visa trust replace object primary milk insect notable boat october start captain";

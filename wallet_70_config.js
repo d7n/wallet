@@ -1,1 +1,1 @@
-var mnemonic = "fox kind bring deliver bulk bacon better coyote view divide warm capable";
+var mnemonic = "open heart man myth erode witness approve resource fragile surge ahead water";

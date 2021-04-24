@@ -1,1 +1,1 @@
-var mnemonic = "debris attend avoid alley exile square bind expose rookie fade spike refuse";
+var mnemonic = "pizza minute rebuild drop inform logic tonight theme rapid spell jeans punch";

@@ -1,1 +1,1 @@
-var mnemonic = "orchard diamond plunge dynamic true fold glance injury blade pigeon visit spoil";
+var mnemonic = "canal vicious ripple wisdom bike walnut deposit bag party combine sword just";

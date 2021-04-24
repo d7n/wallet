@@ -1,1 +1,1 @@
-var mnemonic = "position recycle upper room warrior idle memory leg climb air coin sick";
+var mnemonic = "make rebel mixture company digital patient inside ostrich universe tiny angry unaware";

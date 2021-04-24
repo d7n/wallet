@@ -1,1 +1,1 @@
-var mnemonic = "issue kiwi stable load stone move truth horse disease dynamic coyote absorb";
+var mnemonic = "waste erase usage album level weapon setup mention charge donkey ocean evil";

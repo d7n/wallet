@@ -1,1 +1,1 @@
-var mnemonic = "similar slender coil blush manual floor earn bid monkey winter until thunder";
+var mnemonic = "please approve fury pull word circle two very noise mobile clutch team";

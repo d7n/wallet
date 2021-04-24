@@ -1,1 +1,1 @@
-var mnemonic = "adult symbol riot tunnel turkey old cruel hurdle argue spawn letter ozone";
+var mnemonic = "pink wash chimney nice industry hair seed ready garment input cause trap";

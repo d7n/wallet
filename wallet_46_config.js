@@ -1,1 +1,1 @@
-var mnemonic = "royal belt hood coin forget clog aspect nerve bag direct sense valid";
+var mnemonic = "element chronic nerve bubble crucial grape artist conduct ship pave bargain fatal";

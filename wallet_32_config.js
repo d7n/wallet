@@ -1,1 +1,1 @@
-var mnemonic = "river gym industry special leader brick puppy kind invite settle remind excite";
+var mnemonic = "trip filter wash law very undo shop umbrella deer submit submit trouble";

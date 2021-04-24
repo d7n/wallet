@@ -1,1 +1,1 @@
-var mnemonic = "strike famous main bread opinion census help possible chaos adjust trick bracket";
+var mnemonic = "issue about march detail paper lemon where mystery void drill loyal clip";

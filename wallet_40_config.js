@@ -1,1 +1,1 @@
-var mnemonic = "forward risk sense eight that valid update sure pair render scheme vote";
+var mnemonic = "enroll original upgrade problem figure cliff mixture observe uncle open table bomb";

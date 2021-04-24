@@ -1,1 +1,1 @@
-var mnemonic = "nature whip test safe tribe toss view work photo vapor flee hamster";
+var mnemonic = "invite aware country safe only horn angry often dutch title hazard joke";

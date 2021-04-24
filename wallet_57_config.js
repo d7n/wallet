@@ -1,1 +1,1 @@
-var mnemonic = "live curious ship south wild moral era fire fiction skin uncover rival";
+var mnemonic = "pottery upper any wreck outer stone text spice tilt oil nose trigger";

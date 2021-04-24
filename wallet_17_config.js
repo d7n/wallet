@@ -1,1 +1,1 @@
-var mnemonic = "attend mystery leaf slow mesh catch pottery push trouble cost ankle elbow";
+var mnemonic = "few fetch ancient repeat immense medal orphan oven choice title private dry";

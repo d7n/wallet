@@ -1,1 +1,1 @@
-var mnemonic = "giant stumble remember credit plastic clinic economy inherit admit weather patrol cherry";
+var mnemonic = "shoulder phone gas double sense type vault bracket trigger squirrel bachelor monster";

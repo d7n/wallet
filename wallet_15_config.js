@@ -1,1 +1,1 @@
-var mnemonic = "fresh trigger bulb motor wolf census traffic account pride coconut salmon sudden";
+var mnemonic = "include area disease flip story quote dutch crunch until about army model";

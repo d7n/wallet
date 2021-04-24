@@ -1,1 +1,1 @@
-var mnemonic = "valid author off farm cancel owner floor over crash start casino ensure";
+var mnemonic = "fuel spider where pet canoe awful either session prevent modify aware wire";
