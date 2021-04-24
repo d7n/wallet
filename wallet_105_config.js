@@ -1,1 +1,1 @@
-var mnemonic = "violin wise arrange equip cool resist diet fashion sure crystal orphan point";
+var mnemonic = "fix museum renew infant card misery public radio decade inform purity kangaroo";

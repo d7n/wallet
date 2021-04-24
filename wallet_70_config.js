@@ -1,1 +1,1 @@
-var mnemonic = "half bracket practice clog obtain camp boring report weekend response husband cave";
+var mnemonic = "supreme trip clever advance tilt push truth fame photo picnic female squeeze";

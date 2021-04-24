@@ -1,1 +1,1 @@
-var mnemonic = "ship infant inhale penalty venture bronze nose vast surprise horse crash define";
+var mnemonic = "cloth spike couch fit level hungry cereal run pudding burden chief connect";

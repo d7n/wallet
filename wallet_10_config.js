@@ -1,1 +1,1 @@
-var mnemonic = "gossip fee exact catch neither text city hundred rhythm expand immune butter";
+var mnemonic = "amused snack risk jelly diet sibling news name spider glance electric spy";

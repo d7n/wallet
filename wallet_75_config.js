@@ -1,1 +1,1 @@
-var mnemonic = "wear music jungle film logic result parade soda finger pipe obtain hammer";
+var mnemonic = "raccoon enemy lava walnut metal monitor possible range topple impulse just focus";

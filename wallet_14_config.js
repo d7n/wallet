@@ -1,1 +1,1 @@
-var mnemonic = "busy pause crucial east job divorce blame soap goddess pact correct edge";
+var mnemonic = "minor waste amount lab until fine item wash mushroom client satoshi soup";

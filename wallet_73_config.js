@@ -1,1 +1,1 @@
-var mnemonic = "possible cinnamon stand reason pond analyst arm expire cross coast observe debris";
+var mnemonic = "electric assist chat cup ivory idea actress enlist various pizza punch horse";

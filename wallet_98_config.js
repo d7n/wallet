@@ -1,1 +1,1 @@
-var mnemonic = "unit document meadow jelly flash suspect street limit jelly brave tomorrow mind";
+var mnemonic = "ecology dutch pyramid garment tomorrow online stay other invest pepper august drop";

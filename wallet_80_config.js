@@ -1,1 +1,1 @@
-var mnemonic = "render move century creek ability dry analyst expand skull slow decade seminar";
+var mnemonic = "comfort huge region hurdle cash dawn exotic moment uncover tiny anxiety bonus";

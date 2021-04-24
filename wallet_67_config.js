@@ -1,1 +1,1 @@
-var mnemonic = "fever lava torch razor spot zoo exit fall mask lady purchase album";
+var mnemonic = "quality cram ozone honey high stage spread liberty lottery report baby salute";

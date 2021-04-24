@@ -1,1 +1,1 @@
-var mnemonic = "tent fame useful uniform upgrade cute explain turn response town make analyst";
+var mnemonic = "flower veteran invite tonight news pottery frame busy actual endorse suggest item";

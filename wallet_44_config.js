@@ -1,1 +1,1 @@
-var mnemonic = "much vanish wreck robust sell bitter pact bullet shop aim video ostrich";
+var mnemonic = "long toe dune harvest spoil track secret suggest dance inch lion base";

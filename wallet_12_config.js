@@ -1,1 +1,1 @@
-var mnemonic = "together cash mobile forget now beauty oppose prize pig satisfy august armed";
+var mnemonic = "evoke awkward theory boat satisfy output venture average large palm float amateur";

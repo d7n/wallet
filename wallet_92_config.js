@@ -1,1 +1,1 @@
-var mnemonic = "citizen gravity hand animal inspire tortoise aisle used pioneer rule endorse box";
+var mnemonic = "bargain long farm flush keep gesture agree begin fox wise swim minor";

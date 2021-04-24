@@ -1,1 +1,1 @@
-var mnemonic = "mom skull cannon spring assist airport spell hen save cake method cable";
+var mnemonic = "antenna hood random install brass gadget smoke life source crouch luggage pony";

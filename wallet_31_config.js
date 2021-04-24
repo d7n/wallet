@@ -1,1 +1,1 @@
-var mnemonic = "family warfare uniform clerk element income hidden laugh fit traffic prepare corn";
+var mnemonic = "often equip monitor photo color hair girl melody purchase forest during own";

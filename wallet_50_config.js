@@ -1,1 +1,1 @@
-var mnemonic = "myself dove clog solar casual zero august sight buyer dirt liquid expose";
+var mnemonic = "seat other grief scale proof churn rude behave during sell snake glue";

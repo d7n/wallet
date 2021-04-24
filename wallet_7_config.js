@@ -1,1 +1,1 @@
-var mnemonic = "since seven wing glove pause soup slab expand busy near plunge wild";
+var mnemonic = "hard require shiver business exit brown nature solution mind utility name salt";

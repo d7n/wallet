@@ -1,1 +1,1 @@
-var mnemonic = "funny essay harvest joke advice explain chunk car peanut harbor bunker camera";
+var mnemonic = "off fragile public inherit odor tail police tiny uncle climb gospel physical";

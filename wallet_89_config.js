@@ -1,1 +1,1 @@
-var mnemonic = "hungry master phrase program once relax fade robust depth connect maid recipe";
+var mnemonic = "green tilt someone fold spoil soda domain spread token food express return";

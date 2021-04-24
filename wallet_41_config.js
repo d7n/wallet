@@ -1,1 +1,1 @@
-var mnemonic = "frame panda exile tuition filter school rose fish october crater try harvest";
+var mnemonic = "swift caution discover gym motor fossil discover reject narrow drift inhale shrug";

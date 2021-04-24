@@ -1,1 +1,1 @@
-var mnemonic = "faith reopen load strike morning consider father mother sick blur half valley";
+var mnemonic = "jar search fiction beef cricket frown apple soon little knee will category";

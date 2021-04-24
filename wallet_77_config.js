@@ -1,1 +1,1 @@
-var mnemonic = "borrow fetch olympic elevator toy art piano copy shy amazing industry supreme";
+var mnemonic = "rhythm either dial solution alarm beyond chimney flame bulk coach crew list";

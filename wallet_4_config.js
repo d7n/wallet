@@ -1,1 +1,1 @@
-var mnemonic = "cage abandon grow stomach chest scrap fever toilet cinnamon step cradle easily";
+var mnemonic = "lecture attract gauge zero supply planet prize culture awake slow calm purchase";

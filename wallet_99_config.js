@@ -1,1 +1,1 @@
-var mnemonic = "cook trim bomb brick also canvas name giant oppose disagree usual dish";
+var mnemonic = "sun amused dilemma expire meat result grain alpha afford build piece defense";

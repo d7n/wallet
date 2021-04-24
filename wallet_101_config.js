@@ -1,1 +1,1 @@
-var mnemonic = "tiny skill inhale expire trim easily tone refuse reform engage pact machine";
+var mnemonic = "country master drill purchase quarter atom toast coin bargain verb wise dose";

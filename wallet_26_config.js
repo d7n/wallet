@@ -1,1 +1,1 @@
-var mnemonic = "water fiber shell comfort day entire cash tonight ask ball burst hire";
+var mnemonic = "valid female length erupt awkward acoustic clarify despair observe since slice wait";

@@ -1,1 +1,1 @@
-var mnemonic = "blush weird crash sniff cube hurt consider riot split retreat resource exchange";
+var mnemonic = "certain problem north dirt federal amount stereo man spawn remove student youth";

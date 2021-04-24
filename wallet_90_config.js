@@ -1,1 +1,1 @@
-var mnemonic = "fever script model feed pool patient snow ripple gift insane inquiry mosquito";
+var mnemonic = "cat myself limb stool season sketch turkey silk mail prepare style air";

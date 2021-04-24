@@ -1,1 +1,1 @@
-var mnemonic = "stairs rocket island solution walnut connect add proof lizard alone ridge retire";
+var mnemonic = "purchase success laptop cement market collect cool define worry weather tragic cigar";

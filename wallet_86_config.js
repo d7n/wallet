@@ -1,1 +1,1 @@
-var mnemonic = "satisfy change seed kitchen install vessel wet hollow grocery leopard pencil settle";
+var mnemonic = "clip slim insane kind depart afford salad uncle emotion lawsuit goose cruel";

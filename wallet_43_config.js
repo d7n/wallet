@@ -1,1 +1,1 @@
-var mnemonic = "frequent wear review dilemma trend slide olive giggle motion neither own fire";
+var mnemonic = "arrest analyst push erosion brown dumb riot wife outer seed car write";

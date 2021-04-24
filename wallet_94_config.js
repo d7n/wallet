@@ -1,1 +1,1 @@
-var mnemonic = "wisdom lawsuit entry erode suffer fish pen again dawn flat father file";
+var mnemonic = "candy order private holiday excite edit candy demise lizard manage repeat tomorrow";

@@ -1,1 +1,1 @@
-var mnemonic = "push choice fitness bounce burden verb endorse media hint april exhaust afraid";
+var mnemonic = "expect pig glue allow banner change polar inspire mean tomorrow snow salmon";

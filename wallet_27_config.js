@@ -1,1 +1,1 @@
-var mnemonic = "climb swim swing salon bike problem word enough ramp forum candy avocado";
+var mnemonic = "monkey another nuclear valid street wrong olive film rebuild marble update wool";

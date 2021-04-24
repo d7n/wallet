@@ -1,1 +1,1 @@
-var mnemonic = "memory fashion traffic column lamp agree assume tip buyer unaware chef awkward";
+var mnemonic = "title fiction zero journey diamond purity gown tooth laptop harbor weekend goose";

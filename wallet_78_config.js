@@ -1,1 +1,1 @@
-var mnemonic = "wear learn sentence harbor piano panel mistake sing twin require path kind";
+var mnemonic = "opera scissors scan raw industry puzzle crane tube hire common trap ritual";

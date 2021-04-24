@@ -1,1 +1,1 @@
-var mnemonic = "guard oak beach rare elegant lava method envelope moment install main genuine";
+var mnemonic = "garbage dash struggle canyon wolf price spy proof jungle axis jeans recall";

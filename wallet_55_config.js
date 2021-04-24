@@ -1,1 +1,1 @@
-var mnemonic = "plate school cake hat critic night rabbit magic parent empower sick simple";
+var mnemonic = "stumble miracle cancel angle gym head negative three place able ice verify";

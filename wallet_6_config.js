@@ -1,1 +1,1 @@
-var mnemonic = "miss plastic outer task ancient discover grace umbrella note rubber tail tumble";
+var mnemonic = "total august deputy jazz much use depend army cable dinner repeat neck";

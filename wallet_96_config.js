@@ -1,1 +1,1 @@
-var mnemonic = "spoon address vicious ignore only inherit warm talk face culture property ensure";
+var mnemonic = "ripple small image nurse idle motion spider replace sock middle trim canyon";

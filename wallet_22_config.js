@@ -1,1 +1,1 @@
-var mnemonic = "crouch wool police sad kangaroo inmate desk broken snack stomach card wagon";
+var mnemonic = "tattoo ahead measure tunnel define pill test floor sound pause reflect fatal";

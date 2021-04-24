@@ -1,1 +1,1 @@
-var mnemonic = "dwarf average town beach execute satoshi any clerk boy heart engine under";
+var mnemonic = "much assume festival bubble sustain click collect position snow edit dress silver";

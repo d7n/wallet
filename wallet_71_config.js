@@ -1,1 +1,1 @@
-var mnemonic = "orient gospel fabric amused own document cabin animal can amazing coach guess";
+var mnemonic = "casino slim secret scan country slot fragile oval save endorse convince engine";

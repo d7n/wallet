@@ -1,1 +1,1 @@
-var mnemonic = "oxygen picture panther eyebrow lobster genius gain predict art health food virus";
+var mnemonic = "ethics nephew amused few vacuum exhaust someone monster exile doll grab input";

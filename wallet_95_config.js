@@ -1,1 +1,1 @@
-var mnemonic = "message decide rather six jelly novel bone decline increase fish beyond height";
+var mnemonic = "midnight jealous chase bunker sustain alter appear grace patient whisper bench lab";

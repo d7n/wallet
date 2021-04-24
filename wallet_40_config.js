@@ -1,1 +1,1 @@
-var mnemonic = "kiwi pepper effort pact risk whale rough panel cushion side rich federal";
+var mnemonic = "spray mention enemy pulse law balcony remind over teach yellow similar spot";

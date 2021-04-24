@@ -1,1 +1,1 @@
-var mnemonic = "genre large cable swear jelly sweet fault fabric sniff spatial chalk sand";
+var mnemonic = "cliff tape fiscal hobby vault unlock bind job brain claim inch surface";

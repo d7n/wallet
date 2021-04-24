@@ -1,1 +1,1 @@
-var mnemonic = "wage elite already inmate cook range town volcano metal cinnamon envelope loop";
+var mnemonic = "engine devote kiwi matrix shine renew reward neck maximum marriage endless open";

@@ -1,1 +1,1 @@
-var mnemonic = "deliver speak enemy segment mass process hill enable cram vendor desk rude";
+var mnemonic = "cactus aisle claw impulse dumb stuff alter vessel paddle sight merry avocado";

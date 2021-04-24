@@ -1,1 +1,1 @@
-var mnemonic = "busy jungle quality foam crush ancient cliff suit orange dice lobster negative";
+var mnemonic = "slice possible legend involve smooth apple grunt comfort mad gospel gospel once";

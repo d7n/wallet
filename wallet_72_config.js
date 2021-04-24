@@ -1,1 +1,1 @@
-var mnemonic = "lion rubber clip gown fit problem endless frown blame vault abstract vintage";
+var mnemonic = "penalty tag rigid list okay ranch train service power credit chaos jewel";

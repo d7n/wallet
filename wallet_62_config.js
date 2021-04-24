@@ -1,1 +1,1 @@
-var mnemonic = "struggle clean travel alley exit exclude actress economy child file north real";
+var mnemonic = "chef scan wreck evoke target dutch weather resource strategy nuclear machine layer";

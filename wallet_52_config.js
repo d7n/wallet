@@ -1,1 +1,1 @@
-var mnemonic = "priority problem busy assume unfair foil anxiety dose glad napkin minor special";
+var mnemonic = "butter lunar screen annual latin aim unfold shove phrase oil maximum soda";

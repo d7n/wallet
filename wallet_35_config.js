@@ -1,1 +1,1 @@
-var mnemonic = "vivid risk usage cute term stay miss save change bomb industry teach";
+var mnemonic = "actor dutch explain buffalo arctic limit gadget assist final pelican quantum depart";

@@ -1,1 +1,1 @@
-var mnemonic = "shoot drill maximum accuse lock chronic display million claw unit satoshi spawn";
+var mnemonic = "blast reward region wrap lazy describe system belt inquiry snow aware index";

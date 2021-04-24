@@ -1,1 +1,1 @@
-var mnemonic = "token genius favorite gossip famous disease drum emotion helmet hurry mesh display";
+var mnemonic = "tone over slide high mesh success castle alter fluid minimum toss train";

@@ -1,1 +1,1 @@
-var mnemonic = "leader vivid salon close fade talent hill stone awkward couch giant stand";
+var mnemonic = "answer allow axis wrist problem market stick item wrestle swamp appear hawk";

@@ -1,1 +1,1 @@
-var mnemonic = "length fish swear tomorrow age miracle alert someone congress primary also consider";
+var mnemonic = "stick alert ritual slim thumb food shadow shallow piano velvet genius syrup";

@@ -1,1 +1,1 @@
-var mnemonic = "act eyebrow spell fall become grab basic turn exile urge orphan ski";
+var mnemonic = "under shuffle liar render museum science manage basket music stable pepper rely";

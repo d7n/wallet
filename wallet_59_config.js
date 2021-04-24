@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon solution elite robot cricket drama velvet weasel buzz fit rain bomb";
+var mnemonic = "swap trophy nose lesson tip shock day rare dad write random service";

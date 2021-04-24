@@ -1,1 +1,1 @@
-var mnemonic = "suit odor chief require rich nice guilt useful staff poem skill female";
+var mnemonic = "nephew envelope gate soldier come couch guilt dream utility gossip inside private";

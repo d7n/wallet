@@ -1,1 +1,1 @@
-var mnemonic = "long board chef expect nest cheese decline seven topic flush modify sphere";
+var mnemonic = "repair mother carpet police demise addict crush delay inner prize follow train";

@@ -1,1 +1,1 @@
-var mnemonic = "infant language know muffin manual bus tide nominee coral mask wasp narrow";
+var mnemonic = "dash start pizza income keep slide chicken galaxy impact apple satoshi master";

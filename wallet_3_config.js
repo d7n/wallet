@@ -1,1 +1,1 @@
-var mnemonic = "coin bulk help prosper click chef zero brass tortoise symbol choose news";
+var mnemonic = "bird scan spy output rifle crew shield direct film potato banner truck";

@@ -1,1 +1,1 @@
-var mnemonic = "artist tank visual define apple pudding human pink prison glide bus dizzy";
+var mnemonic = "faith emotion bind heavy penalty soap about polar mistake cloth kingdom fiction";

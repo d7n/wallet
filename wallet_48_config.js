@@ -1,1 +1,1 @@
-var mnemonic = "vote hello occur congress legend tattoo curious wealth all stand eager drill";
+var mnemonic = "lift empower fresh dish yard minor honey eight pudding fruit hawk version";

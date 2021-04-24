@@ -1,1 +1,1 @@
-var mnemonic = "sound embrace tumble finger program must grid spell artwork enjoy tomorrow chair";
+var mnemonic = "episode live bamboo tomorrow labor kit ostrich print kit sign debate giraffe";

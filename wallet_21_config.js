@@ -1,1 +1,1 @@
-var mnemonic = "alert physical way crowd describe finish famous fork duty gasp display host";
+var mnemonic = "achieve hurt humor trash can renew prison beef across slot spawn broom";

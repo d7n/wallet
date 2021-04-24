@@ -1,1 +1,1 @@
-var mnemonic = "congress soldier slush embody cross tell rebel task step juice recipe ride";
+var mnemonic = "silent steak regret fresh verify door liar scan salt fiction element ripple";

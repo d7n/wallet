@@ -1,1 +1,1 @@
-var mnemonic = "chat neutral chief flame dinosaur owner arrange now awkward parrot kitten purpose";
+var mnemonic = "pond bright indoor cupboard sibling bind add under screen promote wish demand";

@@ -1,1 +1,1 @@
-var mnemonic = "waste pretty balance because base open injury envelope front valve vanish ozone";
+var mnemonic = "valid renew symptom village kitten stamp execute artwork master chase mix maximum";

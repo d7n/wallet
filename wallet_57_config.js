@@ -1,1 +1,1 @@
-var mnemonic = "scout alone vital lobster expect security wine inform pet upgrade wise come";
+var mnemonic = "potato mesh replace bitter liar invite exhibit burger armor decrease limit urban";

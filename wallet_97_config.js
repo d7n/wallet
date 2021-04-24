@@ -1,1 +1,1 @@
-var mnemonic = "lab enrich artist never ten allow idea fine economy cannon person city";
+var mnemonic = "orange neck mad end prevent mule glass panther utility help exile nominee";

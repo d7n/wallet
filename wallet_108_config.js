@@ -1,1 +1,1 @@
-var mnemonic = "under busy verify idle client oppose scrub then tattoo near recycle recall";
+var mnemonic = "rural jungle ahead elder tobacco outside imitate label live lunar later mercy";

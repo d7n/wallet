@@ -1,1 +1,1 @@
-var mnemonic = "jungle pride online winter poverty dinner regular ranch december misery camera unique";
+var mnemonic = "visual tooth adjust tuna guide use all spell olympic parade auction engine";

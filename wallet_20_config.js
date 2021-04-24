@@ -1,1 +1,1 @@
-var mnemonic = "what auto green warrior decorate define lawsuit undo cream orbit bright beef";
+var mnemonic = "december crystal universe bleak furnace tribe entire document erosion dynamic main sunset";

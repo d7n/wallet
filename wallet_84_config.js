@@ -1,1 +1,1 @@
-var mnemonic = "buzz finish tiny lyrics cause room front tiger husband vote half tourist";
+var mnemonic = "mosquito curve kangaroo design review over guide two disease damage invest three";

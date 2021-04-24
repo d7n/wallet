@@ -1,1 +1,1 @@
-var mnemonic = "sound vacant valid axis gesture nuclear magic analyst catch column ahead flip";
+var mnemonic = "empower where laugh tape vibrant air treat endorse horror real return alpha";

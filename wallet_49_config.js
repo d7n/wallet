@@ -1,1 +1,1 @@
-var mnemonic = "reason one quick field afford target light finger arch strategy invite evoke";
+var mnemonic = "risk toddler lizard farm explain smart dice weasel spin ecology dawn fix";

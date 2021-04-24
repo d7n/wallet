@@ -1,1 +1,1 @@
-var mnemonic = "slender round trip tackle seven armed evoke table also coyote vocal gospel";
+var mnemonic = "potato square hover give donkey eagle path need dog spy arch recipe";

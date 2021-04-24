@@ -1,1 +1,1 @@
-var mnemonic = "smooth wise ozone snap vicious build general analyst myth tennis meat latin";
+var mnemonic = "know problem rubber bring patch burst patient umbrella prevent onion grocery crouch";

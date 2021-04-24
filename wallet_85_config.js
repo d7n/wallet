@@ -1,1 +1,1 @@
-var mnemonic = "issue hybrid balance emerge fox fish ball help lift slow fold document";
+var mnemonic = "chase caught eight horse ocean annual wise observe divert meadow throw public";

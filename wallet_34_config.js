@@ -1,1 +1,1 @@
-var mnemonic = "orange position daughter cupboard machine alcohol crisp forward belt behave six small";
+var mnemonic = "dwarf rice evil parrot unfold plate copy season shed silver pigeon buzz";

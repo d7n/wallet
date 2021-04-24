@@ -1,1 +1,1 @@
-var mnemonic = "double legal analyst device void captain tobacco gasp perfect bracket dust then";
+var mnemonic = "damage opinion marriage oval spell often illness report water engine climb grace";

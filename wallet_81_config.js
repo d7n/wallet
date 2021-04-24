@@ -1,1 +1,1 @@
-var mnemonic = "measure myth budget bounce fiction cloud boat cancel bicycle fault feel youth";
+var mnemonic = "caution trade display train grow deny elbow better fog item pull keen";

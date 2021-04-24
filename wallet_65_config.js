@@ -1,1 +1,1 @@
-var mnemonic = "alert sniff goddess welcome settle pride column away opinion secret casino industry";
+var mnemonic = "point merit attitude curve trumpet athlete avoid desk joy answer imitate popular";
