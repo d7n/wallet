@@ -1,1 +1,1 @@
-var mnemonic = "shy open bar solve depth filter talk rabbit code novel horror page";
+var mnemonic = "foot rapid tuition picture tower real fury burst area lawn mercy gaze";

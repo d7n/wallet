@@ -1,1 +1,1 @@
-var mnemonic = "later trumpet frown coil bench diagram industry candy exotic chalk gate arena";
+var mnemonic = "speed left siren fancy mobile subject topic image suggest drill pact coast";

@@ -1,1 +1,1 @@
-var mnemonic = "alert illness arctic type noodle spray hurdle park result calm inquiry begin";
+var mnemonic = "uphold stumble slide destroy beef glimpse quit license uncover dice vast cream";

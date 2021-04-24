@@ -1,1 +1,1 @@
-var mnemonic = "sheriff waste roof lava swap final camera timber latin clarify vapor field";
+var mnemonic = "crumble awesome crystal analyst treat question mail say leopard steak dash adapt";

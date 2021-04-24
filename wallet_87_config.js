@@ -1,1 +1,1 @@
-var mnemonic = "neither place chunk offer fix scan brisk flight monkey pool like rich";
+var mnemonic = "select surprise kidney jaguar gaze join nature mountain category space purse link";

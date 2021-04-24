@@ -1,1 +1,1 @@
-var mnemonic = "lecture host radar jacket give someone adult glare mean rebuild stamp shuffle";
+var mnemonic = "invite dizzy piece poem laptop stock summer desk pencil capital twenty affair";

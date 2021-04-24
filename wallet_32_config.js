@@ -1,1 +1,1 @@
-var mnemonic = "combine dial domain twist sheriff loan outdoor talent vanish human verify pass";
+var mnemonic = "daring crumble total shop shell hero involve develop puppy arctic wine snake";

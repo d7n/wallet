@@ -1,1 +1,1 @@
-var mnemonic = "prevent hope ignore correct evidence borrow practice history size top error rule";
+var mnemonic = "subway inherit amount afraid eagle donate silver uniform wife exclude car benefit";

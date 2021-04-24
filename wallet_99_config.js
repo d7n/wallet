@@ -1,1 +1,1 @@
-var mnemonic = "whisper album crowd bronze risk brass camera birth subway urge useful camera";
+var mnemonic = "balcony element decorate ice alone rose crater bitter fruit session dinosaur possible";

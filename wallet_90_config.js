@@ -1,1 +1,1 @@
-var mnemonic = "radar patient vocal curious wine below weekend eternal collect mail false million";
+var mnemonic = "design issue blur acquire solid drum secret rural bar quantum muscle permit";

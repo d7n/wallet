@@ -1,1 +1,1 @@
-var mnemonic = "guard pledge very invest party weather egg denial tenant long security utility";
+var mnemonic = "install good okay two recipe ladder damage receive sleep target shuffle benefit";

@@ -1,1 +1,1 @@
-var mnemonic = "rude brown library size tilt shell bless combine zoo atom barrel rather";
+var mnemonic = "inhale quit planet spot cart kingdom arch cricket coil cupboard ostrich often";

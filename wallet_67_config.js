@@ -1,1 +1,1 @@
-var mnemonic = "force purpose usage sleep fix service battle robust found sure such language";
+var mnemonic = "control talent foil alley accuse invest suffer outside cancel tumble glass stereo";

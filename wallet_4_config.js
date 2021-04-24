@@ -1,1 +1,1 @@
-var mnemonic = "burst dune garment strategy catch obtain object trigger elder club donor physical";
+var mnemonic = "during bracket gas tumble admit pizza area because swamp wife borrow actor";

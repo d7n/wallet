@@ -1,1 +1,1 @@
-var mnemonic = "comfort scissors prevent garden adult dwarf bicycle athlete cross tube already tape";
+var mnemonic = "cute end sweet venture rebel math spend attack crisp protect delay window";

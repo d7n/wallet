@@ -1,1 +1,1 @@
-var mnemonic = "federal increase cream very baby grape struggle scan way remind visa hole";
+var mnemonic = "abuse chef speed pudding excess double success intact author enhance hurt skill";

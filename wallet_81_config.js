@@ -1,1 +1,1 @@
-var mnemonic = "thumb pupil urge peanut pulse issue link duck frog tired budget rug";
+var mnemonic = "until radio announce settle vacuum record thunder jealous path toilet tag settle";

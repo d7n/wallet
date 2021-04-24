@@ -1,1 +1,1 @@
-var mnemonic = "still pair voyage route police cause insect polar glove door sponsor balcony";
+var mnemonic = "lawn enter confirm corn way choice cabin lab spoil balance capable soda";

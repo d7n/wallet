@@ -1,1 +1,1 @@
-var mnemonic = "park apart speed gas surface indoor mix course melt glow rally fitness";
+var mnemonic = "account must modify powder gossip gym lesson cave brand ladder caution sure";

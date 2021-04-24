@@ -1,1 +1,1 @@
-var mnemonic = "keen dawn wall lunch way useless position secret flush reason ready already";
+var mnemonic = "destroy riot deal car orphan rookie consider canvas inhale around tower text";

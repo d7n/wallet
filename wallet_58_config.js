@@ -1,1 +1,1 @@
-var mnemonic = "acid winter mammal dwarf live lunch chronic find young muffin poem hope";
+var mnemonic = "twelve blast lion waste crush charge dinner nephew program shed medal outdoor";

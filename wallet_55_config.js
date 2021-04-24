@@ -1,1 +1,1 @@
-var mnemonic = "century income cry clinic address medal milk fragile royal fantasy creek citizen";
+var mnemonic = "horse step harbor media cook across isolate mechanic abandon sun mansion rose";

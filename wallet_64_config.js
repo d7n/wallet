@@ -1,1 +1,1 @@
-var mnemonic = "debate pumpkin zone knife case gorilla human cigar balcony merry output evidence";
+var mnemonic = "spirit capable sea also ketchup nose symptom betray lizard kit critic broccoli";

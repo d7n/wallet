@@ -1,1 +1,1 @@
-var mnemonic = "diary field slush october rifle salt problem oblige inject idea blame danger";
+var mnemonic = "search measure ankle room devote unfold shoe idea oak lend cake smooth";

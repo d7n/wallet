@@ -1,1 +1,1 @@
-var mnemonic = "tumble domain globe yellow under setup hobby sun member bunker glide stumble";
+var mnemonic = "movie sentence tackle remove couple attitude load bargain thrive jewel warrior diet";

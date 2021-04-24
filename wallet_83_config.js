@@ -1,1 +1,1 @@
-var mnemonic = "bring donor sleep tide glare bundle cousin volume saddle parrot carry all";
+var mnemonic = "act aspect shift hospital curve black hover start response mystery sphere welcome";

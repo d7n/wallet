@@ -1,1 +1,1 @@
-var mnemonic = "island actor fancy raw sniff unveil flavor carpet ozone guilt bottom kidney";
+var mnemonic = "junior vicious camp acoustic gasp whisper want vault cycle tunnel purpose gossip";

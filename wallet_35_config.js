@@ -1,1 +1,1 @@
-var mnemonic = "forget sweet copy banner range boy portion engage cigar keen hope crane";
+var mnemonic = "jacket library naive diesel eagle tone arm output sell shed episode great";

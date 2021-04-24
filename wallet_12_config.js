@@ -1,1 +1,1 @@
-var mnemonic = "game faculty milk harbor animal belt fatigue whale mail number enforce broken";
+var mnemonic = "keep text skill transfer jelly eager cage unique taste rifle sad basket";

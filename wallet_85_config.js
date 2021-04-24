@@ -1,1 +1,1 @@
-var mnemonic = "sphere flat genuine bitter clap mistake attend divide oil meat tiny mass";
+var mnemonic = "remain turkey wire unknown leave doll claw this rebuild gospel pupil spare";

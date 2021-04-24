@@ -1,1 +1,1 @@
-var mnemonic = "wave lucky lumber flee bright pluck entry flat example render unique rib";
+var mnemonic = "fiction robot high holiday pledge deputy borrow enjoy stairs tobacco exile tray";

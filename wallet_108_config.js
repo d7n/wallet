@@ -1,1 +1,1 @@
-var mnemonic = "clock orbit abandon keep ripple huge piece talk labor analyst tornado garbage";
+var mnemonic = "mean major protect fitness autumn main pulp chest figure talk token giraffe";

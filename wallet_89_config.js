@@ -1,1 +1,1 @@
-var mnemonic = "damage repeat essence admit copy dismiss grab radar mail arrange broccoli destroy";
+var mnemonic = "act believe truck peanut toy immune index fog vivid urban genre level";

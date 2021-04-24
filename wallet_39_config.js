@@ -1,1 +1,1 @@
-var mnemonic = "muffin observe change angry fantasy sentence convince decline sock grocery elder manage";
+var mnemonic = "upgrade release blanket hero maple retreat camp dynamic second present wink board";

@@ -1,1 +1,1 @@
-var mnemonic = "magic misery ten behave mango attend end flower trade inch similar interest";
+var mnemonic = "disagree bleak merge fantasy language kangaroo name achieve because student have more";

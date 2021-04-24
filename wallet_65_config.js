@@ -1,1 +1,1 @@
-var mnemonic = "second kitten monster relief brand mango wolf surround twist insect maze birth";
+var mnemonic = "upon own floor stock improve video marine home rough alpha rent animal";

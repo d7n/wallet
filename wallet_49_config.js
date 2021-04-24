@@ -1,1 +1,1 @@
-var mnemonic = "flight leaf renew scheme idea raven crowd giant heavy vast chicken devote";
+var mnemonic = "ahead laptop shoe below edge occur advance exhibit fault load island solution";

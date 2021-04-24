@@ -1,1 +1,1 @@
-var mnemonic = "immense brave such crisp kangaroo crumble awful season afford debris medal disagree";
+var mnemonic = "learn seat sand enemy upper party still sun advance beyond harsh hospital";

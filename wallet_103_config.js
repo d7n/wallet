@@ -1,1 +1,1 @@
-var mnemonic = "client meadow joke fluid alarm file term invest foster place artist keen";
+var mnemonic = "brisk quality bean fitness celery narrow mistake like inflict fatigue dice cliff";

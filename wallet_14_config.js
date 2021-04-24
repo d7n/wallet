@@ -1,1 +1,1 @@
-var mnemonic = "merry addict world napkin absurd supply bachelor clown equal across grunt feature";
+var mnemonic = "apple leg muscle rotate slim pluck endorse swim hybrid unfair ceiling soup";

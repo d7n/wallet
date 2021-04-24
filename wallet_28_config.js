@@ -1,1 +1,1 @@
-var mnemonic = "label chicken address equip buddy audit struggle business scrap adult main news";
+var mnemonic = "general enroll taxi undo lift dinner matter boring shaft add quote enact";

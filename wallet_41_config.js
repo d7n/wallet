@@ -1,1 +1,1 @@
-var mnemonic = "smile differ awful polar climb pull chest ginger they amazing float swim";
+var mnemonic = "power transfer model unknown today man galaxy settle outdoor fox spray grain";

@@ -1,1 +1,1 @@
-var mnemonic = "raccoon narrow fit inform top tired feel husband wear decrease urge boring";
+var mnemonic = "parent leave ecology kidney gravity kangaroo tilt midnight primary pistol daughter shrimp";

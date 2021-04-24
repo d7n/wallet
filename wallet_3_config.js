@@ -1,1 +1,1 @@
-var mnemonic = "blame charge history sign audit kidney label course until museum table ask";
+var mnemonic = "return auto chase pencil vendor gate wealth prevent join topple destroy try";

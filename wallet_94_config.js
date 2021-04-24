@@ -1,1 +1,1 @@
-var mnemonic = "bring jaguar home upgrade pig deliver purity replace tomato position mountain olive";
+var mnemonic = "eager exotic mobile exit banner stay hundred session sock outside wash term";

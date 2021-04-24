@@ -1,1 +1,1 @@
-var mnemonic = "fox tumble dirt stand vendor fame trap anger mammal cluster report exotic";
+var mnemonic = "play link coral tumble crash assume infant metal extend clock there judge";

@@ -1,1 +1,1 @@
-var mnemonic = "envelope lounge liar early alien debate letter faint flag desert question neglect";
+var mnemonic = "smooth return inspire visual bundle forward cactus near ivory teach analyst suit";

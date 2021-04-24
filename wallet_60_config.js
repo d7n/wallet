@@ -1,1 +1,1 @@
-var mnemonic = "pitch wheel goat narrow silent scrap tackle media force napkin toddler loyal";
+var mnemonic = "unfold jealous glue lens another game mixture blossom prize slam blast dismiss";

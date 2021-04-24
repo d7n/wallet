@@ -1,1 +1,1 @@
-var mnemonic = "unit family banana will battle meadow source snake ski excess paper oil";
+var mnemonic = "input impulse doll window gift hole diet tourist deliver lunch midnight tenant";

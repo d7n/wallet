@@ -1,1 +1,1 @@
-var mnemonic = "elbow bunker panic picture load large supreme pattern pistol public turkey cotton";
+var mnemonic = "seat pet inflict reason voyage fiber mobile switch moon park drum entire";

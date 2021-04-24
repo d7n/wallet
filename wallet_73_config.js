@@ -1,1 +1,1 @@
-var mnemonic = "cluster fly season bottom already purse hazard junk truly comic unaware rail";
+var mnemonic = "oval begin hospital cost alpha age sick click approve main analyst venue";

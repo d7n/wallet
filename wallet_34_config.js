@@ -1,1 +1,1 @@
-var mnemonic = "obtain drink also truck perfect uncover result huge reunion issue output author";
+var mnemonic = "goat mammal recycle whip model medal trial census bubble fabric business oyster";

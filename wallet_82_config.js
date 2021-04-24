@@ -1,1 +1,1 @@
-var mnemonic = "trouble system road october similar property group future payment seek mechanic boat";
+var mnemonic = "finish unusual upon rhythm pitch mad will clutch smart concert digital marine";

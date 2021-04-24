@@ -1,1 +1,1 @@
-var mnemonic = "wall retreat urban crop arena coil garden figure drastic prosper resemble leg";
+var mnemonic = "shed another giggle inhale prefer athlete jacket crash cannon must doll scan";

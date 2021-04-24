@@ -1,1 +1,1 @@
-var mnemonic = "elbow this yellow van grain addict film together now ice expect excite";
+var mnemonic = "outside provide column vanish column knock leg churn middle legal vapor aware";

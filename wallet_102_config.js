@@ -1,1 +1,1 @@
-var mnemonic = "other siren battle knee tiger kind olive clinic radio ask prize bottom";
+var mnemonic = "fancy quarter dial sketch hunt dwarf happy best estate taxi sad spoil";

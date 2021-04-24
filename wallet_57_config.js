@@ -1,1 +1,1 @@
-var mnemonic = "anger dash slogan pluck issue argue climb muscle still leaf weather beef";
+var mnemonic = "often ensure trade love alone gasp cherry south spirit gesture orchard test";

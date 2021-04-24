@@ -1,1 +1,1 @@
-var mnemonic = "nothing defense father monster powder staff bag kiss machine upgrade panda damage";
+var mnemonic = "frown spatial tomorrow relax shrug mention canoe supreme advice jacket crucial sing";

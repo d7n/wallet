@@ -1,1 +1,1 @@
-var mnemonic = "pass physical kidney danger cluster opinion hazard tourist grit nuclear then mule";
+var mnemonic = "outside trophy cargo sign fatal shadow people option shiver famous forward sketch";

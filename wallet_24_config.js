@@ -1,1 +1,1 @@
-var mnemonic = "sock during miracle easily knife find foil vessel enjoy enforce smooth rule";
+var mnemonic = "sentence horn share behind gloom effort tent sniff kitchen acoustic that gun";

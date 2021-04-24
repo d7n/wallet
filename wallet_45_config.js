@@ -1,1 +1,1 @@
-var mnemonic = "enter cause heavy ladder filter panda coral unknown human finish brave liquid";
+var mnemonic = "palm faith also math try lunch swift you document total wing skin";

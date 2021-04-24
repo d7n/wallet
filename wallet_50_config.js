@@ -1,1 +1,1 @@
-var mnemonic = "test buzz near final bar mistake good myth build donor fatigue mom";
+var mnemonic = "sport layer imitate spread acquire advance live girl satoshi gallery wet switch";

@@ -1,1 +1,1 @@
-var mnemonic = "wrist tone dice pumpkin stairs story oak pigeon gasp balcony tool hockey";
+var mnemonic = "derive grief april pull panel evolve divide umbrella author increase cycle input";

@@ -1,1 +1,1 @@
-var mnemonic = "mistake retire scissors misery weekend post act convince test nature size artwork";
+var mnemonic = "dragon perfect rice box absurd filter embody dice accuse appear six stool";

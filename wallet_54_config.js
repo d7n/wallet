@@ -1,1 +1,1 @@
-var mnemonic = "million layer pottery very replace meadow rocket dad salute slush child glad";
+var mnemonic = "vicious city flush attitude identify famous bridge hospital fatal viable stay gesture";

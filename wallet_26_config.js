@@ -1,1 +1,1 @@
-var mnemonic = "question devote concert news burger boss sign capital obvious call polar armed";
+var mnemonic = "plug remain phone tape jeans priority present stairs execute escape gaze knee";

@@ -1,1 +1,1 @@
-var mnemonic = "festival version clinic dolphin stumble alcohol girl rebel decorate fiber shadow lake";
+var mnemonic = "spice inside term divert agree glue sudden glad remember impulse process fat";

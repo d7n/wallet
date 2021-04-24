@@ -1,1 +1,1 @@
-var mnemonic = "number hobby skull volcano spring come rely craft dumb intact burden profit";
+var mnemonic = "talent struggle blur satoshi keen actress good city wheel business twist civil";

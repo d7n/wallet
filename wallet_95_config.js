@@ -1,1 +1,1 @@
-var mnemonic = "broken artefact benefit tomato kiwi athlete staff vendor impose valid bracket safe";
+var mnemonic = "dumb kind book volume taste cactus dose observe portion search scene language";

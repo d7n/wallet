@@ -1,1 +1,1 @@
-var mnemonic = "close meadow bamboo scout club fame escape gown cruise voice artefact blur";
+var mnemonic = "rough celery broccoli want pupil dumb banner wool urban film genius hurry";

@@ -1,1 +1,1 @@
-var mnemonic = "apology emotion total capital empty kidney poem aerobic pass language enrich exotic";
+var mnemonic = "earth spatial summer deliver sleep diet unlock ski sister cloth exact orange";

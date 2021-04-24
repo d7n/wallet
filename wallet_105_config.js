@@ -1,1 +1,1 @@
-var mnemonic = "final urban estate tumble essay busy you above man impact trash attend";
+var mnemonic = "enact slide steak reveal trim bird ignore base world special upgrade cage";

@@ -1,1 +1,1 @@
-var mnemonic = "suit capable enemy liberty broccoli night prefer high base scale drop clock";
+var mnemonic = "advice runway lawn two myth saddle left firm empty predict vapor absorb";

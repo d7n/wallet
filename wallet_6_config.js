@@ -1,1 +1,1 @@
-var mnemonic = "leg reduce pond address bitter spare atom broken bulb when very main";
+var mnemonic = "hamster husband defy fringe kid style slam distance kid lucky rescue clay";

@@ -1,1 +1,1 @@
-var mnemonic = "trip flight clap cost discover tell awkward shrug latin absurd prison eagle";
+var mnemonic = "reopen kite radar uncle radio ivory mean either pepper member gather expose";

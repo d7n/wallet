@@ -1,1 +1,1 @@
-var mnemonic = "forum gift method alcohol hub behind rhythm marble wagon logic clarify off";
+var mnemonic = "wide million fame claw coconut senior easily canyon wheat mutual bread wood";

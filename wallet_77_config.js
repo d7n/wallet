@@ -1,1 +1,1 @@
-var mnemonic = "slam addict chief manage tail inmate jeans lava almost midnight desert among";
+var mnemonic = "anxiety zoo wish beef grass lazy crane current merit film card half";

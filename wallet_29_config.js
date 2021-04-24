@@ -1,1 +1,1 @@
-var mnemonic = "riot proof coil unfair blanket skull boring short charge cram swift drop";
+var mnemonic = "only monkey sponsor consider pretty fabric spend neutral vicious hand couple climb";

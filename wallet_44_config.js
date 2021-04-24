@@ -1,1 +1,1 @@
-var mnemonic = "hard assault mandate token busy goddess switch heart flame nuclear bounce garbage";
+var mnemonic = "detail army super cream tennis venture laundry drama nest squirrel camera now";

@@ -1,1 +1,1 @@
-var mnemonic = "rotate pepper key execute beef average wash ecology jelly aerobic earn song";
+var mnemonic = "curious educate paddle crisp obey humble shop myself ethics hurt unfold soul";

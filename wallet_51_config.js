@@ -1,1 +1,1 @@
-var mnemonic = "hood mango tent elder owner desk slender clarify online length protect dolphin";
+var mnemonic = "soldier episode anger scout sketch denial shy bright cement coast inch example";

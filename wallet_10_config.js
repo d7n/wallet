@@ -1,1 +1,1 @@
-var mnemonic = "drop wild wrong warm congress world arrange liar wide limb mango labor";
+var mnemonic = "marine analyst style cactus bronze ill provide victory tube innocent exile kitchen";

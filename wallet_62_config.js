@@ -1,1 +1,1 @@
-var mnemonic = "manual sleep pilot rude vintage rack enroll garment remember denial rely person";
+var mnemonic = "leisure drum sunny truly gate stool mosquito ghost great hard welcome stuff";

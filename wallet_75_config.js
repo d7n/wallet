@@ -1,1 +1,1 @@
-var mnemonic = "obtain opinion shield spray window visual birth glass crater brass camera owner";
+var mnemonic = "manage salute bomb pioneer prison detail govern column absorb ticket pull evil";

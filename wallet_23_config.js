@@ -1,1 +1,1 @@
-var mnemonic = "neither where kite expire output regret park grocery faith cheese advance poet";
+var mnemonic = "voice crane nurse face local comfort february faint series beach number mountain";

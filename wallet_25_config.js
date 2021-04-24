@@ -1,1 +1,1 @@
-var mnemonic = "message rack choice save child craft brother clown survey source celery identify";
+var mnemonic = "car exercise birth mammal laundry smooth canal gauge bulk eyebrow have brief";

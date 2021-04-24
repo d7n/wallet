@@ -1,1 +1,1 @@
-var mnemonic = "swear original cinnamon dune nasty damage earn keep gift remember clap notable";
+var mnemonic = "nest bracket poet plastic bronze ritual canal mandate dry lesson olive slight";

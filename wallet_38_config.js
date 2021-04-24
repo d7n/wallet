@@ -1,1 +1,1 @@
-var mnemonic = "dust general bullet suffer clap school vapor heart collect vibrant minor hamster";
+var mnemonic = "genius enemy limb jar scare climb hidden juice decline change isolate correct";

@@ -1,1 +1,1 @@
-var mnemonic = "van jump mobile afraid choice wave resource fossil bid seminar because mimic";
+var mnemonic = "gossip success eager crush canoe already bubble warfare attack warfare action way";

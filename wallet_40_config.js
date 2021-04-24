@@ -1,1 +1,1 @@
-var mnemonic = "inject uncle crew knock word absurd charge fox cupboard whale hunt truck";
+var mnemonic = "dress negative best enlist please diagram initial estate multiply leader enable nation";

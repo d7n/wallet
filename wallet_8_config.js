@@ -1,1 +1,1 @@
-var mnemonic = "lend name immune fragile neutral rain goat cat hole acoustic appear draft";
+var mnemonic = "display dance dawn mask nerve budget post shield fame husband subject reduce";

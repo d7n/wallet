@@ -1,1 +1,1 @@
-var mnemonic = "daughter key trumpet interest innocent quick already multiply guide example drive chef";
+var mnemonic = "mesh today write choice pipe garbage huge soft thrive april ask soul";

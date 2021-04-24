@@ -1,1 +1,1 @@
-var mnemonic = "pole roast where vacant luggage salon veteran aspect gravity hobby what fury";
+var mnemonic = "gain start grant absent shove slam skill birth game mind soccer mystery";
