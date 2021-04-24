@@ -1,1 +1,1 @@
-var mnemonic = "grab retire dance layer obscure hurt uncover economy remind absorb penalty witness";
+var mnemonic = "learn range elder job lesson abstract census window company accident giant peanut";

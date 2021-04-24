@@ -1,1 +1,1 @@
-var mnemonic = "suggest various debris forget tattoo party desk joy winner police bring camp";
+var mnemonic = "section actress trade make visa blue ocean husband speak symptom gesture dice";

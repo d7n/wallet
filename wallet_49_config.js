@@ -1,1 +1,1 @@
-var mnemonic = "dune spice hat dizzy height skirt grunt drum execute glow execute want";
+var mnemonic = "zone athlete walk jungle renew balcony disorder session journey danger betray lab";

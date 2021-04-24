@@ -1,1 +1,1 @@
-var mnemonic = "marriage proud forward slab pig topple erosion dice wealth bright human shield";
+var mnemonic = "nation faculty can sniff few junk math canvas know express raise decorate";

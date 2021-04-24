@@ -1,1 +1,1 @@
-var mnemonic = "stick click shell marriage female stove grit address cube copy core year";
+var mnemonic = "safe fork pipe urban finger laugh area run bargain history spawn sun";

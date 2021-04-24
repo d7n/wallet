@@ -1,1 +1,1 @@
-var mnemonic = "cheese banana crawl theory spin swing group mutual answer sell joke hire";
+var mnemonic = "evoke winner tennis sock general young proof false twenty grant similar visa";

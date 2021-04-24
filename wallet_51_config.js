@@ -1,1 +1,1 @@
-var mnemonic = "buddy heavy uncover anxiety neglect debris scale initial enough start practice relief";
+var mnemonic = "ancient machine juice couple citizen helmet advice dial pistol cute neck clown";

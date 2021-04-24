@@ -1,1 +1,1 @@
-var mnemonic = "student black ethics divide major suggest equal census nurse despair keen check";
+var mnemonic = "adapt sea script end enrich elbow shed shiver like tourist domain silly";

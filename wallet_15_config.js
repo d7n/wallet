@@ -1,1 +1,1 @@
-var mnemonic = "hybrid potato crawl found seminar enter hollow grace salad lizard high shove";
+var mnemonic = "bread detail sorry planet floor produce alley treat thumb friend plunge october";

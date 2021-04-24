@@ -1,1 +1,1 @@
-var mnemonic = "club honey lion chaos hamster tray ceiling middle model actor gesture audit";
+var mnemonic = "cube short abuse raven acquire digital burst reduce find hello blue pride";

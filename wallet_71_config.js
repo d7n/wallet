@@ -1,1 +1,1 @@
-var mnemonic = "wealth price square pole kitchen actual agree witness lion hire icon hammer";
+var mnemonic = "fury kidney remove target spring midnight trust exhaust body raccoon mechanic aware";

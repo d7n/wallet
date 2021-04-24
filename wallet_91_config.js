@@ -1,1 +1,1 @@
-var mnemonic = "garage case ship devote model park detect liquid away wash bean crack";
+var mnemonic = "ready fortune enemy blade pear awkward sport affair mechanic fuel grief chair";

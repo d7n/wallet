@@ -1,1 +1,1 @@
-var mnemonic = "lend cool sheriff until beef shuffle gold must seek enhance enact claw";
+var mnemonic = "again staff spoil dog yard fault tunnel clog child film liquid economy";

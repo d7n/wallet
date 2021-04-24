@@ -1,1 +1,1 @@
-var mnemonic = "theory invest carry any soon scrap palace impact mother junk gift absent";
+var mnemonic = "airport behind afford struggle pen atom super estate monster hover swift proud";

@@ -1,1 +1,1 @@
-var mnemonic = "ignore couple vote vault account polar three artwork benefit tell payment panther";
+var mnemonic = "taxi luxury avocado annual spoil disease screen cruise shiver scheme carbon behind";

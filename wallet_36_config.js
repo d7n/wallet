@@ -1,1 +1,1 @@
-var mnemonic = "barrel stamp notable gym fossil unknown hip casino must acquire culture trash";
+var mnemonic = "face slight path method shed advance fabric indicate hire pear chalk help";

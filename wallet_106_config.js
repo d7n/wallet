@@ -1,1 +1,1 @@
-var mnemonic = "sunny soul cake jar ecology wool car legend bomb fan desk surprise";
+var mnemonic = "first error velvet foot alone diesel attitude know tag increase sudden lumber";

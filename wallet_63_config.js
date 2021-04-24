@@ -1,1 +1,1 @@
-var mnemonic = "tired predict seven skin swap puzzle exercise permit disease talk pioneer eager";
+var mnemonic = "evidence during only steel eagle use turkey frequent century relax sound bird";

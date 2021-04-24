@@ -1,1 +1,1 @@
-var mnemonic = "true real switch common solid abstract artwork fence gauge aisle earth warm";
+var mnemonic = "sun story hello enroll famous kick genius gate snack minor aspect loop";

@@ -1,1 +1,1 @@
-var mnemonic = "rabbit begin crouch exhaust accuse idle much market laptop link prize bus";
+var mnemonic = "define knife shrimp various coral custom party ramp silly course alcohol remember";

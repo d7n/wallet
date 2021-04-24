@@ -1,1 +1,1 @@
-var mnemonic = "coconut winner rent cake patrol crawl useless wreck scare require title pet";
+var mnemonic = "giant unlock foster kite vivid tiny correct moon ski direct evidence narrow";

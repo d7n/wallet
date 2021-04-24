@@ -1,1 +1,1 @@
-var mnemonic = "live strike below market lend canvas rely marine fatal history sand shrug";
+var mnemonic = "blue donkey prize crisp pattern broom head scrap dance pottery vapor poverty";

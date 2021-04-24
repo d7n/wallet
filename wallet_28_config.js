@@ -1,1 +1,1 @@
-var mnemonic = "orbit tree swallow legend silk jeans finish debate kingdom cousin forest marble";
+var mnemonic = "travel flower supreme suit thunder chef lock grit tray hundred skull hurdle";

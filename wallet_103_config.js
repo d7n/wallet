@@ -1,1 +1,1 @@
-var mnemonic = "glimpse hotel recipe nut wait sign crouch tourist view morning anger they";
+var mnemonic = "charge win invest web blind initial step only tiny fetch news tonight";

@@ -1,1 +1,1 @@
-var mnemonic = "high cool clarify tobacco alarm monkey fruit relax decade shine enough help";
+var mnemonic = "deer fix dad world turkey web device ivory recipe traffic income narrow";

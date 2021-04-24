@@ -1,1 +1,1 @@
-var mnemonic = "because shaft add lion type rule clog emotion curve daring aspect quality";
+var mnemonic = "manual royal tank trick candy gift crunch aerobic skull sad bring poet";

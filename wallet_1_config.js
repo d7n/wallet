@@ -1,1 +1,1 @@
-var mnemonic = "prevent garment observe sell coin amateur toast dune eagle grief try permit";
+var mnemonic = "science pink super filter fan chaos knife horror artist shed heavy extend";

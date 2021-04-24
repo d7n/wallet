@@ -1,1 +1,1 @@
-var mnemonic = "trigger milk motor dolphin come arm side waste chunk capital bracket key";
+var mnemonic = "donor brush under balance wide blood gap float clump indoor mammal garbage";

@@ -1,1 +1,1 @@
-var mnemonic = "elder lottery dutch acid business vault steak tenant ostrich example fiscal speed";
+var mnemonic = "execute submit biology news dad grant barely vessel glow transfer express kingdom";

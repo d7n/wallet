@@ -1,1 +1,1 @@
-var mnemonic = "upper shield horror doctor chaos mutual north wife impulse crazy mirror angle";
+var mnemonic = "humble oxygen until option seminar border praise renew tent cry clerk mosquito";

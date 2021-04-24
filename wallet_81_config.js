@@ -1,1 +1,1 @@
-var mnemonic = "dice broken exit hair indicate minimum indicate hip crash myth flat when";
+var mnemonic = "autumn clown token rent okay near print visual gossip glow endless midnight";

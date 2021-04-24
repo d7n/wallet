@@ -1,1 +1,1 @@
-var mnemonic = "wish right light lava quantum science treat mechanic autumn average lift hint";
+var mnemonic = "salon permit kiss foil near ladder pretty phone minimum aware talk spice";

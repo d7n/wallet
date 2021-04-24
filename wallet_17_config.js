@@ -1,1 +1,1 @@
-var mnemonic = "tag school vehicle eight fade release alien effort lazy number adjust stuff";
+var mnemonic = "expose crunch tool strategy like accuse smart cupboard recycle thought elder motion";

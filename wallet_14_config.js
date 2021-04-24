@@ -1,1 +1,1 @@
-var mnemonic = "draw fiscal cushion certain proof diagram seed primary rigid welcome slam firm";
+var mnemonic = "lake peasant dragon piano area asset trade capital exercise farm obscure very";

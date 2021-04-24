@@ -1,1 +1,1 @@
-var mnemonic = "surround course fold amount rocket flock vivid slow alcohol rival exile buzz";
+var mnemonic = "farm cradle try what lawsuit leader force mule purpose novel erode tuition";

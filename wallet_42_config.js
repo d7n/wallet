@@ -1,1 +1,1 @@
-var mnemonic = "illegal favorite blind brief file earn among draw bid baby antique civil";
+var mnemonic = "cable elbow uncover spatial wing zebra peace nose spike bomb hamster amount";

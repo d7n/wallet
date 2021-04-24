@@ -1,1 +1,1 @@
-var mnemonic = "shed weapon balance question soft saddle sentence consider bulk drum frozen crumble";
+var mnemonic = "trial emotion cash return market swap chimney borrow claw custom flat grab";

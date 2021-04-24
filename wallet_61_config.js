@@ -1,1 +1,1 @@
-var mnemonic = "height unknown accident animal clap notable draft ladder early earth monkey buyer";
+var mnemonic = "double afford onion laugh pulse blind collect sweet chunk reduce waste timber";

@@ -1,1 +1,1 @@
-var mnemonic = "explain share assist jar enact elephant black crazy squeeze surround guide exchange";
+var mnemonic = "forward mechanic peace media afraid hat attitude vicious coil limb other grocery";

@@ -1,1 +1,1 @@
-var mnemonic = "junk vehicle drama mail since clarify odor runway slam bulb wheat thought";
+var mnemonic = "agree sight fabric wild rice tray tiny thrive picture ribbon beef layer";

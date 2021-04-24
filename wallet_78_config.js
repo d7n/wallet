@@ -1,1 +1,1 @@
-var mnemonic = "bronze exhibit object hawk tray close detect orchard birth clever helmet street";
+var mnemonic = "limb tornado reopen curve recipe divert cycle game budget vacuum visual item";

@@ -1,1 +1,1 @@
-var mnemonic = "roof idle risk typical session slot cost border soap urge access spare";
+var mnemonic = "humble rug butter sunny turtle skirt human sibling hobby street sister earth";

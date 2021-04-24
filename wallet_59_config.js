@@ -1,1 +1,1 @@
-var mnemonic = "thing palm feature celery blade crime monitor slot floor sniff forum group";
+var mnemonic = "juice select ladder deny ordinary enforce clap sport erupt rocket public water";

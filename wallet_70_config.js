@@ -1,1 +1,1 @@
-var mnemonic = "creek flight multiply reward few weekend task flight hedgehog turkey produce ketchup";
+var mnemonic = "major chapter snow legend success wood fruit dinosaur taste wedding impulse party";

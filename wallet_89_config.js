@@ -1,1 +1,1 @@
-var mnemonic = "injury tissue obtain hole sausage goddess badge pelican useful hole crowd crime";
+var mnemonic = "rigid lobster fringe crucial skate galaxy riot episode leg prefer million hen";

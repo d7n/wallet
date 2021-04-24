@@ -1,1 +1,1 @@
-var mnemonic = "afford sword end spice alarm entire leopard slide lounge unable arrive lady";
+var mnemonic = "tilt key object inhale upper notable return deliver mule pull lady since";

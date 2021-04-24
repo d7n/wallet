@@ -1,1 +1,1 @@
-var mnemonic = "hat accident boat tray please erosion post frog area thought check rally";
+var mnemonic = "artwork ahead super situate resource dial shoe burger outdoor elbow sense video";

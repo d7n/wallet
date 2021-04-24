@@ -1,1 +1,1 @@
-var mnemonic = "draw gym issue wet become feed quarter cool cargo tomato flip pattern";
+var mnemonic = "window mistake december laundry chuckle again clock afford spot bachelor arm search";

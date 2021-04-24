@@ -1,1 +1,1 @@
-var mnemonic = "rare click artwork develop clerk blur cupboard omit day vast recall cave";
+var mnemonic = "silent snack worth top master riot disease lens tool side leopard any";

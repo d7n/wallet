@@ -1,1 +1,1 @@
-var mnemonic = "loop feel best voice poverty acid wire plug acquire nature february document";
+var mnemonic = "this aunt squeeze repeat whisper bamboo scrub inherit rigid permit monster ripple";

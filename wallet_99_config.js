@@ -1,1 +1,1 @@
-var mnemonic = "payment march mom prevent matter syrup mass robot success renew side erupt";
+var mnemonic = "practice certain winter sell green region cry coin leisure lion lend brave";

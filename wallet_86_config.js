@@ -1,1 +1,1 @@
-var mnemonic = "income little hamster access pact treat ceiling blossom real arch comic cereal";
+var mnemonic = "become sand example gorilla adapt draw anger heavy happy antenna relief evidence";

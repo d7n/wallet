@@ -1,1 +1,1 @@
-var mnemonic = "dawn lemon visa grass reflect model flight live couple fade van guilt";
+var mnemonic = "cousin sport forest scorpion garage empower diet cinnamon roast school victory shrug";

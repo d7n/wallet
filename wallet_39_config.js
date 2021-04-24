@@ -1,1 +1,1 @@
-var mnemonic = "work elephant demise danger lake fatal oppose receive fresh open draft face";
+var mnemonic = "submit fall stone capable protect rich leader donkey blast develop orchard marine";

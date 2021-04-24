@@ -1,1 +1,1 @@
-var mnemonic = "defy orbit feel unknown wolf pond submit cat holiday raw blush muscle";
+var mnemonic = "length reform enforce aspect meat mesh carbon famous force review explain clutch";

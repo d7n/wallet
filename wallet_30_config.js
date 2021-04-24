@@ -1,1 +1,1 @@
-var mnemonic = "symptom winter scan aisle punch multiply winner oxygen gloom hockey twelve vessel";
+var mnemonic = "rhythm demise pear pluck task stool clip olive envelope sport security crowd";

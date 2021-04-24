@@ -1,1 +1,1 @@
-var mnemonic = "learn airport portion rail ridge skin vague scan element hero fruit evolve";
+var mnemonic = "grab home author family between act memory gain goddess hint cave congress";

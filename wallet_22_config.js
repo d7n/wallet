@@ -1,1 +1,1 @@
-var mnemonic = "job huge catalog emotion eager famous nerve quarter portion segment install safe";
+var mnemonic = "refuse account throw tumble party siege disagree romance math match genuine giant";

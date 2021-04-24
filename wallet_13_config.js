@@ -1,1 +1,1 @@
-var mnemonic = "ghost path spray echo knee comic laptop industry rail steel basic bacon";
+var mnemonic = "kiss target matter merry wrong island process believe approve aunt grow income";

@@ -1,1 +1,1 @@
-var mnemonic = "essence water margin flush test erupt comic busy rookie cupboard nice person";
+var mnemonic = "stuff useless lyrics device nature unhappy erode census check scan target verify";

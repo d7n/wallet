@@ -1,1 +1,1 @@
-var mnemonic = "require camp century habit desert depend symbol all wing eight fetch invest";
+var mnemonic = "art wire news waste awesome country merge million motion begin fix young";

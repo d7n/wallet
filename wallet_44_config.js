@@ -1,1 +1,1 @@
-var mnemonic = "child garlic maid urge wedding labor oven tail nerve craft mom drum";
+var mnemonic = "cannon excess crazy person trumpet shoe spice frame shoot symptom title equip";

@@ -1,1 +1,1 @@
-var mnemonic = "once leisure snake inquiry exist math survey walk relax possible bicycle curious";
+var mnemonic = "congress require dry athlete long car all fiscal hood casual flag first";

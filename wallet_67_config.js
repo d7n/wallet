@@ -1,1 +1,1 @@
-var mnemonic = "two core nominee screen venue wide repeat bulb cable follow left conduct";
+var mnemonic = "describe nurse stuff bargain remember keep obscure banner busy security major cotton";

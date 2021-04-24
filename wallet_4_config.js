@@ -1,1 +1,1 @@
-var mnemonic = "physical clutch enrich forward crouch hen venture glad loyal clay laugh betray";
+var mnemonic = "hamster fall twelve swift student soft stomach wife try present toilet equal";

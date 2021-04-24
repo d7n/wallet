@@ -1,1 +1,1 @@
-var mnemonic = "fatigue luxury number enter run salon bulk lend quantum travel repair member";
+var mnemonic = "iron curious shove inhale kiwi video gown spirit wish ticket return there";

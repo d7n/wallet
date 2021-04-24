@@ -1,1 +1,1 @@
-var mnemonic = "peanut next tattoo essay invite camera wave gorilla token warfare cream iron";
+var mnemonic = "where found wagon one brief chief collect staff major cabbage atom siren";

@@ -1,1 +1,1 @@
-var mnemonic = "oven under boat embark radar choose dirt spawn office swift maximum split";
+var mnemonic = "leaf magnet exchange amount clean photo fall solution hammer coach fault present";

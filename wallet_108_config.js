@@ -1,1 +1,1 @@
-var mnemonic = "capable kick that key thought skill twin van hundred regret include wheel";
+var mnemonic = "rigid change canal lounge learn turn shock among useless snap turn balcony";

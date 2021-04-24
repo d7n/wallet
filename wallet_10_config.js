@@ -1,1 +1,1 @@
-var mnemonic = "tone job remind extend truth width update elite power until benefit salt";
+var mnemonic = "rich scissors route lamp alpha post panda cheese special fish donkey crater";

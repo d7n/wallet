@@ -1,1 +1,1 @@
-var mnemonic = "physical length shoe portion unaware final keen muscle leisure object quiz talk";
+var mnemonic = "negative dance kangaroo hole when fatal priority flower judge couple debris combine";

@@ -1,1 +1,1 @@
-var mnemonic = "better inner enjoy detail fix pact palace person crash multiply buddy coconut";
+var mnemonic = "shell wash tonight approve cricket model birth gesture rent aerobic tuition various";

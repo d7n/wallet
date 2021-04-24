@@ -1,1 +1,1 @@
-var mnemonic = "fatigue donkey trap cash exhibit robust put enlist quality dinosaur apple kid";
+var mnemonic = "oblige milk bicycle permit fiscal road visit grape fortune muscle front refuse";

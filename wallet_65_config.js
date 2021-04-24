@@ -1,1 +1,1 @@
-var mnemonic = "language barrel increase arrest chapter sick shine fragile service shine caution multiply";
+var mnemonic = "crucial clap domain arrange banana nerve proud lounge midnight true drama twice";

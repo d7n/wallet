@@ -1,1 +1,1 @@
-var mnemonic = "deny kitten december choice strong enact obvious essay decrease honey job park";
+var mnemonic = "grow beach seven egg clip harsh achieve decide pizza bonus will wrap";

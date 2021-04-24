@@ -1,1 +1,1 @@
-var mnemonic = "cake frequent teach arrest possible anxiety clinic sad hip coconut light stadium";
+var mnemonic = "north property employ express boring melt reward matrix grid disagree size magic";

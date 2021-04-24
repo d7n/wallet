@@ -1,1 +1,1 @@
-var mnemonic = "boat release panel all thank picture inherit point filter rain clay truth";
+var mnemonic = "stock rely giraffe enough soldier never tank grant clean corn pear east";

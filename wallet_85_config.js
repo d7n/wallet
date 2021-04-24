@@ -1,1 +1,1 @@
-var mnemonic = "prize spot mystery dinner census century session custom divorce actress fly coffee";
+var mnemonic = "soft prefer patch avocado radio sample spoil play trip sample sock between";

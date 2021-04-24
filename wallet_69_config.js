@@ -1,1 +1,1 @@
-var mnemonic = "fiction behave amused spatial rug inner intact above sudden alter retreat true";
+var mnemonic = "number choice hello blanket million trim scene system check fox verb arm";

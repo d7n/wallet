@@ -1,1 +1,1 @@
-var mnemonic = "day ecology dinner rule blame rib worry below athlete toward ecology unveil";
+var mnemonic = "exile rain honey hello hurt milk insect much ensure disagree ketchup bulb";

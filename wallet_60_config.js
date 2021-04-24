@@ -1,1 +1,1 @@
-var mnemonic = "subject ostrich debris spice alcohol style project cruel mimic seminar bone tank";
+var mnemonic = "begin cousin approve cream sock wreck prosper patient venture resemble gauge large";

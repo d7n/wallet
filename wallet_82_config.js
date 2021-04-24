@@ -1,1 +1,1 @@
-var mnemonic = "tilt popular oval frozen gallery version abuse baby venue liquid bus dust";
+var mnemonic = "twist pet blouse dumb across photo fruit grass future divorce often chair";

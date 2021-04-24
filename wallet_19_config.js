@@ -1,1 +1,1 @@
-var mnemonic = "divorce found model delay level gallery month face yard erosion prevent canvas";
+var mnemonic = "cheap alone traffic arrest witness razor resist advice match mixed help latin";

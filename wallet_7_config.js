@@ -1,1 +1,1 @@
-var mnemonic = "emerge grass shrimp aisle lesson couch clip leader grass sweet useless dish";
+var mnemonic = "since inhale asthma cushion chef such gentle auto cotton city only fetch";

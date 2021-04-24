@@ -1,1 +1,1 @@
-var mnemonic = "tube island mammal captain tongue hawk foster clay invest flush empower seat";
+var mnemonic = "suspect phone void rapid library simple alien cereal solution sadness letter hover";

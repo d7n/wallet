@@ -1,1 +1,1 @@
-var mnemonic = "advance once search acoustic catch thought lock aerobic unveil report repair toilet";
+var mnemonic = "enhance dose upset carpet basic segment palm permit refuse shock cabin snow";

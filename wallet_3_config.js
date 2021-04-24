@@ -1,1 +1,1 @@
-var mnemonic = "use defy rule ill silent punch apple road dutch fly magic smooth";
+var mnemonic = "wealth flush trick oppose elder claw inmate dream will fold camp cheap";

@@ -1,1 +1,1 @@
-var mnemonic = "blush trap garment grid dad scare risk carpet usual soup owner novel";
+var mnemonic = "debate wire property coach series spider yard witness half earth age banner";
