@@ -1,1 +1,1 @@
-var mnemonic = "issue subject cruel someone network taxi spin proof elevator message mad invest";
+var mnemonic = "arch travel heart dizzy link december win scrap bicycle garlic stock crystal";

@@ -1,1 +1,1 @@
-var mnemonic = "reflect merit crunch stick blast mask letter math admit easy cheese cave";
+var mnemonic = "soft pledge noodle net run ignore document jelly guard permit title angry";

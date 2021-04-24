@@ -1,1 +1,1 @@
-var mnemonic = "way carpet stick able core eternal spray artist artwork badge attend common";
+var mnemonic = "poem silent birth can busy square polar sponsor citizen found manage teach";

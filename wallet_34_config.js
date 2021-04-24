@@ -1,1 +1,1 @@
-var mnemonic = "mom loop valley talk oxygen gold umbrella expire broom park bless napkin";
+var mnemonic = "flip merry genius sunset royal giant flavor limb reflect clip tumble cook";

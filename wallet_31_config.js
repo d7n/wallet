@@ -1,1 +1,1 @@
-var mnemonic = "rebel pond educate wreck pistol dawn parade today rude exercise suspect author";
+var mnemonic = "physical spell lyrics poet blade across valve series canoe begin exhibit car";

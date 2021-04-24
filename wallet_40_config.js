@@ -1,1 +1,1 @@
-var mnemonic = "blood gym rhythm forget prosper erode rose volume struggle virus judge ramp";
+var mnemonic = "pear tonight raccoon appear atom behind chalk evil palace clinic awake ritual";

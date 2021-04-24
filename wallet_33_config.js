@@ -1,1 +1,1 @@
-var mnemonic = "course pottery eagle tired addict ripple install coil weapon page popular width";
+var mnemonic = "opera shop vast loop ripple robot good oyster focus idea input little";

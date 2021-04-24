@@ -1,1 +1,1 @@
-var mnemonic = "drill image adjust envelope address dragon avoid spoil deliver forward inform spin";
+var mnemonic = "special office orient hungry drum citizen twenty battle lunch shoe power cover";

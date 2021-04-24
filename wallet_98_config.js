@@ -1,1 +1,1 @@
-var mnemonic = "excite dignity vast object carry fluid bring kitten spawn dry vicious screen";
+var mnemonic = "scan candy copy rich thrive sausage merge attitude clerk brand enhance swamp";

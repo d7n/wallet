@@ -1,1 +1,1 @@
-var mnemonic = "need flame mushroom three rural pizza jar skill mind able onion palace";
+var mnemonic = "view erase picture rude hour spy ivory primary dinner check math easily";

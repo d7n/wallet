@@ -1,1 +1,1 @@
-var mnemonic = "response network banana club omit mechanic remind cradle type nephew input industry";
+var mnemonic = "pencil body clutch picnic number dust indoor vacant camera entry rural gasp";

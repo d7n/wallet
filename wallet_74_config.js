@@ -1,1 +1,1 @@
-var mnemonic = "embark vintage unknown race hurry parade spell wish provide once faculty tornado";
+var mnemonic = "forward grace harbor opinion zero tackle fringe critic napkin cereal sphere orient";

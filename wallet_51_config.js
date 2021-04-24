@@ -1,1 +1,1 @@
-var mnemonic = "twelve grit monkey question surface report proof evolve tunnel anchor guard athlete";
+var mnemonic = "stool wife edit water east swamp praise obscure reason party image float";

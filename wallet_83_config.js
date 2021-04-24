@@ -1,1 +1,1 @@
-var mnemonic = "meat help cabbage local fluid crumble slight seminar creek bright mule pear";
+var mnemonic = "frame animal excite truly window tumble inner engage road denial junior make";

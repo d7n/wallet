@@ -1,1 +1,1 @@
-var mnemonic = "portion property reunion leave resist kiss cherry unfair vote team city tortoise";
+var mnemonic = "toast dirt soda train aisle deal culture airport gospel blouse harsh skill";

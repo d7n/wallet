@@ -1,1 +1,1 @@
-var mnemonic = "pact busy alpha visit boil clown west chat razor ring pyramid parrot";
+var mnemonic = "group impose load opinion turn mix assume follow pair oyster vault south";

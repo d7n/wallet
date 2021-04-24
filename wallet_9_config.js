@@ -1,1 +1,1 @@
-var mnemonic = "robot rebel business before shoot rigid tray sort future announce emerge degree";
+var mnemonic = "game control over pole upset crisp tongue require walnut spoon best orbit";

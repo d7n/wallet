@@ -1,1 +1,1 @@
-var mnemonic = "wheat deposit tape option best grain try vibrant bracket rail inspire cheese";
+var mnemonic = "shiver purity law make glare inquiry dust valley magic cake year scare";

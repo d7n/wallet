@@ -1,1 +1,1 @@
-var mnemonic = "involve cable dance scale predict shock fit depend mercy stamp govern indoor";
+var mnemonic = "palm fatigue friend wage brisk picture salute cake assume shoulder pyramid machine";

@@ -1,1 +1,1 @@
-var mnemonic = "pink uniform meadow final alarm turkey mammal desk rate convince drift weird";
+var mnemonic = "notice elite afford energy rate crop tenant december never general mom rather";

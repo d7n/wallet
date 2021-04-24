@@ -1,1 +1,1 @@
-var mnemonic = "ensure tomorrow calm tissue rocket else afford region chronic modify hat thank";
+var mnemonic = "bus alley remove music sun certain twelve joke shrug identify strike expire";

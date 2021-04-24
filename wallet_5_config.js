@@ -1,1 +1,1 @@
-var mnemonic = "badge march high give federal brief adult huge artefact window frame acid";
+var mnemonic = "hidden game scout valve anchor fever flee attitude easily garlic toast person";

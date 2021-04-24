@@ -1,1 +1,1 @@
-var mnemonic = "silk wise tenant save damp bus fee daring bubble powder give claw";
+var mnemonic = "decrease arrange discover symbol bind cliff earth room banana patch shoulder solid";

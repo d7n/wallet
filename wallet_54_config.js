@@ -1,1 +1,1 @@
-var mnemonic = "fancy bomb pilot avocado suffer borrow crush author jar silk grow credit";
+var mnemonic = "squeeze rigid cram hint mad cook fun obscure dash mule maximum monitor";

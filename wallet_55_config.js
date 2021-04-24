@@ -1,1 +1,1 @@
-var mnemonic = "insane mention mean region dragon drama when flush lava hard mesh oxygen";
+var mnemonic = "rude topic dad provide asset nuclear spread current cupboard mule pear issue";

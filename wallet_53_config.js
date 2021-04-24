@@ -1,1 +1,1 @@
-var mnemonic = "brick weasel try cost deal inspire series jungle calm fire rack rib";
+var mnemonic = "insane steak melt obscure illness oblige neck modify doll tone cage cancel";

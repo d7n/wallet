@@ -1,1 +1,1 @@
-var mnemonic = "click verb wine version electric chimney deer magnet blame matrix deny divorce";
+var mnemonic = "dinner bullet rib jump uncover harsh defy runway allow license fade bomb";

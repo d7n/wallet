@@ -1,1 +1,1 @@
-var mnemonic = "live frozen tunnel armor burst ask pepper wagon divorce knock drink average";
+var mnemonic = "toilet inch wine salmon borrow calm squeeze flee hollow cage seven banner";

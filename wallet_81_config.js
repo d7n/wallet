@@ -1,1 +1,1 @@
-var mnemonic = "human have shoe arctic photo roof sentence country favorite nose pudding hurdle";
+var mnemonic = "bulk bind valid brick child now mixed hurdle main popular nice burst";

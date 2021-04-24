@@ -1,1 +1,1 @@
-var mnemonic = "walk orchard snow health impulse slight tag thank resource cement execute foam";
+var mnemonic = "glove exhaust leaf pretty credit fix private lens inherit boost expand current";

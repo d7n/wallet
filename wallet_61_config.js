@@ -1,1 +1,1 @@
-var mnemonic = "demise flush harbor latin account oil sad toilet express agent door cabbage";
+var mnemonic = "thunder emerge lounge nothing square wall hero rural collect love water market";

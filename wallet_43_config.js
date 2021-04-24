@@ -1,1 +1,1 @@
-var mnemonic = "envelope hole october ride sentence wealth payment width cargo crouch rocket eyebrow";
+var mnemonic = "lesson ten believe stick cloud reunion buyer fresh until marble buffalo consider";

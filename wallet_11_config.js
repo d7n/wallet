@@ -1,1 +1,1 @@
-var mnemonic = "inch speed fold antenna dutch few boost base rhythm genre leader ready";
+var mnemonic = "eye room mix endorse goat season parade portion daughter tomato join industry";

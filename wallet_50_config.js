@@ -1,1 +1,1 @@
-var mnemonic = "genuine crush congress twin argue accuse crazy early range section parent pizza";
+var mnemonic = "fatigue plug pride jump fruit rose taste crash mouse firm scatter crucial";

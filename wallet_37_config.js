@@ -1,1 +1,1 @@
-var mnemonic = "father argue cube explain never decide sibling drop clutch apart scissors donkey";
+var mnemonic = "hat suit snap initial gift utility side earth buddy minute try throw";

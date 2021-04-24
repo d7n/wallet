@@ -1,1 +1,1 @@
-var mnemonic = "right cage axis champion love edit crop final claw able naive hybrid";
+var mnemonic = "ostrich craft obtain boss alien embrace industry picture warm invest accident neglect";

@@ -1,1 +1,1 @@
-var mnemonic = "height erase found apple axis also march abstract helmet wealth celery twelve";
+var mnemonic = "lock vessel earth stable armor goose position news very cotton liar outdoor";

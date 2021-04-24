@@ -1,1 +1,1 @@
-var mnemonic = "junk acquire galaxy pool scrap kite lecture hockey core ghost photo intact";
+var mnemonic = "heavy give favorite place drink cloth toward silk begin gorilla silly wasp";

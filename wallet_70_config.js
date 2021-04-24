@@ -1,1 +1,1 @@
-var mnemonic = "verb rice evoke taxi actress left grocery card cycle oppose boat motion";
+var mnemonic = "stadium market satisfy sister impulse pull economy fog priority attack legend evidence";

@@ -1,1 +1,1 @@
-var mnemonic = "valve typical three solve vast believe time brand ecology anchor simple explain";
+var mnemonic = "basic mammal auction lounge seminar crowd dice pave search ozone scissors student";

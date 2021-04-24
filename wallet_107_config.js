@@ -1,1 +1,1 @@
-var mnemonic = "describe glue border glory soon dilemma february news host section text swear";
+var mnemonic = "tennis blush acid mammal toe margin ranch limb hood blood legal door";

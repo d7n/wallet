@@ -1,1 +1,1 @@
-var mnemonic = "lamp awake simple spider magnet fault rotate surge twist virus nature brass";
+var mnemonic = "winner explain alarm fat level audit agree visa visa orbit buyer copper";

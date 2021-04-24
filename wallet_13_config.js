@@ -1,1 +1,1 @@
-var mnemonic = "toast net size symptom mail flight average upset someone dawn mean display";
+var mnemonic = "vocal dial false target inquiry deputy urban cruel worth dream decline tool";

@@ -1,1 +1,1 @@
-var mnemonic = "burden uphold light almost trash artist question raccoon person gain select session";
+var mnemonic = "banana piece worry initial thing gun better violin primary escape girl trash";

@@ -1,1 +1,1 @@
-var mnemonic = "finger certain list taste tube hedgehog sustain crouch image tenant achieve power";
+var mnemonic = "juice maze peace seven traffic actress reunion depth scissors patrol source raw";

@@ -1,1 +1,1 @@
-var mnemonic = "cup panther shrimp electric medal nest movie luggage radar chuckle auction drama";
+var mnemonic = "envelope weather parade sun liar fluid film fat fault impose wing great";

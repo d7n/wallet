@@ -1,1 +1,1 @@
-var mnemonic = "network own oak joy solve oval aunt tourist real exhibit draft sibling";
+var mnemonic = "empower ring pave history pistol spy liberty make happy earth state cliff";

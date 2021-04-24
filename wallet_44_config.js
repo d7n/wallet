@@ -1,1 +1,1 @@
-var mnemonic = "penalty auto stick erode enact enough middle tennis vague canal ugly smoke";
+var mnemonic = "mosquito kidney prefer immense hazard security radio until mass taxi spoon tortoise";

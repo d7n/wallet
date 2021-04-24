@@ -1,1 +1,1 @@
-var mnemonic = "return real cancel mention detect clarify before miracle slow tired bike bicycle";
+var mnemonic = "trend rib spell frown junior absurd example exile will damp secret forest";

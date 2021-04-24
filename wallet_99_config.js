@@ -1,1 +1,1 @@
-var mnemonic = "great venture demise possible pioneer what acquire predict ozone daughter fall lumber";
+var mnemonic = "improve stone gate enlist night notable grab insect pledge tank soap produce";

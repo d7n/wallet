@@ -1,1 +1,1 @@
-var mnemonic = "noodle area oval green settle wine vanish genius rough spawn later inform";
+var mnemonic = "toss fringe eyebrow enact diamond leaf universe pluck error follow much stay";

@@ -1,1 +1,1 @@
-var mnemonic = "maple sleep repeat year obtain cable rally recipe van bracket diet glare";
+var mnemonic = "cube museum hedgehog fabric intact little exclude increase ceiling empty lemon quick";

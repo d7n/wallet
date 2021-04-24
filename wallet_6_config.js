@@ -1,1 +1,1 @@
-var mnemonic = "cruel fragile maze flush column choice infant reject dumb nephew like fuel";
+var mnemonic = "kid visit eyebrow shove car deal dragon frog cherry misery swear material";

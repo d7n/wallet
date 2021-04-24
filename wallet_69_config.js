@@ -1,1 +1,1 @@
-var mnemonic = "purchase hood jaguar job own impact social rigid oval only snow team";
+var mnemonic = "powder brown leisure foster lake blast cheese toss drastic trumpet muscle false";

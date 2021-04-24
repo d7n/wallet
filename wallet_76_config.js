@@ -1,1 +1,1 @@
-var mnemonic = "all exotic belt power secret right sample original volume nasty crop cannon";
+var mnemonic = "genuine turkey jelly science accident host provide shrug settle asthma bargain buddy";

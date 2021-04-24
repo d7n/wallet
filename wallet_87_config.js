@@ -1,1 +1,1 @@
-var mnemonic = "make fish amount basket gentle major access speed pigeon fall tide short";
+var mnemonic = "offer junior depart globe dragon payment tribe draft neglect dynamic mansion chapter";

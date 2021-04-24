@@ -1,1 +1,1 @@
-var mnemonic = "remember matter expire volcano limit offer valid deny walnut dance climb patch";
+var mnemonic = "brain assist erase cash agent claw outer cigar attitude champion credit craft";

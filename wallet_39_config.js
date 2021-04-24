@@ -1,1 +1,1 @@
-var mnemonic = "slam salon multiply crazy rhythm copy habit conduct length ugly fiber slot";
+var mnemonic = "fossil legal brass excite around drastic danger field unable end ski harbor";

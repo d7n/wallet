@@ -1,1 +1,1 @@
-var mnemonic = "swear burden innocent blind fluid ability prepare arena fall hockey child depth";
+var mnemonic = "globe deny odor device opera mango claim follow enact picnic traffic off";

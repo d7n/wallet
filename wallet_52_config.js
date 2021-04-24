@@ -1,1 +1,1 @@
-var mnemonic = "foster pair pink cheap spatial history slot feed valid rain hazard seek";
+var mnemonic = "almost then theory enroll sweet pigeon dry eternal journey shaft install base";

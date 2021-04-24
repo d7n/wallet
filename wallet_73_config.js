@@ -1,1 +1,1 @@
-var mnemonic = "tape height ladder metal ranch bargain already orchard maid amused fluid oyster";
+var mnemonic = "bird rebuild stairs slice pudding tuition material cabbage castle mobile belt undo";

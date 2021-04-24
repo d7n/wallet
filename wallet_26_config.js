@@ -1,1 +1,1 @@
-var mnemonic = "abuse sound face quantum loan alter hundred define antique lend clay anger";
+var mnemonic = "increase arrow lake auto conduct shift symptom winner flavor rack nice dad";

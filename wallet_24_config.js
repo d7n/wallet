@@ -1,1 +1,1 @@
-var mnemonic = "video pepper gun mercy require scrub input moon hero patch human buffalo";
+var mnemonic = "merit clog knife draw noble riot exist illegal useful luxury pride fuel";

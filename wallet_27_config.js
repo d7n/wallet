@@ -1,1 +1,1 @@
-var mnemonic = "brave text salt luxury end empower boil hidden behind green dad town";
+var mnemonic = "upgrade diary become famous bid kit column during sock convince scare love";

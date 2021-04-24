@@ -1,1 +1,1 @@
-var mnemonic = "quit okay letter cruel rhythm diamond share scatter dog orbit column movie";
+var mnemonic = "canvas wealth proof churn approve minor snap exotic trial piano slight thrive";

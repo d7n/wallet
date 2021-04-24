@@ -1,1 +1,1 @@
-var mnemonic = "shiver coyote someone please base piano derive wood tide chimney narrow mix";
+var mnemonic = "shy animal gym brain door crucial clip donate jazz antique rally resource";

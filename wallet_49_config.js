@@ -1,1 +1,1 @@
-var mnemonic = "shrug gentle sword cluster soon truth stock worth lawsuit wasp model accuse";
+var mnemonic = "hat tool mixture above adapt monster say surge outer vague sibling blame";

@@ -1,1 +1,1 @@
-var mnemonic = "diary favorite intact hungry surface tent upgrade bundle senior near double private";
+var mnemonic = "stuff joy spare saddle mixed trade music food spend copper swap plastic";

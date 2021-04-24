@@ -1,1 +1,1 @@
-var mnemonic = "treat execute box sport immense album toward fat dolphin worry olympic opinion";
+var mnemonic = "denial shift film sniff caught mass tag cross divorce occur amazing finish";

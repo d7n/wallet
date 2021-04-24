@@ -1,1 +1,1 @@
-var mnemonic = "much pretty palace adjust raccoon output stamp crime swap scheme cousin load";
+var mnemonic = "notice slot feel clerk gravity midnight album acoustic apart ugly eye slogan";

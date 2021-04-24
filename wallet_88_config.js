@@ -1,1 +1,1 @@
-var mnemonic = "detail angle orbit path radar cloud cattle coin have whale coral couple";
+var mnemonic = "salute welcome dice family direct oyster viable auto bright plunge neglect erosion";

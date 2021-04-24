@@ -1,1 +1,1 @@
-var mnemonic = "cube trial obtain sugar post december insect wisdom wrist evidence mushroom collect";
+var mnemonic = "then edge dumb visit unique gospel ketchup aisle expand prize word series";

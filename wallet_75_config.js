@@ -1,1 +1,1 @@
-var mnemonic = "bitter empower win sport math goat piece crowd fine artist major mountain";
+var mnemonic = "gallery bachelor salt lyrics orchard maximum anger child runway draft chaos vanish";

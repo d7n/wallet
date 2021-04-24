@@ -1,1 +1,1 @@
-var mnemonic = "develop gain option engage settle number reason clutch enable apple puppy depart";
+var mnemonic = "certain green day jelly famous music easy melody track pudding jungle almost";

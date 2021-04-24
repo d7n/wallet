@@ -1,1 +1,1 @@
-var mnemonic = "amazing axis scorpion ripple across swap update always tooth town act dismiss";
+var mnemonic = "worry vast mom illness awesome eight name shop media toy tape father";

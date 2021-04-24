@@ -1,1 +1,1 @@
-var mnemonic = "hub blossom region all color drum cream rain spare kite when taste";
+var mnemonic = "emotion daring fish tourist cattle enemy staff okay estate chicken unit blush";

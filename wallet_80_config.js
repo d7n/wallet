@@ -1,1 +1,1 @@
-var mnemonic = "victory title glue bus rally bubble example december hood toy drill oven";
+var mnemonic = "lab judge cable health horse body foot oak load pride glance stamp";

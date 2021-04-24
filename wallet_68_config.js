@@ -1,1 +1,1 @@
-var mnemonic = "fruit universe elegant library script avocado depth vehicle inside noodle obscure derive";
+var mnemonic = "museum marine about session oblige choice lizard daughter garden sort battle figure";

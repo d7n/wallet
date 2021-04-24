@@ -1,1 +1,1 @@
-var mnemonic = "choice chef wood opera home away result early museum false rose reunion";
+var mnemonic = "bird tomorrow return barely observe sock say pulse chunk amount chicken upper";

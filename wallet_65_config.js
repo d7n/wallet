@@ -1,1 +1,1 @@
-var mnemonic = "earth miracle crime extra region act fault country cattle stone alpha strong";
+var mnemonic = "junk warfare inhale neither sample brick alarm elite marine tank foster artist";

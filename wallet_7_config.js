@@ -1,1 +1,1 @@
-var mnemonic = "burst monkey aspect bright advice gauge pelican museum access release divide display";
+var mnemonic = "cactus dance flush extend live flight grace pen town gun evidence able";
