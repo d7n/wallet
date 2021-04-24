@@ -1,1 +1,1 @@
-var mnemonic = "bench hard offer traffic hurry resemble since material okay random undo vehicle";
+var mnemonic = "food trap insane lion error scheme note stumble erase eight divorce equal";

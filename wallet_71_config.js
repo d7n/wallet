@@ -1,1 +1,1 @@
-var mnemonic = "pool material barely remain direct rookie attend state blouse resist mixture side";
+var mnemonic = "zero clog engine lady thrive yellow spin memory swing wheat key gain";

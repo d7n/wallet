@@ -1,1 +1,1 @@
-var mnemonic = "wrestle buddy field wrist sunny obey genre diary keen satoshi payment beef";
+var mnemonic = "pair universe spy save leaf grab exclude sentence struggle kidney fence jazz";

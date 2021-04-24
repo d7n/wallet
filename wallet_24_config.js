@@ -1,1 +1,1 @@
-var mnemonic = "dumb memory risk scissors window country stereo jump elder tenant cruel nasty";
+var mnemonic = "orange immense scrub primary tissue leader all stay trade myself hover toast";

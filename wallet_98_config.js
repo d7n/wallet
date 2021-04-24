@@ -1,1 +1,1 @@
-var mnemonic = "life vendor before weapon right simple tornado pave fog curve entry body";
+var mnemonic = "liar quarter bulb theme happy utility silver antenna disease cement sentence rescue";

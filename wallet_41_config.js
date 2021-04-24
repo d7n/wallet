@@ -1,1 +1,1 @@
-var mnemonic = "cycle ensure nominee must industry armed piano curve immense expose day stereo";
+var mnemonic = "better device absorb strategy they clap heavy sheriff token bracket panda cloud";

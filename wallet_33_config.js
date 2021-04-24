@@ -1,1 +1,1 @@
-var mnemonic = "keen record lounge decrease model renew title volume safe spin network whisper";
+var mnemonic = "replace pulse oval sausage erase assume escape mixture put festival bomb ancient";

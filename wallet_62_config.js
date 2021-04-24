@@ -1,1 +1,1 @@
-var mnemonic = "antique stable unable celery rival sentence brick rent energy client letter find";
+var mnemonic = "galaxy young ensure thought pole upper margin secret love pitch moon curious";

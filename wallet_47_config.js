@@ -1,1 +1,1 @@
-var mnemonic = "swap moral series luggage settle arrest pluck cram scatter color same blade";
+var mnemonic = "fiber give hover control sick energy faculty pilot phrase scatter follow battle";

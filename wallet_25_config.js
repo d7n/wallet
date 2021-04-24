@@ -1,1 +1,1 @@
-var mnemonic = "fire tuna snack bonus legal puzzle member add wonder private stumble weekend";
+var mnemonic = "orbit marble tool labor they soldier swift math thought stuff spring funny";

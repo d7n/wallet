@@ -1,1 +1,1 @@
-var mnemonic = "shadow isolate devote wood success patient mask pitch bacon indoor quarter cluster";
+var mnemonic = "uphold until kiss want pluck forward project gravity stairs benefit brain busy";

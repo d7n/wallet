@@ -1,1 +1,1 @@
-var mnemonic = "gorilla garlic link giant garage ostrich wedding limit senior service envelope click";
+var mnemonic = "bronze limit another impose anger hawk grace bring flip middle salute horror";

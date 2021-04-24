@@ -1,1 +1,1 @@
-var mnemonic = "cat test buddy put pioneer drill nephew random choice mail season alert";
+var mnemonic = "blur dance order diamond search middle group flower kiwi exist near employ";

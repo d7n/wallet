@@ -1,1 +1,1 @@
-var mnemonic = "vault art erase hill zebra equip bubble daring middle prize base crystal";
+var mnemonic = "veteran stock turtle occur glass anchor wise acid scene team fat couple";

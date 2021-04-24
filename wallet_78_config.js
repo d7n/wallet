@@ -1,1 +1,1 @@
-var mnemonic = "main pole trumpet joke uniform ladder fruit aspect blood club similar uncle";
+var mnemonic = "volume okay digital embody still brand lens bar body memory weather mystery";

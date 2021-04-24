@@ -1,1 +1,1 @@
-var mnemonic = "machine cactus tank anchor sport hedgehog twist dice square injury rude stick";
+var mnemonic = "matrix network marine urban fire brisk donor favorite frozen blur federal dog";

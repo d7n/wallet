@@ -1,1 +1,1 @@
-var mnemonic = "ask guilt goose thumb math lamp detail among slogan cigar blossom lawn";
+var mnemonic = "melt ski hedgehog used adapt hip fragile amused token measure path second";

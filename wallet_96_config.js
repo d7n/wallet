@@ -1,1 +1,1 @@
-var mnemonic = "enforce armed ecology category divorce kite night deny business slight casual endless";
+var mnemonic = "dragon occur garden radio human elevator theme attract train wild prevent penalty";

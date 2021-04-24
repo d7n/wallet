@@ -1,1 +1,1 @@
-var mnemonic = "large this congress own all flag anchor pigeon lobster invest lonely crawl";
+var mnemonic = "question beach air mean sign tide guess pair try push cage nerve";

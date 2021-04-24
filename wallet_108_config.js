@@ -1,1 +1,1 @@
-var mnemonic = "safe pet bronze whisper buyer else tail patient cabbage canal potato predict";
+var mnemonic = "future radar canoe recycle add okay check gallery fix toy disagree plastic";

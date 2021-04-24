@@ -1,1 +1,1 @@
-var mnemonic = "nothing color scorpion taste muffin gentle nuclear modify gasp news supply program";
+var mnemonic = "episode shaft coconut fork cradle expose witness license usual under wrist radio";

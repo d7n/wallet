@@ -1,1 +1,1 @@
-var mnemonic = "jazz follow loop this flee jungle inject exchange grocery zone used badge";
+var mnemonic = "outer pretty fossil palace tooth ostrich sunny reunion become lonely veteran fashion";

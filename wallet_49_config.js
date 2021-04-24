@@ -1,1 +1,1 @@
-var mnemonic = "round craft across squeeze immune under hole assist opinion upon solve pig";
+var mnemonic = "dentist scout movie poem mushroom imitate matter panic diary outer shell cabin";

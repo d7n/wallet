@@ -1,1 +1,1 @@
-var mnemonic = "crunch visit fork humor million when heart answer project jelly base cheap";
+var mnemonic = "trust extra wine agent vital huge art silly juice october normal piece";

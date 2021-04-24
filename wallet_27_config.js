@@ -1,1 +1,1 @@
-var mnemonic = "build craft tide choose repeat since crush essay kidney pyramid actress garbage";
+var mnemonic = "brief little save mirror dizzy truly bachelor elite cloth wagon arrange high";

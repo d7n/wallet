@@ -1,1 +1,1 @@
-var mnemonic = "bulb volume problem lend defy tray until embark never artist soul lecture";
+var mnemonic = "start kit net south indoor cliff crack fine print deliver aware gather";

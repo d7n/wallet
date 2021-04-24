@@ -1,1 +1,1 @@
-var mnemonic = "month movie push discover build average horror power kingdom differ grit auction";
+var mnemonic = "erosion candy ice rotate diagram desert dish record exact travel arrange tip";

@@ -1,1 +1,1 @@
-var mnemonic = "horror shoulder noise attack citizen found above monster hazard quiz keep aspect";
+var mnemonic = "foil trophy hobby nut cry maple offer corn stereo cabbage evil notable";

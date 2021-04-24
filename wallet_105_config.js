@@ -1,1 +1,1 @@
-var mnemonic = "icon story melody apology tube among fun arrange hill human robot below";
+var mnemonic = "derive fog health apart indoor exclude deny parent save total focus lawn";

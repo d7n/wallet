@@ -1,1 +1,1 @@
-var mnemonic = "web unable math egg sea vault deputy bike stone culture tuition response";
+var mnemonic = "small menu kid dinosaur bottom copper elite lake firm plate myth prison";

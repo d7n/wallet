@@ -1,1 +1,1 @@
-var mnemonic = "harvest avoid put kiss desk galaxy ribbon chief eagle mushroom speed first";
+var mnemonic = "cargo leg cinnamon confirm deny amount devote detect wood lecture earth robust";

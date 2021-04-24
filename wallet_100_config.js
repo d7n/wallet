@@ -1,1 +1,1 @@
-var mnemonic = "load bus prepare service trash imitate tray isolate fuel mother must fade";
+var mnemonic = "attract adjust identify phone month piece habit fee spread pilot hour ramp";

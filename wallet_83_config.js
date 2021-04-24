@@ -1,1 +1,1 @@
-var mnemonic = "book claim shoot whip grape sudden diet firm tag fossil cake will";
+var mnemonic = "hotel pelican tool conduct output stumble acoustic mechanic smart blast soft jelly";

@@ -1,1 +1,1 @@
-var mnemonic = "gossip aware cross gain differ liar arch nice shift sample couch silent";
+var mnemonic = "best teach festival correct swim kiss spoil cheese young have govern journey";

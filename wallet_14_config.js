@@ -1,1 +1,1 @@
-var mnemonic = "brown rally involve once season match poem real unable endless great road";
+var mnemonic = "shoulder pass small sad property monster explain liberty torch finish again visa";

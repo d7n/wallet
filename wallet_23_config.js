@@ -1,1 +1,1 @@
-var mnemonic = "adjust fame crime cage base doctor orient omit august prize cup shiver";
+var mnemonic = "drink curve shop thing first embrace index creek pilot entry wrap devote";

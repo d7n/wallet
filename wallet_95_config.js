@@ -1,1 +1,1 @@
-var mnemonic = "quote alcohol caution soccer match response check toy credit mammal violin fantasy";
+var mnemonic = "matrix fresh private wisdom use either rabbit barrel throw result apple rhythm";

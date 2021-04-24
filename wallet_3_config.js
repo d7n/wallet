@@ -1,1 +1,1 @@
-var mnemonic = "blue judge smile sphere visit interest flower urge dwarf box hope secret";
+var mnemonic = "news topple someone potato about tired cart magnet wall device space scale";

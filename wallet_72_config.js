@@ -1,1 +1,1 @@
-var mnemonic = "trash leopard life economy faculty federal lyrics grace assist size produce quit";
+var mnemonic = "oxygen voyage skate tragic crash nasty search often where labor solve kingdom";

@@ -1,1 +1,1 @@
-var mnemonic = "gap dog visa guard stay reduce blossom artwork flag rabbit elite ability";
+var mnemonic = "labor roast excite mechanic thrive club enact left crystal ensure crucial velvet";

@@ -1,1 +1,1 @@
-var mnemonic = "wedding universe motor combine sleep novel room dose blind marine certain perfect";
+var mnemonic = "maid insect reason ecology guard apology culture casual stairs earth green peace";

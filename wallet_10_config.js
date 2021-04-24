@@ -1,1 +1,1 @@
-var mnemonic = "later gun ball alone stem funny fabric shallow similar sadness sibling forest";
+var mnemonic = "prison pact destroy atom arm furnace execute material tip matter indoor property";

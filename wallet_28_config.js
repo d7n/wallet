@@ -1,1 +1,1 @@
-var mnemonic = "ocean trust powder uncle mobile muffin face excess mixed pair coin eye";
+var mnemonic = "awesome history marine arena soccer expose resemble final wink traffic permit rich";

@@ -1,1 +1,1 @@
-var mnemonic = "domain lock system domain primary family curtain road blue bicycle kitchen carry";
+var mnemonic = "code biology act finish pencil vibrant valley zero bind judge sport rich";

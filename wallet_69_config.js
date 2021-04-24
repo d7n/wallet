@@ -1,1 +1,1 @@
-var mnemonic = "click mansion act era benefit inject knee faint story city mind ranch";
+var mnemonic = "calm bomb damage cheese crumble dwarf copy peanut split sphere used protect";

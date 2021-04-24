@@ -1,1 +1,1 @@
-var mnemonic = "shrimp dress cook curve error anxiety monitor unique cat clock broken juice";
+var mnemonic = "live bunker nose decide valve glide toddler truly surprise rapid priority erode";

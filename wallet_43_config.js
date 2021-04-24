@@ -1,1 +1,1 @@
-var mnemonic = "absurd kick sing naive century minor ramp chase act gasp lawsuit file";
+var mnemonic = "inhale raccoon wink rain artwork cattle asset soap room talk honey east";

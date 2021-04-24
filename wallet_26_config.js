@@ -1,1 +1,1 @@
-var mnemonic = "advance honey exercise female strike fit crew shift pulp phrase shrimp toward";
+var mnemonic = "build grain citizen craft wood energy excess vendor employ scene barely crucial";

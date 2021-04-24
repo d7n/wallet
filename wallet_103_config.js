@@ -1,1 +1,1 @@
-var mnemonic = "pass alien army essence system hard tide sauce bullet analyst victory possible";
+var mnemonic = "call direct custom rate biology height record punch impulse sleep raccoon put";

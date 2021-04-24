@@ -1,1 +1,1 @@
-var mnemonic = "fix volume pair loop property music carry update margin canyon solar style";
+var mnemonic = "inspire wolf hold choice drip enlist dolphin mistake convince setup bench saddle";

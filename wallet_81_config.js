@@ -1,1 +1,1 @@
-var mnemonic = "ticket mesh visit neglect coconut convince custom stumble napkin ecology document inform";
+var mnemonic = "diagram fee private dice duty ethics banana over can speak notice hub";

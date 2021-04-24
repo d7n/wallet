@@ -1,1 +1,1 @@
-var mnemonic = "divorce primary warm tunnel they coin travel range interest satoshi ancient lens";
+var mnemonic = "fix manual pull obey stomach method example renew junior know vicious zoo";

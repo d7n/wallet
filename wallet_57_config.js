@@ -1,1 +1,1 @@
-var mnemonic = "father square monster garden duck conduct napkin poet expire during seek banana";
+var mnemonic = "hip pool army pipe weather glide rib bulb code twice foot protect";

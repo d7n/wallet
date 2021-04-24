@@ -1,1 +1,1 @@
-var mnemonic = "decorate thrive picture guide scorpion move select marine anchor refuse price wire";
+var mnemonic = "catalog current inner lemon cabin denial ivory web typical mask gorilla insect";

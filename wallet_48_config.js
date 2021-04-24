@@ -1,1 +1,1 @@
-var mnemonic = "what shine alone labor sport hollow please leg chuckle voyage february hope";
+var mnemonic = "spoon hybrid quiz elephant knee tent blind gun utility runway dog render";

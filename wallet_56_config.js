@@ -1,1 +1,1 @@
-var mnemonic = "gasp wife typical album trigger climb tomato tuna sniff badge athlete vehicle";
+var mnemonic = "country immune auction coach drip actress bind square pave ability index act";

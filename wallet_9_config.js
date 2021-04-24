@@ -1,1 +1,1 @@
-var mnemonic = "practice rug boat burger once meat poem first total witness budget buyer";
+var mnemonic = "zone worry unfold arm thank crisp chapter industry leisure ramp spy lottery";

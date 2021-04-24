@@ -1,1 +1,1 @@
-var mnemonic = "case hunt lend hour mule oxygen guitar burden develop vital wish frog";
+var mnemonic = "hero guard festival aim dance thing glue water quote target clay carry";

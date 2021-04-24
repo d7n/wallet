@@ -1,1 +1,1 @@
-var mnemonic = "common luggage staff horror street theme tilt drill bounce install left height";
+var mnemonic = "predict off feed huge cycle naive valley wide poem volume calm curious";

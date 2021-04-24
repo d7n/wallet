@@ -1,1 +1,1 @@
-var mnemonic = "profit essence arena ignore quit awkward camp salad smoke nuclear very gossip";
+var mnemonic = "identify impulse minor just panther dolphin funny fire sand cement pole stereo";

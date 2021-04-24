@@ -1,1 +1,1 @@
-var mnemonic = "ice flame bless obey spoil pave submit climb lucky program eager candy";
+var mnemonic = "perfect finger stable search worry add oil hotel truly rabbit cram vapor";

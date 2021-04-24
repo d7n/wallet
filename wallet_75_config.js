@@ -1,1 +1,1 @@
-var mnemonic = "trigger subject praise decide bid open ignore rubber patch athlete lounge enable";
+var mnemonic = "clay fatal knife detect brass behave insane print vehicle boost wrong foster";

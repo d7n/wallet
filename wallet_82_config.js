@@ -1,1 +1,1 @@
-var mnemonic = "trigger theme seek hurt surface wealth fluid start kite number merry equip";
+var mnemonic = "cream ketchup balcony tank width ordinary hedgehog adjust ill display argue that";

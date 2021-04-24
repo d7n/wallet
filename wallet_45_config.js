@@ -1,1 +1,1 @@
-var mnemonic = "paddle clean flock predict carbon gate salmon warm believe arctic winner emerge";
+var mnemonic = "effort crowd often enhance rack piano gentle slam apple beach twin need";

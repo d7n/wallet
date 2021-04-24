@@ -1,1 +1,1 @@
-var mnemonic = "syrup sadness want provide glimpse kiss famous taste month injury ritual volume";
+var mnemonic = "fragile select unusual pony eagle giggle glory affair other citizen dad rapid";

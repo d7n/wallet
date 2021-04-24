@@ -1,1 +1,1 @@
-var mnemonic = "flower half ghost curious oxygen salute iron victory three battle patch focus";
+var mnemonic = "settle history adjust copy addict wait candy cactus dial provide attract sample";

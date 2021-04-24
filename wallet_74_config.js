@@ -1,1 +1,1 @@
-var mnemonic = "impact public lawn silly network allow van verb tiny allow sudden course";
+var mnemonic = "fluid flush sun abstract shy round extend spoil primary crazy mystery proud";

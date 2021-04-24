@@ -1,1 +1,1 @@
-var mnemonic = "miss eagle clarify ritual duck vessel argue hollow bean toddler tank test";
+var mnemonic = "wife odor repeat stool hub surprise crucial matrix palm identify forum praise";

@@ -1,1 +1,1 @@
-var mnemonic = "room invest flavor orbit vapor emotion december rookie slogan bottom clarify orchard";
+var mnemonic = "enact dignity wait name father design chalk chaos stove next blame bundle";

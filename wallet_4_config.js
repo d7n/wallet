@@ -1,1 +1,1 @@
-var mnemonic = "amazing still rescue topple doll draft color sunset defense whisper say hold";
+var mnemonic = "noise jewel gym warfare wedding enough mechanic mystery laptop crime camp slight";

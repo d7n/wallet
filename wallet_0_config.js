@@ -1,1 +1,1 @@
-var mnemonic = "gate toast pass upset impulse supreme crime length love voyage calm design";
+var mnemonic = "eagle file cook depart core swing moon segment garage call ride beef";

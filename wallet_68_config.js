@@ -1,1 +1,1 @@
-var mnemonic = "balcony toss write upon lottery boil shock arrive body thank barely fame";
+var mnemonic = "picnic someone confirm news relief barrel hidden door muffin energy busy oxygen";

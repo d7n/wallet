@@ -1,1 +1,1 @@
-var mnemonic = "shield strong liberty cradle employ gesture favorite diet ensure win athlete window";
+var mnemonic = "inflict solution improve blur loan local pact make save buyer laugh wealth";

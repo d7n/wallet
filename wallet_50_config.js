@@ -1,1 +1,1 @@
-var mnemonic = "jelly tiny south resemble pulse swallow favorite chaos edge collect juice vacuum";
+var mnemonic = "nominee almost lawsuit evolve speed phrase uphold slush human daughter slab biology";

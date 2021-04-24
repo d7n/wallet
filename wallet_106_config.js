@@ -1,1 +1,1 @@
-var mnemonic = "call night reunion marine like pitch arrive invest tumble annual section slush";
+var mnemonic = "solar swim fiber flush foster bubble together rabbit clerk frame skill track";

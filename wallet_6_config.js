@@ -1,1 +1,1 @@
-var mnemonic = "kitchen unknown comic expect bamboo desert then uncover hamster jealous hockey upgrade";
+var mnemonic = "sniff kiss quiz impulse become salmon know scatter join boy brain brave";

@@ -1,1 +1,1 @@
-var mnemonic = "diary bamboo gentle sweet what crime okay convince nurse menu decline wealth";
+var mnemonic = "danger art hollow chief hint asthma lawn puzzle gaze enter finger race";

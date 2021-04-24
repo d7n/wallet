@@ -1,1 +1,1 @@
-var mnemonic = "sausage obey lady warfare round rate diesel average canoe leave suggest bonus";
+var mnemonic = "agent school mercy cross around honey spring owner stomach dismiss slab glass";

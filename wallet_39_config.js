@@ -1,1 +1,1 @@
-var mnemonic = "label bounce spare guide toddler patient trigger series inmate adapt bread ball";
+var mnemonic = "oil garage curve shell broom shell trip praise pudding chef exotic illness";

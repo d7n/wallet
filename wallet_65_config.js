@@ -1,1 +1,1 @@
-var mnemonic = "attract before happy hybrid rural hire arctic select uphold attitude old dwarf";
+var mnemonic = "dash faculty work round word youth summer island more confirm oven process";

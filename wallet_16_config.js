@@ -1,1 +1,1 @@
-var mnemonic = "corn smart diagram season access run denial alpha private tornado margin river";
+var mnemonic = "finish debris heavy pelican gain spatial visual winter jazz slight pretty snap";

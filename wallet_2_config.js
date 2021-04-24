@@ -1,1 +1,1 @@
-var mnemonic = "enough leopard scare wild garment crystal inherit tube know shop boss thrive";
+var mnemonic = "cage open hollow tattoo width wing sample cluster become fold slab ethics";

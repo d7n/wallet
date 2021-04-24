@@ -1,1 +1,1 @@
-var mnemonic = "panda language weekend raw wealth guide busy drill bamboo volume extra wild";
+var mnemonic = "thing begin favorite monster weird matrix stomach aunt patch helmet grid try";

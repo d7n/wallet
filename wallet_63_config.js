@@ -1,1 +1,1 @@
-var mnemonic = "rubber cruise adjust device ancient control illness salmon friend mimic boil amused";
+var mnemonic = "arrest collect child helmet increase begin shadow hand pair edge any lobster";

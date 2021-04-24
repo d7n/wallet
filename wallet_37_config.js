@@ -1,1 +1,1 @@
-var mnemonic = "around vanish holiday attitude basket mixed myth later lumber fat rose mail";
+var mnemonic = "crime antique card tell demand mutual discover battle shiver universe wall blind";

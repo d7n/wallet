@@ -1,1 +1,1 @@
-var mnemonic = "decline observe wealth crater zone violin parrot announce movie canoe smart twin";
+var mnemonic = "vital wave common denial iron oxygen salad forget banana pelican congress boil";

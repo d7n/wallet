@@ -1,1 +1,1 @@
-var mnemonic = "mechanic fish history south fan moon just sense device riot now orbit";
+var mnemonic = "delay celery donate blue trust because car minimum wheel dutch pride sleep";

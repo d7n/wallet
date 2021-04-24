@@ -1,1 +1,1 @@
-var mnemonic = "engine admit faith true orient release gaze mobile improve syrup globe credit";
+var mnemonic = "salad rose grain shop loop anchor awful involve income honey brave erosion";

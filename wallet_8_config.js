@@ -1,1 +1,1 @@
-var mnemonic = "wasp public session dad shield scale draw nothing hybrid hub water earth";
+var mnemonic = "sound roof tower forward work child quiz chronic sheriff motor drill inflict";

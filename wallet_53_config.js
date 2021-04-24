@@ -1,1 +1,1 @@
-var mnemonic = "program peasant tank reveal card equal case badge inside curious chicken sunset";
+var mnemonic = "gun concert wisdom genius hurt wrong asthma pull tray inquiry love exist";

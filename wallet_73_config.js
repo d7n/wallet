@@ -1,1 +1,1 @@
-var mnemonic = "zebra idle island cover print clap split method elbow visit number stomach";
+var mnemonic = "armed depart key control borrow enforce hurry harsh one unusual until jungle";

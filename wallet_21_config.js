@@ -1,1 +1,1 @@
-var mnemonic = "pool kitten magnet fade fun air position shaft saddle bone axis wish";
+var mnemonic = "convince cat glide wash alone cake galaxy avoid wrist rice argue boat";

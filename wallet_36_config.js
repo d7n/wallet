@@ -1,1 +1,1 @@
-var mnemonic = "ivory sweet all dawn position stadium daughter base neck resource lunar leopard";
+var mnemonic = "crawl piece timber age audit stumble one twice enjoy sad keep more";
