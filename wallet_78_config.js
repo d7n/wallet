@@ -1,1 +1,1 @@
-var mnemonic = "domain ill feed predict ordinary ethics account asthma leaf employ polar call";
+var mnemonic = "toy note bird gold bitter weapon yard dice girl struggle lend soda";

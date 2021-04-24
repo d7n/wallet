@@ -1,1 +1,1 @@
-var mnemonic = "execute hunt swamp dose drop canoe swap jazz victory ladder hockey bacon";
+var mnemonic = "wreck gown taxi cage twice material loan leader power three fence endorse";

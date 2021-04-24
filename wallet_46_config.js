@@ -1,1 +1,1 @@
-var mnemonic = "extend fiction begin urge cinnamon kick state curve water usual face quote";
+var mnemonic = "hold surge rate lady pony cigar nose soap gasp merry giant once";

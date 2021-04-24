@@ -1,1 +1,1 @@
-var mnemonic = "order volcano unknown buzz evolve shiver mule present pelican edge manage throw";
+var mnemonic = "actual hire desert music valve body crucial audit cotton solar pumpkin awesome";

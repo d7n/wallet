@@ -1,1 +1,1 @@
-var mnemonic = "noodle proud buyer cloud that alcohol around artist little scare match monster";
+var mnemonic = "belt copper wasp search asset become devote clay jelly pizza access impulse";

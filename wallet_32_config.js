@@ -1,1 +1,1 @@
-var mnemonic = "truth mad method beef crop logic shadow raccoon spread audit connect inject";
+var mnemonic = "ginger defy category shell father oyster pear trim always enter task become";

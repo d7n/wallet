@@ -1,1 +1,1 @@
-var mnemonic = "allow polar battle upper country detect silver issue other system remind goat";
+var mnemonic = "whisper jazz case tribe range mad envelope work lens maid ten swarm";

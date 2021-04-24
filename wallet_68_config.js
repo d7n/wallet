@@ -1,1 +1,1 @@
-var mnemonic = "because make leave process cube shove climb word fault acoustic carbon dial";
+var mnemonic = "silver harbor invest cluster quote chunk slam senior demise exercise tiny blush";

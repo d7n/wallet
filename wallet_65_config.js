@@ -1,1 +1,1 @@
-var mnemonic = "rookie control jelly example scale tilt armor expand drop maximum cat list";
+var mnemonic = "pelican snack inquiry caught winner chaos wheel silk expand slush insect scale";

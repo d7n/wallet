@@ -1,1 +1,1 @@
-var mnemonic = "ill veteran shell jazz divorce feature web alter hole sea faint select";
+var mnemonic = "same uncle bargain knife midnight price machine scan jewel situate pave pistol";

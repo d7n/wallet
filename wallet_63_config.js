@@ -1,1 +1,1 @@
-var mnemonic = "grow enrich monster price crop march wool nurse planet wheel embrace plunge";
+var mnemonic = "like bag merry defense bunker common rhythm shop arrest surprise eagle mom";

@@ -1,1 +1,1 @@
-var mnemonic = "control movie hedgehog warm believe pledge swim dragon exercise pottery unhappy wild";
+var mnemonic = "boring kitchen robust total fire purity potato wedding express atom world dirt";

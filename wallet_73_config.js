@@ -1,1 +1,1 @@
-var mnemonic = "fresh burger van reason source artwork calm visual refuse often mask adjust";
+var mnemonic = "whisper wife medal filter hurdle summer float attitude rival soft pause coral";

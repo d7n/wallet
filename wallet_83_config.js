@@ -1,1 +1,1 @@
-var mnemonic = "inspire cram alien unaware manage develop oxygen problem fantasy timber palm panther";
+var mnemonic = "still drill term major clerk dentist extra cement exile brief focus will";

@@ -1,1 +1,1 @@
-var mnemonic = "return risk forget pumpkin all hello work resist judge broken okay novel";
+var mnemonic = "tree unaware charge element flavor tackle cycle virus pottery subway win ozone";

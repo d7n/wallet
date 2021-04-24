@@ -1,1 +1,1 @@
-var mnemonic = "awesome knock apology swim spread keen thumb wage dutch heavy tube bicycle";
+var mnemonic = "struggle erosion asset beauty merry deliver notable pact obscure eye kangaroo judge";

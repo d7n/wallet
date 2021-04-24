@@ -1,1 +1,1 @@
-var mnemonic = "acoustic charge outdoor spice clog badge cattle cake blade pony task iron";
+var mnemonic = "want adapt result life cloth above liar ketchup worry hamster wrong adult";

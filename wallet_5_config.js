@@ -1,1 +1,1 @@
-var mnemonic = "half debris fall stay decline often fury stomach resist rare surprise collect";
+var mnemonic = "empty chef goose air glide budget climb venue lounge gym sunny lawn";

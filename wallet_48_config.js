@@ -1,1 +1,1 @@
-var mnemonic = "wish similar canvas twin hire light hat bicycle cliff square quote chef";
+var mnemonic = "unable wrap damp table obvious still hen promote purse saddle unknown glare";

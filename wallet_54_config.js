@@ -1,1 +1,1 @@
-var mnemonic = "celery autumn jazz category fatal luxury gaze mask ordinary once october process";
+var mnemonic = "truly organ family child pizza duty blossom flock treat near reveal anger";

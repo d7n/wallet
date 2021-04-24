@@ -1,1 +1,1 @@
-var mnemonic = "approve utility crane will nuclear angry pattern stereo burst borrow brick daring";
+var mnemonic = "abstract grape fee display famous rigid cave guard essay calm soul sunset";

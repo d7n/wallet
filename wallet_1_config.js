@@ -1,1 +1,1 @@
-var mnemonic = "concert inflict despair card cigar similar torch thumb wool flee cram worth";
+var mnemonic = "cherry judge medal divorce post tumble athlete detect name hundred rate spin";

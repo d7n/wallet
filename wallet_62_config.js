@@ -1,1 +1,1 @@
-var mnemonic = "behind spend just twice hole push fetch abstract joy real casual size";
+var mnemonic = "accident fatal frozen own fork paddle disagree edit core bonus pull build";

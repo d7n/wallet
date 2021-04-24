@@ -1,1 +1,1 @@
-var mnemonic = "fan curious symbol genuine radar equip yard enforce genius syrup siren cliff";
+var mnemonic = "inflict abuse spread list safe recall dress panel width reunion shed slight";

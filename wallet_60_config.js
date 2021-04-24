@@ -1,1 +1,1 @@
-var mnemonic = "seat cruise around canoe kangaroo bundle mandate letter pen decrease dash topic";
+var mnemonic = "tattoo situate today sell combine alarm kind actress deny crazy elder arrest";

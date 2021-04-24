@@ -1,1 +1,1 @@
-var mnemonic = "cable idea armed pass genre advice shove sense device buffalo spawn rice";
+var mnemonic = "cruise butter critic convince clock slush derive dove blur food mask caution";

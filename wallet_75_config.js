@@ -1,1 +1,1 @@
-var mnemonic = "dilemma kitten pond afraid transfer sauce cricket blur evidence satisfy cattle forget";
+var mnemonic = "dinner vocal flip arrow flush curve find saddle doll fog dad ecology";

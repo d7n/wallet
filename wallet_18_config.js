@@ -1,1 +1,1 @@
-var mnemonic = "various guide gesture mandate arch purchase negative glare cage link cart air";
+var mnemonic = "jelly menu involve under keen carbon tell hero raw doctor retire eternal";

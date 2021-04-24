@@ -1,1 +1,1 @@
-var mnemonic = "age health stable owner undo letter route issue friend embody ten hurdle";
+var mnemonic = "emotion question step robot museum pulse empty divorce expose jump thing pattern";

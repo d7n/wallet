@@ -1,1 +1,1 @@
-var mnemonic = "middle brain radio stock gate wool unusual method pear stage include decade";
+var mnemonic = "region dress maze cute spare transfer divide tongue flower knock mango source";

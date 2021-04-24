@@ -1,1 +1,1 @@
-var mnemonic = "hill boring price differ pepper check grant scrub ring patch tunnel repair";
+var mnemonic = "result anger panel net crisp mule dragon popular universe stable bone maid";

@@ -1,1 +1,1 @@
-var mnemonic = "item wheel insane kick sun mass error smart census course fly base";
+var mnemonic = "link model remain service lift seed gasp entry verify alpha unknown liquid";

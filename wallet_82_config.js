@@ -1,1 +1,1 @@
-var mnemonic = "tooth head green faculty start because bronze ski sure trim inject ability";
+var mnemonic = "special trigger debate burden noise course festival puppy dirt mystery all unique";

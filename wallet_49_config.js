@@ -1,1 +1,1 @@
-var mnemonic = "ticket issue jungle used theory monitor bonus blouse exit trial hard myself";
+var mnemonic = "magic awesome liquid taste snack cousin month alone assault observe oppose zone";

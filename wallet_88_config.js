@@ -1,1 +1,1 @@
-var mnemonic = "noble interest hire vanish gaze vocal deputy mushroom decorate hire tenant crew";
+var mnemonic = "champion cause kick milk long payment alter riot raven enrich genuine august";

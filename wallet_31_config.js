@@ -1,1 +1,1 @@
-var mnemonic = "repair raccoon eternal quarter dust parrot cost average table slim poet wide";
+var mnemonic = "fuel picture kangaroo matter grid monitor middle cluster light deputy elbow gather";

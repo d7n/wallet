@@ -1,1 +1,1 @@
-var mnemonic = "river load response color combine ostrich remove excuse hand pet happy organ";
+var mnemonic = "couple dress material tell train table angry clerk toddler uncover pen wage";

@@ -1,1 +1,1 @@
-var mnemonic = "evoke live resemble catch tiny canoe draw scene number current special know";
+var mnemonic = "dice tilt guard book pumpkin brother assist mass stool anxiety fat account";

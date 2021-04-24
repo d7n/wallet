@@ -1,1 +1,1 @@
-var mnemonic = "behind tunnel business police buddy blast town tired critic atom penalty apple";
+var mnemonic = "humor farm action intact opinion agent motion pupil cry fly squeeze lazy";

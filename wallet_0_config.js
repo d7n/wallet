@@ -1,1 +1,1 @@
-var mnemonic = "sea obvious reduce script subject unique false pizza during dawn size abandon";
+var mnemonic = "total matter main treat ski soldier diesel near discover parrot unfold leader";

@@ -1,1 +1,1 @@
-var mnemonic = "flower pitch box man claim color sense tide guard primary high between";
+var mnemonic = "bike repeat carbon crawl jeans smoke catch globe shaft book morning surge";

@@ -1,1 +1,1 @@
-var mnemonic = "blouse hidden laundry pool spray aim hard endless office round fall unfold";
+var mnemonic = "before balcony cycle remember wire prepare soon unaware require section mouse boy";

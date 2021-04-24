@@ -1,1 +1,1 @@
-var mnemonic = "check country retire session sail actress magnet thrive sorry couple track crop";
+var mnemonic = "exhaust broom define tip dress pass fiscal laundry eight marble pause gown";

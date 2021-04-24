@@ -1,1 +1,1 @@
-var mnemonic = "slush auto useful genre object issue fat shock unhappy amazing annual deliver";
+var mnemonic = "east crumble beef antique danger myth scrap convince cherry palace element mind";

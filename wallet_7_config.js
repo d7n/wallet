@@ -1,1 +1,1 @@
-var mnemonic = "ranch nut nest faint decorate hammer middle body virtual reward number elite";
+var mnemonic = "melt still unveil cargo rose army license indicate actress dress best injury";

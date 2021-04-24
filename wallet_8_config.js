@@ -1,1 +1,1 @@
-var mnemonic = "kick actress gather normal target million vessel honey barrel guess tone burger";
+var mnemonic = "deliver answer length more hockey cook crush rookie swim violin snack almost";

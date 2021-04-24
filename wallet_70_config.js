@@ -1,1 +1,1 @@
-var mnemonic = "soccer citizen memory tiny lend bless comfort finger knock roof recall yellow";
+var mnemonic = "filter hero liquid chronic exotic vacant spring cycle relax raw february vocal";

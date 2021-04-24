@@ -1,1 +1,1 @@
-var mnemonic = "sea snake hero economy job where resource stool two better liberty resist";
+var mnemonic = "injury thumb cluster exact animal brick west off fee system present tent";

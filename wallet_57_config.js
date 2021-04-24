@@ -1,1 +1,1 @@
-var mnemonic = "acquire supply brick indoor sail crisp tackle gorilla disease mimic logic detail";
+var mnemonic = "mix elegant garbage snap fitness two always advice shaft joke luggage chuckle";

@@ -1,1 +1,1 @@
-var mnemonic = "version adjust neither tone point drastic major scatter awful inspire metal borrow";
+var mnemonic = "planet wisdom gloom donor slab crane buddy home mirror follow copper dove";

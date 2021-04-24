@@ -1,1 +1,1 @@
-var mnemonic = "secret million stool write during blush iron champion vanish head affair horn";
+var mnemonic = "fine stock surge juice owner flash daring citizen prevent catch salad opera";

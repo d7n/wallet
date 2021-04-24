@@ -1,1 +1,1 @@
-var mnemonic = "invest trust gauge eagle mammal execute budget goat wall cattle electric quick";
+var mnemonic = "isolate used dice cube jelly humor skin obscure inflict repair brave subway";

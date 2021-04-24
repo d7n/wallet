@@ -1,1 +1,1 @@
-var mnemonic = "anger piece beach prevent various buyer divert swing cart glory soul defense";
+var mnemonic = "industry author image please figure coin elbow join squirrel monitor risk pencil";

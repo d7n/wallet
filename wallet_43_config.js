@@ -1,1 +1,1 @@
-var mnemonic = "spray pioneer verb voyage plastic tank easy disagree hybrid dust dirt enjoy";
+var mnemonic = "dream foot student alcohol essay second zebra sweet meadow way aim item";

@@ -1,1 +1,1 @@
-var mnemonic = "swing beauty galaxy leader tree casual transfer quality umbrella license cost relax";
+var mnemonic = "awful pyramid subway enroll distance deal bottom image switch scissors tortoise rug";

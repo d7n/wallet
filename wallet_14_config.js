@@ -1,1 +1,1 @@
-var mnemonic = "define dream tongue trend nasty divert pink journey idea glare camera harvest";
+var mnemonic = "worry winner damp gold canyon great harbor lyrics axis frown receive file";

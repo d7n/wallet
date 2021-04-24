@@ -1,1 +1,1 @@
-var mnemonic = "broom tourist nut envelope shell crash youth fish hurry ozone brown bachelor";
+var mnemonic = "echo palm elephant glow satoshi split breeze will walk bulb spatial ahead";

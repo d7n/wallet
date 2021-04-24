@@ -1,1 +1,1 @@
-var mnemonic = "orange rough evoke best crime pen tent mail fiction peace jaguar anchor";
+var mnemonic = "tower rocket idle initial crew receive shrimp cloud draft obey connect prevent";

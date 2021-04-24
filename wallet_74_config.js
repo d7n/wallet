@@ -1,1 +1,1 @@
-var mnemonic = "quit thing embrace odor decline soup dizzy picture glue jazz have lesson";
+var mnemonic = "half century produce walnut vital pizza vast shuffle move track host hill";

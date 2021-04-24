@@ -1,1 +1,1 @@
-var mnemonic = "equal apart perfect satoshi magnet grunt short slice wash penalty breeze abuse";
+var mnemonic = "odor order crisp suggest pulse allow describe float hurdle spell stool random";

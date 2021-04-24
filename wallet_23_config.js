@@ -1,1 +1,1 @@
-var mnemonic = "brisk acquire deposit expect swarm umbrella guide please rebel donkey gospel flavor";
+var mnemonic = "canvas distance during clinic twice arena clap analyst amount moral author task";

@@ -1,1 +1,1 @@
-var mnemonic = "resource play man nurse hunt ostrich charge nurse mask anxiety flavor category";
+var mnemonic = "want minimum mango twin net say tomorrow tell blossom fee document solar";

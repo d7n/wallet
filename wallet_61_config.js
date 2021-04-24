@@ -1,1 +1,1 @@
-var mnemonic = "impulse reflect pudding cloth town brick later problem case west giggle print";
+var mnemonic = "impose kind denial nose blast success film food capable brain easily suspect";

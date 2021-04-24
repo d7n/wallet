@@ -1,1 +1,1 @@
-var mnemonic = "offer pig audit person twist above guitar bunker arrow seven city park";
+var mnemonic = "permit analyst claim section front zero drop burden case lens warfare clay";

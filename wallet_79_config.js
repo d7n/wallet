@@ -1,1 +1,1 @@
-var mnemonic = "skill slim power notice display answer green female much swim candy boil";
+var mnemonic = "salute music fiber scale weather rain spawn ride collect release cage matter";

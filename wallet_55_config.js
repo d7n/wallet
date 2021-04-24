@@ -1,1 +1,1 @@
-var mnemonic = "tone legend wing crack fluid behave hedgehog assault rough yard monster tell";
+var mnemonic = "hill travel utility enemy key theory solve cannon flag prosper attitude evoke";

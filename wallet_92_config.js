@@ -1,1 +1,1 @@
-var mnemonic = "treat nature inmate mail race ridge elegant gate meat soft hurry sustain";
+var mnemonic = "home account attitude hope alert seek spring lamp lumber inject actual cloud";

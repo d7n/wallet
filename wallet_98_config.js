@@ -1,1 +1,1 @@
-var mnemonic = "drop volume light garden federal boost history liar own arrive air between";
+var mnemonic = "comic pear science vessel mule flee deer above coil fatal soul round";

@@ -1,1 +1,1 @@
-var mnemonic = "spread chapter corn opera copy shuffle gift entry click kind robust decrease";
+var mnemonic = "advance wrong blue remove segment brown similar physical buyer misery oppose differ";

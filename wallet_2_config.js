@@ -1,1 +1,1 @@
-var mnemonic = "shoe pause effort delay struggle ball balance finger volcano blame orchard novel";
+var mnemonic = "finger tree tray traffic mesh retreat raven muffin teach high mutual venue";

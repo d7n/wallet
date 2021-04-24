@@ -1,1 +1,1 @@
-var mnemonic = "leader input erosion believe moment flush pass route mistake border street differ";
+var mnemonic = "input trumpet skill purse mouse shift clown twenty verify fame side average";

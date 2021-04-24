@@ -1,1 +1,1 @@
-var mnemonic = "donate pepper afraid chief genuine knife sport remember cross junior honey flame";
+var mnemonic = "route quantum carbon silly reduce text crucial light rib wet dove rib";

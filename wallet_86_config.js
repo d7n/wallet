@@ -1,1 +1,1 @@
-var mnemonic = "must rebel soul afraid sport bring brand fetch degree east stomach robot";
+var mnemonic = "convince unveil blush state spend width waste accuse vote chronic blade knock";

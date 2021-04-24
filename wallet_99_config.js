@@ -1,1 +1,1 @@
-var mnemonic = "cricket auto claim sentence fever master security audit snake wet universe pyramid";
+var mnemonic = "filter begin acid dose one wolf rescue ignore inch crucial face say";

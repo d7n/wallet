@@ -1,1 +1,1 @@
-var mnemonic = "sound decide town arrest hour prosper license strike abstract tape fall neck";
+var mnemonic = "brush cool bitter provide inject document solve blur render cousin process focus";

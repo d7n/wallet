@@ -1,1 +1,1 @@
-var mnemonic = "october image forward then cheese robot dwarf scrub gadget ahead predict timber";
+var mnemonic = "alpha swallow canvas snack dragon frequent wonder general between exile brush favorite";

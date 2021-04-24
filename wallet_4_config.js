@@ -1,1 +1,1 @@
-var mnemonic = "valid object city pottery fiscal act cram remember basic blur bike desert";
+var mnemonic = "income bulb wrap blush punch book member chair season sister potato elegant";

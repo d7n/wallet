@@ -1,1 +1,1 @@
-var mnemonic = "thumb portion floor fit hope bargain bronze inside fade attract chalk typical";
+var mnemonic = "aware initial poet you cigar balcony total gown medal advice limb join";

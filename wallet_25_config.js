@@ -1,1 +1,1 @@
-var mnemonic = "inmate chimney absurd addict strike leaf camp custom rule churn heavy emerge";
+var mnemonic = "view answer lady olympic rebel wrong truck portion cushion evoke era uncover";

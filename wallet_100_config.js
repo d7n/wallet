@@ -1,1 +1,1 @@
-var mnemonic = "concert final syrup derive galaxy engage obey reveal napkin debris repeat afraid";
+var mnemonic = "around catalog rapid elevator hollow pole bind box question viable mirror gentle";

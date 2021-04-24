@@ -1,1 +1,1 @@
-var mnemonic = "thunder canyon churn poverty shiver banana fiscal ghost glimpse path enhance romance";
+var mnemonic = "express october paddle pulse ghost mechanic surge choice surprise wool city devote";

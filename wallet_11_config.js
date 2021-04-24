@@ -1,1 +1,1 @@
-var mnemonic = "matter congress bundle arrive boy clever session island mask absurd velvet allow";
+var mnemonic = "plug domain knee detail license core birth affair scissors fork original spare";

@@ -1,1 +1,1 @@
-var mnemonic = "library shoulder drink vendor frog help mandate they decline grape menu biology";
+var mnemonic = "like glare radio toddler they purse civil romance reopen dinner drive bottom";

@@ -1,1 +1,1 @@
-var mnemonic = "prize animal nut category pride vital jealous foster occur point deer gravity";
+var mnemonic = "witness exhibit else smart nominee version theory rent afraid okay learn romance";

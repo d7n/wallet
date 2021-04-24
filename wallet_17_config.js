@@ -1,1 +1,1 @@
-var mnemonic = "stove crop sheriff bus captain skin aim feature favorite razor mercy view";
+var mnemonic = "mix swear key picture anger frequent employ brick hint someone comic coyote";

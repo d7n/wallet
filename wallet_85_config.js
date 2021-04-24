@@ -1,1 +1,1 @@
-var mnemonic = "misery artefact injury lonely invest real imitate snap guard embark stairs ring";
+var mnemonic = "oxygen kite tennis help scheme hamster cloth vital wagon cricket coffee behave";

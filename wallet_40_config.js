@@ -1,1 +1,1 @@
-var mnemonic = "endless essence poverty session amused pupil clown frost grain sea defense theory";
+var mnemonic = "yellow blind brief hungry execute private outer expect laptop fiscal captain sell";

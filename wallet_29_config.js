@@ -1,1 +1,1 @@
-var mnemonic = "clog speed crunch liar loyal slow kitchen twice smart shiver ramp code";
+var mnemonic = "manual iron doctor enable prevent obey future cash forget among benefit cargo";

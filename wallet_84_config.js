@@ -1,1 +1,1 @@
-var mnemonic = "plate dinosaur bundle note urge glove magnet recall summer rival piano oval";
+var mnemonic = "assist maple element harvest bench final sell suspect bottom occur mirror fetch";

@@ -1,1 +1,1 @@
-var mnemonic = "coral zoo jump goddess riot broccoli wife eyebrow clip crawl sun today";
+var mnemonic = "spell zero circle build rice miracle season grid kiss panic arena office";

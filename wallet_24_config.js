@@ -1,1 +1,1 @@
-var mnemonic = "near goddess voice still story term excess toast inquiry whip cross position";
+var mnemonic = "major celery region diet drop reduce capital used faculty abandon remain history";

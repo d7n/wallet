@@ -1,1 +1,1 @@
-var mnemonic = "section seven cushion tell chest coast accident vendor captain make camera cement";
+var mnemonic = "drop swallow source lock then credit satoshi diamond delay inherit captain group";

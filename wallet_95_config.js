@@ -1,1 +1,1 @@
-var mnemonic = "license immune outdoor beyond forum pluck detect crack improve funny nature start";
+var mnemonic = "path damp soccer valley exotic whisper seven spike mule goose circle inner";
