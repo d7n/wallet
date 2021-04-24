@@ -1,1 +1,1 @@
-var mnemonic = "powder armed trash kiwi lunar aware pottery decade tiger shed retire safe";
+var mnemonic = "coconut winner rent cake patrol crawl useless wreck scare require title pet";

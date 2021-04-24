@@ -1,1 +1,1 @@
-var mnemonic = "tuition swap balance ginger planet lock brush poverty local field across science";
+var mnemonic = "lend cool sheriff until beef shuffle gold must seek enhance enact claw";

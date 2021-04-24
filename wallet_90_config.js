@@ -1,1 +1,1 @@
-var mnemonic = "focus immense life shrug drill child member winter rough solution bargain lady";
+var mnemonic = "explain share assist jar enact elephant black crazy squeeze surround guide exchange";

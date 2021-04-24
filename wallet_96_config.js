@@ -1,1 +1,1 @@
-var mnemonic = "green ring task diesel lemon visit video hope remain typical shoulder whale";
+var mnemonic = "better inner enjoy detail fix pact palace person crash multiply buddy coconut";

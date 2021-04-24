@@ -1,1 +1,1 @@
-var mnemonic = "dragon today trap brick endorse zone borrow diary tuition raven nurse bachelor";
+var mnemonic = "child garlic maid urge wedding labor oven tail nerve craft mom drum";

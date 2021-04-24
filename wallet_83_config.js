@@ -1,1 +1,1 @@
-var mnemonic = "monitor large zebra uniform easy truck own decade volume media original obscure";
+var mnemonic = "student black ethics divide major suggest equal census nurse despair keen check";

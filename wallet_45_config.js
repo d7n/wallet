@@ -1,1 +1,1 @@
-var mnemonic = "giraffe song gift deer approve high paper spin cage kidney want rude";
+var mnemonic = "oven under boat embark radar choose dirt spawn office swift maximum split";

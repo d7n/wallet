@@ -1,1 +1,1 @@
-var mnemonic = "security mass domain between someone genius south sand leave like field blame";
+var mnemonic = "appear warm menu music large clean replace mad search gather sister excite";

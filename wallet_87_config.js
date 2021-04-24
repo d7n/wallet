@@ -1,1 +1,1 @@
-var mnemonic = "depend undo silly crane boring twelve rural boil shoe exist safe legend";
+var mnemonic = "grab retire dance layer obscure hurt uncover economy remind absorb penalty witness";

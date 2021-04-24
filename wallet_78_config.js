@@ -1,1 +1,1 @@
-var mnemonic = "toast sing fancy income charge pigeon rain glue surprise unique scheme soft";
+var mnemonic = "bronze exhibit object hawk tray close detect orchard birth clever helmet street";

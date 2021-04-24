@@ -1,1 +1,1 @@
-var mnemonic = "prefer mention tell labor injury angry plate festival better rabbit source spin";
+var mnemonic = "job huge catalog emotion eager famous nerve quarter portion segment install safe";

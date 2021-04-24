@@ -1,1 +1,1 @@
-var mnemonic = "sport cable fire carpet gown you garbage will basket funny advice remind";
+var mnemonic = "physical clutch enrich forward crouch hen venture glad loyal clay laugh betray";

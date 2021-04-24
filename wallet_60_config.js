@@ -1,1 +1,1 @@
-var mnemonic = "badge job impose nephew cheese hood body carry advice diet hollow apple";
+var mnemonic = "subject ostrich debris spice alcohol style project cruel mimic seminar bone tank";

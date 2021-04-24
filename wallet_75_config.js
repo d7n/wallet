@@ -1,1 +1,1 @@
-var mnemonic = "embrace three concert prefer legal slight stable bullet term gloom crack defense";
+var mnemonic = "theory invest carry any soon scrap palace impact mother junk gift absent";

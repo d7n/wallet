@@ -1,1 +1,1 @@
-var mnemonic = "squeeze favorite toss south divert cactus logic mad civil off catalog equal";
+var mnemonic = "essence water margin flush test erupt comic busy rookie cupboard nice person";

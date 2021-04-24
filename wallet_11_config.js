@@ -1,1 +1,1 @@
-var mnemonic = "uncover lecture ecology capital chronic river enlist smart depart day stand multiply";
+var mnemonic = "peanut next tattoo essay invite camera wave gorilla token warfare cream iron";

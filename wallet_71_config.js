@@ -1,1 +1,1 @@
-var mnemonic = "digital orbit thought quit spirit account remove category leader gold super wine";
+var mnemonic = "wealth price square pole kitchen actual agree witness lion hire icon hammer";

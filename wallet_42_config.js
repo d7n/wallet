@@ -1,1 +1,1 @@
-var mnemonic = "liquid idea jealous often response trigger polar field jaguar lens canoe pond";
+var mnemonic = "illegal favorite blind brief file earn among draw bid baby antique civil";

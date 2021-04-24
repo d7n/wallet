@@ -1,1 +1,1 @@
-var mnemonic = "picnic affair lobster maximum unusual ocean chronic spirit relief blossom endless reunion";
+var mnemonic = "use defy rule ill silent punch apple road dutch fly magic smooth";

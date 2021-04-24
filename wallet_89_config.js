@@ -1,1 +1,1 @@
-var mnemonic = "still ostrich kit quiz mind vote toilet weapon dinner debris leisure way";
+var mnemonic = "injury tissue obtain hole sausage goddess badge pelican useful hole crowd crime";

@@ -1,1 +1,1 @@
-var mnemonic = "magnet layer shine blind library miracle cable disease chef gesture tiger rare";
+var mnemonic = "surround course fold amount rocket flock vivid slow alcohol rival exile buzz";

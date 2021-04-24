@@ -1,1 +1,1 @@
-var mnemonic = "cream vicious parent print plunge engage credit annual sure dinner spot impose";
+var mnemonic = "boat release panel all thank picture inherit point filter rain clay truth";

@@ -1,1 +1,1 @@
-var mnemonic = "gauge enrich vanish eyebrow pilot actress skull code tobacco wagon leg transfer";
+var mnemonic = "creek flight multiply reward few weekend task flight hedgehog turkey produce ketchup";

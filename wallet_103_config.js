@@ -1,1 +1,1 @@
-var mnemonic = "gaze animal december recipe attend tray unlock shop verify hip output boss";
+var mnemonic = "glimpse hotel recipe nut wait sign crouch tourist view morning anger they";

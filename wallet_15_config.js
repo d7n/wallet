@@ -1,1 +1,1 @@
-var mnemonic = "romance shove imitate total settle access someone nephew initial pigeon extra oil";
+var mnemonic = "hybrid potato crawl found seminar enter hollow grace salad lizard high shove";

@@ -1,1 +1,1 @@
-var mnemonic = "market agree fancy under roast hurt hood capital mind sunny brother rare";
+var mnemonic = "once leisure snake inquiry exist math survey walk relax possible bicycle curious";

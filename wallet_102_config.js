@@ -1,1 +1,1 @@
-var mnemonic = "flush glass bicycle tent foster oval grain proud laundry impulse story humble";
+var mnemonic = "upper shield horror doctor chaos mutual north wife impulse crazy mirror angle";

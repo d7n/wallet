@@ -1,1 +1,1 @@
-var mnemonic = "away kind atom glow math include cinnamon staff auction side organ cross";
+var mnemonic = "tube island mammal captain tongue hawk foster clay invest flush empower seat";

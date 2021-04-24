@@ -1,1 +1,1 @@
-var mnemonic = "misery ability artwork between fortune fat laundry arrow denial wise wrap analyst";
+var mnemonic = "please curtain unfair panda shift member deal iron figure nation knife rare";

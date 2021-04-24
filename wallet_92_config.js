@@ -1,1 +1,1 @@
-var mnemonic = "already junk sketch spike run kite lucky hurt trust gospel napkin favorite";
+var mnemonic = "junk vehicle drama mail since clarify odor runway slam bulb wheat thought";

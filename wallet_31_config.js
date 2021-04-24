@@ -1,1 +1,1 @@
-var mnemonic = "park primary moon strike neutral need walnut engine link age census two";
+var mnemonic = "setup motor expose attract scrub hope stereo abstract lonely simple banana pluck";

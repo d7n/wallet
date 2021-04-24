@@ -1,1 +1,1 @@
-var mnemonic = "purity floor add cool slight grocery trust trade acoustic lamp creek attract";
+var mnemonic = "tone job remind extend truth width update elite power until benefit salt";

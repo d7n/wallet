@@ -1,1 +1,1 @@
-var mnemonic = "surround funny raccoon door voyage resemble enemy sight ancient police boring trigger";
+var mnemonic = "barrel stamp notable gym fossil unknown hip casino must acquire culture trash";

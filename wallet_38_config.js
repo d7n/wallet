@@ -1,1 +1,1 @@
-var mnemonic = "universe speed power velvet cabbage marriage budget search edge one multiply diary";
+var mnemonic = "elder lottery dutch acid business vault steak tenant ostrich example fiscal speed";

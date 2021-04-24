@@ -1,1 +1,1 @@
-var mnemonic = "practice vital very blast fabric fruit increase raise talent flip key build";
+var mnemonic = "liar chimney wish letter electric lock cricket seed warm parrot slab image";

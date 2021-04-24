@@ -1,1 +1,1 @@
-var mnemonic = "upon tiny team midnight knife place athlete left mercy nice arrest midnight";
+var mnemonic = "hat accident boat tray please erosion post frog area thought check rally";

@@ -1,1 +1,1 @@
-var mnemonic = "luggage among angle possible card gasp chronic bomb pottery symptom extend maid";
+var mnemonic = "slam turtle target food online goddess sponsor scissors apology such reduce extra";

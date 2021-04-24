@@ -1,1 +1,1 @@
-var mnemonic = "inspire legal finger wrap conduct bus desk wise science soldier wreck employ";
+var mnemonic = "trigger milk motor dolphin come arm side waste chunk capital bracket key";

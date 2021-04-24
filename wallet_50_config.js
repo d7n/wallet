@@ -1,1 +1,1 @@
-var mnemonic = "allow text blind evidence universe wise pencil tide outer bid sample link";
+var mnemonic = "vital teach weather allow divide dismiss teach insane doctor giggle world robot";

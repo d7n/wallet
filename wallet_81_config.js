@@ -1,1 +1,1 @@
-var mnemonic = "recycle bar boil panda rug armor mutual deposit myself defy enforce name";
+var mnemonic = "dice broken exit hair indicate minimum indicate hip crash myth flat when";

@@ -1,1 +1,1 @@
-var mnemonic = "error stay flip scatter fee travel crack keen above robot juice maze";
+var mnemonic = "club honey lion chaos hamster tray ceiling middle model actor gesture audit";

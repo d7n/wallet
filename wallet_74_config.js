@@ -1,1 +1,1 @@
-var mnemonic = "flush blur gauge same bachelor axis talk chalk story dress display bring";
+var mnemonic = "leisure fatigue fly daring cheese hurt type then laugh design correct turtle";

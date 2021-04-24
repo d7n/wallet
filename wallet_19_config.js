@@ -1,1 +1,1 @@
-var mnemonic = "satisfy fine pupil energy bronze attend concert wear coral nothing tooth fine";
+var mnemonic = "divorce found model delay level gallery month face yard erosion prevent canvas";

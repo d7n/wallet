@@ -1,1 +1,1 @@
-var mnemonic = "later permit know family snack room pistol sausage fashion tail false faith";
+var mnemonic = "blossom time rival stable edge strike north cause hotel spy slam uncle";

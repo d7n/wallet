@@ -1,1 +1,1 @@
-var mnemonic = "regular object census tortoise legend total endless analyst slam crystal test swamp";
+var mnemonic = "require camp century habit desert depend symbol all wing eight fetch invest";

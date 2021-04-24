@@ -1,1 +1,1 @@
-var mnemonic = "sunset coyote smooth peanut ordinary close hurry wage index mass upgrade promote";
+var mnemonic = "live strike below market lend canvas rely marine fatal history sand shrug";

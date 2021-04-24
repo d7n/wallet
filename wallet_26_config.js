@@ -1,1 +1,1 @@
-var mnemonic = "sausage short like bacon spider perfect fluid table remove tooth hybrid area";
+var mnemonic = "discover reason scorpion usage wisdom liquid black dose nothing comfort circle near";

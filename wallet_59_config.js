@@ -1,1 +1,1 @@
-var mnemonic = "volcano joke trophy tide copy doctor own exile vacuum desert ugly settle";
+var mnemonic = "thing palm feature celery blade crime monitor slot floor sniff forum group";

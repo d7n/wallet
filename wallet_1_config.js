@@ -1,1 +1,1 @@
-var mnemonic = "sunny cherry left clump dog valid crash walk luxury mobile cry exhaust";
+var mnemonic = "prevent garment observe sell coin amateur toast dune eagle grief try permit";

@@ -1,1 +1,1 @@
-var mnemonic = "nice father doctor permit grape stumble sun destroy winner noble slender method";
+var mnemonic = "orbit tree swallow legend silk jeans finish debate kingdom cousin forest marble";

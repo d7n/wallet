@@ -1,1 +1,1 @@
-var mnemonic = "act suggest guitar please harsh tackle express digital under unit subject unfold";
+var mnemonic = "afford sword end spice alarm entire leopard slide lounge unable arrive lady";

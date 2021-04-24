@@ -1,1 +1,1 @@
-var mnemonic = "lava monitor boost anchor acquire boat simple sunset sister mixture oblige pet";
+var mnemonic = "prize spot mystery dinner census century session custom divorce actress fly coffee";

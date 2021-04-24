@@ -1,1 +1,1 @@
-var mnemonic = "denial lady mask vocal cactus famous congress walk slice menu minute expect";
+var mnemonic = "loop feel best voice poverty acid wire plug acquire nature february document";

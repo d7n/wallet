@@ -1,1 +1,1 @@
-var mnemonic = "female sound swear vacuum document panda jeans panda stem scissors lunch mosquito";
+var mnemonic = "wish right light lava quantum science treat mechanic autumn average lift hint";

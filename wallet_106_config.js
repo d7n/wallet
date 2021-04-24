@@ -1,1 +1,1 @@
-var mnemonic = "van coyote fat accuse mechanic surge cannon piano answer coral view repeat";
+var mnemonic = "sunny soul cake jar ecology wool car legend bomb fan desk surprise";

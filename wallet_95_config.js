@@ -1,1 +1,1 @@
-var mnemonic = "cousin erosion crawl earn subject circle sadness cook fancy butter sustain faint";
+var mnemonic = "dawn lemon visa grass reflect model flight live couple fade van guilt";

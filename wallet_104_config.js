@@ -1,1 +1,1 @@
-var mnemonic = "surprise dentist fashion measure stumble couch horn pause tail student inner hedgehog";
+var mnemonic = "marriage proud forward slab pig topple erosion dice wealth bright human shield";

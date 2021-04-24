@@ -1,1 +1,1 @@
-var mnemonic = "brief romance wrist wrist wear mule village toe word discover pitch yellow";
+var mnemonic = "garage case ship devote model park detect liquid away wash bean crack";

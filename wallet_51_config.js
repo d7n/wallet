@@ -1,1 +1,1 @@
-var mnemonic = "music can reunion announce version balance assault during reject virtual subway hungry";
+var mnemonic = "buddy heavy uncover anxiety neglect debris scale initial enough start practice relief";

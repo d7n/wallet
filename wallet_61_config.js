@@ -1,1 +1,1 @@
-var mnemonic = "ostrich divert wealth tiny trophy wage cost victory noble lend close device";
+var mnemonic = "height unknown accident animal clap notable draft ladder early earth monkey buyer";

@@ -1,1 +1,1 @@
-var mnemonic = "boring envelope peace apple seminar timber rifle helmet nut snack hurdle myself";
+var mnemonic = "ignore couple vote vault account polar three artwork benefit tell payment panther";

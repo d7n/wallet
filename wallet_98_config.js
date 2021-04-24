@@ -1,1 +1,1 @@
-var mnemonic = "soldier spirit garage venue summer work color acoustic slice bridge unknown potato";
+var mnemonic = "blush trap garment grid dad scare risk carpet usual soup owner novel";

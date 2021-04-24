@@ -1,1 +1,1 @@
-var mnemonic = "guess slush arrange dentist cigar mention muffin edge torch matrix isolate disease";
+var mnemonic = "dance glue bacon group crawl accident cruise bachelor program mutual social valve";

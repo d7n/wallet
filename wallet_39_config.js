@@ -1,1 +1,1 @@
-var mnemonic = "science glow interest spell mango crucial level family casual glide pulse million";
+var mnemonic = "work elephant demise danger lake fatal oppose receive fresh open draft face";

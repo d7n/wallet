@@ -1,1 +1,1 @@
-var mnemonic = "try design version child false garbage champion tennis tired entire burst enter";
+var mnemonic = "income little hamster access pact treat ceiling blossom real arch comic cereal";

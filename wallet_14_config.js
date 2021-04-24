@@ -1,1 +1,1 @@
-var mnemonic = "destroy innocent door ski immune weird scare matter inspire color blue dune";
+var mnemonic = "draw fiscal cushion certain proof diagram seed primary rigid welcome slam firm";

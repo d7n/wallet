@@ -1,1 +1,1 @@
-var mnemonic = "small scene caution answer fee trick such beach potato vacant fee item";
+var mnemonic = "defy orbit feel unknown wolf pond submit cat holiday raw blush muscle";

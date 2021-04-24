@@ -1,1 +1,1 @@
-var mnemonic = "kitchen police caution trade chase exchange emerge blouse eternal ostrich able alpha";
+var mnemonic = "physical length shoe portion unaware final keen muscle leisure object quiz talk";

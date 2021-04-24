@@ -1,1 +1,1 @@
-var mnemonic = "corn charge second celery cheap project border awesome lottery boy pencil method";
+var mnemonic = "ghost path spray echo knee comic laptop industry rail steel basic bacon";

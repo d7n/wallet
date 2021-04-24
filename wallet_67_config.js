@@ -1,1 +1,1 @@
-var mnemonic = "core gorilla vendor barrel upon piece brand rescue total assist move garage";
+var mnemonic = "two core nominee screen venue wide repeat bulb cable follow left conduct";

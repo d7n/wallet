@@ -1,1 +1,1 @@
-var mnemonic = "story rather kite empty fortune move glimpse dolphin evoke awesome ship illegal";
+var mnemonic = "corn coyote bridge medal head taste material hedgehog brush prepare write swarm";

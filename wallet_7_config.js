@@ -1,1 +1,1 @@
-var mnemonic = "replace jungle pluck fan exotic match swarm scout tip fragile elegant connect";
+var mnemonic = "emerge grass shrimp aisle lesson couch clip leader grass sweet useless dish";

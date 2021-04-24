@@ -1,1 +1,1 @@
-var mnemonic = "target pudding approve bunker ivory enlist oval swallow quarter again youth wrap";
+var mnemonic = "exact essay bike crop pottery essay suspect expose icon curious foster sing";

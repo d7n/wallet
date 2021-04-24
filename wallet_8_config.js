@@ -1,1 +1,1 @@
-var mnemonic = "beach funny rubber start science diagram slot benefit small wedding busy stay";
+var mnemonic = "elbow elbow glue shadow season enhance vehicle say spatial food monster member";

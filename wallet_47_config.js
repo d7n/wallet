@@ -1,1 +1,1 @@
-var mnemonic = "energy such teach tortoise dad ripple dress hello large major promote strong";
+var mnemonic = "true real switch common solid abstract artwork fence gauge aisle earth warm";

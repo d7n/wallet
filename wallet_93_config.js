@@ -1,1 +1,1 @@
-var mnemonic = "lobster vague floor round solve fire choice fan canyon pride cool infant";
+var mnemonic = "stick click shell marriage female stove grit address cube copy core year";

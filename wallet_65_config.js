@@ -1,1 +1,1 @@
-var mnemonic = "grace decade tornado ocean pumpkin ring bargain decrease base razor delay cheap";
+var mnemonic = "language barrel increase arrest chapter sick shine fragile service shine caution multiply";

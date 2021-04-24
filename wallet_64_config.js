@@ -1,1 +1,1 @@
-var mnemonic = "lunar click diesel coral lunch fit property square vacuum punch nut steak";
+var mnemonic = "rare click artwork develop clerk blur cupboard omit day vast recall cave";

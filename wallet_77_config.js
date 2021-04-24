@@ -1,1 +1,1 @@
-var mnemonic = "method warrior defy chat early viable powder decrease tattoo sell monitor pole";
+var mnemonic = "draw gym issue wet become feed quarter cool cargo tomato flip pattern";

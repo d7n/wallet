@@ -1,1 +1,1 @@
-var mnemonic = "patrol field theory close gasp become forward fish second cloud emotion style";
+var mnemonic = "because shaft add lion type rule clog emotion curve daring aspect quality";

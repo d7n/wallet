@@ -1,1 +1,1 @@
-var mnemonic = "burst idle concert cloth vacuum salon emotion possible expose dog region voyage";
+var mnemonic = "cluster when wage wood upon divert move hand artefact toilet check hen";

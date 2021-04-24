@@ -1,1 +1,1 @@
-var mnemonic = "panda crisp trash luggage enroll rebel print once fetch sudden task jungle";
+var mnemonic = "suggest various debris forget tattoo party desk joy winner police bring camp";

@@ -1,1 +1,1 @@
-var mnemonic = "venue betray success lunar twin pig agent hub client cloud team humble";
+var mnemonic = "day ecology dinner rule blame rib worry below athlete toward ecology unveil";

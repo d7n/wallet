@@ -1,1 +1,1 @@
-var mnemonic = "merge install almost ordinary muffin december clarify noise lady used happy media";
+var mnemonic = "roof idle risk typical session slot cost border soap urge access spare";

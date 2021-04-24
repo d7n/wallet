@@ -1,1 +1,1 @@
-var mnemonic = "child idea organ north renew ski above army system apology trim great";
+var mnemonic = "high cool clarify tobacco alarm monkey fruit relax decade shine enough help";

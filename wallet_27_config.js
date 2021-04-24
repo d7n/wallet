@@ -1,1 +1,1 @@
-var mnemonic = "report choose bronze dune culture trend kite impact cable found dignity palm";
+var mnemonic = "fatigue donkey trap cash exhibit robust put enlist quality dinosaur apple kid";

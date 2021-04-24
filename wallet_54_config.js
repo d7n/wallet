@@ -1,1 +1,1 @@
-var mnemonic = "autumn copy predict strike token board gossip debate glow state search galaxy";
+var mnemonic = "wrap plate unfold below habit betray have soda sniff lava repair whip";

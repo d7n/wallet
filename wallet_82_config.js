@@ -1,1 +1,1 @@
-var mnemonic = "safe orange panther asthma pen hero draw industry network company slide cannon";
+var mnemonic = "tilt popular oval frozen gallery version abuse baby venue liquid bus dust";
