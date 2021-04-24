@@ -1,1 +1,1 @@
-var mnemonic = "volume satisfy trial review property below frozen capable scout rain language menu";
+var mnemonic = "accuse verb intact dust family kidney slam silver wool enough tide observe";

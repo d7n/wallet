@@ -1,1 +1,1 @@
-var mnemonic = "usual rail must original penalty melt announce promote trim alarm radar lyrics";
+var mnemonic = "observe box ahead return aerobic praise piece prevent forward menu split live";

@@ -1,1 +1,1 @@
-var mnemonic = "hurdle tooth convince glide adjust project upgrade stereo sibling this tonight have";
+var mnemonic = "arrest guard identify you craft year humor ready pulse panda current claw";

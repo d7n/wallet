@@ -1,1 +1,1 @@
-var mnemonic = "tired seat nest action hero common merry share tiny chronic panel whale";
+var mnemonic = "voice battle craft year tool trophy neck brush crisp grace pause rival";

@@ -1,1 +1,1 @@
-var mnemonic = "industry host excuse exotic unfair bachelor nose such myself weasel harbor hotel";
+var mnemonic = "salmon female want argue marble bamboo gather display brush wheel embrace october";

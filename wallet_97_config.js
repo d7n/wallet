@@ -1,1 +1,1 @@
-var mnemonic = "filter wheat receive chat pistol river identify chronic royal exit despair leave";
+var mnemonic = "merge elegant kitchen choice antenna armed put check alter proof input rather";

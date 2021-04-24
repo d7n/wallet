@@ -1,1 +1,1 @@
-var mnemonic = "town achieve grass shove cup orange session glue boss fabric blush fiction";
+var mnemonic = "vehicle express monitor patrol such rose double rookie female draw infant struggle";

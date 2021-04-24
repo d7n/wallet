@@ -1,1 +1,1 @@
-var mnemonic = "obtain badge foster pyramid hundred bean cancel decide blossom cherry place punch";
+var mnemonic = "clay meat fault blossom ankle resemble fade relief bounce mad you dial";

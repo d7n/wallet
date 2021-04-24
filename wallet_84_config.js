@@ -1,1 +1,1 @@
-var mnemonic = "discover actress cheese when clerk warm crew snack ridge okay match shallow";
+var mnemonic = "peace oyster fragile attend loan envelope staff height quarter attract donate main";

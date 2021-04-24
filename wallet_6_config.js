@@ -1,1 +1,1 @@
-var mnemonic = "shadow quote hip wide tail demand kit vital act vote woman scheme";
+var mnemonic = "pudding split lava monkey nature until since jeans pride bike project original";

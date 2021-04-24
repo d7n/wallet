@@ -1,1 +1,1 @@
-var mnemonic = "science cute shock mango post allow coffee lyrics message switch laptop identify";
+var mnemonic = "sleep limb knife mix faculty trial action climb basket source decline game";

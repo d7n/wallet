@@ -1,1 +1,1 @@
-var mnemonic = "prefer grape mistake refuse sheriff replace inhale strike spray truck recipe agree";
+var mnemonic = "artwork pudding expose tower motor eagle appear foster brush entire blur sun";

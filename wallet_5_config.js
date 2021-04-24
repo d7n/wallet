@@ -1,1 +1,1 @@
-var mnemonic = "merge sting ahead size minor kidney camera ankle pistol air face humble";
+var mnemonic = "alcohol tobacco olympic obscure inform mansion duty random bring session once hello";

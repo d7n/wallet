@@ -1,1 +1,1 @@
-var mnemonic = "anger nuclear cinnamon crunch this pole flush knock end eye jaguar solution";
+var mnemonic = "song dial laugh soon aunt miracle kind evil example like there isolate";

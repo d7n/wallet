@@ -1,1 +1,1 @@
-var mnemonic = "enter valve hand glove scrub urban like detail crush gap shoe alone";
+var mnemonic = "fiscal grass lens document win learn title photo awake fine chunk shadow";

@@ -1,1 +1,1 @@
-var mnemonic = "soup roast treat virtual dawn stool very flight horse summer flash process";
+var mnemonic = "work staff mail cost ridge weather chicken mushroom chef require auction draw";

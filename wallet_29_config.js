@@ -1,1 +1,1 @@
-var mnemonic = "wash turn middle private rural million liquid beauty enough bonus tired end";
+var mnemonic = "general talk engage opera relax chef test horn journey thumb peanut unable";

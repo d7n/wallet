@@ -1,1 +1,1 @@
-var mnemonic = "globe thing black predict guitar globe suggest planet change lake balcony green";
+var mnemonic = "buffalo shine sudden debris just kidney idea flag truth stable jewel guitar";

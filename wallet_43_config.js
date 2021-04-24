@@ -1,1 +1,1 @@
-var mnemonic = "raise critic silent orange sure guitar sell jacket thank blood trial inject";
+var mnemonic = "disease unlock dash engine mercy finish spare arrow leader actual skate average";

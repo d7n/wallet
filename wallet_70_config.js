@@ -1,1 +1,1 @@
-var mnemonic = "tag bamboo square wood attack ask human trial expect thumb ring pear";
+var mnemonic = "raven now brief enable enter amazing jazz basket squeeze chuckle tomorrow hat";

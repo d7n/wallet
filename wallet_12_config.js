@@ -1,1 +1,1 @@
-var mnemonic = "violin boat matter monster code hand kidney ticket push tourist muscle manual";
+var mnemonic = "rescue expand focus snake oxygen depend weapon grocery nice balcony hour ring";

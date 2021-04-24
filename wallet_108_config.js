@@ -1,1 +1,1 @@
-var mnemonic = "travel verb attract club rural hover satoshi pyramid extend multiply kid cat";
+var mnemonic = "please crash stable mobile right talk time also angle still alarm teach";

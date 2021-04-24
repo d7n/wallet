@@ -1,1 +1,1 @@
-var mnemonic = "elephant park item shift subject gallery crack motion machine transfer muscle all";
+var mnemonic = "vacant animal consider come deposit behave giggle lady mimic people acid recall";

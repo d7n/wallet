@@ -1,1 +1,1 @@
-var mnemonic = "fresh virtual loud electric butter elbow dash member power chat off treat";
+var mnemonic = "effort winner swear such black express among empty lend visa stem edge";

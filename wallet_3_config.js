@@ -1,1 +1,1 @@
-var mnemonic = "gas feel bracket wolf draft hobby remain glue secret grow summer addict";
+var mnemonic = "future cost civil bike torch upon swallow wolf cage vacant eagle wagon";

@@ -1,1 +1,1 @@
-var mnemonic = "chaos zoo another school network budget drive virtual ticket goose menu embody";
+var mnemonic = "range brown ball denial front fetch teach aunt combine seminar entry sun";

@@ -1,1 +1,1 @@
-var mnemonic = "nominee lesson rigid undo circle shop exact apology dress echo gauge age";
+var mnemonic = "dish aware grab napkin vivid slim best idle century social order index";

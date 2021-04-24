@@ -1,1 +1,1 @@
-var mnemonic = "point bind sleep raise hood exchange spoil bike visit gas fog glass";
+var mnemonic = "dinosaur erode topic rely account movie online plate super shallow payment famous";

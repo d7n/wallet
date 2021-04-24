@@ -1,1 +1,1 @@
-var mnemonic = "strike mirror burst betray evolve mountain maid owner dash place robot flush";
+var mnemonic = "way shy slide discover obscure nothing drill elbow brass eagle execute source";

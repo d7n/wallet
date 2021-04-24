@@ -1,1 +1,1 @@
-var mnemonic = "ski figure guard allow into volume orphan scene same earth genius suggest";
+var mnemonic = "mind gadget view skin pond summer frozen blade ask injury pilot dawn";

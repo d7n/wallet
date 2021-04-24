@@ -1,1 +1,1 @@
-var mnemonic = "thrive drill trial ski surge shed payment boss spin nice diet puppy";
+var mnemonic = "fashion rabbit wall wave spare lens profit list zebra erase trash nasty";

@@ -1,1 +1,1 @@
-var mnemonic = "gym weather grocery icon crazy hybrid middle witness certain curtain base crumble";
+var mnemonic = "figure pencil caught protect gorilla future quarter brother off shove book target";

@@ -1,1 +1,1 @@
-var mnemonic = "arrive buyer caution tag spend return vintage tragic arrow walk quick cancel";
+var mnemonic = "mimic online magnet picture melt manage annual robot suffer purchase code cry";

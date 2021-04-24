@@ -1,1 +1,1 @@
-var mnemonic = "bronze grief annual alien lucky scan thought guard cook report outside link";
+var mnemonic = "buffalo kitchen infant purity agree across apology voyage knee glare analyst that";

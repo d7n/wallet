@@ -1,1 +1,1 @@
-var mnemonic = "truth six night innocent coast hire winter assault neglect notice join phrase";
+var mnemonic = "wall shaft swift firm cube among envelope media youth warfare bonus dance";

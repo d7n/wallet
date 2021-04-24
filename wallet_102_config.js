@@ -1,1 +1,1 @@
-var mnemonic = "deer axis panther creek jaguar catch lecture throw divide sure work deposit";
+var mnemonic = "else trip profit rude acoustic pluck aisle link print purity almost blast";

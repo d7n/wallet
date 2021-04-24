@@ -1,1 +1,1 @@
-var mnemonic = "ignore client atom search bunker tank culture gauge smooth mountain magnet wood";
+var mnemonic = "equal west grass table climb nut winner dose engage pilot scene silk";

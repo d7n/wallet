@@ -1,1 +1,1 @@
-var mnemonic = "enlist sister antenna arena wash cliff muscle eagle hollow culture gadget never";
+var mnemonic = "arena yellow thunder combine peace vague announce tell crop village rabbit heart";

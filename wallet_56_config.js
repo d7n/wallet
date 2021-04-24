@@ -1,1 +1,1 @@
-var mnemonic = "float hill inmate present shrimp web pill endless mango donate style pitch";
+var mnemonic = "muffin equal alcohol renew defy turn hello scorpion car adjust flower dance";

@@ -1,1 +1,1 @@
-var mnemonic = "cement scorpion wall street venue funny adjust grow hold caught pluck feed";
+var mnemonic = "trust tomato evidence borrow young donate box just marine then secret attend";

@@ -1,1 +1,1 @@
-var mnemonic = "because fog edit sure bracket wire arrange artefact move odor ivory undo";
+var mnemonic = "piece chronic utility fame more piano slot wolf pull input erosion have";

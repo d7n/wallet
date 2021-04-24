@@ -1,1 +1,1 @@
-var mnemonic = "slush fly dolphin edge smooth cannon fog market focus upgrade broken tube";
+var mnemonic = "clock exile window eye cable era strong fault trap dry double camera";

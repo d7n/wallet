@@ -1,1 +1,1 @@
-var mnemonic = "sense until jaguar orange unlock steel heavy math female glove wage cruise";
+var mnemonic = "coach mad joy innocent area toy dinosaur lake hen robust wild giggle";

@@ -1,1 +1,1 @@
-var mnemonic = "flock cheap gun shrimp slender skirt witness outside warm melody nuclear submit";
+var mnemonic = "return black pigeon web cup hungry gloom nation over shine include common";

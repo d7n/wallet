@@ -1,1 +1,1 @@
-var mnemonic = "link leg mimic ritual copy accident endless concert bind goddess rapid nest";
+var mnemonic = "dash flush demand estate fiscal goddess excite tuna candy scorpion nature junk";

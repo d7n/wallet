@@ -1,1 +1,1 @@
-var mnemonic = "find tag horse shoot clock vicious badge little reason merit lazy pond";
+var mnemonic = "draft theme vintage imitate alien text fun race glare credit arrow knock";

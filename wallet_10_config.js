@@ -1,1 +1,1 @@
-var mnemonic = "century since library outer twice crowd humble manual rule region space absent";
+var mnemonic = "follow spawn early skirt victory home flower found box glory warrior soon";

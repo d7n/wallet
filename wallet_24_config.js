@@ -1,1 +1,1 @@
-var mnemonic = "vital inspire north sure mule math orient public blossom mutual jungle this";
+var mnemonic = "false avoid exercise trouble test bread narrow van vote flag thrive clay";

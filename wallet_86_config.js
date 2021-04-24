@@ -1,1 +1,1 @@
-var mnemonic = "elite solve gaze include injury soldier brown outdoor slogan awful load deputy";
+var mnemonic = "keep slice train deliver range expect tank click bread absorb slogan distance";

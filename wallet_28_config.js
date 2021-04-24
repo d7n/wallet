@@ -1,1 +1,1 @@
-var mnemonic = "promote math monkey inflict chicken say core mansion gossip drum notable text";
+var mnemonic = "crystal boring artist resemble border provide creek nephew peasant never source still";

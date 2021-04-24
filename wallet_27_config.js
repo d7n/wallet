@@ -1,1 +1,1 @@
-var mnemonic = "domain scheme calm once fragile accuse dilemma fault foil dinner arrive auction";
+var mnemonic = "core flat more abuse drive chapter breeze main ginger when detail sniff";

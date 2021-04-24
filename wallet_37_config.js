@@ -1,1 +1,1 @@
-var mnemonic = "series mind chair shove fetch trap muscle seven soul gospel swear drill";
+var mnemonic = "motor crew human furnace leg there foil regular gather sport neglect arrange";

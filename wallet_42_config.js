@@ -1,1 +1,1 @@
-var mnemonic = "organ slow hip blade stem reveal trip educate suit crazy equip life";
+var mnemonic = "earth surprise yard cereal swallow harvest cabin clinic open arena behave excite";

@@ -1,1 +1,1 @@
-var mnemonic = "village siren noodle festival ripple bicycle cloth resist float degree slim logic";
+var mnemonic = "oxygen attract remain donor select spoon desk filter sell sense window stomach";

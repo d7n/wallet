@@ -1,1 +1,1 @@
-var mnemonic = "loop sad legal mimic opinion man already liar stock dial abstract forest";
+var mnemonic = "lamp twice share sleep elevator pistol outer mask rail empty first chat";

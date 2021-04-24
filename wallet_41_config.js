@@ -1,1 +1,1 @@
-var mnemonic = "truth orient then fiction shoot palm museum tobacco stomach orange path sponsor";
+var mnemonic = "manual grain thunder argue wrong snack silent sound small dirt okay destroy";

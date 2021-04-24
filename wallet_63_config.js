@@ -1,1 +1,1 @@
-var mnemonic = "amount cup seat truck spend reform source effort latin icon obey tell";
+var mnemonic = "funny nerve disorder air hint barrel evoke input used goose elevator tuna";

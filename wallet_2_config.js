@@ -1,1 +1,1 @@
-var mnemonic = "asthma marine faint two attend work interest absurd mushroom match attack arrow";
+var mnemonic = "visual crumble baby grain fit army nerve rain couple wine boat air";

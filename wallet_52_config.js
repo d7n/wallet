@@ -1,1 +1,1 @@
-var mnemonic = "afford captain thought punch detail snake trash cement imitate liberty stem exclude";
+var mnemonic = "refuse champion seven bright usual spider talk present flush finish tomato ready";

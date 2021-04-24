@@ -1,1 +1,1 @@
-var mnemonic = "swear save crystal truck hotel motor when upon black poverty pottery degree";
+var mnemonic = "syrup praise discover ring urban dance narrow venue blame demise guess crew";

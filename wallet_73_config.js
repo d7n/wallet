@@ -1,1 +1,1 @@
-var mnemonic = "habit need reunion tobacco popular snow popular february drift race wear emerge";
+var mnemonic = "have gas cushion between swear toddler annual sample slot artefact evil level";

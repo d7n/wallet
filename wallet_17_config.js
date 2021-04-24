@@ -1,1 +1,1 @@
-var mnemonic = "hero receive bottom credit cause wait cabbage dentist lyrics zone riot grape";
+var mnemonic = "fuel enhance section window rely upon mix lunar bring traffic evidence odor";

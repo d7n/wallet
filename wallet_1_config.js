@@ -1,1 +1,1 @@
-var mnemonic = "legal ticket stove then hood donate enrich effort buddy gate ticket valid";
+var mnemonic = "vacant knock erase ignore repair palace target aunt wage patrol load brave";

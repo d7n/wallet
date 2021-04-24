@@ -1,1 +1,1 @@
-var mnemonic = "until mandate patient unfold moment frequent metal practice meadow arch cousin barely";
+var mnemonic = "stomach plunge throw garlic culture actor reunion finger install leave bargain light";

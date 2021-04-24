@@ -1,1 +1,1 @@
-var mnemonic = "man claw humble grant key soap valley lab quiz easy grace river";
+var mnemonic = "exit move life hole village weekend evidence erupt summer car eight report";

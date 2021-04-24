@@ -1,1 +1,1 @@
-var mnemonic = "near hen thought bread camera smart squeeze solution business slice trap cliff";
+var mnemonic = "melody return parent century dutch ill task grid install finger canvas soldier";

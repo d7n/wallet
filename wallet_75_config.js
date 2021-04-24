@@ -1,1 +1,1 @@
-var mnemonic = "clinic cute original track field decorate two excuse address sustain casino pupil";
+var mnemonic = "neglect ketchup regret thrive absent chapter talk culture hobby basic dinner bonus";

@@ -1,1 +1,1 @@
-var mnemonic = "tragic tube stand right exercise opinion lift spring slim tone hurt chase";
+var mnemonic = "adapt plug seven tragic real element leg tuition comfort start crucial behind";

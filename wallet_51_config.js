@@ -1,1 +1,1 @@
-var mnemonic = "argue vacant ahead sauce armed farm nuclear ask relax flavor license spread";
+var mnemonic = "fringe collect arm cushion collect best search fragile update ill mention sauce";

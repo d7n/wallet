@@ -1,1 +1,1 @@
-var mnemonic = "rough name topple lizard dress rug width buffalo video throw craft sample";
+var mnemonic = "useless breeze involve answer corn oppose swift sick rifle business salad similar";

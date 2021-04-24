@@ -1,1 +1,1 @@
-var mnemonic = "project tumble stumble toddler squeeze wasp dream program anger tube parent mistake";
+var mnemonic = "flat nuclear magic dirt prison head discover hotel scheme absorb spawn basic";

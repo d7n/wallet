@@ -1,1 +1,1 @@
-var mnemonic = "desk run habit actor culture scout trick submit dutch family noble habit";
+var mnemonic = "number execute silk venue tone include term help dance visit limit material";

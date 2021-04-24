@@ -1,1 +1,1 @@
-var mnemonic = "neck where multiply word frog salon install youth buzz twelve ribbon sibling";
+var mnemonic = "disorder prison analyst memory diary barely angle use peanut annual initial essence";

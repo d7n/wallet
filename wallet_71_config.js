@@ -1,1 +1,1 @@
-var mnemonic = "follow curve mean country river barrel miss category suit imitate decline endless";
+var mnemonic = "weasel fame scissors cotton label evidence zebra steel wait urban rifle step";

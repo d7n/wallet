@@ -1,1 +1,1 @@
-var mnemonic = "swallow used panther salad degree step settle shaft wrist nature above onion";
+var mnemonic = "disagree luxury blouse gift couch define cruise wink impulse prevent salad often";

@@ -1,1 +1,1 @@
-var mnemonic = "layer faculty sunset ahead mouse law soldier expire soul afford assault few";
+var mnemonic = "party spin cruel lake two basket ski jazz wheel lab surge spin";

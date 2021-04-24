@@ -1,1 +1,1 @@
-var mnemonic = "vicious keep tired upgrade cigar trophy inspire essence cry wait profit food";
+var mnemonic = "color worth hen prize abandon rotate sand cheese almost resist east angle";

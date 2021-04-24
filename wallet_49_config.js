@@ -1,1 +1,1 @@
-var mnemonic = "episode fashion thunder finger success vast current kit allow ugly muscle rather";
+var mnemonic = "right pitch bike assume truck together buyer degree prison flower remember arch";

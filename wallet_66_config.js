@@ -1,1 +1,1 @@
-var mnemonic = "caught glue onion desert join nut brother begin strategy use screen enact";
+var mnemonic = "review syrup depend aunt danger average hello early object wrist jar foot";

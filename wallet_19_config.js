@@ -1,1 +1,1 @@
-var mnemonic = "urge pulse spring liar syrup apology subway funny dizzy negative session dentist";
+var mnemonic = "demand insect kidney critic gentle crash note tornado motor drift trumpet front";

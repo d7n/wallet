@@ -1,1 +1,1 @@
-var mnemonic = "feature broccoli hip fan excuse gaze orphan popular spend float pass off";
+var mnemonic = "balcony motion win size someone tent replace episode slam grass razor million";

@@ -1,1 +1,1 @@
-var mnemonic = "help tower strategy fire orphan badge also left lake reduce grunt usage";
+var mnemonic = "immune destroy eyebrow tiny festival merit betray fan carbon obvious smile gallery";

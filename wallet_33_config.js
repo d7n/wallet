@@ -1,1 +1,1 @@
-var mnemonic = "usual army pepper rib fire roast way panic vault few century shy";
+var mnemonic = "inner wise deputy remind chest dust rack again door crack drama toast";

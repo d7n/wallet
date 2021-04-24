@@ -1,1 +1,1 @@
-var mnemonic = "cattle dismiss flash crop item tide prefer gasp couch cause fossil else";
+var mnemonic = "stone law execute usual little despair often join fortune squeeze solve scorpion";

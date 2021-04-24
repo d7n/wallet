@@ -1,1 +1,1 @@
-var mnemonic = "nation egg limb actual ship swap grunt say oxygen cousin relief tonight";
+var mnemonic = "solid coil quiz pyramid indoor square reward vacant cause canoe spawn because";

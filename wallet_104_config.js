@@ -1,1 +1,1 @@
-var mnemonic = "laugh enforce lobster seed popular merit man soft client recall december parrot";
+var mnemonic = "radar aerobic enact once floor drift pole hedgehog proof relief priority cat";
