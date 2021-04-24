@@ -1,1 +1,1 @@
-var mnemonic = "spot swear multiply fringe amateur crane physical rice capital conduct midnight bag";
+var mnemonic = "devote fossil catalog trap legal measure leisure diamond help coyote dirt often";

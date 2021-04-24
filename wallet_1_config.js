@@ -1,1 +1,1 @@
-var mnemonic = "hip father enlist engine timber limit have shed dove feature orange turkey";
+var mnemonic = "habit awkward sponsor acid recall between quantum false ready teach main boost";

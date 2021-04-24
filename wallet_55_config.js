@@ -1,1 +1,1 @@
-var mnemonic = "month autumn enact summer pelican humble toddler message wage pioneer mirror medal";
+var mnemonic = "eight swamp nerve sound mansion civil picnic wedding black perfect december key";

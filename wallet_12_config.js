@@ -1,1 +1,1 @@
-var mnemonic = "abuse annual language fiber chat letter erupt dish april kick mobile focus";
+var mnemonic = "toddler wild assault metal hospital disagree glide fan relax online topic attitude";

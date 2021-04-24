@@ -1,1 +1,1 @@
-var mnemonic = "flash outdoor toddler clarify penalty clap immense mind engage radar exercise shaft";
+var mnemonic = "ten plate bind pause talent chat spot wonder road photo adapt need";

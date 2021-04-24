@@ -1,1 +1,1 @@
-var mnemonic = "senior alcohol order ski phrase agree mix urban detail develop input option";
+var mnemonic = "pipe meadow property that fix spatial detect parade south slender seat multiply";

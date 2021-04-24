@@ -1,1 +1,1 @@
-var mnemonic = "frown timber issue quit squeeze license voice love guitar pepper tornado morning";
+var mnemonic = "stereo become taste sudden foot forest entry fit shaft jaguar shock embark";

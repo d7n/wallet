@@ -1,1 +1,1 @@
-var mnemonic = "engine salmon copper family scorpion inhale design funny vibrant song sheriff oxygen";
+var mnemonic = "echo require barely six october plug vacant pupil left sport rain law";

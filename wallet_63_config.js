@@ -1,1 +1,1 @@
-var mnemonic = "ethics oxygen daughter thank sample traffic cabin trust rude glare mule page";
+var mnemonic = "route medal earth virus best purchase noise orient acoustic east plate treat";

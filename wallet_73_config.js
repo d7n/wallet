@@ -1,1 +1,1 @@
-var mnemonic = "veteran rare suffer fly much record elevator boss tower black wedding output";
+var mnemonic = "clown suffer donor absorb thank copper wine fury time honey culture afford";

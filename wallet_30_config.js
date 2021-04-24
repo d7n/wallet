@@ -1,1 +1,1 @@
-var mnemonic = "liquid sell junk crunch album slice charge reason space heart apple choose";
+var mnemonic = "strike famous main bread opinion census help possible chaos adjust trick bracket";

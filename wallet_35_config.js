@@ -1,1 +1,1 @@
-var mnemonic = "quit say credit protect rather visa bleak fringe about month song gas";
+var mnemonic = "invite version name wise thank draw moon pact upgrade sugar explain night";

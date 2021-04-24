@@ -1,1 +1,1 @@
-var mnemonic = "cereal denial wagon coral card visit casual toy fatigue target empower gravity";
+var mnemonic = "adult symbol riot tunnel turkey old cruel hurdle argue spawn letter ozone";

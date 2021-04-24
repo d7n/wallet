@@ -1,1 +1,1 @@
-var mnemonic = "define film usual dismiss topple vintage one tomorrow tower pony change crystal";
+var mnemonic = "truth chaos female you dumb arena betray lady comfort enforce turn child";

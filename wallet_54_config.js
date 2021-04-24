@@ -1,1 +1,1 @@
-var mnemonic = "invite culture coil nation length struggle cotton render situate inform text keen";
+var mnemonic = "dance raise first wool mammal pudding castle tool promote quote original fetch";

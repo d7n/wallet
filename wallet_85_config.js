@@ -1,1 +1,1 @@
-var mnemonic = "bright fatigue protect cigar item measure side want wise wreck render glare";
+var mnemonic = "card unit grant globe dance slam soccer priority deer naive document hover";

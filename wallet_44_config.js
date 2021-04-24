@@ -1,1 +1,1 @@
-var mnemonic = "best emerge grief various vendor kind fiber human hawk curve gallery shadow";
+var mnemonic = "noble food found drastic rib fire illness choice clay above daughter echo";

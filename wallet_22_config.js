@@ -1,1 +1,1 @@
-var mnemonic = "upper office chase foster use choice stage dentist furnace card twist swim";
+var mnemonic = "coyote unfold call lumber admit find fruit music dentist song begin source";

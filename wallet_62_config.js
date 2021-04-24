@@ -1,1 +1,1 @@
-var mnemonic = "sand remember often cover cushion iron often fragile lemon car agent flat";
+var mnemonic = "spawn parent ensure convince keen sport fluid abstract prevent rely critic tortoise";

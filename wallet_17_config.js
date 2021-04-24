@@ -1,1 +1,1 @@
-var mnemonic = "insane text fortune online hard this tuna act achieve solve kitten horror";
+var mnemonic = "attend mystery leaf slow mesh catch pottery push trouble cost ankle elbow";

@@ -1,1 +1,1 @@
-var mnemonic = "input decade drink blade resist spread fringe empty loyal hospital depend inquiry";
+var mnemonic = "position recycle upper room warrior idle memory leg climb air coin sick";

@@ -1,1 +1,1 @@
-var mnemonic = "focus fly beef giggle crunch myself dose fall wrist search scan child";
+var mnemonic = "royal belt hood coin forget clog aspect nerve bag direct sense valid";

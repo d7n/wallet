@@ -1,1 +1,1 @@
-var mnemonic = "bring blanket ostrich clog music laptop repeat gift disagree bridge also piano";
+var mnemonic = "festival pole violin shadow yellow loud burger rigid sunset loyal pond angle";

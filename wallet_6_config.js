@@ -1,1 +1,1 @@
-var mnemonic = "aisle year tilt double cruise axis news resource wool this purpose surround";
+var mnemonic = "valid author off farm cancel owner floor over crash start casino ensure";

@@ -1,1 +1,1 @@
-var mnemonic = "mention funny aunt arena thank moon piano length boil verify bounce clock";
+var mnemonic = "width cattle account gossip bachelor fine wait buffalo agent settle foot fetch";

@@ -1,1 +1,1 @@
-var mnemonic = "purse math crop ready pass until laundry winter spend away hurry mosquito";
+var mnemonic = "antenna width output hour paddle ivory able profit flee normal dad shaft";

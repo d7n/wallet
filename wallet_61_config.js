@@ -1,1 +1,1 @@
-var mnemonic = "dismiss peasant illness cart document siren chase collect chronic enhance tomato donkey";
+var mnemonic = "better speak wrong bounce drill exile crane hen reopen explain diamond ordinary";

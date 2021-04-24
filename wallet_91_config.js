@@ -1,1 +1,1 @@
-var mnemonic = "tennis isolate wire sell conduct alarm ginger world behave trim invest sick";
+var mnemonic = "draw fantasy fancy move thought clump chat direct chat fitness coast spend";

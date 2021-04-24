@@ -1,1 +1,1 @@
-var mnemonic = "cover between fly agree brown myself master volcano will cost choice suspect";
+var mnemonic = "thrive eternal liberty rack inform fetch title disorder link fish grant neutral";

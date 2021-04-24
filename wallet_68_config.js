@@ -1,1 +1,1 @@
-var mnemonic = "enemy basic goat potato want divide claw nerve amazing refuse goat try";
+var mnemonic = "approve judge mirror venture short cushion cloud easily tornado reopen attend discover";

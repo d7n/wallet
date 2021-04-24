@@ -1,1 +1,1 @@
-var mnemonic = "curious body riot frozen kiwi axis leisure final impulse dust survey tobacco";
+var mnemonic = "citizen spice distance width grocery lucky multiply expand fox slot front chaos";

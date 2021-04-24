@@ -1,1 +1,1 @@
-var mnemonic = "knock industry dawn tobacco wall magic illness soap thumb paddle frame eager";
+var mnemonic = "sniff struggle shoulder chuckle denial pumpkin seat place doll pigeon mechanic talk";

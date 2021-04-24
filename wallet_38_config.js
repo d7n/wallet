@@ -1,1 +1,1 @@
-var mnemonic = "crunch beef where stomach minor lend unit pool prevent session sugar system";
+var mnemonic = "phrase soda frame riot mirror win cloud blind mention affair lift deny";

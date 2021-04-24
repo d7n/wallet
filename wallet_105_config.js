@@ -1,1 +1,1 @@
-var mnemonic = "orange suit crawl shop medal student mammal panic balcony elite symptom wrong";
+var mnemonic = "figure sausage tunnel tray cable canvas suggest memory crime credit manual decade";

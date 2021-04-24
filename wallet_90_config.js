@@ -1,1 +1,1 @@
-var mnemonic = "input social eight sell pulp piece wood crack sense bleak police that";
+var mnemonic = "music long wisdom left cute wedding calm battle twice young domain chase";

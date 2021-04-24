@@ -1,1 +1,1 @@
-var mnemonic = "square shiver hurdle catch keen west defense ozone romance slice dish just";
+var mnemonic = "horn ride theory cave slab item poverty hold possible cross suit speak";

@@ -1,1 +1,1 @@
-var mnemonic = "ranch cup skull volcano honey conduct allow captain tent school source because";
+var mnemonic = "dentist absurd fence frame save dirt onion auto fiction add crane awake";

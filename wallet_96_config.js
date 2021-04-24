@@ -1,1 +1,1 @@
-var mnemonic = "salmon notable dial retreat smile august display butter dial pool size they";
+var mnemonic = "then hockey exist another ride sick quality thing cupboard breeze during health";

@@ -1,1 +1,1 @@
-var mnemonic = "order slight venture mechanic double rent gate ill token mechanic maid inner";
+var mnemonic = "omit tape only cushion put pause universe ring enforce meat treat furnace";

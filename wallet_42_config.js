@@ -1,1 +1,1 @@
-var mnemonic = "turn shed habit sort sudden fly curve garden quote final loan satisfy";
+var mnemonic = "orchard diamond plunge dynamic true fold glance injury blade pigeon visit spoil";

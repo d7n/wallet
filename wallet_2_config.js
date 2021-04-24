@@ -1,1 +1,1 @@
-var mnemonic = "barrel choose myth fan child prison decrease trash federal erosion never amused";
+var mnemonic = "acoustic cargo ceiling grid evidence carpet tube husband matrix live nice spider";

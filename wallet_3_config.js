@@ -1,1 +1,1 @@
-var mnemonic = "ghost toilet twin fan sudden frame cement end trust enrich lion bench";
+var mnemonic = "bacon gaze recycle crazy what dice pool poverty develop youth ability pattern";

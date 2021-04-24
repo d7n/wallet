@@ -1,1 +1,1 @@
-var mnemonic = "wrist endorse surge high model lawn hover claim gentle ensure essay pond";
+var mnemonic = "old help library avoid angle fiction snake truck mercy tonight jelly major";

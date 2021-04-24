@@ -1,1 +1,1 @@
-var mnemonic = "mule coil wheel advance soccer rose rich divorce globe view royal hungry";
+var mnemonic = "field october champion lawn swing picnic near confirm rug question old novel";

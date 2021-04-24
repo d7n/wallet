@@ -1,1 +1,1 @@
-var mnemonic = "chief snow leaf pigeon dove convince document song nasty napkin friend deal";
+var mnemonic = "peace wild antenna play bracket blur drive term charge congress own print";

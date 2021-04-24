@@ -1,1 +1,1 @@
-var mnemonic = "awkward course hundred net avoid school entire door frozen say quantum capital";
+var mnemonic = "hope patient icon burger quality family gesture palm venue choose when bonus";

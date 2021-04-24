@@ -1,1 +1,1 @@
-var mnemonic = "drip dentist unfold engine rail address flavor excess potato amazing sound ocean";
+var mnemonic = "main prison bless worth idle tackle glare kick lottery exotic unfair birth";

@@ -1,1 +1,1 @@
-var mnemonic = "clarify attitude reflect machine kit before scrub thought credit notice popular tragic";
+var mnemonic = "just hollow mirror essence oppose slight pumpkin wall apple mom whale scout";

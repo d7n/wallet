@@ -1,1 +1,1 @@
-var mnemonic = "fossil riot course soldier cactus mask actor able traffic relief infant exact";
+var mnemonic = "little decorate coast gift hen resemble curve uniform length breeze vintage conduct";

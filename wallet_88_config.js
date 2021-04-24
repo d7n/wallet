@@ -1,1 +1,1 @@
-var mnemonic = "inch claim vivid path labor fantasy illness spell forest decrease safe gasp";
+var mnemonic = "cream lecture mask major blouse grace point measure they notice fan quote";

@@ -1,1 +1,1 @@
-var mnemonic = "village can fiscal mandate midnight crystal rough then crouch frog candy ghost";
+var mnemonic = "master method ice boring rice comic indoor awake poverty excite cat truck";

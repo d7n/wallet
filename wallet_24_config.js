@@ -1,1 +1,1 @@
-var mnemonic = "surprise guide autumn emotion endless deliver alien sleep betray occur language undo";
+var mnemonic = "stable scale false uphold ice voyage evil faint quote orchard digital retire";

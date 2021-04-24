@@ -1,1 +1,1 @@
-var mnemonic = "initial spider join this any recall museum area bounce physical country fresh";
+var mnemonic = "horn second output teach refuse welcome connect endless display shed gesture portion";

@@ -1,1 +1,1 @@
-var mnemonic = "code lazy hungry call network scrap outer carbon raven resource slogan manage";
+var mnemonic = "between enable quality gold cube infant palace second unable organ tired blanket";

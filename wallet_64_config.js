@@ -1,1 +1,1 @@
-var mnemonic = "gaze same hurt shine wrist notable spin permit faint pave drive donor";
+var mnemonic = "lumber bomb shuffle slow mutual series stomach execute forest school camp measure";

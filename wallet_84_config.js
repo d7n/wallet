@@ -1,1 +1,1 @@
-var mnemonic = "barrel pizza style reflect congress home project carry advice flag coconut next";
+var mnemonic = "effort approve autumn inquiry design cargo sell clay express stamp kid rude";

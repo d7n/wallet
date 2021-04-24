@@ -1,1 +1,1 @@
-var mnemonic = "penalty farm flock dream circle limit lawn arrange aware type display welcome";
+var mnemonic = "muffin rent hurdle diary mushroom wasp globe hood inform inform surprise limit";

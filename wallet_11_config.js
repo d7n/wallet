@@ -1,1 +1,1 @@
-var mnemonic = "rack kingdom retire scene limit slogan split bulb tissue rookie nothing shaft";
+var mnemonic = "giant stumble remember credit plastic clinic economy inherit admit weather patrol cherry";

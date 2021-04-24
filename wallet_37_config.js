@@ -1,1 +1,1 @@
-var mnemonic = "humor piece home deal ball roast trophy only kangaroo volcano climb scale";
+var mnemonic = "mesh cupboard toy fortune scout month impulse coyote program crane job spirit";

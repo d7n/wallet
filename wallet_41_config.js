@@ -1,1 +1,1 @@
-var mnemonic = "tomato problem unit educate just magnet exotic alcohol ivory stick shiver charge";
+var mnemonic = "dwarf furnace wink fee social rookie adapt glass clever powder universe fatal";

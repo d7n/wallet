@@ -1,1 +1,1 @@
-var mnemonic = "broken gift isolate primary sport hair cabbage tenant dynamic write velvet chest";
+var mnemonic = "body empower estate profit member puzzle tongue harvest age fall lucky tone";

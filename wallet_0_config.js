@@ -1,1 +1,1 @@
-var mnemonic = "curtain fox april scare visual endorse anchor royal north desk chest slice";
+var mnemonic = "isolate tonight path ritual you property genre dune into unknown nasty head";

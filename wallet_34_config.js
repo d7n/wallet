@@ -1,1 +1,1 @@
-var mnemonic = "panda blade inform change claim barrel address average bulk wine farm mixed";
+var mnemonic = "match regret danger gloom avoid window sample stove swing blue amount wheel";

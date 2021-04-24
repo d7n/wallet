@@ -1,1 +1,1 @@
-var mnemonic = "glimpse dilemma gadget version liar begin sight fade pattern garment supply actual";
+var mnemonic = "foot board between science pulse north trim thrive sick chef urge live";

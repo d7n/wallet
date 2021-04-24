@@ -1,1 +1,1 @@
-var mnemonic = "congress absorb grief zone toilet bar celery swamp size margin fan quality";
+var mnemonic = "book exhaust confirm front scorpion crumble deny analyst very bomb van sheriff";

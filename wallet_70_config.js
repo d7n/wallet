@@ -1,1 +1,1 @@
-var mnemonic = "shoot fan bounce wing orphan beef riot upgrade fine excess note all";
+var mnemonic = "fox kind bring deliver bulk bacon better coyote view divide warm capable";

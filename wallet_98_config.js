@@ -1,1 +1,1 @@
-var mnemonic = "casino quantum slide badge humble sand hedgehog latin prefer basic insect safe";
+var mnemonic = "busy glimpse bridge planet penalty fever sustain raven glide need devote property";

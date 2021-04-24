@@ -1,1 +1,1 @@
-var mnemonic = "exercise luxury mechanic load attack advice glance hard person expose purpose egg";
+var mnemonic = "such dad sick cliff chief sock green expose fatigue fresh chef core";

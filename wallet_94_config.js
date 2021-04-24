@@ -1,1 +1,1 @@
-var mnemonic = "develop crisp juice segment steel merit extra neither neck spice relief gown";
+var mnemonic = "swap elbow effort armor panic salad grab radar loan tone trip few";

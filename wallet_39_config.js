@@ -1,1 +1,1 @@
-var mnemonic = "above joke kiwi thought depend soldier save glue kiwi treat oppose salad";
+var mnemonic = "stay lawsuit that enable twice hole virtual employ trust symptom advice chair";

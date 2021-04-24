@@ -1,1 +1,1 @@
-var mnemonic = "carpet arena observe panic resemble fork animal taste token frequent hazard shift";
+var mnemonic = "soul canoe veteran this later giraffe buyer destroy guess fade popular coyote";

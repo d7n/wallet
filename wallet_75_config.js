@@ -1,1 +1,1 @@
-var mnemonic = "animal wrap toss disease write zebra custom runway piece use credit pen";
+var mnemonic = "trophy achieve say impulse absorb rib cargo armed bright bunker response fix";

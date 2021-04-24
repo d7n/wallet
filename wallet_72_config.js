@@ -1,1 +1,1 @@
-var mnemonic = "shoe lady void crack glass beyond choose junior paddle ceiling smile rug";
+var mnemonic = "nature whip test safe tribe toss view work photo vapor flee hamster";

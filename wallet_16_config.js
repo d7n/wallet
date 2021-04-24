@@ -1,1 +1,1 @@
-var mnemonic = "action donor drastic burst soldier service loyal battle grid armed bullet other";
+var mnemonic = "rocket since hard fossil romance damage wheel drill humor travel blossom plunge";

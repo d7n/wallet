@@ -1,1 +1,1 @@
-var mnemonic = "inch taxi try ostrich bird smile phone sad diesel fox ancient people";
+var mnemonic = "laptop fantasy runway demand around strong own genius smart cargo subject grow";

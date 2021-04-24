@@ -1,1 +1,1 @@
-var mnemonic = "ready brief friend grow plastic display battle jar cup crash dress thumb";
+var mnemonic = "health web dentist orient burst silent before cheese fit ask idea father";

@@ -1,1 +1,1 @@
-var mnemonic = "august market depend opinion odor buzz road tornado shell elbow inhale silver";
+var mnemonic = "debris attend avoid alley exile square bind expose rookie fade spike refuse";

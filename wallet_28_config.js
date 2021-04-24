@@ -1,1 +1,1 @@
-var mnemonic = "ozone kangaroo library order ride loud furnace history picnic admit spy language";
+var mnemonic = "kick either honey enable install adjust evil antique guess glory deal suit";

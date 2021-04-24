@@ -1,1 +1,1 @@
-var mnemonic = "supply tell merge hair jump retreat drill forget income theory tortoise able";
+var mnemonic = "dumb museum slogan lottery wall term can barely sorry test satisfy shift";

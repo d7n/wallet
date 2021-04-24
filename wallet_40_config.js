@@ -1,1 +1,1 @@
-var mnemonic = "actress convince grab develop liar awesome race cream butter wagon casino suffer";
+var mnemonic = "forward risk sense eight that valid update sure pair render scheme vote";

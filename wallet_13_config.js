@@ -1,1 +1,1 @@
-var mnemonic = "violin cage trade ranch parent skull tilt leg material fall travel top";
+var mnemonic = "mistake reject slice wagon client master movie expect arena chunk promote gloom";

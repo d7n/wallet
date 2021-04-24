@@ -1,1 +1,1 @@
-var mnemonic = "shock envelope flower ten brain column divert few south smoke outside limb";
+var mnemonic = "finger float glass size tuna output nasty decade camera scan beef east";

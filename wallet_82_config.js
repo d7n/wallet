@@ -1,1 +1,1 @@
-var mnemonic = "balance spoon spot ball nation dog coral never aware grocery parrot forget";
+var mnemonic = "nasty photo victory lamp zone lens brand cable dice twin busy shallow";

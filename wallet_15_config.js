@@ -1,1 +1,1 @@
-var mnemonic = "verify unusual night jump thank opera raccoon video supply loud effort cabbage";
+var mnemonic = "fresh trigger bulb motor wolf census traffic account pride coconut salmon sudden";

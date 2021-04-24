@@ -1,1 +1,1 @@
-var mnemonic = "space spice library trash popular access amount soda dignity easy salmon laugh";
+var mnemonic = "include shield riot air cotton gather color until autumn canal moment carbon";

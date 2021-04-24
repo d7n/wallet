@@ -1,1 +1,1 @@
-var mnemonic = "portion sail craft report coconut zoo east bracket erosion copy dash tone";
+var mnemonic = "discover solar slush moon senior fragile donate photo false behave town bamboo";

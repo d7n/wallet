@@ -1,1 +1,1 @@
-var mnemonic = "dolphin disease ethics year cart mixed legal artwork heart target engine ocean";
+var mnemonic = "volume festival laptop item moral nature bus furnace hungry stereo stone modify";

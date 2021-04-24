@@ -1,1 +1,1 @@
-var mnemonic = "suit cost fun spatial coral adapt own welcome border tobacco miss deal";
+var mnemonic = "squirrel rice grace curious okay grit job melt frame absorb carpet doctor";

@@ -1,1 +1,1 @@
-var mnemonic = "tourist census pave destroy enact gospel okay mule senior raw action route";
+var mnemonic = "gun myth crew theory twice long kitten pyramid erode state shield olive";
