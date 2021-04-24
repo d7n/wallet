@@ -1,1 +1,1 @@
-var mnemonic = "kid unveil small confirm there clay vicious helmet lawn pioneer harvest danger";
+var mnemonic = "survey unhappy update help logic business injury original corn witness clever hard";

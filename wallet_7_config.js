@@ -1,1 +1,1 @@
-var mnemonic = "own champion pumpkin salmon between stone fiscal siege claim similar riot hundred";
+var mnemonic = "present million target secret company amateur cinnamon funny cable endorse pen until";

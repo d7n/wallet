@@ -1,1 +1,1 @@
-var mnemonic = "switch glance clean welcome little hotel twin patrol embrace tiny govern erosion";
+var mnemonic = "broom fitness much stick upgrade beach animal duty comic fox height shiver";

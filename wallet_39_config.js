@@ -1,1 +1,1 @@
-var mnemonic = "canal lunch penalty window child grain extend material ancient transfer day arrange";
+var mnemonic = "inherit black can farm detail vacuum chef extra suit card wage chief";

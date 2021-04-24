@@ -1,1 +1,1 @@
-var mnemonic = "mushroom edge artist actual element accuse pink embody initial sponsor round usual";
+var mnemonic = "become clump vibrant excess wear potato calm robust embody nerve indicate entry";

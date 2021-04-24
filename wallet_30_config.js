@@ -1,1 +1,1 @@
-var mnemonic = "episode strong inmate melody resemble leader guitar pilot canyon bench limb burst";
+var mnemonic = "debris inflict find manual they anchor share build napkin program trap salon";

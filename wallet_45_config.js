@@ -1,1 +1,1 @@
-var mnemonic = "option rose fruit bracket cruise camera detail useless frown scheme opera clean";
+var mnemonic = "muffin mountain festival energy social under sheriff process dad violin smart cotton";

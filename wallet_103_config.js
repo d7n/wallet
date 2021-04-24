@@ -1,1 +1,1 @@
-var mnemonic = "supreme topple beef happy truly fox differ blood lens cage basic capital";
+var mnemonic = "heart prepare witness pencil biology impose skill moon fitness rug gown swamp";

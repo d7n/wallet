@@ -1,1 +1,1 @@
-var mnemonic = "holiday tragic abstract opera kidney basic sunset flock purse survey corn imitate";
+var mnemonic = "neck inflict family hospital output unveil ecology love gallery exact cabin green";

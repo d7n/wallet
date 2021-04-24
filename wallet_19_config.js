@@ -1,1 +1,1 @@
-var mnemonic = "trade tunnel switch laugh fog heart pony burden narrow right great ring";
+var mnemonic = "scene lounge okay radar someone shield rebuild country ship deliver fancy jazz";

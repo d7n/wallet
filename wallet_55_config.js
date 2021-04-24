@@ -1,1 +1,1 @@
-var mnemonic = "soul resource noise knock ability must empty swarm yard eye curious green";
+var mnemonic = "solution ecology nurse motor small wagon owner street school photo roast kitchen";

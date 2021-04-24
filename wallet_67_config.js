@@ -1,1 +1,1 @@
-var mnemonic = "pepper day crunch carpet consider visual tongue wrap park arch earn army";
+var mnemonic = "fog flat pass rubber perfect fee dentist quarter gesture grit earth isolate";

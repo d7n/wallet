@@ -1,1 +1,1 @@
-var mnemonic = "lunch paddle divorce flag material celery task defy toddler food champion wine";
+var mnemonic = "rate garment deal demand reduce reunion ecology space emotion notable crater eternal";

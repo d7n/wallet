@@ -1,1 +1,1 @@
-var mnemonic = "morning tragic crumble earn list excess cricket biology brown trap tobacco escape";
+var mnemonic = "text wrestle federal true grass scale body trick couch wood more live";

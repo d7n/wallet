@@ -1,1 +1,1 @@
-var mnemonic = "rather fever cook glow ordinary custom country valley tennis craft program pyramid";
+var mnemonic = "dinosaur cake easy word husband shoot pony team romance glow jazz outside";

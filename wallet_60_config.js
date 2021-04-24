@@ -1,1 +1,1 @@
-var mnemonic = "fancy banana sorry festival crash tourist vault brush volume oven imitate junior";
+var mnemonic = "boss message give party draft stuff distance search enable shield senior boost";

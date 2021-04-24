@@ -1,1 +1,1 @@
-var mnemonic = "record slide grocery end gown grant address drink idea cross meadow typical";
+var mnemonic = "disagree grace glow park mystery load mystery reason join limb purity road";

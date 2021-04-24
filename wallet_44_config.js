@@ -1,1 +1,1 @@
-var mnemonic = "junior mushroom wing position brand repeat olive convince defy minute cloth warrior";
+var mnemonic = "undo fabric tenant source dial gain figure funny best welcome tumble smart";

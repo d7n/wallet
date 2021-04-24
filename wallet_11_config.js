@@ -1,1 +1,1 @@
-var mnemonic = "rescue small try bracket meat limb toy move six awful clutch stereo";
+var mnemonic = "kitten wear senior best uncover any artefact cabin artist fossil dream hat";

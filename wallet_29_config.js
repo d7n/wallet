@@ -1,1 +1,1 @@
-var mnemonic = "voyage clever lottery sand wheel alien scatter filter blossom loud drive hockey";
+var mnemonic = "copper alter song rather network acquire domain brave unlock injury skull rail";

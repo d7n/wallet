@@ -1,1 +1,1 @@
-var mnemonic = "cram fragile radio repair toy sketch ripple impulse similar ugly pig session";
+var mnemonic = "chapter battle foster wood obtain equal shrug obey symptom seven taste pass";

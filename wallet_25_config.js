@@ -1,1 +1,1 @@
-var mnemonic = "mango photo zoo betray uphold lend thrive address ring photo loan save";
+var mnemonic = "human poverty mouse mimic candy tattoo cram edit sudden radio false office";

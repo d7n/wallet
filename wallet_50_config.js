@@ -1,1 +1,1 @@
-var mnemonic = "during betray finger crater dance spin skill leave mail rifle chef swap";
+var mnemonic = "hand napkin vehicle style pretty spider soup grow apart angry artwork silly";

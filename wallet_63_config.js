@@ -1,1 +1,1 @@
-var mnemonic = "blame broccoli document shoulder season ice hollow post bargain chunk uncover town";
+var mnemonic = "mass movie warm wine creek elephant skill peanut urban exhaust cream pelican";

@@ -1,1 +1,1 @@
-var mnemonic = "trick silent cradle powder little pretty return slim cupboard bulb man burger";
+var mnemonic = "kingdom rib mother weather system session primary visit fiscal wealth ski worry";

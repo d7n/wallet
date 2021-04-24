@@ -1,1 +1,1 @@
-var mnemonic = "ten seek voice length someone tooth camp item artefact enact bounce inflict";
+var mnemonic = "market apology amused exercise fury write foot notice away excess chef picnic";

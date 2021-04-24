@@ -1,1 +1,1 @@
-var mnemonic = "access material anger erase repair student sight february tuna exile proud attack";
+var mnemonic = "shell soap lamp donate what object car husband inch lens air meadow";

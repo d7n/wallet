@@ -1,1 +1,1 @@
-var mnemonic = "danger monitor fury embrace logic credit bread motion source above saddle very";
+var mnemonic = "alert own fame tomorrow junior toy hidden left bounce verify involve envelope";

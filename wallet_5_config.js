@@ -1,1 +1,1 @@
-var mnemonic = "soda six soda glow agree staff obey indicate physical alert invite beauty";
+var mnemonic = "foam album drop trial draft subway moral budget pen unusual heart make";

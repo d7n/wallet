@@ -1,1 +1,1 @@
-var mnemonic = "guard tiger helmet neglect submit meadow suggest dragon fabric useless disorder gauge";
+var mnemonic = "fog gesture toy talent sugar olympic expect blood wire tilt tell quantum";

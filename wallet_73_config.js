@@ -1,1 +1,1 @@
-var mnemonic = "employ glimpse mad until express custom exact permit page artefact leader lamp";
+var mnemonic = "fruit shadow weird attack sweet town dog napkin slide decade flat language";

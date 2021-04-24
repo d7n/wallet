@@ -1,1 +1,1 @@
-var mnemonic = "author flag clean setup version voyage witness fold feel prevent then riot";
+var mnemonic = "taxi talk blossom caught rival wide evidence one dutch simple speak flee";

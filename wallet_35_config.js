@@ -1,1 +1,1 @@
-var mnemonic = "rather life wheel bargain behind success oxygen party uncover chronic problem clown";
+var mnemonic = "pulp hire toward ankle wonder cream slogan join month renew song trap";

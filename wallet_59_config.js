@@ -1,1 +1,1 @@
-var mnemonic = "fold spirit lamp setup fabric lounge barely current thrive spend forward jacket";
+var mnemonic = "marriage urban six warrior shed maximum envelope manual dose season globe all";

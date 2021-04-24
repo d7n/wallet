@@ -1,1 +1,1 @@
-var mnemonic = "heavy razor sketch liar palace snake pull success bid sniff glad gain";
+var mnemonic = "vocal vault plate flavor amateur parrot axis extra gate session wheat horse";

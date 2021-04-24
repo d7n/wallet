@@ -1,1 +1,1 @@
-var mnemonic = "shadow wrong country napkin muscle can chimney hill kingdom giraffe creek they";
+var mnemonic = "vehicle tumble neither educate unknown pause visual joke hurry first tired bean";

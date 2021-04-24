@@ -1,1 +1,1 @@
-var mnemonic = "total relax square ridge noble stock truth ribbon victory fault congress drip";
+var mnemonic = "decide later renew either float object venture vicious erase humble arena daughter";

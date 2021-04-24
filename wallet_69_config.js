@@ -1,1 +1,1 @@
-var mnemonic = "lawn lobster cattle angry hurry poverty small burst liar baby cost intact";
+var mnemonic = "grunt company welcome ketchup grab harbor liberty merit erase evidence buddy forget";

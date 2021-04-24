@@ -1,1 +1,1 @@
-var mnemonic = "easily daring dwarf beauty write toward fly coyote scale fatigue ride fold";
+var mnemonic = "honey clerk robot mail crucial idle life suspect agent stock illegal liar";

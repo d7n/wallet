@@ -1,1 +1,1 @@
-var mnemonic = "steel phone once action coconut promote butter reunion actual salad whale tip";
+var mnemonic = "sleep payment version mimic resist ivory scheme style picture indoor insect result";

@@ -1,1 +1,1 @@
-var mnemonic = "enroll cram march hero deer blouse ripple brown hour black want warm";
+var mnemonic = "jeans fog fortune become wreck sausage hammer fuel middle wide pupil sing";

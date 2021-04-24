@@ -1,1 +1,1 @@
-var mnemonic = "bonus lava rice own educate other joy rally loyal salmon effort tragic";
+var mnemonic = "eagle camera silly random hobby mail actual vague wild auction turtle boring";

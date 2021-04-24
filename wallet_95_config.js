@@ -1,1 +1,1 @@
-var mnemonic = "mercy wear modify bulb enact proud sure metal ostrich detect noise rug";
+var mnemonic = "ignore screen sock moment spice logic income insect culture divide wagon draft";

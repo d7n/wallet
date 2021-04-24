@@ -1,1 +1,1 @@
-var mnemonic = "vessel foam sunny extend raise fresh foster donkey verify sick author fade";
+var mnemonic = "scan wedding tongue hungry fox position shy airport sausage suspect riot clever";

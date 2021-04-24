@@ -1,1 +1,1 @@
-var mnemonic = "tourist impose subject come jealous hedgehog casino hole grant cushion blast potato";
+var mnemonic = "jealous engine success knee dragon bamboo girl feed silver cereal fee minor";

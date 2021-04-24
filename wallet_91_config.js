@@ -1,1 +1,1 @@
-var mnemonic = "mention involve lamp copper dwarf will culture flash demand proud bar bar";
+var mnemonic = "crunch prepare sing miss switch diagram kiss cement purse filter bar verify";

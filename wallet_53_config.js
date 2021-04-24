@@ -1,1 +1,1 @@
-var mnemonic = "theory wrap fashion emotion topple yard awful more distance else forward light";
+var mnemonic = "under celery liquid wish club search liar enable assault tool film mad";

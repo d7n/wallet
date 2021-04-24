@@ -1,1 +1,1 @@
-var mnemonic = "wedding maid december genuine tenant much stadium math decorate oval heavy knife";
+var mnemonic = "load luxury bind annual sample identify airport appear word laptop program direct";

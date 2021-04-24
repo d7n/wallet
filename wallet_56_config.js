@@ -1,1 +1,1 @@
-var mnemonic = "chalk sphere clip help bubble vehicle couch divert fatigue ritual family fortune";
+var mnemonic = "south unlock name swing jealous once donor autumn width draw ceiling local";

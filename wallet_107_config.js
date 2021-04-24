@@ -1,1 +1,1 @@
-var mnemonic = "meadow ticket will vocal rug door express book bag treat tongue tape";
+var mnemonic = "people forest display dutch cat success smooth mushroom casino shiver load crime";

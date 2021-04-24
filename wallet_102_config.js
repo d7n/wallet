@@ -1,1 +1,1 @@
-var mnemonic = "turn slow person lizard kitchen rhythm front spider elite undo found rookie";
+var mnemonic = "discover uncover truck sail also injury hen true dirt deposit bullet like";

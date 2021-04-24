@@ -1,1 +1,1 @@
-var mnemonic = "random marriage tattoo resource hockey image mesh phrase faith awake hope action";
+var mnemonic = "question open occur wealth junk step all van runway apple degree crush";

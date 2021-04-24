@@ -1,1 +1,1 @@
-var mnemonic = "federal primary drama stamp stomach various general stand category correct truth cabbage";
+var mnemonic = "gravity also siege sting unknown neutral repair soap setup rose wide unveil";

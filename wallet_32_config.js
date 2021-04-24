@@ -1,1 +1,1 @@
-var mnemonic = "wear measure notice enjoy real another vital duty trouble kick pause mean";
+var mnemonic = "tell dog ability memory hidden such advance age various hire fury surface";

@@ -1,1 +1,1 @@
-var mnemonic = "fun air swamp gravity dinner morning behind acoustic dog useful gasp avoid";
+var mnemonic = "credit radar roof choice need afford marine physical fiction inch day tiny";

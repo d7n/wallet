@@ -1,1 +1,1 @@
-var mnemonic = "pole tide write swim carbon throw question distance catch purity describe radio";
+var mnemonic = "ski mansion maid delay popular wash document empower cluster weasel size destroy";

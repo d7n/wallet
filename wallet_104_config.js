@@ -1,1 +1,1 @@
-var mnemonic = "range tribe grace tenant dial remove salon weather vault oval sweet chef";
+var mnemonic = "rent mechanic edge wall giant sample plate farm naive floor giggle duty";

@@ -1,1 +1,1 @@
-var mnemonic = "teach upon license coyote glory tent agree hub put eyebrow cook horror";
+var mnemonic = "vital hour display wheel snow goat heavy rescue lesson riot juice east";

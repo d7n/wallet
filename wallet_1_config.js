@@ -1,1 +1,1 @@
-var mnemonic = "hover process lottery family razor sniff lazy draft dignity until conduct hill";
+var mnemonic = "sausage symbol ramp dirt decorate another awesome course shallow foam sail mobile";

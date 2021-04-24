@@ -1,1 +1,1 @@
-var mnemonic = "scatter ribbon bridge grid match bar garden exhaust ketchup misery female feel";
+var mnemonic = "donkey bunker harvest trophy shoot inquiry mail answer lake edit gold two";

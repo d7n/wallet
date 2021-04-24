@@ -1,1 +1,1 @@
-var mnemonic = "pluck truly west segment near tennis enrich atom sell daughter ozone weasel";
+var mnemonic = "portion face exhaust biology three multiply hotel throw anxiety render gloom reason";

@@ -1,1 +1,1 @@
-var mnemonic = "pole original erode soul track when gossip table audit then flavor barrel";
+var mnemonic = "often present practice market shell pelican whip forum honey concert abuse balance";

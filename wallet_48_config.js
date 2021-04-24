@@ -1,1 +1,1 @@
-var mnemonic = "daughter unlock panic taxi urge cloth fresh female general easily mad flight";
+var mnemonic = "wolf raw remove prepare design world month fortune half envelope lizard panic";

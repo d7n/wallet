@@ -1,1 +1,1 @@
-var mnemonic = "permit disorder material entry nominee cinnamon bleak nerve nuclear warfare wood suggest";
+var mnemonic = "castle deputy crash twin item few noodle gain erosion clerk toddler abstract";

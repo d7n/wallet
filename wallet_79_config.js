@@ -1,1 +1,1 @@
-var mnemonic = "inject possible umbrella note open virtual travel slush grape brown image diamond";
+var mnemonic = "artist jelly cattle home science equip camp aunt remind beef motion rate";

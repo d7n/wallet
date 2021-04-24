@@ -1,1 +1,1 @@
-var mnemonic = "social margin staff bring lady bread citizen divert lemon stove pill want";
+var mnemonic = "around payment quick dynamic magic custom humble episode rate legend must bargain";

@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit satoshi frog sphere armor about cannon lady cream choice great apology";
+var mnemonic = "note rally caution soup neck away nation bamboo leopard wide noise unfold";

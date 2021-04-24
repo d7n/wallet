@@ -1,1 +1,1 @@
-var mnemonic = "luggage only bachelor industry liquid brand cactus rabbit diagram script tiny total";
+var mnemonic = "visual dial palace proof myth roof apart divide slush track liar unhappy";

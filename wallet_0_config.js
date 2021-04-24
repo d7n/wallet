@@ -1,1 +1,1 @@
-var mnemonic = "awful favorite banner plastic decade sick coyote unusual vehicle age deliver summer";
+var mnemonic = "super trip payment truck reunion security dice flame solid situate obscure rent";

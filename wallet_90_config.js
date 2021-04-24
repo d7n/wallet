@@ -1,1 +1,1 @@
-var mnemonic = "can length roast grape toy region pool today rabbit proof hope knee";
+var mnemonic = "pole seven human slab finger fox slam copy short spoil select raise";

@@ -1,1 +1,1 @@
-var mnemonic = "walnut cabin state skate sick fabric neutral buffalo usual maid thrive permit";
+var mnemonic = "hair radio enter easily member name coin desert critic cage similar mass";

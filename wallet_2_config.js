@@ -1,1 +1,1 @@
-var mnemonic = "weasel ready nominee capable promote mango fancy result dinosaur minor latin army";
+var mnemonic = "become enforce hour grape actor swing plastic detect cruise various buzz federal";

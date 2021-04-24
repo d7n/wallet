@@ -1,1 +1,1 @@
-var mnemonic = "always mean awake master hawk pause bachelor magnet sweet split repair logic";
+var mnemonic = "claim tunnel evoke mass coil knife crane skate bitter bullet butter narrow";

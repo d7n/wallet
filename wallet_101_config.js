@@ -1,1 +1,1 @@
-var mnemonic = "original impact fabric hazard chat update useful drastic impose fault earth dignity";
+var mnemonic = "similar chimney rabbit hockey arch kind surround obscure elder example hurry absorb";

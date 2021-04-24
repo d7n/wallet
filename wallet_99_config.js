@@ -1,1 +1,1 @@
-var mnemonic = "step pool upgrade faith script liberty over coast tape inhale earn crucial";
+var mnemonic = "sheriff mouse pole divorce wool nurse crisp minimum manual myself hybrid exotic";

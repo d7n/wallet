@@ -1,1 +1,1 @@
-var mnemonic = "inherit foster analyst surge office girl tuition throw receive dose lazy away";
+var mnemonic = "candy dove festival acid second cradle pretty turkey decide nice toe submit";

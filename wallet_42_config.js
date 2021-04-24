@@ -1,1 +1,1 @@
-var mnemonic = "auction you crazy obvious deposit accident hair network flip stage stadium often";
+var mnemonic = "search guilt deliver strike wrist march worth surge wear leave elephant segment";

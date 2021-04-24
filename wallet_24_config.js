@@ -1,1 +1,1 @@
-var mnemonic = "silly that become group fence october cheese spike man predict dune develop";
+var mnemonic = "client dash furnace fringe bus used patch fork renew task fit lawn";

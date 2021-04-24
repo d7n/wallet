@@ -1,1 +1,1 @@
-var mnemonic = "december beauty anger armed calm bar rotate odor thrive runway mutual update";
+var mnemonic = "leader spoil then build team enroll hen earn rival upset baby steak";

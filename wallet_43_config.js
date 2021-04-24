@@ -1,1 +1,1 @@
-var mnemonic = "raccoon arm honey torch soldier pottery desk castle rail trend merge food";
+var mnemonic = "liberty slab bubble north world shadow nephew blanket spread order bounce wrap";

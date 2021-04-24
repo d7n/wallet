@@ -1,1 +1,1 @@
-var mnemonic = "practice media give twin kick dad panel calm pause side inmate hazard";
+var mnemonic = "vivid family find extra donor fringe remember able vivid odor town surface";

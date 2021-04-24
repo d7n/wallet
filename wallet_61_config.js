@@ -1,1 +1,1 @@
-var mnemonic = "omit fruit dentist someone notice decline city brand obtain reward ability east";
+var mnemonic = "matter shuffle exotic artefact staff script town pipe muffin present until drill";

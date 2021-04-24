@@ -1,1 +1,1 @@
-var mnemonic = "tomato thought tag sunny tackle antenna hungry zone mountain ancient appear vocal";
+var mnemonic = "clap sustain cross office abuse purpose onion tonight door tent return area";

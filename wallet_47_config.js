@@ -1,1 +1,1 @@
-var mnemonic = "secret youth sand repeat buzz train lock mind vacuum path target emotion";
+var mnemonic = "shell spirit uncle mimic silly taste believe hello solar swamp enter impact";

@@ -1,1 +1,1 @@
-var mnemonic = "true table bundle awkward panic flash audit valid tired mask click ability";
+var mnemonic = "daughter curious hazard need blade material sell danger engine tide lava giraffe";

@@ -1,1 +1,1 @@
-var mnemonic = "flag duty resource income lumber escape notable useless merge sugar because fault";
+var mnemonic = "butter atom goose orphan diet sphere season fine tornado rapid runway enact";
