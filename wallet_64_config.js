@@ -1,1 +1,1 @@
-var mnemonic = "pool fish olympic script leopard three ritual one bar country absent basic";
+var mnemonic = "alien drop ring either fitness seek photo dress initial reopen loan pen";

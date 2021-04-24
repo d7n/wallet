@@ -1,1 +1,1 @@
-var mnemonic = "include area disease flip story quote dutch crunch until about army model";
+var mnemonic = "plug wash police page poverty bacon own switch large bike broccoli thrive";

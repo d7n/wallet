@@ -1,1 +1,1 @@
-var mnemonic = "make rebel mixture company digital patient inside ostrich universe tiny angry unaware";
+var mnemonic = "demise february speak demand style display stage lounge clown shift insect coyote";

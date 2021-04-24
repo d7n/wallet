@@ -1,1 +1,1 @@
-var mnemonic = "kiwi seminar ride edit pelican minimum staff increase join pilot bunker under";
+var mnemonic = "laugh enforce lobster seed popular merit man soft client recall december parrot";

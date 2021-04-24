@@ -1,1 +1,1 @@
-var mnemonic = "glare robust retreat near lake glide install gas feed crater crime deliver";
+var mnemonic = "science cute shock mango post allow coffee lyrics message switch laptop identify";

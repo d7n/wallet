@@ -1,1 +1,1 @@
-var mnemonic = "purity knife return cabbage torch round bunker elbow color hair unable fade";
+var mnemonic = "deer axis panther creek jaguar catch lecture throw divide sure work deposit";

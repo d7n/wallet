@@ -1,1 +1,1 @@
-var mnemonic = "profit dinosaur pony sunny pen cost whip priority atom wool owner eye";
+var mnemonic = "vapor ecology craft pride hurry biology resource ball enroll turkey away athlete";

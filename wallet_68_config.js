@@ -1,1 +1,1 @@
-var mnemonic = "work ill tower broken display method depend shell lounge club bench clown";
+var mnemonic = "desk run habit actor culture scout trick submit dutch family noble habit";

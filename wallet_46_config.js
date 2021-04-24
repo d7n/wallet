@@ -1,1 +1,1 @@
-var mnemonic = "element chronic nerve bubble crucial grape artist conduct ship pave bargain fatal";
+var mnemonic = "ski figure guard allow into volume orphan scene same earth genius suggest";

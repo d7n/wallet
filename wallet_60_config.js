@@ -1,1 +1,1 @@
-var mnemonic = "popular unlock erosion noble bulb wheat any west jungle enroll drive mutual";
+var mnemonic = "arrive buyer caution tag spend return vintage tragic arrow walk quick cancel";

@@ -1,1 +1,1 @@
-var mnemonic = "piano tobacco pear again thought peanut wide model ostrich spider rate receive";
+var mnemonic = "strike mirror burst betray evolve mountain maid owner dash place robot flush";

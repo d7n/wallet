@@ -1,1 +1,1 @@
-var mnemonic = "venture carpet level bronze entry naive mechanic body alcohol ghost wink bench";
+var mnemonic = "elephant park item shift subject gallery crack motion machine transfer muscle all";

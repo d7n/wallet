@@ -1,1 +1,1 @@
-var mnemonic = "dune twin ride tattoo unhappy upper ensure cinnamon want fresh asset apple";
+var mnemonic = "around large breeze fit oven market ginger project piano fan deposit naive";

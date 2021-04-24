@@ -1,1 +1,1 @@
-var mnemonic = "waste erase usage album level weapon setup mention charge donkey ocean evil";
+var mnemonic = "tired seat nest action hero common merry share tiny chronic panel whale";

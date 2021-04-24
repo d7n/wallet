@@ -1,1 +1,1 @@
-var mnemonic = "acquire hockey orchard ring napkin nuclear blade tongue easy novel subject pipe";
+var mnemonic = "wash turn middle private rural million liquid beauty enough bonus tired end";

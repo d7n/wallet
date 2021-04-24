@@ -1,1 +1,1 @@
-var mnemonic = "hen cotton muscle baby alien metal cup century swear supply phone energy";
+var mnemonic = "marriage kidney vehicle differ impact because stairs nest crumble acoustic near pizza";

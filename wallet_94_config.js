@@ -1,1 +1,1 @@
-var mnemonic = "swamp elite retire mandate illegal trust lemon oblige report pepper problem pioneer";
+var mnemonic = "find tag horse shoot clock vicious badge little reason merit lazy pond";

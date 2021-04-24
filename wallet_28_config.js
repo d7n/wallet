@@ -1,1 +1,1 @@
-var mnemonic = "armor silver define next elephant bar south shed sting uniform negative mimic";
+var mnemonic = "promote math monkey inflict chicken say core mansion gossip drum notable text";

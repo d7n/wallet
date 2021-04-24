@@ -1,1 +1,1 @@
-var mnemonic = "attract live museum typical wait rib enrich online green battle strike voice";
+var mnemonic = "nominee lesson rigid undo circle shop exact apology dress echo gauge age";

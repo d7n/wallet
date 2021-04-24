@@ -1,1 +1,1 @@
-var mnemonic = "laugh wire path final mean trade flee pill buyer ivory amused camera";
+var mnemonic = "because fog edit sure bracket wire arrange artefact move odor ivory undo";

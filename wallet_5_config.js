@@ -1,1 +1,1 @@
-var mnemonic = "olive tiger century wreck spice dawn promote noble thumb couch roast local";
+var mnemonic = "merge sting ahead size minor kidney camera ankle pistol air face humble";

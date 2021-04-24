@@ -1,1 +1,1 @@
-var mnemonic = "feature game note exercise record march approve tent network embody local divert";
+var mnemonic = "tragic tube stand right exercise opinion lift spring slim tone hurt chase";

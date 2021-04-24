@@ -1,1 +1,1 @@
-var mnemonic = "invite aware country safe only horn angry often dutch title hazard joke";
+var mnemonic = "neck where multiply word frog salon install youth buzz twelve ribbon sibling";

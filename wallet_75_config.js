@@ -1,1 +1,1 @@
-var mnemonic = "shed visa wild square wool body diesel mouse roof belt error damp";
+var mnemonic = "clinic cute original track field decorate two excuse address sustain casino pupil";

@@ -1,1 +1,1 @@
-var mnemonic = "penalty one draft veteran hurt visit exist bronze student verb scorpion brick";
+var mnemonic = "industry host excuse exotic unfair bachelor nose such myself weasel harbor hotel";

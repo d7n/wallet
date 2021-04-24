@@ -1,1 +1,1 @@
-var mnemonic = "gap seat drip aunt judge guilt kind symbol stone abuse artwork tent";
+var mnemonic = "asthma marine faint two attend work interest absurd mushroom match attack arrow";

@@ -1,1 +1,1 @@
-var mnemonic = "truth cliff square tip april type inside okay fever diagram cute high";
+var mnemonic = "town achieve grass shove cup orange session glue boss fabric blush fiction";

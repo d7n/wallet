@@ -1,1 +1,1 @@
-var mnemonic = "shoulder phone gas double sense type vault bracket trigger squirrel bachelor monster";
+var mnemonic = "genuine blood company unique mass opinion body better battle ancient junior educate";

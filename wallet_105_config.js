@@ -1,1 +1,1 @@
-var mnemonic = "inherit travel rally butter wear change deer cupboard license virus update carry";
+var mnemonic = "sense until jaguar orange unlock steel heavy math female glove wage cruise";

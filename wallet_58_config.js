@@ -1,1 +1,1 @@
-var mnemonic = "shoot world atom poem around code river census proud differ update whip";
+var mnemonic = "enlist sister antenna arena wash cliff muscle eagle hollow culture gadget never";

@@ -1,1 +1,1 @@
-var mnemonic = "pottery upper any wreck outer stone text spice tilt oil nose trigger";
+var mnemonic = "near hen thought bread camera smart squeeze solution business slice trap cliff";

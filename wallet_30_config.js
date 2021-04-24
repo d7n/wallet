@@ -1,1 +1,1 @@
-var mnemonic = "issue about march detail paper lemon where mystery void drill loyal clip";
+var mnemonic = "cook saddle lucky curve coin when black lamp palace airport pulse clever";

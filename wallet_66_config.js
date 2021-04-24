@@ -1,1 +1,1 @@
-var mnemonic = "will mom seek atom knock follow catalog govern record taxi camp slender";
+var mnemonic = "caught glue onion desert join nut brother begin strategy use screen enact";

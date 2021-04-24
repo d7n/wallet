@@ -1,1 +1,1 @@
-var mnemonic = "tuna view impose dawn way smooth tip spread own lake tone filter";
+var mnemonic = "gas feel bracket wolf draft hobby remain glue secret grow summer addict";

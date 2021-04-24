@@ -1,1 +1,1 @@
-var mnemonic = "hello motor possible neutral ability brisk light moment chicken load card purse";
+var mnemonic = "gym weather grocery icon crazy hybrid middle witness certain curtain base crumble";

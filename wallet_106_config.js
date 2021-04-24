@@ -1,1 +1,1 @@
-var mnemonic = "admit party inform remain grow ramp height either angle shuffle night crumble";
+var mnemonic = "prefer grape mistake refuse sheriff replace inhale strike spray truck recipe agree";

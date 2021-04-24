@@ -1,1 +1,1 @@
-var mnemonic = "poet deposit dish merry trash angle unlock goose gospel faculty okay happy";
+var mnemonic = "village siren noodle festival ripple bicycle cloth resist float degree slim logic";

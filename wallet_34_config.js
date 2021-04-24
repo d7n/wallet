@@ -1,1 +1,1 @@
-var mnemonic = "borrow round junior indoor steel casual surface lazy mountain control spike patient";
+var mnemonic = "feature broccoli hip fan excuse gaze orphan popular spend float pass off";

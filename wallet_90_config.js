@@ -1,1 +1,1 @@
-var mnemonic = "ramp pioneer cash accident orphan desert syrup derive orchard exhibit tool crop";
+var mnemonic = "usual rail must original penalty melt announce promote trim alarm radar lyrics";

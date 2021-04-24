@@ -1,1 +1,1 @@
-var mnemonic = "upon jacket retire cruise leaf skull update accuse hub price pipe canoe";
+var mnemonic = "project tumble stumble toddler squeeze wasp dream program anger tube parent mistake";

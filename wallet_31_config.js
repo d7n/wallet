@@ -1,1 +1,1 @@
-var mnemonic = "mom mammal usage salon divert track emotion lamp ride person hello memory";
+var mnemonic = "pill title aspect panic arrow stable above tower list foot faculty forget";

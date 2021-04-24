@@ -1,1 +1,1 @@
-var mnemonic = "practice garage holiday clump athlete proud sphere maximum arctic chest sleep aware";
+var mnemonic = "enter valve hand glove scrub urban like detail crush gap shoe alone";

@@ -1,1 +1,1 @@
-var mnemonic = "magic direct safe clean father mistake truly forget good kingdom rookie road";
+var mnemonic = "discover actress cheese when clerk warm crew snack ridge okay match shallow";

@@ -1,1 +1,1 @@
-var mnemonic = "cargo original deliver drive health truly trap inmate slim error mammal install";
+var mnemonic = "until mandate patient unfold moment frequent metal practice meadow arch cousin barely";

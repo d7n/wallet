@@ -1,1 +1,1 @@
-var mnemonic = "future scatter buddy right permit spare elevator style message write security fragile";
+var mnemonic = "afford scout nominee figure mimic thing people test permit early spring ready";

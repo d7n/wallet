@@ -1,1 +1,1 @@
-var mnemonic = "door lemon mobile asset join hand chair victory develop razor crush smoke";
+var mnemonic = "habit need reunion tobacco popular snow popular february drift race wear emerge";

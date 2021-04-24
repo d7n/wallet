@@ -1,1 +1,1 @@
-var mnemonic = "chimney magic rack measure february antique element embody kangaroo soul junior mother";
+var mnemonic = "smoke mechanic clump asthma survey estate private soup tuna garage champion shoot";

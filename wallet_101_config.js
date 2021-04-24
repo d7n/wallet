@@ -1,1 +1,1 @@
-var mnemonic = "home grit clerk supply square draw uncover good rely trust cover slim";
+var mnemonic = "truth six night innocent coast hire winter assault neglect notice join phrase";

@@ -1,1 +1,1 @@
-var mnemonic = "mixed grocery castle fitness odor stable sponsor describe essay fruit team material";
+var mnemonic = "kind acquire hurry jump hurry uncover twist hero figure venue piece calm";

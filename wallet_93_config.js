@@ -1,1 +1,1 @@
-var mnemonic = "cram black general good better coconut vicious soup borrow tornado pencil whale";
+var mnemonic = "cement scorpion wall street venue funny adjust grow hold caught pluck feed";

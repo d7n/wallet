@@ -1,1 +1,1 @@
-var mnemonic = "hard govern hen toilet label obscure april black just merge only color";
+var mnemonic = "obtain badge foster pyramid hundred bean cancel decide blossom cherry place punch";

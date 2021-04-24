@@ -1,1 +1,1 @@
-var mnemonic = "kitten idea mother carbon pumpkin stool fog remain core clarify load depth";
+var mnemonic = "help tower strategy fire orphan badge also left lake reduce grunt usage";

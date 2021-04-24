@@ -1,1 +1,1 @@
-var mnemonic = "find obtain find range spray couch old fringe govern right under loud";
+var mnemonic = "vital inspire north sure mule math orient public blossom mutual jungle this";

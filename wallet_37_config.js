@@ -1,1 +1,1 @@
-var mnemonic = "alert ladder grant ready speed split fiction pulp engine absorb poverty arena";
+var mnemonic = "series mind chair shove fetch trap muscle seven soul gospel swear drill";

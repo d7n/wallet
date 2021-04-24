@@ -1,1 +1,1 @@
-var mnemonic = "whisper inside voice ozone size walnut guard conduct path joy lunch list";
+var mnemonic = "price maid return skirt piece earth giggle online slide glide jar rubber";

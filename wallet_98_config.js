@@ -1,1 +1,1 @@
-var mnemonic = "journey trade announce width lady meadow funny spice crane air dynamic year";
+var mnemonic = "chaos zoo another school network budget drive virtual ticket goose menu embody";

@@ -1,1 +1,1 @@
-var mnemonic = "shield detect sweet rule fossil destroy tunnel pepper arrange boring hybrid evolve";
+var mnemonic = "float hill inmate present shrimp web pill endless mango donate style pitch";

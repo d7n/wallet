@@ -1,1 +1,1 @@
-var mnemonic = "script catch pig fetch tone bacon busy village motor scout pelican nuclear";
+var mnemonic = "hurdle tooth convince glide adjust project upgrade stereo sibling this tonight have";

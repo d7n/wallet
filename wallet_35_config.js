@@ -1,1 +1,1 @@
-var mnemonic = "speed denial disagree clap fork bounce dove enact mushroom digital crumble bulk";
+var mnemonic = "point bind sleep raise hood exchange spoil bike visit gas fog glass";

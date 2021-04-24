@@ -1,1 +1,1 @@
-var mnemonic = "galaxy company vault filter muffin risk surface shoe wash angle siege portion";
+var mnemonic = "fresh virtual loud electric butter elbow dash member power chat off treat";

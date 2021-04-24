@@ -1,1 +1,1 @@
-var mnemonic = "thank economy slot enhance plunge isolate make merry tattoo shine tunnel small";
+var mnemonic = "link leg mimic ritual copy accident endless concert bind goddess rapid nest";

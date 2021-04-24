@@ -1,1 +1,1 @@
-var mnemonic = "unit begin clap glide beef film begin spoon stable sphere scrap grit";
+var mnemonic = "flock cheap gun shrimp slender skirt witness outside warm melody nuclear submit";

@@ -1,1 +1,1 @@
-var mnemonic = "recycle peasant hill front escape task sign give claim jeans sadness term";
+var mnemonic = "raise critic silent orange sure guitar sell jacket thank blood trial inject";

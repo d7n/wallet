@@ -1,1 +1,1 @@
-var mnemonic = "error artist ready cage alert circle domain employ index casino school argue";
+var mnemonic = "violin boat matter monster code hand kidney ticket push tourist muscle manual";

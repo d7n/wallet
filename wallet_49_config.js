@@ -1,1 +1,1 @@
-var mnemonic = "young job dwarf skill farm dog hungry open twin rug airport float";
+var mnemonic = "episode fashion thunder finger success vast current kit allow ugly muscle rather";

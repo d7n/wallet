@@ -1,1 +1,1 @@
-var mnemonic = "blush disagree above away hero pelican rifle asset vanish deny luggage confirm";
+var mnemonic = "argue vacant ahead sauce armed farm nuclear ask relax flavor license spread";

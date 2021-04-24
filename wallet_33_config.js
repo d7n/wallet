@@ -1,1 +1,1 @@
-var mnemonic = "direct piano napkin dash fruit brick deposit slender detect bone island critic";
+var mnemonic = "usual army pepper rib fire roast way panic vault few century shy";

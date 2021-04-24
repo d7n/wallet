@@ -1,1 +1,1 @@
-var mnemonic = "old glad comic brass idea entire rubber mimic appear october dad fatigue";
+var mnemonic = "urge pulse spring liar syrup apology subway funny dizzy negative session dentist";

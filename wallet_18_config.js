@@ -1,1 +1,1 @@
-var mnemonic = "snake palace barrel tag pioneer cause remain door piano crew where cram";
+var mnemonic = "swallow used panther salad degree step settle shaft wrist nature above onion";

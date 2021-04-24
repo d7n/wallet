@@ -1,1 +1,1 @@
-var mnemonic = "mom glide series document fish grocery bulk muscle awful dream sorry clap";
+var mnemonic = "ignore client atom search bunker tank culture gauge smooth mountain magnet wood";

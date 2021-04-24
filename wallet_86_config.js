@@ -1,1 +1,1 @@
-var mnemonic = "zero slow bottom camp genre pigeon subway upgrade math march duck giraffe";
+var mnemonic = "elite solve gaze include injury soldier brown outdoor slogan awful load deputy";

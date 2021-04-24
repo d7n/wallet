@@ -1,1 +1,1 @@
-var mnemonic = "bean remove soon pride soldier walk visa camp brush glide ginger divide";
+var mnemonic = "soup roast treat virtual dawn stool very flight horse summer flash process";

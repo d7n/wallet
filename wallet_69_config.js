@@ -1,1 +1,1 @@
-var mnemonic = "gas save more swarm enemy depth remove physical sauce list tattoo betray";
+var mnemonic = "vicious keep tired upgrade cigar trophy inspire essence cry wait profit food";

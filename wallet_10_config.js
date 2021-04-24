@@ -1,1 +1,1 @@
-var mnemonic = "describe large gentle aisle sorry diagram energy leaf know night split fork";
+var mnemonic = "century since library outer twice crowd humble manual rule region space absent";

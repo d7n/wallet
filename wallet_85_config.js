@@ -1,1 +1,1 @@
-var mnemonic = "delay album ask great immune topic fish ancient hobby prosper leaf element";
+var mnemonic = "rice wish gain unable chaos grief bike coil shrimp gown song relax";

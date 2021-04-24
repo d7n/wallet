@@ -1,1 +1,1 @@
-var mnemonic = "improve coil velvet decade ginger play during tobacco father exclude shoot glue";
+var mnemonic = "amount cup seat truck spend reform source effort latin icon obey tell";

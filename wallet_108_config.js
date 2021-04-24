@@ -1,1 +1,1 @@
-var mnemonic = "change bid sketch shove tongue pipe clump chalk grief advice flock whisper";
+var mnemonic = "travel verb attract club rural hover satoshi pyramid extend multiply kid cat";

@@ -1,1 +1,1 @@
-var mnemonic = "begin wrong cancel used picture ripple distance rally curious buzz auto beauty";
+var mnemonic = "barrel siege that auction just duck hedgehog laptop setup hunt pigeon visual";

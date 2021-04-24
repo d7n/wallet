@@ -1,1 +1,1 @@
-var mnemonic = "erase item lyrics carbon impact roof mechanic token royal flavor pool prosper";
+var mnemonic = "loop sad legal mimic opinion man already liar stock dial abstract forest";

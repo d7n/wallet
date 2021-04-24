@@ -1,1 +1,1 @@
-var mnemonic = "settle grape eye smoke pave size enjoy equip nasty crane climb boss";
+var mnemonic = "wine tenant hollow salmon moment reunion clerk damage immune erode bus aim";

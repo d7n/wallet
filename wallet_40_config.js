@@ -1,1 +1,1 @@
-var mnemonic = "enroll original upgrade problem figure cliff mixture observe uncle open table bomb";
+var mnemonic = "swear save crystal truck hotel motor when upon black poverty pottery degree";

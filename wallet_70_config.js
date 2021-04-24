@@ -1,1 +1,1 @@
-var mnemonic = "open heart man myth erode witness approve resource fragile surge ahead water";
+var mnemonic = "tag bamboo square wood attack ask human trial expect thumb ring pear";

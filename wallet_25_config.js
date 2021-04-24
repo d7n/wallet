@@ -1,1 +1,1 @@
-var mnemonic = "century tackle picnic main hurt this country pig awful clip betray cake";
+var mnemonic = "come ghost badge mercy token nephew peanut enjoy senior width ahead shock";

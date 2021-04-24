@@ -1,1 +1,1 @@
-var mnemonic = "kit family under crowd tenant pelican burger prepare destroy cousin own master";
+var mnemonic = "filter wheat receive chat pistol river identify chronic royal exit despair leave";

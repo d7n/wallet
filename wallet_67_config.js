@@ -1,1 +1,1 @@
-var mnemonic = "food veteran ball friend mask abstract almost subject taste snake ability feed";
+var mnemonic = "cattle dismiss flash crop item tide prefer gasp couch cause fossil else";

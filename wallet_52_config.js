@@ -1,1 +1,1 @@
-var mnemonic = "civil execute tortoise outdoor person lobster disease grid grid easy tree envelope";
+var mnemonic = "afford captain thought punch detail snake trash cement imitate liberty stem exclude";
