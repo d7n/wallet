@@ -1,1 +1,1 @@
-var mnemonic = "soul behind genius kick swing pave ring term ridge repeat science chicken";
+var mnemonic = "certain bacon south solar cram elder twist shove soccer party baby trim";

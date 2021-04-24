@@ -1,1 +1,1 @@
-var mnemonic = "illegal bone poem material viable play flat elevator muscle width mistake picnic";
+var mnemonic = "blind canal buffalo caught make finger vicious trust bullet immense gauge expire";

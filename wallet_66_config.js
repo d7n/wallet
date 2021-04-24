@@ -1,1 +1,1 @@
-var mnemonic = "prepare skirt mistake violin series cross judge case lesson clinic strong craft";
+var mnemonic = "rack ribbon pulp point priority staff among mistake aim round goat blush";

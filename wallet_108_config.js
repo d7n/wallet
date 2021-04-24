@@ -1,1 +1,1 @@
-var mnemonic = "accident parade decade vocal title minor hub bullet estate recall walnut unable";
+var mnemonic = "media top episode party child gadget isolate amateur stamp jazz luggage sting";

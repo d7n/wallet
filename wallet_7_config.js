@@ -1,1 +1,1 @@
-var mnemonic = "wet corn maze small job know cook night air present visual muscle";
+var mnemonic = "genuine disease civil slice perfect fabric frog obtain comfort stumble opinion gentle";

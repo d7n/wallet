@@ -1,1 +1,1 @@
-var mnemonic = "bulb arrest elder media rapid either sell divorce lab spawn refuse lonely";
+var mnemonic = "volume hat want noodle egg green neutral harvest blouse alter flavor hospital";

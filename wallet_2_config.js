@@ -1,1 +1,1 @@
-var mnemonic = "blade jewel saddle width fragile noise light fish social outdoor emotion guide";
+var mnemonic = "pretty green charge push genius drastic ill solution wheel noble involve maple";

@@ -1,1 +1,1 @@
-var mnemonic = "rubber lamp service dad option salt glue lumber unfold total fault gold";
+var mnemonic = "comic picnic achieve flame hair dial veteran prosper involve smooth twist kick";

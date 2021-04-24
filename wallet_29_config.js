@@ -1,1 +1,1 @@
-var mnemonic = "select stereo run portion dash damp dumb ostrich warm reopen abuse aisle";
+var mnemonic = "dinner syrup asthma blur affair easy woman venture scheme above reunion retire";

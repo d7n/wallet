@@ -1,1 +1,1 @@
-var mnemonic = "powder laptop jewel pizza prison jungle behind soul bicycle detect verb stage";
+var mnemonic = "eye begin steak cube light amused cable ozone hidden shrug stamp volcano";

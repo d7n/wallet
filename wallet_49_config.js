@@ -1,1 +1,1 @@
-var mnemonic = "pink finger unknown depart fitness help list avoid flock grocery rule recipe";
+var mnemonic = "blue fiscal bus today rail borrow improve birth install off enroll error";

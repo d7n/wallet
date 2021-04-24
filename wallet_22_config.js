@@ -1,1 +1,1 @@
-var mnemonic = "figure chalk develop hand weather motion awake suffer assume voice early circle";
+var mnemonic = "salon cart roast local decrease buzz fame toilet neglect pulp stable maximum";

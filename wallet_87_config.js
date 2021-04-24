@@ -1,1 +1,1 @@
-var mnemonic = "law crouch finger liberty illness rain damage cancel diet soda economy clarify";
+var mnemonic = "viable shrug cupboard icon praise galaxy sleep indicate street mosquito coral rich";

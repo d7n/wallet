@@ -1,1 +1,1 @@
-var mnemonic = "borrow kick summer junk regular curious crystal picture visual plate rapid lunch";
+var mnemonic = "source script citizen spike cloud awkward school pill either fortune hub okay";

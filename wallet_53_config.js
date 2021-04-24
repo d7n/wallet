@@ -1,1 +1,1 @@
-var mnemonic = "plunge whale clump hobby economy target metal depart noodle citizen once genuine";
+var mnemonic = "balcony token shallow ability civil umbrella iron cousin word model shell six";

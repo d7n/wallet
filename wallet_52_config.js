@@ -1,1 +1,1 @@
-var mnemonic = "harbor mercy indicate picnic dress area slender luggage when act rather amount";
+var mnemonic = "joke among fox luggage involve garage drastic giggle dismiss reveal discover regret";

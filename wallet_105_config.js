@@ -1,1 +1,1 @@
-var mnemonic = "injury song mosquito language like glad pilot wait wink dismiss warm prepare";
+var mnemonic = "catch illness embrace slush security bronze derive cattle noble little rough syrup";

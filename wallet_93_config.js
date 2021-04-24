@@ -1,1 +1,1 @@
-var mnemonic = "two slot crisp kite wall stumble hand device chunk start heavy energy";
+var mnemonic = "dynamic brand car own open garbage inner cry credit dinosaur shift shuffle";

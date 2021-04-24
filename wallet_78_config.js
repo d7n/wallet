@@ -1,1 +1,1 @@
-var mnemonic = "stomach real gospel lawsuit blanket test reject hero where life subject fluid";
+var mnemonic = "speak yellow adult toward wrist assume flavor shallow involve scrub dose circle";

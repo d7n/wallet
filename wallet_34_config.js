@@ -1,1 +1,1 @@
-var mnemonic = "catalog health often key bubble poverty pig ritual romance frequent evoke rib";
+var mnemonic = "simple when pulp trim cradle ask rookie exotic gasp mansion primary top";

@@ -1,1 +1,1 @@
-var mnemonic = "soldier inflict skill expand amateur crunch give volcano heavy enable fury sight";
+var mnemonic = "label turn taxi hire web shock enter exist more debris friend strike";

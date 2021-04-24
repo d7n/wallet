@@ -1,1 +1,1 @@
-var mnemonic = "transfer spare embrace syrup crucial off oxygen then lift palm rapid unable";
+var mnemonic = "silly decide quick mistake then celery obvious celery jealous enforce match tag";

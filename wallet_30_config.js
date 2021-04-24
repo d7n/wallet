@@ -1,1 +1,1 @@
-var mnemonic = "tube spray popular quiz turtle rare tobacco magnet physical crush mean salt";
+var mnemonic = "sing you drop discover spell problem follow wear ginger west audit despair";

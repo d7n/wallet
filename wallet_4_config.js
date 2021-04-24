@@ -1,1 +1,1 @@
-var mnemonic = "display genuine best bench vault false scale fatal turtle dust quote rude";
+var mnemonic = "lift enroll lonely embody unfold learn fragile timber diesel charge maximum boss";

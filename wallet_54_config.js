@@ -1,1 +1,1 @@
-var mnemonic = "phone busy result drill outside sniff dilemma hard hip train barely carry";
+var mnemonic = "private buffalo atom swap clean soul come decline rely short task toward";

@@ -1,1 +1,1 @@
-var mnemonic = "art combine day truth inhale suffer monitor current process fluid pistol victory";
+var mnemonic = "sugar defense addict step mesh version rocket best toast bag course include";

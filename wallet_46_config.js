@@ -1,1 +1,1 @@
-var mnemonic = "victory whisper bomb tomorrow vacant lottery remember try produce walnut suffer treat";
+var mnemonic = "scan lunch problem dawn success bind return gown devote canal urge clerk";

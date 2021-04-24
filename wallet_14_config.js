@@ -1,1 +1,1 @@
-var mnemonic = "major virtual craft member deer skill spoon elegant host fog path elbow";
+var mnemonic = "feature garden jacket chef fossil game nation real excite cannon prepare pet";

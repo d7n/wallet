@@ -1,1 +1,1 @@
-var mnemonic = "rough early upper betray good devote junk aim forest initial park spider";
+var mnemonic = "ancient parent gain possible refuse stove ten circle shuffle real since insect";

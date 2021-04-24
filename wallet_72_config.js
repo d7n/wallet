@@ -1,1 +1,1 @@
-var mnemonic = "guilt plate fork tunnel advance unfair develop tail junk occur lecture anxiety";
+var mnemonic = "trumpet shoulder radar skate submit gauge pencil insane moment elegant oak february";

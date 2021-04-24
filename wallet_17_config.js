@@ -1,1 +1,1 @@
-var mnemonic = "unique alone congress ostrich bar shoulder novel miss nature twelve income tourist";
+var mnemonic = "pill crew elder seed luggage grace have guilt blanket quote scan sell";

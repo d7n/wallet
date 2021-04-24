@@ -1,1 +1,1 @@
-var mnemonic = "put always cinnamon water rely monitor grow own castle ginger garbage surprise";
+var mnemonic = "shove hour energy remind leave rail famous stock corn throw umbrella apology";

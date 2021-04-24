@@ -1,1 +1,1 @@
-var mnemonic = "chest visa rigid topic hockey giraffe ketchup voice toss surround mercy march";
+var mnemonic = "sting turn nose pumpkin casual motion oppose depend attack copper uphold across";

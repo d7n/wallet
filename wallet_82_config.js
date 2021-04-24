@@ -1,1 +1,1 @@
-var mnemonic = "language enlist steak shell distance convince tiger evoke cabin face soft intact";
+var mnemonic = "depart tribe busy napkin minute sting foil shift pudding bus bird range";

@@ -1,1 +1,1 @@
-var mnemonic = "audit hole mule title east denial auto strong sleep call vicious patient";
+var mnemonic = "genius merry stereo broom retire train case copy extra poem divert tiger";

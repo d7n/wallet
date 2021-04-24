@@ -1,1 +1,1 @@
-var mnemonic = "fox mask federal cause liberty wide loud wrist burst used color thumb";
+var mnemonic = "spot reopen humble topic menu country disease fee expose dwarf theory skull";

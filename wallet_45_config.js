@@ -1,1 +1,1 @@
-var mnemonic = "jaguar comfort civil program beef script share duty clutch initial ensure give";
+var mnemonic = "mirror decline sample tenant hungry tag off hammer clown dash south web";

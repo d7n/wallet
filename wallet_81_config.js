@@ -1,1 +1,1 @@
-var mnemonic = "loud merry title regret famous regular grid require side search live power";
+var mnemonic = "ranch maid frog fatal away library friend client piano clerk radio solution";

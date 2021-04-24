@@ -1,1 +1,1 @@
-var mnemonic = "super purchase crumble tattoo industry fruit total actor theory dice between canvas";
+var mnemonic = "guess input surprise debris group beyond soul crisp dress salt galaxy drastic";

@@ -1,1 +1,1 @@
-var mnemonic = "student kid cabbage forest first trick identify fault orphan diesel stay swing";
+var mnemonic = "omit degree fence boy skate bullet wasp margin turtle supreme crouch estate";

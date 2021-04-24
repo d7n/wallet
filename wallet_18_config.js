@@ -1,1 +1,1 @@
-var mnemonic = "combine glass author demand youth stone reform hurry regular woman inhale apart";
+var mnemonic = "depart boost lunch saddle garlic basket rail merry unaware odor ignore clay";

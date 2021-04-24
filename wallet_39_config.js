@@ -1,1 +1,1 @@
-var mnemonic = "shine dance flight main void milk duty orchard repair that voyage burst";
+var mnemonic = "expose gloom vendor street lens airport benefit slice early measure dress scorpion";

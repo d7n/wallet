@@ -1,1 +1,1 @@
-var mnemonic = "innocent jungle wait online blood network hamster skate myth walnut float between";
+var mnemonic = "pumpkin west journey alert rely tip escape raven maple flash car object";

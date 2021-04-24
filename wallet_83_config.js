@@ -1,1 +1,1 @@
-var mnemonic = "frequent student hobby pyramid twelve glove paddle poverty order pigeon captain file";
+var mnemonic = "pigeon tube engine squeeze situate flash frown element faculty artwork trade wrestle";

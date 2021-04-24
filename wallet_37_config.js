@@ -1,1 +1,1 @@
-var mnemonic = "sentence song spatial abstract upper setup drum remain agent breeze enhance position";
+var mnemonic = "auction dry cute check elevator mass valid trend exile ostrich flag ice";

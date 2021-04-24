@@ -1,1 +1,1 @@
-var mnemonic = "fun trumpet marriage border deer soldier captain today miracle escape float cube";
+var mnemonic = "liar horror ugly nation erosion cigar congress grunt grief relief ill desk";

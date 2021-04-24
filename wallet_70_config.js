@@ -1,1 +1,1 @@
-var mnemonic = "poem return disease faith cricket good junior normal concert decade reason erode";
+var mnemonic = "rather dune excuse exist artwork mercy deal cabin isolate oblige warm during";

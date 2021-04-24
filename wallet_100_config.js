@@ -1,1 +1,1 @@
-var mnemonic = "ski option bottom prosper ritual explain emotion alpha endless business stadium local";
+var mnemonic = "silver prevent tooth plunge undo divert elegant clinic eagle drop renew skull";

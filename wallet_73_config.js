@@ -1,1 +1,1 @@
-var mnemonic = "loan north rate census peanut census need denial escape pave bid tongue";
+var mnemonic = "amused female repair wrist awkward jelly property spray recall boil usual bid";

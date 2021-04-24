@@ -1,1 +1,1 @@
-var mnemonic = "exile cave advance winter shrimp spawn tornado around street spoil frozen vague";
+var mnemonic = "grunt whale ankle label latin wood wear caution you tonight amused enforce";

@@ -1,1 +1,1 @@
-var mnemonic = "genius forward trophy random rough control donate chunk food speed space cupboard";
+var mnemonic = "essence giant exhibit afraid lounge join shuffle shed any senior give climb";

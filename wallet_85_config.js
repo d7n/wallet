@@ -1,1 +1,1 @@
-var mnemonic = "border region kite shy demise oblige broken life media seminar below injury";
+var mnemonic = "peace cereal child heart afraid middle skull eager switch salute copy obvious";

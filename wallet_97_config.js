@@ -1,1 +1,1 @@
-var mnemonic = "soldier raven bid fire need antique fancy busy gym umbrella tiny hub";
+var mnemonic = "elbow gain gauge expect book lonely frost loan poverty security weather ridge";

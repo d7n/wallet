@@ -1,1 +1,1 @@
-var mnemonic = "thank pride crack click naive nuclear lyrics fresh velvet aisle paddle honey";
+var mnemonic = "junk cheese net mosquito young silly romance kitchen material tail use fee";

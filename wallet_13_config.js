@@ -1,1 +1,1 @@
-var mnemonic = "earth ski fee glass member cross common similar leisure slab bubble blood";
+var mnemonic = "found tail powder cage input color deposit million treat off elder liar";

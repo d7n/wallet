@@ -1,1 +1,1 @@
-var mnemonic = "memory drip kid giant pizza luxury ski hamster lab rubber entire claim";
+var mnemonic = "mule sign pink amateur marriage faint erode polar sniff access income ability";

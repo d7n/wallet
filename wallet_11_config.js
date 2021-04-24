@@ -1,1 +1,1 @@
-var mnemonic = "animal poem weasel burden bicycle afford stereo mistake office purpose world glad";
+var mnemonic = "cabin can blind ride toddler aspect truly slim lazy fatal car fee";

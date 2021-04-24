@@ -1,1 +1,1 @@
-var mnemonic = "rebuild run today volume pilot lottery ski sleep beef state wear twelve";
+var mnemonic = "release silk silver ill song crater label receive usage couch fossil gauge";

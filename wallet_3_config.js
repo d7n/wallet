@@ -1,1 +1,1 @@
-var mnemonic = "similar disagree notice million roast tiger bone nose canoe blur transfer come";
+var mnemonic = "ignore pretty twice dog sausage dynamic recycle proud fantasy journey buzz shy";

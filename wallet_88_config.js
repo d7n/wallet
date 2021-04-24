@@ -1,1 +1,1 @@
-var mnemonic = "cotton stone damp nose lecture expose defense season there excite taste public";
+var mnemonic = "boss exact save kind tooth left slim popular pear whisper notable frog";

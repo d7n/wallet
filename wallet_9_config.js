@@ -1,1 +1,1 @@
-var mnemonic = "elder december hint simple foot aspect return few marble park cat soul";
+var mnemonic = "city quiz ensure acid draw journey youth cost usage sample cute laptop";

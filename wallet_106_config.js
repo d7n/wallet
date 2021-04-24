@@ -1,1 +1,1 @@
-var mnemonic = "reward fee skull repair shock bronze bag dignity brass board toward kind";
+var mnemonic = "autumn anxiety garlic anger puzzle jaguar prosper siege lesson gather advice goddess";

@@ -1,1 +1,1 @@
-var mnemonic = "unlock dream border visa minute trip region same old glow bike fine";
+var mnemonic = "april love evil hundred because garlic powder rural used suffer setup debate";

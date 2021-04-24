@@ -1,1 +1,1 @@
-var mnemonic = "wire search crystal entry mean witness stadium large affair section curious tuition";
+var mnemonic = "imitate key reason welcome treat garlic woman path afraid work mail icon";

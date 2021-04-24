@@ -1,1 +1,1 @@
-var mnemonic = "book moral until gym symptom someone warrior wealth august embark drastic calm";
+var mnemonic = "warfare crane vendor brass marriage front bomb angry air result change noodle";

@@ -1,1 +1,1 @@
-var mnemonic = "under sister stamp flip retire amount special piano hope spy hundred bike";
+var mnemonic = "east ritual vital expire venture deny predict place evolve stomach biology axis";

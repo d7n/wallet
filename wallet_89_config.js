@@ -1,1 +1,1 @@
-var mnemonic = "awesome crystal pool cross school muscle broom desert color choice theory sad";
+var mnemonic = "cost type dog unfold more option salt summer shrug february hospital code";

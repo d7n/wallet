@@ -1,1 +1,1 @@
-var mnemonic = "rural brush peasant struggle speed artefact episode enable turn immune merry orchard";
+var mnemonic = "ring coin rebuild warrior wagon mansion palace bracket emerge enroll color sun";

@@ -1,1 +1,1 @@
-var mnemonic = "depend hire grass kitchen between insane tuition mistake shrimp leopard around safe";
+var mnemonic = "team reform amount cluster ginger muffin first toward anchor cluster cram snack";

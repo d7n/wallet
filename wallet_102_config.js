@@ -1,1 +1,1 @@
-var mnemonic = "chalk huge ramp meat empty ivory gauge measure east shy ship birth";
+var mnemonic = "win amateur pink force report earn image they captain faith scheme cover";

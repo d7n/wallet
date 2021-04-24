@@ -1,1 +1,1 @@
-var mnemonic = "plastic cruise crunch wet beyond cabbage glue donate debate hard scout suspect";
+var mnemonic = "swarm state warfare unhappy other twenty size slogan coast off click someone";

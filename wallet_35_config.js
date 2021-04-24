@@ -1,1 +1,1 @@
-var mnemonic = "pony note physical destroy spring case vintage end fashion grape upgrade fog";
+var mnemonic = "kitchen twice gravity trim useless bargain skull gorilla ask forest regular velvet";

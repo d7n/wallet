@@ -1,1 +1,1 @@
-var mnemonic = "lake banner tag minute photo parade honey same clump jar forest dwarf";
+var mnemonic = "kitten crew visa rescue lady style point spirit tenant salmon embrace suspect";

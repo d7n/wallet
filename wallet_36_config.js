@@ -1,1 +1,1 @@
-var mnemonic = "farm brown scrap junk inspire child dinosaur apart motor reward motion figure";
+var mnemonic = "innocent render equal hurdle above canal quote area dismiss gauge unfair problem";

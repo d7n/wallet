@@ -1,1 +1,1 @@
-var mnemonic = "open sunny mountain payment clean trust strategy wool rookie hidden push wonder";
+var mnemonic = "hobby message visual kit bean marine huge citizen code pulp recall claim";

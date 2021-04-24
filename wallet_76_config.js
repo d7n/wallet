@@ -1,1 +1,1 @@
-var mnemonic = "elevator seed reunion total assume wisdom emotion alarm cruel horse before venture";
+var mnemonic = "fly catch chat much invite injury snake develop current circle build they";

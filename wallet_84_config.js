@@ -1,1 +1,1 @@
-var mnemonic = "guitar borrow zebra angry next elbow trust pet tobacco two tuition lunch";
+var mnemonic = "emerge amount portion put kidney fruit doctor upper mimic input nut icon";

@@ -1,1 +1,1 @@
-var mnemonic = "raise video route blue myth grant maid unusual educate train length trumpet";
+var mnemonic = "sample pretty minute now capable task sketch excite outer announce power sting";

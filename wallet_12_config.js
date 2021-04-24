@@ -1,1 +1,1 @@
-var mnemonic = "panel adjust pole olympic analyst flip catalog sick wire crumble fox link";
+var mnemonic = "phrase patient giraffe toss clip hamster chat canal tribe shuffle swamp engage";

@@ -1,1 +1,1 @@
-var mnemonic = "keen elder glass adapt sense merit chief peasant jazz february metal symptom";
+var mnemonic = "critic olympic agent unique sniff robot entry picture ability gorilla power oil";

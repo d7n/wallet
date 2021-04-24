@@ -1,1 +1,1 @@
-var mnemonic = "rabbit brown stairs abstract awkward crane man chalk circle model wish discover";
+var mnemonic = "flash practice better gravity doll visit sadness pistol lunch term asthma one";

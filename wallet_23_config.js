@@ -1,1 +1,1 @@
-var mnemonic = "later moral crouch orient yard always robot ghost mass track spare behave";
+var mnemonic = "poem mention remain kid spot oppose motion ribbon solar stage net goddess";

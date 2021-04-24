@@ -1,1 +1,1 @@
-var mnemonic = "wool matter gentle inform cross member shift stadium conduct wreck suggest erode";
+var mnemonic = "fiction perfect shove salon again asset shed chat naive click acoustic front";

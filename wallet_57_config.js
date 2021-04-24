@@ -1,1 +1,1 @@
-var mnemonic = "coyote odor monitor fix device rhythm admit merry effort adapt awful movie";
+var mnemonic = "dish adjust simple exit clay oven circle license rally liquid inquiry wagon";
