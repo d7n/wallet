@@ -1,1 +1,1 @@
-var mnemonic = "chaos emotion service diesel absent coconut uncover attitude ski return lesson civil";
+var mnemonic = "empower gold million marriage fiscal top rare solution level excess decrease paddle";

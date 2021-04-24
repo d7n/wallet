@@ -1,1 +1,1 @@
-var mnemonic = "narrow aunt tattoo paddle tonight polar make vast stage kind inspire recipe";
+var mnemonic = "swing page awkward increase gauge spot believe can defy century ridge beef";

@@ -1,1 +1,1 @@
-var mnemonic = "dad distance guard arrange purpose palace post hover mention click menu permit";
+var mnemonic = "vast pitch loop eyebrow often century fatal welcome bachelor duty exact myself";

@@ -1,1 +1,1 @@
-var mnemonic = "awkward indoor member enact unlock lava identify check hour magnet rent witness";
+var mnemonic = "inform silly arrest clog plug steel discover enable border answer among coffee";

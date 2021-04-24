@@ -1,1 +1,1 @@
-var mnemonic = "pair job broccoli march amateur agent robot maple crash drum material hour";
+var mnemonic = "orphan labor outdoor attract chimney tooth glue acquire cloud scale build melody";

@@ -1,1 +1,1 @@
-var mnemonic = "dust unhappy process outer hospital width brain clean expect sunset employ hammer";
+var mnemonic = "hurt flower smoke false chef match force flame stairs twice lock ability";

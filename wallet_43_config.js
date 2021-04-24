@@ -1,1 +1,1 @@
-var mnemonic = "behave mistake escape train dove call surge couch library earn siege ready";
+var mnemonic = "wool pledge hammer tag educate volume odor bicycle movie menu squirrel inspire";

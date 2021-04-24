@@ -1,1 +1,1 @@
-var mnemonic = "myth muscle amazing corn barrel lumber clinic theory decrease large kiss drop";
+var mnemonic = "organ dance maid rocket history head rather crash ready match pioneer phrase";

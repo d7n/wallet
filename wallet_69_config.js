@@ -1,1 +1,1 @@
-var mnemonic = "ticket buddy human immense shock rough copper oyster increase enough learn much";
+var mnemonic = "jump toe wreck visa nation rival wood patient negative tragic nuclear minimum";

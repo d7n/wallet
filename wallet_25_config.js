@@ -1,1 +1,1 @@
-var mnemonic = "fatal trash action plate trip gap where much traffic bitter auto settle";
+var mnemonic = "move enhance car silver off crew spoil oyster silk notable potato solve";

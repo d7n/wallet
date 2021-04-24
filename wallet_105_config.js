@@ -1,1 +1,1 @@
-var mnemonic = "stand vocal doctor keep muscle regret skirt marriage olive execute raise brown";
+var mnemonic = "shop supply faith polar envelope ankle broccoli foil reflect diesel enact saddle";

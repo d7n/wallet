@@ -1,1 +1,1 @@
-var mnemonic = "mobile jacket gorilla satisfy erase salad paddle blush tenant derive dragon today";
+var mnemonic = "bronze joy board lion sell second match glide sniff second shaft exotic";

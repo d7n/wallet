@@ -1,1 +1,1 @@
-var mnemonic = "pig protect soda chronic trial gain view recall quiz walnut six treat";
+var mnemonic = "satisfy demise easy toy glance flock inspire buddy title tortoise trip glad";

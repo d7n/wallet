@@ -1,1 +1,1 @@
-var mnemonic = "thumb second fatigue stock rule laugh town gossip decide other banner accuse";
+var mnemonic = "habit urban decide panel wreck prosper spawn mule art settle system slam";

@@ -1,1 +1,1 @@
-var mnemonic = "thank hub hedgehog diamond clock find autumn mistake source rare rain quit";
+var mnemonic = "south february sponsor stamp giraffe conduct sphere chair hidden plastic violin best";

@@ -1,1 +1,1 @@
-var mnemonic = "name river laugh cable tomato walnut exercise gospel cup hospital skin refuse";
+var mnemonic = "empower dwarf cement expose business edit consider style alarm soccer jeans discover";

@@ -1,1 +1,1 @@
-var mnemonic = "talent silk response outside develop grab vast find human trim elephant animal";
+var mnemonic = "swift double race describe news use nest inform annual iron dove dirt";

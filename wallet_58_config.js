@@ -1,1 +1,1 @@
-var mnemonic = "hen picture valve enjoy misery orient about spice clinic journey neck much";
+var mnemonic = "zoo puzzle pizza about motion crater amateur lunch roast around stairs chicken";

@@ -1,1 +1,1 @@
-var mnemonic = "swim mechanic seed clump frown grief border tobacco receive skate deposit liar";
+var mnemonic = "copper pass arm couch erupt physical mutual two fury drill today crack";

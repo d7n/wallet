@@ -1,1 +1,1 @@
-var mnemonic = "before flower major element spell among hamster whip flee forward sad goose";
+var mnemonic = "high farm step emerge sword crush exclude frown shove shield assume bounce";

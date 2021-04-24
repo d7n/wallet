@@ -1,1 +1,1 @@
-var mnemonic = "betray vault public six stock stone pioneer novel analyst sustain patient crane";
+var mnemonic = "insect cloth equip category silly hood gaze wire run submit must carbon";

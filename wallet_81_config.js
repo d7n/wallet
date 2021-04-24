@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit repeat pave name theory fly twin grocery together mail olive crime";
+var mnemonic = "ceiling grow polar swap rather fantasy cream cram now client dwarf antenna";

@@ -1,1 +1,1 @@
-var mnemonic = "sponsor rude hover toward jeans captain people valley switch arrest shallow despair";
+var mnemonic = "voyage art spirit summer pact belt nothing upon nut advice sugar behind";

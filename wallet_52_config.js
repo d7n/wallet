@@ -1,1 +1,1 @@
-var mnemonic = "little virus become code float state gravity logic armor pill near few";
+var mnemonic = "shock pilot member clump hat rabbit suspect grid buzz truth equip blur";

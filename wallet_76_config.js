@@ -1,1 +1,1 @@
-var mnemonic = "quit brave subject body ten large penalty private cliff swing nut track";
+var mnemonic = "coil artwork ostrich globe pond strategy push clean any clarify potato library";

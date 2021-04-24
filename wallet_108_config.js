@@ -1,1 +1,1 @@
-var mnemonic = "wash drift author horse exhaust regular wisdom envelope say idea warm list";
+var mnemonic = "focus amazing supreme error remove vendor about across unable unfold distance expand";

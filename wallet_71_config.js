@@ -1,1 +1,1 @@
-var mnemonic = "drastic myself exact scale grant rude object six tennis live brick minimum";
+var mnemonic = "visual hover okay legend eagle pull grow hill vehicle regret rural donate";

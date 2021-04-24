@@ -1,1 +1,1 @@
-var mnemonic = "clay garlic flag ethics sponsor require couch story parade scatter leave carbon";
+var mnemonic = "faculty trim march chronic injury stay address business liberty glow rigid water";

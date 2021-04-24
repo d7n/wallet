@@ -1,1 +1,1 @@
-var mnemonic = "business company zoo tide uncle shadow raccoon super often neck speak unlock";
+var mnemonic = "chimney wave elevator skirt anger include mix adjust disease bottom aware pass";

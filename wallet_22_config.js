@@ -1,1 +1,1 @@
-var mnemonic = "senior session exchange crop forward abuse film fun calm vacuum card wealth";
+var mnemonic = "feel fancy cream butter announce dish club bike gun air wolf large";

@@ -1,1 +1,1 @@
-var mnemonic = "plug fabric club acoustic marriage select method snake possible effort chronic session";
+var mnemonic = "float caution network hunt hood pony arch term vibrant ketchup lake vintage";

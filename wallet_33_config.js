@@ -1,1 +1,1 @@
-var mnemonic = "physical parent leader urge april merge cake gloom taxi employ filter coin";
+var mnemonic = "narrow suit dinosaur oblige sure keen prefer inch erupt anchor limb hood";

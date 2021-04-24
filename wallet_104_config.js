@@ -1,1 +1,1 @@
-var mnemonic = "venue three where sample dilemma symptom brush spot race finger plunge penalty";
+var mnemonic = "bid scare invest hard life mean cable evil vibrant room weasel dish";

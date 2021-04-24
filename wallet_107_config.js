@@ -1,1 +1,1 @@
-var mnemonic = "finish identify kid before arrest clean wish pretty finger seven misery rose";
+var mnemonic = "direct wolf jazz cost patch hope inside multiply cradle early repeat fire";

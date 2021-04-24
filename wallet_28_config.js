@@ -1,1 +1,1 @@
-var mnemonic = "pink lawn target faculty trade turn poet salad world rigid camera power";
+var mnemonic = "fix kite code nuclear address river task toe marriage tide enrich walnut";

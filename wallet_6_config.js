@@ -1,1 +1,1 @@
-var mnemonic = "luxury today truly exchange jeans grief ship baby flock mercy mistake alarm";
+var mnemonic = "tuna thumb enable rhythm letter canoe chuckle kitten earn elegant awkward pioneer";

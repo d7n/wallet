@@ -1,1 +1,1 @@
-var mnemonic = "sweet fatigue now enforce cannon broom such announce myth donor brain peanut";
+var mnemonic = "peace tennis winter margin tumble same lab time average very smile frozen";

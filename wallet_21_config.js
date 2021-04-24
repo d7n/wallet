@@ -1,1 +1,1 @@
-var mnemonic = "spawn follow rather insect truly funny invest scissors sleep turn myself pluck";
+var mnemonic = "snap mistake holiday bridge pool fortune gentle giggle tackle scare rude language";

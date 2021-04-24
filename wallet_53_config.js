@@ -1,1 +1,1 @@
-var mnemonic = "ramp gun tape receive seminar supply thought crime tornado mixture renew appear";
+var mnemonic = "voice slush forum bulk like explain pigeon grape pride boost strong slight";

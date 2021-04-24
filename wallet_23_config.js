@@ -1,1 +1,1 @@
-var mnemonic = "relax gauge profit decline lobster fine series blood virtual payment range shift";
+var mnemonic = "similar disease farm trophy carry mercy patch olympic chimney solar evidence floor";

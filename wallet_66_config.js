@@ -1,1 +1,1 @@
-var mnemonic = "rigid review usual autumn accident december food sausage abandon describe six avocado";
+var mnemonic = "sustain wing silver seat snow laugh exile minor replace huge attend wire";

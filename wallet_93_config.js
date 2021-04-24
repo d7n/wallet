@@ -1,1 +1,1 @@
-var mnemonic = "north yard vintage course common arctic biology group adjust provide symptom diesel";
+var mnemonic = "planet nose gift vast gesture scatter genius dose cry venue maple excess";

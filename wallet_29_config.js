@@ -1,1 +1,1 @@
-var mnemonic = "change person eager online club zoo monitor onion demise close before jeans";
+var mnemonic = "ski click forest must biology ensure fame wrist cloud sight student universe";

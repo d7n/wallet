@@ -1,1 +1,1 @@
-var mnemonic = "jar wheat hope bundle approve exotic rubber thumb illness spike beach awful";
+var mnemonic = "stay claim hope control heart great trophy unknown guilt horn practice close";

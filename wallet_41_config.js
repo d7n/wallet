@@ -1,1 +1,1 @@
-var mnemonic = "erosion donkey distance tent hire brown clip garlic conduct account marine need";
+var mnemonic = "furnace gloom universe silly auto museum asthma hip boost mandate symbol suffer";

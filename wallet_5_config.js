@@ -1,1 +1,1 @@
-var mnemonic = "yellow alcohol retire pole fence use ski measure hover else excuse empty";
+var mnemonic = "correct edge chicken involve kite inherit giraffe own sauce gym abuse usage";

@@ -1,1 +1,1 @@
-var mnemonic = "suit century patch penalty hat brave novel decorate fatal clean donate raccoon";
+var mnemonic = "mammal click friend trust group item wash mobile march boring whisper inform";

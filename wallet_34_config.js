@@ -1,1 +1,1 @@
-var mnemonic = "market radar theory skull crouch process ecology leaf enter mushroom climb bubble";
+var mnemonic = "cabin garlic jump food attack exchange cereal pilot apple fury myself bird";

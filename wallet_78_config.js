@@ -1,1 +1,1 @@
-var mnemonic = "cricket ranch agree broken snack enact asthma already spatial convince emotion spice";
+var mnemonic = "bar pelican annual useless polar main pride blue discover rude power adult";

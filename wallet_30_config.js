@@ -1,1 +1,1 @@
-var mnemonic = "deny still alpha unhappy link excuse nose capital ivory scan hero ramp";
+var mnemonic = "wrestle inch slow enough program wonder wolf dragon crystal chuckle piano north";

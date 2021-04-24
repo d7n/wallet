@@ -1,1 +1,1 @@
-var mnemonic = "there receive agent blind hero report cancel check ridge cable eye entire";
+var mnemonic = "switch display hurry hover abandon tower puppy mass arrive elder city drift";

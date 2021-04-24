@@ -1,1 +1,1 @@
-var mnemonic = "unknown describe jazz net phone vital dance vintage teach long large review";
+var mnemonic = "usual enrich pelican people coffee depart screen bus actor share crime pull";

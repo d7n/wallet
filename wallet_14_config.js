@@ -1,1 +1,1 @@
-var mnemonic = "salon entry approve negative ripple afraid begin omit pigeon mobile praise army";
+var mnemonic = "chest arrow they sport thought want pill inherit rally need gift advice";

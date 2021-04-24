@@ -1,1 +1,1 @@
-var mnemonic = "alpha inner mother width drive pass marble carpet ball follow onion exit";
+var mnemonic = "chuckle swap gown elephant distance industry burger you ride zero crew struggle";

@@ -1,1 +1,1 @@
-var mnemonic = "convince wealth nasty problem guard tuna almost boss color health work potato";
+var mnemonic = "student mistake ensure royal angle thrive duck tuna inquiry pull please much";

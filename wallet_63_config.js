@@ -1,1 +1,1 @@
-var mnemonic = "desert remember lion real never glance step repeat fly expect monkey inform";
+var mnemonic = "fault shine solid nasty ticket cave margin peanut boring beauty useless service";

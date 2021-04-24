@@ -1,1 +1,1 @@
-var mnemonic = "broom owner brass dune scan cube sure famous approve enhance travel work";
+var mnemonic = "conduct absurd calm menu render degree search announce smoke absent return sleep";

@@ -1,1 +1,1 @@
-var mnemonic = "mango aim furnace shoe protect moral frown screen coast park dismiss genuine";
+var mnemonic = "draft calm laundry repair sort drastic camp remain worth hurry spice movie";

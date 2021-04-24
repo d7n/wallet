@@ -1,1 +1,1 @@
-var mnemonic = "angle brown detect mean fringe obey tragic soccer slice rabbit drink puppy";
+var mnemonic = "alcohol enhance jazz bean power wrist angry lawsuit include mammal minor squeeze";

@@ -1,1 +1,1 @@
-var mnemonic = "game good display behave great dutch rigid kick stamp other record gravity";
+var mnemonic = "galaxy initial maple hill royal find library during hundred horn defy donor";

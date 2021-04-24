@@ -1,1 +1,1 @@
-var mnemonic = "walnut alarm chief feature urge mobile about lend key pepper aim mountain";
+var mnemonic = "brother repair lobster sad buffalo sick celery auction loan theme muscle anchor";

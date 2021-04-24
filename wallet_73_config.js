@@ -1,1 +1,1 @@
-var mnemonic = "view hollow february struggle float flock list rib virtual guitar sample away";
+var mnemonic = "easy museum copper gun dice focus cute music obtain knife civil guide";

@@ -1,1 +1,1 @@
-var mnemonic = "vapor unfair raise hat liar fresh key wild thing trick matter gossip";
+var mnemonic = "punch network blue unlock awkward wing bind beef book arrive shine outer";

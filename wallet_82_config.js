@@ -1,1 +1,1 @@
-var mnemonic = "correct mosquito prosper reunion few off champion source tenant another today allow";
+var mnemonic = "laundry siege useful carbon album rude tragic cram cat artwork ladder laugh";

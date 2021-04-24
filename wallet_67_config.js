@@ -1,1 +1,1 @@
-var mnemonic = "entry piano kind dice half anchor wealth require reflect uphold mandate faint";
+var mnemonic = "try twin large trap crane novel junk various review calm orchard enough";

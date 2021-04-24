@@ -1,1 +1,1 @@
-var mnemonic = "fabric pen address wink innocent husband nut disorder cheese prevent apple wise";
+var mnemonic = "buddy toddler pluck tobacco adult gift fancy differ discover senior basic member";

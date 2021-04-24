@@ -1,1 +1,1 @@
-var mnemonic = "depth fiscal enough blur fox certain spot boat arch phrase pigeon survey";
+var mnemonic = "alert final sport reopen census kitten august anger surge couple abstract hazard";

@@ -1,1 +1,1 @@
-var mnemonic = "useless twist judge old toilet change slim limb vintage pink genuine wealth";
+var mnemonic = "route blanket doctor canyon history rule horror drastic skin taste mom blind";

@@ -1,1 +1,1 @@
-var mnemonic = "what peanut trend fold whip unveil mother memory unhappy kiss save roast";
+var mnemonic = "tool morning roast subway filter lava idle merit giant guilt drift little";

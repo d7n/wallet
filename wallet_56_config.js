@@ -1,1 +1,1 @@
-var mnemonic = "approve arm ten poet innocent cradle upset mystery return toy strong sphere";
+var mnemonic = "little empower mean use film sniff man need tool uncle capital casual";

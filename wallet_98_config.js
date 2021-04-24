@@ -1,1 +1,1 @@
-var mnemonic = "dust divide embark ahead teach doctor attitude diet volume smart build digital";
+var mnemonic = "party hedgehog cliff buddy measure beauty silly gloom host hard appear purity";

@@ -1,1 +1,1 @@
-var mnemonic = "index unusual vibrant noble inhale attract flavor kingdom organ ivory dutch erase";
+var mnemonic = "throw mistake you innocent paddle crop mercy sick brand equal duty grief";

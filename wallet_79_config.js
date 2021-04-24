@@ -1,1 +1,1 @@
-var mnemonic = "bonus swing uniform unlock life riot comfort tragic regret distance air boy";
+var mnemonic = "senior gloom alpha jewel retreat mouse illness clock thunder tree rally surround";

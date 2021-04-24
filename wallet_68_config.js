@@ -1,1 +1,1 @@
-var mnemonic = "acoustic relax domain pizza upset crop blood choose under stable grape pretty";
+var mnemonic = "zone exist direct goat sudden drive purpose bring enter tent cactus address";

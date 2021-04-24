@@ -1,1 +1,1 @@
-var mnemonic = "swamp waste omit supply sea find three vibrant dove leg mask animal";
+var mnemonic = "hammer leisure action cry know real salad kitchen swarm noodle tornado sadness";

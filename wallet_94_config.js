@@ -1,1 +1,1 @@
-var mnemonic = "slow limb guilt require rice roast cable image clay north math museum";
+var mnemonic = "food brisk turtle situate ritual quantum reject resemble wash bag addict impact";

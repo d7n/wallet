@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo chicken advance acid strong shuffle ball tenant enter current treat wisdom";
+var mnemonic = "lounge actor question resource situate polar inspire equal essay cactus risk away";

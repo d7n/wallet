@@ -1,1 +1,1 @@
-var mnemonic = "civil flock answer rather record sample wolf abstract original aspect poet cube";
+var mnemonic = "gaze bench slab stick paper music merit trap solar insane vital shadow";

@@ -1,1 +1,1 @@
-var mnemonic = "muffin find when security clean beyond pretty injury torch place match okay";
+var mnemonic = "sketch upper reunion secret swallow skin cheese few trouble wagon sauce calm";

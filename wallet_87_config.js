@@ -1,1 +1,1 @@
-var mnemonic = "space oppose random snake notable approve salmon level chunk test margin decline";
+var mnemonic = "nurse capable unable assume brick earth glare shell shoulder yellow vintage turn";

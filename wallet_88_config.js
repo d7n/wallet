@@ -1,1 +1,1 @@
-var mnemonic = "patrol addict rubber fit reveal orient among erosion question ring cool tortoise";
+var mnemonic = "chapter enable polar hen tape enough endless town bonus spy urge capital";

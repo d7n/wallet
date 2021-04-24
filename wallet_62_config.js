@@ -1,1 +1,1 @@
-var mnemonic = "all staff wing scissors lonely ten letter naive armor gown pledge topic";
+var mnemonic = "pause sport charge empower pupil apple photo come chase speak digital tape";

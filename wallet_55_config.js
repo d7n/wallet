@@ -1,1 +1,1 @@
-var mnemonic = "sick web change ladder fruit fat solve tail spirit quality master increase";
+var mnemonic = "behave creek unusual crack wise agent idle hurt poverty device violin draft";

@@ -1,1 +1,1 @@
-var mnemonic = "trip ignore wonder payment punch venue enroll daughter robot green lumber debris";
+var mnemonic = "end link someone gown current shop fox arena east alarm congress hair";

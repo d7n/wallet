@@ -1,1 +1,1 @@
-var mnemonic = "sport script float chase wild knee focus this good waste oven good";
+var mnemonic = "rebel surge mercy year indoor letter sense wood better arena gloom curve";

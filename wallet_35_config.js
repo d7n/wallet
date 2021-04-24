@@ -1,1 +1,1 @@
-var mnemonic = "amateur brisk home diesel library about obtain hockey hair domain orbit hurt";
+var mnemonic = "wait amazing smooth renew crop foster vacuum sport donor tornado cabin merge";
