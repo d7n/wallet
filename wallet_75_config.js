@@ -1,1 +1,1 @@
-var mnemonic = "hood idle appear pig mandate vacuum link female card general uncle brisk";
+var mnemonic = "tail delay toilet genuine click grid ring chase inflict correct target since";

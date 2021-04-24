@@ -1,1 +1,1 @@
-var mnemonic = "code knife book awful actual smile bar camp kiss home whale relax";
+var mnemonic = "that warrior gun clutch bounce autumn various basket train rival orchard zone";

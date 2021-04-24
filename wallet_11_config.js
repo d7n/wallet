@@ -1,1 +1,1 @@
-var mnemonic = "scatter want sugar school cause refuse bargain retreat welcome advice wealth gauge";
+var mnemonic = "scrap wave solid salt dog lesson satoshi ready actual fluid diesel pudding";

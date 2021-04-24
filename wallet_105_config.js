@@ -1,1 +1,1 @@
-var mnemonic = "scheme destroy catch talk involve devote frame marble twelve axis indicate orient";
+var mnemonic = "car stable intact innocent snap page excess choice shy elegant gate nothing";

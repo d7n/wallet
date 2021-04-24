@@ -1,1 +1,1 @@
-var mnemonic = "polar kidney birth dynamic thought picnic indicate coast hen super call argue";
+var mnemonic = "sketch electric ready blanket wealth hair bid antique utility april chronic ceiling";

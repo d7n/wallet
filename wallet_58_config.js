@@ -1,1 +1,1 @@
-var mnemonic = "symbol desk source brick hat reject display organ winter trip crop bird";
+var mnemonic = "embody sail slim only call monitor rabbit impact search throw junior rug";

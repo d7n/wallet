@@ -1,1 +1,1 @@
-var mnemonic = "kingdom mixed act cruel minimum point choose sad suit dad egg palace";
+var mnemonic = "case camp force echo limb laptop rural envelope practice decline grant child";

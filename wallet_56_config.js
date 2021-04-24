@@ -1,1 +1,1 @@
-var mnemonic = "siren spare light charge edge tumble chunk doctor april sell metal replace";
+var mnemonic = "wash season fuel anxiety misery donkey april outside belt element stereo candy";

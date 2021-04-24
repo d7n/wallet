@@ -1,1 +1,1 @@
-var mnemonic = "pig kind solid essence exhaust gap trick asthma basket result gossip donkey";
+var mnemonic = "capable like panda soul girl piece virus better into income wet motor";

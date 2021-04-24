@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo crack myself discover flush forget curtain check globe put warm blur";
+var mnemonic = "cloud install chimney suggest novel expand grass panic another dentist unaware portion";

@@ -1,1 +1,1 @@
-var mnemonic = "clerk spare plate unable cluster will among loud dial increase roast margin";
+var mnemonic = "grow risk ribbon gas noise energy robust miss margin monitor answer tornado";

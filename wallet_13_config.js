@@ -1,1 +1,1 @@
-var mnemonic = "invite poem knife general elite proud craft lesson width notice tiger permit";
+var mnemonic = "carry private frog decade cute pizza pact lounge nasty volcano differ biology";

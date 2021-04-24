@@ -1,1 +1,1 @@
-var mnemonic = "distance reopen exact ill carbon system chair code wrong light despair basket";
+var mnemonic = "pepper hamster drum edge decline armed burst emerge index copper attend ice";

@@ -1,1 +1,1 @@
-var mnemonic = "trial parrot oval image window pill luggage brain vault artefact rebuild debate";
+var mnemonic = "sphere depth school occur pair night energy rather crush save box extra";

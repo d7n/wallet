@@ -1,1 +1,1 @@
-var mnemonic = "ability street once kitten inside acoustic hand lecture gauge vicious retreat eternal";
+var mnemonic = "clock lamp confirm judge able opera cake point explain day tell lonely";

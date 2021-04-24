@@ -1,1 +1,1 @@
-var mnemonic = "agree gallery profit notable move biology timber turtle beach swarm joke setup";
+var mnemonic = "cave walk clock destroy rose target throw pigeon tag gorilla bottom digital";

@@ -1,1 +1,1 @@
-var mnemonic = "camp link outer boost pass company draft acid card curtain thing relief";
+var mnemonic = "illness dwarf sock uncle permit tired final side vivid vault stay air";

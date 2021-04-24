@@ -1,1 +1,1 @@
-var mnemonic = "broccoli aspect bring hospital exhaust tooth scan timber replace across gloom acid";
+var mnemonic = "sausage pulse mom horn craft electric record cake garment arm truth early";

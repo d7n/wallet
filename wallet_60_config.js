@@ -1,1 +1,1 @@
-var mnemonic = "first window top open goat skull green bird burden sugar kingdom safe";
+var mnemonic = "mass muscle sail air crater tide happy immense sing push amount book";

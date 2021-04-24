@@ -1,1 +1,1 @@
-var mnemonic = "unveil spy shiver denial act choose scout question damp angry gift run";
+var mnemonic = "icon vast zebra calm police food shadow cereal meat august file cook";

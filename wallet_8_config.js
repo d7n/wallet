@@ -1,1 +1,1 @@
-var mnemonic = "rural sure rally sense hawk visa skull sand render diesel dinner pepper";
+var mnemonic = "drink huge hedgehog torch used concert clump staff alcohol exchange force weather";

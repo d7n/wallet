@@ -1,1 +1,1 @@
-var mnemonic = "army between invest clarify example ensure road cement uniform project sudden life";
+var mnemonic = "video truck wagon payment vast exhibit clown empower unfold travel goddess room";

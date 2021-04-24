@@ -1,1 +1,1 @@
-var mnemonic = "lonely fuel drip hammer close alarm cube ginger trophy castle scout crater";
+var mnemonic = "piano rude gaze trial scene spring found armed link rapid capital exotic";

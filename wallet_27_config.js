@@ -1,1 +1,1 @@
-var mnemonic = "sight smooth ready rug culture average job link current inspire truly discover";
+var mnemonic = "sense stand transfer tank lesson neither awkward elegant diamond mesh lamp once";

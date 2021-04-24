@@ -1,1 +1,1 @@
-var mnemonic = "advice era render gun summer forget note teach name sting note often";
+var mnemonic = "atom afraid lesson assist attack girl impulse dial ready venue math assist";

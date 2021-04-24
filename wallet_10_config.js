@@ -1,1 +1,1 @@
-var mnemonic = "basket zoo olive coyote add upset social kiss peanut menu luggage fringe";
+var mnemonic = "sport metal hurdle wait bulk frequent emerge zone outer loyal become hundred";

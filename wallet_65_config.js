@@ -1,1 +1,1 @@
-var mnemonic = "song gadget trumpet skate shuffle clog fix logic toe excuse column fame";
+var mnemonic = "mind file rule exchange search diet disease join cruise artefact sound program";

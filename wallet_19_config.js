@@ -1,1 +1,1 @@
-var mnemonic = "similar chicken scare element skate wagon remove witness bone weird genre inside";
+var mnemonic = "smooth admit average deputy expect slide uniform doll point mean common fatigue";

@@ -1,1 +1,1 @@
-var mnemonic = "slush cheese body hundred maid ring card flame ozone castle sugar science";
+var mnemonic = "estate flock term hybrid blouse capable suspect private cinnamon flock slab awful";

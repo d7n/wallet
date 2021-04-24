@@ -1,1 +1,1 @@
-var mnemonic = "obvious arctic diamond success explain retreat denial only blood unit truck quit";
+var mnemonic = "guilt office runway duck extra fabric loyal thunder episode trash obey weather";

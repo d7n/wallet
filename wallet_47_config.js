@@ -1,1 +1,1 @@
-var mnemonic = "annual slow alarm brush rare snack leisure stick vocal ensure panel honey";
+var mnemonic = "flush grief hire captain empty wagon pioneer erase custom labor service pulp";

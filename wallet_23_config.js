@@ -1,1 +1,1 @@
-var mnemonic = "hungry army energy chapter repair scale emerge foil gloom cave double brief";
+var mnemonic = "index arch rich magnet shaft autumn alien saddle butter banner near spice";

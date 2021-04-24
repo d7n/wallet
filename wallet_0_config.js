@@ -1,1 +1,1 @@
-var mnemonic = "town people soon dilemma taxi purchase hammer ill essence develop benefit bounce";
+var mnemonic = "isolate copper cliff various mistake same job mass dutch nuclear reunion crouch";

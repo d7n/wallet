@@ -1,1 +1,1 @@
-var mnemonic = "satisfy prize immune old gossip leisure video category ocean multiply correct lazy";
+var mnemonic = "cement vessel autumn salmon screen depend salmon vapor turtle bar exotic blur";

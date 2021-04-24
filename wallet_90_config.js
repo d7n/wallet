@@ -1,1 +1,1 @@
-var mnemonic = "crystal label august quick swallow example pizza box tide among blood brush";
+var mnemonic = "collect brisk maple friend prosper enjoy dove oil actress symptom smooth onion";

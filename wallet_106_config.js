@@ -1,1 +1,1 @@
-var mnemonic = "charge brown sister crush punch tumble rescue car flock orchard water napkin";
+var mnemonic = "obscure gate creek orchard oppose dice barely crunch net gospel address grit";

@@ -1,1 +1,1 @@
-var mnemonic = "olympic can vintage nothing deputy afford tomorrow advance drive shop six together";
+var mnemonic = "cloth area slender squirrel sick enter feel minute correct cliff priority search";

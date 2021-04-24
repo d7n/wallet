@@ -1,1 +1,1 @@
-var mnemonic = "text seminar inhale six flower busy broom monitor nominee enhance burger entry";
+var mnemonic = "bubble onion kiss aerobic anxiety bless easy column ripple cube cannon meat";

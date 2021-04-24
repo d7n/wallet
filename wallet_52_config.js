@@ -1,1 +1,1 @@
-var mnemonic = "rural elite salt keen search mystery method garage disagree toy gate clutch";
+var mnemonic = "helmet hungry dice citizen hybrid treat vote donkey talent insect armor metal";

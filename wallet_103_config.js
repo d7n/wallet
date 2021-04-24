@@ -1,1 +1,1 @@
-var mnemonic = "depth subject link elephant train supply fix gaze super check oppose able";
+var mnemonic = "net candy type bike bicycle off blossom increase minute shiver enemy panther";

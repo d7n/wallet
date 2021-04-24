@@ -1,1 +1,1 @@
-var mnemonic = "cereal metal sample jungle credit inquiry web drip west milk unique dwarf";
+var mnemonic = "pottery never december method current delay junior promote never trade frequent memory";

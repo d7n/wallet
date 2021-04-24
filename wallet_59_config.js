@@ -1,1 +1,1 @@
-var mnemonic = "fox camp hard pulse expand salute gallery spoon reveal zebra poverty dance";
+var mnemonic = "inspire afraid edit cook wasp build gym online put trash action rail";

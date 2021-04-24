@@ -1,1 +1,1 @@
-var mnemonic = "wise kit luxury easily gold better rapid group pottery tide common hammer";
+var mnemonic = "brand tumble engine volume maze foster pipe armed volume very keen lottery";

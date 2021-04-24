@@ -1,1 +1,1 @@
-var mnemonic = "dad attract output badge picnic course square enjoy forum worth glove inherit";
+var mnemonic = "plastic title put pear receive share amazing tourist word harvest hybrid turn";

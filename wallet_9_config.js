@@ -1,1 +1,1 @@
-var mnemonic = "health soda maple trip acquire flower top gauge wire cruel earth slender";
+var mnemonic = "minimum quarter tube turkey bone figure noble wheel sponsor primary cost silent";

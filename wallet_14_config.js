@@ -1,1 +1,1 @@
-var mnemonic = "genuine fiction shoe lobster base thank version common custom miracle potato myth";
+var mnemonic = "sweet garlic slow junior razor walnut pulse state melt autumn robust frequent";

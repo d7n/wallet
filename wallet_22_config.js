@@ -1,1 +1,1 @@
-var mnemonic = "lucky exchange great argue clump artefact plate wine ritual trumpet stadium dog";
+var mnemonic = "daughter argue ginger arrive rescue coconut cloud whale pen pioneer flight emerge";

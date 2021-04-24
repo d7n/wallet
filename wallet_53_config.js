@@ -1,1 +1,1 @@
-var mnemonic = "answer crater bunker flash mobile cute truth mean lift crumble federal gate";
+var mnemonic = "click chimney clutch fish hamster friend asset fish matter jelly mouse dress";

@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog cash paddle marble language canvas vibrant climb project main orient stage";
+var mnemonic = "tuna pepper orange power fox balcony wave digital trouble that tattoo spare";

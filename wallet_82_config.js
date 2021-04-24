@@ -1,1 +1,1 @@
-var mnemonic = "monitor pencil aware hello race drama call snap account local sea legend";
+var mnemonic = "movie plate vessel buffalo equip trial sheriff palm black mean flock pig";

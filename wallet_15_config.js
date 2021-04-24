@@ -1,1 +1,1 @@
-var mnemonic = "image mammal tip other run tell sugar spell steel shiver federal media";
+var mnemonic = "runway yard entry kingdom palm oxygen wrestle entry sauce health buzz brush";

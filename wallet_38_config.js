@@ -1,1 +1,1 @@
-var mnemonic = "erupt fluid hire excuse wood panther error bean baby release million involve";
+var mnemonic = "able apart obtain hat update brass sadness gospel else grace face mixture";

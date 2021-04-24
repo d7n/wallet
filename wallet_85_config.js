@@ -1,1 +1,1 @@
-var mnemonic = "seminar light monkey vehicle surge spawn neglect pact loyal indicate weapon shed";
+var mnemonic = "bachelor destroy squirrel era actor truck balcony tuition smart object quantum window";

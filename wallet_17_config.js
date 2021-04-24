@@ -1,1 +1,1 @@
-var mnemonic = "chief able horn demise body priority hammer behave tortoise essay original frog";
+var mnemonic = "chunk come polar choose post combine subject february prize rebel cool fancy";

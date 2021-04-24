@@ -1,1 +1,1 @@
-var mnemonic = "cake juice debate usual midnight govern hidden spell list fire own cabin";
+var mnemonic = "outside record elegant aerobic elder survey resource easily isolate sketch melt list";

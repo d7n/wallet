@@ -1,1 +1,1 @@
-var mnemonic = "stuff awful quantum true lucky where bridge rather tube describe draft album";
+var mnemonic = "fold depend elevator fox secret invite elbow foot forget abandon tackle awake";

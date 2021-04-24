@@ -1,1 +1,1 @@
-var mnemonic = "torch banana skill raise rent anchor orbit rigid hill umbrella normal judge";
+var mnemonic = "liberty tube snap voice tag detect alert crime require liar fashion end";

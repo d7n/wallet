@@ -1,1 +1,1 @@
-var mnemonic = "nest law position gauge impulse virtual token bacon face fiscal say armor";
+var mnemonic = "earth obey credit urge deputy dog envelope laugh kitchen luggage shallow firm";

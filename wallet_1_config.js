@@ -1,1 +1,1 @@
-var mnemonic = "spray emotion main expect sheriff drum engage crowd pig youth mimic general";
+var mnemonic = "boring fiction syrup reward miss wash wise core trim vendor dutch endorse";

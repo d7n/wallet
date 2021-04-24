@@ -1,1 +1,1 @@
-var mnemonic = "pig welcome enter volcano category bronze short travel shuffle salon sample inform";
+var mnemonic = "husband fine call boat outside traffic tonight tag hollow original maze response";

@@ -1,1 +1,1 @@
-var mnemonic = "glow diamond custom antique box august chuckle start exotic double describe immense";
+var mnemonic = "bottom current effort coyote aerobic green edit sorry sort make daughter excess";

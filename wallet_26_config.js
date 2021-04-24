@@ -1,1 +1,1 @@
-var mnemonic = "jelly apart oblige job trigger retreat fox there index humble pulp garbage";
+var mnemonic = "fire cheap eight wolf chapter maximum merry profit regular street camera today";

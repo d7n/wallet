@@ -1,1 +1,1 @@
-var mnemonic = "portion any copy nothing victory faculty toilet tell charge car push cake";
+var mnemonic = "food weasel reunion drill whisper car hero canoe ladder business river observe";

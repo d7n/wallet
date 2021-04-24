@@ -1,1 +1,1 @@
-var mnemonic = "rose seven venture next eager output recipe canvas alarm cave jump afraid";
+var mnemonic = "doll behave cotton tank fetch wish essence assume fancy cabin candy portion";

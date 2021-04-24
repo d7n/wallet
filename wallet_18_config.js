@@ -1,1 +1,1 @@
-var mnemonic = "bridge marriage finger brush pupil rally brisk nasty absent once soldier tail";
+var mnemonic = "web merry tool board prefer click law remember find quality write kind";

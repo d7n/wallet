@@ -1,1 +1,1 @@
-var mnemonic = "sword thrive sand quarter bottom evil onion edit rain small shy seven";
+var mnemonic = "crisp aware method drop slender orchard bronze economy churn lazy law ordinary";

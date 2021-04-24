@@ -1,1 +1,1 @@
-var mnemonic = "code expect mechanic uniform upon become curious emerge cement ride dove child";
+var mnemonic = "walk ranch over sock focus solar inquiry exit place mixture human senior";

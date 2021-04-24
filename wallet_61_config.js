@@ -1,1 +1,1 @@
-var mnemonic = "spatial ribbon earth mind various snow furnace unaware kitchen debate bird peasant";
+var mnemonic = "there luxury result case ankle bunker carbon weapon mass run rough almost";

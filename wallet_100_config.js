@@ -1,1 +1,1 @@
-var mnemonic = "limit candy barrel atom alpha century place risk stumble urge snow cinnamon";
+var mnemonic = "equal deputy link enter iron history napkin bright butter chalk travel blade";

@@ -1,1 +1,1 @@
-var mnemonic = "movie inspire village suit dial ability lazy fuel evidence drama obey they";
+var mnemonic = "awake scan garment notable system skull bomb twelve hub round left share";

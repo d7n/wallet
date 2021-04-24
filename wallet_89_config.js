@@ -1,1 +1,1 @@
-var mnemonic = "defy photo park clarify sun attack law betray army idle roof pool";
+var mnemonic = "false all renew love effort cereal define owner dignity radio before circle";

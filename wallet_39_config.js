@@ -1,1 +1,1 @@
-var mnemonic = "victory pioneer inject print recall pigeon bulk bless airport poverty young ecology";
+var mnemonic = "merry current flat table wood circle hospital bless speed slide stomach wreck";

@@ -1,1 +1,1 @@
-var mnemonic = "index repair chunk orbit zoo trash bless layer palace fatigue course auto";
+var mnemonic = "amused rocket intact found dynamic velvet merry hint fortune betray bar panic";

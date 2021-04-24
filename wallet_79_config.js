@@ -1,1 +1,1 @@
-var mnemonic = "come pride torch supply ability rifle zoo neglect modify mix vacant have";
+var mnemonic = "calm endorse interest need inch polar around error state fashion place live";

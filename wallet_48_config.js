@@ -1,1 +1,1 @@
-var mnemonic = "praise digital short much swallow bomb only world forum argue laundry style";
+var mnemonic = "budget embody maximum pitch quick bacon iron exchange knock video never proof";

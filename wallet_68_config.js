@@ -1,1 +1,1 @@
-var mnemonic = "leisure smile hole tide sign exclude mule dutch hold table chimney veteran";
+var mnemonic = "snow muscle ceiling pistol what sock canyon climb wave border design gossip";

@@ -1,1 +1,1 @@
-var mnemonic = "inmate piece weasel choice drink near cinnamon when excite topic wink dinosaur";
+var mnemonic = "require acid much mutual tattoo nominee grit cinnamon model evidence pattern similar";

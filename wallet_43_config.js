@@ -1,1 +1,1 @@
-var mnemonic = "hint detail such detail position expand conduct length between leave sock unhappy";
+var mnemonic = "west woman van mad nature burden involve quiz scrap client dismiss bounce";

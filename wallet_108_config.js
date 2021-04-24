@@ -1,1 +1,1 @@
-var mnemonic = "virus true fix soccer person snake century income dream run fee sheriff";
+var mnemonic = "drastic define glad online wood fresh little goat tonight ranch soccer silly";

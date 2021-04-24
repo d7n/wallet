@@ -1,1 +1,1 @@
-var mnemonic = "apple flower squirrel nothing borrow drum egg knee head veteran neutral stove";
+var mnemonic = "shine explain ramp charge castle glove ill engine high alpha loyal click";

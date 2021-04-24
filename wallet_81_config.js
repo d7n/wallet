@@ -1,1 +1,1 @@
-var mnemonic = "arrange sauce federal mention stay next hobby dentist ticket scrap vapor brisk";
+var mnemonic = "holiday session try creek base rough sand enforce swap vapor staff ahead";

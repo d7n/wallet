@@ -1,1 +1,1 @@
-var mnemonic = "library coconut royal boss total energy vast barely divorce rural enrich electric";
+var mnemonic = "question vague reopen trust electric camera ribbon want opera bargain priority quality";

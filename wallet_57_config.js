@@ -1,1 +1,1 @@
-var mnemonic = "write gentle reopen dust remind recall kind brain mention hover venture universe";
+var mnemonic = "midnight must trade view force buffalo ivory calm betray kitchen purchase taste";

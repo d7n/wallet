@@ -1,1 +1,1 @@
-var mnemonic = "addict fade joke guide boil slide element crash mesh trouble panda theory";
+var mnemonic = "risk doll nose enhance food scissors three mutual hammer potato silver amused";

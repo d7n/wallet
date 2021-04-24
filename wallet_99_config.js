@@ -1,1 +1,1 @@
-var mnemonic = "measure prison owner hunt dirt cement control survey job rival zone receive";
+var mnemonic = "green proof bottom guess trouble burger inspire ask pretty salad spike draft";

@@ -1,1 +1,1 @@
-var mnemonic = "evil similar endorse entire empower hawk fresh when document anger describe mixed";
+var mnemonic = "crane upper right woman exclude above shuffle village prevent fork drive brick";

@@ -1,1 +1,1 @@
-var mnemonic = "father giant cupboard mosquito crash exist little sure strategy soda cheese fury";
+var mnemonic = "refuse viable visit cliff spend source grab staff push volcano heavy wear";

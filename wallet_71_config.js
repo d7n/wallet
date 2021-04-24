@@ -1,1 +1,1 @@
-var mnemonic = "upset mind dynamic admit vibrant wild raven benefit honey cave jewel measure";
+var mnemonic = "mutual town wonder suggest hair human cloth south conduct noble dynamic length";

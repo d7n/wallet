@@ -1,1 +1,1 @@
-var mnemonic = "behave vault skin grief crumble soap winter swift front north attitude alarm";
+var mnemonic = "grace diet century own cruise still snap scout equip joke curious trash";

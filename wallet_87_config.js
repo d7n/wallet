@@ -1,1 +1,1 @@
-var mnemonic = "art weasel accuse exotic rich rally license fold tornado response hockey property";
+var mnemonic = "confirm desert tree army history relief duty crater grunt olympic balcony title";

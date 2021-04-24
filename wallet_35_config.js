@@ -1,1 +1,1 @@
-var mnemonic = "april artefact cake near usage cereal rather hundred renew room demand raven";
+var mnemonic = "organ adjust term sort vocal half cost purchase grow invite double address";

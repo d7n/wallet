@@ -1,1 +1,1 @@
-var mnemonic = "join repair arena addict champion frequent visa merge rice swallow april already";
+var mnemonic = "delay fence post solve crack then suspect legend advance comic radar leisure";

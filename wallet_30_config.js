@@ -1,1 +1,1 @@
-var mnemonic = "trial exile subway boil spray lumber sure speed one idea winter slide";
+var mnemonic = "glad learn monitor book viable win hat useful poverty february zoo police";

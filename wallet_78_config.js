@@ -1,1 +1,1 @@
-var mnemonic = "rigid tomorrow denial bubble cross toe process stuff opera vacuum vacuum vague";
+var mnemonic = "rule prison put direct spot party hire foil always source track clarify";

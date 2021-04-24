@@ -1,1 +1,1 @@
-var mnemonic = "frog motion hope hurt town seat pupil path drama regular vessel phrase";
+var mnemonic = "extra zero fan load phrase eternal metal glue robust critic oil rotate";

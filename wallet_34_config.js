@@ -1,1 +1,1 @@
-var mnemonic = "finish auto enough balcony sorry chronic open slender century muscle able veteran";
+var mnemonic = "cement idea garden trash else enrich escape mask brass hazard hint enact";

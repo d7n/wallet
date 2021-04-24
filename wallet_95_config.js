@@ -1,1 +1,1 @@
-var mnemonic = "olympic lunch business bike dog umbrella skirt awake entire move run exact";
+var mnemonic = "okay blood fold try life exist drive swallow awesome tunnel mandate abuse";

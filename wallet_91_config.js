@@ -1,1 +1,1 @@
-var mnemonic = "front endorse million correct merge lonely basic near crane fan sad one";
+var mnemonic = "lava extend bicycle screen anger champion flag novel actress language mix risk";
