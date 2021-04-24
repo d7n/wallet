@@ -1,1 +1,1 @@
-var mnemonic = "metal video critic stage cruise scare park isolate tragic topple toddler topic";
+var mnemonic = "program width clay sniff neutral super rough music leg scatter nature laugh";

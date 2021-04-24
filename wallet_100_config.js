@@ -1,1 +1,1 @@
-var mnemonic = "sorry horn broom slam chunk bridge sea scorpion chat drum case drip";
+var mnemonic = "egg cream hurry genuine waste dismiss dish devote please crucial start basket";

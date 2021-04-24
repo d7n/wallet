@@ -1,1 +1,1 @@
-var mnemonic = "order deputy juice into twin eight protect divide jaguar remain summer input";
+var mnemonic = "despair audit blur ethics hazard taxi thumb rate focus fee coach differ";

@@ -1,1 +1,1 @@
-var mnemonic = "enough sock weird obtain wear have core unaware inner coffee swarm service";
+var mnemonic = "angle believe bunker lesson leopard tip syrup orchard obvious uncle vault umbrella";

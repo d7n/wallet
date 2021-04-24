@@ -1,1 +1,1 @@
-var mnemonic = "uncle often hood remain arch detail verify develop blur solution crumble project";
+var mnemonic = "rose delay exist obvious cliff rude assault produce math mirror prefer shrug";

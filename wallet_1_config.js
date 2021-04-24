@@ -1,1 +1,1 @@
-var mnemonic = "clever figure coyote team hill math amused aim salt lucky tool project";
+var mnemonic = "protect seek huge keen dream okay exhaust auction buddy jaguar real canal";

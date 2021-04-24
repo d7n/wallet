@@ -1,1 +1,1 @@
-var mnemonic = "found divide gorilla vote fire pair middle fury gasp cost kick garbage";
+var mnemonic = "birth rescue note middle crucial iron ghost blossom scheme render industry parrot";

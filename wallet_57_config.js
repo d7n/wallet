@@ -1,1 +1,1 @@
-var mnemonic = "injury success youth capable tiger only pledge clerk describe soldier boat link";
+var mnemonic = "program viable artefact fresh bring kit oven wing tape canyon cotton congress";

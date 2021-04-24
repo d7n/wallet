@@ -1,1 +1,1 @@
-var mnemonic = "future rack senior leader bundle garage run public draft arctic seek man";
+var mnemonic = "tone snake tag catch century decorate mixture total era heart bottom dance";

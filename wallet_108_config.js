@@ -1,1 +1,1 @@
-var mnemonic = "join kid buffalo glance bus tuition throw toe multiply gap purchase pattern";
+var mnemonic = "south safe focus bar check chuckle cabbage chronic clock soul refuse wealth";

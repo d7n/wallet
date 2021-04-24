@@ -1,1 +1,1 @@
-var mnemonic = "gather grant case body erupt sport degree impose voice large pill priority";
+var mnemonic = "damp control begin barrel pigeon fame rural noble casual gospel tent under";

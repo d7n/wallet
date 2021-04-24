@@ -1,1 +1,1 @@
-var mnemonic = "bachelor style flower wave predict dwarf seed give shallow taxi hollow blossom";
+var mnemonic = "amateur curve immune neglect purity round bomb obtain fall ride giant wealth";

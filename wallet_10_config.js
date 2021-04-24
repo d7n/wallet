@@ -1,1 +1,1 @@
-var mnemonic = "virtual faith breeze need guilt lonely kiwi guess culture animal link radio";
+var mnemonic = "help type radar city issue joke curious ginger love pulp lazy zoo";

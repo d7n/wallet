@@ -1,1 +1,1 @@
-var mnemonic = "skirt orbit sense vicious subway loop still slice captain move marine reason";
+var mnemonic = "shaft admit crop twice tuition bubble miracle unit amused recipe stable model";

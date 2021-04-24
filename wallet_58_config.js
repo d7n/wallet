@@ -1,1 +1,1 @@
-var mnemonic = "excuse keen false venue bounce camera lens globe chunk right action invite";
+var mnemonic = "clap response impact milk siege nice rabbit cloud aspect combine topic wage";

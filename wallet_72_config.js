@@ -1,1 +1,1 @@
-var mnemonic = "caution stove about glide patch meat height fabric filter copy nerve inform";
+var mnemonic = "excuse grid dry price burger nuclear twist code life pluck present yard";

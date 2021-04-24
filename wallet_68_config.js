@@ -1,1 +1,1 @@
-var mnemonic = "trap isolate car jaguar idle abandon minimum frozen neutral sea slush casual";
+var mnemonic = "brain squirrel trap balance crouch narrow veteran mango knife claim hospital inject";

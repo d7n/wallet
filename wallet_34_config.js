@@ -1,1 +1,1 @@
-var mnemonic = "cannon goose jacket glad kidney vintage artefact neglect sing dirt fall shoulder";
+var mnemonic = "able service melody ready banana once isolate try ghost swing brush kite";

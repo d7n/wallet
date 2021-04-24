@@ -1,1 +1,1 @@
-var mnemonic = "prison grace gaze velvet survey hope cloud panther pupil milk jealous wheat";
+var mnemonic = "lesson mixed border ordinary river wear extra tennis danger love strike heavy";

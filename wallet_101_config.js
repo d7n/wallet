@@ -1,1 +1,1 @@
-var mnemonic = "actress gold install match hundred seat midnight valid bar when choice thank";
+var mnemonic = "lounge myth rail raven local evidence atom address depart flight life nut";

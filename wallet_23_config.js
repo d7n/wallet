@@ -1,1 +1,1 @@
-var mnemonic = "decorate judge check squirrel nation profit middle yard bus twelve bounce pudding";
+var mnemonic = "fly total nature base rug noble hawk wing smart able silly couple";

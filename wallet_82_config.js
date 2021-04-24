@@ -1,1 +1,1 @@
-var mnemonic = "mix exact amateur hood erupt harvest include alien cool ethics sick recipe";
+var mnemonic = "isolate flock salt warm need venue piano spice pass prevent gold dice";

@@ -1,1 +1,1 @@
-var mnemonic = "grant alter crane spring warfare cigar embody baby rate swear hold athlete";
+var mnemonic = "idea gain repeat settle athlete level situate hazard click design horn ozone";

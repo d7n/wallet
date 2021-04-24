@@ -1,1 +1,1 @@
-var mnemonic = "kit giraffe equal tattoo video again slab arena tuition unable canyon text";
+var mnemonic = "brave spirit empower reform leave surround skin clever sausage kid lyrics knife";

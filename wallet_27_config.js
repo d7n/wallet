@@ -1,1 +1,1 @@
-var mnemonic = "wise dignity pause rug hybrid alter control fashion skirt swift humor name";
+var mnemonic = "neck retreat client foster cave seminar music cage kind guitar trumpet nurse";

@@ -1,1 +1,1 @@
-var mnemonic = "cake assume scale addict mansion inject green ripple frog police wrong attack";
+var mnemonic = "olympic raw length matter gold purity garment bulk car dawn cliff symbol";

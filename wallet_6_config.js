@@ -1,1 +1,1 @@
-var mnemonic = "gauge story crowd quantum raven note blouse update enable walnut cost salt";
+var mnemonic = "naive roast tone myself bitter barrel interest quality cherry debate search crater";

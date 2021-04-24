@@ -1,1 +1,1 @@
-var mnemonic = "feel frost blood soccer naive diesel tobacco affair wrap reason appear lounge";
+var mnemonic = "breeze bubble arrange steak ball morning click click year turkey guide genuine";

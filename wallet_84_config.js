@@ -1,1 +1,1 @@
-var mnemonic = "legal hood awkward web salad stone dune normal kit opinion they assume";
+var mnemonic = "ridge run matter grab pudding stand access lounge ranch hood load alley";

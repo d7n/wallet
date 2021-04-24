@@ -1,1 +1,1 @@
-var mnemonic = "outer hard cover reunion wing fatigue sibling wasp act capital inherit retire";
+var mnemonic = "actual bacon whale lyrics welcome sea warm citizen near measure vital barely";

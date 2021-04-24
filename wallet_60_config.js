@@ -1,1 +1,1 @@
-var mnemonic = "health puppy deny pause start happy bicycle perfect path quit addict service";
+var mnemonic = "wine tuna easily earn deputy innocent level rally afraid spoon jealous bike";

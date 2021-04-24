@@ -1,1 +1,1 @@
-var mnemonic = "sorry neither pill awake onion brick cart exchange snack air lab wide";
+var mnemonic = "maple hospital west lobster match pact hunt cute photo expire smoke skate";

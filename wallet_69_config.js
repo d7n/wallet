@@ -1,1 +1,1 @@
-var mnemonic = "trend dial frame twice heart invest viable pet sauce flight three grocery";
+var mnemonic = "roof little ghost patient sunny cannon grid exist social boy key trigger";

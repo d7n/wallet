@@ -1,1 +1,1 @@
-var mnemonic = "misery option pulp again foster creek lend strategy marble fashion suit tumble";
+var mnemonic = "coin appear merge theory race town rabbit upon clip asset normal music";

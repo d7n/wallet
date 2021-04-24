@@ -1,1 +1,1 @@
-var mnemonic = "axis cry category bicycle brown almost rain input upset atom enroll cruel";
+var mnemonic = "camera discover whip zebra jaguar olympic scan motion position aware repeat pelican";

@@ -1,1 +1,1 @@
-var mnemonic = "tattoo matter vast limit example mystery argue observe spring lock sign brand";
+var mnemonic = "conduct budget maze hill much hunt zoo tunnel bomb october sausage own";

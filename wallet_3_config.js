@@ -1,1 +1,1 @@
-var mnemonic = "leave mystery spin arrow pumpkin spice praise section grid palm plate warrior";
+var mnemonic = "total envelope tray pony october possible tree label camp banner matrix survey";

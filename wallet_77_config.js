@@ -1,1 +1,1 @@
-var mnemonic = "phrase scrub better people olympic learn super dragon country ring mad alert";
+var mnemonic = "loan pioneer coach suit dwarf raw wall engage aspect tired lake explain";

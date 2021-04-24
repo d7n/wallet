@@ -1,1 +1,1 @@
-var mnemonic = "cargo castle faculty clutch purse together cannon pass amateur boat february unhappy";
+var mnemonic = "loop captain derive tape soon jeans pond work human omit mushroom piece";

@@ -1,1 +1,1 @@
-var mnemonic = "tribe cupboard spawn delay heart extra convince exercise rely shoot forward salmon";
+var mnemonic = "similar jewel coast elegant wink shadow spice drum brick patch disease trend";

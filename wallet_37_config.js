@@ -1,1 +1,1 @@
-var mnemonic = "van oxygen grief deputy release balcony armor top trim glory capital fame";
+var mnemonic = "member holiday actress unfold tuition credit only waste economy piano lady orchard";

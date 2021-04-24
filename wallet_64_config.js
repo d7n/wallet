@@ -1,1 +1,1 @@
-var mnemonic = "grunt lift can merge upset glory wet steel else enjoy misery infant";
+var mnemonic = "avocado drop valley beef agent family swim sentence license resource radio cloud";

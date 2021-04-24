@@ -1,1 +1,1 @@
-var mnemonic = "ski spider holiday picture cricket useful burden equal cup drop vintage print";
+var mnemonic = "speed hen wild skull renew lesson border exercise valve once face clap";

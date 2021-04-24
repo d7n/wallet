@@ -1,1 +1,1 @@
-var mnemonic = "ensure nest behave carry monitor movie sample crack employ popular punch sunny";
+var mnemonic = "arctic net bone citizen sadness wolf leave degree electric eyebrow polar swing";

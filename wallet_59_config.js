@@ -1,1 +1,1 @@
-var mnemonic = "more scene stomach win either organ knock model ensure vibrant office violin";
+var mnemonic = "pool license remember swarm fury faith boil dismiss describe fossil enact unique";

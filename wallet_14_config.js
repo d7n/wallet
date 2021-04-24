@@ -1,1 +1,1 @@
-var mnemonic = "nice bounce once update defense scrub nature rain supreme business couch abandon";
+var mnemonic = "flush wish diary online aerobic boy swim corn retreat exercise error enact";

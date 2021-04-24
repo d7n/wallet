@@ -1,1 +1,1 @@
-var mnemonic = "shield radar velvet radio boy devote success pony farm summer social often";
+var mnemonic = "nice genre input jaguar cannon relief three foot urge dentist various dentist";

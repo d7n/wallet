@@ -1,1 +1,1 @@
-var mnemonic = "mass veteran pipe summer draft dose during smooth month motor moral resemble";
+var mnemonic = "document fence fix ride arctic exotic busy excess modify hobby can kit";

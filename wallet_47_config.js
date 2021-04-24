@@ -1,1 +1,1 @@
-var mnemonic = "bracket wet surge coyote conduct expire detail reduce knock duck catalog orbit";
+var mnemonic = "blade capable knee salmon trick apple artist gospel filter bundle crisp bracket";

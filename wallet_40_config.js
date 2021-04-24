@@ -1,1 +1,1 @@
-var mnemonic = "that powder bridge squeeze wreck champion tail pottery satisfy report acquire fire";
+var mnemonic = "romance century boss east else lawsuit north anchor find unit result chat";

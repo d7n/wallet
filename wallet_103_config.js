@@ -1,1 +1,1 @@
-var mnemonic = "elevator prepare obscure exclude level spell when bicycle narrow vehicle entry angry";
+var mnemonic = "language fee eagle pyramid security also other wealth time odor staff pet";

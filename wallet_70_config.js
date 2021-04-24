@@ -1,1 +1,1 @@
-var mnemonic = "place anxiety wheat leaf high miss upgrade jealous theory ankle pause erosion";
+var mnemonic = "possible tank proud siren congress truck violin east dial enact olympic web";

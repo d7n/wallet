@@ -1,1 +1,1 @@
-var mnemonic = "goose unit pupil boost wood library grit leave patch style plug trial";
+var mnemonic = "dream relief salad resource enter split carry observe hidden sport myth icon";

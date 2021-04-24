@@ -1,1 +1,1 @@
-var mnemonic = "worry slight unable exchange gown hire cat index baby chest armor hen";
+var mnemonic = "order because possible sausage suspect vintage steak million myth mosquito grab duck";

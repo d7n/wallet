@@ -1,1 +1,1 @@
-var mnemonic = "harvest infant panel breeze insect chuckle material high ivory kangaroo universe teach";
+var mnemonic = "slush weapon rely basket nose lift tilt net autumn parade ensure chuckle";

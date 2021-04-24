@@ -1,1 +1,1 @@
-var mnemonic = "pet hair vehicle affair merge street they trim remove rug glance trial";
+var mnemonic = "cable sorry outdoor deer clean seven adjust announce bleak safe mouse wolf";

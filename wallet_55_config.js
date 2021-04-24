@@ -1,1 +1,1 @@
-var mnemonic = "logic tornado love noodle grow outer shiver device recycle about brand fossil";
+var mnemonic = "impact bone treat scheme holiday satoshi uncover around before balcony fade pride";

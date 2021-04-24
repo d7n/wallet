@@ -1,1 +1,1 @@
-var mnemonic = "three tumble favorite whale truth immune shaft harbor upset gossip gather such";
+var mnemonic = "blade cereal vague duty vocal rice mail knock infant review game sniff";

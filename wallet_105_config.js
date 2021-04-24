@@ -1,1 +1,1 @@
-var mnemonic = "lady art law eternal tackle also cave still apart senior vehicle gloom";
+var mnemonic = "avocado ensure large office panel allow dice inquiry gather company feature total";

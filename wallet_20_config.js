@@ -1,1 +1,1 @@
-var mnemonic = "like tenant marine fiber skate woman great quit subway steak differ bar";
+var mnemonic = "force quote alert balcony faith group club between final item salute laptop";

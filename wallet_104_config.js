@@ -1,1 +1,1 @@
-var mnemonic = "hub female actor detect raccoon exhibit hip oyster employ power daughter festival";
+var mnemonic = "goat fatal identify sausage dolphin win orange obey fame ancient parrot spy";

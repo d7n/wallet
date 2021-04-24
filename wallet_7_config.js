@@ -1,1 +1,1 @@
-var mnemonic = "across library ginger exist culture impulse lock marble rather people ahead feel";
+var mnemonic = "juice diary tiny load loud sustain adapt into inflict minimum cycle lyrics";

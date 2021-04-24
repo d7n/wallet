@@ -1,1 +1,1 @@
-var mnemonic = "work since air east volcano frog demand coach current detail photo believe";
+var mnemonic = "elbow body casual sun amateur hold fiscal vocal dumb stage flee globe";

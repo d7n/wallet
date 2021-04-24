@@ -1,1 +1,1 @@
-var mnemonic = "guess uniform zebra stadium wild bleak side payment good stumble hurdle pioneer";
+var mnemonic = "vehicle hello phrase speak subway praise thought script jazz appear charge august";

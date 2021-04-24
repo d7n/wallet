@@ -1,1 +1,1 @@
-var mnemonic = "bridge veteran wheel police half candy sing letter swap rail gym lock";
+var mnemonic = "rough evidence cabin risk marriage face teach pudding dinosaur issue gadget purse";

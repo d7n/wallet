@@ -1,1 +1,1 @@
-var mnemonic = "lion also order health current ocean large kiss sadness truck pumpkin certain";
+var mnemonic = "execute leaf busy agree metal track dune trial brain meadow expand push";

@@ -1,1 +1,1 @@
-var mnemonic = "skill fine embrace throw great marble online dove brisk shy horse woman";
+var mnemonic = "erase bunker gallery nominee gate ramp pledge spy pill volume hire host";

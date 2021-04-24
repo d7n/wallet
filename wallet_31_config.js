@@ -1,1 +1,1 @@
-var mnemonic = "pizza funny screen open hello photo girl imitate where coyote able moment";
+var mnemonic = "agree win predict toddler soldier suspect parent spray biology trend trip night";

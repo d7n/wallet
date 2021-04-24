@@ -1,1 +1,1 @@
-var mnemonic = "trial prison below together seed panda hundred wish debris camp level gate";
+var mnemonic = "cool hurt rain absent office certain screen snow captain emotion lava lunch";

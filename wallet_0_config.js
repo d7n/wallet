@@ -1,1 +1,1 @@
-var mnemonic = "color noodle dismiss chapter only between dune cloth lava grace pen target";
+var mnemonic = "silver lottery describe weird finish embody retire kitchen hotel mushroom arrive practice";

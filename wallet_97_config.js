@@ -1,1 +1,1 @@
-var mnemonic = "eager permit tourist defy melt tree picture essay praise flavor valid swift";
+var mnemonic = "wink gap demand gas obvious swim around boy patient purpose march blouse";

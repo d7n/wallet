@@ -1,1 +1,1 @@
-var mnemonic = "drill coach hand bar episode patch shine just bless moon senior tourist";
+var mnemonic = "panic provide biology squeeze into earn sphere purity rude grid gold steel";

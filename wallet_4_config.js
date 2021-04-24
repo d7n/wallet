@@ -1,1 +1,1 @@
-var mnemonic = "blanket sport afraid chaos title raise family exhaust detect kick sentence boy";
+var mnemonic = "shaft awkward laugh select cargo romance trumpet follow settle rate identify floor";

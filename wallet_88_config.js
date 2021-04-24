@@ -1,1 +1,1 @@
-var mnemonic = "armor render bright cousin toddler length admit powder office cliff market exchange";
+var mnemonic = "famous right maximum aspect rural simple extend purity code arrive damage leave";

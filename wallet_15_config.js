@@ -1,1 +1,1 @@
-var mnemonic = "digital snack edit journey next fat inquiry pigeon canoe vehicle canoe fine";
+var mnemonic = "will saddle onion stomach tribe record video spatial badge conduct movie profit";

@@ -1,1 +1,1 @@
-var mnemonic = "twice elevator equal night file father more broom joy banana giggle invest";
+var mnemonic = "loan vendor inch exhaust sentence deer shed vintage ghost very prepare south";

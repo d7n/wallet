@@ -1,1 +1,1 @@
-var mnemonic = "there bunker gym moon shrimp talk infant wink two apart veteran magic";
+var mnemonic = "all pottery grass put thumb husband normal leader maze clerk boy please";

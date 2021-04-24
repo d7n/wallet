@@ -1,1 +1,1 @@
-var mnemonic = "emotion region cereal shadow swear mammal mean sphere ranch tip auto bread";
+var mnemonic = "adult mansion neglect matrix gown biology undo beauty grape blood cousin gym";

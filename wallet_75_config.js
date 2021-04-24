@@ -1,1 +1,1 @@
-var mnemonic = "avocado fame silent perfect quality tooth appear smoke maze melody fitness december";
+var mnemonic = "pledge wine color bicycle animal answer hair jeans cook earth recycle soft";

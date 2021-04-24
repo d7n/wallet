@@ -1,1 +1,1 @@
-var mnemonic = "jacket clap lake weird matter lake hover rally essay flower left caught";
+var mnemonic = "term baby jelly enroll recipe two knock recall model hundred chunk bleak";

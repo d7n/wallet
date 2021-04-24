@@ -1,1 +1,1 @@
-var mnemonic = "pioneer model loop execute coconut beach bitter rubber carpet lunar harvest neck";
+var mnemonic = "identify coyote leopard usual used horse conduct banana wasp palm demise marriage";

@@ -1,1 +1,1 @@
-var mnemonic = "arena pig aim pilot creek twelve confirm coin festival example domain muffin";
+var mnemonic = "december future unable curtain little mad option oppose crime thing danger coach";

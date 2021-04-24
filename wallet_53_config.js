@@ -1,1 +1,1 @@
-var mnemonic = "focus all super maid barrel domain amazing grab lesson accuse order glow";
+var mnemonic = "country join save lounge recall depth woman around patient vintage muffin mixture";

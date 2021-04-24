@@ -1,1 +1,1 @@
-var mnemonic = "sort bridge between erode deal route arctic adult unfair truck bread dumb";
+var mnemonic = "labor flight reunion toward glow copper sunset topic view vapor perfect buddy";

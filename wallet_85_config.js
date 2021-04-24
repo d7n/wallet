@@ -1,1 +1,1 @@
-var mnemonic = "gallery risk defense banner crunch soap laundry expose you network fiction silent";
+var mnemonic = "success forest novel suspect empty budget suspect subway fun very idle brisk";

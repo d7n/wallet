@@ -1,1 +1,1 @@
-var mnemonic = "kingdom powder absent whip finger battle extend snack rubber gym goat just";
+var mnemonic = "praise power gown marriage muscle exchange distance curve thank element style stereo";

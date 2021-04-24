@@ -1,1 +1,1 @@
-var mnemonic = "adjust switch baby throw aspect fall wood cancel tomorrow ozone child elephant";
+var mnemonic = "gasp clay involve warfare tunnel lazy actress shoot bundle audit typical spot";

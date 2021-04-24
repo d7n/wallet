@@ -1,1 +1,1 @@
-var mnemonic = "anxiety scale drive between robust smoke thumb host powder feel rhythm bus";
+var mnemonic = "harvest music torch skirt few hair twin memory kitchen valley flock parade";

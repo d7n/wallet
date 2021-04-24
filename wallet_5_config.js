@@ -1,1 +1,1 @@
-var mnemonic = "grab leopard involve nothing auto like parade erode snap swap fan early";
+var mnemonic = "okay chronic kiss cabin hole paper foil leader boil love ecology lady";

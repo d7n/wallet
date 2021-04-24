@@ -1,1 +1,1 @@
-var mnemonic = "desk dry goat kingdom spin gauge foil limb must find small tongue";
+var mnemonic = "empower hope attitude modify jeans oyster vanish speed awake pepper filter robust";

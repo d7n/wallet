@@ -1,1 +1,1 @@
-var mnemonic = "hobby attract poet unable decrease once skate caution shrug double siege tackle";
+var mnemonic = "way safe cruise ready across aspect basic smoke unveil jewel shuffle blur";

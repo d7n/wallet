@@ -1,1 +1,1 @@
-var mnemonic = "nation earn matrix dust axis hover one same such best alone upset";
+var mnemonic = "climb mammal basket skin install feed bomb fee lawsuit achieve define spend";

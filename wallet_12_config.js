@@ -1,1 +1,1 @@
-var mnemonic = "bunker client pool metal artefact hand april scheme hunt reveal left hazard";
+var mnemonic = "cross shift lemon welcome minimum inquiry primary royal onion favorite shrug occur";

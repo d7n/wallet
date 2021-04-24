@@ -1,1 +1,1 @@
-var mnemonic = "civil genius length coconut cargo forest old general wine hedgehog coast crisp";
+var mnemonic = "remind sunset shoe absent extend crisp enhance symbol outdoor reveal genius ill";

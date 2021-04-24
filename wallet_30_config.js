@@ -1,1 +1,1 @@
-var mnemonic = "crawl similar number tumble aisle this napkin clay turkey obey code swap";
+var mnemonic = "frost theme toast sugar fall skill wash lottery butter kangaroo occur noble";

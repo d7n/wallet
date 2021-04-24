@@ -1,1 +1,1 @@
-var mnemonic = "label document hood elephant lemon rapid exhaust frog stand else surge seek";
+var mnemonic = "hole lift twenty train increase reopen north frog bracket cube alone bar";

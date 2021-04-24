@@ -1,1 +1,1 @@
-var mnemonic = "real neck provide bulb science good inflict cat monster across jelly cinnamon";
+var mnemonic = "spell odor weather twin hold alone wage region sweet humor cram sick";
