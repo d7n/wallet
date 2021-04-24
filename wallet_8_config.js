@@ -1,1 +1,1 @@
-var mnemonic = "liberty service write spend again trial joy jump snap hunt stuff move";
+var mnemonic = "choice stone soda luxury they fetch creek hill protect amateur donkey adult";

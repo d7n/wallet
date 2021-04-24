@@ -1,1 +1,1 @@
-var mnemonic = "misery muscle august science sort outside achieve stay giggle wrap sell siren";
+var mnemonic = "whale green crazy kidney draw alpha over zero beef empty brown second";

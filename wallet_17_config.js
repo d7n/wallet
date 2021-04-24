@@ -1,1 +1,1 @@
-var mnemonic = "wasp omit valley move place leave cable lock photo puzzle prison trick";
+var mnemonic = "clump puzzle husband stomach equip burger soda siren outdoor price impact cream";

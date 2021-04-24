@@ -1,1 +1,1 @@
-var mnemonic = "dove online buzz rocket easily tunnel wolf blast junk paddle tiger general";
+var mnemonic = "design garment cluster disorder unable problem display bus arrest elder egg scorpion";

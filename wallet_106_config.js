@@ -1,1 +1,1 @@
-var mnemonic = "beef mouse oven endless unfair warfare loop entire jealous pipe acquire merry";
+var mnemonic = "slight sibling hope gown faint deer crucial garlic rifle trick mercy drink";

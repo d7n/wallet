@@ -1,1 +1,1 @@
-var mnemonic = "delay movie during permit pull feel brisk can truly wealth burger soul";
+var mnemonic = "talent nurse economy hair hand diesel stairs frozen scheme theory endorse kit";

@@ -1,1 +1,1 @@
-var mnemonic = "certain miracle bright marble sign raw orbit tongue route cook hazard sample";
+var mnemonic = "street future junk vicious disagree myself flee obvious february guide behind issue";

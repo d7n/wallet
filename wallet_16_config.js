@@ -1,1 +1,1 @@
-var mnemonic = "great crater people dress repeat joke dirt labor fee wealth chunk dawn";
+var mnemonic = "guard security poverty tower peasant wool wrap cabbage range oppose document frown";

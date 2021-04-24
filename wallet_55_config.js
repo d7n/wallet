@@ -1,1 +1,1 @@
-var mnemonic = "alter critic orange today trial hole genuine imitate seven resource birth pupil";
+var mnemonic = "alpha destroy pulse next patrol insane found online boat earn candy derive";

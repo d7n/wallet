@@ -1,1 +1,1 @@
-var mnemonic = "cause maple arm access august dizzy robust innocent ice popular rice morning";
+var mnemonic = "field rent pill sorry phone proof ability gas glad design never win";

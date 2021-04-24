@@ -1,1 +1,1 @@
-var mnemonic = "enough observe remember fury inform sweet team mango vault cupboard dismiss afford";
+var mnemonic = "debate silent alien foster bicycle change profit physical work piano early impose";

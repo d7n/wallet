@@ -1,1 +1,1 @@
-var mnemonic = "valley spare all west fix army pool congress more ethics cargo arena";
+var mnemonic = "lucky tell rack ladder narrow between inflict left always guess health mountain";

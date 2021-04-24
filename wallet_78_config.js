@@ -1,1 +1,1 @@
-var mnemonic = "village tail muffin include bid weird orphan hawk oblige either simple mutual";
+var mnemonic = "coin mistake melody stage promote captain whale avocado blame produce deal hurry";

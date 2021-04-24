@@ -1,1 +1,1 @@
-var mnemonic = "doctor rapid wait mention same bitter grant love reflect identify primary shoe";
+var mnemonic = "scrub myself crouch air kick magnet prepare naive cool recipe rose strong";

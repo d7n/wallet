@@ -1,1 +1,1 @@
-var mnemonic = "immune opinion banana sweet chuckle trip exile build put vast window globe";
+var mnemonic = "hedgehog weekend under spot piece desk produce tumble utility upon wife craft";

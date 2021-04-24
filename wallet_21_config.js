@@ -1,1 +1,1 @@
-var mnemonic = "aisle shine patch police decrease slow fetch beyond lake hill zone skin";
+var mnemonic = "vacuum expect mad urge same scrub blossom already assume surround flower comic";

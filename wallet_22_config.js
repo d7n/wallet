@@ -1,1 +1,1 @@
-var mnemonic = "apart summer camp area axis limit leisure loud myth occur ask sorry";
+var mnemonic = "hurry conduct analyst pair expire know wrong cheese apart air category rabbit";

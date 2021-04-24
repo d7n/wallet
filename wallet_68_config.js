@@ -1,1 +1,1 @@
-var mnemonic = "modify hurt spoon hire brown cake plate load expect garlic define village";
+var mnemonic = "screen equal base purchase always era use biology bag zone size cake";

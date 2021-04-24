@@ -1,1 +1,1 @@
-var mnemonic = "speak toss horn recall rich crime one provide stuff fall average napkin";
+var mnemonic = "six bring style aisle reflect universe viable hollow install topic arena cable";

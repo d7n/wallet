@@ -1,1 +1,1 @@
-var mnemonic = "hobby agent almost busy view reduce light switch anchor share any voyage";
+var mnemonic = "crawl record segment subject increase pony world spawn wonder practice between clean";

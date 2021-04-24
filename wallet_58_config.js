@@ -1,1 +1,1 @@
-var mnemonic = "consider lonely mean breeze main traffic predict depend army body possible boat";
+var mnemonic = "unfold force rice head bag hill screen grid wrap whale image easily";

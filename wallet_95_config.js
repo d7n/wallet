@@ -1,1 +1,1 @@
-var mnemonic = "chaos draw split screen banner foster error quarter nature juice ring boss";
+var mnemonic = "main abuse deputy wave cherry body duck frozen dust plate silver uphold";

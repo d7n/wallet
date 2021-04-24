@@ -1,1 +1,1 @@
-var mnemonic = "sleep film gauge lyrics own flip edge online monster south suggest cake";
+var mnemonic = "chair engage ceiling solar brisk license home crop base light certain rabbit";

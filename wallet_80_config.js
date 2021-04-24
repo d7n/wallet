@@ -1,1 +1,1 @@
-var mnemonic = "behave family decrease want great reform board region author radio index rally";
+var mnemonic = "sketch abandon odor picnic venue soft drop lobster unfair inject doctor fire";

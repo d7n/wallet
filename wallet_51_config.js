@@ -1,1 +1,1 @@
-var mnemonic = "unknown keen harbor same express damage reason crisp oxygen harvest faculty electric";
+var mnemonic = "ridge husband goose believe woman village primary speak seek silk zero catalog";

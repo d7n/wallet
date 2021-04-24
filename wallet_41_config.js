@@ -1,1 +1,1 @@
-var mnemonic = "hire foster base pottery broom claw pizza rely vibrant gorilla nut essay";
+var mnemonic = "body daring dismiss wear between sell ugly faint action palm shiver what";

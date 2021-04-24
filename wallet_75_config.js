@@ -1,1 +1,1 @@
-var mnemonic = "method leg maple wonder crane stable digital math indicate social enact kingdom";
+var mnemonic = "sand above exhaust expire creek foil claim coral jelly expect know sail";

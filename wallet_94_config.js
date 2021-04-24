@@ -1,1 +1,1 @@
-var mnemonic = "taxi tourist sibling riot average wire rose torch runway leader fancy firm";
+var mnemonic = "reopen enlist convince race custom allow uncle velvet jungle grain myth course";

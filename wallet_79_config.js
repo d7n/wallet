@@ -1,1 +1,1 @@
-var mnemonic = "tissue melt weekend area switch dish cup salad seat oxygen limit clay";
+var mnemonic = "razor marriage duty cruel casino add congress machine reduce visa photo coil";

@@ -1,1 +1,1 @@
-var mnemonic = "wheel scrub butter endless boil grape buzz idle basic essay mushroom above";
+var mnemonic = "mask era animal sign exclude pipe loyal scrap smoke ahead position media";

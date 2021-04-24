@@ -1,1 +1,1 @@
-var mnemonic = "top member leaf elbow immense soccer hard minimum rich move service mechanic";
+var mnemonic = "hospital valley bird mail speak label visa dash quarter canoe entry nest";

@@ -1,1 +1,1 @@
-var mnemonic = "copper card stereo holiday exhaust cousin slam lunar thought awful please globe";
+var mnemonic = "bread early juice blast arch burger convince grunt equip put bring happy";

@@ -1,1 +1,1 @@
-var mnemonic = "soon arch believe pill kit gallery street tilt vocal torch uncover basic";
+var mnemonic = "august simple chef little deny core rent clutch rug record congress obey";

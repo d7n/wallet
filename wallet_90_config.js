@@ -1,1 +1,1 @@
-var mnemonic = "brain vital capital silly height giant acid patrol vast inhale suspect mind";
+var mnemonic = "coil tone asthma evolve apple trust citizen forum swallow law zero april";

@@ -1,1 +1,1 @@
-var mnemonic = "rough trouble insect little van else cook about egg ecology when joke";
+var mnemonic = "witness clap void echo forward embody hockey buyer crack gap moment burst";

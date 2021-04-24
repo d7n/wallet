@@ -1,1 +1,1 @@
-var mnemonic = "sword clog civil mask patient imitate credit cereal salute canoe scissors acoustic";
+var mnemonic = "click find shrimp plunge news income three spatial nasty pulp color weapon";

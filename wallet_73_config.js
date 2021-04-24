@@ -1,1 +1,1 @@
-var mnemonic = "juice force crowd example frequent sauce push gold author oil load intact";
+var mnemonic = "degree congress refuse afford jealous odor ship radar lend script actress december";

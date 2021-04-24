@@ -1,1 +1,1 @@
-var mnemonic = "excite tackle boil attract edge tongue early mom answer stumble pumpkin impulse";
+var mnemonic = "rude choose step razor urban clown trip afford blur basic hub enact";

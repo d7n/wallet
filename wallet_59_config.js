@@ -1,1 +1,1 @@
-var mnemonic = "fish gap dance shadow april strong december again dice fragile crush soda";
+var mnemonic = "one business entire point harbor kiwi since ridge parent drill jaguar turtle";

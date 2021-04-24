@@ -1,1 +1,1 @@
-var mnemonic = "then come poet faint oval soft open cheese silent combine travel glad";
+var mnemonic = "husband razor fall reform fall embody panic lawsuit misery frog hood rib";

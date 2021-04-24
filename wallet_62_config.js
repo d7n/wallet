@@ -1,1 +1,1 @@
-var mnemonic = "pulp cave raw butter common turkey horse another paddle gas verify stay";
+var mnemonic = "jewel grain wise awful city follow august index kiss surround image defense";

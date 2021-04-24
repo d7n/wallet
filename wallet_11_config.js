@@ -1,1 +1,1 @@
-var mnemonic = "artwork west over number auction rigid ritual vibrant syrup rocket supply rib";
+var mnemonic = "universe fetch adult pilot skin apart wash survey alien trouble unknown assume";

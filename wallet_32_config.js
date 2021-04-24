@@ -1,1 +1,1 @@
-var mnemonic = "all raise student beach hungry camp tilt asset vintage erupt swim sword";
+var mnemonic = "limb echo hobby angle glow helmet advance crystal tourist minor urge neglect";

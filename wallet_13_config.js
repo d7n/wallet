@@ -1,1 +1,1 @@
-var mnemonic = "hill coyote hollow cinnamon resemble world sell obtain spoil glass mention flower";
+var mnemonic = "wall wise solve nice accuse letter sea green pink dinosaur vacuum direct";

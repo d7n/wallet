@@ -1,1 +1,1 @@
-var mnemonic = "canyon caution captain sleep reduce recall soft switch asthma hedgehog drum memory";
+var mnemonic = "panther finger insect group inside three fancy any resemble typical plastic river";

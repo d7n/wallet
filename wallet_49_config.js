@@ -1,1 +1,1 @@
-var mnemonic = "exchange element govern father tree umbrella heavy inherit tortoise struggle gloom found";
+var mnemonic = "canyon once trigger drive strike fresh number own judge voyage wink excuse";

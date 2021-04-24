@@ -1,1 +1,1 @@
-var mnemonic = "motion fever puppy comic dad mansion title limit final they door exhaust";
+var mnemonic = "blame language nature attend choose pupil iron series give change twice sure";

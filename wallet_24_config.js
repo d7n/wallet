@@ -1,1 +1,1 @@
-var mnemonic = "strategy feed february buyer consider emotion when praise upon render radio tortoise";
+var mnemonic = "bright degree wood addict prosper sister scan virtual add proud champion merge";

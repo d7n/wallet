@@ -1,1 +1,1 @@
-var mnemonic = "fury diamond venue clarify poverty basic bargain cereal flame end lazy found";
+var mnemonic = "same pink near scout begin game glare cross runway gospel suffer any";

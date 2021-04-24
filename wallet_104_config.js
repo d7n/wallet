@@ -1,1 +1,1 @@
-var mnemonic = "army spring bread spirit nominee enforce crouch fold swallow youth depart pencil";
+var mnemonic = "umbrella tackle cook hip kangaroo flash across window slogan divert open position";

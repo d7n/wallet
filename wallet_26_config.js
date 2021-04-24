@@ -1,1 +1,1 @@
-var mnemonic = "verb vicious gaze jungle village multiply next paper veteran foster force jungle";
+var mnemonic = "pistol interest version collect robust happy brick version weapon merge scene reflect";

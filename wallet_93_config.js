@@ -1,1 +1,1 @@
-var mnemonic = "stairs bulb leg sheriff stage tribe head elbow potato cactus net draft";
+var mnemonic = "dose solid mammal brush practice filter advance salute craft charge endorse obscure";

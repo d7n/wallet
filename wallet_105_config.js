@@ -1,1 +1,1 @@
-var mnemonic = "door merry skull beyond script aspect potato lion coral always exit flavor";
+var mnemonic = "paddle ice address odor slender choice globe inherit topic harvest model achieve";

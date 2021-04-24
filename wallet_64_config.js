@@ -1,1 +1,1 @@
-var mnemonic = "divorce aunt kangaroo knock timber castle dumb unfold release expose device negative";
+var mnemonic = "assist gate pole mind margin retreat trim elder open palace junk master";

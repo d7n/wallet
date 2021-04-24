@@ -1,1 +1,1 @@
-var mnemonic = "proud industry journey polar gorilla infant warm blood cave utility dial fiscal";
+var mnemonic = "sing vault palm mechanic curious tribe put ceiling puppy ready ketchup teach";

@@ -1,1 +1,1 @@
-var mnemonic = "parade december noise offer journey soccer powder trouble pen fox debris silent";
+var mnemonic = "need two calm armed awful betray visual chat shuffle token lake hundred";

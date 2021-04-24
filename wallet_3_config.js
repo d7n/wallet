@@ -1,1 +1,1 @@
-var mnemonic = "ordinary eye depend drill gaze crucial bacon traffic where scatter original amount";
+var mnemonic = "abandon scorpion mask math bridge endless offer witness hidden hotel process venue";

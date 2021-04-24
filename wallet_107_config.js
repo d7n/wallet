@@ -1,1 +1,1 @@
-var mnemonic = "dad come worry say pull seek odor need there cruel obtain modify";
+var mnemonic = "piano plunge pull obey salt kitten route audit bracket hello wild place";

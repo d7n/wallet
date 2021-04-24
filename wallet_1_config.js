@@ -1,1 +1,1 @@
-var mnemonic = "close path endless betray couch surface work loan month shop post trip";
+var mnemonic = "walk work shoe empower print great error myself head actress iron blood";

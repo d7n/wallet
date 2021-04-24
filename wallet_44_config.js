@@ -1,1 +1,1 @@
-var mnemonic = "effort round eternal stuff foot foil panel sister puppy join tail cart";
+var mnemonic = "razor stick wheel manage capable task bleak exclude final treat between apart";

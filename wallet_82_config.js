@@ -1,1 +1,1 @@
-var mnemonic = "bottom design between slim gate tiger clarify cabbage oblige almost near patch";
+var mnemonic = "describe visa season jaguar copper prefer dust stick chicken eager fruit lift";

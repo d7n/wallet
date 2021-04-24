@@ -1,1 +1,1 @@
-var mnemonic = "drip hair lobster tragic know orphan minute inflict glance pupil play vast";
+var mnemonic = "cause coffee piano jewel update goat lunar avoid steak cherry medal purpose";

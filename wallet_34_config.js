@@ -1,1 +1,1 @@
-var mnemonic = "relax clip illegal text horse little inch news snow canyon advice civil";
+var mnemonic = "maple decade feature lamp pumpkin island acquire topic force fold sustain own";

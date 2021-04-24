@@ -1,1 +1,1 @@
-var mnemonic = "pluck retire resemble build skirt wagon rather average dose mirror prison sadness";
+var mnemonic = "oven session local column fork hour demand exclude hotel pottery motor come";

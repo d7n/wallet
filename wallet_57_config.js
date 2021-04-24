@@ -1,1 +1,1 @@
-var mnemonic = "total dust scheme resource champion yellow boring diary setup armor town install";
+var mnemonic = "example ordinary account release repair stool web angry cement example never any";

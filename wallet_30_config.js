@@ -1,1 +1,1 @@
-var mnemonic = "average subway satisfy music cabin elite plunge lizard wedding enhance chef employ";
+var mnemonic = "oyster blanket step arrest route over despair lunar version pencil solar judge";

@@ -1,1 +1,1 @@
-var mnemonic = "device table hat topple forget pet cluster essence pole siren range pilot";
+var mnemonic = "jewel tape fever dress venue drill cave pulp barrel wild table festival";

@@ -1,1 +1,1 @@
-var mnemonic = "matter merry angle slight flavor nut under satisfy sword poet rifle cabin";
+var mnemonic = "spawn embody join display farm spike rhythm unveil photo zone change crew";

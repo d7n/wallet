@@ -1,1 +1,1 @@
-var mnemonic = "report ivory wear method mix urban measure curtain teach chaos beyond museum";
+var mnemonic = "whisper couple exist top unique frog evolve wink poem hockey leaf ride";

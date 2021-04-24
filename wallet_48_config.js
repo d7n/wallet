@@ -1,1 +1,1 @@
-var mnemonic = "asthma sister grow venue ankle leg feature climb chief dream caution behave";
+var mnemonic = "pulp alone year menu destroy width tuition flee memory good gold spawn";

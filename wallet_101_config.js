@@ -1,1 +1,1 @@
-var mnemonic = "enter hotel run long walk snake raise opera check permit dose sample";
+var mnemonic = "latin talent embark web under forum setup betray hub raven shop shadow";

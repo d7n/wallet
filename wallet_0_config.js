@@ -1,1 +1,1 @@
-var mnemonic = "squeeze float endorse champion figure rent smoke ticket hospital nice reform rebuild";
+var mnemonic = "canal car long project figure damage below because fall equip popular cable";

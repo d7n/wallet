@@ -1,1 +1,1 @@
-var mnemonic = "wet enroll oppose comic math track firm matter novel eagle worry soon";
+var mnemonic = "anchor detect help spice pudding play oak vehicle boss menu artist vessel";

@@ -1,1 +1,1 @@
-var mnemonic = "dress belt step little ring stamp bitter bright bomb bamboo cargo struggle";
+var mnemonic = "consider ride pitch hope feel genius patch about lion parent bottom repair";

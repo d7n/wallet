@@ -1,1 +1,1 @@
-var mnemonic = "congress enhance before sausage torch train runway spend island doctor mail syrup";
+var mnemonic = "return appear van cheap sniff govern sing cactus fork maid mechanic step";

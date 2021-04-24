@@ -1,1 +1,1 @@
-var mnemonic = "shadow cheese vote belt scorpion merit flavor build close cross another clay";
+var mnemonic = "old oxygen security escape clay arm desk wife satisfy sense praise nominee";

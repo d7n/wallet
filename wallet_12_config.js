@@ -1,1 +1,1 @@
-var mnemonic = "pottery tonight lift pioneer neutral ready stumble bottom mother plunge size sugar";
+var mnemonic = "fruit police gym matrix salad input cram live basket grain sun tool";

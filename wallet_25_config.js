@@ -1,1 +1,1 @@
-var mnemonic = "tilt frog place sell rice short caught arch net involve amazing upgrade";
+var mnemonic = "someone garment glimpse wealth latin turtle barely slot skirt network shy mirror";

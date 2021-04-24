@@ -1,1 +1,1 @@
-var mnemonic = "height useful brave believe purse volcano pledge drift palace flee agree private";
+var mnemonic = "write trap whip fit detect total school exclude review amused filter ten";

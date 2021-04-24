@@ -1,1 +1,1 @@
-var mnemonic = "animal order alter round genre alley latin cigar toward play math swallow";
+var mnemonic = "clog indicate whip crawl uphold yellow damage clutch pluck inflict brown endorse";

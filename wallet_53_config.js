@@ -1,1 +1,1 @@
-var mnemonic = "moon wing rebel ring pass coyote sibling flee whip fiscal another ghost";
+var mnemonic = "announce cute cat stick shed unable sting main few beach slow quote";

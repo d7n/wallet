@@ -1,1 +1,1 @@
-var mnemonic = "rug blind brief menu rely recycle switch crazy trouble crouch verb velvet";
+var mnemonic = "accuse nerve garlic balcony rate clump dice silk acoustic company coconut rival";

@@ -1,1 +1,1 @@
-var mnemonic = "neither exhibit safe oil truck network toddler miracle story hammer across rare";
+var mnemonic = "inspire inform faint merge dilemma side symptom taste dirt now blast wrap";

@@ -1,1 +1,1 @@
-var mnemonic = "indoor toast time key math merge fitness pact rude fruit inflict plug";
+var mnemonic = "feel defy able mansion ghost blood gaze school kidney street feature place";

@@ -1,1 +1,1 @@
-var mnemonic = "vault crack unable tool broken rally invite topple mesh view either burger";
+var mnemonic = "suspect fun cabbage coil report prefer yellow oyster poverty project prefer daring";

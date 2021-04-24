@@ -1,1 +1,1 @@
-var mnemonic = "road picture into color van flip state come dress topple cinnamon basket";
+var mnemonic = "silly spirit virus jelly easily other mention tomato clean era mosquito void";

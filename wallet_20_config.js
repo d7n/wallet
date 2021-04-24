@@ -1,1 +1,1 @@
-var mnemonic = "chair reopen crash stairs machine ceiling risk injury clinic recipe hurdle indicate";
+var mnemonic = "any beach tide ginger stick remove finish history van twenty cliff essay";

@@ -1,1 +1,1 @@
-var mnemonic = "mistake rain piano void ten stay sand melt session reopen cotton margin";
+var mnemonic = "inherit cat blast garment mail approve ice polar fork surprise winter toast";

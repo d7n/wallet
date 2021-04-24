@@ -1,1 +1,1 @@
-var mnemonic = "school flag forest behind kiwi alone input then silver short manual river";
+var mnemonic = "fortune forward toss basic leisure chimney shift clog awkward phrase present idea";

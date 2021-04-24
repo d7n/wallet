@@ -1,1 +1,1 @@
-var mnemonic = "travel panic horror puzzle home exist tired exercise artwork cousin lift minor";
+var mnemonic = "never season key survey two ask unknown ramp speak bargain effort flavor";

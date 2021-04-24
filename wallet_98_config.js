@@ -1,1 +1,1 @@
-var mnemonic = "cluster bone depart later detect stand debate close remain pitch rescue climb";
+var mnemonic = "shallow enact narrow chat series gadget trick door extra penalty cause window";

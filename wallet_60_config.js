@@ -1,1 +1,1 @@
-var mnemonic = "liar arrange follow crane skin action rare fire dog until vapor that";
+var mnemonic = "alley snack maze height fragile rice bulk lens always render float regret";

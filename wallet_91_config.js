@@ -1,1 +1,1 @@
-var mnemonic = "book dial sail best script saddle predict mean rude charge helmet sheriff";
+var mnemonic = "famous camp dress advice luxury bind ancient beauty arena awake convince scorpion";
