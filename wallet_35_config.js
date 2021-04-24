@@ -1,1 +1,1 @@
-var mnemonic = "heavy slide ready boost collect endorse grit impose juice aisle maze tilt";
+var mnemonic = "pencil punch seek fly portion sunny nut idea say couple prosper swarm";

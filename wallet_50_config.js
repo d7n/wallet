@@ -1,1 +1,1 @@
-var mnemonic = "truly south test dune critic color place nominee lobster present kiss cable";
+var mnemonic = "zebra cattle raise harsh increase pottery image wave into turtle miss again";

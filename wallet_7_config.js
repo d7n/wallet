@@ -1,1 +1,1 @@
-var mnemonic = "despair cluster depth brother awesome catch resist tell stairs entire casual useless";
+var mnemonic = "elbow kidney excuse point regular sustain theory crop knee cupboard indoor citizen";

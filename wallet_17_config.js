@@ -1,1 +1,1 @@
-var mnemonic = "occur choice pipe energy shadow guide sad jazz steel snow coconut erase";
+var mnemonic = "knock click buffalo humble dignity more oyster field step chunk amount tone";

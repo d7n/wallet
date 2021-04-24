@@ -1,1 +1,1 @@
-var mnemonic = "side first similar pupil clerk rude hidden load child steak rose dinner";
+var mnemonic = "cousin portion auction veteran gadget park ticket call other absurd submit lyrics";

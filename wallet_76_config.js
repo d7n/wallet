@@ -1,1 +1,1 @@
-var mnemonic = "chapter similar cigar special time view shoe elite host dizzy sting recycle";
+var mnemonic = "yard rhythm renew blouse material you bracket panic eight awful festival lonely";

@@ -1,1 +1,1 @@
-var mnemonic = "fame erase wreck fever route rigid spare just icon stomach profit timber";
+var mnemonic = "buyer fine vault ride track hammer tilt hammer frozen diesel pull awkward";

@@ -1,1 +1,1 @@
-var mnemonic = "air sentence bless pluck tackle obtain siege tomato magnet master domain claim";
+var mnemonic = "length minute merit anger symbol orchard main tourist melt author enhance garden";

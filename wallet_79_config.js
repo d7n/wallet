@@ -1,1 +1,1 @@
-var mnemonic = "bike girl calm movie speed average measure alley message air pear wreck";
+var mnemonic = "vacuum roof enemy excite situate misery hurry position upon quote caution issue";

@@ -1,1 +1,1 @@
-var mnemonic = "amazing tonight position remind party vault forward grid flat crash marine wild";
+var mnemonic = "round blue figure lyrics husband blush boil dwarf prison vocal check today";

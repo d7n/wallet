@@ -1,1 +1,1 @@
-var mnemonic = "dynamic magic cake choice amazing transfer inherit sphere alcohol pistol choose raise";
+var mnemonic = "earth winter brain yard solar rely zero tilt bag dance upon army";

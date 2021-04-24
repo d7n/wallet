@@ -1,1 +1,1 @@
-var mnemonic = "amateur resist gadget harbor awesome master lunch salad coin useful vessel stay";
+var mnemonic = "rapid live tourist trick fossil trash private spatial goddess connect rude keep";

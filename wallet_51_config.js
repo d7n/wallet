@@ -1,1 +1,1 @@
-var mnemonic = "mechanic real crucial bulb sunny kitten volcano lyrics talent potato alone never";
+var mnemonic = "extend garden bracket simple section hole pistol theory radio quiz feel crew";

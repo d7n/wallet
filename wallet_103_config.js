@@ -1,1 +1,1 @@
-var mnemonic = "harsh tube ketchup eager depth crouch twice almost frog unaware amazing music";
+var mnemonic = "random protect measure funny brief discover valve giggle primary energy october oil";

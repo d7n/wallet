@@ -1,1 +1,1 @@
-var mnemonic = "viable history jelly guess okay rigid razor law approve zoo plate human";
+var mnemonic = "bargain glue close possible mobile hard awake aisle balance engage produce modify";

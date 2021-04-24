@@ -1,1 +1,1 @@
-var mnemonic = "paddle violin truck media pepper vote quote blind income custom conduct guess";
+var mnemonic = "churn alpha kind borrow stone female brick happy peasant wall weekend imitate";

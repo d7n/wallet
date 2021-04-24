@@ -1,1 +1,1 @@
-var mnemonic = "ahead spike bamboo toward notice rib shiver logic make leader faith trick";
+var mnemonic = "empty farm envelope alter waste shoot ensure debate claw emotion pear alcohol";

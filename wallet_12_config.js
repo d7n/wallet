@@ -1,1 +1,1 @@
-var mnemonic = "make pelican love bag plug hair jacket twelve fame surprise hole reform";
+var mnemonic = "buddy ocean nature shield cat deputy coast noise vapor need shop sure";

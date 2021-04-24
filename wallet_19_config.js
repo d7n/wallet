@@ -1,1 +1,1 @@
-var mnemonic = "gloom finish mail sword artefact galaxy winter hat pattern fossil giant beauty";
+var mnemonic = "clump reform bleak regret blossom field worry term jaguar broom soccer kiss";

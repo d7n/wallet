@@ -1,1 +1,1 @@
-var mnemonic = "sister breeze gap desert few bonus expire lucky crawl talk aunt garbage";
+var mnemonic = "april list syrup avocado shove harbor snap laptop hunt tiger hotel story";

@@ -1,1 +1,1 @@
-var mnemonic = "drip brain service first subway pottery urge unique arrive marble envelope cave";
+var mnemonic = "suspect smile viable vivid fog chronic order garbage name gate glance prosper";

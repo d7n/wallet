@@ -1,1 +1,1 @@
-var mnemonic = "govern since sand churn arrest dove bitter mass exist surround another small";
+var mnemonic = "total blanket vast situate cradle stable fitness frost trumpet hazard among october";

@@ -1,1 +1,1 @@
-var mnemonic = "napkin tornado belt airport evoke angle push poverty hire gate beach actress";
+var mnemonic = "dial scrub wisdom month sort embody era worth install still squeeze oyster";

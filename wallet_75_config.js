@@ -1,1 +1,1 @@
-var mnemonic = "order own stomach drill nurse gold act adjust spirit gaze feed tunnel";
+var mnemonic = "furnace poet auction imitate now hidden wide alarm joy solve almost area";

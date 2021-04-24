@@ -1,1 +1,1 @@
-var mnemonic = "cup salt scout swallow silly rabbit physical identify fuel sentence myself crawl";
+var mnemonic = "cotton balcony escape program tobacco basic motion stove fiber air excuse language";

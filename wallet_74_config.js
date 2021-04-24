@@ -1,1 +1,1 @@
-var mnemonic = "critic history tilt example fatal dream donkey outside embrace gather segment gate";
+var mnemonic = "other since train similar immune fantasy crew real begin couple sustain tennis";

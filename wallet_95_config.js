@@ -1,1 +1,1 @@
-var mnemonic = "cannon caught board stuff vanish lemon actress deny girl sting wealth pulse";
+var mnemonic = "orange vivid orange ridge course much debate diesel fine soft gather lock";

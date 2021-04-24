@@ -1,1 +1,1 @@
-var mnemonic = "jazz song volume creek fancy lawsuit basket female suffer brisk sustain flee";
+var mnemonic = "photo keen visa breeze answer belt hill next woman potato when capable";

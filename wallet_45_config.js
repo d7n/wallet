@@ -1,1 +1,1 @@
-var mnemonic = "warfare hurt essence shrimp office glove beef twenty silly major can tumble";
+var mnemonic = "phrase race check enjoy rug slight slight music strong spread core life";

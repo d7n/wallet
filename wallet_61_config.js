@@ -1,1 +1,1 @@
-var mnemonic = "enhance dirt mixture mean poem sauce rude blind cup message that absurd";
+var mnemonic = "oyster urban remove open fashion foil bleak sweet skirt else peasant liar";

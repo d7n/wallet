@@ -1,1 +1,1 @@
-var mnemonic = "crumble animal foster enough session unhappy boost myself noodle rotate exist engage";
+var mnemonic = "mom fancy praise layer umbrella sample cross transfer draft tone drill mirror";

@@ -1,1 +1,1 @@
-var mnemonic = "arrive swing critic logic matter plate tree dignity trick exit pear catch";
+var mnemonic = "cup pond force release will sugar radar into orchard follow interest afford";

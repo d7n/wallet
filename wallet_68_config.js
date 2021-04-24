@@ -1,1 +1,1 @@
-var mnemonic = "outer supply pair wink busy honey roof fork knee price census rescue";
+var mnemonic = "lonely addict shed arm dolphin antenna flush sick cross health skirt blanket";

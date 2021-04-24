@@ -1,1 +1,1 @@
-var mnemonic = "solution spice surprise motion tunnel element kick derive liberty labor yard fence";
+var mnemonic = "affair view quantum doctor unable team diesel author powder lesson guide snake";

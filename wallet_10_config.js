@@ -1,1 +1,1 @@
-var mnemonic = "lens photo arch acid size saddle coil donor group clog physical tiny";
+var mnemonic = "opinion debate excess man misery slow crew girl sorry either forward advice";

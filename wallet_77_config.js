@@ -1,1 +1,1 @@
-var mnemonic = "sock kick december rapid poverty hawk glimpse pink chronic oxygen mixture ketchup";
+var mnemonic = "monkey around roof tell mansion umbrella liar bamboo call notable blind honey";

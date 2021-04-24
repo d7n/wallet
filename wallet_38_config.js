@@ -1,1 +1,1 @@
-var mnemonic = "exhaust clap aim rally multiply heart truth shine disease dawn scale hamster";
+var mnemonic = "clutch crash economy faint mosquito galaxy brand giant enforce burger remember two";

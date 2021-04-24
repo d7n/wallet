@@ -1,1 +1,1 @@
-var mnemonic = "coil under write glad jungle frequent vicious hour firm area assist love";
+var mnemonic = "edit fine ice panel someone shy use frozen stomach sample soul build";

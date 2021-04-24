@@ -1,1 +1,1 @@
-var mnemonic = "bring viable dentist boring panda public install invest script defy earn sheriff";
+var mnemonic = "cement define laptop family dinosaur super gasp sample super retire blur tackle";

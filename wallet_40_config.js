@@ -1,1 +1,1 @@
-var mnemonic = "muscle squeeze six quit repair gown fancy random result image olive legal";
+var mnemonic = "gloom crush link shiver slogan iron canal morning ecology doll fatal crack";

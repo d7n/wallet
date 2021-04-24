@@ -1,1 +1,1 @@
-var mnemonic = "glass switch sight lazy clump coast swamp occur trash stick similar nuclear";
+var mnemonic = "cage obvious brisk object palace trip venue group flip ladder kitchen all";

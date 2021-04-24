@@ -1,1 +1,1 @@
-var mnemonic = "depth monster guard mouse online curious traffic coast hole razor swallow cliff";
+var mnemonic = "breeze skate digital mouse slush link lobster lesson dinner group survey fringe";

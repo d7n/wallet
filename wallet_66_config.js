@@ -1,1 +1,1 @@
-var mnemonic = "earth company champion orbit rifle position hope inquiry rely dream song control";
+var mnemonic = "busy flat bus shrimp swamp husband give smile stool try sentence decorate";

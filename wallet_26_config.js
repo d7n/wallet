@@ -1,1 +1,1 @@
-var mnemonic = "magic lounge ask skin shell myth panel trick sniff onion advice avocado";
+var mnemonic = "strong ginger web cancel anchor decorate size general step bus scale fit";

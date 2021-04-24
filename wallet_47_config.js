@@ -1,1 +1,1 @@
-var mnemonic = "side bright rib cliff social razor access ticket menu friend early tonight";
+var mnemonic = "amazing lobster country airport rapid ramp abstract ask wide praise ill refuse";

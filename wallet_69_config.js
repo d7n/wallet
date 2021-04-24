@@ -1,1 +1,1 @@
-var mnemonic = "pigeon purse walnut uniform snap furnace extend view side warfare sugar kiss";
+var mnemonic = "drive honey hidden loop page animal student inch venture muffin shrimp bulb";

@@ -1,1 +1,1 @@
-var mnemonic = "promote foster thunder build thank juice tell love olympic must general song";
+var mnemonic = "float assault luxury garbage surface eternal mad claim approve slot banner valley";

@@ -1,1 +1,1 @@
-var mnemonic = "nurse jar slogan usual fade skin unknown text kidney deal mushroom spawn";
+var mnemonic = "provide hobby three season alien copy stable culture crowd warm toss tomato";

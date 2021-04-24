@@ -1,1 +1,1 @@
-var mnemonic = "door space tube album turkey oak plate drastic soft doctor dilemma end";
+var mnemonic = "carry cargo still panda useful blossom carpet disorder bargain accident misery stamp";

@@ -1,1 +1,1 @@
-var mnemonic = "casual negative cry sting tone swallow piano retreat farm fly when letter";
+var mnemonic = "brisk kitchen warfare subject regular genius indoor page execute rent visit federal";

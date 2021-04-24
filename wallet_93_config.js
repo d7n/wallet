@@ -1,1 +1,1 @@
-var mnemonic = "clip taste better tone decide below capable wood dilemma jelly month able";
+var mnemonic = "asthma grain menu any aware safe resist pipe subway breeze shoot bubble";

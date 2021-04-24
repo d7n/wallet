@@ -1,1 +1,1 @@
-var mnemonic = "photo sample noodle spare vapor profit add noise latin cry lift expect";
+var mnemonic = "hard trigger mouse concert swing visa ball enough slim yellow elite hire";

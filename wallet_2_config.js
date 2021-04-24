@@ -1,1 +1,1 @@
-var mnemonic = "circle travel jungle library mercy nut million miss wolf toe key powder";
+var mnemonic = "manage neck luxury finger solution then orchard grief witness quantum trumpet climb";

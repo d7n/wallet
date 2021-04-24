@@ -1,1 +1,1 @@
-var mnemonic = "plug minimum during ranch gown artefact hospital glue also smile rifle now";
+var mnemonic = "rookie uncle pyramid only tortoise picture tragic pledge burst slide walnut steel";

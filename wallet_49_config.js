@@ -1,1 +1,1 @@
-var mnemonic = "sentence degree park logic option dinosaur satoshi patrol drastic figure wolf radio";
+var mnemonic = "ordinary vintage race gun ethics amount fish hospital voyage source innocent purchase";

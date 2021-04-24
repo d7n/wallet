@@ -1,1 +1,1 @@
-var mnemonic = "gold silent wealth scatter vendor system sting fly diamond bronze uncover denial";
+var mnemonic = "enforce excess umbrella behind mom ripple common predict defense exit return elephant";

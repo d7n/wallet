@@ -1,1 +1,1 @@
-var mnemonic = "cactus faculty try afford hub bridge sign escape wrist pencil oppose setup";
+var mnemonic = "blur end mixed topic february model board birth combine hint stock often";

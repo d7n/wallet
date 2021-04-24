@@ -1,1 +1,1 @@
-var mnemonic = "plastic virus digital taxi surface private snow inhale spirit announce return element";
+var mnemonic = "lesson stock announce mention fork casino uncle hint three bonus return quiz";

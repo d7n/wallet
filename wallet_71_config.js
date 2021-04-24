@@ -1,1 +1,1 @@
-var mnemonic = "curtain canvas hybrid crumble claim ensure early fetch rent dose quarter fringe";
+var mnemonic = "void anxiety disease poem guilt suspect grant boss book rhythm debris ocean";

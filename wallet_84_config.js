@@ -1,1 +1,1 @@
-var mnemonic = "ill carbon typical world time agent eight worry list express balance solid";
+var mnemonic = "unusual humble gadget veteran brain usage awesome decide mandate sweet left album";

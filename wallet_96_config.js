@@ -1,1 +1,1 @@
-var mnemonic = "ramp steak today afraid umbrella token blossom prison agent fix basket wisdom";
+var mnemonic = "acid tank sun pen chat warrior rhythm ordinary inject pill couch congress";

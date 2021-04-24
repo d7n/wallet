@@ -1,1 +1,1 @@
-var mnemonic = "penalty analyst craft escape tray input hood display brother legal level finger";
+var mnemonic = "predict index list earn seminar crane diet dilemma reform very shoulder gaze";

@@ -1,1 +1,1 @@
-var mnemonic = "today kitten recipe few zone myth chase curious canal trick whisper phrase";
+var mnemonic = "eye round session bean demise seat upon immune toddler arrange rain spoon";

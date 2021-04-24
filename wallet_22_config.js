@@ -1,1 +1,1 @@
-var mnemonic = "enforce trash true estate utility charge crime color uniform stable spend attack";
+var mnemonic = "merry orange when canvas pretty enjoy mango spell rug soccer romance rib";

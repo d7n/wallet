@@ -1,1 +1,1 @@
-var mnemonic = "swallow garbage rabbit tackle plug beef remind alien fun cheap color debris";
+var mnemonic = "gun monkey senior ribbon open dumb lock drastic velvet rigid medal stick";

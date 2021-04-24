@@ -1,1 +1,1 @@
-var mnemonic = "scan issue rose address vast dwarf syrup absurd crunch rib coach style";
+var mnemonic = "baby vapor wink must want other trade uncover filter turn joke reveal";

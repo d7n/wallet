@@ -1,1 +1,1 @@
-var mnemonic = "vessel small sort trap upset amateur pioneer ride ill horror veteran explain";
+var mnemonic = "knife chimney today wasp uniform turn grant few limb assault rich course";

@@ -1,1 +1,1 @@
-var mnemonic = "delay blue follow breeze squirrel gentle size fiction hybrid soul vendor clip";
+var mnemonic = "hand fly supply project door canal dream slice pole velvet mammal coral";

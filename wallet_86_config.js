@@ -1,1 +1,1 @@
-var mnemonic = "eight lake valve avoid tackle sadness guard gentle keep emerge original foster";
+var mnemonic = "metal broom pact lunch horn final welcome car caution poet comic armed";

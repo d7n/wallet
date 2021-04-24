@@ -1,1 +1,1 @@
-var mnemonic = "slam wonder chef idle include foot law kick payment gift embark sure";
+var mnemonic = "scheme swift either situate impulse sport receive trouble spend occur auction luxury";

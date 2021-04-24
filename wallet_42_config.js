@@ -1,1 +1,1 @@
-var mnemonic = "erupt slow rug dilemma door mesh ceiling engine wine receive asthma violin";
+var mnemonic = "fashion thank cradle define video click pull company tag history twenty speed";

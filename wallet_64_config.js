@@ -1,1 +1,1 @@
-var mnemonic = "bulk silent pole slender skirt essay tool truly park jacket maid long";
+var mnemonic = "page view hidden lion juice path minor slot soldier indoor artefact leader";

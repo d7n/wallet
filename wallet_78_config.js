@@ -1,1 +1,1 @@
-var mnemonic = "agent trouble absent broom foil awful casino wall sugar dismiss carbon expire";
+var mnemonic = "stumble muscle good humble swim lazy slush goat report moon always valley";

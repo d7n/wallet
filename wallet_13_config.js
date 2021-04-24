@@ -1,1 +1,1 @@
-var mnemonic = "smart avoid general media pink company slow must valid wide salmon ridge";
+var mnemonic = "dad supply acid keen sunny risk gain chalk physical material grace broken";

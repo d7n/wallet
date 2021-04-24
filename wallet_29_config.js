@@ -1,1 +1,1 @@
-var mnemonic = "symbol tumble maximum fade gaze draft feature trial wheel notice sponsor much";
+var mnemonic = "piece fuel common joke adjust enjoy bright mushroom pledge ribbon adjust pumpkin";

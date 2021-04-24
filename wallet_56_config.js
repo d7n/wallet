@@ -1,1 +1,1 @@
-var mnemonic = "reopen rice slow appear village slot retreat unhappy laptop scatter steak fitness";
+var mnemonic = "crouch super scorpion bread service what recycle push alter document drop hurry";

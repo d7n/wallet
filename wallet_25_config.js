@@ -1,1 +1,1 @@
-var mnemonic = "tired stove belt sing inner lawsuit hint trouble file outer order update";
+var mnemonic = "certain web estate bomb pride believe stem prosper gun elite still ship";

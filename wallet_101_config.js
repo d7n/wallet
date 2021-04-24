@@ -1,1 +1,1 @@
-var mnemonic = "boost merge evidence grain tag roast bunker friend retire devote regret copy";
+var mnemonic = "kitchen sorry flock glove burger dignity accuse advice trap ripple lunch theme";

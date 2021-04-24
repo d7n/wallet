@@ -1,1 +1,1 @@
-var mnemonic = "crucial reunion bounce device stone approve slight rare ecology embark infant fatal";
+var mnemonic = "kiss jelly slogan energy farm body brain symbol slight rib potato sign";

@@ -1,1 +1,1 @@
-var mnemonic = "metal course galaxy apart common sport drink language cost topic meadow dose";
+var mnemonic = "fitness between chief hill razor predict daring venue park cave since lottery";

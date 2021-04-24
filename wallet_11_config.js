@@ -1,1 +1,1 @@
-var mnemonic = "one width female view canvas genius holiday find erosion kidney demise point";
+var mnemonic = "own unfold spend lawn lock ill captain first rely rely provide blind";

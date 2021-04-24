@@ -1,1 +1,1 @@
-var mnemonic = "fit stock exact swift tattoo hope minor advice reform appear pudding devote";
+var mnemonic = "shiver menu reveal cinnamon vocal switch runway pigeon mom icon claw dad";

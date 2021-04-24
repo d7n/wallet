@@ -1,1 +1,1 @@
-var mnemonic = "world science claw better oxygen toward region physical three task robust dinosaur";
+var mnemonic = "pitch glory hour fashion attack similar donate unit pretty combine way round";

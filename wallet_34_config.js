@@ -1,1 +1,1 @@
-var mnemonic = "pause apple type coil first pet home become rain confirm world shrug";
+var mnemonic = "because desert wage spawn kitten lesson devote ketchup dune pair eight slogan";

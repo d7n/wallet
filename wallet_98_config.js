@@ -1,1 +1,1 @@
-var mnemonic = "try legend eternal wash fit dad stamp coral energy predict dutch math";
+var mnemonic = "ozone sunset task develop pear border cotton country verify clay vessel lounge";

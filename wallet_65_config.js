@@ -1,1 +1,1 @@
-var mnemonic = "frame fox obscure photo kitchen brisk dash pill genre gospel section beauty";
+var mnemonic = "box expose antenna result story lazy joke east scare soap loyal knee";

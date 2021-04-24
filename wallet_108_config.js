@@ -1,1 +1,1 @@
-var mnemonic = "toast pond metal scissors inherit crystal artwork unaware strategy duck interest blue";
+var mnemonic = "fatal guilt prison earth pelican snack proof angry legal quiz region spoon";

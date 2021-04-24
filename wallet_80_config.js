@@ -1,1 +1,1 @@
-var mnemonic = "lazy borrow physical wonder ostrich reward hedgehog chief library pumpkin flag enforce";
+var mnemonic = "pencil vibrant autumn stove labor afraid social vivid veteran canyon case note";

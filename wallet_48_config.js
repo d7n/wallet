@@ -1,1 +1,1 @@
-var mnemonic = "mad rescue nominee person comic warrior clever brown office inflict voyage next";
+var mnemonic = "resist humble pool tunnel melody onion banana melt joy collect title broccoli";

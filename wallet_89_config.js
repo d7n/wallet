@@ -1,1 +1,1 @@
-var mnemonic = "crush comic valid seek clog page boss library warrior pulp area human";
+var mnemonic = "hill merit sweet minute resource fix search inherit merit surface room air";

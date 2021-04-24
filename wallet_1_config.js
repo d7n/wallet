@@ -1,1 +1,1 @@
-var mnemonic = "easily tell holiday ability kid erase half logic learn naive desert right";
+var mnemonic = "estate helmet enable fit peace gather print cup pull diamond stamp local";

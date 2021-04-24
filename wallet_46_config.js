@@ -1,1 +1,1 @@
-var mnemonic = "few attitude disagree together sort elbow bundle neutral pass stock utility celery";
+var mnemonic = "master mimic luggage ethics arrow safe poverty syrup address dish vault scrap";

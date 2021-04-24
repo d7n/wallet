@@ -1,1 +1,1 @@
-var mnemonic = "horn lunch maid marriage fever grit library position drive rally bone wealth";
+var mnemonic = "service daring fever parent voyage merit polar awful glare visual wheel cage";

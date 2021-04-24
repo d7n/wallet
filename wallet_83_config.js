@@ -1,1 +1,1 @@
-var mnemonic = "coach kiss master only amused churn jeans vacuum tape chunk method cereal";
+var mnemonic = "proof coyote kangaroo saddle cute nut much tape clock method blanket antenna";
