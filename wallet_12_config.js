@@ -1,1 +1,1 @@
-var mnemonic = "tiger solution agree next expect suffer skill walk quantum flee harsh army";
+var mnemonic = "skill brick prevent walk trumpet digital antique turkey copy aim source velvet";

@@ -1,1 +1,1 @@
-var mnemonic = "town nephew render cable inside blush toss lock strong toddler awkward thunder";
+var mnemonic = "hill settle uniform pumpkin social dismiss planet rare cross lounge clarify pear";

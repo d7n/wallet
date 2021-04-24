@@ -1,1 +1,1 @@
-var mnemonic = "oblige wet fault witness lend source fog banana visual human fragile snow";
+var mnemonic = "jar potato wink tip cushion ocean group sense inquiry corn napkin theory";

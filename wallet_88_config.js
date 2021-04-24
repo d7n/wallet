@@ -1,1 +1,1 @@
-var mnemonic = "decorate magnet field stick slam earth annual save obey cluster system cake";
+var mnemonic = "bonus derive frog giant coyote giant soccer regular net daring any mystery";

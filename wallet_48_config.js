@@ -1,1 +1,1 @@
-var mnemonic = "divide school brain work gloom chief buzz economy vault december demise way";
+var mnemonic = "sunny virus give together embark basket wasp horror tag affair visual deputy";

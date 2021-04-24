@@ -1,1 +1,1 @@
-var mnemonic = "garbage behind empower cart chronic garbage sketch swim expect true rather stool";
+var mnemonic = "wall thought history mass plunge indicate amount popular agent because text theme";

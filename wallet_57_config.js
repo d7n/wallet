@@ -1,1 +1,1 @@
-var mnemonic = "brass glance loop general chuckle version kite sun february ginger media supreme";
+var mnemonic = "oven furnace topic coil load disagree suffer vanish toilet gate unable elephant";

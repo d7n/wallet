@@ -1,1 +1,1 @@
-var mnemonic = "candy dilemma asset segment visit rely crunch cinnamon document dumb pilot choice";
+var mnemonic = "purse little assault ticket annual october blanket theme leg nice mixture rent";

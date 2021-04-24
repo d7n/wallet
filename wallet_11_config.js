@@ -1,1 +1,1 @@
-var mnemonic = "blind huge hour asset idle dutch planet property tool trophy wheat country";
+var mnemonic = "blouse because biology artefact canal august view obtain feed current speed else";

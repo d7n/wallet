@@ -1,1 +1,1 @@
-var mnemonic = "master power hard special juice brave obtain crunch girl what alone oppose";
+var mnemonic = "asset regret shed spoon toward dash cheese age inquiry used few weekend";

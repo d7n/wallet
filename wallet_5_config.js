@@ -1,1 +1,1 @@
-var mnemonic = "final camp oyster awkward toast broccoli member tourist wreck way steak wedding";
+var mnemonic = "enroll success unusual tilt shaft once equal shrimp agent stomach grid novel";

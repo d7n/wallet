@@ -1,1 +1,1 @@
-var mnemonic = "inhale news useful code apple wine between faculty quiz spread kiss demand";
+var mnemonic = "sudden lamp assist work spike swamp salt produce secret report swap awkward";

@@ -1,1 +1,1 @@
-var mnemonic = "jacket auto flock fossil submit medal spawn fabric extend bean six stadium";
+var mnemonic = "fatal require office donate display slice mobile hire course clog under rule";

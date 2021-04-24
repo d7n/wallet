@@ -1,1 +1,1 @@
-var mnemonic = "ahead erosion grab one warm brown treat same tool wool inhale success";
+var mnemonic = "beef either asset shield away smart south dance endless pause twist disease";

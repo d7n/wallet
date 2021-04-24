@@ -1,1 +1,1 @@
-var mnemonic = "vessel slush feel usage slogan admit runway dentist east all quote village";
+var mnemonic = "human top drill feed weapon annual disagree runway snap drive toast lyrics";

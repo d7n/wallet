@@ -1,1 +1,1 @@
-var mnemonic = "equip host pottery sand spider park spike raise lawsuit rescue puzzle fire";
+var mnemonic = "affair liberty random trigger trigger flee urban place wire recipe grain trigger";

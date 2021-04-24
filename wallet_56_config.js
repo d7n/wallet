@@ -1,1 +1,1 @@
-var mnemonic = "acid motion enhance gallery meadow cousin inmate tape rain casual screen digital";
+var mnemonic = "stuff warrior pupil lobster brush base gentle buzz fancy flower curve afraid";

@@ -1,1 +1,1 @@
-var mnemonic = "curtain injury talk clean meat very festival jelly asthma program belt own";
+var mnemonic = "situate combine citizen poet stamp leader puppy february release broccoli cover coil";

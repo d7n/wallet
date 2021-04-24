@@ -1,1 +1,1 @@
-var mnemonic = "resist reason enforce easily bicycle spatial tattoo tuna stick tongue involve company";
+var mnemonic = "hover hurdle ready victory excuse hungry deal lounge evidence sad achieve trial";

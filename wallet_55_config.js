@@ -1,1 +1,1 @@
-var mnemonic = "napkin loop alcohol device chicken real engage insect parade pistol rotate pair";
+var mnemonic = "police quarter will extend know swim hello dentist laundry crew cousin plunge";

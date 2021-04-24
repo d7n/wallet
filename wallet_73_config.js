@@ -1,1 +1,1 @@
-var mnemonic = "float twenty tuna sword notice punch ceiling change exotic gravity allow disagree";
+var mnemonic = "link brand turkey blast riot robot muffin giggle local meat balance upset";

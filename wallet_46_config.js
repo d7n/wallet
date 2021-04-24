@@ -1,1 +1,1 @@
-var mnemonic = "melody slide measure borrow point welcome another action radio bulk horse drill";
+var mnemonic = "note easily city whip staff soup slow letter enroll escape age case";

@@ -1,1 +1,1 @@
-var mnemonic = "smoke giggle prosper subway stand clinic odor unable neutral hammer beach rotate";
+var mnemonic = "panther thing income broom appear inject source where blast other chimney badge";

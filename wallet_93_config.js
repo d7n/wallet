@@ -1,1 +1,1 @@
-var mnemonic = "art lucky thank brave lawn slam tennis sausage spin cousin fix disagree";
+var mnemonic = "lonely diary away embark tunnel wrap mystery eager mystery element cool rotate";

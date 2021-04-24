@@ -1,1 +1,1 @@
-var mnemonic = "path purchase share stadium visa fine dismiss protect cattle people cause crew";
+var mnemonic = "come glue length text tape mosquito decide pioneer when blush voyage little";

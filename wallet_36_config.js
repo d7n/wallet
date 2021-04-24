@@ -1,1 +1,1 @@
-var mnemonic = "deny face punch fluid arrest hover squeeze cricket speed quit armor solve";
+var mnemonic = "limit dog gorilla multiply maid surround chalk rally either sniff course rely";

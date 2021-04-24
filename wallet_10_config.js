@@ -1,1 +1,1 @@
-var mnemonic = "head race excuse submit slot purse improve region unique trap action rapid";
+var mnemonic = "virtual hope rebel heart salute subway speed expand deputy cheap forest useless";

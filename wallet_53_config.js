@@ -1,1 +1,1 @@
-var mnemonic = "great parrot always gospel usual assault candy fun staff region urban guess";
+var mnemonic = "weapon ten flash early truth spin consider almost connect romance puppy swear";

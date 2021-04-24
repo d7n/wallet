@@ -1,1 +1,1 @@
-var mnemonic = "steel echo nut stamp adjust among dial derive agree cattle obey grace";
+var mnemonic = "enact yellow junior system poem february hover festival autumn sand deny police";

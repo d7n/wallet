@@ -1,1 +1,1 @@
-var mnemonic = "holiday power burst foil slide lucky curious side loud coil cinnamon system";
+var mnemonic = "shine there say invest another leopard sure end rubber beach legend demise";

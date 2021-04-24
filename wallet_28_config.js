@@ -1,1 +1,1 @@
-var mnemonic = "special consider tomorrow hamster smile demand plastic theme motion divide fabric stage";
+var mnemonic = "gift celery board trade sell minute stone mask foam rebel memory trade";

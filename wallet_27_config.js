@@ -1,1 +1,1 @@
-var mnemonic = "march agree build reduce glow anchor banner myself mom puppy south venture";
+var mnemonic = "wedding expand laptop sure route universe family artefact pumpkin unique green effort";

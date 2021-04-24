@@ -1,1 +1,1 @@
-var mnemonic = "ahead advice month skirt play stomach knife gasp list dust balance attend";
+var mnemonic = "buddy change furnace master two rose square duty draft sense opera move";

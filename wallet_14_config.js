@@ -1,1 +1,1 @@
-var mnemonic = "parent guard crowd tent suffer forest work mother equip cart october coconut";
+var mnemonic = "envelope alert crater document later oil kick side long furnace lion purchase";

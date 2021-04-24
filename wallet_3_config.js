@@ -1,1 +1,1 @@
-var mnemonic = "abandon deny crazy donate pigeon current mutual evidence robot turn tank output";
+var mnemonic = "million secret warrior pyramid resemble excess plug hole method child erase earn";

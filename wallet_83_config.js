@@ -1,1 +1,1 @@
-var mnemonic = "gossip syrup nice priority escape kit original judge orange maze combine must";
+var mnemonic = "deny chat harsh east winter group express route remove use awkward rally";

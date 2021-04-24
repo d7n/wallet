@@ -1,1 +1,1 @@
-var mnemonic = "night answer wish patrol fantasy demise cruel ankle similar chaos lazy border";
+var mnemonic = "ugly vault exile strike program ladder volcano south turkey crowd grace expire";

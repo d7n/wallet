@@ -1,1 +1,1 @@
-var mnemonic = "shoe able kitchen marine phone scrap asthma bless lyrics pen milk price";
+var mnemonic = "faint discover blame excite thank lava save book cross extend twenty carry";

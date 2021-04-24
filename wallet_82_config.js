@@ -1,1 +1,1 @@
-var mnemonic = "salad gather fortune harvest pretty shield device bright pilot damp undo science";
+var mnemonic = "fence laptop settle cycle belt road horn industry flock rocket exhaust truly";

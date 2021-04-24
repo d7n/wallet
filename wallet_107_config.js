@@ -1,1 +1,1 @@
-var mnemonic = "lyrics kidney gym over option bid injury endorse estate fine guitar hello";
+var mnemonic = "empty love flat pause loyal erupt orange virus certain have already upon";

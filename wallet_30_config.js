@@ -1,1 +1,1 @@
-var mnemonic = "return ripple pause gym click focus exhibit common stove kingdom prize sister";
+var mnemonic = "shine shadow cheese market tired west open gather poet hamster solve snap";

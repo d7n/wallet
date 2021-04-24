@@ -1,1 +1,1 @@
-var mnemonic = "pond shine joke have wage verify nose salute answer squirrel spot electric";
+var mnemonic = "dwarf thumb cash forest echo enforce insane kit material across hammer twin";

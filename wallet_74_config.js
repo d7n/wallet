@@ -1,1 +1,1 @@
-var mnemonic = "around junior cargo width door code leisure harsh wreck fan arena client";
+var mnemonic = "snow perfect audit leopard fun void drift snack route predict flag surround";

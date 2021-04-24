@@ -1,1 +1,1 @@
-var mnemonic = "motion puppy during spirit blast fatigue glove betray exchange deer cousin aim";
+var mnemonic = "mirror claim hollow garden broom delay twice lunch jump pottery finger gloom";

@@ -1,1 +1,1 @@
-var mnemonic = "foot creek truth fantasy visual morning floor key arena mushroom exist wine";
+var mnemonic = "rib clump inhale bottom dismiss uniform fetch humor wild dynamic habit outer";

@@ -1,1 +1,1 @@
-var mnemonic = "team liar surface term cart uncover roast pencil summer candy cover drill";
+var mnemonic = "they dose chuckle wolf know lemon chimney gloom excite employ model toast";

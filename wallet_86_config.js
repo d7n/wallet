@@ -1,1 +1,1 @@
-var mnemonic = "split deny enough immense curve venture mixture any talent say police program";
+var mnemonic = "fee venture gym snake casino crowd service gift egg defy there picnic";

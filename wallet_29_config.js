@@ -1,1 +1,1 @@
-var mnemonic = "transfer flower cry unaware ankle entry three clean science tent benefit thunder";
+var mnemonic = "very face venue faith planet trophy icon swift grow beyond pulp vibrant";

@@ -1,1 +1,1 @@
-var mnemonic = "apology swing letter bacon popular torch harbor tragic elbow flavor ship now";
+var mnemonic = "simple select filter obey want merge easy husband unit upset admit sibling";

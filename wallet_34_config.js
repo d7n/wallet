@@ -1,1 +1,1 @@
-var mnemonic = "tone crash sorry virus fee parent idle cement void boost great inhale";
+var mnemonic = "involve boy blind situate final stadium diesel this sail liquid oak purity";

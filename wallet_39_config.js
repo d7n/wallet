@@ -1,1 +1,1 @@
-var mnemonic = "surprise alcohol bacon idle fatal tank enforce rare project couch slice manual";
+var mnemonic = "solar trophy consider observe awake truly scale suggest art reunion stool jeans";

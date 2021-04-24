@@ -1,1 +1,1 @@
-var mnemonic = "fire mention define try skull prefer cross project rate joke grant seminar";
+var mnemonic = "found track rude vanish tiny velvet lawn assist fashion head flight year";

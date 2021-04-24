@@ -1,1 +1,1 @@
-var mnemonic = "recycle tumble tail cable grape aim feed inner trial aim gym drink";
+var mnemonic = "actress enlist erode subway will cigar neither since ticket polar maze husband";

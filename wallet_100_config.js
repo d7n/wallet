@@ -1,1 +1,1 @@
-var mnemonic = "item raccoon cloth vote urban vehicle resource obvious demand north border finish";
+var mnemonic = "hedgehog utility secret leisure mango tuition scan dance still dumb ivory rate";

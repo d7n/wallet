@@ -1,1 +1,1 @@
-var mnemonic = "fox desk upon cave arena super burst inject false moral cabin smoke";
+var mnemonic = "search tiger virtual squirrel behind lawsuit chair cake bar ticket make defense";

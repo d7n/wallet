@@ -1,1 +1,1 @@
-var mnemonic = "visual logic broccoli rural adjust popular depth palace suffer resemble cotton brand";
+var mnemonic = "antenna blood gate length unit purchase join bacon sense window venue proud";

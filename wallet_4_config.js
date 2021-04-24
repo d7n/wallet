@@ -1,1 +1,1 @@
-var mnemonic = "amazing lemon august inherit slow simple invest laundry outdoor alpha paddle tattoo";
+var mnemonic = "clay curious cycle bunker again season cattle silver essence window eagle nasty";

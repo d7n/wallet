@@ -1,1 +1,1 @@
-var mnemonic = "element kiss question shine wisdom praise snap reunion pioneer magnet base disagree";
+var mnemonic = "left setup volcano recall tennis popular apart develop grief grass scorpion chief";

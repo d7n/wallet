@@ -1,1 +1,1 @@
-var mnemonic = "foot grid cost vacant gun file earth elite travel journey rigid parrot";
+var mnemonic = "shrug enough price glance express pulp shallow lecture project ribbon tattoo veteran";

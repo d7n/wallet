@@ -1,1 +1,1 @@
-var mnemonic = "camera arrow family toilet jar inject expose citizen behind medal differ action";
+var mnemonic = "mesh note pool patch humble elder penalty duty audit grow monkey stamp";

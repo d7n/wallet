@@ -1,1 +1,1 @@
-var mnemonic = "suffer shoe acid reject snake cliff surprise slight behave diary sudden lunch";
+var mnemonic = "dragon that unusual plate desk slight genius follow crash dish mesh wood";

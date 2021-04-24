@@ -1,1 +1,1 @@
-var mnemonic = "shoe check ahead cargo crane leg impulse hockey long flag fury develop";
+var mnemonic = "before donate climb axis blue alcohol student loyal own topic fatigue text";

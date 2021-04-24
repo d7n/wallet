@@ -1,1 +1,1 @@
-var mnemonic = "zero eternal actor street since faith empty snake tail scout head music";
+var mnemonic = "oven canal talk time bone salute primary tag wise wave since hub";

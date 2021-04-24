@@ -1,1 +1,1 @@
-var mnemonic = "assist enforce weekend trust high goat bread trouble anger much potato joy";
+var mnemonic = "power number steel margin source visa brass forget push electric blast gap";

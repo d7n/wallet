@@ -1,1 +1,1 @@
-var mnemonic = "version puzzle charge earn paper age liar chuckle woman glue satisfy impulse";
+var mnemonic = "fence remove execute annual media half certain whisper curve property muscle addict";

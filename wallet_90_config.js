@@ -1,1 +1,1 @@
-var mnemonic = "high magnet silver ski moon crater palace ramp use explain body initial";
+var mnemonic = "magic night label present stick pave lazy parade live theory dismiss heart";

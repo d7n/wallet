@@ -1,1 +1,1 @@
-var mnemonic = "letter ride midnight glance vital attract blue target play search lady abuse";
+var mnemonic = "pool atom tray royal tower squirrel repair truth rack nephew arrest climb";

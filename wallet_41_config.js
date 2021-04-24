@@ -1,1 +1,1 @@
-var mnemonic = "copper citizen decide imitate arctic guilt soul public glare abuse legend since";
+var mnemonic = "team essence stick firm insane outdoor enact refuse sphere flat slight forum";

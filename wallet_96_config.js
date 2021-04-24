@@ -1,1 +1,1 @@
-var mnemonic = "garment final tourist hub situate patient aunt husband axis seminar festival alone";
+var mnemonic = "reveal other menu advance drift cash kick glimpse circle season fix finish";

@@ -1,1 +1,1 @@
-var mnemonic = "brief remove merit unfair mirror pull lonely nest comic topple spider arrange";
+var mnemonic = "vault check argue swing electric toe chair edge iron ancient stage brand";

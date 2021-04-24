@@ -1,1 +1,1 @@
-var mnemonic = "damage swap blush emotion portion choose piano stairs exhibit hero empower earth";
+var mnemonic = "glass peasant organ equal inch material live snow boat learn about print";

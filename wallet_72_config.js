@@ -1,1 +1,1 @@
-var mnemonic = "civil want together use dizzy gold garment picnic gentle turkey stadium sudden";
+var mnemonic = "day hotel margin lend hire milk eternal horn demise patient book together";

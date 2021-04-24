@@ -1,1 +1,1 @@
-var mnemonic = "core hole quiz glory judge assault admit hard gospel tumble hotel gate";
+var mnemonic = "length logic fiction garlic identify chest comfort fossil float lawn into action";

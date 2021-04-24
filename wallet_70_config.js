@@ -1,1 +1,1 @@
-var mnemonic = "poet uphold drink mansion poverty distance stomach spot boy swift verb mad";
+var mnemonic = "canyon atom grant senior museum gold hour creek donor found cute screen";

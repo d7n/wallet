@@ -1,1 +1,1 @@
-var mnemonic = "load slice two find season scale prize myth fine envelope opinion screen";
+var mnemonic = "income cat chair enrich object banner dry quote lonely apology just actual";

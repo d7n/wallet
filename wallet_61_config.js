@@ -1,1 +1,1 @@
-var mnemonic = "scene earth debris dilemma tourist tackle drama denial gather print express taxi";
+var mnemonic = "dolphin edit cool member clean voice milk almost say pioneer sad speed";

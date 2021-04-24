@@ -1,1 +1,1 @@
-var mnemonic = "bonus execute plate feel absent silver wrap tent entry wrist wrap hair";
+var mnemonic = "athlete ranch violin mimic width long actor fatal skin jazz skill atom";

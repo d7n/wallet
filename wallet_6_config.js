@@ -1,1 +1,1 @@
-var mnemonic = "equal ensure solar silk drink tank lady goat burger issue convince mercy";
+var mnemonic = "key disagree gaze melt deliver private this twenty say duty program exact";

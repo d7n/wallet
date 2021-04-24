@@ -1,1 +1,1 @@
-var mnemonic = "grief bundle night sail lottery horse shrug dinosaur mother rebuild reveal dilemma";
+var mnemonic = "poet traffic ask spread forum patch much muffin whisper wolf glide check";

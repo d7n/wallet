@@ -1,1 +1,1 @@
-var mnemonic = "gym private sort coach affair select royal valley roast coyote consider ankle";
+var mnemonic = "naive axis era rose follow uniform pioneer coin material eight own loan";

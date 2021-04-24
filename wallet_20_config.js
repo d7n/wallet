@@ -1,1 +1,1 @@
-var mnemonic = "vacuum flush spend hint manual wagon tube blouse rhythm voice absurd shop";
+var mnemonic = "pipe prevent leader patch dune please solution escape alien sell exile captain";

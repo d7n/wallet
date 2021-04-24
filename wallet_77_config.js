@@ -1,1 +1,1 @@
-var mnemonic = "pool doll demise annual brick inch luxury region author fat hurdle method";
+var mnemonic = "case lady extra hazard animal course mesh maid cross option master regular";

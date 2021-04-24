@@ -1,1 +1,1 @@
-var mnemonic = "spot spring great window text shoot segment expose owner fantasy gorilla party";
+var mnemonic = "must drive dance all cruel custom cheese loyal amateur shop december party";

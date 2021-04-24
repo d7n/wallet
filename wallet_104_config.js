@@ -1,1 +1,1 @@
-var mnemonic = "mystery gas happy flag vehicle person baby crazy finish attend length reward";
+var mnemonic = "avocado story follow stay nation ladder engine high trumpet current detail someone";

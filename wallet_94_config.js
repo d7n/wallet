@@ -1,1 +1,1 @@
-var mnemonic = "hole retire wrong spice merry forest maid lava morning answer vibrant please";
+var mnemonic = "road heart crystal column bless spy birth gorilla achieve consider season jazz";

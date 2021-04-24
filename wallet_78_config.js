@@ -1,1 +1,1 @@
-var mnemonic = "three wedding rally damp game permit despair before october champion bleak riot";
+var mnemonic = "seat text stable moral beyond slim medal rather melody funny puzzle clever";

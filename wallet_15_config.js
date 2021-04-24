@@ -1,1 +1,1 @@
-var mnemonic = "enrich wait witness aspect poem rough rent elegant upper decade zebra swarm";
+var mnemonic = "rail warrior predict moon emotion behave action fever lawsuit fringe trigger fee";

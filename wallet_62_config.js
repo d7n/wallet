@@ -1,1 +1,1 @@
-var mnemonic = "fury magnet summer prosper sea sorry witness strong ready essay walk cake";
+var mnemonic = "range empty bundle orbit worry employ sweet shell pulp shine all mass";

@@ -1,1 +1,1 @@
-var mnemonic = "mother kitchen penalty turkey pretty nature water forum aware balcony lazy heart";
+var mnemonic = "vicious donkey during equip humor puppy village genre able salon raccoon chaos";

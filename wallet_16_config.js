@@ -1,1 +1,1 @@
-var mnemonic = "monster glove limb price life safe jazz insane rigid settle story alone";
+var mnemonic = "quit forum census cloth volcano mean interest quote library canal rural clever";
