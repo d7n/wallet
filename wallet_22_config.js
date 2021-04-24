@@ -1,1 +1,1 @@
-var mnemonic = "artwork bubble artist december canal pudding harvest raccoon raise gorilla prevent sea";
+var mnemonic = "prefer mention tell labor injury angry plate festival better rabbit source spin";

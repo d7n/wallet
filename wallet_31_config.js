@@ -1,1 +1,1 @@
-var mnemonic = "rate layer build strike polar world sphere head direct woman rebuild entry";
+var mnemonic = "park primary moon strike neutral need walnut engine link age census two";

@@ -1,1 +1,1 @@
-var mnemonic = "simple second expand echo margin upon engage life asset film sample predict";
+var mnemonic = "sport cable fire carpet gown you garbage will basket funny advice remind";

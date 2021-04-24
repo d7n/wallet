@@ -1,1 +1,1 @@
-var mnemonic = "private rapid curious clever animal slot stage supply blue direct rebel modify";
+var mnemonic = "luggage among angle possible card gasp chronic bomb pottery symptom extend maid";

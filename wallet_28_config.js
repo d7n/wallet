@@ -1,1 +1,1 @@
-var mnemonic = "cute just pepper net gain blood output regret parade inject crumble odor";
+var mnemonic = "nice father doctor permit grape stumble sun destroy winner noble slender method";

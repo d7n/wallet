@@ -1,1 +1,1 @@
-var mnemonic = "pledge accident vibrant cup solve extend dinosaur road laptop chat able fire";
+var mnemonic = "gadget hand relax frost wait load surround tree also vessel combine female";

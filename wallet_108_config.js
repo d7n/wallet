@@ -1,1 +1,1 @@
-var mnemonic = "wear echo stock expose denial limit clog birth reunion silk laugh rough";
+var mnemonic = "ankle flight plate citizen joy elbow float kitchen pottery follow tired rail";

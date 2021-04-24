@@ -1,1 +1,1 @@
-var mnemonic = "make alarm flash parrot ketchup reduce grace salmon sick insane torch matter";
+var mnemonic = "sausage short like bacon spider perfect fluid table remove tooth hybrid area";

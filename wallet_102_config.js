@@ -1,1 +1,1 @@
-var mnemonic = "top absurd weekend bean obey submit stool stand inner possible boss solid";
+var mnemonic = "flush glass bicycle tent foster oval grain proud laundry impulse story humble";

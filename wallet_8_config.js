@@ -1,1 +1,1 @@
-var mnemonic = "forest decorate mesh crack home uncle gasp fiscal misery search story quality";
+var mnemonic = "beach funny rubber start science diagram slot benefit small wedding busy stay";

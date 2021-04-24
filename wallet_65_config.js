@@ -1,1 +1,1 @@
-var mnemonic = "push account thought jewel pudding either mean story please total grant blue";
+var mnemonic = "grace decade tornado ocean pumpkin ring bargain decrease base razor delay cheap";

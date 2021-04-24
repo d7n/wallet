@@ -1,1 +1,1 @@
-var mnemonic = "topple plastic fence plate coin sure job hollow glue paper seek diamond";
+var mnemonic = "still ostrich kit quiz mind vote toilet weapon dinner debris leisure way";

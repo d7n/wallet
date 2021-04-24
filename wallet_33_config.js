@@ -1,1 +1,1 @@
-var mnemonic = "increase parade cruise toilet end subway strike sunny degree pulse panel wave";
+var mnemonic = "powder armed trash kiwi lunar aware pottery decade tiger shed retire safe";

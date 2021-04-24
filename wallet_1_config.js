@@ -1,1 +1,1 @@
-var mnemonic = "enable hat cinnamon quick mercy conduct castle invest tool thank comfort obey";
+var mnemonic = "sunny cherry left clump dog valid crash walk luxury mobile cry exhaust";

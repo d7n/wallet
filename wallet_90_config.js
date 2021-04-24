@@ -1,1 +1,1 @@
-var mnemonic = "kiss spirit kidney very genius ginger upper grab during treat fashion soon";
+var mnemonic = "focus immense life shrug drill child member winter rough solution bargain lady";

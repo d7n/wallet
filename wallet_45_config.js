@@ -1,1 +1,1 @@
-var mnemonic = "song pull opera say deal town liar three obey weather choice also";
+var mnemonic = "giraffe song gift deer approve high paper spin cage kidney want rude";

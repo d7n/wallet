@@ -1,1 +1,1 @@
-var mnemonic = "make high pact check carpet benefit zebra acid wheat glow impulse stadium";
+var mnemonic = "child idea organ north renew ski above army system apology trim great";

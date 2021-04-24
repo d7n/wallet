@@ -1,1 +1,1 @@
-var mnemonic = "work kangaroo memory genuine scale special sick hope auction exotic country wife";
+var mnemonic = "recycle bar boil panda rug armor mutual deposit myself defy enforce name";

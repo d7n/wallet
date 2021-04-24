@@ -1,1 +1,1 @@
-var mnemonic = "law frequent pulp apology december height flip pyramid taste trend wine indicate";
+var mnemonic = "misery ability artwork between fortune fat laundry arrow denial wise wrap analyst";

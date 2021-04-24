@@ -1,1 +1,1 @@
-var mnemonic = "oil mesh click empower glass shrug cactus alter deputy project infant attitude";
+var mnemonic = "story rather kite empty fortune move glimpse dolphin evoke awesome ship illegal";

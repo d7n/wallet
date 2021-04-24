@@ -1,1 +1,1 @@
-var mnemonic = "fever damp shaft toy fire energy chuckle orient surround camp spread banana";
+var mnemonic = "destroy innocent door ski immune weird scare matter inspire color blue dune";

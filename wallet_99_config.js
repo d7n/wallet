@@ -1,1 +1,1 @@
-var mnemonic = "fancy oven width chronic chimney recycle drastic else valid bottom ripple bundle";
+var mnemonic = "crush october wall border cage claim worth cactus movie question utility egg";

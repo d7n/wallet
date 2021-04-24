@@ -1,1 +1,1 @@
-var mnemonic = "forward giant south army liberty drift staff install boat guitar crouch pretty";
+var mnemonic = "brief romance wrist wrist wear mule village toe word discover pitch yellow";

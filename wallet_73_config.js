@@ -1,1 +1,1 @@
-var mnemonic = "odor dog forward retreat theory bridge gather unit return live eyebrow coil";
+var mnemonic = "sorry truth clinic unique never coral say motor hero morning finish inquiry";

@@ -1,1 +1,1 @@
-var mnemonic = "inflict burst vintage utility aisle plug taxi winter sell heavy prepare admit";
+var mnemonic = "later permit know family snack room pistol sausage fashion tail false faith";

@@ -1,1 +1,1 @@
-var mnemonic = "test divide ill crack undo wreck bracket cage skill better sweet total";
+var mnemonic = "badge job impose nephew cheese hood body carry advice diet hollow apple";

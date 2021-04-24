@@ -1,1 +1,1 @@
-var mnemonic = "tornado total repair village dose parade obscure pyramid finish ripple climb toast";
+var mnemonic = "female sound swear vacuum document panda jeans panda stem scissors lunch mosquito";

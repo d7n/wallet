@@ -1,1 +1,1 @@
-var mnemonic = "swing zoo twenty rain absurd tomorrow toilet frog return time apple dilemma";
+var mnemonic = "core gorilla vendor barrel upon piece brand rescue total assist move garage";

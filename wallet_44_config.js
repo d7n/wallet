@@ -1,1 +1,1 @@
-var mnemonic = "barrel reopen else report moon evoke correct illegal survey card analyst track";
+var mnemonic = "dragon today trap brick endorse zone borrow diary tuition raven nurse bachelor";

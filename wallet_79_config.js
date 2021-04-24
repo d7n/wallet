@@ -1,1 +1,1 @@
-var mnemonic = "seven pumpkin rich end correct beef ceiling alter around idea physical goose";
+var mnemonic = "venue betray success lunar twin pig agent hub client cloud team humble";

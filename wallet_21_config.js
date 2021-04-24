@@ -1,1 +1,1 @@
-var mnemonic = "witness cart treat enough tail flash cable lava earth equip result glide";
+var mnemonic = "tuition swap balance ginger planet lock brush poverty local field across science";

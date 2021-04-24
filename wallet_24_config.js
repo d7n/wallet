@@ -1,1 +1,1 @@
-var mnemonic = "pelican giant promote voyage journey brother setup spike cradle total grid way";
+var mnemonic = "route sword together ability dance forward sheriff tissue skirt cricket shove blade";

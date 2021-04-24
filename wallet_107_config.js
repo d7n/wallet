@@ -1,1 +1,1 @@
-var mnemonic = "distance lend soldier vital candy hundred among ostrich gentle clown trend system";
+var mnemonic = "practice vital very blast fabric fruit increase raise talent flip key build";

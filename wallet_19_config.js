@@ -1,1 +1,1 @@
-var mnemonic = "immune dash fruit wolf oppose attract pipe celery loop toddler cover vehicle";
+var mnemonic = "satisfy fine pupil energy bronze attend concert wear coral nothing tooth fine";

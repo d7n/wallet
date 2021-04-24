@@ -1,1 +1,1 @@
-var mnemonic = "wood risk sport panic action caution vocal certain trap drastic mercy enhance";
+var mnemonic = "lunar click diesel coral lunch fit property square vacuum punch nut steak";

@@ -1,1 +1,1 @@
-var mnemonic = "metal toast meat pipe truth sudden canoe menu among asset change wish";
+var mnemonic = "gauge enrich vanish eyebrow pilot actress skull code tobacco wagon leg transfer";

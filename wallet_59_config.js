@@ -1,1 +1,1 @@
-var mnemonic = "like globe strategy capable exit nerve absorb hard leader oblige there receive";
+var mnemonic = "volcano joke trophy tide copy doctor own exile vacuum desert ugly settle";

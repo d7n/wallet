@@ -1,1 +1,1 @@
-var mnemonic = "angle toddler jewel accident ice tide paper crucial stone jewel raw finger";
+var mnemonic = "science glow interest spell mango crucial level family casual glide pulse million";

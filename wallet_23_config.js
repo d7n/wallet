@@ -1,1 +1,1 @@
-var mnemonic = "coil tonight notice join above thank fury brisk empty coast effort heart";
+var mnemonic = "ritual soup tuition notable frog brave fan wolf idea miss example degree";

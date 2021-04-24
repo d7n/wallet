@@ -1,1 +1,1 @@
-var mnemonic = "bachelor link code bid gap column dolphin muscle crystal stairs actual shoot";
+var mnemonic = "sunset coyote smooth peanut ordinary close hurry wage index mass upgrade promote";

@@ -1,1 +1,1 @@
-var mnemonic = "artwork midnight execute tonight rescue boil frame cabbage faith anchor picture ready";
+var mnemonic = "gaze animal december recipe attend tray unlock shop verify hip output boss";

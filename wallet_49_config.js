@@ -1,1 +1,1 @@
-var mnemonic = "crack skull control market know winter rural noodle brick brave attract answer";
+var mnemonic = "nice flee myself west act dignity dwarf option fluid bean width spirit";

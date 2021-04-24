@@ -1,1 +1,1 @@
-var mnemonic = "butter consider flip isolate voyage soccer razor online fame quote rifle shrug";
+var mnemonic = "security mass domain between someone genius south sand leave like field blame";

@@ -1,1 +1,1 @@
-var mnemonic = "damp arena bicycle junior rice stem lawn ripple broken type type hidden";
+var mnemonic = "away kind atom glow math include cinnamon staff auction side organ cross";

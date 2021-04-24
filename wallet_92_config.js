@@ -1,1 +1,1 @@
-var mnemonic = "chimney champion example speed sense midnight doctor goat deal caution insect expect";
+var mnemonic = "already junk sketch spike run kite lucky hurt trust gospel napkin favorite";

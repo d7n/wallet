@@ -1,1 +1,1 @@
-var mnemonic = "open purse negative grant avoid click field child boat fetch receive chimney";
+var mnemonic = "digital orbit thought quit spirit account remove category leader gold super wine";

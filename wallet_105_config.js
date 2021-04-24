@@ -1,1 +1,1 @@
-var mnemonic = "involve issue patch orient unknown sweet eternal glance renew tobacco report army";
+var mnemonic = "error stay flip scatter fee travel crack keen above robot juice maze";

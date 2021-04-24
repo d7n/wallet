@@ -1,1 +1,1 @@
-var mnemonic = "gloom noodle night head typical resemble wire aware gold island major universe";
+var mnemonic = "soldier spirit garage venue summer work color acoustic slice bridge unknown potato";

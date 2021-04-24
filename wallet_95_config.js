@@ -1,1 +1,1 @@
-var mnemonic = "kind valve wet vocal spy guess staff lamp fluid tower visual crumble";
+var mnemonic = "cousin erosion crawl earn subject circle sadness cook fancy butter sustain faint";

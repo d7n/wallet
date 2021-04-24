@@ -1,1 +1,1 @@
-var mnemonic = "plastic purity atom finger bench wolf impose hurry mystery eyebrow ridge idle";
+var mnemonic = "report choose bronze dune culture trend kite impact cable found dignity palm";

@@ -1,1 +1,1 @@
-var mnemonic = "plastic stage wage flame prepare trade pioneer annual soup hour obvious enter";
+var mnemonic = "surprise dentist fashion measure stumble couch horn pause tail student inner hedgehog";

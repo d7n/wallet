@@ -1,1 +1,1 @@
-var mnemonic = "hip skin deer lawsuit clerk romance stuff flash tribe insane science concert";
+var mnemonic = "method warrior defy chat early viable powder decrease tattoo sell monitor pole";

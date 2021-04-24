@@ -1,1 +1,1 @@
-var mnemonic = "tide mobile purse upper middle addict list insect advice bar broom visa";
+var mnemonic = "federal token host space harbor clog rural kick pepper uniform expand toddler";

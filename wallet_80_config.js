@@ -1,1 +1,1 @@
-var mnemonic = "novel resemble caught empty matrix blouse index twist husband snow hold spawn";
+var mnemonic = "boring envelope peace apple seminar timber rifle helmet nut snack hurdle myself";

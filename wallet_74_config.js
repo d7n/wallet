@@ -1,1 +1,1 @@
-var mnemonic = "unlock stock thought champion toy stem click sense electric dirt pave top";
+var mnemonic = "flush blur gauge same bachelor axis talk chalk story dress display bring";

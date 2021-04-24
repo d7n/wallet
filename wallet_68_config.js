@@ -1,1 +1,1 @@
-var mnemonic = "soup panda bean casino tent excuse increase foil mosquito cruise seminar trigger";
+var mnemonic = "burst idle concert cloth vacuum salon emotion possible expose dog region voyage";

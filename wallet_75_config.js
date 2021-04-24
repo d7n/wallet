@@ -1,1 +1,1 @@
-var mnemonic = "sustain address where pluck maximum speed solution pill news have fish demand";
+var mnemonic = "embrace three concert prefer legal slight stable bullet term gloom crack defense";

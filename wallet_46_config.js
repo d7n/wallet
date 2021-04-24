@@ -1,1 +1,1 @@
-var mnemonic = "scale critic price devote time next inmate burden armed broom ordinary lens";
+var mnemonic = "ill among soup exercise reunion tortoise brown pigeon quote vintage urge host";

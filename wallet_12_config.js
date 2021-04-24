@@ -1,1 +1,1 @@
-var mnemonic = "famous spawn mandate oven zero bus ability until resist have theory cross";
+var mnemonic = "market agree fancy under roast hurt hood capital mind sunny brother rare";

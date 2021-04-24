@@ -1,1 +1,1 @@
-var mnemonic = "parade tank number unveil diary twenty quarter ghost broccoli nominee wisdom valve";
+var mnemonic = "match shy token bring sniff goat attack giant outer invite shallow trumpet";

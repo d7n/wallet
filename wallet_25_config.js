@@ -1,1 +1,1 @@
-var mnemonic = "embody include winter since mimic door toss cake gallery remember dignity dove";
+var mnemonic = "denial lady mask vocal cactus famous congress walk slice menu minute expect";

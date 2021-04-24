@@ -1,1 +1,1 @@
-var mnemonic = "believe timber civil cake stone make uncle swallow damage produce sorry typical";
+var mnemonic = "small scene caution answer fee trick such beach potato vacant fee item";

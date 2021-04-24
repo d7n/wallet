@@ -1,1 +1,1 @@
-var mnemonic = "wood future subject tank desk ethics month iron guess certain pass north";
+var mnemonic = "depend undo silly crane boring twelve rural boil shoe exist safe legend";

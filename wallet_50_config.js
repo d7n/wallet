@@ -1,1 +1,1 @@
-var mnemonic = "slot real auto finish poverty hello example hockey trick core seat update";
+var mnemonic = "allow text blind evidence universe wise pencil tide outer bid sample link";

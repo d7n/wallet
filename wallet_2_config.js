@@ -1,1 +1,1 @@
-var mnemonic = "federal window glare sort detail column violin faculty dog scorpion noble need";
+var mnemonic = "inspire legal finger wrap conduct bus desk wise science soldier wreck employ";

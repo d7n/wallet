@@ -1,1 +1,1 @@
-var mnemonic = "upset muffin engine seat captain return indicate smile audit lunch physical regular";
+var mnemonic = "act suggest guitar please harsh tackle express digital under unit subject unfold";

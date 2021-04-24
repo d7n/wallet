@@ -1,1 +1,1 @@
-var mnemonic = "world broom second tired injury false predict woman wife neglect property avoid";
+var mnemonic = "safe orange panther asthma pen hero draw industry network company slide cannon";

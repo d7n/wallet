@@ -1,1 +1,1 @@
-var mnemonic = "street erosion found birth artist diary ceiling half intact shop shoulder congress";
+var mnemonic = "panda crisp trash luggage enroll rebel print once fetch sudden task jungle";

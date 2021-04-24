@@ -1,1 +1,1 @@
-var mnemonic = "bubble faint grass conduct theory enhance student boat crawl exhaust faint scout";
+var mnemonic = "guess slush arrange dentist cigar mention muffin edge torch matrix isolate disease";

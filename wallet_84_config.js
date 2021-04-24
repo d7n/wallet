@@ -1,1 +1,1 @@
-var mnemonic = "deputy stamp believe upgrade anxiety nest island erase bus human mansion time";
+var mnemonic = "cream vicious parent print plunge engage credit annual sure dinner spot impose";

@@ -1,1 +1,1 @@
-var mnemonic = "usage laundry people grain clay glue hair long system thumb gift genius";
+var mnemonic = "kitchen police caution trade chase exchange emerge blouse eternal ostrich able alpha";

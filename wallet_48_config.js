@@ -1,1 +1,1 @@
-var mnemonic = "mass clutch push joke canoe gas argue govern under never regret arrange";
+var mnemonic = "patrol field theory close gasp become forward fish second cloud emotion style";

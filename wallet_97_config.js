@@ -1,1 +1,1 @@
-var mnemonic = "decline slab rural usual inch must wear staff ostrich equal rely side";
+var mnemonic = "family rich cake blue salute memory ladder cable cream awkward elder depend";

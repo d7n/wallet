@@ -1,1 +1,1 @@
-var mnemonic = "begin ball cause inflict card bind shrug possible note gospel include tower";
+var mnemonic = "energy such teach tortoise dad ripple dress hello large major promote strong";

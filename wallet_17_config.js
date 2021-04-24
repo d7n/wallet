@@ -1,1 +1,1 @@
-var mnemonic = "elevator receive page modify box toilet word actual album essence anxiety word";
+var mnemonic = "zoo humble unhappy fever muffin foot mom exhaust mixture blast kangaroo image";

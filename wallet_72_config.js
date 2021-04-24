@@ -1,1 +1,1 @@
-var mnemonic = "become design unfair arctic dose ribbon float vapor valley human peasant journey";
+var mnemonic = "target pudding approve bunker ivory enlist oval swallow quarter again youth wrap";

@@ -1,1 +1,1 @@
-var mnemonic = "argue swamp tuition combine argue swamp crop casual loyal galaxy garment turtle";
+var mnemonic = "replace jungle pluck fan exotic match swarm scout tip fragile elegant connect";

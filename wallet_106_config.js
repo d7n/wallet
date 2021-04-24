@@ -1,1 +1,1 @@
-var mnemonic = "pony yard clerk fruit tooth tumble romance swap thumb clown rebuild illness";
+var mnemonic = "van coyote fat accuse mechanic surge cannon piano answer coral view repeat";

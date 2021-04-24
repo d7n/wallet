@@ -1,1 +1,1 @@
-var mnemonic = "robot youth embrace slim pitch climb rude leg rally wear problem bless";
+var mnemonic = "green ring task diesel lemon visit video hope remain typical shoulder whale";

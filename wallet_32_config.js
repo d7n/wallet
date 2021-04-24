@@ -1,1 +1,1 @@
-var mnemonic = "salon fossil sell truck sweet unique tree improve analyst unfair major machine";
+var mnemonic = "upon tiny team midnight knife place athlete left mercy nice arrest midnight";

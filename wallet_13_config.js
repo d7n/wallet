@@ -1,1 +1,1 @@
-var mnemonic = "clean basic autumn green amateur guide stay main rich mixed off rent";
+var mnemonic = "corn charge second celery cheap project border awesome lottery boy pencil method";

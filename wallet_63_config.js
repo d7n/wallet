@@ -1,1 +1,1 @@
-var mnemonic = "liar hour order shift fiscal alley noodle fluid ordinary street duty cry";
+var mnemonic = "pilot hybrid make health input obtain cheap when hurt beef spider ghost";

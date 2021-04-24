@@ -1,1 +1,1 @@
-var mnemonic = "stuff inside twist rocket meadow accuse body usage sad wonder test cabin";
+var mnemonic = "foil trim melt bacon sail during inflict leg shift language carry gentle";

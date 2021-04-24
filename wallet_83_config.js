@@ -1,1 +1,1 @@
-var mnemonic = "hip cute rose blush brain paddle warrior genre harsh garden defense fix";
+var mnemonic = "monitor large zebra uniform easy truck own decade volume media original obscure";

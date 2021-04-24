@@ -1,1 +1,1 @@
-var mnemonic = "sweet argue merit team whip child shove border lobster brown rare tornado";
+var mnemonic = "horn problem three fringe erosion address omit clever dash spray spread warrior";

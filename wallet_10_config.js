@@ -1,1 +1,1 @@
-var mnemonic = "spirit tissue pupil chimney omit lazy first inch crush real wine segment";
+var mnemonic = "purity floor add cool slight grocery trust trade acoustic lamp creek attract";

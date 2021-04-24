@@ -1,1 +1,1 @@
-var mnemonic = "deny notice network rich pistol income work material bike also donate indoor";
+var mnemonic = "surround funny raccoon door voyage resemble enemy sight ancient police boring trigger";

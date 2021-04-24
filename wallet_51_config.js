@@ -1,1 +1,1 @@
-var mnemonic = "bag garlic chest feature long table glare twist lucky acid planet alcohol";
+var mnemonic = "music can reunion announce version balance assault during reject virtual subway hungry";

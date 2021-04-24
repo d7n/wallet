@@ -1,1 +1,1 @@
-var mnemonic = "champion movie shop seat pumpkin transfer oval truck candy sponsor cattle lawn";
+var mnemonic = "ostrich divert wealth tiny trophy wage cost victory noble lend close device";

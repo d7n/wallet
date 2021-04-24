@@ -1,1 +1,1 @@
-var mnemonic = "moon sweet fish useful liar neglect average romance fix fly wrist angle";
+var mnemonic = "lobster vague floor round solve fire choice fan canyon pride cool infant";

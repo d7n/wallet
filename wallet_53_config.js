@@ -1,1 +1,1 @@
-var mnemonic = "quit hello shaft field same arch horse promote enjoy orient scout divide";
+var mnemonic = "group tackle pave aisle never find fat surprise scatter knock chronic silk";

@@ -1,1 +1,1 @@
-var mnemonic = "tissue normal friend load hybrid change letter comfort metal detail green caught";
+var mnemonic = "romance shove imitate total settle access someone nephew initial pigeon extra oil";

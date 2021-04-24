@@ -1,1 +1,1 @@
-var mnemonic = "visual ski wash mushroom pistol bless fiscal poem rice hope used bring";
+var mnemonic = "squeeze favorite toss south divert cactus logic mad civil off catalog equal";

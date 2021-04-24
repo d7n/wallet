@@ -1,1 +1,1 @@
-var mnemonic = "stomach outside ridge glass behave notable grocery box brief cycle goose wife";
+var mnemonic = "lava monitor boost anchor acquire boat simple sunset sister mixture oblige pet";

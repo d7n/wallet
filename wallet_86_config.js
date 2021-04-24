@@ -1,1 +1,1 @@
-var mnemonic = "pudding jungle pupil alley risk wrist release torch pool steak mother funny";
+var mnemonic = "try design version child false garbage champion tennis tired entire burst enter";

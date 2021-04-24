@@ -1,1 +1,1 @@
-var mnemonic = "win oblige frost horn multiply oval lumber vault patrol advance vague soap";
+var mnemonic = "regular object census tortoise legend total endless analyst slam crystal test swamp";
