@@ -1,1 +1,1 @@
-var mnemonic = "runway canal choose ritual huge weasel cannon apology rate mandate mad hurt";
+var mnemonic = "blade jewel saddle width fragile noise light fish social outdoor emotion guide";

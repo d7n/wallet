@@ -1,1 +1,1 @@
-var mnemonic = "pond arrow swarm wolf east horn panel dizzy rough end record shield";
+var mnemonic = "robot celery muscle elevator siren van urge truth wall crouch young write";

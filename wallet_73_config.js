@@ -1,1 +1,1 @@
-var mnemonic = "lazy throw income title canvas blade kite wreck mountain width diary unique";
+var mnemonic = "loan north rate census peanut census need denial escape pave bid tongue";

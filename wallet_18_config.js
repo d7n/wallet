@@ -1,1 +1,1 @@
-var mnemonic = "tongue sing scheme region pact traffic volcano whip wrong clap bar decrease";
+var mnemonic = "combine glass author demand youth stone reform hurry regular woman inhale apart";

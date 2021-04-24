@@ -1,1 +1,1 @@
-var mnemonic = "rail rib endorse nose general fancy into race elephant response cram eight";
+var mnemonic = "fun trumpet marriage border deer soldier captain today miracle escape float cube";

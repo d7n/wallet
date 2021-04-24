@@ -1,1 +1,1 @@
-var mnemonic = "chronic shuffle season pool pottery maze bamboo number insect ecology gorilla girl";
+var mnemonic = "raise video route blue myth grant maid unusual educate train length trumpet";

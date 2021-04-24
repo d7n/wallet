@@ -1,1 +1,1 @@
-var mnemonic = "ginger endless charge deposit female above sniff warrior corn ostrich sign feature";
+var mnemonic = "rubber lamp service dad option salt glue lumber unfold total fault gold";

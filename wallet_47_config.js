@@ -1,1 +1,1 @@
-var mnemonic = "squeeze have neglect account shaft cream build monkey soccer just cabin vehicle";
+var mnemonic = "memory drip kid giant pizza luxury ski hamster lab rubber entire claim";

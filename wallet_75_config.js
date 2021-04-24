@@ -1,1 +1,1 @@
-var mnemonic = "stock cover balcony outdoor hotel stand soccer spike drastic try spare name";
+var mnemonic = "genius forward trophy random rough control donate chunk food speed space cupboard";

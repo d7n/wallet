@@ -1,1 +1,1 @@
-var mnemonic = "miss student wage bright enhance clock refuse slight mixed bachelor protect gentle";
+var mnemonic = "wet corn maze small job know cook night air present visual muscle";

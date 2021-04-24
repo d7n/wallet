@@ -1,1 +1,1 @@
-var mnemonic = "wreck leaf truly find badge neck winner curtain monkey pause drift bone";
+var mnemonic = "bulb arrest elder media rapid either sell divorce lab spawn refuse lonely";

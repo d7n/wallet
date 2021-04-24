@@ -1,1 +1,1 @@
-var mnemonic = "suspect adult throw stock salt piece inject inch modify place kitchen give";
+var mnemonic = "awesome crystal pool cross school muscle broom desert color choice theory sad";

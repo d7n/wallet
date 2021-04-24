@@ -1,1 +1,1 @@
-var mnemonic = "move warrior veteran emotion timber river museum sport example parent side ignore";
+var mnemonic = "plunge whale clump hobby economy target metal depart noodle citizen once genuine";

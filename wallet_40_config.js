@@ -1,1 +1,1 @@
-var mnemonic = "alone hair street game drip room used law glad imitate pond confirm";
+var mnemonic = "put always cinnamon water rely monitor grow own castle ginger garbage surprise";

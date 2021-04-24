@@ -1,1 +1,1 @@
-var mnemonic = "about remind pride market trip fall immense critic never other matrix jump";
+var mnemonic = "culture bless together differ trumpet chalk sudden theory recall afford ivory bomb";

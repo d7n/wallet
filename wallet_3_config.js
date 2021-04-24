@@ -1,1 +1,1 @@
-var mnemonic = "feature stock weird dentist afford chimney eyebrow gasp fan decide avocado canyon";
+var mnemonic = "similar disagree notice million roast tiger bone nose canoe blur transfer come";

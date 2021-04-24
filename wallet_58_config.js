@@ -1,1 +1,1 @@
-var mnemonic = "flavor involve subject helmet win menu feed monitor goat excite tenant menu";
+var mnemonic = "exile cave advance winter shrimp spawn tornado around street spoil frozen vague";

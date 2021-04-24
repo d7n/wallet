@@ -1,1 +1,1 @@
-var mnemonic = "tunnel february turtle coast dynamic clock spider beyond kick exist dolphin afford";
+var mnemonic = "sketch mesh eight tourist credit abuse turtle globe glad transfer amount mention";

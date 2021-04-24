@@ -1,1 +1,1 @@
-var mnemonic = "talent waste jacket glow proud blast silly vibrant gauge hope topic decline";
+var mnemonic = "worth claim client direct where art hint rotate champion cup hard vault";

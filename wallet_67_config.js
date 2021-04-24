@@ -1,1 +1,1 @@
-var mnemonic = "solar sudden fat dad steak member lounge very broken edit gorilla tip";
+var mnemonic = "keen elder glass adapt sense merit chief peasant jazz february metal symptom";

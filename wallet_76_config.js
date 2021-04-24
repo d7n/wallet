@@ -1,1 +1,1 @@
-var mnemonic = "wrestle foot build expose funny drop doctor talk use focus wool verify";
+var mnemonic = "elevator seed reunion total assume wisdom emotion alarm cruel horse before venture";

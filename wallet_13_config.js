@@ -1,1 +1,1 @@
-var mnemonic = "spot million ring wonder alley better slide inner there jealous belt kind";
+var mnemonic = "earth ski fee glass member cross common similar leisure slab bubble blood";

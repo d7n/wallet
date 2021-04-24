@@ -1,1 +1,1 @@
-var mnemonic = "rebuild junior apology truck month weather orient aspect hammer speak thrive bomb";
+var mnemonic = "wise bubble height pluck bulb employ boss exile absurd oven cancel belt";

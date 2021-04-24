@@ -1,1 +1,1 @@
-var mnemonic = "illegal awake fog provide novel kangaroo actress dish barrel artwork hello save";
+var mnemonic = "later moral crouch orient yard always robot ghost mass track spare behave";

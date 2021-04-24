@@ -1,1 +1,1 @@
-var mnemonic = "tube toddler knee rib bar cat clarify claim wear agree nothing release";
+var mnemonic = "rabbit brown stairs abstract awkward crane man chalk circle model wish discover";

@@ -1,1 +1,1 @@
-var mnemonic = "west winner truth say napkin steak ripple drop pitch figure sun knife";
+var mnemonic = "harbor mercy indicate picnic dress area slender luggage when act rather amount";

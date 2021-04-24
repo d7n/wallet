@@ -1,1 +1,1 @@
-var mnemonic = "fresh marriage comic depend fade joke robust leader mystery aware range lounge";
+var mnemonic = "border region kite shy demise oblige broken life media seminar below injury";

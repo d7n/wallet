@@ -1,1 +1,1 @@
-var mnemonic = "actual sunny fame review slow satoshi nation puppy choose fantasy card biology";
+var mnemonic = "guilt plate fork tunnel advance unfair develop tail junk occur lecture anxiety";

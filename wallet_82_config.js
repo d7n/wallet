@@ -1,1 +1,1 @@
-var mnemonic = "person payment hero culture pony fiber ordinary glove scout motor shiver volume";
+var mnemonic = "language enlist steak shell distance convince tiger evoke cabin face soft intact";

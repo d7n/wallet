@@ -1,1 +1,1 @@
-var mnemonic = "grocery scorpion setup bless annual diary forum element hidden hazard effort bacon";
+var mnemonic = "two slot crisp kite wall stumble hand device chunk start heavy energy";

@@ -1,1 +1,1 @@
-var mnemonic = "lobster asthma push virus baby lizard system model swim nature worth margin";
+var mnemonic = "shine dance flight main void milk duty orchard repair that voyage burst";

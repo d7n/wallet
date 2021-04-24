@@ -1,1 +1,1 @@
-var mnemonic = "match horse calm boil grain couple later off bottom soldier matter word";
+var mnemonic = "student kid cabbage forest first trick identify fault orphan diesel stay swing";

@@ -1,1 +1,1 @@
-var mnemonic = "cloth thrive squirrel mechanic cabin giant swamp relax bean one library cream";
+var mnemonic = "plastic cruise crunch wet beyond cabbage glue donate debate hard scout suspect";

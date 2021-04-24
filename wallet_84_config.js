@@ -1,1 +1,1 @@
-var mnemonic = "drama physical rally fly forest city demand man disease conduct subway improve";
+var mnemonic = "guitar borrow zebra angry next elbow trust pet tobacco two tuition lunch";

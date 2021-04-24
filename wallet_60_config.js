@@ -1,1 +1,1 @@
-var mnemonic = "rally chapter tiny decrease danger define elite siren quit lunar connect female";
+var mnemonic = "illegal bone poem material viable play flat elevator muscle width mistake picnic";

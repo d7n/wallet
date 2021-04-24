@@ -1,1 +1,1 @@
-var mnemonic = "screen recycle when dial recall sorry office column boy neither penalty duty";
+var mnemonic = "century where quarter remain witness solution zero vivid ball clown large basket";

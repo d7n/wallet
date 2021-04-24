@@ -1,1 +1,1 @@
-var mnemonic = "common roof round moral corn abandon spot mystery canyon can traffic junior";
+var mnemonic = "figure chalk develop hand weather motion awake suffer assume voice early circle";

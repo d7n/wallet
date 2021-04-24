@@ -1,1 +1,1 @@
-var mnemonic = "copy guide cover stumble kick trip appear goddess resist eagle evoke illegal";
+var mnemonic = "message powder where pupil bless rough early feature receive worry puzzle alley";

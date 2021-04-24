@@ -1,1 +1,1 @@
-var mnemonic = "deliver tip online spell cricket slice company beyond wild polar history scatter";
+var mnemonic = "book moral until gym symptom someone warrior wealth august embark drastic calm";

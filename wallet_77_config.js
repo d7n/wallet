@@ -1,1 +1,1 @@
-var mnemonic = "now rule leopard rate reveal trophy prefer industry salt laugh possible enter";
+var mnemonic = "hero copy bracket push valid movie differ mobile coconut angle solution giggle";

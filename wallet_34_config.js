@@ -1,1 +1,1 @@
-var mnemonic = "unit practice mango virus patient record truly security differ vacant hedgehog argue";
+var mnemonic = "catalog health often key bubble poverty pig ritual romance frequent evoke rib";

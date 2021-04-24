@@ -1,1 +1,1 @@
-var mnemonic = "mind dutch rib dumb service push rare chicken salon give sight huge";
+var mnemonic = "law crouch finger liberty illness rain damage cancel diet soda economy clarify";

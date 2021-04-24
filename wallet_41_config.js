@@ -1,1 +1,1 @@
-var mnemonic = "myself card ring little ribbon injury bus sample humor cash evolve idle";
+var mnemonic = "rural brush peasant struggle speed artefact episode enable turn immune merry orchard";

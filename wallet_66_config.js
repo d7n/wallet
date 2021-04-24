@@ -1,1 +1,1 @@
-var mnemonic = "trap kingdom desert congress fury best table collect express axis donate leaf";
+var mnemonic = "prepare skirt mistake violin series cross judge case lesson clinic strong craft";

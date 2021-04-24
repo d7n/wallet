@@ -1,1 +1,1 @@
-var mnemonic = "lion door depend affair portion when call scout humble life concert paper";
+var mnemonic = "pony note physical destroy spring case vintage end fashion grape upgrade fog";

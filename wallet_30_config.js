@@ -1,1 +1,1 @@
-var mnemonic = "layer visa right rescue obey hold sell join fantasy tennis name swear";
+var mnemonic = "tube spray popular quiz turtle rare tobacco magnet physical crush mean salt";

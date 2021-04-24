@@ -1,1 +1,1 @@
-var mnemonic = "wife genius rice wrestle rate chuckle wide animal initial enemy click disagree";
+var mnemonic = "poem return disease faith cricket good junior normal concert decade reason erode";

@@ -1,1 +1,1 @@
-var mnemonic = "spell express sustain judge wealth eight enemy please sword equal ball dance";
+var mnemonic = "reward fee skull repair shock bronze bag dignity brass board toward kind";

@@ -1,1 +1,1 @@
-var mnemonic = "cycle vibrant final odor toilet evoke disorder aunt tail juice ahead supreme";
+var mnemonic = "bacon mushroom captain desk horse sustain kit paddle vacuum apology simple decide";

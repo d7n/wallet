@@ -1,1 +1,1 @@
-var mnemonic = "credit icon cry wash dizzy ship name tourist trade online shock roof";
+var mnemonic = "select stereo run portion dash damp dumb ostrich warm reopen abuse aisle";

@@ -1,1 +1,1 @@
-var mnemonic = "grid elite task correct pottery spatial drill ankle normal robot kite appear";
+var mnemonic = "fox mask federal cause liberty wide loud wrist burst used color thumb";

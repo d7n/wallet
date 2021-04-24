@@ -1,1 +1,1 @@
-var mnemonic = "acoustic squeeze elevator fish couple there history evil body fire fork truth";
+var mnemonic = "rough early upper betray good devote junk aim forest initial park spider";

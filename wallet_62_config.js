@@ -1,1 +1,1 @@
-var mnemonic = "flower link badge orient law option cost talk swarm smile recipe pave";
+var mnemonic = "admit response side surface boat turtle good honey blue turkey seven quality";

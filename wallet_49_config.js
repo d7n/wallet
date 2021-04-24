@@ -1,1 +1,1 @@
-var mnemonic = "source skirt finish piano health hand mosquito poet paddle fragile man glance";
+var mnemonic = "pink finger unknown depart fitness help list avoid flock grocery rule recipe";

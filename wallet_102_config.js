@@ -1,1 +1,1 @@
-var mnemonic = "trash foster travel vintage tape caught vehicle gas hammer alien crisp satisfy";
+var mnemonic = "chalk huge ramp meat empty ivory gauge measure east shy ship birth";

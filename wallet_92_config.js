@@ -1,1 +1,1 @@
-var mnemonic = "mesh spatial worry gasp hat inner office hero cliff palm lamp title";
+var mnemonic = "coconut bargain truth fish nuclear keep expand fuel into decorate fetch cube";

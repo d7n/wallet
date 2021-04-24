@@ -1,1 +1,1 @@
-var mnemonic = "corn beyond turtle front arch mind front spoil fork range young lawsuit";
+var mnemonic = "matrix nation relax dilemma chimney unusual flat rookie frost ten point add";

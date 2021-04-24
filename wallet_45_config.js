@@ -1,1 +1,1 @@
-var mnemonic = "since consider accuse grace virus cave average hub rail embrace sword asthma";
+var mnemonic = "jaguar comfort civil program beef script share duty clutch initial ensure give";

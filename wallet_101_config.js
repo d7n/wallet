@@ -1,1 +1,1 @@
-var mnemonic = "tornado pencil learn combine key funny surge ghost lab pull apple resemble";
+var mnemonic = "borrow kick summer junk regular curious crystal picture visual plate rapid lunch";

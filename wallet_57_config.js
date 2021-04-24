@@ -1,1 +1,1 @@
-var mnemonic = "half young wear struggle law model found home sketch home local gaze";
+var mnemonic = "coyote odor monitor fix device rhythm admit merry effort adapt awful movie";

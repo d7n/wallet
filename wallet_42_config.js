@@ -1,1 +1,1 @@
-var mnemonic = "hundred hospital reason magnet property scare always bike cry mixed negative gift";
+var mnemonic = "lake spare quantum change weird aisle squeeze check faculty surface slow feature";

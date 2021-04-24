@@ -1,1 +1,1 @@
-var mnemonic = "solid defense fantasy coffee retire wagon sight fit catalog obey motion banner";
+var mnemonic = "injury song mosquito language like glad pilot wait wink dismiss warm prepare";

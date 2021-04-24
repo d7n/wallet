@@ -1,1 +1,1 @@
-var mnemonic = "remove party frame guess case okay parrot switch nice curtain weather canal";
+var mnemonic = "victory whisper bomb tomorrow vacant lottery remember try produce walnut suffer treat";

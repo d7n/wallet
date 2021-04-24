@@ -1,1 +1,1 @@
-var mnemonic = "stable kid green edit resource tobacco tube entire disorder pony brother crunch";
+var mnemonic = "act twice aisle moral pear awesome method violin cool kit chalk shoulder";

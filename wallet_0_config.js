@@ -1,1 +1,1 @@
-var mnemonic = "shoe damp veteran remember pelican south typical kite neck wing mansion verify";
+var mnemonic = "open sunny mountain payment clean trust strategy wool rookie hidden push wonder";

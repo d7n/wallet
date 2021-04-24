@@ -1,1 +1,1 @@
-var mnemonic = "engage neutral sustain energy corn useful hawk glory barrel cruel title adjust";
+var mnemonic = "stomach real gospel lawsuit blanket test reject hero where life subject fluid";

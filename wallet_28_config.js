@@ -1,1 +1,1 @@
-var mnemonic = "glare manage annual fresh never faint figure satisfy camera hollow veteran force";
+var mnemonic = "super purchase crumble tattoo industry fruit total actor theory dice between canvas";

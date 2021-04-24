@@ -1,1 +1,1 @@
-var mnemonic = "claim culture adult input human silver bachelor same affair mixture series penalty";
+var mnemonic = "transfer spare embrace syrup crucial off oxygen then lift palm rapid unable";

@@ -1,1 +1,1 @@
-var mnemonic = "ski lonely brief appear spin blade raw poem ginger nose shine rice";
+var mnemonic = "rhythm yellow chuckle surround scene skirt very flip wash rail hobby uncle";

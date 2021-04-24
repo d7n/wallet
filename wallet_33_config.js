@@ -1,1 +1,1 @@
-var mnemonic = "apple gallery output ice document aunt trigger beef sample gauge develop sorry";
+var mnemonic = "arctic robot find bonus crawl ride visual thank mesh champion fan mixed";

@@ -1,1 +1,1 @@
-var mnemonic = "come script shell school motion virus museum gather glow program fossil fluid";
+var mnemonic = "wire search crystal entry mean witness stadium large affair section curious tuition";

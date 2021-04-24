@@ -1,1 +1,1 @@
-var mnemonic = "crack post present announce empty crystal basket rose between bring differ sing";
+var mnemonic = "panel adjust pole olympic analyst flip catalog sick wire crumble fox link";

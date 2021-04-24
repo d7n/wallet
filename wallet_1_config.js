@@ -1,1 +1,1 @@
-var mnemonic = "edit valve talent awful frozen final rebuild aunt forum cake mention design";
+var mnemonic = "initial seek leisure grace front punch master member tape indoor ridge bean";

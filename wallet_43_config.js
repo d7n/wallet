@@ -1,1 +1,1 @@
-var mnemonic = "voice vocal quit panic toy obscure require cave debris assume spend walnut";
+var mnemonic = "powder laptop jewel pizza prison jungle behind soul bicycle detect verb stage";

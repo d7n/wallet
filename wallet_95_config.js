@@ -1,1 +1,1 @@
-var mnemonic = "scorpion donate vapor wait panda hint fix host cherry desert property bullet";
+var mnemonic = "oak pulse artefact dog moral weekend frozen expect piece essay expand acoustic";

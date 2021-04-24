@@ -1,1 +1,1 @@
-var mnemonic = "soap ticket drastic drip mesh now story blade soon habit pony little";
+var mnemonic = "involve supply virtual employ soldier knee float trade profit firm begin chat";

@@ -1,1 +1,1 @@
-var mnemonic = "town expand road smart focus fish flight damp scrap now flee chat";
+var mnemonic = "under sister stamp flip retire amount special piano hope spy hundred bike";

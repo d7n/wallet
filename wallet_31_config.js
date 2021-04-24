@@ -1,1 +1,1 @@
-var mnemonic = "dinner inspire health toast october juice risk lounge orphan abstract page twice";
+var mnemonic = "term fury river clap violin volcano chef advice air suit pair actress";

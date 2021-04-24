@@ -1,1 +1,1 @@
-var mnemonic = "vote express carry produce attend ice asthma awful radar lunch outer merit";
+var mnemonic = "chest visa rigid topic hockey giraffe ketchup voice toss surround mercy march";

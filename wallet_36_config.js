@@ -1,1 +1,1 @@
-var mnemonic = "soldier method expire flee into ball then diamond race find method across";
+var mnemonic = "farm brown scrap junk inspire child dinosaur apart motor reward motion figure";

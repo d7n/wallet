@@ -1,1 +1,1 @@
-var mnemonic = "skill cruel enable paper fetch still poet husband dolphin capable trial harsh";
+var mnemonic = "sentence song spatial abstract upper setup drum remain agent breeze enhance position";

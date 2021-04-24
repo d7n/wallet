@@ -1,1 +1,1 @@
-var mnemonic = "type magic boring hurdle ladder exotic deer infant hip cage virtual gorilla";
+var mnemonic = "wool matter gentle inform cross member shift stadium conduct wreck suggest erode";

@@ -1,1 +1,1 @@
-var mnemonic = "trust ensure credit pair shuffle brass vacant dance child nurse talent path";
+var mnemonic = "thank pride crack click naive nuclear lyrics fresh velvet aisle paddle honey";

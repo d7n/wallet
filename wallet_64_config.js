@@ -1,1 +1,1 @@
-var mnemonic = "bulk pipe topic enrich quarter south thunder begin spot indicate pair adjust";
+var mnemonic = "soul behind genius kick swing pave ring term ridge repeat science chicken";

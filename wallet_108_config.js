@@ -1,1 +1,1 @@
-var mnemonic = "volume bargain eager sea ritual spirit kingdom riot frame auction spoil inmate";
+var mnemonic = "accident parade decade vocal title minor hub bullet estate recall walnut unable";

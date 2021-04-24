@@ -1,1 +1,1 @@
-var mnemonic = "six fluid fatigue brand garage model bargain congress diary increase dentist veteran";
+var mnemonic = "display genuine best bench vault false scale fatal turtle dust quote rude";

@@ -1,1 +1,1 @@
-var mnemonic = "very client execute put crew dream feed arena kiss seed soup clinic";
+var mnemonic = "loud merry title regret famous regular grid require side search live power";

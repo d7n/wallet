@@ -1,1 +1,1 @@
-var mnemonic = "ticket rare coral dream black blue nurse faith expire rubber recipe toilet";
+var mnemonic = "relax mother burst merry blue purity obscure fiction inflict reject fortune custom";

@@ -1,1 +1,1 @@
-var mnemonic = "puzzle fade night patch drill bird robot stomach float blue title gloom";
+var mnemonic = "lumber hunt clown praise fade scan liberty report damp merry cruel word";
