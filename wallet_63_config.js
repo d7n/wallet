@@ -1,1 +1,1 @@
-var mnemonic = "collect organ gather top limit release goddess garbage skull brief design knife";
+var mnemonic = "ensure stage gold forward sport clean stem column dash shop loan nest";

@@ -1,1 +1,1 @@
-var mnemonic = "lawn enter confirm corn way choice cabin lab spoil balance capable soda";
+var mnemonic = "weapon dirt tuition push walk indoor ladder true alarm must crush uphold";

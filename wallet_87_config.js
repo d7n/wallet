@@ -1,1 +1,1 @@
-var mnemonic = "select surprise kidney jaguar gaze join nature mountain category space purse link";
+var mnemonic = "address escape seven merit flash turn answer stadium frog neglect book mansion";

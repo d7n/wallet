@@ -1,1 +1,1 @@
-var mnemonic = "control talent foil alley accuse invest suffer outside cancel tumble glass stereo";
+var mnemonic = "impulse hidden lamp eight debris hunt steel custom praise task unveil trade";

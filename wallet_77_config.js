@@ -1,1 +1,1 @@
-var mnemonic = "anxiety zoo wish beef grass lazy crane current merit film card half";
+var mnemonic = "dirt panda marble tennis detail cross neutral path gorilla hour shoulder blue";

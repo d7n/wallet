@@ -1,1 +1,1 @@
-var mnemonic = "smooth return inspire visual bundle forward cactus near ivory teach analyst suit";
+var mnemonic = "sail ankle must buyer museum decade frame have diary vicious solution siege";

@@ -1,1 +1,1 @@
-var mnemonic = "reopen kite radar uncle radio ivory mean either pepper member gather expose";
+var mnemonic = "dice rookie try laundry citizen squeeze stamp gift bind knock dignity lesson";

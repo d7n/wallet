@@ -1,1 +1,1 @@
-var mnemonic = "sentence horn share behind gloom effort tent sniff kitchen acoustic that gun";
+var mnemonic = "party cost apart bicycle person kid angle wash episode flat joke order";

@@ -1,1 +1,1 @@
-var mnemonic = "car exercise birth mammal laundry smooth canal gauge bulk eyebrow have brief";
+var mnemonic = "churn coil dawn first interest giggle order sing sail kidney erosion ticket";

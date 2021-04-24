@@ -1,1 +1,1 @@
-var mnemonic = "detail army super cream tennis venture laundry drama nest squirrel camera now";
+var mnemonic = "swap caution absurd blush edge bless flower despair charge miracle neither present";

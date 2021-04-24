@@ -1,1 +1,1 @@
-var mnemonic = "seat pet inflict reason voyage fiber mobile switch moon park drum entire";
+var mnemonic = "mutual kiwi napkin stomach slender expose salad style senior dumb region clerk";

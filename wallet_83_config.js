@@ -1,1 +1,1 @@
-var mnemonic = "act aspect shift hospital curve black hover start response mystery sphere welcome";
+var mnemonic = "hollow jelly talk race three twice unlock laundry expect state talent tool";

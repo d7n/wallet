@@ -1,1 +1,1 @@
-var mnemonic = "laptop topple stomach matrix style reflect opinion move finish lock super high";
+var mnemonic = "road pilot spirit twenty intact sand park embrace edge average jacket still";

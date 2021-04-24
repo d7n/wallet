@@ -1,1 +1,1 @@
-var mnemonic = "wide million fame claw coconut senior easily canyon wheat mutual bread wood";
+var mnemonic = "casino toddler quarter rate cancel range mesh huge affair bullet ill paper";

@@ -1,1 +1,1 @@
-var mnemonic = "manage salute bomb pioneer prison detail govern column absorb ticket pull evil";
+var mnemonic = "blind garden buddy genuine rural miss parade song fitness become coin thing";

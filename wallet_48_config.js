@@ -1,1 +1,1 @@
-var mnemonic = "dragon perfect rice box absurd filter embody dice accuse appear six stool";
+var mnemonic = "flight main play suggest sorry confirm portion attitude obvious swarm common grass";

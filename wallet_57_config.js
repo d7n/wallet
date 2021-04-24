@@ -1,1 +1,1 @@
-var mnemonic = "often ensure trade love alone gasp cherry south spirit gesture orchard test";
+var mnemonic = "control economy luxury giggle struggle dentist marine express merit oppose chunk basket";

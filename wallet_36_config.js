@@ -1,1 +1,1 @@
-var mnemonic = "honey hockey service panic spike rare supply can turn park denial enable";
+var mnemonic = "balance clarify jar bird supply mother rude fun surge shop strong mimic";

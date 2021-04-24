@@ -1,1 +1,1 @@
-var mnemonic = "soldier episode anger scout sketch denial shy bright cement coast inch example";
+var mnemonic = "surround nothing absent reduce verb hundred daughter version exotic dragon theory ill";

@@ -1,1 +1,1 @@
-var mnemonic = "derive grief april pull panel evolve divide umbrella author increase cycle input";
+var mnemonic = "peasant cruel term scale fire ceiling leaf mean mail champion indoor model";

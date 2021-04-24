@@ -1,1 +1,1 @@
-var mnemonic = "speed left siren fancy mobile subject topic image suggest drill pact coast";
+var mnemonic = "cost require arm left essay miracle nominee female film dynamic regret staff";

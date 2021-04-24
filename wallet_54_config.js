@@ -1,1 +1,1 @@
-var mnemonic = "vicious city flush attitude identify famous bridge hospital fatal viable stay gesture";
+var mnemonic = "tackle proof gauge among motor food plug type street man start hedgehog";

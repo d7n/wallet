@@ -1,1 +1,1 @@
-var mnemonic = "foot rapid tuition picture tower real fury burst area lawn mercy gaze";
+var mnemonic = "scorpion seminar female double wheel hurt rib similar wagon guide addict delay";

@@ -1,1 +1,1 @@
-var mnemonic = "hurdle cement coast empty illness pencil strong vintage chef movie sting tenant";
+var mnemonic = "adult problem shell husband grab bench lizard piano enact cupboard toe angry";

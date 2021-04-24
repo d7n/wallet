@@ -1,1 +1,1 @@
-var mnemonic = "gossip success eager crush canoe already bubble warfare attack warfare action way";
+var mnemonic = "sister popular fade busy neck total obscure worth juice unveil measure power";

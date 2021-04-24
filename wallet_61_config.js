@@ -1,1 +1,1 @@
-var mnemonic = "rough celery broccoli want pupil dumb banner wool urban film genius hurry";
+var mnemonic = "deliver rural problem maple mercy grit paper exhaust nose design dust seven";

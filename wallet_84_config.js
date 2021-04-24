@@ -1,1 +1,1 @@
-var mnemonic = "parent leave ecology kidney gravity kangaroo tilt midnight primary pistol daughter shrimp";
+var mnemonic = "found inherit govern impulse quote pill paddle nut sort sound license used";

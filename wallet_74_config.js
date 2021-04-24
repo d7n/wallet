@@ -1,1 +1,1 @@
-var mnemonic = "junior vicious camp acoustic gasp whisper want vault cycle tunnel purpose gossip";
+var mnemonic = "own address december veteran jaguar squeeze flush consider tray attend bitter blood";

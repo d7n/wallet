@@ -1,1 +1,1 @@
-var mnemonic = "voice crane nurse face local comfort february faint series beach number mountain";
+var mnemonic = "such eager release mixed until attack disagree edge lunch recall verb citizen";

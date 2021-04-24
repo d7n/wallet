@@ -1,1 +1,1 @@
-var mnemonic = "leisure drum sunny truly gate stool mosquito ghost great hard welcome stuff";
+var mnemonic = "shift forum enforce giggle raw finger satisfy cabin crack acid number eternal";

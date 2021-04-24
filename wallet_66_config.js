@@ -1,1 +1,1 @@
-var mnemonic = "spice inside term divert agree glue sudden glad remember impulse process fat";
+var mnemonic = "corn lounge deliver label belt picnic oxygen plate impulse pluck picture text";

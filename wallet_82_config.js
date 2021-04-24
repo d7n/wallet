@@ -1,1 +1,1 @@
-var mnemonic = "finish unusual upon rhythm pitch mad will clutch smart concert digital marine";
+var mnemonic = "private jazz attract destroy cart shadow verb kid olympic apple fault jazz";

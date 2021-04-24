@@ -1,1 +1,1 @@
-var mnemonic = "upon own floor stock improve video marine home rough alpha rent animal";
+var mnemonic = "maple bullet submit olive confirm salute cash useful air tenant foster glimpse";

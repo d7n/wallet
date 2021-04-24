@@ -1,1 +1,1 @@
-var mnemonic = "spin media mistake stock frost resemble wear casino wheat initial rose little";
+var mnemonic = "donate river excite morning slush lizard under job feel confirm distance power";

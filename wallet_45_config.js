@@ -1,1 +1,1 @@
-var mnemonic = "palm faith also math try lunch swift you document total wing skin";
+var mnemonic = "possible pitch announce salute element menu quality stuff sheriff accuse police normal";

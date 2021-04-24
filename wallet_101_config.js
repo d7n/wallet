@@ -1,1 +1,1 @@
-var mnemonic = "shed another giggle inhale prefer athlete jacket crash cannon must doll scan";
+var mnemonic = "fancy stay stem bid region bubble raise deposit thrive simple solution awake";

@@ -1,1 +1,1 @@
-var mnemonic = "unfold jealous glue lens another game mixture blossom prize slam blast dismiss";
+var mnemonic = "measure quantum ski story rookie orphan cool alert bounce pluck already faith";

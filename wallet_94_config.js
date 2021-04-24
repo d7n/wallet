@@ -1,1 +1,1 @@
-var mnemonic = "eager exotic mobile exit banner stay hundred session sock outside wash term";
+var mnemonic = "stone cheese lumber once best naive engage disorder toss impose maze birth";

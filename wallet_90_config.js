@@ -1,1 +1,1 @@
-var mnemonic = "design issue blur acquire solid drum secret rural bar quantum muscle permit";
+var mnemonic = "social hire multiply profit book velvet design never cancel record coffee radar";

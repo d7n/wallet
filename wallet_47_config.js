@@ -1,1 +1,1 @@
-var mnemonic = "blame plastic bird arrange profit obvious empty bid squeeze goddess heavy enhance";
+var mnemonic = "artefact tube shaft access seek mango motion speed defy defy depth divorce";

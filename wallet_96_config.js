@@ -1,1 +1,1 @@
-var mnemonic = "nest bracket poet plastic bronze ritual canal mandate dry lesson olive slight";
+var mnemonic = "reason build guide welcome alter lunar able major praise together frame giant";

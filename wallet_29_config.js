@@ -1,1 +1,1 @@
-var mnemonic = "only monkey sponsor consider pretty fabric spend neutral vicious hand couple climb";
+var mnemonic = "few south essence father journey mule attract miracle movie scatter tilt lesson";

@@ -1,1 +1,1 @@
-var mnemonic = "tray toe license push know crumble nasty school grape lumber swear crisp";
+var mnemonic = "april atom casual acquire rose foil mobile try ceiling unfair menu penalty";

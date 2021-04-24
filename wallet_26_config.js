@@ -1,1 +1,1 @@
-var mnemonic = "plug remain phone tape jeans priority present stairs execute escape gaze knee";
+var mnemonic = "tackle churn blouse isolate spend quit slide agent allow program net mosquito";

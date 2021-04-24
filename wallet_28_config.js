@@ -1,1 +1,1 @@
-var mnemonic = "general enroll taxi undo lift dinner matter boring shaft add quote enact";
+var mnemonic = "puppy regular million soon around royal brand unusual cruel forward soup develop";

@@ -1,1 +1,1 @@
-var mnemonic = "input impulse doll window gift hole diet tourist deliver lunch midnight tenant";
+var mnemonic = "recipe charge hollow defy cute reason wife stem fine there purchase receive";

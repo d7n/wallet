@@ -1,1 +1,1 @@
-var mnemonic = "during bracket gas tumble admit pizza area because swamp wife borrow actor";
+var mnemonic = "early maid cube material toilet spoil huge inhale practice flag yellow creek";

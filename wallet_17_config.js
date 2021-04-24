@@ -1,1 +1,1 @@
-var mnemonic = "talent struggle blur satoshi keen actress good city wheel business twist civil";
+var mnemonic = "solve crack property round kingdom marine glimpse audit obscure truly agent degree";

@@ -1,1 +1,1 @@
-var mnemonic = "dress worry charge circle famous ceiling garbage rib wrap sustain bomb tube";
+var mnemonic = "alien filter coffee live wife inspire magnet mention ceiling bike drip divert";

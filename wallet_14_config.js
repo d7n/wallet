@@ -1,1 +1,1 @@
-var mnemonic = "apple leg muscle rotate slim pluck endorse swim hybrid unfair ceiling soup";
+var mnemonic = "hero gorilla key distance number lottery virtual theory tennis leopard awkward wide";

@@ -1,1 +1,1 @@
-var mnemonic = "curious educate paddle crisp obey humble shop myself ethics hurt unfold soul";
+var mnemonic = "radar hero bonus choice stable avoid gasp weasel find host issue much";

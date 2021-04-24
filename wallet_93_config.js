@@ -1,1 +1,1 @@
-var mnemonic = "invite dizzy piece poem laptop stock summer desk pencil capital twenty affair";
+var mnemonic = "town toast uncle half edit blanket able pumpkin book swap grocery intact";

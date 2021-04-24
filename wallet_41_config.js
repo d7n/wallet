@@ -1,1 +1,1 @@
-var mnemonic = "power transfer model unknown today man galaxy settle outdoor fox spray grain";
+var mnemonic = "spend alone symptom crater maple sausage know brave brisk twelve code afford";

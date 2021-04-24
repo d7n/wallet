@@ -1,1 +1,1 @@
-var mnemonic = "ahead laptop shoe below edge occur advance exhibit fault load island solution";
+var mnemonic = "sign sure notable stay brisk bonus never horn magnet reform direct novel";

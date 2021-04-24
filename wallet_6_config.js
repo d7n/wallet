@@ -1,1 +1,1 @@
-var mnemonic = "hamster husband defy fringe kid style slam distance kid lucky rescue clay";
+var mnemonic = "oblige pizza sugar kidney loyal shaft clay relax boat gain fish pill";

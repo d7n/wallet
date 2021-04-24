@@ -1,1 +1,1 @@
-var mnemonic = "abuse chef speed pudding excess double success intact author enhance hurt skill";
+var mnemonic = "disorder december magnet tackle field remind shed toddler bone parrot decrease regular";

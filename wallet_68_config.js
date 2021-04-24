@@ -1,1 +1,1 @@
-var mnemonic = "account must modify powder gossip gym lesson cave brand ladder caution sure";
+var mnemonic = "noble sense hazard sad weather remain claw burden home rebel stove grape";

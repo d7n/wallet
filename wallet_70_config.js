@@ -1,1 +1,1 @@
-var mnemonic = "swift material apple army alpha pair stumble love sock airport market garden";
+var mnemonic = "viable patrol sad fashion glimpse page regular table year nut wine label";

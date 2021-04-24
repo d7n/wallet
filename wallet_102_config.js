@@ -1,1 +1,1 @@
-var mnemonic = "fancy quarter dial sketch hunt dwarf happy best estate taxi sad spoil";
+var mnemonic = "click rose pact gossip object margin sister you sunny clump poet garbage";

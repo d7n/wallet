@@ -1,1 +1,1 @@
-var mnemonic = "enact slide steak reveal trim bird ignore base world special upgrade cage";
+var mnemonic = "scorpion goddess badge napkin phrase next busy concert solve solve cake miss";

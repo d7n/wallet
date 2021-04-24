@@ -1,1 +1,1 @@
-var mnemonic = "dress negative best enlist please diagram initial estate multiply leader enable nation";
+var mnemonic = "rapid can crane range advance panther pilot suit one lend still daughter";

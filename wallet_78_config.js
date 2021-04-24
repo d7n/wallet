@@ -1,1 +1,1 @@
-var mnemonic = "uphold stumble slide destroy beef glimpse quit license uncover dice vast cream";
+var mnemonic = "spider parade purpose have jewel alpha worry raccoon tumble robust piece paddle";

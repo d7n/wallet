@@ -1,1 +1,1 @@
-var mnemonic = "daring crumble total shop shell hero involve develop puppy arctic wine snake";
+var mnemonic = "sunset essence month item this anger mask tray two cry pencil jacket";

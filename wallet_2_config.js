@@ -1,1 +1,1 @@
-var mnemonic = "install good okay two recipe ladder damage receive sleep target shuffle benefit";
+var mnemonic = "team forward rain engine script return rude fix retire autumn coffee clay";

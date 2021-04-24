@@ -1,1 +1,1 @@
-var mnemonic = "dumb kind book volume taste cactus dose observe portion search scene language";
+var mnemonic = "movie foil danger draw custom damp hobby excess main alcohol forget three";

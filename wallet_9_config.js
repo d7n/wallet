@@ -1,1 +1,1 @@
-var mnemonic = "play link coral tumble crash assume infant metal extend clock there judge";
+var mnemonic = "raven poverty slam anchor indoor super common renew thunder program normal saddle";

@@ -1,1 +1,1 @@
-var mnemonic = "office involve bubble mushroom fatigue flower prefer empty asthma cage occur improve";
+var mnemonic = "museum sea melody repair floor chunk thought album unique vague bottom around";

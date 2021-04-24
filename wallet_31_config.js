@@ -1,1 +1,1 @@
-var mnemonic = "arctic dynamic extend window market envelope dinosaur path flee runway energy method";
+var mnemonic = "element alley cable whisper impose idle mention iron craft tragic then eager";

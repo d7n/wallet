@@ -1,1 +1,1 @@
-var mnemonic = "learn seat sand enemy upper party still sun advance beyond harsh hospital";
+var mnemonic = "expose advance typical lock educate purchase catch access gaze soup purpose enjoy";

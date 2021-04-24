@@ -1,1 +1,1 @@
-var mnemonic = "outside trophy cargo sign fatal shadow people option shiver famous forward sketch";
+var mnemonic = "film dress about once arctic impact shoot hub ability phone emotion nerve";

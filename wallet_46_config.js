@@ -1,1 +1,1 @@
-var mnemonic = "earth spatial summer deliver sleep diet unlock ski sister cloth exact orange";
+var mnemonic = "about educate demand balance elephant level wave danger pull fee convince gold";

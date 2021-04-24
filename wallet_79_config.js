@@ -1,1 +1,1 @@
-var mnemonic = "crumble awesome crystal analyst treat question mail say leopard steak dash adapt";
+var mnemonic = "draw song era scatter aspect denial rough symbol useful lift embody number";

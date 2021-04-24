@@ -1,1 +1,1 @@
-var mnemonic = "remain turkey wire unknown leave doll claw this rebuild gospel pupil spare";
+var mnemonic = "lucky fit violin rug response cherry puppy amount sheriff endless top bullet";

@@ -1,1 +1,1 @@
-var mnemonic = "gain start grant absent shove slam skill birth game mind soccer mystery";
+var mnemonic = "enjoy crawl swift okay person curve man sibling letter peace uncover ten";

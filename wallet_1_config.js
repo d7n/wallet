@@ -1,1 +1,1 @@
-var mnemonic = "satisfy embody danger blur hungry myself ketchup another cycle lion input gather";
+var mnemonic = "modify twin hybrid cook hat donkey eternal estate flat congress weekend annual";

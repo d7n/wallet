@@ -1,1 +1,1 @@
-var mnemonic = "goat mammal recycle whip model medal trial census bubble fabric business oyster";
+var mnemonic = "pool ketchup bunker aim treat anxiety narrow you erosion code verify second";

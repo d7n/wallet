@@ -1,1 +1,1 @@
-var mnemonic = "cute end sweet venture rebel math spend attack crisp protect delay window";
+var mnemonic = "dentist rookie exclude debate skill shallow mammal husband ship birth play pyramid";

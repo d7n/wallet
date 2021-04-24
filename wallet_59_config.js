@@ -1,1 +1,1 @@
-var mnemonic = "license valley range always ivory length fall bunker rhythm spin choose child";
+var mnemonic = "conduct cargo among you arrive friend become zebra dinosaur dwarf host lucky";

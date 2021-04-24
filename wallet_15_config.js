@@ -1,1 +1,1 @@
-var mnemonic = "destroy riot deal car orphan rookie consider canvas inhale around tower text";
+var mnemonic = "error then dice spend perfect fruit sail curve license gas skate bounce";

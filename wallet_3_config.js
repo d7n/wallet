@@ -1,1 +1,1 @@
-var mnemonic = "return auto chase pencil vendor gate wealth prevent join topple destroy try";
+var mnemonic = "chaos essence excite amateur six iron picnic corn case say grant scare";

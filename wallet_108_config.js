@@ -1,1 +1,1 @@
-var mnemonic = "mean major protect fitness autumn main pulp chest figure talk token giraffe";
+var mnemonic = "increase obvious major verify gas midnight recipe audit easily march retreat roast";

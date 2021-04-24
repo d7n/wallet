@@ -1,1 +1,1 @@
-var mnemonic = "inhale quit planet spot cart kingdom arch cricket coil cupboard ostrich often";
+var mnemonic = "good lottery again thrive lizard life divorce device aisle scrub neutral asthma";

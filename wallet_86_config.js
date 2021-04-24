@@ -1,1 +1,1 @@
-var mnemonic = "fiction robot high holiday pledge deputy borrow enjoy stairs tobacco exile tray";
+var mnemonic = "churn fringe way doll cream rice swap machine mushroom pair cheese volume";

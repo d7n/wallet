@@ -1,1 +1,1 @@
-var mnemonic = "movie sentence tackle remove couple attitude load bargain thrive jewel warrior diet";
+var mnemonic = "stay print you victory rare busy slide mother decorate afford utility clever";

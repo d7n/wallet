@@ -1,1 +1,1 @@
-var mnemonic = "balcony element decorate ice alone rose crater bitter fruit session dinosaur possible";
+var mnemonic = "clinic quote interest grab kiwi minimum genuine silent appear remind reduce girl";

@@ -1,1 +1,1 @@
-var mnemonic = "twelve blast lion waste crush charge dinner nephew program shed medal outdoor";
+var mnemonic = "fiction clean economy debris false post swear talent floor album gadget increase";

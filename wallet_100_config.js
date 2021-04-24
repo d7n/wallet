@@ -1,1 +1,1 @@
-var mnemonic = "search primary message physical bronze edit pear divert cart roast trim identify";
+var mnemonic = "only dream rose song mad lake frost sketch extend walk dirt alone";

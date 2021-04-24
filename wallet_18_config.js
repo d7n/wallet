@@ -1,1 +1,1 @@
-var mnemonic = "advice runway lawn two myth saddle left firm empty predict vapor absorb";
+var mnemonic = "unveil mushroom lazy atom first ready innocent rally two shop fetch security";

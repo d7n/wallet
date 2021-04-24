@@ -1,1 +1,1 @@
-var mnemonic = "act believe truck peanut toy immune index fog vivid urban genre level";
+var mnemonic = "swim airport immune federal tell light humor myth isolate stem cushion series";
