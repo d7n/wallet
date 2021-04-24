@@ -1,1 +1,1 @@
-var mnemonic = "seminar hero ankle public found dwarf badge fame portion return poverty situate";
+var mnemonic = "father argue cube explain never decide sibling drop clutch apart scissors donkey";

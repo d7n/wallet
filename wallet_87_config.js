@@ -1,1 +1,1 @@
-var mnemonic = "typical session maze inquiry century outside love napkin pencil various onion sword";
+var mnemonic = "make fish amount basket gentle major access speed pigeon fall tide short";

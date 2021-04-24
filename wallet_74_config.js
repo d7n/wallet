@@ -1,1 +1,1 @@
-var mnemonic = "second visual almost unaware change ocean kiwi rocket letter cover core actual";
+var mnemonic = "embark vintage unknown race hurry parade spell wish provide once faculty tornado";

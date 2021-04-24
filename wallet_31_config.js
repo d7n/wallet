@@ -1,1 +1,1 @@
-var mnemonic = "define nerve shrug glass obey define divide exact weapon pyramid wasp spawn";
+var mnemonic = "rebel pond educate wreck pistol dawn parade today rude exercise suspect author";

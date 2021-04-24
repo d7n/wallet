@@ -1,1 +1,1 @@
-var mnemonic = "hunt culture relax cabin face split foil summer slogan oak false vital";
+var mnemonic = "describe glue border glory soon dilemma february news host section text swear";

@@ -1,1 +1,1 @@
-var mnemonic = "melody measure art pigeon flat exhibit obtain letter wagon shoe day praise";
+var mnemonic = "slam salon multiply crazy rhythm copy habit conduct length ugly fiber slot";

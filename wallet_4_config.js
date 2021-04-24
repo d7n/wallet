@@ -1,1 +1,1 @@
-var mnemonic = "lemon become famous critic find absent bundle clown mean maid pool hunt";
+var mnemonic = "hub blossom region all color drum cream rain spare kite when taste";

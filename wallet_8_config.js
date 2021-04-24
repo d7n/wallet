@@ -1,1 +1,1 @@
-var mnemonic = "vacant frown pond phrase time range wing stove spoon leisure heart author";
+var mnemonic = "treat execute box sport immense album toward fat dolphin worry olympic opinion";

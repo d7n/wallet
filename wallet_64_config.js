@@ -1,1 +1,1 @@
-var mnemonic = "fringe topple stick there fluid nuclear better marble discover flock lazy ranch";
+var mnemonic = "diary favorite intact hungry surface tent upgrade bundle senior near double private";

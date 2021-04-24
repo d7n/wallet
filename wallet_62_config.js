@@ -1,1 +1,1 @@
-var mnemonic = "fame shuffle abuse fresh prize wash inform funny worry mesh mushroom then";
+var mnemonic = "stamp drip rule creek blame stairs panther over crater treat lift brass";

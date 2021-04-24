@@ -1,1 +1,1 @@
-var mnemonic = "solution unknown planet peace evoke jump faith photo gift faint observe between";
+var mnemonic = "develop gain option engage settle number reason clutch enable apple puppy depart";

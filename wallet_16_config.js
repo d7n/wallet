@@ -1,1 +1,1 @@
-var mnemonic = "curious farm scatter mirror speed coffee runway trigger purse attend element egg";
+var mnemonic = "critic mirror poverty veteran guide hope awkward turtle chuckle rude ten rain";

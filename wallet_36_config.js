@@ -1,1 +1,1 @@
-var mnemonic = "urge baby light verb twin run wool vote repeat fit armed when";
+var mnemonic = "cup panther shrimp electric medal nest movie luggage radar chuckle auction drama";

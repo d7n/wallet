@@ -1,1 +1,1 @@
-var mnemonic = "float retire tobacco path differ orphan world credit broom lottery detect forget";
+var mnemonic = "penalty auto stick erode enact enough middle tennis vague canal ugly smoke";

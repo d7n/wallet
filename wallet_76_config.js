@@ -1,1 +1,1 @@
-var mnemonic = "network already cushion cover soon capable effort keen lift future coast follow";
+var mnemonic = "all exotic belt power secret right sample original volume nasty crop cannon";

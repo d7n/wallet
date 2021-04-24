@@ -1,1 +1,1 @@
-var mnemonic = "useful obscure film accident horror gesture also dynamic melt buddy regret public";
+var mnemonic = "educate answer wire melody marble glass exotic shadow truly true ghost gym";

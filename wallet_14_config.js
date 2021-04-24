@@ -1,1 +1,1 @@
-var mnemonic = "march candy angry silly game fiction milk canyon snow snow once nuclear";
+var mnemonic = "soap dry orient taxi color plastic palace bridge spirit urban exercise wonder";

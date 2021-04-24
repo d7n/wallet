@@ -1,1 +1,1 @@
-var mnemonic = "erupt public impose amateur fitness analyst predict oven shell goat phone clarify";
+var mnemonic = "amazing axis scorpion ripple across swap update always tooth town act dismiss";

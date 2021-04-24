@@ -1,1 +1,1 @@
-var mnemonic = "fit gadget lumber snack final ivory tribe menu cannon human glare cotton";
+var mnemonic = "dog chronic wide cargo sword laptop december enrich must elevator extend forum";

@@ -1,1 +1,1 @@
-var mnemonic = "captain kit problem chaos wine record gift boy river maple tomato doll";
+var mnemonic = "victory title glue bus rally bubble example december hood toy drill oven";

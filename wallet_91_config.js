@@ -1,1 +1,1 @@
-var mnemonic = "welcome boat wine burger age bottom inner pottery teach anchor three wet";
+var mnemonic = "maple sleep repeat year obtain cable rally recipe van bracket diet glare";

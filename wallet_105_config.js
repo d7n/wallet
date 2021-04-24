@@ -1,1 +1,1 @@
-var mnemonic = "leaf index pigeon beyond cinnamon borrow depth catch barrel undo option track";
+var mnemonic = "feel birth season weather naive discover heart tunnel monster outside pitch ski";

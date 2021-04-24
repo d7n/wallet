@@ -1,1 +1,1 @@
-var mnemonic = "earth exit apart taxi cruel rice uncover when junk sheriff surprise annual";
+var mnemonic = "detail angle orbit path radar cloud cattle coin have whale coral couple";

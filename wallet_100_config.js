@@ -1,1 +1,1 @@
-var mnemonic = "theory inhale antique music ensure volume inmate deliver bacon setup pill approve";
+var mnemonic = "believe rescue clean fatal equip veteran system used lawsuit close misery copper";

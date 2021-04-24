@@ -1,1 +1,1 @@
-var mnemonic = "radio jealous garbage endorse object advice dirt moral series diesel exact spice";
+var mnemonic = "pencil search scissors story amazing divert escape zone situate upper glimpse tone";

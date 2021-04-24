@@ -1,1 +1,1 @@
-var mnemonic = "someone milk armor render pulse ranch awkward situate fold protect helmet friend";
+var mnemonic = "demise flush harbor latin account oil sad toilet express agent door cabbage";

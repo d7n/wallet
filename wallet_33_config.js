@@ -1,1 +1,1 @@
-var mnemonic = "claim region item chronic glad asset popular select model roof either either";
+var mnemonic = "course pottery eagle tired addict ripple install coil weapon page popular width";

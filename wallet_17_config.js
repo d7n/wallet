@@ -1,1 +1,1 @@
-var mnemonic = "armed rally poem eternal apology proof cannon confirm athlete jealous muffin spin";
+var mnemonic = "loud scorpion exist aspect dial multiply ivory butter coin gorilla intact camp";

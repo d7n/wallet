@@ -1,1 +1,1 @@
-var mnemonic = "pact concert hen link panel receive despair undo riot dress barrel ivory";
+var mnemonic = "master result van vault belt whisper utility lecture scare setup pepper oxygen";

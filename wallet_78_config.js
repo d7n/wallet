@@ -1,1 +1,1 @@
-var mnemonic = "frown only behave hundred become earn market edge knee bar diet crater";
+var mnemonic = "reflect merit crunch stick blast mask letter math admit easy cheese cave";

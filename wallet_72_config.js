@@ -1,1 +1,1 @@
-var mnemonic = "margin track chase settle topic credit say tiny mistake garment trap charge";
+var mnemonic = "patient excite tornado win profit someone debate under faint unhappy bomb push";

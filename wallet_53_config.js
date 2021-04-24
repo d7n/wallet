@@ -1,1 +1,1 @@
-var mnemonic = "vital runway bike spice elite february course still drip man diamond fox";
+var mnemonic = "brick weasel try cost deal inspire series jungle calm fire rack rib";

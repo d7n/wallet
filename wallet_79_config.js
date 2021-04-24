@@ -1,1 +1,1 @@
-var mnemonic = "kick gap gym concert vanish bag decline bridge until broom open draft";
+var mnemonic = "weekend roof mango furnace apology hungry stage voice delay nuclear source absent";

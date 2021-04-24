@@ -1,1 +1,1 @@
-var mnemonic = "frown armor metal foil unknown spread weapon indoor congress pitch pudding twice";
+var mnemonic = "abuse sound face quantum loan alter hundred define antique lend clay anger";

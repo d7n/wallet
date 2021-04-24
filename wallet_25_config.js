@@ -1,1 +1,1 @@
-var mnemonic = "lend tuna dizzy thought rack hospital clown rebuild ice clever cluster absorb";
+var mnemonic = "junk acquire galaxy pool scrap kite lecture hockey core ghost photo intact";

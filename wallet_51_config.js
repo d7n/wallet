@@ -1,1 +1,1 @@
-var mnemonic = "live finish monster urban sight diamond bean long bless tilt egg army";
+var mnemonic = "twelve grit monkey question surface report proof evolve tunnel anchor guard athlete";

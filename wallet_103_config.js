@@ -1,1 +1,1 @@
-var mnemonic = "mountain margin mistake athlete parrot until day appear surprise aware mutual shoot";
+var mnemonic = "slot machine scare digital walnut invite adjust grow bar vivid tape life";

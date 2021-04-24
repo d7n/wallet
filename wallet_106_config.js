@@ -1,1 +1,1 @@
-var mnemonic = "witness match able model cake seat alone coil ethics rich trade supply";
+var mnemonic = "quit okay letter cruel rhythm diamond share scatter dog orbit column movie";

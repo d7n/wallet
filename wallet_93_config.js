@@ -1,1 +1,1 @@
-var mnemonic = "radio replace second actual label also fork jungle patrol domain taxi similar";
+var mnemonic = "shiver coyote someone please base piano derive wood tide chimney narrow mix";

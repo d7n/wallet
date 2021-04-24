@@ -1,1 +1,1 @@
-var mnemonic = "tennis assume leaf penalty account leg coach silly general race ramp favorite";
+var mnemonic = "swear burden innocent blind fluid ability prepare arena fall hockey child depth";

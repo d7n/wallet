@@ -1,1 +1,1 @@
-var mnemonic = "hold ice hurt lawsuit slogan weird oblige venture bone lend seminar medal";
+var mnemonic = "habit oppose arch stairs deal cat genius wonder steel team upgrade ripple";

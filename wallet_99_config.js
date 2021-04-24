@@ -1,1 +1,1 @@
-var mnemonic = "fresh tooth easily alarm staff finger emotion trick remember budget denial private";
+var mnemonic = "great venture demise possible pioneer what acquire predict ozone daughter fall lumber";

@@ -1,1 +1,1 @@
-var mnemonic = "skill spoil hidden soft cost rule lucky antenna zoo spring genius stomach";
+var mnemonic = "bitter empower win sport math goat piece crowd fine artist major mountain";

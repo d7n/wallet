@@ -1,1 +1,1 @@
-var mnemonic = "measure organ opinion smart below exchange rapid advance route tail able prevent";
+var mnemonic = "verb rice evoke taxi actress left grocery card cycle oppose boat motion";

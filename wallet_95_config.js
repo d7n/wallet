@@ -1,1 +1,1 @@
-var mnemonic = "allow seek curious reduce piece pretty short river asset mutual plunge appear";
+var mnemonic = "height erase found apple axis also march abstract helmet wealth celery twelve";

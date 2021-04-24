@@ -1,1 +1,1 @@
-var mnemonic = "mansion hub umbrella culture exit push alone grab chapter unusual quote ensure";
+var mnemonic = "portion property reunion leave resist kiss cherry unfair vote team city tortoise";

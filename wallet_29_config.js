@@ -1,1 +1,1 @@
-var mnemonic = "ready keen casual rescue detect extend hundred business trap sponsor side share";
+var mnemonic = "artwork various fame under boring shoe verb cupboard sausage where nest ugly";

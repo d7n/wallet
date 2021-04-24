@@ -1,1 +1,1 @@
-var mnemonic = "nose front cactus ignore crouch unit clarify catch dad modify beauty business";
+var mnemonic = "ensure tomorrow calm tissue rocket else afford region chronic modify hat thank";

@@ -1,1 +1,1 @@
-var mnemonic = "nation shield chaos code load buzz meadow primary embark install aisle swear";
+var mnemonic = "choice chef wood opera home away result early museum false rose reunion";

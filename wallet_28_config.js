@@ -1,1 +1,1 @@
-var mnemonic = "arm since fix search among pool setup flag pair park bachelor surge";
+var mnemonic = "remember matter expire volcano limit offer valid deny walnut dance climb patch";

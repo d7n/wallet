@@ -1,1 +1,1 @@
-var mnemonic = "erosion orange ride destroy give cube sense trash run empty mean bulb";
+var mnemonic = "right cage axis champion love edit crop final claw able naive hybrid";

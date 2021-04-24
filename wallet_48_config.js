@@ -1,1 +1,1 @@
-var mnemonic = "already together roast develop case gather nothing crisp turtle lava motion device";
+var mnemonic = "return real cancel mention detect clarify before miracle slow tired bike bicycle";

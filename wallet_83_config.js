@@ -1,1 +1,1 @@
-var mnemonic = "ranch dash expire spell roast soul olympic phone crisp reward hour tissue";
+var mnemonic = "meat help cabbage local fluid crumble slight seminar creek bright mule pear";

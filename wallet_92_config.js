@@ -1,1 +1,1 @@
-var mnemonic = "roof hungry sister ethics man brief organ carry husband life table label";
+var mnemonic = "response network banana club omit mechanic remind cradle type nephew input industry";

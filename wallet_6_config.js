@@ -1,1 +1,1 @@
-var mnemonic = "casual youth beyond spread approve express help inmate basket planet tobacco session";
+var mnemonic = "cruel fragile maze flush column choice infant reject dumb nephew like fuel";

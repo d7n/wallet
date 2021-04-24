@@ -1,1 +1,1 @@
-var mnemonic = "brick boring gorilla slide clap lab giraffe tone entire tragic aspect vessel";
+var mnemonic = "walk orchard snow health impulse slight tag thank resource cement execute foam";

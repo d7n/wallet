@@ -1,1 +1,1 @@
-var mnemonic = "spot emotion chaos kid goat section palm wave rose account sun beyond";
+var mnemonic = "badge march high give federal brief adult huge artefact window frame acid";

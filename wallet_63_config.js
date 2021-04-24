@@ -1,1 +1,1 @@
-var mnemonic = "hood actor salmon sick object loud clown swallow cupboard chief script weasel";
+var mnemonic = "network own oak joy solve oval aunt tourist real exhibit draft sibling";

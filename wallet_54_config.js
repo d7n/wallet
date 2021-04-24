@@ -1,1 +1,1 @@
-var mnemonic = "identify april enroll segment memory local outer ribbon lady beyond room cupboard";
+var mnemonic = "fancy bomb pilot avocado suffer borrow crush author jar silk grow credit";

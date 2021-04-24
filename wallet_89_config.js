@@ -1,1 +1,1 @@
-var mnemonic = "pipe wrestle aim script review junk noble mad security rescue romance lab";
+var mnemonic = "road envelope slogan afraid fresh suggest warfare glass resist science gentle snow";

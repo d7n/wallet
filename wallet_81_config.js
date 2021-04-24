@@ -1,1 +1,1 @@
-var mnemonic = "faint long arrange else wool subway will honey believe face artist candy";
+var mnemonic = "human have shoe arctic photo roof sentence country favorite nose pudding hurdle";

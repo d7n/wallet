@@ -1,1 +1,1 @@
-var mnemonic = "choice message turkey nose pupil diagram process turn century toast duck wreck";
+var mnemonic = "burst monkey aspect bright advice gauge pelican museum access release divide display";

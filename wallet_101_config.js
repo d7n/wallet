@@ -1,1 +1,1 @@
-var mnemonic = "embody lumber file soup relax genius item desert real mixed animal mushroom";
+var mnemonic = "pink uniform meadow final alarm turkey mammal desk rate convince drift weird";

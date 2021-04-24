@@ -1,1 +1,1 @@
-var mnemonic = "crater admit worry fancy budget push long dolphin hybrid salmon two portion";
+var mnemonic = "engage filter argue ocean cruel genuine explain yellow rebuild fix describe vast";

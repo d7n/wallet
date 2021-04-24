@@ -1,1 +1,1 @@
-var mnemonic = "use help hockey ancient knife gym glad civil turtle swear setup movie";
+var mnemonic = "inch speed fold antenna dutch few boost base rhythm genre leader ready";

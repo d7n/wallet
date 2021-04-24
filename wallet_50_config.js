@@ -1,1 +1,1 @@
-var mnemonic = "basket field total smoke finger loyal move bracket example limb excess vague";
+var mnemonic = "genuine crush congress twin argue accuse crazy early range section parent pizza";

@@ -1,1 +1,1 @@
-var mnemonic = "meadow modify scare transfer view dry disease avocado spin ocean hazard torch";
+var mnemonic = "foster pair pink cheap spatial history slot feed valid rain hazard seek";

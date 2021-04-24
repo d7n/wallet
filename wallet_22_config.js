@@ -1,1 +1,1 @@
-var mnemonic = "spray scan cry include honey audit domain salad cup master elite educate";
+var mnemonic = "silk wise tenant save damp bus fee daring bubble powder give claw";

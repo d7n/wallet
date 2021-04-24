@@ -1,1 +1,1 @@
-var mnemonic = "alpha angle diesel steel word sadness flame noble smart enter belt lunar";
+var mnemonic = "envelope hole october ride sentence wealth payment width cargo crouch rocket eyebrow";

@@ -1,1 +1,1 @@
-var mnemonic = "giant sing walk together onion erosion fetch mixture scare account casino relief";
+var mnemonic = "need flame mushroom three rural pizza jar skill mind able onion palace";

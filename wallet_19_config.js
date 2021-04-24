@@ -1,1 +1,1 @@
-var mnemonic = "congress else whip wagon still trash dolphin valid check sword phone maple";
+var mnemonic = "pact busy alpha visit boil clown west chat razor ring pyramid parrot";

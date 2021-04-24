@@ -1,1 +1,1 @@
-var mnemonic = "impulse symptom someone panther rigid few draft offer husband man cattle throw";
+var mnemonic = "sleep garlic humble tornado goddess term rebuild penalty execute feature mirror chase";

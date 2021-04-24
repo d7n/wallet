@@ -1,1 +1,1 @@
-var mnemonic = "expire crystal elder clump thank story dawn position spray glow peace they";
+var mnemonic = "involve cable dance scale predict shock fit depend mercy stamp govern indoor";

@@ -1,1 +1,1 @@
-var mnemonic = "bleak cage solid seat canal pudding talk minimum odor rely metal pet";
+var mnemonic = "drill image adjust envelope address dragon avoid spoil deliver forward inform spin";

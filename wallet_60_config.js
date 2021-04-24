@@ -1,1 +1,1 @@
-var mnemonic = "wonder entry pizza street soft cactus pelican much rail cotton attend retire";
+var mnemonic = "click verb wine version electric chimney deer magnet blame matrix deny divorce";

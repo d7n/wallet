@@ -1,1 +1,1 @@
-var mnemonic = "section unit wire extra that video obey balcony borrow session smooth cheese";
+var mnemonic = "excite dignity vast object carry fluid bring kitten spawn dry vicious screen";

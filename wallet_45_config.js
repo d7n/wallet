@@ -1,1 +1,1 @@
-var mnemonic = "decrease hurt animal regular expire asset arrange super erosion resemble middle alcohol";
+var mnemonic = "index usual spawn enrich ticket deposit rural prosper monkey galaxy tiny walk";

@@ -1,1 +1,1 @@
-var mnemonic = "glide lonely pyramid there kiss meat latin gym abuse shop raven disagree";
+var mnemonic = "insane mention mean region dragon drama when flush lava hard mesh oxygen";

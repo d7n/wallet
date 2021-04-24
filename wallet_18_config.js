@@ -1,1 +1,1 @@
-var mnemonic = "neglect aware range cloud column dove mansion trip code forget reveal juice";
+var mnemonic = "orphan hockey pause message latin clip ivory crunch whisper track ask autumn";

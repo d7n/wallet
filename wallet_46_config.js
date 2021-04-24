@@ -1,1 +1,1 @@
-var mnemonic = "lesson cat promote suspect catch ordinary alone citizen hair business midnight bracket";
+var mnemonic = "mind violin cover steak bid across vault enable normal project zoo work";

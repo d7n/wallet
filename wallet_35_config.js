@@ -1,1 +1,1 @@
-var mnemonic = "predict change immense beauty orange kangaroo field obvious lonely weapon dutch pilot";
+var mnemonic = "wheat deposit tape option best grain try vibrant bracket rail inspire cheese";

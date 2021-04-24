@@ -1,1 +1,1 @@
-var mnemonic = "major kidney music lyrics filter execute whale chair indoor feel stand asthma";
+var mnemonic = "robot rebel business before shoot rigid tray sort future announce emerge degree";

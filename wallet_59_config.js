@@ -1,1 +1,1 @@
-var mnemonic = "tourist scrub practice guitar okay hundred midnight noise lonely alert dinner convince";
+var mnemonic = "finger certain list taste tube hedgehog sustain crouch image tenant achieve power";

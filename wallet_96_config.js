@@ -1,1 +1,1 @@
-var mnemonic = "pattern business syrup poet daring script orange gorilla member theme salon early";
+var mnemonic = "awesome absurd poem where cheese quarter subject boil water marriage benefit bag";

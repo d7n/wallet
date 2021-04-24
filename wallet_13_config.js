@@ -1,1 +1,1 @@
-var mnemonic = "ability zoo swift trouble west ceiling fork furnace pull debate cloud reopen";
+var mnemonic = "toast net size symptom mail flight average upset someone dawn mean display";

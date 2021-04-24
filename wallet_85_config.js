@@ -1,1 +1,1 @@
-var mnemonic = "call review health success mammal front couple genuine crop found rebel scheme";
+var mnemonic = "potato consider arrive era useless critic sorry attitude afraid session damp cup";

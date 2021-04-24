@@ -1,1 +1,1 @@
-var mnemonic = "salmon miracle battle sunset rabbit front bright flower best fish ill build";
+var mnemonic = "much pretty palace adjust raccoon output stamp crime swap scheme cousin load";

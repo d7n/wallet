@@ -1,1 +1,1 @@
-var mnemonic = "limb industry envelope runway wrap ready person magic floor robust illegal nation";
+var mnemonic = "shrug gentle sword cluster soon truth stock worth lawsuit wasp model accuse";

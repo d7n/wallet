@@ -1,1 +1,1 @@
-var mnemonic = "echo culture betray hello vintage rain gap amazing ranch merry fever primary";
+var mnemonic = "lamp awake simple spider magnet fault rotate surge twist virus nature brass";

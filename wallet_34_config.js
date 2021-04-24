@@ -1,1 +1,1 @@
-var mnemonic = "mean tiger action rug stable join express judge render section steel evil";
+var mnemonic = "mom loop valley talk oxygen gold umbrella expire broom park bless napkin";

@@ -1,1 +1,1 @@
-var mnemonic = "include spin glove chase move inspire reform diamond laundry field word primary";
+var mnemonic = "live frozen tunnel armor burst ask pepper wagon divorce knock drink average";

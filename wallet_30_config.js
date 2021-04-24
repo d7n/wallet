@@ -1,1 +1,1 @@
-var mnemonic = "bring tool august solution urge finger bird fruit direct chalk obey disorder";
+var mnemonic = "other mail cycle noodle patrol sight strike unaware pet fuel exclude sleep";

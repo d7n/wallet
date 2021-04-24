@@ -1,1 +1,1 @@
-var mnemonic = "throw spread harsh good follow behave senior awake front ankle orient can";
+var mnemonic = "burden uphold light almost trash artist question raccoon person gain select session";

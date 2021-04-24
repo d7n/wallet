@@ -1,1 +1,1 @@
-var mnemonic = "foam they sudden sheriff afraid any flat earth fold execute grass lumber";
+var mnemonic = "winner disorder merry random wear taste wheel fiber ecology theme account enroll";
