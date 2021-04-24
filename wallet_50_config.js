@@ -1,1 +1,1 @@
-var mnemonic = "rebel satisfy gym fan mercy sunny artefact nominee swing radio security average";
+var mnemonic = "present foam planet thank laugh giraffe pulse casual actual gas garbage clutch";

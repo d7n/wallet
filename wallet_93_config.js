@@ -1,1 +1,1 @@
-var mnemonic = "squirrel celery abstract office seek company drive strike plastic insane else cup";
+var mnemonic = "frequent inner awake crop bamboo notable simple nothing drink adapt dawn bring";

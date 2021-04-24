@@ -1,1 +1,1 @@
-var mnemonic = "bridge chaos gossip copper float citizen cram talent twice chair retreat mom";
+var mnemonic = "huge edge clip visit act like nothing chalk alone arena sunset share";

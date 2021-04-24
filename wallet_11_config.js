@@ -1,1 +1,1 @@
-var mnemonic = "jelly charge upon agree blast divert account salute prison when strike winner";
+var mnemonic = "salt memory drill inquiry truly bus rough involve limb shaft chunk armed";

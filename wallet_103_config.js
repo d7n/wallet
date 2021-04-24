@@ -1,1 +1,1 @@
-var mnemonic = "carpet deny true common world useless melt barely pen hollow build grid";
+var mnemonic = "road vintage speed detail panel dwarf dry force comic shove crush pistol";

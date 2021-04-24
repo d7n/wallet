@@ -1,1 +1,1 @@
-var mnemonic = "resource tide size master what split steak craft oil response prevent wink";
+var mnemonic = "measure witness twice action true ecology shaft imitate rival small benefit load";

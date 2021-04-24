@@ -1,1 +1,1 @@
-var mnemonic = "veteran patrol festival vocal cool adjust easily toward forest barely alpha ecology";
+var mnemonic = "wagon debris divorce arrow grace know sand uncle mad hat arm foam";

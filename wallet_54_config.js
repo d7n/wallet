@@ -1,1 +1,1 @@
-var mnemonic = "moment rebel tornado bachelor innocent sign park water raccoon reduce wrong monitor";
+var mnemonic = "write prosper able weather garden also sorry shop marriage tray ticket obey";

@@ -1,1 +1,1 @@
-var mnemonic = "pear rose viable payment banana nature kid move collect network museum prepare";
+var mnemonic = "fall other truck tourist donor ancient course grace tape output silent merit";

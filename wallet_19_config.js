@@ -1,1 +1,1 @@
-var mnemonic = "clerk twist recipe hungry carry exotic provide sure negative ripple group volume";
+var mnemonic = "gadget long meadow super struggle bone outside craft property minimum ghost turn";

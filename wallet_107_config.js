@@ -1,1 +1,1 @@
-var mnemonic = "fault acoustic north escape danger festival divert antique mix reject innocent powder";
+var mnemonic = "almost crane palace finger more melody wage outer flee best market loop";

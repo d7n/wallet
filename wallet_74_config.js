@@ -1,1 +1,1 @@
-var mnemonic = "spray dish minimum need barely jazz alone rack silver sound neck dolphin";
+var mnemonic = "chaos seminar luggage wine hood book theory attitude force radar when weekend";

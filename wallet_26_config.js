@@ -1,1 +1,1 @@
-var mnemonic = "eternal you pretty join picture sunset monster jeans coil shuffle ill ridge";
+var mnemonic = "snake squeeze dance evolve spot during beef unhappy govern sphere slush away";

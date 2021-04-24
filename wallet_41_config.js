@@ -1,1 +1,1 @@
-var mnemonic = "adult carry reform cabin belt strike infant creek wine gasp sign trash";
+var mnemonic = "loan finish outer scheme isolate dirt royal lizard near angle travel holiday";

@@ -1,1 +1,1 @@
-var mnemonic = "beauty sword empty episode muffin couple range grocery session time program weekend";
+var mnemonic = "menu unique punch wage tooth find always year arctic ecology next relief";

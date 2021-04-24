@@ -1,1 +1,1 @@
-var mnemonic = "gas report pass detail share gather strategy then dignity manual photo supreme";
+var mnemonic = "tongue borrow million gap essence clinic rack enemy sure shell result fabric";

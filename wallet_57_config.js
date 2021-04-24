@@ -1,1 +1,1 @@
-var mnemonic = "photo opinion naive lucky multiply domain copper neglect also scene peace rely";
+var mnemonic = "receive struggle loyal sunny leisure arrange way attract acquire oven head glare";

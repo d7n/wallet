@@ -1,1 +1,1 @@
-var mnemonic = "core canvas crew brother blush current dragon small uncover crucial razor friend";
+var mnemonic = "cause boss crystal among repeat ring jaguar margin correct problem evil bind";

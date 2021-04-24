@@ -1,1 +1,1 @@
-var mnemonic = "panda amused mind chair abstract awake immune month zebra monitor drive rich";
+var mnemonic = "mask unveil involve vanish hammer conduct box horror elegant praise flame brisk";

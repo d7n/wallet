@@ -1,1 +1,1 @@
-var mnemonic = "alter differ identify leg elephant bunker enhance shield stage little super parade";
+var mnemonic = "fall sure carry spoil trouble strong ribbon pluck clown force nephew luggage";

@@ -1,1 +1,1 @@
-var mnemonic = "wrong scrub edit danger hurt fall sunny lift proud retire resource oblige";
+var mnemonic = "conduct ocean useful trick aim excess visa symbol hour concert attend sunset";

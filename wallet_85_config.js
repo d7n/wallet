@@ -1,1 +1,1 @@
-var mnemonic = "weather obvious urge claw danger space close steak tank grant cruel treat";
+var mnemonic = "subject umbrella utility total bless error garbage soul diamond void total minimum";

@@ -1,1 +1,1 @@
-var mnemonic = "pen leave cradle still cactus oppose scene chunk source spare poverty brave";
+var mnemonic = "wink away velvet huge protect chat original ankle grant noble rent invest";

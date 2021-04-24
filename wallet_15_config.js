@@ -1,1 +1,1 @@
-var mnemonic = "novel token glass book machine chief game abuse only rough raccoon offer";
+var mnemonic = "name soccer stick time merit very knee wool suggest want fever fold";

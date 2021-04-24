@@ -1,1 +1,1 @@
-var mnemonic = "pause multiply kiwi castle pitch turkey usual dinner pulp element inform door";
+var mnemonic = "limb palace cool rice melody educate cigar magnet fitness world exhaust trend";

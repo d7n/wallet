@@ -1,1 +1,1 @@
-var mnemonic = "build perfect obscure can song build twenty report enable velvet brush blind";
+var mnemonic = "rabbit invite leopard peasant giggle light keen regular sentence network dragon inquiry";

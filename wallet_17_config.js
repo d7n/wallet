@@ -1,1 +1,1 @@
-var mnemonic = "peasant sweet topple floor lazy bid junior maple fine ranch mixture garbage";
+var mnemonic = "stool sudden throw ranch hospital hard dose mad video latin usage vanish";

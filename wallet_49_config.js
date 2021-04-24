@@ -1,1 +1,1 @@
-var mnemonic = "stock under lobster ribbon curtain boy galaxy blind chat notable crouch motion";
+var mnemonic = "flash much happy trend area guitar invite inherit shoe slot business balance";

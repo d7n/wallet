@@ -1,1 +1,1 @@
-var mnemonic = "orient fun speak left shield involve present trumpet rescue time volume skill";
+var mnemonic = "situate across wool dumb hawk young song owner slice crack supply crane";

@@ -1,1 +1,1 @@
-var mnemonic = "mercy bronze mule satisfy still supreme struggle boring mystery year blossom book";
+var mnemonic = "canyon infant author woman wrap vibrant breeze tank pony earn nominee response";

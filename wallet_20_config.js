@@ -1,1 +1,1 @@
-var mnemonic = "inner olive crystal boat harbor ignore draft assume donate civil tuna opinion";
+var mnemonic = "repair kit casino crater crew vintage gesture ride stable iron gas skill";

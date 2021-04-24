@@ -1,1 +1,1 @@
-var mnemonic = "pioneer pigeon fix broccoli dove grab mutual turn enjoy poet chronic scheme";
+var mnemonic = "evolve prevent all history expire window brave insect step follow satoshi door";

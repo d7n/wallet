@@ -1,1 +1,1 @@
-var mnemonic = "question mistake chapter inmate disorder thought bacon guard mother van pool present";
+var mnemonic = "isolate resemble such finger thought seed title radar couple recall clever caution";

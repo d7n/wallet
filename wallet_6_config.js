@@ -1,1 +1,1 @@
-var mnemonic = "differ aerobic elder afford toilet slow rude random another essence chuckle still";
+var mnemonic = "cram must spray advice brisk rare harvest chase phrase notable drill scatter";

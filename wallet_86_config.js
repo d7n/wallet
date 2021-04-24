@@ -1,1 +1,1 @@
-var mnemonic = "awful torch session collect pudding desert merge tiny bamboo deer bid system";
+var mnemonic = "grief cruise hard stool matrix keep buzz vanish tunnel open boy side";

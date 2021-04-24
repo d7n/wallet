@@ -1,1 +1,1 @@
-var mnemonic = "cabbage paddle great diet pull earn jelly during nerve outside upset sample";
+var mnemonic = "sun cat confirm van disagree where electric pony clown success emerge wall";

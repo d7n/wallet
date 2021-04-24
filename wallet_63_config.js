@@ -1,1 +1,1 @@
-var mnemonic = "solid dizzy tribe despair stone when charge address notice simple click pole";
+var mnemonic = "place hawk unfold company chuckle model wink ridge welcome virus clarify donor";

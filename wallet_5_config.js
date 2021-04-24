@@ -1,1 +1,1 @@
-var mnemonic = "unaware eager recipe cereal bar change always spider suit note uncle cliff";
+var mnemonic = "field thought fabric caution glance canvas primary silk slot miss chuckle poverty";

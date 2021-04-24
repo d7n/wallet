@@ -1,1 +1,1 @@
-var mnemonic = "evidence manage regret typical reveal claw ramp welcome lend assist cable best";
+var mnemonic = "sunset flock elder they federal smile ivory public grow silly fire decade";

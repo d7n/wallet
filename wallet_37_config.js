@@ -1,1 +1,1 @@
-var mnemonic = "ocean degree smooth copper recipe rocket camera blanket illness sheriff dice venture";
+var mnemonic = "save memory obscure inherit toy debris year tattoo first avoid mirror ordinary";

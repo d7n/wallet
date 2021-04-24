@@ -1,1 +1,1 @@
-var mnemonic = "amused guess board perfect maple unlock prefer basic gorilla improve portion crunch";
+var mnemonic = "lucky culture couch once recipe ladder bid riot core culture bomb bench";

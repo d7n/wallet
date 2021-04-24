@@ -1,1 +1,1 @@
-var mnemonic = "blame pause brass saddle wide know lunar rare hire unusual fun glide";
+var mnemonic = "spatial income river hidden wet endless lesson air liquid receive evidence message";

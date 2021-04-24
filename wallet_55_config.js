@@ -1,1 +1,1 @@
-var mnemonic = "bubble benefit prepare fold detail long frost into cost size robot two";
+var mnemonic = "mesh doctor have panther velvet lava uphold foil scan tail tackle stumble";

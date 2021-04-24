@@ -1,1 +1,1 @@
-var mnemonic = "undo electric have mad pool load story hobby curve artist observe copper";
+var mnemonic = "final attitude there viable glass knock boring deal flock ancient maple giraffe";

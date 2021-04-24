@@ -1,1 +1,1 @@
-var mnemonic = "age among zebra noodle depart bread pyramid basket student cluster grow ten";
+var mnemonic = "machine swift now member veteran office adapt region illness alone mean stomach";

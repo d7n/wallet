@@ -1,1 +1,1 @@
-var mnemonic = "seat glory burden panic teach frost success indicate blur interest push peanut";
+var mnemonic = "athlete add crouch nasty proud connect stadium apple lock huge shrimp blind";

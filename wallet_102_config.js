@@ -1,1 +1,1 @@
-var mnemonic = "drop manage cover silly easy explain hand usage snap glance unusual aerobic";
+var mnemonic = "survey dial law egg fox fee picture quantum purchase shop marine cupboard";

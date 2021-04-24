@@ -1,1 +1,1 @@
-var mnemonic = "hub beef goat yard airport home expire suggest brisk observe march display";
+var mnemonic = "welcome pair owner light feel border wonder uniform issue cattle share logic";

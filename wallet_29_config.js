@@ -1,1 +1,1 @@
-var mnemonic = "awkward area catch fat gym wheel off wage hurt icon erosion bonus";
+var mnemonic = "sort element energy soda crack search observe mail hollow another outer burden";

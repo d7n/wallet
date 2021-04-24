@@ -1,1 +1,1 @@
-var mnemonic = "health muffin armor sad zone link organ emotion wedding hub easy radar";
+var mnemonic = "weird suggest chapter dismiss local undo champion issue correct wood proud nephew";

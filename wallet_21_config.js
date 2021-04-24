@@ -1,1 +1,1 @@
-var mnemonic = "van diamond cargo road diary hero suit panda worry impose welcome echo";
+var mnemonic = "allow symbol reopen icon subway start jaguar about basic toss width reduce";

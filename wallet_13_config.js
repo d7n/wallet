@@ -1,1 +1,1 @@
-var mnemonic = "knock tilt image tower jump apple math short genius dance frequent rather";
+var mnemonic = "clinic cactus tackle end action divorce brain adult ankle tenant tackle unknown";

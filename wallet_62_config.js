@@ -1,1 +1,1 @@
-var mnemonic = "library history absurd general sign illness capable figure cross antique immense profit";
+var mnemonic = "pause cruel sea hammer rather infant crime heavy parade flower shift govern";

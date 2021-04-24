@@ -1,1 +1,1 @@
-var mnemonic = "donor deal notable either robust auto film result basic assume shoe panel";
+var mnemonic = "process daughter play rug skirt hub same rate blouse table position boy";

@@ -1,1 +1,1 @@
-var mnemonic = "fitness jeans faith brother lawn original pencil goose october payment stomach awake";
+var mnemonic = "best special april minimum party meat bridge town position agree cactus door";

@@ -1,1 +1,1 @@
-var mnemonic = "young cruise junk staff recipe bar asthma eagle aisle ketchup column must";
+var mnemonic = "tobacco gospel glow laptop chest desert taste cycle budget item cluster weather";

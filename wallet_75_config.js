@@ -1,1 +1,1 @@
-var mnemonic = "riot swift winner spoil memory hundred lemon exhibit hidden kite clarify lyrics";
+var mnemonic = "smile term grab fame bamboo wolf response party craft wagon pause leave";

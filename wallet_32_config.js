@@ -1,1 +1,1 @@
-var mnemonic = "paper party sweet alert seat october welcome brother orbit onion illegal carpet";
+var mnemonic = "vote route above april gravity vacant account dilemma axis start entry vast";

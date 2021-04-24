@@ -1,1 +1,1 @@
-var mnemonic = "dream army repair direct skirt core fragile music narrow degree tail coach";
+var mnemonic = "reduce furnace weasel excite change dust front filter jelly ring silly inside";

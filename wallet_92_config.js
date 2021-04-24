@@ -1,1 +1,1 @@
-var mnemonic = "mechanic crop poem summer debris catalog black winter inform connect car alcohol";
+var mnemonic = "front sun skate soon claw fatal toast poet render twelve crouch vehicle";

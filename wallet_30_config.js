@@ -1,1 +1,1 @@
-var mnemonic = "rabbit hurt jump bullet tuna melody people obscure damp ripple water couple";
+var mnemonic = "try undo sphere pumpkin guilt train much announce owner unaware hair isolate";

@@ -1,1 +1,1 @@
-var mnemonic = "dwarf nominee total tip airport usual cigar file mercy audit tool deputy";
+var mnemonic = "noble feed ride term grass print please enable attack attack keep transfer";

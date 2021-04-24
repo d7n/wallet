@@ -1,1 +1,1 @@
-var mnemonic = "club poet stage pipe hour chicken shed wrestle route fall enjoy pizza";
+var mnemonic = "object pledge seminar struggle pilot copper wall illegal matter cinnamon earn brave";

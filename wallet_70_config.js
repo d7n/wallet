@@ -1,1 +1,1 @@
-var mnemonic = "boil surge token there math giant concert trap enroll tank asthma fun";
+var mnemonic = "seminar gaze come oven common ocean cushion moment bargain jeans present wife";

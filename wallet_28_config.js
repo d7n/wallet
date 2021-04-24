@@ -1,1 +1,1 @@
-var mnemonic = "famous dolphin option man crawl feel lesson enrich amused inspire wagon oxygen";
+var mnemonic = "waste abandon skill mosquito three stock print purity source same arm right";

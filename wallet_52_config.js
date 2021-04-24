@@ -1,1 +1,1 @@
-var mnemonic = "olive illness decorate faint dog hobby census version depend art wreck jungle";
+var mnemonic = "bone thunder elephant mansion letter object fever problem beauty spot combine present";

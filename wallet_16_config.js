@@ -1,1 +1,1 @@
-var mnemonic = "sausage often talk spoil lawn shift six bonus pottery often among park";
+var mnemonic = "fashion admit empty lend length swear net soldier arena baby north mule";

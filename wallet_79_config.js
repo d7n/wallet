@@ -1,1 +1,1 @@
-var mnemonic = "evolve wet flame brief during afford section suffer oblige taxi autumn wrestle";
+var mnemonic = "silver false roast oppose video member valid obey tunnel inmate audit view";

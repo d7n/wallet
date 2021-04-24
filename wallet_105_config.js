@@ -1,1 +1,1 @@
-var mnemonic = "coffee crater muscle toss gentle choice husband seven voyage already animal vacuum";
+var mnemonic = "melt skate media grit table monitor gain half release earn miss reunion";

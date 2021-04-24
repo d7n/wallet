@@ -1,1 +1,1 @@
-var mnemonic = "grocery shoulder orphan vague chest expand peanut swift key real endorse immense";
+var mnemonic = "coil throw leaf truth mountain balcony tobacco initial crew panda crack pact";

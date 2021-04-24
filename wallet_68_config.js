@@ -1,1 +1,1 @@
-var mnemonic = "nut suspect now borrow van where fantasy guitar slight danger stomach lizard";
+var mnemonic = "open alpha clay infant harbor involve false people corn bring toilet boring";

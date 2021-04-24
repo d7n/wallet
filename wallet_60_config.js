@@ -1,1 +1,1 @@
-var mnemonic = "empower feature distance crash yellow bag peasant wide ecology wait anxiety drip";
+var mnemonic = "evil knife ripple require pass measure unique flip trend excess never fabric";

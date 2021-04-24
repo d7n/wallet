@@ -1,1 +1,1 @@
-var mnemonic = "ceiling code unique behave omit fat mechanic duty hammer pen advance mansion";
+var mnemonic = "stick almost present enforce stove wing stumble shed loan state muffin pepper";

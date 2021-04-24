@@ -1,1 +1,1 @@
-var mnemonic = "surprise decide discover throw arrive involve figure blame icon foil brick valley";
+var mnemonic = "memory guilt emerge force flower fame fit into split shift certain mesh";

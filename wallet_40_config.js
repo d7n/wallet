@@ -1,1 +1,1 @@
-var mnemonic = "dutch erode tool size soon elite patrol actor lumber charge consider drama";
+var mnemonic = "fatal scrap survey raccoon canvas shuffle nasty park laugh gallery say assist";

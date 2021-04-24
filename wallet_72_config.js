@@ -1,1 +1,1 @@
-var mnemonic = "engine antenna quarter hidden wagon ready step enforce crucial alarm want pistol";
+var mnemonic = "mixture enforce venue face blouse riot zebra crunch very stem valve zoo";

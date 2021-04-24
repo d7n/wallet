@@ -1,1 +1,1 @@
-var mnemonic = "merit advance slush camera wide own divide remind whip minor raccoon credit";
+var mnemonic = "base emerge opinion joy cattle shift sweet exile canyon unlock tomorrow flat";

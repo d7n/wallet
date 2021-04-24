@@ -1,1 +1,1 @@
-var mnemonic = "travel twice fame borrow naive blur inside crystal armed panther task letter";
+var mnemonic = "street inflict student pilot apart cake often blood forward spell give lunch";

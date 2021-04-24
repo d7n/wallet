@@ -1,1 +1,1 @@
-var mnemonic = "moment stand tide destroy guilt length agent antique grass lens palace mask";
+var mnemonic = "couch dinosaur trap child sample achieve language raw olive music wrap coffee";

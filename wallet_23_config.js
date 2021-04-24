@@ -1,1 +1,1 @@
-var mnemonic = "abandon cinnamon before picnic banana nose change kangaroo clever orbit tonight couple";
+var mnemonic = "hard wedding only swift neutral remove raven badge market wash village recipe";

@@ -1,1 +1,1 @@
-var mnemonic = "fall young inherit bunker peace twice shaft inherit cost gasp casino online";
+var mnemonic = "fashion turn promote output auction census version consider outdoor carpet fossil warm";

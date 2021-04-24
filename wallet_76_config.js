@@ -1,1 +1,1 @@
-var mnemonic = "churn lava orient flee senior few cactus artwork abandon caught spirit flock";
+var mnemonic = "suffer people feature alarm fashion maple fury december chief oven decorate size";

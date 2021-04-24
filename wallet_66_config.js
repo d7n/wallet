@@ -1,1 +1,1 @@
-var mnemonic = "brain behind drink magic salon motor wish dose trial pattern general miracle";
+var mnemonic = "season elder toddler lonely pen chalk muffin bitter across ride script never";

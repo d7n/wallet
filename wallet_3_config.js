@@ -1,1 +1,1 @@
-var mnemonic = "candy ordinary leisure trick muscle high arch scrub design crane empower stumble";
+var mnemonic = "media such belt twist science prevent trust resist faculty bring recall action";

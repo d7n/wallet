@@ -1,1 +1,1 @@
-var mnemonic = "surround sister chaos involve step can gas lizard evoke lunar praise reflect";
+var mnemonic = "cigar rifle rare head fortune remind like meadow strategy deputy often mosquito";
