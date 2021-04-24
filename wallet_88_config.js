@@ -1,1 +1,1 @@
-var mnemonic = "erosion nature firm struggle leave scatter galaxy theme soul design eagle miracle";
+var mnemonic = "disorder fish scatter equip hover blouse memory virus security frequent tragic moral";

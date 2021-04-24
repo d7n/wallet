@@ -1,1 +1,1 @@
-var mnemonic = "rent matrix sea aim woman junk they clutch result balance harvest squirrel";
+var mnemonic = "artist tank visual define apple pudding human pink prison glide bus dizzy";

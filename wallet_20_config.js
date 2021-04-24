@@ -1,1 +1,1 @@
-var mnemonic = "rule harsh resist this turtle clerk session scissors paper taste letter material";
+var mnemonic = "what auto green warrior decorate define lawsuit undo cream orbit bright beef";

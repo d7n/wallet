@@ -1,1 +1,1 @@
-var mnemonic = "keen source hire pool unable obvious fat use absorb sight pattern suit";
+var mnemonic = "country lava sell patrol pledge evolve right magnet vibrant system culture glass";

@@ -1,1 +1,1 @@
-var mnemonic = "pepper snake adapt voice skin kid creek kingdom isolate wise fiction kitten";
+var mnemonic = "sound vacant valid axis gesture nuclear magic analyst catch column ahead flip";

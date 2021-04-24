@@ -1,1 +1,1 @@
-var mnemonic = "regret inner rate run increase puzzle office fence slot assist diet corn";
+var mnemonic = "act eyebrow spell fall become grab basic turn exile urge orphan ski";

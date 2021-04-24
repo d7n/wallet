@@ -1,1 +1,1 @@
-var mnemonic = "club innocent combine say glance hour lion zero link act juice guess";
+var mnemonic = "lion rubber clip gown fit problem endless frown blame vault abstract vintage";

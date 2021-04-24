@@ -1,1 +1,1 @@
-var mnemonic = "insane clinic alley cigar caught riot buyer plug island wheel worth hint";
+var mnemonic = "issue hybrid balance emerge fox fish ball help lift slow fold document";

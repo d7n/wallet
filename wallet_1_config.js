@@ -1,1 +1,1 @@
-var mnemonic = "tape mom bargain harbor shoulder dance olive very attend give follow bacon";
+var mnemonic = "option home skate person inquiry sound resist crazy dizzy point dinner army";

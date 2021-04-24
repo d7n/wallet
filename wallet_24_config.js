@@ -1,1 +1,1 @@
-var mnemonic = "choose boost clock track car develop habit strong fee slow already hawk";
+var mnemonic = "ship infant inhale penalty venture bronze nose vast surprise horse crash define";

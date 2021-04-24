@@ -1,1 +1,1 @@
-var mnemonic = "birth system version ball nature across govern evolve detail kiss dream helmet";
+var mnemonic = "long board chef expect nest cheese decline seven topic flush modify sphere";

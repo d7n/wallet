@@ -1,1 +1,1 @@
-var mnemonic = "local slide island kitchen crane dentist abuse gaze assist pipe original disagree";
+var mnemonic = "plate school cake hat critic night rabbit magic parent empower sick simple";

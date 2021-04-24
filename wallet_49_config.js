@@ -1,1 +1,1 @@
-var mnemonic = "slot idea cement evoke cake fashion consider soon gossip drastic obvious airport";
+var mnemonic = "reason one quick field afford target light finger arch strategy invite evoke";

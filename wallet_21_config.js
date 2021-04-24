@@ -1,1 +1,1 @@
-var mnemonic = "sheriff govern tape puppy sand chapter barely income wash fitness box rival";
+var mnemonic = "alert physical way crowd describe finish famous fork duty gasp display host";

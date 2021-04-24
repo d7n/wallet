@@ -1,1 +1,1 @@
-var mnemonic = "embark pill empty bike capable project rebuild grid excuse honey wet mutual";
+var mnemonic = "oxygen color peanut nuclear insect limit consider spell snow hill purchase bachelor";

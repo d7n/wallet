@@ -1,1 +1,1 @@
-var mnemonic = "muffin party midnight across forget ostrich option solid hello panther mom process";
+var mnemonic = "wisdom lawsuit entry erode suffer fish pen again dawn flat father file";

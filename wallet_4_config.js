@@ -1,1 +1,1 @@
-var mnemonic = "host long blush blush spoon hen someone dial steel warrior weekend stand";
+var mnemonic = "cage abandon grow stomach chest scrap fever toilet cinnamon step cradle easily";

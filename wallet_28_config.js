@@ -1,1 +1,1 @@
-var mnemonic = "weasel smooth stairs vehicle save demand unknown slight suffer butter lunar potato";
+var mnemonic = "team tomato there zero burden teach school tomorrow brave among sauce note";

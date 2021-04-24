@@ -1,1 +1,1 @@
-var mnemonic = "expose whisper dream violin remind physical charge victory winner equip join squirrel";
+var mnemonic = "chat neutral chief flame dinosaur owner arrange now awkward parrot kitten purpose";

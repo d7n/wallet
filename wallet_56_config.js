@@ -1,1 +1,1 @@
-var mnemonic = "gather give try oak drill modify spin initial gasp evolve much popular";
+var mnemonic = "infant language know muffin manual bus tide nominee coral mask wasp narrow";

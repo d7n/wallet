@@ -1,1 +1,1 @@
-var mnemonic = "olympic shove artwork table permit gather bread reflect surge gravity change retire";
+var mnemonic = "gospel shadow derive column transfer elite evidence steel skirt scheme pill bread";

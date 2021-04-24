@@ -1,1 +1,1 @@
-var mnemonic = "remember bounce unfair snake alter hair change boy taxi expose clown elite";
+var mnemonic = "sound embrace tumble finger program must grid spell artwork enjoy tomorrow chair";

@@ -1,1 +1,1 @@
-var mnemonic = "youth super eternal story amateur sorry wait chalk diamond critic loyal pole";
+var mnemonic = "heavy volcano receive champion install decrease approve power elevator inquiry wish tag";

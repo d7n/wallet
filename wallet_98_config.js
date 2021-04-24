@@ -1,1 +1,1 @@
-var mnemonic = "mix chase critic typical super lamp page lawsuit arrest antenna swear surge";
+var mnemonic = "unit document meadow jelly flash suspect street limit jelly brave tomorrow mind";

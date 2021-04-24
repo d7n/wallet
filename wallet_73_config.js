@@ -1,1 +1,1 @@
-var mnemonic = "return license caution ripple trend slush gadget wet cabin injury clinic match";
+var mnemonic = "possible cinnamon stand reason pond analyst arm expire cross coast observe debris";

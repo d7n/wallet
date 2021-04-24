@@ -1,1 +1,1 @@
-var mnemonic = "smoke sign age goddess maximum friend island delay normal boost elevator unveil";
+var mnemonic = "process nest execute age bean snap vibrant patient fiscal stove input sell";

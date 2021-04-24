@@ -1,1 +1,1 @@
-var mnemonic = "tourist eagle payment border athlete tuition seven wagon arch spatial base plate";
+var mnemonic = "green increase lunch dune banner tenant voyage goddess firm betray popular point";

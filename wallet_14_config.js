@@ -1,1 +1,1 @@
-var mnemonic = "enlist tortoise catalog paddle trend select delay gallery brave brass fade item";
+var mnemonic = "busy pause crucial east job divorce blame soap goddess pact correct edge";

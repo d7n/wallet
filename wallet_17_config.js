@@ -1,1 +1,1 @@
-var mnemonic = "patrol meadow rebel victory rookie jar course fever inquiry aunt output win";
+var mnemonic = "guard oak beach rare elegant lava method envelope moment install main genuine";

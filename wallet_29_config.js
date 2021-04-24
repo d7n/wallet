@@ -1,1 +1,1 @@
-var mnemonic = "clerk expand ghost practice search surprise exotic bullet churn purse explain loyal";
+var mnemonic = "oxygen picture panther eyebrow lobster genius gain predict art health food virus";

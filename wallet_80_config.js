@@ -1,1 +1,1 @@
-var mnemonic = "bounce jungle accuse repeat spin jazz artefact resemble achieve ginger venue rescue";
+var mnemonic = "render move century creek ability dry analyst expand skull slow decade seminar";

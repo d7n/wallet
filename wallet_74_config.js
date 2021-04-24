@@ -1,1 +1,1 @@
-var mnemonic = "gravity icon seed senior nice box doctor slim scout myth rigid surface";
+var mnemonic = "faith reopen load strike morning consider father mother sick blur half valley";

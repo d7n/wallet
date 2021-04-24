@@ -1,1 +1,1 @@
-var mnemonic = "write damage kite crime river notable ahead skate shoot smoke sheriff cute";
+var mnemonic = "push choice fitness bounce burden verb endorse media hint april exhaust afraid";

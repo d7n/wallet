@@ -1,1 +1,1 @@
-var mnemonic = "wire repair rubber goose thought mesh sing lab core ribbon agent burden";
+var mnemonic = "violin wise arrange equip cool resist diet fashion sure crystal orphan point";

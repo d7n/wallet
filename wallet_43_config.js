@@ -1,1 +1,1 @@
-var mnemonic = "pear rubber visit escape one fancy butter filter deer sea summer fever";
+var mnemonic = "frequent wear review dilemma trend slide olive giggle motion neither own fire";

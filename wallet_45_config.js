@@ -1,1 +1,1 @@
-var mnemonic = "inmate roast canvas reveal already nut patch melt rocket flash property hybrid";
+var mnemonic = "slender round trip tackle seven armed evoke table also coyote vocal gospel";

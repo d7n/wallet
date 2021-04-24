@@ -1,1 +1,1 @@
-var mnemonic = "stay example mixture kitten immense response bullet doll oven race nice praise";
+var mnemonic = "genre large cable swear jelly sweet fault fabric sniff spatial chalk sand";

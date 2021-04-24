@@ -1,1 +1,1 @@
-var mnemonic = "sorry mansion attract fortune innocent brand nothing trap mouse picture approve now";
+var mnemonic = "tomato opinion toilet horror wave return mind prison crane evil lake float";

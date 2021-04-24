@@ -1,1 +1,1 @@
-var mnemonic = "notable pluck goose company motion possible cash flavor wire young doctor tag";
+var mnemonic = "citizen gravity hand animal inspire tortoise aisle used pioneer rule endorse box";

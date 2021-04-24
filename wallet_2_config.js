@@ -1,1 +1,1 @@
-var mnemonic = "license amused later outdoor sausage network issue rescue unusual predict wire anxiety";
+var mnemonic = "regret super parent box arrest crisp success turkey voyage section brother huge";

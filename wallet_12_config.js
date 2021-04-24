@@ -1,1 +1,1 @@
-var mnemonic = "satisfy giraffe trim party comic sadness say tragic vibrant design seek surge";
+var mnemonic = "together cash mobile forget now beauty oppose prize pig satisfy august armed";

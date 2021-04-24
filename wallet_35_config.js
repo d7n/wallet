@@ -1,1 +1,1 @@
-var mnemonic = "celery prevent differ innocent repeat lumber finger jungle section heart artefact envelope";
+var mnemonic = "vivid risk usage cute term stay miss save change bomb industry teach";

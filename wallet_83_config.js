@@ -1,1 +1,1 @@
-var mnemonic = "boss industry lend game talent attract lonely excess today extend frequent side";
+var mnemonic = "deliver speak enemy segment mass process hill enable cram vendor desk rude";

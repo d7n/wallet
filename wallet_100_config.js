@@ -1,1 +1,1 @@
-var mnemonic = "cliff debris vendor million hint avoid leisure paper despair quarter myth fragile";
+var mnemonic = "mom skull cannon spring assist airport spell hen save cake method cable";

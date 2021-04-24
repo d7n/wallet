@@ -1,1 +1,1 @@
-var mnemonic = "mushroom main dutch coral wear scorpion wedding enlist scheme animal release snap";
+var mnemonic = "much vanish wreck robust sell bitter pact bullet shop aim video ostrich";

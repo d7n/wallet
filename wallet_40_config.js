@@ -1,1 +1,1 @@
-var mnemonic = "ketchup fringe iron time clap fuel rural just option taxi lunch slab";
+var mnemonic = "kiwi pepper effort pact risk whale rough panel cushion side rich federal";

@@ -1,1 +1,1 @@
-var mnemonic = "venture jar barely young wreck maze pact valley eager dad zoo census";
+var mnemonic = "wear music jungle film logic result parade soda finger pipe obtain hammer";

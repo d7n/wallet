@@ -1,1 +1,1 @@
-var mnemonic = "ranch icon swing vacuum because detect series must ridge under garden cook";
+var mnemonic = "tiny skill inhale expire trim easily tone refuse reform engage pact machine";

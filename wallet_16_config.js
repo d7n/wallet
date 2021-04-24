@@ -1,1 +1,1 @@
-var mnemonic = "day view obey disagree bean army canal anxiety gather cry mad force";
+var mnemonic = "wage elite already inmate cook range town volcano metal cinnamon envelope loop";

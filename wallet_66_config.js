@@ -1,1 +1,1 @@
-var mnemonic = "exist apart domain relax flag survey owner long doctor table despair miss";
+var mnemonic = "double legal analyst device void captain tobacco gasp perfect bracket dust then";

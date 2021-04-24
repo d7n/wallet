@@ -1,1 +1,1 @@
-var mnemonic = "perfect switch raccoon over thing thank club tube picture image seat slender";
+var mnemonic = "spoon address vicious ignore only inherit warm talk face culture property ensure";

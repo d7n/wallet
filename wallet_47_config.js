@@ -1,1 +1,1 @@
-var mnemonic = "doctor ahead catalog lab salmon enter else sweet push surprise spell crucial";
+var mnemonic = "laugh notable endless city august clerk rebel purity mandate age like monitor";

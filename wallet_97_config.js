@@ -1,1 +1,1 @@
-var mnemonic = "rely above observe still task tiny tape bicycle drum left garlic unusual";
+var mnemonic = "lab enrich artist never ten allow idea fine economy cannon person city";

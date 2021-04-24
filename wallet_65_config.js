@@ -1,1 +1,1 @@
-var mnemonic = "live marble enrich parrot unhappy crane conduct deliver canoe sample duty wood";
+var mnemonic = "alert sniff goddess welcome settle pride column away opinion secret casino industry";

@@ -1,1 +1,1 @@
-var mnemonic = "armor clay half pattern immense ribbon wise total milk twelve trim unit";
+var mnemonic = "dentist burger life neck mirror zebra civil barely lawsuit clap slide close";

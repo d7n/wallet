@@ -1,1 +1,1 @@
-var mnemonic = "amateur hip swim interest guitar funny gesture bid skin hungry rotate bronze";
+var mnemonic = "water fiber shell comfort day entire cash tonight ask ball burst hire";

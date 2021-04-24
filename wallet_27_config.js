@@ -1,1 +1,1 @@
-var mnemonic = "reform kangaroo muscle distance hour giggle usage smooth hobby vintage agent usage";
+var mnemonic = "climb swim swing salon bike problem word enough ramp forum candy avocado";

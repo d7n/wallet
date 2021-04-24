@@ -1,1 +1,1 @@
-var mnemonic = "liberty tunnel dream decorate merry city camp cute sign federal swap cheese";
+var mnemonic = "buzz finish tiny lyrics cause room front tiger husband vote half tourist";

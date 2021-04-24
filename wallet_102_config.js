@@ -1,1 +1,1 @@
-var mnemonic = "potato network season occur angry soul more travel zebra team young exist";
+var mnemonic = "smooth wise ozone snap vicious build general analyst myth tennis meat latin";

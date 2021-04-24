@@ -1,1 +1,1 @@
-var mnemonic = "salt symbol pudding they wet exile proud weapon night ostrich woman foil";
+var mnemonic = "such upgrade join jaguar material outside sing bike claw wrong flash material";

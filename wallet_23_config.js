@@ -1,1 +1,1 @@
-var mnemonic = "valley ginger audit wrist glory post train patrol about click issue zebra";
+var mnemonic = "waste pretty balance because base open injury envelope front valve vanish ozone";

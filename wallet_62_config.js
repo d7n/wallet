@@ -1,1 +1,1 @@
-var mnemonic = "board income island able ignore hero cactus engine ghost kit fresh grief";
+var mnemonic = "struggle clean travel alley exit exclude actress economy child file north real";

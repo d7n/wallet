@@ -1,1 +1,1 @@
-var mnemonic = "park flame off wealth disagree seven dawn nation wage walk usage curious";
+var mnemonic = "funny essay harvest joke advice explain chunk car peanut harbor bunker camera";

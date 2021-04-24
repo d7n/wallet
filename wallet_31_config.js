@@ -1,1 +1,1 @@
-var mnemonic = "relief syrup slow muffin salon initial broccoli fall secret reflect candy globe";
+var mnemonic = "family warfare uniform clerk element income hidden laugh fit traffic prepare corn";

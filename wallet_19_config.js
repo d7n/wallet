@@ -1,1 +1,1 @@
-var mnemonic = "list genius great street sketch share repair idle glove text castle field";
+var mnemonic = "dwarf average town beach execute satoshi any clerk boy heart engine under";

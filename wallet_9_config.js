@@ -1,1 +1,1 @@
-var mnemonic = "float artwork fatal original hurt lake observe stairs satoshi throw domain frown";
+var mnemonic = "tent fame useful uniform upgrade cute explain turn response town make analyst";

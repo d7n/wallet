@@ -1,1 +1,1 @@
-var mnemonic = "brave title depth angle dinner burger combine crawl express boost stereo bicycle";
+var mnemonic = "suit odor chief require rich nice guilt useful staff poem skill female";

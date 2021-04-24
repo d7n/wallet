@@ -1,1 +1,1 @@
-var mnemonic = "venture neck electric dinosaur canal library student garment language wild know very";
+var mnemonic = "crouch wool police sad kangaroo inmate desk broken snack stomach card wagon";

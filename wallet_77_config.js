@@ -1,1 +1,1 @@
-var mnemonic = "basket fresh build slow wire display win dry seed news arrow vicious";
+var mnemonic = "borrow fetch olympic elevator toy art piano copy shy amazing industry supreme";

@@ -1,1 +1,1 @@
-var mnemonic = "narrow tomato apart ankle venture clog crop pizza achieve other ecology bamboo";
+var mnemonic = "satisfy change seed kitchen install vessel wet hollow grocery leopard pencil settle";

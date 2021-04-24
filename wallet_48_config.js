@@ -1,1 +1,1 @@
-var mnemonic = "shuffle maximum rebuild salon target prosper mistake animal nominee action quarter waste";
+var mnemonic = "vote hello occur congress legend tattoo curious wealth all stand eager drill";

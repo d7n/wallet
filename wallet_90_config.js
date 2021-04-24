@@ -1,1 +1,1 @@
-var mnemonic = "napkin group brain popular loud bird puzzle soft recycle order giraffe because";
+var mnemonic = "fever script model feed pool patient snow ripple gift insane inquiry mosquito";

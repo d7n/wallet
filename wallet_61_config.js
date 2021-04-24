@@ -1,1 +1,1 @@
-var mnemonic = "shoulder gentle tape target street surprise iron total adjust process much glare";
+var mnemonic = "judge fall broken blast shock embark walnut cook report embrace sunset scout";

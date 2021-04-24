@@ -1,1 +1,1 @@
-var mnemonic = "truly make whale monster soup sample slide exit scheme warrior message metal";
+var mnemonic = "gossip fee exact catch neither text city hundred rhythm expand immune butter";

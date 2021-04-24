@@ -1,1 +1,1 @@
-var mnemonic = "divorce roof endless picture liberty reward short size robot fragile volcano stadium";
+var mnemonic = "myself dove clog solar casual zero august sight buyer dirt liquid expose";

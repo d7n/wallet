@@ -1,1 +1,1 @@
-var mnemonic = "erase vehicle donate catalog decade admit upon cargo soda account edge enter";
+var mnemonic = "stairs rocket island solution walnut connect add proof lizard alone ridge retire";

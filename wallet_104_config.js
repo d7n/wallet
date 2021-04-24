@@ -1,1 +1,1 @@
-var mnemonic = "above fabric jeans update treat indicate burst boring cabin jealous portion slot";
+var mnemonic = "blush weird crash sniff cube hurt consider riot split retreat resource exchange";

@@ -1,1 +1,1 @@
-var mnemonic = "income daughter sister unveil where lake spatial dinner wrestle public tragic brother";
+var mnemonic = "jungle pride online winter poverty dinner regular ranch december misery camera unique";

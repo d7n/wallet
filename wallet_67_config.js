@@ -1,1 +1,1 @@
-var mnemonic = "lonely unknown flame reduce bulk unique feed cabin exotic target afford true";
+var mnemonic = "fever lava torch razor spot zoo exit fall mask lady purchase album";

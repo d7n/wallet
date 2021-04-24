@@ -1,1 +1,1 @@
-var mnemonic = "century way injury gap laundry buzz over drink unable two regular neglect";
+var mnemonic = "message decide rather six jelly novel bone decline increase fish beyond height";

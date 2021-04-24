@@ -1,1 +1,1 @@
-var mnemonic = "pave theory ship pool merge tourist analyst spell among already ceiling leg";
+var mnemonic = "cinnamon solution elite robot cricket drama velvet weasel buzz fit rain bomb";

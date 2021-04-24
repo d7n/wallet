@@ -1,1 +1,1 @@
-var mnemonic = "key wave gossip design work swarm duty gift parent width split nerve";
+var mnemonic = "scout alone vital lobster expect security wine inform pet upgrade wise come";

@@ -1,1 +1,1 @@
-var mnemonic = "appear section piece mansion choice memory repeat excite hire valid slender thumb";
+var mnemonic = "shoot drill maximum accuse lock chronic display million claw unit satoshi spawn";

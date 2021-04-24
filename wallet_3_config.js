@@ -1,1 +1,1 @@
-var mnemonic = "palace visual bright jacket behave learn gospel alien toss humble skin object";
+var mnemonic = "coin bulk help prosper click chef zero brass tortoise symbol choose news";

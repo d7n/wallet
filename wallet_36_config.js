@@ -1,1 +1,1 @@
-var mnemonic = "stereo episode wheat walk zoo frown priority fog airport winner access veteran";
+var mnemonic = "congress soldier slush embody cross tell rebel task step juice recipe ride";

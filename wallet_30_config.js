@@ -1,1 +1,1 @@
-var mnemonic = "frog boring inject clever puzzle blood worth lyrics slender job snack service";
+var mnemonic = "token genius favorite gossip famous disease drum emotion helmet hurry mesh display";

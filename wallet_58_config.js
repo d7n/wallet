@@ -1,1 +1,1 @@
-var mnemonic = "fall fluid drip project slush evolve border innocent captain safe empower very";
+var mnemonic = "length fish swear tomorrow age miracle alert someone congress primary also consider";

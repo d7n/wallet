@@ -1,1 +1,1 @@
-var mnemonic = "copy action churn doctor grass someone salute wheel fresh solar arrange train";
+var mnemonic = "orange position daughter cupboard machine alcohol crisp forward belt behave six small";
