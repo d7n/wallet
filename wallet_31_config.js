@@ -1,1 +1,1 @@
-var mnemonic = "section wisdom screen fire reduce adjust bean walnut casual wrist address barrel";
+var mnemonic = "slam wonder chef idle include foot law kick payment gift embark sure";

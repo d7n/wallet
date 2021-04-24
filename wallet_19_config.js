@@ -1,1 +1,1 @@
-var mnemonic = "secret sentence wagon next east runway discover young frame still congress glass";
+var mnemonic = "gloom finish mail sword artefact galaxy winter hat pattern fossil giant beauty";

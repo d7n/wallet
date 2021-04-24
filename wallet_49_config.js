@@ -1,1 +1,1 @@
-var mnemonic = "reward squirrel panda north winter time become fashion frequent air gasp figure";
+var mnemonic = "sentence degree park logic option dinosaur satoshi patrol drastic figure wolf radio";

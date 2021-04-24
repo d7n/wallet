@@ -1,1 +1,1 @@
-var mnemonic = "follow amused spring bind immense wing save together unusual library monkey opinion";
+var mnemonic = "lazy borrow physical wonder ostrich reward hedgehog chief library pumpkin flag enforce";

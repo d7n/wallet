@@ -1,1 +1,1 @@
-var mnemonic = "obtain honey humor zebra pigeon infant like old salad ticket spoil country";
+var mnemonic = "govern since sand churn arrest dove bitter mass exist surround another small";

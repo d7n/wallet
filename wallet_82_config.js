@@ -1,1 +1,1 @@
-var mnemonic = "fog stool rail master fatigue joy below city anxiety response often surround";
+var mnemonic = "base business power rich bounce flip outdoor wolf degree chronic neck umbrella";

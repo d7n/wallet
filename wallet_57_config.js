@@ -1,1 +1,1 @@
-var mnemonic = "busy dinner hockey festival chase correct novel cactus fade zoo impose clinic";
+var mnemonic = "property alcohol deliver volume zoo wish control demand source coffee cluster super";

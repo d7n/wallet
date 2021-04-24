@@ -1,1 +1,1 @@
-var mnemonic = "huge sound brief tape hand slender defense october area keep veteran south";
+var mnemonic = "outer supply pair wink busy honey roof fork knee price census rescue";

@@ -1,1 +1,1 @@
-var mnemonic = "woman table vocal dutch bid double salt hat joy inquiry muscle amount";
+var mnemonic = "world science claw better oxygen toward region physical three task robust dinosaur";

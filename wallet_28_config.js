@@ -1,1 +1,1 @@
-var mnemonic = "obtain flip beauty uncover autumn vicious swap deal deposit trash spring select";
+var mnemonic = "amazing tonight position remind party vault forward grid flat crash marine wild";

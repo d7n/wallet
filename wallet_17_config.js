@@ -1,1 +1,1 @@
-var mnemonic = "salute snow benefit pill napkin school cat bless kitten ready live task";
+var mnemonic = "occur choice pipe energy shadow guide sad jazz steel snow coconut erase";

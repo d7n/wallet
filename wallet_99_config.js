@@ -1,1 +1,1 @@
-var mnemonic = "summer cancel jeans pool utility slight repair woman royal hip tent light";
+var mnemonic = "dynamic magic cake choice amazing transfer inherit sphere alcohol pistol choose raise";

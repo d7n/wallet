@@ -1,1 +1,1 @@
-var mnemonic = "amount umbrella scatter harbor scheme reform proud fat mail inherit review page";
+var mnemonic = "cover screen zebra host letter mountain disagree regular onion coconut cat antenna";

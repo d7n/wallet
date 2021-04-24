@@ -1,1 +1,1 @@
-var mnemonic = "rigid word early convince thought advance insane south addict wolf horror speak";
+var mnemonic = "napkin tornado belt airport evoke angle push poverty hire gate beach actress";

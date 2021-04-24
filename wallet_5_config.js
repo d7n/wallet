@@ -1,1 +1,1 @@
-var mnemonic = "express margin expose dignity toss saddle nest update safe mobile sell help";
+var mnemonic = "horn lunch maid marriage fever grit library position drive rally bone wealth";

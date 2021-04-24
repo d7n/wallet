@@ -1,1 +1,1 @@
-var mnemonic = "empower found surprise program emerge neglect seed position laundry purchase video pyramid";
+var mnemonic = "cactus faculty try afford hub bridge sign escape wrist pencil oppose setup";

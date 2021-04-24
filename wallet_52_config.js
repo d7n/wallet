@@ -1,1 +1,1 @@
-var mnemonic = "minimum repair clean recall seven visual title history cruel name sword cabbage";
+var mnemonic = "paddle violin truck media pepper vote quote blind income custom conduct guess";

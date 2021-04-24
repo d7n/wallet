@@ -1,1 +1,1 @@
-var mnemonic = "denial genre benefit human ensure mirror bracket chest year song wine anchor";
+var mnemonic = "metal course galaxy apart common sport drink language cost topic meadow dose";

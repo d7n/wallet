@@ -1,1 +1,1 @@
-var mnemonic = "balance video battle grow liberty orient estate cloth infant attend pull prosper";
+var mnemonic = "door space tube album turkey oak plate drastic soft doctor dilemma end";

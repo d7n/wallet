@@ -1,1 +1,1 @@
-var mnemonic = "cloud dad goose you hold midnight guide tomato detect chair craft vocal";
+var mnemonic = "frame fox obscure photo kitchen brisk dash pill genre gospel section beauty";

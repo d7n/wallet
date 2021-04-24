@@ -1,1 +1,1 @@
-var mnemonic = "useful toddler pottery library roof net bike decorate cat tail slow sister";
+var mnemonic = "critic history tilt example fatal dream donkey outside embrace gather segment gate";

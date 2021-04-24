@@ -1,1 +1,1 @@
-var mnemonic = "silk mind roast palm stable dust situate twelve ugly unveil tail mask";
+var mnemonic = "make pelican love bag plug hair jacket twelve fame surprise hole reform";

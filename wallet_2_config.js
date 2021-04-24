@@ -1,1 +1,1 @@
-var mnemonic = "section diamond soul lock van nominee jacket canyon music actor opinion cement";
+var mnemonic = "circle travel jungle library mercy nut million miss wolf toe key powder";

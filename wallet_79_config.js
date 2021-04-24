@@ -1,1 +1,1 @@
-var mnemonic = "enforce have glove endless human ridge wash fish clog benefit uniform current";
+var mnemonic = "bike girl calm movie speed average measure alley message air pear wreck";

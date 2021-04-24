@@ -1,1 +1,1 @@
-var mnemonic = "gauge attend monster error uncle guitar disagree spike demise ugly sure extend";
+var mnemonic = "side first similar pupil clerk rude hidden load child steak rose dinner";

@@ -1,1 +1,1 @@
-var mnemonic = "bird lucky average crash snap skin dilemma remain also point modify box";
+var mnemonic = "erupt slow rug dilemma door mesh ceiling engine wine receive asthma violin";

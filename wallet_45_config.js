@@ -1,1 +1,1 @@
-var mnemonic = "cram album slim electric assist easy soul axis mean between flock oval";
+var mnemonic = "warfare hurt essence shrimp office glove beef twenty silly major can tumble";

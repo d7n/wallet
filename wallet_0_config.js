@@ -1,1 +1,1 @@
-var mnemonic = "motor also organ often brain shoot volume group bronze setup ladder crystal";
+var mnemonic = "crumble animal foster enough session unhappy boost myself noodle rotate exist engage";

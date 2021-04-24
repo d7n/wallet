@@ -1,1 +1,1 @@
-var mnemonic = "rigid boy fiscal luggage enough cost explain fashion elegant ancient feel visual";
+var mnemonic = "promote foster thunder build thank juice tell love olympic must general song";

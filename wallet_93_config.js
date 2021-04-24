@@ -1,1 +1,1 @@
-var mnemonic = "royal bleak force copper field pioneer buyer virtual dutch tiger dismiss junior";
+var mnemonic = "clip taste better tone decide below capable wood dilemma jelly month able";

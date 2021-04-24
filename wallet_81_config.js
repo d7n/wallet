@@ -1,1 +1,1 @@
-var mnemonic = "hobby hand alone police gadget moral husband sustain kitten expose talent traffic";
+var mnemonic = "sister breeze gap desert few bonus expire lucky crawl talk aunt garbage";

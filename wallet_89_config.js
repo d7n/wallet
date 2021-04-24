@@ -1,1 +1,1 @@
-var mnemonic = "mix share setup feed bulk setup boil faculty enroll coin fresh trap";
+var mnemonic = "crush comic valid seek clog page boss library warrior pulp area human";

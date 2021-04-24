@@ -1,1 +1,1 @@
-var mnemonic = "vessel double tennis bamboo file trash inspire visit cushion injury clerk valley";
+var mnemonic = "bring viable dentist boring panda public install invest script defy earn sheriff";

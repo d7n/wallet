@@ -1,1 +1,1 @@
-var mnemonic = "unhappy give walnut capital clog margin spy always result already rude dog";
+var mnemonic = "toast pond metal scissors inherit crystal artwork unaware strategy duck interest blue";

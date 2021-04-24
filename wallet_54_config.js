@@ -1,1 +1,1 @@
-var mnemonic = "chalk suggest walnut similar feel sleep symbol three agree obtain clarify magnet";
+var mnemonic = "drip brain service first subway pottery urge unique arrive marble envelope cave";

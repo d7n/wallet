@@ -1,1 +1,1 @@
-var mnemonic = "metal fiction reveal ketchup pony creek manual ranch wife volume rhythm brother";
+var mnemonic = "coil under write glad jungle frequent vicious hour firm area assist love";

@@ -1,1 +1,1 @@
-var mnemonic = "resist marine copper coach shed dolphin east garlic render tooth push velvet";
+var mnemonic = "earth company champion orbit rifle position hope inquiry rely dream song control";

@@ -1,1 +1,1 @@
-var mnemonic = "across mimic dish eager naive stairs kitchen embark thrive degree stage pistol";
+var mnemonic = "side bright rib cliff social razor access ticket menu friend early tonight";

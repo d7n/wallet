@@ -1,1 +1,1 @@
-var mnemonic = "blanket shock oven decorate glare actress video choice already also actress trip";
+var mnemonic = "slight sentence rapid inherit notice found among cage glide truth lawn arch";

@@ -1,1 +1,1 @@
-var mnemonic = "arch puzzle tilt mistake violin improve poverty ahead olive provide market ranch";
+var mnemonic = "depth monster guard mouse online curious traffic coast hole razor swallow cliff";

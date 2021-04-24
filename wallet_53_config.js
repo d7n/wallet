@@ -1,1 +1,1 @@
-var mnemonic = "erase state segment wise lounge run easy fat promote attract journey bracket";
+var mnemonic = "air sentence bless pluck tackle obtain siege tomato magnet master domain claim";

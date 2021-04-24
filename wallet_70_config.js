@@ -1,1 +1,1 @@
-var mnemonic = "very soldier demand visa laugh gauge chunk turtle rotate salon double enemy";
+var mnemonic = "husband trial dog envelope effort bright genuine fade fold clerk differ home";

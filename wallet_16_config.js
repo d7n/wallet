@@ -1,1 +1,1 @@
-var mnemonic = "armor sound announce close muscle million sound pen digital soap cry member";
+var mnemonic = "nurse jar slogan usual fade skin unknown text kidney deal mushroom spawn";

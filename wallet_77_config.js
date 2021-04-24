@@ -1,1 +1,1 @@
-var mnemonic = "kick million wish begin oblige street access theme include curious rally pill";
+var mnemonic = "sock kick december rapid poverty hawk glimpse pink chronic oxygen mixture ketchup";

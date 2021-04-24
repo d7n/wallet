@@ -1,1 +1,1 @@
-var mnemonic = "palace system wedding lab click salt kind cost virtual blossom outer forget";
+var mnemonic = "photo sample noodle spare vapor profit add noise latin cry lift expect";

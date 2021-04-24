@@ -1,1 +1,1 @@
-var mnemonic = "gorilla focus spin cat fit soon route young hurt spring artefact upon";
+var mnemonic = "jazz song volume creek fancy lawsuit basket female suffer brisk sustain flee";

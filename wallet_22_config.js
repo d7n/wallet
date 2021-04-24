@@ -1,1 +1,1 @@
-var mnemonic = "elite myself panel fortune verb aunt become topple reopen frown rhythm theme";
+var mnemonic = "enforce trash true estate utility charge crime color uniform stable spend attack";

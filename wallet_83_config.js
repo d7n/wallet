@@ -1,1 +1,1 @@
-var mnemonic = "west onion ladder nerve route obey twice across flock buffalo grape wonder";
+var mnemonic = "coach kiss master only amused churn jeans vacuum tape chunk method cereal";

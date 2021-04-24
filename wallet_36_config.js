@@ -1,1 +1,1 @@
-var mnemonic = "stone orient dust lava onion recall penalty siege upon mushroom diary grass";
+var mnemonic = "solution spice surprise motion tunnel element kick derive liberty labor yard fence";

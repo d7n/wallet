@@ -1,1 +1,1 @@
-var mnemonic = "catch pond nose payment drastic lamp work oven farm fox motion agent";
+var mnemonic = "fruit move thumb empty gym convince other shop all limit half resist";

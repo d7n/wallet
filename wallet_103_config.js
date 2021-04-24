@@ -1,1 +1,1 @@
-var mnemonic = "fruit under flip fresh odor surge gorilla combine beyond iron slender any";
+var mnemonic = "harsh tube ketchup eager depth crouch twice almost frog unaware amazing music";

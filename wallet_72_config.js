@@ -1,1 +1,1 @@
-var mnemonic = "answer method cereal possible script fuel water affair pigeon dinosaur wrist film";
+var mnemonic = "viable history jelly guess okay rigid razor law approve zoo plate human";

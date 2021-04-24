@@ -1,1 +1,1 @@
-var mnemonic = "monitor check promote giant service over dignity thank shallow rifle gift fabric";
+var mnemonic = "glass switch sight lazy clump coast swamp occur trash stick similar nuclear";

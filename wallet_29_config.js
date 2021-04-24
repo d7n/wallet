@@ -1,1 +1,1 @@
-var mnemonic = "shop magic tribe carry dance curtain pole drop mother code wild elevator";
+var mnemonic = "symbol tumble maximum fade gaze draft feature trial wheel notice sponsor much";

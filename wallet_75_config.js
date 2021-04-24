@@ -1,1 +1,1 @@
-var mnemonic = "battle lift boss wrist install supply merit helmet party accuse execute cave";
+var mnemonic = "order own stomach drill nurse gold act adjust spirit gaze feed tunnel";

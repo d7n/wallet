@@ -1,1 +1,1 @@
-var mnemonic = "daring seat cheese leg author focus embark forget ready bachelor nothing wheel";
+var mnemonic = "angry guess check outside canal ensure veteran case destroy ivory attack wait";

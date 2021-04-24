@@ -1,1 +1,1 @@
-var mnemonic = "result carry erase display pepper exit island wood lucky cushion shock lens";
+var mnemonic = "easily tell holiday ability kid erase half logic learn naive desert right";

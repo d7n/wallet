@@ -1,1 +1,1 @@
-var mnemonic = "few tornado clarify inherit enroll address tell dentist goddess tilt infant coach";
+var mnemonic = "athlete injury slot imitate rather once august floor artist indoor include assault";

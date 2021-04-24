@@ -1,1 +1,1 @@
-var mnemonic = "inflict demise tragic rate reform primary expect color acoustic kiss response know";
+var mnemonic = "tumble used jelly coast course list next subject blood submit steel trade";

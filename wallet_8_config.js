@@ -1,1 +1,1 @@
-var mnemonic = "tag soon amused draw walk crystal artist coin trend pass neither primary";
+var mnemonic = "today kitten recipe few zone myth chase curious canal trick whisper phrase";

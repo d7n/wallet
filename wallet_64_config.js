@@ -1,1 +1,1 @@
-var mnemonic = "risk stable fly math endless jewel crisp maid super stem crazy differ";
+var mnemonic = "bulk silent pole slender skirt essay tool truly park jacket maid long";

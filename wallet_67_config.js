@@ -1,1 +1,1 @@
-var mnemonic = "body column ensure dad arrange auto napkin three bean club text enact";
+var mnemonic = "riot business sweet hair lounge vibrant olympic wedding escape peanut inhale balcony";

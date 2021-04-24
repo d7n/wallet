@@ -1,1 +1,1 @@
-var mnemonic = "jacket system accuse early bitter rice retire boat chicken lonely stage sleep";
+var mnemonic = "truly south test dune critic color place nominee lobster present kiss cable";

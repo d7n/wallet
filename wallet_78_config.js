@@ -1,1 +1,1 @@
-var mnemonic = "hammer topic option stock market bundle hunt juice hand arm motor other";
+var mnemonic = "agent trouble absent broom foil awful casino wall sugar dismiss carbon expire";

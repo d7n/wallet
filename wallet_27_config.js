@@ -1,1 +1,1 @@
-var mnemonic = "supply island citizen fox impact vast tool cousin oil key random flower";
+var mnemonic = "amateur resist gadget harbor awesome master lunch salad coin useful vessel stay";

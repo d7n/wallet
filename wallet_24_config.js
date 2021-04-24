@@ -1,1 +1,1 @@
-var mnemonic = "letter define include tunnel message other sunny subway seminar shuffle giraffe inject";
+var mnemonic = "plastic virus digital taxi surface private snow inhale spirit announce return element";

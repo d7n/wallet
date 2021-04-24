@@ -1,1 +1,1 @@
-var mnemonic = "royal video hour slot story improve slim arena hybrid upset guess hospital";
+var mnemonic = "arrive swing critic logic matter plate tree dignity trick exit pear catch";

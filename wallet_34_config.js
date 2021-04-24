@@ -1,1 +1,1 @@
-var mnemonic = "erosion asthma sunset ugly shrug wheat oil group help average usual there";
+var mnemonic = "pause apple type coil first pet home become rain confirm world shrug";

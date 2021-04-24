@@ -1,1 +1,1 @@
-var mnemonic = "genius stock please merry obscure obey oil say divide trap domain swarm";
+var mnemonic = "lens photo arch acid size saddle coil donor group clog physical tiny";

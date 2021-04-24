@@ -1,1 +1,1 @@
-var mnemonic = "purpose snow find oval panic club noodle dolphin youth torch boring history";
+var mnemonic = "plug minimum during ranch gown artefact hospital glue also smile rifle now";

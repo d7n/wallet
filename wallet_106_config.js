@@ -1,1 +1,1 @@
-var mnemonic = "urge answer panda husband subway edit genre crucial horn like sample gather";
+var mnemonic = "casual negative cry sting tone swallow piano retreat farm fly when letter";

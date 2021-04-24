@@ -1,1 +1,1 @@
-var mnemonic = "thing able desert dismiss scan tape large manage type lion hill check";
+var mnemonic = "income orient load awkward shy funny art few cage razor family learn";

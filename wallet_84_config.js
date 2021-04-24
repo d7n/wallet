@@ -1,1 +1,1 @@
-var mnemonic = "muffin raccoon birth public galaxy scissors leader pony improve odor wise cash";
+var mnemonic = "ill carbon typical world time agent eight worry list express balance solid";

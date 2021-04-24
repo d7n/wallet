@@ -1,1 +1,1 @@
-var mnemonic = "canal wish pudding stamp social use faith globe frozen satisfy august garlic";
+var mnemonic = "swallow garbage rabbit tackle plug beef remind alien fun cheap color debris";

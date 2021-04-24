@@ -1,1 +1,1 @@
-var mnemonic = "tip chair belt exotic extend six team twenty equip among mask segment";
+var mnemonic = "chapter similar cigar special time view shoe elite host dizzy sting recycle";

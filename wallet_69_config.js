@@ -1,1 +1,1 @@
-var mnemonic = "enroll device fuel mixture amused settle stool shoulder fire enforce void illegal";
+var mnemonic = "pigeon purse walnut uniform snap furnace extend view side warfare sugar kiss";

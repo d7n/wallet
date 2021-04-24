@@ -1,1 +1,1 @@
-var mnemonic = "action element mass swap object blood online vanish coin fancy grab sound";
+var mnemonic = "ramp steak today afraid umbrella token blossom prison agent fix basket wisdom";

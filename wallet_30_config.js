@@ -1,1 +1,1 @@
-var mnemonic = "wife silver sort away wheel else hat sunset basket labor skate awesome";
+var mnemonic = "scan issue rose address vast dwarf syrup absurd crunch rib coach style";

@@ -1,1 +1,1 @@
-var mnemonic = "jungle supreme social stem rule mammal festival sting solid history physical pattern";
+var mnemonic = "ahead spike bamboo toward notice rib shiver logic make leader faith trick";

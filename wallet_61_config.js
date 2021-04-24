@@ -1,1 +1,1 @@
-var mnemonic = "grit bike duck warm you fantasy grass finish response shock diary diet";
+var mnemonic = "enhance dirt mixture mean poem sauce rude blind cup message that absurd";

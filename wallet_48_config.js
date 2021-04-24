@@ -1,1 +1,1 @@
-var mnemonic = "meadow horn situate ankle exclude song sad desk bacon success track muscle";
+var mnemonic = "mad rescue nominee person comic warrior clever brown office inflict voyage next";

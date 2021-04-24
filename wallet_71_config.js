@@ -1,1 +1,1 @@
-var mnemonic = "snow ripple empower elder best identify vital simple rent canoe vicious alcohol";
+var mnemonic = "curtain canvas hybrid crumble claim ensure early fetch rent dose quarter fringe";

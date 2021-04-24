@@ -1,1 +1,1 @@
-var mnemonic = "solid senior above midnight electric vicious theory atom cereal spice service adjust";
+var mnemonic = "ancient upset arch venture vault increase fiction feed jelly off unlock card";

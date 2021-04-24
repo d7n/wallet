@@ -1,1 +1,1 @@
-var mnemonic = "ability bridge opera shoot night tone used kind armor parade repair name";
+var mnemonic = "eight lake valve avoid tackle sadness guard gentle keep emerge original foster";

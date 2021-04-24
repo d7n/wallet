@@ -1,1 +1,1 @@
-var mnemonic = "company powder bread arrow spin body tourist type tired ski smile much";
+var mnemonic = "muscle squeeze six quit repair gown fancy random result image olive legal";

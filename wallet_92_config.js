@@ -1,1 +1,1 @@
-var mnemonic = "absent voice suffer rose educate hip use tower shallow amused bean crawl";
+var mnemonic = "crucial reunion bounce device stone approve slight rare ecology embark infant fatal";

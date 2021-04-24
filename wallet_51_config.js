@@ -1,1 +1,1 @@
-var mnemonic = "gun zebra ignore guard just electric service laundry purity deposit powder opera";
+var mnemonic = "mechanic real crucial bulb sunny kitten volcano lyrics talent potato alone never";

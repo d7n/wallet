@@ -1,1 +1,1 @@
-var mnemonic = "barrel canal episode bunker extend mail feed romance clock episode public jaguar";
+var mnemonic = "one width female view canvas genius holiday find erosion kidney demise point";

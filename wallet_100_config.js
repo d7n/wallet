@@ -1,1 +1,1 @@
-var mnemonic = "drop guitar try lobster turn stay post surface lamp place deputy exotic";
+var mnemonic = "cup salt scout swallow silly rabbit physical identify fuel sentence myself crawl";
