@@ -1,1 +1,1 @@
-var mnemonic = "achieve hurt humor trash can renew prison beef across slot spawn broom";
+var mnemonic = "aisle shine patch police decrease slow fetch beyond lake hill zone skin";

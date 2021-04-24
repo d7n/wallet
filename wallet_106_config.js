@@ -1,1 +1,1 @@
-var mnemonic = "scorpion poet spy praise teach version donor chuckle fossil penalty border elevator";
+var mnemonic = "beef mouse oven endless unfair warfare loop entire jealous pipe acquire merry";

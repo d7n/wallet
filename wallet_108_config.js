@@ -1,1 +1,1 @@
-var mnemonic = "rural jungle ahead elder tobacco outside imitate label live lunar later mercy";
+var mnemonic = "brown pride violin artist evoke staff exact over gloom gossip initial ensure";

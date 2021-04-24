@@ -1,1 +1,1 @@
-var mnemonic = "off fragile public inherit odor tail police tiny uncle climb gospel physical";
+var mnemonic = "tilt frog place sell rice short caught arch net involve amazing upgrade";

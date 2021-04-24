@@ -1,1 +1,1 @@
-var mnemonic = "certain problem north dirt federal amount stereo man spawn remove student youth";
+var mnemonic = "army spring bread spirit nominee enforce crouch fold swallow youth depart pencil";

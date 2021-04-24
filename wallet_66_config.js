@@ -1,1 +1,1 @@
-var mnemonic = "damage opinion marriage oval spell often illness report water engine climb grace";
+var mnemonic = "mule version evil hard more tip hotel knee glove select badge candy";

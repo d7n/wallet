@@ -1,1 +1,1 @@
-var mnemonic = "arrest analyst push erosion brown dumb riot wife outer seed car write";
+var mnemonic = "wet enroll oppose comic math track firm matter novel eagle worry soon";

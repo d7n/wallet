@@ -1,1 +1,1 @@
-var mnemonic = "december crystal universe bleak furnace tribe entire document erosion dynamic main sunset";
+var mnemonic = "chair reopen crash stairs machine ceiling risk injury clinic recipe hurdle indicate";

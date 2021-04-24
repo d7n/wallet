@@ -1,1 +1,1 @@
-var mnemonic = "visual tooth adjust tuna guide use all spell olympic parade auction engine";
+var mnemonic = "artwork west over number auction rigid ritual vibrant syrup rocket supply rib";

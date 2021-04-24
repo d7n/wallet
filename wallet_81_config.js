@@ -1,1 +1,1 @@
-var mnemonic = "caution trade display train grow deny elbow better fog item pull keen";
+var mnemonic = "hobby agent almost busy view reduce light switch anchor share any voyage";

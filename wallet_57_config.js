@@ -1,1 +1,1 @@
-var mnemonic = "potato mesh replace bitter liar invite exhibit burger armor decrease limit urban";
+var mnemonic = "total dust scheme resource champion yellow boring diary setup armor town install";

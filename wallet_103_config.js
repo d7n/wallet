@@ -1,1 +1,1 @@
-var mnemonic = "connect crater upgrade festival will man void denial soap thumb erase isolate";
+var mnemonic = "congress enhance before sausage torch train runway spend island doctor mail syrup";

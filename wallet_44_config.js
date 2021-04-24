@@ -1,1 +1,1 @@
-var mnemonic = "long toe dune harvest spoil track secret suggest dance inch lion base";
+var mnemonic = "effort round eternal stuff foot foil panel sister puppy join tail cart";

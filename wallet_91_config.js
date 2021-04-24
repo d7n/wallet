@@ -1,1 +1,1 @@
-var mnemonic = "under shuffle liar render museum science manage basket music stable pepper rely";
+var mnemonic = "book dial sail best script saddle predict mean rude charge helmet sheriff";

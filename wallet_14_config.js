@@ -1,1 +1,1 @@
-var mnemonic = "minor waste amount lab until fine item wash mushroom client satoshi soup";
+var mnemonic = "wheat mass palm across culture still guitar choice cloth banana sketch announce";

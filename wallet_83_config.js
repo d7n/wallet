@@ -1,1 +1,1 @@
-var mnemonic = "cactus aisle claw impulse dumb stuff alter vessel paddle sight merry avocado";
+var mnemonic = "excite tackle boil attract edge tongue early mom answer stumble pumpkin impulse";

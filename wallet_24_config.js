@@ -1,1 +1,1 @@
-var mnemonic = "cloth spike couch fit level hungry cereal run pudding burden chief connect";
+var mnemonic = "strategy feed february buyer consider emotion when praise upon render radio tortoise";

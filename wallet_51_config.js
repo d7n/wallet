@@ -1,1 +1,1 @@
-var mnemonic = "resemble double cushion ring hello scrub raven royal essence peace wise diamond";
+var mnemonic = "unknown keen harbor same express damage reason crisp oxygen harvest faculty electric";

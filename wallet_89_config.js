@@ -1,1 +1,1 @@
-var mnemonic = "green tilt someone fold spoil soda domain spread token food express return";
+var mnemonic = "proud industry journey polar gorilla infant warm blood cave utility dial fiscal";

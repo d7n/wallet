@@ -1,1 +1,1 @@
-var mnemonic = "antenna hood random install brass gadget smoke life source crouch luggage pony";
+var mnemonic = "vault crack unable tool broken rally invite topple mesh view either burger";

@@ -1,1 +1,1 @@
-var mnemonic = "usual empty trick foil urban wisdom wheat mother final behave click embrace";
+var mnemonic = "modify hurt spoon hire brown cake plate load expect garlic define village";

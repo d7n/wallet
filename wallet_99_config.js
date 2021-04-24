@@ -1,1 +1,1 @@
-var mnemonic = "sun amused dilemma expire meat result grain alpha afford build piece defense";
+var mnemonic = "wheel scrub butter endless boil grape buzz idle basic essay mushroom above";

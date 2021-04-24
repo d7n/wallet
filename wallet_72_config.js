@@ -1,1 +1,1 @@
-var mnemonic = "penalty tag rigid list okay ranch train service power credit chaos jewel";
+var mnemonic = "enough observe remember fury inform sweet team mango vault cupboard dismiss afford";

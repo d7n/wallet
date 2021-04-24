@@ -1,1 +1,1 @@
-var mnemonic = "mosquito curve kangaroo design review over guide two disease damage invest three";
+var mnemonic = "dress belt step little ring stamp bitter bright bomb bamboo cargo struggle";

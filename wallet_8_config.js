@@ -1,1 +1,1 @@
-var mnemonic = "nephew envelope gate soldier come couch guilt dream utility gossip inside private";
+var mnemonic = "liberty service write spend again trial joy jump snap hunt stuff move";

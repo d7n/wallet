@@ -1,1 +1,1 @@
-var mnemonic = "youth tag broken usage label food infant spirit action bottom pen source";
+var mnemonic = "rug blind brief menu rely recycle switch crazy trouble crouch verb velvet";

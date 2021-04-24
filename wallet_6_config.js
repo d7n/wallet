@@ -1,1 +1,1 @@
-var mnemonic = "total august deputy jazz much use depend army cable dinner repeat neck";
+var mnemonic = "sleep film gauge lyrics own flip edge online monster south suggest cake";

@@ -1,1 +1,1 @@
-var mnemonic = "silent steak regret fresh verify door liar scan salt fiction element ripple";
+var mnemonic = "matter merry angle slight flavor nut under satisfy sword poet rifle cabin";

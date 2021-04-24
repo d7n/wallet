@@ -1,1 +1,1 @@
-var mnemonic = "habit polar lava penalty payment spell region scan alert employ situate swim";
+var mnemonic = "drip hair lobster tragic know orphan minute inflict glance pupil play vast";

@@ -1,1 +1,1 @@
-var mnemonic = "tone over slide high mesh success castle alter fluid minimum toss train";
+var mnemonic = "average subway satisfy music cabin elite plunge lizard wedding enhance chef employ";

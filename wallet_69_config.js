@@ -1,1 +1,1 @@
-var mnemonic = "slice possible legend involve smooth apple grunt comfort mad gospel gospel once";
+var mnemonic = "immune opinion banana sweet chuckle trip exile build put vast window globe";

@@ -1,1 +1,1 @@
-var mnemonic = "swift caution discover gym motor fossil discover reject narrow drift inhale shrug";
+var mnemonic = "hire foster base pottery broom claw pizza rely vibrant gorilla nut essay";

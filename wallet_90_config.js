@@ -1,1 +1,1 @@
-var mnemonic = "cat myself limb stool season sketch turkey silk mail prepare style air";
+var mnemonic = "brain vital capital silly height giant acid patrol vast inhale suspect mind";

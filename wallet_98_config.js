@@ -1,1 +1,1 @@
-var mnemonic = "ecology dutch pyramid garment tomorrow online stay other invest pepper august drop";
+var mnemonic = "cluster bone depart later detect stand debate close remain pitch rescue climb";

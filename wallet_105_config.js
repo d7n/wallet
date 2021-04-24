@@ -1,1 +1,1 @@
-var mnemonic = "fix museum renew infant card misery public radio decade inform purity kangaroo";
+var mnemonic = "door merry skull beyond script aspect potato lion coral always exit flavor";

@@ -1,1 +1,1 @@
-var mnemonic = "empower where laugh tape vibrant air treat endorse horror real return alpha";
+var mnemonic = "dad come worry say pull seek odor need there cruel obtain modify";

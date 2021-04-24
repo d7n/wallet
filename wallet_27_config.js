@@ -1,1 +1,1 @@
-var mnemonic = "monkey another nuclear valid street wrong olive film rebuild marble update wool";
+var mnemonic = "parade december noise offer journey soccer powder trouble pen fox debris silent";

@@ -1,1 +1,1 @@
-var mnemonic = "slim mirror cushion opera cry inflict public anxiety oxygen away fiction cotton";
+var mnemonic = "close path endless betray couch surface work loan month shop post trip";

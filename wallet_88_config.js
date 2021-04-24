@@ -1,1 +1,1 @@
-var mnemonic = "attitude jaguar exit chest where apology beach captain ordinary orient error artwork";
+var mnemonic = "fury diamond venue clarify poverty basic bargain cereal flame end lazy found";

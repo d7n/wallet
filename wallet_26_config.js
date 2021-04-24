@@ -1,1 +1,1 @@
-var mnemonic = "valid female length erupt awkward acoustic clarify despair observe since slice wait";
+var mnemonic = "verb vicious gaze jungle village multiply next paper veteran foster force jungle";

@@ -1,1 +1,1 @@
-var mnemonic = "purchase success laptop cement market collect cool define worry weather tragic cigar";
+var mnemonic = "all raise student beach hungry camp tilt asset vintage erupt swim sword";

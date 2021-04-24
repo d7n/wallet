@@ -1,1 +1,1 @@
-var mnemonic = "raccoon enemy lava walnut metal monitor possible range topple impulse just focus";
+var mnemonic = "method leg maple wonder crane stable digital math indicate social enact kingdom";

@@ -1,1 +1,1 @@
-var mnemonic = "chef scan wreck evoke target dutch weather resource strategy nuclear machine layer";
+var mnemonic = "pulp cave raw butter common turkey horse another paddle gas verify stay";

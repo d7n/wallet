@@ -1,1 +1,1 @@
-var mnemonic = "army level move transfer love office recycle boy travel cash focus method";
+var mnemonic = "shadow cheese vote belt scorpion merit flavor build close cross another clay";

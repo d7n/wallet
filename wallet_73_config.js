@@ -1,1 +1,1 @@
-var mnemonic = "electric assist chat cup ivory idea actress enlist various pizza punch horse";
+var mnemonic = "juice force crowd example frequent sauce push gold author oil load intact";

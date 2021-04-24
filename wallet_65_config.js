@@ -1,1 +1,1 @@
-var mnemonic = "point merit attitude curve trumpet athlete avoid desk joy answer imitate popular";
+var mnemonic = "school flag forest behind kiwi alone input then silver short manual river";

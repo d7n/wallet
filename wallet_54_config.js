@@ -1,1 +1,1 @@
-var mnemonic = "expect pig glue allow banner change polar inspire mean tomorrow snow salmon";
+var mnemonic = "sword clog civil mask patient imitate credit cereal salute canoe scissors acoustic";

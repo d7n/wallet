@@ -1,1 +1,1 @@
-var mnemonic = "repair mother carpet police demise addict crush delay inner prize follow train";
+var mnemonic = "flash already super rate sport giraffe music jelly have foil length shell";

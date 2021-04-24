@@ -1,1 +1,1 @@
-var mnemonic = "depth kingdom visa invite leaf segment capable actress item busy float area";
+var mnemonic = "liar arrange follow crane skin action rare fire dog until vapor that";

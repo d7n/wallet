@@ -1,1 +1,1 @@
-var mnemonic = "episode live bamboo tomorrow labor kit ostrich print kit sign debate giraffe";
+var mnemonic = "wisdom winner transfer cram vivid benefit satoshi snap spray net smoke vibrant";

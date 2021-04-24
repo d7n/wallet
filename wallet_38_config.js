@@ -1,1 +1,1 @@
-var mnemonic = "blast reward region wrap lazy describe system belt inquiry snow aware index";
+var mnemonic = "delay movie during permit pull feel brisk can truly wealth burger soul";

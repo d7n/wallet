@@ -1,1 +1,1 @@
-var mnemonic = "often equip monitor photo color hair girl melody purchase forest during own";
+var mnemonic = "mistake rain piano void ten stay sand melt session reopen cotton margin";

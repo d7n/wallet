@@ -1,1 +1,1 @@
-var mnemonic = "stick alert ritual slim thumb food shadow shallow piano velvet genius syrup";
+var mnemonic = "consider lonely mean breeze main traffic predict depend army body possible boat";

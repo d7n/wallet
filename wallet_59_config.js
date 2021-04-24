@@ -1,1 +1,1 @@
-var mnemonic = "swap trophy nose lesson tip shock day rare dad write random service";
+var mnemonic = "fish gap dance shadow april strong december again dice fragile crush soda";

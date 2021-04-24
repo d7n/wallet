@@ -1,1 +1,1 @@
-var mnemonic = "midnight jealous chase bunker sustain alter appear grace patient whisper bench lab";
+var mnemonic = "chaos draw split screen banner foster error quarter nature juice ring boss";

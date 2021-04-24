@@ -1,1 +1,1 @@
-var mnemonic = "cliff tape fiscal hobby vault unlock bind job brain claim inch surface";
+var mnemonic = "travel panic horror puzzle home exist tired exercise artwork cousin lift minor";

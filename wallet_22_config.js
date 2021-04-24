@@ -1,1 +1,1 @@
-var mnemonic = "tattoo ahead measure tunnel define pill test floor sound pause reflect fatal";
+var mnemonic = "apart summer camp area axis limit leisure loud myth occur ask sorry";

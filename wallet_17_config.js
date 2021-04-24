@@ -1,1 +1,1 @@
-var mnemonic = "garbage dash struggle canyon wolf price spy proof jungle axis jeans recall";
+var mnemonic = "wasp omit valley move place leave cable lock photo puzzle prison trick";

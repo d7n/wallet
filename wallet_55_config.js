@@ -1,1 +1,1 @@
-var mnemonic = "stumble miracle cancel angle gym head negative three place able ice verify";
+var mnemonic = "alter critic orange today trial hole genuine imitate seven resource birth pupil";

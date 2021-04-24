@@ -1,1 +1,1 @@
-var mnemonic = "trigger meadow alley pupil cushion input chimney material food cancel ozone stomach";
+var mnemonic = "squeeze float endorse champion figure rent smoke ticket hospital nice reform rebuild";

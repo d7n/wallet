@@ -1,1 +1,1 @@
-var mnemonic = "spray mention enemy pulse law balcony remind over teach yellow similar spot";
+var mnemonic = "exclude kind mixture entry trial service inflict bargain light hope hire debate";

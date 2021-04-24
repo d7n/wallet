@@ -1,1 +1,1 @@
-var mnemonic = "comfort huge region hurdle cash dawn exotic moment uncover tiny anxiety bonus";
+var mnemonic = "behave family decrease want great reform board region author radio index rally";

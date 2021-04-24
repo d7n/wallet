@@ -1,1 +1,1 @@
-var mnemonic = "faith emotion bind heavy penalty soap about polar mistake cloth kingdom fiction";
+var mnemonic = "certain miracle bright marble sign raw orbit tongue route cook hazard sample";

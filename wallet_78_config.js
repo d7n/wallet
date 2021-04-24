@@ -1,1 +1,1 @@
-var mnemonic = "opera scissors scan raw industry puzzle crane tube hire common trap ritual";
+var mnemonic = "village tail muffin include bid weird orphan hawk oblige either simple mutual";

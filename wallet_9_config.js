@@ -1,1 +1,1 @@
-var mnemonic = "flower veteran invite tonight news pottery frame busy actual endorse suggest item";
+var mnemonic = "rough trouble insect little van else cook about egg ecology when joke";

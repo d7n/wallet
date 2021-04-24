@@ -1,1 +1,1 @@
-var mnemonic = "amused snack risk jelly diet sibling news name spider glance electric spy";
+var mnemonic = "drip engage tumble genuine below run change ship kid suspect barely earn";

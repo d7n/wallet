@@ -1,1 +1,1 @@
-var mnemonic = "upon perfect rent lunch figure cliff discover enrich cry latin inch museum";
+var mnemonic = "misery muscle august science sort outside achieve stay giggle wrap sell siren";

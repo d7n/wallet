@@ -1,1 +1,1 @@
-var mnemonic = "answer allow axis wrist problem market stick item wrestle swamp appear hawk";
+var mnemonic = "divorce aunt kangaroo knock timber castle dumb unfold release expose device negative";

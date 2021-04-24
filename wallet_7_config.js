@@ -1,1 +1,1 @@
-var mnemonic = "hard require shiver business exit brown nature solution mind utility name salt";
+var mnemonic = "indoor toast time key math merge fitness pact rude fruit inflict plug";

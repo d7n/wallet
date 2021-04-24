@@ -1,1 +1,1 @@
-var mnemonic = "dash start pizza income keep slide chicken galaxy impact apple satoshi master";
+var mnemonic = "animal order alter round genre alley latin cigar toward play math swallow";

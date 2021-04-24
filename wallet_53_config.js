@@ -1,1 +1,1 @@
-var mnemonic = "garlic hard vapor slogan hunt comfort wasp steel elephant blanket ladder tomato";
+var mnemonic = "moon wing rebel ring pass coyote sibling flee whip fiscal another ghost";

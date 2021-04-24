@@ -1,1 +1,1 @@
-var mnemonic = "country master drill purchase quarter atom toast coin bargain verb wise dose";
+var mnemonic = "enter hotel run long walk snake raise opera check permit dose sample";

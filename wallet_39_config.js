@@ -1,1 +1,1 @@
-var mnemonic = "pilot daring inform crouch raise critic loan concert infant orphan produce inmate";
+var mnemonic = "agree pool language judge gadget piece segment crack lava snack believe maid";

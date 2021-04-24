@@ -1,1 +1,1 @@
-var mnemonic = "soft afraid urge pole winter tribe manual improve match cream mesh health";
+var mnemonic = "then come poet faint oval soft open cheese silent combine travel glad";

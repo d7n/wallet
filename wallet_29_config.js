@@ -1,1 +1,1 @@
-var mnemonic = "ethics nephew amused few vacuum exhaust someone monster exile doll grab input";
+var mnemonic = "valley spare all west fix army pool congress more ethics cargo arena";

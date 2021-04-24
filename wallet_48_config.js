@@ -1,1 +1,1 @@
-var mnemonic = "lift empower fresh dish yard minor honey eight pudding fruit hawk version";
+var mnemonic = "asthma sister grow venue ankle leg feature climb chief dream caution behave";

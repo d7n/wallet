@@ -1,1 +1,1 @@
-var mnemonic = "rhythm either dial solution alarm beyond chimney flame bulk coach crew list";
+var mnemonic = "document joy slogan kiss genre trial idle cup income cry proof surge";

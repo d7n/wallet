@@ -1,1 +1,1 @@
-var mnemonic = "medal muscle rubber okay priority wisdom debate actor barrel eyebrow antenna coil";
+var mnemonic = "hill coyote hollow cinnamon resemble world sell obtain spoil glass mention flower";

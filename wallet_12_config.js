@@ -1,1 +1,1 @@
-var mnemonic = "evoke awkward theory boat satisfy output venture average large palm float amateur";
+var mnemonic = "pottery tonight lift pioneer neutral ready stumble bottom mother plunge size sugar";

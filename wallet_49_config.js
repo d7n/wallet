@@ -1,1 +1,1 @@
-var mnemonic = "risk toddler lizard farm explain smart dice weasel spin ecology dawn fix";
+var mnemonic = "exchange element govern father tree umbrella heavy inherit tortoise struggle gloom found";

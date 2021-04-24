@@ -1,1 +1,1 @@
-var mnemonic = "scrub episode tube jacket frequent join hammer basic coast purity good humor";
+var mnemonic = "soon arch believe pill kit gallery street tilt vocal torch uncover basic";

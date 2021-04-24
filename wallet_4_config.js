@@ -1,1 +1,1 @@
-var mnemonic = "lecture attract gauge zero supply planet prize culture awake slow calm purchase";
+var mnemonic = "report ivory wear method mix urban measure curtain teach chaos beyond museum";

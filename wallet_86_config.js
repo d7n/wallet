@@ -1,1 +1,1 @@
-var mnemonic = "clip slim insane kind depart afford salad uncle emotion lawsuit goose cruel";
+var mnemonic = "road picture into color van flip state come dress topple cinnamon basket";

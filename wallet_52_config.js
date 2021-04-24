@@ -1,1 +1,1 @@
-var mnemonic = "butter lunar screen annual latin aim unfold shove phrase oil maximum soda";
+var mnemonic = "average throw together ill coral banner catalog must off atom ketchup dad";

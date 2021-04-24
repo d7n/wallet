@@ -1,1 +1,1 @@
-var mnemonic = "soap evidence melt letter unaware cotton wage fit crystal swift thrive wheat";
+var mnemonic = "chase home craft rocket ostrich narrow suspect canal mechanic win swarm oblige";

@@ -1,1 +1,1 @@
-var mnemonic = "accident galaxy rifle sibling ugly candy essay vessel page armed exact title";
+var mnemonic = "height useful brave believe purse volcano pledge drift palace flee agree private";

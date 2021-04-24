@@ -1,1 +1,1 @@
-var mnemonic = "much assume festival bubble sustain click collect position snow edit dress silver";
+var mnemonic = "neither exhibit safe oil truck network toddler miracle story hammer across rare";

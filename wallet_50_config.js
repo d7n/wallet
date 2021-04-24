@@ -1,1 +1,1 @@
-var mnemonic = "seat other grief scale proof churn rude behave during sell snake glue";
+var mnemonic = "pluck retire resemble build skirt wagon rather average dose mirror prison sadness";

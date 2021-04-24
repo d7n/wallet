@@ -1,1 +1,1 @@
-var mnemonic = "engine devote kiwi matrix shine renew reward neck maximum marriage endless open";
+var mnemonic = "great crater people dress repeat joke dirt labor fee wealth chunk dawn";
