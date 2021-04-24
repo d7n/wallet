@@ -1,1 +1,1 @@
-var mnemonic = "daughter curious hazard need blade material sell danger engine tide lava giraffe";
+var mnemonic = "nurse dignity comfort error board moment paddle play approve parade shy art";

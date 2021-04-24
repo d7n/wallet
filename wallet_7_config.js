@@ -1,1 +1,1 @@
-var mnemonic = "present million target secret company amateur cinnamon funny cable endorse pen until";
+var mnemonic = "trust season barrel gather more gesture equip hair copper veteran outer enhance";

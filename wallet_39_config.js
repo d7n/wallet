@@ -1,1 +1,1 @@
-var mnemonic = "inherit black can farm detail vacuum chef extra suit card wage chief";
+var mnemonic = "armor clay half pattern immense ribbon wise total milk twelve trim unit";

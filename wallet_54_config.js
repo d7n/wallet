@@ -1,1 +1,1 @@
-var mnemonic = "mountain tribe diet member pull verify welcome path already ghost company wrist";
+var mnemonic = "write damage kite crime river notable ahead skate shoot smoke sheriff cute";

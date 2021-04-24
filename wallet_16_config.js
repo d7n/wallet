@@ -1,1 +1,1 @@
-var mnemonic = "income cost hobby father hat world depth gossip swallow unveil case industry";
+var mnemonic = "day view obey disagree bean army canal anxiety gather cry mad force";

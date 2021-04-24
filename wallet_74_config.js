@@ -1,1 +1,1 @@
-var mnemonic = "alert own fame tomorrow junior toy hidden left bounce verify involve envelope";
+var mnemonic = "gravity icon seed senior nice box doctor slim scout myth rigid surface";

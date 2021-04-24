@@ -1,1 +1,1 @@
-var mnemonic = "return item effort weird concert cereal where bronze pumpkin wonder infant high";
+var mnemonic = "remember bounce unfair snake alter hair change boy taxi expose clown elite";

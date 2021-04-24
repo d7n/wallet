@@ -1,1 +1,1 @@
-var mnemonic = "absorb cabin bounce any mix toss digital genius exist vacuum remember scrub";
+var mnemonic = "key wave gossip design work swarm duty gift parent width split nerve";

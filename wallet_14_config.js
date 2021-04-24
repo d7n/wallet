@@ -1,1 +1,1 @@
-var mnemonic = "decide later renew either float object venture vicious erase humble arena daughter";
+var mnemonic = "enlist tortoise catalog paddle trend select delay gallery brave brass fade item";

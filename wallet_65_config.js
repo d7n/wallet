@@ -1,1 +1,1 @@
-var mnemonic = "scan wedding tongue hungry fox position shy airport sausage suspect riot clever";
+var mnemonic = "live marble enrich parrot unhappy crane conduct deliver canoe sample duty wood";

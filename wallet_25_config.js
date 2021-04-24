@@ -1,1 +1,1 @@
-var mnemonic = "human poverty mouse mimic candy tattoo cram edit sudden radio false office";
+var mnemonic = "park flame off wealth disagree seven dawn nation wage walk usage curious";

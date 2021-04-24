@@ -1,1 +1,1 @@
-var mnemonic = "super trip payment truck reunion security dice flame solid situate obscure rent";
+var mnemonic = "tourist eagle payment border athlete tuition seven wagon arch spatial base plate";

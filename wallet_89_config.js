@@ -1,1 +1,1 @@
-var mnemonic = "credit radar roof choice need afford marine physical fiction inch day tiny";
+var mnemonic = "copper lottery east join captain tip woman rain ocean random two uphold";

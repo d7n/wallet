@@ -1,1 +1,1 @@
-var mnemonic = "become clump vibrant excess wear potato calm robust embody nerve indicate entry";
+var mnemonic = "exercise zero stool luxury thumb burden stay curtain parent undo someone okay";

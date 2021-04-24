@@ -1,1 +1,1 @@
-var mnemonic = "copper alter song rather network acquire domain brave unlock injury skull rail";
+var mnemonic = "clerk expand ghost practice search surprise exotic bullet churn purse explain loyal";

@@ -1,1 +1,1 @@
-var mnemonic = "print barely range core chest all retire illness portion space renew aim";
+var mnemonic = "keen source hire pool unable obvious fat use absorb sight pattern suit";

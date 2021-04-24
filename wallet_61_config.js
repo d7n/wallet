@@ -1,1 +1,1 @@
-var mnemonic = "matter shuffle exotic artefact staff script town pipe muffin present until drill";
+var mnemonic = "shoulder gentle tape target street surprise iron total adjust process much glare";

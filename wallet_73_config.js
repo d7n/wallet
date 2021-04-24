@@ -1,1 +1,1 @@
-var mnemonic = "fruit shadow weird attack sweet town dog napkin slide decade flat language";
+var mnemonic = "return license caution ripple trend slush gadget wet cabin injury clinic match";

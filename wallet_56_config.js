@@ -1,1 +1,1 @@
-var mnemonic = "south unlock name swing jealous once donor autumn width draw ceiling local";
+var mnemonic = "gather give try oak drill modify spin initial gasp evolve much popular";

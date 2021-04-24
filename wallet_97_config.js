@@ -1,1 +1,1 @@
-var mnemonic = "donkey bunker harvest trophy shoot inquiry mail answer lake edit gold two";
+var mnemonic = "rely above observe still task tiny tape bicycle drum left garlic unusual";

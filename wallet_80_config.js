@@ -1,1 +1,1 @@
-var mnemonic = "neck inflict family hospital output unveil ecology love gallery exact cabin green";
+var mnemonic = "bounce jungle accuse repeat spin jazz artefact resemble achieve ginger venue rescue";

@@ -1,1 +1,1 @@
-var mnemonic = "client dash furnace fringe bus used patch fork renew task fit lawn";
+var mnemonic = "choose boost clock track car develop habit strong fee slow already hawk";

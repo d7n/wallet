@@ -1,1 +1,1 @@
-var mnemonic = "badge ill paper close sweet they rib tree turtle pig magnet mushroom";
+var mnemonic = "patrol meadow rebel victory rookie jar course fever inquiry aunt output win";

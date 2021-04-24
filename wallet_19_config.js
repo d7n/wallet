@@ -1,1 +1,1 @@
-var mnemonic = "scene lounge okay radar someone shield rebuild country ship deliver fancy jazz";
+var mnemonic = "list genius great street sketch share repair idle glove text castle field";

@@ -1,1 +1,1 @@
-var mnemonic = "eagle camera silly random hobby mail actual vague wild auction turtle boring";
+var mnemonic = "club innocent combine say glance hour lion zero link act juice guess";

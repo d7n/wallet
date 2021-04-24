@@ -1,1 +1,1 @@
-var mnemonic = "clap sustain cross office abuse purpose onion tonight door tent return area";
+var mnemonic = "valley ginger audit wrist glory post train patrol about click issue zebra";

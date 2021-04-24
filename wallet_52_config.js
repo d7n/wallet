@@ -1,1 +1,1 @@
-var mnemonic = "pencil this face symptom armed clerk fruit arctic real gather ride cash";
+var mnemonic = "return certain into flash depart fame midnight drip rookie august use judge";

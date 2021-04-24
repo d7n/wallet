@@ -1,1 +1,1 @@
-var mnemonic = "speak member rib adapt essay coin coast exercise manual hunt magic pull";
+var mnemonic = "youth super eternal story amateur sorry wait chalk diamond critic loyal pole";

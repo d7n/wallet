@@ -1,1 +1,1 @@
-var mnemonic = "taxi talk blossom caught rival wide evidence one dutch simple speak flee";
+var mnemonic = "float artwork fatal original hurt lake observe stairs satoshi throw domain frown";

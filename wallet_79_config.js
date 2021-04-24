@@ -1,1 +1,1 @@
-var mnemonic = "artist jelly cattle home science equip camp aunt remind beef motion rate";
+var mnemonic = "embark pill empty bike capable project rebuild grid excuse honey wet mutual";

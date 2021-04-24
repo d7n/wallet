@@ -1,1 +1,1 @@
-var mnemonic = "survey unhappy update help logic business injury original corn witness clever hard";
+var mnemonic = "banner toss task hard soon detail thrive guess soccer forward baby fresh";

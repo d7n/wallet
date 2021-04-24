@@ -1,1 +1,1 @@
-var mnemonic = "gravity also siege sting unknown neutral repair soap setup rose wide unveil";
+var mnemonic = "weasel smooth stairs vehicle save demand unknown slight suffer butter lunar potato";

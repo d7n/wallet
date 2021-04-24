@@ -1,1 +1,1 @@
-var mnemonic = "market apology amused exercise fury write foot notice away excess chef picnic";
+var mnemonic = "derive awake twin radio mother base popular option casual liquid spike uncover";

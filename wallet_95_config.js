@@ -1,1 +1,1 @@
-var mnemonic = "ignore screen sock moment spice logic income insect culture divide wagon draft";
+var mnemonic = "century way injury gap laundry buzz over drink unable two regular neglect";

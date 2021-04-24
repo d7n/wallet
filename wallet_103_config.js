@@ -1,1 +1,1 @@
-var mnemonic = "heart prepare witness pencil biology impose skill moon fitness rug gown swamp";
+var mnemonic = "high power grow lake adjust consider enroll ready equal prosper gym permit";

@@ -1,1 +1,1 @@
-var mnemonic = "load luxury bind annual sample identify airport appear word laptop program direct";
+var mnemonic = "sheriff govern tape puppy sand chapter barely income wash fitness box rival";

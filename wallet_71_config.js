@@ -1,1 +1,1 @@
-var mnemonic = "ski mansion maid delay popular wash document empower cluster weasel size destroy";
+var mnemonic = "never seed found sibling fiber pluck control split possible soap elite biology";

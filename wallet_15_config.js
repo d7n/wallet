@@ -1,1 +1,1 @@
-var mnemonic = "hair radio enter easily member name coin desert critic cage similar mass";
+var mnemonic = "salt symbol pudding they wet exile proud weapon night ostrich woman foil";

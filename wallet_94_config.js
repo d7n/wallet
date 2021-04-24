@@ -1,1 +1,1 @@
-var mnemonic = "morning main decide truck broom monster drink welcome renew insect reveal first";
+var mnemonic = "muffin party midnight across forget ostrich option solid hello panther mom process";

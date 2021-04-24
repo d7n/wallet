@@ -1,1 +1,1 @@
-var mnemonic = "kitten wear senior best uncover any artefact cabin artist fossil dream hat";
+var mnemonic = "income daughter sister unveil where lake spatial dinner wrestle public tragic brother";

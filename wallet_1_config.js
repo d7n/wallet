@@ -1,1 +1,1 @@
-var mnemonic = "sausage symbol ramp dirt decorate another awesome course shallow foam sail mobile";
+var mnemonic = "tape mom bargain harbor shoulder dance olive very attend give follow bacon";

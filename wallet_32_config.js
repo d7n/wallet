@@ -1,1 +1,1 @@
-var mnemonic = "tell dog ability memory hidden such advance age various hire fury surface";
+var mnemonic = "erase vehicle donate catalog decade admit upon cargo soda account edge enter";

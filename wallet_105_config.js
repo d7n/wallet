@@ -1,1 +1,1 @@
-var mnemonic = "company soft obtain decade year upon enter garden peace when outer price";
+var mnemonic = "wire repair rubber goose thought mesh sing lab core ribbon agent burden";

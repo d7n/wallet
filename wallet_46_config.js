@@ -1,1 +1,1 @@
-var mnemonic = "shell soap lamp donate what object car husband inch lens air meadow";
+var mnemonic = "birth system version ball nature across govern evolve detail kiss dream helmet";

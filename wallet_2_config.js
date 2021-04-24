@@ -1,1 +1,1 @@
-var mnemonic = "become enforce hour grape actor swing plastic detect cruise various buzz federal";
+var mnemonic = "license amused later outdoor sausage network issue rescue unusual predict wire anxiety";

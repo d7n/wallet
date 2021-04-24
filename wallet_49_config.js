@@ -1,1 +1,1 @@
-var mnemonic = "income forget roof manual rather chicken happy airport pool derive convince verify";
+var mnemonic = "slot idea cement evoke cake fashion consider soon gossip drastic obvious airport";

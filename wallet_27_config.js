@@ -1,1 +1,1 @@
-var mnemonic = "just spice analyst syrup cricket list all story affair crouch weather oven";
+var mnemonic = "reform kangaroo muscle distance hour giggle usage smooth hobby vintage agent usage";

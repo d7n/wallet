@@ -1,1 +1,1 @@
-var mnemonic = "couple jump gravity pill mixture minimum unusual forum conduct toward satisfy manage";
+var mnemonic = "exist apart domain relax flag survey owner long doctor table despair miss";

@@ -1,1 +1,1 @@
-var mnemonic = "solution ecology nurse motor small wagon owner street school photo roast kitchen";
+var mnemonic = "local slide island kitchen crane dentist abuse gaze assist pipe original disagree";

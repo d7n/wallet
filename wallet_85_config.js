@@ -1,1 +1,1 @@
-var mnemonic = "kingdom rib mother weather system session primary visit fiscal wealth ski worry";
+var mnemonic = "insane clinic alley cigar caught riot buyer plug island wheel worth hint";

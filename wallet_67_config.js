@@ -1,1 +1,1 @@
-var mnemonic = "fog flat pass rubber perfect fee dentist quarter gesture grit earth isolate";
+var mnemonic = "lonely unknown flame reduce bulk unique feed cabin exotic target afford true";

@@ -1,1 +1,1 @@
-var mnemonic = "leader spoil then build team enroll hen earn rival upset baby steak";
+var mnemonic = "liberty tunnel dream decorate merry city camp cute sign federal swap cheese";

@@ -1,1 +1,1 @@
-var mnemonic = "discover uncover truck sail also injury hen true dirt deposit bullet like";
+var mnemonic = "potato network season occur angry soul more travel zebra team young exist";

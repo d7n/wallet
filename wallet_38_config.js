@@ -1,1 +1,1 @@
-var mnemonic = "castle deputy crash twin item few noodle gain erosion clerk toddler abstract";
+var mnemonic = "appear section piece mansion choice memory repeat excite hire valid slender thumb";

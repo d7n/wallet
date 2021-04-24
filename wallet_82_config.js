@@ -1,1 +1,1 @@
-var mnemonic = "candy dove festival acid second cradle pretty turkey decide nice toe submit";
+var mnemonic = "auto design reflect subway company miss acoustic silent asthma aunt stumble mix";

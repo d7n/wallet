@@ -1,1 +1,1 @@
-var mnemonic = "device charge typical jaguar major sentence topple actor bulb butter oyster sudden";
+var mnemonic = "olympic shove artwork table permit gather bread reflect surge gravity change retire";

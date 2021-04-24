@@ -1,1 +1,1 @@
-var mnemonic = "jeans fog fortune become wreck sausage hammer fuel middle wide pupil sing";
+var mnemonic = "sorry mansion attract fortune innocent brand nothing trap mouse picture approve now";

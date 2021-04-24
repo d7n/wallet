@@ -1,1 +1,1 @@
-var mnemonic = "fiscal grow art lava word jazz solid start violin fit soon warm";
+var mnemonic = "cliff debris vendor million hint avoid leisure paper despair quarter myth fragile";

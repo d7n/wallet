@@ -1,1 +1,1 @@
-var mnemonic = "honey clerk robot mail crucial idle life suspect agent stock illegal liar";
+var mnemonic = "venture neck electric dinosaur canal library student garment language wild know very";

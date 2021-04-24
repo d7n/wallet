@@ -1,1 +1,1 @@
-var mnemonic = "visual dial palace proof myth roof apart divide slush track liar unhappy";
+var mnemonic = "narrow tomato apart ankle venture clog crop pizza achieve other ecology bamboo";

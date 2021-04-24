@@ -1,1 +1,1 @@
-var mnemonic = "butter atom goose orphan diet sphere season fine tornado rapid runway enact";
+var mnemonic = "palace visual bright jacket behave learn gospel alien toss humble skin object";

@@ -1,1 +1,1 @@
-var mnemonic = "similar chimney rabbit hockey arch kind surround obscure elder example hurry absorb";
+var mnemonic = "ranch icon swing vacuum because detect series must ridge under garden cook";

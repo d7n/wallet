@@ -1,1 +1,1 @@
-var mnemonic = "debris inflict find manual they anchor share build napkin program trap salon";
+var mnemonic = "frog boring inject clever puzzle blood worth lyrics slender job snack service";

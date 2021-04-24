@@ -1,1 +1,1 @@
-var mnemonic = "search guilt deliver strike wrist march worth surge wear leave elephant segment";
+var mnemonic = "expose whisper dream violin remind physical charge victory winner equip join squirrel";

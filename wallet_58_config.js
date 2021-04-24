@@ -1,1 +1,1 @@
-var mnemonic = "weather odor custom alert pattern sense cream album country blade genre fever";
+var mnemonic = "fall fluid drip project slush evolve border innocent captain safe empower very";

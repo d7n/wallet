@@ -1,1 +1,1 @@
-var mnemonic = "pole seven human slab finger fox slam copy short spoil select raise";
+var mnemonic = "napkin group brain popular loud bird puzzle soft recycle order giraffe because";

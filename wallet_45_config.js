@@ -1,1 +1,1 @@
-var mnemonic = "muffin mountain festival energy social under sheriff process dad violin smart cotton";
+var mnemonic = "inmate roast canvas reveal already nut patch melt rocket flash property hybrid";

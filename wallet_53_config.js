@@ -1,1 +1,1 @@
-var mnemonic = "under celery liquid wish club search liar enable assault tool film mad";
+var mnemonic = "smoke sign age goddess maximum friend island delay normal boost elevator unveil";

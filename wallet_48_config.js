@@ -1,1 +1,1 @@
-var mnemonic = "wolf raw remove prepare design world month fortune half envelope lizard panic";
+var mnemonic = "shuffle maximum rebuild salon target prosper mistake animal nominee action quarter waste";

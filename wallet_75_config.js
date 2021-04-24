@@ -1,1 +1,1 @@
-var mnemonic = "vehicle tumble neither educate unknown pause visual joke hurry first tired bean";
+var mnemonic = "venture jar barely young wreck maze pact valley eager dad zoo census";

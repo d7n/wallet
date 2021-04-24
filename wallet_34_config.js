@@ -1,1 +1,1 @@
-var mnemonic = "priority damage black prosper jacket fish one sunset loop custom total inquiry";
+var mnemonic = "copy action churn doctor grass someone salute wheel fresh solar arrange train";

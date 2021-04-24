@@ -1,1 +1,1 @@
-var mnemonic = "sleep payment version mimic resist ivory scheme style picture indoor insect result";
+var mnemonic = "rule harsh resist this turtle clerk session scissors paper taste letter material";

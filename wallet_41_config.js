@@ -1,1 +1,1 @@
-var mnemonic = "jealous engine success knee dragon bamboo girl feed silver cereal fee minor";
+var mnemonic = "cloth hole note suggest dune beef achieve warm half device cruel foster";

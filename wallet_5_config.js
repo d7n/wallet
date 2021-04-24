@@ -1,1 +1,1 @@
-var mnemonic = "foam album drop trial draft subway moral budget pen unusual heart make";
+var mnemonic = "rent matrix sea aim woman junk they clutch result balance harvest squirrel";

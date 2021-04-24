@@ -1,1 +1,1 @@
-var mnemonic = "mass movie warm wine creek elephant skill peanut urban exhaust cream pelican";
+var mnemonic = "milk expand august when stick renew bone horror loan athlete grief paper";

@@ -1,1 +1,1 @@
-var mnemonic = "matter private few corn quality police section nasty mom unlock current bid";
+var mnemonic = "mix chase critic typical super lamp page lawsuit arrest antenna swear surge";

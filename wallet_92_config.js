@@ -1,1 +1,1 @@
-var mnemonic = "maid around twin width box meadow girl mansion cross stay blame fan";
+var mnemonic = "notable pluck goose company motion possible cash flavor wire young doctor tag";

@@ -1,1 +1,1 @@
-var mnemonic = "vocal vault plate flavor amateur parrot axis extra gate session wheat horse";
+var mnemonic = "case maximum key empty indicate onion glass whip trial obscure entry follow";

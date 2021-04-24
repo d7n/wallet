@@ -1,1 +1,1 @@
-var mnemonic = "text wrestle federal true grass scale body trick couch wood more live";
+var mnemonic = "stay example mixture kitten immense response bullet doll oven race nice praise";

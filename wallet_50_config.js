@@ -1,1 +1,1 @@
-var mnemonic = "hand napkin vehicle style pretty spider soup grow apart angry artwork silly";
+var mnemonic = "divorce roof endless picture liberty reward short size robot fragile volcano stadium";

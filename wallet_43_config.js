@@ -1,1 +1,1 @@
-var mnemonic = "liberty slab bubble north world shadow nephew blanket spread order bounce wrap";
+var mnemonic = "pear rubber visit escape one fancy butter filter deer sea summer fever";

@@ -1,1 +1,1 @@
-var mnemonic = "grunt company welcome ketchup grab harbor liberty merit erase evidence buddy forget";
+var mnemonic = "ketchup feature scorpion ordinary flag sure turn ginger detect apple ankle session";

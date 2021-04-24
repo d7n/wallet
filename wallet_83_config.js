@@ -1,1 +1,1 @@
-var mnemonic = "claim tunnel evoke mass coil knife crane skate bitter bullet butter narrow";
+var mnemonic = "boss industry lend game talent attract lonely excess today extend frequent side";

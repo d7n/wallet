@@ -1,1 +1,1 @@
-var mnemonic = "boss message give party draft stuff distance search enable shield senior boost";
+var mnemonic = "sword price ensure victory post draft solve token offer spell solid sketch";

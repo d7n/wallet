@@ -1,1 +1,1 @@
-var mnemonic = "fog gesture toy talent sugar olympic expect blood wire tilt tell quantum";
+var mnemonic = "basket fresh build slow wire display win dry seed news arrow vicious";

@@ -1,1 +1,1 @@
-var mnemonic = "around payment quick dynamic magic custom humble episode rate legend must bargain";
+var mnemonic = "ketchup fringe iron time clap fuel rural just option taxi lunch slab";

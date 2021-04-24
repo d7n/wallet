@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur cake easy word husband shoot pony team romance glow jazz outside";
+var mnemonic = "board income island able ignore hero cactus engine ghost kit fresh grief";

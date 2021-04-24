@@ -1,1 +1,1 @@
-var mnemonic = "jacket zero leopard outer grape ready wise raven hint possible end rescue";
+var mnemonic = "erosion nature firm struggle leave scatter galaxy theme soul design eagle miracle";

@@ -1,1 +1,1 @@
-var mnemonic = "deal rookie room exact clutch naive opinion cliff limb gas clown program";
+var mnemonic = "odor consider worry moral item hover equal analyst stone park road before";

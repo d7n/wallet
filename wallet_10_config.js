@@ -1,1 +1,1 @@
-var mnemonic = "disagree grace glow park mystery load mystery reason join limb purity road";
+var mnemonic = "truly make whale monster soup sample slide exit scheme warrior message metal";

@@ -1,1 +1,1 @@
-var mnemonic = "marriage urban six warrior shed maximum envelope manual dose season globe all";
+var mnemonic = "pave theory ship pool merge tourist analyst spell among already ceiling leg";

@@ -1,1 +1,1 @@
-var mnemonic = "chapter battle foster wood obtain equal shrug obey symptom seven taste pass";
+var mnemonic = "capable athlete salon elevator chicken faith apple blossom gospel ladder sense unlock";
