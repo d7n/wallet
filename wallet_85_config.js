@@ -1,1 +1,1 @@
-var mnemonic = "oxygen kite tennis help scheme hamster cloth vital wagon cricket coffee behave";
+var mnemonic = "sphere flat genuine bitter clap mistake attend divide oil meat tiny mass";

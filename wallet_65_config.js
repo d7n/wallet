@@ -1,1 +1,1 @@
-var mnemonic = "pelican snack inquiry caught winner chaos wheel silk expand slush insect scale";
+var mnemonic = "second kitten monster relief brand mango wolf surround twist insect maze birth";

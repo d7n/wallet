@@ -1,1 +1,1 @@
-var mnemonic = "emotion question step robot museum pulse empty divorce expose jump thing pattern";
+var mnemonic = "envelope lounge liar early alien debate letter faint flag desert question neglect";

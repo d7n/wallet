@@ -1,1 +1,1 @@
-var mnemonic = "before balcony cycle remember wire prepare soon unaware require section mouse boy";
+var mnemonic = "rotate pepper key execute beef average wash ecology jelly aerobic earn song";

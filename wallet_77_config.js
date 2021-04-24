@@ -1,1 +1,1 @@
-var mnemonic = "express october paddle pulse ghost mechanic surge choice surprise wool city devote";
+var mnemonic = "slam addict chief manage tail inmate jeans lava almost midnight desert among";

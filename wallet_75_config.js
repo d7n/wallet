@@ -1,1 +1,1 @@
-var mnemonic = "dinner vocal flip arrow flush curve find saddle doll fog dad ecology";
+var mnemonic = "obtain opinion shield spray window visual birth glass crater brass camera owner";

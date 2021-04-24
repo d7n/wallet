@@ -1,1 +1,1 @@
-var mnemonic = "filter liberty offer acquire envelope sheriff organ doctor torch business nature decline";
+var mnemonic = "final urban estate tumble essay busy you above man impact trash attend";

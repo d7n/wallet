@@ -1,1 +1,1 @@
-var mnemonic = "struggle erosion asset beauty merry deliver notable pact obscure eye kangaroo judge";
+var mnemonic = "forget sweet copy banner range boy portion engage cigar keen hope crane";

@@ -1,1 +1,1 @@
-var mnemonic = "belt copper wasp search asset become devote clay jelly pizza access impulse";
+var mnemonic = "fox tumble dirt stand vendor fame trap anger mammal cluster report exotic";

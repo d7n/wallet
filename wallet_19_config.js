@@ -1,1 +1,1 @@
-var mnemonic = "valley amount practice denial jealous become long dumb flip robust struggle job";
+var mnemonic = "van jump mobile afraid choice wave resource fossil bid seminar because mimic";

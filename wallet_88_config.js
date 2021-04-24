@@ -1,1 +1,1 @@
-var mnemonic = "champion cause kick milk long payment alter riot raven enrich genuine august";
+var mnemonic = "nothing defense father monster powder staff bag kiss machine upgrade panda damage";

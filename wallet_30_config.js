@@ -1,1 +1,1 @@
-var mnemonic = "region dress maze cute spare transfer divide tongue flower knock mango source";
+var mnemonic = "elbow bunker panic picture load large supreme pattern pistol public turkey cotton";

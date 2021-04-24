@@ -1,1 +1,1 @@
-var mnemonic = "link model remain service lift seed gasp entry verify alpha unknown liquid";
+var mnemonic = "later trumpet frown coil bench diagram industry candy exotic chalk gate arena";

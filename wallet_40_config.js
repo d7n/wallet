@@ -1,1 +1,1 @@
-var mnemonic = "yellow blind brief hungry execute private outer expect laptop fiscal captain sell";
+var mnemonic = "inject uncle crew knock word absurd charge fox cupboard whale hunt truck";

@@ -1,1 +1,1 @@
-var mnemonic = "manual iron doctor enable prevent obey future cash forget among benefit cargo";
+var mnemonic = "riot proof coil unfair blanket skull boring short charge cram swift drop";

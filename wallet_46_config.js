@@ -1,1 +1,1 @@
-var mnemonic = "hold surge rate lady pony cigar nose soap gasp merry giant once";
+var mnemonic = "apology emotion total capital empty kidney poem aerobic pass language enrich exotic";

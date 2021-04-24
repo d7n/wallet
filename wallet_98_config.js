@@ -1,1 +1,1 @@
-var mnemonic = "comic pear science vessel mule flee deer above coil fatal soul round";
+var mnemonic = "comfort scissors prevent garden adult dwarf bicycle athlete cross tube already tape";

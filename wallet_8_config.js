@@ -1,1 +1,1 @@
-var mnemonic = "deliver answer length more hockey cook crush rookie swim violin snack almost";
+var mnemonic = "lend name immune fragile neutral rain goat cat hole acoustic appear draft";

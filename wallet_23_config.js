@@ -1,1 +1,1 @@
-var mnemonic = "canvas distance during clinic twice arena clap analyst amount moral author task";
+var mnemonic = "neither where kite expire output regret park grocery faith cheese advance poet";

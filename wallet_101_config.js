@@ -1,1 +1,1 @@
-var mnemonic = "fringe correct quote dignity honey fame resist equal oak raw return matter";
+var mnemonic = "wall retreat urban crop arena coil garden figure drastic prosper resemble leg";

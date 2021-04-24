@@ -1,1 +1,1 @@
-var mnemonic = "route quantum carbon silly reduce text crucial light rib wet dove rib";
+var mnemonic = "violin travel couple resist remain valid ahead meadow army magnet layer movie";

@@ -1,1 +1,1 @@
-var mnemonic = "toy note bird gold bitter weapon yard dice girl struggle lend soda";
+var mnemonic = "alert illness arctic type noodle spray hurdle park result calm inquiry begin";

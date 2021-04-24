@@ -1,1 +1,1 @@
-var mnemonic = "mix swear key picture anger frequent employ brick hint someone comic coyote";
+var mnemonic = "number hobby skull volcano spring come rely craft dumb intact burden profit";

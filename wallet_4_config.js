@@ -1,1 +1,1 @@
-var mnemonic = "income bulb wrap blush punch book member chair season sister potato elegant";
+var mnemonic = "burst dune garment strategy catch obtain object trigger elder club donor physical";

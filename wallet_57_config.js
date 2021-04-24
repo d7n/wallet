@@ -1,1 +1,1 @@
-var mnemonic = "mix elegant garbage snap fitness two always advice shaft joke luggage chuckle";
+var mnemonic = "anger dash slogan pluck issue argue climb muscle still leaf weather beef";

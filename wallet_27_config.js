@@ -1,1 +1,1 @@
-var mnemonic = "planet wisdom gloom donor slab crane buddy home mirror follow copper dove";
+var mnemonic = "tumble domain globe yellow under setup hobby sun member bunker glide stumble";

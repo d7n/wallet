@@ -1,1 +1,1 @@
-var mnemonic = "ginger defy category shell father oyster pear trim always enter task become";
+var mnemonic = "combine dial domain twist sheriff loan outdoor talent vanish human verify pass";

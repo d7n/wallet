@@ -1,1 +1,1 @@
-var mnemonic = "empty chef goose air glide budget climb venue lounge gym sunny lawn";
+var mnemonic = "elbow this yellow van grain addict film together now ice expect excite";

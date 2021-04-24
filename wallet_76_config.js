@@ -1,1 +1,1 @@
-var mnemonic = "exhaust broom define tip dress pass fiscal laundry eight marble pause gown";
+var mnemonic = "federal increase cream very baby grape struggle scan way remind visa hole";

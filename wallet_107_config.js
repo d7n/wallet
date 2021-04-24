@@ -1,1 +1,1 @@
-var mnemonic = "dice tilt guard book pumpkin brother assist mass stool anxiety fat account";
+var mnemonic = "wrist tone dice pumpkin stairs story oak pigeon gasp balcony tool hockey";

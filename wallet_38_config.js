@@ -1,1 +1,1 @@
-var mnemonic = "result anger panel net crisp mule dragon popular universe stable bone maid";
+var mnemonic = "dust general bullet suffer clap school vapor heart collect vibrant minor hamster";

@@ -1,1 +1,1 @@
-var mnemonic = "brush cool bitter provide inject document solve blur render cousin process focus";
+var mnemonic = "thumb pupil urge peanut pulse issue link duck frog tired budget rug";

@@ -1,1 +1,1 @@
-var mnemonic = "assist maple element harvest bench final sell suspect bottom occur mirror fetch";
+var mnemonic = "raccoon narrow fit inform top tired feel husband wear decrease urge boring";

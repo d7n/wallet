@@ -1,1 +1,1 @@
-var mnemonic = "jelly menu involve under keen carbon tell hero raw doctor retire eternal";
+var mnemonic = "suit capable enemy liberty broccoli night prefer high base scale drop clock";

@@ -1,1 +1,1 @@
-var mnemonic = "truly organ family child pizza duty blossom flock treat near reveal anger";
+var mnemonic = "million layer pottery very replace meadow rocket dad salute slush child glad";

@@ -1,1 +1,1 @@
-var mnemonic = "bike repeat carbon crawl jeans smoke catch globe shaft book morning surge";
+var mnemonic = "label chicken address equip buddy audit struggle business scrap adult main news";

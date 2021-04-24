@@ -1,1 +1,1 @@
-var mnemonic = "alpha swallow canvas snack dragon frequent wonder general between exile brush favorite";
+var mnemonic = "still pair voyage route police cause insect polar glove door sponsor balcony";

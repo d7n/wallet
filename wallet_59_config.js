@@ -1,1 +1,1 @@
-var mnemonic = "isolate used dice cube jelly humor skin obscure inflict repair brave subway";
+var mnemonic = "build physical chef thank hurdle stand wall license end ivory pistol include";

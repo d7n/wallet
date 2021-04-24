@@ -1,1 +1,1 @@
-var mnemonic = "unable wrap damp table obvious still hen promote purse saddle unknown glare";
+var mnemonic = "mistake retire scissors misery weekend post act convince test nature size artwork";

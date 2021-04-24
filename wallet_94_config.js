@@ -1,1 +1,1 @@
-var mnemonic = "barely brave zoo face party put february upset pencil please hamster dash";
+var mnemonic = "bring jaguar home upgrade pig deliver purity replace tomato position mountain olive";

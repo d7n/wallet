@@ -1,1 +1,1 @@
-var mnemonic = "filter begin acid dose one wolf rescue ignore inch crucial face say";
+var mnemonic = "whisper album crowd bronze risk brass camera birth subway urge useful camera";

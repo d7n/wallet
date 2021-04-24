@@ -1,1 +1,1 @@
-var mnemonic = "boring kitchen robust total fire purity potato wedding express atom world dirt";
+var mnemonic = "repeat raven find salute reveal next snow shoulder brain coyote surge traffic";

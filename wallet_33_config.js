@@ -1,1 +1,1 @@
-var mnemonic = "fine stock surge juice owner flash daring citizen prevent catch salad opera";
+var mnemonic = "square hat mansion sudden leopard save orbit tank notable frequent example toilet";

@@ -1,1 +1,1 @@
-var mnemonic = "skull inquiry giggle oven hurdle deer bleak elite force injury hammer iron";
+var mnemonic = "acid winter mammal dwarf live lunch chronic find young muffin poem hope";

@@ -1,1 +1,1 @@
-var mnemonic = "aware initial poet you cigar balcony total gown medal advice limb join";
+var mnemonic = "empower chief foil embark kind east orient visual speak clip leg angle";

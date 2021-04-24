@@ -1,1 +1,1 @@
-var mnemonic = "hill travel utility enemy key theory solve cannon flag prosper attitude evoke";
+var mnemonic = "century income cry clinic address medal milk fragile royal fantasy creek citizen";

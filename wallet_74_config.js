@@ -1,1 +1,1 @@
-var mnemonic = "half century produce walnut vital pizza vast shuffle move track host hill";
+var mnemonic = "island actor fancy raw sniff unveil flavor carpet ozone guilt bottom kidney";

@@ -1,1 +1,1 @@
-var mnemonic = "home account attitude hope alert seek spring lamp lumber inject actual cloud";
+var mnemonic = "pole roast where vacant luggage salon veteran aspect gravity hobby what fury";

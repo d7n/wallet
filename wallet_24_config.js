@@ -1,1 +1,1 @@
-var mnemonic = "major celery region diet drop reduce capital used faculty abandon remain history";
+var mnemonic = "sock during miracle easily knife find foil vessel enjoy enforce smooth rule";

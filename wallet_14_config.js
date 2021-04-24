@@ -1,1 +1,1 @@
-var mnemonic = "worry winner damp gold canyon great harbor lyrics axis frown receive file";
+var mnemonic = "merry addict world napkin absurd supply bachelor clown equal across grunt feature";

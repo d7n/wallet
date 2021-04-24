@@ -1,1 +1,1 @@
-var mnemonic = "couple dress material tell train table angry clerk toddler uncover pen wage";
+var mnemonic = "clock orbit abandon keep ripple huge piece talk labor analyst tornado garbage";

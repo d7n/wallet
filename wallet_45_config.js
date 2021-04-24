@@ -1,1 +1,1 @@
-var mnemonic = "want minimum mango twin net say tomorrow tell blossom fee document solar";
+var mnemonic = "enter cause heavy ladder filter panda coral unknown human finish brave liquid";

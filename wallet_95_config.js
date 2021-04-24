@@ -1,1 +1,1 @@
-var mnemonic = "path damp soccer valley exotic whisper seven spike mule goose circle inner";
+var mnemonic = "broken artefact benefit tomato kiwi athlete staff vendor impose valid bracket safe";

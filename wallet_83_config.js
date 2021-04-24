@@ -1,1 +1,1 @@
-var mnemonic = "still drill term major clerk dentist extra cement exile brief focus will";
+var mnemonic = "bring donor sleep tide glare bundle cousin volume saddle parrot carry all";

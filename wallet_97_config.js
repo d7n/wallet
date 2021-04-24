@@ -1,1 +1,1 @@
-var mnemonic = "humor farm action intact opinion agent motion pupil cry fly squeeze lazy";
+var mnemonic = "daughter key trumpet interest innocent quick already multiply guide example drive chef";

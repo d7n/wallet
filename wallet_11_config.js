@@ -1,1 +1,1 @@
-var mnemonic = "plug domain knee detail license core birth affair scissors fork original spare";
+var mnemonic = "day before elite puzzle blind immune robust crazy evolve mandate method bike";

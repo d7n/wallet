@@ -1,1 +1,1 @@
-var mnemonic = "fog gallery current silent cool leisure gentle turn describe aisle spawn spot";
+var mnemonic = "hard assault mandate token busy goddess switch heart flame nuclear bounce garbage";

@@ -1,1 +1,1 @@
-var mnemonic = "accident fatal frozen own fork paddle disagree edit core bonus pull build";
+var mnemonic = "manual sleep pilot rude vintage rack enroll garment remember denial rely person";

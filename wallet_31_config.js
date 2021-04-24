@@ -1,1 +1,1 @@
-var mnemonic = "fuel picture kangaroo matter grid monitor middle cluster light deputy elbow gather";
+var mnemonic = "legal alarm deal second comfort rude giggle distance predict put inherit ahead";

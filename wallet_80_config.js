@@ -1,1 +1,1 @@
-var mnemonic = "wreck gown taxi cage twice material loan leader power three fence endorse";
+var mnemonic = "prevent hope ignore correct evidence borrow practice history size top error rule";

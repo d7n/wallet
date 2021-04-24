@@ -1,1 +1,1 @@
-var mnemonic = "whisper wife medal filter hurdle summer float attitude rival soft pause coral";
+var mnemonic = "cluster fly season bottom already purse hazard junk truly comic unaware rail";

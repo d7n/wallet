@@ -1,1 +1,1 @@
-var mnemonic = "inflict abuse spread list safe recall dress panel width reunion shed slight";
+var mnemonic = "other siren battle knee tiger kind olive clinic radio ask prize bottom";

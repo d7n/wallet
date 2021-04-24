@@ -1,1 +1,1 @@
-var mnemonic = "vibrant open diary help response top scrub stool quit token fade fun";
+var mnemonic = "keen dawn wall lunch way useless position secret flush reason ready already";

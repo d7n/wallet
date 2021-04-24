@@ -1,1 +1,1 @@
-var mnemonic = "cherry judge medal divorce post tumble athlete detect name hundred rate spin";
+var mnemonic = "mistake dentist unable shock expect corn lock gift junk adapt bone knock";

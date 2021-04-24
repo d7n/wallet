@@ -1,1 +1,1 @@
-var mnemonic = "abstract grape fee display famous rigid cave guard essay calm soul sunset";
+var mnemonic = "gravity shoulder desert clown funny cause asthma army unfold wing genius another";

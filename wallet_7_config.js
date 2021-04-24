@@ -1,1 +1,1 @@
-var mnemonic = "melt still unveil cargo rose army license indicate actress dress best injury";
+var mnemonic = "kit cruise machine text armed coral nature tilt merit add castle trophy";

@@ -1,1 +1,1 @@
-var mnemonic = "magic awesome liquid taste snack cousin month alone assault observe oppose zone";
+var mnemonic = "flight leaf renew scheme idea raven crowd giant heavy vast chicken devote";

@@ -1,1 +1,1 @@
-var mnemonic = "tower rocket idle initial crew receive shrimp cloud draft obey connect prevent";
+var mnemonic = "game faculty milk harbor animal belt fatigue whale mail number enforce broken";

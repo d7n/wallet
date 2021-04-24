@@ -1,1 +1,1 @@
-var mnemonic = "filter hero liquid chronic exotic vacant spring cycle relax raw february vocal";
+var mnemonic = "run casino team supreme mistake arch parade scissors legal airport island sibling";

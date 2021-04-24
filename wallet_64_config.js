@@ -1,1 +1,1 @@
-var mnemonic = "want adapt result life cloth above liar ketchup worry hamster wrong adult";
+var mnemonic = "debate pumpkin zone knife case gorilla human cigar balcony merry output evidence";

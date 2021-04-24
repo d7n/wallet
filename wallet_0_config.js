@@ -1,1 +1,1 @@
-var mnemonic = "total matter main treat ski soldier diesel near discover parrot unfold leader";
+var mnemonic = "forum gift method alcohol hub behind rhythm marble wagon logic clarify off";

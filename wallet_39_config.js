@@ -1,1 +1,1 @@
-var mnemonic = "drop swallow source lock then credit satoshi diamond delay inherit captain group";
+var mnemonic = "muffin observe change angry fantasy sentence convince decline sock grocery elder manage";

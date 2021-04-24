@@ -1,1 +1,1 @@
-var mnemonic = "view answer lady olympic rebel wrong truck portion cushion evoke era uncover";
+var mnemonic = "message rack choice save child craft brother clown survey source celery identify";

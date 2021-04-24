@@ -1,1 +1,1 @@
-var mnemonic = "permit analyst claim section front zero drop burden case lens warfare clay";
+var mnemonic = "trip flight clap cost discover tell awkward shrug latin absurd prison eagle";

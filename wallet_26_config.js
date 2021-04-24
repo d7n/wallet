@@ -1,1 +1,1 @@
-var mnemonic = "input trumpet skill purse mouse shift clown twenty verify fame side average";
+var mnemonic = "question devote concert news burger boss sign capital obvious call polar armed";

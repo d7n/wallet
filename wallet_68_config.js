@@ -1,1 +1,1 @@
-var mnemonic = "silver harbor invest cluster quote chunk slam senior demise exercise tiny blush";
+var mnemonic = "park apart speed gas surface indoor mix course melt glow rally fitness";

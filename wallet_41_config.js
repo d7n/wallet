@@ -1,1 +1,1 @@
-var mnemonic = "actual hire desert music valve body crucial audit cotton solar pumpkin awesome";
+var mnemonic = "smile differ awful polar climb pull chest ginger they amazing float swim";

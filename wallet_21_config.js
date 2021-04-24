@@ -1,1 +1,1 @@
-var mnemonic = "tree unaware charge element flavor tackle cycle virus pottery subway win ozone";
+var mnemonic = "immense brave such crisp kangaroo crumble awful season afford debris medal disagree";

@@ -1,1 +1,1 @@
-var mnemonic = "special trigger debate burden noise course festival puppy dirt mystery all unique";
+var mnemonic = "trouble system road october similar property group future payment seek mechanic boat";

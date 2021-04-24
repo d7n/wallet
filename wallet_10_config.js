@@ -1,1 +1,1 @@
-var mnemonic = "face venture soul shoulder arch begin gorilla twice seven angry welcome illness";
+var mnemonic = "drop wild wrong warm congress world arrange liar wide limb mango labor";

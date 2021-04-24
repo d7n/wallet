@@ -1,1 +1,1 @@
-var mnemonic = "tattoo situate today sell combine alarm kind actress deny crazy elder arrest";
+var mnemonic = "pitch wheel goat narrow silent scrap tackle media force napkin toddler loyal";

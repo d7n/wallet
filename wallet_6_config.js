@@ -1,1 +1,1 @@
-var mnemonic = "law ancient weather amazing bracket deal manage asset sand unknown chapter stamp";
+var mnemonic = "leg reduce pond address bitter spare atom broken bulb when very main";

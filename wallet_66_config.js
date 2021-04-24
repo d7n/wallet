@@ -1,1 +1,1 @@
-var mnemonic = "same uncle bargain knife midnight price machine scan jewel situate pave pistol";
+var mnemonic = "festival version clinic dolphin stumble alcohol girl rebel decorate fiber shadow lake";
