@@ -1,1 +1,1 @@
-var mnemonic = "web merry tool board prefer click law remember find quality write kind";
+var mnemonic = "gas report pass detail share gather strategy then dignity manual photo supreme";

@@ -1,1 +1,1 @@
-var mnemonic = "car stable intact innocent snap page excess choice shy elegant gate nothing";
+var mnemonic = "coffee crater muscle toss gentle choice husband seven voyage already animal vacuum";

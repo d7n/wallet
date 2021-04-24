@@ -1,1 +1,1 @@
-var mnemonic = "calm endorse interest need inch polar around error state fashion place live";
+var mnemonic = "evolve wet flame brief during afford section suffer oblige taxi autumn wrestle";

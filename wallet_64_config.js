@@ -1,1 +1,1 @@
-var mnemonic = "food weasel reunion drill whisper car hero canoe ladder business river observe";
+var mnemonic = "invest double lumber paper tumble siren argue sail silk trend patch case";

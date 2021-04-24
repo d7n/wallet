@@ -1,1 +1,1 @@
-var mnemonic = "pottery never december method current delay junior promote never trade frequent memory";
+var mnemonic = "space device shine satisfy unable toddler potato dilemma empty mystery unit polar";

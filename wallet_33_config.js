@@ -1,1 +1,1 @@
-var mnemonic = "cloth area slender squirrel sick enter feel minute correct cliff priority search";
+var mnemonic = "travel twice fame borrow naive blur inside crystal armed panther task letter";

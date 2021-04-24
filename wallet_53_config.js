@@ -1,1 +1,1 @@
-var mnemonic = "click chimney clutch fish hamster friend asset fish matter jelly mouse dress";
+var mnemonic = "rebel surge cruise certain pill pool agent margin broccoli table receive panther";

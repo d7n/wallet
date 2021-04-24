@@ -1,1 +1,1 @@
-var mnemonic = "sausage pulse mom horn craft electric record cake garment arm truth early";
+var mnemonic = "paper party sweet alert seat october welcome brother orbit onion illegal carpet";

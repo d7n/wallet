@@ -1,1 +1,1 @@
-var mnemonic = "scrap wave solid salt dog lesson satoshi ready actual fluid diesel pudding";
+var mnemonic = "jelly charge upon agree blast divert account salute prison when strike winner";

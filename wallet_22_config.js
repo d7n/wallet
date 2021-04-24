@@ -1,1 +1,1 @@
-var mnemonic = "daughter argue ginger arrive rescue coconut cloud whale pen pioneer flight emerge";
+var mnemonic = "ceiling code unique behave omit fat mechanic duty hammer pen advance mansion";

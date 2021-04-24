@@ -1,1 +1,1 @@
-var mnemonic = "mutual town wonder suggest hair human cloth south conduct noble dynamic length";
+var mnemonic = "execute silent inflict original curious acid bread final media deny manage pill";

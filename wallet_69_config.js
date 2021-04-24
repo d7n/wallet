@@ -1,1 +1,1 @@
-var mnemonic = "noodle oxygen metal umbrella hand host foam promote ladder stumble cute demise";
+var mnemonic = "hub beef goat yard airport home expire suggest brisk observe march display";

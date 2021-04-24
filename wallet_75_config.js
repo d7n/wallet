@@ -1,1 +1,1 @@
-var mnemonic = "tail delay toilet genuine click grid ring chase inflict correct target since";
+var mnemonic = "riot swift winner spoil memory hundred lemon exhibit hidden kite clarify lyrics";

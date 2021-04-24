@@ -1,1 +1,1 @@
-var mnemonic = "question vague reopen trust electric camera ribbon want opera bargain priority quality";
+var mnemonic = "moment stand tide destroy guilt length agent antique grass lens palace mask";

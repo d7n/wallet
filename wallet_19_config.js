@@ -1,1 +1,1 @@
-var mnemonic = "smooth admit average deputy expect slide uniform doll point mean common fatigue";
+var mnemonic = "clerk twist recipe hungry carry exotic provide sure negative ripple group volume";

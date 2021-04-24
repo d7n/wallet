@@ -1,1 +1,1 @@
-var mnemonic = "inflict skate soldier access earn ignore pitch snake life park tiny latin";
+var mnemonic = "churn lava orient flee senior few cactus artwork abandon caught spirit flock";

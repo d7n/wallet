@@ -1,1 +1,1 @@
-var mnemonic = "video truck wagon payment vast exhibit clown empower unfold travel goddess room";
+var mnemonic = "awkward area catch fat gym wheel off wage hurt icon erosion bonus";

@@ -1,1 +1,1 @@
-var mnemonic = "amused rocket intact found dynamic velvet merry hint fortune betray bar panic";
+var mnemonic = "core canvas crew brother blush current dragon small uncover crucial razor friend";

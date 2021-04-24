@@ -1,1 +1,1 @@
-var mnemonic = "estate flock term hybrid blouse capable suspect private cinnamon flock slab awful";
+var mnemonic = "rebel satisfy gym fan mercy sunny artefact nominee swing radio security average";

@@ -1,1 +1,1 @@
-var mnemonic = "mind file rule exchange search diet disease join cruise artefact sound program";
+var mnemonic = "valid teach lens enable before put alone ancient metal wage february immense";

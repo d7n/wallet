@@ -1,1 +1,1 @@
-var mnemonic = "green proof bottom guess trouble burger inspire ask pretty salad spike draft";
+var mnemonic = "surround sister chaos involve step can gas lizard evoke lunar praise reflect";

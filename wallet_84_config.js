@@ -1,1 +1,1 @@
-var mnemonic = "drink tenant potato write ice noodle guard thought wonder menu purpose harvest";
+var mnemonic = "alien moral stage robot cube series shield skill foil north again master";

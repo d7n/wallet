@@ -1,1 +1,1 @@
-var mnemonic = "drastic define glad online wood fresh little goat tonight ranch soccer silly";
+var mnemonic = "noodle poet theory stone warm response forum broccoli match crisp crystal route";

@@ -1,1 +1,1 @@
-var mnemonic = "case camp force echo limb laptop rural envelope practice decline grant child";
+var mnemonic = "dwarf nominee total tip airport usual cigar file mercy audit tool deputy";

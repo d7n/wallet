@@ -1,1 +1,1 @@
-var mnemonic = "net candy type bike bicycle off blossom increase minute shiver enemy panther";
+var mnemonic = "carpet deny true common world useless melt barely pen hollow build grid";

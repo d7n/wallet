@@ -1,1 +1,1 @@
-var mnemonic = "that warrior gun clutch bounce autumn various basket train rival orchard zone";
+var mnemonic = "brain behind drink magic salon motor wish dose trial pattern general miracle";

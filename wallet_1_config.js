@@ -1,1 +1,1 @@
-var mnemonic = "boring fiction syrup reward miss wash wise core trim vendor dutch endorse";
+var mnemonic = "fitness jeans faith brother lawn original pencil goose october payment stomach awake";

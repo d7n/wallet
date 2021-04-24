@@ -1,1 +1,1 @@
-var mnemonic = "require acid much mutual tattoo nominee grit cinnamon model evidence pattern similar";
+var mnemonic = "seat glory burden panic teach frost success indicate blur interest push peanut";

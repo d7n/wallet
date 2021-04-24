@@ -1,1 +1,1 @@
-var mnemonic = "icon vast zebra calm police food shadow cereal meat august file cook";
+var mnemonic = "adult carry reform cabin belt strike infant creek wine gasp sign trash";

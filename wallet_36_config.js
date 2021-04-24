@@ -1,1 +1,1 @@
-var mnemonic = "risk doll nose enhance food scissors three mutual hammer potato silver amused";
+var mnemonic = "pause multiply kiwi castle pitch turkey usual dinner pulp element inform door";

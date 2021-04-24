@@ -1,1 +1,1 @@
-var mnemonic = "sport metal hurdle wait bulk frequent emerge zone outer loyal become hundred";
+var mnemonic = "amused guess board perfect maple unlock prefer basic gorilla improve portion crunch";

@@ -1,1 +1,1 @@
-var mnemonic = "grace diet century own cruise still snap scout equip joke curious trash";
+var mnemonic = "awful torch session collect pudding desert merge tiny bamboo deer bid system";

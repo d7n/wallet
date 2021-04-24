@@ -1,1 +1,1 @@
-var mnemonic = "husband fine call boat outside traffic tonight tag hollow original maze response";
+var mnemonic = "beauty sword empty episode muffin couple range grocery session time program weekend";

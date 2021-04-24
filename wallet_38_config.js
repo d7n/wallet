@@ -1,1 +1,1 @@
-var mnemonic = "able apart obtain hat update brass sadness gospel else grace face mixture";
+var mnemonic = "orient fun speak left shield involve present trumpet rescue time volume skill";

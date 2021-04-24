@@ -1,1 +1,1 @@
-var mnemonic = "helmet hungry dice citizen hybrid treat vote donkey talent insect armor metal";
+var mnemonic = "olive illness decorate faint dog hobby census version depend art wreck jungle";

@@ -1,1 +1,1 @@
-var mnemonic = "confirm desert tree army history relief duty crater grunt olympic balcony title";
+var mnemonic = "wrong scrub edit danger hurt fall sunny lift proud retire resource oblige";

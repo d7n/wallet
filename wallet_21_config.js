@@ -1,1 +1,1 @@
-var mnemonic = "illness dwarf sock uncle permit tired final side vivid vault stay air";
+var mnemonic = "van diamond cargo road diary hero suit panda worry impose welcome echo";

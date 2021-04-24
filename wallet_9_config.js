@@ -1,1 +1,1 @@
-var mnemonic = "minimum quarter tube turkey bone figure noble wheel sponsor primary cost silent";
+var mnemonic = "dinosaur lend melody behave blush alter boil maple split aunt token gift";

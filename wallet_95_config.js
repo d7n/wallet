@@ -1,1 +1,1 @@
-var mnemonic = "okay blood fold try life exist drive swallow awesome tunnel mandate abuse";
+var mnemonic = "health muffin armor sad zone link organ emotion wedding hub easy radar";

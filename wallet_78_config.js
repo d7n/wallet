@@ -1,1 +1,1 @@
-var mnemonic = "rule prison put direct spot party hire foil always source track clarify";
+var mnemonic = "young cruise junk staff recipe bar asthma eagle aisle ketchup column must";

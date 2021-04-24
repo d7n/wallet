@@ -1,1 +1,1 @@
-var mnemonic = "atom afraid lesson assist attack girl impulse dial ready venue math assist";
+var mnemonic = "veteran patrol festival vocal cool adjust easily toward forest barely alpha ecology";

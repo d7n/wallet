@@ -1,1 +1,1 @@
-var mnemonic = "delay fence post solve crack then suspect legend advance comic radar leisure";
+var mnemonic = "grocery shoulder orphan vague chest expand peanut swift key real endorse immense";

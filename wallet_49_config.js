@@ -1,1 +1,1 @@
-var mnemonic = "refuse viable visit cliff spend source grab staff push volcano heavy wear";
+var mnemonic = "stock under lobster ribbon curtain boy galaxy blind chat notable crouch motion";

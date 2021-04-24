@@ -1,1 +1,1 @@
-var mnemonic = "inspire afraid edit cook wasp build gym online put trash action rail";
+var mnemonic = "corn burden egg path baby expect decline garage suggest insect bamboo fuel";

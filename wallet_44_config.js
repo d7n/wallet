@@ -1,1 +1,1 @@
-var mnemonic = "pepper hamster drum edge decline armed burst emerge index copper attend ice";
+var mnemonic = "pear rose viable payment banana nature kid move collect network museum prepare";

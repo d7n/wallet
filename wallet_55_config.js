@@ -1,1 +1,1 @@
-var mnemonic = "tuna pepper orange power fox balcony wave digital trouble that tattoo spare";
+var mnemonic = "bubble benefit prepare fold detail long frost into cost size robot two";

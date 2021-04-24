@@ -1,1 +1,1 @@
-var mnemonic = "sketch electric ready blanket wealth hair bid antique utility april chronic ceiling";
+var mnemonic = "spray dish minimum need barely jazz alone rack silver sound neck dolphin";

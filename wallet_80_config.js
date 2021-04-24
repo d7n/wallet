@@ -1,1 +1,1 @@
-var mnemonic = "capable like panda soul girl piece virus better into income wet motor";
+var mnemonic = "age among zebra noodle depart bread pyramid basket student cluster grow ten";

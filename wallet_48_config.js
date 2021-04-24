@@ -1,1 +1,1 @@
-var mnemonic = "budget embody maximum pitch quick bacon iron exchange knock video never proof";
+var mnemonic = "candy nut track problem shaft morning select youth system shop host consider";

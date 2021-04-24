@@ -1,1 +1,1 @@
-var mnemonic = "embody sail slim only call monitor rabbit impact search throw junior rug";
+var mnemonic = "pen leave cradle still cactus oppose scene chunk source spare poverty brave";

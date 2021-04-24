@@ -1,1 +1,1 @@
-var mnemonic = "sense stand transfer tank lesson neither awkward elegant diamond mesh lamp once";
+var mnemonic = "square gun text magnet design dignity margin beyond acid ready neutral demise";

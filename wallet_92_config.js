@@ -1,1 +1,1 @@
-var mnemonic = "survey churn couch polar cotton advance still divide task good often game";
+var mnemonic = "mechanic crop poem summer debris catalog black winter inform connect car alcohol";

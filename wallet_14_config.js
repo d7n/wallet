@@ -1,1 +1,1 @@
-var mnemonic = "sweet garlic slow junior razor walnut pulse state melt autumn robust frequent";
+var mnemonic = "enforce now bleak recycle review build lazy dizzy hurt name possible universe";

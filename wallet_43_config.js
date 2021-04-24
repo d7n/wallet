@@ -1,1 +1,1 @@
-var mnemonic = "west woman van mad nature burden involve quiz scrap client dismiss bounce";
+var mnemonic = "fetch clown rare route print model venue sport word toward document current";

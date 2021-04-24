@@ -1,1 +1,1 @@
-var mnemonic = "walk ranch over sock focus solar inquiry exit place mixture human senior";
+var mnemonic = "mercy bronze mule satisfy still supreme struggle boring mystery year blossom book";

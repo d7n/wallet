@@ -1,1 +1,1 @@
-var mnemonic = "holiday session try creek base rough sand enforce swap vapor staff ahead";
+var mnemonic = "donor deal notable either robust auto film result basic assume shoe panel";

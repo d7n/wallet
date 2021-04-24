@@ -1,1 +1,1 @@
-var mnemonic = "awake scan garment notable system skull bomb twelve hub round left share";
+var mnemonic = "differ aerobic elder afford toilet slow rude random another essence chuckle still";

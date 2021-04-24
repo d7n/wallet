@@ -1,1 +1,1 @@
-var mnemonic = "organ adjust term sort vocal half cost purchase grow invite double address";
+var mnemonic = "cabbage paddle great diet pull earn jelly during nerve outside upset sample";

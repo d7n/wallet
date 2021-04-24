@@ -1,1 +1,1 @@
-var mnemonic = "grab enhance coast cross enhance decorate wool assist love clown hair genre";
+var mnemonic = "say club embark tackle clever then harvest relief verify miss wreck sing";

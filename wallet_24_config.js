@@ -1,1 +1,1 @@
-var mnemonic = "bottom current effort coyote aerobic green edit sorry sort make daughter excess";
+var mnemonic = "sand enjoy method rigid setup whip audit practice great melody butter athlete";

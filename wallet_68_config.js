@@ -1,1 +1,1 @@
-var mnemonic = "snow muscle ceiling pistol what sock canyon climb wave border design gossip";
+var mnemonic = "nut suspect now borrow van where fantasy guitar slight danger stomach lizard";

@@ -1,1 +1,1 @@
-var mnemonic = "index arch rich magnet shaft autumn alien saddle butter banner near spice";
+var mnemonic = "abandon cinnamon before picnic banana nose change kangaroo clever orbit tonight couple";

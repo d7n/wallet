@@ -1,1 +1,1 @@
-var mnemonic = "couple shoot orbit fly burden castle island chapter dawn beauty topic vendor";
+var mnemonic = "boil surge token there math giant concert trap enroll tank asthma fun";

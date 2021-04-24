@@ -1,1 +1,1 @@
-var mnemonic = "drink huge hedgehog torch used concert clump staff alcohol exchange force weather";
+var mnemonic = "dumb actor never worry fatal usual flush purpose inside hobby onion proof";

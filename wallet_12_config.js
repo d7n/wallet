@@ -1,1 +1,1 @@
-var mnemonic = "cloud rocket trip second curious whale pact zone human hand what ill";
+var mnemonic = "also enact rival unfair radar click hospital enable capable image amount unveil";

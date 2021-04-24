@@ -1,1 +1,1 @@
-var mnemonic = "piano rude gaze trial scene spring found armed link rapid capital exotic";
+var mnemonic = "moment rebel tornado bachelor innocent sign park water raccoon reduce wrong monitor";

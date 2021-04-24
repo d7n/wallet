@@ -1,1 +1,1 @@
-var mnemonic = "false all renew love effort cereal define owner dignity radio before circle";
+var mnemonic = "question mistake chapter inmate disorder thought bacon guard mother van pool present";

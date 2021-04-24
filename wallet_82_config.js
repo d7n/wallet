@@ -1,1 +1,1 @@
-var mnemonic = "movie plate vessel buffalo equip trial sheriff palm black mean flock pig";
+var mnemonic = "bridge chaos gossip copper float citizen cram talent twice chair retreat mom";

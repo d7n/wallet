@@ -1,1 +1,1 @@
-var mnemonic = "runway yard entry kingdom palm oxygen wrestle entry sauce health buzz brush";
+var mnemonic = "novel token glass book machine chief game abuse only rough raccoon offer";

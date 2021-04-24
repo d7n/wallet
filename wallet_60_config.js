@@ -1,1 +1,1 @@
-var mnemonic = "mass muscle sail air crater tide happy immense sing push amount book";
+var mnemonic = "empower feature distance crash yellow bag peasant wide ecology wait anxiety drip";

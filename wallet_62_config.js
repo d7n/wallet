@@ -1,1 +1,1 @@
-var mnemonic = "crisp aware method drop slender orchard bronze economy churn lazy law ordinary";
+var mnemonic = "library history absurd general sign illness capable figure cross antique immense profit";

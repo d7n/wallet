@@ -1,1 +1,1 @@
-var mnemonic = "title meadow soul hawk popular narrow soup square erosion exit call kick";
+var mnemonic = "fault acoustic north escape danger festival divert antique mix reject innocent powder";

@@ -1,1 +1,1 @@
-var mnemonic = "cave walk clock destroy rose target throw pigeon tag gorilla bottom digital";
+var mnemonic = "candy ordinary leisure trick muscle high arch scrub design crane empower stumble";

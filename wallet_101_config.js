@@ -1,1 +1,1 @@
-var mnemonic = "sphere depth school occur pair night energy rather crush save box extra";
+var mnemonic = "pioneer pigeon fix broccoli dove grab mutual turn enjoy poet chronic scheme";

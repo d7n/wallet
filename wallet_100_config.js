@@ -1,1 +1,1 @@
-var mnemonic = "equal deputy link enter iron history napkin bright butter chalk travel blade";
+var mnemonic = "build perfect obscure can song build twenty report enable velvet brush blind";

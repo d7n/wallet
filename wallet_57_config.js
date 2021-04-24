@@ -1,1 +1,1 @@
-var mnemonic = "midnight must trade view force buffalo ivory calm betray kitchen purchase taste";
+var mnemonic = "photo opinion naive lucky multiply domain copper neglect also scene peace rely";

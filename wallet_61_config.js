@@ -1,1 +1,1 @@
-var mnemonic = "there luxury result case ankle bunker carbon weapon mass run rough almost";
+var mnemonic = "fall young inherit bunker peace twice shaft inherit cost gasp casino online";

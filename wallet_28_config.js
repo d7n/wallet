@@ -1,1 +1,1 @@
-var mnemonic = "earth obey credit urge deputy dog envelope laugh kitchen luggage shallow firm";
+var mnemonic = "famous dolphin option man crawl feel lesson enrich amused inspire wagon oxygen";

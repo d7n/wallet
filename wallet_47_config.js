@@ -1,1 +1,1 @@
-var mnemonic = "flush grief hire captain empty wagon pioneer erase custom labor service pulp";
+var mnemonic = "tonight embark any ensure wisdom glow scrap afraid betray purchase cinnamon express";

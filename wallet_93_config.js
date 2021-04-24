@@ -1,1 +1,1 @@
-var mnemonic = "plastic title put pear receive share amazing tourist word harvest hybrid turn";
+var mnemonic = "squirrel celery abstract office seek company drive strike plastic insane else cup";

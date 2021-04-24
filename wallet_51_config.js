@@ -1,1 +1,1 @@
-var mnemonic = "clock lamp confirm judge able opera cake point explain day tell lonely";
+var mnemonic = "dream army repair direct skirt core fragile music narrow degree tail coach";

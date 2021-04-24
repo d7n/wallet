@@ -1,1 +1,1 @@
-var mnemonic = "crane upper right woman exclude above shuffle village prevent fork drive brick";
+var mnemonic = "deliver appear slice detail proof luxury symptom pyramid woman orphan rapid lottery";

@@ -1,1 +1,1 @@
-var mnemonic = "bubble onion kiss aerobic anxiety bless easy column ripple cube cannon meat";
+var mnemonic = "dutch erode tool size soon elite patrol actor lumber charge consider drama";

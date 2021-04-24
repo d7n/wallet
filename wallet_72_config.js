@@ -1,1 +1,1 @@
-var mnemonic = "shine explain ramp charge castle glove ill engine high alpha loyal click";
+var mnemonic = "engine antenna quarter hidden wagon ready step enforce crucial alarm want pistol";

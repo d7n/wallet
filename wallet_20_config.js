@@ -1,1 +1,1 @@
-var mnemonic = "wire demise bird electric bottom rather tiny toward below key dentist shallow";
+var mnemonic = "inner olive crystal boat harbor ignore draft assume donate civil tuna opinion";

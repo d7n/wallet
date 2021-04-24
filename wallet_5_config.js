@@ -1,1 +1,1 @@
-var mnemonic = "outside record elegant aerobic elder survey resource easily isolate sketch melt list";
+var mnemonic = "unaware eager recipe cereal bar change always spider suit note uncle cliff";
