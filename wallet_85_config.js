@@ -1,1 +1,1 @@
-var mnemonic = "popular believe tiger orchard citizen exist crane program shove exile loyal retreat";
+var mnemonic = "misery artefact injury lonely invest real imitate snap guard embark stairs ring";

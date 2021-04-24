@@ -1,1 +1,1 @@
-var mnemonic = "fire south bullet toward theme potato essence veteran fortune merit nerve excite";
+var mnemonic = "coral zoo jump goddess riot broccoli wife eyebrow clip crawl sun today";

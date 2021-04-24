@@ -1,1 +1,1 @@
-var mnemonic = "ability soccer almost stove pulp clarify above kitchen ceiling above bunker flower";
+var mnemonic = "kite beach yellow arctic pass myself maid nest turkey melody inmate prevent";

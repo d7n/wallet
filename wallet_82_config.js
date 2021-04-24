@@ -1,1 +1,1 @@
-var mnemonic = "used doll math pact loan adapt secret also feel pass north rival";
+var mnemonic = "tooth head green faculty start because bronze ski sure trim inject ability";

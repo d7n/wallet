@@ -1,1 +1,1 @@
-var mnemonic = "arch deer iron together knife immense exist confirm dignity second grass orange";
+var mnemonic = "company renew mansion history razor verb venue rare robot absent inquiry cabbage";

@@ -1,1 +1,1 @@
-var mnemonic = "force tell wave album enrich cruel unable husband define assault reward ordinary";
+var mnemonic = "fresh burger van reason source artwork calm visual refuse often mask adjust";

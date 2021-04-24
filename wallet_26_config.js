@@ -1,1 +1,1 @@
-var mnemonic = "year enable claw wear decrease aunt balcony nuclear caught tenant slide explain";
+var mnemonic = "leader input erosion believe moment flush pass route mistake border street differ";

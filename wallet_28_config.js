@@ -1,1 +1,1 @@
-var mnemonic = "million lamp envelope fog meadow devote pony blanket admit never edge square";
+var mnemonic = "flower pitch box man claim color sense tide guard primary high between";

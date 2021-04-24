@@ -1,1 +1,1 @@
-var mnemonic = "dose foster jealous tell city total staff lounge sketch tiny toy aunt";
+var mnemonic = "treat nature inmate mail race ridge elegant gate meat soft hurry sustain";

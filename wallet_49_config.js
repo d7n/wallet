@@ -1,1 +1,1 @@
-var mnemonic = "critic eternal level broom monkey predict cushion hope raw edge helmet genre";
+var mnemonic = "ticket issue jungle used theory monitor bonus blouse exit trial hard myself";

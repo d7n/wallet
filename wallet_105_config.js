@@ -1,1 +1,1 @@
-var mnemonic = "path lecture pitch grass afraid payment hair unusual average unable canyon round";
+var mnemonic = "furnace reveal autumn system bring length knee resist frozen theory rapid square";

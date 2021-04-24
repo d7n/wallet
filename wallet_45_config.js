@@ -1,1 +1,1 @@
-var mnemonic = "open crew bitter clock palm pledge goat cry cigar digital joy grain";
+var mnemonic = "resource play man nurse hunt ostrich charge nurse mask anxiety flavor category";

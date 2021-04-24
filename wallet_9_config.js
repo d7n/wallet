@@ -1,1 +1,1 @@
-var mnemonic = "dad nothing ripple argue sunset mobile pigeon absent antenna monitor amazing video";
+var mnemonic = "noodle proud buyer cloud that alcohol around artist little scare match monster";

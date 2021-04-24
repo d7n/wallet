@@ -1,1 +1,1 @@
-var mnemonic = "great extra lend oxygen license crack trend concert student doll effort visit";
+var mnemonic = "must rebel soul afraid sport bring brand fetch degree east stomach robot";

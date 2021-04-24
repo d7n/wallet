@@ -1,1 +1,1 @@
-var mnemonic = "slam cannon stem repeat random tip zero lawsuit ask like coconut display";
+var mnemonic = "concert final syrup derive galaxy engage obey reveal napkin debris repeat afraid";

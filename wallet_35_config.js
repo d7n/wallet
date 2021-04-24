@@ -1,1 +1,1 @@
-var mnemonic = "carpet detect position matrix also vacant load electric jar iron hint fashion";
+var mnemonic = "awesome knock apology swim spread keen thumb wage dutch heavy tube bicycle";

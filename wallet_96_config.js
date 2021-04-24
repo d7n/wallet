@@ -1,1 +1,1 @@
-var mnemonic = "use finish split room imitate have piano when all agree split ancient";
+var mnemonic = "slush auto useful genre object issue fat shock unhappy amazing annual deliver";

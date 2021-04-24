@@ -1,1 +1,1 @@
-var mnemonic = "aware camera concert slice educate age leopard theory park scatter roast sudden";
+var mnemonic = "celery autumn jazz category fatal luxury gaze mask ordinary once october process";

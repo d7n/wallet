@@ -1,1 +1,1 @@
-var mnemonic = "rookie exile skill used cube ribbon bottom skull river cook awful mouse";
+var mnemonic = "spray pioneer verb voyage plastic tank easy disagree hybrid dust dirt enjoy";

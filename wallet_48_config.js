@@ -1,1 +1,1 @@
-var mnemonic = "nuclear rude bless book into pink chef impose stable swap empower derive";
+var mnemonic = "wish similar canvas twin hire light hat bicycle cliff square quote chef";

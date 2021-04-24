@@ -1,1 +1,1 @@
-var mnemonic = "brisk door resource unaware plate shell affair joy wife junior solar still";
+var mnemonic = "rookie control jelly example scale tilt armor expand drop maximum cat list";

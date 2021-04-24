@@ -1,1 +1,1 @@
-var mnemonic = "ocean tooth teach laundry citizen amount solid april entire venue invest lottery";
+var mnemonic = "seat cruise around canoe kangaroo bundle mandate letter pen decrease dash topic";

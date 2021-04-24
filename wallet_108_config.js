@@ -1,1 +1,1 @@
-var mnemonic = "choose raw note combine wolf agent power loan cabbage only profit master";
+var mnemonic = "river load response color combine ostrich remove excuse hand pet happy organ";

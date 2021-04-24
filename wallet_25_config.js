@@ -1,1 +1,1 @@
-var mnemonic = "ivory afford endorse element battle vehicle dilemma diesel manage diary sleep kangaroo";
+var mnemonic = "inmate chimney absurd addict strike leaf camp custom rule churn heavy emerge";

@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit super stuff buzz outdoor verify glow pudding screen slender salute price";
+var mnemonic = "buddy capable square tourist narrow wing pride grace cricket dizzy dwarf situate";

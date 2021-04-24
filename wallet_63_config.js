@@ -1,1 +1,1 @@
-var mnemonic = "series tuition panel inspire unable cook divide loop twenty pink page actual";
+var mnemonic = "grow enrich monster price crop march wool nurse planet wheel embrace plunge";

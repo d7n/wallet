@@ -1,1 +1,1 @@
-var mnemonic = "foot wide evil later calm glow glue fault gauge owner layer pool";
+var mnemonic = "hill boring price differ pepper check grant scrub ring patch tunnel repair";

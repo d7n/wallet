@@ -1,1 +1,1 @@
-var mnemonic = "collect three day differ armor lion hole way fault among dentist biology";
+var mnemonic = "vicious number quality flower match give gossip cake parent borrow goddess pet";

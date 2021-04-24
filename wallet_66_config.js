@@ -1,1 +1,1 @@
-var mnemonic = "cupboard air margin ostrich album weird wear unveil young battle napkin gaze";
+var mnemonic = "ill veteran shell jazz divorce feature web alter hole sea faint select";

@@ -1,1 +1,1 @@
-var mnemonic = "middle tide stadium dizzy risk giant hobby hero snap only tunnel fetch";
+var mnemonic = "predict company useless jealous type steak vacant artist frequent word crop shoulder";

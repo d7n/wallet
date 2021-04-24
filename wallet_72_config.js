@@ -1,1 +1,1 @@
-var mnemonic = "album next lucky topic almost mad rule gravity nothing brand skull blast";
+var mnemonic = "age health stable owner undo letter route issue friend embody ten hurdle";

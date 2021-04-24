@@ -1,1 +1,1 @@
-var mnemonic = "child muscle feed pink thank aware notable lava crawl enroll popular alone";
+var mnemonic = "sea obvious reduce script subject unique false pizza during dawn size abandon";

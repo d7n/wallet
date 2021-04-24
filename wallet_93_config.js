@@ -1,1 +1,1 @@
-var mnemonic = "strike unaware clutch advice good execute weekend upper culture symbol onion blur";
+var mnemonic = "area salmon author mother double inch click junk theme destroy vapor benefit";

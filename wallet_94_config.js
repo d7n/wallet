@@ -1,1 +1,1 @@
-var mnemonic = "rocket stuff bacon kick action wisdom gate milk advice fox giant trouble";
+var mnemonic = "where scrub gun supply together alone frozen place steak crystal ghost figure";

@@ -1,1 +1,1 @@
-var mnemonic = "ring enjoy setup wild awful bullet cry ball yellow spare wait pool";
+var mnemonic = "cable idea armed pass genre advice shove sense device buffalo spawn rice";

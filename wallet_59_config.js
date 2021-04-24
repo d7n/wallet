@@ -1,1 +1,1 @@
-var mnemonic = "warfare sudden bubble obey blood renew innocent crime palace inform produce heavy";
+var mnemonic = "invest trust gauge eagle mammal execute budget goat wall cattle electric quick";

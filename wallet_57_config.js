@@ -1,1 +1,1 @@
-var mnemonic = "moment jelly blur knock cause recall grape survey sight poet sea rubber";
+var mnemonic = "acquire supply brick indoor sail crisp tackle gorilla disease mimic logic detail";

@@ -1,1 +1,1 @@
-var mnemonic = "lamp name sunny practice cabbage skin have roof awkward pitch try vapor";
+var mnemonic = "truth mad method beef crop logic shadow raccoon spread audit connect inject";

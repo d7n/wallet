@@ -1,1 +1,1 @@
-var mnemonic = "aerobic tower industry foil cable equal taxi donate oblige assist gentle soup";
+var mnemonic = "version adjust neither tone point drastic major scatter awful inspire metal borrow";

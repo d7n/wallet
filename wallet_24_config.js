@@ -1,1 +1,1 @@
-var mnemonic = "raise shove theory letter artwork august unaware unveil husband salad oil garbage";
+var mnemonic = "near goddess voice still story term excess toast inquiry whip cross position";

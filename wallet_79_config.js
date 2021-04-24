@@ -1,1 +1,1 @@
-var mnemonic = "either garment ribbon solar hole crime what bracket age burst end sponsor";
+var mnemonic = "skill slim power notice display answer green female much swim candy boil";

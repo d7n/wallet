@@ -1,1 +1,1 @@
-var mnemonic = "spell tower apart glad emotion muscle zebra company peanut pink pizza wisdom";
+var mnemonic = "shoe pause effort delay struggle ball balance finger volcano blame orchard novel";

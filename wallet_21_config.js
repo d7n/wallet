@@ -1,1 +1,1 @@
-var mnemonic = "opera immune average empower forget crash rough diamond approve resist purpose obey";
+var mnemonic = "return risk forget pumpkin all hello work resist judge broken okay novel";

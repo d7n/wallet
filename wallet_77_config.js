@@ -1,1 +1,1 @@
-var mnemonic = "sport usual vote member patrol act coconut cruel build usual vendor armed";
+var mnemonic = "thunder canyon churn poverty shiver banana fiscal ghost glimpse path enhance romance";

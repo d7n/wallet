@@ -1,1 +1,1 @@
-var mnemonic = "inside odor family voice switch fiction hole junk twelve shell peanut clump";
+var mnemonic = "library shoulder drink vendor frog help mandate they decline grape menu biology";

@@ -1,1 +1,1 @@
-var mnemonic = "target nuclear recipe switch spread desert remember dawn problem dish develop swim";
+var mnemonic = "chaos crowd during safe control pizza round sword case useless raccoon inspire";

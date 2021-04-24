@@ -1,1 +1,1 @@
-var mnemonic = "amazing album wolf section wild deer crime bus upon spatial zebra normal";
+var mnemonic = "execute hunt swamp dose drop canoe swap jazz victory ladder hockey bacon";

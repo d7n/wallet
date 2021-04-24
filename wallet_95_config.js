@@ -1,1 +1,1 @@
-var mnemonic = "athlete vibrant good special athlete style youth endless erupt abuse civil despair";
+var mnemonic = "license immune outdoor beyond forum pluck detect crack improve funny nature start";

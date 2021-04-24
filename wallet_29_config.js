@@ -1,1 +1,1 @@
-var mnemonic = "poem boil match actual engage silly illness cheese talk oval write almost";
+var mnemonic = "clog speed crunch liar loyal slow kitchen twice smart shiver ramp code";

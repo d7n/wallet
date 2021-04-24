@@ -1,1 +1,1 @@
-var mnemonic = "hunt swear faculty border target fox jewel embark shed thing floor hard";
+var mnemonic = "zero screen impact width amateur soon kitchen budget theme orchard clap lazy";

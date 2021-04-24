@@ -1,1 +1,1 @@
-var mnemonic = "suspect good culture dial obscure narrow jelly fun fresh feel lonely cruise";
+var mnemonic = "drop volume light garden federal boost history liar own arrive air between";

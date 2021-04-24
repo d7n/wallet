@@ -1,1 +1,1 @@
-var mnemonic = "build iron region pole ozone shaft dance volume result flame connect ozone";
+var mnemonic = "gain salad absent bulb enter front suffer hole come lady crew prize";

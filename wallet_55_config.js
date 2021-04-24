@@ -1,1 +1,1 @@
-var mnemonic = "best old false poet office stereo labor kangaroo metal awful airport head";
+var mnemonic = "tone legend wing crack fluid behave hedgehog assault rough yard monster tell";

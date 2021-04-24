@@ -1,1 +1,1 @@
-var mnemonic = "fitness host knock digital sudden hunt monkey general rigid clump rival gloom";
+var mnemonic = "because make leave process cube shove climb word fault acoustic carbon dial";

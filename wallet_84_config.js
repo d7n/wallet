@@ -1,1 +1,1 @@
-var mnemonic = "fire super vivid strong best people always kit dinner always amount raise";
+var mnemonic = "plate dinosaur bundle note urge glove magnet recall summer rival piano oval";

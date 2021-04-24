@@ -1,1 +1,1 @@
-var mnemonic = "harsh object found review fiscal vocal casual salt corn tip frozen vessel";
+var mnemonic = "blouse hidden laundry pool spray aim hard endless office round fall unfold";

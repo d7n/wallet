@@ -1,1 +1,1 @@
-var mnemonic = "apple manage boost slide canvas secret pair sand opera arctic stock change";
+var mnemonic = "define dream tongue trend nasty divert pink journey idea glare camera harvest";

@@ -1,1 +1,1 @@
-var mnemonic = "wonder dignity enough minute umbrella style spy arch hat uncle certain million";
+var mnemonic = "domain ill feed predict ordinary ethics account asthma leaf employ polar call";

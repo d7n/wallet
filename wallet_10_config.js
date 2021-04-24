@@ -1,1 +1,1 @@
-var mnemonic = "salute owner energy surge insane laugh movie fire segment pencil fitness patrol";
+var mnemonic = "secret trouble speed hover bubble pencil crew march tag response pole village";

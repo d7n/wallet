@@ -1,1 +1,1 @@
-var mnemonic = "owner sick able daring stock sketch sort auto olympic around winner later";
+var mnemonic = "half debris fall stay decline often fury stomach resist rare surprise collect";

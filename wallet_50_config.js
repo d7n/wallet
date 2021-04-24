@@ -1,1 +1,1 @@
-var mnemonic = "correct mirror feed blood rocket unit lawn action girl company display type";
+var mnemonic = "famous food apology insane fat poem oblige toward doll sting waste flash";

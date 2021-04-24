@@ -1,1 +1,1 @@
-var mnemonic = "gaze jump audit anger cloud damp column intact slot tumble later chapter";
+var mnemonic = "kick actress gather normal target million vessel honey barrel guess tone burger";

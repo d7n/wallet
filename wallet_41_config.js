@@ -1,1 +1,1 @@
-var mnemonic = "electric trash wheel ridge magnet immune imitate involve fat scrap nurse drip";
+var mnemonic = "order volcano unknown buzz evolve shiver mule present pelican edge manage throw";

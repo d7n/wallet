@@ -1,1 +1,1 @@
-var mnemonic = "gas unique matrix session hour joke chimney behave opera common team vanish";
+var mnemonic = "inspire cram alien unaware manage develop oxygen problem fantasy timber palm panther";

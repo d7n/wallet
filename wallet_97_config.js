@@ -1,1 +1,1 @@
-var mnemonic = "shiver coyote stage jelly fashion figure access arrive spawn bicycle mom denial";
+var mnemonic = "behind tunnel business police buddy blast town tired critic atom penalty apple";

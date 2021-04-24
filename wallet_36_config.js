@@ -1,1 +1,1 @@
-var mnemonic = "choice fly verb laptop need middle lunch cabin capable dose enlist ripple";
+var mnemonic = "donate pepper afraid chief genuine knife sport remember cross junior honey flame";

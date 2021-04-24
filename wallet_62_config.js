@@ -1,1 +1,1 @@
-var mnemonic = "onion write review champion return wool peanut scout lazy twelve amazing prefer";
+var mnemonic = "behind spend just twice hole push fetch abstract joy real casual size";

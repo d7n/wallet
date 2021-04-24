@@ -1,1 +1,1 @@
-var mnemonic = "orient wrong pioneer crowd escape mirror fish insect clinic sudden hospital open";
+var mnemonic = "sound decide town arrest hour prosper license strike abstract tape fall neck";

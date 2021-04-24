@@ -1,1 +1,1 @@
-var mnemonic = "tank vibrant film hole deny puppy language grocery eight biology jacket please";
+var mnemonic = "noble interest hire vanish gaze vocal deputy mushroom decorate hire tenant crew";

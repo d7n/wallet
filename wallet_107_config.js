@@ -1,1 +1,1 @@
-var mnemonic = "hire bracket fit boring swarm cereal mouse coast stereo nature city clinic";
+var mnemonic = "evoke live resemble catch tiny canoe draw scene number current special know";

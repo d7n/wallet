@@ -1,1 +1,1 @@
-var mnemonic = "common year edit exact model sugar police amazing make across dress dish";
+var mnemonic = "brisk acquire deposit expect swarm umbrella guide please rebel donkey gospel flavor";

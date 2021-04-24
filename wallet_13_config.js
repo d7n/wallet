@@ -1,1 +1,1 @@
-var mnemonic = "protect car doctor jeans total inmate undo traffic source clap roast child";
+var mnemonic = "item wheel insane kick sun mass error smart census course fly base";

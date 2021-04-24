@@ -1,1 +1,1 @@
-var mnemonic = "tail mesh expect public swap domain team curve opinion nice caught choose";
+var mnemonic = "offer pig audit person twist above guitar bunker arrow seven city park";

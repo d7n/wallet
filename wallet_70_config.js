@@ -1,1 +1,1 @@
-var mnemonic = "desk knife large robot slogan employ ethics limb tobacco bid modify collect";
+var mnemonic = "soccer citizen memory tiny lend bless comfort finger knock roof recall yellow";

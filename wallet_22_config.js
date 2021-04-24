@@ -1,1 +1,1 @@
-var mnemonic = "must brave ship heart error accident echo uphold wrap push firm salute";
+var mnemonic = "october image forward then cheese robot dwarf scrub gadget ahead predict timber";

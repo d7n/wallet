@@ -1,1 +1,1 @@
-var mnemonic = "forum learn betray link segment close pulp athlete pig unaware situate hurdle";
+var mnemonic = "siren photo tilt sketch sail hand glue motion pave firm twice thumb";

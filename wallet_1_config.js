@@ -1,1 +1,1 @@
-var mnemonic = "guess execute couple man outside table brain margin rich aware toy level";
+var mnemonic = "concert inflict despair card cigar similar torch thumb wool flee cram worth";

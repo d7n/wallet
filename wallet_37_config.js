@@ -1,1 +1,1 @@
-var mnemonic = "phone hobby pole borrow mouse gentle pyramid wine tower wheel goose mix";
+var mnemonic = "approve utility crane will nuclear angry pattern stereo burst borrow brick daring";

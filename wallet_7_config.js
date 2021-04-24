@@ -1,1 +1,1 @@
-var mnemonic = "palm divorce gym correct during oyster access patient abstract year interest meat";
+var mnemonic = "ranch nut nest faint decorate hammer middle body virtual reward number elite";

@@ -1,1 +1,1 @@
-var mnemonic = "hill ginger true robust oxygen pluck purse host myth demand coach evolve";
+var mnemonic = "prize animal nut category pride vital jealous foster occur point deer gravity";

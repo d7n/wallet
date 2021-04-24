@@ -1,1 +1,1 @@
-var mnemonic = "cup napkin delay fan dial glance orbit usual because rate divert attitude";
+var mnemonic = "impulse reflect pudding cloth town brick later problem case west giggle print";

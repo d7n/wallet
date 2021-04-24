@@ -1,1 +1,1 @@
-var mnemonic = "scheme giant grain stand slim jump avocado buddy game fork erase day";
+var mnemonic = "acoustic charge outdoor spice clog badge cattle cake blade pony task iron";

@@ -1,1 +1,1 @@
-var mnemonic = "job claim dance wine vacuum target hidden utility attitude pipe error assault";
+var mnemonic = "broom tourist nut envelope shell crash youth fish hurry ozone brown bachelor";

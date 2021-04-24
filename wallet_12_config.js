@@ -1,1 +1,1 @@
-var mnemonic = "soda domain extra frequent tumble hen must casino result shiver sting ball";
+var mnemonic = "orange rough evoke best crime pen tent mail fiction peace jaguar anchor";

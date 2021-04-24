@@ -1,1 +1,1 @@
-var mnemonic = "retire issue pyramid cluster nature minute program depend useless drum same soldier";
+var mnemonic = "dilemma kitten pond afraid transfer sauce cricket blur evidence satisfy cattle forget";

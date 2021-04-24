@@ -1,1 +1,1 @@
-var mnemonic = "donor rotate rug test shallow spoil enough kingdom bacon crouch glance fruit";
+var mnemonic = "valid object city pottery fiscal act cram remember basic blur bike desert";

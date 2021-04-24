@@ -1,1 +1,1 @@
-var mnemonic = "version must piece around rain december crush ceiling inject fox hunt curve";
+var mnemonic = "quit thing embrace odor decline soup dizzy picture glue jazz have lesson";

@@ -1,1 +1,1 @@
-var mnemonic = "cloth shoulder bench find vacant puppy coyote feel hamster maze celery service";
+var mnemonic = "cricket auto claim sentence fever master security audit snake wet universe pyramid";

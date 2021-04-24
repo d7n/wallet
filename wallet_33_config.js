@@ -1,1 +1,1 @@
-var mnemonic = "grid lens noble summer tooth seat jazz bulk ahead denial between grape";
+var mnemonic = "secret million stool write during blush iron champion vanish head affair horn";

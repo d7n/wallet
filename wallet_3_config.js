@@ -1,1 +1,1 @@
-var mnemonic = "vocal hockey wife sleep empower pistol nephew prison advice runway layer ski";
+var mnemonic = "sea snake hero economy job where resource stool two better liberty resist";

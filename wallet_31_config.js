@@ -1,1 +1,1 @@
-var mnemonic = "wedding swift oblige detail delay cloth hurdle sign artefact correct depend conduct";
+var mnemonic = "repair raccoon eternal quarter dust parrot cost average table slim poet wide";

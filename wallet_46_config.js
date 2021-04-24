@@ -1,1 +1,1 @@
-var mnemonic = "orbit middle shrimp develop during vicious drastic blossom riot egg priority royal";
+var mnemonic = "extend fiction begin urge cinnamon kick state curve water usual face quote";

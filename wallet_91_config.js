@@ -1,1 +1,1 @@
-var mnemonic = "order busy gain ethics sense iron life learn team mom enlist chicken";
+var mnemonic = "anger piece beach prevent various buyer divert swing cart glory soul defense";
