@@ -1,1 +1,1 @@
-var mnemonic = "noise jewel gym warfare wedding enough mechanic mystery laptop crime camp slight";
+var mnemonic = "balance video battle grow liberty orient estate cloth infant attend pull prosper";

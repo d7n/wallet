@@ -1,1 +1,1 @@
-var mnemonic = "veteran stock turtle occur glass anchor wise acid scene team fat couple";
+var mnemonic = "result carry erase display pepper exit island wood lucky cushion shock lens";

@@ -1,1 +1,1 @@
-var mnemonic = "diagram fee private dice duty ethics banana over can speak notice hub";
+var mnemonic = "hobby hand alone police gadget moral husband sustain kitten expose talent traffic";

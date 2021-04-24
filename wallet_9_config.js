@@ -1,1 +1,1 @@
-var mnemonic = "zone worry unfold arm thank crisp chapter industry leisure ramp spy lottery";
+var mnemonic = "daring seat cheese leg author focus embark forget ready bachelor nothing wheel";

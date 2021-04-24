@@ -1,1 +1,1 @@
-var mnemonic = "derive fog health apart indoor exclude deny parent save total focus lawn";
+var mnemonic = "renew amount cannon access phrase magnet history lock lunch again remove flee";

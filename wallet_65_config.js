@@ -1,1 +1,1 @@
-var mnemonic = "dash faculty work round word youth summer island more confirm oven process";
+var mnemonic = "cloud dad goose you hold midnight guide tomato detect chair craft vocal";

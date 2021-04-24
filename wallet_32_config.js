@@ -1,1 +1,1 @@
-var mnemonic = "danger art hollow chief hint asthma lawn puzzle gaze enter finger race";
+var mnemonic = "woman table vocal dutch bid double salt hat joy inquiry muscle amount";

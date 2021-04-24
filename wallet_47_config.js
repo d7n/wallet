@@ -1,1 +1,1 @@
-var mnemonic = "fiber give hover control sick energy faculty pilot phrase scatter follow battle";
+var mnemonic = "across mimic dish eager naive stairs kitchen embark thrive degree stage pistol";

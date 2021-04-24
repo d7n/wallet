@@ -1,1 +1,1 @@
-var mnemonic = "finish debris heavy pelican gain spatial visual winter jazz slight pretty snap";
+var mnemonic = "armor sound announce close muscle million sound pen digital soap cry member";

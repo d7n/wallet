@@ -1,1 +1,1 @@
-var mnemonic = "brief little save mirror dizzy truly bachelor elite cloth wagon arrange high";
+var mnemonic = "supply island citizen fox impact vast tool cousin oil key random flower";

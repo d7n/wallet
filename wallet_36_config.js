@@ -1,1 +1,1 @@
-var mnemonic = "crawl piece timber age audit stumble one twice enjoy sad keep more";
+var mnemonic = "stone orient dust lava onion recall penalty siege upon mushroom diary grass";

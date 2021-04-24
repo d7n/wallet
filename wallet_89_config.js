@@ -1,1 +1,1 @@
-var mnemonic = "trust extra wine agent vital huge art silly juice october normal piece";
+var mnemonic = "mix share setup feed bulk setup boil faculty enroll coin fresh trap";

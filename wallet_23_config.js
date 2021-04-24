@@ -1,1 +1,1 @@
-var mnemonic = "drink curve shop thing first embrace index creek pilot entry wrap devote";
+var mnemonic = "rigid boy fiscal luggage enough cost explain fashion elegant ancient feel visual";

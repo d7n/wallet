@@ -1,1 +1,1 @@
-var mnemonic = "orange immense scrub primary tissue leader all stay trade myself hover toast";
+var mnemonic = "letter define include tunnel message other sunny subway seminar shuffle giraffe inject";

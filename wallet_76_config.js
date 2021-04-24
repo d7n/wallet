@@ -1,1 +1,1 @@
-var mnemonic = "start kit net south indoor cliff crack fine print deliver aware gather";
+var mnemonic = "tip chair belt exotic extend six team twenty equip among mask segment";

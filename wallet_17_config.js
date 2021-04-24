@@ -1,1 +1,1 @@
-var mnemonic = "fix manual pull obey stomach method example renew junior know vicious zoo";
+var mnemonic = "salute snow benefit pill napkin school cat bless kitten ready live task";

@@ -1,1 +1,1 @@
-var mnemonic = "salad rose grain shop loop anchor awful involve income honey brave erosion";
+var mnemonic = "section wisdom screen fire reduce adjust bean walnut casual wrist address barrel";

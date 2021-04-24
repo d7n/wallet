@@ -1,1 +1,1 @@
-var mnemonic = "spoon hybrid quiz elephant knee tent blind gun utility runway dog render";
+var mnemonic = "meadow horn situate ankle exclude song sad desk bacon success track muscle";

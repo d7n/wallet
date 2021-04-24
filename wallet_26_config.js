@@ -1,1 +1,1 @@
-var mnemonic = "build grain citizen craft wood energy excess vendor employ scene barely crucial";
+var mnemonic = "minute real either february pencil enjoy common pony solid public gesture live";

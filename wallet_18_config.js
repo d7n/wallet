@@ -1,1 +1,1 @@
-var mnemonic = "episode shaft coconut fork cradle expose witness license usual under wrist radio";
+var mnemonic = "canal wish pudding stamp social use faith globe frozen satisfy august garlic";

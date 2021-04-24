@@ -1,1 +1,1 @@
-var mnemonic = "uphold until kiss want pluck forward project gravity stairs benefit brain busy";
+var mnemonic = "metal fiction reveal ketchup pony creek manual ranch wife volume rhythm brother";

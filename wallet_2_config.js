@@ -1,1 +1,1 @@
-var mnemonic = "cage open hollow tattoo width wing sample cluster become fold slab ethics";
+var mnemonic = "section diamond soul lock van nominee jacket canyon music actor opinion cement";

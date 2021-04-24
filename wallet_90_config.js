@@ -1,1 +1,1 @@
-var mnemonic = "maid insect reason ecology guard apology culture casual stairs earth green peace";
+var mnemonic = "list ten wait involve judge monster obvious pitch flock student broccoli alcohol";

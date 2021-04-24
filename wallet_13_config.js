@@ -1,1 +1,1 @@
-var mnemonic = "early light clay cup giant globe author quantum stuff useless stage keen";
+var mnemonic = "awful melody issue right grow outside black ring retire donkey wire merge";

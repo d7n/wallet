@@ -1,1 +1,1 @@
-var mnemonic = "better device absorb strategy they clap heavy sheriff token bracket panda cloud";
+var mnemonic = "empower found surprise program emerge neglect seed position laundry purchase video pyramid";

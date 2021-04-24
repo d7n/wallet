@@ -1,1 +1,1 @@
-var mnemonic = "hip pool army pipe weather glide rib bulb code twice foot protect";
+var mnemonic = "busy dinner hockey festival chase correct novel cactus fade zoo impose clinic";

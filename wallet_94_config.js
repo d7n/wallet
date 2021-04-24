@@ -1,1 +1,1 @@
-var mnemonic = "river life nuclear rebel obscure noble fit shoe paper soft unhappy time";
+var mnemonic = "royal video hour slot story improve slim arena hybrid upset guess hospital";

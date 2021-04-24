@@ -1,1 +1,1 @@
-var mnemonic = "echo popular innocent try possible pause fit harsh middle tree blame monkey";
+var mnemonic = "grit bike duck warm you fantasy grass finish response shock diary diet";

@@ -1,1 +1,1 @@
-var mnemonic = "fragile select unusual pony eagle giggle glory affair other citizen dad rapid";
+var mnemonic = "body column ensure dad arrange auto napkin three bean club text enact";

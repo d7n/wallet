@@ -1,1 +1,1 @@
-var mnemonic = "orbit marble tool labor they soldier swift math thought stuff spring funny";
+var mnemonic = "wear wall riot correct walk loud reason guilt pattern sail measure game";

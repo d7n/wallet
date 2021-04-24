@@ -1,1 +1,1 @@
-var mnemonic = "melt ski hedgehog used adapt hip fragile amused token measure path second";
+var mnemonic = "indicate belt body athlete nice civil salute tape tissue mail celery divorce";

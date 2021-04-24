@@ -1,1 +1,1 @@
-var mnemonic = "blur dance order diamond search middle group flower kiwi exist near employ";
+var mnemonic = "chalk suggest walnut similar feel sleep symbol three agree obtain clarify magnet";

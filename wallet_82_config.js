@@ -1,1 +1,1 @@
-var mnemonic = "cream ketchup balcony tank width ordinary hedgehog adjust ill display argue that";
+var mnemonic = "fog stool rail master fatigue joy below city anxiety response often surround";

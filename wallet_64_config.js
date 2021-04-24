@@ -1,1 +1,1 @@
-var mnemonic = "siege math submit second gallery special myth shaft route renew impact filter";
+var mnemonic = "risk stable fly math endless jewel crisp maid super stem crazy differ";

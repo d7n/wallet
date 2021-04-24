@@ -1,1 +1,1 @@
-var mnemonic = "clay fatal knife detect brass behave insane print vehicle boost wrong foster";
+var mnemonic = "battle lift boss wrist install supply merit helmet party accuse execute cave";

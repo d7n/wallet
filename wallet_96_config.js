@@ -1,1 +1,1 @@
-var mnemonic = "dragon occur garden radio human elevator theme attract train wild prevent penalty";
+var mnemonic = "action element mass swap object blood online vanish coin fancy grab sound";

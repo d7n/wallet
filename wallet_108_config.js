@@ -1,1 +1,1 @@
-var mnemonic = "future radar canoe recycle add okay check gallery fix toy disagree plastic";
+var mnemonic = "unhappy give walnut capital clog margin spy always result already rude dog";

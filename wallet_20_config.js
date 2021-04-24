@@ -1,1 +1,1 @@
-var mnemonic = "enact dignity wait name father design chalk chaos stove next blame bundle";
+var mnemonic = "palace system wedding lab click salt kind cost virtual blossom outer forget";

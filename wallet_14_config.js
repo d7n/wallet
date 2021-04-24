@@ -1,1 +1,1 @@
-var mnemonic = "shoulder pass small sad property monster explain liberty torch finish again visa";
+var mnemonic = "tongue room vacant earth evidence cattle arrest nothing code festival pioneer caught";

@@ -1,1 +1,1 @@
-var mnemonic = "delay celery donate blue trust because car minimum wheel dutch pride sleep";
+var mnemonic = "express margin expose dignity toss saddle nest update safe mobile sell help";

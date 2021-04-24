@@ -1,1 +1,1 @@
-var mnemonic = "prison pact destroy atom arm furnace execute material tip matter indoor property";
+var mnemonic = "genius stock please merry obscure obey oil say divide trap domain swarm";

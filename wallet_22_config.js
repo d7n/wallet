@@ -1,1 +1,1 @@
-var mnemonic = "over bulb deer crunch bread banana surface brief december hobby dumb tower";
+var mnemonic = "elite myself panel fortune verb aunt become topple reopen frown rhythm theme";

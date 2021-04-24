@@ -1,1 +1,1 @@
-var mnemonic = "small menu kid dinosaur bottom copper elite lake firm plate myth prison";
+var mnemonic = "absent voice suffer rose educate hip use tower shallow amused bean crawl";

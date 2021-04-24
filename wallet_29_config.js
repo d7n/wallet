@@ -1,1 +1,1 @@
-var mnemonic = "cigar purse toss beach bundle wink state unknown enemy outside hungry know";
+var mnemonic = "shop magic tribe carry dance curtain pole drop mother code wild elevator";

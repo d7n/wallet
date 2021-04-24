@@ -1,1 +1,1 @@
-var mnemonic = "volume okay digital embody still brand lens bar body memory weather mystery";
+var mnemonic = "hammer topic option stock market bundle hunt juice hand arm motor other";

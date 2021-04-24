@@ -1,1 +1,1 @@
-var mnemonic = "code biology act finish pencil vibrant valley zero bind judge sport rich";
+var mnemonic = "wife silver sort away wheel else hat sunset basket labor skate awesome";

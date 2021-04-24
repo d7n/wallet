@@ -1,1 +1,1 @@
-var mnemonic = "beyond buyer lobster quote river reunion infant front urban pledge auction federal";
+var mnemonic = "solid senior above midnight electric vicious theory atom cereal spice service adjust";

@@ -1,1 +1,1 @@
-var mnemonic = "local click verify deliver spatial stove shy teach diet luxury reform else";
+var mnemonic = "muffin raccoon birth public galaxy scissors leader pony improve odor wise cash";

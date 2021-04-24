@@ -1,1 +1,1 @@
-var mnemonic = "inspire wolf hold choice drip enlist dolphin mistake convince setup bench saddle";
+var mnemonic = "valid afraid beef innocent siren reunion borrow pave junk canal city cruise";

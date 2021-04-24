@@ -1,1 +1,1 @@
-var mnemonic = "liar quarter bulb theme happy utility silver antenna disease cement sentence rescue";
+var mnemonic = "course pride cloud diary voyage enjoy blade hundred uphold settle gain deal";

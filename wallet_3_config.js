@@ -1,1 +1,1 @@
-var mnemonic = "news topple someone potato about tired cart magnet wall device space scale";
+var mnemonic = "rigid word early convince thought advance insane south addict wolf horror speak";

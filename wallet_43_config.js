@@ -1,1 +1,1 @@
-var mnemonic = "inhale raccoon wink rain artwork cattle asset soap room talk honey east";
+var mnemonic = "flower lava ritual castle hand negative logic witness until this patch bamboo";

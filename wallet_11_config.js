@@ -1,1 +1,1 @@
-var mnemonic = "predict off feed huge cycle naive valley wide poem volume calm curious";
+var mnemonic = "barrel canal episode bunker extend mail feed romance clock episode public jaguar";

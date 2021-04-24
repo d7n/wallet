@@ -1,1 +1,1 @@
-var mnemonic = "fluid flush sun abstract shy round extend spoil primary crazy mystery proud";
+var mnemonic = "useful toddler pottery library roof net bike decorate cat tail slow sister";

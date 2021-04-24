@@ -1,1 +1,1 @@
-var mnemonic = "labor roast excite mechanic thrive club enact left crystal ensure crucial velvet";
+var mnemonic = "very soldier demand visa laugh gauge chunk turtle rotate salon double enemy";

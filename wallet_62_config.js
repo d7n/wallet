@@ -1,1 +1,1 @@
-var mnemonic = "galaxy young ensure thought pole upper margin secret love pitch moon curious";
+var mnemonic = "few tornado clarify inherit enroll address tell dentist goddess tilt infant coach";

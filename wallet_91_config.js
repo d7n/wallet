@@ -1,1 +1,1 @@
-var mnemonic = "live bunker nose decide valve glide toddler truly surprise rapid priority erode";
+var mnemonic = "gorilla focus spin cat fit soon route young hurt spring artefact upon";

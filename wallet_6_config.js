@@ -1,1 +1,1 @@
-var mnemonic = "sniff kiss quiz impulse become salmon know scatter join boy brain brave";
+var mnemonic = "catch pond nose payment drastic lamp work oven farm fox motion agent";

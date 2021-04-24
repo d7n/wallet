@@ -1,1 +1,1 @@
-var mnemonic = "nominee almost lawsuit evolve speed phrase uphold slush human daughter slab biology";
+var mnemonic = "jacket system accuse early bitter rice retire boat chicken lonely stage sleep";

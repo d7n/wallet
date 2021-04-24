@@ -1,1 +1,1 @@
-var mnemonic = "oxygen voyage skate tragic crash nasty search often where labor solve kingdom";
+var mnemonic = "answer method cereal possible script fuel water affair pigeon dinosaur wrist film";

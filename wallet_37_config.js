@@ -1,1 +1,1 @@
-var mnemonic = "crime antique card tell demand mutual discover battle shiver universe wall blind";
+var mnemonic = "page wage keep wing cook grow physical wire clump flag enroll yellow";

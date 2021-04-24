@@ -1,1 +1,1 @@
-var mnemonic = "banana cement spell promote upon course monkey vintage just turkey hedgehog hybrid";
+var mnemonic = "soap try half hurdle boss chair keep fiber diagram awake saddle exile";

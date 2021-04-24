@@ -1,1 +1,1 @@
-var mnemonic = "awesome history marine arena soccer expose resemble final wink traffic permit rich";
+var mnemonic = "obtain flip beauty uncover autumn vicious swap deal deposit trash spring select";

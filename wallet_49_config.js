@@ -1,1 +1,1 @@
-var mnemonic = "dentist scout movie poem mushroom imitate matter panic diary outer shell cabin";
+var mnemonic = "reward squirrel panda north winter time become fashion frequent air gasp figure";

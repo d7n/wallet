@@ -1,1 +1,1 @@
-var mnemonic = "offer vibrant liberty music sell library knock more picture leopard agree bubble";
+var mnemonic = "erosion asthma sunset ugly shrug wheat oil group help average usual there";

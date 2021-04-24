@@ -1,1 +1,1 @@
-var mnemonic = "question beach air mean sign tide guess pair try push cage nerve";
+var mnemonic = "silk mind roast palm stable dust situate twelve ugly unveil tail mask";

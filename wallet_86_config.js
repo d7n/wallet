@@ -1,1 +1,1 @@
-var mnemonic = "foil trophy hobby nut cry maple offer corn stereo cabbage evil notable";
+var mnemonic = "ability bridge opera shoot night tone used kind armor parade repair name";

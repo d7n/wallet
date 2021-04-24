@@ -1,1 +1,1 @@
-var mnemonic = "food trap insane lion error scheme note stumble erase eight divorce equal";
+var mnemonic = "thing able desert dismiss scan tape large manage type lion hill check";

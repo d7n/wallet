@@ -1,1 +1,1 @@
-var mnemonic = "perfect finger stable search worry add oil hotel truly rabbit cram vapor";
+var mnemonic = "blanket shock oven decorate glare actress video choice already also actress trip";

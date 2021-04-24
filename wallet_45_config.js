@@ -1,1 +1,1 @@
-var mnemonic = "effort crowd often enhance rack piano gentle slam apple beach twin need";
+var mnemonic = "cram album slim electric assist easy soul axis mean between flock oval";

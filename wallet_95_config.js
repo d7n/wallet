@@ -1,1 +1,1 @@
-var mnemonic = "matrix fresh private wisdom use either rabbit barrel throw result apple rhythm";
+var mnemonic = "power excite border spread palace garden sorry prepare laundry leader inmate steel";

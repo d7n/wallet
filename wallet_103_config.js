@@ -1,1 +1,1 @@
-var mnemonic = "call direct custom rate biology height record punch impulse sleep raccoon put";
+var mnemonic = "fruit under flip fresh odor surge gorilla combine beyond iron slender any";

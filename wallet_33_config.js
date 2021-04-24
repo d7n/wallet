@@ -1,1 +1,1 @@
-var mnemonic = "replace pulse oval sausage erase assume escape mixture put festival bomb ancient";
+var mnemonic = "gauge attend monster error uncle guitar disagree spike demise ugly sure extend";

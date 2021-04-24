@@ -1,1 +1,1 @@
-var mnemonic = "bronze limit another impose anger hawk grace bring flip middle salute horror";
+var mnemonic = "sadness web blind random awesome ancient ring involve arrest crucial glide cat";

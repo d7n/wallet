@@ -1,1 +1,1 @@
-var mnemonic = "roof story maple divorce bar rural sell cave cherry cross chef random";
+var mnemonic = "minimum repair clean recall seven visual title history cruel name sword cabbage";

@@ -1,1 +1,1 @@
-var mnemonic = "outer pretty fossil palace tooth ostrich sunny reunion become lonely veteran fashion";
+var mnemonic = "child hockey myth flight direct render goose grunt explain injury park often";

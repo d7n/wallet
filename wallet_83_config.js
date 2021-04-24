@@ -1,1 +1,1 @@
-var mnemonic = "hotel pelican tool conduct output stumble acoustic mechanic smart blast soft jelly";
+var mnemonic = "west onion ladder nerve route obey twice across flock buffalo grape wonder";

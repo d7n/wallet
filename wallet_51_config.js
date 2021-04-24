@@ -1,1 +1,1 @@
-var mnemonic = "best teach festival correct swim kiss spoil cheese young have govern journey";
+var mnemonic = "gun zebra ignore guard just electric service laundry purity deposit powder opera";

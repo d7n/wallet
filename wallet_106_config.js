@@ -1,1 +1,1 @@
-var mnemonic = "solar swim fiber flush foster bubble together rabbit clerk frame skill track";
+var mnemonic = "urge answer panda husband subway edit genre crucial horn like sample gather";

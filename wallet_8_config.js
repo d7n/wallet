@@ -1,1 +1,1 @@
-var mnemonic = "sound roof tower forward work child quiz chronic sheriff motor drill inflict";
+var mnemonic = "tag soon amused draw walk crystal artist coin trend pass neither primary";

@@ -1,1 +1,1 @@
-var mnemonic = "pledge armed tank nothing purchase aunt shaft boss february tobacco cinnamon hard";
+var mnemonic = "follow amused spring bind immense wing save together unusual library monkey opinion";

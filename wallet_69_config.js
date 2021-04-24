@@ -1,1 +1,1 @@
-var mnemonic = "calm bomb damage cheese crumble dwarf copy peanut split sphere used protect";
+var mnemonic = "enroll device fuel mixture amused settle stool shoulder fire enforce void illegal";

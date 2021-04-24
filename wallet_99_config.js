@@ -1,1 +1,1 @@
-var mnemonic = "identify impulse minor just panther dolphin funny fire sand cement pole stereo";
+var mnemonic = "summer cancel jeans pool utility slight repair woman royal hip tent light";

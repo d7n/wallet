@@ -1,1 +1,1 @@
-var mnemonic = "agent school mercy cross around honey spring owner stomach dismiss slab glass";
+var mnemonic = "secret sentence wagon next east runway discover young frame still congress glass";

@@ -1,1 +1,1 @@
-var mnemonic = "inflict solution improve blur loan local pact make save buyer laugh wealth";
+var mnemonic = "denial genre benefit human ensure mirror bracket chest year song wine anchor";
