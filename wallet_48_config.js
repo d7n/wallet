@@ -1,1 +1,1 @@
-var mnemonic = "sunny virus give together embark basket wasp horror tag affair visual deputy";
+var mnemonic = "enact broom where melody put crater spin dawn brain obey erase sound";

@@ -1,1 +1,1 @@
-var mnemonic = "very face venue faith planet trophy icon swift grow beyond pulp vibrant";
+var mnemonic = "lift spy city method blush wood sword quality shine faint hen mechanic";

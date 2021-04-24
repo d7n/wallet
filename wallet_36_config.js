@@ -1,1 +1,1 @@
-var mnemonic = "limit dog gorilla multiply maid surround chalk rally either sniff course rely";
+var mnemonic = "slush process baby raven truck volcano unable follow detail glance give olive";

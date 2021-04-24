@@ -1,1 +1,1 @@
-var mnemonic = "panther thing income broom appear inject source where blast other chimney badge";
+var mnemonic = "disagree vintage fiber inform address rare damage village supply tray tooth umbrella";

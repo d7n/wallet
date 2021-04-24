@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog utility secret leisure mango tuition scan dance still dumb ivory rate";
+var mnemonic = "filter spirit deliver avocado clock speed open kiwi pluck exchange shrimp cram";

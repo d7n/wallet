@@ -1,1 +1,1 @@
-var mnemonic = "usual video pretty tool family ship script input divert awful champion loan";
+var mnemonic = "dirt slide game jeans sauce name company decorate unfair bargain dial comic";

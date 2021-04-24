@@ -1,1 +1,1 @@
-var mnemonic = "police quarter will extend know swim hello dentist laundry crew cousin plunge";
+var mnemonic = "gym small machine awkward move bike acoustic grief execute lion car ketchup";

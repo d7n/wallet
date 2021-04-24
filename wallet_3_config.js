@@ -1,1 +1,1 @@
-var mnemonic = "million secret warrior pyramid resemble excess plug hole method child erase earn";
+var mnemonic = "glass spring quote amused flag retire mirror enemy bar champion noodle flame";

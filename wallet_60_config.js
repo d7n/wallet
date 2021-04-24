@@ -1,1 +1,1 @@
-var mnemonic = "jar potato wink tip cushion ocean group sense inquiry corn napkin theory";
+var mnemonic = "cereal cabin bless cargo cry pupil easy truck swift supreme split camera";

@@ -1,1 +1,1 @@
-var mnemonic = "key disagree gaze melt deliver private this twenty say duty program exact";
+var mnemonic = "hard tumble scan legal tool dumb evil museum song assume inform shy";

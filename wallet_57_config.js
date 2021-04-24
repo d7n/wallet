@@ -1,1 +1,1 @@
-var mnemonic = "oven furnace topic coil load disagree suffer vanish toilet gate unable elephant";
+var mnemonic = "noble novel beauty canvas ahead earth uniform genre erase latin defense bullet";

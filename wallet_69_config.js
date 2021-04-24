@@ -1,1 +1,1 @@
-var mnemonic = "describe total pave blame canal fiber blind sadness obvious lobster unfair dwarf";
+var mnemonic = "very label cost cream auction worth betray path match afraid rough need";

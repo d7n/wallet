@@ -1,1 +1,1 @@
-var mnemonic = "spot wreck sketch romance sock picture wealth legal whale strategy certain scissors";
+var mnemonic = "worry bag degree rain demise job fall bargain ball science oven weasel";

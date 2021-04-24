@@ -1,1 +1,1 @@
-var mnemonic = "magic night label present stick pave lazy parade live theory dismiss heart";
+var mnemonic = "crawl morning upon hotel soap puzzle target distance save thunder solve boring";

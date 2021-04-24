@@ -1,1 +1,1 @@
-var mnemonic = "mesh note pool patch humble elder penalty duty audit grow monkey stamp";
+var mnemonic = "book select knock guess love promote bargain radio dolphin baby hero romance";

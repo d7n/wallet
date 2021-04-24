@@ -1,1 +1,1 @@
-var mnemonic = "deny chat harsh east winter group express route remove use awkward rally";
+var mnemonic = "tray unique resist glove humble garment tunnel oven salt local hobby busy";

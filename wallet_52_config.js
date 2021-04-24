@@ -1,1 +1,1 @@
-var mnemonic = "enact yellow junior system poem february hover festival autumn sand deny police";
+var mnemonic = "rebel basic dizzy current autumn such belt tiny path first quarter kite";

@@ -1,1 +1,1 @@
-var mnemonic = "predict unaware rhythm village convince exact mosquito soon market antique length erupt";
+var mnemonic = "state magnet program enhance field pride raccoon will code comic recall brother";

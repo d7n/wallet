@@ -1,1 +1,1 @@
-var mnemonic = "blouse because biology artefact canal august view obtain feed current speed else";
+var mnemonic = "leave car trip shield comic must tool thunder type grunt fever plastic";

@@ -1,1 +1,1 @@
-var mnemonic = "hill yellow garbage sport category blue nature brown goat tribe social weekend";
+var mnemonic = "hybrid wild setup taste torch luggage city napkin soft lady memory raven";

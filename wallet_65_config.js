@@ -1,1 +1,1 @@
-var mnemonic = "come glue length text tape mosquito decide pioneer when blush voyage little";
+var mnemonic = "gorilla modify dawn mixture mango enter gate stuff cram clump sign ankle";

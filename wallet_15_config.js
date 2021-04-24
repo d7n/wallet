@@ -1,1 +1,1 @@
-var mnemonic = "rail warrior predict moon emotion behave action fever lawsuit fringe trigger fee";
+var mnemonic = "manual riot physical forget hurdle pyramid grow true tumble brother control primary";

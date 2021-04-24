@@ -1,1 +1,1 @@
-var mnemonic = "road heart crystal column bless spy birth gorilla achieve consider season jazz";
+var mnemonic = "whale milk trade name foster scene local sting retire claim yard involve";

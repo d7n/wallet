@@ -1,1 +1,1 @@
-var mnemonic = "fatal require office donate display slice mobile hire course clog under rule";
+var mnemonic = "law saddle laugh armed fade weapon dynamic month cabin document track human";

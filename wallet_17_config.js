@@ -1,1 +1,1 @@
-var mnemonic = "must drive dance all cruel custom cheese loyal amateur shop december party";
+var mnemonic = "excite dice runway avoid curve fossil champion mammal hollow host solar plug";

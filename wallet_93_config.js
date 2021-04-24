@@ -1,1 +1,1 @@
-var mnemonic = "lonely diary away embark tunnel wrap mystery eager mystery element cool rotate";
+var mnemonic = "resource absurd eight again weather elder march elephant coyote public oak cover";

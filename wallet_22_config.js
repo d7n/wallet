@@ -1,1 +1,1 @@
-var mnemonic = "baby bring quantum opinion camp myth panther guide primary cheap inside desk";
+var mnemonic = "problem own enact tree purity force settle position borrow crash digital disorder";

@@ -1,1 +1,1 @@
-var mnemonic = "simple select filter obey want merge easy husband unit upset admit sibling";
+var mnemonic = "material eternal theme trip afraid impose violin weasel snack shove museum mistake";

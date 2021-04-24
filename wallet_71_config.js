@@ -1,1 +1,1 @@
-var mnemonic = "oven canal talk time bone salute primary tag wise wave since hub";
+var mnemonic = "have tattoo ride toddler elite flavor list under online arrange scrap harsh";

@@ -1,1 +1,1 @@
-var mnemonic = "wedding expand laptop sure route universe family artefact pumpkin unique green effort";
+var mnemonic = "fame teach daughter pulse alone fury boss coin slide kiwi enemy oyster";

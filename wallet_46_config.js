@@ -1,1 +1,1 @@
-var mnemonic = "note easily city whip staff soup slow letter enroll escape age case";
+var mnemonic = "blue idea tower guess ostrich fragile quiz shed dragon illness unusual alert";

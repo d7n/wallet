@@ -1,1 +1,1 @@
-var mnemonic = "onion admit shove theory tattoo fury grass flush rubber omit reopen endless";
+var mnemonic = "curious sense join faint join soon invest camera edge indoor begin neck";

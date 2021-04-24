@@ -1,1 +1,1 @@
-var mnemonic = "skill brick prevent walk trumpet digital antique turkey copy aim source velvet";
+var mnemonic = "weasel amazing vessel decade muscle coral blind giraffe clarify merge curtain culture";

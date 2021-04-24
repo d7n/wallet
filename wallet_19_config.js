@@ -1,1 +1,1 @@
-var mnemonic = "human top drill feed weapon annual disagree runway snap drive toast lyrics";
+var mnemonic = "enough text seminar depart rude timber puppy film crack shrimp bitter film";

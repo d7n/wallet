@@ -1,1 +1,1 @@
-var mnemonic = "asset regret shed spoon toward dash cheese age inquiry used few weekend";
+var mnemonic = "detail razor bottom remember blind entire royal window mango glass baby silver";

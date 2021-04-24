@@ -1,1 +1,1 @@
-var mnemonic = "power number steel margin source visa brass forget push electric blast gap";
+var mnemonic = "ancient crop little wish spy disease traffic remain pact drill run raw";

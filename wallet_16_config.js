@@ -1,1 +1,1 @@
-var mnemonic = "quit forum census cloth volcano mean interest quote library canal rural clever";
+var mnemonic = "neck climb friend caught viable web peasant spray reveal egg smoke crunch";

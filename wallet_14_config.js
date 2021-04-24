@@ -1,1 +1,1 @@
-var mnemonic = "envelope alert crater document later oil kick side long furnace lion purchase";
+var mnemonic = "crouch nasty confirm jeans prize tree kiwi exchange laptop drive valve estate";

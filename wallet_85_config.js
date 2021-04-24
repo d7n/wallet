@@ -1,1 +1,1 @@
-var mnemonic = "muffin toe moment exhibit large phone attract unveil duty help edit season";
+var mnemonic = "achieve original rude guilt current walk satisfy sauce replace swamp side sadness";

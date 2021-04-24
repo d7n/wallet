@@ -1,1 +1,1 @@
-var mnemonic = "vicious donkey during equip humor puppy village genre able salon raccoon chaos";
+var mnemonic = "twist veteran east thunder glide inject menu when ability banner start drink";

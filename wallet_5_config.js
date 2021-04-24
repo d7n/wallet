@@ -1,1 +1,1 @@
-var mnemonic = "enroll success unusual tilt shaft once equal shrimp agent stomach grid novel";
+var mnemonic = "pear grid climb know other harvest upper kiss merge unfair wait alley";

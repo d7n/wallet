@@ -1,1 +1,1 @@
-var mnemonic = "shine there say invest another leopard sure end rubber beach legend demise";
+var mnemonic = "bronze machine promote fork glance sustain onion thank imitate topic friend pizza";

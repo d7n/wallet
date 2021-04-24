@@ -1,1 +1,1 @@
-var mnemonic = "link brand turkey blast riot robot muffin giggle local meat balance upset";
+var mnemonic = "wonder exit setup shrug found correct seven move hover blush prison hood";

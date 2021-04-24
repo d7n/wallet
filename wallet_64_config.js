@@ -1,1 +1,1 @@
-var mnemonic = "beef either asset shield away smart south dance endless pause twist disease";
+var mnemonic = "salt system prison bench arena border upon asset siege because uncover board";

@@ -1,1 +1,1 @@
-var mnemonic = "faint discover blame excite thank lava save book cross extend twenty carry";
+var mnemonic = "flat phrase dizzy room stable shallow club music ridge season double album";

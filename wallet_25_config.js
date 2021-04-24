@@ -1,1 +1,1 @@
-var mnemonic = "left setup volcano recall tennis popular apart develop grief grass scorpion chief";
+var mnemonic = "wall old analyst rocket spend same remember corn begin furnace inherit labor";

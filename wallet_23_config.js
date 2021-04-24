@@ -1,1 +1,1 @@
-var mnemonic = "fence remove execute annual media half certain whisper curve property muscle addict";
+var mnemonic = "satisfy drastic april enroll present bunker unlock clerk badge slim creek payment";

@@ -1,1 +1,1 @@
-var mnemonic = "virtual hope rebel heart salute subway speed expand deputy cheap forest useless";
+var mnemonic = "argue prefer frog wheel uncle fog merge chronic glue robot ridge income";

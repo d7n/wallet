@@ -1,1 +1,1 @@
-var mnemonic = "avocado story follow stay nation ladder engine high trumpet current detail someone";
+var mnemonic = "control ankle club dolphin menu tenant museum true club wish rescue clump";

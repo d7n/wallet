@@ -1,1 +1,1 @@
-var mnemonic = "fog betray also blur occur expect galaxy return country shoe rocket hen";
+var mnemonic = "short hand camp learn jewel adjust actress wise luxury flush bulk neck";

@@ -1,1 +1,1 @@
-var mnemonic = "sudden lamp assist work spike swamp salt produce secret report swap awkward";
+var mnemonic = "food stem multiply knee captain spend hint barrel citizen spread despair night";

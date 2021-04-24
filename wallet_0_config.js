@@ -1,1 +1,1 @@
-var mnemonic = "pool atom tray royal tower squirrel repair truth rack nephew arrest climb";
+var mnemonic = "price acquire mansion another battle frequent barely goose august tongue lucky endorse";

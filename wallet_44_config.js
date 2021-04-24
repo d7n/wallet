@@ -1,1 +1,1 @@
-var mnemonic = "ugly vault exile strike program ladder volcano south turkey crowd grace expire";
+var mnemonic = "coast swarm neither predict oblige legend coach thought note amazing bar nose";

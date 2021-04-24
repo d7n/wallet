@@ -1,1 +1,1 @@
-var mnemonic = "until buffalo permit asthma cave copper teach current priority receive manual master";
+var mnemonic = "ready voice prosper rather develop harvest fox rapid negative thought mesh cover";

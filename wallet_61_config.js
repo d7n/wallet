@@ -1,1 +1,1 @@
-var mnemonic = "dolphin edit cool member clean voice milk almost say pioneer sad speed";
+var mnemonic = "best adult gossip between gain jeans network cement morning enough warrior belt";

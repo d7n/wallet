@@ -1,1 +1,1 @@
-var mnemonic = "involve boy blind situate final stadium diesel this sail liquid oak purity";
+var mnemonic = "oven ceiling decrease canyon trial credit festival update bounce escape spare spoil";

@@ -1,1 +1,1 @@
-var mnemonic = "bonus derive frog giant coyote giant soccer regular net daring any mystery";
+var mnemonic = "catch cube defy narrow connect detect amazing ostrich swarm phone talk cabin";

@@ -1,1 +1,1 @@
-var mnemonic = "inform spy fun direct danger bar project brisk bonus paddle response network";
+var mnemonic = "suffer sniff board blossom lawsuit body daughter forward pole approve young pact";

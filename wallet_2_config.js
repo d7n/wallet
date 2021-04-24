@@ -1,1 +1,1 @@
-var mnemonic = "naive coral orphan distance mad aware silver milk hat that forum alarm";
+var mnemonic = "surprise assume tattoo best good faculty crunch found case punch because wage";

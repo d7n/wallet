@@ -1,1 +1,1 @@
-var mnemonic = "day hotel margin lend hire milk eternal horn demise patient book together";
+var mnemonic = "excuse cloth urge yard stable empower story run gorilla indoor roast effort";

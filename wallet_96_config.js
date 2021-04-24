@@ -1,1 +1,1 @@
-var mnemonic = "reveal other menu advance drift cash kick glimpse circle season fix finish";
+var mnemonic = "length critic demand nice clever allow auction life carry alone gun clap";

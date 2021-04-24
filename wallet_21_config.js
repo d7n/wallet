@@ -1,1 +1,1 @@
-var mnemonic = "shrug enough price glance express pulp shallow lecture project ribbon tattoo veteran";
+var mnemonic = "lesson silent barrel brass number attack tattoo high high ecology home empower";

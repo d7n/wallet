@@ -1,1 +1,1 @@
-var mnemonic = "vault check argue swing electric toe chair edge iron ancient stage brand";
+var mnemonic = "cruel manage scissors zone laundry such pill total trip resemble tube smoke";

@@ -1,1 +1,1 @@
-var mnemonic = "team essence stick firm insane outdoor enact refuse sphere flat slight forum";
+var mnemonic = "pig hollow erase dinner grief prison echo more jelly diet goat bleak";

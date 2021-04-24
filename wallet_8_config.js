@@ -1,1 +1,1 @@
-var mnemonic = "poet traffic ask spread forum patch much muffin whisper wolf glide check";
+var mnemonic = "creek once bench add toilet favorite peasant phrase quarter tourist dune joy";

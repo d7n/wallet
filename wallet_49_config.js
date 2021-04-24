@@ -1,1 +1,1 @@
-var mnemonic = "length logic fiction garlic identify chest comfort fossil float lawn into action";
+var mnemonic = "good trash quick identify laptop smoke snap benefit tag elegant piece pass";

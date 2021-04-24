@@ -1,1 +1,1 @@
-var mnemonic = "search tiger virtual squirrel behind lawsuit chair cake bar ticket make defense";
+var mnemonic = "merit shoot cash shell govern matter river hedgehog elevator gym apple erase";

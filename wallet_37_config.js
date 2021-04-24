@@ -1,1 +1,1 @@
-var mnemonic = "dragon that unusual plate desk slight genius follow crash dish mesh wood";
+var mnemonic = "scrap knife like myself edge approve day lamp horn rack oval glimpse";

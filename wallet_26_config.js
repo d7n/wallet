@@ -1,1 +1,1 @@
-var mnemonic = "dwarf thumb cash forest echo enforce insane kit material across hammer twin";
+var mnemonic = "key favorite fee bright cycle velvet hybrid blast parrot fluid setup hole";

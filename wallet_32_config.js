@@ -1,1 +1,1 @@
-var mnemonic = "athlete ranch violin mimic width long actor fatal skin jazz skill atom";
+var mnemonic = "naive virtual resource side pigeon much educate sentence believe draft quit orchard";

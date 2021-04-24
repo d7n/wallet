@@ -1,1 +1,1 @@
-var mnemonic = "antenna blood gate length unit purchase join bacon sense window venue proud";
+var mnemonic = "energy buyer wheat team round alone soda cook display brisk slab cream";

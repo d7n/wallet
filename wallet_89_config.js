@@ -1,1 +1,1 @@
-var mnemonic = "blame guitar picnic identify brown year floor junior month lesson crazy allow";
+var mnemonic = "shock vibrant pull exile art family act coin trophy basic stomach symbol";

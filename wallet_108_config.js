@@ -1,1 +1,1 @@
-var mnemonic = "income cat chair enrich object banner dry quote lonely apology just actual";
+var mnemonic = "uncover valley reunion domain general picnic remain rug drip property safe entry";

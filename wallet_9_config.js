@@ -1,1 +1,1 @@
-var mnemonic = "they dose chuckle wolf know lemon chimney gloom excite employ model toast";
+var mnemonic = "first scatter trip draw festival program buddy real shallow brisk sister boy";

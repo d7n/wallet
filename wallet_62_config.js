@@ -1,1 +1,1 @@
-var mnemonic = "range empty bundle orbit worry employ sweet shell pulp shine all mass";
+var mnemonic = "sunset champion taxi betray step inch inquiry warfare hobby chief divert render";

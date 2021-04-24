@@ -1,1 +1,1 @@
-var mnemonic = "before donate climb axis blue alcohol student loyal own topic fatigue text";
+var mnemonic = "record marble job left raven tumble math dash review tower impact chapter";

@@ -1,1 +1,1 @@
-var mnemonic = "mirror claim hollow garden broom delay twice lunch jump pottery finger gloom";
+var mnemonic = "wife layer canyon good angry music tail pepper digital acquire tilt dance";

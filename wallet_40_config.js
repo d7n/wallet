@@ -1,1 +1,1 @@
-var mnemonic = "shock art holiday climb short gold subway oven entire language quarter blush";
+var mnemonic = "scorpion arrive stairs miss author miss filter diary sauce clay meadow nuclear";

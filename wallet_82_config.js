@@ -1,1 +1,1 @@
-var mnemonic = "fence laptop settle cycle belt road horn industry flock rocket exhaust truly";
+var mnemonic = "you all orange lottery creek version obscure border surprise sugar tent minimum";

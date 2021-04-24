@@ -1,1 +1,1 @@
-var mnemonic = "corn attack top east multiply april guitar holiday hurt vocal rabbit word";
+var mnemonic = "debris bicycle vital roof check family select raven close category intact excess";

@@ -1,1 +1,1 @@
-var mnemonic = "satoshi crowd ignore airport daughter visit mimic clay concert cart milk game";
+var mnemonic = "distance basket source royal similar grocery diamond slam grocery ramp program income";

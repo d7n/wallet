@@ -1,1 +1,1 @@
-var mnemonic = "pipe prevent leader patch dune please solution escape alien sell exile captain";
+var mnemonic = "search miracle sketch senior hope drive dirt glare wasp drip differ breeze";

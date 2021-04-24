@@ -1,1 +1,1 @@
-var mnemonic = "buddy change furnace master two rose square duty draft sense opera move";
+var mnemonic = "age accident holiday sample cliff clinic local liar market crawl way venture";

@@ -1,1 +1,1 @@
-var mnemonic = "empty love flat pause loyal erupt orange virus certain have already upon";
+var mnemonic = "jewel cave truck crime shuffle bind grape heavy adjust skin lesson witness";

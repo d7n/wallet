@@ -1,1 +1,1 @@
-var mnemonic = "clay curious cycle bunker again season cattle silver essence window eagle nasty";
+var mnemonic = "face rabbit race antenna dish civil picnic course wrong tired switch aerobic";

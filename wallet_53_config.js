@@ -1,1 +1,1 @@
-var mnemonic = "weapon ten flash early truth spin consider almost connect romance puppy swear";
+var mnemonic = "private sustain toast right faith caught small confirm shadow limb extend trash";

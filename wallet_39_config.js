@@ -1,1 +1,1 @@
-var mnemonic = "solar trophy consider observe awake truly scale suggest art reunion stool jeans";
+var mnemonic = "cloth baby fade faculty charge choose wet economy arrow rely useful enroll";

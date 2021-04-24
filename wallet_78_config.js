@@ -1,1 +1,1 @@
-var mnemonic = "seat text stable moral beyond slim medal rather melody funny puzzle clever";
+var mnemonic = "awful tent horn stay omit expose quality uncle air identify excuse worth";
