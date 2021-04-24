@@ -1,1 +1,1 @@
-var mnemonic = "wise forget shop frown hidden drift other olympic weekend tree wagon advance";
+var mnemonic = "voyage clever lottery sand wheel alien scatter filter blossom loud drive hockey";

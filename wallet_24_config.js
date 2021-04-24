@@ -1,1 +1,1 @@
-var mnemonic = "void evolve kangaroo grain mansion apple must source allow decrease tunnel model";
+var mnemonic = "silly that become group fence october cheese spike man predict dune develop";

@@ -1,1 +1,1 @@
-var mnemonic = "tackle vocal grace chaos deer edit fox ship abuse silent half wet";
+var mnemonic = "wise save poverty dog spin approve style purpose hollow jelly garlic glad";

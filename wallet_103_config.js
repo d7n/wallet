@@ -1,1 +1,1 @@
-var mnemonic = "edge pair sail powder job time ship solution discover pig pluck ticket";
+var mnemonic = "supreme topple beef happy truly fox differ blood lens cage basic capital";

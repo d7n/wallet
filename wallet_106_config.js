@@ -1,1 +1,1 @@
-var mnemonic = "athlete control cross fine box movie seed now regret tone burst buddy";
+var mnemonic = "loop response wild tunnel mammal prepare judge pupil subject exile milk chase";

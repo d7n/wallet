@@ -1,1 +1,1 @@
-var mnemonic = "small electric attend casino symptom rigid lava surface rigid chapter push flavor";
+var mnemonic = "trade tunnel switch laugh fog heart pony burden narrow right great ring";

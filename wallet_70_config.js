@@ -1,1 +1,1 @@
-var mnemonic = "round feel worth humble grass green web lawn grape put shove neck";
+var mnemonic = "ten seek voice length someone tooth camp item artefact enact bounce inflict";

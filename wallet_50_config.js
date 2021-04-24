@@ -1,1 +1,1 @@
-var mnemonic = "early outer earn toast exotic since gesture melt suggest slight slot smile";
+var mnemonic = "during betray finger crater dance spin skill leave mail rifle chef swap";

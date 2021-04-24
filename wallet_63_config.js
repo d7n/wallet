@@ -1,1 +1,1 @@
-var mnemonic = "plug oak kit nothing cattle visual violin cousin brother forget sadness radar";
+var mnemonic = "blame broccoli document shoulder season ice hollow post bargain chunk uncover town";

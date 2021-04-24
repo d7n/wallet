@@ -1,1 +1,1 @@
-var mnemonic = "measure tone design remove call vivid couple dwarf feel vocal box genius";
+var mnemonic = "record slide grocery end gown grant address drink idea cross meadow typical";

@@ -1,1 +1,1 @@
-var mnemonic = "attract that burger betray attack account garage vintage collect picnic movie ocean";
+var mnemonic = "heavy razor sketch liar palace snake pull success bid sniff glad gain";

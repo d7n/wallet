@@ -1,1 +1,1 @@
-var mnemonic = "host until can system bicycle labor credit buyer author inquiry system rose";
+var mnemonic = "inject possible umbrella note open virtual travel slush grape brown image diamond";

@@ -1,1 +1,1 @@
-var mnemonic = "oven misery news town cricket lawsuit obey return obtain slow trash announce";
+var mnemonic = "social margin staff bring lady bread citizen divert lemon stove pill want";

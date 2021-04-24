@@ -1,1 +1,1 @@
-var mnemonic = "sort slab search cross glance tortoise host still dice kit ahead path";
+var mnemonic = "pitch lift tree shock shuffle cable find blush tornado vapor benefit nothing";

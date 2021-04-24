@@ -1,1 +1,1 @@
-var mnemonic = "wash cricket canyon admit strike theory parent cloth champion box tourist tomorrow";
+var mnemonic = "basic front north topple pledge kingdom deer seminar clean sting equal cave";

@@ -1,1 +1,1 @@
-var mnemonic = "undo pull net lawsuit speak glad van symptom young medal orchard midnight";
+var mnemonic = "seat escape satisfy ugly cabin vivid floor require two powder govern city";

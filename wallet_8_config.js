@@ -1,1 +1,1 @@
-var mnemonic = "side aunt lava unique certain message rule paper charge feel glance stone";
+var mnemonic = "switch glance clean welcome little hotel twin patrol embrace tiny govern erosion";

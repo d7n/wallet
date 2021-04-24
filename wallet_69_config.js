@@ -1,1 +1,1 @@
-var mnemonic = "correct miss sheriff coffee scrub type repeat elevator lab joy stable post";
+var mnemonic = "lawn lobster cattle angry hurry poverty small burst liar baby cost intact";

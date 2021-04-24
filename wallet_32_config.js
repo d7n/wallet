@@ -1,1 +1,1 @@
-var mnemonic = "undo task armed defense misery deny hurt quick win virus today answer";
+var mnemonic = "wear measure notice enjoy real another vital duty trouble kick pause mean";

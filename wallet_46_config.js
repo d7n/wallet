@@ -1,1 +1,1 @@
-var mnemonic = "curtain dutch scan supreme stock quit add excess canvas message celery pigeon";
+var mnemonic = "access material anger erase repair student sight february tuna exile proud attack";

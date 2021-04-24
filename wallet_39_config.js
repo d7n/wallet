@@ -1,1 +1,1 @@
-var mnemonic = "project fashion word repair escape canal economy stone boil scheme pledge wise";
+var mnemonic = "canal lunch penalty window child grain extend material ancient transfer day arrange";

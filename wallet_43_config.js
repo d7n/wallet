@@ -1,1 +1,1 @@
-var mnemonic = "friend trip live voice print dynamic wire admit zone shell wrist tuna";
+var mnemonic = "raccoon arm honey torch soldier pottery desk castle rail trend merge food";

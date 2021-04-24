@@ -1,1 +1,1 @@
-var mnemonic = "kingdom between waste modify hill awesome fit bomb nut february matrix grace";
+var mnemonic = "meadow ticket will vocal rug door express book bag treat tongue tape";

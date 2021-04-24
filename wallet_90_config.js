@@ -1,1 +1,1 @@
-var mnemonic = "city pioneer submit unlock hurry trust joke emerge only side eyebrow robot";
+var mnemonic = "can length roast grape toy region pool today rabbit proof hope knee";

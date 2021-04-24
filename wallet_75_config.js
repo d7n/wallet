@@ -1,1 +1,1 @@
-var mnemonic = "stumble exit work loop enemy penalty example regret lobster negative again dove";
+var mnemonic = "shadow wrong country napkin muscle can chimney hill kingdom giraffe creek they";

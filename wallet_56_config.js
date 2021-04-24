@@ -1,1 +1,1 @@
-var mnemonic = "wood else forward tobacco walk quarter version trigger aisle glory code odor";
+var mnemonic = "chalk sphere clip help bubble vehicle couch divert fatigue ritual family fortune";

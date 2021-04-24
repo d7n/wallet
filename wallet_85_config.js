@@ -1,1 +1,1 @@
-var mnemonic = "pioneer hip jump inherit answer notice federal top design fabric stadium cave";
+var mnemonic = "trick silent cradle powder little pretty return slim cupboard bulb man burger";

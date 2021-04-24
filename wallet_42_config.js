@@ -1,1 +1,1 @@
-var mnemonic = "radar setup spatial dismiss quick session arch buyer pull access hunt antique";
+var mnemonic = "auction you crazy obvious deposit accident hair network flip stage stadium often";

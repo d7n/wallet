@@ -1,1 +1,1 @@
-var mnemonic = "nasty flock stove scrap link swim judge sound steel law snow elevator";
+var mnemonic = "permit disorder material entry nominee cinnamon bleak nerve nuclear warfare wood suggest";

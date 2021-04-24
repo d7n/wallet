@@ -1,1 +1,1 @@
-var mnemonic = "hen beyond impact early party volcano logic live scissors canoe favorite drip";
+var mnemonic = "teach upon license coyote glory tent agree hub put eyebrow cook horror";

@@ -1,1 +1,1 @@
-var mnemonic = "film surge crop remind online blind sniff security item describe script lucky";
+var mnemonic = "wife huge faculty army moon swamp busy assault simple trim mixed cycle";

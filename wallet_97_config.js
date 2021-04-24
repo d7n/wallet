@@ -1,1 +1,1 @@
-var mnemonic = "loud day walk city execute sauce lonely ivory either broken accident butter";
+var mnemonic = "scatter ribbon bridge grid match bar garden exhaust ketchup misery female feel";

@@ -1,1 +1,1 @@
-var mnemonic = "supply broccoli police explain sustain radio recycle local stuff course december wage";
+var mnemonic = "tourist impose subject come jealous hedgehog casino hole grant cushion blast potato";

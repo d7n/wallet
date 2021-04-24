@@ -1,1 +1,1 @@
-var mnemonic = "feel moral extra boss draw risk embark unusual surge middle sign earth";
+var mnemonic = "very name few huge pottery receive month olympic unfair royal coast pair";

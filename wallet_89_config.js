@@ -1,1 +1,1 @@
-var mnemonic = "bounce dynamic increase fresh life side fly fantasy forest rely balcony joy";
+var mnemonic = "fun air swamp gravity dinner morning behind acoustic dog useful gasp avoid";

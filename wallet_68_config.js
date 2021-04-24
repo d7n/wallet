@@ -1,1 +1,1 @@
-var mnemonic = "else dirt merit accident sun option inform anxiety heavy flavor pact before";
+var mnemonic = "cram fragile radio repair toy sketch ripple impulse similar ugly pig session";

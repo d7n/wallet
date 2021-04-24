@@ -1,1 +1,1 @@
-var mnemonic = "sort soldier repeat dance attract consider invite prison pelican proof casual choose";
+var mnemonic = "random marriage tattoo resource hockey image mesh phrase faith awake hope action";

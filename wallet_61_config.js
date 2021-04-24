@@ -1,1 +1,1 @@
-var mnemonic = "wood boost nice toilet february ship differ enemy grab general media deputy";
+var mnemonic = "omit fruit dentist someone notice decline city brand obtain reward ability east";

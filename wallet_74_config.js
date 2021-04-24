@@ -1,1 +1,1 @@
-var mnemonic = "general ride rice corn wide panther veteran skull loan spend song fashion";
+var mnemonic = "danger monitor fury embrace logic credit bread motion source above saddle very";

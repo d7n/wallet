@@ -1,1 +1,1 @@
-var mnemonic = "weekend ranch secret nest output camera hedgehog crystal devote mimic fatigue since";
+var mnemonic = "holiday tragic abstract opera kidney basic sunset flock purse survey corn imitate";

@@ -1,1 +1,1 @@
-var mnemonic = "say violin atom abuse awful document blanket grain clap cause tower secret";
+var mnemonic = "bonus lava rice own educate other joy rally loyal salmon effort tragic";

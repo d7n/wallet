@@ -1,1 +1,1 @@
-var mnemonic = "render across hamster absorb either remind husband notable cave marble vital vapor";
+var mnemonic = "federal primary drama stamp stomach various general stand category correct truth cabbage";

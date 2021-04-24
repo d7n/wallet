@@ -1,1 +1,1 @@
-var mnemonic = "give media slam shield spice rigid fish struggle symbol cross enroll wish";
+var mnemonic = "awful favorite banner plastic decade sick coyote unusual vehicle age deliver summer";

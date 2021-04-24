@@ -1,1 +1,1 @@
-var mnemonic = "route green arena jar match notice spray law modify jump nuclear final";
+var mnemonic = "steel phone once action coconut promote butter reunion actual salad whale tip";

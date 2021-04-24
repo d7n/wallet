@@ -1,1 +1,1 @@
-var mnemonic = "vendor language harvest tissue young limb mandate build affair fuel lab wealth";
+var mnemonic = "mushroom edge artist actual element accuse pink embody initial sponsor round usual";

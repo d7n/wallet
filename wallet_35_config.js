@@ -1,1 +1,1 @@
-var mnemonic = "close spot loop scrap cancel favorite matter funny ability birth pole involve";
+var mnemonic = "rather life wheel bargain behind success oxygen party uncover chronic problem clown";

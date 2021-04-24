@@ -1,1 +1,1 @@
-var mnemonic = "sting town weapon color plastic manage symptom shock receive turkey dry room";
+var mnemonic = "turn slow person lizard kitchen rhythm front spider elite undo found rookie";

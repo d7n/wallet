@@ -1,1 +1,1 @@
-var mnemonic = "chief salute tomato middle rain escape venture entry swap art sock hat";
+var mnemonic = "flag duty resource income lumber escape notable useless merge sugar because fault";

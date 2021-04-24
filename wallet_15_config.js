@@ -1,1 +1,1 @@
-var mnemonic = "girl uncover empty argue purse vibrant inner tank arrow upset scatter glare";
+var mnemonic = "walnut cabin state skate sick fabric neutral buffalo usual maid thrive permit";

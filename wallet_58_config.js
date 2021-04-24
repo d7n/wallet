@@ -1,1 +1,1 @@
-var mnemonic = "loyal orbit twelve net noise matrix all negative walnut radar avoid faculty";
+var mnemonic = "valid stove basket disagree hammer smooth spare print differ air couch matrix";

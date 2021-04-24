@@ -1,1 +1,1 @@
-var mnemonic = "save grain ozone claim soccer rally sing vibrant enhance bag vault wood";
+var mnemonic = "practice media give twin kick dad panel calm pause side inmate hazard";

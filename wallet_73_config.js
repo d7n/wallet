@@ -1,1 +1,1 @@
-var mnemonic = "nominee slice boil into come champion coral solid pet answer crush angry";
+var mnemonic = "employ glimpse mad until express custom exact permit page artefact leader lamp";

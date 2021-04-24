@@ -1,1 +1,1 @@
-var mnemonic = "wrestle burden three phrase raccoon buffalo bird novel cross swallow brief faculty";
+var mnemonic = "own champion pumpkin salmon between stone fiscal siege claim similar riot hundred";

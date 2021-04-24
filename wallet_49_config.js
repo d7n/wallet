@@ -1,1 +1,1 @@
-var mnemonic = "scorpion patrol depend tornado stadium blood flame labor coconut say gaze target";
+var mnemonic = "comic seek kite inquiry prevent level shrimp exercise suffer mansion capable unusual";

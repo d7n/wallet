@@ -1,1 +1,1 @@
-var mnemonic = "okay liquid pave fade dilemma other material adult inflict split excuse include";
+var mnemonic = "fold spirit lamp setup fabric lounge barely current thrive spend forward jacket";

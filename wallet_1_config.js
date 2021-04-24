@@ -1,1 +1,1 @@
-var mnemonic = "fame loan purity tilt spatial three burst orbit lens over midnight isolate";
+var mnemonic = "hover process lottery family razor sniff lazy draft dignity until conduct hill";

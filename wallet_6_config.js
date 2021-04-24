@@ -1,1 +1,1 @@
-var mnemonic = "mirror radar viable dress strong leisure casual habit mixed stone polar assume";
+var mnemonic = "lunch paddle divorce flag material celery task defy toddler food champion wine";

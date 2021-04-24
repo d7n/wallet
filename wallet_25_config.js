@@ -1,1 +1,1 @@
-var mnemonic = "laptop board sibling damage jewel token rude strike pool dignity message bike";
+var mnemonic = "mango photo zoo betray uphold lend thrive address ring photo loan save";

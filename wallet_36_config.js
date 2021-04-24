@@ -1,1 +1,1 @@
-var mnemonic = "afraid usual chief depth ozone decorate thank february crisp aim burger juice";
+var mnemonic = "pluck truly west segment near tennis enrich atom sell daughter ozone weasel";

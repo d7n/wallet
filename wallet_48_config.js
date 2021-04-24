@@ -1,1 +1,1 @@
-var mnemonic = "surprise elite sting lamp seed joke coast flight exhaust snake favorite fuel";
+var mnemonic = "daughter unlock panic taxi urge cloth fresh female general easily mad flight";

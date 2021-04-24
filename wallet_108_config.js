@@ -1,1 +1,1 @@
-var mnemonic = "critic weird eager expose harbor crowd found general cloth kitten ecology scan";
+var mnemonic = "swarm shoot film neck machine coach scan feature breeze spot scare come";

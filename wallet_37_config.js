@@ -1,1 +1,1 @@
-var mnemonic = "giggle suit decide price shadow attract time evil suspect curve sure urge";
+var mnemonic = "broken zebra print sick report select razor scare corn gorilla cattle target";

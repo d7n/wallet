@@ -1,1 +1,1 @@
-var mnemonic = "write insect cake cigar clump dinner party fringe slam fragile design amused";
+var mnemonic = "grab shell minor trick mansion once mesh right lonely secret globe awful";

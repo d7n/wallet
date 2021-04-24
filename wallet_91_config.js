@@ -1,1 +1,1 @@
-var mnemonic = "hammer nice ride sleep already later quarter laptop wet calm screen noble";
+var mnemonic = "mention involve lamp copper dwarf will culture flash demand proud bar bar";

@@ -1,1 +1,1 @@
-var mnemonic = "piano income script venture banana fuel frequent first energy speed steel long";
+var mnemonic = "vessel foam sunny extend raise fresh foster donkey verify sick author fade";

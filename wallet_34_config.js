@@ -1,1 +1,1 @@
-var mnemonic = "discover humble describe soup glimpse vibrant online fabric device belt salt sadness";
+var mnemonic = "cushion retire laptop output shift noble appear crumble squeeze lawn glad arch";

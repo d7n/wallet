@@ -1,1 +1,1 @@
-var mnemonic = "type march choose ill horse foot mom fee boss diagram fork screen";
+var mnemonic = "pepper day crunch carpet consider visual tongue wrap park arch earn army";

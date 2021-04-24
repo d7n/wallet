@@ -1,1 +1,1 @@
-var mnemonic = "behave believe become connect useless social crowd drift chaos subway glory retire";
+var mnemonic = "useless toward fragile adapt aim gospel good clerk economy monkey carbon tool";

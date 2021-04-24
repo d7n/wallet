@@ -1,1 +1,1 @@
-var mnemonic = "happy shove click false manage group demise network melody cover subway deer";
+var mnemonic = "total relax square ridge noble stock truth ribbon victory fault congress drip";

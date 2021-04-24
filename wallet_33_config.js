@@ -1,1 +1,1 @@
-var mnemonic = "girl develop deliver busy stairs brief present vacuum wedding project tell endless";
+var mnemonic = "morning tragic crumble earn list excess cricket biology brown trap tobacco escape";

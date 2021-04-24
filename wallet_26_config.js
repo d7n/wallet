@@ -1,1 +1,1 @@
-var mnemonic = "leisure horse toe later still zero garden wet extra inherit update talk";
+var mnemonic = "lawsuit satoshi frog sphere armor about cannon lady cream choice great apology";

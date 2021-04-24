@@ -1,1 +1,1 @@
-var mnemonic = "essay visit undo price twin odor ozone hazard sketch deal slender throw";
+var mnemonic = "december beauty anger armed calm bar rotate odor thrive runway mutual update";

@@ -1,1 +1,1 @@
-var mnemonic = "asthma jewel velvet brisk memory midnight innocent hood inside sight card runway";
+var mnemonic = "pole original erode soul track when gossip table audit then flavor barrel";

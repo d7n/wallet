@@ -1,1 +1,1 @@
-var mnemonic = "february nominee suggest episode vague grief salmon scissors museum element proud advance";
+var mnemonic = "purity anger script ugly live increase knock volume tomorrow intact cigar arm";

@@ -1,1 +1,1 @@
-var mnemonic = "valley hedgehog change lucky laptop rural chimney draw farm brave kiwi deer";
+var mnemonic = "wedding maid december genuine tenant much stadium math decorate oval heavy knife";

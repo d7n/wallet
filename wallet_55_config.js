@@ -1,1 +1,1 @@
-var mnemonic = "glass enjoy supply clown spawn artefact daring escape burger bike filter inner";
+var mnemonic = "soul resource noise knock ability must empty swarm yard eye curious green";

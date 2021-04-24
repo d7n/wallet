@@ -1,1 +1,1 @@
-var mnemonic = "clarify enrich sponsor drink amused unfold reject invite fun open prison three";
+var mnemonic = "soda six soda glow agree staff obey indicate physical alert invite beauty";

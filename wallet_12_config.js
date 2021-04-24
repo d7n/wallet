@@ -1,1 +1,1 @@
-var mnemonic = "alone grab second chimney lady arrange inflict identify soccer myth category warrior";
+var mnemonic = "pave jungle parent unable typical deposit ritual genre hover fall enable force";

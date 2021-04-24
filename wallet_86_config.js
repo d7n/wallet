@@ -1,1 +1,1 @@
-var mnemonic = "once pact october grant around chaos humor same once resource layer silver";
+var mnemonic = "luggage only bachelor industry liquid brand cactus rabbit diagram script tiny total";

@@ -1,1 +1,1 @@
-var mnemonic = "cement script cloud novel legend bleak robot prosper vacuum blouse tired please";
+var mnemonic = "corn exit crunch net smoke disagree toast twin language public leisure toss";

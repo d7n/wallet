@@ -1,1 +1,1 @@
-var mnemonic = "frown valley victory sort concert rate paddle best jump useless report open";
+var mnemonic = "rather fever cook glow ordinary custom country valley tennis craft program pyramid";

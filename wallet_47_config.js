@@ -1,1 +1,1 @@
-var mnemonic = "crunch sample valve device item wolf syrup sick cry orient pass slim";
+var mnemonic = "secret youth sand repeat buzz train lock mind vacuum path target emotion";

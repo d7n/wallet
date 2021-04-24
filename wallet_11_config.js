@@ -1,1 +1,1 @@
-var mnemonic = "photo forget speak dad round clay depend rhythm improve together barely monitor";
+var mnemonic = "rescue small try bracket meat limb toy move six awful clutch stereo";

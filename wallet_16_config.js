@@ -1,1 +1,1 @@
-var mnemonic = "slow barely battle heart rude solar license bundle spend fish food pulse";
+var mnemonic = "nurse swing sort vessel lunar tone aunt market survey alcohol person lens";

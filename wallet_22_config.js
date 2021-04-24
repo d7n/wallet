@@ -1,1 +1,1 @@
-var mnemonic = "soon suit track blood gown dish concert ice budget roast exhibit turn";
+var mnemonic = "easily daring dwarf beauty write toward fly coyote scale fatigue ride fold";

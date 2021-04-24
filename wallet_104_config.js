@@ -1,1 +1,1 @@
-var mnemonic = "pattern thing country salt muffin satisfy cute merry zone bubble powder inform";
+var mnemonic = "range tribe grace tenant dial remove salon weather vault oval sweet chef";

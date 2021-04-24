@@ -1,1 +1,1 @@
-var mnemonic = "trigger define total tank dust buyer session cave equal sudden decorate hammer";
+var mnemonic = "episode strong inmate melody resemble leader guitar pilot canyon bench limb burst";

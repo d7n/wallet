@@ -1,1 +1,1 @@
-var mnemonic = "never father sad verify regret badge carbon flip chapter amazing exchange weekend";
+var mnemonic = "theory wrap fashion emotion topple yard awful more distance else forward light";

@@ -1,1 +1,1 @@
-var mnemonic = "fantasy spring surprise truck fortune sample tobacco race arena rebel neither spoon";
+var mnemonic = "enroll cram march hero deer blouse ripple brown hour black want warm";

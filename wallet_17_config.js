@@ -1,1 +1,1 @@
-var mnemonic = "arrow muscle version forest bicycle remember have tomato unaware path royal october";
+var mnemonic = "chaos gesture legal fiber renew pet oven cannon grace supreme motor moon";

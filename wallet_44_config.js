@@ -1,1 +1,1 @@
-var mnemonic = "weasel transfer summer poet purity enforce mistake dawn false law ostrich teach";
+var mnemonic = "junior mushroom wing position brand repeat olive convince defy minute cloth warrior";

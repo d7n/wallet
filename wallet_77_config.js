@@ -1,1 +1,1 @@
-var mnemonic = "color talk cement october myth obvious essay senior derive van reduce drink";
+var mnemonic = "guard tiger helmet neglect submit meadow suggest dragon fabric useless disorder gauge";

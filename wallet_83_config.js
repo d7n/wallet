@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow deal caution giant million aisle news rib symptom early whip pet";
+var mnemonic = "always mean awake master hawk pause bachelor magnet sweet split repair logic";
