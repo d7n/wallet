@@ -1,1 +1,1 @@
-var mnemonic = "canyon infant author woman wrap vibrant breeze tank pony earn nominee response";
+var mnemonic = "radar setup spatial dismiss quick session arch buyer pull access hunt antique";

@@ -1,1 +1,1 @@
-var mnemonic = "cause boss crystal among repeat ring jaguar margin correct problem evil bind";
+var mnemonic = "sort soldier repeat dance attract consider invite prison pelican proof casual choose";

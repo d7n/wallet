@@ -1,1 +1,1 @@
-var mnemonic = "write prosper able weather garden also sorry shop marriage tray ticket obey";
+var mnemonic = "behave believe become connect useless social crowd drift chaos subway glory retire";

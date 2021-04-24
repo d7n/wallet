@@ -1,1 +1,1 @@
-var mnemonic = "salt memory drill inquiry truly bus rough involve limb shaft chunk armed";
+var mnemonic = "photo forget speak dad round clay depend rhythm improve together barely monitor";

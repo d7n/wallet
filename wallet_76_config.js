@@ -1,1 +1,1 @@
-var mnemonic = "suffer people feature alarm fashion maple fury december chief oven decorate size";
+var mnemonic = "sort slab search cross glance tortoise host still dice kit ahead path";

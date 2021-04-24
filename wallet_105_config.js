@@ -1,1 +1,1 @@
-var mnemonic = "melt skate media grit table monitor gain half release earn miss reunion";
+var mnemonic = "undo pull net lawsuit speak glad van symptom young medal orchard midnight";

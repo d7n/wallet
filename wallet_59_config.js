@@ -1,1 +1,1 @@
-var mnemonic = "bachelor patrol imitate uphold wolf card joke suspect omit discover erupt hair";
+var mnemonic = "okay liquid pave fade dilemma other material adult inflict split excuse include";

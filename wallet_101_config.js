@@ -1,1 +1,1 @@
-var mnemonic = "evolve prevent all history expire window brave insect step follow satoshi door";
+var mnemonic = "spider parrot inject forget swim bitter lesson drastic mammal fatal school inner";

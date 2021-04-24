@@ -1,1 +1,1 @@
-var mnemonic = "snake squeeze dance evolve spot during beef unhappy govern sphere slush away";
+var mnemonic = "leisure horse toe later still zero garden wet extra inherit update talk";

@@ -1,1 +1,1 @@
-var mnemonic = "limb palace cool rice melody educate cigar magnet fitness world exhaust trend";
+var mnemonic = "afraid usual chief depth ozone decorate thank february crisp aim burger juice";

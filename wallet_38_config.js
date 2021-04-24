@@ -1,1 +1,1 @@
-var mnemonic = "situate across wool dumb hawk young song owner slice crack supply crane";
+var mnemonic = "nasty flock stove scrap link swim judge sound steel law snow elevator";

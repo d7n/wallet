@@ -1,1 +1,1 @@
-var mnemonic = "tuna nice peace material kitten betray come belt trumpet spell hybrid camera";
+var mnemonic = "city pioneer submit unlock hurry trust joke emerge only side eyebrow robot";

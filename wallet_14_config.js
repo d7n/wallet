@@ -1,1 +1,1 @@
-var mnemonic = "balcony wealth pattern east silk prison amused hurry minute machine clown coast";
+var mnemonic = "happy shove click false manage group demise network melody cover subway deer";

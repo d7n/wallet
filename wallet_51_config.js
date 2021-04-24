@@ -1,1 +1,1 @@
-var mnemonic = "reduce furnace weasel excite change dust front filter jelly ring silly inside";
+var mnemonic = "fantasy spring surprise truck fortune sample tobacco race arena rebel neither spoon";

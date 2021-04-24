@@ -1,1 +1,1 @@
-var mnemonic = "subject umbrella utility total bless error garbage soul diamond void total minimum";
+var mnemonic = "pioneer hip jump inherit answer notice federal top design fabric stadium cave";

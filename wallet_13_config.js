@@ -1,1 +1,1 @@
-var mnemonic = "clinic cactus tackle end action divorce brain adult ankle tenant tackle unknown";
+var mnemonic = "vendor language harvest tissue young limb mandate build affair fuel lab wealth";

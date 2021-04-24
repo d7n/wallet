@@ -1,1 +1,1 @@
-var mnemonic = "evil knife ripple require pass measure unique flip trend excess never fabric";
+var mnemonic = "discover head parade frost eagle casual output cloth arrive drink lucky oblige";

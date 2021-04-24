@@ -1,1 +1,1 @@
-var mnemonic = "smile term grab fame bamboo wolf response party craft wagon pause leave";
+var mnemonic = "stumble exit work loop enemy penalty example regret lobster negative again dove";

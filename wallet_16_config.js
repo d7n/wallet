@@ -1,1 +1,1 @@
-var mnemonic = "fashion admit empty lend length swear net soldier arena baby north mule";
+var mnemonic = "slow barely battle heart rude solar license bundle spend fish food pulse";

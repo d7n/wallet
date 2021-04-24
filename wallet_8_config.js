@@ -1,1 +1,1 @@
-var mnemonic = "erode normal spatial praise laptop multiply bar error veteran tiny unhappy wheel";
+var mnemonic = "side aunt lava unique certain message rule paper charge feel glance stone";

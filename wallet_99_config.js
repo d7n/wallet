@@ -1,1 +1,1 @@
-var mnemonic = "cigar rifle rare head fortune remind like meadow strategy deputy often mosquito";
+var mnemonic = "ticket lawsuit vanish smart coconut control dish width girl night prize build";

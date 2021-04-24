@@ -1,1 +1,1 @@
-var mnemonic = "fall sure carry spoil trouble strong ribbon pluck clown force nephew luggage";
+var mnemonic = "project fashion word repair escape canal economy stone boil scheme pledge wise";

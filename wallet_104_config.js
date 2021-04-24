@@ -1,1 +1,1 @@
-var mnemonic = "net predict auction memory about accident pass trigger volume letter evolve join";
+var mnemonic = "pattern thing country salt muffin satisfy cute merry zone bubble powder inform";

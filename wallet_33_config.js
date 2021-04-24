@@ -1,1 +1,1 @@
-var mnemonic = "street inflict student pilot apart cake often blood forward spell give lunch";
+var mnemonic = "girl develop deliver busy stairs brief present vacuum wedding project tell endless";

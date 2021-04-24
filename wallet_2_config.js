@@ -1,1 +1,1 @@
-var mnemonic = "coil throw leaf truth mountain balcony tobacco initial crew panda crack pact";
+var mnemonic = "under dial scissors urge raw acid travel poverty second wing dirt hurry";

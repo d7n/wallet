@@ -1,1 +1,1 @@
-var mnemonic = "viable clarify lock room improve prepare clutch will harbor primary trust message";
+var mnemonic = "crunch sample valve device item wolf syrup sick cry orient pass slim";

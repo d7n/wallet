@@ -1,1 +1,1 @@
-var mnemonic = "second duck arch monkey own poet lobster float movie devote weapon outer";
+var mnemonic = "attract that burger betray attack account garage vintage collect picnic movie ocean";

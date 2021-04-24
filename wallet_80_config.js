@@ -1,1 +1,1 @@
-var mnemonic = "machine swift now member veteran office adapt region illness alone mean stomach";
+var mnemonic = "weekend ranch secret nest output camera hedgehog crystal devote mimic fatigue since";

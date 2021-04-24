@@ -1,1 +1,1 @@
-var mnemonic = "base emerge opinion joy cattle shift sweet exile canyon unlock tomorrow flat";
+var mnemonic = "athlete control cross fine box movie seed now regret tone burst buddy";

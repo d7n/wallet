@@ -1,1 +1,1 @@
-var mnemonic = "measure witness twice action true ecology shaft imitate rival small benefit load";
+var mnemonic = "hammer nice ride sleep already later quarter laptop wet calm screen noble";

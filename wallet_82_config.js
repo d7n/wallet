@@ -1,1 +1,1 @@
-var mnemonic = "huge edge clip visit act like nothing chalk alone arena sunset share";
+var mnemonic = "noise peanut estate lecture blanket foot trap account arctic menu honey car";

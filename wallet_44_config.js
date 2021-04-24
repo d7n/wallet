@@ -1,1 +1,1 @@
-var mnemonic = "fall other truck tourist donor ancient course grace tape output silent merit";
+var mnemonic = "weasel transfer summer poet purity enforce mistake dawn false law ostrich teach";

@@ -1,1 +1,1 @@
-var mnemonic = "allow symbol reopen icon subway start jaguar about basic toss width reduce";
+var mnemonic = "valley hedgehog change lucky laptop rural chimney draw farm brave kiwi deer";

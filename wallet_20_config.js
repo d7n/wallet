@@ -1,1 +1,1 @@
-var mnemonic = "repair kit casino crater crew vintage gesture ride stable iron gas skill";
+var mnemonic = "route green arena jar match notice spray law modify jump nuclear final";

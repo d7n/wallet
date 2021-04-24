@@ -1,1 +1,1 @@
-var mnemonic = "mesh doctor have panther velvet lava uphold foil scan tail tackle stumble";
+var mnemonic = "glass enjoy supply clown spawn artefact daring escape burger bike filter inner";

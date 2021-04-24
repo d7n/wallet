@@ -1,1 +1,1 @@
-var mnemonic = "stick almost present enforce stove wing stumble shed loan state muffin pepper";
+var mnemonic = "soon suit track blood gown dish concert ice budget roast exhibit turn";

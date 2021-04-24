@@ -1,1 +1,1 @@
-var mnemonic = "weird suggest chapter dismiss local undo champion issue correct wood proud nephew";
+var mnemonic = "viable setup dash rescue drip donate salad involve early solve suggest mirror";

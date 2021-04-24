@@ -1,1 +1,1 @@
-var mnemonic = "place hawk unfold company chuckle model wink ridge welcome virus clarify donor";
+var mnemonic = "plug oak kit nothing cattle visual violin cousin brother forget sadness radar";

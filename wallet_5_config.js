@@ -1,1 +1,1 @@
-var mnemonic = "field thought fabric caution glance canvas primary silk slot miss chuckle poverty";
+var mnemonic = "clarify enrich sponsor drink amused unfold reject invite fun open prison three";

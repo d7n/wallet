@@ -1,1 +1,1 @@
-var mnemonic = "render blue indicate dress toward title invest tennis cousin winner expect ski";
+var mnemonic = "void evolve kangaroo grain mansion apple must source allow decrease tunnel model";

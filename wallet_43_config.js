@@ -1,1 +1,1 @@
-var mnemonic = "rich organ erosion buddy harsh forget theme pool fury favorite green wagon";
+var mnemonic = "friend trip live voice print dynamic wire admit zone shell wrist tuna";

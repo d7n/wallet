@@ -1,1 +1,1 @@
-var mnemonic = "menu unique punch wage tooth find always year arctic ecology next relief";
+var mnemonic = "nominee slice boil into come champion coral solid pet answer crush angry";

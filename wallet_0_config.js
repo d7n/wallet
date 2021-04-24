@@ -1,1 +1,1 @@
-var mnemonic = "object pledge seminar struggle pilot copper wall illegal matter cinnamon earn brave";
+var mnemonic = "give media slam shield spice rigid fish struggle symbol cross enroll wish";

@@ -1,1 +1,1 @@
-var mnemonic = "isolate resemble such finger thought seed title radar couple recall clever caution";
+var mnemonic = "bounce dynamic increase fresh life side fly fantasy forest rely balcony joy";

@@ -1,1 +1,1 @@
-var mnemonic = "vote route above april gravity vacant account dilemma axis start entry vast";
+var mnemonic = "undo task armed defense misery deny hurt quick win virus today answer";

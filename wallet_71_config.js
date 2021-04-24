@@ -1,1 +1,1 @@
-var mnemonic = "make poverty narrow embody ketchup measure east version guitar usage dose clay";
+var mnemonic = "bitter science organ salad draw truck twist prison puzzle east cross share";

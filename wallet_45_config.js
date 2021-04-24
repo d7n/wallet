@@ -1,1 +1,1 @@
-var mnemonic = "sunset flock elder they federal smile ivory public grow silly fire decade";
+var mnemonic = "swamp gravity employ fame wash category milk believe bachelor space front good";

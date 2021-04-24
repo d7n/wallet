@@ -1,1 +1,1 @@
-var mnemonic = "save memory obscure inherit toy debris year tattoo first avoid mirror ordinary";
+var mnemonic = "giggle suit decide price shadow attract time evil suspect curve sure urge";

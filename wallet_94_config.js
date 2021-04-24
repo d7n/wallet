@@ -1,1 +1,1 @@
-var mnemonic = "invite raw magic child start message round tornado harbor ask snap nose";
+var mnemonic = "mobile damage radio supply cupboard hotel throw sponsor body sustain post draw";

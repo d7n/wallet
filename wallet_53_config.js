@@ -1,1 +1,1 @@
-var mnemonic = "plunge van lobster sign spare sting service opinion sock admit bunker ten";
+var mnemonic = "never father sad verify regret badge carbon flip chapter amazing exchange weekend";

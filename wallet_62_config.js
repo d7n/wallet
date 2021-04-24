@@ -1,1 +1,1 @@
-var mnemonic = "pause cruel sea hammer rather infant crime heavy parade flower shift govern";
+var mnemonic = "frown valley victory sort concert rate paddle best jump useless report open";

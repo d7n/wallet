@@ -1,1 +1,1 @@
-var mnemonic = "hard wedding only swift neutral remove raven badge market wash village recipe";
+var mnemonic = "position bag alter only catch grunt artefact mention traffic achieve battle approve";

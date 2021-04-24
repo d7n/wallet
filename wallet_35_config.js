@@ -1,1 +1,1 @@
-var mnemonic = "sun cat confirm van disagree where electric pony clown success emerge wall";
+var mnemonic = "close spot loop scrap cancel favorite matter funny ability birth pole involve";

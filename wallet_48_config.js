@@ -1,1 +1,1 @@
-var mnemonic = "east about piece wrist useless pull member mesh expose rally unknown venture";
+var mnemonic = "surprise elite sting lamp seed joke coast flight exhaust snake favorite fuel";

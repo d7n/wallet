@@ -1,1 +1,1 @@
-var mnemonic = "gadget long meadow super struggle bone outside craft property minimum ghost turn";
+var mnemonic = "small electric attend casino symptom rigid lava surface rigid chapter push flavor";

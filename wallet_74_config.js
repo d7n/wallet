@@ -1,1 +1,1 @@
-var mnemonic = "chaos seminar luggage wine hood book theory attitude force radar when weekend";
+var mnemonic = "general ride rice corn wide panther veteran skull loan spend song fashion";

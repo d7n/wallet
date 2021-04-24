@@ -1,1 +1,1 @@
-var mnemonic = "noble feed ride term grass print please enable attack attack keep transfer";
+var mnemonic = "type march choose ill horse foot mom fee boss diagram fork screen";

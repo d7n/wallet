@@ -1,1 +1,1 @@
-var mnemonic = "outside aisle idea place cloud fit usage common found region traffic twice";
+var mnemonic = "film surge crop remind online blind sniff security item describe script lucky";

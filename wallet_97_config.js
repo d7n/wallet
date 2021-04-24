@@ -1,1 +1,1 @@
-var mnemonic = "wagon debris divorce arrow grace know sand uncle mad hat arm foam";
+var mnemonic = "loud day walk city execute sauce lonely ivory either broken accident butter";

@@ -1,1 +1,1 @@
-var mnemonic = "almost crane palace finger more melody wage outer flee best market loop";
+var mnemonic = "kingdom between waste modify hill awesome fit bomb nut february matrix grace";

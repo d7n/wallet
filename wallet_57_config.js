@@ -1,1 +1,1 @@
-var mnemonic = "receive struggle loyal sunny leisure arrange way attract acquire oven head glare";
+var mnemonic = "offer emotion office run insane memory love offer burst mechanic someone forward";

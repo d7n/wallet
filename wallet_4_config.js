@@ -1,1 +1,1 @@
-var mnemonic = "fox mother rabbit poem future night retire input purchase dial surge depart";
+var mnemonic = "hen beyond impact early party volcano logic live scissors canoe favorite drip";

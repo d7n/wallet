@@ -1,1 +1,1 @@
-var mnemonic = "road vintage speed detail panel dwarf dry force comic shove crush pistol";
+var mnemonic = "edge pair sail powder job time ship solution discover pig pluck ticket";

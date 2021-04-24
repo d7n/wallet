@@ -1,1 +1,1 @@
-var mnemonic = "rabbit invite leopard peasant giggle light keen regular sentence network dragon inquiry";
+var mnemonic = "wash cricket canyon admit strike theory parent cloth champion box tourist tomorrow";

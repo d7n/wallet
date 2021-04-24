@@ -1,1 +1,1 @@
-var mnemonic = "wink away velvet huge protect chat original ankle grant noble rent invest";
+var mnemonic = "loyal orbit twelve net noise matrix all negative walnut radar avoid faculty";

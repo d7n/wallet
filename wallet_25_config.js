@@ -1,1 +1,1 @@
-var mnemonic = "spatial income river hidden wet endless lesson air liquid receive evidence message";
+var mnemonic = "laptop board sibling damage jewel token rude strike pool dignity message bike";

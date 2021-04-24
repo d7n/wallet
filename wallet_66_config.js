@@ -1,1 +1,1 @@
-var mnemonic = "season elder toddler lonely pen chalk muffin bitter across ride script never";
+var mnemonic = "upon shove stick casino inch spoil cheese crumble bubble marriage excite door";

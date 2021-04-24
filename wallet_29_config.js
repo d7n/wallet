@@ -1,1 +1,1 @@
-var mnemonic = "sort element energy soda crack search observe mail hollow another outer burden";
+var mnemonic = "wise forget shop frown hidden drift other olympic weekend tree wagon advance";

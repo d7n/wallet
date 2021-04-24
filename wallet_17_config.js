@@ -1,1 +1,1 @@
-var mnemonic = "stool sudden throw ranch hospital hard dose mad video latin usage vanish";
+var mnemonic = "arrow muscle version forest bicycle remember have tomato unaware path royal october";

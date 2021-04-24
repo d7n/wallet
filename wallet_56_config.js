@@ -1,1 +1,1 @@
-var mnemonic = "memory guilt emerge force flower fame fit into split shift certain mesh";
+var mnemonic = "wood else forward tobacco walk quarter version trigger aisle glory code odor";

@@ -1,1 +1,1 @@
-var mnemonic = "original awake decide enjoy trumpet large middle private next youth warrior orange";
+var mnemonic = "critic weird eager expose harbor crowd found general cloth kitten ecology scan";

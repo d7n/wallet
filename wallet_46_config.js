@@ -1,1 +1,1 @@
-var mnemonic = "situate glide flag intact reduce pioneer buffalo update false level box mask";
+var mnemonic = "curtain dutch scan supreme stock quit add excess canvas message celery pigeon";

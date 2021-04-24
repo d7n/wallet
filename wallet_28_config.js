@@ -1,1 +1,1 @@
-var mnemonic = "waste abandon skill mosquito three stock print purity source same arm right";
+var mnemonic = "render across hamster absorb either remind husband notable cave marble vital vapor";

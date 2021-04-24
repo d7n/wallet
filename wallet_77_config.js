@@ -1,1 +1,1 @@
-var mnemonic = "relief when grit solid monitor melt black nothing tired dilemma theme tiny";
+var mnemonic = "color talk cement october myth obvious essay senior derive van reduce drink";

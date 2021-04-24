@@ -1,1 +1,1 @@
-var mnemonic = "name soccer stick time merit very knee wool suggest want fever fold";
+var mnemonic = "girl uncover empty argue purse vibrant inner tank arrow upset scatter glare";

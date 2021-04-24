@@ -1,1 +1,1 @@
-var mnemonic = "mixture enforce venue face blouse riot zebra crunch very stem valve zoo";
+var mnemonic = "say violin atom abuse awful document blanket grain clap cause tower secret";

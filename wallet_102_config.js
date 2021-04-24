@@ -1,1 +1,1 @@
-var mnemonic = "survey dial law egg fox fee picture quantum purchase shop marine cupboard";
+var mnemonic = "sting town weapon color plastic manage symptom shock receive turkey dry room";

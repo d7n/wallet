@@ -1,1 +1,1 @@
-var mnemonic = "ball hello border drill empower hill people stomach relax wing mule zone";
+var mnemonic = "awake theme extend enough vessel curve refuse other legal blanket tribe dutch";

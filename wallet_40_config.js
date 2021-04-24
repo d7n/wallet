@@ -1,1 +1,1 @@
-var mnemonic = "fatal scrap survey raccoon canvas shuffle nasty park laugh gallery say assist";
+var mnemonic = "oven misery news town cricket lawsuit obey return obtain slow trash announce";

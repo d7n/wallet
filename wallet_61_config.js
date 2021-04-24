@@ -1,1 +1,1 @@
-var mnemonic = "fashion turn promote output auction census version consider outdoor carpet fossil warm";
+var mnemonic = "wood boost nice toilet february ship differ enemy grab general media deputy";

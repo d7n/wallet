@@ -1,1 +1,1 @@
-var mnemonic = "media such belt twist science prevent trust resist faculty bring recall action";
+var mnemonic = "chief salute tomato middle rain escape venture entry swap art sock hat";

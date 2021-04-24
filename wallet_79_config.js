@@ -1,1 +1,1 @@
-var mnemonic = "silver false roast oppose video member valid obey tunnel inmate audit view";
+var mnemonic = "host until can system bicycle labor credit buyer author inquiry system rose";
