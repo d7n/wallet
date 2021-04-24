@@ -1,1 +1,1 @@
-var mnemonic = "number choice hello blanket million trim scene system check fox verb arm";
+var mnemonic = "alone scene mandate hospital output deliver avoid devote neck north into bleak";

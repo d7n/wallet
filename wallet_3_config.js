@@ -1,1 +1,1 @@
-var mnemonic = "wealth flush trick oppose elder claw inmate dream will fold camp cheap";
+var mnemonic = "vivid light immune cement disagree friend public uncover truly visual cradle long";

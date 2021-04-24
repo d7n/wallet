@@ -1,1 +1,1 @@
-var mnemonic = "expose crunch tool strategy like accuse smart cupboard recycle thought elder motion";
+var mnemonic = "hotel talk rural mutual sense stereo solid smoke zero purpose weather disease";

@@ -1,1 +1,1 @@
-var mnemonic = "travel flower supreme suit thunder chef lock grit tray hundred skull hurdle";
+var mnemonic = "slot bunker slender copy fit olive seek promote vintage behave tray blush";

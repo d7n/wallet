@@ -1,1 +1,1 @@
-var mnemonic = "learn range elder job lesson abstract census window company accident giant peanut";
+var mnemonic = "lend snow crazy brand paddle bargain canvas another bright limb runway bunker";

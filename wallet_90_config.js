@@ -1,1 +1,1 @@
-var mnemonic = "forward mechanic peace media afraid hat attitude vicious coil limb other grocery";
+var mnemonic = "again ill derive special mom style raccoon cactus warrior supply struggle various";

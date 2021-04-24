@@ -1,1 +1,1 @@
-var mnemonic = "double afford onion laugh pulse blind collect sweet chunk reduce waste timber";
+var mnemonic = "hand property math method jaguar minute series mushroom devote connect scatter unfold";

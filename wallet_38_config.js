@@ -1,1 +1,1 @@
-var mnemonic = "execute submit biology news dad grant barely vessel glow transfer express kingdom";
+var mnemonic = "story blast burger gun normal attract envelope wisdom love birth stadium voice";

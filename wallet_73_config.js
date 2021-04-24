@@ -1,1 +1,1 @@
-var mnemonic = "pudding plastic basket team any mushroom drill cruise finger good dumb crash";
+var mnemonic = "coral post glance detail excess book frost plastic track opinion twenty auction";

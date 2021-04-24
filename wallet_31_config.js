@@ -1,1 +1,1 @@
-var mnemonic = "deal ordinary owner swim empty laugh camera win frown certain save paper";
+var mnemonic = "swallow tobacco alter dentist correct lawsuit wedding nephew never start pencil net";

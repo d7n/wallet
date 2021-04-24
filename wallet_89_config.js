@@ -1,1 +1,1 @@
-var mnemonic = "rigid lobster fringe crucial skate galaxy riot episode leg prefer million hen";
+var mnemonic = "view era express legal fetch smoke hurt coin pill mesh course april";

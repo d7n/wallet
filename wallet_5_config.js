@@ -1,1 +1,1 @@
-var mnemonic = "grow beach seven egg clip harsh achieve decide pizza bonus will wrap";
+var mnemonic = "like general loyal matter worth raise hobby illegal install pupil observe indoor";

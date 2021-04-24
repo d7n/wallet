@@ -1,1 +1,1 @@
-var mnemonic = "stock rely giraffe enough soldier never tank grant clean corn pear east";
+var mnemonic = "month switch table tell flat confirm luxury basic pen north indicate usage";

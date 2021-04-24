@@ -1,1 +1,1 @@
-var mnemonic = "leaf magnet exchange amount clean photo fall solution hammer coach fault present";
+var mnemonic = "cage void similar frog agent level afford joke mosquito reopen shove fancy";

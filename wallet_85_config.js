@@ -1,1 +1,1 @@
-var mnemonic = "soft prefer patch avocado radio sample spoil play trip sample sock between";
+var mnemonic = "suspect earn cube snow educate creek jacket erosion winter peasant equal method";

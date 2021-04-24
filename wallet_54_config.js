@@ -1,1 +1,1 @@
-var mnemonic = "boring cube hood butter box shoot rapid spring coil game winter special";
+var mnemonic = "climb finish bottom update switch country firm ship issue allow danger leopard";

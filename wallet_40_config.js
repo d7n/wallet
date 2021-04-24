@@ -1,1 +1,1 @@
-var mnemonic = "home law violin tip trap erode federal vocal gadget toss coconut caution";
+var mnemonic = "thing risk convince mango story congress client child essay fever daring select";

@@ -1,1 +1,1 @@
-var mnemonic = "exile rain honey hello hurt milk insect much ensure disagree ketchup bulb";
+var mnemonic = "truck umbrella hamster teach curtain crisp frame brass funny luggage second claw";

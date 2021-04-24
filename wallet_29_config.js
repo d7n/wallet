@@ -1,1 +1,1 @@
-var mnemonic = "farm cradle try what lawsuit leader force mule purpose novel erode tuition";
+var mnemonic = "mosquito frozen smart enhance victory quit material exclude monkey equip agent woman";

@@ -1,1 +1,1 @@
-var mnemonic = "sun story hello enroll famous kick genius gate snack minor aspect loop";
+var mnemonic = "measure sing used virus fossil old language middle audit magnet speak since";

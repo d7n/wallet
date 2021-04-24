@@ -1,1 +1,1 @@
-var mnemonic = "enhance dose upset carpet basic segment palm permit refuse shock cabin snow";
+var mnemonic = "disease supply risk acoustic inspire venue hand flee spare friend marriage all";

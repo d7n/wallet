@@ -1,1 +1,1 @@
-var mnemonic = "trial emotion cash return market swap chimney borrow claw custom flat grab";
+var mnemonic = "under version milk city tray assume journey pistol swift sorry mad frown";

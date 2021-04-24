@@ -1,1 +1,1 @@
-var mnemonic = "cheap alone traffic arrest witness razor resist advice match mixed help latin";
+var mnemonic = "song parrot plunge donor three ready auto mystery age upgrade leisure young";

@@ -1,1 +1,1 @@
-var mnemonic = "grab home author family between act memory gain goddess hint cave congress";
+var mnemonic = "glare famous live cloud bracket observe short unveil core corn fire sting";

@@ -1,1 +1,1 @@
-var mnemonic = "humble oxygen until option seminar border praise renew tent cry clerk mosquito";
+var mnemonic = "solution keen cradle fatal stool clog tilt another brother final also camera";

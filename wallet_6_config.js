@@ -1,1 +1,1 @@
-var mnemonic = "flower slight lamp silver choice file never decrease have blossom east play";
+var mnemonic = "taxi cheese suspect trigger reunion legal night ladder raccoon frozen bachelor wing";

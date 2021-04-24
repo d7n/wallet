@@ -1,1 +1,1 @@
-var mnemonic = "cousin sport forest scorpion garage empower diet cinnamon roast school victory shrug";
+var mnemonic = "other corn nominee payment mushroom during light ten heavy spice march soft";

@@ -1,1 +1,1 @@
-var mnemonic = "silent snack worth top master riot disease lens tool side leopard any";
+var mnemonic = "slight amateur party true urge dirt empower patrol fault onion glare original";

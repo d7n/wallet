@@ -1,1 +1,1 @@
-var mnemonic = "autumn clown token rent okay near print visual gossip glow endless midnight";
+var mnemonic = "melody tooth uncle text behind credit sound chronic desk crazy hybrid sting";

@@ -1,1 +1,1 @@
-var mnemonic = "become sand example gorilla adapt draw anger heavy happy antenna relief evidence";
+var mnemonic = "shine battle month circle impulse learn involve collect tube sport noise sick";

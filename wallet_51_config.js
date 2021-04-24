@@ -1,1 +1,1 @@
-var mnemonic = "ancient machine juice couple citizen helmet advice dial pistol cute neck clown";
+var mnemonic = "access elevator august donkey inform jewel satoshi glove lizard strike learn heart";

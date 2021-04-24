@@ -1,1 +1,1 @@
-var mnemonic = "art wire news waste awesome country merge million motion begin fix young";
+var mnemonic = "whisper gasp shine hawk truth burden flush slow quick mad blood unusual";

@@ -1,1 +1,1 @@
-var mnemonic = "oven muscle change hill intact awake flip federal prefer essay assault auto";
+var mnemonic = "option wine pass stadium aspect dentist shell skull fly picture universe spider";

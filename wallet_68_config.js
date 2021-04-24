@@ -1,1 +1,1 @@
-var mnemonic = "beach ride diagram copper hammer joke spatial badge loop mule baby enhance";
+var mnemonic = "until family ozone milk wool future wise disease quote fun demise remember";

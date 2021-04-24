@@ -1,1 +1,1 @@
-var mnemonic = "already erase ethics mixed tribe memory dwarf problem wonder strike tool silent";
+var mnemonic = "enforce crucial wreck immense step step crouch discover pact vibrant learn object";

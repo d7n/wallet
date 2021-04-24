@@ -1,1 +1,1 @@
-var mnemonic = "limb tornado reopen curve recipe divert cycle game budget vacuum visual item";
+var mnemonic = "prize sunset check social blade program coach brisk bicycle armor coral depth";

@@ -1,1 +1,1 @@
-var mnemonic = "truly mention shine ice into answer snake iron cherry behind false try";
+var mnemonic = "special speak depart family client horn fortune tired toilet amount match bounce";

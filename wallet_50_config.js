@@ -1,1 +1,1 @@
-var mnemonic = "chaos answer aunt process palace ill hello horse avoid sample simple metal";
+var mnemonic = "west flat essay picnic caution box endless sort famous loyal during leg";

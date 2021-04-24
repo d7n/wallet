@@ -1,1 +1,1 @@
-var mnemonic = "winner invite knock income poet rude unable flavor seat suit addict furnace";
+var mnemonic = "swap owner fit tail tired knock vault baby guess aisle seminar error";

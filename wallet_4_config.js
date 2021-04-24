@@ -1,1 +1,1 @@
-var mnemonic = "hamster fall twelve swift student soft stomach wife try present toilet equal";
+var mnemonic = "source fade vendor survey desert purpose barrel young idea cycle grain width";

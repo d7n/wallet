@@ -1,1 +1,1 @@
-var mnemonic = "giant unlock foster kite vivid tiny correct moon ski direct evidence narrow";
+var mnemonic = "old reason mean voice used two ostrich vivid click you fun habit";

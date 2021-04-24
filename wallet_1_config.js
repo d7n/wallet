@@ -1,1 +1,1 @@
-var mnemonic = "science pink super filter fan chaos knife horror artist shed heavy extend";
+var mnemonic = "ignore early olympic gloom bridge trigger angry finish chapter near few borrow";

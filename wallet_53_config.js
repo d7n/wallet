@@ -1,1 +1,1 @@
-var mnemonic = "north property employ express boring melt reward matrix grid disagree size magic";
+var mnemonic = "buddy matter brief ivory urban grief dial vault swamp like anxiety wheel";

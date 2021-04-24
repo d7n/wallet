@@ -1,1 +1,1 @@
-var mnemonic = "first error velvet foot alone diesel attitude know tag increase sudden lumber";
+var mnemonic = "hockey exhibit same ship title joke couch arm flush pilot inspire jealous";

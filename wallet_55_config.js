@@ -1,1 +1,1 @@
-var mnemonic = "tilt key object inhale upper notable return deliver mule pull lady since";
+var mnemonic = "fetch public love answer flower season notable hood solve hair guess animal";

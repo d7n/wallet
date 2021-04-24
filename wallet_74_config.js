@@ -1,1 +1,1 @@
-var mnemonic = "attitude spoil park vanish alert unknown hybrid cherry drop truck shift feel";
+var mnemonic = "wide fork mixed feature world jump sponsor fit axis clay type river";

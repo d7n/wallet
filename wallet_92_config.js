@@ -1,1 +1,1 @@
-var mnemonic = "agree sight fabric wild rice tray tiny thrive picture ribbon beef layer";
+var mnemonic = "rebel mail sorry poverty page identify north more depend kitten clutch video";

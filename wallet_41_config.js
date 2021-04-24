@@ -1,1 +1,1 @@
-var mnemonic = "negative dance kangaroo hole when fatal priority flower judge couple debris combine";
+var mnemonic = "century evolve raven jar antique neither oppose glue reunion still push also";

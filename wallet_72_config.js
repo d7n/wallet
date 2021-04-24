@@ -1,1 +1,1 @@
-var mnemonic = "orbit palm manage blouse off spider visa culture cereal poem close flavor";
+var mnemonic = "birth loan harbor fun season record relief swing mirror welcome coach level";

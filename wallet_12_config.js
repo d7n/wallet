@@ -1,1 +1,1 @@
-var mnemonic = "congress require dry athlete long car all fiscal hood casual flag first";
+var mnemonic = "advance pave buzz danger smart stay segment joy confirm screen bicycle actor";

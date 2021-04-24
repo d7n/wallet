@@ -1,1 +1,1 @@
-var mnemonic = "debate wire property coach series spider yard witness half earth age banner";
+var mnemonic = "magic inform junk marble pilot hat rich jar remember drip solid mutual";

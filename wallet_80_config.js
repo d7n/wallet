@@ -1,1 +1,1 @@
-var mnemonic = "taxi luxury avocado annual spoil disease screen cruise shiver scheme carbon behind";
+var mnemonic = "medal table aisle aspect tired example tray air shove soda galaxy cluster";

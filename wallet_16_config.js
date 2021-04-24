@@ -1,1 +1,1 @@
-var mnemonic = "deer fix dad world turkey web device ivory recipe traffic income narrow";
+var mnemonic = "south parent sister suggest escape bronze current hand fortune maximum rack broom";

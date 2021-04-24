@@ -1,1 +1,1 @@
-var mnemonic = "crucial clap domain arrange banana nerve proud lounge midnight true drama twice";
+var mnemonic = "promote quality tissue acquire culture clarify meadow display furnace payment exchange limit";

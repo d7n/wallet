@@ -1,1 +1,1 @@
-var mnemonic = "trend fish anger prison fame tomato recycle capital wage code hospital slot";
+var mnemonic = "labor trust cheese crash degree predict defense attend soda mosquito vessel wing";

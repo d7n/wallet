@@ -1,1 +1,1 @@
-var mnemonic = "ready fortune enemy blade pear awkward sport affair mechanic fuel grief chair";
+var mnemonic = "torch salon ghost sketch immense chair above ozone super mansion nominee happy";

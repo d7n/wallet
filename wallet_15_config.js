@@ -1,1 +1,1 @@
-var mnemonic = "bread detail sorry planet floor produce alley treat thumb friend plunge october";
+var mnemonic = "nest body cruel road injury raccoon possible sketch birth trade cousin choose";

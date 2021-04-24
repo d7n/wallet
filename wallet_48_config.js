@@ -1,1 +1,1 @@
-var mnemonic = "manual royal tank trick candy gift crunch aerobic skull sad bring poet";
+var mnemonic = "buzz proof script squirrel promote emerge local useless report foot buffalo erode";

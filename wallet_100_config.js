@@ -1,1 +1,1 @@
-var mnemonic = "define knife shrimp various coral custom party ramp silly course alcohol remember";
+var mnemonic = "buyer club history steel again among current accuse patient slide pill wink";

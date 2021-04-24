@@ -1,1 +1,1 @@
-var mnemonic = "twist pet blouse dumb across photo fruit grass future divorce often chair";
+var mnemonic = "audit life chest roast manage oppose rough cigar shrug brand lamp law";

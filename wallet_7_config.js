@@ -1,1 +1,1 @@
-var mnemonic = "since inhale asthma cushion chef such gentle auto cotton city only fetch";
+var mnemonic = "cable warrior gold never muscle hotel arrange oil account planet crush topple";

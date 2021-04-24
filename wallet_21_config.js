@@ -1,1 +1,1 @@
-var mnemonic = "again staff spoil dog yard fault tunnel clog child film liquid economy";
+var mnemonic = "used evolve miracle explain leader spell announce zone mixed silk erupt fault";

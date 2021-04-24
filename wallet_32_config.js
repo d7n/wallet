@@ -1,1 +1,1 @@
-var mnemonic = "artwork ahead super situate resource dial shoe burger outdoor elbow sense video";
+var mnemonic = "bachelor fragile exchange provide print best flavor fortune peasant claim novel purchase";

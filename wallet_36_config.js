@@ -1,1 +1,1 @@
-var mnemonic = "face slight path method shed advance fabric indicate hire pear chalk help";
+var mnemonic = "mystery rice victory tell poem neck tiger ship income share world sail";

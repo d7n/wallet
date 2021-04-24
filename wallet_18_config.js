@@ -1,1 +1,1 @@
-var mnemonic = "evoke winner tennis sock general young proof false twenty grant similar visa";
+var mnemonic = "planet moral foil pair post coffee gravity lunch easily fiscal execute cat";

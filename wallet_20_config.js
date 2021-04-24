@@ -1,1 +1,1 @@
-var mnemonic = "stuff useless lyrics device nature unhappy erode census check scan target verify";
+var mnemonic = "family climb entry bitter spice reform float purpose delay wheat want credit";

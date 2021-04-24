@@ -1,1 +1,1 @@
-var mnemonic = "cannon excess crazy person trumpet shoe spice frame shoot symptom title equip";
+var mnemonic = "extra twelve knife brave cancel pull ozone club priority brother crowd notable";

@@ -1,1 +1,1 @@
-var mnemonic = "bonus secret sea security simple urban unit sort amount artwork extra nature";
+var mnemonic = "virus bread ramp treat into box dizzy pen notable lumber orbit bomb";

@@ -1,1 +1,1 @@
-var mnemonic = "suspect phone void rapid library simple alien cereal solution sadness letter hover";
+var mnemonic = "deal summer sister tornado device yard letter another rich traffic region isolate";

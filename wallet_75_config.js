@@ -1,1 +1,1 @@
-var mnemonic = "airport behind afford struggle pen atom super estate monster hover swift proud";
+var mnemonic = "twenty retire damp announce sausage stone crater minimum cruise caught hunt equal";

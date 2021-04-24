@@ -1,1 +1,1 @@
-var mnemonic = "window mistake december laundry chuckle again clock afford spot bachelor arm search";
+var mnemonic = "all mixture bacon matter write leopard flush true often pig have major";

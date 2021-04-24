@@ -1,1 +1,1 @@
-var mnemonic = "oblige milk bicycle permit fiscal road visit grape fortune muscle front refuse";
+var mnemonic = "portion brick liquid marble smooth another hill mass local almost item copper";

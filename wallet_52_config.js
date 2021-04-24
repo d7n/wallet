@@ -1,1 +1,1 @@
-var mnemonic = "blue donkey prize crisp pattern broom head scrap dance pottery vapor poverty";
+var mnemonic = "offer alert marine aware purpose fly patch thrive dentist focus crouch tool";

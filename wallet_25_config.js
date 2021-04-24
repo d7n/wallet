@@ -1,1 +1,1 @@
-var mnemonic = "this aunt squeeze repeat whisper bamboo scrub inherit rigid permit monster ripple";
+var mnemonic = "hamster banner oppose romance trade goose ready doctor until bicycle armor lawsuit";

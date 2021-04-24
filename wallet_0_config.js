@@ -1,1 +1,1 @@
-var mnemonic = "iron curious shove inhale kiwi video gown spirit wish ticket return there";
+var mnemonic = "joy moral nice creek exotic various mango velvet review thought romance program";

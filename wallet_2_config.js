@@ -1,1 +1,1 @@
-var mnemonic = "donor brush under balance wide blood gap float clump indoor mammal garbage";
+var mnemonic = "slim race sport print affair dinosaur jeans silver shoulder must indicate robust";

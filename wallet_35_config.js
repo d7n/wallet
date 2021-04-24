@@ -1,1 +1,1 @@
-var mnemonic = "salon permit kiss foil near ladder pretty phone minimum aware talk spice";
+var mnemonic = "nuclear verb six orphan barrel face host galaxy ugly chuckle choose kitten";

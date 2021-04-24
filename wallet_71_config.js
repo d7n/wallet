@@ -1,1 +1,1 @@
-var mnemonic = "fury kidney remove target spring midnight trust exhaust body raccoon mechanic aware";
+var mnemonic = "wedding bird faith merge alert company wild maid chest palace differ connect";

@@ -1,1 +1,1 @@
-var mnemonic = "nation alert talk reject short casino base tube hybrid crunch library track";
+var mnemonic = "result royal chest nasty level ring bottom mosquito sort world deputy quit";

@@ -1,1 +1,1 @@
-var mnemonic = "become cycle recipe bridge spend churn vocal faith trial zebra wood canvas";
+var mnemonic = "key vintage near conduct wise chest wait camera lemon tree bless filter";

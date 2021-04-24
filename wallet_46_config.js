@@ -1,1 +1,1 @@
-var mnemonic = "betray burden suit sail radio digital problem notice flash zoo profit scale";
+var mnemonic = "drift cluster wrist steak little clean blue cry blood left radio meat";

@@ -1,1 +1,1 @@
-var mnemonic = "cube short abuse raven acquire digital burst reduce find hello blue pride";
+var mnemonic = "glad such system angle mesh vivid resemble foster peace food life flower";

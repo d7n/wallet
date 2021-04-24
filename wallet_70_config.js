@@ -1,1 +1,1 @@
-var mnemonic = "major chapter snow legend success wood fruit dinosaur taste wedding impulse party";
+var mnemonic = "age muscle buzz cactus balance toward key ankle spot sick ritual expose";

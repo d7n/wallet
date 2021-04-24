@@ -1,1 +1,1 @@
-var mnemonic = "begin cousin approve cream sock wreck prosper patient venture resemble gauge large";
+var mnemonic = "fashion reject tornado enough chase grace situate jelly misery phrase turtle pioneer";

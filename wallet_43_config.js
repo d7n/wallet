@@ -1,1 +1,1 @@
-var mnemonic = "length reform enforce aspect meat mesh carbon famous force review explain clutch";
+var mnemonic = "dumb oxygen coast west depth bonus uniform saddle obtain slice gauge true";

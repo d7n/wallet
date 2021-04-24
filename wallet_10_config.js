@@ -1,1 +1,1 @@
-var mnemonic = "rich scissors route lamp alpha post panda cheese special fish donkey crater";
+var mnemonic = "canal comfort crash document pulse silent wreck spoil circle truck sock bench";

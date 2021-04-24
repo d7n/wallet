@@ -1,1 +1,1 @@
-var mnemonic = "practice certain winter sell green region cry coin leisure lion lend brave";
+var mnemonic = "slender perfect announce team two bronze sample comfort kangaroo pass mistake capital";
