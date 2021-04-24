@@ -1,1 +1,1 @@
-var mnemonic = "recipe leisure legal later crater level palace slim immense duck arch rely";
+var mnemonic = "north yard vintage course common arctic biology group adjust provide symptom diesel";

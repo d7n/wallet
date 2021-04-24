@@ -1,1 +1,1 @@
-var mnemonic = "trade wide arctic twice acoustic demise control fiscal section unknown peanut inner";
+var mnemonic = "yellow alcohol retire pole fence use ski measure hover else excuse empty";

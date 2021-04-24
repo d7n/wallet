@@ -1,1 +1,1 @@
-var mnemonic = "unhappy surge hire winter manual boost strong quick dial wage arrive boost";
+var mnemonic = "spawn follow rather insect truly funny invest scissors sleep turn myself pluck";

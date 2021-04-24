@@ -1,1 +1,1 @@
-var mnemonic = "wine best divorce luggage inform humble cattle sport absent waste tell demand";
+var mnemonic = "depth fiscal enough blur fox certain spot boat arch phrase pigeon survey";

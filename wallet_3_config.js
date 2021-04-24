@@ -1,1 +1,1 @@
-var mnemonic = "what chair rapid either story ozone during dash home found way denial";
+var mnemonic = "hammer silk coast photo trade climb lunch airport follow chair budget federal";

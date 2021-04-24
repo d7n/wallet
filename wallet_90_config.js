@@ -1,1 +1,1 @@
-var mnemonic = "cave salt honey cube pluck call talk regular emerge deny impose wrap";
+var mnemonic = "awkward indoor member enact unlock lava identify check hour magnet rent witness";

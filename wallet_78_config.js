@@ -1,1 +1,1 @@
-var mnemonic = "such noble depth ask seat immune today rotate owner friend carbon atom";
+var mnemonic = "cricket ranch agree broken snack enact asthma already spatial convince emotion spice";

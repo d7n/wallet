@@ -1,1 +1,1 @@
-var mnemonic = "flower creek vibrant toast print upon today enhance child gain cause cherry";
+var mnemonic = "physical parent leader urge april merge cake gloom taxi employ filter coin";

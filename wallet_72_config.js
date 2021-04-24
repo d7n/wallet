@@ -1,1 +1,1 @@
-var mnemonic = "spare chaos among deputy provide warm sorry silly hire crater emotion blossom";
+var mnemonic = "tennis bulk pistol spot autumn error add boost assault pass pen doll";

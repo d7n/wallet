@@ -1,1 +1,1 @@
-var mnemonic = "hazard drill kick post peace twelve guitar section drum street ostrich female";
+var mnemonic = "fabric pen address wink innocent husband nut disorder cheese prevent apple wise";

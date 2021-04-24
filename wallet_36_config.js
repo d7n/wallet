@@ -1,1 +1,1 @@
-var mnemonic = "rabbit permit security buzz protect very logic festival please cook soldier volume";
+var mnemonic = "taxi mixture boy choose mother control absent robust letter recall outer trade";

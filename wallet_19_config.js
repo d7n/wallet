@@ -1,1 +1,1 @@
-var mnemonic = "food tuna frame cereal juice shove core vault install photo rude erosion";
+var mnemonic = "vacant crime satoshi explain advice spider cat rescue siege sign silent lesson";

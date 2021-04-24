@@ -1,1 +1,1 @@
-var mnemonic = "laugh cable range keep enforce mail tenant smile proud muscle broom rabbit";
+var mnemonic = "walnut alarm chief feature urge mobile about lend key pepper aim mountain";

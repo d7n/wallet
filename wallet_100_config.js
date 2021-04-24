@@ -1,1 +1,1 @@
-var mnemonic = "slow caught ethics flight caught ethics clerk alley margin shield someone praise";
+var mnemonic = "horse luxury bulb cross chase resource network ability ritual ensure trigger settle";

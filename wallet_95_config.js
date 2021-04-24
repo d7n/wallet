@@ -1,1 +1,1 @@
-var mnemonic = "tenant disorder develop add truly flight soda document aspect raw library skill";
+var mnemonic = "pig protect soda chronic trial gain view recall quiz walnut six treat";

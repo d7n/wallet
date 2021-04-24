@@ -1,1 +1,1 @@
-var mnemonic = "egg side wood brick random method daughter roast rib end liar drastic";
+var mnemonic = "mobile jacket gorilla satisfy erase salad paddle blush tenant derive dragon today";

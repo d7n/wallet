@@ -1,1 +1,1 @@
-var mnemonic = "little piano jelly coyote common select budget wasp grain month gesture shop";
+var mnemonic = "there receive agent blind hero report cancel check ridge cable eye entire";

@@ -1,1 +1,1 @@
-var mnemonic = "render choose grass pistol beef shaft net special number cool nation virtual";
+var mnemonic = "lawsuit repeat pave name theory fly twin grocery together mail olive crime";

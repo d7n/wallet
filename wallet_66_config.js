@@ -1,1 +1,1 @@
-var mnemonic = "runway renew term quarter view holiday bicycle whisper success arena zone school";
+var mnemonic = "rigid review usual autumn accident december food sausage abandon describe six avocado";

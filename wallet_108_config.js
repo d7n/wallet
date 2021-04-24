@@ -1,1 +1,1 @@
-var mnemonic = "fly elephant depart merge have zero cradle auto drama item filter shell";
+var mnemonic = "wash drift author horse exhaust regular wisdom envelope say idea warm list";

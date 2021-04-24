@@ -1,1 +1,1 @@
-var mnemonic = "toy truck kitchen praise catch cool update inner fun insect test web";
+var mnemonic = "swim mechanic seed clump frown grief border tobacco receive skate deposit liar";

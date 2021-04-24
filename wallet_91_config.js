@@ -1,1 +1,1 @@
-var mnemonic = "velvet bomb again tank term guard buddy avoid level street border organ";
+var mnemonic = "name river laugh cable tomato walnut exercise gospel cup hospital skin refuse";

@@ -1,1 +1,1 @@
-var mnemonic = "master leaf slam spider arrow kind sing garage hover arrow sad captain";
+var mnemonic = "sport script float chase wild knee focus this good waste oven good";

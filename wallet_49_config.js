@@ -1,1 +1,1 @@
-var mnemonic = "viable axis grace marine false couch bonus arch gesture gentle fossil era";
+var mnemonic = "sweet fatigue now enforce cannon broom such announce myth donor brain peanut";

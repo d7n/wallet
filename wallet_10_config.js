@@ -1,1 +1,1 @@
-var mnemonic = "approve ridge error since mirror hawk giggle erode wonder crawl meadow swarm";
+var mnemonic = "index unusual vibrant noble inhale attract flavor kingdom organ ivory dutch erase";

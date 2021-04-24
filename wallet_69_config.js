@@ -1,1 +1,1 @@
-var mnemonic = "dawn polar month trumpet search struggle neither divert cage grocery magic ivory";
+var mnemonic = "ticket buddy human immense shock rough copper oyster increase enough learn much";

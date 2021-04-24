@@ -1,1 +1,1 @@
-var mnemonic = "fatal rabbit napkin road assault close elegant attitude power night near crisp";
+var mnemonic = "grit vessel easily fault damp endorse connect biology erode quarter boring negative";

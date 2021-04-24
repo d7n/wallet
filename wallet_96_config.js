@@ -1,1 +1,1 @@
-var mnemonic = "floor arrange thumb dynamic despair update mouse civil dawn collect position deliver";
+var mnemonic = "air best fix language design tackle cinnamon warrior bench reform win curve";

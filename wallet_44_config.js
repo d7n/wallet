@@ -1,1 +1,1 @@
-var mnemonic = "notable diet double gaze example neglect pact ready mule pretty weird medal";
+var mnemonic = "angle brown detect mean fringe obey tragic soccer slice rabbit drink puppy";

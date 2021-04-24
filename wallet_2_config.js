@@ -1,1 +1,1 @@
-var mnemonic = "enroll prepare slim donor shaft ritual affair average congress expire latin mirror";
+var mnemonic = "game good display behave great dutch rigid kick stamp other record gravity";

@@ -1,1 +1,1 @@
-var mnemonic = "note flash job theme wreck decade oppose next burden couple brown artefact";
+var mnemonic = "convince wealth nasty problem guard tuna almost boss color health work potato";

@@ -1,1 +1,1 @@
-var mnemonic = "absent turn paddle little credit virus curve basket sad inquiry sibling skin";
+var mnemonic = "stand vocal doctor keep muscle regret skirt marriage olive execute raise brown";

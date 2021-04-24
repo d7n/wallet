@@ -1,1 +1,1 @@
-var mnemonic = "infant success firm okay seed myth upon brief witness buyer green primary";
+var mnemonic = "vapor unfair raise hat liar fresh key wild thing trick matter gossip";

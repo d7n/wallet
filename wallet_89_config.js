@@ -1,1 +1,1 @@
-var mnemonic = "uphold salmon rabbit melody input canvas soft soul tomato theme marble control";
+var mnemonic = "thumb second fatigue stock rule laugh town gossip decide other banner accuse";

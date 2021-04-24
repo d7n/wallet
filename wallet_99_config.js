@@ -1,1 +1,1 @@
-var mnemonic = "pill deny captain fan habit bulk bleak leisure lounge genuine enhance drift";
+var mnemonic = "narrow aunt tattoo paddle tonight polar make vast stage kind inspire recipe";

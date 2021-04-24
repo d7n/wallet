@@ -1,1 +1,1 @@
-var mnemonic = "ten language basic neglect spoil envelope snack lens lava like peasant ill";
+var mnemonic = "muffin find when security clean beyond pretty injury torch place match okay";

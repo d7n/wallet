@@ -1,1 +1,1 @@
-var mnemonic = "about promote ticket curtain soccer security evolve timber friend vicious park idea";
+var mnemonic = "what peanut trend fold whip unveil mother memory unhappy kiss save roast";

@@ -1,1 +1,1 @@
-var mnemonic = "build glad lamp cactus push grab sense sustain consider custom bitter grocery";
+var mnemonic = "little virus become code float state gravity logic armor pill near few";

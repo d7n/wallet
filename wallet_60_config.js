@@ -1,1 +1,1 @@
-var mnemonic = "utility whisper quantum melt vehicle effort myself brass exclude frown drama before";
+var mnemonic = "unknown describe jazz net phone vital dance vintage teach long large review";

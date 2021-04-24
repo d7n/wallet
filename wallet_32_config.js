@@ -1,1 +1,1 @@
-var mnemonic = "hub trigger puppy author purse silk obey pear drink entire quality life";
+var mnemonic = "amused april alter source bless weasel beauty tattoo drive aspect swarm capital";

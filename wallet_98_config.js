@@ -1,1 +1,1 @@
-var mnemonic = "situate cradle waste much crime mail nice fluid dice guard drastic cheese";
+var mnemonic = "dust divide embark ahead teach doctor attitude diet volume smart build digital";

@@ -1,1 +1,1 @@
-var mnemonic = "agent similar figure attitude ozone primary machine crisp mercy deer debate cross";
+var mnemonic = "market radar theory skull crouch process ecology leaf enter mushroom climb bubble";

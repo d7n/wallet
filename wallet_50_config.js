@@ -1,1 +1,1 @@
-var mnemonic = "host mesh hint throw exit pumpkin lake foster attack lonely record rude";
+var mnemonic = "useless twist judge old toilet change slim limb vintage pink genuine wealth";

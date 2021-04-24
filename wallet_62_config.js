@@ -1,1 +1,1 @@
-var mnemonic = "sadness flat assault feature endorse leaf until sense loyal erosion syrup yard";
+var mnemonic = "all staff wing scissors lonely ten letter naive armor gown pledge topic";

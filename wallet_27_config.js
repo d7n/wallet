@@ -1,1 +1,1 @@
-var mnemonic = "dust private cabin betray timber saddle live twenty network file crash run";
+var mnemonic = "dad distance guard arrange purpose palace post hover mention click menu permit";

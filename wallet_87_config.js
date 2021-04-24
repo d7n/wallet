@@ -1,1 +1,1 @@
-var mnemonic = "culture kitchen paddle cluster polar knock short manual february film negative denial";
+var mnemonic = "space oppose random snake notable approve salmon level chunk test margin decline";

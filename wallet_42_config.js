@@ -1,1 +1,1 @@
-var mnemonic = "motion blade maid mandate join relief sugar civil cereal become ribbon purchase";
+var mnemonic = "husband punch enrich labor reopen have radar cactus love coffee episode melody";

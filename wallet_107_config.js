@@ -1,1 +1,1 @@
-var mnemonic = "region absurd behave lobster icon south thought mass food snake shield what";
+var mnemonic = "finish identify kid before arrest clean wish pretty finger seven misery rose";

@@ -1,1 +1,1 @@
-var mnemonic = "window narrow race stool bring light fatigue aspect reflect elbow payment coil";
+var mnemonic = "plug fabric club acoustic marriage select method snake possible effort chronic session";

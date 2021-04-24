@@ -1,1 +1,1 @@
-var mnemonic = "point eyebrow crew detect evolve forum ritual hover loud nurse sample acoustic";
+var mnemonic = "change person eager online club zoo monitor onion demise close before jeans";

@@ -1,1 +1,1 @@
-var mnemonic = "salt dry race bag morning thing motor decide helmet sense damp skirt";
+var mnemonic = "kangaroo chicken advance acid strong shuffle ball tenant enter current treat wisdom";

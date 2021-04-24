@@ -1,1 +1,1 @@
-var mnemonic = "comfort tornado elite soda coyote later depart estate chaos urban give bag";
+var mnemonic = "talent silk response outside develop grab vast find human trim elephant animal";

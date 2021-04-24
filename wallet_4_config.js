@@ -1,1 +1,1 @@
-var mnemonic = "despair race limb capital velvet earn cactus jaguar book bright someone carbon";
+var mnemonic = "suit century patch penalty hat brave novel decorate fatal clean donate raccoon";

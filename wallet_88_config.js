@@ -1,1 +1,1 @@
-var mnemonic = "denial call fix suspect turkey thunder inside danger horse very tip sail";
+var mnemonic = "patrol addict rubber fit reveal orient among erosion question ring cool tortoise";

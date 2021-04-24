@@ -1,1 +1,1 @@
-var mnemonic = "era depart volume endless theme disagree asset viable loan genuine script mother";
+var mnemonic = "october subject dragon sunny occur enhance regular chuckle harbor tooth useful more";

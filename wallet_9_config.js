@@ -1,1 +1,1 @@
-var mnemonic = "promote habit human cube clump similar satoshi rack ball coral furnace follow";
+var mnemonic = "thank hub hedgehog diamond clock find autumn mistake source rare rain quit";

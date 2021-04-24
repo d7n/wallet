@@ -1,1 +1,1 @@
-var mnemonic = "awful layer bullet stove scissors inquiry congress hire faint fatal transfer fever";
+var mnemonic = "approve arm ten poet innocent cradle upset mystery return toy strong sphere";

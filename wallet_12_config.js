@@ -1,1 +1,1 @@
-var mnemonic = "poem employ amount ordinary junior ketchup cabbage similar hand avocado deputy alcohol";
+var mnemonic = "candy since chase hungry effort romance until advice design actress like must";

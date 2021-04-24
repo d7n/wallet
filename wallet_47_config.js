@@ -1,1 +1,1 @@
-var mnemonic = "feed silent carbon say stairs permit slice govern idea model kit column";
+var mnemonic = "text script cage hair addict spice sword ride wave stamp diagram anger";

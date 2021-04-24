@@ -1,1 +1,1 @@
-var mnemonic = "fantasy unveil source what day shine kidney protect album panic honey cook";
+var mnemonic = "desert remember lion real never glance step repeat fly expect monkey inform";

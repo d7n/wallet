@@ -1,1 +1,1 @@
-var mnemonic = "vessel rocket interest asthma lumber worry chronic end latin bullet thunder promote";
+var mnemonic = "brave basket border nuclear urban cargo million access delay modify giggle bubble";

@@ -1,1 +1,1 @@
-var mnemonic = "today mention false cheap capital flat distance skill injury boy embark silly";
+var mnemonic = "mango aim furnace shoe protect moral frown screen coast park dismiss genuine";

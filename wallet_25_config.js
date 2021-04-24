@@ -1,1 +1,1 @@
-var mnemonic = "virtual dune slender east indicate choice verb casino void window surge front";
+var mnemonic = "fatal trash action plate trip gap where much traffic bitter auto settle";

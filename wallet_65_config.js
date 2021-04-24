@@ -1,1 +1,1 @@
-var mnemonic = "double frog color follow flat beyond habit gossip slush soft trophy blood";
+var mnemonic = "huge abandon hungry matter praise senior seek second wagon extend promote genius";

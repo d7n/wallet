@@ -1,1 +1,1 @@
-var mnemonic = "bread license auction holiday pond column enforce rocket arch ghost video sugar";
+var mnemonic = "civil flock answer rather record sample wolf abstract original aspect poet cube";

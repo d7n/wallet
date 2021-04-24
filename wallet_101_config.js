@@ -1,1 +1,1 @@
-var mnemonic = "vapor ladder vessel safe educate cover velvet mean charge giggle service major";
+var mnemonic = "business company zoo tide uncle shadow raccoon super often neck speak unlock";

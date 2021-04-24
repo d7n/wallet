@@ -1,1 +1,1 @@
-var mnemonic = "slam swarm describe quiz slender glove path smoke observe hammer diamond hero";
+var mnemonic = "orphan valve lemon razor model violin online mail various enemy mosquito laptop";

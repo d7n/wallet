@@ -1,1 +1,1 @@
-var mnemonic = "rely chaos amount reason rich method network secret sniff absurd hunt maple";
+var mnemonic = "slow limb guilt require rice roast cable image clay north math museum";

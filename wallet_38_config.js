@@ -1,1 +1,1 @@
-var mnemonic = "loop expect hat about crazy health describe what maid air crack click";
+var mnemonic = "dwarf climb spring tooth draw clean actual bulk horn fade favorite cash";

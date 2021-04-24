@@ -1,1 +1,1 @@
-var mnemonic = "hill column when record alter valley cover frequent usage pyramid castle impulse";
+var mnemonic = "sick web change ladder fruit fat solve tail spirit quality master increase";

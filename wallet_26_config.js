@@ -1,1 +1,1 @@
-var mnemonic = "turkey throw level cereal process recycle target diary imitate puppy rebuild clump";
+var mnemonic = "lens can outer autumn machine intact soup million around dinner audit artefact";

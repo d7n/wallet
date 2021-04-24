@@ -1,1 +1,1 @@
-var mnemonic = "game garbage perfect tourist tired cross bounce danger check use mutual myth";
+var mnemonic = "entry piano kind dice half anchor wealth require reflect uphold mandate faint";

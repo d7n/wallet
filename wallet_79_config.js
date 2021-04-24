@@ -1,1 +1,1 @@
-var mnemonic = "lesson hundred example voice echo used happy turtle apple critic link stick";
+var mnemonic = "bonus swing uniform unlock life riot comfort tragic regret distance air boy";

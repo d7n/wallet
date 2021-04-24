@@ -1,1 +1,1 @@
-var mnemonic = "hidden income position polar tilt junk moon fortune elbow shy voyage parrot";
+var mnemonic = "deny still alpha unhappy link excuse nose capital ivory scan hero ramp";

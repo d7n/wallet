@@ -1,1 +1,1 @@
-var mnemonic = "rebuild harbor sign media current want kingdom exercise buffalo rough drop tornado";
+var mnemonic = "erosion donkey distance tent hire brown clip garlic conduct account marine need";

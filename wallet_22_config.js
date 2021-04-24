@@ -1,1 +1,1 @@
-var mnemonic = "lounge kit napkin fabric ivory mass grab lab derive leisure fancy notice";
+var mnemonic = "senior session exchange crop forward abuse film fun calm vacuum card wealth";

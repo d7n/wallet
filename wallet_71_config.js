@@ -1,1 +1,1 @@
-var mnemonic = "quiz faint slot recycle annual doll sight airport vivid grief stuff spy";
+var mnemonic = "drastic myself exact scale grant rude object six tennis live brick minimum";

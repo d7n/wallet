@@ -1,1 +1,1 @@
-var mnemonic = "already pledge add ice deliver outdoor dirt cube gadget turn business bless";
+var mnemonic = "alpha inner mother width drive pass marble carpet ball follow onion exit";

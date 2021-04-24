@@ -1,1 +1,1 @@
-var mnemonic = "embody remove mask glide truck scrap lion bag elegant friend dish guess";
+var mnemonic = "quit brave subject body ten large penalty private cliff swing nut track";

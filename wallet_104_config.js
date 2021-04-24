@@ -1,1 +1,1 @@
-var mnemonic = "reason equal explain keen blind claw history witness social obvious object coffee";
+var mnemonic = "venue three where sample dilemma symptom brush spot race finger plunge penalty";

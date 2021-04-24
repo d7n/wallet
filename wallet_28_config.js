@@ -1,1 +1,1 @@
-var mnemonic = "anger shaft glue express shoulder grain soon neutral cloud again chase funny";
+var mnemonic = "pink lawn target faculty trade turn poet salad world rigid camera power";

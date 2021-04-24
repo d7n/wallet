@@ -1,1 +1,1 @@
-var mnemonic = "smile kite never link cube danger neck taste cluster fury harvest ranch";
+var mnemonic = "deposit project street firm effort weasel olympic improve frost term liberty hurdle";

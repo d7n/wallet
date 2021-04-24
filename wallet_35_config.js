@@ -1,1 +1,1 @@
-var mnemonic = "sense atom patch silent zone cannon october journey because lion item evolve";
+var mnemonic = "amateur brisk home diesel library about obtain hockey hair domain orbit hurt";

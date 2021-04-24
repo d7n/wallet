@@ -1,1 +1,1 @@
-var mnemonic = "recycle bicycle rabbit yard puppy plate conduct fury resource doll sibling olympic";
+var mnemonic = "luxury today truly exchange jeans grief ship baby flock mercy mistake alarm";

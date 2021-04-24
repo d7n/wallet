@@ -1,1 +1,1 @@
-var mnemonic = "rail attack social subject hamster carry melt hover raw combine trophy anger";
+var mnemonic = "start angle impose pupil swallow minute awesome version mother false gather grass";

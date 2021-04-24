@@ -1,1 +1,1 @@
-var mnemonic = "erode street film usage unaware garden hurry buddy then cattle release hurt";
+var mnemonic = "swamp waste omit supply sea find three vibrant dove leg mask animal";

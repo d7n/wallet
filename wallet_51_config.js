@@ -1,1 +1,1 @@
-var mnemonic = "promote lady help deputy echo warrior ocean sauce ostrich eye boy shallow";
+var mnemonic = "betray vault public six stock stone pioneer novel analyst sustain patient crane";

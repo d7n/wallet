@@ -1,1 +1,1 @@
-var mnemonic = "piece among page absent agent opera basic muscle mention absurd order decide";
+var mnemonic = "myth muscle amazing corn barrel lumber clinic theory decrease large kiss drop";

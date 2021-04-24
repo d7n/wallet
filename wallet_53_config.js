@@ -1,1 +1,1 @@
-var mnemonic = "happy aerobic clog recipe silent suggest divert together dwarf concert prison obscure";
+var mnemonic = "ramp gun tape receive seminar supply thought crime tornado mixture renew appear";

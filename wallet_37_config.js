@@ -1,1 +1,1 @@
-var mnemonic = "render trend inch live rough trade meadow tomorrow dirt quantum color ready";
+var mnemonic = "dust unhappy process outer hospital width brain clean expect sunset employ hammer";

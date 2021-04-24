@@ -1,1 +1,1 @@
-var mnemonic = "river rebuild kiss green bubble afraid disorder blush manage raw obtain travel";
+var mnemonic = "chaos emotion service diesel absent coconut uncover attitude ski return lesson civil";

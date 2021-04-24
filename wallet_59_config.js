@@ -1,1 +1,1 @@
-var mnemonic = "walk file uniform crane off manage debate duck invite cost improve normal";
+var mnemonic = "clay garlic flag ethics sponsor require couch story parade scatter leave carbon";

@@ -1,1 +1,1 @@
-var mnemonic = "chicken industry cover dog castle state diet hollow name affair pride wage";
+var mnemonic = "sponsor rude hover toward jeans captain people valley switch arrest shallow despair";

@@ -1,1 +1,1 @@
-var mnemonic = "trip old wisdom eternal wrist fire remember patient husband omit bubble mixed";
+var mnemonic = "august install account sugar have enrich game run organ assist pulse reform";

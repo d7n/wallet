@@ -1,1 +1,1 @@
-var mnemonic = "action day boil illness dinosaur detail inform denial cruel salt dwarf warrior";
+var mnemonic = "hen picture valve enjoy misery orient about spice clinic journey neck much";

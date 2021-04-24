@@ -1,1 +1,1 @@
-var mnemonic = "winter boil broom beef predict cigar category box light offer person special";
+var mnemonic = "trip ignore wonder payment punch venue enroll daughter robot green lumber debris";

@@ -1,1 +1,1 @@
-var mnemonic = "basket want humor hard orbit keep eager debate upgrade circle foil pull";
+var mnemonic = "relax gauge profit decline lobster fine series blood virtual payment range shift";

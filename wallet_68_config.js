@@ -1,1 +1,1 @@
-var mnemonic = "ball tent tell genuine squeeze scrub interest dish boat drop lounge fish";
+var mnemonic = "acoustic relax domain pizza upset crop blood choose under stable grape pretty";

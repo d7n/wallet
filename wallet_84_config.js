@@ -1,1 +1,1 @@
-var mnemonic = "fence dignity flock oak you dragon couple treat wealth ribbon brisk filter";
+var mnemonic = "exclude banana swamp they trigger gym puzzle split seed green eternal area";
