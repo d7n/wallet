@@ -1,1 +1,1 @@
-var mnemonic = "peace cereal child heart afraid middle skull eager switch salute copy obvious";
+var mnemonic = "seminar light monkey vehicle surge spawn neglect pact loyal indicate weapon shed";

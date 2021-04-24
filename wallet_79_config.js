@@ -1,1 +1,1 @@
-var mnemonic = "model penalty rack deer fringe expect avocado polar iron hospital fork unfold";
+var mnemonic = "come pride torch supply ability rifle zoo neglect modify mix vacant have";

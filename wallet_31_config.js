@@ -1,1 +1,1 @@
-var mnemonic = "vintage income mad hungry sing okay color message logic foot genre magic";
+var mnemonic = "frog motion hope hurt town seat pupil path drama regular vessel phrase";

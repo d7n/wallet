@@ -1,1 +1,1 @@
-var mnemonic = "poem mention remain kid spot oppose motion ribbon solar stage net goddess";
+var mnemonic = "hungry army energy chapter repair scale emerge foil gloom cave double brief";

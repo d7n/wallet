@@ -1,1 +1,1 @@
-var mnemonic = "depart tribe busy napkin minute sting foil shift pudding bus bird range";
+var mnemonic = "monitor pencil aware hello race drama call snap account local sea legend";

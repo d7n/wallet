@@ -1,1 +1,1 @@
-var mnemonic = "fly catch chat much invite injury snake develop current circle build they";
+var mnemonic = "life play palace sting dance argue life ozone note delay economy pill";

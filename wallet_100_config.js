@@ -1,1 +1,1 @@
-var mnemonic = "silver prevent tooth plunge undo divert elegant clinic eagle drop renew skull";
+var mnemonic = "limit candy barrel atom alpha century place risk stumble urge snow cinnamon";

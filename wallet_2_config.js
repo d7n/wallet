@@ -1,1 +1,1 @@
-var mnemonic = "pretty green charge push genius drastic ill solution wheel noble involve maple";
+var mnemonic = "join repair arena addict champion frequent visa merge rice swallow april already";

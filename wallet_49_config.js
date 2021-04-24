@@ -1,1 +1,1 @@
-var mnemonic = "blue fiscal bus today rail borrow improve birth install off enroll error";
+var mnemonic = "father giant cupboard mosquito crash exist little sure strategy soda cheese fury";

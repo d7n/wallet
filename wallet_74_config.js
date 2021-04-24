@@ -1,1 +1,1 @@
-var mnemonic = "swarm state warfare unhappy other twenty size slogan coast off click someone";
+var mnemonic = "polar kidney birth dynamic thought picnic indicate coast hen super call argue";

@@ -1,1 +1,1 @@
-var mnemonic = "mirror decline sample tenant hungry tag off hammer clown dash south web";
+var mnemonic = "obvious arctic diamond success explain retreat denial only blood unit truck quit";

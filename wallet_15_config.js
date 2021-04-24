@@ -1,1 +1,1 @@
-var mnemonic = "ancient parent gain possible refuse stove ten circle shuffle real since insect";
+var mnemonic = "image mammal tip other run tell sugar spell steel shiver federal media";

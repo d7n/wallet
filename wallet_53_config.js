@@ -1,1 +1,1 @@
-var mnemonic = "balcony token shallow ability civil umbrella iron cousin word model shell six";
+var mnemonic = "answer crater bunker flash mobile cute truth mean lift crumble federal gate";

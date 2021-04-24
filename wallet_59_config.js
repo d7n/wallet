@@ -1,1 +1,1 @@
-var mnemonic = "comic picnic achieve flame hair dial veteran prosper involve smooth twist kick";
+var mnemonic = "fox camp hard pulse expand salute gallery spoon reveal zebra poverty dance";

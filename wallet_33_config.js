@@ -1,1 +1,1 @@
-var mnemonic = "banana offer tape tone true announce snack bench congress cushion fault phone";
+var mnemonic = "olympic can vintage nothing deputy afford tomorrow advance drive shop six together";

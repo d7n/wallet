@@ -1,1 +1,1 @@
-var mnemonic = "cabin can blind ride toddler aspect truly slim lazy fatal car fee";
+var mnemonic = "scatter want sugar school cause refuse bargain retreat welcome advice wealth gauge";

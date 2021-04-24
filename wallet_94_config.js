@@ -1,1 +1,1 @@
-var mnemonic = "silly decide quick mistake then celery obvious celery jealous enforce match tag";
+var mnemonic = "cereal metal sample jungle credit inquiry web drip west milk unique dwarf";

@@ -1,1 +1,1 @@
-var mnemonic = "ranch maid frog fatal away library friend client piano clerk radio solution";
+var mnemonic = "arrange sauce federal mention stay next hobby dentist ticket scrap vapor brisk";

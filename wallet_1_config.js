@@ -1,1 +1,1 @@
-var mnemonic = "orchard grant effort broccoli battle rocket chimney under detect worth spoil cattle";
+var mnemonic = "spray emotion main expect sheriff drum engage crowd pig youth mimic general";

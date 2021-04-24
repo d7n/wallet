@@ -1,1 +1,1 @@
-var mnemonic = "eye begin steak cube light amused cable ozone hidden shrug stamp volcano";
+var mnemonic = "hint detail such detail position expand conduct length between leave sock unhappy";

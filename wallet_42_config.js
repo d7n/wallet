@@ -1,1 +1,1 @@
-var mnemonic = "try venue maple such evidence gravity under knock range assume secret wheat";
+var mnemonic = "code expect mechanic uniform upon become curious emerge cement ride dove child";

@@ -1,1 +1,1 @@
-var mnemonic = "elbow gain gauge expect book lonely frost loan poverty security weather ridge";
+var mnemonic = "advice era render gun summer forget note teach name sting note often";

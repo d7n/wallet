@@ -1,1 +1,1 @@
-var mnemonic = "team reform amount cluster ginger muffin first toward anchor cluster cram snack";
+var mnemonic = "play predict end trap proof dumb sheriff come inch stereo hand river";

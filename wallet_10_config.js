@@ -1,1 +1,1 @@
-var mnemonic = "inflict neither submit ball elite recycle salute depend call document attitude black";
+var mnemonic = "basket zoo olive coyote add upset social kiss peanut menu luggage fringe";

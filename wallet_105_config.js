@@ -1,1 +1,1 @@
-var mnemonic = "catch illness embrace slush security bronze derive cattle noble little rough syrup";
+var mnemonic = "scheme destroy catch talk involve devote frame marble twelve axis indicate orient";

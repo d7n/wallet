@@ -1,1 +1,1 @@
-var mnemonic = "pill crew elder seed luggage grace have guilt blanket quote scan sell";
+var mnemonic = "chief able horn demise body priority hammer behave tortoise essay original frog";

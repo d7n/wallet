@@ -1,1 +1,1 @@
-var mnemonic = "imitate key reason welcome treat garlic woman path afraid work mail icon";
+var mnemonic = "behave vault skin grief crumble soap winter swift front north attitude alarm";

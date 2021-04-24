@@ -1,1 +1,1 @@
-var mnemonic = "rice adjust salon arena wide fortune pizza absurd roast fault lemon vacuum";
+var mnemonic = "distance reopen exact ill carbon system chair code wrong light despair basket";

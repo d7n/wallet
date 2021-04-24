@@ -1,1 +1,1 @@
-var mnemonic = "media top episode party child gadget isolate amateur stamp jazz luggage sting";
+var mnemonic = "virus true fix soccer person snake century income dream run fee sheriff";

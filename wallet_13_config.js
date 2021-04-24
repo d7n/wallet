@@ -1,1 +1,1 @@
-var mnemonic = "found tail powder cage input color deposit million treat off elder liar";
+var mnemonic = "invite poem knife general elite proud craft lesson width notice tiger permit";

@@ -1,1 +1,1 @@
-var mnemonic = "east ritual vital expire venture deny predict place evolve stomach biology axis";
+var mnemonic = "cake juice debate usual midnight govern hidden spell list fire own cabin";

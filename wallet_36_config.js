@@ -1,1 +1,1 @@
-var mnemonic = "innocent render equal hurdle above canal quote area dismiss gauge unfair problem";
+var mnemonic = "addict fade joke guide boil slide element crash mesh trouble panda theory";

@@ -1,1 +1,1 @@
-var mnemonic = "age aware neck fog funny shine damp intact unknown about business derive";
+var mnemonic = "song gadget trumpet skate shuffle clog fix logic toe excuse column fame";

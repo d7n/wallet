@@ -1,1 +1,1 @@
-var mnemonic = "sample pretty minute now capable task sketch excite outer announce power sting";
+var mnemonic = "sight smooth ready rug culture average job link current inspire truly discover";

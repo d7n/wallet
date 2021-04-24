@@ -1,1 +1,1 @@
-var mnemonic = "viable shrug cupboard icon praise galaxy sleep indicate street mosquito coral rich";
+var mnemonic = "art weasel accuse exotic rich rally license fold tornado response hockey property";

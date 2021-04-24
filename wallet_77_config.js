@@ -1,1 +1,1 @@
-var mnemonic = "various rough rally raccoon subway argue buddy stairs reunion damp middle remind";
+var mnemonic = "evil similar endorse entire empower hawk fresh when document anger describe mixed";

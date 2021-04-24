@@ -1,1 +1,1 @@
-var mnemonic = "sugar defense addict step mesh version rocket best toast bag course include";
+var mnemonic = "pig kind solid essence exhaust gap trick asthma basket result gossip donkey";

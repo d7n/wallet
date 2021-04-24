@@ -1,1 +1,1 @@
-var mnemonic = "genuine disease civil slice perfect fabric frog obtain comfort stumble opinion gentle";
+var mnemonic = "inmate piece weasel choice drink near cinnamon when excite topic wink dinosaur";

@@ -1,1 +1,1 @@
-var mnemonic = "toy always result side verb flee actual tape jeans void arrange glance";
+var mnemonic = "crystal label august quick swallow example pizza box tide among blood brush";

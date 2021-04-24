@@ -1,1 +1,1 @@
-var mnemonic = "warfare crane vendor brass marriage front bomb angry air result change noodle";
+var mnemonic = "glow diamond custom antique box august chuckle start exotic double describe immense";

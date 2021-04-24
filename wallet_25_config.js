@@ -1,1 +1,1 @@
-var mnemonic = "omit degree fence boy skate bullet wasp margin turtle supreme crouch estate";
+var mnemonic = "satisfy prize immune old gossip leisure video category ocean multiply correct lazy";

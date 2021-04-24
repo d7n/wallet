@@ -1,1 +1,1 @@
-var mnemonic = "fatigue day wait summer outdoor maid gun depth soul juice addict vital";
+var mnemonic = "poet hospital two lens cabbage release fuel belt flash call unlock royal";

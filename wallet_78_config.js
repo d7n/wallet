@@ -1,1 +1,1 @@
-var mnemonic = "speak yellow adult toward wrist assume flavor shallow involve scrub dose circle";
+var mnemonic = "rigid tomorrow denial bubble cross toe process stuff opera vacuum vacuum vague";

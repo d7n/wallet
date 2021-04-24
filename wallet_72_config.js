@@ -1,1 +1,1 @@
-var mnemonic = "trumpet shoulder radar skate submit gauge pencil insane moment elegant oak february";
+var mnemonic = "apple flower squirrel nothing borrow drum egg knee head veteran neutral stove";

@@ -1,1 +1,1 @@
-var mnemonic = "dynamic brand car own open garbage inner cry credit dinosaur shift shuffle";
+var mnemonic = "dad attract output badge picnic course square enjoy forum worth glove inherit";

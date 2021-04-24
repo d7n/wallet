@@ -1,1 +1,1 @@
-var mnemonic = "blind canal buffalo caught make finger vicious trust bullet immense gauge expire";
+var mnemonic = "first window top open goat skull green bird burden sugar kingdom safe";

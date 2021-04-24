@@ -1,1 +1,1 @@
-var mnemonic = "sting turn nose pumpkin casual motion oppose depend attack copper uphold across";
+var mnemonic = "upset mind dynamic admit vibrant wild raven benefit honey cave jewel measure";

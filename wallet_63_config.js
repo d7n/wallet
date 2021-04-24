@@ -1,1 +1,1 @@
-var mnemonic = "unusual ethics crawl arm pet fitness bless method road squeeze rather swarm";
+var mnemonic = "clerk spare plate unable cluster will among loud dial increase roast margin";

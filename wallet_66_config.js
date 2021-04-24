@@ -1,1 +1,1 @@
-var mnemonic = "rack ribbon pulp point priority staff among mistake aim round goat blush";
+var mnemonic = "code knife book awful actual smile bar camp kiss home whale relax";

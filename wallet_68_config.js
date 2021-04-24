@@ -1,1 +1,1 @@
-var mnemonic = "because resource fat cabin spike canoe bomb bleak impulse normal hope host";
+var mnemonic = "leisure smile hole tide sign exclude mule dutch hold table chimney veteran";

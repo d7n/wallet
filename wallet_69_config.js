@@ -1,1 +1,1 @@
-var mnemonic = "liar horror ugly nation erosion cigar congress grunt grief relief ill desk";
+var mnemonic = "tree flame scrub hour stuff small shed month icon guess local stand";

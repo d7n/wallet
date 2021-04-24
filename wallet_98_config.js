@@ -1,1 +1,1 @@
-var mnemonic = "spot reopen humble topic menu country disease fee expose dwarf theory skull";
+var mnemonic = "sea earn situate wish estate dove machine father identify enough among blame";

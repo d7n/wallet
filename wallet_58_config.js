@@ -1,1 +1,1 @@
-var mnemonic = "grunt whale ankle label latin wood wear caution you tonight amused enforce";
+var mnemonic = "symbol desk source brick hat reject display organ winter trip crop bird";

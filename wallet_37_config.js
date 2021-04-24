@@ -1,1 +1,1 @@
-var mnemonic = "auction dry cute check elevator mass valid trend exile ostrich flag ice";
+var mnemonic = "wise kit luxury easily gold better rapid group pottery tide common hammer";

@@ -1,1 +1,1 @@
-var mnemonic = "city quiz ensure acid draw journey youth cost usage sample cute laptop";
+var mnemonic = "health soda maple trip acquire flower top gauge wire cruel earth slender";

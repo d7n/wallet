@@ -1,1 +1,1 @@
-var mnemonic = "owner modify square shine print volume fall improve weird control multiply desk";
+var mnemonic = "kangaroo crack myself discover flush forget curtain check globe put warm blur";

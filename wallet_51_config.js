@@ -1,1 +1,1 @@
-var mnemonic = "trip genius blouse spirit kangaroo begin brush certain flash pole tone syrup";
+var mnemonic = "ability street once kitten inside acoustic hand lecture gauge vicious retreat eternal";

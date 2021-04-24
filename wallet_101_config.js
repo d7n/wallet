@@ -1,1 +1,1 @@
-var mnemonic = "source script citizen spike cloud awkward school pill either fortune hub okay";
+var mnemonic = "trial parrot oval image window pill luggage brain vault artefact rebuild debate";

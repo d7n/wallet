@@ -1,1 +1,1 @@
-var mnemonic = "kitchen twice gravity trim useless bargain skull gorilla ask forest regular velvet";
+var mnemonic = "april artefact cake near usage cereal rather hundred renew room demand raven";

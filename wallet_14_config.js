@@ -1,1 +1,1 @@
-var mnemonic = "feature garden jacket chef fossil game nation real excite cannon prepare pet";
+var mnemonic = "genuine fiction shoe lobster base thank version common custom miracle potato myth";

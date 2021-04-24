@@ -1,1 +1,1 @@
-var mnemonic = "fiction perfect shove salon again asset shed chat naive click acoustic front";
+var mnemonic = "slush cheese body hundred maid ring card flame ozone castle sugar science";

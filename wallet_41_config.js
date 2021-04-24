@@ -1,1 +1,1 @@
-var mnemonic = "ring coin rebuild warrior wagon mansion palace bracket emerge enroll color sun";
+var mnemonic = "unveil spy shiver denial act choose scout question damp angry gift run";

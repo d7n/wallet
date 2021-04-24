@@ -1,1 +1,1 @@
-var mnemonic = "cost type dog unfold more option salt summer shrug february hospital code";
+var mnemonic = "defy photo park clarify sun attack law betray army idle roof pool";

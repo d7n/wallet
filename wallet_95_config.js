@@ -1,1 +1,1 @@
-var mnemonic = "pole exile ozone fashion box say debate wrong visa roof canvas anger";
+var mnemonic = "olympic lunch business bike dog umbrella skirt awake entire move run exact";

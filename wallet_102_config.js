@@ -1,1 +1,1 @@
-var mnemonic = "win amateur pink force report earn image they captain faith scheme cover";
+var mnemonic = "rose seven venture next eager output recipe canvas alarm cave jump afraid";

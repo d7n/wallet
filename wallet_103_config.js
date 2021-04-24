@@ -1,1 +1,1 @@
-var mnemonic = "junk cheese net mosquito young silly romance kitchen material tail use fee";
+var mnemonic = "depth subject link elephant train supply fix gaze super check oppose able";

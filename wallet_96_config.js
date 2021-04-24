@@ -1,1 +1,1 @@
-var mnemonic = "flash practice better gravity doll visit sadness pistol lunch term asthma one";
+var mnemonic = "index repair chunk orbit zoo trash bless layer palace fatigue course auto";

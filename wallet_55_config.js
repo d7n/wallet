@@ -1,1 +1,1 @@
-var mnemonic = "town visa abuse orange dove digital change window salon now time deal";
+var mnemonic = "hedgehog cash paddle marble language canvas vibrant climb project main orient stage";

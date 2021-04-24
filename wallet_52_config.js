@@ -1,1 +1,1 @@
-var mnemonic = "joke among fox luggage involve garage drastic giggle dismiss reveal discover regret";
+var mnemonic = "rural elite salt keen search mystery method garage disagree toy gate clutch";

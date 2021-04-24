@@ -1,1 +1,1 @@
-var mnemonic = "dinner syrup asthma blur affair easy woman venture scheme above reunion retire";
+var mnemonic = "army between invest clarify example ensure road cement uniform project sudden life";

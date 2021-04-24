@@ -1,1 +1,1 @@
-var mnemonic = "disagree pen excuse canal web canoe kitchen always machine search buyer wedding";
+var mnemonic = "measure prison owner hunt dirt cement control survey job rival zone receive";

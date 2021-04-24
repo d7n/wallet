@@ -1,1 +1,1 @@
-var mnemonic = "sing you drop discover spell problem follow wear ginger west audit despair";
+var mnemonic = "trial exile subway boil spray lumber sure speed one idea winter slide";

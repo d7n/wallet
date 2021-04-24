@@ -1,1 +1,1 @@
-var mnemonic = "autumn anxiety garlic anger puzzle jaguar prosper siege lesson gather advice goddess";
+var mnemonic = "charge brown sister crush punch tumble rescue car flock orchard water napkin";

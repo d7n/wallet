@@ -1,1 +1,1 @@
-var mnemonic = "certain bacon south solar cram elder twist shove soccer party baby trim";
+var mnemonic = "portion any copy nothing victory faculty toilet tell charge car push cake";

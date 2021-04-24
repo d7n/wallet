@@ -1,1 +1,1 @@
-var mnemonic = "phrase patient giraffe toss clip hamster chat canal tribe shuffle swamp engage";
+var mnemonic = "hire help cradle feature motor smile dad author shed custom practice drum";

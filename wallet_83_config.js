@@ -1,1 +1,1 @@
-var mnemonic = "pigeon tube engine squeeze situate flash frown element faculty artwork trade wrestle";
+var mnemonic = "library coconut royal boss total energy vast barely divorce rural enrich electric";

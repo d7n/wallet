@@ -1,1 +1,1 @@
-var mnemonic = "rose school insect erase jelly actress method crash turkey fluid outdoor length";
+var mnemonic = "rural sure rally sense hawk visa skull sand render diesel dinner pepper";

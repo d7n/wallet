@@ -1,1 +1,1 @@
-var mnemonic = "ignore pretty twice dog sausage dynamic recycle proud fantasy journey buzz shy";
+var mnemonic = "agree gallery profit notable move biology timber turtle beach swarm joke setup";

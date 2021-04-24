@@ -1,1 +1,1 @@
-var mnemonic = "depart boost lunch saddle garlic basket rail merry unaware odor ignore clay";
+var mnemonic = "bridge marriage finger brush pupil rally brisk nasty absent once soldier tail";

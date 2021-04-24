@@ -1,1 +1,1 @@
-var mnemonic = "private buffalo atom swap clean soul come decline rely short task toward";
+var mnemonic = "lonely fuel drip hammer close alarm cube ginger trophy castle scout crater";

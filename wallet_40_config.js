@@ -1,1 +1,1 @@
-var mnemonic = "shove hour energy remind leave rail famous stock corn throw umbrella apology";
+var mnemonic = "text seminar inhale six flower busy broom monitor nominee enhance burger entry";

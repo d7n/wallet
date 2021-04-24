@@ -1,1 +1,1 @@
-var mnemonic = "kitten crew visa rescue lady style point spirit tenant salmon embrace suspect";
+var mnemonic = "siren spare light charge edge tumble chunk doctor april sell metal replace";

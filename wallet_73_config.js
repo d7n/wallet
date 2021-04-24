@@ -1,1 +1,1 @@
-var mnemonic = "amused female repair wrist awkward jelly property spray recall boil usual bid";
+var mnemonic = "pig welcome enter volcano category bronze short travel shuffle salon sample inform";

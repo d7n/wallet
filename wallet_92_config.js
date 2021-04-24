@@ -1,1 +1,1 @@
-var mnemonic = "grid result damage beach toast region high jeans blouse perfect moral catch";
+var mnemonic = "curtain nature initial acid glory glove jump curious sport brand acquire behave";

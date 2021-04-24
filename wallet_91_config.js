@@ -1,1 +1,1 @@
-var mnemonic = "april love evil hundred because garlic powder rural used suffer setup debate";
+var mnemonic = "front endorse million correct merge lonely basic near crane fan sad one";

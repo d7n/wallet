@@ -1,1 +1,1 @@
-var mnemonic = "release silk silver ill song crater label receive usage couch fossil gauge";
+var mnemonic = "similar chicken scare element skate wagon remove witness bone weird genre inside";

@@ -1,1 +1,1 @@
-var mnemonic = "essence giant exhibit afraid lounge join shuffle shed any senior give climb";
+var mnemonic = "hood idle appear pig mandate vacuum link female card general uncle brisk";

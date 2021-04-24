@@ -1,1 +1,1 @@
-var mnemonic = "transfer gasp anchor execute enhance error deer document song voice truck doctor";
+var mnemonic = "sword thrive sand quarter bottom evil onion edit rain small shy seven";

@@ -1,1 +1,1 @@
-var mnemonic = "salon cart roast local decrease buzz fame toilet neglect pulp stable maximum";
+var mnemonic = "lucky exchange great argue clump artefact plate wine ritual trumpet stadium dog";

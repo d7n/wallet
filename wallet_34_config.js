@@ -1,1 +1,1 @@
-var mnemonic = "simple when pulp trim cradle ask rookie exotic gasp mansion primary top";
+var mnemonic = "finish auto enough balcony sorry chronic open slender century muscle able veteran";

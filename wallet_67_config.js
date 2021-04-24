@@ -1,1 +1,1 @@
-var mnemonic = "critic olympic agent unique sniff robot entry picture ability gorilla power oil";
+var mnemonic = "kingdom mixed act cruel minimum point choose sad suit dad egg palace";

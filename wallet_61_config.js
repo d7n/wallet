@@ -1,1 +1,1 @@
-var mnemonic = "label turn taxi hire web shock enter exist more debris friend strike";
+var mnemonic = "spatial ribbon earth mind various snow furnace unaware kitchen debate bird peasant";

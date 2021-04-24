@@ -1,1 +1,1 @@
-var mnemonic = "mule sign pink amateur marriage faint erode polar sniff access income ability";
+var mnemonic = "annual slow alarm brush rare snack leisure stick vocal ensure panel honey";

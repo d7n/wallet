@@ -1,1 +1,1 @@
-var mnemonic = "rather dune excuse exist artwork mercy deal cabin isolate oblige warm during";
+var mnemonic = "effort cube either phrase merit fence document text duck elegant dawn assault";

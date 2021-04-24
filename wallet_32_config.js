@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin west journey alert rely tip escape raven maple flash car object";
+var mnemonic = "broccoli aspect bring hospital exhaust tooth scan timber replace across gloom acid";

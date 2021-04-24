@@ -1,1 +1,1 @@
-var mnemonic = "volume hat want noodle egg green neutral harvest blouse alter flavor hospital";
+var mnemonic = "praise digital short much swallow bomb only world forum argue laundry style";
