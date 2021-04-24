@@ -1,1 +1,1 @@
-var mnemonic = "material eternal theme trip afraid impose violin weasel snack shove museum mistake";
+var mnemonic = "portion sail craft report coconut zoo east bracket erosion copy dash tone";

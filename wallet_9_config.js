@@ -1,1 +1,1 @@
-var mnemonic = "first scatter trip draw festival program buddy real shallow brisk sister boy";
+var mnemonic = "clarify attitude reflect machine kit before scrub thought credit notice popular tragic";

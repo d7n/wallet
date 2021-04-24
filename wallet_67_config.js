@@ -1,1 +1,1 @@
-var mnemonic = "book select knock guess love promote bargain radio dolphin baby hero romance";
+var mnemonic = "shock envelope flower ten brain column divert few south smoke outside limb";

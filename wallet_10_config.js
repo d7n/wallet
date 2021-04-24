@@ -1,1 +1,1 @@
-var mnemonic = "argue prefer frog wheel uncle fog merge chronic glue robot ridge income";
+var mnemonic = "mention funny aunt arena thank moon piano length boil verify bounce clock";

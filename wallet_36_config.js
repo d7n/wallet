@@ -1,1 +1,1 @@
-var mnemonic = "slush process baby raven truck volcano unable follow detail glance give olive";
+var mnemonic = "ranch cup skull volcano honey conduct allow captain tent school source because";

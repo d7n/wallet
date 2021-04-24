@@ -1,1 +1,1 @@
-var mnemonic = "flat phrase dizzy room stable shallow club music ridge season double album";
+var mnemonic = "invite culture coil nation length struggle cotton render situate inform text keen";

@@ -1,1 +1,1 @@
-var mnemonic = "law saddle laugh armed fade weapon dynamic month cabin document track human";
+var mnemonic = "observe boring talent biology style identify busy tide possible among basket distance";

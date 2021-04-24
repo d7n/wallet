@@ -1,1 +1,1 @@
-var mnemonic = "best adult gossip between gain jeans network cement morning enough warrior belt";
+var mnemonic = "dismiss peasant illness cart document siren chase collect chronic enhance tomato donkey";

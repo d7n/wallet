@@ -1,1 +1,1 @@
-var mnemonic = "crawl morning upon hotel soap puzzle target distance save thunder solve boring";
+var mnemonic = "input social eight sell pulp piece wood crack sense bleak police that";

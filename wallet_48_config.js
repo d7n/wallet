@@ -1,1 +1,1 @@
-var mnemonic = "enact broom where melody put crater spin dawn brain obey erase sound";
+var mnemonic = "cover between fly agree brown myself master volcano will cost choice suspect";

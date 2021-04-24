@@ -1,1 +1,1 @@
-var mnemonic = "enough text seminar depart rude timber puppy film crack shrimp bitter film";
+var mnemonic = "senior alcohol order ski phrase agree mix urban detail develop input option";

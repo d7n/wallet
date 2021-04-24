@@ -1,1 +1,1 @@
-var mnemonic = "blue idea tower guess ostrich fragile quiz shed dragon illness unusual alert";
+var mnemonic = "focus fly beef giggle crunch myself dose fall wrist search scan child";

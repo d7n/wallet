@@ -1,1 +1,1 @@
-var mnemonic = "excuse cloth urge yard stable empower story run gorilla indoor roast effort";
+var mnemonic = "shoe lady void crack glass beyond choose junior paddle ceiling smile rug";

@@ -1,1 +1,1 @@
-var mnemonic = "naive virtual resource side pigeon much educate sentence believe draft quit orchard";
+var mnemonic = "half song twenty shield happy dizzy afford radar ceiling apple cart idea";

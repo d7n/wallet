@@ -1,1 +1,1 @@
-var mnemonic = "detail razor bottom remember blind entire royal window mango glass baby silver";
+var mnemonic = "custom raccoon reflect option group sweet avocado brick duck human pilot next";

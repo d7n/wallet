@@ -1,1 +1,1 @@
-var mnemonic = "merit shoot cash shell govern matter river hedgehog elevator gym apple erase";
+var mnemonic = "awkward course hundred net avoid school entire door frozen say quantum capital";

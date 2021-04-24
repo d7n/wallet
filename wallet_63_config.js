@@ -1,1 +1,1 @@
-var mnemonic = "short hand camp learn jewel adjust actress wise luxury flush bulk neck";
+var mnemonic = "ethics oxygen daughter thank sample traffic cabin trust rude glare mule page";

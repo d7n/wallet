@@ -1,1 +1,1 @@
-var mnemonic = "manual riot physical forget hurdle pyramid grow true tumble brother control primary";
+var mnemonic = "verify unusual night jump thank opera raccoon video supply loud effort cabbage";

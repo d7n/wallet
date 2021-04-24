@@ -1,1 +1,1 @@
-var mnemonic = "coast swarm neither predict oblige legend coach thought note amazing bar nose";
+var mnemonic = "best emerge grief various vendor kind fiber human hawk curve gallery shadow";

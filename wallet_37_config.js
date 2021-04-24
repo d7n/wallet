@@ -1,1 +1,1 @@
-var mnemonic = "scrap knife like myself edge approve day lamp horn rack oval glimpse";
+var mnemonic = "humor piece home deal ball roast trophy only kangaroo volcano climb scale";

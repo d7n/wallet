@@ -1,1 +1,1 @@
-var mnemonic = "catch cube defy narrow connect detect amazing ostrich swarm phone talk cabin";
+var mnemonic = "inch claim vivid path labor fantasy illness spell forest decrease safe gasp";

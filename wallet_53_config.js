@@ -1,1 +1,1 @@
-var mnemonic = "private sustain toast right faith caught small confirm shadow limb extend trash";
+var mnemonic = "mushroom remember trouble deal filter party sound nut step bar leader gorilla";

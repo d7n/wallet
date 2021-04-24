@@ -1,1 +1,1 @@
-var mnemonic = "satisfy drastic april enroll present bunker unlock clerk badge slim creek payment";
+var mnemonic = "alpha beyond net reopen small cycle super scorpion reveal question female upset";

@@ -1,1 +1,1 @@
-var mnemonic = "sunset champion taxi betray step inch inquiry warfare hobby chief divert render";
+var mnemonic = "sand remember often cover cushion iron often fragile lemon car agent flat";

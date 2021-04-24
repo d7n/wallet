@@ -1,1 +1,1 @@
-var mnemonic = "have tattoo ride toddler elite flavor list under online arrange scrap harsh";
+var mnemonic = "define film usual dismiss topple vintage one tomorrow tower pony change crystal";

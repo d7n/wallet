@@ -1,1 +1,1 @@
-var mnemonic = "very label cost cream auction worth betray path match afraid rough need";
+var mnemonic = "exercise luxury mechanic load attack advice glance hard person expose purpose egg";

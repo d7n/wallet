@@ -1,1 +1,1 @@
-var mnemonic = "crouch nasty confirm jeans prize tree kiwi exchange laptop drive valve estate";
+var mnemonic = "space spice library trash popular access amount soda dignity easy salmon laugh";

@@ -1,1 +1,1 @@
-var mnemonic = "trigger robot earth then end wrong close entire alcohol proud trouble soup";
+var mnemonic = "spot swear multiply fringe amateur crane physical rice capital conduct midnight bag";

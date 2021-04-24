@@ -1,1 +1,1 @@
-var mnemonic = "like can canyon thought dash silver dance throw truly flush purchase awful";
+var mnemonic = "carpet arena observe panic resemble fork animal taste token frequent hazard shift";

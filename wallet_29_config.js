@@ -1,1 +1,1 @@
-var mnemonic = "lift spy city method blush wood sword quality shine faint hen mechanic";
+var mnemonic = "curious body riot frozen kiwi axis leisure final impulse dust survey tobacco";

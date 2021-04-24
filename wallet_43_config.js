@@ -1,1 +1,1 @@
-var mnemonic = "cruel manage scissors zone laundry such pill total trip resemble tube smoke";
+var mnemonic = "penalty farm flock dream circle limit lawn arrange aware type display welcome";

@@ -1,1 +1,1 @@
-var mnemonic = "magic act please dice sock offer pledge property vicious awake sell love";
+var mnemonic = "village can fiscal mandate midnight crystal rough then crouch frog candy ghost";

@@ -1,1 +1,1 @@
-var mnemonic = "resource absurd eight again weather elder march elephant coyote public oak cover";
+var mnemonic = "please ask ketchup amount balcony lesson sample eight anchor wire slender oil";

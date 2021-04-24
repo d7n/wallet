@@ -1,1 +1,1 @@
-var mnemonic = "movie gun acquire spoon enlist dirt expect please funny arctic anger remember";
+var mnemonic = "tent push twenty gown vocal core hill length fence brand cruise spice";

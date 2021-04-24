@@ -1,1 +1,1 @@
-var mnemonic = "disagree vintage fiber inform address rare damage village supply tray tooth umbrella";
+var mnemonic = "surprise guide autumn emotion endless deliver alien sleep betray occur language undo";

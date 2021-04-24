@@ -1,1 +1,1 @@
-var mnemonic = "gorilla modify dawn mixture mango enter gate stuff cram clump sign ankle";
+var mnemonic = "affair property lumber warrior truth urban glue reunion review virtual game slender";

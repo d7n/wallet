@@ -1,1 +1,1 @@
-var mnemonic = "jazz orient face vast crunch biology say local ghost onion junk enable";
+var mnemonic = "shoot fan bounce wing orphan beef riot upgrade fine excess note all";

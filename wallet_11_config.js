@@ -1,1 +1,1 @@
-var mnemonic = "leave car trip shield comic must tool thunder type grunt fever plastic";
+var mnemonic = "rack kingdom retire scene limit slogan split bulb tissue rookie nothing shaft";

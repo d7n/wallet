@@ -1,1 +1,1 @@
-var mnemonic = "awful tent horn stay omit expose quality uncle air identify excuse worth";
+var mnemonic = "engine salmon copper family scorpion inhale design funny vibrant song sheriff oxygen";

@@ -1,1 +1,1 @@
-var mnemonic = "hybrid wild setup taste torch luggage city napkin soft lady memory raven";
+var mnemonic = "violin cage trade ranch parent skull tilt leg material fall travel top";

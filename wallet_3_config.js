@@ -1,1 +1,1 @@
-var mnemonic = "glass spring quote amused flag retire mirror enemy bar champion noodle flame";
+var mnemonic = "ghost toilet twin fan sudden frame cement end trust enrich lion bench";

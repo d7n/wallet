@@ -1,1 +1,1 @@
-var mnemonic = "shine narrow minimum lend smile model glove card diet lion display hand";
+var mnemonic = "bring blanket ostrich clog music laptop repeat gift disagree bridge also piano";

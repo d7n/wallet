@@ -1,1 +1,1 @@
-var mnemonic = "control ankle club dolphin menu tenant museum true club wish rescue clump";
+var mnemonic = "finish palm correct hire exotic copper valley during salad agree impose skin";

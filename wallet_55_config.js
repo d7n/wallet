@@ -1,1 +1,1 @@
-var mnemonic = "gym small machine awkward move bike acoustic grief execute lion car ketchup";
+var mnemonic = "month autumn enact summer pelican humble toddler message wage pioneer mirror medal";

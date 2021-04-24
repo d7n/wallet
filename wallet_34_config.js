@@ -1,1 +1,1 @@
-var mnemonic = "oven ceiling decrease canyon trial credit festival update bounce escape spare spoil";
+var mnemonic = "panda blade inform change claim barrel address average bulk wine farm mixed";

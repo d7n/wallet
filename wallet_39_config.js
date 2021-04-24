@@ -1,1 +1,1 @@
-var mnemonic = "cloth baby fade faculty charge choose wet economy arrow rely useful enroll";
+var mnemonic = "above joke kiwi thought depend soldier save glue kiwi treat oppose salad";

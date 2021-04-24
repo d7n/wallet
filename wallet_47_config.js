@@ -1,1 +1,1 @@
-var mnemonic = "hope human neutral hat opinion hotel dream glide lunar giraffe wash divert";
+var mnemonic = "chief snow leaf pigeon dove convince document song nasty napkin friend deal";

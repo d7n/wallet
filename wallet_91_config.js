@@ -1,1 +1,1 @@
-var mnemonic = "wife layer canyon good angry music tail pepper digital acquire tilt dance";
+var mnemonic = "tennis isolate wire sell conduct alarm ginger world behave trim invest sick";

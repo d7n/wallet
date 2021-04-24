@@ -1,1 +1,1 @@
-var mnemonic = "weasel amazing vessel decade muscle coral blind giraffe clarify merge curtain culture";
+var mnemonic = "abuse annual language fiber chat letter erupt dish april kick mobile focus";

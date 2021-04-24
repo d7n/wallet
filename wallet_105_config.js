@@ -1,1 +1,1 @@
-var mnemonic = "stay survey give toward topple swallow define alarm month guitar wish certain";
+var mnemonic = "orange suit crawl shop medal student mammal panic balcony elite symptom wrong";

@@ -1,1 +1,1 @@
-var mnemonic = "you all orange lottery creek version obscure border surprise sugar tent minimum";
+var mnemonic = "balance spoon spot ball nation dog coral never aware grocery parrot forget";

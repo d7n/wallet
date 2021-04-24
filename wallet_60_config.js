@@ -1,1 +1,1 @@
-var mnemonic = "cereal cabin bless cargo cry pupil easy truck swift supreme split camera";
+var mnemonic = "drip dentist unfold engine rail address flavor excess potato amazing sound ocean";

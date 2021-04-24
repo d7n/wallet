@@ -1,1 +1,1 @@
-var mnemonic = "fame teach daughter pulse alone fury boss coin slide kiwi enemy oyster";
+var mnemonic = "order slight venture mechanic double rent gate ill token mechanic maid inner";

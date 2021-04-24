@@ -1,1 +1,1 @@
-var mnemonic = "recipe mandate gun congress march invite below breeze genius olympic segment naive";
+var mnemonic = "tourist census pave destroy enact gospel okay mule senior raw action route";

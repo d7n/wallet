@@ -1,1 +1,1 @@
-var mnemonic = "worry bag degree rain demise job fall bargain ball science oven weasel";
+var mnemonic = "turn shed habit sort sudden fly curve garden quote final loan satisfy";

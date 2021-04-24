@@ -1,1 +1,1 @@
-var mnemonic = "scorpion arrive stairs miss author miss filter diary sauce clay meadow nuclear";
+var mnemonic = "actress convince grab develop liar awesome race cream butter wagon casino suffer";

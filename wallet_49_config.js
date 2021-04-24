@@ -1,1 +1,1 @@
-var mnemonic = "good trash quick identify laptop smoke snap benefit tag elegant piece pass";
+var mnemonic = "unable wish student purse urge piano chief label middle sadness average pact";

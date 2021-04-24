@@ -1,1 +1,1 @@
-var mnemonic = "excite dice runway avoid curve fossil champion mammal hollow host solar plug";
+var mnemonic = "insane text fortune online hard this tuna act achieve solve kitten horror";

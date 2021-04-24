@@ -1,1 +1,1 @@
-var mnemonic = "wonder exit setup shrug found correct seven move hover blush prison hood";
+var mnemonic = "veteran rare suffer fly much record elevator boss tower black wedding output";

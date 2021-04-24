@@ -1,1 +1,1 @@
-var mnemonic = "twist veteran east thunder glide inject menu when ability banner start drink";
+var mnemonic = "quit say credit protect rather visa bleak fringe about month song gas";

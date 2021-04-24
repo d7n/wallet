@@ -1,1 +1,1 @@
-var mnemonic = "neck climb friend caught viable web peasant spray reveal egg smoke crunch";
+var mnemonic = "action donor drastic burst soldier service loyal battle grid armed bullet other";

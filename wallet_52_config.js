@@ -1,1 +1,1 @@
-var mnemonic = "rebel basic dizzy current autumn such belt tiny path first quarter kite";
+var mnemonic = "suit cost fun spatial coral adapt own welcome border tobacco miss deal";

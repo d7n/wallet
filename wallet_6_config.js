@@ -1,1 +1,1 @@
-var mnemonic = "hard tumble scan legal tool dumb evil museum song assume inform shy";
+var mnemonic = "aisle year tilt double cruise axis news resource wool this purpose surround";

@@ -1,1 +1,1 @@
-var mnemonic = "lesson silent barrel brass number attack tattoo high high ecology home empower";
+var mnemonic = "monitor glory purse twin surprise tragic road jungle dream kick debate hub";

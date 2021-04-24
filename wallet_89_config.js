@@ -1,1 +1,1 @@
-var mnemonic = "shock vibrant pull exile art family act coin trophy basic stomach symbol";
+var mnemonic = "slide bind math panel ripple shuffle review lounge budget review cruise age";

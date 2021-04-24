@@ -1,1 +1,1 @@
-var mnemonic = "glory maple depart habit wine convince salon punch buyer until cereal work";
+var mnemonic = "grunt aware license lawsuit method ceiling snap then elbow ghost chat giggle";

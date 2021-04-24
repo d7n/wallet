@@ -1,1 +1,1 @@
-var mnemonic = "age accident holiday sample cliff clinic local liar market crawl way venture";
+var mnemonic = "glimpse dilemma gadget version liar begin sight fade pattern garment supply actual";

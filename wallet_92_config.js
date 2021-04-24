@@ -1,1 +1,1 @@
-var mnemonic = "staff dismiss element habit scare buddy fiction pistol job slam grape sauce";
+var mnemonic = "square shiver hurdle catch keen west defense ozone romance slice dish just";

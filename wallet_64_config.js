@@ -1,1 +1,1 @@
-var mnemonic = "salt system prison bench arena border upon asset siege because uncover board";
+var mnemonic = "gaze same hurt shine wrist notable spin permit faint pave drive donor";

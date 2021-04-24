@@ -1,1 +1,1 @@
-var mnemonic = "price acquire mansion another battle frequent barely goose august tongue lucky endorse";
+var mnemonic = "curtain fox april scare visual endorse anchor royal north desk chest slice";

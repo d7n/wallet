@@ -1,1 +1,1 @@
-var mnemonic = "bless sniff timber melt frequent grab sugar useful hole praise kingdom century";
+var mnemonic = "broken gift isolate primary sport hair cabbage tenant dynamic write velvet chest";

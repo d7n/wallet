@@ -1,1 +1,1 @@
-var mnemonic = "pear grid climb know other harvest upper kiss merge unfair wait alley";
+var mnemonic = "knock industry dawn tobacco wall magic illness soap thumb paddle frame eager";

@@ -1,1 +1,1 @@
-var mnemonic = "food stem multiply knee captain spend hint barrel citizen spread despair night";
+var mnemonic = "fossil riot course soldier cactus mask actor able traffic relief infant exact";

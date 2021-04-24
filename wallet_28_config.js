@@ -1,1 +1,1 @@
-var mnemonic = "damp exhibit poet connect mule exotic island badge side rack coral spread";
+var mnemonic = "ozone kangaroo library order ride loud furnace history picnic admit spy language";

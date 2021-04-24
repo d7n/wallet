@@ -1,1 +1,1 @@
-var mnemonic = "dirt slide game jeans sauce name company decorate unfair bargain dial comic";
+var mnemonic = "frown timber issue quit squeeze license voice love guitar pepper tornado morning";

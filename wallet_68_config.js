@@ -1,1 +1,1 @@
-var mnemonic = "suffer sniff board blossom lawsuit body daughter forward pole approve young pact";
+var mnemonic = "enemy basic goat potato want divide claw nerve amazing refuse goat try";

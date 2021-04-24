@@ -1,1 +1,1 @@
-var mnemonic = "gas bracket quarter coach arm tower poverty manage lady crouch cinnamon sister";
+var mnemonic = "initial spider join this any recall museum area bounce physical country fresh";

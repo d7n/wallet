@@ -1,1 +1,1 @@
-var mnemonic = "team mobile midnight situate card float clog damage hawk fork era tragic";
+var mnemonic = "animal wrap toss disease write zebra custom runway piece use credit pen";

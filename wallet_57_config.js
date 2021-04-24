@@ -1,1 +1,1 @@
-var mnemonic = "noble novel beauty canvas ahead earth uniform genre erase latin defense bullet";
+var mnemonic = "bench talent obey example swap grid hen output ball coil token monitor";

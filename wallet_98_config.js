@@ -1,1 +1,1 @@
-var mnemonic = "bronze machine promote fork glance sustain onion thank imitate topic friend pizza";
+var mnemonic = "casino quantum slide badge humble sand hedgehog latin prefer basic insect safe";

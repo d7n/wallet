@@ -1,1 +1,1 @@
-var mnemonic = "tray unique resist glove humble garment tunnel oven salt local hobby busy";
+var mnemonic = "august market depend opinion odor buzz road tornado shell elbow inhale silver";

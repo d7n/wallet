@@ -1,1 +1,1 @@
-var mnemonic = "problem own enact tree purity force settle position borrow crash digital disorder";
+var mnemonic = "upper office chase foster use choice stage dentist furnace card twist swim";

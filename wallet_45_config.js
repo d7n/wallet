@@ -1,1 +1,1 @@
-var mnemonic = "phone horn tent youth small solid since husband advice real aware tube";
+var mnemonic = "cereal denial wagon coral card visit casual toy fatigue target empower gravity";

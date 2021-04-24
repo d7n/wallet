@@ -1,1 +1,1 @@
-var mnemonic = "half canyon enemy ski master abstract little split squeeze harvest firm tired";
+var mnemonic = "focus tool setup spoon mention border kiss repair mystery pass unaware rough";

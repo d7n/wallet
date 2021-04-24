@@ -1,1 +1,1 @@
-var mnemonic = "distance basket source royal similar grocery diamond slam grocery ramp program income";
+var mnemonic = "purse math crop ready pass until laundry winter spend away hurry mosquito";

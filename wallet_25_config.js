@@ -1,1 +1,1 @@
-var mnemonic = "wall old analyst rocket spend same remember corn begin furnace inherit labor";
+var mnemonic = "code lazy hungry call network scrap outer carbon raven resource slogan manage";

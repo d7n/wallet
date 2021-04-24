@@ -1,1 +1,1 @@
-var mnemonic = "slam during side brave banana push august naive concert tube behind hundred";
+var mnemonic = "inch taxi try ostrich bird smile phone sad diesel fox ancient people";

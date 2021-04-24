@@ -1,1 +1,1 @@
-var mnemonic = "toe order bubble orchard tell cigar keen update illness fiber cupboard swarm";
+var mnemonic = "liquid sell junk crunch album slice charge reason space heart apple choose";
