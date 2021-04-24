@@ -1,1 +1,1 @@
-var mnemonic = "harvest music torch skirt few hair twin memory kitchen valley flock parade";
+var mnemonic = "ten language basic neglect spoil envelope snack lens lava like peasant ill";

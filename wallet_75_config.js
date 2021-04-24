@@ -1,1 +1,1 @@
-var mnemonic = "pledge wine color bicycle animal answer hair jeans cook earth recycle soft";
+var mnemonic = "smile kite never link cube danger neck taste cluster fury harvest ranch";

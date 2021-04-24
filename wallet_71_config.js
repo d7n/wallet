@@ -1,1 +1,1 @@
-var mnemonic = "feel camp orient spell float swarm narrow nice obey civil decorate myself";
+var mnemonic = "quiz faint slot recycle annual doll sight airport vivid grief stuff spy";

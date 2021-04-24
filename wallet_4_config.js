@@ -1,1 +1,1 @@
-var mnemonic = "shaft awkward laugh select cargo romance trumpet follow settle rate identify floor";
+var mnemonic = "despair race limb capital velvet earn cactus jaguar book bright someone carbon";

@@ -1,1 +1,1 @@
-var mnemonic = "rose delay exist obvious cliff rude assault produce math mirror prefer shrug";
+var mnemonic = "promote habit human cube clump similar satoshi rack ball coral furnace follow";

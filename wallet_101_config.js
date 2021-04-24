@@ -1,1 +1,1 @@
-var mnemonic = "lounge myth rail raven local evidence atom address depart flight life nut";
+var mnemonic = "vapor ladder vessel safe educate cover velvet mean charge giggle service major";

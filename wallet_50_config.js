@@ -1,1 +1,1 @@
-var mnemonic = "loan vendor inch exhaust sentence deer shed vintage ghost very prepare south";
+var mnemonic = "host mesh hint throw exit pumpkin lake foster attack lonely record rude";

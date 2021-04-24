@@ -1,1 +1,1 @@
-var mnemonic = "remind sunset shoe absent extend crisp enhance symbol outdoor reveal genius ill";
+var mnemonic = "lounge kit napkin fabric ivory mass grab lab derive leisure fancy notice";

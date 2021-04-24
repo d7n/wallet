@@ -1,1 +1,1 @@
-var mnemonic = "south safe focus bar check chuckle cabbage chronic clock soul refuse wealth";
+var mnemonic = "fly elephant depart merge have zero cradle auto drama item filter shell";

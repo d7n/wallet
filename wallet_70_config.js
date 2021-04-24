@@ -1,1 +1,1 @@
-var mnemonic = "possible tank proud siren congress truck violin east dial enact olympic web";
+var mnemonic = "slam swarm describe quiz slender glove path smoke observe hammer diamond hero";

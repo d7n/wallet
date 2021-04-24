@@ -1,1 +1,1 @@
-var mnemonic = "birth rescue note middle crucial iron ghost blossom scheme render industry parrot";
+var mnemonic = "double frog color follow flat beyond habit gossip slush soft trophy blood";

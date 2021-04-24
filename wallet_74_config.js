@@ -1,1 +1,1 @@
-var mnemonic = "elbow body casual sun amateur hold fiscal vocal dumb stage flee globe";
+var mnemonic = "rail attack social subject hamster carry melt hover raw combine trophy anger";

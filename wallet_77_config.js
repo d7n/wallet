@@ -1,1 +1,1 @@
-var mnemonic = "loan pioneer coach suit dwarf raw wall engage aspect tired lake explain";
+var mnemonic = "river rebuild kiss green bubble afraid disorder blush manage raw obtain travel";

@@ -1,1 +1,1 @@
-var mnemonic = "mutual wish improve toss verify menu broken useful anger tray bulb grunt";
+var mnemonic = "cave salt honey cube pluck call talk regular emerge deny impose wrap";

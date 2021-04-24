@@ -1,1 +1,1 @@
-var mnemonic = "broccoli ramp spin wrong mechanic satisfy bread adjust brick napkin bulb pause";
+var mnemonic = "piece among page absent agent opera basic muscle mention absurd order decide";

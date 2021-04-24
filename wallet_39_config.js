@@ -1,1 +1,1 @@
-var mnemonic = "cable sorry outdoor deer clean seven adjust announce bleak safe mouse wolf";
+var mnemonic = "ocean danger that entire chair survey common tilt kind hour world domain";

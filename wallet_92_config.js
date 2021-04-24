@@ -1,1 +1,1 @@
-var mnemonic = "denial canal medal main auto review burger youth tonight emerge oven spoil";
+var mnemonic = "winter boil broom beef predict cigar category box light offer person special";

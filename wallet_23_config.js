@@ -1,1 +1,1 @@
-var mnemonic = "fly total nature base rug noble hawk wing smart able silly couple";
+var mnemonic = "basket want humor hard orbit keep eager debate upgrade circle foil pull";

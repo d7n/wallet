@@ -1,1 +1,1 @@
-var mnemonic = "will saddle onion stomach tribe record video spatial badge conduct movie profit";
+var mnemonic = "egg side wood brick random method daughter roast rib end liar drastic";

@@ -1,1 +1,1 @@
-var mnemonic = "olympic raw length matter gold purity garment bulk car dawn cliff symbol";
+var mnemonic = "food tuna frame cereal juice shove core vault install photo rude erosion";

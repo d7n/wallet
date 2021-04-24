@@ -1,1 +1,1 @@
-var mnemonic = "all pottery grass put thumb husband normal leader maze clerk boy please";
+var mnemonic = "enroll prepare slim donor shaft ritual affair average congress expire latin mirror";

@@ -1,1 +1,1 @@
-var mnemonic = "panic provide biology squeeze into earn sphere purity rude grid gold steel";
+var mnemonic = "lesson hundred example voice echo used happy turtle apple critic link stick";

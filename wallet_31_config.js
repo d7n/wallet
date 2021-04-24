@@ -1,1 +1,1 @@
-var mnemonic = "agree win predict toddler soldier suspect parent spray biology trend trip night";
+var mnemonic = "laugh cable range keep enforce mail tenant smile proud muscle broom rabbit";

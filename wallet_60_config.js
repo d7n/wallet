@@ -1,1 +1,1 @@
-var mnemonic = "wine tuna easily earn deputy innocent level rally afraid spoon jealous bike";
+var mnemonic = "utility whisper quantum melt vehicle effort myself brass exclude frown drama before";

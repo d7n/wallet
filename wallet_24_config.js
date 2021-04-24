@@ -1,1 +1,1 @@
-var mnemonic = "breeze bubble arrange steak ball morning click click year turkey guide genuine";
+var mnemonic = "era depart volume endless theme disagree asset viable loan genuine script mother";

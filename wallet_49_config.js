@@ -1,1 +1,1 @@
-var mnemonic = "render stadium hockey mansion sorry parent million frown travel amazing eternal mammal";
+var mnemonic = "viable axis grace marine false couch bonus arch gesture gentle fossil era";

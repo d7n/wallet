@@ -1,1 +1,1 @@
-var mnemonic = "speed hen wild skull renew lesson border exercise valve once face clap";
+var mnemonic = "velvet bomb again tank term guard buddy avoid level street border organ";

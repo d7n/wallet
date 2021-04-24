@@ -1,1 +1,1 @@
-var mnemonic = "absurd net cricket vacant beach jeans sunset cash elite lunch fabric true";
+var mnemonic = "today mention false cheap capital flat distance skill injury boy embark silly";

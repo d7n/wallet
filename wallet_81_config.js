@@ -1,1 +1,1 @@
-var mnemonic = "shaft admit crop twice tuition bubble miracle unit amused recipe stable model";
+var mnemonic = "render choose grass pistol beef shaft net special number cool nation virtual";

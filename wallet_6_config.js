@@ -1,1 +1,1 @@
-var mnemonic = "naive roast tone myself bitter barrel interest quality cherry debate search crater";
+var mnemonic = "recycle bicycle rabbit yard puppy plate conduct fury resource doll sibling olympic";

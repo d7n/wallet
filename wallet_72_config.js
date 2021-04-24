@@ -1,1 +1,1 @@
-var mnemonic = "excuse grid dry price burger nuclear twist code life pluck present yard";
+var mnemonic = "spare chaos among deputy provide warm sorry silly hire crater emotion blossom";

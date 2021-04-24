@@ -1,1 +1,1 @@
-var mnemonic = "december future unable curtain little mad option oppose crime thing danger coach";
+var mnemonic = "oval method brush grief venue fiber fuel peace vague snack frequent great";

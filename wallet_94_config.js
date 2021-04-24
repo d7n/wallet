@@ -1,1 +1,1 @@
-var mnemonic = "idea gain repeat settle athlete level situate hazard click design horn ozone";
+var mnemonic = "rely chaos amount reason rich method network secret sniff absurd hunt maple";

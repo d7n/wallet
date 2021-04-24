@@ -1,1 +1,1 @@
-var mnemonic = "force quote alert balcony faith group club between final item salute laptop";
+var mnemonic = "defy breeze brown tobacco chaos evil deal word camp pride level bag";

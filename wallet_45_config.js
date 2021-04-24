@@ -1,1 +1,1 @@
-var mnemonic = "brave spirit empower reform leave surround skin clever sausage kid lyrics knife";
+var mnemonic = "wine best divorce luggage inform humble cattle sport absent waste tell demand";

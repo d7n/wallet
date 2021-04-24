@@ -1,1 +1,1 @@
-var mnemonic = "adult mansion neglect matrix gown biology undo beauty grape blood cousin gym";
+var mnemonic = "awful layer bullet stove scissors inquiry congress hire faint fatal transfer fever";

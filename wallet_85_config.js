@@ -1,1 +1,1 @@
-var mnemonic = "success forest novel suspect empty budget suspect subway fun very idle brisk";
+var mnemonic = "comfort tornado elite soda coyote later depart estate chaos urban give bag";

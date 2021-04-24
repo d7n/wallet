@@ -1,1 +1,1 @@
-var mnemonic = "rough evidence cabin risk marriage face teach pudding dinosaur issue gadget purse";
+var mnemonic = "chicken industry cover dog castle state diet hollow name affair pride wage";

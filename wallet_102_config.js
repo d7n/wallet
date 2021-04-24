@@ -1,1 +1,1 @@
-var mnemonic = "coin appear merge theory race town rabbit upon clip asset normal music";
+var mnemonic = "about promote ticket curtain soccer security evolve timber friend vicious park idea";

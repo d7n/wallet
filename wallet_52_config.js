@@ -1,1 +1,1 @@
-var mnemonic = "nice genre input jaguar cannon relief three foot urge dentist various dentist";
+var mnemonic = "build glad lamp cactus push grab sense sustain consider custom bitter grocery";

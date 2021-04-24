@@ -1,1 +1,1 @@
-var mnemonic = "execute leaf busy agree metal track dune trial brain meadow expand push";
+var mnemonic = "note flash job theme wreck decade oppose next burden couple brown artefact";

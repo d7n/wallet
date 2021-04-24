@@ -1,1 +1,1 @@
-var mnemonic = "gasp clay involve warfare tunnel lazy actress shoot bundle audit typical spot";
+var mnemonic = "notable diet double gaze example neglect pact ready mule pretty weird medal";

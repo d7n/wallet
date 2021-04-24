@@ -1,1 +1,1 @@
-var mnemonic = "egg cream hurry genuine waste dismiss dish devote please crucial start basket";
+var mnemonic = "slow caught ethics flight caught ethics clerk alley margin shield someone praise";

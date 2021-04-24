@@ -1,1 +1,1 @@
-var mnemonic = "vehicle hello phrase speak subway praise thought script jazz appear charge august";
+var mnemonic = "loop expect hat about crazy health describe what maid air crack click";

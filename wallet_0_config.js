@@ -1,1 +1,1 @@
-var mnemonic = "silver lottery describe weird finish embody retire kitchen hotel mushroom arrive practice";
+var mnemonic = "master leaf slam spider arrow kind sing garage hover arrow sad captain";

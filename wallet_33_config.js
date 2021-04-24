@@ -1,1 +1,1 @@
-var mnemonic = "conduct budget maze hill much hunt zoo tunnel bomb october sausage own";
+var mnemonic = "flower creek vibrant toast print upon today enhance child gain cause cherry";

@@ -1,1 +1,1 @@
-var mnemonic = "protect seek huge keen dream okay exhaust auction buddy jaguar real canal";
+var mnemonic = "little piano jelly coyote common select budget wasp grain month gesture shop";

@@ -1,1 +1,1 @@
-var mnemonic = "damp control begin barrel pigeon fame rural noble casual gospel tent under";
+var mnemonic = "hub trigger puppy author purse silk obey pear drink entire quality life";

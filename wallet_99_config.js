@@ -1,1 +1,1 @@
-var mnemonic = "blade cereal vague duty vocal rice mail knock infant review game sniff";
+var mnemonic = "pill deny captain fan habit bulk bleak leisure lounge genuine enhance drift";

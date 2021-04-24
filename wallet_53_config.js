@@ -1,1 +1,1 @@
-var mnemonic = "country join save lounge recall depth woman around patient vintage muffin mixture";
+var mnemonic = "happy aerobic clog recipe silent suggest divert together dwarf concert prison obscure";

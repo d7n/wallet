@@ -1,1 +1,1 @@
-var mnemonic = "angle believe bunker lesson leopard tip syrup orchard obvious uncle vault umbrella";
+var mnemonic = "situate cradle waste much crime mail nice fluid dice guard drastic cheese";

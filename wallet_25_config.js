@@ -1,1 +1,1 @@
-var mnemonic = "way safe cruise ready across aspect basic smoke unveil jewel shuffle blur";
+var mnemonic = "virtual dune slender east indicate choice verb casino void window surge front";

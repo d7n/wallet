@@ -1,1 +1,1 @@
-var mnemonic = "blade capable knee salmon trick apple artist gospel filter bundle crisp bracket";
+var mnemonic = "feed silent carbon say stairs permit slice govern idea model kit column";

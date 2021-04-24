@@ -1,1 +1,1 @@
-var mnemonic = "crazy guard crash shed chalk shy end modify stereo kiss pass choice";
+var mnemonic = "window narrow race stool bring light fatigue aspect reflect elbow payment coil";

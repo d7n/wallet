@@ -1,1 +1,1 @@
-var mnemonic = "resource mean fault catch crack health mean tiger main flock world claw";
+var mnemonic = "toy truck kitchen praise catch cool update inner fun insect test web";

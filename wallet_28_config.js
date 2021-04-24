@@ -1,1 +1,1 @@
-var mnemonic = "spell odor weather twin hold alone wage region sweet humor cram sick";
+var mnemonic = "anger shaft glue express shoulder grain soon neutral cloud again chase funny";

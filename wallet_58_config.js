@@ -1,1 +1,1 @@
-var mnemonic = "clap response impact milk siege nice rabbit cloud aspect combine topic wage";
+var mnemonic = "action day boil illness dinosaur detail inform denial cruel salt dwarf warrior";

@@ -1,1 +1,1 @@
-var mnemonic = "empower hope attitude modify jeans oyster vanish speed awake pepper filter robust";
+var mnemonic = "vessel rocket interest asthma lumber worry chronic end latin bullet thunder promote";

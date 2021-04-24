@@ -1,1 +1,1 @@
-var mnemonic = "impact bone treat scheme holiday satoshi uncover around before balcony fade pride";
+var mnemonic = "hill column when record alter valley cover frequent usage pyramid castle impulse";

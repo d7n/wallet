@@ -1,1 +1,1 @@
-var mnemonic = "similar jewel coast elegant wink shadow spice drum brick patch disease trend";
+var mnemonic = "waste cube hard teach skirt elegant ice blossom brass ritual oblige fringe";

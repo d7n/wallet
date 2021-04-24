@@ -1,1 +1,1 @@
-var mnemonic = "brain squirrel trap balance crouch narrow veteran mango knife claim hospital inject";
+var mnemonic = "ball tent tell genuine squeeze scrub interest dish boat drop lounge fish";

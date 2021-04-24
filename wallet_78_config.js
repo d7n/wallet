@@ -1,1 +1,1 @@
-var mnemonic = "talk dilemma master rookie only impact chair helmet region actor drink maple";
+var mnemonic = "such noble depth ask seat immune today rotate owner friend carbon atom";

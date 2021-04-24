@@ -1,1 +1,1 @@
-var mnemonic = "roof little ghost patient sunny cannon grid exist social boy key trigger";
+var mnemonic = "dawn polar month trumpet search struggle neither divert cage grocery magic ivory";

@@ -1,1 +1,1 @@
-var mnemonic = "program viable artefact fresh bring kit oven wing tape canyon cotton congress";
+var mnemonic = "infant success firm okay seed myth upon brief witness buyer green primary";

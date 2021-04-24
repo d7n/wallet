@@ -1,1 +1,1 @@
-var mnemonic = "maple hospital west lobster match pact hunt cute photo expire smoke skate";
+var mnemonic = "region absurd behave lobster icon south thought mass food snake shield what";

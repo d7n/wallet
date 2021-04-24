@@ -1,1 +1,1 @@
-var mnemonic = "arctic net bone citizen sadness wolf leave degree electric eyebrow polar swing";
+var mnemonic = "salt dry race bag morning thing motor decide helmet sense damp skirt";

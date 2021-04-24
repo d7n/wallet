@@ -1,1 +1,1 @@
-var mnemonic = "actual bacon whale lyrics welcome sea warm citizen near measure vital barely";
+var mnemonic = "recipe leisure legal later crater level palace slim immense duck arch rely";

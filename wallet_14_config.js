@@ -1,1 +1,1 @@
-var mnemonic = "flush wish diary online aerobic boy swim corn retreat exercise error enact";
+var mnemonic = "exact common crouch pill toy mind goose attend middle helmet panic hub";

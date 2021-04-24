@@ -1,1 +1,1 @@
-var mnemonic = "juice diary tiny load loud sustain adapt into inflict minimum cycle lyrics";
+var mnemonic = "hazard drill kick post peace twelve guitar section drum street ostrich female";

@@ -1,1 +1,1 @@
-var mnemonic = "pool license remember swarm fury faith boil dismiss describe fossil enact unique";
+var mnemonic = "walk file uniform crane off manage debate duck invite cost improve normal";

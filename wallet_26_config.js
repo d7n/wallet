@@ -1,1 +1,1 @@
-var mnemonic = "labor flight reunion toward glow copper sunset topic view vapor perfect buddy";
+var mnemonic = "turkey throw level cereal process recycle target diary imitate puppy rebuild clump";

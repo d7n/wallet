@@ -1,1 +1,1 @@
-var mnemonic = "frost theme toast sugar fall skill wash lottery butter kangaroo occur noble";
+var mnemonic = "hidden income position polar tilt junk moon fortune elbow shy voyage parrot";

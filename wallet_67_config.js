@@ -1,1 +1,1 @@
-var mnemonic = "loop captain derive tape soon jeans pond work human omit mushroom piece";
+var mnemonic = "game garbage perfect tourist tired cross bounce danger check use mutual myth";

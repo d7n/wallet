@@ -1,1 +1,1 @@
-var mnemonic = "praise power gown marriage muscle exchange distance curve thank element style stereo";
+var mnemonic = "embody remove mask glide truck scrap lion bag elegant friend dish guess";

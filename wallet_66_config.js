@@ -1,1 +1,1 @@
-var mnemonic = "book glance sure volcano bridge glove begin clog web unfair help salad";
+var mnemonic = "runway renew term quarter view holiday bicycle whisper success arena zone school";

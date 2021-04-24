@@ -1,1 +1,1 @@
-var mnemonic = "camera discover whip zebra jaguar olympic scan motion position aware repeat pelican";
+var mnemonic = "bread license auction holiday pond column enforce rocket arch ghost video sugar";

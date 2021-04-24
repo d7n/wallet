@@ -1,1 +1,1 @@
-var mnemonic = "total envelope tray pony october possible tree label camp banner matrix survey";
+var mnemonic = "what chair rapid either story ozone during dash home found way denial";

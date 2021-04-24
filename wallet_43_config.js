@@ -1,1 +1,1 @@
-var mnemonic = "amateur curve immune neglect purity round bomb obtain fall ride giant wealth";
+var mnemonic = "month ahead loop brief general spike process correct inch violin valve nose";

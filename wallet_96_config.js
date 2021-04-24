@@ -1,1 +1,1 @@
-var mnemonic = "climb mammal basket skin install feed bomb fee lawsuit achieve define spend";
+var mnemonic = "floor arrange thumb dynamic despair update mouse civil dawn collect position deliver";

@@ -1,1 +1,1 @@
-var mnemonic = "help type radar city issue joke curious ginger love pulp lazy zoo";
+var mnemonic = "approve ridge error since mirror hawk giggle erode wonder crawl meadow swarm";

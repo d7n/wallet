@@ -1,1 +1,1 @@
-var mnemonic = "neck retreat client foster cave seminar music cage kind guitar trumpet nurse";
+var mnemonic = "dust private cabin betray timber saddle live twenty network file crash run";

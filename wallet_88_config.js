@@ -1,1 +1,1 @@
-var mnemonic = "famous right maximum aspect rural simple extend purity code arrive damage leave";
+var mnemonic = "denial call fix suspect turkey thunder inside danger horse very tip sail";

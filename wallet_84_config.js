@@ -1,1 +1,1 @@
-var mnemonic = "ridge run matter grab pudding stand access lounge ranch hood load alley";
+var mnemonic = "fence dignity flock oak you dragon couple treat wealth ribbon brisk filter";

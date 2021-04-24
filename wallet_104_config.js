@@ -1,1 +1,1 @@
-var mnemonic = "goat fatal identify sausage dolphin win orange obey fame ancient parrot spy";
+var mnemonic = "reason equal explain keen blind claw history witness social obvious object coffee";

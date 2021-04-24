@@ -1,1 +1,1 @@
-var mnemonic = "order because possible sausage suspect vintage steak million myth mosquito grab duck";
+var mnemonic = "sadness flat assault feature endorse leaf until sense loyal erosion syrup yard";

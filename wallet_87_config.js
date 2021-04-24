@@ -1,1 +1,1 @@
-var mnemonic = "despair audit blur ethics hazard taxi thumb rate focus fee coach differ";
+var mnemonic = "culture kitchen paddle cluster polar knock short manual february film negative denial";

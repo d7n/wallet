@@ -1,1 +1,1 @@
-var mnemonic = "lesson mixed border ordinary river wear extra tennis danger love strike heavy";
+var mnemonic = "rebuild harbor sign media current want kingdom exercise buffalo rough drop tornado";

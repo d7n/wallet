@@ -1,1 +1,1 @@
-var mnemonic = "avocado drop valley beef agent family swim sentence license resource radio cloud";
+var mnemonic = "erode street film usage unaware garden hurry buddy then cattle release hurt";

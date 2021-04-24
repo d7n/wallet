@@ -1,1 +1,1 @@
-var mnemonic = "document fence fix ride arctic exotic busy excess modify hobby can kit";
+var mnemonic = "sense atom patch silent zone cannon october journey because lion item evolve";

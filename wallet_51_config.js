@@ -1,1 +1,1 @@
-var mnemonic = "slush weapon rely basket nose lift tilt net autumn parade ensure chuckle";
+var mnemonic = "promote lady help deputy echo warrior ocean sauce ostrich eye boy shallow";

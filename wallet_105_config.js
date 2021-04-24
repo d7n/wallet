@@ -1,1 +1,1 @@
-var mnemonic = "avocado ensure large office panel allow dice inquiry gather company feature total";
+var mnemonic = "absent turn paddle little credit virus curve basket sad inquiry sibling skin";

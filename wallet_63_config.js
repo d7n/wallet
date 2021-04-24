@@ -1,1 +1,1 @@
-var mnemonic = "identify coyote leopard usual used horse conduct banana wasp palm demise marriage";
+var mnemonic = "fantasy unveil source what day shine kidney protect album panic honey cook";

@@ -1,1 +1,1 @@
-var mnemonic = "tone snake tag catch century decorate mixture total era heart bottom dance";
+var mnemonic = "uphold salmon rabbit melody input canvas soft soul tomato theme marble control";
