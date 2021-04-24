@@ -1,1 +1,1 @@
-var mnemonic = "right harsh pole pipe cram mind syrup patch mushroom envelope truth february";
+var mnemonic = "future rack senior leader bundle garage run public draft arctic seek man";

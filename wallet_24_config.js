@@ -1,1 +1,1 @@
-var mnemonic = "ring vivid quarter detail danger ball favorite rain ignore opera proof legal";
+var mnemonic = "feel frost blood soccer naive diesel tobacco affair wrap reason appear lounge";

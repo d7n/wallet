@@ -1,1 +1,1 @@
-var mnemonic = "mammal demise light room arctic moon board zebra master process forest wreck";
+var mnemonic = "axis cry category bicycle brown almost rain input upset atom enroll cruel";

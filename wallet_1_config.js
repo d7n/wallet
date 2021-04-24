@@ -1,1 +1,1 @@
-var mnemonic = "cabbage uphold verb zoo mixture abandon nation ozone argue mistake dizzy believe";
+var mnemonic = "clever figure coyote team hill math amused aim salt lucky tool project";

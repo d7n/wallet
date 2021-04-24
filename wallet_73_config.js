@@ -1,1 +1,1 @@
-var mnemonic = "auto conduct empty during manage unknown adjust power ill excite attack library";
+var mnemonic = "rabbit section diesel hedgehog eternal village lottery click scout pizza often source";

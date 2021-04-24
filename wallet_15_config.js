@@ -1,1 +1,1 @@
-var mnemonic = "check access cabbage problem over feed scale bring swallow accident bid burger";
+var mnemonic = "digital snack edit journey next fat inquiry pigeon canoe vehicle canoe fine";

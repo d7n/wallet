@@ -1,1 +1,1 @@
-var mnemonic = "cattle humble lava pill brush convince glad marriage involve rabbit lake alcohol";
+var mnemonic = "place anxiety wheat leaf high miss upgrade jealous theory ankle pause erosion";

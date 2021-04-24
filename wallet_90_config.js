@@ -1,1 +1,1 @@
-var mnemonic = "entire nut drama claim wreck because advice junior host cruel asthma obvious";
+var mnemonic = "gentle orange kind sister coral endorse cake fly rose often episode head";

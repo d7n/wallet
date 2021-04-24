@@ -1,1 +1,1 @@
-var mnemonic = "black artwork lizard tip range they boil issue episode torch abstract once";
+var mnemonic = "focus all super maid barrel domain amazing grab lesson accuse order glow";

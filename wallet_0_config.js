@@ -1,1 +1,1 @@
-var mnemonic = "suffer hood negative govern action seminar purity floor monster force divert disease";
+var mnemonic = "color noodle dismiss chapter only between dune cloth lava grace pen target";

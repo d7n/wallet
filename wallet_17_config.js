@@ -1,1 +1,1 @@
-var mnemonic = "boost window spring trophy system outside desk cover equip online olympic indicate";
+var mnemonic = "square local advance spoon stem save unlock comic camp royal river country";

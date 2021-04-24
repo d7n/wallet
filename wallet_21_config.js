@@ -1,1 +1,1 @@
-var mnemonic = "chaos place boy orient water hamster fossil result enable medal cat expose";
+var mnemonic = "metal video critic stage cruise scare park isolate tragic topple toddler topic";

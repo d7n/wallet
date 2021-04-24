@@ -1,1 +1,1 @@
-var mnemonic = "member switch hurdle color riot audit fat dove train cigar elegant wrist";
+var mnemonic = "jacket clap lake weird matter lake hover rally essay flower left caught";

@@ -1,1 +1,1 @@
-var mnemonic = "service habit reduce enable erode inside leisure olympic matrix cruel luggage rebuild";
+var mnemonic = "elevator prepare obscure exclude level spell when bicycle narrow vehicle entry angry";

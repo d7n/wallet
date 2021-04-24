@@ -1,1 +1,1 @@
-var mnemonic = "twelve weird badge gun rapid satisfy news hole mystery april wine apple";
+var mnemonic = "ensure nest behave carry monitor movie sample crack employ popular punch sunny";

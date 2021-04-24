@@ -1,1 +1,1 @@
-var mnemonic = "mammal luggage cancel arch only call vapor afraid dinosaur figure broccoli wool";
+var mnemonic = "adjust switch baby throw aspect fall wood cancel tomorrow ozone child elephant";

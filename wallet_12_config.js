@@ -1,1 +1,1 @@
-var mnemonic = "typical monitor eyebrow once vanish receive firm cup sell kitchen clean slim";
+var mnemonic = "bunker client pool metal artefact hand april scheme hunt reveal left hazard";

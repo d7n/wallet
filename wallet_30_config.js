@@ -1,1 +1,1 @@
-var mnemonic = "federal spray tonight grunt again climb verify come moon spot someone fun";
+var mnemonic = "crawl similar number tumble aisle this napkin clay turkey obey code swap";

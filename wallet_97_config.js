@@ -1,1 +1,1 @@
-var mnemonic = "raise such sudden silver total innocent office laptop figure asset sudden evil";
+var mnemonic = "eager permit tourist defy melt tree picture essay praise flavor valid swift";

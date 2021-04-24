@@ -1,1 +1,1 @@
-var mnemonic = "now damage miracle depart exchange draft fantasy egg sea limit upper fix";
+var mnemonic = "funny light under okay program random gesture great all bottom pause suffer";

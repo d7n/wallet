@@ -1,1 +1,1 @@
-var mnemonic = "resist cover expect that grocery chuckle laptop frown private airport royal divide";
+var mnemonic = "worry slight unable exchange gown hire cat index baby chest armor hen";

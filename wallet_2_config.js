@@ -1,1 +1,1 @@
-var mnemonic = "grunt output melt snap luggage noble all burger letter exhaust crack bleak";
+var mnemonic = "there bunker gym moon shrimp talk infant wink two apart veteran magic";

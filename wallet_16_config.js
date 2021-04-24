@@ -1,1 +1,1 @@
-var mnemonic = "material antenna ice oven diesel evoke simple speak hen finger addict range";
+var mnemonic = "tribe cupboard spawn delay heart extra convince exercise rely shoot forward salmon";

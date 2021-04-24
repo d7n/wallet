@@ -1,1 +1,1 @@
-var mnemonic = "correct soap air congress milk armed refuse lonely good order section help";
+var mnemonic = "van oxygen grief deputy release balcony armor top trim glory capital fame";

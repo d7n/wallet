@@ -1,1 +1,1 @@
-var mnemonic = "move canal remember vault surprise pupil purchase poem device congress armor near";
+var mnemonic = "caution stove about glide patch meat height fabric filter copy nerve inform";

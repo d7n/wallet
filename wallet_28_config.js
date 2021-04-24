@@ -1,1 +1,1 @@
-var mnemonic = "piano bounce long height permit enlist fan column wrist uphold plug chapter";
+var mnemonic = "real neck provide bulb science good inflict cat monster across jelly cinnamon";

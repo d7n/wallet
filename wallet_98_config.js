@@ -1,1 +1,1 @@
-var mnemonic = "refuse venture tape nasty afraid push liberty member fortune source estate whale";
+var mnemonic = "enough sock weird obtain wear have core unaware inner coffee swarm service";

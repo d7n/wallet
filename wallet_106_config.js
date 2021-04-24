@@ -1,1 +1,1 @@
-var mnemonic = "hungry carry color zoo motor speak eagle view inquiry urban draft height";
+var mnemonic = "anxiety scale drive between robust smoke thumb host powder feel rhythm bus";

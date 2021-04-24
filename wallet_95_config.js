@@ -1,1 +1,1 @@
-var mnemonic = "confirm clever depart marine rocket party finger crime layer suspect festival journey";
+var mnemonic = "trial prison below together seed panda hundred wish debris camp level gate";

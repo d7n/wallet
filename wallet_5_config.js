@@ -1,1 +1,1 @@
-var mnemonic = "base doll artwork meadow picture festival friend axis sleep crime length number";
+var mnemonic = "grab leopard involve nothing auto like parade erode snap swap fan early";

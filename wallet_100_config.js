@@ -1,1 +1,1 @@
-var mnemonic = "border stage color country month blind ripple scorpion mind observe decrease grant";
+var mnemonic = "sorry horn broom slam chunk bridge sea scorpion chat drum case drip";

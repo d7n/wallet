@@ -1,1 +1,1 @@
-var mnemonic = "pill clerk exact spatial account wife simple canal slot assume pretty rely";
+var mnemonic = "shield radar velvet radio boy devote success pony farm summer social often";

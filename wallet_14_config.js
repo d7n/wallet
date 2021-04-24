@@ -1,1 +1,1 @@
-var mnemonic = "ripple fence trash coral fly often parent win venture perfect embody trumpet";
+var mnemonic = "nice bounce once update defense scrub nature rain supreme business couch abandon";

@@ -1,1 +1,1 @@
-var mnemonic = "panther vast save accident ahead canal brand aerobic possible pencil profit view";
+var mnemonic = "mix exact amateur hood erupt harvest include alien cool ethics sick recipe";

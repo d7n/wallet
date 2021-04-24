@@ -1,1 +1,1 @@
-var mnemonic = "twenty spy laundry web dirt machine liberty dragon scrub entire into solar";
+var mnemonic = "cake assume scale addict mansion inject green ripple frog police wrong attack";

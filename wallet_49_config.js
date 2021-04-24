@@ -1,1 +1,1 @@
-var mnemonic = "neither poverty label glue ensure thunder gravity install claw nuclear luxury guitar";
+var mnemonic = "shift bacon black benefit useless maze pole file cancel eagle deal side";

@@ -1,1 +1,1 @@
-var mnemonic = "tooth enforce lottery turn hurdle cry leave old panda subject tray aim";
+var mnemonic = "trap isolate car jaguar idle abandon minimum frozen neutral sea slush casual";

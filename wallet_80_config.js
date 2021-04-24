@@ -1,1 +1,1 @@
-var mnemonic = "priority drill tape grid hard fence lemon tortoise right dad talent crumble";
+var mnemonic = "bridge veteran wheel police half candy sing letter swap rail gym lock";

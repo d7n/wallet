@@ -1,1 +1,1 @@
-var mnemonic = "two swamp unique rocket jazz over again stove circle maximum enlist frequent";
+var mnemonic = "trend dial frame twice heart invest viable pet sauce flight three grocery";

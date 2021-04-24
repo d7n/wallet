@@ -1,1 +1,1 @@
-var mnemonic = "switch silk rival quiz immune theory near cube interest witness student purse";
+var mnemonic = "across library ginger exist culture impulse lock marble rather people ahead feel";

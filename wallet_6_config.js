@@ -1,1 +1,1 @@
-var mnemonic = "embark mountain trick favorite dragon chalk army vague bacon seat absurd game";
+var mnemonic = "gauge story crowd quantum raven note blouse update enable walnut cost salt";

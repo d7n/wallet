@@ -1,1 +1,1 @@
-var mnemonic = "motion shield author battle slush pilot volcano depth code ginger virtual reject";
+var mnemonic = "grunt lift can merge upset glory wet steel else enjoy misery infant";

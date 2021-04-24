@@ -1,1 +1,1 @@
-var mnemonic = "between degree boss broccoli royal judge swamp solar narrow border brave erase";
+var mnemonic = "more scene stomach win either organ knock model ensure vibrant office violin";

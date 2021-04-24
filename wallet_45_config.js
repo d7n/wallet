@@ -1,1 +1,1 @@
-var mnemonic = "weather guilt august gloom inner harvest pottery basket frown ahead turkey similar";
+var mnemonic = "kit giraffe equal tattoo video again slab arena tuition unable canyon text";

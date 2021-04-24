@@ -1,1 +1,1 @@
-var mnemonic = "live stuff trust reveal husband neutral fortune still grid train fence wait";
+var mnemonic = "goose unit pupil boost wood library grit leave patch style plug trial";

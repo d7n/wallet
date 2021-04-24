@@ -1,1 +1,1 @@
-var mnemonic = "portion cross firm laptop pet fade mistake pause network glue normal verb";
+var mnemonic = "blanket sport afraid chaos title raise family exhaust detect kick sentence boy";

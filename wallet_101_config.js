@@ -1,1 +1,1 @@
-var mnemonic = "blame wait alone also kitten silly street orange bird garden talk draw";
+var mnemonic = "actress gold install match hundred seat midnight valid bar when choice thank";

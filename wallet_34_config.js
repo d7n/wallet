@@ -1,1 +1,1 @@
-var mnemonic = "kick rigid visit caution ancient explain sugar sadness kidney just inside funny";
+var mnemonic = "cannon goose jacket glad kidney vintage artefact neglect sing dirt fall shoulder";

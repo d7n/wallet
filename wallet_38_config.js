@@ -1,1 +1,1 @@
-var mnemonic = "clever hurry water inner wonder outdoor disorder lizard pact danger romance spread";
+var mnemonic = "guess uniform zebra stadium wild bleak side payment good stumble hurdle pioneer";

@@ -1,1 +1,1 @@
-var mnemonic = "pear crisp express fame mix obscure gesture cigar nose crazy frequent accuse";
+var mnemonic = "three tumble favorite whale truth immune shaft harbor upset gossip gather such";

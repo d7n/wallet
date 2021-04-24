@@ -1,1 +1,1 @@
-var mnemonic = "hover keen rhythm gorilla puppy nasty estate deliver expose joy media zoo";
+var mnemonic = "misery option pulp again foster creek lend strategy marble fashion suit tumble";

@@ -1,1 +1,1 @@
-var mnemonic = "until weekend black holiday theme inner senior black awesome boss soap girl";
+var mnemonic = "lion also order health current ocean large kiss sadness truck pumpkin certain";

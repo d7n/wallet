@@ -1,1 +1,1 @@
-var mnemonic = "eternal approve anger flip battle amazing hub fox blossom weapon dismiss matrix";
+var mnemonic = "skirt orbit sense vicious subway loop still slice captain move marine reason";

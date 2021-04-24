@@ -1,1 +1,1 @@
-var mnemonic = "wide drastic divert blind verify doll speak cat reflect forward omit west";
+var mnemonic = "grant alter crane spring warfare cigar embody baby rate swear hold athlete";

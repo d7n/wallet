@@ -1,1 +1,1 @@
-var mnemonic = "blast police eyebrow truck news baby print rocket trip degree swear plunge";
+var mnemonic = "decorate judge check squirrel nation profit middle yard bus twelve bounce pudding";

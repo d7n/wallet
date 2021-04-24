@@ -1,1 +1,1 @@
-var mnemonic = "squirrel hope glance melt grow daring worry cricket baby surge opinion service";
+var mnemonic = "kingdom powder absent whip finger battle extend snack rubber gym goat just";

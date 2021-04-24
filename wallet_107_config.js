@@ -1,1 +1,1 @@
-var mnemonic = "fix sure insect cram attend tiny travel bind tongue length small debris";
+var mnemonic = "sorry neither pill awake onion brick cart exchange snack air lab wide";

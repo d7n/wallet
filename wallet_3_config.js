@@ -1,1 +1,1 @@
-var mnemonic = "task lamp hood chef rebuild predict woman someone camp frost recipe day";
+var mnemonic = "leave mystery spin arrow pumpkin spice praise section grid palm plate warrior";

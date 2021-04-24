@@ -1,1 +1,1 @@
-var mnemonic = "slender holiday normal pipe finish nasty chef hungry swap crisp clinic inner";
+var mnemonic = "logic tornado love noodle grow outer shiver device recycle about brand fossil";

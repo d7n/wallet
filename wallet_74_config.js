@@ -1,1 +1,1 @@
-var mnemonic = "much outer law delay start club hedgehog over cancel elbow fault one";
+var mnemonic = "work since air east volcano frog demand coach current detail photo believe";

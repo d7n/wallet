@@ -1,1 +1,1 @@
-var mnemonic = "merge visit hole clip cattle empty desk popular play horror own ginger";
+var mnemonic = "mad section van glow husband awake guide diet man key increase father";

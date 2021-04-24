@@ -1,1 +1,1 @@
-var mnemonic = "skill wealth tongue essay town atom embrace rural office vacuum moment solar";
+var mnemonic = "legal hood awkward web salad stone dune normal kit opinion they assume";

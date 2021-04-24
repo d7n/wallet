@@ -1,1 +1,1 @@
-var mnemonic = "grain mobile fork innocent hurdle useful brisk omit elder day upon gasp";
+var mnemonic = "drill coach hand bar episode patch shine just bless moon senior tourist";

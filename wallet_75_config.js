@@ -1,1 +1,1 @@
-var mnemonic = "trust kitten animal carpet torch under viable method pyramid glimpse trap egg";
+var mnemonic = "avocado fame silent perfect quality tooth appear smoke maze melody fitness december";

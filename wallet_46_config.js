@@ -1,1 +1,1 @@
-var mnemonic = "hammer turn small cherry develop wonder payment kangaroo involve road decide evoke";
+var mnemonic = "faculty celery february stadium wisdom kick spot pause sword broom egg outdoor";

@@ -1,1 +1,1 @@
-var mnemonic = "decade clean endless solid rough wash scare clock original drift mom question";
+var mnemonic = "wise dignity pause rug hybrid alter control fashion skirt swift humor name";

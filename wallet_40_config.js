@@ -1,1 +1,1 @@
-var mnemonic = "dwarf style shuffle dance shine insect oil tomato dinner island noise congress";
+var mnemonic = "that powder bridge squeeze wreck champion tail pottery satisfy report acquire fire";

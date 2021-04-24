@@ -1,1 +1,1 @@
-var mnemonic = "ring artwork junior march clock piece sorry sibling food cradle flower chapter";
+var mnemonic = "order deputy juice into twin eight protect divide jaguar remain summer input";

@@ -1,1 +1,1 @@
-var mnemonic = "result news false jump broccoli spider crush artefact neutral impact piano purity";
+var mnemonic = "lady art law eternal tackle also cave still apart senior vehicle gloom";

@@ -1,1 +1,1 @@
-var mnemonic = "index jelly arena pepper scene sell dream goddess ladder urban taste rain";
+var mnemonic = "sort bridge between erode deal route arctic adult unfair truck bread dumb";

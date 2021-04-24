@@ -1,1 +1,1 @@
-var mnemonic = "erase puppy inject verify possible fine virtual invite venue fine carry ecology";
+var mnemonic = "like tenant marine fiber skate woman great quit subway steak differ bar";

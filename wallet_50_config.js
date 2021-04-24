@@ -1,1 +1,1 @@
-var mnemonic = "decorate smooth boring degree favorite cart run there hospital sister inner area";
+var mnemonic = "twice elevator equal night file father more broom joy banana giggle invest";

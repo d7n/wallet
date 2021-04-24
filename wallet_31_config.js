@@ -1,1 +1,1 @@
-var mnemonic = "truth alpha spring pet canvas inside bag unaware creek oxygen eager congress";
+var mnemonic = "pizza funny screen open hello photo girl imitate where coyote able moment";

@@ -1,1 +1,1 @@
-var mnemonic = "evil crowd diet atom fault situate blanket festival candy turn issue fiscal";
+var mnemonic = "vital cage property maid lyrics unable often target artist fruit stamp practice";

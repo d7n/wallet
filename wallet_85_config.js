@@ -1,1 +1,1 @@
-var mnemonic = "slam powder deal speak absurd hotel ritual joke total trigger result debris";
+var mnemonic = "gallery risk defense banner crunch soap laundry expose you network fiction silent";

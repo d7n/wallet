@@ -1,1 +1,1 @@
-var mnemonic = "buzz sphere vault since silent essence run rule analyst crew sister local";
+var mnemonic = "skill fine embrace throw great marble online dove brisk shy horse woman";

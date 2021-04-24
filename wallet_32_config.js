@@ -1,1 +1,1 @@
-var mnemonic = "inch afraid split fury mosquito remain nerve seminar monitor plug guide scissors";
+var mnemonic = "gather grant case body erupt sport degree impose voice large pill priority";

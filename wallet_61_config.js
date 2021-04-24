@@ -1,1 +1,1 @@
-var mnemonic = "hurdle depth cruise install super crawl cactus jeans unlock drive rabbit cash";
+var mnemonic = "desk dry goat kingdom spin gauge foil limb must find small tongue";

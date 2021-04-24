@@ -1,1 +1,1 @@
-var mnemonic = "island bamboo hood test dentist wood tone sister film industry turtle borrow";
+var mnemonic = "excuse keen false venue bounce camera lens globe chunk right action invite";

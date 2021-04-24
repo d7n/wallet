@@ -1,1 +1,1 @@
-var mnemonic = "lab nothing warm drill orchard love unaware artist unusual fossil dismiss purpose";
+var mnemonic = "ski spider holiday picture cricket useful burden equal cup drop vintage print";

@@ -1,1 +1,1 @@
-var mnemonic = "enact online toast throw drive leader rabbit amused dash stereo light myself";
+var mnemonic = "left head gas noise fatal orphan soccer strong hold ball practice swear";

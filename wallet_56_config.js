@@ -1,1 +1,1 @@
-var mnemonic = "regular badge army retreat grant fence captain rubber decline special village clinic";
+var mnemonic = "emotion region cereal shadow swear mammal mean sphere ranch tip auto bread";

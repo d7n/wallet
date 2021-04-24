@@ -1,1 +1,1 @@
-var mnemonic = "expect buffalo unknown drink piano submit armed tower sponsor today chief face";
+var mnemonic = "tattoo matter vast limit example mystery argue observe spring lock sign brand";

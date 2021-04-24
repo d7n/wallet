@@ -1,1 +1,1 @@
-var mnemonic = "absorb legend pole gloom note excess method nephew garden tooth turtle light";
+var mnemonic = "uncle often hood remain arch detail verify develop blur solution crumble project";

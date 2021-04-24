@@ -1,1 +1,1 @@
-var mnemonic = "walk narrow priority mutual able yard better video pill silent lottery purse";
+var mnemonic = "injury success youth capable tiger only pledge clerk describe soldier boat link";

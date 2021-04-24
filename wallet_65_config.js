@@ -1,1 +1,1 @@
-var mnemonic = "crawl pet language garden broom tilt birth mansion saddle copper bulb try";
+var mnemonic = "found divide gorilla vote fire pair middle fury gasp cost kick garbage";

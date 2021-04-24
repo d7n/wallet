@@ -1,1 +1,1 @@
-var mnemonic = "jazz liquid actual hen fix choose cry brass ship mask toilet shell";
+var mnemonic = "flower much worry wall special cross advice vivid woman silly observe remind";

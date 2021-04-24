@@ -1,1 +1,1 @@
-var mnemonic = "dice frost nice enforce consider amateur silver language history pass blanket adjust";
+var mnemonic = "bulb thing creek stereo any choose hockey volume tube begin produce crack";

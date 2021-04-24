@@ -1,1 +1,1 @@
-var mnemonic = "voice junk silly park rather fabric poet action invest donate view poverty";
+var mnemonic = "pet hair vehicle affair merge street they trim remove rug glance trial";

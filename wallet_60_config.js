@@ -1,1 +1,1 @@
-var mnemonic = "bean code under combine viable allow fix crystal side harvest piano work";
+var mnemonic = "health puppy deny pause start happy bicycle perfect path quit addict service";

@@ -1,1 +1,1 @@
-var mnemonic = "sample flush style tired setup success point unique diet basic private castle";
+var mnemonic = "pioneer model loop execute coconut beach bitter rubber carpet lunar harvest neck";

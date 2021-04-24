@@ -1,1 +1,1 @@
-var mnemonic = "judge actual sadness snake meadow enter boil avocado source pole issue wrestle";
+var mnemonic = "bachelor style flower wave predict dwarf seed give shallow taxi hollow blossom";

@@ -1,1 +1,1 @@
-var mnemonic = "raven mandate grain leg turtle conduct couch lion major patch boil crime";
+var mnemonic = "hub female actor detect raccoon exhibit hip oyster employ power daughter festival";

@@ -1,1 +1,1 @@
-var mnemonic = "sadness venture fork cherry buyer tell age shield tumble person hobby dumb";
+var mnemonic = "hobby attract poet unable decrease once skate caution shrug double siege tackle";
