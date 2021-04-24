@@ -1,1 +1,1 @@
-var mnemonic = "field rent pill sorry phone proof ability gas glad design never win";
+var mnemonic = "note ripple object thing torch loyal eye weather kiwi speak wheat apart";

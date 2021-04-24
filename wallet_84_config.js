@@ -1,1 +1,1 @@
-var mnemonic = "consider ride pitch hope feel genius patch about lion parent bottom repair";
+var mnemonic = "radio quit hire gun muffin put flee toss pass always purchase fork";

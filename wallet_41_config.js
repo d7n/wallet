@@ -1,1 +1,1 @@
-var mnemonic = "body daring dismiss wear between sell ugly faint action palm shiver what";
+var mnemonic = "ten slam hand decide shine about fragile siren patrol citizen cave stomach";

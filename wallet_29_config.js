@@ -1,1 +1,1 @@
-var mnemonic = "lucky tell rack ladder narrow between inflict left always guess health mountain";
+var mnemonic = "buffalo finish labor stay fever evil indicate midnight senior blast inspire voice";

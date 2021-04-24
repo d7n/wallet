@@ -1,1 +1,1 @@
-var mnemonic = "maple decade feature lamp pumpkin island acquire topic force fold sustain own";
+var mnemonic = "supply dumb middle filter uniform traffic half scheme pull venue claw random";

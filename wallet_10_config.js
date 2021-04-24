@@ -1,1 +1,1 @@
-var mnemonic = "bracket decade road carbon song hockey surge relief library water grocery pear";
+var mnemonic = "nothing spot vicious wrist round beach come kind toe crawl forward amount";

@@ -1,1 +1,1 @@
-var mnemonic = "never season key survey two ask unknown ramp speak bargain effort flavor";
+var mnemonic = "fox eternal popular deer only rebel country upper road cable alien denial";

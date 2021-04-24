@@ -1,1 +1,1 @@
-var mnemonic = "feel defy able mansion ghost blood gaze school kidney street feature place";
+var mnemonic = "depart turn foster gather derive garden mountain arrow treat bird when gesture";

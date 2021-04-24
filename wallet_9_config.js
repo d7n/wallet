@@ -1,1 +1,1 @@
-var mnemonic = "witness clap void echo forward embody hockey buyer crack gap moment burst";
+var mnemonic = "mother fabric angry wolf intact across address moon genuine short farm wedding";

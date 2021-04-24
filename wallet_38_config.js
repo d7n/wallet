@@ -1,1 +1,1 @@
-var mnemonic = "talent nurse economy hair hand diesel stairs frozen scheme theory endorse kit";
+var mnemonic = "vibrant current rebuild wedding negative coil grid head uncover laugh flee subway";

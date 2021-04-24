@@ -1,1 +1,1 @@
-var mnemonic = "whisper couple exist top unique frog evolve wink poem hockey leaf ride";
+var mnemonic = "hill impact notable west tobacco delay friend fiber virtual margin rocket common";

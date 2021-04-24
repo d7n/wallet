@@ -1,1 +1,1 @@
-var mnemonic = "chaos rapid share portion slender arrange gloom cross outside write human trash";
+var mnemonic = "concert twist crater bone boost scale pluck dinner come brain village daughter";

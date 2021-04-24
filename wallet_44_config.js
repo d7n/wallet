@@ -1,1 +1,1 @@
-var mnemonic = "razor stick wheel manage capable task bleak exclude final treat between apart";
+var mnemonic = "century feed earn lobster hurry wear man pencil trophy ring embark open";

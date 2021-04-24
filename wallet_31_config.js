@@ -1,1 +1,1 @@
-var mnemonic = "inherit cat blast garment mail approve ice polar fork surprise winter toast";
+var mnemonic = "genuine auction film electric into circle dynamic clarify rhythm world good caught";

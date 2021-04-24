@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog weekend under spot piece desk produce tumble utility upon wife craft";
+var mnemonic = "section practice awesome video winter siren bicycle carpet load analyst beyond hurt";

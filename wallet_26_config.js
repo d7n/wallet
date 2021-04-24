@@ -1,1 +1,1 @@
-var mnemonic = "pistol interest version collect robust happy brick version weapon merge scene reflect";
+var mnemonic = "sick bridge toss solve banana bitter vessel sphere visit police december chief";

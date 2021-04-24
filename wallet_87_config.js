@@ -1,1 +1,1 @@
-var mnemonic = "august simple chef little deny core rent clutch rug record congress obey";
+var mnemonic = "shine cousin blur wash ramp prize tragic soccer over level crash forget";

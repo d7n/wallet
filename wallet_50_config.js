@@ -1,1 +1,1 @@
-var mnemonic = "oven session local column fork hour demand exclude hotel pottery motor come";
+var mnemonic = "move vanish barrel will casual boy spring street wear benefit badge crush";

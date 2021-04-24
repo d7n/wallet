@@ -1,1 +1,1 @@
-var mnemonic = "degree congress refuse afford jealous odor ship radar lend script actress december";
+var mnemonic = "skirt minimum space maple survey vivid category soda rose artist surface illness";

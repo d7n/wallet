@@ -1,1 +1,1 @@
-var mnemonic = "hospital valley bird mail speak label visa dash quarter canoe entry nest";
+var mnemonic = "exit tent swap vacant fan combine bronze tobacco crouch page month abandon";

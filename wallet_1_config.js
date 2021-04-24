@@ -1,1 +1,1 @@
-var mnemonic = "walk work shoe empower print great error myself head actress iron blood";
+var mnemonic = "orphan language spirit typical because boring sudden wonder little square slush movie";

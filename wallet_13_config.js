@@ -1,1 +1,1 @@
-var mnemonic = "wall wise solve nice accuse letter sea green pink dinosaur vacuum direct";
+var mnemonic = "exotic dragon draft nature scale mango increase double dice acoustic remain cargo";

@@ -1,1 +1,1 @@
-var mnemonic = "guard security poverty tower peasant wool wrap cabbage range oppose document frown";
+var mnemonic = "stairs eyebrow fatal erosion media lens tent siren guess strike sell future";

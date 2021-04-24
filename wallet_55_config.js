@@ -1,1 +1,1 @@
-var mnemonic = "alpha destroy pulse next patrol insane found online boat earn candy derive";
+var mnemonic = "script elegant leader pen hurdle camp sunny broccoli stone more code tuna";

@@ -1,1 +1,1 @@
-var mnemonic = "home demise dream net soldier lesson true define tool slot joke proud";
+var mnemonic = "patch expire answer search drama amazing similar snow concert ill rib parrot";

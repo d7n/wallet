@@ -1,1 +1,1 @@
-var mnemonic = "bread early juice blast arch burger convince grunt equip put bring happy";
+var mnemonic = "scare burden mercy cream syrup dose sing frequent correct satisfy grab oblige";

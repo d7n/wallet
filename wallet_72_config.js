@@ -1,1 +1,1 @@
-var mnemonic = "debate silent alien foster bicycle change profit physical work piano early impose";
+var mnemonic = "smart shop bargain audit next episode month shy able slot capital bone";

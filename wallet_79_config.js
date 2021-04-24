@@ -1,1 +1,1 @@
-var mnemonic = "razor marriage duty cruel casino add congress machine reduce visa photo coil";
+var mnemonic = "gospel right kangaroo correct dust gospel olive supreme team bomb mass aisle";

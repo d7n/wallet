@@ -1,1 +1,1 @@
-var mnemonic = "describe visa season jaguar copper prefer dust stick chicken eager fruit lift";
+var mnemonic = "cactus shoot crater exhaust sail detail cereal pudding write trade glare hire";

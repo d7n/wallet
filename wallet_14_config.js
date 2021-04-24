@@ -1,1 +1,1 @@
-var mnemonic = "discover kangaroo spread sketch brush feed version bean identify apology unknown timber";
+var mnemonic = "similar forget benefit adapt donor remove blossom party brief gun vibrant target";

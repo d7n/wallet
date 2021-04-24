@@ -1,1 +1,1 @@
-var mnemonic = "canyon once trigger drive strike fresh number own judge voyage wink excuse";
+var mnemonic = "business three absorb orange battle enough unveil puzzle kitten hip tube acid";

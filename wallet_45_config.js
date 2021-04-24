@@ -1,1 +1,1 @@
-var mnemonic = "angry update neither online device click tribe time fringe daughter tell cradle";
+var mnemonic = "dash float youth observe swallow exile only alter material shift door electric";

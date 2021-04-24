@@ -1,1 +1,1 @@
-var mnemonic = "clog indicate whip crawl uphold yellow damage clutch pluck inflict brown endorse";
+var mnemonic = "crane calm reward afraid drop neither donor empty cram burden slim awkward";

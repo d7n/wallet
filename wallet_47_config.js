@@ -1,1 +1,1 @@
-var mnemonic = "husband razor fall reform fall embody panic lawsuit misery frog hood rib";
+var mnemonic = "base thunder exotic bus name sun quality rural candy action follow heavy";

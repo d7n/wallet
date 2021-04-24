@@ -1,1 +1,1 @@
-var mnemonic = "one business entire point harbor kiwi since ridge parent drill jaguar turtle";
+var mnemonic = "tube dwarf farm sound valid guard invite rubber flight fatal scare ignore";

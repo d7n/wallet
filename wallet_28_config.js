@@ -1,1 +1,1 @@
-var mnemonic = "blame language nature attend choose pupil iron series give change twice sure";
+var mnemonic = "elegant swap neutral trend believe human office tortoise wagon mansion sadness hero";

@@ -1,1 +1,1 @@
-var mnemonic = "scrub myself crouch air kick magnet prepare naive cool recipe rose strong";
+var mnemonic = "special desert judge question special elephant dignity bronze fix obscure front rescue";

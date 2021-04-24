@@ -1,1 +1,1 @@
-var mnemonic = "reopen enlist convince race custom allow uncle velvet jungle grain myth course";
+var mnemonic = "combine chef together trap sustain arctic calm teach shed trade range brand";

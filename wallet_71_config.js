@@ -1,1 +1,1 @@
-var mnemonic = "violin ostrich uniform december kidney inhale rent early similar account laundry sound";
+var mnemonic = "budget muscle increase tone office ticket atom argue bright moon put alarm";

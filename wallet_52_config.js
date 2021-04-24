@@ -1,1 +1,1 @@
-var mnemonic = "morning weekend custom betray announce rapid pond car ecology theme sort impulse";
+var mnemonic = "pear gate test glide city program teach anger banner tiger glory write";

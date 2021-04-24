@@ -1,1 +1,1 @@
-var mnemonic = "any beach tide ginger stick remove finish history van twenty cliff essay";
+var mnemonic = "quick pull advance estate number case cute unlock citizen helmet smile maple";

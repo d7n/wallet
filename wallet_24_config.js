@@ -1,1 +1,1 @@
-var mnemonic = "bright degree wood addict prosper sister scan virtual add proud champion merge";
+var mnemonic = "blur critic nose fortune aisle elephant teach roof maid quit scrub depend";

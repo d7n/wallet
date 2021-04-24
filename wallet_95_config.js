@@ -1,1 +1,1 @@
-var mnemonic = "main abuse deputy wave cherry body duck frozen dust plate silver uphold";
+var mnemonic = "pride choice roof cause polar section glove attitude gather force prepare able";

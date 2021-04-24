@@ -1,1 +1,1 @@
-var mnemonic = "coin mistake melody stage promote captain whale avocado blame produce deal hurry";
+var mnemonic = "employ double moment material echo learn upper frequent bubble solution permit like";

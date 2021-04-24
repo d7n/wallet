@@ -1,1 +1,1 @@
-var mnemonic = "sing vault palm mechanic curious tribe put ceiling puppy ready ketchup teach";
+var mnemonic = "cupboard seed round path angle monitor oppose affair point riot stamp donate";

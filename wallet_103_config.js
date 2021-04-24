@@ -1,1 +1,1 @@
-var mnemonic = "return appear van cheap sniff govern sing cactus fork maid mechanic step";
+var mnemonic = "evolve gown seven mercy blame today once aerobic slush solar mirror fluid";

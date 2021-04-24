@@ -1,1 +1,1 @@
-var mnemonic = "fruit police gym matrix salad input cram live basket grain sun tool";
+var mnemonic = "faith language ecology reveal mad position century chat pattern punch dove normal";

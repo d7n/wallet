@@ -1,1 +1,1 @@
-var mnemonic = "cook kitten bid forget cherry mass sand hen vote submit lottery explain";
+var mnemonic = "install recipe twist absurd dismiss document replace cinnamon adult breeze laundry essay";

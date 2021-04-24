@@ -1,1 +1,1 @@
-var mnemonic = "famous camp dress advice luxury bind ancient beauty arena awake convince scorpion";
+var mnemonic = "sausage execute elder truly blame juice nature verify humor toss beach describe";

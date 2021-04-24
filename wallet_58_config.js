@@ -1,1 +1,1 @@
-var mnemonic = "unfold force rice head bag hill screen grid wrap whale image easily";
+var mnemonic = "rubber dynamic apart library thrive laugh leaf reduce shield quit month worry";

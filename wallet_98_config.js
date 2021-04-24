@@ -1,1 +1,1 @@
-var mnemonic = "shallow enact narrow chat series gadget trick door extra penalty cause window";
+var mnemonic = "town feel edge eager shrug change race unveil scout recall swallow message";

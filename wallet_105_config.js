@@ -1,1 +1,1 @@
-var mnemonic = "paddle ice address odor slender choice globe inherit topic harvest model achieve";
+var mnemonic = "mutual cereal scatter blue rocket senior lottery clean edge pipe prosper exchange";

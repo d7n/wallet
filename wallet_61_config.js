@@ -1,1 +1,1 @@
-var mnemonic = "old oxygen security escape clay arm desk wife satisfy sense praise nominee";
+var mnemonic = "theory foam must journey inspire infant twelve ride often thank embody wasp";

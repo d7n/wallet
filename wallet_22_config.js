@@ -1,1 +1,1 @@
-var mnemonic = "hurry conduct analyst pair expire know wrong cheese apart air category rabbit";
+var mnemonic = "urban wash oak kidney canvas circle fantasy autumn stem maid hour orient";

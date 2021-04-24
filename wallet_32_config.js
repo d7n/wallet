@@ -1,1 +1,1 @@
-var mnemonic = "limb echo hobby angle glow helmet advance crystal tourist minor urge neglect";
+var mnemonic = "quiz coral hair unveil idle shell predict desert acoustic enough tilt fever";

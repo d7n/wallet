@@ -1,1 +1,1 @@
-var mnemonic = "design garment cluster disorder unable problem display bus arrest elder egg scorpion";
+var mnemonic = "inch nose transfer shrug jelly uncle rail poem earth joke lucky exit";

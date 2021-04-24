@@ -1,1 +1,1 @@
-var mnemonic = "chair engage ceiling solar brisk license home crop base light certain rabbit";
+var mnemonic = "derive glove enable radio genuine add front belt limit easily lawn boil";

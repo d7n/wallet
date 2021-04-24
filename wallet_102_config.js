@@ -1,1 +1,1 @@
-var mnemonic = "file ice stable leg frozen brush glove hero latin hip immense inhale";
+var mnemonic = "helmet advice until wire limit quarter thumb casino sense indoor clever enough";

@@ -1,1 +1,1 @@
-var mnemonic = "clump puzzle husband stomach equip burger soda siren outdoor price impact cream";
+var mnemonic = "snake laugh enemy memory become cloud fan left beef march mansion illegal";

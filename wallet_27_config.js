@@ -1,1 +1,1 @@
-var mnemonic = "need two calm armed awful betray visual chat shuffle token lake hundred";
+var mnemonic = "edge improve keen oil predict alien giraffe cram situate result notice wasp";

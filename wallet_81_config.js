@@ -1,1 +1,1 @@
-var mnemonic = "crawl record segment subject increase pony world spawn wonder practice between clean";
+var mnemonic = "mean card super tornado giant butter cabbage stage evolve between piano source";

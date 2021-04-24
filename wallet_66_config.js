@@ -1,1 +1,1 @@
-var mnemonic = "actress surprise cherry blossom govern space negative atom spare lesson flash weather";
+var mnemonic = "region oil little verify pear cheese drastic album rail patrol oil square";

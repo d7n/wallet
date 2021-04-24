@@ -1,1 +1,1 @@
-var mnemonic = "universe fetch adult pilot skin apart wash survey alien trouble unknown assume";
+var mnemonic = "obey fiscal home erode clean churn enroll fade any daughter first mouse";

@@ -1,1 +1,1 @@
-var mnemonic = "accuse nerve garlic balcony rate clump dice silk acoustic company coconut rival";
+var mnemonic = "canal inside melt insane jar room wall guard race immune bunker ginger";

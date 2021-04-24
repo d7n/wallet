@@ -1,1 +1,1 @@
-var mnemonic = "whale green crazy kidney draw alpha over zero beef empty brown second";
+var mnemonic = "gauge monster delay desert craft apology near fruit lobster coyote torch goddess";

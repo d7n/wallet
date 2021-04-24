@@ -1,1 +1,1 @@
-var mnemonic = "vacuum expect mad urge same scrub blossom already assume surround flower comic";
+var mnemonic = "detect puppy large advice whale other time wonder remove fit april throw";

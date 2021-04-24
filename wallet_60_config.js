@@ -1,1 +1,1 @@
-var mnemonic = "alley snack maze height fragile rice bulk lens always render float regret";
+var mnemonic = "mad spike penalty fee oven harvest flip power tower awkward deputy ride";

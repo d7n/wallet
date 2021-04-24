@@ -1,1 +1,1 @@
-var mnemonic = "assist gate pole mind margin retreat trim elder open palace junk master";
+var mnemonic = "vendor visit fragile eager raw present rally trigger slice nasty sport chief";

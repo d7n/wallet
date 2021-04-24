@@ -1,1 +1,1 @@
-var mnemonic = "spawn embody join display farm spike rhythm unveil photo zone change crew";
+var mnemonic = "lazy theme imitate length gorilla amused stool exile sight license vacant hammer";

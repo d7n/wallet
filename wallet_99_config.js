@@ -1,1 +1,1 @@
-var mnemonic = "mask era animal sign exclude pipe loyal scrap smoke ahead position media";
+var mnemonic = "opinion film glory tired extra potato desert swamp rude leader tomorrow sense";

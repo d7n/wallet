@@ -1,1 +1,1 @@
-var mnemonic = "suspect fun cabbage coil report prefer yellow oyster poverty project prefer daring";
+var mnemonic = "silver romance trumpet slender city trip aspect barrel coil pupil panther hedgehog";

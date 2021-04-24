@@ -1,1 +1,1 @@
-var mnemonic = "sketch abandon odor picnic venue soft drop lobster unfair inject doctor fire";
+var mnemonic = "trip depart half ginger robust embark drift hair elevator mind lemon extend";

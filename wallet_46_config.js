@@ -1,1 +1,1 @@
-var mnemonic = "genre place cinnamon treat door people old uncover camp law math brief";
+var mnemonic = "drastic excite history erosion original shoulder sheriff vacuum citizen blind seat enter";

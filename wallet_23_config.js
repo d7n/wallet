@@ -1,1 +1,1 @@
-var mnemonic = "gadget debate pumpkin tourist memory lunar guard fluid strike okay time expire";
+var mnemonic = "sheriff forum satoshi oil section claim fog hungry jewel close garment legal";

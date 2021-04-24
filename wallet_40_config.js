@@ -1,1 +1,1 @@
-var mnemonic = "parade liar human arrow sick size behind bitter great school romance video";
+var mnemonic = "sting trophy else exotic curious valid vendor black this agree cake squeeze";

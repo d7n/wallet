@@ -1,1 +1,1 @@
-var mnemonic = "slight sibling hope gown faint deer crucial garlic rifle trick mercy drink";
+var mnemonic = "age dream corn reform disagree pledge scrap flat bus gentle search soon";

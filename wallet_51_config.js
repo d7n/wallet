@@ -1,1 +1,1 @@
-var mnemonic = "ridge husband goose believe woman village primary speak seek silk zero catalog";
+var mnemonic = "monitor name extend plate seminar subject circle cool edge tuna series excite";

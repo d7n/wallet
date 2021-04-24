@@ -1,1 +1,1 @@
-var mnemonic = "write trap whip fit detect total school exclude review amused filter ten";
+var mnemonic = "amount know marriage syrup detect stove enter wolf muscle state country matter";

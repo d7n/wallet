@@ -1,1 +1,1 @@
-var mnemonic = "click find shrimp plunge news income three spatial nasty pulp color weapon";
+var mnemonic = "fun humble neglect cannon breeze fog culture eagle impulse august antique topple";

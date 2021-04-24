@@ -1,1 +1,1 @@
-var mnemonic = "coil tone asthma evolve apple trust citizen forum swallow law zero april";
+var mnemonic = "action suggest tragic wise exhibit above village jacket jealous cable sudden unknown";

@@ -1,1 +1,1 @@
-var mnemonic = "announce cute cat stick shed unable sting main few beach slow quote";
+var mnemonic = "error depth auction eight final adapt mad dentist isolate useless wink bright";

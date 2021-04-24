@@ -1,1 +1,1 @@
-var mnemonic = "anchor detect help spice pudding play oak vehicle boss menu artist vessel";
+var mnemonic = "clarify enrich topic decrease silent heavy alley cost cool rug atom error";

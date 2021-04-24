@@ -1,1 +1,1 @@
-var mnemonic = "inspire inform faint merge dilemma side symptom taste dirt now blast wrap";
+var mnemonic = "ready inhale promote pulse gain tell palace multiply misery tissue round slab";

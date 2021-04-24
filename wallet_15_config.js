@@ -1,1 +1,1 @@
-var mnemonic = "true water session poem faith industry burst protect fiscal foster time push";
+var mnemonic = "visit truly actor summer spirit range kid clump tattoo mule bounce north";

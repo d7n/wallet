@@ -1,1 +1,1 @@
-var mnemonic = "street future junk vicious disagree myself flee obvious february guide behind issue";
+var mnemonic = "often topic have hunt winter sauce power load assist young vocal duty";
