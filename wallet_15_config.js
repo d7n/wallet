@@ -1,1 +1,1 @@
-var mnemonic = "bronze joy board lion sell second match glide sniff second shaft exotic";
+var mnemonic = "enrich wait witness aspect poem rough rent elegant upper decade zebra swarm";

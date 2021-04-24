@@ -1,1 +1,1 @@
-var mnemonic = "fiction sheriff such spike connect minor fun during seat deny marine love";
+var mnemonic = "apology swing letter bacon popular torch harbor tragic elbow flavor ship now";

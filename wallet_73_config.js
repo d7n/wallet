@@ -1,1 +1,1 @@
-var mnemonic = "easy museum copper gun dice focus cute music obtain knife civil guide";
+var mnemonic = "float twenty tuna sword notice punch ceiling change exotic gravity allow disagree";

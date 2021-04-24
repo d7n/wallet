@@ -1,1 +1,1 @@
-var mnemonic = "alcohol enhance jazz bean power wrist angry lawsuit include mammal minor squeeze";
+var mnemonic = "night answer wish patrol fantasy demise cruel ankle similar chaos lazy border";

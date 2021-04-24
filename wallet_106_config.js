@@ -1,1 +1,1 @@
-var mnemonic = "sketch upper reunion secret swallow skin cheese few trouble wagon sauce calm";
+var mnemonic = "kind zone obscure awful laugh culture divert museum scrub crumble scale question";

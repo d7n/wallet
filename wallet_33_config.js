@@ -1,1 +1,1 @@
-var mnemonic = "narrow suit dinosaur oblige sure keen prefer inch erupt anchor limb hood";
+var mnemonic = "gym private sort coach affair select royal valley roast coyote consider ankle";

@@ -1,1 +1,1 @@
-var mnemonic = "kitchen fancy warfare news pen outdoor erosion drink walk begin wash state";
+var mnemonic = "monster glove limb price life safe jazz insane rigid settle story alone";

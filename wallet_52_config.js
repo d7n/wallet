@@ -1,1 +1,1 @@
-var mnemonic = "shock pilot member clump hat rabbit suspect grid buzz truth equip blur";
+var mnemonic = "steel echo nut stamp adjust among dial derive agree cattle obey grace";

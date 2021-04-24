@@ -1,1 +1,1 @@
-var mnemonic = "heart order vintage diagram album absent flag jazz initial draft pluck pudding";
+var mnemonic = "item raccoon cloth vote urban vehicle resource obvious demand north border finish";

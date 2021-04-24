@@ -1,1 +1,1 @@
-var mnemonic = "cabin garlic jump food attack exchange cereal pilot apple fury myself bird";
+var mnemonic = "tone crash sorry virus fee parent idle cement void boost great inhale";

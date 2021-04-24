@@ -1,1 +1,1 @@
-var mnemonic = "planet nose gift vast gesture scatter genius dose cry venue maple excess";
+var mnemonic = "art lucky thank brave lawn slam tennis sausage spin cousin fix disagree";

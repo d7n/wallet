@@ -1,1 +1,1 @@
-var mnemonic = "try nephew carpet kidney narrow female mule nest orchard emerge soldier tail";
+var mnemonic = "tiger solution agree next expect suffer skill walk quantum flee harsh army";

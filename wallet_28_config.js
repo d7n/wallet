@@ -1,1 +1,1 @@
-var mnemonic = "fix kite code nuclear address river task toe marriage tide enrich walnut";
+var mnemonic = "special consider tomorrow hamster smile demand plastic theme motion divide fabric stage";

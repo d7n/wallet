@@ -1,1 +1,1 @@
-var mnemonic = "punch network blue unlock awkward wing bind beef book arrive shine outer";
+var mnemonic = "brass glance loop general chuckle version kite sun february ginger media supreme";

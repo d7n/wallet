@@ -1,1 +1,1 @@
-var mnemonic = "chuckle swap gown elephant distance industry burger you ride zero crew struggle";
+var mnemonic = "divide school brain work gloom chief buzz economy vault december demise way";

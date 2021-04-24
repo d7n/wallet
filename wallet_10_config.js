@@ -1,1 +1,1 @@
-var mnemonic = "throw mistake you innocent paddle crop mercy sick brand equal duty grief";
+var mnemonic = "head race excuse submit slot purse improve region unique trap action rapid";

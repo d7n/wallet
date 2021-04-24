@@ -1,1 +1,1 @@
-var mnemonic = "pair setup armed faith nature modify analyst silent ozone rack undo brief";
+var mnemonic = "reason glove cattle spray deputy noble portion image brown fault list hawk";

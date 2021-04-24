@@ -1,1 +1,1 @@
-var mnemonic = "close soccer card select borrow hire shield sell proud salmon raise gun";
+var mnemonic = "cook unhappy gloom nominee unhappy sea drive tiny tent sustain dial oil";

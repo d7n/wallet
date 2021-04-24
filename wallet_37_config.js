@@ -1,1 +1,1 @@
-var mnemonic = "hurt flower smoke false chef match force flame stairs twice lock ability";
+var mnemonic = "suffer shoe acid reject snake cliff surprise slight behave diary sudden lunch";

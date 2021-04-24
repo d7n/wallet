@@ -1,1 +1,1 @@
-var mnemonic = "coil artwork ostrich globe pond strategy push clean any clarify potato library";
+var mnemonic = "ahead advice month skirt play stomach knife gasp list dust balance attend";

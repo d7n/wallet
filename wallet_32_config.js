@@ -1,1 +1,1 @@
-var mnemonic = "police ancient observe warfare about daring meadow update describe december dog dance";
+var mnemonic = "bonus execute plate feel absent silver wrap tent entry wrist wrap hair";

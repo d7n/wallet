@@ -1,1 +1,1 @@
-var mnemonic = "high farm step emerge sword crush exclude frown shove shield assume bounce";
+var mnemonic = "inhale news useful code apple wine between faculty quiz spread kiss demand";

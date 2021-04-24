@@ -1,1 +1,1 @@
-var mnemonic = "switch display hurry hover abandon tower puppy mass arrive elder city drift";
+var mnemonic = "shoe check ahead cargo crane leg impulse hockey long flag fury develop";

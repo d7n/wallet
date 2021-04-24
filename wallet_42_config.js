@@ -1,1 +1,1 @@
-var mnemonic = "indicate physical invite vendor draft lake stumble thunder ginger margin bleak narrow";
+var mnemonic = "lesson luggage frozen sausage initial fly enemy mouse auction hover miss harbor";

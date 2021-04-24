@@ -1,1 +1,1 @@
-var mnemonic = "little empower mean use film sniff man need tool uncle capital casual";
+var mnemonic = "acid motion enhance gallery meadow cousin inmate tape rain casual screen digital";

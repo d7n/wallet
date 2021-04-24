@@ -1,1 +1,1 @@
-var mnemonic = "way auction monster another model recipe aisle harvest current vacuum fat rhythm";
+var mnemonic = "garment final tourist hub situate patient aunt husband axis seminar festival alone";

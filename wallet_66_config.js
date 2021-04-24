@@ -1,1 +1,1 @@
-var mnemonic = "sustain wing silver seat snow laugh exile minor replace huge attend wire";
+var mnemonic = "fox desk upon cave arena super burst inject false moral cabin smoke";

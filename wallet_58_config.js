@@ -1,1 +1,1 @@
-var mnemonic = "zoo puzzle pizza about motion crater amateur lunch roast around stairs chicken";
+var mnemonic = "town nephew render cable inside blush toss lock strong toddler awkward thunder";

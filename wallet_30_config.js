@@ -1,1 +1,1 @@
-var mnemonic = "wrestle inch slow enough program wonder wolf dragon crystal chuckle piano north";
+var mnemonic = "return ripple pause gym click focus exhibit common stove kingdom prize sister";

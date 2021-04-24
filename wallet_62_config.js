@@ -1,1 +1,1 @@
-var mnemonic = "pause sport charge empower pupil apple photo come chase speak digital tape";
+var mnemonic = "fury magnet summer prosper sea sorry witness strong ready essay walk cake";

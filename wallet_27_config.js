@@ -1,1 +1,1 @@
-var mnemonic = "vast pitch loop eyebrow often century fatal welcome bachelor duty exact myself";
+var mnemonic = "march agree build reduce glow anchor banner myself mom puppy south venture";

@@ -1,1 +1,1 @@
-var mnemonic = "peace tennis winter margin tumble same lab time average very smile frozen";
+var mnemonic = "core hole quiz glory judge assault admit hard gospel tumble hotel gate";

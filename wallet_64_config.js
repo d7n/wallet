@@ -1,1 +1,1 @@
-var mnemonic = "hammer leisure action cry know real salad kitchen swarm noodle tornado sadness";
+var mnemonic = "ahead erosion grab one warm brown treat same tool wool inhale success";

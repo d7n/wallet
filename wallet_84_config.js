@@ -1,1 +1,1 @@
-var mnemonic = "twin cannon always vessel inject powder matrix shaft target school magnet reflect";
+var mnemonic = "assist enforce weekend trust high goat bread trouble anger much potato joy";

@@ -1,1 +1,1 @@
-var mnemonic = "voyage art spirit summer pact belt nothing upon nut advice sugar behind";
+var mnemonic = "candy dilemma asset segment visit rely crunch cinnamon document dumb pilot choice";

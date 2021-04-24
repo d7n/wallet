@@ -1,1 +1,1 @@
-var mnemonic = "gaze bench slab stick paper music merit trap solar insane vital shadow";
+var mnemonic = "split deny enough immense curve venture mixture any talent say police program";

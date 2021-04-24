@@ -1,1 +1,1 @@
-var mnemonic = "bar pelican annual useless polar main pride blue discover rude power adult";
+var mnemonic = "three wedding rally damp game permit despair before october champion bleak riot";

@@ -1,1 +1,1 @@
-var mnemonic = "agree net lake heavy hour suit upper anger this renew dog cause";
+var mnemonic = "abandon deny crazy donate pigeon current mutual evidence robot turn tank output";

@@ -1,1 +1,1 @@
-var mnemonic = "laundry siege useful carbon album rude tragic cram cat artwork ladder laugh";
+var mnemonic = "salad gather fortune harvest pretty shield device bright pilot damp undo science";

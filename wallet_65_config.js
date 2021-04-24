@@ -1,1 +1,1 @@
-var mnemonic = "gown lamp divide shiver spy during host olympic produce muffin empower beef";
+var mnemonic = "path purchase share stadium visa fine dismiss protect cattle people cause crew";

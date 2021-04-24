@@ -1,1 +1,1 @@
-var mnemonic = "buddy toddler pluck tobacco adult gift fancy differ discover senior basic member";
+var mnemonic = "jacket auto flock fossil submit medal spawn fabric extend bean six stadium";

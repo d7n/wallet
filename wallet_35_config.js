@@ -1,1 +1,1 @@
-var mnemonic = "wait amazing smooth renew crop foster vacuum sport donor tornado cabin merge";
+var mnemonic = "mother kitchen penalty turkey pretty nature water forum aware balcony lazy heart";

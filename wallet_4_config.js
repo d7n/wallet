@@ -1,1 +1,1 @@
-var mnemonic = "mammal click friend trust group item wash mobile march boring whisper inform";
+var mnemonic = "amazing lemon august inherit slow simple invest laundry outdoor alpha paddle tattoo";

@@ -1,1 +1,1 @@
-var mnemonic = "zone exist direct goat sudden drive purpose bring enter tent cactus address";
+var mnemonic = "shed drink space vacant adjust supply loud panel coast debate wise runway";

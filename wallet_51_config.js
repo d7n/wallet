@@ -1,1 +1,1 @@
-var mnemonic = "insect cloth equip category silly hood gaze wire run submit must carbon";
+var mnemonic = "convince avoid mushroom hundred salmon humble clog sniff dish clap person win";

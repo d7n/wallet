@@ -1,1 +1,1 @@
-var mnemonic = "route blanket doctor canyon history rule horror drastic skin taste mom blind";
+var mnemonic = "foot creek truth fantasy visual morning floor key arena mushroom exist wine";

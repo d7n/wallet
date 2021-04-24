@@ -1,1 +1,1 @@
-var mnemonic = "swift double race describe news use nest inform annual iron dove dirt";
+var mnemonic = "jar smooth smile science battle magnet nothing six tenant arena tornado route";

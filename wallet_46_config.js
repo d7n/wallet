@@ -1,1 +1,1 @@
-var mnemonic = "orphan labor outdoor attract chimney tooth glue acquire cloud scale build melody";
+var mnemonic = "melody slide measure borrow point welcome another action radio bulk horse drill";

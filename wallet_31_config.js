@@ -1,1 +1,1 @@
-var mnemonic = "brother repair lobster sad buffalo sick celery auction loan theme muscle anchor";
+var mnemonic = "equip host pottery sand spider park spike raise lawsuit rescue puzzle fire";

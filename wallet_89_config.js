@@ -1,1 +1,1 @@
-var mnemonic = "habit urban decide panel wreck prosper spawn mule art settle system slam";
+var mnemonic = "horn memory whisper spike cabin gasp topple trash ceiling vessel category exit";

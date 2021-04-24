@@ -1,1 +1,1 @@
-var mnemonic = "empower gold million marriage fiscal top rare solution level excess decrease paddle";
+var mnemonic = "pool doll demise annual brick inch luxury region author fat hurdle method";

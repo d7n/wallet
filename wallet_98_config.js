@@ -1,1 +1,1 @@
-var mnemonic = "party hedgehog cliff buddy measure beauty silly gloom host hard appear purity";
+var mnemonic = "holiday power burst foil slide lucky curious side loud coil cinnamon system";

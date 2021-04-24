@@ -1,1 +1,1 @@
-var mnemonic = "duck that autumn rebuild order camera poverty hand know ring chimney sure";
+var mnemonic = "deny face punch fluid arrest hover squeeze cricket speed quit armor solve";

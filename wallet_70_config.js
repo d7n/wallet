@@ -1,1 +1,1 @@
-var mnemonic = "online inflict three sibling soul message jungle another shine bunker vote soccer";
+var mnemonic = "poet uphold drink mansion poverty distance stomach spot boy swift verb mad";

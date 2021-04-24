@@ -1,1 +1,1 @@
-var mnemonic = "conduct absurd calm menu render degree search announce smoke absent return sleep";
+var mnemonic = "vacuum flush spend hint manual wagon tube blouse rhythm voice absurd shop";

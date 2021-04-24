@@ -1,1 +1,1 @@
-var mnemonic = "alert final sport reopen census kitten august anger surge couple abstract hazard";
+var mnemonic = "damage swap blush emotion portion choose piano stairs exhibit hero empower earth";

@@ -1,1 +1,1 @@
-var mnemonic = "swing page awkward increase gauge spot believe can defy century ridge beef";
+var mnemonic = "visual logic broccoli rural adjust popular depth palace suffer resemble cotton brand";

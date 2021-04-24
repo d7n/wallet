@@ -1,1 +1,1 @@
-var mnemonic = "shop supply faith polar envelope ankle broccoli foil reflect diesel enact saddle";
+var mnemonic = "curtain injury talk clean meat very festival jelly asthma program belt own";

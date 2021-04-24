@@ -1,1 +1,1 @@
-var mnemonic = "visual hover okay legend eagle pull grow hill vehicle regret rural donate";
+var mnemonic = "zero eternal actor street since faith empty snake tail scout head music";

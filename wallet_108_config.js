@@ -1,1 +1,1 @@
-var mnemonic = "focus amazing supreme error remove vendor about across unable unfold distance expand";
+var mnemonic = "load slice two find season scale prize myth fine envelope opinion screen";

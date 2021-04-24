@@ -1,1 +1,1 @@
-var mnemonic = "please salmon system inspire must actor poem approve butter hard letter argue";
+var mnemonic = "swing blush effort ski setup host door bind gun modify inside suspect";

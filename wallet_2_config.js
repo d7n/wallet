@@ -1,1 +1,1 @@
-var mnemonic = "galaxy initial maple hill royal find library during hundred horn defy donor";
+var mnemonic = "baby load resemble school teach wine oven prize grocery tube push dutch";

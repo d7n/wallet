@@ -1,1 +1,1 @@
-var mnemonic = "furnace gloom universe silly auto museum asthma hip boost mandate symbol suffer";
+var mnemonic = "copper citizen decide imitate arctic guilt soul public glare abuse legend since";

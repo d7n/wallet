@@ -1,1 +1,1 @@
-var mnemonic = "armor palm planet chief road urban involve crawl powder trend friend neglect";
+var mnemonic = "pond shine joke have wage verify nose salute answer squirrel spot electric";

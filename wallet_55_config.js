@@ -1,1 +1,1 @@
-var mnemonic = "behave creek unusual crack wise agent idle hurt poverty device violin draft";
+var mnemonic = "napkin loop alcohol device chicken real engage insect parade pistol rotate pair";

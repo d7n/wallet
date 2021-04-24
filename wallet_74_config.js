@@ -1,1 +1,1 @@
-var mnemonic = "original pluck debate ecology interest artist oblige inner guitar fish win senior";
+var mnemonic = "around junior cargo width door code leisure harsh wreck fan arena client";

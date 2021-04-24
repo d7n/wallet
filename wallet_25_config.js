@@ -1,1 +1,1 @@
-var mnemonic = "move enhance car silver off crew spoil oyster silk notable potato solve";
+var mnemonic = "element kiss question shine wisdom praise snap reunion pioneer magnet base disagree";

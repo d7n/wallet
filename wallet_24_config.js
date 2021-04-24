@@ -1,1 +1,1 @@
-var mnemonic = "atom audit wet siege fence link loud ten pause birth awake stable";
+var mnemonic = "smoke giggle prosper subway stand clinic odor unable neutral hammer beach rotate";

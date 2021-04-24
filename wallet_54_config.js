@@ -1,1 +1,1 @@
-var mnemonic = "organ dance maid rocket history head rather crash ready match pioneer phrase";
+var mnemonic = "shoe able kitchen marine phone scrap asthma bless lyrics pen milk price";

@@ -1,1 +1,1 @@
-var mnemonic = "feel fancy cream butter announce dish club bike gun air wolf large";
+var mnemonic = "label wasp hand dignity biology clay evoke olive buffalo flight side symbol";

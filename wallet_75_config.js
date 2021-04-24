@@ -1,1 +1,1 @@
-var mnemonic = "useless shoulder decide process wet era common eternal dinner biology cement renew";
+var mnemonic = "recycle tumble tail cable grape aim feed inner trial aim gym drink";

@@ -1,1 +1,1 @@
-var mnemonic = "voice slush forum bulk like explain pigeon grape pride boost strong slight";
+var mnemonic = "great parrot always gospel usual assault candy fun staff region urban guess";

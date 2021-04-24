@@ -1,1 +1,1 @@
-var mnemonic = "float caution network hunt hood pony arch term vibrant ketchup lake vintage";
+var mnemonic = "river disorder inquiry beach clutch blush onion number obtain confirm mansion betray";

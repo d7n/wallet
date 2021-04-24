@@ -1,1 +1,1 @@
-var mnemonic = "similar disease farm trophy carry mercy patch olympic chimney solar evidence floor";
+var mnemonic = "version puzzle charge earn paper age liar chuckle woman glue satisfy impulse";

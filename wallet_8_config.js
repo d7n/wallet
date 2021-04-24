@@ -1,1 +1,1 @@
-var mnemonic = "lounge actor question resource situate polar inspire equal essay cactus risk away";
+var mnemonic = "grief bundle night sail lottery horse shrug dinosaur mother rebuild reveal dilemma";

@@ -1,1 +1,1 @@
-var mnemonic = "direct wolf jazz cost patch hope inside multiply cradle early repeat fire";
+var mnemonic = "lyrics kidney gym over option bid injury endorse estate fine guitar hello";

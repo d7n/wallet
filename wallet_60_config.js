@@ -1,1 +1,1 @@
-var mnemonic = "usual enrich pelican people coffee depart screen bus actor share crime pull";
+var mnemonic = "oblige wet fault witness lend source fog banana visual human fragile snow";

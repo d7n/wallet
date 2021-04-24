@@ -1,1 +1,1 @@
-var mnemonic = "draft calm laundry repair sort drastic camp remain worth hurry spice movie";
+var mnemonic = "blind huge hour asset idle dutch planet property tool trophy wheat country";

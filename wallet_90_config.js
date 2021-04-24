@@ -1,1 +1,1 @@
-var mnemonic = "inform silly arrest clog plug steel discover enable border answer among coffee";
+var mnemonic = "high magnet silver ski moon crater palace ramp use explain body initial";

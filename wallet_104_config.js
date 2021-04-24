@@ -1,1 +1,1 @@
-var mnemonic = "bid scare invest hard life mean cable evil vibrant room weasel dish";
+var mnemonic = "mystery gas happy flag vehicle person baby crazy finish attend length reward";

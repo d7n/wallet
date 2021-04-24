@@ -1,1 +1,1 @@
-var mnemonic = "wolf steel version doll ankle fossil execute day account test tiger concert";
+var mnemonic = "civil want together use dizzy gold garment picnic gentle turkey stadium sudden";

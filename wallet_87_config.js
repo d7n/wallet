@@ -1,1 +1,1 @@
-var mnemonic = "nurse capable unable assume brick earth glare shell shoulder yellow vintage turn";
+var mnemonic = "master power hard special juice brave obtain crunch girl what alone oppose";

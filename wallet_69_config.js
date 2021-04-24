@@ -1,1 +1,1 @@
-var mnemonic = "jump toe wreck visa nation rival wood patient negative tragic nuclear minimum";
+var mnemonic = "water can agent check duty razor estate dad reunion month monster base";

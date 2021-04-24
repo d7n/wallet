@@ -1,1 +1,1 @@
-var mnemonic = "wool pledge hammer tag educate volume odor bicycle movie menu squirrel inspire";
+var mnemonic = "brief remove merit unfair mirror pull lonely nest comic topple spider arrange";

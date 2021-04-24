@@ -1,1 +1,1 @@
-var mnemonic = "faculty trim march chronic injury stay address business liberty glow rigid water";
+var mnemonic = "rail two lens theme parade lift multiply enemy vanish food hospital victory";

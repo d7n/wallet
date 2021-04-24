@@ -1,1 +1,1 @@
-var mnemonic = "noise brand bless immense lava tuition like raccoon drive renew ginger immune";
+var mnemonic = "vessel slush feel usage slogan admit runway dentist east all quote village";

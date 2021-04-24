@@ -1,1 +1,1 @@
-var mnemonic = "satisfy demise easy toy glance flock inspire buddy title tortoise trip glad";
+var mnemonic = "garbage behind empower cart chronic garbage sketch swim expect true rather stool";

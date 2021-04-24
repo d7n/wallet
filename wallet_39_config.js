@@ -1,1 +1,1 @@
-var mnemonic = "stay claim hope control heart great trophy unknown guilt horn practice close";
+var mnemonic = "surprise alcohol bacon idle fatal tank enforce rare project couch slice manual";

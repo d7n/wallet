@@ -1,1 +1,1 @@
-var mnemonic = "chest arrow they sport thought want pill inherit rally need gift advice";
+var mnemonic = "parent guard crowd tent suffer forest work mother equip cart october coconut";

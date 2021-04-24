@@ -1,1 +1,1 @@
-var mnemonic = "rebel surge mercy year indoor letter sense wood better arena gloom curve";
+var mnemonic = "letter ride midnight glance vital attract blue target play search lady abuse";

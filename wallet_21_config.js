@@ -1,1 +1,1 @@
-var mnemonic = "snap mistake holiday bridge pool fortune gentle giggle tackle scare rude language";
+var mnemonic = "foot grid cost vacant gun file earth elite travel journey rigid parrot";

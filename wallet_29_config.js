@@ -1,1 +1,1 @@
-var mnemonic = "ski click forest must biology ensure fame wrist cloud sight student universe";
+var mnemonic = "transfer flower cry unaware ankle entry three clean science tent benefit thunder";

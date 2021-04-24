@@ -1,1 +1,1 @@
-var mnemonic = "scrub gospel vocal clinic sustain boring maid adapt surprise protect business edit";
+var mnemonic = "scene earth debris dilemma tourist tackle drama denial gather print express taxi";

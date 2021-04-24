@@ -1,1 +1,1 @@
-var mnemonic = "tool morning roast subway filter lava idle merit giant guilt drift little";
+var mnemonic = "broom soldier art conduct ring dove learn enrich cable april three amazing";

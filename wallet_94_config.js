@@ -1,1 +1,1 @@
-var mnemonic = "food brisk turtle situate ritual quantum reject resemble wash bag addict impact";
+var mnemonic = "hole retire wrong spice merry forest maid lava morning answer vibrant please";

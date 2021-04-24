@@ -1,1 +1,1 @@
-var mnemonic = "south february sponsor stamp giraffe conduct sphere chair hidden plastic violin best";
+var mnemonic = "team liar surface term cart uncover roast pencil summer candy cover drill";

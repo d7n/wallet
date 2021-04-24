@@ -1,1 +1,1 @@
-var mnemonic = "end link someone gown current shop fox arena east alarm congress hair";
+var mnemonic = "physical obtain spend twin negative beyond refuse review chaos dune rotate slush";
