@@ -1,1 +1,1 @@
-var mnemonic = "disorder december magnet tackle field remind shed toddler bone parrot decrease regular";
+var mnemonic = "bulb volume problem lend defy tray until embark never artist soul lecture";

@@ -1,1 +1,1 @@
-var mnemonic = "fiction clean economy debris false post swear talent floor album gadget increase";
+var mnemonic = "decline observe wealth crater zone violin parrot announce movie canoe smart twin";

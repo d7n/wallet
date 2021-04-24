@@ -1,1 +1,1 @@
-var mnemonic = "museum sea melody repair floor chunk thought album unique vague bottom around";
+var mnemonic = "clog enroll waste number feed shift advance inch female visit demise same";

@@ -1,1 +1,1 @@
-var mnemonic = "possible pitch announce salute element menu quality stuff sheriff accuse police normal";
+var mnemonic = "paddle clean flock predict carbon gate salmon warm believe arctic winner emerge";

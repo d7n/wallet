@@ -1,1 +1,1 @@
-var mnemonic = "ensure stage gold forward sport clean stem column dash shop loan nest";
+var mnemonic = "rubber cruise adjust device ancient control illness salmon friend mimic boil amused";

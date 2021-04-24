@@ -1,1 +1,1 @@
-var mnemonic = "stay print you victory rare busy slide mother decorate afford utility clever";
+var mnemonic = "build craft tide choose repeat since crush essay kidney pyramid actress garbage";

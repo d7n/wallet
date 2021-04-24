@@ -1,1 +1,1 @@
-var mnemonic = "modify twin hybrid cook hat donkey eternal estate flat congress weekend annual";
+var mnemonic = "vault art erase hill zebra equip bubble daring middle prize base crystal";

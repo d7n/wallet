@@ -1,1 +1,1 @@
-var mnemonic = "swim airport immune federal tell light humor myth isolate stem cushion series";
+var mnemonic = "crunch visit fork humor million when heart answer project jelly base cheap";

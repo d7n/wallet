@@ -1,1 +1,1 @@
-var mnemonic = "radar hero bonus choice stable avoid gasp weasel find host issue much";
+var mnemonic = "gasp wife typical album trigger climb tomato tuna sniff badge athlete vehicle";

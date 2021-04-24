@@ -1,1 +1,1 @@
-var mnemonic = "tackle proof gauge among motor food plug type street man start hedgehog";
+var mnemonic = "cat test buddy put pioneer drill nephew random choice mail season alert";

@@ -1,1 +1,1 @@
-var mnemonic = "blind garden buddy genuine rural miss parade song fitness become coin thing";
+var mnemonic = "trigger subject praise decide bid open ignore rubber patch athlete lounge enable";

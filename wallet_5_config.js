@@ -1,1 +1,1 @@
-var mnemonic = "common yellow awesome donkey shop hawk select mail together grief pony select";
+var mnemonic = "mechanic fish history south fan moon just sense device riot now orbit";

@@ -1,1 +1,1 @@
-var mnemonic = "private jazz attract destroy cart shadow verb kid olympic apple fault jazz";
+var mnemonic = "trigger theme seek hurt surface wealth fluid start kite number merry equip";

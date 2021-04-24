@@ -1,1 +1,1 @@
-var mnemonic = "oblige pizza sugar kidney loyal shaft clay relax boat gain fish pill";
+var mnemonic = "kitchen unknown comic expect bamboo desert then uncover hamster jealous hockey upgrade";

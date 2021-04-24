@@ -1,1 +1,1 @@
-var mnemonic = "rapid can crane range advance panther pilot suit one lend still daughter";
+var mnemonic = "machine cactus tank anchor sport hedgehog twist dice square injury rude stick";

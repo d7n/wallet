@@ -1,1 +1,1 @@
-var mnemonic = "element alley cable whisper impose idle mention iron craft tragic then eager";
+var mnemonic = "engine admit faith true orient release gaze mobile improve syrup globe credit";

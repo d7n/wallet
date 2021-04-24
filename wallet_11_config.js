@@ -1,1 +1,1 @@
-var mnemonic = "alien filter coffee live wife inspire magnet mention ceiling bike drip divert";
+var mnemonic = "common luggage staff horror street theme tilt drill bounce install left height";

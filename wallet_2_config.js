@@ -1,1 +1,1 @@
-var mnemonic = "team forward rain engine script return rude fix retire autumn coffee clay";
+var mnemonic = "enough leopard scare wild garment crystal inherit tube know shop boss thrive";

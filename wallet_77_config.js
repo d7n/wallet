@@ -1,1 +1,1 @@
-var mnemonic = "dirt panda marble tennis detail cross neutral path gorilla hour shoulder blue";
+var mnemonic = "flower half ghost curious oxygen salute iron victory three battle patch focus";

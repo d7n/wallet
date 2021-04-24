@@ -1,1 +1,1 @@
-var mnemonic = "early maid cube material toilet spoil huge inhale practice flag yellow creek";
+var mnemonic = "amazing still rescue topple doll draft color sunset defense whisper say hold";

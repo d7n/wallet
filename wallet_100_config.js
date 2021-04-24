@@ -1,1 +1,1 @@
-var mnemonic = "only dream rose song mad lake frost sketch extend walk dirt alone";
+var mnemonic = "load bus prepare service trash imitate tray isolate fuel mother must fade";

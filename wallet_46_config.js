@@ -1,1 +1,1 @@
-var mnemonic = "about educate demand balance elephant level wave danger pull fee convince gold";
+var mnemonic = "gorilla garlic link giant garage ostrich wedding limit senior service envelope click";

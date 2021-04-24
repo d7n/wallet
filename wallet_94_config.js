@@ -1,1 +1,1 @@
-var mnemonic = "stone cheese lumber once best naive engage disorder toss impose maze birth";
+var mnemonic = "address mansion comic evolve answer sheriff hole betray cement trophy middle picnic";

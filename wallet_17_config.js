@@ -1,1 +1,1 @@
-var mnemonic = "solve crack property round kingdom marine glimpse audit obscure truly agent degree";
+var mnemonic = "divorce primary warm tunnel they coin travel range interest satoshi ancient lens";

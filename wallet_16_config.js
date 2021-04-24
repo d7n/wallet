@@ -1,1 +1,1 @@
-var mnemonic = "good lottery again thrive lizard life divorce device aisle scrub neutral asthma";
+var mnemonic = "corn smart diagram season access run denial alpha private tornado margin river";

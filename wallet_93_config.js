@@ -1,1 +1,1 @@
-var mnemonic = "town toast uncle half edit blanket able pumpkin book swap grocery intact";
+var mnemonic = "harvest avoid put kiss desk galaxy ribbon chief eagle mushroom speed first";

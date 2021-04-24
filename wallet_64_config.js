@@ -1,1 +1,1 @@
-var mnemonic = "soon forum save turtle cry hazard speak shock park unveil system maple";
+var mnemonic = "speed harbor very violin label antique ignore black enhance beyond theme below";

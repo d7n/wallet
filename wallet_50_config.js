@@ -1,1 +1,1 @@
-var mnemonic = "code unable hammer battle helmet drum fence fit chapter flash west tissue";
+var mnemonic = "jelly tiny south resemble pulse swallow favorite chaos edge collect juice vacuum";

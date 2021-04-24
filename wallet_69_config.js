@@ -1,1 +1,1 @@
-var mnemonic = "dice rookie try laundry citizen squeeze stamp gift bind knock dignity lesson";
+var mnemonic = "click mansion act era benefit inject knee faint story city mind ranch";

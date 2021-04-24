@@ -1,1 +1,1 @@
-var mnemonic = "april atom casual acquire rose foil mobile try ceiling unfair menu penalty";
+var mnemonic = "pool material barely remain direct rookie attend state blouse resist mixture side";

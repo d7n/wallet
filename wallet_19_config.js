@@ -1,1 +1,1 @@
-var mnemonic = "sister popular fade busy neck total obscure worth juice unveil measure power";
+var mnemonic = "sausage obey lady warfare round rate diesel average canoe leave suggest bonus";

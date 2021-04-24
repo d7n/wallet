@@ -1,1 +1,1 @@
-var mnemonic = "dentist rookie exclude debate skill shallow mammal husband ship birth play pyramid";
+var mnemonic = "life vendor before weapon right simple tornado pave fog curve entry body";

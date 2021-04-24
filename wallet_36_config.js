@@ -1,1 +1,1 @@
-var mnemonic = "balance clarify jar bird supply mother rude fun surge shop strong mimic";
+var mnemonic = "ivory sweet all dawn position stadium daughter base neck resource lunar leopard";

@@ -1,1 +1,1 @@
-var mnemonic = "wet attitude pioneer robust ship prevent sick coconut wire maid turtle warfare";
+var mnemonic = "fix volume pair loop property music carry update margin canyon solar style";

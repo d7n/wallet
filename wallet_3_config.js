@@ -1,1 +1,1 @@
-var mnemonic = "chaos essence excite amateur six iron picnic corn case say grant scare";
+var mnemonic = "blue judge smile sphere visit interest flower urge dwarf box hope secret";

@@ -1,1 +1,1 @@
-var mnemonic = "reason shallow mechanic resist certain never exist hazard supply inquiry science laptop";
+var mnemonic = "around vanish holiday attitude basket mixed myth later lumber fat rose mail";

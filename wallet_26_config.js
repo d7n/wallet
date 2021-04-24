@@ -1,1 +1,1 @@
-var mnemonic = "tackle churn blouse isolate spend quit slide agent allow program net mosquito";
+var mnemonic = "advance honey exercise female strike fit crew shift pulp phrase shrimp toward";

@@ -1,1 +1,1 @@
-var mnemonic = "adult problem shell husband grab bench lizard piano enact cupboard toe angry";
+var mnemonic = "shrimp dress cook curve error anxiety monitor unique cat clock broken juice";

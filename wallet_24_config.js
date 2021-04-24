@@ -1,1 +1,1 @@
-var mnemonic = "party cost apart bicycle person kid angle wash episode flat joke order";
+var mnemonic = "dumb memory risk scissors window country stereo jump elder tenant cruel nasty";

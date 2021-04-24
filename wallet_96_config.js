@@ -1,1 +1,1 @@
-var mnemonic = "reason build guide welcome alter lunar able major praise together frame giant";
+var mnemonic = "enforce armed ecology category divorce kite night deny business slight casual endless";

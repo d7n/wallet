@@ -1,1 +1,1 @@
-var mnemonic = "film dress about once arctic impact shoot hub ability phone emotion nerve";
+var mnemonic = "program peasant tank reveal card equal case badge inside curious chicken sunset";

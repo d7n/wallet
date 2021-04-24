@@ -1,1 +1,1 @@
-var mnemonic = "increase obvious major verify gas midnight recipe audit easily march retreat roast";
+var mnemonic = "safe pet bronze whisper buyer else tail patient cabbage canal potato predict";

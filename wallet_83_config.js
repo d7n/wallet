@@ -1,1 +1,1 @@
-var mnemonic = "hollow jelly talk race three twice unlock laundry expect state talent tool";
+var mnemonic = "book claim shoot whip grape sudden diet firm tag fossil cake will";

@@ -1,1 +1,1 @@
-var mnemonic = "expose advance typical lock educate purchase catch access gaze soup purpose enjoy";
+var mnemonic = "pool kitten magnet fade fun air position shaft saddle bone axis wish";

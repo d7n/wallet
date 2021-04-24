@@ -1,1 +1,1 @@
-var mnemonic = "hero gorilla key distance number lottery virtual theory tennis leopard awkward wide";
+var mnemonic = "brown rally involve once season match poem real unable endless great road";

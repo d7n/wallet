@@ -1,1 +1,1 @@
-var mnemonic = "belt odor magic icon gloom expand thrive apple thing project number know";
+var mnemonic = "shield strong liberty cradle employ gesture favorite diet ensure win athlete window";

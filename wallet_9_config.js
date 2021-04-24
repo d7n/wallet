@@ -1,1 +1,1 @@
-var mnemonic = "raven poverty slam anchor indoor super common renew thunder program normal saddle";
+var mnemonic = "practice rug boat burger once meat poem first total witness budget buyer";

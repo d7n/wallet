@@ -1,1 +1,1 @@
-var mnemonic = "mobile echo board best obey attract either shrimp club mail become able";
+var mnemonic = "ask guilt goose thumb math lamp detail among slogan cigar blossom lawn";

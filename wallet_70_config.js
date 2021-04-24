@@ -1,1 +1,1 @@
-var mnemonic = "viable patrol sad fashion glimpse page regular table year nut wine label";
+var mnemonic = "gap dog visa guard stay reduce blossom artwork flag rabbit elite ability";

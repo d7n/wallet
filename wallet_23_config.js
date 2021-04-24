@@ -1,1 +1,1 @@
-var mnemonic = "such eager release mixed until attack disagree edge lunch recall verb citizen";
+var mnemonic = "adjust fame crime cage base doctor orient omit august prize cup shiver";

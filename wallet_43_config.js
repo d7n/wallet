@@ -1,1 +1,1 @@
-var mnemonic = "scorpion seminar female double wheel hurt rib similar wagon guide addict delay";
+var mnemonic = "absurd kick sing naive century minor ramp chase act gasp lawsuit file";

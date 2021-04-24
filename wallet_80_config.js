@@ -1,1 +1,1 @@
-var mnemonic = "dance phrase plunge crouch wolf solve say congress cage power impact dentist";
+var mnemonic = "source multiply fee illegal disagree spice betray sugar annual ride purchase canyon";

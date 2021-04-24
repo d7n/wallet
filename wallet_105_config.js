@@ -1,1 +1,1 @@
-var mnemonic = "scorpion goddess badge napkin phrase next busy concert solve solve cake miss";
+var mnemonic = "icon story melody apology tube among fun arrange hill human robot below";

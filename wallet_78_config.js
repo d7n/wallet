@@ -1,1 +1,1 @@
-var mnemonic = "spider parade purpose have jewel alpha worry raccoon tumble robust piece paddle";
+var mnemonic = "main pole trumpet joke uniform ladder fruit aspect blood club similar uncle";

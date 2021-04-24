@@ -1,1 +1,1 @@
-var mnemonic = "enjoy crawl swift okay person curve man sibling letter peace uncover ten";
+var mnemonic = "web unable math egg sea vault deputy bike stone culture tuition response";

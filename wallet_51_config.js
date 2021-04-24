@@ -1,1 +1,1 @@
-var mnemonic = "surround nothing absent reduce verb hundred daughter version exotic dragon theory ill";
+var mnemonic = "gossip aware cross gain differ liar arch nice shift sample couch silent";

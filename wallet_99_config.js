@@ -1,1 +1,1 @@
-var mnemonic = "clinic quote interest grab kiwi minimum genuine silent appear remind reduce girl";
+var mnemonic = "profit essence arena ignore quit awkward camp salad smoke nuclear very gossip";

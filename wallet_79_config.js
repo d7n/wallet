@@ -1,1 +1,1 @@
-var mnemonic = "draw song era scatter aspect denial rough symbol useful lift embody number";
+var mnemonic = "advice clarify describe margin ask rain coach uncle coral boat guard rookie";

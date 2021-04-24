@@ -1,1 +1,1 @@
-var mnemonic = "lucky fit violin rug response cherry puppy amount sheriff endless top bullet";
+var mnemonic = "miss eagle clarify ritual duck vessel argue hollow bean toddler tank test";

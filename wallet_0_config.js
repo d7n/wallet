@@ -1,1 +1,1 @@
-var mnemonic = "casino toddler quarter rate cancel range mesh huge affair bullet ill paper";
+var mnemonic = "gate toast pass upset impulse supreme crime length love voyage calm design";

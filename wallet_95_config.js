@@ -1,1 +1,1 @@
-var mnemonic = "movie foil danger draw custom damp hobby excess main alcohol forget three";
+var mnemonic = "quote alcohol caution soccer match response check toy credit mammal violin fantasy";

@@ -1,1 +1,1 @@
-var mnemonic = "deliver rural problem maple mercy grit paper exhaust nose design dust seven";
+var mnemonic = "wrestle assault surface disorder dutch surround quarter thrive cancel merit actual fatigue";

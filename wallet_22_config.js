@@ -1,1 +1,1 @@
-var mnemonic = "weapon dirt tuition push walk indoor ladder true alarm must crush uphold";
+var mnemonic = "machine action nominee solar night region luxury more spring island jacket quit";

@@ -1,1 +1,1 @@
-var mnemonic = "churn coil dawn first interest giggle order sing sail kidney erosion ticket";
+var mnemonic = "fire tuna snack bonus legal puzzle member add wonder private stumble weekend";

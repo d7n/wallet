@@ -1,1 +1,1 @@
-var mnemonic = "own address december veteran jaguar squeeze flush consider tray attend bitter blood";
+var mnemonic = "impact public lawn silly network allow van verb tiny allow sudden course";

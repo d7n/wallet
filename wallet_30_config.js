@@ -1,1 +1,1 @@
-var mnemonic = "mutual kiwi napkin stomach slender expose salad style senior dumb region clerk";
+var mnemonic = "domain lock system domain primary family curtain road blue bicycle kitchen carry";

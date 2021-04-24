@@ -1,1 +1,1 @@
-var mnemonic = "control economy luxury giggle struggle dentist marine express merit oppose chunk basket";
+var mnemonic = "father square monster garden duck conduct napkin poet expire during seek banana";

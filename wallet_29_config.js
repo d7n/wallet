@@ -1,1 +1,1 @@
-var mnemonic = "few south essence father journey mule attract miracle movie scatter tilt lesson";
+var mnemonic = "rather ethics region impact bind sail attract crop quote jacket family mother";

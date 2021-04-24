@@ -1,1 +1,1 @@
-var mnemonic = "unveil mushroom lazy atom first ready innocent rally two shop fetch security";
+var mnemonic = "nothing color scorpion taste muffin gentle nuclear modify gasp news supply program";

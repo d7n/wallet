@@ -1,1 +1,1 @@
-var mnemonic = "churn fringe way doll cream rice swap machine mushroom pair cheese volume";
+var mnemonic = "horror shoulder noise attack citizen found above monster hazard quiz keep aspect";

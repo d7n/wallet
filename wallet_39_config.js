@@ -1,1 +1,1 @@
-var mnemonic = "goat panda shock swamp grab envelope lock olive hire because plug regular";
+var mnemonic = "label bounce spare guide toddler patient trigger series inmate adapt bread ball";

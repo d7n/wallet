@@ -1,1 +1,1 @@
-var mnemonic = "spend alone symptom crater maple sausage know brave brisk twelve code afford";
+var mnemonic = "cycle ensure nominee must industry armed piano curve immense expose day stereo";

@@ -1,1 +1,1 @@
-var mnemonic = "swap caution absurd blush edge bless flower despair charge miracle neither present";
+var mnemonic = "jazz follow loop this flee jungle inject exchange grocery zone used badge";

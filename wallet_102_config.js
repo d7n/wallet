@@ -1,1 +1,1 @@
-var mnemonic = "click rose pact gossip object margin sister you sunny clump poet garbage";
+var mnemonic = "ice flame bless obey spoil pave submit climb lucky program eager candy";

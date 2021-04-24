@@ -1,1 +1,1 @@
-var mnemonic = "sudden fantasy adjust upgrade glance glide essence affair call gaze wage infant";
+var mnemonic = "shadow isolate devote wood success patient mask pitch bacon indoor quarter cluster";

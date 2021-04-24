@@ -1,1 +1,1 @@
-var mnemonic = "sign sure notable stay brisk bonus never horn magnet reform direct novel";
+var mnemonic = "round craft across squeeze immune under hole assist opinion upon solve pig";

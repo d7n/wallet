@@ -1,1 +1,1 @@
-var mnemonic = "swallow chief cherry sea awake pact depend entire mad small wreck desert";
+var mnemonic = "room invest flavor orbit vapor emotion december rookie slogan bottom clarify orchard";

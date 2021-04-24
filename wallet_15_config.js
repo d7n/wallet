@@ -1,1 +1,1 @@
-var mnemonic = "error then dice spend perfect fruit sail curve license gas skate bounce";
+var mnemonic = "picture mandate sting island patch swift craft right own sun day lazy";

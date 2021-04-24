@@ -1,1 +1,1 @@
-var mnemonic = "mimic collect obvious abstract raccoon wagon wolf retreat hurry embody credit nominee";
+var mnemonic = "large this congress own all flag anchor pigeon lobster invest lonely crawl";

@@ -1,1 +1,1 @@
-var mnemonic = "flight main play suggest sorry confirm portion attitude obvious swarm common grass";
+var mnemonic = "what shine alone labor sport hollow please leg chuckle voyage february hope";

@@ -1,1 +1,1 @@
-var mnemonic = "found inherit govern impulse quote pill paddle nut sort sound license used";
+var mnemonic = "crystal spider rotate degree lunch human large engage midnight mirror private demise";

@@ -1,1 +1,1 @@
-var mnemonic = "conduct cargo among you arrive friend become zebra dinosaur dwarf host lucky";
+var mnemonic = "bench hard offer traffic hurry resemble since material okay random undo vehicle";

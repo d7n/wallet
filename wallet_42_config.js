@@ -1,1 +1,1 @@
-var mnemonic = "float dentist say siren cash have unaware pilot speed banana umbrella farm";
+var mnemonic = "print cotton arctic question blood verb example extend hat grain logic together";

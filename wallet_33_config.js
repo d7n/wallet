@@ -1,1 +1,1 @@
-var mnemonic = "road pilot spirit twenty intact sand park embrace edge average jacket still";
+var mnemonic = "keen record lounge decrease model renew title volume safe spin network whisper";

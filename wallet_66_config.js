@@ -1,1 +1,1 @@
-var mnemonic = "corn lounge deliver label belt picnic oxygen plate impulse pluck picture text";
+var mnemonic = "case hunt lend hour mule oxygen guitar burden develop vital wish frog";

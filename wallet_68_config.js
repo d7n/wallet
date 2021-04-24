@@ -1,1 +1,1 @@
-var mnemonic = "noble sense hazard sad weather remain claw burden home rebel stove grape";
+var mnemonic = "balcony toss write upon lottery boil shock arrive body thank barely fame";

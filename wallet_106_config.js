@@ -1,1 +1,1 @@
-var mnemonic = "account vast settle celery help refuse similar clinic ankle stone wedding party";
+var mnemonic = "call night reunion marine like pitch arrive invest tumble annual section slush";

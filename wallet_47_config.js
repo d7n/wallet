@@ -1,1 +1,1 @@
-var mnemonic = "artefact tube shaft access seek mango motion speed defy defy depth divorce";
+var mnemonic = "swap moral series luggage settle arrest pluck cram scatter color same blade";

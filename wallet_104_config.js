@@ -1,1 +1,1 @@
-var mnemonic = "recipe charge hollow defy cute reason wife stem fine there purchase receive";
+var mnemonic = "panda language weekend raw wealth guide busy drill bamboo volume extra wild";

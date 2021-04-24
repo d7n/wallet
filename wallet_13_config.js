@@ -1,1 +1,1 @@
-var mnemonic = "cost require arm left essay miracle nominee female film dynamic regret staff";
+var mnemonic = "rib gloom danger catch adjust toss sail fetch brass sand object second";

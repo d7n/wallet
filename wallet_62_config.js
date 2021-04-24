@@ -1,1 +1,1 @@
-var mnemonic = "shift forum enforce giggle raw finger satisfy cabin crack acid number eternal";
+var mnemonic = "antique stable unable celery rival sentence brick rent energy client letter find";

@@ -1,1 +1,1 @@
-var mnemonic = "sail ankle must buyer museum decade frame have diary vicious solution siege";
+var mnemonic = "trash leopard life economy faculty federal lyrics grace assist size produce quit";
