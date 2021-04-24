@@ -1,1 +1,1 @@
-var mnemonic = "mutual cereal scatter blue rocket senior lottery clean edge pipe prosper exchange";
+var mnemonic = "path lecture pitch grass afraid payment hair unusual average unable canyon round";

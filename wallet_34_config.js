@@ -1,1 +1,1 @@
-var mnemonic = "supply dumb middle filter uniform traffic half scheme pull venue claw random";
+var mnemonic = "fire south bullet toward theme potato essence veteran fortune merit nerve excite";

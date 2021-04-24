@@ -1,1 +1,1 @@
-var mnemonic = "radio quit hire gun muffin put flee toss pass always purchase fork";
+var mnemonic = "fire super vivid strong best people always kit dinner always amount raise";

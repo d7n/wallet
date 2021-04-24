@@ -1,1 +1,1 @@
-var mnemonic = "critic loop gold fly lizard already burden wheat item child party chalk";
+var mnemonic = "dose foster jealous tell city total staff lounge sketch tiny toy aunt";

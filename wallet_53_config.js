@@ -1,1 +1,1 @@
-var mnemonic = "error depth auction eight final adapt mad dentist isolate useless wink bright";
+var mnemonic = "build iron region pole ozone shaft dance volume result flame connect ozone";

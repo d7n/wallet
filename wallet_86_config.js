@@ -1,1 +1,1 @@
-var mnemonic = "cannon bicycle coral link slab quantum metal acid congress reduce enhance logic";
+var mnemonic = "great extra lend oxygen license crack trend concert student doll effort visit";

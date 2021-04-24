@@ -1,1 +1,1 @@
-var mnemonic = "fox eternal popular deer only rebel country upper road cable alien denial";
+var mnemonic = "grid lens noble summer tooth seat jazz bulk ahead denial between grape";

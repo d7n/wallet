@@ -1,1 +1,1 @@
-var mnemonic = "love tilt access load salad front slab field typical artwork travel actress";
+var mnemonic = "phone hobby pole borrow mouse gentle pyramid wine tower wheel goose mix";

@@ -1,1 +1,1 @@
-var mnemonic = "often topic have hunt winter sauce power load assist young vocal duty";
+var mnemonic = "owner sick able daring stock sketch sort auto olympic around winner later";

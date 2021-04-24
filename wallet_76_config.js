@@ -1,1 +1,1 @@
-var mnemonic = "gauge monster delay desert craft apology near fruit lobster coyote torch goddess";
+var mnemonic = "member artist phrase ripple water success win doll critic column picnic doll";

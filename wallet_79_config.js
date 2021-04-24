@@ -1,1 +1,1 @@
-var mnemonic = "gospel right kangaroo correct dust gospel olive supreme team bomb mass aisle";
+var mnemonic = "either garment ribbon solar hole crime what bracket age burst end sponsor";

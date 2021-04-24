@@ -1,1 +1,1 @@
-var mnemonic = "employ double moment material echo learn upper frequent bubble solution permit like";
+var mnemonic = "wonder dignity enough minute umbrella style spy arch hat uncle certain million";

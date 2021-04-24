@@ -1,1 +1,1 @@
-var mnemonic = "distance shallow please party abuse retreat butter ritual oval bike poet yellow";
+var mnemonic = "moment jelly blur knock cause recall grape survey sight poet sea rubber";

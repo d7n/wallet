@@ -1,1 +1,1 @@
-var mnemonic = "urban wash oak kidney canvas circle fantasy autumn stem maid hour orient";
+var mnemonic = "must brave ship heart error accident echo uphold wrap push firm salute";

@@ -1,1 +1,1 @@
-var mnemonic = "concert twist crater bone boost scale pluck dinner come brain village daughter";
+var mnemonic = "shoulder machine van journey fat roast shrug total symptom tube deliver blood";

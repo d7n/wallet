@@ -1,1 +1,1 @@
-var mnemonic = "ready inhale promote pulse gain tell palace multiply misery tissue round slab";
+var mnemonic = "collect three day differ armor lion hole way fault among dentist biology";

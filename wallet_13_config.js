@@ -1,1 +1,1 @@
-var mnemonic = "exotic dragon draft nature scale mango increase double dice acoustic remain cargo";
+var mnemonic = "protect car doctor jeans total inmate undo traffic source clap roast child";

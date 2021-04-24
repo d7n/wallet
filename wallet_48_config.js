@@ -1,1 +1,1 @@
-var mnemonic = "bridge runway drink misery brief degree issue brick swift theme sphere warm";
+var mnemonic = "nuclear rude bless book into pink chef impose stable swap empower derive";

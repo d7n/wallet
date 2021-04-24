@@ -1,1 +1,1 @@
-var mnemonic = "buffalo finish labor stay fever evil indicate midnight senior blast inspire voice";
+var mnemonic = "poem boil match actual engage silly illness cheese talk oval write almost";

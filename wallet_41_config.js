@@ -1,1 +1,1 @@
-var mnemonic = "ten slam hand decide shine about fragile siren patrol citizen cave stomach";
+var mnemonic = "electric trash wheel ridge magnet immune imitate involve fat scrap nurse drip";

@@ -1,1 +1,1 @@
-var mnemonic = "drill weekend nothing wolf calm embark voice inmate misery benefit practice champion";
+var mnemonic = "brisk door resource unaware plate shell affair joy wife junior solar still";

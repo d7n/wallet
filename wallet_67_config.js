@@ -1,1 +1,1 @@
-var mnemonic = "use measure pistol silk skate air possible spawn acquire feed holiday foot";
+var mnemonic = "drama clay mountain matrix found place pretty grocery what valve advance uncover";

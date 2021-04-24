@@ -1,1 +1,1 @@
-var mnemonic = "pride choice roof cause polar section glove attitude gather force prepare able";
+var mnemonic = "athlete vibrant good special athlete style youth endless erupt abuse civil despair";

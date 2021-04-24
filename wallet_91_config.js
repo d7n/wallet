@@ -1,1 +1,1 @@
-var mnemonic = "sausage execute elder truly blame juice nature verify humor toss beach describe";
+var mnemonic = "order busy gain ethics sense iron life learn team mom enlist chicken";

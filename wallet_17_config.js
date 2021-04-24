@@ -1,1 +1,1 @@
-var mnemonic = "snake laugh enemy memory become cloud fan left beef march mansion illegal";
+var mnemonic = "raise good make treat dwarf unusual grunt point group print crumble yard";

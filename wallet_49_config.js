@@ -1,1 +1,1 @@
-var mnemonic = "business three absorb orange battle enough unveil puzzle kitten hip tube acid";
+var mnemonic = "critic eternal level broom monkey predict cushion hope raw edge helmet genre";

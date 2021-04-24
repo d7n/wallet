@@ -1,1 +1,1 @@
-var mnemonic = "office eye robot donate hen hockey mesh humor ignore radio uncover broken";
+var mnemonic = "tank vibrant film hole deny puppy language grocery eight biology jacket please";

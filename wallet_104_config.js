@@ -1,1 +1,1 @@
-var mnemonic = "butter refuse guess half real social vault blue large jeans category umbrella";
+var mnemonic = "inside odor family voice switch fiction hole junk twelve shell peanut clump";

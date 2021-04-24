@@ -1,1 +1,1 @@
-var mnemonic = "cactus shoot crater exhaust sail detail cereal pudding write trade glare hire";
+var mnemonic = "used doll math pact loan adapt secret also feel pass north rival";

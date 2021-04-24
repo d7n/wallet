@@ -1,1 +1,1 @@
-var mnemonic = "derive glove enable radio genuine add front belt limit easily lawn boil";
+var mnemonic = "forum learn betray link segment close pulp athlete pig unaware situate hurdle";

@@ -1,1 +1,1 @@
-var mnemonic = "corn smile poet pair hobby wall hedgehog lazy forest spend moment penalty";
+var mnemonic = "ability soccer almost stove pulp clarify above kitchen ceiling above bunker flower";

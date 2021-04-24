@@ -1,1 +1,1 @@
-var mnemonic = "affair quote offer solution miracle okay flee woman pledge again peace ecology";
+var mnemonic = "gas unique matrix session hour joke chimney behave opera common team vanish";

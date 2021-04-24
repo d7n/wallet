@@ -1,1 +1,1 @@
-var mnemonic = "exact web sunny once property scissors cattle machine real harsh rack impact";
+var mnemonic = "ivory afford endorse element battle vehicle dilemma diesel manage diary sleep kangaroo";

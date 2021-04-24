@@ -1,1 +1,1 @@
-var mnemonic = "quick pull advance estate number case cute unlock citizen helmet smile maple";
+var mnemonic = "hill ginger true robust oxygen pluck purse host myth demand coach evolve";

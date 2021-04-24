@@ -1,1 +1,1 @@
-var mnemonic = "vibrant current rebuild wedding negative coil grid head uncover laugh flee subway";
+var mnemonic = "foot wide evil later calm glow glue fault gauge owner layer pool";

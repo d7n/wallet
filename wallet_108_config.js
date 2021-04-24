@@ -1,1 +1,1 @@
-var mnemonic = "install recipe twist absurd dismiss document replace cinnamon adult breeze laundry essay";
+var mnemonic = "choose raw note combine wolf agent power loan cabbage only profit master";

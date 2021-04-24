@@ -1,1 +1,1 @@
-var mnemonic = "inquiry charge push enact captain similar document wool food suit slab popular";
+var mnemonic = "hire bracket fit boring swarm cereal mouse coast stereo nature city clinic";

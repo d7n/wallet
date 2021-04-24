@@ -1,1 +1,1 @@
-var mnemonic = "rubber dynamic apart library thrive laugh leaf reduce shield quit month worry";
+var mnemonic = "middle tide stadium dizzy risk giant hobby hero snap only tunnel fetch";

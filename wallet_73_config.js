@@ -1,1 +1,1 @@
-var mnemonic = "skirt minimum space maple survey vivid category soda rose artist surface illness";
+var mnemonic = "force tell wave album enrich cruel unable husband define assault reward ordinary";

@@ -1,1 +1,1 @@
-var mnemonic = "fun humble neglect cannon breeze fog culture eagle impulse august antique topple";
+var mnemonic = "aware camera concert slice educate age leopard theory park scatter roast sudden";

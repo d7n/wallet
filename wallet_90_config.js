@@ -1,1 +1,1 @@
-var mnemonic = "action suggest tragic wise exhibit above village jacket jealous cable sudden unknown";
+var mnemonic = "lawsuit super stuff buzz outdoor verify glow pudding screen slender salute price";

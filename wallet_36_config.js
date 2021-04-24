@@ -1,1 +1,1 @@
-var mnemonic = "lazy theme imitate length gorilla amused stool exile sight license vacant hammer";
+var mnemonic = "choice fly verb laptop need middle lunch cabin capable dose enlist ripple";

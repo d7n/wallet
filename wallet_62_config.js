@@ -1,1 +1,1 @@
-var mnemonic = "found olive lamp arrest attitude term pledge doctor joy kite rapid drum";
+var mnemonic = "onion write review champion return wool peanut scout lazy twelve amazing prefer";

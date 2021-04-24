@@ -1,1 +1,1 @@
-var mnemonic = "drastic excite history erosion original shoulder sheriff vacuum citizen blind seat enter";
+var mnemonic = "orbit middle shrimp develop during vicious drastic blossom riot egg priority royal";

@@ -1,1 +1,1 @@
-var mnemonic = "region oil little verify pear cheese drastic album rail patrol oil square";
+var mnemonic = "cupboard air margin ostrich album weird wear unveil young battle napkin gaze";

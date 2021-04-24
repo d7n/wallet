@@ -1,1 +1,1 @@
-var mnemonic = "canal inside melt insane jar room wall guard race immune bunker ginger";
+var mnemonic = "series tuition panel inspire unable cook divide loop twenty pink page actual";

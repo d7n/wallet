@@ -1,1 +1,1 @@
-var mnemonic = "detect puppy large advice whale other time wonder remove fit april throw";
+var mnemonic = "opera immune average empower forget crash rough diamond approve resist purpose obey";

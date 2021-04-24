@@ -1,1 +1,1 @@
-var mnemonic = "elegant swap neutral trend believe human office tortoise wagon mansion sadness hero";
+var mnemonic = "million lamp envelope fog meadow devote pony blanket admit never edge square";

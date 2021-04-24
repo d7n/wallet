@@ -1,1 +1,1 @@
-var mnemonic = "sheriff forum satoshi oil section claim fog hungry jewel close garment legal";
+var mnemonic = "common year edit exact model sugar police amazing make across dress dish";

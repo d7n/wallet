@@ -1,1 +1,1 @@
-var mnemonic = "sting trophy else exotic curious valid vendor black this agree cake squeeze";
+var mnemonic = "speak hospital genuine paddle mercy outdoor enroll crash kid jelly squeeze ability";

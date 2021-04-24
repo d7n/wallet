@@ -1,1 +1,1 @@
-var mnemonic = "trip depart half ginger robust embark drift hair elevator mind lemon extend";
+var mnemonic = "amazing album wolf section wild deer crime bus upon spatial zebra normal";

@@ -1,1 +1,1 @@
-var mnemonic = "smart shop bargain audit next episode month shy able slot capital bone";
+var mnemonic = "album next lucky topic almost mad rule gravity nothing brand skull blast";

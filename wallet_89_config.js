@@ -1,1 +1,1 @@
-var mnemonic = "cupboard seed round path angle monitor oppose affair point riot stamp donate";
+var mnemonic = "arch deer iron together knife immense exist confirm dignity second grass orange";

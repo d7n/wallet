@@ -1,1 +1,1 @@
-var mnemonic = "duck silent yard enhance foster black novel owner december potato luxury rice";
+var mnemonic = "vocal hockey wife sleep empower pistol nephew prison advice runway layer ski";

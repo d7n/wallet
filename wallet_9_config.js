@@ -1,1 +1,1 @@
-var mnemonic = "mother fabric angry wolf intact across address moon genuine short farm wedding";
+var mnemonic = "dad nothing ripple argue sunset mobile pigeon absent antenna monitor amazing video";

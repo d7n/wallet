@@ -1,1 +1,1 @@
-var mnemonic = "nothing spot vicious wrist round beach come kind toe crawl forward amount";
+var mnemonic = "salute owner energy surge insane laugh movie fire segment pencil fitness patrol";

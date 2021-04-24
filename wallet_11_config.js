@@ -1,1 +1,1 @@
-var mnemonic = "obey fiscal home erode clean churn enroll fade any daughter first mouse";
+var mnemonic = "office rhythm luggage diet glove fetch hint couple coconut blanket pen spike";

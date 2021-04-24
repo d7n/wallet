@@ -1,1 +1,1 @@
-var mnemonic = "special desert judge question special elephant dignity bronze fix obscure front rescue";
+var mnemonic = "carpet detect position matrix also vacant load electric jar iron hint fashion";

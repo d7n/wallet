@@ -1,1 +1,1 @@
-var mnemonic = "pear gate test glide city program teach anger banner tiger glory write";
+var mnemonic = "quarter vicious wagon glass online give kiwi behave boy witness venture gaze";

@@ -1,1 +1,1 @@
-var mnemonic = "faith language ecology reveal mad position century chat pattern punch dove normal";
+var mnemonic = "soda domain extra frequent tumble hen must casino result shiver sting ball";

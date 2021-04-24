@@ -1,1 +1,1 @@
-var mnemonic = "combine chef together trap sustain arctic calm teach shed trade range brand";
+var mnemonic = "rocket stuff bacon kick action wisdom gate milk advice fox giant trouble";

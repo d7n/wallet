@@ -1,1 +1,1 @@
-var mnemonic = "scare burden mercy cream syrup dose sing frequent correct satisfy grab oblige";
+var mnemonic = "shiver coyote stage jelly fashion figure access arrive spawn bicycle mom denial";

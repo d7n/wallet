@@ -1,1 +1,1 @@
-var mnemonic = "amount know marriage syrup detect stove enter wolf muscle state country matter";
+var mnemonic = "spell tower apart glad emotion muscle zebra company peanut pink pizza wisdom";

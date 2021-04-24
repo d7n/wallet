@@ -1,1 +1,1 @@
-var mnemonic = "helmet lawn core where garment rule panic note buddy abstract regret soap";
+var mnemonic = "version must piece around rain december crush ceiling inject fox hunt curve";

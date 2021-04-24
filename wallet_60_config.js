@@ -1,1 +1,1 @@
-var mnemonic = "mad spike penalty fee oven harvest flip power tower awkward deputy ride";
+var mnemonic = "ocean tooth teach laundry citizen amount solid april entire venue invest lottery";

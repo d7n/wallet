@@ -1,1 +1,1 @@
-var mnemonic = "crane calm reward afraid drop neither donor empty cram burden slim awkward";
+var mnemonic = "harsh object found review fiscal vocal casual salt corn tip frozen vessel";

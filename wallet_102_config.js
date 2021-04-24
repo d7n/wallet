@@ -1,1 +1,1 @@
-var mnemonic = "helmet advice until wire limit quarter thumb casino sense indoor clever enough";
+var mnemonic = "arrange message document want dragon story buddy smooth local behave lock crunch";

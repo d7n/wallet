@@ -1,1 +1,1 @@
-var mnemonic = "base thunder exotic bus name sun quality rural candy action follow heavy";
+var mnemonic = "ring enjoy setup wild awful bullet cry ball yellow spare wait pool";

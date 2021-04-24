@@ -1,1 +1,1 @@
-var mnemonic = "clarify enrich topic decrease silent heavy alley cost cool rug atom error";
+var mnemonic = "rookie exile skill used cube ribbon bottom skull river cook awful mouse";

@@ -1,1 +1,1 @@
-var mnemonic = "edge improve keen oil predict alien giraffe cram situate result notice wasp";
+var mnemonic = "aerobic tower industry foil cable equal taxi donate oblige assist gentle soup";

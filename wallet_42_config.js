@@ -1,1 +1,1 @@
-var mnemonic = "napkin frown liberty captain slogan giant parrot topic dumb uncover robot huge";
+var mnemonic = "oyster wheat okay income remove stadium acoustic pole cancel legend powder almost";

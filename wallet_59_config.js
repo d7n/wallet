@@ -1,1 +1,1 @@
-var mnemonic = "tube dwarf farm sound valid guard invite rubber flight fatal scare ignore";
+var mnemonic = "warfare sudden bubble obey blood renew innocent crime palace inform produce heavy";

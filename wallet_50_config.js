@@ -1,1 +1,1 @@
-var mnemonic = "move vanish barrel will casual boy spring street wear benefit badge crush";
+var mnemonic = "correct mirror feed blood rocket unit lawn action girl company display type";

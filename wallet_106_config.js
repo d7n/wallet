@@ -1,1 +1,1 @@
-var mnemonic = "age dream corn reform disagree pledge scrap flat bus gentle search soon";
+var mnemonic = "grunt joy umbrella sound battle gate wear worry parade arctic cattle find";

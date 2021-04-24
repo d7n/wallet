@@ -1,1 +1,1 @@
-var mnemonic = "note ripple object thing torch loyal eye weather kiwi speak wheat apart";
+var mnemonic = "desk knife large robot slogan employ ethics limb tobacco bid modify collect";

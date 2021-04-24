@@ -1,1 +1,1 @@
-var mnemonic = "orphan language spirit typical because boring sudden wonder little square slush movie";
+var mnemonic = "guess execute couple man outside table brain margin rich aware toy level";

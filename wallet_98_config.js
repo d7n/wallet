@@ -1,1 +1,1 @@
-var mnemonic = "town feel edge eager shrug change race unveil scout recall swallow message";
+var mnemonic = "suspect good culture dial obscure narrow jelly fun fresh feel lonely cruise";

@@ -1,1 +1,1 @@
-var mnemonic = "patch expire answer search drama amazing similar snow concert ill rib parrot";
+var mnemonic = "sport usual vote member patrol act coconut cruel build usual vendor armed";

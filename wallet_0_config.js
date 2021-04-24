@@ -1,1 +1,1 @@
-var mnemonic = "behave mom width finger matter review three skill mesh badge ozone pudding";
+var mnemonic = "child muscle feed pink thank aware notable lava crawl enroll popular alone";

@@ -1,1 +1,1 @@
-var mnemonic = "fabric screen outer duty feed photo wave dust acid before seven title";
+var mnemonic = "green favorite kid enemy practice capable oak fork coil debris aspect junior";

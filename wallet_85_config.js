@@ -1,1 +1,1 @@
-var mnemonic = "inch nose transfer shrug jelly uncle rail poem earth joke lucky exit";
+var mnemonic = "popular believe tiger orchard citizen exist crane program shove exile loyal retreat";

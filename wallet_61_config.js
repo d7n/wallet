@@ -1,1 +1,1 @@
-var mnemonic = "theory foam must journey inspire infant twelve ride often thank embody wasp";
+var mnemonic = "cup napkin delay fan dial glance orbit usual because rate divert attitude";

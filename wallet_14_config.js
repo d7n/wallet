@@ -1,1 +1,1 @@
-var mnemonic = "similar forget benefit adapt donor remove blossom party brief gun vibrant target";
+var mnemonic = "apple manage boost slide canvas secret pair sand opera arctic stock change";

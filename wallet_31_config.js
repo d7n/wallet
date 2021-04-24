@@ -1,1 +1,1 @@
-var mnemonic = "genuine auction film electric into circle dynamic clarify rhythm world good caught";
+var mnemonic = "wedding swift oblige detail delay cloth hurdle sign artefact correct depend conduct";

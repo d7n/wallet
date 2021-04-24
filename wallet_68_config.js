@@ -1,1 +1,1 @@
-var mnemonic = "fun panda later lounge phone dose sadness space bean magic omit raccoon";
+var mnemonic = "fitness host knock digital sudden hunt monkey general rigid clump rival gloom";

@@ -1,1 +1,1 @@
-var mnemonic = "stairs eyebrow fatal erosion media lens tent siren guess strike sell future";
+var mnemonic = "clever lock inherit fine educate diagram journey crumble arrive excess engage grocery";

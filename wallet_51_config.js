@@ -1,1 +1,1 @@
-var mnemonic = "monitor name extend plate seminar subject circle cool edge tuna series excite";
+var mnemonic = "hunt swear faculty border target fox jewel embark shed thing floor hard";
