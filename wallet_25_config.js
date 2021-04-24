@@ -1,1 +1,1 @@
-var mnemonic = "heavy give favorite place drink cloth toward silk begin gorilla silly wasp";
+var mnemonic = "match horse calm boil grain couple later off bottom soldier matter word";

@@ -1,1 +1,1 @@
-var mnemonic = "arch travel heart dizzy link december win scrap bicycle garlic stock crystal";
+var mnemonic = "runway canal choose ritual huge weasel cannon apology rate mandate mad hurt";

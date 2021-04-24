@@ -1,1 +1,1 @@
-var mnemonic = "bird rebuild stairs slice pudding tuition material cabbage castle mobile belt undo";
+var mnemonic = "lazy throw income title canvas blade kite wreck mountain width diary unique";

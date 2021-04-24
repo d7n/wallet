@@ -1,1 +1,1 @@
-var mnemonic = "eye room mix endorse goat season parade portion daughter tomato join industry";
+var mnemonic = "tent venture dinner sense cover junior finish insane sugar female health face";

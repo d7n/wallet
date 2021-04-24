@@ -1,1 +1,1 @@
-var mnemonic = "hood green charge test hidden muscle entire humble steak expose undo island";
+var mnemonic = "myself card ring little ribbon injury bus sample humor cash evolve idle";

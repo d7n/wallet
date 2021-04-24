@@ -1,1 +1,1 @@
-var mnemonic = "fatigue plug pride jump fruit rose taste crash mouse firm scatter crucial";
+var mnemonic = "type magic boring hurdle ladder exotic deer infant hip cage virtual gorilla";

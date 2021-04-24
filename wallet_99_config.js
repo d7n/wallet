@@ -1,1 +1,1 @@
-var mnemonic = "improve stone gate enlist night notable grab insect pledge tank soap produce";
+var mnemonic = "bonus axis limb bulk believe raccoon donor opera deal clarify extra change";

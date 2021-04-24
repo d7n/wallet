@@ -1,1 +1,1 @@
-var mnemonic = "lift attack skate second note lucky already pole stereo pencil when struggle";
+var mnemonic = "ticket rare coral dream black blue nurse faith expire rubber recipe toilet";

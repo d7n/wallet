@@ -1,1 +1,1 @@
-var mnemonic = "forward grace harbor opinion zero tackle fringe critic napkin cereal sphere orient";
+var mnemonic = "cloth thrive squirrel mechanic cabin giant swamp relax bean one library cream";

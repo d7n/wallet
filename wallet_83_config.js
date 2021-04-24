@@ -1,1 +1,1 @@
-var mnemonic = "frame animal excite truly window tumble inner engage road denial junior make";
+var mnemonic = "average hand spawn march blood bronze wall valid cube mother few ship";

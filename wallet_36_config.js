@@ -1,1 +1,1 @@
-var mnemonic = "envelope weather parade sun liar fluid film fat fault impose wing great";
+var mnemonic = "soldier method expire flee into ball then diamond race find method across";

@@ -1,1 +1,1 @@
-var mnemonic = "over possible renew session crowd drama cost injury dumb grace elbow crack";
+var mnemonic = "tube toddler knee rib bar cat clarify claim wear agree nothing release";

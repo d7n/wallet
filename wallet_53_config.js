@@ -1,1 +1,1 @@
-var mnemonic = "insane steak melt obscure illness oblige neck modify doll tone cage cancel";
+var mnemonic = "move warrior veteran emotion timber river museum sport example parent side ignore";

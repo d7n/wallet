@@ -1,1 +1,1 @@
-var mnemonic = "hire base census awful title planet forget hurry favorite hope neglect bag";
+var mnemonic = "gossip snack pattern erosion bitter tube weird pen cupboard father veteran frozen";

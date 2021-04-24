@@ -1,1 +1,1 @@
-var mnemonic = "almost then theory enroll sweet pigeon dry eternal journey shaft install base";
+var mnemonic = "west winner truth say napkin steak ripple drop pitch figure sun knife";

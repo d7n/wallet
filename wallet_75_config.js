@@ -1,1 +1,1 @@
-var mnemonic = "gallery bachelor salt lyrics orchard maximum anger child runway draft chaos vanish";
+var mnemonic = "stock cover balcony outdoor hotel stand soccer spike drastic try spare name";

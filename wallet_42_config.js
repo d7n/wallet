@@ -1,1 +1,1 @@
-var mnemonic = "basic mammal auction lounge seminar crowd dice pave search ozone scissors student";
+var mnemonic = "hundred hospital reason magnet property scare always bike cry mixed negative gift";

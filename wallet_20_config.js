@@ -1,1 +1,1 @@
-var mnemonic = "random crucial library survey immense razor fuel absent argue tenant deliver that";
+var mnemonic = "easy tonight current cream acquire imitate unusual alone hobby roast oppose innocent";

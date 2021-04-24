@@ -1,1 +1,1 @@
-var mnemonic = "special office orient hungry drum citizen twenty battle lunch shoe power cover";
+var mnemonic = "ski lonely brief appear spin blade raw poem ginger nose shine rice";

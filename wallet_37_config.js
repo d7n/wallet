@@ -1,1 +1,1 @@
-var mnemonic = "hat suit snap initial gift utility side earth buddy minute try throw";
+var mnemonic = "skill cruel enable paper fetch still poet husband dolphin capable trial harsh";

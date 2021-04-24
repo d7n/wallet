@@ -1,1 +1,1 @@
-var mnemonic = "then edge dumb visit unique gospel ketchup aisle expand prize word series";
+var mnemonic = "acoustic squeeze elevator fish couple there history evil body fire fork truth";

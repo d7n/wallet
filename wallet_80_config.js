@@ -1,1 +1,1 @@
-var mnemonic = "lab judge cable health horse body foot oak load pride glance stamp";
+var mnemonic = "party point rookie burst hunt vast point slot sheriff payment plastic soft";

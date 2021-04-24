@@ -1,1 +1,1 @@
-var mnemonic = "lucky reflect crowd biology maid bless eight rifle eternal together spring reopen";
+var mnemonic = "suspect adult throw stock salt piece inject inch modify place kitchen give";

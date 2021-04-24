@@ -1,1 +1,1 @@
-var mnemonic = "dove mom process pottery hood ankle box theory arctic eyebrow neglect attract";
+var mnemonic = "load news setup improve boost solve once gloom rose visa shrug drift";

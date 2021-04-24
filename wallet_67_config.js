@@ -1,1 +1,1 @@
-var mnemonic = "bird tomorrow return barely observe sock say pulse chunk amount chicken upper";
+var mnemonic = "solar sudden fat dad steak member lounge very broken edit gorilla tip";

@@ -1,1 +1,1 @@
-var mnemonic = "tennis blush acid mammal toe margin ranch limb hood blood legal door";
+var mnemonic = "rebuild junior apology truck month weather orient aspect hammer speak thrive bomb";

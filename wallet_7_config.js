@@ -1,1 +1,1 @@
-var mnemonic = "cactus dance flush extend live flight grace pen town gun evidence able";
+var mnemonic = "miss student wage bright enhance clock refuse slight mixed bachelor protect gentle";

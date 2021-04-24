@@ -1,1 +1,1 @@
-var mnemonic = "genuine turkey jelly science accident host provide shrug settle asthma bargain buddy";
+var mnemonic = "wrestle foot build expose funny drop doctor talk use focus wool verify";

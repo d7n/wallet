@@ -1,1 +1,1 @@
-var mnemonic = "brain assist erase cash agent claw outer cigar attitude champion credit craft";
+var mnemonic = "glare manage annual fresh never faint figure satisfy camera hollow veteran force";

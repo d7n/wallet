@@ -1,1 +1,1 @@
-var mnemonic = "denial shift film sniff caught mass tag cross divorce occur amazing finish";
+var mnemonic = "open vendor adjust shine divide skirt hidden sea happy farm hole utility";

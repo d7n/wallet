@@ -1,1 +1,1 @@
-var mnemonic = "toast dirt soda train aisle deal culture airport gospel blouse harsh skill";
+var mnemonic = "trap kingdom desert congress fury best table collect express axis donate leaf";

@@ -1,1 +1,1 @@
-var mnemonic = "banana piece worry initial thing gun better violin primary escape girl trash";
+var mnemonic = "person payment hero culture pony fiber ordinary glove scout motor shiver volume";

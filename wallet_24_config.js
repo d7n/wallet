@@ -1,1 +1,1 @@
-var mnemonic = "merit clog knife draw noble riot exist illegal useful luxury pride fuel";
+var mnemonic = "deliver tip online spell cricket slice company beyond wild polar history scatter";

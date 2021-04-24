@@ -1,1 +1,1 @@
-var mnemonic = "disease decide unhappy clutch idle noise page student unit pool grocery nose";
+var mnemonic = "drama physical rally fly forest city demand man disease conduct subway improve";

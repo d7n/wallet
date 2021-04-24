@@ -1,1 +1,1 @@
-var mnemonic = "possible gossip tent cream glow seat hollow outdoor palm laptop valve friend";
+var mnemonic = "imitate expect bus juice excess erosion wing section unhappy breeze prefer budget";

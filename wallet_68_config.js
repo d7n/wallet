@@ -1,1 +1,1 @@
-var mnemonic = "museum marine about session oblige choice lizard daughter garden sort battle figure";
+var mnemonic = "screen recycle when dial recall sorry office column boy neither penalty duty";

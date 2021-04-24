@@ -1,1 +1,1 @@
-var mnemonic = "junk warfare inhale neither sample brick alarm elite marine tank foster artist";
+var mnemonic = "spell essay combine solve buddy thought soft vital will ignore across frame";

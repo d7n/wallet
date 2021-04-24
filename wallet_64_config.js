@@ -1,1 +1,1 @@
-var mnemonic = "stuff joy spare saddle mixed trade music food spend copper swap plastic";
+var mnemonic = "bulk pipe topic enrich quarter south thunder begin spot indicate pair adjust";

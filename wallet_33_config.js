@@ -1,1 +1,1 @@
-var mnemonic = "opera shop vast loop ripple robot good oyster focus idea input little";
+var mnemonic = "apple gallery output ice document aunt trigger beef sample gauge develop sorry";

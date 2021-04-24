@@ -1,1 +1,1 @@
-var mnemonic = "lesson ten believe stick cloud reunion buyer fresh until marble buffalo consider";
+var mnemonic = "voice vocal quit panic toy obscure require cave debris assume spend walnut";

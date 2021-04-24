@@ -1,1 +1,1 @@
-var mnemonic = "still arch evidence find sign seven roast mirror imitate sing alcohol grief";
+var mnemonic = "remove party frame guess case okay parrot switch nice curtain weather canal";

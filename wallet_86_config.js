@@ -1,1 +1,1 @@
-var mnemonic = "worry vast mom illness awesome eight name shop media toy tape father";
+var mnemonic = "come script shell school motion virus museum gather glow program fossil fluid";

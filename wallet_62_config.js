@@ -1,1 +1,1 @@
-var mnemonic = "adapt grain ahead feature crack harsh ability differ trigger correct pigeon party";
+var mnemonic = "flower link badge orient law option cost talk swarm smile recipe pave";

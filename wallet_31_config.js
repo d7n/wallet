@@ -1,1 +1,1 @@
-var mnemonic = "physical spell lyrics poet blade across valve series canoe begin exhibit car";
+var mnemonic = "dinner inspire health toast october juice risk lounge orphan abstract page twice";

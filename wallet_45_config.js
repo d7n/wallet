@@ -1,1 +1,1 @@
-var mnemonic = "ten giant episode skull strike long letter ocean taste impact bicycle slab";
+var mnemonic = "since consider accuse grace virus cave average hub rail embrace sword asthma";

@@ -1,1 +1,1 @@
-var mnemonic = "toss fringe eyebrow enact diamond leaf universe pluck error follow much stay";
+var mnemonic = "claim culture adult input human silver bachelor same affair mixture series penalty";

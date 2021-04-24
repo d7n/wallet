@@ -1,1 +1,1 @@
-var mnemonic = "scan candy copy rich thrive sausage merge attitude clerk brand enhance swamp";
+var mnemonic = "grid elite task correct pottery spatial drill ankle normal robot kite appear";

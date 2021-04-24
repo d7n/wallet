@@ -1,1 +1,1 @@
-var mnemonic = "pear tonight raccoon appear atom behind chalk evil palace clinic awake ritual";
+var mnemonic = "alone hair street game drip room used law glad imitate pond confirm";

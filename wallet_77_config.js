@@ -1,1 +1,1 @@
-var mnemonic = "drift youth slender cousin cram evidence silly already good critic obvious belt";
+var mnemonic = "now rule leopard rate reveal trophy prefer industry salt laugh possible enter";

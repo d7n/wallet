@@ -1,1 +1,1 @@
-var mnemonic = "toilet inch wine salmon borrow calm squeeze flee hollow cage seven banner";
+var mnemonic = "stable kid green edit resource tobacco tube entire disorder pony brother crunch";

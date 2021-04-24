@@ -1,1 +1,1 @@
-var mnemonic = "dinner bullet rib jump uncover harsh defy runway allow license fade bomb";
+var mnemonic = "rally chapter tiny decrease danger define elite siren quit lunar connect female";

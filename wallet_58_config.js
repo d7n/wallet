@@ -1,1 +1,1 @@
-var mnemonic = "hurry melt install civil strike time chase maid measure correct bright clinic";
+var mnemonic = "flavor involve subject helmet win menu feed monitor goat excite tenant menu";

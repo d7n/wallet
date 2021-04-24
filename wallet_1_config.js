@@ -1,1 +1,1 @@
-var mnemonic = "poem silent birth can busy square polar sponsor citizen found manage teach";
+var mnemonic = "edit valve talent awful frozen final rebuild aunt forum cake mention design";

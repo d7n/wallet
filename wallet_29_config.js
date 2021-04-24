@@ -1,1 +1,1 @@
-var mnemonic = "elegant child profit lend blue tube upon chef early group clutch mass";
+var mnemonic = "credit icon cry wash dizzy ship name tourist trade online shock roof";

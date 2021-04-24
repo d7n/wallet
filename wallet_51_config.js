@@ -1,1 +1,1 @@
-var mnemonic = "stool wife edit water east swamp praise obscure reason party image float";
+var mnemonic = "cycle vibrant final odor toilet evoke disorder aunt tail juice ahead supreme";

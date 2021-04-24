@@ -1,1 +1,1 @@
-var mnemonic = "future menu frog payment dust body exotic surprise luggage champion spend risk";
+var mnemonic = "design matrix tree news reflect under matrix march crucial student teach wrap";

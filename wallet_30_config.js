@@ -1,1 +1,1 @@
-var mnemonic = "behind fly proof person half project manual excess dash word photo office";
+var mnemonic = "layer visa right rescue obey hold sell join fantasy tennis name swear";

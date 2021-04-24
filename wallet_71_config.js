@@ -1,1 +1,1 @@
-var mnemonic = "visa rescue ring beach social skirt embark hint enroll pig awful field";
+var mnemonic = "vote express carry produce attend ice asthma awful radar lunch outer merit";

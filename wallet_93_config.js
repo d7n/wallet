@@ -1,1 +1,1 @@
-var mnemonic = "shy animal gym brain door crucial clip donate jazz antique rally resource";
+var mnemonic = "grocery scorpion setup bless annual diary forum element hidden hazard effort bacon";

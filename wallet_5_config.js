@@ -1,1 +1,1 @@
-var mnemonic = "hidden game scout valve anchor fever flee attitude easily garlic toast person";
+var mnemonic = "town expand road smart focus fish flight damp scrap now flee chat";

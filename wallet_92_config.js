@@ -1,1 +1,1 @@
-var mnemonic = "pencil body clutch picnic number dust indoor vacant camera entry rural gasp";
+var mnemonic = "mesh spatial worry gasp hat inner office hero cliff palm lamp title";

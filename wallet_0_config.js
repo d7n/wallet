@@ -1,1 +1,1 @@
-var mnemonic = "globe deny odor device opera mango claim follow enact picnic traffic off";
+var mnemonic = "shoe damp veteran remember pelican south typical kite neck wing mansion verify";

@@ -1,1 +1,1 @@
-var mnemonic = "skin that erupt perfect copy tower dilemma slight attract leaf arrange devote";
+var mnemonic = "soap ticket drastic drip mesh now story blade soon habit pony little";

@@ -1,1 +1,1 @@
-var mnemonic = "palm fatigue friend wage brisk picture salute cake assume shoulder pyramid machine";
+var mnemonic = "volume bargain eager sea ritual spirit kingdom riot frame auction spoil inmate";

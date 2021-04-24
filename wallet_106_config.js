@@ -1,1 +1,1 @@
-var mnemonic = "canvas wealth proof churn approve minor snap exotic trial piano slight thrive";
+var mnemonic = "spell express sustain judge wealth eight enemy please sword equal ball dance";

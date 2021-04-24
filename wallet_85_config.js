@@ -1,1 +1,1 @@
-var mnemonic = "spare then destroy grow parrot used conduct main wish tobacco badge dwarf";
+var mnemonic = "fresh marriage comic depend fade joke robust leader mystery aware range lounge";

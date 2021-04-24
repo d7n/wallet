@@ -1,1 +1,1 @@
-var mnemonic = "notice slot feel clerk gravity midnight album acoustic apart ugly eye slogan";
+var mnemonic = "grief donor pretty desk orange outer switch fruit ghost toast invest lemon";

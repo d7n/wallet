@@ -1,1 +1,1 @@
-var mnemonic = "bulk bind valid brick child now mixed hurdle main popular nice burst";
+var mnemonic = "very client execute put crew dream feed arena kiss seed soup clinic";

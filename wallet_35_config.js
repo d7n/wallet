@@ -1,1 +1,1 @@
-var mnemonic = "shiver purity law make glare inquiry dust valley magic cake year scare";
+var mnemonic = "lion door depend affair portion when call scout humble life concert paper";

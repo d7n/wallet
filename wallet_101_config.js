@@ -1,1 +1,1 @@
-var mnemonic = "notice elite afford energy rate crop tenant december never general mom rather";
+var mnemonic = "tornado pencil learn combine key funny surge ghost lab pull apple resemble";

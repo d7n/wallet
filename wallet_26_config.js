@@ -1,1 +1,1 @@
-var mnemonic = "increase arrow lake auto conduct shift symptom winner flavor rack nice dad";
+var mnemonic = "pond arrow swarm wolf east horn panel dizzy rough end record shield";

@@ -1,1 +1,1 @@
-var mnemonic = "price gospel galaxy negative unfold ozone hint lucky tribe select high enroll";
+var mnemonic = "tongue sing scheme region pact traffic volcano whip wrong clap bar decrease";

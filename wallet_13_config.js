@@ -1,1 +1,1 @@
-var mnemonic = "vocal dial false target inquiry deputy urban cruel worth dream decline tool";
+var mnemonic = "spot million ring wonder alley better slide inner there jealous belt kind";

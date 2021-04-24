@@ -1,1 +1,1 @@
-var mnemonic = "cube museum hedgehog fabric intact little exclude increase ceiling empty lemon quick";
+var mnemonic = "deal legend theory brick afraid accuse cannon copy hunt pact ghost host";

@@ -1,1 +1,1 @@
-var mnemonic = "empower ring pave history pistol spy liberty make happy earth state cliff";
+var mnemonic = "talent waste jacket glow proud blast silly vibrant gauge hope topic decline";

@@ -1,1 +1,1 @@
-var mnemonic = "rude topic dad provide asset nuclear spread current cupboard mule pear issue";
+var mnemonic = "puzzle fade night patch drill bird robot stomach float blue title gloom";

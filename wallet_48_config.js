@@ -1,1 +1,1 @@
-var mnemonic = "trend rib spell frown junior absurd example exile will damp secret forest";
+var mnemonic = "wreck leaf truly find badge neck winner curtain monkey pause drift bone";

@@ -1,1 +1,1 @@
-var mnemonic = "upgrade diary become famous bid kit column during sock convince scare love";
+var mnemonic = "chronic shuffle season pool pottery maze bamboo number insect ecology gorilla girl";

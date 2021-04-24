@@ -1,1 +1,1 @@
-var mnemonic = "certain green day jelly famous music easy melody track pudding jungle almost";
+var mnemonic = "squeeze have neglect account shaft cream build monkey soccer just cabin vehicle";

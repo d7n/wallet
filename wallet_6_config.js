@@ -1,1 +1,1 @@
-var mnemonic = "kid visit eyebrow shove car deal dragon frog cherry misery swear material";
+var mnemonic = "corn beyond turtle front arch mind front spoil fork range young lawsuit";

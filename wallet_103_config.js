@@ -1,1 +1,1 @@
-var mnemonic = "limit clap party plunge inspire flat hurdle crush stock kitchen stamp brick";
+var mnemonic = "trust ensure credit pair shuffle brass vacant dance child nurse talent path";

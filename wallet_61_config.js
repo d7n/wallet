@@ -1,1 +1,1 @@
-var mnemonic = "thunder emerge lounge nothing square wall hero rural collect love water market";
+var mnemonic = "hammer panic hunt onion engine deer treat verify point tattoo warm jungle";

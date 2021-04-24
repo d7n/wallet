@@ -1,1 +1,1 @@
-var mnemonic = "group impose load opinion turn mix assume follow pair oyster vault south";
+var mnemonic = "smoke area ethics great direct lunar deputy caught actual alley promote rescue";

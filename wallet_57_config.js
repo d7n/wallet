@@ -1,1 +1,1 @@
-var mnemonic = "game quantum average write supreme scout clay concert plug autumn toe flag";
+var mnemonic = "half young wear struggle law model found home sketch home local gaze";

@@ -1,1 +1,1 @@
-var mnemonic = "offer junior depart globe dragon payment tribe draft neglect dynamic mansion chapter";
+var mnemonic = "mind dutch rib dumb service push rare chicken salon give sight huge";

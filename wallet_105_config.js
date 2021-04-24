@@ -1,1 +1,1 @@
-var mnemonic = "ethics lonely insane wine winter anger frost energy latin inspire spot resist";
+var mnemonic = "solid defense fantasy coffee retire wagon sight fit catalog obey motion banner";

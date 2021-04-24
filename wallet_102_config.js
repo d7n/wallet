@@ -1,1 +1,1 @@
-var mnemonic = "caught box garden worry goat before click input theory lawn tape fluid";
+var mnemonic = "trash foster travel vintage tape caught vehicle gas hammer alien crisp satisfy";
