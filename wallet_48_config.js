@@ -1,1 +1,1 @@
-var mnemonic = "song dial laugh soon aunt miracle kind evil example like there isolate";
+var mnemonic = "mass clutch push joke canoe gas argue govern under never regret arrange";

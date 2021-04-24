@@ -1,1 +1,1 @@
-var mnemonic = "disagree luxury blouse gift couch define cruise wink impulse prevent salad often";
+var mnemonic = "chicken immune table practice series what maid method floor pig artefact couch";

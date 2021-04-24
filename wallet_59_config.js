@@ -1,1 +1,1 @@
-var mnemonic = "oxygen attract remain donor select spoon desk filter sell sense window stomach";
+var mnemonic = "like globe strategy capable exit nerve absorb hard leader oblige there receive";

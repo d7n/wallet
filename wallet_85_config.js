@@ -1,1 +1,1 @@
-var mnemonic = "east canyon doll aunt drama column purity fan behind silly ability dynamic";
+var mnemonic = "stomach outside ridge glass behave notable grocery box brief cycle goose wife";

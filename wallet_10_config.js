@@ -1,1 +1,1 @@
-var mnemonic = "follow spawn early skirt victory home flower found box glory warrior soon";
+var mnemonic = "spirit tissue pupil chimney omit lazy first inch crush real wine segment";

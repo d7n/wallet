@@ -1,1 +1,1 @@
-var mnemonic = "arena yellow thunder combine peace vague announce tell crop village rabbit heart";
+var mnemonic = "pledge accident vibrant cup solve extend dinosaur road laptop chat able fire";

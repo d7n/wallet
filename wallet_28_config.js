@@ -1,1 +1,1 @@
-var mnemonic = "crystal boring artist resemble border provide creek nephew peasant never source still";
+var mnemonic = "cute just pepper net gain blood output regret parade inject crumble odor";

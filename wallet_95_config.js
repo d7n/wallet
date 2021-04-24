@@ -1,1 +1,1 @@
-var mnemonic = "note warfare later swamp puppy enable caution notable shift tennis addict razor";
+var mnemonic = "kind valve wet vocal spy guess staff lamp fluid tower visual crumble";

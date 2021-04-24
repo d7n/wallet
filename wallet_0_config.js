@@ -1,1 +1,1 @@
-var mnemonic = "piece chronic utility fame more piano slot wolf pull input erosion have";
+var mnemonic = "advice icon timber clever dash another dune soldier doctor right person awesome";

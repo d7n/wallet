@@ -1,1 +1,1 @@
-var mnemonic = "fashion rabbit wall wave spare lens profit list zebra erase trash nasty";
+var mnemonic = "bachelor state fetch news orient merge mad review pride sunset egg resemble";

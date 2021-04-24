@@ -1,1 +1,1 @@
-var mnemonic = "noble ripple gun sting across logic robot boil add they glance win";
+var mnemonic = "travel witness angle slight stem ecology awake auto believe success page purpose";

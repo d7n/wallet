@@ -1,1 +1,1 @@
-var mnemonic = "visual crumble baby grain fit army nerve rain couple wine boat air";
+var mnemonic = "federal window glare sort detail column violin faculty dog scorpion noble need";

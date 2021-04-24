@@ -1,1 +1,1 @@
-var mnemonic = "enrich goose elephant flame veteran one hair lizard seek planet casino couch";
+var mnemonic = "distance lend soldier vital candy hundred among ostrich gentle clown trend system";

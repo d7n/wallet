@@ -1,1 +1,1 @@
-var mnemonic = "muffin equal alcohol renew defy turn hello scorpion car adjust flower dance";
+var mnemonic = "inflict burst vintage utility aisle plug taxi winter sell heavy prepare admit";

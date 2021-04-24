@@ -1,1 +1,1 @@
-var mnemonic = "demand insect kidney critic gentle crash note tornado motor drift trumpet front";
+var mnemonic = "immune dash fruit wolf oppose attract pipe celery loop toddler cover vehicle";

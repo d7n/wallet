@@ -1,1 +1,1 @@
-var mnemonic = "inner wise deputy remind chest dust rack again door crack drama toast";
+var mnemonic = "increase parade cruise toilet end subway strike sunny degree pulse panel wave";

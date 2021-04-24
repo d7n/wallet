@@ -1,1 +1,1 @@
-var mnemonic = "earth surprise yard cereal swallow harvest cabin clinic open arena behave excite";
+var mnemonic = "side dentist field february bicycle rhythm chef panic sadness dress trophy hidden";

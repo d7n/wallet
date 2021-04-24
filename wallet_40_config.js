@@ -1,1 +1,1 @@
-var mnemonic = "syrup praise discover ring urban dance narrow venue blame demise guess crew";
+var mnemonic = "law frequent pulp apology december height flip pyramid taste trend wine indicate";

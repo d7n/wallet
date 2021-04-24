@@ -1,1 +1,1 @@
-var mnemonic = "enlist elevator alarm master resource arctic ability loan wild disorder abandon fresh";
+var mnemonic = "novel resemble caught empty matrix blouse index twist husband snow hold spawn";

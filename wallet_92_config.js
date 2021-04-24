@@ -1,1 +1,1 @@
-var mnemonic = "fiscal grass lens document win learn title photo awake fine chunk shadow";
+var mnemonic = "chimney champion example speed sense midnight doctor goat deal caution insect expect";

@@ -1,1 +1,1 @@
-var mnemonic = "buffalo shine sudden debris just kidney idea flag truth stable jewel guitar";
+var mnemonic = "salon fossil sell truck sweet unique tree improve analyst unfair major machine";

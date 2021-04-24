@@ -1,1 +1,1 @@
-var mnemonic = "exchange tilt above turn yellow now rude limit boss pipe route exotic";
+var mnemonic = "embody include winter since mimic door toss cake gallery remember dignity dove";

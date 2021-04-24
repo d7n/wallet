@@ -1,1 +1,1 @@
-var mnemonic = "motor crew human furnace leg there foil regular gather sport neglect arrange";
+var mnemonic = "oil mesh click empower glass shrug cactus alter deputy project infant attitude";

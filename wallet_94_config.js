@@ -1,1 +1,1 @@
-var mnemonic = "draft theme vintage imitate alien text fun race glare credit arrow knock";
+var mnemonic = "private rapid curious clever animal slot stage supply blue direct rebel modify";

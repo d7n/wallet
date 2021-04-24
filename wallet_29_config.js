@@ -1,1 +1,1 @@
-var mnemonic = "general talk engage opera relax chef test horn journey thumb peanut unable";
+var mnemonic = "castle disorder pass riot abandon left agree path rural adult between metal";

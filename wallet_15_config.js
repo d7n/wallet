@@ -1,1 +1,1 @@
-var mnemonic = "pretty device super rely obscure scene category pause field inmate travel decrease";
+var mnemonic = "tissue normal friend load hybrid change letter comfort metal detail green caught";

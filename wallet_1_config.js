@@ -1,1 +1,1 @@
-var mnemonic = "vacant knock erase ignore repair palace target aunt wage patrol load brave";
+var mnemonic = "enable hat cinnamon quick mercy conduct castle invest tool thank comfort obey";

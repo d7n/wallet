@@ -1,1 +1,1 @@
-var mnemonic = "raven now brief enable enter amazing jazz basket squeeze chuckle tomorrow hat";
+var mnemonic = "metal toast meat pipe truth sudden canoe menu among asset change wish";

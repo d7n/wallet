@@ -1,1 +1,1 @@
-var mnemonic = "trust tomato evidence borrow young donate box just marine then secret attend";
+var mnemonic = "moon sweet fish useful liar neglect average romance fix fly wrist angle";

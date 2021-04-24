@@ -1,1 +1,1 @@
-var mnemonic = "effort winner swear such black express among empty lend visa stem edge";
+var mnemonic = "stuff inside twist rocket meadow accuse body usage sad wonder test cabin";

@@ -1,1 +1,1 @@
-var mnemonic = "have gas cushion between swear toddler annual sample slot artefact evil level";
+var mnemonic = "odor dog forward retreat theory bridge gather unit return live eyebrow coil";

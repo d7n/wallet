@@ -1,1 +1,1 @@
-var mnemonic = "eagle flock orphan latin bracket defy puppy list effort mercy assume stick";
+var mnemonic = "clean basic autumn green amateur guide stay main rich mixed off rent";

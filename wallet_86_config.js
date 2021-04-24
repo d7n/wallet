@@ -1,1 +1,1 @@
-var mnemonic = "keep slice train deliver range expect tank click bread absorb slogan distance";
+var mnemonic = "pudding jungle pupil alley risk wrist release torch pool steak mother funny";

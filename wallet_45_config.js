@@ -1,1 +1,1 @@
-var mnemonic = "buffalo kitchen infant purity agree across apology voyage knee glare analyst that";
+var mnemonic = "song pull opera say deal town liar three obey weather choice also";

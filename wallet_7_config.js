@@ -1,1 +1,1 @@
-var mnemonic = "solid coil quiz pyramid indoor square reward vacant cause canoe spawn because";
+var mnemonic = "argue swamp tuition combine argue swamp crop casual loyal galaxy garment turtle";

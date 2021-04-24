@@ -1,1 +1,1 @@
-var mnemonic = "vacant animal consider come deposit behave giggle lady mimic people acid recall";
+var mnemonic = "win oblige frost horn multiply oval lumber vault patrol advance vague soap";

@@ -1,1 +1,1 @@
-var mnemonic = "artwork pudding expose tower motor eagle appear foster brush entire blur sun";
+var mnemonic = "pony yard clerk fruit tooth tumble romance swap thumb clown rebuild illness";

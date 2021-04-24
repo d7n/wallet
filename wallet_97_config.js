@@ -1,1 +1,1 @@
-var mnemonic = "merge elegant kitchen choice antenna armed put check alter proof input rather";
+var mnemonic = "decline slab rural usual inch must wear staff ostrich equal rely side";

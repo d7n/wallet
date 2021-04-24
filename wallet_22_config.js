@@ -1,1 +1,1 @@
-var mnemonic = "useless breeze involve answer corn oppose swift sick rifle business salad similar";
+var mnemonic = "artwork bubble artist december canal pudding harvest raccoon raise gorilla prevent sea";

@@ -1,1 +1,1 @@
-var mnemonic = "stomach plunge throw garlic culture actor reunion finger install leave bargain light";
+var mnemonic = "wood future subject tank desk ethics month iron guess certain pass north";

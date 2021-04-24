@@ -1,1 +1,1 @@
-var mnemonic = "leopard divorce replace harvest flavor degree picnic world exile asset tone unhappy";
+var mnemonic = "begin ball cause inflict card bind shrug possible note gospel include tower";

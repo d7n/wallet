@@ -1,1 +1,1 @@
-var mnemonic = "coach mad joy innocent area toy dinosaur lake hen robust wild giggle";
+var mnemonic = "involve issue patch orient unknown sweet eternal glance renew tobacco report army";

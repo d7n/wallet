@@ -1,1 +1,1 @@
-var mnemonic = "fuel enhance section window rely upon mix lunar bring traffic evidence odor";
+var mnemonic = "elevator receive page modify box toilet word actual album essence anxiety word";

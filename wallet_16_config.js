@@ -1,1 +1,1 @@
-var mnemonic = "accuse verb intact dust family kidney slam silver wool enough tide observe";
+var mnemonic = "make high pact check carpet benefit zebra acid wheat glow impulse stadium";

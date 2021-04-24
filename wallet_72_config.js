@@ -1,1 +1,1 @@
-var mnemonic = "disorder prison analyst memory diary barely angle use peanut annual initial essence";
+var mnemonic = "become design unfair arctic dose ribbon float vapor valley human peasant journey";

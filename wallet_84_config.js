@@ -1,1 +1,1 @@
-var mnemonic = "peace oyster fragile attend loan envelope staff height quarter attract donate main";
+var mnemonic = "deputy stamp believe upgrade anxiety nest island erase bus human mansion time";

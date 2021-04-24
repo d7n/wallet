@@ -1,1 +1,1 @@
-var mnemonic = "trip glass skirt coast rally wink become load actor fashion approve live";
+var mnemonic = "injury table inmate title mail city creek easy copper mail sentence cattle";

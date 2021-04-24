@@ -1,1 +1,1 @@
-var mnemonic = "refuse champion seven bright usual spider talk present flush finish tomato ready";
+var mnemonic = "bachelor link code bid gap column dolphin muscle crystal stairs actual shoot";

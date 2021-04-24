@@ -1,1 +1,1 @@
-var mnemonic = "funny nerve disorder air hint barrel evoke input used goose elevator tuna";
+var mnemonic = "liar hour order shift fiscal alley noodle fluid ordinary street duty cry";

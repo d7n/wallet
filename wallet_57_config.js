@@ -1,1 +1,1 @@
-var mnemonic = "melody return parent century dutch ill task grid install finger canvas soldier";
+var mnemonic = "street erosion found birth artist diary ceiling half intact shop shoulder congress";

@@ -1,1 +1,1 @@
-var mnemonic = "mimic online magnet picture melt manage annual robot suffer purchase code cry";
+var mnemonic = "test divide ill crack undo wreck bracket cage skill better sweet total";

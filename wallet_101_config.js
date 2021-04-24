@@ -1,1 +1,1 @@
-var mnemonic = "wall shaft swift firm cube among envelope media youth warfare bonus dance";
+var mnemonic = "damp arena bicycle junior rice stem lawn ripple broken type type hidden";

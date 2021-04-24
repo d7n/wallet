@@ -1,1 +1,1 @@
-var mnemonic = "flat nuclear magic dirt prison head discover hotel scheme absorb spawn basic";
+var mnemonic = "seven pumpkin rich end correct beef ceiling alter around idea physical goose";

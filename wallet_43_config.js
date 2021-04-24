@@ -1,1 +1,1 @@
-var mnemonic = "disease unlock dash engine mercy finish spare arrow leader actual skate average";
+var mnemonic = "believe timber civil cake stone make uncle swallow damage produce sorry typical";

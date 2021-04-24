@@ -1,1 +1,1 @@
-var mnemonic = "return black pigeon web cup hungry gloom nation over shine include common";
+var mnemonic = "deny notice network rich pistol income work material bike also donate indoor";

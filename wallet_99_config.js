@@ -1,1 +1,1 @@
-var mnemonic = "adapt plug seven tragic real element leg tuition comfort start crucial behind";
+var mnemonic = "fancy oven width chronic chimney recycle drastic else valid bottom ripple bundle";

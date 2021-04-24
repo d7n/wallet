@@ -1,1 +1,1 @@
-var mnemonic = "work staff mail cost ridge weather chicken mushroom chef require auction draw";
+var mnemonic = "angle toddler jewel accident ice tide paper crucial stone jewel raw finger";

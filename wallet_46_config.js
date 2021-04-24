@@ -1,1 +1,1 @@
-var mnemonic = "mind gadget view skin pond summer frozen blade ask injury pilot dawn";
+var mnemonic = "scale critic price devote time next inmate burden armed broom ordinary lens";

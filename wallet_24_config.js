@@ -1,1 +1,1 @@
-var mnemonic = "false avoid exercise trouble test bread narrow van vote flag thrive clay";
+var mnemonic = "pelican giant promote voyage journey brother setup spike cradle total grid way";

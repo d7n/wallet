@@ -1,1 +1,1 @@
-var mnemonic = "crowd reopen wolf mimic belt modify picnic salon mistake bar ready wage";
+var mnemonic = "artwork midnight execute tonight rescue boil frame cabbage faith anchor picture ready";

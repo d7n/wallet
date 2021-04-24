@@ -1,1 +1,1 @@
-var mnemonic = "dash flush demand estate fiscal goddess excite tuna candy scorpion nature junk";
+var mnemonic = "push account thought jewel pudding either mean story please total grant blue";

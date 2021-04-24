@@ -1,1 +1,1 @@
-var mnemonic = "right pitch bike assume truck together buyer degree prison flower remember arch";
+var mnemonic = "crack skull control market know winter rural noodle brick brave attract answer";

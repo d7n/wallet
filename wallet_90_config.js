@@ -1,1 +1,1 @@
-var mnemonic = "observe box ahead return aerobic praise piece prevent forward menu split live";
+var mnemonic = "kiss spirit kidney very genius ginger upper grab during treat fashion soon";

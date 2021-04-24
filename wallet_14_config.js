@@ -1,1 +1,1 @@
-var mnemonic = "way shy slide discover obscure nothing drill elbow brass eagle execute source";
+var mnemonic = "fever damp shaft toy fire energy chuckle orient surround camp spread banana";

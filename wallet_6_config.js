@@ -1,1 +1,1 @@
-var mnemonic = "pudding split lava monkey nature until since jeans pride bike project original";
+var mnemonic = "parade tank number unveil diary twenty quarter ghost broccoli nominee wisdom valve";

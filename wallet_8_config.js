@@ -1,1 +1,1 @@
-var mnemonic = "once explain egg mesh advice blade ketchup output twelve search rain cash";
+var mnemonic = "forest decorate mesh crack home uncle gasp fiscal misery search story quality";

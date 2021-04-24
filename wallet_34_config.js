@@ -1,1 +1,1 @@
-var mnemonic = "balcony motion win size someone tent replace episode slam grass razor million";
+var mnemonic = "apple youth until mechanic online empower enhance rabbit uniform future razor vote";

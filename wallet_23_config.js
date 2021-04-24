@@ -1,1 +1,1 @@
-var mnemonic = "voice battle craft year tool trophy neck brush crisp grace pause rival";
+var mnemonic = "coil tonight notice join above thank fury brisk empty coast effort heart";

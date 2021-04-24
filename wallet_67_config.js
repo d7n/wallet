@@ -1,1 +1,1 @@
-var mnemonic = "stone law execute usual little despair often join fortune squeeze solve scorpion";
+var mnemonic = "swing zoo twenty rain absurd tomorrow toilet frog return time apple dilemma";

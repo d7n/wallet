@@ -1,1 +1,1 @@
-var mnemonic = "rescue expand focus snake oxygen depend weapon grocery nice balcony hour ring";
+var mnemonic = "famous spawn mandate oven zero bus ability until resist have theory cross";

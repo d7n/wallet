@@ -1,1 +1,1 @@
-var mnemonic = "party spin cruel lake two basket ski jazz wheel lab surge spin";
+var mnemonic = "unlock stock thought champion toy stem click sense electric dirt pave top";

@@ -1,1 +1,1 @@
-var mnemonic = "subway payment guard venue material cycle census lady frequent end advance car";
+var mnemonic = "topple plastic fence plate coin sure job hollow glue paper seek diamond";

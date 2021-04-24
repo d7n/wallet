@@ -1,1 +1,1 @@
-var mnemonic = "future cost civil bike torch upon swallow wolf cage vacant eagle wagon";
+var mnemonic = "fold coffee title magnet practice airport anger honey crime spare sample maximum";

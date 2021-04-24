@@ -1,1 +1,1 @@
-var mnemonic = "half vague lawn size tip wool category leave address width whisper saddle";
+var mnemonic = "slot real auto finish poverty hello example hockey trick core seat update";

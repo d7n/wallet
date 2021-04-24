@@ -1,1 +1,1 @@
-var mnemonic = "else trip profit rude acoustic pluck aisle link print purity almost blast";
+var mnemonic = "top absurd weekend bean obey submit stool stand inner possible boss solid";

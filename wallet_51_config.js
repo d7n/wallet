@@ -1,1 +1,1 @@
-var mnemonic = "fringe collect arm cushion collect best search fragile update ill mention sauce";
+var mnemonic = "bag garlic chest feature long table glare twist lucky acid planet alcohol";

@@ -1,1 +1,1 @@
-var mnemonic = "arrest guard identify you craft year humor ready pulse panda current claw";
+var mnemonic = "bubble faint grass conduct theory enhance student boat crawl exhaust faint scout";

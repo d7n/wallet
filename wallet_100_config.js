@@ -1,1 +1,1 @@
-var mnemonic = "sleep limb knife mix faculty trial action climb basket source decline game";
+var mnemonic = "tide mobile purse upper middle addict list insect advice bar broom visa";

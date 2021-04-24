@@ -1,1 +1,1 @@
-var mnemonic = "alcohol tobacco olympic obscure inform mansion duty random bring session once hello";
+var mnemonic = "what elite bundle consider knee census magnet bag link dawn egg front";

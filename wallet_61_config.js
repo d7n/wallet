@@ -1,1 +1,1 @@
-var mnemonic = "audit gospel analyst talent cover phone kidney snack monitor above until flash";
+var mnemonic = "champion movie shop seat pumpkin transfer oval truck candy sponsor cattle lawn";

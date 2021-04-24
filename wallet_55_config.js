@@ -1,1 +1,1 @@
-var mnemonic = "exit move life hole village weekend evidence erupt summer car eight report";
+var mnemonic = "upset muffin engine seat captain return indicate smile audit lunch physical regular";

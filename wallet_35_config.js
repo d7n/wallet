@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur erode topic rely account movie online plate super shallow payment famous";
+var mnemonic = "tornado total repair village dose parade obscure pyramid finish ripple climb toast";

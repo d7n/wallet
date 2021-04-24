@@ -1,1 +1,1 @@
-var mnemonic = "please crash stable mobile right talk time also angle still alarm teach";
+var mnemonic = "wear echo stock expose denial limit clog birth reunion silk laugh rough";

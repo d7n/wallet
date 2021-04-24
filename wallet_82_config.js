@@ -1,1 +1,1 @@
-var mnemonic = "salmon female want argue marble bamboo gather display brush wheel embrace october";
+var mnemonic = "world broom second tired injury false predict woman wife neglect property avoid";

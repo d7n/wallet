@@ -1,1 +1,1 @@
-var mnemonic = "swamp calm model rabbit rigid left avocado picture hundred fury undo clog";
+var mnemonic = "forward giant south army liberty drift staff install boat guitar crouch pretty";
