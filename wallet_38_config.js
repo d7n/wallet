@@ -1,1 +1,1 @@
-var mnemonic = "bone hawk donor second glass utility hen illegal stadium cupboard spawn lunch";
+var mnemonic = "depth conduct arm movie assume will shift stick solid cabin company story";

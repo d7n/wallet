@@ -1,1 +1,1 @@
-var mnemonic = "jaguar acquire hybrid latin brief twenty eager confirm mimic smoke wing pride";
+var mnemonic = "retreat opera interest oblige gas aspect boost dress limb boss burden daughter";

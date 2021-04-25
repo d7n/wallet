@@ -1,1 +1,1 @@
-var mnemonic = "coral destroy message drip cart short pioneer element surface fossil century ceiling";
+var mnemonic = "filter beef travel chair act welcome evil recall notable solution sister bulb";

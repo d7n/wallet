@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog acid borrow split swift mimic foster art west vendor rent act";
+var mnemonic = "tower saddle very vapor patient marine slight laugh conduct oyster aisle wool";

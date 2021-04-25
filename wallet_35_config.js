@@ -1,1 +1,1 @@
-var mnemonic = "phrase fence buzz measure century state exhaust awkward lion faculty spell oven";
+var mnemonic = "master common whip angry build safe harsh debate sad mail couple click";

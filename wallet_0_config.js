@@ -1,1 +1,1 @@
-var mnemonic = "success welcome small trouble notice sing impose liquid song leisure make that";
+var mnemonic = "sentence mother purity mobile concert organ talent price click empower bronze oil";

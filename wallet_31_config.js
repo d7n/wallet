@@ -1,1 +1,1 @@
-var mnemonic = "report wonder patient achieve digital track talent betray creek discover floor any";
+var mnemonic = "month uniform pottery matrix assist rib glass rich anchor resemble garment large";

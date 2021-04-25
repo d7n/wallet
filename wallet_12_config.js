@@ -1,1 +1,1 @@
-var mnemonic = "now glory early machine bacon tray decide depart little bulk nose army";
+var mnemonic = "upon tool hen brother firm brown winner office aunt mad arch empty";

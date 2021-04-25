@@ -1,1 +1,1 @@
-var mnemonic = "primary weapon train crowd foam edge guitar ridge lady wash survey misery";
+var mnemonic = "dinosaur illness square absorb solar gospel tornado ride lottery punch bird when";

@@ -1,1 +1,1 @@
-var mnemonic = "swap lecture fetch say situate shine smart case agree renew host betray";
+var mnemonic = "unaware nest hurdle bird crucial click slot palm dismiss act drill debris";

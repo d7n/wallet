@@ -1,1 +1,1 @@
-var mnemonic = "again document shoe later pony above tomorrow refuse cable shallow judge shoot";
+var mnemonic = "tray earn margin hover company island giggle rather sauce cotton damp core";

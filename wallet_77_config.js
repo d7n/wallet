@@ -1,1 +1,1 @@
-var mnemonic = "dress grunt dry benefit step velvet extra joke dad farm cannon brother";
+var mnemonic = "olive faith pet horse bulk multiply course cushion fashion judge congress maximum";

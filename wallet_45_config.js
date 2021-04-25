@@ -1,1 +1,1 @@
-var mnemonic = "tribe canal deal robust gym squirrel clap note hockey badge quarter famous";
+var mnemonic = "broom slogan tired favorite tip enemy champion morning update spirit rebuild vendor";

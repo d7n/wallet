@@ -1,1 +1,1 @@
-var mnemonic = "worth swap noodle fringe insect plate place chaos forum dream quote grain";
+var mnemonic = "super baby bounce replace near delay helmet wife gym best shove turkey";

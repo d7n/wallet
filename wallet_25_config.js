@@ -1,1 +1,1 @@
-var mnemonic = "cactus fiscal advice recipe pizza call weather chunk tank hope crater excuse";
+var mnemonic = "area term ripple trap fog hour ensure leader remain board aware gloom";

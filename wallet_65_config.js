@@ -1,1 +1,1 @@
-var mnemonic = "champion exchange between fabric unaware elevator pepper goat original mosquito crane guide";
+var mnemonic = "mandate asset junior half good random step trick roast marine crazy bike";

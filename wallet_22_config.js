@@ -1,1 +1,1 @@
-var mnemonic = "void seek latin wire sword scare session record body pulse cruel fork";
+var mnemonic = "tumble asthma sand page gadget myth girl dress token endorse vehicle impulse";

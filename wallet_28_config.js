@@ -1,1 +1,1 @@
-var mnemonic = "sport observe canal despair nut chimney tone topic jazz select school crush";
+var mnemonic = "unhappy pet rich blouse mean afraid twenty they bring enact extend critic";

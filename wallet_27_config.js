@@ -1,1 +1,1 @@
-var mnemonic = "follow ritual promote dice movie gadget name life expose very parade sudden";
+var mnemonic = "random worth winter zebra sword thing despair stuff hurdle try ginger expire";

@@ -1,1 +1,1 @@
-var mnemonic = "loud victory until hospital hold deputy trim acoustic shoulder glue draft harbor";
+var mnemonic = "private vivid lava minute pitch upper bean wash avoid father strike frequent";

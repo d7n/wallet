@@ -1,1 +1,1 @@
-var mnemonic = "clinic stick text prevent brave boil dress similar one tape maid fog";
+var mnemonic = "taxi text throw jazz sugar simple inch matter lava bubble bullet pond";

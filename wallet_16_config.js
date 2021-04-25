@@ -1,1 +1,1 @@
-var mnemonic = "cloth below deliver thunder object urban legal carry blush label earn attitude";
+var mnemonic = "breeze interest system sudden drip sick glad length outer member famous novel";

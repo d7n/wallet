@@ -1,1 +1,1 @@
-var mnemonic = "royal lab mechanic sure kit burden debate run lava address annual dust";
+var mnemonic = "remind bomb belt sure ready thumb luggage evidence blue leader solution poet";

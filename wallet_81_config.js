@@ -1,1 +1,1 @@
-var mnemonic = "wrong seminar chunk observe need glare stone auto over swift brick globe";
+var mnemonic = "ignore hockey soap dry crumble strategy casual clean achieve want heart theme";

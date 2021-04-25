@@ -1,1 +1,1 @@
-var mnemonic = "sausage february insane shield setup aspect bargain other upper advice crew million";
+var mnemonic = "camera trust evolve gate round total gas thrive earn lunar vacuum lion";

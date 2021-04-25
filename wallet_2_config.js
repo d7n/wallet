@@ -1,1 +1,1 @@
-var mnemonic = "gas symptom extend sister arrow slab oven trigger burger bracket scatter margin";
+var mnemonic = "goat pencil pony pudding device squirrel venture lucky force service firm excess";

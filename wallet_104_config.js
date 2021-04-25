@@ -1,1 +1,1 @@
-var mnemonic = "right disorder stadium defense quiz lyrics huge beach trick soda account identify";
+var mnemonic = "attack family anxiety citizen vote cheese hill strike earth author lunch tired";

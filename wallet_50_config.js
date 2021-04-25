@@ -1,1 +1,1 @@
-var mnemonic = "convince swift fun inside phone click midnight popular retire extra divide rapid";
+var mnemonic = "topple wrong ozone joke library any gym dragon wish prefer chase capital";

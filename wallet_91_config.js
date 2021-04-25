@@ -1,1 +1,1 @@
-var mnemonic = "erase require young exercise mail arrive soap false hint black monkey slice";
+var mnemonic = "kiss flash grief foam build struggle disorder acquire enjoy spider protect never";

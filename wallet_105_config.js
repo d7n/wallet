@@ -1,1 +1,1 @@
-var mnemonic = "symbol sail nest rate dragon drip shine yellow million edit toilet into";
+var mnemonic = "wasp walnut oval foil leopard tennis advice maze pulp honey manage pitch";

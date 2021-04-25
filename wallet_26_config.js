@@ -1,1 +1,1 @@
-var mnemonic = "tattoo tide dismiss vessel boil seek wink shrimp jelly gauge hunt dirt";
+var mnemonic = "gesture salad kind obscure play laptop physical knee since rich claim frown";

@@ -1,1 +1,1 @@
-var mnemonic = "peanut achieve flight belt circle slogan hood regular cargo work heart draft";
+var mnemonic = "surge easy bicycle gentle east year easy very flat domain end hospital";

@@ -1,1 +1,1 @@
-var mnemonic = "route desert believe together sphere mansion beach glass prepare key mistake jelly";
+var mnemonic = "arm scale rent sponsor help step large pair sign say people begin";

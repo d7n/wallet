@@ -1,1 +1,1 @@
-var mnemonic = "struggle remind harsh tattoo detect chalk cruise token zoo silent drive identify";
+var mnemonic = "above suggest goat unable add slab business auction blouse bridge liquid vanish";

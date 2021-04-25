@@ -1,1 +1,1 @@
-var mnemonic = "stumble frown north grow current kit member lemon chicken congress drama local";
+var mnemonic = "pet human manual game slogan quiz ocean path tattoo crucial quarter two";

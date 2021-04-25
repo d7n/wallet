@@ -1,1 +1,1 @@
-var mnemonic = "before trumpet photo type jump rude journey potato shiver impulse decline slide";
+var mnemonic = "proof leopard whisper matrix atom cradle dry stand economy proof charge width";

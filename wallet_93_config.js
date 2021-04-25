@@ -1,1 +1,1 @@
-var mnemonic = "frost zone jump soap team purchase culture climb job permit hammer charge";
+var mnemonic = "pigeon sunset immune fabric shoe inside stand follow march pupil adjust state";

@@ -1,1 +1,1 @@
-var mnemonic = "cricket tobacco lyrics village nuclear clown fix decade silent furnace runway organ";
+var mnemonic = "crash topic more primary boat rice leaf any rapid opinion expose type";

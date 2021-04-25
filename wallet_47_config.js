@@ -1,1 +1,1 @@
-var mnemonic = "resemble blast enhance hazard when grain point salmon slogan polar desert bachelor";
+var mnemonic = "dice coach laugh bubble dirt flower erupt goat furnace sphere where more";

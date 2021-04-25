@@ -1,1 +1,1 @@
-var mnemonic = "toy puzzle catch ensure good between report garage move crash switch various";
+var mnemonic = "lock zebra lemon side version cigar crew village skull long century forum";

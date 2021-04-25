@@ -1,1 +1,1 @@
-var mnemonic = "account heavy latin course robust evolve window eyebrow sugar burst crack candy";
+var mnemonic = "try token spend midnight solid august detail senior stuff human jealous drum";

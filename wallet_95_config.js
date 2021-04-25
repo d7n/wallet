@@ -1,1 +1,1 @@
-var mnemonic = "oppose obey edit bottom labor divert palace tragic radio various approve future";
+var mnemonic = "useful speak milk expose include bracket ready curious spin normal hedgehog curtain";

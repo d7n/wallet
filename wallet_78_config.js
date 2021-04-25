@@ -1,1 +1,1 @@
-var mnemonic = "fashion voyage decorate drastic volume game coffee divide use drive session face";
+var mnemonic = "enlist disease attitude reopen transfer culture column empty tilt foster alien vibrant";

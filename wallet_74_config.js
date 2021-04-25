@@ -1,1 +1,1 @@
-var mnemonic = "clerk arrest isolate relief flower bomb extra ripple thumb ankle lawsuit spy";
+var mnemonic = "army school image say few bus style aunt farm river flat lens";

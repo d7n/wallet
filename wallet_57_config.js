@@ -1,1 +1,1 @@
-var mnemonic = "inner rubber swarm skin sauce bless twin tonight secret police diesel era";
+var mnemonic = "canoe session traffic clock hamster install trouble wrong stand carpet cactus vacuum";

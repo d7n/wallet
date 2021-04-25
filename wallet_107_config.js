@@ -1,1 +1,1 @@
-var mnemonic = "blanket upon bullet shop radio source intact badge globe traffic actual under";
+var mnemonic = "guard surface share fortune glue suffer author suggest expose wolf receive curtain";

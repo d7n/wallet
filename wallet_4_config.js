@@ -1,1 +1,1 @@
-var mnemonic = "purity enjoy lock solution destroy ability fatal journey wolf wool jazz away";
+var mnemonic = "pottery jewel pill learn clean salt fish panther ordinary intact two deputy";

@@ -1,1 +1,1 @@
-var mnemonic = "april obscure bracket fall sea drastic elegant music day bitter frame lamp";
+var mnemonic = "hat phrase become catch concert crop catalog inner wool extra author person";

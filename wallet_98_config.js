@@ -1,1 +1,1 @@
-var mnemonic = "trim hybrid cash purse grace sustain cry sand outer daring eternal obey";
+var mnemonic = "nasty copper napkin marriage prepare spy hurdle section gentle entire decide captain";

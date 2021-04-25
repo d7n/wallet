@@ -1,1 +1,1 @@
-var mnemonic = "trumpet double hobby flush avoid chat carpet response cave peasant march drip";
+var mnemonic = "come vast business snow prosper lens finish outside smart equip motor coil";

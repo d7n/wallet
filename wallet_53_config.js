@@ -1,1 +1,1 @@
-var mnemonic = "casino large kit cute monster salon evil fame carpet orchard metal private";
+var mnemonic = "travel clock erupt village inject current empty attitude card use practice zero";

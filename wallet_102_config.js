@@ -1,1 +1,1 @@
-var mnemonic = "upset entry amazing sting flip purpose select such stock scheme sad travel";
+var mnemonic = "sadness inflict throw vacuum glory matrix ceiling broom glimpse hurry gauge dilemma";

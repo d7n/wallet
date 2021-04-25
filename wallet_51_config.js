@@ -1,1 +1,1 @@
-var mnemonic = "castle supply main moment fuel weekend plunge kitchen destroy pyramid please flavor";
+var mnemonic = "marriage sport foster noodle romance runway dignity lock pioneer purity domain spirit";

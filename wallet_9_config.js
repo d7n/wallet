@@ -1,1 +1,1 @@
-var mnemonic = "deputy celery either always this shed sphere satisfy scene loan elegant car";
+var mnemonic = "promote tragic gym robust hunt skirt cliff ancient soft erosion retreat potato";

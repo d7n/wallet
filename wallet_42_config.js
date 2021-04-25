@@ -1,1 +1,1 @@
-var mnemonic = "sick crunch jelly bronze chimney speak soul ostrich era crunch warm limit";
+var mnemonic = "cigar such property again someone chase stick aspect section mixture labor copy";

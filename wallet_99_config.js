@@ -1,1 +1,1 @@
-var mnemonic = "film sorry nut announce label mystery essence afraid promote salmon fog wall";
+var mnemonic = "broken inner verb dynamic exchange music video crowd agent endless hole repeat";

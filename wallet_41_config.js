@@ -1,1 +1,1 @@
-var mnemonic = "also impose echo brave lottery emerge laundry blind confirm vendor cruise false";
+var mnemonic = "broom inhale receive ability angry delay shed lottery romance mandate engine shuffle";

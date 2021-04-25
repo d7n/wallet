@@ -1,1 +1,1 @@
-var mnemonic = "nephew door grace absurd lab damp volume tennis bullet drama cliff drill";
+var mnemonic = "flee inherit rapid render hen valid mosquito carpet shock champion vapor glance";

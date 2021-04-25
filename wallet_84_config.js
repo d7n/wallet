@@ -1,1 +1,1 @@
-var mnemonic = "give broom diet print able clerk dove spend robot found drink collect";
+var mnemonic = "law ready myself milk lyrics hero rich girl tiny liquid copper boy";

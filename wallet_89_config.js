@@ -1,1 +1,1 @@
-var mnemonic = "liberty pilot spring girl divide radar fit radio inquiry occur grace vocal";
+var mnemonic = "amused daring dream catalog soda control neither approve donor seed diary crowd";

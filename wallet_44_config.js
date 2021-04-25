@@ -1,1 +1,1 @@
-var mnemonic = "buzz culture vast please raccoon fatal list useless inhale submit solid subway";
+var mnemonic = "behind lion combine give split art book coil pupil name example scare";

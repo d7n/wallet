@@ -1,1 +1,1 @@
-var mnemonic = "olympic humble health guard later quit name search churn potato excuse disagree";
+var mnemonic = "comic art rent away picnic afford series catalog off palm hub curious";

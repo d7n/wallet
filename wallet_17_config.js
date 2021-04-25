@@ -1,1 +1,1 @@
-var mnemonic = "impact prison praise distance holiday style manage squirrel hour voyage genius oven";
+var mnemonic = "expire legend own labor marble pencil garage fox orange vintage sound choose";

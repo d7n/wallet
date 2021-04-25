@@ -1,1 +1,1 @@
-var mnemonic = "issue predict stamp bid resemble solve royal beyond kitchen wine order guide";
+var mnemonic = "sense thumb crystal foil system price ticket thank spoil renew write inform";

@@ -1,1 +1,1 @@
-var mnemonic = "post impose buzz glide orphan object blind under task cabbage later glad";
+var mnemonic = "small ethics plastic certain thrive best lesson squirrel bag siren oxygen return";

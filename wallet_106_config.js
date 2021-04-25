@@ -1,1 +1,1 @@
-var mnemonic = "day gravity ill arrive okay divorce disorder raise turkey action soft slam";
+var mnemonic = "control fringe advance pool salute tone ozone cheap neutral accuse jump flag";

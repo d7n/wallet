@@ -1,1 +1,1 @@
-var mnemonic = "piano now sad that disease satisfy shield just panda funny cherry until";
+var mnemonic = "explain horror two benefit panda face fiber father lazy walnut negative bird";

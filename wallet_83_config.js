@@ -1,1 +1,1 @@
-var mnemonic = "unfold feel oblige erode slogan once rapid suit ordinary noble combine knock";
+var mnemonic = "fashion youth chest intact vacant kid address ranch shadow town chief claim";

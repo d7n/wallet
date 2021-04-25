@@ -1,1 +1,1 @@
-var mnemonic = "toast faint gold topic rude spin rebuild matrix funny bar length basic";
+var mnemonic = "fork garage process senior rough front mushroom print torch usage problem evil";

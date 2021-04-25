@@ -1,1 +1,1 @@
-var mnemonic = "dragon rather addict share nuclear dumb nasty until powder crazy foot cancel";
+var mnemonic = "melt shaft guitar object betray fall sustain outer denial fever tag ten";

@@ -1,1 +1,1 @@
-var mnemonic = "expose club save solve puppy rice radio social south poet man april";
+var mnemonic = "void quote memory addict snow pelican useless fiber rely bracket maple bubble";

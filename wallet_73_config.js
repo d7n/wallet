@@ -1,1 +1,1 @@
-var mnemonic = "desk source drip mail solution portion share tide pistol man wide expose";
+var mnemonic = "pet ribbon age provide maze vague dragon regular refuse enough blast kitten";

@@ -1,1 +1,1 @@
-var mnemonic = "vital exile jungle powder want exhibit defense design frequent term strike rug";
+var mnemonic = "neglect innocent wine trip cage unusual mixed between desk raccoon usual fiscal";

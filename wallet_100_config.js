@@ -1,1 +1,1 @@
-var mnemonic = "survey rubber develop grape blanket glimpse ancient trick pyramid analyst bicycle rude";
+var mnemonic = "crush outer develop alien fault include fix split cattle media discover attract";

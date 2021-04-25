@@ -1,1 +1,1 @@
-var mnemonic = "humble doll month hotel now neck match coconut devote arm good mountain";
+var mnemonic = "cook thought flock reason denial motor island melt vital tonight wedding rely";

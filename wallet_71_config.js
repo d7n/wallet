@@ -1,1 +1,1 @@
-var mnemonic = "pattern exit palm write rate cluster orphan gown old abuse police dynamic";
+var mnemonic = "identify rapid sick balance rebuild catalog advice pizza off pond logic relax";

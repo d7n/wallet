@@ -1,1 +1,1 @@
-var mnemonic = "discover wonder domain blood side kiwi age insect identify random deny inherit";
+var mnemonic = "cage battle unveil cabbage outside cram you city flush diary mystery ketchup";

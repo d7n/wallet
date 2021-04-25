@@ -1,1 +1,1 @@
-var mnemonic = "strong develop casino armed giggle ivory chronic lobster forget unknown shove aerobic";
+var mnemonic = "concert tip despair sun ozone govern stereo fantasy vehicle bargain report tobacco";

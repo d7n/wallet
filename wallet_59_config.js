@@ -1,1 +1,1 @@
-var mnemonic = "endorse apology question illness orphan antenna utility clown upper hundred soon index";
+var mnemonic = "brisk wasp spring crew deal swallow tissue split wall brisk gravity polar";

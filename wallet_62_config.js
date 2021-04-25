@@ -1,1 +1,1 @@
-var mnemonic = "bullet cruel ordinary neck aim mountain clap oak waste cherry slide latin";
+var mnemonic = "govern alarm coconut route cat rhythm exchange diamond famous any cushion sunset";

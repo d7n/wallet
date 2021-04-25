@@ -1,1 +1,1 @@
-var mnemonic = "menu latin attitude report relief trim anger peace trend explain witness unusual";
+var mnemonic = "element kind spoil abuse arch story clarify moral inner wire tent inch";

@@ -1,1 +1,1 @@
-var mnemonic = "upper clay warrior soldier copy desk suit monitor face outer auction budget";
+var mnemonic = "click bike bench author snap roast sea slim skate payment ahead trust";

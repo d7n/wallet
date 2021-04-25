@@ -1,1 +1,1 @@
-var mnemonic = "bunker glare sting flash huge scorpion cup under option dad give miracle";
+var mnemonic = "feature autumn shoulder name trend exchange float mother ritual blind ignore abstract";

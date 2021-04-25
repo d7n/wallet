@@ -1,1 +1,1 @@
-var mnemonic = "electric length park toy boat square useless champion leader focus fetch rack";
+var mnemonic = "tissue culture permit current melody predict labor still lamp ask second oyster";

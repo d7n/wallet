@@ -1,1 +1,1 @@
-var mnemonic = "fetch parade force firm clarify bench cannon destroy jealous weird patrol embody";
+var mnemonic = "object shuffle harsh certain aware express dignity material dog beyond hotel deer";

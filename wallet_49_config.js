@@ -1,1 +1,1 @@
-var mnemonic = "amount produce fantasy physical nice motor debris display camera explain broken arrange";
+var mnemonic = "table any view cheese across during donor indoor omit divorce gap crack";

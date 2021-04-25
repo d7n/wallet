@@ -1,1 +1,1 @@
-var mnemonic = "also purchase hover grow notable average sentence final lion erode subject security";
+var mnemonic = "zoo repair cake step polar unhappy mixture draw blind biology arrive dawn";

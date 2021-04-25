@@ -1,1 +1,1 @@
-var mnemonic = "april render oyster pottery gallery black amount shy meadow month cancel staff";
+var mnemonic = "afford chair arch ankle rug jaguar wing phrase funny patrol bag permit";

@@ -1,1 +1,1 @@
-var mnemonic = "grape give orient impact similar glare engage purpose panther owner predict spot";
+var mnemonic = "confirm brush siren system rigid circle opera write turkey nose draw program";

@@ -1,1 +1,1 @@
-var mnemonic = "insane bubble grit about number brown flight mail tumble catalog expire crew";
+var mnemonic = "flavor leave ethics regret boat property fluid salute cupboard deposit excess retire";

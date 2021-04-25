@@ -1,1 +1,1 @@
-var mnemonic = "grief soul film science guilt viable pulp wish bright public thumb code";
+var mnemonic = "course what cry catch much mixture minimum identify shoot unaware above silent";

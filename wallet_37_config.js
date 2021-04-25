@@ -1,1 +1,1 @@
-var mnemonic = "private film estate kitten foot aerobic ethics quality clever chest bottom someone";
+var mnemonic = "draft burst design surge coffee cool coast capable once lyrics fly language";

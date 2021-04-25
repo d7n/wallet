@@ -1,1 +1,1 @@
-var mnemonic = "ghost truck suggest cruise eternal weird ready survey awesome crowd alpha stick";
+var mnemonic = "next thought include toy useless taste maple hungry busy minor abstract solid";

@@ -1,1 +1,1 @@
-var mnemonic = "wood dynamic learn oven fresh until mix square calm donor property avoid";
+var mnemonic = "junior game above one region comfort upset kitten answer table donkey curve";
