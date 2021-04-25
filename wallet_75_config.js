@@ -1,1 +1,1 @@
-var mnemonic = "unable seek rely bind scout board art weasel next few post profit";
+var mnemonic = "cool six tower plunge visa swarm bag harvest phrase puppy actress novel";

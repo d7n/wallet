@@ -1,1 +1,1 @@
-var mnemonic = "rural thank usage clinic clinic crash front refuse fringe must purchase never";
+var mnemonic = "ahead patient demise exile ready prepare pumpkin frequent adult fitness oven suffer";

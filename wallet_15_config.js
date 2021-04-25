@@ -1,1 +1,1 @@
-var mnemonic = "current pen fetch reunion shiver envelope muffin unfold crop grass tiny vintage";
+var mnemonic = "merge helmet rabbit enroll whip can shield chuckle project tomorrow switch wear";

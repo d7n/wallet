@@ -1,1 +1,1 @@
-var mnemonic = "salad glad couple final pizza orbit plug mosquito impose argue put minute";
+var mnemonic = "mean yard champion social tortoise faculty wash wife praise neglect way deer";

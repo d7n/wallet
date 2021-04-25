@@ -1,1 +1,1 @@
-var mnemonic = "sound tower shoulder frequent flight destroy annual spy april observe baby become";
+var mnemonic = "annual reduce example budget blast forward exchange certain spike crawl text hero";

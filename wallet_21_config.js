@@ -1,1 +1,1 @@
-var mnemonic = "satisfy file admit hard bridge coral rotate novel genuine destroy chimney ivory";
+var mnemonic = "swear soon flock oyster yard pride must boost turtle mountain pottery grape";

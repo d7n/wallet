@@ -1,1 +1,1 @@
-var mnemonic = "inspire panda tonight kitchen supply design lava verb under cup during captain";
+var mnemonic = "major wait zone crack jealous window legal zoo parade pudding quiz attract";

@@ -1,1 +1,1 @@
-var mnemonic = "country mutual sleep motion hungry wire add chief twin oven furnace detail";
+var mnemonic = "settle kid reward poverty unable audit genre mask permit ski system pony";

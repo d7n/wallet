@@ -1,1 +1,1 @@
-var mnemonic = "bracket van surprise measure rail raven inner grunt dentist tilt north knock";
+var mnemonic = "plastic tray attend detail palace ozone speak junior host toss wire submit";

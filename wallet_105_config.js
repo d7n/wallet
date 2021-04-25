@@ -1,1 +1,1 @@
-var mnemonic = "soul view arena pact pig history obtain wide forget leg scout stem";
+var mnemonic = "chaos race hand borrow spoon ranch account payment toddler end ordinary repeat";

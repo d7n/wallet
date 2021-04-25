@@ -1,1 +1,1 @@
-var mnemonic = "tortoise trim huge truly circle soldier buyer excess maid mouse impulse gate";
+var mnemonic = "whisper laptop catalog eight soul patch accuse deposit begin love decrease accuse";

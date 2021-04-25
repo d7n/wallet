@@ -1,1 +1,1 @@
-var mnemonic = "post scrap vicious recall inquiry acquire drink monkey ostrich gauge express syrup";
+var mnemonic = "harbor tag noise auction simple kangaroo bachelor rotate august body close whale";

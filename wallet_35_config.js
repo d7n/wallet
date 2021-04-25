@@ -1,1 +1,1 @@
-var mnemonic = "together frost useless expose chief render wink potato rotate maid fade echo";
+var mnemonic = "group switch property wood guess innocent color drama need reason half inhale";

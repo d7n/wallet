@@ -1,1 +1,1 @@
-var mnemonic = "setup slim balance picnic doll example puppy misery arrest buzz menu three";
+var mnemonic = "rice alone dust note drink wood rose demise fat drive clump flower";

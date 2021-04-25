@@ -1,1 +1,1 @@
-var mnemonic = "coconut ensure like paddle replace roast rapid coil grain quarter vapor quality";
+var mnemonic = "rhythm behind music web gospel seven under silly ranch found sleep series";

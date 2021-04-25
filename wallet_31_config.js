@@ -1,1 +1,1 @@
-var mnemonic = "absorb artwork tooth hidden alert north charge blanket monster resist shed ticket";
+var mnemonic = "marriage inch leopard turkey frame bracket merge asset destroy absent morning switch";

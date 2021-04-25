@@ -1,1 +1,1 @@
-var mnemonic = "diet put reason cloth defense key impose champion flush buffalo video track";
+var mnemonic = "club second bird fiction size army tooth rubber leaf staff method law";

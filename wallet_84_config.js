@@ -1,1 +1,1 @@
-var mnemonic = "enable oppose panel person rocket human unaware marriage pull defense invite fee";
+var mnemonic = "ensure group left blur banner grace fury market immense deal canoe glare";

@@ -1,1 +1,1 @@
-var mnemonic = "slight cake category planet ski vacuum grain fruit flight wool knife critic";
+var mnemonic = "toilet more almost adapt autumn pony mansion dumb unit slab apology angry";

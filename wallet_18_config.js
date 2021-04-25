@@ -1,1 +1,1 @@
-var mnemonic = "negative bacon shed illness sight unveil between burger gun hero ostrich weekend";
+var mnemonic = "pottery credit direct sample swarm radio citizen swim mad general immense tilt";

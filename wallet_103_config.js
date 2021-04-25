@@ -1,1 +1,1 @@
-var mnemonic = "vacuum ski cash frost lake uncle wait cat blouse only stove fatal";
+var mnemonic = "month wedding will chronic devote win cruel together angle shoulder love rotate";

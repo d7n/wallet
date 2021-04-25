@@ -1,1 +1,1 @@
-var mnemonic = "dignity other goddess spend tortoise youth boring lady chief vapor print ready";
+var mnemonic = "core cycle cluster differ neglect stove boss dolphin lunar they search net";

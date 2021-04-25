@@ -1,1 +1,1 @@
-var mnemonic = "area word dream whisper thought clog consider tonight cup subject divide sport";
+var mnemonic = "merry winner hurdle either vivid fold shoot ozone stable margin foam pilot";

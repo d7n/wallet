@@ -1,1 +1,1 @@
-var mnemonic = "client found attend double media hamster ability lock often reject scorpion click";
+var mnemonic = "merge canal judge sorry permit shy mystery auction genius chapter cause tide";

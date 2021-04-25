@@ -1,1 +1,1 @@
-var mnemonic = "limb dinner undo cream illegal cheap switch fragile submit absurd slender aerobic";
+var mnemonic = "earth defense raccoon business marriage melody oven labor tragic album novel fortune";

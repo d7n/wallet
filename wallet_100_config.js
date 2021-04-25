@@ -1,1 +1,1 @@
-var mnemonic = "express knife horse absurd chapter arena carbon dash enter wonder salt soon";
+var mnemonic = "gas above onion toast actual immense clown middle street foam happy ozone";

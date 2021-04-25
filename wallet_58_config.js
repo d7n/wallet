@@ -1,1 +1,1 @@
-var mnemonic = "kidney little open false salt trick crime rice segment kid senior mimic";
+var mnemonic = "radar daughter sand must govern key bike valve fork slide supply tag";

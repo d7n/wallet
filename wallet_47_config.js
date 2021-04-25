@@ -1,1 +1,1 @@
-var mnemonic = "wrap dragon grant come awful drive dawn sense lonely magnet satisfy husband";
+var mnemonic = "link decide situate mutual senior near virus exhibit often vote empty man";

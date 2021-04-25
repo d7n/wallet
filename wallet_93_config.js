@@ -1,1 +1,1 @@
-var mnemonic = "engine meat nephew spike chief ocean talk behind reveal deal horror egg";
+var mnemonic = "brown oyster ghost crater wrist thrive nerve tobacco one resemble hockey glue";

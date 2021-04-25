@@ -1,1 +1,1 @@
-var mnemonic = "course fee popular young goose drastic forest grass wisdom human soup security";
+var mnemonic = "friend wild foster lemon carry hundred foot fossil into evidence gown stem";

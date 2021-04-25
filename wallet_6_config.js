@@ -1,1 +1,1 @@
-var mnemonic = "ripple pottery humor phrase moral world damage drive glove famous under rally";
+var mnemonic = "system stone tower turkey stay release light lens warrior bomb culture final";

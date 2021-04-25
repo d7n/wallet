@@ -1,1 +1,1 @@
-var mnemonic = "name knock quiz tiger palm crew goat badge enable swing jar bid";
+var mnemonic = "behind indicate certain assume scrap print talk credit flower jungle side among";

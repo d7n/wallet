@@ -1,1 +1,1 @@
-var mnemonic = "vacuum elite okay town vacant pistol replace catch spawn gaze job trade";
+var mnemonic = "uncover toy window street inside boil swap sponsor virus motor glide volume";

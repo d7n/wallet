@@ -1,1 +1,1 @@
-var mnemonic = "maple raise derive slight joy interest trash hover source nasty fashion glide";
+var mnemonic = "connect poverty blossom exist jaguar second zone joy can field veteran alone";

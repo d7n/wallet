@@ -1,1 +1,1 @@
-var mnemonic = "people master believe advance sail divide angry canoe grain current gravity foot";
+var mnemonic = "control upon average host relief clay pumpkin empower bar liquid donor must";

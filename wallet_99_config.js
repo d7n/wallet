@@ -1,1 +1,1 @@
-var mnemonic = "extra rebuild hidden garment impact frozen sample knee razor emerge diary vacuum";
+var mnemonic = "sing initial nerve special grow staff legend grunt enable want else actress";

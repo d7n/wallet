@@ -1,1 +1,1 @@
-var mnemonic = "lock brick orchard side dream ten night candy spider sorry toward kiss";
+var mnemonic = "rule six uphold design spot broom wrap protect fetch stage turn vacuum";

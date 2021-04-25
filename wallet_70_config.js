@@ -1,1 +1,1 @@
-var mnemonic = "scheme museum protect develop timber sponsor balcony pigeon injury beauty yard glove";
+var mnemonic = "loop color brief hold key speak rocket option hockey envelope device feed";

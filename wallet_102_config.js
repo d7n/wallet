@@ -1,1 +1,1 @@
-var mnemonic = "nuclear lumber journey mass divert enforce cart impulse burst boat power tool";
+var mnemonic = "boy gym verb seminar silly toast fuel color anxiety obtain broken fame";

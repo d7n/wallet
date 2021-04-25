@@ -1,1 +1,1 @@
-var mnemonic = "ignore plate gadget like reopen gain skate panel symptom page shaft fabric";
+var mnemonic = "youth pitch audit inherit two yellow tiny wasp arrange ignore client divide";

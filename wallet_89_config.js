@@ -1,1 +1,1 @@
-var mnemonic = "lens hammer valve staff wood easily sense window crane pink elder dwarf";
+var mnemonic = "scrap tree game public obey short decide outdoor vivid unfair clutch middle";

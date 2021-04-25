@@ -1,1 +1,1 @@
-var mnemonic = "duck group fruit screen candy repeat chronic throw stable inner barrel turtle";
+var mnemonic = "build wreck tip seed proof spare glad helmet ankle action knife exist";

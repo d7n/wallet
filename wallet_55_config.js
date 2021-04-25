@@ -1,1 +1,1 @@
-var mnemonic = "like moment square cabin depth rebuild current wash border opinion improve infant";
+var mnemonic = "pelican excite hover various federal axis ride giant outdoor polar fire measure";

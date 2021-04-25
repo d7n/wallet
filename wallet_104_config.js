@@ -1,1 +1,1 @@
-var mnemonic = "satoshi benefit neither tongue gospel chimney illegal grant earth math close measure";
+var mnemonic = "drill arrow tribe hold marriage donor matrix spoil decade sleep visa shock";

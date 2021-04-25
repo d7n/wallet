@@ -1,1 +1,1 @@
-var mnemonic = "expire proof buyer play endless head armor reward prepare layer loud vague";
+var mnemonic = "mystery champion season patrol nuclear process island region knife puppy check blanket";

@@ -1,1 +1,1 @@
-var mnemonic = "chief snake tape bottom valid train rhythm suffer cool chimney violin warfare";
+var mnemonic = "increase judge shoe sniff clinic slow marble card volcano luggage border palace";

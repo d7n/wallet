@@ -1,1 +1,1 @@
-var mnemonic = "video pair topple ticket grab social castle naive silent water pear kitten";
+var mnemonic = "require trim mistake slot total absent idle enter royal sight captain fragile";

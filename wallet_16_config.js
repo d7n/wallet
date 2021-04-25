@@ -1,1 +1,1 @@
-var mnemonic = "absorb wonder ordinary village genuine large diary expect royal hill leisure never";
+var mnemonic = "feed attract special isolate frame advice fantasy flash spare alone novel zebra";

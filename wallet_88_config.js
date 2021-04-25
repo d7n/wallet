@@ -1,1 +1,1 @@
-var mnemonic = "pond tape symbol child onion anchor poet boy pink title skate humble";
+var mnemonic = "warm relax lumber prepare tent earth canoe thunder fiction shiver grab auction";

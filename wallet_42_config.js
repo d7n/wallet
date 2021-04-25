@@ -1,1 +1,1 @@
-var mnemonic = "clump science candy poverty pilot deliver dose symptom region pair enter taste";
+var mnemonic = "ticket climb squirrel pluck never evoke hire beyond later physical chest eagle";

@@ -1,1 +1,1 @@
-var mnemonic = "faith solution afraid traffic truck liar nation congress physical into punch enough";
+var mnemonic = "panic trip almost trust pistol oval mimic proof fix genuine donkey urban";

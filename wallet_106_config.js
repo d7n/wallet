@@ -1,1 +1,1 @@
-var mnemonic = "junk exclude coconut use assist desk member unique safe decline genius cloud";
+var mnemonic = "cloth burden finish away response crumble cruise satoshi there middle stove stomach";

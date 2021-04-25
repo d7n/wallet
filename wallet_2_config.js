@@ -1,1 +1,1 @@
-var mnemonic = "place rival wagon unique search language goat guilt only theme chimney fold";
+var mnemonic = "slot announce danger upgrade version release social display advice retreat session plate";

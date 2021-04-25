@@ -1,1 +1,1 @@
-var mnemonic = "monitor finger various thunder bus spatial sting will bunker woman crazy inquiry";
+var mnemonic = "crush innocent say merit east upgrade trip toast front involve auto elbow";

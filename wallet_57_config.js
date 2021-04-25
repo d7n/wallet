@@ -1,1 +1,1 @@
-var mnemonic = "volume heart book divorce bachelor gauge tenant blossom face fossil cherry until";
+var mnemonic = "lion dwarf verb eagle peasant drift during erase ancient quick iron explain";

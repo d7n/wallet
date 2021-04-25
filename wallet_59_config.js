@@ -1,1 +1,1 @@
-var mnemonic = "dust dune huge alpha reveal crazy engage swap salon comfort nice food";
+var mnemonic = "surge bunker gain neither shallow bean decade sport review wide toilet include";

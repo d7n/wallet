@@ -1,1 +1,1 @@
-var mnemonic = "public survey title track evoke duck always poet concert lunch wreck garden";
+var mnemonic = "token general rough choice teach pelican rice engage trash plunge photo initial";

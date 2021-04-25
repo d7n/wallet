@@ -1,1 +1,1 @@
-var mnemonic = "dirt fruit wet plunge depend initial avocado change pair word tower churn";
+var mnemonic = "cruel unlock depth pottery snake shuffle later employ warrior ticket letter autumn";

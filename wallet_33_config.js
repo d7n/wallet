@@ -1,1 +1,1 @@
-var mnemonic = "blanket lobster please baby oven cloth craft green busy aware noise exotic";
+var mnemonic = "real edge notice comic scale rude charge boil riot mail oak seed";

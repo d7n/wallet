@@ -1,1 +1,1 @@
-var mnemonic = "office address wagon sing chicken eight corn worry cinnamon lift crucial acid";
+var mnemonic = "enrich grain rice tribe athlete pause advice write twice inside twenty space";

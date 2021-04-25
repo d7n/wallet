@@ -1,1 +1,1 @@
-var mnemonic = "cost relief sunset vicious outside monster cruel endless keen flag health critic";
+var mnemonic = "noodle round bacon fatigue cable pepper argue either dove dad crash enhance";

@@ -1,1 +1,1 @@
-var mnemonic = "kite lecture pelican settle voice street park december olympic stuff hub target";
+var mnemonic = "destroy inherit moon ceiling wheel silver trap only tenant runway raise short";

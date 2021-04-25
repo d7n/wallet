@@ -1,1 +1,1 @@
-var mnemonic = "myth repeat cube arm luggage blind board exclude twenty scale bind process";
+var mnemonic = "entry blur ring dinosaur list awkward horn excuse test increase vast drop";

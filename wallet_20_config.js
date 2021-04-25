@@ -1,1 +1,1 @@
-var mnemonic = "canal clinic file people fan story gesture slow edit tower mushroom goddess";
+var mnemonic = "process fragile like debate sure crisp promote release pencil head door federal";

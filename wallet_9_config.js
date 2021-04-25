@@ -1,1 +1,1 @@
-var mnemonic = "genius swallow patrol damp timber enlist awesome output glare ring poet curious";
+var mnemonic = "kick excite spoil protect arm secret violin broken arena text surge bone";

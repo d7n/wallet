@@ -1,1 +1,1 @@
-var mnemonic = "used scissors wisdom loan envelope tube staff reform mule bulb dial bottom";
+var mnemonic = "clump spread wage manual toddler cage hero age tattoo quarter boss plug";

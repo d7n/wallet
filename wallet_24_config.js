@@ -1,1 +1,1 @@
-var mnemonic = "throw proud mass salmon such student shift typical dry parade tip nice";
+var mnemonic = "deer recall today couple series wisdom pizza course tongue brain special violin";

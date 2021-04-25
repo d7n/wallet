@@ -1,1 +1,1 @@
-var mnemonic = "order bundle buyer aspect labor trend rough cross trap segment weapon local";
+var mnemonic = "hole shift crumble mail social whip immune exotic mention broken song claim";

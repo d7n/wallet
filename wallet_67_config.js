@@ -1,1 +1,1 @@
-var mnemonic = "violin power lawn inner drip path exhibit rare scale abuse arctic absurd";
+var mnemonic = "remain super salmon else egg spread argue sun same toddler marine rookie";

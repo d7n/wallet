@@ -1,1 +1,1 @@
-var mnemonic = "ugly page risk message feed law brain hero dad blade fold elder";
+var mnemonic = "supply alley diary organ valve spot cost season fire suffer chat unhappy";

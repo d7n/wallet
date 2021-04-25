@@ -1,1 +1,1 @@
-var mnemonic = "describe mix degree parade moon coast polar bulb choice floor merry home";
+var mnemonic = "damage all brown drill flower pause law fire trim attract target online";

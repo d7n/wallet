@@ -1,1 +1,1 @@
-var mnemonic = "like brown economy swap lumber warm best smooth pizza together faith tobacco";
+var mnemonic = "kidney process matter cave rather midnight juice napkin stand arrow hello faculty";

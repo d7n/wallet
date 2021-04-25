@@ -1,1 +1,1 @@
-var mnemonic = "road alien thrive two gorilla conduct design upgrade west when danger source";
+var mnemonic = "option rich dutch feature clump marine elite vintage produce harvest tooth powder";

@@ -1,1 +1,1 @@
-var mnemonic = "struggle coach bomb stick occur nut top tribe change outer height cruel";
+var mnemonic = "object scout suit tribe artwork illness pelican together chef able small quiz";

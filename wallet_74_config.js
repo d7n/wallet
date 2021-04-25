@@ -1,1 +1,1 @@
-var mnemonic = "disagree tortoise marriage ladder step ribbon reject ridge engine celery decade toy";
+var mnemonic = "toe crash pass ribbon bone mind assume business force buffalo salt column";

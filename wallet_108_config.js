@@ -1,1 +1,1 @@
-var mnemonic = "federal citizen better island carry solution cost twist brain galaxy surprise found";
+var mnemonic = "capable canvas lemon barely ugly choice write accident tube debris mass shift";

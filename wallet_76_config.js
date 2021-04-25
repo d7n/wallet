@@ -1,1 +1,1 @@
-var mnemonic = "reject west gossip cupboard sauce whisper toast select junior ankle health vehicle";
+var mnemonic = "destroy chronic fossil garden purity install wool lamp talent obscure era pink";

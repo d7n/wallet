@@ -1,1 +1,1 @@
-var mnemonic = "lucky woman furnace great motor grunt focus next flame bring winner layer";
+var mnemonic = "reject frozen other innocent update tattoo bag off move refuse echo orphan";

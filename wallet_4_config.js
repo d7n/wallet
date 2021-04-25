@@ -1,1 +1,1 @@
-var mnemonic = "bring crowd surge pyramid act copper wife else switch correct flavor seat";
+var mnemonic = "sibling december claim follow old brick abandon skull ladder session gallery scan";

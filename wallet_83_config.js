@@ -1,1 +1,1 @@
-var mnemonic = "belt share warfare purity flock crazy situate gate dismiss area twenty hobby";
+var mnemonic = "gather vanish inject mask absorb shoe tomato dawn tell embark report olympic";

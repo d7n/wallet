@@ -1,1 +1,1 @@
-var mnemonic = "sting oak dragon bomb tennis myth fury cat same mail taxi awake";
+var mnemonic = "october cousin treat update episode uncover degree bullet outside grunt hill utility";

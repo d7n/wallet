@@ -1,1 +1,1 @@
-var mnemonic = "blur cloth concert thank orphan runway fitness exact obvious point great panel";
+var mnemonic = "spy sorry trap inmate atom trim sock crater neither abandon double since";

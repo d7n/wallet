@@ -1,1 +1,1 @@
-var mnemonic = "ring chair enlist timber funny laptop asset pattern kitten crane virus calm";
+var mnemonic = "damage indoor pretty wash family accident rifle sugar farm million object oyster";

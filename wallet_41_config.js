@@ -1,1 +1,1 @@
-var mnemonic = "pistol card truck actress taste glad switch armor fatigue hood chimney okay";
+var mnemonic = "gift air talent say minimum edit collect lamp material blue chief shiver";

@@ -1,1 +1,1 @@
-var mnemonic = "enemy beef change hub aim pave save absurd broken destroy amount timber";
+var mnemonic = "daring output salad twenty genuine flower slam guess element crumble table dragon";

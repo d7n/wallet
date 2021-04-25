@@ -1,1 +1,1 @@
-var mnemonic = "machine carpet athlete short cargo peace trouble web express whale slush left";
+var mnemonic = "uphold crash purse scare client enter amateur lunar master spoil census dad";

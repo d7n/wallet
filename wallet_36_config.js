@@ -1,1 +1,1 @@
-var mnemonic = "upgrade minimum robust prize aunt puppy choice damage slice patient daring faint";
+var mnemonic = "kitten element trade window apart armed blouse employ ribbon topic country catch";

@@ -1,1 +1,1 @@
-var mnemonic = "steel recall pizza tape supreme beach slam kind fragile suffer decade speed";
+var mnemonic = "sniff plunge motion wear shy mystery rib document absurd canal grape mechanic";

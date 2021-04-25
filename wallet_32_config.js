@@ -1,1 +1,1 @@
-var mnemonic = "retreat tongue east aunt liquid forget always fiscal visual critic digital worth";
+var mnemonic = "husband derive issue caught tooth piano dust oyster bid language jewel frame";

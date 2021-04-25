@@ -1,1 +1,1 @@
-var mnemonic = "invite tongue shove garage emotion amused cattle popular call girl world genius";
+var mnemonic = "high tongue feel skirt use climb mansion bargain employ express hint scatter";

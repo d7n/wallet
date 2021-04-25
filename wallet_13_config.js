@@ -1,1 +1,1 @@
-var mnemonic = "ketchup dignity used cause east gas security film woman myth novel rude";
+var mnemonic = "travel yellow buzz long hungry bring float core report this drill bean";
