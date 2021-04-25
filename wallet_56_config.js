@@ -1,1 +1,1 @@
-var mnemonic = "daughter neck trial romance hire fault unveil note net couple sing muscle";
+var mnemonic = "pond scrap note leisure margin wolf circle decade electric umbrella marble way";

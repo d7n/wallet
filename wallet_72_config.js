@@ -1,1 +1,1 @@
-var mnemonic = "combine skirt inspire garbage sing nice motor language lyrics little concert modify";
+var mnemonic = "resource sorry expect space waste flip online wet client chef fit across";

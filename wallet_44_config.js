@@ -1,1 +1,1 @@
-var mnemonic = "enhance trim quiz ask powder dolphin scatter flush thumb crouch choice assault";
+var mnemonic = "crumble wool mountain better series stomach invest blouse hunt glue floor marble";

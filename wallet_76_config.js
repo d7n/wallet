@@ -1,1 +1,1 @@
-var mnemonic = "case crash blossom sail city soda cool siren deputy sell apple acoustic";
+var mnemonic = "mask escape track goddess race jacket jump learn addict gain physical switch";

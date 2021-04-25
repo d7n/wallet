@@ -1,1 +1,1 @@
-var mnemonic = "system second prize blouse aisle cabin magic witness athlete defense forward laugh";
+var mnemonic = "dream tenant execute never music suspect bright twice vendor tell arrow wheel";

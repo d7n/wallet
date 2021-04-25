@@ -1,1 +1,1 @@
-var mnemonic = "solar abstract sound easily item damp december very traffic pull sphere tower";
+var mnemonic = "frozen fire fun network night fox mushroom clap crew move quick use";

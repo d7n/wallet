@@ -1,1 +1,1 @@
-var mnemonic = "myth method priority grab actress maximum drama flower jaguar relief draw minimum";
+var mnemonic = "lizard clown illegal faith tuna chapter any shy company current govern clown";

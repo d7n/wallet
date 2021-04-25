@@ -1,1 +1,1 @@
-var mnemonic = "era novel inmate similar result chair cluster search truly buddy width world";
+var mnemonic = "pig harbor reveal horn surround guitar throw visit fortune alarm stock chuckle";

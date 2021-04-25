@@ -1,1 +1,1 @@
-var mnemonic = "coin web nose miss file company olive bench ceiling huge major yard";
+var mnemonic = "install cause layer wisdom flat flavor usual dawn endless ketchup rough frown";

@@ -1,1 +1,1 @@
-var mnemonic = "pool copper sniff penalty album object use balance olive royal bean kiss";
+var mnemonic = "twenty venue tissue flavor collect plug aware photo club sound length resist";

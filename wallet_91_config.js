@@ -1,1 +1,1 @@
-var mnemonic = "medal exotic harbor pull leg live define broken unique property access robot";
+var mnemonic = "echo mansion proud small clown alien capable economy iron supreme tooth peanut";

@@ -1,1 +1,1 @@
-var mnemonic = "layer social security system abandon february critic pulse today execute grape pink";
+var mnemonic = "pond else toast toss toy diamond fork cart robot olive pair business";

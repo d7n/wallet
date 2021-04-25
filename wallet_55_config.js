@@ -1,1 +1,1 @@
-var mnemonic = "quick text forget hazard weekend cabbage ready local crazy wear flock apple";
+var mnemonic = "sunset skirt face rabbit nut nature begin zone hurt supply blouse rigid";

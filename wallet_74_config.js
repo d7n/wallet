@@ -1,1 +1,1 @@
-var mnemonic = "another hamster thank faint verify arrow cupboard cram solve federal rapid cherry";
+var mnemonic = "rough resource worth tray milk horse train rifle edit ancient amused sadness";

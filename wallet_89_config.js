@@ -1,1 +1,1 @@
-var mnemonic = "moment hero egg discover lava toss street sample vocal stairs curtain treat";
+var mnemonic = "miss between oblige cage cloud faint mention news drive tent stove country";

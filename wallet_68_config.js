@@ -1,1 +1,1 @@
-var mnemonic = "chunk van board glimpse word wise matrix faith chapter bachelor host strong";
+var mnemonic = "wave life output speak custom eagle unusual radar require phrase finish clerk";

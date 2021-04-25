@@ -1,1 +1,1 @@
-var mnemonic = "exist lift change two absorb nest argue curtain vacuum scrap shoulder figure";
+var mnemonic = "dad south dentist space repeat chest good dizzy buzz old agree umbrella";

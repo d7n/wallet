@@ -1,1 +1,1 @@
-var mnemonic = "time piano share mean quit dose season oxygen camp board arrest cereal";
+var mnemonic = "rabbit resource amateur armed sudden author lunar phrase twin bless choose hip";

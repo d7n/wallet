@@ -1,1 +1,1 @@
-var mnemonic = "lobster park oblige average cram improve cannon east exhaust riot physical rough";
+var mnemonic = "host grain upon shock unfair joy impulse tongue solid master collect beyond";

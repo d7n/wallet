@@ -1,1 +1,1 @@
-var mnemonic = "edit ahead only assault rapid winner spare water west spring group notice";
+var mnemonic = "hunt talent school fashion better push icon noise morning gasp tragic strategy";

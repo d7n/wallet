@@ -1,1 +1,1 @@
-var mnemonic = "shove switch prepare neither future eager marine horn chicken trust alarm kidney";
+var mnemonic = "credit nature record cradle click common arch useful tape surprise other all";

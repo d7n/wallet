@@ -1,1 +1,1 @@
-var mnemonic = "scene fresh mention craft club stock tackle sand obvious divide gravity kind";
+var mnemonic = "define wolf squeeze liar stand old palace trust sunny prepare adult hockey";

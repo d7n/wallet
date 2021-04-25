@@ -1,1 +1,1 @@
-var mnemonic = "food roof police heart soon pulp angry crush shoulder toe small carpet";
+var mnemonic = "myself fog someone squirrel pelican scan scheme want gospel close silly innocent";

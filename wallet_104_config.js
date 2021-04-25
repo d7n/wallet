@@ -1,1 +1,1 @@
-var mnemonic = "rotate burger scheme hurdle gate turkey win scare bless poem insect universe";
+var mnemonic = "disease banana ugly wife blind anchor kingdom fancy hour shrimp artefact journey";

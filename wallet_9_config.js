@@ -1,1 +1,1 @@
-var mnemonic = "bargain runway cigar bean black useful test lucky ride front fiscal february";
+var mnemonic = "under nest hill nominee salad siege exist open lunch avocado pretty skin";

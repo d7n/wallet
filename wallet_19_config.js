@@ -1,1 +1,1 @@
-var mnemonic = "buddy island steel rhythm thought hip spy theme toss october detail confirm";
+var mnemonic = "board chief forest pet camera cherry salt subject debris convince curtain night";

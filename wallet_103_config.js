@@ -1,1 +1,1 @@
-var mnemonic = "august will crash sugar where useful exist service fury virus miss air";
+var mnemonic = "primary mix proof include city beauty bus transfer blood margin venue prosper";

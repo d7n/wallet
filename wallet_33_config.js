@@ -1,1 +1,1 @@
-var mnemonic = "cactus topple ecology picnic neck frequent curve electric stick other broom before";
+var mnemonic = "math damage crowd unable motion cheese forum squirrel urge convince grunt flip";

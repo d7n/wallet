@@ -1,1 +1,1 @@
-var mnemonic = "hurry dust lock dumb language brand trust spawn brisk fuel beef enlist";
+var mnemonic = "dash chef balcony absent live output shine divide bachelor egg leopard song";

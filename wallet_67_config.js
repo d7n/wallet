@@ -1,1 +1,1 @@
-var mnemonic = "surround kitchen spy list mandate burger soft story easily milk soldier cross";
+var mnemonic = "hill lift monitor cable cinnamon tail album bottom require risk heart valid";

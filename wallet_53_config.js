@@ -1,1 +1,1 @@
-var mnemonic = "fury theory lake patrol top tumble talent program drift tuna tissue rug";
+var mnemonic = "welcome receive fruit refuse garlic rather minor sketch violin drum dog patrol";

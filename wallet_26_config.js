@@ -1,1 +1,1 @@
-var mnemonic = "ozone give saddle final skirt concert dinosaur siren mother oyster ski april";
+var mnemonic = "enroll embrace crystal purpose use erosion duty put base truth rocket blood";

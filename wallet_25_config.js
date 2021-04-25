@@ -1,1 +1,1 @@
-var mnemonic = "human echo fiscal youth broom ridge spider turn flush helmet curious exist";
+var mnemonic = "obvious bus soon potato ask render real truly pink vintage connect illegal";

@@ -1,1 +1,1 @@
-var mnemonic = "steak genius laptop thrive absorb doctor banner bean token weekend mutual horn";
+var mnemonic = "bright opera prevent mule dumb east husband rebel broccoli poverty stem lemon";

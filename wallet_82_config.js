@@ -1,1 +1,1 @@
-var mnemonic = "gap gain bacon concert explain layer joy claim issue amateur illness bind";
+var mnemonic = "public tube hedgehog gaze depart seek cliff write govern wet cup knee";

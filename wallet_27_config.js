@@ -1,1 +1,1 @@
-var mnemonic = "concert rally jungle portion fire wrap achieve twelve firm banana venue code";
+var mnemonic = "tennis hurry address question dinosaur soon target enemy time emerge repair elbow";

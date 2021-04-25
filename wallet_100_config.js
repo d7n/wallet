@@ -1,1 +1,1 @@
-var mnemonic = "wedding motor essay wheel board chair axis desk despair surge race snap";
+var mnemonic = "hunt rookie anchor sight quote simple book employ unit dog risk weather";

@@ -1,1 +1,1 @@
-var mnemonic = "hammer impose unveil door woman survey say talk apology tongue slide hundred";
+var mnemonic = "inch guide example soft gain rather desk reform biology problem away civil";

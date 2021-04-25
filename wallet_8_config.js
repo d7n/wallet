@@ -1,1 +1,1 @@
-var mnemonic = "glance tongue okay comic nerve right urge vapor wish faculty object chase";
+var mnemonic = "fragile promote buzz shock mirror inside true vicious drop piece dignity rare";

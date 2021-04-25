@@ -1,1 +1,1 @@
-var mnemonic = "gun rigid unfair typical develop shoot record another galaxy leader hockey twin";
+var mnemonic = "virtual potato fitness inform connect firm range upset already mercy twice tide";

@@ -1,1 +1,1 @@
-var mnemonic = "lunch bridge moon swap impact random turtle roof auction master judge design";
+var mnemonic = "road prefer stumble betray wet river blame abuse want cause panda comfort";

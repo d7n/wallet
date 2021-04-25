@@ -1,1 +1,1 @@
-var mnemonic = "open disagree wasp elevator great banana supply lunch anxiety horse mobile zone";
+var mnemonic = "planet goat artist come scrub debris neutral sadness pistol tube file vocal";

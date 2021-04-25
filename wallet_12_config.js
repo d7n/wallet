@@ -1,1 +1,1 @@
-var mnemonic = "swim ill ensure image month scissors burden attract fever item crew detect";
+var mnemonic = "enlist soccer capable path bachelor street pitch open tube affair ribbon tool";

@@ -1,1 +1,1 @@
-var mnemonic = "burden work people example danger grass sniff thumb actress dance double harbor";
+var mnemonic = "satoshi outer shaft gloom into fog lens kick broken dune cotton label";

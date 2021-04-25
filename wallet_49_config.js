@@ -1,1 +1,1 @@
-var mnemonic = "dinner tilt mirror proof eight large sound canvas cave follow size valley";
+var mnemonic = "survey bring novel waste market leader metal soap mountain salt year cereal";

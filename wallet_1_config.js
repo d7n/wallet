@@ -1,1 +1,1 @@
-var mnemonic = "car pretty purity pride believe club news bag rib pitch mean fold";
+var mnemonic = "usual scale supply member pitch iron cruel party shoulder rural sponsor found";

@@ -1,1 +1,1 @@
-var mnemonic = "lecture control joy surprise include derive rely link now reveal install urge";
+var mnemonic = "record insect coconut mutual topple similar cash matter avoid desert drama avocado";

@@ -1,1 +1,1 @@
-var mnemonic = "satisfy require glare swallow book bus program alpha bind refuse april wrap";
+var mnemonic = "kid enable palm shallow limb find color cricket toddler spin demise donor";

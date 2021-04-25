@@ -1,1 +1,1 @@
-var mnemonic = "grab tell drive expand assault action urge pool carpet long opera crisp";
+var mnemonic = "sponsor labor lock impose affair huge jacket sphere vacuum typical rival empower";

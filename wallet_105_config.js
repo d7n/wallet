@@ -1,1 +1,1 @@
-var mnemonic = "thank welcome capable convince empower genius tray mercy sail vacant family hope";
+var mnemonic = "impulse alert mountain require hurt more salt later erase train clump kick";

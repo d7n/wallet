@@ -1,1 +1,1 @@
-var mnemonic = "vicious same direct dentist escape clay mango giggle dash fence beauty stock";
+var mnemonic = "symbol world battle oyster clown guess marble invest input symptom able cattle";

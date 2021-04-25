@@ -1,1 +1,1 @@
-var mnemonic = "arena caution physical avocado force federal system olive pony twin hire fabric";
+var mnemonic = "bless access emotion fever police leave phone wear ship maple elephant dinner";

@@ -1,1 +1,1 @@
-var mnemonic = "waste shell cable frequent jump discover slogan zebra client tree outdoor law";
+var mnemonic = "matrix gesture rhythm desk target between sense thumb trumpet frog oven find";

@@ -1,1 +1,1 @@
-var mnemonic = "void foster tone husband response purpose muffin deputy liquid canal deal detect";
+var mnemonic = "front nephew tooth jar race unit napkin breeze sense index sleep cat";

@@ -1,1 +1,1 @@
-var mnemonic = "rice brush anxiety skate sand bright wire tissue summer travel kidney cannon";
+var mnemonic = "embrace vanish infant throw local float gold order promote gate suggest wall";

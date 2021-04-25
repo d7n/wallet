@@ -1,1 +1,1 @@
-var mnemonic = "praise pen suffer skin clap saddle crew skin antenna champion travel inside";
+var mnemonic = "human satisfy couch echo deposit vague crouch happy inch tuna universe name";

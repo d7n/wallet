@@ -1,1 +1,1 @@
-var mnemonic = "crystal mad junk toddler poem assist pattern soccer stairs correct total shoot";
+var mnemonic = "possible peasant among large swarm silver jaguar hip stand glass hurdle equip";

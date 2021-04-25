@@ -1,1 +1,1 @@
-var mnemonic = "right subject gorilla mobile ancient off odor vague episode drift leopard rural";
+var mnemonic = "detail smooth coyote loud cart faith click check ranch virtual grid summer";

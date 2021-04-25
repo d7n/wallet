@@ -1,1 +1,1 @@
-var mnemonic = "gift height wreck suggest belt snake firm kiss taste behind wheel solve";
+var mnemonic = "visa trash talent dirt census discover excuse spy minor file tilt view";

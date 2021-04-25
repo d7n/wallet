@@ -1,1 +1,1 @@
-var mnemonic = "hover dish surface grass umbrella kite immune humor stick elder either viable";
+var mnemonic = "tool purse section tourist cinnamon ankle debris glide reopen twice imitate bean";

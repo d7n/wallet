@@ -1,1 +1,1 @@
-var mnemonic = "notice track asthma inch pledge shop follow company mule zero pumpkin error";
+var mnemonic = "actress gaze chat own bar update another file moon tape token steel";

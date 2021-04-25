@@ -1,1 +1,1 @@
-var mnemonic = "blast relax october fruit zone awesome silver adjust gadget profit what silly";
+var mnemonic = "palace brisk addict sketch toddler wire metal mesh three there demand gesture";

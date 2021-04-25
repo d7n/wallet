@@ -1,1 +1,1 @@
-var mnemonic = "stamp once path derive menu jealous timber base before crazy scissors donkey";
+var mnemonic = "close diesel behave copper gallery wagon grit finger fee garlic finger prison";

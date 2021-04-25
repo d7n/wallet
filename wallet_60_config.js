@@ -1,1 +1,1 @@
-var mnemonic = "report disease sick gorilla real vault aware trend live soda wild poet";
+var mnemonic = "explain basket hour ramp barely poverty fix problem glass mammal power surround";

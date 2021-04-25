@@ -1,1 +1,1 @@
-var mnemonic = "argue cube salon runway giant news insane aunt neck concert fashion learn";
+var mnemonic = "stone welcome inject ridge ramp virus copper female gasp area sponsor visual";

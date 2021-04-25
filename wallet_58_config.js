@@ -1,1 +1,1 @@
-var mnemonic = "vibrant what fuel cruel pulp soldier magnet please float humor dolphin cabin";
+var mnemonic = "history into catch addict prison casual alien more bullet silver warrior supply";

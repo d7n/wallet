@@ -1,1 +1,1 @@
-var mnemonic = "kick wish near expose sight track erupt airport derive change bulb soul";
+var mnemonic = "calm spare program below fix skin wire book arrive bread wine squeeze";

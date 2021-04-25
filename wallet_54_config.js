@@ -1,1 +1,1 @@
-var mnemonic = "defense school list december wrap grant cruise add trash try regular minute";
+var mnemonic = "solution tag nominee rigid crunch portion focus deal coral horn real blade";

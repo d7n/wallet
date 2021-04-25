@@ -1,1 +1,1 @@
-var mnemonic = "soup wonder cage code pipe genuine essence video ozone swim below crawl";
+var mnemonic = "present loop year miss bamboo scatter teach mosquito raven else grocery spatial";

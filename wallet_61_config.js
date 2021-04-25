@@ -1,1 +1,1 @@
-var mnemonic = "idle excess cliff evil extend shaft duty onion walk omit rice peasant";
+var mnemonic = "heavy urge winner review debris silent spring brisk ensure moment wear slow";

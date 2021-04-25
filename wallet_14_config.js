@@ -1,1 +1,1 @@
-var mnemonic = "okay daring impact exchange space casino dish doll cancel radio laptop autumn";
+var mnemonic = "symptom street inherit scene agree rotate oven business bike vicious tower swing";

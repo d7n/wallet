@@ -1,1 +1,1 @@
-var mnemonic = "clever machine plate bacon spread desert music drastic render glide innocent vote";
+var mnemonic = "pulp inhale giraffe tent crucial about federal awake palm long staff soul";

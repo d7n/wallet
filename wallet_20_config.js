@@ -1,1 +1,1 @@
-var mnemonic = "drop advice scorpion return hub bone journey poverty become wealth female victory";
+var mnemonic = "six exile sausage lucky rib teach enroll toddler kit lazy bone baby";

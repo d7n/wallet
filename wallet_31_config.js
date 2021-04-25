@@ -1,1 +1,1 @@
-var mnemonic = "write sweet belt laptop time knife smile palace pelican boost clever pudding";
+var mnemonic = "laptop party shove word person stamp razor plate chapter clerk car barrel";

@@ -1,1 +1,1 @@
-var mnemonic = "clay net awkward lecture heavy lemon dance scan shaft armor just lady";
+var mnemonic = "annual loan alcohol throw improve rebel jar gym balance sort interest million";

@@ -1,1 +1,1 @@
-var mnemonic = "crunch citizen deliver unveil permit pioneer curious such note pistol enact airport";
+var mnemonic = "vapor flush length hint rally affair merge palace glimpse repair vivid beauty";

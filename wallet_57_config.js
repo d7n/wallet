@@ -1,1 +1,1 @@
-var mnemonic = "cradle connect decorate target crouch prison valley cross doll labor announce never";
+var mnemonic = "raccoon spoon quit uphold shoe fetch humble mutual observe ticket flip frog";

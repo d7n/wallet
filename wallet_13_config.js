@@ -1,1 +1,1 @@
-var mnemonic = "deny bomb exercise amateur gasp now rather cry transfer breeze refuse sunset";
+var mnemonic = "hood transfer boring load ceiling urge badge search write early royal slogan";

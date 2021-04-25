@@ -1,1 +1,1 @@
-var mnemonic = "anxiety spoon alone wine wrong gossip fatigue vibrant color feed drama settle";
+var mnemonic = "dry clerk chat clarify gym soda innocent explain curve mercy giant picture";

@@ -1,1 +1,1 @@
-var mnemonic = "stick upper artefact super tiger catch spoil accuse lyrics flight strike sphere";
+var mnemonic = "clever coconut unfold buzz tomorrow protect sausage safe rose water history jar";

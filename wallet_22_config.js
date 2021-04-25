@@ -1,1 +1,1 @@
-var mnemonic = "elite shed inmate dog foil humor bacon wait clay wedding accident usual";
+var mnemonic = "onion reunion ribbon combine basket ankle merry gloom trial awesome alcohol gauge";

@@ -1,1 +1,1 @@
-var mnemonic = "sample object puzzle one narrow primary hammer attract hollow grocery script unlock";
+var mnemonic = "arm casino merge away tooth ranch once tree goat season faculty multiply";

@@ -1,1 +1,1 @@
-var mnemonic = "popular type install season few feature pottery panda short toss dizzy sustain";
+var mnemonic = "include trash excuse abstract explain settle village job cinnamon logic cup all";

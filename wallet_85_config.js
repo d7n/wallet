@@ -1,1 +1,1 @@
-var mnemonic = "trouble erupt canoe coffee discover day expect confirm where magic grant injury";
+var mnemonic = "moon deliver safe call child jewel wrong distance autumn day congress motor";

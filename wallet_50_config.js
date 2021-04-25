@@ -1,1 +1,1 @@
-var mnemonic = "chicken river repair general cupboard cinnamon run pumpkin rescue okay awesome tide";
+var mnemonic = "trumpet clock boil word hockey visa symbol father among affair echo cage";

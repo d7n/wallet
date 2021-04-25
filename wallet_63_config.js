@@ -1,1 +1,1 @@
-var mnemonic = "quarter price picture laundry ritual weather source spend same torch two spread";
+var mnemonic = "tragic original report write gossip random father ritual sound path fiber vintage";

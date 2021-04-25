@@ -1,1 +1,1 @@
-var mnemonic = "split hamster edge repair attack food narrow collect crisp pledge access brain";
+var mnemonic = "clip strategy give morning bulb wealth weird twenty deny river slab innocent";

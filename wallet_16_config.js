@@ -1,1 +1,1 @@
-var mnemonic = "once ensure circle process exile humble ice prevent conduct stamp van visit";
+var mnemonic = "scare patch skate morning shove common monster measure burden add unique guard";

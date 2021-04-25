@@ -1,1 +1,1 @@
-var mnemonic = "stamp magic firm rookie street oppose prepare sauce canvas flame claw today";
+var mnemonic = "finger enlist promote valve history finish gossip unlock join boy enroll noodle";
