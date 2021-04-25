@@ -1,1 +1,1 @@
-var mnemonic = "split expand trigger major room duck desert aunt select skin tissue volcano";
+var mnemonic = "scissors pause parent hub tired diary kitten carry member remove ribbon conduct";

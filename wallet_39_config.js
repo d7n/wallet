@@ -1,1 +1,1 @@
-var mnemonic = "item burden humble fatal gun damage purse have roast reduce glance tongue";
+var mnemonic = "duck skin swear shaft vicious subway height true seek junk gift mass";

@@ -1,1 +1,1 @@
-var mnemonic = "sight cube ecology swamp lobster myself rug sugar ethics chef pencil file";
+var mnemonic = "absent burger person seminar cargo almost beef wonder gadget defy fetch use";

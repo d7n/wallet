@@ -1,1 +1,1 @@
-var mnemonic = "parent survey immense entry clown gasp slide cattle journey wrestle weasel pear";
+var mnemonic = "pattern square omit present length reduce lemon member control gadget rubber three";

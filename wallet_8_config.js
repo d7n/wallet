@@ -1,1 +1,1 @@
-var mnemonic = "tide radio fortune force index dial cliff absurd elbow upon enlist inmate";
+var mnemonic = "spatial volcano dress cage issue hire vacuum illness section torch orange rival";

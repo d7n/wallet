@@ -1,1 +1,1 @@
-var mnemonic = "town kitchen dream seat sick argue same goose mountain car fun citizen";
+var mnemonic = "claim word below coin child spend rain stick robot rib cement cart";

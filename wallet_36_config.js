@@ -1,1 +1,1 @@
-var mnemonic = "glory resource settle clown mandate angry swear express shaft fatal human garage";
+var mnemonic = "upgrade estate height embody island rookie road display audit motor purity follow";

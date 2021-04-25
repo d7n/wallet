@@ -1,1 +1,1 @@
-var mnemonic = "salt hood matrix oppose cream raise group original quantum control mercy jaguar";
+var mnemonic = "hedgehog winner estate divide predict case autumn ramp bamboo lazy scheme seek";

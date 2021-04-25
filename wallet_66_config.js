@@ -1,1 +1,1 @@
-var mnemonic = "scorpion end cake second chuckle clip garment sugar mobile funny weasel final";
+var mnemonic = "mind right blanket rice ten mimic slender peasant print sibling impact warfare";

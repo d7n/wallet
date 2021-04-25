@@ -1,1 +1,1 @@
-var mnemonic = "cable begin hood chronic climb spirit imitate crime goddess illness left earn";
+var mnemonic = "travel melt gloom violin good struggle winner memory option rare thank food";

@@ -1,1 +1,1 @@
-var mnemonic = "meadow boost east work dutch faint they young brave creek tribe cradle";
+var mnemonic = "proof pink reason time avocado bleak reduce half demise crunch obvious symptom";

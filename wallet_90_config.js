@@ -1,1 +1,1 @@
-var mnemonic = "blame hedgehog alert very fluid verb useful ecology middle august mosquito minimum";
+var mnemonic = "tackle crew acid vibrant result group dirt column assault garage finish shed";

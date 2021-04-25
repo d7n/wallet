@@ -1,1 +1,1 @@
-var mnemonic = "wet armor able pilot dutch fiscal grace palm author galaxy equip bless";
+var mnemonic = "summer nose enforce rhythm frown unique equal coconut audit biology debate devote";

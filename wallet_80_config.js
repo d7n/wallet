@@ -1,1 +1,1 @@
-var mnemonic = "trick below farm sense grief alarm spell cigar expect zebra digital cream";
+var mnemonic = "arrest collect lunar cook entire lobster toss umbrella daughter just snow turtle";

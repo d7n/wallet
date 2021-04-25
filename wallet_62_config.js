@@ -1,1 +1,1 @@
-var mnemonic = "cube boat bike cheese menu sick air awake visa advice modify genre";
+var mnemonic = "viable capable junk maze cabbage nothing address amused maid this goddess swing";

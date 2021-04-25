@@ -1,1 +1,1 @@
-var mnemonic = "blind record laugh entire decrease little brass click title fan october alcohol";
+var mnemonic = "fall join rare gloom deliver pistol indoor shaft together hurt opinion soft";

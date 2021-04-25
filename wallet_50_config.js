@@ -1,1 +1,1 @@
-var mnemonic = "issue strong memory juice loud stumble sport shove tip allow normal alpha";
+var mnemonic = "celery wreck jeans clever input long consider final present shop isolate remain";

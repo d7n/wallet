@@ -1,1 +1,1 @@
-var mnemonic = "link treat extra under hip weapon kid citizen math catalog hollow coin";
+var mnemonic = "border busy humble music aisle maple soda slow october book smooth enact";

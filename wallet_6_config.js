@@ -1,1 +1,1 @@
-var mnemonic = "clog segment blast swear stay walnut side surface radio accuse dish damage";
+var mnemonic = "peace remind icon rebuild mistake afraid tenant friend track industry valid egg";

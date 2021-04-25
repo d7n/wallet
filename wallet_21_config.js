@@ -1,1 +1,1 @@
-var mnemonic = "spread smart diet borrow season winter fire friend gas skill embrace nose";
+var mnemonic = "glide dune collect sound excess already end oyster gloom bounce shallow hammer";

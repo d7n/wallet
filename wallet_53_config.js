@@ -1,1 +1,1 @@
-var mnemonic = "beyond into fan build expose aim best excite window enough tumble enough";
+var mnemonic = "hospital slight clinic cigar security reunion army april waste summer race trust";

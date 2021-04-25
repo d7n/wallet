@@ -1,1 +1,1 @@
-var mnemonic = "language demise practice digital enable lumber royal peace culture maple height heavy";
+var mnemonic = "donkey balance slice outer social kind view uncle gather company force awkward";

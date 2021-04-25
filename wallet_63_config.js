@@ -1,1 +1,1 @@
-var mnemonic = "twelve hand almost east expand pumpkin trouble vacant awake unique ranch tone";
+var mnemonic = "evidence catch frequent early have peanut cannon enough core april ramp wedding";

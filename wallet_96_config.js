@@ -1,1 +1,1 @@
-var mnemonic = "want wolf olive put burden stick venture dawn pluck any civil solid";
+var mnemonic = "sand oxygen naive soda neck mercy acoustic purse aspect gift index fetch";

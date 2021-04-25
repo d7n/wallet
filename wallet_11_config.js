@@ -1,1 +1,1 @@
-var mnemonic = "pistol organ help cube actress scorpion hello raccoon boring afford matter bachelor";
+var mnemonic = "tumble reward lesson supreme sphere find field make grief banana picnic wait";

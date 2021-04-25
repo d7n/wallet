@@ -1,1 +1,1 @@
-var mnemonic = "company mom globe shoe material riot student rule quit sentence mobile silver";
+var mnemonic = "enter pumpkin amazing rifle flower mule awful finger garden leopard beach replace";

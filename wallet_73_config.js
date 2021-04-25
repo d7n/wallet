@@ -1,1 +1,1 @@
-var mnemonic = "office art dose forward borrow twin street valve need tennis inner young";
+var mnemonic = "inform civil hazard cage fiber happy agree piece drip poverty cloud behave";

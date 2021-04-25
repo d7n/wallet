@@ -1,1 +1,1 @@
-var mnemonic = "tornado sweet few snake hat horse polar web matter uncle pattern nasty";
+var mnemonic = "tenant bird unable rapid visit robot hand grocery army company flip injury";

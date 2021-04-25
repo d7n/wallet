@@ -1,1 +1,1 @@
-var mnemonic = "this dizzy crumble drastic purchase awesome repair year mechanic clay kind outdoor";
+var mnemonic = "aerobic attract injury mention upon fit main juice action scatter pudding slogan";

@@ -1,1 +1,1 @@
-var mnemonic = "grape able carbon odor apology swamp amount gas giggle sustain struggle various";
+var mnemonic = "reason salon vault bless rely evil hello indicate grass merge burst biology";

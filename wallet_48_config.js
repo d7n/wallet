@@ -1,1 +1,1 @@
-var mnemonic = "aunt reflect quote market detail captain course airport spoon muffin faith minute";
+var mnemonic = "credit relief apology diary shoe solar shoe record eye program measure code";

@@ -1,1 +1,1 @@
-var mnemonic = "attend file swarm bind midnight priority hire boy clip supply diary device";
+var mnemonic = "novel wreck struggle help minimum lava model school display robust emerge payment";

@@ -1,1 +1,1 @@
-var mnemonic = "disease abstract hurry gauge crowd visit sun hedgehog resource lucky century involve";
+var mnemonic = "salad story horn humor father beyond poverty abandon glance lunar brave copper";

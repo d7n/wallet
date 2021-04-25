@@ -1,1 +1,1 @@
-var mnemonic = "region soft oxygen mean immune race draft student voice bread combine click";
+var mnemonic = "fat neither clock supreme waste magic sting leisure topic quality tennis torch";

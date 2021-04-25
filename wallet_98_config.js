@@ -1,1 +1,1 @@
-var mnemonic = "female clarify accident foster bubble snack primary unveil smart castle vessel number";
+var mnemonic = "cabin deal type beef farm enlist flee repeat blade comfort bargain action";

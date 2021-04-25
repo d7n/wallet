@@ -1,1 +1,1 @@
-var mnemonic = "bird accuse fresh believe claim staff board tennis usual bamboo announce text";
+var mnemonic = "lobster excuse feed monster route top child chaos slow cheese almost frown";

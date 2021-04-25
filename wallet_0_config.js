@@ -1,1 +1,1 @@
-var mnemonic = "luggage claw desk stock close rigid frown tuna fuel sad buzz okay";
+var mnemonic = "east wife atom indicate meat input wood artefact wrap garage canoe balcony";

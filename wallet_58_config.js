@@ -1,1 +1,1 @@
-var mnemonic = "view safe icon destroy brave cave give again include page typical rule";
+var mnemonic = "vacuum strike few salmon source supreme true kiwi turn bonus brown leader";

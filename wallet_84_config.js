@@ -1,1 +1,1 @@
-var mnemonic = "dice girl tongue office oyster provide panther urge describe genuine stove tongue";
+var mnemonic = "arrange marine hand hair amused police dish solve fun maximum wave brand";

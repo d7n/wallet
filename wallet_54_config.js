@@ -1,1 +1,1 @@
-var mnemonic = "trip sign donate vapor ski once annual bonus unhappy horror across minor";
+var mnemonic = "reduce spice song like trumpet leopard base bunker minor problem elevator purchase";

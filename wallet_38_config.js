@@ -1,1 +1,1 @@
-var mnemonic = "solve process sausage escape real base machine pink false nothing flee sphere";
+var mnemonic = "judge turtle catalog female mandate grain subway gentle invest glue web velvet";

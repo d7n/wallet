@@ -1,1 +1,1 @@
-var mnemonic = "dice empower cricket aspect build tent gentle equip punch erode bike radio";
+var mnemonic = "tornado cement cave connect always come broken exotic fatal sun castle remind";

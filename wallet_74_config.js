@@ -1,1 +1,1 @@
-var mnemonic = "wet walnut frown lunar grow mouse panther assault film garage shield rhythm";
+var mnemonic = "logic degree globe picnic matrix erode debate urban wolf jacket require rack";

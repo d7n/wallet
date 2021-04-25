@@ -1,1 +1,1 @@
-var mnemonic = "ecology man pilot found kit snow chronic moment prison junior dumb rare";
+var mnemonic = "inject solution phone old soldier gather protect finger emerge female keen genuine";

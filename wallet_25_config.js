@@ -1,1 +1,1 @@
-var mnemonic = "actress clock crumble move stove wrist bronze violin stadium gun peasant true";
+var mnemonic = "pupil carpet ice soon luggage supply dumb ride tent perfect bomb essence";

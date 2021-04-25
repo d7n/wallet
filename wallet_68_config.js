@@ -1,1 +1,1 @@
-var mnemonic = "bridge square piano better initial now ability deal avocado model blame attack";
+var mnemonic = "pulp crater dizzy base alone weird love dynamic case lemon kangaroo tank";

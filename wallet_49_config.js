@@ -1,1 +1,1 @@
-var mnemonic = "wisdom swamp ghost panda stairs alter use roast year middle title tragic";
+var mnemonic = "mean goose metal wage apology solid economy taxi general ankle crystal kitten";

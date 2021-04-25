@@ -1,1 +1,1 @@
-var mnemonic = "burger action imitate ancient exchange trouble discover gentle student people initial prosper";
+var mnemonic = "giant vicious tool only pear cinnamon they beyond sand boat inside reunion";

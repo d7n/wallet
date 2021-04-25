@@ -1,1 +1,1 @@
-var mnemonic = "slow peanut elder script orange use tattoo inspire ring license grape camp";
+var mnemonic = "drum right north afford enter rather budget auto silly turtle prefer protect";

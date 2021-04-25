@@ -1,1 +1,1 @@
-var mnemonic = "urban slight skate absent sorry able drift decade caution skill fence empower";
+var mnemonic = "clever toy sunny morning yard blame tiny you enforce venue actual hurry";

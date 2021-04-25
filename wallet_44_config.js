@@ -1,1 +1,1 @@
-var mnemonic = "inner act bronze climb knife letter cool hint parade aerobic retreat device";
+var mnemonic = "awkward future seminar winner mercy scan cliff floor public mail scene science";

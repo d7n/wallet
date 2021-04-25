@@ -1,1 +1,1 @@
-var mnemonic = "clip drastic supply frog slot quarter silk shoe main vivid mouse behave";
+var mnemonic = "liar hill dune hub uncover arch ginger room leopard faint oyster neutral";

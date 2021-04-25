@@ -1,1 +1,1 @@
-var mnemonic = "gospel orbit tenant sibling anxiety bottom mystery able bind hockey bullet foam";
+var mnemonic = "blood where diary vessel camp jar there assault bag warm unlock behind";

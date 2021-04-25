@@ -1,1 +1,1 @@
-var mnemonic = "model waste side pitch security panther universe green enact refuse blood lemon";
+var mnemonic = "snack brush various devote grief chuckle lunar wait exclude trophy scrap young";

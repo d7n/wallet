@@ -1,1 +1,1 @@
-var mnemonic = "usage silly twin enemy winter advance predict car flat burger across negative";
+var mnemonic = "wealth orchard stock chuckle direct latin learn vivid off blush space upon";

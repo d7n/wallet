@@ -1,1 +1,1 @@
-var mnemonic = "diagram lizard avocado amateur velvet throw sweet dinner dragon force situate magic";
+var mnemonic = "behind audit hold glide arrest window practice craft poverty session busy sorry";

@@ -1,1 +1,1 @@
-var mnemonic = "grab brisk under evoke craft human autumn rude boil play certain old";
+var mnemonic = "amateur join ring swear coyote card blossom pattern husband garage tackle repeat";

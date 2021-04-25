@@ -1,1 +1,1 @@
-var mnemonic = "appear firm mandate engage sport buyer fatigue easily slender enjoy beach sister";
+var mnemonic = "panda episode absurd congress hire differ gauge fiction palace trap render fitness";

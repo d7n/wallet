@@ -1,1 +1,1 @@
-var mnemonic = "grunt sunset tortoise pigeon syrup lava verify turtle silly brave topple chalk";
+var mnemonic = "lazy gain traffic trim peace second gather cram kick turtle twice icon";

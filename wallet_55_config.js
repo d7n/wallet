@@ -1,1 +1,1 @@
-var mnemonic = "huge again find school thrive robot bleak arctic praise egg morning frame";
+var mnemonic = "coach upper blast swift despair worry inject energy history excuse gas feed";

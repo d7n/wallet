@@ -1,1 +1,1 @@
-var mnemonic = "suspect acid oval advice nose joke decade predict gadget remind shy rent";
+var mnemonic = "amount finish infant brief hurt wing dilemma long under title nephew engage";

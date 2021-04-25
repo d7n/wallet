@@ -1,1 +1,1 @@
-var mnemonic = "steel smart rescue merit balcony main slush slight shallow laundry photo crater";
+var mnemonic = "planet deputy parrot novel mixed chapter insect wreck horse bridge cinnamon loop";

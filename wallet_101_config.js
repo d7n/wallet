@@ -1,1 +1,1 @@
-var mnemonic = "suspect suit divide maple suspect used come head silent thumb loan stuff";
+var mnemonic = "slender parrot museum surge pizza project help bamboo range always impact vital";

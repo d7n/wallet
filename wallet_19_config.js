@@ -1,1 +1,1 @@
-var mnemonic = "case lobster cabin bar zone under century fish vital midnight must action";
+var mnemonic = "flip spike then there funny balcony recycle hurry update voice curious staff";

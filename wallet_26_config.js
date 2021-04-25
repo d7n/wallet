@@ -1,1 +1,1 @@
-var mnemonic = "cloud face silly nerve coffee chunk awkward trash eternal benefit hire exercise";
+var mnemonic = "host unique hamster dream later start harbor earn fee paper crime sketch";

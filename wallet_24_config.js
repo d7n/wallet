@@ -1,1 +1,1 @@
-var mnemonic = "term defense slender demise code steel benefit judge include dream hello floor";
+var mnemonic = "try wonder crawl romance make drum vintage dentist odor spot funny produce";

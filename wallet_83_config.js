@@ -1,1 +1,1 @@
-var mnemonic = "brave hill push absurd tobacco popular review oval side butter two mail";
+var mnemonic = "gown talk rabbit ladder body repair possible pear nice tackle stable demand";

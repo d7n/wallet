@@ -1,1 +1,1 @@
-var mnemonic = "dash extend behave wet great name resist inspire amazing certain flip pear";
+var mnemonic = "expose world more ship loyal solve gaze design conduct repair version strike";

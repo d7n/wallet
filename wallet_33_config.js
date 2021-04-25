@@ -1,1 +1,1 @@
-var mnemonic = "album cinnamon tube volume front obey hen stone appear myself fox man";
+var mnemonic = "effort dismiss concert review sunny whale region position expand jump idle repair";

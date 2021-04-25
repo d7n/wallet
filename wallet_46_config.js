@@ -1,1 +1,1 @@
-var mnemonic = "web purse badge orient proof start foil favorite amazing student share chase";
+var mnemonic = "flat coast fish idea actress laundry provide science empty panic puzzle merry";

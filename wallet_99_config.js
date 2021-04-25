@@ -1,1 +1,1 @@
-var mnemonic = "arrow tissue element work tag crunch scare kid keep weasel search chef";
+var mnemonic = "flavor cruise script cushion identify stamp other unaware check predict obscure trend";

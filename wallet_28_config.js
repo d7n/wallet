@@ -1,1 +1,1 @@
-var mnemonic = "since olympic clip trend clinic have major cover genre fabric rare orphan";
+var mnemonic = "laptop cricket dumb stuff daring please can fine gift maze best winter";

@@ -1,1 +1,1 @@
-var mnemonic = "train woman music stove clerk swim pistol agent can couch olive monkey";
+var mnemonic = "empower story brass detect alert dolphin mosquito hint ready canal judge boy";

@@ -1,1 +1,1 @@
-var mnemonic = "typical rough beyond exchange hazard drastic castle immense couch elephant fun pool";
+var mnemonic = "help fury devote six scrub forget laundry lion bind lucky huge hammer";

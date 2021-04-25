@@ -1,1 +1,1 @@
-var mnemonic = "empty almost video first salt visit page ski ability silver manage harvest";
+var mnemonic = "spot what blouse yard winner garlic mad chest tribe easy oxygen always";

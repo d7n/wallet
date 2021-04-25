@@ -1,1 +1,1 @@
-var mnemonic = "envelope mass gown rival detect evil cry stomach candy hard marble shiver";
+var mnemonic = "deny siren van steel merit select hand crater fury crucial number own";

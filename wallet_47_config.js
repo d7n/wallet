@@ -1,1 +1,1 @@
-var mnemonic = "differ salute warm chase dress video half mask loud swing energy soon";
+var mnemonic = "leisure peanut profit ordinary divorce deposit vital antique razor guess project kitten";

@@ -1,1 +1,1 @@
-var mnemonic = "twenty sleep cage discover payment stairs normal lesson dentist bring tattoo enough";
+var mnemonic = "bamboo type job awake surface obscure asset mean razor youth slam assume";

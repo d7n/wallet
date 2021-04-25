@@ -1,1 +1,1 @@
-var mnemonic = "army punch grain tourist simple eager toddler relief believe tuition inside dumb";
+var mnemonic = "people other claim little armed elevator battle foot asthma chief peace tragic";

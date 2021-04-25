@@ -1,1 +1,1 @@
-var mnemonic = "elbow long gesture add solve truth caution flip draw seek hold annual";
+var mnemonic = "point fiber amazing imitate praise feed hood clap mercy camp economy toss";

@@ -1,1 +1,1 @@
-var mnemonic = "resemble ketchup level rebuild find hello state lecture weasel vacant ring multiply";
+var mnemonic = "hurry hammer right vintage caution elegant seven wise collect beef siege survey";

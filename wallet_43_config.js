@@ -1,1 +1,1 @@
-var mnemonic = "awake pilot entire join visit panda stone ski recall erosion inspire prosper";
+var mnemonic = "fiscal expand start boat wood tumble smoke medal rocket state east error";

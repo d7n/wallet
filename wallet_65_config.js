@@ -1,1 +1,1 @@
-var mnemonic = "journey lion expire machine ramp wear interest liar lava then current depart";
+var mnemonic = "venture again wise solve correct crowd wrestle knock circle license crunch web";

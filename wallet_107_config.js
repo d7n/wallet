@@ -1,1 +1,1 @@
-var mnemonic = "hood spare ankle phone model tunnel mystery broken scheme welcome file mouse";
+var mnemonic = "place recipe wash laptop live rack subway other crawl old few hub";

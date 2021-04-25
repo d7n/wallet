@@ -1,1 +1,1 @@
-var mnemonic = "great dentist coin bonus host month thumb unfold camera embody olympic depart";
+var mnemonic = "organ false road crunch noodle floor aware joke upon lady okay conduct";

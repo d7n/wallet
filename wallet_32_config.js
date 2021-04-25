@@ -1,1 +1,1 @@
-var mnemonic = "limb seven predict potato lion hawk envelope must axis measure tortoise green";
+var mnemonic = "when very tobacco actress tribe own ozone motor february text penalty garden";

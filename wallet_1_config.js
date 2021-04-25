@@ -1,1 +1,1 @@
-var mnemonic = "inflict mass task way mystery ticket basket admit initial island clarify find";
+var mnemonic = "airport victory coral bus forget sample second junior pear spare display tower";

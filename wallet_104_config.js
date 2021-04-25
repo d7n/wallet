@@ -1,1 +1,1 @@
-var mnemonic = "winner expand grant wait reason barely polar sibling patient acid between sting";
+var mnemonic = "cinnamon animal mad eight melody abandon possible merry arrow load diet identify";

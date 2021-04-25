@@ -1,1 +1,1 @@
-var mnemonic = "bundle domain repair tomorrow despair ugly wonder chicken antique choice public uphold";
+var mnemonic = "shell ocean vocal verify tank illegal pact primary staff oblige try pond";

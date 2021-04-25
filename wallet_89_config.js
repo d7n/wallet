@@ -1,1 +1,1 @@
-var mnemonic = "infant affair apart math custom radar gorilla cluster unlock unfold sign width";
+var mnemonic = "start fun drive total system proof tumble side general stumble argue seek";

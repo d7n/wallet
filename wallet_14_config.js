@@ -1,1 +1,1 @@
-var mnemonic = "planet arrive anger strike fine excite dice useless banner security vibrant jewel";
+var mnemonic = "caution pencil shell cycle legend receive aspect scrap orient ancient price debate";

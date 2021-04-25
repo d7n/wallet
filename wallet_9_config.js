@@ -1,1 +1,1 @@
-var mnemonic = "young across toast ivory soda swap sentence unhappy verify ensure cargo memory";
+var mnemonic = "wheat risk attract response child goat solve firm hurry what loud silver";

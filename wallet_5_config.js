@@ -1,1 +1,1 @@
-var mnemonic = "spoil gather sniff first cushion stereo welcome hamster camp rabbit merry admit";
+var mnemonic = "soap become else pizza melt feed melody brief bullet series general better";

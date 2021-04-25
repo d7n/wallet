@@ -1,1 +1,1 @@
-var mnemonic = "coconut sword monitor wise visit sweet buddy purpose fiction run mobile payment";
+var mnemonic = "boost goddess regret awake day situate stove gloom crush buddy render design";

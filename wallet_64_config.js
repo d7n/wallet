@@ -1,1 +1,1 @@
-var mnemonic = "ready obtain north polar impact east embrace stool fluid possible silly rug";
+var mnemonic = "sunny awesome engage course lecture sunset wolf cause raw law hair delay";
