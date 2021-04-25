@@ -1,1 +1,1 @@
-var mnemonic = "embody mimic deal tuna audit confirm gentle dog horror mail uncover tackle";
+var mnemonic = "fold expect token reform mean culture cage fragile hill auto thought asset";

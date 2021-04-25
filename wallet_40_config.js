@@ -1,1 +1,1 @@
-var mnemonic = "churn length mistake come pioneer pioneer clinic age husband random obey hollow";
+var mnemonic = "spend skull item hazard blouse unit wear inherit all twelve gorilla stairs";

@@ -1,1 +1,1 @@
-var mnemonic = "steel depart alpha salon head promote pulp decorate struggle normal cable catch";
+var mnemonic = "excuse allow web venture poem unknown hip addict more advance shy alter";

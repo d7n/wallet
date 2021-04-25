@@ -1,1 +1,1 @@
-var mnemonic = "novel emerge neglect drum picture project census bike unveil orphan leisure fix";
+var mnemonic = "wall install degree pudding health ski crazy gate bulb develop improve glory";

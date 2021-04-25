@@ -1,1 +1,1 @@
-var mnemonic = "exit choose morning spirit snap exit dice fade mass screen damp web";
+var mnemonic = "garment tree net express text beach couple eight stem letter multiply write";

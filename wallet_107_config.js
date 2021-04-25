@@ -1,1 +1,1 @@
-var mnemonic = "much anger mimic blade direct spike slush tragic arrest plunge risk connect";
+var mnemonic = "polar else leave grit busy twin tobacco slide real behind grain wood";

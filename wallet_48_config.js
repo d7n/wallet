@@ -1,1 +1,1 @@
-var mnemonic = "session grid medal spot goat wire next veteran rescue toe message seminar";
+var mnemonic = "correct smoke salon must exist elephant hill metal churn exclude stadium secret";

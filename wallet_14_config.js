@@ -1,1 +1,1 @@
-var mnemonic = "remain output size earth lab agent crouch fire ring battle when peanut";
+var mnemonic = "puppy window error moon deer monitor flight rug sunny long repeat stamp";

@@ -1,1 +1,1 @@
-var mnemonic = "sorry anchor weather clock route drive trick lens ugly tumble weather coach";
+var mnemonic = "essay bulb drip vacuum brown please inch brand start arrest leader high";

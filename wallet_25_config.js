@@ -1,1 +1,1 @@
-var mnemonic = "deny high dose reason lucky novel common police ask shallow earth output";
+var mnemonic = "skirt coffee horse what just put wheel meat kitchen moment keen dad";

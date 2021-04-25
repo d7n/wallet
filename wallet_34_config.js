@@ -1,1 +1,1 @@
-var mnemonic = "split bicycle lake object knee orphan enough chase captain embrace detail merge";
+var mnemonic = "child direct you pig consider crystal betray cute west galaxy alpha drama";

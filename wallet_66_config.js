@@ -1,1 +1,1 @@
-var mnemonic = "female smile quantum one clock install fence drama clog force kite certain";
+var mnemonic = "whale seminar there way ship duty dose alpha library glue piano mass";

@@ -1,1 +1,1 @@
-var mnemonic = "alert yard burden exact valley poet popular gloom pass curtain toward carpet";
+var mnemonic = "gentle stone prefer cash match subway soccer stage phrase giraffe dentist merry";

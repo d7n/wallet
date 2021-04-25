@@ -1,1 +1,1 @@
-var mnemonic = "text steak dentist verify bacon stay usage injury human category opera earn";
+var mnemonic = "minimum rural tower fancy method follow mention whale equal cushion discover mean";

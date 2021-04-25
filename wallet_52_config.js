@@ -1,1 +1,1 @@
-var mnemonic = "barrel upper wheat movie metal gap pave fix weird reward height fix";
+var mnemonic = "lens frequent army keen lounge nut wolf boost ostrich evidence input rotate";

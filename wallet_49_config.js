@@ -1,1 +1,1 @@
-var mnemonic = "torch ritual manual number ankle pipe wheel aunt analyst blade cruel easy";
+var mnemonic = "wolf hole noble version brick arrange extend chest void steel clever monkey";

@@ -1,1 +1,1 @@
-var mnemonic = "ignore pull message spring absorb rigid begin train soldier debate collect female";
+var mnemonic = "hazard today lecture tired trap bring urge fold hurdle crew vocal decline";

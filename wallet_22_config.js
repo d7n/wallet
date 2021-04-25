@@ -1,1 +1,1 @@
-var mnemonic = "fly box evil recall already repeat game electric price law suspect blossom";
+var mnemonic = "primary off lion travel eager bottom blush melt negative little kingdom logic";

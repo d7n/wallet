@@ -1,1 +1,1 @@
-var mnemonic = "actress silk double sad tuition refuse expire resist wagon wool test bonus";
+var mnemonic = "sick skill confirm range palace work unaware furnace shell woman sunny hair";

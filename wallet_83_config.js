@@ -1,1 +1,1 @@
-var mnemonic = "please trend circle wood device text reward castle must mosquito later gravity";
+var mnemonic = "bundle divert final holiday pear square process screen dinosaur kiss lock era";

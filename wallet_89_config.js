@@ -1,1 +1,1 @@
-var mnemonic = "gun hair shed shield move practice pitch gorilla ginger grape student lecture";
+var mnemonic = "goddess pill mother they true actual screen deny family cave bonus drive";

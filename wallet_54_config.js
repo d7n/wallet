@@ -1,1 +1,1 @@
-var mnemonic = "found gift damage will dust quiz catalog omit miracle divert install dream";
+var mnemonic = "laundry sock meadow concert sting crazy street hard skirt sleep aisle process";

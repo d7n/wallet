@@ -1,1 +1,1 @@
-var mnemonic = "brief shove bean cliff twin monster between blossom obtain trap wrong aerobic";
+var mnemonic = "equal steel silent bulb weasel kiss target barely energy actress cheese fiscal";

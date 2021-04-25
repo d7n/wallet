@@ -1,1 +1,1 @@
-var mnemonic = "east pilot soon sick balance supreme movie reopen knee violin share aunt";
+var mnemonic = "ability catch text report twin able intact calm clown spray skirt mean";

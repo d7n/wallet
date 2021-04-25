@@ -1,1 +1,1 @@
-var mnemonic = "outer silver sunset box carbon ostrich add seat convince spring harvest camp";
+var mnemonic = "exhibit erode baby season animal lens alert dolphin great magic age bridge";

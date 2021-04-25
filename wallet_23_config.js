@@ -1,1 +1,1 @@
-var mnemonic = "earn ring fish gloom faint bench apart electric cushion coin analyst coconut";
+var mnemonic = "speed illegal picnic seminar mail creek auto junior celery penalty stereo timber";

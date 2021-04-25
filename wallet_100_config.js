@@ -1,1 +1,1 @@
-var mnemonic = "blame remain minimum page fiction kitchen earn clock hat maple kitchen someone";
+var mnemonic = "boat ozone diesel execute daring century useful panel merge rubber void trade";

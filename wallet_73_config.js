@@ -1,1 +1,1 @@
-var mnemonic = "kick combine execute grow load tip kiss pink regular pelican desk knock";
+var mnemonic = "issue fossil circle topic few chase friend winner hospital duty business ignore";

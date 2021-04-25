@@ -1,1 +1,1 @@
-var mnemonic = "current dwarf amazing buddy punch tell play half business render waste similar";
+var mnemonic = "anchor image debate wrist nephew advice danger open coast act dilemma immune";

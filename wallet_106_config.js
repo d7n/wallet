@@ -1,1 +1,1 @@
-var mnemonic = "clean prefer pair search thumb key evidence athlete hand suspect pretty keen";
+var mnemonic = "chef law use split asset sun naive sudden execute clump traffic lazy";

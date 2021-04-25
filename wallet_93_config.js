@@ -1,1 +1,1 @@
-var mnemonic = "bless cheese embrace adjust tissue broccoli business celery brown unveil insane pupil";
+var mnemonic = "flavor drop scheme permit possible medal then deliver wrong usual sudden meat";

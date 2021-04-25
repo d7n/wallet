@@ -1,1 +1,1 @@
-var mnemonic = "punch orange coconut globe power equal choose shell absent whale stool struggle";
+var mnemonic = "music furnace ethics whale loop pitch write smooth legend frown sausage knife";

@@ -1,1 +1,1 @@
-var mnemonic = "casino glass sponsor face aware reform sister spell proof joy twist actor";
+var mnemonic = "purity doll tree cube chest infant tobacco mixed box economy cheese autumn";

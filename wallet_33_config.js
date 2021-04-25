@@ -1,1 +1,1 @@
-var mnemonic = "scrap advance oven wedding swing expire nose garlic cable project smile equal";
+var mnemonic = "multiply drift minimum sudden leave change company dawn bench street lunar abuse";

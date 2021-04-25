@@ -1,1 +1,1 @@
-var mnemonic = "nerve concert canoe atom spirit retreat float mind impose gospel ritual catalog";
+var mnemonic = "arrange pepper hint iron crumble print evoke digital aerobic future oyster jungle";

@@ -1,1 +1,1 @@
-var mnemonic = "order barrel bike wear humor nation inform ribbon subway surprise cradle prevent";
+var mnemonic = "fault salon salon inherit unique anxiety barrel riot stage fringe absorb october";

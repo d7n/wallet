@@ -1,1 +1,1 @@
-var mnemonic = "female opera vital indicate silver horror limit winter elephant lamp amount source";
+var mnemonic = "shiver figure cage medal alone review magic gasp toddler omit snack spend";

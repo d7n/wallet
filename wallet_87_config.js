@@ -1,1 +1,1 @@
-var mnemonic = "divide bracket embark cube refuse curious stamp door deputy circle end evoke";
+var mnemonic = "divert hen valley code ceiling drum jump report clip peanut craft online";

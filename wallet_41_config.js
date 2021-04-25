@@ -1,1 +1,1 @@
-var mnemonic = "spray tornado neglect exchange grace sauce stool sample lecture attract fluid eager";
+var mnemonic = "hat unable debate person catalog faint column surround amateur strike cattle double";

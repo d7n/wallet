@@ -1,1 +1,1 @@
-var mnemonic = "sell vanish aware angle base manage amount call minimum page subway actual";
+var mnemonic = "dismiss web pumpkin alcohol rebel also skin wrestle cradle history coffee cake";

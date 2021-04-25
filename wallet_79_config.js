@@ -1,1 +1,1 @@
-var mnemonic = "eight tag twenty venue protect sort yard shadow travel whale bar horn";
+var mnemonic = "post word worry secret divide error vivid situate giant gift fame ivory";

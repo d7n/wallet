@@ -1,1 +1,1 @@
-var mnemonic = "speak sad tone lion exchange gown curtain used decade speed regular hover";
+var mnemonic = "talk cup dentist key clay gap mutual panther cheese episode great edge";

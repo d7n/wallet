@@ -1,1 +1,1 @@
-var mnemonic = "spot purchase very atom that tongue lyrics ski umbrella olive ship age";
+var mnemonic = "garment cement today marine boss decade unit rain arrange border dragon where";

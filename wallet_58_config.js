@@ -1,1 +1,1 @@
-var mnemonic = "offer group siren grow example finger blind horror myself universe vague peasant";
+var mnemonic = "lounge boring shallow corn all nominee key learn decorate broken axis seat";

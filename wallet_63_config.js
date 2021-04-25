@@ -1,1 +1,1 @@
-var mnemonic = "later shaft upon lecture slice dizzy common enemy put enforce blanket abuse";
+var mnemonic = "lava test exhibit appear enable tortoise spawn visual moon tone fresh arrow";

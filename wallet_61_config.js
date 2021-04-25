@@ -1,1 +1,1 @@
-var mnemonic = "mass annual skirt sleep film oak gauge cabin purity tilt token change";
+var mnemonic = "weather truly height gap nation raven consider detail gospel lawn stomach web";

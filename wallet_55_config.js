@@ -1,1 +1,1 @@
-var mnemonic = "shed reduce poverty couple put gospel early stomach hammer trouble bean insect";
+var mnemonic = "segment glass left kiss absorb scheme also urge exotic minimum aware false";

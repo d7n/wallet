@@ -1,1 +1,1 @@
-var mnemonic = "drum surprise excuse shy negative gym strategy photo into define above traffic";
+var mnemonic = "expand surprise donor stomach region diesel bitter aisle goddess crisp travel behind";

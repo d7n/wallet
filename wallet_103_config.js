@@ -1,1 +1,1 @@
-var mnemonic = "trim spirit nose zero front shield cram wild cat crunch buyer swarm";
+var mnemonic = "pepper gossip cancel require hungry garbage magnet flag embark alert attack waste";

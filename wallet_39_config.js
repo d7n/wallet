@@ -1,1 +1,1 @@
-var mnemonic = "throw ozone genre height try rate toward thank real tennis seven fiction";
+var mnemonic = "entire away similar puppy spy harsh cram frequent head grain nice pony";

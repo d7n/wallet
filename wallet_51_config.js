@@ -1,1 +1,1 @@
-var mnemonic = "arrange guitar diesel fuel sauce bundle cave clever embrace train capable nose";
+var mnemonic = "shoe write wire weasel rice squirrel still chase obey vast any warfare";

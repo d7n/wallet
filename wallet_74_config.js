@@ -1,1 +1,1 @@
-var mnemonic = "maple report shuffle buffalo nurse screen current win combine smooth inhale pistol";
+var mnemonic = "rough riot control crane canoe illness wonder faculty stable jealous shuffle mobile";

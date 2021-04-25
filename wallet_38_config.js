@@ -1,1 +1,1 @@
-var mnemonic = "jump body open remove hammer economy between remove remember gravity bubble supreme";
+var mnemonic = "glare grid exclude acquire lyrics amount nurse luggage dentist keep puppy fold";

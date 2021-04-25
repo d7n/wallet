@@ -1,1 +1,1 @@
-var mnemonic = "crew flee skirt atom lava grid start script custom stadium famous sponsor";
+var mnemonic = "obtain merge boil length execute slow crime aim matrix kit issue excuse";

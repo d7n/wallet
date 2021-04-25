@@ -1,1 +1,1 @@
-var mnemonic = "tackle approve chimney buzz grief ceiling idea certain sibling bulk junior pull";
+var mnemonic = "retire horse random ranch park ethics promote empower coffee topple present aim";

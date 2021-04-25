@@ -1,1 +1,1 @@
-var mnemonic = "tonight reward doll evil seat sugar banana hello network pencil punch devote";
+var mnemonic = "obey ocean melt hard today rhythm axis plunge scorpion order ritual fat";

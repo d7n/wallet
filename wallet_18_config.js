@@ -1,1 +1,1 @@
-var mnemonic = "enforce modify mechanic adjust ancient announce move patient grid moon enact begin";
+var mnemonic = "lobster anger hover pride survey nuclear list drink help transfer satisfy company";

@@ -1,1 +1,1 @@
-var mnemonic = "uniform first law praise utility cup orchard dad wheel short whip health";
+var mnemonic = "nest injury mosquito destroy ring power spatial genius border double slab shed";

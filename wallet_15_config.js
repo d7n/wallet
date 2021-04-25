@@ -1,1 +1,1 @@
-var mnemonic = "other symptom corn permit obtain describe wish parade lens ensure peanut next";
+var mnemonic = "bacon twice more nature sense give sort method tube skill solar inhale";

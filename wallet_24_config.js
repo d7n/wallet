@@ -1,1 +1,1 @@
-var mnemonic = "inject orbit token once employ loop tornado chair trip inject attitude flavor";
+var mnemonic = "silk letter sound answer employ vital pause practice era middle diary vendor";

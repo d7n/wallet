@@ -1,1 +1,1 @@
-var mnemonic = "sample must kiss tragic casino list pact mercy various doctor civil album";
+var mnemonic = "estate weekend supply memory into nut strike sample blanket error slogan bronze";

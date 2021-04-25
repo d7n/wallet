@@ -1,1 +1,1 @@
-var mnemonic = "alert apology fork dizzy reduce run walnut author actual elephant melt coffee";
+var mnemonic = "immune vintage slot again you angle cruel prepare runway chicken similar right";

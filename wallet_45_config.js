@@ -1,1 +1,1 @@
-var mnemonic = "immune train leader forward proud spin claw legal gun auto bitter uncover";
+var mnemonic = "isolate neglect cupboard tank carbon alone help discover secret ski delay rely";

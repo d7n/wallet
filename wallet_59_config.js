@@ -1,1 +1,1 @@
-var mnemonic = "snake point border primary sad pattern rug dirt skull sand orange multiply";
+var mnemonic = "squirrel mad clap main attract visual razor input umbrella art trial uncover";

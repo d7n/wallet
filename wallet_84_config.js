@@ -1,1 +1,1 @@
-var mnemonic = "oyster legend sadness month egg area connect erase hedgehog exclude clock excite";
+var mnemonic = "blame grab drink resemble flush connect inform setup floor shove diet amazing";

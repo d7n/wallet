@@ -1,1 +1,1 @@
-var mnemonic = "glide trip faint cherry used derive kidney tray must shiver choose glance";
+var mnemonic = "pistol cake camp age kick canvas mail bar guide twist universe better";

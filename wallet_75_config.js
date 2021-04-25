@@ -1,1 +1,1 @@
-var mnemonic = "village forward comic grit profit immense riot exit awkward cereal copy hold";
+var mnemonic = "vivid panther sentence afford concert bubble police device measure armor mosquito avocado";

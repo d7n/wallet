@@ -1,1 +1,1 @@
-var mnemonic = "rude pumpkin apology race easy barrel shine crane nature point need dignity";
+var mnemonic = "cereal finish believe pony hole alone staff wealth tongue pizza upset document";

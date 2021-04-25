@@ -1,1 +1,1 @@
-var mnemonic = "copper soccer news stool orbit tuna civil unable damage health infant theory";
+var mnemonic = "immense talk nice tank beyond poet twin alert under dice fox push";

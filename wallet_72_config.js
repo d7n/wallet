@@ -1,1 +1,1 @@
-var mnemonic = "place donate enforce various bench protect banana laundry elbow purse spend story";
+var mnemonic = "worry captain debris sentence stem evidence index income elite vocal accident north";

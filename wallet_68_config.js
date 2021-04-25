@@ -1,1 +1,1 @@
-var mnemonic = "bonus theme zero smoke wrap monkey chaos loyal bracket stay advance attitude";
+var mnemonic = "occur trumpet never fox super marriage patient target awkward empower boss host";

@@ -1,1 +1,1 @@
-var mnemonic = "rice bottom sing hospital gun barrel almost spring dismiss piano keep idle";
+var mnemonic = "puppy despair myth depend earn wife oval soft kid mom egg grass";

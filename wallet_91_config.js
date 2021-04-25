@@ -1,1 +1,1 @@
-var mnemonic = "case link sample case party cook airport differ zone ill reunion venue";
+var mnemonic = "vacuum paper glide rule slight group segment nation captain begin afford only";

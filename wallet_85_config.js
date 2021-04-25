@@ -1,1 +1,1 @@
-var mnemonic = "horror mechanic mule clog term dog inject car regret april observe jazz";
+var mnemonic = "wealth phone wish party stereo tone drive armed damp kitchen hover fetch";

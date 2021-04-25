@@ -1,1 +1,1 @@
-var mnemonic = "squeeze marine welcome about lecture common someone day switch tiger cat define";
+var mnemonic = "excite move spend wedding ranch depth strong mask trust below adjust pepper";

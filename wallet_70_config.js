@@ -1,1 +1,1 @@
-var mnemonic = "ancient theory universe truly lawsuit desert slow away matter make shoe smile";
+var mnemonic = "where increase primary silent river tired country predict resemble comfort glass large";

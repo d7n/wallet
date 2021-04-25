@@ -1,1 +1,1 @@
-var mnemonic = "eagle nerve action legal scare surface blade entry dad used awesome surprise";
+var mnemonic = "exhaust garden orchard carpet dune side uphold jacket nation viable erupt steel";

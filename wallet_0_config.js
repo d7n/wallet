@@ -1,1 +1,1 @@
-var mnemonic = "voice random baby relax pitch bridge way crush neglect ill genuine common";
+var mnemonic = "adjust knife assault sport kingdom mule disease wage fault use impulse visa";

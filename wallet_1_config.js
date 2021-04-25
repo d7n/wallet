@@ -1,1 +1,1 @@
-var mnemonic = "dirt glory immune action special pioneer clown squeeze daughter inside method coral";
+var mnemonic = "pause mix horror knock gaze imitate blossom cactus follow onion trap follow";

@@ -1,1 +1,1 @@
-var mnemonic = "rebel metal since damp town silk random swarm cargo image argue ozone";
+var mnemonic = "banana sword sword theory expand horse solution host hedgehog shell change reform";

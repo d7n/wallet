@@ -1,1 +1,1 @@
-var mnemonic = "rather kit harvest lunch upset type borrow target dash naive coffee actor";
+var mnemonic = "crew coach nation chair shop bone rocket midnight produce ghost file jeans";

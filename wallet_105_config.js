@@ -1,1 +1,1 @@
-var mnemonic = "brick find silver actress bunker slogan planet tilt consider budget fossil payment";
+var mnemonic = "claim glare term rubber uphold almost view connect nurse wage immense mind";

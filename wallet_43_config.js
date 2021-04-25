@@ -1,1 +1,1 @@
-var mnemonic = "smile slice tell ostrich someone setup friend foot sudden warrior foster control";
+var mnemonic = "exclude ivory rug shallow spirit soul screen twenty pill fat tenant soul";

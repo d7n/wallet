@@ -1,1 +1,1 @@
-var mnemonic = "frost utility soup journey bullet beach hub dwarf arrange beauty hunt tired";
+var mnemonic = "rigid session clock tower access orchard fiction someone story strong battle focus";

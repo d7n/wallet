@@ -1,1 +1,1 @@
-var mnemonic = "hip decline federal hockey fly such neither space worry reflect equal kick";
+var mnemonic = "rifle steak flush object digital shallow found start divorce salute flag castle";

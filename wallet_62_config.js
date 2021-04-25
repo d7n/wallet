@@ -1,1 +1,1 @@
-var mnemonic = "text rose ignore unit fine quick slice until donor lonely over rail";
+var mnemonic = "cable tube flavor huge trap nominee evolve net pole mimic today green";

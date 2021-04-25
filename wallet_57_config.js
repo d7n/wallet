@@ -1,1 +1,1 @@
-var mnemonic = "unfair shrimp insect stand replace busy profit train strong present monitor kiwi";
+var mnemonic = "ready chunk scheme dad orbit account finger ahead attend soap zone fatal";

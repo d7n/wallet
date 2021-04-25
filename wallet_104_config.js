@@ -1,1 +1,1 @@
-var mnemonic = "asthma coin ticket wheat section liar skin ship maze illegal end rebel";
+var mnemonic = "sleep nose maximum stuff salad hurry six label isolate gesture left turkey";

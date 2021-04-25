@@ -1,1 +1,1 @@
-var mnemonic = "betray vital much pass account offer proud rookie fever move exercise refuse";
+var mnemonic = "amused picture seven what desk pitch sauce island token rebuild frost plunge";

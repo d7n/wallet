@@ -1,1 +1,1 @@
-var mnemonic = "sail market echo modify valid donkey visa fold furnace ordinary hurdle jewel";
+var mnemonic = "oblige leader tide client utility rubber game actress burst seek cause disagree";

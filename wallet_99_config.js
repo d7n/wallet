@@ -1,1 +1,1 @@
-var mnemonic = "rug double raven drum feed salon valve pink result drive oyster dog";
+var mnemonic = "blur phrase test tiger obey add stable leave awesome quality tiny window";
