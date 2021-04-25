@@ -1,1 +1,1 @@
-var mnemonic = "tumble reward lesson supreme sphere find field make grief banana picnic wait";
+var mnemonic = "rough control problem dance month inherit shuffle appear robust allow reduce artist";

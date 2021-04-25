@@ -1,1 +1,1 @@
-var mnemonic = "duck skin swear shaft vicious subway height true seek junk gift mass";
+var mnemonic = "vital exile reason know bubble artefact trip ball open good blame wagon";

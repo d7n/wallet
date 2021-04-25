@@ -1,1 +1,1 @@
-var mnemonic = "wealth orchard stock chuckle direct latin learn vivid off blush space upon";
+var mnemonic = "lunar eagle analyst detect bleak swarm ski mercy miss pig remove innocent";

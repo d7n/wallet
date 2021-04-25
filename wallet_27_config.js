@@ -1,1 +1,1 @@
-var mnemonic = "reason salon vault bless rely evil hello indicate grass merge burst biology";
+var mnemonic = "myth pioneer joke abuse degree pink consider profit appear romance head market";

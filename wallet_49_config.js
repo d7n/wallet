@@ -1,1 +1,1 @@
-var mnemonic = "mean goose metal wage apology solid economy taxi general ankle crystal kitten";
+var mnemonic = "maid zoo portion unfair ethics drop cabin public matrix critic portion juice";

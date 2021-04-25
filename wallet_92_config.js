@@ -1,1 +1,1 @@
-var mnemonic = "jaguar awesome laundry base garlic beyond police hedgehog antenna series vessel license";
+var mnemonic = "load release dog method exhibit embrace potato sting ramp deal prevent solution";

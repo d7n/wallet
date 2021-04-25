@@ -1,1 +1,1 @@
-var mnemonic = "scissors pause parent hub tired diary kitten carry member remove ribbon conduct";
+var mnemonic = "hockey bracket purse city trouble inhale thumb ocean inflict zoo armor stereo";

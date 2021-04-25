@@ -1,1 +1,1 @@
-var mnemonic = "viable capable junk maze cabbage nothing address amused maid this goddess swing";
+var mnemonic = "type remain bind travel decade device pause load inspire olive caught attend";

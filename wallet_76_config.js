@@ -1,1 +1,1 @@
-var mnemonic = "caution punch dutch gadget keep robust spray answer boil acoustic announce slam";
+var mnemonic = "scrap lake alert grocery subway match joke film word hood twin case";

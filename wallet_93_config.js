@@ -1,1 +1,1 @@
-var mnemonic = "liar hill dune hub uncover arch ginger room leopard faint oyster neutral";
+var mnemonic = "grace parade business submit loan truly awesome bleak off morning renew snap";

@@ -1,1 +1,1 @@
-var mnemonic = "slender parrot museum surge pizza project help bamboo range always impact vital";
+var mnemonic = "jar angle yard despair desert village elephant often menu thing senior hawk";

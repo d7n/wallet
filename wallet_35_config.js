@@ -1,1 +1,1 @@
-var mnemonic = "fall join rare gloom deliver pistol indoor shaft together hurt opinion soft";
+var mnemonic = "surface visa glimpse audit divert beach exchange fall paddle link school tape";

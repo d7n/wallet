@@ -1,1 +1,1 @@
-var mnemonic = "amateur join ring swear coyote card blossom pattern husband garage tackle repeat";
+var mnemonic = "duty mix penalty air slim eye search okay add common antique hood";

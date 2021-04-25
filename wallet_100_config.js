@@ -1,1 +1,1 @@
-var mnemonic = "spot what blouse yard winner garlic mad chest tribe easy oxygen always";
+var mnemonic = "curve ship hair melody gravity math alarm doll club focus month eager";

@@ -1,1 +1,1 @@
-var mnemonic = "sunny awesome engage course lecture sunset wolf cause raw law hair delay";
+var mnemonic = "unaware when prize strong across wife pen carbon night few you teach";

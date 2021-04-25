@@ -1,1 +1,1 @@
-var mnemonic = "salad story horn humor father beyond poverty abandon glance lunar brave copper";
+var mnemonic = "awful pill edge phrase vibrant best forum city where dragon crack hazard";

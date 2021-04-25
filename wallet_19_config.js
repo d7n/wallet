@@ -1,1 +1,1 @@
-var mnemonic = "flip spike then there funny balcony recycle hurry update voice curious staff";
+var mnemonic = "horse dinner jelly unhappy plastic garment agree base cloud lady sadness engage";

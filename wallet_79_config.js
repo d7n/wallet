@@ -1,1 +1,1 @@
-var mnemonic = "talk abuse drive voice monster grace better waste sleep bitter soccer problem";
+var mnemonic = "diesel cause finish dice dad firm punch extend trip tortoise enemy twin";

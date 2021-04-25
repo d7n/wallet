@@ -1,1 +1,1 @@
-var mnemonic = "empower story brass detect alert dolphin mosquito hint ready canal judge boy";
+var mnemonic = "slogan napkin pepper traffic denial loyal keen way dry try file odor";

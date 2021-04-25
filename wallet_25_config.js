@@ -1,1 +1,1 @@
-var mnemonic = "pupil carpet ice soon luggage supply dumb ride tent perfect bomb essence";
+var mnemonic = "violin ride account language squirrel amazing rare spot mesh fossil speed soccer";

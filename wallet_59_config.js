@@ -1,1 +1,1 @@
-var mnemonic = "proof pink reason time avocado bleak reduce half demise crunch obvious symptom";
+var mnemonic = "human camp obscure nose orchard segment hundred blouse neck affair neglect pelican";

@@ -1,1 +1,1 @@
-var mnemonic = "logic degree globe picnic matrix erode debate urban wolf jacket require rack";
+var mnemonic = "there turtle devote damage forum news depend medal quality rent cube tail";

@@ -1,1 +1,1 @@
-var mnemonic = "organ false road crunch noodle floor aware joke upon lady okay conduct";
+var mnemonic = "hood era sort slice shed brush vital valve scheme vivid boring column";

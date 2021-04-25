@@ -1,1 +1,1 @@
-var mnemonic = "behind audit hold glide arrest window practice craft poverty session busy sorry";
+var mnemonic = "average purse fog immune recipe track cat buzz steel glow tank crack";

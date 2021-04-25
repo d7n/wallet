@@ -1,1 +1,1 @@
-var mnemonic = "when very tobacco actress tribe own ozone motor february text penalty garden";
+var mnemonic = "immune hair health subway theme real payment other hunt bracket kick youth";

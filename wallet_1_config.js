@@ -1,1 +1,1 @@
-var mnemonic = "airport victory coral bus forget sample second junior pear spare display tower";
+var mnemonic = "private immense ancient rich cause nothing genuine work open ski pottery satisfy";

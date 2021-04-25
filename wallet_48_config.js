@@ -1,1 +1,1 @@
-var mnemonic = "credit relief apology diary shoe solar shoe record eye program measure code";
+var mnemonic = "mule reflect promote enable know exercise hole raw fashion kingdom machine midnight";

@@ -1,1 +1,1 @@
-var mnemonic = "leisure peanut profit ordinary divorce deposit vital antique razor guess project kitten";
+var mnemonic = "science female image reveal craft remain uncover disease source leisure short ginger";

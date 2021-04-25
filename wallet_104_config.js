@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon animal mad eight melody abandon possible merry arrow load diet identify";
+var mnemonic = "fatal notice core burger have jaguar arrange maximum asset physical moment artwork";

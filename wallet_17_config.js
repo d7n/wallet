@@ -1,1 +1,1 @@
-var mnemonic = "blood where diary vessel camp jar there assault bag warm unlock behind";
+var mnemonic = "autumn old oblige february boss blouse direct wasp riot tuition blanket tribe";

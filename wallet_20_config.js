@@ -1,1 +1,1 @@
-var mnemonic = "deny siren van steel merit select hand crater fury crucial number own";
+var mnemonic = "slow proof danger way great park reveal dilemma hobby already witness monster";

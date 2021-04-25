@@ -1,1 +1,1 @@
-var mnemonic = "tenant bird unable rapid visit robot hand grocery army company flip injury";
+var mnemonic = "other glide invest card finish fame east level basket property runway balcony";

@@ -1,1 +1,1 @@
-var mnemonic = "hurry hammer right vintage caution elegant seven wise collect beef siege survey";
+var mnemonic = "artefact crunch future device raise right use elegant fancy method island tissue";

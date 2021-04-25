@@ -1,1 +1,1 @@
-var mnemonic = "start fun drive total system proof tumble side general stumble argue seek";
+var mnemonic = "group area echo sunny rookie pistol title goddess oven because media crunch";

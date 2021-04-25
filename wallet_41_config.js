@@ -1,1 +1,1 @@
-var mnemonic = "absent burger person seminar cargo almost beef wonder gadget defy fetch use";
+var mnemonic = "need approve mango sand produce trial fashion regular census dream menu sort";

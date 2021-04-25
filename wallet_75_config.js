@@ -1,1 +1,1 @@
-var mnemonic = "help fury devote six scrub forget laundry lion bind lucky huge hammer";
+var mnemonic = "yard valid season curtain blush process cover mushroom erode mansion transfer myself";

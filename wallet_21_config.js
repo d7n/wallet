@@ -1,1 +1,1 @@
-var mnemonic = "glide dune collect sound excess already end oyster gloom bounce shallow hammer";
+var mnemonic = "popular carbon urge negative credit cherry again beauty stable jelly call mind";

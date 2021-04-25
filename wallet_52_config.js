@@ -1,1 +1,1 @@
-var mnemonic = "giant vicious tool only pear cinnamon they beyond sand boat inside reunion";
+var mnemonic = "moral cement cigar aerobic water cheese gain success song visit zero bounce";

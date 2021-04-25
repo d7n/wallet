@@ -1,1 +1,1 @@
-var mnemonic = "inflict guard sunny broken side below recycle force priority utility major pistol";
+var mnemonic = "domain coin opinion away device drive hotel rely wet reform runway roof";

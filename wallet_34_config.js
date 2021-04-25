@@ -1,1 +1,1 @@
-var mnemonic = "pattern square omit present length reduce lemon member control gadget rubber three";
+var mnemonic = "mix beauty nice wrist lamp taste swarm company ticket shell citizen honey";

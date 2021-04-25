@@ -1,1 +1,1 @@
-var mnemonic = "soap become else pizza melt feed melody brief bullet series general better";
+var mnemonic = "spin clerk goat grunt cannon begin cat gym creek tank oil skirt";

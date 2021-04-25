@@ -1,1 +1,1 @@
-var mnemonic = "nuclear scorpion ancient upgrade pipe travel icon divert melt reform slow inherit";
+var mnemonic = "success project course flower budget faint state leisure dumb radio cook forward";

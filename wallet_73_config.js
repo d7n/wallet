@@ -1,1 +1,1 @@
-var mnemonic = "inform civil hazard cage fiber happy agree piece drip poverty cloud behave";
+var mnemonic = "settle organ brother relax mad course despair project theory section myth jacket";

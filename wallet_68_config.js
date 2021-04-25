@@ -1,1 +1,1 @@
-var mnemonic = "pulp crater dizzy base alone weird love dynamic case lemon kangaroo tank";
+var mnemonic = "garment lecture acoustic silk escape fog cabbage grief spawn limit ladder cinnamon";

@@ -1,1 +1,1 @@
-var mnemonic = "human list style flag mask blast camera tongue wide cousin purse patient";
+var mnemonic = "trial toss image void pass damage change act access sheriff polar attitude";

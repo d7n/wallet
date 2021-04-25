@@ -1,1 +1,1 @@
-var mnemonic = "reduce spice song like trumpet leopard base bunker minor problem elevator purchase";
+var mnemonic = "elegant shine derive prefer few addict shield evidence gown blouse main shine";

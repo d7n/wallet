@@ -1,1 +1,1 @@
-var mnemonic = "travel melt gloom violin good struggle winner memory option rare thank food";
+var mnemonic = "exclude embody order enlist clump develop fame park left peasant run grid";

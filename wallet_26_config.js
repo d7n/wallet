@@ -1,1 +1,1 @@
-var mnemonic = "host unique hamster dream later start harbor earn fee paper crime sketch";
+var mnemonic = "gallery balance figure hammer penalty fatal day cost risk margin kick eagle";

@@ -1,1 +1,1 @@
-var mnemonic = "panda episode absurd congress hire differ gauge fiction palace trap render fitness";
+var mnemonic = "tank have script glue duty lamp demise crash equal life circle dad";

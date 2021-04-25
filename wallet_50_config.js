@@ -1,1 +1,1 @@
-var mnemonic = "celery wreck jeans clever input long consider final present shop isolate remain";
+var mnemonic = "charge hat puzzle father age typical scissors life file split allow skull";

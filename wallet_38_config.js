@@ -1,1 +1,1 @@
-var mnemonic = "judge turtle catalog female mandate grain subway gentle invest glue web velvet";
+var mnemonic = "ethics annual gloom toe test potato decline rifle pink thrive scale visit";

@@ -1,1 +1,1 @@
-var mnemonic = "shell ocean vocal verify tank illegal pact primary staff oblige try pond";
+var mnemonic = "donate provide tree teach soap siege tube height stage twist seminar kitchen";

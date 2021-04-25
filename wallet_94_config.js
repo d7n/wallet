@@ -1,1 +1,1 @@
-var mnemonic = "bubble puppy seek business nuclear option amount mix concert travel round goddess";
+var mnemonic = "regret come strategy boil recycle close rack ill upon prepare problem photo";

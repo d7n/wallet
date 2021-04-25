@@ -1,1 +1,1 @@
-var mnemonic = "evidence catch frequent early have peanut cannon enough core april ramp wedding";
+var mnemonic = "anxiety dune raise hybrid craft cargo usage aspect paper wreck blur orphan";

@@ -1,1 +1,1 @@
-var mnemonic = "place recipe wash laptop live rack subway other crawl old few hub";
+var mnemonic = "toward top team ring tired gallery mountain engage level hundred already idea";

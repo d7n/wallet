@@ -1,1 +1,1 @@
-var mnemonic = "snack brush various devote grief chuckle lunar wait exclude trophy scrap young";
+var mnemonic = "width pudding modify drill fever spider acid breeze note electric ill hire";

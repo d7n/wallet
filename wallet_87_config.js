@@ -1,1 +1,1 @@
-var mnemonic = "lobster excuse feed monster route top child chaos slow cheese almost frown";
+var mnemonic = "volume awkward energy expire cancel flush actor window subway sword mango bench";

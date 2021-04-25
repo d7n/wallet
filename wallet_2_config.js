@@ -1,1 +1,1 @@
-var mnemonic = "donkey balance slice outer social kind view uncle gather company force awkward";
+var mnemonic = "belt throw minimum unfold earn curtain venture door rose asset thought fit";

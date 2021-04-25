@@ -1,1 +1,1 @@
-var mnemonic = "mind right blanket rice ten mimic slender peasant print sibling impact warfare";
+var mnemonic = "earn used surprise craft era sad include suggest upon normal enroll submit";

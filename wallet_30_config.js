@@ -1,1 +1,1 @@
-var mnemonic = "aerobic attract injury mention upon fit main juice action scatter pudding slogan";
+var mnemonic = "filter client advice discover write shine sick leisure fury head intact cream";

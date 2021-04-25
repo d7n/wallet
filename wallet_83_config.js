@@ -1,1 +1,1 @@
-var mnemonic = "gown talk rabbit ladder body repair possible pear nice tackle stable demand";
+var mnemonic = "dose domain deputy chuckle oyster lucky blue exile real palace return just";

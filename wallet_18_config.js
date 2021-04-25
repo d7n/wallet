@@ -1,1 +1,1 @@
-var mnemonic = "border busy humble music aisle maple soda slow october book smooth enact";
+var mnemonic = "bench best nose nuclear flash solution idle suggest crouch stairs rescue budget";

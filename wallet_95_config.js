@@ -1,1 +1,1 @@
-var mnemonic = "enter pumpkin amazing rifle flower mule awful finger garden leopard beach replace";
+var mnemonic = "save time segment accuse amateur vibrant occur chuckle clump body rate gaze";

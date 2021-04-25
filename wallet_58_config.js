@@ -1,1 +1,1 @@
-var mnemonic = "vacuum strike few salmon source supreme true kiwi turn bonus brown leader";
+var mnemonic = "mansion wisdom quality potato hat agree addict hour weird light gym cinnamon";

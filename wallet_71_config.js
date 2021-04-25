@@ -1,1 +1,1 @@
-var mnemonic = "planet deputy parrot novel mixed chapter insect wreck horse bridge cinnamon loop";
+var mnemonic = "few okay moment kick iron retreat gentle junior gasp wasp ring notable";

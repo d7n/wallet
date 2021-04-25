@@ -1,1 +1,1 @@
-var mnemonic = "tornado cement cave connect always come broken exotic fatal sun castle remind";
+var mnemonic = "hammer enlist pill purity issue reason traffic gap omit harsh yellow uncle";

@@ -1,1 +1,1 @@
-var mnemonic = "east wife atom indicate meat input wood artefact wrap garage canoe balcony";
+var mnemonic = "bargain laugh bone slush crater series art quantum grape have ancient smart";

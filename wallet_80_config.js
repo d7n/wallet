@@ -1,1 +1,1 @@
-var mnemonic = "arrest collect lunar cook entire lobster toss umbrella daughter just snow turtle";
+var mnemonic = "sweet side horn draft decide business flash lawsuit fire original tiger toss";

@@ -1,1 +1,1 @@
-var mnemonic = "bamboo type job awake surface obscure asset mean razor youth slam assume";
+var mnemonic = "point chaos cloth file social toe ten grape evolve tape gas fly";

@@ -1,1 +1,1 @@
-var mnemonic = "flavor cruise script cushion identify stamp other unaware check predict obscure trend";
+var mnemonic = "shed hospital voice drama girl radio accuse summer vast lemon glimpse flight";

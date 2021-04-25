@@ -1,1 +1,1 @@
-var mnemonic = "flat coast fish idea actress laundry provide science empty panic puzzle merry";
+var mnemonic = "company lemon embody dove atom bacon across become exist ill odor dress";

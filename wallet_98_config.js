@@ -1,1 +1,1 @@
-var mnemonic = "cabin deal type beef farm enlist flee repeat blade comfort bargain action";
+var mnemonic = "small egg moon deputy flee marble tell blossom avocado weapon garden omit";

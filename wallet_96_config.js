@@ -1,1 +1,1 @@
-var mnemonic = "sand oxygen naive soda neck mercy acoustic purse aspect gift index fetch";
+var mnemonic = "enact army upper volcano give symbol cry voyage battle return tonight assist";

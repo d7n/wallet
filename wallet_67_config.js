@@ -1,1 +1,1 @@
-var mnemonic = "inject solution phone old soldier gather protect finger emerge female keen genuine";
+var mnemonic = "great magnet grief elite august large flock exclude bread pulp hill average";

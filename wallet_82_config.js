@@ -1,1 +1,1 @@
-var mnemonic = "novel wreck struggle help minimum lava model school display robust emerge payment";
+var mnemonic = "bind liberty gather suit noble beef among expire film inch clutch search";

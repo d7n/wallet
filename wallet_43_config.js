@@ -1,1 +1,1 @@
-var mnemonic = "fiscal expand start boat wood tumble smoke medal rocket state east error";
+var mnemonic = "blossom announce inquiry sketch glue dentist luxury fetch blouse wagon sweet blade";

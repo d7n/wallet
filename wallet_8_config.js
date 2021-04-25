@@ -1,1 +1,1 @@
-var mnemonic = "spatial volcano dress cage issue hire vacuum illness section torch orange rival";
+var mnemonic = "grow layer decrease index frost surge joy pitch brave coast hole one";

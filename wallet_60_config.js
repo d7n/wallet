@@ -1,1 +1,1 @@
-var mnemonic = "evolve quality stereo basic captain mimic ask photo gown bamboo skate tenant";
+var mnemonic = "fuel crush wish patrol shaft wedding happy shy vanish squirrel sister swamp";

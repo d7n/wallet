@@ -1,1 +1,1 @@
-var mnemonic = "tackle crew acid vibrant result group dirt column assault garage finish shed";
+var mnemonic = "cute client grace glance parent month permit public glass puzzle amateur spell";

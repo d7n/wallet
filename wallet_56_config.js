@@ -1,1 +1,1 @@
-var mnemonic = "summer nose enforce rhythm frown unique equal coconut audit biology debate devote";
+var mnemonic = "protect foil dad ranch prefer sunset cereal cinnamon grit behind goose civil";

@@ -1,1 +1,1 @@
-var mnemonic = "coach upper blast swift despair worry inject energy history excuse gas feed";
+var mnemonic = "lounge super enact device gift apart rib black cloud sail stage abuse";

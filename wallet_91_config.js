@@ -1,1 +1,1 @@
-var mnemonic = "amount finish infant brief hurt wing dilemma long under title nephew engage";
+var mnemonic = "switch island hip answer proof hero quantum unaware broom mom fresh blossom";

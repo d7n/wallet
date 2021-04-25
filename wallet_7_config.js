@@ -1,1 +1,1 @@
-var mnemonic = "lazy gain traffic trim peace second gather cram kick turtle twice icon";
+var mnemonic = "spin series surprise tiny innocent display puppy oven drastic satoshi stumble pretty";

@@ -1,1 +1,1 @@
-var mnemonic = "laptop cricket dumb stuff daring please can fine gift maze best winter";
+var mnemonic = "helmet actor hair hope music used drip attend forward manual early urban";

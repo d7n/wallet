@@ -1,1 +1,1 @@
-var mnemonic = "effort dismiss concert review sunny whale region position expand jump idle repair";
+var mnemonic = "chalk media remain recycle spin parade danger fan various choice early inmate";

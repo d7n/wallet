@@ -1,1 +1,1 @@
-var mnemonic = "drum right north afford enter rather budget auto silly turtle prefer protect";
+var mnemonic = "cost faint member mind antenna airport team tiger client question item seven";
