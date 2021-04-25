@@ -1,1 +1,1 @@
-var mnemonic = "similar project later virtual profit thrive above control grunt merge throw sentence";
+var mnemonic = "follow ritual promote dice movie gadget name life expose very parade sudden";

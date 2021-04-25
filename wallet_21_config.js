@@ -1,1 +1,1 @@
-var mnemonic = "prefer betray wink deliver ribbon season proud pumpkin damp ladder boring cigar";
+var mnemonic = "electric length park toy boat square useless champion leader focus fetch rack";

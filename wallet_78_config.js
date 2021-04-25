@@ -1,1 +1,1 @@
-var mnemonic = "shallow cause tenant range garment guilt royal divorce hill demand outdoor mansion";
+var mnemonic = "fashion voyage decorate drastic volume game coffee divide use drive session face";

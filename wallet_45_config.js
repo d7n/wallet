@@ -1,1 +1,1 @@
-var mnemonic = "army circle maid unique sting undo paddle fitness vehicle host material enough";
+var mnemonic = "tribe canal deal robust gym squirrel clap note hockey badge quarter famous";

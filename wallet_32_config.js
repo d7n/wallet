@@ -1,1 +1,1 @@
-var mnemonic = "panic collect gown release sentence art walnut moment resource wonder modify retreat";
+var mnemonic = "also purchase hover grow notable average sentence final lion erode subject security";

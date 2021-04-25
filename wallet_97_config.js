@@ -1,1 +1,1 @@
-var mnemonic = "grunt enrich rather plastic unlock deliver neither camera catch length flame lemon";
+var mnemonic = "peanut achieve flight belt circle slogan hood regular cargo work heart draft";

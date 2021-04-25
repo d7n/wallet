@@ -1,1 +1,1 @@
-var mnemonic = "anger essence teach vague broken cereal squirrel expand crouch armed resist rather";
+var mnemonic = "film sorry nut announce label mystery essence afraid promote salmon fog wall";

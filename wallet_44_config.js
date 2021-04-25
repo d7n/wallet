@@ -1,1 +1,1 @@
-var mnemonic = "bid blue blush castle begin ladder embody confirm egg pull trap chat";
+var mnemonic = "buzz culture vast please raccoon fatal list useless inhale submit solid subway";

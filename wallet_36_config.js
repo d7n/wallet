@@ -1,1 +1,1 @@
-var mnemonic = "refuse cluster order person learn tonight airport cheese cream topple float wine";
+var mnemonic = "primary weapon train crowd foam edge guitar ridge lady wash survey misery";

@@ -1,1 +1,1 @@
-var mnemonic = "tape kidney tomato film laptop cram uncle child essence script roof place";
+var mnemonic = "worth swap noodle fringe insect plate place chaos forum dream quote grain";

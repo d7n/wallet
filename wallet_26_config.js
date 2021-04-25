@@ -1,1 +1,1 @@
-var mnemonic = "also nation clutch enjoy sight attitude expire equal scout piece rice before";
+var mnemonic = "tattoo tide dismiss vessel boil seek wink shrimp jelly gauge hunt dirt";

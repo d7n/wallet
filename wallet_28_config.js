@@ -1,1 +1,1 @@
-var mnemonic = "neck doll jungle rude another ceiling divide minor father roast eye allow";
+var mnemonic = "sport observe canal despair nut chimney tone topic jazz select school crush";

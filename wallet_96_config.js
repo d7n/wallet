@@ -1,1 +1,1 @@
-var mnemonic = "twist sad name they famous buddy ritual menu roast daring inflict palm";
+var mnemonic = "discover wonder domain blood side kiwi age insect identify random deny inherit";

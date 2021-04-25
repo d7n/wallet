@@ -1,1 +1,1 @@
-var mnemonic = "pride firm napkin bicycle canoe mule oxygen jazz hurt verb bench post";
+var mnemonic = "ghost truck suggest cruise eternal weird ready survey awesome crowd alpha stick";

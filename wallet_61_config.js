@@ -1,1 +1,1 @@
-var mnemonic = "orange increase worth ensure merit heavy snake allow trophy plate safe cement";
+var mnemonic = "upper clay warrior soldier copy desk suit monitor face outer auction budget";

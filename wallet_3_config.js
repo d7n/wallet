@@ -1,1 +1,1 @@
-var mnemonic = "cupboard denial perfect quick copy monitor program organ garment bright unhappy knee";
+var mnemonic = "stumble frown north grow current kit member lemon chicken congress drama local";

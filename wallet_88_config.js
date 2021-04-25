@@ -1,1 +1,1 @@
-var mnemonic = "wheat defense blood green juice furnace able prosper live subway rookie toast";
+var mnemonic = "hedgehog acid borrow split swift mimic foster art west vendor rent act";

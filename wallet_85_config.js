@@ -1,1 +1,1 @@
-var mnemonic = "gown shoulder spend panel juice eternal stereo belt radar hire silly mechanic";
+var mnemonic = "before trumpet photo type jump rude journey potato shiver impulse decline slide";

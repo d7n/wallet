@@ -1,1 +1,1 @@
-var mnemonic = "help expose genre jazz design play spatial edge arm because hint cry";
+var mnemonic = "swap lecture fetch say situate shine smart case agree renew host betray";

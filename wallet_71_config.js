@@ -1,1 +1,1 @@
-var mnemonic = "spider moment crunch sun citizen you artist tag napkin then verify visual";
+var mnemonic = "pattern exit palm write rate cluster orphan gown old abuse police dynamic";

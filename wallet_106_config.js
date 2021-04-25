@@ -1,1 +1,1 @@
-var mnemonic = "female outer derive notice rich borrow reason use female priority snake like";
+var mnemonic = "day gravity ill arrive okay divorce disorder raise turkey action soft slam";

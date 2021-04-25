@@ -1,1 +1,1 @@
-var mnemonic = "zone unhappy puppy into area man foot coast pistol hip waste hood";
+var mnemonic = "sick crunch jelly bronze chimney speak soul ostrich era crunch warm limit";

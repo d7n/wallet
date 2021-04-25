@@ -1,1 +1,1 @@
-var mnemonic = "add enact creek palace nephew spatial lawsuit final together life bone famous";
+var mnemonic = "sausage february insane shield setup aspect bargain other upper advice crew million";

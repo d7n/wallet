@@ -1,1 +1,1 @@
-var mnemonic = "ivory tunnel kiwi apart marriage shoe umbrella reunion youth oblige sleep choose";
+var mnemonic = "amount produce fantasy physical nice motor debris display camera explain broken arrange";

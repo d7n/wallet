@@ -1,1 +1,1 @@
-var mnemonic = "spring shift solid carbon miracle front runway kiwi prosper column feel spatial";
+var mnemonic = "casino large kit cute monster salon evil fame carpet orchard metal private";

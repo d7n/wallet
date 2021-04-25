@@ -1,1 +1,1 @@
-var mnemonic = "divorce join sweet tower pioneer armor enlist release aisle mail opinion flush";
+var mnemonic = "toast faint gold topic rude spin rebuild matrix funny bar length basic";

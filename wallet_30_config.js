@@ -1,1 +1,1 @@
-var mnemonic = "nation sight diet horse casino wrestle smart dish decade powder canoe page";
+var mnemonic = "toy puzzle catch ensure good between report garage move crash switch various";

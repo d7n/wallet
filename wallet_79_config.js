@@ -1,1 +1,1 @@
-var mnemonic = "stumble polar rotate fit mystery grass combine gown energy bicycle join absorb";
+var mnemonic = "humble doll month hotel now neck match coconut devote arm good mountain";

@@ -1,1 +1,1 @@
-var mnemonic = "first bread cousin sad alarm glow history employ believe shuffle script shrug";
+var mnemonic = "menu latin attitude report relief trim anger peace trend explain witness unusual";

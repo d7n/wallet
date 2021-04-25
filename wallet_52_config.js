@@ -1,1 +1,1 @@
-var mnemonic = "tree sight two visit grape give riot drum swallow target own include";
+var mnemonic = "vital exile jungle powder want exhibit defense design frequent term strike rug";

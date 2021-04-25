@@ -1,1 +1,1 @@
-var mnemonic = "warm anchor seminar chimney debris obtain plug candy visual actual twist spoil";
+var mnemonic = "april obscure bracket fall sea drastic elegant music day bitter frame lamp";

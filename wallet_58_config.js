@@ -1,1 +1,1 @@
-var mnemonic = "interest broom mix metal wisdom near ski near canoe still holiday awake";
+var mnemonic = "oven dog bright mosquito antenna arrest scheme what frown upper jar panther";

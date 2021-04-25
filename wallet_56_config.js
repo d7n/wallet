@@ -1,1 +1,1 @@
-var mnemonic = "border tattoo wife laugh surprise true border lunch rain emerge note twist";
+var mnemonic = "royal lab mechanic sure kit burden debate run lava address annual dust";

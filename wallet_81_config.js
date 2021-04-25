@@ -1,1 +1,1 @@
-var mnemonic = "way process picnic lonely cute crater enemy wheat mandate blade describe crunch";
+var mnemonic = "wrong seminar chunk observe need glare stone auto over swift brick globe";

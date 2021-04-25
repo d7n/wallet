@@ -1,1 +1,1 @@
-var mnemonic = "finger flee lucky game mandate style lumber edge crane peasant any moral";
+var mnemonic = "unfold feel oblige erode slogan once rapid suit ordinary noble combine knock";

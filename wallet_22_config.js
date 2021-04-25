@@ -1,1 +1,1 @@
-var mnemonic = "undo fatigue rough scan eight eight crumble mammal dwarf toilet debris pluck";
+var mnemonic = "void seek latin wire sword scare session record body pulse cruel fork";

@@ -1,1 +1,1 @@
-var mnemonic = "country primary dream clarify narrow kitten buzz extra butter peace make gas";
+var mnemonic = "champion exchange between fabric unaware elevator pepper goat original mosquito crane guide";

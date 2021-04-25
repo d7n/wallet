@@ -1,1 +1,1 @@
-var mnemonic = "shop damage minimum accident elephant pottery romance human crowd return light half";
+var mnemonic = "april render oyster pottery gallery black amount shy meadow month cancel staff";

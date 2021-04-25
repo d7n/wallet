@@ -1,1 +1,1 @@
-var mnemonic = "primary remove purity universe hire payment hawk cute guilt track cash hair";
+var mnemonic = "nephew door grace absurd lab damp volume tennis bullet drama cliff drill";

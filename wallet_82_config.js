@@ -1,1 +1,1 @@
-var mnemonic = "erosion shove nation gas agent weird stable more spin refuse angle decide";
+var mnemonic = "cricket tobacco lyrics village nuclear clown fix decade silent furnace runway organ";

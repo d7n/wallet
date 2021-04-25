@@ -1,1 +1,1 @@
-var mnemonic = "snake truth siren tourist verb abandon fine proud story ripple all tunnel";
+var mnemonic = "author reflect slim equip possible purchase couple smart smart repeat hawk alpha";

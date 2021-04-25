@@ -1,1 +1,1 @@
-var mnemonic = "legal order close pencil cherry draft erode lift actress heart pencil exclude";
+var mnemonic = "jaguar acquire hybrid latin brief twenty eager confirm mimic smoke wing pride";

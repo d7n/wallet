@@ -1,1 +1,1 @@
-var mnemonic = "sort village slogan grass blush eagle rotate zoo grid clown mirror figure";
+var mnemonic = "spray employ brass model script ensure chicken purity trumpet cigar sunset blanket";

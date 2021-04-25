@@ -1,1 +1,1 @@
-var mnemonic = "chronic vendor seven emotion proof wool beyond camp guide suffer liar violin";
+var mnemonic = "trumpet double hobby flush avoid chat carpet response cave peasant march drip";

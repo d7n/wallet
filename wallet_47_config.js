@@ -1,1 +1,1 @@
-var mnemonic = "solution sort match work receive cram enlist project network beef episode sketch";
+var mnemonic = "resemble blast enhance hazard when grain point salmon slogan polar desert bachelor";

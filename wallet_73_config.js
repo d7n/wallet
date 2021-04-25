@@ -1,1 +1,1 @@
-var mnemonic = "buzz shiver cost soul spread skate canyon agree kiwi only summer suspect";
+var mnemonic = "desk source drip mail solution portion share tide pistol man wide expose";

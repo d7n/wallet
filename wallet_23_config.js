@@ -1,1 +1,1 @@
-var mnemonic = "bleak congress trigger kid author blue true door opera spare chapter address";
+var mnemonic = "hold extra illegal way lottery derive utility walnut rapid inform icon guilt";

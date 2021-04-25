@@ -1,1 +1,1 @@
-var mnemonic = "egg someone slush family slow entire aisle timber field someone sniff decorate";
+var mnemonic = "post impose buzz glide orphan object blind under task cabbage later glad";

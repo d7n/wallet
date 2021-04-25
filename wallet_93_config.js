@@ -1,1 +1,1 @@
-var mnemonic = "update remember notice dune myself educate there tank paddle fire amount shift";
+var mnemonic = "frost zone jump soap team purchase culture climb job permit hammer charge";

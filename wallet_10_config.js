@@ -1,1 +1,1 @@
-var mnemonic = "immune client crater action invite length garment foam connect icon ribbon stool";
+var mnemonic = "olympic humble health guard later quit name search churn potato excuse disagree";

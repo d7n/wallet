@@ -1,1 +1,1 @@
-var mnemonic = "gauge mother forget receive quiz peanut brand good trick wish shop sunset";
+var mnemonic = "gas symptom extend sister arrow slab oven trigger burger bracket scatter margin";

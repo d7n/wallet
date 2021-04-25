@@ -1,1 +1,1 @@
-var mnemonic = "stone witness reunion moral teach trash width baby ranch empty dirt trap";
+var mnemonic = "loud victory until hospital hold deputy trim acoustic shoulder glue draft harbor";

@@ -1,1 +1,1 @@
-var mnemonic = "pull aerobic syrup balance trouble disorder mistake chapter gasp dash salon worry";
+var mnemonic = "oppose obey edit bottom labor divert palace tragic radio various approve future";

@@ -1,1 +1,1 @@
-var mnemonic = "attitude ring spider horn protect mesh awesome clump thumb scrub goat escape";
+var mnemonic = "report wonder patient achieve digital track talent betray creek discover floor any";

@@ -1,1 +1,1 @@
-var mnemonic = "journey deputy pistol feature tortoise step cause style salad scissors six upgrade";
+var mnemonic = "private film estate kitten foot aerobic ethics quality clever chest bottom someone";

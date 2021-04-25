@@ -1,1 +1,1 @@
-var mnemonic = "coil control text van buyer warrior wheel hole soldier physical pond provide";
+var mnemonic = "dress grunt dry benefit step velvet extra joke dad farm cannon brother";

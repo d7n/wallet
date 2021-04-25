@@ -1,1 +1,1 @@
-var mnemonic = "source pyramid urge dove yellow figure bone tape process umbrella jaguar clever";
+var mnemonic = "erase require young exercise mail arrive soap false hint black monkey slice";

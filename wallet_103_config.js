@@ -1,1 +1,1 @@
-var mnemonic = "brush gun use degree black swift write purse diesel table valid neutral";
+var mnemonic = "wood dynamic learn oven fresh until mix square calm donor property avoid";

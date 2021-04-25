@@ -1,1 +1,1 @@
-var mnemonic = "spike country wage unaware agree vague marriage suggest pyramid guide reveal bundle";
+var mnemonic = "actor dune hockey twenty airport song vessel cement relief cheap brown fox";

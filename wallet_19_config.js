@@ -1,1 +1,1 @@
-var mnemonic = "culture case gadget waste trophy wall endorse great family robust chase royal";
+var mnemonic = "tourist split furnace habit strike average uniform walk choose ripple hole sight";

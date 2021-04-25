@@ -1,1 +1,1 @@
-var mnemonic = "proud emotion pottery tomorrow chef gown mammal impose uphold middle entry thought";
+var mnemonic = "clerk arrest isolate relief flower bomb extra ripple thumb ankle lawsuit spy";

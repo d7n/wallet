@@ -1,1 +1,1 @@
-var mnemonic = "oblige major harbor design upper blade session horror entry stamp accuse spring";
+var mnemonic = "issue predict stamp bid resemble solve royal beyond kitchen wine order guide";

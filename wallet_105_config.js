@@ -1,1 +1,1 @@
-var mnemonic = "moon slot sand below ecology swarm noise long achieve rely pact battle";
+var mnemonic = "symbol sail nest rate dragon drip shine yellow million edit toilet into";

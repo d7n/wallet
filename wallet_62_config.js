@@ -1,1 +1,1 @@
-var mnemonic = "later smart deputy piano reduce lobster palace found cost claim lunch visa";
+var mnemonic = "bullet cruel ordinary neck aim mountain clap oak waste cherry slide latin";

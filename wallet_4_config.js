@@ -1,1 +1,1 @@
-var mnemonic = "awkward tool voyage fortune autumn hello basic snow assume pattern copper pledge";
+var mnemonic = "purity enjoy lock solution destroy ability fatal journey wolf wool jazz away";

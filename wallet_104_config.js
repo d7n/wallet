@@ -1,1 +1,1 @@
-var mnemonic = "slab grace minimum garage reject young system very hammer coyote slogan license";
+var mnemonic = "right disorder stadium defense quiz lyrics huge beach trick soda account identify";

@@ -1,1 +1,1 @@
-var mnemonic = "supply absent lizard small essay heavy whip tiny fiber milk siren artist";
+var mnemonic = "impact prison praise distance holiday style manage squirrel hour voyage genius oven";

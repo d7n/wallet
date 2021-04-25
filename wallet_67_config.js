@@ -1,1 +1,1 @@
-var mnemonic = "peanut night artwork squirrel music blind autumn foster visual save supreme scan";
+var mnemonic = "struggle remind harsh tattoo detect chalk cruise token zoo silent drive identify";

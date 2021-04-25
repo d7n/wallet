@@ -1,1 +1,1 @@
-var mnemonic = "mystery immune axis quiz case select marble present muscle basket lesson involve";
+var mnemonic = "grape give orient impact similar glare engage purpose panther owner predict spot";

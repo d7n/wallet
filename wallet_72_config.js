@@ -1,1 +1,1 @@
-var mnemonic = "add major blossom perfect shrug domain profit limit proof mandate illegal reason";
+var mnemonic = "sail picnic script grant item treat ignore creek champion escape shrimp little";

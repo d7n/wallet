@@ -1,1 +1,1 @@
-var mnemonic = "airport orient surge bulb sun gold vicious badge limb burst midnight develop";
+var mnemonic = "also impose echo brave lottery emerge laundry blind confirm vendor cruise false";

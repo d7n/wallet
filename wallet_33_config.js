@@ -1,1 +1,1 @@
-var mnemonic = "private talk round become chalk group liar damp foster good gaze liquid";
+var mnemonic = "advice this manage social soup tomato jungle verb hungry soup across busy";

@@ -1,1 +1,1 @@
-var mnemonic = "derive pool subway diary room dice profit toddler fiction lunch theme outdoor";
+var mnemonic = "grid west disease retreat ankle try lonely indicate remind emerge agree spice";

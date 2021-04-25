@@ -1,1 +1,1 @@
-var mnemonic = "silk flush dragon power gorilla language decrease bonus accident junk shell praise";
+var mnemonic = "endorse apology question illness orphan antenna utility clown upper hundred soon index";

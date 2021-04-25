@@ -1,1 +1,1 @@
-var mnemonic = "draw crawl denial version risk loop draw sting vessel buddy siege term";
+var mnemonic = "blanket upon bullet shop radio source intact badge globe traffic actual under";

@@ -1,1 +1,1 @@
-var mnemonic = "outdoor panther critic scout arrow arrange imitate arena soap claw okay prepare";
+var mnemonic = "upset entry amazing sting flip purpose select such stock scheme sad travel";

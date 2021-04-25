@@ -1,1 +1,1 @@
-var mnemonic = "law undo famous lonely critic hair grocery treat observe early wrap leaf";
+var mnemonic = "insane bubble grit about number brown flight mail tumble catalog expire crew";

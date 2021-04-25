@@ -1,1 +1,1 @@
-var mnemonic = "fruit deposit muffin unveil venue smile aware nominee sure dream beach word";
+var mnemonic = "expose club save solve puppy rice radio social south poet man april";

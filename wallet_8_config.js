@@ -1,1 +1,1 @@
-var mnemonic = "symptom lyrics huge circle nut usual add admit dentist skate chest arrest";
+var mnemonic = "bunker glare sting flash huge scorpion cup under option dad give miracle";

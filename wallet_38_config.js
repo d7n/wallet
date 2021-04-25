@@ -1,1 +1,1 @@
-var mnemonic = "uphold trick blanket myself pupil elbow chaos choice join twelve slogan sick";
+var mnemonic = "bone hawk donor second glass utility hen illegal stadium cupboard spawn lunch";

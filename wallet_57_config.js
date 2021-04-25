@@ -1,1 +1,1 @@
-var mnemonic = "glory candy keep urban flush true dawn kangaroo purpose ticket finger alley";
+var mnemonic = "inner rubber swarm skin sauce bless twin tonight secret police diesel era";

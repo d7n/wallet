@@ -1,1 +1,1 @@
-var mnemonic = "village pottery fitness kidney setup ring trial call winner blanket canvas panther";
+var mnemonic = "pipe honey please matrix monkey jealous cake helmet jar hidden raven occur";

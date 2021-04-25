@@ -1,1 +1,1 @@
-var mnemonic = "electric arrange caught victory salute remain weather cigar affair south butter tuition";
+var mnemonic = "dragon rather addict share nuclear dumb nasty until powder crazy foot cancel";

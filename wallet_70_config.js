@@ -1,1 +1,1 @@
-var mnemonic = "barrel leave mistake benefit whip feel profit board sport symptom shoe road";
+var mnemonic = "coral destroy message drip cart short pioneer element surface fossil century ceiling";

@@ -1,1 +1,1 @@
-var mnemonic = "convince tiger vast habit keep master accident wing plug idle museum success";
+var mnemonic = "again document shoe later pony above tomorrow refuse cable shallow judge shoot";

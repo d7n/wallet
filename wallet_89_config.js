@@ -1,1 +1,1 @@
-var mnemonic = "just cart depart toe wagon deliver flat item fit jaguar spend case";
+var mnemonic = "liberty pilot spring girl divide radar fit radio inquiry occur grace vocal";
