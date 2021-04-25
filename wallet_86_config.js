@@ -1,1 +1,1 @@
-var mnemonic = "avocado purchase glimpse pony laugh become world project blind candy track draft";
+var mnemonic = "angry own come laptop tool shoot own solid then response burst settle";

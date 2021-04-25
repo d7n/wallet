@@ -1,1 +1,1 @@
-var mnemonic = "habit genre error pass purchase vote kangaroo claim dwarf scatter inject ability";
+var mnemonic = "civil region multiply erosion over kidney screen farm term bunker rebel party";

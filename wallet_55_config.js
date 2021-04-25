@@ -1,1 +1,1 @@
-var mnemonic = "need bachelor category leader bundle battle bench dynamic question follow junk addict";
+var mnemonic = "wave clarify chapter title rain dilemma claim cart phrase someone energy cheese";

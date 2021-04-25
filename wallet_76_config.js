@@ -1,1 +1,1 @@
-var mnemonic = "spend orange width analyst paddle consider law love cupboard cement phrase diet";
+var mnemonic = "inmate surface author indoor asset lemon prison wait mobile pool lonely pipe";

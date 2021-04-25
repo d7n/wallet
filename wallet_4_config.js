@@ -1,1 +1,1 @@
-var mnemonic = "snack sound gold myself judge divorce remind knock floor glass identify text";
+var mnemonic = "master exist crash milk veteran perfect receive blast symptom razor jacket utility";

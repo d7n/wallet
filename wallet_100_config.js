@@ -1,1 +1,1 @@
-var mnemonic = "equip praise inherit toward save shed purchase such marble earn erode group";
+var mnemonic = "level lab industry they scissors drum gun reveal adult source enroll broken";

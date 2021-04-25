@@ -1,1 +1,1 @@
-var mnemonic = "collect agent dry oppose lyrics caught behind ketchup update youth aerobic holiday";
+var mnemonic = "oak mind gadget awesome arch delay unique scrub message letter basket old";

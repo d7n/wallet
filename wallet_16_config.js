@@ -1,1 +1,1 @@
-var mnemonic = "trust announce high segment elevator kit envelope abuse front kick polar sunset";
+var mnemonic = "provide eight budget decade enemy hurry dizzy faint barely obvious camp useless";

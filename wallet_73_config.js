@@ -1,1 +1,1 @@
-var mnemonic = "they bone tiger equal donor season gossip excuse expose into letter roast";
+var mnemonic = "oxygen diary response town student rotate noise arrow shield badge repair mix";

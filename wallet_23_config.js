@@ -1,1 +1,1 @@
-var mnemonic = "object typical okay twin degree problem valley nerve excuse defense kid pause";
+var mnemonic = "possible moment length cheap fish dash paddle ecology jaguar divert basket control";

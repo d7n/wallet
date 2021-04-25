@@ -1,1 +1,1 @@
-var mnemonic = "emerge ketchup lumber regret wing loyal old west age task push trap";
+var mnemonic = "wrestle romance dragon sell orbit rural trick rich pond thrive pole leg";

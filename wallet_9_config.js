@@ -1,1 +1,1 @@
-var mnemonic = "staff desk device van inner empty broccoli gasp joke toast baby shallow";
+var mnemonic = "galaxy cube fun radio busy provide pink inflict injury virtual second reject";

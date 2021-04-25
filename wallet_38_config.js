@@ -1,1 +1,1 @@
-var mnemonic = "leader welcome apple between scale easy furnace song together belt banana winner";
+var mnemonic = "square taste stereo addict horse initial fever depart morning grape slice jungle";

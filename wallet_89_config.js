@@ -1,1 +1,1 @@
-var mnemonic = "slam process virus protect ensure south direct myself ball suffer invest blade";
+var mnemonic = "have escape title ship urban scheme news illegal copy mammal trouble sleep";

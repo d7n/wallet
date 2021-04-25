@@ -1,1 +1,1 @@
-var mnemonic = "craft attitude token hold gun feel dance limb jaguar tourist boss dance";
+var mnemonic = "split arch vapor picture admit another reveal forward dilemma blush unknown fatigue";

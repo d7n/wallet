@@ -1,1 +1,1 @@
-var mnemonic = "shallow elephant must budget absorb ecology clever open wire orchard fence win";
+var mnemonic = "casino crumble uphold tongue ritual monkey announce swap world right tag dirt";

@@ -1,1 +1,1 @@
-var mnemonic = "safe enrich book decrease credit aware steak try fault wage happy coyote";
+var mnemonic = "walk rude saddle book parent school amused enter visa young cream december";

@@ -1,1 +1,1 @@
-var mnemonic = "road myth juice bunker receive rack horn dish slush sorry hub practice";
+var mnemonic = "oppose inspire upset vicious bronze this audit main coyote bullet syrup snack";

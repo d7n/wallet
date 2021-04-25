@@ -1,1 +1,1 @@
-var mnemonic = "slide gap oxygen umbrella sick emotion buffalo squeeze venture together family cheap";
+var mnemonic = "usual police unit voyage there future unfold finger stool orphan celery coconut";

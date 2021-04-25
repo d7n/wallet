@@ -1,1 +1,1 @@
-var mnemonic = "tonight spy cable build reform tortoise auto canoe cost forget amazing angry";
+var mnemonic = "soft owner sun divorce alien mad sword thumb delay airport paper lazy";

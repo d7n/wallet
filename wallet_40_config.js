@@ -1,1 +1,1 @@
-var mnemonic = "better gate mail diesel stadium inject dial crater heart police clump piece";
+var mnemonic = "kingdom buffalo annual monitor cheap off laptop loop remember security embody kitchen";

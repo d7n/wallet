@@ -1,1 +1,1 @@
-var mnemonic = "cool better version kiwi typical obtain decline speak keep mimic between motor";
+var mnemonic = "abuse siege address tilt lamp agree museum raise avoid hero idea torch";

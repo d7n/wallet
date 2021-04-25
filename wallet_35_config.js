@@ -1,1 +1,1 @@
-var mnemonic = "when isolate repair liberty banner embark embrace deputy harvest suspect express prize";
+var mnemonic = "brown doll decorate duty eternal sadness remain drift degree ivory crazy woman";

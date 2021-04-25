@@ -1,1 +1,1 @@
-var mnemonic = "embrace very laundry canvas apology behave begin bleak goat lounge monster naive";
+var mnemonic = "hundred robot atom elder window fresh special castle away tide toy spider";

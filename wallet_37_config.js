@@ -1,1 +1,1 @@
-var mnemonic = "fringe cargo honey banana sport expose beef ginger bind hotel anger repeat";
+var mnemonic = "arm scale night language lucky skirt anxiety reflect you head give island";

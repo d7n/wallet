@@ -1,1 +1,1 @@
-var mnemonic = "mask turkey coffee balance middle soup leave sketch kangaroo genius joy donor";
+var mnemonic = "excite oval drastic dog derive brain roast mango night special february sniff";

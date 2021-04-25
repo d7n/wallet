@@ -1,1 +1,1 @@
-var mnemonic = "clean extra slogan square wrestle stove art army soda audit kitten deal";
+var mnemonic = "lecture hair blood sunset scorpion spawn goose yard evil drama oppose health";

@@ -1,1 +1,1 @@
-var mnemonic = "near mechanic wise slogan spring letter truth glove cactus ethics man list";
+var mnemonic = "naive ethics track perfect fatigue olive agree lesson judge exhaust mask negative";

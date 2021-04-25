@@ -1,1 +1,1 @@
-var mnemonic = "produce hip accuse sign curve inner flush still mystery across letter umbrella";
+var mnemonic = "oak crew mouse advice foil surface soon thought load train clip coast";

@@ -1,1 +1,1 @@
-var mnemonic = "force churn puppy scissors group blanket gauge rose output menu problem card";
+var mnemonic = "tiger seek forward twist eternal destroy lamp tank elbow essay blouse group";

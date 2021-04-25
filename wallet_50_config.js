@@ -1,1 +1,1 @@
-var mnemonic = "owner travel program relief peasant cargo engage similar thumb book worry present";
+var mnemonic = "atom afraid rug rapid trumpet confirm summer lecture parrot produce animal peace";

@@ -1,1 +1,1 @@
-var mnemonic = "energy nephew sound fiscal pencil vibrant final ocean spawn outer law outside";
+var mnemonic = "addict dust animal shop weird member uncover shadow illness grocery general walnut";

@@ -1,1 +1,1 @@
-var mnemonic = "debris marriage mask giggle toward phrase also gesture merge ball swift please";
+var mnemonic = "awake pretty horse soft slide crash nuclear shoe spot security shrug panda";

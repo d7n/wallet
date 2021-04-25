@@ -1,1 +1,1 @@
-var mnemonic = "medal salmon wet base exit annual walk laugh begin year damage monster";
+var mnemonic = "settle future crime scatter identify short shove battle know left kiss avocado";

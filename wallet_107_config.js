@@ -1,1 +1,1 @@
-var mnemonic = "engine pool bicycle air apple saddle trigger subway evil unveil select swap";
+var mnemonic = "merry teach smooth thrive shoe address ranch tide police vapor cousin private";

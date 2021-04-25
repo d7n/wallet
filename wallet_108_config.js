@@ -1,1 +1,1 @@
-var mnemonic = "before sponsor artefact donate cloth law fruit prepare coconut student wedding solid";
+var mnemonic = "debris salt announce rely gesture west acid divide fashion memory float fat";

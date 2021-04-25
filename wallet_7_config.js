@@ -1,1 +1,1 @@
-var mnemonic = "slogan fun front submit agent foam salad tiger return wheat brass gain";
+var mnemonic = "agent spring hundred tiny discover talent latin chest symbol entire oven maid";

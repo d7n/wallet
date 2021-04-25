@@ -1,1 +1,1 @@
-var mnemonic = "depart husband firm lion grief bottom elegant cancel hollow parrot wedding need";
+var mnemonic = "hire decade risk bracket render noodle orchard shy expose broom parrot fox";

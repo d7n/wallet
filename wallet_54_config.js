@@ -1,1 +1,1 @@
-var mnemonic = "alarm step item direct circle dove lemon blossom defy hip picture moon";
+var mnemonic = "burger ill again number casino icon forget frame diesel village fluid success";

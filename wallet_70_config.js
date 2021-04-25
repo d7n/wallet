@@ -1,1 +1,1 @@
-var mnemonic = "month room agree rug volcano maid kite infant train gadget color vocal";
+var mnemonic = "hunt account surprise infant wrong nothing crowd member enable stick glow seed";

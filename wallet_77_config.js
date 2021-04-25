@@ -1,1 +1,1 @@
-var mnemonic = "view lonely rely orchard idle jazz garbage teach blouse pause fire history";
+var mnemonic = "inherit struggle response state zero cousin link purity orchard rally spirit draw";

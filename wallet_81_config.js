@@ -1,1 +1,1 @@
-var mnemonic = "settle leave cool small equip vast pet friend riot lab topic prepare";
+var mnemonic = "act senior ridge stairs title sugar issue elbow mention anchor weasel benefit";

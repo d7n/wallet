@@ -1,1 +1,1 @@
-var mnemonic = "potato duty area dash twice allow dutch outer machine drift claw access";
+var mnemonic = "amazing spare crunch ivory barely alone hub tomato skull lion hand arena";

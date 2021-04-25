@@ -1,1 +1,1 @@
-var mnemonic = "high service bachelor apology knife case album fatal million tide solve chimney";
+var mnemonic = "lock wire clip level churn knock social join inch van filter ribbon";

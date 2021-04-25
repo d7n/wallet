@@ -1,1 +1,1 @@
-var mnemonic = "zero plunge media feature syrup ball stool sign crucial immune animal rubber";
+var mnemonic = "decide replace annual license bind dignity oak census ceiling ecology eagle yard";

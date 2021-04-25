@@ -1,1 +1,1 @@
-var mnemonic = "social valid scene hold noble vendor inspire denial yellow impose grocery dynamic";
+var mnemonic = "please joy edge thank spot split rapid matter display atom reveal vintage";

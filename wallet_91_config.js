@@ -1,1 +1,1 @@
-var mnemonic = "sing salmon clap hire retire true celery such replace aisle awkward myself";
+var mnemonic = "impulse express secret bind chef emotion decrease option spoon enroll walnut modify";

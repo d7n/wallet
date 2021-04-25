@@ -1,1 +1,1 @@
-var mnemonic = "say accident orbit library section club chief crime glory notice drink slogan";
+var mnemonic = "evidence grain garbage detect orbit divorce wing rookie baby rebuild yellow trouble";

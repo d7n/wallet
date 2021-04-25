@@ -1,1 +1,1 @@
-var mnemonic = "grain urge plunge panther million object room mango capital scatter negative any";
+var mnemonic = "inflict screen achieve fault process develop fetch turtle south dress tape method";

@@ -1,1 +1,1 @@
-var mnemonic = "bargain gown judge ribbon talk direct hint crazy maple decrease law soap";
+var mnemonic = "quit permit replace one payment minimum jar ritual piece edge soup evoke";

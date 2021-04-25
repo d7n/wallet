@@ -1,1 +1,1 @@
-var mnemonic = "column add trophy coil sock pride balcony riot gallery ugly guard desert";
+var mnemonic = "region marine travel impose salmon bargain spread moon employ sunset purity step";

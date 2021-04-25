@@ -1,1 +1,1 @@
-var mnemonic = "gather casino seek sample exile rival such marriage flight hold early uphold";
+var mnemonic = "exclude silk tumble network useful adjust spray soldier tide sport member surround";

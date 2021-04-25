@@ -1,1 +1,1 @@
-var mnemonic = "iron quit kiwi equip question list digital chase amused trial sing climb";
+var mnemonic = "ordinary typical tobacco figure ridge obey imitate intact rule comfort rhythm rigid";

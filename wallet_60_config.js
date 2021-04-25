@@ -1,1 +1,1 @@
-var mnemonic = "sweet peace web ski bleak major twin angry cover together certain cruise";
+var mnemonic = "gun total mistake rain garlic thrive giggle mirror approve second buyer wife";

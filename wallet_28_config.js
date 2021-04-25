@@ -1,1 +1,1 @@
-var mnemonic = "title next helmet bless juice vacant subject cave robot garbage trim meat";
+var mnemonic = "mango industry satisfy make base sunset impact small pistol frost list squirrel";

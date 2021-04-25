@@ -1,1 +1,1 @@
-var mnemonic = "crew burst sadness fragile math drastic coin divert release topic subject jar";
+var mnemonic = "cloth miss route exact legend obvious open shoe car truly jar fold";

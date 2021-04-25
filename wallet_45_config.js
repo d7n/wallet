@@ -1,1 +1,1 @@
-var mnemonic = "nuclear latin funny observe tube paddle stool liar credit inspire token promote";
+var mnemonic = "surface shaft opinion raw farm clay now boost tray spike roof eagle";

@@ -1,1 +1,1 @@
-var mnemonic = "extra develop two control person extra seek blue cigar prevent creek athlete";
+var mnemonic = "thing catalog hockey woman horror family behind simple human faint slab hybrid";

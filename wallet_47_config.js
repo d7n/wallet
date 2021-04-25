@@ -1,1 +1,1 @@
-var mnemonic = "kitten absurd series episode unable anxiety wine lunch loop essay derive wise";
+var mnemonic = "scale soldier wagon find super circle day aerobic another number erupt void";

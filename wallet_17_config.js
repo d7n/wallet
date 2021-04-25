@@ -1,1 +1,1 @@
-var mnemonic = "alone theory capital process quick aisle process predict hub frown camp photo";
+var mnemonic = "core evidence ski bar clap misery lyrics hedgehog knife capable method boil";

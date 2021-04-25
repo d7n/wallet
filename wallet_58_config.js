@@ -1,1 +1,1 @@
-var mnemonic = "basic basic valid taste subject tobacco lawn market glance oval tonight rate";
+var mnemonic = "eye proof parent mix stool phrase dwarf engage this mirror copy viable";

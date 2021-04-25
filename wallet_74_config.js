@@ -1,1 +1,1 @@
-var mnemonic = "action ride couch donor popular fog day unknown enroll tray palace half";
+var mnemonic = "duty skull aerobic gospel spider just mushroom damage shallow tree meat today";

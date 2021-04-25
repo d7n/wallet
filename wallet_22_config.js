@@ -1,1 +1,1 @@
-var mnemonic = "winter long reveal heavy famous stadium clarify great path soft they deputy";
+var mnemonic = "cycle attend innocent smoke friend shoulder also inherit fruit teach dinner flat";

@@ -1,1 +1,1 @@
-var mnemonic = "decide tobacco minute twin vocal syrup scrap flag embark quit ready oppose";
+var mnemonic = "banana panda timber husband dolphin coffee crater oven first salute sort midnight";

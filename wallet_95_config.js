@@ -1,1 +1,1 @@
-var mnemonic = "smart skirt agent action side miss supply cruise umbrella knife sniff noodle";
+var mnemonic = "shadow million clarify south helmet swallow heavy fault profit brief laptop expire";

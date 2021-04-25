@@ -1,1 +1,1 @@
-var mnemonic = "poverty cloud poverty asthma print razor version elevator pear round album notable";
+var mnemonic = "axis almost extra beef accident oval sock aunt verify trim slot select";

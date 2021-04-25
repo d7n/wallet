@@ -1,1 +1,1 @@
-var mnemonic = "auto endless devote lend render vast aware sting garden ring two clock";
+var mnemonic = "below turn rate crisp space salmon giraffe travel more mushroom quick rescue";

@@ -1,1 +1,1 @@
-var mnemonic = "armed phone door theme increase early boil powder action cry option series";
+var mnemonic = "hand car private liquid slight bind thumb brain stable garment market crazy";

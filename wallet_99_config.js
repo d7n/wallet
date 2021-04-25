@@ -1,1 +1,1 @@
-var mnemonic = "tray twist siege clog quote purpose already recipe prevent supreme crouch easily";
+var mnemonic = "gasp insect refuse joy brain monkey swift dress crater cram crawl subject";

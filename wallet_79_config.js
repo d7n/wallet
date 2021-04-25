@@ -1,1 +1,1 @@
-var mnemonic = "jacket stand size emerge slim heart spirit cake swamp wire general shrimp";
+var mnemonic = "hurdle index melt pig file pigeon oven morning theory adjust napkin ceiling";

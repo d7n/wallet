@@ -1,1 +1,1 @@
-var mnemonic = "dress novel scheme swamp identify shrimp patch immune jacket ostrich give system";
+var mnemonic = "inflict man clog address word reflect verify layer identify radar comic cost";

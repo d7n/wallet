@@ -1,1 +1,1 @@
-var mnemonic = "spare say neither popular river envelope equip girl empower way hunt speak";
+var mnemonic = "trigger alpha nest cupboard nuclear time rich pottery garbage palace blossom harsh";

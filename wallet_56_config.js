@@ -1,1 +1,1 @@
-var mnemonic = "expose struggle woman pony lift much joke lava animal rose bring rely";
+var mnemonic = "mixed improve sick depart fever biology enjoy clerk sleep common raccoon identify";

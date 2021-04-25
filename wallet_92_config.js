@@ -1,1 +1,1 @@
-var mnemonic = "sample girl access brick walnut stool merit dinner pottery action soup brisk";
+var mnemonic = "market pass pond ring tank melody crime small draw calm ancient bottom";

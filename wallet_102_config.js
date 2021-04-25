@@ -1,1 +1,1 @@
-var mnemonic = "polar virus primary rebuild ancient wait praise skill drill desk ethics nose";
+var mnemonic = "grain latin portion stable mansion present lonely scan first frozen lunch peace";

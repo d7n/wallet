@@ -1,1 +1,1 @@
-var mnemonic = "cargo rocket palace act index else indicate medal session flush remain junior";
+var mnemonic = "glance crisp note afford fog trap zone foil super level risk gun";

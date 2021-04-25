@@ -1,1 +1,1 @@
-var mnemonic = "arrange clay coyote hip venture pride wage sugar gospel peace pride gauge";
+var mnemonic = "chalk pattern fancy suspect type crew industry lamp plunge asset long merit";

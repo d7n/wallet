@@ -1,1 +1,1 @@
-var mnemonic = "item bullet humor job crew sugar since bench harvest demand life female";
+var mnemonic = "chat breeze rice dose slim just metal naive swing trip six culture";

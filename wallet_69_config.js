@@ -1,1 +1,1 @@
-var mnemonic = "deliver siege example material letter ankle make admit replace occur order motor";
+var mnemonic = "thank slim pass message wash level loop celery notice history off square";

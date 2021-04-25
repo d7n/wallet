@@ -1,1 +1,1 @@
-var mnemonic = "trap few hill hollow problem polar barrel script devote bean whisper doctor";
+var mnemonic = "wide general avoid ready dynamic differ gap diesel exclude include host truly";

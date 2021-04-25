@@ -1,1 +1,1 @@
-var mnemonic = "social abuse oval pass bring mean hollow crucial fall rebel afford wide";
+var mnemonic = "shield cross boost annual forest gasp cave decline bag doll speed wing";

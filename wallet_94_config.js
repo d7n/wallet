@@ -1,1 +1,1 @@
-var mnemonic = "pig alert fringe media speed bitter elder obey plug donor beef sure";
+var mnemonic = "clutch switch play buzz buddy throw light symbol sick wall cupboard army";

@@ -1,1 +1,1 @@
-var mnemonic = "asset resist rain fun solution axis melt scene hill wrap feed twenty";
+var mnemonic = "marriage expose tobacco stumble eye welcome describe provide soda universe beauty oval";

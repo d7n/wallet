@@ -1,1 +1,1 @@
-var mnemonic = "fragile wrong bird spirit have extend fantasy huge shuffle proud matrix crawl";
+var mnemonic = "asthma acid aisle sauce scrub swarm glory athlete false left glass easy";

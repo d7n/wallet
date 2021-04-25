@@ -1,1 +1,1 @@
-var mnemonic = "track rate ski expire laundry urban beyond extra saddle defy phrase canal";
+var mnemonic = "treat demise result consider select impulse can wealth suffer hamster merge theory";

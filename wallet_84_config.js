@@ -1,1 +1,1 @@
-var mnemonic = "shine book guilt circle reveal suspect enemy pluck boring jar label winner";
+var mnemonic = "use indicate wool winner dinner waste enact chalk below stage mother menu";

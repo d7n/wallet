@@ -1,1 +1,1 @@
-var mnemonic = "abandon bottom guitar axis upper cheese muffin mansion cry super inner provide";
+var mnemonic = "prize chat satisfy camp nothing debris deal ritual home liquid dwarf buzz";
