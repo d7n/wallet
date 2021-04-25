@@ -1,1 +1,1 @@
-var mnemonic = "belt inflict bottom blouse inner shadow frame silly feature jacket subject soul";
+var mnemonic = "bus cheap suit theme corn gallery exist half hungry east hold coffee";

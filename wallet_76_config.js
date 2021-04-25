@@ -1,1 +1,1 @@
-var mnemonic = "afraid slab letter few series mountain fire spot frozen track select success";
+var mnemonic = "hole subject lawsuit employ violin ordinary make major execute clip first wreck";

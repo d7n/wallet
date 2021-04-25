@@ -1,1 +1,1 @@
-var mnemonic = "rail trip witness expire orphan bag hat muffin trust since gentle piano";
+var mnemonic = "lizard kick bean settle point easily small drill humor leopard impact quote";

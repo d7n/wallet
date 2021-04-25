@@ -1,1 +1,1 @@
-var mnemonic = "glue lonely document funny panic rate grain use name tonight flock web";
+var mnemonic = "phone raccoon motor whale seven embrace song deny defy brave indicate car";

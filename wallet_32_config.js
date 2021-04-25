@@ -1,1 +1,1 @@
-var mnemonic = "family cluster guitar odor pact obscure random bubble jaguar deny mobile fan";
+var mnemonic = "tourist grocery slight trigger oxygen topple magic eagle oven chief slight student";

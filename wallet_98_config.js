@@ -1,1 +1,1 @@
-var mnemonic = "frequent innocent cancel dance hammer hero cool food pet jelly omit buzz";
+var mnemonic = "divert main hood level fine void illegal meadow fence depart embrace burger";

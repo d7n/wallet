@@ -1,1 +1,1 @@
-var mnemonic = "sphere amount clarify spare enrich purchase hello daring coyote shine anchor over";
+var mnemonic = "decorate warrior merge flag someone naive design approve enemy reason menu inform";

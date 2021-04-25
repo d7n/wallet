@@ -1,1 +1,1 @@
-var mnemonic = "broccoli equal wish glove defense coral scout bless message cook kangaroo unique";
+var mnemonic = "already demise mass usage quick still survey idea rural oblige during obtain";

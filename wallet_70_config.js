@@ -1,1 +1,1 @@
-var mnemonic = "owner rich enforce eyebrow annual throw smart breeze alien feature option around";
+var mnemonic = "color prevent bus they cargo trust acoustic arrive pretty state praise will";

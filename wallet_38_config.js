@@ -1,1 +1,1 @@
-var mnemonic = "giggle confirm divert middle flat word prevent cherry earth mad pupil era";
+var mnemonic = "armed brain vessel cloth square crumble fruit rocket arrange salon word urge";

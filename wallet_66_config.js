@@ -1,1 +1,1 @@
-var mnemonic = "vocal cry push minimum setup solid domain south stable water able success";
+var mnemonic = "rude emerge able already real pigeon ask north board document please season";

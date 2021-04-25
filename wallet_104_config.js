@@ -1,1 +1,1 @@
-var mnemonic = "illegal among anger congress enjoy save sport yard modify noble addict digital";
+var mnemonic = "lunar liberty street fabric intact path seek jazz suffer plunge olympic outdoor";

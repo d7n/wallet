@@ -1,1 +1,1 @@
-var mnemonic = "million essence scrap nature hour erosion sugar weather true wild skate body";
+var mnemonic = "debris lottery check family maze bonus noise wild volume silk hundred accident";

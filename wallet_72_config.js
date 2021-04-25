@@ -1,1 +1,1 @@
-var mnemonic = "key draw agent culture connect wheel tornado annual elephant grief bulb abandon";
+var mnemonic = "fan heavy palm similar unhappy icon goddess voyage hunt thunder draft orange";

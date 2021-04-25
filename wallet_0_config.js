@@ -1,1 +1,1 @@
-var mnemonic = "zebra chicken warfare order radar language absent fire bar burden chaos uncover";
+var mnemonic = "rack cash patient sibling today kidney question upon hole come dentist normal";

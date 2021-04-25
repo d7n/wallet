@@ -1,1 +1,1 @@
-var mnemonic = "ketchup shy pole blood tornado simple special excite soup become garlic attack";
+var mnemonic = "fit enough battle what story best lava library put cave huge that";

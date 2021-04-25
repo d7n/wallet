@@ -1,1 +1,1 @@
-var mnemonic = "reward relax beach can damp warm sell border civil filter old nothing";
+var mnemonic = "velvet sound lazy divide acoustic kitchen acquire orange crucial chronic radio walnut";

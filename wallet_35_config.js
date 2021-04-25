@@ -1,1 +1,1 @@
-var mnemonic = "border coyote purchase prize regular invite diamond tail polar learn slam chronic";
+var mnemonic = "guitar derive will figure pause supply heavy copper session table rare fossil";

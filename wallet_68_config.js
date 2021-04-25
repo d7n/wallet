@@ -1,1 +1,1 @@
-var mnemonic = "bracket actual gloom cargo food reason census peace unaware erase exercise crater";
+var mnemonic = "depend denial universe mutual wrist dance brush glue you danger ketchup party";

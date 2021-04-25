@@ -1,1 +1,1 @@
-var mnemonic = "endless whip champion jar beef metal antenna merry oil above repeat brass";
+var mnemonic = "try kiss tank defy forum kind funny found elite cash fix wagon";

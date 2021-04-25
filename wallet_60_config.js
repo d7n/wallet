@@ -1,1 +1,1 @@
-var mnemonic = "scan during grant comfort sword chronic reveal seed almost column congress noble";
+var mnemonic = "season moment museum abuse sweet custom mystery ginger useless middle fossil kitchen";

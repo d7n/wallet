@@ -1,1 +1,1 @@
-var mnemonic = "direct punch virus network cruise supply near axis empower soda differ lucky";
+var mnemonic = "sibling simple diary veteran rapid produce desk uncle arrow vintage diamond tenant";

@@ -1,1 +1,1 @@
-var mnemonic = "drip raccoon end captain wild author remember emotion pilot type vendor found";
+var mnemonic = "shoe entire dove giggle drink infant danger keep wagon toilet amount giraffe";

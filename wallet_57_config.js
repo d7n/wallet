@@ -1,1 +1,1 @@
-var mnemonic = "cart property legal friend galaxy anxiety current bomb extra differ grape pupil";
+var mnemonic = "evolve rural hawk moral video juice syrup say develop sing dad sweet";

@@ -1,1 +1,1 @@
-var mnemonic = "hammer reduce target rice culture night lemon call emerge hollow fatal also";
+var mnemonic = "impact number word catch easy aim pigeon bamboo ceiling lounge trend promote";

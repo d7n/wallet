@@ -1,1 +1,1 @@
-var mnemonic = "happy taxi combine attend weasel abstract beyond always conduct sense canal across";
+var mnemonic = "once faith forest hat soup film size seat patch test ritual into";

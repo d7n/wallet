@@ -1,1 +1,1 @@
-var mnemonic = "smart embark soap kiss call length evil since silly method place usage";
+var mnemonic = "dilemma smooth nerve sibling insane discover armor zone spend talent express brief";

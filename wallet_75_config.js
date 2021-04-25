@@ -1,1 +1,1 @@
-var mnemonic = "bird use deal grain autumn wine glare attitude age story sniff either";
+var mnemonic = "wonder blue foot begin chief olympic soul fish tray follow left girl";

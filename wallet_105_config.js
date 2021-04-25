@@ -1,1 +1,1 @@
-var mnemonic = "damage nurse forest dad hover escape zone obtain harsh unique mind couple";
+var mnemonic = "museum home glow extra health popular width shine seek grid path lady";

@@ -1,1 +1,1 @@
-var mnemonic = "dove mountain wish diesel maze rotate split black public call reason royal";
+var mnemonic = "require art sail upgrade metal doll south angry choice palm ozone weather";

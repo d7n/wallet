@@ -1,1 +1,1 @@
-var mnemonic = "reason cry climb then sample latin learn wine gaze voyage acoustic choice";
+var mnemonic = "hidden local hello race borrow slice black prize chuckle jewel wagon unveil";

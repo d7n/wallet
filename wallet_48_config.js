@@ -1,1 +1,1 @@
-var mnemonic = "salt wait hidden moon blade cram myself dash aisle cancel arrange wolf";
+var mnemonic = "beef muffin top galaxy prize spray sight borrow fancy body use quit";

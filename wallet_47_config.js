@@ -1,1 +1,1 @@
-var mnemonic = "inform reunion pill ladder price olympic electric layer scene seek service slice";
+var mnemonic = "sunset fee tool tip aerobic daring carbon mixed height smooth drift cotton";

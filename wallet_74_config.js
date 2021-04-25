@@ -1,1 +1,1 @@
-var mnemonic = "casual puzzle lamp bunker reflect search over hold blast gas pipe hurdle";
+var mnemonic = "inmate boss network shine marble exist mosquito reflect pistol ramp stable abstract";

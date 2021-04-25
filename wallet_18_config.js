@@ -1,1 +1,1 @@
-var mnemonic = "universe damp burst chase sword vendor iron choose tube element birth profit";
+var mnemonic = "magic brave menu dumb tornado truth hero fluid embody model sun forest";

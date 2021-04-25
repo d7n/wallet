@@ -1,1 +1,1 @@
-var mnemonic = "slight salute hurdle purity notice olive gown impulse merry either scatter autumn";
+var mnemonic = "squirrel dice forward equal father spatial dust main silly follow gadget uncover";

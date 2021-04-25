@@ -1,1 +1,1 @@
-var mnemonic = "hand beyond flame mistake general area witness please rotate wise fringe egg";
+var mnemonic = "vast walnut height antenna drive toilet stand glide depart thank monster quality";

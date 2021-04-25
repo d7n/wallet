@@ -1,1 +1,1 @@
-var mnemonic = "feature text rare flush shrimp zebra squirrel permit better hello morning teach";
+var mnemonic = "inside green cricket fluid spike argue chimney gate table jealous now update";

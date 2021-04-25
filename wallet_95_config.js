@@ -1,1 +1,1 @@
-var mnemonic = "embrace design catalog style frame seven link tragic crumble quantum submit hair";
+var mnemonic = "identify guard hollow sample surround hand earth thing eyebrow orbit toss diagram";

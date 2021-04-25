@@ -1,1 +1,1 @@
-var mnemonic = "engine prevent hub camp hamster pulp guess vital you all logic roast";
+var mnemonic = "melt act lunar lyrics adult antenna dizzy secret glance crawl empty jaguar";

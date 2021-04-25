@@ -1,1 +1,1 @@
-var mnemonic = "toddler bridge visa regret best survey waste bulk idea budget deal decorate";
+var mnemonic = "level two april minimum fantasy trophy rug urban skate walnut drastic lyrics";

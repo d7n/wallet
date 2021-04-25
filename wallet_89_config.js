@@ -1,1 +1,1 @@
-var mnemonic = "festival uphold income grab typical supreme warrior vehicle feel history taste tonight";
+var mnemonic = "cave walnut clock category increase eight piece champion fault wedding squirrel cushion";

@@ -1,1 +1,1 @@
-var mnemonic = "road spoil million nuclear fire pig biology carbon talent seed coach rain";
+var mnemonic = "vote angle coin shock flock loud crouch mountain ritual few blood copper";

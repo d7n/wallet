@@ -1,1 +1,1 @@
-var mnemonic = "patch fiber predict oblige find tuna safe diesel utility between planet vast";
+var mnemonic = "teach better thumb obey robust bird school trim digital knee hen gloom";

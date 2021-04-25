@@ -1,1 +1,1 @@
-var mnemonic = "scatter fame like smooth unable tortoise retreat reject canal apart cram wire";
+var mnemonic = "lady bless fire pig heart weasel knock sudden chair fault aisle admit";

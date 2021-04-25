@@ -1,1 +1,1 @@
-var mnemonic = "sound raise silly either old addict card match broom betray goat hungry";
+var mnemonic = "height stock today spoil planet local crazy cram copy final say afraid";

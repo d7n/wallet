@@ -1,1 +1,1 @@
-var mnemonic = "dove into donate furnace palace suspect corn library ivory gather either hour";
+var mnemonic = "trophy seat act major quality rural prison latin stereo fury subway check";

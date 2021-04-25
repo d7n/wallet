@@ -1,1 +1,1 @@
-var mnemonic = "party base again odor monitor spoon cruel model about flat add sell";
+var mnemonic = "undo shove normal guard mixed hurt what olympic apple enroll sand trash";

@@ -1,1 +1,1 @@
-var mnemonic = "woman equal limb recall isolate badge fabric omit combine shoot grape bacon";
+var mnemonic = "have resemble become shaft grunt chest music harsh hurt relax sausage hockey";

@@ -1,1 +1,1 @@
-var mnemonic = "pass cake sunset tobacco creek become apart issue artwork wood evidence spring";
+var mnemonic = "fit correct trumpet benefit damage short just audit choice february minor bind";

@@ -1,1 +1,1 @@
-var mnemonic = "race define snack wife index sugar measure swing link okay fever entire";
+var mnemonic = "glad crater expose report fence hunt wrestle gold robust chimney sea usage";

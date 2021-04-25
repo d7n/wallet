@@ -1,1 +1,1 @@
-var mnemonic = "glance hawk flower vocal zebra asset gorilla once foil clown pole unknown";
+var mnemonic = "bitter human earth cost describe estate patrol radar silk retire nuclear bomb";

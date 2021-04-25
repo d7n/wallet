@@ -1,1 +1,1 @@
-var mnemonic = "orient law universe upset myth odor discover crack admit crack pumpkin act";
+var mnemonic = "miss leisure cheese because alpha deliver hockey leopard burger actress agree hotel";

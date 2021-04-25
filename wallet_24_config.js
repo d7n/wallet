@@ -1,1 +1,1 @@
-var mnemonic = "quarter style put fly baby discover kit era stage vintage above trend";
+var mnemonic = "genuine enable organ duck lamp elephant limit venture novel grocery record giraffe";

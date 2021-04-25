@@ -1,1 +1,1 @@
-var mnemonic = "hover grant taxi hurry execute despair mention prison problem lemon adapt certain";
+var mnemonic = "leaf hello public final wear detect inspire order item treat match expect";

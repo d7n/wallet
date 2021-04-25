@@ -1,1 +1,1 @@
-var mnemonic = "flee purchase chunk hen timber limit magic asset observe slide voice talent";
+var mnemonic = "void display payment what cabin sword venture train because patrol alone copy";

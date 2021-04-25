@@ -1,1 +1,1 @@
-var mnemonic = "fine insect wedding upset mystery twist sample speak pitch adult athlete hollow";
+var mnemonic = "crime favorite recipe bridge zone what barely juice cement utility industry raven";

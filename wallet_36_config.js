@@ -1,1 +1,1 @@
-var mnemonic = "fall entire chicken wheel circle laugh cause imitate hold trap few man";
+var mnemonic = "place grace sibling breeze ice diamond knife guess execute million grid yellow";

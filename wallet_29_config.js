@@ -1,1 +1,1 @@
-var mnemonic = "enroll skirt estate elephant valve hope magic leopard song deal quality come";
+var mnemonic = "season borrow move require diamond vapor idea finger palace buffalo dragon shiver";

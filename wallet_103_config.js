@@ -1,1 +1,1 @@
-var mnemonic = "mushroom error quit animal ceiling pond chronic firm vibrant muscle canvas island";
+var mnemonic = "obvious glare cover original easily shuffle asthma monster piano priority screen name";

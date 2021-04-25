@@ -1,1 +1,1 @@
-var mnemonic = "pretty alter record puzzle dirt gospel rare front cherry spend forum kitten";
+var mnemonic = "tiny situate ten point embody miracle digital faculty solid brand bird antenna";

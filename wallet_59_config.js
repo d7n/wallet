@@ -1,1 +1,1 @@
-var mnemonic = "husband tuna absurd beef roast cupboard ranch ticket net dilemma unveil visa";
+var mnemonic = "fringe miss clip engage olympic chief fame dwarf shrimp sunny neither refuse";

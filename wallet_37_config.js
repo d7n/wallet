@@ -1,1 +1,1 @@
-var mnemonic = "angry assume bulb escape erase senior only column style kiss payment dwarf";
+var mnemonic = "control own dream address hero nasty fossil mention job gap admit vehicle";

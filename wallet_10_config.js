@@ -1,1 +1,1 @@
-var mnemonic = "snake cry judge increase present claim potato easy pigeon volume truth moral";
+var mnemonic = "three rude lecture kitchen cream execute guitar rocket limit item zebra innocent";

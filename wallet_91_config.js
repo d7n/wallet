@@ -1,1 +1,1 @@
-var mnemonic = "false ask visit brass tomorrow future village reunion gap oak explain leader";
+var mnemonic = "limit inquiry angry cargo cheap else expect climb pony meadow naive cabbage";

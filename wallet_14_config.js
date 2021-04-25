@@ -1,1 +1,1 @@
-var mnemonic = "enact rather camera lunch drill peanut unable snake venue tiny dizzy stem";
+var mnemonic = "fade flush breeze soldier aisle forward student banana text heart fire cover";

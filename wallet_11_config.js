@@ -1,1 +1,1 @@
-var mnemonic = "hope ensure humor midnight fault jump miss alien federal conduct tip dragon";
+var mnemonic = "acoustic room repair someone camp expire album blame coach pulse phrase praise";

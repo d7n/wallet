@@ -1,1 +1,1 @@
-var mnemonic = "bleak teach donate genuine couch deputy usual sustain eager champion fringe joke";
+var mnemonic = "lobster eye tomato spider primary reduce blur funny slogan struggle diary fashion";

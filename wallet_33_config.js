@@ -1,1 +1,1 @@
-var mnemonic = "float pupil sand mixed pumpkin scrub edge orchard uphold roast raise grocery";
+var mnemonic = "ghost dwarf morning great breeze amount race drift weapon vault deny nut";

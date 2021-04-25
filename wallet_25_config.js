@@ -1,1 +1,1 @@
-var mnemonic = "priority doll expect boat ketchup dynamic jealous faculty fame crop track surprise";
+var mnemonic = "spend medal path puppy bachelor quantum celery season pulp happy agree hard";

@@ -1,1 +1,1 @@
-var mnemonic = "pigeon virtual usage share sketch brown hat initial gloom avocado feed aim";
+var mnemonic = "infant favorite lawsuit abandon trumpet injury property clump fiber chest often fit";

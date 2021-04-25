@@ -1,1 +1,1 @@
-var mnemonic = "flame evidence stairs fold average gloom twist door blade fit apology age";
+var mnemonic = "solid volume kitchen assault gain donate stomach express interest radio hover cheese";

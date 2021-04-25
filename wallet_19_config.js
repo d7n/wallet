@@ -1,1 +1,1 @@
-var mnemonic = "below tennis all near visa diary cable rare extend hen kid permit";
+var mnemonic = "error globe liquid civil fee ski hungry pumpkin cannon crack library north";

@@ -1,1 +1,1 @@
-var mnemonic = "bar huge slide borrow debate cause ability quit pluck warfare nominee brisk";
+var mnemonic = "undo shove someone certain sphere promote type avoid share fire retire march";

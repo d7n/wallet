@@ -1,1 +1,1 @@
-var mnemonic = "dust empty loop dragon visit fat omit control flat split fiscal embark";
+var mnemonic = "employ history asset use walk space flight aisle host edit tortoise butter";

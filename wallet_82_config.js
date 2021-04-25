@@ -1,1 +1,1 @@
-var mnemonic = "ice broom hurry forest view farm ghost reveal manage spike rapid turn";
+var mnemonic = "broom submit faith yellow impulse plastic raven toy trade execute oppose unveil";

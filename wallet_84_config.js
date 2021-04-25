@@ -1,1 +1,1 @@
-var mnemonic = "employ sheriff grape tunnel empower clay shallow matrix simple put firm idea";
+var mnemonic = "wheat robust survey fly holiday left meat wire write rose mango sun";

@@ -1,1 +1,1 @@
-var mnemonic = "craft brass rifle crack language salute myself filter cat economy buzz dizzy";
+var mnemonic = "alarm predict practice universe smoke rotate believe cupboard evoke bronze layer patch";

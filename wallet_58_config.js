@@ -1,1 +1,1 @@
-var mnemonic = "bacon rack laundry poverty speak bus forget gain damage express impulse grant";
+var mnemonic = "crisp come loyal fresh aerobic top grow vacuum purse choose pistol pilot";

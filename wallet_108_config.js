@@ -1,1 +1,1 @@
-var mnemonic = "unable praise forest wife invite bid horror pact explain tiger monkey leopard";
+var mnemonic = "cup permit edit acquire edit cargo cool staff first high carbon coil";

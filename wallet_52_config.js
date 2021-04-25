@@ -1,1 +1,1 @@
-var mnemonic = "alley sock divide crystal despair pause subject climb hero property clog travel";
+var mnemonic = "coil silver sand front salute gold spirit play valid village unfair cave";

@@ -1,1 +1,1 @@
-var mnemonic = "elite retreat ecology local pizza culture simple humor only night galaxy vivid";
+var mnemonic = "also box away all adult net glue sail danger current noise float";

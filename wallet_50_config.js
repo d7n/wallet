@@ -1,1 +1,1 @@
-var mnemonic = "essay circle warm never any office notice lake feel resource amused fault";
+var mnemonic = "wool weather rival nuclear aspect caught fade notable art middle output where";

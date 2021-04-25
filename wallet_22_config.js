@@ -1,1 +1,1 @@
-var mnemonic = "vacuum flee offer rain nut erosion town sort suggest time story chalk";
+var mnemonic = "pact around cinnamon drill pulp enjoy bird butter layer neither cabin october";

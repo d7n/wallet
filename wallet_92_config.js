@@ -1,1 +1,1 @@
-var mnemonic = "bird enforce disagree umbrella fiction joy unhappy edge category fiber minute grace";
+var mnemonic = "suspect test seat cattle demise knee praise bulk drive video extra giggle";

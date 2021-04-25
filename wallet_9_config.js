@@ -1,1 +1,1 @@
-var mnemonic = "fog stand orient tell height opinion inflict later oval mouse six canvas";
+var mnemonic = "juice party upset patient input person sword legal staff term loop prepare";

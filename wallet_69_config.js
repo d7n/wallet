@@ -1,1 +1,1 @@
-var mnemonic = "minimum thing train birth over slim false supply shift famous police lamp";
+var mnemonic = "shift broken repair breeze universe frog pulse thank citizen exact rifle again";
