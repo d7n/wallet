@@ -1,1 +1,1 @@
-var mnemonic = "body seminar remain minimum net security keen lava earth page today town";
+var mnemonic = "squeeze state love wreck boy demise equal claw canal soda pepper token";

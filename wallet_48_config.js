@@ -1,1 +1,1 @@
-var mnemonic = "village rain put load atom luggage similar avocado call abstract fortune robot";
+var mnemonic = "creek message amazing demand task thank tower position broom culture carry bird";

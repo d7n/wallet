@@ -1,1 +1,1 @@
-var mnemonic = "eagle curve question divorce crouch defense soul breeze wink buyer burst ethics";
+var mnemonic = "monster burger romance audit gasp lumber fatigue glory slide online sand seat";

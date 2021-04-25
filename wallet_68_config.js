@@ -1,1 +1,1 @@
-var mnemonic = "select lemon egg finger drive comic grant lock file twenty forest cabbage";
+var mnemonic = "know leaf avocado deny either brief powder gallery welcome cement gym trip";

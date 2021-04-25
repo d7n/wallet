@@ -1,1 +1,1 @@
-var mnemonic = "dinner barely mystery garment edge dust reopen example daughter thunder dust erase";
+var mnemonic = "gallery slam holiday seven fee sadness captain milk series desert helmet bind";

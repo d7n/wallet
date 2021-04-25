@@ -1,1 +1,1 @@
-var mnemonic = "trade strong iron unfold buffalo share state chuckle attract neither crack please";
+var mnemonic = "depth tooth velvet teach window someone bag book trend access pear pear";

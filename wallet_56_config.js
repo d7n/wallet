@@ -1,1 +1,1 @@
-var mnemonic = "match satisfy sketch know various ask seed brain move observe essay present";
+var mnemonic = "grab resemble police hope claw taxi twist alien panda explain fantasy myself";

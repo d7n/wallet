@@ -1,1 +1,1 @@
-var mnemonic = "case duty entire notice half machine raise margin gym click achieve sunny";
+var mnemonic = "employ alert keep diary proof assault drastic carbon heart drastic act angle";

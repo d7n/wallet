@@ -1,1 +1,1 @@
-var mnemonic = "hover village sudden second bamboo claw vital private add behave oak betray";
+var mnemonic = "equal vehicle hold flee badge spy segment pear scare cable hungry judge";

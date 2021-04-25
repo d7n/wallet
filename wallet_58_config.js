@@ -1,1 +1,1 @@
-var mnemonic = "artefact shuffle swamp couple fresh base snake midnight enrich access hair purity";
+var mnemonic = "bamboo name keen punch client denial cheap shield paper universe oak grant";

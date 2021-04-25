@@ -1,1 +1,1 @@
-var mnemonic = "screen zoo welcome age truly brush mercy remove glow negative change fan";
+var mnemonic = "license bubble neglect adult search wrestle faith salon account then galaxy indoor";

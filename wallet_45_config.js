@@ -1,1 +1,1 @@
-var mnemonic = "impose robot prepare youth trend forum edit goose crowd glue payment panic";
+var mnemonic = "misery miss athlete vocal thought focus donor erosion news october horror tuna";

@@ -1,1 +1,1 @@
-var mnemonic = "eight raw announce rabbit invest vehicle minor virus bulb exercise nice dance";
+var mnemonic = "salute room stool mobile adult carbon real rude scout churn must exchange";

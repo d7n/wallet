@@ -1,1 +1,1 @@
-var mnemonic = "visual loop screen gun affair couch trophy wool shuffle spring grit novel";
+var mnemonic = "vocal huge network bamboo easily people pulse trim upgrade fame ritual wage";

@@ -1,1 +1,1 @@
-var mnemonic = "want canyon lab gym robot stand ski learn dove enforce meat rifle";
+var mnemonic = "treat laundry pepper basket way trophy similar lucky hospital seed supply equip";

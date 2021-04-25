@@ -1,1 +1,1 @@
-var mnemonic = "wet session million sun glue switch warm tone glide breeze castle gas";
+var mnemonic = "enhance tone great month rug envelope cliff bundle expose extend talk high";

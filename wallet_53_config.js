@@ -1,1 +1,1 @@
-var mnemonic = "clever armor panda prosper before lonely sense east easily cabbage gallery shock";
+var mnemonic = "puzzle health combine bag obtain lyrics balcony dynamic creek bulb mind sun";

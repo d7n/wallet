@@ -1,1 +1,1 @@
-var mnemonic = "mixture fee mask cancel bind lottery already grape can issue wealth liquid";
+var mnemonic = "audit seat open obvious foster kiss magnet panda very damp plug open";

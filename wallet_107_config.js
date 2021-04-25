@@ -1,1 +1,1 @@
-var mnemonic = "powder giraffe goose round salt crawl tribe guitar start danger fruit tomato";
+var mnemonic = "indicate steel card web sell brave lion lamp defy render parade clarify";

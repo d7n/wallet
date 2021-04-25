@@ -1,1 +1,1 @@
-var mnemonic = "animal clerk omit lake embrace impose trick wheel join mechanic type collect";
+var mnemonic = "profit motor wreck motion umbrella view copper minor olympic twin crumble envelope";

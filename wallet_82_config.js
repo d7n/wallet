@@ -1,1 +1,1 @@
-var mnemonic = "horse ocean shadow riot diagram satisfy escape escape mistake link animal vault";
+var mnemonic = "thing hood paddle fantasy injury drip feature august winner another chair bleak";

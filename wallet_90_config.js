@@ -1,1 +1,1 @@
-var mnemonic = "daughter foam follow fatal forget old riot ancient real spin sudden message";
+var mnemonic = "charge network indicate ramp birth answer option manage year coach senior select";

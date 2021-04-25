@@ -1,1 +1,1 @@
-var mnemonic = "congress dust fish act inch penalty topple mail oven wool soldier retire";
+var mnemonic = "nest piano pool sister oxygen horse portion alley reveal exotic again winner";

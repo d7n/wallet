@@ -1,1 +1,1 @@
-var mnemonic = "cement mule echo improve they army fragile nuclear rich secret seek skill";
+var mnemonic = "vessel subway write slide peasant image bullet grain pride battle napkin move";

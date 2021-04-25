@@ -1,1 +1,1 @@
-var mnemonic = "exchange identify salon stick asthma coconut miracle settle use rebuild hobby morning";
+var mnemonic = "february sniff nerve short rival blood receive use airport since city autumn";

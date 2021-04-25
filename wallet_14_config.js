@@ -1,1 +1,1 @@
-var mnemonic = "problem humor warm vault digital kangaroo say fan engine turn find chair";
+var mnemonic = "early actual trend better junior crisp various obvious flock bid nose that";

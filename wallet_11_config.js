@@ -1,1 +1,1 @@
-var mnemonic = "deliver ritual endorse word crack ice rail steel invest practice volcano host";
+var mnemonic = "basic thing sing quiz steel attend thunder unknown safe bar dignity reopen";

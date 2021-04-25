@@ -1,1 +1,1 @@
-var mnemonic = "exercise junk crime picture mixture erode sense property baby cloud unable enable";
+var mnemonic = "bright horn suffer beef segment afraid pen beach lava view beef isolate";

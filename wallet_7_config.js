@@ -1,1 +1,1 @@
-var mnemonic = "group slab auto early setup roast toilet foam prepare version leisure insane";
+var mnemonic = "unaware cat burden drink long kite scan tone lazy detect alpha eyebrow";

@@ -1,1 +1,1 @@
-var mnemonic = "cage enforce certain arch hurt city vintage genuine dry fan teach valve";
+var mnemonic = "solution plug topic step base wait morning ring put review still scrub";

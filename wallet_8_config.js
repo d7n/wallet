@@ -1,1 +1,1 @@
-var mnemonic = "auction process impact language vapor balcony alien fantasy vague champion among column";
+var mnemonic = "fade nephew leg monitor grace burger holiday document gate seminar hub hockey";

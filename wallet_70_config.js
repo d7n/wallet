@@ -1,1 +1,1 @@
-var mnemonic = "memory position chief burst energy razor teach length clean receive divorce issue";
+var mnemonic = "arrange dinner stadium close industry polar fix omit jump acid motion muscle";

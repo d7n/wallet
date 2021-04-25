@@ -1,1 +1,1 @@
-var mnemonic = "security collect whisper excess glory donkey series base lounge shrug swear useful";
+var mnemonic = "bind genre ski height awake derive large clump access derive bench goddess";

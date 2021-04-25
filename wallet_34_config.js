@@ -1,1 +1,1 @@
-var mnemonic = "quarter inherit gown final avoid air turkey fuel engage found embrace style";
+var mnemonic = "genre laptop maximum wheat daughter position hill mammal goose whale team chief";

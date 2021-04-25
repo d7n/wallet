@@ -1,1 +1,1 @@
-var mnemonic = "behind amateur bundle breeze decide feed soup oil guilt entry minimum face";
+var mnemonic = "toward ahead glad attract long refuse bulk bargain pool behave acoustic border";

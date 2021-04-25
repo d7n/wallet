@@ -1,1 +1,1 @@
-var mnemonic = "club joke cluster group spy dog spread trophy gallery better second service";
+var mnemonic = "village curve defense skin rough consider sweet moral near maze prevent pigeon";

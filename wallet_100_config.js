@@ -1,1 +1,1 @@
-var mnemonic = "helmet push symptom junk long warm similar dose lonely misery benefit crunch";
+var mnemonic = "melt dirt shrimp staff rely explain journey antique vendor dawn enable nothing";

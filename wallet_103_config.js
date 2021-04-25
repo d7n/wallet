@@ -1,1 +1,1 @@
-var mnemonic = "ranch struggle awesome typical off farm jaguar choose spoil phone tank renew";
+var mnemonic = "boring this tube outside dress cash yellow calm duck fatigue unhappy target";

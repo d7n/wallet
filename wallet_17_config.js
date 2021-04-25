@@ -1,1 +1,1 @@
-var mnemonic = "struggle table festival caution venture girl yellow heart toilet movie wedding garbage";
+var mnemonic = "shiver prize habit toward wisdom hint address subject remove stumble method island";

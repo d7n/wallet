@@ -1,1 +1,1 @@
-var mnemonic = "wheel loop method weather chair rule talk repair vanish wild swear owner";
+var mnemonic = "call amazing ethics receive glow sniff that rookie pistol verify hen tongue";

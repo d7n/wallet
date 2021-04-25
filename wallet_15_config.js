@@ -1,1 +1,1 @@
-var mnemonic = "genius save garage liberty fun bean side patch balcony destroy source modify";
+var mnemonic = "copy mixed live endorse august eager inner dinner they culture globe fashion";

@@ -1,1 +1,1 @@
-var mnemonic = "model call distance ripple error humor meat kiwi hole lounge enroll destroy";
+var mnemonic = "nasty globe brass seat anxiety motion gorilla carbon swamp blush soon daring";

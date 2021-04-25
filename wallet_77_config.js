@@ -1,1 +1,1 @@
-var mnemonic = "street blind tank swallow avocado sea license call obvious melt adapt middle";
+var mnemonic = "fold under crumble busy job bless library interest scrub into already problem";

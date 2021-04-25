@@ -1,1 +1,1 @@
-var mnemonic = "feel identify hero correct warm pear elder marriage rude again green enlist";
+var mnemonic = "kitten boss toddler puzzle basket awake velvet faith price photo logic desk";

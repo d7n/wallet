@@ -1,1 +1,1 @@
-var mnemonic = "lucky member require unable monitor light add bring rough legal kingdom thumb";
+var mnemonic = "loan attack connect want unit chimney reopen alien base curve rather harvest";

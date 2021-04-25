@@ -1,1 +1,1 @@
-var mnemonic = "smooth keen paper scan sheriff supreme trigger life company whisper since join";
+var mnemonic = "three stick grid park pottery broccoli height arrest aspect shine dilemma capital";

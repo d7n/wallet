@@ -1,1 +1,1 @@
-var mnemonic = "joke involve oil news north glad episode swarm mother silk bridge extend";
+var mnemonic = "comic state ordinary load invest picnic behave citizen common rib six wrist";

@@ -1,1 +1,1 @@
-var mnemonic = "fit capable tumble left phrase upgrade east turkey topic thought lift expire";
+var mnemonic = "survey orphan future lesson alter pistol typical target whip nuclear army chuckle";

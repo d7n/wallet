@@ -1,1 +1,1 @@
-var mnemonic = "lucky idle window front price parade rural supreme clown link maze poverty";
+var mnemonic = "tank coach buddy theme copy rely isolate warrior debate kiwi season front";

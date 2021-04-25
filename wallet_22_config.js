@@ -1,1 +1,1 @@
-var mnemonic = "scale appear deputy bid naive electric meadow apart lunch chimney distance level";
+var mnemonic = "volume own curve garlic more keen era orbit thing spend cereal dose";

@@ -1,1 +1,1 @@
-var mnemonic = "mechanic smoke brother excuse sleep lady rose cram water deliver news parade";
+var mnemonic = "more scorpion guess pretty river eternal child used meat rate travel always";

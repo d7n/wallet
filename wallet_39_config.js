@@ -1,1 +1,1 @@
-var mnemonic = "focus language movie man abstract huge frown page parade phrase feel buddy";
+var mnemonic = "derive achieve flash horror guilt model august another meat sausage act wish";

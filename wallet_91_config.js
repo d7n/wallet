@@ -1,1 +1,1 @@
-var mnemonic = "noodle twice access birth raise marine ski mango sing job tunnel sniff";
+var mnemonic = "begin express oval abuse arm glove asthma place venue cactus stumble moral";

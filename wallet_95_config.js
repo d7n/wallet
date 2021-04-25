@@ -1,1 +1,1 @@
-var mnemonic = "polar blossom right runway garbage mushroom fatigue piece vehicle lobster crumble sell";
+var mnemonic = "child shell rug mushroom latin doll sight match whisper glimpse prosper oblige";

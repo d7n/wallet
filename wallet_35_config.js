@@ -1,1 +1,1 @@
-var mnemonic = "rug setup fortune century enforce prevent boy reunion call today cereal salad";
+var mnemonic = "wire coach antenna artwork during solve chicken awful manage seed oppose much";

@@ -1,1 +1,1 @@
-var mnemonic = "mushroom inhale smart gallery fall volcano include either oven diesel prefer obtain";
+var mnemonic = "sport topic shuffle stairs puppy army question hurry ritual net mushroom awful";

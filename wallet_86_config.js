@@ -1,1 +1,1 @@
-var mnemonic = "credit addict pencil near alpha slender portion fantasy exit check predict ugly";
+var mnemonic = "tree spirit fox repeat april ribbon gloom post plastic insane live suggest";

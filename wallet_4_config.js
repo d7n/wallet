@@ -1,1 +1,1 @@
-var mnemonic = "ride yard left helmet kit school wheel forum physical badge bitter asthma";
+var mnemonic = "horse innocent ready waste water cigar whale answer rude idle shed rally";

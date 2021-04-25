@@ -1,1 +1,1 @@
-var mnemonic = "spray uniform lunch gun vehicle vocal village spin barrel business favorite rigid";
+var mnemonic = "task winter volume consider fatigue meadow bleak pull canal symbol argue real";

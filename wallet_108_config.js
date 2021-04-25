@@ -1,1 +1,1 @@
-var mnemonic = "slim easily insane box convince recycle already ice stomach culture stem eager";
+var mnemonic = "lumber summer sunset able concert urge outer gossip attract east uncle taste";

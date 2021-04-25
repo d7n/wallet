@@ -1,1 +1,1 @@
-var mnemonic = "metal ancient spread school kiss large initial still scrap dash segment need";
+var mnemonic = "fog favorite little vicious walnut amateur raw unhappy city favorite tank such";

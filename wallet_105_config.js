@@ -1,1 +1,1 @@
-var mnemonic = "song supreme coyote example gauge slam token swap media outside quit sand";
+var mnemonic = "affair judge virus canal squeeze vital wealth chaos leader machine receive fitness";

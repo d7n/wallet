@@ -1,1 +1,1 @@
-var mnemonic = "match enrich almost provide danger nasty range solar august soul snap term";
+var mnemonic = "escape minor purchase noise topic trouble level appear cram boss upgrade room";

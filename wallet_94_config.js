@@ -1,1 +1,1 @@
-var mnemonic = "truth panther coin diet crazy shine key coyote quiz learn fun object";
+var mnemonic = "such scatter fortune discover identify siege moon woman ceiling race already shoot";

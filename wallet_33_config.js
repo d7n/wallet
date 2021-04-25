@@ -1,1 +1,1 @@
-var mnemonic = "trophy nephew father ticket globe want manage mirror draw brush prepare leopard";
+var mnemonic = "anxiety defy control mixed burger issue fetch hand innocent symbol when close";

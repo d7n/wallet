@@ -1,1 +1,1 @@
-var mnemonic = "laugh father spatial uniform wrap sauce drastic example fiction cool maze thing";
+var mnemonic = "awake party surface afraid rib prize valve hurdle message vast guide turkey";

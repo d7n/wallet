@@ -1,1 +1,1 @@
-var mnemonic = "clutch humor collect front wing capital under sadness candy switch exhibit ugly";
+var mnemonic = "monitor cherry winner drastic zebra black defy rural learn obvious riot jewel";

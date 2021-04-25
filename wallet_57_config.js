@@ -1,1 +1,1 @@
-var mnemonic = "dash hand often grant afford echo report payment verify notable process that";
+var mnemonic = "believe tired beauty silent inform appear genuine fitness buddy inherit wreck metal";

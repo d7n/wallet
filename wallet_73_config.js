@@ -1,1 +1,1 @@
-var mnemonic = "scheme hold armed harbor injury purchase concert cable pride gloom menu sea";
+var mnemonic = "recall deer city hood caught girl make uniform congress armor acoustic isolate";

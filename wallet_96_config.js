@@ -1,1 +1,1 @@
-var mnemonic = "danger business damage find spoon impulse vacuum elite note jar space tilt";
+var mnemonic = "upgrade black wink later kite lava cross orient floor crunch video recipe";

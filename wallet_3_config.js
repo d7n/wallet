@@ -1,1 +1,1 @@
-var mnemonic = "guess rival garment ocean innocent whisper hair expire river trophy enrich volcano";
+var mnemonic = "physical tree liquid canal either grab chair solid fox unknown clump jacket";

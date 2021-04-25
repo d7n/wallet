@@ -1,1 +1,1 @@
-var mnemonic = "wolf hat grow already dynamic purity swear floor mass sample safe corn";
+var mnemonic = "cute cotton faith nature guess drama spoil belt figure tourist bone double";

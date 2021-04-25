@@ -1,1 +1,1 @@
-var mnemonic = "relax question giant chicken vast vicious gauge mistake island random tunnel child";
+var mnemonic = "have inspire tattoo odor replace venture feature aware slice swear light involve";

@@ -1,1 +1,1 @@
-var mnemonic = "audit aspect punch monitor brief brisk sunny reveal drift bag coin cushion";
+var mnemonic = "enough guard release just pledge quantum summer fitness again pave tattoo sunny";

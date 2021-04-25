@@ -1,1 +1,1 @@
-var mnemonic = "private loan slide regular priority destroy cradle perfect vivid spread gather destroy";
+var mnemonic = "isolate render wire step turn skirt aunt antique gate blind voyage more";

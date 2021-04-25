@@ -1,1 +1,1 @@
-var mnemonic = "bulb palm mixed sheriff table gasp whip roof shy antenna dove heavy";
+var mnemonic = "hold kitten artwork surge good truth tail eagle skate cereal cabin sheriff";

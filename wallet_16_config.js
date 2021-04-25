@@ -1,1 +1,1 @@
-var mnemonic = "update vicious twelve plastic tone wife uncover clever infant awesome ivory shift";
+var mnemonic = "camera result home forum wrap planet trade remain click slow gospel skate";

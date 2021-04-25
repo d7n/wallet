@@ -1,1 +1,1 @@
-var mnemonic = "cargo extend secret sustain flat together kick surprise impulse crowd tree sun";
+var mnemonic = "camera member street virus unaware boring absurd again arctic office throw couple";

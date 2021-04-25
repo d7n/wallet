@@ -1,1 +1,1 @@
-var mnemonic = "year catch speak risk return warm enroll tag festival half hill area";
+var mnemonic = "peace muscle pottery rapid ridge detect palm visit penalty toward wagon zoo";

@@ -1,1 +1,1 @@
-var mnemonic = "fury network dog mistake law spice gloom bless myth best spray spell";
+var mnemonic = "palace capital gym bring salon captain nut mandate exchange solve half amount";

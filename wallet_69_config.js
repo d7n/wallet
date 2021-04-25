@@ -1,1 +1,1 @@
-var mnemonic = "taxi valve clown stereo fault address season stick flag slot brother afraid";
+var mnemonic = "slogan recycle thumb begin tumble isolate bid law lemon around open future";

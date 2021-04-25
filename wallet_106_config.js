@@ -1,1 +1,1 @@
-var mnemonic = "catch body taxi bachelor absent motor mechanic inquiry wire diamond desk that";
+var mnemonic = "census skate track barely blossom sniff steak shed season dizzy inner empower";

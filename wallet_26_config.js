@@ -1,1 +1,1 @@
-var mnemonic = "unlock motion original cupboard table laptop fee element window away sponsor pave";
+var mnemonic = "pencil vivid crush moment box resemble twin solve claw wave sauce belt";

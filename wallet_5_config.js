@@ -1,1 +1,1 @@
-var mnemonic = "demand hollow charge cheap betray unlock giraffe reduce better sunny second half";
+var mnemonic = "sister season visit left myself increase digital mom wonder proud grocery dawn";

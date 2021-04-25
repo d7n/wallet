@@ -1,1 +1,1 @@
-var mnemonic = "sauce news health train disorder make typical into decorate soda leisure tiny";
+var mnemonic = "sponsor mixed frog attack post scan multiply undo punch property cat next";

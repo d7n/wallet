@@ -1,1 +1,1 @@
-var mnemonic = "device amazing fossil walk lab solid distance shoot journey glue color fringe";
+var mnemonic = "fashion essence vast alert link unique taxi frog moment sugar online front";

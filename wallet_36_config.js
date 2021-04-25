@@ -1,1 +1,1 @@
-var mnemonic = "stadium cheese topic asthma keep combine flight frost wet trip control guess";
+var mnemonic = "nuclear way cake mom clip fashion acquire voyage assist vote imitate unaware";

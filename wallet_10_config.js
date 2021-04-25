@@ -1,1 +1,1 @@
-var mnemonic = "text more wrong glow doctor water pelican wage alcohol crouch anger modify";
+var mnemonic = "recall master crash muscle fan this cargo helmet leave bundle supply solid";

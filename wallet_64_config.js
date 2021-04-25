@@ -1,1 +1,1 @@
-var mnemonic = "stable bargain vapor always congress model come taxi mass rebuild begin oval";
+var mnemonic = "ready dentist wrong arrest spend fine rude industry media tired advice shove";

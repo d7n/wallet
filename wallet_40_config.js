@@ -1,1 +1,1 @@
-var mnemonic = "clinic wealth puzzle nephew wild swift fringe dove slow foam ranch floor";
+var mnemonic = "drill cat upon wisdom member document west foil join attitude enforce coin";
