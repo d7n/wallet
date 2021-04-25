@@ -1,1 +1,1 @@
-var mnemonic = "cycle attend innocent smoke friend shoulder also inherit fruit teach dinner flat";
+var mnemonic = "problem injury steak trick draft unfair enroll vessel confirm merit announce liquid";

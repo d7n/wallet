@@ -1,1 +1,1 @@
-var mnemonic = "tiger seek forward twist eternal destroy lamp tank elbow essay blouse group";
+var mnemonic = "text actor sock super pizza garment night scissors leaf napkin hope quantum";

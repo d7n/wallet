@@ -1,1 +1,1 @@
-var mnemonic = "surface shaft opinion raw farm clay now boost tray spike roof eagle";
+var mnemonic = "deputy poem tone theory ill message mother cat vessel palm able mind";

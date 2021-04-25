@@ -1,1 +1,1 @@
-var mnemonic = "ordinary typical tobacco figure ridge obey imitate intact rule comfort rhythm rigid";
+var mnemonic = "garlic warm assault state embody receive chaos denial hire stadium relief verb";

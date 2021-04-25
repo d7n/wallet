@@ -1,1 +1,1 @@
-var mnemonic = "provide eight budget decade enemy hurry dizzy faint barely obvious camp useless";
+var mnemonic = "dizzy recycle rely muffin vendor hamster misery feature call marine tuition script";

@@ -1,1 +1,1 @@
-var mnemonic = "inherit struggle response state zero cousin link purity orchard rally spirit draw";
+var mnemonic = "loyal talk relief dune small impact area choose run parade sentence clever";

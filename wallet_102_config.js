@@ -1,1 +1,1 @@
-var mnemonic = "grain latin portion stable mansion present lonely scan first frozen lunch peace";
+var mnemonic = "laptop market crime disorder option version horn bread theory divorce author immense";

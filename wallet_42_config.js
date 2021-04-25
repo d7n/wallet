@@ -1,1 +1,1 @@
-var mnemonic = "chalk pattern fancy suspect type crew industry lamp plunge asset long merit";
+var mnemonic = "cupboard during pluck donate payment family notable nut ivory sweet volume wet";

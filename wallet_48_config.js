@@ -1,1 +1,1 @@
-var mnemonic = "wrestle romance dragon sell orbit rural trick rich pond thrive pole leg";
+var mnemonic = "traffic put lumber okay remove blast trial jelly legend ranch bicycle pause";

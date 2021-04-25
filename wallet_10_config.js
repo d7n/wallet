@@ -1,1 +1,1 @@
-var mnemonic = "wide general avoid ready dynamic differ gap diesel exclude include host truly";
+var mnemonic = "supreme improve depart one fault scheme syrup goddess daughter fork song space";

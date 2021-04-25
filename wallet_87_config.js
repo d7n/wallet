@@ -1,1 +1,1 @@
-var mnemonic = "gain shallow maid silver pig spare obvious picture verb twenty shop shift";
+var mnemonic = "fatal shoulder despair mom mimic smoke busy since crop ribbon genius carbon";

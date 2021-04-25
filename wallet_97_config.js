@@ -1,1 +1,1 @@
-var mnemonic = "region marine travel impose salmon bargain spread moon employ sunset purity step";
+var mnemonic = "satisfy desert hazard warm pool focus figure place board doctor already awful";

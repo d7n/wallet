@@ -1,1 +1,1 @@
-var mnemonic = "color pulse badge alcohol own census aware shell reveal into six spare";
+var mnemonic = "caution vague remind raccoon penalty hen blast tent choose nest pelican vanish";

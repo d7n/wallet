@@ -1,1 +1,1 @@
-var mnemonic = "predict wine double wide emotion foam dial episode lab until female foot";
+var mnemonic = "delay great song ball six catalog local state minimum paper dolphin enter";

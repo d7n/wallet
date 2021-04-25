@@ -1,1 +1,1 @@
-var mnemonic = "mango industry satisfy make base sunset impact small pistol frost list squirrel";
+var mnemonic = "man garden convince lottery smile best paper trend fall provide spray setup";

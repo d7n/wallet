@@ -1,1 +1,1 @@
-var mnemonic = "angry own come laptop tool shoot own solid then response burst settle";
+var mnemonic = "resist camera toe egg impulse mouse wise dash outdoor brand add lava";

@@ -1,1 +1,1 @@
-var mnemonic = "prize chat satisfy camp nothing debris deal ritual home liquid dwarf buzz";
+var mnemonic = "alcohol shadow bulb stick culture lunar hand estate phrase muscle remind century";

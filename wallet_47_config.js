@@ -1,1 +1,1 @@
-var mnemonic = "scale soldier wagon find super circle day aerobic another number erupt void";
+var mnemonic = "rally employ snap give scrub fire concert develop early ozone goddess you";

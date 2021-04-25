@@ -1,1 +1,1 @@
-var mnemonic = "clutch switch play buzz buddy throw light symbol sick wall cupboard army";
+var mnemonic = "quit belt nice country mesh code put syrup rather plastic horror clap";

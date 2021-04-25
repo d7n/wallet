@@ -1,1 +1,1 @@
-var mnemonic = "adjust canvas tomato element tray shrug popular summer burger girl trophy wild";
+var mnemonic = "thank elbow axis judge great insane junk small want announce burden radar";

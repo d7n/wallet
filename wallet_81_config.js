@@ -1,1 +1,1 @@
-var mnemonic = "act senior ridge stairs title sugar issue elbow mention anchor weasel benefit";
+var mnemonic = "junk globe whip soon curious awful intact salute stable quick recycle case";

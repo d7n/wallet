@@ -1,1 +1,1 @@
-var mnemonic = "ahead bullet orchard submit ship electric afford fuel force virus trip nothing";
+var mnemonic = "health unknown aunt dinner pact zoo book open clap anchor toward melt";

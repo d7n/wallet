@@ -1,1 +1,1 @@
-var mnemonic = "impulse express secret bind chef emotion decrease option spoon enroll walnut modify";
+var mnemonic = "melody fiction only burden city robot alarm food auction nothing category deer";

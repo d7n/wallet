@@ -1,1 +1,1 @@
-var mnemonic = "small first fat load census casual script rifle large nominee century limit";
+var mnemonic = "great rotate tissue private diamond curious one follow cream immune weasel veteran";

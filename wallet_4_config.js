@@ -1,1 +1,1 @@
-var mnemonic = "master exist crash milk veteran perfect receive blast symptom razor jacket utility";
+var mnemonic = "panic finish scheme coach icon door october neither fresh choice win rice";

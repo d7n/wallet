@@ -1,1 +1,1 @@
-var mnemonic = "asthma acid aisle sauce scrub swarm glory athlete false left glass easy";
+var mnemonic = "aware behind grain eight pulse quit gravity planet during inner favorite hope";

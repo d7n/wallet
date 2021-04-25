@@ -1,1 +1,1 @@
-var mnemonic = "core evidence ski bar clap misery lyrics hedgehog knife capable method boil";
+var mnemonic = "modify hockey axis kit deny nerve oblige behave athlete bunker problem prosper";

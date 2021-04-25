@@ -1,1 +1,1 @@
-var mnemonic = "banana panda timber husband dolphin coffee crater oven first salute sort midnight";
+var mnemonic = "collect cake real dutch pyramid before true pupil reject intact power melt";

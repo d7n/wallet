@@ -1,1 +1,1 @@
-var mnemonic = "shadow million clarify south helmet swallow heavy fault profit brief laptop expire";
+var mnemonic = "game hobby crop off lens regular will grape ice maze devote scan";

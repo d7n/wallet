@@ -1,1 +1,1 @@
-var mnemonic = "trigger alpha nest cupboard nuclear time rich pottery garbage palace blossom harsh";
+var mnemonic = "ride divide gadget cushion hold protect surprise keep arrange boss airport cash";

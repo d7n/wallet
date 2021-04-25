@@ -1,1 +1,1 @@
-var mnemonic = "arm scale night language lucky skirt anxiety reflect you head give island";
+var mnemonic = "deal never heavy shed middle few jacket spray success scorpion often talk";

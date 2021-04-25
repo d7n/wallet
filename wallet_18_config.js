@@ -1,1 +1,1 @@
-var mnemonic = "donkey mention series bean logic trick room orphan entire suffer cream scan";
+var mnemonic = "olympic promote oven breeze bonus lady jacket garment tank simple defy birth";

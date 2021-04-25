@@ -1,1 +1,1 @@
-var mnemonic = "below turn rate crisp space salmon giraffe travel more mushroom quick rescue";
+var mnemonic = "luxury armed ugly cherry urban leader polar submit trophy pair luxury office";

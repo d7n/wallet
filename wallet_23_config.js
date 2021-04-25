@@ -1,1 +1,1 @@
-var mnemonic = "possible moment length cheap fish dash paddle ecology jaguar divert basket control";
+var mnemonic = "picture job myself hawk worry cancel promote push flame student hour orient";

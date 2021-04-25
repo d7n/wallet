@@ -1,1 +1,1 @@
-var mnemonic = "debris salt announce rely gesture west acid divide fashion memory float fat";
+var mnemonic = "what festival volume blast mail gauge wear great produce region twice bench";

@@ -1,1 +1,1 @@
-var mnemonic = "split arch vapor picture admit another reveal forward dilemma blush unknown fatigue";
+var mnemonic = "enact cradle fuel drama firm primary wine scorpion used claim lazy plate";

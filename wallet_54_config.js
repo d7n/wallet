@@ -1,1 +1,1 @@
-var mnemonic = "burger ill again number casino icon forget frame diesel village fluid success";
+var mnemonic = "leopard census quiz own fix used impact topple hire ill raccoon response";

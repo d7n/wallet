@@ -1,1 +1,1 @@
-var mnemonic = "atom afraid rug rapid trumpet confirm summer lecture parrot produce animal peace";
+var mnemonic = "language little thunder december squirrel agree stadium arm draw length foam flush";

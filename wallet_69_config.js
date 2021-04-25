@@ -1,1 +1,1 @@
-var mnemonic = "thank slim pass message wash level loop celery notice history off square";
+var mnemonic = "federal regular twist throw vault uphold two subject breeze south toddler ritual";

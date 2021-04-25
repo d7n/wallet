@@ -1,1 +1,1 @@
-var mnemonic = "addict dust animal shop weird member uncover shadow illness grocery general walnut";
+var mnemonic = "tortoise enhance bulb crazy shine make sight leopard limb cannon silent poet";

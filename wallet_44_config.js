@@ -1,1 +1,1 @@
-var mnemonic = "evidence grain garbage detect orbit divorce wing rookie baby rebuild yellow trouble";
+var mnemonic = "avocado fuel install abuse aim ladder abstract embody novel spring pole replace";

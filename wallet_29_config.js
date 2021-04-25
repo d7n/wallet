@@ -1,1 +1,1 @@
-var mnemonic = "junk skill depart post fall execute under sauce shrug staff strong giraffe";
+var mnemonic = "monkey copy problem proof music obtain kit hundred thunder remain radar exercise";

@@ -1,1 +1,1 @@
-var mnemonic = "mixed improve sick depart fever biology enjoy clerk sleep common raccoon identify";
+var mnemonic = "artefact enact seat mammal fancy wreck rapid tiny volcano daring impact human";

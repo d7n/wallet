@@ -1,1 +1,1 @@
-var mnemonic = "visit fancy crack aware priority original utility ticket couple panther spoil amateur";
+var mnemonic = "bounce bench eagle debate field fortune gravity faculty priority resemble lunar oil";

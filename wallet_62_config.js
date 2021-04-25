@@ -1,1 +1,1 @@
-var mnemonic = "lock wire clip level churn knock social join inch van filter ribbon";
+var mnemonic = "hospital sure action bone expire latin okay payment smile ride doctor crush";

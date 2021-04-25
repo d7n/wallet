@@ -1,1 +1,1 @@
-var mnemonic = "agent spring hundred tiny discover talent latin chest symbol entire oven maid";
+var mnemonic = "mango render hat scan trip correct wish slogan ostrich penalty antenna stool";

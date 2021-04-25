@@ -1,1 +1,1 @@
-var mnemonic = "market pass pond ring tank melody crime small draw calm ancient bottom";
+var mnemonic = "economy road lift carry april lobster grit garment fabric second rifle sort";

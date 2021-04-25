@@ -1,1 +1,1 @@
-var mnemonic = "level lab industry they scissors drum gun reveal adult source enroll broken";
+var mnemonic = "balance wine surface pole chapter pilot bacon tonight target aim market clown";

@@ -1,1 +1,1 @@
-var mnemonic = "have escape title ship urban scheme news illegal copy mammal trouble sleep";
+var mnemonic = "erosion soon exclude art raise whip dust smooth stage silver clinic buffalo";

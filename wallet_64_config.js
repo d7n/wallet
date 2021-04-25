@@ -1,1 +1,1 @@
-var mnemonic = "civil region multiply erosion over kidney screen farm term bunker rebel party";
+var mnemonic = "where void skill castle hole salt nasty churn health such rich river";

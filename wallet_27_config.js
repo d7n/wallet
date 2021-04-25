@@ -1,1 +1,1 @@
-var mnemonic = "lecture hair blood sunset scorpion spawn goose yard evil drama oppose health";
+var mnemonic = "rain setup tongue very firm often cycle body west hair divorce broken";

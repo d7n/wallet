@@ -1,1 +1,1 @@
-var mnemonic = "eight alcohol strike narrow shy assist loop reason yard trick bless wrist";
+var mnemonic = "slam peasant they champion impact talk guide lady south imitate scan road";

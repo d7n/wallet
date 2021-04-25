@@ -1,1 +1,1 @@
-var mnemonic = "please joy edge thank spot split rapid matter display atom reveal vintage";
+var mnemonic = "tonight fork virtual near cattle student market rude group spring copper forum";

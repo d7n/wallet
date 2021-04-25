@@ -1,1 +1,1 @@
-var mnemonic = "allow enable bullet crack rebel spot hundred add enforce strong clever grow";
+var mnemonic = "inflict nerve number object again february elegant enhance chef topic access holiday";

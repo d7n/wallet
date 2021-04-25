@@ -1,1 +1,1 @@
-var mnemonic = "spend return wink gym birth goat above gauge destroy screen wrestle avocado";
+var mnemonic = "current other lesson raw tragic planet deputy canvas abstract six airport rival";

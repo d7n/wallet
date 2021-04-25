@@ -1,1 +1,1 @@
-var mnemonic = "soft owner sun divorce alien mad sword thumb delay airport paper lazy";
+var mnemonic = "guide fat sugar harbor ball moon material syrup helmet armed region glory";

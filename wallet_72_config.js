@@ -1,1 +1,1 @@
-var mnemonic = "comic pipe trash river cake senior stage sadness holiday farm lady rib";
+var mnemonic = "sheriff quarter wealth praise section minimum because young stadium shrimp taste invite";

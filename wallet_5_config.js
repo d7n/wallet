@@ -1,1 +1,1 @@
-var mnemonic = "defy evoke excuse senior hamster write dynamic novel blur purse shuffle bubble";
+var mnemonic = "tiger shield hobby arrest mix ready engine laundry feel flower wheat cement";

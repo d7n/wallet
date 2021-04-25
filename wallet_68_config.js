@@ -1,1 +1,1 @@
-var mnemonic = "naive ethics track perfect fatigue olive agree lesson judge exhaust mask negative";
+var mnemonic = "stock thrive green balcony dress then author bargain destroy elbow relief asset";

@@ -1,1 +1,1 @@
-var mnemonic = "awake pretty horse soft slide crash nuclear shoe spot security shrug panda";
+var mnemonic = "time magic finish wisdom loan eight depend carbon common dish hedgehog jelly";

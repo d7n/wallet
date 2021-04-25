@@ -1,1 +1,1 @@
-var mnemonic = "duty skull aerobic gospel spider just mushroom damage shallow tree meat today";
+var mnemonic = "lecture mass sleep best night begin clock add green light accuse deposit";

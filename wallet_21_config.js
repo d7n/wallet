@@ -1,1 +1,1 @@
-var mnemonic = "oak mind gadget awesome arch delay unique scrub message letter basket old";
+var mnemonic = "judge boring noodle identify inquiry select profit demand pear base cream once";

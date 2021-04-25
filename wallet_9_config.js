@@ -1,1 +1,1 @@
-var mnemonic = "galaxy cube fun radio busy provide pink inflict injury virtual second reject";
+var mnemonic = "witness main try luggage try admit drill curtain sustain express legend wisdom";

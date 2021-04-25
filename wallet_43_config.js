@@ -1,1 +1,1 @@
-var mnemonic = "hire decade risk bracket render noodle orchard shy expose broom parrot fox";
+var mnemonic = "there limit boost coyote must rabbit run garbage guide donor daring tent";

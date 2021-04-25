@@ -1,1 +1,1 @@
-var mnemonic = "use indicate wool winner dinner waste enact chalk below stage mother menu";
+var mnemonic = "erosion border lift vehicle edit stuff noise bar dust normal mother reopen";

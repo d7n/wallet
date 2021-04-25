@@ -1,1 +1,1 @@
-var mnemonic = "walk rude saddle book parent school amused enter visa young cream december";
+var mnemonic = "speed patch enough quarter merit dove subway able patch bird change swallow";

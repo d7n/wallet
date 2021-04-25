@@ -1,1 +1,1 @@
-var mnemonic = "inflict screen achieve fault process develop fetch turtle south dress tape method";
+var mnemonic = "aunt chair adapt sister float trend nerve couple fever clarify deer color";

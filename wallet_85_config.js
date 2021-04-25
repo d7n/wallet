@@ -1,1 +1,1 @@
-var mnemonic = "axis almost extra beef accident oval sock aunt verify trim slot select";
+var mnemonic = "hawk tonight short frost please cover erosion ice torch elbow subject abuse";

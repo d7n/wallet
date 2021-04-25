@@ -1,1 +1,1 @@
-var mnemonic = "belt rib ocean until journey want swing edge ocean luxury mixed fiscal";
+var mnemonic = "code scan welcome punch duck critic flag benefit sausage soup hello chronic";

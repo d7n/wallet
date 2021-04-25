@@ -1,1 +1,1 @@
-var mnemonic = "hand car private liquid slight bind thumb brain stable garment market crazy";
+var mnemonic = "general expire galaxy erase secret drum pyramid loyal oven poem color series";

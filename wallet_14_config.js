@@ -1,1 +1,1 @@
-var mnemonic = "thing catalog hockey woman horror family behind simple human faint slab hybrid";
+var mnemonic = "cruel use token nuclear inner pitch shoot make vacant roast nose wave";

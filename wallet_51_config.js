@@ -1,1 +1,1 @@
-var mnemonic = "unique outside extend actress wet foil blood zero act ribbon woman belt";
+var mnemonic = "around bind prosper zebra ensure banner unfold soda speed float venture brisk";

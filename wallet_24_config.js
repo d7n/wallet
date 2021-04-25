@@ -1,1 +1,1 @@
-var mnemonic = "title reduce cradle end milk crack hen way skull divert culture puzzle";
+var mnemonic = "endless acquire obtain company prevent boring place horror organ cloth sick blade";

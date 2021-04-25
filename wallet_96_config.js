@@ -1,1 +1,1 @@
-var mnemonic = "into plunge change skull wire between cement palm tissue destroy purpose dragon";
+var mnemonic = "armed spy day dream coil nurse friend wear buffalo behind custom start";

@@ -1,1 +1,1 @@
-var mnemonic = "settle future crime scatter identify short shove battle know left kiss avocado";
+var mnemonic = "rack during castle hat potato merry fancy opera match trophy symptom unit";

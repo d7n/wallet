@@ -1,1 +1,1 @@
-var mnemonic = "usual police unit voyage there future unfold finger stool orphan celery coconut";
+var mnemonic = "play kitchen key repair obvious powder exchange stay shine reward erupt engine";

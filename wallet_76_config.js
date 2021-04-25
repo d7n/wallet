@@ -1,1 +1,1 @@
-var mnemonic = "inmate surface author indoor asset lemon prison wait mobile pool lonely pipe";
+var mnemonic = "upset amateur cross frost pause giant lazy metal clog drum spring antenna";

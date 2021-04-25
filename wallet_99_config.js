@@ -1,1 +1,1 @@
-var mnemonic = "gasp insect refuse joy brain monkey swift dress crater cram crawl subject";
+var mnemonic = "crew list town small laugh lawsuit project reveal combine waste one path";

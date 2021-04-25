@@ -1,1 +1,1 @@
-var mnemonic = "merry teach smooth thrive shoe address ranch tide police vapor cousin private";
+var mnemonic = "play robust group layer first grass rapid world snow palm other gaze";

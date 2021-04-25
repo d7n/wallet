@@ -1,1 +1,1 @@
-var mnemonic = "exclude silk tumble network useful adjust spray soldier tide sport member surround";
+var mnemonic = "bargain notable live burst globe lazy smart push crane clock enough pond";

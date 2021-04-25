@@ -1,1 +1,1 @@
-var mnemonic = "kingdom buffalo annual monitor cheap off laptop loop remember security embody kitchen";
+var mnemonic = "fox hollow outer bring poem pelican galaxy include card inform mouse book";

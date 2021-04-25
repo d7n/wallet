@@ -1,1 +1,1 @@
-var mnemonic = "excite oval drastic dog derive brain roast mango night special february sniff";
+var mnemonic = "adjust better company define fancy meadow drive gloom multiply moral blind crack";

@@ -1,1 +1,1 @@
-var mnemonic = "cloth miss route exact legend obvious open shoe car truly jar fold";
+var mnemonic = "sponsor palm wasp diesel hero output index endless bid supply also place";

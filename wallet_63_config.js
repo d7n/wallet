@@ -1,1 +1,1 @@
-var mnemonic = "marriage expose tobacco stumble eye welcome describe provide soda universe beauty oval";
+var mnemonic = "pony type lunch monster welcome rug cannon media key brave when regular";

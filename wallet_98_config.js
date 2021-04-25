@@ -1,1 +1,1 @@
-var mnemonic = "oppose inspire upset vicious bronze this audit main coyote bullet syrup snack";
+var mnemonic = "sample achieve kidney banner host eight donor end reopen nothing excuse thumb";

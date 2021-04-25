@@ -1,1 +1,1 @@
-var mnemonic = "casino crumble uphold tongue ritual monkey announce swap world right tag dirt";
+var mnemonic = "program neglect hip mandate pass child wood system bonus situate kiwi swarm";

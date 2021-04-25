@@ -1,1 +1,1 @@
-var mnemonic = "hundred robot atom elder window fresh special castle away tide toy spider";
+var mnemonic = "system debris shrug run fluid leisure logic permit play diet sport small";

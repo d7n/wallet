@@ -1,1 +1,1 @@
-var mnemonic = "inflict man clog address word reflect verify layer identify radar comic cost";
+var mnemonic = "hill shoe live kick between roast seed draft blind mushroom shop wasp";

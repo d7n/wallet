@@ -1,1 +1,1 @@
-var mnemonic = "awesome burst program pottery milk alien limb online pole file town tide";
+var mnemonic = "tortoise stool hawk rabbit step absurd cover trial portion tiger mother tree";
