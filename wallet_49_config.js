@@ -1,1 +1,1 @@
-var mnemonic = "consider yellow come stairs wedding analyst annual net cheese elevator capital cinnamon";
+var mnemonic = "broom risk derive motor motor scare woman sign connect life leg clean";

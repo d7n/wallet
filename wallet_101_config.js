@@ -1,1 +1,1 @@
-var mnemonic = "paper liberty crash camp west reward fee reduce mango truth primary play";
+var mnemonic = "track rate ski expire laundry urban beyond extra saddle defy phrase canal";

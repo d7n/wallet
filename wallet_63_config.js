@@ -1,1 +1,1 @@
-var mnemonic = "scissors soldier thank kiwi wait predict type tourist piece win decrease damp";
+var mnemonic = "asset resist rain fun solution axis melt scene hill wrap feed twenty";

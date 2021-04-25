@@ -1,1 +1,1 @@
-var mnemonic = "estate canal sunny nation purse exhaust derive wrap pear flavor safe celery";
+var mnemonic = "clean extra slogan square wrestle stove art army soda audit kitten deal";

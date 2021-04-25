@@ -1,1 +1,1 @@
-var mnemonic = "rally slam girl rare inspire feel obey final spray erosion police web";
+var mnemonic = "potato duty area dash twice allow dutch outer machine drift claw access";

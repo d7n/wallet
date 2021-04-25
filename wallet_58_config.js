@@ -1,1 +1,1 @@
-var mnemonic = "number venture analyst extra voice squirrel earn shy else obtain present talk";
+var mnemonic = "basic basic valid taste subject tobacco lawn market glance oval tonight rate";

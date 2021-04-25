@@ -1,1 +1,1 @@
-var mnemonic = "muffin news sample rebuild obvious concert wolf resemble multiply arrest woman spy";
+var mnemonic = "time later direct surround swallow scorpion volume need orchard always budget evoke";

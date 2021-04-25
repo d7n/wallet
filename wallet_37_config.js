@@ -1,1 +1,1 @@
-var mnemonic = "muffin useless purpose inject need transfer few bamboo never cost pond ivory";
+var mnemonic = "fringe cargo honey banana sport expose beef ginger bind hotel anger repeat";

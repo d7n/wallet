@@ -1,1 +1,1 @@
-var mnemonic = "price panic sleep security clown frog tiny trip eager fluid fantasy shed";
+var mnemonic = "view lonely rely orchard idle jazz garbage teach blouse pause fire history";

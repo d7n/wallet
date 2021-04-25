@@ -1,1 +1,1 @@
-var mnemonic = "quote trick typical truth cinnamon twice suggest crush spray ugly any upon";
+var mnemonic = "cool better version kiwi typical obtain decline speak keep mimic between motor";

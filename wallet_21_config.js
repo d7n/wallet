@@ -1,1 +1,1 @@
-var mnemonic = "hope curtain slam envelope feature easily umbrella door road width grape coral";
+var mnemonic = "collect agent dry oppose lyrics caught behind ketchup update youth aerobic holiday";

@@ -1,1 +1,1 @@
-var mnemonic = "window song front welcome catch fluid soup fashion obvious rain inherit hybrid";
+var mnemonic = "say accident orbit library section club chief crime glory notice drink slogan";

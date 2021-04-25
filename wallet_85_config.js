@@ -1,1 +1,1 @@
-var mnemonic = "tail drama street north riot travel cup artefact supply weird gadget civil";
+var mnemonic = "poverty cloud poverty asthma print razor version elevator pear round album notable";

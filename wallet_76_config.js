@@ -1,1 +1,1 @@
-var mnemonic = "soul borrow tilt air answer few repair divorce name unhappy quit health";
+var mnemonic = "spend orange width analyst paddle consider law love cupboard cement phrase diet";

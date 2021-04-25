@@ -1,1 +1,1 @@
-var mnemonic = "plunge useful walk group evidence shed runway brush keen cute frequent expect";
+var mnemonic = "useful engage receive dumb path art border stay gown wheat flame region";

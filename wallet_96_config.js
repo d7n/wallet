@@ -1,1 +1,1 @@
-var mnemonic = "uphold swallow olympic fence novel camp cousin borrow must shove essence lyrics";
+var mnemonic = "copy kiwi switch session merge rib panel derive cruel behave endorse buyer";

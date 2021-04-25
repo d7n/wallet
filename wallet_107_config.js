@@ -1,1 +1,1 @@
-var mnemonic = "blue brief kangaroo crowd code retreat later erupt wasp amount wrong stuff";
+var mnemonic = "engine pool bicycle air apple saddle trigger subway evil unveil select swap";

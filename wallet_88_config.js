@@ -1,1 +1,1 @@
-var mnemonic = "faculty panda true prison mail lounge scheme immense help equal cave mimic";
+var mnemonic = "force churn puppy scissors group blanket gauge rose output menu problem card";

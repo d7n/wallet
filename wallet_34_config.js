@@ -1,1 +1,1 @@
-var mnemonic = "length basket foster wrist team bid snow such birth avoid hunt bronze";
+var mnemonic = "spare say neither popular river envelope equip girl empower way hunt speak";

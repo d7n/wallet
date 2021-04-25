@@ -1,1 +1,1 @@
-var mnemonic = "attend distance chuckle basic burger mail air horn okay rib rival romance";
+var mnemonic = "better gate mail diesel stadium inject dial crater heart police clump piece";

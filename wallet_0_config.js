@@ -1,1 +1,1 @@
-var mnemonic = "license combine inquiry demand gas left warrior custom exhaust shoulder then pepper";
+var mnemonic = "auto endless devote lend render vast aware sting garden ring two clock";

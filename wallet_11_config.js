@@ -1,1 +1,1 @@
-var mnemonic = "floor coral zero lock female auto winner leg artefact visa donkey flip";
+var mnemonic = "ramp debate success left civil dinner loyal someone discover satisfy aunt soda";

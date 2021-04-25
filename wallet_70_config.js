@@ -1,1 +1,1 @@
-var mnemonic = "tourist mosquito call fresh broccoli rebuild leave review skull busy there coral";
+var mnemonic = "month room agree rug volcano maid kite infant train gadget color vocal";

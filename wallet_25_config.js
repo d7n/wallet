@@ -1,1 +1,1 @@
-var mnemonic = "spike sock alone inner grain series escape sock left train faith belt";
+var mnemonic = "dress novel scheme swamp identify shrimp patch immune jacket ostrich give system";

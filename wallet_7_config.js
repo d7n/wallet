@@ -1,1 +1,1 @@
-var mnemonic = "clarify struggle derive congress accuse dirt spell giant student shiver milk nephew";
+var mnemonic = "slogan fun front submit agent foam salad tiger return wheat brass gain";

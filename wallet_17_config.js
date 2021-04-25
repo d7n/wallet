@@ -1,1 +1,1 @@
-var mnemonic = "flavor burden boy decrease idea exhibit powder chair royal grow eternal cook";
+var mnemonic = "alone theory capital process quick aisle process predict hub frown camp photo";

@@ -1,1 +1,1 @@
-var mnemonic = "beef bacon jelly aerobic flag dance release crime reform effort fat inmate";
+var mnemonic = "mutual garden climb armed cool gate sauce aunt tattoo hollow sword student";

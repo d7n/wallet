@@ -1,1 +1,1 @@
-var mnemonic = "lunch trial knock adult picnic hockey joy sausage earn prize tissue duck";
+var mnemonic = "owner travel program relief peasant cargo engage similar thumb book worry present";

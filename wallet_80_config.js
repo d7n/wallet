@@ -1,1 +1,1 @@
-var mnemonic = "top reduce middle matter creek night inspire flower security discover craft announce";
+var mnemonic = "pave tilt athlete debris palace sorry atom cruel face mask arrange winter";

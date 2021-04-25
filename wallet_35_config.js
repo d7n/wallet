@@ -1,1 +1,1 @@
-var mnemonic = "half obscure shine coach cannon sort enemy tornado alter ignore reject ability";
+var mnemonic = "when isolate repair liberty banner embark embrace deputy harvest suspect express prize";

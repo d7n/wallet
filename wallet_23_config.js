@@ -1,1 +1,1 @@
-var mnemonic = "minor boil believe possible fiction train armed silver fade diet elegant total";
+var mnemonic = "object typical okay twin degree problem valley nerve excuse defense kid pause";

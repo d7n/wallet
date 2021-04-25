@@ -1,1 +1,1 @@
-var mnemonic = "ill add unusual mom luxury amazing fashion brisk advice alpha alley build";
+var mnemonic = "fragile wrong bird spirit have extend fantasy huge shuffle proud matrix crawl";

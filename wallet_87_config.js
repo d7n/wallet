@@ -1,1 +1,1 @@
-var mnemonic = "curve sentence gadget guitar rough blind method patient chef turtle menu float";
+var mnemonic = "polar spy crew spy blossom tape flag clever nice project prize interest";

@@ -1,1 +1,1 @@
-var mnemonic = "sweet depend clever check code cargo wheel soccer cigar demand guard oyster";
+var mnemonic = "polar virus primary rebuild ancient wait praise skill drill desk ethics nose";

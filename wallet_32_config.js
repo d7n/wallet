@@ -1,1 +1,1 @@
-var mnemonic = "book camera jeans capital section reject device error vendor once diet flavor";
+var mnemonic = "social abuse oval pass bring mean hollow crucial fall rebel afford wide";

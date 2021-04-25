@@ -1,1 +1,1 @@
-var mnemonic = "check grit cement choice earth indoor crane mixture vendor woman tonight ecology";
+var mnemonic = "nuclear latin funny observe tube paddle stool liar credit inspire token promote";

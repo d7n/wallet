@@ -1,1 +1,1 @@
-var mnemonic = "airport repair abstract sister train advance spare dog novel rather penalty staff";
+var mnemonic = "quick truth female fetch thought siege spell diary hope prosper arrow trick";

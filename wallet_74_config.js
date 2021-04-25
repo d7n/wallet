@@ -1,1 +1,1 @@
-var mnemonic = "alone always twist behind dinner sell decorate topic scissors acid sustain purity";
+var mnemonic = "action ride couch donor popular fog day unknown enroll tray palace half";

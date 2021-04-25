@@ -1,1 +1,1 @@
-var mnemonic = "loyal essence cash arrive spare object census tattoo income sleep suffer gap";
+var mnemonic = "title next helmet bless juice vacant subject cave robot garbage trim meat";

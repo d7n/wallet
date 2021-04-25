@@ -1,1 +1,1 @@
-var mnemonic = "pipe pair morning health rely pride hood actor useful cluster story board";
+var mnemonic = "oven sheriff castle update mammal arch science clean rebuild south apple salt";

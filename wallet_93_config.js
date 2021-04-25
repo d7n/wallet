@@ -1,1 +1,1 @@
-var mnemonic = "festival alert palace dose wonder smooth outside festival balance travel tissue swim";
+var mnemonic = "motion anxiety grocery because manual type crystal hold enroll front bar lumber";

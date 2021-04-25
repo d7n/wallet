@@ -1,1 +1,1 @@
-var mnemonic = "mother sausage pretty town park phone vehicle season bachelor guard foot frost";
+var mnemonic = "winter long reveal heavy famous stadium clarify great path soft they deputy";

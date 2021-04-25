@@ -1,1 +1,1 @@
-var mnemonic = "foil barely spot upgrade mechanic credit grunt merit ordinary wrist ring index";
+var mnemonic = "damage sign enact crucial clip good river lucky rally expose link time";

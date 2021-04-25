@@ -1,1 +1,1 @@
-var mnemonic = "luxury erosion rough fancy six inch quote innocent achieve forum avocado thumb";
+var mnemonic = "trap few hill hollow problem polar barrel script devote bean whisper doctor";

@@ -1,1 +1,1 @@
-var mnemonic = "fitness era govern often antenna earth work alpha wolf vault network net";
+var mnemonic = "alarm step item direct circle dove lemon blossom defy hip picture moon";

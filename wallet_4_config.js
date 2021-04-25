@@ -1,1 +1,1 @@
-var mnemonic = "know silly penalty coffee will famous retreat fox sure power sleep theory";
+var mnemonic = "snack sound gold myself judge divorce remind knock floor glass identify text";

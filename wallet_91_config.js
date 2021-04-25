@@ -1,1 +1,1 @@
-var mnemonic = "butter any flee letter term cloth win ice mask valley worth index";
+var mnemonic = "sing salmon clap hire retire true celery such replace aisle awkward myself";

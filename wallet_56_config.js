@@ -1,1 +1,1 @@
-var mnemonic = "little invest typical wait destroy human blade disorder lucky east since hen";
+var mnemonic = "expose struggle woman pony lift much joke lava animal rose bring rely";

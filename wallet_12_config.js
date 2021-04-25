@@ -1,1 +1,1 @@
-var mnemonic = "text race accident thought together slush bicycle broom top smart dice give";
+var mnemonic = "thumb lazy denial hockey audit dwarf cave south enrich forget traffic sketch";

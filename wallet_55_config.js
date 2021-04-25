@@ -1,1 +1,1 @@
-var mnemonic = "group knee traffic junk begin soldier amount limit aspect victory open jealous";
+var mnemonic = "need bachelor category leader bundle battle bench dynamic question follow junk addict";

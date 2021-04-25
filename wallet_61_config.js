@@ -1,1 +1,1 @@
-var mnemonic = "hood siege artwork duty clinic shaft champion treat culture belt rebuild stuff";
+var mnemonic = "home luxury shallow mass faint scene unlock moon verb mammal purpose chief";

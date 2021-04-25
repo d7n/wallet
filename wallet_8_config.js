@@ -1,1 +1,1 @@
-var mnemonic = "glove document gift happy taxi office length million puzzle citizen summer catch";
+var mnemonic = "bargain gown judge ribbon talk direct hint crazy maple decrease law soap";

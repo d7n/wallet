@@ -1,1 +1,1 @@
-var mnemonic = "describe powder swap seed stage south tomorrow shy input easy club apart";
+var mnemonic = "medal salmon wet base exit annual walk laugh begin year damage monster";

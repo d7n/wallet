@@ -1,1 +1,1 @@
-var mnemonic = "alley empty describe bone popular thank water build pottery country room upon";
+var mnemonic = "jacket stand size emerge slim heart spirit cake swamp wire general shrimp";

@@ -1,1 +1,1 @@
-var mnemonic = "glue pact target enrich stereo journey defy divorce job clinic salon half";
+var mnemonic = "grain urge plunge panther million object room mango capital scatter negative any";

@@ -1,1 +1,1 @@
-var mnemonic = "merit senior buddy orient finish toward surround medal marble debris limit vanish";
+var mnemonic = "smart skirt agent action side miss supply cruise umbrella knife sniff noodle";

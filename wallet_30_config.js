@@ -1,1 +1,1 @@
-var mnemonic = "side earth emerge student fiber payment town universe guess predict fiber recall";
+var mnemonic = "slide gap oxygen umbrella sick emotion buffalo squeeze venture together family cheap";

@@ -1,1 +1,1 @@
-var mnemonic = "orbit leader flock humor dinosaur call win cotton phone neglect shuffle auto";
+var mnemonic = "social valid scene hold noble vendor inspire denial yellow impose grocery dynamic";

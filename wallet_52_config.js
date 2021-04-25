@@ -1,1 +1,1 @@
-var mnemonic = "keen license volcano parade turtle march say real correct arch remind scare";
+var mnemonic = "tonight spy cable build reform tortoise auto canoe cost forget amazing angry";

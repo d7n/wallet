@@ -1,1 +1,1 @@
-var mnemonic = "glare doll time dial ignore daughter empty stick matrix airport hospital head";
+var mnemonic = "zero plunge media feature syrup ball stool sign crucial immune animal rubber";

@@ -1,1 +1,1 @@
-var mnemonic = "stove slide stamp dust outdoor valley three two hire agent index chronic";
+var mnemonic = "embrace very laundry canvas apology behave begin bleak goat lounge monster naive";

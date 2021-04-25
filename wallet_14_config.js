@@ -1,1 +1,1 @@
-var mnemonic = "spirit select buddy quarter zoo skill arrow series catch kiwi panel off";
+var mnemonic = "extra develop two control person extra seek blue cigar prevent creek athlete";

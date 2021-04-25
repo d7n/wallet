@@ -1,1 +1,1 @@
-var mnemonic = "two fragile exotic aspect phone lottery hundred despair fly speed boss harbor";
+var mnemonic = "slide soap blade coffee stock close broccoli pizza across bright sad science";

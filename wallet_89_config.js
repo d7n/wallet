@@ -1,1 +1,1 @@
-var mnemonic = "liar audit bacon unveil odor ugly rug bicycle leaf visit pigeon bridge";
+var mnemonic = "slam process virus protect ensure south direct myself ball suffer invest blade";

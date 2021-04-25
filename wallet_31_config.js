@@ -1,1 +1,1 @@
-var mnemonic = "dumb manage room jaguar office swarm simple give humble nephew moral casino";
+var mnemonic = "produce hip accuse sign curve inner flush still mystery across letter umbrella";

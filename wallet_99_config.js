@@ -1,1 +1,1 @@
-var mnemonic = "toy claim pig pole evidence thought else cable toss can hip bleak";
+var mnemonic = "tray twist siege clog quote purpose already recipe prevent supreme crouch easily";

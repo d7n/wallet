@@ -1,1 +1,1 @@
-var mnemonic = "report version diamond real dog figure local fringe master tornado cool village";
+var mnemonic = "deliver siege example material letter ankle make admit replace occur order motor";

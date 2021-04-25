@@ -1,1 +1,1 @@
-var mnemonic = "prosper eyebrow blast radar cradle sugar primary stadium flavor wedding canvas crush";
+var mnemonic = "fossil basic word useful cheese marine orbit priority warfare inhale jump heart";

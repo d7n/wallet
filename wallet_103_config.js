@@ -1,1 +1,1 @@
-var mnemonic = "spell witness cream hungry team judge steak bind surge idea route still";
+var mnemonic = "cargo rocket palace act index else indicate medal session flush remain junior";

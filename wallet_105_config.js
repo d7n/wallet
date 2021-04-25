@@ -1,1 +1,1 @@
-var mnemonic = "inquiry endorse soon enforce book jazz theme river topple balcony click knock";
+var mnemonic = "energy nephew sound fiscal pencil vibrant final ocean spawn outer law outside";

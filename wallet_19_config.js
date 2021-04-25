@@ -1,1 +1,1 @@
-var mnemonic = "pioneer kind child tragic decade envelope waste crisp service hub april upper";
+var mnemonic = "decide tobacco minute twin vocal syrup scrap flag embark quit ready oppose";

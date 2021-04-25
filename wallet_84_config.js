@@ -1,1 +1,1 @@
-var mnemonic = "below cricket cheese call ability angry test expect amount tide wolf sibling";
+var mnemonic = "shine book guilt circle reveal suspect enemy pluck boring jar label winner";

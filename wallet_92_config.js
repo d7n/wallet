@@ -1,1 +1,1 @@
-var mnemonic = "purity guilt curious update unaware piece area magic amazing attract thunder lounge";
+var mnemonic = "sample girl access brick walnut stool merit dinner pottery action soup brisk";

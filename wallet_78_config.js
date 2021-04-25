@@ -1,1 +1,1 @@
-var mnemonic = "tooth shaft together knife cram mansion april genre junk gravity output foster";
+var mnemonic = "shallow elephant must budget absorb ecology clever open wire orchard fence win";

@@ -1,1 +1,1 @@
-var mnemonic = "shine path rubber club sample fitness witness myth attitude antenna brick fragile";
+var mnemonic = "abandon bottom guitar axis upper cheese muffin mansion cry super inner provide";

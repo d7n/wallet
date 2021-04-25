@@ -1,1 +1,1 @@
-var mnemonic = "feel tree hollow genre humble beef unaware write tunnel approve evolve shell";
+var mnemonic = "motion local letter advance tiger fit long mind file phone glide response";

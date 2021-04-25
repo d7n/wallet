@@ -1,1 +1,1 @@
-var mnemonic = "alley oyster hire label among sell scout common proud rare parade viable";
+var mnemonic = "armed phone door theme increase early boil powder action cry option series";

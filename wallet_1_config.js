@@ -1,1 +1,1 @@
-var mnemonic = "dragon finish sugar column polar what cat blast doctor senior arrange used";
+var mnemonic = "craft attitude token hold gun feel dance limb jaguar tourist boss dance";

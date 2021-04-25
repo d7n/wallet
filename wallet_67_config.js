@@ -1,1 +1,1 @@
-var mnemonic = "spread fossil seed zebra window sheriff provide father pencil text increase fit";
+var mnemonic = "debris marriage mask giggle toward phrase also gesture merge ball swift please";

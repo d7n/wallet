@@ -1,1 +1,1 @@
-var mnemonic = "weather fruit what stumble coral surge renew mix rapid asset cancel aspect";
+var mnemonic = "iron quit kiwi equip question list digital chase amused trial sing climb";

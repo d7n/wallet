@@ -1,1 +1,1 @@
-var mnemonic = "skate before reward enjoy twin pledge hand crumble blind trust enroll month";
+var mnemonic = "avocado purchase glimpse pony laugh become world project blind candy track draft";

@@ -1,1 +1,1 @@
-var mnemonic = "bar one velvet cave roof actor knock affair safe zone solid inform";
+var mnemonic = "item bullet humor job crew sugar since bench harvest demand life female";

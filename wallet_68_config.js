@@ -1,1 +1,1 @@
-var mnemonic = "rate crazy there reason sand junior garage board base business method whisper";
+var mnemonic = "near mechanic wise slogan spring letter truth glove cactus ethics man list";

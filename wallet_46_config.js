@@ -1,1 +1,1 @@
-var mnemonic = "perfect pepper royal match erupt design wet swing lizard pause fiscal horror";
+var mnemonic = "gather casino seek sample exile rival such marriage flight hold early uphold";

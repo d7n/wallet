@@ -1,1 +1,1 @@
-var mnemonic = "silly comic dose tip glance cube hen return tiger cat salute again";
+var mnemonic = "host stumble indicate clap thing apple patrol method truth crumble surround interest";

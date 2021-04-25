@@ -1,1 +1,1 @@
-var mnemonic = "spider exchange priority budget clown element lazy brief company lady piano toddler";
+var mnemonic = "they bone tiger equal donor season gossip excuse expose into letter roast";

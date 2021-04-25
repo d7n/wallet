@@ -1,1 +1,1 @@
-var mnemonic = "wing design valley rack wash arrive winner device renew helmet door embody";
+var mnemonic = "road myth juice bunker receive rack horn dish slush sorry hub practice";

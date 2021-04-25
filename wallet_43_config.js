@@ -1,1 +1,1 @@
-var mnemonic = "slush siren twelve oxygen brick swim picnic heavy noodle rifle credit ecology";
+var mnemonic = "depart husband firm lion grief bottom elegant cancel hollow parrot wedding need";
