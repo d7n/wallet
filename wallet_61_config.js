@@ -1,1 +1,1 @@
-var mnemonic = "clutch iron abuse still scan farm truly glove grass admit office slim";
+var mnemonic = "brain waste jewel culture wise insane erode drink topic doll glory elevator";

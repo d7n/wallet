@@ -1,1 +1,1 @@
-var mnemonic = "fluid detect tired base ring adjust grab opera crucial lady banner plunge";
+var mnemonic = "admit upper next child beach lift taxi voyage spin gain crucial time";

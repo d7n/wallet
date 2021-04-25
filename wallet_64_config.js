@@ -1,1 +1,1 @@
-var mnemonic = "staff critic crazy bless there include carbon pioneer forest between empower exact";
+var mnemonic = "blame sketch tip tragic duck wrestle hour unaware hamster timber apart exhaust";

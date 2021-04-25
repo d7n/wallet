@@ -1,1 +1,1 @@
-var mnemonic = "brisk praise hand sauce manual sun lion other jazz idea permit stable";
+var mnemonic = "smoke off when middle tired order chuckle avoid bless favorite later load";

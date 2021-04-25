@@ -1,1 +1,1 @@
-var mnemonic = "sibling want illness file label load indoor group tennis proud hazard cattle";
+var mnemonic = "citizen noble curve attack basket laptop custom toilet destroy photo negative report";

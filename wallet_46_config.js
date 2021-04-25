@@ -1,1 +1,1 @@
-var mnemonic = "fever stomach inhale harbor soccer deliver credit leader fantasy merge input merge";
+var mnemonic = "grief wage pumpkin taxi employ result write eye marine peace fabric develop";

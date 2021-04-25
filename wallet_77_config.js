@@ -1,1 +1,1 @@
-var mnemonic = "photo mobile sleep ranch fold truth thrive female horse vast output solve";
+var mnemonic = "amateur goddess animal census trash talent salt maze huge mention disagree journey";

@@ -1,1 +1,1 @@
-var mnemonic = "rude skin extra miracle oval cat theory foam mushroom tobacco require plunge";
+var mnemonic = "okay nurse stereo supreme before olympic buzz fringe judge grief page stool";

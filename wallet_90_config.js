@@ -1,1 +1,1 @@
-var mnemonic = "turn moral wine require leisure resist decrease seminar isolate math violin smooth";
+var mnemonic = "network exist flame dynamic curious shoot rain eight hood source flash yellow";

@@ -1,1 +1,1 @@
-var mnemonic = "venture demand resist discover web can fiber gaze figure vote abuse twice";
+var mnemonic = "crowd useful minimum sibling good safe frown broccoli apology punch party opinion";

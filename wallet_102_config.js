@@ -1,1 +1,1 @@
-var mnemonic = "prefer sight rural light catalog main stomach across ability moral vendor baby";
+var mnemonic = "sick discover meadow enable then shiver diagram alcohol relief hair describe slab";

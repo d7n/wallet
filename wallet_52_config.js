@@ -1,1 +1,1 @@
-var mnemonic = "option gentle ladder pave genre hawk decrease cement thing fish advice grass";
+var mnemonic = "rate still oven stable wool audit mixture pistol garlic alley olympic penalty";

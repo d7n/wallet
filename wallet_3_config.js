@@ -1,1 +1,1 @@
-var mnemonic = "attend glue rescue bean amazing hospital stomach grape ocean join matter poverty";
+var mnemonic = "clarify purpose ignore start female luggage child roof wealth bargain coconut hamster";

@@ -1,1 +1,1 @@
-var mnemonic = "analyst mushroom silver vital control mutual quote spring camp mushroom chicken differ";
+var mnemonic = "human never estate harvest skull clean link mass must token panda picnic";

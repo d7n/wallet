@@ -1,1 +1,1 @@
-var mnemonic = "ill witness suggest budget wet fancy push educate moral spend escape cancel";
+var mnemonic = "dove garlic other grid spring job spike average jazz text upon school";

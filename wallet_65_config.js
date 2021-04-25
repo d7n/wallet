@@ -1,1 +1,1 @@
-var mnemonic = "hollow leopard hole ask welcome inquiry scheme swallow destroy lamp tenant brother";
+var mnemonic = "black suspect cat circle penalty adjust candy ostrich until identify coconut broom";

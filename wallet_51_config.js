@@ -1,1 +1,1 @@
-var mnemonic = "timber pupil horn attract sugar donkey van census raccoon shallow there resemble";
+var mnemonic = "comfort cherry noise mutual diamond finger because walk swim decline calm sound";

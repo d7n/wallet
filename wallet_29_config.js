@@ -1,1 +1,1 @@
-var mnemonic = "mimic traffic swing achieve steel cable lizard profit practice enact morning melt";
+var mnemonic = "grid object spice ensure token slush firm one kidney angry old ten";

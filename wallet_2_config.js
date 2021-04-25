@@ -1,1 +1,1 @@
-var mnemonic = "drive dose attract calm imitate apology claim garage indicate better leaf ritual";
+var mnemonic = "palace similar woman small coach sight thunder auction theme mistake runway play";

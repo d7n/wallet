@@ -1,1 +1,1 @@
-var mnemonic = "daring enemy rude boost educate weapon crush oil elevator rubber follow grace";
+var mnemonic = "message obey capable dance recall modify plastic ceiling crisp awful thank assist";

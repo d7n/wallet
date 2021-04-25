@@ -1,1 +1,1 @@
-var mnemonic = "strategy auction slush slush before candy mirror coconut april among alarm aunt";
+var mnemonic = "group enrich lava abuse bachelor utility stomach yard scale book manage provide";

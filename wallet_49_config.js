@@ -1,1 +1,1 @@
-var mnemonic = "good step salad bid leader team license civil cherry doll inflict joy";
+var mnemonic = "wall shock tobacco left change bounce reveal wish actress solve hockey demise";

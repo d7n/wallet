@@ -1,1 +1,1 @@
-var mnemonic = "blush usual fog supply spy execute paddle drip cinnamon sock spot pool";
+var mnemonic = "shed rent clinic lecture assist primary run spy build cheese evil indoor";

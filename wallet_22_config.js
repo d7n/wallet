@@ -1,1 +1,1 @@
-var mnemonic = "earth cycle thrive glory comfort melody vessel brother choice clay elegant deal";
+var mnemonic = "sphere silent super gaze live this learn lizard pipe farm beef cheap";

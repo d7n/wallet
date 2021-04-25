@@ -1,1 +1,1 @@
-var mnemonic = "hill post return remember salon demise similar interest excite mountain lottery slow";
+var mnemonic = "east focus great match coconut hungry address income couch abandon arctic author";

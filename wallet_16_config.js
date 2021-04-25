@@ -1,1 +1,1 @@
-var mnemonic = "crew lift saddle inquiry blind tooth curtain shine brick off way dove";
+var mnemonic = "inject tank error elephant chimney awful treat expose initial pear hour name";

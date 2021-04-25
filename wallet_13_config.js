@@ -1,1 +1,1 @@
-var mnemonic = "power vivid recall pitch else vast palm approve endorse differ youth exit";
+var mnemonic = "other hurry razor shallow staff village hand torch shell sugar spread prison";

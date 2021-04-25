@@ -1,1 +1,1 @@
-var mnemonic = "control stuff host utility seed hope topic tube silent scorpion drum satisfy";
+var mnemonic = "woman man prepare west around profit enact gospel pelican history tool agree";

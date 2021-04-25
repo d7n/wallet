@@ -1,1 +1,1 @@
-var mnemonic = "regret detect file hub hybrid any sentence oak process unique stock essence";
+var mnemonic = "during host village clarify desk spray season dumb market hedgehog cross twenty";

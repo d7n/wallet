@@ -1,1 +1,1 @@
-var mnemonic = "shift enable replace chapter position then diesel guard athlete denial happy patrol";
+var mnemonic = "tiny mix staff useful film clap roof great purity mesh renew usual";

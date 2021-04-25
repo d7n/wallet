@@ -1,1 +1,1 @@
-var mnemonic = "arch clump pipe forget equip clay mouse about crowd foil rhythm design";
+var mnemonic = "monster diary muffin maze shaft sister present duck urban viable flush arrange";

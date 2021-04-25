@@ -1,1 +1,1 @@
-var mnemonic = "hole address wait donate fade word chair section join march indoor actress";
+var mnemonic = "special giggle cage roast primary illness turkey evoke end emotion supreme bitter";

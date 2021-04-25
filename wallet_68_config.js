@@ -1,1 +1,1 @@
-var mnemonic = "lamp favorite exit crawl spend time month area lunar hunt rocket erupt";
+var mnemonic = "skin earn pilot banana off hip merry suit danger skirt run doll";

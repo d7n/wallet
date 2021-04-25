@@ -1,1 +1,1 @@
-var mnemonic = "brand crowd afford crazy kit call coach pitch profit human amazing model";
+var mnemonic = "talk kite prison spatial vehicle cinnamon fiber inspire filter urge obtain indicate";

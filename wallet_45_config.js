@@ -1,1 +1,1 @@
-var mnemonic = "smoke loan planet exclude soldier vacuum venture anger yard acoustic slam cruise";
+var mnemonic = "general gain obvious ordinary cliff explain ethics side image acoustic demand pistol";

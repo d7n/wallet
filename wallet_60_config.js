@@ -1,1 +1,1 @@
-var mnemonic = "fossil luxury sheriff laptop warm fit achieve enjoy govern response leg gauge";
+var mnemonic = "private half throw sudden device crucial orange desert song over sugar ship";

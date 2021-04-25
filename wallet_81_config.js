@@ -1,1 +1,1 @@
-var mnemonic = "feature wild truth tennis awake cruel stadium sword knock car plate castle";
+var mnemonic = "scout clinic employ learn clutch crunch eager flower scout nuclear expose atom";

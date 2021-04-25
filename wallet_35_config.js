@@ -1,1 +1,1 @@
-var mnemonic = "chase test worry neutral detail toward bid tube law decorate silver original";
+var mnemonic = "rescue average barely shy silent body again audit reason hope lecture dwarf";

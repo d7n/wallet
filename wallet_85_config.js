@@ -1,1 +1,1 @@
-var mnemonic = "vault prison dune latin traffic fashion offer genuine design hint loud garage";
+var mnemonic = "category task innocent tiny type click put arrow chest release spread two";

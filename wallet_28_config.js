@@ -1,1 +1,1 @@
-var mnemonic = "slow supply alert always word version false lazy trial blanket axis hub";
+var mnemonic = "boil tobacco crew safe wear minor ensure occur awful forward try forward";

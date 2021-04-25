@@ -1,1 +1,1 @@
-var mnemonic = "badge doll rookie access skill absorb urge error smart act promote hobby";
+var mnemonic = "heart cube street blade decorate ticket worth thumb that iron fiber maid";

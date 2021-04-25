@@ -1,1 +1,1 @@
-var mnemonic = "tuna discover bean bottom swamp pencil dentist artefact hotel damage movie gather";
+var mnemonic = "bronze bunker report clock setup donkey fat mother tumble more extra wash";

@@ -1,1 +1,1 @@
-var mnemonic = "swing elephant easily mandate crawl crash boost forest sun oppose wool shuffle";
+var mnemonic = "swing calm good tell bonus peanut refuse image oil invest course grow";

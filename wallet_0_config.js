@@ -1,1 +1,1 @@
-var mnemonic = "metal pupil hard oblige aware protect drill drive model replace cloth claw";
+var mnemonic = "forward recipe goose barrel silly reopen ignore run monkey improve acoustic indoor";

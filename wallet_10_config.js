@@ -1,1 +1,1 @@
-var mnemonic = "broom grace stable joke piece process ready tiny scan industry tornado bitter";
+var mnemonic = "elite drop muscle prevent assault olive harbor tomato apart razor join castle";

@@ -1,1 +1,1 @@
-var mnemonic = "vendor airport floor sword skin echo sting success goddess buddy universe rent";
+var mnemonic = "correct scare shrug anger chicken bless action coffee extra excuse axis icon";

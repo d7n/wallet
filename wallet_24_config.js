@@ -1,1 +1,1 @@
-var mnemonic = "shuffle option chalk soda defense live marine track copper patch since panic";
+var mnemonic = "claim lottery bundle buyer sudden net update fame shell ceiling gas absorb";

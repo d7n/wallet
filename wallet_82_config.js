@@ -1,1 +1,1 @@
-var mnemonic = "tongue giant unable nerve bachelor oil defy bench nuclear emotion wait math";
+var mnemonic = "neither weasel police absorb kit sunset olive apple comfort mercy cover slogan";

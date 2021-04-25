@@ -1,1 +1,1 @@
-var mnemonic = "height carbon decorate adjust man blur foam heavy little cliff despair comic";
+var mnemonic = "pelican slender crisp old cheap brick obvious mutual shaft gesture parrot soldier";

@@ -1,1 +1,1 @@
-var mnemonic = "rural bicycle twelve siren grape immense giggle tunnel shoulder base quantum urge";
+var mnemonic = "zebra number slice metal rocket limit hip wonder absurd initial length tape";

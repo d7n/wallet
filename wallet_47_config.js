@@ -1,1 +1,1 @@
-var mnemonic = "toe business sure spend cargo venue nasty win alpha marine index game";
+var mnemonic = "absorb water album this bacon fiscal bind craft exit trash team stumble";

@@ -1,1 +1,1 @@
-var mnemonic = "bread report advance burger harbor brush tragic fish citizen surprise moment artwork";
+var mnemonic = "thought car segment audit draft cupboard private metal oval business because abandon";

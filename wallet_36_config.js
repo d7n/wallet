@@ -1,1 +1,1 @@
-var mnemonic = "bullet defense try evoke essence actual utility syrup subject toddler tuna diamond";
+var mnemonic = "mutual brass flower limit screen axis better dumb gate success denial volcano";

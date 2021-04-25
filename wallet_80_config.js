@@ -1,1 +1,1 @@
-var mnemonic = "oval flush reopen quantum snap festival grass awkward save victory ability exit";
+var mnemonic = "rabbit quality toward work horse rapid bright assume drive grief easily moral";

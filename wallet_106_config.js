@@ -1,1 +1,1 @@
-var mnemonic = "leaf audit apple shoot one frame chat more execute engage draw kick";
+var mnemonic = "pave square surge evoke stone festival invest advance suit relax absent near";

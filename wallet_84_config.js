@@ -1,1 +1,1 @@
-var mnemonic = "wrap ugly caution hurdle mixed world actual jewel volume winter love area";
+var mnemonic = "slim rotate lawn diagram tilt young soccer turkey giant reunion shoot purpose";

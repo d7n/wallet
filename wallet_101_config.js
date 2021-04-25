@@ -1,1 +1,1 @@
-var mnemonic = "twin stamp edge envelope dumb give lazy private venue drum plug primary";
+var mnemonic = "glare chest sphere motion sorry stay play control beauty about social trade";

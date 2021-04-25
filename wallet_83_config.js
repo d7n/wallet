@@ -1,1 +1,1 @@
-var mnemonic = "region vessel call desk box help before cargo protect steak knife dolphin";
+var mnemonic = "edge first bus aspect perfect tortoise proof recipe army slab thought vivid";

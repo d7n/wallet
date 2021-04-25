@@ -1,1 +1,1 @@
-var mnemonic = "release oyster rotate basket snack infant end song hold mix sample bonus";
+var mnemonic = "mountain tornado swift weapon arm rule rigid scrap fancy morning pool stool";

@@ -1,1 +1,1 @@
-var mnemonic = "drill car detect decline glimpse time shop pistol impose need hungry hint";
+var mnemonic = "toast nasty clap start burger panther planet viable fetch gravity glass rare";

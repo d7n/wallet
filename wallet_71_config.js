@@ -1,1 +1,1 @@
-var mnemonic = "timber story cotton sail seminar hill hawk private aware elbow gloom conduct";
+var mnemonic = "cook thought scale tag exact net topic next volcano advance aerobic lend";

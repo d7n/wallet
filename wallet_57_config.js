@@ -1,1 +1,1 @@
-var mnemonic = "bring bid equal unfair south spawn scan combine section pledge embody about";
+var mnemonic = "hammer picture learn stage scissors fade sword you decorate boil hour skill";

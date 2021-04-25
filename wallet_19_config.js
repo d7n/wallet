@@ -1,1 +1,1 @@
-var mnemonic = "very high project turtle intact field aim sample resource virus object violin";
+var mnemonic = "solid table mad exhaust hungry famous random mom draw world tag moment";

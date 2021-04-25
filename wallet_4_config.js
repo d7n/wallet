@@ -1,1 +1,1 @@
-var mnemonic = "below three bundle layer enable media theory glad garbage evil turn front";
+var mnemonic = "relax inmate bracket beach often echo deliver best light country relief keep";

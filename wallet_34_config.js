@@ -1,1 +1,1 @@
-var mnemonic = "vocal unknown soul again coconut noise base mass balcony gain catch draft";
+var mnemonic = "crunch apart charge onion awesome income decade minor unfair trigger nasty stuff";

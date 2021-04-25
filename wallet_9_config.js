@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur major clump cheese heavy ahead spike bonus citizen winter panda post";
+var mnemonic = "round island way skate vivid survey cigar champion slush point heavy oak";

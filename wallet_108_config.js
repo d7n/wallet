@@ -1,1 +1,1 @@
-var mnemonic = "member spirit erosion spend prepare worry meat fix practice tooth south whale";
+var mnemonic = "hawk cake thunder brain nest brisk truth deposit dinner taxi same seven";

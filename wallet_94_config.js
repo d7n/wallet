@@ -1,1 +1,1 @@
-var mnemonic = "pyramid equal work sibling speak kite object lonely capital color merry inquiry";
+var mnemonic = "combine cry explain access beyond medal wealth evidence wasp midnight reflect marine";

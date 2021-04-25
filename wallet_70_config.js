@@ -1,1 +1,1 @@
-var mnemonic = "diesel liberty burden argue milk speed wife convince neck century two laugh";
+var mnemonic = "front soldier amount lizard fury spoil chase toilet plastic lake prison public";

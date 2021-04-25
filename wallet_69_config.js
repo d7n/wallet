@@ -1,1 +1,1 @@
-var mnemonic = "reunion panther nerve seven globe grit genre island tomorrow gauge bench planet";
+var mnemonic = "domain snow lion physical inquiry add soldier escape keen balance atom unusual";

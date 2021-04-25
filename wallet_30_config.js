@@ -1,1 +1,1 @@
-var mnemonic = "zebra else vital clutch impact tongue cinnamon hour impact possible pig fitness";
+var mnemonic = "garage injury curious weekend clinic little float behave grocery top fee farm";

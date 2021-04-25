@@ -1,1 +1,1 @@
-var mnemonic = "route hunt voyage rice proof first column chaos borrow uncle crawl cluster";
+var mnemonic = "intact airport lend theme club budget collect glow tattoo crouch then kite";

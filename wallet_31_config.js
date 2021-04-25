@@ -1,1 +1,1 @@
-var mnemonic = "release need melt alone purity advice install test ticket miracle panther inhale";
+var mnemonic = "item taste truck keep cement bamboo reunion behind pigeon friend buzz nasty";

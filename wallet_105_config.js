@@ -1,1 +1,1 @@
-var mnemonic = "chair early fossil slender name below marriage praise hockey fuel cash melt";
+var mnemonic = "sausage ugly reject work diesel long nothing leisure denial prefer prepare hair";

@@ -1,1 +1,1 @@
-var mnemonic = "wagon airport ten child dream shop mother symbol sail mystery rate exotic";
+var mnemonic = "ordinary that census trend practice render bubble pave sing person vast celery";

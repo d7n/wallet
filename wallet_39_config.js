@@ -1,1 +1,1 @@
-var mnemonic = "spirit elephant there account wine abstract pig century regular industry summer frequent";
+var mnemonic = "garage invite legal exile rely erase prepare police destroy sheriff battle purchase";

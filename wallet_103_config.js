@@ -1,1 +1,1 @@
-var mnemonic = "taste health broom hedgehog clump hidden someone daughter upgrade clever brave name";
+var mnemonic = "peanut strategy leg simple require enroll pyramid hurry silk critic share embrace";

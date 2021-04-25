@@ -1,1 +1,1 @@
-var mnemonic = "fix sun wrestle concert advice gown end alert swamp summer pave camera";
+var mnemonic = "pole people moment address turtle series catalog drama lunch slab olive baby";

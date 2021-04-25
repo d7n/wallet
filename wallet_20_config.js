@@ -1,1 +1,1 @@
-var mnemonic = "payment giant balance once visa scrub wrong kite outdoor frame ship finish";
+var mnemonic = "state sound carpet sense odor stamp affair vault echo inherit rebuild gather";

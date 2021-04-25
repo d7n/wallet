@@ -1,1 +1,1 @@
-var mnemonic = "letter repair replace job bubble other evolve dice acid flush season hospital";
+var mnemonic = "lumber venue high october remember mutual talent camp foam outside receive hazard";

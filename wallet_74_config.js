@@ -1,1 +1,1 @@
-var mnemonic = "border moment empty funny draw retire program income melt prison satoshi castle";
+var mnemonic = "square chest corn push park cram riot dentist phrase nominee split betray";

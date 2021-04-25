@@ -1,1 +1,1 @@
-var mnemonic = "orbit mandate alien enact trust grunt nothing outdoor silent inhale love canvas";
+var mnemonic = "carbon today actual enemy vague tribe innocent wire recall rug history expose";

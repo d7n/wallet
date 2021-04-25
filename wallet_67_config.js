@@ -1,1 +1,1 @@
-var mnemonic = "daring lunch output live egg toast follow remind win tissue airport drum";
+var mnemonic = "excuse skill caution enhance garlic trouble source will cake void drip return";

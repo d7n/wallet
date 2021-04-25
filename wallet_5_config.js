@@ -1,1 +1,1 @@
-var mnemonic = "nerve tribe exotic able reject cause industry wink odor pen mouse engine";
+var mnemonic = "basket fly scare civil mesh infant early achieve blind diet eagle bread";

@@ -1,1 +1,1 @@
-var mnemonic = "error evil jacket custom achieve maple coil clay nothing treat icon boil";
+var mnemonic = "comic flash view stable age segment lounge wrist impulse drip glimpse install";

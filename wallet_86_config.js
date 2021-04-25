@@ -1,1 +1,1 @@
-var mnemonic = "kingdom slice oxygen garage bind mobile exit valley pave dilemma enact miss";
+var mnemonic = "minute song swallow hour spell say lounge proud resemble boat bachelor float";

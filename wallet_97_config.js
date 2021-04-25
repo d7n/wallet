@@ -1,1 +1,1 @@
-var mnemonic = "next asthma rude useful bench topple exist loud finish perfect lab bag";
+var mnemonic = "skull dentist polar diet visit bachelor catch rule soul glue again autumn";

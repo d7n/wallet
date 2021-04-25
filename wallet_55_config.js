@@ -1,1 +1,1 @@
-var mnemonic = "pen profit velvet resource amused radar neck private notice device rough steel";
+var mnemonic = "mango middle atom enemy evidence melody enable blur major exact loan crazy";

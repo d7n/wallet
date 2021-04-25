@@ -1,1 +1,1 @@
-var mnemonic = "dwarf scissors pact journey toward cushion vessel caution junior despair broom knock";
+var mnemonic = "iron buddy rescue gesture scissors advice grow happy boat exit lecture envelope";
