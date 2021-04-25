@@ -1,1 +1,1 @@
-var mnemonic = "devote diary write elite melody intact muffin will embrace abandon apology weekend";
+var mnemonic = "verify situate exist belt good pull page next scheme upset field jewel";

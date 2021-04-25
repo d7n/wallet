@@ -1,1 +1,1 @@
-var mnemonic = "clay confirm endless mountain light congress cage book picture member tank level";
+var mnemonic = "hold icon sport agent orbit magnet organ witness online session obvious tell";

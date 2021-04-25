@@ -1,1 +1,1 @@
-var mnemonic = "will fever license bind grid pottery client giggle feed royal globe sport";
+var mnemonic = "diet inquiry human knife vault explain convince push brand myself globe logic";

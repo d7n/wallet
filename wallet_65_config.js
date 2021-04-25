@@ -1,1 +1,1 @@
-var mnemonic = "cactus quality usage unknown soup six acquire spread universe harsh empower bacon";
+var mnemonic = "armed heart account engage high deposit expose leisure feel cluster special idea";

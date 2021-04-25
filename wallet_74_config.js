@@ -1,1 +1,1 @@
-var mnemonic = "gorilla age twice cloud husband item dust excuse female dust earn disagree";
+var mnemonic = "enough trend female priority bicycle ozone wheel slush say flight judge mobile";

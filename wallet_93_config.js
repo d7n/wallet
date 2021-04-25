@@ -1,1 +1,1 @@
-var mnemonic = "ocean nice attitude virus evil cotton cherry funny swing move step dutch";
+var mnemonic = "nature main ethics mammal silver album stock size fever suffer slender filter";

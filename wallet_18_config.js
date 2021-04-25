@@ -1,1 +1,1 @@
-var mnemonic = "property upper empower tape audit prepare above decorate hover country laptop arch";
+var mnemonic = "cabin call surface evil large reject elegant bench verify jewel bring creek";

@@ -1,1 +1,1 @@
-var mnemonic = "focus output cotton cave coffee actress parent twist uphold laugh rescue bleak";
+var mnemonic = "trim paddle plunge enlist useless sense kick fly cannon inherit real student";

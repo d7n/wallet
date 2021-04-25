@@ -1,1 +1,1 @@
-var mnemonic = "poem knife food obscure hole bargain length primary language tray live oak";
+var mnemonic = "shiver crunch erosion embody soft same object record velvet cinnamon pottery rhythm";

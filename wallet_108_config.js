@@ -1,1 +1,1 @@
-var mnemonic = "warm behave start satoshi clip cram endorse destroy gown awake powder wave";
+var mnemonic = "stairs click pave pair unusual choose search coin apology tribe never inquiry";

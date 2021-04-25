@@ -1,1 +1,1 @@
-var mnemonic = "copy engage expose purity hire else lion ankle this frequent injury height";
+var mnemonic = "jacket tunnel toward enjoy hockey village library reopen table biology lady inhale";

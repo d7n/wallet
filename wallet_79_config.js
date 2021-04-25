@@ -1,1 +1,1 @@
-var mnemonic = "major rigid argue horror clean wealth chalk toss federal night pepper witness";
+var mnemonic = "either quote sick clerk sibling garlic erase horse hope skull annual obtain";

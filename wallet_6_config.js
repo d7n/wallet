@@ -1,1 +1,1 @@
-var mnemonic = "useless twelve bracket please twist spider visa panda usage stem infant effort";
+var mnemonic = "control swear burger roof tortoise call mobile obscure silent slim wool hollow";

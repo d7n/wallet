@@ -1,1 +1,1 @@
-var mnemonic = "luggage similar remove hello side shaft deny green paper news crater tattoo";
+var mnemonic = "skill coffee evil lizard camera credit gossip seven unhappy thing truck remove";

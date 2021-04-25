@@ -1,1 +1,1 @@
-var mnemonic = "minute liar escape essay obey assist rely flee stamp smoke essence inmate";
+var mnemonic = "pear minimum goddess real frame charge slight flower desk hint circle claw";

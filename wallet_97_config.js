@@ -1,1 +1,1 @@
-var mnemonic = "cotton goose debris name earn same erode become draft kitten add subject";
+var mnemonic = "shove anchor broken page critic virtual oblige october finish fence suit wear";

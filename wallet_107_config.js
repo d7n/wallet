@@ -1,1 +1,1 @@
-var mnemonic = "lesson tube patch rabbit slot remember age exclude brick moon smooth hotel";
+var mnemonic = "witness garbage memory adapt margin science lens add syrup supply announce pumpkin";

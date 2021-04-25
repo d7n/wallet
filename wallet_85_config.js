@@ -1,1 +1,1 @@
-var mnemonic = "know slogan pistol scrub time elbow clap hockey banner dose debris muffin";
+var mnemonic = "person start predict file start cigar relax reunion exclude tank easy forward";

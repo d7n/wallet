@@ -1,1 +1,1 @@
-var mnemonic = "smart bone uniform private fossil loyal cigar couch crush hat shoe nation";
+var mnemonic = "sort prison media flat venue bleak style turkey begin heavy episode tired";

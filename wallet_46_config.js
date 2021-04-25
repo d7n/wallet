@@ -1,1 +1,1 @@
-var mnemonic = "meat usual act cousin bicycle toward try gate west draw tomato mountain";
+var mnemonic = "noise best retreat thought enjoy rich chaos viable enemy way toddler culture";

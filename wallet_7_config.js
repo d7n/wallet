@@ -1,1 +1,1 @@
-var mnemonic = "faint paper dream crew skirt grocery rough bounce solid sugar vapor flash";
+var mnemonic = "machine exotic address universe laugh narrow slab senior virus cousin increase snow";

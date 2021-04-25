@@ -1,1 +1,1 @@
-var mnemonic = "cruise suit moon dwarf member cash surround slight come atom bulk achieve";
+var mnemonic = "entire start staff become staff potato farm utility suffer puppy garden media";

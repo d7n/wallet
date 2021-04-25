@@ -1,1 +1,1 @@
-var mnemonic = "daughter caution menu aim shrug adult screen roast bus bitter flavor identify";
+var mnemonic = "green mutual staff step left woman media wave burst rack dust opera";

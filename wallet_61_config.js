@@ -1,1 +1,1 @@
-var mnemonic = "develop scatter jeans planet hat winter essence series chef focus genius grass";
+var mnemonic = "axis desk junior length auction stadium cross damage give beyond today leopard";

@@ -1,1 +1,1 @@
-var mnemonic = "bounce puppy economy mixture purse agree adapt trap sample daughter renew list";
+var mnemonic = "knife melody dinner project book butter gown goat joke more enact live";

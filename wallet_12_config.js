@@ -1,1 +1,1 @@
-var mnemonic = "lawn range believe enlist original force salt ostrich grain maze series depend";
+var mnemonic = "market coffee phrase finger liar affair test subject winner settle south farm";

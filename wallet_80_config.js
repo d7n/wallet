@@ -1,1 +1,1 @@
-var mnemonic = "renew detail pluck action tribe know lucky joy hurdle chapter expect glue";
+var mnemonic = "awkward elite history rich salmon tape start tail grunt modify rescue fee";

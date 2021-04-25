@@ -1,1 +1,1 @@
-var mnemonic = "open hello skull balance wide lend bike drip bright science topic blanket";
+var mnemonic = "injury sweet nerve control differ shrug digital recycle mansion parade tennis horror";

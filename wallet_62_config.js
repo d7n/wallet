@@ -1,1 +1,1 @@
-var mnemonic = "awkward field popular kitten axis leopard engine engine car mosquito regular outdoor";
+var mnemonic = "capital gaze captain stairs carbon wheat quality bottom retreat today gain trash";

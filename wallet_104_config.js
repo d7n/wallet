@@ -1,1 +1,1 @@
-var mnemonic = "over output alert trip future broom much more close lazy ball fee";
+var mnemonic = "innocent cash expire hurt detail decorate congress budget pet laptop quantum lazy";

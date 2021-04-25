@@ -1,1 +1,1 @@
-var mnemonic = "ocean bounce impact century disagree draft tattoo secret way else exotic cloth";
+var mnemonic = "lonely media story trick degree typical tenant away connect mesh anchor wash";

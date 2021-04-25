@@ -1,1 +1,1 @@
-var mnemonic = "open exact online derive bike base vacant essay impulse tank photo emotion";
+var mnemonic = "canoe dizzy merge main enjoy fabric mammal boss together napkin top nature";

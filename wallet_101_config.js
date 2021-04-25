@@ -1,1 +1,1 @@
-var mnemonic = "wall neither rare scare grain resource priority purity garment giggle omit list";
+var mnemonic = "sadness method desert animal around welcome fee hard anger first other quiz";

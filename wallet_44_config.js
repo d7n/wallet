@@ -1,1 +1,1 @@
-var mnemonic = "eight able radar ball wink lift donate steel endorse call pledge estate";
+var mnemonic = "truly decade fog tonight length tone heart two carpet youth quit august";

@@ -1,1 +1,1 @@
-var mnemonic = "clean gadget juice orphan inform elbow panda horn shy quiz adult learn";
+var mnemonic = "jungle ostrich there hurdle rude wheat burst embark excess riot pride warfare";

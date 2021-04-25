@@ -1,1 +1,1 @@
-var mnemonic = "asset drama deputy column creek labor category anger ability sunny truck bulk";
+var mnemonic = "myself cotton inspire inch short embrace stick teach install manual clinic gas";

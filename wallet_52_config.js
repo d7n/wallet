@@ -1,1 +1,1 @@
-var mnemonic = "enroll bless era idle market nothing cloud lamp next success lawsuit hood";
+var mnemonic = "east bunker congress salt sunset abstract loan secret fresh bundle remove paper";

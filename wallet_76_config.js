@@ -1,1 +1,1 @@
-var mnemonic = "increase rival farm reunion laugh aerobic image solid category fire borrow destroy";
+var mnemonic = "often weather puzzle anger blast raven slim north noodle call result april";

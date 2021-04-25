@@ -1,1 +1,1 @@
-var mnemonic = "worry verb salute artist mean gentle grit grab pledge addict either shoulder";
+var mnemonic = "dolphin idea promote season broom panic silly hill flock buddy flash immense";

@@ -1,1 +1,1 @@
-var mnemonic = "never dentist jungle control journey galaxy erode drip seat cluster warfare rookie";
+var mnemonic = "wonder improve hurdle fame napkin innocent easily patient orphan quiz right onion";

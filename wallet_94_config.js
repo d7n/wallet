@@ -1,1 +1,1 @@
-var mnemonic = "fancy amount okay page window cement lady rich cost ethics poem bottom";
+var mnemonic = "ritual humble raccoon spike domain protect diet toward doll fruit bracket since";

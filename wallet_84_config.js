@@ -1,1 +1,1 @@
-var mnemonic = "spider pole acid assist knife want cart this rotate own grid shoe";
+var mnemonic = "rapid lawn undo program milk worth roof wine kangaroo there million junior";

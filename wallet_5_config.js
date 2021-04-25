@@ -1,1 +1,1 @@
-var mnemonic = "gaze pledge fatal float aware friend skin hospital wet laugh torch panel";
+var mnemonic = "drop hill flame shift addict fix age wash plastic huge fantasy village";

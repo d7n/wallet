@@ -1,1 +1,1 @@
-var mnemonic = "antique pole inflict awesome lawsuit acoustic rug next doctor huge add slush";
+var mnemonic = "visual attend bid easily crisp atom betray board pilot project welcome sorry";

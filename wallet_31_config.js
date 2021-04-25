@@ -1,1 +1,1 @@
-var mnemonic = "pen work fence nation will silver steak script essence pear police spare";
+var mnemonic = "timber cause reunion manual damp supreme rent perfect broccoli puzzle gallery place";

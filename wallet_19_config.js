@@ -1,1 +1,1 @@
-var mnemonic = "monitor season menu fan below vast olive world current unfair okay fault";
+var mnemonic = "swift enlist pigeon fun eyebrow crowd stand entry come spy argue hundred";

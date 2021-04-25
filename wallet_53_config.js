@@ -1,1 +1,1 @@
-var mnemonic = "scatter return stable lady boil future garden spice online quick journey spice";
+var mnemonic = "wait eyebrow museum appear bomb section access bleak artist absurd protect shell";

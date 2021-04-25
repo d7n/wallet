@@ -1,1 +1,1 @@
-var mnemonic = "trip clay century category case filter mobile whale vibrant quote very crane";
+var mnemonic = "guitar mosquito scrub vivid render rug day fortune despair adult desert cook";

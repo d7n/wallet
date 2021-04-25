@@ -1,1 +1,1 @@
-var mnemonic = "space argue silly nephew tank wonder neglect pyramid input story basket warfare";
+var mnemonic = "vote trial pluck despair wagon cage night call spread notable safe admit";

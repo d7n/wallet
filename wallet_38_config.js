@@ -1,1 +1,1 @@
-var mnemonic = "upset shoot gasp judge fine teach crash climb order index twin pencil";
+var mnemonic = "enroll since before rule decade pitch nephew author nation jelly yellow bind";

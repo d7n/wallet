@@ -1,1 +1,1 @@
-var mnemonic = "more toe whip omit nice game ready ensure print butter decorate summer";
+var mnemonic = "adjust walk stone sorry butter flash clay shoe jazz crystal object phrase";

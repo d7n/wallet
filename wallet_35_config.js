@@ -1,1 +1,1 @@
-var mnemonic = "stamp tomorrow cinnamon vivid loop april castle hen tomorrow pottery myth minute";
+var mnemonic = "consider smooth stool apple air noise caught under glory journey hair tomorrow";

@@ -1,1 +1,1 @@
-var mnemonic = "arrest reduce aspect expect child pair calm culture skill ripple film toss";
+var mnemonic = "chicken one galaxy lonely onion enroll dose nuclear uncover label cross since";

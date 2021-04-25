@@ -1,1 +1,1 @@
-var mnemonic = "afford budget entire dose expose fork resemble conduct crouch rotate spice blossom";
+var mnemonic = "sing average employ gap pill dumb gesture frame labor black airport enlist";

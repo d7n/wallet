@@ -1,1 +1,1 @@
-var mnemonic = "angle spread menu outdoor pencil south man bike calm december beach reflect";
+var mnemonic = "rice sad guide exotic evil render neglect crucial owner sense unlock nephew";

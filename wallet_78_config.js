@@ -1,1 +1,1 @@
-var mnemonic = "bicycle hello bus metal tattoo piano because clog cancel quality give novel";
+var mnemonic = "boost language spell update alert faculty cloud melt viable initial donate lesson";

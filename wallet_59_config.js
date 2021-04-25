@@ -1,1 +1,1 @@
-var mnemonic = "shoulder organ guide ill test stuff elegant appear audit edge arm theory";
+var mnemonic = "sausage one local sea lobster okay pulse ostrich bullet twenty elevator cabbage";

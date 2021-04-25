@@ -1,1 +1,1 @@
-var mnemonic = "collect bachelor moon sweet clean task hub melody interest toss wage grass";
+var mnemonic = "eight glue quit wool sand soon divert thank tilt profit welcome example";

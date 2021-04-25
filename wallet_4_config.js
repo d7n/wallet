@@ -1,1 +1,1 @@
-var mnemonic = "seminar glow truck obtain vote vintage silly tilt year prize august viable";
+var mnemonic = "cat fancy shrug movie afraid apart sing now initial sure cream elbow";

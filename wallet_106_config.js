@@ -1,1 +1,1 @@
-var mnemonic = "boss long pattern future plastic seek sunset member cancel below laptop example";
+var mnemonic = "arrange turkey render word raise bind blast spike drama march chase staff";

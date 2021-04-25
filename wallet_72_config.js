@@ -1,1 +1,1 @@
-var mnemonic = "boat spike twin service mother orbit elephant future source insect crop belt";
+var mnemonic = "lake ankle gravity victory raise coffee hurt romance feel glance hunt shell";

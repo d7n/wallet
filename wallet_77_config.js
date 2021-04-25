@@ -1,1 +1,1 @@
-var mnemonic = "rare twenty strike egg future service fruit wonder struggle enforce wedding music";
+var mnemonic = "trap bring donkey blade answer arrow bid category mobile almost erode group";

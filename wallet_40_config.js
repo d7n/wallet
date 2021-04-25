@@ -1,1 +1,1 @@
-var mnemonic = "bonus luggage grace much thing taste strategy kid entire youth captain pass";
+var mnemonic = "isolate tree easy daring across artwork train crop fiber output round wet";

@@ -1,1 +1,1 @@
-var mnemonic = "denial property zone tumble position wear galaxy mix alter exhibit machine recipe";
+var mnemonic = "ring regular gauge flag school tone sudden chunk attack village upset suffer";

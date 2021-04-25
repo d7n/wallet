@@ -1,1 +1,1 @@
-var mnemonic = "train unfair tag pear stool goose donor used tortoise miracle oxygen satoshi";
+var mnemonic = "pledge duty weekend size tag marriage design fitness truly second dust law";

@@ -1,1 +1,1 @@
-var mnemonic = "video shine hole fatal copy wage country labor chimney vague stomach tomato";
+var mnemonic = "plunge antenna trigger acid sample rocket lonely dumb grunt problem glimpse glance";

@@ -1,1 +1,1 @@
-var mnemonic = "pact invite tank comfort load north city become surface army canvas confirm";
+var mnemonic = "inner nuclear shove special undo liberty human record knife rally desert quick";

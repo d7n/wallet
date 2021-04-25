@@ -1,1 +1,1 @@
-var mnemonic = "charge light stay sibling unique ladder fit glare win total maze essence";
+var mnemonic = "club volcano shift unlock clarify avocado vintage indicate road move fan love";

@@ -1,1 +1,1 @@
-var mnemonic = "heavy anchor couch velvet bitter cargo mean razor mutual smooth elephant finger";
+var mnemonic = "pizza system special camera vault hurdle found math illness crumble dynamic daughter";

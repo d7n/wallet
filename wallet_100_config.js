@@ -1,1 +1,1 @@
-var mnemonic = "turn blast bounce virtual demise seek measure great robust bacon palm suspect";
+var mnemonic = "lake impulse embody track upon ripple half rival shrug license cotton earn";

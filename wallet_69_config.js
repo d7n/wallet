@@ -1,1 +1,1 @@
-var mnemonic = "attack swallow two fit antique face verify leader gloom analyst leave jar";
+var mnemonic = "tuna hill dust wink good cause news gentle left ability choose lawn";

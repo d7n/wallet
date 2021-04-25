@@ -1,1 +1,1 @@
-var mnemonic = "mother tennis ribbon dad author limit wave noise chalk position enlist dentist";
+var mnemonic = "wire two duck denial foot world illness puppy until east public talent";

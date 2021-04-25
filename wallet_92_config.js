@@ -1,1 +1,1 @@
-var mnemonic = "melt digital horse casino ketchup initial front skin bone result palace travel";
+var mnemonic = "long region clean pottery certain solid mean three stamp slide scan until";

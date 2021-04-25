@@ -1,1 +1,1 @@
-var mnemonic = "bind expand club laundry cave light used limit kind rhythm like burger";
+var mnemonic = "clutch text rather attack ceiling tiger limb tackle promote nation shoulder spike";

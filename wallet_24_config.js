@@ -1,1 +1,1 @@
-var mnemonic = "steel scatter wrap honey warfare frog story alpha cook amused unhappy oppose";
+var mnemonic = "mule wall arrive pride badge sign later later destroy arch make world";

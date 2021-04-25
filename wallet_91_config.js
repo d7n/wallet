@@ -1,1 +1,1 @@
-var mnemonic = "still scissors leisure crawl yard better purchase chaos spring action suit helmet";
+var mnemonic = "awesome like youth hospital help give early embody usage brief retire immune";

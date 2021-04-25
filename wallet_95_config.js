@@ -1,1 +1,1 @@
-var mnemonic = "wine immune tag organ vehicle parent exit squirrel regret upset happy churn";
+var mnemonic = "ready rail quote retreat give cost hill frost matter waste giggle picture";

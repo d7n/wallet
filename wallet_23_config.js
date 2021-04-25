@@ -1,1 +1,1 @@
-var mnemonic = "clip panther bitter kid army route unveil quiz chase famous hover brave";
+var mnemonic = "relax arch jaguar income twin alter rebel remove survey tackle raise shuffle";

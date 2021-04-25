@@ -1,1 +1,1 @@
-var mnemonic = "explain barrel keep risk face pause strong wheat strike rally art invest";
+var mnemonic = "wear snake flag dad deny wine inject bonus slender alcohol proud vendor";

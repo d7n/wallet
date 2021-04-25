@@ -1,1 +1,1 @@
-var mnemonic = "cart raw alpha escape jealous return door goose spare match job skirt";
+var mnemonic = "choice segment praise bring atom olive climb album day alley garden enrich";

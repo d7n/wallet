@@ -1,1 +1,1 @@
-var mnemonic = "laundry sudden outside flame truck attend bless install grocery ring light taste";
+var mnemonic = "little cereal input already differ snake wedding bus arrow festival pyramid regret";

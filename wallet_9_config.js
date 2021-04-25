@@ -1,1 +1,1 @@
-var mnemonic = "wise obey junk fog lab fun violin small cruel bachelor derive impose";
+var mnemonic = "early act bar car approve repair clap foster embrace disagree undo bread";

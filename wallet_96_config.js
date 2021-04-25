@@ -1,1 +1,1 @@
-var mnemonic = "library atom fluid museum science armed winner style term finger erupt glow";
+var mnemonic = "moment pulse two assault behind pioneer prepare wait proud wait forest gift";

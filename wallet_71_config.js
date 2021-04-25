@@ -1,1 +1,1 @@
-var mnemonic = "inch uniform wise cave tourist repeat buffalo puzzle route sport twenty forward";
+var mnemonic = "faculty kingdom napkin general eternal skin point pulse miracle save oppose merge";

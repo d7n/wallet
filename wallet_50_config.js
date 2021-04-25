@@ -1,1 +1,1 @@
-var mnemonic = "sleep robot cloth gadget humble diary waste burden mechanic pluck panther nerve";
+var mnemonic = "vibrant return syrup hill video inner retreat zero remain vivid buyer attitude";

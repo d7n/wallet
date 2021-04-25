@@ -1,1 +1,1 @@
-var mnemonic = "illegal hamster benefit number climb awkward banner tragic divide crater outer gown";
+var mnemonic = "invest kit north loop forum strike kidney chair brother prefer surge web";

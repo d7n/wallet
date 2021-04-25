@@ -1,1 +1,1 @@
-var mnemonic = "ranch cherry eternal that powder pudding economy fiction rigid border stay rescue";
+var mnemonic = "erase plug egg curious resource lab dream spring drill paper spoil frost";

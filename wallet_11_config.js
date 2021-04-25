@@ -1,1 +1,1 @@
-var mnemonic = "frequent awesome eternal mammal nuclear remain stamp goat snap segment lunch exchange";
+var mnemonic = "angry fashion method layer guilt movie digital piano weasel menu depart shoulder";

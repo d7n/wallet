@@ -1,1 +1,1 @@
-var mnemonic = "sample cycle farm usage remind cousin ride enact eager blanket erase another";
+var mnemonic = "genuine kind payment garbage lunar salute chimney girl chuckle wrist hill office";

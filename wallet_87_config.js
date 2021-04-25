@@ -1,1 +1,1 @@
-var mnemonic = "spend elephant royal happy paddle shoulder abuse eye agent focus unknown tissue";
+var mnemonic = "offer bronze tube mosquito dutch peace wrist chef sausage rug evil resist";

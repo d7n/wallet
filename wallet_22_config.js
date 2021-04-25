@@ -1,1 +1,1 @@
-var mnemonic = "critic ensure sphere pact useless skull option interest earth regret erase response";
+var mnemonic = "sunset leisure giant assist grief blossom eager fitness photo exist kick arrange";

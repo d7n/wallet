@@ -1,1 +1,1 @@
-var mnemonic = "ski hub logic include immune fresh practice matter treat gate coin crop";
+var mnemonic = "tenant rail alter video life tragic coach fork glare truck fiscal egg";

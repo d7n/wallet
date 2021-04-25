@@ -1,1 +1,1 @@
-var mnemonic = "write cook upon vessel about rough juice long monster add whip grow";
+var mnemonic = "lava issue giggle car must gift depart social economy breeze gadget regular";

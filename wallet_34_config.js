@@ -1,1 +1,1 @@
-var mnemonic = "horn guide category wild wool begin ketchup rebel bone execute mango risk";
+var mnemonic = "obtain wear attend sphere observe latin another state foster recipe chef cycle";

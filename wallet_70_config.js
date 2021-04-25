@@ -1,1 +1,1 @@
-var mnemonic = "venture release strong bring ecology into juice join summer awesome near soap";
+var mnemonic = "mystery collect true call key rescue hobby emotion congress battle holiday track";

@@ -1,1 +1,1 @@
-var mnemonic = "advice borrow left report risk clarify guitar mad art veteran ramp crunch";
+var mnemonic = "anchor hollow echo absorb sea evoke girl leader weapon mistake reunion choose";

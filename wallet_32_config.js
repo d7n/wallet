@@ -1,1 +1,1 @@
-var mnemonic = "subject subject present suit retire electric grant future ugly race deposit habit";
+var mnemonic = "letter bid surprise bundle poverty lumber session dry plastic fork powder reveal";
