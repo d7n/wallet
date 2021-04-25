@@ -1,1 +1,1 @@
-var mnemonic = "lock twelve achieve measure miracle swift matrix play quiz rotate random measure";
+var mnemonic = "mimic possible enrich change buyer common orange loop state solution balcony build";

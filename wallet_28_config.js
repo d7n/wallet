@@ -1,1 +1,1 @@
-var mnemonic = "today myself false until jacket perfect burst vast sound monster betray million";
+var mnemonic = "resource upgrade below pool brown used violin peace pear acquire welcome jaguar";

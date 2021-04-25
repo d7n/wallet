@@ -1,1 +1,1 @@
-var mnemonic = "menu photo short dragon industry bridge husband dial credit fatal census gadget";
+var mnemonic = "stable uncover foot dad dismiss build garden learn output clutch taxi vague";

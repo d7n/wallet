@@ -1,1 +1,1 @@
-var mnemonic = "region slide draft gun assault alone promote know melt december type art";
+var mnemonic = "elephant smart exact orchard rebel tongue clown shy fat ice sun interest";

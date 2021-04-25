@@ -1,1 +1,1 @@
-var mnemonic = "index pitch alcohol sniff wine cake praise critic blanket anchor baby advance";
+var mnemonic = "regular memory refuse title tattoo merit ask mixed around cupboard model topple";

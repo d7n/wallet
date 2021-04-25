@@ -1,1 +1,1 @@
-var mnemonic = "refuse tackle put minor frown split luggage famous derive spread glimpse elegant";
+var mnemonic = "hollow razor yard long monkey elephant man run mosquito prefer woman trip";

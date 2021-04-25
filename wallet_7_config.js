@@ -1,1 +1,1 @@
-var mnemonic = "marine glue enjoy couple oppose rally awake park shallow practice will assume";
+var mnemonic = "test cluster travel actor owner napkin now calm possible one buddy click";

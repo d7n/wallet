@@ -1,1 +1,1 @@
-var mnemonic = "flip ridge fragile blouse priority slot hotel game power finger birth suspect";
+var mnemonic = "false race frequent famous field okay meat social puzzle either topple animal";

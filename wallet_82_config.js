@@ -1,1 +1,1 @@
-var mnemonic = "solid antique cute finger barrel celery latin concert cause jump galaxy donate";
+var mnemonic = "phrase minor arrow grid gold web camera various uncover clarify divide evolve";

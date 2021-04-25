@@ -1,1 +1,1 @@
-var mnemonic = "helmet aunt please sure knock cherry exhibit cage rotate trumpet gasp clinic";
+var mnemonic = "dolphin must angle stove glass drink decade chicken lion soul race trial";

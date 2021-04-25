@@ -1,1 +1,1 @@
-var mnemonic = "cash area used eagle scare loyal kitten material liar segment prefer explain";
+var mnemonic = "sustain puppy danger label embody cube seek shell dream jaguar hero hand";

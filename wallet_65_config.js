@@ -1,1 +1,1 @@
-var mnemonic = "dragon project badge virus achieve assist young young harsh combine oppose lemon";
+var mnemonic = "position gravity announce frozen hammer solve motion marine visual keen expire tone";

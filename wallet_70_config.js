@@ -1,1 +1,1 @@
-var mnemonic = "rough mouse peasant fade home grocery canal ladder click race cross kitten";
+var mnemonic = "joke reunion sand lab thunder come earn divert risk flight jar topple";

@@ -1,1 +1,1 @@
-var mnemonic = "pledge blue rate decline legal west large smoke quarter settle fit life";
+var mnemonic = "wife apart capital soup lunar bubble cigar sketch fiction swap better clinic";

@@ -1,1 +1,1 @@
-var mnemonic = "answer claw thunder hurt blame error blue essence ceiling purse cash aunt";
+var mnemonic = "pulse cost rotate measure horn picnic decade apple resist rate meat acoustic";

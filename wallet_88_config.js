@@ -1,1 +1,1 @@
-var mnemonic = "peanut elder dove sausage fuel employ tissue post aware short lazy milk";
+var mnemonic = "praise lemon inmate crash rebel erase tongue alone benefit differ giraffe nation";

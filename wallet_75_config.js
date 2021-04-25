@@ -1,1 +1,1 @@
-var mnemonic = "nation govern garden amused laundry document observe vital jaguar wish buyer pilot";
+var mnemonic = "mass drift fox below camp end bulk thumb ridge crush pair tilt";

@@ -1,1 +1,1 @@
-var mnemonic = "cherry gospel tag blast only limb radio ankle pluck master indoor visual";
+var mnemonic = "funny item hire step quality dish couple pupil south rain meat squeeze";

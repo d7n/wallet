@@ -1,1 +1,1 @@
-var mnemonic = "same crisp mercy crisp hour april gasp swarm favorite vault wasp game";
+var mnemonic = "festival trash guide bean month peace local neither curtain canvas sponsor skirt";

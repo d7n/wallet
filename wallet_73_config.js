@@ -1,1 +1,1 @@
-var mnemonic = "shift coffee friend mixed hill endless toe robot second vault pear bunker";
+var mnemonic = "potato october bundle inquiry creek lottery minimum inmate toy endless olympic tail";

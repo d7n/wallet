@@ -1,1 +1,1 @@
-var mnemonic = "error dial valid shadow elbow amazing bitter minute mistake supreme search safe";
+var mnemonic = "normal debate bless know talk hire identify diamond record wreck pudding net";

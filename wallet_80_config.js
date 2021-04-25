@@ -1,1 +1,1 @@
-var mnemonic = "tilt category burger taste ensure cattle sea barrel betray solution banner popular";
+var mnemonic = "bicycle evolve afford love cushion alcohol delay pretty world retire destroy dignity";

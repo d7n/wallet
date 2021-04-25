@@ -1,1 +1,1 @@
-var mnemonic = "glide silk elephant spring slice trophy country legend beyond wagon decade giraffe";
+var mnemonic = "uniform doctor famous width still life record gospel swear cream flash appear";

@@ -1,1 +1,1 @@
-var mnemonic = "require pig garbage danger quit credit sure youth young good curtain gold";
+var mnemonic = "pistol invite foil tourist blind dry transfer often federal grain craft chuckle";

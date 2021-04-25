@@ -1,1 +1,1 @@
-var mnemonic = "possible space tomato plate lyrics smoke plunge into neck walk upper process";
+var mnemonic = "first moon boring fence tell dial oblige birth glimpse moment armor before";

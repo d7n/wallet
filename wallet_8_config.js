@@ -1,1 +1,1 @@
-var mnemonic = "inherit try tray start clerk whale window want rubber section fossil refuse";
+var mnemonic = "shallow mail judge myth park subway display winter crunch runway antique humble";

@@ -1,1 +1,1 @@
-var mnemonic = "urban weasel hammer mystery saddle basic quit wreck robot truly razor lava";
+var mnemonic = "under aerobic asthma quiz december flat planet derive castle disorder judge era";

@@ -1,1 +1,1 @@
-var mnemonic = "proud cousin armor era leaf route decade almost wise crouch manual gun";
+var mnemonic = "zebra follow tube lobster lens labor fork volume north sibling print limb";

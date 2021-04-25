@@ -1,1 +1,1 @@
-var mnemonic = "burger topple boost access fan demise appear lens winner radio license lunch";
+var mnemonic = "bike path horror below anchor code garlic palace awkward coconut motion surprise";

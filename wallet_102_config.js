@@ -1,1 +1,1 @@
-var mnemonic = "way spike foster bunker sell connect chef hurry marriage diagram that hospital";
+var mnemonic = "youth burden chat fiction cross miss garbage bright base ceiling rural brother";

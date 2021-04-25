@@ -1,1 +1,1 @@
-var mnemonic = "coffee novel repeat category ball pill purse depend moral next chat buffalo";
+var mnemonic = "jaguar section indicate power cup wave twenty spider school someone kite version";

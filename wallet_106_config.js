@@ -1,1 +1,1 @@
-var mnemonic = "horn mandate flash nut baby barrel inhale throw other small extend version";
+var mnemonic = "social shine couch confirm reform area screen dish fiction card pyramid shove";

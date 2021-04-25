@@ -1,1 +1,1 @@
-var mnemonic = "wool sight element reason use twelve rare taste divorce cotton call timber";
+var mnemonic = "napkin party huge quantum circle soft regular soft drink also layer curtain";

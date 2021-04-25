@@ -1,1 +1,1 @@
-var mnemonic = "tenant width dynamic naive remove glass indicate mother cupboard silent elevator liar";
+var mnemonic = "will filter away animal fitness lobster marine search kiss actual guide neither";

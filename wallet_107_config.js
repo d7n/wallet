@@ -1,1 +1,1 @@
-var mnemonic = "father test way glimpse web gun style gaze duty turkey opinion thrive";
+var mnemonic = "ghost fork strategy elite install debris sing follow goose access custom cage";

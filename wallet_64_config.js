@@ -1,1 +1,1 @@
-var mnemonic = "glimpse circle sudden material spoon casino avocado bridge unit glove dream clip";
+var mnemonic = "inflict wrap word dynamic seat plate isolate focus spice sadness lonely physical";

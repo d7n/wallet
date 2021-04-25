@@ -1,1 +1,1 @@
-var mnemonic = "great they payment tomorrow fancy blade cute spot junk vehicle blame solid";
+var mnemonic = "legend ticket before original arena interest sadness city essay ordinary jazz acoustic";

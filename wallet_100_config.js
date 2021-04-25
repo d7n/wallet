@@ -1,1 +1,1 @@
-var mnemonic = "minute account humor wine vote fan company cause tissue pink fish traffic";
+var mnemonic = "wrestle casual utility noble flat coral circle wait erode tray oppose mammal";

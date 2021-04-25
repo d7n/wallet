@@ -1,1 +1,1 @@
-var mnemonic = "wait summer airport fragile hotel bicycle conduct wink holiday help ring toast";
+var mnemonic = "police illegal engage baby rally hint regret small faculty hand enroll build";

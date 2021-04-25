@@ -1,1 +1,1 @@
-var mnemonic = "donor tornado budget toilet response senior lens throw mansion phrase amazing absorb";
+var mnemonic = "park lonely december midnight disease tomorrow outside axis business learn cart robust";

@@ -1,1 +1,1 @@
-var mnemonic = "volcano abuse sponsor cloud resist kit fancy proof inject practice floor nature";
+var mnemonic = "weather syrup menu mouse flee license scatter virtual sea liquid weapon bacon";

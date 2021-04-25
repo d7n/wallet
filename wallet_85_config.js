@@ -1,1 +1,1 @@
-var mnemonic = "option rib debate film little badge jazz copy must spatial zoo person";
+var mnemonic = "alert profit direct found purpose arm castle humble lottery clap deputy similar";

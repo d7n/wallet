@@ -1,1 +1,1 @@
-var mnemonic = "sponsor scrap menu puppy obvious language sad trick prepare cherry spider chicken";
+var mnemonic = "erosion captain wrong that infant kit rule comic multiply ranch tomato sketch";

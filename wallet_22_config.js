@@ -1,1 +1,1 @@
-var mnemonic = "sand rapid fit define beauty old display leave artefact rare mixture clip";
+var mnemonic = "bottom hold attitude antenna order middle focus chalk math glance truth antique";

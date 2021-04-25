@@ -1,1 +1,1 @@
-var mnemonic = "gossip evoke pond scorpion lift depend lake shop fun heavy devote maze";
+var mnemonic = "dish chat weather apart brief safe slush cover final print comfort zero";

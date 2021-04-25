@@ -1,1 +1,1 @@
-var mnemonic = "gospel tank fetch prize violin clump kingdom jelly answer result deposit shy";
+var mnemonic = "target pole you say pink rather whisper stand crystal tribe giraffe ugly";

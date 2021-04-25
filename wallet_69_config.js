@@ -1,1 +1,1 @@
-var mnemonic = "hotel cool reveal omit carbon guitar purse device unlock image absent burst";
+var mnemonic = "present few sunny wonder seven put inflict parent roof direct surface snack";

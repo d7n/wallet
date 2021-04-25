@@ -1,1 +1,1 @@
-var mnemonic = "joke live husband wrap invite glass rough dilemma because spin security evidence";
+var mnemonic = "bus leisure describe lawn minimum solar occur brain fix type file mixture";

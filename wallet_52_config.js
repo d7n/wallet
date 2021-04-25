@@ -1,1 +1,1 @@
-var mnemonic = "onion fall moment congress blade february cement transfer conduct uncle inject saddle";
+var mnemonic = "fold brain rapid ethics twelve burger solve kitchen sword gain hour reflect";

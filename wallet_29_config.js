@@ -1,1 +1,1 @@
-var mnemonic = "join egg escape idea expect apology dial youth vapor cover coach profit";
+var mnemonic = "plunge slot detail human adult dog number gas spatial sentence loud lyrics";

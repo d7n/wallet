@@ -1,1 +1,1 @@
-var mnemonic = "jump olympic mutual endless symptom journey tape tree dignity core solution shaft";
+var mnemonic = "relax essence repair flame hello occur space nut series steak rug lazy";

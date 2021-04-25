@@ -1,1 +1,1 @@
-var mnemonic = "reveal future choice remove airport shrug girl witness lunch mercy gate cluster";
+var mnemonic = "jewel neglect camera time punch claim carbon remain unit there matter carpet";

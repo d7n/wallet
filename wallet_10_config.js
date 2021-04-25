@@ -1,1 +1,1 @@
-var mnemonic = "science relax vessel dismiss rescue pair host bubble wink pair gallery else";
+var mnemonic = "quiz absorb save mouse company jewel flat fury paddle disease possible shy";

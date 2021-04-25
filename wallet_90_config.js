@@ -1,1 +1,1 @@
-var mnemonic = "vibrant office code rally test family dizzy shove scrub travel right office";
+var mnemonic = "trim flash trend mule result seminar ankle portion ball ticket reveal peace";

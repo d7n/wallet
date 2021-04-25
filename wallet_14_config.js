@@ -1,1 +1,1 @@
-var mnemonic = "sausage dial night congress predict speak depth friend asthma sphere blade farm";
+var mnemonic = "debris waste razor silent appear dish century pelican dawn card fox write";

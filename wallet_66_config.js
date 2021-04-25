@@ -1,1 +1,1 @@
-var mnemonic = "venue mean submit apple life online valve search fun wash blind sort";
+var mnemonic = "apart warm item grain spread garbage symptom chalk salute dinosaur orchard liberty";

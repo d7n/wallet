@@ -1,1 +1,1 @@
-var mnemonic = "hub hybrid man wasp able detect reject produce during easy romance push";
+var mnemonic = "wreck collect home bracket effort scorpion grace issue solve step connect omit";

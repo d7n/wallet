@@ -1,1 +1,1 @@
-var mnemonic = "share tobacco rebel castle neglect vehicle sample increase note galaxy cheese letter";
+var mnemonic = "silk panda bicycle tiger artwork draw rapid cake dry junk cruise settle";

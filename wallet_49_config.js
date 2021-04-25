@@ -1,1 +1,1 @@
-var mnemonic = "wet below supply device close oven one inflict glove involve drama labor";
+var mnemonic = "clinic travel solid abstract judge pudding ship improve better trash surface lamp";

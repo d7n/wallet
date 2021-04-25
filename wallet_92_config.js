@@ -1,1 +1,1 @@
-var mnemonic = "second parent dream lawsuit bronze acoustic citizen motion slogan give salon text";
+var mnemonic = "fabric child power fun cable smooth stay question multiply brush asthma logic";

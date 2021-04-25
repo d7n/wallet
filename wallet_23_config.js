@@ -1,1 +1,1 @@
-var mnemonic = "raven random trophy digital mushroom situate this tongue ask please diary away";
+var mnemonic = "bounce member flush wool cement assume video judge company outside wave say";

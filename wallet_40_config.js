@@ -1,1 +1,1 @@
-var mnemonic = "patrol wild gym theory crew auto before lottery capable ignore speak famous";
+var mnemonic = "clip father replace useful glare degree cruel survey bind wood put dragon";

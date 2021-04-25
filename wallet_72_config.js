@@ -1,1 +1,1 @@
-var mnemonic = "penalty rookie avoid execute siege second dinosaur device afraid leaf pass clay";
+var mnemonic = "faint ivory verify flock speed razor comic slender pride wrap sing defense";

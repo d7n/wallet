@@ -1,1 +1,1 @@
-var mnemonic = "manage monitor foil glimpse top since chapter finger found whip fragile decrease";
+var mnemonic = "dose maid shuffle casual balcony face wave unveil eagle napkin detail carry";

@@ -1,1 +1,1 @@
-var mnemonic = "decline upper lesson kitchen apart kiss helmet extra purpose cannon air coin";
+var mnemonic = "place strategy pool cute deny clerk slogan walk punch small mushroom turn";

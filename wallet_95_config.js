@@ -1,1 +1,1 @@
-var mnemonic = "deer credit weather ice input orbit spirit expand laundry poet lady once";
+var mnemonic = "symptom wedding boat decorate crater always inquiry enter avocado buddy erase calm";

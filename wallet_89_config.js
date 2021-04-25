@@ -1,1 +1,1 @@
-var mnemonic = "evidence junk potato hobby frog term lobster ginger possible alter usual beauty";
+var mnemonic = "goose cactus year wolf physical blade snow dumb turn sing vague chuckle";

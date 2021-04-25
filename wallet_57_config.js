@@ -1,1 +1,1 @@
-var mnemonic = "index cereal skill shoe release unit reason short swim erode people frog";
+var mnemonic = "entry caution squirrel own stay job surface cross key extend slim tobacco";

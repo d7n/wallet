@@ -1,1 +1,1 @@
-var mnemonic = "boat response off valley expect bottom diamond fetch track fitness average maze";
+var mnemonic = "brick shine silent news float bulb bomb kiwi rival slam pill reward";

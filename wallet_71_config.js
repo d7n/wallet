@@ -1,1 +1,1 @@
-var mnemonic = "quarter sunset lift tenant screen spot fame upper moment swamp much route";
+var mnemonic = "modify science stumble merry antique leaf border derive mushroom bachelor tomorrow idea";

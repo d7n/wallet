@@ -1,1 +1,1 @@
-var mnemonic = "mind vanish neutral syrup boat copper broom scan rocket simple guilt blouse";
+var mnemonic = "soup beyond chalk digital goose agree talent jaguar escape area exclude raccoon";

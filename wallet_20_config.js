@@ -1,1 +1,1 @@
-var mnemonic = "make dog verb engage deliver smile bread estate very hamster bachelor vintage";
+var mnemonic = "hybrid situate brief thunder cabin fantasy want drift inside cool elegant raven";

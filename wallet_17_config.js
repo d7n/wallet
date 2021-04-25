@@ -1,1 +1,1 @@
-var mnemonic = "buffalo fence volume quit universe inhale sheriff ten coast similar lazy jungle";
+var mnemonic = "crawl sport goddess winter gospel stay plunge pyramid auto mistake thought taste";

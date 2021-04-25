@@ -1,1 +1,1 @@
-var mnemonic = "climb dish call lamp sad adjust live museum liar eager curve trial";
+var mnemonic = "praise unusual hungry define find cloth moment forest cruel card piano able";

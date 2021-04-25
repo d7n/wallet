@@ -1,1 +1,1 @@
-var mnemonic = "noble stand track tragic cannon reform camera stick much pride reason mind";
+var mnemonic = "fan will staff gasp truck ball arch chimney protect rebel unique deer";

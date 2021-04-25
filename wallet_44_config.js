@@ -1,1 +1,1 @@
-var mnemonic = "race suffer simple danger until pupil tortoise cage prosper figure side spot";
+var mnemonic = "obtain bamboo cook hurt bomb perfect cattle text fee crush glare memory";

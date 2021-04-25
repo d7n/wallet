@@ -1,1 +1,1 @@
-var mnemonic = "detect sword put rebel jealous cloth write salute spray oyster dash tattoo";
+var mnemonic = "lock piano cook critic clown typical harsh rhythm noise sight soccer scrub";

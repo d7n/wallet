@@ -1,1 +1,1 @@
-var mnemonic = "prosper apart weekend loop bench wrong lawn sock crack fruit public siren";
+var mnemonic = "car almost leaf arrive crystal quarter deal secret drum learn hurdle eyebrow";

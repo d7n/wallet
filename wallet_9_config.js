@@ -1,1 +1,1 @@
-var mnemonic = "army off canoe broom master drill brick fade pledge ice direct diet";
+var mnemonic = "bicycle envelope blouse reveal observe fame mandate sense claim mixed size seek";

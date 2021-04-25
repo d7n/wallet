@@ -1,1 +1,1 @@
-var mnemonic = "weird bus air wisdom result february tornado celery hundred sauce legal inspire";
+var mnemonic = "lyrics appear index element blind pistol retreat diary tooth palace uniform special";

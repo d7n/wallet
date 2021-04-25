@@ -1,1 +1,1 @@
-var mnemonic = "onion flee deposit drive peasant mesh rally father north carbon dignity lock";
+var mnemonic = "bus ketchup silver roast oak tank napkin fish vanish cost drift elite";

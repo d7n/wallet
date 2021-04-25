@@ -1,1 +1,1 @@
-var mnemonic = "gown always sight violin violin drill doctor suggest corn fatigue denial orphan";
+var mnemonic = "crowd offer fuel mimic master liquid later slogan surround farm blossom unveil";

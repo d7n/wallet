@@ -1,1 +1,1 @@
-var mnemonic = "common vehicle verb woman raven hurdle turkey edge square asthma letter fault";
+var mnemonic = "cluster math river royal spell split switch label fit tongue era shop";

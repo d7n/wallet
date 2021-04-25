@@ -1,1 +1,1 @@
-var mnemonic = "later excess tank blind mad castle limit bamboo someone arrange funny way";
+var mnemonic = "actor found audit beauty panda empower arch climb erase leopard lift repeat";

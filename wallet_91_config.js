@@ -1,1 +1,1 @@
-var mnemonic = "odor stay injury solve cricket cable crawl control evidence long buyer twelve";
+var mnemonic = "crumble excess frame artist assume hammer loud city dizzy man risk trash";

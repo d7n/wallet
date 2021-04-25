@@ -1,1 +1,1 @@
-var mnemonic = "equal degree fluid erupt donkey flock anchor kick oppose finger unlock shove";
+var mnemonic = "furnace shrimp elite travel upper demand file exclude convince minimum modify check";

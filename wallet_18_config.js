@@ -1,1 +1,1 @@
-var mnemonic = "evoke reduce gate visa bless holiday pulse afraid melt crazy rural demand";
+var mnemonic = "auction correct helmet crater output extra rubber describe wood staff aim floor";

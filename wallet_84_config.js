@@ -1,1 +1,1 @@
-var mnemonic = "daring orient pledge artwork kangaroo play next mechanic cloud rate police captain";
+var mnemonic = "million nut manage toy off zebra dune guess toddler domain crystal better";

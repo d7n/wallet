@@ -1,1 +1,1 @@
-var mnemonic = "snow cook among rare shoe bean tonight manual suspect rebuild dumb amount";
+var mnemonic = "pelican puppy add curve curious tell proof update observe federal rotate shine";

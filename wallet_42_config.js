@@ -1,1 +1,1 @@
-var mnemonic = "fun space alcohol obvious garden edit quit hip acquire aim just horse";
+var mnemonic = "sausage virtual throw flush stable save hazard maid item butter job sing";

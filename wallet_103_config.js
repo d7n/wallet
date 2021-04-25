@@ -1,1 +1,1 @@
-var mnemonic = "dumb flip obey parent space order manage symbol loud ranch armor crash";
+var mnemonic = "ridge butter voyage junk frost female march depend ten smooth state angle";

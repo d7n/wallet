@@ -1,1 +1,1 @@
-var mnemonic = "similar crisp scatter exist truth cross divide blade online observe blame exotic";
+var mnemonic = "chapter cigar city depend pioneer gloom dizzy segment history problem enter tool";

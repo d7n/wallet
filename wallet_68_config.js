@@ -1,1 +1,1 @@
-var mnemonic = "stable toe reason civil zone region faculty wife spike twelve field various";
+var mnemonic = "hobby define include snap jump lava film scheme isolate universe safe level";

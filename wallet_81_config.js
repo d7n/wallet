@@ -1,1 +1,1 @@
-var mnemonic = "below bicycle install cram blood stamp permit language trap senior canyon vital";
+var mnemonic = "clever alien route mother wonder rib salute world job sister tired know";

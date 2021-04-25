@@ -1,1 +1,1 @@
-var mnemonic = "deer exit engine recipe goat wife weekend divorce circle parent name dream";
+var mnemonic = "narrow wage collect horn review exclude where sense rack duck tomato crop";
