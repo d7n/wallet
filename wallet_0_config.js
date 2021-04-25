@@ -1,1 +1,1 @@
-var mnemonic = "chimney jewel thought gasp pudding error pen mansion pig shove manual jewel";
+var mnemonic = "spatial smart tell health test peace journey that hip stumble wing valley";

@@ -1,1 +1,1 @@
-var mnemonic = "own wonder myself roof remember pepper timber swear wheel junior manage glad";
+var mnemonic = "people oyster retreat apology burst dust pony spoil stone peanut century shift";

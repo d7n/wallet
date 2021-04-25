@@ -1,1 +1,1 @@
-var mnemonic = "leisure true clay toy pudding inch turn silver rural stock swing suit";
+var mnemonic = "zoo mix anchor consider what adapt hurdle taste cabin inherit latin among";

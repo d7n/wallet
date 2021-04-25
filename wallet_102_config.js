@@ -1,1 +1,1 @@
-var mnemonic = "immune balcony thunder limit puppy crime worth property reveal destroy penalty more";
+var mnemonic = "advance settle output lobster rubber enjoy search rice zone violin bachelor immune";

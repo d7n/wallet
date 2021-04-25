@@ -1,1 +1,1 @@
-var mnemonic = "vibrant lend urban ecology tissue solution educate laundry round public snap sister";
+var mnemonic = "hello supreme gap alpha roast banner toast drink jump elephant donor middle";

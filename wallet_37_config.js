@@ -1,1 +1,1 @@
-var mnemonic = "frame stuff ignore oblige cream wrong outside face game weekend load useless";
+var mnemonic = "track decade ship boy hover amateur museum drop tool claw valid sphere";

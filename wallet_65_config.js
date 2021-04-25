@@ -1,1 +1,1 @@
-var mnemonic = "crucial cradle rapid pause vibrant dream civil nephew donkey soldier glance only";
+var mnemonic = "vacant next solar motor wave truth wear debris matter mad gadget scout";

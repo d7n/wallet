@@ -1,1 +1,1 @@
-var mnemonic = "remove flavor essay vivid stamp various tip series laugh essay comic frog";
+var mnemonic = "slam must where have giant spoil slam candy polar siege aisle rather";

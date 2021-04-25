@@ -1,1 +1,1 @@
-var mnemonic = "quality vapor dilemma wrong front panel expose person depend height sport fly";
+var mnemonic = "ritual exist ticket atom rabbit crop near large receive group attract mask";

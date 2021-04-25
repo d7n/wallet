@@ -1,1 +1,1 @@
-var mnemonic = "admit blade island bachelor ancient satoshi essence around scrub obey napkin turtle";
+var mnemonic = "wasp element length snap silent first pave mountain desert box quote lawsuit";

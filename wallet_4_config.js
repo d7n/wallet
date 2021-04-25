@@ -1,1 +1,1 @@
-var mnemonic = "dilemma video arrow club sure entry ginger staff brick city speak educate";
+var mnemonic = "copper rookie element voyage guitar ancient dinner buddy special ritual firm lucky";

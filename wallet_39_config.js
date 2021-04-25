@@ -1,1 +1,1 @@
-var mnemonic = "snack live raven below motor december device scatter foot need issue biology";
+var mnemonic = "dad spike river dry two clip economy remind apology clever spike smart";

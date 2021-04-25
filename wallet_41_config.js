@@ -1,1 +1,1 @@
-var mnemonic = "neither inherit pony urban section sketch similar alter venue sauce idea horror";
+var mnemonic = "nut gaze bullet nature spatial kiss bird silent price bunker meat grace";

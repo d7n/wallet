@@ -1,1 +1,1 @@
-var mnemonic = "bleak hire ladder artefact cruel nature peanut alone exhibit renew habit fit";
+var mnemonic = "travel strike champion grow riot stick height figure section brother include load";

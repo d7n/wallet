@@ -1,1 +1,1 @@
-var mnemonic = "radar scheme tuition hybrid select error purse thank maximum exact envelope toy";
+var mnemonic = "project voyage invest jazz file jeans wagon various atom layer wealth cream";

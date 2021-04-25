@@ -1,1 +1,1 @@
-var mnemonic = "fish arctic gift blouse surprise wing gap atom skill tenant expand elegant";
+var mnemonic = "barrel saddle chronic pupil buddy record kite vicious chief room juice cargo";

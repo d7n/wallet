@@ -1,1 +1,1 @@
-var mnemonic = "scrub royal post whale claim only negative couch grant fix build child";
+var mnemonic = "wood memory butter lake eye employ latin ridge ghost decline sunny donate";

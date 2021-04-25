@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin cargo ignore february pause flat sound winner assault firm runway control";
+var mnemonic = "surround nephew veteran law nest put release hundred quality wisdom car excuse";

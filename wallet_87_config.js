@@ -1,1 +1,1 @@
-var mnemonic = "off pass provide wolf easy act tilt panda crisp prepare ability chair";
+var mnemonic = "into bleak perfect will vehicle echo sausage finger ketchup corn vault scrub";

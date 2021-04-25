@@ -1,1 +1,1 @@
-var mnemonic = "inherit faint culture sock replace multiply frozen expect birth saddle end shy";
+var mnemonic = "actual great marriage inflict alley modify correct shine also enact oven world";

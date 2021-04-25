@@ -1,1 +1,1 @@
-var mnemonic = "laundry wheat access table teach error blur decade south timber grape cradle";
+var mnemonic = "blue solar cup outdoor lens change stem divide frame airport impact consider";

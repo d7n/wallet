@@ -1,1 +1,1 @@
-var mnemonic = "radio once pink mansion gloom distance brisk marine bulb taxi useless soft";
+var mnemonic = "deer useful song practice girl good post audit exhibit sound sword wisdom";

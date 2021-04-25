@@ -1,1 +1,1 @@
-var mnemonic = "shadow labor news deal erupt cheap enough expect swim bone ridge tattoo";
+var mnemonic = "merge sight pottery proud keen maple clerk dwarf change swear error tape";

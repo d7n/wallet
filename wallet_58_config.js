@@ -1,1 +1,1 @@
-var mnemonic = "already leader essay profit sort cool general refuse girl flame elite view";
+var mnemonic = "old machine original digital warfare object ecology innocent pact calm brief almost";

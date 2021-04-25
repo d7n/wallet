@@ -1,1 +1,1 @@
-var mnemonic = "antique tribe annual elbow motor flee only replace before hold choose patrol";
+var mnemonic = "another couch pattern walk leader path result ozone skirt robust sense crop";

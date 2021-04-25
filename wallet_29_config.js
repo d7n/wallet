@@ -1,1 +1,1 @@
-var mnemonic = "kiwi sauce real rabbit feed rubber vacant bird follow armor actor father";
+var mnemonic = "lab hole amount prevent dash glove glow few govern inflict project mutual";

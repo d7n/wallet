@@ -1,1 +1,1 @@
-var mnemonic = "wage dumb swarm spot year sting raccoon faint jelly battle copper math";
+var mnemonic = "opera ozone rule club neck filter whale devote dry music coast diagram";

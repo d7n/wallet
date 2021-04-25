@@ -1,1 +1,1 @@
-var mnemonic = "oxygen possible penalty hamster gesture image potato across bean convince barrel parent";
+var mnemonic = "ahead anchor panel build panic slide portion divorce oval body tornado mass";

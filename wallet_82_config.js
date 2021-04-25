@@ -1,1 +1,1 @@
-var mnemonic = "athlete crime journey gloom found any proof endless glove ribbon wheat chair";
+var mnemonic = "hundred blouse antenna acoustic shed mutual jar drum occur tilt tag proud";

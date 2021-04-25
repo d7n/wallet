@@ -1,1 +1,1 @@
-var mnemonic = "flush bicycle holiday female lumber round prosper correct address maid system laugh";
+var mnemonic = "brass hen hire submit front setup mesh cricket lake text hedgehog cable";

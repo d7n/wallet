@@ -1,1 +1,1 @@
-var mnemonic = "clown inch target double bitter expire genuine type episode fury guess weird";
+var mnemonic = "mountain vessel federal smoke candy alone amateur symptom whisper exclude chat strike";

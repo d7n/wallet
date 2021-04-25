@@ -1,1 +1,1 @@
-var mnemonic = "ketchup pledge dune pet other arrest service solve time system daughter away";
+var mnemonic = "amateur wheat print menu pond awake lounge business female invest grab client";

@@ -1,1 +1,1 @@
-var mnemonic = "laundry kick board wrap absorb sound radar minute rival tide rotate layer";
+var mnemonic = "equip venue fee office ask cheap link forward spirit nephew junk liberty";

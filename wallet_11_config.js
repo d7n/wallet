@@ -1,1 +1,1 @@
-var mnemonic = "pitch tragic reform evil seat gentle genius arctic theory proof notice donkey";
+var mnemonic = "pig timber give rent flock spawn view useful birth melody excuse shoot";

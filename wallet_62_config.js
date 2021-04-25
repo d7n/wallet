@@ -1,1 +1,1 @@
-var mnemonic = "clinic update click source office beach give ugly code damage amazing athlete";
+var mnemonic = "vague garden lumber embark rival produce face win badge insane rare enact";

@@ -1,1 +1,1 @@
-var mnemonic = "damp pool subject ski need cereal effort rubber surface people glide confirm";
+var mnemonic = "dice witness rib panther ahead grass matrix myself fun change charge romance";

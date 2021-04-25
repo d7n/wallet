@@ -1,1 +1,1 @@
-var mnemonic = "language sugar range carry update abandon brisk success wrist once magnet van";
+var mnemonic = "riot expire bundle marriage space imitate ramp barely mother lyrics extra crane";

@@ -1,1 +1,1 @@
-var mnemonic = "time oval able cage lend beauty way loyal window lobster uncle glory";
+var mnemonic = "cram marble cart find define taxi earth green gym organ crunch weird";

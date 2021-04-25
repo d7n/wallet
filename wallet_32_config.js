@@ -1,1 +1,1 @@
-var mnemonic = "lava cool dwarf interest way romance business tornado wrestle load opinion play";
+var mnemonic = "flush impulse control remain hand you essence across swing paper fence match";

@@ -1,1 +1,1 @@
-var mnemonic = "essay sunny brisk rude mix silent shove wife family artist include drive";
+var mnemonic = "sea evidence digital wage door replace time scout sketch fiscal craft visa";

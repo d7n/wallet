@@ -1,1 +1,1 @@
-var mnemonic = "journey crucial abuse undo input notice ordinary icon nurse clump soda rival";
+var mnemonic = "name nasty pattern monkey clock slow twist bar jeans dragon capable flash";

@@ -1,1 +1,1 @@
-var mnemonic = "game call winner peasant urban live boil ostrich cause know police grant";
+var mnemonic = "time kiss action tribe delay mom disease multiply plunge farm ability gloom";

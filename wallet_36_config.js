@@ -1,1 +1,1 @@
-var mnemonic = "narrow ocean use bind coyote palm pepper arrow sun add hat park";
+var mnemonic = "code card hammer wedding inner garden result high short depart biology merit";

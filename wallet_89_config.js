@@ -1,1 +1,1 @@
-var mnemonic = "caught almost sunset ring they nation cause able rigid farm sunny start";
+var mnemonic = "fox high essay ability system attract kick permit common unique just drill";

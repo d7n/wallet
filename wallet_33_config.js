@@ -1,1 +1,1 @@
-var mnemonic = "card nephew knee improve enforce bulb digital game barely expand valley like";
+var mnemonic = "dress beauty deer tool ski ordinary toward animal upgrade romance home employ";

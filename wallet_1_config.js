@@ -1,1 +1,1 @@
-var mnemonic = "method same embody discover tent check kid forest volume clinic arrange crush";
+var mnemonic = "time captain tunnel gym welcome world end produce merge useful female indicate";

@@ -1,1 +1,1 @@
-var mnemonic = "boost reform sudden hand toe cloth rabbit wide exist resemble pumpkin crowd";
+var mnemonic = "various people sign smoke tilt curve vote arch obscure garden fiber session";

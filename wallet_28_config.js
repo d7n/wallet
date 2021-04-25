@@ -1,1 +1,1 @@
-var mnemonic = "beyond tomato enough rebel usual token black check seven flight process violin";
+var mnemonic = "wonder state author hungry release brush same world bring idea general success";

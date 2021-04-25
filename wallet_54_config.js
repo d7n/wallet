@@ -1,1 +1,1 @@
-var mnemonic = "orchard ticket about legal ostrich decrease solar idea lamp caught term truck";
+var mnemonic = "curtain avoid robust replace find paddle impose wine gospel expand ivory tourist";

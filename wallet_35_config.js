@@ -1,1 +1,1 @@
-var mnemonic = "quantum fury fancy twice noodle clinic window slice cycle output coach crouch";
+var mnemonic = "unlock noise walk two tennis include shove claim tortoise play useless satoshi";

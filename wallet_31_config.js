@@ -1,1 +1,1 @@
-var mnemonic = "tribe muscle water scan over flag treat beach rocket laundry ivory spot";
+var mnemonic = "spray tortoise excite penalty during online decide business proof glory young disease";

@@ -1,1 +1,1 @@
-var mnemonic = "there drum layer slide skill magic loan kick broken detect ready luggage";
+var mnemonic = "test inject survey allow oil order bronze stamp virus differ black sibling";

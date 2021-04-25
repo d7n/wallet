@@ -1,1 +1,1 @@
-var mnemonic = "car day behind silly sand bicycle page behind large please clap choose";
+var mnemonic = "lizard choice group page firm pulp spin alarm jealous sort broccoli brown";

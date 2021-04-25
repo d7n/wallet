@@ -1,1 +1,1 @@
-var mnemonic = "afford festival indoor bronze void chronic kitchen mass laugh doll episode maple";
+var mnemonic = "circle struggle session bridge easily truly either mystery confirm side galaxy hungry";

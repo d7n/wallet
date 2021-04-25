@@ -1,1 +1,1 @@
-var mnemonic = "table social drill loop talent moon anger silly joy burst chimney cousin";
+var mnemonic = "acid metal slot enact network lyrics paper once beauty cup review field";

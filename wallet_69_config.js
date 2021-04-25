@@ -1,1 +1,1 @@
-var mnemonic = "bamboo december equip witness mesh receive fashion second quick volume old polar";
+var mnemonic = "danger assist comic state polar close pledge cancel siren various physical extra";

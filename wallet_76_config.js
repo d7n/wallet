@@ -1,1 +1,1 @@
-var mnemonic = "switch immense final mule upgrade result grid carpet like midnight width actress";
+var mnemonic = "rapid steel make mirror maximum ridge grocery ice student humble frog rubber";

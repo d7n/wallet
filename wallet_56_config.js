@@ -1,1 +1,1 @@
-var mnemonic = "focus try celery hello faith drop cigar rent erosion wrong fatigue link";
+var mnemonic = "cup spring burst insect potato produce secret wonder usage used curve dumb";

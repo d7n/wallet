@@ -1,1 +1,1 @@
-var mnemonic = "mercy secret window roast lift advance script fluid actress maid quote sleep";
+var mnemonic = "truly window right brand myth silver east thought match capital fancy hero";

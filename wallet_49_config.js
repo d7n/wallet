@@ -1,1 +1,1 @@
-var mnemonic = "sadness notice hawk cycle wire price flight celery fan climb rally south";
+var mnemonic = "young live shop toast fence fork pill legal letter ready caution merry";

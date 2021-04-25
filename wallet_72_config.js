@@ -1,1 +1,1 @@
-var mnemonic = "rural puppy share sell bracket invest lab assume rice cabin essay media";
+var mnemonic = "hip ship inmate demise any oil ritual notable isolate tilt own multiply";

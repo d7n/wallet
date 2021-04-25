@@ -1,1 +1,1 @@
-var mnemonic = "weird minute envelope gadget jungle lyrics proof fence ring puzzle test rigid";
+var mnemonic = "oyster cash energy enjoy expose artist miss pond turn ugly cart across";

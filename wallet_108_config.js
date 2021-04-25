@@ -1,1 +1,1 @@
-var mnemonic = "fiber arrow wreck drastic cabin car impose bargain burden oil unveil actress";
+var mnemonic = "illegal clinic knee coconut spoon joke gas false winter ladder steel umbrella";

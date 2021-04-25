@@ -1,1 +1,1 @@
-var mnemonic = "fold subject day check balcony present soon exit hungry subject square innocent";
+var mnemonic = "useful vacuum mind van claw loud park melody edge trigger beyond brown";

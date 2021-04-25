@@ -1,1 +1,1 @@
-var mnemonic = "stem oppose mountain summer crew poet purchase phone hotel claw paper coconut";
+var mnemonic = "two slam horror narrow famous chalk become rhythm flag judge grace essay";

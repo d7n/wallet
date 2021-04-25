@@ -1,1 +1,1 @@
-var mnemonic = "snack then rhythm roof fork muscle love symbol mail pull rubber venue";
+var mnemonic = "push pass grow home noble honey poverty when hamster post check mammal";

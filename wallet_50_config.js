@@ -1,1 +1,1 @@
-var mnemonic = "loan giant phone track bicycle cage cradle meadow group mushroom explain awful";
+var mnemonic = "curve brother dog predict forum robot twelve analyst slow pen picnic ostrich";

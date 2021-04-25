@@ -1,1 +1,1 @@
-var mnemonic = "trick glare liquid fold distance gorilla march syrup front car fetch tongue";
+var mnemonic = "treat urban client clump rabbit perfect chaos taste again elite vacant hard";

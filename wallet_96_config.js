@@ -1,1 +1,1 @@
-var mnemonic = "trade ocean olympic shy correct prize rubber quality stereo joy jump athlete";
+var mnemonic = "under cruise swing output spell trouble ugly target matrix forget attract awkward";

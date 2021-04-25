@@ -1,1 +1,1 @@
-var mnemonic = "kit ripple connect assault strategy expect sunset plastic tumble brave present grass";
+var mnemonic = "drip unhappy hedgehog woman candy maple embrace possible liberty addict bounce valley";

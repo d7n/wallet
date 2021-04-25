@@ -1,1 +1,1 @@
-var mnemonic = "believe cross trial cable empty brain brief gate hub donkey bird nature";
+var mnemonic = "grow oxygen boring else myth horror kind royal paddle evidence reward vocal";

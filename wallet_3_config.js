@@ -1,1 +1,1 @@
-var mnemonic = "flame time cry monster cabin grocery quick mountain relax viable attack tag";
+var mnemonic = "correct mesh local general scrap ship rare joke dignity school upon able";

@@ -1,1 +1,1 @@
-var mnemonic = "athlete modify taxi desk roof private apple usual number coin unlock buffalo";
+var mnemonic = "coil slam enact useful federal absurd napkin iron harvest parent latin direct";

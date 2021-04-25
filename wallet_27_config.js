@@ -1,1 +1,1 @@
-var mnemonic = "goat bulb lecture junior anger debate boat vibrant gravity feature wheel bachelor";
+var mnemonic = "decade promote royal chunk screen keep erupt load slice salad blind ozone";

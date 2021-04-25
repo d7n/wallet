@@ -1,1 +1,1 @@
-var mnemonic = "story siege vendor measure lesson loop like future cupboard small glare cereal";
+var mnemonic = "goddess elbow toe home leader humble tray put online erase comic truly";

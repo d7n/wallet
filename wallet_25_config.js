@@ -1,1 +1,1 @@
-var mnemonic = "guide have finish price sight filter super inmate quantum glass host gas";
+var mnemonic = "attack foam face raise pulp swallow coach voyage goddess ride inhale tumble";

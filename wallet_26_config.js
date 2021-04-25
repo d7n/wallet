@@ -1,1 +1,1 @@
-var mnemonic = "cover pen bounce street venture twice source until share cannon bargain history";
+var mnemonic = "pact symptom stool still camera brisk cinnamon vocal scissors whip pizza enhance";

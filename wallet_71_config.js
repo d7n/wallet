@@ -1,1 +1,1 @@
-var mnemonic = "proud umbrella essence spice asset soldier planet hello knee patient coffee cricket";
+var mnemonic = "fortune again remember unaware entry frog text brown roof town first awake";

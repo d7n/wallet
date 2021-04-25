@@ -1,1 +1,1 @@
-var mnemonic = "task face interest judge avoid lens addict kiss magnet spend undo there";
+var mnemonic = "front electric transfer hospital immune canvas blind you share delay inhale cry";

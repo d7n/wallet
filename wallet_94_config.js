@@ -1,1 +1,1 @@
-var mnemonic = "misery embody crew field lend veteran raise mean feature prison mimic begin";
+var mnemonic = "observe amount kite weapon oval update agree liquid pigeon hand lock time";

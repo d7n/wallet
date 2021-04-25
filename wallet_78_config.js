@@ -1,1 +1,1 @@
-var mnemonic = "code faint struggle please gift wash digital dose physical uncover fish traffic";
+var mnemonic = "confirm tired bus business tone current teach swallow bring forest type trigger";

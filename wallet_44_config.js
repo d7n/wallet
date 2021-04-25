@@ -1,1 +1,1 @@
-var mnemonic = "electric room input steel edit moon social topic abandon razor board soul";
+var mnemonic = "lady between skate sick size sausage note pink fatal give rival impulse";

@@ -1,1 +1,1 @@
-var mnemonic = "all lottery hazard excess table staff festival business birth oven fetch blouse";
+var mnemonic = "swallow attack place transfer salmon market mountain team master exclude ethics crew";

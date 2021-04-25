@@ -1,1 +1,1 @@
-var mnemonic = "rally neglect cupboard shoot nature enrich bright happy swarm position twin armed";
+var mnemonic = "indicate speak wire fame flag then example mirror load whale business puzzle";

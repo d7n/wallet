@@ -1,1 +1,1 @@
-var mnemonic = "flat zone uncle dog twin visa install disorder street island foam rough";
+var mnemonic = "suggest guide breeze oblige alter announce source margin village curious prosper mammal";
