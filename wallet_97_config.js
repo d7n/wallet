@@ -1,1 +1,1 @@
-var mnemonic = "lizard choice group page firm pulp spin alarm jealous sort broccoli brown";
+var mnemonic = "length normal miss wife mosquito muscle scene endless man series since assume";

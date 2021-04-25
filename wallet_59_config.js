@@ -1,1 +1,1 @@
-var mnemonic = "slot craft truth rescue ahead coast six among pupil dove mammal moment";
+var mnemonic = "shock expand december prize media pepper early armed basic sunset bitter garbage";

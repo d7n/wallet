@@ -1,1 +1,1 @@
-var mnemonic = "circle struggle session bridge easily truly either mystery confirm side galaxy hungry";
+var mnemonic = "bird where silent beach silent thing poem muscle upset useful fun yard";

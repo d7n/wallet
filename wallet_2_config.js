@@ -1,1 +1,1 @@
-var mnemonic = "evil brave auction funny trap buddy project print raccoon usual garlic provide";
+var mnemonic = "trap fabric pair fruit welcome any ankle sunset black reduce sure net";

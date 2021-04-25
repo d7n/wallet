@@ -1,1 +1,1 @@
-var mnemonic = "art slide rapid heart floor all shove slogan party once they baby";
+var mnemonic = "mercy despair stamp shallow abuse actress problem grief vessel palm quiz toward";

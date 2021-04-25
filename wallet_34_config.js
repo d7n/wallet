@@ -1,1 +1,1 @@
-var mnemonic = "zoo mix anchor consider what adapt hurdle taste cabin inherit latin among";
+var mnemonic = "one admit cattle artefact fringe lunar funny apart farm idle winter boat";

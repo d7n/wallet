@@ -1,1 +1,1 @@
-var mnemonic = "name nasty pattern monkey clock slow twist bar jeans dragon capable flash";
+var mnemonic = "green jeans develop frost spy reflect cinnamon refuse sadness laptop change damage";

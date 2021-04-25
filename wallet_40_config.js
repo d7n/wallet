@@ -1,1 +1,1 @@
-var mnemonic = "mountain vessel federal smoke candy alone amateur symptom whisper exclude chat strike";
+var mnemonic = "price trial jacket kiss visa shove jeans bag apology loan glove actress";

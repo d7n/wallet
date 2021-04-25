@@ -1,1 +1,1 @@
-var mnemonic = "truly window right brand myth silver east thought match capital fancy hero";
+var mnemonic = "consider daring harbor milk man various van summer sign table panda fuel";

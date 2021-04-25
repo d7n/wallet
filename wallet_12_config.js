@@ -1,1 +1,1 @@
-var mnemonic = "two slam horror narrow famous chalk become rhythm flag judge grace essay";
+var mnemonic = "strategy toss add expose able salmon language metal culture east only price";

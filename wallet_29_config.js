@@ -1,1 +1,1 @@
-var mnemonic = "lab hole amount prevent dash glove glow few govern inflict project mutual";
+var mnemonic = "hockey rib awake bottom scene lens match sunset private system picture pride";

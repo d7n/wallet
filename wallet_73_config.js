@@ -1,1 +1,1 @@
-var mnemonic = "front attack danger boost place mention speak minute sketch rotate buddy dinosaur";
+var mnemonic = "divorce universe quit sick silk tomato hundred marble spot deputy saddle build";

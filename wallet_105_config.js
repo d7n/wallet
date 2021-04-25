@@ -1,1 +1,1 @@
-var mnemonic = "consider develop include pool purity near estate switch phrase clip outer picnic";
+var mnemonic = "replace opera coral daughter diet burden slogan dirt position lock maple danger";

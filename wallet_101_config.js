@@ -1,1 +1,1 @@
-var mnemonic = "bunker sure market smooth fold invite beauty stem mother invest various sign";
+var mnemonic = "whip evolve local guard cousin roast palm wrap suit elevator infant toy";

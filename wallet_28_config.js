@@ -1,1 +1,1 @@
-var mnemonic = "wonder state author hungry release brush same world bring idea general success";
+var mnemonic = "either grief shiver museum abstract honey shop cattle black mouse guitar decline";

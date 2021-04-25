@@ -1,1 +1,1 @@
-var mnemonic = "vague garden lumber embark rival produce face win badge insane rare enact";
+var mnemonic = "render ceiling hat inner lecture fix govern noodle round camera found assault";

@@ -1,1 +1,1 @@
-var mnemonic = "time kiss action tribe delay mom disease multiply plunge farm ability gloom";
+var mnemonic = "stool edge actual vast transfer submit salt symbol chicken pioneer quote region";

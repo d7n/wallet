@@ -1,1 +1,1 @@
-var mnemonic = "pact symptom stool still camera brisk cinnamon vocal scissors whip pizza enhance";
+var mnemonic = "meadow shiver twin feel glow knife leave fog argue village half road";

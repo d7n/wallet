@@ -1,1 +1,1 @@
-var mnemonic = "opera ozone rule club neck filter whale devote dry music coast diagram";
+var mnemonic = "casual ski pudding nuclear deposit make symbol globe shallow deer sock cactus";

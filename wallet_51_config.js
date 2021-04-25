@@ -1,1 +1,1 @@
-var mnemonic = "quit art shoulder panic art proud afraid message timber wealth gallery humble";
+var mnemonic = "cook property dentist salmon train cruise fashion credit merit deer business ten";

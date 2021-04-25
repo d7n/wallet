@@ -1,1 +1,1 @@
-var mnemonic = "wasp element length snap silent first pave mountain desert box quote lawsuit";
+var mnemonic = "alien simple wrestle faint base window success equip feed noise middle tenant";

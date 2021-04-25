@@ -1,1 +1,1 @@
-var mnemonic = "silver usage average bacon toss half detect salt river diagram any wink";
+var mnemonic = "eager guilt deny position hard slight anger patrol witness surround owner crawl";

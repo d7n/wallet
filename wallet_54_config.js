@@ -1,1 +1,1 @@
-var mnemonic = "curtain avoid robust replace find paddle impose wine gospel expand ivory tourist";
+var mnemonic = "recipe retire latin mango shoot enter gift dream wolf appear service tip";

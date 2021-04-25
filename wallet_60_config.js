@@ -1,1 +1,1 @@
-var mnemonic = "cram marble cart find define taxi earth green gym organ crunch weird";
+var mnemonic = "loud sell captain enable silver record expire dolphin turkey police soft explain";

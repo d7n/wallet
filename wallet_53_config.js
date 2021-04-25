@@ -1,1 +1,1 @@
-var mnemonic = "people oyster retreat apology burst dust pony spoil stone peanut century shift";
+var mnemonic = "lemon trim lobster okay wish cherry field comic hard garlic grit rebel";

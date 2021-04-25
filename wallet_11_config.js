@@ -1,1 +1,1 @@
-var mnemonic = "pig timber give rent flock spawn view useful birth melody excuse shoot";
+var mnemonic = "person unhappy toe dress kitten practice trash mesh there razor benefit idle";

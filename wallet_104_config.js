@@ -1,1 +1,1 @@
-var mnemonic = "travel strike champion grow riot stick height figure section brother include load";
+var mnemonic = "gasp transfer despair punch fossil pet future salad person bamboo learn crime";

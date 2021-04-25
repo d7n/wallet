@@ -1,1 +1,1 @@
-var mnemonic = "spray tortoise excite penalty during online decide business proof glory young disease";
+var mnemonic = "slow drift advice adult surround deliver purpose enact defy rescue plate bus";

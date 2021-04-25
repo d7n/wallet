@@ -1,1 +1,1 @@
-var mnemonic = "track decade ship boy hover amateur museum drop tool claw valid sphere";
+var mnemonic = "unusual infant alarm left feature regret note exact liquid deal damage urge";

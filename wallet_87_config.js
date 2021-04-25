@@ -1,1 +1,1 @@
-var mnemonic = "into bleak perfect will vehicle echo sausage finger ketchup corn vault scrub";
+var mnemonic = "rebuild develop huge math seed memory gym plastic leader evidence grain quarter";

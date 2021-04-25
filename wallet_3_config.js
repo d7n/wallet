@@ -1,1 +1,1 @@
-var mnemonic = "correct mesh local general scrap ship rare joke dignity school upon able";
+var mnemonic = "pepper aim vicious clinic fan they elephant essence cigar soup omit carbon";

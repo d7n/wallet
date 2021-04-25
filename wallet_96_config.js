@@ -1,1 +1,1 @@
-var mnemonic = "under cruise swing output spell trouble ugly target matrix forget attract awkward";
+var mnemonic = "seven tip destroy day seek sock once false certain first grief cover";

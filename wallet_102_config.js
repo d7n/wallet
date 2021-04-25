@@ -1,1 +1,1 @@
-var mnemonic = "advance settle output lobster rubber enjoy search rice zone violin bachelor immune";
+var mnemonic = "track recall useless slow broccoli vast quantum delay fashion shift custom foot";

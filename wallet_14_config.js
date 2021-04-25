@@ -1,1 +1,1 @@
-var mnemonic = "lake cheap party tiny miss duty section call absorb trial shuffle picnic";
+var mnemonic = "glory lock approve nose slender sadness enjoy feature toy slim peasant march";

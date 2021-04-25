@@ -1,1 +1,1 @@
-var mnemonic = "test inject survey allow oil order bronze stamp virus differ black sibling";
+var mnemonic = "denial fence deny panther question endless keen close believe side solar flash";

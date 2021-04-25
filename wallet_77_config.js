@@ -1,1 +1,1 @@
-var mnemonic = "indicate speak wire fame flag then example mirror load whale business puzzle";
+var mnemonic = "sun they aisle cream fat puppy claw glimpse rail round feed outdoor";

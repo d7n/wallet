@@ -1,1 +1,1 @@
-var mnemonic = "nature bird subject average clerk among cricket coast turtle hill concert hold";
+var mnemonic = "prefer loop wrap sword window pet small give assist retreat coach recall";

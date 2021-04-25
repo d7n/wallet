@@ -1,1 +1,1 @@
-var mnemonic = "useful vacuum mind van claw loud park melody edge trigger beyond brown";
+var mnemonic = "firm cherry miracle organ report pull girl range notice amount orient west";

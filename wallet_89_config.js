@@ -1,1 +1,1 @@
-var mnemonic = "fox high essay ability system attract kick permit common unique just drill";
+var mnemonic = "general hammer verb few cigar any soccer model repeat round bless uniform";

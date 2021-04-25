@@ -1,1 +1,1 @@
-var mnemonic = "coast during wise original craft food cable birth spy honey beauty shoulder";
+var mnemonic = "street control dish cattle forum prefer agree cinnamon resemble aerobic sketch tip";

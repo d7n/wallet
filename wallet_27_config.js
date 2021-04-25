@@ -1,1 +1,1 @@
-var mnemonic = "decade promote royal chunk screen keep erupt load slice salad blind ozone";
+var mnemonic = "library cheap kidney side hurt scissors between vapor board album know concert";

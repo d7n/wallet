@@ -1,1 +1,1 @@
-var mnemonic = "dice witness rib panther ahead grass matrix myself fun change charge romance";
+var mnemonic = "index dice mixture disagree casual holiday laptop shift will deliver report surround";

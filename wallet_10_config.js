@@ -1,1 +1,1 @@
-var mnemonic = "goddess elbow toe home leader humble tray put online erase comic truly";
+var mnemonic = "twelve sound cave seminar fire clock gym royal cotton engine churn update";

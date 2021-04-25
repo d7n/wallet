@@ -1,1 +1,1 @@
-var mnemonic = "window nerve extend height bicycle right very catalog wasp venture electric spoon";
+var mnemonic = "good profit usual tilt lottery crawl hero service reopen sing build soon";

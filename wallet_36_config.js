@@ -1,1 +1,1 @@
-var mnemonic = "code card hammer wedding inner garden result high short depart biology merit";
+var mnemonic = "feel match movie transfer brown wire volcano blind retire ball quarter neutral";

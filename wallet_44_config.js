@@ -1,1 +1,1 @@
-var mnemonic = "lady between skate sick size sausage note pink fatal give rival impulse";
+var mnemonic = "outdoor tennis retreat eager prevent trigger glad truck crime office mesh style";

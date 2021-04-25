@@ -1,1 +1,1 @@
-var mnemonic = "curve brother dog predict forum robot twelve analyst slow pen picnic ostrich";
+var mnemonic = "dash cinnamon glare essence engine peanut ice wealth blush horror laundry valid";

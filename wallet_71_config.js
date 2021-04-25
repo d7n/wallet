@@ -1,1 +1,1 @@
-var mnemonic = "fortune again remember unaware entry frog text brown roof town first awake";
+var mnemonic = "slight pupil math left jazz hero dream address caught equal again gaze";

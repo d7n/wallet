@@ -1,1 +1,1 @@
-var mnemonic = "surround nephew veteran law nest put release hundred quality wisdom car excuse";
+var mnemonic = "intact brand trade lonely gallery output cactus old another glow live tag";

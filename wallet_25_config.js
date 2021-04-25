@@ -1,1 +1,1 @@
-var mnemonic = "attack foam face raise pulp swallow coach voyage goddess ride inhale tumble";
+var mnemonic = "view transfer suffer curious profit venue sun gossip bridge survey tuition wrong";

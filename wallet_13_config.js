@@ -1,1 +1,1 @@
-var mnemonic = "sea evidence digital wage door replace time scout sketch fiscal craft visa";
+var mnemonic = "bubble uniform purity copy behind cook logic holiday cloth grain protect inject";

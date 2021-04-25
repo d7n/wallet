@@ -1,1 +1,1 @@
-var mnemonic = "time captain tunnel gym welcome world end produce merge useful female indicate";
+var mnemonic = "setup move kit book birth stay main clock truck congress thought tape";

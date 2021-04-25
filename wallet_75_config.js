@@ -1,1 +1,1 @@
-var mnemonic = "drip unhappy hedgehog woman candy maple embrace possible liberty addict bounce valley";
+var mnemonic = "reunion purpose eyebrow wrap want ginger scrub cinnamon april assault antenna match";

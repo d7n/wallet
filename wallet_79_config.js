@@ -1,1 +1,1 @@
-var mnemonic = "drink neither timber frame horror right describe exist donkey stem bind cattle";
+var mnemonic = "glue snap mesh rescue glove trip hen culture conduct flip major need";

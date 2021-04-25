@@ -1,1 +1,1 @@
-var mnemonic = "old machine original digital warfare object ecology innocent pact calm brief almost";
+var mnemonic = "invite weapon solid pole rice bench goddess bike tape memory concert cinnamon";

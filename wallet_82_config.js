@@ -1,1 +1,1 @@
-var mnemonic = "hundred blouse antenna acoustic shed mutual jar drum occur tilt tag proud";
+var mnemonic = "castle surge abandon place room file almost symbol action pear cycle couch";

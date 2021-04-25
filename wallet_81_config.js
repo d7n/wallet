@@ -1,1 +1,1 @@
-var mnemonic = "grow oxygen boring else myth horror kind royal paddle evidence reward vocal";
+var mnemonic = "title soup lock element hope rather print poverty super rail gadget art";

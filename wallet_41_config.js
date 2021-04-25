@@ -1,1 +1,1 @@
-var mnemonic = "nut gaze bullet nature spatial kiss bird silent price bunker meat grace";
+var mnemonic = "will chunk acid spatial web city finger jealous uphold power retreat mad";

@@ -1,1 +1,1 @@
-var mnemonic = "barrel saddle chronic pupil buddy record kite vicious chief room juice cargo";
+var mnemonic = "session problem will grief typical tower someone bundle split exhaust melody inspire";

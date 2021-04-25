@@ -1,1 +1,1 @@
-var mnemonic = "observe amount kite weapon oval update agree liquid pigeon hand lock time";
+var mnemonic = "system merit drastic vast peace unlock sweet vibrant text junior comic grocery";

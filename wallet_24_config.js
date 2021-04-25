@@ -1,1 +1,1 @@
-var mnemonic = "various people sign smoke tilt curve vote arch obscure garden fiber session";
+var mnemonic = "trouble cinnamon ginger measure bonus release flash world nothing tape earth spend";

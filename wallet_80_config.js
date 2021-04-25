@@ -1,1 +1,1 @@
-var mnemonic = "oyster cash energy enjoy expose artist miss pond turn ugly cart across";
+var mnemonic = "equal work prize post cloth next noise wine have vital rail enhance";

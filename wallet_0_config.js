@@ -1,1 +1,1 @@
-var mnemonic = "spatial smart tell health test peace journey that hip stumble wing valley";
+var mnemonic = "oil reunion draw vintage bomb supply fit oyster rural great provide evoke";

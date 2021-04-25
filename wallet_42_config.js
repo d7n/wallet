@@ -1,1 +1,1 @@
-var mnemonic = "canoe oyster fly copy desk brother veteran myself field coconut wedding lock";
+var mnemonic = "catalog barely census hybrid gasp common grace law release axis climb woman";

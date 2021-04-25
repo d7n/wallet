@@ -1,1 +1,1 @@
-var mnemonic = "blue solar cup outdoor lens change stem divide frame airport impact consider";
+var mnemonic = "soldier sign seat cloth awkward crush axis sphere taste own other behind";

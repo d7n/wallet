@@ -1,1 +1,1 @@
-var mnemonic = "opera evil web defy rubber media flush harbor help plunge general person";
+var mnemonic = "reward hub latin risk toast crunch bacon lesson mule gaze shoot brick";

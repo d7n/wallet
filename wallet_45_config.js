@@ -1,1 +1,1 @@
-var mnemonic = "equip venue fee office ask cheap link forward spirit nephew junk liberty";
+var mnemonic = "dentist defense answer reunion unveil reason rabbit laugh drop dizzy sauce mistake";

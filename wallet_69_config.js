@@ -1,1 +1,1 @@
-var mnemonic = "danger assist comic state polar close pledge cancel siren various physical extra";
+var mnemonic = "cluster scheme liquid also brass pig glance brown interest disease reunion man";

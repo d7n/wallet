@@ -1,1 +1,1 @@
-var mnemonic = "project voyage invest jazz file jeans wagon various atom layer wealth cream";
+var mnemonic = "ill cash oven evil liquid drum mountain before local shell unlock popular";

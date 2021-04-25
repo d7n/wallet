@@ -1,1 +1,1 @@
-var mnemonic = "spread dinosaur nation skate street potato unit little dinosaur indoor essence ill";
+var mnemonic = "search safe around burst virus gauge surface oxygen pupil muffin minute solar";

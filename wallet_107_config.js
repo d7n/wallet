@@ -1,1 +1,1 @@
-var mnemonic = "coil slam enact useful federal absurd napkin iron harvest parent latin direct";
+var mnemonic = "ivory hammer wage dolphin rude any affair skill symptom stand cruise unable";

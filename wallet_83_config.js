@@ -1,1 +1,1 @@
-var mnemonic = "merge sight pottery proud keen maple clerk dwarf change swear error tape";
+var mnemonic = "rent install bronze camera potato cradle shed dad blind novel before left";

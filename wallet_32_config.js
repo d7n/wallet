@@ -1,1 +1,1 @@
-var mnemonic = "flush impulse control remain hand you essence across swing paper fence match";
+var mnemonic = "govern dismiss bubble base rice thrive tonight cloud giraffe able type flower";

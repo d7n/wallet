@@ -1,1 +1,1 @@
-var mnemonic = "demise inner universe patrol script admit bright observe wrong occur faith innocent";
+var mnemonic = "outdoor push infant impose immune excuse thank absent strong when turkey bitter";

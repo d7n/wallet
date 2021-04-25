@@ -1,1 +1,1 @@
-var mnemonic = "brass hen hire submit front setup mesh cricket lake text hedgehog cable";
+var mnemonic = "grape rocket hold burden join crystal test nothing action globe field fade";

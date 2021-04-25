@@ -1,1 +1,1 @@
-var mnemonic = "frequent buyer human fossil divorce later swing output initial alley river auto";
+var mnemonic = "bird foot type custom february charge hurry jar pen frequent capable velvet";

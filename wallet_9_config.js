@@ -1,1 +1,1 @@
-var mnemonic = "wood memory butter lake eye employ latin ridge ghost decline sunny donate";
+var mnemonic = "cruise dove gesture make pond foil analyst brief define blood myself tank";

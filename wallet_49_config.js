@@ -1,1 +1,1 @@
-var mnemonic = "young live shop toast fence fork pill legal letter ready caution merry";
+var mnemonic = "forum basic tone envelope monkey quality feature strong health nurse master large";

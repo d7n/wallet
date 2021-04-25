@@ -1,1 +1,1 @@
-var mnemonic = "illegal clinic knee coconut spoon joke gas false winter ladder steel umbrella";
+var mnemonic = "gate ask fluid panther convince crumble mango general faint model first sword";

@@ -1,1 +1,1 @@
-var mnemonic = "junk excess awesome zone win check short owner soft latin fetch bottom";
+var mnemonic = "way destroy novel battle addict resist soft hour thunder hope ritual farm";

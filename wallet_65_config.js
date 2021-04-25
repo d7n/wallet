@@ -1,1 +1,1 @@
-var mnemonic = "vacant next solar motor wave truth wear debris matter mad gadget scout";
+var mnemonic = "bind cause awful always grunt monitor describe motor unaware pen chair chronic";

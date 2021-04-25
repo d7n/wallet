@@ -1,1 +1,1 @@
-var mnemonic = "ritual exist ticket atom rabbit crop near large receive group attract mask";
+var mnemonic = "vault also demise gorilla coconut age misery team smile together spike sword";

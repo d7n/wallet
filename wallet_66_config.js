@@ -1,1 +1,1 @@
-var mnemonic = "athlete element cheap burger finish split eagle spell this tip ozone rent";
+var mnemonic = "cushion kitchen squirrel ill wine mercy dose tree only traffic steel slide";

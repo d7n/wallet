@@ -1,1 +1,1 @@
-var mnemonic = "toilet one ready people hawk put flush dance pattern course flip abstract";
+var mnemonic = "claw manage auction sure stuff human fever valley total void flight gentle";

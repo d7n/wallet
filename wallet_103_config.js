@@ -1,1 +1,1 @@
-var mnemonic = "amateur wheat print menu pond awake lounge business female invest grab client";
+var mnemonic = "echo head people fabric glue whale put view blush silly surround joke";

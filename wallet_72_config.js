@@ -1,1 +1,1 @@
-var mnemonic = "hip ship inmate demise any oil ritual notable isolate tilt own multiply";
+var mnemonic = "uncover olympic sting dynamic south swim skirt crouch note among build either";

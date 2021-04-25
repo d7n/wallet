@@ -1,1 +1,1 @@
-var mnemonic = "riot expire bundle marriage space imitate ramp barely mother lyrics extra crane";
+var mnemonic = "injury toilet level fun crucial stadium purse space transfer evidence orbit day";

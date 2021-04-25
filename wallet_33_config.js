@@ -1,1 +1,1 @@
-var mnemonic = "dress beauty deer tool ski ordinary toward animal upgrade romance home employ";
+var mnemonic = "pear orchard elephant orbit reduce stuff staff inform hawk flip crisp cereal";

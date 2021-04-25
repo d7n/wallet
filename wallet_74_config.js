@@ -1,1 +1,1 @@
-var mnemonic = "hello supreme gap alpha roast banner toast drink jump elephant donor middle";
+var mnemonic = "north recipe company kit fatigue happy enforce picture brown jungle wheat sad";
