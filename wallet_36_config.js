@@ -1,1 +1,1 @@
-var mnemonic = "monitor jealous middle license donkey boat vacant shadow donor swim leader upon";
+var mnemonic = "merit bless yard airport fury link parade sample fame wild hood lawsuit";

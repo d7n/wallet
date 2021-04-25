@@ -1,1 +1,1 @@
-var mnemonic = "lady patch arrange exist warm engine topic carbon allow success bridge museum";
+var mnemonic = "tiger kidney mammal have critic figure isolate hint diagram mouse gauge pool";

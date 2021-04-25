@@ -1,1 +1,1 @@
-var mnemonic = "scare omit parade describe marble develop rookie auction brick jelly urban dutch";
+var mnemonic = "mobile outdoor about gaze dance obtain govern present junk globe brief later";

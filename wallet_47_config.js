@@ -1,1 +1,1 @@
-var mnemonic = "waste ankle mix purse uncle either ready sauce tumble desert resist saddle";
+var mnemonic = "switch donkey grief insane music fuel country number install resist wrist trim";

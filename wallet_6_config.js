@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow wife until ladder file remember hard verb pink imitate tragic arm";
+var mnemonic = "kick cheese column foil either jeans casino veteran battle acid empty firm";

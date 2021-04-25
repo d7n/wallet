@@ -1,1 +1,1 @@
-var mnemonic = "title task sleep clap unknown barely open suffer time dog purchase deposit";
+var mnemonic = "finger fit vibrant suit runway under victory bus security inquiry digital rib";

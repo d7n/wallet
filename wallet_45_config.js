@@ -1,1 +1,1 @@
-var mnemonic = "rigid quality capital trouble they danger canoe cake outdoor bullet that tape";
+var mnemonic = "nerve task guess barely volcano lady under firm quiz excess left gain";

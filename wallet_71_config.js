@@ -1,1 +1,1 @@
-var mnemonic = "there visa twelve donor cost mango slim thing setup hill kingdom barely";
+var mnemonic = "annual turkey ugly case gun injury orient town joke cherry fury middle";

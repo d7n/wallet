@@ -1,1 +1,1 @@
-var mnemonic = "animal flag oxygen peasant prize wonder trend topic amateur cook mistake beauty";
+var mnemonic = "artwork neutral pupil success safe egg problem chuckle lunar rifle fluid open";

@@ -1,1 +1,1 @@
-var mnemonic = "drift connect because direct old novel anchor despair offer update velvet artwork";
+var mnemonic = "moral danger danger resemble journey junk knock hand edit dismiss agree focus";

@@ -1,1 +1,1 @@
-var mnemonic = "style accuse crystal escape volume figure imitate above little inner lion rather";
+var mnemonic = "winner gold drink fit brave rhythm person news used error pretty awake";

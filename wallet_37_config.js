@@ -1,1 +1,1 @@
-var mnemonic = "frame obtain mule best pulp input wolf section unhappy shiver special cactus";
+var mnemonic = "round oyster rookie absent hip couple rare suggest evil aisle kidney stage";

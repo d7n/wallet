@@ -1,1 +1,1 @@
-var mnemonic = "lake raw ship exercise develop develop sight thing flame couch top ten";
+var mnemonic = "radar jewel artefact follow chest wild fiber sing luggage silk divorce dial";

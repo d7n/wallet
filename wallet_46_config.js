@@ -1,1 +1,1 @@
-var mnemonic = "release never alarm general lecture add crazy flame remain congress cram borrow";
+var mnemonic = "humble blush hood tail village pumpkin news pluck suffer pigeon uncover price";

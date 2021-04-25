@@ -1,1 +1,1 @@
-var mnemonic = "wear fix indoor labor typical above sample must observe worry rather again";
+var mnemonic = "dash theme whip upgrade wing kick case absent clean razor napkin sadness";

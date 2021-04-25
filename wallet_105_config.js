@@ -1,1 +1,1 @@
-var mnemonic = "alarm gaze sick want drop club subject acquire unveil claim there tube";
+var mnemonic = "melt close cupboard stay doll armor airport okay fiscal filter ice skull";

@@ -1,1 +1,1 @@
-var mnemonic = "lady price social stairs define disorder captain tourist true raccoon artefact horse";
+var mnemonic = "today sight gallery truck toilet close describe salon pencil already skull olympic";

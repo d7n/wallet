@@ -1,1 +1,1 @@
-var mnemonic = "almost draft design hire six end person spirit coffee vote like display";
+var mnemonic = "help present spice mimic lock elephant bullet wash choice web suggest source";

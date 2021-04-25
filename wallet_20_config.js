@@ -1,1 +1,1 @@
-var mnemonic = "cereal duck still control rude leopard enforce elder major cricket insane celery";
+var mnemonic = "umbrella toe hybrid ozone wagon echo eyebrow vibrant bottom adapt skill mixed";

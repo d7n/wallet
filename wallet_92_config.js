@@ -1,1 +1,1 @@
-var mnemonic = "rotate model whale pause script degree into cheap only praise logic ginger";
+var mnemonic = "caught two tenant husband lottery sting horror dilemma grace health amused affair";

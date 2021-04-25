@@ -1,1 +1,1 @@
-var mnemonic = "pepper custom casino olympic bench work become welcome shiver essay leg uncle";
+var mnemonic = "matrix open absurd rebuild sponsor valid apart educate wide earn title magnet";

@@ -1,1 +1,1 @@
-var mnemonic = "art actress neglect planet accuse inquiry grain wisdom height grace salon misery";
+var mnemonic = "enrich abuse thought tool country response saddle practice setup suspect cradle absurd";

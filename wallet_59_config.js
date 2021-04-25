@@ -1,1 +1,1 @@
-var mnemonic = "blouse sentence absorb put own mosquito off spread meadow roof large success";
+var mnemonic = "culture forget popular hundred bone disagree engine bundle nut update dry glass";

@@ -1,1 +1,1 @@
-var mnemonic = "mimic expire busy fresh outdoor nature canvas festival slush original pilot turtle";
+var mnemonic = "delay crop company region original inner garlic used noble dizzy resist exile";

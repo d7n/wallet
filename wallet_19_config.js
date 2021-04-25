@@ -1,1 +1,1 @@
-var mnemonic = "live offer divorce surge firm dress repeat rhythm bronze culture pull blossom";
+var mnemonic = "ritual master crisp perfect captain hazard mobile decade sibling isolate mimic fresh";

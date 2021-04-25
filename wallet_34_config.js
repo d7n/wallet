@@ -1,1 +1,1 @@
-var mnemonic = "injury until color body style hard vicious general clown actor own faculty";
+var mnemonic = "left caught enhance remain shy problem lunar post wall giant follow soccer";

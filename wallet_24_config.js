@@ -1,1 +1,1 @@
-var mnemonic = "purse sock mixture plug hour excess wrap access utility what fat broom";
+var mnemonic = "mutual robust walnut satisfy mean fiction enter body sad mind allow wall";

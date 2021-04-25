@@ -1,1 +1,1 @@
-var mnemonic = "kind artefact surge input analyst bone jeans because clutch quantum brand pig";
+var mnemonic = "hidden half possible pulse attend grain dress ice rapid shaft build mixture";

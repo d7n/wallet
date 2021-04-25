@@ -1,1 +1,1 @@
-var mnemonic = "blade cash puppy shrimp original cousin board normal zebra useless walnut sphere";
+var mnemonic = "ring kit thought hurdle speak baby gesture skull panic still stone vacuum";

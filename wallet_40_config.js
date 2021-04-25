@@ -1,1 +1,1 @@
-var mnemonic = "wrist orange evoke churn merge play fame furnace smooth lottery satoshi sick";
+var mnemonic = "century attack wash absorb heart ball denial charge despair sausage puzzle attend";

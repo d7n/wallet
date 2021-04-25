@@ -1,1 +1,1 @@
-var mnemonic = "achieve salad salute mandate differ tip castle civil ordinary toe usage radar";
+var mnemonic = "math right organ clip jealous soup route picnic kit monkey method around";

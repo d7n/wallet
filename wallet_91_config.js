@@ -1,1 +1,1 @@
-var mnemonic = "atom script hurry valley sail ready learn symbol street adult weapon general";
+var mnemonic = "hurry dish seven hole boring solar fever raw enter again boy gesture";

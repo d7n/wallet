@@ -1,1 +1,1 @@
-var mnemonic = "aware bubble female business front evidence bicycle limb cause milk pony tonight";
+var mnemonic = "minute north suffer effort whale throw enrich already divide leave increase raise";

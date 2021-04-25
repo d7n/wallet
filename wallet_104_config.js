@@ -1,1 +1,1 @@
-var mnemonic = "distance token broom disagree thought van purpose cruel alpha flee cactus wink";
+var mnemonic = "gaze resist coffee breeze fox nerve entry certain monster paddle fun sort";

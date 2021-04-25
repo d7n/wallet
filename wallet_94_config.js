@@ -1,1 +1,1 @@
-var mnemonic = "opinion youth sponsor secret cave glass finger hover turkey foil patrol fresh";
+var mnemonic = "toe upper medal flash tent grit vanish slender divert satisfy track month";

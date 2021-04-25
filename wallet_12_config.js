@@ -1,1 +1,1 @@
-var mnemonic = "session napkin traffic feed insane simple remain gather cruel burden poem cabin";
+var mnemonic = "barely wealth atom electric used female answer walnut protect heart skirt hub";

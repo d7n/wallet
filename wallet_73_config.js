@@ -1,1 +1,1 @@
-var mnemonic = "doctor token degree immense number burger sting mammal lake sense dice before";
+var mnemonic = "then ranch special renew green iron ramp rather fuel tilt rice fortune";

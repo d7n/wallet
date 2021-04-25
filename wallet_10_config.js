@@ -1,1 +1,1 @@
-var mnemonic = "climb digital favorite just tonight question ill play buzz market mobile siren";
+var mnemonic = "settle bundle name limb nasty rebuild such average churn cigar mom flash";

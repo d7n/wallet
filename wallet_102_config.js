@@ -1,1 +1,1 @@
-var mnemonic = "fog sleep sniff index echo metal salad feel suggest dove loyal session";
+var mnemonic = "noble ancient emerge cat album buddy rescue bus scare work hedgehog prepare";

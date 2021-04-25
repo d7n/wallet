@@ -1,1 +1,1 @@
-var mnemonic = "muffin job mouse letter agree screen easily farm stumble orient elder limit";
+var mnemonic = "agent noodle coconut priority wild fatal brush cheese element kit excuse churn";

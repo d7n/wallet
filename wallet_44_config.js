@@ -1,1 +1,1 @@
-var mnemonic = "spawn violin fancy try surprise plate gadget lumber maid neither february envelope";
+var mnemonic = "egg wagon teach cancel second gate account chair gold agent coil power";

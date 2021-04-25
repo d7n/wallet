@@ -1,1 +1,1 @@
-var mnemonic = "voyage liquid must proof secret swap snack detect shoe limit balcony dolphin";
+var mnemonic = "hungry gather purpose debris garment brick satoshi fluid build spare spawn ready";

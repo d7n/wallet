@@ -1,1 +1,1 @@
-var mnemonic = "empower lady push name else garbage health fortune unit thumb human oak";
+var mnemonic = "rubber tooth empty future alone pencil fatigue swift laundry nurse double festival";

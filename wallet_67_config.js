@@ -1,1 +1,1 @@
-var mnemonic = "warm blast release course demise secret nice worry place zero off scorpion";
+var mnemonic = "present jungle silk divorce rare night donor visual chaos urge stem decrease";

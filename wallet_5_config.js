@@ -1,1 +1,1 @@
-var mnemonic = "ride timber fox rather situate legal capable fatal original cake address carbon";
+var mnemonic = "neutral fox gift keen winter inch view build never broken fee someone";

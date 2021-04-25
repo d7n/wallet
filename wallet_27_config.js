@@ -1,1 +1,1 @@
-var mnemonic = "own hello income lawn key matrix garbage orphan gaze fabric blame mirror";
+var mnemonic = "stone begin inquiry summer visual potato laptop admit equal blood shock actor";

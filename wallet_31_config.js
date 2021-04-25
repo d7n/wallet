@@ -1,1 +1,1 @@
-var mnemonic = "enact flavor staff muscle clip school clutch maple fashion crater solve report";
+var mnemonic = "cigar bachelor funny penalty olympic flight blur enrich comfort allow royal rail";

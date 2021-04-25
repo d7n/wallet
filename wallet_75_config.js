@@ -1,1 +1,1 @@
-var mnemonic = "disagree repeat peanut describe brown fever animal avocado field garment certain network";
+var mnemonic = "harbor enrich jazz smile swear ozone scorpion foot general pigeon atom flat";

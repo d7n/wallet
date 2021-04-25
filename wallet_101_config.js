@@ -1,1 +1,1 @@
-var mnemonic = "helmet gospel theory scout approve apple until phrase correct pole tuition buzz";
+var mnemonic = "caution stamp cereal prevent expose luggage blue gasp inflict bitter below honey";

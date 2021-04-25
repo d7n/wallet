@@ -1,1 +1,1 @@
-var mnemonic = "chaos cat stage waste observe lyrics decade evidence dry crowd marriage scissors";
+var mnemonic = "time hen dinosaur poverty father scene book gift bleak direct square genre";

@@ -1,1 +1,1 @@
-var mnemonic = "noble wheel monkey spoil have favorite city glue absorb bone swing laptop";
+var mnemonic = "cash pretty employ photo unknown lawsuit quiz magic copy frame pupil sudden";

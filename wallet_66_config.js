@@ -1,1 +1,1 @@
-var mnemonic = "weapon stamp cabin ripple hole include next level remember claim vast claw";
+var mnemonic = "solve diagram vintage best pact attract baby patient remain move snow absurd";

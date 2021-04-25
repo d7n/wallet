@@ -1,1 +1,1 @@
-var mnemonic = "appear behave mirror open action portion section shrimp clever dune pitch come";
+var mnemonic = "nothing swim shield put cash erase muffin wrestle breeze swim piece trend";

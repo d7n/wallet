@@ -1,1 +1,1 @@
-var mnemonic = "side unable derive kidney trigger can box intact cruise pledge negative leave";
+var mnemonic = "rifle exclude boy chair utility asthma become shoe board purchase hard antenna";

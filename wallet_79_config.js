@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo future wing remain eye seed place rotate fuel mixture witness outdoor";
+var mnemonic = "file sample nest predict squirrel degree cross taxi engine attend hello fabric";

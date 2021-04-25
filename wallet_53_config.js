@@ -1,1 +1,1 @@
-var mnemonic = "one right choice beyond ring equip soldier crowd banana shuffle panda humor";
+var mnemonic = "holiday bamboo clever olympic post fragile bomb stuff spare catch swift certain";

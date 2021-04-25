@@ -1,1 +1,1 @@
-var mnemonic = "twice rib foot skin core fine become response laugh access disagree test";
+var mnemonic = "matter repair dune unhappy future slam extra dash whisper enjoy extra icon";

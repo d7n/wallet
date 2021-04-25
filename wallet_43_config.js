@@ -1,1 +1,1 @@
-var mnemonic = "stereo scare shrimp pet supreme slice unaware transfer color hedgehog dust survey";
+var mnemonic = "liberty door bridge stadium nephew cruel cereal century long outdoor view level";

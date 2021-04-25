@@ -1,1 +1,1 @@
-var mnemonic = "also stove tell ride way submit elephant shoot joy legend rack vague";
+var mnemonic = "fiber evoke walk marine media fury federal plunge pigeon battle talent away";

@@ -1,1 +1,1 @@
-var mnemonic = "naive cable into gloom bike echo sentence pear rail artwork garden pear";
+var mnemonic = "humor roof safe wolf noise caution that basic attitude unique infant general";

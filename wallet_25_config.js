@@ -1,1 +1,1 @@
-var mnemonic = "outside develop until season cave bottom this yellow rookie episode sense aim";
+var mnemonic = "document depend whip subway push thought amazing fog pencil middle snake avocado";

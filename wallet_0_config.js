@@ -1,1 +1,1 @@
-var mnemonic = "text axis meat health hub setup hedgehog abuse sister panic walnut wrap";
+var mnemonic = "cake duty planet rail humor during knock hover april between razor cricket";

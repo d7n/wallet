@@ -1,1 +1,1 @@
-var mnemonic = "venue chef unveil nominee harvest double skirt kick have dragon dentist huge";
+var mnemonic = "shallow work swing speak gravity food intact avocado mom excuse nut chest";

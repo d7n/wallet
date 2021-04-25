@@ -1,1 +1,1 @@
-var mnemonic = "crew juice behave swim image note food labor anger raw transfer need";
+var mnemonic = "void agent detail real nerve powder object deal usage develop soul achieve";

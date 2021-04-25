@@ -1,1 +1,1 @@
-var mnemonic = "glimpse honey riot news ill will kind river orphan ridge cycle hip";
+var mnemonic = "lyrics wagon maximum long trash axis kitchen runway this top grab butter";

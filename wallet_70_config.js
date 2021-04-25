@@ -1,1 +1,1 @@
-var mnemonic = "claim march poet ozone day tiny primary lobster cheese scout since hedgehog";
+var mnemonic = "code clutch run siege forward shoulder please basic trust that best rent";

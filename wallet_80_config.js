@@ -1,1 +1,1 @@
-var mnemonic = "basic kick badge victory palace type wise sad bag setup feel stem";
+var mnemonic = "own equip ladder fish fancy tornado dove allow brown myself inform vast";

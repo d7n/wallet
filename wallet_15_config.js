@@ -1,1 +1,1 @@
-var mnemonic = "kid eternal picture canvas lizard tumble crunch venue birth cave mesh peace";
+var mnemonic = "element push ripple derive radio kitchen defense believe develop measure beach trim";

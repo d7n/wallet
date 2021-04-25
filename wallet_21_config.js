@@ -1,1 +1,1 @@
-var mnemonic = "submit blame wet slim couple dutch random inmate turtle kitchen earn island";
+var mnemonic = "climb doctor ignore drink mandate impose cannon evolve keep frog detect solar";

@@ -1,1 +1,1 @@
-var mnemonic = "salmon foster nasty rely foam initial cradle blind fault laundry sight kick";
+var mnemonic = "entire yellow lesson silent prepare ridge tool rug mistake detect mammal current";

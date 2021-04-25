@@ -1,1 +1,1 @@
-var mnemonic = "portion rack live unknown south skill wrist pig bleak dilemma jump twice";
+var mnemonic = "caught move stand cabin cruel ghost depth breeze place monkey index feed";

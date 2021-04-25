@@ -1,1 +1,1 @@
-var mnemonic = "language scorpion learn obtain method attend symbol false water tell transfer pony";
+var mnemonic = "fashion reduce guess three true amateur awesome surround scout police wrong hunt";

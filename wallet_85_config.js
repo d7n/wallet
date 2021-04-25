@@ -1,1 +1,1 @@
-var mnemonic = "help near tent over ball skin accuse knock work opinion couple resist";
+var mnemonic = "novel inhale select enemy stool destroy journey govern siege suspect income weasel";

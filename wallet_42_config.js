@@ -1,1 +1,1 @@
-var mnemonic = "upon fatigue metal tuition beach quantum daughter assist dismiss zebra age current";
+var mnemonic = "identify science lamp gauge dream oppose that mask retreat coast sadness enhance";

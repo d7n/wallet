@@ -1,1 +1,1 @@
-var mnemonic = "feature rug gasp since exchange arrest blossom kitchen weather horse fetch copper";
+var mnemonic = "finger taste display super donate roast guess welcome orphan deal circle opera";

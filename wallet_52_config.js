@@ -1,1 +1,1 @@
-var mnemonic = "journey spring carry walnut camp angle family donor where balcony clever notice";
+var mnemonic = "asset shoot brush gloom wire slender novel notable match board industry capital";

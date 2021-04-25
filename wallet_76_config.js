@@ -1,1 +1,1 @@
-var mnemonic = "pudding orchard hour tooth essence rude random ice rifle crumble rice play";
+var mnemonic = "extend edge remove bubble where transfer method misery length expect battle corn";

@@ -1,1 +1,1 @@
-var mnemonic = "aerobic brush grit involve jungle focus notable still vintage sorry garage play";
+var mnemonic = "burden member episode view short nothing spider airport alcohol turn royal husband";

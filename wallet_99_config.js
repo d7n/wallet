@@ -1,1 +1,1 @@
-var mnemonic = "side delay double spawn mammal believe trust angry curve owner harbor fox";
+var mnemonic = "hazard feature cactus when verify rate define danger enforce hero toy silver";

@@ -1,1 +1,1 @@
-var mnemonic = "fiction river cancel income tongue whip drama lunch million method iron bring";
+var mnemonic = "flash term purpose slight pattern ready fork favorite vanish excess release exercise";

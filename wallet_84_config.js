@@ -1,1 +1,1 @@
-var mnemonic = "habit harbor salad proof owner okay case quarter dice vintage weird key";
+var mnemonic = "build welcome cry solution chimney swallow wear pave across melt cause fabric";

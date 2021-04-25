@@ -1,1 +1,1 @@
-var mnemonic = "original bronze style imitate anchor scrap unveil pill excite adapt want bitter";
+var mnemonic = "style riot kangaroo token decide any excite utility stadium rebuild curtain minor";

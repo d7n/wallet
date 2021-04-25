@@ -1,1 +1,1 @@
-var mnemonic = "stuff country quantum purse fame season nurse carry pizza mouse mean kingdom";
+var mnemonic = "degree wolf main eternal feed siege boat country actress split mountain suit";

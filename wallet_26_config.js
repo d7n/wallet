@@ -1,1 +1,1 @@
-var mnemonic = "neck reward ten pluck symptom soft around hard welcome ticket rival base";
+var mnemonic = "desert solution skull long renew obtain left wheat turkey damage inherit ankle";

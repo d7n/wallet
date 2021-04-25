@@ -1,1 +1,1 @@
-var mnemonic = "arrest cave daring cat primary sort similar viable tube stereo tag nature";
+var mnemonic = "example dial rail leave gentle wrong picnic pull vast deal exist welcome";

@@ -1,1 +1,1 @@
-var mnemonic = "excite endless fuel wear ride exact key above void cart entire muscle";
+var mnemonic = "atom know number rocket afraid wool ostrich cause stereo moral south alarm";

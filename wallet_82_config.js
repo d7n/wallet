@@ -1,1 +1,1 @@
-var mnemonic = "elite senior collect castle call coach prevent drift horn kid target blast";
+var mnemonic = "squeeze photo omit bamboo cigar survey into pencil tongue forget appear survey";

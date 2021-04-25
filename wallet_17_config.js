@@ -1,1 +1,1 @@
-var mnemonic = "crumble cactus current what orange giraffe modify coyote awful quote woman federal";
+var mnemonic = "wagon armor pulp flag hazard stadium faculty duty love lecture jar any";

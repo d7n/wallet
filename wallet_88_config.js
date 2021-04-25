@@ -1,1 +1,1 @@
-var mnemonic = "federal invite empty soccer welcome course verify there dust abandon ball empower";
+var mnemonic = "deputy brisk chase decade sauce exit clean fatigue surprise tragic galaxy elite";

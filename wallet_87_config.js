@@ -1,1 +1,1 @@
-var mnemonic = "funny tonight valley evolve since virtual burst obscure detect crawl hold glide";
+var mnemonic = "artefact suggest notable flip guide diet embody easy scene door wolf jungle";

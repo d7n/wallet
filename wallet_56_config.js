@@ -1,1 +1,1 @@
-var mnemonic = "eight sleep south father deer junior dinosaur gain base lottery organ napkin";
+var mnemonic = "elephant plate spice drop twice habit dirt dwarf acid rival slush wait";

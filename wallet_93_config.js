@@ -1,1 +1,1 @@
-var mnemonic = "donkey topple laundry move laugh tree work liar around hand island run";
+var mnemonic = "jazz flip cactus clever blush merry present crash midnight sort avoid pact";

@@ -1,1 +1,1 @@
-var mnemonic = "clutch meat category increase work ceiling sad term camp unknown kangaroo school";
+var mnemonic = "great two melt skull analyst visit intact distance admit faith drift chat";
