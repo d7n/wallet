@@ -1,1 +1,1 @@
-var mnemonic = "kit ship pulse trophy essence dolphin jelly frog advance walk material march";
+var mnemonic = "intact cereal toy fancy elbow duty exclude aunt year milk awkward color";

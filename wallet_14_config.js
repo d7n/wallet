@@ -1,1 +1,1 @@
-var mnemonic = "close two unlock sight possible brand empty fringe addict canvas hub social";
+var mnemonic = "phone pause unhappy say later broom nose draft pretty pumpkin snake tenant";

@@ -1,1 +1,1 @@
-var mnemonic = "kitchen deny december onion monkey april drastic teach pass wreck buyer wall";
+var mnemonic = "blue horn regular interest diagram render sun tribe busy almost quantum burger";

@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo pact vessel connect neglect solve limit please crowd rifle couch liberty";
+var mnemonic = "describe spider loyal acid certain pact tag capable advance dumb sponsor little";

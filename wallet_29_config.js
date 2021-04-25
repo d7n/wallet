@@ -1,1 +1,1 @@
-var mnemonic = "rebel rigid opera horse phrase ketchup affair awesome blue chronic catch item";
+var mnemonic = "another actress erode vote twist lawn assist chair pet warfare reward repair";

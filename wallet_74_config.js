@@ -1,1 +1,1 @@
-var mnemonic = "eye fit raccoon solve nephew scrap edit saddle emerge coast ring detect";
+var mnemonic = "slow misery lion airport drastic feel beauty soldier undo horn luxury cube";

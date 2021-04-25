@@ -1,1 +1,1 @@
-var mnemonic = "before pioneer must tone found sudden comic trick useful lift mean grief";
+var mnemonic = "ecology silent foam ancient ride evil asset chat case absorb office poverty";

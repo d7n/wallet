@@ -1,1 +1,1 @@
-var mnemonic = "sword machine family retreat suspect glide banner clog mutual bunker ring food";
+var mnemonic = "tunnel snow goose hammer traffic broccoli hero artefact now priority diamond exit";

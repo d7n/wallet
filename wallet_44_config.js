@@ -1,1 +1,1 @@
-var mnemonic = "cushion lonely festival flavor tomato pilot fog exercise surround dwarf palm dust";
+var mnemonic = "awake emerge celery pistol table flat slab gate prevent govern sample dress";

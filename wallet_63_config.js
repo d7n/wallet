@@ -1,1 +1,1 @@
-var mnemonic = "minor speak sight narrow wire tide among object letter crop blossom exercise";
+var mnemonic = "copy pass suit infant crowd vacuum dust hurt vacant cat tilt hobby";

@@ -1,1 +1,1 @@
-var mnemonic = "latin medal sniff empower dose tiny fiscal between scorpion such walk laundry";
+var mnemonic = "mercy survey risk sunset open jaguar piano whip toward cement shaft hen";

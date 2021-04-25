@@ -1,1 +1,1 @@
-var mnemonic = "tragic number cook twelve spare now heart hand meat glance put noodle";
+var mnemonic = "problem neither consider burger matter glare peanut skill soft addict minute large";

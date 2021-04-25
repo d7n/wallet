@@ -1,1 +1,1 @@
-var mnemonic = "degree trust draft company clarify earth reduce orange bunker lottery field roast";
+var mnemonic = "weather fringe right insect find prevent minimum resist flat escape fortune paddle";

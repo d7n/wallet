@@ -1,1 +1,1 @@
-var mnemonic = "casino fabric eyebrow various canoe zoo rapid online jar thought fame fitness";
+var mnemonic = "winter guide fix envelope immune shuffle skin alcohol token spot shy weather";

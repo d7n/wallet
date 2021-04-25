@@ -1,1 +1,1 @@
-var mnemonic = "remove little give dash improve unaware hand law venue replace bike bless";
+var mnemonic = "boost clown prepare concert dynamic drift piano alone perfect under latin copper";

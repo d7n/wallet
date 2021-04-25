@@ -1,1 +1,1 @@
-var mnemonic = "echo produce tackle friend trim dash basic century quit spatial barely sadness";
+var mnemonic = "unveil palace conduct able vessel sadness weapon jump napkin supply rose mimic";

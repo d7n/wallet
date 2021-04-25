@@ -1,1 +1,1 @@
-var mnemonic = "parent degree remove fat hammer pumpkin adjust ahead learn acoustic awkward element";
+var mnemonic = "anchor jungle human pink stumble basket clarify session permit trap pill isolate";

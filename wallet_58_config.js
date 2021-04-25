@@ -1,1 +1,1 @@
-var mnemonic = "depth grass bullet worry tilt border wealth clown museum size quarter pool";
+var mnemonic = "chimney summer square acoustic inhale hello hour opinion quick monkey sort smart";

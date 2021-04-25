@@ -1,1 +1,1 @@
-var mnemonic = "head mad unlock illness typical chat empty area elevator quantum destroy club";
+var mnemonic = "exact clay subject detail admit gain rough one oblige empty crowd there";

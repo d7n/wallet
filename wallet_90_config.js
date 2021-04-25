@@ -1,1 +1,1 @@
-var mnemonic = "cradle woman defy sad cloud wheel cake roast dynamic limb patient spell";
+var mnemonic = "urge swift elevator notice capital sign learn glass pioneer abuse host dose";

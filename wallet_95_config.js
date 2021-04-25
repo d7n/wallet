@@ -1,1 +1,1 @@
-var mnemonic = "drastic time unknown grass scatter pitch gravity frozen burst crew produce repeat";
+var mnemonic = "soul pond skirt economy horn gift wrap veteran recipe drink caution style";

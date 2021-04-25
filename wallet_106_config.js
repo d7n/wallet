@@ -1,1 +1,1 @@
-var mnemonic = "fan narrow color series weapon avoid stand torch velvet little boring peace";
+var mnemonic = "guess crack thunder promote chimney measure work rival horn side cat pitch";

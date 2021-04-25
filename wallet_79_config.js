@@ -1,1 +1,1 @@
-var mnemonic = "much day scorpion curious silent mountain solar possible square project scale opera";
+var mnemonic = "adult strategy frown exile modify lemon cotton van shield culture unfair evil";

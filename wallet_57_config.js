@@ -1,1 +1,1 @@
-var mnemonic = "vapor shield elephant inherit cool future lottery negative jeans action puppy relief";
+var mnemonic = "cattle style empty panther artefact saddle economy life length aspect guilt cactus";

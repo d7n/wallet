@@ -1,1 +1,1 @@
-var mnemonic = "devote fat equal random dog idle goose drive goose joke rate glad";
+var mnemonic = "swift barrel bottom chase slow defense grape saddle cushion clip engine space";

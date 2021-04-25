@@ -1,1 +1,1 @@
-var mnemonic = "twin imitate unusual more silver cram inquiry ensure spray online pelican cupboard";
+var mnemonic = "announce hurt try clock broccoli chase total carry legal cube eternal tool";

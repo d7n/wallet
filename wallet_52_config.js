@@ -1,1 +1,1 @@
-var mnemonic = "pole oval taxi cost cherry sentence spike rabbit couple chicken unfair girl";
+var mnemonic = "unable tongue brush silver volume news decrease dog sad sudden hobby lonely";

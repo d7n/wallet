@@ -1,1 +1,1 @@
-var mnemonic = "stove deal birth simple sausage guide buzz lion prosper umbrella enhance shield";
+var mnemonic = "similar fortune rice visit coconut horror entire smooth elegant second range earn";

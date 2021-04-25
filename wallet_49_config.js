@@ -1,1 +1,1 @@
-var mnemonic = "cloud nest feature good rail enemy nerve deliver treat swear achieve mirror";
+var mnemonic = "moon dad lunch anxiety spread devote egg crush december knife phone life";

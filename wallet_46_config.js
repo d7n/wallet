@@ -1,1 +1,1 @@
-var mnemonic = "museum noble actor same harvest romance flash turkey theory afraid unknown meadow";
+var mnemonic = "recipe goat aerobic cross taxi can book final trumpet shiver insect appear";

@@ -1,1 +1,1 @@
-var mnemonic = "cage oval water upper door barely mimic ticket crawl tooth output post";
+var mnemonic = "west approve cloth wagon twelve lucky police thunder gesture brief smart double";

@@ -1,1 +1,1 @@
-var mnemonic = "tiger extend mask pill correct mango snake network tag enact success section";
+var mnemonic = "glide estate document craft royal upset lift goat park burst pizza step";

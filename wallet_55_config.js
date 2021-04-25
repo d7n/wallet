@@ -1,1 +1,1 @@
-var mnemonic = "burger exhibit there omit guard option between bleak horn hole strike provide";
+var mnemonic = "hood north traffic outside seminar hundred giggle ginger immense seminar stick slice";

@@ -1,1 +1,1 @@
-var mnemonic = "approve hint wreck track useful bachelor fiscal hood affair fragile visa repeat";
+var mnemonic = "fury loop swift clump random slice ill tortoise ginger field calm error";

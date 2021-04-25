@@ -1,1 +1,1 @@
-var mnemonic = "fringe ankle trial that bronze narrow dial demand captain pepper roof exhibit";
+var mnemonic = "proud tool stage fold language wolf erase menu clock dose neck great";

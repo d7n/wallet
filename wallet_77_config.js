@@ -1,1 +1,1 @@
-var mnemonic = "account motor real milk aware rich where such mass struggle offer mobile";
+var mnemonic = "laugh enemy zoo renew fog banana just vapor limit raven cluster accident";

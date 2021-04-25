@@ -1,1 +1,1 @@
-var mnemonic = "tower paper student knife click struggle shop display library return exercise inherit";
+var mnemonic = "sight miss love grid rule post crisp nasty pledge blood bright artist";

@@ -1,1 +1,1 @@
-var mnemonic = "under crunch glimpse foot select sport enable chuckle vintage where blade bounce";
+var mnemonic = "autumn ozone pumpkin divert deposit render federal memory because mobile poem rescue";

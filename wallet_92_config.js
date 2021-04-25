@@ -1,1 +1,1 @@
-var mnemonic = "drink announce what kiwi ordinary rescue almost bunker shallow pulp luggage horror";
+var mnemonic = "lazy upper cruise seven pill salt laugh slide erase effort record arrange";

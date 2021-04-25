@@ -1,1 +1,1 @@
-var mnemonic = "dentist zoo right soul special indoor bacon height thrive awkward cost idea";
+var mnemonic = "shock slow end chaos balcony you action kick manage clarify damage begin";

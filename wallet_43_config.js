@@ -1,1 +1,1 @@
-var mnemonic = "document stuff parrot barrel expand pyramid imitate host strong buyer damage treat";
+var mnemonic = "this orient beyond hurry balcony mimic soup deposit hundred hub final embark";

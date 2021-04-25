@@ -1,1 +1,1 @@
-var mnemonic = "gentle crucial fine mutual hawk card roof stomach undo pizza wrap fetch";
+var mnemonic = "real judge stick slight heavy noodle swallow genre gravity seven worth document";

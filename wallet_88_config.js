@@ -1,1 +1,1 @@
-var mnemonic = "humor brief potato acoustic visit melt either tooth enact actual image police";
+var mnemonic = "fossil nice angry glimpse club fluid kidney steel strike fragile valley fold";

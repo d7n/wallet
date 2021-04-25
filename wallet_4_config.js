@@ -1,1 +1,1 @@
-var mnemonic = "step common fade involve salute unfair disease matrix zoo bicycle thank island";
+var mnemonic = "tilt picnic family crunch rocket gadget current hero desk mom style skill";

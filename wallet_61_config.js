@@ -1,1 +1,1 @@
-var mnemonic = "begin thing jelly aim barrel swing shrimp swallow inquiry when job cannon";
+var mnemonic = "mutual riot party erode master subway monitor clever rubber leader pond fire";

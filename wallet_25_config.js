@@ -1,1 +1,1 @@
-var mnemonic = "flavor title reduce direct motor toast crowd time banana nest random guilt";
+var mnemonic = "little jealous unhappy coil honey receive violin prevent tortoise across spread jaguar";

@@ -1,1 +1,1 @@
-var mnemonic = "raven dragon cube hope supply veteran boil critic exhibit neck valve elegant";
+var mnemonic = "tip flock join attend display farm metal wrist deputy limb budget three";

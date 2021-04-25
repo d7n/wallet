@@ -1,1 +1,1 @@
-var mnemonic = "van excite crouch lecture permit slot cycle culture cupboard loud fatigue cupboard";
+var mnemonic = "disease jaguar dinosaur dust video crisp federal fringe defense vapor bargain toy";

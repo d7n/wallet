@@ -1,1 +1,1 @@
-var mnemonic = "wall march ability happy cargo federal top episode innocent pipe roast kid";
+var mnemonic = "bulb rocket element address reform fat give dove merry ladder march problem";

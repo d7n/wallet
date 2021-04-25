@@ -1,1 +1,1 @@
-var mnemonic = "castle claw caution fantasy essence nest doctor meat collect item pond club";
+var mnemonic = "fat risk bulb toe actual begin urban grass dinosaur harbor borrow camp";

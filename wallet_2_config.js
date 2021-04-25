@@ -1,1 +1,1 @@
-var mnemonic = "among impose need hero patch shoot crowd hybrid powder oblige satisfy remain";
+var mnemonic = "game license coyote warfare blanket real vacant surround shiver canvas lift diary";

@@ -1,1 +1,1 @@
-var mnemonic = "dry stick same hunt length notice lizard hat control define basic exhaust";
+var mnemonic = "deliver ugly advice hammer reason tennis involve catch action divert art sauce";

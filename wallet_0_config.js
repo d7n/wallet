@@ -1,1 +1,1 @@
-var mnemonic = "intact husband cost base alert afraid journey visit cube father lemon family";
+var mnemonic = "jungle wise guitar dial lesson devote air glad similar fabric true render";

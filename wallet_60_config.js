@@ -1,1 +1,1 @@
-var mnemonic = "depend hazard antenna grant tissue doll wreck avocado school quiz denial donate";
+var mnemonic = "glad come skin crunch prevent age hint inject mango select escape blame";

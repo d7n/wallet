@@ -1,1 +1,1 @@
-var mnemonic = "allow soft execute cheese stuff soul hire cable retreat ask donate nothing";
+var mnemonic = "ceiling lady lion gauge potato tooth monitor practice salmon mesh source lend";

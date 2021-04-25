@@ -1,1 +1,1 @@
-var mnemonic = "mountain creek iron ignore jacket payment slab nation curtain any clap dinner";
+var mnemonic = "spell actor erode stove rule file moral acoustic witness gospel hedgehog toast";

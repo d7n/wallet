@@ -1,1 +1,1 @@
-var mnemonic = "journey shift toy position rug mansion indicate cushion lava insane poet call";
+var mnemonic = "just push future torch learn husband bread actress near labor behave patient";

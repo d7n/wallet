@@ -1,1 +1,1 @@
-var mnemonic = "other treat better gesture friend neither slow chronic acoustic differ purity today";
+var mnemonic = "lion wrong ketchup drama lizard solar hire math total convince year blood";

@@ -1,1 +1,1 @@
-var mnemonic = "minor spot enlist enough cabbage neutral lobster oak poet decide issue gate";
+var mnemonic = "method trumpet puppy flock culture fish response hint festival tip omit teach";

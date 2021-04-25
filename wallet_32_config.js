@@ -1,1 +1,1 @@
-var mnemonic = "broken life foam degree battle drift wash web base mean absurd inherit";
+var mnemonic = "because put beyond sadness aerobic abuse adjust know leg danger polar margin";

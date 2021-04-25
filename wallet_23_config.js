@@ -1,1 +1,1 @@
-var mnemonic = "crumble solid muscle fog elder antenna brick century once accident charge hero";
+var mnemonic = "ready saddle modify dry toilet title hire issue crack fit clerk riot";

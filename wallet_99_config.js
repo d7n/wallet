@@ -1,1 +1,1 @@
-var mnemonic = "glare teach color defy correct damage rate public rebel ketchup throw almost";
+var mnemonic = "crater seek balcony soccer village lemon fence very recycle mushroom novel raven";

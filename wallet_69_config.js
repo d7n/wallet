@@ -1,1 +1,1 @@
-var mnemonic = "cliff cool okay cream already chapter will hurry cliff device layer genius";
+var mnemonic = "twenty sense senior tide reveal soup clip symbol comic protect cherry fruit";

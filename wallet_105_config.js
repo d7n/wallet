@@ -1,1 +1,1 @@
-var mnemonic = "spare found clarify artist myth duty cereal style income heavy science tray";
+var mnemonic = "phone monster junior absurd mother wedding run tribe color source elegant chronic";

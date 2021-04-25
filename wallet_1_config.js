@@ -1,1 +1,1 @@
-var mnemonic = "inflict tell quick arm alert ginger better ticket cattle video baby damp";
+var mnemonic = "tornado cargo ranch square guess donkey awful talent orchard bridge draft nest";

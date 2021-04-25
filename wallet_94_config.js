@@ -1,1 +1,1 @@
-var mnemonic = "midnight glance bacon winner torch raw noble trouble practice addict below frost";
+var mnemonic = "middle sure juice medal buffalo consider female help depart feel brave raccoon";

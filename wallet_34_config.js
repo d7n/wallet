@@ -1,1 +1,1 @@
-var mnemonic = "birth defense concert chair cattle sketch click oven decorate truly sick patch";
+var mnemonic = "knock uncle metal suit talent six pact crazy ready buffalo inquiry laptop";

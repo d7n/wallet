@@ -1,1 +1,1 @@
-var mnemonic = "rural click cruel country pepper satoshi hidden cousin laptop valley label cabbage";
+var mnemonic = "ethics imitate file sea wash patient drip stool alarm unveil shed aware";

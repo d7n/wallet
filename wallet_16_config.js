@@ -1,1 +1,1 @@
-var mnemonic = "candy grief mother icon belt shoulder yard travel license credit absorb illness";
+var mnemonic = "pyramid blush property path first arena trust album husband song hurt weather";

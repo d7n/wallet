@@ -1,1 +1,1 @@
-var mnemonic = "wild where process evil olive profit myth wet razor broom egg unaware";
+var mnemonic = "cheese audit canyon hero tissue smoke thing grass robot bitter night twist";

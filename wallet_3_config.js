@@ -1,1 +1,1 @@
-var mnemonic = "leg nose find panther sadness limit miss rebuild alcohol hockey engine become";
+var mnemonic = "need hood hammer road toast describe pattern solution tackle swamp orient easy";

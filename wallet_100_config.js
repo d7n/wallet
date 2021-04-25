@@ -1,1 +1,1 @@
-var mnemonic = "tail federal catch trick tower document silver butter magnet hand panther lonely";
+var mnemonic = "find vintage nation rival boat point flight slab laugh memory craft add";

@@ -1,1 +1,1 @@
-var mnemonic = "note jar can faculty trumpet heart kingdom inflict index olive now ripple";
+var mnemonic = "sting remind ribbon sunny sister father trumpet fatigue glance hundred dinosaur utility";

@@ -1,1 +1,1 @@
-var mnemonic = "subway piano news remind save swap steel pudding athlete entry limit slight";
+var mnemonic = "throw erode seminar fence enhance comfort viable idle copper mass foster bunker";

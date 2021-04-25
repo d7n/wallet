@@ -1,1 +1,1 @@
-var mnemonic = "memory draft purity sister affair must output noise hope enact object laundry";
+var mnemonic = "reunion remove soup chief inmate source virtual glue limb master attend cluster";

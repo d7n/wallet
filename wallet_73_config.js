@@ -1,1 +1,1 @@
-var mnemonic = "anger hammer piano host open disorder bulk above caught cat someone check";
+var mnemonic = "piece tail hurry short video clinic business match approve reopen view comic";

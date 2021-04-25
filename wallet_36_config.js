@@ -1,1 +1,1 @@
-var mnemonic = "smoke random cloth eager carry purse office chronic oak later era vanish";
+var mnemonic = "length thrive great tenant worry drum aspect song decade first refuse proud";

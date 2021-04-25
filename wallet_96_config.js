@@ -1,1 +1,1 @@
-var mnemonic = "old taxi radar enemy strike spoil dirt author gasp zone deliver caution";
+var mnemonic = "order vehicle moment silent funny media eternal enhance float fit city chief";

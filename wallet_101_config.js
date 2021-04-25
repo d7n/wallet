@@ -1,1 +1,1 @@
-var mnemonic = "safe liquid goose muffin since advance escape cereal jump fish tobacco liquid";
+var mnemonic = "gain average wasp plate phone lava refuse body practice region wool digital";

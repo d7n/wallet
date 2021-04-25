@@ -1,1 +1,1 @@
-var mnemonic = "rather brown spice double area add breeze hip nephew reform night slight";
+var mnemonic = "quit cup shoulder feel connect vault girl duty brother noise ordinary brush";

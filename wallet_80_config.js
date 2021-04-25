@@ -1,1 +1,1 @@
-var mnemonic = "simple retreat crop two rhythm result first exhibit era alpha change viable";
+var mnemonic = "echo glimpse cloud know author accident cross glue element turtle universe smooth";

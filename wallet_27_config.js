@@ -1,1 +1,1 @@
-var mnemonic = "stem snow embody bean catch meadow someone tower patch crowd help window";
+var mnemonic = "mad memory sound economy retire high evidence trial destroy stay riot core";

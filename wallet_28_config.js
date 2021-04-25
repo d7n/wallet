@@ -1,1 +1,1 @@
-var mnemonic = "praise grant fiber laugh mobile cactus vacant garment distance input tip midnight";
+var mnemonic = "solid match guess achieve security naive chair wisdom whale truly deposit notable";

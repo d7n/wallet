@@ -1,1 +1,1 @@
-var mnemonic = "silk foam tree fatigue chat month useless dish industry teach blade timber";
+var mnemonic = "april moon motion erode join bench blush blossom topple accident exhaust rare";

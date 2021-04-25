@@ -1,1 +1,1 @@
-var mnemonic = "dinner party praise six space firm charge knee ball village destroy become";
+var mnemonic = "token clip enact pumpkin crucial provide annual crowd cost fringe whisper hurt";

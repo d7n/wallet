@@ -1,1 +1,1 @@
-var mnemonic = "beyond glide uniform describe lizard vapor rough rabbit moral fun sadness satisfy";
+var mnemonic = "scheme wool theme census rack exotic range amateur flame wealth raccoon city";

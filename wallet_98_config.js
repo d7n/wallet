@@ -1,1 +1,1 @@
-var mnemonic = "frost whip curtain orbit area olympic nerve carpet cannon upon glove forward";
+var mnemonic = "glide resource gown draw visit where blind float tumble south similar miss";

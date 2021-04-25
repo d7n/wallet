@@ -1,1 +1,1 @@
-var mnemonic = "impact alcohol leg worth oven worry remain harbor girl chuckle fat tribe";
+var mnemonic = "vapor govern strong reward credit tag okay frown mix when mask flash";
