@@ -1,1 +1,1 @@
-var mnemonic = "enhance perfect baby pelican beef anxiety subject often letter plunge horse paper";
+var mnemonic = "offer post symbol capital hope toe upper liquid bundle fox borrow bless";

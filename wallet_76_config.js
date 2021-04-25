@@ -1,1 +1,1 @@
-var mnemonic = "dry course physical margin lobster other attend joy pill buyer typical there";
+var mnemonic = "exchange identify salon stick asthma coconut miracle settle use rebuild hobby morning";

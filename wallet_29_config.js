@@ -1,1 +1,1 @@
-var mnemonic = "hundred say wink waste rug slam dizzy zone bus wait wood reward";
+var mnemonic = "body seminar remain minimum net security keen lava earth page today town";

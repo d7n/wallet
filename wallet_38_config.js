@@ -1,1 +1,1 @@
-var mnemonic = "zoo erosion topple start satisfy marble purse matrix vague essence language sweet";
+var mnemonic = "case duty entire notice half machine raise margin gym click achieve sunny";

@@ -1,1 +1,1 @@
-var mnemonic = "ocean hill loud fresh govern use busy stool goddess matter funny surprise";
+var mnemonic = "audit aspect punch monitor brief brisk sunny reveal drift bag coin cushion";

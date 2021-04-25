@@ -1,1 +1,1 @@
-var mnemonic = "pear give office purchase grass myth chunk wash canoe setup layer august";
+var mnemonic = "ranch struggle awesome typical off farm jaguar choose spoil phone tank renew";

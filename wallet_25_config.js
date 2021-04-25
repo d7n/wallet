@@ -1,1 +1,1 @@
-var mnemonic = "buffalo verify sniff mountain movie guess bonus dry neglect toilet enforce repeat";
+var mnemonic = "hover village sudden second bamboo claw vital private add behave oak betray";

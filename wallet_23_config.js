@@ -1,1 +1,1 @@
-var mnemonic = "still glove lecture manual volcano much orange suffer august sure choose walnut";
+var mnemonic = "spray uniform lunch gun vehicle vocal village spin barrel business favorite rigid";

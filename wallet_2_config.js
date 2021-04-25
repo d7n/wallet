@@ -1,1 +1,1 @@
-var mnemonic = "depart cave better nation shock inject genius edit refuse flock curious enlist";
+var mnemonic = "thing angry exclude noise tomorrow sort useful myth duty virtual tower bonus";

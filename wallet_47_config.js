@@ -1,1 +1,1 @@
-var mnemonic = "depend nest thank marine mother atom middle light pencil business fly nose";
+var mnemonic = "lucky idle window front price parade rural supreme clown link maze poverty";

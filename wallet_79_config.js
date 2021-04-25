@@ -1,1 +1,1 @@
-var mnemonic = "iron forget ahead stove rubber hammer bundle job genius tube uncle capable";
+var mnemonic = "tourist awkward business lonely frozen drum brush spread flock marriage drive above";

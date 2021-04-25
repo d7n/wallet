@@ -1,1 +1,1 @@
-var mnemonic = "exercise grow under rifle inherit visit fault antenna carry unable sibling embrace";
+var mnemonic = "company giraffe rifle snack hen aim shallow cinnamon this ship cook choice";

@@ -1,1 +1,1 @@
-var mnemonic = "jeans slam receive chuckle citizen marble inhale undo task true lab earth";
+var mnemonic = "canvas immense next put vintage video faint cute garbage inquiry alcohol outdoor";

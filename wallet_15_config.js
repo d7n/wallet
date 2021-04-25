@@ -1,1 +1,1 @@
-var mnemonic = "resist plate play success guide cry analyst tail gown mansion click gentle";
+var mnemonic = "genius save garage liberty fun bean side patch balcony destroy source modify";

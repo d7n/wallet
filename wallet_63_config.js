@@ -1,1 +1,1 @@
-var mnemonic = "enrich zebra subject sorry feel royal crazy destroy blouse milk ozone tell";
+var mnemonic = "visual loop screen gun affair couch trophy wool shuffle spring grit novel";

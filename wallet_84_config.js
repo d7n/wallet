@@ -1,1 +1,1 @@
-var mnemonic = "blush behind moment right amateur click day layer brick act large team";
+var mnemonic = "year catch speak risk return warm enroll tag festival half hill area";

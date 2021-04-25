@@ -1,1 +1,1 @@
-var mnemonic = "vacant subway agent hotel domain office blind normal monster ticket cabbage congress";
+var mnemonic = "horse ocean shadow riot diagram satisfy escape escape mistake link animal vault";

@@ -1,1 +1,1 @@
-var mnemonic = "object ribbon police circle globe farm frost south weasel happy comfort spoil";
+var mnemonic = "trophy nephew father ticket globe want manage mirror draw brush prepare leopard";

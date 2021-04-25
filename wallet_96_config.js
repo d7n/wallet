@@ -1,1 +1,1 @@
-var mnemonic = "farm scatter river december rally thumb auction paddle enjoy feature fancy heavy";
+var mnemonic = "danger business damage find spoon impulse vacuum elite note jar space tilt";

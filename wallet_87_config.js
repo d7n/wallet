@@ -1,1 +1,1 @@
-var mnemonic = "remain thought october crash impose grace spare floor maid dream history joke";
+var mnemonic = "snow relief mail sentence gaze snake club trash orient also maple emotion";

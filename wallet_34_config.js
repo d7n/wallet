@@ -1,1 +1,1 @@
-var mnemonic = "equal also drop gospel song barrel short loop best people mask spell";
+var mnemonic = "quarter inherit gown final avoid air turkey fuel engage found embrace style";

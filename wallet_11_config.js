@@ -1,1 +1,1 @@
-var mnemonic = "entire license dentist such fame receive actor afraid reflect picture menu giraffe";
+var mnemonic = "deliver ritual endorse word crack ice rail steel invest practice volcano host";

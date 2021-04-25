@@ -1,1 +1,1 @@
-var mnemonic = "author uniform wise soul daughter feed company toy million raise shrug cat";
+var mnemonic = "skill interest odor horror alone virtual beauty lizard hero pen envelope dune";

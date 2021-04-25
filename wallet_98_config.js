@@ -1,1 +1,1 @@
-var mnemonic = "cash water prize approve rifle grass language rare roast ignore vibrant fault";
+var mnemonic = "cargo extend secret sustain flat together kick surprise impulse crowd tree sun";

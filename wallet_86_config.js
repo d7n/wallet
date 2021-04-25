@@ -1,1 +1,1 @@
-var mnemonic = "turn family there gaze wash swamp emotion lazy rule clap spare mass";
+var mnemonic = "credit addict pencil near alpha slender portion fantasy exit check predict ugly";

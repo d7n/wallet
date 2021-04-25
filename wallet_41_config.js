@@ -1,1 +1,1 @@
-var mnemonic = "cupboard artwork pact area wrong matrix shift tiger laundry try cheap pottery";
+var mnemonic = "execute harsh pelican absent swing tuition leave proud extra whip fold coral";

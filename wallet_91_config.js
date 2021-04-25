@@ -1,1 +1,1 @@
-var mnemonic = "coin legend run egg thrive angle forest alert catch they snack police";
+var mnemonic = "noodle twice access birth raise marine ski mango sing job tunnel sniff";

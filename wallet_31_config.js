@@ -1,1 +1,1 @@
-var mnemonic = "tag mechanic calm midnight lizard vacuum round high brave produce pencil suspect";
+var mnemonic = "mixture fee mask cancel bind lottery already grape can issue wealth liquid";

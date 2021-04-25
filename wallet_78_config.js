@@ -1,1 +1,1 @@
-var mnemonic = "mango crucial elephant biology waste sea fault garage effort one lounge just";
+var mnemonic = "mad legal fossil extend street come prize erosion depth frost since keep";

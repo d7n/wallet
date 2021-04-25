@@ -1,1 +1,1 @@
-var mnemonic = "future wash roast install syrup obtain agree cause hybrid trade good arctic";
+var mnemonic = "sauce news health train disorder make typical into decorate soda leisure tiny";

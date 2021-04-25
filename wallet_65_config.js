@@ -1,1 +1,1 @@
-var mnemonic = "human summer jewel raise curtain rocket another ketchup scorpion scrap alert decline";
+var mnemonic = "security collect whisper excess glory donkey series base lounge shrug swear useful";

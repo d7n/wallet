@@ -1,1 +1,1 @@
-var mnemonic = "glass snack feature thrive law purity toy angry size feel mad click";
+var mnemonic = "eagle curve question divorce crouch defense soul breeze wink buyer burst ethics";

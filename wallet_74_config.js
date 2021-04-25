@@ -1,1 +1,1 @@
-var mnemonic = "lizard mean alone spread blame civil pond pretty toss pink clap smooth";
+var mnemonic = "laugh father spatial uniform wrap sauce drastic example fiction cool maze thing";

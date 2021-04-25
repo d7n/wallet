@@ -1,1 +1,1 @@
-var mnemonic = "century horse swear expire snack spatial attack limb vocal clump bundle suggest";
+var mnemonic = "rug setup fortune century enforce prevent boy reunion call today cereal salad";

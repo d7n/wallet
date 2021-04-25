@@ -1,1 +1,1 @@
-var mnemonic = "sing patrol benefit fun gain punch cute column output coyote soup input";
+var mnemonic = "club joke cluster group spy dog spread trophy gallery better second service";

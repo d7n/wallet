@@ -1,1 +1,1 @@
-var mnemonic = "test glue cute truth early yellow buffalo attend fetch chimney cannon gorilla";
+var mnemonic = "update vicious twelve plastic tone wife uncover clever infant awesome ivory shift";

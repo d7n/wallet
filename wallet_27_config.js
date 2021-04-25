@@ -1,1 +1,1 @@
-var mnemonic = "attract hockey person faculty chat april volcano gown dutch matter finish surround";
+var mnemonic = "fury network dog mistake law spice gloom bless myth best spray spell";

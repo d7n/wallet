@@ -1,1 +1,1 @@
-var mnemonic = "scan gun volume display inquiry try blind forum solar upgrade deliver benefit";
+var mnemonic = "modify maid bargain walnut grief oven step upper ready fog beauty tennis";

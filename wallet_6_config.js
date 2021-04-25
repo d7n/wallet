@@ -1,1 +1,1 @@
-var mnemonic = "business trick sibling erase express easy rare anxiety print thunder mouse never";
+var mnemonic = "fit capable tumble left phrase upgrade east turkey topic thought lift expire";

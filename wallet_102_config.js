@@ -1,1 +1,1 @@
-var mnemonic = "rocket mixed violin excite glance use bring blood bag pepper mixture filter";
+var mnemonic = "private loan slide regular priority destroy cradle perfect vivid spread gather destroy";

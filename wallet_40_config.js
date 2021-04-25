@@ -1,1 +1,1 @@
-var mnemonic = "shoulder economy nephew right knife invest antique relief plastic alter keep glimpse";
+var mnemonic = "clinic wealth puzzle nephew wild swift fringe dove slow foam ranch floor";

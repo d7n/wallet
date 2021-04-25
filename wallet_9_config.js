@@ -1,1 +1,1 @@
-var mnemonic = "clump topic dial marriage mango goose click essence razor need inhale bulb";
+var mnemonic = "joke involve oil news north glad episode swarm mother silk bridge extend";

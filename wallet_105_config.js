@@ -1,1 +1,1 @@
-var mnemonic = "praise miss shiver kick meat hour indicate autumn virus ski strong donor";
+var mnemonic = "song supreme coyote example gauge slam token swap media outside quit sand";

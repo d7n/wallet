@@ -1,1 +1,1 @@
-var mnemonic = "glass side february alone pill mercy ticket melt sun voice proof knife";
+var mnemonic = "congress dust fish act inch penalty topple mail oven wool soldier retire";

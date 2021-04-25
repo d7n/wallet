@@ -1,1 +1,1 @@
-var mnemonic = "sniff undo puppy kick trumpet forget powder novel marine border leopard cherry";
+var mnemonic = "guess rival garment ocean innocent whisper hair expire river trophy enrich volcano";

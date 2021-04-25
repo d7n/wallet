@@ -1,1 +1,1 @@
-var mnemonic = "mouse brush add shed equal frozen donate million judge camera warm return";
+var mnemonic = "model call distance ripple error humor meat kiwi hole lounge enroll destroy";

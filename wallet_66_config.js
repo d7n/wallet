@@ -1,1 +1,1 @@
-var mnemonic = "zoo couple leisure first weird budget food cram matter stuff satisfy fan";
+var mnemonic = "trade strong iron unfold buffalo share state chuckle attract neither crack please";

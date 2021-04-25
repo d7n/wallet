@@ -1,1 +1,1 @@
-var mnemonic = "buzz stove dune absurd side retreat attract verb cause elegant wood tourist";
+var mnemonic = "demand hollow charge cheap betray unlock giraffe reduce better sunny second half";

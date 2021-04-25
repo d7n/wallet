@@ -1,1 +1,1 @@
-var mnemonic = "fall supreme party unit million tomorrow prevent october surface side crowd day";
+var mnemonic = "device amazing fossil walk lab solid distance shoot journey glue color fringe";

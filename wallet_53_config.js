@@ -1,1 +1,1 @@
-var mnemonic = "olive luxury camera sphere deputy source hard bridge below hundred grape guard";
+var mnemonic = "clever armor panda prosper before lonely sense east easily cabbage gallery shock";

@@ -1,1 +1,1 @@
-var mnemonic = "glove spray parent sister outside index public alone tennis viable craft spike";
+var mnemonic = "dinner barely mystery garment edge dust reopen example daughter thunder dust erase";

@@ -1,1 +1,1 @@
-var mnemonic = "cherry rude spring gorilla trend soup stove enter wide gadget cake fan";
+var mnemonic = "screen zoo welcome age truly brush mercy remove glow negative change fan";

@@ -1,1 +1,1 @@
-var mnemonic = "must genuine swallow bus brand border sick trim thunder state gym derive";
+var mnemonic = "mechanic smoke brother excuse sleep lady rose cram water deliver news parade";

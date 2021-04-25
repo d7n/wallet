@@ -1,1 +1,1 @@
-var mnemonic = "family general real leave page pipe fancy layer equip price symptom use";
+var mnemonic = "memory position chief burst energy razor teach length clean receive divorce issue";

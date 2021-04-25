@@ -1,1 +1,1 @@
-var mnemonic = "head oval tray length remind faculty grow state unusual fall knock promote";
+var mnemonic = "metal ancient spread school kiss large initial still scrap dash segment need";

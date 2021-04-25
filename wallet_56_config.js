@@ -1,1 +1,1 @@
-var mnemonic = "help marriage result draft unable junior fatigue table coyote engine light artist";
+var mnemonic = "match satisfy sketch know various ask seed brain move observe essay present";

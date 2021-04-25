@@ -1,1 +1,1 @@
-var mnemonic = "fancy entire frozen desk wool sock speak food mercy topic robot tiger";
+var mnemonic = "install canal cause wolf confirm jelly ride fault inmate cruel shoot wet";

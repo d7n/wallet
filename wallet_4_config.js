@@ -1,1 +1,1 @@
-var mnemonic = "gap timber double sock cable pyramid hurt rail reflect outer diamond quit";
+var mnemonic = "ride yard left helmet kit school wheel forum physical badge bitter asthma";

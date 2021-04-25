@@ -1,1 +1,1 @@
-var mnemonic = "another arrow total upon couch iron flock hero fabric have cinnamon trim";
+var mnemonic = "stadium cheese topic asthma keep combine flight frost wet trip control guess";

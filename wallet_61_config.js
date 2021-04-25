@@ -1,1 +1,1 @@
-var mnemonic = "dutch shove verify shift taste top casual panel flight giraffe fix regular";
+var mnemonic = "wet session million sun glue switch warm tone glide breeze castle gas";

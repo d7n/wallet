@@ -1,1 +1,1 @@
-var mnemonic = "lock among gym slot vacuum disagree skin dwarf bridge sand milk stand";
+var mnemonic = "wheel loop method weather chair rule talk repair vanish wild swear owner";

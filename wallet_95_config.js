@@ -1,1 +1,1 @@
-var mnemonic = "crazy sustain funny hip reunion proof spawn rug unique trial stick wonder";
+var mnemonic = "polar blossom right runway garbage mushroom fatigue piece vehicle lobster crumble sell";

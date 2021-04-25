@@ -1,1 +1,1 @@
-var mnemonic = "retreat attract tiger dignity always math dice execute gallery supply color toy";
+var mnemonic = "smooth keen paper scan sheriff supreme trigger life company whisper since join";

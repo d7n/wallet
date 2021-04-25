@@ -1,1 +1,1 @@
-var mnemonic = "fabric simple fire record toast lazy hat plug fatigue nose there endorse";
+var mnemonic = "auction process impact language vapor balcony alien fantasy vague champion among column";

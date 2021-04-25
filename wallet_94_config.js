@@ -1,1 +1,1 @@
-var mnemonic = "net ecology program divide rice egg parrot advance mask atom dismiss cigar";
+var mnemonic = "truth panther coin diet crazy shine key coyote quiz learn fun object";

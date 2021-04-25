@@ -1,1 +1,1 @@
-var mnemonic = "actor oxygen soul typical struggle sample hotel section burden heavy silk immune";
+var mnemonic = "match enrich almost provide danger nasty range solar august soul snap term";

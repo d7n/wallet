@@ -1,1 +1,1 @@
-var mnemonic = "first elbow tide snap luxury rather seat dumb current sister prosper hospital";
+var mnemonic = "mushroom inhale smart gallery fall volcano include either oven diesel prefer obtain";

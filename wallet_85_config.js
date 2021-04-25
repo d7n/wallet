@@ -1,1 +1,1 @@
-var mnemonic = "begin educate assault acoustic minor action uncover elegant fatal buzz reward title";
+var mnemonic = "want canyon lab gym robot stand ski learn dove enforce meat rifle";

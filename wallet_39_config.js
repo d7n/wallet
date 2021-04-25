@@ -1,1 +1,1 @@
-var mnemonic = "response memory useless convince law sure water unhappy soul toast spring help";
+var mnemonic = "focus language movie man abstract huge frown page parade phrase feel buddy";

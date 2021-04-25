@@ -1,1 +1,1 @@
-var mnemonic = "once bag extra monitor culture risk invite style arch base elevator gym";
+var mnemonic = "taxi valve clown stereo fault address season stick flag slot brother afraid";

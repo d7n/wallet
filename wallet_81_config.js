@@ -1,1 +1,1 @@
-var mnemonic = "fine source invite machine silver episode island rely cruise food arrest roast";
+var mnemonic = "elder book seat sweet fringe setup federal sport issue return chunk okay";

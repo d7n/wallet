@@ -1,1 +1,1 @@
-var mnemonic = "gown plate dune moral tube average earn skin silent sight card use";
+var mnemonic = "artefact shuffle swamp couple fresh base snake midnight enrich access hair purity";

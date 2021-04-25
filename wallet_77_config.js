@@ -1,1 +1,1 @@
-var mnemonic = "soap basket home weasel impact chicken craft accuse turtle glance fever garden";
+var mnemonic = "street blind tank swallow avocado sea license call obvious melt adapt middle";

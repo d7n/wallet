@@ -1,1 +1,1 @@
-var mnemonic = "cruel spray peasant clay tribe alcohol tent amused tennis online rebel clarify";
+var mnemonic = "maple casino tiny subway little sphere coral safe talent virus attract brush";

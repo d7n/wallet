@@ -1,1 +1,1 @@
-var mnemonic = "catalog world gallery scatter tube dwarf curious pen quit deposit rigid cheap";
+var mnemonic = "animal clerk omit lake embrace impose trick wheel join mechanic type collect";

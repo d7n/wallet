@@ -1,1 +1,1 @@
-var mnemonic = "pretty figure sand wrap course detail crane annual steel crime submit knife";
+var mnemonic = "powder giraffe goose round salt crawl tribe guitar start danger fruit tomato";

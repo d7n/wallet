@@ -1,1 +1,1 @@
-var mnemonic = "crowd fetch dutch loan below melt leg trigger child bless blood panel";
+var mnemonic = "exact decline else pyramid enhance wood grace volume emerge decade wisdom flee";

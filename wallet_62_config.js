@@ -1,1 +1,1 @@
-var mnemonic = "humor drastic split sentence rocket alter advance match auto return eyebrow click";
+var mnemonic = "bulb palm mixed sheriff table gasp whip roof shy antenna dove heavy";

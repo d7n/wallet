@@ -1,1 +1,1 @@
-var mnemonic = "twist power clock jelly else pottery shift manual aspect height report degree";
+var mnemonic = "dash hand often grant afford echo report payment verify notable process that";

@@ -1,1 +1,1 @@
-var mnemonic = "early table solid fancy sock hammer crunch electric elevator apart bachelor garbage";
+var mnemonic = "eight raw announce rabbit invest vehicle minor virus bulb exercise nice dance";

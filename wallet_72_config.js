@@ -1,1 +1,1 @@
-var mnemonic = "pull afford soft love spare undo action cargo exact crisp dentist worth";
+var mnemonic = "cement mule echo improve they army fragile nuclear rich secret seek skill";

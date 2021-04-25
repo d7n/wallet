@@ -1,1 +1,1 @@
-var mnemonic = "save ivory reward exercise head hidden pride mango loan canyon sausage okay";
+var mnemonic = "village rain put load atom luggage similar avocado call abstract fortune robot";

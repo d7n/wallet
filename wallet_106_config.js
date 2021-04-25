@@ -1,1 +1,1 @@
-var mnemonic = "uphold battle give marble coral cactus game author domain embark stadium modify";
+var mnemonic = "catch body taxi bachelor absent motor mechanic inquiry wire diamond desk that";

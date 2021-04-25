@@ -1,1 +1,1 @@
-var mnemonic = "unusual orchard round note jealous kid diary woman baby patrol offer scrub";
+var mnemonic = "famous return tattoo horror kiwi height gasp purchase rule just shaft sock";

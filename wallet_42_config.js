@@ -1,1 +1,1 @@
-var mnemonic = "garage chimney menu dinosaur syrup box enjoy ivory blanket food cube stool";
+var mnemonic = "cage enforce certain arch hurt city vintage genuine dry fan teach valve";

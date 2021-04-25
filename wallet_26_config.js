@@ -1,1 +1,1 @@
-var mnemonic = "actress gun spell nest clown jar pretty race beef rally kidney toilet";
+var mnemonic = "unlock motion original cupboard table laptop fee element window away sponsor pave";

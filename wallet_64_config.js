@@ -1,1 +1,1 @@
-var mnemonic = "divide during tide purity shaft gap fashion skull exhibit home afraid essence";
+var mnemonic = "stable bargain vapor always congress model come taxi mass rebuild begin oval";

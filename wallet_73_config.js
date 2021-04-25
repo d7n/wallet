@@ -1,1 +1,1 @@
-var mnemonic = "mansion hip egg olympic mercy flame human negative coral gas raccoon orphan";
+var mnemonic = "scheme hold armed harbor injury purchase concert cable pride gloom menu sea";

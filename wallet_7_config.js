@@ -1,1 +1,1 @@
-var mnemonic = "stool wool fee loop world topic shrug grant require mind photo evolve";
+var mnemonic = "group slab auto early setup roast toilet foam prepare version leisure insane";

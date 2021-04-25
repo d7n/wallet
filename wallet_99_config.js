@@ -1,1 +1,1 @@
-var mnemonic = "sphere price raccoon argue target actress near bulk ozone range tomato include";
+var mnemonic = "lucky member require unable monitor light add bring rough legal kingdom thumb";

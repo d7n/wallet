@@ -1,1 +1,1 @@
-var mnemonic = "version morning cupboard tree polar snack broccoli trick real olive parent tank";
+var mnemonic = "select lemon egg finger drive comic grant lock file twenty forest cabbage";
