@@ -1,1 +1,1 @@
-var mnemonic = "hold kitten artwork surge good truth tail eagle skate cereal cabin sheriff";
+var mnemonic = "cat gorilla patch able nothing attend gold derive obtain ice steak ridge";

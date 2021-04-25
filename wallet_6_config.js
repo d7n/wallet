@@ -1,1 +1,1 @@
-var mnemonic = "survey orphan future lesson alter pistol typical target whip nuclear army chuckle";
+var mnemonic = "wrestle eternal life crane category hole come grid door drink palace guard";

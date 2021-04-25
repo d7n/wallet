@@ -1,1 +1,1 @@
-var mnemonic = "zoo stool wink wear stone float cram unveil pupil visa whisper label";
+var mnemonic = "morning piece chef move sample police dignity mention slow desk conduct sick";

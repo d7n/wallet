@@ -1,1 +1,1 @@
-var mnemonic = "sponsor mixed frog attack post scan multiply undo punch property cat next";
+var mnemonic = "taxi autumn twenty symptom net matter library outer concert glimpse candy able";

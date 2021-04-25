@@ -1,1 +1,1 @@
-var mnemonic = "risk discover blanket frozen entry raccoon ability tail poem snow turkey soldier";
+var mnemonic = "ball collect another forest boost one treat stuff protect strong dune evoke";

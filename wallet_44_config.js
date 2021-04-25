@@ -1,1 +1,1 @@
-var mnemonic = "escape minor purchase noise topic trouble level appear cram boss upgrade room";
+var mnemonic = "member chat host achieve amused nominee price stumble twelve media hour unhappy";

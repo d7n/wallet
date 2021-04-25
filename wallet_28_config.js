@@ -1,1 +1,1 @@
-var mnemonic = "nest piano pool sister oxygen horse portion alley reveal exotic again winner";
+var mnemonic = "scare warm kiss hope vanish want save robust bus history awful near";

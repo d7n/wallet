@@ -1,1 +1,1 @@
-var mnemonic = "pool mail play novel ladder mansion stable notable day various hold alter";
+var mnemonic = "mobile alter cattle cram morning arena staff young start obscure other plunge";

@@ -1,1 +1,1 @@
-var mnemonic = "physical tree liquid canal either grab chair solid fox unknown clump jacket";
+var mnemonic = "clump magic dove student know genre tree sweet route comic permit liquid";

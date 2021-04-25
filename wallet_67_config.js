@@ -1,1 +1,1 @@
-var mnemonic = "patient isolate bus woman toe maid fence sunny place soldier crash story";
+var mnemonic = "help off immense federal option bachelor include guilt volcano second orient shoot";

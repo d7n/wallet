@@ -1,1 +1,1 @@
-var mnemonic = "vocal huge network bamboo easily people pulse trim upgrade fame ritual wage";
+var mnemonic = "faint world melody become degree narrow spider body what spike maze leopard";

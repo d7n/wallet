@@ -1,1 +1,1 @@
-var mnemonic = "depth tooth velvet teach window someone bag book trend access pear pear";
+var mnemonic = "gloom task lobster ghost vibrant short dragon stove opera office behind shrimp";

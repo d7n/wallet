@@ -1,1 +1,1 @@
-var mnemonic = "believe tired beauty silent inform appear genuine fitness buddy inherit wreck metal";
+var mnemonic = "lyrics resist since wife steel dash consider ankle empty couch gentle repeat";

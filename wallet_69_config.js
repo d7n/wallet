@@ -1,1 +1,1 @@
-var mnemonic = "slogan recycle thumb begin tumble isolate bid law lemon around open future";
+var mnemonic = "dish panther mule joy draw any lady bar spider prevent gain limb";

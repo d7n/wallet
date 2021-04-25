@@ -1,1 +1,1 @@
-var mnemonic = "kitten boss toddler puzzle basket awake velvet faith price photo logic desk";
+var mnemonic = "crush genre head fruit surprise fiction cool spread inhale oak refuse rib";

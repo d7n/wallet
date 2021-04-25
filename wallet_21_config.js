@@ -1,1 +1,1 @@
-var mnemonic = "profit motor wreck motion umbrella view copper minor olympic twin crumble envelope";
+var mnemonic = "sunny fly that peanut tank north model double cannon swallow later brain";

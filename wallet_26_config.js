@@ -1,1 +1,1 @@
-var mnemonic = "pencil vivid crush moment box resemble twin solve claw wave sauce belt";
+var mnemonic = "tooth reason humble soldier waste luxury retreat walnut access fragile fortune uniform";

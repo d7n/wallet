@@ -1,1 +1,1 @@
-var mnemonic = "indicate steel card web sell brave lion lamp defy render parade clarify";
+var mnemonic = "notice tribe fog jazz actress faint brain barrel correct peanut lift permit";

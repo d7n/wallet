@@ -1,1 +1,1 @@
-var mnemonic = "have inspire tattoo odor replace venture feature aware slice swear light involve";
+var mnemonic = "habit belt ice seven original unit marriage asset chimney tool income slice";

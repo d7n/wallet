@@ -1,1 +1,1 @@
-var mnemonic = "audit seat open obvious foster kiss magnet panda very damp plug open";
+var mnemonic = "install source expect print spray boil arch copy swallow holiday olympic jaguar";

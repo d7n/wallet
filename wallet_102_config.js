@@ -1,1 +1,1 @@
-var mnemonic = "isolate render wire step turn skirt aunt antique gate blind voyage more";
+var mnemonic = "spice cereal jungle mansion foil outer resist foil prize piano reunion theme";

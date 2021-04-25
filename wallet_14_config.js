@@ -1,1 +1,1 @@
-var mnemonic = "early actual trend better junior crisp various obvious flock bid nose that";
+var mnemonic = "expire saddle reveal bring minor snack doll wear goddess possible demise ecology";

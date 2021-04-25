@@ -1,1 +1,1 @@
-var mnemonic = "fade nephew leg monitor grace burger holiday document gate seminar hub hockey";
+var mnemonic = "day fault minute divorce wait science quantum warfare machine fiber south buyer";

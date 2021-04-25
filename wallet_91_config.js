@@ -1,1 +1,1 @@
-var mnemonic = "begin express oval abuse arm glove asthma place venue cactus stumble moral";
+var mnemonic = "salon blossom visual giant stadium topic loyal urban gun urge access rib";

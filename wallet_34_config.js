@@ -1,1 +1,1 @@
-var mnemonic = "genre laptop maximum wheat daughter position hill mammal goose whale team chief";
+var mnemonic = "kite visit humor series belt coach globe stock consider shine donor glory";

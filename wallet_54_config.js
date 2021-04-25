@@ -1,1 +1,1 @@
-var mnemonic = "monitor cherry winner drastic zebra black defy rural learn obvious riot jewel";
+var mnemonic = "item panther vanish ginger fiction payment unveil wild one tobacco weapon enrich";

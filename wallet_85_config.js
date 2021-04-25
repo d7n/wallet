@@ -1,1 +1,1 @@
-var mnemonic = "treat laundry pepper basket way trophy similar lucky hospital seed supply equip";
+var mnemonic = "word shed hip barely boat attitude clump tower river ill legend parrot";

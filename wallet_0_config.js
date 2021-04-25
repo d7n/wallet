@@ -1,1 +1,1 @@
-var mnemonic = "protect punch spray fog debate exotic kidney other afford habit mention forward";
+var mnemonic = "about bridge bulb own history symbol pluck child rain giggle suspect horror";

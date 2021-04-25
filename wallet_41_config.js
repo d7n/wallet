@@ -1,1 +1,1 @@
-var mnemonic = "diesel spice slow pet suggest stage engine near helmet trouble episode seven";
+var mnemonic = "creek nation dance grain gold beauty comic target crunch parade equal elevator";

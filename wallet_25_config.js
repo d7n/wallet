@@ -1,1 +1,1 @@
-var mnemonic = "equal vehicle hold flee badge spy segment pear scare cable hungry judge";
+var mnemonic = "bring risk high flock purpose muscle remember zoo resist offer canoe vocal";

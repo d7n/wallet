@@ -1,1 +1,1 @@
-var mnemonic = "purpose math cotton next truth unit embark average put mango snack wedding";
+var mnemonic = "celery long spend luggage dash million raise health sheriff quick vehicle imitate";

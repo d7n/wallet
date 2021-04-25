@@ -1,1 +1,1 @@
-var mnemonic = "call amazing ethics receive glow sniff that rookie pistol verify hen tongue";
+var mnemonic = "jungle miracle battle limb pink ribbon ring mention begin source stereo stove";

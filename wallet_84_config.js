@@ -1,1 +1,1 @@
-var mnemonic = "peace muscle pottery rapid ridge detect palm visit penalty toward wagon zoo";
+var mnemonic = "dilemma juice spy mind bench erase core someone renew middle oyster define";

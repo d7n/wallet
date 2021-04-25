@@ -1,1 +1,1 @@
-var mnemonic = "vessel subway write slide peasant image bullet grain pride battle napkin move";
+var mnemonic = "citizen play harvest scare annual hill become timber confirm three cup census";

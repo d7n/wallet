@@ -1,1 +1,1 @@
-var mnemonic = "huge valve retreat air clock insect online pupil fade wing benefit color";
+var mnemonic = "review bargain little collect undo much crater tenant nerve deny spirit sport";

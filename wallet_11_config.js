@@ -1,1 +1,1 @@
-var mnemonic = "basic thing sing quiz steel attend thunder unknown safe bar dignity reopen";
+var mnemonic = "rally zero ladder message twenty sentence local cart agree brother pudding remove";

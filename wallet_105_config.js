@@ -1,1 +1,1 @@
-var mnemonic = "affair judge virus canal squeeze vital wealth chaos leader machine receive fitness";
+var mnemonic = "best fury lonely settle hunt frame vote scale beyond screen agree area";

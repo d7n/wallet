@@ -1,1 +1,1 @@
-var mnemonic = "breeze lock elegant wine rack water select rain deliver rent icon perfect";
+var mnemonic = "spot glue cradle door zoo fever solid blouse memory proud huge doll";

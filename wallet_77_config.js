@@ -1,1 +1,1 @@
-var mnemonic = "fold under crumble busy job bless library interest scrub into already problem";
+var mnemonic = "tilt custom grunt royal either absent glare galaxy rather crime view deputy";

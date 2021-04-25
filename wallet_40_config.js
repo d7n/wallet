@@ -1,1 +1,1 @@
-var mnemonic = "drill cat upon wisdom member document west foil join attitude enforce coin";
+var mnemonic = "satisfy glad nasty foil dumb mean often rifle saddle benefit steel fruit";

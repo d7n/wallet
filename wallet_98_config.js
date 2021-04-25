@@ -1,1 +1,1 @@
-var mnemonic = "camera member street virus unaware boring absurd again arctic office throw couple";
+var mnemonic = "short bridge twenty miss issue sea evoke charge art skirt ice pencil";

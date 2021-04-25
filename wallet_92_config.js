@@ -1,1 +1,1 @@
-var mnemonic = "fashion essence vast alert link unique taxi frog moment sugar online front";
+var mnemonic = "clutch fantasy scissors ski sausage garlic minimum pulse tackle celery install seed";

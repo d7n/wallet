@@ -1,1 +1,1 @@
-var mnemonic = "village curve defense skin rough consider sweet moral near maze prevent pigeon";
+var mnemonic = "leave ramp manual congress board alley client install craft employ pave electric";

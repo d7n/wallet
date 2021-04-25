@@ -1,1 +1,1 @@
-var mnemonic = "route leg skirt pattern above acid long jacket again glance shell similar";
+var mnemonic = "balance mansion narrow enforce slow chimney approve nest pond change aunt pudding";

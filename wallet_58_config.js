@@ -1,1 +1,1 @@
-var mnemonic = "bamboo name keen punch client denial cheap shield paper universe oak grant";
+var mnemonic = "tortoise reform future evil abuse index crush hood above grit humble enhance";

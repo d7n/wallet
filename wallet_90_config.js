@@ -1,1 +1,1 @@
-var mnemonic = "charge network indicate ramp birth answer option manage year coach senior select";
+var mnemonic = "gate alien clip boy law burden pottery baby stuff can busy change";

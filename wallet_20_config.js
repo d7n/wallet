@@ -1,1 +1,1 @@
-var mnemonic = "gallery slam holiday seven fee sadness captain milk series desert helmet bind";
+var mnemonic = "salt emotion nerve seed vacuum name stone cover work sketch seven identify";

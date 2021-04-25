@@ -1,1 +1,1 @@
-var mnemonic = "expand pass speed exotic divide prosper penalty course panther robot outer palace";
+var mnemonic = "they spin clown affair volume enough card tongue order tilt total reform";

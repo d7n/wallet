@@ -1,1 +1,1 @@
-var mnemonic = "unaware cat burden drink long kite scan tone lazy detect alpha eyebrow";
+var mnemonic = "bridge fly afraid praise recycle sugar dynamic absorb radio ship addict casino";

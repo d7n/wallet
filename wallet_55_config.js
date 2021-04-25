@@ -1,1 +1,1 @@
-var mnemonic = "toward ahead glad attract long refuse bulk bargain pool behave acoustic border";
+var mnemonic = "slab enroll twist repair donkey planet version box bacon sure arctic hybrid";

@@ -1,1 +1,1 @@
-var mnemonic = "such scatter fortune discover identify siege moon woman ceiling race already shoot";
+var mnemonic = "route strong captain moral cotton enlist lift elevator cheese crack hint episode";

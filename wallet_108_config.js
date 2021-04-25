@@ -1,1 +1,1 @@
-var mnemonic = "lumber summer sunset able concert urge outer gossip attract east uncle taste";
+var mnemonic = "moral theme bag salute clip exile expand amateur bracket convince budget celery";

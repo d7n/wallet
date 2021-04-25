@@ -1,1 +1,1 @@
-var mnemonic = "sister season visit left myself increase digital mom wonder proud grocery dawn";
+var mnemonic = "stairs liar there report unknown prison horror sentence raise arrange risk warm";

@@ -1,1 +1,1 @@
-var mnemonic = "upgrade black wink later kite lava cross orient floor crunch video recipe";
+var mnemonic = "phrase cloud false beauty figure devote family process sorry night hurt bitter";

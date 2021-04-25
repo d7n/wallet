@@ -1,1 +1,1 @@
-var mnemonic = "horse innocent ready waste water cigar whale answer rude idle shed rally";
+var mnemonic = "turkey hat stock owner float major canal media castle someone ancient area";

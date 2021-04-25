@@ -1,1 +1,1 @@
-var mnemonic = "know leaf avocado deny either brief powder gallery welcome cement gym trip";
+var mnemonic = "peace snow prize myth promote air friend truth eye phone moon happy";

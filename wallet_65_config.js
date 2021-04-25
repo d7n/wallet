@@ -1,1 +1,1 @@
-var mnemonic = "bind genre ski height awake derive large clump access derive bench goddess";
+var mnemonic = "wrong diagram jeans flee elevator wink consider desert opinion harvest naive huge";

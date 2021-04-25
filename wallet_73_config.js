@@ -1,1 +1,1 @@
-var mnemonic = "recall deer city hood caught girl make uniform congress armor acoustic isolate";
+var mnemonic = "client extend toe april youth little couple beyond renew decade bullet flight";

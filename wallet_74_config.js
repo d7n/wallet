@@ -1,1 +1,1 @@
-var mnemonic = "awake party surface afraid rib prize valve hurdle message vast guide turkey";
+var mnemonic = "veteran shove coral oven bleak silver current outside bird fade uphold job";

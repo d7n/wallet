@@ -1,1 +1,1 @@
-var mnemonic = "melt dirt shrimp staff rely explain journey antique vendor dawn enable nothing";
+var mnemonic = "lock minute humor tomato tag response occur jewel funny bitter explain woman";

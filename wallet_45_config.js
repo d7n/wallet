@@ -1,1 +1,1 @@
-var mnemonic = "misery miss athlete vocal thought focus donor erosion news october horror tuna";
+var mnemonic = "glow ladder knock host bind story answer chef prefer symbol season glass";

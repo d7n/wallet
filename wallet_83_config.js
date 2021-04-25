@@ -1,1 +1,1 @@
-var mnemonic = "disagree brain region segment enough more october twelve tunnel next smile squeeze";
+var mnemonic = "amateur uncle member future era access list clock civil stadium bright subject";

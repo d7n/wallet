@@ -1,1 +1,1 @@
-var mnemonic = "enough guard release just pledge quantum summer fitness again pave tattoo sunny";
+var mnemonic = "horse barely exact sweet split just possible build glide knife someone symptom";

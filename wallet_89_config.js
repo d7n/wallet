@@ -1,1 +1,1 @@
-var mnemonic = "cute cotton faith nature guess drama spoil belt figure tourist bone double";
+var mnemonic = "reject silk combine walnut jelly elite damage expose surface sibling seek impact";

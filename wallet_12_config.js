@@ -1,1 +1,1 @@
-var mnemonic = "nasty globe brass seat anxiety motion gorilla carbon swamp blush soon daring";
+var mnemonic = "mansion document october sand sponsor connect maze piano priority chest quarter cool";

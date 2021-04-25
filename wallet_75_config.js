@@ -1,1 +1,1 @@
-var mnemonic = "fog favorite little vicious walnut amateur raw unhappy city favorite tank such";
+var mnemonic = "bitter wrap hedgehog vacant silent accuse sibling logic merry patch remind material";

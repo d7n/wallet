@@ -1,1 +1,1 @@
-var mnemonic = "child shell rug mushroom latin doll sight match whisper glimpse prosper oblige";
+var mnemonic = "cave parrot problem list diet speak glide quote jaguar trumpet biology east";

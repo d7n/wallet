@@ -1,1 +1,1 @@
-var mnemonic = "tank coach buddy theme copy rely isolate warrior debate kiwi season front";
+var mnemonic = "grid pave proud exact ship supply bounce cage runway stick weasel couple";

@@ -1,1 +1,1 @@
-var mnemonic = "shoot game spare million holiday midnight amazing chaos ten fork suggest rapid";
+var mnemonic = "olive submit coyote devote earn soap negative again pole ancient foam man";

@@ -1,1 +1,1 @@
-var mnemonic = "february sniff nerve short rival blood receive use airport since city autumn";
+var mnemonic = "loyal term broken wedding target online print update afford worth cinnamon second";

@@ -1,1 +1,1 @@
-var mnemonic = "camera result home forum wrap planet trade remain click slow gospel skate";
+var mnemonic = "season zoo afraid column ripple orchard hobby destroy shaft lonely because whisper";

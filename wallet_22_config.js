@@ -1,1 +1,1 @@
-var mnemonic = "volume own curve garlic more keen era orbit thing spend cereal dose";
+var mnemonic = "adapt quick anchor viable tooth ethics winner rigid visa all fold pool";

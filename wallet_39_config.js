@@ -1,1 +1,1 @@
-var mnemonic = "derive achieve flash horror guilt model august another meat sausage act wish";
+var mnemonic = "goose kit gossip depart joke stumble used sugar loan crawl lizard broom";

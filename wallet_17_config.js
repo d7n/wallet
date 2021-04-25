@@ -1,1 +1,1 @@
-var mnemonic = "shiver prize habit toward wisdom hint address subject remove stumble method island";
+var mnemonic = "nerve sport review insane viable sadness oppose illegal hidden click leave surprise";

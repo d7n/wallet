@@ -1,1 +1,1 @@
-var mnemonic = "bright horn suffer beef segment afraid pen beach lava view beef isolate";
+var mnemonic = "lizard card joy child easy long doll gun early improve lottery insect";

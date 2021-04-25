@@ -1,1 +1,1 @@
-var mnemonic = "duck endless remind area sea toast recall chair accident possible angle welcome";
+var mnemonic = "theme tired museum tide useful poverty when desk leader balance friend ecology";

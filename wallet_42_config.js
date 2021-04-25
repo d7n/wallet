@@ -1,1 +1,1 @@
-var mnemonic = "solution plug topic step base wait morning ring put review still scrub";
+var mnemonic = "firm gather brand trap grain assist orphan present grow venture poet ethics";

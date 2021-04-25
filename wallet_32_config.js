@@ -1,1 +1,1 @@
-var mnemonic = "license bubble neglect adult search wrestle faith salon account then galaxy indoor";
+var mnemonic = "initial cost castle cancel consider sudden bring truly lounge fetch visit later";

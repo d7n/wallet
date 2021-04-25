@@ -1,1 +1,1 @@
-var mnemonic = "youth lawn crane word art vocal length vocal online river fetch forget";
+var mnemonic = "rely lesson call lift great two all dance reject airport friend start";

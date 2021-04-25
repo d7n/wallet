@@ -1,1 +1,1 @@
-var mnemonic = "squeeze state love wreck boy demise equal claw canal soda pepper token";
+var mnemonic = "only trick kingdom myself sketch glory clever father ostrich syrup give early";

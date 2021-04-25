@@ -1,1 +1,1 @@
-var mnemonic = "boring this tube outside dress cash yellow calm duck fatigue unhappy target";
+var mnemonic = "hamster scare fox token slam century joke argue hill index income legend";

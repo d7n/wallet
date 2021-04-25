@@ -1,1 +1,1 @@
-var mnemonic = "copy mixed live endorse august eager inner dinner they culture globe fashion";
+var mnemonic = "blood letter laugh finger buzz side load yard almost traffic spoil pyramid";

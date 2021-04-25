@@ -1,1 +1,1 @@
-var mnemonic = "puzzle health combine bag obtain lyrics balcony dynamic creek bulb mind sun";
+var mnemonic = "tail liar fatal cliff stadium unfair wall brass echo insane spray suit";

@@ -1,1 +1,1 @@
-var mnemonic = "thing hood paddle fantasy injury drip feature august winner another chair bleak";
+var mnemonic = "tower female museum tent obey arch fox easily carry valley crane slice";

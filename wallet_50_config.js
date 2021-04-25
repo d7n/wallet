@@ -1,1 +1,1 @@
-var mnemonic = "media shed key prevent stick scatter crucial public soul harvest run waste";
+var mnemonic = "cube service sock inside junior mimic isolate best city chaos feel afraid";

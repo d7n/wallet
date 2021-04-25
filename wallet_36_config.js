@@ -1,1 +1,1 @@
-var mnemonic = "nuclear way cake mom clip fashion acquire voyage assist vote imitate unaware";
+var mnemonic = "float clip wedding age process sea curve february diary october together zone";

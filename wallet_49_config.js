@@ -1,1 +1,1 @@
-var mnemonic = "monster burger romance audit gasp lumber fatigue glory slide online sand seat";
+var mnemonic = "woman drive fragile cruise hip build window apology deposit outdoor absorb weekend";

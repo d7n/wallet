@@ -1,1 +1,1 @@
-var mnemonic = "census skate track barely blossom sniff steak shed season dizzy inner empower";
+var mnemonic = "object push mirror now field put ugly weather exhibit captain soft coin";

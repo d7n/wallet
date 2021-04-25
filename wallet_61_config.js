@@ -1,1 +1,1 @@
-var mnemonic = "enhance tone great month rug envelope cliff bundle expose extend talk high";
+var mnemonic = "visit sort kangaroo thank glimpse predict weird deny combine loan oppose ghost";

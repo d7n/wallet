@@ -1,1 +1,1 @@
-var mnemonic = "more scorpion guess pretty river eternal child used meat rate travel always";
+var mnemonic = "mixture hobby sausage strong calm panel truth ceiling engage embrace uphold dress";

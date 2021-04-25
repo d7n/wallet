@@ -1,1 +1,1 @@
-var mnemonic = "sport topic shuffle stairs puppy army question hurry ritual net mushroom awful";
+var mnemonic = "head around security voyage cable favorite world test hidden fame cousin ripple";

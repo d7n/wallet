@@ -1,1 +1,1 @@
-var mnemonic = "wire coach antenna artwork during solve chicken awful manage seed oppose much";
+var mnemonic = "relax person raven present warfare remain gold sister unlock happy gossip strike";

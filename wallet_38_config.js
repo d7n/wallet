@@ -1,1 +1,1 @@
-var mnemonic = "employ alert keep diary proof assault drastic carbon heart drastic act angle";
+var mnemonic = "deputy spring ivory spread aisle board sense chicken reunion drum forum fatigue";
