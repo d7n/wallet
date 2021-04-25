@@ -1,1 +1,1 @@
-var mnemonic = "random protect measure funny brief discover valve giggle primary energy october oil";
+var mnemonic = "feed find consider solve height rookie alpha slight unveil taste teach owner";

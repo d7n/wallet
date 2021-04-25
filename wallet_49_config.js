@@ -1,1 +1,1 @@
-var mnemonic = "ordinary vintage race gun ethics amount fish hospital voyage source innocent purchase";
+var mnemonic = "innocent super salmon gown explain magnet vessel change icon street feed vicious";

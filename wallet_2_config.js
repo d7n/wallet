@@ -1,1 +1,1 @@
-var mnemonic = "manage neck luxury finger solution then orchard grief witness quantum trumpet climb";
+var mnemonic = "rotate humor length garbage come outer abandon clog federal brother salon where";

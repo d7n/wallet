@@ -1,1 +1,1 @@
-var mnemonic = "scheme swift either situate impulse sport receive trouble spend occur auction luxury";
+var mnemonic = "accuse ill town tennis situate point peace absurd blood cargo alter critic";

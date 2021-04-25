@@ -1,1 +1,1 @@
-var mnemonic = "bargain glue close possible mobile hard awake aisle balance engage produce modify";
+var mnemonic = "success candy night enter wheel old slide feature traffic chunk camera banana";

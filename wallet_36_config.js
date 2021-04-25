@@ -1,1 +1,1 @@
-var mnemonic = "affair view quantum doctor unable team diesel author powder lesson guide snake";
+var mnemonic = "oven oil maple dwarf garage surprise patient choice thing course shove ahead";

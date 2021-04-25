@@ -1,1 +1,1 @@
-var mnemonic = "clump reform bleak regret blossom field worry term jaguar broom soccer kiss";
+var mnemonic = "measure sorry upgrade interest ceiling parent cook name evidence disorder december affair";

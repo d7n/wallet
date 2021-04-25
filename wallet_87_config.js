@@ -1,1 +1,1 @@
-var mnemonic = "rookie uncle pyramid only tortoise picture tragic pledge burst slide walnut steel";
+var mnemonic = "pitch spirit obtain defense someone left help apple patch foot display never";

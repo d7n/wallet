@@ -1,1 +1,1 @@
-var mnemonic = "earth winter brain yard solar rely zero tilt bag dance upon army";
+var mnemonic = "adult vital burst just million drill stage stadium turkey habit glory swallow";

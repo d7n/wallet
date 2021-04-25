@@ -1,1 +1,1 @@
-var mnemonic = "cousin portion auction veteran gadget park ticket call other absurd submit lyrics";
+var mnemonic = "start noble cactus diesel orbit circle develop shaft combine plate slim anchor";

@@ -1,1 +1,1 @@
-var mnemonic = "master mimic luggage ethics arrow safe poverty syrup address dish vault scrap";
+var mnemonic = "baby drift envelope lesson gown edge pledge pass original dash grid rifle";

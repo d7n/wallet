@@ -1,1 +1,1 @@
-var mnemonic = "monkey around roof tell mansion umbrella liar bamboo call notable blind honey";
+var mnemonic = "pudding piano castle hospital prefer ticket nut undo travel used offer exact";

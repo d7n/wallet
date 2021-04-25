@@ -1,1 +1,1 @@
-var mnemonic = "clutch crash economy faint mosquito galaxy brand giant enforce burger remember two";
+var mnemonic = "credit bridge team walnut emerge flip auto slide depart once broom clap";

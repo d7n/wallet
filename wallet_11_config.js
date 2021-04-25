@@ -1,1 +1,1 @@
-var mnemonic = "own unfold spend lawn lock ill captain first rely rely provide blind";
+var mnemonic = "movie monitor image need misery service domain bamboo delay penalty force lift";

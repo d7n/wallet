@@ -1,1 +1,1 @@
-var mnemonic = "ozone sunset task develop pear border cotton country verify clay vessel lounge";
+var mnemonic = "pledge club phone spray blouse sauce apart jeans ghost canyon label body";

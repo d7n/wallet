@@ -1,1 +1,1 @@
-var mnemonic = "train aim brother beyond easily debate demise ripple actress evil place parade";
+var mnemonic = "eye wrap cancel raise alley brief build disorder lawsuit galaxy captain alter";

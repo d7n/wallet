@@ -1,1 +1,1 @@
-var mnemonic = "mom fancy praise layer umbrella sample cross transfer draft tone drill mirror";
+var mnemonic = "wagon bean abstract remove ability unit garden casual ring garment caught jungle";

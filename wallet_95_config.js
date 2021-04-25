@@ -1,1 +1,1 @@
-var mnemonic = "orange vivid orange ridge course much debate diesel fine soft gather lock";
+var mnemonic = "world later impulse damp slow network fiction only cook rookie uncover sign";

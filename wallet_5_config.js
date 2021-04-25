@@ -1,1 +1,1 @@
-var mnemonic = "service daring fever parent voyage merit polar awful glare visual wheel cage";
+var mnemonic = "jewel travel supply blouse library check panel permit earth effort lawsuit focus";

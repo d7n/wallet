@@ -1,1 +1,1 @@
-var mnemonic = "merry orange when canvas pretty enjoy mango spell rug soccer romance rib";
+var mnemonic = "ankle bird security verb payment fiscal heavy blush van figure toward boss";

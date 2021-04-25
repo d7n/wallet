@@ -1,1 +1,1 @@
-var mnemonic = "empty farm envelope alter waste shoot ensure debate claw emotion pear alcohol";
+var mnemonic = "patrol lab decorate true theme airport swim used lab flee know pole";

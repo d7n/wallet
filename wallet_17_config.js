@@ -1,1 +1,1 @@
-var mnemonic = "knock click buffalo humble dignity more oyster field step chunk amount tone";
+var mnemonic = "endless fault travel trim magnet treat search pink toss solution trial circle";

@@ -1,1 +1,1 @@
-var mnemonic = "elbow kidney excuse point regular sustain theory crop knee cupboard indoor citizen";
+var mnemonic = "three deliver future glance setup believe energy limit diagram pudding large decade";

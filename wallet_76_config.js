@@ -1,1 +1,1 @@
-var mnemonic = "yard rhythm renew blouse material you bracket panic eight awful festival lonely";
+var mnemonic = "recall plastic man frown able blame version deny grape plate senior click";

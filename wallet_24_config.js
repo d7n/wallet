@@ -1,1 +1,1 @@
-var mnemonic = "lesson stock announce mention fork casino uncle hint three bonus return quiz";
+var mnemonic = "curious great visual taste blanket promote wise wisdom impact dry inject flee";

@@ -1,1 +1,1 @@
-var mnemonic = "knife chimney today wasp uniform turn grant few limb assault rich course";
+var mnemonic = "lava pig hurdle seat cry suggest health multiply lazy angle arm fish";

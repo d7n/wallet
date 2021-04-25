@@ -1,1 +1,1 @@
-var mnemonic = "unusual humble gadget veteran brain usage awesome decide mandate sweet left album";
+var mnemonic = "room over donate novel erode reunion agree black sound pave useful wheel";

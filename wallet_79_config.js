@@ -1,1 +1,1 @@
-var mnemonic = "vacuum roof enemy excite situate misery hurry position upon quote caution issue";
+var mnemonic = "word runway verify often output adult globe interest path soap scatter fortune";

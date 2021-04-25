@@ -1,1 +1,1 @@
-var mnemonic = "enforce excess umbrella behind mom ripple common predict defense exit return elephant";
+var mnemonic = "topple artefact grace menu black connect sound power frost hub hub melody";

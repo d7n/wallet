@@ -1,1 +1,1 @@
-var mnemonic = "zebra cattle raise harsh increase pottery image wave into turtle miss again";
+var mnemonic = "today scrub salt mosquito defense kiwi pave talent cram lemon edit friend";

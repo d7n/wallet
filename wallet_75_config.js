@@ -1,1 +1,1 @@
-var mnemonic = "furnace poet auction imitate now hidden wide alarm joy solve almost area";
+var mnemonic = "chaos donkey fog east fury scatter appear noise adapt quote south produce";

@@ -1,1 +1,1 @@
-var mnemonic = "baby vapor wink must want other trade uncover filter turn joke reveal";
+var mnemonic = "lesson repeat wrong crowd target illegal host pledge trophy carbon resemble debris";

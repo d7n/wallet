@@ -1,1 +1,1 @@
-var mnemonic = "proof coyote kangaroo saddle cute nut much tape clock method blanket antenna";
+var mnemonic = "pencil arrow angry involve rifle left brain resemble noodle gain mention december";

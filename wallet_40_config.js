@@ -1,1 +1,1 @@
-var mnemonic = "gloom crush link shiver slogan iron canal morning ecology doll fatal crack";
+var mnemonic = "emerge arch spike domain catalog hour target hand focus report mobile eye";

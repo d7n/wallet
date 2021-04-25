@@ -1,1 +1,1 @@
-var mnemonic = "fatal guilt prison earth pelican snack proof angry legal quiz region spoon";
+var mnemonic = "juice brush sample divide reward fluid skin alter math physical spirit alien";

@@ -1,1 +1,1 @@
-var mnemonic = "because desert wage spawn kitten lesson devote ketchup dune pair eight slogan";
+var mnemonic = "wrong mesh fiscal couple easily pretty address creek either slogan extend regular";

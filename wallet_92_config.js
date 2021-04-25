@@ -1,1 +1,1 @@
-var mnemonic = "kiss jelly slogan energy farm body brain symbol slight rib potato sign";
+var mnemonic = "wish bench seat job lawn notable pumpkin tiny early hood innocent trip";

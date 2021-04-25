@@ -1,1 +1,1 @@
-var mnemonic = "blur end mixed topic february model board birth combine hint stock often";
+var mnemonic = "giraffe cat fine hour wisdom supreme round garbage mother laptop dry region";

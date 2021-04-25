@@ -1,1 +1,1 @@
-var mnemonic = "other stuff sister alert wire tiny all sunset bread region agent finger";
+var mnemonic = "bounce young refuse youth head flat betray include three couch sphere summer";

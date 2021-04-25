@@ -1,1 +1,1 @@
-var mnemonic = "buyer fine vault ride track hammer tilt hammer frozen diesel pull awkward";
+var mnemonic = "stem call review gossip fee relax habit coyote hair soccer lunch quarter";

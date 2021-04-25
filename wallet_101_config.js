@@ -1,1 +1,1 @@
-var mnemonic = "kitchen sorry flock glove burger dignity accuse advice trap ripple lunch theme";
+var mnemonic = "ice jump keen illegal brave skin food devote weapon rare ensure release";

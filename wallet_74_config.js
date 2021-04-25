@@ -1,1 +1,1 @@
-var mnemonic = "other since train similar immune fantasy crew real begin couple sustain tennis";
+var mnemonic = "duty diamond pepper youth liberty blind bargain stereo dice nerve reunion random";

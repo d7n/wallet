@@ -1,1 +1,1 @@
-var mnemonic = "busy flat bus shrimp swamp husband give smile stool try sentence decorate";
+var mnemonic = "reopen island exit basic front canal allow sleep mother dizzy bar reflect";

@@ -1,1 +1,1 @@
-var mnemonic = "estate helmet enable fit peace gather print cup pull diamond stamp local";
+var mnemonic = "gorilla transfer fame veteran staff try labor mobile want special device girl";

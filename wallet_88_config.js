@@ -1,1 +1,1 @@
-var mnemonic = "breeze skate digital mouse slush link lobster lesson dinner group survey fringe";
+var mnemonic = "merry plug sword detail inhale page pulp leaf subway brave mango rail";

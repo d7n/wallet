@@ -1,1 +1,1 @@
-var mnemonic = "metal broom pact lunch horn final welcome car caution poet comic armed";
+var mnemonic = "bamboo victory vessel taxi frown organ rail attract knock tackle between boost";

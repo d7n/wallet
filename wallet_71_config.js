@@ -1,1 +1,1 @@
-var mnemonic = "void anxiety disease poem guilt suspect grant boss book rhythm debris ocean";
+var mnemonic = "marine behind adjust coil lamp neither drift foil drive useful fork nothing";

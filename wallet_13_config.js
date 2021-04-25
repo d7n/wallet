@@ -1,1 +1,1 @@
-var mnemonic = "dad supply acid keen sunny risk gain chalk physical material grace broken";
+var mnemonic = "silly nuclear bright frozen abuse achieve sword boss advice hobby fatal distance";

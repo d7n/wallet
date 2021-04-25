@@ -1,1 +1,1 @@
-var mnemonic = "length minute merit anger symbol orchard main tourist melt author enhance garden";
+var mnemonic = "setup liar blouse vehicle smooth river decorate act pottery crunch robust always";

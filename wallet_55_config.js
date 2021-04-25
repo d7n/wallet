@@ -1,1 +1,1 @@
-var mnemonic = "edit fine ice panel someone shy use frozen stomach sample soul build";
+var mnemonic = "film roof shuffle science lock forward metal north cat message shock fruit";

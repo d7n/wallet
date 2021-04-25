@@ -1,1 +1,1 @@
-var mnemonic = "round blue figure lyrics husband blush boil dwarf prison vocal check today";
+var mnemonic = "noodle trust method snake scrap turkey mandate power erosion use excite vapor";

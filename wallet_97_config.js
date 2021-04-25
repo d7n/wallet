@@ -1,1 +1,1 @@
-var mnemonic = "fitness between chief hill razor predict daring venue park cave since lottery";
+var mnemonic = "nuclear embrace school inspire crisp idle bean frozen lecture decorate youth village";

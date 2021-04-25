@@ -1,1 +1,1 @@
-var mnemonic = "extend garden bracket simple section hole pistol theory radio quiz feel crew";
+var mnemonic = "casino useless tackle digital say spell crystal volcano hollow above check casino";

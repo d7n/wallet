@@ -1,1 +1,1 @@
-var mnemonic = "gaze roof escape sick income light scorpion panther amateur into firm dolphin";
+var mnemonic = "work country phrase course pipe embark sausage picture toilet recipe fault three";

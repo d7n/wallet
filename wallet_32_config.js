@@ -1,1 +1,1 @@
-var mnemonic = "pitch glory hour fashion attack similar donate unit pretty combine way round";
+var mnemonic = "pulp corn mystery fun lock expect alarm quality ancient disease acid liberty";

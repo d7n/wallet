@@ -1,1 +1,1 @@
-var mnemonic = "empower whisper visual lounge early blue hybrid reunion process banana black wonder";
+var mnemonic = "bulk much narrow violin present hundred ivory dry like wet resemble lava";

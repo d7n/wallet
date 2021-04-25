@@ -1,1 +1,1 @@
-var mnemonic = "cotton balcony escape program tobacco basic motion stove fiber air excuse language";
+var mnemonic = "kick chaos action similar extend laptop history knife prepare cry approve ankle";

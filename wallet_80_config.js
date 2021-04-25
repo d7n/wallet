@@ -1,1 +1,1 @@
-var mnemonic = "pencil vibrant autumn stove labor afraid social vivid veteran canyon case note";
+var mnemonic = "town audit appear clever sword miss cart unveil habit squeeze kitchen captain";

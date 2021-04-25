@@ -1,1 +1,1 @@
-var mnemonic = "piece fuel common joke adjust enjoy bright mushroom pledge ribbon adjust pumpkin";
+var mnemonic = "pet typical amount update tooth confirm jeans select submit water custom position";

@@ -1,1 +1,1 @@
-var mnemonic = "step soap sheriff call uniform enroll guilt noise excite lab quiz random";
+var mnemonic = "february similar priority glad taste fatal police wage chef canal tattoo trophy";

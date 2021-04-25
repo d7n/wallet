@@ -1,1 +1,1 @@
-var mnemonic = "acid tank sun pen chat warrior rhythm ordinary inject pill couch congress";
+var mnemonic = "crush write detect reason device ball plunge fat lyrics whip eye abuse";

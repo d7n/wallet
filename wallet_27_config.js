@@ -1,1 +1,1 @@
-var mnemonic = "rapid live tourist trick fossil trash private spatial goddess connect rude keep";
+var mnemonic = "dentist syrup warfare genius bitter poem toe service kingdom budget delay topic";

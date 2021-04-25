@@ -1,1 +1,1 @@
-var mnemonic = "buddy ocean nature shield cat deputy coast noise vapor need shop sure";
+var mnemonic = "gown give borrow throw damp globe proud replace purity caution balcony obtain";

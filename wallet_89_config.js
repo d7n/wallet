@@ -1,1 +1,1 @@
-var mnemonic = "hill merit sweet minute resource fix search inherit merit surface room air";
+var mnemonic = "system spell silent assume deal devote walk illness diamond dance awesome family";

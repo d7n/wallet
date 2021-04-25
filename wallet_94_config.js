@@ -1,1 +1,1 @@
-var mnemonic = "cup pond force release will sugar radar into orchard follow interest afford";
+var mnemonic = "bird nature route devote aware problem resist frown purse soldier better fly";

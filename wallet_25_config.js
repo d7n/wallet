@@ -1,1 +1,1 @@
-var mnemonic = "certain web estate bomb pride believe stem prosper gun elite still ship";
+var mnemonic = "hour point eager bike knock voice leaf lumber amused law quiz excite";

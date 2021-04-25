@@ -1,1 +1,1 @@
-var mnemonic = "provide hobby three season alien copy stable culture crowd warm toss tomato";
+var mnemonic = "supreme artwork rate tobacco welcome copy average faith replace inch frequent distance";

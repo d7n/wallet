@@ -1,1 +1,1 @@
-var mnemonic = "asthma grain menu any aware safe resist pipe subway breeze shoot bubble";
+var mnemonic = "blanket just glad crack mean outside hungry ticket first consider play ignore";

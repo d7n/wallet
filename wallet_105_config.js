@@ -1,1 +1,1 @@
-var mnemonic = "second world next earth lazy travel life name pistol army ten goddess";
+var mnemonic = "steak write refuse ladder toe stone aisle isolate tourist settle sword merry";

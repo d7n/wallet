@@ -1,1 +1,1 @@
-var mnemonic = "phrase race check enjoy rug slight slight music strong spread core life";
+var mnemonic = "ring find material plastic design help runway journey coffee clap barely annual";

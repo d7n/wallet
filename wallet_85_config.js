@@ -1,1 +1,1 @@
-var mnemonic = "cage obvious brisk object palace trip venue group flip ladder kitchen all";
+var mnemonic = "forward october miss mouse behave lizard uphold desert protect canvas relief party";

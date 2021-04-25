@@ -1,1 +1,1 @@
-var mnemonic = "alley rural neck balcony hawk song fan amused tomorrow supreme lucky celery";
+var mnemonic = "height sibling away despair solar divert ramp tunnel broom hedgehog cactus chimney";

@@ -1,1 +1,1 @@
-var mnemonic = "amazing lobster country airport rapid ramp abstract ask wide praise ill refuse";
+var mnemonic = "boost goose assume invest simple body wrist arena uniform choose glad limb";

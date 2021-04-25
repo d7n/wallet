@@ -1,1 +1,1 @@
-var mnemonic = "hard trigger mouse concert swing visa ball enough slim yellow elite hire";
+var mnemonic = "drum upon deliver inherit craft print vacuum addict message scene half gallery";

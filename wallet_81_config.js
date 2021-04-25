@@ -1,1 +1,1 @@
-var mnemonic = "april list syrup avocado shove harbor snap laptop hunt tiger hotel story";
+var mnemonic = "beyond early wide crime habit runway disease grit minor impact update gospel";

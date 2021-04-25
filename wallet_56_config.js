@@ -1,1 +1,1 @@
-var mnemonic = "crouch super scorpion bread service what recycle push alter document drop hurry";
+var mnemonic = "diagram relax agree quiz diet insect media forest lake hungry become license";

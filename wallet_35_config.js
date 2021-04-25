@@ -1,1 +1,1 @@
-var mnemonic = "pencil punch seek fly portion sunny nut idea say couple prosper swarm";
+var mnemonic = "fiction liar dinosaur aim struggle clog clown hotel bachelor mix again rose";

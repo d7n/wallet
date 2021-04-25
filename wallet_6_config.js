@@ -1,1 +1,1 @@
-var mnemonic = "lion charge arm swap audit fruit body real body nerve renew cheese";
+var mnemonic = "fade bus glimpse ghost focus satoshi know vital plunge luxury desk anchor";

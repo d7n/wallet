@@ -1,1 +1,1 @@
-var mnemonic = "hobby inflict host else truth mother tiger vast labor cloud practice abstract";
+var mnemonic = "chef master fitness mention strategy improve where need vocal fire earth rice";

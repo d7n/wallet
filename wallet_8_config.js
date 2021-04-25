@@ -1,1 +1,1 @@
-var mnemonic = "eye round session bean demise seat upon immune toddler arrange rain spoon";
+var mnemonic = "ethics subject brain smooth bean peace liquid violin alert bridge helmet number";

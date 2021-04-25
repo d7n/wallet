@@ -1,1 +1,1 @@
-var mnemonic = "brisk kitchen warfare subject regular genius indoor page execute rent visit federal";
+var mnemonic = "style hurt circle engage syrup decide coral tilt slight banana obvious swap";

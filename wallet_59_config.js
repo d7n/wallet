@@ -1,1 +1,1 @@
-var mnemonic = "ride benefit nothing tiger pyramid remember fetch copper egg pet raven about";
+var mnemonic = "unit glass ugly grab energy security feature black piano river nice clog";

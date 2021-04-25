@@ -1,1 +1,1 @@
-var mnemonic = "page view hidden lion juice path minor slot soldier indoor artefact leader";
+var mnemonic = "feed wrestle pistol trip elephant strong enrich poet sudden control disagree become";

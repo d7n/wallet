@@ -1,1 +1,1 @@
-var mnemonic = "relief exile okay wine taxi report used air exact again fog setup";
+var mnemonic = "student region utility dune gas obtain salon orange concert circle adult super";

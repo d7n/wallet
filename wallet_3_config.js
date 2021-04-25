@@ -1,1 +1,1 @@
-var mnemonic = "dial scrub wisdom month sort embody era worth install still squeeze oyster";
+var mnemonic = "boost basic fragile old marriage reject hobby obscure cement potato episode economy";

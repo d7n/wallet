@@ -1,1 +1,1 @@
-var mnemonic = "index health cargo spot budget alpha beach endorse mystery kind damp lab";
+var mnemonic = "before unable tube slush because obtain sketch upgrade peasant puzzle clip lift";

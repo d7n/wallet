@@ -1,1 +1,1 @@
-var mnemonic = "total blanket vast situate cradle stable fitness frost trumpet hazard among october";
+var mnemonic = "mad next collect utility shop high regular vapor surprise plunge spell water";

@@ -1,1 +1,1 @@
-var mnemonic = "lonely addict shed arm dolphin antenna flush sick cross health skirt blanket";
+var mnemonic = "pattern web science spawn bone oil weasel manage cute eager lizard happy";

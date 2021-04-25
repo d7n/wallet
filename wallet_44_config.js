@@ -1,1 +1,1 @@
-var mnemonic = "hand fly supply project door canal dream slice pole velvet mammal coral";
+var mnemonic = "school possible acid resemble sausage purse weasel core exist myth jungle cute";

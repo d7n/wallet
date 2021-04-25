@@ -1,1 +1,1 @@
-var mnemonic = "churn alpha kind borrow stone female brick happy peasant wall weekend imitate";
+var mnemonic = "armor ill laptop brother profit impact balance peanut spy swarm crouch disease";

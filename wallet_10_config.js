@@ -1,1 +1,1 @@
-var mnemonic = "opinion debate excess man misery slow crew girl sorry either forward advice";
+var mnemonic = "capable ensure basic ankle dove want first fence treat tomorrow palm ill";

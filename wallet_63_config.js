@@ -1,1 +1,1 @@
-var mnemonic = "predict index list earn seminar crane diet dilemma reform very shoulder gaze";
+var mnemonic = "tray coconut problem dolphin grape chunk finger mansion miss adult romance viable";

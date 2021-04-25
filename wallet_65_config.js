@@ -1,1 +1,1 @@
-var mnemonic = "box expose antenna result story lazy joke east scare soap loyal knee";
+var mnemonic = "island bronze spin success awful visual ticket path drastic afford sword warm";
