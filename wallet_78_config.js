@@ -1,1 +1,1 @@
-var mnemonic = "pet pair across trumpet parent attract museum glimpse reward upon kind lens";
+var mnemonic = "fossil blast game hospital embrace rug member other super notice camp drive";

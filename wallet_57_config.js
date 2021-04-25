@@ -1,1 +1,1 @@
-var mnemonic = "curious toast wife hen monster into develop oval device gym claw cash";
+var mnemonic = "return velvet skin olympic glass century suggest crowd cargo jar already decorate";

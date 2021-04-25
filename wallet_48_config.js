@@ -1,1 +1,1 @@
-var mnemonic = "balcony sight escape divert blame right power want three bounce toy wrist";
+var mnemonic = "captain mirror ramp start install setup kingdom fabric magnet tilt blast olympic";

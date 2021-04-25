@@ -1,1 +1,1 @@
-var mnemonic = "shy chief ramp tooth dinosaur huge unique recipe simple tree feature abstract";
+var mnemonic = "tattoo unknown crucial fee cat olive pyramid final boat brain section picnic";

@@ -1,1 +1,1 @@
-var mnemonic = "drip step end eternal peace pond cream genre tattoo unable loud way";
+var mnemonic = "arrest race school business arm miracle tail spoil prevent panther film party";

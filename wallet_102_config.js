@@ -1,1 +1,1 @@
-var mnemonic = "kingdom various need silent used leave snack sadness sad online reopen style";
+var mnemonic = "grocery alert layer finish holiday remember globe chronic guide unusual abandon bar";

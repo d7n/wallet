@@ -1,1 +1,1 @@
-var mnemonic = "ozone reunion edit rich audit lazy bless curve laptop same battle act";
+var mnemonic = "pass card library donkey today fever antenna law horse transfer bronze cheap";

@@ -1,1 +1,1 @@
-var mnemonic = "pizza syrup business draft wine render forget prosper effort else spice enough";
+var mnemonic = "regret reflect gorilla task acoustic sibling march special bean slide clap world";

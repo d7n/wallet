@@ -1,1 +1,1 @@
-var mnemonic = "suit trouble adjust mixed trumpet news maid stuff beef enjoy chunk slot";
+var mnemonic = "vivid kiwi draft monster quantum used buddy palm involve uniform rent learn";

@@ -1,1 +1,1 @@
-var mnemonic = "mango broom divide female gain scout lazy title candy stay bench slice";
+var mnemonic = "similar interest creek muscle churn bus wear primary volcano spoil saddle sibling";

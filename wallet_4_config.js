@@ -1,1 +1,1 @@
-var mnemonic = "goddess biology blouse bunker inspire wasp correct normal hammer dose over grocery";
+var mnemonic = "liar sustain teach kit manage barely shift price dry royal dinosaur leave";

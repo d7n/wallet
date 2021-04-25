@@ -1,1 +1,1 @@
-var mnemonic = "leg office scissors social current defense shoe inner wedding heart world fatal";
+var mnemonic = "area diagram method siege foam sadness forward vessel client protect force purchase";

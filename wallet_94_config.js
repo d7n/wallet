@@ -1,1 +1,1 @@
-var mnemonic = "wide type ribbon bullet million health lumber rich harsh soon pull motor";
+var mnemonic = "rally stable victory exact stamp leisure stove later there notable battle print";

@@ -1,1 +1,1 @@
-var mnemonic = "dilemma keen guilt truth obey canal police remove coast clip derive park";
+var mnemonic = "hawk denial priority bargain bring inch pizza squeeze fetch badge vacuum rescue";

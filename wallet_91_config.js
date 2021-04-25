@@ -1,1 +1,1 @@
-var mnemonic = "flower lady baby famous jealous cinnamon never champion script census night ring";
+var mnemonic = "cat dragon glimpse page balcony consider jelly uncle muffin what movie later";

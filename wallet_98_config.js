@@ -1,1 +1,1 @@
-var mnemonic = "abstract retreat vacuum tip giraffe maple neck slim possible unit episode skill";
+var mnemonic = "forum spirit legal diary enlist urban forest suffer decide agree flip filter";

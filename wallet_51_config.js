@@ -1,1 +1,1 @@
-var mnemonic = "foil easy excite female risk fog spawn nephew muscle happy hard three";
+var mnemonic = "eyebrow clinic protect air hen evoke zoo apple jump segment settle fiber";

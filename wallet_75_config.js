@@ -1,1 +1,1 @@
-var mnemonic = "stool middle peace bean neck stone spring wedding crowd expose pioneer craft";
+var mnemonic = "method public vehicle excuse relief win when exotic strong dwarf outer riot";

@@ -1,1 +1,1 @@
-var mnemonic = "strong month behind open use slow enforce invite expire beyond federal power";
+var mnemonic = "soft switch cannon orange avocado multiply fiber forget era strike there early";

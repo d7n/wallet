@@ -1,1 +1,1 @@
-var mnemonic = "marriage lobster forum little wasp blade area forum jealous rally motor waste";
+var mnemonic = "desert mix time scan scale long ribbon alone woman erosion subject wet";

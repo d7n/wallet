@@ -1,1 +1,1 @@
-var mnemonic = "dog return pencil pioneer nasty plunge know country asthma brave review zero";
+var mnemonic = "boost duty antique moment tilt faculty doctor drift clog echo access victory";

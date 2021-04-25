@@ -1,1 +1,1 @@
-var mnemonic = "duck express text viable depend improve wish radio lava bounce dawn inside";
+var mnemonic = "sketch orchard gorilla clip rebuild layer shoe eager gospel attack power inflict";

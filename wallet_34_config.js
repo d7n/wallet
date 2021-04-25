@@ -1,1 +1,1 @@
-var mnemonic = "fly brass tattoo clip matter little cat muscle school throw number canyon";
+var mnemonic = "ripple make infant cattle chronic claw average cigar develop pepper diamond grant";

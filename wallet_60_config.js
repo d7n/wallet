@@ -1,1 +1,1 @@
-var mnemonic = "smoke awful shine clown insect birth before morning hungry neglect crystal bacon";
+var mnemonic = "boring auto oxygen olive donkey tonight merit unusual judge about people spoon";

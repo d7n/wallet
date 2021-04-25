@@ -1,1 +1,1 @@
-var mnemonic = "cruise amused moment chimney trend surprise defy power false rose erase endless";
+var mnemonic = "crisp raven dune lady shop squeeze rely scout rude daughter shop toddler";

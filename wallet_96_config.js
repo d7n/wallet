@@ -1,1 +1,1 @@
-var mnemonic = "elegant problem monitor farm rail distance coconut hurry slush desert jealous noble";
+var mnemonic = "meat true scene crowd test scrub place dirt shop scale turtle review";

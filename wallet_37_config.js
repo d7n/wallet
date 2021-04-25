@@ -1,1 +1,1 @@
-var mnemonic = "all pretty surface survey entire celery attitude trumpet town ball veteran sell";
+var mnemonic = "scorpion economy fall load umbrella twin sponsor stone twist fresh champion join";

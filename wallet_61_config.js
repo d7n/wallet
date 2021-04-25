@@ -1,1 +1,1 @@
-var mnemonic = "miss state this define table sign journey fat genuine hotel project talk";
+var mnemonic = "zoo stereo address shift shoot gown artwork doll captain prison flip season";

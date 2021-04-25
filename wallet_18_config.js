@@ -1,1 +1,1 @@
-var mnemonic = "indicate vibrant crane eyebrow awesome ill pumpkin loan frequent stable fresh custom";
+var mnemonic = "mistake leopard girl tortoise dose deputy teach fly unlock glory high salute";

@@ -1,1 +1,1 @@
-var mnemonic = "rose team share nurse void monkey cruise act dutch relax emotion foster";
+var mnemonic = "misery van join coin enact labor jar miss stomach vanish girl beyond";

@@ -1,1 +1,1 @@
-var mnemonic = "script scheme protect knife tourist glove axis caught spare mention vibrant silk";
+var mnemonic = "bonus young wrist clay employ liquid wish globe what cereal air conduct";

@@ -1,1 +1,1 @@
-var mnemonic = "fix year rug addict body cross fetch knock forest remove gym come";
+var mnemonic = "screen deposit jungle beauty feature oxygen rent engage grab bar bean bicycle";

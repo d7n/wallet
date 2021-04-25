@@ -1,1 +1,1 @@
-var mnemonic = "hurry unfold seek universe siege never warrior hard drink census acquire claim";
+var mnemonic = "hammer can wolf express insane inquiry peanut end panther awkward idle scheme";

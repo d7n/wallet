@@ -1,1 +1,1 @@
-var mnemonic = "test empty neither review inherit educate birth slogan exhaust among paper hint";
+var mnemonic = "two funny admit reunion phrase ancient glare today issue borrow same dirt";

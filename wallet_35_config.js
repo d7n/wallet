@@ -1,1 +1,1 @@
-var mnemonic = "can pave tiger emotion umbrella shiver skull first armed deny degree bread";
+var mnemonic = "galaxy welcome domain noise vintage valve wreck scrap benefit force position vacuum";

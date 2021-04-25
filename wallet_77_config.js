@@ -1,1 +1,1 @@
-var mnemonic = "embody crawl reform camera space west fetch upgrade morning again joy number";
+var mnemonic = "twist lizard soda model wave sand visa absent nuclear asthma opinion olympic";

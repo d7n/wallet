@@ -1,1 +1,1 @@
-var mnemonic = "law tree day tattoo duck state typical regular axis weird program bread";
+var mnemonic = "round odor wear auction cross ugly circle gentle purse dry proud present";

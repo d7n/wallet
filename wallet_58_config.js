@@ -1,1 +1,1 @@
-var mnemonic = "pulse banana young punch vault oak excess detect beef summer kiwi curious";
+var mnemonic = "control hamster bar mail print recall pottery twist bid solve caught spring";

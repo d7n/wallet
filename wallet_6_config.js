@@ -1,1 +1,1 @@
-var mnemonic = "split initial protect lucky void faint pass eyebrow client coral blame else";
+var mnemonic = "diary jealous rapid prize amateur solid found sample cherry quality spot sausage";

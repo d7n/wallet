@@ -1,1 +1,1 @@
-var mnemonic = "rug night shock cabin bunker lens episode truly potato chunk melt claw";
+var mnemonic = "normal harsh fatal question index lonely future sword tell donor poverty snake";

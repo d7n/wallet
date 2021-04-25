@@ -1,1 +1,1 @@
-var mnemonic = "object ring east joy heart area fog actual stadium cigar flock parade";
+var mnemonic = "monster version mad inform rifle install hotel vacant slush inflict pole erosion";

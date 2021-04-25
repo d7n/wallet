@@ -1,1 +1,1 @@
-var mnemonic = "group feature raven metal window leave rug remove chalk biology urge vital";
+var mnemonic = "alley opinion cliff cactus oxygen peanut crowd december maze wish neutral rhythm";

@@ -1,1 +1,1 @@
-var mnemonic = "sense borrow ankle zone bone degree finish ceiling toddler phone option corn";
+var mnemonic = "quick spider change twice crystal embrace lawsuit near pill menu warfare fiscal";

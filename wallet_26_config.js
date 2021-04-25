@@ -1,1 +1,1 @@
-var mnemonic = "combine black foil that obtain solid crime shadow cabbage size innocent iron";
+var mnemonic = "clever giant mind curve crater forget output leisure pitch forward arm dove";

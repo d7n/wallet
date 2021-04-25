@@ -1,1 +1,1 @@
-var mnemonic = "split room double again cereal organ hospital glare walnut afford super again";
+var mnemonic = "gift grocery false quick thank issue pink heart funny fancy column potato";

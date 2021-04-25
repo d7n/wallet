@@ -1,1 +1,1 @@
-var mnemonic = "urban census august again achieve change village visual paper relief adjust joke";
+var mnemonic = "spider century manual immense regret negative purity stumble music scissors hobby despair";

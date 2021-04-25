@@ -1,1 +1,1 @@
-var mnemonic = "market famous explain token balance share hazard town harsh armor decrease crack";
+var mnemonic = "chalk resemble frown secret paper search slot describe glare surface install allow";

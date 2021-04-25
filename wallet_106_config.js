@@ -1,1 +1,1 @@
-var mnemonic = "lend escape fringe grab agent industry body trim hamster olive kite expose";
+var mnemonic = "close build later tornado goddess champion dawn final lecture peanut ship solve";

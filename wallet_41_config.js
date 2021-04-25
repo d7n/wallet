@@ -1,1 +1,1 @@
-var mnemonic = "glass reunion dose wrestle once eye consider wood slab put stage magnet";
+var mnemonic = "august female ecology reform cherry canvas depth key only pole pluck twin";

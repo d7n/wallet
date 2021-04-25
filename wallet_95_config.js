@@ -1,1 +1,1 @@
-var mnemonic = "mushroom frozen arrow tomato usual eye aunt final talent crop already copy";
+var mnemonic = "lounge gospel memory usage scrap patient occur chimney auto shove drip bleak";

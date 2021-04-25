@@ -1,1 +1,1 @@
-var mnemonic = "sign time mystery garage bread grow receive decrease address spoon bounce royal";
+var mnemonic = "obey civil ship couch meadow legal remember weird level garbage adapt snake";

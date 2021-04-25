@@ -1,1 +1,1 @@
-var mnemonic = "ask laundry rookie enroll cradle aunt arm riot brave canvas forest surface";
+var mnemonic = "sign smile upgrade loan vote cactus bike battle employ arrow bullet rug";

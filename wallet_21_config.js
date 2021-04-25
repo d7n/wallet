@@ -1,1 +1,1 @@
-var mnemonic = "jelly target position void true basket ceiling vibrant body expand frequent beyond";
+var mnemonic = "empty pool siren hospital inside simple abandon castle face police leader mule";

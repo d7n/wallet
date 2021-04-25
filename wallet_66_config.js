@@ -1,1 +1,1 @@
-var mnemonic = "unaware bar spend tide case pluck target bid where paper retire whisper";
+var mnemonic = "earth question creek swap wing fold foster gadget final chuckle oblige test";

@@ -1,1 +1,1 @@
-var mnemonic = "brass find size fish tissue sphere accuse fee pudding major axis develop";
+var mnemonic = "target february mistake annual exact number buzz shrimp define shock click emotion";

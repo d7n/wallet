@@ -1,1 +1,1 @@
-var mnemonic = "garment jelly twist universe lobster practice swap raw tide found hope treat";
+var mnemonic = "lens arrest force uncover verb option lens course carpet gown stick mother";

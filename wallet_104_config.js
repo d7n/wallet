@@ -1,1 +1,1 @@
-var mnemonic = "point volcano base away domain mountain list found exist foot genre frown";
+var mnemonic = "uncover stone element usage code rhythm crew reflect cliff just animal enter";

@@ -1,1 +1,1 @@
-var mnemonic = "way acoustic guilt rough pair dismiss please there poet legend tired stairs";
+var mnemonic = "dune soda disagree right lucky song route endless win legal grape basic";

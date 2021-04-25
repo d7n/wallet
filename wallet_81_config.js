@@ -1,1 +1,1 @@
-var mnemonic = "attitude retreat stage group cream dutch omit foot fat license already stool";
+var mnemonic = "cannon custom submit chunk soul wave moment quality connect pole prison spirit";

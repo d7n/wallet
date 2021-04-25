@@ -1,1 +1,1 @@
-var mnemonic = "swift nephew sniff yellow polar point section parrot script brand kit undo";
+var mnemonic = "shed shrug dice nurse welcome motion humor grief fade stereo cotton jar";

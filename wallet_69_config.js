@@ -1,1 +1,1 @@
-var mnemonic = "oppose loud alley school suggest axis south prosper bless write father tongue";
+var mnemonic = "eternal assist any place canal win nice access oyster duck riot dismiss";

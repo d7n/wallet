@@ -1,1 +1,1 @@
-var mnemonic = "rubber indoor piece follow squirrel honey october abuse salute supply donate cushion";
+var mnemonic = "surround grab swallow sing welcome airport cry lunar wrestle keep athlete drink";

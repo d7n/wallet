@@ -1,1 +1,1 @@
-var mnemonic = "sample already battle square they guitar glue injury chuckle repeat ankle wear";
+var mnemonic = "wrestle consider spatial husband theory venue wrong short squeeze firm silk assist";

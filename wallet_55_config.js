@@ -1,1 +1,1 @@
-var mnemonic = "elder wood update brush awkward unhappy outer teach setup spot witness wedding";
+var mnemonic = "save goose piano meadow senior knock alarm design sun harvest prison shuffle";

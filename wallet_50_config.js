@@ -1,1 +1,1 @@
-var mnemonic = "energy federal cargo fluid glue drama review clap boy gym fetch soup";
+var mnemonic = "language weird wild initial puzzle romance weekend chimney wreck history avocado absorb";

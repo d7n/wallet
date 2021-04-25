@@ -1,1 +1,1 @@
-var mnemonic = "notice moon cat guilt emotion purse express make fatigue sadness attract coffee";
+var mnemonic = "lyrics about basic name light flower razor organ season concert sign ordinary";

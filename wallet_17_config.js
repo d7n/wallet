@@ -1,1 +1,1 @@
-var mnemonic = "shiver twin oval embody night mansion write security need that muscle ranch";
+var mnemonic = "jar theme clay online aim prison infant hybrid spray budget gap subject";

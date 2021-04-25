@@ -1,1 +1,1 @@
-var mnemonic = "course smoke arrow warm direct perfect thank village tooth pyramid predict picture";
+var mnemonic = "rose slab legal layer focus tortoise finger differ feed frame monkey shock";

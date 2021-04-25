@@ -1,1 +1,1 @@
-var mnemonic = "test web toe donor flip defy lake document vicious play coast swift";
+var mnemonic = "tower soldier square dune raven furnace buzz void exhibit soul dash actor";

@@ -1,1 +1,1 @@
-var mnemonic = "service inflict person prison trust author limit suit tired axis poem stable";
+var mnemonic = "have hour roast science rigid idea size connect pulse guide either flee";

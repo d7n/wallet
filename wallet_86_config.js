@@ -1,1 +1,1 @@
-var mnemonic = "boost apart anxiety stomach annual spike rubber electric display possible bench alarm";
+var mnemonic = "orbit right orchard approve monitor need venture material zebra ivory dice notable";

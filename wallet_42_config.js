@@ -1,1 +1,1 @@
-var mnemonic = "pledge income dinosaur crane eternal need obtain height use wisdom acoustic group";
+var mnemonic = "blur figure protect today opinion work muscle immense enhance pencil help assume";

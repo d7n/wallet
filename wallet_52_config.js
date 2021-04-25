@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo tone safe cloth art despair panther tackle erase check diamond judge";
+var mnemonic = "machine electric summer logic yard alcohol ripple isolate prevent chicken chef quantum";

@@ -1,1 +1,1 @@
-var mnemonic = "stumble butter drop hard double weird wagon later glue humor square across";
+var mnemonic = "thrive sphere property diary taste figure circle bonus super bullet film clock";

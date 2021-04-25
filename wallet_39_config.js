@@ -1,1 +1,1 @@
-var mnemonic = "brain senior split primary spawn behave wash cage act mass first antenna";
+var mnemonic = "ability praise brother cruise rifle garbage junk horse ski topple raven ranch";

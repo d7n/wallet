@@ -1,1 +1,1 @@
-var mnemonic = "select crane illness version believe minute galaxy aunt fade auction indicate sign";
+var mnemonic = "pole ethics place auto sphere syrup before junior across country involve increase";

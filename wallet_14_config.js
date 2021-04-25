@@ -1,1 +1,1 @@
-var mnemonic = "orchard fork twenty ladder shoot then sponsor donor unfair quote gaze swift";
+var mnemonic = "style link tail document example pledge priority method meat female gravity funny";

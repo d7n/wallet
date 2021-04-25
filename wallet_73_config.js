@@ -1,1 +1,1 @@
-var mnemonic = "spring rapid tragic chicken dream van loop few undo left curve staff";
+var mnemonic = "shrimp muscle black insane frown scout crop express inhale keen way old";

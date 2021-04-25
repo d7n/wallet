@@ -1,1 +1,1 @@
-var mnemonic = "void door dice element cattle reopen clinic uniform similar calm regret brand";
+var mnemonic = "weather clip amazing debate together hill cream such swear runway refuse during";

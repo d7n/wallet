@@ -1,1 +1,1 @@
-var mnemonic = "always tiger tent garlic estate label recycle window south eager bar prefer";
+var mnemonic = "junk venture mixed game flavor catalog govern engage movie donkey about powder";

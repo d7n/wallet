@@ -1,1 +1,1 @@
-var mnemonic = "spin network nature exhibit increase once broken bounce estate pizza tortoise trim";
+var mnemonic = "desert lesson tunnel bicycle second scout wrestle strike infant interest empower confirm";

@@ -1,1 +1,1 @@
-var mnemonic = "struggle clinic option document you mouse orient describe return husband kidney reason";
+var mnemonic = "pistol ankle trip little dizzy language edge broom series license chimney fancy";

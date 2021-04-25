@@ -1,1 +1,1 @@
-var mnemonic = "hint pact lobster level card purity awake zone style member tenant idea";
+var mnemonic = "sand electric hair kiss slight damp broom vibrant fade position spare emotion";

@@ -1,1 +1,1 @@
-var mnemonic = "fresh soccer elbow slush jump pattern mutual sea world such lift unfair";
+var mnemonic = "brother absorb tube just easily electric october potato engage kidney horror phrase";

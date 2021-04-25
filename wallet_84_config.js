@@ -1,1 +1,1 @@
-var mnemonic = "sausage oyster cart hedgehog boss furnace increase brother donor normal sheriff cash";
+var mnemonic = "spice frame person purchase obtain install pepper speak foil south decide neither";

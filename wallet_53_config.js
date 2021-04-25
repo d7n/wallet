@@ -1,1 +1,1 @@
-var mnemonic = "gauge merit text demand snap thrive crop better useful spend loud symbol";
+var mnemonic = "later muscle idea good skull cook cost olympic fury draft wool skin";

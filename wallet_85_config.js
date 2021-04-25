@@ -1,1 +1,1 @@
-var mnemonic = "spy odor mutual trap soap syrup blur sketch useful begin vapor fiscal";
+var mnemonic = "arch pause mom derive hold notable awesome tell pistol fitness pet modify";

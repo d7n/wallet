@@ -1,1 +1,1 @@
-var mnemonic = "spice pilot essence raccoon depend dove trash husband walk top aware ball";
+var mnemonic = "tell laugh slab sausage immune shove obscure you brick acoustic oppose clown";

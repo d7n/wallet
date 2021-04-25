@@ -1,1 +1,1 @@
-var mnemonic = "gather shallow blanket best record ball endless try ordinary pencil stereo wine";
+var mnemonic = "correct priority blast oxygen average oppose arrange zoo loyal final warm eye";
