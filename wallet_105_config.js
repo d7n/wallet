@@ -1,1 +1,1 @@
-var mnemonic = "green tower stumble cross brand cheese enhance feel resource outside deny silly";
+var mnemonic = "alarm gaze sick want drop club subject acquire unveil claim there tube";

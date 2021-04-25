@@ -1,1 +1,1 @@
-var mnemonic = "planet text elite corn fiscal oval wage celery mechanic begin burger ocean";
+var mnemonic = "ghost unfold sudden cloth mix ticket inherit repair solve then rather large";

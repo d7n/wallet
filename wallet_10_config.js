@@ -1,1 +1,1 @@
-var mnemonic = "sting kick tuna assume pigeon bus solid refuse acoustic margin kit pair";
+var mnemonic = "climb digital favorite just tonight question ill play buzz market mobile siren";

@@ -1,1 +1,1 @@
-var mnemonic = "grain meat fat child beach dragon civil pledge buffalo sand offer bubble";
+var mnemonic = "appear behave mirror open action portion section shrimp clever dune pitch come";

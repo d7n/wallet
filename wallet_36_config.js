@@ -1,1 +1,1 @@
-var mnemonic = "cabin regular answer hollow artefact plate woman bag churn load cheap stone";
+var mnemonic = "monitor jealous middle license donkey boat vacant shadow donor swim leader upon";

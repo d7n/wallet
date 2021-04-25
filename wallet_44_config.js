@@ -1,1 +1,1 @@
-var mnemonic = "tiny cricket enroll employ achieve input deal vibrant push treat denial eager";
+var mnemonic = "spawn violin fancy try surprise plate gadget lumber maid neither february envelope";

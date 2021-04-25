@@ -1,1 +1,1 @@
-var mnemonic = "dice hunt tiger dismiss neglect increase erase crawl stairs marine loop situate";
+var mnemonic = "helmet gospel theory scout approve apple until phrase correct pole tuition buzz";

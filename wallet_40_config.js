@@ -1,1 +1,1 @@
-var mnemonic = "screen material say limit blade kick observe actor toy sound zone manage";
+var mnemonic = "wrist orange evoke churn merge play fame furnace smooth lottery satoshi sick";

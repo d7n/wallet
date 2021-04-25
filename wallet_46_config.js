@@ -1,1 +1,1 @@
-var mnemonic = "online benefit voyage apple misery nice about depend win put foster kitten";
+var mnemonic = "release never alarm general lecture add crazy flame remain congress cram borrow";

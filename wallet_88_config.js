@@ -1,1 +1,1 @@
-var mnemonic = "animal voyage light capital unable usage dwarf snow grocery already reward artefact";
+var mnemonic = "federal invite empty soccer welcome course verify there dust abandon ball empower";

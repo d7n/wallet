@@ -1,1 +1,1 @@
-var mnemonic = "kiwi shy rude differ token switch alcohol trash diamond subject wet popular";
+var mnemonic = "kind artefact surge input analyst bone jeans because clutch quantum brand pig";

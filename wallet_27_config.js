@@ -1,1 +1,1 @@
-var mnemonic = "fog exit eager globe punch year famous priority omit wealth raw copy";
+var mnemonic = "own hello income lawn key matrix garbage orphan gaze fabric blame mirror";

@@ -1,1 +1,1 @@
-var mnemonic = "choose ticket pledge write choice girl answer nerve hub obvious flock invest";
+var mnemonic = "hollow chair drift butter hello child toss verb balance course stool federal";

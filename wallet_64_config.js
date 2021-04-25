@@ -1,1 +1,1 @@
-var mnemonic = "join olympic medal hint before empty height burst pluck comic room dutch";
+var mnemonic = "fiction river cancel income tongue whip drama lunch million method iron bring";

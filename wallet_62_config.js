@@ -1,1 +1,1 @@
-var mnemonic = "prepare another rib able blush recall explain west custom hand engage story";
+var mnemonic = "book alone can parent teach canal clump vibrant menu habit cabin nothing";

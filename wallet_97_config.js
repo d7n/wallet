@@ -1,1 +1,1 @@
-var mnemonic = "buzz woman tent like champion foam transfer coral satoshi raise steak limb";
+var mnemonic = "glimpse honey riot news ill will kind river orphan ridge cycle hip";

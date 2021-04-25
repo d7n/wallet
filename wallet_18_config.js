@@ -1,1 +1,1 @@
-var mnemonic = "critic opera frozen act suspect actor primary someone feature tortoise laugh rent";
+var mnemonic = "noble wheel monkey spoil have favorite city glue absorb bone swing laptop";

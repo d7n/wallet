@@ -1,1 +1,1 @@
-var mnemonic = "quarter nest neglect tilt ostrich leaf mom sting identify concert oak resist";
+var mnemonic = "excite endless fuel wear ride exact key above void cart entire muscle";

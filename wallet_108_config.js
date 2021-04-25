@@ -1,1 +1,1 @@
-var mnemonic = "neck mammal begin bubble actual volcano cream trumpet minute toss discover victory";
+var mnemonic = "potato kidney effort purse truck goat front forest toy elder valley bullet";

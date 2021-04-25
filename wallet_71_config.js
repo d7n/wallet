@@ -1,1 +1,1 @@
-var mnemonic = "oppose unhappy notable favorite keep absurd trash roast erosion yard help silly";
+var mnemonic = "there visa twelve donor cost mango slim thing setup hill kingdom barely";

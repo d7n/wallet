@@ -1,1 +1,1 @@
-var mnemonic = "cute oxygen crucial service robot science bullet limit milk tray marriage lab";
+var mnemonic = "wear fix indoor labor typical above sample must observe worry rather again";

@@ -1,1 +1,1 @@
-var mnemonic = "skill later scare extend female certain physical broken install top leaf lesson";
+var mnemonic = "pepper custom casino olympic bench work become welcome shiver essay leg uncle";

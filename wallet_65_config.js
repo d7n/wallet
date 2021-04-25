@@ -1,1 +1,1 @@
-var mnemonic = "mushroom hazard turtle recall turkey neither distance gaze luxury cream harsh elegant";
+var mnemonic = "twice rib foot skin core fine become response laugh access disagree test";

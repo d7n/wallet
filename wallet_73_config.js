@@ -1,1 +1,1 @@
-var mnemonic = "limb divert off thumb hockey student mammal manual cake eagle seminar buddy";
+var mnemonic = "doctor token degree immense number burger sting mammal lake sense dice before";

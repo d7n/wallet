@@ -1,1 +1,1 @@
-var mnemonic = "bag join subject hobby target vibrant matter swift local envelope stand list";
+var mnemonic = "live offer divorce surge firm dress repeat rhythm bronze culture pull blossom";

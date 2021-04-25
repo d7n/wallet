@@ -1,1 +1,1 @@
-var mnemonic = "enrich goat raise month winner donor empty film parade above connect stem";
+var mnemonic = "neck reward ten pluck symptom soft around hard welcome ticket rival base";

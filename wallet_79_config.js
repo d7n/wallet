@@ -1,1 +1,1 @@
-var mnemonic = "segment velvet apple nephew diet attend prepare march network transfer tuition million";
+var mnemonic = "kangaroo future wing remain eye seed place rotate fuel mixture witness outdoor";

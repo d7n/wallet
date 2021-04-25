@@ -1,1 +1,1 @@
-var mnemonic = "remember armed average awkward project debris congress duty shallow once blush visual";
+var mnemonic = "match dust broccoli cotton engine clay fatigue spoil shrug bargain season filter";

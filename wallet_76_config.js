@@ -1,1 +1,1 @@
-var mnemonic = "liberty simple fringe erase power say embrace onion swamp jaguar breeze nature";
+var mnemonic = "pudding orchard hour tooth essence rude random ice rifle crumble rice play";

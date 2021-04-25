@@ -1,1 +1,1 @@
-var mnemonic = "taxi clutch element tobacco guard ancient bubble oppose usual old arrest negative";
+var mnemonic = "title task sleep clap unknown barely open suffer time dog purchase deposit";

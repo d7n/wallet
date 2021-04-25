@@ -1,1 +1,1 @@
-var mnemonic = "because wear barely large exhaust tail box aerobic destroy palace excuse expose";
+var mnemonic = "session napkin traffic feed insane simple remain gather cruel burden poem cabin";

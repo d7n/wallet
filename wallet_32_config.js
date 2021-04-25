@@ -1,1 +1,1 @@
-var mnemonic = "zoo fault occur napkin cabin valid drip divorce rocket useful human bronze";
+var mnemonic = "venue chef unveil nominee harvest double skirt kick have dragon dentist huge";

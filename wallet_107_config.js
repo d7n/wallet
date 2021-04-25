@@ -1,1 +1,1 @@
-var mnemonic = "garment wire base occur snack noodle phrase reunion fragile winner wood stool";
+var mnemonic = "voyage liquid must proof secret swap snack detect shoe limit balcony dolphin";

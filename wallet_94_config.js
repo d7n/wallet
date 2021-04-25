@@ -1,1 +1,1 @@
-var mnemonic = "limb secret index despair funny spend enhance hurt key salmon same purity";
+var mnemonic = "opinion youth sponsor secret cave glass finger hover turkey foil patrol fresh";

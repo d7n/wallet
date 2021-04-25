@@ -1,1 +1,1 @@
-var mnemonic = "sad run trophy autumn remove dynamic insane essay climb alley another payment";
+var mnemonic = "portion rack live unknown south skill wrist pig bleak dilemma jump twice";

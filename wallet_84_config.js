@@ -1,1 +1,1 @@
-var mnemonic = "jar warfare pattern ahead retreat limit again idea gown oblige lift supreme";
+var mnemonic = "habit harbor salad proof owner okay case quarter dice vintage weird key";

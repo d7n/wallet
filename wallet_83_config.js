@@ -1,1 +1,1 @@
-var mnemonic = "engine fresh monkey awful venture siren minimum punch bonus city clip cause";
+var mnemonic = "timber inmate field quality win young brother pizza priority tonight matter crisp";

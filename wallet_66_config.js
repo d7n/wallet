@@ -1,1 +1,1 @@
-var mnemonic = "satoshi devote chapter inform warm mistake intact scene divorce volume witness board";
+var mnemonic = "weapon stamp cabin ripple hole include next level remember claim vast claw";

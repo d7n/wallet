@@ -1,1 +1,1 @@
-var mnemonic = "grass exchange sense attract relax suit hole forum uniform wide betray tree";
+var mnemonic = "blade cash puppy shrimp original cousin board normal zebra useless walnut sphere";

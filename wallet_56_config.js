@@ -1,1 +1,1 @@
-var mnemonic = "course goose loop point husband junk olympic quiz swap real vacuum budget";
+var mnemonic = "eight sleep south father deer junior dinosaur gain base lottery organ napkin";

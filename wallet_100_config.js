@@ -1,1 +1,1 @@
-var mnemonic = "pilot music stay fix math find enter glory sight aisle notable entry";
+var mnemonic = "art actress neglect planet accuse inquiry grain wisdom height grace salon misery";

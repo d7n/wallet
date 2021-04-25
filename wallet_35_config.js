@@ -1,1 +1,1 @@
-var mnemonic = "spend blame index unveil guide icon slush normal boil book reason net";
+var mnemonic = "stuff country quantum purse fame season nurse carry pizza mouse mean kingdom";

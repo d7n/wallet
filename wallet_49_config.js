@@ -1,1 +1,1 @@
-var mnemonic = "salute surge husband demise liberty random caught silk couple robust magnet clarify";
+var mnemonic = "library tilt saddle adult proof together rebuild need giraffe announce sauce recycle";

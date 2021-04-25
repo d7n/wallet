@@ -1,1 +1,1 @@
-var mnemonic = "federal level crouch flag run firm fold motor collect window nut tribe";
+var mnemonic = "original bronze style imitate anchor scrap unveil pill excite adapt want bitter";

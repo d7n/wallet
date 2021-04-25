@@ -1,1 +1,1 @@
-var mnemonic = "dial ignore rocket lock purity quantum route weekend glimpse wrong creek ecology";
+var mnemonic = "claim march poet ozone day tiny primary lobster cheese scout since hedgehog";

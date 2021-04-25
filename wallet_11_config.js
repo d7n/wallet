@@ -1,1 +1,1 @@
-var mnemonic = "attend regret scout chief castle enough scissors surprise hair wet slam syrup";
+var mnemonic = "language scorpion learn obtain method attend symbol false water tell transfer pony";

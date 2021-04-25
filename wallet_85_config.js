@@ -1,1 +1,1 @@
-var mnemonic = "abstract cart review powder theme canoe thrive dog wire sing solution suggest";
+var mnemonic = "help near tent over ball skin accuse knock work opinion couple resist";

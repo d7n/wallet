@@ -1,1 +1,1 @@
-var mnemonic = "plunge rival weapon exit luggage drift alarm spray move approve vendor joke";
+var mnemonic = "crew juice behave swim image note food labor anger raw transfer need";

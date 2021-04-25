@@ -1,1 +1,1 @@
-var mnemonic = "behind paper fatigue gentle stone rhythm peanut truly museum craft solution emerge";
+var mnemonic = "lake raw ship exercise develop develop sight thing flame couch top ten";

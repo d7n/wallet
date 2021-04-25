@@ -1,1 +1,1 @@
-var mnemonic = "display polar cabbage shield eager valve level bomb predict remember prosper lamp";
+var mnemonic = "chaos cat stage waste observe lyrics decade evidence dry crowd marriage scissors";

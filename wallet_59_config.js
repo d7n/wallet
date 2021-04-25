@@ -1,1 +1,1 @@
-var mnemonic = "equal rule raven retreat gym promote snow wide into lava enhance blossom";
+var mnemonic = "blouse sentence absorb put own mosquito off spread meadow roof large success";

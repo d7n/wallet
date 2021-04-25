@@ -1,1 +1,1 @@
-var mnemonic = "cabin antique divert poem occur next high run kangaroo avoid draw below";
+var mnemonic = "atom script hurry valley sail ready learn symbol street adult weapon general";

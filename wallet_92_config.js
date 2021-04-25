@@ -1,1 +1,1 @@
-var mnemonic = "shift virtual cloth setup minute grid bunker stick tourist elbow shallow choice";
+var mnemonic = "rotate model whale pause script degree into cheap only praise logic ginger";

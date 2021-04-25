@@ -1,1 +1,1 @@
-var mnemonic = "fly because ocean defy suspect wife merry air fire bind lunch denial";
+var mnemonic = "lunar office rail valley wage abandon tunnel ladder swarm sense aisle shaft";

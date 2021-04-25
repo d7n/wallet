@@ -1,1 +1,1 @@
-var mnemonic = "beach increase marine fruit whale chair bamboo romance nuclear heavy sight throw";
+var mnemonic = "elite senior collect castle call coach prevent drift horn kid target blast";

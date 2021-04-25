@@ -1,1 +1,1 @@
-var mnemonic = "magic echo trophy furnace spread glow short initial battle baby margin market";
+var mnemonic = "enact flavor staff muscle clip school clutch maple fashion crater solve report";

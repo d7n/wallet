@@ -1,1 +1,1 @@
-var mnemonic = "brother filter dumb screen cliff army degree master syrup glimpse harsh mouse";
+var mnemonic = "lady patch arrange exist warm engine topic carbon allow success bridge museum";

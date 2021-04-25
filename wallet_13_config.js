@@ -1,1 +1,1 @@
-var mnemonic = "control update video soap assume sniff depth wet sleep chase want warm";
+var mnemonic = "muffin job mouse letter agree screen easily farm stumble orient elder limit";

@@ -1,1 +1,1 @@
-var mnemonic = "brave wink expose number improve around paper cute tower top mistake electric";
+var mnemonic = "kitten trigger pilot apple screen music first axis infant sunset alpha awful";

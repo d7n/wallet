@@ -1,1 +1,1 @@
-var mnemonic = "then vendor vicious bomb south disagree nut female ladder canal trap rate";
+var mnemonic = "eyebrow wife until ladder file remember hard verb pink imitate tragic arm";

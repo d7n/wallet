@@ -1,1 +1,1 @@
-var mnemonic = "letter simple often mixed scissors subject clog can silly sea copper word";
+var mnemonic = "lady price social stairs define disorder captain tourist true raccoon artefact horse";

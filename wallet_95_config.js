@@ -1,1 +1,1 @@
-var mnemonic = "enrich diet useful toddler young boss delay chunk wolf iron angry penalty";
+var mnemonic = "salmon foster nasty rely foam initial cradle blind fault laundry sight kick";

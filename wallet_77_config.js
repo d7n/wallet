@@ -1,1 +1,1 @@
-var mnemonic = "what friend escape scare kidney state inmate flight pledge crime all laundry";
+var mnemonic = "mimic expire busy fresh outdoor nature canvas festival slush original pilot turtle";

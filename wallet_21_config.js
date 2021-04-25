@@ -1,1 +1,1 @@
-var mnemonic = "hybrid spoil burden robot fault lion mammal comfort pencil card modify tonight";
+var mnemonic = "submit blame wet slim couple dutch random inmate turtle kitchen earn island";

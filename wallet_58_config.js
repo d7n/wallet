@@ -1,1 +1,1 @@
-var mnemonic = "stable remove style sun used small fancy wise buffalo venue execute diamond";
+var mnemonic = "animal flag oxygen peasant prize wonder trend topic amateur cook mistake beauty";

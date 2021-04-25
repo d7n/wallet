@@ -1,1 +1,1 @@
-var mnemonic = "pepper tank shuffle act spot stereo danger bachelor latin utility fluid bench";
+var mnemonic = "drift connect because direct old novel anchor despair offer update velvet artwork";

@@ -1,1 +1,1 @@
-var mnemonic = "duck talk injury brass spoil menu lumber dizzy emerge real fuel half";
+var mnemonic = "clutch meat category increase work ceiling sad term camp unknown kangaroo school";

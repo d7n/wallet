@@ -1,1 +1,1 @@
-var mnemonic = "twice moment avoid thrive person damage play swear festival hub caught shoulder";
+var mnemonic = "cereal duck still control rude leopard enforce elder major cricket insane celery";

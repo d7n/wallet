@@ -1,1 +1,1 @@
-var mnemonic = "image intact neutral punch typical wheel report boat pattern there click dawn";
+var mnemonic = "side unable derive kidney trigger can box intact cruise pledge negative leave";

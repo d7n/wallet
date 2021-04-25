@@ -1,1 +1,1 @@
-var mnemonic = "surface panic dawn advice movie decade jaguar amazing hollow course sponsor client";
+var mnemonic = "shell shy illegal fruit hospital acquire large swarm sure warm roast drive";

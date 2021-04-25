@@ -1,1 +1,1 @@
-var mnemonic = "describe scorpion recipe ghost visual census party other glad income favorite sister";
+var mnemonic = "arrest cave daring cat primary sort similar viable tube stereo tag nature";

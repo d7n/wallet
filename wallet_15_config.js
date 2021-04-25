@@ -1,1 +1,1 @@
-var mnemonic = "demise hen erase message voyage hint exclude trend key laugh ghost change";
+var mnemonic = "kid eternal picture canvas lizard tumble crunch venue birth cave mesh peace";

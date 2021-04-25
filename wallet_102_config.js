@@ -1,1 +1,1 @@
-var mnemonic = "extend hunt sword run primary brisk simple fall offer blouse human toss";
+var mnemonic = "fog sleep sniff index echo metal salad feel suggest dove loyal session";

@@ -1,1 +1,1 @@
-var mnemonic = "lumber mistake stamp crawl kidney joke broken disease discover forget expire clip";
+var mnemonic = "injury until color body style hard vicious general clown actor own faculty";

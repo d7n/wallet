@@ -1,1 +1,1 @@
-var mnemonic = "august economy chapter phrase finger caught combine bunker snack cloud decline shove";
+var mnemonic = "style accuse crystal escape volume figure imitate above little inner lion rather";

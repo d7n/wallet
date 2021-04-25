@@ -1,1 +1,1 @@
-var mnemonic = "grape resist oval profit orchard reason gift error flash know cable vehicle";
+var mnemonic = "feature rug gasp since exchange arrest blossom kitchen weather horse fetch copper";

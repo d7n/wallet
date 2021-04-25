@@ -1,1 +1,1 @@
-var mnemonic = "winter slab agree noble daughter tongue tower coach clever junk plastic please";
+var mnemonic = "aerobic brush grit involve jungle focus notable still vintage sorry garage play";

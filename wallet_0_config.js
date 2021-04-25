@@ -1,1 +1,1 @@
-var mnemonic = "company jewel winner ski wrist cave diary poverty sample blame copy color";
+var mnemonic = "text axis meat health hub setup hedgehog abuse sister panic walnut wrap";

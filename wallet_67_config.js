@@ -1,1 +1,1 @@
-var mnemonic = "couple quality funny gauge patrol brave tiny pretty shiver demise there normal";
+var mnemonic = "warm blast release course demise secret nice worry place zero off scorpion";

@@ -1,1 +1,1 @@
-var mnemonic = "truly music rain soldier mango soft thank noodle net payment shove boy";
+var mnemonic = "funny tonight valley evolve since virtual burst obscure detect crawl hold glide";

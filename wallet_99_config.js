@@ -1,1 +1,1 @@
-var mnemonic = "spin diet coyote inject certain couple disorder zero body oil plastic funny";
+var mnemonic = "side delay double spawn mammal believe trust angry curve owner harbor fox";

@@ -1,1 +1,1 @@
-var mnemonic = "cake culture cheese way peasant conduct about blind virtual found train dawn";
+var mnemonic = "upon fatigue metal tuition beach quantum daughter assist dismiss zebra age current";

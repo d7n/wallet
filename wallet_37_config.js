@@ -1,1 +1,1 @@
-var mnemonic = "tray demise theme dice unfair water law scorpion void loop move better";
+var mnemonic = "frame obtain mule best pulp input wolf section unhappy shiver special cactus";

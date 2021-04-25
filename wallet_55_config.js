@@ -1,1 +1,1 @@
-var mnemonic = "battle fault ripple swamp alley oxygen debate faculty artefact catch right goat";
+var mnemonic = "scare omit parade describe marble develop rookie auction brick jelly urban dutch";

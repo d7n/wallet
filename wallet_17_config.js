@@ -1,1 +1,1 @@
-var mnemonic = "silly kitten hen basket talent million cable absurd tree way moon track";
+var mnemonic = "crumble cactus current what orange giraffe modify coyote awful quote woman federal";

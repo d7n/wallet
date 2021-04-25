@@ -1,1 +1,1 @@
-var mnemonic = "credit cause merge hip provide update case scene brief inform opinion art";
+var mnemonic = "almost draft design hire six end person spirit coffee vote like display";
