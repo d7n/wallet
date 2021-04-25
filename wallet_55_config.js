@@ -1,1 +1,1 @@
-var mnemonic = "tent aspect ethics print stem jazz rent clinic century spin require bridge";
+var mnemonic = "burger exhibit there omit guard option between bleak horn hole strike provide";

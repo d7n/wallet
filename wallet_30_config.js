@@ -1,1 +1,1 @@
-var mnemonic = "funny frost vault also entry vibrant kick icon retire enroll enough sting";
+var mnemonic = "beyond glide uniform describe lizard vapor rough rabbit moral fun sadness satisfy";

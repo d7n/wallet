@@ -1,1 +1,1 @@
-var mnemonic = "miss poverty capable budget loyal tissue digital few thunder spread swear chalk";
+var mnemonic = "van excite crouch lecture permit slot cycle culture cupboard loud fatigue cupboard";

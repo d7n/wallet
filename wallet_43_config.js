@@ -1,1 +1,1 @@
-var mnemonic = "put shoot athlete arch dilemma piano side promote chronic saddle retreat cricket";
+var mnemonic = "document stuff parrot barrel expand pyramid imitate host strong buyer damage treat";

@@ -1,1 +1,1 @@
-var mnemonic = "model mind moon valve list aerobic cargo donate pepper sand slim actual";
+var mnemonic = "degree trust draft company clarify earth reduce orange bunker lottery field roast";

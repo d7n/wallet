@@ -1,1 +1,1 @@
-var mnemonic = "tiger key potato monitor pelican small wink mirror someone plate pyramid letter";
+var mnemonic = "among impose need hero patch shoot crowd hybrid powder oblige satisfy remain";

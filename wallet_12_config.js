@@ -1,1 +1,1 @@
-var mnemonic = "teach section scrub vicious swallow shine labor gallery science episode curtain save";
+var mnemonic = "kit ship pulse trophy essence dolphin jelly frog advance walk material march";

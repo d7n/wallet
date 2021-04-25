@@ -1,1 +1,1 @@
-var mnemonic = "hello rural category sketch defense toy kit paper palm wish senior anger";
+var mnemonic = "drastic time unknown grass scatter pitch gravity frozen burst crew produce repeat";

@@ -1,1 +1,1 @@
-var mnemonic = "already obvious nose stone panda enroll park survey giant match uphold owner";
+var mnemonic = "memory draft purity sister affair must output noise hope enact object laundry";

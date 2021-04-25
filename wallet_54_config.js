@@ -1,1 +1,1 @@
-var mnemonic = "dignity business destroy near cave liberty setup mansion normal vacant poem jar";
+var mnemonic = "subway piano news remind save swap steel pudding athlete entry limit slight";

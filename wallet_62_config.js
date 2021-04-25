@@ -1,1 +1,1 @@
-var mnemonic = "sand equip act today clump rent fatigue bullet genius box stay shell";
+var mnemonic = "tragic number cook twelve spare now heart hand meat glance put noodle";

@@ -1,1 +1,1 @@
-var mnemonic = "egg toy hill depart vehicle gather audit poem fluid play resemble word";
+var mnemonic = "gentle crucial fine mutual hawk card roof stomach undo pizza wrap fetch";

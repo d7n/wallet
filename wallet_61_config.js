@@ -1,1 +1,1 @@
-var mnemonic = "maple boss devote awesome great dolphin bid unable change wreck anchor purpose";
+var mnemonic = "begin thing jelly aim barrel swing shrimp swallow inquiry when job cannon";

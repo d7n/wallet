@@ -1,1 +1,1 @@
-var mnemonic = "rice celery thing october oppose entry brother filter mom moment kite simple";
+var mnemonic = "anger hammer piano host open disorder bulk above caught cat someone check";

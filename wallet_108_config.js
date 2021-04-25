@@ -1,1 +1,1 @@
-var mnemonic = "october follow alien wise shell humble toss doctor swallow assist alert coach";
+var mnemonic = "note jar can faculty trumpet heart kingdom inflict index olive now ripple";

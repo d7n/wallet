@@ -1,1 +1,1 @@
-var mnemonic = "effort pitch home seven survey upset reunion always curve card modify caution";
+var mnemonic = "intact husband cost base alert afraid journey visit cube father lemon family";

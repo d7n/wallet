@@ -1,1 +1,1 @@
-var mnemonic = "know flush wrist bright price remove bullet hover coast horn exchange whip";
+var mnemonic = "safe liquid goose muffin since advance escape cereal jump fish tobacco liquid";

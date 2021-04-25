@@ -1,1 +1,1 @@
-var mnemonic = "wonder taste bronze embody perfect enter onion pull cream symbol danger debate";
+var mnemonic = "fan narrow color series weapon avoid stand torch velvet little boring peace";

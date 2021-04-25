@@ -1,1 +1,1 @@
-var mnemonic = "high coconut either sorry cradle gesture forest swamp dismiss glare another release";
+var mnemonic = "remove little give dash improve unaware hand law venue replace bike bless";

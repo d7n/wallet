@@ -1,1 +1,1 @@
-var mnemonic = "matrix mystery fuel orange neglect safe crazy weasel economy act club combine";
+var mnemonic = "castle claw caution fantasy essence nest doctor meat collect item pond club";

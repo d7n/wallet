@@ -1,1 +1,1 @@
-var mnemonic = "wage basket supply almost dry reflect photo slight outside business color guilt";
+var mnemonic = "kangaroo pact vessel connect neglect solve limit please crowd rifle couch liberty";

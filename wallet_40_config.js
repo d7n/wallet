@@ -1,1 +1,1 @@
-var mnemonic = "harvest erase stairs expect gravity install lobster mandate waste push calm tackle";
+var mnemonic = "kitchen deny december onion monkey april drastic teach pass wreck buyer wall";

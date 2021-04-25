@@ -1,1 +1,1 @@
-var mnemonic = "raven half sense guitar lunch coast plug reject quality secret spoon wedding";
+var mnemonic = "account motor real milk aware rich where such mass struggle offer mobile";

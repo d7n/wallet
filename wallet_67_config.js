@@ -1,1 +1,1 @@
-var mnemonic = "wink reward logic egg okay solve cotton inside resource power silk window";
+var mnemonic = "error ticket guide broom emotion flip lady embark pulp drill machine enrich";

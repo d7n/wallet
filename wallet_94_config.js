@@ -1,1 +1,1 @@
-var mnemonic = "demand start victory radio empower galaxy wrestle mail access broken crowd bind";
+var mnemonic = "midnight glance bacon winner torch raw noble trouble practice addict below frost";

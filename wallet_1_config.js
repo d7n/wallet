@@ -1,1 +1,1 @@
-var mnemonic = "winter half praise entire oven sausage rival kick earn mixed sleep lift";
+var mnemonic = "inflict tell quick arm alert ginger better ticket cattle video baby damp";

@@ -1,1 +1,1 @@
-var mnemonic = "cherry climb gym country success advice coyote security tumble neck swing fog";
+var mnemonic = "parent degree remove fat hammer pumpkin adjust ahead learn acoustic awkward element";

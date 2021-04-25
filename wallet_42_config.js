@@ -1,1 +1,1 @@
-var mnemonic = "hat join inform shoulder entry gun peanut churn stadium attack knock giant";
+var mnemonic = "sword machine family retreat suspect glide banner clog mutual bunker ring food";

@@ -1,1 +1,1 @@
-var mnemonic = "educate lock own network learn ranch frown duck screen tooth pulp parrot";
+var mnemonic = "dinner party praise six space firm charge knee ball village destroy become";

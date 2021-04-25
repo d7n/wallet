@@ -1,1 +1,1 @@
-var mnemonic = "armed banner inspire all column surge struggle aunt melody picnic keep gate";
+var mnemonic = "rebel rigid opera horse phrase ketchup affair awesome blue chronic catch item";

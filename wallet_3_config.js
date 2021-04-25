@@ -1,1 +1,1 @@
-var mnemonic = "piece penalty enforce dolphin winter cave option shiver curious sock pigeon still";
+var mnemonic = "leg nose find panther sadness limit miss rebuild alcohol hockey engine become";

@@ -1,1 +1,1 @@
-var mnemonic = "upper rural february will path ozone main finger track pond antenna remind";
+var mnemonic = "humor brief potato acoustic visit melt either tooth enact actual image police";

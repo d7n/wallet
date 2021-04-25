@@ -1,1 +1,1 @@
-var mnemonic = "vehicle trip current desk practice creek chase glow avoid purchase visa maze";
+var mnemonic = "danger float arm dog tragic erupt danger scheme laptop penalty already stick";

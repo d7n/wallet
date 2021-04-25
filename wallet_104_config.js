@@ -1,1 +1,1 @@
-var mnemonic = "craft fatigue arrange shove mimic symptom already wall pull balance universe arrow";
+var mnemonic = "mountain creek iron ignore jacket payment slab nation curtain any clap dinner";

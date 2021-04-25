@@ -1,1 +1,1 @@
-var mnemonic = "error share attract scan fortune supreme grab panel drop assist steel nerve";
+var mnemonic = "cushion lonely festival flavor tomato pilot fog exercise surround dwarf palm dust";

@@ -1,1 +1,1 @@
-var mnemonic = "dizzy autumn tuition rubber daring afraid torch ghost afford enable travel degree";
+var mnemonic = "pole oval taxi cost cherry sentence spike rabbit couple chicken unfair girl";

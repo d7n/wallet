@@ -1,1 +1,1 @@
-var mnemonic = "edge fan slim paddle bean season legend amount lottery maple autumn clock";
+var mnemonic = "deposit job note unlock trust distance find squirrel flame dumb favorite notice";

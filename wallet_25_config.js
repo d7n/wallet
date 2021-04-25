@@ -1,1 +1,1 @@
-var mnemonic = "labor noise unhappy bounce height tone network pledge dinosaur winner tackle race";
+var mnemonic = "flavor title reduce direct motor toast crowd time banana nest random guilt";

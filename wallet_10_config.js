@@ -1,1 +1,1 @@
-var mnemonic = "enjoy sorry royal click still nest mixed silver arrive much decline cactus";
+var mnemonic = "allow soft execute cheese stuff soul hire cable retreat ask donate nothing";

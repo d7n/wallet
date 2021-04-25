@@ -1,1 +1,1 @@
-var mnemonic = "apple gauge tuition zoo arrange rookie enforce weird below enough sheriff cigar";
+var mnemonic = "glare teach color defy correct damage rate public rebel ketchup throw almost";

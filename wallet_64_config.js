@@ -1,1 +1,1 @@
-var mnemonic = "stove wreck lift coffee parent confirm joy source replace toward base violin";
+var mnemonic = "truck embrace bitter fold usual convince crazy equip hood rival host shine";

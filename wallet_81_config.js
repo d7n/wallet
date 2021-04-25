@@ -1,1 +1,1 @@
-var mnemonic = "transfer sample connect east proud network dice intact fortune subway bicycle slender";
+var mnemonic = "cage oval water upper door barely mimic ticket crawl tooth output post";

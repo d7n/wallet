@@ -1,1 +1,1 @@
-var mnemonic = "relief name curtain visual pretty drum alert maze latin smart leaf number";
+var mnemonic = "tower paper student knife click struggle shop display library return exercise inherit";

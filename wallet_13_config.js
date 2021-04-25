@@ -1,1 +1,1 @@
-var mnemonic = "rule green soft lyrics tent together jaguar talk nurse boost drama talk";
+var mnemonic = "rather brown spice double area add breeze hip nephew reform night slight";

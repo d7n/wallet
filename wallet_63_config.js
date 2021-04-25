@@ -1,1 +1,1 @@
-var mnemonic = "into naive museum weasel lake calm embrace voice trouble edge spread increase";
+var mnemonic = "minor speak sight narrow wire tide among object letter crop blossom exercise";

@@ -1,1 +1,1 @@
-var mnemonic = "project bunker similar sphere cactus wheel curve almost north crawl opinion host";
+var mnemonic = "smoke random cloth eager carry purse office chronic oak later era vanish";

@@ -1,1 +1,1 @@
-var mnemonic = "property laptop step illness hood beach panda figure identify hunt sick still";
+var mnemonic = "rebel radio giraffe cook hand universe embark draft vacuum forest ahead effort";

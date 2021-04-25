@@ -1,1 +1,1 @@
-var mnemonic = "length jar lift predict oil alone grocery wall guard butter pizza edge";
+var mnemonic = "cloud nest feature good rail enemy nerve deliver treat swear achieve mirror";

@@ -1,1 +1,1 @@
-var mnemonic = "inject term cheese general note dinosaur cricket invite attack expect organ refuse";
+var mnemonic = "want million report owner now secret curious budget explain warm easily omit";

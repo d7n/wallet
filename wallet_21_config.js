@@ -1,1 +1,1 @@
-var mnemonic = "spend hen grab bus gesture kitchen illness vessel lazy struggle raise logic";
+var mnemonic = "under crunch glimpse foot select sport enable chuckle vintage where blade bounce";

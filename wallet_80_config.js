@@ -1,1 +1,1 @@
-var mnemonic = "across rapid crisp spy swamp gaze draft laugh time attack accuse assault";
+var mnemonic = "simple retreat crop two rhythm result first exhibit era alpha change viable";

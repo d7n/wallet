@@ -1,1 +1,1 @@
-var mnemonic = "tortoise quiz solar opera joy wife share much impulse curve stone follow";
+var mnemonic = "vapor shield elephant inherit cool future lottery negative jeans action puppy relief";

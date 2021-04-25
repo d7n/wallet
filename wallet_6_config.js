@@ -1,1 +1,1 @@
-var mnemonic = "tooth inform unfold phone anxiety vault brief trophy catalog orchard between pumpkin";
+var mnemonic = "combine two rotate cycle you tiny cousin mechanic gown awkward fence injury";

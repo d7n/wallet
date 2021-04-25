@@ -1,1 +1,1 @@
-var mnemonic = "economy clarify local easy scatter comic another goose bracket grace orange merry";
+var mnemonic = "drink announce what kiwi ordinary rescue almost bunker shallow pulp luggage horror";

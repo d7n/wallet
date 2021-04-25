@@ -1,1 +1,1 @@
-var mnemonic = "security twin year knock bleak copper misery garden spatial column square prosper";
+var mnemonic = "link negative juice moral phrase crowd vacuum explain hill danger enable model";

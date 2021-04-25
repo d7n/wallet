@@ -1,1 +1,1 @@
-var mnemonic = "scare drift extra aisle acquire tilt image february truly knee behave daughter";
+var mnemonic = "echo produce tackle friend trim dash basic century quit spatial barely sadness";

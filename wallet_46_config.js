@@ -1,1 +1,1 @@
-var mnemonic = "barely color clutch bright type master grocery assault iron cup patch shrimp";
+var mnemonic = "museum noble actor same harvest romance flash turkey theory afraid unknown meadow";

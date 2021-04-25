@@ -1,1 +1,1 @@
-var mnemonic = "initial neglect nephew crane scene tumble squirrel history carbon denial equal kangaroo";
+var mnemonic = "spare found clarify artist myth duty cereal style income heavy science tray";

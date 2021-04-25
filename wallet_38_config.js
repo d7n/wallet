@@ -1,1 +1,1 @@
-var mnemonic = "usual view organ motor animal weather valid cruise horn reform canal clinic";
+var mnemonic = "item predict theory silk riot novel right release raven bounce law tooth";

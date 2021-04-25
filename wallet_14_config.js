@@ -1,1 +1,1 @@
-var mnemonic = "satoshi need else harvest exotic cry exotic relax deputy echo prosper obscure";
+var mnemonic = "close two unlock sight possible brand empty fringe addict canvas hub social";

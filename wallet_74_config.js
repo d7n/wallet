@@ -1,1 +1,1 @@
-var mnemonic = "ready rotate other goose timber flat real blush drive oven index shoulder";
+var mnemonic = "eye fit raccoon solve nephew scrap edit saddle emerge coast ring detect";

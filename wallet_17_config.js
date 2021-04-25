@@ -1,1 +1,1 @@
-var mnemonic = "unlock birth another recall mushroom fatigue shadow hole observe floor vibrant act";
+var mnemonic = "piece shiver govern thought clean above gossip icon critic siren bachelor wasp";

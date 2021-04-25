@@ -1,1 +1,1 @@
-var mnemonic = "churn panther mom ethics lawsuit hour shoot midnight tortoise venture bring stable";
+var mnemonic = "bid bitter physical giant prize cannon treat crucial need okay maple stand";

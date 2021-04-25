@@ -1,1 +1,1 @@
-var mnemonic = "impulse cash live page motor say tonight run youth breeze skirt pipe";
+var mnemonic = "sing dizzy minor canal resource kiwi canyon negative embark fan clap fall";

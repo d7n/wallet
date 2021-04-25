@@ -1,1 +1,1 @@
-var mnemonic = "bitter tornado bench settle blind exhaust metal gospel flip sunny soccer aerobic";
+var mnemonic = "tiger extend mask pill correct mango snake network tag enact success section";

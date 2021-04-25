@@ -1,1 +1,1 @@
-var mnemonic = "win illness exit yard wild sort book live there absorb flavor once";
+var mnemonic = "old taxi radar enemy strike spoil dirt author gasp zone deliver caution";

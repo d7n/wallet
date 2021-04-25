@@ -1,1 +1,1 @@
-var mnemonic = "paper puzzle palm mass ship crazy innocent boil clinic purity adapt brush";
+var mnemonic = "rural click cruel country pepper satoshi hidden cousin laptop valley label cabbage";

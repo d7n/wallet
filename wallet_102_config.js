@@ -1,1 +1,1 @@
-var mnemonic = "social seat garlic road lizard north priority panther snake chest omit right";
+var mnemonic = "devote fat equal random dog idle goose drive goose joke rate glad";

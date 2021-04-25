@@ -1,1 +1,1 @@
-var mnemonic = "decrease auction orbit beef relief spirit spoil man doctor leaf industry ostrich";
+var mnemonic = "dentist zoo right soul special indoor bacon height thrive awkward cost idea";

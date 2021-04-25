@@ -1,1 +1,1 @@
-var mnemonic = "example language half afraid pudding expect cheese mass boost entire birth oven";
+var mnemonic = "antenna monster account bean dumb memory machine across antenna clock lizard chuckle";

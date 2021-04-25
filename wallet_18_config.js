@@ -1,1 +1,1 @@
-var mnemonic = "copper rule tone soccer depend intact print call brush creek spare suggest";
+var mnemonic = "twin imitate unusual more silver cram inquiry ensure spray online pelican cupboard";

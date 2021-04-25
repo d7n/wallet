@@ -1,1 +1,1 @@
-var mnemonic = "music meat they top knife dinner energy snack welcome wolf kite donate";
+var mnemonic = "undo post replace chronic wall light cross update true ecology risk crystal";

@@ -1,1 +1,1 @@
-var mnemonic = "isolate index elegant hour amazing expect riot bundle home legal fabric gloom";
+var mnemonic = "broken life foam degree battle drift wash web base mean absurd inherit";

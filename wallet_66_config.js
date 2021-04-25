@@ -1,1 +1,1 @@
-var mnemonic = "fortune soda author chuckle language clip alpha scorpion salute burst split will";
+var mnemonic = "raven dragon cube hope supply veteran boil critic exhibit neck valve elegant";

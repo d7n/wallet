@@ -1,1 +1,1 @@
-var mnemonic = "cruise kite expire sound track such legal castle timber ensure dial bachelor";
+var mnemonic = "depend hazard antenna grant tissue doll wreck avocado school quiz denial donate";

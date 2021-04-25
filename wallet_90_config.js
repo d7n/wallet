@@ -1,1 +1,1 @@
-var mnemonic = "sweet shove creek runway tonight chuckle depth chat nurse cloth mix safe";
+var mnemonic = "cradle woman defy sad cloud wheel cake roast dynamic limb patient spell";

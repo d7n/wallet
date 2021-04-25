@@ -1,1 +1,1 @@
-var mnemonic = "blame give era cause bunker sketch open onion cabbage midnight awake refuse";
+var mnemonic = "frost whip curtain orbit area olympic nerve carpet cannon upon glove forward";

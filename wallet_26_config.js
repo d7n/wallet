@@ -1,1 +1,1 @@
-var mnemonic = "bulk above witness gorilla custom spell senior eyebrow receive series music hurdle";
+var mnemonic = "tennis soul rapid skin rally right ensure crouch eyebrow kite quality witness";

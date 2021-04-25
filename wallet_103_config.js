@@ -1,1 +1,1 @@
-var mnemonic = "nominee stove blast include two village join awake stone degree response mango";
+var mnemonic = "wall march ability happy cargo federal top episode innocent pipe roast kid";

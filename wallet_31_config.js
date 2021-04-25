@@ -1,1 +1,1 @@
-var mnemonic = "people index gossip indicate engage play army few error visit warm north";
+var mnemonic = "minor spot enlist enough cabbage neutral lobster oak poet decide issue gate";

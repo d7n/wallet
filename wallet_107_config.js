@@ -1,1 +1,1 @@
-var mnemonic = "inch shaft unfold bean remain woman pipe motion stay love convince success";
+var mnemonic = "gadget parrot century draft butter wedding steel enforce across sell paddle ivory";

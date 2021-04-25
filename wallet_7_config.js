@@ -1,1 +1,1 @@
-var mnemonic = "gas athlete west eye rib crash survey dawn sample edge mercy need";
+var mnemonic = "inside summer girl voyage genre pretty tray transfer brisk mansion twice bonus";

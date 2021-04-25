@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur catch lizard federal eye define blanket alcohol maple syrup army meadow";
+var mnemonic = "impact alcohol leg worth oven worry remain harbor girl chuckle fat tribe";

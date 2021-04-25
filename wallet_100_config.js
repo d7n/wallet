@@ -1,1 +1,1 @@
-var mnemonic = "innocent minute warrior knee hybrid powder scan category below peace myth link";
+var mnemonic = "tail federal catch trick tower document silver butter magnet hand panther lonely";

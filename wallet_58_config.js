@@ -1,1 +1,1 @@
-var mnemonic = "retire stone apology filter start cheap quiz index boil exotic float program";
+var mnemonic = "depth grass bullet worry tilt border wealth clown museum size quarter pool";

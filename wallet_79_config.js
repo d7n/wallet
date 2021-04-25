@@ -1,1 +1,1 @@
-var mnemonic = "bounce outdoor smile moon pole drive fame own kite notable phone cram";
+var mnemonic = "much day scorpion curious silent mountain solar possible square project scale opera";

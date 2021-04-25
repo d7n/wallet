@@ -1,1 +1,1 @@
-var mnemonic = "umbrella fine soul muffin network unveil stereo olympic exercise board little rely";
+var mnemonic = "dry stick same hunt length notice lizard hat control define basic exhaust";

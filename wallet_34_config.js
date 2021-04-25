@@ -1,1 +1,1 @@
-var mnemonic = "blur write dial topic edit gaze demise uphold used brisk discover walnut";
+var mnemonic = "birth defense concert chair cattle sketch click oven decorate truly sick patch";

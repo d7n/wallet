@@ -1,1 +1,1 @@
-var mnemonic = "siege verb patch help hybrid option negative tortoise close sketch dish cream";
+var mnemonic = "other treat better gesture friend neither slow chronic acoustic differ purity today";
