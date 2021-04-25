@@ -1,1 +1,1 @@
-var mnemonic = "general hammer verb few cigar any soccer model repeat round bless uniform";
+var mnemonic = "moment hero egg discover lava toss street sample vocal stairs curtain treat";

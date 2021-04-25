@@ -1,1 +1,1 @@
-var mnemonic = "also unusual give firm valid abstract evil heavy consider same scheme travel";
+var mnemonic = "lunch bridge moon swap impact random turtle roof auction master judge design";

@@ -1,1 +1,1 @@
-var mnemonic = "will chunk acid spatial web city finger jealous uphold power retreat mad";
+var mnemonic = "grab tell drive expand assault action urge pool carpet long opera crisp";

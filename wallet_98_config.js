@@ -1,1 +1,1 @@
-var mnemonic = "adapt input dust plastic used cream rebel harsh tail peanut crane solution";
+var mnemonic = "stick upper artefact super tiger catch spoil accuse lyrics flight strike sphere";

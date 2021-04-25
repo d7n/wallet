@@ -1,1 +1,1 @@
-var mnemonic = "cushion kitchen squirrel ill wine mercy dose tree only traffic steel slide";
+var mnemonic = "since bread broken express among cattle grid step hope stool tenant veteran";

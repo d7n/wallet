@@ -1,1 +1,1 @@
-var mnemonic = "cruise dove gesture make pond foil analyst brief define blood myself tank";
+var mnemonic = "bargain runway cigar bean black useful test lucky ride front fiscal february";

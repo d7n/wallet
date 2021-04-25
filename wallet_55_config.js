@@ -1,1 +1,1 @@
-var mnemonic = "bird where silent beach silent thing poem muscle upset useful fun yard";
+var mnemonic = "quick text forget hazard weekend cabbage ready local crazy wear flock apple";

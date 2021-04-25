@@ -1,1 +1,1 @@
-var mnemonic = "pepper aim vicious clinic fan they elephant essence cigar soup omit carbon";
+var mnemonic = "solar abstract sound easily item damp december very traffic pull sphere tower";

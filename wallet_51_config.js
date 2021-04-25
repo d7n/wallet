@@ -1,1 +1,1 @@
-var mnemonic = "cook property dentist salmon train cruise fashion credit merit deer business ten";
+var mnemonic = "april require now typical snow hockey hungry order keen engine wreck problem";

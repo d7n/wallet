@@ -1,1 +1,1 @@
-var mnemonic = "outdoor push infant impose immune excuse thank absent strong when turkey bitter";
+var mnemonic = "burden work people example danger grass sniff thumb actress dance double harbor";

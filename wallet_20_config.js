@@ -1,1 +1,1 @@
-var mnemonic = "vault also demise gorilla coconut age misery team smile together spike sword";
+var mnemonic = "drop advice scorpion return hub bone journey poverty become wealth female victory";

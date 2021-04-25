@@ -1,1 +1,1 @@
-var mnemonic = "forum basic tone envelope monkey quality feature strong health nurse master large";
+var mnemonic = "dinner tilt mirror proof eight large sound canvas cave follow size valley";

@@ -1,1 +1,1 @@
-var mnemonic = "feel match movie transfer brown wire volcano blind retire ball quarter neutral";
+var mnemonic = "one trophy chapter west cycle annual develop awesome firm share pave riot";

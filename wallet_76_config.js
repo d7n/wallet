@@ -1,1 +1,1 @@
-var mnemonic = "marine brown result junior symptom avoid farm hurdle opinion trophy parrot wisdom";
+var mnemonic = "case crash blossom sail city soda cool siren deputy sell apple acoustic";

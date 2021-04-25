@@ -1,1 +1,1 @@
-var mnemonic = "soldier sign seat cloth awkward crush axis sphere taste own other behind";
+var mnemonic = "chunk van board glimpse word wise matrix faith chapter bachelor host strong";

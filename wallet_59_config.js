@@ -1,1 +1,1 @@
-var mnemonic = "shock expand december prize media pepper early armed basic sunset bitter garbage";
+var mnemonic = "praise pen suffer skin clap saddle crew skin antenna champion travel inside";

@@ -1,1 +1,1 @@
-var mnemonic = "pluck beyond century movie silly shove topple across arctic celery deputy fit";
+var mnemonic = "open disagree wasp elevator great banana supply lunch anxiety horse mobile zone";

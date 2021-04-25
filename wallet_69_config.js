@@ -1,1 +1,1 @@
-var mnemonic = "cluster scheme liquid also brass pig glance brown interest disease reunion man";
+var mnemonic = "system second prize blouse aisle cabin magic witness athlete defense forward laugh";

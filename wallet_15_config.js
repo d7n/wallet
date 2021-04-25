@@ -1,1 +1,1 @@
-var mnemonic = "grape rocket hold burden join crystal test nothing action globe field fade";
+var mnemonic = "hammer impose unveil door woman survey say talk apology tongue slide hundred";

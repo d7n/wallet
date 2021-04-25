@@ -1,1 +1,1 @@
-var mnemonic = "reward hub latin risk toast crunch bacon lesson mule gaze shoot brick";
+var mnemonic = "myth method priority grab actress maximum drama flower jaguar relief draw minimum";

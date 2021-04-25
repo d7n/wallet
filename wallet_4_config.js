@@ -1,1 +1,1 @@
-var mnemonic = "pulse elephant coast deliver hello shed much vocal pyramid disorder parrot clump";
+var mnemonic = "rice brush anxiety skate sand bright wire tissue summer travel kidney cannon";

@@ -1,1 +1,1 @@
-var mnemonic = "unfold boil need symptom weasel weekend review talk monster math egg sketch";
+var mnemonic = "waste shell cable frequent jump discover slogan zebra client tree outdoor law";

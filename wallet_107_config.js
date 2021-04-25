@@ -1,1 +1,1 @@
-var mnemonic = "ivory hammer wage dolphin rude any affair skill symptom stand cruise unable";
+var mnemonic = "right subject gorilla mobile ancient off odor vague episode drift leopard rural";

@@ -1,1 +1,1 @@
-var mnemonic = "dial gas nephew elbow rather skate barely bind mind survey army clinic";
+var mnemonic = "journey voice dream canyon flee dad crater edit humble vehicle genius bicycle";

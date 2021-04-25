@@ -1,1 +1,1 @@
-var mnemonic = "govern dismiss bubble base rice thrive tonight cloud giraffe able type flower";
+var mnemonic = "crumble vault element design option ripple analyst echo divert accident material update";

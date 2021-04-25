@@ -1,1 +1,1 @@
-var mnemonic = "index dice mixture disagree casual holiday laptop shift will deliver report surround";
+var mnemonic = "popular type install season few feature pottery panda short toss dizzy sustain";

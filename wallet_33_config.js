@@ -1,1 +1,1 @@
-var mnemonic = "pear orchard elephant orbit reduce stuff staff inform hawk flip crisp cereal";
+var mnemonic = "cactus topple ecology picnic neck frequent curve electric stick other broom before";

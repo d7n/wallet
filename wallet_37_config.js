@@ -1,1 +1,1 @@
-var mnemonic = "unusual infant alarm left feature regret note exact liquid deal damage urge";
+var mnemonic = "crystal mad junk toddler poem assist pattern soccer stairs correct total shoot";

@@ -1,1 +1,1 @@
-var mnemonic = "ranch spike marine way lady bamboo finger drive link torch until inside";
+var mnemonic = "clay net awkward lecture heavy lemon dance scan shaft armor just lady";

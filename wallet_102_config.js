@@ -1,1 +1,1 @@
-var mnemonic = "track recall useless slow broccoli vast quantum delay fashion shift custom foot";
+var mnemonic = "lobster park oblige average cram improve cannon east exhaust riot physical rough";

@@ -1,1 +1,1 @@
-var mnemonic = "outdoor tennis retreat eager prevent trigger glad truck crime office mesh style";
+var mnemonic = "enhance trim quiz ask powder dolphin scatter flush thumb crouch choice assault";

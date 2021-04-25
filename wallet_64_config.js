@@ -1,1 +1,1 @@
-var mnemonic = "firm cherry miracle organ report pull girl range notice amount orient west";
+var mnemonic = "frame busy fix success put senior burden dignity dance employ claim safe";

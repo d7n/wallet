@@ -1,1 +1,1 @@
-var mnemonic = "one admit cattle artefact fringe lunar funny apart farm idle winter boat";
+var mnemonic = "split hamster edge repair attack food narrow collect crisp pledge access brain";

@@ -1,1 +1,1 @@
-var mnemonic = "stool edge actual vast transfer submit salt symbol chicken pioneer quote region";
+var mnemonic = "cradle connect decorate target crouch prison valley cross doll labor announce never";

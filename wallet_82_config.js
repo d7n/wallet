@@ -1,1 +1,1 @@
-var mnemonic = "castle surge abandon place room file almost symbol action pear cycle couch";
+var mnemonic = "gap gain bacon concert explain layer joy claim issue amateur illness bind";

@@ -1,1 +1,1 @@
-var mnemonic = "lyrics because clay around mask solution solution crop steak gravity clap bar";
+var mnemonic = "canyon actual surprise loud use protect awful chunk found amazing narrow wasp";

@@ -1,1 +1,1 @@
-var mnemonic = "rent install bronze camera potato cradle shed dad blind novel before left";
+var mnemonic = "time piano share mean quit dose season oxygen camp board arrest cereal";

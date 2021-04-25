@@ -1,1 +1,1 @@
-var mnemonic = "rebuild develop huge math seed memory gym plastic leader evidence grain quarter";
+var mnemonic = "code unfair decorate exchange bubble cargo album cruise upper unit skin miracle";

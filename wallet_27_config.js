@@ -1,1 +1,1 @@
-var mnemonic = "library cheap kidney side hurt scissors between vapor board album know concert";
+var mnemonic = "concert rally jungle portion fire wrap achieve twelve firm banana venue code";

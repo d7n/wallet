@@ -1,1 +1,1 @@
-var mnemonic = "tuna protect turn chicken wheel cost cereal adapt like news heart asset";
+var mnemonic = "gift height wreck suggest belt snake firm kiss taste behind wheel solve";

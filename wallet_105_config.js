@@ -1,1 +1,1 @@
-var mnemonic = "replace opera coral daughter diet burden slogan dirt position lock maple danger";
+var mnemonic = "thank welcome capable convince empower genius tray mercy sail vacant family hope";

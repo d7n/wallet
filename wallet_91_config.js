@@ -1,1 +1,1 @@
-var mnemonic = "session problem will grief typical tower someone bundle split exhaust melody inspire";
+var mnemonic = "medal exotic harbor pull leg live define broken unique property access robot";

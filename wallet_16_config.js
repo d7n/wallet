@@ -1,1 +1,1 @@
-var mnemonic = "pencil crew expire draw direct vintage shine buyer turtle dress solar right";
+var mnemonic = "once ensure circle process exile humble ice prevent conduct stamp van visit";

@@ -1,1 +1,1 @@
-var mnemonic = "system merit drastic vast peace unlock sweet vibrant text junior comic grocery";
+var mnemonic = "gun rigid unfair typical develop shoot record another galaxy leader hockey twin";

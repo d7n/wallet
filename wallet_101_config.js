@@ -1,1 +1,1 @@
-var mnemonic = "whip evolve local guard cousin roast palm wrap suit elevator infant toy";
+var mnemonic = "stamp magic firm rookie street oppose prepare sauce canvas flame claw today";

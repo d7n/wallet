@@ -1,1 +1,1 @@
-var mnemonic = "price trial jacket kiss visa shove jeans bag apology loan glove actress";
+var mnemonic = "story emotion practice invest traffic wage dragon bicycle region witness jacket prevent";

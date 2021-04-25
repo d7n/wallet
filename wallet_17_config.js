@@ -1,1 +1,1 @@
-var mnemonic = "good profit usual tilt lottery crawl hero service reopen sing build soon";
+var mnemonic = "clerk magnet refuse bottom stand resemble antenna bag annual earn post time";

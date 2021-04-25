@@ -1,1 +1,1 @@
-var mnemonic = "oil reunion draw vintage bomb supply fit oyster rural great provide evoke";
+var mnemonic = "food roof police heart soon pulp angry crush shoulder toe small carpet";

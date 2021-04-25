@@ -1,1 +1,1 @@
-var mnemonic = "setup move kit book birth stay main clock truck congress thought tape";
+var mnemonic = "car pretty purity pride believe club news bag rib pitch mean fold";

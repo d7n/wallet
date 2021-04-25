@@ -1,1 +1,1 @@
-var mnemonic = "eager guilt deny position hard slight anger patrol witness surround owner crawl";
+var mnemonic = "primary lesson coil just stand juice odor camera girl rapid fruit alert";

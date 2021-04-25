@@ -1,1 +1,1 @@
-var mnemonic = "multiply victory pave inch all element news sauce salad curious select crime";
+var mnemonic = "insect attitude peanut margin keen toe antenna welcome chronic lemon scare april";

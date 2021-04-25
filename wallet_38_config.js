@@ -1,1 +1,1 @@
-var mnemonic = "pretty ceiling mother decrease live opinion sound save unaware agent hello unknown";
+var mnemonic = "hover dish surface grass umbrella kite immune humor stick elder either viable";

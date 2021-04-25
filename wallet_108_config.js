@@ -1,1 +1,1 @@
-var mnemonic = "gate ask fluid panther convince crumble mango general faint model first sword";
+var mnemonic = "lecture control joy surprise include derive rely link now reveal install urge";

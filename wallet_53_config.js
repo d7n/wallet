@@ -1,1 +1,1 @@
-var mnemonic = "lemon trim lobster okay wish cherry field comic hard garlic grit rebel";
+var mnemonic = "fury theory lake patrol top tumble talent program drift tuna tissue rug";

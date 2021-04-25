@@ -1,1 +1,1 @@
-var mnemonic = "view transfer suffer curious profit venue sun gossip bridge survey tuition wrong";
+var mnemonic = "human echo fiscal youth broom ridge spider turn flush helmet curious exist";

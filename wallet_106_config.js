@@ -1,1 +1,1 @@
-var mnemonic = "scrap crater utility firm multiply keep annual message photo pool unusual remember";
+var mnemonic = "void foster tone husband response purpose muffin deputy liquid canal deal detect";

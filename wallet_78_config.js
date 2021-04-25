@@ -1,1 +1,1 @@
-var mnemonic = "device reveal still scan pitch picture session company aisle hunt dash despair";
+var mnemonic = "coin web nose miss file company olive bench ceiling huge major yard";

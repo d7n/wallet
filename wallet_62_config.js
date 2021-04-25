@@ -1,1 +1,1 @@
-var mnemonic = "render ceiling hat inner lecture fix govern noodle round camera found assault";
+var mnemonic = "stamp once path derive menu jealous timber base before crazy scissors donkey";

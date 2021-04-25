@@ -1,1 +1,1 @@
-var mnemonic = "glue snap mesh rescue glove trip hen culture conduct flip major need";
+var mnemonic = "edit ahead only assault rapid winner spare water west spring group notice";

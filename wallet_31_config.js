@@ -1,1 +1,1 @@
-var mnemonic = "slow drift advice adult surround deliver purpose enact defy rescue plate bus";
+var mnemonic = "write sweet belt laptop time knife smile palace pelican boost clever pudding";

@@ -1,1 +1,1 @@
-var mnemonic = "hockey rib awake bottom scene lens match sunset private system picture pride";
+var mnemonic = "layer social security system abandon february critic pulse today execute grape pink";

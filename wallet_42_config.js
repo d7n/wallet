@@ -1,1 +1,1 @@
-var mnemonic = "catalog barely census hybrid gasp common grace law release axis climb woman";
+var mnemonic = "select lemon put poem garment subway off hammer eager window you purpose";

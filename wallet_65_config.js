@@ -1,1 +1,1 @@
-var mnemonic = "bind cause awful always grunt monitor describe motor unaware pen chair chronic";
+var mnemonic = "shove switch prepare neither future eager marine horn chicken trust alarm kidney";

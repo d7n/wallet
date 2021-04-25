@@ -1,1 +1,1 @@
-var mnemonic = "hat reform round awake erode trial obscure boring glory inflict point eager";
+var mnemonic = "wedding motor essay wheel board chair axis desk despair surge race snap";

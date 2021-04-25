@@ -1,1 +1,1 @@
-var mnemonic = "prefer loop wrap sword window pet small give assist retreat coach recall";
+var mnemonic = "idle excess cliff evil extend shaft duty onion walk omit rice peasant";

@@ -1,1 +1,1 @@
-var mnemonic = "way destroy novel battle addict resist soft hour thunder hope ritual farm";
+var mnemonic = "steak genius laptop thrive absorb doctor banner bean token weekend mutual horn";

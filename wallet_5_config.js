@@ -1,1 +1,1 @@
-var mnemonic = "green jeans develop frost spy reflect cinnamon refuse sadness laptop change damage";
+var mnemonic = "crunch citizen deliver unveil permit pioneer curious such note pistol enact airport";

@@ -1,1 +1,1 @@
-var mnemonic = "equal work prize post cloth next noise wine have vital rail enhance";
+var mnemonic = "soup wonder cage code pipe genuine essence video ozone swim below crawl";

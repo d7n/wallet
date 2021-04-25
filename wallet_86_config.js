@@ -1,1 +1,1 @@
-var mnemonic = "bird foot type custom february charge hurry jar pen frequent capable velvet";
+var mnemonic = "era novel inmate similar result chair cluster search truly buddy width world";

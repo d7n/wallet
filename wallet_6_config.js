@@ -1,1 +1,1 @@
-var mnemonic = "injury toilet level fun crucial stadium purse space transfer evidence orbit day";
+var mnemonic = "anxiety spoon alone wine wrong gossip fatigue vibrant color feed drama settle";

@@ -1,1 +1,1 @@
-var mnemonic = "ill cash oven evil liquid drum mountain before local shell unlock popular";
+var mnemonic = "exist lift change two absorb nest argue curtain vacuum scrap shoulder figure";

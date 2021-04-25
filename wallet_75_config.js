@@ -1,1 +1,1 @@
-var mnemonic = "reunion purpose eyebrow wrap want ginger scrub cinnamon april assault antenna match";
+var mnemonic = "salute staff alert nuclear sunny aerobic aunt law priority swing raise gold";

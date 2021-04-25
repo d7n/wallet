@@ -1,1 +1,1 @@
-var mnemonic = "intact brand trade lonely gallery output cactus old another glow live tag";
+var mnemonic = "notice track asthma inch pledge shop follow company mule zero pumpkin error";

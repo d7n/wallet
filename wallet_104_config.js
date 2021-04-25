@@ -1,1 +1,1 @@
-var mnemonic = "gasp transfer despair punch fossil pet future salad person bamboo learn crime";
+var mnemonic = "rotate burger scheme hurdle gate turkey win scare bless poem insect universe";

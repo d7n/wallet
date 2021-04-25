@@ -1,1 +1,1 @@
-var mnemonic = "title soup lock element hope rather print poverty super rail gadget art";
+var mnemonic = "argue cube salon runway giant news insane aunt neck concert fashion learn";

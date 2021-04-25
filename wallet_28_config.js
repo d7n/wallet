@@ -1,1 +1,1 @@
-var mnemonic = "either grief shiver museum abstract honey shop cattle black mouse guitar decline";
+var mnemonic = "clever machine plate bacon spread desert music drastic render glide innocent vote";

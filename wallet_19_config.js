@@ -1,1 +1,1 @@
-var mnemonic = "consider daring harbor milk man various van summer sign table panda fuel";
+var mnemonic = "buddy island steel rhythm thought hip spy theme toss october detail confirm";

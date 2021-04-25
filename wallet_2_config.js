@@ -1,1 +1,1 @@
-var mnemonic = "trap fabric pair fruit welcome any ankle sunset black reduce sure net";
+var mnemonic = "day quiz firm unit stock glide husband test suggest point canoe scatter";

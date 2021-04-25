@@ -1,1 +1,1 @@
-var mnemonic = "north recipe company kit fatigue happy enforce picture brown jungle wheat sad";
+var mnemonic = "another hamster thank faint verify arrow cupboard cram solve federal rapid cherry";

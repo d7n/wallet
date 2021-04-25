@@ -1,1 +1,1 @@
-var mnemonic = "twelve sound cave seminar fire clock gym royal cotton engine churn update";
+var mnemonic = "hurry dust lock dumb language brand trust spawn brisk fuel beef enlist";

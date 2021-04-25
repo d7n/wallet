@@ -1,1 +1,1 @@
-var mnemonic = "search safe around burst virus gauge surface oxygen pupil muffin minute solar";
+var mnemonic = "quarter price picture laundry ritual weather source spend same torch two spread";

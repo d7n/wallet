@@ -1,1 +1,1 @@
-var mnemonic = "mercy despair stamp shallow abuse actress problem grief vessel palm quiz toward";
+var mnemonic = "elite shed inmate dog foil humor bacon wait clay wedding accident usual";

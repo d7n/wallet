@@ -1,1 +1,1 @@
-var mnemonic = "memory image drink screen menu load oxygen code survey arm never law";
+var mnemonic = "scene fresh mention craft club stock tackle sand obvious divide gravity kind";

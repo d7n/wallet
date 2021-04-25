@@ -1,1 +1,1 @@
-var mnemonic = "sun they aisle cream fat puppy claw glimpse rail round feed outdoor";
+var mnemonic = "kick wish near expose sight track erupt airport derive change bulb soul";

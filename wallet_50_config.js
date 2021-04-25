@@ -1,1 +1,1 @@
-var mnemonic = "dash cinnamon glare essence engine peanut ice wealth blush horror laundry valid";
+var mnemonic = "chicken river repair general cupboard cinnamon run pumpkin rescue okay awesome tide";

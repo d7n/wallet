@@ -1,1 +1,1 @@
-var mnemonic = "recipe retire latin mango shoot enter gift dream wolf appear service tip";
+var mnemonic = "defense school list december wrap grant cruise add trash try regular minute";

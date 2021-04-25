@@ -1,1 +1,1 @@
-var mnemonic = "echo head people fabric glue whale put view blush silly surround joke";
+var mnemonic = "august will crash sugar where useful exist service fury virus miss air";

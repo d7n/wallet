@@ -1,1 +1,1 @@
-var mnemonic = "bubble uniform purity copy behind cook logic holiday cloth grain protect inject";
+var mnemonic = "deny bomb exercise amateur gasp now rather cry transfer breeze refuse sunset";
