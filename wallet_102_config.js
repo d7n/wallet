@@ -1,1 +1,1 @@
-var mnemonic = "know snake element expose dirt oxygen recall crack busy apology warrior wasp";
+var mnemonic = "outdoor panther critic scout arrow arrange imitate arena soap claw okay prepare";

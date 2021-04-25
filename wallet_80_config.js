@@ -1,1 +1,1 @@
-var mnemonic = "discover meadow merge luxury above motor dilemma rather seven ahead security insane";
+var mnemonic = "chronic vendor seven emotion proof wool beyond camp guide suffer liar violin";

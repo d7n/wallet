@@ -1,1 +1,1 @@
-var mnemonic = "junior reward fatal urge impulse scan include switch impulse job supply guard";
+var mnemonic = "electric arrange caught victory salute remain weather cigar affair south butter tuition";

@@ -1,1 +1,1 @@
-var mnemonic = "essay loud cost often depth afraid hollow buffalo improve custom stage sell";
+var mnemonic = "later smart deputy piano reduce lobster palace found cost claim lunch visa";

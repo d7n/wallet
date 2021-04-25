@@ -1,1 +1,1 @@
-var mnemonic = "old foil east stand addict pill fetch test kitten image mountain miss";
+var mnemonic = "uphold trick blanket myself pupil elbow chaos choice join twelve slogan sick";

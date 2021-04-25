@@ -1,1 +1,1 @@
-var mnemonic = "initial scare entire wing rival duck senior air tired impulse glide call";
+var mnemonic = "inhale bachelor inner bulk door fetch advice narrow fitness another develop exist";

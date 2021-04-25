@@ -1,1 +1,1 @@
-var mnemonic = "antenna trade obey tortoise system wrap staff scatter pet barely cushion suspect";
+var mnemonic = "snake truth siren tourist verb abandon fine proud story ripple all tunnel";

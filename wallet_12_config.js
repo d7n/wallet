@@ -1,1 +1,1 @@
-var mnemonic = "raw layer update help pupil husband mom deer praise broccoli cash output";
+var mnemonic = "sure enemy ritual permit notice hamster model melody violin wasp total law";

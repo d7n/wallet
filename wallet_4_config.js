@@ -1,1 +1,1 @@
-var mnemonic = "talent disease ready fresh screen soul hen foam mail hundred mass crop";
+var mnemonic = "awkward tool voyage fortune autumn hello basic snow assume pattern copper pledge";

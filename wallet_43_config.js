@@ -1,1 +1,1 @@
-var mnemonic = "grass iron glare doll depart design space enable vicious file two diagram";
+var mnemonic = "divorce join sweet tower pioneer armor enlist release aisle mail opinion flush";

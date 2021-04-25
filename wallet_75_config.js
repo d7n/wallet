@@ -1,1 +1,1 @@
-var mnemonic = "common bright hidden recycle state lawn picture knife blast shift laugh west";
+var mnemonic = "first bread cousin sad alarm glow history employ believe shuffle script shrug";

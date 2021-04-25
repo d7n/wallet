@@ -1,1 +1,1 @@
-var mnemonic = "awkward vote marine gaze town rice upgrade rice report strike clap fall";
+var mnemonic = "derive pool subway diary room dice profit toddler fiction lunch theme outdoor";

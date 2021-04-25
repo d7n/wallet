@@ -1,1 +1,1 @@
-var mnemonic = "mean depend giant test there muffin library nurse device chair rich smart";
+var mnemonic = "reflect bring divert mimic palm pause essence other autumn put record chicken";

@@ -1,1 +1,1 @@
-var mnemonic = "beyond south hair oyster quantum example unfair mixture rely build case before";
+var mnemonic = "annual gift erupt lava because wrap rocket material tank physical blade sick";

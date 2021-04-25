@@ -1,1 +1,1 @@
-var mnemonic = "index human letter surge lava culture gain outer length help pond nice";
+var mnemonic = "tree sight two visit grape give riot drum swallow target own include";

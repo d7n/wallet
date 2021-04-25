@@ -1,1 +1,1 @@
-var mnemonic = "remind magnet heart stove city scheme visual method two steak identify session";
+var mnemonic = "arm example naive mosquito turn squeeze appear inherit soda seat forum vapor";

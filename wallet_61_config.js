@@ -1,1 +1,1 @@
-var mnemonic = "fog life ensure bike arctic way slush open ten little kiss dose";
+var mnemonic = "orange increase worth ensure merit heavy snake allow trophy plate safe cement";

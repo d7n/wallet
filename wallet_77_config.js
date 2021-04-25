@@ -1,1 +1,1 @@
-var mnemonic = "mother subject town sun elegant manage blame quarter print patch lounge wealth";
+var mnemonic = "coil control text van buyer warrior wheel hole soldier physical pond provide";

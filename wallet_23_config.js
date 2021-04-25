@@ -1,1 +1,1 @@
-var mnemonic = "uncle twenty shield profit else improve ketchup diesel grunt announce grab fruit";
+var mnemonic = "bleak congress trigger kid author blue true door opera spare chapter address";

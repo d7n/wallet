@@ -1,1 +1,1 @@
-var mnemonic = "prosper fortune reward future enable brass code click ice siren combine shell";
+var mnemonic = "erosion shove nation gas agent weird stable more spin refuse angle decide";

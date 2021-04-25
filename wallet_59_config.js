@@ -1,1 +1,1 @@
-var mnemonic = "program west choice bean receive spell scene pigeon brush space join million";
+var mnemonic = "silk flush dragon power gorilla language decrease bonus accident junk shell praise";

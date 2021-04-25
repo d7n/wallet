@@ -1,1 +1,1 @@
-var mnemonic = "reform organ decide asset gallery stamp roast roast wrestle predict alpha ritual";
+var mnemonic = "undo fatigue rough scan eight eight crumble mammal dwarf toilet debris pluck";

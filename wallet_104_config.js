@@ -1,1 +1,1 @@
-var mnemonic = "law typical uncover nuclear ship match where lecture blind imitate short sword";
+var mnemonic = "slab grace minimum garage reject young system very hammer coyote slogan license";

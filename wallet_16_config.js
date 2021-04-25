@@ -1,1 +1,1 @@
-var mnemonic = "dignity type wasp disagree dust sun craft sail avoid claw focus carbon";
+var mnemonic = "verify fly glad sand enable profit chalk pond mammal duck album gloom";

@@ -1,1 +1,1 @@
-var mnemonic = "leader pupil salon dust basic demise dune average worth chase boring balcony";
+var mnemonic = "pride firm napkin bicycle canoe mule oxygen jazz hurt verb bench post";

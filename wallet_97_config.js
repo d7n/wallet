@@ -1,1 +1,1 @@
-var mnemonic = "lyrics discover second burst disorder radio desk senior penalty hotel material loyal";
+var mnemonic = "grunt enrich rather plastic unlock deliver neither camera catch length flame lemon";

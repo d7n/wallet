@@ -1,1 +1,1 @@
-var mnemonic = "ability rhythm middle lunch such alpha tooth spray glue crumble draw next";
+var mnemonic = "bid blue blush castle begin ladder embody confirm egg pull trap chat";

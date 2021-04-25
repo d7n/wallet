@@ -1,1 +1,1 @@
-var mnemonic = "above second city subject shrimp theory east lucky smooth focus fresh avocado";
+var mnemonic = "buzz shiver cost soul spread skate canyon agree kiwi only summer suspect";

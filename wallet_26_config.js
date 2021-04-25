@@ -1,1 +1,1 @@
-var mnemonic = "offer guitar interest grape east strong upgrade moon firm vibrant wreck virus";
+var mnemonic = "also nation clutch enjoy sight attitude expire equal scout piece rice before";

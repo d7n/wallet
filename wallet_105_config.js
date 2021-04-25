@@ -1,1 +1,1 @@
-var mnemonic = "view extra chat wrist element upper wink garden quiz empty sister open";
+var mnemonic = "moon slot sand below ecology swarm noise long achieve rely pact battle";

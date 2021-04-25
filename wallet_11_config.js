@@ -1,1 +1,1 @@
-var mnemonic = "clown faculty skill slam breeze winter change grain south capital special crop";
+var mnemonic = "bar surprise denial evil endless hobby accuse hover only speak seat organ";

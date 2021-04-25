@@ -1,1 +1,1 @@
-var mnemonic = "quarter off dignity dawn clean raise embody boy abandon bread enough moon";
+var mnemonic = "attitude ring spider horn protect mesh awesome clump thumb scrub goat escape";

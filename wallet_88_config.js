@@ -1,1 +1,1 @@
-var mnemonic = "cruise beef tail kingdom sock clown now outside hockey between eternal file";
+var mnemonic = "wheat defense blood green juice furnace able prosper live subway rookie toast";

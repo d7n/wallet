@@ -1,1 +1,1 @@
-var mnemonic = "crystal stand inspire spice sort allow rhythm way depart resource ozone cram";
+var mnemonic = "panic collect gown release sentence art walnut moment resource wonder modify retreat";

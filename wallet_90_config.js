@@ -1,1 +1,1 @@
-var mnemonic = "throw type together brand regular kit elegant rule blanket scorpion power design";
+var mnemonic = "demise stage trip please weasel joy upper quarter junior access exotic wink";

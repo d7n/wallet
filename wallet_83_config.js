@@ -1,1 +1,1 @@
-var mnemonic = "banner treat improve panther fine swallow misery attack easily tiny magnet apple";
+var mnemonic = "finger flee lucky game mandate style lumber edge crane peasant any moral";

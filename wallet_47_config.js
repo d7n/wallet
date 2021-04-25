@@ -1,1 +1,1 @@
-var mnemonic = "leisure develop trend liar boy board knock barrel risk patrol minute undo";
+var mnemonic = "solution sort match work receive cram enlist project network beef episode sketch";

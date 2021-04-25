@@ -1,1 +1,1 @@
-var mnemonic = "replace captain world practice luggage toe wheel mixture unfold primary civil vessel";
+var mnemonic = "immune client crater action invite length garment foam connect icon ribbon stool";

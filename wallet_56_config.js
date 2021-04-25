@@ -1,1 +1,1 @@
-var mnemonic = "salad switch sign fish genuine chunk robot kite gospel nasty great frame";
+var mnemonic = "border tattoo wife laugh surprise true border lunch rain emerge note twist";

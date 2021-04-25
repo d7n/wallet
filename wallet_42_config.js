@@ -1,1 +1,1 @@
-var mnemonic = "north swap blast peace sort trigger stage slam post jungle poverty wood";
+var mnemonic = "zone unhappy puppy into area man foot coast pistol hip waste hood";

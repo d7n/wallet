@@ -1,1 +1,1 @@
-var mnemonic = "corn clarify when cargo doctor myself stadium second magnet pyramid yellow solve";
+var mnemonic = "symptom lyrics huge circle nut usual add admit dentist skate chest arrest";

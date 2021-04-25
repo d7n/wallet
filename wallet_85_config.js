@@ -1,1 +1,1 @@
-var mnemonic = "tired pioneer oil season mask slogan grass eye sure afford trigger town";
+var mnemonic = "gown shoulder spend panel juice eternal stereo belt radar hire silly mechanic";

@@ -1,1 +1,1 @@
-var mnemonic = "sell fruit rabbit float scrap conduct response box call side party fetch";
+var mnemonic = "total expect survey fortune glimpse uncover hold faith island choice banana any";

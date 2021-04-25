@@ -1,1 +1,1 @@
-var mnemonic = "black tenant limb bench lottery fade monster layer own leg bird acid";
+var mnemonic = "sort village slogan grass blush eagle rotate zoo grid clown mirror figure";

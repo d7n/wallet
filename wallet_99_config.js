@@ -1,1 +1,1 @@
-var mnemonic = "write segment enough live ramp nerve close angry slow cave virtual blame";
+var mnemonic = "anger essence teach vague broken cereal squirrel expand crouch armed resist rather";

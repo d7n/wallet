@@ -1,1 +1,1 @@
-var mnemonic = "roof bridge drop oven desk victory minute visit midnight attract swift mammal";
+var mnemonic = "add major blossom perfect shrug domain profit limit proof mandate illegal reason";

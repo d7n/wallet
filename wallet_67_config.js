@@ -1,1 +1,1 @@
-var mnemonic = "mirror meat forget subway feature reward carpet waste win choose review danger";
+var mnemonic = "peanut night artwork squirrel music blind autumn foster visual save supreme scan";

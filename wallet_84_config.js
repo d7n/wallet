@@ -1,1 +1,1 @@
-var mnemonic = "farm saddle scare dinner pet organ pistol quarter swallow arrive second crumble";
+var mnemonic = "shove sock dog spider dragon toss invite brass kind drastic motor unusual";

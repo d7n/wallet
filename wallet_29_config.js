@@ -1,1 +1,1 @@
-var mnemonic = "duck regret emotion bronze recycle canoe river bar connect essence diesel convince";
+var mnemonic = "shop damage minimum accident elephant pottery romance human crowd return light half";

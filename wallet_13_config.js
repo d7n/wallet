@@ -1,1 +1,1 @@
-var mnemonic = "hub brass rate cheese language soup canyon olive height lonely vivid lift";
+var mnemonic = "help expose genre jazz design play spatial edge arm because hint cry";

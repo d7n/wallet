@@ -1,1 +1,1 @@
-var mnemonic = "business camera parent slight arm toe section luxury village copy sell assist";
+var mnemonic = "answer garage divide cabbage double swallow state local surprise beach erase tumble";

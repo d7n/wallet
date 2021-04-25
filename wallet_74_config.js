@@ -1,1 +1,1 @@
-var mnemonic = "leave faith oxygen cage desk acquire wise appear absorb large thunder lawn";
+var mnemonic = "proud emotion pottery tomorrow chef gown mammal impose uphold middle entry thought";

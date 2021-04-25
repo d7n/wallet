@@ -1,1 +1,1 @@
-var mnemonic = "depart denial civil trust baby pretty blue fade skate motor adjust dry";
+var mnemonic = "ivory tunnel kiwi apart marriage shoe umbrella reunion youth oblige sleep choose";

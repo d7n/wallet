@@ -1,1 +1,1 @@
-var mnemonic = "coffee fit there exotic spy found vivid video replace cotton dose hybrid";
+var mnemonic = "oblige major harbor design upper blade session horror entry stamp accuse spring";

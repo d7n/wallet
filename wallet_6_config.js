@@ -1,1 +1,1 @@
-var mnemonic = "clump inner gloom secret lesson enrich there polar beef panic bachelor witness";
+var mnemonic = "artwork before scout cash announce ready click speed biology april oxygen fog";

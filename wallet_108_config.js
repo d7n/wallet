@@ -1,1 +1,1 @@
-var mnemonic = "rival battle smile federal concert foot bundle found sand perfect mystery magic";
+var mnemonic = "add enact creek palace nephew spatial lawsuit final together life bone famous";

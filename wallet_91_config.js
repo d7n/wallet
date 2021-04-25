@@ -1,1 +1,1 @@
-var mnemonic = "real range unit tiny belt cute zebra answer snow monitor abandon vehicle";
+var mnemonic = "source pyramid urge dove yellow figure bone tape process umbrella jaguar clever";

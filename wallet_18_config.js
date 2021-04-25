@@ -1,1 +1,1 @@
-var mnemonic = "earth double vocal sketch tool acoustic diamond utility dizzy rescue peanut virus";
+var mnemonic = "legal order close pencil cherry draft erode lift actress heart pencil exclude";

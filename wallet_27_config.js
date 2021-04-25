@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow welcome hidden book exhaust robot bamboo fine shock chuckle swift empower";
+var mnemonic = "similar project later virtual profit thrive above control grunt merge throw sentence";

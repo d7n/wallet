@@ -1,1 +1,1 @@
-var mnemonic = "twice forward own balcony sight mushroom magnet ability pitch wheel patient universe";
+var mnemonic = "spring shift solid carbon miracle front runway kiwi prosper column feel spatial";

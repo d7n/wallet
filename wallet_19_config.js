@@ -1,1 +1,1 @@
-var mnemonic = "goose slab wise power second olive police shallow robust inch promote taste";
+var mnemonic = "culture case gadget waste trophy wall endorse great family robust chase royal";

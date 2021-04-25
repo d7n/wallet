@@ -1,1 +1,1 @@
-var mnemonic = "during drastic must swing obvious omit robust cannon anxiety grain deposit valid";
+var mnemonic = "supply absent lizard small essay heavy whip tiny fiber milk siren artist";

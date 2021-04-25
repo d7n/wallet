@@ -1,1 +1,1 @@
-var mnemonic = "chapter member wrist market alcohol ill stage walnut slow kangaroo radio loop";
+var mnemonic = "country primary dream clarify narrow kitten buzz extra butter peace make gas";

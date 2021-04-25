@@ -1,1 +1,1 @@
-var mnemonic = "crystal glow shine number fault club absurd recycle lens smart capable timber";
+var mnemonic = "upper must health secret mass middle wet chair swarm custom gesture paddle";

@@ -1,1 +1,1 @@
-var mnemonic = "sweet joke render drive tongue cabin amateur truly patient prepare replace eager";
+var mnemonic = "egg someone slush family slow entire aisle timber field someone sniff decorate";

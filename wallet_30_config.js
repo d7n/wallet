@@ -1,1 +1,1 @@
-var mnemonic = "unique toilet school powder truth apology buzz want dust blind aerobic mountain";
+var mnemonic = "nation sight diet horse casino wrestle smart dish decade powder canoe page";

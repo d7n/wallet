@@ -1,1 +1,1 @@
-var mnemonic = "spray acquire push hope window one tired clutch diagram profit model used";
+var mnemonic = "just cart depart toe wagon deliver flat item fit jaguar spend case";

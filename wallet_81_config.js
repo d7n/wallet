@@ -1,1 +1,1 @@
-var mnemonic = "zero blue fog increase squeeze blame human decorate young fruit rely blade";
+var mnemonic = "way process picnic lonely cute crater enemy wheat mandate blade describe crunch";

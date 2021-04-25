@@ -1,1 +1,1 @@
-var mnemonic = "flush moment bring cloth half trigger hello spice mystery dust survey adapt";
+var mnemonic = "airport orient surge bulb sun gold vicious badge limb burst midnight develop";

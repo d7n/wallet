@@ -1,1 +1,1 @@
-var mnemonic = "wrist gun secret lecture game faint valid later milk famous trade puppy";
+var mnemonic = "barrel leave mistake benefit whip feel profit board sport symptom shoe road";

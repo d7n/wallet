@@ -1,1 +1,1 @@
-var mnemonic = "scare kitten daughter globe wolf denial someone bleak calm warfare false error";
+var mnemonic = "gauge mother forget receive quiz peanut brand good trick wish shop sunset";

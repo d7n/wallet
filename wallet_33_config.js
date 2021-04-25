@@ -1,1 +1,1 @@
-var mnemonic = "sibling latin blush tennis hollow page setup true team treat because season";
+var mnemonic = "private talk round become chalk group liar damp foster good gaze liquid";

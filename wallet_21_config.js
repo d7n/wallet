@@ -1,1 +1,1 @@
-var mnemonic = "danger apple solution rocket accuse loan vanish credit wreck tree enrich pear";
+var mnemonic = "prefer betray wink deliver ribbon season proud pumpkin damp ladder boring cigar";

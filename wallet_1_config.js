@@ -1,1 +1,1 @@
-var mnemonic = "damage second garage typical hidden clerk dilemma pause digital rude lady nerve";
+var mnemonic = "primary remove purity universe hire payment hawk cute guilt track cash hair";

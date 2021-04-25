@@ -1,1 +1,1 @@
-var mnemonic = "evoke click kangaroo help slush method pyramid weekend nothing mimic near mean";
+var mnemonic = "update remember notice dune myself educate there tank paddle fire amount shift";

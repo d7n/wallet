@@ -1,1 +1,1 @@
-var mnemonic = "swear secret leave evolve oppose fever rapid divert unfair prison wet pact";
+var mnemonic = "army circle maid unique sting undo paddle fitness vehicle host material enough";

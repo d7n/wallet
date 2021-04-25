@@ -1,1 +1,1 @@
-var mnemonic = "keen rib rally initial document apology pottery bean jacket begin actor despair";
+var mnemonic = "village pottery fitness kidney setup ring trial call winner blanket canvas panther";

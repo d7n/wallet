@@ -1,1 +1,1 @@
-var mnemonic = "brush force desk opera live vibrant stereo segment torch october cry runway";
+var mnemonic = "tape kidney tomato film laptop cram uncle child essence script roof place";

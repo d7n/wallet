@@ -1,1 +1,1 @@
-var mnemonic = "rival outside sad stove race sting scorpion garbage bracket nation later jazz";
+var mnemonic = "spider moment crunch sun citizen you artist tag napkin then verify visual";

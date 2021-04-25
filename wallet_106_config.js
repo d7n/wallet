@@ -1,1 +1,1 @@
-var mnemonic = "text true wave welcome copy hamster window please guitar tortoise purpose reward";
+var mnemonic = "female outer derive notice rich borrow reason use female priority snake like";

@@ -1,1 +1,1 @@
-var mnemonic = "cause blossom fee banana twenty urge nut trash marine group utility stage";
+var mnemonic = "pull aerobic syrup balance trouble disorder mistake chapter gasp dash salon worry";

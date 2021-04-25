@@ -1,1 +1,1 @@
-var mnemonic = "taxi bamboo thunder million market midnight stairs domain fever iron dish unusual";
+var mnemonic = "stumble polar rotate fit mystery grass combine gown energy bicycle join absorb";

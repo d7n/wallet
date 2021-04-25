@@ -1,1 +1,1 @@
-var mnemonic = "elephant essay develop proud friend reject boss style repair gain hole need";
+var mnemonic = "warm anchor seminar chimney debris obtain plug candy visual actual twist spoil";

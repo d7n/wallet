@@ -1,1 +1,1 @@
-var mnemonic = "wreck secret tomato easy erupt drama balance impact zoo remember action amount";
+var mnemonic = "upon effort cotton say behind wheat system cycle glass fluid digital round";

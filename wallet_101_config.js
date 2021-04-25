@@ -1,1 +1,1 @@
-var mnemonic = "powder milk black spread lake quarter derive laptop spoil submit dish pony";
+var mnemonic = "diesel antique way pulp suit forest cinnamon nuclear true tent okay spirit";

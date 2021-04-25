@@ -1,1 +1,1 @@
-var mnemonic = "concert blind rigid abstract purchase ready clinic need field bundle diary mystery";
+var mnemonic = "neck doll jungle rude another ceiling divide minor father roast eye allow";

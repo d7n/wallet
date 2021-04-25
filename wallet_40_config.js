@@ -1,1 +1,1 @@
-var mnemonic = "marriage alert observe object wedding chronic column below update lava story valve";
+var mnemonic = "mystery immune axis quiz case select marble present muscle basket lesson involve";

@@ -1,1 +1,1 @@
-var mnemonic = "thrive weapon finish avocado dad any artefact cloud garage truck bright sugar";
+var mnemonic = "draw crawl denial version risk loop draw sting vessel buddy siege term";
