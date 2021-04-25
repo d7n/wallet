@@ -1,1 +1,1 @@
-var mnemonic = "wing much iron drum arrange mango address trip ridge gather dawn assume";
+var mnemonic = "throw ozone genre height try rate toward thank real tennis seven fiction";

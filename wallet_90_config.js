@@ -1,1 +1,1 @@
-var mnemonic = "require trim mistake slot total absent idle enter royal sight captain fragile";
+var mnemonic = "order barrel bike wear humor nation inform ribbon subway surprise cradle prevent";

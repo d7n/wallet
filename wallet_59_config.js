@@ -1,1 +1,1 @@
-var mnemonic = "surge bunker gain neither shallow bean decade sport review wide toilet include";
+var mnemonic = "snake point border primary sad pattern rug dirt skull sand orange multiply";

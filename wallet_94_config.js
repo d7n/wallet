@@ -1,1 +1,1 @@
-var mnemonic = "uphold crash purse scare client enter amateur lunar master spoil census dad";
+var mnemonic = "slogan term bird human report vicious turn garlic voyage group feed wage";

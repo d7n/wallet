@@ -1,1 +1,1 @@
-var mnemonic = "damage indoor pretty wash family accident rifle sugar farm million object oyster";
+var mnemonic = "outer silver sunset box carbon ostrich add seat convince spring harvest camp";

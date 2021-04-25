@@ -1,1 +1,1 @@
-var mnemonic = "scrap tree game public obey short decide outdoor vivid unfair clutch middle";
+var mnemonic = "gun hair shed shield move practice pitch gorilla ginger grape student lecture";

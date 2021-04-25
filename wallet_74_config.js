@@ -1,1 +1,1 @@
-var mnemonic = "toe crash pass ribbon bone mind assume business force buffalo salt column";
+var mnemonic = "maple report shuffle buffalo nurse screen current win combine smooth inhale pistol";

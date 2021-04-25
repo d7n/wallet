@@ -1,1 +1,1 @@
-var mnemonic = "entry blur ring dinosaur list awkward horn excuse test increase vast drop";
+var mnemonic = "glide trip faint cherry used derive kidney tray must shiver choose glance";

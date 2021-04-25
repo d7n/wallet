@@ -1,1 +1,1 @@
-var mnemonic = "sing initial nerve special grow staff legend grunt enable want else actress";
+var mnemonic = "rug double raven drum feed salon valve pink result drive oyster dog";

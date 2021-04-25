@@ -1,1 +1,1 @@
-var mnemonic = "token general rough choice teach pelican rice engage trash plunge photo initial";
+var mnemonic = "hip decline federal hockey fly such neither space worry reflect equal kick";

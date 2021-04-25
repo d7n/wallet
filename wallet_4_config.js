@@ -1,1 +1,1 @@
-var mnemonic = "sibling december claim follow old brick abandon skull ladder session gallery scan";
+var mnemonic = "squeeze marine welcome about lecture common someone day switch tiger cat define";

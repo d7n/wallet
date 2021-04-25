@@ -1,1 +1,1 @@
-var mnemonic = "stadium cigar dentist tail power will verb dad hamster act supreme lucky";
+var mnemonic = "barrel upper wheat movie metal gap pave fix weird reward height fix";

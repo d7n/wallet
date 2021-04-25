@@ -1,1 +1,1 @@
-var mnemonic = "ahead patient demise exile ready prepare pumpkin frequent adult fitness oven suffer";
+var mnemonic = "patient rural tumble advance arctic library kite supreme mushroom clarify video episode";

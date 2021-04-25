@@ -1,1 +1,1 @@
-var mnemonic = "destroy chronic fossil garden purity install wool lamp talent obscure era pink";
+var mnemonic = "tonight reward doll evil seat sugar banana hello network pencil punch devote";

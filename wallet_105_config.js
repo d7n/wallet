@@ -1,1 +1,1 @@
-var mnemonic = "chaos race hand borrow spoon ranch account payment toddler end ordinary repeat";
+var mnemonic = "brick find silver actress bunker slogan planet tilt consider budget fossil payment";

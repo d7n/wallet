@@ -1,1 +1,1 @@
-var mnemonic = "warm relax lumber prepare tent earth canoe thunder fiction shiver grab auction";
+var mnemonic = "sell vanish aware angle base manage amount call minimum page subway actual";

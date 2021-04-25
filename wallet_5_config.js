@@ -1,1 +1,1 @@
-var mnemonic = "dynamic federal sniff monitor guilt glove excuse provide earn decide omit tennis";
+var mnemonic = "board explain cheese still term melt witness half rail slender camp coach";

@@ -1,1 +1,1 @@
-var mnemonic = "damage all brown drill flower pause law fire trim attract target online";
+var mnemonic = "rebel metal since damp town silk random swarm cargo image argue ozone";

@@ -1,1 +1,1 @@
-var mnemonic = "fatigue power warfare dilemma ramp addict bright clip wolf bone confirm violin";
+var mnemonic = "text rose ignore unit fine quick slice until donor lonely over rail";

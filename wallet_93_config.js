@@ -1,1 +1,1 @@
-var mnemonic = "brown oyster ghost crater wrist thrive nerve tobacco one resemble hockey glue";
+var mnemonic = "bless cheese embrace adjust tissue broccoli business celery brown unveil insane pupil";

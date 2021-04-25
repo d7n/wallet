@@ -1,1 +1,1 @@
-var mnemonic = "mystery champion season patrol nuclear process island region knife puppy check blanket";
+var mnemonic = "clever column math chalk banana admit close october estate fee question leg";

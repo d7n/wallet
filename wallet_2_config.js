@@ -1,1 +1,1 @@
-var mnemonic = "slot announce danger upgrade version release social display advice retreat session plate";
+var mnemonic = "uniform first law praise utility cup orchard dad wheel short whip health";

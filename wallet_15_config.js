@@ -1,1 +1,1 @@
-var mnemonic = "merge helmet rabbit enroll whip can shield chuckle project tomorrow switch wear";
+var mnemonic = "other symptom corn permit obtain describe wish parade lens ensure peanut next";

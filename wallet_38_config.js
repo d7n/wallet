@@ -1,1 +1,1 @@
-var mnemonic = "earth defense raccoon business marriage melody oven labor tragic album novel fortune";
+var mnemonic = "jump body open remove hammer economy between remove remember gravity bubble supreme";

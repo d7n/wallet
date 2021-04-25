@@ -1,1 +1,1 @@
-var mnemonic = "club second bird fiction size army tooth rubber leaf staff method law";
+var mnemonic = "horror mechanic mule clog term dog inject car regret april observe jazz";

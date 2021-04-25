@@ -1,1 +1,1 @@
-var mnemonic = "annual reduce example budget blast forward exchange certain spike crawl text hero";
+var mnemonic = "case link sample case party cook airport differ zone ill reunion venue";

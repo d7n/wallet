@@ -1,1 +1,1 @@
-var mnemonic = "option rich dutch feature clump marine elite vintage produce harvest tooth powder";
+var mnemonic = "exit choose morning spirit snap exit dice fade mass screen damp web";

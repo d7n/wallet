@@ -1,1 +1,1 @@
-var mnemonic = "crush innocent say merit east upgrade trip toast front involve auto elbow";
+var mnemonic = "kick combine execute grow load tip kiss pink regular pelican desk knock";

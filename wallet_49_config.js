@@ -1,1 +1,1 @@
-var mnemonic = "very scrap kidney wait salmon gaze ghost wash until knee over company";
+var mnemonic = "torch ritual manual number ankle pipe wheel aunt analyst blade cruel easy";

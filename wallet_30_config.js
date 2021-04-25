@@ -1,1 +1,1 @@
-var mnemonic = "rhythm behind music web gospel seven under silly ranch found sleep series";
+var mnemonic = "embody mimic deal tuna audit confirm gentle dog horror mail uncover tackle";

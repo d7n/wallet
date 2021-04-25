@@ -1,1 +1,1 @@
-var mnemonic = "whisper laptop catalog eight soul patch accuse deposit begin love decrease accuse";
+var mnemonic = "novel emerge neglect drum picture project census bike unveil orphan leisure fix";

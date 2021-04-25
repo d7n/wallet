@@ -1,1 +1,1 @@
-var mnemonic = "noodle round bacon fatigue cable pepper argue either dove dad crash enhance";
+var mnemonic = "rude pumpkin apology race easy barrel shine crane nature point need dignity";

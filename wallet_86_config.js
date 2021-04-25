@@ -1,1 +1,1 @@
-var mnemonic = "connect poverty blossom exist jaguar second zone joy can field veteran alone";
+var mnemonic = "current dwarf amazing buddy punch tell play half business render waste similar";

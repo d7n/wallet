@@ -1,1 +1,1 @@
-var mnemonic = "enrich grain rice tribe athlete pause advice write twice inside twenty space";
+var mnemonic = "earn ring fish gloom faint bench apart electric cushion coin analyst coconut";

@@ -1,1 +1,1 @@
-var mnemonic = "ensure group left blur banner grace fury market immense deal canoe glare";
+var mnemonic = "oyster legend sadness month egg area connect erase hedgehog exclude clock excite";

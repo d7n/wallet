@@ -1,1 +1,1 @@
-var mnemonic = "husband derive issue caught tooth piano dust oyster bid language jewel frame";
+var mnemonic = "eagle nerve action legal scare surface blade entry dad used awesome surprise";

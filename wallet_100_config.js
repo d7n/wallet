@@ -1,1 +1,1 @@
-var mnemonic = "gas above onion toast actual immense clown middle street foam happy ozone";
+var mnemonic = "blame remain minimum page fiction kitchen earn clock hat maple kitchen someone";

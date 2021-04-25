@@ -1,1 +1,1 @@
-var mnemonic = "mean yard champion social tortoise faculty wash wife praise neglect way deer";
+var mnemonic = "remain output size earth lab agent crouch fire ring battle when peanut";

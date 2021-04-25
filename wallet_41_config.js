@@ -1,1 +1,1 @@
-var mnemonic = "gift air talent say minimum edit collect lamp material blue chief shiver";
+var mnemonic = "spray tornado neglect exchange grace sauce stool sample lecture attract fluid eager";

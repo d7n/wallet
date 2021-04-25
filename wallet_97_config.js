@@ -1,1 +1,1 @@
-var mnemonic = "area ahead true silent prosper burger soup shove update spin unique asset";
+var mnemonic = "sail market echo modify valid donkey visa fold furnace ordinary hurdle jewel";

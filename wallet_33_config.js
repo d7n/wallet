@@ -1,1 +1,1 @@
-var mnemonic = "real edge notice comic scale rude charge boil riot mail oak seed";
+var mnemonic = "scrap advance oven wedding swing expire nose garlic cable project smile equal";

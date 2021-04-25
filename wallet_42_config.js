@@ -1,1 +1,1 @@
-var mnemonic = "ticket climb squirrel pluck never evoke hire beyond later physical chest eagle";
+var mnemonic = "brisk entry clutch letter enforce stamp innocent great peasant screen clock rebuild";

@@ -1,1 +1,1 @@
-var mnemonic = "month wedding will chronic devote win cruel together angle shoulder love rotate";
+var mnemonic = "trim spirit nose zero front shield cram wild cat crunch buyer swarm";

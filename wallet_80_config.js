@@ -1,1 +1,1 @@
-var mnemonic = "destroy inherit moon ceiling wheel silver trap only tenant runway raise short";
+var mnemonic = "panic seven icon tumble attitude grass fragile tube rail arm roast advice";

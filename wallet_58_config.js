@@ -1,1 +1,1 @@
-var mnemonic = "radar daughter sand must govern key bike valve fork slide supply tag";
+var mnemonic = "offer group siren grow example finger blind horror myself universe vague peasant";

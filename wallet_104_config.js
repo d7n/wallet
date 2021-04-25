@@ -1,1 +1,1 @@
-var mnemonic = "drill arrow tribe hold marriage donor matrix spoil decade sleep visa shock";
+var mnemonic = "asthma coin ticket wheat section liar skin ship maze illegal end rebel";

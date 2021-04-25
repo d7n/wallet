@@ -1,1 +1,1 @@
-var mnemonic = "feed attract special isolate frame advice fantasy flash spare alone novel zebra";
+var mnemonic = "spot purchase very atom that tongue lyrics ski umbrella olive ship age";

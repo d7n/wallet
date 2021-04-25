@@ -1,1 +1,1 @@
-var mnemonic = "woman draw remove donor spot unveil earn dirt victory angry hero lemon";
+var mnemonic = "speak sad tone lion exchange gown curtain used decade speed regular hover";

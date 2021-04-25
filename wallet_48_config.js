@@ -1,1 +1,1 @@
-var mnemonic = "object scout suit tribe artwork illness pelican together chef able small quiz";
+var mnemonic = "session grid medal spot goat wire next veteran rescue toe message seminar";

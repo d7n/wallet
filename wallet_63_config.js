@@ -1,1 +1,1 @@
-var mnemonic = "crawl vendor maid dumb absurd chief bullet weapon almost kingdom wisdom interest";
+var mnemonic = "later shaft upon lecture slice dizzy common enemy put enforce blanket abuse";

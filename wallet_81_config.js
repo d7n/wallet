@@ -1,1 +1,1 @@
-var mnemonic = "harbor tag noise auction simple kangaroo bachelor rotate august body close whale";
+var mnemonic = "project base valid stumble cluster such health devote demise camp love kite";

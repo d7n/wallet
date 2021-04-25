@@ -1,1 +1,1 @@
-var mnemonic = "conduct able shy urban invite film avoid close chief wrist remain amateur";
+var mnemonic = "smile slice tell ostrich someone setup friend foot sudden warrior foster control";

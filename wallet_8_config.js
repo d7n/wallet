@@ -1,1 +1,1 @@
-var mnemonic = "toilet more almost adapt autumn pony mansion dumb unit slab apology angry";
+var mnemonic = "alert yard burden exact valley poet popular gloom pass curtain toward carpet";

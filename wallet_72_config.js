@@ -1,1 +1,1 @@
-var mnemonic = "rule six uphold design spot broom wrap protect fetch stage turn vacuum";
+var mnemonic = "place donate enforce various bench protect banana laundry elbow purse spend story";

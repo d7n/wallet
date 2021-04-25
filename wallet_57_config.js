@@ -1,1 +1,1 @@
-var mnemonic = "lion dwarf verb eagle peasant drift during erase ancient quick iron explain";
+var mnemonic = "unfair shrimp insect stand replace busy profit train strong present monitor kiwi";

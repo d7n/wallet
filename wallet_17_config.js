@@ -1,1 +1,1 @@
-var mnemonic = "high tongue feel skirt use climb mansion bargain employ express hint scatter";
+var mnemonic = "frost utility soup journey bullet beach hub dwarf arrange beauty hunt tired";

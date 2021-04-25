@@ -1,1 +1,1 @@
-var mnemonic = "keen oyster treat mosquito casino angle parent always left kick combine group";
+var mnemonic = "split bicycle lake object knee orphan enough chase captain embrace detail merge";

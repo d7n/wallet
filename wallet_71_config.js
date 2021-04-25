@@ -1,1 +1,1 @@
-var mnemonic = "consider hundred blanket stove various medal trouble diary drum warfare sound quote";
+var mnemonic = "crew flee skirt atom lava grid start script custom stadium famous sponsor";

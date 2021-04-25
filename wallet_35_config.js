@@ -1,1 +1,1 @@
-var mnemonic = "group switch property wood guess innocent color drama need reason half inhale";
+var mnemonic = "sample must kiss tragic casino list pact mercy various doctor civil album";

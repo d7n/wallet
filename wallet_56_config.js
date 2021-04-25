@@ -1,1 +1,1 @@
-var mnemonic = "cruel unlock depth pottery snake shuffle later employ warrior ticket letter autumn";
+var mnemonic = "barely dizzy soap three recipe indoor donate balance circle neither sorry bamboo";

@@ -1,1 +1,1 @@
-var mnemonic = "hole shift crumble mail social whip immune exotic mention broken song claim";
+var mnemonic = "rather kit harvest lunch upset type borrow target dash naive coffee actor";

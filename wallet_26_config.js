@@ -1,1 +1,1 @@
-var mnemonic = "arrest awake wife maximum cruel advance gain leopard movie faith inject garlic";
+var mnemonic = "sorry anchor weather clock route drive trick lens ugly tumble weather coach";

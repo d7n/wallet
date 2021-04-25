@@ -1,1 +1,1 @@
-var mnemonic = "system stone tower turkey stay release light lens warrior bomb culture final";
+var mnemonic = "subway practice jealous relax rude drive absurd suspect later cram physical brother";

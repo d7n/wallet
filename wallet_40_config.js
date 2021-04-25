@@ -1,1 +1,1 @@
-var mnemonic = "clump spread wage manual toddler cage hero age tattoo quarter boss plug";
+var mnemonic = "churn length mistake come pioneer pioneer clinic age husband random obey hollow";

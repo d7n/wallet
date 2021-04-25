@@ -1,1 +1,1 @@
-var mnemonic = "cool six tower plunge visa swarm bag harvest phrase puppy actress novel";
+var mnemonic = "village forward comic grit profit immense riot exit awkward cereal copy hold";

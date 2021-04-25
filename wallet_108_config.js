@@ -1,1 +1,1 @@
-var mnemonic = "capable canvas lemon barely ugly choice write accident tube debris mass shift";
+var mnemonic = "betray vital much pass account offer proud rookie fever move exercise refuse";

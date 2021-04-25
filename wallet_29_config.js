@@ -1,1 +1,1 @@
-var mnemonic = "panic trip almost trust pistol oval mimic proof fix genuine donkey urban";
+var mnemonic = "punch orange coconut globe power equal choose shell absent whale stool struggle";

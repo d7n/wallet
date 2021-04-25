@@ -1,1 +1,1 @@
-var mnemonic = "friend wild foster lemon carry hundred foot fossil into evidence gown stem";
+var mnemonic = "alert apology fork dizzy reduce run walnut author actual elephant melt coffee";

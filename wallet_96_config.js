@@ -1,1 +1,1 @@
-var mnemonic = "unfair explain security pipe deposit camp sauce reward december fat enrich share";
+var mnemonic = "casino glass sponsor face aware reform sister spell proof joy twist actor";

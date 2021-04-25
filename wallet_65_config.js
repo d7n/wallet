@@ -1,1 +1,1 @@
-var mnemonic = "major wait zone crack jealous window legal zoo parade pudding quiz attract";
+var mnemonic = "actress silk double sad tuition refuse expire resist wagon wool test bonus";

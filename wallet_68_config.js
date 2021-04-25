@@ -1,1 +1,1 @@
-var mnemonic = "build wreck tip seed proof spare glad helmet ankle action knife exist";
+var mnemonic = "bonus theme zero smoke wrap monkey chaos loyal bracket stay advance attitude";

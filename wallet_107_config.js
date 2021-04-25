@@ -1,1 +1,1 @@
-var mnemonic = "inform flavor wreck reduce limit group color reject road you earn extra";
+var mnemonic = "much anger mimic blade direct spike slush tragic arrest plunge risk connect";

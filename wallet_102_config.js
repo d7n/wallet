@@ -1,1 +1,1 @@
-var mnemonic = "boy gym verb seminar silly toast fuel color anxiety obtain broken fame";
+var mnemonic = "brief shove bean cliff twin monster between blossom obtain trap wrong aerobic";

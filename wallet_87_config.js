@@ -1,1 +1,1 @@
-var mnemonic = "control upon average host relief clay pumpkin empower bar liquid donor must";
+var mnemonic = "divide bracket embark cube refuse curious stamp door deputy circle end evoke";

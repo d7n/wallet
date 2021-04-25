@@ -1,1 +1,1 @@
-var mnemonic = "rice alone dust note drink wood rose demise fat drive clump flower";
+var mnemonic = "tackle approve chimney buzz grief ceiling idea certain sibling bulk junior pull";

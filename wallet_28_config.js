@@ -1,1 +1,1 @@
-var mnemonic = "sniff plunge motion wear shy mystery rib document absurd canal grape mechanic";
+var mnemonic = "female opera vital indicate silver horror limit winter elephant lamp amount source";

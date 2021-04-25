@@ -1,1 +1,1 @@
-var mnemonic = "process fragile like debate sure crisp promote release pencil head door federal";
+var mnemonic = "ignore pull message spring absorb rigid begin train soldier debate collect female";

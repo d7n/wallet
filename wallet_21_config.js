@@ -1,1 +1,1 @@
-var mnemonic = "swear soon flock oyster yard pride must boost turtle mountain pottery grape";
+var mnemonic = "heavy marriage position end dolphin gold garbage mountain goose vintage offer scheme";

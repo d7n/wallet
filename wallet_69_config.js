@@ -1,1 +1,1 @@
-var mnemonic = "merry winner hurdle either vivid fold shoot ozone stable margin foam pilot";
+var mnemonic = "steel depart alpha salon head promote pulp decorate struggle normal cable catch";

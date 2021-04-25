@@ -1,1 +1,1 @@
-var mnemonic = "settle kid reward poverty unable audit genre mask permit ski system pony";
+var mnemonic = "found gift damage will dust quiz catalog omit miracle divert install dream";

@@ -1,1 +1,1 @@
-var mnemonic = "daring output salad twenty genuine flower slam guess element crumble table dragon";
+var mnemonic = "voice random baby relax pitch bridge way crush neglect ill genuine common";

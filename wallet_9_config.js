@@ -1,1 +1,1 @@
-var mnemonic = "kick excite spoil protect arm secret violin broken arena text surge bone";
+var mnemonic = "nerve concert canoe atom spirit retreat float mind impose gospel ritual catalog";

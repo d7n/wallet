@@ -1,1 +1,1 @@
-var mnemonic = "core cycle cluster differ neglect stove boss dolphin lunar they search net";
+var mnemonic = "east pilot soon sick balance supreme movie reopen knee violin share aunt";

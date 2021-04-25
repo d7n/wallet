@@ -1,1 +1,1 @@
-var mnemonic = "deer recall today couple series wisdom pizza course tongue brain special violin";
+var mnemonic = "inject orbit token once employ loop tornado chair trip inject attitude flavor";

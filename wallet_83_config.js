@@ -1,1 +1,1 @@
-var mnemonic = "gather vanish inject mask absorb shoe tomato dawn tell embark report olympic";
+var mnemonic = "please trend circle wood device text reward castle must mosquito later gravity";

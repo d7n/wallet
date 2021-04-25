@@ -1,1 +1,1 @@
-var mnemonic = "link decide situate mutual senior near virus exhibit often vote empty man";
+var mnemonic = "bracket margin coast amount beyond judge entry flock any crystal sort antique";

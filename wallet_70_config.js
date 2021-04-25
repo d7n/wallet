@@ -1,1 +1,1 @@
-var mnemonic = "loop color brief hold key speak rocket option hockey envelope device feed";
+var mnemonic = "ancient theory universe truly lawsuit desert slow away matter make shoe smile";

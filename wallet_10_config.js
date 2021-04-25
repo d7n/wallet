@@ -1,1 +1,1 @@
-var mnemonic = "supply alley diary organ valve spot cost season fire suffer chat unhappy";
+var mnemonic = "rice bottom sing hospital gun barrel almost spring dismiss piano keep idle";

@@ -1,1 +1,1 @@
-var mnemonic = "merge canal judge sorry permit shy mystery auction genius chapter cause tide";
+var mnemonic = "anxiety brush punch rule shock state midnight table spirit tortoise road end";

@@ -1,1 +1,1 @@
-var mnemonic = "eternal board before toddler youth witness venture expire burden what clock craft";
+var mnemonic = "immune train leader forward proud spin claw legal gun auto bitter uncover";

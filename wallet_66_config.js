@@ -1,1 +1,1 @@
-var mnemonic = "increase judge shoe sniff clinic slow marble card volcano luggage border palace";
+var mnemonic = "female smile quantum one clock install fence drama clog force kite certain";

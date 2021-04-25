@@ -1,1 +1,1 @@
-var mnemonic = "remain super salmon else egg spread argue sun same toddler marine rookie";
+var mnemonic = "copper soccer news stool orbit tuna civil unable damage health infant theory";
