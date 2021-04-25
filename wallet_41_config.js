@@ -1,1 +1,1 @@
-var mnemonic = "royal start route deliver alert donate banner nation worry thrive panther ticket";
+var mnemonic = "escape breeze phrase pupil leave arctic forward paddle divert figure make distance";

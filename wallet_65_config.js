@@ -1,1 +1,1 @@
-var mnemonic = "token clip enact pumpkin crucial provide annual crowd cost fringe whisper hurt";
+var mnemonic = "risk cable tag crucial boring mother maze wear regular collect eye purpose";

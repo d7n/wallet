@@ -1,1 +1,1 @@
-var mnemonic = "recipe goat aerobic cross taxi can book final trumpet shiver insect appear";
+var mnemonic = "alcohol bench high talent cute ghost erase rain truth gas kind loud";

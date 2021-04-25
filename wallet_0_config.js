@@ -1,1 +1,1 @@
-var mnemonic = "jungle wise guitar dial lesson devote air glad similar fabric true render";
+var mnemonic = "hip fox tree subject defy green stamp actual stairs prevent monkey asthma";

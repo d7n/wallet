@@ -1,1 +1,1 @@
-var mnemonic = "sting remind ribbon sunny sister father trumpet fatigue glance hundred dinosaur utility";
+var mnemonic = "busy annual flight seek olive pact hospital budget apple defense ranch firm";

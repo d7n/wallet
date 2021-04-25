@@ -1,1 +1,1 @@
-var mnemonic = "boost clown prepare concert dynamic drift piano alone perfect under latin copper";
+var mnemonic = "pepper blame case wrist sting lens addict bread second trim poet unique";

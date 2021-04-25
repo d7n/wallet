@@ -1,1 +1,1 @@
-var mnemonic = "scheme wool theme census rack exotic range amateur flame wealth raccoon city";
+var mnemonic = "cannon ozone drama mandate fat exist shaft axis grape unlock install enter";

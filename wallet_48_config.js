@@ -1,1 +1,1 @@
-var mnemonic = "real judge stick slight heavy noodle swallow genre gravity seven worth document";
+var mnemonic = "squeeze enable trash elder acid enrich veteran naive ridge parade carbon suspect";

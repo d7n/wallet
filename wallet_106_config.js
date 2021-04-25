@@ -1,1 +1,1 @@
-var mnemonic = "guess crack thunder promote chimney measure work rival horn side cat pitch";
+var mnemonic = "depart traffic logic poet giraffe oil glue decide turkey appear juice frequent";

@@ -1,1 +1,1 @@
-var mnemonic = "tip flock join attend display farm metal wrist deputy limb budget three";
+var mnemonic = "dinosaur mom car bean ankle core canal zero already grant silly armor";

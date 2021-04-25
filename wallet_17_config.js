@@ -1,1 +1,1 @@
-var mnemonic = "shadow machine gadget mushroom match belt disagree arrow mechanic nation push busy";
+var mnemonic = "wealth noble tunnel blood dial rule sponsor derive elephant ten leader cactus";

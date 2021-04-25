@@ -1,1 +1,1 @@
-var mnemonic = "razor genre affair indicate trap coconut discover account tattoo kangaroo moment west";
+var mnemonic = "subway omit access route spread decline impose reason dentist term twenty repair";

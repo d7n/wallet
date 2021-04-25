@@ -1,1 +1,1 @@
-var mnemonic = "father final onion salon disease nephew enjoy install ensure describe sorry boring";
+var mnemonic = "despair salad direct brown design fault paddle curious harsh across effort enter";

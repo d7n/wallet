@@ -1,1 +1,1 @@
-var mnemonic = "quit cup shoulder feel connect vault girl duty brother noise ordinary brush";
+var mnemonic = "thunder quote absent bar quote have catalog drill skull dream mix trim";

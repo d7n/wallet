@@ -1,1 +1,1 @@
-var mnemonic = "ethics imitate file sea wash patient drip stool alarm unveil shed aware";
+var mnemonic = "laptop hidden puzzle seed chimney hunt wedding clean return attract figure brisk";

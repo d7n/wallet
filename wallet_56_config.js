@@ -1,1 +1,1 @@
-var mnemonic = "snow someone price stairs goat banner wish margin aware tired library truck";
+var mnemonic = "soccer display weekend meadow exchange stumble artwork popular flip birth defense tip";

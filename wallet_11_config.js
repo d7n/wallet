@@ -1,1 +1,1 @@
-var mnemonic = "peasant pyramid loyal oblige sister book cheese truck cram waste cancel push";
+var mnemonic = "lion accuse dad carry trend loop steak advance celery twice depend feature";

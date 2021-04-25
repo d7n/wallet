@@ -1,1 +1,1 @@
-var mnemonic = "anchor jungle human pink stumble basket clarify session permit trap pill isolate";
+var mnemonic = "exclude bench patient country section gadget arrest veteran upset peace rescue hello";

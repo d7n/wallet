@@ -1,1 +1,1 @@
-var mnemonic = "unveil palace conduct able vessel sadness weapon jump napkin supply rose mimic";
+var mnemonic = "stadium idle maximum average host fatigue remain frog arrive chicken fish leaf";

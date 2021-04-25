@@ -1,1 +1,1 @@
-var mnemonic = "mad memory sound economy retire high evidence trial destroy stay riot core";
+var mnemonic = "noble bright minor faint entry fix oyster lesson open olympic useful abstract";

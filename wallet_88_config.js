@@ -1,1 +1,1 @@
-var mnemonic = "fossil nice angry glimpse club fluid kidney steel strike fragile valley fold";
+var mnemonic = "shiver burst loan swim fiber good curtain permit gesture copy appear ecology";

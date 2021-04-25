@@ -1,1 +1,1 @@
-var mnemonic = "knock uncle metal suit talent six pact crazy ready buffalo inquiry laptop";
+var mnemonic = "load secret decline taxi swim join club wall toward comic hurt noodle";

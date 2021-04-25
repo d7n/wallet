@@ -1,1 +1,1 @@
-var mnemonic = "fury loop swift clump random slice ill tortoise ginger field calm error";
+var mnemonic = "maximum twenty mimic twenty test pattern harvest submit future absorb kangaroo soldier";

@@ -1,1 +1,1 @@
-var mnemonic = "intact cereal toy fancy elbow duty exclude aunt year milk awkward color";
+var mnemonic = "humble wine squirrel donkey jeans tag brain peasant grace first marine length";

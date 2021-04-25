@@ -1,1 +1,1 @@
-var mnemonic = "because put beyond sadness aerobic abuse adjust know leg danger polar margin";
+var mnemonic = "then arch concert impact raven silent spirit fruit control then blur maid";

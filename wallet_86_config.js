@@ -1,1 +1,1 @@
-var mnemonic = "similar fortune rice visit coconut horror entire smooth elegant second range earn";
+var mnemonic = "rent comfort try coin town artwork cherry broken quality fame churn gentle";

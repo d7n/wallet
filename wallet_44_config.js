@@ -1,1 +1,1 @@
-var mnemonic = "awake emerge celery pistol table flat slab gate prevent govern sample dress";
+var mnemonic = "dress pattern cart proud begin keep right keep shallow soap craft crumble";

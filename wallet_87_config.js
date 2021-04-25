@@ -1,1 +1,1 @@
-var mnemonic = "disease jaguar dinosaur dust video crisp federal fringe defense vapor bargain toy";
+var mnemonic = "region danger ozone push slim window group piano meat useless jealous april";

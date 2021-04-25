@@ -1,1 +1,1 @@
-var mnemonic = "blue horn regular interest diagram render sun tribe busy almost quantum burger";
+var mnemonic = "buzz blush skirt upgrade another aerobic vital update puppy maximum toss pyramid";

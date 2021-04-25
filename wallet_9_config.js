@@ -1,1 +1,1 @@
-var mnemonic = "cheese audit canyon hero tissue smoke thing grass robot bitter night twist";
+var mnemonic = "envelope icon play walk silk frequent service ancient wage live fly kidney";

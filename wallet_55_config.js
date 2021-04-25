@@ -1,1 +1,1 @@
-var mnemonic = "hood north traffic outside seminar hundred giggle ginger immense seminar stick slice";
+var mnemonic = "cloth infant rabbit cool tribe drift fantasy marriage table laptop alarm ostrich";

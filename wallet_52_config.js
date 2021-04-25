@@ -1,1 +1,1 @@
-var mnemonic = "unable tongue brush silver volume news decrease dog sad sudden hobby lonely";
+var mnemonic = "novel deal age photo special unable theory coffee suit discover give frame";

@@ -1,1 +1,1 @@
-var mnemonic = "swift barrel bottom chase slow defense grape saddle cushion clip engine space";
+var mnemonic = "food galaxy orphan damp ecology release nerve tiny call lens regret blade";

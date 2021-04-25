@@ -1,1 +1,1 @@
-var mnemonic = "glide estate document craft royal upset lift goat park burst pizza step";
+var mnemonic = "tattoo reflect portion truly shock draw reduce shoot guide world any meat";

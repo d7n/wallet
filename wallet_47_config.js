@@ -1,1 +1,1 @@
-var mnemonic = "weather fringe right insect find prevent minimum resist flat escape fortune paddle";
+var mnemonic = "regret craft crucial have demand call flush wide mom cement warfare bubble";

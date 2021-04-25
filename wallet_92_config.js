@@ -1,1 +1,1 @@
-var mnemonic = "lazy upper cruise seven pill salt laugh slide erase effort record arrange";
+var mnemonic = "fabric glad valid sure cherry mind copy token cradle fiscal anxiety used";

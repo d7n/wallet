@@ -1,1 +1,1 @@
-var mnemonic = "game license coyote warfare blanket real vacant surround shiver canvas lift diary";
+var mnemonic = "rally swear stick omit throw wait riot double art goddess space work";

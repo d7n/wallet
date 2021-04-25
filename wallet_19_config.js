@@ -1,1 +1,1 @@
-var mnemonic = "energy engine relief good calm way behind horror clown like casino dignity";
+var mnemonic = "fancy hockey piece prefer ribbon orange tattoo tired puzzle viable exchange ticket";

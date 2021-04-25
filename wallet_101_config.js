@@ -1,1 +1,1 @@
-var mnemonic = "gain average wasp plate phone lava refuse body practice region wool digital";
+var mnemonic = "clarify sting private park worry deny key neglect select maple crew aspect";

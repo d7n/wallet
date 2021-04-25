@@ -1,1 +1,1 @@
-var mnemonic = "goat flee input abandon enroll include pencil saddle inch soda sea unfair";
+var mnemonic = "harsh attend fossil emerge domain off travel olympic auto hurry now gather";

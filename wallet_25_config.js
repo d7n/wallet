@@ -1,1 +1,1 @@
-var mnemonic = "little jealous unhappy coil honey receive violin prevent tortoise across spread jaguar";
+var mnemonic = "border report naive empower artwork timber current aim wrap depth embrace dice";

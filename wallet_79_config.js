@@ -1,1 +1,1 @@
-var mnemonic = "adult strategy frown exile modify lemon cotton van shield culture unfair evil";
+var mnemonic = "village mirror horse language athlete there acoustic sense discover system alpha host";

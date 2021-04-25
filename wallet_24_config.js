@@ -1,1 +1,1 @@
-var mnemonic = "describe spider loyal acid certain pact tag capable advance dumb sponsor little";
+var mnemonic = "sadness universe tortoise wink disorder release furnace field shiver verb velvet shop";

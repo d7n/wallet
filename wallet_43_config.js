@@ -1,1 +1,1 @@
-var mnemonic = "this orient beyond hurry balcony mimic soup deposit hundred hub final embark";
+var mnemonic = "image load village style kite cliff retreat hurdle frozen truly crawl old";

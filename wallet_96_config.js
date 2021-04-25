@@ -1,1 +1,1 @@
-var mnemonic = "order vehicle moment silent funny media eternal enhance float fit city chief";
+var mnemonic = "puppy super situate team repair play october wash coil absent spin salt";

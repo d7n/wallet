@@ -1,1 +1,1 @@
-var mnemonic = "also boil squirrel venture cloth eyebrow feed cigar slot sweet mountain absurd";
+var mnemonic = "artwork awake fatigue ice midnight absent quote east vast anxiety typical fresh";

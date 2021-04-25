@@ -1,1 +1,1 @@
-var mnemonic = "april moon motion erode join bench blush blossom topple accident exhaust rare";
+var mnemonic = "term acoustic solution fabric mail pepper help company ask gloom sausage potato";

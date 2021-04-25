@@ -1,1 +1,1 @@
-var mnemonic = "another actress erode vote twist lawn assist chair pet warfare reward repair";
+var mnemonic = "legend hazard tennis aware payment habit gallery tenant agent catch eight witness";

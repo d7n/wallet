@@ -1,1 +1,1 @@
-var mnemonic = "fat risk bulb toe actual begin urban grass dinosaur harbor borrow camp";
+var mnemonic = "pupil lava student lounge act retire burden obvious document body champion expire";

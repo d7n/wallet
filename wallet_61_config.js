@@ -1,1 +1,1 @@
-var mnemonic = "mutual riot party erode master subway monitor clever rubber leader pond fire";
+var mnemonic = "stumble august search test plate scheme walnut cross fury pluck busy palm";

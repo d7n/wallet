@@ -1,1 +1,1 @@
-var mnemonic = "method trumpet puppy flock culture fish response hint festival tip omit teach";
+var mnemonic = "great forum direct island wish mountain pelican sound divide sample pear fame";

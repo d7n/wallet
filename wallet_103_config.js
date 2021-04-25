@@ -1,1 +1,1 @@
-var mnemonic = "bulb rocket element address reform fat give dove merry ladder march problem";
+var mnemonic = "oak hold twin swamp shuffle cup leisure armor menu decide come bounce";

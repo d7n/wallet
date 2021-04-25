@@ -1,1 +1,1 @@
-var mnemonic = "tilt picnic family crunch rocket gadget current hero desk mom style skill";
+var mnemonic = "foil range depart cloud comfort need wrist century exercise abstract hundred educate";

@@ -1,1 +1,1 @@
-var mnemonic = "tornado cargo ranch square guess donkey awful talent orchard bridge draft nest";
+var mnemonic = "dinosaur violin senior tiny cause enlist flip milk alcohol subway length quantum";

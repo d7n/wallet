@@ -1,1 +1,1 @@
-var mnemonic = "glide resource gown draw visit where blind float tumble south similar miss";
+var mnemonic = "process host scheme print then captain hard unfold tank sword recall shift";

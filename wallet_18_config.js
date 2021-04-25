@@ -1,1 +1,1 @@
-var mnemonic = "announce hurt try clock broccoli chase total carry legal cube eternal tool";
+var mnemonic = "anxiety bacon liar gas vote boy empty test fitness body confirm post";

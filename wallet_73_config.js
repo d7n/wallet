@@ -1,1 +1,1 @@
-var mnemonic = "piece tail hurry short video clinic business match approve reopen view comic";
+var mnemonic = "seat cricket practice rapid march voyage supply fringe marble verb game hip";

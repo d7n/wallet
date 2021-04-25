@@ -1,1 +1,1 @@
-var mnemonic = "practice harbor eyebrow ancient just measure flat crime garment fancy rely gaze";
+var mnemonic = "leader latin series decade broom toilet renew eager fatal nice sure brief";

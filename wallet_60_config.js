@@ -1,1 +1,1 @@
-var mnemonic = "glad come skin crunch prevent age hint inject mango select escape blame";
+var mnemonic = "speed tube main woman poet symbol food enroll repair wasp below picnic";

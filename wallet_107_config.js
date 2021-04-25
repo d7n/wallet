@@ -1,1 +1,1 @@
-var mnemonic = "danger tape orbit plate learn museum road proud stand have surprise witness";
+var mnemonic = "sport drive panther oak toast sock curve addict slice grant second nephew";

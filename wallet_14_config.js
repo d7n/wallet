@@ -1,1 +1,1 @@
-var mnemonic = "phone pause unhappy say later broom nose draft pretty pumpkin snake tenant";
+var mnemonic = "blame grow drift health case repair autumn account this chicken work vessel";

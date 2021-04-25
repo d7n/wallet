@@ -1,1 +1,1 @@
-var mnemonic = "solid match guess achieve security naive chair wisdom whale truly deposit notable";
+var mnemonic = "will upset either boss duty misery wage random clever smile electric slide";

@@ -1,1 +1,1 @@
-var mnemonic = "crater seek balcony soccer village lemon fence very recycle mushroom novel raven";
+var mnemonic = "trend swing smart jewel swamp melt frequent hope ostrich object matter usual";

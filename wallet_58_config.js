@@ -1,1 +1,1 @@
-var mnemonic = "chimney summer square acoustic inhale hello hour opinion quick monkey sort smart";
+var mnemonic = "verify enforce bird hotel color flag rigid clean trouble degree kiss face";

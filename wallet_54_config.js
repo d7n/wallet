@@ -1,1 +1,1 @@
-var mnemonic = "throw erode seminar fence enhance comfort viable idle copper mass foster bunker";
+var mnemonic = "favorite general ceiling phone glance vote sorry fog denial episode giraffe tackle";

@@ -1,1 +1,1 @@
-var mnemonic = "find vintage nation rival boat point flight slab laugh memory craft add";
+var mnemonic = "gate ugly cat creek emotion unable aspect isolate accident team annual borrow";

@@ -1,1 +1,1 @@
-var mnemonic = "bomb grab evidence begin pilot mosquito hour author balance lawsuit chair clock";
+var mnemonic = "soda borrow property adult ship immune still open portion monitor learn equal";

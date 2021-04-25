@@ -1,1 +1,1 @@
-var mnemonic = "length thrive great tenant worry drum aspect song decade first refuse proud";
+var mnemonic = "chalk three genre occur weird nose first slight tube million cruise tiger";

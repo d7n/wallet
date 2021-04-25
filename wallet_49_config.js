@@ -1,1 +1,1 @@
-var mnemonic = "moon dad lunch anxiety spread devote egg crush december knife phone life";
+var mnemonic = "menu often affair author chat spy nuclear unaware sadness patch proud ribbon";

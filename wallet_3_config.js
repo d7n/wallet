@@ -1,1 +1,1 @@
-var mnemonic = "need hood hammer road toast describe pattern solution tackle swamp orient easy";
+var mnemonic = "person produce topic detect enforce derive satoshi health tooth screen rhythm license";

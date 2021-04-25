@@ -1,1 +1,1 @@
-var mnemonic = "chase burden case dial limit skill recipe typical van melody rule detect";
+var mnemonic = "fiction scissors anger reunion essay error speed rebel salon symbol charge accident";

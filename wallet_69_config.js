@@ -1,1 +1,1 @@
-var mnemonic = "twenty sense senior tide reveal soup clip symbol comic protect cherry fruit";
+var mnemonic = "viable tomato amused key bullet episode emerge warfare always destroy strategy raccoon";

@@ -1,1 +1,1 @@
-var mnemonic = "mixed answer burger salute alley copper deny genre clap unaware loan marine";
+var mnemonic = "fun clean addict glow glide present win orange lizard figure hollow fiscal";

@@ -1,1 +1,1 @@
-var mnemonic = "mercy survey risk sunset open jaguar piano whip toward cement shaft hen";
+var mnemonic = "mirror reduce feed explain spoil fame pill mind lumber post exile silk";

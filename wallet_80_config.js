@@ -1,1 +1,1 @@
-var mnemonic = "echo glimpse cloud know author accident cross glue element turtle universe smooth";
+var mnemonic = "march place urban legend bullet learn often twin foot spoon helmet gossip";

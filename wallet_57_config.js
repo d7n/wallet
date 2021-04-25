@@ -1,1 +1,1 @@
-var mnemonic = "cattle style empty panther artefact saddle economy life length aspect guilt cactus";
+var mnemonic = "chimney impose woman soul seminar amateur amazing rack dune caught napkin time";

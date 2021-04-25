@@ -1,1 +1,1 @@
-var mnemonic = "ceiling lady lion gauge potato tooth monitor practice salmon mesh source lend";
+var mnemonic = "leg scene alpha picture example shield labor near ball air twelve yellow";

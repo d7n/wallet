@@ -1,1 +1,1 @@
-var mnemonic = "spell actor erode stove rule file moral acoustic witness gospel hedgehog toast";
+var mnemonic = "tent reflect van seat ski breeze heart priority correct behind sick fringe";

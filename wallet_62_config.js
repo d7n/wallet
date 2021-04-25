@@ -1,1 +1,1 @@
-var mnemonic = "problem neither consider burger matter glare peanut skill soft addict minute large";
+var mnemonic = "rifle flavor remember divorce empty library man crazy horse bamboo true relief";

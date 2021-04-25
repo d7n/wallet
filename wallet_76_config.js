@@ -1,1 +1,1 @@
-var mnemonic = "just push future torch learn husband bread actress near labor behave patient";
+var mnemonic = "theme galaxy cross oil segment wrap best east wrestle sorry trip portion";

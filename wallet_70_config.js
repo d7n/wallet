@@ -1,1 +1,1 @@
-var mnemonic = "ecology silent foam ancient ride evil asset chat case absorb office poverty";
+var mnemonic = "toddler since mirror double fashion keen coral modify grant lens volcano resource";

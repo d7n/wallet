@@ -1,1 +1,1 @@
-var mnemonic = "laugh enemy zoo renew fog banana just vapor limit raven cluster accident";
+var mnemonic = "novel library mass pet forget scan rough immune river exercise bitter snap";

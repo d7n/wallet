@@ -1,1 +1,1 @@
-var mnemonic = "tunnel snow goose hammer traffic broccoli hero artefact now priority diamond exit";
+var mnemonic = "unfair arrest cereal biology convince egg erupt scout cherry pill isolate expand";

@@ -1,1 +1,1 @@
-var mnemonic = "slow misery lion airport drastic feel beauty soldier undo horn luxury cube";
+var mnemonic = "provide ocean trust shuffle rough roof dragon food chronic rib later reward";

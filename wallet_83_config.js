@@ -1,1 +1,1 @@
-var mnemonic = "lion wrong ketchup drama lizard solar hire math total convince year blood";
+var mnemonic = "next blood tomorrow increase quarter damage grocery inner ceiling bargain utility eight";
