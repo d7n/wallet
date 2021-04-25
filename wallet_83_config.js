@@ -1,1 +1,1 @@
-var mnemonic = "garbage resource sweet light like light small glad feel convince nest daring";
+var mnemonic = "siege verb patch help hybrid option negative tortoise close sketch dish cream";

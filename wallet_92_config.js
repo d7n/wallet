@@ -1,1 +1,1 @@
-var mnemonic = "impose asset title stable wrong project essence special energy meadow thing hero";
+var mnemonic = "economy clarify local easy scatter comic another goose bracket grace orange merry";

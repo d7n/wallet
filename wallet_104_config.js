@@ -1,1 +1,1 @@
-var mnemonic = "into funny awake receive magnet impulse combine daughter crew holiday affair marble";
+var mnemonic = "craft fatigue arrange shove mimic symptom already wall pull balance universe arrow";

@@ -1,1 +1,1 @@
-var mnemonic = "normal human over crime ladder wolf fit limb planet syrup assume element";
+var mnemonic = "copper rule tone soccer depend intact print call brush creek spare suggest";

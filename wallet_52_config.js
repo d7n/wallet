@@ -1,1 +1,1 @@
-var mnemonic = "myth oil move account rug theory hunt now know hedgehog reopen draw";
+var mnemonic = "dizzy autumn tuition rubber daring afraid torch ghost afford enable travel degree";

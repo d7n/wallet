@@ -1,1 +1,1 @@
-var mnemonic = "deer great kit flower insane sort oblige erupt canal clean solid laugh";
+var mnemonic = "decrease auction orbit beef relief spirit spoil man doctor leaf industry ostrich";

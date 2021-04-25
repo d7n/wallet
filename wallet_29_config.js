@@ -1,1 +1,1 @@
-var mnemonic = "gold basic sell weekend pipe letter diamond post multiply excuse rail cousin";
+var mnemonic = "armed banner inspire all column surge struggle aunt melody picnic keep gate";

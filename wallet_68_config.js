@@ -1,1 +1,1 @@
-var mnemonic = "peasant distance what believe deposit focus welcome eye year draft panda lawn";
+var mnemonic = "where term buzz helmet swallow traffic toe easily negative payment trouble swap";

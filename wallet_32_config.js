@@ -1,1 +1,1 @@
-var mnemonic = "lab slender square bag course apart raccoon hotel adapt piano unfold actor";
+var mnemonic = "isolate index elegant hour amazing expect riot bundle home legal fabric gloom";

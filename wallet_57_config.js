@@ -1,1 +1,1 @@
-var mnemonic = "sugar clarify time tell ready bread aware cruel shadow strong border color";
+var mnemonic = "tortoise quiz solar opera joy wife share much impulse curve stone follow";

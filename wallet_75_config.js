@@ -1,1 +1,1 @@
-var mnemonic = "timber forward install boat cart between session shallow polar today critic vessel";
+var mnemonic = "talk throw ripple steak verify rate equip amount embody pitch path click";

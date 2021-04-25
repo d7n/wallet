@@ -1,1 +1,1 @@
-var mnemonic = "print ten used ivory slide album identify swear upset point joy carbon";
+var mnemonic = "initial neglect nephew crane scene tumble squirrel history carbon denial equal kangaroo";

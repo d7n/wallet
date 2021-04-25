@@ -1,1 +1,1 @@
-var mnemonic = "sniff fiber century armor dog guide gold scan wing anger reason brush";
+var mnemonic = "inner square nice tool dove first stage february point print card feature";

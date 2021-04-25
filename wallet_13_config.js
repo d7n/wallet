@@ -1,1 +1,1 @@
-var mnemonic = "gauge army news return ritual nose lake early matter galaxy purpose mosquito";
+var mnemonic = "rule green soft lyrics tent together jaguar talk nurse boost drama talk";

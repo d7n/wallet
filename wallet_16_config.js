@@ -1,1 +1,1 @@
-var mnemonic = "project town return brass heart citizen pistol volume jar today abandon razor";
+var mnemonic = "absorb husband boil fat silver develop review license custom attack pitch engage";

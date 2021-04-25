@@ -1,1 +1,1 @@
-var mnemonic = "scheme confirm profit satoshi expand also brush month fabric mad law unable";
+var mnemonic = "ketchup move survey mother team tower inherit soft escape option recipe fit";

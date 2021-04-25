@@ -1,1 +1,1 @@
-var mnemonic = "come country napkin street cluster system volume return album bread lyrics gown";
+var mnemonic = "ugly innocent scissors genuine voice calm love gaze bacon tortoise wheat spread";

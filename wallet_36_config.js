@@ -1,1 +1,1 @@
-var mnemonic = "spring evolve all glow giant cattle learn gun yard bamboo add nurse";
+var mnemonic = "project bunker similar sphere cactus wheel curve almost north crawl opinion host";

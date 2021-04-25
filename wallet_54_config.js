@@ -1,1 +1,1 @@
-var mnemonic = "ramp also spend canyon merry fossil rally riot offer display prepare shell";
+var mnemonic = "dignity business destroy near cave liberty setup mansion normal vacant poem jar";

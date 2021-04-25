@@ -1,1 +1,1 @@
-var mnemonic = "neutral summer leaf off record scatter flush gasp range caution toy quarter";
+var mnemonic = "social seat garlic road lizard north priority panther snake chest omit right";

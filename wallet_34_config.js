@@ -1,1 +1,1 @@
-var mnemonic = "horn marine desk mandate desert romance glue win hammer average subject height";
+var mnemonic = "blur write dial topic edit gaze demise uphold used brisk discover walnut";

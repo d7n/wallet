@@ -1,1 +1,1 @@
-var mnemonic = "forest spot stomach firm people foster board pause primary mass march snake";
+var mnemonic = "rice celery thing october oppose entry brother filter mom moment kite simple";

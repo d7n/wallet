@@ -1,1 +1,1 @@
-var mnemonic = "pipe purchase sauce there coyote pizza bargain man catalog marine arrange begin";
+var mnemonic = "raven half sense guitar lunch coast plug reject quality secret spoon wedding";

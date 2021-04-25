@@ -1,1 +1,1 @@
-var mnemonic = "million amused wine tourist eagle reunion rally dress wine melt reject eye";
+var mnemonic = "dinosaur catch lizard federal eye define blanket alcohol maple syrup army meadow";

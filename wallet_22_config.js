@@ -1,1 +1,1 @@
-var mnemonic = "flock patient stuff life language term bike snow rural hover layer morning";
+var mnemonic = "orphan artwork resource behind butter crawl toddler eagle kit firm describe voyage";

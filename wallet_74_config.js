@@ -1,1 +1,1 @@
-var mnemonic = "enough portion over act laptop solid wood busy ahead summer diary notice";
+var mnemonic = "ready rotate other goose timber flat real blush drive oven index shoulder";

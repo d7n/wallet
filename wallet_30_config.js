@@ -1,1 +1,1 @@
-var mnemonic = "salmon try stadium general eyebrow clip leader chef rail tuna stool fresh";
+var mnemonic = "funny frost vault also entry vibrant kick icon retire enroll enough sting";

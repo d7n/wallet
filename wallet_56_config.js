@@ -1,1 +1,1 @@
-var mnemonic = "setup eagle run miss sure infant library mimic art olympic tide disagree";
+var mnemonic = "music meat they top knife dinner energy snack welcome wolf kite donate";

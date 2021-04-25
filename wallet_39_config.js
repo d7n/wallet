@@ -1,1 +1,1 @@
-var mnemonic = "cradle safe virtual trip flash arrange afraid worth unaware stage unusual circle";
+var mnemonic = "impulse cash live page motor say tonight run youth breeze skirt pipe";

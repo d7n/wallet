@@ -1,1 +1,1 @@
-var mnemonic = "april leg view uncover whip horn vehicle report buzz symbol hurt picture";
+var mnemonic = "wonder taste bronze embody perfect enter onion pull cream symbol danger debate";

@@ -1,1 +1,1 @@
-var mnemonic = "clarify champion ski twist income swamp tenant lonely chicken piano minimum gloom";
+var mnemonic = "innocent minute warrior knee hybrid powder scan category below peace myth link";

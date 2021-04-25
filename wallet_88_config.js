@@ -1,1 +1,1 @@
-var mnemonic = "popular snake clerk skirt shallow market spin analyst dizzy ceiling year merge";
+var mnemonic = "upper rural february will path ozone main finger track pond antenna remind";

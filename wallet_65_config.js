@@ -1,1 +1,1 @@
-var mnemonic = "month juice hair crunch crumble need dynamic slim giggle author vintage harsh";
+var mnemonic = "educate lock own network learn ranch frown duck screen tooth pulp parrot";

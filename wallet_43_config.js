@@ -1,1 +1,1 @@
-var mnemonic = "secret onion delay cram robot outdoor erosion fish stone adjust govern clutch";
+var mnemonic = "put shoot athlete arch dilemma piano side promote chronic saddle retreat cricket";

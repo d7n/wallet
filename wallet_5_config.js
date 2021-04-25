@@ -1,1 +1,1 @@
-var mnemonic = "digital chalk provide receive tiger normal float into boring claim pumpkin concert";
+var mnemonic = "matrix mystery fuel orange neglect safe crazy weasel economy act club combine";

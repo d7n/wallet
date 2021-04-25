@@ -1,1 +1,1 @@
-var mnemonic = "fork tube happy supply beauty clip pulse arrow join enroll strike verb";
+var mnemonic = "security twin year knock bleak copper misery garden spatial column square prosper";

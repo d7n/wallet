@@ -1,1 +1,1 @@
-var mnemonic = "oblige sister clap result delay region tomorrow game olympic draw ready lake";
+var mnemonic = "bulk above witness gorilla custom spell senior eyebrow receive series music hurdle";

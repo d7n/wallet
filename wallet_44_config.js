@@ -1,1 +1,1 @@
-var mnemonic = "nothing essay resemble version gym glad mystery spatial carry file thing mail";
+var mnemonic = "error share attract scan fortune supreme grab panel drop assist steel nerve";

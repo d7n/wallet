@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow want topic diary fork anxiety latin green program insect spy hundred";
+var mnemonic = "model mind moon valve list aerobic cargo donate pepper sand slim actual";

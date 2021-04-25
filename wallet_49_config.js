@@ -1,1 +1,1 @@
-var mnemonic = "sniff arm round receive sleep stairs seven outdoor crowd tumble ready priority";
+var mnemonic = "length jar lift predict oil alone grocery wall guard butter pizza edge";

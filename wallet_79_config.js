@@ -1,1 +1,1 @@
-var mnemonic = "faith stem capital security just arena mimic hotel era zero taxi arrest";
+var mnemonic = "bounce outdoor smile moon pole drive fame own kite notable phone cram";

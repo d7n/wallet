@@ -1,1 +1,1 @@
-var mnemonic = "corn bitter pudding two lounge cabin tackle defense team census latin oxygen";
+var mnemonic = "luggage basket dizzy follow chunk doll unfair hard blouse cannon auction glory";

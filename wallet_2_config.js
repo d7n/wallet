@@ -1,1 +1,1 @@
-var mnemonic = "fire space circle flavor fiber unknown fork rail upgrade next urban myth";
+var mnemonic = "tiger key potato monitor pelican small wink mirror someone plate pyramid letter";

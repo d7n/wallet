@@ -1,1 +1,1 @@
-var mnemonic = "story swamp humor front october fall chase attitude sad edit neutral radio";
+var mnemonic = "middle alone aware clean organ abstract census clump pause rapid point rigid";

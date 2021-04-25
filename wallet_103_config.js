@@ -1,1 +1,1 @@
-var mnemonic = "volume print isolate float pumpkin dice joke gain girl viable clinic denial";
+var mnemonic = "nominee stove blast include two village join awake stone degree response mango";

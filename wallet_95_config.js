@@ -1,1 +1,1 @@
-var mnemonic = "dice option squeeze gesture buffalo manual bird rain fit clog whip crime";
+var mnemonic = "hello rural category sketch defense toy kit paper palm wish senior anger";

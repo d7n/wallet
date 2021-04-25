@@ -1,1 +1,1 @@
-var mnemonic = "dinner journey real chimney dash arrest reduce one hen bargain sister pulse";
+var mnemonic = "teach section scrub vicious swallow shine labor gallery science episode curtain save";

@@ -1,1 +1,1 @@
-var mnemonic = "escape question crop riot pen pill burger hockey side away man raven";
+var mnemonic = "fortune soda author chuckle language clip alpha scorpion salute burst split will";

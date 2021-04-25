@@ -1,1 +1,1 @@
-var mnemonic = "state stem clean trim carbon focus language welcome absorb shove nerve question";
+var mnemonic = "miss poverty capable budget loyal tissue digital few thunder spread swear chalk";

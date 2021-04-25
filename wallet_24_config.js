@@ -1,1 +1,1 @@
-var mnemonic = "predict panther today cat gasp puppy rebuild rack aerobic truth female guard";
+var mnemonic = "wage basket supply almost dry reflect photo slight outside business color guilt";

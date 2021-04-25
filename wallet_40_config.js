@@ -1,1 +1,1 @@
-var mnemonic = "paddle belt fever middle morning extra glance salad leave dynamic deer best";
+var mnemonic = "harvest erase stairs expect gravity install lobster mandate waste push calm tackle";

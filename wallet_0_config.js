@@ -1,1 +1,1 @@
-var mnemonic = "remain farm dwarf industry dinosaur plunge salad genre garbage autumn property open";
+var mnemonic = "effort pitch home seven survey upset reunion always curve card modify caution";

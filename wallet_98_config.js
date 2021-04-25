@@ -1,1 +1,1 @@
-var mnemonic = "labor chest sauce smile dilemma approve erode actor rain medal peace soon";
+var mnemonic = "blame give era cause bunker sketch open onion cabbage midnight awake refuse";

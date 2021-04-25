@@ -1,1 +1,1 @@
-var mnemonic = "cancel bone net question country jealous ghost idea shadow boost orchard brass";
+var mnemonic = "inject term cheese general note dinosaur cricket invite attack expect organ refuse";

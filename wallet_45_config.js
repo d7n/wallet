@@ -1,1 +1,1 @@
-var mnemonic = "elbow real pill mix quantum caution picture rival lamp orbit hurry enlist";
+var mnemonic = "umbrella fine soul muffin network unveil stereo olympic exercise board little rely";

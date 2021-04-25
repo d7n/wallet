@@ -1,1 +1,1 @@
-var mnemonic = "boil card mirror dinner toward price now wear mistake daughter predict law";
+var mnemonic = "piece penalty enforce dolphin winter cave option shiver curious sock pigeon still";

@@ -1,1 +1,1 @@
-var mnemonic = "erosion embark marine hire shrimp grain adapt teach update west elephant plug";
+var mnemonic = "people index gossip indicate engage play army few error visit warm north";

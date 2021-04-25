@@ -1,1 +1,1 @@
-var mnemonic = "glimpse sample ability sad grab carbon judge clerk stem pitch dinosaur beauty";
+var mnemonic = "retire stone apology filter start cheap quiz index boil exotic float program";

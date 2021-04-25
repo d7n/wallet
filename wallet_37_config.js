@@ -1,1 +1,1 @@
-var mnemonic = "above duck blind warfare claim joy coin other avoid mom photo extra";
+var mnemonic = "cherry climb gym country success advice coyote security tumble neck swing fog";

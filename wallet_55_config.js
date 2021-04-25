@@ -1,1 +1,1 @@
-var mnemonic = "rice kit street diet decade maid eagle crop empty peanut napkin limit";
+var mnemonic = "tent aspect ethics print stem jazz rent clinic century spin require bridge";

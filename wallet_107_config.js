@@ -1,1 +1,1 @@
-var mnemonic = "relax around sleep other baby holiday else various hundred license off field";
+var mnemonic = "inch shaft unfold bean remain woman pipe motion stay love convince success";

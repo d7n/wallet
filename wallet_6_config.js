@@ -1,1 +1,1 @@
-var mnemonic = "oak jungle whip roof raw curtain corn virus spatial feel forum powder";
+var mnemonic = "tooth inform unfold phone anxiety vault brief trophy catalog orchard between pumpkin";

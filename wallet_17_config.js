@@ -1,1 +1,1 @@
-var mnemonic = "favorite fashion tag during garment settle flush cherry snap shiver kangaroo sting";
+var mnemonic = "unlock birth another recall mushroom fatigue shadow hole observe floor vibrant act";

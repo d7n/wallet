@@ -1,1 +1,1 @@
-var mnemonic = "pulp error huge slice gauge because audit explain control jewel run live";
+var mnemonic = "relief name curtain visual pretty drum alert maze latin smart leaf number";

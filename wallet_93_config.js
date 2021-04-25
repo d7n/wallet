@@ -1,1 +1,1 @@
-var mnemonic = "eagle height suspect response inquiry already deputy twelve airport allow disorder pull";
+var mnemonic = "bacon inherit keen empower blade base crawl garment nurse expand wood among";

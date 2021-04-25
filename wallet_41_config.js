@@ -1,1 +1,1 @@
-var mnemonic = "since loud shine pave fitness sad sign spare shift guess flock mechanic";
+var mnemonic = "edge fan slim paddle bean season legend amount lottery maple autumn clock";

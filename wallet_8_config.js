@@ -1,1 +1,1 @@
-var mnemonic = "crime grace yard year clump among warfare light grief tenant flush absorb";
+var mnemonic = "scare drift extra aisle acquire tilt image february truly knee behave daughter";

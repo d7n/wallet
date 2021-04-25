@@ -1,1 +1,1 @@
-var mnemonic = "man online toilet flat spoil rough fire mail paper venture prison lawn";
+var mnemonic = "sand equip act today clump rent fatigue bullet genius box stay shell";

@@ -1,1 +1,1 @@
-var mnemonic = "loan kitten limb vocal yellow genre vague artist crawl very six spray";
+var mnemonic = "render evoke tennis stove twice must grid answer minimum word behind high";

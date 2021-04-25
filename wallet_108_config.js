@@ -1,1 +1,1 @@
-var mnemonic = "you tree expand lawn height retreat fortune ancient solid antenna olympic royal";
+var mnemonic = "october follow alien wise shell humble toss doctor swallow assist alert coach";

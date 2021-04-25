@@ -1,1 +1,1 @@
-var mnemonic = "salt reunion crucial choice certain strategy box giant music chaos welcome item";
+var mnemonic = "winter half praise entire oven sausage rival kick earn mixed sleep lift";

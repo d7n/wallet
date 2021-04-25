@@ -1,1 +1,1 @@
-var mnemonic = "subway park cream pact board symbol piano license body chaos embark fitness";
+var mnemonic = "move choice mountain flag kiss purity edge warm much firm snake collect";

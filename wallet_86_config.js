@@ -1,1 +1,1 @@
-var mnemonic = "mention bomb believe fog hip spell skin style very real seat empty";
+var mnemonic = "quantum night twist travel erosion sound easily solid swift alley execute analyst";

@@ -1,1 +1,1 @@
-var mnemonic = "lounge slab bicycle eagle pelican pet town light announce balcony episode return";
+var mnemonic = "sweet shove creek runway tonight chuckle depth chat nurse cloth mix safe";

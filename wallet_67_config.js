@@ -1,1 +1,1 @@
-var mnemonic = "song quiz farm become sick junk piano inside april armor adjust turtle";
+var mnemonic = "wink reward logic egg okay solve cotton inside resource power silk window";

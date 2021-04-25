@@ -1,1 +1,1 @@
-var mnemonic = "foot video hero recipe arrest repair phone fork exhaust follow cool story";
+var mnemonic = "debate second antenna clean canvas split reward cushion adapt roof breeze vault";

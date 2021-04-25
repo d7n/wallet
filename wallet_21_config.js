@@ -1,1 +1,1 @@
-var mnemonic = "rain bring area gesture elephant unusual bonus actual mass dizzy glad welcome";
+var mnemonic = "spend hen grab bus gesture kitchen illness vessel lazy struggle raise logic";

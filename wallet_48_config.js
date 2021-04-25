@@ -1,1 +1,1 @@
-var mnemonic = "help boost gap purse auction unknown refuse believe frame jewel focus interest";
+var mnemonic = "egg toy hill depart vehicle gather audit poem fluid play resemble word";

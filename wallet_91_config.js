@@ -1,1 +1,1 @@
-var mnemonic = "minor boss aim awkward this become piano ball main lake brick leopard";
+var mnemonic = "vehicle trip current desk practice creek chase glow avoid purchase visa maze";

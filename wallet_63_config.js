@@ -1,1 +1,1 @@
-var mnemonic = "sketch recall once bus tilt swarm mixed like canal mango afraid fossil";
+var mnemonic = "into naive museum weasel lake calm embrace voice trouble edge spread increase";

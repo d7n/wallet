@@ -1,1 +1,1 @@
-var mnemonic = "wine pipe pudding estate tribe grunt wine iron choice degree extend noodle";
+var mnemonic = "apple gauge tuition zoo arrange rookie enforce weird below enough sheriff cigar";

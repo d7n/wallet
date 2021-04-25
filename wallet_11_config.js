@@ -1,1 +1,1 @@
-var mnemonic = "lunar mention strike garment deer divide lounge lesson radio annual tone labor";
+var mnemonic = "example language half afraid pudding expect cheese mass boost entire birth oven";

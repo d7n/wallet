@@ -1,1 +1,1 @@
-var mnemonic = "summer village inner vital finish desk rural resist episode energy defy crash";
+var mnemonic = "capable inside series unusual remind person cargo enroll spring long fan claim";

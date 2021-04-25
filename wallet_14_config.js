@@ -1,1 +1,1 @@
-var mnemonic = "permit faculty unit analyst visual swap confirm easily find february water ethics";
+var mnemonic = "satoshi need else harvest exotic cry exotic relax deputy echo prosper obscure";

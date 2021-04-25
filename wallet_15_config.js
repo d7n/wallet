@@ -1,1 +1,1 @@
-var mnemonic = "inhale link audit crush artefact valley nut soldier isolate material sword cinnamon";
+var mnemonic = "churn panther mom ethics lawsuit hour shoot midnight tortoise venture bring stable";

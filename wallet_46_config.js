@@ -1,1 +1,1 @@
-var mnemonic = "brisk country nerve fold jewel furnace junior obvious dance one month pride";
+var mnemonic = "barely color clutch bright type master grocery assault iron cup patch shrimp";

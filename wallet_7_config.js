@@ -1,1 +1,1 @@
-var mnemonic = "man kitten cute mandate correct bid patch system swing file globe middle";
+var mnemonic = "gas athlete west eye rib crash survey dawn sample edge mercy need";
