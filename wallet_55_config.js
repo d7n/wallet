@@ -1,1 +1,1 @@
-var mnemonic = "mango middle atom enemy evidence melody enable blur major exact loan crazy";
+var mnemonic = "crawl sad double figure meat warrior resist shock place train spawn cave";

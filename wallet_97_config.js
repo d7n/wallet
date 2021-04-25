@@ -1,1 +1,1 @@
-var mnemonic = "skull dentist polar diet visit bachelor catch rule soul glue again autumn";
+var mnemonic = "plastic spring joy prepare people display regular weapon reward casual library carbon";

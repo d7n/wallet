@@ -1,1 +1,1 @@
-var mnemonic = "rabbit quality toward work horse rapid bright assume drive grief easily moral";
+var mnemonic = "ribbon submit march circle shaft foster select cliff degree system ugly raccoon";

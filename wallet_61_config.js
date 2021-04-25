@@ -1,1 +1,1 @@
-var mnemonic = "brain waste jewel culture wise insane erode drink topic doll glory elevator";
+var mnemonic = "true before vanish glow iron day shine ocean firm tag remain pride";

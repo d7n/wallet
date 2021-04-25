@@ -1,1 +1,1 @@
-var mnemonic = "rescue average barely shy silent body again audit reason hope lecture dwarf";
+var mnemonic = "myself shove label range enable bounce invite fall shuffle square kind race";

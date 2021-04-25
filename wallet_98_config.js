@@ -1,1 +1,1 @@
-var mnemonic = "during host village clarify desk spray season dumb market hedgehog cross twenty";
+var mnemonic = "spider inch crash core fiber brick drum humble seven habit family squeeze";

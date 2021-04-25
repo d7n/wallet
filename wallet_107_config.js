@@ -1,1 +1,1 @@
-var mnemonic = "pelican slender crisp old cheap brick obvious mutual shaft gesture parrot soldier";
+var mnemonic = "pink economy roof strategy anger raven initial volume manage era fit near";

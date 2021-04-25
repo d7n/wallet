@@ -1,1 +1,1 @@
-var mnemonic = "human never estate harvest skull clean link mass must token panda picnic";
+var mnemonic = "water prevent solid letter rhythm plate later congress grape awesome enemy gym";

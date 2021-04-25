@@ -1,1 +1,1 @@
-var mnemonic = "front soldier amount lizard fury spoil chase toilet plastic lake prison public";
+var mnemonic = "sad scatter tray model flock dune toward universe blast mad alert mystery";

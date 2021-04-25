@@ -1,1 +1,1 @@
-var mnemonic = "intact airport lend theme club budget collect glow tattoo crouch then kite";
+var mnemonic = "victory sure lock scale mango danger page banana cheap client huge allow";

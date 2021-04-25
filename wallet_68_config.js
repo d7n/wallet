@@ -1,1 +1,1 @@
-var mnemonic = "skin earn pilot banana off hip merry suit danger skirt run doll";
+var mnemonic = "final shadow caution system repeat hurt tiger acoustic educate catch mirror umbrella";

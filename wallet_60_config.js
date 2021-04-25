@@ -1,1 +1,1 @@
-var mnemonic = "private half throw sudden device crucial orange desert song over sugar ship";
+var mnemonic = "ancient practice hello actor find build sick asthma outer lion universe salon";

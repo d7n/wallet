@@ -1,1 +1,1 @@
-var mnemonic = "monster diary muffin maze shaft sister present duck urban viable flush arrange";
+var mnemonic = "wealth bid patch pear pledge skate way strike thing man scorpion over";

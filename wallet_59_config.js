@@ -1,1 +1,1 @@
-var mnemonic = "mirror ethics group six frame tragic either bonus spoon neutral absent year";
+var mnemonic = "today drive region giant ocean lab damage convince crisp mixed alien aisle";

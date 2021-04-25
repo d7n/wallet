@@ -1,1 +1,1 @@
-var mnemonic = "lumber venue high october remember mutual talent camp foam outside receive hazard";
+var mnemonic = "critic good treat inch egg match member add sword apple rigid disorder";

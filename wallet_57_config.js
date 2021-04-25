@@ -1,1 +1,1 @@
-var mnemonic = "hammer picture learn stage scissors fade sword you decorate boil hour skill";
+var mnemonic = "taste thrive weather region lottery margin own fork crawl ask auto author";

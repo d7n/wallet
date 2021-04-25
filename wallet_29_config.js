@@ -1,1 +1,1 @@
-var mnemonic = "grid object spice ensure token slush firm one kidney angry old ten";
+var mnemonic = "slide inhale minute retire photo mesh afraid express february rotate depend conduct";

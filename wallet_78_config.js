@@ -1,1 +1,1 @@
-var mnemonic = "erupt evoke all slush subject gallery idle cycle edge lend milk announce";
+var mnemonic = "mushroom execute inform voyage poem blush boat goose palace stumble run west";

@@ -1,1 +1,1 @@
-var mnemonic = "destroy hawk swift obvious fantasy hockey peasant economy scout taxi chest clog";
+var mnemonic = "bronze lawsuit letter burger guilt write special cruise toilet prison stomach language";

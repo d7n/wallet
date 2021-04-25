@@ -1,1 +1,1 @@
-var mnemonic = "special giggle cage roast primary illness turkey evoke end emotion supreme bitter";
+var mnemonic = "eternal tube maple will deputy cheese skirt mystery honey asthma awake tube";

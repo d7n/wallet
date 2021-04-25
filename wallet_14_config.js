@@ -1,1 +1,1 @@
-var mnemonic = "iron buddy rescue gesture scissors advice grow happy boat exit lecture envelope";
+var mnemonic = "cool tomato warfare hurt loop twin van huge badge fan warrior obscure";

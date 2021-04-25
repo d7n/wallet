@@ -1,1 +1,1 @@
-var mnemonic = "dove garlic other grid spring job spike average jazz text upon school";
+var mnemonic = "pilot endless attract atom rubber airport pet cloud wet close copy label";

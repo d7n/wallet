@@ -1,1 +1,1 @@
-var mnemonic = "summer what shed legend direct floor oil vanish pair fossil ripple tide";
+var mnemonic = "base guide biology enhance write guitar place urban clever brick ranch hurry";

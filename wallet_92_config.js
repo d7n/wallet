@@ -1,1 +1,1 @@
-var mnemonic = "garlic shrimp soldier spider regret also sunset category body fragile catch sort";
+var mnemonic = "diesel amazing any novel autumn hundred tent clown feel donkey cat act";

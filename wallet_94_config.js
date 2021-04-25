@@ -1,1 +1,1 @@
-var mnemonic = "combine cry explain access beyond medal wealth evidence wasp midnight reflect marine";
+var mnemonic = "stairs wreck sock math sibling shell ankle turtle claim whale range indoor";

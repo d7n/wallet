@@ -1,1 +1,1 @@
-var mnemonic = "year middle elder jar shove vendor hurry crazy situate smart doll hospital";
+var mnemonic = "bounce oxygen devote apple priority bamboo hybrid style clown job monkey between";

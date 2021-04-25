@@ -1,1 +1,1 @@
-var mnemonic = "elite drop muscle prevent assault olive harbor tomato apart razor join castle";
+var mnemonic = "concert unit cry place canoe balcony pause cube crystal shy confirm insane";

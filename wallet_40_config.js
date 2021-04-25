@@ -1,1 +1,1 @@
-var mnemonic = "begin task nurse regret split wonder humble card erase twice depart media";
+var mnemonic = "voyage victory success crane flock column reflect false rent rural okay innocent";

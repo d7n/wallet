@@ -1,1 +1,1 @@
-var mnemonic = "palace similar woman small coach sight thunder auction theme mistake runway play";
+var mnemonic = "panic into collect health soap usual skill achieve member abstract help during";

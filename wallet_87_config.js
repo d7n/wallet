@@ -1,1 +1,1 @@
-var mnemonic = "merit banana asset hand illegal pilot poem organ clap employ sword copper";
+var mnemonic = "venture label culture one pistol jazz faith door grief retreat brick biology";

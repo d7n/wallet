@@ -1,1 +1,1 @@
-var mnemonic = "okay nurse stereo supreme before olympic buzz fringe judge grief page stool";
+var mnemonic = "tape caution demand spawn flock dinosaur butter gap volcano palace mixture post";

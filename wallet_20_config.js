@@ -1,1 +1,1 @@
-var mnemonic = "state sound carpet sense odor stamp affair vault echo inherit rebuild gather";
+var mnemonic = "certain boy rib dial avoid top oil cage subject agent dirt pause";

@@ -1,1 +1,1 @@
-var mnemonic = "peanut strategy leg simple require enroll pyramid hurry silk critic share embrace";
+var mnemonic = "veteran item famous boring clap conduct cost thought isolate win service shine";

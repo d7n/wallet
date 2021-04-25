@@ -1,1 +1,1 @@
-var mnemonic = "clarify purpose ignore start female luggage child roof wealth bargain coconut hamster";
+var mnemonic = "person tennis pond lift fancy shrug surround alcohol frame noise quote common";

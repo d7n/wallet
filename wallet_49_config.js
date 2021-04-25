@@ -1,1 +1,1 @@
-var mnemonic = "wall shock tobacco left change bounce reveal wish actress solve hockey demise";
+var mnemonic = "final heavy potato glare omit satisfy rely gym vibrant theory rain valve";

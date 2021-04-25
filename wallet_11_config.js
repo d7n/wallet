@@ -1,1 +1,1 @@
-var mnemonic = "shed rent clinic lecture assist primary run spy build cheese evil indoor";
+var mnemonic = "medal mix series list tooth abandon wealth scan such toy mango cement";

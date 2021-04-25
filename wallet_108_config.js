@@ -1,1 +1,1 @@
-var mnemonic = "hawk cake thunder brain nest brisk truth deposit dinner taxi same seven";
+var mnemonic = "sunset verify extend always cement cabin canvas obtain acid flower item happy";

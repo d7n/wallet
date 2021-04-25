@@ -1,1 +1,1 @@
-var mnemonic = "tiny mix staff useful film clap roof great purity mesh renew usual";
+var mnemonic = "brief menu diamond enforce hub mercy scorpion daughter lounge you veteran minor";

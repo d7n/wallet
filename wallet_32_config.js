@@ -1,1 +1,1 @@
-var mnemonic = "bronze bunker report clock setup donkey fat mother tumble more extra wash";
+var mnemonic = "deliver fiscal brown oval jump balcony reflect episode impulse bunker engine marine";

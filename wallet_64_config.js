@@ -1,1 +1,1 @@
-var mnemonic = "blame sketch tip tragic duck wrestle hour unaware hamster timber apart exhaust";
+var mnemonic = "wild glue adapt lawsuit property unfair sauce excuse motor gesture clinic half";

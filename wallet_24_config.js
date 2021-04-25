@@ -1,1 +1,1 @@
-var mnemonic = "claim lottery bundle buyer sudden net update fame shell ceiling gas absorb";
+var mnemonic = "aim fix pull close pretty rotate insane tennis right match model social";

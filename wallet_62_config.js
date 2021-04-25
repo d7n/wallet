@@ -1,1 +1,1 @@
-var mnemonic = "film unusual snack web run iron shiver dilemma draft silly juice social";
+var mnemonic = "mushroom arrive dream inspire coil decorate retire vanish brave beach basket dress";

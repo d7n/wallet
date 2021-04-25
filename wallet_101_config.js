@@ -1,1 +1,1 @@
-var mnemonic = "glare chest sphere motion sorry stay play control beauty about social trade";
+var mnemonic = "smoke digital chair interest dragon voice treat umbrella web grass fame dilemma";

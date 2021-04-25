@@ -1,1 +1,1 @@
-var mnemonic = "grief wage pumpkin taxi employ result write eye marine peace fabric develop";
+var mnemonic = "cannon space long tank stick enact govern video level despair fly festival";

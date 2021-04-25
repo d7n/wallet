@@ -1,1 +1,1 @@
-var mnemonic = "inject tank error elephant chimney awful treat expose initial pear hour name";
+var mnemonic = "reunion market unlock now round canvas agent spatial bike broken protect detect";

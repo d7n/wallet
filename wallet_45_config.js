@@ -1,1 +1,1 @@
-var mnemonic = "general gain obvious ordinary cliff explain ethics side image acoustic demand pistol";
+var mnemonic = "ritual tired client wonder bronze offer depth nothing flat seat case disease";

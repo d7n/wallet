@@ -1,1 +1,1 @@
-var mnemonic = "item taste truck keep cement bamboo reunion behind pigeon friend buzz nasty";
+var mnemonic = "capable deny glance permit project inform crawl spice settle run upgrade furnace";

@@ -1,1 +1,1 @@
-var mnemonic = "excuse skill caution enhance garlic trouble source will cake void drip return";
+var mnemonic = "assume regret walnut crawl shove together nose now hat amount panel salmon";

@@ -1,1 +1,1 @@
-var mnemonic = "domain snow lion physical inquiry add soldier escape keen balance atom unusual";
+var mnemonic = "scrub deputy boss there cargo wheat enact tomato satisfy derive extra regret";

@@ -1,1 +1,1 @@
-var mnemonic = "kid wasp upset unveil logic decade misery faculty cancel shield inquiry next";
+var mnemonic = "attack crisp private choose jaguar garden very undo ladder velvet elephant dragon";

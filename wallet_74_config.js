@@ -1,1 +1,1 @@
-var mnemonic = "square chest corn push park cram riot dentist phrase nominee split betray";
+var mnemonic = "entry gun already legend tennis mandate acoustic child owner tourist educate write";

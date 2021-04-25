@@ -1,1 +1,1 @@
-var mnemonic = "noble yellow tomato useless observe need neck junk panda suspect crouch guard";
+var mnemonic = "spin afford grief suffer buyer balcony fold expire abuse observe hole fashion";

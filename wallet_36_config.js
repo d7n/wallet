@@ -1,1 +1,1 @@
-var mnemonic = "mutual brass flower limit screen axis better dumb gate success denial volcano";
+var mnemonic = "liberty long staff tuition island replace into again escape chaos clinic online";

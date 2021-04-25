@@ -1,1 +1,1 @@
-var mnemonic = "east focus great match coconut hungry address income couch abandon arctic author";
+var mnemonic = "layer betray pave sick stable name solution stool service teach excuse barely";

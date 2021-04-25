@@ -1,1 +1,1 @@
-var mnemonic = "sick discover meadow enable then shiver diagram alcohol relief hair describe slab";
+var mnemonic = "execute venue push version income birth pass pond drink hello lesson diamond";

@@ -1,1 +1,1 @@
-var mnemonic = "network exist flame dynamic curious shoot rain eight hood source flash yellow";
+var mnemonic = "short silver ribbon pumpkin tissue always core cost emotion defy team jaguar";

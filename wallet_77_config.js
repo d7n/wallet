@@ -1,1 +1,1 @@
-var mnemonic = "amateur goddess animal census trash talent salt maze huge mention disagree journey";
+var mnemonic = "fence fiscal service much guard purchase mushroom river mother dentist please man";

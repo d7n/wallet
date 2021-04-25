@@ -1,1 +1,1 @@
-var mnemonic = "category task innocent tiny type click put arrow chest release spread two";
+var mnemonic = "flock problem hip air fame dry brisk maid salad language dust notice";

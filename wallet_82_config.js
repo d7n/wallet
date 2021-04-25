@@ -1,1 +1,1 @@
-var mnemonic = "neither weasel police absorb kit sunset olive apple comfort mercy cover slogan";
+var mnemonic = "social system rack wisdom suffer analyst bargain between guitar envelope diagram sister";

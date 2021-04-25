@@ -1,1 +1,1 @@
-var mnemonic = "edge first bus aspect perfect tortoise proof recipe army slab thought vivid";
+var mnemonic = "finish unaware diagram cloud among soap twice better sword air dove meadow";

@@ -1,1 +1,1 @@
-var mnemonic = "bullet bag monkey hover crime blast taste address daring magnet kitchen meat";
+var mnemonic = "race slide rich gadget wear grape start rack wrestle advice tornado drop";

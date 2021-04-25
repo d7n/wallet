@@ -1,1 +1,1 @@
-var mnemonic = "group enrich lava abuse bachelor utility stomach yard scale book manage provide";
+var mnemonic = "boring idea plate thumb artist silver rude umbrella science bridge shop burst";

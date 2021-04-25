@@ -1,1 +1,1 @@
-var mnemonic = "toast nasty clap start burger panther planet viable fetch gravity glass rare";
+var mnemonic = "where bounce wash indicate calm spend kid arrow hobby reveal absent engine";

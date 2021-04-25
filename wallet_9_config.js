@@ -1,1 +1,1 @@
-var mnemonic = "round island way skate vivid survey cigar champion slush point heavy oak";
+var mnemonic = "frost leopard spy second keep warm deposit index endorse royal stay vintage";

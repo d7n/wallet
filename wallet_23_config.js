@@ -1,1 +1,1 @@
-var mnemonic = "zebra number slice metal rocket limit hip wonder absurd initial length tape";
+var mnemonic = "retire join shrug globe enact endorse affair cave half venture certain library";

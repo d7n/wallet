@@ -1,1 +1,1 @@
-var mnemonic = "forward recipe goose barrel silly reopen ignore run monkey improve acoustic indoor";
+var mnemonic = "hundred refuse inmate royal unfold aerobic acquire level limit roof trouble curve";

@@ -1,1 +1,1 @@
-var mnemonic = "relax inmate bracket beach often echo deliver best light country relief keep";
+var mnemonic = "then weekend risk burst avoid nuclear sister slow dune teach belt swift";

@@ -1,1 +1,1 @@
-var mnemonic = "rate still oven stable wool audit mixture pistol garlic alley olympic penalty";
+var mnemonic = "morning genre unhappy moon ability square green excess corn purse lucky helmet";

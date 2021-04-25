@@ -1,1 +1,1 @@
-var mnemonic = "crunch apart charge onion awesome income decade minor unfair trigger nasty stuff";
+var mnemonic = "when stay myself mosquito middle garlic omit arm squeeze tell color accuse";

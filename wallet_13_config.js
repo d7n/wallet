@@ -1,1 +1,1 @@
-var mnemonic = "other hurry razor shallow staff village hand torch shell sugar spread prison";
+var mnemonic = "accident sorry among abuse upon cabin online pulp cannon bid exit risk";

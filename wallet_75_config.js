@@ -1,1 +1,1 @@
-var mnemonic = "swing calm good tell bonus peanut refuse image oil invest course grow";
+var mnemonic = "shoulder annual lunch absorb total win way joy scout repair bike blue";

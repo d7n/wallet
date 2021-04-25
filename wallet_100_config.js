@@ -1,1 +1,1 @@
-var mnemonic = "admit upper next child beach lift taxi voyage spin gain crucial time";
+var mnemonic = "assist biology number daring fence attitude smoke sword eye body spoil flavor";

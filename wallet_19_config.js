@@ -1,1 +1,1 @@
-var mnemonic = "solid table mad exhaust hungry famous random mom draw world tag moment";
+var mnemonic = "stove raise erase close echo top pelican lawsuit pen universe village approve";

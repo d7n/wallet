@@ -1,1 +1,1 @@
-var mnemonic = "comfort cherry noise mutual diamond finger because walk swim decline calm sound";
+var mnemonic = "force race brush burger village crumble average retreat minor solve gospel venture";

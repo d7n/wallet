@@ -1,1 +1,1 @@
-var mnemonic = "citizen noble curve attack basket laptop custom toilet destroy photo negative report";
+var mnemonic = "tower father smart face short garden issue square minimum large orphan gauge";

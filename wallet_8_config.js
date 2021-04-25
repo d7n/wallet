@@ -1,1 +1,1 @@
-var mnemonic = "pole people moment address turtle series catalog drama lunch slab olive baby";
+var mnemonic = "pool achieve october salad tennis spice adapt joke baby skate sick banner";

@@ -1,1 +1,1 @@
-var mnemonic = "heart cube street blade decorate ticket worth thumb that iron fiber maid";
+var mnemonic = "drink tragic cushion very still hawk bread sponsor oxygen offer address few";

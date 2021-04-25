@@ -1,1 +1,1 @@
-var mnemonic = "mountain tornado swift weapon arm rule rigid scrap fancy morning pool stool";
+var mnemonic = "room catalog twelve night emerge jaguar effort license enemy crazy evolve party";

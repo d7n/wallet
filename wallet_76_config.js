@@ -1,1 +1,1 @@
-var mnemonic = "talk kite prison spatial vehicle cinnamon fiber inspire filter urge obtain indicate";
+var mnemonic = "menu energy alter barrel shy enlist sword adjust roof evil boy resist";

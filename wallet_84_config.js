@@ -1,1 +1,1 @@
-var mnemonic = "slim rotate lawn diagram tilt young soccer turkey giant reunion shoot purpose";
+var mnemonic = "correct flip buddy empty thunder correct thrive alien check awake donate wasp";

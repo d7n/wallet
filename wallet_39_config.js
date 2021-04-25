@@ -1,1 +1,1 @@
-var mnemonic = "garage invite legal exile rely erase prepare police destroy sheriff battle purchase";
+var mnemonic = "decline ginger crack ceiling twist ribbon mercy grant divorce diary motor adult";

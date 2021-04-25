@@ -1,1 +1,1 @@
-var mnemonic = "sphere silent super gaze live this learn lizard pipe farm beef cheap";
+var mnemonic = "illness table explain tribe during profit crack thumb amused guard force loan";

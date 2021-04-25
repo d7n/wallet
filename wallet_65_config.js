@@ -1,1 +1,1 @@
-var mnemonic = "black suspect cat circle penalty adjust candy ostrich until identify coconut broom";
+var mnemonic = "couch follow vapor camp increase image desk clerk robust heart trap media";

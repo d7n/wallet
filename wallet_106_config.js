@@ -1,1 +1,1 @@
-var mnemonic = "pave square surge evoke stone festival invest advance suit relax absent near";
+var mnemonic = "exotic jealous member pledge soda state draw jungle athlete boil example park";

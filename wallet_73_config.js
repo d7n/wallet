@@ -1,1 +1,1 @@
-var mnemonic = "correct scare shrug anger chicken bless action coffee extra excuse axis icon";
+var mnemonic = "subway wash armor element camera frozen name want old fence problem next";

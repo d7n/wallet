@@ -1,1 +1,1 @@
-var mnemonic = "carbon today actual enemy vague tribe innocent wire recall rug history expose";
+var mnemonic = "sustain vault unusual resist nasty tomorrow tribe foil throw fantasy keen window";

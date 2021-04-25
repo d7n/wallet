@@ -1,1 +1,1 @@
-var mnemonic = "basket fly scare civil mesh infant early achieve blind diet eagle bread";
+var mnemonic = "extra purity amazing dance stock craft adult leave decrease torch climb steel";

@@ -1,1 +1,1 @@
-var mnemonic = "fatigue sad stamp custom patient exist front ridge fox dizzy erode evolve";
+var mnemonic = "enemy strike response waste genius original source flower usual ethics method dad";

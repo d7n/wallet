@@ -1,1 +1,1 @@
-var mnemonic = "garage injury curious weekend clinic little float behave grocery top fee farm";
+var mnemonic = "vicious fragile biology exhaust afraid that save join weapon copper prepare invite";

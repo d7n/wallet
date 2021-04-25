@@ -1,1 +1,1 @@
-var mnemonic = "message obey capable dance recall modify plastic ceiling crisp awful thank assist";
+var mnemonic = "talent system trend furnace pledge switch gap lion glimpse tilt believe meat";

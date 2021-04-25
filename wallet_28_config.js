@@ -1,1 +1,1 @@
-var mnemonic = "boil tobacco crew safe wear minor ensure occur awful forward try forward";
+var mnemonic = "answer time army vacant chaos unveil leisure disease bike exhaust setup drop";

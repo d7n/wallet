@@ -1,1 +1,1 @@
-var mnemonic = "woman man prepare west around profit enact gospel pelican history tool agree";
+var mnemonic = "bachelor index casual appear stairs board unusual obscure rate tourist leopard prepare";

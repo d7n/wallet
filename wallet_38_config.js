@@ -1,1 +1,1 @@
-var mnemonic = "comic flash view stable age segment lounge wrist impulse drip glimpse install";
+var mnemonic = "knee roof burger patrol where snack wood focus yellow dish width mutual";

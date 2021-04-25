@@ -1,1 +1,1 @@
-var mnemonic = "crowd useful minimum sibling good safe frown broccoli apology punch party opinion";
+var mnemonic = "page slab essence movie whip curve valve tuition festival custom elder cruel";

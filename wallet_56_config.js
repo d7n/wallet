@@ -1,1 +1,1 @@
-var mnemonic = "tennis call inflict either blouse brother point balance diagram birth before neither";
+var mnemonic = "bacon duty burger among palm stool expand approve idea vacant panel wheel";
