@@ -1,1 +1,1 @@
-var mnemonic = "wrist fire ripple vault dutch flower offer obvious toward daughter believe since";
+var mnemonic = "fossil luxury sheriff laptop warm fit achieve enjoy govern response leg gauge";

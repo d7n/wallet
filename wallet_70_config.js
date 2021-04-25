@@ -1,1 +1,1 @@
-var mnemonic = "mention holiday chimney december economy burst arch ask visual arrest wine decrease";
+var mnemonic = "diesel liberty burden argue milk speed wife convince neck century two laugh";

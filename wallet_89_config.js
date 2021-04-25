@@ -1,1 +1,1 @@
-var mnemonic = "address cloth cloth pencil liquid motor comic work true gospel permit year";
+var mnemonic = "strategy auction slush slush before candy mirror coconut april among alarm aunt";

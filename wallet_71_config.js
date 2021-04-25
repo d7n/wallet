@@ -1,1 +1,1 @@
-var mnemonic = "volcano clean skin zebra law hockey bind window dish depend between combine";
+var mnemonic = "timber story cotton sail seminar hill hawk private aware elbow gloom conduct";

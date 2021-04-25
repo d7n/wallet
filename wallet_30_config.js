@@ -1,1 +1,1 @@
-var mnemonic = "fuel future toward party master spin seek oblige broom imitate dance lyrics";
+var mnemonic = "zebra else vital clutch impact tongue cinnamon hour impact possible pig fitness";

@@ -1,1 +1,1 @@
-var mnemonic = "main tray victory aware shine cement spring churn tent myth bachelor oval";
+var mnemonic = "mosquito crack pattern brick maze scene blur laptop sponsor describe tray actual";

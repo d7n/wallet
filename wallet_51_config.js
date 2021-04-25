@@ -1,1 +1,1 @@
-var mnemonic = "air child theory ribbon regular term project cupboard parent saddle pigeon cat";
+var mnemonic = "timber pupil horn attract sugar donkey van census raccoon shallow there resemble";

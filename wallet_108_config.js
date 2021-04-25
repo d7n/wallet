@@ -1,1 +1,1 @@
-var mnemonic = "struggle left undo dose crash risk same indoor top friend burst census";
+var mnemonic = "member spirit erosion spend prepare worry meat fix practice tooth south whale";

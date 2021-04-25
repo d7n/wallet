@@ -1,1 +1,1 @@
-var mnemonic = "hybrid milk ignore enroll vibrant dream rifle heart feature add provide library";
+var mnemonic = "daring lunch output live egg toast follow remind win tissue airport drum";

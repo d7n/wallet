@@ -1,1 +1,1 @@
-var mnemonic = "bring wagon audit total someone share alarm olympic girl slim good beach";
+var mnemonic = "talk panel fault cage conduct cool slab initial innocent parade strategy vapor";

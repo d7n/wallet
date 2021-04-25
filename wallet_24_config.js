@@ -1,1 +1,1 @@
-var mnemonic = "fade ribbon neglect cattle sing two prepare gain road harsh tone hamster";
+var mnemonic = "shuffle option chalk soda defense live marine track copper patch since panic";

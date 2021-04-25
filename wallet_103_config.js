@@ -1,1 +1,1 @@
-var mnemonic = "twelve destroy ring skirt equal rally admit spend couch uniform clerk inquiry";
+var mnemonic = "taste health broom hedgehog clump hidden someone daughter upgrade clever brave name";

@@ -1,1 +1,1 @@
-var mnemonic = "uncle desert cargo awesome scan daughter enter wild weapon destroy outside forget";
+var mnemonic = "option gentle ladder pave genre hawk decrease cement thing fish advice grass";

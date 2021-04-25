@@ -1,1 +1,1 @@
-var mnemonic = "actor cruise winner injury kind update trigger pistol home ketchup strike enforce";
+var mnemonic = "spirit elephant there account wine abstract pig century regular industry summer frequent";

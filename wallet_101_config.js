@@ -1,1 +1,1 @@
-var mnemonic = "drastic drink coil expire palm method random tone more absent legal pool";
+var mnemonic = "twin stamp edge envelope dumb give lazy private venue drum plug primary";

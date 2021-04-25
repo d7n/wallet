@@ -1,1 +1,1 @@
-var mnemonic = "visa gather before burst airport episode action rate chest real oxygen country";
+var mnemonic = "control stuff host utility seed hope topic tube silent scorpion drum satisfy";

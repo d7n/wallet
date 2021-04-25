@@ -1,1 +1,1 @@
-var mnemonic = "steel property blade glow film advice trial help very rare job gesture";
+var mnemonic = "net beef weekend path search resemble student forward before exchange smoke winter";

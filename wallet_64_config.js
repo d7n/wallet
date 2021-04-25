@@ -1,1 +1,1 @@
-var mnemonic = "photo depart weird armed swim nose rhythm lock dirt bird race enable";
+var mnemonic = "staff critic crazy bless there include carbon pioneer forest between empower exact";

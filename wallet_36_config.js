@@ -1,1 +1,1 @@
-var mnemonic = "kitchen blood stumble few farm bomb slim obtain seven frozen light mercy";
+var mnemonic = "bullet defense try evoke essence actual utility syrup subject toddler tuna diamond";

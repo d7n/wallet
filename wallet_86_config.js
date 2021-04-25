@@ -1,1 +1,1 @@
-var mnemonic = "section school negative cherry foster uncle friend buddy permit film tomorrow urban";
+var mnemonic = "kingdom slice oxygen garage bind mobile exit valley pave dilemma enact miss";

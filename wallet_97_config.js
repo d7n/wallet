@@ -1,1 +1,1 @@
-var mnemonic = "party weekend jeans unfold phrase quantum inherit way dice victory mirror increase";
+var mnemonic = "next asthma rude useful bench topple exist loud finish perfect lab bag";

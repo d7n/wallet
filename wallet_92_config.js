@@ -1,1 +1,1 @@
-var mnemonic = "antenna analyst never robot shuffle wave office mammal clerk accuse mixed blue";
+var mnemonic = "absent basket property where pull major kingdom when machine crawl wealth section";

@@ -1,1 +1,1 @@
-var mnemonic = "harvest depart mushroom grocery luxury dinner engine dish cook admit night average";
+var mnemonic = "discover taste saddle explain dust guilt snake resist secret urge animal level";

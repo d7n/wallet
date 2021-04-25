@@ -1,1 +1,1 @@
-var mnemonic = "clump hamster hundred kiss space knee knee rich now stone portion stem";
+var mnemonic = "gap traffic convince north garbage honey rate seat napkin enemy diet genuine";

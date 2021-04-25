@@ -1,1 +1,1 @@
-var mnemonic = "belt margin city sustain glow mixture deposit loop drum door unveil riot";
+var mnemonic = "announce ship grit upper name food rich leader alpha minor reunion unknown";

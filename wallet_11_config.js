@@ -1,1 +1,1 @@
-var mnemonic = "report bicycle defy sheriff gentle problem drill sausage cement chief hope joke";
+var mnemonic = "blush usual fog supply spy execute paddle drip cinnamon sock spot pool";

@@ -1,1 +1,1 @@
-var mnemonic = "key similar cheese test detail pause outer auction alert much path sample";
+var mnemonic = "pen profit velvet resource amused radar neck private notice device rough steel";

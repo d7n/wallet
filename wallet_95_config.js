@@ -1,1 +1,1 @@
-var mnemonic = "funny essence glad garment rapid bitter behind business zone category pottery door";
+var mnemonic = "present orient slam story about dragon shrug pair lawsuit female gentle apart";

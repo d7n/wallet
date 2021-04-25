@@ -1,1 +1,1 @@
-var mnemonic = "riot mountain knock snap either desert post catalog syrup seven lyrics clock";
+var mnemonic = "feature wild truth tennis awake cruel stadium sword knock car plate castle";

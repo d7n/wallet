@@ -1,1 +1,1 @@
-var mnemonic = "blouse video slice grocery myself brief position girl spin host clinic manual";
+var mnemonic = "hole address wait donate fade word chair section join march indoor actress";

@@ -1,1 +1,1 @@
-var mnemonic = "apology expire like leave pudding robot nest cram bachelor aspect orchard atom";
+var mnemonic = "border moment empty funny draw retire program income melt prison satoshi castle";

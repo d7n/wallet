@@ -1,1 +1,1 @@
-var mnemonic = "dwarf moral kitten select right urban debris ensure daughter lottery whip noodle";
+var mnemonic = "toe business sure spend cargo venue nasty win alpha marine index game";

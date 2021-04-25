@@ -1,1 +1,1 @@
-var mnemonic = "input dinner net rally above hidden diary mule heart ahead orbit wide";
+var mnemonic = "tuna discover bean bottom swamp pencil dentist artefact hotel damage movie gather";

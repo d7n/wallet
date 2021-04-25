@@ -1,1 +1,1 @@
-var mnemonic = "lonely answer basic chest diesel learn ball wink actress spread enemy traffic";
+var mnemonic = "vault prison dune latin traffic fashion offer genuine design hint loud garage";

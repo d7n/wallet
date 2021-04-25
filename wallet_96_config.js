@@ -1,1 +1,1 @@
-var mnemonic = "kiwi spray diary margin carbon orphan jewel benefit fuel solution flush tiger";
+var mnemonic = "ill witness suggest budget wet fancy push educate moral spend escape cancel";

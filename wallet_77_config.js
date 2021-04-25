@@ -1,1 +1,1 @@
-var mnemonic = "barrel evidence muffin food audit shock siren radio aisle suffer soft response";
+var mnemonic = "photo mobile sleep ranch fold truth thrive female horse vast output solve";

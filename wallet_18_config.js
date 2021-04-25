@@ -1,1 +1,1 @@
-var mnemonic = "trophy embark nut illegal absent someone case exotic buyer unveil bleak decade";
+var mnemonic = "another lake believe list avoid shrug trick blood cream conduct nice expose";

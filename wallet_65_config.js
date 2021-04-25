@@ -1,1 +1,1 @@
-var mnemonic = "pattern tackle city language gather perfect skill mix seven honey decline improve";
+var mnemonic = "hollow leopard hole ask welcome inquiry scheme swallow destroy lamp tenant brother";

@@ -1,1 +1,1 @@
-var mnemonic = "pole extra suggest shift captain road arm evolve draft warfare enemy actual";
+var mnemonic = "drill car detect decline glimpse time shop pistol impose need hungry hint";

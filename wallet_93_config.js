@@ -1,1 +1,1 @@
-var mnemonic = "coin field okay catalog black section twist head dice predict team valid";
+var mnemonic = "shift enable replace chapter position then diesel guard athlete denial happy patrol";

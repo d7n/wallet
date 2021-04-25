@@ -1,1 +1,1 @@
-var mnemonic = "wonder relax gun correct off easy tower earn ghost melt develop powder";
+var mnemonic = "stone stay story begin reveal love enjoy city humor exhaust damage below";

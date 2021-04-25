@@ -1,1 +1,1 @@
-var mnemonic = "able brief lawn detail half marine barely stove era endless income interest";
+var mnemonic = "fix sun wrestle concert advice gown end alert swamp summer pave camera";

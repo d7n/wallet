@@ -1,1 +1,1 @@
-var mnemonic = "beef inner egg object leaf pulse uncle film tortoise ancient note brown";
+var mnemonic = "wrap ugly caution hurdle mixed world actual jewel volume winter love area";

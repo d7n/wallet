@@ -1,1 +1,1 @@
-var mnemonic = "jazz guard tide together rib child return title cute argue script swallow";
+var mnemonic = "lesson fantasy cram easy harsh alone pass permit identify decade shy noodle";

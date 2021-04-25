@@ -1,1 +1,1 @@
-var mnemonic = "trim concert indicate cream couple elder blossom page split offer gospel tilt";
+var mnemonic = "very high project turtle intact field aim sample resource virus object violin";

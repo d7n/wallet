@@ -1,1 +1,1 @@
-var mnemonic = "fantasy gesture praise away pride capable remind bike smoke afford nose rough";
+var mnemonic = "asthma west glance invite balcony silk visa head venue girl tip exist";

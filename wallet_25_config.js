@@ -1,1 +1,1 @@
-var mnemonic = "people mail cliff daring crew sheriff peace rural glow history impulse tip";
+var mnemonic = "paddle embark avocado position artefact lift lunch report satisfy brother tribe heart";

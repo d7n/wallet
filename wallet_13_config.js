@@ -1,1 +1,1 @@
-var mnemonic = "mercy program craft elephant run ripple galaxy wheat hungry lady cement old";
+var mnemonic = "power vivid recall pitch else vast palm approve endorse differ youth exit";

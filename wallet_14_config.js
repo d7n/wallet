@@ -1,1 +1,1 @@
-var mnemonic = "okay chase soup slot agent mansion fork approve quit kiss finish crash";
+var mnemonic = "dwarf scissors pact journey toward cushion vessel caution junior despair broom knock";

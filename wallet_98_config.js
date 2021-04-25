@@ -1,1 +1,1 @@
-var mnemonic = "more chimney breeze present sweet learn peanut knee joy paddle sad weapon";
+var mnemonic = "regret detect file hub hybrid any sentence oak process unique stock essence";

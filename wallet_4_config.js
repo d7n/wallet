@@ -1,1 +1,1 @@
-var mnemonic = "cabbage guide kick best trouble welcome replace collect range damage click excuse";
+var mnemonic = "below three bundle layer enable media theory glad garbage evil turn front";

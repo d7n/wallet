@@ -1,1 +1,1 @@
-var mnemonic = "retreat nose rigid cabin young fuel long reward glow kitchen wood cricket";
+var mnemonic = "chase test worry neutral detail toward bid tube law decorate silver original";

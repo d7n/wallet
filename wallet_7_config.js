@@ -1,1 +1,1 @@
-var mnemonic = "sword news scissors luxury depart section sorry job nephew shoulder victory disagree";
+var mnemonic = "never lunar coin double ranch lawsuit bus elevator hip veteran permit code";

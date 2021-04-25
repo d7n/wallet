@@ -1,1 +1,1 @@
-var mnemonic = "primary tourist father click settle scare must canvas force senior load glimpse";
+var mnemonic = "tongue giant unable nerve bachelor oil defy bench nuclear emotion wait math";

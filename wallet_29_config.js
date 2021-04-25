@@ -1,1 +1,1 @@
-var mnemonic = "genre aim front snack enable toward milk comic hello excite ribbon leisure";
+var mnemonic = "mimic traffic swing achieve steel cable lizard profit practice enact morning melt";

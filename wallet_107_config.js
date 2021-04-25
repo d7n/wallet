@@ -1,1 +1,1 @@
-var mnemonic = "huge brown security slide obtain filter cement life treat void thrive mother";
+var mnemonic = "height carbon decorate adjust man blur foam heavy little cliff despair comic";

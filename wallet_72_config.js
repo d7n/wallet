@@ -1,1 +1,1 @@
-var mnemonic = "decade enrich feed column nice theme roof pigeon recipe swap price kitten";
+var mnemonic = "wagon airport ten child dream shop mother symbol sail mystery rate exotic";

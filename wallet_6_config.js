@@ -1,1 +1,1 @@
-var mnemonic = "primary strategy clap unable drastic old term earn brave october bus high";
+var mnemonic = "rude skin extra miracle oval cat theory foam mushroom tobacco require plunge";

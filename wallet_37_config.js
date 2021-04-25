@@ -1,1 +1,1 @@
-var mnemonic = "company fly chef verb awkward excite again stamp track hint always tip";
+var mnemonic = "sting peanut comic exist assault surprise trip soccer chronic action kangaroo gown";

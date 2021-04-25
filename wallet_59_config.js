@@ -1,1 +1,1 @@
-var mnemonic = "quiz wasp inmate ritual fall lawsuit parent conduct certain benefit hollow brown";
+var mnemonic = "gate next novel pipe post meadow reason credit aunt initial fluid jar";

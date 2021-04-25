@@ -1,1 +1,1 @@
-var mnemonic = "diesel harbor already expose observe female avocado tank smile air decide diet";
+var mnemonic = "fever stomach inhale harbor soccer deliver credit leader fantasy merge input merge";

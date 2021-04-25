@@ -1,1 +1,1 @@
-var mnemonic = "upgrade defy bacon private spoon train light submit truly inner lounge marriage";
+var mnemonic = "letter repair replace job bubble other evolve dice acid flush season hospital";

@@ -1,1 +1,1 @@
-var mnemonic = "palm endless illness viable gaze design write clutch hire chimney nominee planet";
+var mnemonic = "hill post return remember salon demise similar interest excite mountain lottery slow";

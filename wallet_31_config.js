@@ -1,1 +1,1 @@
-var mnemonic = "neglect mother slice orbit miss end love script two follow process goat";
+var mnemonic = "release need melt alone purity advice install test ticket miracle panther inhale";

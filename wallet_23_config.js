@@ -1,1 +1,1 @@
-var mnemonic = "cotton lumber skull thrive hen cloth feed add memory machine skill believe";
+var mnemonic = "rural bicycle twelve siren grape immense giggle tunnel shoulder base quantum urge";

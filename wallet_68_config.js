@@ -1,1 +1,1 @@
-var mnemonic = "abandon radar happy rude fall cause trust gown drastic exist marble expose";
+var mnemonic = "lamp favorite exit crawl spend time month area lunar hunt rocket erupt";

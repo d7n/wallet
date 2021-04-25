@@ -1,1 +1,1 @@
-var mnemonic = "scale tuna icon naive science neither mix skull pattern habit carry fuel";
+var mnemonic = "daring enemy rude boost educate weapon crush oil elevator rubber follow grace";

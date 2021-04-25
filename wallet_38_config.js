@@ -1,1 +1,1 @@
-var mnemonic = "frame globe garlic bike myth know sure mercy picture alpha display win";
+var mnemonic = "error evil jacket custom achieve maple coil clay nothing treat icon boil";

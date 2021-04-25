@@ -1,1 +1,1 @@
-var mnemonic = "author cherry market total bird round kite mom disease rose control critic";
+var mnemonic = "clog amateur used lemon slogan slam second cream uphold coral mechanic page";

@@ -1,1 +1,1 @@
-var mnemonic = "dirt kitchen plate tribe glad husband alley mention mix blind month broken";
+var mnemonic = "dinosaur major clump cheese heavy ahead spike bonus citizen winter panda post";

@@ -1,1 +1,1 @@
-var mnemonic = "fold sun boil strong zoo judge fan enable liquid transfer cotton because";
+var mnemonic = "reunion panther nerve seven globe grit genre island tomorrow gauge bench planet";

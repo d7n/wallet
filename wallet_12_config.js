@@ -1,1 +1,1 @@
-var mnemonic = "coconut early tilt together belt garlic scissors pony pull path artwork tip";
+var mnemonic = "sibling want illness file label load indoor group tennis proud hazard cattle";

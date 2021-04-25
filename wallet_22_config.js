@@ -1,1 +1,1 @@
-var mnemonic = "album cannon relax pilot exchange chest together float rural hour later charge";
+var mnemonic = "earth cycle thrive glory comfort melody vessel brother choice clay elegant deal";

@@ -1,1 +1,1 @@
-var mnemonic = "much tackle cinnamon alter upset giant income just jelly illness estate female";
+var mnemonic = "payment giant balance once visa scrub wrong kite outdoor frame ship finish";

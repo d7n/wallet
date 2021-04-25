@@ -1,1 +1,1 @@
-var mnemonic = "kite tourist stone wrong debate boss music phrase youth hand share upper";
+var mnemonic = "release oyster rotate basket snack infant end song hold mix sample bonus";

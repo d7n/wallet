@@ -1,1 +1,1 @@
-var mnemonic = "pass drip inmate poet spatial emotion blossom ankle lemon girl cushion piano";
+var mnemonic = "route hunt voyage rice proof first column chaos borrow uncle crawl cluster";

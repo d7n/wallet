@@ -1,1 +1,1 @@
-var mnemonic = "lab awake damage slogan clerk coin bright shoe hen blue casual turn";
+var mnemonic = "region vessel call desk box help before cargo protect steak knife dolphin";

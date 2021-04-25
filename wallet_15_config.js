@@ -1,1 +1,1 @@
-var mnemonic = "burst metal churn congress airport detect stock earn tower road situate thing";
+var mnemonic = "upon oyster laugh share giant stove prepare where endorse jaguar praise monkey";

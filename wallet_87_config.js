@@ -1,1 +1,1 @@
-var mnemonic = "rescue husband case pencil capital empty merit school ability system invest click";
+var mnemonic = "piano decade vital kid electric hundred load ignore argue lake gospel oven";

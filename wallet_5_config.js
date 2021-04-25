@@ -1,1 +1,1 @@
-var mnemonic = "boring hello label report panel large basket elegant six connect party motion";
+var mnemonic = "nerve tribe exotic able reject cause industry wink odor pen mouse engine";

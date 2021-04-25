@@ -1,1 +1,1 @@
-var mnemonic = "climb raw cable legal calm neither describe render month bargain yard mutual";
+var mnemonic = "orbit mandate alien enact trust grunt nothing outdoor silent inhale love canvas";

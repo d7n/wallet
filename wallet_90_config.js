@@ -1,1 +1,1 @@
-var mnemonic = "express stay weather collect draw trip immune income lake voice lawn motion";
+var mnemonic = "turn moral wine require leisure resist decrease seminar isolate math violin smooth";

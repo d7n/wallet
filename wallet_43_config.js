@@ -1,1 +1,1 @@
-var mnemonic = "math toilet youth wheel witness cry supply typical gain shell slice again";
+var mnemonic = "venture demand resist discover web can fiber gaze figure vote abuse twice";

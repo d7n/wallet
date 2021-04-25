@@ -1,1 +1,1 @@
-var mnemonic = "warrior orange sentence also island crush saddle bind memory cave primary crush";
+var mnemonic = "prefer sight rural light catalog main stomach across ability moral vendor baby";

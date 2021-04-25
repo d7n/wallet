@@ -1,1 +1,1 @@
-var mnemonic = "left chest club saddle umbrella can cool furnace exercise gesture neutral try";
+var mnemonic = "pyramid equal work sibling speak kite object lonely capital color merry inquiry";

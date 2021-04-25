@@ -1,1 +1,1 @@
-var mnemonic = "skull reform quality inner check airport illness wonder eye elevator puppy multiply";
+var mnemonic = "else sausage now spend offer oyster come fetch club magnet lunar release";
