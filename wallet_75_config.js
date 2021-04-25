@@ -1,1 +1,1 @@
-var mnemonic = "coffee open display retreat myth wool cry volume fragile social empower unique";
+var mnemonic = "typical rough beyond exchange hazard drastic castle immense couch elephant fun pool";

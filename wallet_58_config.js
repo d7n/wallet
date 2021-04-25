@@ -1,1 +1,1 @@
-var mnemonic = "daring search capable height amazing eager spin ankle range cause culture when";
+var mnemonic = "view safe icon destroy brave cave give again include page typical rule";

@@ -1,1 +1,1 @@
-var mnemonic = "blind twist coffee helmet jazz caught census into short slim fire wheel";
+var mnemonic = "urban slight skate absent sorry able drift decade caution skill fence empower";

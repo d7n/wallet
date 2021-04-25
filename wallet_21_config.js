@@ -1,1 +1,1 @@
-var mnemonic = "gain hint depend obtain whip someone inhale include orchard ill gun real";
+var mnemonic = "spread smart diet borrow season winter fire friend gas skill embrace nose";

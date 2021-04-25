@@ -1,1 +1,1 @@
-var mnemonic = "payment ranch buffalo tilt mother hood work celery bus frog shoot source";
+var mnemonic = "case lobster cabin bar zone under century fish vital midnight must action";

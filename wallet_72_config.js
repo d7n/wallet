@@ -1,1 +1,1 @@
-var mnemonic = "ask visual just cool dynamic afraid like sleep web emerge cup someone";
+var mnemonic = "tornado sweet few snake hat horse polar web matter uncle pattern nasty";

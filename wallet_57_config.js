@@ -1,1 +1,1 @@
-var mnemonic = "small antenna hole jelly protect wedding camera erosion weapon jewel avocado exhibit";
+var mnemonic = "model waste side pitch security panther universe green enact refuse blood lemon";

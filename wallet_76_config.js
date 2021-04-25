@@ -1,1 +1,1 @@
-var mnemonic = "own economy enhance dinosaur oblige allow trim stick web material reward heart";
+var mnemonic = "escape cloth frost dove uncle width cover inspire lunar also cinnamon width";

@@ -1,1 +1,1 @@
-var mnemonic = "insect cool suspect mushroom destroy girl business room ridge novel loop machine";
+var mnemonic = "hood spare ankle phone model tunnel mystery broken scheme welcome file mouse";

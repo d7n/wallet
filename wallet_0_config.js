@@ -1,1 +1,1 @@
-var mnemonic = "recycle family brother zoo fire truck obey inspire coast pool hat fantasy";
+var mnemonic = "luggage claw desk stock close rigid frown tuna fuel sad buzz okay";

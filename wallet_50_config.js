@@ -1,1 +1,1 @@
-var mnemonic = "fresh carpet material laundry good history strategy boss treat call federal guard";
+var mnemonic = "issue strong memory juice loud stumble sport shove tip allow normal alpha";

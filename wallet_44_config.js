@@ -1,1 +1,1 @@
-var mnemonic = "divorce tornado venue actor canyon online episode frequent oval crumble end cherry";
+var mnemonic = "inner act bronze climb knife letter cool hint parade aerobic retreat device";

@@ -1,1 +1,1 @@
-var mnemonic = "camp lawsuit crew ocean pilot coin sorry deposit remain guard gift differ";
+var mnemonic = "female clarify accident foster bubble snack primary unveil smart castle vessel number";

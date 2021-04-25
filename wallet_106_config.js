@@ -1,1 +1,1 @@
-var mnemonic = "sketch panic orchard curious theory flee rabbit ecology nuclear during solve robust";
+var mnemonic = "elbow long gesture add solve truth caution flip draw seek hold annual";

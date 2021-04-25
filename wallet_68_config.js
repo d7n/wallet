@@ -1,1 +1,1 @@
-var mnemonic = "history yard basket demand glow knife gallery curtain civil finger large whip";
+var mnemonic = "bridge square piano better initial now ability deal avocado model blame attack";

@@ -1,1 +1,1 @@
-var mnemonic = "unable praise comic wrong tooth main lake empower language sister gold cigar";
+var mnemonic = "gospel orbit tenant sibling anxiety bottom mystery able bind hockey bullet foam";

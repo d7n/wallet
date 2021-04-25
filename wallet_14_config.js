@@ -1,1 +1,1 @@
-var mnemonic = "fragile lucky taxi item eyebrow holiday cement junior myself sport grace ask";
+var mnemonic = "planet arrive anger strike fine excite dice useless banner security vibrant jewel";

@@ -1,1 +1,1 @@
-var mnemonic = "gasp riot lab deputy math odor chunk pumpkin borrow canal affair arch";
+var mnemonic = "limb seven predict potato lion hawk envelope must axis measure tortoise green";

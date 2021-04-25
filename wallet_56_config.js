@@ -1,1 +1,1 @@
-var mnemonic = "joke rather skull barely virus tube cycle exit corn rotate demise soccer";
+var mnemonic = "wet armor able pilot dutch fiscal grace palm author galaxy equip bless";

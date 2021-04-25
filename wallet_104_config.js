@@ -1,1 +1,1 @@
-var mnemonic = "odor metal cinnamon switch mammal input carbon top cherry snap vendor mother";
+var mnemonic = "winner expand grant wait reason barely polar sibling patient acid between sting";

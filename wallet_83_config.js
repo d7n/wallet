@@ -1,1 +1,1 @@
-var mnemonic = "repeat flag gauge wood name gasp owner loyal consider melt floor hover";
+var mnemonic = "brave hill push absurd tobacco popular review oval side butter two mail";

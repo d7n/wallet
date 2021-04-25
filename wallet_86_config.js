@@ -1,1 +1,1 @@
-var mnemonic = "grief cattle version castle accident syrup suit learn exchange diary scare style";
+var mnemonic = "twenty sleep cage discover payment stairs normal lesson dentist bring tattoo enough";

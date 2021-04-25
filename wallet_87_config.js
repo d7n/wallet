@@ -1,1 +1,1 @@
-var mnemonic = "claw upgrade sound office tennis quiz capital share soon muffin kingdom rich";
+var mnemonic = "bird accuse fresh believe claim staff board tennis usual bamboo announce text";

@@ -1,1 +1,1 @@
-var mnemonic = "success address traffic test ivory eager sign tide tribe summer easily project";
+var mnemonic = "want wolf olive put burden stick venture dawn pluck any civil solid";

@@ -1,1 +1,1 @@
-var mnemonic = "tone lumber chief great argue current entire leader recycle avoid can current";
+var mnemonic = "glory resource settle clown mandate angry swear express shaft fatal human garage";

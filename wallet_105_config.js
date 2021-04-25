@@ -1,1 +1,1 @@
-var mnemonic = "like mail pass salute affair produce fossil across frame crisp forget flat";
+var mnemonic = "bundle domain repair tomorrow despair ugly wonder chicken antique choice public uphold";

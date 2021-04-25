@@ -1,1 +1,1 @@
-var mnemonic = "remember zone divorce stock dignity know raven venture crucial love debris enable";
+var mnemonic = "salt hood matrix oppose cream raise group original quantum control mercy jaguar";

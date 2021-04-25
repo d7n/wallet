@@ -1,1 +1,1 @@
-var mnemonic = "renew panda acid roast cream scout check click loan rigid leader search";
+var mnemonic = "cable begin hood chronic climb spirit imitate crime goddess illness left earn";

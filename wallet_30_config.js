@@ -1,1 +1,1 @@
-var mnemonic = "enrich damp idea craft grace spread cool merge predict copper creek spray";
+var mnemonic = "this dizzy crumble drastic purchase awesome repair year mechanic clay kind outdoor";

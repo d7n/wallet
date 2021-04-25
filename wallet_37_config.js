@@ -1,1 +1,1 @@
-var mnemonic = "arrest media funny quick hover tumble gate more throw drink tell dance";
+var mnemonic = "slow peanut elder script orange use tattoo inspire ring license grape camp";

@@ -1,1 +1,1 @@
-var mnemonic = "seed dismiss camera base lecture cradle submit visual trophy night arrow unaware";
+var mnemonic = "infant affair apart math custom radar gorilla cluster unlock unfold sign width";

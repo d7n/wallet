@@ -1,1 +1,1 @@
-var mnemonic = "post loyal wool giggle divide sure bean island flip robot bean question";
+var mnemonic = "attack need timber night rhythm option give divorce crucial mystery fancy huge";

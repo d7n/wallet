@@ -1,1 +1,1 @@
-var mnemonic = "van frequent nature demise happy gold soccer drink fuel puppy alley ship";
+var mnemonic = "region soft oxygen mean immune race draft student voice bread combine click";

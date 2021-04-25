@@ -1,1 +1,1 @@
-var mnemonic = "spend code blur expose design sunset marine pepper fossil depth inject vote";
+var mnemonic = "pistol organ help cube actress scorpion hello raccoon boring afford matter bachelor";

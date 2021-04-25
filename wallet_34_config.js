@@ -1,1 +1,1 @@
-var mnemonic = "enemy pottery remain chronic merge cattle casual drift nasty cricket crew direct";
+var mnemonic = "parent survey immense entry clown gasp slide cattle journey wrestle weasel pear";

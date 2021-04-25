@@ -1,1 +1,1 @@
-var mnemonic = "sort cart fresh uncover forget lemon pretty limit speak must remind dry";
+var mnemonic = "resemble ketchup level rebuild find hello state lecture weasel vacant ring multiply";

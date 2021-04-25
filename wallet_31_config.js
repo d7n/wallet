@@ -1,1 +1,1 @@
-var mnemonic = "grab tooth ancient okay husband wagon festival error mouse crush nuclear matter";
+var mnemonic = "appear firm mandate engage sport buyer fatigue easily slender enjoy beach sister";

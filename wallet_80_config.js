@@ -1,1 +1,1 @@
-var mnemonic = "illegal viable boat pink future knock loud below recipe swallow mention pave";
+var mnemonic = "trick below farm sense grief alarm spell cigar expect zebra digital cream";

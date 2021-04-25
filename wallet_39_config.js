@@ -1,1 +1,1 @@
-var mnemonic = "lend away era foster cement hockey output panda elephant cook crouch fly";
+var mnemonic = "item burden humble fatal gun damage purse have roast reduce glance tongue";

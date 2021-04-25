@@ -1,1 +1,1 @@
-var mnemonic = "mammal used crucial toast man raw tomorrow axis pigeon stool rally buyer";
+var mnemonic = "beyond into fan build expose aim best excite window enough tumble enough";

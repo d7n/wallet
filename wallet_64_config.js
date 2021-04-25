@@ -1,1 +1,1 @@
-var mnemonic = "attack road festival inspire surprise symbol spread lecture whale amused object news";
+var mnemonic = "ready obtain north polar impact east embrace stool fluid possible silly rug";

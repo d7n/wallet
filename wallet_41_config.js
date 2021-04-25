@@ -1,1 +1,1 @@
-var mnemonic = "blade pitch quality skin tornado surprise toddler misery victory honey manual whip";
+var mnemonic = "sight cube ecology swamp lobster myself rug sugar ethics chef pencil file";

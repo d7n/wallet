@@ -1,1 +1,1 @@
-var mnemonic = "atom robust clump give guard story river excess concert orange about venture";
+var mnemonic = "suspect suit divide maple suspect used come head silent thumb loan stuff";

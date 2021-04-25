@@ -1,1 +1,1 @@
-var mnemonic = "country wolf enact harbor blouse grid wear valve pencil parrot scorpion frog";
+var mnemonic = "town kitchen dream seat sick argue same goose mountain car fun citizen";

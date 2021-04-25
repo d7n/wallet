@@ -1,1 +1,1 @@
-var mnemonic = "juice act collect hungry sauce exhaust hover various spell diesel method art";
+var mnemonic = "coconut sword monitor wise visit sweet buddy purpose fiction run mobile payment";

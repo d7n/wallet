@@ -1,1 +1,1 @@
-var mnemonic = "deny water scrap result resource alien jealous judge bleak acoustic aim twelve";
+var mnemonic = "inflict mass task way mystery ticket basket admit initial island clarify find";

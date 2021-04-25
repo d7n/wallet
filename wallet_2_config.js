@@ -1,1 +1,1 @@
-var mnemonic = "bubble vapor slogan stand water city camera defy dizzy electric elephant bind";
+var mnemonic = "language demise practice digital enable lumber royal peace culture maple height heavy";

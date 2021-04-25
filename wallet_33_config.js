@@ -1,1 +1,1 @@
-var mnemonic = "social load runway hybrid siege cloud awkward media alley salmon husband style";
+var mnemonic = "album cinnamon tube volume front obey hen stone appear myself fox man";

@@ -1,1 +1,1 @@
-var mnemonic = "brown assume mimic tourist purity concert castle soccer bid mechanic inside grit";
+var mnemonic = "cable dirt already case shell brick kingdom fragile shoot bachelor absent tape";

@@ -1,1 +1,1 @@
-var mnemonic = "teach subway marble ketchup nominee shine manual across rebel you erosion travel";
+var mnemonic = "clog segment blast swear stay walnut side surface radio accuse dish damage";

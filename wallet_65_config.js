@@ -1,1 +1,1 @@
-var mnemonic = "blood board until cart return dinner capital bright soda tribe valid lizard";
+var mnemonic = "journey lion expire machine ramp wear interest liar lava then current depart";

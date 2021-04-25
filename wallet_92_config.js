@@ -1,1 +1,1 @@
-var mnemonic = "piano average know uncover jaguar steak because garment antique voyage poem angry";
+var mnemonic = "forest shine worry add grace law ridge prosper female dilemma camera night";

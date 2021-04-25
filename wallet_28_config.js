@@ -1,1 +1,1 @@
-var mnemonic = "heart enemy critic buyer pear vacuum dry cave response morning flock home";
+var mnemonic = "since olympic clip trend clinic have major cover genre fabric rare orphan";

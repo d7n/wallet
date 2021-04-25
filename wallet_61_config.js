@@ -1,1 +1,1 @@
-var mnemonic = "goat abuse engage hand style audit kitchen rule reason pact ahead settle";
+var mnemonic = "army punch grain tourist simple eager toddler relief believe tuition inside dumb";

@@ -1,1 +1,1 @@
-var mnemonic = "purpose grit tortoise dignity fun march prison day early similar pool tiny";
+var mnemonic = "prosper nasty wall erupt brown brisk sweet hobby detect quick walk plastic";

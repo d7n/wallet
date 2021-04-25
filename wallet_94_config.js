@@ -1,1 +1,1 @@
-var mnemonic = "zebra author member ring clump salad method scout dinosaur drum fiscal bag";
+var mnemonic = "strategy maximum beach vehicle cost crystal clinic eight mango diagram duck thunder";

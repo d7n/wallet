@@ -1,1 +1,1 @@
-var mnemonic = "cause hazard situate horror draw narrow village december guide label reveal cliff";
+var mnemonic = "actor quiz bacon sting weapon prepare surge planet figure goose very discover";

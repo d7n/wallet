@@ -1,1 +1,1 @@
-var mnemonic = "once peasant ice marine comic escape curious blanket fish buffalo away company";
+var mnemonic = "web purse badge orient proof start foil favorite amazing student share chase";

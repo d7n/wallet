@@ -1,1 +1,1 @@
-var mnemonic = "bag loud today admit about update syrup salmon clown gym lyrics total";
+var mnemonic = "steel smart rescue merit balcony main slush slight shallow laundry photo crater";

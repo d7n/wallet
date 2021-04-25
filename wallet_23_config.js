@@ -1,1 +1,1 @@
-var mnemonic = "tattoo slight glide creek car transfer maple veteran stumble infant eagle gossip";
+var mnemonic = "ivory rent bean avocado broom own market town magic huge clay shuffle";

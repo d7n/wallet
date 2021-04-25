@@ -1,1 +1,1 @@
-var mnemonic = "embark imitate chapter image female chat unfair venture prosper nation little sad";
+var mnemonic = "scorpion end cake second chuckle clip garment sugar mobile funny weasel final";

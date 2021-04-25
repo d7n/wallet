@@ -1,1 +1,1 @@
-var mnemonic = "purse image pledge impulse pole slender divide drive unit debate crack cabin";
+var mnemonic = "aunt reflect quote market detail captain course airport spoon muffin faith minute";

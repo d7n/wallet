@@ -1,1 +1,1 @@
-var mnemonic = "release fitness enable jewel ivory also cotton draw barely three primary embody";
+var mnemonic = "huge again find school thrive robot bleak arctic praise egg morning frame";

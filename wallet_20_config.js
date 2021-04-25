@@ -1,1 +1,1 @@
-var mnemonic = "steak brisk egg again either potato organ enhance embrace jazz fiction inject";
+var mnemonic = "envelope mass gown rival detect evil cry stomach candy hard marble shiver";

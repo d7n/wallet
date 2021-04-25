@@ -1,1 +1,1 @@
-var mnemonic = "above project document heart easily ball buzz upon still giant surprise garlic";
+var mnemonic = "differ salute warm chase dress video half mask loud swing energy soon";

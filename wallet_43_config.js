@@ -1,1 +1,1 @@
-var mnemonic = "crew energy true correct beef silly smooth print else market palm limb";
+var mnemonic = "awake pilot entire join visit panda stone ski recall erosion inspire prosper";

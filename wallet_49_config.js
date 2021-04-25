@@ -1,1 +1,1 @@
-var mnemonic = "scene chalk loop ketchup very drum source pizza session piano shoot cable";
+var mnemonic = "wisdom swamp ghost panda stairs alter use roast year middle title tragic";

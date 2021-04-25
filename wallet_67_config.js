@@ -1,1 +1,1 @@
-var mnemonic = "evil worth escape inmate enter runway next wash patient deal warrior limit";
+var mnemonic = "ecology man pilot found kit snow chronic moment prison junior dumb rare";

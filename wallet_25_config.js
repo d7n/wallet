@@ -1,1 +1,1 @@
-var mnemonic = "child way episode success math castle exist payment inflict retreat entry invest";
+var mnemonic = "actress clock crumble move stove wrist bronze violin stadium gun peasant true";

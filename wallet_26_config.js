@@ -1,1 +1,1 @@
-var mnemonic = "explain battle lock peasant bottom amount basic frost tower margin eyebrow clerk";
+var mnemonic = "cloud face silly nerve coffee chunk awkward trash eternal benefit hire exercise";

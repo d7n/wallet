@@ -1,1 +1,1 @@
-var mnemonic = "health wreck car you danger umbrella party weekend capable skill hold sponsor";
+var mnemonic = "suspect acid oval advice nose joke decade predict gadget remind shy rent";

@@ -1,1 +1,1 @@
-var mnemonic = "expose together reflect employ village struggle response antenna odor bamboo destroy average";
+var mnemonic = "blind record laugh entire decrease little brass click title fan october alcohol";

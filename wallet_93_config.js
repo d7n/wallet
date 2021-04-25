@@ -1,1 +1,1 @@
-var mnemonic = "machine diet twelve layer garden usual milk second rifle focus believe mystery";
+var mnemonic = "clip drastic supply frog slot quarter silk shoe main vivid mouse behave";

@@ -1,1 +1,1 @@
-var mnemonic = "liar crumble fiction nice broccoli quantum list bronze rough tell fold vanish";
+var mnemonic = "parade walk grace muscle slot universe welcome picnic crazy unaware isolate boss";

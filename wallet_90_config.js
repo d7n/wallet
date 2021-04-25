@@ -1,1 +1,1 @@
-var mnemonic = "kit measure pill job razor enjoy music multiply bomb scatter west disorder";
+var mnemonic = "blame hedgehog alert very fluid verb useful ecology middle august mosquito minimum";

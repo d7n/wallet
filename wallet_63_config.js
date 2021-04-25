@@ -1,1 +1,1 @@
-var mnemonic = "improve direct kid dose whip lottery broom tomato vacant retreat spin random";
+var mnemonic = "twelve hand almost east expand pumpkin trouble vacant awake unique ranch tone";

@@ -1,1 +1,1 @@
-var mnemonic = "bracket birth decade solar decline erode cushion joy coyote exhibit all ride";
+var mnemonic = "link treat extra under hip weapon kid citizen math catalog hollow coin";

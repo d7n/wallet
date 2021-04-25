@@ -1,1 +1,1 @@
-var mnemonic = "soldier notice quick noise taste spring wheel cabin power weasel elephant swap";
+var mnemonic = "dice empower cricket aspect build tent gentle equip punch erode bike radio";

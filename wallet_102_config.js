@@ -1,1 +1,1 @@
-var mnemonic = "quote artefact doll budget remain inherit explain spice expire dance width system";
+var mnemonic = "olympic tragic case delay smooth wrap athlete fury arrive shiver metal clip";

@@ -1,1 +1,1 @@
-var mnemonic = "marine first resource rain kid there lawn giant salmon guitar broccoli sample";
+var mnemonic = "solve process sausage escape real base machine pink false nothing flee sphere";

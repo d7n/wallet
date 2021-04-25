@@ -1,1 +1,1 @@
-var mnemonic = "robust prize salmon action drift yard fitness unfair train bracket subway transfer";
+var mnemonic = "exotic select social equip game hospital beauty timber enforce outside collect pulp";

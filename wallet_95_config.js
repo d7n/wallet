@@ -1,1 +1,1 @@
-var mnemonic = "room hobby tomato spirit mimic regular state custom stadium mandate disease raccoon";
+var mnemonic = "company mom globe shoe material riot student rule quit sentence mobile silver";

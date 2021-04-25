@@ -1,1 +1,1 @@
-var mnemonic = "armor cage frown february vast world eye bracket forget such onion spread";
+var mnemonic = "grape able carbon odor apology swamp amount gas giggle sustain struggle various";

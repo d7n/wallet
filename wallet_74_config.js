@@ -1,1 +1,1 @@
-var mnemonic = "ivory firm raise paddle orchard horse blouse gorilla plastic shine panda anxiety";
+var mnemonic = "wet walnut frown lunar grow mouse panther assault film garage shield rhythm";

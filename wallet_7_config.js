@@ -1,1 +1,1 @@
-var mnemonic = "improve detail track network frog mosquito dragon group change achieve logic wolf";
+var mnemonic = "grunt sunset tortoise pigeon syrup lava verify turtle silly brave topple chalk";

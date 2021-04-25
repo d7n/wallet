@@ -1,1 +1,1 @@
-var mnemonic = "buyer culture weird elder crouch jealous taxi page three enemy image room";
+var mnemonic = "office art dose forward borrow twin street valve need tennis inner young";

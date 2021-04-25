@@ -1,1 +1,1 @@
-var mnemonic = "undo term sign tooth arch august impact catch morning cram alien danger";
+var mnemonic = "sting romance kind bracket main luxury grape gas test budget slogan depart";

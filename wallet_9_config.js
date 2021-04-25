@@ -1,1 +1,1 @@
-var mnemonic = "drift celery trouble marine brave narrow rare police perfect cable quantum immense";
+var mnemonic = "young across toast ivory soda swap sentence unhappy verify ensure cargo memory";

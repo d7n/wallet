@@ -1,1 +1,1 @@
-var mnemonic = "dentist consider caught city real ticket woman disease suit venue slim disagree";
+var mnemonic = "meadow boost east work dutch faint they young brave creek tribe cradle";

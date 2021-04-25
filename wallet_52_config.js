@@ -1,1 +1,1 @@
-var mnemonic = "bind reform cream message debate drastic year bargain erode oak shove shaft";
+var mnemonic = "burger action imitate ancient exchange trouble discover gentle student people initial prosper";
