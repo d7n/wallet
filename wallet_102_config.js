@@ -1,1 +1,1 @@
-var mnemonic = "jaguar grit gallery vapor charge convince erupt junior tragic autumn vast bench";
+var mnemonic = "minute liar escape essay obey assist rely flee stamp smoke essence inmate";

@@ -1,1 +1,1 @@
-var mnemonic = "farm wrist sentence arctic exotic pause alone torch balcony breeze reopen region";
+var mnemonic = "train unfair tag pear stool goose donor used tortoise miracle oxygen satoshi";

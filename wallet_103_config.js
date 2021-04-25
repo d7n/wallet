@@ -1,1 +1,1 @@
-var mnemonic = "spare manual chest reform brother dial bracket bottom increase motion donate useless";
+var mnemonic = "video shine hole fatal copy wage country labor chimney vague stomach tomato";

@@ -1,1 +1,1 @@
-var mnemonic = "easy theme youth brick circle cake galaxy receive around middle urge approve";
+var mnemonic = "move retreat struggle open path suit naive feed educate cradle oxygen interest";

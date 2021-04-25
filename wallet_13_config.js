@@ -1,1 +1,1 @@
-var mnemonic = "item sea pupil assume surround venture same wait bind essay upset limb";
+var mnemonic = "focus output cotton cave coffee actress parent twist uphold laugh rescue bleak";

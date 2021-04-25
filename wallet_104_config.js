@@ -1,1 +1,1 @@
-var mnemonic = "flee duty fix express mention jump ketchup club poet off unveil father";
+var mnemonic = "over output alert trip future broom much more close lazy ball fee";

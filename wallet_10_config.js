@@ -1,1 +1,1 @@
-var mnemonic = "unaware twin coin voyage prepare explain medal decide example middle orchard diamond";
+var mnemonic = "more toe whip omit nice game ready ensure print butter decorate summer";

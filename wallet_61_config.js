@@ -1,1 +1,1 @@
-var mnemonic = "hobby fashion seven any soft maple fiscal pulse napkin gadget segment page";
+var mnemonic = "develop scatter jeans planet hat winter essence series chef focus genius grass";

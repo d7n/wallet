@@ -1,1 +1,1 @@
-var mnemonic = "wealth typical tribe adjust chest siege dragon impact judge rent consider catalog";
+var mnemonic = "boat spike twin service mother orbit elephant future source insect crop belt";

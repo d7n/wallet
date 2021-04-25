@@ -1,1 +1,1 @@
-var mnemonic = "find addict diet invest sugar abstract inherit wife march skill slight loop";
+var mnemonic = "bonus luggage grace much thing taste strategy kid entire youth captain pass";

@@ -1,1 +1,1 @@
-var mnemonic = "multiply logic brisk account gas easily above liquid response useful uncle capable";
+var mnemonic = "spider pole acid assist knife want cart this rotate own grid shoe";

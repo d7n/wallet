@@ -1,1 +1,1 @@
-var mnemonic = "debris laptop system error sniff upon guitar conduct supreme abuse clown lottery";
+var mnemonic = "library atom fluid museum science armed winner style term finger erupt glow";

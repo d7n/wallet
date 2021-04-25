@@ -1,1 +1,1 @@
-var mnemonic = "east hover place reason sell lyrics exist round aerobic bubble reason peasant";
+var mnemonic = "ocean bounce impact century disagree draft tattoo secret way else exotic cloth";

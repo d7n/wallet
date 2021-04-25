@@ -1,1 +1,1 @@
-var mnemonic = "number brain gesture concert screen drop badge world type giraffe please fossil";
+var mnemonic = "faint paper dream crew skirt grocery rough bounce solid sugar vapor flash";

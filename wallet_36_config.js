@@ -1,1 +1,1 @@
-var mnemonic = "six radar salute drastic cage gold acid obscure nut clown remain vault";
+var mnemonic = "sample cycle farm usage remind cousin ride enact eager blanket erase another";

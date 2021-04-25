@@ -1,1 +1,1 @@
-var mnemonic = "woman nation wife foster ostrich pledge rice limit bulk domain uphold vanish";
+var mnemonic = "daughter caution menu aim shrug adult screen roast bus bitter flavor identify";

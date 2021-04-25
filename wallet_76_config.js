@@ -1,1 +1,1 @@
-var mnemonic = "flee ticket chat crucial nerve also wood stuff boy license audit rebuild";
+var mnemonic = "increase rival farm reunion laugh aerobic image solid category fire borrow destroy";

@@ -1,1 +1,1 @@
-var mnemonic = "ribbon curtain lab code someone clean lady quick rabbit flame square night";
+var mnemonic = "devote diary write elite melody intact muffin will embrace abandon apology weekend";

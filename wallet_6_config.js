@@ -1,1 +1,1 @@
-var mnemonic = "large curtain slender ivory banana satisfy beyond census patient next crew resource";
+var mnemonic = "useless twelve bracket please twist spider visa panda usage stem infant effort";

@@ -1,1 +1,1 @@
-var mnemonic = "tourist observe edge sing hobby jungle chicken nut income crater curve topic";
+var mnemonic = "shoulder organ guide ill test stuff elegant appear audit edge arm theory";

@@ -1,1 +1,1 @@
-var mnemonic = "flight equip culture width economy spring scout chair woman icon fatal blossom";
+var mnemonic = "mother tennis ribbon dad author limit wave noise chalk position enlist dentist";

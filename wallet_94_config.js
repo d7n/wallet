@@ -1,1 +1,1 @@
-var mnemonic = "polar all jelly hip burger close hospital pulp citizen blame dirt uphold";
+var mnemonic = "fancy amount okay page window cement lady rich cost ethics poem bottom";

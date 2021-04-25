@@ -1,1 +1,1 @@
-var mnemonic = "baby news swift cat lock pool element hundred search parrot sister educate";
+var mnemonic = "immune shell cost glass horn call wagon liar plate eye screen pill";

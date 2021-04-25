@@ -1,1 +1,1 @@
-var mnemonic = "idle brown kiss vicious fence ribbon gaze decline high hybrid often source";
+var mnemonic = "turn blast bounce virtual demise seek measure great robust bacon palm suspect";

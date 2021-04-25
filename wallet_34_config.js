@@ -1,1 +1,1 @@
-var mnemonic = "stairs tone cry else setup next leaf dune machine tip travel soft";
+var mnemonic = "horn guide category wild wool begin ketchup rebel bone execute mango risk";

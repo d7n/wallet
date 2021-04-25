@@ -1,1 +1,1 @@
-var mnemonic = "iron broken bleak embark keen token minor rubber blur sustain coil book";
+var mnemonic = "awkward field popular kitten axis leopard engine engine car mosquito regular outdoor";

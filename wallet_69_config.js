@@ -1,1 +1,1 @@
-var mnemonic = "consider runway garden slow noise jacket load lemon above brown awesome mistake";
+var mnemonic = "attack swallow two fit antique face verify leader gloom analyst leave jar";

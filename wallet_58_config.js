@@ -1,1 +1,1 @@
-var mnemonic = "interest grace tobacco horse work rose rice saddle scrub online acid mask";
+var mnemonic = "antique pole inflict awesome lawsuit acoustic rug next doctor huge add slush";

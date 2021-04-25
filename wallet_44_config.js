@@ -1,1 +1,1 @@
-var mnemonic = "warrior cave entire swamp fame motion current fame arrive shoot scatter beef";
+var mnemonic = "eight able radar ball wink lift donate steel endorse call pledge estate";

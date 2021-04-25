@@ -1,1 +1,1 @@
-var mnemonic = "girl quality rapid check elite thing small tunnel choice fan prevent voice";
+var mnemonic = "frequent awesome eternal mammal nuclear remain stamp goat snap segment lunch exchange";

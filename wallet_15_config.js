@@ -1,1 +1,1 @@
-var mnemonic = "carry fat fall suggest motion wrestle short sentence limit obtain slam permit";
+var mnemonic = "advice borrow left report risk clarify guitar mad art veteran ramp crunch";

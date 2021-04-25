@@ -1,1 +1,1 @@
-var mnemonic = "eye belt depend aware wagon obvious say nuclear swing couple below horror";
+var mnemonic = "rare twenty strike egg future service fruit wonder struggle enforce wedding music";

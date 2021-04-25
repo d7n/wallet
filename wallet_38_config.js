@@ -1,1 +1,1 @@
-var mnemonic = "fluid warm pencil bachelor develop vote escape original unaware educate acoustic cousin";
+var mnemonic = "upset shoot gasp judge fine teach crash climb order index twin pencil";

@@ -1,1 +1,1 @@
-var mnemonic = "solar give picture patch update raccoon glue uphold husband wild valley cinnamon";
+var mnemonic = "ranch cherry eternal that powder pudding economy fiction rigid border stay rescue";

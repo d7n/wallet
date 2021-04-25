@@ -1,1 +1,1 @@
-var mnemonic = "shrimp aunt flag nose unknown ceiling upset detect task infant vital afraid";
+var mnemonic = "wise obey junk fog lab fun violin small cruel bachelor derive impose";

@@ -1,1 +1,1 @@
-var mnemonic = "album supply there foster amateur cliff pulse hat word vacant require behind";
+var mnemonic = "stamp tomorrow cinnamon vivid loop april castle hen tomorrow pottery myth minute";

@@ -1,1 +1,1 @@
-var mnemonic = "fiber congress economy state gravity soda end cinnamon know melt neutral topic";
+var mnemonic = "enroll bless era idle market nothing cloud lamp next success lawsuit hood";

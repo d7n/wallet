@@ -1,1 +1,1 @@
-var mnemonic = "spot predict become toast chef empty deer process torch title antique drastic";
+var mnemonic = "trip clay century category case filter mobile whale vibrant quote very crane";

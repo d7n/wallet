@@ -1,1 +1,1 @@
-var mnemonic = "notice mutual security exercise squeeze rival exhaust cross imitate brand pipe scrap";
+var mnemonic = "afford budget entire dose expose fork resemble conduct crouch rotate spice blossom";

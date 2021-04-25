@@ -1,1 +1,1 @@
-var mnemonic = "admit wide eager sentence blue margin ankle crunch million spatial debate apart";
+var mnemonic = "meat usual act cousin bicycle toward try gate west draw tomato mountain";

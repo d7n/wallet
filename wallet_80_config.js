@@ -1,1 +1,1 @@
-var mnemonic = "divide excite smile return nose maid slide choose vapor spend trim make";
+var mnemonic = "renew detail pluck action tribe know lucky joy hurdle chapter expect glue";

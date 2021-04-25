@@ -1,1 +1,1 @@
-var mnemonic = "divert curve model bar spring coach frozen security coast nose rally kite";
+var mnemonic = "venture release strong bring ecology into juice join summer awesome near soap";

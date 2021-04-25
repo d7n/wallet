@@ -1,1 +1,1 @@
-var mnemonic = "pupil illegal pizza road hip clock skill illness about share twin globe";
+var mnemonic = "monitor season menu fan below vast olive world current unfair okay fault";

@@ -1,1 +1,1 @@
-var mnemonic = "museum steak crawl cover perfect brave polar reform crisp reduce boil arch";
+var mnemonic = "ocean nice attitude virus evil cotton cherry funny swing move step dutch";

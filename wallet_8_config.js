@@ -1,1 +1,1 @@
-var mnemonic = "symbol basic olympic frost hotel orbit real salt anxiety old drill deputy";
+var mnemonic = "clay confirm endless mountain light congress cage book picture member tank level";

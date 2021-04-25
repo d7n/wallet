@@ -1,1 +1,1 @@
-var mnemonic = "inside audit blanket place shine barely grunt satoshi organ chest level scorpion";
+var mnemonic = "angle spread menu outdoor pencil south man bike calm december beach reflect";

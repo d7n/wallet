@@ -1,1 +1,1 @@
-var mnemonic = "program mistake nose large thrive wreck answer awesome glass thrive west green";
+var mnemonic = "illegal hamster benefit number climb awkward banner tragic divide crater outer gown";

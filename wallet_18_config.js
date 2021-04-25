@@ -1,1 +1,1 @@
-var mnemonic = "music onion advice used motor spoon fog reveal view hybrid system laundry";
+var mnemonic = "property upper empower tape audit prepare above decorate hover country laptop arch";

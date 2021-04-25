@@ -1,1 +1,1 @@
-var mnemonic = "rice school patient bus garage dentist resource fossil pill web solve pitch";
+var mnemonic = "worry verb salute artist mean gentle grit grab pledge addict either shoulder";

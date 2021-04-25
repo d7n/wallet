@@ -1,1 +1,1 @@
-var mnemonic = "strong entry position expose pumpkin latin render various advice alcohol dance toilet";
+var mnemonic = "spend elephant royal happy paddle shoulder abuse eye agent focus unknown tissue";

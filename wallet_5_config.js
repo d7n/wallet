@@ -1,1 +1,1 @@
-var mnemonic = "opinion timber six affair betray security essay mushroom potato anxiety recycle month";
+var mnemonic = "gaze pledge fatal float aware friend skin hospital wet laugh torch panel";

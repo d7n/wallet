@@ -1,1 +1,1 @@
-var mnemonic = "ritual super reduce keen bunker inquiry blood act into fortune hand inform";
+var mnemonic = "wrong shaft cotton rebuild yellow rent shop convince pool unfair session under";

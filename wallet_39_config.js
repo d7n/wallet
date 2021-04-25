@@ -1,1 +1,1 @@
-var mnemonic = "juice repair equal light reunion joy trophy orbit fiction broom maid road";
+var mnemonic = "write cook upon vessel about rough juice long monster add whip grow";

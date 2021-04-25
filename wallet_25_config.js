@@ -1,1 +1,1 @@
-var mnemonic = "primary attend neck expect fly fitness summer idea lab inmate afraid client";
+var mnemonic = "ski hub logic include immune fresh practice matter treat gate coin crop";

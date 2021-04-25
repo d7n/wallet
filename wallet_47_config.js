@@ -1,1 +1,1 @@
-var mnemonic = "flash execute design hurry festival scout task hold sure oak clay honey";
+var mnemonic = "bounce puppy economy mixture purse agree adapt trap sample daughter renew list";

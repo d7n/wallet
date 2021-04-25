@@ -1,1 +1,1 @@
-var mnemonic = "deal pluck now monitor toward picnic tooth figure helmet fix kiwi book";
+var mnemonic = "sleep robot cloth gadget humble diary waste burden mechanic pluck panther nerve";

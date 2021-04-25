@@ -1,1 +1,1 @@
-var mnemonic = "client into record length online faint father valve buzz pair cycle object";
+var mnemonic = "never dentist jungle control journey galaxy erode drip seat cluster warfare rookie";

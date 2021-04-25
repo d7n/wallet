@@ -1,1 +1,1 @@
-var mnemonic = "asset defense group mail retreat maple enrich foam chest impact divert verify";
+var mnemonic = "prosper busy believe orient another motor spread left this there unfold inject";

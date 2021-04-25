@@ -1,1 +1,1 @@
-var mnemonic = "lawn mutual over sword frost harbor dirt grief aware region agree priority";
+var mnemonic = "melt digital horse casino ketchup initial front skin bone result palace travel";

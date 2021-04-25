@@ -1,1 +1,1 @@
-var mnemonic = "try web innocent blade sauce square rubber universe win scout snap jelly";
+var mnemonic = "cactus quality usage unknown soup six acquire spread universe harsh empower bacon";

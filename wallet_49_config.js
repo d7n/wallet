@@ -1,1 +1,1 @@
-var mnemonic = "edit blame bridge club infant pink law lady pig oval nominee auto";
+var mnemonic = "collect bachelor moon sweet clean task hub melody interest toss wage grass";

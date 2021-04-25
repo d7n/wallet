@@ -1,1 +1,1 @@
-var mnemonic = "hidden lion urge tattoo until december sail solid eight tongue cinnamon popular";
+var mnemonic = "luggage similar remove hello side shaft deny green paper news crater tattoo";

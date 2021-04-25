@@ -1,1 +1,1 @@
-var mnemonic = "thank chuckle garden cinnamon same foster industry final journey assault tobacco glue";
+var mnemonic = "flat indicate message trap clarify urge harvest scorpion engage recipe tape cabbage";

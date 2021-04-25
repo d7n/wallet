@@ -1,1 +1,1 @@
-var mnemonic = "spike foster net general imitate damage remain awkward giant power engage orange";
+var mnemonic = "charge light stay sibling unique ladder fit glare win total maze essence";

@@ -1,1 +1,1 @@
-var mnemonic = "cream toy bitter debate lunar plastic lend sing local note hire wet";
+var mnemonic = "clean gadget juice orphan inform elbow panda horn shy quiz adult learn";

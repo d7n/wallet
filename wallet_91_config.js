@@ -1,1 +1,1 @@
-var mnemonic = "extra vehicle mountain glory motor multiply boat grape depth thank situate reform";
+var mnemonic = "still scissors leisure crawl yard better purchase chaos spring action suit helmet";

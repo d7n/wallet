@@ -1,1 +1,1 @@
-var mnemonic = "denial never tennis cinnamon vessel excess badge correct ahead canvas chicken ritual";
+var mnemonic = "inch uniform wise cave tourist repeat buffalo puzzle route sport twenty forward";

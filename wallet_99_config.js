@@ -1,1 +1,1 @@
-var mnemonic = "thumb salon swap main bright winner sunset clinic friend grief butter evil";
+var mnemonic = "cart raw alpha escape jealous return door goose spare match job skirt";

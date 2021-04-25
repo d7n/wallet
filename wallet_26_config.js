@@ -1,1 +1,1 @@
-var mnemonic = "blanket convince labor north shiver prize van leaf same vacant present make";
+var mnemonic = "asset drama deputy column creek labor category anger ability sunny truck bulk";

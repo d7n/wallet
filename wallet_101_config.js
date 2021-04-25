@@ -1,1 +1,1 @@
-var mnemonic = "off kangaroo library spice success crime dust make ginger much wrestle simple";
+var mnemonic = "wall neither rare scare grain resource priority purity garment giggle omit list";

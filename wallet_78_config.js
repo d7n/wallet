@@ -1,1 +1,1 @@
-var mnemonic = "deputy wave fiscal never bid assist outside palm safe elder flat salmon";
+var mnemonic = "bicycle hello bus metal tattoo piano because clog cancel quality give novel";

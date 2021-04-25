@@ -1,1 +1,1 @@
-var mnemonic = "estate soft meat humble this excite science output cake female model width";
+var mnemonic = "fossil suggest coyote spider uniform bunker supply doctor able auto butter wash";

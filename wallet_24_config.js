@@ -1,1 +1,1 @@
-var mnemonic = "flat regular paper parrot sugar critic noise cousin render pig equal beach";
+var mnemonic = "steel scatter wrap honey warfare frog story alpha cook amused unhappy oppose";

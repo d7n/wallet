@@ -1,1 +1,1 @@
-var mnemonic = "book derive switch steel crash length erase romance cram east survey seat";
+var mnemonic = "smart bone uniform private fossil loyal cigar couch crush hat shoe nation";

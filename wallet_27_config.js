@@ -1,1 +1,1 @@
-var mnemonic = "absurd aisle coach under equip style solar gauge combine upset area lunch";
+var mnemonic = "heavy anchor couch velvet bitter cargo mean razor mutual smooth elephant finger";

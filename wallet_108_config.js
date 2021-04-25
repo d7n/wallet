@@ -1,1 +1,1 @@
-var mnemonic = "coach six kangaroo surge blouse knife foil comfort potato warrior diary humble";
+var mnemonic = "warm behave start satoshi clip cram endorse destroy gown awake powder wave";

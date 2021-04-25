@@ -1,1 +1,1 @@
-var mnemonic = "core chuckle turn toss minute excess cream news strike already electric sand";
+var mnemonic = "major rigid argue horror clean wealth chalk toss federal night pepper witness";

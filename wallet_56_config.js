@@ -1,1 +1,1 @@
-var mnemonic = "comfort romance web job subway satisfy best argue merit shuffle appear collect";
+var mnemonic = "will fever license bind grid pottery client giggle feed royal globe sport";

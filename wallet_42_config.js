@@ -1,1 +1,1 @@
-var mnemonic = "ribbon catalog pass sock review dinosaur guard this runway cycle boy child";
+var mnemonic = "brick region rich version any surprise ten word doctor alpha hockey clean";

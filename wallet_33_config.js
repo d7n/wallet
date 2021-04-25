@@ -1,1 +1,1 @@
-var mnemonic = "render limb immense another rather measure trumpet tissue angle various park vendor";
+var mnemonic = "wash sponsor embody gym all negative huge trial rain task grocery police";

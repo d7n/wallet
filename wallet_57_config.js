@@ -1,1 +1,1 @@
-var mnemonic = "still valley yellow clerk float visit divide evoke nephew adapt turtle card";
+var mnemonic = "rent oil barrel foil guard alone pioneer stereo involve able remember mushroom";

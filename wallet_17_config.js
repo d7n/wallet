@@ -1,1 +1,1 @@
-var mnemonic = "around initial view win exhibit impose cattle seed girl above young attitude";
+var mnemonic = "explain barrel keep risk face pause strong wheat strike rally art invest";

@@ -1,1 +1,1 @@
-var mnemonic = "page drink cradle genius warfare guess sheriff absurd evidence bicycle empty space";
+var mnemonic = "space argue silly nephew tank wonder neglect pyramid input story basket warfare";

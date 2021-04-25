@@ -1,1 +1,1 @@
-var mnemonic = "unhappy grass quit miss ability nature holiday floor mother fringe fall trend";
+var mnemonic = "cotton goose debris name earn same erode become draft kitten add subject";

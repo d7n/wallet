@@ -1,1 +1,1 @@
-var mnemonic = "session expect physical plunge laptop regular talk lonely soon session one donor";
+var mnemonic = "gorilla age twice cloud husband item dust excuse female dust earn disagree";

@@ -1,1 +1,1 @@
-var mnemonic = "shiver shuffle edit need stage state mom horn private among pioneer tornado";
+var mnemonic = "copy engage expose purity hire else lion ankle this frequent injury height";

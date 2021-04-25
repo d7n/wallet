@@ -1,1 +1,1 @@
-var mnemonic = "regular faint swim coyote squeeze hat major jungle orchard melody glove climb";
+var mnemonic = "clip panther bitter kid army route unveil quiz chase famous hover brave";
