@@ -1,1 +1,1 @@
-var mnemonic = "ball collect another forest boost one treat stuff protect strong dune evoke";
+var mnemonic = "dragon finish sugar column polar what cat blast doctor senior arrange used";

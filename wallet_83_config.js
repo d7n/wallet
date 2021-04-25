@@ -1,1 +1,1 @@
-var mnemonic = "amateur uncle member future era access list clock civil stadium bright subject";
+var mnemonic = "weather fruit what stumble coral surge renew mix rapid asset cancel aspect";

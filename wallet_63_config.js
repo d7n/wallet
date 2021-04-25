@@ -1,1 +1,1 @@
-var mnemonic = "faint world melody become degree narrow spider body what spike maze leopard";
+var mnemonic = "scissors soldier thank kiwi wait predict type tourist piece win decrease damp";

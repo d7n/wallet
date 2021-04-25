@@ -1,1 +1,1 @@
-var mnemonic = "device fat view army size apology defy mandate cloud topple between strike";
+var mnemonic = "strong labor exhibit share know cargo gospel width power kidney square tunnel";

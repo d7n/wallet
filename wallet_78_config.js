@@ -1,1 +1,1 @@
-var mnemonic = "write drink lift ranch indoor task post memory acquire alone donate only";
+var mnemonic = "tooth shaft together knife cram mansion april genre junk gravity output foster";

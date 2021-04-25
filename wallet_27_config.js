@@ -1,1 +1,1 @@
-var mnemonic = "they heavy learn device order oven child iron census beach lawsuit leisure";
+var mnemonic = "estate canal sunny nation purse exhaust derive wrap pear flavor safe celery";

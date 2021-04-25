@@ -1,1 +1,1 @@
-var mnemonic = "leave ramp manual congress board alley client install craft employ pave electric";
+var mnemonic = "bar one velvet cave roof actor knock affair safe zone solid inform";

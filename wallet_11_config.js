@@ -1,1 +1,1 @@
-var mnemonic = "rally zero ladder message twenty sentence local cart agree brother pudding remove";
+var mnemonic = "floor coral zero lock female auto winner leg artefact visa donkey flip";

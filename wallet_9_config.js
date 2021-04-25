@@ -1,1 +1,1 @@
-var mnemonic = "feature angry win puppy wait bean fix seminar crazy jazz concert wealth";
+var mnemonic = "brush baby river domain venue vast brisk predict woman minimum share noise";

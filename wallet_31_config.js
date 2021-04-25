@@ -1,1 +1,1 @@
-var mnemonic = "install source expect print spray boil arch copy swallow holiday olympic jaguar";
+var mnemonic = "dumb manage room jaguar office swarm simple give humble nephew moral casino";

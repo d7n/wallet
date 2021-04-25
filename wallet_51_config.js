@@ -1,1 +1,1 @@
-var mnemonic = "jungle miracle battle limb pink ribbon ring mention begin source stereo stove";
+var mnemonic = "beef bacon jelly aerobic flag dance release crime reform effort fat inmate";

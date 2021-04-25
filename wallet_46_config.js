@@ -1,1 +1,1 @@
-var mnemonic = "rely lesson call lift great two all dance reject airport friend start";
+var mnemonic = "perfect pepper royal match erupt design wet swing lizard pause fiscal horror";

@@ -1,1 +1,1 @@
-var mnemonic = "expire saddle reveal bring minor snack doll wear goddess possible demise ecology";
+var mnemonic = "spirit select buddy quarter zoo skill arrow series catch kiwi panel off";

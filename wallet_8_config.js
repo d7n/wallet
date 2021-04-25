@@ -1,1 +1,1 @@
-var mnemonic = "day fault minute divorce wait science quantum warfare machine fiber south buyer";
+var mnemonic = "glove document gift happy taxi office length million puzzle citizen summer catch";

@@ -1,1 +1,1 @@
-var mnemonic = "country rice afford brave giraffe innocent issue crawl there coast moral purchase";
+var mnemonic = "valve exchange clap van coast portion bridge machine place chaos manual minimum";

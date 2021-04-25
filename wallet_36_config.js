@@ -1,1 +1,1 @@
-var mnemonic = "float clip wedding age process sea curve february diary october together zone";
+var mnemonic = "muffin news sample rebuild obvious concert wolf resemble multiply arrest woman spy";

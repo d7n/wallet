@@ -1,1 +1,1 @@
-var mnemonic = "peace snow prize myth promote air friend truth eye phone moon happy";
+var mnemonic = "rate crazy there reason sand junior garage board base business method whisper";

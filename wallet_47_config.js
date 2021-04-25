@@ -1,1 +1,1 @@
-var mnemonic = "grid pave proud exact ship supply bounce cage runway stick weasel couple";
+var mnemonic = "fringe action tail decline case avoid sport better unique just crumble prefer";

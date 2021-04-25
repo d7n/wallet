@@ -1,1 +1,1 @@
-var mnemonic = "word shed hip barely boat attitude clump tower river ill legend parrot";
+var mnemonic = "tail drama street north riot travel cup artefact supply weird gadget civil";

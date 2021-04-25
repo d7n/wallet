@@ -1,1 +1,1 @@
-var mnemonic = "mixture hobby sausage strong calm panel truth ceiling engage embrace uphold dress";
+var mnemonic = "silly comic dose tip glance cube hen return tiger cat salute again";

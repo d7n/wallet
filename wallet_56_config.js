@@ -1,1 +1,1 @@
-var mnemonic = "diary salmon drama erode sun rubber volume when razor method animal parrot";
+var mnemonic = "little invest typical wait destroy human blade disorder lucky east since hen";

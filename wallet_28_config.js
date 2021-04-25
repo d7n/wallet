@@ -1,1 +1,1 @@
-var mnemonic = "scare warm kiss hope vanish want save robust bus history awful near";
+var mnemonic = "loyal essence cash arrive spare object census tattoo income sleep suffer gap";

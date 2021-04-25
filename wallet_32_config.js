@@ -1,1 +1,1 @@
-var mnemonic = "initial cost castle cancel consider sudden bring truly lounge fetch visit later";
+var mnemonic = "book camera jeans capital section reject device error vendor once diet flavor";

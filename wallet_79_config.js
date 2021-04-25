@@ -1,1 +1,1 @@
-var mnemonic = "black silent logic sun couch document rate end advice lady need option";
+var mnemonic = "alley empty describe bone popular thank water build pottery country room upon";

@@ -1,1 +1,1 @@
-var mnemonic = "alone carpet universe gadget vicious cup bar grab gift praise portion mutual";
+var mnemonic = "ill add unusual mom luxury amazing fashion brisk advice alpha alley build";

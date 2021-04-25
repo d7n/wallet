@@ -1,1 +1,1 @@
-var mnemonic = "kite visit humor series belt coach globe stock consider shine donor glory";
+var mnemonic = "length basket foster wrist team bid snow such birth avoid hunt bronze";

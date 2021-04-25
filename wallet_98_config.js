@@ -1,1 +1,1 @@
-var mnemonic = "short bridge twenty miss issue sea evoke charge art skirt ice pencil";
+var mnemonic = "wing design valley rack wash arrive winner device renew helmet door embody";

@@ -1,1 +1,1 @@
-var mnemonic = "tooth reason humble soldier waste luxury retreat walnut access fragile fortune uniform";
+var mnemonic = "cancel alarm toss maze still ride moral gospel umbrella master mammal tank";

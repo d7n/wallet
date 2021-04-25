@@ -1,1 +1,1 @@
-var mnemonic = "taxi autumn twenty symptom net matter library outer concert glimpse candy able";
+var mnemonic = "faculty panda true prison mail lounge scheme immense help equal cave mimic";

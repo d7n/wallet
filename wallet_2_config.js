@@ -1,1 +1,1 @@
-var mnemonic = "morning piece chef move sample police dignity mention slow desk conduct sick";
+var mnemonic = "tone birth media bachelor month clinic damp used employ average wine lens";

@@ -1,1 +1,1 @@
-var mnemonic = "bring risk high flock purpose muscle remember zoo resist offer canoe vocal";
+var mnemonic = "spike sock alone inner grain series escape sock left train faith belt";

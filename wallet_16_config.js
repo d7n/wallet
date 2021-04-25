@@ -1,1 +1,1 @@
-var mnemonic = "season zoo afraid column ripple orchard hobby destroy shaft lonely because whisper";
+var mnemonic = "steak print truck donate skate kit tunnel bike tonight achieve love avocado";

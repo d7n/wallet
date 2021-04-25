@@ -1,1 +1,1 @@
-var mnemonic = "member chat host achieve amused nominee price stumble twelve media hour unhappy";
+var mnemonic = "window song front welcome catch fluid soup fashion obvious rain inherit hybrid";

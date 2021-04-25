@@ -1,1 +1,1 @@
-var mnemonic = "only trick kingdom myself sketch glory clever father ostrich syrup give early";
+var mnemonic = "whale measure flame time merge shed turn diamond monitor blind crazy soup";

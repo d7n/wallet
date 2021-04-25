@@ -1,1 +1,1 @@
-var mnemonic = "bitter wrap hedgehog vacant silent accuse sibling logic merry patch remind material";
+var mnemonic = "stove slide stamp dust outdoor valley three two hire agent index chronic";

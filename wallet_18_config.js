@@ -1,1 +1,1 @@
-var mnemonic = "balance mansion narrow enforce slow chimney approve nest pond change aunt pudding";
+var mnemonic = "foil barely spot upgrade mechanic credit grunt merit ordinary wrist ring index";

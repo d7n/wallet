@@ -1,1 +1,1 @@
-var mnemonic = "stairs liar there report unknown prison horror sentence raise arrange risk warm";
+var mnemonic = "feel tree hollow genre humble beef unaware write tunnel approve evolve shell";

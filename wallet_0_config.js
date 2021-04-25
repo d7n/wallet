@@ -1,1 +1,1 @@
-var mnemonic = "about bridge bulb own history symbol pluck child rain giggle suspect horror";
+var mnemonic = "license combine inquiry demand gas left warrior custom exhaust shoulder then pepper";

@@ -1,1 +1,1 @@
-var mnemonic = "creek nation dance grain gold beauty comic target crunch parade equal elevator";
+var mnemonic = "describe powder swap seed stage south tomorrow shy input easy club apart";

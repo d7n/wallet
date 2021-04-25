@@ -1,1 +1,1 @@
-var mnemonic = "they spin clown affair volume enough card tongue order tilt total reform";
+var mnemonic = "side earth emerge student fiber payment town universe guess predict fiber recall";

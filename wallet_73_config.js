@@ -1,1 +1,1 @@
-var mnemonic = "client extend toe april youth little couple beyond renew decade bullet flight";
+var mnemonic = "spider exchange priority budget clown element lazy brief company lady piano toddler";

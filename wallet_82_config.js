@@ -1,1 +1,1 @@
-var mnemonic = "tower female museum tent obey arch fox easily carry valley crane slice";
+var mnemonic = "soup flee mango decide recall gentle inherit undo hidden once accuse alone";

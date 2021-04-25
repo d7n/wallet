@@ -1,1 +1,1 @@
-var mnemonic = "dish panther mule joy draw any lady bar spider prevent gain limb";
+var mnemonic = "report version diamond real dog figure local fringe master tornado cool village";

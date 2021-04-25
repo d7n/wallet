@@ -1,1 +1,1 @@
-var mnemonic = "cube service sock inside junior mimic isolate best city chaos feel afraid";
+var mnemonic = "lunch trial knock adult picnic hockey joy sausage earn prize tissue duck";

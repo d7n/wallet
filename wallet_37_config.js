@@ -1,1 +1,1 @@
-var mnemonic = "mobile alter cattle cram morning arena staff young start obscure other plunge";
+var mnemonic = "muffin useless purpose inject need transfer few bamboo never cost pond ivory";

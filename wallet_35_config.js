@@ -1,1 +1,1 @@
-var mnemonic = "relax person raven present warfare remain gold sister unlock happy gossip strike";
+var mnemonic = "half obscure shine coach cannon sort enemy tornado alter ignore reject ability";

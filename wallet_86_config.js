@@ -1,1 +1,1 @@
-var mnemonic = "face soul mandate rack sell enough powder solution weapon benefit aunt goat";
+var mnemonic = "skate before reward enjoy twin pledge hand crumble blind trust enroll month";

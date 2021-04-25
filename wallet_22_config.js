@@ -1,1 +1,1 @@
-var mnemonic = "adapt quick anchor viable tooth ethics winner rigid visa all fold pool";
+var mnemonic = "mother sausage pretty town park phone vehicle season bachelor guard foot frost";

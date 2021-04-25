@@ -1,1 +1,1 @@
-var mnemonic = "tail liar fatal cliff stadium unfair wall brass echo insane spray suit";
+var mnemonic = "plunge useful walk group evidence shed runway brush keen cute frequent expect";

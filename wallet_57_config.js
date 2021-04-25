@@ -1,1 +1,1 @@
-var mnemonic = "lyrics resist since wife steel dash consider ankle empty couch gentle repeat";
+var mnemonic = "rally slam girl rare inspire feel obey final spray erosion police web";

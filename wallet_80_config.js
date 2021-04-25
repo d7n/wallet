@@ -1,1 +1,1 @@
-var mnemonic = "habit belt ice seven original unit marriage asset chimney tool income slice";
+var mnemonic = "top reduce middle matter creek night inspire flower security discover craft announce";

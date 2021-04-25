@@ -1,1 +1,1 @@
-var mnemonic = "sunny fly that peanut tank north model double cannon swallow later brain";
+var mnemonic = "hope curtain slam envelope feature easily umbrella door road width grape coral";

@@ -1,1 +1,1 @@
-var mnemonic = "spice cereal jungle mansion foil outer resist foil prize piano reunion theme";
+var mnemonic = "sweet depend clever check code cargo wheel soccer cigar demand guard oyster";

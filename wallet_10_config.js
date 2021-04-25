@@ -1,1 +1,1 @@
-var mnemonic = "buffalo tell country assault only duck soup similar night fat roast mansion";
+var mnemonic = "luxury erosion rough fancy six inch quote innocent achieve forum avocado thumb";

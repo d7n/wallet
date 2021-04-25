@@ -1,1 +1,1 @@
-var mnemonic = "gate alien clip boy law burden pottery baby stuff can busy change";
+var mnemonic = "two fragile exotic aspect phone lottery hundred despair fly speed boss harbor";

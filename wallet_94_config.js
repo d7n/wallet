@@ -1,1 +1,1 @@
-var mnemonic = "route strong captain moral cotton enlist lift elevator cheese crack hint episode";
+var mnemonic = "ball merry away allow duty orchard one talk portion switch minute famous";

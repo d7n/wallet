@@ -1,1 +1,1 @@
-var mnemonic = "deputy spring ivory spread aisle board sense chicken reunion drum forum fatigue";
+var mnemonic = "real gravity organ security limit angry lesson write whisper federal afraid vehicle";

@@ -1,1 +1,1 @@
-var mnemonic = "glow ladder knock host bind story answer chef prefer symbol season glass";
+var mnemonic = "check grit cement choice earth indoor crane mixture vendor woman tonight ecology";

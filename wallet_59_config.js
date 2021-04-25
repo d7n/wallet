@@ -1,1 +1,1 @@
-var mnemonic = "olive submit coyote devote earn soap negative again pole ancient foam man";
+var mnemonic = "pipe pair morning health rely pride hood actor useful cluster story board";

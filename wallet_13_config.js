@@ -1,1 +1,1 @@
-var mnemonic = "lizard card joy child easy long doll gun early improve lottery insect";
+var mnemonic = "shine path rubber club sample fitness witness myth attitude antenna brick fragile";

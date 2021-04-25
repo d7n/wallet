@@ -1,1 +1,1 @@
-var mnemonic = "tonight glue olympic student poem diagram execute typical eagle ice sister blade";
+var mnemonic = "among glow critic patch blur balcony miracle disease boss effort minute cheese";

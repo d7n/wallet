@@ -1,1 +1,1 @@
-var mnemonic = "visit sort kangaroo thank glimpse predict weird deny combine loan oppose ghost";
+var mnemonic = "hood siege artwork duty clinic shaft champion treat culture belt rebuild stuff";

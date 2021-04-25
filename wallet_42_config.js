@@ -1,1 +1,1 @@
-var mnemonic = "firm gather brand trap grain assist orphan present grow venture poet ethics";
+var mnemonic = "list barely fault loyal daring avocado nurse cave valve upon furnace march";

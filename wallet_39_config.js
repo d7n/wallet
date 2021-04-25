@@ -1,1 +1,1 @@
-var mnemonic = "goose kit gossip depart joke stumble used sugar loan crawl lizard broom";
+var mnemonic = "alley oyster hire label among sell scout common proud rare parade viable";

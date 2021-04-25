@@ -1,1 +1,1 @@
-var mnemonic = "lock minute humor tomato tag response occur jewel funny bitter explain woman";
+var mnemonic = "recycle zone silver squeeze cloud input require stuff phone enact impact glass";

@@ -1,1 +1,1 @@
-var mnemonic = "crush genre head fruit surprise fiction cool spread inhale oak refuse rib";
+var mnemonic = "pioneer kind child tragic decade envelope waste crisp service hub april upper";

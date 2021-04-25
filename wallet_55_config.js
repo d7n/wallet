@@ -1,1 +1,1 @@
-var mnemonic = "slab enroll twist repair donkey planet version box bacon sure arctic hybrid";
+var mnemonic = "group knee traffic junk begin soldier amount limit aspect victory open jealous";

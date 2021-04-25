@@ -1,1 +1,1 @@
-var mnemonic = "tortoise reform future evil abuse index crush hood above grit humble enhance";
+var mnemonic = "number venture analyst extra voice squirrel earn shy else obtain present talk";

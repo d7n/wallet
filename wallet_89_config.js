@@ -1,1 +1,1 @@
-var mnemonic = "reject silk combine walnut jelly elite damage expose surface sibling seek impact";
+var mnemonic = "liar audit bacon unveil odor ugly rug bicycle leaf visit pigeon bridge";

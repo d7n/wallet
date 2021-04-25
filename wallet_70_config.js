@@ -1,1 +1,1 @@
-var mnemonic = "custom floor asthma alter equip ugly fragile company peanut fix pioneer pattern";
+var mnemonic = "tourist mosquito call fresh broccoli rebuild leave review skull busy there coral";

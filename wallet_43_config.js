@@ -1,1 +1,1 @@
-var mnemonic = "horse barely exact sweet split just possible build glide knife someone symptom";
+var mnemonic = "slush siren twelve oxygen brick swim picnic heavy noodle rifle credit ecology";

@@ -1,1 +1,1 @@
-var mnemonic = "satisfy glad nasty foil dumb mean often rifle saddle benefit steel fruit";
+var mnemonic = "attend distance chuckle basic burger mail air horn okay rib rival romance";

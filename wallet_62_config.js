@@ -1,1 +1,1 @@
-var mnemonic = "cat gorilla patch able nothing attend gold derive obtain ice steak ridge";
+var mnemonic = "saddle canyon very better found riot gadget dash sick kangaroo metal promote";

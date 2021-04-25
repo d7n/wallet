@@ -1,1 +1,1 @@
-var mnemonic = "celery long spend luggage dash million raise health sheriff quick vehicle imitate";
+var mnemonic = "festival alert palace dose wonder smooth outside festival balance travel tissue swim";

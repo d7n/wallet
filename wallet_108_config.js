@@ -1,1 +1,1 @@
-var mnemonic = "moral theme bag salute clip exile expand amateur bracket convince budget celery";
+var mnemonic = "garden smart exist reform travel act lawsuit mouse clip horn shaft sausage";

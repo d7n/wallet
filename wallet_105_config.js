@@ -1,1 +1,1 @@
-var mnemonic = "best fury lonely settle hunt frame vote scale beyond screen agree area";
+var mnemonic = "inquiry endorse soon enforce book jazz theme river topple balcony click knock";

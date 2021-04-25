@@ -1,1 +1,1 @@
-var mnemonic = "clutch fantasy scissors ski sausage garlic minimum pulse tackle celery install seed";
+var mnemonic = "purity guilt curious update unaware piece area magic amazing attract thunder lounge";

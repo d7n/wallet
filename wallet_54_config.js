@@ -1,1 +1,1 @@
-var mnemonic = "item panther vanish ginger fiction payment unveil wild one tobacco weapon enrich";
+var mnemonic = "fitness era govern often antenna earth work alpha wolf vault network net";

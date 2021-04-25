@@ -1,1 +1,1 @@
-var mnemonic = "head around security voyage cable favorite world test hidden fame cousin ripple";
+var mnemonic = "keen license volcano parade turtle march say real correct arch remind scare";

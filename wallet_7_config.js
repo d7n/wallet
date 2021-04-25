@@ -1,1 +1,1 @@
-var mnemonic = "bridge fly afraid praise recycle sugar dynamic absorb radio ship addict casino";
+var mnemonic = "clarify struggle derive congress accuse dirt spell giant student shiver milk nephew";

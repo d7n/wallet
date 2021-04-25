@@ -1,1 +1,1 @@
-var mnemonic = "object push mirror now field put ugly weather exhibit captain soft coin";
+var mnemonic = "orbit leader flock humor dinosaur call win cotton phone neglect shuffle auto";

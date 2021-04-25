@@ -1,1 +1,1 @@
-var mnemonic = "dilemma juice spy mind bench erase core someone renew middle oyster define";
+var mnemonic = "below cricket cheese call ability angry test expect amount tide wolf sibling";

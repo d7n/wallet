@@ -1,1 +1,1 @@
-var mnemonic = "spot glue cradle door zoo fever solid blouse memory proud huge doll";
+var mnemonic = "brother cat monster fan exit fork guide swift shock sphere lonely friend";

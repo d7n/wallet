@@ -1,1 +1,1 @@
-var mnemonic = "salt emotion nerve seed vacuum name stone cover work sketch seven identify";
+var mnemonic = "glare doll time dial ignore daughter empty stick matrix airport hospital head";

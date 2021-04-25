@@ -1,1 +1,1 @@
-var mnemonic = "gloom task lobster ghost vibrant short dragon stove opera office behind shrimp";
+var mnemonic = "prosper eyebrow blast radar cradle sugar primary stadium flavor wedding canvas crush";

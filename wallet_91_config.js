@@ -1,1 +1,1 @@
-var mnemonic = "salon blossom visual giant stadium topic loyal urban gun urge access rib";
+var mnemonic = "butter any flee letter term cloth win ice mask valley worth index";

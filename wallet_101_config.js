@@ -1,1 +1,1 @@
-var mnemonic = "magnet salon face field skill crack pink argue library merge liberty sentence";
+var mnemonic = "paper liberty crash camp west reward fee reduce mango truth primary play";

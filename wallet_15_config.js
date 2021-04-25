@@ -1,1 +1,1 @@
-var mnemonic = "blood letter laugh finger buzz side load yard almost traffic spoil pyramid";
+var mnemonic = "memory glass autumn attitude gaze end mule subject blind matrix spare shy";
