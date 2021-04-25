@@ -1,1 +1,1 @@
-var mnemonic = "expand surprise donor stomach region diesel bitter aisle goddess crisp travel behind";
+var mnemonic = "book real undo fish trim oval vivid hurry gorilla barely electric orient";

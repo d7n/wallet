@@ -1,1 +1,1 @@
-var mnemonic = "talk cup dentist key clay gap mutual panther cheese episode great edge";
+var mnemonic = "same crisp mercy crisp hour april gasp swarm favorite vault wasp game";

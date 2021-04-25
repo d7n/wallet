@@ -1,1 +1,1 @@
-var mnemonic = "goddess pill mother they true actual screen deny family cave bonus drive";
+var mnemonic = "evidence junk potato hobby frog term lobster ginger possible alter usual beauty";

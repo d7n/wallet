@@ -1,1 +1,1 @@
-var mnemonic = "poem poet garden unlock shed excuse split drill panther cable rain tumble";
+var mnemonic = "bean desert crew fossil gate rabbit supply quarter thunder month robust evidence";

@@ -1,1 +1,1 @@
-var mnemonic = "flavor drop scheme permit possible medal then deliver wrong usual sudden meat";
+var mnemonic = "donor tornado budget toilet response senior lens throw mansion phrase amazing absorb";

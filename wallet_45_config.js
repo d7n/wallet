@@ -1,1 +1,1 @@
-var mnemonic = "isolate neglect cupboard tank carbon alone help discover secret ski delay rely";
+var mnemonic = "burger topple boost access fan demise appear lens winner radio license lunch";

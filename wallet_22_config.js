@@ -1,1 +1,1 @@
-var mnemonic = "primary off lion travel eager bottom blush melt negative little kingdom logic";
+var mnemonic = "sand rapid fit define beauty old display leave artefact rare mixture clip";

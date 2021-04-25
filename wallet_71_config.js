@@ -1,1 +1,1 @@
-var mnemonic = "obtain merge boil length execute slow crime aim matrix kit issue excuse";
+var mnemonic = "quarter sunset lift tenant screen spot fame upper moment swamp much route";

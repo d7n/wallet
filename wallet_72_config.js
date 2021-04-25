@@ -1,1 +1,1 @@
-var mnemonic = "worry captain debris sentence stem evidence index income elite vocal accident north";
+var mnemonic = "penalty rookie avoid execute siege second dinosaur device afraid leaf pass clay";

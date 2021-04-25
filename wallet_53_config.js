@@ -1,1 +1,1 @@
-var mnemonic = "wall install degree pudding health ski crazy gate bulb develop improve glory";
+var mnemonic = "require pig garbage danger quit credit sure youth young good curtain gold";

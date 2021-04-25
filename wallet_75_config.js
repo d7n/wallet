@@ -1,1 +1,1 @@
-var mnemonic = "vivid panther sentence afford concert bubble police device measure armor mosquito avocado";
+var mnemonic = "nation govern garden amused laundry document observe vital jaguar wish buyer pilot";

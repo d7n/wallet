@@ -1,1 +1,1 @@
-var mnemonic = "occur trumpet never fox super marriage patient target awkward empower boss host";
+var mnemonic = "stable toe reason civil zone region faculty wife spike twelve field various";

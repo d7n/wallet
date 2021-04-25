@@ -1,1 +1,1 @@
-var mnemonic = "weather truly height gap nation raven consider detail gospel lawn stomach web";
+var mnemonic = "equal degree fluid erupt donkey flock anchor kick oppose finger unlock shove";

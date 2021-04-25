@@ -1,1 +1,1 @@
-var mnemonic = "office bike rifle bar never carpet true metal glare double usual upset";
+var mnemonic = "climb dish call lamp sad adjust live museum liar eager curve trial";

@@ -1,1 +1,1 @@
-var mnemonic = "explain dawn south person another bless payment town donor ritual obvious picnic";
+var mnemonic = "glimpse circle sudden material spoon casino avocado bridge unit glove dream clip";

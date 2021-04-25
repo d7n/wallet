@@ -1,1 +1,1 @@
-var mnemonic = "pause mix horror knock gaze imitate blossom cactus follow onion trap follow";
+var mnemonic = "cousin woman table tattoo poet salute cause thank clump opera team plunge";

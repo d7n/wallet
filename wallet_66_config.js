@@ -1,1 +1,1 @@
-var mnemonic = "whale seminar there way ship duty dose alpha library glue piano mass";
+var mnemonic = "venue mean submit apple life online valve search fun wash blind sort";

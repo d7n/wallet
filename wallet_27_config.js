@@ -1,1 +1,1 @@
-var mnemonic = "myself example glimpse dentist cancel horror that grab immune metal cross picture";
+var mnemonic = "pledge blue rate decline legal west large smoke quarter settle fit life";

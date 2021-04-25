@@ -1,1 +1,1 @@
-var mnemonic = "fetch venue route exclude walk model typical spatial impulse next leopard trim";
+var mnemonic = "tilt category burger taste ensure cattle sea barrel betray solution banner popular";

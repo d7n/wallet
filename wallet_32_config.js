@@ -1,1 +1,1 @@
-var mnemonic = "exhaust garden orchard carpet dune side uphold jacket nation viable erupt steel";
+var mnemonic = "tenant width dynamic naive remove glass indicate mother cupboard silent elevator liar";

@@ -1,1 +1,1 @@
-var mnemonic = "bacon twice more nature sense give sort method tube skill solar inhale";
+var mnemonic = "joke live husband wrap invite glass rough dilemma because spin security evidence";

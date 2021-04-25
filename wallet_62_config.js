@@ -1,1 +1,1 @@
-var mnemonic = "cable tube flavor huge trap nominee evolve net pole mimic today green";
+var mnemonic = "similar crisp scatter exist truth cross divide blade online observe blame exotic";

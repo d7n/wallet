@@ -1,1 +1,1 @@
-var mnemonic = "minimum rural tower fancy method follow mention whale equal cushion discover mean";
+var mnemonic = "weird bus air wisdom result february tornado celery hundred sauce legal inspire";

@@ -1,1 +1,1 @@
-var mnemonic = "excite move spend wedding ranch depth strong mask trust below adjust pepper";
+var mnemonic = "jump olympic mutual endless symptom journey tape tree dignity core solution shaft";

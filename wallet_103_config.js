@@ -1,1 +1,1 @@
-var mnemonic = "pepper gossip cancel require hungry garbage magnet flag embark alert attack waste";
+var mnemonic = "dumb flip obey parent space order manage symbol loud ranch armor crash";

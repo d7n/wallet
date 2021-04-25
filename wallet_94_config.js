@@ -1,1 +1,1 @@
-var mnemonic = "say soon sure genuine win slim position scare lizard wet entry salmon";
+var mnemonic = "gossip evoke pond scorpion lift depend lake shop fun heavy devote maze";

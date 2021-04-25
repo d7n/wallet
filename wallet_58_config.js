@@ -1,1 +1,1 @@
-var mnemonic = "lounge boring shallow corn all nominee key learn decorate broken axis seat";
+var mnemonic = "proud cousin armor era leaf route decade almost wise crouch manual gun";

@@ -1,1 +1,1 @@
-var mnemonic = "post word worry secret divide error vivid situate giant gift fame ivory";
+var mnemonic = "mind vanish neutral syrup boat copper broom scan rocket simple guilt blouse";

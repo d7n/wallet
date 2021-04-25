@@ -1,1 +1,1 @@
-var mnemonic = "squirrel mad clap main attract visual razor input umbrella art trial uncover";
+var mnemonic = "cherry gospel tag blast only limb radio ankle pluck master indoor visual";

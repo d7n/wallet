@@ -1,1 +1,1 @@
-var mnemonic = "make used taxi fish pear problem chicken famous crack axis sign wheat";
+var mnemonic = "gown always sight violin violin drill doctor suggest corn fatigue denial orphan";

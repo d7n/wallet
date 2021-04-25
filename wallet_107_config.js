@@ -1,1 +1,1 @@
-var mnemonic = "polar else leave grit busy twin tobacco slide real behind grain wood";
+var mnemonic = "father test way glimpse web gun style gaze duty turkey opinion thrive";

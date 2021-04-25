@@ -1,1 +1,1 @@
-var mnemonic = "rifle steak flush object digital shallow found start divorce salute flag castle";
+var mnemonic = "decline upper lesson kitchen apart kiss helmet extra purpose cannon air coin";

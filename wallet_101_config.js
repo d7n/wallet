@@ -1,1 +1,1 @@
-var mnemonic = "banana sword sword theory expand horse solution host hedgehog shell change reform";
+var mnemonic = "bench stairs tell august cricket wet pelican casual deputy fever vocal dolphin";

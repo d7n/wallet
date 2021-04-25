@@ -1,1 +1,1 @@
-var mnemonic = "fold expect token reform mean culture cage fragile hill auto thought asset";
+var mnemonic = "deer exit engine recipe goat wife weekend divorce circle parent name dream";

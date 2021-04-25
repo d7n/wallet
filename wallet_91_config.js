@@ -1,1 +1,1 @@
-var mnemonic = "vacuum paper glide rule slight group segment nation captain begin afford only";
+var mnemonic = "odor stay injury solve cricket cable crawl control evidence long buyer twelve";

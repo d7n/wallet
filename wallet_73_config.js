@@ -1,1 +1,1 @@
-var mnemonic = "issue fossil circle topic few chase friend winner hospital duty business ignore";
+var mnemonic = "shift coffee friend mixed hill endless toe robot second vault pear bunker";

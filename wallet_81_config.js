@@ -1,1 +1,1 @@
-var mnemonic = "camp cook remain hip acoustic recall fury satoshi anger view normal junior";
+var mnemonic = "below bicycle install cram blood stamp permit language trap senior canyon vital";

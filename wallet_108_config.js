@@ -1,1 +1,1 @@
-var mnemonic = "amused picture seven what desk pitch sauce island token rebuild frost plunge";
+var mnemonic = "snow cook among rare shoe bean tonight manual suspect rebuild dumb amount";

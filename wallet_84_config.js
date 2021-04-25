@@ -1,1 +1,1 @@
-var mnemonic = "blame grab drink resemble flush connect inform setup floor shove diet amazing";
+var mnemonic = "daring orient pledge artwork kangaroo play next mechanic cloud rate police captain";

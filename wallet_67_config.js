@@ -1,1 +1,1 @@
-var mnemonic = "immense talk nice tank beyond poet twin alert under dice fox push";
+var mnemonic = "hub hybrid man wasp able detect reject produce during easy romance push";

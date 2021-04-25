@@ -1,1 +1,1 @@
-var mnemonic = "silk letter sound answer employ vital pause practice era middle diary vendor";
+var mnemonic = "manage monitor foil glimpse top since chapter finger found whip fragile decrease";

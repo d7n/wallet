@@ -1,1 +1,1 @@
-var mnemonic = "dirt private grunt bicycle mail reflect heavy sadness diagram enter antenna obvious";
+var mnemonic = "prosper apart weekend loop bench wrong lawn sock crack fruit public siren";

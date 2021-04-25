@@ -1,1 +1,1 @@
-var mnemonic = "garment tree net express text beach couple eight stem letter multiply write";
+var mnemonic = "region slide draft gun assault alone promote know melt december type art";

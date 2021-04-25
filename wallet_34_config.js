@@ -1,1 +1,1 @@
-var mnemonic = "child direct you pig consider crystal betray cute west galaxy alpha drama";
+var mnemonic = "phrase absent east future ancient fan scatter curve squeeze document live endless";

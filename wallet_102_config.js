@@ -1,1 +1,1 @@
-var mnemonic = "equal steel silent bulb weasel kiss target barely energy actress cheese fiscal";
+var mnemonic = "way spike foster bunker sell connect chef hurry marriage diagram that hospital";

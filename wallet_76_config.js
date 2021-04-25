@@ -1,1 +1,1 @@
-var mnemonic = "obey ocean melt hard today rhythm axis plunge scorpion order ritual fat";
+var mnemonic = "river fresh have casual check left axis post only guess repeat leisure";

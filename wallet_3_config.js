@@ -1,1 +1,1 @@
-var mnemonic = "rigid over captain section yard twice celery enter tilt host avoid rubber";
+var mnemonic = "noble stand track tragic cannon reform camera stick much pride reason mind";

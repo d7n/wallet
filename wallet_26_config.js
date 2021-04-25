@@ -1,1 +1,1 @@
-var mnemonic = "essay bulb drip vacuum brown please inch brand start arrest leader high";
+var mnemonic = "road infant loyal rapid party energy extend earn borrow word hour wise";

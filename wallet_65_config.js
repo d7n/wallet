@@ -1,1 +1,1 @@
-var mnemonic = "sick skill confirm range palace work unaware furnace shell woman sunny hair";
+var mnemonic = "dragon project badge virus achieve assist young young harsh combine oppose lemon";

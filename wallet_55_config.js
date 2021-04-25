@@ -1,1 +1,1 @@
-var mnemonic = "segment glass left kiss absorb scheme also urge exotic minimum aware false";
+var mnemonic = "volcano abuse sponsor cloud resist kit fancy proof inject practice floor nature";

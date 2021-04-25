@@ -1,1 +1,1 @@
-var mnemonic = "purity doll tree cube chest infant tobacco mixed box economy cheese autumn";
+var mnemonic = "detect sword put rebel jealous cloth write salute spray oyster dash tattoo";

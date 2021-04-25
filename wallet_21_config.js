@@ -1,1 +1,1 @@
-var mnemonic = "clown ahead umbrella note define exchange tackle educate gap leisure decrease behind";
+var mnemonic = "answer claw thunder hurt blame error blue essence ceiling purse cash aunt";

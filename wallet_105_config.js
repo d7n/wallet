@@ -1,1 +1,1 @@
-var mnemonic = "claim glare term rubber uphold almost view connect nurse wage immense mind";
+var mnemonic = "turn fun cash have horror hill pear oblige stomach curtain panic coin";

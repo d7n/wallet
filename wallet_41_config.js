@@ -1,1 +1,1 @@
-var mnemonic = "hat unable debate person catalog faint column surround amateur strike cattle double";
+var mnemonic = "refuse tackle put minor frown split luggage famous derive spread glimpse elegant";

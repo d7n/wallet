@@ -1,1 +1,1 @@
-var mnemonic = "arrange pepper hint iron crumble print evoke digital aerobic future oyster jungle";
+var mnemonic = "army off canoe broom master drill brick fade pledge ice direct diet";

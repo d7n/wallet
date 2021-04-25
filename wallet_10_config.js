@@ -1,1 +1,1 @@
-var mnemonic = "puppy despair myth depend earn wife oval soft kid mom egg grass";
+var mnemonic = "science relax vessel dismiss rescue pair host bubble wink pair gallery else";

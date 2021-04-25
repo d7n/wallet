@@ -1,1 +1,1 @@
-var mnemonic = "skirt coffee horse what just put wheel meat kitchen moment keen dad";
+var mnemonic = "helmet aunt please sure knock cherry exhibit cage rotate trumpet gasp clinic";

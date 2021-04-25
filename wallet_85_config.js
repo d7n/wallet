@@ -1,1 +1,1 @@
-var mnemonic = "wealth phone wish party stereo tone drive armed damp kitchen hover fetch";
+var mnemonic = "option rib debate film little badge jazz copy must spatial zoo person";

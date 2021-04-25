@@ -1,1 +1,1 @@
-var mnemonic = "bundle divert final holiday pear square process screen dinosaur kiss lock era";
+var mnemonic = "glory scrub narrow laugh rookie ugly soda whip rib hood jelly hungry";

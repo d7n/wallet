@@ -1,1 +1,1 @@
-var mnemonic = "tower dizzy bike lady hero find enough hole minimum crucial maple exercise";
+var mnemonic = "index pitch alcohol sniff wine cake praise critic blanket anchor baby advance";

@@ -1,1 +1,1 @@
-var mnemonic = "multiply drift minimum sudden leave change company dawn bench street lunar abuse";
+var mnemonic = "flip ridge fragile blouse priority slot hotel game power finger birth suspect";

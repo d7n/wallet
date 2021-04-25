@@ -1,1 +1,1 @@
-var mnemonic = "adjust knife assault sport kingdom mule disease wage fault use impulse visa";
+var mnemonic = "false calm explain caught tattoo remain any snake coyote ridge lunch marine";

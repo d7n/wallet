@@ -1,1 +1,1 @@
-var mnemonic = "lens frequent army keen lounge nut wolf boost ostrich evidence input rotate";
+var mnemonic = "onion fall moment congress blade february cement transfer conduct uncle inject saddle";

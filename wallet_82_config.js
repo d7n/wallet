@@ -1,1 +1,1 @@
-var mnemonic = "crew coach nation chair shop bone rocket midnight produce ghost file jeans";
+var mnemonic = "solid antique cute finger barrel celery latin concert cause jump galaxy donate";

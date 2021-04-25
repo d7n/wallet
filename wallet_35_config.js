@@ -1,1 +1,1 @@
-var mnemonic = "estate weekend supply memory into nut strike sample blanket error slogan bronze";
+var mnemonic = "share tobacco rebel castle neglect vehicle sample increase note galaxy cheese letter";

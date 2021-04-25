@@ -1,1 +1,1 @@
-var mnemonic = "honey ticket device glare veteran patrol fragile enable travel west ivory blouse";
+var mnemonic = "urban weasel hammer mystery saddle basic quit wreck robot truly razor lava";

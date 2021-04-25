@@ -1,1 +1,1 @@
-var mnemonic = "hazard today lecture tired trap bring urge fold hurdle crew vocal decline";
+var mnemonic = "make dog verb engage deliver smile bread estate very hamster bachelor vintage";

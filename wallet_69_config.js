@@ -1,1 +1,1 @@
-var mnemonic = "excuse allow web venture poem unknown hip addict more advance shy alter";
+var mnemonic = "hotel cool reveal omit carbon guitar purse device unlock image absent burst";

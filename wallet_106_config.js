@@ -1,1 +1,1 @@
-var mnemonic = "chef law use split asset sun naive sudden execute clump traffic lazy";
+var mnemonic = "horn mandate flash nut baby barrel inhale throw other small extend version";

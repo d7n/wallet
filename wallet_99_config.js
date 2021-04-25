@@ -1,1 +1,1 @@
-var mnemonic = "blur phrase test tiger obey add stable leave awesome quality tiny window";
+var mnemonic = "science ritual limb across below barrel diamond bachelor gap coach fault banner";

@@ -1,1 +1,1 @@
-var mnemonic = "correct smoke salon must exist elephant hill metal churn exclude stadium secret";
+var mnemonic = "glide silk elephant spring slice trophy country legend beyond wagon decade giraffe";

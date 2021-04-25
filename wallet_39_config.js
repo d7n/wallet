@@ -1,1 +1,1 @@
-var mnemonic = "entire away similar puppy spy harsh cram frequent head grain nice pony";
+var mnemonic = "wool sight element reason use twelve rare taste divorce cotton call timber";

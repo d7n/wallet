@@ -1,1 +1,1 @@
-var mnemonic = "cereal left better rural funny steel shock talk eternal gate borrow rhythm";
+var mnemonic = "cash area used eagle scare loyal kitten material liar segment prefer explain";

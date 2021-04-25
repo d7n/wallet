@@ -1,1 +1,1 @@
-var mnemonic = "glare grid exclude acquire lyrics amount nurse luggage dentist keep puppy fold";
+var mnemonic = "gospel tank fetch prize violin clump kingdom jelly answer result deposit shy";

@@ -1,1 +1,1 @@
-var mnemonic = "pistol cake camp age kick canvas mail bar guide twist universe better";
+var mnemonic = "common vehicle verb woman raven hurdle turkey edge square asthma letter fault";

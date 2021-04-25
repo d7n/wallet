@@ -1,1 +1,1 @@
-var mnemonic = "speed illegal picnic seminar mail creek auto junior celery penalty stereo timber";
+var mnemonic = "raven random trophy digital mushroom situate this tongue ask please diary away";

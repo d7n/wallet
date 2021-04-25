@@ -1,1 +1,1 @@
-var mnemonic = "spend skull item hazard blouse unit wear inherit all twelve gorilla stairs";
+var mnemonic = "patrol wild gym theory crew auto before lottery capable ignore speak famous";

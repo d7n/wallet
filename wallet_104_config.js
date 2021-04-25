@@ -1,1 +1,1 @@
-var mnemonic = "sleep nose maximum stuff salad hurry six label isolate gesture left turkey";
+var mnemonic = "reveal future choice remove airport shrug girl witness lunch mercy gate cluster";

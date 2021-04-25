@@ -1,1 +1,1 @@
-var mnemonic = "lava test exhibit appear enable tortoise spawn visual moon tone fresh arrow";
+var mnemonic = "coffee novel repeat category ball pill purse depend moral next chat buffalo";

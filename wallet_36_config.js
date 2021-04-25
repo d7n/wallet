@@ -1,1 +1,1 @@
-var mnemonic = "hockey rare kitchen copy pool rally average eternal shed sad express soft";
+var mnemonic = "boat response off valley expect bottom diamond fetch track fitness average maze";

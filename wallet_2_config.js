@@ -1,1 +1,1 @@
-var mnemonic = "nest injury mosquito destroy ring power spatial genius border double slab shed";
+var mnemonic = "lock twelve achieve measure miracle swift matrix play quiz rotate random measure";

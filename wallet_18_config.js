@@ -1,1 +1,1 @@
-var mnemonic = "lobster anger hover pride survey nuclear list drink help transfer satisfy company";
+var mnemonic = "evoke reduce gate visa bless holiday pulse afraid melt crazy rural demand";

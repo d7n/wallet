@@ -1,1 +1,1 @@
-var mnemonic = "fault salon salon inherit unique anxiety barrel riot stage fringe absorb october";
+var mnemonic = "vibrant office code rally test family dizzy shove scrub travel right office";

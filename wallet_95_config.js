@@ -1,1 +1,1 @@
-var mnemonic = "retire horse random ranch park ethics promote empower coffee topple present aim";
+var mnemonic = "deer credit weather ice input orbit spirit expand laundry poet lady once";

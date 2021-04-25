@@ -1,1 +1,1 @@
-var mnemonic = "shiver figure cage medal alone review magic gasp toddler omit snack spend";
+var mnemonic = "today myself false until jacket perfect burst vast sound monster betray million";

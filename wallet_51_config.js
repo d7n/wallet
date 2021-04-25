@@ -1,1 +1,1 @@
-var mnemonic = "shoe write wire weasel rice squirrel still chase obey vast any warfare";
+var mnemonic = "onion flee deposit drive peasant mesh rally father north carbon dignity lock";

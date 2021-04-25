@@ -1,1 +1,1 @@
-var mnemonic = "divert hen valley code ceiling drum jump report clip peanut craft online";
+var mnemonic = "easily hub shock blood corn online obscure year among crane carbon update";
