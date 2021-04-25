@@ -1,1 +1,1 @@
-var mnemonic = "target pole you say pink rather whisper stand crystal tribe giraffe ugly";
+var mnemonic = "grief luggage stomach horse radar cube illegal predict loyal arctic shift cradle";

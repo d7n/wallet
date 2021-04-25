@@ -1,1 +1,1 @@
-var mnemonic = "jaguar section indicate power cup wave twenty spider school someone kite version";
+var mnemonic = "sketch recall once bus tilt swarm mixed like canal mango afraid fossil";

@@ -1,1 +1,1 @@
-var mnemonic = "bike original shine consider drip update limit pave news kick tired bench";
+var mnemonic = "gauge army news return ritual nose lake early matter galaxy purpose mosquito";

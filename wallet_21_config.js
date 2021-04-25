@@ -1,1 +1,1 @@
-var mnemonic = "pulse cost rotate measure horn picnic decade apple resist rate meat acoustic";
+var mnemonic = "rain bring area gesture elephant unusual bonus actual mass dizzy glad welcome";

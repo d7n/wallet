@@ -1,1 +1,1 @@
-var mnemonic = "brick shine silent news float bulb bomb kiwi rival slam pill reward";
+var mnemonic = "spring evolve all glow giant cattle learn gun yard bamboo add nurse";

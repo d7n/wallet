@@ -1,1 +1,1 @@
-var mnemonic = "narrow wage collect horn review exclude where sense rack duck tomato crop";
+var mnemonic = "salmon try stadium general eyebrow clip leader chef rail tuna stool fresh";

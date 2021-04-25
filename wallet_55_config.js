@@ -1,1 +1,1 @@
-var mnemonic = "weather syrup menu mouse flee license scatter virtual sea liquid weapon bacon";
+var mnemonic = "rice kit street diet decade maid eagle crop empty peanut napkin limit";

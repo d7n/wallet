@@ -1,1 +1,1 @@
-var mnemonic = "napkin party huge quantum circle soft regular soft drink also layer curtain";
+var mnemonic = "cradle safe virtual trip flash arrange afraid worth unaware stage unusual circle";

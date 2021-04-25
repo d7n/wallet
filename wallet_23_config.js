@@ -1,1 +1,1 @@
-var mnemonic = "bounce member flush wool cement assume video judge company outside wave say";
+var mnemonic = "square dice unusual kitchen remind vital harsh stable lesson rescue friend comic";

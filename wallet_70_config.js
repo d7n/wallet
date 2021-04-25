@@ -1,1 +1,1 @@
-var mnemonic = "joke reunion sand lab thunder come earn divert risk flight jar topple";
+var mnemonic = "subway park cream pact board symbol piano license body chaos embark fitness";

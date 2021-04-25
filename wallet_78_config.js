@@ -1,1 +1,1 @@
-var mnemonic = "place strategy pool cute deny clerk slogan walk punch small mushroom turn";
+var mnemonic = "loan kitten limb vocal yellow genre vague artist crawl very six spray";

@@ -1,1 +1,1 @@
-var mnemonic = "hybrid situate brief thunder cabin fantasy want drift inside cool elegant raven";
+var mnemonic = "million amused wine tourist eagle reunion rally dress wine melt reject eye";

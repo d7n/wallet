@@ -1,1 +1,1 @@
-var mnemonic = "zebra follow tube lobster lens labor fork volume north sibling print limb";
+var mnemonic = "glimpse sample ability sad grab carbon judge clerk stem pitch dinosaur beauty";

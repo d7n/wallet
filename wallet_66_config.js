@@ -1,1 +1,1 @@
-var mnemonic = "apart warm item grain spread garbage symptom chalk salute dinosaur orchard liberty";
+var mnemonic = "escape question crop riot pen pill burger hockey side away man raven";

@@ -1,1 +1,1 @@
-var mnemonic = "test cluster travel actor owner napkin now calm possible one buddy click";
+var mnemonic = "man kitten cute mandate correct bid patch system swing file globe middle";

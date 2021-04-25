@@ -1,1 +1,1 @@
-var mnemonic = "potato october bundle inquiry creek lottery minimum inmate toy endless olympic tail";
+var mnemonic = "forest spot stomach firm people foster board pause primary mass march snake";

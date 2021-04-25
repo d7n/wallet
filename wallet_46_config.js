@@ -1,1 +1,1 @@
-var mnemonic = "unveil keep crime wrist clerk sauce innocent guilt badge broccoli dash apart";
+var mnemonic = "brisk country nerve fold jewel furnace junior obvious dance one month pride";

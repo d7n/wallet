@@ -1,1 +1,1 @@
-var mnemonic = "debris waste razor silent appear dish century pelican dawn card fox write";
+var mnemonic = "permit faculty unit analyst visual swap confirm easily find february water ethics";

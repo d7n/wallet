@@ -1,1 +1,1 @@
-var mnemonic = "obtain bamboo cook hurt bomb perfect cattle text fee crush glare memory";
+var mnemonic = "nothing essay resemble version gym glad mystery spatial carry file thing mail";

@@ -1,1 +1,1 @@
-var mnemonic = "below plastic humor vast isolate nurse try strategy balcony excite skirt lesson";
+var mnemonic = "horn marine desk mandate desert romance glue win hammer average subject height";

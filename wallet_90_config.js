@@ -1,1 +1,1 @@
-var mnemonic = "trim flash trend mule result seminar ankle portion ball ticket reveal peace";
+var mnemonic = "lounge slab bicycle eagle pelican pet town light announce balcony episode return";

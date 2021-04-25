@@ -1,1 +1,1 @@
-var mnemonic = "ghost fork strategy elite install debris sing follow goose access custom cage";
+var mnemonic = "relax around sleep other baby holiday else various hundred license off field";

@@ -1,1 +1,1 @@
-var mnemonic = "hobby define include snap jump lava film scheme isolate universe safe level";
+var mnemonic = "peasant distance what believe deposit focus welcome eye year draft panda lawn";

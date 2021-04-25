@@ -1,1 +1,1 @@
-var mnemonic = "wife apart capital soup lunar bubble cigar sketch fiction swap better clinic";
+var mnemonic = "amount hood glide priority video occur churn donkey cactus action what coast";

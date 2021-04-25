@@ -1,1 +1,1 @@
-var mnemonic = "soup beyond chalk digital goose agree talent jaguar escape area exclude raccoon";
+var mnemonic = "faith stem capital security just arena mimic hotel era zero taxi arrest";

@@ -1,1 +1,1 @@
-var mnemonic = "together license treat scout move inquiry ramp bitter note settle fiction busy";
+var mnemonic = "salt reunion crucial choice certain strategy box giant music chaos welcome item";

@@ -1,1 +1,1 @@
-var mnemonic = "bus leisure describe lawn minimum solar occur brain fix type file mixture";
+var mnemonic = "inhale link audit crush artefact valley nut soldier isolate material sword cinnamon";

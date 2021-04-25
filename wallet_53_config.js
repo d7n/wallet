@@ -1,1 +1,1 @@
-var mnemonic = "pistol invite foil tourist blind dry transfer often federal grain craft chuckle";
+var mnemonic = "fork tube happy supply beauty clip pulse arrow join enroll strike verb";

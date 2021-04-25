@@ -1,1 +1,1 @@
-var mnemonic = "jewel neglect camera time punch claim carbon remain unit there matter carpet";
+var mnemonic = "into funny awake receive magnet impulse combine daughter crew holiday affair marble";

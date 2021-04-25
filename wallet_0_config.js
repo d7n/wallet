@@ -1,1 +1,1 @@
-var mnemonic = "sentence tape mushroom add when best clean impose slide satisfy wonder summer";
+var mnemonic = "remain farm dwarf industry dinosaur plunge salad genre garbage autumn property open";

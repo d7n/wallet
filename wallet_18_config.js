@@ -1,1 +1,1 @@
-var mnemonic = "auction correct helmet crater output extra rubber describe wood staff aim floor";
+var mnemonic = "normal human over crime ladder wolf fit limb planet syrup assume element";

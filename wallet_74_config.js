@@ -1,1 +1,1 @@
-var mnemonic = "first moon boring fence tell dial oblige birth glimpse moment armor before";
+var mnemonic = "enough portion over act laptop solid wood busy ahead summer diary notice";

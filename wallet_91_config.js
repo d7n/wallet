@@ -1,1 +1,1 @@
-var mnemonic = "crumble excess frame artist assume hammer loud city dizzy man risk trash";
+var mnemonic = "minor boss aim awkward this become piano ball main lake brick leopard";

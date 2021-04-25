@@ -1,1 +1,1 @@
-var mnemonic = "under aerobic asthma quiz december flat planet derive castle disorder judge era";
+var mnemonic = "cancel bone net question country jealous ghost idea shadow boost orchard brass";

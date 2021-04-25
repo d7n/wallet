@@ -1,1 +1,1 @@
-var mnemonic = "social shine couch confirm reform area screen dish fiction card pyramid shove";
+var mnemonic = "april leg view uncover whip horn vehicle report buzz symbol hurt picture";

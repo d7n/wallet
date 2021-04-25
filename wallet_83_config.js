@@ -1,1 +1,1 @@
-var mnemonic = "honey supreme dove pyramid game hold defense another lesson jaguar real omit";
+var mnemonic = "garbage resource sweet light like light small glad feel convince nest daring";

@@ -1,1 +1,1 @@
-var mnemonic = "erosion captain wrong that infant kit rule comic multiply ranch tomato sketch";
+var mnemonic = "ramp also spend canyon merry fossil rally riot offer display prepare shell";

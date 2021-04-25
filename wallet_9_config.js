@@ -1,1 +1,1 @@
-var mnemonic = "bicycle envelope blouse reveal observe fame mandate sense claim mixed size seek";
+var mnemonic = "win twice cancel shrimp inch ride earth gym surface legend virus check";

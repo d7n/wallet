@@ -1,1 +1,1 @@
-var mnemonic = "symptom wedding boat decorate crater always inquiry enter avocado buddy erase calm";
+var mnemonic = "dice option squeeze gesture buffalo manual bird rain fit clog whip crime";

@@ -1,1 +1,1 @@
-var mnemonic = "phrase minor arrow grid gold web camera various uncover clarify divide evolve";
+var mnemonic = "display claw success south menu submit wet since raw scrap solid symptom";

@@ -1,1 +1,1 @@
-var mnemonic = "actor found audit beauty panda empower arch climb erase leopard lift repeat";
+var mnemonic = "pipe purchase sauce there coyote pizza bargain man catalog marine arrange begin";

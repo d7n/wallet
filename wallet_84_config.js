@@ -1,1 +1,1 @@
-var mnemonic = "million nut manage toy off zebra dune guess toddler domain crystal better";
+var mnemonic = "pulp error huge slice gauge because audit explain control jewel run live";

@@ -1,1 +1,1 @@
-var mnemonic = "inflict wrap word dynamic seat plate isolate focus spice sadness lonely physical";
+var mnemonic = "panic denial scorpion poverty great decrease solve step armor rival comfort burger";

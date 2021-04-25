@@ -1,1 +1,1 @@
-var mnemonic = "present few sunny wonder seven put inflict parent roof direct surface snack";
+var mnemonic = "sniff fiber century armor dog guide gold scan wing anger reason brush";

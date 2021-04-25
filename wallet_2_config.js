@@ -1,1 +1,1 @@
-var mnemonic = "mimic possible enrich change buyer common orange loop state solution balcony build";
+var mnemonic = "fire space circle flavor fiber unknown fork rail upgrade next urban myth";

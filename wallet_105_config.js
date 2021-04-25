@@ -1,1 +1,1 @@
-var mnemonic = "give shed garlic grab law system firm stairs always rug jewel world";
+var mnemonic = "print ten used ivory slide album identify swear upset point joy carbon";

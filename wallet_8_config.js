@@ -1,1 +1,1 @@
-var mnemonic = "shallow mail judge myth park subway display winter crunch runway antique humble";
+var mnemonic = "crime grace yard year clump among warfare light grief tenant flush absorb";

@@ -1,1 +1,1 @@
-var mnemonic = "bottom hold attitude antenna order middle focus chalk math glance truth antique";
+var mnemonic = "flock patient stuff life language term bike snow rural hover layer morning";

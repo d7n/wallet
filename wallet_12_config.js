@@ -1,1 +1,1 @@
-var mnemonic = "festival trash guide bean month peace local neither curtain canvas sponsor skirt";
+var mnemonic = "dinner journey real chimney dash arrest reduce one hen bargain sister pulse";

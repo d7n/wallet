@@ -1,1 +1,1 @@
-var mnemonic = "youth burden chat fiction cross miss garbage bright base ceiling rural brother";
+var mnemonic = "neutral summer leaf off record scatter flush gasp range caution toy quarter";

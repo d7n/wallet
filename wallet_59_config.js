@@ -1,1 +1,1 @@
-var mnemonic = "funny item hire step quality dish couple pupil south rain meat squeeze";
+var mnemonic = "corn bitter pudding two lounge cabin tackle defense team census latin oxygen";

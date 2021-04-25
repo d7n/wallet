@@ -1,1 +1,1 @@
-var mnemonic = "need where market arrive extra travel release autumn fall mimic apology million";
+var mnemonic = "oblige sister clap result delay region tomorrow game olympic draw ready lake";

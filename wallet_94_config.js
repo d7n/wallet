@@ -1,1 +1,1 @@
-var mnemonic = "dish chat weather apart brief safe slush cover final print comfort zero";
+var mnemonic = "inherit spin upset forum celery trial pitch system immense bus mouse ceiling";

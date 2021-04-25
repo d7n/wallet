@@ -1,1 +1,1 @@
-var mnemonic = "cluster math river royal spell split switch label fit tongue era shop";
+var mnemonic = "above duck blind warfare claim joy coin other avoid mom photo extra";

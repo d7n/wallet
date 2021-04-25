@@ -1,1 +1,1 @@
-var mnemonic = "crawl sport goddess winter gospel stay plunge pyramid auto mistake thought taste";
+var mnemonic = "favorite fashion tag during garment settle flush cherry snap shiver kangaroo sting";

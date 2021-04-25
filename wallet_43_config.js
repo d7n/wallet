@@ -1,1 +1,1 @@
-var mnemonic = "normal debate bless know talk hire identify diamond record wreck pudding net";
+var mnemonic = "secret onion delay cram robot outdoor erosion fish stone adjust govern clutch";

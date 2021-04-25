@@ -1,1 +1,1 @@
-var mnemonic = "wreck collect home bracket effort scorpion grace issue solve step connect omit";
+var mnemonic = "song quiz farm become sick junk piano inside april armor adjust turtle";

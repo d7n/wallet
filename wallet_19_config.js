@@ -1,1 +1,1 @@
-var mnemonic = "elephant smart exact orchard rebel tongue clown shy fat ice sun interest";
+var mnemonic = "small happy skate opera cluster crystal festival dutch whale heart grass empty";

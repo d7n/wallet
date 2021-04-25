@@ -1,1 +1,1 @@
-var mnemonic = "lyrics appear index element blind pistol retreat diary tooth palace uniform special";
+var mnemonic = "evoke fitness garage benefit eagle client exact delay crowd novel interest dismiss";

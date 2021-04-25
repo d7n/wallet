@@ -1,1 +1,1 @@
-var mnemonic = "sustain puppy danger label embody cube seek shell dream jaguar hero hand";
+var mnemonic = "labor chest sauce smile dilemma approve erode actor rain medal peace soon";

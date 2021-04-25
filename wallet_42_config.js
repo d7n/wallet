@@ -1,1 +1,1 @@
-var mnemonic = "sausage virtual throw flush stable save hazard maid item butter job sing";
+var mnemonic = "load grape easily execute veteran admit apart remain left they fame language";

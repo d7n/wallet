@@ -1,1 +1,1 @@
-var mnemonic = "position gravity announce frozen hammer solve motion marine visual keen expire tone";
+var mnemonic = "month juice hair crunch crumble need dynamic slim giggle author vintage harsh";

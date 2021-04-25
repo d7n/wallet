@@ -1,1 +1,1 @@
-var mnemonic = "crowd offer fuel mimic master liquid later slogan surround farm blossom unveil";
+var mnemonic = "setup eagle run miss sure infant library mimic art olympic tide disagree";

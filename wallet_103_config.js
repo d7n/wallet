@@ -1,1 +1,1 @@
-var mnemonic = "ridge butter voyage junk frost female march depend ten smooth state angle";
+var mnemonic = "volume print isolate float pumpkin dice joke gain girl viable clinic denial";

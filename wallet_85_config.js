@@ -1,1 +1,1 @@
-var mnemonic = "alert profit direct found purpose arm castle humble lottery clap deputy similar";
+var mnemonic = "story swamp humor front october fall chase attitude sad edit neutral radio";

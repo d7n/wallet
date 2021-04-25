@@ -1,1 +1,1 @@
-var mnemonic = "praise unusual hungry define find cloth moment forest cruel card piano able";
+var mnemonic = "digital chalk provide receive tiger normal float into boring claim pumpkin concert";

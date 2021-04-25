@@ -1,1 +1,1 @@
-var mnemonic = "dose maid shuffle casual balcony face wave unveil eagle napkin detail carry";
+var mnemonic = "predict panther today cat gasp puppy rebuild rack aerobic truth female guard";

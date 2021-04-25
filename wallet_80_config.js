@@ -1,1 +1,1 @@
-var mnemonic = "bicycle evolve afford love cushion alcohol delay pretty world retire destroy dignity";
+var mnemonic = "orphan quarter combine travel neutral mind rice express jungle title myth weekend";

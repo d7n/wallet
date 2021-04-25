@@ -1,1 +1,1 @@
-var mnemonic = "silk panda bicycle tiger artwork draw rapid cake dry junk cruise settle";
+var mnemonic = "coffee keen baby electric share result rookie sting famous okay speed credit";

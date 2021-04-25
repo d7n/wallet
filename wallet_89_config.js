@@ -1,1 +1,1 @@
-var mnemonic = "goose cactus year wolf physical blade snow dumb turn sing vague chuckle";
+var mnemonic = "inside case script loan catch buyer rhythm junior analyst chef casual prefer";

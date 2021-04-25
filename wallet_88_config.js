@@ -1,1 +1,1 @@
-var mnemonic = "praise lemon inmate crash rebel erase tongue alone benefit differ giraffe nation";
+var mnemonic = "popular snake clerk skirt shallow market spin analyst dizzy ceiling year merge";

@@ -1,1 +1,1 @@
-var mnemonic = "police illegal engage baby rally hint regret small faculty hand enroll build";
+var mnemonic = "mention bomb believe fog hip spell skin style very real seat empty";

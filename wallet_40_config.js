@@ -1,1 +1,1 @@
-var mnemonic = "clip father replace useful glare degree cruel survey bind wood put dragon";
+var mnemonic = "paddle belt fever middle morning extra glance salad leave dynamic deer best";

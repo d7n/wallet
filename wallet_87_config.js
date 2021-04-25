@@ -1,1 +1,1 @@
-var mnemonic = "oppose rate draft truck else size friend matter level sing maze humor";
+var mnemonic = "state stem clean trim carbon focus language welcome absorb shove nerve question";

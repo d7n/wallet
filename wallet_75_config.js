@@ -1,1 +1,1 @@
-var mnemonic = "mass drift fox below camp end bulk thumb ridge crush pair tilt";
+var mnemonic = "timber forward install boat cart between session shallow polar today critic vessel";

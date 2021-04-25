@@ -1,1 +1,1 @@
-var mnemonic = "pelican puppy add curve curious tell proof update observe federal rotate shine";
+var mnemonic = "you tree expand lawn height retreat fortune ancient solid antenna olympic royal";

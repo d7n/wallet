@@ -1,1 +1,1 @@
-var mnemonic = "fan will staff gasp truck ball arch chimney protect rebel unique deer";
+var mnemonic = "boil card mirror dinner toward price now wear mistake daughter predict law";

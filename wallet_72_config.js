@@ -1,1 +1,1 @@
-var mnemonic = "faint ivory verify flock speed razor comic slender pride wrap sing defense";
+var mnemonic = "deer great kit flower insane sort oblige erupt canal clean solid laugh";

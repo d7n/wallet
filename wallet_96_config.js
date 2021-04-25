@@ -1,1 +1,1 @@
-var mnemonic = "lock piano cook critic clown typical harsh rhythm noise sight soccer scrub";
+var mnemonic = "gather cup rose sniff favorite quit solve ice second seek rack cradle";

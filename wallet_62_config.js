@@ -1,1 +1,1 @@
-var mnemonic = "chapter cigar city depend pioneer gloom dizzy segment history problem enter tool";
+var mnemonic = "man online toilet flat spoil rough fire mail paper venture prison lawn";

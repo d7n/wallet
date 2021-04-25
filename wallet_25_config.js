@@ -1,1 +1,1 @@
-var mnemonic = "dolphin must angle stove glass drink decade chicken lion soul race trial";
+var mnemonic = "under innocent worry tumble merit leaf have eyebrow segment prosper nominee marriage";

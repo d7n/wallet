@@ -1,1 +1,1 @@
-var mnemonic = "clever alien route mother wonder rib salute world job sister tired know";
+var mnemonic = "height electric scissors solution juice endorse ladder fatal skirt betray orange uphold";

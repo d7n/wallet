@@ -1,1 +1,1 @@
-var mnemonic = "bachelor spell position lyrics connect nurse hockey slush solar second panel crystal";
+var mnemonic = "brief ship sudden size ramp discover elite shell cinnamon liquid thrive truth";

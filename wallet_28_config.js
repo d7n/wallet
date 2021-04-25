@@ -1,1 +1,1 @@
-var mnemonic = "resource upgrade below pool brown used violin peace pear acquire welcome jaguar";
+var mnemonic = "summer village inner vital finish desk rural resist episode energy defy crash";

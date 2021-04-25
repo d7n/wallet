@@ -1,1 +1,1 @@
-var mnemonic = "plunge slot detail human adult dog number gas spatial sentence loud lyrics";
+var mnemonic = "gold basic sell weekend pipe letter diamond post multiply excuse rail cousin";

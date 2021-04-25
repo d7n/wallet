@@ -1,1 +1,1 @@
-var mnemonic = "uniform doctor famous width still life record gospel swear cream flash appear";
+var mnemonic = "help boost gap purse auction unknown refuse believe frame jewel focus interest";

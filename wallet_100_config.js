@@ -1,1 +1,1 @@
-var mnemonic = "wrestle casual utility noble flat coral circle wait erode tray oppose mammal";
+var mnemonic = "clarify champion ski twist income swamp tenant lonely chicken piano minimum gloom";

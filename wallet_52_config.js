@@ -1,1 +1,1 @@
-var mnemonic = "fold brain rapid ethics twelve burger solve kitchen sword gain hour reflect";
+var mnemonic = "myth oil move account rug theory hunt now know hedgehog reopen draw";

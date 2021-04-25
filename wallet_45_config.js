@@ -1,1 +1,1 @@
-var mnemonic = "bike path horror below anchor code garlic palace awkward coconut motion surprise";
+var mnemonic = "elbow real pill mix quantum caution picture rival lamp orbit hurry enlist";

@@ -1,1 +1,1 @@
-var mnemonic = "hollow razor yard long monkey elephant man run mosquito prefer woman trip";
+var mnemonic = "since loud shine pave fitness sad sign spare shift guess flock mechanic";

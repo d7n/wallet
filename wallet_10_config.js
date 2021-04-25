@@ -1,1 +1,1 @@
-var mnemonic = "quiz absorb save mouse company jewel flat fury paddle disease possible shy";
+var mnemonic = "travel cancel soul reform latin ostrich diesel common gain noodle broken burden";
