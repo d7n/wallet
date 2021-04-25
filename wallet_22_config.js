@@ -1,1 +1,1 @@
-var mnemonic = "hand divide local lake anchor school switch kangaroo empty below crumble link";
+var mnemonic = "garment jelly twist universe lobster practice swap raw tide found hope treat";

@@ -1,1 +1,1 @@
-var mnemonic = "climb doctor ignore drink mandate impose cannon evolve keep frog detect solar";
+var mnemonic = "jelly target position void true basket ceiling vibrant body expand frequent beyond";

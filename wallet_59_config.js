@@ -1,1 +1,1 @@
-var mnemonic = "culture forget popular hundred bone disagree engine bundle nut update dry glass";
+var mnemonic = "notice moon cat guilt emotion purse express make fatigue sadness attract coffee";

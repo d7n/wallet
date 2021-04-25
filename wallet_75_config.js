@@ -1,1 +1,1 @@
-var mnemonic = "harbor enrich jazz smile swear ozone scorpion foot general pigeon atom flat";
+var mnemonic = "stool middle peace bean neck stone spring wedding crowd expose pioneer craft";

@@ -1,1 +1,1 @@
-var mnemonic = "neglect expire online wet lucky vocal stuff credit erode prevent leaf copper";
+var mnemonic = "miss state this define table sign journey fat genuine hotel project talk";

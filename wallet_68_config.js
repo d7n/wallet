@@ -1,1 +1,1 @@
-var mnemonic = "moral danger danger resemble journey junk knock hand edit dismiss agree focus";
+var mnemonic = "test web toe donor flip defy lake document vicious play coast swift";

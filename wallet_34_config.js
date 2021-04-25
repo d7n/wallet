@@ -1,1 +1,1 @@
-var mnemonic = "left caught enhance remain shy problem lunar post wall giant follow soccer";
+var mnemonic = "fly brass tattoo clip matter little cat muscle school throw number canyon";

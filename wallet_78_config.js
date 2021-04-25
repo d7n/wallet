@@ -1,1 +1,1 @@
-var mnemonic = "great two melt skull analyst visit intact distance admit faith drift chat";
+var mnemonic = "pet pair across trumpet parent attract museum glimpse reward upon kind lens";

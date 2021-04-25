@@ -1,1 +1,1 @@
-var mnemonic = "math right organ clip jealous soup route picnic kit monkey method around";
+var mnemonic = "stumble butter drop hard double weird wagon later glue humor square across";

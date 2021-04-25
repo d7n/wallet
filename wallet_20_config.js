@@ -1,1 +1,1 @@
-var mnemonic = "umbrella toe hybrid ozone wagon echo eyebrow vibrant bottom adapt skill mixed";
+var mnemonic = "law tree day tattoo duck state typical regular axis weird program bread";

@@ -1,1 +1,1 @@
-var mnemonic = "code clutch run siege forward shoulder please basic trust that best rent";
+var mnemonic = "dog return pencil pioneer nasty plunge know country asthma brave review zero";

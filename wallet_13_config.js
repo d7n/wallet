@@ -1,1 +1,1 @@
-var mnemonic = "agent noodle coconut priority wild fatal brush cheese element kit excuse churn";
+var mnemonic = "course smoke arrow warm direct perfect thank village tooth pyramid predict picture";

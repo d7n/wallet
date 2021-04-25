@@ -1,1 +1,1 @@
-var mnemonic = "then ranch special renew green iron ramp rather fuel tilt rice fortune";
+var mnemonic = "spring rapid tragic chicken dream van loop few undo left curve staff";

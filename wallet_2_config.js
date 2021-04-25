@@ -1,1 +1,1 @@
-var mnemonic = "humor roof safe wolf noise caution that basic attitude unique infant general";
+var mnemonic = "object ring east joy heart area fog actual stadium cigar flock parade";

@@ -1,1 +1,1 @@
-var mnemonic = "mobile outdoor about gaze dance obtain govern present junk globe brief later";
+var mnemonic = "elder wood update brush awkward unhappy outer teach setup spot witness wedding";

@@ -1,1 +1,1 @@
-var mnemonic = "desert solution skull long renew obtain left wheat turkey damage inherit ankle";
+var mnemonic = "combine black foil that obtain solid crime shadow cabbage size innocent iron";

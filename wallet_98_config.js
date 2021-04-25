@@ -1,1 +1,1 @@
-var mnemonic = "time hen dinosaur poverty father scene book gift bleak direct square genre";
+var mnemonic = "abstract retreat vacuum tip giraffe maple neck slim possible unit episode skill";

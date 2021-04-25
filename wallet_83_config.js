@@ -1,1 +1,1 @@
-var mnemonic = "melody slim artwork awkward you mansion wing lumber ski oak winner wash";
+var mnemonic = "duck express text viable depend improve wish radio lava bounce dawn inside";

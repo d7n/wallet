@@ -1,1 +1,1 @@
-var mnemonic = "caught two tenant husband lottery sting horror dilemma grace health amused affair";
+var mnemonic = "cruise amused moment chimney trend surprise defy power false rose erase endless";

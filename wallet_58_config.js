@@ -1,1 +1,1 @@
-var mnemonic = "artwork neutral pupil success safe egg problem chuckle lunar rifle fluid open";
+var mnemonic = "pulse banana young punch vault oak excess detect beef summer kiwi curious";

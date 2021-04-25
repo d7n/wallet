@@ -1,1 +1,1 @@
-var mnemonic = "nothing swim shield put cash erase muffin wrestle breeze swim piece trend";
+var mnemonic = "sense borrow ankle zone bone degree finish ceiling toddler phone option corn";

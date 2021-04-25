@@ -1,1 +1,1 @@
-var mnemonic = "matrix open absurd rebuild sponsor valid apart educate wide earn title magnet";
+var mnemonic = "fresh soccer elbow slush jump pattern mutual sea world such lift unfair";

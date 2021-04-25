@@ -1,1 +1,1 @@
-var mnemonic = "novel inhale select enemy stool destroy journey govern siege suspect income weasel";
+var mnemonic = "spy odor mutual trap soap syrup blur sketch useful begin vapor fiscal";

@@ -1,1 +1,1 @@
-var mnemonic = "finger taste display super donate roast guess welcome orphan deal circle opera";
+var mnemonic = "leg office scissors social current defense shoe inner wedding heart world fatal";

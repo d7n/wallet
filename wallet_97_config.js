@@ -1,1 +1,1 @@
-var mnemonic = "lyrics wagon maximum long trash axis kitchen runway this top grab butter";
+var mnemonic = "art innocent fox plug retreat size sweet key horn gravity resemble gospel";

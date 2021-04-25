@@ -1,1 +1,1 @@
-var mnemonic = "jacket notable spell glide half soldier lamp you divide margin start picnic";
+var mnemonic = "attitude retreat stage group cream dutch omit foot fat license already stool";

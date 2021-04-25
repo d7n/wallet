@@ -1,1 +1,1 @@
-var mnemonic = "fiber evoke walk marine media fury federal plunge pigeon battle talent away";
+var mnemonic = "orchard fork twenty ladder shoot then sponsor donor unfair quote gaze swift";

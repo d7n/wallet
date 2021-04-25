@@ -1,1 +1,1 @@
-var mnemonic = "wall erode captain similar wet mail pepper waste jar diet tone kid";
+var mnemonic = "elegant problem monitor farm rail distance coconut hurry slush desert jealous noble";

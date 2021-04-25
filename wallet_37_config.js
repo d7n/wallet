@@ -1,1 +1,1 @@
-var mnemonic = "round oyster rookie absent hip couple rare suggest evil aisle kidney stage";
+var mnemonic = "all pretty surface survey entire celery attitude trumpet town ball veteran sell";

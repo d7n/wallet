@@ -1,1 +1,1 @@
-var mnemonic = "cake duty planet rail humor during knock hover april between razor cricket";
+var mnemonic = "brass find size fish tissue sphere accuse fee pudding major axis develop";

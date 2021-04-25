@@ -1,1 +1,1 @@
-var mnemonic = "century attack wash absorb heart ball denial charge despair sausage puzzle attend";
+var mnemonic = "ozone reunion edit rich audit lazy bless curve laptop same battle act";

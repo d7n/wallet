@@ -1,1 +1,1 @@
-var mnemonic = "ritual master crisp perfect captain hazard mobile decade sibling isolate mimic fresh";
+var mnemonic = "strong month behind open use slow enforce invite expire beyond federal power";

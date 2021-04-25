@@ -1,1 +1,1 @@
-var mnemonic = "stone begin inquiry summer visual potato laptop admit equal blood shock actor";
+var mnemonic = "camera loop ship drama among true pigeon pair chimney blur farm mobile";

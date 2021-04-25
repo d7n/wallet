@@ -1,1 +1,1 @@
-var mnemonic = "enrich abuse thought tool country response saddle practice setup suspect cradle absurd";
+var mnemonic = "service inflict person prison trust author limit suit tired axis poem stable";

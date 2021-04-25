@@ -1,1 +1,1 @@
-var mnemonic = "mutual robust walnut satisfy mean fiction enter body sad mind allow wall";
+var mnemonic = "rose team share nurse void monkey cruise act dutch relax emotion foster";

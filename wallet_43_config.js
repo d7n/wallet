@@ -1,1 +1,1 @@
-var mnemonic = "liberty door bridge stadium nephew cruel cereal century long outdoor view level";
+var mnemonic = "assault trigger immune august lava smooth kiwi code sponsor buyer motor celery";

@@ -1,1 +1,1 @@
-var mnemonic = "rifle exclude boy chair utility asthma become shoe board purchase hard antenna";
+var mnemonic = "fold grape recall stove enact recycle skill reopen universe glimpse crime stem";

@@ -1,1 +1,1 @@
-var mnemonic = "degree wolf main eternal feed siege boat country actress split mountain suit";
+var mnemonic = "can pave tiger emotion umbrella shiver skull first armed deny degree bread";

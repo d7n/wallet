@@ -1,1 +1,1 @@
-var mnemonic = "void agent detail real nerve powder object deal usage develop soul achieve";
+var mnemonic = "rug night shock cabin bunker lens episode truly potato chunk melt claw";

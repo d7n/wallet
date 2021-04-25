@@ -1,1 +1,1 @@
-var mnemonic = "dash theme whip upgrade wing kick case absent clean razor napkin sadness";
+var mnemonic = "marriage lobster forum little wasp blade area forum jealous rally motor waste";

@@ -1,1 +1,1 @@
-var mnemonic = "cash pretty employ photo unknown lawsuit quiz magic copy frame pupil sudden";
+var mnemonic = "indicate vibrant crane eyebrow awesome ill pumpkin loan frequent stable fresh custom";

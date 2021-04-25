@@ -1,1 +1,1 @@
-var mnemonic = "artefact suggest notable flip guide diet embody easy scene door wolf jungle";
+var mnemonic = "hint pact lobster level card purity awake zone style member tenant idea";

@@ -1,1 +1,1 @@
-var mnemonic = "flash term purpose slight pattern ready fork favorite vanish excess release exercise";
+var mnemonic = "odor dawn segment obey voyage dash trip sauce pigeon wasp admit rally";

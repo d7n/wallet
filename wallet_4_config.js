@@ -1,1 +1,1 @@
-var mnemonic = "cactus spare include city nuclear above manual change render kid tag debris";
+var mnemonic = "goddess biology blouse bunker inspire wasp correct normal hammer dose over grocery";

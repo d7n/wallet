@@ -1,1 +1,1 @@
-var mnemonic = "wear pact tackle parade end humble enemy athlete quality file hip laundry";
+var mnemonic = "sign time mystery garage bread grow receive decrease address spoon bounce royal";

@@ -1,1 +1,1 @@
-var mnemonic = "annual turkey ugly case gun injury orient town joke cherry fury middle";
+var mnemonic = "ask laundry rookie enroll cradle aunt arm riot brave canvas forest surface";

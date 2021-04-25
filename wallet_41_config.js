@@ -1,1 +1,1 @@
-var mnemonic = "ring kit thought hurdle speak baby gesture skull panic still stone vacuum";
+var mnemonic = "glass reunion dose wrestle once eye consider wood slab put stage magnet";

@@ -1,1 +1,1 @@
-var mnemonic = "caution stamp cereal prevent expose luggage blue gasp inflict bitter below honey";
+var mnemonic = "shy chief ramp tooth dinosaur huge unique recipe simple tree feature abstract";

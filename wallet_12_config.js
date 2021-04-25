@@ -1,1 +1,1 @@
-var mnemonic = "barely wealth atom electric used female answer walnut protect heart skirt hub";
+var mnemonic = "raise napkin cover matrix bird butter olive dial crop mouse museum own";

@@ -1,1 +1,1 @@
-var mnemonic = "deputy brisk chase decade sauce exit clean fatigue surprise tragic galaxy elite";
+var mnemonic = "sword tumble army travel one main quick paper focus possible width damage";

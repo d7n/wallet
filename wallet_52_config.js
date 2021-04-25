@@ -1,1 +1,1 @@
-var mnemonic = "asset shoot brush gloom wire slender novel notable match board industry capital";
+var mnemonic = "kangaroo tone safe cloth art despair panther tackle erase check diamond judge";

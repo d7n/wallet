@@ -1,1 +1,1 @@
-var mnemonic = "gaze resist coffee breeze fox nerve entry certain monster paddle fun sort";
+var mnemonic = "point volcano base away domain mountain list found exist foot genre frown";

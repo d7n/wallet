@@ -1,1 +1,1 @@
-var mnemonic = "destroy plate medal squeeze already runway float quick success half phone slender";
+var mnemonic = "lend escape fringe grab agent industry body trim hamster olive kite expose";

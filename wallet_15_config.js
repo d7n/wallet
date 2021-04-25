@@ -1,1 +1,1 @@
-var mnemonic = "element push ripple derive radio kitchen defense believe develop measure beach trim";
+var mnemonic = "swift nephew sniff yellow polar point section parrot script brand kit undo";

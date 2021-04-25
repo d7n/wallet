@@ -1,1 +1,1 @@
-var mnemonic = "tiger kidney mammal have critic figure isolate hint diagram mouse gauge pool";
+var mnemonic = "energy federal cargo fluid glue drama review clap boy gym fetch soup";

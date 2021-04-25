@@ -1,1 +1,1 @@
-var mnemonic = "settle bundle name limb nasty rebuild such average churn cigar mom flash";
+var mnemonic = "market famous explain token balance share hazard town harsh armor decrease crack";

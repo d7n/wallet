@@ -1,1 +1,1 @@
-var mnemonic = "melt close cupboard stay doll armor airport okay fiscal filter ice skull";
+var mnemonic = "gather shallow blanket best record ball endless try ordinary pencil stereo wine";

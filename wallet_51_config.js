@@ -1,1 +1,1 @@
-var mnemonic = "caught move stand cabin cruel ghost depth breeze place monkey index feed";
+var mnemonic = "foil easy excite female risk fog spawn nephew muscle happy hard three";

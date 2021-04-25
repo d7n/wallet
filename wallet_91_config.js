@@ -1,1 +1,1 @@
-var mnemonic = "hurry dish seven hole boring solar fever raw enter again boy gesture";
+var mnemonic = "flower lady baby famous jealous cinnamon never champion script census night ring";

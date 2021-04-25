@@ -1,1 +1,1 @@
-var mnemonic = "burden member episode view short nothing spider airport alcohol turn royal husband";
+var mnemonic = "oppose loud alley school suggest axis south prosper bless write father tongue";

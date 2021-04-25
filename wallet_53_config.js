@@ -1,1 +1,1 @@
-var mnemonic = "holiday bamboo clever olympic post fragile bomb stuff spare catch swift certain";
+var mnemonic = "gauge merit text demand snap thrive crop better useful spend loud symbol";

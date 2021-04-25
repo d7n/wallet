@@ -1,1 +1,1 @@
-var mnemonic = "humble blush hood tail village pumpkin news pluck suffer pigeon uncover price";
+var mnemonic = "ten satisfy minute orbit first clump amused cluster canoe shoot battle turkey";

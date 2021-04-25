@@ -1,1 +1,1 @@
-var mnemonic = "nominee lend improve order rice weapon plate quiz guilt announce music decade";
+var mnemonic = "balcony sight escape divert blame right power want three bounce toy wrist";

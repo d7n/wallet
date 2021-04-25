@@ -1,1 +1,1 @@
-var mnemonic = "document depend whip subway push thought amazing fog pencil middle snake avocado";
+var mnemonic = "split room double again cereal organ hospital glare walnut afford super again";

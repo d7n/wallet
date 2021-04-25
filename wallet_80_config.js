@@ -1,1 +1,1 @@
-var mnemonic = "own equip ladder fish fancy tornado dove allow brown myself inform vast";
+var mnemonic = "visa piano fall cancel entry oyster hurry charge business wood oxygen they";

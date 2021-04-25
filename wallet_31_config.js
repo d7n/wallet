@@ -1,1 +1,1 @@
-var mnemonic = "cigar bachelor funny penalty olympic flight blur enrich comfort allow royal rail";
+var mnemonic = "struggle clinic option document you mouse orient describe return husband kidney reason";

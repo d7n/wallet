@@ -1,1 +1,1 @@
-var mnemonic = "nerve task guess barely volcano lady under firm quiz excess left gain";
+var mnemonic = "lottery dragon excess jar leaf brisk room virtual ecology ostrich harbor inflict";

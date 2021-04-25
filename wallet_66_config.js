@@ -1,1 +1,1 @@
-var mnemonic = "solve diagram vintage best pact attract baby patient remain move snow absurd";
+var mnemonic = "unaware bar spend tide case pluck target bid where paper retire whisper";

@@ -1,1 +1,1 @@
-var mnemonic = "winner gold drink fit brave rhythm person news used error pretty awake";
+var mnemonic = "rocket job swap rebuild fuel list tuna rely raven cotton cabbage embrace";

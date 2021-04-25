@@ -1,1 +1,1 @@
-var mnemonic = "hungry gather purpose debris garment brick satoshi fluid build spare spawn ready";
+var mnemonic = "pizza syrup business draft wine render forget prosper effort else spice enough";

@@ -1,1 +1,1 @@
-var mnemonic = "jazz flip cactus clever blush merry present crash midnight sort avoid pact";
+var mnemonic = "urban census august again achieve change village visual paper relief adjust joke";

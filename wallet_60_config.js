@@ -1,1 +1,1 @@
-var mnemonic = "help present spice mimic lock elephant bullet wash choice web suggest source";
+var mnemonic = "smoke awful shine clown insect birth before morning hungry neglect crystal bacon";

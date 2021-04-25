@@ -1,1 +1,1 @@
-var mnemonic = "style riot kangaroo token decide any excite utility stadium rebuild curtain minor";
+var mnemonic = "curious toast wife hen monster into develop oval device gym claw cash";

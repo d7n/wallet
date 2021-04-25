@@ -1,1 +1,1 @@
-var mnemonic = "finger fit vibrant suit runway under victory bus security inquiry digital rib";
+var mnemonic = "boost apart anxiety stomach annual spike rubber electric display possible bench alarm";

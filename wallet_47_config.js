@@ -1,1 +1,1 @@
-var mnemonic = "switch donkey grief insane music fuel country number install resist wrist trim";
+var mnemonic = "sample already battle square they guitar glue injury chuckle repeat ankle wear";

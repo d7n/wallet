@@ -1,1 +1,1 @@
-var mnemonic = "noble ancient emerge cat album buddy rescue bus scare work hedgehog prepare";
+var mnemonic = "kingdom various need silent used leave snack sadness sad online reopen style";

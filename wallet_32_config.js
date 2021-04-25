@@ -1,1 +1,1 @@
-var mnemonic = "shallow work swing speak gravity food intact avocado mom excuse nut chest";
+var mnemonic = "short before slender tag traffic october stairs bar path injury region iron";

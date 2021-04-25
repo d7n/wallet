@@ -1,1 +1,1 @@
-var mnemonic = "bronze scare wire cave board update lake blossom athlete sing sweet prison";
+var mnemonic = "donkey just myth slender today rival exact space praise wash rhythm license";

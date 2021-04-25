@@ -1,1 +1,1 @@
-var mnemonic = "other resist focus call valve outside drama during jelly coach void flavor";
+var mnemonic = "always tiger tent garlic estate label recycle window south eager bar prefer";

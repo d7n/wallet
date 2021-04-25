@@ -1,1 +1,1 @@
-var mnemonic = "mosquito hub negative below volcano empty hurdle congress parent craft city enjoy";
+var mnemonic = "kangaroo about rhythm month bicycle scale rich pass crime doll lawn flag";

@@ -1,1 +1,1 @@
-var mnemonic = "build welcome cry solution chimney swallow wear pave across melt cause fabric";
+var mnemonic = "sausage oyster cart hedgehog boss furnace increase brother donor normal sheriff cash";

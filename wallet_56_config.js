@@ -1,1 +1,1 @@
-var mnemonic = "elephant plate spice drop twice habit dirt dwarf acid rival slush wait";
+var mnemonic = "rubber indoor piece follow squirrel honey october abuse salute supply donate cushion";

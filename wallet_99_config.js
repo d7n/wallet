@@ -1,1 +1,1 @@
-var mnemonic = "hazard feature cactus when verify rate define danger enforce hero toy silver";
+var mnemonic = "mango broom divide female gain scout lazy title candy stay bench slice";

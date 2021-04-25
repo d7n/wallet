@@ -1,1 +1,1 @@
-var mnemonic = "identify science lamp gauge dream oppose that mask retreat coast sadness enhance";
+var mnemonic = "pledge income dinosaur crane eternal need obtain height use wisdom acoustic group";

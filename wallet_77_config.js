@@ -1,1 +1,1 @@
-var mnemonic = "delay crop company region original inner garlic used noble dizzy resist exile";
+var mnemonic = "embody crawl reform camera space west fetch upgrade morning again joy number";

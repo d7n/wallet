@@ -1,1 +1,1 @@
-var mnemonic = "present jungle silk divorce rare night donor visual chaos urge stem decrease";
+var mnemonic = "suit trouble adjust mixed trumpet news maid stuff beef enjoy chunk slot";

@@ -1,1 +1,1 @@
-var mnemonic = "hidden half possible pulse attend grain dress ice rapid shaft build mixture";
+var mnemonic = "select crane illness version believe minute galaxy aunt fade auction indicate sign";

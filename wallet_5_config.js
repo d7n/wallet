@@ -1,1 +1,1 @@
-var mnemonic = "neutral fox gift keen winter inch view build never broken fee someone";
+var mnemonic = "void door dice element cattle reopen clinic uniform similar calm regret brand";

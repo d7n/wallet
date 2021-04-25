@@ -1,1 +1,1 @@
-var mnemonic = "entire yellow lesson silent prepare ridge tool rug mistake detect mammal current";
+var mnemonic = "mushroom frozen arrow tomato usual eye aunt final talent crop already copy";

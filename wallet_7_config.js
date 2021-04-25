@@ -1,1 +1,1 @@
-var mnemonic = "atom know number rocket afraid wool ostrich cause stereo moral south alarm";
+var mnemonic = "dilemma keen guilt truth obey canal police remove coast clip derive park";
