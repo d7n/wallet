@@ -1,1 +1,1 @@
-var mnemonic = "sponsor palm wasp diesel hero output index endless bid supply also place";
+var mnemonic = "elephant essay develop proud friend reject boss style repair gain hole need";

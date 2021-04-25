@@ -1,1 +1,1 @@
-var mnemonic = "bargain notable live burst globe lazy smart push crane clock enough pond";
+var mnemonic = "black tenant limb bench lottery fade monster layer own leg bird acid";

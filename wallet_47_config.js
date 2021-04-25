@@ -1,1 +1,1 @@
-var mnemonic = "rally employ snap give scrub fire concert develop early ozone goddess you";
+var mnemonic = "leisure develop trend liar boy board knock barrel risk patrol minute undo";

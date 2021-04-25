@@ -1,1 +1,1 @@
-var mnemonic = "battle main must census action liberty bubble palm ramp always liquid salmon";
+var mnemonic = "wrist gun secret lecture game faint valid later milk famous trade puppy";

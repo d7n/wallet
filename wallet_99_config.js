@@ -1,1 +1,1 @@
-var mnemonic = "crew list town small laugh lawsuit project reveal combine waste one path";
+var mnemonic = "write segment enough live ramp nerve close angry slow cave virtual blame";

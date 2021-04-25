@@ -1,1 +1,1 @@
-var mnemonic = "tortoise enhance bulb crazy shine make sight leopard limb cannon silent poet";
+var mnemonic = "view extra chat wrist element upper wink garden quiz empty sister open";

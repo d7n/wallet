@@ -1,1 +1,1 @@
-var mnemonic = "junk globe whip soon curious awful intact salute stable quick recycle case";
+var mnemonic = "zero blue fog increase squeeze blame human decorate young fruit rely blade";

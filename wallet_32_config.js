@@ -1,1 +1,1 @@
-var mnemonic = "empty thing vague metal trouble seek tornado payment still amazing bike buddy";
+var mnemonic = "crystal stand inspire spice sort allow rhythm way depart resource ozone cram";

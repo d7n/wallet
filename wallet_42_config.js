@@ -1,1 +1,1 @@
-var mnemonic = "cupboard during pluck donate payment family notable nut ivory sweet volume wet";
+var mnemonic = "north swap blast peace sort trigger stage slam post jungle poverty wood";

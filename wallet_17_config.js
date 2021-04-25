@@ -1,1 +1,1 @@
-var mnemonic = "modify hockey axis kit deny nerve oblige behave athlete bunker problem prosper";
+var mnemonic = "during drastic must swing obvious omit robust cannon anxiety grain deposit valid";

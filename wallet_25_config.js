@@ -1,1 +1,1 @@
-var mnemonic = "hill shoe live kick between roast seed draft blind mushroom shop wasp";
+var mnemonic = "mean depend giant test there muffin library nurse device chair rich smart";

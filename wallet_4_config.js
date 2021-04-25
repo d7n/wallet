@@ -1,1 +1,1 @@
-var mnemonic = "panic finish scheme coach icon door october neither fresh choice win rice";
+var mnemonic = "talent disease ready fresh screen soul hen foam mail hundred mass crop";

@@ -1,1 +1,1 @@
-var mnemonic = "erosion soon exclude art raise whip dust smooth stage silver clinic buffalo";
+var mnemonic = "spray acquire push hope window one tired clutch diagram profit model used";

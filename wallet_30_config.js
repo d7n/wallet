@@ -1,1 +1,1 @@
-var mnemonic = "play kitchen key repair obvious powder exchange stay shine reward erupt engine";
+var mnemonic = "unique toilet school powder truth apology buzz want dust blind aerobic mountain";

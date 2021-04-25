@@ -1,1 +1,1 @@
-var mnemonic = "inflict nerve number object again february elegant enhance chef topic access holiday";
+var mnemonic = "fog life ensure bike arctic way slush open ten little kiss dose";

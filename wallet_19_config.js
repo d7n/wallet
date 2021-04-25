@@ -1,1 +1,1 @@
-var mnemonic = "collect cake real dutch pyramid before true pupil reject intact power melt";
+var mnemonic = "goose slab wise power second olive police shallow robust inch promote taste";

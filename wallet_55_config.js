@@ -1,1 +1,1 @@
-var mnemonic = "grant extend history dizzy chief visa often display okay repeat motor reward";
+var mnemonic = "sweet joke render drive tongue cabin amateur truly patient prepare replace eager";

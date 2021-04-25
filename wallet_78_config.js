@@ -1,1 +1,1 @@
-var mnemonic = "program neglect hip mandate pass child wood system bonus situate kiwi swarm";
+var mnemonic = "foam horse split vault portion barely network acquire nominee risk degree kitten";

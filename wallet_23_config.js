@@ -1,1 +1,1 @@
-var mnemonic = "picture job myself hawk worry cancel promote push flame student hour orient";
+var mnemonic = "uncle twenty shield profit else improve ketchup diesel grunt announce grab fruit";

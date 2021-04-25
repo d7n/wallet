@@ -1,1 +1,1 @@
-var mnemonic = "erosion border lift vehicle edit stuff noise bar dust normal mother reopen";
+var mnemonic = "farm saddle scare dinner pet organ pistol quarter swallow arrive second crumble";

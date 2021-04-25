@@ -1,1 +1,1 @@
-var mnemonic = "deputy poem tone theory ill message mother cat vessel palm able mind";
+var mnemonic = "swear secret leave evolve oppose fever rapid divert unfair prison wet pact";

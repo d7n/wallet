@@ -1,1 +1,1 @@
-var mnemonic = "current other lesson raw tragic planet deputy canvas abstract six airport rival";
+var mnemonic = "chapter member wrist market alcohol ill stage walnut slow kangaroo radio loop";

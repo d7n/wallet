@@ -1,1 +1,1 @@
-var mnemonic = "resist camera toe egg impulse mouse wise dash outdoor brand add lava";
+var mnemonic = "leader pupil salon dust basic demise dune average worth chase boring balcony";

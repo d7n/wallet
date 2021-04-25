@@ -1,1 +1,1 @@
-var mnemonic = "fatal shoulder despair mom mimic smoke busy since crop ribbon genius carbon";
+var mnemonic = "awkward vote marine gaze town rice upgrade rice report strike clap fall";

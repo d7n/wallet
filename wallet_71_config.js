@@ -1,1 +1,1 @@
-var mnemonic = "cart hammer latin layer relax sight enter shrug leader skin attend ordinary";
+var mnemonic = "rival outside sad stove race sting scorpion garbage bracket nation later jazz";

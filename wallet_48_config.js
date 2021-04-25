@@ -1,1 +1,1 @@
-var mnemonic = "traffic put lumber okay remove blast trial jelly legend ranch bicycle pause";
+var mnemonic = "antenna trade obey tortoise system wrap staff scatter pet barely cushion suspect";

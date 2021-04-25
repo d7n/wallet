@@ -1,1 +1,1 @@
-var mnemonic = "judge boring noodle identify inquiry select profit demand pear base cream once";
+var mnemonic = "danger apple solution rocket accuse loan vanish credit wreck tree enrich pear";

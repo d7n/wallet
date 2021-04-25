@@ -1,1 +1,1 @@
-var mnemonic = "time magic finish wisdom loan eight depend carbon common dish hedgehog jelly";
+var mnemonic = "mirror meat forget subway feature reward carpet waste win choose review danger";

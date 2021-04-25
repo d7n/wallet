@@ -1,1 +1,1 @@
-var mnemonic = "garlic warm assault state embody receive chaos denial hire stadium relief verb";
+var mnemonic = "banner treat improve panther fine swallow misery attack easily tiny magnet apple";

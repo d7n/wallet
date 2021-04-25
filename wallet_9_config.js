@@ -1,1 +1,1 @@
-var mnemonic = "witness main try luggage try admit drill curtain sustain express legend wisdom";
+var mnemonic = "giraffe early skill blade crack nephew border service rebuild across mosquito flag";

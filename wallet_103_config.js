@@ -1,1 +1,1 @@
-var mnemonic = "just erode basket since false advice pepper ecology arena empty chalk wisdom";
+var mnemonic = "budget innocent venture ticket program spider cake hospital violin limit history vintage";

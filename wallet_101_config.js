@@ -1,1 +1,1 @@
-var mnemonic = "half auto marine stereo snack dish around ankle figure defense emerge clown";
+var mnemonic = "powder milk black spread lake quarter derive laptop spoil submit dish pony";

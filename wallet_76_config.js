@@ -1,1 +1,1 @@
-var mnemonic = "upset amateur cross frost pause giant lazy metal clog drum spring antenna";
+var mnemonic = "junior reward fatal urge impulse scan include switch impulse job supply guard";

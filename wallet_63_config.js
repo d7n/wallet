@@ -1,1 +1,1 @@
-var mnemonic = "pony type lunch monster welcome rug cannon media key brave when regular";
+var mnemonic = "wreck secret tomato easy erupt drama balance impact zoo remember action amount";

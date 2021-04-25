@@ -1,1 +1,1 @@
-var mnemonic = "general expire galaxy erase secret drum pyramid loyal oven poem color series";
+var mnemonic = "annual play alien frame educate matrix material panic jump impact gallery gallery";

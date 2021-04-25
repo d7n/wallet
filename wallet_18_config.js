@@ -1,1 +1,1 @@
-var mnemonic = "olympic promote oven breeze bonus lady jacket garment tank simple defy birth";
+var mnemonic = "earth double vocal sketch tool acoustic diamond utility dizzy rescue peanut virus";

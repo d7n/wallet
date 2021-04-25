@@ -1,1 +1,1 @@
-var mnemonic = "dizzy recycle rely muffin vendor hamster misery feature call marine tuition script";
+var mnemonic = "dignity type wasp disagree dust sun craft sail avoid claw focus carbon";

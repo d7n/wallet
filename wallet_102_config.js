@@ -1,1 +1,1 @@
-var mnemonic = "laptop market crime disorder option version horn bread theory divorce author immense";
+var mnemonic = "know snake element expose dirt oxygen recall crack busy apology warrior wasp";

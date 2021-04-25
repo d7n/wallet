@@ -1,1 +1,1 @@
-var mnemonic = "what festival volume blast mail gauge wear great produce region twice bench";
+var mnemonic = "rival battle smile federal concert foot bundle found sand perfect mystery magic";

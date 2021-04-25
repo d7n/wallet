@@ -1,1 +1,1 @@
-var mnemonic = "where void skill castle hole salt nasty churn health such rich river";
+var mnemonic = "bike mystery alcohol scan write special shrug blame clinic funny region improve";

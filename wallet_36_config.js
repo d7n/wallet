@@ -1,1 +1,1 @@
-var mnemonic = "health unknown aunt dinner pact zoo book open clap anchor toward melt";
+var mnemonic = "upset plate flight camera inflict father furnace gorilla keep climb solid arch";

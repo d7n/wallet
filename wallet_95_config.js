@@ -1,1 +1,1 @@
-var mnemonic = "game hobby crop off lens regular will grape ice maze devote scan";
+var mnemonic = "cause blossom fee banana twenty urge nut trash marine group utility stage";

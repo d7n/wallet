@@ -1,1 +1,1 @@
-var mnemonic = "code scan welcome punch duck critic flag benefit sausage soup hello chronic";
+var mnemonic = "law typical uncover nuclear ship match where lecture blind imitate short sword";

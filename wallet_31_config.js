@@ -1,1 +1,1 @@
-var mnemonic = "chalk pact arena tag expand master foot tired field describe walk frame";
+var mnemonic = "quarter off dignity dawn clean raise embody boy abandon bread enough moon";

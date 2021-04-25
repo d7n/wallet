@@ -1,1 +1,1 @@
-var mnemonic = "supreme improve depart one fault scheme syrup goddess daughter fork song space";
+var mnemonic = "replace captain world practice luggage toe wheel mixture unfold primary civil vessel";

@@ -1,1 +1,1 @@
-var mnemonic = "language little thunder december squirrel agree stadium arm draw length foam flush";
+var mnemonic = "initial scare entire wing rival duck senior air tired impulse glide call";

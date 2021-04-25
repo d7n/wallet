@@ -1,1 +1,1 @@
-var mnemonic = "caution vague remind raccoon penalty hen blast tent choose nest pelican vanish";
+var mnemonic = "offer guitar interest grape east strong upgrade moon firm vibrant wreck virus";

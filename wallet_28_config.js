@@ -1,1 +1,1 @@
-var mnemonic = "man garden convince lottery smile best paper trend fall provide spray setup";
+var mnemonic = "concert blind rigid abstract purchase ready clinic need field bundle diary mystery";

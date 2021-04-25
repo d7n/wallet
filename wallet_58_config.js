@@ -1,1 +1,1 @@
-var mnemonic = "joke fruit useless upon grain pottery must use peace divert table panther";
+var mnemonic = "auction output bullet involve yard inspire flavor clean forget salon dust fantasy";

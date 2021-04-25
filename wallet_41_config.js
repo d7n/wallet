@@ -1,1 +1,1 @@
-var mnemonic = "rack during castle hat potato merry fancy opera match trophy symptom unit";
+var mnemonic = "flush moment bring cloth half trigger hello spice mystery dust survey adapt";

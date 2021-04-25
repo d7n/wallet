@@ -1,1 +1,1 @@
-var mnemonic = "satisfy desert hazard warm pool focus figure place board doctor already awful";
+var mnemonic = "lyrics discover second burst disorder radio desk senior penalty hotel material loyal";

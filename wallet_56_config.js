@@ -1,1 +1,1 @@
-var mnemonic = "artefact enact seat mammal fancy wreck rapid tiny volcano daring impact human";
+var mnemonic = "salad switch sign fish genuine chunk robot kite gospel nasty great frame";

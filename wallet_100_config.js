@@ -1,1 +1,1 @@
-var mnemonic = "balance wine surface pole chapter pilot bacon tonight target aim market clown";
+var mnemonic = "business camera parent slight arm toe section luxury village copy sell assist";

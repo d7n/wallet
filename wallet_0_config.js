@@ -1,1 +1,1 @@
-var mnemonic = "luxury armed ugly cherry urban leader polar submit trophy pair luxury office";
+var mnemonic = "artwork situate music market genuine vapor faculty what riot result rough fat";

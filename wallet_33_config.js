@@ -1,1 +1,1 @@
-var mnemonic = "aware behind grain eight pulse quit gravity planet during inner favorite hope";
+var mnemonic = "sibling latin blush tennis hollow page setup true team treat because season";

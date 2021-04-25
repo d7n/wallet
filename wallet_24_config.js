@@ -1,1 +1,1 @@
-var mnemonic = "endless acquire obtain company prevent boring place horror organ cloth sick blade";
+var mnemonic = "acid document daughter hurdle chuckle click merge sadness quick target timber south";

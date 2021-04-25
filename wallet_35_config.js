@@ -1,1 +1,1 @@
-var mnemonic = "duty idle curtain still trap mouse excite glass recipe uncle level diagram";
+var mnemonic = "fix practice teach candy garment despair churn wise bag buzz decrease direct";

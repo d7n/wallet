@@ -1,1 +1,1 @@
-var mnemonic = "mango render hat scan trip correct wish slogan ostrich penalty antenna stool";
+var mnemonic = "notable border monkey first speed because key muffin enact width dice mixture";

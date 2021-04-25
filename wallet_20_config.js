@@ -1,1 +1,1 @@
-var mnemonic = "giraffe cloud common razor gentle jealous paper child capital shop gospel cram";
+var mnemonic = "beyond south hair oyster quantum example unfair mixture rely build case before";

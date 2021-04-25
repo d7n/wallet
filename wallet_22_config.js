@@ -1,1 +1,1 @@
-var mnemonic = "problem injury steak trick draft unfair enroll vessel confirm merit announce liquid";
+var mnemonic = "reform organ decide asset gallery stamp roast roast wrestle predict alpha ritual";

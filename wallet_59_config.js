@@ -1,1 +1,1 @@
-var mnemonic = "produce clap place athlete trick time six little blanket salute curve stereo";
+var mnemonic = "program west choice bean receive spell scene pigeon brush space join million";

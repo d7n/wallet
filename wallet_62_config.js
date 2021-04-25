@@ -1,1 +1,1 @@
-var mnemonic = "hospital sure action bone expire latin okay payment smile ride doctor crush";
+var mnemonic = "essay loud cost often depth afraid hollow buffalo improve custom stage sell";

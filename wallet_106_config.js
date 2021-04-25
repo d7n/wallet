@@ -1,1 +1,1 @@
-var mnemonic = "tonight fork virtual near cattle student market rude group spring copper forum";
+var mnemonic = "text true wave welcome copy hamster window please guitar tortoise purpose reward";

@@ -1,1 +1,1 @@
-var mnemonic = "tissue distance subway barely protect marriage garment giant use match super used";
+var mnemonic = "clown faculty skill slam breeze winter change grain south capital special crop";

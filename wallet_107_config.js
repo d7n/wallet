@@ -1,1 +1,1 @@
-var mnemonic = "play robust group layer first grass rapid world snow palm other gaze";
+var mnemonic = "thrive weapon finish avocado dad any artefact cloud garage truck bright sugar";

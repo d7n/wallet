@@ -1,1 +1,1 @@
-var mnemonic = "guide fat sugar harbor ball moon material syrup helmet armed region glory";
+var mnemonic = "index human letter surge lava culture gain outer length help pond nice";

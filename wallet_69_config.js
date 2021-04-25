@@ -1,1 +1,1 @@
-var mnemonic = "federal regular twist throw vault uphold two subject breeze south toddler ritual";
+var mnemonic = "sell fruit rabbit float scrap conduct response box call side party fetch";

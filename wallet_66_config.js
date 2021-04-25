@@ -1,1 +1,1 @@
-var mnemonic = "delay great song ball six catalog local state minimum paper dolphin enter";
+var mnemonic = "practice sudden indoor inspire ankle repair mechanic satoshi better print mechanic torch";

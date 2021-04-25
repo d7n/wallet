@@ -1,1 +1,1 @@
-var mnemonic = "october gossip filter lamp champion good obscure tobacco leopard soldier current tide";
+var mnemonic = "brush force desk opera live vibrant stereo segment torch october cry runway";

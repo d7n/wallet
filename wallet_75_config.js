@@ -1,1 +1,1 @@
-var mnemonic = "system debris shrug run fluid leisure logic permit play diet sport small";
+var mnemonic = "common bright hidden recycle state lawn picture knife blast shift laugh west";

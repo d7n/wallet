@@ -1,1 +1,1 @@
-var mnemonic = "bounce bench eagle debate field fortune gravity faculty priority resemble lunar oil";
+var mnemonic = "depart denial civil trust baby pretty blue fade skate motor adjust dry";

@@ -1,1 +1,1 @@
-var mnemonic = "tortoise stool hawk rabbit step absurd cover trial portion tiger mother tree";
+var mnemonic = "raw layer update help pupil husband mom deer praise broccoli cash output";

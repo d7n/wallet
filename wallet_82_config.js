@@ -1,1 +1,1 @@
-var mnemonic = "speed patch enough quarter merit dove subway able patch bird change swallow";
+var mnemonic = "prosper fortune reward future enable brass code click ice siren combine shell";

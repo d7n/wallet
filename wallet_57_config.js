@@ -1,1 +1,1 @@
-var mnemonic = "observe retire decrease foot because tomorrow twelve display fork bird indoor moral";
+var mnemonic = "roof degree fault zero reflect jungle shine arrow female census summer hotel";

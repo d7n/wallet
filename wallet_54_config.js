@@ -1,1 +1,1 @@
-var mnemonic = "leopard census quiz own fix used impact topple hire ill raccoon response";
+var mnemonic = "hurt amazing message scatter what lady fog success find segment adjust goose";

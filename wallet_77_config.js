@@ -1,1 +1,1 @@
-var mnemonic = "loyal talk relief dune small impact area choose run parade sentence clever";
+var mnemonic = "mother subject town sun elegant manage blame quarter print patch lounge wealth";

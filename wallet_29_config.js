@@ -1,1 +1,1 @@
-var mnemonic = "monkey copy problem proof music obtain kit hundred thunder remain radar exercise";
+var mnemonic = "duck regret emotion bronze recycle canoe river bar connect essence diesel convince";

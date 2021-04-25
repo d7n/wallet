@@ -1,1 +1,1 @@
-var mnemonic = "deal never heavy shed middle few jacket spray success scorpion often talk";
+var mnemonic = "brother attend sand observe diet summer hidden load accuse lion spell parrot";

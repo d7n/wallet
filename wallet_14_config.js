@@ -1,1 +1,1 @@
-var mnemonic = "cruel use token nuclear inner pitch shoot make vacant roast nose wave";
+var mnemonic = "only special tourist draw isolate length pride uncover pilot express general worth";

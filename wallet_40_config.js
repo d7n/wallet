@@ -1,1 +1,1 @@
-var mnemonic = "fox hollow outer bring poem pelican galaxy include card inform mouse book";
+var mnemonic = "marriage alert observe object wedding chronic column below update lava story valve";

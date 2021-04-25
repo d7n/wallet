@@ -1,1 +1,1 @@
-var mnemonic = "alcohol shadow bulb stick culture lunar hand estate phrase muscle remind century";
+var mnemonic = "hub brass rate cheese language soup canyon olive height lonely vivid lift";
