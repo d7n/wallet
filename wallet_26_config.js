@@ -1,1 +1,1 @@
-var mnemonic = "audit tissue helmet impose lobster hamster vast riot virtual frozen usual usage";
+var mnemonic = "enrich goat raise month winner donor empty film parade above connect stem";

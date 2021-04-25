@@ -1,1 +1,1 @@
-var mnemonic = "bamboo victory vessel taxi frown organ rail attract knock tackle between boost";
+var mnemonic = "taxi clutch element tobacco guard ancient bubble oppose usual old arrest negative";

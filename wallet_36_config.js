@@ -1,1 +1,1 @@
-var mnemonic = "oven oil maple dwarf garage surprise patient choice thing course shove ahead";
+var mnemonic = "cabin regular answer hollow artefact plate woman bag churn load cheap stone";

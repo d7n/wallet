@@ -1,1 +1,1 @@
-var mnemonic = "casino useless tackle digital say spell crystal volcano hollow above check casino";
+var mnemonic = "sad run trophy autumn remove dynamic insane essay climb alley another payment";

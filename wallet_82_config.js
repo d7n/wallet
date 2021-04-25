@@ -1,1 +1,1 @@
-var mnemonic = "chef master fitness mention strategy improve where need vocal fire earth rice";
+var mnemonic = "beach increase marine fruit whale chair bamboo romance nuclear heavy sight throw";

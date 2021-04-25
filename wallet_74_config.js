@@ -1,1 +1,1 @@
-var mnemonic = "duty diamond pepper youth liberty blind bargain stereo dice nerve reunion random";
+var mnemonic = "plunge rival weapon exit luggage drift alarm spray move approve vendor joke";

@@ -1,1 +1,1 @@
-var mnemonic = "cost fog corn remove dune drama spice output trip damage square walk";
+var mnemonic = "credit cause merge hip provide update case scene brief inform opinion art";

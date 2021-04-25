@@ -1,1 +1,1 @@
-var mnemonic = "room over donate novel erode reunion agree black sound pave useful wheel";
+var mnemonic = "jar warfare pattern ahead retreat limit again idea gown oblige lift supreme";

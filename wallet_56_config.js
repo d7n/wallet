@@ -1,1 +1,1 @@
-var mnemonic = "diagram relax agree quiz diet insect media forest lake hungry become license";
+var mnemonic = "course goose loop point husband junk olympic quiz swap real vacuum budget";

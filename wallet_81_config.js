@@ -1,1 +1,1 @@
-var mnemonic = "beyond early wide crime habit runway disease grit minor impact update gospel";
+var mnemonic = "choose ticket pledge write choice girl answer nerve hub obvious flock invest";

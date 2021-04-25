@@ -1,1 +1,1 @@
-var mnemonic = "extend album gift shallow aerobic host dry ordinary flash check memory purity";
+var mnemonic = "orphan issue fee body pipe atom spring video reward fluid improve crew";

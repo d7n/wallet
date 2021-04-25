@@ -1,1 +1,1 @@
-var mnemonic = "capable ensure basic ankle dove want first fence treat tomorrow palm ill";
+var mnemonic = "sting kick tuna assume pigeon bus solid refuse acoustic margin kit pair";

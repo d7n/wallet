@@ -1,1 +1,1 @@
-var mnemonic = "world later impulse damp slow network fiction only cook rookie uncover sign";
+var mnemonic = "enrich diet useful toddler young boss delay chunk wolf iron angry penalty";

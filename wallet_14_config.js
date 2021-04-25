@@ -1,1 +1,1 @@
-var mnemonic = "february similar priority glad taste fatal police wage chef canal tattoo trophy";
+var mnemonic = "poverty photo method buffalo sample hire puppy nominee exist stamp address fossil";

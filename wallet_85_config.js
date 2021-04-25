@@ -1,1 +1,1 @@
-var mnemonic = "forward october miss mouse behave lizard uphold desert protect canvas relief party";
+var mnemonic = "abstract cart review powder theme canoe thrive dog wire sing solution suggest";

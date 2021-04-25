@@ -1,1 +1,1 @@
-var mnemonic = "similar puzzle fiscal sad brass phrase right behave ritual repeat junior metal";
+var mnemonic = "winter slab agree noble daughter tongue tower coach clever junk plastic please";

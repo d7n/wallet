@@ -1,1 +1,1 @@
-var mnemonic = "student region utility dune gas obtain salon orange concert circle adult super";
+var mnemonic = "demise hen erase message voyage hint exclude trend key laugh ghost change";

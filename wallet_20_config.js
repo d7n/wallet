@@ -1,1 +1,1 @@
-var mnemonic = "drum upon deliver inherit craft print vacuum addict message scene half gallery";
+var mnemonic = "twice moment avoid thrive person damage play swear festival hub caught shoulder";

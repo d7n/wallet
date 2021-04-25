@@ -1,1 +1,1 @@
-var mnemonic = "town audit appear clever sword miss cart unveil habit squeeze kitchen captain";
+var mnemonic = "enable nurse piano depth dress stadium drive festival know express genre they";

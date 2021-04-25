@@ -1,1 +1,1 @@
-var mnemonic = "before unable tube slush because obtain sketch upgrade peasant puzzle clip lift";
+var mnemonic = "extend hunt sword run primary brisk simple fall offer blouse human toss";

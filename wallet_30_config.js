@@ -1,1 +1,1 @@
-var mnemonic = "lesson repeat wrong crowd target illegal host pledge trophy carbon resemble debris";
+var mnemonic = "fly helmet lunar twin news answer because boss upon bunker build club";

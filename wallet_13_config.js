@@ -1,1 +1,1 @@
-var mnemonic = "silly nuclear bright frozen abuse achieve sword boss advice hobby fatal distance";
+var mnemonic = "control update video soap assume sniff depth wet sleep chase want warm";

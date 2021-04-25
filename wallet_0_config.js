@@ -1,1 +1,1 @@
-var mnemonic = "wagon bean abstract remove ability unit garden casual ring garment caught jungle";
+var mnemonic = "company jewel winner ski wrist cave diary poverty sample blame copy color";

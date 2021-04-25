@@ -1,1 +1,1 @@
-var mnemonic = "start noble cactus diesel orbit circle develop shaft combine plate slim anchor";
+var mnemonic = "resource dynamic firm need ghost lunar stock coyote follow piano autumn script";

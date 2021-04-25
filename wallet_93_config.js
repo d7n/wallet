@@ -1,1 +1,1 @@
-var mnemonic = "blanket just glad crack mean outside hungry ticket first consider play ignore";
+var mnemonic = "canal business motor tag opinion absurd helmet upper tomato tree robust tell";

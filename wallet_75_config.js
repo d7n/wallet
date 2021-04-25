@@ -1,1 +1,1 @@
-var mnemonic = "chaos donkey fog east fury scatter appear noise adapt quote south produce";
+var mnemonic = "impose donkey fiction outdoor decrease crowd battle home young unknown donor magnet";

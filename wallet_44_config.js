@@ -1,1 +1,1 @@
-var mnemonic = "school possible acid resemble sausage purse weasel core exist myth jungle cute";
+var mnemonic = "tiny cricket enroll employ achieve input deal vibrant push treat denial eager";

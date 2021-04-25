@@ -1,1 +1,1 @@
-var mnemonic = "recall plastic man frown able blame version deny grape plate senior click";
+var mnemonic = "liberty simple fringe erase power say embrace onion swamp jaguar breeze nature";

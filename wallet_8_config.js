@@ -1,1 +1,1 @@
-var mnemonic = "ethics subject brain smooth bean peace liquid violin alert bridge helmet number";
+var mnemonic = "image intact neutral punch typical wheel report boat pattern there click dawn";

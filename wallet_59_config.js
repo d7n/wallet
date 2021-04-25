@@ -1,1 +1,1 @@
-var mnemonic = "unit glass ugly grab energy security feature black piano river nice clog";
+var mnemonic = "equal rule raven retreat gym promote snow wide into lava enhance blossom";

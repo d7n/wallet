@@ -1,1 +1,1 @@
-var mnemonic = "feed wrestle pistol trip elephant strong enrich poet sudden control disagree become";
+var mnemonic = "join olympic medal hint before empty height burst pluck comic room dutch";

@@ -1,1 +1,1 @@
-var mnemonic = "emerge arch spike domain catalog hour target hand focus report mobile eye";
+var mnemonic = "screen material say limit blade kick observe actor toy sound zone manage";

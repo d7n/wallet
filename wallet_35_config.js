@@ -1,1 +1,1 @@
-var mnemonic = "fiction liar dinosaur aim struggle clog clown hotel bachelor mix again rose";
+var mnemonic = "spend blame index unveil guide icon slush normal boil book reason net";

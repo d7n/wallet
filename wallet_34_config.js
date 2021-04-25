@@ -1,1 +1,1 @@
-var mnemonic = "wrong mesh fiscal couple easily pretty address creek either slogan extend regular";
+var mnemonic = "lumber mistake stamp crawl kidney joke broken disease discover forget expire clip";

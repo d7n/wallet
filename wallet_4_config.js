@@ -1,1 +1,1 @@
-var mnemonic = "spy habit country keen garden motor glad yellow device expand regret salad";
+var mnemonic = "planet text elite corn fiscal oval wage celery mechanic begin burger ocean";

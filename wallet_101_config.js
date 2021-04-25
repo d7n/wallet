@@ -1,1 +1,1 @@
-var mnemonic = "ice jump keen illegal brave skin food devote weapon rare ensure release";
+var mnemonic = "dice hunt tiger dismiss neglect increase erase crawl stairs marine loop situate";

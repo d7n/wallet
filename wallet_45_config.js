@@ -1,1 +1,1 @@
-var mnemonic = "ring find material plastic design help runway journey coffee clap barely annual";
+var mnemonic = "clutch sort provide lawn stove useful real monster verb onion few raise";

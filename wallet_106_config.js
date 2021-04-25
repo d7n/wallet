@@ -1,1 +1,1 @@
-var mnemonic = "style hurt circle engage syrup decide coral tilt slight banana obvious swap";
+var mnemonic = "brave wink expose number improve around paper cute tower top mistake electric";

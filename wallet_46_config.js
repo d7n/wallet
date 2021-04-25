@@ -1,1 +1,1 @@
-var mnemonic = "baby drift envelope lesson gown edge pledge pass original dash grid rifle";
+var mnemonic = "online benefit voyage apple misery nice about depend win put foster kitten";

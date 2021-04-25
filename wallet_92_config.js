@@ -1,1 +1,1 @@
-var mnemonic = "wish bench seat job lawn notable pumpkin tiny early hood innocent trip";
+var mnemonic = "shift virtual cloth setup minute grid bunker stick tourist elbow shallow choice";

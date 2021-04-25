@@ -1,1 +1,1 @@
-var mnemonic = "system spell silent assume deal devote walk illness diamond dance awesome family";
+var mnemonic = "grain meat fat child beach dragon civil pledge buffalo sand offer bubble";

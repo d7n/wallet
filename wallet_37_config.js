@@ -1,1 +1,1 @@
-var mnemonic = "topple artefact grace menu black connect sound power frost hub hub melody";
+var mnemonic = "tray demise theme dice unfair water law scorpion void loop move better";

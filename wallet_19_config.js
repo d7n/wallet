@@ -1,1 +1,1 @@
-var mnemonic = "measure sorry upgrade interest ceiling parent cook name evidence disorder december affair";
+var mnemonic = "bag join subject hobby target vibrant matter swift local envelope stand list";

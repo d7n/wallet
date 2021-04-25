@@ -1,1 +1,1 @@
-var mnemonic = "pet typical amount update tooth confirm jeans select submit water custom position";
+var mnemonic = "pride buyer emotion merry reward celery viable win wire vote club auto";

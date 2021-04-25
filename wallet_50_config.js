@@ -1,1 +1,1 @@
-var mnemonic = "today scrub salt mosquito defense kiwi pave talent cram lemon edit friend";
+var mnemonic = "brother filter dumb screen cliff army degree master syrup glimpse harsh mouse";

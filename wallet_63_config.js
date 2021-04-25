@@ -1,1 +1,1 @@
-var mnemonic = "tray coconut problem dolphin grape chunk finger mansion miss adult romance viable";
+var mnemonic = "august economy chapter phrase finger caught combine bunker snack cloud decline shove";

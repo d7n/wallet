@@ -1,1 +1,1 @@
-var mnemonic = "island bronze spin success awful visual ticket path drastic afford sword warm";
+var mnemonic = "mushroom hazard turtle recall turkey neither distance gaze luxury cream harsh elegant";

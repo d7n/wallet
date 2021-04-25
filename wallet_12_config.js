@@ -1,1 +1,1 @@
-var mnemonic = "gown give borrow throw damp globe proud replace purity caution balcony obtain";
+var mnemonic = "because wear barely large exhaust tail box aerobic destroy palace excuse expose";

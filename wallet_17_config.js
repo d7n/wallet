@@ -1,1 +1,1 @@
-var mnemonic = "endless fault travel trim magnet treat search pink toss solution trial circle";
+var mnemonic = "silly kitten hen basket talent million cable absurd tree way moon track";

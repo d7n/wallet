@@ -1,1 +1,1 @@
-var mnemonic = "merry plug sword detail inhale page pulp leaf subway brave mango rail";
+var mnemonic = "animal voyage light capital unable usage dwarf snow grocery already reward artefact";

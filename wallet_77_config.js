@@ -1,1 +1,1 @@
-var mnemonic = "pudding piano castle hospital prefer ticket nut undo travel used offer exact";
+var mnemonic = "what friend escape scare kidney state inmate flight pledge crime all laundry";

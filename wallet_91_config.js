@@ -1,1 +1,1 @@
-var mnemonic = "eight salute below fold doll aim coral mobile turtle charge office feel";
+var mnemonic = "cabin antique divert poem occur next high run kangaroo avoid draw below";

@@ -1,1 +1,1 @@
-var mnemonic = "pattern web science spawn bone oil weasel manage cute eager lizard happy";
+var mnemonic = "pepper tank shuffle act spot stereo danger bachelor latin utility fluid bench";

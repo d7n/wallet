@@ -1,1 +1,1 @@
-var mnemonic = "juice brush sample divide reward fluid skin alter math physical spirit alien";
+var mnemonic = "neck mammal begin bubble actual volcano cream trumpet minute toss discover victory";

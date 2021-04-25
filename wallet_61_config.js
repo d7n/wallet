@@ -1,1 +1,1 @@
-var mnemonic = "beach hockey property foam sunny slim rapid absent spread question poet hip";
+var mnemonic = "remember armed average awkward project debris congress duty shallow once blush visual";

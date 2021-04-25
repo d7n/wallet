@@ -1,1 +1,1 @@
-var mnemonic = "bird nature route devote aware problem resist frown purse soldier better fly";
+var mnemonic = "limb secret index despair funny spend enhance hurt key salmon same purity";

@@ -1,1 +1,1 @@
-var mnemonic = "adult vital burst just million drill stage stadium turkey habit glory swallow";
+var mnemonic = "spin diet coyote inject certain couple disorder zero body oil plastic funny";

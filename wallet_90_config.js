@@ -1,1 +1,1 @@
-var mnemonic = "arch gather afraid garment senior foam six dinosaur corn business auto surge";
+var mnemonic = "describe scorpion recipe ghost visual census party other glad income favorite sister";

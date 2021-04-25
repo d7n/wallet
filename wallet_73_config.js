@@ -1,1 +1,1 @@
-var mnemonic = "enhance abandon allow hockey solution captain table august giraffe once already edit";
+var mnemonic = "limb divert off thumb hockey student mammal manual cake eagle seminar buddy";

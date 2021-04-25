@@ -1,1 +1,1 @@
-var mnemonic = "film roof shuffle science lock forward metal north cat message shock fruit";
+var mnemonic = "battle fault ripple swamp alley oxygen debate faculty artefact catch right goat";

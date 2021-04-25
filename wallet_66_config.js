@@ -1,1 +1,1 @@
-var mnemonic = "reopen island exit basic front canal allow sleep mother dizzy bar reflect";
+var mnemonic = "satoshi devote chapter inform warm mistake intact scene divorce volume witness board";

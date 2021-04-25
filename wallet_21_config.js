@@ -1,1 +1,1 @@
-var mnemonic = "patrol lab decorate true theme airport swim used lab flee know pole";
+var mnemonic = "hybrid spoil burden robot fault lion mammal comfort pencil card modify tonight";

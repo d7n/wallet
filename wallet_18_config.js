@@ -1,1 +1,1 @@
-var mnemonic = "furnace lyrics silent olive apology athlete around radar spend wrestle empower exist";
+var mnemonic = "critic opera frozen act suspect actor primary someone feature tortoise laugh rent";

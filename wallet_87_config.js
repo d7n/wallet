@@ -1,1 +1,1 @@
-var mnemonic = "pitch spirit obtain defense someone left help apple patch foot display never";
+var mnemonic = "truly music rain soldier mango soft thank noodle net payment shove boy";

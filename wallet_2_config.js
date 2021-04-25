@@ -1,1 +1,1 @@
-var mnemonic = "rotate humor length garbage come outer abandon clog federal brother salon where";
+var mnemonic = "chronic blade satisfy over hello hat island job clap lizard sick maximum";

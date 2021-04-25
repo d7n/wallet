@@ -1,1 +1,1 @@
-var mnemonic = "supreme artwork rate tobacco welcome copy average faith replace inch frequent distance";
+var mnemonic = "behind paper fatigue gentle stone rhythm peanut truly museum craft solution emerge";

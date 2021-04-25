@@ -1,1 +1,1 @@
-var mnemonic = "accuse ill town tennis situate point peace absurd blood cargo alter critic";
+var mnemonic = "magic echo trophy furnace spread glow short initial battle baby margin market";

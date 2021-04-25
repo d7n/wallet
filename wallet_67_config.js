@@ -1,1 +1,1 @@
-var mnemonic = "work country phrase course pipe embark sausage picture toilet recipe fault three";
+var mnemonic = "couple quality funny gauge patrol brave tiny pretty shiver demise there normal";

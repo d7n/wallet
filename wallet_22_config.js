@@ -1,1 +1,1 @@
-var mnemonic = "ankle bird security verb payment fiscal heavy blush van figure toward boss";
+var mnemonic = "noble expand cart sock banana carbon enroll alien task dentist inhale tackle";

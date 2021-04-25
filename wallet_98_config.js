@@ -1,1 +1,1 @@
-var mnemonic = "pledge club phone spray blouse sauce apart jeans ghost canyon label body";
+var mnemonic = "display polar cabbage shield eager valve level bomb predict remember prosper lamp";

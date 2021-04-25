@@ -1,1 +1,1 @@
-var mnemonic = "bulk much narrow violin present hundred ivory dry like wet resemble lava";
+var mnemonic = "prepare another rib able blush recall explain west custom hand engage story";

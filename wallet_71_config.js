@@ -1,1 +1,1 @@
-var mnemonic = "marine behind adjust coil lamp neither drift foil drive useful fork nothing";
+var mnemonic = "oppose unhappy notable favorite keep absurd trash roast erosion yard help silly";

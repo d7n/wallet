@@ -1,1 +1,1 @@
-var mnemonic = "eye wrap cancel raise alley brief build disorder lawsuit galaxy captain alter";
+var mnemonic = "garment wire base occur snack noodle phrase reunion fragile winner wood stool";

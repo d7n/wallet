@@ -1,1 +1,1 @@
-var mnemonic = "pulp corn mystery fun lock expect alarm quality ancient disease acid liberty";
+var mnemonic = "zoo fault occur napkin cabin valid drip divorce rocket useful human bronze";

@@ -1,1 +1,1 @@
-var mnemonic = "north save tuna pepper case bottom chat silent attack special pattern decline";
+var mnemonic = "fly because ocean defy suspect wife merry air fire bind lunch denial";

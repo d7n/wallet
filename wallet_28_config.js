@@ -1,1 +1,1 @@
-var mnemonic = "noodle trust method snake scrap turkey mandate power erosion use excite vapor";
+var mnemonic = "surface panic dawn advice movie decade jaguar amazing hollow course sponsor client";

@@ -1,1 +1,1 @@
-var mnemonic = "dentist syrup warfare genius bitter poem toe service kingdom budget delay topic";
+var mnemonic = "fog exit eager globe punch year famous priority omit wealth raw copy";

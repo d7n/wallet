@@ -1,1 +1,1 @@
-var mnemonic = "armor ill laptop brother profit impact balance peanut spy swarm crouch disease";
+var mnemonic = "unfair put moral advance milk remind wash torch into immense electric elegant";

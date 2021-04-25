@@ -1,1 +1,1 @@
-var mnemonic = "kick chaos action similar extend laptop history knife prepare cry approve ankle";
+var mnemonic = "pilot music stay fix math find enter glory sight aisle notable entry";

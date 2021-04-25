@@ -1,1 +1,1 @@
-var mnemonic = "oven couple regular sweet rich net gorilla require hurdle snow enjoy refuse";
+var mnemonic = "else cart seed found initial add blanket virtual evoke vague ask myself";

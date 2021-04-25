@@ -1,1 +1,1 @@
-var mnemonic = "movie monitor image need misery service domain bamboo delay penalty force lift";
+var mnemonic = "attend regret scout chief castle enough scissors surprise hair wet slam syrup";

@@ -1,1 +1,1 @@
-var mnemonic = "word runway verify often output adult globe interest path soap scatter fortune";
+var mnemonic = "segment velvet apple nephew diet attend prepare march network transfer tuition million";

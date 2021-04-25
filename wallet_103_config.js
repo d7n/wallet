@@ -1,1 +1,1 @@
-var mnemonic = "feed find consider solve height rookie alpha slight unveil taste teach owner";
+var mnemonic = "pudding wire there basic approve february proud cruise cabin shallow harsh excite";

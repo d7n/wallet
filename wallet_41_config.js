@@ -1,1 +1,1 @@
-var mnemonic = "giraffe cat fine hour wisdom supreme round garbage mother laptop dry region";
+var mnemonic = "grass exchange sense attract relax suit hole forum uniform wide betray tree";
