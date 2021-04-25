@@ -1,1 +1,1 @@
-var mnemonic = "lizard relax quantum vanish pioneer word adapt burger banana insane furnace all";
+var mnemonic = "flat zone uncle dog twin visa install disorder street island foam rough";

@@ -1,1 +1,1 @@
-var mnemonic = "wrestle consider spatial husband theory venue wrong short squeeze firm silk assist";
+var mnemonic = "damp pool subject ski need cereal effort rubber surface people glide confirm";

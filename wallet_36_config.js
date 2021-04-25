@@ -1,1 +1,1 @@
-var mnemonic = "verify wheat disorder pluck normal scrub below crisp top lend kite enact";
+var mnemonic = "narrow ocean use bind coyote palm pepper arrow sun add hat park";

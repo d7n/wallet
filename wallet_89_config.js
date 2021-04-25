@@ -1,1 +1,1 @@
-var mnemonic = "quick spider change twice crystal embrace lawsuit near pill menu warfare fiscal";
+var mnemonic = "caught almost sunset ring they nation cause able rigid farm sunny start";

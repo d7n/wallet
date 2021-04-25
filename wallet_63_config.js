@@ -1,1 +1,1 @@
-var mnemonic = "credit cabbage depth bottom weather critic hen advance buffalo know chat infant";
+var mnemonic = "item festival theory worth behind yard oxygen accuse bird annual arena run";

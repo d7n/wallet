@@ -1,1 +1,1 @@
-var mnemonic = "lens arrest force uncover verb option lens course carpet gown stick mother";
+var mnemonic = "seek useless upon execute cricket tent present imitate exhaust cave inside faint";

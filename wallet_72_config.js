@@ -1,1 +1,1 @@
-var mnemonic = "hammer can wolf express insane inquiry peanut end panther awkward idle scheme";
+var mnemonic = "rural puppy share sell bracket invest lab assume rice cabin essay media";

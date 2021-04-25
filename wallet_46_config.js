@@ -1,1 +1,1 @@
-var mnemonic = "tennis large inform merit video banana recall sheriff bounce noodle useless cheap";
+var mnemonic = "viable maze core crouch hungry stem wheel hole boy nothing pond theme";

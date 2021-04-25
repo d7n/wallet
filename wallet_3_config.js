@@ -1,1 +1,1 @@
-var mnemonic = "pole ethics place auto sphere syrup before junior across country involve increase";
+var mnemonic = "flame time cry monster cabin grocery quick mountain relax viable attack tag";

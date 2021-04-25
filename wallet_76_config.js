@@ -1,1 +1,1 @@
-var mnemonic = "arrest race school business arm miracle tail spoil prevent panther film party";
+var mnemonic = "switch immense final mule upgrade result grid carpet like midnight width actress";

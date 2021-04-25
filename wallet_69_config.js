@@ -1,1 +1,1 @@
-var mnemonic = "eternal assist any place canal win nice access oyster duck riot dismiss";
+var mnemonic = "bamboo december equip witness mesh receive fashion second quick volume old polar";

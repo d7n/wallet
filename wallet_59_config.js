@@ -1,1 +1,1 @@
-var mnemonic = "lyrics about basic name light flower razor organ season concert sign ordinary";
+var mnemonic = "hybrid amateur clinic tooth rapid hospital measure discover improve between chest actor";

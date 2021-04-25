@@ -1,1 +1,1 @@
-var mnemonic = "twist lizard soda model wave sand visa absent nuclear asthma opinion olympic";
+var mnemonic = "rally neglect cupboard shoot nature enrich bright happy swarm position twin armed";

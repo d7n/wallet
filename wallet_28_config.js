@@ -1,1 +1,1 @@
-var mnemonic = "extra session stuff ripple vocal duty scene excuse secret paddle pioneer motor";
+var mnemonic = "beyond tomato enough rebel usual token black check seven flight process violin";

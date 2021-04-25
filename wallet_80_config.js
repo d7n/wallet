@@ -1,1 +1,1 @@
-var mnemonic = "shed gasp middle area confirm mass convince vacant elevator stairs help mouse";
+var mnemonic = "weird minute envelope gadget jungle lyrics proof fence ring puzzle test rigid";

@@ -1,1 +1,1 @@
-var mnemonic = "correct priority blast oxygen average oppose arrange zoo loyal final warm eye";
+var mnemonic = "slab carbon joke voice absorb devote hip dad liquid switch spirit eight";

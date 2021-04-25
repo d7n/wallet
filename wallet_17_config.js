@@ -1,1 +1,1 @@
-var mnemonic = "jar theme clay online aim prison infant hybrid spray budget gap subject";
+var mnemonic = "crop sea marine soap pole cake wolf spike want divide dragon manual";

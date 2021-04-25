@@ -1,1 +1,1 @@
-var mnemonic = "liar sustain teach kit manage barely shift price dry royal dinosaur leave";
+var mnemonic = "dilemma video arrow club sure entry ginger staff brick city speak educate";

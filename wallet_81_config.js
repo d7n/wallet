@@ -1,1 +1,1 @@
-var mnemonic = "cannon custom submit chunk soul wave moment quality connect pole prison spirit";
+var mnemonic = "believe cross trial cable empty brain brief gate hub donkey bird nature";

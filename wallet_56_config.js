@@ -1,1 +1,1 @@
-var mnemonic = "surround grab swallow sing welcome airport cry lunar wrestle keep athlete drink";
+var mnemonic = "focus try celery hello faith drop cigar rent erosion wrong fatigue link";

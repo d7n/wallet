@@ -1,1 +1,1 @@
-var mnemonic = "lounge gospel memory usage scrap patient occur chimney auto shove drip bleak";
+var mnemonic = "pumpkin cargo ignore february pause flat sound winner assault firm runway control";

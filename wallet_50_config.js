@@ -1,1 +1,1 @@
-var mnemonic = "language weird wild initial puzzle romance weekend chimney wreck history avocado absorb";
+var mnemonic = "loan giant phone track bicycle cage cradle meadow group mushroom explain awful";

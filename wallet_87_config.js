@@ -1,1 +1,1 @@
-var mnemonic = "sand electric hair kiss slight damp broom vibrant fade position spare emotion";
+var mnemonic = "off pass provide wolf easy act tilt panda crisp prepare ability chair";

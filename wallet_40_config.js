@@ -1,1 +1,1 @@
-var mnemonic = "pass card library donkey today fever antenna law horse transfer bronze cheap";
+var mnemonic = "clown inch target double bitter expire genuine type episode fury guess weird";

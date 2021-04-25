@@ -1,1 +1,1 @@
-var mnemonic = "ability praise brother cruise rifle garbage junk horse ski topple raven ranch";
+var mnemonic = "snack live raven below motor december device scatter foot need issue biology";

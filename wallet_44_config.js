@@ -1,1 +1,1 @@
-var mnemonic = "tell laugh slab sausage immune shove obscure you brick acoustic oppose clown";
+var mnemonic = "electric room input steel edit moon social topic abandon razor board soul";

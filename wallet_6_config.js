@@ -1,1 +1,1 @@
-var mnemonic = "diary jealous rapid prize amateur solid found sample cherry quality spot sausage";
+var mnemonic = "language sugar range carry update abandon brisk success wrist once magnet van";

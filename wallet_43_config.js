@@ -1,1 +1,1 @@
-var mnemonic = "clown face fee wedding decide trend adult later mutual often supply siege";
+var mnemonic = "table social drill loop talent moon anger silly joy burst chimney cousin";

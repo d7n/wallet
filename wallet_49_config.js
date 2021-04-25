@@ -1,1 +1,1 @@
-var mnemonic = "obey civil ship couch meadow legal remember weird level garbage adapt snake";
+var mnemonic = "sadness notice hawk cycle wire price flight celery fan climb rally south";

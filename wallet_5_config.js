@@ -1,1 +1,1 @@
-var mnemonic = "weather clip amazing debate together hill cream such swear runway refuse during";
+var mnemonic = "journey crucial abuse undo input notice ordinary icon nurse clump soda rival";

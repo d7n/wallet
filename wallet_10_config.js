@@ -1,1 +1,1 @@
-var mnemonic = "chalk resemble frown secret paper search slot describe glare surface install allow";
+var mnemonic = "story siege vendor measure lesson loop like future cupboard small glare cereal";

@@ -1,1 +1,1 @@
-var mnemonic = "boost duty antique moment tilt faculty doctor drift clog echo access victory";
+var mnemonic = "radio once pink mansion gloom distance brisk marine bulb taxi useless soft";

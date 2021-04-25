@@ -1,1 +1,1 @@
-var mnemonic = "captain mirror ramp start install setup kingdom fabric magnet tilt blast olympic";
+var mnemonic = "all lottery hazard excess table staff festival business birth oven fetch blouse";

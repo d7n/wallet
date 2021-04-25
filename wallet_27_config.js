@@ -1,1 +1,1 @@
-var mnemonic = "mercy aisle wood mesh mechanic ask token spot confirm bulk bright forget";
+var mnemonic = "goat bulb lecture junior anger debate boat vibrant gravity feature wheel bachelor";

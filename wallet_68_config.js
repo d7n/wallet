@@ -1,1 +1,1 @@
-var mnemonic = "tower soldier square dune raven furnace buzz void exhibit soul dash actor";
+var mnemonic = "laundry wheat access table teach error blur decade south timber grape cradle";

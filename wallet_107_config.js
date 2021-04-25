@@ -1,1 +1,1 @@
-var mnemonic = "regret reflect gorilla task acoustic sibling march special bean slide clap world";
+var mnemonic = "athlete modify taxi desk roof private apple usual number coin unlock buffalo";

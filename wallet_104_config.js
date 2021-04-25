@@ -1,1 +1,1 @@
-var mnemonic = "uncover stone element usage code rhythm crew reflect cliff just animal enter";
+var mnemonic = "bleak hire ladder artefact cruel nature peanut alone exhibit renew habit fit";

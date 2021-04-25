@@ -1,1 +1,1 @@
-var mnemonic = "august female ecology reform cherry canvas depth key only pole pluck twin";
+var mnemonic = "neither inherit pony urban section sketch similar alter venue sauce idea horror";

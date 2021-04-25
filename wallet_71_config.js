@@ -1,1 +1,1 @@
-var mnemonic = "sign smile upgrade loan vote cactus bike battle employ arrow bullet rug";
+var mnemonic = "proud umbrella essence spice asset soldier planet hello knee patient coffee cricket";

@@ -1,1 +1,1 @@
-var mnemonic = "ripple make infant cattle chronic claw average cigar develop pepper diamond grant";
+var mnemonic = "leisure true clay toy pudding inch turn silver rural stock swing suit";

@@ -1,1 +1,1 @@
-var mnemonic = "later muscle idea good skull cook cost olympic fury draft wool skin";
+var mnemonic = "own wonder myself roof remember pepper timber swear wheel junior manage glad";

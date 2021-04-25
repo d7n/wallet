@@ -1,1 +1,1 @@
-var mnemonic = "target february mistake annual exact number buzz shrimp define shock click emotion";
+var mnemonic = "chimney jewel thought gasp pudding error pen mansion pig shove manual jewel";

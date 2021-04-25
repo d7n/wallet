@@ -1,1 +1,1 @@
-var mnemonic = "desert lesson tunnel bicycle second scout wrestle strike infant interest empower confirm";
+var mnemonic = "crucial cradle rapid pause vibrant dream civil nephew donkey soldier glance only";

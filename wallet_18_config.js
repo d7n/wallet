@@ -1,1 +1,1 @@
-var mnemonic = "mistake leopard girl tortoise dose deputy teach fly unlock glory high salute";
+var mnemonic = "remove flavor essay vivid stamp various tip series laugh essay comic frog";

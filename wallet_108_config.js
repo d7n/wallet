@@ -1,1 +1,1 @@
-var mnemonic = "notable useless board regret chalk movie rifle rebel kiss present mirror piano";
+var mnemonic = "fiber arrow wreck drastic cabin car impose bargain burden oil unveil actress";

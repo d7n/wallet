@@ -1,1 +1,1 @@
-var mnemonic = "screen deposit jungle beauty feature oxygen rent engage grab bar bean bicycle";
+var mnemonic = "clinic update click source office beach give ugly code damage amazing athlete";

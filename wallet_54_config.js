@@ -1,1 +1,1 @@
-var mnemonic = "alley opinion cliff cactus oxygen peanut crowd december maze wish neutral rhythm";
+var mnemonic = "orchard ticket about legal ostrich decrease solar idea lamp caught term truck";

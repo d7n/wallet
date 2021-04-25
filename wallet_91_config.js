@@ -1,1 +1,1 @@
-var mnemonic = "cat dragon glimpse page balcony consider jelly uncle muffin what movie later";
+var mnemonic = "fish arctic gift blouse surprise wing gap atom skill tenant expand elegant";

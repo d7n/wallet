@@ -1,1 +1,1 @@
-var mnemonic = "bicycle noodle public kingdom still cupboard six eagle flame chair frozen business";
+var mnemonic = "laundry kick board wrap absorb sound radar minute rival tide rotate layer";

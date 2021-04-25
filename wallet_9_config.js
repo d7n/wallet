@@ -1,1 +1,1 @@
-var mnemonic = "area diagram method siege foam sadness forward vessel client protect force purchase";
+var mnemonic = "scrub royal post whale claim only negative couch grant fix build child";

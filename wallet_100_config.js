@@ -1,1 +1,1 @@
-var mnemonic = "have hour roast science rigid idea size connect pulse guide either flee";
+var mnemonic = "option effort bonus negative swallow anchor there bridge marriage draft tunnel rice";

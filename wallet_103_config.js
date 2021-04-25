@@ -1,1 +1,1 @@
-var mnemonic = "thrive sphere property diary taste figure circle bonus super bullet film clock";
+var mnemonic = "ketchup pledge dune pet other arrest service solve time system daughter away";

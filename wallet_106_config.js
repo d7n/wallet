@@ -1,1 +1,1 @@
-var mnemonic = "close build later tornado goddess champion dawn final lecture peanut ship solve";
+var mnemonic = "snack then rhythm roof fork muscle love symbol mail pull rubber venue";

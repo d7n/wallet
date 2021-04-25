@@ -1,1 +1,1 @@
-var mnemonic = "forum spirit legal diary enlist urban forest suffer decide agree flip filter";
+var mnemonic = "antique tribe annual elbow motor flee only replace before hold choose patrol";

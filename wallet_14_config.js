@@ -1,1 +1,1 @@
-var mnemonic = "style link tail document example pledge priority method meat female gravity funny";
+var mnemonic = "turkey rule language time scorpion wave dragon warfare attack senior alien around";

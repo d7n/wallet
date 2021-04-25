@@ -1,1 +1,1 @@
-var mnemonic = "orbit right orchard approve monitor need venture material zebra ivory dice notable";
+var mnemonic = "entire observe scan gauge brand manage correct bid always solve risk case";

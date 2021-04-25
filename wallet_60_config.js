@@ -1,1 +1,1 @@
-var mnemonic = "boring auto oxygen olive donkey tonight merit unusual judge about people spoon";
+var mnemonic = "time oval able cage lend beauty way loyal window lobster uncle glory";

@@ -1,1 +1,1 @@
-var mnemonic = "affair vessel cable else wall congress hungry galaxy blood anchor peanut angry";
+var mnemonic = "pitch tragic reform evil seat gentle genius arctic theory proof notice donkey";

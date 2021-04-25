@@ -1,1 +1,1 @@
-var mnemonic = "method public vehicle excuse relief win when exotic strong dwarf outer riot";
+var mnemonic = "kit ripple connect assault strategy expect sunset plastic tumble brave present grass";

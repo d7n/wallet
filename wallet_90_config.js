@@ -1,1 +1,1 @@
-var mnemonic = "dune soda disagree right lucky song route endless win legal grape basic";
+var mnemonic = "level taste dune awful total grant scheme gentle educate cupboard vibrant motor";

@@ -1,1 +1,1 @@
-var mnemonic = "brother absorb tube just easily electric october potato engage kidney horror phrase";
+var mnemonic = "trick glare liquid fold distance gorilla march syrup front car fetch tongue";

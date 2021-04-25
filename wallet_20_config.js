@@ -1,1 +1,1 @@
-var mnemonic = "round odor wear auction cross ugly circle gentle purse dry proud present";
+var mnemonic = "quality vapor dilemma wrong front panel expose person depend height sport fly";

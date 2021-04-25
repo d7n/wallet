@@ -1,1 +1,1 @@
-var mnemonic = "control hamster bar mail print recall pottery twist bid solve caught spring";
+var mnemonic = "already leader essay profit sort cool general refuse girl flame elite view";

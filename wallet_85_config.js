@@ -1,1 +1,1 @@
-var mnemonic = "arch pause mom derive hold notable awesome tell pistol fitness pet modify";
+var mnemonic = "oxygen possible penalty hamster gesture image potato across bean convince barrel parent";

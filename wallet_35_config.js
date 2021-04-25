@@ -1,1 +1,1 @@
-var mnemonic = "galaxy welcome domain noise vintage valve wreck scrap benefit force position vacuum";
+var mnemonic = "quantum fury fancy twice noodle clinic window slice cycle output coach crouch";

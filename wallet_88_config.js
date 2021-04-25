@@ -1,1 +1,1 @@
-var mnemonic = "enroll pull cereal example trick easily teach grant six tuna road distance";
+var mnemonic = "earn dumb change average type right human laugh attack vapor knife copper";

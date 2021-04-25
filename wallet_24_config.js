@@ -1,1 +1,1 @@
-var mnemonic = "misery van join coin enact labor jar miss stomach vanish girl beyond";
+var mnemonic = "boost reform sudden hand toe cloth rabbit wide exist resemble pumpkin crowd";

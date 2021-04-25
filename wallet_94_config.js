@@ -1,1 +1,1 @@
-var mnemonic = "rally stable victory exact stamp leisure stove later there notable battle print";
+var mnemonic = "misery embody crew field lend veteran raise mean feature prison mimic begin";

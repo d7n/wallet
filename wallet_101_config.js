@@ -1,1 +1,1 @@
-var mnemonic = "tattoo unknown crucial fee cat olive pyramid final boat brain section picnic";
+var mnemonic = "circle space tuition close olive typical mimic breeze fiber sudden talk ski";

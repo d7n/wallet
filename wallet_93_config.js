@@ -1,1 +1,1 @@
-var mnemonic = "spider century manual immense regret negative purity stumble music scissors hobby despair";
+var mnemonic = "admit blade island bachelor ancient satoshi essence around scrub obey napkin turtle";

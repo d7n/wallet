@@ -1,1 +1,1 @@
-var mnemonic = "pistol ankle trip little dizzy language edge broom series license chimney fancy";
+var mnemonic = "tribe muscle water scan over flag treat beach rocket laundry ivory spot";

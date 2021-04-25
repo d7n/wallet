@@ -1,1 +1,1 @@
-var mnemonic = "machine electric summer logic yard alcohol ripple isolate prevent chicken chef quantum";
+var mnemonic = "inherit faint culture sock replace multiply frozen expect birth saddle end shy";

@@ -1,1 +1,1 @@
-var mnemonic = "chest toss document barely game duck that wave bundle misery crawl hedgehog";
+var mnemonic = "lava cool dwarf interest way romance business tornado wrestle load opinion play";

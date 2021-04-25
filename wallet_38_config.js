@@ -1,1 +1,1 @@
-var mnemonic = "stock balance tank evolve metal coach ladder devote skull eye always sorry";
+var mnemonic = "observe need staff bunker oppose cook annual chimney consider teach century remove";

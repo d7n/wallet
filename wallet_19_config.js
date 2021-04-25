@@ -1,1 +1,1 @@
-var mnemonic = "soft switch cannon orange avocado multiply fiber forget era strike there early";
+var mnemonic = "mercy secret window roast lift advance script fluid actress maid quote sleep";

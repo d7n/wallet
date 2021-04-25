@@ -1,1 +1,1 @@
-var mnemonic = "arm process topic certain debate popular episode blade budget layer security escape";
+var mnemonic = "fold subject day check balcony present soon exit hungry subject square innocent";

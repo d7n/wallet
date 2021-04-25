@@ -1,1 +1,1 @@
-var mnemonic = "gift grocery false quick thank issue pink heart funny fancy column potato";
+var mnemonic = "guide have finish price sight filter super inmate quantum glass host gas";

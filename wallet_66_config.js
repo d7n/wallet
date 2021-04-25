@@ -1,1 +1,1 @@
-var mnemonic = "earth question creek swap wing fold foster gadget final chuckle oblige test";
+var mnemonic = "blouse guitar rifle unfair inhale purity try garage obvious cheese taste waste";

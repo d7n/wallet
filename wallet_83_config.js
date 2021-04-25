@@ -1,1 +1,1 @@
-var mnemonic = "sketch orchard gorilla clip rebuild layer shoe eager gospel attack power inflict";
+var mnemonic = "shadow labor news deal erupt cheap enough expect swim bone ridge tattoo";

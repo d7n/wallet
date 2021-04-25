@@ -1,1 +1,1 @@
-var mnemonic = "normal harsh fatal question index lonely future sword tell donor poverty snake";
+var mnemonic = "vibrant lend urban ecology tissue solution educate laundry round public snap sister";

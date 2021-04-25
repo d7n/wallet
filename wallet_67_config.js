@@ -1,1 +1,1 @@
-var mnemonic = "vivid kiwi draft monster quantum used buddy palm involve uniform rent learn";
+var mnemonic = "there drum layer slide skill magic loan kick broken detect ready luggage";

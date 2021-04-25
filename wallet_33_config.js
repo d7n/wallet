@@ -1,1 +1,1 @@
-var mnemonic = "junk venture mixed game flavor catalog govern engage movie donkey about powder";
+var mnemonic = "card nephew knee improve enforce bulb digital game barely expand valley like";

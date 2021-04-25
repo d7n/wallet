@@ -1,1 +1,1 @@
-var mnemonic = "two funny admit reunion phrase ancient glare today issue borrow same dirt";
+var mnemonic = "sibling runway resemble cancel bicycle witness horse rotate ability another dinner guard";

@@ -1,1 +1,1 @@
-var mnemonic = "hawk denial priority bargain bring inch pizza squeeze fetch badge vacuum rescue";
+var mnemonic = "radar scheme tuition hybrid select error purse thank maximum exact envelope toy";
