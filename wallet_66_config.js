@@ -1,1 +1,1 @@
-var mnemonic = "answer mosquito knock peace green manual immense hobby absurd consider slogan pilot";
+var mnemonic = "vocal cry push minimum setup solid domain south stable water able success";

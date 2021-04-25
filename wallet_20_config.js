@@ -1,1 +1,1 @@
-var mnemonic = "phrase shield obvious spell twice kiss sun water chicken typical pen gospel";
+var mnemonic = "happy taxi combine attend weasel abstract beyond always conduct sense canal across";

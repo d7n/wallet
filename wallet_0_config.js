@@ -1,1 +1,1 @@
-var mnemonic = "view interest oblige unveil umbrella height memory trumpet begin claim okay whip";
+var mnemonic = "zebra chicken warfare order radar language absent fire bar burden chaos uncover";

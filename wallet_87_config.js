@@ -1,1 +1,1 @@
-var mnemonic = "captain monitor success spot popular must lawn wage pony thank glow denial";
+var mnemonic = "dove into donate furnace palace suspect corn library ivory gather either hour";

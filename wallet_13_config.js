@@ -1,1 +1,1 @@
-var mnemonic = "afraid goddess young talk fortune treat version vessel swap skill brass swing";
+var mnemonic = "sound raise silly either old addict card match broom betray goat hungry";

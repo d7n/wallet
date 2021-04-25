@@ -1,1 +1,1 @@
-var mnemonic = "benefit canoe crunch notice fluid earn fancy tonight online fog clean layer";
+var mnemonic = "salt wait hidden moon blade cram myself dash aisle cancel arrange wolf";

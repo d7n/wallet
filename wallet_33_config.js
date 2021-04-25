@@ -1,1 +1,1 @@
-var mnemonic = "repair glass delay neglect tank tornado any record front fresh city duty";
+var mnemonic = "float pupil sand mixed pumpkin scrub edge orchard uphold roast raise grocery";

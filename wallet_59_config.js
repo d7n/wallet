@@ -1,1 +1,1 @@
-var mnemonic = "order evidence release explain place banana pretty bargain grab ski pudding elite";
+var mnemonic = "husband tuna absurd beef roast cupboard ranch ticket net dilemma unveil visa";

@@ -1,1 +1,1 @@
-var mnemonic = "reward tragic minute fly region angry grow income satisfy spoon wheel over";
+var mnemonic = "engine prevent hub camp hamster pulp guess vital you all logic roast";

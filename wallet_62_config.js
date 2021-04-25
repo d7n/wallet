@@ -1,1 +1,1 @@
-var mnemonic = "lesson just current gap hub art aspect domain picnic book argue local";
+var mnemonic = "woman equal limb recall isolate badge fabric omit combine shoot grape bacon";

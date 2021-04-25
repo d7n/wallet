@@ -1,1 +1,1 @@
-var mnemonic = "donate gospel night chase away gold naive recipe option great wear shove";
+var mnemonic = "bacon rack laundry poverty speak bus forget gain damage express impulse grant";

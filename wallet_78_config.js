@@ -1,1 +1,1 @@
-var mnemonic = "hunt better unknown enforce copy crash chapter annual melody pistol dwarf tank";
+var mnemonic = "clever parrot clever heart large lunar elevator number cushion evil unknown empower";

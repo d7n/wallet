@@ -1,1 +1,1 @@
-var mnemonic = "affair omit smooth globe hire powder hold work glass elevator now hat";
+var mnemonic = "hope ensure humor midnight fault jump miss alien federal conduct tip dragon";

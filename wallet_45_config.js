@@ -1,1 +1,1 @@
-var mnemonic = "oppose infant saddle claw charge tunnel mosquito attitude index same trumpet agree";
+var mnemonic = "pass cake sunset tobacco creek become apart issue artwork wood evidence spring";

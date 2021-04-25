@@ -1,1 +1,1 @@
-var mnemonic = "clever talent shield debate course tube jaguar online powder sing useful bone";
+var mnemonic = "ketchup shy pole blood tornado simple special excite soup become garlic attack";

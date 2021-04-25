@@ -1,1 +1,1 @@
-var mnemonic = "labor scatter total chase better alcohol hotel veteran dinner issue doctor gravity";
+var mnemonic = "aisle test sorry eternal gate reject benefit power once index awesome hub";

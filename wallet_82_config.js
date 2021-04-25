@@ -1,1 +1,1 @@
-var mnemonic = "riot reopen license aisle reason snake coral game phrase inflict agent actor";
+var mnemonic = "ice broom hurry forest view farm ghost reveal manage spike rapid turn";

@@ -1,1 +1,1 @@
-var mnemonic = "like mountain carbon act crawl kit scene option domain resemble relax public";
+var mnemonic = "owner rich enforce eyebrow annual throw smart breeze alien feature option around";

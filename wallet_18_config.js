@@ -1,1 +1,1 @@
-var mnemonic = "creek demise speed novel disease work admit illness defy video try heavy";
+var mnemonic = "universe damp burst chase sword vendor iron choose tube element birth profit";

@@ -1,1 +1,1 @@
-var mnemonic = "slender beach fiscal obvious shove empower major gravity book toss boat wine";
+var mnemonic = "million essence scrap nature hour erosion sugar weather true wild skate body";

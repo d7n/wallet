@@ -1,1 +1,1 @@
-var mnemonic = "blast replace scare mountain cushion summer midnight sample current flush border venture";
+var mnemonic = "rail trip witness expire orphan bag hat muffin trust since gentle piano";

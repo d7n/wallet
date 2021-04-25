@@ -1,1 +1,1 @@
-var mnemonic = "code picnic valid era race umbrella veteran pelican heavy unusual crush always";
+var mnemonic = "alley sock divide crystal despair pause subject climb hero property clog travel";

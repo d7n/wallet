@@ -1,1 +1,1 @@
-var mnemonic = "left moral stumble runway pool ahead initial fetch matter follow thing snap";
+var mnemonic = "glue lonely document funny panic rate grain use name tonight flock web";

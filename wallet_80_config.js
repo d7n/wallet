@@ -1,1 +1,1 @@
-var mnemonic = "wrap name opinion spatial thrive guide copy cigar inquiry media equal more";
+var mnemonic = "glance hawk flower vocal zebra asset gorilla once foil clown pole unknown";

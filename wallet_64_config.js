@@ -1,1 +1,1 @@
-var mnemonic = "tortoise answer rabbit resource sausage monitor fever heavy quote range syrup bottom";
+var mnemonic = "web abstract plunge elder economy design uncover marriage theme claw purity student";

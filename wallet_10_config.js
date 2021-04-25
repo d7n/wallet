@@ -1,1 +1,1 @@
-var mnemonic = "rose section segment season lecture cute coral fuel retreat blanket bright parent";
+var mnemonic = "snake cry judge increase present claim potato easy pigeon volume truth moral";

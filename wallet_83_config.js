@@ -1,1 +1,1 @@
-var mnemonic = "bomb trophy melt ill fiction damage riot stomach horror system north feature";
+var mnemonic = "feature text rare flush shrimp zebra squirrel permit better hello morning teach";

@@ -1,1 +1,1 @@
-var mnemonic = "weekend reflect diagram push ski powder wheel convince treat dove joke village";
+var mnemonic = "casual puzzle lamp bunker reflect search over hold blast gas pipe hurdle";

@@ -1,1 +1,1 @@
-var mnemonic = "diamond depth token possible easy sure honey nature gather click swallow ancient";
+var mnemonic = "border coyote purchase prize regular invite diamond tail polar learn slam chronic";

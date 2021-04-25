@@ -1,1 +1,1 @@
-var mnemonic = "clap pole midnight trick leave tunnel busy grid fiber cool joke electric";
+var mnemonic = "fog stand orient tell height opinion inflict later oval mouse six canvas";

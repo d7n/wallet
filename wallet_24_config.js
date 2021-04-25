@@ -1,1 +1,1 @@
-var mnemonic = "proud scrub review width scout uncover license reduce season quiz area pelican";
+var mnemonic = "quarter style put fly baby discover kit era stage vintage above trend";

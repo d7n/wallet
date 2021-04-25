@@ -1,1 +1,1 @@
-var mnemonic = "history sphere rally cabin birth elite tissue joke retire audit home mention";
+var mnemonic = "hammer reduce target rice culture night lemon call emerge hollow fatal also";

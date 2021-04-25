@@ -1,1 +1,1 @@
-var mnemonic = "news switch choice castle slice life expose enact cinnamon else scare rifle";
+var mnemonic = "family cluster guitar odor pact obscure random bubble jaguar deny mobile fan";

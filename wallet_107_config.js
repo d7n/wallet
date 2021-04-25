@@ -1,1 +1,1 @@
-var mnemonic = "caution pumpkin oak abstract vehicle raccoon patch flight alone crop wood crack";
+var mnemonic = "direct punch virus network cruise supply near axis empower soda differ lucky";

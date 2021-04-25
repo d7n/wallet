@@ -1,1 +1,1 @@
-var mnemonic = "blouse skirt gauge win corn dignity better giggle voyage luggage way term";
+var mnemonic = "owner peasant slender security business culture legend loop miss swarm purchase wisdom";

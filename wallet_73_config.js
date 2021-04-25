@@ -1,1 +1,1 @@
-var mnemonic = "amateur isolate stock course friend float output capital pluck profit dizzy color";
+var mnemonic = "party base again odor monitor spoon cruel model about flat add sell";

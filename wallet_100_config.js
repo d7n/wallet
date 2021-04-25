@@ -1,1 +1,1 @@
-var mnemonic = "salute harsh profit bamboo about orient lake wolf service cup stable auto";
+var mnemonic = "space solution someone frog account rubber hen layer annual pitch certain kit";

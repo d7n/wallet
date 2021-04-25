@@ -1,1 +1,1 @@
-var mnemonic = "senior merit logic camera easy hundred child goat bottom traffic walnut girl";
+var mnemonic = "flame evidence stairs fold average gloom twist door blade fit apology age";

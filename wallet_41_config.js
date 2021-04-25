@@ -1,1 +1,1 @@
-var mnemonic = "please twin crazy banner nasty soon razor oval fatal fresh name horse";
+var mnemonic = "scatter fame like smooth unable tortoise retreat reject canal apart cram wire";

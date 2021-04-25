@@ -1,1 +1,1 @@
-var mnemonic = "since field tomorrow excite marble sign buyer tooth patrol process spring lemon";
+var mnemonic = "reason cry climb then sample latin learn wine gaze voyage acoustic choice";

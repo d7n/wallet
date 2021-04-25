@@ -1,1 +1,1 @@
-var mnemonic = "income saddle direct symptom swap tissue recall crew boil brown siege jewel";
+var mnemonic = "slight salute hurdle purity notice olive gown impulse merry either scatter autumn";

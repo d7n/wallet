@@ -1,1 +1,1 @@
-var mnemonic = "liberty nest empty siege cook upper foil message soldier derive talent champion";
+var mnemonic = "fine insect wedding upset mystery twist sample speak pitch adult athlete hollow";

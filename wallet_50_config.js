@@ -1,1 +1,1 @@
-var mnemonic = "dust make custom mirror more vacant royal melody mushroom grab blossom gentle";
+var mnemonic = "essay circle warm never any office notice lake feel resource amused fault";

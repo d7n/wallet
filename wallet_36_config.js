@@ -1,1 +1,1 @@
-var mnemonic = "slight will blast actual shaft gaze gift upgrade raccoon census chase october";
+var mnemonic = "fall entire chicken wheel circle laugh cause imitate hold trap few man";

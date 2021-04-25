@@ -1,1 +1,1 @@
-var mnemonic = "canoe asset weapon letter brisk lift link include merit athlete medal tag";
+var mnemonic = "dove mountain wish diesel maze rotate split black public call reason royal";

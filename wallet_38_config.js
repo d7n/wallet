@@ -1,1 +1,1 @@
-var mnemonic = "mixture elegant hour rack regular police pass car marble profit image slender";
+var mnemonic = "giggle confirm divert middle flat word prevent cherry earth mad pupil era";

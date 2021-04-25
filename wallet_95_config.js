@@ -1,1 +1,1 @@
-var mnemonic = "barrel stomach exchange rookie nothing today skin toast answer sphere forum since";
+var mnemonic = "embrace design catalog style frame seven link tragic crumble quantum submit hair";

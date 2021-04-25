@@ -1,1 +1,1 @@
-var mnemonic = "husband monkey cable talk corn flush acquire patient slow alien run casino";
+var mnemonic = "pigeon virtual usage share sketch brown hat initial gloom avocado feed aim";

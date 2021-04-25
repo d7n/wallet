@@ -1,1 +1,1 @@
-var mnemonic = "area upon argue maximum fat emerge traffic fan kite expire slim coil";
+var mnemonic = "silly thunder daring opinion course coconut kite insane deal captain spider mirror";

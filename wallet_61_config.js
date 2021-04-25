@@ -1,1 +1,1 @@
-var mnemonic = "rent girl ladder later canal level envelope rib onion bread tape cruel";
+var mnemonic = "badge always paper ostrich divorce recall supply way junk track cover word";

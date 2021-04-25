@@ -1,1 +1,1 @@
-var mnemonic = "tone phrase mechanic audit witness merry brick hockey humor host rude become";
+var mnemonic = "hat stadium artwork tattoo toast execute enroll collect cloth enroll awkward bench";

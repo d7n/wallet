@@ -1,1 +1,1 @@
-var mnemonic = "deny define make place wash vote end garment daring exist dirt finger";
+var mnemonic = "elephant expand student farm search amused cute angry hand time slide emotion";

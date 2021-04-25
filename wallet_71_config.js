@@ -1,1 +1,1 @@
-var mnemonic = "tone receive snap credit web grab opinion crew garbage flat ladder forest";
+var mnemonic = "smart embark soap kiss call length evil since silly method place usage";

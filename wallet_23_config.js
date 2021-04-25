@@ -1,1 +1,1 @@
-var mnemonic = "palm job doll minimum genius guitar gym carry glide version fiscal era";
+var mnemonic = "quote vague fortune gym ski travel flower kidney bubble negative sample reveal";

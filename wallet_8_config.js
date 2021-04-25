@@ -1,1 +1,1 @@
-var mnemonic = "switch hotel bench flight laugh tell holiday undo harvest onion open fat";
+var mnemonic = "bar huge slide borrow debate cause ability quit pluck warfare nominee brisk";

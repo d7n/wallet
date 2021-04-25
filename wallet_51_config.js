@@ -1,1 +1,1 @@
-var mnemonic = "tortoise primary merry disorder spray yellow local provide peanut mule sand retire";
+var mnemonic = "endless whip champion jar beef metal antenna merry oil above repeat brass";

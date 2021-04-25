@@ -1,1 +1,1 @@
-var mnemonic = "manual weapon blouse save phone high puppy verify husband polar pizza chase";
+var mnemonic = "mushroom error quit animal ceiling pond chronic firm vibrant muscle canvas island";

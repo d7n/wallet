@@ -1,1 +1,1 @@
-var mnemonic = "bar own brave pigeon label salon author exist slide note degree vicious";
+var mnemonic = "craft brass rifle crack language salute myself filter cat economy buzz dizzy";

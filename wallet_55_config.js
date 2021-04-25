@@ -1,1 +1,1 @@
-var mnemonic = "yard alley clog flash relief great scale crew lake amount wife sure";
+var mnemonic = "bleak teach donate genuine couch deputy usual sustain eager champion fringe joke";

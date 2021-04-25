@@ -1,1 +1,1 @@
-var mnemonic = "adapt force inject donate almost tongue interest chronic coin divorce concert ethics";
+var mnemonic = "reward relax beach can damp warm sell border civil filter old nothing";

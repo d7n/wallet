@@ -1,1 +1,1 @@
-var mnemonic = "dune ecology year jaguar dolphin chronic type egg game embrace make obscure";
+var mnemonic = "below tennis all near visa diary cable rare extend hen kid permit";

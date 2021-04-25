@@ -1,1 +1,1 @@
-var mnemonic = "east olive dumb smart file sing kitchen head wisdom chimney cheap oblige";
+var mnemonic = "road spoil million nuclear fire pig biology carbon talent seed coach rain";

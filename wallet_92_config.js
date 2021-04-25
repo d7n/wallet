@@ -1,1 +1,1 @@
-var mnemonic = "car journey wash slender tree print reveal update dizzy tennis aunt maple";
+var mnemonic = "bird enforce disagree umbrella fiction joy unhappy edge category fiber minute grace";

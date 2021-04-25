@@ -1,1 +1,1 @@
-var mnemonic = "clog fantasy avoid strike maid face noise inspire sense bone awesome genre";
+var mnemonic = "solid admit biology draft gain certain denial extra announce pool angle calm";

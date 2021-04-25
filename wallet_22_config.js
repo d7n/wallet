@@ -1,1 +1,1 @@
-var mnemonic = "brain genre follow liquid bless captain bunker bean uphold rural better amateur";
+var mnemonic = "vacuum flee offer rain nut erosion town sort suggest time story chalk";

@@ -1,1 +1,1 @@
-var mnemonic = "duck invite business adult iron modify copper coin guide husband lazy enter";
+var mnemonic = "inform reunion pill ladder price olympic electric layer scene seek service slice";

@@ -1,1 +1,1 @@
-var mnemonic = "early degree focus eye approve wet glad intact elegant gasp close matter";
+var mnemonic = "frequent innocent cancel dance hammer hero cool food pet jelly omit buzz";

@@ -1,1 +1,1 @@
-var mnemonic = "civil accuse color faint sustain few nominee rubber helmet rookie true assault";
+var mnemonic = "enact rather camera lunch drill peanut unable snake venue tiny dizzy stem";

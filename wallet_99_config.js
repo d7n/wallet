@@ -1,1 +1,1 @@
-var mnemonic = "usage blanket tornado object close shiver filter load cattle doctor lion inhale";
+var mnemonic = "flee purchase chunk hen timber limit magic asset observe slide voice talent";

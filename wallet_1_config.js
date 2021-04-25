@@ -1,1 +1,1 @@
-var mnemonic = "marriage predict coach off raccoon rain kitchen police bean solution much sausage";
+var mnemonic = "broccoli equal wish glove defense coral scout bless message cook kangaroo unique";

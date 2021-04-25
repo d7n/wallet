@@ -1,1 +1,1 @@
-var mnemonic = "raven reform coast sister arrest tell brick spawn quit gather prison season";
+var mnemonic = "employ sheriff grape tunnel empower clay shallow matrix simple put firm idea";

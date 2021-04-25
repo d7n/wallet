@@ -1,1 +1,1 @@
-var mnemonic = "exit example inmate disorder inch witness label sorry chronic scout display illegal";
+var mnemonic = "sphere amount clarify spare enrich purchase hello daring coyote shine anchor over";

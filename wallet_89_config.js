@@ -1,1 +1,1 @@
-var mnemonic = "success mutual twice resemble sunset artefact grab couch bid praise brass dwarf";
+var mnemonic = "festival uphold income grab typical supreme warrior vehicle feel history taste tonight";

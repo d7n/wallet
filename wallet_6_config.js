@@ -1,1 +1,1 @@
-var mnemonic = "group twist romance crash ice rotate rail talent cancel napkin fine run";
+var mnemonic = "duck can chaos float satoshi world satisfy gun shell prepare crawl host";

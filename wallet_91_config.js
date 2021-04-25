@@ -1,1 +1,1 @@
-var mnemonic = "little turn apart subway dog spoil broom know mystery bright below amused";
+var mnemonic = "false ask visit brass tomorrow future village reunion gap oak explain leader";

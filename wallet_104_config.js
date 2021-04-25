@@ -1,1 +1,1 @@
-var mnemonic = "rapid narrow front quality topic fish member soldier cable happy kite skirt";
+var mnemonic = "illegal among anger congress enjoy save sport yard modify noble addict digital";

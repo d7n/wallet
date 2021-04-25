@@ -1,1 +1,1 @@
-var mnemonic = "road pulp supply february essence thunder harsh beach syrup theory float income";
+var mnemonic = "bulk bacon luxury actor occur glass panic build enlist elegant stomach phone";

@@ -1,1 +1,1 @@
-var mnemonic = "thrive flash aerobic fatigue weird better dragon dentist quality ramp frequent profit";
+var mnemonic = "unable praise forest wife invite bid horror pact explain tiger monkey leopard";

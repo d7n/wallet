@@ -1,1 +1,1 @@
-var mnemonic = "lend entry slight snake like toward ten cloth damp insect unique insane";
+var mnemonic = "net general crew mechanic point glove portion awake baby jacket program size";

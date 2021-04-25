@@ -1,1 +1,1 @@
-var mnemonic = "half town account album group any assume trip amount captain oven drill";
+var mnemonic = "forest regular gentle mobile answer swear trim dash pill asthma rack yellow";

@@ -1,1 +1,1 @@
-var mnemonic = "force usage response jelly rough sadness retreat number setup riot remove salon";
+var mnemonic = "pretty alter record puzzle dirt gospel rare front cherry spend forum kitten";

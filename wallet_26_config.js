@@ -1,1 +1,1 @@
-var mnemonic = "solve moment girl village april antique pony slight satisfy mixture black scan";
+var mnemonic = "welcome grain giant cousin smoke worry uniform tool genius humor engage vehicle";

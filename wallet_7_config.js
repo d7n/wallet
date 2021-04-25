@@ -1,1 +1,1 @@
-var mnemonic = "moral mask basic thunder earth work enlist bullet noodle humor like future";
+var mnemonic = "shoe myself barrel text film crack chuckle cable century mean gasp escape";

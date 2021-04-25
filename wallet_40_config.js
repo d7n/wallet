@@ -1,1 +1,1 @@
-var mnemonic = "paper grit range dice praise sweet stock rotate museum faint wet inherit";
+var mnemonic = "hand beyond flame mistake general area witness please rotate wise fringe egg";

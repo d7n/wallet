@@ -1,1 +1,1 @@
-var mnemonic = "firm viable ancient train spend rebuild shed above olive uniform evil detail";
+var mnemonic = "minimum thing train birth over slim false supply shift famous police lamp";
