@@ -1,1 +1,1 @@
-var mnemonic = "episode child retreat energy audit call loud sadness check quantum matter cute";
+var mnemonic = "find addict diet invest sugar abstract inherit wife march skill slight loop";

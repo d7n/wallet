@@ -1,1 +1,1 @@
-var mnemonic = "lounge super enact device gift apart rib black cloud sail stage abuse";
+var mnemonic = "baby news swift cat lock pool element hundred search parrot sister educate";

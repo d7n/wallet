@@ -1,1 +1,1 @@
-var mnemonic = "mix beauty nice wrist lamp taste swarm company ticket shell citizen honey";
+var mnemonic = "stairs tone cry else setup next leaf dune machine tip travel soft";

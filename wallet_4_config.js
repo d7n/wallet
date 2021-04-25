@@ -1,1 +1,1 @@
-var mnemonic = "heart decline bargain evolve quit danger panther inner power vessel fury dune";
+var mnemonic = "air skill question other close fly physical home image old vessel treat";

@@ -1,1 +1,1 @@
-var mnemonic = "private immense ancient rich cause nothing genuine work open ski pottery satisfy";
+var mnemonic = "glimpse faculty rally pony spy bonus ordinary lens load fly hard feature";

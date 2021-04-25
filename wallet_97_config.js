@@ -1,1 +1,1 @@
-var mnemonic = "hammer enlist pill purity issue reason traffic gap omit harsh yellow uncle";
+var mnemonic = "unhappy grass quit miss ability nature holiday floor mother fringe fall trend";

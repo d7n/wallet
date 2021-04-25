@@ -1,1 +1,1 @@
-var mnemonic = "exclude embody order enlist clump develop fame park left peasant run grid";
+var mnemonic = "deputy wave fiscal never bid assist outside palm safe elder flat salmon";

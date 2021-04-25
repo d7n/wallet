@@ -1,1 +1,1 @@
-var mnemonic = "regret come strategy boil recycle close rack ill upon prepare problem photo";
+var mnemonic = "polar all jelly hip burger close hospital pulp citizen blame dirt uphold";

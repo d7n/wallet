@@ -1,1 +1,1 @@
-var mnemonic = "immune hair health subway theme real payment other hunt bracket kick youth";
+var mnemonic = "label buyer proud more pencil firm okay page romance poem eight fantasy";

@@ -1,1 +1,1 @@
-var mnemonic = "hunt river lawsuit tag quit mimic payment victory choice tape swim great";
+var mnemonic = "shrimp aunt flag nose unknown ceiling upset detect task infant vital afraid";

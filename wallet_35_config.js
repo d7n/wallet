@@ -1,1 +1,1 @@
-var mnemonic = "surface visa glimpse audit divert beach exchange fall paddle link school tape";
+var mnemonic = "album supply there foster amateur cliff pulse hat word vacant require behind";

@@ -1,1 +1,1 @@
-var mnemonic = "save time segment accuse amateur vibrant occur chuckle clump body rate gaze";
+var mnemonic = "nurse explain castle march glare script monkey way mansion floor kit prepare";

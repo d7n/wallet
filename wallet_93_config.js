@@ -1,1 +1,1 @@
-var mnemonic = "grace parade business submit loan truly awesome bleak off morning renew snap";
+var mnemonic = "museum steak crawl cover perfect brave polar reform crisp reduce boil arch";

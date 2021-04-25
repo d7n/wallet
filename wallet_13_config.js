@@ -1,1 +1,1 @@
-var mnemonic = "success project course flower budget faint state leisure dumb radio cook forward";
+var mnemonic = "item sea pupil assume surround venture same wait bind essay upset limb";

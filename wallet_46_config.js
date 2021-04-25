@@ -1,1 +1,1 @@
-var mnemonic = "company lemon embody dove atom bacon across become exist ill odor dress";
+var mnemonic = "admit wide eager sentence blue margin ankle crunch million spatial debate apart";

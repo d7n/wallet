@@ -1,1 +1,1 @@
-var mnemonic = "unaware when prize strong across wife pen carbon night few you teach";
+var mnemonic = "ritual super reduce keen bunker inquiry blood act into fortune hand inform";

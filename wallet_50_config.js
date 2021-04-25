@@ -1,1 +1,1 @@
-var mnemonic = "charge hat puzzle father age typical scissors life file split allow skull";
+var mnemonic = "deal pluck now monitor toward picnic tooth figure helmet fix kiwi book";

@@ -1,1 +1,1 @@
-var mnemonic = "stay hole toddler board affair poem globe put hint style hidden volcano";
+var mnemonic = "hobby fashion seven any soft maple fiscal pulse napkin gadget segment page";

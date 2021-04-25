@@ -1,1 +1,1 @@
-var mnemonic = "envelope rescue surround swim spy scatter crowd employ already dumb gather summer";
+var mnemonic = "gorilla giggle burden one inhale advance share gate toilet frown social fame";

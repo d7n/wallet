@@ -1,1 +1,1 @@
-var mnemonic = "paddle expect toward select slim melt cat oyster rival mercy reject much";
+var mnemonic = "coach six kangaroo surge blouse knife foil comfort potato warrior diary humble";

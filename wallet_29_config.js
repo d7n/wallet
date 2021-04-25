@@ -1,1 +1,1 @@
-var mnemonic = "anxiety define art party wolf fat aunt horn term battle prevent system";
+var mnemonic = "vehicle rule juice arena alone eager real nephew defense open capable nest";

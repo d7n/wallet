@@ -1,1 +1,1 @@
-var mnemonic = "garment lecture acoustic silk escape fog cabbage grief spawn limit ladder cinnamon";
+var mnemonic = "client into record length online faint father valve buzz pair cycle object";

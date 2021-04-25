@@ -1,1 +1,1 @@
-var mnemonic = "protect foil dad ranch prefer sunset cereal cinnamon grit behind goose civil";
+var mnemonic = "comfort romance web job subway satisfy best argue merit shuffle appear collect";

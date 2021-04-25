@@ -1,1 +1,1 @@
-var mnemonic = "scrap lake alert grocery subway match joke film word hood twin case";
+var mnemonic = "flee ticket chat crucial nerve also wood stuff boy license audit rebuild";

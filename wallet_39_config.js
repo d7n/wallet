@@ -1,1 +1,1 @@
-var mnemonic = "vital exile reason know bubble artefact trip ball open good blame wagon";
+var mnemonic = "juice repair equal light reunion joy trophy orbit fiction broom maid road";

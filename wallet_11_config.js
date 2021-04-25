@@ -1,1 +1,1 @@
-var mnemonic = "rough control problem dance month inherit shuffle appear robust allow reduce artist";
+var mnemonic = "girl quality rapid check elite thing small tunnel choice fan prevent voice";

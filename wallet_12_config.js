@@ -1,1 +1,1 @@
-var mnemonic = "domain coin opinion away device drive hotel rely wet reform runway roof";
+var mnemonic = "misery say window net only permit inquiry grunt subway siren cupboard elite";

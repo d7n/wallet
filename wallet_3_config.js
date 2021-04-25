@@ -1,1 +1,1 @@
-var mnemonic = "hood era sort slice shed brush vital valve scheme vivid boring column";
+var mnemonic = "solar give picture patch update raccoon glue uphold husband wild valley cinnamon";

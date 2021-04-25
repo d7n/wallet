@@ -1,1 +1,1 @@
-var mnemonic = "mule reflect promote enable know exercise hole raw fashion kingdom machine midnight";
+var mnemonic = "asset defense group mail retreat maple enrich foam chest impact divert verify";

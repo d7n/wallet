@@ -1,1 +1,1 @@
-var mnemonic = "settle organ brother relax mad course despair project theory section myth jacket";
+var mnemonic = "cream toy bitter debate lunar plastic lend sing local note hire wet";

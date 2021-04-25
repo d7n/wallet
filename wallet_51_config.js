@@ -1,1 +1,1 @@
-var mnemonic = "glue aisle crucial armed purse cancel swallow brave pulp wrist paddle demise";
+var mnemonic = "rice school patient bus garage dentist resource fossil pill web solve pitch";

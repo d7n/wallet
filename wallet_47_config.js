@@ -1,1 +1,1 @@
-var mnemonic = "science female image reveal craft remain uncover disease source leisure short ginger";
+var mnemonic = "flash execute design hurry festival scout task hold sure oak clay honey";

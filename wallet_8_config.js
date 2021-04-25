@@ -1,1 +1,1 @@
-var mnemonic = "grow layer decrease index frost surge joy pitch brave coast hole one";
+var mnemonic = "symbol basic olympic frost hotel orbit real salt anxiety old drill deputy";

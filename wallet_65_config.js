@@ -1,1 +1,1 @@
-var mnemonic = "garment cabbage tomato soup cram visit pilot peasant suffer fix cook silk";
+var mnemonic = "try web innocent blade sauce square rubber universe win scout snap jelly";

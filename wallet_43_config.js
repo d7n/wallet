@@ -1,1 +1,1 @@
-var mnemonic = "blossom announce inquiry sketch glue dentist luxury fetch blouse wagon sweet blade";
+var mnemonic = "thank chuckle garden cinnamon same foster industry final journey assault tobacco glue";

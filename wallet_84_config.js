@@ -1,1 +1,1 @@
-var mnemonic = "security exile birth lend entire used family heavy scare rule misery humor";
+var mnemonic = "multiply logic brisk account gas easily above liquid response useful uncle capable";

@@ -1,1 +1,1 @@
-var mnemonic = "average purse fog immune recipe track cat buzz steel glow tank crack";
+var mnemonic = "spoon foot cement diary circle night sphere abstract gorilla home learn combine";

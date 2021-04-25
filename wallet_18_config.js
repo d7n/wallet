@@ -1,1 +1,1 @@
-var mnemonic = "bench best nose nuclear flash solution idle suggest crouch stairs rescue budget";
+var mnemonic = "music onion advice used motor spoon fog reveal view hybrid system laundry";

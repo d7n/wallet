@@ -1,1 +1,1 @@
-var mnemonic = "other glide invest card finish fame east level basket property runway balcony";
+var mnemonic = "wealth typical tribe adjust chest siege dragon impact judge rent consider catalog";

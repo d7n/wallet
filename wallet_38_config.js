@@ -1,1 +1,1 @@
-var mnemonic = "ethics annual gloom toe test potato decline rifle pink thrive scale visit";
+var mnemonic = "fluid warm pencil bachelor develop vote escape original unaware educate acoustic cousin";

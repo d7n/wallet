@@ -1,1 +1,1 @@
-var mnemonic = "liberty valve boat category tiny top apology visit situate front menu glimpse";
+var mnemonic = "ribbon catalog pass sock review dinosaur guard this runway cycle boy child";

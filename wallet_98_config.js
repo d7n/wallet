@@ -1,1 +1,1 @@
-var mnemonic = "small egg moon deputy flee marble tell blossom avocado weapon garden omit";
+var mnemonic = "water proof embody neck letter razor melody voice three junior ability energy";

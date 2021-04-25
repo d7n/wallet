@@ -1,1 +1,1 @@
-var mnemonic = "top mixed rate craft scrub note insane just nest cabbage creek crime";
+var mnemonic = "consider runway garden slow noise jacket load lemon above brown awesome mistake";

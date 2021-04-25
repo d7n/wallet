@@ -1,1 +1,1 @@
-var mnemonic = "slow proof danger way great park reveal dilemma hobby already witness monster";
+var mnemonic = "spot predict become toast chef empty deer process torch title antique drastic";

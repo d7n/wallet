@@ -1,1 +1,1 @@
-var mnemonic = "witness honey paddle pudding unveil hold heavy inquiry mercy legal bid access";
+var mnemonic = "estate soft meat humble this excite science output cake female model width";

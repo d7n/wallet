@@ -1,1 +1,1 @@
-var mnemonic = "popular carbon urge negative credit cherry again beauty stable jelly call mind";
+var mnemonic = "field devote rib chaos rhythm fish shuffle time buyer pulse share vessel";

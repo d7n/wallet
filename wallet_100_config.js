@@ -1,1 +1,1 @@
-var mnemonic = "curve ship hair melody gravity math alarm doll club focus month eager";
+var mnemonic = "idle brown kiss vicious fence ribbon gaze decline high hybrid often source";

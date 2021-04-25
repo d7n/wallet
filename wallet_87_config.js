@@ -1,1 +1,1 @@
-var mnemonic = "volume awkward energy expire cancel flush actor window subway sword mango bench";
+var mnemonic = "strong entry position expose pumpkin latin render various advice alcohol dance toilet";

@@ -1,1 +1,1 @@
-var mnemonic = "belt throw minimum unfold earn curtain venture door rose asset thought fit";
+var mnemonic = "firm place corn fiber axis invite bullet broken provide final raccoon city";

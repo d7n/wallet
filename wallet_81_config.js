@@ -1,1 +1,1 @@
-var mnemonic = "hockey bracket purse city trouble inhale thumb ocean inflict zoo armor stereo";
+var mnemonic = "lava limit oyster twist love adapt ocean metal fiber mystery hen pudding";

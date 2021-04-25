@@ -1,1 +1,1 @@
-var mnemonic = "width pudding modify drill fever spider acid breeze note electric ill hire";
+var mnemonic = "still valley yellow clerk float visit divide evoke nephew adapt turtle card";

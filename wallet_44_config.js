@@ -1,1 +1,1 @@
-var mnemonic = "south season laugh typical mass cabbage chief debate bind night sand begin";
+var mnemonic = "warrior cave entire swamp fame motion current fame arrive shoot scatter beef";

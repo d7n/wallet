@@ -1,1 +1,1 @@
-var mnemonic = "trial toss image void pass damage change act access sheriff polar attitude";
+var mnemonic = "jaguar grit gallery vapor charge convince erupt junior tragic autumn vast bench";

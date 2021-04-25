@@ -1,1 +1,1 @@
-var mnemonic = "fuel crush wish patrol shaft wedding happy shy vanish squirrel sister swamp";
+var mnemonic = "farm wrist sentence arctic exotic pause alone torch balcony breeze reopen region";

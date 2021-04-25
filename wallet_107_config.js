@@ -1,1 +1,1 @@
-var mnemonic = "toward top team ring tired gallery mountain engage level hundred already idea";
+var mnemonic = "mirror fancy coach split bottom ranch cube mango language minute duty dish";

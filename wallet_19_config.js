@@ -1,1 +1,1 @@
-var mnemonic = "horse dinner jelly unhappy plastic garment agree base cloud lady sadness engage";
+var mnemonic = "pupil illegal pizza road hip clock skill illness about share twin globe";

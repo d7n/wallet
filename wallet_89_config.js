@@ -1,1 +1,1 @@
-var mnemonic = "group area echo sunny rookie pistol title goddess oven because media crunch";
+var mnemonic = "ribbon curtain lab code someone clean lady quick rabbit flame square night";

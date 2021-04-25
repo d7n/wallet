@@ -1,1 +1,1 @@
-var mnemonic = "autumn old oblige february boss blouse direct wasp riot tuition blanket tribe";
+var mnemonic = "around initial view win exhibit impose cattle seed girl above young attitude";

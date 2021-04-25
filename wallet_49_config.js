@@ -1,1 +1,1 @@
-var mnemonic = "maid zoo portion unfair ethics drop cabin public matrix critic portion juice";
+var mnemonic = "edit blame bridge club infant pink law lady pig oval nominee auto";

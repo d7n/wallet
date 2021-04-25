@@ -1,1 +1,1 @@
-var mnemonic = "gallery balance figure hammer penalty fatal day cost risk margin kick eagle";
+var mnemonic = "blanket convince labor north shiver prize van leaf same vacant present make";

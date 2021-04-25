@@ -1,1 +1,1 @@
-var mnemonic = "diesel cause finish dice dad firm punch extend trip tortoise enemy twin";
+var mnemonic = "core chuckle turn toss minute excess cream news strike already electric sand";

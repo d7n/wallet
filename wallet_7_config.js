@@ -1,1 +1,1 @@
-var mnemonic = "spin series surprise tiny innocent display puppy oven drastic satoshi stumble pretty";
+var mnemonic = "number brain gesture concert screen drop badge world type giraffe please fossil";

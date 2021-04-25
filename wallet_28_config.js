@@ -1,1 +1,1 @@
-var mnemonic = "helmet actor hair hope music used drip attend forward manual early urban";
+var mnemonic = "notice mutual security exercise squeeze rival exhaust cross imitate brand pipe scrap";

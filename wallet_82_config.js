@@ -1,1 +1,1 @@
-var mnemonic = "bind liberty gather suit noble beef among expire film inch clutch search";
+var mnemonic = "settle tourist absorb damp screen play all verb festival service limit mistake";

@@ -1,1 +1,1 @@
-var mnemonic = "human camp obscure nose orchard segment hundred blouse neck affair neglect pelican";
+var mnemonic = "tourist observe edge sing hobby jungle chicken nut income crater curve topic";

@@ -1,1 +1,1 @@
-var mnemonic = "donate provide tree teach soap siege tube height stage twist seminar kitchen";
+var mnemonic = "inside audit blanket place shine barely grunt satoshi organ chest level scorpion";

@@ -1,1 +1,1 @@
-var mnemonic = "great magnet grief elite august large flock exclude bread pulp hill average";
+var mnemonic = "hidden lion urge tattoo until december sail solid eight tongue cinnamon popular";

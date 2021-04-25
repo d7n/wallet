@@ -1,1 +1,1 @@
-var mnemonic = "elegant shine derive prefer few addict shield evidence gown blouse main shine";
+var mnemonic = "easy theme youth brick circle cake galaxy receive around middle urge approve";

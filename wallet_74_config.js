@@ -1,1 +1,1 @@
-var mnemonic = "there turtle devote damage forum news depend medal quality rent cube tail";
+var mnemonic = "session expect physical plunge laptop regular talk lonely soon session one donor";

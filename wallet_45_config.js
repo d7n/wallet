@@ -1,1 +1,1 @@
-var mnemonic = "wire shoulder mass weasel gentle lazy method rain poem push veteran comic";
+var mnemonic = "type become turn push strong vacant lawn pigeon menu lawsuit write swallow";

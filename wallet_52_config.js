@@ -1,1 +1,1 @@
-var mnemonic = "moral cement cigar aerobic water cheese gain success song visit zero bounce";
+var mnemonic = "fiber congress economy state gravity soda end cinnamon know melt neutral topic";

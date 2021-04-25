@@ -1,1 +1,1 @@
-var mnemonic = "october lock aunt adult believe young engine owner safe notice brown time";
+var mnemonic = "flat regular paper parrot sugar critic noise cousin render pig equal beach";

@@ -1,1 +1,1 @@
-var mnemonic = "chalk media remain recycle spin parade danger fan various choice early inmate";
+var mnemonic = "render limb immense another rather measure trumpet tissue angle various park vendor";

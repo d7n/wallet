@@ -1,1 +1,1 @@
-var mnemonic = "width genre boat upgrade depth island position run fatal wrestle baby crumble";
+var mnemonic = "regular faint swim coyote squeeze hat major jungle orchard melody glove climb";

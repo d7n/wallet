@@ -1,1 +1,1 @@
-var mnemonic = "duty mix penalty air slim eye search okay add common antique hood";
+var mnemonic = "spare manual chest reform brother dial bracket bottom increase motion donate useless";

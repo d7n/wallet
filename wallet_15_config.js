@@ -1,1 +1,1 @@
-var mnemonic = "race other special sauce velvet emotion volcano eager tenant add pyramid undo";
+var mnemonic = "carry fat fall suggest motion wrestle short sentence limit obtain slam permit";

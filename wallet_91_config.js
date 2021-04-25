@@ -1,1 +1,1 @@
-var mnemonic = "switch island hip answer proof hero quantum unaware broom mom fresh blossom";
+var mnemonic = "extra vehicle mountain glory motor multiply boat grape depth thank situate reform";

@@ -1,1 +1,1 @@
-var mnemonic = "gate bronze blast robot dad legal clean quick unveil pond gauge sand";
+var mnemonic = "clerk nuclear silk sort bitter hockey jar jeans era uncle cost monster";

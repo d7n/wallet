@@ -1,1 +1,1 @@
-var mnemonic = "few okay moment kick iron retreat gentle junior gasp wasp ring notable";
+var mnemonic = "denial never tennis cinnamon vessel excess badge correct ahead canvas chicken ritual";

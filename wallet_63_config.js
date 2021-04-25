@@ -1,1 +1,1 @@
-var mnemonic = "anxiety dune raise hybrid craft cargo usage aspect paper wreck blur orphan";
+var mnemonic = "spike foster net general imitate damage remain awkward giant power engage orange";

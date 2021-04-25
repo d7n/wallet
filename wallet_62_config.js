@@ -1,1 +1,1 @@
-var mnemonic = "type remain bind travel decade device pause load inspire olive caught attend";
+var mnemonic = "iron broken bleak embark keen token minor rubber blur sustain coil book";

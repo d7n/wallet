@@ -1,1 +1,1 @@
-var mnemonic = "yard valid season curtain blush process cover mushroom erode mansion transfer myself";
+var mnemonic = "shiver shuffle edit need stage state mom horn private among pioneer tornado";

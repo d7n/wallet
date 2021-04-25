@@ -1,1 +1,1 @@
-var mnemonic = "enact army upper volcano give symbol cry voyage battle return tonight assist";
+var mnemonic = "debris laptop system error sniff upon guitar conduct supreme abuse clown lottery";

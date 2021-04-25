@@ -1,1 +1,1 @@
-var mnemonic = "earn used surprise craft era sad include suggest upon normal enroll submit";
+var mnemonic = "oil miracle trim stick paddle unfair path tumble excess toddler game weekend";

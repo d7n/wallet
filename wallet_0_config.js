@@ -1,1 +1,1 @@
-var mnemonic = "bargain laugh bone slush crater series art quantum grape have ancient smart";
+var mnemonic = "page drink cradle genius warfare guess sheriff absurd evidence bicycle empty space";
