@@ -1,1 +1,1 @@
-var mnemonic = "inner nuclear shove special undo liberty human record knife rally desert quick";
+var mnemonic = "pistol card truck actress taste glad switch armor fatigue hood chimney okay";

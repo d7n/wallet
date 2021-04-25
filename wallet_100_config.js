@@ -1,1 +1,1 @@
-var mnemonic = "lake impulse embody track upon ripple half rival shrug license cotton earn";
+var mnemonic = "express knife horse absurd chapter arena carbon dash enter wonder salt soon";

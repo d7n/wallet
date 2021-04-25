@@ -1,1 +1,1 @@
-var mnemonic = "nice barely aerobic gorilla elevator globe track phrase gate critic film benefit";
+var mnemonic = "salad glad couple final pizza orbit plug mosquito impose argue put minute";

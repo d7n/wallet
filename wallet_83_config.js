@@ -1,1 +1,1 @@
-var mnemonic = "sort prison media flat venue bleak style turkey begin heavy episode tired";
+var mnemonic = "belt share warfare purity flock crazy situate gate dismiss area twenty hobby";

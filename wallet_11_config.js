@@ -1,1 +1,1 @@
-var mnemonic = "angry fashion method layer guilt movie digital piano weasel menu depart shoulder";
+var mnemonic = "client found attend double media hamster ability lock often reject scorpion click";

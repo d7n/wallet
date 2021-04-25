@@ -1,1 +1,1 @@
-var mnemonic = "adjust walk stone sorry butter flash clay shoe jazz crystal object phrase";
+var mnemonic = "ugly page risk message feed law brain hero dad blade fold elder";

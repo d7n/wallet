@@ -1,1 +1,1 @@
-var mnemonic = "shove anchor broken page critic virtual oblige october finish fence suit wear";
+var mnemonic = "unit return dose discover rifle happy basket cube great position nice brave";

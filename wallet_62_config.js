@@ -1,1 +1,1 @@
-var mnemonic = "capital gaze captain stairs carbon wheat quality bottom retreat today gain trash";
+var mnemonic = "twenty section morning resist spice slender twin remain school toy own fever";

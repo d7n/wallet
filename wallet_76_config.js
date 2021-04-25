@@ -1,1 +1,1 @@
-var mnemonic = "often weather puzzle anger blast raven slim north noodle call result april";
+var mnemonic = "reject west gossip cupboard sauce whisper toast select junior ankle health vehicle";

@@ -1,1 +1,1 @@
-var mnemonic = "tuna hill dust wink good cause news gentle left ability choose lawn";
+var mnemonic = "area word dream whisper thought clog consider tonight cup subject divide sport";

@@ -1,1 +1,1 @@
-var mnemonic = "rapid lawn undo program milk worth roof wine kangaroo there million junior";
+var mnemonic = "enable oppose panel person rocket human unaware marriage pull defense invite fee";

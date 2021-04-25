@@ -1,1 +1,1 @@
-var mnemonic = "sunset leisure giant assist grief blossom eager fitness photo exist kick arrange";
+var mnemonic = "unveil aerobic dream cushion robot equal agree economy program regret gasp trim";

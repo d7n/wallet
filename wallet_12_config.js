@@ -1,1 +1,1 @@
-var mnemonic = "market coffee phrase finger liar affair test subject winner settle south farm";
+var mnemonic = "hour enemy orange extend female embrace truth lift alone occur picture song";

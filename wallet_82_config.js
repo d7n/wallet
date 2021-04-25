@@ -1,1 +1,1 @@
-var mnemonic = "canoe dizzy merge main enjoy fabric mammal boss together napkin top nature";
+var mnemonic = "order bundle buyer aspect labor trend rough cross trap segment weapon local";

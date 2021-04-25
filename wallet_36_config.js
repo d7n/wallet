@@ -1,1 +1,1 @@
-var mnemonic = "genuine kind payment garbage lunar salute chimney girl chuckle wrist hill office";
+var mnemonic = "upgrade minimum robust prize aunt puppy choice damage slice patient daring faint";

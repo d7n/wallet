@@ -1,1 +1,1 @@
-var mnemonic = "anchor hollow echo absorb sea evoke girl leader weapon mistake reunion choose";
+var mnemonic = "current pen fetch reunion shiver envelope muffin unfold crop grass tiny vintage";

@@ -1,1 +1,1 @@
-var mnemonic = "chicken one galaxy lonely onion enroll dose nuclear uncover label cross since";
+var mnemonic = "faith solution afraid traffic truck liar nation congress physical into punch enough";

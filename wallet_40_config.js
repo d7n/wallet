@@ -1,1 +1,1 @@
-var mnemonic = "isolate tree easy daring across artwork train crop fiber output round wet";
+var mnemonic = "used scissors wisdom loan envelope tube staff reform mule bulb dial bottom";

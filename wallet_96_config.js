@@ -1,1 +1,1 @@
-var mnemonic = "moment pulse two assault behind pioneer prepare wait proud wait forest gift";
+var mnemonic = "away sunset modify donate lecture thunder tattoo write salad stable twenty stamp";

@@ -1,1 +1,1 @@
-var mnemonic = "render hen vacuum unlock blind rubber they crawl solar marriage license sight";
+var mnemonic = "clump science candy poverty pilot deliver dose symptom region pair enter taste";

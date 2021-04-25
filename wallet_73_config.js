@@ -1,1 +1,1 @@
-var mnemonic = "jungle ostrich there hurdle rude wheat burst embark excess riot pride warfare";
+var mnemonic = "monitor finger various thunder bus spatial sting will bunker woman crazy inquiry";

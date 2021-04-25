@@ -1,1 +1,1 @@
-var mnemonic = "skill coffee evil lizard camera credit gossip seven unhappy thing truck remove";
+var mnemonic = "violin power lawn inner drip path exhibit rare scale abuse arctic absurd";

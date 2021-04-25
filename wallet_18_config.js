@@ -1,1 +1,1 @@
-var mnemonic = "cabin call surface evil large reject elegant bench verify jewel bring creek";
+var mnemonic = "negative bacon shed illness sight unveil between burger gun hero ostrich weekend";

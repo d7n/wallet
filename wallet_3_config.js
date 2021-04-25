@@ -1,1 +1,1 @@
-var mnemonic = "erase plug egg curious resource lab dream spring drill paper spoil frost";
+var mnemonic = "sting oak dragon bomb tennis myth fury cat same mail taxi awake";

@@ -1,1 +1,1 @@
-var mnemonic = "clutch text rather attack ceiling tiger limb tackle promote nation shoulder spike";
+var mnemonic = "place rival wagon unique search language goat guilt only theme chimney fold";

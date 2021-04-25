@@ -1,1 +1,1 @@
-var mnemonic = "relax arch jaguar income twin alter rebel remove survey tackle raise shuffle";
+var mnemonic = "office address wagon sing chicken eight corn worry cinnamon lift crucial acid";

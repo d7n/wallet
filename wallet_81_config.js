@@ -1,1 +1,1 @@
-var mnemonic = "shiver crunch erosion embody soft same object record velvet cinnamon pottery rhythm";
+var mnemonic = "post scrap vicious recall inquiry acquire drink monkey ostrich gauge express syrup";

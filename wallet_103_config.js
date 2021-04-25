@@ -1,1 +1,1 @@
-var mnemonic = "plunge antenna trigger acid sample rocket lonely dumb grunt problem glimpse glance";
+var mnemonic = "vacuum ski cash frost lake uncle wait cat blouse only stove fatal";

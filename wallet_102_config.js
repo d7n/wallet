@@ -1,1 +1,1 @@
-var mnemonic = "pear minimum goddess real frame charge slight flower desk hint circle claw";
+var mnemonic = "nuclear lumber journey mass divert enforce cart impulse burst boat power tool";

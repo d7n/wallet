@@ -1,1 +1,1 @@
-var mnemonic = "injury sweet nerve control differ shrug digital recycle mansion parade tennis horror";
+var mnemonic = "myth repeat cube arm luggage blind board exclude twenty scale bind process";

@@ -1,1 +1,1 @@
-var mnemonic = "trap bring donkey blade answer arrow bid category mobile almost erode group";
+var mnemonic = "course fee popular young goose drastic forest grass wisdom human soup security";

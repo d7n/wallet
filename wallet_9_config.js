@@ -1,1 +1,1 @@
-var mnemonic = "early act bar car approve repair clap foster embrace disagree undo bread";
+var mnemonic = "genius swallow patrol damp timber enlist awesome output glare ring poet curious";

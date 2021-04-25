@@ -1,1 +1,1 @@
-var mnemonic = "enroll since before rule decade pitch nephew author nation jelly yellow bind";
+var mnemonic = "limb dinner undo cream illegal cheap switch fragile submit absurd slender aerobic";

@@ -1,1 +1,1 @@
-var mnemonic = "sing average employ gap pill dumb gesture frame labor black airport enlist";
+var mnemonic = "steel recall pizza tape supreme beach slam kind fragile suffer decade speed";

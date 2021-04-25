@@ -1,1 +1,1 @@
-var mnemonic = "arrange turkey render word raise bind blast spike drama march chase staff";
+var mnemonic = "junk exclude coconut use assist desk member unique safe decline genius cloud";

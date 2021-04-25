@@ -1,1 +1,1 @@
-var mnemonic = "dolphin idea promote season broom panic silly hill flock buddy flash immense";
+var mnemonic = "blur cloth concert thank orphan runway fitness exact obvious point great panel";

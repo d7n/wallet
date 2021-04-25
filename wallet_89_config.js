@@ -1,1 +1,1 @@
-var mnemonic = "verify situate exist belt good pull page next scheme upset field jewel";
+var mnemonic = "lens hammer valve staff wood easily sense window crane pink elder dwarf";

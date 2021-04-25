@@ -1,1 +1,1 @@
-var mnemonic = "vote trial pluck despair wagon cage night call spread notable safe admit";
+var mnemonic = "enemy beef change hub aim pave save absurd broken destroy amount timber";

@@ -1,1 +1,1 @@
-var mnemonic = "ready rail quote retreat give cost hill frost matter waste giggle picture";
+var mnemonic = "setup slim balance picnic doll example puppy misery arrest buzz menu three";

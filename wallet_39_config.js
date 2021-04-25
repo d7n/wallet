@@ -1,1 +1,1 @@
-var mnemonic = "lava issue giggle car must gift depart social economy breeze gadget regular";
+var mnemonic = "couch viable ethics chaos head offer way discover range sand own maple";

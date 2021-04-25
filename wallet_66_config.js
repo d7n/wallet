@@ -1,1 +1,1 @@
-var mnemonic = "length song reunion interest what omit rather reopen excite wall plastic chaos";
+var mnemonic = "chief snake tape bottom valid train rhythm suffer cool chimney violin warfare";

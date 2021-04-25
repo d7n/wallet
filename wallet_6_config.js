@@ -1,1 +1,1 @@
-var mnemonic = "control swear burger roof tortoise call mobile obscure silent slim wool hollow";
+var mnemonic = "ripple pottery humor phrase moral world damage drive glove famous under rally";

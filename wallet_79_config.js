@@ -1,1 +1,1 @@
-var mnemonic = "either quote sick clerk sibling garlic erase horse hope skull annual obtain";
+var mnemonic = "name knock quiz tiger palm crew goat badge enable swing jar bid";

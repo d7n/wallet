@@ -1,1 +1,1 @@
-var mnemonic = "mystery collect true call key rescue hobby emotion congress battle holiday track";
+var mnemonic = "scheme museum protect develop timber sponsor balcony pigeon injury beauty yard glove";

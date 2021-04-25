@@ -1,1 +1,1 @@
-var mnemonic = "nature main ethics mammal silver album stock size fever suffer slender filter";
+var mnemonic = "engine meat nephew spike chief ocean talk behind reveal deal horror egg";

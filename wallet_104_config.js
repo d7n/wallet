@@ -1,1 +1,1 @@
-var mnemonic = "innocent cash expire hurt detail decorate congress budget pet laptop quantum lazy";
+var mnemonic = "satoshi benefit neither tongue gospel chimney illegal grant earth math close measure";

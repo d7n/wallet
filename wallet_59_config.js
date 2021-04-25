@@ -1,1 +1,1 @@
-var mnemonic = "sausage one local sea lobster okay pulse ostrich bullet twenty elevator cabbage";
+var mnemonic = "dust dune huge alpha reveal crazy engage swap salon comfort nice food";

@@ -1,1 +1,1 @@
-var mnemonic = "pizza system special camera vault hurdle found math illness crumble dynamic daughter";
+var mnemonic = "vacuum elite okay town vacant pistol replace catch spawn gaze job trade";

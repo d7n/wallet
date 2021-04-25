@@ -1,1 +1,1 @@
-var mnemonic = "timber cause reunion manual damp supreme rent perfect broccoli puzzle gallery place";
+var mnemonic = "absorb artwork tooth hidden alert north charge blanket monster resist shed ticket";

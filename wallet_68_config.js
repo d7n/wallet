@@ -1,1 +1,1 @@
-var mnemonic = "wonder improve hurdle fame napkin innocent easily patient orphan quiz right onion";
+var mnemonic = "duck group fruit screen candy repeat chronic throw stable inner barrel turtle";

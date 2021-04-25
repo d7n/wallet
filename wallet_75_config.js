@@ -1,1 +1,1 @@
-var mnemonic = "jacket tunnel toward enjoy hockey village library reopen table biology lady inhale";
+var mnemonic = "unable seek rely bind scout board art weasel next few post profit";

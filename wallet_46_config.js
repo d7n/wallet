@@ -1,1 +1,1 @@
-var mnemonic = "noise best retreat thought enjoy rich chaos viable enemy way toddler culture";
+var mnemonic = "expire proof buyer play endless head armor reward prepare layer loud vague";

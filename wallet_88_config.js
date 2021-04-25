@@ -1,1 +1,1 @@
-var mnemonic = "lonely media story trick degree typical tenant away connect mesh anchor wash";
+var mnemonic = "pond tape symbol child onion anchor poet boy pink title skate humble";

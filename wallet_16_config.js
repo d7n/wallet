@@ -1,1 +1,1 @@
-var mnemonic = "entire start staff become staff potato farm utility suffer puppy garden media";
+var mnemonic = "absorb wonder ordinary village genuine large diary expect royal hill leisure never";

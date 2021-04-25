@@ -1,1 +1,1 @@
-var mnemonic = "myself cotton inspire inch short embrace stick teach install manual clinic gas";
+var mnemonic = "organ minute kid nut notable lesson moment leopard exact humor steak dentist";

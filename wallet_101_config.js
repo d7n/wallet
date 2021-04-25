@@ -1,1 +1,1 @@
-var mnemonic = "sadness method desert animal around welcome fee hard anger first other quiz";
+var mnemonic = "describe mix degree parade moon coast polar bulb choice floor merry home";

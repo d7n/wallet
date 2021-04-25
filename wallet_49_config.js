@@ -1,1 +1,1 @@
-var mnemonic = "eight glue quit wool sand soon divert thank tilt profit welcome example";
+var mnemonic = "pig foam chase mule jewel kingdom gloom wine round song glory raw";

@@ -1,1 +1,1 @@
-var mnemonic = "choice segment praise bring atom olive climb album day alley garden enrich";
+var mnemonic = "extra rebuild hidden garment impact frozen sample knee razor emerge diary vacuum";

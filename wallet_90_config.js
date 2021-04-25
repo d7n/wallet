@@ -1,1 +1,1 @@
-var mnemonic = "invest kit north loop forum strike kidney chair brother prefer surge web";
+var mnemonic = "video pair topple ticket grab social castle naive silent water pear kitten";

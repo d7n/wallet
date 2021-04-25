@@ -1,1 +1,1 @@
-var mnemonic = "ritual humble raccoon spike domain protect diet toward doll fruit bracket since";
+var mnemonic = "machine carpet athlete short cargo peace trouble web express whale slush left";

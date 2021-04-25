@@ -1,1 +1,1 @@
-var mnemonic = "axis desk junior length auction stadium cross damage give beyond today leopard";
+var mnemonic = "script toilet game slim keep win distance taxi federal loud then muffin";

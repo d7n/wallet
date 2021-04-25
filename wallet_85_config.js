@@ -1,1 +1,1 @@
-var mnemonic = "person start predict file start cigar relax reunion exclude tank easy forward";
+var mnemonic = "diet put reason cloth defense key impose champion flush buffalo video track";

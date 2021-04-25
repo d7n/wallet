@@ -1,1 +1,1 @@
-var mnemonic = "faculty kingdom napkin general eternal skin point pulse miracle save oppose merge";
+var mnemonic = "ivory real blossom message picnic august drama replace bonus tent fly effort";

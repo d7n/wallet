@@ -1,1 +1,1 @@
-var mnemonic = "wait eyebrow museum appear bomb section access bleak artist absurd protect shell";
+var mnemonic = "tortoise trim huge truly circle soldier buyer excess maid mouse impulse gate";

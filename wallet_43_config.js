@@ -1,1 +1,1 @@
-var mnemonic = "curious essay power defy occur you destroy wing curtain divide because practice";
+var mnemonic = "assume edge tower calm crush favorite position half arch vocal bind fix";

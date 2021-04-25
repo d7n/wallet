@@ -1,1 +1,1 @@
-var mnemonic = "enough trend female priority bicycle ozone wheel slush say flight judge mobile";
+var mnemonic = "disagree tortoise marriage ladder step ribbon reject ridge engine celery decade toy";

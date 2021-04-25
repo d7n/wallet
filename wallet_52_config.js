@@ -1,1 +1,1 @@
-var mnemonic = "east bunker congress salt sunset abstract loan secret fresh bundle remove paper";
+var mnemonic = "mean toward spice battle load chapter galaxy vapor element faith motor victory";

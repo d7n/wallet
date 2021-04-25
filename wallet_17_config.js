@@ -1,1 +1,1 @@
-var mnemonic = "wear snake flag dad deny wine inject bonus slender alcohol proud vendor";
+var mnemonic = "invite tongue shove garage emotion amused cattle popular call girl world genius";

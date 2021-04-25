@@ -1,1 +1,1 @@
-var mnemonic = "tenant rail alter video life tragic coach fork glare truck fiscal egg";
+var mnemonic = "bracket van surprise measure rail raven inner grunt dentist tilt north knock";

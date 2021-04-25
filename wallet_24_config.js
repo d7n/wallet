@@ -1,1 +1,1 @@
-var mnemonic = "mule wall arrive pride badge sign later later destroy arch make world";
+var mnemonic = "throw proud mass salmon such student shift typical dry parade tip nice";

@@ -1,1 +1,1 @@
-var mnemonic = "kingdom nice bench offer discover peanut avoid gift cage matter stone feature";
+var mnemonic = "fantasy icon write hollow worry response cloth voyage before field tray movie";

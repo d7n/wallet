@@ -1,1 +1,1 @@
-var mnemonic = "hold icon sport agent orbit magnet organ witness online session obvious tell";
+var mnemonic = "slight cake category planet ski vacuum grain fruit flight wool knife critic";

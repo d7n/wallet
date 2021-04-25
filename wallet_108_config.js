@@ -1,1 +1,1 @@
-var mnemonic = "stairs click pave pair unusual choose search coin apology tribe never inquiry";
+var mnemonic = "federal citizen better island carry solution cost twist brain galaxy surprise found";

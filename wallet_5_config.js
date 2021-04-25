@@ -1,1 +1,1 @@
-var mnemonic = "drop hill flame shift addict fix age wash plastic huge fantasy village";
+var mnemonic = "proud science youth decorate theory peasant angry lyrics clay scene miss ring";

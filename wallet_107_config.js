@@ -1,1 +1,1 @@
-var mnemonic = "witness garbage memory adapt margin science lens add syrup supply announce pumpkin";
+var mnemonic = "undo pool shy lunar endorse churn occur finish west ordinary they define";

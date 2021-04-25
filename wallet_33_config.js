@@ -1,1 +1,1 @@
-var mnemonic = "tribe pigeon apart track brisk vacant tragic drop kiss divide inch illness";
+var mnemonic = "blanket lobster please baby oven cloth craft green busy aware noise exotic";

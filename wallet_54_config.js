@@ -1,1 +1,1 @@
-var mnemonic = "rent sell best medal stage tortoise check wheel puzzle cream banner clerk";
+var mnemonic = "country mutual sleep motion hungry wire add chief twin oven furnace detail";

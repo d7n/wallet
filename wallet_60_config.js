@@ -1,1 +1,1 @@
-var mnemonic = "pledge duty weekend size tag marriage design fitness truly second dust law";
+var mnemonic = "like brown economy swap lumber warm best smooth pizza together faith tobacco";

@@ -1,1 +1,1 @@
-var mnemonic = "way crawl illegal object pyramid immune scout throw impose negative valid dance";
+var mnemonic = "struggle coach bomb stick occur nut top tribe change outer height cruel";

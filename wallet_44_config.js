@@ -1,1 +1,1 @@
-var mnemonic = "truly decade fog tonight length tone heart two carpet youth quit august";
+var mnemonic = "ring chair enlist timber funny laptop asset pattern kitten crane virus calm";

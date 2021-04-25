@@ -1,1 +1,1 @@
-var mnemonic = "club volcano shift unlock clarify avocado vintage indicate road move fan love";
+var mnemonic = "country wing spawn sell coconut casino spring lecture spider gas opera basket";

@@ -1,1 +1,1 @@
-var mnemonic = "diet inquiry human knife vault explain convince push brand myself globe logic";
+var mnemonic = "dirt fruit wet plunge depend initial avocado change pair word tower churn";

@@ -1,1 +1,1 @@
-var mnemonic = "awkward elite history rich salmon tape start tail grunt modify rescue fee";
+var mnemonic = "kite lecture pelican settle voice street park december olympic stuff hub target";
