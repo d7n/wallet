@@ -1,1 +1,1 @@
-var mnemonic = "deliver fiscal brown oval jump balcony reflect episode impulse bunker engine marine";
+var mnemonic = "gasp riot lab deputy math odor chunk pumpkin borrow canal affair arch";

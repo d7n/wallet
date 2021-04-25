@@ -1,1 +1,1 @@
-var mnemonic = "wealth bid patch pear pledge skate way strike thing man scorpion over";
+var mnemonic = "post loyal wool giggle divide sure bean island flip robot bean question";

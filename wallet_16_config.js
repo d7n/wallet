@@ -1,1 +1,1 @@
-var mnemonic = "reunion market unlock now round canvas agent spatial bike broken protect detect";
+var mnemonic = "goat object wet cash position general panda impulse laugh just name rapid";

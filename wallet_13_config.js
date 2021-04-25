@@ -1,1 +1,1 @@
-var mnemonic = "accident sorry among abuse upon cabin online pulp cannon bid exit risk";
+var mnemonic = "liar crumble fiction nice broccoli quantum list bronze rough tell fold vanish";

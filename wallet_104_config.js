@@ -1,1 +1,1 @@
-var mnemonic = "bachelor index casual appear stairs board unusual obscure rate tourist leopard prepare";
+var mnemonic = "odor metal cinnamon switch mammal input carbon top cherry snap vendor mother";

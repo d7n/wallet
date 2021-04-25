@@ -1,1 +1,1 @@
-var mnemonic = "venture label culture one pistol jazz faith door grief retreat brick biology";
+var mnemonic = "claw upgrade sound office tennis quiz capital share soon muffin kingdom rich";

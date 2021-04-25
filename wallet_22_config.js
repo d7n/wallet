@@ -1,1 +1,1 @@
-var mnemonic = "illness table explain tribe during profit crack thumb amused guard force loan";
+var mnemonic = "cause hazard situate horror draw narrow village december guide label reveal cliff";

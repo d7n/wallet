@@ -1,1 +1,1 @@
-var mnemonic = "morning genre unhappy moon ability square green excess corn purse lucky helmet";
+var mnemonic = "bind reform cream message debate drastic year bargain erode oak shove shaft";

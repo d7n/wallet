@@ -1,1 +1,1 @@
-var mnemonic = "social system rack wisdom suffer analyst bargain between guitar envelope diagram sister";
+var mnemonic = "best favorite room initial note slide now behind figure search model west";

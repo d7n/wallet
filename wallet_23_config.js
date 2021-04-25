@@ -1,1 +1,1 @@
-var mnemonic = "retire join shrug globe enact endorse affair cave half venture certain library";
+var mnemonic = "tattoo slight glide creek car transfer maple veteran stumble infant eagle gossip";

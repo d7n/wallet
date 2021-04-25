@@ -1,1 +1,1 @@
-var mnemonic = "enemy strike response waste genius original source flower usual ethics method dad";
+var mnemonic = "undo term sign tooth arch august impact catch morning cram alien danger";

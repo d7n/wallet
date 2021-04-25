@@ -1,1 +1,1 @@
-var mnemonic = "wild glue adapt lawsuit property unfair sauce excuse motor gesture clinic half";
+var mnemonic = "attack road festival inspire surprise symbol spread lecture whale amused object news";

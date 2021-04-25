@@ -1,1 +1,1 @@
-var mnemonic = "naive saddle fiction dignity size nature cost yellow shop pistol pink baby";
+var mnemonic = "social load runway hybrid siege cloud awkward media alley salmon husband style";

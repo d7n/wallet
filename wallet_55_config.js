@@ -1,1 +1,1 @@
-var mnemonic = "crawl sad double figure meat warrior resist shock place train spawn cave";
+var mnemonic = "release fitness enable jewel ivory also cotton draw barely three primary embody";

@@ -1,1 +1,1 @@
-var mnemonic = "execute venue push version income birth pass pond drink hello lesson diamond";
+var mnemonic = "quote artefact doll budget remain inherit explain spice expire dance width system";

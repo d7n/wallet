@@ -1,1 +1,1 @@
-var mnemonic = "ritual tired client wonder bronze offer depth nothing flat seat case disease";
+var mnemonic = "remember zone divorce stock dignity know raven venture crucial love debris enable";

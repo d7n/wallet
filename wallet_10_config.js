@@ -1,1 +1,1 @@
-var mnemonic = "concert unit cry place canoe balcony pause cube crystal shy confirm insane";
+var mnemonic = "service nature duty maid omit civil urge twist coast sketch alert debris";

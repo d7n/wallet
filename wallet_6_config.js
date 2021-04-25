@@ -1,1 +1,1 @@
-var mnemonic = "tape caution demand spawn flock dinosaur butter gap volcano palace mixture post";
+var mnemonic = "teach subway marble ketchup nominee shine manual across rebel you erosion travel";

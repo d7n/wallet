@@ -1,1 +1,1 @@
-var mnemonic = "thing page trust stool slot because damp neutral ghost captain pottery stem";
+var mnemonic = "improve detail track network frog mosquito dragon group change achieve logic wolf";

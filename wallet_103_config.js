@@ -1,1 +1,1 @@
-var mnemonic = "veteran item famous boring clap conduct cost thought isolate win service shine";
+var mnemonic = "sport budget cinnamon opera tip cactus zebra model transfer course pudding burden";

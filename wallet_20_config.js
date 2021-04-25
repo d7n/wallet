@@ -1,1 +1,1 @@
-var mnemonic = "certain boy rib dial avoid top oil cage subject agent dirt pause";
+var mnemonic = "steak brisk egg again either potato organ enhance embrace jazz fiction inject";

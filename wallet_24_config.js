@@ -1,1 +1,1 @@
-var mnemonic = "aim fix pull close pretty rotate insane tennis right match model social";
+var mnemonic = "place fruit chunk fan all twice say april tragic virtual bonus cheap";

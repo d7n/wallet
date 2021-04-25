@@ -1,1 +1,1 @@
-var mnemonic = "today drive region giant ocean lab damage convince crisp mixed alien aisle";
+var mnemonic = "dentist consider caught city real ticket woman disease suit venue slim disagree";

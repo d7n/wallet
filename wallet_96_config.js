@@ -1,1 +1,1 @@
-var mnemonic = "pilot endless attract atom rubber airport pet cloud wet close copy label";
+var mnemonic = "success address traffic test ivory eager sign tide tribe summer easily project";

@@ -1,1 +1,1 @@
-var mnemonic = "doll early toe disorder rich bid company sheriff bacon engage okay labor";
+var mnemonic = "ask visual just cool dynamic afraid like sleep web emerge cup someone";

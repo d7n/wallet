@@ -1,1 +1,1 @@
-var mnemonic = "drink tragic cushion very still hawk bread sponsor oxygen offer address few";
+var mnemonic = "gain hint depend obtain whip someone inhale include orchard ill gun real";

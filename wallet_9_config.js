@@ -1,1 +1,1 @@
-var mnemonic = "frost leopard spy second keep warm deposit index endorse royal stay vintage";
+var mnemonic = "drift celery trouble marine brave narrow rare police perfect cable quantum immense";

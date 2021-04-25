@@ -1,1 +1,1 @@
-var mnemonic = "menu energy alter barrel shy enlist sword adjust roof evil boy resist";
+var mnemonic = "own economy enhance dinosaur oblige allow trim stick web material reward heart";

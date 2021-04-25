@@ -1,1 +1,1 @@
-var mnemonic = "flock problem hip air fame dry brisk maid salad language dust notice";
+var mnemonic = "country wolf enact harbor blouse grid wear valve pencil parrot scorpion frog";

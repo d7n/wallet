@@ -1,1 +1,1 @@
-var mnemonic = "boring idea plate thumb artist silver rude umbrella science bridge shop burst";
+var mnemonic = "seed dismiss camera base lecture cradle submit visual trophy night arrow unaware";

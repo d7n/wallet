@@ -1,1 +1,1 @@
-var mnemonic = "cannon space long tank stick enact govern video level despair fly festival";
+var mnemonic = "once peasant ice marine comic escape curious blanket fish buffalo away company";

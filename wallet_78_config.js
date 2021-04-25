@@ -1,1 +1,1 @@
-var mnemonic = "mushroom execute inform voyage poem blush boat goose palace stumble run west";
+var mnemonic = "renew panda acid roast cream scout check click loan rigid leader search";

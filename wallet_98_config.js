@@ -1,1 +1,1 @@
-var mnemonic = "spider inch crash core fiber brick drum humble seven habit family squeeze";
+var mnemonic = "camp lawsuit crew ocean pilot coin sorry deposit remain guard gift differ";

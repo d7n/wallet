@@ -1,1 +1,1 @@
-var mnemonic = "panic into collect health soap usual skill achieve member abstract help during";
+var mnemonic = "bubble vapor slogan stand water city camera defy dizzy electric elephant bind";

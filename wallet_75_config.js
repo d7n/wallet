@@ -1,1 +1,1 @@
-var mnemonic = "shoulder annual lunch absorb total win way joy scout repair bike blue";
+var mnemonic = "coffee open display retreat myth wool cry volume fragile social empower unique";

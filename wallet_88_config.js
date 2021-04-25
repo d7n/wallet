@@ -1,1 +1,1 @@
-var mnemonic = "talent system trend furnace pledge switch gap lion glimpse tilt believe meat";
+var mnemonic = "bread master subway follow curve sauce skull soldier crane bracket improve twin";

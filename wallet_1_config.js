@@ -1,1 +1,1 @@
-var mnemonic = "bounce oxygen devote apple priority bamboo hybrid style clown job monkey between";
+var mnemonic = "deny water scrap result resource alien jealous judge bleak acoustic aim twelve";

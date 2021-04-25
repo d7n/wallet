@@ -1,1 +1,1 @@
-var mnemonic = "answer time army vacant chaos unveil leisure disease bike exhaust setup drop";
+var mnemonic = "heart enemy critic buyer pear vacuum dry cave response morning flock home";

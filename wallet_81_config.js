@@ -1,1 +1,1 @@
-var mnemonic = "parent tone farm sand wrong pitch differ noise napkin cup cabin road";
+var mnemonic = "spike allow salad wrap answer lunar aware fold hub vault eight business";

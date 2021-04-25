@@ -1,1 +1,1 @@
-var mnemonic = "short silver ribbon pumpkin tissue always core cost emotion defy team jaguar";
+var mnemonic = "kit measure pill job razor enjoy music multiply bomb scatter west disorder";

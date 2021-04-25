@@ -1,1 +1,1 @@
-var mnemonic = "mushroom arrive dream inspire coil decorate retire vanish brave beach basket dress";
+var mnemonic = "pledge kiss zone thrive setup inform episode spell genre will infant gift";

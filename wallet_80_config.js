@@ -1,1 +1,1 @@
-var mnemonic = "ribbon submit march circle shaft foster select cliff degree system ugly raccoon";
+var mnemonic = "illegal viable boat pink future knock loud below recipe swallow mention pave";

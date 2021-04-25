@@ -1,1 +1,1 @@
-var mnemonic = "victory mountain someone scatter casino amount vicious strong biology ocean swing seven";
+var mnemonic = "armor cage frown february vast world eye bracket forget such onion spread";

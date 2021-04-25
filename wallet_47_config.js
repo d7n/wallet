@@ -1,1 +1,1 @@
-var mnemonic = "alter hair athlete cat ship december frost laugh million dwarf boss kick";
+var mnemonic = "above project document heart easily ball buzz upon still giant surprise garlic";

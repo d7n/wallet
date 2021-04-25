@@ -1,1 +1,1 @@
-var mnemonic = "capable deny glance permit project inform crawl spice settle run upgrade furnace";
+var mnemonic = "grab tooth ancient okay husband wagon festival error mouse crush nuclear matter";

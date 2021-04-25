@@ -1,1 +1,1 @@
-var mnemonic = "scrub deputy boss there cargo wheat enact tomato satisfy derive extra regret";
+var mnemonic = "blind twist coffee helmet jazz caught census into short slim fire wheel";

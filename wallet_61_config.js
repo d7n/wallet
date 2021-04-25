@@ -1,1 +1,1 @@
-var mnemonic = "true before vanish glow iron day shine ocean firm tag remain pride";
+var mnemonic = "goat abuse engage hand style audit kitchen rule reason pact ahead settle";

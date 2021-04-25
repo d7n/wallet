@@ -1,1 +1,1 @@
-var mnemonic = "victory sure lock scale mango danger page banana cheap client huge allow";
+var mnemonic = "mammal used crucial toast man raw tomorrow axis pigeon stool rally buyer";

@@ -1,1 +1,1 @@
-var mnemonic = "subway wash armor element camera frozen name want old fence problem next";
+var mnemonic = "buyer culture weird elder crouch jealous taxi page three enemy image room";

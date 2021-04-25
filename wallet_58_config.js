@@ -1,1 +1,1 @@
-var mnemonic = "kind silk caution stable rigid donkey lucky exist biology caution window run";
+var mnemonic = "daring search capable height amazing eager spin ankle range cause culture when";

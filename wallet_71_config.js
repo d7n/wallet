@@ -1,1 +1,1 @@
-var mnemonic = "key magic filter today buyer salute dance bring canvas home soccer donor";
+var mnemonic = "bag loud today admit about update syrup salmon clown gym lyrics total";

@@ -1,1 +1,1 @@
-var mnemonic = "praise glove whip move cage puzzle economy actual naive decline truck sustain";
+var mnemonic = "like mail pass salute affair produce fossil across frame crisp forget flat";

@@ -1,1 +1,1 @@
-var mnemonic = "boil grit wide health absurd athlete drop priority crime wing swift sight";
+var mnemonic = "purse image pledge impulse pole slender divide drive unit debate crack cabin";

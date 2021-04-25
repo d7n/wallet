@@ -1,1 +1,1 @@
-var mnemonic = "sustain vault unusual resist nasty tomorrow tribe foil throw fantasy keen window";
+var mnemonic = "fresh carpet material laundry good history strategy boss treat call federal guard";

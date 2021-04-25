@@ -1,1 +1,1 @@
-var mnemonic = "couch follow vapor camp increase image desk clerk robust heart trap media";
+var mnemonic = "blood board until cart return dinner capital bright soda tribe valid lizard";

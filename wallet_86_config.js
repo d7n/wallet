@@ -1,1 +1,1 @@
-var mnemonic = "prefer morning ignore upset veteran vessel beef disease current unveil chimney twelve";
+var mnemonic = "grief cattle version castle accident syrup suit learn exchange diary scare style";

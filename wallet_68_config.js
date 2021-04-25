@@ -1,1 +1,1 @@
-var mnemonic = "final shadow caution system repeat hurt tiger acoustic educate catch mirror umbrella";
+var mnemonic = "history yard basket demand glow knife gallery curtain civil finger large whip";

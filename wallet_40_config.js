@@ -1,1 +1,1 @@
-var mnemonic = "voyage victory success crane flock column reflect false rent rural okay innocent";
+var mnemonic = "purpose grit tortoise dignity fun march prison day early similar pool tiny";

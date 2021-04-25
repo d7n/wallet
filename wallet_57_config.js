@@ -1,1 +1,1 @@
-var mnemonic = "taste thrive weather region lottery margin own fork crawl ask auto author";
+var mnemonic = "small antenna hole jelly protect wedding camera erosion weapon jewel avocado exhibit";

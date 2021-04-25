@@ -1,1 +1,1 @@
-var mnemonic = "medal mix series list tooth abandon wealth scan such toy mango cement";
+var mnemonic = "spend code blur expose design sunset marine pepper fossil depth inject vote";

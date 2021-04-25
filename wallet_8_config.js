@@ -1,1 +1,1 @@
-var mnemonic = "pool achieve october salad tennis spice adapt joke baby skate sick banner";
+var mnemonic = "common barrel leave shoot dentist leopard round word hope tower pattern canoe";

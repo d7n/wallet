@@ -1,1 +1,1 @@
-var mnemonic = "page slab essence movie whip curve valve tuition festival custom elder cruel";
+var mnemonic = "crew energy true correct beef silly smooth print else market palm limb";

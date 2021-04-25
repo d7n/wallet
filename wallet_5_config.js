@@ -1,1 +1,1 @@
-var mnemonic = "extra purity amazing dance stock craft adult leave decrease torch climb steel";
+var mnemonic = "quit young pizza walk primary square wall response catch candy promote scatter";

@@ -1,1 +1,1 @@
-var mnemonic = "where bounce wash indicate calm spend kid arrow hobby reveal absent engine";
+var mnemonic = "blade pitch quality skin tornado surprise toddler misery victory honey manual whip";

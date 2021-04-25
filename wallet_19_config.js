@@ -1,1 +1,1 @@
-var mnemonic = "stove raise erase close echo top pelican lawsuit pen universe village approve";
+var mnemonic = "payment ranch buffalo tilt mother hood work celery bus frog shoot source";

@@ -1,1 +1,1 @@
-var mnemonic = "exotic jealous member pledge soda state draw jungle athlete boil example park";
+var mnemonic = "sketch panic orchard curious theory flee rabbit ecology nuclear during solve robust";

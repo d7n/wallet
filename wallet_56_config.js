@@ -1,1 +1,1 @@
-var mnemonic = "bacon duty burger among palm stool expand approve idea vacant panel wheel";
+var mnemonic = "joke rather skull barely virus tube cycle exit corn rotate demise soccer";

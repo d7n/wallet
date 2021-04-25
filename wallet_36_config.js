@@ -1,1 +1,1 @@
-var mnemonic = "liberty long staff tuition island replace into again escape chaos clinic online";
+var mnemonic = "tone lumber chief great argue current entire leader recycle avoid can current";

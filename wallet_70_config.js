@@ -1,1 +1,1 @@
-var mnemonic = "sad scatter tray model flock dune toward universe blast mad alert mystery";
+var mnemonic = "run blanket shadow fancy ocean kiwi treat keep demise laugh boy nose";

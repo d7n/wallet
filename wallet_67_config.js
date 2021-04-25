@@ -1,1 +1,1 @@
-var mnemonic = "assume regret walnut crawl shove together nose now hat amount panel salmon";
+var mnemonic = "evil worth escape inmate enter runway next wash patient deal warrior limit";

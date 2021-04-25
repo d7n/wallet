@@ -1,1 +1,1 @@
-var mnemonic = "layer betray pave sick stable name solution stool service teach excuse barely";
+var mnemonic = "dumb bicycle foam fame moment ask victory trend chapter winner distance bread";

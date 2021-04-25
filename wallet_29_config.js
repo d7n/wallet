@@ -1,1 +1,1 @@
-var mnemonic = "slide inhale minute retire photo mesh afraid express february rotate depend conduct";
+var mnemonic = "van frequent nature demise happy gold soccer drink fuel puppy alley ship";

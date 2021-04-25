@@ -1,1 +1,1 @@
-var mnemonic = "vicious fragile biology exhaust afraid that save join weapon copper prepare invite";
+var mnemonic = "enrich damp idea craft grace spread cool merge predict copper creek spray";

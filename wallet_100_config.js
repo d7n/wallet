@@ -1,1 +1,1 @@
-var mnemonic = "assist biology number daring fence attitude smoke sword eye body spoil flavor";
+var mnemonic = "shallow essay business tuition elite flush sauce genius angry device immense ladder";

@@ -1,1 +1,1 @@
-var mnemonic = "knee roof burger patrol where snack wood focus yellow dish width mutual";
+var mnemonic = "marine first resource rain kid there lawn giant salmon guitar broccoli sample";

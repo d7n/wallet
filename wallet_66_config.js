@@ -1,1 +1,1 @@
-var mnemonic = "list hen blast advance again wrist crouch general credit side addict narrow";
+var mnemonic = "embark imitate chapter image female chat unfair venture prosper nation little sad";

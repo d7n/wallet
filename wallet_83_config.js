@@ -1,1 +1,1 @@
-var mnemonic = "finish unaware diagram cloud among soap twice better sword air dove meadow";
+var mnemonic = "repeat flag gauge wood name gasp owner loyal consider melt floor hover";

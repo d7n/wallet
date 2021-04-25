@@ -1,1 +1,1 @@
-var mnemonic = "diesel amazing any novel autumn hundred tent clown feel donkey cat act";
+var mnemonic = "piano average know uncover jaguar steak because garment antique voyage poem angry";

@@ -1,1 +1,1 @@
-var mnemonic = "base guide biology enhance write guitar place urban clever brick ranch hurry";
+var mnemonic = "wide sponsor phrase magnet dignity glue chronic setup remind drink round talent";

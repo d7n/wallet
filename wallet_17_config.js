@@ -1,1 +1,1 @@
-var mnemonic = "room catalog twelve night emerge jaguar effort license enemy crazy evolve party";
+var mnemonic = "unable praise comic wrong tooth main lake empower language sister gold cigar";

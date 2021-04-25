@@ -1,1 +1,1 @@
-var mnemonic = "water prevent solid letter rhythm plate later congress grape awesome enemy gym";
+var mnemonic = "health wreck car you danger umbrella party weekend capable skill hold sponsor";

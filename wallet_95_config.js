@@ -1,1 +1,1 @@
-var mnemonic = "spin afford grief suffer buyer balcony fold expire abuse observe hole fashion";
+var mnemonic = "room hobby tomato spirit mimic regular state custom stadium mandate disease raccoon";

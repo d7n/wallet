@@ -1,1 +1,1 @@
-var mnemonic = "hungry tray decrease can blouse hover orange crunch submit where phrase village";
+var mnemonic = "bracket birth decade solar decline erode cushion joy coyote exhibit all ride";

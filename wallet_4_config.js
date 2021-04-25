@@ -1,1 +1,1 @@
-var mnemonic = "then weekend risk burst avoid nuclear sister slow dune teach belt swift";
+var mnemonic = "promote minor panel worth sense spread toward flag melt trap truly arrest";

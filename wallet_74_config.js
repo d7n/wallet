@@ -1,1 +1,1 @@
-var mnemonic = "entry gun already legend tennis mandate acoustic child owner tourist educate write";
+var mnemonic = "ivory firm raise paddle orchard horse blouse gorilla plastic shine panda anxiety";

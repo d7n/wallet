@@ -1,1 +1,1 @@
-var mnemonic = "sunset verify extend always cement cabin canvas obtain acid flower item happy";
+var mnemonic = "juice act collect hungry sauce exhaust hover various spell diesel method art";

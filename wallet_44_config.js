@@ -1,1 +1,1 @@
-var mnemonic = "attack crisp private choose jaguar garden very undo ladder velvet elephant dragon";
+var mnemonic = "divorce tornado venue actor canyon online episode frequent oval crumble end cherry";

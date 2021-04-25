@@ -1,1 +1,1 @@
-var mnemonic = "person tennis pond lift fancy shrug surround alcohol frame noise quote common";
+var mnemonic = "satoshi blanket oil moral valid because ticket company symptom general float device";

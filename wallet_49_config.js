@@ -1,1 +1,1 @@
-var mnemonic = "final heavy potato glare omit satisfy rely gym vibrant theory rain valve";
+var mnemonic = "scene chalk loop ketchup very drum source pizza session piano shoot cable";

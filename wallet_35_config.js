@@ -1,1 +1,1 @@
-var mnemonic = "myself shove label range enable bounce invite fall shuffle square kind race";
+var mnemonic = "expose together reflect employ village struggle response antenna odor bamboo destroy average";
