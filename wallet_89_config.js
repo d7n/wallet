@@ -1,1 +1,1 @@
-var mnemonic = "miss between oblige cage cloud faint mention news drive tent stove country";
+var mnemonic = "success mutual twice resemble sunset artefact grab couch bid praise brass dwarf";

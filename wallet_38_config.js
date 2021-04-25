@@ -1,1 +1,1 @@
-var mnemonic = "tool purse section tourist cinnamon ankle debris glide reopen twice imitate bean";
+var mnemonic = "mixture elegant hour rack regular police pass car marble profit image slender";

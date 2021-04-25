@@ -1,1 +1,1 @@
-var mnemonic = "survey bring novel waste market leader metal soap mountain salt year cereal";
+var mnemonic = "since field tomorrow excite marble sign buyer tooth patrol process spring lemon";

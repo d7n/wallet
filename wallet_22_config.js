@@ -1,1 +1,1 @@
-var mnemonic = "onion reunion ribbon combine basket ankle merry gloom trial awesome alcohol gauge";
+var mnemonic = "brain genre follow liquid bless captain bunker bean uphold rural better amateur";

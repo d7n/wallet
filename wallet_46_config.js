@@ -1,1 +1,1 @@
-var mnemonic = "angry toss remain sister siege average slush pill whale brief deny cigar";
+var mnemonic = "senior merit logic camera easy hundred child goat bottom traffic walnut girl";

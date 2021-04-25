@@ -1,1 +1,1 @@
-var mnemonic = "history into catch addict prison casual alien more bullet silver warrior supply";
+var mnemonic = "donate gospel night chase away gold naive recipe option great wear shove";

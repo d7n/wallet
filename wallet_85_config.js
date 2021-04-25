@@ -1,1 +1,1 @@
-var mnemonic = "moon deliver safe call child jewel wrong distance autumn day congress motor";
+var mnemonic = "assault drastic stove exhibit mask about actor across that creek under unlock";

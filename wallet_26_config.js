@@ -1,1 +1,1 @@
-var mnemonic = "enroll embrace crystal purpose use erosion duty put base truth rocket blood";
+var mnemonic = "solve moment girl village april antique pony slight satisfy mixture black scan";

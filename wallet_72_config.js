@@ -1,1 +1,1 @@
-var mnemonic = "resource sorry expect space waste flip online wet client chef fit across";
+var mnemonic = "puzzle mom balcony smile sort advice exist happy rescue true goose famous";

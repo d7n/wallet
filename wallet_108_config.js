@@ -1,1 +1,1 @@
-var mnemonic = "record insect coconut mutual topple similar cash matter avoid desert drama avocado";
+var mnemonic = "thrive flash aerobic fatigue weird better dragon dentist quality ramp frequent profit";

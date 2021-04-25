@@ -1,1 +1,1 @@
-var mnemonic = "question correct link firm agent script decide text resemble palace mosquito must";
+var mnemonic = "swim weasel gown lady pride mix piano digital city creek among surface";

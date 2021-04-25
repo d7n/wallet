@@ -1,1 +1,1 @@
-var mnemonic = "impulse alert mountain require hurt more salt later erase train clump kick";
+var mnemonic = "coyote famous turn aware drill year idea myself wild scrub alarm cushion";

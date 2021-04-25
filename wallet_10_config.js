@@ -1,1 +1,1 @@
-var mnemonic = "dash chef balcony absent live output shine divide bachelor egg leopard song";
+var mnemonic = "rose section segment season lecture cute coral fuel retreat blanket bright parent";

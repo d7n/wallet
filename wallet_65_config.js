@@ -1,1 +1,1 @@
-var mnemonic = "credit nature record cradle click common arch useful tape surprise other all";
+var mnemonic = "blouse skirt gauge win corn dignity better giggle voyage luggage way term";

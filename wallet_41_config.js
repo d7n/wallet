@@ -1,1 +1,1 @@
-var mnemonic = "sponsor labor lock impose affair huge jacket sphere vacuum typical rival empower";
+var mnemonic = "please twin crazy banner nasty soon razor oval fatal fresh name horse";

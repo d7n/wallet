@@ -1,1 +1,1 @@
-var mnemonic = "pig harbor reveal horn surround guitar throw visit fortune alarm stock chuckle";
+var mnemonic = "tone phrase mechanic audit witness merry brick hockey humor host rude become";

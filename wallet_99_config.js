@@ -1,1 +1,1 @@
-var mnemonic = "lizard clown illegal faith tuna chapter any shy company current govern clown";
+var mnemonic = "usage blanket tornado object close shiver filter load cattle doctor lion inhale";

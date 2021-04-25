@@ -1,1 +1,1 @@
-var mnemonic = "human satisfy couch echo deposit vague crouch happy inch tuna universe name";
+var mnemonic = "order evidence release explain place banana pretty bargain grab ski pudding elite";

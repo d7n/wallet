@@ -1,1 +1,1 @@
-var mnemonic = "possible peasant among large swarm silver jaguar hip stand glass hurdle equip";
+var mnemonic = "caution spare illegal arrive balcony cricket fade excite club cannon dragon clock";

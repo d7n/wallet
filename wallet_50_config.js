@@ -1,1 +1,1 @@
-var mnemonic = "trumpet clock boil word hockey visa symbol father among affair echo cage";
+var mnemonic = "dust make custom mirror more vacant royal melody mushroom grab blossom gentle";

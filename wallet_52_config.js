@@ -1,1 +1,1 @@
-var mnemonic = "visa trash talent dirt census discover excuse spy minor file tilt view";
+var mnemonic = "code picnic valid era race umbrella veteran pelican heavy unusual crush always";

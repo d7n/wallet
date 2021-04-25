@@ -1,1 +1,1 @@
-var mnemonic = "taste reject bubble tobacco auction leisure access bike mercy cat thrive wedding";
+var mnemonic = "diamond depth token possible easy sure honey nature gather click swallow ancient";

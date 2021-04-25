@@ -1,1 +1,1 @@
-var mnemonic = "explain basket hour ramp barely poverty fix problem glass mammal power surround";
+var mnemonic = "fat cliff topple load panic obvious alpha harbor fuel worry often place";

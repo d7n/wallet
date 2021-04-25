@@ -1,1 +1,1 @@
-var mnemonic = "pond scrap note leisure margin wolf circle decade electric umbrella marble way";
+var mnemonic = "adapt force inject donate almost tongue interest chronic coin divorce concert ethics";

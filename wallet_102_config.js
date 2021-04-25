@@ -1,1 +1,1 @@
-var mnemonic = "host grain upon shock unfair joy impulse tongue solid master collect beyond";
+var mnemonic = "area upon argue maximum fat emerge traffic fan kite expire slim coil";

@@ -1,1 +1,1 @@
-var mnemonic = "palace brisk addict sketch toddler wire metal mesh three there demand gesture";
+var mnemonic = "slender beach fiscal obvious shove empower major gravity book toss boat wine";

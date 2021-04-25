@@ -1,1 +1,1 @@
-var mnemonic = "crumble wool mountain better series stomach invest blouse hunt glue floor marble";
+var mnemonic = "craft tortoise half such private image vintage moment scout mutual reform feed";

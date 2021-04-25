@@ -1,1 +1,1 @@
-var mnemonic = "echo mansion proud small clown alien capable economy iron supreme tooth peanut";
+var mnemonic = "little turn apart subway dog spoil broom know mystery bright below amused";

@@ -1,1 +1,1 @@
-var mnemonic = "tennis hurry address question dinosaur soon target enemy time emerge repair elbow";
+var mnemonic = "bar own brave pigeon label salon author exist slide note degree vicious";

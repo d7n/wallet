@@ -1,1 +1,1 @@
-var mnemonic = "wave life output speak custom eagle unusual radar require phrase finish clerk";
+var mnemonic = "zoo sunset coyote hurt ozone ketchup breeze remember worth denial usual saddle";

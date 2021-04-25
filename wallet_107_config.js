@@ -1,1 +1,1 @@
-var mnemonic = "detail smooth coyote loud cart faith click check ranch virtual grid summer";
+var mnemonic = "caution pumpkin oak abstract vehicle raccoon patch flight alone crop wood crack";

@@ -1,1 +1,1 @@
-var mnemonic = "assault ocean door drastic chest ethics web decrease between innocent public budget";
+var mnemonic = "summer betray derive wool food yellow wood among eye shoulder skate vendor";

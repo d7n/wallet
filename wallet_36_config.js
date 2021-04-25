@@ -1,1 +1,1 @@
-var mnemonic = "dismiss common hire exhaust shove side humor bomb armor lake radar else";
+var mnemonic = "slight will blast actual shaft gaze gift upgrade raccoon census chase october";

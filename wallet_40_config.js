@@ -1,1 +1,1 @@
-var mnemonic = "loan trial mail option burger album damage october cinnamon six garlic taxi";
+var mnemonic = "paper grit range dice praise sweet stock rotate museum faint wet inherit";

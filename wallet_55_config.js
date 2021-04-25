@@ -1,1 +1,1 @@
-var mnemonic = "sunset skirt face rabbit nut nature begin zone hurt supply blouse rigid";
+var mnemonic = "yard alley clog flash relief great scale crew lake amount wife sure";

@@ -1,1 +1,1 @@
-var mnemonic = "pulp inhale giraffe tent crucial about federal awake palm long staff soul";
+var mnemonic = "harvest want sort danger minute nominee object expect oil tobacco riot search";

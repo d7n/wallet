@@ -1,1 +1,1 @@
-var mnemonic = "frozen fire fun network night fox mushroom clap crew move quick use";
+var mnemonic = "left moral stumble runway pool ahead initial fetch matter follow thing snap";

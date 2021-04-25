@@ -1,1 +1,1 @@
-var mnemonic = "matrix gesture rhythm desk target between sense thumb trumpet frog oven find";
+var mnemonic = "road pulp supply february essence thunder harsh beach syrup theory float income";

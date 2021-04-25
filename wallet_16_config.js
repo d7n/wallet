@@ -1,1 +1,1 @@
-var mnemonic = "scare patch skate morning shove common monster measure burden add unique guard";
+var mnemonic = "lend entry slight snake like toward ten cloth damp insect unique insane";

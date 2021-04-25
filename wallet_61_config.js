@@ -1,1 +1,1 @@
-var mnemonic = "heavy urge winner review debris silent spring brisk ensure moment wear slow";
+var mnemonic = "rent girl ladder later canal level envelope rib onion bread tape cruel";

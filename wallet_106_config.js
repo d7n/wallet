@@ -1,1 +1,1 @@
-var mnemonic = "front nephew tooth jar race unit napkin breeze sense index sleep cat";
+var mnemonic = "verb october order off vast staff busy review swarm come private pluck";

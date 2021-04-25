@@ -1,1 +1,1 @@
-var mnemonic = "define wolf squeeze liar stand old palace trust sunny prepare adult hockey";
+var mnemonic = "palm job doll minimum genius guitar gym carry glide version fiscal era";

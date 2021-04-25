@@ -1,1 +1,1 @@
-var mnemonic = "welcome receive fruit refuse garlic rather minor sketch violin drum dog patrol";
+var mnemonic = "clever talent shield debate course tube jaguar online powder sing useful bone";

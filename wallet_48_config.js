@@ -1,1 +1,1 @@
-var mnemonic = "annual loan alcohol throw improve rebel jar gym balance sort interest million";
+var mnemonic = "benefit canoe crunch notice fluid earn fancy tonight online fog clean layer";

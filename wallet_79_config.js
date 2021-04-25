@@ -1,1 +1,1 @@
-var mnemonic = "hunt talent school fashion better push icon noise morning gasp tragic strategy";
+var mnemonic = "liberty nest empty siege cook upper foil message soldier derive talent champion";

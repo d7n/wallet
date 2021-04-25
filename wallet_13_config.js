@@ -1,1 +1,1 @@
-var mnemonic = "hood transfer boring load ceiling urge badge search write early royal slogan";
+var mnemonic = "afraid goddess young talk fortune treat version vessel swap skill brass swing";

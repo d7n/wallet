@@ -1,1 +1,1 @@
-var mnemonic = "primary mix proof include city beauty bus transfer blood margin venue prosper";
+var mnemonic = "manual weapon blouse save phone high puppy verify husband polar pizza chase";

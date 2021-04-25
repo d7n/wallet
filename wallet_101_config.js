@@ -1,1 +1,1 @@
-var mnemonic = "finger enlist promote valve history finish gossip unlock join boy enroll noodle";
+var mnemonic = "force usage response jelly rough sadness retreat number setup riot remove salon";

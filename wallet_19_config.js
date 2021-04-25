@@ -1,1 +1,1 @@
-var mnemonic = "board chief forest pet camera cherry salt subject debris convince curtain night";
+var mnemonic = "dune ecology year jaguar dolphin chronic type egg game embrace make obscure";

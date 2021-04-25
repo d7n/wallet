@@ -1,1 +1,1 @@
-var mnemonic = "solution tag nominee rigid crunch portion focus deal coral horn real blade";
+var mnemonic = "journey episode tent plate street sun ability erode obvious fiber main globe";

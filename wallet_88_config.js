@@ -1,1 +1,1 @@
-var mnemonic = "arm casino merge away tooth ranch once tree goat season faculty multiply";
+var mnemonic = "much champion paper like sweet shed grace theory chief hazard fiber better";

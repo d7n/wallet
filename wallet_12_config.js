@@ -1,1 +1,1 @@
-var mnemonic = "enlist soccer capable path bachelor street pitch open tube affair ribbon tool";
+var mnemonic = "blast replace scare mountain cushion summer midnight sample current flush border venture";

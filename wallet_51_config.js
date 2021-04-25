@@ -1,1 +1,1 @@
-var mnemonic = "holiday cost diamond fire seminar rain aware churn floor flush prosper loud";
+var mnemonic = "tortoise primary merry disorder spray yellow local provide peanut mule sand retire";

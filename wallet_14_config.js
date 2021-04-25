@@ -1,1 +1,1 @@
-var mnemonic = "symptom street inherit scene agree rotate oven business bike vicious tower swing";
+var mnemonic = "civil accuse color faint sustain few nominee rubber helmet rookie true assault";

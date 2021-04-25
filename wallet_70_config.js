@@ -1,1 +1,1 @@
-var mnemonic = "runway slice universe pumpkin cheese language claw decide menu merge either panther";
+var mnemonic = "like mountain carbon act crawl kit scene option domain resemble relax public";

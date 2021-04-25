@@ -1,1 +1,1 @@
-var mnemonic = "either behind utility swap crystal rebuild surge drive benefit spin problem square";
+var mnemonic = "answer mosquito knock peace green manual immense hobby absurd consider slogan pilot";

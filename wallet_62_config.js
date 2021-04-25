@@ -1,1 +1,1 @@
-var mnemonic = "close diesel behave copper gallery wagon grit finger fee garlic finger prison";
+var mnemonic = "lesson just current gap hub art aspect domain picnic book argue local";

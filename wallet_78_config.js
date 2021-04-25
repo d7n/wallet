@@ -1,1 +1,1 @@
-var mnemonic = "install cause layer wisdom flat flavor usual dawn endless ketchup rough frown";
+var mnemonic = "hunt better unknown enforce copy crash chapter annual melody pistol dwarf tank";

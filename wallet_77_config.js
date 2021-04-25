@@ -1,1 +1,1 @@
-var mnemonic = "calm spare program below fix skin wire book arrive bread wine squeeze";
+var mnemonic = "husband monkey cable talk corn flush acquire patient slow alien run casino";

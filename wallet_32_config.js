@@ -1,1 +1,1 @@
-var mnemonic = "behave nuclear awful icon clown ginger because coach clap only story proof";
+var mnemonic = "news switch choice castle slice life expose enact cinnamon else scare rifle";

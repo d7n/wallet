@@ -1,1 +1,1 @@
-var mnemonic = "include trash excuse abstract explain settle village job cinnamon logic cup all";
+var mnemonic = "duck invite business adult iron modify copper coin guide husband lazy enter";

@@ -1,1 +1,1 @@
-var mnemonic = "actress gaze chat own bar update another file moon tape token steel";
+var mnemonic = "barrel stomach exchange rookie nothing today skin toast answer sphere forum since";

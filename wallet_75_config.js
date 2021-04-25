@@ -1,1 +1,1 @@
-var mnemonic = "close first stadium amazing inmate glad lucky seek december calm dentist better";
+var mnemonic = "input flame vote warm holiday dial cool pluck tell violin train festival";

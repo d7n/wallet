@@ -1,1 +1,1 @@
-var mnemonic = "hunt rookie anchor sight quote simple book employ unit dog risk weather";
+var mnemonic = "salute harsh profit bamboo about orient lake wolf service cup stable auto";

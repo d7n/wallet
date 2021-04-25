@@ -1,1 +1,1 @@
-var mnemonic = "tragic original report write gossip random father ritual sound path fiber vintage";
+var mnemonic = "half town account album group any assume trip amount captain oven drill";

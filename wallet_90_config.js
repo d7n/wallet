@@ -1,1 +1,1 @@
-var mnemonic = "bright opera prevent mule dumb east husband rebel broccoli poverty stem lemon";
+var mnemonic = "canoe asset weapon letter brisk lift link include merit athlete medal tag";

@@ -1,1 +1,1 @@
-var mnemonic = "rare replace vote pear nation gun series grace group swear erode kind";
+var mnemonic = "reward tragic minute fly region angry grow income satisfy spoon wheel over";

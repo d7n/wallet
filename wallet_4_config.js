@@ -1,1 +1,1 @@
-var mnemonic = "embrace vanish infant throw local float gold order promote gate suggest wall";
+var mnemonic = "clog fantasy avoid strike maid face noise inspire sense bone awesome genre";

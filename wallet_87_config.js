@@ -1,1 +1,1 @@
-var mnemonic = "praise still viable train deny wedding couch sentence exist knock dad tissue";
+var mnemonic = "captain monitor success spot popular must lawn wage pony thank glow denial";

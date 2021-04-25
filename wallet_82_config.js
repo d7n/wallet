@@ -1,1 +1,1 @@
-var mnemonic = "public tube hedgehog gaze depart seek cliff write govern wet cup knee";
+var mnemonic = "riot reopen license aisle reason snake coral game phrase inflict agent actor";

@@ -1,1 +1,1 @@
-var mnemonic = "dad south dentist space repeat chest good dizzy buzz old agree umbrella";
+var mnemonic = "moral mask basic thunder earth work enlist bullet noodle humor like future";

@@ -1,1 +1,1 @@
-var mnemonic = "pond else toast toss toy diamond fork cart robot olive pair business";
+var mnemonic = "border clip already october sing shy trash arrange shoulder hammer fragile vote";

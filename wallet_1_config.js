@@ -1,1 +1,1 @@
-var mnemonic = "usual scale supply member pitch iron cruel party shoulder rural sponsor found";
+var mnemonic = "marriage predict coach off raccoon rain kitchen police bean solution much sausage";

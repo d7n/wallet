@@ -1,1 +1,1 @@
-var mnemonic = "twenty venue tissue flavor collect plug aware photo club sound length resist";
+var mnemonic = "tone receive snap credit web grab opinion crew garbage flat ladder forest";

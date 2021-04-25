@@ -1,1 +1,1 @@
-var mnemonic = "female toddler machine lyrics hand chicken enrich kiss wink repeat gospel metal";
+var mnemonic = "creek demise speed novel disease work admit illness defy video try heavy";

@@ -1,1 +1,1 @@
-var mnemonic = "disease banana ugly wife blind anchor kingdom fancy hour shrimp artefact journey";
+var mnemonic = "rapid narrow front quality topic fish member soldier cable happy kite skirt";

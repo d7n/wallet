@@ -1,1 +1,1 @@
-var mnemonic = "fragile promote buzz shock mirror inside true vicious drop piece dignity rare";
+var mnemonic = "switch hotel bench flight laugh tell holiday undo harvest onion open fat";

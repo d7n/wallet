@@ -1,1 +1,1 @@
-var mnemonic = "symbol world battle oyster clown guess marble invest input symptom able cattle";
+var mnemonic = "affair omit smooth globe hire powder hold work glass elevator now hat";

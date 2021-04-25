@@ -1,1 +1,1 @@
-var mnemonic = "couch silk crater unaware check find sunset song future disagree expose right";
+var mnemonic = "income saddle direct symptom swap tissue recall crew boil brown siege jewel";

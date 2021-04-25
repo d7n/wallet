@@ -1,1 +1,1 @@
-var mnemonic = "satoshi outer shaft gloom into fog lens kick broken dune cotton label";
+var mnemonic = "purity kiss corn matter vendor path congress require route solution blood arena";

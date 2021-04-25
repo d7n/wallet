@@ -1,1 +1,1 @@
-var mnemonic = "stone welcome inject ridge ramp virus copper female gasp area sponsor visual";
+var mnemonic = "deny define make place wash vote end garment daring exist dirt finger";

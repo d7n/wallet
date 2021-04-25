@@ -1,1 +1,1 @@
-var mnemonic = "shock garlic name endorse must cluster parent jungle surface wrist quiz jewel";
+var mnemonic = "coffee notable banner cruise auction hurry beauty awake hour ordinary gesture cousin";

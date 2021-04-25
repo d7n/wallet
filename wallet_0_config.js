@@ -1,1 +1,1 @@
-var mnemonic = "myself fog someone squirrel pelican scan scheme want gospel close silly innocent";
+var mnemonic = "view interest oblige unveil umbrella height memory trumpet begin claim okay whip";

@@ -1,1 +1,1 @@
-var mnemonic = "mask escape track goddess race jacket jump learn addict gain physical switch";
+var mnemonic = "wheel weird wreck radio huge unknown machine valley beach forest clap notable";

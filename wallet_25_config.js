@@ -1,1 +1,1 @@
-var mnemonic = "obvious bus soon potato ask render real truly pink vintage connect illegal";
+var mnemonic = "sample syrup improve lesson cricket exile salad frown aim ride ceiling shift";

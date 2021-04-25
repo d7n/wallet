@@ -1,1 +1,1 @@
-var mnemonic = "mirror bullet believe fold song exist myself brain denial fold group amateur";
+var mnemonic = "proud scrub review width scout uncover license reduce season quiz area pelican";

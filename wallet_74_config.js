@@ -1,1 +1,1 @@
-var mnemonic = "rough resource worth tray milk horse train rifle edit ancient amused sadness";
+var mnemonic = "weekend reflect diagram push ski powder wheel convince treat dove joke village";

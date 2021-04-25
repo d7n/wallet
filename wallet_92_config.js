@@ -1,1 +1,1 @@
-var mnemonic = "planet goat artist come scrub debris neutral sadness pistol tube file vocal";
+var mnemonic = "car journey wash slender tree print reveal update dizzy tennis aunt maple";

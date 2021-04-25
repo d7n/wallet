@@ -1,1 +1,1 @@
-var mnemonic = "present loop year miss bamboo scatter teach mosquito raven else grocery spatial";
+var mnemonic = "wrap name opinion spatial thrive guide copy cigar inquiry media equal more";

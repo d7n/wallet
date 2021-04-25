@@ -1,1 +1,1 @@
-var mnemonic = "road prefer stumble betray wet river blame abuse want cause panda comfort";
+var mnemonic = "pencil correct milk more spy submit number drama valve photo boil liberty";

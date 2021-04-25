@@ -1,1 +1,1 @@
-var mnemonic = "clever coconut unfold buzz tomorrow protect sausage safe rose water history jar";
+var mnemonic = "early degree focus eye approve wet glad intact elegant gasp close matter";

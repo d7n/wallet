@@ -1,1 +1,1 @@
-var mnemonic = "inch guide example soft gain rather desk reform biology problem away civil";
+var mnemonic = "decade chapter kiss area forest six banner you arrow steel pioneer mean";

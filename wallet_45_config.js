@@ -1,1 +1,1 @@
-var mnemonic = "kid enable palm shallow limb find color cricket toddler spin demise donor";
+var mnemonic = "oppose infant saddle claw charge tunnel mosquito attitude index same trumpet agree";

@@ -1,1 +1,1 @@
-var mnemonic = "bless access emotion fever police leave phone wear ship maple elephant dinner";
+var mnemonic = "amateur isolate stock course friend float output capital pluck profit dizzy color";

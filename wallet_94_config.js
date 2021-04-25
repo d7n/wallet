@@ -1,1 +1,1 @@
-var mnemonic = "virtual potato fitness inform connect firm range upset already mercy twice tide";
+var mnemonic = "labor scatter total chase better alcohol hotel veteran dinner issue doctor gravity";

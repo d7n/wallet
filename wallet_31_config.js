@@ -1,1 +1,1 @@
-var mnemonic = "laptop party shove word person stamp razor plate chapter clerk car barrel";
+var mnemonic = "history sphere rally cabin birth elite tissue joke retire audit home mention";

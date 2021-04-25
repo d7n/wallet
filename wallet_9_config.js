@@ -1,1 +1,1 @@
-var mnemonic = "under nest hill nominee salad siege exist open lunch avocado pretty skin";
+var mnemonic = "clap pole midnight trick leave tunnel busy grid fiber cool joke electric";
