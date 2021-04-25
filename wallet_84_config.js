@@ -1,1 +1,1 @@
-var mnemonic = "wheat robust survey fly holiday left meat wire write rose mango sun";
+var mnemonic = "blush behind moment right amateur click day layer brick act large team";

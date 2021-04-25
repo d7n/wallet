@@ -1,1 +1,1 @@
-var mnemonic = "juice party upset patient input person sword legal staff term loop prepare";
+var mnemonic = "clump topic dial marriage mango goose click essence razor need inhale bulb";

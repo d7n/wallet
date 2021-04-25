@@ -1,1 +1,1 @@
-var mnemonic = "undo shove someone certain sphere promote type avoid share fire retire march";
+var mnemonic = "fabric simple fire record toast lazy hat plug fatigue nose there endorse";

@@ -1,1 +1,1 @@
-var mnemonic = "evolve arm that refuse awake slogan wife boost spider dwarf impulse armed";
+var mnemonic = "gap timber double sock cable pyramid hurt rail reflect outer diamond quit";

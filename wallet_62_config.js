@@ -1,1 +1,1 @@
-var mnemonic = "have resemble become shaft grunt chest music harsh hurt relax sausage hockey";
+var mnemonic = "humor drastic split sentence rocket alter advance match auto return eyebrow click";

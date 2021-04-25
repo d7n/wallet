@@ -1,1 +1,1 @@
-var mnemonic = "error globe liquid civil fee ski hungry pumpkin cannon crack library north";
+var mnemonic = "chuckle leave direct miracle found marine oyster scare danger fabric drift recall";

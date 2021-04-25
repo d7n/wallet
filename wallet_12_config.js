@@ -1,1 +1,1 @@
-var mnemonic = "lizard kick bean settle point easily small drill humor leopard impact quote";
+var mnemonic = "mouse brush add shed equal frozen donate million judge camera warm return";

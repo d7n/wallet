@@ -1,1 +1,1 @@
-var mnemonic = "also box away all adult net glue sail danger current noise float";
+var mnemonic = "buzz stove dune absurd side retreat attract verb cause elegant wood tourist";

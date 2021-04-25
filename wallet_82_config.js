@@ -1,1 +1,1 @@
-var mnemonic = "broom submit faith yellow impulse plastic raven toy trade execute oppose unveil";
+var mnemonic = "vacant subway agent hotel domain office blind normal monster ticket cabbage congress";

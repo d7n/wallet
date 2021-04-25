@@ -1,1 +1,1 @@
-var mnemonic = "crime favorite recipe bridge zone what barely juice cement utility industry raven";
+var mnemonic = "iron forget ahead stove rubber hammer bundle job genius tube uncle capable";

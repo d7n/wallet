@@ -1,1 +1,1 @@
-var mnemonic = "teach better thumb obey robust bird school trim digital knee hen gloom";
+var mnemonic = "uphold battle give marble coral cactus game author domain embark stadium modify";

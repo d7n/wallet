@@ -1,1 +1,1 @@
-var mnemonic = "board wife welcome universe menu subway screen reflect explain siege science nerve";
+var mnemonic = "still glove lecture manual volcano much orange suffer august sure choose walnut";

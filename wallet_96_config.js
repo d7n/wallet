@@ -1,1 +1,1 @@
-var mnemonic = "divide inherit drive rabbit stuff foam peanut top nuclear frown scare engage";
+var mnemonic = "farm scatter river december rally thumb auction paddle enjoy feature fancy heavy";

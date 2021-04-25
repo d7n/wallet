@@ -1,1 +1,1 @@
-var mnemonic = "solid volume kitchen assault gain donate stomach express interest radio hover cheese";
+var mnemonic = "fancy entire frozen desk wool sock speak food mercy topic robot tiger";

@@ -1,1 +1,1 @@
-var mnemonic = "bicycle alcohol point peasant flower embody hold inhale two deposit often parrot";
+var mnemonic = "north boil offer lumber tank blast split market law garlic october comic";

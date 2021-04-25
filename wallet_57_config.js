@@ -1,1 +1,1 @@
-var mnemonic = "evolve rural hawk moral video juice syrup say develop sing dad sweet";
+var mnemonic = "twist power clock jelly else pottery shift manual aspect height report degree";

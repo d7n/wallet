@@ -1,1 +1,1 @@
-var mnemonic = "undo shove normal guard mixed hurt what olympic apple enroll sand trash";
+var mnemonic = "mansion hip egg olympic mercy flame human negative coral gas raccoon orphan";

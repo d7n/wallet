@@ -1,1 +1,1 @@
-var mnemonic = "color prevent bus they cargo trust acoustic arrive pretty state praise will";
+var mnemonic = "family general real leave page pipe fancy layer equip price symptom use";

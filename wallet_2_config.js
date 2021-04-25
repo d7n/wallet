@@ -1,1 +1,1 @@
-var mnemonic = "employ history asset use walk space flight aisle host edit tortoise butter";
+var mnemonic = "depart cave better nation shock inject genius edit refuse flock curious enlist";

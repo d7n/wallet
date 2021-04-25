@@ -1,1 +1,1 @@
-var mnemonic = "bulk kidney credit opinion review leaf carpet ice release scrub minor erase";
+var mnemonic = "ocean hill loud fresh govern use busy stool goddess matter funny surprise";

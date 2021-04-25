@@ -1,1 +1,1 @@
-var mnemonic = "coil silver sand front salute gold spirit play valid village unfair cave";
+var mnemonic = "first elbow tide snap luxury rather seat dumb current sister prosper hospital";

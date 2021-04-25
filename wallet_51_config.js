@@ -1,1 +1,1 @@
-var mnemonic = "try kiss tank defy forum kind funny found elite cash fix wagon";
+var mnemonic = "lock among gym slot vacuum disagree skin dwarf bridge sand milk stand";

@@ -1,1 +1,1 @@
-var mnemonic = "suspect test seat cattle demise knee praise bulk drive video extra giggle";
+var mnemonic = "fall supreme party unit million tomorrow prevent october surface side crowd day";

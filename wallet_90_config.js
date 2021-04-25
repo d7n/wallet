@@ -1,1 +1,1 @@
-var mnemonic = "require art sail upgrade metal doll south angry choice palm ozone weather";
+var mnemonic = "copy inside novel seven federal beef neutral owner power elephant market salmon";

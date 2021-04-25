@@ -1,1 +1,1 @@
-var mnemonic = "hole subject lawsuit employ violin ordinary make major execute clip first wreck";
+var mnemonic = "dry course physical margin lobster other attend joy pill buyer typical there";

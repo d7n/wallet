@@ -1,1 +1,1 @@
-var mnemonic = "captain miracle margin adult flee lonely mechanic wheel lake design midnight size";
+var mnemonic = "turn family there gaze wash swamp emotion lazy rule clap spare mass";

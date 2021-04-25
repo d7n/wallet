@@ -1,1 +1,1 @@
-var mnemonic = "clerk owner fish pause gauge record now ordinary image used fault mimic";
+var mnemonic = "enrich zebra subject sorry feel royal crazy destroy blouse milk ozone tell";

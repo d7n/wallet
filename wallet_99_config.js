@@ -1,1 +1,1 @@
-var mnemonic = "void display payment what cabin sword venture train because patrol alone copy";
+var mnemonic = "sphere price raccoon argue target actress near bulk ozone range tomato include";

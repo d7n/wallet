@@ -1,1 +1,1 @@
-var mnemonic = "impact number word catch easy aim pigeon bamboo ceiling lounge trend promote";
+var mnemonic = "tag mechanic calm midnight lizard vacuum round high brave produce pencil suspect";

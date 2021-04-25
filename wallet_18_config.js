@@ -1,1 +1,1 @@
-var mnemonic = "magic brave menu dumb tornado truth hero fluid embody model sun forest";
+var mnemonic = "crowd fetch dutch loan below melt leg trigger child bless blood panel";

@@ -1,1 +1,1 @@
-var mnemonic = "obvious glare cover original easily shuffle asthma monster piano priority screen name";
+var mnemonic = "pear give office purchase grass myth chunk wash canoe setup layer august";

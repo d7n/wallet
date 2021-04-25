@@ -1,1 +1,1 @@
-var mnemonic = "phone raccoon motor whale seven embrace song deny defy brave indicate car";
+var mnemonic = "sniff undo puppy kick trumpet forget powder novel marine border leopard cherry";

@@ -1,1 +1,1 @@
-var mnemonic = "empty season skull crazy alarm quantum wrestle report good initial seven pact";
+var mnemonic = "dutch shove verify shift taste top casual panel flight giraffe fix regular";

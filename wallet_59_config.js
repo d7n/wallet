@@ -1,1 +1,1 @@
-var mnemonic = "fringe miss clip engage olympic chief fame dwarf shrimp sunny neither refuse";
+var mnemonic = "trip lift cluster wolf park leopard barely message dinosaur risk fall huge";

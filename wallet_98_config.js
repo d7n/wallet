@@ -1,1 +1,1 @@
-var mnemonic = "divert main hood level fine void illegal meadow fence depart embrace burger";
+var mnemonic = "cash water prize approve rifle grass language rare roast ignore vibrant fault";

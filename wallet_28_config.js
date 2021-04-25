@@ -1,1 +1,1 @@
-var mnemonic = "glad crater expose report fence hunt wrestle gold robust chimney sea usage";
+var mnemonic = "glass side february alone pill mercy ticket melt sun voice proof knife";

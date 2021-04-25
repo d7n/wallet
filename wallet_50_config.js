@@ -1,1 +1,1 @@
-var mnemonic = "wool weather rival nuclear aspect caught fade notable art middle output where";
+var mnemonic = "manage game tail black teach since genuine true favorite company dumb above";

@@ -1,1 +1,1 @@
-var mnemonic = "alarm predict practice universe smoke rotate believe cupboard evoke bronze layer patch";
+var mnemonic = "attract hockey person faculty chat april volcano gown dutch matter finish surround";

@@ -1,1 +1,1 @@
-var mnemonic = "season moment museum abuse sweet custom mystery ginger useless middle fossil kitchen";
+var mnemonic = "retreat attract tiger dignity always math dice execute gallery supply color toy";

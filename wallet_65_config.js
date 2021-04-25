@@ -1,1 +1,1 @@
-var mnemonic = "shell clay step marble better range pitch infant aspect arrive crop leopard";
+var mnemonic = "human summer jewel raise curtain rocket another ketchup scorpion scrap alert decline";

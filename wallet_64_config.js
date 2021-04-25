@@ -1,1 +1,1 @@
-var mnemonic = "raise thunder knife globe velvet predict arctic script actor west boring collect";
+var mnemonic = "divide during tide purity shaft gap fashion skull exhibit home afraid essence";

@@ -1,1 +1,1 @@
-var mnemonic = "cup permit edit acquire edit cargo cool staff first high carbon coil";
+var mnemonic = "animal decide buffalo quarter sausage van enact lounge shallow choice gain hamster";

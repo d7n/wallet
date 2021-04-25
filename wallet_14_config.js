@@ -1,1 +1,1 @@
-var mnemonic = "fade flush breeze soldier aisle forward student banana text heart fire cover";
+var mnemonic = "narrow egg property bacon exhibit bracket tape trap message daughter quiz puzzle";

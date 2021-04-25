@@ -1,1 +1,1 @@
-var mnemonic = "melt soon life chimney opinion spice swap surface loan scan brand treat";
+var mnemonic = "response memory useless convince law sure water unhappy soul toast spring help";

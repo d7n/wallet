@@ -1,1 +1,1 @@
-var mnemonic = "vast walnut height antenna drive toilet stand glide depart thank monster quality";
+var mnemonic = "shoulder economy nephew right knife invest antique relief plastic alter keep glimpse";

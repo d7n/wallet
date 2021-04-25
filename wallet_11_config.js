@@ -1,1 +1,1 @@
-var mnemonic = "acoustic room repair someone camp expire album blame coach pulse phrase praise";
+var mnemonic = "entire license dentist such fame receive actor afraid reflect picture menu giraffe";

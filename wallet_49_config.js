@@ -1,1 +1,1 @@
-var mnemonic = "hidden local hello race borrow slice black prize chuckle jewel wagon unveil";
+var mnemonic = "glass snack feature thrive law purity toy angry size feel mad click";

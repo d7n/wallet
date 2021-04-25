@@ -1,1 +1,1 @@
-var mnemonic = "limit inquiry angry cargo cheap else expect climb pony meadow naive cabbage";
+var mnemonic = "coin legend run egg thrive angle forest alert catch they snack police";

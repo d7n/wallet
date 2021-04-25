@@ -1,1 +1,1 @@
-var mnemonic = "control own dream address hero nasty fossil mention job gap admit vehicle";
+var mnemonic = "unusual orchard round note jealous kid diary woman baby patrol offer scrub";

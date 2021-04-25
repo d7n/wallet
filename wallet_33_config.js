@@ -1,1 +1,1 @@
-var mnemonic = "ghost dwarf morning great breeze amount race drift weapon vault deny nut";
+var mnemonic = "object ribbon police circle globe farm frost south weasel happy comfort spoil";

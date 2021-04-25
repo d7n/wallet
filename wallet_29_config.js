@@ -1,1 +1,1 @@
-var mnemonic = "season borrow move require diamond vapor idea finger palace buffalo dragon shiver";
+var mnemonic = "hundred say wink waste rug slam dizzy zone bus wait wood reward";

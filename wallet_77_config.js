@@ -1,1 +1,1 @@
-var mnemonic = "infant favorite lawsuit abandon trumpet injury property clump fiber chest often fit";
+var mnemonic = "soap basket home weasel impact chicken craft accuse turtle glance fever garden";

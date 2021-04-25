@@ -1,1 +1,1 @@
-var mnemonic = "immune illegal obscure business wear report carpet urban spice frame junk bike";
+var mnemonic = "begin educate assault acoustic minor action uncover elegant fatal buzz reward title";

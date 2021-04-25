@@ -1,1 +1,1 @@
-var mnemonic = "inside green cricket fluid spike argue chimney gate table jealous now update";
+var mnemonic = "jeans slam receive chuckle citizen marble inhale undo task true lab earth";

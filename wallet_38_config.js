@@ -1,1 +1,1 @@
-var mnemonic = "armed brain vessel cloth square crumble fruit rocket arrange salon word urge";
+var mnemonic = "zoo erosion topple start satisfy marble purse matrix vague essence language sweet";

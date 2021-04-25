@@ -1,1 +1,1 @@
-var mnemonic = "level two april minimum fantasy trophy rug urban skate walnut drastic lyrics";
+var mnemonic = "equal also drop gospel song barrel short loop best people mask spell";

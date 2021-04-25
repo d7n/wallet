@@ -1,1 +1,1 @@
-var mnemonic = "place grace sibling breeze ice diamond knife guess execute million grid yellow";
+var mnemonic = "another arrow total upon couch iron flock hero fabric have cinnamon trim";

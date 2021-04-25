@@ -1,1 +1,1 @@
-var mnemonic = "wonder blue foot begin chief olympic soul fish tray follow left girl";
+var mnemonic = "head oval tray length remind faculty grow state unusual fall knock promote";

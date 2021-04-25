@@ -1,1 +1,1 @@
-var mnemonic = "large sphere great crazy tilt kiwi bag burst food gown will cattle";
+var mnemonic = "fine source invite machine silver episode island rely cruise food arrest roast";

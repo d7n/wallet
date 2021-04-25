@@ -1,1 +1,1 @@
-var mnemonic = "beef muffin top galaxy prize spray sight borrow fancy body use quit";
+var mnemonic = "save ivory reward exercise head hidden pride mango loan canyon sausage okay";

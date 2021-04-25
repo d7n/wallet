@@ -1,1 +1,1 @@
-var mnemonic = "rude emerge able already real pigeon ask north board document please season";
+var mnemonic = "zoo couple leisure first weird budget food cram matter stuff satisfy fan";

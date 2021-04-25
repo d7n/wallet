@@ -1,1 +1,1 @@
-var mnemonic = "vote angle coin shock flock loud crouch mountain ritual few blood copper";
+var mnemonic = "achieve input subway trust swallow paddle purpose culture trust believe interest confirm";

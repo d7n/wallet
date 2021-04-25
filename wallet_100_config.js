@@ -1,1 +1,1 @@
-var mnemonic = "attitude crane urban rigid spike twenty bar runway monster kick curve grow";
+var mnemonic = "follow brisk motion pear denial thunder setup cover buyer word develop stage";

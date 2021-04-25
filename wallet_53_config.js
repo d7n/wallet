@@ -1,1 +1,1 @@
-var mnemonic = "fit enough battle what story best lava library put cave huge that";
+var mnemonic = "olive luxury camera sphere deputy source hard bridge below hundred grape guard";

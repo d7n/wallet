@@ -1,1 +1,1 @@
-var mnemonic = "already demise mass usage quick still survey idea rural oblige during obtain";
+var mnemonic = "unhappy mammal math rule ritual easy narrow above exhaust crucial seminar blast";

@@ -1,1 +1,1 @@
-var mnemonic = "spend medal path puppy bachelor quantum celery season pulp happy agree hard";
+var mnemonic = "buffalo verify sniff mountain movie guess bonus dry neglect toilet enforce repeat";

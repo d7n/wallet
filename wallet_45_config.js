@@ -1,1 +1,1 @@
-var mnemonic = "fit correct trumpet benefit damage short just audit choice february minor bind";
+var mnemonic = "tip oak tunnel potato diet predict pupil begin inspire stamp pipe lounge";

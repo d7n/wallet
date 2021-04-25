@@ -1,1 +1,1 @@
-var mnemonic = "guitar derive will figure pause supply heavy copper session table rare fossil";
+var mnemonic = "century horse swear expire snack spatial attack limb vocal clump bundle suggest";

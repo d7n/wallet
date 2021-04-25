@@ -1,1 +1,1 @@
-var mnemonic = "identify guard hollow sample surround hand earth thing eyebrow orbit toss diagram";
+var mnemonic = "crazy sustain funny hip reunion proof spawn rug unique trial stick wonder";

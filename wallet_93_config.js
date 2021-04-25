@@ -1,1 +1,1 @@
-var mnemonic = "debris lottery check family maze bonus noise wild volume silk hundred accident";
+var mnemonic = "student rate praise toss cinnamon search cousin spray dream lonely maximum scare";

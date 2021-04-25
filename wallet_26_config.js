@@ -1,1 +1,1 @@
-var mnemonic = "cup doctor right escape twin assume used glimpse cushion adapt expose foster";
+var mnemonic = "actress gun spell nest clown jar pretty race beef rally kidney toilet";

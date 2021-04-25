@@ -1,1 +1,1 @@
-var mnemonic = "squirrel dice forward equal father spatial dust main silly follow gadget uncover";
+var mnemonic = "enhance perfect baby pelican beef anxiety subject often letter plunge horse paper";

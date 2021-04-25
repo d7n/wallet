@@ -1,1 +1,1 @@
-var mnemonic = "card brick copper word hope lock action broom mistake egg report prison";
+var mnemonic = "stool wool fee loop world topic shrug grant require mind photo evolve";

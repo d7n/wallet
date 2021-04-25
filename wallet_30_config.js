@@ -1,1 +1,1 @@
-var mnemonic = "leaf hello public final wear detect inspire order item treat match expect";
+var mnemonic = "cruel spray peasant clay tribe alcohol tent amused tennis online rebel clarify";

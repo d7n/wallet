@@ -1,1 +1,1 @@
-var mnemonic = "genuine enable organ duck lamp elephant limit venture novel grocery record giraffe";
+var mnemonic = "early table solid fancy sock hammer crunch electric elevator apart bachelor garbage";

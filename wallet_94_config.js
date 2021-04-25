@@ -1,1 +1,1 @@
-var mnemonic = "horror tape click infant silent leopard fantasy injury work critic claim soft";
+var mnemonic = "net ecology program divide rice egg parrot advance mask atom dismiss cigar";

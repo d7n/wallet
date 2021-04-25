@@ -1,1 +1,1 @@
-var mnemonic = "trophy seat act major quality rural prison latin stereo fury subway check";
+var mnemonic = "remain thought october crash impose grace spare floor maid dream history joke";

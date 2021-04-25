@@ -1,1 +1,1 @@
-var mnemonic = "shift broken repair breeze universe frog pulse thank citizen exact rifle again";
+var mnemonic = "once bag extra monitor culture risk invite style arch base elevator gym";

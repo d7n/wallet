@@ -1,1 +1,1 @@
-var mnemonic = "museum home glow extra health popular width shine seek grid path lady";
+var mnemonic = "praise miss shiver kick meat hour indicate autumn virus ski strong donor";

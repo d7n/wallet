@@ -1,1 +1,1 @@
-var mnemonic = "depend denial universe mutual wrist dance brush glue you danger ketchup party";
+var mnemonic = "version morning cupboard tree polar snack broccoli trick real olive parent tank";

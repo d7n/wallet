@@ -1,1 +1,1 @@
-var mnemonic = "bus cheap suit theme corn gallery exist half hungry east hold coffee";
+var mnemonic = "future wash roast install syrup obtain agree cause hybrid trade good arctic";

@@ -1,1 +1,1 @@
-var mnemonic = "bitter human earth cost describe estate patrol radar silk retire nuclear bomb";
+var mnemonic = "picture supply champion write cruel inside minimum local road observe trust jungle";

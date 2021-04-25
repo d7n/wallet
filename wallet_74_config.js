@@ -1,1 +1,1 @@
-var mnemonic = "inmate boss network shine marble exist mosquito reflect pistol ramp stable abstract";
+var mnemonic = "lizard mean alone spread blame civil pond pretty toss pink clap smooth";

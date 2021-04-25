@@ -1,1 +1,1 @@
-var mnemonic = "tourist grocery slight trigger oxygen topple magic eagle oven chief slight student";
+var mnemonic = "cherry rude spring gorilla trend soup stove enter wide gadget cake fan";
