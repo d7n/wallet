@@ -1,1 +1,1 @@
-var mnemonic = "gesture salad kind obscure play laptop physical knee since rich claim frown";
+var mnemonic = "upgrade defy bacon private spoon train light submit truly inner lounge marriage";

@@ -1,1 +1,1 @@
-var mnemonic = "behind lion combine give split art book coil pupil name example scare";
+var mnemonic = "harvest depart mushroom grocery luxury dinner engine dish cook admit night average";

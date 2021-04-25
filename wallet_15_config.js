@@ -1,1 +1,1 @@
-var mnemonic = "hat phrase become catch concert crop catalog inner wool extra author person";
+var mnemonic = "burst metal churn congress airport detect stock earn tower road situate thing";

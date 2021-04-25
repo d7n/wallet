@@ -1,1 +1,1 @@
-var mnemonic = "enlist disease attitude reopen transfer culture column empty tilt foster alien vibrant";
+var mnemonic = "bring wagon audit total someone share alarm olympic girl slim good beach";

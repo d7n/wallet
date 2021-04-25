@@ -1,1 +1,1 @@
-var mnemonic = "mandate asset junior half good random step trick roast marine crazy bike";
+var mnemonic = "pattern tackle city language gather perfect skill mix seven honey decline improve";

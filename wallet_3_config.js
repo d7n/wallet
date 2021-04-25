@@ -1,1 +1,1 @@
-var mnemonic = "pet human manual game slogan quiz ocean path tattoo crucial quarter two";
+var mnemonic = "dish feel lemon filter bitter slab cereal bar spy near rent cinnamon";

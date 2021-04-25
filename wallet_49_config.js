@@ -1,1 +1,1 @@
-var mnemonic = "table any view cheese across during donor indoor omit divorce gap crack";
+var mnemonic = "jacket gaze renew canal dinner problem surprise bright long wave master spoon";

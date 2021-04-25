@@ -1,1 +1,1 @@
-var mnemonic = "sentence mother purity mobile concert organ talent price click empower bronze oil";
+var mnemonic = "donor engage cave police mobile glow flee supreme select vendor place clerk";

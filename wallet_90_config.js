@@ -1,1 +1,1 @@
-var mnemonic = "concert tip despair sun ozone govern stereo fantasy vehicle bargain report tobacco";
+var mnemonic = "express stay weather collect draw trip immune income lake voice lawn motion";

@@ -1,1 +1,1 @@
-var mnemonic = "breeze interest system sudden drip sick glad length outer member famous novel";
+var mnemonic = "violin butter practice shrimp multiply soap bomb topic sport issue friend favorite";

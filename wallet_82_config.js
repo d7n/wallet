@@ -1,1 +1,1 @@
-var mnemonic = "crash topic more primary boat rice leaf any rapid opinion expose type";
+var mnemonic = "primary tourist father click settle scare must canvas force senior load glimpse";

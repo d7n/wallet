@@ -1,1 +1,1 @@
-var mnemonic = "endless crouch image often mushroom alarm rhythm entry abstract decade yard hazard";
+var mnemonic = "much tackle cinnamon alter upset giant income just jelly illness estate female";

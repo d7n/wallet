@@ -1,1 +1,1 @@
-var mnemonic = "sense thumb crystal foil system price ticket thank spoil renew write inform";
+var mnemonic = "antenna analyst never robot shuffle wave office mammal clerk accuse mixed blue";

@@ -1,1 +1,1 @@
-var mnemonic = "sugar remove wood inch veteran furnace rival afraid raccoon matter acid habit";
+var mnemonic = "ancient fluid hen zoo wood accuse panic lumber exotic naive flip hospital";

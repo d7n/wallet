@@ -1,1 +1,1 @@
-var mnemonic = "upon tool hen brother firm brown winner office aunt mad arch empty";
+var mnemonic = "coconut early tilt together belt garlic scissors pony pull path artwork tip";

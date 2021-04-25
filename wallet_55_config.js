@@ -1,1 +1,1 @@
-var mnemonic = "small ethics plastic certain thrive best lesson squirrel bag siren oxygen return";
+var mnemonic = "key similar cheese test detail pause outer auction alert much path sample";

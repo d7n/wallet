@@ -1,1 +1,1 @@
-var mnemonic = "broom inhale receive ability angry delay shed lottery romance mandate engine shuffle";
+var mnemonic = "pole extra suggest shift captain road arm evolve draft warfare enemy actual";

@@ -1,1 +1,1 @@
-var mnemonic = "broom slogan tired favorite tip enemy champion morning update spirit rebuild vendor";
+var mnemonic = "tonight number crumble inhale resource obtain bleak lazy swing either crowd sunny";

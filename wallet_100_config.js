@@ -1,1 +1,1 @@
-var mnemonic = "crush outer develop alien fault include fix split cattle media discover attract";
+var mnemonic = "glare flush among add route wreck witness visa verb trumpet drive viable";

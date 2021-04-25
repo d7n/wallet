@@ -1,1 +1,1 @@
-var mnemonic = "goat pencil pony pudding device squirrel venture lucky force service firm excess";
+var mnemonic = "law onion fit another autumn garlic upset crush trip post domain repeat";

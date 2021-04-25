@@ -1,1 +1,1 @@
-var mnemonic = "nasty copper napkin marriage prepare spy hurdle section gentle entire decide captain";
+var mnemonic = "more chimney breeze present sweet learn peanut knee joy paddle sad weapon";

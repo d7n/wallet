@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur illness square absorb solar gospel tornado ride lottery punch bird when";
+var mnemonic = "kitchen blood stumble few farm bomb slim obtain seven frozen light mercy";

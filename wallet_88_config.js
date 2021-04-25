@@ -1,1 +1,1 @@
-var mnemonic = "tower saddle very vapor patient marine slight laugh conduct oyster aisle wool";
+var mnemonic = "scale tuna icon naive science neither mix skull pattern habit carry fuel";

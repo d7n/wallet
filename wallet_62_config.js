@@ -1,1 +1,1 @@
-var mnemonic = "govern alarm coconut route cat rhythm exchange diamond famous any cushion sunset";
+var mnemonic = "jazz guard tide together rib child return title cute argue script swallow";

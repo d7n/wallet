@@ -1,1 +1,1 @@
-var mnemonic = "about lunch student couple joy jeans person candy cart relax bubble immune";
+var mnemonic = "clump hamster hundred kiss space knee knee rich now stone portion stem";

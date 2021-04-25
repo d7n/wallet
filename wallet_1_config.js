@@ -1,1 +1,1 @@
-var mnemonic = "flee inherit rapid render hen valid mosquito carpet shock champion vapor glance";
+var mnemonic = "wonder relax gun correct off easy tower earn ghost melt develop powder";

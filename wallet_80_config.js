@@ -1,1 +1,1 @@
-var mnemonic = "come vast business snow prosper lens finish outside smart equip motor coil";
+var mnemonic = "margin smooth impact winner couple betray vicious buddy add glide galaxy taste";

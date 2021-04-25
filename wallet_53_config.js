@@ -1,1 +1,1 @@
-var mnemonic = "travel clock erupt village inject current empty attitude card use practice zero";
+var mnemonic = "pass drip inmate poet spatial emotion blossom ankle lemon girl cushion piano";

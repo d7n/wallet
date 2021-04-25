@@ -1,1 +1,1 @@
-var mnemonic = "arrive twist leg disagree similar shoulder scout topic behave copper can purchase";
+var mnemonic = "abandon radar happy rude fall cause trust gown drastic exist marble expose";

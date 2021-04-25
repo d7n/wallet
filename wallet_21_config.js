@@ -1,1 +1,1 @@
-var mnemonic = "tissue culture permit current melody predict labor still lamp ask second oyster";
+var mnemonic = "awesome ghost gown hammer faint room casual obey hello bulk federal scorpion";

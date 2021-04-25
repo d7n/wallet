@@ -1,1 +1,1 @@
-var mnemonic = "explain horror two benefit panda face fiber father lazy walnut negative bird";
+var mnemonic = "sword news scissors luxury depart section sorry job nephew shoulder victory disagree";

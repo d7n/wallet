@@ -1,1 +1,1 @@
-var mnemonic = "master common whip angry build safe harsh debate sad mail couple click";
+var mnemonic = "retreat nose rigid cabin young fuel long reward glow kitchen wood cricket";

@@ -1,1 +1,1 @@
-var mnemonic = "comic art rent away picnic afford series catalog off palm hub curious";
+var mnemonic = "mass nature smile banana truck modify devote umbrella mansion since point lonely";

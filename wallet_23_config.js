@@ -1,1 +1,1 @@
-var mnemonic = "october sell able wide armor repair today upgrade gloom dove buyer whale";
+var mnemonic = "cotton lumber skull thrive hen cloth feed add memory machine skill believe";

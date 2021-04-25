@@ -1,1 +1,1 @@
-var mnemonic = "alley stove pelican scene humble only velvet uncle rabbit foster angry pool";
+var mnemonic = "drastic drink coil expire palm method random tone more absent legal pool";

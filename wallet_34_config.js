@@ -1,1 +1,1 @@
-var mnemonic = "arm scale rent sponsor help step large pair sign say people begin";
+var mnemonic = "music inform bone hard person gate caught team dutch office harsh kidney";

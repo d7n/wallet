@@ -1,1 +1,1 @@
-var mnemonic = "topple wrong ozone joke library any gym dragon wish prefer chase capital";
+var mnemonic = "climb raw cable legal calm neither describe render month bargain yard mutual";

@@ -1,1 +1,1 @@
-var mnemonic = "fork garage process senior rough front mushroom print torch usage problem evil";
+var mnemonic = "math toilet youth wheel witness cry supply typical gain shell slice again";

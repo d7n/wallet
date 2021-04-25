@@ -1,1 +1,1 @@
-var mnemonic = "zoo repair cake step polar unhappy mixture draw blind biology arrive dawn";
+var mnemonic = "input dinner net rally above hidden diary mule heart ahead orbit wide";

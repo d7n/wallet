@@ -1,1 +1,1 @@
-var mnemonic = "dice coach laugh bubble dirt flower erupt goat furnace sphere where more";
+var mnemonic = "dwarf moral kitten select right urban debris ensure daughter lottery whip noodle";

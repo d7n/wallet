@@ -1,1 +1,1 @@
-var mnemonic = "diary picture truth advice jungle prison enjoy seed blur whisper verify vague";
+var mnemonic = "skull reform quality inner check airport illness wonder eye elevator puppy multiply";

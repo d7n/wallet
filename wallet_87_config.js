@@ -1,1 +1,1 @@
-var mnemonic = "again garage addict predict sustain voice blossom weekend deliver same uphold kind";
+var mnemonic = "rescue husband case pencil capital empty merit school ability system invest click";

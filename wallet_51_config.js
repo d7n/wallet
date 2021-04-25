@@ -1,1 +1,1 @@
-var mnemonic = "marriage sport foster noodle romance runway dignity lock pioneer purity domain spirit";
+var mnemonic = "air child theory ribbon regular term project cupboard parent saddle pigeon cat";

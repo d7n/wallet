@@ -1,1 +1,1 @@
-var mnemonic = "tumble asthma sand page gadget myth girl dress token endorse vehicle impulse";
+var mnemonic = "album cannon relax pilot exchange chest together float rural hour later charge";

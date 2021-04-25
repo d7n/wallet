@@ -1,1 +1,1 @@
-var mnemonic = "next thought include toy useless taste maple hungry busy minor abstract solid";
+var mnemonic = "section school negative cherry foster uncle friend buddy permit film tomorrow urban";

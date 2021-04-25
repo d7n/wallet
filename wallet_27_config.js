@@ -1,1 +1,1 @@
-var mnemonic = "random worth winter zebra sword thing despair stuff hurdle try ginger expire";
+var mnemonic = "uniform task receive section brain swarm service depth leave weekend invest fault";

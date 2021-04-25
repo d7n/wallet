@@ -1,1 +1,1 @@
-var mnemonic = "cook thought flock reason denial motor island melt vital tonight wedding rely";
+var mnemonic = "rice clutch tiger follow tobacco dinosaur crew dirt satoshi tilt giant price";

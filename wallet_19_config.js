@@ -1,1 +1,1 @@
-var mnemonic = "deposit quote elder offer blame neither olive embody decrease riot junk divert";
+var mnemonic = "trim concert indicate cream couple elder blossom page split offer gospel tilt";

@@ -1,1 +1,1 @@
-var mnemonic = "useful speak milk expose include bracket ready curious spin normal hedgehog curtain";
+var mnemonic = "funny essence glad garment rapid bitter behind business zone category pottery door";

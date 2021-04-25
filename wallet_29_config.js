@@ -1,1 +1,1 @@
-var mnemonic = "afford chair arch ankle rug jaguar wing phrase funny patrol bag permit";
+var mnemonic = "genre aim front snack enable toward milk comic hello excite ribbon leisure";

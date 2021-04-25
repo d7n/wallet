@@ -1,1 +1,1 @@
-var mnemonic = "pigeon sunset immune fabric shoe inside stand follow march pupil adjust state";
+var mnemonic = "coin field okay catalog black section twist head dice predict team valid";

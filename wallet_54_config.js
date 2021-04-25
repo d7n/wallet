@@ -1,1 +1,1 @@
-var mnemonic = "add fix paper melody loan elite shiver movie way lumber oak balance";
+var mnemonic = "belt margin city sustain glow mixture deposit loop drum door unveil riot";

@@ -1,1 +1,1 @@
-var mnemonic = "promote tragic gym robust hunt skirt cliff ancient soft erosion retreat potato";
+var mnemonic = "dirt kitchen plate tribe glad husband alley mention mix blind month broken";

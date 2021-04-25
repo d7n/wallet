@@ -1,1 +1,1 @@
-var mnemonic = "taxi text throw jazz sugar simple inch matter lava bubble bullet pond";
+var mnemonic = "fold sun boil strong zoo judge fan enable liquid transfer cotton because";

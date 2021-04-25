@@ -1,1 +1,1 @@
-var mnemonic = "pet ribbon age provide maze vague dragon regular refuse enough blast kitten";
+var mnemonic = "kick air either upon language doctor betray hold token object author quote";

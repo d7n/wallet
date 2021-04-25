@@ -1,1 +1,1 @@
-var mnemonic = "month uniform pottery matrix assist rib glass rich anchor resemble garment large";
+var mnemonic = "neglect mother slice orbit miss end love script two follow process goat";

@@ -1,1 +1,1 @@
-var mnemonic = "visa angle knee blame uncle autumn tourist royal raven voyage embark bundle";
+var mnemonic = "diesel harbor already expose observe female avocado tank smile air decide diet";

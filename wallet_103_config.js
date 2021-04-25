@@ -1,1 +1,1 @@
-var mnemonic = "junior game above one region comfort upset kitten answer table donkey curve";
+var mnemonic = "twelve destroy ring skirt equal rally admit spend couch uniform clerk inquiry";

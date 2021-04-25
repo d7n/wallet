@@ -1,1 +1,1 @@
-var mnemonic = "attack family anxiety citizen vote cheese hill strike earth author lunch tired";
+var mnemonic = "visa gather before burst airport episode action rate chest real oxygen country";

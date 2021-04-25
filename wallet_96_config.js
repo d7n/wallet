@@ -1,1 +1,1 @@
-var mnemonic = "cage battle unveil cabbage outside cram you city flush diary mystery ketchup";
+var mnemonic = "kiwi spray diary margin carbon orphan jewel benefit fuel solution flush tiger";

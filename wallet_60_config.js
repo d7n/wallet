@@ -1,1 +1,1 @@
-var mnemonic = "super baby bounce replace near delay helmet wife gym best shove turkey";
+var mnemonic = "wrist fire ripple vault dutch flower offer obvious toward daughter believe since";

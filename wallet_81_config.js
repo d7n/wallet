@@ -1,1 +1,1 @@
-var mnemonic = "ignore hockey soap dry crumble strategy casual clean achieve want heart theme";
+var mnemonic = "riot mountain knock snap either desert post catalog syrup seven lyrics clock";

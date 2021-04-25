@@ -1,1 +1,1 @@
-var mnemonic = "broken inner verb dynamic exchange music video crowd agent endless hole repeat";
+var mnemonic = "palm endless illness viable gaze design write clutch hire chimney nominee planet";

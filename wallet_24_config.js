@@ -1,1 +1,1 @@
-var mnemonic = "grape flat coil number veteran glow dance cherry machine favorite feature delay";
+var mnemonic = "fade ribbon neglect cattle sing two prepare gain road harsh tone hamster";

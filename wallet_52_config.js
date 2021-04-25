@@ -1,1 +1,1 @@
-var mnemonic = "neglect innocent wine trip cage unusual mixed between desk raccoon usual fiscal";
+var mnemonic = "uncle desert cargo awesome scan daughter enter wild weapon destroy outside forget";

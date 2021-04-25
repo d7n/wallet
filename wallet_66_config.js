@@ -1,1 +1,1 @@
-var mnemonic = "walnut emotion worth suffer dove effort wool buddy tribe member chest frown";
+var mnemonic = "steel property blade glow film advice trial help very rare job gesture";

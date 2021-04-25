@@ -1,1 +1,1 @@
-var mnemonic = "army school image say few bus style aunt farm river flat lens";
+var mnemonic = "apology expire like leave pudding robot nest cram bachelor aspect orchard atom";

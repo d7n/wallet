@@ -1,1 +1,1 @@
-var mnemonic = "unhappy pet rich blouse mean afraid twenty they bring enact extend critic";
+var mnemonic = "tobacco review crush win client joke ready mistake undo water tissue annual";

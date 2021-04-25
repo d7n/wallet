@@ -1,1 +1,1 @@
-var mnemonic = "try token spend midnight solid august detail senior stuff human jealous drum";
+var mnemonic = "report bicycle defy sheriff gentle problem drill sausage cement chief hope joke";

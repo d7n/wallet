@@ -1,1 +1,1 @@
-var mnemonic = "confirm brush siren system rigid circle opera write turkey nose draw program";
+var mnemonic = "author cherry market total bird round kite mom disease rose control critic";

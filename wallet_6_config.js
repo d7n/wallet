@@ -1,1 +1,1 @@
-var mnemonic = "object shuffle harsh certain aware express dignity material dog beyond hotel deer";
+var mnemonic = "primary strategy clap unable drastic old term earn brave october bus high";

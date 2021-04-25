@@ -1,1 +1,1 @@
-var mnemonic = "fashion youth chest intact vacant kid address ranch shadow town chief claim";
+var mnemonic = "lab awake damage slogan clerk coin bright shoe hen blue casual turn";

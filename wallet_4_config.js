@@ -1,1 +1,1 @@
-var mnemonic = "pottery jewel pill learn clean salt fish panther ordinary intact two deputy";
+var mnemonic = "cabbage guide kick best trouble welcome replace collect range damage click excuse";

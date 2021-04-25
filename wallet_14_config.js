@@ -1,1 +1,1 @@
-var mnemonic = "private vivid lava minute pitch upper bean wash avoid father strike frequent";
+var mnemonic = "okay chase soup slot agent mansion fork approve quit kiss finish crash";

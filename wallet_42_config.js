@@ -1,1 +1,1 @@
-var mnemonic = "cigar such property again someone chase stick aspect section mixture labor copy";
+var mnemonic = "blouse video slice grocery myself brief position girl spin host clinic manual";

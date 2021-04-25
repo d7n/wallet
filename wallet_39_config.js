@@ -1,1 +1,1 @@
-var mnemonic = "tray earn margin hover company island giggle rather sauce cotton damp core";
+var mnemonic = "actor cruise winner injury kind update trigger pistol home ketchup strike enforce";

@@ -1,1 +1,1 @@
-var mnemonic = "lock zebra lemon side version cigar crew village skull long century forum";
+var mnemonic = "fuel future toward party master spin seek oblige broom imitate dance lyrics";

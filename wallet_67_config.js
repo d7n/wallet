@@ -1,1 +1,1 @@
-var mnemonic = "above suggest goat unable add slab business auction blouse bridge liquid vanish";
+var mnemonic = "hybrid milk ignore enroll vibrant dream rifle heart feature add provide library";

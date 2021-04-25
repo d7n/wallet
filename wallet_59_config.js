@@ -1,1 +1,1 @@
-var mnemonic = "brisk wasp spring crew deal swallow tissue split wall brisk gravity polar";
+var mnemonic = "quiz wasp inmate ritual fall lawsuit parent conduct certain benefit hollow brown";

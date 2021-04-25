@@ -1,1 +1,1 @@
-var mnemonic = "melt shaft guitar object betray fall sustain outer denial fever tag ten";
+var mnemonic = "pet switch journey nurse latin orchard seven because soup copy cheap derive";

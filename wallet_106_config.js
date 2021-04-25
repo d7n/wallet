@@ -1,1 +1,1 @@
-var mnemonic = "control fringe advance pool salute tone ozone cheap neutral accuse jump flag";
+var mnemonic = "dutch entire deputy cancel tag approve abandon drift legal bunker shield okay";

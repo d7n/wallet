@@ -1,1 +1,1 @@
-var mnemonic = "identify rapid sick balance rebuild catalog advice pizza off pond logic relax";
+var mnemonic = "volcano clean skin zebra law hockey bind window dish depend between combine";

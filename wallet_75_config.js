@@ -1,1 +1,1 @@
-var mnemonic = "element kind spoil abuse arch story clarify moral inner wire tent inch";
+var mnemonic = "dad limit wine click skill broccoli collect myself mercy crop diesel click";

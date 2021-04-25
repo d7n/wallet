@@ -1,1 +1,1 @@
-var mnemonic = "click bike bench author snap roast sea slim skate payment ahead trust";
+var mnemonic = "umbrella chief file wagon isolate erosion shiver narrow report saddle hospital option";

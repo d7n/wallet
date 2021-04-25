@@ -1,1 +1,1 @@
-var mnemonic = "amused daring dream catalog soda control neither approve donor seed diary crowd";
+var mnemonic = "address cloth cloth pencil liquid motor comic work true gospel permit year";

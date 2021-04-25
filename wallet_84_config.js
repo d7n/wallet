@@ -1,1 +1,1 @@
-var mnemonic = "law ready myself milk lyrics hero rich girl tiny liquid copper boy";
+var mnemonic = "beef inner egg object leaf pulse uncle film tortoise ancient note brown";

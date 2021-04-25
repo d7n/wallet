@@ -1,1 +1,1 @@
-var mnemonic = "canoe session traffic clock hamster install trouble wrong stand carpet cactus vacuum";
+var mnemonic = "friend design finger slow patient trust clown film gesture volcano frequent skill";

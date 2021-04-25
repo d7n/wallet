@@ -1,1 +1,1 @@
-var mnemonic = "wasp walnut oval foil leopard tennis advice maze pulp honey manage pitch";
+var mnemonic = "history subject used ready come trigger achieve neck cat decrease quarter sauce";

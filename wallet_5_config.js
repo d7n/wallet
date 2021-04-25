@@ -1,1 +1,1 @@
-var mnemonic = "course what cry catch much mixture minimum identify shoot unaware above silent";
+var mnemonic = "boring hello label report panel large basket elegant six connect party motion";

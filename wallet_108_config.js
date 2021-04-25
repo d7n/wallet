@@ -1,1 +1,1 @@
-var mnemonic = "camera trust evolve gate round total gas thrive earn lunar vacuum lion";
+var mnemonic = "struggle left undo dose crash risk same indoor top friend burst census";
