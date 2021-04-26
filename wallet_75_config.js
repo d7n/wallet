@@ -1,1 +1,1 @@
-var mnemonic = "improve very click satoshi program where swallow clump artist erosion near robot";
+var mnemonic = "picture actor fatal lounge action cage spend general false timber door buzz";

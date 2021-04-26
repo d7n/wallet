@@ -1,1 +1,1 @@
-var mnemonic = "swim outer boost wink school lend clarify hedgehog carbon waste plate barrel";
+var mnemonic = "salad tattoo suffer machine foot stamp call patrol artist rather boost say";

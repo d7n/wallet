@@ -1,1 +1,1 @@
-var mnemonic = "risk modify snake horn climb latin raccoon ordinary panel aerobic cart price";
+var mnemonic = "position tumble grab student good toss humor oxygen bamboo pumpkin cannon fall";

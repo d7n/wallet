@@ -1,1 +1,1 @@
-var mnemonic = "damage control seven visa girl merry sand raise message cover cheese speed";
+var mnemonic = "aware side chaos pink mammal luxury drop subway wrist item safe common";

@@ -1,1 +1,1 @@
-var mnemonic = "tilt person jacket suggest dish student mention upset live tomato common place";
+var mnemonic = "media among tape stand tobacco analyst social room sort chair spike tower";

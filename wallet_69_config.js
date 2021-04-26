@@ -1,1 +1,1 @@
-var mnemonic = "eternal soft unusual rice piano human scout timber used whale drastic use";
+var mnemonic = "ready gorilla cloth hotel blush dial better fee party excess few grief";

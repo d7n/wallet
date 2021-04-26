@@ -1,1 +1,1 @@
-var mnemonic = "luggage level slim shallow garlic payment poet novel hover disease room travel";
+var mnemonic = "crop common horn movie argue head strategy hawk daring punch hair change";

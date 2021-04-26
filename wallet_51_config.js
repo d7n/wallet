@@ -1,1 +1,1 @@
-var mnemonic = "hen box acoustic ladder punch hawk dose animal fringe distance sound monitor";
+var mnemonic = "gentle sketch frost young sand mango globe direct goose quick bitter cluster";

@@ -1,1 +1,1 @@
-var mnemonic = "taxi merry chest illegal blush dish real lazy toss clerk mammal happy";
+var mnemonic = "coyote virtual slot bag need piano achieve law snap modify stove act";

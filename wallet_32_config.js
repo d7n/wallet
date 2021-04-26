@@ -1,1 +1,1 @@
-var mnemonic = "road educate goddess trust citizen aisle merry decline indoor utility tooth edge";
+var mnemonic = "usual fence change hockey grape identify tuna fan olive around grace cereal";

@@ -1,1 +1,1 @@
-var mnemonic = "garlic crystal exchange play rocket walnut congress file pretty athlete shove globe";
+var mnemonic = "later vacuum wagon page top seven upper enhance tennis empower fog prepare";

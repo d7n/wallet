@@ -1,1 +1,1 @@
-var mnemonic = "pig liar kitchen scrap extra clay maximum jazz report seat ramp dust";
+var mnemonic = "oblige push forward enable pilot three miracle orchard concert weird host diagram";

@@ -1,1 +1,1 @@
-var mnemonic = "frequent degree mercy cereal myself human avoid scheme master subway you office";
+var mnemonic = "place prevent welcome either thing final bean stove brass scrap eagle pottery";

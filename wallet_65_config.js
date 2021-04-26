@@ -1,1 +1,1 @@
-var mnemonic = "rib swap pattern place train blood mesh major drill logic change decline";
+var mnemonic = "team balance misery virus rally swift other wait company capable also group";

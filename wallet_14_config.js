@@ -1,1 +1,1 @@
-var mnemonic = "galaxy pupil poverty round deposit fan violin amazing achieve predict sleep must";
+var mnemonic = "sting write opera top tonight pitch erosion voyage novel soccer neck about";

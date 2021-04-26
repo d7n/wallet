@@ -1,1 +1,1 @@
-var mnemonic = "fee sing speak movie awesome field state regular satoshi critic mask language";
+var mnemonic = "purse special method shy interest globe noodle maid identify pass bacon thumb";

@@ -1,1 +1,1 @@
-var mnemonic = "fox people vault depend horse method boring suit brick idle around foil";
+var mnemonic = "perfect sun border person gown priority coffee siren photo vivid melt pelican";

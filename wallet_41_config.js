@@ -1,1 +1,1 @@
-var mnemonic = "nut claim other parrot busy believe panda tooth flash eager vacant benefit";
+var mnemonic = "legend victory pattern now client tube order purse vibrant nuclear hundred scrub";

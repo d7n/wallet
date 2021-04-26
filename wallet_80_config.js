@@ -1,1 +1,1 @@
-var mnemonic = "dose oblige patient cruel swear fatal credit patrol time that small nominee";
+var mnemonic = "bread owner page cause eagle elevator tooth involve fog answer warfare toe";

@@ -1,1 +1,1 @@
-var mnemonic = "vocal sting pill view cover dragon absent mimic alarm dice tiny visit";
+var mnemonic = "warfare shield cereal drastic coral tumble dumb neither cushion cabin stay draw";

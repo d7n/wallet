@@ -1,1 +1,1 @@
-var mnemonic = "kite camp regular flavor violin cry afford knock keen edit receive umbrella";
+var mnemonic = "trust edit soup wedding flavor basket picture physical almost elephant drip salon";

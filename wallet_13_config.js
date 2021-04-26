@@ -1,1 +1,1 @@
-var mnemonic = "cushion seat call valve illegal insect insect join dinner virtual slow spy";
+var mnemonic = "social split argue maze dream mechanic advance unhappy devote crater possible meadow";

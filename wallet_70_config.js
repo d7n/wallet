@@ -1,1 +1,1 @@
-var mnemonic = "toward ugly appear false buyer rude exhibit bus worry cherry fiber bargain";
+var mnemonic = "cherry dose thought often hour pilot oval meat sick nominee already lab";

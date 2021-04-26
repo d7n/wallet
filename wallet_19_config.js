@@ -1,1 +1,1 @@
-var mnemonic = "gorilla scrap lawsuit piece tuna kite retreat crush auction exhaust radar process";
+var mnemonic = "oyster tragic museum boss shift jazz sniff evil allow oak want wine";

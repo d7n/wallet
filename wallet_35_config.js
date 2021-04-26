@@ -1,1 +1,1 @@
-var mnemonic = "cross globe morning topic august girl orbit endorse segment flag faith submit";
+var mnemonic = "earn reveal hover defense naive cross brain voyage kid street badge behind";

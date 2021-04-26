@@ -1,1 +1,1 @@
-var mnemonic = "author siren memory metal warrior problem oyster breeze void grief rough clock";
+var mnemonic = "burden crisp laptop hen success fun saddle raw bundle opinion sick behind";

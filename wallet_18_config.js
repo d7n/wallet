@@ -1,1 +1,1 @@
-var mnemonic = "salmon poet comic bundle chaos there crash voice shrug crater mule law";
+var mnemonic = "gorilla produce total spread slot hour method sand suspect rebel nation garden";

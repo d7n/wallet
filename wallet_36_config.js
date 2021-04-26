@@ -1,1 +1,1 @@
-var mnemonic = "brisk afraid weather suffer keen degree happy length outer warfare antenna era";
+var mnemonic = "rural way usual analyst misery fade gain effort output chalk fortune kitten";

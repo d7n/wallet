@@ -1,1 +1,1 @@
-var mnemonic = "utility math bar orange great gap swing begin adult paddle moment where";
+var mnemonic = "detect reunion burger giggle stomach program range vapor kingdom glare express come";

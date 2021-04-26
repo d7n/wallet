@@ -1,1 +1,1 @@
-var mnemonic = "arm run hill spatial link pink trash prevent impose pupil delay yellow";
+var mnemonic = "phrase symbol despair bacon slight employ glad deposit fatal shine gentle near";

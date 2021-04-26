@@ -1,1 +1,1 @@
-var mnemonic = "gentle limit curve flush cattle three genre aware cattle crater marine only";
+var mnemonic = "area senior tongue useful switch build genius dry digital quote heavy manage";

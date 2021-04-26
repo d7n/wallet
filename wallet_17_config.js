@@ -1,1 +1,1 @@
-var mnemonic = "angry never genius project barrel gospel omit salute enhance lizard right advice";
+var mnemonic = "van sting swap ship escape gain olympic stable crunch cheap divorce trick";

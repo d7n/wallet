@@ -1,1 +1,1 @@
-var mnemonic = "plug egg helmet tip valley general access affair major use employ exist";
+var mnemonic = "announce myth mean neutral fitness jealous test library task embrace pigeon snow";

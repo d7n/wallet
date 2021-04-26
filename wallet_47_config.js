@@ -1,1 +1,1 @@
-var mnemonic = "game nurse trade cinnamon save trash all injury case pond quality lab";
+var mnemonic = "course faculty monster quiz swallow common tunnel harsh present shell husband discover";

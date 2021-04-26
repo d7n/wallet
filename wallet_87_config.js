@@ -1,1 +1,1 @@
-var mnemonic = "rain nation december leave weekend daring job job gap position say pluck";
+var mnemonic = "crew sad column until shrug mirror same toddler shove attitude say step";

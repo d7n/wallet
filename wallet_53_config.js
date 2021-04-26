@@ -1,1 +1,1 @@
-var mnemonic = "wife garment parade broccoli royal buyer refuse isolate crime artefact craft verb";
+var mnemonic = "wheel summer lock order dish wasp between bone return picture wear century";

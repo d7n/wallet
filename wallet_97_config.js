@@ -1,1 +1,1 @@
-var mnemonic = "price uncover actress behave hello body riot web fury act oppose shiver";
+var mnemonic = "wear prevent clerk super regular flee attitude pretty pumpkin silly jelly identify";

@@ -1,1 +1,1 @@
-var mnemonic = "coffee glare skirt train media snack pitch funny layer fetch detect next";
+var mnemonic = "defense conduct vibrant occur worry because dinosaur hammer museum smoke mesh purse";

@@ -1,1 +1,1 @@
-var mnemonic = "smile change flush control alert joke deer vast lemon arctic slush genuine";
+var mnemonic = "deputy direct action impact else burden ribbon meadow inspire example immune crumble";

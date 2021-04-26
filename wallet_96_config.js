@@ -1,1 +1,1 @@
-var mnemonic = "depart enjoy rotate rich artefact trust hello asthma nose kitchen century bamboo";
+var mnemonic = "alley crazy panda duty avoid govern fox word initial oven swarm ribbon";

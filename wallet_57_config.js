@@ -1,1 +1,1 @@
-var mnemonic = "jacket cake welcome agent become spatial lizard custom random boy green robot";
+var mnemonic = "filter play flush key visual weather candy beauty boy airport shoe render";

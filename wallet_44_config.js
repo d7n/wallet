@@ -1,1 +1,1 @@
-var mnemonic = "virus ginger fall ritual suit source win basic custom scare brain vital";
+var mnemonic = "raven pattern include medal battle robust crop inspire kidney snap rib cereal";

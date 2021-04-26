@@ -1,1 +1,1 @@
-var mnemonic = "shed gloom beach inherit crowd surge scheme section inhale oblige gown logic";
+var mnemonic = "review light snack flee swarm weasel autumn flat couch cause afford valid";

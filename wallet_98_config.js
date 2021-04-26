@@ -1,1 +1,1 @@
-var mnemonic = "action oil news supply obey force alert payment toast lab note car";
+var mnemonic = "enemy erosion clap sport possible yard away jacket follow prepare palm prison";

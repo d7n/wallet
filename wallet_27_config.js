@@ -1,1 +1,1 @@
-var mnemonic = "chase nothing zone supreme supreme motor ladder south velvet unable cover ensure";
+var mnemonic = "century chapter sustain door glare beef sauce skin adapt agent abuse news";

@@ -1,1 +1,1 @@
-var mnemonic = "neglect drop badge vault drop grief naive autumn puzzle rural sick burger";
+var mnemonic = "shop clump vague wreck pledge remain eyebrow camera recycle cereal sword fashion";

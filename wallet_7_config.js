@@ -1,1 +1,1 @@
-var mnemonic = "consider airport grain arrive ten cup address swap upgrade brass home shadow";
+var mnemonic = "victory address wear inform diesel arrive unlock subway attack praise pass stable";

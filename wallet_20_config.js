@@ -1,1 +1,1 @@
-var mnemonic = "hurdle impulse mean chronic coral grab cake leisure gloom flash avocado another";
+var mnemonic = "gate theory seat silk unhappy own swim wash road someone assist sausage";

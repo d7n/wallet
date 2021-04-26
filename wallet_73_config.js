@@ -1,1 +1,1 @@
-var mnemonic = "age range body refuse youth other subject until chat until cliff sunset";
+var mnemonic = "lift zebra scorpion badge sweet grant duty mother tool fox focus elevator";

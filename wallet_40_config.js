@@ -1,1 +1,1 @@
-var mnemonic = "general shallow marriage lion grape degree method cactus sugar staff letter filter";
+var mnemonic = "apple main destroy science final current vivid armor stay filter test swing";

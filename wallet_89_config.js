@@ -1,1 +1,1 @@
-var mnemonic = "divert grow crumble squirrel enough visual lottery eye reason road fix universe";
+var mnemonic = "antique admit smoke alley gospel ride sugar wrist arrest file multiply title";

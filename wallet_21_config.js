@@ -1,1 +1,1 @@
-var mnemonic = "illness laptop ahead vapor sentence title floor tube scan swear canal erupt";
+var mnemonic = "atom cloud tape sun student spare rebel crop clutch tornado loyal enrich";

@@ -1,1 +1,1 @@
-var mnemonic = "frost glory pen off sound submit call uncle orphan tongue cheese cart";
+var mnemonic = "actual desk push peasant hazard cruel asthma gasp enroll shy notable bar";

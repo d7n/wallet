@@ -1,1 +1,1 @@
-var mnemonic = "candy steel jaguar animal sick initial tray galaxy invite distance fitness initial";
+var mnemonic = "maid blood spatial advice hurt forget panel alter crystal shy october soft";

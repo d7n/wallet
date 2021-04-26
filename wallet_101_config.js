@@ -1,1 +1,1 @@
-var mnemonic = "exit quarter note top learn pride wedding man welcome deer visa rose";
+var mnemonic = "amused super fault worry polar dolphin shift stage nation undo ritual turtle";

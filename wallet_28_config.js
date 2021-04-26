@@ -1,1 +1,1 @@
-var mnemonic = "online gain category human inject ugly scare sketch fork embark start clutch";
+var mnemonic = "bike guitar cart cactus tackle supreme clog suffer someone office concert install";

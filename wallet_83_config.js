@@ -1,1 +1,1 @@
-var mnemonic = "wrap domain exclude shuffle sing plunge badge snap whip nuclear short mushroom";
+var mnemonic = "flock piano pond start transfer time setup perfect thunder symbol morning pear";

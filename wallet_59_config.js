@@ -1,1 +1,1 @@
-var mnemonic = "laugh cost man one aisle first joke chapter intact spy crane nephew";
+var mnemonic = "because blind foot sleep message town fruit city script balcony unlock extra";

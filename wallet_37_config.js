@@ -1,1 +1,1 @@
-var mnemonic = "fiber present primary hire soldier web cargo voyage cotton next salon fury";
+var mnemonic = "tenant nest breeze digital junior awake burden isolate legend interest hurt way";

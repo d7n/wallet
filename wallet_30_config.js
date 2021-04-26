@@ -1,1 +1,1 @@
-var mnemonic = "sad picture polar flash season panel deny cousin crime caution biology caught";
+var mnemonic = "hero payment mechanic dismiss plastic legend hedgehog frog carry attitude inner range";

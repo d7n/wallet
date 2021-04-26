@@ -1,1 +1,1 @@
-var mnemonic = "rapid canvas heavy honey wild silent glimpse fragile panic enough guess inspire";
+var mnemonic = "cost mail recipe idea speak direct field paper spare tiger monkey negative";

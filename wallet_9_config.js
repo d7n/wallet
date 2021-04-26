@@ -1,1 +1,1 @@
-var mnemonic = "bike learn olympic enrich emerge indicate grid health eager grape drive angry";
+var mnemonic = "radio cinnamon cube hold all ride debris wall token index recycle wash";

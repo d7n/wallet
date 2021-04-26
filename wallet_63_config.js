@@ -1,1 +1,1 @@
-var mnemonic = "neck output one shoot scrub ranch jungle pony burst spatial enjoy public";
+var mnemonic = "valley violin tooth useful real art topic lesson salad draw check prepare";

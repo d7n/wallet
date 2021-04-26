@@ -1,1 +1,1 @@
-var mnemonic = "hello width unusual already solve crater chief midnight fluid blossom sample shuffle";
+var mnemonic = "cycle hope unhappy profit goose first write inject gym huge enroll position";

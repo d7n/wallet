@@ -1,1 +1,1 @@
-var mnemonic = "play item list hour equip squirrel merry sail agent adult cousin grab";
+var mnemonic = "shaft enough worry weather faith pave mouse need slot copy lunar someone";

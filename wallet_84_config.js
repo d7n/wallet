@@ -1,1 +1,1 @@
-var mnemonic = "plunge buyer act best rule fix another mandate slender fever october guess";
+var mnemonic = "match legend damp ticket leisure wall joy design patrol track element hold";

@@ -1,1 +1,1 @@
-var mnemonic = "number bonus curious vocal glide mix august allow jeans amazing clinic fitness";
+var mnemonic = "reward oil donate fiscal analyst team essence pottery cup barrel dial family";

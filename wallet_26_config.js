@@ -1,1 +1,1 @@
-var mnemonic = "invest multiply peasant demand surprise hold salute diesel invite soul flash retreat";
+var mnemonic = "price utility wealth tag host hub warfare text false donate sponsor north";

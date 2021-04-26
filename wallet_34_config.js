@@ -1,1 +1,1 @@
-var mnemonic = "another spray estate senior team expect tree method rescue today tragic auto";
+var mnemonic = "knee spell wife make student letter level unhappy share window still hat";

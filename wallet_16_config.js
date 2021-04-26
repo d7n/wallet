@@ -1,1 +1,1 @@
-var mnemonic = "game foil six find regret erode entire tide dove oven private peasant";
+var mnemonic = "oppose put hand thrive ethics lucky provide bus announce defense assist keep";

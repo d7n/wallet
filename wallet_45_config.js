@@ -1,1 +1,1 @@
-var mnemonic = "liquid foster across strong zero human tag chicken tank fall aerobic olympic";
+var mnemonic = "priority travel resist drive erase doll replace crater begin choose crazy wait";

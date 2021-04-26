@@ -1,1 +1,1 @@
-var mnemonic = "armed maid senior video treat under thumb great glide chapter people alley";
+var mnemonic = "trouble team love tired grow usage truth heart party olympic early reflect";

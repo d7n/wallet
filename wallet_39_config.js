@@ -1,1 +1,1 @@
-var mnemonic = "tired sweet pudding achieve gasp strike pledge sniff eager script seven other";
+var mnemonic = "video oak dash later umbrella capable bike scan tell rigid slab pave";

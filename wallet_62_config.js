@@ -1,1 +1,1 @@
-var mnemonic = "dream length salute advice pass off marine piece return impose rough vast";
+var mnemonic = "vital people stumble cargo infant rocket guilt wash liar pilot sword hammer";

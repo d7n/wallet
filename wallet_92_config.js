@@ -1,1 +1,1 @@
-var mnemonic = "busy hill monster mammal sort goddess cannon empty gun right ripple leg";
+var mnemonic = "fan peanut feature early catch bracket fade month roof noble shove census";

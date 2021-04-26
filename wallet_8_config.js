@@ -1,1 +1,1 @@
-var mnemonic = "twin pigeon margin muscle spend lawsuit route render nature nasty planet vendor";
+var mnemonic = "front brown leisure lawsuit muffin cigar space scatter evil exile success inspire";

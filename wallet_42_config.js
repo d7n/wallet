@@ -1,1 +1,1 @@
-var mnemonic = "sibling naive license off spread radar corn chunk lucky farm chat focus";
+var mnemonic = "good accident olympic famous dose nuclear age market angle gas risk paper";

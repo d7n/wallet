@@ -1,1 +1,1 @@
-var mnemonic = "say daring sketch voice trouble ocean rude slim fish brave raccoon sleep";
+var mnemonic = "rescue word text nut plunge squirrel wage peace stadium crime ice raw";

@@ -1,1 +1,1 @@
-var mnemonic = "material turn discover company flip amount raccoon choice heavy spell express gesture";
+var mnemonic = "tree extra cause apart slam item outer indicate public leg east place";

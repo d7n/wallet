@@ -1,1 +1,1 @@
-var mnemonic = "tank column humor economy october melody opera ethics accident library script choice";
+var mnemonic = "service cruise public will silly arrow rocket fragile sausage armed arm battle";

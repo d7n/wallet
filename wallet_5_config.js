@@ -1,1 +1,1 @@
-var mnemonic = "wheat desk useful youth maid bench celery must flight dentist anger shaft";
+var mnemonic = "plunge gossip save ritual announce skirt vote point want steel eyebrow potato";

@@ -1,1 +1,1 @@
-var mnemonic = "champion tobacco average shell embrace step stage army side name rack glide";
+var mnemonic = "search vast bulk detail below random guess subject chat street unfold tree";

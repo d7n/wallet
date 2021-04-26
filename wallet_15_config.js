@@ -1,1 +1,1 @@
-var mnemonic = "december lunch cloud where couch daughter fix turn neither birth balance move";
+var mnemonic = "butter material resist rack panther donkey expect beauty yellow empty pact trick";

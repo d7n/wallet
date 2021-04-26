@@ -1,1 +1,1 @@
-var mnemonic = "position field empower bomb drop mixed olive fly entire casual screen victory";
+var mnemonic = "pull junk cream lock vibrant cereal game awkward feature fresh elephant fiction";

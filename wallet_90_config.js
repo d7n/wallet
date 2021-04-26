@@ -1,1 +1,1 @@
-var mnemonic = "guilt switch enrich teach switch split slab pact arrow spray soul draw";
+var mnemonic = "convince either glance doll gallery order stand route bring margin romance protect";

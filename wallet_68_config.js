@@ -1,1 +1,1 @@
-var mnemonic = "door oil flash lonely baby stick team renew acquire receive play fossil";
+var mnemonic = "host piece curtain fine dune gap online victory open scare pet tragic";
