@@ -1,1 +1,1 @@
-var mnemonic = "crouch ripple rich lunar pass short print steak smart birth excess hollow";
+var mnemonic = "crack bless patient busy version spare video result civil dish curious total";

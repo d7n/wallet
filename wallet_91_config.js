@@ -1,1 +1,1 @@
-var mnemonic = "dignity myself holiday option together program rent refuse catalog pony case deal";
+var mnemonic = "island trouble spice kiwi present pet control web eye success balance worry";

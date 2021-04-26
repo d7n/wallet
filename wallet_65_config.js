@@ -1,1 +1,1 @@
-var mnemonic = "wheel fetch suffer cost gadget scissors better ginger fence camera render outdoor";
+var mnemonic = "control number reason code debate endorse brother exile captain swim ask stock";

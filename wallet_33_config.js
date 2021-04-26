@@ -1,1 +1,1 @@
-var mnemonic = "dune speed reason equip film rude bacon inherit tribe hill memory start";
+var mnemonic = "edit there pumpkin broken world hollow oak engage august prize apology assist";

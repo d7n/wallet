@@ -1,1 +1,1 @@
-var mnemonic = "small parade tornado jeans hawk flush recipe employ romance angle differ slogan";
+var mnemonic = "milk crouch opinion tag inspire enrich couple snake torch mammal breeze action";

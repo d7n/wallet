@@ -1,1 +1,1 @@
-var mnemonic = "fold useless lottery ostrich square tide erode ability resource wall wide crew";
+var mnemonic = "style uncle stage demand retire frame onion vacant strong view distance tackle";

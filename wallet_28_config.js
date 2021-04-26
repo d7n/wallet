@@ -1,1 +1,1 @@
-var mnemonic = "pigeon rather broken rebuild protect boring filter ask sight liar adapt response";
+var mnemonic = "route enough hint rocket alley try shy leg knee basic expand paper";

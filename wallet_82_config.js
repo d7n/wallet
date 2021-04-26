@@ -1,1 +1,1 @@
-var mnemonic = "woman useful rare erosion before honey pull gasp lounge van renew hold";
+var mnemonic = "muffin regret cook tail ginger bus enough popular drip retire six pony";

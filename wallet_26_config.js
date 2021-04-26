@@ -1,1 +1,1 @@
-var mnemonic = "gift math basket village route crane olympic cup combine address ripple demand";
+var mnemonic = "town invest hospital update future finish vanish side shoot fashion exhibit direct";

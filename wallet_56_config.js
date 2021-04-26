@@ -1,1 +1,1 @@
-var mnemonic = "mix record shrimp sell obvious inmate drink kitchen slice exhibit spray piano";
+var mnemonic = "shallow panic spread agent armor anger venue carry order fame upset person";

@@ -1,1 +1,1 @@
-var mnemonic = "inhale rotate advance camp dove decide hill regret glance daughter move powder";
+var mnemonic = "arena enroll tape accuse dizzy earn crack jelly tuition crisp rocket until";

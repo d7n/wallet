@@ -1,1 +1,1 @@
-var mnemonic = "danger cliff measure stomach goddess wave faith shuffle hundred auto ethics quick";
+var mnemonic = "hub plug fresh coach thing burst siege warfare claim casual poverty cloth";

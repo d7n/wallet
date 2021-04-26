@@ -1,1 +1,1 @@
-var mnemonic = "wait cereal victory simple inquiry cricket smoke switch oppose fat unique sing";
+var mnemonic = "token fish wine shuffle spare palace knock across onion surprise pupil mango";

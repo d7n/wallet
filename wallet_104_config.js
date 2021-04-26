@@ -1,1 +1,1 @@
-var mnemonic = "green empty lunar scene universe dismiss connect script garage find document pluck";
+var mnemonic = "gossip child nephew dream submit tissue congress play alter canyon post result";

@@ -1,1 +1,1 @@
-var mnemonic = "fantasy punch broken enrich credit sea buyer answer bonus thought cart copper";
+var mnemonic = "token ocean wet already accident rifle power artefact minute hill since upon";

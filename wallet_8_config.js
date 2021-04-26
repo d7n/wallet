@@ -1,1 +1,1 @@
-var mnemonic = "siege belt there pill father wave blood reduce toast uniform fossil lonely";
+var mnemonic = "horse only hill pave require october orient stable spot furnace act two";

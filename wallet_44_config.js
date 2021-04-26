@@ -1,1 +1,1 @@
-var mnemonic = "recycle angry mention crowd slogan wrist start equip recycle flock soon build";
+var mnemonic = "start maple account dish treat lady embody tissue invest sell long spring";

@@ -1,1 +1,1 @@
-var mnemonic = "duty acquire whale genuine gossip glimpse actual now upon awful cherry crystal";
+var mnemonic = "volume oak feed already open space beauty degree magnet during gas lend";

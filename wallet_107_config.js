@@ -1,1 +1,1 @@
-var mnemonic = "stool island goat hunt cage clog dirt stay kid board shove bean";
+var mnemonic = "network real robust innocent busy cat sea nominee decade traffic onion monitor";

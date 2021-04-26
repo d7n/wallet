@@ -1,1 +1,1 @@
-var mnemonic = "gate nut ball girl style insect cave exclude crew ice pupil frame";
+var mnemonic = "young rail deliver hawk urban expose journey angry safe share rack ride";

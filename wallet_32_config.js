@@ -1,1 +1,1 @@
-var mnemonic = "sibling agent marine stomach ahead fancy media dynamic room cry track napkin";
+var mnemonic = "double spoil absorb volume erupt orphan help silly else lizard grunt twelve";

@@ -1,1 +1,1 @@
-var mnemonic = "squirrel warfare wink wing force fatal sweet size rough attract letter tone";
+var mnemonic = "aim energy sustain waste math craft slight drop kiss person glow other";

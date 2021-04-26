@@ -1,1 +1,1 @@
-var mnemonic = "adult inside combine deposit ice trial man dish exhaust upon year oyster";
+var mnemonic = "engine shiver diagram jacket list sheriff expect solar stadium icon usual behind";

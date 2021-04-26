@@ -1,1 +1,1 @@
-var mnemonic = "play pepper example brisk great sad rural next mass entry pepper canal";
+var mnemonic = "wood witness never exact chicken drastic basket surprise pride card glow laugh";

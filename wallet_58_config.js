@@ -1,1 +1,1 @@
-var mnemonic = "language topic text accident trap keen monitor clip lizard provide bind elder";
+var mnemonic = "limit learn silly bachelor ankle doctor solution lunch disagree van light fragile";

@@ -1,1 +1,1 @@
-var mnemonic = "arm blade three merit soap thunder rule slot nice clever margin juice";
+var mnemonic = "flip lamp yellow prefer drive novel swallow stand correct announce check solution";

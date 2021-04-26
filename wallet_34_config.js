@@ -1,1 +1,1 @@
-var mnemonic = "foil impulse oyster gasp flash always game window outer kiss electric artist";
+var mnemonic = "snap buddy employ detail kingdom remember draw aunt pencil slow position indicate";

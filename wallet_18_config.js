@@ -1,1 +1,1 @@
-var mnemonic = "impact snap deputy party ocean rate employ potato alpha sibling barrel slight";
+var mnemonic = "uncover lava elevator reopen bacon this infant gorilla staff rubber pudding inform";

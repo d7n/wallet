@@ -1,1 +1,1 @@
-var mnemonic = "van nature village insane kit deputy ladder adapt poem junior birth pride";
+var mnemonic = "scan write disorder visa sand music garment arena omit garlic rich dog";

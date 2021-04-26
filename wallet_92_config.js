@@ -1,1 +1,1 @@
-var mnemonic = "input minimum gift poem shoot sentence horn they diesel search fee pear";
+var mnemonic = "faith hero enrich feel easily rich cloud room know sure piece gather";

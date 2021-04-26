@@ -1,1 +1,1 @@
-var mnemonic = "rain math wear lesson swarm genuine indoor hope post build finger swarm";
+var mnemonic = "apple column like need risk nephew wise congress tomorrow mesh inflict tribe";

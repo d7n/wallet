@@ -1,1 +1,1 @@
-var mnemonic = "saddle circle hold farm cherry rifle bicycle swing tone clutch payment solve";
+var mnemonic = "erase friend snake vivid shell gesture funny bench invest lumber give onion";

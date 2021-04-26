@@ -1,1 +1,1 @@
-var mnemonic = "credit arrow jaguar random fury tonight glow train film alien test trap";
+var mnemonic = "nose hour unusual foam bleak era differ sadness proof spring husband wrong";

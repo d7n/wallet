@@ -1,1 +1,1 @@
-var mnemonic = "caution oil exotic one soft gold orient private sock tag stand patient";
+var mnemonic = "ride feel scissors attract action coffee skin ski tool dolphin blood shiver";

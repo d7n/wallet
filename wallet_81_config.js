@@ -1,1 +1,1 @@
-var mnemonic = "roof immune inmate potato crucial enjoy ship custom wolf title desk position";
+var mnemonic = "artefact lake music patch rebuild tobacco syrup fringe kiss comfort used include";

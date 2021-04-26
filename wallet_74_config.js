@@ -1,1 +1,1 @@
-var mnemonic = "west fatal glow ordinary hundred game column dial decade easy wall stool";
+var mnemonic = "load wine unaware announce reason material desk clutch grow clap rack hole";

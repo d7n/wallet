@@ -1,1 +1,1 @@
-var mnemonic = "manual card expose sniff expose nominee cancel settle blossom rubber device spend";
+var mnemonic = "tomorrow bright boy youth gown daring romance chalk forward swallow garlic wink";

@@ -1,1 +1,1 @@
-var mnemonic = "dignity fancy slim amateur furnace pull own avoid twenty oven judge lock";
+var mnemonic = "rather salt muffin sure antique violin nest century actress away corn foot";

@@ -1,1 +1,1 @@
-var mnemonic = "zone myth learn sport access web input uniform rifle trophy west penalty";
+var mnemonic = "weird disagree burger pill drift pencil during soft return menu caution lobster";

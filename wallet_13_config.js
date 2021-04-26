@@ -1,1 +1,1 @@
-var mnemonic = "appear melody soldier position add ball execute planet moment canoe volume arctic";
+var mnemonic = "baby aerobic celery grid party lock bone they evoke already grace guard";

@@ -1,1 +1,1 @@
-var mnemonic = "clay book actress caution carbon armed side debate gas nice capable debris";
+var mnemonic = "inform zero rival board learn spy matrix flock funny buzz crack interest";

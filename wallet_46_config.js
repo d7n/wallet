@@ -1,1 +1,1 @@
-var mnemonic = "black match chronic palace grass veteran year place wave aim system inspire";
+var mnemonic = "fringe runway piece hover debris thing organ inmate head bundle access major";

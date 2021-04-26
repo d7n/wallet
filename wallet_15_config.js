@@ -1,1 +1,1 @@
-var mnemonic = "outside stamp couch tree morning sample rookie worry try secret manage diesel";
+var mnemonic = "sphere hedgehog own attack pistol plate web else subject drastic resemble multiply";

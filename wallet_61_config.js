@@ -1,1 +1,1 @@
-var mnemonic = "system connect fancy fantasy since enroll client fame aunt buddy globe ship";
+var mnemonic = "velvet already wine harbor slot cannon tortoise lottery donor voyage flush cricket";

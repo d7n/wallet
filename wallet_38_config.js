@@ -1,1 +1,1 @@
-var mnemonic = "gown someone never steel magnet tiger quit evil theory theory group august";
+var mnemonic = "crumble zoo gadget minor soft wall depend mimic defy attack orchard eye";

@@ -1,1 +1,1 @@
-var mnemonic = "amateur piece proof position subway now buffalo behind term fitness trap runway";
+var mnemonic = "endless wrap radar sauce bone south soup riot aisle rotate bread ladder";

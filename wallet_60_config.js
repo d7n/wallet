@@ -1,1 +1,1 @@
-var mnemonic = "tube wild unaware melody buddy join guess layer nasty anger ecology copper";
+var mnemonic = "ripple stone cram service parrot choice noble useful ride make truth immune";

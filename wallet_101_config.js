@@ -1,1 +1,1 @@
-var mnemonic = "laundry tube buffalo super special leader stumble lake super leg wrong wood";
+var mnemonic = "wheel marble paddle fury wear stock vote glare arctic already bar noise";

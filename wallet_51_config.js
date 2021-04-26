@@ -1,1 +1,1 @@
-var mnemonic = "artist crazy attitude aspect session liar bind oxygen honey mango sausage clever";
+var mnemonic = "supreme buzz duty run core travel butter piece sugar inject stool wolf";

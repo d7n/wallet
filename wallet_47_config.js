@@ -1,1 +1,1 @@
-var mnemonic = "dumb wrestle fee outer siren mother person until profit casino segment hunt";
+var mnemonic = "turtle lazy ridge swing slogan glass middle demise depend lend remove away";

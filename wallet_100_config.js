@@ -1,1 +1,1 @@
-var mnemonic = "matrix drive enemy parent turn legal blood toward pipe neither catalog romance";
+var mnemonic = "talent spray angle mountain there acquire lecture model crew hungry gas slush";

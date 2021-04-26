@@ -1,1 +1,1 @@
-var mnemonic = "erode biology ice cinnamon section lamp act huge crowd apology park eye";
+var mnemonic = "fiscal lava benefit news enlist knock defense keep jacket stumble eyebrow wall";

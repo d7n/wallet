@@ -1,1 +1,1 @@
-var mnemonic = "phone resource stool mimic word receive slush must sail cricket blossom wear";
+var mnemonic = "art news tourist ill divert trim seed drum silly taxi stove trophy";

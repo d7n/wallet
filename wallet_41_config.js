@@ -1,1 +1,1 @@
-var mnemonic = "burger path general injury fork height mango camera control pet perfect heavy";
+var mnemonic = "boat ceiling endless humor critic glory label sight arrive result powder vessel";

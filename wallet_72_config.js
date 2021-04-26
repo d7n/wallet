@@ -1,1 +1,1 @@
-var mnemonic = "awake electric stand move second volume dwarf essence marble reduce coral love";
+var mnemonic = "cliff mouse spread blossom kid element kite explain history clever bachelor laundry";

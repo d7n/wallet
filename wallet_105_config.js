@@ -1,1 +1,1 @@
-var mnemonic = "actor judge wide open knife shed grass three benefit make attitude topple";
+var mnemonic = "hurt afraid fashion hen olive story mountain clay huge exit width leopard";

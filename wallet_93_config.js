@@ -1,1 +1,1 @@
-var mnemonic = "dwarf income car hard clarify jelly consider peanut final dutch student call";
+var mnemonic = "rhythm salt develop income violin duty talent wink person demise hat sail";

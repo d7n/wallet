@@ -1,1 +1,1 @@
-var mnemonic = "renew donor wash essence melt album mesh shoe salmon hundred gain obtain";
+var mnemonic = "jungle mixed pond print giggle discover idle huge slam nerve coyote banner";

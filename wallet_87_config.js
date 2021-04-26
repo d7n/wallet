@@ -1,1 +1,1 @@
-var mnemonic = "state scorpion romance ensure debate disease asset tube alone slight blind fetch";
+var mnemonic = "used monitor bright initial spirit wear night enemy rain act grape pact";

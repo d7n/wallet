@@ -1,1 +1,1 @@
-var mnemonic = "tongue awesome engage unfair donate force raccoon deal duty permit angry dance";
+var mnemonic = "wonder black kit carbon vapor first alley also reunion length rotate motor";

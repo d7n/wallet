@@ -1,1 +1,1 @@
-var mnemonic = "legal afraid discover behind setup win trumpet jazz salon away dentist obtain";
+var mnemonic = "top eager danger child fan aunt gossip hobby toilet alley caught fiber";

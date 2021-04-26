@@ -1,1 +1,1 @@
-var mnemonic = "piece social keep afford top wheel install trophy have blue bean borrow";
+var mnemonic = "tray family source loop grocery trade surface used choice anchor tribe announce";

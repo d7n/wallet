@@ -1,1 +1,1 @@
-var mnemonic = "crush output blue endless quality pass sound pen again simple picnic announce";
+var mnemonic = "smoke unhappy common number model flee lift awful wing approve drum begin";

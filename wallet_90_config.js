@@ -1,1 +1,1 @@
-var mnemonic = "beef step edge then thought urban aerobic width gadget abandon truth vacant";
+var mnemonic = "stumble recycle about pencil shell nurse hamster drink ghost roof moon royal";

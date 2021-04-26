@@ -1,1 +1,1 @@
-var mnemonic = "excite mix cannon empower crop mail discover winter margin bracket fame abandon";
+var mnemonic = "soup resist two oxygen bronze cricket someone scan daring fit lemon drastic";

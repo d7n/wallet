@@ -1,1 +1,1 @@
-var mnemonic = "tragic order clutch prison people tissue recipe region diesel expire program voice";
+var mnemonic = "force desk peasant tragic label exit runway amazing album salon brand destroy";

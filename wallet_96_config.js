@@ -1,1 +1,1 @@
-var mnemonic = "tattoo adult other struggle notable hospital version nation blouse minimum result leisure";
+var mnemonic = "fatigue subject witness border heart fire boy solve potato weapon apology dash";

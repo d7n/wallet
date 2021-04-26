@@ -1,1 +1,1 @@
-var mnemonic = "video during glue engine someone illegal pave garage disorder sail tuna hood";
+var mnemonic = "together dwarf foil damage glare biology useless work envelope invest observe join";

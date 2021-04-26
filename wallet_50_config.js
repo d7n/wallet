@@ -1,1 +1,1 @@
-var mnemonic = "film town people emerge diagram fantasy picnic daring into upper tent join";
+var mnemonic = "box buzz fringe noodle inspire fan churn hazard cigar melt ozone test";

@@ -1,1 +1,1 @@
-var mnemonic = "ceiling cannon absurd maid bamboo furnace slogan clap amused attract clump blush";
+var mnemonic = "horror license bonus catch vanish million account ski rocket orchard key neck";

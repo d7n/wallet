@@ -1,1 +1,1 @@
-var mnemonic = "march shadow traffic border dumb pulp toilet pet patient alcohol jacket maple";
+var mnemonic = "detect bag have kick achieve close assault rapid mixed drama fragile gown";

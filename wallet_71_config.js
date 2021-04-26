@@ -1,1 +1,1 @@
-var mnemonic = "online shuffle cream note impact hundred convince noise album pupil witness vibrant";
+var mnemonic = "grocery team scrub fox chicken fetch giggle void cruel sign job host";

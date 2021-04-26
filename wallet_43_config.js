@@ -1,1 +1,1 @@
-var mnemonic = "update brick physical swim group stage virus excuse exhaust version add else";
+var mnemonic = "mass custom affair average citizen radio rebel book arena text hundred stereo";

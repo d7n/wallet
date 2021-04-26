@@ -1,1 +1,1 @@
-var mnemonic = "people shove amazing powder expect surround fork barely twenty drip spring lemon";
+var mnemonic = "gossip candy great green eternal kiss pigeon bind prison half destroy front";

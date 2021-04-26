@@ -1,1 +1,1 @@
-var mnemonic = "belt entry matrix wear occur sand night rail fatigue normal chimney village";
+var mnemonic = "embark action office flush pumpkin clever regular since wrap develop boat modify";

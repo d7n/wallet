@@ -1,1 +1,1 @@
-var mnemonic = "immune amazing comic concert fatal shield task allow sword frown dish creek";
+var mnemonic = "hero enlist harsh patient obtain abuse hawk gather agree smoke insane eternal";

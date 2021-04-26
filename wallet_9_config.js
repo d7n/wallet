@@ -1,1 +1,1 @@
-var mnemonic = "hover fine tooth coral canyon crawl atom define what also gentle crystal";
+var mnemonic = "actual lens near chat coach corn portion post gate dilemma cool battle";

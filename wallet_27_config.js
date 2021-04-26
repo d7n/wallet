@@ -1,1 +1,1 @@
-var mnemonic = "ski tackle street point can ordinary vault letter bulb memory tornado absent";
+var mnemonic = "sleep attack people grace old coach trade dwarf cruise grape eagle unfold";

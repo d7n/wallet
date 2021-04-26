@@ -1,1 +1,1 @@
-var mnemonic = "flock arrange heavy cake divorce history escape blue call ill sponsor worth";
+var mnemonic = "use script venue swallow right video say able call caution diamond release";

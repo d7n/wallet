@@ -1,1 +1,1 @@
-var mnemonic = "toddler whisper object lake tackle physical pulp concert demand length off garlic";
+var mnemonic = "cereal net talent fatigue coach cash ten minimum fade office sketch fiber";

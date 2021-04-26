@@ -1,1 +1,1 @@
-var mnemonic = "race avoid solar ski survey huge puzzle uphold armor seven can hammer";
+var mnemonic = "during negative wear depart adult edge round kite corn shuffle witness gas";

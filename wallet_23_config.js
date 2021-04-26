@@ -1,1 +1,1 @@
-var mnemonic = "process weather account slogan story happy pattern angle actress holiday reject hero";
+var mnemonic = "sport humor barrel maid reward slender critic pulse hour uncover dry toward";

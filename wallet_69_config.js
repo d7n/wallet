@@ -1,1 +1,1 @@
-var mnemonic = "horse glue basic sheriff slim robot ripple thought weasel axis repeat inflict";
+var mnemonic = "romance unveil acoustic hotel swarm piano suffer claim rigid prepare trumpet rifle";

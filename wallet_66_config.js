@@ -1,1 +1,1 @@
-var mnemonic = "always kit asset obey panel faith couch beef kangaroo stereo rich weekend";
+var mnemonic = "talk engine relax vital economy naive health segment outer impose dust toss";

@@ -1,1 +1,1 @@
-var mnemonic = "cart across tone festival close pen master wink orbit answer muscle seek";
+var mnemonic = "mandate birth also debris glue fresh bike rail vapor annual never merit";

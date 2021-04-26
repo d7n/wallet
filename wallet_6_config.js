@@ -1,1 +1,1 @@
-var mnemonic = "system umbrella news force average spell opera fluid club enrich siege kiwi";
+var mnemonic = "beach hedgehog syrup produce manage rely misery differ together fork glimpse sure";

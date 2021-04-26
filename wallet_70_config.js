@@ -1,1 +1,1 @@
-var mnemonic = "rail elephant model butter laugh voyage rapid lamp enhance yellow section term";
+var mnemonic = "vehicle exit picture vote poverty chunk before measure blind daring acoustic remain";

@@ -1,1 +1,1 @@
-var mnemonic = "extend shiver use ceiling device venture cat you find cat size help";
+var mnemonic = "tag slim autumn hair melt lab nerve find blame dignity about essence";

@@ -1,1 +1,1 @@
-var mnemonic = "mountain fault garment forest pencil slush table worry cousin horse comic say";
+var mnemonic = "swift beyond cactus toward capital topple slender weapon wood portion core hen";

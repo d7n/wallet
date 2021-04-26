@@ -1,1 +1,1 @@
-var mnemonic = "one rhythm rival section please garage credit mixture kite alcohol drill merge";
+var mnemonic = "inside blame vast uncover surround black first client unfold wrist empty cricket";
