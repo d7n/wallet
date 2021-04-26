@@ -1,1 +1,1 @@
-var mnemonic = "polar burden hint prefer meat focus deal fatigue dentist enjoy album stable";
+var mnemonic = "castle skin pupil donor scatter visa gesture nasty tape only rescue shrug";

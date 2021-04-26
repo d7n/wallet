@@ -1,1 +1,1 @@
-var mnemonic = "lunch boring arch blur lion riot jewel damp aisle approve mandate drama";
+var mnemonic = "battle since blue leopard glow shove west rural immense share fold luggage";

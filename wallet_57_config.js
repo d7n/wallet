@@ -1,1 +1,1 @@
-var mnemonic = "any race income meat where clutch doctor subject race source heart forest";
+var mnemonic = "inform agree better screen process elite garbage soldier matrix text tattoo network";

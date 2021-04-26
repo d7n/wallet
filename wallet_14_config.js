@@ -1,1 +1,1 @@
-var mnemonic = "into rural uncover woman possible normal deny acid enable predict fix monster";
+var mnemonic = "alter kitten arena frog north gain mom power voice neck height ten";

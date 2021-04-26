@@ -1,1 +1,1 @@
-var mnemonic = "holiday retire input admit diagram fiscal code tree embrace parent wagon inhale";
+var mnemonic = "one kingdom they globe debris absorb other wife spell step cousin erode";

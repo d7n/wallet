@@ -1,1 +1,1 @@
-var mnemonic = "edit cross car snack tomorrow wash cargo inside devote seed scatter lobster";
+var mnemonic = "slab above seminar voice want worry coyote ball twist future plate diary";

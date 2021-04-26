@@ -1,1 +1,1 @@
-var mnemonic = "dash crowd pelican twin rely until more clock rubber inform private fork";
+var mnemonic = "wall grunt casino staff front battle witness jeans track used round void";

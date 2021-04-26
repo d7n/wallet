@@ -1,1 +1,1 @@
-var mnemonic = "crane citizen spy return robust stamp also salon assist gadget muscle collect";
+var mnemonic = "risk awkward dance obey soldier excite birth shift bean pear notice online";

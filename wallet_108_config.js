@@ -1,1 +1,1 @@
-var mnemonic = "unaware mechanic tiny hub clutch label blind raise try mail detect wall";
+var mnemonic = "own mango actual drink merit lunch hunt moment camera usual mention ball";

@@ -1,1 +1,1 @@
-var mnemonic = "blood inherit glue discover harsh miracle conduct peanut car kid face tenant";
+var mnemonic = "paper spice receive caution author boss copy soccer boost glare head tell";

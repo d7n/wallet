@@ -1,1 +1,1 @@
-var mnemonic = "hold flock broom frame churn same junk fall media latin basic deer";
+var mnemonic = "swamp canoe rare wash riot photo accuse stage amount assist service false";

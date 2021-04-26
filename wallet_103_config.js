@@ -1,1 +1,1 @@
-var mnemonic = "neutral hunt fee diet measure bargain muscle anxiety derive guess pigeon pride";
+var mnemonic = "electric upgrade shoe key comic business system come estate gym derive secret";

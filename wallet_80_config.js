@@ -1,1 +1,1 @@
-var mnemonic = "use erupt weird wish upgrade green say stay turn trigger mass supply";
+var mnemonic = "flight long decrease gold arrest pair minor invest gas piece proud vicious";

@@ -1,1 +1,1 @@
-var mnemonic = "seminar army happy south stage quality market will mystery seven awful denial";
+var mnemonic = "must access submit source over cigar spy phrase bamboo pipe logic ankle";

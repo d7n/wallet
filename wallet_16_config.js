@@ -1,1 +1,1 @@
-var mnemonic = "fork strike omit climb dose erase spring often trumpet else slight execute";
+var mnemonic = "keep air dawn food pizza prevent pink hen radar armor labor behave";

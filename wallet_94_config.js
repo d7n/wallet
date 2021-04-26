@@ -1,1 +1,1 @@
-var mnemonic = "impulse decline dad extend unit spare bronze dumb august stairs region spawn";
+var mnemonic = "grief wide project news cube diamond favorite join train outside estate clarify";

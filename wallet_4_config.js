@@ -1,1 +1,1 @@
-var mnemonic = "perfect bicycle frost sweet logic middle depth glide fresh grunt coin script";
+var mnemonic = "rude uniform dilemma civil dose palace cannon belt repair object cabin coin";

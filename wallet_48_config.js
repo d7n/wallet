@@ -1,1 +1,1 @@
-var mnemonic = "raw play tackle above token journey travel foot bless potato pattern pave";
+var mnemonic = "rocket sight robot suit perfect boat alarm region fat nuclear brother bulb";

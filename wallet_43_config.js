@@ -1,1 +1,1 @@
-var mnemonic = "click barrel elephant capable circle cancel calm tenant throw tuition bunker crater";
+var mnemonic = "devote ladder suit outdoor build rebel pottery fork mercy private trouble cross";

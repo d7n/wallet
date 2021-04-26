@@ -1,1 +1,1 @@
-var mnemonic = "cute season napkin foster among jelly castle zoo aisle cart lunch spy";
+var mnemonic = "evoke dust galaxy boy strike fence equal help coral page lady kick";

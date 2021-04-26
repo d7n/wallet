@@ -1,1 +1,1 @@
-var mnemonic = "history song entry fat average cost debate rare enter index youth captain";
+var mnemonic = "mammal laptop hunt check table invite tool galaxy popular whip feature caught";

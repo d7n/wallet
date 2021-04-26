@@ -1,1 +1,1 @@
-var mnemonic = "dismiss develop mandate armed forget walk snap lemon gate fit skill victory";
+var mnemonic = "must private weapon slogan uphold army candy equal blouse alpha shell suggest";

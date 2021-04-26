@@ -1,1 +1,1 @@
-var mnemonic = "coral cute deny dance fiber soccer waste dog opinion giant turtle flight";
+var mnemonic = "cloth bench silk body inform island cancel aim doctor destroy catch trim";

@@ -1,1 +1,1 @@
-var mnemonic = "assault begin endorse vehicle okay large tribe creek display crop ring omit";
+var mnemonic = "today gospel birth pudding obscure ocean sock dismiss thought cabbage smoke staff";

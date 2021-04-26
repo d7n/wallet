@@ -1,1 +1,1 @@
-var mnemonic = "faith jazz edit arctic daughter voice shield kit potato govern alien network";
+var mnemonic = "gravity motion twist brain wire rigid scout glow goose toy tiny also";

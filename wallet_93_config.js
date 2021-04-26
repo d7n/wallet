@@ -1,1 +1,1 @@
-var mnemonic = "often pink unknown view about habit orange abuse net mind lion outer";
+var mnemonic = "leopard income useful water bundle crunch road that twelve end balcony rubber";

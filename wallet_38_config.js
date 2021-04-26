@@ -1,1 +1,1 @@
-var mnemonic = "laugh sponsor kiwi census charge daughter speed evolve arch little actress focus";
+var mnemonic = "version recycle release enter recipe eye suffer silent float thrive project history";

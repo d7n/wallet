@@ -1,1 +1,1 @@
-var mnemonic = "lake butter profit worry truth design false cube midnight mom sunset tattoo";
+var mnemonic = "pill key jump skin seed drive crush cheap radar lens mix chimney";

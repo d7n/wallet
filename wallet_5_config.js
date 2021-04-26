@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur topic cry pumpkin book jacket canal feed furnace diamond birth misery";
+var mnemonic = "eternal garbage want gown grace march comfort prosper analyst glow enjoy police";

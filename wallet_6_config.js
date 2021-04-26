@@ -1,1 +1,1 @@
-var mnemonic = "convince crowd exact term post finish climb inherit cradle motion wrestle tube";
+var mnemonic = "butter submit humble naive become ripple enroll cash foot depend truth pulp";

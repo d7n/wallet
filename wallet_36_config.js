@@ -1,1 +1,1 @@
-var mnemonic = "next loop wild pitch impact flag mammal design woman inhale token ask";
+var mnemonic = "inherit pen find scatter poem wrestle warrior fly tank record today toe";

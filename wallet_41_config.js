@@ -1,1 +1,1 @@
-var mnemonic = "glow firm pistol raven elephant ensure supreme derive inflict dance dose old";
+var mnemonic = "since version wife hint tissue legend brain nasty goddess plug plunge high";

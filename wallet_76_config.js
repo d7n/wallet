@@ -1,1 +1,1 @@
-var mnemonic = "view frame circle timber essence shell finish lounge bonus nephew local ripple";
+var mnemonic = "idea rabbit pumpkin onion essay almost group refuse thing lion organ crew";

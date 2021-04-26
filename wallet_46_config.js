@@ -1,1 +1,1 @@
-var mnemonic = "flee toss smoke morning large foil kiwi fork trust forum fatigue display";
+var mnemonic = "enter symptom core loyal lake sauce enhance expand good reward zero document";

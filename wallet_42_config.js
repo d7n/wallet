@@ -1,1 +1,1 @@
-var mnemonic = "morning bridge please expect rug repair inner grit edge mixed fish twin";
+var mnemonic = "frame hero fine nominee slush system beyond cement quick orchard black legal";

@@ -1,1 +1,1 @@
-var mnemonic = "hollow duck foil gallery derive allow garlic demand valley blast today advance";
+var mnemonic = "chase enemy carbon social eyebrow topple possible siren mail raise negative nephew";

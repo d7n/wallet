@@ -1,1 +1,1 @@
-var mnemonic = "sample ensure anxiety metal mixed educate infant whale genius morning drink clutch";
+var mnemonic = "assume build admit blush gossip lobster expose come nest flock clay toddler";

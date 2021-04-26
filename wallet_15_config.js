@@ -1,1 +1,1 @@
-var mnemonic = "unveil broom route dish until speak eager van shine august spend aim";
+var mnemonic = "silk barrel exhibit wreck index grid steel enroll scheme vault fresh milk";

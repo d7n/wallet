@@ -1,1 +1,1 @@
-var mnemonic = "industry panda inside pyramid spatial victory arrive arctic alcohol forward album letter";
+var mnemonic = "income cook one captain ordinary bulb fantasy current minimum someone end glance";

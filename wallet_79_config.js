@@ -1,1 +1,1 @@
-var mnemonic = "woman mesh castle immune gap solution horse lucky tongue trick chat cargo";
+var mnemonic = "eyebrow crime typical envelope assume rent pig sight custom keep expand under";

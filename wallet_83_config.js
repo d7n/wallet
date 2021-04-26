@@ -1,1 +1,1 @@
-var mnemonic = "mention also august cheap right vanish suggest music vital youth utility stock";
+var mnemonic = "ask accuse grass please help flame arrive kitten flock fabric vivid inmate";

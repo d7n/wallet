@@ -1,1 +1,1 @@
-var mnemonic = "cabbage food seminar enact tongue light donate bracket keep tooth hope news";
+var mnemonic = "adult aware habit fatal strategy limb curve sing mercy front toy meadow";

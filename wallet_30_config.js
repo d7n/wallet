@@ -1,1 +1,1 @@
-var mnemonic = "survey almost govern impact field jacket staff remind hybrid ankle idea gesture";
+var mnemonic = "stereo cake amateur winter install staff small flock betray helmet hybrid trip";

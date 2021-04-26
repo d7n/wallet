@@ -1,1 +1,1 @@
-var mnemonic = "arena clown motor crystal stone online hybrid firm caught evil tunnel country";
+var mnemonic = "trend divorce estate special quality unit occur blur horse dress tree excess";

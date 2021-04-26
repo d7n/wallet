@@ -1,1 +1,1 @@
-var mnemonic = "forward vanish round benefit blind hurt alien pilot eager enjoy ribbon rubber";
+var mnemonic = "ten arrow toss educate pottery panic allow monitor crouch depend obey color";

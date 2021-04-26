@@ -1,1 +1,1 @@
-var mnemonic = "guitar praise avoid bid valley misery suffer axis coconut bar siege person";
+var mnemonic = "disease win antique indoor dress affair embrace hollow quick canyon occur icon";

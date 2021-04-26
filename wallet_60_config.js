@@ -1,1 +1,1 @@
-var mnemonic = "chalk daughter average radar cushion bone gadget excess fetch produce social asthma";
+var mnemonic = "pilot chuckle hawk window tattoo timber rapid radio profit riot hospital agent";

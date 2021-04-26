@@ -1,1 +1,1 @@
-var mnemonic = "solid sock say lizard adapt pact kite clutch absurd life furnace address";
+var mnemonic = "equal uphold situate lobster purse junk punch lawsuit faith ritual arm wear";

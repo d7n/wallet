@@ -1,1 +1,1 @@
-var mnemonic = "night drastic access zero couple skull hub sun empower ostrich ice noodle";
+var mnemonic = "obscure high roast drama human blade creek print three region leaf claim";

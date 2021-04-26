@@ -1,1 +1,1 @@
-var mnemonic = "truly hill clever opera gentle hazard art matrix vicious tired disease enroll";
+var mnemonic = "pelican city rice saddle brave pool extra organ allow web broccoli verb";

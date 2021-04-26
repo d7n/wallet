@@ -1,1 +1,1 @@
-var mnemonic = "sting stove leader seek abandon gauge boy apple scan project settle dumb";
+var mnemonic = "vacant month badge chief gorilla inch zero flee battle border essence repair";

@@ -1,1 +1,1 @@
-var mnemonic = "fortune uniform cat direct tortoise second tomorrow endorse math echo snap fine";
+var mnemonic = "situate broom elbow assault because alpha carbon element wolf cushion cost toy";

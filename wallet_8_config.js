@@ -1,1 +1,1 @@
-var mnemonic = "bunker tissue length bonus certain ethics derive magic peanut fold win cannon";
+var mnemonic = "aerobic scene shop lunar water lonely major spell taste claw announce maze";

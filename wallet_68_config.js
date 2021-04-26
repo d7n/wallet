@@ -1,1 +1,1 @@
-var mnemonic = "civil flame clinic cherry dad frown foot bird foam click student salt";
+var mnemonic = "clinic pyramid daughter inch believe subway simple ramp head empty alien whale";

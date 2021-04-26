@@ -1,1 +1,1 @@
-var mnemonic = "blush void basic pave source buffalo live device april dumb tomato auto";
+var mnemonic = "rule clerk scene minimum potato entry nut fantasy praise surprise cheese pony";

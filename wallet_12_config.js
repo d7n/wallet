@@ -1,1 +1,1 @@
-var mnemonic = "real nut hope dish token task flavor vacant promote protect few glare";
+var mnemonic = "trumpet gospel clog box biology dog hat author mixture lyrics all teach";

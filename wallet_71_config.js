@@ -1,1 +1,1 @@
-var mnemonic = "cat stumble worry castle slab gloom spatial pony rough exile state walk";
+var mnemonic = "illegal inch gift cabbage orient stay dance august wheel slab scissors flash";

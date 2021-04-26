@@ -1,1 +1,1 @@
-var mnemonic = "tiger wait unlock practice alter reunion symbol weird erosion rabbit poem mule";
+var mnemonic = "diagram merge apology resemble gun toy resource innocent jeans hello emotion trial";

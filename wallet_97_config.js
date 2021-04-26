@@ -1,1 +1,1 @@
-var mnemonic = "close boy situate reason embark squeeze shaft lesson wrestle mountain tower model";
+var mnemonic = "slab master trophy quit gym job giraffe physical spring merge dragon scatter";

@@ -1,1 +1,1 @@
-var mnemonic = "rack surface grunt dry join ask swarm gentle ranch describe settle busy";
+var mnemonic = "blouse furnace father public pave system coach paper suggest recycle eternal beef";

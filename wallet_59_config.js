@@ -1,1 +1,1 @@
-var mnemonic = "junk thrive cruel donor once waste glow news front outer field urge";
+var mnemonic = "purse wrestle become birth dune hard bottom suspect security height angry found";

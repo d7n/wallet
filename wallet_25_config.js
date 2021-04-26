@@ -1,1 +1,1 @@
-var mnemonic = "camp height almost interest adjust sound bronze pelican february outdoor cement wash";
+var mnemonic = "home amazing noble moon marble mobile wave accident exhaust glare area exile";

@@ -1,1 +1,1 @@
-var mnemonic = "village input tip lemon tooth glue fault burden bacon swarm ecology liquid";
+var mnemonic = "giggle either bronze excess culture dune hunt liberty blame unknown affair brief";

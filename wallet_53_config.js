@@ -1,1 +1,1 @@
-var mnemonic = "sunny hotel skill addict cabbage lobster mistake toilet announce second milk token";
+var mnemonic = "mail narrow example lottery fancy milk armed aware reform blind above whale";

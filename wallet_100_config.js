@@ -1,1 +1,1 @@
-var mnemonic = "sing spin night wish equal empty oxygen muscle ketchup village never attack";
+var mnemonic = "canyon label demand brass series asthma wood hobby own ask neutral word";

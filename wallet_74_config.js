@@ -1,1 +1,1 @@
-var mnemonic = "velvet refuse tomato year second sea aim match cinnamon sample fever engage";
+var mnemonic = "glare toe fuel debate pilot fruit half vocal blossom evidence april gesture";

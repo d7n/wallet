@@ -1,1 +1,1 @@
-var mnemonic = "health tide fashion window piano trim coil file dish permit immune subway";
+var mnemonic = "alarm edge tornado inflict room inner addict pistol bright wait trial still";

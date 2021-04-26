@@ -1,1 +1,1 @@
-var mnemonic = "balance neglect sheriff army bulb december leaf physical suspect denial wasp door";
+var mnemonic = "drift join size club cave can wire actress steak aware meadow cute";

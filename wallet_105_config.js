@@ -1,1 +1,1 @@
-var mnemonic = "magnet tonight tube item punch have crawl gasp cousin park ball calm";
+var mnemonic = "grass prosper ghost erase develop tiger approve pulse fiction hood glad champion";

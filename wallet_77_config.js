@@ -1,1 +1,1 @@
-var mnemonic = "present lava hero present north slush cat steak dream gate swift crowd";
+var mnemonic = "into jaguar stairs sun ribbon pull flight weather orphan fresh suit seek";

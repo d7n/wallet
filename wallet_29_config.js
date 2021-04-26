@@ -1,1 +1,1 @@
-var mnemonic = "sand stock accuse prize luxury armor animal apple top bronze settle online";
+var mnemonic = "ramp diesel hundred receive radio fix sail galaxy must rain spray often";

@@ -1,1 +1,1 @@
-var mnemonic = "allow social wrap cage use banana patrol hammer wild record warfare pride";
+var mnemonic = "situate park axis chaos priority yard flag open coast crumble vital wolf";

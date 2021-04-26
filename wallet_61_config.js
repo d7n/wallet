@@ -1,1 +1,1 @@
-var mnemonic = "cousin blind buffalo friend toe file bulk situate lava column upper buffalo";
+var mnemonic = "palm captain result assist own garbage sibling hire digital fence inside coach";

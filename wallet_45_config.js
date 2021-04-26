@@ -1,1 +1,1 @@
-var mnemonic = "hundred gym guitar invest merit tuition hood upset auction aim artist october";
+var mnemonic = "cliff usage relief birth pen until clarify age milk require bunker bundle";

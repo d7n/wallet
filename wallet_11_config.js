@@ -1,1 +1,1 @@
-var mnemonic = "sting army bubble script wasp please tennis notice lion direct usual face";
+var mnemonic = "crime law filter insane oblige nasty harsh vault large latin box thing";

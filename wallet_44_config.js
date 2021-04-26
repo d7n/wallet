@@ -1,1 +1,1 @@
-var mnemonic = "giraffe ivory hunt feature hammer hungry memory time forward spring ready decide";
+var mnemonic = "basket blade lady slight scene marine pipe humble sock lift capable spike";

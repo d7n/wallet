@@ -1,1 +1,1 @@
-var mnemonic = "unfold slush infant vibrant welcome visual saddle reveal rule glide inch type";
+var mnemonic = "garbage minor luggage depend easy leg road alley vendor drastic infant deal";

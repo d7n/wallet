@@ -1,1 +1,1 @@
-var mnemonic = "tornado end agree sock patient patch skill quiz fold sense brush column";
+var mnemonic = "fall planet start wire blossom between tape box sausage seed light flush";

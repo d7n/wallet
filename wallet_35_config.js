@@ -1,1 +1,1 @@
-var mnemonic = "banana arrange property true bone express soul risk gather globe book protect";
+var mnemonic = "icon say unaware cloth save exercise same tennis door autumn earn volcano";

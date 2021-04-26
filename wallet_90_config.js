@@ -1,1 +1,1 @@
-var mnemonic = "beyond scheme lumber eagle adult pave again source require dirt distance tomato";
+var mnemonic = "page click buzz connect bench leader online abstract coin fix tribe merry";

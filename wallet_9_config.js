@@ -1,1 +1,1 @@
-var mnemonic = "empty run exotic plate term lamp mad scorpion exotic eye radio toddler";
+var mnemonic = "bachelor situate neck crawl urge purse harvest unique motion leaf front day";

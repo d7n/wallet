@@ -1,1 +1,1 @@
-var mnemonic = "before addict connect stand tenant stage state oval learn liberty slide garment";
+var mnemonic = "effort brave card economy strike exhibit two special badge bus squeeze mobile";

@@ -1,1 +1,1 @@
-var mnemonic = "carry load rabbit plunge shoulder network review turn inject rescue leopard strong";
+var mnemonic = "dove thought remove dance educate brush victory pistol stage orchard wild business";

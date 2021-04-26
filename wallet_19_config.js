@@ -1,1 +1,1 @@
-var mnemonic = "consider comic sun shell token mad spider ocean divide brother street ship";
+var mnemonic = "enrich slide battle question fitness artwork flower hand riot stick practice pitch";

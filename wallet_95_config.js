@@ -1,1 +1,1 @@
-var mnemonic = "chimney embrace dynamic frog force glory hero unhappy mirror benefit valley announce";
+var mnemonic = "wheat column junior current melody absent easy become picnic physical soup envelope";

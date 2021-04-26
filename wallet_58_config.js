@@ -1,1 +1,1 @@
-var mnemonic = "page junk guilt royal okay cabbage negative adapt ill north shed relief";
+var mnemonic = "shoot wet sponsor phrase perfect green nephew suggest spike doll island camp";

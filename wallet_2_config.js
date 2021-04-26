@@ -1,1 +1,1 @@
-var mnemonic = "thank artist state side slim banner find tilt drive apart render camera";
+var mnemonic = "cradle spread ten young casual hub giraffe tuition remind spatial task resource";

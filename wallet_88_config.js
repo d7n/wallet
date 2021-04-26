@@ -1,1 +1,1 @@
-var mnemonic = "option brain gentle fuel pole sound limb fever injury puzzle holiday coach";
+var mnemonic = "capable dust planet gun bacon chalk glove game fame bike cave ability";

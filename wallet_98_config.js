@@ -1,1 +1,1 @@
-var mnemonic = "inspire permit cloud bicycle model gloom scatter mystery deposit bicycle usual wrong";
+var mnemonic = "gold clump else misery tooth fly dentist dust test jeans culture define";

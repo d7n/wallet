@@ -1,1 +1,1 @@
-var mnemonic = "minimum desert where stage clutch spot inner deal garden author voice love";
+var mnemonic = "hundred coil quality donate quarter design brother notice expire enroll tape moment";

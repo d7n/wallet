@@ -1,1 +1,1 @@
-var mnemonic = "radar holiday when giggle coil ribbon cactus bone fee trade apple foil";
+var mnemonic = "stay truly attitude flee oval define letter sight ordinary venue prevent zone";

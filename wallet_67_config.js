@@ -1,1 +1,1 @@
-var mnemonic = "purpose water hamster clinic inner vessel ask park require caution coffee pretty";
+var mnemonic = "cause coach crime answer erupt cool gather north impact assume canal resist";
