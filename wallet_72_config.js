@@ -1,1 +1,1 @@
-var mnemonic = "kitchen spell inject next lunch lock goddess uncover circle bulb smoke crawl";
+var mnemonic = "young drive route fitness squirrel spice air mail elevator april voice various";

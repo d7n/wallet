@@ -1,1 +1,1 @@
-var mnemonic = "will soup outside dust naive imitate gospel tumble vintage differ that gather";
+var mnemonic = "yellow anchor summer couch reduce tongue air simple coyote wrong cupboard dumb";

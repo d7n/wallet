@@ -1,1 +1,1 @@
-var mnemonic = "object adjust wheel blade choice grid give genre nation rigid decline own";
+var mnemonic = "punch social always mystery evoke enter flame enemy entry small range glass";

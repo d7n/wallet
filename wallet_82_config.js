@@ -1,1 +1,1 @@
-var mnemonic = "robot annual assume candy knock biology auction odor grit old tired accident";
+var mnemonic = "nothing dance liberty hurt apple endless bind assume first frame frequent strong";

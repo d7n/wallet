@@ -1,1 +1,1 @@
-var mnemonic = "hamster cherry paddle salmon walnut time hobby vast jungle alter unusual task";
+var mnemonic = "consider sick side member gaze divert large more salute zone hover light";

@@ -1,1 +1,1 @@
-var mnemonic = "hotel model roast normal sudden please sure crunch model trial pizza find";
+var mnemonic = "awake trigger bless midnight depend security impulse anger venue stumble kick economy";

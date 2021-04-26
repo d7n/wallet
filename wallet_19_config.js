@@ -1,1 +1,1 @@
-var mnemonic = "blossom mesh model recycle equip uncover cluster earth bread fluid solve lab";
+var mnemonic = "price dry demise since iron minimum citizen isolate short clump grant image";

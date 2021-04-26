@@ -1,1 +1,1 @@
-var mnemonic = "stamp grief wine marble oak afraid size ahead poverty defense debris fog";
+var mnemonic = "track whip amused exit ill reform surface modify auction lounge mind clay";

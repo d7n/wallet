@@ -1,1 +1,1 @@
-var mnemonic = "couch soup beauty fortune tray top any congress try shift soup lunar";
+var mnemonic = "mom dragon reveal saddle outside surge require giant shell glide piece firm";

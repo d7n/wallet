@@ -1,1 +1,1 @@
-var mnemonic = "income sock sick ramp vague clean advance parade fiscal swear village sight";
+var mnemonic = "action above senior solar page answer sister spring foot entire upgrade clown";

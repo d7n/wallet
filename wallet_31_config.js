@@ -1,1 +1,1 @@
-var mnemonic = "recipe gate split goose master bubble sound print truth pistol audit above";
+var mnemonic = "exercise smooth apple boil honey mountain east rally sunny rapid elevator demand";

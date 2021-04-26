@@ -1,1 +1,1 @@
-var mnemonic = "home gadget census satisfy narrow chimney soft valve purse direct gas purity";
+var mnemonic = "disorder weekend equal mesh maple rack loop year lamp almost wreck trip";

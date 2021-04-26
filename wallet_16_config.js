@@ -1,1 +1,1 @@
-var mnemonic = "jelly right such distance crumble plastic connect sketch wagon middle couple atom";
+var mnemonic = "word process problem chief syrup actual crystal weasel cherry two tomato battle";

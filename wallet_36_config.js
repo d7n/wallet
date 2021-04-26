@@ -1,1 +1,1 @@
-var mnemonic = "cereal hen eternal merit spoon river guard keen cool mixture put elephant";
+var mnemonic = "ritual gorilla service print gadget bubble banana fancy rug blood wheel candy";

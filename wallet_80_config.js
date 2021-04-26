@@ -1,1 +1,1 @@
-var mnemonic = "hurdle coin wood escape pool enemy wolf damp lion garlic mammal develop";
+var mnemonic = "barrel animal school retire fiction soup unveil course hundred sick zero assume";

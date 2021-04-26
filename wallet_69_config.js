@@ -1,1 +1,1 @@
-var mnemonic = "settle jeans chef problem various word rice slab lunar hobby lazy warm";
+var mnemonic = "gold brave person joke found consider cover kiwi grief usual victory dilemma";

@@ -1,1 +1,1 @@
-var mnemonic = "gravity end twice glad wish tackle catalog same aerobic moral music achieve";
+var mnemonic = "oak circle tiger link pledge secret close entire metal gold end small";

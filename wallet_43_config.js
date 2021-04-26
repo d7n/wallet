@@ -1,1 +1,1 @@
-var mnemonic = "wife chronic market clarify offer venue where toddler theme object shuffle riot";
+var mnemonic = "detail where student anger announce junk poverty rain trim someone heart bachelor";

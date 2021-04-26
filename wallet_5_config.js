@@ -1,1 +1,1 @@
-var mnemonic = "camera junk suggest pony figure screen seven surface insect hamster icon cash";
+var mnemonic = "pet banner useful rookie crystal version corn faint fiscal muffin lady thing";

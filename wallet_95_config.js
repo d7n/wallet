@@ -1,1 +1,1 @@
-var mnemonic = "trash scatter indicate chalk thunder nasty mask dinner sunset frost suffer resist";
+var mnemonic = "close fine salmon simple metal perfect syrup kick bean bind coral kitchen";

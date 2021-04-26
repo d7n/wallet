@@ -1,1 +1,1 @@
-var mnemonic = "axis alpha today alpha crater love measure dirt item casual drift upset";
+var mnemonic = "rely lounge remain system swim urban initial tired until kiwi agree narrow";

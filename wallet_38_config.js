@@ -1,1 +1,1 @@
-var mnemonic = "occur coast forest weekend cargo flavor thought february clerk soccer purse forum";
+var mnemonic = "bargain wood air index limit annual box exit split meadow imitate roast";

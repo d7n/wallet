@@ -1,1 +1,1 @@
-var mnemonic = "mechanic ghost nephew major mixed always gain domain promote gravity like mechanic";
+var mnemonic = "south worry south fabric obscure buyer book shrug wage task elder ocean";

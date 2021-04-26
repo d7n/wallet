@@ -1,1 +1,1 @@
-var mnemonic = "inhale erosion explain motor obvious suggest welcome gather glance love man give";
+var mnemonic = "bamboo jeans best cart awful bleak stage wrong hybrid meat offer puzzle";

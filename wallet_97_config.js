@@ -1,1 +1,1 @@
-var mnemonic = "balance satisfy sponsor urban behave casual warm tape evidence congress song stadium";
+var mnemonic = "dream crane express glory sustain duty silver bubble clarify riot apology garage";

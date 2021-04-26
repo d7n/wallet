@@ -1,1 +1,1 @@
-var mnemonic = "teach castle bronze phone fetch galaxy left device boost antenna lawn shoulder";
+var mnemonic = "trim ridge pair wool invite title crew sudden brief safe spend battle";

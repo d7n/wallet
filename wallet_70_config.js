@@ -1,1 +1,1 @@
-var mnemonic = "awake double dynamic half dial chaos repair poet index rough inspire setup";
+var mnemonic = "dentist assault anchor donate avoid loyal army skin upon gospel lumber crash";

@@ -1,1 +1,1 @@
-var mnemonic = "giggle category copper render disease spray kangaroo athlete bench van cherry sugar";
+var mnemonic = "once muscle mother carbon swear before clump delay improve tower inquiry already";

@@ -1,1 +1,1 @@
-var mnemonic = "east frown room lunar major rigid hammer gasp pattern blue punch gorilla";
+var mnemonic = "endorse ask duty avoid foam forum embark club can embody gauge until";

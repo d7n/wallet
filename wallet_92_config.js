@@ -1,1 +1,1 @@
-var mnemonic = "route expire picture blanket saddle gospel girl rough tail debris rack grocery";
+var mnemonic = "carpet wife peace nose promote siege build kiwi identify salad usual digital";

@@ -1,1 +1,1 @@
-var mnemonic = "picture crystal fly pistol pioneer gaze venue dignity verb muffin phrase human";
+var mnemonic = "cycle cabbage guess pool snap top frozen portion fiscal clock best yard";

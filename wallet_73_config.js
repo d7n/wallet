@@ -1,1 +1,1 @@
-var mnemonic = "cherry agree furnace course motion agent find water sign romance clutch peanut";
+var mnemonic = "doll creek easy away stairs twenty flush hand change erase wear bulk";

@@ -1,1 +1,1 @@
-var mnemonic = "horror sunny drastic window test tonight rebuild sail zoo load battle route";
+var mnemonic = "sister mouse gun tennis small bar park inflict long action nation black";

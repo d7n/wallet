@@ -1,1 +1,1 @@
-var mnemonic = "moral cigar between until daring mention swift champion man cart little umbrella";
+var mnemonic = "gauge promote salute debris enjoy float govern recipe winter mirror token light";

@@ -1,1 +1,1 @@
-var mnemonic = "market guide rapid note crush mistake abstract yellow cube cage boss camera";
+var mnemonic = "keen style setup photo obtain margin tell danger scrap clerk mammal prize";

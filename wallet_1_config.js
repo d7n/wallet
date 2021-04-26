@@ -1,1 +1,1 @@
-var mnemonic = "luxury spy steel address buyer gain deer pass loyal action dune program";
+var mnemonic = "cradle spawn group scrap above glad initial detect improve fly harvest prefer";

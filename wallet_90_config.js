@@ -1,1 +1,1 @@
-var mnemonic = "lizard fitness conduct face leg bar vague ethics toward orange chest hen";
+var mnemonic = "resource good accuse flight cup motion manual three promote future enroll hollow";

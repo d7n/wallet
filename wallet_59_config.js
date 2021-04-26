@@ -1,1 +1,1 @@
-var mnemonic = "coast fee opinion mixture laptop neither oyster silly basket letter recipe boat";
+var mnemonic = "quit drama such oppose soul total noise someone flavor loyal pumpkin endless";

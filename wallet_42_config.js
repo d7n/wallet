@@ -1,1 +1,1 @@
-var mnemonic = "next ugly rhythm echo expand type jelly lumber imitate absurd junk collect";
+var mnemonic = "quality brother tide inside pig accident project satoshi offer fix old plate";

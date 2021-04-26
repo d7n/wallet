@@ -1,1 +1,1 @@
-var mnemonic = "desk prison yard joke napkin squeeze multiply spoil fitness eager party erase";
+var mnemonic = "track match find dirt prosper hidden glare offer tragic poet shaft clap";

@@ -1,1 +1,1 @@
-var mnemonic = "nurse give insane tribe today vocal person siege direct please review stage";
+var mnemonic = "census stool mutual nothing merge engage coil antenna voice wine zero discover";

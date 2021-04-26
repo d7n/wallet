@@ -1,1 +1,1 @@
-var mnemonic = "merit lend orphan hurry sight square announce artist six sister tomato rubber";
+var mnemonic = "thunder theme eyebrow machine section put brave napkin thrive repair wink member";

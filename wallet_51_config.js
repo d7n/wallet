@@ -1,1 +1,1 @@
-var mnemonic = "virtual found palace buddy initial tennis flame giraffe submit bike elder gloom";
+var mnemonic = "credit comfort art step scheme assist task tuna coconut govern wall since";

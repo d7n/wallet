@@ -1,1 +1,1 @@
-var mnemonic = "soap social social eyebrow scatter general tattoo between way file account cry";
+var mnemonic = "food abandon interest little sleep young sweet various today guard kick obvious";

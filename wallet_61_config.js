@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow undo voyage alarm mean entire absent time bitter priority arena ozone";
+var mnemonic = "skirt bid practice pledge purpose merit same endorse install royal dice theory";

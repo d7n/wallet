@@ -1,1 +1,1 @@
-var mnemonic = "garage together scrap oak leg cabin strike rain poverty panic urge drum";
+var mnemonic = "laptop stable boat over nephew clown indicate page comfort sentence client museum";

@@ -1,1 +1,1 @@
-var mnemonic = "glass shrug length toast weapon width depart exact horn bleak net slight";
+var mnemonic = "tank street gloom frog globe hole trash announce walk cradle discover perfect";

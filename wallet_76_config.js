@@ -1,1 +1,1 @@
-var mnemonic = "orbit minute live neglect account zone tobacco steel model pipe brain door";
+var mnemonic = "across slush mesh reduce movie sweet lake gossip winner female total blast";

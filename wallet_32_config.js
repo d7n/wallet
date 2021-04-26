@@ -1,1 +1,1 @@
-var mnemonic = "matter rival pact flee bounce sugar coach urban horror crater oven evoke";
+var mnemonic = "carry labor bomb hunt original obscure light energy fame remind situate minor";

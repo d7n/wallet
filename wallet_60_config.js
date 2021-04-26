@@ -1,1 +1,1 @@
-var mnemonic = "track confirm glide curtain company bid surface castle ghost very citizen cereal";
+var mnemonic = "oppose glare clean merit canal lake love assist jelly toss confirm spawn";

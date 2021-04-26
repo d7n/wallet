@@ -1,1 +1,1 @@
-var mnemonic = "recycle meat violin electric march size debris advice evil mystery dad visual";
+var mnemonic = "victory moral early field belt grant clog tobacco urge unlock clinic sheriff";

@@ -1,1 +1,1 @@
-var mnemonic = "senior wish shrimp route toast bamboo road impulse animal about rely farm";
+var mnemonic = "they spread cradle ask title rally acoustic review project brick empty chat";

@@ -1,1 +1,1 @@
-var mnemonic = "quantum retreat pepper birth attack carbon snap output asset alone carbon shed";
+var mnemonic = "private chapter test warrior endless funny boss harvest pilot poverty canal buffalo";

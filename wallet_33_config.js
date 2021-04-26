@@ -1,1 +1,1 @@
-var mnemonic = "right drastic unfold rough decide great river float twelve curious blouse labor";
+var mnemonic = "position item cart snake bicycle accuse jungle expire act slice cage couple";

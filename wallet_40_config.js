@@ -1,1 +1,1 @@
-var mnemonic = "you toward brand gospel spider lawn pulp later ritual game box fog";
+var mnemonic = "case risk thunder stick purpose warrior kid run symbol donkey agree wood";

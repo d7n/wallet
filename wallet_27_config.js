@@ -1,1 +1,1 @@
-var mnemonic = "humble supply baby recall ozone river above leaf traffic squeeze gather frog";
+var mnemonic = "stuff traffic where clutch neck glance evoke disagree renew airport soda yard";

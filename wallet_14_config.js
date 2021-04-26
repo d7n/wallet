@@ -1,1 +1,1 @@
-var mnemonic = "bunker topic call kick find merry use raccoon comfort discover layer battle";
+var mnemonic = "scheme flee stereo seat cherry warm stand what impose glory slow opera";

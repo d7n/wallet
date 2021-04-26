@@ -1,1 +1,1 @@
-var mnemonic = "stem dial circle frozen cherry dry ritual assist antenna alpha bind giant";
+var mnemonic = "disagree quantum trip corn visual bottom pipe obey gasp mistake injury sing";

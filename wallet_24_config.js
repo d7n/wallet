@@ -1,1 +1,1 @@
-var mnemonic = "army stone maze hospital digital distance symbol pottery siege reject furnace remove";
+var mnemonic = "bamboo park dilemma inch front doll damage lyrics loud news brain put";

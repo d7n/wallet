@@ -1,1 +1,1 @@
-var mnemonic = "loud way appear age demise gloom goat best knife seek foot piano";
+var mnemonic = "eight traffic photo lounge kiwi base crane update mansion exercise ocean rabbit";

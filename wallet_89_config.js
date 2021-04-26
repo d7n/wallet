@@ -1,1 +1,1 @@
-var mnemonic = "tribe viable october alcohol wing mistake embrace sport ask turtle tag guitar";
+var mnemonic = "live great office safe rhythm input usage fresh clay allow safe jaguar";

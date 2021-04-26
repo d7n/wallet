@@ -1,1 +1,1 @@
-var mnemonic = "great wash oven scare solution favorite patch give history lunar rude obey";
+var mnemonic = "cream cable hope caution defy extend okay steak genuine soap leader lab";

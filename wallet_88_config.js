@@ -1,1 +1,1 @@
-var mnemonic = "fitness curve borrow million move achieve must gorilla alien autumn spot cruise";
+var mnemonic = "diet cook quantum switch floor present bid circle kit potato mixed awesome";

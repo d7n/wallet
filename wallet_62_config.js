@@ -1,1 +1,1 @@
-var mnemonic = "high industry youth skin own wreck cube charge other unhappy over crush";
+var mnemonic = "into address omit describe wheel winner inherit sand sample dragon daughter will";

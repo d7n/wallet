@@ -1,1 +1,1 @@
-var mnemonic = "soldier hope leaf exchange idea more decline pencil drum unusual bottom stage";
+var mnemonic = "dilemma regular sponsor skirt resemble client property hover glory left pistol road";

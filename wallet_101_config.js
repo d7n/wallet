@@ -1,1 +1,1 @@
-var mnemonic = "hip cube viable magic exchange observe flock hello alpha eagle across tape";
+var mnemonic = "spring company ancient announce long load diet grab load decrease crater smoke";

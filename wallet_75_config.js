@@ -1,1 +1,1 @@
-var mnemonic = "melody actress grid improve gasp pact decade congress second deposit torch point";
+var mnemonic = "because crisp butter twist toddler attract saddle jazz property ensure lawn curtain";

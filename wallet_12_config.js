@@ -1,1 +1,1 @@
-var mnemonic = "mutual elbow idle tone bind cricket reflect monitor palace away tired cook";
+var mnemonic = "clarify crane invite slender economy uphold arrive oak horn august produce slim";

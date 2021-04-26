@@ -1,1 +1,1 @@
-var mnemonic = "van skate garden month arctic vanish scrap monster help purchase bench shield";
+var mnemonic = "announce broccoli wisdom try soda tunnel silly dinosaur vintage illegal system pottery";

@@ -1,1 +1,1 @@
-var mnemonic = "palm olympic cinnamon open option hover swarm alter suspect consider motion hospital";
+var mnemonic = "mass palm path garment swear gather theory rain adjust fence gossip wheel";

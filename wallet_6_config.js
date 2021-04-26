@@ -1,1 +1,1 @@
-var mnemonic = "foam usage zoo charge wave fog churn knife tragic board what fall";
+var mnemonic = "desk blue quantum top mixed hurt relax bus swamp spider canvas purse";

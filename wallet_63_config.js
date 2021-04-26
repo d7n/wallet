@@ -1,1 +1,1 @@
-var mnemonic = "wife air bread rent enemy method network frozen pigeon diagram asthma disease";
+var mnemonic = "bargain seminar ancient simple vast absent assist bamboo inquiry chase aunt rabbit";

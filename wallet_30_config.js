@@ -1,1 +1,1 @@
-var mnemonic = "twenty key example quote property buddy grunt pond diagram box bundle venture";
+var mnemonic = "visual modify peanut blossom square myself jump trade mad response service dream";

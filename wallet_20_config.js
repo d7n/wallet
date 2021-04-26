@@ -1,1 +1,1 @@
-var mnemonic = "already object arrange walnut oppose river mixed sleep confirm demand negative move";
+var mnemonic = "they excess galaxy spider toast visit radar tag limb desert confirm spy";

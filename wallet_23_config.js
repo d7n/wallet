@@ -1,1 +1,1 @@
-var mnemonic = "reflect skull aunt unaware core metal tackle derive require chimney monster hint";
+var mnemonic = "language under junior card museum nut milk ski island escape cycle pulse";

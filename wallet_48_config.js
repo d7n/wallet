@@ -1,1 +1,1 @@
-var mnemonic = "follow bid road arena bless orchard frozen fruit turkey mail crystal select";
+var mnemonic = "spoon spider biology squeeze deliver need small check caution biology palm truck";

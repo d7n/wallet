@@ -1,1 +1,1 @@
-var mnemonic = "element win purse phone fiction hour rice comfort cycle stairs tongue face";
+var mnemonic = "across until pistol frog neglect bulb bicycle guard wife sample vault moon";

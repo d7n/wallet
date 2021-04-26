@@ -1,1 +1,1 @@
-var mnemonic = "top box install taxi custom regret loan decline error supply define absorb";
+var mnemonic = "neutral napkin decorate south ridge wonder oak person furnace inflict decade grunt";

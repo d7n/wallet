@@ -1,1 +1,1 @@
-var mnemonic = "upper inform icon merry shiver balance tunnel welcome giraffe february gather rely";
+var mnemonic = "life reopen deny permit leave chuckle chief blood awful nominee weasel child";

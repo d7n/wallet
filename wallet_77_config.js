@@ -1,1 +1,1 @@
-var mnemonic = "shiver abandon suffer work open scatter index myth blame come hawk rule";
+var mnemonic = "output assume train gain tool fluid juice autumn proud zone village wheat";

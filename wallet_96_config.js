@@ -1,1 +1,1 @@
-var mnemonic = "magnet staff swamp fun oyster field stove brick kite art steak sauce";
+var mnemonic = "output sniff old local grant theory enrich purse employ food tooth clean";

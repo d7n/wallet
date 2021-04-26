@@ -1,1 +1,1 @@
-var mnemonic = "neutral shoulder six diesel belt doll bacon finger carbon lawsuit can glove";
+var mnemonic = "outer screen side winter topple include sing dad practice still peanut sphere";

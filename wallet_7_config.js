@@ -1,1 +1,1 @@
-var mnemonic = "leg rural ceiling cry sustain release client digital undo mercy above drink";
+var mnemonic = "myself rookie small shoulder fluid jeans beauty mystery soon drift example message";

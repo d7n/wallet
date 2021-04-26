@@ -1,1 +1,1 @@
-var mnemonic = "member stable decrease minimum cover session tip earn choose polar erase squirrel";
+var mnemonic = "sign question satisfy giant lizard connect east panic doll social hunt vote";

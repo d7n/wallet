@@ -1,1 +1,1 @@
-var mnemonic = "drip horn because ozone replace alter gift first estate gallery tail engage";
+var mnemonic = "father what term work phone cram maple defense affair veteran submit rigid";

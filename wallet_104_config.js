@@ -1,1 +1,1 @@
-var mnemonic = "spy display fever flat equip frozen income push utility property cash scatter";
+var mnemonic = "mirror large option churn coffee lens kangaroo smart tray select planet similar";
