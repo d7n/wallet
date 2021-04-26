@@ -1,1 +1,1 @@
-var mnemonic = "frozen charge focus curious ribbon ostrich spirit tool rely member goat proud";
+var mnemonic = "canoe disorder switch focus drive broccoli meadow choose flat kiwi crop spring";

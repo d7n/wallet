@@ -1,1 +1,1 @@
-var mnemonic = "under hello drastic retire apple logic exchange industry mansion panel garden sea";
+var mnemonic = "hurt city smile nuclear hidden kit enroll season rib mirror gravity sail";

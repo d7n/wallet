@@ -1,1 +1,1 @@
-var mnemonic = "dumb salon solid discover swear give learn sing frequent husband panel potato";
+var mnemonic = "narrow raven popular cotton science miss february awake bleak satisfy still speak";

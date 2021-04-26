@@ -1,1 +1,1 @@
-var mnemonic = "match vocal sad better hungry lake canal reason rib glimpse orphan north";
+var mnemonic = "entire tape dilemma clip thunder good battle other utility window onion emotion";

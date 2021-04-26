@@ -1,1 +1,1 @@
-var mnemonic = "under travel orient width place village fire caught fan person bachelor collect";
+var mnemonic = "include canal unlock sea social fold you knock witness trust bless web";

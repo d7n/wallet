@@ -1,1 +1,1 @@
-var mnemonic = "scatter yard winner observe goat review render cargo check august predict bright";
+var mnemonic = "prize multiply million token fix uncle fire rough naive health door intact";

@@ -1,1 +1,1 @@
-var mnemonic = "oyster jewel token broom trust old gather wild silly nature claim chalk";
+var mnemonic = "harvest lens fork museum output visual canoe hole assault scene grain mask";

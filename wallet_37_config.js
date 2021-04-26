@@ -1,1 +1,1 @@
-var mnemonic = "check dish piece remember unknown pen valid three envelope parrot clump unique";
+var mnemonic = "axis reunion bitter possible forum glow ghost amateur upon clay demise hotel";

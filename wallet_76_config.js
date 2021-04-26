@@ -1,1 +1,1 @@
-var mnemonic = "dilemma amateur hint sea spell simple drip fat kangaroo dumb gauge taste";
+var mnemonic = "retreat humble fault mom devote rural garbage collect struggle horror shallow outer";

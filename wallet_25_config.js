@@ -1,1 +1,1 @@
-var mnemonic = "version sting genre essay wink mercy music spider gather phone tissue famous";
+var mnemonic = "comic wrestle floor table near brand repair impulse cigar book magnet drum";

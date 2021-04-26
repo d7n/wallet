@@ -1,1 +1,1 @@
-var mnemonic = "fruit list can force demand lumber strategy cabbage subject wait picture cycle";
+var mnemonic = "illegal allow evidence because innocent army into stool clinic merry lawn license";

@@ -1,1 +1,1 @@
-var mnemonic = "dream aerobic column alpha clean water rescue scene spare eyebrow urban cinnamon";
+var mnemonic = "achieve infant canvas bike spell correct false sunset cargo mammal float couch";

@@ -1,1 +1,1 @@
-var mnemonic = "sea pipe term neglect media know air disease mesh invest cream girl";
+var mnemonic = "garment wine kitchen small squirrel empower cash scare valve pledge belt into";

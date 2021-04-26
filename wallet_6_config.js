@@ -1,1 +1,1 @@
-var mnemonic = "car travel keep current gun eight fever snap plate warrior atom pond";
+var mnemonic = "element ball shove kid guess extend blind barrel power course find frost";

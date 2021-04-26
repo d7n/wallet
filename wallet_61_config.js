@@ -1,1 +1,1 @@
-var mnemonic = "route equip snake era exit canoe renew fury permit host square surge";
+var mnemonic = "grief error crazy celery yard leader outdoor portion win super palace path";

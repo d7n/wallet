@@ -1,1 +1,1 @@
-var mnemonic = "convince laptop path autumn weather mention van mouse sketch stock trophy drastic";
+var mnemonic = "ethics gravity people whip lizard misery luggage feature holiday cinnamon trim sudden";

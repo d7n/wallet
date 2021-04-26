@@ -1,1 +1,1 @@
-var mnemonic = "spell wine local raise feed slender inmate sound present rocket reward eyebrow";
+var mnemonic = "suggest super slam mistake couch beach reunion lift image wrap south spell";

@@ -1,1 +1,1 @@
-var mnemonic = "submit pigeon gasp include zero race arrange brief raise twist behind genius";
+var mnemonic = "doll siren snack great world rubber spy category jeans lesson umbrella merit";

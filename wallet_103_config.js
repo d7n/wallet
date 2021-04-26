@@ -1,1 +1,1 @@
-var mnemonic = "senior pepper vocal tiger antique worry adult twice agree scatter omit maid";
+var mnemonic = "flush turtle hurdle away approve lounge task coyote tree slow denial solution";

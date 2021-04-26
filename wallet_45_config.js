@@ -1,1 +1,1 @@
-var mnemonic = "vocal olympic almost ridge lamp client liberty morning monitor lumber purchase mouse";
+var mnemonic = "unusual around trophy receive train wrist remind cluster embody super toilet repeat";

@@ -1,1 +1,1 @@
-var mnemonic = "zebra enough cactus smart nest alien demand lend sun bamboo steak pelican";
+var mnemonic = "pen north nice noise amateur diary addict brush asset captain fade phone";

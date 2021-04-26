@@ -1,1 +1,1 @@
-var mnemonic = "fall hungry funny dash rib bullet opera example spawn awkward laundry motion";
+var mnemonic = "magic oblige enact supreme climb ball coin inspire hybrid mystery caught delay";

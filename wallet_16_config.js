@@ -1,1 +1,1 @@
-var mnemonic = "entire shove narrow miss net surge resist borrow raise task popular unveil";
+var mnemonic = "profit common lunar captain pill divert ivory inflict album fashion proof casino";

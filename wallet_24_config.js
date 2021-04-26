@@ -1,1 +1,1 @@
-var mnemonic = "gun nothing spatial hamster bounce hurry render escape panther agent pottery list";
+var mnemonic = "attract life afraid client grab stairs trumpet ready body damage boy fatigue";

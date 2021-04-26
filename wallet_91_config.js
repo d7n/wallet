@@ -1,1 +1,1 @@
-var mnemonic = "awesome twelve seven chair tent add cheese property clown skate rocket agent";
+var mnemonic = "canoe easily inmate source kitchen birth husband vote rescue club shell fossil";

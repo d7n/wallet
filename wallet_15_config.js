@@ -1,1 +1,1 @@
-var mnemonic = "shiver very tide ten case oven recipe gold enemy lava eager game";
+var mnemonic = "draft valley judge fog table jazz hover narrow slush fresh march luxury";

@@ -1,1 +1,1 @@
-var mnemonic = "typical menu flower border control abuse pill dust pumpkin blame reduce basket";
+var mnemonic = "panther equip fade more sing giraffe spare bacon hockey cause subway setup";

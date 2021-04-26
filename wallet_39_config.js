@@ -1,1 +1,1 @@
-var mnemonic = "when sleep grid ship vacuum decade maid song casual merry seed talent";
+var mnemonic = "indoor cloth cheap project cattle novel music example derive exhibit gentle fame";

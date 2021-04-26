@@ -1,1 +1,1 @@
-var mnemonic = "target letter miss yard flower exhaust athlete sense sense grace zoo symptom";
+var mnemonic = "staff hazard witness rude atom throw favorite result approve random snap proof";

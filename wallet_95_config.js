@@ -1,1 +1,1 @@
-var mnemonic = "coach earn thought blood fitness indicate post flower rescue subject alpha fee";
+var mnemonic = "work ostrich swallow service slot regret try flower help eager unhappy jungle";

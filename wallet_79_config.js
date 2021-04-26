@@ -1,1 +1,1 @@
-var mnemonic = "drop jump duck escape menu enrich crystal canoe window cereal inherit matter";
+var mnemonic = "imitate bless possible orange ghost twelve raccoon worry require fortune dizzy volume";

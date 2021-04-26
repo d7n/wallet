@@ -1,1 +1,1 @@
-var mnemonic = "dash north honey remove recycle share surprise double price chat equip junk";
+var mnemonic = "oblige scissors guess radio elite tissue half marble merge curtain valid brother";

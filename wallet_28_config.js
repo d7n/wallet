@@ -1,1 +1,1 @@
-var mnemonic = "east dentist exhaust puppy energy security boost improve milk into street original";
+var mnemonic = "rack mimic opera pause poem scene december old lecture sheriff blood eagle";

@@ -1,1 +1,1 @@
-var mnemonic = "then valve phrase time tiny whip until dream clown couple inhale bachelor";
+var mnemonic = "comic extend update smile cushion holiday wealth guitar route initial sniff symptom";

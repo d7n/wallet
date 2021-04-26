@@ -1,1 +1,1 @@
-var mnemonic = "south predict praise ritual wise disagree combine kick physical magnet razor space";
+var mnemonic = "world gorilla fame absent pistol deposit spike will enforce tattoo edge ice";

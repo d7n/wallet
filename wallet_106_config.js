@@ -1,1 +1,1 @@
-var mnemonic = "offer soon right unfold urge initial task spider claim gentle session romance";
+var mnemonic = "myself you kit have soldier shrug birth garbage royal swift poet industry";

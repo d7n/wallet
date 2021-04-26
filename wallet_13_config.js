@@ -1,1 +1,1 @@
-var mnemonic = "crush fabric aunt praise victory season cup later opera follow genre increase";
+var mnemonic = "swim leader small grain stove naive strong ancient harbor feature filter drip";

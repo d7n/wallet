@@ -1,1 +1,1 @@
-var mnemonic = "scorpion control almost agree ceiling member profit seed unknown check empty world";
+var mnemonic = "whale else cabin elephant grab turtle enforce change cabbage wild access discover";

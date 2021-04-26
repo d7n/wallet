@@ -1,1 +1,1 @@
-var mnemonic = "nasty blur option chair penalty neglect aim print twenty attack issue sell";
+var mnemonic = "element remove visit famous pause ordinary shift profit mobile reopen fox grape";

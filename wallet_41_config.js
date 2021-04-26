@@ -1,1 +1,1 @@
-var mnemonic = "genre notable chase joy frozen eager odor best puppy normal rose media";
+var mnemonic = "sport short upset dolphin turtle swarm entire heavy bubble rose thunder prepare";

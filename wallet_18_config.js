@@ -1,1 +1,1 @@
-var mnemonic = "smile pen busy combine same useful bacon gun leaf acquire helmet enjoy";
+var mnemonic = "phrase depend slim noodle rural rail calm approve sting unique moment assist";

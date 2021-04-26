@@ -1,1 +1,1 @@
-var mnemonic = "course address fetch need time entire dove canvas undo jelly rifle certain";
+var mnemonic = "drama ring next devote wait hotel sentence nice famous stairs defy sort";

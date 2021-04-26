@@ -1,1 +1,1 @@
-var mnemonic = "soldier useful air actual switch plunge knife chest file vague crew shy";
+var mnemonic = "fade detect dash job faculty payment garage auction example lab differ enter";

@@ -1,1 +1,1 @@
-var mnemonic = "escape absent father copy bench pool renew subway camera predict brave inch";
+var mnemonic = "inch distance funny silver smart flame blush obtain there alone phone market";

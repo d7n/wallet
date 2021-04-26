@@ -1,1 +1,1 @@
-var mnemonic = "matter cake spy renew tool license casino toilet elite moon peace absurd";
+var mnemonic = "vivid rubber amazing cancel solar comfort vibrant angry large stuff poverty turkey";

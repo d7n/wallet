@@ -1,1 +1,1 @@
-var mnemonic = "uniform acid provide believe news school stock lounge say toe slow you";
+var mnemonic = "arrive pact meadow pulp punch category advance use adapt matrix inhale suspect";

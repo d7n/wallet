@@ -1,1 +1,1 @@
-var mnemonic = "dinner spell please swear frozen aspect mosquito arena capital transfer gift merit";
+var mnemonic = "owner cute heart warrior shiver bounce below prize fine slush smart quick";

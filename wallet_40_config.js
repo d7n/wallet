@@ -1,1 +1,1 @@
-var mnemonic = "small window unfold mule soul argue slot hire song until gold outside";
+var mnemonic = "utility high arch motion regret curve primary visa fruit crew leave spirit";

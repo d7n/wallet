@@ -1,1 +1,1 @@
-var mnemonic = "rifle mask grocery survey vanish marriage blur search hero lawn label burden";
+var mnemonic = "artist typical praise yard spawn road neutral scorpion assume morning senior turn";

@@ -1,1 +1,1 @@
-var mnemonic = "physical warm soon seat horn sing potato fiction people lunar coyote ice";
+var mnemonic = "early result dial tuna action turn burger peanut churn tag disease theme";

@@ -1,1 +1,1 @@
-var mnemonic = "cradle know spray sweet view chuckle tumble celery menu tell audit chef";
+var mnemonic = "wheel slush deal myself wagon spin promote visit drama mixture half almost";

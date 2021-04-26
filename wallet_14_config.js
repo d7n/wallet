@@ -1,1 +1,1 @@
-var mnemonic = "husband skin canyon example cabin cover derive dog rug eyebrow clinic flame";
+var mnemonic = "melody measure rookie report control exit medal buffalo know spoil skin sausage";

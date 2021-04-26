@@ -1,1 +1,1 @@
-var mnemonic = "dust bag bid era access swarm include jewel snow submit announce fortune";
+var mnemonic = "ask turtle drill river icon sleep day gather penalty crime over task";

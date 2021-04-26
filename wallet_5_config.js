@@ -1,1 +1,1 @@
-var mnemonic = "correct chat announce file blouse gorilla direct reduce credit sand exercise still";
+var mnemonic = "perfect wife scale capital army brass sound wolf catch accident south recycle";

@@ -1,1 +1,1 @@
-var mnemonic = "real satoshi pony steel drum render income measure aim donkey utility eyebrow";
+var mnemonic = "eyebrow cross dog laugh rice unable wheat method merge swallow feed noodle";

@@ -1,1 +1,1 @@
-var mnemonic = "danger arctic modify book purpose parent ticket shy harsh cherry interest alter";
+var mnemonic = "glue glance prosper toss coyote airport potato deputy ask old quantum aim";

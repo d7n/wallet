@@ -1,1 +1,1 @@
-var mnemonic = "lock time glance intact renew great cook inmate popular slim lizard absorb";
+var mnemonic = "real mimic rally silent gossip pluck soap wish sad argue icon other";

@@ -1,1 +1,1 @@
-var mnemonic = "melody junior limb ethics praise enable alter jacket nation glide daughter steak";
+var mnemonic = "pigeon juice laundry dignity blame kitchen fat dust helmet level oyster under";

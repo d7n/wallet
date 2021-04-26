@@ -1,1 +1,1 @@
-var mnemonic = "earth verify silk hour potato frozen train recycle deposit mixed advance forget";
+var mnemonic = "real can exclude choose announce divert wing flat scatter limb apology invest";

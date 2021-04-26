@@ -1,1 +1,1 @@
-var mnemonic = "brisk course demise since will thunder that result feel chunk recall palace";
+var mnemonic = "front supreme chair law idle aerobic tiger toe glass found joke neck";

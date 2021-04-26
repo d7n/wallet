@@ -1,1 +1,1 @@
-var mnemonic = "donate series super derive digital twice deposit dish target jungle crew slam";
+var mnemonic = "uniform method they mountain parrot agent welcome wool merit corn ancient depend";

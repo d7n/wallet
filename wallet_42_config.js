@@ -1,1 +1,1 @@
-var mnemonic = "cycle erase denial exhibit car damage long code come wide vapor prison";
+var mnemonic = "input party reform hidden title final bright dad tiny eyebrow pilot torch";

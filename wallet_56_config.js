@@ -1,1 +1,1 @@
-var mnemonic = "major replace heart lyrics tonight quarter make fashion bullet feed sponsor deliver";
+var mnemonic = "injury tip half tissue tooth vibrant volume sibling issue ceiling basket gain";

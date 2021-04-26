@@ -1,1 +1,1 @@
-var mnemonic = "fortune make quit adapt type survey quick thank salad goat scene phone";
+var mnemonic = "great around limit suit unknown rapid danger regular shove sustain vital regular";

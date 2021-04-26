@@ -1,1 +1,1 @@
-var mnemonic = "danger scout chef ivory round mimic announce skirt moon special ghost nasty";
+var mnemonic = "kit arena captain bulk buddy connect normal around island fuel ranch liberty";

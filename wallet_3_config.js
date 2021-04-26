@@ -1,1 +1,1 @@
-var mnemonic = "rain ticket love spider sponsor valve recall gauge wait vague use crash";
+var mnemonic = "flock play candy evidence visit patrol uncover purchase acoustic ostrich velvet neither";

@@ -1,1 +1,1 @@
-var mnemonic = "barely shield oak thought duck fit raven excess country boy beef frown";
+var mnemonic = "soup split cover case theme relax penalty page actual twenty bronze region";

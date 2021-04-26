@@ -1,1 +1,1 @@
-var mnemonic = "stool banner escape arrest keep tourist resist sure rally birth bone parade";
+var mnemonic = "maze room reduce stem drill aim service pipe actor viable legend outer";

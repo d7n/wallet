@@ -1,1 +1,1 @@
-var mnemonic = "story permit hamster diagram zone praise blade mirror sand such flash behind";
+var mnemonic = "lounge episode disorder stand pact dwarf foster impulse citizen best stereo jar";

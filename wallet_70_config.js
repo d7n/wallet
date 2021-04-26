@@ -1,1 +1,1 @@
-var mnemonic = "rebuild proof seven popular razor squeeze assault choice also word vibrant give";
+var mnemonic = "only couple fat another loyal alien fault call damp since ahead hood";

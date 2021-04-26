@@ -1,1 +1,1 @@
-var mnemonic = "resist thing alarm cheese resist angry manage derive charge depart rebel liberty";
+var mnemonic = "crisp until lock fever subway phone vault off bike file approve grunt";

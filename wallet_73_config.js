@@ -1,1 +1,1 @@
-var mnemonic = "crucial erosion zone swarm lawsuit foam foam sausage banner enroll seat refuse";
+var mnemonic = "uphold kiwi knock luggage broom harbor mean differ casual rug swamp barrel";

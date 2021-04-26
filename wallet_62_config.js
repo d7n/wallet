@@ -1,1 +1,1 @@
-var mnemonic = "recycle dice panel end course empower dolphin canyon art clown place relief";
+var mnemonic = "guilt trial robust crush session believe fish post merge erase pioneer glue";

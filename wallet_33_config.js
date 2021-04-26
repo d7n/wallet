@@ -1,1 +1,1 @@
-var mnemonic = "crime inmate escape glove mule fragile husband hint secret income peasant dog";
+var mnemonic = "uphold couple castle magnet gasp credit proud pioneer casino whip have olive";

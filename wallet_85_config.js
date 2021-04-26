@@ -1,1 +1,1 @@
-var mnemonic = "scout street hover acquire sell meat deny achieve vicious west prosper mention";
+var mnemonic = "summer elephant explain merry canal access immense orchard thought omit gossip illness";

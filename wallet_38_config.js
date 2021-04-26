@@ -1,1 +1,1 @@
-var mnemonic = "hover gossip arena hen heavy foil buddy bunker enrich ensure purchase dutch";
+var mnemonic = "velvet box toddler shrimp sense draft sing hero album meadow staff refuse";

@@ -1,1 +1,1 @@
-var mnemonic = "ignore walk adult learn ankle mouse attack wave assault bottom fork arrest";
+var mnemonic = "floor speed poverty sleep upset school neither agree text beef spider wire";

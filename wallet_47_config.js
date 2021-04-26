@@ -1,1 +1,1 @@
-var mnemonic = "put casino armor royal dad jacket upgrade twice moon habit shiver great";
+var mnemonic = "rice country physical thrive frog furnace object topple vast fork insect benefit";

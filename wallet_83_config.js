@@ -1,1 +1,1 @@
-var mnemonic = "side cheap kid slice enact biology target diesel muscle cave empower mystery";
+var mnemonic = "divide auction border water empty ignore guilt pony barrel zebra special speak";

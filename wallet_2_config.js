@@ -1,1 +1,1 @@
-var mnemonic = "athlete hurt shadow provide mystery helmet fresh venue apple voyage win kick";
+var mnemonic = "index fun basket season gossip tilt coast cheese phone twenty audit bag";

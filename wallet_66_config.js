@@ -1,1 +1,1 @@
-var mnemonic = "ride tuition other modify dry decide unknown combine eyebrow donkey october tube";
+var mnemonic = "glow wife sheriff rose ordinary spike settle burden stereo defense uniform october";

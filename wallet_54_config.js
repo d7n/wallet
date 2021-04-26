@@ -1,1 +1,1 @@
-var mnemonic = "quote purchase aunt surprise fetch cabbage half table shoe process guess finger";
+var mnemonic = "abuse mass minor thumb era bird fall town manage antique absorb trick";

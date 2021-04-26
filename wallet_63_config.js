@@ -1,1 +1,1 @@
-var mnemonic = "vote bulb slot rotate uniform wide impose cloth copper slim chief swamp";
+var mnemonic = "legal warrior syrup issue motor manage history pill stomach dance stage start";

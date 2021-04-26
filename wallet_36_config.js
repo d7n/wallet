@@ -1,1 +1,1 @@
-var mnemonic = "fire wise inch junior vintage when brain orchard verb aim mosquito above";
+var mnemonic = "upper battle squirrel october chapter that payment figure hip frog dumb reopen";

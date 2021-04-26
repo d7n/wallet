@@ -1,1 +1,1 @@
-var mnemonic = "appear afford fall fatal day vast venture bracket love trumpet law pyramid";
+var mnemonic = "artefact gorilla staff shiver still climb fashion raw speak roast bone blossom";

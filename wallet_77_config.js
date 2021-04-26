@@ -1,1 +1,1 @@
-var mnemonic = "century moment measure learn try copy wet ostrich account mouse process giraffe";
+var mnemonic = "warrior million relax glass what appear arch indicate final panther wagon excess";

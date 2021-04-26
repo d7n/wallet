@@ -1,1 +1,1 @@
-var mnemonic = "tank term seven easily visual capable perfect jeans pilot wrap clock liar";
+var mnemonic = "depend neither ring climb wrap purse shadow lunar peasant fantasy medal moral";

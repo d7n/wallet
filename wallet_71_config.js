@@ -1,1 +1,1 @@
-var mnemonic = "verb net vibrant umbrella song raccoon wedding arrest there ghost lonely grant";
+var mnemonic = "zone submit stock proud save sea jaguar federal search silent topic relief";

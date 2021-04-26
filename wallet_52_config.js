@@ -1,1 +1,1 @@
-var mnemonic = "suffer gold walk coast eternal liar slam cherry off goose math motion";
+var mnemonic = "wet rubber rail tennis ancient parrot squeeze bacon horn legend illegal soldier";

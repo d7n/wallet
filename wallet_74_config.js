@@ -1,1 +1,1 @@
-var mnemonic = "gift donor plastic base doll thing blossom entire reward modify north praise";
+var mnemonic = "nephew myth target lemon attack disease process fashion canyon kiss cradle demise";

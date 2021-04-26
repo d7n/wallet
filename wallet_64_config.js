@@ -1,1 +1,1 @@
-var mnemonic = "patrol shield rural sample post robust genius fabric afford plunge guess struggle";
+var mnemonic = "vacuum sweet core dial include hill face lounge style vacuum behave domain";
