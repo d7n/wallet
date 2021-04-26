@@ -1,1 +1,1 @@
-var mnemonic = "medal license basic harvest proof film million hover push unusual ridge drastic";
+var mnemonic = "brick anxiety effort cross mix glide merit announce multiply rare donor vacant";

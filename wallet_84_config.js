@@ -1,1 +1,1 @@
-var mnemonic = "enact praise tuition cruise foil second soccer link outside notice feed normal";
+var mnemonic = "grass report survey coil swear horse another sibling very board neutral upper";

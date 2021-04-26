@@ -1,1 +1,1 @@
-var mnemonic = "tip either apart vendor dry gap sound hero tower false maze myself";
+var mnemonic = "athlete hard identify tennis under actual throw horror that uncle asset lens";

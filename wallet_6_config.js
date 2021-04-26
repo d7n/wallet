@@ -1,1 +1,1 @@
-var mnemonic = "material heavy come frown bag tape renew gun food east sheriff approve";
+var mnemonic = "hill tunnel unveil curve tongue old focus alarm excess maid swim timber";

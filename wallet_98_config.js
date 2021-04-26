@@ -1,1 +1,1 @@
-var mnemonic = "pact clutch smooth salad neither two sponsor scout expose spin bus athlete";
+var mnemonic = "image thing song invite rice arrive grain vessel involve bacon route drama";

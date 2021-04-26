@@ -1,1 +1,1 @@
-var mnemonic = "mercy diagram kiss calm legal nominee present always surprise clarify kiss cheap";
+var mnemonic = "arm tell announce arrange crash thrive puppy animal benefit panel deal ship";

@@ -1,1 +1,1 @@
-var mnemonic = "favorite pigeon require accident super foster cram pear mesh cake oblige time";
+var mnemonic = "vintage palace excess health usual project click tackle giant artefact still leisure";

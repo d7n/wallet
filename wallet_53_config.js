@@ -1,1 +1,1 @@
-var mnemonic = "weapon element occur clown kind half security jelly shove ladder awake goddess";
+var mnemonic = "remember current defy crash shaft flip rifle bench pelican fatal ripple under";

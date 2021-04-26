@@ -1,1 +1,1 @@
-var mnemonic = "still real menu glimpse diamond reveal club lunch program melt donate dice";
+var mnemonic = "report animal very enroll sense stumble zoo truck happy meat pizza trend";

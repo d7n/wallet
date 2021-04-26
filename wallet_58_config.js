@@ -1,1 +1,1 @@
-var mnemonic = "strategy wave mind reopen veteran delay girl robust antique today lend asset";
+var mnemonic = "celery whip flush diet embark insect office lobster satisfy picnic message slim";

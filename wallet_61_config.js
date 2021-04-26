@@ -1,1 +1,1 @@
-var mnemonic = "distance stem ecology scan agree slam diesel ridge key venue junior rabbit";
+var mnemonic = "dinosaur cliff ten armed virus potato endless praise forum bullet onion raw";

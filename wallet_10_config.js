@@ -1,1 +1,1 @@
-var mnemonic = "bargain best soldier glimpse crater disease typical amateur day diary very during";
+var mnemonic = "hello festival clarify vivid cabbage erosion kiss liberty bridge trim vibrant skin";

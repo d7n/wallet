@@ -1,1 +1,1 @@
-var mnemonic = "slim sudden enter victory room badge laptop pen puzzle enact math crazy";
+var mnemonic = "effort faint beauty march wool finger muscle apart east mutual memory drum";

@@ -1,1 +1,1 @@
-var mnemonic = "body connect obtain beyond maze wage load story cinnamon grow creek network";
+var mnemonic = "lend this debris vivid among easy seat oven digital mom ostrich battle";

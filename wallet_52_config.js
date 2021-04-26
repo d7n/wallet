@@ -1,1 +1,1 @@
-var mnemonic = "assist fee act wrong fetch follow envelope boost aware radar episode uncle";
+var mnemonic = "verb have twice bring reduce fruit february buddy hold staff shallow solve";

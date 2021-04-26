@@ -1,1 +1,1 @@
-var mnemonic = "addict belt hood action edge six erase wisdom pony index gossip affair";
+var mnemonic = "when point pretty melody someone bunker cook raise hedgehog risk genuine talk";

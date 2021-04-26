@@ -1,1 +1,1 @@
-var mnemonic = "trust make another enforce split define repair term abandon original clever invite";
+var mnemonic = "glad lounge pistol note sound cousin garlic pond olympic square cloud correct";

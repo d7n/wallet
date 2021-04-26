@@ -1,1 +1,1 @@
-var mnemonic = "unlock road lift sport chalk path dwarf crawl team step lawn aspect";
+var mnemonic = "salmon ankle bulb dismiss praise pet ripple defense scout plastic hundred million";

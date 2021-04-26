@@ -1,1 +1,1 @@
-var mnemonic = "predict lake bacon slab oblige broken blind clog mesh remove lock faculty";
+var mnemonic = "unable capable wrap glide pizza garage local faint divide girl promote fiction";

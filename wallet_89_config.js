@@ -1,1 +1,1 @@
-var mnemonic = "snap joke divert same episode butter mail number chronic scrub satisfy swap";
+var mnemonic = "health sort stone clap call betray unit marriage violin loop solar tomorrow";

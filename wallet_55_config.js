@@ -1,1 +1,1 @@
-var mnemonic = "frequent rib crumble shuffle stuff six dignity mechanic direct urge outdoor regular";
+var mnemonic = "exist setup ozone sister lemon acquire aim cream unable decline gentle bracket";

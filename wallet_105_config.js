@@ -1,1 +1,1 @@
-var mnemonic = "brief leg easily random gesture choose repair general degree frog floor goddess";
+var mnemonic = "ahead cash wave service picnic suffer crater fly release elevator save roof";

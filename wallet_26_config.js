@@ -1,1 +1,1 @@
-var mnemonic = "near border large bullet copper front muffin device rent couple lazy defense";
+var mnemonic = "violin twenty spy combine pill zoo kit mail remember genre few viable";

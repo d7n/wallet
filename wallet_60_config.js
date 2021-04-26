@@ -1,1 +1,1 @@
-var mnemonic = "fragile fix wasp horse hobby sugar spirit check margin diesel ugly alpha";
+var mnemonic = "moment snack bargain toast wagon snow number knife exotic verify online canvas";

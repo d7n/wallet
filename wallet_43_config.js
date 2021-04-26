@@ -1,1 +1,1 @@
-var mnemonic = "stem dish bind boss gun game panther creek language join diagram picnic";
+var mnemonic = "trophy grow army noise melt fossil shrug curve girl spend royal hammer";

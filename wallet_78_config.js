@@ -1,1 +1,1 @@
-var mnemonic = "sand undo strong curtain quantum skate eagle bus runway country front immune";
+var mnemonic = "trip fit super federal gorilla girl manual where advance erupt shield real";

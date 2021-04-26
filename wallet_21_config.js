@@ -1,1 +1,1 @@
-var mnemonic = "all young tuna wall return school radio ride figure funny discover meadow";
+var mnemonic = "shop safe ethics fitness biology grain bargain tide soon betray kiss note";

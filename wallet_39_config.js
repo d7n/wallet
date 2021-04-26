@@ -1,1 +1,1 @@
-var mnemonic = "play example hen round area foil always boy opera party foot kitchen";
+var mnemonic = "horror north home first blast layer draft crowd soldier object size endless";

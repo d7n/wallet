@@ -1,1 +1,1 @@
-var mnemonic = "island small provide gravity text dust fiction pear vast result pony until";
+var mnemonic = "negative dismiss parent mouse outside evil wink umbrella typical chuckle project gesture";

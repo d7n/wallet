@@ -1,1 +1,1 @@
-var mnemonic = "deny donor piece thought cook humble can renew inquiry bicycle volcano essay";
+var mnemonic = "sustain sniff vacuum what aspect edge edit tunnel help unit grow guilt";

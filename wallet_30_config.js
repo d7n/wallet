@@ -1,1 +1,1 @@
-var mnemonic = "asthma expect purse despair undo drive sister hurry rule ask advice chaos";
+var mnemonic = "naive woman stereo list evidence market embody scout eternal whip sort letter";

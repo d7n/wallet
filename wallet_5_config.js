@@ -1,1 +1,1 @@
-var mnemonic = "uphold swing adult fury air message fit meadow team spice double filter";
+var mnemonic = "sick spray robust shuffle indoor boil this donkey lizard morning below float";

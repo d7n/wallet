@@ -1,1 +1,1 @@
-var mnemonic = "live decade enact twist talent fitness case awkward kitten anchor word debris";
+var mnemonic = "nation toy autumn large tunnel pair sun because pledge rough record oxygen";

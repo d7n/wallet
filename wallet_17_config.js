@@ -1,1 +1,1 @@
-var mnemonic = "correct leaf flash diet train staff emerge utility camera drop useful pill";
+var mnemonic = "awake olive blast comic regular whisper bullet foster join fog clip fan";

@@ -1,1 +1,1 @@
-var mnemonic = "eagle iron enroll planet click fit rude lyrics analyst bargain thumb guilt";
+var mnemonic = "sea dose snap style milk donor such fine tunnel else require swap";

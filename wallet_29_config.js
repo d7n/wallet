@@ -1,1 +1,1 @@
-var mnemonic = "blossom iron exist elite term kingdom craft laptop zero wage kidney slush";
+var mnemonic = "shoe task giant naive pepper erupt notable gallery floor scorpion idle sure";

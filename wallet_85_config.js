@@ -1,1 +1,1 @@
-var mnemonic = "syrup airport catch road cabbage discover similar few club hawk evidence soft";
+var mnemonic = "seat fire salad orchard degree maximum present deputy design turtle unhappy connect";

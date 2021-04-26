@@ -1,1 +1,1 @@
-var mnemonic = "parent desk fantasy over gaze mobile six noise august catalog solid run";
+var mnemonic = "behind mistake aisle lock oblige initial sphere width canoe emerge wheel muscle";

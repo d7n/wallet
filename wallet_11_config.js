@@ -1,1 +1,1 @@
-var mnemonic = "noise river tortoise blast fog enable hunt few between twenty wedding basic";
+var mnemonic = "ask license sure bean quality high accident random reject slogan coconut rather";

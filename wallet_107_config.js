@@ -1,1 +1,1 @@
-var mnemonic = "firm frog call orchard rent friend embrace rely flavor truly question culture";
+var mnemonic = "waste narrow jeans lizard surprise pilot desert grab raven afford noble sock";

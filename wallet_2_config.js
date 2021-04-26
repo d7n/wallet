@@ -1,1 +1,1 @@
-var mnemonic = "gown special pear canal pride junk engage topple detail spell bitter kitchen";
+var mnemonic = "pulp dinosaur choice imitate report violin subject stomach fragile guess blue east";

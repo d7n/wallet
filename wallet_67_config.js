@@ -1,1 +1,1 @@
-var mnemonic = "lunch crowd zebra desk office fruit fiction organ ceiling boat raccoon relief";
+var mnemonic = "involve second boat pulse fly private slender canyon deposit sketch add injury";

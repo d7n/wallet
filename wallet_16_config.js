@@ -1,1 +1,1 @@
-var mnemonic = "nothing pilot urban cousin plastic illegal dish member have brother control chimney";
+var mnemonic = "course drum strategy enemy mail grace sleep jacket code clean volcano spider";

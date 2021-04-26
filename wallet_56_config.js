@@ -1,1 +1,1 @@
-var mnemonic = "where common daring fetch barrel book puzzle keep hire memory tuna diagram";
+var mnemonic = "gossip mercy doctor tide velvet expect add juice lemon pudding badge student";

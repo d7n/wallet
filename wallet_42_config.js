@@ -1,1 +1,1 @@
-var mnemonic = "dolphin arctic verify blade crack alone romance supreme trim history property series";
+var mnemonic = "nerve grape exercise ozone critic exhibit pill husband check utility light describe";

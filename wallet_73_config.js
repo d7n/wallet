@@ -1,1 +1,1 @@
-var mnemonic = "lounge cost first minor smile nasty ripple myth advance provide slice forest";
+var mnemonic = "jungle lift valley lock explain ring focus noble price conduct clerk giggle";

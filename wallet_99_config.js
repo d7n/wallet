@@ -1,1 +1,1 @@
-var mnemonic = "seat window monitor blanket race elephant buyer zero section rude submit sea";
+var mnemonic = "lens opera hire fabric candy evolve betray grit muffin design amazing siege";

@@ -1,1 +1,1 @@
-var mnemonic = "control cave panic neither december torch region visa senior size trim pulp";
+var mnemonic = "inquiry blanket way photo market pond vessel network civil rural endorse earn";

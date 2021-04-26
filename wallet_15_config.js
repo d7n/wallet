@@ -1,1 +1,1 @@
-var mnemonic = "near member stage photo mandate inspire audit meadow vacuum bike little wagon";
+var mnemonic = "uncle during salon three together pink blood artefact swift length skirt whisper";

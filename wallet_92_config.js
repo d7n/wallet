@@ -1,1 +1,1 @@
-var mnemonic = "bacon globe venture van grab sphere gap jungle burger drip hover brown";
+var mnemonic = "stable paddle update dynamic wheel ocean deliver cream visual return spin memory";

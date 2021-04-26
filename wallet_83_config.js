@@ -1,1 +1,1 @@
-var mnemonic = "smile glimpse hill zebra shy near yellow bomb tiger dice pepper vague";
+var mnemonic = "fault picture two quality brief confirm mercy manage diesel brick wreck play";

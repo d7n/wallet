@@ -1,1 +1,1 @@
-var mnemonic = "artist apology evidence witness always dragon honey identify unit rural matrix kingdom";
+var mnemonic = "radio letter spatial ecology flee sugar typical onion cat become attitude system";

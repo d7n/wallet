@@ -1,1 +1,1 @@
-var mnemonic = "fly sibling agree tennis fiction raccoon patch foot west around lottery sea";
+var mnemonic = "grain vessel latin baby final orphan seed sweet story group climb near";

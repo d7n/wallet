@@ -1,1 +1,1 @@
-var mnemonic = "candy obvious find swift lottery practice option jealous window uncover october ecology";
+var mnemonic = "random caution puppy assault across flush acid sleep undo captain view domain";

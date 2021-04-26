@@ -1,1 +1,1 @@
-var mnemonic = "rotate curve project whisper fatigue frog kitten bar notable addict wash woman";
+var mnemonic = "direct security region slide miracle guitar step jewel ladder world involve kick";

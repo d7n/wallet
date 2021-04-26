@@ -1,1 +1,1 @@
-var mnemonic = "table wood harsh draft wish rescue matter bar struggle life endorse usual";
+var mnemonic = "matter laptop hero crime parent bean hard wage coach happy amateur ocean";

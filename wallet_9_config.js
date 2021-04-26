@@ -1,1 +1,1 @@
-var mnemonic = "runway crumble tragic proof umbrella good grocery focus metal detail into reject";
+var mnemonic = "upon eyebrow glow loop swear bundle ball sing faint pizza injury tragic";

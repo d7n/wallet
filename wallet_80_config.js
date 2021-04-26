@@ -1,1 +1,1 @@
-var mnemonic = "exotic dirt syrup toddler range genre submit gift inner fuel first segment";
+var mnemonic = "leisure shoot light warrior puppy kid tourist stone pattern lemon always spawn";

@@ -1,1 +1,1 @@
-var mnemonic = "ticket depth month illness garden anxiety viable fun visit arctic notice eternal";
+var mnemonic = "midnight phone pipe girl wrap life uncover bonus tissue face visual nephew";

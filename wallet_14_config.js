@@ -1,1 +1,1 @@
-var mnemonic = "extend clown rhythm display school crunch trouble curtain film off cool tunnel";
+var mnemonic = "stove father afraid wrong feed twelve frog senior title sea cup clump";

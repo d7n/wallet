@@ -1,1 +1,1 @@
-var mnemonic = "stove convince train field hawk hard fee mountain seek media mixed fly";
+var mnemonic = "humor bicycle ginger trophy seek salute spray labor weasel antenna toy radar";

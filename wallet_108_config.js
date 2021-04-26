@@ -1,1 +1,1 @@
-var mnemonic = "join earn among scene member arrange voyage rich scan senior hundred tribe";
+var mnemonic = "foam team pact little flight delay parade million broccoli tone nephew enrich";

@@ -1,1 +1,1 @@
-var mnemonic = "license knock merry eager track rural absurd dwarf clock renew beef fiscal";
+var mnemonic = "bounce general olive please glimpse legal task frozen casino ticket volcano actual";

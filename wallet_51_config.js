@@ -1,1 +1,1 @@
-var mnemonic = "base creek weapon detail wasp brand custom guard faculty run maze genius";
+var mnemonic = "circle blush sail infant ripple erupt home broccoli quantum vapor next pulp";

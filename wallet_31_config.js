@@ -1,1 +1,1 @@
-var mnemonic = "inner unique accident riot reveal civil wedding asthma accident frost hope spatial";
+var mnemonic = "crouch disease confirm flight one entire crash catch midnight corn praise choice";

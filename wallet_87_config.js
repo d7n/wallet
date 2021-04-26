@@ -1,1 +1,1 @@
-var mnemonic = "minor husband balance rally theory foster answer crane report mention little fish";
+var mnemonic = "apology skate salmon neutral miracle message legal female dilemma final tiny brand";

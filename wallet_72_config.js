@@ -1,1 +1,1 @@
-var mnemonic = "hill promote leaf subway inform ozone bright ozone pass anchor dutch shop";
+var mnemonic = "slim rather cruise floor wrist wood hawk feel forget shell then buffalo";

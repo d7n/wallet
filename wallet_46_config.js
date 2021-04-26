@@ -1,1 +1,1 @@
-var mnemonic = "shove zone surge alcohol mansion leave insane unfold maximum valve hedgehog feed";
+var mnemonic = "civil alter pitch crouch little derive joy jeans diamond habit boat develop";

@@ -1,1 +1,1 @@
-var mnemonic = "welcome oppose illness ignore involve wall better taxi prison duty keep credit";
+var mnemonic = "tape owner forest reward alcohol romance quarter upset panic deliver choice urban";

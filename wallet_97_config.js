@@ -1,1 +1,1 @@
-var mnemonic = "measure damage amount pencil print damp trophy stem pizza this wine stamp";
+var mnemonic = "brain smoke feel ancient together topic sell try hungry prize ticket nasty";

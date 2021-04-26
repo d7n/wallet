@@ -1,1 +1,1 @@
-var mnemonic = "sad runway taste weapon aunt group detail void height source seed park";
+var mnemonic = "vibrant lucky finish food inhale focus shoulder sting weasel garlic skill upon";

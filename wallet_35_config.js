@@ -1,1 +1,1 @@
-var mnemonic = "session grit sausage place arctic account peasant mind enforce shallow rice theme";
+var mnemonic = "ready fiber idea industry taxi method uncle video easily barrel usage swing";

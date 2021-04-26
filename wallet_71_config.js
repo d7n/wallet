@@ -1,1 +1,1 @@
-var mnemonic = "casual firm pond spin prison castle green mechanic print chimney upon scrub";
+var mnemonic = "kit arch subway clean matter race vibrant february picture spend settle language";

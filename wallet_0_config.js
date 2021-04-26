@@ -1,1 +1,1 @@
-var mnemonic = "awful project ancient dove code act hazard now pave habit hen noise";
+var mnemonic = "end outer sea main harvest atom stairs oil pulp dad album lyrics";

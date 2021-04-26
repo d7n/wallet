@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit recall dutch mass boost canvas motor spice lecture fringe human avoid";
+var mnemonic = "art sock object minute assault elbow soda electric obey social punch logic";

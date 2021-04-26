@@ -1,1 +1,1 @@
-var mnemonic = "caught loan soap vanish deputy session retreat pigeon taxi scissors dilemma auction";
+var mnemonic = "add share century fatigue churn arm pupil energy leader tip series token";

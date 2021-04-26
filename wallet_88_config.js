@@ -1,1 +1,1 @@
-var mnemonic = "moon crystal emotion agent fade admit hobby staff squirrel pretty roast modify";
+var mnemonic = "diary drift oppose pattern auto slight unhappy supply female coral please corn";

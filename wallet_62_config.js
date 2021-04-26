@@ -1,1 +1,1 @@
-var mnemonic = "dutch cram carpet unlock space grain message few same category panther nominee";
+var mnemonic = "guess moment digital tiny elbow ill urban cattle brother honey laundry ask";

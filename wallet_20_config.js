@@ -1,1 +1,1 @@
-var mnemonic = "gym three nut chalk quit spend project gun banner soft ship move";
+var mnemonic = "truly source tilt raise frown awkward wash riot mom tiny buddy waste";

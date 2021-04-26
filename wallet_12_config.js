@@ -1,1 +1,1 @@
-var mnemonic = "race olive asthma portion phrase tool sister summer art churn walk never";
+var mnemonic = "opera piece wool off approve liar remove lock cheap rookie sock deputy";

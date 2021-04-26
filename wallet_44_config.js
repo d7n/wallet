@@ -1,1 +1,1 @@
-var mnemonic = "next belt design estate note patch grit predict rival garlic field suspect";
+var mnemonic = "skill rural coyote gorilla syrup danger switch flat away fork radar elder";

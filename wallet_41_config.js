@@ -1,1 +1,1 @@
-var mnemonic = "hold yard caught page public invest will bunker pipe ceiling general strong";
+var mnemonic = "crew spell garage rapid delay glide twelve hotel manual crime funny margin";

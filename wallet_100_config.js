@@ -1,1 +1,1 @@
-var mnemonic = "maple palm key steak country market high wonder accuse word rigid capable";
+var mnemonic = "piano engage earth spoil wise tower enjoy yard south brand undo keep";

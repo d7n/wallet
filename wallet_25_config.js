@@ -1,1 +1,1 @@
-var mnemonic = "act candy meadow still yard length clog disagree scrap awkward basic identify";
+var mnemonic = "humble melt silver video cake wide truly duty any aisle syrup jelly";

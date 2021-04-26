@@ -1,1 +1,1 @@
-var mnemonic = "profit bounce census awful jacket client noble heavy season interest retreat slush";
+var mnemonic = "world gallery song moon tree virus double duty catch quarter engage urban";

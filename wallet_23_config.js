@@ -1,1 +1,1 @@
-var mnemonic = "camera always mean fluid screen basic consider inquiry success sick vintage outdoor";
+var mnemonic = "false allow state treat catalog ship razor finish achieve solution inch fat";

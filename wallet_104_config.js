@@ -1,1 +1,1 @@
-var mnemonic = "start volume engine wealth blade father tray sport drip essence immune fish";
+var mnemonic = "bounce spoil radio bachelor fiction play curtain width gravity rhythm firm muffin";

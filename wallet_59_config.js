@@ -1,1 +1,1 @@
-var mnemonic = "wool peasant beauty sugar wait glance episode drama heavy task cube pledge";
+var mnemonic = "say bless holiday heart apple fatigue curtain damp fee joy library gold";

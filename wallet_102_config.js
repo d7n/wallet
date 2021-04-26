@@ -1,1 +1,1 @@
-var mnemonic = "delay can leisure fiction response lake tower hunt dinosaur solid crumble since";
+var mnemonic = "country need kitten silent kingdom guilt police penalty hockey case emerge suit";

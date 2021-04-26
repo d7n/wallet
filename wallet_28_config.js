@@ -1,1 +1,1 @@
-var mnemonic = "alter search brush shallow zero myth satoshi impose emotion waste hazard oppose";
+var mnemonic = "exhaust price broccoli mountain raven apart express ginger friend gaze vault vibrant";

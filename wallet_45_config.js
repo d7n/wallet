@@ -1,1 +1,1 @@
-var mnemonic = "scrap cloth brain question head south height medal buyer robot field system";
+var mnemonic = "goose foot inspire honey room purchase news ocean useless chalk hungry leopard";
