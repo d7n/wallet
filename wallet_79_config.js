@@ -1,1 +1,1 @@
-var mnemonic = "rack peace junior twist prepare behind hidden office scorpion response fit side";
+var mnemonic = "guitar dice force endorse dust below rebel grain elite trial hand wide";

@@ -1,1 +1,1 @@
-var mnemonic = "tonight stadium soft client master advice trophy grass wheel purchase deal birth";
+var mnemonic = "fiscal lazy script harsh reduce boy believe hospital moral chunk marble decorate";

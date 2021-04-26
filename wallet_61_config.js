@@ -1,1 +1,1 @@
-var mnemonic = "pass extra hub airport float rack clerk either finger canal valid lounge";
+var mnemonic = "fiction robot boil cannon galaxy provide rescue amazing aim summer present skate";

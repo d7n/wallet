@@ -1,1 +1,1 @@
-var mnemonic = "myself amount cloud exclude saddle dutch wasp square lesson powder wreck diet";
+var mnemonic = "glow stadium canoe pledge increase under price spread goat boy tribe hero";

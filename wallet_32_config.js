@@ -1,1 +1,1 @@
-var mnemonic = "decrease man alien fork lecture any buzz cinnamon cupboard rebel daughter room";
+var mnemonic = "clown laundry jewel city nothing cream property buzz sausage address describe coach";

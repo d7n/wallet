@@ -1,1 +1,1 @@
-var mnemonic = "hint borrow loud indicate bring bounce shallow vacuum dawn young pull umbrella";
+var mnemonic = "cup turkey celery earn funny final daughter option stomach fitness lamp reveal";

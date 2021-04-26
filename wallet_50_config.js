@@ -1,1 +1,1 @@
-var mnemonic = "fish card virus lounge suggest enforce arctic rebuild culture fatigue dry situate";
+var mnemonic = "capable panther add play report speed shadow favorite property seed gravity valid";

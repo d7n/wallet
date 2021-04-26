@@ -1,1 +1,1 @@
-var mnemonic = "real silver spray usage crane tone fix predict rebuild other core region";
+var mnemonic = "seminar carbon tissue someone shift more mail throw thank reject tape paddle";

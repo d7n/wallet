@@ -1,1 +1,1 @@
-var mnemonic = "broom earth select diesel switch prosper omit pass outdoor various sell elephant";
+var mnemonic = "team under manage drum road cram image current remind glory smile crew";

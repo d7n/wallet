@@ -1,1 +1,1 @@
-var mnemonic = "frost soda vessel skull bread phone solve robot medal smart drastic crop";
+var mnemonic = "uncover repair buddy dirt task length vintage road turn champion wine equal";

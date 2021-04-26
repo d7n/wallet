@@ -1,1 +1,1 @@
-var mnemonic = "latin only scrub foster lens throw stadium deny calm steel chair life";
+var mnemonic = "ghost sketch love food ripple diamond turkey vocal impose flash trend monitor";

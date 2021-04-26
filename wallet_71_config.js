@@ -1,1 +1,1 @@
-var mnemonic = "later melody water crouch hold until dragon eagle village gift identify code";
+var mnemonic = "surround story practice narrow torch sorry process whip cycle bag jungle blade";

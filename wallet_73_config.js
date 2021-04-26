@@ -1,1 +1,1 @@
-var mnemonic = "bullet owner sugar wage bone develop organ party horror when novel ghost";
+var mnemonic = "globe clutch hurry tip together soap pulse answer grit video tattoo twin";

@@ -1,1 +1,1 @@
-var mnemonic = "engage video rule chicken fluid hill decrease rocket fossil action meadow rough";
+var mnemonic = "jacket fruit gather smoke kangaroo cost problem ivory august save sign vital";

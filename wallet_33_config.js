@@ -1,1 +1,1 @@
-var mnemonic = "mistake sustain pretty about day correct surprise december palace like very digital";
+var mnemonic = "wasp repeat stairs garden museum brief hollow tiger six rare employ check";

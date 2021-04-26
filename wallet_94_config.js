@@ -1,1 +1,1 @@
-var mnemonic = "output loud shed embrace rocket verb behind then sunset spread toss post";
+var mnemonic = "winter repeat fiber cattle custom tide alpha enable afford comic artwork immense";

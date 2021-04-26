@@ -1,1 +1,1 @@
-var mnemonic = "column blind where inside bleak crush clown exact local exile little genuine";
+var mnemonic = "exact pelican diet canoe injury unlock half split exotic lucky family table";

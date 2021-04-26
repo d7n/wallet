@@ -1,1 +1,1 @@
-var mnemonic = "flip report another annual mushroom tissue quit six ritual panic direct amazing";
+var mnemonic = "parrot major magnet venue enjoy tent coach sure correct wealth fury rack";

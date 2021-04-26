@@ -1,1 +1,1 @@
-var mnemonic = "into gravity average wealth tube soda frown fragile wink today patient drastic";
+var mnemonic = "write inmate panel feed grunt patient question long message maid isolate worry";

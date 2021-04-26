@@ -1,1 +1,1 @@
-var mnemonic = "castle sea weird detail chunk curtain nephew feature family idle silly ordinary";
+var mnemonic = "dragon cram addict breeze session holiday earth ethics twist brick tail tent";

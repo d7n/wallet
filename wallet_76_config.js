@@ -1,1 +1,1 @@
-var mnemonic = "bundle oven sick record since start corn lemon human minimum garment scout";
+var mnemonic = "boil pretty wood captain mixture hard minute gentle symbol feature few truth";

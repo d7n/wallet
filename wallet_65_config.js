@@ -1,1 +1,1 @@
-var mnemonic = "whisper glory oak knife ancient raccoon adult file start vacant vanish grab";
+var mnemonic = "float release only gaze board thing shift denial fork private theory onion";

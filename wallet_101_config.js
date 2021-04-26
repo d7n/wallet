@@ -1,1 +1,1 @@
-var mnemonic = "salt between update remind hope dry caution pepper wife update side math";
+var mnemonic = "ice improve quiz immense cover slice patient actual ketchup zoo output shallow";

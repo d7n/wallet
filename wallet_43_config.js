@@ -1,1 +1,1 @@
-var mnemonic = "zero image banner leave audit use crew morning chronic skill voice lumber";
+var mnemonic = "enact naive normal tonight head slab pull tree garbage silver remain consider";

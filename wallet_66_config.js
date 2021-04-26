@@ -1,1 +1,1 @@
-var mnemonic = "either region caught ramp enough vital climb spike credit brass stomach matter";
+var mnemonic = "cage increase dumb oxygen behave boss grow kitten next mirror twelve current";

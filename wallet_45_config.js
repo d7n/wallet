@@ -1,1 +1,1 @@
-var mnemonic = "obtain tissue review urge tank sun kit grape reward art chest material";
+var mnemonic = "mirror noise present record pyramid option fiscal correct weasel often ring sauce";

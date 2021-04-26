@@ -1,1 +1,1 @@
-var mnemonic = "soul sea industry erupt print rack fluid bracket gorilla jelly frost switch";
+var mnemonic = "trip unfold path actual height video garden giggle decide all benefit beef";

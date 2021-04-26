@@ -1,1 +1,1 @@
-var mnemonic = "remind polar easily heart asset pottery shrug gloom squeeze million faith sail";
+var mnemonic = "abandon staff thank swamp sound orchard cool know gain beyond pause daring";

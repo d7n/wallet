@@ -1,1 +1,1 @@
-var mnemonic = "inject chase suffer brother drum already tribe park ivory loud trip habit";
+var mnemonic = "fury front tank popular liberty museum flash invest minor symbol truly foster";

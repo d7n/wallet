@@ -1,1 +1,1 @@
-var mnemonic = "loyal palace magic orient improve brother gauge wash project bag ranch deer";
+var mnemonic = "satoshi reopen bacon cube either define time submit run crawl bread disorder";

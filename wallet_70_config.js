@@ -1,1 +1,1 @@
-var mnemonic = "prevent auto script dial judge relax vicious inner wage cry staff neither";
+var mnemonic = "tumble basic utility palace illegal economy ill solve churn fit usual ramp";

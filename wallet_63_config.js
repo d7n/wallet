@@ -1,1 +1,1 @@
-var mnemonic = "bullet identify dragon today dice kingdom betray balcony office unveil fat gentle";
+var mnemonic = "you dynamic cousin patrol orbit hollow apology notice picture boring gorilla enable";

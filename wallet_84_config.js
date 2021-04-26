@@ -1,1 +1,1 @@
-var mnemonic = "control panda advance leg maid tattoo giraffe during multiply eagle split puzzle";
+var mnemonic = "suffer lady mercy attack hard wool museum loan loyal spike pottery sustain";

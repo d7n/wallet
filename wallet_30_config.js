@@ -1,1 +1,1 @@
-var mnemonic = "rebel atom deliver skin try grass march prefer tag actor figure oven";
+var mnemonic = "world happy glass exile liberty scorpion castle glide radio into quick abstract";

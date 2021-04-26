@@ -1,1 +1,1 @@
-var mnemonic = "lucky squirrel unknown cement review agree link glide blast call make try";
+var mnemonic = "since mutual holiday field polar debris universe shed aware grant health behind";

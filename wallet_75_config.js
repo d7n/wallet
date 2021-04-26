@@ -1,1 +1,1 @@
-var mnemonic = "deer remind system monitor split blossom echo access dust wasp cherry shell";
+var mnemonic = "hockey craft pole either exhibit album drill entire loud increase room struggle";

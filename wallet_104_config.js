@@ -1,1 +1,1 @@
-var mnemonic = "solid output concert seat sponsor penalty soda coin web orange crisp since";
+var mnemonic = "prize that picnic age dwarf task alarm sheriff bulk since split soccer";

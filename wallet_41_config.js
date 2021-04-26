@@ -1,1 +1,1 @@
-var mnemonic = "prepare crack alpha state celery abuse immune hip pole track poet physical";
+var mnemonic = "sentence myth iron model marble annual horror priority vanish park sketch pair";

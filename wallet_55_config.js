@@ -1,1 +1,1 @@
-var mnemonic = "shoot confirm walnut sleep daring gift decrease outdoor duty inmate spend anger";
+var mnemonic = "favorite blast suffer vacant item artist sword away supply stem gate improve";

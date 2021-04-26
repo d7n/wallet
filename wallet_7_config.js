@@ -1,1 +1,1 @@
-var mnemonic = "merit city charge law language ring flame glow thing pigeon gather help";
+var mnemonic = "state young fire clip elevator insect claim talk vessel chimney aerobic angry";

@@ -1,1 +1,1 @@
-var mnemonic = "guilt frozen pilot page cycle cable athlete drive casino inflict library frog";
+var mnemonic = "initial kiss captain option cinnamon retreat assume dad arrest hawk cool dizzy";

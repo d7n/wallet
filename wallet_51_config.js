@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog true purity ancient proof daring horror history useless chest kind mandate";
+var mnemonic = "pumpkin marine simple kidney among test aware narrow disease genius elephant join";

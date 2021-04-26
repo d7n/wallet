@@ -1,1 +1,1 @@
-var mnemonic = "lizard around mixed hen upgrade clever portion witness upper lamp lesson invest";
+var mnemonic = "melt mirror dumb abandon long blossom behave evolve piece rubber wash pool";

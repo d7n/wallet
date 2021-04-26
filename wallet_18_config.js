@@ -1,1 +1,1 @@
-var mnemonic = "try bachelor tip excess donate bring rebel diagram medal draw scheme skill";
+var mnemonic = "sheriff muffin milk giggle student zone quantum robust dilemma govern apart lucky";

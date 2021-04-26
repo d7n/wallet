@@ -1,1 +1,1 @@
-var mnemonic = "jungle fault order memory illness enhance impact year hello exist neglect awful";
+var mnemonic = "turn tobacco lumber swing play forum job project kingdom sand remind can";

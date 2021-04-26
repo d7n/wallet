@@ -1,1 +1,1 @@
-var mnemonic = "nut brush crime sniff brass tragic nuclear purity order clown hedgehog minimum";
+var mnemonic = "axis work inquiry ketchup flush marriage number pill limb leader dress robust";

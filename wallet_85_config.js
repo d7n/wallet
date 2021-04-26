@@ -1,1 +1,1 @@
-var mnemonic = "dolphin attend turkey busy torch modify juice wedding obscure honey rose trial";
+var mnemonic = "toddler verb error author interest amused wolf hello puppy live dog weekend";

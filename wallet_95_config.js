@@ -1,1 +1,1 @@
-var mnemonic = "subject fun process orphan dress dinosaur glance swap school taxi exact mango";
+var mnemonic = "over sense unfair damp small kiwi cinnamon final north husband rubber please";

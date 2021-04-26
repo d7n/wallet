@@ -1,1 +1,1 @@
-var mnemonic = "sleep usual atom lizard shallow tower provide still wall frequent will cage";
+var mnemonic = "tongue refuse gospel enroll mean forward include spoil nation win relief surface";

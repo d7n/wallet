@@ -1,1 +1,1 @@
-var mnemonic = "solution together bitter swear fashion aspect genre snap across embody gate include";
+var mnemonic = "wage civil stumble crew office galaxy prison comic pen brass shallow spawn";

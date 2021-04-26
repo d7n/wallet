@@ -1,1 +1,1 @@
-var mnemonic = "review reopen guide soap sniff arrange liberty rhythm earn parrot canal soda";
+var mnemonic = "pair forest museum junk extend rifle energy stuff doll cry east genius";

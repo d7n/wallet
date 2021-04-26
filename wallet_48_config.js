@@ -1,1 +1,1 @@
-var mnemonic = "pair smile scheme income vague rocket rural metal renew famous then weekend";
+var mnemonic = "final act patrol chicken road vault vital yard pretty urge awful task";

@@ -1,1 +1,1 @@
-var mnemonic = "build approve demise bitter thumb treat march mixed long wine fresh beauty";
+var mnemonic = "post defense bid join rent desk drop rhythm cube liar story senior";

@@ -1,1 +1,1 @@
-var mnemonic = "mercy merit beach relax opera village sibling mother potato wisdom engine action";
+var mnemonic = "bike secret pair chaos spike update income prevent useful industry occur lesson";

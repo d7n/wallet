@@ -1,1 +1,1 @@
-var mnemonic = "card diesel photo fly birth chase shoe magnet hedgehog sea tobacco motor";
+var mnemonic = "rival between bird seek ill gossip mule width risk arm laptop huge";

@@ -1,1 +1,1 @@
-var mnemonic = "reform farm hold guilt cement under boat wisdom harbor squeeze warm predict";
+var mnemonic = "grain absent pole casual world poverty easily style moon slide zebra transfer";

@@ -1,1 +1,1 @@
-var mnemonic = "connect chief embody slot exhaust silk ice cute bread wrong enhance oyster";
+var mnemonic = "outer hour move quarter ladder favorite office rib fresh remember salad hybrid";

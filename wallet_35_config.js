@@ -1,1 +1,1 @@
-var mnemonic = "chaos seven boil fitness squirrel energy level heavy village nephew destroy pool";
+var mnemonic = "client mom hat pistol lesson infant trial adjust matrix joke mask list";

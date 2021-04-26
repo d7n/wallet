@@ -1,1 +1,1 @@
-var mnemonic = "square warfare hand sort scan response strike salt road husband outside canoe";
+var mnemonic = "turn lava achieve below real inspire expand cannon smoke demand wheel amazing";

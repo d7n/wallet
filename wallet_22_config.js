@@ -1,1 +1,1 @@
-var mnemonic = "poem sunset wine plunge quiz sniff crazy oxygen divorce merit crumble dad";
+var mnemonic = "lab alcohol chuckle cancel media olive journey host mercy camera use pipe";

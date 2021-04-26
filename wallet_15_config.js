@@ -1,1 +1,1 @@
-var mnemonic = "hungry lumber card bronze more puzzle yard glass school moral giant ticket";
+var mnemonic = "drama soccer rhythm jungle team forum evil trust brain panic giant lecture";

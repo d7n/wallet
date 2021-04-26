@@ -1,1 +1,1 @@
-var mnemonic = "ceiling fog inch lobster spend thought scale fever unaware shaft slab taxi";
+var mnemonic = "elephant creek knife truck fence swing bamboo coil congress awful merry word";

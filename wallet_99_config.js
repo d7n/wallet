@@ -1,1 +1,1 @@
-var mnemonic = "flash agree supply rate soda push patrol biology world rebuild oak stone";
+var mnemonic = "someone pole runway slow despair notice coconut actress image tornado useful stock";

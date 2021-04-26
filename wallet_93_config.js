@@ -1,1 +1,1 @@
-var mnemonic = "toddler menu double over wedding fat illegal robust giraffe eager element option";
+var mnemonic = "pelican loud leg race daring diamond crime finish net ocean popular group";

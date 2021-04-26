@@ -1,1 +1,1 @@
-var mnemonic = "volcano tuna summer decline tobacco lyrics stage pupil riot urban vault any";
+var mnemonic = "remove fashion mountain advice tortoise wagon seven cactus method mansion task morning";

@@ -1,1 +1,1 @@
-var mnemonic = "fossil imitate comic fly any strike forest ankle lend embody company super";
+var mnemonic = "unable first twist ridge wild donkey usage save put skull planet loud";

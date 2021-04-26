@@ -1,1 +1,1 @@
-var mnemonic = "garage crawl range fault butter duty priority luxury have chronic exile roast";
+var mnemonic = "wall cement avoid muffin horror dash sunny apple sniff faculty luggage orphan";

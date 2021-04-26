@@ -1,1 +1,1 @@
-var mnemonic = "put sad drama rebel art drop grunt island machine note message baby";
+var mnemonic = "video lake envelope leave impact absorb maid fence vacant shift twenty resist";

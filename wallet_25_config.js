@@ -1,1 +1,1 @@
-var mnemonic = "inform valley they amateur same jar more boring van equip bulb frozen";
+var mnemonic = "mixture sudden six law fresh rural loyal tornado void salute lucky found";

@@ -1,1 +1,1 @@
-var mnemonic = "cousin lyrics spoil face effort script traffic boy just swift emotion margin";
+var mnemonic = "coffee decorate era receive spot tilt meadow melody consider wife match much";

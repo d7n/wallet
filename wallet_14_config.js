@@ -1,1 +1,1 @@
-var mnemonic = "theory cat electric animal result sort leader arena whale amount spirit card";
+var mnemonic = "stuff what lesson aerobic glare wild carry scan detail expose sleep deny";

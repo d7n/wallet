@@ -1,1 +1,1 @@
-var mnemonic = "shield series easily image rebel lobster patrol blossom prison catch raw swift";
+var mnemonic = "machine cloud relax swap cricket raw carbon gain depend farm wink venture";

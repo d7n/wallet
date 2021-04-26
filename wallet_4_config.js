@@ -1,1 +1,1 @@
-var mnemonic = "sand scout basket install treat chapter drum village morning burst lawsuit excite";
+var mnemonic = "scare rural announce reflect aim mask blur crack scrap print skill any";

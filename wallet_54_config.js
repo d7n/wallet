@@ -1,1 +1,1 @@
-var mnemonic = "crazy raccoon omit snow reason bright jump parrot begin agree subway jar";
+var mnemonic = "there joke diamond liquid time pottery skill excite alter involve sound artefact";

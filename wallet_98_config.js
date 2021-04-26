@@ -1,1 +1,1 @@
-var mnemonic = "taxi tourist diesel ignore blind film crush sail shell expect govern trial";
+var mnemonic = "elder yard electric misery fence athlete razor father absurd you sadness swim";

@@ -1,1 +1,1 @@
-var mnemonic = "cost fiscal mosquito icon omit garlic adapt where green license crouch suit";
+var mnemonic = "cattle wheat glad carpet jacket frown urge feature negative raise language inner";

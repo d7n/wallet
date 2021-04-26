@@ -1,1 +1,1 @@
-var mnemonic = "junk fame heart post cattle planet captain resource mean grain toilet return";
+var mnemonic = "tomorrow cruel fever egg renew play once apart theory leisure beauty deal";

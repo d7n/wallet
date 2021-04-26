@@ -1,1 +1,1 @@
-var mnemonic = "drill brave master ask panel parent idle like climb sort media iron";
+var mnemonic = "salad pattern deputy inside select canal diet pig echo suggest donor rebuild";

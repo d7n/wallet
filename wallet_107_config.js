@@ -1,1 +1,1 @@
-var mnemonic = "pole car shiver scissors payment monkey logic mutual report chalk sheriff text";
+var mnemonic = "little warrior wheel perfect balance suit thank organ brick curtain leader top";

@@ -1,1 +1,1 @@
-var mnemonic = "damp pledge apple chair across eye ship main glory need deer laugh";
+var mnemonic = "siege small replace swap chalk top satoshi canvas visit latin exclude zero";

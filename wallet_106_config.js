@@ -1,1 +1,1 @@
-var mnemonic = "cloth festival fall list bronze segment maple jelly famous genuine left onion";
+var mnemonic = "sea festival robot object reflect quarter alley dinosaur flame argue just account";

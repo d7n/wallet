@@ -1,1 +1,1 @@
-var mnemonic = "foam best pizza quiz path knee collect hood antenna pepper brass essay";
+var mnemonic = "forest project poem horn lava ozone wine again genuine hurt unique cream";

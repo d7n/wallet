@@ -1,1 +1,1 @@
-var mnemonic = "pond miracle industry tent immune assume custom print spare dune link maze";
+var mnemonic = "below monster myth chat depth burst zero label dream sheriff hire sure";

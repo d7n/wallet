@@ -1,1 +1,1 @@
-var mnemonic = "course keep frown breeze pistol patrol vehicle area display design olympic allow";
+var mnemonic = "ten club reason blade ball learn stage library throw quarter divert frost";
