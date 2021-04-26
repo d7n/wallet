@@ -1,1 +1,1 @@
-var mnemonic = "glue ordinary avocado federal true resemble unveil coin pretty spider hidden pledge";
+var mnemonic = "seat dream iron bench enhance mansion poet another vocal panic middle hundred";

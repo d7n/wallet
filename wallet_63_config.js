@@ -1,1 +1,1 @@
-var mnemonic = "goddess path marriage surface nominee test tackle cliff shiver dream drama beauty";
+var mnemonic = "win parade turn length retreat burst fan put wisdom salon tattoo infant";

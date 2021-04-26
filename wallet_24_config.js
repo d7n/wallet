@@ -1,1 +1,1 @@
-var mnemonic = "into picture royal vicious jeans endless fence soccer enhance jealous exchange kite";
+var mnemonic = "repeat elbow pond month escape vast regular spirit silver above jazz bar";

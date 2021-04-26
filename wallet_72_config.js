@@ -1,1 +1,1 @@
-var mnemonic = "episode tip child antenna habit episode conduct midnight tower sadness fancy liar";
+var mnemonic = "winter dune donor taxi empty lumber estate leopard obscure plate chat fork";

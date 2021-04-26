@@ -1,1 +1,1 @@
-var mnemonic = "case hurt appear hold leg scan attitude verify endorse mammal region glove";
+var mnemonic = "pony setup fluid world miracle prison nut enemy attack ten section panther";

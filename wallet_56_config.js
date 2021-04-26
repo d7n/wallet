@@ -1,1 +1,1 @@
-var mnemonic = "share maple brick mass junior ankle wrist style evolve field leg excess";
+var mnemonic = "firm roof draw unfold top above barrel quantum coffee solution refuse usual";

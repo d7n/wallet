@@ -1,1 +1,1 @@
-var mnemonic = "early tortoise equip gate task subway clever steel oppose announce vessel voyage";
+var mnemonic = "quick secret joke impose thumb genuine noodle manage sting sadness napkin trip";

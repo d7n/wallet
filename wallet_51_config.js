@@ -1,1 +1,1 @@
-var mnemonic = "patch require enemy insane speak ramp excite worth people surprise stove cube";
+var mnemonic = "latin film hockey material off vital ticket leg demise sausage fee web";

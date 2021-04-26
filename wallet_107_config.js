@@ -1,1 +1,1 @@
-var mnemonic = "then child travel jelly human ready recall hire seed drive vapor all";
+var mnemonic = "scrap color salad moment mandate during oil boy clown tenant door blame";

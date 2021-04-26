@@ -1,1 +1,1 @@
-var mnemonic = "brief victory strong ill phone surface select fit marble guitar crash vintage";
+var mnemonic = "camp sand mail error wink tomorrow ship possible gesture bronze poem bid";

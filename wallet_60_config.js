@@ -1,1 +1,1 @@
-var mnemonic = "quality color final hybrid mail random snake gentle into damage sword person";
+var mnemonic = "scheme again pistol number lonely track catalog cry enough net never inner";

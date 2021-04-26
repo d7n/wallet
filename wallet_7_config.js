@@ -1,1 +1,1 @@
-var mnemonic = "seat pair panel memory clean situate step bring key width canvas tortoise";
+var mnemonic = "drive upon elephant blind feature lyrics cushion sphere cabin athlete address stem";

@@ -1,1 +1,1 @@
-var mnemonic = "skull pipe sign swap bird photo unable physical soon omit hen web";
+var mnemonic = "truth muscle box north spell crucial pledge palm animal gravity female indoor";

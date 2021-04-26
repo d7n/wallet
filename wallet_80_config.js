@@ -1,1 +1,1 @@
-var mnemonic = "eager bring real sadness motor kick ozone exotic ask faint broom genuine";
+var mnemonic = "tonight bottom prevent base improve broken rude sunny season simple home denial";

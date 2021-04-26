@@ -1,1 +1,1 @@
-var mnemonic = "project hidden legal demise today robust quote mystery wing better have example";
+var mnemonic = "potato stuff pencil slide wear paper crouch bubble plate custom clown luxury";

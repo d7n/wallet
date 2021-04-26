@@ -1,1 +1,1 @@
-var mnemonic = "social small add tip know fresh like duty fire chronic notable hair";
+var mnemonic = "space drink gorilla dress riot poet elder dirt vicious rice merit patch";

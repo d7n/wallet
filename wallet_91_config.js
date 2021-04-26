@@ -1,1 +1,1 @@
-var mnemonic = "escape mutual despair window among practice young feature roast element detail grape";
+var mnemonic = "gas shuffle lizard chat index patient tag often metal demise chuckle hold";

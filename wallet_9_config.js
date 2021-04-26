@@ -1,1 +1,1 @@
-var mnemonic = "length wedding huge scatter patient habit legal frame clean rail tooth sign";
+var mnemonic = "snap thank roof opera replace surprise diet host library toe stand tone";

@@ -1,1 +1,1 @@
-var mnemonic = "sausage frequent faith trick dynamic fee media diamond wise north two soldier";
+var mnemonic = "crucial path network ice analyst long job access act machine armor year";

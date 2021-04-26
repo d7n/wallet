@@ -1,1 +1,1 @@
-var mnemonic = "alcohol abandon combine invest lottery purchase century wrap bracket submit extra license";
+var mnemonic = "sample doctor illegal travel acquire weapon flight struggle journey flee belt hole";

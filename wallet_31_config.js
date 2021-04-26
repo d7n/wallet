@@ -1,1 +1,1 @@
-var mnemonic = "tiger decide essence wealth doll ripple garage kiwi acquire laptop swallow menu";
+var mnemonic = "million catch weapon blast pair foam grow hedgehog nuclear define lawn thumb";

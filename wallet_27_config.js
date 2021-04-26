@@ -1,1 +1,1 @@
-var mnemonic = "sing cloth bamboo swim nasty scare surge twelve legend manage chief level";
+var mnemonic = "typical vendor slot manage brain hint response group focus rely smart spice";

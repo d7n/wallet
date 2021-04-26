@@ -1,1 +1,1 @@
-var mnemonic = "vital tooth online strike inherit idle link begin rebel labor rail bus";
+var mnemonic = "cat mystery mirror couch thank average damage safe sad cube effort cradle";

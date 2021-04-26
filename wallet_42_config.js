@@ -1,1 +1,1 @@
-var mnemonic = "correct stadium filter coffee glimpse matter citizen number virtual shoe warrior north";
+var mnemonic = "piece emotion sound crumble normal embark fence bleak thunder extra diagram april";

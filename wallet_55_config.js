@@ -1,1 +1,1 @@
-var mnemonic = "kite shy bread smart push grocery total net girl analyst solution curve";
+var mnemonic = "various party square fragile source action advance december film output smart easy";

@@ -1,1 +1,1 @@
-var mnemonic = "agent much salon latin either raise spirit eternal around snake orbit hamster";
+var mnemonic = "magnet evidence easy neutral fix since visa wagon clap knife staff ticket";

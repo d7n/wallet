@@ -1,1 +1,1 @@
-var mnemonic = "tell runway jewel amused scorpion envelope satisfy nothing cruise melt payment cushion";
+var mnemonic = "lamp speak leaf visit brain sell web wash number observe syrup supreme";

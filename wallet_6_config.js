@@ -1,1 +1,1 @@
-var mnemonic = "olive usual before roast carry burger flight clarify whale page avocado talk";
+var mnemonic = "together cute review fault van motor boil spot team merry auction beef";

@@ -1,1 +1,1 @@
-var mnemonic = "actual during mention negative promote erupt dance dolphin cabbage share paper sleep";
+var mnemonic = "miracle dismiss pretty divide unfold april base father submit mind cash gorilla";

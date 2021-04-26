@@ -1,1 +1,1 @@
-var mnemonic = "near food original slogan sleep reject bubble small couch margin flip burger";
+var mnemonic = "pottery miss corn sudden carpet payment few dynamic grow way bitter monkey";

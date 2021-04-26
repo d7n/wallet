@@ -1,1 +1,1 @@
-var mnemonic = "despair sugar craft fiscal twice cake fiction same various job pumpkin hamster";
+var mnemonic = "ship idle joke abstract delay profit clean easily hybrid own chuckle balance";

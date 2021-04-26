@@ -1,1 +1,1 @@
-var mnemonic = "inhale season chunk flower wear claim life endorse reason recipe march attitude";
+var mnemonic = "seat become uphold swift small bamboo lemon clerk benefit stairs dismiss access";

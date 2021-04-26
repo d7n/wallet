@@ -1,1 +1,1 @@
-var mnemonic = "habit poem orbit animal peasant abandon tonight globe soup cram candy run";
+var mnemonic = "other leaf fun chimney ill mansion pipe cargo lawn end donkey panda";

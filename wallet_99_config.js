@@ -1,1 +1,1 @@
-var mnemonic = "leaf junior door humor vague crew picture strike barrel crash office swarm";
+var mnemonic = "pair secret sister rookie ocean relief popular vanish early novel skill hidden";

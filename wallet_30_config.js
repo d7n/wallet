@@ -1,1 +1,1 @@
-var mnemonic = "doll explain frozen strategy tape absurd document early merit leave staff normal";
+var mnemonic = "hello siren rescue idea asset title bag peanut music harvest file rookie";

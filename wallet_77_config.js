@@ -1,1 +1,1 @@
-var mnemonic = "depth echo foot wealth token humble salad cupboard fine try vital fan";
+var mnemonic = "lumber punch ability stomach mechanic obscure practice velvet gap bind catch giggle";

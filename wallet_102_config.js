@@ -1,1 +1,1 @@
-var mnemonic = "duty very now strategy punch ribbon caught appear camera cotton open festival";
+var mnemonic = "six foil element funny update picture fall family enroll sorry release park";

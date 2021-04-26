@@ -1,1 +1,1 @@
-var mnemonic = "dash rich quantum tenant science better peasant armed wait finish donkey fabric";
+var mnemonic = "load glory almost come decorate gym history goat grocery elephant scrap army";

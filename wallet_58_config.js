@@ -1,1 +1,1 @@
-var mnemonic = "tennis depth install vault news olympic connect again auto beef arrive whale";
+var mnemonic = "bonus leisure mule shadow ethics craft skirt casual drift tired trip artwork";

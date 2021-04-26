@@ -1,1 +1,1 @@
-var mnemonic = "mutual rare city average cost great blur scout resist day share shy";
+var mnemonic = "exit observe picnic surface neutral enable business label doctor wheel fluid combine";

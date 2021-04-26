@@ -1,1 +1,1 @@
-var mnemonic = "document flat inflict return drama cabbage day famous swallow clean figure aim";
+var mnemonic = "bundle erase strong unfair machine fashion track echo tragic genuine trophy brick";

@@ -1,1 +1,1 @@
-var mnemonic = "regret wolf course mail hamster unfair famous ripple problem village bronze stereo";
+var mnemonic = "laptop rapid badge match hood garden pass deny arch reunion suspect guide";

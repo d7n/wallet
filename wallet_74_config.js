@@ -1,1 +1,1 @@
-var mnemonic = "million orphan impact rural primary ocean few label merry brief dolphin shop";
+var mnemonic = "unable section negative wage funny purchase mistake scene letter balance hurdle flock";

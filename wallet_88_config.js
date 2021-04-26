@@ -1,1 +1,1 @@
-var mnemonic = "interest stem believe lunch valve advance typical bag sheriff keep fortune that";
+var mnemonic = "portion bulk account observe holiday veteran mail explain bar surround over retire";

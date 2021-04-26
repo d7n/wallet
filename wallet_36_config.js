@@ -1,1 +1,1 @@
-var mnemonic = "black airport exact lunar reunion bundle buddy oyster menu fluid coral margin";
+var mnemonic = "table hard describe frown absorb talent document advance drive cart cry arrow";

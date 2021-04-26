@@ -1,1 +1,1 @@
-var mnemonic = "enemy daughter rail evoke inform ignore pioneer cherry melt kidney divide walk";
+var mnemonic = "loyal rebuild village nest afford derive naive park expose abuse lamp episode";

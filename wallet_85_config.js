@@ -1,1 +1,1 @@
-var mnemonic = "letter emerge mango nominee history section lens stand actual monitor twelve correct";
+var mnemonic = "sense enforce brass slow gain judge pony flag record drum eager narrow";

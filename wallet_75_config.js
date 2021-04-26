@@ -1,1 +1,1 @@
-var mnemonic = "cigar harsh able shop skirt decline jar vendor machine spy brush cute";
+var mnemonic = "olympic need patrol view wage hair access hint primary bridge solar rebuild";

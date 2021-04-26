@@ -1,1 +1,1 @@
-var mnemonic = "fortune shine achieve round repeat wheat slab limb kingdom flower ten myth";
+var mnemonic = "circle birth skill monkey educate half merit pizza tourist pioneer bracket liar";

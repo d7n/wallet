@@ -1,1 +1,1 @@
-var mnemonic = "duty harvest hour post melt test nuclear fiscal illness wonder plug chair";
+var mnemonic = "tonight vibrant shoe resemble curious dry pizza diary kite awake loan jazz";

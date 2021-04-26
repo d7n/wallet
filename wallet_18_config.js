@@ -1,1 +1,1 @@
-var mnemonic = "simple fire tag unable comic tray layer suffer million knife habit gather";
+var mnemonic = "earn time mesh pause budget void few mom ability absent call blood";

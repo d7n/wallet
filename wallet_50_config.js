@@ -1,1 +1,1 @@
-var mnemonic = "amateur smoke evolve elegant argue race close cook aspect virus diagram garment";
+var mnemonic = "blue essence slight arrange faith derive own jaguar shop because bag couple";

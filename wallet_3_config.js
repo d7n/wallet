@@ -1,1 +1,1 @@
-var mnemonic = "palace kitten scheme tail alpha moon frown supply rice inspire wire mail";
+var mnemonic = "okay same tooth garment digital human deny rebuild cousin online size bracket";

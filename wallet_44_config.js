@@ -1,1 +1,1 @@
-var mnemonic = "silk capable engine left income palace shield program coconut web eye caution";
+var mnemonic = "toddler venture choose myself act anxiety element achieve work celery hat balance";

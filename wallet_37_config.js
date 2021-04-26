@@ -1,1 +1,1 @@
-var mnemonic = "side afford erase draw swarm track general priority gauge survey achieve plug";
+var mnemonic = "consider winner risk equip glad junior zero assault entry patient health tourist";

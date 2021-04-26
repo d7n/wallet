@@ -1,1 +1,1 @@
-var mnemonic = "wrong smart unlock sail echo combine approve oppose south biology submit define";
+var mnemonic = "since mixed song target exchange future awake misery maximum setup cruel neglect";

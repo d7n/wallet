@@ -1,1 +1,1 @@
-var mnemonic = "auction palace page motion balance strategy angry nasty mom scorpion bar jelly";
+var mnemonic = "ankle silver van basic nest rookie planet tide unveil tragic green build";

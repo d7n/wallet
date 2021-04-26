@@ -1,1 +1,1 @@
-var mnemonic = "game middle educate yard morning price beauty gauge test escape exotic notable";
+var mnemonic = "rubber legend breeze entry drip artwork faculty slam leg circle witness flavor";

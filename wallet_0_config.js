@@ -1,1 +1,1 @@
-var mnemonic = "setup hold salt turtle dust oil seat another goddess ladder melt vacant";
+var mnemonic = "remember excuse blue security firm evil initial drastic slam category vapor sudden";

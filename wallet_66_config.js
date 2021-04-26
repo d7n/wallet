@@ -1,1 +1,1 @@
-var mnemonic = "tattoo access carpet student bus mean toward nothing glass broken basket whip";
+var mnemonic = "cup skin onion solid flip alert still coast else hobby town junk";

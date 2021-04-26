@@ -1,1 +1,1 @@
-var mnemonic = "gym guide wear riot grace coil yard priority offer pitch picnic city";
+var mnemonic = "blouse sure word ripple glare enforce catch admit such under cheese follow";

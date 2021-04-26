@@ -1,1 +1,1 @@
-var mnemonic = "rude garden endorse behave deposit oblige earn twenty carpet avocado check bean";
+var mnemonic = "license lawn wall agree diet weather keep pulp over ethics plunge trumpet";

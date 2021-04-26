@@ -1,1 +1,1 @@
-var mnemonic = "champion nut alley peace armed beef buyer life average dice detail jewel";
+var mnemonic = "luxury wood banner decline jewel near kidney orange cigar blood food still";

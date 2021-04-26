@@ -1,1 +1,1 @@
-var mnemonic = "pelican sock mercy core husband social veteran slab fitness duty spell turn";
+var mnemonic = "crowd breeze canoe beauty canvas faith stable example chicken satoshi vacuum across";

@@ -1,1 +1,1 @@
-var mnemonic = "attract nose awkward primary evolve protect suspect seek coil bunker library bracket";
+var mnemonic = "absurd predict cloth robust crop travel road rabbit skill eye leave hammer";

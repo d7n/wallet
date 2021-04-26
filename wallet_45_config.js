@@ -1,1 +1,1 @@
-var mnemonic = "mass vendor wrong fall city social notice ticket broken emerge tongue trigger";
+var mnemonic = "high solution advice bar access satoshi that dish six input essence grit";

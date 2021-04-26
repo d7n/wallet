@@ -1,1 +1,1 @@
-var mnemonic = "pelican salute survey relax giant student sail spin chase proof baby decrease";
+var mnemonic = "rebuild raise pool pulp desk edit ten sweet noodle roast blush rate";

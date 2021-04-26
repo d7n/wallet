@@ -1,1 +1,1 @@
-var mnemonic = "fringe guard upset then combine example jar clever upgrade palace leaf pen";
+var mnemonic = "doctor settle cousin ostrich slush shallow pool decorate lazy judge real double";

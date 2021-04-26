@@ -1,1 +1,1 @@
-var mnemonic = "hunt donor dice thought unique desk income cube swing key lemon vintage";
+var mnemonic = "budget wink property seven mobile valve lonely camera rice tube pause slot";

@@ -1,1 +1,1 @@
-var mnemonic = "box diet grape twelve hundred head assault artist advance meadow island harvest";
+var mnemonic = "lawsuit sound occur ready click educate dignity economy plastic noodle tunnel burden";

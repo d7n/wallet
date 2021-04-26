@@ -1,1 +1,1 @@
-var mnemonic = "neither toward beef relief gorilla popular aerobic toast hedgehog amused anchor picture";
+var mnemonic = "cotton firm include potato long recycle jacket found sample arctic story school";

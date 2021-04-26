@@ -1,1 +1,1 @@
-var mnemonic = "turn father cotton thought eager flush define brand fan range topple lyrics";
+var mnemonic = "income uncover permit require noble rely use critic gas glove apart mimic";

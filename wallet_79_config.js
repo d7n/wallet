@@ -1,1 +1,1 @@
-var mnemonic = "mystery rescue buddy coast night above jeans choice same venue wealth enough";
+var mnemonic = "patrol rib earth throw choose raw airport pretty quiz general afraid climb";

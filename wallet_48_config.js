@@ -1,1 +1,1 @@
-var mnemonic = "siren obscure enforce fix monster slide achieve depart say unhappy become dwarf";
+var mnemonic = "wolf nation inform name connect three female awful scrap step client fuel";

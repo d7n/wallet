@@ -1,1 +1,1 @@
-var mnemonic = "kingdom uphold birth account history diet advice athlete fan portion stairs will";
+var mnemonic = "swamp promote suit exhaust deny poverty title hobby wagon essay charge secret";

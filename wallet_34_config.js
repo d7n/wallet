@@ -1,1 +1,1 @@
-var mnemonic = "bid size enough quality off business pen hen churn siren analyst gentle";
+var mnemonic = "blossom diamond awful olive uniform erode very shell critic found exclude trophy";

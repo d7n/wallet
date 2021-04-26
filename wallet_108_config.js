@@ -1,1 +1,1 @@
-var mnemonic = "roast enhance rib harbor vehicle neither people power prosper decrease sentence census";
+var mnemonic = "web amateur culture slice shield mirror network flock skull recall blossom kidney";

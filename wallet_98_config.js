@@ -1,1 +1,1 @@
-var mnemonic = "dizzy tooth aware tree slogan wool olive deliver caught loan cruel kiwi";
+var mnemonic = "foam fluid rubber photo comfort penalty warfare horn service plunge snap actor";

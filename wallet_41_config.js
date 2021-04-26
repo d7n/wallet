@@ -1,1 +1,1 @@
-var mnemonic = "donor mouse crew order brain adult rural quote service ivory pizza walk";
+var mnemonic = "chuckle conduct together area mixture finish account spice require trim inherit cube";

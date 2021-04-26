@@ -1,1 +1,1 @@
-var mnemonic = "fix chuckle harvest retire trim manage census goat phrase buyer ball grant";
+var mnemonic = "city trick tackle update become ten toy emotion confirm column warrior danger";

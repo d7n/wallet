@@ -1,1 +1,1 @@
-var mnemonic = "salmon acoustic citizen minor close demise lounge solid pool celery dwarf soccer";
+var mnemonic = "logic toddler brass idle dismiss grain income damp scheme enroll leg brisk";

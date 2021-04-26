@@ -1,1 +1,1 @@
-var mnemonic = "major bomb pink wreck never combine refuse model cradle prefer various develop";
+var mnemonic = "crawl mosquito victory fresh crawl fragile multiply buddy debris news catalog scout";

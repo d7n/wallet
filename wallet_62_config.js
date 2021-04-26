@@ -1,1 +1,1 @@
-var mnemonic = "ensure stomach fantasy pattern bamboo walk robust busy bird street mistake coyote";
+var mnemonic = "meadow sibling unveil awful sister hand stay dash begin accident focus huge";

@@ -1,1 +1,1 @@
-var mnemonic = "predict globe now chef elephant valve head crew hen topple hundred tiger";
+var mnemonic = "bid fever solve celery brass year outside program depend night cheap account";

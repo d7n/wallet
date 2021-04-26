@@ -1,1 +1,1 @@
-var mnemonic = "rib east filter hair train deputy above total winter tomorrow cycle zoo";
+var mnemonic = "file public lounge bulb buffalo auction can denial glide famous reason popular";
