@@ -1,1 +1,1 @@
-var mnemonic = "kid orbit happy number live helmet phrase will vacuum grit slice service";
+var mnemonic = "ivory badge fantasy exist undo what virtual system minimum photo surge west";

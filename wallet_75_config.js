@@ -1,1 +1,1 @@
-var mnemonic = "rich couple loop couch verify panther like slot write potato chase ivory";
+var mnemonic = "hundred oven awkward firm card police shoulder vanish play rule congress away";

@@ -1,1 +1,1 @@
-var mnemonic = "toddler two modify surprise together ocean almost novel coast insane review spirit";
+var mnemonic = "minor east deposit siege tongue link matrix match lyrics educate core blind";

@@ -1,1 +1,1 @@
-var mnemonic = "feature front elephant will flight reason auction hour core silent cousin volcano";
+var mnemonic = "fox opinion taste holiday year angle fit banana marine gentle depth siren";

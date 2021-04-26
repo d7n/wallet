@@ -1,1 +1,1 @@
-var mnemonic = "disorder carbon symptom ordinary trade neutral honey present tape siren inflict tooth";
+var mnemonic = "perfect push profit capable festival armed bonus keep custom circle physical update";

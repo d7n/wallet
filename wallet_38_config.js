@@ -1,1 +1,1 @@
-var mnemonic = "such strike comfort nominee slam tribe ill virtual neither toilet keen know";
+var mnemonic = "stomach dial hair dragon basket fault leg soon organ slot clutch manage";

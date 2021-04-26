@@ -1,1 +1,1 @@
-var mnemonic = "gown ribbon joke divorce lens theory miss title chief knife charge foam";
+var mnemonic = "around grow cart jelly canyon sign happy honey under knife pistol sell";

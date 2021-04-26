@@ -1,1 +1,1 @@
-var mnemonic = "invite creek salon dose accuse rifle grief climb gossip explain wool caution";
+var mnemonic = "panda slice body vivid match text track unfair tunnel will file dinosaur";

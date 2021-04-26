@@ -1,1 +1,1 @@
-var mnemonic = "camera stomach card prosper dilemma arrest scorpion truly renew tag special erosion";
+var mnemonic = "cabin ill castle effort project method document husband address baby valve disorder";

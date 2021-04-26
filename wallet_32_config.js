@@ -1,1 +1,1 @@
-var mnemonic = "close increase aerobic item awkward rely insane video warfare ensure soccer jar";
+var mnemonic = "adapt shuffle same sound uncover icon artwork ghost cook valley issue kind";

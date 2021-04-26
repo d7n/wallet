@@ -1,1 +1,1 @@
-var mnemonic = "chat acoustic critic useful hard various scan loop confirm trouble reason cube";
+var mnemonic = "voice bachelor pet this become path virtual prison draw tuna high fine";

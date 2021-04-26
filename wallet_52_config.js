@@ -1,1 +1,1 @@
-var mnemonic = "symbol taxi quick omit simple place apple best invite local addict have";
+var mnemonic = "vague tumble smile card donor party develop follow embrace scrub boil habit";

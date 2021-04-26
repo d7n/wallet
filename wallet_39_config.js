@@ -1,1 +1,1 @@
-var mnemonic = "sustain lobster pole planet build tip mechanic stereo stem art index agent";
+var mnemonic = "rabbit enough muscle episode indoor trophy owner install scare attack wink cradle";

@@ -1,1 +1,1 @@
-var mnemonic = "search laptop huge minute powder second demise scorpion neglect message buddy throw";
+var mnemonic = "chief top small degree amount stock exact voyage sad catch song obscure";

@@ -1,1 +1,1 @@
-var mnemonic = "please trophy cancel second congress level hire grid mention taxi claim layer";
+var mnemonic = "doctor trumpet judge size behave sauce door cute genius auto manual inhale";

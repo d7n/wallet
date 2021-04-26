@@ -1,1 +1,1 @@
-var mnemonic = "quick learn trial surge match meadow plastic jealous rifle symptom edit tray";
+var mnemonic = "orbit fee magic mother garbage oval roof tube isolate usage chair spin";

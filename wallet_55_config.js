@@ -1,1 +1,1 @@
-var mnemonic = "duty job banana crush discover cancel same uncover blouse exhibit train supply";
+var mnemonic = "fetch duty clown female steak frame toward tonight company cattle general west";

@@ -1,1 +1,1 @@
-var mnemonic = "priority slender novel ball bread auction cereal good camp stay talent oyster";
+var mnemonic = "uncover try syrup online antique danger code ripple roast immune strategy large";

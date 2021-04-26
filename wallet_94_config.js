@@ -1,1 +1,1 @@
-var mnemonic = "feed return brick bomb drill pear boring leave hold child duty entry";
+var mnemonic = "cushion banner such south rough humble style abandon hamster genre sing simple";

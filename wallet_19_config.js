@@ -1,1 +1,1 @@
-var mnemonic = "vivid boil fly element artist case inject arctic amateur ranch aunt harvest";
+var mnemonic = "leader floor abuse taxi hire drip famous enough click digital sound mouse";

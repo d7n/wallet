@@ -1,1 +1,1 @@
-var mnemonic = "control hungry repair actual bleak total cargo express already enemy alert seek";
+var mnemonic = "zero strategy swing relax patch hotel neglect lamp already ticket fragile clean";

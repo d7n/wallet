@@ -1,1 +1,1 @@
-var mnemonic = "oven animal credit shiver market renew park ocean sick discover defense shove";
+var mnemonic = "repair face foam vibrant move already excuse cannon half bleak before glad";

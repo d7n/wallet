@@ -1,1 +1,1 @@
-var mnemonic = "social wine employ dash bargain sleep method rather dismiss harvest current narrow";
+var mnemonic = "bid duty rhythm survey inspire cycle pill save true cash oxygen where";

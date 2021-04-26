@@ -1,1 +1,1 @@
-var mnemonic = "disagree actor have ignore coach type engine client hand select ensure elder";
+var mnemonic = "banana primary misery analyst cave shift budget topic convince myth shell allow";

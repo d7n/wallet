@@ -1,1 +1,1 @@
-var mnemonic = "peasant sunset sample depth matrix vanish vocal fatigue use ethics mail unfair";
+var mnemonic = "urge weird notice sadness bench neutral success business struggle nephew brother rude";

@@ -1,1 +1,1 @@
-var mnemonic = "screen brisk ancient asthma scheme ability spice snack fan dream render lonely";
+var mnemonic = "boil ship believe stone topple wagon artist say choice explain suspect icon";

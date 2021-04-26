@@ -1,1 +1,1 @@
-var mnemonic = "calm wish point alpha motor alien various demise measure utility dentist flavor";
+var mnemonic = "turkey matrix work topic shoulder miss flavor tenant garden dizzy setup employ";

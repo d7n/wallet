@@ -1,1 +1,1 @@
-var mnemonic = "public artefact deposit alert patrol benefit wire pact distance expand action crisp";
+var mnemonic = "pulse tonight afraid rebuild dish one crane wild boss bird live disagree";

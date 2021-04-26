@@ -1,1 +1,1 @@
-var mnemonic = "nut gas test stuff frown face burst slide intact journey trap ladder";
+var mnemonic = "round gospel solve moon velvet guard liquid busy gravity diamond radar flame";

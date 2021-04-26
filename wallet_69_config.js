@@ -1,1 +1,1 @@
-var mnemonic = "fold term april kingdom theory hotel drip mind nice coconut welcome grace";
+var mnemonic = "engage pet patch gentle promote minute spirit detect amused cargo survey hero";

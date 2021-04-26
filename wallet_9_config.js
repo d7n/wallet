@@ -1,1 +1,1 @@
-var mnemonic = "invite ghost guitar caution mule six tattoo plug boy enroll illness spin";
+var mnemonic = "army news option wonder choose raccoon donor dwarf push gospel dwarf plunge";

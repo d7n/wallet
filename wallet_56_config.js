@@ -1,1 +1,1 @@
-var mnemonic = "surprise arm whip palm excite kiwi squeeze connect unveil quit organ side";
+var mnemonic = "song equal milk model click deal share near peasant wink system october";

@@ -1,1 +1,1 @@
-var mnemonic = "pioneer spice virtual insane any very goat april million spider fancy note";
+var mnemonic = "length seminar few armed senior river carry nest verb mad ship area";

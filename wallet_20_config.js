@@ -1,1 +1,1 @@
-var mnemonic = "alter stable firm stone mesh wave ask bamboo mango field artefact asset";
+var mnemonic = "blood pitch inmate scheme believe dumb payment lake very sheriff tunnel auction";

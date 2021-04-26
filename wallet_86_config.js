@@ -1,1 +1,1 @@
-var mnemonic = "hollow service finish air attitude garlic awake core toast ghost slogan chunk";
+var mnemonic = "smoke donor depend prison purchase antique enter turtle urge slogan damage soon";

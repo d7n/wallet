@@ -1,1 +1,1 @@
-var mnemonic = "provide bacon lottery speed hospital derive author joke trim sentence what simple";
+var mnemonic = "sick buddy setup maple blame pelican speed include twelve minute crouch fun";

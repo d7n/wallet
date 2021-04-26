@@ -1,1 +1,1 @@
-var mnemonic = "use dog cup wear vehicle tennis wheat cancel license video report benefit";
+var mnemonic = "fabric vibrant tilt jeans glance arrange pluck kid weather hurdle truck dinosaur";

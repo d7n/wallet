@@ -1,1 +1,1 @@
-var mnemonic = "awful ill wash fatigue umbrella make short coast process soul crop crazy";
+var mnemonic = "crazy forget muscle energy caution flock matrix fruit damage produce body inner";

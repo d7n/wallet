@@ -1,1 +1,1 @@
-var mnemonic = "cigar unknown across equal deposit drum correct gym layer reunion lady buyer";
+var mnemonic = "pave ride meat ring candy into head moment paper skull initial can";

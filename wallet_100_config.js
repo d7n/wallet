@@ -1,1 +1,1 @@
-var mnemonic = "glance tourist valve fiction photo extend dune degree image invest ill solar";
+var mnemonic = "coast column common bag cat robot ride symbol witness forward myth shy";

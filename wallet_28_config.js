@@ -1,1 +1,1 @@
-var mnemonic = "cloud tent hollow public nephew equip decline soon knock absent stick banana";
+var mnemonic = "patch sorry grace steak disorder arrive control robust wrong mushroom rapid water";

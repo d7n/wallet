@@ -1,1 +1,1 @@
-var mnemonic = "above goddess guitar plastic erosion master embark anxiety jungle unit dilemma begin";
+var mnemonic = "pulp common fit tiny offer bunker purpose pepper stomach resist hobby auto";

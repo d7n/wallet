@@ -1,1 +1,1 @@
-var mnemonic = "wink gym jelly talk coffee motion swim coast behave gospel swim color";
+var mnemonic = "arch inch best worth clever used vague squirrel fossil can empty aspect";

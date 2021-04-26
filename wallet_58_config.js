@@ -1,1 +1,1 @@
-var mnemonic = "mistake unfair rack clarify student unable during alien prize sock actress garbage";
+var mnemonic = "scout perfect razor animal marble planet where detail elbow wool core turtle";

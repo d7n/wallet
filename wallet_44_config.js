@@ -1,1 +1,1 @@
-var mnemonic = "toss search copy pulp prize fit viable hurry axis embody entry garlic";
+var mnemonic = "similar open false dwarf scout armed matter better cross sentence myself order";

@@ -1,1 +1,1 @@
-var mnemonic = "endorse digital horn payment coin cost click cotton trouble consider option merit";
+var mnemonic = "prepare echo pulse sponsor save panic notable lounge thrive hair doctor boil";

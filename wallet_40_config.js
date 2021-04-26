@@ -1,1 +1,1 @@
-var mnemonic = "draw shoulder melody detail net october member remember stem pull mule orient";
+var mnemonic = "canoe metal length approve gun nut cash pigeon thought keep acoustic mix";

@@ -1,1 +1,1 @@
-var mnemonic = "valley giraffe toy sphere turtle ill afford olympic under hip around phone";
+var mnemonic = "boost key maid slab harbor struggle drive arch air walk impose devote";

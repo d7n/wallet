@@ -1,1 +1,1 @@
-var mnemonic = "nominee october drill gauge scrub pride excite diary intact enable wonder camera";
+var mnemonic = "essay govern angle old market blush outside chalk invite release theory lonely";

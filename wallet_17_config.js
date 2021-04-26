@@ -1,1 +1,1 @@
-var mnemonic = "bid rely exchange syrup hedgehog eternal rose neglect drastic make fine major";
+var mnemonic = "sword stage paddle this refuse half head evoke tackle craft parade pottery";

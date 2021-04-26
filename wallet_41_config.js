@@ -1,1 +1,1 @@
-var mnemonic = "basic guilt day seek essence powder baby spray trust example merge throw";
+var mnemonic = "series across suspect castle enforce floor voice baby layer chase friend tag";

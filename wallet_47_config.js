@@ -1,1 +1,1 @@
-var mnemonic = "fitness remember romance toilet pull rain front arm enhance concert library dutch";
+var mnemonic = "culture edit common lawn crucial around mammal drastic use shaft submit unique";

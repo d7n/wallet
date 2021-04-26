@@ -1,1 +1,1 @@
-var mnemonic = "cushion tuition merry waste vote brass practice mouse aware world program canyon";
+var mnemonic = "oak hair clock bind kiss another river aerobic soft explain often blossom";

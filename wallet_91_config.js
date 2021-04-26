@@ -1,1 +1,1 @@
-var mnemonic = "wide hidden lottery spirit organ civil trouble have amused boost correct steak";
+var mnemonic = "stomach suit innocent series long exhibit crush more pond bless noodle topic";

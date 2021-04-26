@@ -1,1 +1,1 @@
-var mnemonic = "topple come sample siege minor canvas grace ghost interest bronze raise shed";
+var mnemonic = "theory oil gasp table dutch toddler abstract weather current actor loan ski";

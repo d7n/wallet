@@ -1,1 +1,1 @@
-var mnemonic = "dismiss accuse prize away robot fire train bottom service daughter pair advice";
+var mnemonic = "scale long alpha spell sunset tobacco blue slot rotate cave object joke";

@@ -1,1 +1,1 @@
-var mnemonic = "twist seed under fold pelican bleak scorpion response hungry pitch suspect only";
+var mnemonic = "two tobacco assume diet custom radio elephant purity cloud flee labor stuff";

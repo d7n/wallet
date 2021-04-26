@@ -1,1 +1,1 @@
-var mnemonic = "nest van sudden harsh enhance valid soon silly pair need bless edge";
+var mnemonic = "neutral gauge correct ostrich pitch kitchen weasel sunset sing obvious scissors expose";

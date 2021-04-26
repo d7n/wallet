@@ -1,1 +1,1 @@
-var mnemonic = "engine glance mango zoo exile drop mixed fade kitten client slogan bamboo";
+var mnemonic = "often retire remind brave donkey actress engine enter raven humor gather spatial";

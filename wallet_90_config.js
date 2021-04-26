@@ -1,1 +1,1 @@
-var mnemonic = "help grief argue insect cluster grant manage wagon tourist feel aware delay";
+var mnemonic = "arch silly unknown pride lesson biology kit connect skirt letter ten comfort";

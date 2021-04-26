@@ -1,1 +1,1 @@
-var mnemonic = "noble april tone bright misery float entry field famous canyon answer position";
+var mnemonic = "market share river frozen oil prison recall eye viable hill armor system";

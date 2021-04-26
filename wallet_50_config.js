@@ -1,1 +1,1 @@
-var mnemonic = "upgrade loan burst practice cargo hazard easily neck olive poverty estate provide";
+var mnemonic = "tackle swamp gaze balcony fire person animal tuna give debris betray deputy";

@@ -1,1 +1,1 @@
-var mnemonic = "mansion eight top episode neither size imitate soldier empty monkey orchard swallow";
+var mnemonic = "profit twelve wrong detect outside apology jacket dynamic horse keep brief cement";

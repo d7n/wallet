@@ -1,1 +1,1 @@
-var mnemonic = "girl develop pair suit prize tiny dash program equal stock veteran brass";
+var mnemonic = "want reopen once panda pulp report other drink merit thought build reunion";

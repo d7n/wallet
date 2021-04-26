@@ -1,1 +1,1 @@
-var mnemonic = "march bitter lunch sand trim attitude gentle push tip matter melody flee";
+var mnemonic = "actual search outer dolphin legal cherry bird cup public success eagle work";

@@ -1,1 +1,1 @@
-var mnemonic = "crisp dizzy sample brother carpet wild plastic end reform flag fringe delay";
+var mnemonic = "moon moment autumn rebuild company issue forward correct clown govern offer carry";

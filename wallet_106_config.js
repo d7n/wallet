@@ -1,1 +1,1 @@
-var mnemonic = "puppy space job enforce guess tiny route giggle scale corn truck sentence";
+var mnemonic = "vocal target chief blush print kite hood satisfy elder dismiss check area";

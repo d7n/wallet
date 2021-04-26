@@ -1,1 +1,1 @@
-var mnemonic = "visual pumpkin squeeze galaxy shove calm mask cradle toy pyramid slice brave";
+var mnemonic = "drum option oppose atom approve exercise march march casual replace decorate old";

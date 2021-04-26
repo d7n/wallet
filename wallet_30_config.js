@@ -1,1 +1,1 @@
-var mnemonic = "guess reflect material umbrella avocado order often inspire setup model rabbit winter";
+var mnemonic = "beach steak know riot age flavor tunnel enter bring process quit mixture";

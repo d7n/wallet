@@ -1,1 +1,1 @@
-var mnemonic = "base ignore solar exact dry safe wedding derive daughter pull voice such";
+var mnemonic = "joke stereo dilemma until number diary scene bar moon muscle rack property";

@@ -1,1 +1,1 @@
-var mnemonic = "medal stick circle own shop ladder awake cotton bicycle between harsh lunar";
+var mnemonic = "donate giraffe hamster polar insect offer wreck fortune table lift finger negative";

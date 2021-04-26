@@ -1,1 +1,1 @@
-var mnemonic = "item art swamp board few laptop winter blur anchor physical come more";
+var mnemonic = "push hole riot furnace police critic choice close pact nuclear soda race";

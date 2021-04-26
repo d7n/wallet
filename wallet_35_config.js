@@ -1,1 +1,1 @@
-var mnemonic = "soft round engage good develop mountain drill fix way spare embark call";
+var mnemonic = "family paddle key light begin work brisk three smart flag actual interest";

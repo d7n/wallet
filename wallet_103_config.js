@@ -1,1 +1,1 @@
-var mnemonic = "uniform dove bean siren almost account figure ostrich design spot anger pistol";
+var mnemonic = "oppose virus horse risk upset scout word ancient valley there trick enlist";

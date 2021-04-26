@@ -1,1 +1,1 @@
-var mnemonic = "forward range festival answer spot horse frost sweet fuel group surround fever";
+var mnemonic = "torch letter corn double neck wine various mad eternal entire mention frequent";

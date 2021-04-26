@@ -1,1 +1,1 @@
-var mnemonic = "suffer marriage become smart prosper virus churn feed coyote treat number saddle";
+var mnemonic = "candy average wrong click rhythm armor again concert allow gadget slice cake";

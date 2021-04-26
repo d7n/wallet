@@ -1,1 +1,1 @@
-var mnemonic = "glory boss explain edge width brick sketch inflict person hire forest choice";
+var mnemonic = "float yard year satisfy ring output creek crouch reform timber okay detail";

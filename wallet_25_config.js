@@ -1,1 +1,1 @@
-var mnemonic = "person student tired ostrich spawn card interest suggest ridge grief brisk gap";
+var mnemonic = "flat put sibling share strike dial embody army damp armor clip couple";

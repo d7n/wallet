@@ -1,1 +1,1 @@
-var mnemonic = "minimum finish dizzy dash regular describe dwarf mountain ribbon liberty network glove";
+var mnemonic = "rude silver correct tell gun embrace decrease supply exact enhance cliff august";

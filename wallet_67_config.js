@@ -1,1 +1,1 @@
-var mnemonic = "army chalk that pony almost acquire corn energy keep hedgehog mistake modify";
+var mnemonic = "seek become science vital key tree absorb avoid vacant impact farm cat";

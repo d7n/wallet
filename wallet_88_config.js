@@ -1,1 +1,1 @@
-var mnemonic = "brother alert much metal manage exchange have system direct fragile steel inch";
+var mnemonic = "husband grunt spice tower noble skull north camp inch attack scout erode";

@@ -1,1 +1,1 @@
-var mnemonic = "myth exhaust winner shine exotic scatter loan loan honey arrow spread coil";
+var mnemonic = "hurdle decorate noble engine tent strong toss cannon cupboard marine drill still";

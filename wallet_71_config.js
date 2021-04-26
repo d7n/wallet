@@ -1,1 +1,1 @@
-var mnemonic = "section ramp stay clown resemble hospital exhibit position pattern pretty divorce royal";
+var mnemonic = "execute coyote cement cargo tent insect square truly same negative message feel";

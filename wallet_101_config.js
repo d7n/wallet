@@ -1,1 +1,1 @@
-var mnemonic = "scorpion disagree either flavor pottery travel carpet evoke broccoli scene humor obvious";
+var mnemonic = "garment churn error explain only bunker stool teach normal attack couch auto";

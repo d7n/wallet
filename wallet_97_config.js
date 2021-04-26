@@ -1,1 +1,1 @@
-var mnemonic = "fabric chase monster habit trade upgrade job deny border amateur bench captain";
+var mnemonic = "prison embody tent check argue virus forum seed wrong flush cycle divert";

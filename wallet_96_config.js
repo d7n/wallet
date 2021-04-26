@@ -1,1 +1,1 @@
-var mnemonic = "cherry jacket mango alone scout permit weekend vapor target truth innocent help";
+var mnemonic = "nurse cancel culture define lesson change begin treat fine void cinnamon rabbit";

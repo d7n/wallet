@@ -1,1 +1,1 @@
-var mnemonic = "absorb caution time observe panther east rotate mechanic moral smooth change dumb";
+var mnemonic = "slice force bridge skin cat brain nasty brass vehicle deposit priority volume";

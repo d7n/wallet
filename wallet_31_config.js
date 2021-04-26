@@ -1,1 +1,1 @@
-var mnemonic = "scissors borrow dial use face melt spy impact jewel gloom power replace";
+var mnemonic = "suffer script clever crime woman adjust judge coyote silly fantasy surround man";

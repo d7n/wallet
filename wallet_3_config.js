@@ -1,1 +1,1 @@
-var mnemonic = "normal over govern race unfair awful half fan harsh jazz clog album";
+var mnemonic = "grunt upset capital box middle coffee gorilla another struggle language goose brave";

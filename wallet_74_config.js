@@ -1,1 +1,1 @@
-var mnemonic = "cliff sadness tunnel deposit upon liar industry attitude wave aerobic gaze ethics";
+var mnemonic = "ability cat level anger creek absorb salad favorite virtual royal ski mountain";
