@@ -1,1 +1,1 @@
-var mnemonic = "blind wink remove master card into glimpse stable cost virus clinic essence";
+var mnemonic = "extend shiver use ceiling device venture cat you find cat size help";

@@ -1,1 +1,1 @@
-var mnemonic = "lecture make adapt mouse mixed author concert drastic hat armed still assist";
+var mnemonic = "language topic text accident trap keen monitor clip lizard provide bind elder";

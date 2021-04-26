@@ -1,1 +1,1 @@
-var mnemonic = "destroy atom enrich never point muffin palace office remember nephew fabric canal";
+var mnemonic = "dumb wrestle fee outer siren mother person until profit casino segment hunt";

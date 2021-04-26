@@ -1,1 +1,1 @@
-var mnemonic = "craft absorb merit salon fun success disease buddy foil gallery grab jar";
+var mnemonic = "wheel fetch suffer cost gadget scissors better ginger fence camera render outdoor";

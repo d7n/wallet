@@ -1,1 +1,1 @@
-var mnemonic = "approve column myself element fitness habit chair step grant immune raw print";
+var mnemonic = "film town people emerge diagram fantasy picnic daring into upper tent join";

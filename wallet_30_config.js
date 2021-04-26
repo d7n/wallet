@@ -1,1 +1,1 @@
-var mnemonic = "scatter worth produce quote insane angle notice equip frog travel decade orchard";
+var mnemonic = "race avoid solar ski survey huge puzzle uphold armor seven can hammer";

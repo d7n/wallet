@@ -1,1 +1,1 @@
-var mnemonic = "rival agree become dawn depart today chef opinion never salon romance way";
+var mnemonic = "anxiety inquiry crater web enhance escape plug soft plate small rich purchase";

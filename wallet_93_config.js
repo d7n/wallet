@@ -1,1 +1,1 @@
-var mnemonic = "raccoon duck argue timber ancient response maple program attitude olympic abandon kick";
+var mnemonic = "dwarf income car hard clarify jelly consider peanut final dutch student call";

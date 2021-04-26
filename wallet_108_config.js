@@ -1,1 +1,1 @@
-var mnemonic = "retreat helmet panic crew lazy visa squirrel resist nurse very enemy play";
+var mnemonic = "response merry fatigue demand brief mean history boring gadget roast develop tape";

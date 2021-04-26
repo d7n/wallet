@@ -1,1 +1,1 @@
-var mnemonic = "august exile ecology cable popular hole pole own trumpet together useful jungle";
+var mnemonic = "march shadow traffic border dumb pulp toilet pet patient alcohol jacket maple";

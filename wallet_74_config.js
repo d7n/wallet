@@ -1,1 +1,1 @@
-var mnemonic = "phrase whale night faculty demise seminar know try tell spice grape fashion";
+var mnemonic = "west fatal glow ordinary hundred game column dial decade easy wall stool";

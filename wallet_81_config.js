@@ -1,1 +1,1 @@
-var mnemonic = "shop globe coffee very aerobic labor scatter canvas enough frost thing hybrid";
+var mnemonic = "roof immune inmate potato crucial enjoy ship custom wolf title desk position";

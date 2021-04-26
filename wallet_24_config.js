@@ -1,1 +1,1 @@
-var mnemonic = "smoke drama decide luxury awful tissue favorite harsh brisk result ozone ten";
+var mnemonic = "arm blade three merit soap thunder rule slot nice clever margin juice";

@@ -1,1 +1,1 @@
-var mnemonic = "volcano loyal track solar oak tomorrow image purchase diagram mobile main scare";
+var mnemonic = "green empty lunar scene universe dismiss connect script garage find document pluck";

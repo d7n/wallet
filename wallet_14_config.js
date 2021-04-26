@@ -1,1 +1,1 @@
-var mnemonic = "tomato eye tool husband phone plate crash wool lunar rookie grunt bird";
+var mnemonic = "adult inside combine deposit ice trial man dish exhaust upon year oyster";

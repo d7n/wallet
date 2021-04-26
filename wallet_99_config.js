@@ -1,1 +1,1 @@
-var mnemonic = "real monkey naive liquid response voyage champion vital clown vintage dad kid";
+var mnemonic = "book ostrich spirit mind speed uncle tree merit wife isolate hidden pottery";

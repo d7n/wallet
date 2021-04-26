@@ -1,1 +1,1 @@
-var mnemonic = "vote refuse ankle critic parade flee dream light more movie brother weekend";
+var mnemonic = "burger path general injury fork height mango camera control pet perfect heavy";

@@ -1,1 +1,1 @@
-var mnemonic = "decide echo rose satisfy love surge mechanic olympic view adjust artefact tunnel";
+var mnemonic = "tattoo adult other struggle notable hospital version nation blouse minimum result leisure";

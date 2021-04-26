@@ -1,1 +1,1 @@
-var mnemonic = "punch image tower across actor twist easy cube flavor senior table onion";
+var mnemonic = "ceiling cannon absurd maid bamboo furnace slogan clap amused attract clump blush";

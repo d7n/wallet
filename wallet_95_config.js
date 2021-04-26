@@ -1,1 +1,1 @@
-var mnemonic = "long fetch engage pony about bleak favorite february road grape engage decade";
+var mnemonic = "danger cliff measure stomach goddess wave faith shuffle hundred auto ethics quick";

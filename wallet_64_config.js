@@ -1,1 +1,1 @@
-var mnemonic = "robust sad current grape cabbage cage lonely reveal cliff viable leisure awkward";
+var mnemonic = "brush shallow brown topple visit grid foot easily spider require crouch swift";

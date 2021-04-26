@@ -1,1 +1,1 @@
-var mnemonic = "marriage toss wish zoo fever matrix hospital loud witness panther zero deny";
+var mnemonic = "belt entry matrix wear occur sand night rail fatigue normal chimney village";

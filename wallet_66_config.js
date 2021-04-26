@@ -1,1 +1,1 @@
-var mnemonic = "brick combine lumber anxiety slab manage other flush child left romance group";
+var mnemonic = "always kit asset obey panel faith couch beef kangaroo stereo rich weekend";

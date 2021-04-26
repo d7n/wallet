@@ -1,1 +1,1 @@
-var mnemonic = "object clog link amazing smooth because sibling grace island squirrel minimum swing";
+var mnemonic = "piece social keep afford top wheel install trophy have blue bean borrow";

@@ -1,1 +1,1 @@
-var mnemonic = "pelican bunker hero call awake disorder elephant skin almost local pledge cheese";
+var mnemonic = "fold useless lottery ostrich square tide erode ability resource wall wide crew";

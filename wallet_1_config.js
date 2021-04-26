@@ -1,1 +1,1 @@
-var mnemonic = "virus wasp artefact team cliff arrest plate nest topple balance lend veteran";
+var mnemonic = "play pepper example brisk great sad rural next mass entry pepper canal";

@@ -1,1 +1,1 @@
-var mnemonic = "ask throw team kid vacant recipe possible cat reward legal good frog";
+var mnemonic = "online shuffle cream note impact hundred convince noise album pupil witness vibrant";

@@ -1,1 +1,1 @@
-var mnemonic = "extend prosper benefit scare slogan inhale worth food antique weasel olive gloom";
+var mnemonic = "process weather account slogan story happy pattern angle actress holiday reject hero";

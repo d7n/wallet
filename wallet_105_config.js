@@ -1,1 +1,1 @@
-var mnemonic = "bunker flame forum deny once drama liberty evolve stool risk volcano arctic";
+var mnemonic = "actor judge wide open knife shed grass three benefit make attitude topple";

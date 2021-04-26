@@ -1,1 +1,1 @@
-var mnemonic = "floor point auto eye stove dynamic unit extra impose they sell mutual";
+var mnemonic = "mix record shrimp sell obvious inmate drink kitchen slice exhibit spray piano";

@@ -1,1 +1,1 @@
-var mnemonic = "sound hungry rain demise lizard puppy finger humble sport adult exchange sorry";
+var mnemonic = "alert fine crumble wish ankle song dismiss artwork blush dial float orbit";

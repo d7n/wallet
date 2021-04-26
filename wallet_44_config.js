@@ -1,1 +1,1 @@
-var mnemonic = "snap slab cactus more thank noble frozen hammer owner surge emerge system";
+var mnemonic = "recycle angry mention crowd slogan wrist start equip recycle flock soon build";

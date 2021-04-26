@@ -1,1 +1,1 @@
-var mnemonic = "crawl decorate electric shadow step regular flash host kiss layer horror soda";
+var mnemonic = "gift math basket village route crane olympic cup combine address ripple demand";

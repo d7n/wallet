@@ -1,1 +1,1 @@
-var mnemonic = "gossip pyramid lunar tell veteran law image despair armor reject bring middle";
+var mnemonic = "system connect fancy fantasy since enroll client fame aunt buddy globe ship";

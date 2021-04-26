@@ -1,1 +1,1 @@
-var mnemonic = "heart worry enjoy fox era pear another craft pigeon lens west deal";
+var mnemonic = "rail elephant model butter laugh voyage rapid lamp enhance yellow section term";

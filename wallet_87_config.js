@@ -1,1 +1,1 @@
-var mnemonic = "border unveil topic ball join real bargain farm since employ develop physical";
+var mnemonic = "state scorpion romance ensure debate disease asset tube alone slight blind fetch";

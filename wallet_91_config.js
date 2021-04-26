@@ -1,1 +1,1 @@
-var mnemonic = "jacket exercise zoo slim funny rug rapid shadow good siren guitar luggage";
+var mnemonic = "dignity myself holiday option together program rent refuse catalog pony case deal";

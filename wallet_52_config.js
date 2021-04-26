@@ -1,1 +1,1 @@
-var mnemonic = "predict eternal unveil fine either opera lounge local web suffer later gadget";
+var mnemonic = "phone resource stool mimic word receive slush must sail cricket blossom wear";

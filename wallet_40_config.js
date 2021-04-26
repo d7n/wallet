@@ -1,1 +1,1 @@
-var mnemonic = "glance cereal dance juice wine manage hard text favorite august mountain soul";
+var mnemonic = "clay book actress caution carbon armed side debate gas nice capable debris";

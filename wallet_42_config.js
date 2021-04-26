@@ -1,1 +1,1 @@
-var mnemonic = "lift high crush ghost elevator motion food portion public matter slot interest";
+var mnemonic = "people shove amazing powder expect surround fork barely twenty drip spring lemon";

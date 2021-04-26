@@ -1,1 +1,1 @@
-var mnemonic = "brass input another name right select faith favorite sustain spread absorb movie";
+var mnemonic = "icon local silk rotate dog foil daring race sudden accident fragile club";

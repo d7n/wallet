@@ -1,1 +1,1 @@
-var mnemonic = "hospital permit empower tattoo creek switch market upper cause agent game nose";
+var mnemonic = "squirrel warfare wink wing force fatal sweet size rough attract letter tone";

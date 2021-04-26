@@ -1,1 +1,1 @@
-var mnemonic = "gaze claw manage upgrade umbrella sail sleep minimum catalog quarter spike dismiss";
+var mnemonic = "upgrade better chaos resist blanket dash ignore keen snake knock ski ensure";

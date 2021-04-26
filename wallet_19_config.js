@@ -1,1 +1,1 @@
-var mnemonic = "flavor defy olympic one palace uniform spike ivory audit future culture verb";
+var mnemonic = "renew donor wash essence melt album mesh shoe salmon hundred gain obtain";

@@ -1,1 +1,1 @@
-var mnemonic = "enact sketch student acquire despair leg ill park doll crisp crawl equal";
+var mnemonic = "video during glue engine someone illegal pave garage disorder sail tuna hood";

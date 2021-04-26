@@ -1,1 +1,1 @@
-var mnemonic = "trap heavy arch genius cause wise donkey sign city super transfer young";
+var mnemonic = "one rhythm rival section please garage credit mixture kite alcohol drill merge";

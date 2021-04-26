@@ -1,1 +1,1 @@
-var mnemonic = "credit blind radar view dutch volume myth hole indoor combine warfare sock";
+var mnemonic = "excite mix cannon empower crop mail discover winter margin bracket fame abandon";

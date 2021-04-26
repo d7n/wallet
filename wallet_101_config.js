@@ -1,1 +1,1 @@
-var mnemonic = "consider burger choose wish spray damage poem banner fresh caught rebel test";
+var mnemonic = "laundry tube buffalo super special leader stumble lake super leg wrong wood";

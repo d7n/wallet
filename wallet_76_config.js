@@ -1,1 +1,1 @@
-var mnemonic = "true mouse upon chunk luggage coin patch sort snake duck hamster ranch";
+var mnemonic = "throw modify garbage common shoe foster catch crush edge entire supreme sponsor";

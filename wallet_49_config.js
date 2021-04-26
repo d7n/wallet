@@ -1,1 +1,1 @@
-var mnemonic = "tennis imitate chat jungle fall lyrics copy pulp dentist shrimp such jelly";
+var mnemonic = "aspect funny embody excess orchard crane south fragile human client senior record";

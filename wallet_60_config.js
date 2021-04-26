@@ -1,1 +1,1 @@
-var mnemonic = "rookie evolve group grid edit dawn custom sense amazing pass creek label";
+var mnemonic = "tube wild unaware melody buddy join guess layer nasty anger ecology copper";

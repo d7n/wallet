@@ -1,1 +1,1 @@
-var mnemonic = "razor kidney balance access fan fashion text empty unusual other ethics dress";
+var mnemonic = "beef step edge then thought urban aerobic width gadget abandon truth vacant";

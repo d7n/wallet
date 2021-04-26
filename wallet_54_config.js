@@ -1,1 +1,1 @@
-var mnemonic = "cliff among speak obvious giggle room mansion era prevent connect brand group";
+var mnemonic = "tongue awesome engage unfair donate force raccoon deal duty permit angry dance";

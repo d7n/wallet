@@ -1,1 +1,1 @@
-var mnemonic = "abuse stick load perfect elbow veteran gown artefact pig main oblige mixture";
+var mnemonic = "warfare learn cricket sugar awkward dawn priority manage injury bring lottery blossom";

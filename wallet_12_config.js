@@ -1,1 +1,1 @@
-var mnemonic = "route give orient barely kiss aware perfect virus furnace submit cannon ghost";
+var mnemonic = "amateur piece proof position subway now buffalo behind term fitness trap runway";

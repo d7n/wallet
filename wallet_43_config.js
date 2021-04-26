@@ -1,1 +1,1 @@
-var mnemonic = "rough buzz brass twist mystery pudding celery party session build alarm piano";
+var mnemonic = "update brick physical swim group stage virus excuse exhaust version add else";

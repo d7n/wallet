@@ -1,1 +1,1 @@
-var mnemonic = "cram monkey fringe correct spike magic humble frown section protect tuna dragon";
+var mnemonic = "black match chronic palace grass veteran year place wave aim system inspire";

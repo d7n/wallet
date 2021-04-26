@@ -1,1 +1,1 @@
-var mnemonic = "uncover layer visual viable cake iron bench property truck ancient mandate agent";
+var mnemonic = "dignity fancy slim amateur furnace pull own avoid twenty oven judge lock";

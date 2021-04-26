@@ -1,1 +1,1 @@
-var mnemonic = "during elite enable frog lonely draw another romance inject surge gap boat";
+var mnemonic = "ugly desk era loyal dismiss modify foil tennis seven heart expose stumble";

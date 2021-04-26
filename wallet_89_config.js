@@ -1,1 +1,1 @@
-var mnemonic = "high dolphin federal upper observe skate kit mother dish screen nasty trade";
+var mnemonic = "immune amazing comic concert fatal shield task allow sword frown dish creek";

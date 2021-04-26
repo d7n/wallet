@@ -1,1 +1,1 @@
-var mnemonic = "pudding torch shock speed swap erosion chunk swim punch negative knock elder";
+var mnemonic = "foil impulse oyster gasp flash always game window outer kiss electric artist";

@@ -1,1 +1,1 @@
-var mnemonic = "atom surface truth dry van fix genius equip museum cabin zero pony";
+var mnemonic = "cage uniform other right lava exotic science water trade capital client embark";

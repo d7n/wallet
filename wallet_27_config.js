@@ -1,1 +1,1 @@
-var mnemonic = "coach dinner glide style garden offer sure work whale stove stairs describe";
+var mnemonic = "ski tackle street point can ordinary vault letter bulb memory tornado absent";

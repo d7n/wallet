@@ -1,1 +1,1 @@
-var mnemonic = "play truck close scrap maple merit insect answer person street liquid alone";
+var mnemonic = "legal afraid discover behind setup win trumpet jazz salon away dentist obtain";

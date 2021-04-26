@@ -1,1 +1,1 @@
-var mnemonic = "broccoli jacket brown brand stairs dad yard push found chase quiz poverty";
+var mnemonic = "arch advice industry thank syrup tattoo game board one corn lottery coyote";

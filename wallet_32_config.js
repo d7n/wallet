@@ -1,1 +1,1 @@
-var mnemonic = "cook ancient fuel liberty educate web unfair blame strike hint connect front";
+var mnemonic = "sibling agent marine stomach ahead fancy media dynamic room cry track napkin";

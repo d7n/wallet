@@ -1,1 +1,1 @@
-var mnemonic = "vault summer junior jaguar virus chair insect depart portion water core hood";
+var mnemonic = "flock arrange heavy cake divorce history escape blue call ill sponsor worth";

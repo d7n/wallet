@@ -1,1 +1,1 @@
-var mnemonic = "much shoulder legend chalk remember claim wise clay tiger give speed issue";
+var mnemonic = "caution oil exotic one soft gold orient private sock tag stand patient";

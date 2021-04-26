@@ -1,1 +1,1 @@
-var mnemonic = "invite scene jewel dilemma benefit tiny grid rule possible knock comfort east";
+var mnemonic = "system umbrella news force average spell opera fluid club enrich siege kiwi";

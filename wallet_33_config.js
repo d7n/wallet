@@ -1,1 +1,1 @@
-var mnemonic = "behave increase mother unveil pause mom inherit arrow rack best crisp pony";
+var mnemonic = "dune speed reason equip film rude bacon inherit tribe hill memory start";

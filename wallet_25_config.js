@@ -1,1 +1,1 @@
-var mnemonic = "add jewel surprise era rely frozen category benefit bitter swamp today isolate";
+var mnemonic = "erode biology ice cinnamon section lamp act huge crowd apology park eye";

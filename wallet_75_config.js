@@ -1,1 +1,1 @@
-var mnemonic = "fresh approve hobby session aspect chase guide surprise local inherit frog ice";
+var mnemonic = "long happy seat help orbit pepper umbrella fan wing inquiry property decline";

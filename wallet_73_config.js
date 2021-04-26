@@ -1,1 +1,1 @@
-var mnemonic = "render super refuse foam lemon notice submit never country flower matrix cry";
+var mnemonic = "tragic order clutch prison people tissue recipe region diesel expire program voice";

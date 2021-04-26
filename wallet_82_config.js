@@ -1,1 +1,1 @@
-var mnemonic = "actress edit network cash produce model cement shy forget blade brief basket";
+var mnemonic = "woman useful rare erosion before honey pull gasp lounge van renew hold";

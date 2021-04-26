@@ -1,1 +1,1 @@
-var mnemonic = "vintage uphold add pistol congress cargo era bonus average wish level snack";
+var mnemonic = "credit arrow jaguar random fury tonight glow train film alien test trap";

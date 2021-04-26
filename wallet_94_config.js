@@ -1,1 +1,1 @@
-var mnemonic = "hamster spring now stamp empower bike sketch mixed food casino coin someone";
+var mnemonic = "lawn oak circle foster noise theme dizzy bachelor fiction fossil box swear";

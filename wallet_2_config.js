@@ -1,1 +1,1 @@
-var mnemonic = "mammal sense blind there oxygen try clay chat mushroom click bike special";
+var mnemonic = "crush output blue endless quality pass sound pen again simple picnic announce";

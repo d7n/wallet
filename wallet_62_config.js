@@ -1,1 +1,1 @@
-var mnemonic = "whip devote any spot motion teach pride fancy hole swap today nasty";
+var mnemonic = "heart hurdle apart defense this cabbage soft timber awake float exotic pride";

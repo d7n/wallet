@@ -1,1 +1,1 @@
-var mnemonic = "access fault good second virtual sample sudden chimney drift decrease myself manual";
+var mnemonic = "rain math wear lesson swarm genuine indoor hope post build finger swarm";

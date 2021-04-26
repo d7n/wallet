@@ -1,1 +1,1 @@
-var mnemonic = "slot inhale process absurd remember bus wide leg december any tip angle";
+var mnemonic = "impact snap deputy party ocean rate employ potato alpha sibling barrel slight";

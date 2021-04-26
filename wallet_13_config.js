@@ -1,1 +1,1 @@
-var mnemonic = "bag daring save similar notable chat tonight inner season rather power join";
+var mnemonic = "appear melody soldier position add ball execute planet moment canoe volume arctic";

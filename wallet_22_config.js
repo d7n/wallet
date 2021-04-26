@@ -1,1 +1,1 @@
-var mnemonic = "armed fever eagle clinic abstract bench adapt deny tomato metal away cheap";
+var mnemonic = "wait cereal victory simple inquiry cricket smoke switch oppose fat unique sing";

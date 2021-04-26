@@ -1,1 +1,1 @@
-var mnemonic = "scale neither mutual vintage abstract dish buffalo claw cheap example trip coral";
+var mnemonic = "saddle circle hold farm cherry rifle bicycle swing tone clutch payment solve";

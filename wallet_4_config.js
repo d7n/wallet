@@ -1,1 +1,1 @@
-var mnemonic = "chalk gentle between metal knock flush fluid decline lemon fruit eagle caution";
+var mnemonic = "gate nut ball girl style insect cave exclude crew ice pupil frame";

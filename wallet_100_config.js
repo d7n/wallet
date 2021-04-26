@@ -1,1 +1,1 @@
-var mnemonic = "quick grab gospel payment fold boss still brisk require pudding pistol game";
+var mnemonic = "matrix drive enemy parent turn legal blood toward pipe neither catalog romance";

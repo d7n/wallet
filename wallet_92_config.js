@@ -1,1 +1,1 @@
-var mnemonic = "idea shift fury grass audit work skirt close file claw amateur guide";
+var mnemonic = "input minimum gift poem shoot sentence horn they diesel search fee pear";

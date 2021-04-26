@@ -1,1 +1,1 @@
-var mnemonic = "warfare hurry try balcony true document energy cost glare cereal remember robot";
+var mnemonic = "inhale rotate advance camp dove decide hill regret glance daughter move powder";

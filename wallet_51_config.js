@@ -1,1 +1,1 @@
-var mnemonic = "limit measure output syrup habit fade hip certain alcohol minute mammal crime";
+var mnemonic = "artist crazy attitude aspect session liar bind oxygen honey mango sausage clever";

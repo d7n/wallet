@@ -1,1 +1,1 @@
-var mnemonic = "question plastic drink disorder turkey glory jump end fragile neglect now early";
+var mnemonic = "famous dentist wife foil castle shy short fee insect ten spin gadget";

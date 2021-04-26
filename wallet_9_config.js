@@ -1,1 +1,1 @@
-var mnemonic = "cup resource inhale bag earth logic grow spawn rocket patient income can";
+var mnemonic = "hover fine tooth coral canyon crawl atom define what also gentle crystal";

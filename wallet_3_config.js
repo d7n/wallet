@@ -1,1 +1,1 @@
-var mnemonic = "clarify body wrist copper boost already clerk steak achieve satoshi hold tribe";
+var mnemonic = "toddler whisper object lake tackle physical pulp concert demand length off garlic";
