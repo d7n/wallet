@@ -1,1 +1,1 @@
-var mnemonic = "hint void chalk river cricket scheme enable version shrimp half spatial interest";
+var mnemonic = "accident afraid upper often relief purity pigeon forest lucky spray position tortoise";

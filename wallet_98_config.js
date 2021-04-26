@@ -1,1 +1,1 @@
-var mnemonic = "other problem squeeze diesel shadow start tiger entry local jungle night fox";
+var mnemonic = "crane aim stamp aim network rose cycle offer hope rally bind explain";

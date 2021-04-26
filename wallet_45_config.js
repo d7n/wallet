@@ -1,1 +1,1 @@
-var mnemonic = "dinner demand kitten divide crazy lens diamond spice reunion large idea tree";
+var mnemonic = "aisle grace soda quote title early nest kangaroo praise believe exile leader";

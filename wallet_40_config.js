@@ -1,1 +1,1 @@
-var mnemonic = "rack viable guitar dirt cage beyond kite sort direct settle embody bracket";
+var mnemonic = "girl urge rare pledge beef ethics leg soon west uphold eternal claim";

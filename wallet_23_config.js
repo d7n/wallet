@@ -1,1 +1,1 @@
-var mnemonic = "naive fortune mesh spend fiscal turkey great degree combine various cotton black";
+var mnemonic = "cannon reveal soldier pitch milk okay chair salad blush runway digital pistol";

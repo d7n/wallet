@@ -1,1 +1,1 @@
-var mnemonic = "music develop coil couple glide into february kiwi filter famous become island";
+var mnemonic = "about exhibit flush blossom utility above raw tornado option quick cluster tuition";

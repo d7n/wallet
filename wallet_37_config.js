@@ -1,1 +1,1 @@
-var mnemonic = "actress right kind hobby work enact exotic open prosper original ship humble";
+var mnemonic = "shoulder rail warm broom achieve census ill other letter worry kit danger";

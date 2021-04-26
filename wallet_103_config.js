@@ -1,1 +1,1 @@
-var mnemonic = "blush craft deal place slot cute buffalo demand holiday country avoid thunder";
+var mnemonic = "awkward bleak enjoy gold doll zebra vivid situate vacant excess gift accident";

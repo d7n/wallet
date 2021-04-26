@@ -1,1 +1,1 @@
-var mnemonic = "drip govern rubber phone property reason skate drive oil cactus cliff fold";
+var mnemonic = "document raccoon notable will foster harbor example alarm recipe salon estate company";

@@ -1,1 +1,1 @@
-var mnemonic = "globe what dash stamp tooth vehicle van work ranch mutual pig define";
+var mnemonic = "thrive island pencil crunch wool like job legal call lunar income razor";

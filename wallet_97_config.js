@@ -1,1 +1,1 @@
-var mnemonic = "glue curve angle split movie female rely move few artefact manual still";
+var mnemonic = "maid flight sweet number lazy derive donkey walk urban wreck goddess coral";

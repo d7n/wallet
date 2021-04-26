@@ -1,1 +1,1 @@
-var mnemonic = "maple glue valve slush good polar neither life celery romance actor bonus";
+var mnemonic = "occur edit donate cruel judge devote outer clown layer observe material trash";

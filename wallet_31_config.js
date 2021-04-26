@@ -1,1 +1,1 @@
-var mnemonic = "discover jump open birth crowd matter exile okay system boss duck flush";
+var mnemonic = "just use fall stay sister cruise absent cinnamon furnace security turn draw";

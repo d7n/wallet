@@ -1,1 +1,1 @@
-var mnemonic = "artefact you power finish chapter enact attend tunnel chunk slab cloth vocal";
+var mnemonic = "flip vocal usual ivory issue label onion light six control bracket measure";

@@ -1,1 +1,1 @@
-var mnemonic = "way off neglect head dune quit hidden genius boost arch leisure humble";
+var mnemonic = "east blade target snap funny school asset dust field frost scrub cram";

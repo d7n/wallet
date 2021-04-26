@@ -1,1 +1,1 @@
-var mnemonic = "corn poet remember reward salmon merry provide weekend avoid inject coil vault";
+var mnemonic = "unhappy phrase slim sister good position baby craft purchase cabbage eagle hobby";

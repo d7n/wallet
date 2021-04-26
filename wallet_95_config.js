@@ -1,1 +1,1 @@
-var mnemonic = "mango trial office demise violin shaft toss fringe light mango clutch elevator";
+var mnemonic = "butter risk warm audit helmet height close course text order engage damage";

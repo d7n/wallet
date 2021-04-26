@@ -1,1 +1,1 @@
-var mnemonic = "fish weasel shrimp rich ability patrol spot portion noise renew absent zero";
+var mnemonic = "reopen state blouse toddler refuse concert outdoor water wine explain material old";

@@ -1,1 +1,1 @@
-var mnemonic = "wrap crazy shine afford grass muscle dolphin toast action close job post";
+var mnemonic = "exist crystal judge walk never barrel neutral left provide prosper fitness long";

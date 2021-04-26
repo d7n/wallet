@@ -1,1 +1,1 @@
-var mnemonic = "tool ship hunt moral finish foil process midnight time then obscure quit";
+var mnemonic = "visual wing hood layer pistol earn wreck ocean exclude siren foam tooth";

@@ -1,1 +1,1 @@
-var mnemonic = "spy goose swing acid ancient pond win drive salt unique obscure antenna";
+var mnemonic = "satisfy view ordinary wage amateur whale special express bone nominee claw chat";

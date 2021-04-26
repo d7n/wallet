@@ -1,1 +1,1 @@
-var mnemonic = "then ramp piece learn response feel during cream duck hurt message peace";
+var mnemonic = "nut live parrot actual estate observe kite assault boring powder across version";

@@ -1,1 +1,1 @@
-var mnemonic = "bean retire kind puppy emerge suspect mention coconut travel lend liberty fetch";
+var mnemonic = "drip credit surprise category virus venue okay thank forest already badge animal";

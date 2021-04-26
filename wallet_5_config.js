@@ -1,1 +1,1 @@
-var mnemonic = "laugh butter gorilla behind suspect pistol loyal either horn blouse spider churn";
+var mnemonic = "chase relax either venue rice civil tide boost require common fantasy egg";

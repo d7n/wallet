@@ -1,1 +1,1 @@
-var mnemonic = "crucial again border exact puppy tag amateur piano wire tennis tennis climb";
+var mnemonic = "plate erode dream spice canal police one glue patch winner entire artefact";

@@ -1,1 +1,1 @@
-var mnemonic = "cheap salad catalog desk pistol wine brave apart flip argue more mistake";
+var mnemonic = "gossip dish fortune fetch minor cattle message music dilemma canvas over else";

@@ -1,1 +1,1 @@
-var mnemonic = "tank plug pencil hurry cancel very elder rack crew myself confirm gun";
+var mnemonic = "winter custom excite card inject project notable hope wrong item nurse more";

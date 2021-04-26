@@ -1,1 +1,1 @@
-var mnemonic = "hawk dust final shiver lock miss very wealth extend flush diary mask";
+var mnemonic = "era caught idle chat close flat isolate tree solution head tortoise crucial";

@@ -1,1 +1,1 @@
-var mnemonic = "mountain soccer autumn amused obtain patient mandate never cricket orbit upon hen";
+var mnemonic = "mail awful page noise old siege obey thumb coyote become rhythm castle";

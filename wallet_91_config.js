@@ -1,1 +1,1 @@
-var mnemonic = "tent pulp hazard mercy smooth sugar regret initial voice laptop shrimp layer";
+var mnemonic = "improve ticket sound upon cabin owner device planet labor space kingdom company";

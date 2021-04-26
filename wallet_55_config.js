@@ -1,1 +1,1 @@
-var mnemonic = "inch yard cluster gesture negative ripple burden runway found over flip require";
+var mnemonic = "tunnel prevent boost height poverty canoe dinosaur letter satisfy trip toy expect";

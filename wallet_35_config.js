@@ -1,1 +1,1 @@
-var mnemonic = "mail opera awake ladder wife gossip card gorilla copy manual honey similar";
+var mnemonic = "pet teach gallery harsh excuse amount neither empower museum hour dance install";

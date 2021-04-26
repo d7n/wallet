@@ -1,1 +1,1 @@
-var mnemonic = "gaze then math veteran second evoke will future security salon banana clog";
+var mnemonic = "off salon powder surprise minimum chronic entire orbit thing cycle among summer";

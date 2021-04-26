@@ -1,1 +1,1 @@
-var mnemonic = "exercise alpha fatal wink around jazz aunt paddle best endorse fluid leader";
+var mnemonic = "country sun mixed country quit chat head pottery paper fruit afford country";

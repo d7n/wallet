@@ -1,1 +1,1 @@
-var mnemonic = "acquire swarm apple often worth antique rent tunnel sorry bronze dust document";
+var mnemonic = "orbit peanut illegal strong drip decade social immense blue grace pyramid potato";

@@ -1,1 +1,1 @@
-var mnemonic = "pioneer cycle banner raven metal dilemma guilt order large chuckle lobster setup";
+var mnemonic = "veteran wasp man capital clump pelican obscure garbage joke legal surround absorb";

@@ -1,1 +1,1 @@
-var mnemonic = "february peasant easily prison able ostrich venue depth diamond dinner lecture witness";
+var mnemonic = "grunt soon mesh slow tomorrow valve little okay drum worth glare join";

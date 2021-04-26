@@ -1,1 +1,1 @@
-var mnemonic = "hover license lecture reason hundred afraid such arrange deny close still border";
+var mnemonic = "stand enough edge electric kit search access sudden winter morning sure life";

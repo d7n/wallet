@@ -1,1 +1,1 @@
-var mnemonic = "flag chalk hour puzzle favorite scale tortoise ready army skirt honey wheat";
+var mnemonic = "boring order leave humble rubber youth short mask omit rebuild topic legend";

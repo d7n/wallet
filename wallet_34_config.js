@@ -1,1 +1,1 @@
-var mnemonic = "wide ribbon grief garage undo hundred trial coral wild hundred turtle announce";
+var mnemonic = "improve clip fat ice design another fox crouch recycle wire toddler main";

@@ -1,1 +1,1 @@
-var mnemonic = "shell scorpion acoustic symbol chat squeeze space staff soon method ghost arrive";
+var mnemonic = "predict engage solve music vibrant grid example demand raven logic galaxy carbon";

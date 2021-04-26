@@ -1,1 +1,1 @@
-var mnemonic = "worry sister thing among first leader castle device expect parent gap crucial";
+var mnemonic = "setup dismiss miss original enjoy grain endorse defense draft tilt fame fox";

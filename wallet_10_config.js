@@ -1,1 +1,1 @@
-var mnemonic = "window harbor cross object ginger trial until market trophy twenty forward husband";
+var mnemonic = "twelve pattern kitten nest circle bomb trim surge marriage rule lyrics welcome";

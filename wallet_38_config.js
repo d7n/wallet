@@ -1,1 +1,1 @@
-var mnemonic = "thank canoe soon belt hold sadness verb panther dinner cigar spawn cloud";
+var mnemonic = "wonder ripple child man grain chef alien fossil logic shallow fatigue good";

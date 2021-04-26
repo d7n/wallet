@@ -1,1 +1,1 @@
-var mnemonic = "height anchor program course parrot find exile picture drink right design identify";
+var mnemonic = "provide silver coral vague arena merit little clump news account urge peace";

@@ -1,1 +1,1 @@
-var mnemonic = "april amount hidden say tenant ugly oval already ketchup around chimney fine";
+var mnemonic = "size depart goat foil surface awful muscle chunk solution abandon cattle focus";

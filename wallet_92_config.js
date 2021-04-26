@@ -1,1 +1,1 @@
-var mnemonic = "own inch basket outer entry blush helmet position control cannon spawn hint";
+var mnemonic = "nurse struggle coach climb hub silly trade unit crane lion topic bunker";

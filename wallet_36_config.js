@@ -1,1 +1,1 @@
-var mnemonic = "actress floor robust manage defense exhibit embody boss erase monkey spawn huge";
+var mnemonic = "donkey interest collect bitter law put tape rely because custom cupboard ship";

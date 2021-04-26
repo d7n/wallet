@@ -1,1 +1,1 @@
-var mnemonic = "dirt rug carbon best coconut fuel bubble kingdom ride hero carry cycle";
+var mnemonic = "excess treat extend sword top razor lazy rich stumble omit bargain diagram";

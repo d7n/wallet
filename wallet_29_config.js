@@ -1,1 +1,1 @@
-var mnemonic = "outside figure ignore recipe crowd cluster unfair silk motor bind slab utility";
+var mnemonic = "paper afraid enact tuna barrel exhaust inspire sail casino admit step address";

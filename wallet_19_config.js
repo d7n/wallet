@@ -1,1 +1,1 @@
-var mnemonic = "plug awake clerk project similar plunge owner special always sad shine what";
+var mnemonic = "conduct half inmate gold praise hello atom jar midnight hen time drastic";

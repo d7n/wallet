@@ -1,1 +1,1 @@
-var mnemonic = "control universe flat loud bargain unaware diet behave never lonely tag exotic";
+var mnemonic = "option sentence mobile virus found silk explain poet resemble stamp tackle example";

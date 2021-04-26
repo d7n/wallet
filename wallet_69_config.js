@@ -1,1 +1,1 @@
-var mnemonic = "ethics civil useless below artist defense excuse tank brand spare swear burger";
+var mnemonic = "moral motion wrap review doctor apart thing myself loop green wink wedding";

@@ -1,1 +1,1 @@
-var mnemonic = "six ahead indicate limit symptom artist honey useful aisle plastic virus jacket";
+var mnemonic = "analyst doctor tunnel clown include old scale action rebel impact orphan amount";

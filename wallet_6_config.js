@@ -1,1 +1,1 @@
-var mnemonic = "indicate dove man basket myself enough inmate guitar arrange bargain flock tenant";
+var mnemonic = "seminar sing among lizard trade deny worth husband wire relax tower remain";

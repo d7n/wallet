@@ -1,1 +1,1 @@
-var mnemonic = "gasp jump offer jazz quiz knife rich cute frame apple produce tribe";
+var mnemonic = "avocado vicious horn board slam oval corn enrich trade mass tired derive";

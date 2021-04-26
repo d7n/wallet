@@ -1,1 +1,1 @@
-var mnemonic = "kiwi tip smile broken replace royal twenty valley limit damage salmon feel";
+var mnemonic = "great opinion affair end garage enhance cute hole truck kid vibrant lion";

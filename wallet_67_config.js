@@ -1,1 +1,1 @@
-var mnemonic = "crime peasant fancy medal relief wife head sudden lemon region knee phone";
+var mnemonic = "broken donkey match total danger little torch swap witness recycle sorry occur";

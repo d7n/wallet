@@ -1,1 +1,1 @@
-var mnemonic = "warm they base door history grain stay march myth animal wrist limb";
+var mnemonic = "exchange shuffle reveal bean shield pole chat swallow balcony drum always tail";

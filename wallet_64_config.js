@@ -1,1 +1,1 @@
-var mnemonic = "season best also mom walk setup arrow face junior elder theme cake";
+var mnemonic = "husband frost tone ritual glimpse nose heavy lyrics section horror siren thought";

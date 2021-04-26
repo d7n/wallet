@@ -1,1 +1,1 @@
-var mnemonic = "stove acid tomato stairs robust ensure snap margin discover erupt nature false";
+var mnemonic = "left humor cattle stay track glove nominee fabric goat patrol garment fuel";

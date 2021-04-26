@@ -1,1 +1,1 @@
-var mnemonic = "ribbon damp adult mammal legend hurdle fatigue dwarf art utility fork broccoli";
+var mnemonic = "shock tumble monitor mystery salon rib poet merry swift column almost inside";

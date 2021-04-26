@@ -1,1 +1,1 @@
-var mnemonic = "crystal clump cabin alpha napkin plunge sea wine lounge rug trick able";
+var mnemonic = "convince design wait finger dust find question region detect conduct blanket impose";

@@ -1,1 +1,1 @@
-var mnemonic = "chuckle fashion tourist river draw frown skill ensure glare bicycle source vast";
+var mnemonic = "grief boy size claw wage famous inside excess coffee region artwork wild";

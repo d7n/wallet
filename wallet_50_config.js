@@ -1,1 +1,1 @@
-var mnemonic = "panda heavy ice runway curtain sister chase tongue tongue belt rely awesome";
+var mnemonic = "soul wait cancel episode master frog differ soccer flash habit winter oppose";

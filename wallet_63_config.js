@@ -1,1 +1,1 @@
-var mnemonic = "elevator toward wide drift whip excess buyer gaze second inside youth absurd";
+var mnemonic = "gap undo bubble welcome pig liar air guard diamond prefer side relax";

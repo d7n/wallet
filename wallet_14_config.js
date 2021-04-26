@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon swallow lobster valid goose can fork wagon tooth beef ridge priority";
+var mnemonic = "wing brush else raven photo table vessel medal between ketchup obscure brave";

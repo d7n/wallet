@@ -1,1 +1,1 @@
-var mnemonic = "because casual beef obtain flame laundry pink maze wish hold unaware beauty";
+var mnemonic = "increase alley chest travel air dinner square quality boost stick raise pause";

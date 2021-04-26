@@ -1,1 +1,1 @@
-var mnemonic = "duty news change hazard day rabbit puzzle ribbon devote knock silk title";
+var mnemonic = "palace nature claim staff lady bike orbit slim bless dream correct alien";

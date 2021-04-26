@@ -1,1 +1,1 @@
-var mnemonic = "pig place smooth umbrella obey absent exit agent chalk grant mix combine";
+var mnemonic = "before ketchup chunk you mesh sock pulse chapter similar pistol behave quiz";

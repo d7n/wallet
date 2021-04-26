@@ -1,1 +1,1 @@
-var mnemonic = "orbit village tissue drip install brown imitate balcony cancel frog reopen library";
+var mnemonic = "erosion grain purse kangaroo gossip problem essence thank giant wear wave nasty";

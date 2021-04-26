@@ -1,1 +1,1 @@
-var mnemonic = "example task flash repair purpose state hundred garment magnet ceiling install kingdom";
+var mnemonic = "amateur drift envelope correct broom office route very inform weather connect obtain";

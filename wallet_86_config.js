@@ -1,1 +1,1 @@
-var mnemonic = "orient awful warm floor appear increase swift prosper basket glass admit cupboard";
+var mnemonic = "tuition time help cheap pill evil winner thrive index universe vacuum coil";

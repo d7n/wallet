@@ -1,1 +1,1 @@
-var mnemonic = "keep try item check seminar cargo aunt time guilt essay raise sphere";
+var mnemonic = "pony defy mask luxury hawk open wrestle kitchen total inner soap welcome";

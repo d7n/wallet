@@ -1,1 +1,1 @@
-var mnemonic = "address reason magic there shy horror ocean gap cube aim ginger little";
+var mnemonic = "swift gold spin frame vapor neglect drastic destroy rent patch cable various";

@@ -1,1 +1,1 @@
-var mnemonic = "isolate excess stereo give frequent lunar bonus common improve shine hundred abstract";
+var mnemonic = "zoo clump immense accident raccoon issue kidney canoe bachelor vital trumpet nominee";

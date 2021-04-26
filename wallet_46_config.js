@@ -1,1 +1,1 @@
-var mnemonic = "conduct fish train slender runway behind shock miss improve credit nest absent";
+var mnemonic = "pretty viable pitch panic junk present absent merit record add tired blood";

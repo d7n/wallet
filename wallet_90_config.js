@@ -1,1 +1,1 @@
-var mnemonic = "girl immune large pig wagon armor crime damage lamp joke heart crack";
+var mnemonic = "betray fever grow cube card uniform tone math fresh amount profit usual";

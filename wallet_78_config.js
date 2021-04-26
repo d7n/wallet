@@ -1,1 +1,1 @@
-var mnemonic = "tackle chat inquiry ladder aspect between reflect sword boss mountain bird expose";
+var mnemonic = "ridge where basket cruise hunt message fault estate arrest tonight among ritual";

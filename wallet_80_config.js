@@ -1,1 +1,1 @@
-var mnemonic = "code put furnace apple chief give dice snow hire debris margin egg";
+var mnemonic = "tray hood half harbor again script melody retreat summer clarify unit duty";

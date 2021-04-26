@@ -1,1 +1,1 @@
-var mnemonic = "hub truly conduct divert guilt message state inherit wrestle lens enough consider";
+var mnemonic = "offer train broom unable lounge shrug antique hedgehog stand couch twin put";

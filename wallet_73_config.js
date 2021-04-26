@@ -1,1 +1,1 @@
-var mnemonic = "chuckle proof host loud scrap light elephant icon inch brand drip sphere";
+var mnemonic = "donor knife mixture plug stage slim mistake lion sausage all olympic cloud";

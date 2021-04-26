@@ -1,1 +1,1 @@
-var mnemonic = "endorse globe ready enter april scheme sight toe check resemble later absorb";
+var mnemonic = "want dash episode merge table minimum fringe idea organ ranch reject second";

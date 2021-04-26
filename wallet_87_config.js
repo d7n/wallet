@@ -1,1 +1,1 @@
-var mnemonic = "lunar social switch exist arm useless axis rookie solution denial bridge face";
+var mnemonic = "mushroom december shuffle proud visual empower kitchen thrive unlock paddle accuse delay";

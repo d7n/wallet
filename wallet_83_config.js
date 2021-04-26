@@ -1,1 +1,1 @@
-var mnemonic = "camp medal tunnel just notice remove shoulder service mix lobster tumble glove";
+var mnemonic = "waste tube comfort prison laptop dress trap warfare depend major census coach";

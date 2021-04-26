@@ -1,1 +1,1 @@
-var mnemonic = "later supreme always amount say awkward blame junk habit insect legal option";
+var mnemonic = "vehicle ring wrong input visual discover boss velvet walk regular scale rescue";

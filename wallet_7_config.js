@@ -1,1 +1,1 @@
-var mnemonic = "resemble wisdom lyrics cost simple buffalo april box manual program host wet";
+var mnemonic = "kiwi amateur soft marble blush raw behave group bicycle okay powder friend";

@@ -1,1 +1,1 @@
-var mnemonic = "card elegant isolate crack idle radio budget embrace major man spread name";
+var mnemonic = "grass off vacuum index weird roast rule child quarter toilet toss skull";

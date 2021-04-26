@@ -1,1 +1,1 @@
-var mnemonic = "giraffe dial link inmate more alpha unusual country meadow swamp artist cousin";
+var mnemonic = "enlist ghost that behind glance crumble dove alpha category gravity ridge expire";

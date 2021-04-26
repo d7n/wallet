@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog approve dumb blame fix dune unhappy toward resource spring bar off";
+var mnemonic = "equip love lawsuit orphan notice favorite film erase poet grunt half insane";

@@ -1,1 +1,1 @@
-var mnemonic = "orange blame float problem into fall diet captain mammal measure plastic garment";
+var mnemonic = "wrestle bracket prison million pool law radar recipe boat parrot forest uniform";
