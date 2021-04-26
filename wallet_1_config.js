@@ -1,1 +1,1 @@
-var mnemonic = "cradle spawn group scrap above glad initial detect improve fly harvest prefer";
+var mnemonic = "poem huge shop woman pet twist wrist key inch apology earth tip";

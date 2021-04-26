@@ -1,1 +1,1 @@
-var mnemonic = "thunder theme eyebrow machine section put brave napkin thrive repair wink member";
+var mnemonic = "legal dinner raven income among load pink worry ability trigger wash ball";

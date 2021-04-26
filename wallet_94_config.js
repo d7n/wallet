@@ -1,1 +1,1 @@
-var mnemonic = "reflect report army grid all client genius language smart rude scale envelope";
+var mnemonic = "program sustain beef seven depart second crouch force base they affair churn";

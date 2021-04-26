@@ -1,1 +1,1 @@
-var mnemonic = "cream cable hope caution defy extend okay steak genuine soap leader lab";
+var mnemonic = "jacket tiger property bulk voyage health clock peasant soccer harvest miss silver";

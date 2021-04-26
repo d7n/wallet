@@ -1,1 +1,1 @@
-var mnemonic = "oak circle tiger link pledge secret close entire metal gold end small";
+var mnemonic = "sample gallery point relax clever across bread feature ecology silver size vacuum";

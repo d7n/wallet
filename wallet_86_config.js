@@ -1,1 +1,1 @@
-var mnemonic = "hub better leave riot razor clock adjust focus egg hybrid task knife";
+var mnemonic = "ozone elegant wood captain weasel faint boss advice ski nominee husband thrive";

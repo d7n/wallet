@@ -1,1 +1,1 @@
-var mnemonic = "price dry demise since iron minimum citizen isolate short clump grant image";
+var mnemonic = "pyramid hope curve junior flush round all chalk shoulder erode quiz ring";

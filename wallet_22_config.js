@@ -1,1 +1,1 @@
-var mnemonic = "arch entire income word pottery genuine merit cute peace enough wine angry";
+var mnemonic = "answer audit stove ethics bicycle toilet dune fluid confirm chronic raccoon faint";

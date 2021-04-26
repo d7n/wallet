@@ -1,1 +1,1 @@
-var mnemonic = "visual benefit true busy spike rain milk gesture display destroy fine skull";
+var mnemonic = "imitate holiday easy imitate grass region chuckle monster ship change struggle way";

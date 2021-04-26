@@ -1,1 +1,1 @@
-var mnemonic = "track whip amused exit ill reform surface modify auction lounge mind clay";
+var mnemonic = "relax kidney tank ritual absurd knife taste salt casino sunny woman banner";

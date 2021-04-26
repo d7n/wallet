@@ -1,1 +1,1 @@
-var mnemonic = "awake trigger bless midnight depend security impulse anger venue stumble kick economy";
+var mnemonic = "tooth drastic belt cloud turn purchase federal valid can snap chimney shuffle";

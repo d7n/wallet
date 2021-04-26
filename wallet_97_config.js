@@ -1,1 +1,1 @@
-var mnemonic = "dream crane express glory sustain duty silver bubble clarify riot apology garage";
+var mnemonic = "blue lyrics gallery bid wild guide vehicle fresh business penalty disease achieve";

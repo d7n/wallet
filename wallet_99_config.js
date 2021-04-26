@@ -1,1 +1,1 @@
-var mnemonic = "rely lounge remain system swim urban initial tired until kiwi agree narrow";
+var mnemonic = "maid steak apple family jealous vanish educate asthma basket slow party glue";

@@ -1,1 +1,1 @@
-var mnemonic = "melody reopen stem alter license shrug bunker armor visa flame ignore alien";
+var mnemonic = "poverty type purity staff hollow secret hole snake priority rose ring index";

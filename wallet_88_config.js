@@ -1,1 +1,1 @@
-var mnemonic = "diet cook quantum switch floor present bid circle kit potato mixed awesome";
+var mnemonic = "west autumn budget laugh maid erosion shrug curtain hawk priority blur book";

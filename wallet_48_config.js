@@ -1,1 +1,1 @@
-var mnemonic = "spoon spider biology squeeze deliver need small check caution biology palm truck";
+var mnemonic = "kit collect rate teach actress parrot boss give ensure month paddle pulse";

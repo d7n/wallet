@@ -1,1 +1,1 @@
-var mnemonic = "eight traffic photo lounge kiwi base crane update mansion exercise ocean rabbit";
+var mnemonic = "minor canoe confirm thunder trial brief despair pull oppose enforce tobacco furnace";

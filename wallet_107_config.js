@@ -1,1 +1,1 @@
-var mnemonic = "yellow anchor summer couch reduce tongue air simple coyote wrong cupboard dumb";
+var mnemonic = "poverty know hair learn tuna surprise ski grow hip couple alien fabric";

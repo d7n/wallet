@@ -1,1 +1,1 @@
-var mnemonic = "carpet wife peace nose promote siege build kiwi identify salad usual digital";
+var mnemonic = "hospital exercise shrug stand eight barrel viable enhance change merit mystery describe";

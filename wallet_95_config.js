@@ -1,1 +1,1 @@
-var mnemonic = "close fine salmon simple metal perfect syrup kick bean bind coral kitchen";
+var mnemonic = "fever anchor rent cup detail since width segment surprise drill dolphin title";

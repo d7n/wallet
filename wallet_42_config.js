@@ -1,1 +1,1 @@
-var mnemonic = "quality brother tide inside pig accident project satoshi offer fix old plate";
+var mnemonic = "baby rule render tuna illegal dilemma viable gesture muffin guilt pave scout";

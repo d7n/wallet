@@ -1,1 +1,1 @@
-var mnemonic = "gauge promote salute debris enjoy float govern recipe winter mirror token light";
+var mnemonic = "nut vendor mercy spatial equal retreat hub acid system venture invest flip";

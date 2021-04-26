@@ -1,1 +1,1 @@
-var mnemonic = "quit drama such oppose soul total noise someone flavor loyal pumpkin endless";
+var mnemonic = "treat help tag lava regret brick night word estate toilet survey luggage";

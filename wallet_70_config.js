@@ -1,1 +1,1 @@
-var mnemonic = "dentist assault anchor donate avoid loyal army skin upon gospel lumber crash";
+var mnemonic = "style fossil naive holiday power powder orchard clay cliff apple mansion safe";

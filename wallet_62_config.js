@@ -1,1 +1,1 @@
-var mnemonic = "into address omit describe wheel winner inherit sand sample dragon daughter will";
+var mnemonic = "rhythm adjust embark caught choice garment provide volume exist grow history impose";

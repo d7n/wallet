@@ -1,1 +1,1 @@
-var mnemonic = "cousin sheriff ecology soldier tool average fitness sausage episode immense oak demand";
+var mnemonic = "shove hamster tube gift aim exist sibling worth neither amateur pact torch";

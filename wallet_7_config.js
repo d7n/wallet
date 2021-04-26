@@ -1,1 +1,1 @@
-var mnemonic = "myself rookie small shoulder fluid jeans beauty mystery soon drift example message";
+var mnemonic = "fabric strategy cute satisfy festival february tattoo govern attitude abandon cherry title";

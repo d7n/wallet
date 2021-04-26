@@ -1,1 +1,1 @@
-var mnemonic = "endorse ask duty avoid foam forum embark club can embody gauge until";
+var mnemonic = "razor annual athlete doll private huge case gadget initial empower midnight like";

@@ -1,1 +1,1 @@
-var mnemonic = "resource good accuse flight cup motion manual three promote future enroll hollow";
+var mnemonic = "cheese danger embody fire clip exact distance nose bring column loop settle";

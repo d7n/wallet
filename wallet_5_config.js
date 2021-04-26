@@ -1,1 +1,1 @@
-var mnemonic = "pet banner useful rookie crystal version corn faint fiscal muffin lady thing";
+var mnemonic = "old antique expect appear scale comfort trumpet mansion verb weekend oyster gallery";

@@ -1,1 +1,1 @@
-var mnemonic = "gallery bargain loop deal worry risk sphere fog enroll noble joy dose";
+var mnemonic = "phone auction liquid pioneer tape cradle wagon when whisper grace lecture valley";

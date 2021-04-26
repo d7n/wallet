@@ -1,1 +1,1 @@
-var mnemonic = "giraffe manual glance tooth diesel ball grunt true absurd fire leopard fire";
+var mnemonic = "they become ramp lunar cousin feed force keen twin trim romance screen";

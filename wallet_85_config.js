@@ -1,1 +1,1 @@
-var mnemonic = "sign question satisfy giant lizard connect east panic doll social hunt vote";
+var mnemonic = "debate between purity ring same chest call taxi metal fragile real sadness";

@@ -1,1 +1,1 @@
-var mnemonic = "once muscle mother carbon swear before clump delay improve tower inquiry already";
+var mnemonic = "unhappy design parade lizard expose project dizzy cover fault hedgehog odor hidden";

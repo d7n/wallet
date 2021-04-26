@@ -1,1 +1,1 @@
-var mnemonic = "disagree quantum trip corn visual bottom pipe obey gasp mistake injury sing";
+var mnemonic = "firm leader cry above dial bacon thank heavy alcohol equip wall neither";

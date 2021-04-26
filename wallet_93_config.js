@@ -1,1 +1,1 @@
-var mnemonic = "toilet rather extra void sing dove turkey interest wrestle satisfy merge bundle";
+var mnemonic = "scatter use dizzy odor century add gate team remain sunset salute ride";

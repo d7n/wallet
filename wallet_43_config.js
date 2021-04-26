@@ -1,1 +1,1 @@
-var mnemonic = "detail where student anger announce junk poverty rain trim someone heart bachelor";
+var mnemonic = "ring add emerge buffalo want chase math track flag slot delay must";

@@ -1,1 +1,1 @@
-var mnemonic = "census stool mutual nothing merge engage coil antenna voice wine zero discover";
+var mnemonic = "silk hub engine expand view jar eternal mean latin feel cabbage snow";

@@ -1,1 +1,1 @@
-var mnemonic = "because crisp butter twist toddler attract saddle jazz property ensure lawn curtain";
+var mnemonic = "industry leave fox holiday ice minimum wisdom orange category memory bullet radar";

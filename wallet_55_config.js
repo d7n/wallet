@@ -1,1 +1,1 @@
-var mnemonic = "food uphold party liberty sun powder wrestle then shell edge detail cave";
+var mnemonic = "sail always avocado infant story lesson any pottery popular food grant ankle";

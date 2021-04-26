@@ -1,1 +1,1 @@
-var mnemonic = "ritual gorilla service print gadget bubble banana fancy rug blood wheel candy";
+var mnemonic = "oyster gun stay hospital apple earth boil few wonder wide rocket year";

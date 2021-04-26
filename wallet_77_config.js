@@ -1,1 +1,1 @@
-var mnemonic = "output assume train gain tool fluid juice autumn proud zone village wheat";
+var mnemonic = "grape route fog assume lesson elder chicken excuse task obtain pond that";

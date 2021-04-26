@@ -1,1 +1,1 @@
-var mnemonic = "young drive route fitness squirrel spice air mail elevator april voice various";
+var mnemonic = "voyage smart family hybrid garden forget umbrella world embrace torch fatal radio";

@@ -1,1 +1,1 @@
-var mnemonic = "clown skirt volume chuckle remind canyon smile grant snow squeeze fade useless";
+var mnemonic = "vacant vessel switch emerge funny used plunge pony company subway vicious midnight";

@@ -1,1 +1,1 @@
-var mnemonic = "across until pistol frog neglect bulb bicycle guard wife sample vault moon";
+var mnemonic = "license oyster saddle horror frown unique bundle bid print vendor dilemma casual";

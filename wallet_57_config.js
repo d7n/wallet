@@ -1,1 +1,1 @@
-var mnemonic = "trim ridge pair wool invite title crew sudden brief safe spend battle";
+var mnemonic = "rifle sting undo deny kingdom practice improve plastic virus trust budget wrestle";

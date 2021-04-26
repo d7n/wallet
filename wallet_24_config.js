@@ -1,1 +1,1 @@
-var mnemonic = "bamboo park dilemma inch front doll damage lyrics loud news brain put";
+var mnemonic = "nation life habit game cherry reunion furnace floor ring weapon soccer yellow";

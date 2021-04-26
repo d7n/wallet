@@ -1,1 +1,1 @@
-var mnemonic = "life reopen deny permit leave chuckle chief blood awful nominee weasel child";
+var mnemonic = "path ritual help sword hair trophy great arrange load rack hero tragic";

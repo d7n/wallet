@@ -1,1 +1,1 @@
-var mnemonic = "fly flush chapter extend enable tragic play print accuse spider first gown";
+var mnemonic = "liberty horn wife agree friend prize certain element bean dose jacket rely";

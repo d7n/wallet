@@ -1,1 +1,1 @@
-var mnemonic = "poverty dizzy boy icon tent normal glare grass shaft offer banana agree";
+var mnemonic = "whisper chicken secret file liar glory aware silly math benefit silver million";

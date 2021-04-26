@@ -1,1 +1,1 @@
-var mnemonic = "credit comfort art step scheme assist task tuna coconut govern wall since";
+var mnemonic = "useless travel farm home average only gesture promote ritual grid hurry square";

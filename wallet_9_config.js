@@ -1,1 +1,1 @@
-var mnemonic = "attend youth approve dog winter venue carbon high play chunk swim already";
+var mnemonic = "kick skull cupboard smoke client sphere gown frog then kick excite aspect";

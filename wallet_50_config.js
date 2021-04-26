@@ -1,1 +1,1 @@
-var mnemonic = "neutral napkin decorate south ridge wonder oak person furnace inflict decade grunt";
+var mnemonic = "cancel project tone vessel bid sense reduce collect dilemma never force fragile";

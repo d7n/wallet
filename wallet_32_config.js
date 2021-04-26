@@ -1,1 +1,1 @@
-var mnemonic = "carry labor bomb hunt original obscure light energy fame remind situate minor";
+var mnemonic = "strike attitude youth home report chicken current prize lemon green crater ski";

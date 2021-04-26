@@ -1,1 +1,1 @@
-var mnemonic = "doll creek easy away stairs twenty flush hand change erase wear bulk";
+var mnemonic = "forward mercy use feed maid cargo brick mean tone awake foot thrive";

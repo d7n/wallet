@@ -1,1 +1,1 @@
-var mnemonic = "bargain wood air index limit annual box exit split meadow imitate roast";
+var mnemonic = "heart lens corn witness genius tray attack jazz machine hen home like";

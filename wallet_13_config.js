@@ -1,1 +1,1 @@
-var mnemonic = "mom dragon reveal saddle outside surge require giant shell glide piece firm";
+var mnemonic = "latin mercy amateur wreck assume kit tennis local lab science funny globe";

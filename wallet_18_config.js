@@ -1,1 +1,1 @@
-var mnemonic = "dilemma regular sponsor skirt resemble client property hover glory left pistol road";
+var mnemonic = "weather move price remain employ oblige pilot creek choice special mandate north";

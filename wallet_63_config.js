@@ -1,1 +1,1 @@
-var mnemonic = "bargain seminar ancient simple vast absent assist bamboo inquiry chase aunt rabbit";
+var mnemonic = "security type metal derive virus tape dinner penalty fork target image wait";

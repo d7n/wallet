@@ -1,1 +1,1 @@
-var mnemonic = "food abandon interest little sleep young sweet various today guard kick obvious";
+var mnemonic = "museum sand used toilet client oven wise outside vacuum forget east exhaust";

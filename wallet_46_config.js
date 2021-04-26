@@ -1,1 +1,1 @@
-var mnemonic = "cycle cabbage guess pool snap top frozen portion fiscal clock best yard";
+var mnemonic = "warrior garage notice hammer salute museum pull build service month pull tooth";

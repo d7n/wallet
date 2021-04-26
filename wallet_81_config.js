@@ -1,1 +1,1 @@
-var mnemonic = "keen style setup photo obtain margin tell danger scrap clerk mammal prize";
+var mnemonic = "quote same hold law small company rely predict chief region fish pair";

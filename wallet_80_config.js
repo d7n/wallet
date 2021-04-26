@@ -1,1 +1,1 @@
-var mnemonic = "barrel animal school retire fiction soup unveil course hundred sick zero assume";
+var mnemonic = "device rural equip stadium outside drama drink impose round junk coast thank";

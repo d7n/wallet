@@ -1,1 +1,1 @@
-var mnemonic = "stuff traffic where clutch neck glance evoke disagree renew airport soda yard";
+var mnemonic = "virtual soon unlock menu sail shift risk oven ignore object wife violin";

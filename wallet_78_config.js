@@ -1,1 +1,1 @@
-var mnemonic = "action above senior solar page answer sister spring foot entire upgrade clown";
+var mnemonic = "knock narrow time adapt welcome pass whip rain tumble chronic lumber anger";

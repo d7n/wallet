@@ -1,1 +1,1 @@
-var mnemonic = "gold brave person joke found consider cover kiwi grief usual victory dilemma";
+var mnemonic = "syrup insane swift wink neck exact rabbit home mind spoil brand cool";

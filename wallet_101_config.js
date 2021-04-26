@@ -1,1 +1,1 @@
-var mnemonic = "spring company ancient announce long load diet grab load decrease crater smoke";
+var mnemonic = "moment debate mixed major snow scorpion cousin liar switch budget found immense";

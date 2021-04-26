@@ -1,1 +1,1 @@
-var mnemonic = "private chapter test warrior endless funny boss harvest pilot poverty canal buffalo";
+var mnemonic = "lion sheriff exchange butter cover six someone produce barrel puzzle car roof";

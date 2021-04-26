@@ -1,1 +1,1 @@
-var mnemonic = "they excess galaxy spider toast visit radar tag limb desert confirm spy";
+var mnemonic = "unlock hundred tail harsh time mirror smile device warm invest neck genius";

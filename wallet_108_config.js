@@ -1,1 +1,1 @@
-var mnemonic = "outer screen side winter topple include sing dad practice still peanut sphere";
+var mnemonic = "unaware attack correct toe spy index walnut sell pause annual crop metal";

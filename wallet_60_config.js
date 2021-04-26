@@ -1,1 +1,1 @@
-var mnemonic = "oppose glare clean merit canal lake love assist jelly toss confirm spawn";
+var mnemonic = "humor upgrade sword february void jaguar lock school forward spell squeeze tennis";

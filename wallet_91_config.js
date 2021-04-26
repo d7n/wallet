@@ -1,1 +1,1 @@
-var mnemonic = "consider sick side member gaze divert large more salute zone hover light";
+var mnemonic = "velvet describe gauge act stable impact actor deny blind shuffle index water";

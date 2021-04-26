@@ -1,1 +1,1 @@
-var mnemonic = "punch social always mystery evoke enter flame enemy entry small range glass";
+var mnemonic = "box zoo puzzle uncle mechanic royal festival sense liar upper much retire";

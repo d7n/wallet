@@ -1,1 +1,1 @@
-var mnemonic = "clarify crane invite slender economy uphold arrive oak horn august produce slim";
+var mnemonic = "carbon actress grow hawk sign digital slogan amazing length float clerk select";

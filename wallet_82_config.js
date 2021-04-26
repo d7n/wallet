@@ -1,1 +1,1 @@
-var mnemonic = "nothing dance liberty hurt apple endless bind assume first frame frequent strong";
+var mnemonic = "twenty quiz citizen setup unfold slim old kiss cash gloom detail shock";

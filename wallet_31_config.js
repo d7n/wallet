@@ -1,1 +1,1 @@
-var mnemonic = "exercise smooth apple boil honey mountain east rally sunny rapid elevator demand";
+var mnemonic = "write dumb region kidney monster load genius argue expose offer man museum";

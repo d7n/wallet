@@ -1,1 +1,1 @@
-var mnemonic = "car neither fault target pupil miss monster grit weather quarter hire hurt";
+var mnemonic = "bracket surge tail cry achieve guard august sample country execute reward civil";

@@ -1,1 +1,1 @@
-var mnemonic = "disorder weekend equal mesh maple rack loop year lamp almost wreck trip";
+var mnemonic = "silent nation wheat ship curve mirror blade test below deliver crop apple";

@@ -1,1 +1,1 @@
-var mnemonic = "south worry south fabric obscure buyer book shrug wage task elder ocean";
+var mnemonic = "fossil pole indicate tag desk sketch short retire shoe parade soul similar";

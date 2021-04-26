@@ -1,1 +1,1 @@
-var mnemonic = "sister mouse gun tennis small bar park inflict long action nation black";
+var mnemonic = "garlic sniff aspect basic smart feel air tower method actress act ridge";

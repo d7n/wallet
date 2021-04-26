@@ -1,1 +1,1 @@
-var mnemonic = "useful pole gospel alter photo nuclear false dad velvet tent breeze like";
+var mnemonic = "panther survey tone float exile whisper idle spy normal protect bicycle page";

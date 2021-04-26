@@ -1,1 +1,1 @@
-var mnemonic = "mirror large option churn coffee lens kangaroo smart tray select planet similar";
+var mnemonic = "candy recipe ripple favorite present country project industry gauge toilet type stool";

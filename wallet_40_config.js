@@ -1,1 +1,1 @@
-var mnemonic = "case risk thunder stick purpose warrior kid run symbol donkey agree wood";
+var mnemonic = "abuse decorate push width coach dwarf dawn lunch sock security emotion season";

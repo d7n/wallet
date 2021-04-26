@@ -1,1 +1,1 @@
-var mnemonic = "skirt bid practice pledge purpose merit same endorse install royal dice theory";
+var mnemonic = "inspire mule wrestle belt health cable dragon husband convince derive vehicle romance";

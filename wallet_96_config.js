@@ -1,1 +1,1 @@
-var mnemonic = "output sniff old local grant theory enrich purse employ food tooth clean";
+var mnemonic = "ramp field remember myth defense trust survey law noise census craft crash";

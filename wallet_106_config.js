@@ -1,1 +1,1 @@
-var mnemonic = "differ dynamic shop tiger flip also short puppy between garage around say";
+var mnemonic = "castle butter purpose robot leisure lemon letter enter hedgehog trick suit liar";

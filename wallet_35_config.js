@@ -1,1 +1,1 @@
-var mnemonic = "father what term work phone cram maple defense affair veteran submit rigid";
+var mnemonic = "promote menu pigeon monster diamond prize allow blood badge flock ring radar";

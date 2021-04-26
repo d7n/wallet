@@ -1,1 +1,1 @@
-var mnemonic = "swing trumpet three stem emotion butter pride season nasty visual obvious problem";
+var mnemonic = "hammer orchard nothing soul salon impose hunt country west real rubber push";

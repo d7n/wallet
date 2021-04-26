@@ -1,1 +1,1 @@
-var mnemonic = "cup business shove ranch reform stand come blouse essence display chicken victory";
+var mnemonic = "dawn barely believe chimney exit desk fiscal tattoo pottery inform spend east";

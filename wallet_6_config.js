@@ -1,1 +1,1 @@
-var mnemonic = "desk blue quantum top mixed hurt relax bus swamp spider canvas purse";
+var mnemonic = "wolf connect recycle brisk laptop practice submit tortoise duty amateur aware bag";
