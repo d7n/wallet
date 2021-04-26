@@ -1,1 +1,1 @@
-var mnemonic = "discover depart recycle consider hamster used brand night enjoy tube panther demise";
+var mnemonic = "pond gentle engage slam fat hunt ride window involve lounge stamp employ";

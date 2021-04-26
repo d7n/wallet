@@ -1,1 +1,1 @@
-var mnemonic = "churn truth swarm crystal oven calm bring protect exact bulb crater rude";
+var mnemonic = "tilt orange please side lift symptom bronze hold refuse obtain crew adapt";

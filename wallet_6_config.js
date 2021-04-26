@@ -1,1 +1,1 @@
-var mnemonic = "sister seek return obtain trim course churn clerk evoke ski empower derive";
+var mnemonic = "cinnamon hold immune ability satoshi misery three elephant entry danger force meat";

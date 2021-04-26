@@ -1,1 +1,1 @@
-var mnemonic = "possible forward camp basket twenty police toward rude original faith usual science";
+var mnemonic = "permit arch trade diary belt impose cage hour crime rebel keep cash";

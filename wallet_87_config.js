@@ -1,1 +1,1 @@
-var mnemonic = "town element top mesh margin bounce boost mask recycle level jeans notice";
+var mnemonic = "tourist section keen hub until pencil toward key sample twelve brush hood";

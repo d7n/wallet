@@ -1,1 +1,1 @@
-var mnemonic = "gadget coffee list update ritual family language camera grow rely tower rose";
+var mnemonic = "heavy burst fence width mother element web access ancient ability economy elephant";

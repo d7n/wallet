@@ -1,1 +1,1 @@
-var mnemonic = "yard furnace shed honey bulk donor beach daughter clarify vibrant sudden topic";
+var mnemonic = "nasty acoustic object capital ocean faculty fit ride general major mask boy";

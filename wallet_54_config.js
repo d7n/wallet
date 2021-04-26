@@ -1,1 +1,1 @@
-var mnemonic = "choose oak ball history entry horse program camera sunny another replace sort";
+var mnemonic = "fancy adult position gloom true box travel idea vendor right hair battle";

@@ -1,1 +1,1 @@
-var mnemonic = "sadness excess grace domain vanish fantasy mercy lesson parent square account lock";
+var mnemonic = "bicycle verify mother shift catalog flip glide rabbit gallery inform topic resource";

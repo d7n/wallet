@@ -1,1 +1,1 @@
-var mnemonic = "boost above man option exist spin odor pitch worth copper excess narrow";
+var mnemonic = "imitate become library input fortune valid absent animal erupt leaf abstract appear";

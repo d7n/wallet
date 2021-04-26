@@ -1,1 +1,1 @@
-var mnemonic = "dose canoe city tape jeans wheat pupil couch travel master trick car";
+var mnemonic = "rather purchase edge unable often girl fantasy decline tomorrow wash can erosion";

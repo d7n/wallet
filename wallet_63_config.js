@@ -1,1 +1,1 @@
-var mnemonic = "benefit excuse tunnel black cube heart shift charge kidney crystal rather expand";
+var mnemonic = "lottery powder teach diagram pizza loud twenty oil ski worry inner voice";

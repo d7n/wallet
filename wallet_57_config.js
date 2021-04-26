@@ -1,1 +1,1 @@
-var mnemonic = "promote disorder seven globe drill alien cruel peasant tag excite sadness call";
+var mnemonic = "future taste silent little arctic canoe culture old bacon civil muffin powder";

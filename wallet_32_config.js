@@ -1,1 +1,1 @@
-var mnemonic = "curve pupil turn engage glow box pact grief diet leg stable evoke";
+var mnemonic = "nasty park reunion grass point effort aisle destroy animal angry check giraffe";

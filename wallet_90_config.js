@@ -1,1 +1,1 @@
-var mnemonic = "borrow control brief edge parrot scissors butter force mushroom lizard empower can";
+var mnemonic = "copper planet hour shallow result flip town collect royal tumble oil foil";

@@ -1,1 +1,1 @@
-var mnemonic = "grocery obtain clinic couple exact economy laptop clinic pen access focus spray";
+var mnemonic = "laundry kick broom city gravity milk border lonely easy woman behave pepper";

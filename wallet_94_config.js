@@ -1,1 +1,1 @@
-var mnemonic = "agent marble cushion name time flat jewel pull income fire worth fox";
+var mnemonic = "tumble cart host march bubble husband artefact win differ message scrub what";

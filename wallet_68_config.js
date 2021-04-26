@@ -1,1 +1,1 @@
-var mnemonic = "label vicious book child height stairs program toddler egg cloth orange private";
+var mnemonic = "monitor course crater evolve bamboo nephew flat marine unhappy keep often guitar";

@@ -1,1 +1,1 @@
-var mnemonic = "arrive renew invest rug junior tribe steel sister banner attack announce image";
+var mnemonic = "join double install symptom horn minor noble panic scheme soccer camera fruit";

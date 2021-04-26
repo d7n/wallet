@@ -1,1 +1,1 @@
-var mnemonic = "shoot garbage brand wave change auto loud topic subject tape syrup tomato";
+var mnemonic = "replace very just deer uncover swarm movie sponsor devote keen shell cancel";

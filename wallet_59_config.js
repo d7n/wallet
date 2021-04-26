@@ -1,1 +1,1 @@
-var mnemonic = "depth burst atom can symbol upper short federal identify gift street return";
+var mnemonic = "memory around degree sun exhibit answer clump luggage lamp scrub elevator infant";

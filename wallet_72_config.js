@@ -1,1 +1,1 @@
-var mnemonic = "another salute frozen word genuine ecology culture marine panda arena fault science";
+var mnemonic = "build notice make search oil broccoli measure draw hero rival desk title";

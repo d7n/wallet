@@ -1,1 +1,1 @@
-var mnemonic = "art green uncle dial nut sniff night young flash proud stereo genre";
+var mnemonic = "luggage penalty modify habit drama wild napkin armed laugh ball purse hat";

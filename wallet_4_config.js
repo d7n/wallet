@@ -1,1 +1,1 @@
-var mnemonic = "poet fruit name address deputy push cheap skin unit mail amount asset";
+var mnemonic = "laptop spot shuffle model first clutch message order carry escape rookie nice";

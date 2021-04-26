@@ -1,1 +1,1 @@
-var mnemonic = "jelly lava prepare trumpet panic husband fire dinosaur cigar across promote misery";
+var mnemonic = "menu beyond oil kite concert first victory carbon disorder around border school";

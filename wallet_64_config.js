@@ -1,1 +1,1 @@
-var mnemonic = "elephant copper color start decorate menu october forget second giant decrease list";
+var mnemonic = "pelican arrow busy connect mechanic before mandate one organ divert flock stone";

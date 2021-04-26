@@ -1,1 +1,1 @@
-var mnemonic = "develop note seven wool laptop usual snow pumpkin pass search dragon cave";
+var mnemonic = "feel area duck nose donate purity stable velvet morning clarify absorb model";

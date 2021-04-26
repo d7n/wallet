@@ -1,1 +1,1 @@
-var mnemonic = "found scrap stone initial defense absent hole amazing half space farm industry";
+var mnemonic = "visit ranch spy chalk blouse stairs upon raise food dolphin embrace process";

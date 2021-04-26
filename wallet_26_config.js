@@ -1,1 +1,1 @@
-var mnemonic = "soccer gloom life divert sadness flock film fall amazing album evoke unlock";
+var mnemonic = "orient load cable reform dignity aerobic achieve hover journey reject select sorry";

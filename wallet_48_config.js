@@ -1,1 +1,1 @@
-var mnemonic = "moral ridge easily business immune sun patrol match desk frequent region naive";
+var mnemonic = "answer cheap unit mimic scissors excess sell cement blade sure rival paddle";

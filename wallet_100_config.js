@@ -1,1 +1,1 @@
-var mnemonic = "cannon tomorrow camp twin drum canyon canal salute bacon spatial elite rhythm";
+var mnemonic = "trumpet topic shield shuffle marine trash canyon female aisle reduce tiny man";

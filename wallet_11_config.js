@@ -1,1 +1,1 @@
-var mnemonic = "crisp trust food cram crawl lottery accuse arrange enroll flee dust derive";
+var mnemonic = "curious security net eager cricket couch during arctic clap cancel energy light";

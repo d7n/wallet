@@ -1,1 +1,1 @@
-var mnemonic = "rule animal hold make scout month load boost aim eagle regular unveil";
+var mnemonic = "grape increase goddess attract cigar great say lawn gown deny conduct dust";

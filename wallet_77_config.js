@@ -1,1 +1,1 @@
-var mnemonic = "horse patient just final army surprise jacket fiction slide easily humor journey";
+var mnemonic = "blouse multiply loop camera amazing pair practice robust web coyote dust profit";

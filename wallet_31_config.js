@@ -1,1 +1,1 @@
-var mnemonic = "ill jump install panic lens soda buzz absorb suggest saddle robot laptop";
+var mnemonic = "electric proof document hurt soon music ghost nuclear job valley exist cargo";

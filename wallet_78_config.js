@@ -1,1 +1,1 @@
-var mnemonic = "fall upset subway long critic kiss tornado trip beauty crumble battle correct";
+var mnemonic = "spell comic wisdom width team borrow head nature eternal quality sell best";

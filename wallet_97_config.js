@@ -1,1 +1,1 @@
-var mnemonic = "bracket reduce dismiss fog luggage between later crane snap crawl subject ride";
+var mnemonic = "crane tent round morning barely negative topic pioneer license cousin lake moment";

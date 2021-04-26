@@ -1,1 +1,1 @@
-var mnemonic = "neutral fiber original lens chase expire depend van lens intact fun cross";
+var mnemonic = "squirrel proof subway raw raw tape stage morning toilet enlist lawsuit place";

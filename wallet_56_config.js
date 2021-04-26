@@ -1,1 +1,1 @@
-var mnemonic = "weasel insect fortune time office country scene suffer wealth regret stay student";
+var mnemonic = "escape thunder absorb cigar outdoor fortune coach wisdom chase crawl craft drop";

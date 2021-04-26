@@ -1,1 +1,1 @@
-var mnemonic = "burden benefit early pizza dizzy door spike journey polar toss stereo gain";
+var mnemonic = "mail mix kiwi near lottery piece safe adapt enrich riot act laptop";

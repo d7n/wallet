@@ -1,1 +1,1 @@
-var mnemonic = "torch toss wrong ice cabin cause kitchen motion indicate clump luggage swift";
+var mnemonic = "town loyal hurt dream blade patrol penalty enrich rural wish year insect";

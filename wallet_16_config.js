@@ -1,1 +1,1 @@
-var mnemonic = "dad feed opera zebra smile mix tomato robust few barrel worry ski";
+var mnemonic = "negative marble foot cool cake vendor ship order century bomb genuine resist";

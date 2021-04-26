@@ -1,1 +1,1 @@
-var mnemonic = "curve skin grunt clay actress kitten train lion web island chief foil";
+var mnemonic = "diagram ranch boost donkey route volume dose neglect absorb common delay faith";

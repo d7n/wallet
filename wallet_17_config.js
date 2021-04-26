@@ -1,1 +1,1 @@
-var mnemonic = "home mixture green repeat vicious plastic ladder fabric security margin rough sad";
+var mnemonic = "clean member park security faint great buzz zoo farm barely buddy maid";

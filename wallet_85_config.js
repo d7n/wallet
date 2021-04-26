@@ -1,1 +1,1 @@
-var mnemonic = "script detail slab accident cart color chicken move govern mandate grain oak";
+var mnemonic = "horn arrest purity poverty blade business spy pact sausage hair soccer dentist";

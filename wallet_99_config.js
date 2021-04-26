@@ -1,1 +1,1 @@
-var mnemonic = "mosquito quarter liquid hope breeze clump cash neither liar spot fuel celery";
+var mnemonic = "slice dinosaur model notable inmate large brick news scrub rebel soccer repeat";

@@ -1,1 +1,1 @@
-var mnemonic = "bridge top number swamp behind mad speak submit install nation ocean exclude";
+var mnemonic = "mushroom exhaust element search domain garbage casual response network orbit left kiss";

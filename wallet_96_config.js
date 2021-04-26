@@ -1,1 +1,1 @@
-var mnemonic = "rifle swap silver picture victory pudding siege isolate exit ordinary car canyon";
+var mnemonic = "alarm rival inform piano paper unfair siege crumble true emotion brain brick";

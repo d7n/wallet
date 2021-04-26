@@ -1,1 +1,1 @@
-var mnemonic = "field vast intact twenty universe reward rally market income theme brisk decide";
+var mnemonic = "olive write gown jungle dignity spoil kidney night sign inject fresh cave";

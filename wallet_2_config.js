@@ -1,1 +1,1 @@
-var mnemonic = "coin rocket crazy illness lazy lounge explain stomach able swing loan city";
+var mnemonic = "dignity again glide size border marble absurd ecology program bike warrior buyer";

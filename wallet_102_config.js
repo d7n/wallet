@@ -1,1 +1,1 @@
-var mnemonic = "draft comic camera goddess cool share minor science plastic floor immense imitate";
+var mnemonic = "aspect chalk general trust brand history soul carry north vote length egg";

@@ -1,1 +1,1 @@
-var mnemonic = "brief lawsuit grocery moon pudding multiply equal cream casino body brain salute";
+var mnemonic = "cry property million snow bamboo age fatal cement valid enrich west roof";

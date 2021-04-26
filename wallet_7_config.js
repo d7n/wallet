@@ -1,1 +1,1 @@
-var mnemonic = "left stool wool drive woman ticket palm junior spread nasty weird coral";
+var mnemonic = "jelly lecture loan oil cook jump correct upgrade traffic subway embody warm";

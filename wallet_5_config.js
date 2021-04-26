@@ -1,1 +1,1 @@
-var mnemonic = "fox trap key story tooth stock ten cement relief damage glad canyon";
+var mnemonic = "sunny machine machine law cabin arrive busy enlist almost common online rough";

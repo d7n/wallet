@@ -1,1 +1,1 @@
-var mnemonic = "legend invite rhythm rice tone embody isolate bless spot family wall hospital";
+var mnemonic = "mimic glory pizza attract alcohol robust protect wolf double carpet word carry";

@@ -1,1 +1,1 @@
-var mnemonic = "vivid meat heart off recall eternal timber ceiling invite slight manual submit";
+var mnemonic = "elegant dawn gossip remove clutch claw area reject warrior length idle guess";

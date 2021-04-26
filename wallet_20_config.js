@@ -1,1 +1,1 @@
-var mnemonic = "bag palm reflect talent oak lemon digital mechanic slab good rack goat";
+var mnemonic = "focus sad mask explain leisure flower day bridge alley dinner sponsor april";

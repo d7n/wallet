@@ -1,1 +1,1 @@
-var mnemonic = "open correct slab truly craft cliff best slim cost awesome warm left";
+var mnemonic = "reopen country giggle priority canvas decade velvet palace vessel race choice phrase";

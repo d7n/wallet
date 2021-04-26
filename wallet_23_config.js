@@ -1,1 +1,1 @@
-var mnemonic = "analyst evoke crumble there soldier sea galaxy hen syrup nerve toward spider";
+var mnemonic = "olympic census enter dry exist trust tragic guard hidden extend middle actual";

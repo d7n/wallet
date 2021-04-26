@@ -1,1 +1,1 @@
-var mnemonic = "private enough multiply tribe when feed act salmon frog lottery delay anger";
+var mnemonic = "inquiry length possible action other timber egg exotic visit fame predict phone";

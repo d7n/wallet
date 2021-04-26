@@ -1,1 +1,1 @@
-var mnemonic = "crucial planet observe face first toe sphere possible device armed olympic imitate";
+var mnemonic = "flip alley pistol jungle core seat correct rose piano pizza heavy mosquito";

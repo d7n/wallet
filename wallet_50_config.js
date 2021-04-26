@@ -1,1 +1,1 @@
-var mnemonic = "ribbon liberty erosion claw profit omit wheel visual deposit random brain timber";
+var mnemonic = "tip snap few spice among art shop follow release shield language foot";

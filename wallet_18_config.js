@@ -1,1 +1,1 @@
-var mnemonic = "original into ritual exercise book fashion process truth push grief stand online";
+var mnemonic = "best pottery shallow word bomb often seven album clean stock entire emotion";

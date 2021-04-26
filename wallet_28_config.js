@@ -1,1 +1,1 @@
-var mnemonic = "awkward giant leader auction menu cream own bid swim three dawn zebra";
+var mnemonic = "employ notice link grit know club fly can happy pill soon polar";

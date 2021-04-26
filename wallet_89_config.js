@@ -1,1 +1,1 @@
-var mnemonic = "key fancy invite exhaust orange tube member buddy loyal pitch ancient indicate";
+var mnemonic = "modify knee sadness network cherry order hand pyramid long video whip action";

@@ -1,1 +1,1 @@
-var mnemonic = "doll invite spawn cupboard vital track hammer century wide rate olive design";
+var mnemonic = "supply cycle avoid hood eagle series liar leisure call riot lava cost";

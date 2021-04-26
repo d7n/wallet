@@ -1,1 +1,1 @@
-var mnemonic = "pause right diet tray size illness slot original butter afraid bright holiday";
+var mnemonic = "liar angry logic police injury unlock north wire marine caution drama circle";

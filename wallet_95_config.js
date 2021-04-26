@@ -1,1 +1,1 @@
-var mnemonic = "obtain doll medal finish insane cute female alpha gasp you recipe easy";
+var mnemonic = "exact truck acquire explain acoustic hand barrel lady chef deer collect napkin";

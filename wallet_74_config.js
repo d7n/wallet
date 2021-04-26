@@ -1,1 +1,1 @@
-var mnemonic = "cool legend narrow ride fluid assault caution bunker fish load rude develop";
+var mnemonic = "aware present rack lazy fame enter uphold derive club saddle gossip gauge";

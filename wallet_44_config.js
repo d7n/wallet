@@ -1,1 +1,1 @@
-var mnemonic = "girl rifle walk whale huge across burger gate typical cattle effort swift";
+var mnemonic = "review cost idea elite animal atom mountain inch tortoise pattern museum pause";

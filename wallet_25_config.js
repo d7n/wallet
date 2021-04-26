@@ -1,1 +1,1 @@
-var mnemonic = "test lady frog gaze response dream laptop moral camera fat merry kite";
+var mnemonic = "atom stage trim churn charge divert act total goat enrich extra right";

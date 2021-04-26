@@ -1,1 +1,1 @@
-var mnemonic = "manual ocean belt egg detail replace civil idea rose debate garbage climb";
+var mnemonic = "glue episode candy output urban sick climb someone leaf dust bus boost";

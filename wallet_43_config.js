@@ -1,1 +1,1 @@
-var mnemonic = "peasant left either must invite action monitor museum forum diary endless vintage";
+var mnemonic = "hello monitor maid biology portion vacant credit nice planet jacket market fabric";

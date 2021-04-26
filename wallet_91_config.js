@@ -1,1 +1,1 @@
-var mnemonic = "gap atom ivory grief orphan heavy borrow anxiety degree depend solution theme";
+var mnemonic = "angry endless face vapor arrive blossom senior right intact universe kite next";

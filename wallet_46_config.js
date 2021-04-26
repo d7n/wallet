@@ -1,1 +1,1 @@
-var mnemonic = "crop ask sell pencil weapon slab tool seminar general under creek car";
+var mnemonic = "base luxury catalog alter world increase razor salt pig clay garbage oyster";

@@ -1,1 +1,1 @@
-var mnemonic = "debate crane spawn celery exercise remove million slim leader surface cage promote";
+var mnemonic = "symptom lawsuit wet useless latin eagle various initial bacon remain science fragile";

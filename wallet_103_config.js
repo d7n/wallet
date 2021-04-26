@@ -1,1 +1,1 @@
-var mnemonic = "any consider pottery only novel knock protect rib deliver mountain benefit visit";
+var mnemonic = "wild slim canal juice unusual vault combine enlist toe better length buyer";

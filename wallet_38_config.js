@@ -1,1 +1,1 @@
-var mnemonic = "august smart awkward account popular fence harsh tired oval fetch crush blue";
+var mnemonic = "collect ritual crumble garage clap slide smile squirrel receive few chuckle roast";

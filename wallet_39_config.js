@@ -1,1 +1,1 @@
-var mnemonic = "list episode garlic tortoise cage rather cool pig bachelor opinion timber cave";
+var mnemonic = "rack account report admit famous whale electric abandon slam output chronic satoshi";

@@ -1,1 +1,1 @@
-var mnemonic = "problem inflict front hello blue boring flip rent fantasy uncle mountain column";
+var mnemonic = "census twin clever ozone praise seat old beef blanket wealth salute keep";

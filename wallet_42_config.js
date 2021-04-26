@@ -1,1 +1,1 @@
-var mnemonic = "property rebuild often used sphere cabbage topic arena above autumn claw zone";
+var mnemonic = "night nurse bike ugly witness nephew purse leave domain enroll during crash";

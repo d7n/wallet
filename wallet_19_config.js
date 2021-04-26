@@ -1,1 +1,1 @@
-var mnemonic = "test tiny congress veteran photo sniff box crush pulp bundle clever gauge";
+var mnemonic = "concert spare upgrade casino machine wreck bargain absorb cinnamon layer execute motor";

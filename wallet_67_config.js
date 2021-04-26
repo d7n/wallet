@@ -1,1 +1,1 @@
-var mnemonic = "badge fat canal congress pill toy photo rescue know accuse such quiz";
+var mnemonic = "stuff aunt clap tired year junior gallery famous hazard segment hand toast";

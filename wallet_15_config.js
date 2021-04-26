@@ -1,1 +1,1 @@
-var mnemonic = "window orphan immense eternal brother coconut tortoise upon glow vibrant meadow valley";
+var mnemonic = "express horse powder extend release reflect alone code behind property twin maze";

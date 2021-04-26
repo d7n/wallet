@@ -1,1 +1,1 @@
-var mnemonic = "volcano wolf husband duck icon torch ticket kiss boat bundle donkey hazard";
+var mnemonic = "advance apology increase answer banner that differ joke feature confirm evoke damage";

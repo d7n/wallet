@@ -1,1 +1,1 @@
-var mnemonic = "inquiry tonight ranch around woman brisk knife say fashion pass width render";
+var mnemonic = "switch rabbit this peasant saddle song magnet butter dragon feature can pledge";

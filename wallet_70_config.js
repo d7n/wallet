@@ -1,1 +1,1 @@
-var mnemonic = "cat multiply remind distance machine cable access pupil next afraid live child";
+var mnemonic = "scan infant flavor move parrot devote mistake kitten agree uncle wise trick";

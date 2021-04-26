@@ -1,1 +1,1 @@
-var mnemonic = "flat morning brother again attract boy silk destroy another guess satoshi web";
+var mnemonic = "please slight absorb evoke share clean possible casino typical front print crew";

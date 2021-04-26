@@ -1,1 +1,1 @@
-var mnemonic = "theme pact crumble column deer symbol heavy bullet chalk first often spatial";
+var mnemonic = "dress police arrive render supply rude verify joke ozone sentence buddy velvet";

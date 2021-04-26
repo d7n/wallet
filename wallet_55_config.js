@@ -1,1 +1,1 @@
-var mnemonic = "tree marble blast confirm weekend bag limit run dune palm outside slow";
+var mnemonic = "there media holiday milk waste veteran gain envelope gallery panic question they";

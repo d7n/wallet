@@ -1,1 +1,1 @@
-var mnemonic = "emotion tomorrow eye that infant outside certain hour scare lunch window useless";
+var mnemonic = "tumble ready theory drill draw sketch elbow fine dentist soda immense dinner";

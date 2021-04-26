@@ -1,1 +1,1 @@
-var mnemonic = "guilt solid matrix rescue tragic pipe furnace pink drop matter endorse wave";
+var mnemonic = "artist road define frown limit intact mail spring lake suit program yard";

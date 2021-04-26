@@ -1,1 +1,1 @@
-var mnemonic = "frequent pen coast endorse aisle bar expire wonder reform narrow glad volcano";
+var mnemonic = "service diary craft aisle sing buddy ozone bargain nest drip cupboard sorry";
