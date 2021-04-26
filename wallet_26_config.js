@@ -1,1 +1,1 @@
-var mnemonic = "credit laundry card improve speak peasant ankle pass need rice accident often";
+var mnemonic = "arrange dream ocean badge wood mention river know plastic violin curtain boil";

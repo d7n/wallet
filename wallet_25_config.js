@@ -1,1 +1,1 @@
-var mnemonic = "avocado honey odor stool blood mad onion spider else canyon salute fatal";
+var mnemonic = "dream motor fade agent please already lock bracket merge boost erase process";

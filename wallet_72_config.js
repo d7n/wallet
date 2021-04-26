@@ -1,1 +1,1 @@
-var mnemonic = "hospital consider bike dream please divert asthma critic tag become brother parade";
+var mnemonic = "zebra rough luggage moment speed try coral flame aspect cram depart chalk";

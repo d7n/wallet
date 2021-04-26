@@ -1,1 +1,1 @@
-var mnemonic = "intact better parent mouse laundry success library wonder session wrong deny obey";
+var mnemonic = "typical three enough tape million dice velvet canyon enhance surface rapid multiply";

@@ -1,1 +1,1 @@
-var mnemonic = "fatigue cluster club pause earth kangaroo pride win avocado snow essence reform";
+var mnemonic = "wrestle way hole energy tray elevator right sense twenty enhance prevent divide";

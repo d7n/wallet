@@ -1,1 +1,1 @@
-var mnemonic = "pull napkin census square boy soldier bottom egg rely front sibling lesson";
+var mnemonic = "loan jeans term stock camp chaos offer art very valve tide solve";

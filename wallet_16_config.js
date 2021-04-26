@@ -1,1 +1,1 @@
-var mnemonic = "chalk shrimp sugar trim nose path nice nature inside script outer unaware";
+var mnemonic = "forget length subject smoke old flavor topic employ imitate chimney junk bird";

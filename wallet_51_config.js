@@ -1,1 +1,1 @@
-var mnemonic = "inquiry resemble humble maze artwork subway either legal moral farm weekend praise";
+var mnemonic = "firm system addict artwork rather illegal stage screen achieve girl measure size";

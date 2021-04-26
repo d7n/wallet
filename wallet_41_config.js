@@ -1,1 +1,1 @@
-var mnemonic = "tape library people gate drill dress clump cliff bless system spare topic";
+var mnemonic = "sample protect twin limit furnace produce jacket diagram describe ignore enter work";

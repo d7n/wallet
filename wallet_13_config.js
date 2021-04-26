@@ -1,1 +1,1 @@
-var mnemonic = "guard wrong scorpion diamond delay top false frozen glue carbon swift crumble";
+var mnemonic = "obtain matter short okay vital kiwi equip tube swallow buyer fragile order";

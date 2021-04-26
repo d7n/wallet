@@ -1,1 +1,1 @@
-var mnemonic = "bid annual unknown flame foam resemble dolphin build shop announce helmet whale";
+var mnemonic = "logic always exhibit pottery adapt cup river forget ivory junior woman entire";

@@ -1,1 +1,1 @@
-var mnemonic = "boss salmon play fetch few library scout reduce trash manual front garbage";
+var mnemonic = "fork sand rail swear boy roast pause argue helmet fun axis loan";

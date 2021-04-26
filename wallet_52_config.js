@@ -1,1 +1,1 @@
-var mnemonic = "season stem diet acoustic reason pencil arrive insect lyrics success supply suffer";
+var mnemonic = "dinner portion people hint ladder step live confirm field ecology town country";

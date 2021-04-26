@@ -1,1 +1,1 @@
-var mnemonic = "lens lazy milk lab win meadow endorse used spy speak economy such";
+var mnemonic = "license yard pear flower butter vibrant wonder thought pond explain chef ability";

@@ -1,1 +1,1 @@
-var mnemonic = "analyst actor stone fade order nasty jealous want bright issue inflict radio";
+var mnemonic = "mad hint liberty piano fancy casino tiny urban spread sword ritual safe";

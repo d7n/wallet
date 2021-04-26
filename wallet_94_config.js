@@ -1,1 +1,1 @@
-var mnemonic = "scout antenna burden fit safe erase loop gold bracket best clean bean";
+var mnemonic = "usual device meat olive maximum century razor sunny lift muffin curtain gallery";

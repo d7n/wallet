@@ -1,1 +1,1 @@
-var mnemonic = "crater globe motor broccoli innocent again pet wheel dial legend raccoon mosquito";
+var mnemonic = "cushion spread rent token antique gesture myself review cushion choice ring salute";

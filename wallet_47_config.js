@@ -1,1 +1,1 @@
-var mnemonic = "symptom sadness tell success public exact ramp crew aerobic soccer dynamic rack";
+var mnemonic = "token enforce video sunny wall item gesture kit ski foam brief bracket";

@@ -1,1 +1,1 @@
-var mnemonic = "rocket mutual improve weird puppy tattoo left near thrive lucky type build";
+var mnemonic = "reason inject exact script column about insane between expect barely quiz hero";

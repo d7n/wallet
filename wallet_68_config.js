@@ -1,1 +1,1 @@
-var mnemonic = "hand patrol nephew frame shoe shift vast tragic burden craft want gain";
+var mnemonic = "lion one festival news olympic tent police main mule noodle sense kingdom";

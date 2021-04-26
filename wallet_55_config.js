@@ -1,1 +1,1 @@
-var mnemonic = "warrior tackle object brother evidence visual kangaroo pool bounce candy issue neutral";
+var mnemonic = "prefer predict layer vivid sorry donate size canoe index faith stool aim";

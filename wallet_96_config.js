@@ -1,1 +1,1 @@
-var mnemonic = "mosquito civil agree bread mosquito actual pledge analyst stool athlete clinic predict";
+var mnemonic = "gold time gym weekend old ostrich creek library boss lecture idea payment";

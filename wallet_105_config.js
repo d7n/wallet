@@ -1,1 +1,1 @@
-var mnemonic = "rice suit unlock citizen plastic ice fragile sure tiger trouble whip beef";
+var mnemonic = "during autumn rose reopen crazy solar marriage convince across debris canyon scout";

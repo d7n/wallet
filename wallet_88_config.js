@@ -1,1 +1,1 @@
-var mnemonic = "section odor segment safe truly attract critic glow misery ancient effort eye";
+var mnemonic = "mouse absurd spin adult stairs glide credit picture duck again canyon brick";

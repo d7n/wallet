@@ -1,1 +1,1 @@
-var mnemonic = "bulk mansion assist profit junior bag same session kite thrive endless diamond";
+var mnemonic = "security sunset end ketchup race marble festival shield helmet match retire myth";

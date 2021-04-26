@@ -1,1 +1,1 @@
-var mnemonic = "screen shadow key cabbage real vivid news choose valve blood obscure that";
+var mnemonic = "tunnel canoe capable humor now badge twenty sponsor carpet inflict curve plastic";

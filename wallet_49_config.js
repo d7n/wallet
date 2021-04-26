@@ -1,1 +1,1 @@
-var mnemonic = "real betray paddle narrow forest scissors sad soldier cake resist suffer still";
+var mnemonic = "sibling daughter decline galaxy someone awesome orphan soda spoon elegant found shuffle";

@@ -1,1 +1,1 @@
-var mnemonic = "squeeze small argue medal cool page carbon green style improve brass rice";
+var mnemonic = "exclude spend palace donkey snow jeans sport uniform token humor thunder mountain";

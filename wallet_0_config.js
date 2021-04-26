@@ -1,1 +1,1 @@
-var mnemonic = "shift human pistol boil buzz crew axis add hover farm voice frown";
+var mnemonic = "leave effort quarter carry fit please genius forward enable army lunar razor";

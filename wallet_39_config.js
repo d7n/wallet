@@ -1,1 +1,1 @@
-var mnemonic = "bitter capable thumb time weekend phone marriage nephew circle seven delay mistake";
+var mnemonic = "century table vivid proof exercise brass farm domain ticket screen credit symbol";

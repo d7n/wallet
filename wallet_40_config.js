@@ -1,1 +1,1 @@
-var mnemonic = "energy galaxy issue common reunion guide shrug convince bonus stereo rebel escape";
+var mnemonic = "metal pizza perfect web inquiry spoon model tray pyramid input coyote argue";

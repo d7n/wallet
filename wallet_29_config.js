@@ -1,1 +1,1 @@
-var mnemonic = "aerobic symptom garden erupt kid give artist depth aware bring cinnamon brush";
+var mnemonic = "february mistake win typical olive soap tribe wave seek gold marine seminar";

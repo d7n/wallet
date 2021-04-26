@@ -1,1 +1,1 @@
-var mnemonic = "mixture blush inside shield salad dumb matter dose swift dragon useful zero";
+var mnemonic = "odor capable forum kiss scorpion cat nation glory helmet mule satisfy fury";

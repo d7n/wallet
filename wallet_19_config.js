@@ -1,1 +1,1 @@
-var mnemonic = "they tuna weapon blur midnight concert call curve twice pluck veteran sleep";
+var mnemonic = "possible venue dream ritual coral ask cup argue indoor empower cotton token";

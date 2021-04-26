@@ -1,1 +1,1 @@
-var mnemonic = "they foil capable nice guitar poem offer public urban paper mimic echo";
+var mnemonic = "chuckle random plug odor meadow flight rack envelope drill have pave favorite";

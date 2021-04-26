@@ -1,1 +1,1 @@
-var mnemonic = "steak praise era pill pink gloom expire dash remind erase narrow panther";
+var mnemonic = "original endless few upon wheat noodle random false educate require another skirt";

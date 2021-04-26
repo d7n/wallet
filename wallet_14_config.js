@@ -1,1 +1,1 @@
-var mnemonic = "pudding common state bonus because scrub audit daring light august high viable";
+var mnemonic = "comic harsh nothing purchase electric refuse future valley give nominee canoe grief";

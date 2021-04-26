@@ -1,1 +1,1 @@
-var mnemonic = "kit inflict auto twelve frown dog mobile afford decide call steel online";
+var mnemonic = "evolve divide broccoli enroll actor unknown present document boost dust label bargain";

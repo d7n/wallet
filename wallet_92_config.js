@@ -1,1 +1,1 @@
-var mnemonic = "glass use entire market april maple victory cherry bleak orange front taste";
+var mnemonic = "come cook note tide globe power combine satoshi tissue winter cost buffalo";

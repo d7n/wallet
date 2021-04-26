@@ -1,1 +1,1 @@
-var mnemonic = "more dawn trial drift toast message gadget express hurry unique meat antenna";
+var mnemonic = "inmate purpose skate elite excess slow gate spirit flower hint tobacco ketchup";

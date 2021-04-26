@@ -1,1 +1,1 @@
-var mnemonic = "marriage tenant ceiling sing dial warm nose flavor eternal pretty rail oak";
+var mnemonic = "best hood blush grant hundred print coast secret club depart second obscure";

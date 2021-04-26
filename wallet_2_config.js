@@ -1,1 +1,1 @@
-var mnemonic = "soup inflict prison chase wreck brick elder lazy pink crowd vessel demise";
+var mnemonic = "rubber dawn boy head scan together three mobile scene cruel fork bicycle";

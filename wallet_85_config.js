@@ -1,1 +1,1 @@
-var mnemonic = "negative tell coral jeans clean rookie hub length immune virtual detect twenty";
+var mnemonic = "lizard six believe mail idle kangaroo expire inflict involve eyebrow helmet tape";

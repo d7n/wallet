@@ -1,1 +1,1 @@
-var mnemonic = "trouble thunder patient rate coyote kind punch clog cable collect square faculty";
+var mnemonic = "hammer tooth moment dune hood skirt across language chunk insect loan staff";

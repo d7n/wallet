@@ -1,1 +1,1 @@
-var mnemonic = "exclude shoe become member salon sphere wealth float jungle jump kit sauce";
+var mnemonic = "butter crouch net pudding upper pattern zone skin wood remember scout lesson";

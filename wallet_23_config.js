@@ -1,1 +1,1 @@
-var mnemonic = "hundred debate try offer ceiling grape hello among belt render almost tank";
+var mnemonic = "phone exotic add hedgehog woman bamboo vacant evil wall market goat fabric";

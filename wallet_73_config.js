@@ -1,1 +1,1 @@
-var mnemonic = "rural gain snap tackle unveil pass child tomato provide income flat priority";
+var mnemonic = "wish early twist head deny upset thrive trip later okay remember core";

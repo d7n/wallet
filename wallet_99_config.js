@@ -1,1 +1,1 @@
-var mnemonic = "text maid prison elevator wish rocket escape annual volume lunar parade aware";
+var mnemonic = "solution pattern day flush verb tissue layer symptom provide frog giraffe deliver";

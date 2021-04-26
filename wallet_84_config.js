@@ -1,1 +1,1 @@
-var mnemonic = "history pony hope cry exchange toast law scout employ leisure bachelor access";
+var mnemonic = "surge total fine year library source display suggest battle infant gasp hip";

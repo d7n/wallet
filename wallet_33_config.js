@@ -1,1 +1,1 @@
-var mnemonic = "marble basket practice alien unable umbrella inform rice coin good peasant lesson";
+var mnemonic = "equip what teach wrist bulb lumber milk beach sister left together sentence";

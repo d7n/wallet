@@ -1,1 +1,1 @@
-var mnemonic = "token field laugh powder bubble chronic small denial shaft friend pass train";
+var mnemonic = "deposit cake runway cycle escape write chalk bamboo idea waste aware old";

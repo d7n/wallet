@@ -1,1 +1,1 @@
-var mnemonic = "fade twice visual bone ship rapid menu smile umbrella cat retire glance";
+var mnemonic = "crush book village urban dinosaur river hen wrap happy fall decorate punch";

@@ -1,1 +1,1 @@
-var mnemonic = "alter rural plug gadget resist able umbrella economy intact whale salon breeze";
+var mnemonic = "segment buffalo during ship mad identify chaos oval jacket advance dawn side";

@@ -1,1 +1,1 @@
-var mnemonic = "light enact idea cloth leaf fringe thrive ugly present extra junior wild";
+var mnemonic = "rabbit alter toy finish afraid theme tattoo hire love armed valley one";

@@ -1,1 +1,1 @@
-var mnemonic = "spawn gap amazing lottery federal tell cigar virtual process mansion churn potato";
+var mnemonic = "repair calm cat thumb rocket morning satisfy grace fatigue invest license ball";

@@ -1,1 +1,1 @@
-var mnemonic = "essence magic copy work plate fury blur second ostrich orange follow chalk";
+var mnemonic = "essay mosquito lyrics song tackle office evolve kite behind blue involve false";

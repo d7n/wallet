@@ -1,1 +1,1 @@
-var mnemonic = "mango tackle series hill fan viable pizza fossil burger wrist flame crumble";
+var mnemonic = "jeans prize erosion victory have stomach cinnamon wolf success skill sense long";

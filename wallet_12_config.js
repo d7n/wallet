@@ -1,1 +1,1 @@
-var mnemonic = "educate wild pipe canal current warfare hero electric under tiger advice random";
+var mnemonic = "outside fatal job jealous other tool video tooth science river girl reunion";

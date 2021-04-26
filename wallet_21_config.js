@@ -1,1 +1,1 @@
-var mnemonic = "next bottom fever labor ahead faculty churn guilt flight napkin honey rubber";
+var mnemonic = "please observe hungry heavy unhappy sister kidney agent frog fuel cattle film";

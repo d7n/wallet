@@ -1,1 +1,1 @@
-var mnemonic = "proud seed equip level zone mosquito barrel sure what lawn symptom vapor";
+var mnemonic = "chest essay scan eternal buzz cargo glory vessel next success square there";

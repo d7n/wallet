@@ -1,1 +1,1 @@
-var mnemonic = "decline sure adult acquire review pink banana wine write inmate number sauce";
+var mnemonic = "acquire asthma sound slice flock begin street normal simple jump scatter clay";

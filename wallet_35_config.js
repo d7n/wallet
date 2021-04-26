@@ -1,1 +1,1 @@
-var mnemonic = "glide vast burst horror rookie helmet use grunt gain viable sunset gather";
+var mnemonic = "view vicious stove teach pupil agree area doctor final analyst tackle moment";

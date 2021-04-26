@@ -1,1 +1,1 @@
-var mnemonic = "clock victory bench trumpet vote dolphin despair cannon boil ridge volcano concert";
+var mnemonic = "average abstract lawn scrap front obvious tag grain race magnet omit iron";

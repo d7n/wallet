@@ -1,1 +1,1 @@
-var mnemonic = "burst snake provide square raven captain talk ethics private excess view urban";
+var mnemonic = "curious sound humble earth swift romance welcome head wink observe home thumb";

@@ -1,1 +1,1 @@
-var mnemonic = "idea nation chaos target donkey south position other buyer spoil retire polar";
+var mnemonic = "slab buzz relief jar other point brick cotton chase direct grape dish";

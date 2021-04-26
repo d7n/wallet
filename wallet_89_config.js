@@ -1,1 +1,1 @@
-var mnemonic = "resemble fame grape silent fade exclude hurt peasant drift animal erode second";
+var mnemonic = "absorb lion diesel blast quiz famous chef skirt move normal flee glue";

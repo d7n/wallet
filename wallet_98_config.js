@@ -1,1 +1,1 @@
-var mnemonic = "vote shoulder polar grass urge dirt sudden peanut all gauge drum alert";
+var mnemonic = "gadget time picnic foil dry juice alcohol embody chaos picture congress person";

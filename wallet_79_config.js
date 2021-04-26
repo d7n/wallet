@@ -1,1 +1,1 @@
-var mnemonic = "seat trick rhythm win recipe pioneer cave fall inch reveal danger favorite";
+var mnemonic = "either dragon pyramid mouse style sample obey arena notable again decade crater";

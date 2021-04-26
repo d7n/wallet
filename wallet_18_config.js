@@ -1,1 +1,1 @@
-var mnemonic = "lesson awesome infant sudden world true subject truth outdoor wrong client retreat";
+var mnemonic = "cricket bulb moon odor skate cinnamon maple frown trick brick glove sad";

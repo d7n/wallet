@@ -1,1 +1,1 @@
-var mnemonic = "they pull gospel useful avocado fortune bleak dismiss air ketchup tornado bacon";
+var mnemonic = "rocket token smooth wine immense art just noble disorder road tortoise spread";

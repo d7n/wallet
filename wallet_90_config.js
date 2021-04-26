@@ -1,1 +1,1 @@
-var mnemonic = "impulse radio bright throw cool brisk purchase fade junk wheat antique pause";
+var mnemonic = "inject curve replace school boy liberty peanut pencil inject design sleep blouse";

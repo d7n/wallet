@@ -1,1 +1,1 @@
-var mnemonic = "lottery wish until attack bread soldier gadget resist answer marriage lazy good";
+var mnemonic = "together uniform pupil draft trophy bitter praise gold orbit glance sibling cross";

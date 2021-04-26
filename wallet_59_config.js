@@ -1,1 +1,1 @@
-var mnemonic = "result gossip myth control enjoy undo minute december asset chase manual steak";
+var mnemonic = "knee enough waste tortoise diet exhibit chalk core height rack credit clown";

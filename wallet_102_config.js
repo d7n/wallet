@@ -1,1 +1,1 @@
-var mnemonic = "chronic know clump kidney stairs plug manual foam cube raw feed gorilla";
+var mnemonic = "draw helmet fashion memory trumpet expire field retire pioneer live two idea";

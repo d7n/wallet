@@ -1,1 +1,1 @@
-var mnemonic = "amount brown elbow gym muffin loud brief burden suggest october goat sunny";
+var mnemonic = "aim analyst dust work satoshi humor damage casual joke excuse brief injury";

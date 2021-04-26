@@ -1,1 +1,1 @@
-var mnemonic = "salute topple feel select only afford top promote verb acid thing bacon";
+var mnemonic = "aim bean lizard treat advice swallow people street velvet key digital rabbit";

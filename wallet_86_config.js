@@ -1,1 +1,1 @@
-var mnemonic = "dish invest bitter love clip today civil total shuffle biology faculty palm";
+var mnemonic = "canoe belt lizard soon answer leader release defy asset figure hard inspire";

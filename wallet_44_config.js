@@ -1,1 +1,1 @@
-var mnemonic = "fatal beyond soup dice destroy guitar pioneer coil rural net speed random";
+var mnemonic = "web rifle dignity depend scheme fresh visual shallow loan domain very anchor";

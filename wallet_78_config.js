@@ -1,1 +1,1 @@
-var mnemonic = "force twist garage adult card deer dune dirt major sad lemon snake";
+var mnemonic = "muscle uphold chief worth hobby father retire urge news pepper balance sauce";

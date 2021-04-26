@@ -1,1 +1,1 @@
-var mnemonic = "turkey since benefit monkey daughter round void type math canvas version during";
+var mnemonic = "pistol oblige proof chronic corn draft shoot guitar crisp soup price empty";

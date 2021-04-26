@@ -1,1 +1,1 @@
-var mnemonic = "eye awake biology omit scan typical frame absurd census crack solution female";
+var mnemonic = "rate armed surge govern still digital shrug toward obey spoil furnace believe";

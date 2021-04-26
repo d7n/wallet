@@ -1,1 +1,1 @@
-var mnemonic = "stairs organ glory pigeon champion afford certain stairs pact vital atom margin";
+var mnemonic = "junk gasp field eye eager hungry cable ocean super casino unlock rib";

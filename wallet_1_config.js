@@ -1,1 +1,1 @@
-var mnemonic = "differ situate radio settle machine marriage order connect dad soda unusual party";
+var mnemonic = "stock rifle fog fashion banana six belt march home junk orient table";

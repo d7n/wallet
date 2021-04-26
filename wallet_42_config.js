@@ -1,1 +1,1 @@
-var mnemonic = "drip ginger tip vessel video despair aisle zebra finger problem economy glory";
+var mnemonic = "young pig occur elite daughter early banana swift crash bird inspire grow";

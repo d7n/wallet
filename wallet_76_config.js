@@ -1,1 +1,1 @@
-var mnemonic = "pigeon tiny trim close vibrant riot vague casual furnace report guard chest";
+var mnemonic = "drill horse science phone library entry route spin pizza notable music again";

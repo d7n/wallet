@@ -1,1 +1,1 @@
-var mnemonic = "fault devote black strike theme dry final together unknown absurd art scrap";
+var mnemonic = "entry cram ethics pact want faith surge head that cash fluid pudding";

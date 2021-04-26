@@ -1,1 +1,1 @@
-var mnemonic = "surround shop unknown oppose mechanic sphere work salon soup retire potato banner";
+var mnemonic = "spawn soup affair twist buffalo farm where debris kitten cruise flag art";

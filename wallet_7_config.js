@@ -1,1 +1,1 @@
-var mnemonic = "embody electric fiscal birth autumn cause city cash regular better flight give";
+var mnemonic = "nice denial manage rent plunge zero shed exit inspire goat whale hybrid";

@@ -1,1 +1,1 @@
-var mnemonic = "alarm bitter bridge tube come idle kangaroo garment crater police picnic crater";
+var mnemonic = "honey era bench else outside promote chief mobile gauge taxi general lamp";

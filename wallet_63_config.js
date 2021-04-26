@@ -1,1 +1,1 @@
-var mnemonic = "attend detail seminar duty avocado camera office stamp grocery rather buffalo virus";
+var mnemonic = "derive muscle grid zero exhaust walk obscure swear style enlist tunnel sun";

@@ -1,1 +1,1 @@
-var mnemonic = "wife timber room vocal flock scan trim solve teach genius vacant grain";
+var mnemonic = "grain yellow faculty distance frozen feel east wire range flash delay category";

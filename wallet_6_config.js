@@ -1,1 +1,1 @@
-var mnemonic = "sing skate ensure ordinary select judge frozen quarter elephant cactus first access";
+var mnemonic = "pen duty solar brisk decrease demise popular float parent level typical nature";
