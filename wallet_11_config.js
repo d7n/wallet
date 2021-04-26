@@ -1,1 +1,1 @@
-var mnemonic = "width bracket space hood suit pottery dash hungry curious oak lottery monitor";
+var mnemonic = "potato loan bind ten device sail match congress vast frown drip reject";

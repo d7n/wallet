@@ -1,1 +1,1 @@
-var mnemonic = "swap slot march afraid advice swift badge deliver hawk turn govern sentence";
+var mnemonic = "need rich resist cupboard birth toy crater police wool kick prosper boat";

@@ -1,1 +1,1 @@
-var mnemonic = "steel sure swing buyer ability crack high until advance valid attack blood";
+var mnemonic = "build prefer now picnic theme weapon legend dutch crush naive diagram dragon";

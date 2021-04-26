@@ -1,1 +1,1 @@
-var mnemonic = "strategy maximum regret pilot mosquito lawn upper chat isolate peace security vintage";
+var mnemonic = "pigeon foster tourist purity royal cotton prize evil offer october army rent";

@@ -1,1 +1,1 @@
-var mnemonic = "double quantum mystery width travel wealth divide bunker course foil drill goat";
+var mnemonic = "sentence wreck actor home bullet concert tide knock problem network lumber lyrics";

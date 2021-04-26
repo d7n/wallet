@@ -1,1 +1,1 @@
-var mnemonic = "area oven issue avoid harsh anxiety mention theory quantum east you describe";
+var mnemonic = "month rifle trigger art brown swing blossom thank oxygen victory ball setup";

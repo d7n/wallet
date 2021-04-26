@@ -1,1 +1,1 @@
-var mnemonic = "supply equal wolf another feel learn depend favorite sting maze viable smooth";
+var mnemonic = "method disease ability normal pulp glide scene comfort sing laundry rebel ugly";

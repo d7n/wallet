@@ -1,1 +1,1 @@
-var mnemonic = "despair decide crack suspect case goose body donor critic dice orphan trim";
+var mnemonic = "depend creek human across kit job mother cousin mask elegant illegal street";

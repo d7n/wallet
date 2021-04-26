@@ -1,1 +1,1 @@
-var mnemonic = "woman across fiscal wrist bless miracle december firm hidden profit feed road";
+var mnemonic = "phrase regular color master morning enjoy picture struggle truth say bench six";

@@ -1,1 +1,1 @@
-var mnemonic = "almost twist penalty mercy victory cricket muffin found predict essence royal later";
+var mnemonic = "hurt concert maple female romance build dolphin penalty song mystery noise buzz";

@@ -1,1 +1,1 @@
-var mnemonic = "yard chest pet hover town bubble elder album worth lazy table minute";
+var mnemonic = "biology panther person love depth hire field citizen bunker island public park";

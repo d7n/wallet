@@ -1,1 +1,1 @@
-var mnemonic = "artwork obtain tree funny warrior humor layer swap hospital stomach liquid school";
+var mnemonic = "quick current model opinion tumble nerve load two ring twelve social dash";

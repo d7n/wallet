@@ -1,1 +1,1 @@
-var mnemonic = "toddler milk prefer file coffee cloth fossil crazy response feature wheat series";
+var mnemonic = "spring glass medal agent season butter burden primary jealous slight prize horse";

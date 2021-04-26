@@ -1,1 +1,1 @@
-var mnemonic = "scene rebuild holiday fish invest plug tongue galaxy custom waste slot basic";
+var mnemonic = "miss library brand drill judge neck radio diagram benefit allow senior trophy";

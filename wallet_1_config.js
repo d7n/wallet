@@ -1,1 +1,1 @@
-var mnemonic = "bronze range wheat round degree author kidney sphere fat slab admit soccer";
+var mnemonic = "witness hair yellow tilt bid render cake traffic repeat notice owner viable";

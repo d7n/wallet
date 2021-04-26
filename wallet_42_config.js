@@ -1,1 +1,1 @@
-var mnemonic = "pioneer make bright stool village actress dizzy manage april ketchup crisp dream";
+var mnemonic = "coil confirm jump noodle popular page moon pride prosper dash vague color";

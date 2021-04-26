@@ -1,1 +1,1 @@
-var mnemonic = "cactus vacuum infant drama novel roof tent recycle unaware club century plunge";
+var mnemonic = "measure quit gentle year burst wagon all remain way tide strong poet";

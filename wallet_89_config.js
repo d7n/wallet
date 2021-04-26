@@ -1,1 +1,1 @@
-var mnemonic = "home uncover gaze write leave scale follow beyond comic witness special inspire";
+var mnemonic = "hobby material visa hard picture price inspire frozen image indicate weekend curve";

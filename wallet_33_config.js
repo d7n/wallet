@@ -1,1 +1,1 @@
-var mnemonic = "abandon athlete topple name shallow swift lift shuffle error joy enact oppose";
+var mnemonic = "nut stick project true detect cousin happy filter viable three bottom brief";

@@ -1,1 +1,1 @@
-var mnemonic = "boring again royal response what merry cruise crop gap cup float employ";
+var mnemonic = "finger clerk horror science buddy friend matter vessel board spirit cactus tape";

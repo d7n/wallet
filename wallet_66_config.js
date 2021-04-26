@@ -1,1 +1,1 @@
-var mnemonic = "giraffe solution wisdom curve conduct elevator item stove whale endorse happy thought";
+var mnemonic = "vital wood disease capable absorb girl welcome nut develop learn sentence again";

@@ -1,1 +1,1 @@
-var mnemonic = "still window useful snack board slight enter hat nerve fringe ritual convince";
+var mnemonic = "bleak video infant board script congress bitter fat essence click upgrade change";

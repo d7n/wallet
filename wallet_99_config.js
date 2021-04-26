@@ -1,1 +1,1 @@
-var mnemonic = "sheriff move cost fold catalog clog hold leg oyster pull blind today";
+var mnemonic = "coin struggle enhance runway goddess happy popular adapt organ phrase beef acoustic";

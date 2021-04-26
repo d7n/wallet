@@ -1,1 +1,1 @@
-var mnemonic = "family pulse chunk lawsuit escape bid useful system safe squeeze amused tunnel";
+var mnemonic = "act jazz spatial verify priority member fog glare impose gas aisle hawk";

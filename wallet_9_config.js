@@ -1,1 +1,1 @@
-var mnemonic = "zebra barely antique vehicle element bitter crisp gasp street work chalk trust";
+var mnemonic = "hawk secret robot member know wheel broom end mix witness stomach soldier";

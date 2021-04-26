@@ -1,1 +1,1 @@
-var mnemonic = "nature absurd sort ticket mix invite knee oyster tell canoe clay fortune";
+var mnemonic = "blur cause satoshi retreat alpha hundred bubble funny ocean jazz average century";

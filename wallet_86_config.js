@@ -1,1 +1,1 @@
-var mnemonic = "spring fox expect afraid neglect comfort success wine wealth shield happy brain";
+var mnemonic = "spin orchard express burst clever grocery obvious hint sea wheat symptom weather";

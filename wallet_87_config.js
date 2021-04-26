@@ -1,1 +1,1 @@
-var mnemonic = "dawn bronze young firm kind gravity brain spray mimic nut link salt";
+var mnemonic = "spice pupil quality donate ordinary flight immune desk ticket step creek city";

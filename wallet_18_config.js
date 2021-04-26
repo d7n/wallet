@@ -1,1 +1,1 @@
-var mnemonic = "shrug return fence rebuild uncle early during crazy release sleep spread buzz";
+var mnemonic = "kingdom leg fault planet stable wet burst develop post saddle space hedgehog";

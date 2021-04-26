@@ -1,1 +1,1 @@
-var mnemonic = "text member cool educate opera screen giggle test use taxi home regret";
+var mnemonic = "bag account board flash supreme erase tone olive soda cruel spoon resist";

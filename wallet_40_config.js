@@ -1,1 +1,1 @@
-var mnemonic = "waste toilet student cross nose tackle ramp warfare napkin world lunar ski";
+var mnemonic = "curtain craft toe group era letter online program symptom inner link hotel";

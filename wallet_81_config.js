@@ -1,1 +1,1 @@
-var mnemonic = "brain vibrant interest blood fiscal input oval carbon film fatal garden solve";
+var mnemonic = "gauge action return bachelor skill ivory slide brisk response patrol correct detail";

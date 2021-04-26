@@ -1,1 +1,1 @@
-var mnemonic = "reject lounge alien flower toilet robust fatal sea empower yard bachelor into";
+var mnemonic = "future cage fold remember dream debate glass orchard senior enemy idea capable";

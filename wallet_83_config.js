@@ -1,1 +1,1 @@
-var mnemonic = "quote any remove skill deer pulse kitten news bike hen boring club";
+var mnemonic = "wall then rug describe cat educate relief industry garlic horse rather pull";

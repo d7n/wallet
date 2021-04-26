@@ -1,1 +1,1 @@
-var mnemonic = "nerve bomb patrol punch mechanic paddle couple error recall narrow dash utility";
+var mnemonic = "because enhance strategy card inspire roast submit sweet frame tag ask quick";

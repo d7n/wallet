@@ -1,1 +1,1 @@
-var mnemonic = "hazard punch include park pepper decide prepare siren travel power limb midnight";
+var mnemonic = "city journey neglect rate boost cave wire tuna type rabbit item stairs";

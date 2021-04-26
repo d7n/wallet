@@ -1,1 +1,1 @@
-var mnemonic = "dish extra naive raven lava isolate type pear black this sheriff image";
+var mnemonic = "lawsuit rotate disorder moment witness across peanut leader struggle popular attract patch";

@@ -1,1 +1,1 @@
-var mnemonic = "valley conduct strong rhythm margin ridge original spatial chronic craft subway coach";
+var mnemonic = "wheel say wire impose slogan regret actual glory board soul mass hood";

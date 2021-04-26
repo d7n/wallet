@@ -1,1 +1,1 @@
-var mnemonic = "weird earn service sure expand quantum predict citizen gentle essay trial female";
+var mnemonic = "ill cinnamon near black cross girl lounge reunion aerobic album inquiry wolf";

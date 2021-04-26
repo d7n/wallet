@@ -1,1 +1,1 @@
-var mnemonic = "range clarify buffalo fame relax favorite duty sauce analyst monster rifle endless";
+var mnemonic = "quote danger grain interest harbor dune focus picture erase mosquito ethics release";

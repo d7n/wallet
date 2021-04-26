@@ -1,1 +1,1 @@
-var mnemonic = "bird satisfy reflect zebra come pattern stamp capable outdoor demise liberty model";
+var mnemonic = "type assume course river pottery turn law mistake rhythm salmon early lottery";

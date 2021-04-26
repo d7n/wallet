@@ -1,1 +1,1 @@
-var mnemonic = "primary wide ethics air broccoli express rice group pulp negative abandon speed";
+var mnemonic = "scout dust donkey popular palm way electric scan antenna belt cruise busy";

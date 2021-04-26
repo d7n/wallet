@@ -1,1 +1,1 @@
-var mnemonic = "company system often food walk horse wash area palm gate true link";
+var mnemonic = "federal party vocal idea slow dress head hire siege sheriff retire mask";

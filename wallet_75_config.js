@@ -1,1 +1,1 @@
-var mnemonic = "lunch sister proud wave cup check spread volcano apart typical hotel exclude";
+var mnemonic = "average child effort major intact reunion fly speed robust hero route vague";

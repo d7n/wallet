@@ -1,1 +1,1 @@
-var mnemonic = "torch pink bus someone remain mosquito inner pepper joy hold movie ill";
+var mnemonic = "angle obtain milk found sister swift limb kidney armed damage lazy above";

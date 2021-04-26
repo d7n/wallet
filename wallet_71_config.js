@@ -1,1 +1,1 @@
-var mnemonic = "april roof sad congress mom diesel group refuse hunt plate acid quit";
+var mnemonic = "athlete blossom early balcony bread viable vintage loop guide game guilt uniform";

@@ -1,1 +1,1 @@
-var mnemonic = "bid one advance infant develop egg misery tree stem forum dinner dish";
+var mnemonic = "nation chimney palace metal column copy lion more ticket give other twice";

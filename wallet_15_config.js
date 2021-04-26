@@ -1,1 +1,1 @@
-var mnemonic = "party range flavor advance young violin price dizzy zone claw exit devote";
+var mnemonic = "modify climb crucial one grocery deposit voyage boss ride flash unlock talk";

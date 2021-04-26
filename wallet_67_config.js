@@ -1,1 +1,1 @@
-var mnemonic = "aerobic lizard vague below crawl ugly fall cause use park seven humble";
+var mnemonic = "ritual emerge fault person swap host news ticket ability host clump file";

@@ -1,1 +1,1 @@
-var mnemonic = "size orient path buzz hotel enemy profit rate orange claim shine maximum";
+var mnemonic = "orange emotion pioneer valve air honey marine blast mail planet issue inmate";

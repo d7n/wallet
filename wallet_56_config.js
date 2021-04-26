@@ -1,1 +1,1 @@
-var mnemonic = "decrease crazy kiss bargain wide mixture accuse region camera source seminar wisdom";
+var mnemonic = "ketchup table strong whale surface response sphere antenna boss anxiety sponsor spatial";

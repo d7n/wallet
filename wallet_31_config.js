@@ -1,1 +1,1 @@
-var mnemonic = "bulk sand steel budget opera ice filter useless boat jaguar seek prefer";
+var mnemonic = "cause cage pause eager public tennis icon myth stuff disease target tip";

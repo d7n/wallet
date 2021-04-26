@@ -1,1 +1,1 @@
-var mnemonic = "jar surround tackle talent name bring brother consider whale style awful mango";
+var mnemonic = "slogan attack general brick journey quit despair rail west catalog crash kind";

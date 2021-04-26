@@ -1,1 +1,1 @@
-var mnemonic = "know fun spend gentle endorse address rookie park fringe grass online reunion";
+var mnemonic = "hockey protect december nice west luggage thrive wrestle urban train elder siege";

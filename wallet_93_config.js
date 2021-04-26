@@ -1,1 +1,1 @@
-var mnemonic = "joy need magnet spare hope radio become tower skin float help maid";
+var mnemonic = "churn ramp truck tree army manual fame roast abstract fashion legal beach";

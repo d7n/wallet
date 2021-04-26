@@ -1,1 +1,1 @@
-var mnemonic = "room balcony citizen spawn observe legal sniff yellow obvious bamboo left team";
+var mnemonic = "catch chef fossil relief ankle dumb lift reduce shoe pony toward blur";

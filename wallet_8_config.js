@@ -1,1 +1,1 @@
-var mnemonic = "success lunar tag badge royal join minor reopen satoshi office clean scorpion";
+var mnemonic = "online stove slogan marriage across make lock stove hidden riot cool rough";

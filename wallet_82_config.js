@@ -1,1 +1,1 @@
-var mnemonic = "joke cruise squirrel curve fluid burden begin merit raven setup garlic pave";
+var mnemonic = "world affair sentence gallery table where basic elder slam tomorrow lady plastic";

@@ -1,1 +1,1 @@
-var mnemonic = "seed keep surround ladder category annual sick city pull actress dinosaur buyer";
+var mnemonic = "safe empower pledge camp fabric alone drama pumpkin artefact drive brown army";

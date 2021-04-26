@@ -1,1 +1,1 @@
-var mnemonic = "enlist suggest notice infant suit sweet powder copy stone praise tube position";
+var mnemonic = "noise plastic trophy someone caught blush garage female talent whisper boring can";

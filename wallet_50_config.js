@@ -1,1 +1,1 @@
-var mnemonic = "someone cupboard over debate mom best wasp blur utility canvas door install";
+var mnemonic = "notable kingdom awake girl accuse task blame arch fun motion leg expand";

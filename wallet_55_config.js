@@ -1,1 +1,1 @@
-var mnemonic = "biology can nasty oyster clown situate feel buffalo reflect runway oak once";
+var mnemonic = "caution donor frequent labor session thrive nut together misery envelope crystal jelly";

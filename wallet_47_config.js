@@ -1,1 +1,1 @@
-var mnemonic = "reject reopen nurse hair have school buffalo beyond bunker step caution fun";
+var mnemonic = "pizza saddle bridge family friend collect snack property solve fabric release army";

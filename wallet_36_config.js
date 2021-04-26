@@ -1,1 +1,1 @@
-var mnemonic = "pulp coach topic tunnel trend section luxury inmate copper use life liberty";
+var mnemonic = "project tree rookie glide nasty dawn awesome tortoise leg magnet pool boat";

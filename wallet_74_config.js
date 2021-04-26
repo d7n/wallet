@@ -1,1 +1,1 @@
-var mnemonic = "stomach barely peace fee crane embody voice boss train cake adult avocado";
+var mnemonic = "hospital ethics frame business say track jelly pigeon sauce oak pipe vehicle";

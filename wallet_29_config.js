@@ -1,1 +1,1 @@
-var mnemonic = "valve tomorrow tongue seven december jazz nest firm valve beauty glimpse silk";
+var mnemonic = "place ordinary small initial lizard else run employ shield rude mushroom tumble";

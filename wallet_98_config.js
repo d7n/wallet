@@ -1,1 +1,1 @@
-var mnemonic = "deny daughter file table creek school coconut faith night safe engage prize";
+var mnemonic = "minute empty shove pause goddess hidden cycle subject provide left sniff team";

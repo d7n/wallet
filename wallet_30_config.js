@@ -1,1 +1,1 @@
-var mnemonic = "odor ripple solar hollow slender umbrella tool leg release evidence banner uniform";
+var mnemonic = "lion alert slice hope monkey goose stock repair idle decrease oven blanket";

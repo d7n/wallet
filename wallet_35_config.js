@@ -1,1 +1,1 @@
-var mnemonic = "earth select define melody aerobic engage wealth grid syrup potato rug number";
+var mnemonic = "ketchup side icon chronic bachelor collect crisp upon obey leisure adjust rebel";

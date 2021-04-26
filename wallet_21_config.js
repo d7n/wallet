@@ -1,1 +1,1 @@
-var mnemonic = "that circle chicken uniform custom soup wash regret almost answer close eternal";
+var mnemonic = "yellow forget gadget retreat siren coil rib float paper bless mirror goddess";

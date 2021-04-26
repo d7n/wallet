@@ -1,1 +1,1 @@
-var mnemonic = "warm museum there lucky stick toddler toe gain dress pill bulk diamond";
+var mnemonic = "orbit enrich family clump galaxy pioneer evidence theme supply air swamp piano";

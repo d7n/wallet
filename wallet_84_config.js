@@ -1,1 +1,1 @@
-var mnemonic = "wash always music estate real trade perfect large wave because squirrel mosquito";
+var mnemonic = "edit faith joy grain two cake use nuclear obtain embody remain ranch";

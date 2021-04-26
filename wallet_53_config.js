@@ -1,1 +1,1 @@
-var mnemonic = "viable hub coin tattoo shuffle kid pigeon bachelor flock gather minimum search";
+var mnemonic = "include virtual wrist response couch near youth lobster air simple virtual truly";

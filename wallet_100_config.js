@@ -1,1 +1,1 @@
-var mnemonic = "spatial pistol rocket dad inform act universe invest merry expect pulp shallow";
+var mnemonic = "repeat copy nominee clay pink leg want tenant once seek auction rigid";

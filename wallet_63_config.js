@@ -1,1 +1,1 @@
-var mnemonic = "police blame ice silent baby demand rookie conduct top mention blame main";
+var mnemonic = "sock immune uncover token between catalog great almost volcano true join tilt";

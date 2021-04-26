@@ -1,1 +1,1 @@
-var mnemonic = "this action expand feel verify core neutral pet actual valve pepper brisk";
+var mnemonic = "guard crash labor spring raw setup maze castle sell anger dwarf chief";

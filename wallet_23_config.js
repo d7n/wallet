@@ -1,1 +1,1 @@
-var mnemonic = "region mother must pioneer goose pioneer assist potato process peasant pond grunt";
+var mnemonic = "master click hope feed fabric main teach stumble maid december bunker visual";

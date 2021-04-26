@@ -1,1 +1,1 @@
-var mnemonic = "mask office increase people where paper annual sound silent gain brown cloth";
+var mnemonic = "between foam ship chat arena bar disagree void capable like dynamic cigar";

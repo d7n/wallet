@@ -1,1 +1,1 @@
-var mnemonic = "steak concert nest focus symptom spare dry hair correct switch pact supreme";
+var mnemonic = "tuition bike bright swap fatigue task want elder canoe churn luggage rain";

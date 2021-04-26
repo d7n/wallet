@@ -1,1 +1,1 @@
-var mnemonic = "north color volcano upper park quick story client silver average chair sand";
+var mnemonic = "omit glory math economy stay physical slight filter prosper purpose steel umbrella";

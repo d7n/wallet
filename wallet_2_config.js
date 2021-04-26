@@ -1,1 +1,1 @@
-var mnemonic = "merge hen spike speak mosquito parade remain uniform panic series minute someone";
+var mnemonic = "donate series elbow cup human theory burger walnut shoot cousin senior tail";

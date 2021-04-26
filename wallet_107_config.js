@@ -1,1 +1,1 @@
-var mnemonic = "refuse spend shiver decade elder peasant frog pave winner kite six pizza";
+var mnemonic = "nephew love excite hobby satisfy rocket pumpkin baby cat grow fame repeat";

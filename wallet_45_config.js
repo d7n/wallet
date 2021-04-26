@@ -1,1 +1,1 @@
-var mnemonic = "media wonder armor august theory destroy system alarm tennis tape wasp evolve";
+var mnemonic = "flame address dish horn muffin casino city master outer purity sadness short";

@@ -1,1 +1,1 @@
-var mnemonic = "endorse solution average damp crunch woman tip pink various bless maid flavor";
+var mnemonic = "same brass trouble essay board athlete false tortoise virus valley belt motion";

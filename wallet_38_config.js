@@ -1,1 +1,1 @@
-var mnemonic = "slow reunion toward utility never regular wrist blouse advance cloud glue fuel";
+var mnemonic = "lens service lumber maid hen income fetch motion empower rural surprise flag";

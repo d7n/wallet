@@ -1,1 +1,1 @@
-var mnemonic = "way leg muffin hold screen awkward help yellow depend plunge three wrist";
+var mnemonic = "prison lecture gaze fantasy rapid soup first pottery globe bamboo village solid";

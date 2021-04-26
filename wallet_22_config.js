@@ -1,1 +1,1 @@
-var mnemonic = "elephant ball become onion fragile frame ignore convince asset spike mail day";
+var mnemonic = "eyebrow brush divide clean property bonus under dawn there grace frame rice";
