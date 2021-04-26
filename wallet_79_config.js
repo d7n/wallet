@@ -1,1 +1,1 @@
-var mnemonic = "neck wrap abstract extra skull three valley curtain core flush lucky edit";
+var mnemonic = "present wild globe daughter damage palace spray silk two smart cube cupboard";

@@ -1,1 +1,1 @@
-var mnemonic = "uncle vocal lazy jacket banana gesture talk cabbage valid define rate evidence";
+var mnemonic = "great wash oven scare solution favorite patch give history lunar rude obey";

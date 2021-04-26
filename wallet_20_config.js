@@ -1,1 +1,1 @@
-var mnemonic = "client suffer tired ready grass error pear visual time word empower shy";
+var mnemonic = "already object arrange walnut oppose river mixed sleep confirm demand negative move";

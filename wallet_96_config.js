@@ -1,1 +1,1 @@
-var mnemonic = "rotate hawk slot uncle endless glory pride answer air wolf weekend say";
+var mnemonic = "magnet staff swamp fun oyster field stove brick kite art steak sauce";

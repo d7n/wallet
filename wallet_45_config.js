@@ -1,1 +1,1 @@
-var mnemonic = "parent advance verb pupil gadget drink ankle update asset million thank juice";
+var mnemonic = "van skate garden month arctic vanish scrap monster help purchase bench shield";

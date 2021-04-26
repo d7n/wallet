@@ -1,1 +1,1 @@
-var mnemonic = "chalk slim way stereo aisle earth detail elevator explain twin nest very";
+var mnemonic = "army stone maze hospital digital distance symbol pottery siege reject furnace remove";

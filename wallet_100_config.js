@@ -1,1 +1,1 @@
-var mnemonic = "federal bean letter green someone mimic found wrist father book torch tent";
+var mnemonic = "stem dial circle frozen cherry dry ritual assist antenna alpha bind giant";

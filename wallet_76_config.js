@@ -1,1 +1,1 @@
-var mnemonic = "tilt analyst raccoon weapon garage inflict sunset motor diamond snack elite title";
+var mnemonic = "orbit minute live neglect account zone tobacco steel model pipe brain door";

@@ -1,1 +1,1 @@
-var mnemonic = "file dad blossom arrest heart crime extra fiction grape small punch skill";
+var mnemonic = "foam usage zoo charge wave fog churn knife tragic board what fall";

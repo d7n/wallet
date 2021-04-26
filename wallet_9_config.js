@@ -1,1 +1,1 @@
-var mnemonic = "father cry small radio supreme arrow rigid upset version bean minor fall";
+var mnemonic = "dirt wasp grid proof swear silent address lion pet short rose space";

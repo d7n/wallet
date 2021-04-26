@@ -1,1 +1,1 @@
-var mnemonic = "drum mosquito sorry leisure unknown razor pilot yellow bounce crystal solid truly";
+var mnemonic = "cherry agree furnace course motion agent find water sign romance clutch peanut";

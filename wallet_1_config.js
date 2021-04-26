@@ -1,1 +1,1 @@
-var mnemonic = "company solid rescue primary bubble kind escape frost lend guess wing soda";
+var mnemonic = "luxury spy steel address buyer gain deer pass loyal action dune program";

@@ -1,1 +1,1 @@
-var mnemonic = "truck carbon cheap motor dirt vacant welcome athlete vivid arctic group raise";
+var mnemonic = "rather wisdom science stomach lawsuit net teach ginger fortune organ boil process";

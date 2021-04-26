@@ -1,1 +1,1 @@
-var mnemonic = "tip knock differ make civil syrup hub token easily focus lift velvet";
+var mnemonic = "spy display fever flat equip frozen income push utility property cash scatter";

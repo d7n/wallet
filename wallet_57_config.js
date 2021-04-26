@@ -1,1 +1,1 @@
-var mnemonic = "wild silver voyage cave daughter enjoy ski exhaust label vacant crunch help";
+var mnemonic = "teach castle bronze phone fetch galaxy left device boost antenna lawn shoulder";

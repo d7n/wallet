@@ -1,1 +1,1 @@
-var mnemonic = "ginger dismiss warfare smoke betray hundred verify neck quit mammal tragic spirit";
+var mnemonic = "wife chronic market clarify offer venue where toddler theme object shuffle riot";

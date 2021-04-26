@@ -1,1 +1,1 @@
-var mnemonic = "push insane assist fade program virus sort swamp velvet chimney stairs kite";
+var mnemonic = "mechanic ghost nephew major mixed always gain domain promote gravity like mechanic";

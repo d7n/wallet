@@ -1,1 +1,1 @@
-var mnemonic = "cactus novel table laundry grit iron ribbon educate girl number accident boss";
+var mnemonic = "market guide rapid note crush mistake abstract yellow cube cage boss camera";

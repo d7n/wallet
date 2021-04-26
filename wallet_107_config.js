@@ -1,1 +1,1 @@
-var mnemonic = "solution room topic sail bulk ice boy fiction engine illegal coach prize";
+var mnemonic = "will soup outside dust naive imitate gospel tumble vintage differ that gather";

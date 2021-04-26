@@ -1,1 +1,1 @@
-var mnemonic = "basic brother stool injury tip tonight tag onion camera detect keen wise";
+var mnemonic = "east frown room lunar major rigid hammer gasp pattern blue punch gorilla";

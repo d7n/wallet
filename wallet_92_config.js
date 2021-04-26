@@ -1,1 +1,1 @@
-var mnemonic = "mobile upon lamp flip exhaust essay enhance raw control secret stage upper";
+var mnemonic = "route expire picture blanket saddle gospel girl rough tail debris rack grocery";

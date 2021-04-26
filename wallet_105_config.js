@@ -1,1 +1,1 @@
-var mnemonic = "present unveil potato assault plug dwarf mix delay play umbrella tag banner";
+var mnemonic = "loud way appear age demise gloom goat best knife seek foot piano";

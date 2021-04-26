@@ -1,1 +1,1 @@
-var mnemonic = "useless tumble guess science crumble depth snap squirrel wrist hub trick hold";
+var mnemonic = "soldier hope leaf exchange idea more decline pencil drum unusual bottom stage";

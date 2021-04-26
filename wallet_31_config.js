@@ -1,1 +1,1 @@
-var mnemonic = "envelope foil citizen fold space arrange record minor unaware usual sign clip";
+var mnemonic = "recipe gate split goose master bubble sound print truth pistol audit above";

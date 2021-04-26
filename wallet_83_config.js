@@ -1,1 +1,1 @@
-var mnemonic = "caution comic park ramp surge suspect clown smile awake recycle spoon clog";
+var mnemonic = "merit lend orphan hurry sight square announce artist six sister tomato rubber";

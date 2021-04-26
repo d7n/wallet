@@ -1,1 +1,1 @@
-var mnemonic = "move math crew eye drive vanish rug trophy current agent jeans noble";
+var mnemonic = "ocean pride wage voyage brush sphere news film tortoise sunset hand ripple";

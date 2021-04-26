@@ -1,1 +1,1 @@
-var mnemonic = "afraid almost celery valley ladder file drop govern meat disorder service taxi";
+var mnemonic = "shove repeat black genius myself pig extra gold trash exhaust special index";

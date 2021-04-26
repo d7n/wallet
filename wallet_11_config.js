@@ -1,1 +1,1 @@
-var mnemonic = "throw north confirm recall shoot fog man similar negative possible useful find";
+var mnemonic = "home gadget census satisfy narrow chimney soft valve purse direct gas purity";

@@ -1,1 +1,1 @@
-var mnemonic = "gym kitten divorce game liar trouble dance benefit home flame civil avoid";
+var mnemonic = "picture crystal fly pistol pioneer gaze venue dignity verb muffin phrase human";

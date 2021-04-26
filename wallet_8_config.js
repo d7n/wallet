@@ -1,1 +1,1 @@
-var mnemonic = "board emotion knife under atom atom lamp teach control used library rather";
+var mnemonic = "stamp grief wine marble oak afraid size ahead poverty defense debris fog";

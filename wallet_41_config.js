@@ -1,1 +1,1 @@
-var mnemonic = "divert glow enforce oblige taxi enough armed promote choice same vault magnet";
+var mnemonic = "object adjust wheel blade choice grid give genre nation rigid decline own";

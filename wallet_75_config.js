@@ -1,1 +1,1 @@
-var mnemonic = "busy fox wheel prepare dirt venture cycle elevator coral promote unfold decrease";
+var mnemonic = "melody actress grid improve gasp pact decade congress second deposit torch point";

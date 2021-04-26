@@ -1,1 +1,1 @@
-var mnemonic = "size valley treat private song dice guess soft city shield father exile";
+var mnemonic = "upper inform icon merry shiver balance tunnel welcome giraffe february gather rely";

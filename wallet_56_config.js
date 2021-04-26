@@ -1,1 +1,1 @@
-var mnemonic = "rebel joke tube uncle grocery pyramid bridge sand text equip else citizen";
+var mnemonic = "medal mule frost asthma cabbage enforce velvet small clock gain top require";

@@ -1,1 +1,1 @@
-var mnemonic = "supply debate before chuckle print desk custom picnic key broken chronic spell";
+var mnemonic = "immense unique prison donkey faint face lens family inflict excite nominee shrug";

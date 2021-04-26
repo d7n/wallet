@@ -1,1 +1,1 @@
-var mnemonic = "magnet bind dynamic digital tired grant dash burden despair shrug enemy name";
+var mnemonic = "reflect skull aunt unaware core metal tackle derive require chimney monster hint";

@@ -1,1 +1,1 @@
-var mnemonic = "drop hope frequent erosion share ladder cable busy dolphin unit doll nothing";
+var mnemonic = "top box install taxi custom regret loan decline error supply define absorb";

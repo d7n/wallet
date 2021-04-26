@@ -1,1 +1,1 @@
-var mnemonic = "decline find grief upset discover prosper jar reward drum common happy cigar";
+var mnemonic = "income sock sick ramp vague clean advance parade fiscal swear village sight";

@@ -1,1 +1,1 @@
-var mnemonic = "mango because cat paddle conduct fuel west obey weather cost romance empower";
+var mnemonic = "track confirm glide curtain company bid surface castle ghost very citizen cereal";

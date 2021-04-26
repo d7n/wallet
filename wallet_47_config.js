@@ -1,1 +1,1 @@
-var mnemonic = "host rally bread model march resource cabbage refuse once squirrel vintage share";
+var mnemonic = "inhale erosion explain motor obvious suggest welcome gather glance love man give";

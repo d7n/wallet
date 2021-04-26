@@ -1,1 +1,1 @@
-var mnemonic = "decorate walk fortune cup maple squirrel protect skate brave lizard tube pair";
+var mnemonic = "matter rival pact flee bounce sugar coach urban horror crater oven evoke";

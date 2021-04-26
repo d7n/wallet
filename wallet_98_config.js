@@ -1,1 +1,1 @@
-var mnemonic = "hole carpet gasp winner grief educate hair mobile congress empty voice beef";
+var mnemonic = "gravity end twice glad wish tackle catalog same aerobic moral music achieve";

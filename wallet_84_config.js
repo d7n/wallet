@@ -1,1 +1,1 @@
-var mnemonic = "goose explain name concert valve vote stock thunder glow friend harvest print";
+var mnemonic = "nurse give insane tribe today vocal person siege direct please review stage";

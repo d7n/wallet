@@ -1,1 +1,1 @@
-var mnemonic = "student umbrella clock mail mail embrace bronze orchard draw silk employ armor";
+var mnemonic = "you toward brand gospel spider lawn pulp later ritual game box fog";

@@ -1,1 +1,1 @@
-var mnemonic = "mirror album dwarf coach acid face pitch train umbrella butter hill utility";
+var mnemonic = "twenty key example quote property buddy grunt pond diagram box bundle venture";

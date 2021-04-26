@@ -1,1 +1,1 @@
-var mnemonic = "exhaust afraid battle chest exit top cave nose miracle begin spend private";
+var mnemonic = "robot annual assume candy knock biology auction odor grit old tired accident";

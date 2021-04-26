@@ -1,1 +1,1 @@
-var mnemonic = "spell trouble target basic tired section tuna husband budget rapid nothing embody";
+var mnemonic = "glass shrug length toast weapon width depart exact horn bleak net slight";

@@ -1,1 +1,1 @@
-var mnemonic = "pepper disorder angle husband lens deny actual swamp kick parrot faculty peasant";
+var mnemonic = "high industry youth skin own wreck cube charge other unhappy over crush";

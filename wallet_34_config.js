@@ -1,1 +1,1 @@
-var mnemonic = "clog soccer put host club arrange electric barrel fetch object table side";
+var mnemonic = "recycle meat violin electric march size debris advice evil mystery dad visual";

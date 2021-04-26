@@ -1,1 +1,1 @@
-var mnemonic = "proud blossom tooth since very soup road front outside sort flower moral";
+var mnemonic = "wasp air typical romance silent shallow vault vivid cross brief script volume";

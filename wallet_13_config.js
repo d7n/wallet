@@ -1,1 +1,1 @@
-var mnemonic = "bar wrong foot speak talent female hello elevator human skill boss urban";
+var mnemonic = "couch soup beauty fortune tray top any congress try shift soup lunar";

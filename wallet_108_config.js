@@ -1,1 +1,1 @@
-var mnemonic = "exchange east minimum two alter salt device rail gap trend ozone expand";
+var mnemonic = "neutral shoulder six diesel belt doll bacon finger carbon lawsuit can glove";

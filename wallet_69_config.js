@@ -1,1 +1,1 @@
-var mnemonic = "unaware desk ignore erase pelican toddler digital swim predict knock milk emotion";
+var mnemonic = "settle jeans chef problem various word rice slab lunar hobby lazy warm";

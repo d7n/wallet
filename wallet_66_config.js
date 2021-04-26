@@ -1,1 +1,1 @@
-var mnemonic = "deny liquid absurd vehicle glare seven burst curious ask sketch stock jar";
+var mnemonic = "hotel model roast normal sudden please sure crunch model trial pizza find";

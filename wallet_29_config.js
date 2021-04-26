@@ -1,1 +1,1 @@
-var mnemonic = "reunion entry intact drum birth lecture join immune loyal crowd raccoon glad";
+var mnemonic = "desk prison yard joke napkin squeeze multiply spoil fitness eager party erase";

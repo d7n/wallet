@@ -1,1 +1,1 @@
-var mnemonic = "cancel language surprise expect scheme chalk tank shy chief spy wink fabric";
+var mnemonic = "satoshi tank fish give wild pen dinosaur there title coast elite base";

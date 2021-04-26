@@ -1,1 +1,1 @@
-var mnemonic = "forest future strategy fiction book junk dignity athlete stock tiger pipe daughter";
+var mnemonic = "garage together scrap oak leg cabin strike rain poverty panic urge drum";

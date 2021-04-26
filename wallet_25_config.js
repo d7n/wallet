@@ -1,1 +1,1 @@
-var mnemonic = "shy improve fantasy exit surge slogan insane april blood lucky area chicken";
+var mnemonic = "palm olympic cinnamon open option hover swarm alter suspect consider motion hospital";

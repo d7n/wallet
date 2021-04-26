@@ -1,1 +1,1 @@
-var mnemonic = "fog hammer custom garlic bacon original hundred aware combine nothing erase item";
+var mnemonic = "bunker topic call kick find merry use raccoon comfort discover layer battle";

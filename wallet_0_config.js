@@ -1,1 +1,1 @@
-var mnemonic = "own seven evolve nose fancy sister smile core crucial estate clump purchase";
+var mnemonic = "food play midnight six please lemon worry blood credit mushroom melody afraid";

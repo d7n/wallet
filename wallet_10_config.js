@@ -1,1 +1,1 @@
-var mnemonic = "print puppy develop unfold nest loop bubble glue truck source guide hurt";
+var mnemonic = "asthma ivory front scorpion list sleep eager smooth warfare prison youth resource";

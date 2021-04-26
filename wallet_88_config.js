@@ -1,1 +1,1 @@
-var mnemonic = "decorate area screen banana peanut alcohol despair sign over toe retire predict";
+var mnemonic = "fitness curve borrow million move achieve must gorilla alien autumn spot cruise";

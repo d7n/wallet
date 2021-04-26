@@ -1,1 +1,1 @@
-var mnemonic = "merry crew wreck snack today elder execute menu danger priority check shop";
+var mnemonic = "jelly right such distance crumble plastic connect sketch wagon middle couple atom";

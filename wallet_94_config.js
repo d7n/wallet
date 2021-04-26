@@ -1,1 +1,1 @@
-var mnemonic = "place voyage small panic title flee arrange trophy expire dish group april";
+var mnemonic = "fortune expand payment piano laundry property admit behind cereal raise exit own";

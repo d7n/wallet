@@ -1,1 +1,1 @@
-var mnemonic = "nerve census board item van quit myth drama volcano stuff kidney loop";
+var mnemonic = "occur coast forest weekend cargo flavor thought february clerk soccer purse forum";

@@ -1,1 +1,1 @@
-var mnemonic = "topic crystal lamp steel assume wolf rely craft grief inquiry finger antique";
+var mnemonic = "once city manual awkward rocket garden milk surface scene impact foster acid";

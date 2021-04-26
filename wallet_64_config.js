@@ -1,1 +1,1 @@
-var mnemonic = "margin wrap tortoise stable goat team pull quit goose render shoe wealth";
+var mnemonic = "three capital craft gun mistake wealth honey trade like little crush forget";

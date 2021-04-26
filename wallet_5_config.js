@@ -1,1 +1,1 @@
-var mnemonic = "neglect usage wife wish sudden palace lunch crime crack shoe budget derive";
+var mnemonic = "camera junk suggest pony figure screen seven surface insect hamster icon cash";

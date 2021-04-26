@@ -1,1 +1,1 @@
-var mnemonic = "barely tuition profit hope soon column long observe harvest evolve movie laundry";
+var mnemonic = "follow bid road arena bless orchard frozen fruit turkey mail crystal select";

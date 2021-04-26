@@ -1,1 +1,1 @@
-var mnemonic = "breeze funny void copper swap essence attend conduct pepper fence duck federal";
+var mnemonic = "mutual elbow idle tone bind cricket reflect monitor palace away tired cook";

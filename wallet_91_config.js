@@ -1,1 +1,1 @@
-var mnemonic = "super spawn raccoon window canvas motion emerge aunt cupboard damp impulse trust";
+var mnemonic = "hamster cherry paddle salmon walnut time hobby vast jungle alter unusual task";

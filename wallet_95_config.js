@@ -1,1 +1,1 @@
-var mnemonic = "right bounce crucial three tube evoke inner solar denial nature million drive";
+var mnemonic = "trash scatter indicate chalk thunder nasty mask dinner sunset frost suffer resist";

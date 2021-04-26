@@ -1,1 +1,1 @@
-var mnemonic = "spoon record elegant demise urge cross attack vote blush trick salt brown";
+var mnemonic = "kitchen spell inject next lunch lock goddess uncover circle bulb smoke crawl";

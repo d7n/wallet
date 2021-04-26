@@ -1,1 +1,1 @@
-var mnemonic = "later bright barrel rule march pumpkin service chase present retreat polar earth";
+var mnemonic = "balance satisfy sponsor urban behave casual warm tape evidence congress song stadium";

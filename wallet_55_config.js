@@ -1,1 +1,1 @@
-var mnemonic = "bridge admit toddler pluck license music pilot never light job ivory broom";
+var mnemonic = "discover eight jar brain cup identify ball stuff lunch finish hundred club";

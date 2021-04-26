@@ -1,1 +1,1 @@
-var mnemonic = "very dawn other bag velvet voyage pretty wrestle sound media ill fix";
+var mnemonic = "horror sunny drastic window test tonight rebuild sail zoo load battle route";

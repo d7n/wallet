@@ -1,1 +1,1 @@
-var mnemonic = "struggle quote flush buyer artist simple shy current amateur evidence general fog";
+var mnemonic = "laundry tunnel act nest cattle tooth cause buyer dizzy still abuse hire";

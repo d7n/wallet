@@ -1,1 +1,1 @@
-var mnemonic = "venture enhance field budget eager idle diet stand reduce blur use impose";
+var mnemonic = "virtual found palace buddy initial tennis flame giraffe submit bike elder gloom";

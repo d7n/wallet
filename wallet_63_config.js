@@ -1,1 +1,1 @@
-var mnemonic = "frost obscure garbage finish target donkey fruit tribe design dumb cabin mutual";
+var mnemonic = "wife air bread rent enemy method network frozen pigeon diagram asthma disease";

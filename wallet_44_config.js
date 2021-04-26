@@ -1,1 +1,1 @@
-var mnemonic = "half luxury topic wisdom arrest dizzy panther firm employ suit force soup";
+var mnemonic = "husband congress finger outside rack august that duty patient traffic typical celery";

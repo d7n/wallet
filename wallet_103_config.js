@@ -1,1 +1,1 @@
-var mnemonic = "shell flash rookie jar series require then oil uncover hidden era remain";
+var mnemonic = "lens what pizza hammer loyal loyal chat space style stool access inch";

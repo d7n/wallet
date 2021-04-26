@@ -1,1 +1,1 @@
-var mnemonic = "nation eager mind category picture pencil cable brass butter thrive resource sausage";
+var mnemonic = "member stable decrease minimum cover session tip earn choose polar erase squirrel";

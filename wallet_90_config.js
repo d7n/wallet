@@ -1,1 +1,1 @@
-var mnemonic = "consider midnight phone good onion crumble describe census parade govern diet awful";
+var mnemonic = "lizard fitness conduct face leg bar vague ethics toward orange chest hen";

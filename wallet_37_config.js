@@ -1,1 +1,1 @@
-var mnemonic = "soda dad kangaroo candy agree expand edit distance unhappy van convince jealous";
+var mnemonic = "quantum retreat pepper birth attack carbon snap output asset alone carbon shed";

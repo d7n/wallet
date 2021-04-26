@@ -1,1 +1,1 @@
-var mnemonic = "before unaware senior taste ostrich indoor occur silk spatial mandate act direct";
+var mnemonic = "moral cigar between until daring mention swift champion man cart little umbrella";

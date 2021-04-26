@@ -1,1 +1,1 @@
-var mnemonic = "breeze need broom cruise ignore steel oblige approve decline ankle end flower";
+var mnemonic = "curtain lawsuit cable village volume tooth afraid text lemon choice arrange across";

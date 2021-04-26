@@ -1,1 +1,1 @@
-var mnemonic = "ceiling want boil foil course brown voice supreme present mail tiny plug";
+var mnemonic = "right drastic unfold rough decide great river float twelve curious blouse labor";

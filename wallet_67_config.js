@@ -1,1 +1,1 @@
-var mnemonic = "napkin shadow capital fork sun skirt run physical liberty feed detect adjust";
+var mnemonic = "soap social social eyebrow scatter general tattoo between way file account cry";

@@ -1,1 +1,1 @@
-var mnemonic = "stadium assault come scissors knee lemon scan chest convince random cabbage matrix";
+var mnemonic = "humble supply baby recall ozone river above leaf traffic squeeze gather frog";

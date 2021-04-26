@@ -1,1 +1,1 @@
-var mnemonic = "tribe buzz word mail video color club occur scale frozen faculty direct";
+var mnemonic = "coast fee opinion mixture laptop neither oyster silly basket letter recipe boat";

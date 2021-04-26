@@ -1,1 +1,1 @@
-var mnemonic = "raise proud employ boy never example benefit supply crane early angle please";
+var mnemonic = "axis alpha today alpha crater love measure dirt item casual drift upset";

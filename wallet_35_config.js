@@ -1,1 +1,1 @@
-var mnemonic = "robot above document under grief special symptom roast glare tortoise churn panic";
+var mnemonic = "drip horn because ozone replace alter gift first estate gallery tail engage";

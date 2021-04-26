@@ -1,1 +1,1 @@
-var mnemonic = "swarm right slender rib region arena acquire guard tray crisp edit glance";
+var mnemonic = "giggle category copper render disease spray kangaroo athlete bench van cherry sugar";

@@ -1,1 +1,1 @@
-var mnemonic = "grocery blood modify glide amazing entire indicate credit inhale horn trophy ridge";
+var mnemonic = "cereal hen eternal merit spoon river guard keen cool mixture put elephant";

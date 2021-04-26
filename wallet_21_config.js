@@ -1,1 +1,1 @@
-var mnemonic = "toward victory swear suit wage tide silk biology scare cream secret pink";
+var mnemonic = "senior wish shrimp route toast bamboo road impulse animal about rely farm";

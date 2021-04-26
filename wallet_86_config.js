@@ -1,1 +1,1 @@
-var mnemonic = "dinner arctic february lesson gauge chunk program claw wait public nation gauge";
+var mnemonic = "vacant limit short smoke exhibit theme first night machine soft grocery weasel";

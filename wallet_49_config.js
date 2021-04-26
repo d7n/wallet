@@ -1,1 +1,1 @@
-var mnemonic = "current bulk weapon between arch famous unusual found kiss water cable female";
+var mnemonic = "element win purse phone fiction hour rice comfort cycle stairs tongue face";

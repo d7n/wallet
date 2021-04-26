@@ -1,1 +1,1 @@
-var mnemonic = "fluid valve goat peanut divide nut hospital rebuild board own census wet";
+var mnemonic = "leg rural ceiling cry sustain release client digital undo mercy above drink";
