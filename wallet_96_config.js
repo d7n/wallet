@@ -1,1 +1,1 @@
-var mnemonic = "drip pet dismiss dad pyramid define farm raw time hope erosion figure";
+var mnemonic = "melody bring fortune fitness plastic agent trick defy primary denial kid mistake";

@@ -1,1 +1,1 @@
-var mnemonic = "client hazard urban satoshi accuse cluster vapor ramp bunker zone spray skirt";
+var mnemonic = "double welcome buzz sugar candy slogan goddess open output ozone matrix puzzle";

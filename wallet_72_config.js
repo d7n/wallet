@@ -1,1 +1,1 @@
-var mnemonic = "kingdom toast slam place voyage joke orient body remain genius response damage";
+var mnemonic = "life gown media future fantasy nature top catch absent delay plate wisdom";

@@ -1,1 +1,1 @@
-var mnemonic = "clever course atom shoe attend path tornado make assist old innocent dad";
+var mnemonic = "rebel during spin ability alcohol must glow suspect predict dignity cheese hip";

@@ -1,1 +1,1 @@
-var mnemonic = "toast involve praise junk error indoor mesh weird explain develop group hobby";
+var mnemonic = "laptop fragile adapt fork joke alone horror wear aunt protect object seed";

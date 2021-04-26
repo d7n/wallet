@@ -1,1 +1,1 @@
-var mnemonic = "pen offer globe mansion phone culture tenant evil submit start december remain";
+var mnemonic = "squeeze bamboo speak afford tuna order shed inmate exclude gain embark way";

@@ -1,1 +1,1 @@
-var mnemonic = "away you rule portion shallow romance suggest style rescue alpha forward lobster";
+var mnemonic = "little palm unusual friend leaf traffic good access elevator upon bachelor pottery";

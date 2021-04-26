@@ -1,1 +1,1 @@
-var mnemonic = "latin vault cave casual axis swap supply cement relax issue butter flag";
+var mnemonic = "remove snack slogan shell license husband narrow recycle rocket chat jelly orchard";

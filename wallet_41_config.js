@@ -1,1 +1,1 @@
-var mnemonic = "luggage alarm illegal doll attract tooth photo network bag tennis right empty";
+var mnemonic = "morning black sadness museum rude blouse exercise indoor film debris thing benefit";

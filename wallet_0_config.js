@@ -1,1 +1,1 @@
-var mnemonic = "oak service walnut sense decorate drive seat best book used gasp satisfy";
+var mnemonic = "arrest illness nut reform vault soap twelve identify alone pottery snake salute";

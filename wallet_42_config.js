@@ -1,1 +1,1 @@
-var mnemonic = "enhance grit shine antenna subway jump gap lamp excuse special fresh provide";
+var mnemonic = "usage broken piano ocean forget gold put protect tray potato horn develop";

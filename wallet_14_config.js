@@ -1,1 +1,1 @@
-var mnemonic = "arrange client simple soap grain popular reflect idle buzz hole razor second";
+var mnemonic = "monitor flame poverty jacket gap leaf decorate easily hero donkey north cousin";

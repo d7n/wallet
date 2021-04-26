@@ -1,1 +1,1 @@
-var mnemonic = "squeeze company collect demise symbol above ripple volcano winter slide wolf solve";
+var mnemonic = "near uniform enlist example marble shock volume kick paper purchase siege skirt";

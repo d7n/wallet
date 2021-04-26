@@ -1,1 +1,1 @@
-var mnemonic = "notice toast motor news recycle run range blood coil dad update input";
+var mnemonic = "argue capable ignore border opinion squirrel leave blast immune pause access grape";

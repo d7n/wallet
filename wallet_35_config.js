@@ -1,1 +1,1 @@
-var mnemonic = "town call husband deny van culture solar long aspect video arrest hard";
+var mnemonic = "public upgrade toe negative reveal video knife damage shell episode certain sound";

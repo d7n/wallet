@@ -1,1 +1,1 @@
-var mnemonic = "betray sail worth badge zero enforce fatigue exile rhythm album stool sea";
+var mnemonic = "health alert cat globe second dog jeans learn acoustic jelly frame master";

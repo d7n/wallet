@@ -1,1 +1,1 @@
-var mnemonic = "amazing elegant save mimic pelican senior mule lumber neutral law father various";
+var mnemonic = "sign dragon face betray palace else cup embrace trend penalty lock light";

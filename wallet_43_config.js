@@ -1,1 +1,1 @@
-var mnemonic = "state kid assist rigid hundred cup pottery drastic pilot work word slot";
+var mnemonic = "urban distance normal animal cabin caution tomorrow easy pretty extend grocery piece";

@@ -1,1 +1,1 @@
-var mnemonic = "shrug deny employ bridge into lava resource sail shove amount decline miracle";
+var mnemonic = "jealous alarm guard argue glove brain ensure matrix acquire hawk spike catch";

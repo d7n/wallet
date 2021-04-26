@@ -1,1 +1,1 @@
-var mnemonic = "picnic pitch steak churn recycle spirit fetch paddle inner math face hole";
+var mnemonic = "citizen capable stomach jealous sleep rather account heart always leopard harvest addict";

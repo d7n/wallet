@@ -1,1 +1,1 @@
-var mnemonic = "prize park exile smooth decrease pact flock dignity bind surface ritual label";
+var mnemonic = "network antenna afraid industry half rice soap dentist census price exhibit damage";

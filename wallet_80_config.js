@@ -1,1 +1,1 @@
-var mnemonic = "reward woman dash carry rescue shy judge orbit soldier purity answer spoil";
+var mnemonic = "soccer text foster cable general million answer write quit airport hidden dentist";

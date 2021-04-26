@@ -1,1 +1,1 @@
-var mnemonic = "gentle bottom shy develop cargo describe age elegant naive same urge city";
+var mnemonic = "utility october bunker demand engage school loyal innocent gaze critic escape differ";

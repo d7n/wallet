@@ -1,1 +1,1 @@
-var mnemonic = "audit sketch lounge model arctic vehicle unable happy pen brick electric rent";
+var mnemonic = "version oval actress stick train catch gospel immune benefit snap group confirm";

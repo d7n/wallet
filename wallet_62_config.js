@@ -1,1 +1,1 @@
-var mnemonic = "icon order mobile owner globe lamp current basket myself fiber peanut fox";
+var mnemonic = "tail gorilla festival merry proud truth tower grocery farm dress try borrow";

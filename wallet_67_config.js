@@ -1,1 +1,1 @@
-var mnemonic = "chapter excite athlete penalty coffee again robust magnet tornado hazard vehicle style";
+var mnemonic = "bullet topple current seminar magnet salad enough liberty regular column ladder salon";

@@ -1,1 +1,1 @@
-var mnemonic = "display tape saddle calm endless win cause narrow cotton west wise reform";
+var mnemonic = "plunge happy nut afford outdoor trash six useful head wave salon marine";

@@ -1,1 +1,1 @@
-var mnemonic = "maximum dutch evil chef able cry feature reform puppy race enhance stage";
+var mnemonic = "mushroom clock radio false off finish twin nose discover spice choose paper";

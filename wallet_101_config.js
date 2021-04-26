@@ -1,1 +1,1 @@
-var mnemonic = "goose cupboard legend bonus dog exile boat can balance dose abuse legend";
+var mnemonic = "pretty opera weekend increase hedgehog fresh excite swing horse skin rice between";

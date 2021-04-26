@@ -1,1 +1,1 @@
-var mnemonic = "tide conduct piece deal okay seek learn random tone page keen piano";
+var mnemonic = "hurt seven ecology lesson unlock volume cave guilt sense secret today polar";

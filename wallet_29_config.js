@@ -1,1 +1,1 @@
-var mnemonic = "marble farm amused diagram shrimp tail duty near trash wrong dad sibling";
+var mnemonic = "rebel labor dirt artwork couple vintage comic mutual wisdom hello age shiver";

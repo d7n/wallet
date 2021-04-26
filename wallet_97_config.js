@@ -1,1 +1,1 @@
-var mnemonic = "sniff add broccoli music suspect join output lab decline copy please sunset";
+var mnemonic = "medal summer fury swap lady explain dish provide grab hedgehog mango purchase";

@@ -1,1 +1,1 @@
-var mnemonic = "wall double brave predict liberty spring cancel corn pause flip animal dutch";
+var mnemonic = "same corn token abstract what click prosper dinosaur noodle desk exotic aspect";

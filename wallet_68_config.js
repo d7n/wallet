@@ -1,1 +1,1 @@
-var mnemonic = "floor october area wonder nuclear museum broccoli game trap ripple party casual";
+var mnemonic = "fiber yard spider napkin credit quality laptop across ecology pluck impose skull";

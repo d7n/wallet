@@ -1,1 +1,1 @@
-var mnemonic = "mind fix ring street spring burger sleep bone farm elegant inquiry learn";
+var mnemonic = "clip monkey clump sort write depart battle valve direct axis mix useless";

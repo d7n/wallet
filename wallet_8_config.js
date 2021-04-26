@@ -1,1 +1,1 @@
-var mnemonic = "doctor earth deer inch whisper will feel inform repair orchard lake gather";
+var mnemonic = "point step force gasp coyote option angle popular stable snap guess jazz";

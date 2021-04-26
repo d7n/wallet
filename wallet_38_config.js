@@ -1,1 +1,1 @@
-var mnemonic = "fan faculty sound run achieve curtain attitude mansion garage blouse laundry common";
+var mnemonic = "identify require wish ankle speak liar grocery sketch admit erupt expire despair";

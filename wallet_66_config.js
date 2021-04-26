@@ -1,1 +1,1 @@
-var mnemonic = "october wrist mobile true crystal bounce boil scene winner salt income stool";
+var mnemonic = "bullet jump female parent super cool captain latin endless law maximum nuclear";

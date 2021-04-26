@@ -1,1 +1,1 @@
-var mnemonic = "sea other picture lonely stand left oven trash another film pudding primary";
+var mnemonic = "cinnamon ripple wife mom nest cool clock recipe average field rabbit clip";

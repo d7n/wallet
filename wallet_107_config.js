@@ -1,1 +1,1 @@
-var mnemonic = "loyal anchor resemble learn order settle witness audit waste copper aisle network";
+var mnemonic = "double chief pool exchange crush clog scorpion segment pioneer endorse clog assume";

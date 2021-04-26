@@ -1,1 +1,1 @@
-var mnemonic = "winter dawn problem portion mad victory neutral hire fix zone potato awake";
+var mnemonic = "above ranch pond save media curve fuel verify spot derive error able";

@@ -1,1 +1,1 @@
-var mnemonic = "invest celery pizza game dog shuffle pole emerge furnace father stem advice";
+var mnemonic = "rhythm height illness evoke problem record material gallery husband grief note tomato";

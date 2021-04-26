@@ -1,1 +1,1 @@
-var mnemonic = "merry hover empty catalog explain kit glare fame scrap since minor unfold";
+var mnemonic = "west evidence change faculty error attend news odor drop hockey change chronic";

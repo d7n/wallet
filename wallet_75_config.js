@@ -1,1 +1,1 @@
-var mnemonic = "wink lawsuit tower delay guitar depend opera vanish fall bottom milk hunt";
+var mnemonic = "ahead hood man mirror flight width note hurdle live step peanut area";

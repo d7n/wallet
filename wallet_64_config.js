@@ -1,1 +1,1 @@
-var mnemonic = "force actual camera pause device carpet property awake wood oven erupt again";
+var mnemonic = "supreme helmet pipe bomb company swap spawn cheap put memory nature guard";

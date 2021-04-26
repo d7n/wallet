@@ -1,1 +1,1 @@
-var mnemonic = "disorder bundle claim helmet toast liquid joke slogan enough glide monkey alone";
+var mnemonic = "river favorite detect pumpkin multiply menu display fish caution volume lunar east";

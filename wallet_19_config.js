@@ -1,1 +1,1 @@
-var mnemonic = "clarify syrup shrug minor execute movie favorite motion awful recycle unit season";
+var mnemonic = "ice vicious jealous glimpse butter lumber nominee rally topple raw acoustic become";

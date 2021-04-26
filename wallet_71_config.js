@@ -1,1 +1,1 @@
-var mnemonic = "fish gravity earth olive select lend shoot dream basket pull lounge raise";
+var mnemonic = "future urge student demise autumn organ measure junk fatal noodle exclude embody";

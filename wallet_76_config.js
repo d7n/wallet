@@ -1,1 +1,1 @@
-var mnemonic = "soon cotton web beyond follow device stay slot marble smile ride auto";
+var mnemonic = "shrimp sure sting history runway liar skin case pizza diary payment rate";

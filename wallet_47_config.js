@@ -1,1 +1,1 @@
-var mnemonic = "between effort smile pizza awake trade feature rabbit river face hello never";
+var mnemonic = "cause glance solve tool verb spray because rack grief raccoon tiny donkey";

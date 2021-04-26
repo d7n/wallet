@@ -1,1 +1,1 @@
-var mnemonic = "school recycle swap inch better hat rich earth burst bean upset evidence";
+var mnemonic = "destroy soft oak strategy soft bike clock sun grape rural pet fabric";

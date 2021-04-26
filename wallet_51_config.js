@@ -1,1 +1,1 @@
-var mnemonic = "guard guard model obey discover dress animal volume real foam adjust onion";
+var mnemonic = "wagon disease garage north bring little slide move shield silly wedding rough";

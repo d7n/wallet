@@ -1,1 +1,1 @@
-var mnemonic = "mimic trick silent magic because regular fortune web arrow dragon smoke goose";
+var mnemonic = "cotton sudden tunnel approve erase gym noble device move board claim fame";

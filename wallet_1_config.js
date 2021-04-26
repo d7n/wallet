@@ -1,1 +1,1 @@
-var mnemonic = "view arena spatial appear leg brush liar job saddle lemon copy bronze";
+var mnemonic = "matter need clay clean kiss family bamboo already town pizza truly rich";

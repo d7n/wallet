@@ -1,1 +1,1 @@
-var mnemonic = "mule leisure bracket better noble creek pony squirrel project hat grief chef";
+var mnemonic = "dad sense index fiber music settle finish custom humor enroll south cannon";

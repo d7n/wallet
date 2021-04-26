@@ -1,1 +1,1 @@
-var mnemonic = "gate sphere inch place multiply sleep split pony defense virtual enact devote";
+var mnemonic = "law math stay extend era bullet version region pony enemy certain crane";

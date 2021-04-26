@@ -1,1 +1,1 @@
-var mnemonic = "nominee symbol field open adult nasty wrap rival wise sauce black fluid";
+var mnemonic = "silver marine enter face pipe dragon quality cook soup chef basket glue";

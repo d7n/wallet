@@ -1,1 +1,1 @@
-var mnemonic = "chronic tower damage swap fault feel tourist law thing frog pole wear";
+var mnemonic = "submit carry trend nature useful arrive vital artwork industry perfect suit still";

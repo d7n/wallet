@@ -1,1 +1,1 @@
-var mnemonic = "trip agent hint custom fish finger dog magic under found burger crop";
+var mnemonic = "husband lift lemon town abstract void bacon veteran leave elite drink fall";

@@ -1,1 +1,1 @@
-var mnemonic = "monster provide sort settle album scan lava matter where mix foster divert";
+var mnemonic = "spice gloom list toy plastic control very coil anchor loan mimic arm";

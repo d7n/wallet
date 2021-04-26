@@ -1,1 +1,1 @@
-var mnemonic = "mind behind empower oven decrease chaos layer universe help jealous that brown";
+var mnemonic = "salon leisure oblige purity jealous bracket century raise open ceiling siren glory";

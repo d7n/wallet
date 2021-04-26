@@ -1,1 +1,1 @@
-var mnemonic = "add taste truck rough secret finish area response essay soup lemon canyon";
+var mnemonic = "valley bonus physical pioneer seven program decade visual foster believe timber dismiss";

@@ -1,1 +1,1 @@
-var mnemonic = "bomb expand lesson galaxy catalog romance must garage puppy release helmet habit";
+var mnemonic = "rack carbon science couple despair foam rule ill acoustic drift laugh increase";

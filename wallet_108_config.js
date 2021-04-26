@@ -1,1 +1,1 @@
-var mnemonic = "repair host great drift envelope mesh aspect denial message flip distance reason";
+var mnemonic = "any crystal auto auction desert hello ceiling cancel lecture absent loyal mandate";

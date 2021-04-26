@@ -1,1 +1,1 @@
-var mnemonic = "pink floor marriage sound sea hundred window purpose thought kiss gauge fix";
+var mnemonic = "okay jump syrup crater camp emotion differ frame wrestle sell frog peanut";

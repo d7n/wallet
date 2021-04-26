@@ -1,1 +1,1 @@
-var mnemonic = "analyst dash deer shiver neglect stumble rival spoil hedgehog vote toss occur";
+var mnemonic = "inch street parent reopen dirt chuckle van universe stuff cram electric isolate";

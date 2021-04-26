@@ -1,1 +1,1 @@
-var mnemonic = "toward zero dice ensure shoulder fatal lens shuffle advance extend tired card";
+var mnemonic = "style tail life pluck have tag push pottery upper between tonight maple";

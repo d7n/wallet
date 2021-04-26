@@ -1,1 +1,1 @@
-var mnemonic = "setup age then expect fold leg panda notice gain speak derive side";
+var mnemonic = "infant pond aisle cactus labor surge put orbit steak air weasel door";

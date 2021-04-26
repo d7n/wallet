@@ -1,1 +1,1 @@
-var mnemonic = "miracle group test leisure twist file wear salt avocado jewel crumble base";
+var mnemonic = "rack example photo alien ranch robust lumber sport replace indicate shallow ceiling";

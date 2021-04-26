@@ -1,1 +1,1 @@
-var mnemonic = "blood put waste rent refuse buffalo shrug cruise raccoon artist carbon frame";
+var mnemonic = "tape favorite agree slender benefit cover jump post friend mother script reopen";

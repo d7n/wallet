@@ -1,1 +1,1 @@
-var mnemonic = "charge party color shrimp market rent jump expose seven like educate enemy";
+var mnemonic = "twenty topple engage warfare task control stumble little candy ozone law snack";

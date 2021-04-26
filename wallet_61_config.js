@@ -1,1 +1,1 @@
-var mnemonic = "museum cheese program normal balance word spin double rescue print skull pony";
+var mnemonic = "coil fault business pass vehicle blur remove tank guilt stage proof over";

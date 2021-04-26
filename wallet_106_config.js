@@ -1,1 +1,1 @@
-var mnemonic = "piece rubber belt actor casino danger jelly planet photo trigger gesture step";
+var mnemonic = "aerobic begin observe spike prevent crawl member cram tobacco saddle tomorrow scene";

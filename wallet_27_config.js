@@ -1,1 +1,1 @@
-var mnemonic = "addict life gravity lawn harbor shove blossom spread know observe ice pioneer";
+var mnemonic = "stamp simple nasty enrich member clever recycle inherit catalog air tail click";

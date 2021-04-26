@@ -1,1 +1,1 @@
-var mnemonic = "combine depth remind fault ceiling eagle twice bone share joke item family";
+var mnemonic = "ritual wish have bind slogan attack term reform purchase absorb country time";

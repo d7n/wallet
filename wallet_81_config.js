@@ -1,1 +1,1 @@
-var mnemonic = "stone route service bike bread fatal cigar whale hair dial inherit raise";
+var mnemonic = "kit steak bench credit custom actor detect course tourist video occur palace";

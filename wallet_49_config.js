@@ -1,1 +1,1 @@
-var mnemonic = "grid public glove desk scare transfer dad gasp valid flat apart this";
+var mnemonic = "nominee wait error palm size fancy april method like electric dry front";

@@ -1,1 +1,1 @@
-var mnemonic = "describe eager little cinnamon tag eagle elevator card baby brush friend ski";
+var mnemonic = "dog board couple garment ensure inquiry whisper segment oak cover over person";

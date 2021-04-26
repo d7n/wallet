@@ -1,1 +1,1 @@
-var mnemonic = "wall again oblige benefit pizza faculty actor warrior luxury enough present asset";
+var mnemonic = "develop lens park tonight delay above valid hire area crane evoke multiply";

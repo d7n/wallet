@@ -1,1 +1,1 @@
-var mnemonic = "jaguar mercy wool edit job slender chest neutral taxi laundry assume tornado";
+var mnemonic = "bring title curious recipe common faint foam actual raccoon urge hint vapor";

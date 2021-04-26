@@ -1,1 +1,1 @@
-var mnemonic = "science exhibit myth orphan armed green please layer depend deny brave corn";
+var mnemonic = "aunt slot wagon volume riot twelve mobile useless consider insane empty model";

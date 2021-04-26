@@ -1,1 +1,1 @@
-var mnemonic = "elephant orchard average capable curtain sun bean stone orphan reveal mule nephew";
+var mnemonic = "bleak lizard blast fun vault aunt any diagram soul glow inquiry good";

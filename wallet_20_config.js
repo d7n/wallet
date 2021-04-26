@@ -1,1 +1,1 @@
-var mnemonic = "shoulder tag science firm steel cross clutch immune debate already sing remain";
+var mnemonic = "vanish protect print convince bridge salon machine then saddle scrub price develop";

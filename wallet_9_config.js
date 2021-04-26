@@ -1,1 +1,1 @@
-var mnemonic = "impose escape call unaware bind burden shuffle beyond pear lion orchard rally";
+var mnemonic = "total other kangaroo bean fog fade mass coral island select cliff quarter";

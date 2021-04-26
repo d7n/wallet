@@ -1,1 +1,1 @@
-var mnemonic = "trick fine cheap scale edit work repair merge inherit spend gauge erosion";
+var mnemonic = "crawl paddle cloud ocean penalty exile toy resemble episode dignity ill treat";

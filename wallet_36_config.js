@@ -1,1 +1,1 @@
-var mnemonic = "furnace celery idea any version glass toss random token sleep client tuition";
+var mnemonic = "culture office sail verb kit myself elevator clever crime debris scissors almost";

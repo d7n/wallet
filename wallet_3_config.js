@@ -1,1 +1,1 @@
-var mnemonic = "assist final forget program coyote admit monkey you scatter flat welcome month";
+var mnemonic = "shed walnut affair direct runway dress elite state unit dream cabin gasp";

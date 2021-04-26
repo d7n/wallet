@@ -1,1 +1,1 @@
-var mnemonic = "basket faith unaware term maple outdoor what hint fire awake boat circle";
+var mnemonic = "valley oval word attract firm survey economy engine olympic find jungle end";

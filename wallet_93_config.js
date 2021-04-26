@@ -1,1 +1,1 @@
-var mnemonic = "advance jacket stadium fix motor able fat guard beef quarter screen business";
+var mnemonic = "know sphere model bench suggest leave awful song muffin december capital unlock";

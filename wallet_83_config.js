@@ -1,1 +1,1 @@
-var mnemonic = "harbor lounge network skate under world raw best balance coach glass scrub";
+var mnemonic = "ice open heart fire blanket cart timber novel author fever antenna fringe";

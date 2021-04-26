@@ -1,1 +1,1 @@
-var mnemonic = "scare seed wood minor save whale segment marble sound angle swear point";
+var mnemonic = "magnet expose smooth nut pelican liquid help fury labor security tissue boost";

@@ -1,1 +1,1 @@
-var mnemonic = "cereal furnace decline medal special mango car wire cram must clever half";
+var mnemonic = "culture festival congress aim virus copper refuse weekend toward exhibit calm miss";

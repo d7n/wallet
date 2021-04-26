@@ -1,1 +1,1 @@
-var mnemonic = "mixed opinion title inject jump since giraffe move limit veteran few ecology";
+var mnemonic = "obvious ozone club senior trend abuse excuse resist assault urge tray divorce";
