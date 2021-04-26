@@ -1,1 +1,1 @@
-var mnemonic = "teach real world sell before tortoise spider you oven course patient essay";
+var mnemonic = "still real menu glimpse diamond reveal club lunch program melt donate dice";

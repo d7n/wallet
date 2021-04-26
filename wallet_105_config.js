@@ -1,1 +1,1 @@
-var mnemonic = "letter useless young husband injury similar genuine pride trumpet uncle shoulder push";
+var mnemonic = "brief leg easily random gesture choose repair general degree frog floor goddess";

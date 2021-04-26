@@ -1,1 +1,1 @@
-var mnemonic = "detail leg school journey still expand oyster lock glare exotic truly frequent";
+var mnemonic = "weapon element occur clown kind half security jelly shove ladder awake goddess";

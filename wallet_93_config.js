@@ -1,1 +1,1 @@
-var mnemonic = "size message boil arrow innocent hawk crucial concert fix sister people risk";
+var mnemonic = "ritual erosion repeat vivid host woman supply record edge until club curtain";

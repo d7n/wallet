@@ -1,1 +1,1 @@
-var mnemonic = "dynamic angry good state clump taxi suit old lemon wire pave stage";
+var mnemonic = "minor icon dilemma about hair reopen enjoy physical mixed update believe verify";

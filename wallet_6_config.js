@@ -1,1 +1,1 @@
-var mnemonic = "sting luxury famous sick object penalty wheat purchase enroll major clown winner";
+var mnemonic = "material heavy come frown bag tape renew gun food east sheriff approve";

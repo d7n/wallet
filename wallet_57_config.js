@@ -1,1 +1,1 @@
-var mnemonic = "life abstract clinic elbow mushroom pulp any opinion vendor punch ecology brisk";
+var mnemonic = "favorite pigeon require accident super foster cram pear mesh cake oblige time";

@@ -1,1 +1,1 @@
-var mnemonic = "trade select unaware style female fiscal equip extend rich wise only donor";
+var mnemonic = "arrest route diamond jelly receive link install blue weekend crack pattern cluster";

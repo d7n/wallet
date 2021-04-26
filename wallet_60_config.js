@@ -1,1 +1,1 @@
-var mnemonic = "pudding stadium scheme option innocent urban vault pulse myself treat dune reduce";
+var mnemonic = "fragile fix wasp horse hobby sugar spirit check margin diesel ugly alpha";

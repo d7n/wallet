@@ -1,1 +1,1 @@
-var mnemonic = "album weapon consider okay anchor first lucky reform royal recall ticket index";
+var mnemonic = "frequent rib crumble shuffle stuff six dignity mechanic direct urge outdoor regular";

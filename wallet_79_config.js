@@ -1,1 +1,1 @@
-var mnemonic = "fat leave direct drip lava loan orchard draw hazard case hole rain";
+var mnemonic = "profit bounce census awful jacket client noble heavy season interest retreat slush";

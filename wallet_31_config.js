@@ -1,1 +1,1 @@
-var mnemonic = "pitch horse comfort atom indoor must exhibit awesome element today wisdom affair";
+var mnemonic = "inner unique accident riot reveal civil wedding asthma accident frost hope spatial";

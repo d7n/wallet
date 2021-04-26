@@ -1,1 +1,1 @@
-var mnemonic = "enhance sort burst flavor space water clog broom hand learn hurt giggle";
+var mnemonic = "uphold swing adult fury air message fit meadow team spice double filter";

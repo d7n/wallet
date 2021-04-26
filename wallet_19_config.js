@@ -1,1 +1,1 @@
-var mnemonic = "deputy nice sort cement place elephant minor shoot brief frequent prefer sausage";
+var mnemonic = "control cave panic neither december torch region visa senior size trim pulp";

@@ -1,1 +1,1 @@
-var mnemonic = "remain bubble skirt repeat flee chase wage mad face midnight execute drive";
+var mnemonic = "rotate curve project whisper fatigue frog kitten bar notable addict wash woman";

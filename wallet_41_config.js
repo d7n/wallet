@@ -1,1 +1,1 @@
-var mnemonic = "update speak domain remain guilt spring fragile party enough file about field";
+var mnemonic = "hold yard caught page public invest will bunker pipe ceiling general strong";

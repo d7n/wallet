@@ -1,1 +1,1 @@
-var mnemonic = "anger jealous donkey juice lend coin tennis pulp envelope soul enough female";
+var mnemonic = "blossom iron exist elite term kingdom craft laptop zero wage kidney slush";

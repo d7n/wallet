@@ -1,1 +1,1 @@
-var mnemonic = "plastic worth enroll vacant scale iron gasp faith kiss mobile daughter differ";
+var mnemonic = "trust make another enforce split define repair term abandon original clever invite";

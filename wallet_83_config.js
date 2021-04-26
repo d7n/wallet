@@ -1,1 +1,1 @@
-var mnemonic = "fancy inquiry cook tennis wasp stool people ritual language arrest used fault";
+var mnemonic = "smile glimpse hill zebra shy near yellow bomb tiger dice pepper vague";

@@ -1,1 +1,1 @@
-var mnemonic = "beauty drink chuckle result subject arena yellow flame solar injury rally wash";
+var mnemonic = "parent desk fantasy over gaze mobile six noise august catalog solid run";

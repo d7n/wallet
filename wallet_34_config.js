@@ -1,1 +1,1 @@
-var mnemonic = "clip pitch find fancy boring coast photo area foam valley paper poverty";
+var mnemonic = "welcome oppose illness ignore involve wall better taxi prison duty keep credit";

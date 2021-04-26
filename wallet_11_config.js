@@ -1,1 +1,1 @@
-var mnemonic = "midnight table raccoon differ panic universe mansion order endless fever asthma liquid";
+var mnemonic = "noise river tortoise blast fog enable hunt few between twenty wedding basic";

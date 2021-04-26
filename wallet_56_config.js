@@ -1,1 +1,1 @@
-var mnemonic = "husband become broken arrive gas salt shine treat useless draft battle despair";
+var mnemonic = "where common daring fetch barrel book puzzle keep hire memory tuna diagram";

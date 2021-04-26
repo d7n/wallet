@@ -1,1 +1,1 @@
-var mnemonic = "quarter ball board weapon pause muscle term dawn inherit harbor love beach";
+var mnemonic = "bargain best soldier glimpse crater disease typical amateur day diary very during";

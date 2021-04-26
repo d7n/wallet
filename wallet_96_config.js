@@ -1,1 +1,1 @@
-var mnemonic = "sea water actress seed client step robust top inject leader excess develop";
+var mnemonic = "body connect obtain beyond maze wage load story cinnamon grow creek network";

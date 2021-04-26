@@ -1,1 +1,1 @@
-var mnemonic = "thank surround theory wall enhance school suspect rural lift table sting bean";
+var mnemonic = "stove convince train field hawk hard fee mountain seek media mixed fly";

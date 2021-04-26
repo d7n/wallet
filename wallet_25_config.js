@@ -1,1 +1,1 @@
-var mnemonic = "decade exist tone vital flower radar like dolphin remain arctic where priority";
+var mnemonic = "act candy meadow still yard length clog disagree scrap awkward basic identify";

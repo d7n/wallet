@@ -1,1 +1,1 @@
-var mnemonic = "essence nominee smooth despair vintage ripple element chef evidence illness moral stamp";
+var mnemonic = "distance stem ecology scan agree slam diesel ridge key venue junior rabbit";

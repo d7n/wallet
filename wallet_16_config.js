@@ -1,1 +1,1 @@
-var mnemonic = "file antique tower hybrid advance grow couple mystery beef eyebrow frequent permit";
+var mnemonic = "nothing pilot urban cousin plastic illegal dish member have brother control chimney";

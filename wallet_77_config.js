@@ -1,1 +1,1 @@
-var mnemonic = "lamp rotate congress torch paper accident wagon response eight security quarter lunar";
+var mnemonic = "artist apology evidence witness always dragon honey identify unit rural matrix kingdom";

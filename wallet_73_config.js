@@ -1,1 +1,1 @@
-var mnemonic = "august coyote swallow fence coral good planet retire kiss copy lyrics bind";
+var mnemonic = "lounge cost first minor smile nasty ripple myth advance provide slice forest";

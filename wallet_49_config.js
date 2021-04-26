@@ -1,1 +1,1 @@
-var mnemonic = "embark angle step company journey riot deliver essay bid fame athlete idea";
+var mnemonic = "stock trip miracle goddess stamp merit heavy turkey harvest echo search document";

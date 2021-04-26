@@ -1,1 +1,1 @@
-var mnemonic = "kind misery say pole endorse power sing couch now movie supply busy";
+var mnemonic = "correct leaf flash diet train staff emerge utility camera drop useful pill";

@@ -1,1 +1,1 @@
-var mnemonic = "round when shift lyrics select satoshi industry dirt gadget genuine monkey street";
+var mnemonic = "ticket depth month illness garden anxiety viable fun visit arctic notice eternal";

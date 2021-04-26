@@ -1,1 +1,1 @@
-var mnemonic = "cricket hair pause fox radar siege airport stereo load eye believe danger";
+var mnemonic = "caught loan soap vanish deputy session retreat pigeon taxi scissors dilemma auction";

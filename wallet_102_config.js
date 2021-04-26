@@ -1,1 +1,1 @@
-var mnemonic = "include enforce another equal tissue isolate host broken chuckle book response drift";
+var mnemonic = "delay can leisure fiction response lake tower hunt dinosaur solid crumble since";

@@ -1,1 +1,1 @@
-var mnemonic = "hen fortune sleep upon violin river divide wedding tumble level small youth";
+var mnemonic = "syrup airport catch road cabbage discover similar few club hawk evidence soft";

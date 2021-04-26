@@ -1,1 +1,1 @@
-var mnemonic = "enforce learn expire science parade error test effort jelly cake romance issue";
+var mnemonic = "snap joke divert same episode butter mail number chronic scrub satisfy swap";

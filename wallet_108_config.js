@@ -1,1 +1,1 @@
-var mnemonic = "harsh birth undo feature climb kangaroo ketchup wide draw maximum scrap torch";
+var mnemonic = "join earn among scene member arrange voyage rich scan senior hundred tribe";

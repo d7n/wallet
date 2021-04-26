@@ -1,1 +1,1 @@
-var mnemonic = "duck crucial prosper differ vast common grab harvest lyrics lift wash extend";
+var mnemonic = "strategy wave mind reopen veteran delay girl robust antique today lend asset";

@@ -1,1 +1,1 @@
-var mnemonic = "tuition often finish insect final alley february pretty garment original detect entire";
+var mnemonic = "next belt design estate note patch grit predict rival garlic field suspect";

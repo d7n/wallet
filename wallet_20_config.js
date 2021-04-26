@@ -1,1 +1,1 @@
-var mnemonic = "novel reunion weasel silver video winter hawk imitate owner scorpion blast angry";
+var mnemonic = "gym three nut chalk quit spend project gun banner soft ship move";

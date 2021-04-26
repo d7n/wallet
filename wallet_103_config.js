@@ -1,1 +1,1 @@
-var mnemonic = "lounge bargain float convince garlic battle tool dinosaur company hedgehog dust pass";
+var mnemonic = "beyond doll bulk crazy sister betray duck right parrot hospital sting blue";

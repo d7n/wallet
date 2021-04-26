@@ -1,1 +1,1 @@
-var mnemonic = "bronze material minor myself weasel sample holiday educate base flash bread hybrid";
+var mnemonic = "tip either apart vendor dry gap sound hero tower false maze myself";

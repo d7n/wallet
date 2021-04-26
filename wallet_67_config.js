@@ -1,1 +1,1 @@
-var mnemonic = "picture poverty barrel survey old utility tray physical stay van drop fancy";
+var mnemonic = "lunch crowd zebra desk office fruit fiction organ ceiling boat raccoon relief";

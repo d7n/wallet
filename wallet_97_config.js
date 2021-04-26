@@ -1,1 +1,1 @@
-var mnemonic = "labor ensure weekend soda immense orange zone file favorite box wise chase";
+var mnemonic = "measure damage amount pencil print damp trophy stem pizza this wine stamp";

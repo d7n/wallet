@@ -1,1 +1,1 @@
-var mnemonic = "draft decade salt coast thing panel illegal snack verify deliver confirm author";
+var mnemonic = "stem dish bind boss gun game panther creek language join diagram picnic";

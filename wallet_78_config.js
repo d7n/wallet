@@ -1,1 +1,1 @@
-var mnemonic = "detail order girl artist sample indicate seven proud result image sadness caught";
+var mnemonic = "sand undo strong curtain quantum skate eagle bus runway country front immune";

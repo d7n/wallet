@@ -1,1 +1,1 @@
-var mnemonic = "kitchen wreck doctor there trick divert describe attend favorite logic deputy width";
+var mnemonic = "seat window monitor blanket race elephant buyer zero section rude submit sea";

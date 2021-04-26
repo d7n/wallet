@@ -1,1 +1,1 @@
-var mnemonic = "across scout bar raw curtain visa assault unfair ski arch nest bullet";
+var mnemonic = "start volume engine wealth blade father tray sport drip essence immune fish";

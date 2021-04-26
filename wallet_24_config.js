@@ -1,1 +1,1 @@
-var mnemonic = "face spray hood tennis input science cart swap velvet popular soldier split";
+var mnemonic = "island small provide gravity text dust fiction pear vast result pony until";

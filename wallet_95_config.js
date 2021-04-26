@@ -1,1 +1,1 @@
-var mnemonic = "avoid balcony gap much concert next police climb grocery soft wire village";
+var mnemonic = "session special parent casual insane source globe casual tone face rich infant";

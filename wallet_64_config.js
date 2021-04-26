@@ -1,1 +1,1 @@
-var mnemonic = "attract dismiss glow body reopen audit detect cinnamon exchange wreck barely nice";
+var mnemonic = "eagle iron enroll planet click fit rude lyrics analyst bargain thumb guilt";

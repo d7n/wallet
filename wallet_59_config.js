@@ -1,1 +1,1 @@
-var mnemonic = "trophy radar lyrics vague clinic shine club entry emotion fine tunnel flee";
+var mnemonic = "wool peasant beauty sugar wait glance episode drama heavy task cube pledge";

@@ -1,1 +1,1 @@
-var mnemonic = "seat circle pelican saddle vapor shoot gravity voice use wreck secret easily";
+var mnemonic = "race olive asthma portion phrase tool sister summer art churn walk never";

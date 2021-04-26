@@ -1,1 +1,1 @@
-var mnemonic = "pizza one rude fire make limit march city company slush siege cable";
+var mnemonic = "session grit sausage place arctic account peasant mind enforce shallow rice theme";

@@ -1,1 +1,1 @@
-var mnemonic = "angle pepper someone wide thing welcome cause squirrel split during tide hazard";
+var mnemonic = "casual firm pond spin prison castle green mechanic print chimney upon scrub";

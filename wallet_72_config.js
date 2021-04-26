@@ -1,1 +1,1 @@
-var mnemonic = "example radar angry panda prepare oyster know govern glimpse fetch rain sunset";
+var mnemonic = "hill promote leaf subway inform ozone bright ozone pass anchor dutch shop";

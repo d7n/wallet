@@ -1,1 +1,1 @@
-var mnemonic = "comic away rotate broccoli endless width jeans bracket pistol alley flip glue";
+var mnemonic = "deny donor piece thought cook humble can renew inquiry bicycle volcano essay";

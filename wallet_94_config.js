@@ -1,1 +1,1 @@
-var mnemonic = "ride together prize utility spend funny please rookie gun odor rough iron";
+var mnemonic = "sad runway taste weapon aunt group detail void height source seed park";

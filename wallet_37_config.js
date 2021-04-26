@@ -1,1 +1,1 @@
-var mnemonic = "zoo crumble mind catalog hello talent artist bicycle bleak power file barrel";
+var mnemonic = "slim sudden enter victory room badge laptop pen puzzle enact math crazy";

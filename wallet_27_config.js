@@ -1,1 +1,1 @@
-var mnemonic = "sell busy ankle coral protect undo amateur wrestle early modify nasty lava";
+var mnemonic = "tenant buzz merit desert pony fortune inhale twin clean rail equip tuition";

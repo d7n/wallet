@@ -1,1 +1,1 @@
-var mnemonic = "motion donor easily vacuum venture inherit travel exotic bullet royal leader abandon";
+var mnemonic = "dutch cram carpet unlock space grain message few same category panther nominee";

@@ -1,1 +1,1 @@
-var mnemonic = "shop peasant segment parrot torch afraid fitness title guard slow tortoise dinosaur";
+var mnemonic = "medal license basic harvest proof film million hover push unusual ridge drastic";

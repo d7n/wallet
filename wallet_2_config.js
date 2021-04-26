@@ -1,1 +1,1 @@
-var mnemonic = "rain market tumble assist enact since where renew brisk own stick dignity";
+var mnemonic = "gown special pear canal pride junk engage topple detail spell bitter kitchen";

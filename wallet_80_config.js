@@ -1,1 +1,1 @@
-var mnemonic = "episode gather mixture witness deputy heavy spice opera nasty rapid october bread";
+var mnemonic = "exotic dirt syrup toddler range genre submit gift inner fuel first segment";

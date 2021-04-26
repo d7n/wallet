@@ -1,1 +1,1 @@
-var mnemonic = "almost into alter tape symptom violin token only miracle album next marble";
+var mnemonic = "shove zone surge alcohol mansion leave insane unfold maximum valve hedgehog feed";

@@ -1,1 +1,1 @@
-var mnemonic = "chronic divorce garbage shed close oval tomorrow never fish entry cushion rain";
+var mnemonic = "assist fee act wrong fetch follow envelope boost aware radar episode uncle";

@@ -1,1 +1,1 @@
-var mnemonic = "scorpion awake stomach detail like solve venue bike tiger banana claw fiber";
+var mnemonic = "pact clutch smooth salad neither two sponsor scout expose spin bus athlete";

@@ -1,1 +1,1 @@
-var mnemonic = "tail detect inform crucial net memory shell search shop index chapter cheese";
+var mnemonic = "april screen avoid kit tower lunar gadget grit source arch borrow panther";

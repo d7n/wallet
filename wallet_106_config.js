@@ -1,1 +1,1 @@
-var mnemonic = "useful embark release clap august journey turkey crucial bitter attract truck scale";
+var mnemonic = "table wood harsh draft wish rescue matter bar struggle life endorse usual";

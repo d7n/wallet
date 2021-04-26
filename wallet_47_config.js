@@ -1,1 +1,1 @@
-var mnemonic = "tragic afford level cruel rival swallow load assume balcony weapon section canoe";
+var mnemonic = "purpose nice uphold matter hour bus denial laptop duck banana glow culture";

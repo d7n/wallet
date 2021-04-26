@@ -1,1 +1,1 @@
-var mnemonic = "sight you income habit hip direct chicken observe cross vote festival easy";
+var mnemonic = "all young tuna wall return school radio ride figure funny discover meadow";

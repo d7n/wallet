@@ -1,1 +1,1 @@
-var mnemonic = "unknown cable day visual dance scheme find hero pool burger danger lawn";
+var mnemonic = "mix bubble beauty ostrich asset defy place tenant animal squirrel airport crouch";

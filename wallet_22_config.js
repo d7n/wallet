@@ -1,1 +1,1 @@
-var mnemonic = "science plate call half limb dad soon pitch cruise among cycle twice";
+var mnemonic = "prosper giant move reduce two village seminar ghost brass pulse wet cliff";

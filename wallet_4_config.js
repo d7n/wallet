@@ -1,1 +1,1 @@
-var mnemonic = "crunch congress buffalo danger dragon plunge village renew rapid square edit force";
+var mnemonic = "aim dynamic defy chunk blouse grow steak fault happy dutch alpha body";

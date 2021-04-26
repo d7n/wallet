@@ -1,1 +1,1 @@
-var mnemonic = "follow raven also aim feel use team slab antenna spoil shove liberty";
+var mnemonic = "lawsuit recall dutch mass boost canvas motor spice lecture fringe human avoid";

@@ -1,1 +1,1 @@
-var mnemonic = "distance outer surprise winner dry confirm fire material vague oil moon author";
+var mnemonic = "play example hen round area foil always boy opera party foot kitchen";

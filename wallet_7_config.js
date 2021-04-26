@@ -1,1 +1,1 @@
-var mnemonic = "inherit loyal weapon now swallow wine marine sphere antique mean become odor";
+var mnemonic = "addict belt hood action edge six erase wisdom pony index gossip affair";

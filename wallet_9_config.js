@@ -1,1 +1,1 @@
-var mnemonic = "among chalk treat dose symbol coil disagree since model pretty grape imitate";
+var mnemonic = "runway crumble tragic proof umbrella good grocery focus metal detail into reject";

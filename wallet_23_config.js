@@ -1,1 +1,1 @@
-var mnemonic = "dress window penalty view truly dynamic weather debate tilt inject ozone quit";
+var mnemonic = "camera always mean fluid screen basic consider inquiry success sick vintage outdoor";

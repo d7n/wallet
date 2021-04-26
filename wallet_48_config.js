@@ -1,1 +1,1 @@
-var mnemonic = "girl theory venture ranch grief happy twin yard section extra try mean";
+var mnemonic = "license knock merry eager track rural absurd dwarf clock renew beef fiscal";

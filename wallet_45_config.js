@@ -1,1 +1,1 @@
-var mnemonic = "absorb crumble bonus farm bomb portion talent split pet act palm truck";
+var mnemonic = "scrap cloth brain question head south height medal buyer robot field system";

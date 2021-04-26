@@ -1,1 +1,1 @@
-var mnemonic = "execute chef shine all metal pitch visit capital boat bean supreme cycle";
+var mnemonic = "extend clown rhythm display school crunch trouble curtain film off cool tunnel";

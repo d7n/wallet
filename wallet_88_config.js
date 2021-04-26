@@ -1,1 +1,1 @@
-var mnemonic = "surge happy gaze pink arrow found film buffalo satoshi need appear soccer";
+var mnemonic = "moon crystal emotion agent fade admit hobby staff squirrel pretty roast modify";

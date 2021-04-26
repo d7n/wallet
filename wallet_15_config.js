@@ -1,1 +1,1 @@
-var mnemonic = "fitness exhibit fun knock quarter legal van woman foam run island hip";
+var mnemonic = "near member stage photo mandate inspire audit meadow vacuum bike little wagon";

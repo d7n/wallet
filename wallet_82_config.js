@@ -1,1 +1,1 @@
-var mnemonic = "smoke bread fancy love solve solve medal soda pig admit bless wisdom";
+var mnemonic = "sorry huge current slim swim among profit antenna dutch foil ghost brother";

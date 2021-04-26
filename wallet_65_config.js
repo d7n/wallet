@@ -1,1 +1,1 @@
-var mnemonic = "wash wreck maximum canvas alone fall fabric core morning curious egg try";
+var mnemonic = "mercy diagram kiss calm legal nominee present always surprise clarify kiss cheap";
