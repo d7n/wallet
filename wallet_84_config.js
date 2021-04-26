@@ -1,1 +1,1 @@
-var mnemonic = "insect used maid snow yard effort trust spice advance country isolate quote";
+var mnemonic = "return hobby pencil people cactus pole solution win bag attend choice nuclear";

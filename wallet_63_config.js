@@ -1,1 +1,1 @@
-var mnemonic = "poverty lift keep senior bulb puppy peanut fiber finger obvious rug tobacco";
+var mnemonic = "cactus denial wash boil speed carbon away fancy own grass tool bacon";

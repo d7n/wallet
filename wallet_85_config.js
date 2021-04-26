@@ -1,1 +1,1 @@
-var mnemonic = "wrap analyst harbor expand move lab ceiling scan world innocent island color";
+var mnemonic = "conduct benefit fan marine duty burst ahead used mountain dinosaur bar immense";

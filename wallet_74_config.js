@@ -1,1 +1,1 @@
-var mnemonic = "forest warm demise cruel prefer audit space runway total original junior slide";
+var mnemonic = "practice advice inform lunch few load story table pitch tilt rely shrimp";

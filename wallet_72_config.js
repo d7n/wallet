@@ -1,1 +1,1 @@
-var mnemonic = "trick gloom nation habit cake anchor design attitude bonus service lounge throw";
+var mnemonic = "oblige hedgehog confirm ball famous sense surge safe change banana cart anchor";

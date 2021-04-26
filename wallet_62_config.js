@@ -1,1 +1,1 @@
-var mnemonic = "exhibit bonus rice option suffer ancient sick employ acid mimic mercy real";
+var mnemonic = "easy common rule impact place situate atom manage gift clock fabric goose";

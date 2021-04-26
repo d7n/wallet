@@ -1,1 +1,1 @@
-var mnemonic = "gentle horn write outside draft recipe heart memory debate nest welcome eight";
+var mnemonic = "length brief repeat pilot mystery rug exile govern fragile digital trick flip";

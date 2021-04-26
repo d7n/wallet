@@ -1,1 +1,1 @@
-var mnemonic = "book pear learn capable monster range group dignity share expire survey sand";
+var mnemonic = "build orange check raise fun myth make need easily put rhythm neutral";

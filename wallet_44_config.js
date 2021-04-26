@@ -1,1 +1,1 @@
-var mnemonic = "member panel someone man beauty similar angry frame potato adult three choice";
+var mnemonic = "size enjoy achieve also thing long kid grocery praise render interest nurse";

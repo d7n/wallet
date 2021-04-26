@@ -1,1 +1,1 @@
-var mnemonic = "egg icon decide hazard bullet bean reject off mistake guard radio announce";
+var mnemonic = "fury oak uncle tornado idle spare easy base badge dolphin limb real";

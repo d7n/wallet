@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon unit flock grant olympic peace purpose stable match call trouble hockey";
+var mnemonic = "mobile remind near lawn actual tired pony cliff faculty region play bean";

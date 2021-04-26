@@ -1,1 +1,1 @@
-var mnemonic = "usual denial access manage grunt patch apart egg gravity figure law accident";
+var mnemonic = "steak change praise funny album clock coach shaft bullet nation heart intact";

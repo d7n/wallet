@@ -1,1 +1,1 @@
-var mnemonic = "school energy used cube expire inhale twice tired mammal soap eternal limit";
+var mnemonic = "moral achieve smile recycle immense arctic title often mistake deposit toddler mandate";

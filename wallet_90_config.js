@@ -1,1 +1,1 @@
-var mnemonic = "absorb cause winner galaxy anchor true fortune measure access cupboard minor supply";
+var mnemonic = "light coffee repeat proud girl oven cream gauge comic gas essence acid";

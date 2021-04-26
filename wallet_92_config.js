@@ -1,1 +1,1 @@
-var mnemonic = "tortoise nice width price lyrics wonder side balance similar radio fiber brick";
+var mnemonic = "penalty pear aerobic arrest mad desk size illegal edit step limb poverty";

@@ -1,1 +1,1 @@
-var mnemonic = "analyst chimney honey wrist side duty mirror paddle way nuclear snack chat";
+var mnemonic = "forward budget firm kit cruel cheap protect behave catch foot scrap burger";

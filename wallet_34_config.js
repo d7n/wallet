@@ -1,1 +1,1 @@
-var mnemonic = "flame circle gun million enforce gap hockey climb local dinner anxiety wheel";
+var mnemonic = "gasp husband borrow cage prison august clever twist boy lady across employ";

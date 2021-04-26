@@ -1,1 +1,1 @@
-var mnemonic = "expect venture bring must mesh fossil public current wisdom mountain ethics enroll";
+var mnemonic = "turtle suit domain liar inquiry motion medal pencil dice draw process swing";

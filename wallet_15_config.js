@@ -1,1 +1,1 @@
-var mnemonic = "helmet license note chief task glance rifle fat purity catch boat poverty";
+var mnemonic = "stage taxi crowd patch trend below mystery verb shallow traffic divert awake";

@@ -1,1 +1,1 @@
-var mnemonic = "lunar length sniff silver question toy burger erosion message wood stem hub";
+var mnemonic = "blood maid clump logic quote kit federal park inherit better debate all";

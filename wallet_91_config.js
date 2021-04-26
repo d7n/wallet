@@ -1,1 +1,1 @@
-var mnemonic = "enlist trade panther brand struggle rookie submit allow master link evidence delay";
+var mnemonic = "defense gain way hobby tortoise skin quiz mean crime book shell border";

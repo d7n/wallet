@@ -1,1 +1,1 @@
-var mnemonic = "mimic pistol kick voice gun source sister figure mutual regular beach crime";
+var mnemonic = "diet home midnight figure muffin orange burst display heart vague broken wealth";

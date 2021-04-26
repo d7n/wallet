@@ -1,1 +1,1 @@
-var mnemonic = "pioneer before wish manage fabric degree lawsuit rough blind aspect squeeze bean";
+var mnemonic = "tilt student opera client throw afraid mouse view front album hip fog";

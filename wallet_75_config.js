@@ -1,1 +1,1 @@
-var mnemonic = "before doctor country destroy farm patient denial guide agent lava manage guitar";
+var mnemonic = "inspire title meat pool lawn adapt vague civil twist fatal crane ketchup";

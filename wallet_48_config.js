@@ -1,1 +1,1 @@
-var mnemonic = "ensure enemy mercy person reduce puppy alarm embark reason cake zebra primary";
+var mnemonic = "milk oyster oil soup tackle salute pencil initial book ankle fog fault";

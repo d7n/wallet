@@ -1,1 +1,1 @@
-var mnemonic = "crawl snack marble coral naive repeat faith swim dynamic talk fatigue bundle";
+var mnemonic = "twice vague volcano under great useful fantasy ankle decrease shell velvet weasel";

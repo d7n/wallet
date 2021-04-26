@@ -1,1 +1,1 @@
-var mnemonic = "prepare only fiscal payment ketchup foot whip leopard town oppose slim all";
+var mnemonic = "order fuel inquiry music alien clerk reward label rural already staff once";

@@ -1,1 +1,1 @@
-var mnemonic = "odor match trip grant obscure payment language shove wonder logic sketch sphere";
+var mnemonic = "eight surprise split author easy make lawn alarm mosquito ball surprise suffer";

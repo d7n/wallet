@@ -1,1 +1,1 @@
-var mnemonic = "item rocket jacket rural unaware bubble reopen afford remember pond refuse gesture";
+var mnemonic = "gesture join glove goat outer gain net syrup canvas nut mixed holiday";

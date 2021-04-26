@@ -1,1 +1,1 @@
-var mnemonic = "science art course talk play album eternal bitter mystery birth wolf eagle";
+var mnemonic = "debris stomach indicate liquid earn traffic heart body neglect position rent melody";

@@ -1,1 +1,1 @@
-var mnemonic = "grant walnut cushion assume inspire wash year toast clinic empty lawn fossil";
+var mnemonic = "crazy weekend gospel hedgehog obvious month clay walk domain photo clarify unhappy";

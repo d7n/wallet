@@ -1,1 +1,1 @@
-var mnemonic = "gallery harsh antique boy spare coyote broccoli shoulder limb lonely acoustic history";
+var mnemonic = "bless quiz initial machine main slab sail magnet orbit special kingdom keen";

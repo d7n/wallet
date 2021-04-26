@@ -1,1 +1,1 @@
-var mnemonic = "neglect rely ocean alert since vault together grant festival about bridge perfect";
+var mnemonic = "surge resist bachelor tourist valley torch illness enlist lizard pool mesh girl";

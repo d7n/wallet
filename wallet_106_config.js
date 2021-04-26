@@ -1,1 +1,1 @@
-var mnemonic = "nuclear cheap huge title hover viable hundred fancy social dilemma melody affair";
+var mnemonic = "neutral absorb cement control purity vocal inspire edit metal kite base miss";

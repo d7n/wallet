@@ -1,1 +1,1 @@
-var mnemonic = "execute strong margin grain plunge genius unveil wait margin cousin human multiply";
+var mnemonic = "flash promote energy task bridge garbage security diary decrease venture cushion nothing";

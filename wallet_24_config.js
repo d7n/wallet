@@ -1,1 +1,1 @@
-var mnemonic = "pattern nephew bird pole soup hill coyote female shield pistol area puppy";
+var mnemonic = "economy surprise special patient congress adjust bleak zone merry ugly section blue";

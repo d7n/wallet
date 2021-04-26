@@ -1,1 +1,1 @@
-var mnemonic = "riot thank main energy else earn furnace rival gather since alcohol possible";
+var mnemonic = "camp trend venue easy dress tape sting light bid six label high";

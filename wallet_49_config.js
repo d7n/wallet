@@ -1,1 +1,1 @@
-var mnemonic = "reflect guard fluid cradle length drill girl print exhaust law absent flat";
+var mnemonic = "relax know mention rude seven indicate know wise cycle little celery rocket";

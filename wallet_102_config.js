@@ -1,1 +1,1 @@
-var mnemonic = "test reject unfold seminar luxury venture indoor model owner luggage flat weird";
+var mnemonic = "rotate burden that flower three raven devote wool globe garment destroy disagree";

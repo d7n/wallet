@@ -1,1 +1,1 @@
-var mnemonic = "rally return suffer belt urge minor base dragon squirrel soul that file";
+var mnemonic = "play bracket onion anger trash parrot off meadow profit crunch candy curious";

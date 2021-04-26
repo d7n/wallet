@@ -1,1 +1,1 @@
-var mnemonic = "avoid caught genuine slender cradle video wild another security skin exist sail";
+var mnemonic = "fossil tragic leaf improve tool degree agree start street stand jaguar fine";

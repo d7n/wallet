@@ -1,1 +1,1 @@
-var mnemonic = "profit govern rib gloom scrap audit during raise derive juice artist virus";
+var mnemonic = "wasp flavor upon dog adjust come test prepare ability asthma motor adult";

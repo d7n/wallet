@@ -1,1 +1,1 @@
-var mnemonic = "car silly repair dune lunch notice point reject explain before result huge";
+var mnemonic = "brother music teach typical doctor miracle report clown oak reform original glad";

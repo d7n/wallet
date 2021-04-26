@@ -1,1 +1,1 @@
-var mnemonic = "recipe aware priority sense ozone change crack dinner eight noise autumn crew";
+var mnemonic = "voyage stamp expand check squeeze tank half strike toddler march brass guide";

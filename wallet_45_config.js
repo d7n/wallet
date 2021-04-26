@@ -1,1 +1,1 @@
-var mnemonic = "club want eight base predict undo valid sell capital govern gesture demand";
+var mnemonic = "demand siege clinic tooth present radar twice relax quiz acoustic lumber parrot";

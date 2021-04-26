@@ -1,1 +1,1 @@
-var mnemonic = "toddler script assume state search rival nut rural robot away loud resemble";
+var mnemonic = "awful garage bone census diamond kite turkey security talent love pyramid slim";

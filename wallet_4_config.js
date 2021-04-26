@@ -1,1 +1,1 @@
-var mnemonic = "tree cash employ sign file galaxy edit profit cat eagle manual foam";
+var mnemonic = "wolf clinic print skill toward acoustic similar wall punch occur road group";

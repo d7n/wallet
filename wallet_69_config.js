@@ -1,1 +1,1 @@
-var mnemonic = "abandon feed crater word tenant mansion bottom catch mansion risk exhaust oyster";
+var mnemonic = "rug banana unhappy nasty math crop dragon suffer salmon nose special clutch";

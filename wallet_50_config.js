@@ -1,1 +1,1 @@
-var mnemonic = "talk stay citizen suggest trouble error pyramid artefact borrow exotic ostrich ranch";
+var mnemonic = "meadow coach comic learn miracle mouse rare crew brain purchase truth rifle";

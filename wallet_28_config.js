@@ -1,1 +1,1 @@
-var mnemonic = "range virtual menu either twenty choose hair mirror victory visual once hat";
+var mnemonic = "order seat blue patient citizen device pill arrow pig piano dog emerge";

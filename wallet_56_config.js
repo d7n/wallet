@@ -1,1 +1,1 @@
-var mnemonic = "harsh bar style decade oak bread verify learn acoustic pause frog liquid";
+var mnemonic = "decrease banner kit disease stamp steak avoid image warm fault vital brown";

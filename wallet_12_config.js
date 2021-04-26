@@ -1,1 +1,1 @@
-var mnemonic = "black rely soul twin birth sad surge eternal august acid swim detail";
+var mnemonic = "select this accuse jaguar copy position melt hawk tenant twin capable fiber";

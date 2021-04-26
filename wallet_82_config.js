@@ -1,1 +1,1 @@
-var mnemonic = "glow casino message catalog clarify inch often dirt worth print drive suit";
+var mnemonic = "switch hybrid syrup coin toward expect radar wait sword patch gap flame";

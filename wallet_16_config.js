@@ -1,1 +1,1 @@
-var mnemonic = "garlic primary very wrist uncover grass exchange large rude liquid luxury topple";
+var mnemonic = "ostrich bounce spread powder kiwi roof original mad twin move hire head";

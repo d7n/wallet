@@ -1,1 +1,1 @@
-var mnemonic = "menu oppose random horror razor gap onion finish hidden dune similar often";
+var mnemonic = "faculty unaware fox vivid crop meat orbit outer milk evil news easily";

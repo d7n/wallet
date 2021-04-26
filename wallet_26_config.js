@@ -1,1 +1,1 @@
-var mnemonic = "valid note category father tortoise despair choose rookie endless despair infant intact";
+var mnemonic = "issue erupt company paddle liquid much cigar bicycle behave bullet artwork blood";

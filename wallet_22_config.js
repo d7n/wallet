@@ -1,1 +1,1 @@
-var mnemonic = "magic cousin know liberty farm client collect peasant camera law airport convince";
+var mnemonic = "million regret saddle hollow prefer glad follow attack adjust brand ridge parrot";

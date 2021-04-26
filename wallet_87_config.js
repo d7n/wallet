@@ -1,1 +1,1 @@
-var mnemonic = "reject engage glance wait laundry snap able sentence purity come describe thing";
+var mnemonic = "slim core love dolphin retreat chief useless crucial lend slide boost silly";

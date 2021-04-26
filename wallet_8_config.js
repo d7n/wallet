@@ -1,1 +1,1 @@
-var mnemonic = "audit tomorrow equal wait water trouble light example road planet teach federal";
+var mnemonic = "embark nasty swamp sibling degree ready retire lemon jar exotic mask trumpet";

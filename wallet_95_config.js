@@ -1,1 +1,1 @@
-var mnemonic = "sadness essay torch spell idea lake blue you portion moment guard another";
+var mnemonic = "frame cable young radio market unlock battle excite fiber shift solve common";

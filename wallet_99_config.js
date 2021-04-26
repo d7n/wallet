@@ -1,1 +1,1 @@
-var mnemonic = "stand silent hamster hole online season desert pipe depart replace ivory feature";
+var mnemonic = "ridge chase accident average fork immune claw giggle behave sign dad scout";

@@ -1,1 +1,1 @@
-var mnemonic = "holiday paper mass wedding grief gold monster during evidence disorder reopen sibling";
+var mnemonic = "album adjust client about below volume name copper color carbon spring teach";

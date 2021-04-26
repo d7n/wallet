@@ -1,1 +1,1 @@
-var mnemonic = "ranch confirm unlock trouble razor rough width unusual cargo try tuna blossom";
+var mnemonic = "vacant ecology borrow uphold key switch announce save tool crunch melt father";

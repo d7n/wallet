@@ -1,1 +1,1 @@
-var mnemonic = "spider unable smoke lumber later float stand update smoke truck arena sting";
+var mnemonic = "town scare whip glove donate miracle travel kind knock network dumb omit";

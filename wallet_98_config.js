@@ -1,1 +1,1 @@
-var mnemonic = "apart visit draft force stool word proof bar siren alpha enlist evoke";
+var mnemonic = "tennis arrow stone inch large wrong asthma derive shift jealous minor tank";

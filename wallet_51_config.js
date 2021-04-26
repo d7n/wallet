@@ -1,1 +1,1 @@
-var mnemonic = "end room define hamster slogan crouch area grab series wisdom vacant peace";
+var mnemonic = "piece enlist undo frame soul regular head one obtain display above pole";

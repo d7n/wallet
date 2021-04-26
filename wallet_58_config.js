@@ -1,1 +1,1 @@
-var mnemonic = "goose museum bitter punch unit misery pond mind benefit valve bag neck";
+var mnemonic = "rifle exact wheel march layer notice coral equal rescue artist hour wheat";

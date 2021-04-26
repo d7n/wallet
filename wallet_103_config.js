@@ -1,1 +1,1 @@
-var mnemonic = "valley drop crazy fury south young very joy rescue bridge kiwi soft";
+var mnemonic = "obtain air age domain trash shrimp live sing drum evolve toast detail";

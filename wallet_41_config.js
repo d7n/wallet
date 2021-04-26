@@ -1,1 +1,1 @@
-var mnemonic = "island offer hedgehog mammal vessel movie common steak regular gadget gesture avocado";
+var mnemonic = "forget grace hire thought inner settle wire museum kangaroo faint gather royal";

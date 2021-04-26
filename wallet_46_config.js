@@ -1,1 +1,1 @@
-var mnemonic = "pear scare annual skin bubble popular mixed hood setup artist tiny taste";
+var mnemonic = "chase champion spatial million twelve rule torch verb rebel reduce blanket develop";

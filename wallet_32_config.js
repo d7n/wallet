@@ -1,1 +1,1 @@
-var mnemonic = "beach truck wealth tube suffer exist together aisle view degree inhale toast";
+var mnemonic = "plate online uniform rebel glide since vehicle exile attack sadness palm radio";

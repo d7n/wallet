@@ -1,1 +1,1 @@
-var mnemonic = "glimpse elegant destroy oxygen news brief laundry ivory sell pluck atom sentence";
+var mnemonic = "tape model sick ridge female human grunt afford gorilla oxygen system brass";

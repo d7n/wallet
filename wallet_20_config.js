@@ -1,1 +1,1 @@
-var mnemonic = "bulk stumble labor first jazz clarify physical item embody august burger outdoor";
+var mnemonic = "brief poem donkey grocery kite photo behave about renew kid easily razor";

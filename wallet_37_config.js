@@ -1,1 +1,1 @@
-var mnemonic = "drift wall solve furnace figure spell distance follow short dry uphold rack";
+var mnemonic = "sweet all thumb never between soccer hammer hover reveal evoke gravity become";

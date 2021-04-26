@@ -1,1 +1,1 @@
-var mnemonic = "key mechanic isolate sheriff bachelor addict acid truth print accident awkward ring";
+var mnemonic = "library novel ugly face auto practice question eight pass enlist traffic home";

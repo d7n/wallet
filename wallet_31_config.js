@@ -1,1 +1,1 @@
-var mnemonic = "bronze because raccoon fever salmon company dolphin oval always ride inquiry ill";
+var mnemonic = "census turn squirrel cross foam canal lion job shoulder room ugly present";

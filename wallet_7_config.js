@@ -1,1 +1,1 @@
-var mnemonic = "hungry twin sand couch anxiety breeze story bonus cover ethics vehicle flash";
+var mnemonic = "stay ring flip food round either what frost brother insect three size";

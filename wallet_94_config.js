@@ -1,1 +1,1 @@
-var mnemonic = "curtain wire space float pledge noise become appear horn pact crystal pen";
+var mnemonic = "duty stay crowd ready trend dignity about model special team thought dawn";

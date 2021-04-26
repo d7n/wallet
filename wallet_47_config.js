@@ -1,1 +1,1 @@
-var mnemonic = "snap crane mimic elegant pact grant famous entry initial release pride squeeze";
+var mnemonic = "motion sense fatal canal hold margin dish domain spot possible zebra gorilla";

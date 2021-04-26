@@ -1,1 +1,1 @@
-var mnemonic = "phone unique defy riot digital typical harbor parade laugh soccer seven have";
+var mnemonic = "cluster impose achieve bounce amused barrel motor opinion arctic safe guard harbor";

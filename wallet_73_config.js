@@ -1,1 +1,1 @@
-var mnemonic = "attract river anchor fold above wisdom evoke surge sea measure pizza similar";
+var mnemonic = "announce swim surround kitchen hover hobby evidence knee heart sugar across girl";

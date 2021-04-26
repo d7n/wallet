@@ -1,1 +1,1 @@
-var mnemonic = "rice pave orbit escape wife smart replace draft clump record judge electric";
+var mnemonic = "betray teach sense provide island quarter glove express between cute crane color";

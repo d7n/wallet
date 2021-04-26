@@ -1,1 +1,1 @@
-var mnemonic = "capable cup almost napkin begin heart drink derive address army icon switch";
+var mnemonic = "garlic slush crouch street method defense pet body wheel human foster limit";

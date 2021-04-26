@@ -1,1 +1,1 @@
-var mnemonic = "rule favorite nephew fire arrive upset brisk check supreme junk lens finish";
+var mnemonic = "double dice wheat lava sound used equip crush brick echo skate wrist";

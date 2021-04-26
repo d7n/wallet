@@ -1,1 +1,1 @@
-var mnemonic = "earth hybrid okay then velvet junk gun trumpet practice table wood quality";
+var mnemonic = "hope choice rail book false jump negative ring attitude buddy deny zone";

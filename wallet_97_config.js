@@ -1,1 +1,1 @@
-var mnemonic = "step ankle swamp nuclear bench bid dog action slow large social luggage";
+var mnemonic = "rival ivory leisure debate fine ride detect blame build stamp exit book";

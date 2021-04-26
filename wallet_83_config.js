@@ -1,1 +1,1 @@
-var mnemonic = "cricket sell royal total tired kick pottery praise tent enough giggle audit";
+var mnemonic = "extend scene shoot eagle myself satoshi dizzy search author observe now point";
