@@ -1,1 +1,1 @@
-var mnemonic = "blood maid clump logic quote kit federal park inherit better debate all";
+var mnemonic = "chalk daughter average radar cushion bone gadget excess fetch produce social asthma";

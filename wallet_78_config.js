@@ -1,1 +1,1 @@
-var mnemonic = "faculty unaware fox vivid crop meat orbit outer milk evil news easily";
+var mnemonic = "night drastic access zero couple skull hub sun empower ostrich ice noodle";

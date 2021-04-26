@@ -1,1 +1,1 @@
-var mnemonic = "immune limb gloom circle elbow fetch conduct rate crane pulp grab jeans";
+var mnemonic = "dinosaur topic cry pumpkin book jacket canal feed furnace diamond birth misery";

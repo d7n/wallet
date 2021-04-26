@@ -1,1 +1,1 @@
-var mnemonic = "camp trend venue easy dress tape sting light bid six label high";
+var mnemonic = "empty run exotic plate term lamp mad scorpion exotic eye radio toddler";

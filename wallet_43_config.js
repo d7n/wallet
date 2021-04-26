@@ -1,1 +1,1 @@
-var mnemonic = "gesture join glove goat outer gain net syrup canvas nut mixed holiday";
+var mnemonic = "click barrel elephant capable circle cancel calm tenant throw tuition bunker crater";

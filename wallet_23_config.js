@@ -1,1 +1,1 @@
-var mnemonic = "destroy pumpkin seed poet inflict actor chunk trust below sadness comic swift";
+var mnemonic = "dash crowd pelican twin rely until more clock rubber inform private fork";

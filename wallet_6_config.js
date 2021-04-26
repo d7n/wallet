@@ -1,1 +1,1 @@
-var mnemonic = "element visit crystal inner coconut true work stay fence swarm satoshi wood";
+var mnemonic = "convince crowd exact term post finish climb inherit cradle motion wrestle tube";

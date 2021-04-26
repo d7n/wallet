@@ -1,1 +1,1 @@
-var mnemonic = "play bracket onion anger trash parrot off meadow profit crunch candy curious";
+var mnemonic = "edit cross car snack tomorrow wash cargo inside devote seed scatter lobster";

@@ -1,1 +1,1 @@
-var mnemonic = "blame crack canyon window labor ensure subject project pluck vocal velvet danger";
+var mnemonic = "coral cute deny dance fiber soccer waste dog opinion giant turtle flight";

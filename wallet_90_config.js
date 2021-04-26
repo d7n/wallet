@@ -1,1 +1,1 @@
-var mnemonic = "light coffee repeat proud girl oven cream gauge comic gas essence acid";
+var mnemonic = "beyond scheme lumber eagle adult pave again source require dirt distance tomato";

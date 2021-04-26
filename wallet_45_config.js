@@ -1,1 +1,1 @@
-var mnemonic = "demand siege clinic tooth present radar twice relax quiz acoustic lumber parrot";
+var mnemonic = "hundred gym guitar invest merit tuition hood upset auction aim artist october";

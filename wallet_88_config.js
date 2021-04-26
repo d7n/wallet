@@ -1,1 +1,1 @@
-var mnemonic = "fury oak uncle tornado idle spare easy base badge dolphin limb real";
+var mnemonic = "option brain gentle fuel pole sound limb fever injury puzzle holiday coach";

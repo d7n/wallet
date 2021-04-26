@@ -1,1 +1,1 @@
-var mnemonic = "trust jewel embody asset smart fiscal transfer clap name proud phrase hint";
+var mnemonic = "survey almost govern impact field jacket staff remind hybrid ankle idea gesture";

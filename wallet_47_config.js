@@ -1,1 +1,1 @@
-var mnemonic = "motion sense fatal canal hold margin dish domain spot possible zebra gorilla";
+var mnemonic = "system retire hurdle size imitate raise abstract fiber try skill depend angle";

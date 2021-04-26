@@ -1,1 +1,1 @@
-var mnemonic = "return hobby pencil people cactus pole solution win bag attend choice nuclear";
+var mnemonic = "analyst scare sugar amazing check faint tourist ship base save forum drip";

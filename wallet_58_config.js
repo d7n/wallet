@@ -1,1 +1,1 @@
-var mnemonic = "rifle exact wheel march layer notice coral equal rescue artist hour wheat";
+var mnemonic = "page junk guilt royal okay cabbage negative adapt ill north shed relief";

@@ -1,1 +1,1 @@
-var mnemonic = "crazy weekend gospel hedgehog obvious month clay walk domain photo clarify unhappy";
+var mnemonic = "any race income meat where clutch doctor subject race source heart forest";

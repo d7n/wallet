@@ -1,1 +1,1 @@
-var mnemonic = "napkin enhance ripple fatigue trumpet decline luxury fresh seven job obtain hamster";
+var mnemonic = "history song entry fat average cost debate rare enter index youth captain";

@@ -1,1 +1,1 @@
-var mnemonic = "cactus denial wash boil speed carbon away fancy own grass tool bacon";
+var mnemonic = "hour razor favorite scissors goddess shine april drink belt tuna neutral leave";

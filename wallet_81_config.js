@@ -1,1 +1,1 @@
-var mnemonic = "forward budget firm kit cruel cheap protect behave catch foot scrap burger";
+var mnemonic = "assault begin endorse vehicle okay large tribe creek display crop ring omit";

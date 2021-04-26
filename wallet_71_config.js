@@ -1,1 +1,1 @@
-var mnemonic = "build orange check raise fun myth make need easily put rhythm neutral";
+var mnemonic = "cat stumble worry castle slab gloom spatial pony rough exile state walk";

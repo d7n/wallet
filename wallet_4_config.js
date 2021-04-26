@@ -1,1 +1,1 @@
-var mnemonic = "wolf clinic print skill toward acoustic similar wall punch occur road group";
+var mnemonic = "perfect bicycle frost sweet logic middle depth glide fresh grunt coin script";

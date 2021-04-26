@@ -1,1 +1,1 @@
-var mnemonic = "eight surprise split author easy make lawn alarm mosquito ball surprise suffer";
+var mnemonic = "tiger wait unlock practice alter reunion symbol weird erosion rabbit poem mule";

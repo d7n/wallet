@@ -1,1 +1,1 @@
-var mnemonic = "relax know mention rude seven indicate know wise cycle little celery rocket";
+var mnemonic = "minimum desert where stage clutch spot inner deal garden author voice love";

@@ -1,1 +1,1 @@
-var mnemonic = "tape model sick ridge female human grunt afford gorilla oxygen system brass";
+var mnemonic = "civil flame clinic cherry dad frown foot bird foam click student salt";

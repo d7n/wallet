@@ -1,1 +1,1 @@
-var mnemonic = "issue erupt company paddle liquid much cigar bicycle behave bullet artwork blood";
+var mnemonic = "cabbage food seminar enact tongue light donate bracket keep tooth hope news";

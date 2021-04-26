@@ -1,1 +1,1 @@
-var mnemonic = "inspire title meat pool lawn adapt vague civil twist fatal crane ketchup";
+var mnemonic = "horse else stock spawn scout setup rose segment gas end distance law";

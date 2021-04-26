@@ -1,1 +1,1 @@
-var mnemonic = "plate online uniform rebel glide since vehicle exile attack sadness palm radio";
+var mnemonic = "case welcome tornado appear outside photo seven height beef emotion lazy coast";

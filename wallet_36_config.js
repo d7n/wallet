@@ -1,1 +1,1 @@
-var mnemonic = "fix fabric clarify inform exclude win sponsor foil bind opinion solid syrup";
+var mnemonic = "next loop wild pitch impact flag mammal design woman inhale token ask";

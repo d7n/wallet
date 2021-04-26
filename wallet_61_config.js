@@ -1,1 +1,1 @@
-var mnemonic = "prepare garlic measure ugly track number april opinion hen winter absurd deny";
+var mnemonic = "cousin blind buffalo friend toe file bulk situate lava column upper buffalo";

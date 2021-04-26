@@ -1,1 +1,1 @@
-var mnemonic = "slim core love dolphin retreat chief useless crucial lend slide boost silly";
+var mnemonic = "forward vanish round benefit blind hurt alien pilot eager enjoy ribbon rubber";

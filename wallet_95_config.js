@@ -1,1 +1,1 @@
-var mnemonic = "frame cable young radio market unlock battle excite fiber shift solve common";
+var mnemonic = "chimney embrace dynamic frog force glory hero unhappy mirror benefit valley announce";

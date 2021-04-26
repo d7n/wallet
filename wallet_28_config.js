@@ -1,1 +1,1 @@
-var mnemonic = "order seat blue patient citizen device pill arrow pig piano dog emerge";
+var mnemonic = "before addict connect stand tenant stage state oval learn liberty slide garment";

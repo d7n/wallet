@@ -1,1 +1,1 @@
-var mnemonic = "arch march battle soap torch gauge smart ignore dad gift extra canyon";
+var mnemonic = "mimic spray retire evoke question energy magic abuse good popular donor mass";

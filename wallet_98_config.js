@@ -1,1 +1,1 @@
-var mnemonic = "tennis arrow stone inch large wrong asthma derive shift jealous minor tank";
+var mnemonic = "inspire permit cloud bicycle model gloom scatter mystery deposit bicycle usual wrong";

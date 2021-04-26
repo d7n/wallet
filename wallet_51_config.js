@@ -1,1 +1,1 @@
-var mnemonic = "piece enlist undo frame soul regular head one obtain display above pole";
+var mnemonic = "cute season napkin foster among jelly castle zoo aisle cart lunch spy";

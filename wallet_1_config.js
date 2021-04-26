@@ -1,1 +1,1 @@
-var mnemonic = "debris stomach indicate liquid earn traffic heart body neglect position rent melody";
+var mnemonic = "rack surface grunt dry join ask swarm gentle ranch describe settle busy";

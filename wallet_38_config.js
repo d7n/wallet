@@ -1,1 +1,1 @@
-var mnemonic = "brother music teach typical doctor miracle report clown oak reform original glad";
+var mnemonic = "laugh sponsor kiwi census charge daughter speed evolve arch little actress focus";

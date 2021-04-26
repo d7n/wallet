@@ -1,1 +1,1 @@
-var mnemonic = "neutral absorb cement control purity vocal inspire edit metal kite base miss";
+var mnemonic = "hollow duck foil gallery derive allow garlic demand valley blast today advance";

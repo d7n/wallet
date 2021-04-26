@@ -1,1 +1,1 @@
-var mnemonic = "moral achieve smile recycle immense arctic title often mistake deposit toddler mandate";
+var mnemonic = "hold flock broom frame churn same junk fall media latin basic deer";

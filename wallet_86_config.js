@@ -1,1 +1,1 @@
-var mnemonic = "order fuel inquiry music alien clerk reward label rural already staff once";
+var mnemonic = "solid sock say lizard adapt pact kite clutch absurd life furnace address";

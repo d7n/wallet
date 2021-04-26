@@ -1,1 +1,1 @@
-var mnemonic = "brief poem donkey grocery kite photo behave about renew kid easily razor";
+var mnemonic = "truly hill clever opera gentle hazard art matrix vicious tired disease enroll";

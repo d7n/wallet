@@ -1,1 +1,1 @@
-var mnemonic = "steak change praise funny album clock coach shaft bullet nation heart intact";
+var mnemonic = "sand stock accuse prize luxury armor animal apple top bronze settle online";

@@ -1,1 +1,1 @@
-var mnemonic = "wasp flavor upon dog adjust come test prepare ability asthma motor adult";
+var mnemonic = "machine rose desert upgrade dolphin room visa glance cotton phone fall wall";

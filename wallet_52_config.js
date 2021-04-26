@@ -1,1 +1,1 @@
-var mnemonic = "turtle suit domain liar inquiry motion medal pencil dice draw process swing";
+var mnemonic = "rally negative screen champion knock breeze vicious shell quality razor kidney blur";

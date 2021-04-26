@@ -1,1 +1,1 @@
-var mnemonic = "sample same cliff spy design drum coffee win round rival cover enable";
+var mnemonic = "lunch boring arch blur lion riot jewel damp aisle approve mandate drama";

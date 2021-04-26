@@ -1,1 +1,1 @@
-var mnemonic = "double dice wheat lava sound used equip crush brick echo skate wrist";
+var mnemonic = "unaware mechanic tiny hub clutch label blind raise try mail detect wall";

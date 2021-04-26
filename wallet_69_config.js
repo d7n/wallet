@@ -1,1 +1,1 @@
-var mnemonic = "rug banana unhappy nasty math crop dragon suffer salmon nose special clutch";
+var mnemonic = "arena clown motor crystal stone online hybrid firm caught evil tunnel country";

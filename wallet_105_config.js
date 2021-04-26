@@ -1,1 +1,1 @@
-var mnemonic = "awful garage bone census diamond kite turkey security talent love pyramid slim";
+var mnemonic = "magnet tonight tube item punch have crawl gasp cousin park ball calm";

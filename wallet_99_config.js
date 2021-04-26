@@ -1,1 +1,1 @@
-var mnemonic = "ridge chase accident average fork immune claw giggle behave sign dad scout";
+var mnemonic = "blood inherit glue discover harsh miracle conduct peanut car kid face tenant";

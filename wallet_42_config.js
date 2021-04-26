@@ -1,1 +1,1 @@
-var mnemonic = "diet home midnight figure muffin orange burst display heart vague broken wealth";
+var mnemonic = "morning bridge please expect rug repair inner grit edge mixed fish twin";

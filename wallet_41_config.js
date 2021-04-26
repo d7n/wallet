@@ -1,1 +1,1 @@
-var mnemonic = "forget grace hire thought inner settle wire museum kangaroo faint gather royal";
+var mnemonic = "glow firm pistol raven elephant ensure supreme derive inflict dance dose old";

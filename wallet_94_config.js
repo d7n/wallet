@@ -1,1 +1,1 @@
-var mnemonic = "duty stay crowd ready trend dignity about model special team thought dawn";
+var mnemonic = "impulse decline dad extend unit spare bronze dumb august stairs region spawn";

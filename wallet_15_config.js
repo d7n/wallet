@@ -1,1 +1,1 @@
-var mnemonic = "stage taxi crowd patch trend below mystery verb shallow traffic divert awake";
+var mnemonic = "unveil broom route dish until speak eager van shine august spend aim";

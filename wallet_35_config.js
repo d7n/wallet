@@ -1,1 +1,1 @@
-var mnemonic = "length brief repeat pilot mystery rug exile govern fragile digital trick flip";
+var mnemonic = "banana arrange property true bone express soul risk gather globe book protect";

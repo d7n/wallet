@@ -1,1 +1,1 @@
-var mnemonic = "conduct benefit fan marine duty burst ahead used mountain dinosaur bar immense";
+var mnemonic = "seminar army happy south stage quality market will mystery seven awful denial";

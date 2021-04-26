@@ -1,1 +1,1 @@
-var mnemonic = "easy common rule impact place situate atom manage gift clock fabric goose";
+var mnemonic = "crane citizen spy return robust stamp also salon assist gadget muscle collect";

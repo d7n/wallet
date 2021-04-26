@@ -1,1 +1,1 @@
-var mnemonic = "vacant ecology borrow uphold key switch announce save tool crunch melt father";
+var mnemonic = "sample ensure anxiety metal mixed educate infant whale genius morning drink clutch";

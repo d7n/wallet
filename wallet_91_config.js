@@ -1,1 +1,1 @@
-var mnemonic = "defense gain way hobby tortoise skin quiz mean crime book shell border";
+var mnemonic = "blush void basic pave source buffalo live device april dumb tomato auto";

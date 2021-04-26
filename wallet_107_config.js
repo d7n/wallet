@@ -1,1 +1,1 @@
-var mnemonic = "flash promote energy task bridge garbage security diary decrease venture cushion nothing";
+var mnemonic = "industry panda inside pyramid spatial victory arrive arctic alcohol forward album letter";

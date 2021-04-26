@@ -1,1 +1,1 @@
-var mnemonic = "hope choice rail book false jump negative ring attitude buddy deny zone";
+var mnemonic = "unfold slush infant vibrant welcome visual saddle reveal rule glide inch type";

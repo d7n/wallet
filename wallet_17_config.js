@@ -1,1 +1,1 @@
-var mnemonic = "another bar traffic move breeze rapid canvas measure address quiz chapter hybrid";
+var mnemonic = "fortune uniform cat direct tortoise second tomorrow endorse math echo snap fine";

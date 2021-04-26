@@ -1,1 +1,1 @@
-var mnemonic = "census turn squirrel cross foam canal lion job shoulder room ugly present";
+var mnemonic = "balance neglect sheriff army bulb december leaf physical suspect denial wasp door";

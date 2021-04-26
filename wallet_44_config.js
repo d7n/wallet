@@ -1,1 +1,1 @@
-var mnemonic = "size enjoy achieve also thing long kid grocery praise render interest nurse";
+var mnemonic = "giraffe ivory hunt feature hammer hungry memory time forward spring ready decide";

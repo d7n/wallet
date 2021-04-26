@@ -1,1 +1,1 @@
-var mnemonic = "age code recall wagon resemble custom cook outer question buddy predict clutch";
+var mnemonic = "camp height almost interest adjust sound bronze pelican february outdoor cement wash";

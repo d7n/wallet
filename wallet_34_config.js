@@ -1,1 +1,1 @@
-var mnemonic = "gasp husband borrow cage prison august clever twist boy lady across employ";
+var mnemonic = "polar burden hint prefer meat focus deal fatigue dentist enjoy album stable";

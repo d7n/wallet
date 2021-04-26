@@ -1,1 +1,1 @@
-var mnemonic = "million regret saddle hollow prefer glad follow attack adjust brand ridge parrot";
+var mnemonic = "boss daring tent puzzle envelope section acoustic flush shop open pet trend";

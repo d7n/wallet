@@ -1,1 +1,1 @@
-var mnemonic = "fossil tragic leaf improve tool degree agree start street stand jaguar fine";
+var mnemonic = "neither recipe verify erosion enrich kidney exchange gauge blouse maximum space observe";

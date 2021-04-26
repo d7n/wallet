@@ -1,1 +1,1 @@
-var mnemonic = "surge resist bachelor tourist valley torch illness enlist lizard pool mesh girl";
+var mnemonic = "guitar praise avoid bid valley misery suffer axis coconut bar siege person";

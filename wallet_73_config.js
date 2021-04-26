@@ -1,1 +1,1 @@
-var mnemonic = "announce swim surround kitchen hover hobby evidence knee heart sugar across girl";
+var mnemonic = "faith jazz edit arctic daughter voice shield kit potato govern alien network";

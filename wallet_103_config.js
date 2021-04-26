@@ -1,1 +1,1 @@
-var mnemonic = "obtain air age domain trash shrimp live sing drum evolve toast detail";
+var mnemonic = "neutral hunt fee diet measure bargain muscle anxiety derive guess pigeon pride";

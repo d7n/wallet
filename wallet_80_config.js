@@ -1,1 +1,1 @@
-var mnemonic = "betray teach sense provide island quarter glove express between cute crane color";
+var mnemonic = "use erupt weird wish upgrade green say stay turn trigger mass supply";

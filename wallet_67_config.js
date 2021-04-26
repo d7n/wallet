@@ -1,1 +1,1 @@
-var mnemonic = "duty flight apple gold scout foot accuse like before retreat hill romance";
+var mnemonic = "purpose water hamster clinic inner vessel ask park require caution coffee pretty";

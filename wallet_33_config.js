@@ -1,1 +1,1 @@
-var mnemonic = "response bomb census velvet blue include insane fantasy utility huge steel valley";
+var mnemonic = "tornado end agree sock patient patch skill quiz fold sense brush column";

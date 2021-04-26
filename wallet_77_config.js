@@ -1,1 +1,1 @@
-var mnemonic = "bicycle unlock fire drill siren journey quote width average night burger napkin";
+var mnemonic = "present lava hero present north slush cat steak dream gate swift crowd";

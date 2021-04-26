@@ -1,1 +1,1 @@
-var mnemonic = "ostrich bounce spread powder kiwi roof original mad twin move hire head";
+var mnemonic = "fork strike omit climb dose erase spring often trumpet else slight execute";

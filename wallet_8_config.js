@@ -1,1 +1,1 @@
-var mnemonic = "embark nasty swamp sibling degree ready retire lemon jar exotic mask trumpet";
+var mnemonic = "bunker tissue length bonus certain ethics derive magic peanut fold win cannon";

@@ -1,1 +1,1 @@
-var mnemonic = "bless quiz initial machine main slab sail magnet orbit special kingdom keen";
+var mnemonic = "sting stove leader seek abandon gauge boy apple scan project settle dumb";

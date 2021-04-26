@@ -1,1 +1,1 @@
-var mnemonic = "voyage stamp expand check squeeze tank half strike toddler march brass guide";
+var mnemonic = "view frame circle timber essence shell finish lounge bonus nephew local ripple";

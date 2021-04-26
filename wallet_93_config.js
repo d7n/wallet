@@ -1,1 +1,1 @@
-var mnemonic = "tilt student opera client throw afraid mouse view front album hip fog";
+var mnemonic = "often pink unknown view about habit orange abuse net mind lion outer";

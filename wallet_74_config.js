@@ -1,1 +1,1 @@
-var mnemonic = "practice advice inform lunch few load story table pitch tilt rely shrimp";
+var mnemonic = "velvet refuse tomato year second sea aim match cinnamon sample fever engage";

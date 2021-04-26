@@ -1,1 +1,1 @@
-var mnemonic = "mansion carbon detect brief senior knock casino crazy general since sustain document";
+var mnemonic = "sing spin night wish equal empty oxygen muscle ketchup village never attack";

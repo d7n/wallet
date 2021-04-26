@@ -1,1 +1,1 @@
-var mnemonic = "decrease banner kit disease stamp steak avoid image warm fault vital brown";
+var mnemonic = "shift powder auto club decade near sketch divert convince sugar stereo permit";

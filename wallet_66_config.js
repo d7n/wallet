@@ -1,1 +1,1 @@
-var mnemonic = "fiscal talk car roast auction ready panel state plug scout broom lady";
+var mnemonic = "health tide fashion window piano trim coil file dish permit immune subway";

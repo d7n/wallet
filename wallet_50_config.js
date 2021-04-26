@@ -1,1 +1,1 @@
-var mnemonic = "meadow coach comic learn miracle mouse rare crew brain purchase truth rifle";
+var mnemonic = "symbol exotic payment quarter term weather ceiling sight grape tell flip tiger";

@@ -1,1 +1,1 @@
-var mnemonic = "penalty pear aerobic arrest mad desk size illegal edit step limb poverty";
+var mnemonic = "dismiss develop mandate armed forget walk snap lemon gate fit skill victory";

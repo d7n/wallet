@@ -1,1 +1,1 @@
-var mnemonic = "stay ring flip food round either what frost brother insect three size";
+var mnemonic = "renew leisure odor athlete execute alter kid annual bachelor tenant vintage rubber";

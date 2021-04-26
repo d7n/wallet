@@ -1,1 +1,1 @@
-var mnemonic = "rate library family mobile mammal world dry phrase awesome combine nose reopen";
+var mnemonic = "carry load rabbit plunge shoulder network review turn inject rescue leopard strong";

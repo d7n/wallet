@@ -1,1 +1,1 @@
-var mnemonic = "once peasant this brand dentist fee valid civil three nominee industry moment";
+var mnemonic = "lake butter profit worry truth design false cube midnight mom sunset tattoo";

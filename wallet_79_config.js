@@ -1,1 +1,1 @@
-var mnemonic = "album adjust client about below volume name copper color carbon spring teach";
+var mnemonic = "woman mesh castle immune gap solution horse lucky tongue trick chat cargo";
