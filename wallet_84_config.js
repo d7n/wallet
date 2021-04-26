@@ -1,1 +1,1 @@
-var mnemonic = "milk crouch opinion tag inspire enrich couple snake torch mammal breeze action";
+var mnemonic = "feel actor galaxy next garment kangaroo marine gather stuff prevent place orphan";

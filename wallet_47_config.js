@@ -1,1 +1,1 @@
-var mnemonic = "turtle lazy ridge swing slogan glass middle demise depend lend remove away";
+var mnemonic = "between effort smile pizza awake trade feature rabbit river face hello never";

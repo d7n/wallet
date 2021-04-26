@@ -1,1 +1,1 @@
-var mnemonic = "top eager danger child fan aunt gossip hobby toilet alley caught fiber";
+var mnemonic = "mixed opinion title inject jump since giraffe move limit veteran few ecology";

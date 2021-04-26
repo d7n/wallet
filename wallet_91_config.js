@@ -1,1 +1,1 @@
-var mnemonic = "island trouble spice kiwi present pet control web eye success balance worry";
+var mnemonic = "notice toast motor news recycle run range blood coil dad update input";

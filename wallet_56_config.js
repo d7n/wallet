@@ -1,1 +1,1 @@
-var mnemonic = "shallow panic spread agent armor anger venue carry order fame upset person";
+var mnemonic = "gate sphere inch place multiply sleep split pony defense virtual enact devote";

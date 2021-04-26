@@ -1,1 +1,1 @@
-var mnemonic = "style uncle stage demand retire frame onion vacant strong view distance tackle";
+var mnemonic = "kit fiber all dynamic avoid assault license sort ethics cart door skill";

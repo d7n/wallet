@@ -1,1 +1,1 @@
-var mnemonic = "mass custom affair average citizen radio rebel book arena text hundred stereo";
+var mnemonic = "state kid assist rigid hundred cup pottery drastic pilot work word slot";

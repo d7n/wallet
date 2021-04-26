@@ -1,1 +1,1 @@
-var mnemonic = "actual lens near chat coach corn portion post gate dilemma cool battle";
+var mnemonic = "impose escape call unaware bind burden shuffle beyond pear lion orchard rally";

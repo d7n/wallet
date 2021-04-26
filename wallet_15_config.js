@@ -1,1 +1,1 @@
-var mnemonic = "sphere hedgehog own attack pistol plate web else subject drastic resemble multiply";
+var mnemonic = "blood put waste rent refuse buffalo shrug cruise raccoon artist carbon frame";

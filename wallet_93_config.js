@@ -1,1 +1,1 @@
-var mnemonic = "rhythm salt develop income violin duty talent wink person demise hat sail";
+var mnemonic = "advance jacket stadium fix motor able fat guard beef quarter screen business";

@@ -1,1 +1,1 @@
-var mnemonic = "art news tourist ill divert trim seed drum silly taxi stove trophy";
+var mnemonic = "core exile month confirm goddess future token seat kick code staff circle";

@@ -1,1 +1,1 @@
-var mnemonic = "detect bag have kick achieve close assault rapid mixed drama fragile gown";
+var mnemonic = "furnace celery idea any version glass toss random token sleep client tuition";

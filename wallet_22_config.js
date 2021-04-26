@@ -1,1 +1,1 @@
-var mnemonic = "token fish wine shuffle spare palace knock across onion surprise pupil mango";
+var mnemonic = "entry portion salute elder pledge census remove base chat cram salad boy";

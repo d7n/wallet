@@ -1,1 +1,1 @@
-var mnemonic = "romance unveil acoustic hotel swarm piano suffer claim rigid prepare trumpet rifle";
+var mnemonic = "merry hover empty catalog explain kit glare fame scrap since minor unfold";

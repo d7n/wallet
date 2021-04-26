@@ -1,1 +1,1 @@
-var mnemonic = "uncover lava elevator reopen bacon this infant gorilla staff rubber pudding inform";
+var mnemonic = "usual valley antenna brush wait tent now hire bottom olympic apology snake";

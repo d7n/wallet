@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow bright boy youth gown daring romance chalk forward swallow garlic wink";
+var mnemonic = "disorder bundle claim helmet toast liquid joke slogan enough glide monkey alone";

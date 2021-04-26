@@ -1,1 +1,1 @@
-var mnemonic = "mandate birth also debris glue fresh bike rail vapor annual never merit";
+var mnemonic = "harbor lounge network skate under world raw best balance coach glass scrub";

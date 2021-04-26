@@ -1,1 +1,1 @@
-var mnemonic = "nose hour unusual foam bleak era differ sadness proof spring husband wrong";
+var mnemonic = "vibrant bubble harbor page same notable rotate arrange cook result sibling upon";

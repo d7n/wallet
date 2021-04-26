@@ -1,1 +1,1 @@
-var mnemonic = "flower unusual rookie truck boost eyebrow female company jaguar dial once coconut";
+var mnemonic = "oak service walnut sense decorate drive seat best book used gasp satisfy";

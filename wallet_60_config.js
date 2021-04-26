@@ -1,1 +1,1 @@
-var mnemonic = "ripple stone cram service parrot choice noble useful ride make truth immune";
+var mnemonic = "analyst dash deer shiver neglect stumble rival spoil hedgehog vote toss occur";

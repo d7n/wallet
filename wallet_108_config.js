@@ -1,1 +1,1 @@
-var mnemonic = "okay hip priority drift common happy club crash inner letter pause few";
+var mnemonic = "repair host great drift envelope mesh aspect denial message flip distance reason";

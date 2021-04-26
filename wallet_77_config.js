@@ -1,1 +1,1 @@
-var mnemonic = "what frequent network voyage picnic hold forest blur stone senior mountain obscure";
+var mnemonic = "wall again oblige benefit pizza faculty actor warrior luxury enough present asset";

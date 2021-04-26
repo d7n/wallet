@@ -1,1 +1,1 @@
-var mnemonic = "inside blame vast uncover surround black first client unfold wrist empty cricket";
+var mnemonic = "naive tourist harvest crawl shine fatal zone solar oven ripple blossom lawsuit";

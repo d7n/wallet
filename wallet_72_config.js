@@ -1,1 +1,1 @@
-var mnemonic = "cliff mouse spread blossom kid element kite explain history clever bachelor laundry";
+var mnemonic = "kingdom toast slam place voyage joke orient body remain genius response damage";

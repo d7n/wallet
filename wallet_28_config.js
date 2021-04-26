@@ -1,1 +1,1 @@
-var mnemonic = "route enough hint rocket alley try shy leg knee basic expand paper";
+var mnemonic = "school recycle swap inch better hat rich earth burst bean upset evidence";

@@ -1,1 +1,1 @@
-var mnemonic = "wonder black kit carbon vapor first alley also reunion length rotate motor";
+var mnemonic = "display tape saddle calm endless win cause narrow cotton west wise reform";

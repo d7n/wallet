@@ -1,1 +1,1 @@
-var mnemonic = "leader document sketch crouch inner trumpet artwork income rookie dutch december antenna";
+var mnemonic = "elephant orchard average capable curtain sun bean stone orphan reveal mule nephew";

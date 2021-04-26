@@ -1,1 +1,1 @@
-var mnemonic = "talent spray angle mountain there acquire lecture model crew hungry gas slush";
+var mnemonic = "combine depth remind fault ceiling eagle twice bone share joke item family";

@@ -1,1 +1,1 @@
-var mnemonic = "rather salt muffin sure antique violin nest century actress away corn foot";
+var mnemonic = "away you rule portion shallow romance suggest style rescue alpha forward lobster";

@@ -1,1 +1,1 @@
-var mnemonic = "hero enlist harsh patient obtain abuse hawk gather agree smoke insane eternal";
+var mnemonic = "science exhibit myth orphan armed green please layer depend deny brave corn";

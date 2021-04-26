@@ -1,1 +1,1 @@
-var mnemonic = "arena enroll tape accuse dizzy earn crack jelly tuition crisp rocket until";
+var mnemonic = "cereal furnace decline medal special mango car wire cram must clever half";

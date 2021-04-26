@@ -1,1 +1,1 @@
-var mnemonic = "disagree project negative palace reject mutual empower clarify put vital mutual desk";
+var mnemonic = "mind fix ring street spring burger sleep bone farm elegant inquiry learn";

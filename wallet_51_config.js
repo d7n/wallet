@@ -1,1 +1,1 @@
-var mnemonic = "supreme buzz duty run core travel butter piece sugar inject stool wolf";
+var mnemonic = "guard guard model obey discover dress animal volume real foam adjust onion";

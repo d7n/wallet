@@ -1,1 +1,1 @@
-var mnemonic = "young rail deliver hawk urban expose journey angry safe share rack ride";
+var mnemonic = "shrug deny employ bridge into lava resource sail shove amount decline miracle";

@@ -1,1 +1,1 @@
-var mnemonic = "tag slim autumn hair melt lab nerve find blame dignity about essence";
+var mnemonic = "setup age then expect fold leg panda notice gain speak derive side";

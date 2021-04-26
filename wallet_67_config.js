@@ -1,1 +1,1 @@
-var mnemonic = "erase friend snake vivid shell gesture funny bench invest lumber give onion";
+var mnemonic = "chapter excite athlete penalty coffee again robust magnet tornado hazard vehicle style";

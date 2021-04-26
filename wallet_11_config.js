@@ -1,1 +1,1 @@
-var mnemonic = "crack bless patient busy version spare video result civil dish curious total";
+var mnemonic = "mule leisure bracket better noble creek pony squirrel project hat grief chef";

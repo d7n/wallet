@@ -1,1 +1,1 @@
-var mnemonic = "fiscal lava benefit news enlist knock defense keep jacket stumble eyebrow wall";
+var mnemonic = "wrist ride crumble stay asthma clay wise capital number pink month arrest";

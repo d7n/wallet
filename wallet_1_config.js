@@ -1,1 +1,1 @@
-var mnemonic = "wood witness never exact chicken drastic basket surprise pride card glow laugh";
+var mnemonic = "view arena spatial appear leg brush liar job saddle lemon copy bronze";

@@ -1,1 +1,1 @@
-var mnemonic = "crumble zoo gadget minor soft wall depend mimic defy attack orchard eye";
+var mnemonic = "fan faculty sound run achieve curtain attitude mansion garage blouse laundry common";

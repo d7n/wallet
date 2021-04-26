@@ -1,1 +1,1 @@
-var mnemonic = "embark action office flush pumpkin clever regular since wrap develop boat modify";
+var mnemonic = "choice since expire emerge position action gallery jungle pave wisdom note race";

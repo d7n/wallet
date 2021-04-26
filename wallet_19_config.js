@@ -1,1 +1,1 @@
-var mnemonic = "jungle mixed pond print giggle discover idle huge slam nerve coyote banner";
+var mnemonic = "clarify syrup shrug minor execute movie favorite motion awful recycle unit season";

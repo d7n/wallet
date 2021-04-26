@@ -1,1 +1,1 @@
-var mnemonic = "hawk office atom grant flame insane language wolf season little easily moon";
+var mnemonic = "icon order mobile owner globe lamp current basket myself fiber peanut fox";

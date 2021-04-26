@@ -1,1 +1,1 @@
-var mnemonic = "use script venue swallow right video say able call caution diamond release";
+var mnemonic = "latin vault cave casual axis swap supply cement relax issue butter flag";

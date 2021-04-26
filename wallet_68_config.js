@@ -1,1 +1,1 @@
-var mnemonic = "avoid insane unusual icon deposit near chaos display rude order absorb cost";
+var mnemonic = "floor october area wonder nuclear museum broccoli game trap ripple party casual";

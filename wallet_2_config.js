@@ -1,1 +1,1 @@
-var mnemonic = "smoke unhappy common number model flee lift awful wing approve drum begin";
+var mnemonic = "amazing elegant save mimic pelican senior mule lumber neutral law father various";

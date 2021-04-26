@@ -1,1 +1,1 @@
-var mnemonic = "differ ask order radio lesson fresh beef pledge response hip hint coin";
+var mnemonic = "tide conduct piece deal okay seek learn random tone page keen piano";

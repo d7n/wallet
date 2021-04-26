@@ -1,1 +1,1 @@
-var mnemonic = "engine shiver diagram jacket list sheriff expect solar stadium icon usual behind";
+var mnemonic = "arrange client simple soap grain popular reflect idle buzz hole razor second";

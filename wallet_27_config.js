@@ -1,1 +1,1 @@
-var mnemonic = "sleep attack people grace old coach trade dwarf cruise grape eagle unfold";
+var mnemonic = "addict life gravity lawn harbor shove blossom spread know observe ice pioneer";

@@ -1,1 +1,1 @@
-var mnemonic = "inform zero rival board learn spy matrix flock funny buzz crack interest";
+var mnemonic = "help mechanic carry note huge goose fruit monkey slogan pride kind twice";

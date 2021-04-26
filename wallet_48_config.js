@@ -1,1 +1,1 @@
-var mnemonic = "winner sure special reduce impact game motor trim scissors wink wrong renew";
+var mnemonic = "jaguar mercy wool edit job slender chest neutral taxi laundry assume tornado";

@@ -1,1 +1,1 @@
-var mnemonic = "message relax oval crew tongue ceiling edit danger main sound cinnamon media";
+var mnemonic = "piece rubber belt actor casino danger jelly planet photo trigger gesture step";

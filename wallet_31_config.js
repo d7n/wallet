@@ -1,1 +1,1 @@
-var mnemonic = "ride feel scissors attract action coffee skin ski tool dolphin blood shiver";
+var mnemonic = "manual double melt worth keep reject modify flavor valid exit virus violin";

@@ -1,1 +1,1 @@
-var mnemonic = "during negative wear depart adult edge round kite corn shuffle witness gas";
+var mnemonic = "wall double brave predict liberty spring cancel corn pause flip animal dutch";

@@ -1,1 +1,1 @@
-var mnemonic = "gossip candy great green eternal kiss pigeon bind prison half destroy front";
+var mnemonic = "enhance grit shine antenna subway jump gap lamp excuse special fresh provide";

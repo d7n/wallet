@@ -1,1 +1,1 @@
-var mnemonic = "grocery team scrub fox chicken fetch giggle void cruel sign job host";
+var mnemonic = "fish gravity earth olive select lend shoot dream basket pull lounge raise";

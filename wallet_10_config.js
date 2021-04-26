@@ -1,1 +1,1 @@
-var mnemonic = "raven dignity tomorrow skill battle recipe logic exhaust horror fury appear clarify";
+var mnemonic = "maximum dutch evil chef able cry feature reform puppy race enhance stage";

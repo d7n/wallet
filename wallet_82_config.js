@@ -1,1 +1,1 @@
-var mnemonic = "muffin regret cook tail ginger bus enough popular drip retire six pony";
+var mnemonic = "explain problem leisure awesome shove yard hole private evidence rail before ocean";

@@ -1,1 +1,1 @@
-var mnemonic = "flip lamp yellow prefer drive novel swallow stand correct announce check solution";
+var mnemonic = "mimic trick silent magic because regular fortune web arrow dragon smoke goose";

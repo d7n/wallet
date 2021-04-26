@@ -1,1 +1,1 @@
-var mnemonic = "swift beyond cactus toward capital topple slender weapon wood portion core hen";
+var mnemonic = "betray sail worth badge zero enforce fatigue exile rhythm album stool sea";

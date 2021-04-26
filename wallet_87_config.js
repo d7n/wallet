@@ -1,1 +1,1 @@
-var mnemonic = "used monitor bright initial spirit wear night enemy rain act grape pact";
+var mnemonic = "mind behind empower oven decrease chaos layer universe help jealous that brown";

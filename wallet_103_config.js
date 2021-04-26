@@ -1,1 +1,1 @@
-var mnemonic = "aim energy sustain waste math craft slight drop kiss person glow other";
+var mnemonic = "erode book coral tattoo social spirit daring worry inject offer gaze price";

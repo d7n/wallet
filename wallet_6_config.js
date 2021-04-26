@@ -1,1 +1,1 @@
-var mnemonic = "beach hedgehog syrup produce manage rely misery differ together fork glimpse sure";
+var mnemonic = "miracle group test leisure twist file wear salt avocado jewel crumble base";

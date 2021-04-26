@@ -1,1 +1,1 @@
-var mnemonic = "stumble recycle about pencil shell nurse hamster drink ghost roof moon royal";
+var mnemonic = "trip agent hint custom fish finger dog magic under found burger crop";

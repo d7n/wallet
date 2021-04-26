@@ -1,1 +1,1 @@
-var mnemonic = "tree immune pilot marble ecology veteran sea grief sad lens moment phone";
+var mnemonic = "reward woman dash carry rescue shy judge orbit soldier purity answer spoil";

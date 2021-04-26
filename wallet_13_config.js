@@ -1,1 +1,1 @@
-var mnemonic = "baby aerobic celery grid party lock bone they evoke already grace guard";
+var mnemonic = "tobacco priority ski situate panic reform tattoo lens mesh tower pride rice";

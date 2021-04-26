@@ -1,1 +1,1 @@
-var mnemonic = "scan write disorder visa sand music garment arena omit garlic rich dog";
+var mnemonic = "pink floor marriage sound sea hundred window purpose thought kiss gauge fix";

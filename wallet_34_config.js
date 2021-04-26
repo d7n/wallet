@@ -1,1 +1,1 @@
-var mnemonic = "snap buddy employ detail kingdom remember draw aunt pencil slow position indicate";
+var mnemonic = "monster provide sort settle album scan lava matter where mix foster divert";

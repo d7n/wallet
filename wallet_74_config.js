@@ -1,1 +1,1 @@
-var mnemonic = "load wine unaware announce reason material desk clutch grow clap rack hole";
+var mnemonic = "nominee symbol field open adult nasty wrap rival wise sauce black fluid";

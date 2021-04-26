@@ -1,1 +1,1 @@
-var mnemonic = "weird disagree burger pill drift pencil during soft return menu caution lobster";
+var mnemonic = "basket faith unaware term maple outdoor what hint fire awake boat circle";

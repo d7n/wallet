@@ -1,1 +1,1 @@
-var mnemonic = "boat ceiling endless humor critic glory label sight arrive result powder vessel";
+var mnemonic = "luggage alarm illegal doll attract tooth photo network bag tennis right empty";

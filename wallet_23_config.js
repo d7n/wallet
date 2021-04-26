@@ -1,1 +1,1 @@
-var mnemonic = "sport humor barrel maid reward slender critic pulse hour uncover dry toward";
+var mnemonic = "drift spy enter final garbage pride rain relax inherit oyster burger seven";

@@ -1,1 +1,1 @@
-var mnemonic = "fatigue subject witness border heart fire boy solve potato weapon apology dash";
+var mnemonic = "drip pet dismiss dad pyramid define farm raw time hope erosion figure";

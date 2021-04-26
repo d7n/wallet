@@ -1,1 +1,1 @@
-var mnemonic = "fringe runway piece hover debris thing organ inmate head bundle access major";
+var mnemonic = "gentle bottom shy develop cargo describe age elegant naive same urge city";

@@ -1,1 +1,1 @@
-var mnemonic = "horror license bonus catch vanish million account ski rocket orchard key neck";
+var mnemonic = "marble farm amused diagram shrimp tail duty near trash wrong dad sibling";

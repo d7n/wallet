@@ -1,1 +1,1 @@
-var mnemonic = "faith hero enrich feel easily rich cloud room know sure piece gather";
+var mnemonic = "charge party color shrimp market rent jump expose seven like educate enemy";

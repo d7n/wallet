@@ -1,1 +1,1 @@
-var mnemonic = "apple column like need risk nephew wise congress tomorrow mesh inflict tribe";
+var mnemonic = "client hazard urban satoshi accuse cluster vapor ramp bunker zone spray skirt";

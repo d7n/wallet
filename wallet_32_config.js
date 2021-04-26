@@ -1,1 +1,1 @@
-var mnemonic = "double spoil absorb volume erupt orphan help silly else lizard grunt twelve";
+var mnemonic = "add taste truck rough secret finish area response essay soup lemon canyon";

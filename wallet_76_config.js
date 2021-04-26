@@ -1,1 +1,1 @@
-var mnemonic = "twenty okay pumpkin argue enhance coach cliff near jelly begin marriage scare";
+var mnemonic = "soon cotton web beyond follow device stay slot marble smile ride auto";

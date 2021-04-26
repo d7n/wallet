@@ -1,1 +1,1 @@
-var mnemonic = "cereal net talent fatigue coach cash ten minimum fade office sketch fiber";
+var mnemonic = "assist final forget program coyote admit monkey you scatter flat welcome month";

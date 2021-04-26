@@ -1,1 +1,1 @@
-var mnemonic = "volume oak feed already open space beauty degree magnet during gas lend";
+var mnemonic = "sea other picture lonely stand left oven trash another film pudding primary";

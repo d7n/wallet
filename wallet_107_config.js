@@ -1,1 +1,1 @@
-var mnemonic = "network real robust innocent busy cat sea nominee decade traffic onion monitor";
+var mnemonic = "loyal anchor resemble learn order settle witness audit waste copper aisle network";

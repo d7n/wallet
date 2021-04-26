@@ -1,1 +1,1 @@
-var mnemonic = "hub plug fresh coach thing burst siege warfare claim casual poverty cloth";
+var mnemonic = "toward zero dice ensure shoulder fatal lens shuffle advance extend tired card";

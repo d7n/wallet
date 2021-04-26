@@ -1,1 +1,1 @@
-var mnemonic = "keep degree bicycle field okay crazy replace online upper worth behind mansion";
+var mnemonic = "wink lawsuit tower delay guitar depend opera vanish fall bottom milk hunt";

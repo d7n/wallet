@@ -1,1 +1,1 @@
-var mnemonic = "velvet already wine harbor slot cannon tortoise lottery donor voyage flush cricket";
+var mnemonic = "museum cheese program normal balance word spin double rescue print skull pony";

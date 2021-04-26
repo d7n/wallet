@@ -1,1 +1,1 @@
-var mnemonic = "patch brown duck crouch siege vintage interest shove summer idea orchard toy";
+var mnemonic = "force actual camera pause device carpet property awake wood oven erupt again";

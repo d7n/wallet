@@ -1,1 +1,1 @@
-var mnemonic = "town invest hospital update future finish vanish side shoot fashion exhibit direct";
+var mnemonic = "trick fine cheap scale edit work repair merge inherit spend gauge erosion";

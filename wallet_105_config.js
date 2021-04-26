@@ -1,1 +1,1 @@
-var mnemonic = "hurt afraid fashion hen olive story mountain clay huge exit width leopard";
+var mnemonic = "invest celery pizza game dog shuffle pole emerge furnace father stem advice";

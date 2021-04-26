@@ -1,1 +1,1 @@
-var mnemonic = "box buzz fringe noodle inspire fan churn hazard cigar melt ozone test";
+var mnemonic = "winter dawn problem portion mad victory neutral hire fix zone potato awake";

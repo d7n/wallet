@@ -1,1 +1,1 @@
-var mnemonic = "artefact lake music patch rebuild tobacco syrup fringe kiss comfort used include";
+var mnemonic = "stone route service bike bread fatal cigar whale hair dial inherit raise";

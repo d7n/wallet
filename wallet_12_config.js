@@ -1,1 +1,1 @@
-var mnemonic = "endless wrap radar sauce bone south soup riot aisle rotate bread ladder";
+var mnemonic = "chronic tower damage swap fault feel tourist law thing frog pole wear";
