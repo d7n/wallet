@@ -1,1 +1,1 @@
-var mnemonic = "tennis oxygen disagree plastic sibling immense buffalo zebra matrix mechanic what hub";
+var mnemonic = "hawk dust final shiver lock miss very wealth extend flush diary mask";

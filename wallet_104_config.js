@@ -1,1 +1,1 @@
-var mnemonic = "canal jelly dog kind violin deny task drastic evolve night album cake";
+var mnemonic = "pig place smooth umbrella obey absent exit agent chalk grant mix combine";

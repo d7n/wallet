@@ -1,1 +1,1 @@
-var mnemonic = "quarter toe voice silly supply blur tiger pizza museum easily accuse royal";
+var mnemonic = "dirt rug carbon best coconut fuel bubble kingdom ride hero carry cycle";

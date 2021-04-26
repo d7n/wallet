@@ -1,1 +1,1 @@
-var mnemonic = "truth image opera alone actual original now broccoli hood fossil crouch kit";
+var mnemonic = "later supreme always amount say awkward blame junk habit insect legal option";

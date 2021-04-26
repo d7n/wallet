@@ -1,1 +1,1 @@
-var mnemonic = "tongue record today lift ancient design acquire tide tag father path cluster";
+var mnemonic = "fish weasel shrimp rich ability patrol spot portion noise renew absent zero";

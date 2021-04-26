@@ -1,1 +1,1 @@
-var mnemonic = "invite usual retreat country wall family duty assist mouse spy amount fatigue";
+var mnemonic = "address reason magic there shy horror ocean gap cube aim ginger little";

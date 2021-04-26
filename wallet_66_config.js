@@ -1,1 +1,1 @@
-var mnemonic = "hat limit empty cloud bitter jaguar glimpse tissue twelve cheap settle piano";
+var mnemonic = "exercise alpha fatal wink around jazz aunt paddle best endorse fluid leader";

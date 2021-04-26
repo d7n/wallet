@@ -1,1 +1,1 @@
-var mnemonic = "soul venture left rebel absorb siren pull duck art culture perfect cycle";
+var mnemonic = "own inch basket outer entry blush helmet position control cannon spawn hint";

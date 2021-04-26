@@ -1,1 +1,1 @@
-var mnemonic = "exit cash polar swear south forget sweet blue hire liar merge cattle";
+var mnemonic = "orbit village tissue drip install brown imitate balcony cancel frog reopen library";

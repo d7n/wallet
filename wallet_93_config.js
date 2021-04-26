@@ -1,1 +1,1 @@
-var mnemonic = "knock enemy intact lesson recycle black dutch typical call vivid car portion";
+var mnemonic = "frequent lizard risk way visa tobacco banana liberty cement novel ring organ";

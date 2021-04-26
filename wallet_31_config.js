@@ -1,1 +1,1 @@
-var mnemonic = "chalk say water advice celery usual verify quantum battle october middle bottom";
+var mnemonic = "discover jump open birth crowd matter exile okay system boss duck flush";

@@ -1,1 +1,1 @@
-var mnemonic = "refuse forget uncle pride goose valid three cook license sign razor scorpion";
+var mnemonic = "outside figure ignore recipe crowd cluster unfair silk motor bind slab utility";

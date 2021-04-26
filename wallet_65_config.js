@@ -1,1 +1,1 @@
-var mnemonic = "sample pink genius alarm utility magic talent earth tiny actress opera deal";
+var mnemonic = "worry sister thing among first leader castle device expect parent gap crucial";

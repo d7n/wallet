@@ -1,1 +1,1 @@
-var mnemonic = "speed shoulder umbrella impose floor choice survey person student cherry venue gloom";
+var mnemonic = "atom hold nest echo copper garbage hen lion desert rotate physical crucial";

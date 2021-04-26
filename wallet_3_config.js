@@ -1,1 +1,1 @@
-var mnemonic = "switch neglect measure obey island shell oblige cherry man business lab usual";
+var mnemonic = "keep try item check seminar cargo aunt time guilt essay raise sphere";

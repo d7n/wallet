@@ -1,1 +1,1 @@
-var mnemonic = "pact adjust peasant acid sausage congress pelican chimney awful auto donor elegant";
+var mnemonic = "mountain soccer autumn amused obtain patient mandate never cricket orbit upon hen";

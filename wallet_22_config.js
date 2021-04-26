@@ -1,1 +1,1 @@
-var mnemonic = "boil math cheap stock giraffe cage detect scatter slice offer miss first";
+var mnemonic = "hedgehog approve dumb blame fix dune unhappy toward resource spring bar off";

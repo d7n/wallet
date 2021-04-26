@@ -1,1 +1,1 @@
-var mnemonic = "unusual frequent zebra tank ask charge toss tunnel vibrant busy view install";
+var mnemonic = "thank canoe soon belt hold sadness verb panther dinner cigar spawn cloud";

@@ -1,1 +1,1 @@
-var mnemonic = "crunch tilt travel tornado bullet author little know catalog face traffic kite";
+var mnemonic = "february peasant easily prison able ostrich venue depth diamond dinner lecture witness";

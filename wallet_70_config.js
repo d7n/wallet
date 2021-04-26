@@ -1,1 +1,1 @@
-var mnemonic = "problem slim budget month jaguar frost place assist gain broom above tornado";
+var mnemonic = "gasp jump offer jazz quiz knife rich cute frame apple produce tribe";

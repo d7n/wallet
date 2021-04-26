@@ -1,1 +1,1 @@
-var mnemonic = "mad canal glory announce floor pond pave burden cool gesture load message";
+var mnemonic = "drip govern rubber phone property reason skate drive oil cactus cliff fold";

@@ -1,1 +1,1 @@
-var mnemonic = "vehicle ecology zone fetch dismiss surround casual horror pioneer source rifle gasp";
+var mnemonic = "crucial again border exact puppy tag amateur piano wire tennis tennis climb";

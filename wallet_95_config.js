@@ -1,1 +1,1 @@
-var mnemonic = "purse bicycle giraffe mix west pave parrot thunder view forget whip state";
+var mnemonic = "mango trial office demise violin shaft toss fringe light mango clutch elevator";

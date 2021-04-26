@@ -1,1 +1,1 @@
-var mnemonic = "damage next tribe flat screen rather library unusual puppy bubble trade welcome";
+var mnemonic = "method cost alley lion security vault boy early brave spend seed smoke";

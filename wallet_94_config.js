@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin priority slot begin scheme rural caution guess isolate dry peasant slogan";
+var mnemonic = "example task flash repair purpose state hundred garment magnet ceiling install kingdom";

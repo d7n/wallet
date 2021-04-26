@@ -1,1 +1,1 @@
-var mnemonic = "diesel effort prize desert trigger artefact budget expose artwork online bunker video";
+var mnemonic = "daring wheat pause body sound cancel loop loop improve trouble fade museum";

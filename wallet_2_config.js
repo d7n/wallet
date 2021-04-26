@@ -1,1 +1,1 @@
-var mnemonic = "settle license glow example quarter crawl syrup kidney cotton car cost can";
+var mnemonic = "control universe flat loud bargain unaware diet behave never lonely tag exotic";

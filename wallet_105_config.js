@@ -1,1 +1,1 @@
-var mnemonic = "maid glue scrub clay frequent chapter crowd march barrel side inside photo";
+var mnemonic = "hover license lecture reason hundred afraid such arrange deny close still border";

@@ -1,1 +1,1 @@
-var mnemonic = "syrup again return panel erase nice sunny glow globe lawsuit jaguar young";
+var mnemonic = "hub truly conduct divert guilt message state inherit wrestle lens enough consider";

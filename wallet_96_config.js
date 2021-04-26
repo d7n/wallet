@@ -1,1 +1,1 @@
-var mnemonic = "ski reason brief mother large space west ability time market smooth grit";
+var mnemonic = "spy goose swing acid ancient pond win drive salt unique obscure antenna";

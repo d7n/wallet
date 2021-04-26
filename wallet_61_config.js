@@ -1,1 +1,1 @@
-var mnemonic = "elegant warm inform law much arctic verb thing guide cute rocket because";
+var mnemonic = "obtain slow gather spin panic shoulder flower method ozone jelly suffer wheat";

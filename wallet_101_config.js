@@ -1,1 +1,1 @@
-var mnemonic = "enhance silk total visit wing sunset retire spray island silver bread suspect";
+var mnemonic = "armor tortoise feed execute short humble where marriage achieve monster magic method";

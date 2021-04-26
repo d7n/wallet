@@ -1,1 +1,1 @@
-var mnemonic = "sorry short pipe funny coconut mutual nothing come wire monster hockey suspect";
+var mnemonic = "endorse globe ready enter april scheme sight toe check resemble later absorb";

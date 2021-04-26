@@ -1,1 +1,1 @@
-var mnemonic = "judge satisfy same pass wink ranch ride bonus viable drastic place fiber";
+var mnemonic = "way off neglect head dune quit hidden genius boost arch leisure humble";

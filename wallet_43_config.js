@@ -1,1 +1,1 @@
-var mnemonic = "federal pupil gallery gadget hammer lock broccoli pencil frog ribbon maple make";
+var mnemonic = "brother noise material coach pond pull wonder decade icon front barrel insect";

@@ -1,1 +1,1 @@
-var mnemonic = "inject coral increase donate bleak expand dynamic job cloud also attack december";
+var mnemonic = "camp medal tunnel just notice remove shoulder service mix lobster tumble glove";

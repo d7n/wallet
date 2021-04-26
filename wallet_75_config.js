@@ -1,1 +1,1 @@
-var mnemonic = "guess weekend close organ acid warfare web toilet dash crumble rebuild smile";
+var mnemonic = "six ahead indicate limit symptom artist honey useful aisle plastic virus jacket";

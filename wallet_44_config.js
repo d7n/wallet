@@ -1,1 +1,1 @@
-var mnemonic = "middle cream language dove fade pet can spot improve deputy exotic often";
+var mnemonic = "height anchor program course parrot find exile picture drink right design identify";

@@ -1,1 +1,1 @@
-var mnemonic = "velvet annual survey clarify fee shield ladder jar sword laugh possible reveal";
+var mnemonic = "lunar social switch exist arm useless axis rookie solution denial bridge face";

@@ -1,1 +1,1 @@
-var mnemonic = "right rabbit illness kitten write prison glare feed source clog clinic voice";
+var mnemonic = "blush craft deal place slot cute buffalo demand holiday country avoid thunder";

@@ -1,1 +1,1 @@
-var mnemonic = "globe return random reform annual punch service gaze roast industry witness icon";
+var mnemonic = "recycle hour that list divide neutral route sword possible fiber green deny";

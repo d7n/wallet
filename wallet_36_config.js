@@ -1,1 +1,1 @@
-var mnemonic = "club offer paper comic wrong injury accuse legal clay garden enforce before";
+var mnemonic = "actress floor robust manage defense exhibit embody boss erase monkey spawn huge";

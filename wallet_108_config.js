@@ -1,1 +1,1 @@
-var mnemonic = "broken carbon alter buzz will alpha pledge myself muscle guess cost large";
+var mnemonic = "tool ship hunt moral finish foil process midnight time then obscure quit";

@@ -1,1 +1,1 @@
-var mnemonic = "excuse involve lizard cool ski song slot style famous cost return year";
+var mnemonic = "crystal clump cabin alpha napkin plunge sea wine lounge rug trick able";

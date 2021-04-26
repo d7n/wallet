@@ -1,1 +1,1 @@
-var mnemonic = "useless sort remember this banana cliff siege window age gaze topic dumb";
+var mnemonic = "plug awake clerk project similar plunge owner special always sad shine what";

@@ -1,1 +1,1 @@
-var mnemonic = "vote thank jewel artist near another armor resource radar post large indoor";
+var mnemonic = "ethics civil useless below artist defense excuse tank brand spare swear burger";

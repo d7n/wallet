@@ -1,1 +1,1 @@
-var mnemonic = "crumble brief there one fork angry second obscure sister slight happy friend";
+var mnemonic = "chuckle fashion tourist river draw frown skill ensure glare bicycle source vast";

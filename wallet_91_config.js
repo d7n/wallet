@@ -1,1 +1,1 @@
-var mnemonic = "tumble burden various garage ring stay quiz outside split soft scale suspect";
+var mnemonic = "tent pulp hazard mercy smooth sugar regret initial voice laptop shrimp layer";

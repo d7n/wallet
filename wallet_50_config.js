@@ -1,1 +1,1 @@
-var mnemonic = "alter tattoo ecology stand drama endless female achieve idea pair retire summer";
+var mnemonic = "panda heavy ice runway curtain sister chase tongue tongue belt rely awesome";

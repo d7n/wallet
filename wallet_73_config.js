@@ -1,1 +1,1 @@
-var mnemonic = "certain pilot sponsor embark exclude tank wood indicate topple save capable city";
+var mnemonic = "chuckle proof host loud scrap light elephant icon inch brand drip sphere";

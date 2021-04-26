@@ -1,1 +1,1 @@
-var mnemonic = "ramp gym adjust digital fever promote among survey battle shop vicious ability";
+var mnemonic = "cheap salad catalog desk pistol wine brave apart flip argue more mistake";

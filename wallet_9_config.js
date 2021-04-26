@@ -1,1 +1,1 @@
-var mnemonic = "assist index someone method spawn stock bread room devote episode sentence card";
+var mnemonic = "artefact you power finish chapter enact attend tunnel chunk slab cloth vocal";

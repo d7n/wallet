@@ -1,1 +1,1 @@
-var mnemonic = "offer rival neglect magic salt govern obvious minor mountain cherry connect coffee";
+var mnemonic = "tail receive goose hurdle finger camera three sight lobster diet point nest";

@@ -1,1 +1,1 @@
-var mnemonic = "diary slice only when trumpet zone town blanket palm next strike shock";
+var mnemonic = "actress right kind hobby work enact exotic open prosper original ship humble";

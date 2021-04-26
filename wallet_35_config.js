@@ -1,1 +1,1 @@
-var mnemonic = "attack evil engine arch shrimp wrap battle acoustic combine distance dice airport";
+var mnemonic = "mail opera awake ladder wife gossip card gorilla copy manual honey similar";

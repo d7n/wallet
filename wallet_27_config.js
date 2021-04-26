@@ -1,1 +1,1 @@
-var mnemonic = "sugar glare know chronic update obscure latin nature enough license direct strong";
+var mnemonic = "maple glue valve slush good polar neither life celery romance actor bonus";

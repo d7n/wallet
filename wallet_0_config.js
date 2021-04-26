@@ -1,1 +1,1 @@
-var mnemonic = "sell net private hello twelve ring slide rug alarm knife moral sauce";
+var mnemonic = "hint void chalk river cricket scheme enable version shrimp half spatial interest";

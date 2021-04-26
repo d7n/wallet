@@ -1,1 +1,1 @@
-var mnemonic = "creek lecture walk adult pottery sting party destroy economy gesture patient muffin";
+var mnemonic = "girl immune large pig wagon armor crime damage lamp joke heart crack";

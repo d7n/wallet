@@ -1,1 +1,1 @@
-var mnemonic = "subway wisdom cousin news face bracket various cause recall morning eagle cluster";
+var mnemonic = "stove acid tomato stairs robust ensure snap margin discover erupt nature false";

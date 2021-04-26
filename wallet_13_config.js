@@ -1,1 +1,1 @@
-var mnemonic = "soul secret fly film song focus month wrist unhappy pencil resemble artefact";
+var mnemonic = "giraffe dial link inmate more alpha unusual country meadow swamp artist cousin";

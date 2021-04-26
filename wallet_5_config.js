@@ -1,1 +1,1 @@
-var mnemonic = "brown patrol approve year breeze choose exchange team dutch action pluck rail";
+var mnemonic = "laugh butter gorilla behind suspect pistol loyal either horn blouse spider churn";

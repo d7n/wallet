@@ -1,1 +1,1 @@
-var mnemonic = "unveil name segment alley source typical soft ridge boat salute angle will";
+var mnemonic = "card elegant isolate crack idle radio budget embrace major man spread name";

@@ -1,1 +1,1 @@
-var mnemonic = "engage box mandate tool noise lava shield diet august age grant train";
+var mnemonic = "gaze then math veteran second evoke will future security salon banana clog";

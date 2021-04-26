@@ -1,1 +1,1 @@
-var mnemonic = "buddy ahead taste soft reject govern sorry safe demise atom spray unlock";
+var mnemonic = "glue curve angle split movie female rely move few artefact manual still";

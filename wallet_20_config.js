@@ -1,1 +1,1 @@
-var mnemonic = "monitor visual empty humble degree ensure father quality myself resist excite sweet";
+var mnemonic = "bean retire kind puppy emerge suspect mention coconut travel lend liberty fetch";

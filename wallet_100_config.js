@@ -1,1 +1,1 @@
-var mnemonic = "brief keen place one measure congress card truck arrive submit tree split";
+var mnemonic = "arctic theme enact across peasant elevator insect short gold elbow noodle street";

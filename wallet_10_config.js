@@ -1,1 +1,1 @@
-var mnemonic = "build grit knock shaft lonely busy absorb potato vendor shift loan manual";
+var mnemonic = "window harbor cross object ginger trial until market trophy twenty forward husband";

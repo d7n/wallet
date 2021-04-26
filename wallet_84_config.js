@@ -1,1 +1,1 @@
-var mnemonic = "visual thought unhappy unfair harbor sure limb buddy host soup mixture mistake";
+var mnemonic = "april amount hidden say tenant ugly oval already ketchup around chimney fine";

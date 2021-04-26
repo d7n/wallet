@@ -1,1 +1,1 @@
-var mnemonic = "drastic clump frequent trap humble bean hurt talk pottery approve doctor beef";
+var mnemonic = "elevator toward wide drift whip excess buyer gaze second inside youth absurd";

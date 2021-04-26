@@ -1,1 +1,1 @@
-var mnemonic = "conduct shoulder amateur animal during unable valid crop fever spy fury strategy";
+var mnemonic = "inch yard cluster gesture negative ripple burden runway found over flip require";

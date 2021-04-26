@@ -1,1 +1,1 @@
-var mnemonic = "bulb bird mandate rival enter pumpkin jelly canoe soldier office uncover barely";
+var mnemonic = "isolate excess stereo give frequent lunar bonus common improve shine hundred abstract";

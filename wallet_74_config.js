@@ -1,1 +1,1 @@
-var mnemonic = "prison muscle debate first guess special scare evolve page argue load own";
+var mnemonic = "acquire swarm apple often worth antique rent tunnel sorry bronze dust document";

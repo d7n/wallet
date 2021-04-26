@@ -1,1 +1,1 @@
-var mnemonic = "message pudding address notice season side chef genius daring soldier chat forest";
+var mnemonic = "happy noble crawl desert enroll domain more evolve scheme test author scout";

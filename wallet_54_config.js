@@ -1,1 +1,1 @@
-var mnemonic = "rely legend poem later need love direct olympic name economy case concert";
+var mnemonic = "then ramp piece learn response feel during cream duck hurt message peace";

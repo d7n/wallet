@@ -1,1 +1,1 @@
-var mnemonic = "prepare cute brown symptom attack relief system work coyote gravity often ivory";
+var mnemonic = "shell scorpion acoustic symbol chat squeeze space staff soon method ghost arrive";

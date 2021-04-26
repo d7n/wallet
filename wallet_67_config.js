@@ -1,1 +1,1 @@
-var mnemonic = "unhappy alpha fuel artist horse input clap tobacco next jump action error";
+var mnemonic = "crime peasant fancy medal relief wife head sudden lemon region knee phone";

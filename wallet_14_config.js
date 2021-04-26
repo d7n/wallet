@@ -1,1 +1,1 @@
-var mnemonic = "net position novel abuse joke flat nature maple unveil ask library famous";
+var mnemonic = "cinnamon swallow lobster valid goose can fork wagon tooth beef ridge priority";

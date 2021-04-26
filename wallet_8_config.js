@@ -1,1 +1,1 @@
-var mnemonic = "cabin ball document jazz tone faint evoke lift until plastic scale wet";
+var mnemonic = "globe what dash stamp tooth vehicle van work ranch mutual pig define";

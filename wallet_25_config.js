@@ -1,1 +1,1 @@
-var mnemonic = "limb fire obscure utility fun crush cloth derive soap card immune popular";
+var mnemonic = "corn poet remember reward salmon merry provide weekend avoid inject coil vault";

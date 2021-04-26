@@ -1,1 +1,1 @@
-var mnemonic = "income october mother opera prevent unfold crumble valley office noble spawn radar";
+var mnemonic = "resemble wisdom lyrics cost simple buffalo april box manual program host wet";

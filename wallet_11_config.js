@@ -1,1 +1,1 @@
-var mnemonic = "roast laugh adult dolphin annual choice person dish armed inmate input digital";
+var mnemonic = "finish snap matrix frozen float lounge bar suit shallow husband initial reveal";

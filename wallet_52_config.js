@@ -1,1 +1,1 @@
-var mnemonic = "protect wool excuse among bomb need usage unfold tuna actual exit grab";
+var mnemonic = "expire cage bamboo chat census black black letter certain can sure tooth";

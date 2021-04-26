@@ -1,1 +1,1 @@
-var mnemonic = "skill orphan rubber venue end degree oblige east ghost call steel fitness";
+var mnemonic = "tackle chat inquiry ladder aspect between reflect sword boss mountain bird expose";

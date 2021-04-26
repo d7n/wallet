@@ -1,1 +1,1 @@
-var mnemonic = "match urban collect tilt dose pond again coach accident side laundry script";
+var mnemonic = "orange blame float problem into fall diet captain mammal measure plastic garment";

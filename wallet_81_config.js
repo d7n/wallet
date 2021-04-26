@@ -1,1 +1,1 @@
-var mnemonic = "piano hole deputy divide open image catalog explain ice chef neutral slim";
+var mnemonic = "wrap crazy shine afford grass muscle dolphin toast action close job post";

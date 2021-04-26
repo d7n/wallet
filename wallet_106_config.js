@@ -1,1 +1,1 @@
-var mnemonic = "muscle armed toy obtain mass broom balance army correct knee bench pull";
+var mnemonic = "because casual beef obtain flame laundry pink maze wish hold unaware beauty";

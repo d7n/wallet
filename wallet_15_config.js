@@ -1,1 +1,1 @@
-var mnemonic = "sustain ginger first borrow solve guilt stable mom normal shrimp salad tree";
+var mnemonic = "ribbon damp adult mammal legend hurdle fatigue dwarf art utility fork broccoli";

@@ -1,1 +1,1 @@
-var mnemonic = "toilet fringe awkward zero doll cigar mention original gaze above combine fatal";
+var mnemonic = "duty news change hazard day rabbit puzzle ribbon devote knock silk title";

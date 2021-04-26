@@ -1,1 +1,1 @@
-var mnemonic = "aerobic road they guard violin bean gesture bargain subject hungry finger clip";
+var mnemonic = "tank plug pencil hurry cancel very elder rack crew myself confirm gun";

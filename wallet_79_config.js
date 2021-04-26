@@ -1,1 +1,1 @@
-var mnemonic = "swap bracket fade magic exist cradle father stove clock glide betray drastic";
+var mnemonic = "ketchup lava despair result dove mushroom crisp cotton increase country trend gun";

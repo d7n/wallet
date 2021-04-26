@@ -1,1 +1,1 @@
-var mnemonic = "damp bottom drive chimney remove oak mind waste method ready crunch armor";
+var mnemonic = "music develop coil couple glide into february kiwi filter famous become island";

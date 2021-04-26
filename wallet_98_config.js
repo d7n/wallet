@@ -1,1 +1,1 @@
-var mnemonic = "hire uncover humor offer news verb grocery arena hollow author desert ketchup";
+var mnemonic = "other problem squeeze diesel shadow start tiger entry local jungle night fox";

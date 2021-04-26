@@ -1,1 +1,1 @@
-var mnemonic = "patrol install above spread kitchen bullet ripple holiday stadium dinner buddy loud";
+var mnemonic = "pioneer cycle banner raven metal dilemma guilt order large chuckle lobster setup";
