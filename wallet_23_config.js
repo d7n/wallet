@@ -1,1 +1,1 @@
-var mnemonic = "lift there glory bitter toss frequent borrow december skate nice spike bacon";
+var mnemonic = "genre mesh trigger often inmate belt spell produce system mom lens keen";

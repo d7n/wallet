@@ -1,1 +1,1 @@
-var mnemonic = "grace purchase chase old add snow write century silk easy cabbage buzz";
+var mnemonic = "mean west vintage reflect cost pitch scissors believe basket walk twist head";

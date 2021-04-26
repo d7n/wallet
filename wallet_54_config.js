@@ -1,1 +1,1 @@
-var mnemonic = "farm foil saddle rain inform reunion amateur control impulse clean bridge local";
+var mnemonic = "second meadow market solution chair inmate bone liquid choose another pulse local";

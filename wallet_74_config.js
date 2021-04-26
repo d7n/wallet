@@ -1,1 +1,1 @@
-var mnemonic = "hill banner tackle fan junior material hour chimney keep hotel next wait";
+var mnemonic = "theory few stereo smile inside ticket praise fee wing faint critic service";

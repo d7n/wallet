@@ -1,1 +1,1 @@
-var mnemonic = "benefit doll little undo book strike champion stone garment curious pond crystal";
+var mnemonic = "boost elbow run document cactus second tube runway method spoon clump ritual";

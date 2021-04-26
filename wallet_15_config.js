@@ -1,1 +1,1 @@
-var mnemonic = "cycle digital cotton cool wise rebel marriage jeans grace drill mirror capable";
+var mnemonic = "poem believe source love pair south calm drop poem network bike random";

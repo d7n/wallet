@@ -1,1 +1,1 @@
-var mnemonic = "couch spray airport popular type unlock scissors ordinary segment wealth globe appear";
+var mnemonic = "foot usage manage dry outside spell soap cry flush panda empty furnace";

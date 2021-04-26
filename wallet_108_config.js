@@ -1,1 +1,1 @@
-var mnemonic = "transfer valley make level bleak emotion text era grass alter rookie prison";
+var mnemonic = "rebel bounce crouch year spice drama gun rival lizard tool language safe";

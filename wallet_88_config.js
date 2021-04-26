@@ -1,1 +1,1 @@
-var mnemonic = "wheat dawn abandon garment fine among slender tool ladder special desk between";
+var mnemonic = "aspect primary number park close solid appear pear melt shift essence space";

@@ -1,1 +1,1 @@
-var mnemonic = "example sad chase rich adapt talk radar puppy elder topple model renew";
+var mnemonic = "liberty churn taste rent final improve stamp secret iron cool tunnel helmet";

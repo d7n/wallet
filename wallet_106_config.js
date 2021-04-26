@@ -1,1 +1,1 @@
-var mnemonic = "embrace snack push curious story science spot gadget trash famous daring initial";
+var mnemonic = "merry salad oak tent draft people admit merge tool tomorrow gown walk";

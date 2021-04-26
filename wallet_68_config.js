@@ -1,1 +1,1 @@
-var mnemonic = "end gloom ship two comfort casual found asthma stable electric found witness";
+var mnemonic = "shed spring squeeze december around merge submit tag leopard shell amateur gauge";

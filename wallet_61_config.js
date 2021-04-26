@@ -1,1 +1,1 @@
-var mnemonic = "tube stool journey claim umbrella crunch supply duty thought lounge number powder";
+var mnemonic = "mushroom empower tool laundry violin dirt access cat dwarf exclude lady hundred";

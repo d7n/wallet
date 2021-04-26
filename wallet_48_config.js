@@ -1,1 +1,1 @@
-var mnemonic = "ocean laptop electric close beauty across awake document jungle busy thing glad";
+var mnemonic = "ahead ring second cupboard reflect fun dice craft warm bleak frame omit";

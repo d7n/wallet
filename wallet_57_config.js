@@ -1,1 +1,1 @@
-var mnemonic = "guilt where sight obtain praise believe eye call cement knee swing index";
+var mnemonic = "blame pumpkin average lobster cereal field lab jump negative subway borrow iron";

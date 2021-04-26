@@ -1,1 +1,1 @@
-var mnemonic = "medal fantasy gasp produce myth fuel infant harvest amateur eye mansion behave";
+var mnemonic = "moon release execute cave faculty upper club assume rare embark six siege";

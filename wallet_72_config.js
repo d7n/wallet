@@ -1,1 +1,1 @@
-var mnemonic = "museum feature below furnace sustain hour type robot sustain divorce retire excuse";
+var mnemonic = "amount december ritual duck inherit forget trap garden grape love chronic actor";

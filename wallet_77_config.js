@@ -1,1 +1,1 @@
-var mnemonic = "begin emerge knock hunt expose season sound saddle example accident gym lady";
+var mnemonic = "hope deputy install east nice village alarm sight clarify short horn zebra";

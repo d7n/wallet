@@ -1,1 +1,1 @@
-var mnemonic = "rather only rack six more mass will canvas power you reject warfare";
+var mnemonic = "dwarf fringe conduct name figure member conduct random unveil tumble gasp legend";

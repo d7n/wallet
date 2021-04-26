@@ -1,1 +1,1 @@
-var mnemonic = "enroll click hunt fetch blossom remind exclude turkey ring once submit goose";
+var mnemonic = "film exact bronze enlist aim reflect ability guide chunk gossip resource rate";

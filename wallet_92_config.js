@@ -1,1 +1,1 @@
-var mnemonic = "mention burden grit mother hint camera churn dice harvest champion okay tourist";
+var mnemonic = "sport inside young umbrella flower nerve toy junior engine panther fiscal demise";

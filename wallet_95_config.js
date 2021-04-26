@@ -1,1 +1,1 @@
-var mnemonic = "box depart weapon talk soda budget reunion phrase deer interest balance ordinary";
+var mnemonic = "mirror select pitch winner just toast again tomorrow kick twin online neglect";

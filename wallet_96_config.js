@@ -1,1 +1,1 @@
-var mnemonic = "fresh have film conduct cargo only giggle paddle milk south derive since";
+var mnemonic = "tired trumpet fit dust paper rule snap squeeze turn sort question soda";

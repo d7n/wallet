@@ -1,1 +1,1 @@
-var mnemonic = "express shed explain possible harbor recall section alley amazing hint decade they";
+var mnemonic = "strategy good believe phone bulb mean another hour fade beef screen agent";

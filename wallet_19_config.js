@@ -1,1 +1,1 @@
-var mnemonic = "buzz snow abuse afford special soon drastic field carpet wood night huge";
+var mnemonic = "thumb clean panther crazy pigeon artist live auction wagon grass shallow vital";

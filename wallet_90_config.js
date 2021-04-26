@@ -1,1 +1,1 @@
-var mnemonic = "cradle pottery panther visual close wasp endorse rigid entire such farm train";
+var mnemonic = "slab cute quick derive wine tired wrestle cactus fiction question dry cabin";

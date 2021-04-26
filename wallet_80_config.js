@@ -1,1 +1,1 @@
-var mnemonic = "length million message rocket doctor fit grace viable glimpse minor phrase want";
+var mnemonic = "trust rigid apology ignore differ venture bike rain prevent obey myth blue";

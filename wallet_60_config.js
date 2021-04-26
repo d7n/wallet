@@ -1,1 +1,1 @@
-var mnemonic = "mechanic ridge moral combine kick corn rain caught zero emotion pitch nest";
+var mnemonic = "ivory impact minimum loan stone flee wash olympic nature cruel absurd vendor";

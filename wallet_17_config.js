@@ -1,1 +1,1 @@
-var mnemonic = "secret ride couch click jacket innocent trouble inspire sure tag omit kiss";
+var mnemonic = "undo poverty present describe firm suit entire filter inquiry flight bread casino";

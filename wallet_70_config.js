@@ -1,1 +1,1 @@
-var mnemonic = "cave coast powder runway host there urban unable eagle number orbit army";
+var mnemonic = "urge crucial merit stock bar zero around artist rural resist fury thing";

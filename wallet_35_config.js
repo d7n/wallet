@@ -1,1 +1,1 @@
-var mnemonic = "rescue ice shadow fold feel math consider seek quarter size whale steak";
+var mnemonic = "toward vapor drift rate obvious mirror finger office include just attend upper";

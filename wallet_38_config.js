@@ -1,1 +1,1 @@
-var mnemonic = "tuna treat diamond page few vague stage flash fame kit devote focus";
+var mnemonic = "museum electric second action reveal van theme number health daring genre gossip";

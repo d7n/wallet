@@ -1,1 +1,1 @@
-var mnemonic = "sense web bamboo arena ability figure shock clay charge later stadium verify";
+var mnemonic = "test skate such garment earn friend baby creek sample omit nation eight";

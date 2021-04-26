@@ -1,1 +1,1 @@
-var mnemonic = "person notable noble arrange pulse fossil best matrix alter lizard item ankle";
+var mnemonic = "core river cousin found economy language result fabric scale flavor oyster acoustic";

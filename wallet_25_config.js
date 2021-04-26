@@ -1,1 +1,1 @@
-var mnemonic = "debris erode host more inflict measure pill meadow rabbit tiny focus busy";
+var mnemonic = "mule vivid master deliver airport say course shiver replace quit aerobic equip";

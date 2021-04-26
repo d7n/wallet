@@ -1,1 +1,1 @@
-var mnemonic = "race remain quit jump north helmet bone video service vacuum satoshi useless";
+var mnemonic = "craft town submit february exclude clutch garage rubber soldier ski cave frozen";

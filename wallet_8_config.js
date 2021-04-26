@@ -1,1 +1,1 @@
-var mnemonic = "parent harsh universe patient spike ridge dial taxi impose donate gauge slush";
+var mnemonic = "carpet churn bracket extend knife pupil patrol truly recall effort spray summer";

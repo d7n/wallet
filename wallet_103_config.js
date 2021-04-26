@@ -1,1 +1,1 @@
-var mnemonic = "dwarf theory salad dove police absent chronic space current feel exact eager";
+var mnemonic = "fee fault salt broccoli puzzle reveal smart shop problem hand layer noble";

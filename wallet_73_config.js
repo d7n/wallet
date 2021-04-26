@@ -1,1 +1,1 @@
-var mnemonic = "sock gasp toast wealth alarm vote element half air fortune soon derive";
+var mnemonic = "cave juice satisfy slam voice flag wrong palace victory depth inform panel";

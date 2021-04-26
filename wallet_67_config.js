@@ -1,1 +1,1 @@
-var mnemonic = "tank scrap badge virus lift neglect foil act glove author walk weather";
+var mnemonic = "match pool volcano quick endless industry pill dice museum illegal bitter dilemma";

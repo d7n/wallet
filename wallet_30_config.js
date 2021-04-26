@@ -1,1 +1,1 @@
-var mnemonic = "know street sick lava afford quarter crater want zoo oven clap solution";
+var mnemonic = "talk weather valid dirt maid input crane march traffic rib summer trumpet";

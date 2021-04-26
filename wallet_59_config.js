@@ -1,1 +1,1 @@
-var mnemonic = "toward confirm whisper actual video enlist victory draft uniform pluck satoshi recycle";
+var mnemonic = "actual where snack treat oppose churn bird oven install crisp develop taste";

@@ -1,1 +1,1 @@
-var mnemonic = "portion chronic match brown volume pond excuse window umbrella baby bachelor please";
+var mnemonic = "sphere super sketch law used sing artwork wrap anchor almost mobile convince";

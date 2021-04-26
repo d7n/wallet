@@ -1,1 +1,1 @@
-var mnemonic = "scorpion kite donkey expire cry tuition man cement menu lunch squirrel remove";
+var mnemonic = "basket bulk hawk before south palace source luxury amused trust measure strategy";

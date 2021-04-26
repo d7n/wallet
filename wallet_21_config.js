@@ -1,1 +1,1 @@
-var mnemonic = "list strike husband lazy hurdle tongue atom deposit pyramid affair select clown";
+var mnemonic = "square income logic display pistol bless myth much asset similar minute recycle";

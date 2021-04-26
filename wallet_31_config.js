@@ -1,1 +1,1 @@
-var mnemonic = "cabbage ramp urge silent hello execute enjoy measure sail online negative aim";
+var mnemonic = "web valve result absurd arch dance thunder kite spray hobby dawn win";

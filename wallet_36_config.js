@@ -1,1 +1,1 @@
-var mnemonic = "student afraid display guess protect vast doll educate scan crucial muscle appear";
+var mnemonic = "session kid human raw crime certain very toilet execute hair donor because";

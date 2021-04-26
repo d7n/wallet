@@ -1,1 +1,1 @@
-var mnemonic = "multiply topple protect often left basic despair early capable unit oil trust";
+var mnemonic = "mind margin rib when machine extend order paper virtual wolf miss mad";

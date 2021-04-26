@@ -1,1 +1,1 @@
-var mnemonic = "argue music cart net lawsuit motion bus horse field chef core grass";
+var mnemonic = "reflect welcome strategy solution return pepper check inspire screen banner recall cloth";

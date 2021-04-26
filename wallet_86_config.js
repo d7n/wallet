@@ -1,1 +1,1 @@
-var mnemonic = "this spawn boil license cross pottery nature humble blush enrich shadow share";
+var mnemonic = "amazing easily regret rural rookie satisfy enforce call eagle fuel chuckle vintage";

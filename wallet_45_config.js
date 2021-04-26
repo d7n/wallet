@@ -1,1 +1,1 @@
-var mnemonic = "rent breeze shallow kangaroo exhaust project shiver office neck loan expire cloud";
+var mnemonic = "vibrant urge fatal venue picnic arrive expire churn afraid mention profit neither";

@@ -1,1 +1,1 @@
-var mnemonic = "sauce slight ghost valley affair offer floor unfold guilt gold simple pave";
+var mnemonic = "dash rude permit salmon mad typical leisure weasel menu choose marriage solve";

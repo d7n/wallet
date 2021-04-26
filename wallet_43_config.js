@@ -1,1 +1,1 @@
-var mnemonic = "leopard crawl pottery chair logic stamp impact caught valid remove caution copy";
+var mnemonic = "position deputy axis virtual spread adapt bike rug space client sound innocent";

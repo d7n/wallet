@@ -1,1 +1,1 @@
-var mnemonic = "radar input suspect develop anger photo sport hat guard hazard olive planet";
+var mnemonic = "dance master come vendor power discover slogan pool enhance limb surprise enforce";

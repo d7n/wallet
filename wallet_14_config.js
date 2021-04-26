@@ -1,1 +1,1 @@
-var mnemonic = "produce pulp bracket uniform discover range someone vote hen impose century leg";
+var mnemonic = "brief blame pet ladder rule symbol junior fly announce frog once pink";

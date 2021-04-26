@@ -1,1 +1,1 @@
-var mnemonic = "glare chat turtle index share sketch praise animal slush surround couch tone";
+var mnemonic = "involve illegal crew minimum section mistake mosquito echo grab force beach miss";

@@ -1,1 +1,1 @@
-var mnemonic = "route defy alter key tired stairs mobile eyebrow rural brief sea around";
+var mnemonic = "stuff salad climb small glide ankle fabric lawn proof winter until girl";

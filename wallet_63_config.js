@@ -1,1 +1,1 @@
-var mnemonic = "squirrel ask chapter olive hill remember upset gather okay raise fork century";
+var mnemonic = "joke bind shock section spice slim army clap hello zoo duty involve";

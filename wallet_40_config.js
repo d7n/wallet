@@ -1,1 +1,1 @@
-var mnemonic = "glimpse pony rug unfold theme adapt else wave prison burger mosquito comfort";
+var mnemonic = "trophy coast decade sport increase swap perfect mean page ivory deposit spoon";

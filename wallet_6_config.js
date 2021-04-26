@@ -1,1 +1,1 @@
-var mnemonic = "welcome opera void jazz mask clown crowd write tray anchor ribbon amazing";
+var mnemonic = "buzz turkey risk goose typical donor rib bird attend bacon neck toilet";

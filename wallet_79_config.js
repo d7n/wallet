@@ -1,1 +1,1 @@
-var mnemonic = "toddler draw black bubble divide coil enrich wink grass vault path tank";
+var mnemonic = "bright swift wreck bubble apart buffalo quit behind tree walnut rapid ginger";

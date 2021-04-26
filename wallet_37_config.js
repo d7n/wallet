@@ -1,1 +1,1 @@
-var mnemonic = "latin they switch pizza faculty lunch festival satoshi smoke enlist entry popular";
+var mnemonic = "trial behind gospel elephant grace direct discover sugar basic ask thunder immune";

@@ -1,1 +1,1 @@
-var mnemonic = "bridge renew gasp tomorrow lunar sense theory coil doll ugly cage wonder";
+var mnemonic = "approve kiwi danger embark scan ring icon forget wife half waste pride";

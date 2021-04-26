@@ -1,1 +1,1 @@
-var mnemonic = "mention giraffe arena metal retire invest width outdoor benefit better embrace obey";
+var mnemonic = "robot paper settle connect salmon write mercy ski please aim purpose whip";

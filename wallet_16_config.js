@@ -1,1 +1,1 @@
-var mnemonic = "together left observe much unique resemble just asset punch siren example say";
+var mnemonic = "token column number idle ill cotton devote only toe among spatial general";

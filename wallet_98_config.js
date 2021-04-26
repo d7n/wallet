@@ -1,1 +1,1 @@
-var mnemonic = "news exercise gaze panic auction fee raw leisure rather proud fall fancy";
+var mnemonic = "hard engine grace cave vital quiz economy camera donate elegant grief exotic";

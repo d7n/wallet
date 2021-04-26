@@ -1,1 +1,1 @@
-var mnemonic = "frequent wave bridge switch human oyster team parade scrap disorder sell gallery";
+var mnemonic = "gain farm left nest nut tonight laugh furnace affair front destroy power";

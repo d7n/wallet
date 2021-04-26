@@ -1,1 +1,1 @@
-var mnemonic = "zebra tennis sword bulb faith size struggle lemon there vanish song scan";
+var mnemonic = "about you boring ship bus demise fence blade episode resemble tomorrow series";

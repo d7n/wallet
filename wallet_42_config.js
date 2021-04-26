@@ -1,1 +1,1 @@
-var mnemonic = "ivory sausage truly cliff legend load where inside sniff injury sauce toilet";
+var mnemonic = "spot plug stool tortoise deal burden badge fabric audit achieve hub juice";

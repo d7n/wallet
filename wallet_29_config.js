@@ -1,1 +1,1 @@
-var mnemonic = "chaos tank history village expose harvest beach rose cabin you inner latin";
+var mnemonic = "trigger avoid carbon shoe peanut creek have sniff attitude sock pond pear";

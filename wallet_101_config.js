@@ -1,1 +1,1 @@
-var mnemonic = "vote prison frost auction say pole pulse sting gold also fade anger";
+var mnemonic = "despair claim spell general swear endless average replace bacon quiz spare limit";

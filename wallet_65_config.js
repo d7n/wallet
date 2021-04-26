@@ -1,1 +1,1 @@
-var mnemonic = "fence orchard carbon ankle gate uniform plastic phone ankle nothing cactus erase";
+var mnemonic = "critic very estate castle detail hill learn tray upgrade million brand general";

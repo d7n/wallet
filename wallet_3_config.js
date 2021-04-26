@@ -1,1 +1,1 @@
-var mnemonic = "body slam goat cause admit picture design duty index indoor panic tackle";
+var mnemonic = "shuffle pledge success advice jacket replace cushion often laptop venture nose inch";

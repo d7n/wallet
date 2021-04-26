@@ -1,1 +1,1 @@
-var mnemonic = "boring noodle fatal treat flock space pony waste flip legal endorse ancient";
+var mnemonic = "owner breeze core curve danger decline problem version endorse skin uphold hotel";

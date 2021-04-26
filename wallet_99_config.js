@@ -1,1 +1,1 @@
-var mnemonic = "pass another unfair prosper cannon rival swim mammal decorate wait purpose immense";
+var mnemonic = "midnight odor cousin oven betray super guilt kidney forum try kite snack";

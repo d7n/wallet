@@ -1,1 +1,1 @@
-var mnemonic = "few subway eager horse pigeon caught bulk rare neutral undo roast chapter";
+var mnemonic = "spatial before cash supreme ice jealous east clock knife curtain zoo woman";

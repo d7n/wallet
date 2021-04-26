@@ -1,1 +1,1 @@
-var mnemonic = "february ocean need enhance run sound regular beyond tortoise guilt powder before";
+var mnemonic = "movie farm bachelor paddle decrease tragic select fever uniform dentist language love";

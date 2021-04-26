@@ -1,1 +1,1 @@
-var mnemonic = "buddy pudding balance asset illness grass disagree clap craft burden wreck imitate";
+var mnemonic = "another payment feel real venue reduce image label before tragic rare clog";

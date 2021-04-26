@@ -1,1 +1,1 @@
-var mnemonic = "forget cash mistake meadow normal measure wood park relief follow still uncover";
+var mnemonic = "stumble replace reject hope venture better puzzle rose click enroll tortoise sail";

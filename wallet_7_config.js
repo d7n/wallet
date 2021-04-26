@@ -1,1 +1,1 @@
-var mnemonic = "possible upset cheap urge slim potato black rival first dune spare august";
+var mnemonic = "pull want limb purpose flee option basic notable virus eager scorpion jeans";

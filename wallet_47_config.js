@@ -1,1 +1,1 @@
-var mnemonic = "erupt gloom gloom south cluster wine vehicle neck era mask parade knock";
+var mnemonic = "gloom ankle close amazing roast card toast region slice east island theory";

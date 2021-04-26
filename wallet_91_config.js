@@ -1,1 +1,1 @@
-var mnemonic = "there range vintage summer chuckle picnic bag cycle mask tip nothing travel";
+var mnemonic = "crash acid fashion frog comfort pepper hurt spy stem void matrix script";

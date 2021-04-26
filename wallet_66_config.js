@@ -1,1 +1,1 @@
-var mnemonic = "talent clever expire ripple cry bless cable final tent civil primary remind";
+var mnemonic = "stay sail ozone invite install wet park turn harbor wash comfort warm";

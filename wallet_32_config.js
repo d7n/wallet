@@ -1,1 +1,1 @@
-var mnemonic = "tribe luggage used rabbit accuse govern upset faculty fence ankle target hungry";
+var mnemonic = "similar grass resource cattle wear shoe super lunch sad oblige mind elegant";

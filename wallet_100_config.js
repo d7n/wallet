@@ -1,1 +1,1 @@
-var mnemonic = "mention unfair abuse toilet sand sleep visual bachelor arch edge plunge life";
+var mnemonic = "stock scale snake setup benefit sun shine shift rough occur field power";

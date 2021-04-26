@@ -1,1 +1,1 @@
-var mnemonic = "need milk exclude fog brass mouse wagon heavy van era fold reward";
+var mnemonic = "people little angle unable afraid noodle pause enable inquiry desert have click";

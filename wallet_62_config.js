@@ -1,1 +1,1 @@
-var mnemonic = "purpose already salon section manage analyst three section jazz snake whip start";
+var mnemonic = "brick huge spirit merge glass typical fresh because speed notable during game";
