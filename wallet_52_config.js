@@ -1,1 +1,1 @@
-var mnemonic = "beef artefact female roof carpet piece curtain prosper glue engine mosquito item";
+var mnemonic = "predict eternal unveil fine either opera lounge local web suffer later gadget";

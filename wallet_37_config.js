@@ -1,1 +1,1 @@
-var mnemonic = "shoulder rail warm broom achieve census ill other letter worry kit danger";
+var mnemonic = "atom surface truth dry van fix genius equip museum cabin zero pony";

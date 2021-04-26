@@ -1,1 +1,1 @@
-var mnemonic = "nurse struggle coach climb hub silly trade unit crane lion topic bunker";
+var mnemonic = "idea shift fury grass audit work skirt close file claw amateur guide";

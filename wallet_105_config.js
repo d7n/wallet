@@ -1,1 +1,1 @@
-var mnemonic = "stand enough edge electric kit search access sudden winter morning sure life";
+var mnemonic = "bunker flame forum deny once drama liberty evolve stool risk volcano arctic";

@@ -1,1 +1,1 @@
-var mnemonic = "zoo clump immense accident raccoon issue kidney canoe bachelor vital trumpet nominee";
+var mnemonic = "pelican bunker hero call awake disorder elephant skin almost local pledge cheese";

@@ -1,1 +1,1 @@
-var mnemonic = "worry pioneer hand poem pen impact hundred rural hold father walk team";
+var mnemonic = "ask throw team kid vacant recipe possible cat reward legal good frog";

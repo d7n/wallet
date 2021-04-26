@@ -1,1 +1,1 @@
-var mnemonic = "before ketchup chunk you mesh sock pulse chapter similar pistol behave quiz";
+var mnemonic = "volcano loyal track solar oak tomorrow image purchase diagram mobile main scare";

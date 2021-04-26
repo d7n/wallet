@@ -1,1 +1,1 @@
-var mnemonic = "analyst doctor tunnel clown include old scale action rebel impact orphan amount";
+var mnemonic = "fresh approve hobby session aspect chase guide surprise local inherit frog ice";

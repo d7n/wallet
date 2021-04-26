@@ -1,1 +1,1 @@
-var mnemonic = "girl urge rare pledge beef ethics leg soon west uphold eternal claim";
+var mnemonic = "glance cereal dance juice wine manage hard text favorite august mountain soul";

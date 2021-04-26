@@ -1,1 +1,1 @@
-var mnemonic = "offer train broom unable lounge shrug antique hedgehog stand couch twin put";
+var mnemonic = "huge fun winter reform follow sentence shoulder minor inject select better imitate";

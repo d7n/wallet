@@ -1,1 +1,1 @@
-var mnemonic = "install ginger endorse shock friend direct job wealth bonus unique parent wasp";
+var mnemonic = "rough buzz brass twist mystery pudding celery party session build alarm piano";

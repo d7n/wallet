@@ -1,1 +1,1 @@
-var mnemonic = "mushroom december shuffle proud visual empower kitchen thrive unlock paddle accuse delay";
+var mnemonic = "border unveil topic ball join real bargain farm since employ develop physical";

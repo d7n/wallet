@@ -1,1 +1,1 @@
-var mnemonic = "wrestle bracket prison million pool law radar recipe boat parrot forest uniform";
+var mnemonic = "high dolphin federal upper observe skate kit mother dish screen nasty trade";

@@ -1,1 +1,1 @@
-var mnemonic = "crane aim stamp aim network rose cycle offer hope rally bind explain";
+var mnemonic = "vault summer junior jaguar virus chair insect depart portion water core hood";

@@ -1,1 +1,1 @@
-var mnemonic = "convince design wait finger dust find question region detect conduct blanket impose";
+var mnemonic = "virus wasp artefact team cliff arrest plate nest topple balance lend veteran";

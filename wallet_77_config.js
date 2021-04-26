@@ -1,1 +1,1 @@
-var mnemonic = "off salon powder surprise minimum chronic entire orbit thing cycle among summer";
+var mnemonic = "question plastic drink disorder turkey glory jump end fragile neglect now early";

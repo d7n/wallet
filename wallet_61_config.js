@@ -1,1 +1,1 @@
-var mnemonic = "priority nice fortune patch must violin diesel diet private hire uncover layer";
+var mnemonic = "gossip pyramid lunar tell veteran law image despair armor reject bring middle";

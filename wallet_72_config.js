@@ -1,1 +1,1 @@
-var mnemonic = "excess treat extend sword top razor lazy rich stumble omit bargain diagram";
+var mnemonic = "clinic describe poem medal urban hen amateur quit whip unveil must gain";

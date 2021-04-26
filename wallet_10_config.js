@@ -1,1 +1,1 @@
-var mnemonic = "twelve pattern kitten nest circle bomb trim surge marriage rule lyrics welcome";
+var mnemonic = "during elite enable frog lonely draw another romance inject surge gap boat";

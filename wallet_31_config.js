@@ -1,1 +1,1 @@
-var mnemonic = "just use fall stay sister cruise absent cinnamon furnace security turn draw";
+var mnemonic = "much shoulder legend chalk remember claim wise clay tiger give speed issue";

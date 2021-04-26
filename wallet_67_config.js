@@ -1,1 +1,1 @@
-var mnemonic = "broken donkey match total danger little torch swap witness recycle sorry occur";
+var mnemonic = "scale neither mutual vintage abstract dish buffalo claw cheap example trip coral";

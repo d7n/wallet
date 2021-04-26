@@ -1,1 +1,1 @@
-var mnemonic = "shock tumble monitor mystery salon rib poet merry swift column almost inside";
+var mnemonic = "unit cattle echo sleep elbow bargain range flag town roof evidence spy";

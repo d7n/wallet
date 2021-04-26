@@ -1,1 +1,1 @@
-var mnemonic = "maid flight sweet number lazy derive donkey walk urban wreck goddess coral";
+var mnemonic = "credit blind radar view dutch volume myth hole indoor combine warfare sock";

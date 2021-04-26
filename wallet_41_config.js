@@ -1,1 +1,1 @@
-var mnemonic = "plate erode dream spice canal police one glue patch winner entire artefact";
+var mnemonic = "vote refuse ankle critic parade flee dream light more movie brother weekend";

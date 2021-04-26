@@ -1,1 +1,1 @@
-var mnemonic = "kiwi amateur soft marble blush raw behave group bicycle okay powder friend";
+var mnemonic = "style boss catalog wood kangaroo burden exile front sketch onion merge obvious";

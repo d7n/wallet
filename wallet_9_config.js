@@ -1,1 +1,1 @@
-var mnemonic = "flip vocal usual ivory issue label onion light six control bracket measure";
+var mnemonic = "cup resource inhale bag earth logic grow spawn rocket patient income can";

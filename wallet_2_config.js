@@ -1,1 +1,1 @@
-var mnemonic = "option sentence mobile virus found silk explain poet resemble stamp tackle example";
+var mnemonic = "mammal sense blind there oxygen try clay chat mushroom click bike special";

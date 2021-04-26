@@ -1,1 +1,1 @@
-var mnemonic = "swift gold spin frame vapor neglect drastic destroy rent patch cable various";
+var mnemonic = "warfare hurry try balcony true document energy cost glare cereal remember robot";

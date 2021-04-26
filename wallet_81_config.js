@@ -1,1 +1,1 @@
-var mnemonic = "exist crystal judge walk never barrel neutral left provide prosper fitness long";
+var mnemonic = "shop globe coffee very aerobic labor scatter canvas enough frost thing hybrid";

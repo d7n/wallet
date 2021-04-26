@@ -1,1 +1,1 @@
-var mnemonic = "tuition time help cheap pill evil winner thrive index universe vacuum coil";
+var mnemonic = "brass input another name right select faith favorite sustain spread absorb movie";

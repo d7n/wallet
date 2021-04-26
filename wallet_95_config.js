@@ -1,1 +1,1 @@
-var mnemonic = "butter risk warm audit helmet height close course text order engage damage";
+var mnemonic = "long fetch engage pony about bleak favorite february road grape engage decade";

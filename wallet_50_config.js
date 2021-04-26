@@ -1,1 +1,1 @@
-var mnemonic = "soul wait cancel episode master frog differ soccer flash habit winter oppose";
+var mnemonic = "approve column myself element fitness habit chair step grant immune raw print";

@@ -1,1 +1,1 @@
-var mnemonic = "nut live parrot actual estate observe kite assault boring powder across version";
+var mnemonic = "cliff among speak obvious giggle room mansion era prevent connect brand group";

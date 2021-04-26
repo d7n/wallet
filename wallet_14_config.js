@@ -1,1 +1,1 @@
-var mnemonic = "wing brush else raven photo table vessel medal between ketchup obscure brave";
+var mnemonic = "tomato eye tool husband phone plate crash wool lunar rookie grunt bird";

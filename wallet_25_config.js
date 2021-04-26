@@ -1,1 +1,1 @@
-var mnemonic = "unhappy phrase slim sister good position baby craft purchase cabbage eagle hobby";
+var mnemonic = "add jewel surprise era rely frozen category benefit bitter swamp today isolate";

@@ -1,1 +1,1 @@
-var mnemonic = "predict engage solve music vibrant grid example demand raven logic galaxy carbon";
+var mnemonic = "rookie evolve group grid edit dawn custom sense amazing pass creek label";

@@ -1,1 +1,1 @@
-var mnemonic = "accident afraid upper often relief purity pigeon forest lucky spray position tortoise";
+var mnemonic = "sound hungry rain demise lizard puppy finger humble sport adult exchange sorry";

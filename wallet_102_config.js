@@ -1,1 +1,1 @@
-var mnemonic = "winter custom excite card inject project notable hope wrong item nurse more";
+var mnemonic = "broccoli jacket brown brand stairs dad yard push found chase quiz poverty";

@@ -1,1 +1,1 @@
-var mnemonic = "grass off vacuum index weird roast rule child quarter toilet toss skull";
+var mnemonic = "effort arrange clutch rally spider meat hurry jelly orient song lava imitate";

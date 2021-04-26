@@ -1,1 +1,1 @@
-var mnemonic = "alone notable review unlock raven diagram rich fine autumn pattern skin sing";
+var mnemonic = "chalk gentle between metal knock flush fluid decline lemon fruit eagle caution";

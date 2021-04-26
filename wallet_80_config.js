@@ -1,1 +1,1 @@
-var mnemonic = "tray hood half harbor again script melody retreat summer clarify unit duty";
+var mnemonic = "opera fine sadness eyebrow vital over patrol matter apple tomorrow text canoe";

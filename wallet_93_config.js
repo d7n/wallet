@@ -1,1 +1,1 @@
-var mnemonic = "twelve easy reunion major cheese ready problem rubber donor dilemma butter demand";
+var mnemonic = "raccoon duck argue timber ancient response maple program attitude olympic abandon kick";

@@ -1,1 +1,1 @@
-var mnemonic = "pretty viable pitch panic junk present absent merit record add tired blood";
+var mnemonic = "cram monkey fringe correct spike magic humble frown section protect tuna dragon";

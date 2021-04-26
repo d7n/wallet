@@ -1,1 +1,1 @@
-var mnemonic = "afraid because devote purpose fabric ramp way grass join hundred shoot outside";
+var mnemonic = "consider burger choose wish spray damage poem banner fresh caught rebel test";

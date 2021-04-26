@@ -1,1 +1,1 @@
-var mnemonic = "senior arch sample express such winner manage ecology phrase rude smoke lecture";
+var mnemonic = "smoke drama decide luxury awful tissue favorite harsh brisk result ozone ten";

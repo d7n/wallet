@@ -1,1 +1,1 @@
-var mnemonic = "brisk vote retreat chat stereo dutch bulk lizard daughter climb occur usage";
+var mnemonic = "route give orient barely kiss aware perfect virus furnace submit cannon ghost";

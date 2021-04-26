@@ -1,1 +1,1 @@
-var mnemonic = "about exhibit flush blossom utility above raw tornado option quick cluster tuition";
+var mnemonic = "floor point auto eye stove dynamic unit extra impose they sell mutual";

@@ -1,1 +1,1 @@
-var mnemonic = "left humor cattle stay track glove nominee fabric goat patrol garment fuel";
+var mnemonic = "play truck close scrap maple merit insect answer person street liquid alone";

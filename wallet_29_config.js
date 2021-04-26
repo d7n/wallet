@@ -1,1 +1,1 @@
-var mnemonic = "paper afraid enact tuna barrel exhaust inspire sail casino admit step address";
+var mnemonic = "punch image tower across actor twist easy cube flavor senior table onion";

@@ -1,1 +1,1 @@
-var mnemonic = "satisfy view ordinary wage amateur whale special express bone nominee claw chat";
+var mnemonic = "decide echo rose satisfy love surge mechanic olympic view adjust artefact tunnel";

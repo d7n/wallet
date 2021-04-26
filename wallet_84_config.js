@@ -1,1 +1,1 @@
-var mnemonic = "size depart goat foil surface awful muscle chunk solution abandon cattle focus";
+var mnemonic = "remind addict payment stereo tennis drip engine canyon bronze grab frequent jaguar";

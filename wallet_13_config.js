@@ -1,1 +1,1 @@
-var mnemonic = "enlist ghost that behind glance crumble dove alpha category gravity ridge expire";
+var mnemonic = "bag daring save similar notable chat tonight inner season rather power join";

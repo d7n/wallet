@@ -1,1 +1,1 @@
-var mnemonic = "boil endless this spend six grow pipe upset window bright elephant loan";
+var mnemonic = "quick grab gospel payment fold boss still brisk require pudding pistol game";

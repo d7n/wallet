@@ -1,1 +1,1 @@
-var mnemonic = "tunnel prevent boost height poverty canoe dinosaur letter satisfy trip toy expect";
+var mnemonic = "rival agree become dawn depart today chef opinion never salon romance way";

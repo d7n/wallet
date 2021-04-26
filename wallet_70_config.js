@@ -1,1 +1,1 @@
-var mnemonic = "avocado vicious horn board slam oval corn enrich trade mass tired derive";
+var mnemonic = "heart worry enjoy fox era pear another craft pigeon lens west deal";

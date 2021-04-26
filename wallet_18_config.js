@@ -1,1 +1,1 @@
-var mnemonic = "gossip dish fortune fetch minor cattle message music dilemma canvas over else";
+var mnemonic = "slot inhale process absurd remember bus wide leg december any tip angle";

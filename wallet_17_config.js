@@ -1,1 +1,1 @@
-var mnemonic = "record genre host hotel beef oval remain evoke rhythm joke refuse oven";
+var mnemonic = "valid crowd buzz fantasy load pluck gun leopard cotton hospital vendor prize";

@@ -1,1 +1,1 @@
-var mnemonic = "moral motion wrap review doctor apart thing myself loop green wink wedding";
+var mnemonic = "slender mandate mandate bundle dirt obscure eagle economy write tongue dwarf picnic";

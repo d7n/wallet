@@ -1,1 +1,1 @@
-var mnemonic = "drip credit surprise category virus venue okay thank forest already badge animal";
+var mnemonic = "object clog link amazing smooth because sibling grace island squirrel minimum swing";

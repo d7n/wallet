@@ -1,1 +1,1 @@
-var mnemonic = "occur edit donate cruel judge devote outer clown layer observe material trash";
+var mnemonic = "coach dinner glide style garden offer sure work whale stove stairs describe";

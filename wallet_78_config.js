@@ -1,1 +1,1 @@
-var mnemonic = "ridge where basket cruise hunt message fault estate arrest tonight among ritual";
+var mnemonic = "trap heavy arch genius cause wise donkey sign city super transfer young";

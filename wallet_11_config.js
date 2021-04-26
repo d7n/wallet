@@ -1,1 +1,1 @@
-var mnemonic = "cheese very beyond old salon remove holiday mobile below race notable grit";
+var mnemonic = "visual fever skull guilt organ obscure process escape gather tree myself sheriff";

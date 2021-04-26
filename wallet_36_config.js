@@ -1,1 +1,1 @@
-var mnemonic = "donkey interest collect bitter law put tape rely because custom cupboard ship";
+var mnemonic = "august exile ecology cable popular hole pole own trumpet together useful jungle";

@@ -1,1 +1,1 @@
-var mnemonic = "grunt soon mesh slow tomorrow valve little okay drum worth glare join";
+var mnemonic = "lift high crush ghost elevator motion food portion public matter slot interest";

@@ -1,1 +1,1 @@
-var mnemonic = "awkward bleak enjoy gold doll zebra vivid situate vacant excess gift accident";
+var mnemonic = "hospital permit empower tattoo creek switch market upper cause agent game nose";

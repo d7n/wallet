@@ -1,1 +1,1 @@
-var mnemonic = "east blade target snap funny school asset dust field frost scrub cram";
+var mnemonic = "tennis imitate chat jungle fall lyrics copy pulp dentist shrimp such jelly";

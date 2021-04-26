@@ -1,1 +1,1 @@
-var mnemonic = "grief boy size claw wage famous inside excess coffee region artwork wild";
+var mnemonic = "enact sketch student acquire despair leg ill park doll crisp crawl equal";

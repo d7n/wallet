@@ -1,1 +1,1 @@
-var mnemonic = "era caught idle chat close flat isolate tree solution head tortoise crucial";
+var mnemonic = "real monkey naive liquid response voyage champion vital clown vintage dad kid";

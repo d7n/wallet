@@ -1,1 +1,1 @@
-var mnemonic = "setup dismiss miss original enjoy grain endorse defense draft tilt fame fox";
+var mnemonic = "craft absorb merit salon fun success disease buddy foil gallery grab jar";

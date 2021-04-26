@@ -1,1 +1,1 @@
-var mnemonic = "wonder ripple child man grain chef alien fossil logic shallow fatigue good";
+var mnemonic = "renew receive apple hello popular ribbon swear reason write helmet toast exchange";

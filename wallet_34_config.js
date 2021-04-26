@@ -1,1 +1,1 @@
-var mnemonic = "improve clip fat ice design another fox crouch recycle wire toddler main";
+var mnemonic = "pudding torch shock speed swap erosion chunk swim punch negative knock elder";

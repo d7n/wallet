@@ -1,1 +1,1 @@
-var mnemonic = "exchange shuffle reveal bean shield pole chat swallow balcony drum always tail";
+var mnemonic = "crawl decorate electric shadow step regular flash host kiss layer horror soda";

@@ -1,1 +1,1 @@
-var mnemonic = "space valley hamster embrace inside later only tunnel extend degree enact road";
+var mnemonic = "cook ancient fuel liberty educate web unfair blame strike hint connect front";

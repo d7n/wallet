@@ -1,1 +1,1 @@
-var mnemonic = "want dash episode merge table minimum fringe idea organ ranch reject second";
+var mnemonic = "whip devote any spot motion teach pride fancy hole swap today nasty";

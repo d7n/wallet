@@ -1,1 +1,1 @@
-var mnemonic = "boring order leave humble rubber youth short mask omit rebuild topic legend";
+var mnemonic = "scheme belt behind rotate nuclear fuel describe rack bullet scorpion small senior";

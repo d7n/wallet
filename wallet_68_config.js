@@ -1,1 +1,1 @@
-var mnemonic = "palace nature claim staff lady bike orbit slim bless dream correct alien";
+var mnemonic = "abuse stick load perfect elbow veteran gown artefact pig main oblige mixture";

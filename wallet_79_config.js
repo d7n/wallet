@@ -1,1 +1,1 @@
-var mnemonic = "curtain clutch fever shine polar conduct clever have neither mixed catalog pitch";
+var mnemonic = "inch forward unable fancy cable world embody lizard sorry text guard slice";

@@ -1,1 +1,1 @@
-var mnemonic = "chase relax either venue rice civil tide boost require common fantasy egg";
+var mnemonic = "blind wink remove master card into glimpse stable cost virus clinic essence";

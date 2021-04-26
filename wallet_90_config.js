@@ -1,1 +1,1 @@
-var mnemonic = "betray fever grow cube card uniform tone math fresh amount profit usual";
+var mnemonic = "razor kidney balance access fan fashion text empty unusual other ethics dress";

@@ -1,1 +1,1 @@
-var mnemonic = "waste tube comfort prison laptop dress trap warfare depend major census coach";
+var mnemonic = "talent action refuse swamp scout soda celery history behind found girl job";

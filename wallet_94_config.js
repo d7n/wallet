@@ -1,1 +1,1 @@
-var mnemonic = "amateur drift envelope correct broom office route very inform weather connect obtain";
+var mnemonic = "hamster spring now stamp empower bike sketch mixed food casino coin someone";

@@ -1,1 +1,1 @@
-var mnemonic = "document raccoon notable will foster harbor example alarm recipe salon estate company";
+var mnemonic = "panel lottery wreck spray job item crash grape sauce vital puppy cruise";

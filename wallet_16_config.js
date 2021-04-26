@@ -1,1 +1,1 @@
-var mnemonic = "sunset empower priority enough call kangaroo inhale couple whale choose reunion razor";
+var mnemonic = "access fault good second virtual sample sudden chimney drift decrease myself manual";

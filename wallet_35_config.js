@@ -1,1 +1,1 @@
-var mnemonic = "pet teach gallery harsh excuse amount neither empower museum hour dance install";
+var mnemonic = "exhaust rebel swim outer glue ladder section menu rely alarm rabbit tip";

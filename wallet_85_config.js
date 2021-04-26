@@ -1,1 +1,1 @@
-var mnemonic = "erosion grain purse kangaroo gossip problem essence thank giant wear wave nasty";
+var mnemonic = "marriage toss wish zoo fever matrix hospital loud witness panther zero deny";

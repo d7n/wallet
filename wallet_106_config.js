@@ -1,1 +1,1 @@
-var mnemonic = "increase alley chest travel air dinner square quality boost stick raise pause";
+var mnemonic = "gaze claw manage upgrade umbrella sail sleep minimum catalog quarter spike dismiss";

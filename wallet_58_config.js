@@ -1,1 +1,1 @@
-var mnemonic = "veteran wasp man capital clump pelican obscure garbage joke legal surround absorb";
+var mnemonic = "lecture make adapt mouse mixed author concert drastic hat armed still assist";

@@ -1,1 +1,1 @@
-var mnemonic = "seminar sing among lizard trade deny worth husband wire relax tower remain";
+var mnemonic = "invite scene jewel dilemma benefit tiny grid rule possible knock comfort east";

@@ -1,1 +1,1 @@
-var mnemonic = "husband frost tone ritual glimpse nose heavy lyrics section horror siren thought";
+var mnemonic = "robust sad current grape cabbage cage lonely reveal cliff viable leisure awkward";
