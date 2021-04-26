@@ -1,1 +1,1 @@
-var mnemonic = "essay govern angle old market blush outside chalk invite release theory lonely";
+var mnemonic = "swim outer boost wink school lend clarify hedgehog carbon waste plate barrel";

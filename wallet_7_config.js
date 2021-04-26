@@ -1,1 +1,1 @@
-var mnemonic = "two add half share chicken clutch egg gallery weather auction tired seed";
+var mnemonic = "consider airport grain arrive ten cup address swap upgrade brass home shadow";

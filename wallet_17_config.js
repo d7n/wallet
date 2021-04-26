@@ -1,1 +1,1 @@
-var mnemonic = "sword stage paddle this refuse half head evoke tackle craft parade pottery";
+var mnemonic = "angry never genius project barrel gospel omit salute enhance lizard right advice";

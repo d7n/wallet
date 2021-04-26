@@ -1,1 +1,1 @@
-var mnemonic = "drum option oppose atom approve exercise march march casual replace decorate old";
+var mnemonic = "door oil flash lonely baby stick team renew acquire receive play fossil";

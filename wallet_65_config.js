@@ -1,1 +1,1 @@
-var mnemonic = "aspect acid notice column spin defy vote dinner cherry cliff boost process";
+var mnemonic = "rib swap pattern place train blood mesh major drill logic change decline";

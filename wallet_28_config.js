@@ -1,1 +1,1 @@
-var mnemonic = "patch sorry grace steak disorder arrive control robust wrong mushroom rapid water";
+var mnemonic = "online gain category human inject ugly scare sketch fork embark start clutch";

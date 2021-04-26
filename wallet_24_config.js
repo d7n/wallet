@@ -1,1 +1,1 @@
-var mnemonic = "chief top small degree amount stock exact voyage sad catch song obscure";
+var mnemonic = "frost glory pen off sound submit call uncle orphan tongue cheese cart";

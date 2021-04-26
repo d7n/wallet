@@ -1,1 +1,1 @@
-var mnemonic = "pulse tonight afraid rebuild dish one crane wild boss bird live disagree";
+var mnemonic = "illness laptop ahead vapor sentence title floor tube scan swear canal erupt";

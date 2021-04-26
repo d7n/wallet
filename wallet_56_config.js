@@ -1,1 +1,1 @@
-var mnemonic = "song equal milk model click deal share near peasant wink system october";
+var mnemonic = "tank column humor economy october melody opera ethics accident library script choice";

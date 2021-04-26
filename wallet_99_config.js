@@ -1,1 +1,1 @@
-var mnemonic = "orbit fee magic mother garbage oval roof tube isolate usage chair spin";
+var mnemonic = "book civil keep absurd emerge involve flavor skate next elevator differ hood";

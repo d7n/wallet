@@ -1,1 +1,1 @@
-var mnemonic = "dolphin dial test once fault run banana fragile symptom twenty egg sauce";
+var mnemonic = "seven shallow party genuine annual hybrid parent cook assault joy unaware receive";

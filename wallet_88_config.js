@@ -1,1 +1,1 @@
-var mnemonic = "husband grunt spice tower noble skull north camp inch attack scout erode";
+var mnemonic = "gentle limit curve flush cattle three genre aware cattle crater marine only";

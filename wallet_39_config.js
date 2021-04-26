@@ -1,1 +1,1 @@
-var mnemonic = "rabbit enough muscle episode indoor trophy owner install scare attack wink cradle";
+var mnemonic = "tired sweet pudding achieve gasp strike pledge sniff eager script seven other";

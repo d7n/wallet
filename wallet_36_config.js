@@ -1,1 +1,1 @@
-var mnemonic = "tilt tank purse accident detail cabin ready alarm guilt honey average equal";
+var mnemonic = "brisk afraid weather suffer keen degree happy length outer warfare antenna era";

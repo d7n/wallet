@@ -1,1 +1,1 @@
-var mnemonic = "hurdle decorate noble engine tent strong toss cannon cupboard marine drill still";
+var mnemonic = "game foil six find regret erode entire tide dove oven private peasant";

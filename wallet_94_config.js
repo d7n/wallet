@@ -1,1 +1,1 @@
-var mnemonic = "cushion banner such south rough humble style abandon hamster genre sing simple";
+var mnemonic = "north person village fiscal oak parent sentence symbol machine duck tray decorate";

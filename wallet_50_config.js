@@ -1,1 +1,1 @@
-var mnemonic = "tackle swamp gaze balcony fire person animal tuna give debris betray deputy";
+var mnemonic = "plug egg helmet tip valley general access affair major use employ exist";

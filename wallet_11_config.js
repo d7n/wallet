@@ -1,1 +1,1 @@
-var mnemonic = "fabric vibrant tilt jeans glance arrange pluck kid weather hurdle truck dinosaur";
+var mnemonic = "one waste hill addict measure decorate bachelor finish knee solid embody gorilla";

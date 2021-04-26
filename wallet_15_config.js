@@ -1,1 +1,1 @@
-var mnemonic = "three permit lesson fortune magnet device recipe possible loyal any cable two";
+var mnemonic = "december lunch cloud where couch daughter fix turn neither birth balance move";

@@ -1,1 +1,1 @@
-var mnemonic = "rude silver correct tell gun embrace decrease supply exact enhance cliff august";
+var mnemonic = "salmon poet comic bundle chaos there crash voice shrug crater mule law";

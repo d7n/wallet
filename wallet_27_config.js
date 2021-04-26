@@ -1,1 +1,1 @@
-var mnemonic = "return unusual lounge picture job suffer before word athlete turkey remain gravity";
+var mnemonic = "chase nothing zone supreme supreme motor ladder south velvet unable cover ensure";

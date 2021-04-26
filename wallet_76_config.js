@@ -1,1 +1,1 @@
-var mnemonic = "joke stereo dilemma until number diary scene bar moon muscle rack property";
+var mnemonic = "play item list hour equip squirrel merry sail agent adult cousin grab";

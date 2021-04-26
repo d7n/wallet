@@ -1,1 +1,1 @@
-var mnemonic = "labor cotton curtain elevator humor jaguar elite awkward display pudding reduce easily";
+var mnemonic = "audit orchard romance flee online noodle concert toward rate slender wisdom onion";

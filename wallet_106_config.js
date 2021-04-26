@@ -1,1 +1,1 @@
-var mnemonic = "vocal target chief blush print kite hood satisfy elder dismiss check area";
+var mnemonic = "pig liar kitchen scrap extra clay maximum jazz report seat ramp dust";

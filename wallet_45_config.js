@@ -1,1 +1,1 @@
-var mnemonic = "zero strategy swing relax patch hotel neglect lamp already ticket fragile clean";
+var mnemonic = "liquid foster across strong zero human tag chicken tank fall aerobic olympic";

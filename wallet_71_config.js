@@ -1,1 +1,1 @@
-var mnemonic = "execute coyote cement cargo tent insect square truly same negative message feel";
+var mnemonic = "smile change flush control alert joke deer vast lemon arctic slush genuine";

@@ -1,1 +1,1 @@
-var mnemonic = "stomach dial hair dragon basket fault leg soon organ slot clutch manage";
+var mnemonic = "material turn discover company flip amount raccoon choice heavy spell express gesture";

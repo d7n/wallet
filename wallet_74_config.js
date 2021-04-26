@@ -1,1 +1,1 @@
-var mnemonic = "ability cat level anger creek absorb salad favorite virtual royal ski mountain";
+var mnemonic = "usual asthma dash vintage inch tragic also winner chronic wild fade bean";

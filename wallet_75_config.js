@@ -1,1 +1,1 @@
-var mnemonic = "hundred oven awkward firm card police shoulder vanish play rule congress away";
+var mnemonic = "improve very click satoshi program where swallow clump artist erosion near robot";

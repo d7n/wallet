@@ -1,1 +1,1 @@
-var mnemonic = "similar open false dwarf scout armed matter better cross sentence myself order";
+var mnemonic = "virus ginger fall ritual suit source win basic custom scare brain vital";

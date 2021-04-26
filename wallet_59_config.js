@@ -1,1 +1,1 @@
-var mnemonic = "float yard year satisfy ring output creek crouch reform timber okay detail";
+var mnemonic = "laugh cost man one aisle first joke chapter intact spy crane nephew";

@@ -1,1 +1,1 @@
-var mnemonic = "theme wall spawn cart divert tooth pudding inch soda raw seminar steak";
+var mnemonic = "sibling naive license off spread radar corn chunk lucky farm chat focus";

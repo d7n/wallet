@@ -1,1 +1,1 @@
-var mnemonic = "fetch duty clown female steak frame toward tonight company cattle general west";
+var mnemonic = "candy steel jaguar animal sick initial tray galaxy invite distance fitness initial";

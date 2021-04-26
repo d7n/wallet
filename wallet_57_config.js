@@ -1,1 +1,1 @@
-var mnemonic = "want reopen once panda pulp report other drink merit thought build reunion";
+var mnemonic = "jacket cake welcome agent become spatial lizard custom random boy green robot";

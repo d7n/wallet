@@ -1,1 +1,1 @@
-var mnemonic = "bid duty rhythm survey inspire cycle pill save true cash oxygen where";
+var mnemonic = "garlic crystal exchange play rocket walnut congress file pretty athlete shove globe";

@@ -1,1 +1,1 @@
-var mnemonic = "torch letter corn double neck wine various mad eternal entire mention frequent";
+var mnemonic = "damage control seven visa girl merry sand raise message cover cheese speed";

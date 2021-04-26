@@ -1,1 +1,1 @@
-var mnemonic = "scale long alpha spell sunset tobacco blue slot rotate cave object joke";
+var mnemonic = "position field empower bomb drop mixed olive fly entire casual screen victory";

@@ -1,1 +1,1 @@
-var mnemonic = "stomach suit innocent series long exhibit crush more pond bless noodle topic";
+var mnemonic = "fee sing speak movie awesome field state regular satoshi critic mask language";

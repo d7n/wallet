@@ -1,1 +1,1 @@
-var mnemonic = "beach steak know riot age flavor tunnel enter bring process quit mixture";
+var mnemonic = "sad picture polar flash season panel deny cousin crime caution biology caught";

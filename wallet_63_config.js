@@ -1,1 +1,1 @@
-var mnemonic = "two tobacco assume diet custom radio elephant purity cloud flee labor stuff";
+var mnemonic = "neck output one shoot scrub ranch jungle pony burst spatial enjoy public";

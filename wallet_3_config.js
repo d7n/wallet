@@ -1,1 +1,1 @@
-var mnemonic = "grunt upset capital box middle coffee gorilla another struggle language goose brave";
+var mnemonic = "ship empower option rug nice badge upgrade enforce include blue harvest benefit";

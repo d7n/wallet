@@ -1,1 +1,1 @@
-var mnemonic = "profit twelve wrong detect outside apology jacket dynamic horse keep brief cement";
+var mnemonic = "action oil news supply obey force alert payment toast lab note car";

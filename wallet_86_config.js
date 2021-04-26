@@ -1,1 +1,1 @@
-var mnemonic = "smoke donor depend prison purchase antique enter turtle urge slogan damage soon";
+var mnemonic = "armed maid senior video treat under thumb great glide chapter people alley";

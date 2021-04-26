@@ -1,1 +1,1 @@
-var mnemonic = "market share river frozen oil prison recall eye viable hill armor system";
+var mnemonic = "divert grow crumble squirrel enough visual lottery eye reason road fix universe";

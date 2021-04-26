@@ -1,1 +1,1 @@
-var mnemonic = "chef viable wreck picnic huge token vehicle suffer door scissors burger cancel";
+var mnemonic = "paddle clog month wait concert horror digital cook danger allow pizza surprise";

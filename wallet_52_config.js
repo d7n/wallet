@@ -1,1 +1,1 @@
-var mnemonic = "vague tumble smile card donor party develop follow embrace scrub boil habit";
+var mnemonic = "coffee glare skirt train media snack pitch funny layer fetch detect next";

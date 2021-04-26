@@ -1,1 +1,1 @@
-var mnemonic = "donate giraffe hamster polar insect offer wreck fortune table lift finger negative";
+var mnemonic = "box soon assist attract appear hotel flush figure oven riot ring prepare";

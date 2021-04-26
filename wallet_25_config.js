@@ -1,1 +1,1 @@
-var mnemonic = "flat put sibling share strike dial embody army damp armor clip couple";
+var mnemonic = "olive fit topic father close crater garbage resource icon alter blossom express";

@@ -1,1 +1,1 @@
-var mnemonic = "slice force bridge skin cat brain nasty brass vehicle deposit priority volume";
+var mnemonic = "wheat desk useful youth maid bench celery must flight dentist anger shaft";

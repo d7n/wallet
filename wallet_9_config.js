@@ -1,1 +1,1 @@
-var mnemonic = "army news option wonder choose raccoon donor dwarf push gospel dwarf plunge";
+var mnemonic = "bike learn olympic enrich emerge indicate grid health eager grape drive angry";

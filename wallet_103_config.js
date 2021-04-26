@@ -1,1 +1,1 @@
-var mnemonic = "oppose virus horse risk upset scout word ancient valley there trick enlist";
+var mnemonic = "number bonus curious vocal glide mix august allow jeans amazing clinic fitness";

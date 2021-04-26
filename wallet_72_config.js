@@ -1,1 +1,1 @@
-var mnemonic = "polar alert live raise open brief teach style wet frequent tent cable";
+var mnemonic = "evil senior divorce merry various network crunch bitter venue air ghost auto";

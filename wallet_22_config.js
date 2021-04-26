@@ -1,1 +1,1 @@
-var mnemonic = "actual search outer dolphin legal cherry bird cup public success eagle work";
+var mnemonic = "desk split receive salon suspect hockey grain sell vicious photo fox bench";

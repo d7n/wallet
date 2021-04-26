@@ -1,1 +1,1 @@
-var mnemonic = "nurse cancel culture define lesson change begin treat fine void cinnamon rabbit";
+var mnemonic = "depart enjoy rotate rich artefact trust hello asthma nose kitchen century bamboo";

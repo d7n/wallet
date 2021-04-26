@@ -1,1 +1,1 @@
-var mnemonic = "candy average wrong click rhythm armor again concert allow gadget slice cake";
+var mnemonic = "hen box acoustic ladder punch hawk dose animal fringe distance sound monitor";

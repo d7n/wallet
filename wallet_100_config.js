@@ -1,1 +1,1 @@
-var mnemonic = "coast column common bag cat robot ride symbol witness forward myth shy";
+var mnemonic = "rapid canvas heavy honey wild silent glimpse fragile panic enough guess inspire";

@@ -1,1 +1,1 @@
-var mnemonic = "prison embody tent check argue virus forum seed wrong flush cycle divert";
+var mnemonic = "price uncover actress behave hello body riot web fury act oppose shiver";

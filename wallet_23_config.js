@@ -1,1 +1,1 @@
-var mnemonic = "pulp common fit tiny offer bunker purpose pepper stomach resist hobby auto";
+var mnemonic = "risk modify snake horn climb latin raccoon ordinary panel aerobic cart price";

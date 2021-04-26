@@ -1,1 +1,1 @@
-var mnemonic = "garment churn error explain only bunker stool teach normal attack couch auto";
+var mnemonic = "exit quarter note top learn pride wedding man welcome deer visa rose";

@@ -1,1 +1,1 @@
-var mnemonic = "oak hair clock bind kiss another river aerobic soft explain often blossom";
+var mnemonic = "plunge buyer act best rule fix another mandate slender fever october guess";

@@ -1,1 +1,1 @@
-var mnemonic = "prepare echo pulse sponsor save panic notable lounge thrive hair doctor boil";
+var mnemonic = "shed gloom beach inherit crowd surge scheme section inhale oblige gown logic";

@@ -1,1 +1,1 @@
-var mnemonic = "series across suspect castle enforce floor voice baby layer chase friend tag";
+var mnemonic = "nut claim other parrot busy believe panda tooth flash eager vacant benefit";

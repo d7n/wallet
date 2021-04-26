@@ -1,1 +1,1 @@
-var mnemonic = "fox opinion taste holiday year angle fit banana marine gentle depth siren";
+var mnemonic = "warfare leisure decide present fiscal diamond settle addict feed decide assault catalog";

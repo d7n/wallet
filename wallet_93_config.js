@@ -1,1 +1,1 @@
-var mnemonic = "climb eternal rigid vault tongue onion odor hard era swap where portion";
+var mnemonic = "arm run hill spatial link pink trash prevent impose pupil delay yellow";

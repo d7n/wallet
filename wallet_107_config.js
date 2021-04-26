@@ -1,1 +1,1 @@
-var mnemonic = "around grow cart jelly canyon sign happy honey under knife pistol sell";
+var mnemonic = "crystal quit void gaze bus embody vivid august carry embody angry impact";

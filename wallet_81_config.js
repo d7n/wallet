@@ -1,1 +1,1 @@
-var mnemonic = "sick buddy setup maple blame pelican speed include twelve minute crouch fun";
+var mnemonic = "unfair cost link crystal kick size crowd forum response harsh oven admit";

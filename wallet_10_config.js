@@ -1,1 +1,1 @@
-var mnemonic = "stomach tone auction mirror dice nerve choose credit noodle slam better fog";
+var mnemonic = "hello width unusual already solve crater chief midnight fluid blossom sample shuffle";

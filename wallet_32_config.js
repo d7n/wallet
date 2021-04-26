@@ -1,1 +1,1 @@
-var mnemonic = "adapt shuffle same sound uncover icon artwork ghost cook valley issue kind";
+var mnemonic = "road educate goddess trust citizen aisle merry decline indoor utility tooth edge";

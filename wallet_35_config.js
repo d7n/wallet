@@ -1,1 +1,1 @@
-var mnemonic = "family paddle key light begin work brisk three smart flag actual interest";
+var mnemonic = "cross globe morning topic august girl orbit endorse segment flag faith submit";

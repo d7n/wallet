@@ -1,1 +1,1 @@
-var mnemonic = "banana primary misery analyst cave shift budget topic convince myth shell allow";
+var mnemonic = "dose oblige patient cruel swear fatal credit patrol time that small nominee";

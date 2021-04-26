@@ -1,1 +1,1 @@
-var mnemonic = "seek become science vital key tree absorb avoid vacant impact farm cat";
+var mnemonic = "kite camp regular flavor violin cry afford knock keen edit receive umbrella";

@@ -1,1 +1,1 @@
-var mnemonic = "repair face foam vibrant move already excuse cannon half bleak before glad";
+var mnemonic = "east voyage prosper security usual response certain crush outside world soda tuition";

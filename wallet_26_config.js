@@ -1,1 +1,1 @@
-var mnemonic = "pave ride meat ring candy into head moment paper skull initial can";
+var mnemonic = "invest multiply peasant demand surprise hold salute diesel invite soul flash retreat";

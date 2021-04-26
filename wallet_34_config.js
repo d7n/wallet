@@ -1,1 +1,1 @@
-var mnemonic = "often retire remind brave donkey actress engine enter raven humor gather spatial";
+var mnemonic = "another spray estate senior team expect tree method rescue today tragic auto";

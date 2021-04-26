@@ -1,1 +1,1 @@
-var mnemonic = "head surround soon boat veteran dust arch cute soda sun toy fiscal";
+var mnemonic = "fiber present primary hire soldier web cargo voyage cotton next salon fury";

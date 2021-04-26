@@ -1,1 +1,1 @@
-var mnemonic = "cabin ill castle effort project method document husband address baby valve disorder";
+var mnemonic = "galaxy pupil poverty round deposit fan violin amazing achieve predict sleep must";

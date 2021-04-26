@@ -1,1 +1,1 @@
-var mnemonic = "panda slice body vivid match text track unfair tunnel will file dinosaur";
+var mnemonic = "utility math bar orange great gap swing begin adult paddle moment where";

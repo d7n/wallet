@@ -1,1 +1,1 @@
-var mnemonic = "crazy forget muscle energy caution flock matrix fruit damage produce body inner";
+var mnemonic = "busy hill monster mammal sort goddess cannon empty gun right ripple leg";

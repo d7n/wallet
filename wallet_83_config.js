@@ -1,1 +1,1 @@
-var mnemonic = "uncover try syrup online antique danger code ripple roast immune strategy large";
+var mnemonic = "wrap domain exclude shuffle sing plunge badge snap whip nuclear short mushroom";

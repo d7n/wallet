@@ -1,1 +1,1 @@
-var mnemonic = "urge weird notice sadness bench neutral success business struggle nephew brother rude";
+var mnemonic = "say daring sketch voice trouble ocean rude slim fish brave raccoon sleep";

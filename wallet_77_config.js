@@ -1,1 +1,1 @@
-var mnemonic = "round gospel solve moon velvet guard liquid busy gravity diamond radar flame";
+var mnemonic = "luggage level slim shallow garlic payment poet novel hover disease room travel";

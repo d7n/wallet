@@ -1,1 +1,1 @@
-var mnemonic = "window banana leave chimney daughter quality mother term butter truth vibrant robust";
+var mnemonic = "author siren memory metal warrior problem oyster breeze void grief rough clock";

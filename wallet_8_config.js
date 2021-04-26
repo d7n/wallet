@@ -1,1 +1,1 @@
-var mnemonic = "minor east deposit siege tongue link matrix match lyrics educate core blind";
+var mnemonic = "twin pigeon margin muscle spend lawsuit route render nature nasty planet vendor";

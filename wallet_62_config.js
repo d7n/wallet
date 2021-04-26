@@ -1,1 +1,1 @@
-var mnemonic = "spider april stable emerge alter aerobic region upgrade fabric that proof harsh";
+var mnemonic = "dream length salute advice pass off marine piece return impose rough vast";

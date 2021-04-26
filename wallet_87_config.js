@@ -1,1 +1,1 @@
-var mnemonic = "perfect push profit capable festival armed bonus keep custom circle physical update";
+var mnemonic = "rain nation december leave weekend daring job job gap position say pluck";

@@ -1,1 +1,1 @@
-var mnemonic = "leader floor abuse taxi hire drip famous enough click digital sound mouse";
+var mnemonic = "gorilla scrap lawsuit piece tuna kite retreat crush auction exhaust radar process";
