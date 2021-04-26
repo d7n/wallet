@@ -1,1 +1,1 @@
-var mnemonic = "unfair arrest cereal biology convince egg erupt scout cherry pill isolate expand";
+var mnemonic = "ski unknown grit grass pool twin expose subway thunder clutch useless donor";

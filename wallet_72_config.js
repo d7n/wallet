@@ -1,1 +1,1 @@
-var mnemonic = "clutch toddler toilet benefit life afford donkey fitness scare similar layer fatal";
+var mnemonic = "never display bar share mom teach little planet loan asthma waste quiz";

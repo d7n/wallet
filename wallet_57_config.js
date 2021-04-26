@@ -1,1 +1,1 @@
-var mnemonic = "chimney impose woman soul seminar amateur amazing rack dune caught napkin time";
+var mnemonic = "athlete patrol junior trick flock hole topple soap skin just guitar host";

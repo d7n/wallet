@@ -1,1 +1,1 @@
-var mnemonic = "laptop hidden puzzle seed chimney hunt wedding clean return attract figure brisk";
+var mnemonic = "theory smooth social arrive practice refuse term deposit junior imitate vintage order";

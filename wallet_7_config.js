@@ -1,1 +1,1 @@
-var mnemonic = "buyer wrap second floor clinic tilt input include mammal decline void net";
+var mnemonic = "budget female open select rocket globe put royal breeze capital divorce kitchen";

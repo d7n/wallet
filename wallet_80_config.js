@@ -1,1 +1,1 @@
-var mnemonic = "march place urban legend bullet learn often twin foot spoon helmet gossip";
+var mnemonic = "odor advance rug group spy quarter law oppose edge uncover double device";

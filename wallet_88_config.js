@@ -1,1 +1,1 @@
-var mnemonic = "shiver burst loan swim fiber good curtain permit gesture copy appear ecology";
+var mnemonic = "budget popular element virus crouch grid liar tornado release tiny window ill";

@@ -1,1 +1,1 @@
-var mnemonic = "trend swing smart jewel swamp melt frequent hope ostrich object matter usual";
+var mnemonic = "dress situate bachelor man awesome clarify feel crater employ nurse opera door";

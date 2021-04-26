@@ -1,1 +1,1 @@
-var mnemonic = "fun clean addict glow glide present win orange lizard figure hollow fiscal";
+var mnemonic = "fall reform goat invite range tone innocent feel team chapter minute school";

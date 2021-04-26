@@ -1,1 +1,1 @@
-var mnemonic = "pepper blame case wrist sting lens addict bread second trim poet unique";
+var mnemonic = "knife absorb text project ozone key museum honey smooth program increase possible";

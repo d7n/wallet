@@ -1,1 +1,1 @@
-var mnemonic = "rifle flavor remember divorce empty library man crazy horse bamboo true relief";
+var mnemonic = "pause denial clever surprise february aim man steel abandon acid napkin copper";

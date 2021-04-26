@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur mom car bean ankle core canal zero already grant silly armor";
+var mnemonic = "history fiscal bike section vague economy salmon nasty hour fatigue response banana";

@@ -1,1 +1,1 @@
-var mnemonic = "term acoustic solution fabric mail pepper help company ask gloom sausage potato";
+var mnemonic = "damage style club famous similar organ sand mouse timber plunge future power";

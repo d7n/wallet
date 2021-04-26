@@ -1,1 +1,1 @@
-var mnemonic = "stumble august search test plate scheme walnut cross fury pluck busy palm";
+var mnemonic = "afford satoshi modify goddess various caught sting portion liar own primary matrix";

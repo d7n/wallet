@@ -1,1 +1,1 @@
-var mnemonic = "cloth infant rabbit cool tribe drift fantasy marriage table laptop alarm ostrich";
+var mnemonic = "discover wool patrol news unaware elder crawl run deliver ready dice distance";

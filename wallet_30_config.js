@@ -1,1 +1,1 @@
-var mnemonic = "cannon ozone drama mandate fat exist shaft axis grape unlock install enter";
+var mnemonic = "sword rally clinic cook flash good top cash account list hidden critic";

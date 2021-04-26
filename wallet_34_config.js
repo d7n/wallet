@@ -1,1 +1,1 @@
-var mnemonic = "load secret decline taxi swim join club wall toward comic hurt noodle";
+var mnemonic = "decade motion umbrella satoshi ladder rare guilt mixture valid emerge pluck shallow";

@@ -1,1 +1,1 @@
-var mnemonic = "hip fox tree subject defy green stamp actual stairs prevent monkey asthma";
+var mnemonic = "elder swamp crawl cost south acoustic unknown liquid guilt valve lonely trap";

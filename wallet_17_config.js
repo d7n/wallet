@@ -1,1 +1,1 @@
-var mnemonic = "wealth noble tunnel blood dial rule sponsor derive elephant ten leader cactus";
+var mnemonic = "zoo donkey battle cactus salon debris amateur cost early argue smoke coach";

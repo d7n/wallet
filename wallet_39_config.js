@@ -1,1 +1,1 @@
-var mnemonic = "purchase panel text electric input scatter extra ribbon say pumpkin action donate";
+var mnemonic = "enroll call garment ancient tag romance ostrich sting garage print dose club";

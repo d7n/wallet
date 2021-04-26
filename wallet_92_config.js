@@ -1,1 +1,1 @@
-var mnemonic = "fabric glad valid sure cherry mind copy token cradle fiscal anxiety used";
+var mnemonic = "salmon inside hurdle flame dismiss convince topic brain afraid craft before unit";

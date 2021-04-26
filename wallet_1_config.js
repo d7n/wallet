@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur violin senior tiny cause enlist flip milk alcohol subway length quantum";
+var mnemonic = "siege label hello cruel prevent gown flee puzzle fever color ball connect";

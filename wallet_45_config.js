@@ -1,1 +1,1 @@
-var mnemonic = "genuine clever trim foam foot van thumb reform pattern hub olive camera";
+var mnemonic = "consider cousin salad west diamond place beauty task yellow shiver mean ranch";

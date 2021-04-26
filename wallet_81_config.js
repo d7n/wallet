@@ -1,1 +1,1 @@
-var mnemonic = "accident trend inhale mirror maximum sea rabbit nasty picnic school interest exact";
+var mnemonic = "swim near puzzle dove coconut acquire nominee resource limb leg clump bulk";

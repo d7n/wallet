@@ -1,1 +1,1 @@
-var mnemonic = "laptop dad amazing auction please engine average cushion jaguar clog math loop";
+var mnemonic = "shrug betray connect cause verify dutch brush anchor rebuild dance gentle crime";

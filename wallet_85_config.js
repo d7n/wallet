@@ -1,1 +1,1 @@
-var mnemonic = "maximum twenty mimic twenty test pattern harvest submit future absorb kangaroo soldier";
+var mnemonic = "web toddler clever situate two prevent select pause whale diagram volcano fish";

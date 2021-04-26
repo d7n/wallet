@@ -1,1 +1,1 @@
-var mnemonic = "anxiety bacon liar gas vote boy empty test fitness body confirm post";
+var mnemonic = "gain pulse glare can olympic present citizen engage fan you differ enlist";

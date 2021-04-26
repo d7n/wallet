@@ -1,1 +1,1 @@
-var mnemonic = "dress pattern cart proud begin keep right keep shallow soap craft crumble";
+var mnemonic = "knock victory bronze turtle seed water notice guilt galaxy subway clean shift";

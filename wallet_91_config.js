@@ -1,1 +1,1 @@
-var mnemonic = "artwork awake fatigue ice midnight absent quote east vast anxiety typical fresh";
+var mnemonic = "identify accuse soccer asset wheat able define elegant impact light potato faith";

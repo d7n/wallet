@@ -1,1 +1,1 @@
-var mnemonic = "buzz blush skirt upgrade another aerobic vital update puppy maximum toss pyramid";
+var mnemonic = "bench quick alcohol exist swamp matrix famous lonely cycle noodle shine volume";

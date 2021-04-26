@@ -1,1 +1,1 @@
-var mnemonic = "leader latin series decade broom toilet renew eager fatal nice sure brief";
+var mnemonic = "sun miss garden bomb vocal thought lawn airport dune corn glory crowd";

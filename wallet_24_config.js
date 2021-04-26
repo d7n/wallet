@@ -1,1 +1,1 @@
-var mnemonic = "sadness universe tortoise wink disorder release furnace field shiver verb velvet shop";
+var mnemonic = "feed antenna pair camp uphold pulp more century silk clever peace benefit";

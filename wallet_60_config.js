@@ -1,1 +1,1 @@
-var mnemonic = "speed tube main woman poet symbol food enroll repair wasp below picnic";
+var mnemonic = "betray invite lunar afford mobile nerve planet lens chapter physical pencil asthma";

@@ -1,1 +1,1 @@
-var mnemonic = "foil range depart cloud comfort need wrist century exercise abstract hundred educate";
+var mnemonic = "fragile neglect brave biology crunch evil erupt often filter wall print explain";

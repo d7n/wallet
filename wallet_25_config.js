@@ -1,1 +1,1 @@
-var mnemonic = "border report naive empower artwork timber current aim wrap depth embrace dice";
+var mnemonic = "amount stamp key start test fog actual april spice thing desert firm";

@@ -1,1 +1,1 @@
-var mnemonic = "viable tomato amused key bullet episode emerge warfare always destroy strategy raccoon";
+var mnemonic = "knock syrup follow across mountain illegal liberty beach absorb remove excess spoil";

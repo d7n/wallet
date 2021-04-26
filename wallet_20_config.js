@@ -1,1 +1,1 @@
-var mnemonic = "social someone filter clutch window phrase zero ramp sick woman mechanic hover";
+var mnemonic = "grape symptom upgrade shallow coral nuclear gather discover top erase obscure grow";

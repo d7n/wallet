@@ -1,1 +1,1 @@
-var mnemonic = "toddler since mirror double fashion keen coral modify grant lens volcano resource";
+var mnemonic = "logic uniform black rich bar believe design crisp hunt result damage into";

@@ -1,1 +1,1 @@
-var mnemonic = "food galaxy orphan damp ecology release nerve tiny call lens regret blade";
+var mnemonic = "lounge whip coach draw purchase level much network deposit own choose wonder";

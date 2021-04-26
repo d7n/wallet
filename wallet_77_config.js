@@ -1,1 +1,1 @@
-var mnemonic = "novel library mass pet forget scan rough immune river exercise bitter snap";
+var mnemonic = "mammal until pyramid inherit supply fantasy knee jeans patrol kite jelly over";

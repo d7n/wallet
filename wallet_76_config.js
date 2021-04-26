@@ -1,1 +1,1 @@
-var mnemonic = "theme galaxy cross oil segment wrap best east wrestle sorry trip portion";
+var mnemonic = "situate demand forest doll crowd talk wear toss kiss visit palm attract";

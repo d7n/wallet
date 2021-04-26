@@ -1,1 +1,1 @@
-var mnemonic = "quantum hold sentence beyond slab bird poverty trial pole bus famous birth";
+var mnemonic = "behind host guide breeze purchase burst bonus normal camera month attack stool";

@@ -1,1 +1,1 @@
-var mnemonic = "nothing protect liquid trumpet dinosaur loan language mystery wink thank outer panther";
+var mnemonic = "lottery daring forward excite fit defense valley alone version assume cause search";

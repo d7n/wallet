@@ -1,1 +1,1 @@
-var mnemonic = "novel deal age photo special unable theory coffee suit discover give frame";
+var mnemonic = "creek unique police tell seminar skin clip prison asset morning student route";

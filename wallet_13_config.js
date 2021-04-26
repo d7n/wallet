@@ -1,1 +1,1 @@
-var mnemonic = "thunder quote absent bar quote have catalog drill skull dream mix trim";
+var mnemonic = "label sail asthma friend coil wolf record define motion city demise actor";

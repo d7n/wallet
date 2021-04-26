@@ -1,1 +1,1 @@
-var mnemonic = "blame grow drift health case repair autumn account this chicken work vessel";
+var mnemonic = "about expire wash ice pear stem bean health theme couple spell insane";

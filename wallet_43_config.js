@@ -1,1 +1,1 @@
-var mnemonic = "image load village style kite cliff retreat hurdle frozen truly crawl old";
+var mnemonic = "sauce disorder rice sugar move rotate mandate diamond life enlist good wheat";

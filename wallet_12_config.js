@@ -1,1 +1,1 @@
-var mnemonic = "humble wine squirrel donkey jeans tag brain peasant grace first marine length";
+var mnemonic = "muscle wing attitude sing word suit hire behave salon polar warfare motor";

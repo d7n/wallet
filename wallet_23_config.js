@@ -1,1 +1,1 @@
-var mnemonic = "risk lion pelican debate harvest there body drive crumble lake curtain identify";
+var mnemonic = "clock like umbrella vicious beauty juice poverty school mesh whale auto strategy";

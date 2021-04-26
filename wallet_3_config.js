@@ -1,1 +1,1 @@
-var mnemonic = "person produce topic detect enforce derive satoshi health tooth screen rhythm license";
+var mnemonic = "finish depart pipe diamond ramp bulb loyal quote scheme weasel puppy right";

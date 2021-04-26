@@ -1,1 +1,1 @@
-var mnemonic = "tent reflect van seat ski breeze heart priority correct behind sick fringe";
+var mnemonic = "anchor plastic aim type mirror flag ramp impact vague shallow hockey modify";

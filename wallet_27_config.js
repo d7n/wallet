@@ -1,1 +1,1 @@
-var mnemonic = "noble bright minor faint entry fix oyster lesson open olympic useful abstract";
+var mnemonic = "select garlic better noise sun mixed face mixed mercy thumb friend flush";

@@ -1,1 +1,1 @@
-var mnemonic = "work slight answer assault foil vibrant duty apart long goose cost wrist";
+var mnemonic = "hill easy input result relax sketch toss trim chimney shuffle inform sing";

@@ -1,1 +1,1 @@
-var mnemonic = "soda borrow property adult ship immune still open portion monitor learn equal";
+var mnemonic = "chronic tired work screen diary shield length muffin improve tone same output";

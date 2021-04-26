@@ -1,1 +1,1 @@
-var mnemonic = "seat cricket practice rapid march voyage supply fringe marble verb game hip";
+var mnemonic = "regret horror upper country skin pride lens exist uniform shrimp collect country";

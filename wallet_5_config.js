@@ -1,1 +1,1 @@
-var mnemonic = "pupil lava student lounge act retire burden obvious document body champion expire";
+var mnemonic = "ocean weapon opera girl apology actual annual begin clump burst bring ostrich";

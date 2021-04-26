@@ -1,1 +1,1 @@
-var mnemonic = "angry shoulder miracle leisure panel hurt book hurdle patch curve merit advice";
+var mnemonic = "pride best gate faculty put fade debate dance pass danger crucial clutch";

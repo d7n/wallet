@@ -1,1 +1,1 @@
-var mnemonic = "lion accuse dad carry trend loop steak advance celery twice depend feature";
+var mnemonic = "jeans aim pioneer scatter road amount find wagon holiday aerobic resemble scatter";

@@ -1,1 +1,1 @@
-var mnemonic = "subway omit access route spread decline impose reason dentist term twenty repair";
+var mnemonic = "purse swap camp ocean lounge oven rely deny wrestle smoke potato daughter";

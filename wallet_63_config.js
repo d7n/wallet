@@ -1,1 +1,1 @@
-var mnemonic = "bulb put valve diamond luggage arrange room dinosaur bonus excess garden north";
+var mnemonic = "lift boring affair cricket bright budget sport spirit smoke clarify scheme human";

@@ -1,1 +1,1 @@
-var mnemonic = "route bulk screen effort movie tragic muffin sort tortoise tree life crunch";
+var mnemonic = "differ tiny enjoy unable check entry budget renew bounce happy worth swap";

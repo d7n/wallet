@@ -1,1 +1,1 @@
-var mnemonic = "dutch jacket diesel city motor rate offer march wish turn people harvest";
+var mnemonic = "garment diesel head cotton world world seek square rather labor fancy evoke";

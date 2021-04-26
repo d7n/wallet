@@ -1,1 +1,1 @@
-var mnemonic = "will upset either boss duty misery wage random clever smile electric slide";
+var mnemonic = "cement orange predict parade tobacco emerge left goddess pool reason message visa";

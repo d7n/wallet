@@ -1,1 +1,1 @@
-var mnemonic = "village mirror horse language athlete there acoustic sense discover system alpha host";
+var mnemonic = "myself mad quality trial disorder face hotel ancient gap long glove agent";

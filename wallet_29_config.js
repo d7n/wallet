@@ -1,1 +1,1 @@
-var mnemonic = "legend hazard tennis aware payment habit gallery tenant agent catch eight witness";
+var mnemonic = "elbow borrow ball pink goose fit correct noodle fit pelican short melody";

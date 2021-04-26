@@ -1,1 +1,1 @@
-var mnemonic = "number cave hollow craft skirt assist hybrid move nothing almost boss tortoise";
+var mnemonic = "like dismiss green jelly shoe loan rescue action badge eagle awake glimpse";

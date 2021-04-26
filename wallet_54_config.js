@@ -1,1 +1,1 @@
-var mnemonic = "favorite general ceiling phone glance vote sorry fog denial episode giraffe tackle";
+var mnemonic = "maid casino swear kick pizza giant celery impact author salt under mother";

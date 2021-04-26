@@ -1,1 +1,1 @@
-var mnemonic = "offer tongue hand turkey subway despair engine cushion march improve mule harsh";
+var mnemonic = "hybrid palace brush ribbon genre deputy impact advice under spot fat harbor";

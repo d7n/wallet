@@ -1,1 +1,1 @@
-var mnemonic = "rally swear stick omit throw wait riot double art goddess space work";
+var mnemonic = "edit winter hood across chunk another system tobacco window cloud gravity force";

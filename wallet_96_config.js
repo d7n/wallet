@@ -1,1 +1,1 @@
-var mnemonic = "puppy super situate team repair play october wash coil absent spin salt";
+var mnemonic = "crack rice ship lake fatigue fold phrase bleak mail stereo giraffe cigar";

@@ -1,1 +1,1 @@
-var mnemonic = "depart traffic logic poet giraffe oil glue decide turkey appear juice frequent";
+var mnemonic = "pattern creek melody pig shrug year puzzle roof night army badge knife";

@@ -1,1 +1,1 @@
-var mnemonic = "alcohol bench high talent cute ghost erase rain truth gas kind loud";
+var mnemonic = "cycle rabbit alien trim review check spray pyramid crouch medal brown vital";

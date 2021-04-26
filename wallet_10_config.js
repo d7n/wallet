@@ -1,1 +1,1 @@
-var mnemonic = "leg scene alpha picture example shield labor near ball air twelve yellow";
+var mnemonic = "grant van host garage enter era garlic silly mom old liar ceiling";

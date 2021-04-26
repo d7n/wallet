@@ -1,1 +1,1 @@
-var mnemonic = "verify enforce bird hotel color flag rigid clean trouble degree kiss face";
+var mnemonic = "happy resemble absurd tissue fit illegal hotel lava globe book wild during";

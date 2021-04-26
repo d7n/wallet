@@ -1,1 +1,1 @@
-var mnemonic = "exclude bench patient country section gadget arrest veteran upset peace rescue hello";
+var mnemonic = "drama swamp junk jump truth final swap lyrics end grass retreat stomach";

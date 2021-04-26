@@ -1,1 +1,1 @@
-var mnemonic = "despair salad direct brown design fault paddle curious harsh across effort enter";
+var mnemonic = "wait clown invite apple coral napkin valid multiply clerk sing envelope film";

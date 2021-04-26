@@ -1,1 +1,1 @@
-var mnemonic = "tattoo reflect portion truly shock draw reduce shoot guide world any meat";
+var mnemonic = "until sense area woman emotion knee pistol plug such fox answer blame";

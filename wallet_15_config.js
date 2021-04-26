@@ -1,1 +1,1 @@
-var mnemonic = "fiction scissors anger reunion essay error speed rebel salon symbol charge accident";
+var mnemonic = "gauge pipe ostrich ripple kitchen shiver sorry soul lizard hurry wool present";

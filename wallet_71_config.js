@@ -1,1 +1,1 @@
-var mnemonic = "harsh attend fossil emerge domain off travel olympic auto hurry now gather";
+var mnemonic = "key upper potato derive truck baby heavy marriage ready item dragon sample";

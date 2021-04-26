@@ -1,1 +1,1 @@
-var mnemonic = "mirror reduce feed explain spoil fame pill mind lumber post exile silk";
+var mnemonic = "depend panda test dinosaur fiction amazing hybrid bacon purity addict treat electric";

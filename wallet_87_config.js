@@ -1,1 +1,1 @@
-var mnemonic = "region danger ozone push slim window group piano meat useless jealous april";
+var mnemonic = "shoe talk lion hedgehog radar speed kind usage defy color spatial topic";

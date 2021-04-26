@@ -1,1 +1,1 @@
-var mnemonic = "clarify sting private park worry deny key neglect select maple crew aspect";
+var mnemonic = "truly liquid trouble music describe cushion gown index door candy easy isolate";

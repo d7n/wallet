@@ -1,1 +1,1 @@
-var mnemonic = "reform fiber sweet scorpion model lucky lake potato awesome search connect lottery";
+var mnemonic = "add law rough flag chat find gym loud defy snow charge wine";

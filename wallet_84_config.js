@@ -1,1 +1,1 @@
-var mnemonic = "describe east bridge exotic enrich bar rapid business attack list ready tribe";
+var mnemonic = "gym blue shaft way stairs doll future load surprise hover bubble special";

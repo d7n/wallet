@@ -1,1 +1,1 @@
-var mnemonic = "stairs sibling raccoon noble fatal naive lab balance oyster giant gossip brand";
+var mnemonic = "north artwork panic banana slam pass drama harvest whip fat gaze mechanic";

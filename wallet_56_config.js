@@ -1,1 +1,1 @@
-var mnemonic = "soccer display weekend meadow exchange stumble artwork popular flip birth defense tip";
+var mnemonic = "slender tennis economy kiwi armed sight cliff gap helmet route prison brick";

@@ -1,1 +1,1 @@
-var mnemonic = "fancy hockey piece prefer ribbon orange tattoo tired puzzle viable exchange ticket";
+var mnemonic = "will way furnace swallow useless sort jaguar coconut figure prize doll kite";

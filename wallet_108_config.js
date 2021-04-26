@@ -1,1 +1,1 @@
-var mnemonic = "busy annual flight seek olive pact hospital budget apple defense ranch firm";
+var mnemonic = "harbor coin grief lady reform video lazy achieve melt flat door coral";

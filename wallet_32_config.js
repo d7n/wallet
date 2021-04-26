@@ -1,1 +1,1 @@
-var mnemonic = "then arch concert impact raven silent spirit fruit control then blur maid";
+var mnemonic = "escape ladder room cash water bargain about saddle acoustic rain fox season";

@@ -1,1 +1,1 @@
-var mnemonic = "oak hold twin swamp shuffle cup leisure armor menu decide come bounce";
+var mnemonic = "transfer jealous wrap skill manage bounce sand crowd olympic good senior stem";
