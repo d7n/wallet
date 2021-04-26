@@ -1,1 +1,1 @@
-var mnemonic = "brain smoke feel ancient together topic sell try hungry prize ticket nasty";
+var mnemonic = "reveal pudding pitch prosper sniff trick tower spider planet census anxiety jazz";

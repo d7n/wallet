@@ -1,1 +1,1 @@
-var mnemonic = "shoe task giant naive pepper erupt notable gallery floor scorpion idle sure";
+var mnemonic = "layer live joy sure wonder brief coffee bounce unhappy wife salute badge";

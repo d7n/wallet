@@ -1,1 +1,1 @@
-var mnemonic = "involve second boat pulse fly private slender canyon deposit sketch add injury";
+var mnemonic = "thought frog predict text analyst shell code salad because divert congress pulp";

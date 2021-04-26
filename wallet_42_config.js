@@ -1,1 +1,1 @@
-var mnemonic = "nerve grape exercise ozone critic exhibit pill husband check utility light describe";
+var mnemonic = "joy donkey salmon tray small laundry public mail hub armor strong huge";

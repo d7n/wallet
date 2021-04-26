@@ -1,1 +1,1 @@
-var mnemonic = "trophy grow army noise melt fossil shrug curve girl spend royal hammer";
+var mnemonic = "swallow rib mail raven battle style pull image blossom obvious soccer tribe";

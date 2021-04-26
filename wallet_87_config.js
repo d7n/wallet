@@ -1,1 +1,1 @@
-var mnemonic = "apology skate salmon neutral miracle message legal female dilemma final tiny brand";
+var mnemonic = "domain expire alarm rent two emerge rapid route torch shoot cradle memory";

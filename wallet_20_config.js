@@ -1,1 +1,1 @@
-var mnemonic = "truly source tilt raise frown awkward wash riot mom tiny buddy waste";
+var mnemonic = "casual flush apple time daring cause measure forum crash word taste measure";

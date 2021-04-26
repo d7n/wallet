@@ -1,1 +1,1 @@
-var mnemonic = "glad lounge pistol note sound cousin garlic pond olympic square cloud correct";
+var mnemonic = "thunder critic unlock life pole spring uncle black mandate accident culture daughter";

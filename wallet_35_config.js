@@ -1,1 +1,1 @@
-var mnemonic = "ready fiber idea industry taxi method uncle video easily barrel usage swing";
+var mnemonic = "digital process dinner sting alien upon romance drastic series pistol quick crane";

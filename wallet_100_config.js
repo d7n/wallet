@@ -1,1 +1,1 @@
-var mnemonic = "piano engage earth spoil wise tower enjoy yard south brand undo keep";
+var mnemonic = "banner source autumn year voyage squirrel yellow since seminar sick slight net";

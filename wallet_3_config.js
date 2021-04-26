@@ -1,1 +1,1 @@
-var mnemonic = "athlete hard identify tennis under actual throw horror that uncle asset lens";
+var mnemonic = "month alone security lyrics welcome injury panic security execute hospital wood above";

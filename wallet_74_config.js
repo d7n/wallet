@@ -1,1 +1,1 @@
-var mnemonic = "sure until profit diary bonus risk bitter endorse trap trap account illness";
+var mnemonic = "nest gap jeans guess purpose member deputy muscle wealth power calm better";

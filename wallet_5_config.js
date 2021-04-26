@@ -1,1 +1,1 @@
-var mnemonic = "sick spray robust shuffle indoor boil this donkey lizard morning below float";
+var mnemonic = "since thought dolphin neck solid spend patrol toward food banana shop best";

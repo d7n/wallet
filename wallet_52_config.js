@@ -1,1 +1,1 @@
-var mnemonic = "verb have twice bring reduce fruit february buddy hold staff shallow solve";
+var mnemonic = "enhance artwork tennis girl margin brave crumble jaguar wedding deal upgrade brief";

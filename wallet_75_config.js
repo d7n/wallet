@@ -1,1 +1,1 @@
-var mnemonic = "add share century fatigue churn arm pupil energy leader tip series token";
+var mnemonic = "wine candy merge future mom refuse change process pause omit black twenty";

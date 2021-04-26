@@ -1,1 +1,1 @@
-var mnemonic = "radio letter spatial ecology flee sugar typical onion cat become attitude system";
+var mnemonic = "inflict stick post concert alert funny obscure rotate devote still divorce royal";

@@ -1,1 +1,1 @@
-var mnemonic = "else all stadium gown trouble walnut coast shell addict table deer filter";
+var mnemonic = "skull page sudden shift unfair apple radar sand punch park venue friend";

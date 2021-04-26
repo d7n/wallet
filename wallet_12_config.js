@@ -1,1 +1,1 @@
-var mnemonic = "opera piece wool off approve liar remove lock cheap rookie sock deputy";
+var mnemonic = "grief wolf dry bomb input snack clean remember cushion slight angry volume";

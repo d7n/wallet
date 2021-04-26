@@ -1,1 +1,1 @@
-var mnemonic = "seat fire salad orchard degree maximum present deputy design turtle unhappy connect";
+var mnemonic = "quarter still ivory online glory choose sweet plate clarify mouse patch beauty";

@@ -1,1 +1,1 @@
-var mnemonic = "slim rather cruise floor wrist wood hawk feel forget shell then buffalo";
+var mnemonic = "powder sort green tragic correct crash wreck science bacon hero forget throw";

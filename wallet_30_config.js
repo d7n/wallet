@@ -1,1 +1,1 @@
-var mnemonic = "naive woman stereo list evidence market embody scout eternal whip sort letter";
+var mnemonic = "barrel girl impact mobile real occur entire gain near truly mention hollow";

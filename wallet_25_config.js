@@ -1,1 +1,1 @@
-var mnemonic = "humble melt silver video cake wide truly duty any aisle syrup jelly";
+var mnemonic = "search panic wide two renew spawn result right exotic cactus diamond erosion";

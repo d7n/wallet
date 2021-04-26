@@ -1,1 +1,1 @@
-var mnemonic = "report animal very enroll sense stumble zoo truck happy meat pizza trend";
+var mnemonic = "erode genuine midnight verify glad combine dice raven danger praise parade rough";

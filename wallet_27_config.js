@@ -1,1 +1,1 @@
-var mnemonic = "secret wise wisdom category victory claw false survey ivory believe vivid lens";
+var mnemonic = "code pact rare kidney dash enhance pilot potato ring basket where salute";

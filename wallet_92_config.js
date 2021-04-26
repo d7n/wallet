@@ -1,1 +1,1 @@
-var mnemonic = "stable paddle update dynamic wheel ocean deliver cream visual return spin memory";
+var mnemonic = "thing security asthma second elevator push dolphin order team dust lemon wagon";

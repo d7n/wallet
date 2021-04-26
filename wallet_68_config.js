@@ -1,1 +1,1 @@
-var mnemonic = "direct security region slide miracle guitar step jewel ladder world involve kick";
+var mnemonic = "arrange system tenant fossil rabbit myth bracket drip help firm edge razor";

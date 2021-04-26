@@ -1,1 +1,1 @@
-var mnemonic = "waste narrow jeans lizard surprise pilot desert grab raven afford noble sock";
+var mnemonic = "away curious warm evoke shop rapid increase bachelor glide love clarify captain";

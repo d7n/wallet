@@ -1,1 +1,1 @@
-var mnemonic = "upon eyebrow glow loop swear bundle ball sing faint pizza injury tragic";
+var mnemonic = "twenty hole normal suspect cram program wet tiny prevent casual height mercy";

@@ -1,1 +1,1 @@
-var mnemonic = "grass report survey coil swear horse another sibling very board neutral upper";
+var mnemonic = "visual wisdom wreck wonder decline feel regret bronze cloth all improve garment";

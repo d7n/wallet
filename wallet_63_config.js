@@ -1,1 +1,1 @@
-var mnemonic = "humor bicycle ginger trophy seek salute spray labor weasel antenna toy radar";
+var mnemonic = "bind view pizza steak such hurt vanish behave round indicate sock name";

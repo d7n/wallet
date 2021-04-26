@@ -1,1 +1,1 @@
-var mnemonic = "inquiry blanket way photo market pond vessel network civil rural endorse earn";
+var mnemonic = "fury trip divert already panda rally mom help pistol lucky defense scatter";

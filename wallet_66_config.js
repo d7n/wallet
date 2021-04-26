@@ -1,1 +1,1 @@
-var mnemonic = "brick anxiety effort cross mix glide merit announce multiply rare donor vacant";
+var mnemonic = "gentle noise copper anxiety join buyer entry shallow smile mechanic token pill";

@@ -1,1 +1,1 @@
-var mnemonic = "civil alter pitch crouch little derive joy jeans diamond habit boat develop";
+var mnemonic = "dilemma student include certain puppy pull twist present medal amount ball trigger";

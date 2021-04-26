@@ -1,1 +1,1 @@
-var mnemonic = "hello festival clarify vivid cabbage erosion kiss liberty bridge trim vibrant skin";
+var mnemonic = "park flame tennis ozone squeeze strike erupt average razor cover adapt skate";

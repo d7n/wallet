@@ -1,1 +1,1 @@
-var mnemonic = "vibrant lucky finish food inhale focus shoulder sting weasel garlic skill upon";
+var mnemonic = "tonight stool patch fame immune scatter wonder student essence gown bus rent";

@@ -1,1 +1,1 @@
-var mnemonic = "narrow buyer domain sustain depth remove issue mail sight husband relax post";
+var mnemonic = "color evoke below laptop tooth weather annual way dial horror endless cram";

@@ -1,1 +1,1 @@
-var mnemonic = "tuna slot drop deliver zone lamp tuition traffic dumb imitate enroll improve";
+var mnemonic = "field vehicle satisfy echo tool special stumble wrestle current where cheap blast";

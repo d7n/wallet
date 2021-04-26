@@ -1,1 +1,1 @@
-var mnemonic = "sea dose snap style milk donor such fine tunnel else require swap";
+var mnemonic = "help sock gasp middle picture kind board vicious wrist royal dash check";

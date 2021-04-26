@@ -1,1 +1,1 @@
-var mnemonic = "exist setup ozone sister lemon acquire aim cream unable decline gentle bracket";
+var mnemonic = "sail rack load course circle frog curtain nurse kiss child column voice";

@@ -1,1 +1,1 @@
-var mnemonic = "curve indoor order require erupt skate tape salmon resist hamster base dumb";
+var mnemonic = "fit october abandon rapid tenant betray ethics swallow evidence amateur gossip country";

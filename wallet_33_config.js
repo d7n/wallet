@@ -1,1 +1,1 @@
-var mnemonic = "salmon ankle bulb dismiss praise pet ripple defense scout plastic hundred million";
+var mnemonic = "jump lecture rookie donate limit bamboo rather voice settle episode weasel pledge";

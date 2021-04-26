@@ -1,1 +1,1 @@
-var mnemonic = "must swim rapid slam route ill citizen neck huge analyst route surprise";
+var mnemonic = "drastic lesson observe refuse orange adjust ranch silver orbit skull opera tell";

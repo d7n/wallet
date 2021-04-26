@@ -1,1 +1,1 @@
-var mnemonic = "axis bird patrol cereal off adult already win legend client gate buyer";
+var mnemonic = "excite employ people cattle suspect grain fuel violin prevent cousin organ box";

@@ -1,1 +1,1 @@
-var mnemonic = "matter laptop hero crime parent bean hard wage coach happy amateur ocean";
+var mnemonic = "three cool price know frozen multiply vivid century north fatigue deputy wheat";

@@ -1,1 +1,1 @@
-var mnemonic = "jewel again angle oyster cover session satisfy pause swallow timber inch fragile";
+var mnemonic = "orchard desk spawn oval eyebrow lava mean brisk whale ride blade liar";

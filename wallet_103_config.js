@@ -1,1 +1,1 @@
-var mnemonic = "shallow tissue payment loyal lobster orbit minimum beyond divorce obtain cattle crystal";
+var mnemonic = "guide eagle end among hire rubber network spider federal myth live mistake";

@@ -1,1 +1,1 @@
-var mnemonic = "unable capable wrap glide pizza garage local faint divide girl promote fiction";
+var mnemonic = "rally brush mistake duty fiber poem upon erode later stock flavor bargain";

@@ -1,1 +1,1 @@
-var mnemonic = "false allow state treat catalog ship razor finish achieve solution inch fat";
+var mnemonic = "rail prepare congress depart brief animal note demand bundle nature start chicken";

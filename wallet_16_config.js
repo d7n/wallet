@@ -1,1 +1,1 @@
-var mnemonic = "course drum strategy enemy mail grace sleep jacket code clean volcano spider";
+var mnemonic = "situate gadget diamond occur spoil scare lyrics video raw bounce mixture sport";

@@ -1,1 +1,1 @@
-var mnemonic = "exhaust price broccoli mountain raven apart express ginger friend gaze vault vibrant";
+var mnemonic = "faint dilemma crop basket valley educate uncle salute urge merit hello need";

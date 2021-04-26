@@ -1,1 +1,1 @@
-var mnemonic = "vintage palace excess health usual project click tackle giant artefact still leisure";
+var mnemonic = "easily scatter identify trouble thank north shuffle deputy afraid witness neglect two";

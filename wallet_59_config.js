@@ -1,1 +1,1 @@
-var mnemonic = "say bless holiday heart apple fatigue curtain damp fee joy library gold";
+var mnemonic = "slim foil question damp rival december ensure bulb giggle antique spy rabbit";

@@ -1,1 +1,1 @@
-var mnemonic = "tape owner forest reward alcohol romance quarter upset panic deliver choice urban";
+var mnemonic = "spatial crystal noise olympic orchard legend weapon cheese clown dream tool laundry";

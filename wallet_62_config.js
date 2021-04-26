@@ -1,1 +1,1 @@
-var mnemonic = "guess moment digital tiny elbow ill urban cattle brother honey laundry ask";
+var mnemonic = "warm high reopen december bulk champion luggage romance noise hobby hard debris";

@@ -1,1 +1,1 @@
-var mnemonic = "health sort stone clap call betray unit marriage violin loop solar tomorrow";
+var mnemonic = "turtle pigeon execute whale planet shadow else model upper abuse regular connect";

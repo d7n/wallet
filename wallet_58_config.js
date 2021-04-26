@@ -1,1 +1,1 @@
-var mnemonic = "celery whip flush diet embark insect office lobster satisfy picnic message slim";
+var mnemonic = "innocent bus ribbon tornado thunder benefit method blood orange jazz message buzz";

@@ -1,1 +1,1 @@
-var mnemonic = "image thing song invite rice arrive grain vessel involve bacon route drama";
+var mnemonic = "record win color van gaze tube gallery involve small weird apology identify";

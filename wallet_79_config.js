@@ -1,1 +1,1 @@
-var mnemonic = "world gallery song moon tree virus double duty catch quarter engage urban";
+var mnemonic = "mosquito adjust sport turkey inch creek shoe argue swallow thing decline push";

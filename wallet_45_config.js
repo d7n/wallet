@@ -1,1 +1,1 @@
-var mnemonic = "goose foot inspire honey room purchase news ocean useless chalk hungry leopard";
+var mnemonic = "believe throw sleep avocado oxygen general stereo radio copper brisk world poet";

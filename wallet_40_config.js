@@ -1,1 +1,1 @@
-var mnemonic = "diesel usage spider merry pelican doctor share modify blame half garlic outer";
+var mnemonic = "army remind mouse permit few tail tourist guitar move relief urge stove";

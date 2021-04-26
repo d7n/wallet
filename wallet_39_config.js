@@ -1,1 +1,1 @@
-var mnemonic = "horror north home first blast layer draft crowd soldier object size endless";
+var mnemonic = "skate honey come expose bubble youth tone knee argue panel minor soul";

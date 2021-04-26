@@ -1,1 +1,1 @@
-var mnemonic = "negative dismiss parent mouse outside evil wink umbrella typical chuckle project gesture";
+var mnemonic = "degree social about spot gas begin fatal leaf idea sun frame rail";

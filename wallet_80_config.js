@@ -1,1 +1,1 @@
-var mnemonic = "leisure shoot light warrior puppy kid tourist stone pattern lemon always spawn";
+var mnemonic = "find rose anger obvious bike defense plug sunset sing erosion language way";

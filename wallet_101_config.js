@@ -1,1 +1,1 @@
-var mnemonic = "sustain sniff vacuum what aspect edge edit tunnel help unit grow guilt";
+var mnemonic = "jaguar inside mansion glove kit crystal iron call arena wolf eight panther";

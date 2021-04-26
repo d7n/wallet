@@ -1,1 +1,1 @@
-var mnemonic = "fault picture two quality brief confirm mercy manage diesel brick wreck play";
+var mnemonic = "bonus velvet satoshi text century estate tree nest device abstract trash hurry";

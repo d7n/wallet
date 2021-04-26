@@ -1,1 +1,1 @@
-var mnemonic = "art sock object minute assault elbow soda electric obey social punch logic";
+var mnemonic = "gym silent erupt museum scatter lobster naive maple good tortoise choose toy";

@@ -1,1 +1,1 @@
-var mnemonic = "rabbit critic blush maple swear buzz dilemma crazy board plug save cry";
+var mnemonic = "method wear bean song degree token page foam valve razor degree lyrics";

@@ -1,1 +1,1 @@
-var mnemonic = "trip fit super federal gorilla girl manual where advance erupt shield real";
+var mnemonic = "parrot unveil budget network grit original neutral crack filter mystery marine vacant";

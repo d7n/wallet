@@ -1,1 +1,1 @@
-var mnemonic = "skill rural coyote gorilla syrup danger switch flat away fork radar elder";
+var mnemonic = "cage coyote salmon index ivory movie pioneer submit wine gossip slab enact";

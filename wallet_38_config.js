@@ -1,1 +1,1 @@
-var mnemonic = "nation toy autumn large tunnel pair sun because pledge rough record oxygen";
+var mnemonic = "deal degree tiny trial dumb search dragon round obtain salt adult first";

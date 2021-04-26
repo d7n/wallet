@@ -1,1 +1,1 @@
-var mnemonic = "home property confirm turkey impact reopen typical jeans jelly fuel bacon peace";
+var mnemonic = "foam drift survey stick carry jar wrestle domain seminar sight remain anxiety";

@@ -1,1 +1,1 @@
-var mnemonic = "violin twenty spy combine pill zoo kit mail remember genre few viable";
+var mnemonic = "dirt exact wait flag cannon unveil piece series deputy kangaroo bag typical";

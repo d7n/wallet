@@ -1,1 +1,1 @@
-var mnemonic = "crouch disease confirm flight one entire crash catch midnight corn praise choice";
+var mnemonic = "tool theme rose bicycle all purpose craft reason meadow reform sleep crowd";

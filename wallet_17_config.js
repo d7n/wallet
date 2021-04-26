@@ -1,1 +1,1 @@
-var mnemonic = "awake olive blast comic regular whisper bullet foster join fog clip fan";
+var mnemonic = "donkey horror endorse bullet rubber stamp economy famous exhibit clutch cram broccoli";

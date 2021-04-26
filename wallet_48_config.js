@@ -1,1 +1,1 @@
-var mnemonic = "bounce general olive please glimpse legal task frozen casino ticket volcano actual";
+var mnemonic = "tongue rhythm keep time toward custom board divide spider cup doll net";

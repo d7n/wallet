@@ -1,1 +1,1 @@
-var mnemonic = "army congress dish soft badge attack medal budget suspect feature border budget";
+var mnemonic = "forward fringe length leader flush dolphin scatter alter engine certain crumble nest";

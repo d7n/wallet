@@ -1,1 +1,1 @@
-var mnemonic = "shop safe ethics fitness biology grain bargain tide soon betray kiss note";
+var mnemonic = "world mansion pole cheese point view anxiety anchor risk spike always demise";

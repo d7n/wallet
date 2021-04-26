@@ -1,1 +1,1 @@
-var mnemonic = "midnight phone pipe girl wrap life uncover bonus tissue face visual nephew";
+var mnemonic = "panther bulb crumble resemble palm they inherit layer scrap toe noble keen";

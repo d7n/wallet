@@ -1,1 +1,1 @@
-var mnemonic = "crew spell garage rapid delay glide twelve hotel manual crime funny margin";
+var mnemonic = "cube fresh plate wood source mind glue february law dismiss aisle police";

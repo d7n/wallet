@@ -1,1 +1,1 @@
-var mnemonic = "country need kitten silent kingdom guilt police penalty hockey case emerge suit";
+var mnemonic = "wife sugar crowd race sample elegant average visit fancy visit wool bamboo";

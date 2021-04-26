@@ -1,1 +1,1 @@
-var mnemonic = "pulp dinosaur choice imitate report violin subject stomach fragile guess blue east";
+var mnemonic = "income viable promote review worry side table timber grief above vapor large";

@@ -1,1 +1,1 @@
-var mnemonic = "circle blush sail infant ripple erupt home broccoli quantum vapor next pulp";
+var mnemonic = "badge frown any cabin ancient miss direct choose inquiry exclude usual shop";

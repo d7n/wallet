@@ -1,1 +1,1 @@
-var mnemonic = "lens opera hire fabric candy evolve betray grit muffin design amazing siege";
+var mnemonic = "picnic pull apple family sister prison skin dinner absurd device brisk skull";

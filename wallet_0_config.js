@@ -1,1 +1,1 @@
-var mnemonic = "end outer sea main harvest atom stairs oil pulp dad album lyrics";
+var mnemonic = "vehicle remain logic ball lunch sport property alpha calm build bubble film";

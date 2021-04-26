@@ -1,1 +1,1 @@
-var mnemonic = "effort faint beauty march wool finger muscle apart east mutual memory drum";
+var mnemonic = "crazy sing scrap syrup cheap text spoon edit base train scorpion vault";

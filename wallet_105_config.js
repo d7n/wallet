@@ -1,1 +1,1 @@
-var mnemonic = "ahead cash wave service picnic suffer crater fly release elevator save roof";
+var mnemonic = "soon lend fitness orient dust witness master hurdle mandate sadness select unknown";

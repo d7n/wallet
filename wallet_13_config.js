@@ -1,1 +1,1 @@
-var mnemonic = "random caution puppy assault across flush acid sleep undo captain view domain";
+var mnemonic = "certain field truly wolf dune into receive stone prevent olympic enable sugar";

@@ -1,1 +1,1 @@
-var mnemonic = "donkey canoe actual already weasel travel attend mail convince million window stuff";
+var mnemonic = "wall century safe pill sister such hen rely rabbit sign mean opinion";

@@ -1,1 +1,1 @@
-var mnemonic = "arm tell announce arrange crash thrive puppy animal benefit panel deal ship";
+var mnemonic = "wealth report oven follow shaft coyote echo nature beauty expand apple walnut";

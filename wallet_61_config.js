@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur cliff ten armed virus potato endless praise forum bullet onion raw";
+var mnemonic = "document pear young trial winner utility behave ribbon craft lion size dignity";

@@ -1,1 +1,1 @@
-var mnemonic = "grain vessel latin baby final orphan seed sweet story group climb near";
+var mnemonic = "garden mind sword panel pony fantasy note mean rally blur alarm horror";

@@ -1,1 +1,1 @@
-var mnemonic = "stove father afraid wrong feed twelve frog senior title sea cup clump";
+var mnemonic = "sport hover damage sea busy clarify hover curtain project remind host duty";

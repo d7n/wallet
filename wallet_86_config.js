@@ -1,1 +1,1 @@
-var mnemonic = "scale badge myth cricket echo figure remove bunker discover bean venue sorry";
+var mnemonic = "captain ribbon angry stuff salon media palm permit double congress there suffer";

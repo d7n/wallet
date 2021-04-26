@@ -1,1 +1,1 @@
-var mnemonic = "moment snack bargain toast wagon snow number knife exotic verify online canvas";
+var mnemonic = "door rabbit burger journey parent wool tiger join sustain radio reduce acid";

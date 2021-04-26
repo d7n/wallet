@@ -1,1 +1,1 @@
-var mnemonic = "when point pretty melody someone bunker cook raise hedgehog risk genuine talk";
+var mnemonic = "solid adapt order rocket same soap summer orchard vintage wave pull fan";
