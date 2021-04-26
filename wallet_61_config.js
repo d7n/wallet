@@ -1,1 +1,1 @@
-var mnemonic = "mushroom empower tool laundry violin dirt access cat dwarf exclude lady hundred";
+var mnemonic = "mountain act hidden stock soft ignore velvet false donate rate neutral science";

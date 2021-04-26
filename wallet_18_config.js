@@ -1,1 +1,1 @@
-var mnemonic = "once maple spin junk speak shiver core mammal movie print usual ghost";
+var mnemonic = "minimum finish dizzy dash regular describe dwarf mountain ribbon liberty network glove";

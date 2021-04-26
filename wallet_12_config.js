@@ -1,1 +1,1 @@
-var mnemonic = "planet allow symptom price dolphin emotion update finger defy sight field fee";
+var mnemonic = "item art swamp board few laptop winter blur anchor physical come more";

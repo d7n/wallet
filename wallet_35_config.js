@@ -1,1 +1,1 @@
-var mnemonic = "toward vapor drift rate obvious mirror finger office include just attend upper";
+var mnemonic = "soft round engage good develop mountain drill fix way spare embark call";

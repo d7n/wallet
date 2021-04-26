@@ -1,1 +1,1 @@
-var mnemonic = "gentle try soccer crazy motor inhale drill fat brisk sad nature pen";
+var mnemonic = "peasant sunset sample depth matrix vanish vocal fatigue use ethics mail unfair";

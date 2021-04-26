@@ -1,1 +1,1 @@
-var mnemonic = "test skate such garment earn friend baby creek sample omit nation eight";
+var mnemonic = "unique aspect wisdom file badge fashion benefit dynamic today someone elder hawk";

@@ -1,1 +1,1 @@
-var mnemonic = "spot plug stool tortoise deal burden badge fabric audit achieve hub juice";
+var mnemonic = "raw dinosaur guard custom shop begin obvious smart zero error pride seed";

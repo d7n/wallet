@@ -1,1 +1,1 @@
-var mnemonic = "museum electric second action reveal van theme number health daring genre gossip";
+var mnemonic = "such strike comfort nominee slam tribe ill virtual neither toilet keen know";

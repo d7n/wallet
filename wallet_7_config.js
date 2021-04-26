@@ -1,1 +1,1 @@
-var mnemonic = "pull want limb purpose flee option basic notable virus eager scorpion jeans";
+var mnemonic = "either craft auction infant split swarm ticket cigar choice wood horn atom";

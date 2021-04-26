@@ -1,1 +1,1 @@
-var mnemonic = "ivory impact minimum loan stone flee wash olympic nature cruel absurd vendor";
+var mnemonic = "medal stick circle own shop ladder awake cotton bicycle between harsh lunar";

@@ -1,1 +1,1 @@
-var mnemonic = "mixture oxygen curve disorder suit throw scatter prize merge smile favorite spread";
+var mnemonic = "suffer marriage become smart prosper virus churn feed coyote treat number saddle";

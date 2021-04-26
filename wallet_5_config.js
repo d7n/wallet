@@ -1,1 +1,1 @@
-var mnemonic = "foil mixed group vintage saddle ability innocent work hover argue drive slice";
+var mnemonic = "absorb caution time observe panther east rotate mechanic moral smooth change dumb";

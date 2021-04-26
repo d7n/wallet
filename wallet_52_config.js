@@ -1,1 +1,1 @@
-var mnemonic = "shoe shove goddess elder spin faith guitar convince buffalo rice foam phone";
+var mnemonic = "symbol taxi quick omit simple place apple best invite local addict have";

@@ -1,1 +1,1 @@
-var mnemonic = "about you boring ship bus demise fence blade episode resemble tomorrow series";
+var mnemonic = "duty job banana crush discover cancel same uncover blouse exhibit train supply";

@@ -1,1 +1,1 @@
-var mnemonic = "sphere super sketch law used sing artwork wrap anchor almost mobile convince";
+var mnemonic = "fold term april kingdom theory hotel drip mind nice coconut welcome grace";

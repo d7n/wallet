@@ -1,1 +1,1 @@
-var mnemonic = "critic very estate castle detail hill learn tray upgrade million brand general";
+var mnemonic = "flight source sad prize matrix right lumber hurt oyster flash recall lake";

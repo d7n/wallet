@@ -1,1 +1,1 @@
-var mnemonic = "fee fault salt broccoli puzzle reveal smart shop problem hand layer noble";
+var mnemonic = "uniform dove bean siren almost account figure ostrich design spot anger pistol";

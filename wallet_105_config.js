@@ -1,1 +1,1 @@
-var mnemonic = "stuff salad climb small glide ankle fabric lawn proof winter until girl";
+var mnemonic = "forward range festival answer spot horse frost sweet fuel group surround fever";

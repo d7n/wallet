@@ -1,1 +1,1 @@
-var mnemonic = "brick huge spirit merge glass typical fresh because speed notable during game";
+var mnemonic = "congress rebel rain age impose extra fatal run glare wrestle tool muscle";

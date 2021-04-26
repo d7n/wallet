@@ -1,1 +1,1 @@
-var mnemonic = "trust rigid apology ignore differ venture bike rain prevent obey myth blue";
+var mnemonic = "disagree actor have ignore coach type engine client hand select ensure elder";

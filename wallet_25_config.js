@@ -1,1 +1,1 @@
-var mnemonic = "mule vivid master deliver airport say course shiver replace quit aerobic equip";
+var mnemonic = "person student tired ostrich spawn card interest suggest ridge grief brisk gap";

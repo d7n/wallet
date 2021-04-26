@@ -1,1 +1,1 @@
-var mnemonic = "dash rude permit salmon mad typical leisure weasel menu choose marriage solve";
+var mnemonic = "renew deer cake shaft check like acquire pear sword gossip garment human";

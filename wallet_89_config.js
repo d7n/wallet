@@ -1,1 +1,1 @@
-var mnemonic = "involve illegal crew minimum section mistake mosquito echo grab force beach miss";
+var mnemonic = "noble april tone bright misery float entry field famous canyon answer position";

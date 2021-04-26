@@ -1,1 +1,1 @@
-var mnemonic = "theory few stereo smile inside ticket praise fee wing faint critic service";
+var mnemonic = "cliff sadness tunnel deposit upon liar industry attitude wave aerobic gaze ethics";

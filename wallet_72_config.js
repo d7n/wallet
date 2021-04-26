@@ -1,1 +1,1 @@
-var mnemonic = "amount december ritual duck inherit forget trap garden grape love chronic actor";
+var mnemonic = "question notice busy curve asthma other digital sense mercy ugly promote rapid";

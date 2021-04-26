@@ -1,1 +1,1 @@
-var mnemonic = "mansion clinic tiny bitter loyal speak buyer universe trend bulb license amount";
+var mnemonic = "screen brisk ancient asthma scheme ability spice snack fan dream render lonely";

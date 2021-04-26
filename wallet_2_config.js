@@ -1,1 +1,1 @@
-var mnemonic = "cloud cruise velvet differ iron drill token great embark sugar similar miss";
+var mnemonic = "dismiss accuse prize away robot fire train bottom service daughter pair advice";

@@ -1,1 +1,1 @@
-var mnemonic = "bright swift wreck bubble apart buffalo quit behind tree walnut rapid ginger";
+var mnemonic = "valley giraffe toy sphere turtle ill afford olympic under hip around phone";

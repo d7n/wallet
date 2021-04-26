@@ -1,1 +1,1 @@
-var mnemonic = "gain farm left nest nut tonight laugh furnace affair front destroy power";
+var mnemonic = "feed return brick bomb drill pear boring leave hold child duty entry";

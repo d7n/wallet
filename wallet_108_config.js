@@ -1,1 +1,1 @@
-var mnemonic = "rebel bounce crouch year spice drama gun rival lizard tool language safe";
+var mnemonic = "throw hurdle midnight exit bless rack plastic pulp put glue fun parade";

@@ -1,1 +1,1 @@
-var mnemonic = "brief blame pet ladder rule symbol junior fly announce frog once pink";
+var mnemonic = "camera stomach card prosper dilemma arrest scorpion truly renew tag special erosion";

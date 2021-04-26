@@ -1,1 +1,1 @@
-var mnemonic = "embark fantasy mercy escape mechanic illegal blanket deal drop bleak tennis leopard";
+var mnemonic = "child sauce lunch near arrive accident base shoulder recycle come again pioneer";

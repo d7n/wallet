@@ -1,1 +1,1 @@
-var mnemonic = "limb arrest trumpet basket accuse clap close envelope pulse curtain letter skate";
+var mnemonic = "gown ribbon joke divorce lens theory miss title chief knife charge foam";

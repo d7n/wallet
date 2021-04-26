@@ -1,1 +1,1 @@
-var mnemonic = "dwarf fringe conduct name figure member conduct random unveil tumble gasp legend";
+var mnemonic = "social wine employ dash bargain sleep method rather dismiss harvest current narrow";

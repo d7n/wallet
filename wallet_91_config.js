@@ -1,1 +1,1 @@
-var mnemonic = "crash acid fashion frog comfort pepper hurt spy stem void matrix script";
+var mnemonic = "wide hidden lottery spirit organ civil trouble have amused boost correct steak";

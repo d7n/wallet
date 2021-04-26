@@ -1,1 +1,1 @@
-var mnemonic = "foot usage manage dry outside spell soap cry flush panda empty furnace";
+var mnemonic = "alter stable firm stone mesh wave ask bamboo mango field artefact asset";

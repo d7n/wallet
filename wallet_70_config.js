@@ -1,1 +1,1 @@
-var mnemonic = "urge crucial merit stock bar zero around artist rural resist fury thing";
+var mnemonic = "calm wish point alpha motor alien various demise measure utility dentist flavor";

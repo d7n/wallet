@@ -1,1 +1,1 @@
-var mnemonic = "trial behind gospel elephant grace direct discover sugar basic ask thunder immune";
+var mnemonic = "giraffe hazard replace light fury depend honey mosquito sick palace slide eagle";

@@ -1,1 +1,1 @@
-var mnemonic = "approve kiwi danger embark scan ring icon forget wife half waste pride";
+var mnemonic = "fabric chase monster habit trade upgrade job deny border amateur bench captain";

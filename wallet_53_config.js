@@ -1,1 +1,1 @@
-var mnemonic = "core river cousin found economy language result fabric scale flavor oyster acoustic";
+var mnemonic = "under movie patrol diary author fan valid metal monitor cinnamon chimney chest";

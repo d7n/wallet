@@ -1,1 +1,1 @@
-var mnemonic = "talk weather valid dirt maid input crane march traffic rib summer trumpet";
+var mnemonic = "guess reflect material umbrella avocado order often inspire setup model rabbit winter";

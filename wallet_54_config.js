@@ -1,1 +1,1 @@
-var mnemonic = "second meadow market solution chair inmate bone liquid choose another pulse local";
+var mnemonic = "split twenty decline inflict rival trouble minor accident craft park pole empty";

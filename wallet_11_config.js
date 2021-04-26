@@ -1,1 +1,1 @@
-var mnemonic = "fossil close ranch shine evoke evidence laptop surge project balcony master forward";
+var mnemonic = "use dog cup wear vehicle tennis wheat cancel license video report benefit";

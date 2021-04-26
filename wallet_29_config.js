@@ -1,1 +1,1 @@
-var mnemonic = "trigger avoid carbon shoe peanut creek have sniff attitude sock pond pear";
+var mnemonic = "party midnight access violin drastic arrest extra act basket creek rural walnut";

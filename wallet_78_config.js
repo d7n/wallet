@@ -1,1 +1,1 @@
-var mnemonic = "liberty churn taste rent final improve stamp secret iron cool tunnel helmet";
+var mnemonic = "endorse digital horn payment coin cost click cotton trouble consider option merit";

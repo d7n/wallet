@@ -1,1 +1,1 @@
-var mnemonic = "another payment feel real venue reduce image label before tragic rare clog";
+var mnemonic = "sustain lobster pole planet build tip mechanic stereo stem art index agent";

@@ -1,1 +1,1 @@
-var mnemonic = "mean west vintage reflect cost pitch scissors believe basket walk twist head";
+var mnemonic = "cushion tuition merry waste vote brass practice mouse aware world program canyon";

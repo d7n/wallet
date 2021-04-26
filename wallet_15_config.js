@@ -1,1 +1,1 @@
-var mnemonic = "poem believe source love pair south calm drop poem network bike random";
+var mnemonic = "spice cloth belt much pulp walk nose entire dash cruise increase crash";

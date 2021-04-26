@@ -1,1 +1,1 @@
-var mnemonic = "craft town submit february exclude clutch garage rubber soldier ski cave frozen";
+var mnemonic = "kid orbit happy number live helmet phrase will vacuum grit slice service";

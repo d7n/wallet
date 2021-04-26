@@ -1,1 +1,1 @@
-var mnemonic = "hope deputy install east nice village alarm sight clarify short horn zebra";
+var mnemonic = "nut gas test stuff frown face burst slide intact journey trap ladder";

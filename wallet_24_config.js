@@ -1,1 +1,1 @@
-var mnemonic = "reflect welcome strategy solution return pepper check inspire screen banner recall cloth";
+var mnemonic = "search laptop huge minute powder second demise scorpion neglect message buddy throw";

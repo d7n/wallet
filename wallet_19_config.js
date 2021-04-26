@@ -1,1 +1,1 @@
-var mnemonic = "thumb clean panther crazy pigeon artist live auction wagon grass shallow vital";
+var mnemonic = "vivid boil fly element artist case inject arctic amateur ranch aunt harvest";

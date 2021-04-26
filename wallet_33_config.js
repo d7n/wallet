@@ -1,1 +1,1 @@
-var mnemonic = "weasel lounge stool toy affair recall goat license talent dry exercise bamboo";
+var mnemonic = "topple come sample siege minor canvas grace ghost interest bronze raise shed";

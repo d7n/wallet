@@ -1,1 +1,1 @@
-var mnemonic = "similar grass resource cattle wear shoe super lunch sad oblige mind elegant";
+var mnemonic = "close increase aerobic item awkward rely insane video warfare ensure soccer jar";

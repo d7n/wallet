@@ -1,1 +1,1 @@
-var mnemonic = "stay sail ozone invite install wet park turn harbor wash comfort warm";
+var mnemonic = "crisp dizzy sample brother carpet wild plastic end reform flag fringe delay";

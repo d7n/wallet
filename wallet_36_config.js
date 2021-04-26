@@ -1,1 +1,1 @@
-var mnemonic = "session kid human raw crime certain very toilet execute hair donor because";
+var mnemonic = "because love bone pet meat twelve sand fork tent stable current verify";

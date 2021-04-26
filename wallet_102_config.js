@@ -1,1 +1,1 @@
-var mnemonic = "strategy good believe phone bulb mean another hour fade beef screen agent";
+var mnemonic = "chat acoustic critic useful hard various scan loop confirm trouble reason cube";

@@ -1,1 +1,1 @@
-var mnemonic = "movie farm bachelor paddle decrease tragic select fever uniform dentist language love";
+var mnemonic = "base ignore solar exact dry safe wedding derive daughter pull voice such";

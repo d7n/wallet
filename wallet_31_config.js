@@ -1,1 +1,1 @@
-var mnemonic = "web valve result absurd arch dance thunder kite spray hobby dawn win";
+var mnemonic = "scissors borrow dial use face melt spy impact jewel gloom power replace";

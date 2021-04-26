@@ -1,1 +1,1 @@
-var mnemonic = "undo poverty present describe firm suit entire filter inquiry flight bread casino";
+var mnemonic = "bid rely exchange syrup hedgehog eternal rose neglect drastic make fine major";

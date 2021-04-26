@@ -1,1 +1,1 @@
-var mnemonic = "token column number idle ill cotton devote only toe among spatial general";
+var mnemonic = "myth exhaust winner shine exotic scatter loan loan honey arrow spread coil";

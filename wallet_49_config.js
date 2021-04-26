@@ -1,1 +1,1 @@
-var mnemonic = "science situate crucial daring swap sure shop corn double fame express half";
+var mnemonic = "pioneer spice virtual insane any very goat april million spider fancy note";

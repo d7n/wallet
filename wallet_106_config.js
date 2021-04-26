@@ -1,1 +1,1 @@
-var mnemonic = "merry salad oak tent draft people admit merge tool tomorrow gown walk";
+var mnemonic = "puppy space job enforce guess tiny route giggle scale corn truck sentence";

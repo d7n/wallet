@@ -1,1 +1,1 @@
-var mnemonic = "plunge struggle drip rather zone audit hand mention cannon scorpion hamster dizzy";
+var mnemonic = "mistake unfair rack clarify student unable during alien prize sock actress garbage";

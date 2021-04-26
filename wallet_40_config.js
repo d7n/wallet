@@ -1,1 +1,1 @@
-var mnemonic = "trophy coast decade sport increase swap perfect mean page ivory deposit spoon";
+var mnemonic = "draw shoulder melody detail net october member remember stem pull mule orient";

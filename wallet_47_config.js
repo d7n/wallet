@@ -1,1 +1,1 @@
-var mnemonic = "gloom ankle close amazing roast card toast region slice east island theory";
+var mnemonic = "fitness remember romance toilet pull rain front arm enhance concert library dutch";

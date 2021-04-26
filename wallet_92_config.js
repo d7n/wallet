@@ -1,1 +1,1 @@
-var mnemonic = "sport inside young umbrella flower nerve toy junior engine panther fiscal demise";
+var mnemonic = "awful ill wash fatigue umbrella make short coast process soul crop crazy";

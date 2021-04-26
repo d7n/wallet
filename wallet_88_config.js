@@ -1,1 +1,1 @@
-var mnemonic = "aspect primary number park close solid appear pear melt shift essence space";
+var mnemonic = "brother alert much metal manage exchange have system direct fragile steel inch";

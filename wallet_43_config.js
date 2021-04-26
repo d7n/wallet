@@ -1,1 +1,1 @@
-var mnemonic = "position deputy axis virtual spread adapt bike rug space client sound innocent";
+var mnemonic = "oven animal credit shiver market renew park ocean sick discover defense shove";

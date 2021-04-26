@@ -1,1 +1,1 @@
-var mnemonic = "bottom easy jeans gain describe hen front exact fiber transfer cancel brave";
+var mnemonic = "upgrade loan burst practice cargo hazard easily neck olive poverty estate provide";

@@ -1,1 +1,1 @@
-var mnemonic = "people little angle unable afraid noodle pause enable inquiry desert have click";
+var mnemonic = "invite creek salon dose accuse rifle grief climb gossip explain wool caution";

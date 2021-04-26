@@ -1,1 +1,1 @@
-var mnemonic = "square income logic display pistol bless myth much asset similar minute recycle";
+var mnemonic = "public artefact deposit alert patrol benefit wire pact distance expand action crisp";

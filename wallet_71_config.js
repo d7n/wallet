@@ -1,1 +1,1 @@
-var mnemonic = "appear unfair sunny deposit jungle pride leisure sample stove measure weekend kit";
+var mnemonic = "section ramp stay clown resemble hospital exhibit position pattern pretty divorce royal";

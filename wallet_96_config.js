@@ -1,1 +1,1 @@
-var mnemonic = "tired trumpet fit dust paper rule snap squeeze turn sort question soda";
+var mnemonic = "cherry jacket mango alone scout permit weekend vapor target truth innocent help";

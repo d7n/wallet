@@ -1,1 +1,1 @@
-var mnemonic = "robot paper settle connect salmon write mercy ski please aim purpose whip";
+var mnemonic = "invite ghost guitar caution mule six tattoo plug boy enroll illness spin";

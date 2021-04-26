@@ -1,1 +1,1 @@
-var mnemonic = "film exact bronze enlist aim reflect ability guide chunk gossip resource rate";
+var mnemonic = "basic guilt day seek essence powder baby spray trust example merge throw";

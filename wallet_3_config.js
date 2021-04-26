@@ -1,1 +1,1 @@
-var mnemonic = "shuffle pledge success advice jacket replace cushion often laptop venture nose inch";
+var mnemonic = "normal over govern race unfair awful half fan harsh jazz clog album";

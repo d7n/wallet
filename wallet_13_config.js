@@ -1,1 +1,1 @@
-var mnemonic = "spatial before cash supreme ice jealous east clock knife curtain zoo woman";
+var mnemonic = "wink gym jelly talk coffee motion swim coast behave gospel swim color";

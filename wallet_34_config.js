@@ -1,1 +1,1 @@
-var mnemonic = "purpose post cool visit perfect project tattoo kitten speed rule reduce apple";
+var mnemonic = "engine glance mango zoo exile drop mixed fade kitten client slogan bamboo";

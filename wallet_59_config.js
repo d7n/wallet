@@ -1,1 +1,1 @@
-var mnemonic = "actual where snack treat oppose churn bird oven install crisp develop taste";
+var mnemonic = "glory boss explain edge width brick sketch inflict person hire forest choice";

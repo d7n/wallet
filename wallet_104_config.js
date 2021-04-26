@@ -1,1 +1,1 @@
-var mnemonic = "stuff echo above family west copy cluster youth home miss satoshi earth";
+var mnemonic = "pool surround deny brand hint lumber pact way thrive indicate athlete celery";

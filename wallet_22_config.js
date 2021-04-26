@@ -1,1 +1,1 @@
-var mnemonic = "account shine afraid oxygen space same much neither hotel unaware depart exact";
+var mnemonic = "march bitter lunch sand trim attitude gentle push tip matter melody flee";

@@ -1,1 +1,1 @@
-var mnemonic = "slab cute quick derive wine tired wrestle cactus fiction question dry cabin";
+var mnemonic = "help grief argue insect cluster grant manage wagon tourist feel aware delay";

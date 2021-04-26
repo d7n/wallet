@@ -1,1 +1,1 @@
-var mnemonic = "basket bulk hawk before south palace source luxury amused trust measure strategy";
+var mnemonic = "margin penalty hammer moral december enact crowd neutral cover tornado attack above";

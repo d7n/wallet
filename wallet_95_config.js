@@ -1,1 +1,1 @@
-var mnemonic = "mirror select pitch winner just toast again tomorrow kick twin online neglect";
+var mnemonic = "feature front elephant will flight reason auction hour core silent cousin volcano";

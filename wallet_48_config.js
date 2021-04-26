@@ -1,1 +1,1 @@
-var mnemonic = "ahead ring second cupboard reflect fun dice craft warm bleak frame omit";
+var mnemonic = "nest van sudden harsh enhance valid soon silly pair need bless edge";

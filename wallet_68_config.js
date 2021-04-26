@@ -1,1 +1,1 @@
-var mnemonic = "shed spring squeeze december around merge submit tag leopard shell amateur gauge";
+var mnemonic = "visual pumpkin squeeze galaxy shove calm mask cradle toy pyramid slice brave";

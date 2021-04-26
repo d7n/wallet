@@ -1,1 +1,1 @@
-var mnemonic = "stock scale snake setup benefit sun shine shift rough occur field power";
+var mnemonic = "glance tourist valve fiction photo extend dune degree image invest ill solar";

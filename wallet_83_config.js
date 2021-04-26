@@ -1,1 +1,1 @@
-var mnemonic = "mind margin rib when machine extend order paper virtual wolf miss mad";
+var mnemonic = "priority slender novel ball bread auction cereal good camp stay talent oyster";

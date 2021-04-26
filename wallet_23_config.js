@@ -1,1 +1,1 @@
-var mnemonic = "genre mesh trigger often inmate belt spell produce system mom lens keen";
+var mnemonic = "above goddess guitar plastic erosion master embark anxiety jungle unit dilemma begin";

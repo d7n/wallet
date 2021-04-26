@@ -1,1 +1,1 @@
-var mnemonic = "stumble replace reject hope venture better puzzle rose click enroll tortoise sail";
+var mnemonic = "cigar unknown across equal deposit drum correct gym layer reunion lady buyer";
