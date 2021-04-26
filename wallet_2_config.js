@@ -1,1 +1,1 @@
-var mnemonic = "index fun basket season gossip tilt coast cheese phone twenty audit bag";
+var mnemonic = "cancel language surprise expect scheme chalk tank shy chief spy wink fabric";

@@ -1,1 +1,1 @@
-var mnemonic = "illegal allow evidence because innocent army into stool clinic merry lawn license";
+var mnemonic = "pole process attract milk glove canvas ketchup gasp merry plunge dog door";

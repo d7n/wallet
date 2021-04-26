@@ -1,1 +1,1 @@
-var mnemonic = "artefact gorilla staff shiver still climb fashion raw speak roast bone blossom";
+var mnemonic = "hybrid liberty gossip tooth quiz rule doll width humor either agree palm";

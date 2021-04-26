@@ -1,1 +1,1 @@
-var mnemonic = "draft valley judge fog table jazz hover narrow slush fresh march luxury";
+var mnemonic = "swarm right slender rib region arena acquire guard tray crisp edit glance";

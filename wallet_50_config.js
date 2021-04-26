@@ -1,1 +1,1 @@
-var mnemonic = "prize multiply million token fix uncle fire rough naive health door intact";
+var mnemonic = "drop hope frequent erosion share ladder cable busy dolphin unit doll nothing";

@@ -1,1 +1,1 @@
-var mnemonic = "panther equip fade more sing giraffe spare bacon hockey cause subway setup";
+var mnemonic = "breeze need broom cruise ignore steel oblige approve decline ankle end flower";

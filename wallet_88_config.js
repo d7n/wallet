@@ -1,1 +1,1 @@
-var mnemonic = "pen north nice noise amateur diary addict brush asset captain fade phone";
+var mnemonic = "decorate area screen banana peanut alcohol despair sign over toe retire predict";

@@ -1,1 +1,1 @@
-var mnemonic = "girl motion ozone chase heart script advance cash film scheme this journey";
+var mnemonic = "mango because cat paddle conduct fuel west obey weather cost romance empower";

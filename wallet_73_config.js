@@ -1,1 +1,1 @@
-var mnemonic = "uphold kiwi knock luggage broom harbor mean differ casual rug swamp barrel";
+var mnemonic = "drum mosquito sorry leisure unknown razor pilot yellow bounce crystal solid truly";

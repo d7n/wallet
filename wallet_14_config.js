@@ -1,1 +1,1 @@
-var mnemonic = "melody measure rookie report control exit medal buffalo know spoil skin sausage";
+var mnemonic = "fog hammer custom garlic bacon original hundred aware combine nothing erase item";

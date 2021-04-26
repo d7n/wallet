@@ -1,1 +1,1 @@
-var mnemonic = "warrior million relax glass what appear arch indicate final panther wagon excess";
+var mnemonic = "junior race pottery page dose bridge donkey muffin winner spider model tide";

@@ -1,1 +1,1 @@
-var mnemonic = "couch crumble grape cactus abandon dash delay avoid tomorrow course detail snow";
+var mnemonic = "decline find grief upset discover prosper jar reward drum common happy cigar";

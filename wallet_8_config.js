@@ -1,1 +1,1 @@
-var mnemonic = "element remove visit famous pause ordinary shift profit mobile reopen fox grape";
+var mnemonic = "board emotion knife under atom atom lamp teach control used library rather";

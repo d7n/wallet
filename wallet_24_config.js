@@ -1,1 +1,1 @@
-var mnemonic = "attract life afraid client grab stairs trumpet ready body damage boy fatigue";
+var mnemonic = "chalk slim way stereo aisle earth detail elevator explain twin nest very";

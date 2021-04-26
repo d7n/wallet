@@ -1,1 +1,1 @@
-var mnemonic = "retreat humble fault mom devote rural garbage collect struggle horror shallow outer";
+var mnemonic = "tilt analyst raccoon weapon garage inflict sunset motor diamond snack elite title";

@@ -1,1 +1,1 @@
-var mnemonic = "comic extend update smile cushion holiday wealth guitar route initial sniff symptom";
+var mnemonic = "solution room topic sail bulk ice boy fiction engine illegal coach prize";

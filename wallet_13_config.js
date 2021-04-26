@@ -1,1 +1,1 @@
-var mnemonic = "swim leader small grain stove naive strong ancient harbor feature filter drip";
+var mnemonic = "bar wrong foot speak talent female hello elevator human skill boss urban";

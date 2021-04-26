@@ -1,1 +1,1 @@
-var mnemonic = "velvet box toddler shrimp sense draft sing hero album meadow staff refuse";
+var mnemonic = "nerve census board item van quit myth drama volcano stuff kidney loop";

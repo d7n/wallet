@@ -1,1 +1,1 @@
-var mnemonic = "inch distance funny silver smart flame blush obtain there alone phone market";
+var mnemonic = "venture enhance field budget eager idle diet stand reduce blur use impose";

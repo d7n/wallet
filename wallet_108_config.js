@@ -1,1 +1,1 @@
-var mnemonic = "depend neither ring climb wrap purse shadow lunar peasant fantasy medal moral";
+var mnemonic = "exchange east minimum two alter salt device rail gap trend ozone expand";

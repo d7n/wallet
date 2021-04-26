@@ -1,1 +1,1 @@
-var mnemonic = "artist typical praise yard spawn road neutral scorpion assume morning senior turn";
+var mnemonic = "rotate hawk slot uncle endless glory pride answer air wolf weekend say";

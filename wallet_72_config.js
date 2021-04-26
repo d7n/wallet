@@ -1,1 +1,1 @@
-var mnemonic = "garment wine kitchen small squirrel empower cash scare valve pledge belt into";
+var mnemonic = "spoon record elegant demise urge cross attack vote blush trick salt brown";

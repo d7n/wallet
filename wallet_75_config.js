@@ -1,1 +1,1 @@
-var mnemonic = "suggest super slam mistake couch beach reunion lift image wrap south spell";
+var mnemonic = "busy fox wheel prepare dirt venture cycle elevator coral promote unfold decrease";

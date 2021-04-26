@@ -1,1 +1,1 @@
-var mnemonic = "arrive pact meadow pulp punch category advance use adapt matrix inhale suspect";
+var mnemonic = "own seven evolve nose fancy sister smile core crucial estate clump purchase";

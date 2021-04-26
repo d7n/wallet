@@ -1,1 +1,1 @@
-var mnemonic = "doll siren snack great world rubber spy category jeans lesson umbrella merit";
+var mnemonic = "later bright barrel rule march pumpkin service chase present retreat polar earth";

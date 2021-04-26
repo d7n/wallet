@@ -1,1 +1,1 @@
-var mnemonic = "wheel slush deal myself wagon spin promote visit drama mixture half almost";
+var mnemonic = "supply debate before chuckle print desk custom picnic key broken chronic spell";

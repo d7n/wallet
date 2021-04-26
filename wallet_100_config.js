@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow cross dog laugh rice unable wheat method merge swallow feed noodle";
+var mnemonic = "federal bean letter green someone mimic found wrist father book torch tent";

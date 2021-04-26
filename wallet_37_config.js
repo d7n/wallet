@@ -1,1 +1,1 @@
-var mnemonic = "axis reunion bitter possible forum glow ghost amateur upon clay demise hotel";
+var mnemonic = "soda dad kangaroo candy agree expand edit distance unhappy van convince jealous";

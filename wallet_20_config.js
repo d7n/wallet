@@ -1,1 +1,1 @@
-var mnemonic = "endorse fiscal change rate weasel woman bulk famous rebuild fun scatter session";
+var mnemonic = "client suffer tired ready grass error pear visual time word empower shy";

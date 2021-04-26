@@ -1,1 +1,1 @@
-var mnemonic = "vacuum sweet core dial include hill face lounge style vacuum behave domain";
+var mnemonic = "margin wrap tortoise stable goat team pull quit goose render shoe wealth";

@@ -1,1 +1,1 @@
-var mnemonic = "summer elephant explain merry canal access immense orchard thought omit gossip illness";
+var mnemonic = "nation eager mind category picture pencil cable brass butter thrive resource sausage";

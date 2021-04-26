@@ -1,1 +1,1 @@
-var mnemonic = "owner cute heart warrior shiver bounce below prize fine slush smart quick";
+var mnemonic = "father cry small radio supreme arrow rigid upset version bean minor fall";

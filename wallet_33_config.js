@@ -1,1 +1,1 @@
-var mnemonic = "uphold couple castle magnet gasp credit proud pioneer casino whip have olive";
+var mnemonic = "ceiling want boil foil course brown voice supreme present mail tiny plug";

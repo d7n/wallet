@@ -1,1 +1,1 @@
-var mnemonic = "guilt trial robust crush session believe fish post merge erase pioneer glue";
+var mnemonic = "pepper disorder angle husband lens deny actual swamp kick parrot faculty peasant";

@@ -1,1 +1,1 @@
-var mnemonic = "indoor cloth cheap project cattle novel music example derive exhibit gentle fame";
+var mnemonic = "fiction wing nice coconut tobacco wink van vendor floor planet occur absent";

@@ -1,1 +1,1 @@
-var mnemonic = "leader woman minimum obtain science town advance soap south warm eager female";
+var mnemonic = "clog soccer put host club arrange electric barrel fetch object table side";

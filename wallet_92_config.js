@@ -1,1 +1,1 @@
-var mnemonic = "nurse bread weekend extend inhale frown auto police diesel digital talent oven";
+var mnemonic = "mobile upon lamp flip exhaust essay enhance raw control secret stage upper";

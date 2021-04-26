@@ -1,1 +1,1 @@
-var mnemonic = "little treat erode inspire great cattle virtual sausage replace address title dolphin";
+var mnemonic = "exhaust afraid battle chest exit top cave nose miracle begin spend private";

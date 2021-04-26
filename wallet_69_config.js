@@ -1,1 +1,1 @@
-var mnemonic = "harvest lens fork museum output visual canoe hole assault scene grain mask";
+var mnemonic = "unaware desk ignore erase pelican toddler digital swim predict knock milk emotion";

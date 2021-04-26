@@ -1,1 +1,1 @@
-var mnemonic = "upper battle squirrel october chapter that payment figure hip frog dumb reopen";
+var mnemonic = "grocery blood modify glide amazing entire indicate credit inhale horn trophy ridge";

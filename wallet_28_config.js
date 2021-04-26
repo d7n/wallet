@@ -1,1 +1,1 @@
-var mnemonic = "rack mimic opera pause poem scene december old lecture sheriff blood eagle";
+var mnemonic = "struggle quote flush buyer artist simple shy current amateur evidence general fog";

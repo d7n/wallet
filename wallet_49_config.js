@@ -1,1 +1,1 @@
-var mnemonic = "used issue noble almost fade coyote machine tissue orbit loyal never negative";
+var mnemonic = "current bulk weapon between arch famous unusual found kiss water cable female";

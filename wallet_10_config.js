@@ -1,1 +1,1 @@
-var mnemonic = "uniform method they mountain parrot agent welcome wool merit corn ancient depend";
+var mnemonic = "print puppy develop unfold nest loop bubble glue truck source guide hurt";

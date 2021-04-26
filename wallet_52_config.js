@@ -1,1 +1,1 @@
-var mnemonic = "wet rubber rail tennis ancient parrot squeeze bacon horn legend illegal soldier";
+var mnemonic = "basic brother stool injury tip tonight tag onion camera detect keen wise";

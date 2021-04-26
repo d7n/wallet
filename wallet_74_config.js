@@ -1,1 +1,1 @@
-var mnemonic = "nephew myth target lemon attack disease process fashion canyon kiss cradle demise";
+var mnemonic = "afraid almost celery valley ladder file drop govern meat disorder service taxi";

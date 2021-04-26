@@ -1,1 +1,1 @@
-var mnemonic = "fade detect dash job faculty payment garage auction example lab differ enter";
+var mnemonic = "wild silver voyage cave daughter enjoy ski exhaust label vacant crunch help";

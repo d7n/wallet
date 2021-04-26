@@ -1,1 +1,1 @@
-var mnemonic = "early result dial tuna action turn burger peanut churn tag disease theme";
+var mnemonic = "decorate walk fortune cup maple squirrel protect skate brave lizard tube pair";

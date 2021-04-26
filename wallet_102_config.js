@@ -1,1 +1,1 @@
-var mnemonic = "crisp until lock fever subway phone vault off bike file approve grunt";
+var mnemonic = "wrong clump ribbon pool lend video shiver good okay furnace alarm chunk";

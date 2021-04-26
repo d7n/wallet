@@ -1,1 +1,1 @@
-var mnemonic = "lounge episode disorder stand pact dwarf foster impulse citizen best stereo jar";
+var mnemonic = "fluid valve goat peanut divide nut hospital rebuild board own census wet";

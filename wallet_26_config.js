@@ -1,1 +1,1 @@
-var mnemonic = "oblige scissors guess radio elite tissue half marble merge curtain valid brother";
+var mnemonic = "very dawn other bag velvet voyage pretty wrestle sound media ill fix";

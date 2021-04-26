@@ -1,1 +1,1 @@
-var mnemonic = "staff hazard witness rude atom throw favorite result approve random snap proof";
+var mnemonic = "size valley treat private song dice guess soft city shield father exile";

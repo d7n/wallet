@@ -1,1 +1,1 @@
-var mnemonic = "work ostrich swallow service slot regret try flower help eager unhappy jungle";
+var mnemonic = "right bounce crucial three tube evoke inner solar denial nature million drive";

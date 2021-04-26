@@ -1,1 +1,1 @@
-var mnemonic = "front supreme chair law idle aerobic tiger toe glass found joke neck";
+var mnemonic = "dinner arctic february lesson gauge chunk program claw wait public nation gauge";

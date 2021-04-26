@@ -1,1 +1,1 @@
-var mnemonic = "ask turtle drill river icon sleep day gather penalty crime over task";
+var mnemonic = "breeze funny void copper swap essence attend conduct pepper fence duck federal";

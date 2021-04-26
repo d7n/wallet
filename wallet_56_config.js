@@ -1,1 +1,1 @@
-var mnemonic = "injury tip half tissue tooth vibrant volume sibling issue ceiling basket gain";
+var mnemonic = "rebel joke tube uncle grocery pyramid bridge sand text equip else citizen";

@@ -1,1 +1,1 @@
-var mnemonic = "zone submit stock proud save sea jaguar federal search silent topic relief";
+var mnemonic = "wisdom scheme keen federal throw ocean enrich step exclude pupil blame tumble";

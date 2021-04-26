@@ -1,1 +1,1 @@
-var mnemonic = "flock play candy evidence visit patrol uncover purchase acoustic ostrich velvet neither";
+var mnemonic = "proud blossom tooth since very soup road front outside sort flower moral";

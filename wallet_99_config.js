@@ -1,1 +1,1 @@
-var mnemonic = "real mimic rally silent gossip pluck soap wish sad argue icon other";
+var mnemonic = "raise proud employ boy never example benefit supply crane early angle please";

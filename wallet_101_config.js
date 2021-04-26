@@ -1,1 +1,1 @@
-var mnemonic = "narrow raven popular cotton science miss february awake bleak satisfy still speak";
+var mnemonic = "bone neutral amused pause repeat smooth destroy joy suspect mixture robust bitter";

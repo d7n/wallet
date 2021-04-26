@@ -1,1 +1,1 @@
-var mnemonic = "soup split cover case theme relax penalty page actual twenty bronze region";
+var mnemonic = "bridge admit toddler pluck license music pilot never light job ivory broom";

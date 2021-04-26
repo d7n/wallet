@@ -1,1 +1,1 @@
-var mnemonic = "hurt city smile nuclear hidden kit enroll season rib mirror gravity sail";
+var mnemonic = "reunion entry intact drum birth lecture join immune loyal crowd raccoon glad";

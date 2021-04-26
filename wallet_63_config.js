@@ -1,1 +1,1 @@
-var mnemonic = "legal warrior syrup issue motor manage history pill stomach dance stage start";
+var mnemonic = "frost obscure garbage finish target donkey fruit tribe design dumb cabin mutual";

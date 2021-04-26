@@ -1,1 +1,1 @@
-var mnemonic = "glue glance prosper toss coyote airport potato deputy ask old quantum aim";
+var mnemonic = "company solid rescue primary bubble kind escape frost lend guess wing soda";

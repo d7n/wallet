@@ -1,1 +1,1 @@
-var mnemonic = "drama ring next devote wait hotel sentence nice famous stairs defy sort";
+var mnemonic = "napkin shadow capital fork sun skirt run physical liberty feed detect adjust";

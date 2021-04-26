@@ -1,1 +1,1 @@
-var mnemonic = "world gorilla fame absent pistol deposit spike will enforce tattoo edge ice";
+var mnemonic = "topic crystal lamp steel assume wolf rely craft grief inquiry finger antique";

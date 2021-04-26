@@ -1,1 +1,1 @@
-var mnemonic = "only couple fat another loyal alien fault call damp since ahead hood";
+var mnemonic = "vocal purity apart rack exclude kingdom excite message enlist grace floor genius";

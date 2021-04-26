@@ -1,1 +1,1 @@
-var mnemonic = "kit arena captain bulk buddy connect normal around island fuel ranch liberty";
+var mnemonic = "throw north confirm recall shoot fog man similar negative possible useful find";

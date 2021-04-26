@@ -1,1 +1,1 @@
-var mnemonic = "vivid rubber amazing cancel solar comfort vibrant angry large stuff poverty turkey";
+var mnemonic = "tribe buzz word mail video color club occur scale frozen faculty direct";

@@ -1,1 +1,1 @@
-var mnemonic = "include canal unlock sea social fold you knock witness trust bless web";
+var mnemonic = "toward victory swear suit wage tide silk biology scare cream secret pink";

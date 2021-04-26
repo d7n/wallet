@@ -1,1 +1,1 @@
-var mnemonic = "canoe disorder switch focus drive broccoli meadow choose flat kiwi crop spring";
+var mnemonic = "limit early word sheriff mistake curious deposit large reward soft mean initial";

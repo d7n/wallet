@@ -1,1 +1,1 @@
-var mnemonic = "comic wrestle floor table near brand repair impulse cigar book magnet drum";
+var mnemonic = "shy improve fantasy exit surge slogan insane april blood lucky area chicken";

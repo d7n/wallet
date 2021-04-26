@@ -1,1 +1,1 @@
-var mnemonic = "input party reform hidden title final bright dad tiny eyebrow pilot torch";
+var mnemonic = "town text connect tumble hill fragile elevator kidney flat office focus giggle";

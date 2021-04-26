@@ -1,1 +1,1 @@
-var mnemonic = "utility high arch motion regret curve primary visa fruit crew leave spirit";
+var mnemonic = "student umbrella clock mail mail embrace bronze orchard draw silk employ armor";

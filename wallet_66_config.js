@@ -1,1 +1,1 @@
-var mnemonic = "glow wife sheriff rose ordinary spike settle burden stereo defense uniform october";
+var mnemonic = "deny liquid absurd vehicle glare seven burst curious ask sketch stock jar";

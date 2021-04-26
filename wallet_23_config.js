@@ -1,1 +1,1 @@
-var mnemonic = "whale else cabin elephant grab turtle enforce change cabbage wild access discover";
+var mnemonic = "magnet bind dynamic digital tired grant dash burden despair shrug enemy name";

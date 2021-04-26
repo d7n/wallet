@@ -1,1 +1,1 @@
-var mnemonic = "profit common lunar captain pill divert ivory inflict album fashion proof casino";
+var mnemonic = "merry crew wreck snack today elder execute menu danger priority check shop";

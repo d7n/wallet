@@ -1,1 +1,1 @@
-var mnemonic = "fiscal lemon elegant brick umbrella erosion hazard picture chalk zone clarify print";
+var mnemonic = "consider midnight phone good onion crumble describe census parade govern diet awful";

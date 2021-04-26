@@ -1,1 +1,1 @@
-var mnemonic = "myself you kit have soldier shrug birth garbage royal swift poet industry";
+var mnemonic = "truck carbon cheap motor dirt vacant welcome athlete vivid arctic group raise";

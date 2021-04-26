@@ -1,1 +1,1 @@
-var mnemonic = "arch modify hotel ribbon help wrist assume devote follow stairs advice erode";
+var mnemonic = "present unveil potato assault plug dwarf mix delay play umbrella tag banner";

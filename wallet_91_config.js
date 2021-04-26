@@ -1,1 +1,1 @@
-var mnemonic = "canoe easily inmate source kitchen birth husband vote rescue club shell fossil";
+var mnemonic = "super spawn raccoon window canvas motion emerge aunt cupboard damp impulse trust";

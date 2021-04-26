@@ -1,1 +1,1 @@
-var mnemonic = "vehicle huge affair make chest drink book voice fee bean museum leave";
+var mnemonic = "goose explain name concert valve vote stock thunder glow friend harvest print";

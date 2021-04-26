@@ -1,1 +1,1 @@
-var mnemonic = "maze room reduce stem drill aim service pipe actor viable legend outer";
+var mnemonic = "mirror album dwarf coach acid face pitch train umbrella butter hill utility";

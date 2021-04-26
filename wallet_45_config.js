@@ -1,1 +1,1 @@
-var mnemonic = "unusual around trophy receive train wrist remind cluster embody super toilet repeat";
+var mnemonic = "parent advance verb pupil gadget drink ankle update asset million thank juice";

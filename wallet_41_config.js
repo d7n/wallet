@@ -1,1 +1,1 @@
-var mnemonic = "sport short upset dolphin turtle swarm entire heavy bubble rose thunder prepare";
+var mnemonic = "divert glow enforce oblige taxi enough armed promote choice same vault magnet";

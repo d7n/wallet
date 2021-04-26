@@ -1,1 +1,1 @@
-var mnemonic = "test margin host grow oxygen message glad couch benefit script yellow later";
+var mnemonic = "cactus novel table laundry grit iron ribbon educate girl number accident boss";

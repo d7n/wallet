@@ -1,1 +1,1 @@
-var mnemonic = "magic oblige enact supreme climb ball coin inspire hybrid mystery caught delay";
+var mnemonic = "stadium assault come scissors knee lemon scan chest convince random cabbage matrix";

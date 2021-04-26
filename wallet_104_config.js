@@ -1,1 +1,1 @@
-var mnemonic = "deny arrest vehicle fruit own course sunset license erosion slab layer grunt";
+var mnemonic = "tip knock differ make civil syrup hub token easily focus lift velvet";

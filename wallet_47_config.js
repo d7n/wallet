@@ -1,1 +1,1 @@
-var mnemonic = "rice country physical thrive frog furnace object topple vast fork insect benefit";
+var mnemonic = "host rally bread model march resource cabbage refuse once squirrel vintage share";

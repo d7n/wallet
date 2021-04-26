@@ -1,1 +1,1 @@
-var mnemonic = "great around limit suit unknown rapid danger regular shove sustain vital regular";
+var mnemonic = "place voyage small panic title flee arrange trophy expire dish group april";

@@ -1,1 +1,1 @@
-var mnemonic = "perfect wife scale capital army brass sound wolf catch accident south recycle";
+var mnemonic = "neglect usage wife wish sudden palace lunch crime crack shoe budget derive";
