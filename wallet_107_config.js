@@ -1,1 +1,1 @@
-var mnemonic = "nephew love excite hobby satisfy rocket pumpkin baby cat grow fame repeat";
+var mnemonic = "trumpet oxygen stand gym excite give wagon gaze winter double clutch spray";

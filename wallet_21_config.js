@@ -1,1 +1,1 @@
-var mnemonic = "yellow forget gadget retreat siren coil rib float paper bless mirror goddess";
+var mnemonic = "sight you income habit hip direct chicken observe cross vote festival easy";

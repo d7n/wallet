@@ -1,1 +1,1 @@
-var mnemonic = "tuition bike bright swap fatigue task want elder canoe churn luggage rain";
+var mnemonic = "inherit loyal weapon now swallow wine marine sphere antique mean become odor";

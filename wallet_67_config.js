@@ -1,1 +1,1 @@
-var mnemonic = "ritual emerge fault person swap host news ticket ability host clump file";
+var mnemonic = "picture poverty barrel survey old utility tray physical stay van drop fancy";

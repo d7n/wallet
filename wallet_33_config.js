@@ -1,1 +1,1 @@
-var mnemonic = "nut stick project true detect cousin happy filter viable three bottom brief";
+var mnemonic = "slow box provide fall clog wrap chase evil split length help eager";

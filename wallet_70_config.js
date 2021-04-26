@@ -1,1 +1,1 @@
-var mnemonic = "miss library brand drill judge neck radio diagram benefit allow senior trophy";
+var mnemonic = "either vivid infant mutual happy old chronic camera stick scare motor damage";

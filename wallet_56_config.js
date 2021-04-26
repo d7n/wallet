@@ -1,1 +1,1 @@
-var mnemonic = "ketchup table strong whale surface response sphere antenna boss anxiety sponsor spatial";
+var mnemonic = "husband become broken arrive gas salt shine treat useless draft battle despair";

@@ -1,1 +1,1 @@
-var mnemonic = "measure quit gentle year burst wagon all remain way tide strong poet";
+var mnemonic = "duck crucial prosper differ vast common grab harvest lyrics lift wash extend";

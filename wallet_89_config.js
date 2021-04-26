@@ -1,1 +1,1 @@
-var mnemonic = "hobby material visa hard picture price inspire frozen image indicate weekend curve";
+var mnemonic = "enforce learn expire science parade error test effort jelly cake romance issue";

@@ -1,1 +1,1 @@
-var mnemonic = "wheel say wire impose slogan regret actual glory board soul mass hood";
+var mnemonic = "face spray hood tennis input science cart swap velvet popular soldier split";

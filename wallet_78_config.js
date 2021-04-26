@@ -1,1 +1,1 @@
-var mnemonic = "sentence wreck actor home bullet concert tide knock problem network lumber lyrics";
+var mnemonic = "detail order girl artist sample indicate seven proud result image sadness caught";

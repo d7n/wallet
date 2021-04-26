@@ -1,1 +1,1 @@
-var mnemonic = "diary advice end suffer acoustic target arena topic silk lab summer giraffe";
+var mnemonic = "trophy radar lyrics vague clinic shine club entry emotion fine tunnel flee";

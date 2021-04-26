@@ -1,1 +1,1 @@
-var mnemonic = "same brass trouble essay board athlete false tortoise virus valley belt motion";
+var mnemonic = "bronze material minor myself weasel sample holiday educate base flash bread hybrid";

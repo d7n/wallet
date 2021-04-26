@@ -1,1 +1,1 @@
-var mnemonic = "that boy eager carpet tobacco cactus soft hold talent document wash degree";
+var mnemonic = "follow raven also aim feel use team slab antenna spoil shove liberty";

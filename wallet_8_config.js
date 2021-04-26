@@ -1,1 +1,1 @@
-var mnemonic = "online stove slogan marriage across make lock stove hidden riot cool rough";
+var mnemonic = "dynamic angry good state clump taxi suit old lemon wire pave stage";

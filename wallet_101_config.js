@@ -1,1 +1,1 @@
-var mnemonic = "fragile owner taxi they word crucial solve cause iron rug hour toy";
+var mnemonic = "comic away rotate broccoli endless width jeans bracket pistol alley flip glue";

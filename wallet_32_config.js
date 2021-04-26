@@ -1,1 +1,1 @@
-var mnemonic = "trophy similar tenant scorpion boat useful tuition concert across remove arena crazy";
+var mnemonic = "teach real world sell before tortoise spider you oven course patient essay";

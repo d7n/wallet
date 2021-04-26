@@ -1,1 +1,1 @@
-var mnemonic = "nation chimney palace metal column copy lion more ticket give other twice";
+var mnemonic = "clip pitch find fancy boring coast photo area foam valley paper poverty";

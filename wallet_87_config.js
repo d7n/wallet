@@ -1,1 +1,1 @@
-var mnemonic = "spice pupil quality donate ordinary flight immune desk ticket step creek city";
+var mnemonic = "adjust bright hurt river dinner convince absurd hold member pig minimum legend";

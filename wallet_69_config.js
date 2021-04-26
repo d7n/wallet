@@ -1,1 +1,1 @@
-var mnemonic = "kidney crack pet about craft when cement bulb mouse labor pet hello";
+var mnemonic = "plastic worth enroll vacant scale iron gasp faith kiss mobile daughter differ";

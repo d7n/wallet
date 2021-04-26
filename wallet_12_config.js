@@ -1,1 +1,1 @@
-var mnemonic = "method disease ability normal pulp glide scene comfort sing laundry rebel ugly";
+var mnemonic = "seat circle pelican saddle vapor shoot gravity voice use wreck secret easily";

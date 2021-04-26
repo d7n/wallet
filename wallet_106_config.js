@@ -1,1 +1,1 @@
-var mnemonic = "between foam ship chat arena bar disagree void capable like dynamic cigar";
+var mnemonic = "useful embark release clap august journey turkey crucial bitter attract truck scale";

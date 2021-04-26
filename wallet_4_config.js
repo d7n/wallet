@@ -1,1 +1,1 @@
-var mnemonic = "family harsh inner police public garage symbol flag matrix duty juice what";
+var mnemonic = "crunch congress buffalo danger dragon plunge village renew rapid square edit force";

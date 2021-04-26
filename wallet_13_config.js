@@ -1,1 +1,1 @@
-var mnemonic = "biology panther person love depth hire field citizen bunker island public park";
+var mnemonic = "life canvas paddle grass goose grain first opera rib reflect review laugh";

@@ -1,1 +1,1 @@
-var mnemonic = "guard crash labor spring raw setup maze castle sell anger dwarf chief";
+var mnemonic = "deputy nice sort cement place elephant minor shoot brief frequent prefer sausage";

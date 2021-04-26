@@ -1,1 +1,1 @@
-var mnemonic = "need rich resist cupboard birth toy crater police wool kick prosper boat";
+var mnemonic = "draft decade salt coast thing panel illegal snack verify deliver confirm author";

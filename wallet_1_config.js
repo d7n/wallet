@@ -1,1 +1,1 @@
-var mnemonic = "witness hair yellow tilt bid render cake traffic repeat notice owner viable";
+var mnemonic = "garbage stay reopen struggle settle kitten lend fortune festival slot hire miracle";

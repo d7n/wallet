@@ -1,1 +1,1 @@
-var mnemonic = "omit glory math economy stay physical slight filter prosper purpose steel umbrella";
+var mnemonic = "license peasant capable pilot solution embody shed curious dog much rocket purse";

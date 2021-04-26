@@ -1,1 +1,1 @@
-var mnemonic = "quick current model opinion tumble nerve load two ring twelve social dash";
+var mnemonic = "essence nominee smooth despair vintage ripple element chef evidence illness moral stamp";

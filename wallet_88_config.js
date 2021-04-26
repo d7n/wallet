@@ -1,1 +1,1 @@
-var mnemonic = "ill cinnamon near black cross girl lounge reunion aerobic album inquiry wolf";
+var mnemonic = "surge happy gaze pink arrow found film buffalo satoshi need appear soccer";

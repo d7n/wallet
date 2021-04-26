@@ -1,1 +1,1 @@
-var mnemonic = "order lonely settle index future jar rival top combine river save square";
+var mnemonic = "enhance sort burst flavor space water clog broom hand learn hurt giggle";

@@ -1,1 +1,1 @@
-var mnemonic = "pizza saddle bridge family friend collect snack property solve fabric release army";
+var mnemonic = "tragic afford level cruel rival swallow load assume balcony weapon section canoe";

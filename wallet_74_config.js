@@ -1,1 +1,1 @@
-var mnemonic = "hospital ethics frame business say track jelly pigeon sauce oak pipe vehicle";
+var mnemonic = "trade select unaware style female fiscal equip extend rich wise only donor";

@@ -1,1 +1,1 @@
-var mnemonic = "caution donor frequent labor session thrive nut together misery envelope crystal jelly";
+var mnemonic = "album weapon consider okay anchor first lucky reform royal recall ticket index";

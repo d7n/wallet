@@ -1,1 +1,1 @@
-var mnemonic = "run matrix seat pigeon kick reason tomorrow neither bomb random cushion diamond";
+var mnemonic = "update speak domain remain guilt spring fragile party enough file about field";

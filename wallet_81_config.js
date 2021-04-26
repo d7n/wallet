@@ -1,1 +1,1 @@
-var mnemonic = "gauge action return bachelor skill ivory slide brisk response patrol correct detail";
+var mnemonic = "tail detect inform crucial net memory shell search shop index chapter cheese";

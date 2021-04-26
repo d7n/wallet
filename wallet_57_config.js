@@ -1,1 +1,1 @@
-var mnemonic = "city journey neglect rate boost cave wire tuna type rabbit item stairs";
+var mnemonic = "life abstract clinic elbow mushroom pulp any opinion vendor punch ecology brisk";

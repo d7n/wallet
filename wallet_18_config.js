@@ -1,1 +1,1 @@
-var mnemonic = "kingdom leg fault planet stable wet burst develop post saddle space hedgehog";
+var mnemonic = "more phrase gain furnace hawk hybrid weather brass census flavor bottom pulp";

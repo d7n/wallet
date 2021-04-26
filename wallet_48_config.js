@@ -1,1 +1,1 @@
-var mnemonic = "prison lecture gaze fantasy rapid soup first pottery globe bamboo village solid";
+var mnemonic = "girl theory venture ranch grief happy twin yard section extra try mean";

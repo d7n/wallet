@@ -1,1 +1,1 @@
-var mnemonic = "flame address dish horn muffin casino city master outer purity sadness short";
+var mnemonic = "absorb crumble bonus farm bomb portion talent split pet act palm truck";

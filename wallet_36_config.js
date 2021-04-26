@@ -1,1 +1,1 @@
-var mnemonic = "project tree rookie glide nasty dawn awesome tortoise leg magnet pool boat";
+var mnemonic = "toddler trash naive boss collect decide hen human clip harbor short suffer";

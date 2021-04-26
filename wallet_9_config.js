@@ -1,1 +1,1 @@
-var mnemonic = "hawk secret robot member know wheel broom end mix witness stomach soldier";
+var mnemonic = "among chalk treat dose symbol coil disagree since model pretty grape imitate";

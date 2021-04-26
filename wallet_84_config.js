@@ -1,1 +1,1 @@
-var mnemonic = "edit faith joy grain two cake use nuclear obtain embody remain ranch";
+var mnemonic = "forest barrel reject share three curtain senior dragon diesel neglect illness leisure";

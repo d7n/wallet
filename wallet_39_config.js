@@ -1,1 +1,1 @@
-var mnemonic = "safe empower pledge camp fabric alone drama pumpkin artefact drive brown army";
+var mnemonic = "distance outer surprise winner dry confirm fire material vague oil moon author";

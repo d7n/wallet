@@ -1,1 +1,1 @@
-var mnemonic = "world affair sentence gallery table where basic elder slam tomorrow lady plastic";
+var mnemonic = "smoke bread fancy love solve solve medal soda pig admit bless wisdom";

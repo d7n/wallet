@@ -1,1 +1,1 @@
-var mnemonic = "lion alert slice hope monkey goose stock repair idle decrease oven blanket";
+var mnemonic = "toddler alarm noodle result chimney tool cactus marble blast minimum maid episode";

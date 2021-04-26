@@ -1,1 +1,1 @@
-var mnemonic = "scout dust donkey popular palm way electric scan antenna belt cruise busy";
+var mnemonic = "sting luxury famous sick object penalty wheat purchase enroll major clown winner";

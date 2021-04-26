@@ -1,1 +1,1 @@
-var mnemonic = "guess taxi girl issue sing earn west trust limit rotate course travel";
+var mnemonic = "repair melt ostrich taxi powder alone razor soup kick strike stool rather";

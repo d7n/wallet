@@ -1,1 +1,1 @@
-var mnemonic = "sock immune uncover token between catalog great almost volcano true join tilt";
+var mnemonic = "thank surround theory wall enhance school suspect rural lift table sting bean";

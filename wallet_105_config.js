@@ -1,1 +1,1 @@
-var mnemonic = "type assume course river pottery turn law mistake rhythm salmon early lottery";
+var mnemonic = "letter useless young husband injury similar genuine pride trumpet uncle shoulder push";

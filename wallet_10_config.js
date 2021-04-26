@@ -1,1 +1,1 @@
-var mnemonic = "aerobic trumpet flame few crunch pitch often neither solar crater general trim";
+var mnemonic = "quarter ball board weapon pause muscle term dawn inherit harbor love beach";

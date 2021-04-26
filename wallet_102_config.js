@@ -1,1 +1,1 @@
-var mnemonic = "depend creek human across kit job mother cousin mask elegant illegal street";
+var mnemonic = "include enforce another equal tissue isolate host broken chuckle book response drift";

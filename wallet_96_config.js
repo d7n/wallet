@@ -1,1 +1,1 @@
-var mnemonic = "orange emotion pioneer valve air honey marine blast mail planet issue inmate";
+var mnemonic = "sea water actress seed client step robust top inject leader excess develop";

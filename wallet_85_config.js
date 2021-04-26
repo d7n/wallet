@@ -1,1 +1,1 @@
-var mnemonic = "month rifle trigger art brown swing blossom thank oxygen victory ball setup";
+var mnemonic = "hen fortune sleep upon violin river divide wedding tumble level small youth";

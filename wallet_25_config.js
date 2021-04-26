@@ -1,1 +1,1 @@
-var mnemonic = "future cage fold remember dream debate glass orchard senior enemy idea capable";
+var mnemonic = "decade exist tone vital flower radar like dolphin remain arctic where priority";

@@ -1,1 +1,1 @@
-var mnemonic = "wall then rug describe cat educate relief industry garlic horse rather pull";
+var mnemonic = "fancy inquiry cook tennis wasp stool people ritual language arrest used fault";

@@ -1,1 +1,1 @@
-var mnemonic = "egg inhale music post flavor fine text duty stamp drastic ethics endorse";
+var mnemonic = "across scout bar raw curtain visa assault unfair ski arch nest bullet";

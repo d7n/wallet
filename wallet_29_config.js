@@ -1,1 +1,1 @@
-var mnemonic = "place ordinary small initial lizard else run employ shield rude mushroom tumble";
+var mnemonic = "anger jealous donkey juice lend coin tennis pulp envelope soul enough female";

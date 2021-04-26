@@ -1,1 +1,1 @@
-var mnemonic = "angle obtain milk found sister swift limb kidney armed damage lazy above";
+var mnemonic = "level garden dash tomorrow client arm adult possible found crush tomato ship";

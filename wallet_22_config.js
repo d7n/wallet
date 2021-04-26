@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow brush divide clean property bonus under dawn there grace frame rice";
+var mnemonic = "science plate call half limb dad soon pitch cruise among cycle twice";

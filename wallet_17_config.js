@@ -1,1 +1,1 @@
-var mnemonic = "build prefer now picnic theme weapon legend dutch crush naive diagram dragon";
+var mnemonic = "kind misery say pole endorse power sing couch now movie supply busy";

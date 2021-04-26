@@ -1,1 +1,1 @@
-var mnemonic = "blur cause satoshi retreat alpha hundred bubble funny ocean jazz average century";
+var mnemonic = "motion donor easily vacuum venture inherit travel exotic bullet royal leader abandon";

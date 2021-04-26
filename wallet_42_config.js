@@ -1,1 +1,1 @@
-var mnemonic = "coil confirm jump noodle popular page moon pride prosper dash vague color";
+var mnemonic = "rigid menu urban betray sand excuse exile myth anxiety negative match early";

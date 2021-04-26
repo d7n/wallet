@@ -1,1 +1,1 @@
-var mnemonic = "coin struggle enhance runway goddess happy popular adapt organ phrase beef acoustic";
+var mnemonic = "kitchen wreck doctor there trick divert describe attend favorite logic deputy width";

@@ -1,1 +1,1 @@
-var mnemonic = "noise plastic trophy someone caught blush garage female talent whisper boring can";
+var mnemonic = "example radar angry panda prepare oyster know govern glimpse fetch rain sunset";

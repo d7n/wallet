@@ -1,1 +1,1 @@
-var mnemonic = "curtain craft toe group era letter online program symptom inner link hotel";
+var mnemonic = "spice until discover echo private grit black empty ensure normal bottom love";

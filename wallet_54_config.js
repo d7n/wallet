@@ -1,1 +1,1 @@
-var mnemonic = "pigeon foster tourist purity royal cotton prize evil offer october army rent";
+var mnemonic = "scene puppy inform burst second bottom bridge second muffin hub bubble zone";

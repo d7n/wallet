@@ -1,1 +1,1 @@
-var mnemonic = "minute empty shove pause goddess hidden cycle subject provide left sniff team";
+var mnemonic = "scorpion awake stomach detail like solve venue bike tiger banana claw fiber";

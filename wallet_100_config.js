@@ -1,1 +1,1 @@
-var mnemonic = "repeat copy nominee clay pink leg want tenant once seek auction rigid";
+var mnemonic = "shy winter civil common confirm leave plunge school attend word kit nasty";

@@ -1,1 +1,1 @@
-var mnemonic = "quiz body maid worth frown absorb together vote spatial achieve coral stem";
+var mnemonic = "pudding stadium scheme option innocent urban vault pulse myself treat dune reduce";

@@ -1,1 +1,1 @@
-var mnemonic = "finger clerk horror science buddy friend matter vessel board spirit cactus tape";
+var mnemonic = "almost into alter tape symptom violin token only miracle album next marble";

@@ -1,1 +1,1 @@
-var mnemonic = "modify climb crucial one grocery deposit voyage boss ride flash unlock talk";
+var mnemonic = "fitness exhibit fun knock quarter legal van woman foam run island hip";

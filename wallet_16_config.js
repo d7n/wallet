@@ -1,1 +1,1 @@
-var mnemonic = "six basic congress scare rib project era cook worth library banner narrow";
+var mnemonic = "file antique tower hybrid advance grow couple mystery beef eyebrow frequent permit";

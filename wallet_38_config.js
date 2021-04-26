@@ -1,1 +1,1 @@
-var mnemonic = "lens service lumber maid hen income fetch motion empower rural surprise flag";
+var mnemonic = "runway debris action upgrade assault gaze muffin stand actual mirror one column";

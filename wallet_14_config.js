@@ -1,1 +1,1 @@
-var mnemonic = "wire zoo siren crater twice penalty girl satisfy limb honey pattern bless";
+var mnemonic = "execute chef shine all metal pitch visit capital boat bean supreme cycle";

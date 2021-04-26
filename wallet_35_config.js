@@ -1,1 +1,1 @@
-var mnemonic = "ketchup side icon chronic bachelor collect crisp upon obey leisure adjust rebel";
+var mnemonic = "pizza one rude fire make limit march city company slush siege cable";

@@ -1,1 +1,1 @@
-var mnemonic = "slogan attack general brick journey quit despair rail west catalog crash kind";
+var mnemonic = "fat leave direct drip lava loan orchard draw hazard case hole rain";

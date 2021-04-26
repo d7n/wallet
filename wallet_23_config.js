@@ -1,1 +1,1 @@
-var mnemonic = "master click hope feed fabric main teach stumble maid december bunker visual";
+var mnemonic = "dress window penalty view truly dynamic weather debate tilt inject ozone quit";

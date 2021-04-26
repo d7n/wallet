@@ -1,1 +1,1 @@
-var mnemonic = "donate series elbow cup human theory burger walnut shoot cousin senior tail";
+var mnemonic = "rain market tumble assist enact since where renew brisk own stick dignity";

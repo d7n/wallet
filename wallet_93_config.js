@@ -1,1 +1,1 @@
-var mnemonic = "churn ramp truck tree army manual fame roast abstract fashion legal beach";
+var mnemonic = "size message boil arrow innocent hawk crucial concert fix sister people risk";

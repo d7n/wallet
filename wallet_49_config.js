@@ -1,1 +1,1 @@
-var mnemonic = "team fatal confirm top huge order portion excite hire economy scale tree";
+var mnemonic = "embark angle step company journey riot deliver essay bid fame athlete idea";

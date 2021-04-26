@@ -1,1 +1,1 @@
-var mnemonic = "tattoo travel across toss wild enhance syrup female wisdom mango effort accuse";
+var mnemonic = "zoo crumble mind catalog hello talent artist bicycle bleak power file barrel";

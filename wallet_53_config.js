@@ -1,1 +1,1 @@
-var mnemonic = "include virtual wrist response couch near youth lobster air simple virtual truly";
+var mnemonic = "detail leg school journey still expand oyster lock glare exotic truly frequent";

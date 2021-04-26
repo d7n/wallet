@@ -1,1 +1,1 @@
-var mnemonic = "act jazz spatial verify priority member fog glare impose gas aisle hawk";
+var mnemonic = "lounge bargain float convince garlic battle tool dinosaur company hedgehog dust pass";
