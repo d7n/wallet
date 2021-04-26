@@ -1,1 +1,1 @@
-var mnemonic = "husband lift lemon town abstract void bacon veteran leave elite drink fall";
+var mnemonic = "absorb cause winner galaxy anchor true fortune measure access cupboard minor supply";

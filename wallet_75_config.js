@@ -1,1 +1,1 @@
-var mnemonic = "ahead hood man mirror flight width note hurdle live step peanut area";
+var mnemonic = "before doctor country destroy farm patient denial guide agent lava manage guitar";

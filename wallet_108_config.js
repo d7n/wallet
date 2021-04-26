@@ -1,1 +1,1 @@
-var mnemonic = "any crystal auto auction desert hello ceiling cancel lecture absent loyal mandate";
+var mnemonic = "rule favorite nephew fire arrive upset brisk check supreme junk lens finish";

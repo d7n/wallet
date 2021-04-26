@@ -1,1 +1,1 @@
-var mnemonic = "future urge student demise autumn organ measure junk fatal noodle exclude embody";
+var mnemonic = "book pear learn capable monster range group dignity share expire survey sand";

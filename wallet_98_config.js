@@ -1,1 +1,1 @@
-var mnemonic = "remove snack slogan shell license husband narrow recycle rocket chat jelly orchard";
+var mnemonic = "apart visit draft force stool word proof bar siren alpha enlist evoke";

@@ -1,1 +1,1 @@
-var mnemonic = "total other kangaroo bean fog fade mass coral island select cliff quarter";
+var mnemonic = "riot thank main energy else earn furnace rival gather since alcohol possible";

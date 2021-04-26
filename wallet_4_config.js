@@ -1,1 +1,1 @@
-var mnemonic = "jealous alarm guard argue glove brain ensure matrix acquire hawk spike catch";
+var mnemonic = "tree cash employ sign file galaxy edit profit cat eagle manual foam";

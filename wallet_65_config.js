@@ -1,1 +1,1 @@
-var mnemonic = "squeeze bamboo speak afford tuna order shed inmate exclude gain embark way";
+var mnemonic = "ranch confirm unlock trouble razor rough width unusual cargo try tuna blossom";

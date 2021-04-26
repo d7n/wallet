@@ -1,1 +1,1 @@
-var mnemonic = "health alert cat globe second dog jeans learn acoustic jelly frame master";
+var mnemonic = "grant walnut cushion assume inspire wash year toast clinic empty lawn fossil";

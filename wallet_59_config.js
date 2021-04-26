@@ -1,1 +1,1 @@
-var mnemonic = "obvious ozone club senior trend abuse excuse resist assault urge tray divorce";
+var mnemonic = "cinnamon unit flock grant olympic peace purpose stable match call trouble hockey";

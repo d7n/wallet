@@ -1,1 +1,1 @@
-var mnemonic = "same corn token abstract what click prosper dinosaur noodle desk exotic aspect";
+var mnemonic = "approve crash film poverty cloth slogan exist ranch drive goose gadget obey";

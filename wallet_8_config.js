@@ -1,1 +1,1 @@
-var mnemonic = "point step force gasp coyote option angle popular stable snap guess jazz";
+var mnemonic = "audit tomorrow equal wait water trouble light example road planet teach federal";

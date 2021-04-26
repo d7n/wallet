@@ -1,1 +1,1 @@
-var mnemonic = "valley bonus physical pioneer seven program decade visual foster believe timber dismiss";
+var mnemonic = "beach truck wealth tube suffer exist together aisle view degree inhale toast";

@@ -1,1 +1,1 @@
-var mnemonic = "tail gorilla festival merry proud truth tower grocery farm dress try borrow";
+var mnemonic = "exhibit bonus rice option suffer ancient sick employ acid mimic mercy real";

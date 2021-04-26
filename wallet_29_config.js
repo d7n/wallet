@@ -1,1 +1,1 @@
-var mnemonic = "rebel labor dirt artwork couple vintage comic mutual wisdom hello age shiver";
+var mnemonic = "usual denial access manage grunt patch apart egg gravity figure law accident";

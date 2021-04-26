@@ -1,1 +1,1 @@
-var mnemonic = "citizen capable stomach jealous sleep rather account heart always leopard harvest addict";
+var mnemonic = "stand silent hamster hole online season desert pipe depart replace ivory feature";

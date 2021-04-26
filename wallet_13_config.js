@@ -1,1 +1,1 @@
-var mnemonic = "enhance choose depart love minor loan drip ecology maple pluck deer safe";
+var mnemonic = "gallery harsh antique boy spare coyote broccoli shoulder limb lonely acoustic history";

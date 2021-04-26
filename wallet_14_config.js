@@ -1,1 +1,1 @@
-var mnemonic = "monitor flame poverty jacket gap leaf decorate easily hero donkey north cousin";
+var mnemonic = "body try debris unknown fiction deny dragon manage behind resource glad maximum";

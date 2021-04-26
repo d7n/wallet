@@ -1,1 +1,1 @@
-var mnemonic = "usage broken piano ocean forget gold put protect tray potato horn develop";
+var mnemonic = "mimic pistol kick voice gun source sister figure mutual regular beach crime";

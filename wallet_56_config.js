@@ -1,1 +1,1 @@
-var mnemonic = "law math stay extend era bullet version region pony enemy certain crane";
+var mnemonic = "harsh bar style decade oak bread verify learn acoustic pause frog liquid";

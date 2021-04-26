@@ -1,1 +1,1 @@
-var mnemonic = "bleak lizard blast fun vault aunt any diagram soul glow inquiry good";
+var mnemonic = "prepare only fiscal payment ketchup foot whip leopard town oppose slim all";

@@ -1,1 +1,1 @@
-var mnemonic = "hurt seven ecology lesson unlock volume cave guilt sense secret today polar";
+var mnemonic = "curtain wire space float pledge noise become appear horn pact crystal pen";

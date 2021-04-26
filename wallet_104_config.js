@@ -1,1 +1,1 @@
-var mnemonic = "laptop fragile adapt fork joke alone horror wear aunt protect object seed";
+var mnemonic = "smart crane differ aisle trend swamp army blame poet wreck violin concert";

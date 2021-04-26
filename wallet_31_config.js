@@ -1,1 +1,1 @@
-var mnemonic = "minor since security proud airport cage crime thumb amateur grain script frown";
+var mnemonic = "bronze because raccoon fever salmon company dolphin oval always ride inquiry ill";

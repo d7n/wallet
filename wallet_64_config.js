@@ -1,1 +1,1 @@
-var mnemonic = "supreme helmet pipe bomb company swap spawn cheap put memory nature guard";
+var mnemonic = "whale gentle jacket make sibling hip same laugh motion squeeze craft suggest";

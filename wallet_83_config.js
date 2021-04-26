@@ -1,1 +1,1 @@
-var mnemonic = "ice open heart fire blanket cart timber novel author fever antenna fringe";
+var mnemonic = "cricket sell royal total tired kick pottery praise tent enough giggle audit";

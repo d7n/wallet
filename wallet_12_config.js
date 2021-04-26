@@ -1,1 +1,1 @@
-var mnemonic = "submit carry trend nature useful arrive vital artwork industry perfect suit still";
+var mnemonic = "black rely soul twin birth sad surge eternal august acid swim detail";

@@ -1,1 +1,1 @@
-var mnemonic = "aunt slot wagon volume riot twelve mobile useless consider insane empty model";
+var mnemonic = "profit govern rib gloom scrap audit during raise derive juice artist virus";

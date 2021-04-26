@@ -1,1 +1,1 @@
-var mnemonic = "know sphere model bench suggest leave awful song muffin december capital unlock";
+var mnemonic = "pioneer before wish manage fabric degree lawsuit rough blind aspect squeeze bean";

@@ -1,1 +1,1 @@
-var mnemonic = "bullet jump female parent super cool captain latin endless law maximum nuclear";
+var mnemonic = "loop short recycle indoor suffer emerge decade current horn check sun snack";

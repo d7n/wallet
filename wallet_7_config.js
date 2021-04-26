@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon ripple wife mom nest cool clock recipe average field rabbit clip";
+var mnemonic = "hungry twin sand couch anxiety breeze story bonus cover ethics vehicle flash";

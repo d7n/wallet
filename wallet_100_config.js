@@ -1,1 +1,1 @@
-var mnemonic = "ritual wish have bind slogan attack term reform purchase absorb country time";
+var mnemonic = "theory logic gossip push endless gossip primary laugh column bitter valid water";

@@ -1,1 +1,1 @@
-var mnemonic = "network antenna afraid industry half rice soap dentist census price exhibit damage";
+var mnemonic = "goose museum bitter punch unit misery pond mind benefit valve bag neck";

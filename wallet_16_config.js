@@ -1,1 +1,1 @@
-var mnemonic = "double welcome buzz sugar candy slogan goddess open output ozone matrix puzzle";
+var mnemonic = "garlic primary very wrist uncover grass exchange large rude liquid luxury topple";

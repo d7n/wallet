@@ -1,1 +1,1 @@
-var mnemonic = "public upgrade toe negative reveal video knife damage shell episode certain sound";
+var mnemonic = "gentle horn write outside draft recipe heart memory debate nest welcome eight";

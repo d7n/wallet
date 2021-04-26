@@ -1,1 +1,1 @@
-var mnemonic = "aerobic begin observe spike prevent crawl member cram tobacco saddle tomorrow scene";
+var mnemonic = "nuclear cheap huge title hover viable hundred fancy social dilemma melody affair";

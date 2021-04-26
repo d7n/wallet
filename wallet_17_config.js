@@ -1,1 +1,1 @@
-var mnemonic = "valley oval word attract firm survey economy engine olympic find jungle end";
+var mnemonic = "cinnamon normal super base burst hover priority either lucky find shiver humor";

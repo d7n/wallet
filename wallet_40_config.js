@@ -1,1 +1,1 @@
-var mnemonic = "together dignity east juice fortune ritual stable guilt shield capital awesome please";
+var mnemonic = "phone unique defy riot digital typical harbor parade laugh soccer seven have";

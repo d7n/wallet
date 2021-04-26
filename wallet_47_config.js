@@ -1,1 +1,1 @@
-var mnemonic = "cause glance solve tool verb spray because rack grief raccoon tiny donkey";
+var mnemonic = "snap crane mimic elegant pact grant famous entry initial release pride squeeze";

@@ -1,1 +1,1 @@
-var mnemonic = "near uniform enlist example marble shock volume kick paper purchase siege skirt";
+var mnemonic = "member panel someone man beauty similar angry frame potato adult three choice";

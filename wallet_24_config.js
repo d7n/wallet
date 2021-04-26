@@ -1,1 +1,1 @@
-var mnemonic = "cotton sudden tunnel approve erase gym noble device move board claim fame";
+var mnemonic = "pattern nephew bird pole soup hill coyote female shield pistol area puppy";

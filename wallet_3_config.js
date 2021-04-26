@@ -1,1 +1,1 @@
-var mnemonic = "shed walnut affair direct runway dress elite state unit dream cabin gasp";
+var mnemonic = "stereo august badge picture beach couch aspect situate tank faith express coyote";

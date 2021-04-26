@@ -1,1 +1,1 @@
-var mnemonic = "destroy soft oak strategy soft bike clock sun grape rural pet fabric";
+var mnemonic = "range virtual menu either twenty choose hair mirror victory visual once hat";

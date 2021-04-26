@@ -1,1 +1,1 @@
-var mnemonic = "kit steak bench credit custom actor detect course tourist video occur palace";
+var mnemonic = "analyst chimney honey wrist side duty mirror paddle way nuclear snack chat";

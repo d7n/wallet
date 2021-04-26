@@ -1,1 +1,1 @@
-var mnemonic = "offer hundred report soft laugh reopen unique october oyster siren series upset";
+var mnemonic = "menu oppose random horror razor gap onion finish hidden dune similar often";

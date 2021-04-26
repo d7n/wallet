@@ -1,1 +1,1 @@
-var mnemonic = "bubble turtle gasp brass awful exclude dinosaur ahead truly fresh swarm prize";
+var mnemonic = "insect used maid snow yard effort trust spice advance country isolate quote";

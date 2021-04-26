@@ -1,1 +1,1 @@
-var mnemonic = "bullet topple current seminar magnet salad enough liberty regular column ladder salon";
+var mnemonic = "casual taste damp comfort also rifle daughter tooth vintage say cave step";

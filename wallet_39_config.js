@@ -1,1 +1,1 @@
-var mnemonic = "little palm unusual friend leaf traffic good access elevator upon bachelor pottery";
+var mnemonic = "neglect rely ocean alert since vault together grant festival about bridge perfect";

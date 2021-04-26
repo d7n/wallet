@@ -1,1 +1,1 @@
-var mnemonic = "culture festival congress aim virus copper refuse weekend toward exhibit calm miss";
+var mnemonic = "avoid caught genuine slender cradle video wild another security skin exist sail";

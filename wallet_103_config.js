@@ -1,1 +1,1 @@
-var mnemonic = "couch narrow width finish verify lobster apple worth fog dinner panel roof";
+var mnemonic = "valley drop crazy fury south young very joy rescue bridge kiwi soft";

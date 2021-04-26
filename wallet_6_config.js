@@ -1,1 +1,1 @@
-var mnemonic = "rack example photo alien ranch robust lumber sport replace indicate shallow ceiling";
+var mnemonic = "chalk mother client powder timber chaos axis eager cruel treat misery response";

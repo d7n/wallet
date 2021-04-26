@@ -1,1 +1,1 @@
-var mnemonic = "ice vicious jealous glimpse butter lumber nominee rally topple raw acoustic become";
+var mnemonic = "key mechanic isolate sheriff bachelor addict acid truth print accident awkward ring";

@@ -1,1 +1,1 @@
-var mnemonic = "utility october bunker demand engage school loyal innocent gaze critic escape differ";
+var mnemonic = "pear scare annual skin bubble popular mixed hood setup artist tiny taste";

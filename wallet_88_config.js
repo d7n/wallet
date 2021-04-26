@@ -1,1 +1,1 @@
-var mnemonic = "squirrel virtual student resist wink seven unveil moon invite chase either black";
+var mnemonic = "egg icon decide hazard bullet bean reject off mistake guard radio announce";

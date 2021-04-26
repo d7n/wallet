@@ -1,1 +1,1 @@
-var mnemonic = "argue capable ignore border opinion squirrel leave blast immune pause access grape";
+var mnemonic = "enlist trade panther brand struggle rookie submit allow master link evidence delay";

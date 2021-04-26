@@ -1,1 +1,1 @@
-var mnemonic = "sheriff insect divert race home minute initial ginger proud soda crop image";
+var mnemonic = "odor match trip grant obscure payment language shove wonder logic sketch sphere";

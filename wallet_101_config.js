@@ -1,1 +1,1 @@
-var mnemonic = "pretty opera weekend increase hedgehog fresh excite swing horse skin rice between";
+var mnemonic = "resource modify boring confirm element hood party harvest bottom matter question pass";

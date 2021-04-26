@@ -1,1 +1,1 @@
-var mnemonic = "arrest illness nut reform vault soap twelve identify alone pottery snake salute";
+var mnemonic = "magnet eager cousin stumble rule payment that fortune fog good spell increase";

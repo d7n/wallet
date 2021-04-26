@@ -1,1 +1,1 @@
-var mnemonic = "rebel during spin ability alcohol must glow suspect predict dignity cheese hip";
+var mnemonic = "test reject unfold seminar luxury venture indoor model owner luggage flat weird";

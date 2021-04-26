@@ -1,1 +1,1 @@
-var mnemonic = "melody bring fortune fitness plastic agent trick defy primary denial kid mistake";
+var mnemonic = "earth hybrid okay then velvet junk gun trumpet practice table wood quality";

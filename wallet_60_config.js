@@ -1,1 +1,1 @@
-var mnemonic = "inch street parent reopen dirt chuckle van universe stuff cram electric isolate";
+var mnemonic = "lunar length sniff silver question toy burger erosion message wood stem hub";

@@ -1,1 +1,1 @@
-var mnemonic = "okay jump syrup crater camp emotion differ frame wrestle sell frog peanut";
+var mnemonic = "poverty lift keep senior bulb puppy peanut fiber finger obvious rug tobacco";

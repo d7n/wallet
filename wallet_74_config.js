@@ -1,1 +1,1 @@
-var mnemonic = "silver marine enter face pipe dragon quality cook soup chef basket glue";
+var mnemonic = "forest warm demise cruel prefer audit space runway total original junior slide";

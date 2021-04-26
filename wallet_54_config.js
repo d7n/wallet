@@ -1,1 +1,1 @@
-var mnemonic = "plunge happy nut afford outdoor trash six useful head wave salon marine";
+var mnemonic = "coral enrich elephant humor smoke scrub ramp naive tackle foam more actress";

@@ -1,1 +1,1 @@
-var mnemonic = "tape favorite agree slender benefit cover jump post friend mother script reopen";
+var mnemonic = "helmet license note chief task glance rifle fat purity catch boat poverty";

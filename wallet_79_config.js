@@ -1,1 +1,1 @@
-var mnemonic = "river favorite detect pumpkin multiply menu display fish caution volume lunar east";
+var mnemonic = "holiday paper mass wedding grief gold monster during evidence disorder reopen sibling";

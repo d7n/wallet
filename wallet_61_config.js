@@ -1,1 +1,1 @@
-var mnemonic = "coil fault business pass vehicle blur remove tank guilt stage proof over";
+var mnemonic = "insect attend decorate feature deal bridge senior spike genius genius supply burst";

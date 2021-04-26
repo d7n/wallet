@@ -1,1 +1,1 @@
-var mnemonic = "wagon disease garage north bring little slide move shield silly wedding rough";
+var mnemonic = "end room define hamster slogan crouch area grab series wisdom vacant peace";

@@ -1,1 +1,1 @@
-var mnemonic = "soccer text foster cable general million answer write quit airport hidden dentist";
+var mnemonic = "rice pave orbit escape wife smart replace draft clump record judge electric";

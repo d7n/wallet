@@ -1,1 +1,1 @@
-var mnemonic = "upper wall airport dinosaur chapter pelican trigger walk begin tumble guess false";
+var mnemonic = "glow casino message catalog clarify inch often dirt worth print drive suit";

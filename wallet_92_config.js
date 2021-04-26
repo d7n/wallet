@@ -1,1 +1,1 @@
-var mnemonic = "twenty topple engage warfare task control stumble little candy ozone law snack";
+var mnemonic = "tortoise nice width price lyrics wonder side balance similar radio fiber brick";

@@ -1,1 +1,1 @@
-var mnemonic = "style tail life pluck have tag push pottery upper between tonight maple";
+var mnemonic = "sadness essay torch spell idea lake blue you portion moment guard another";

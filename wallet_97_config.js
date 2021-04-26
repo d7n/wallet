@@ -1,1 +1,1 @@
-var mnemonic = "medal summer fury swap lady explain dish provide grab hedgehog mango purchase";
+var mnemonic = "step ankle swamp nuclear bench bid dog action slow large social luggage";

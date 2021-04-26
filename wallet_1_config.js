@@ -1,1 +1,1 @@
-var mnemonic = "matter need clay clean kiss family bamboo already town pizza truly rich";
+var mnemonic = "science art course talk play album eternal bitter mystery birth wolf eagle";

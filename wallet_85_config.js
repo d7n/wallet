@@ -1,1 +1,1 @@
-var mnemonic = "artwork cake cook goddess harsh flush weather state much trouble simple speak";
+var mnemonic = "wrap analyst harbor expand move lab ceiling scan world innocent island color";

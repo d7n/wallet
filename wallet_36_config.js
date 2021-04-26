@@ -1,1 +1,1 @@
-var mnemonic = "culture office sail verb kit myself elevator clever crime debris scissors almost";
+var mnemonic = "tomato torch shoot blood attitude monkey tenant tattoo fog broken parent pelican";

@@ -1,1 +1,1 @@
-var mnemonic = "ceiling sense promote actual shell cupboard sick lottery pretty prison stuff guard";
+var mnemonic = "magic cousin know liberty farm client collect peasant camera law airport convince";

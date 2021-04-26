@@ -1,1 +1,1 @@
-var mnemonic = "toilet accident quit shift clip cannon candy market force shove jeans pact";
+var mnemonic = "drift wall solve furnace figure spell distance follow short dry uphold rack";

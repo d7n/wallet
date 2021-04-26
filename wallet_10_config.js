@@ -1,1 +1,1 @@
-var mnemonic = "mushroom clock radio false off finish twin nose discover spice choose paper";
+var mnemonic = "area excess creek slab hand hundred budget dolphin great expire wild witness";

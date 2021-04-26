@@ -1,1 +1,1 @@
-var mnemonic = "infant pond aisle cactus labor surge put orbit steak air weasel door";
+var mnemonic = "hybrid song rapid wrestle rate torch board pig soup any hello avoid";

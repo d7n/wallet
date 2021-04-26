@@ -1,1 +1,1 @@
-var mnemonic = "vanish protect print convince bridge salon machine then saddle scrub price develop";
+var mnemonic = "bulk stumble labor first jazz clarify physical item embody august burger outdoor";

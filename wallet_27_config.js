@@ -1,1 +1,1 @@
-var mnemonic = "stamp simple nasty enrich member clever recycle inherit catalog air tail click";
+var mnemonic = "crawl snack marble coral naive repeat faith swim dynamic talk fatigue bundle";

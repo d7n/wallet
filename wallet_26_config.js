@@ -1,1 +1,1 @@
-var mnemonic = "crawl paddle cloud ocean penalty exile toy resemble episode dignity ill treat";
+var mnemonic = "valid note category father tortoise despair choose rookie endless despair infant intact";

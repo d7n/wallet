@@ -1,1 +1,1 @@
-var mnemonic = "magnet expose smooth nut pelican liquid help fury labor security tissue boost";
+var mnemonic = "object cruel disorder flat coin stove legend title govern skate crop solid";

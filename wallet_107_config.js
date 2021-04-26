@@ -1,1 +1,1 @@
-var mnemonic = "double chief pool exchange crush clog scorpion segment pioneer endorse clog assume";
+var mnemonic = "execute strong margin grain plunge genius unveil wait margin cousin human multiply";

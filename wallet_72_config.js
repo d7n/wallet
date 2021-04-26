@@ -1,1 +1,1 @@
-var mnemonic = "life gown media future fantasy nature top catch absent delay plate wisdom";
+var mnemonic = "trick gloom nation habit cake anchor design attitude bonus service lounge throw";

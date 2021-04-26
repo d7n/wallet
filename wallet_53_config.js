@@ -1,1 +1,1 @@
-var mnemonic = "rack carbon science couple despair foam rule ill acoustic drift laugh increase";
+var mnemonic = "capable cup almost napkin begin heart drink derive address army icon switch";

@@ -1,1 +1,1 @@
-var mnemonic = "shrimp sure sting history runway liar skin case pizza diary payment rate";
+var mnemonic = "recipe aware priority sense ozone change crack dinner eight noise autumn crew";

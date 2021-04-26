@@ -1,1 +1,1 @@
-var mnemonic = "above ranch pond save media curve fuel verify spot derive error able";
+var mnemonic = "talk stay citizen suggest trouble error pyramid artefact borrow exotic ostrich ranch";

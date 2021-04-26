@@ -1,1 +1,1 @@
-var mnemonic = "bring title curious recipe common faint foam actual raccoon urge hint vapor";
+var mnemonic = "ensure enemy mercy person reduce puppy alarm embark reason cake zebra primary";

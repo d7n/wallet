@@ -1,1 +1,1 @@
-var mnemonic = "version oval actress stick train catch gospel immune benefit snap group confirm";
+var mnemonic = "school energy used cube expire inhale twice tired mammal soap eternal limit";

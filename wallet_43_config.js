@@ -1,1 +1,1 @@
-var mnemonic = "urban distance normal animal cabin caution tomorrow easy pretty extend grocery piece";
+var mnemonic = "item rocket jacket rural unaware bubble reopen afford remember pond refuse gesture";

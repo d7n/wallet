@@ -1,1 +1,1 @@
-var mnemonic = "identify require wish ankle speak liar grocery sketch admit erupt expire despair";
+var mnemonic = "car silly repair dune lunch notice point reject explain before result huge";

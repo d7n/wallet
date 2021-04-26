@@ -1,1 +1,1 @@
-var mnemonic = "powder siren absorb simple alien flag minimum panel frown force hedgehog deliver";
+var mnemonic = "sister renew rhythm disagree trigger divorce hand sign render debris pluck battle";
