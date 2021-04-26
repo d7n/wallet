@@ -1,1 +1,1 @@
-var mnemonic = "sick shoe cash into green egg auction invest drastic want toddler small";
+var mnemonic = "diary paddle father merge salt loud crouch lava side raven tuition dwarf";

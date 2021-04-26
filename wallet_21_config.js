@@ -1,1 +1,1 @@
-var mnemonic = "please observe hungry heavy unhappy sister kidney agent frog fuel cattle film";
+var mnemonic = "health behave bounce drastic age snap throw emerge food search left manual";

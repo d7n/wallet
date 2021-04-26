@@ -1,1 +1,1 @@
-var mnemonic = "rubber dawn boy head scan together three mobile scene cruel fork bicycle";
+var mnemonic = "pill uphold have help unaware drama shiver decline bargain sibling myth domain";

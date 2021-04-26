@@ -1,1 +1,1 @@
-var mnemonic = "spawn soup affair twist buffalo farm where debris kitten cruise flag art";
+var mnemonic = "spread liquid sun forest layer tattoo tired village hockey enforce script steak";

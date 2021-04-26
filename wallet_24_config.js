@@ -1,1 +1,1 @@
-var mnemonic = "grain yellow faculty distance frozen feel east wire range flash delay category";
+var mnemonic = "include picture worry tank divert toward genius gospel fancy animal waste girl";

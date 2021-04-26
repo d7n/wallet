@@ -1,1 +1,1 @@
-var mnemonic = "rate armed surge govern still digital shrug toward obey spoil furnace believe";
+var mnemonic = "runway oil card beef kiss dignity scene tongue unusual beauty rhythm notable";

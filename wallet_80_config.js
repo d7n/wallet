@@ -1,1 +1,1 @@
-var mnemonic = "video track blame book shrug cook deposit kind stick hundred noise olive";
+var mnemonic = "reason march filter tumble parrot vague trumpet puppy trophy rose comfort stumble";

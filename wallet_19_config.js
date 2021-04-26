@@ -1,1 +1,1 @@
-var mnemonic = "possible venue dream ritual coral ask cup argue indoor empower cotton token";
+var mnemonic = "lab model clip spy cabbage split announce update attack heavy hope menu";

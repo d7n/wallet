@@ -1,1 +1,1 @@
-var mnemonic = "sample protect twin limit furnace produce jacket diagram describe ignore enter work";
+var mnemonic = "frequent sheriff endless flag before body alpha forget travel essence fee ladder";

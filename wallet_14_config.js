@@ -1,1 +1,1 @@
-var mnemonic = "comic harsh nothing purchase electric refuse future valley give nominee canoe grief";
+var mnemonic = "layer elder bulb tent cage shoot tissue police arena topic kitten foster";

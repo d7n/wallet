@@ -1,1 +1,1 @@
-var mnemonic = "cigar train catalog stove display sibling lunch grab prize bind either elbow";
+var mnemonic = "section truck indicate dream antenna oven can human hill toy mix thing";

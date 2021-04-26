@@ -1,1 +1,1 @@
-var mnemonic = "tunnel canoe capable humor now badge twenty sponsor carpet inflict curve plastic";
+var mnemonic = "media warfare opera hope blame push keep stereo vocal blast rare short";

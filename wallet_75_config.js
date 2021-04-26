@@ -1,1 +1,1 @@
-var mnemonic = "odor capable forum kiss scorpion cat nation glory helmet mule satisfy fury";
+var mnemonic = "tribe pelican print very guard digital make cinnamon clarify nominee inch swear";

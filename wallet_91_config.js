@@ -1,1 +1,1 @@
-var mnemonic = "loan jeans term stock camp chaos offer art very valve tide solve";
+var mnemonic = "aisle denial dilemma pony arctic now weasel drama oblige attract tiger stamp";

@@ -1,1 +1,1 @@
-var mnemonic = "zebra rough luggage moment speed try coral flame aspect cram depart chalk";
+var mnemonic = "napkin train honey style improve cup ship tag lucky travel brain creek";

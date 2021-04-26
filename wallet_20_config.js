@@ -1,1 +1,1 @@
-var mnemonic = "curious sound humble earth swift romance welcome head wink observe home thumb";
+var mnemonic = "minimum basket sketch shove actress comfort annual custom gap term cycle direct";

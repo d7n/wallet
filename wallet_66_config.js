@@ -1,1 +1,1 @@
-var mnemonic = "junk gasp field eye eager hungry cable ocean super casino unlock rib";
+var mnemonic = "crunch sausage attitude test start chaos crime dirt tuna february tomato say";

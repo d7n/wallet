@@ -1,1 +1,1 @@
-var mnemonic = "prefer predict layer vivid sorry donate size canoe index faith stool aim";
+var mnemonic = "present brush found atom faith reason skull river stool question blanket slender";

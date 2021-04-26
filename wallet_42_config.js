@@ -1,1 +1,1 @@
-var mnemonic = "young pig occur elite daughter early banana swift crash bird inspire grow";
+var mnemonic = "hundred cement senior decide tilt sand stumble alert grant into fury more";

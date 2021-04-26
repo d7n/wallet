@@ -1,1 +1,1 @@
-var mnemonic = "come cook note tide globe power combine satoshi tissue winter cost buffalo";
+var mnemonic = "loud clerk pencil useful jaguar asset couple drink trust toss onion roast";

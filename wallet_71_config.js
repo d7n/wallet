@@ -1,1 +1,1 @@
-var mnemonic = "hammer tooth moment dune hood skirt across language chunk insect loan staff";
+var mnemonic = "this cheap state nut enough carbon ridge glide size volume pass sponsor";

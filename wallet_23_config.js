@@ -1,1 +1,1 @@
-var mnemonic = "phone exotic add hedgehog woman bamboo vacant evil wall market goat fabric";
+var mnemonic = "glare hole bleak gauge faint noble wrestle deputy sting magic shell dumb";

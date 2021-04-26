@@ -1,1 +1,1 @@
-var mnemonic = "royal fluid mimic warrior pull tilt flock bid hockey stereo grid option";
+var mnemonic = "picture burger barrel close ketchup cushion tonight junk reason trash permit pause";

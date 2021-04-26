@@ -1,1 +1,1 @@
-var mnemonic = "mouse absurd spin adult stairs glide credit picture duck again canyon brick";
+var mnemonic = "near either stand fashion example rhythm outer journey team happy sibling donor";

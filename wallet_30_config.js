@@ -1,1 +1,1 @@
-var mnemonic = "crush book village urban dinosaur river hen wrap happy fall decorate punch";
+var mnemonic = "love keep doll gain syrup supply tattoo mirror stumble team small coach";

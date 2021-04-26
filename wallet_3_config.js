@@ -1,1 +1,1 @@
-var mnemonic = "average abstract lawn scrap front obvious tag grain race magnet omit iron";
+var mnemonic = "submit orphan check cute limit try slide emerge test group file option";

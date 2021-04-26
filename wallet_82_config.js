@@ -1,1 +1,1 @@
-var mnemonic = "wrestle way hole energy tray elevator right sense twenty enhance prevent divide";
+var mnemonic = "garden spy method cancel wire crush say pull tattoo spin neither cake";

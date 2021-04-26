@@ -1,1 +1,1 @@
-var mnemonic = "chest essay scan eternal buzz cargo glory vessel next success square there";
+var mnemonic = "guitar under language pretty reopen crop loyal speed foam vicious month sight";

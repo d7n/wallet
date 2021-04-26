@@ -1,1 +1,1 @@
-var mnemonic = "together uniform pupil draft trophy bitter praise gold orbit glance sibling cross";
+var mnemonic = "state bird door adjust fold naive come crater cabin never solution object";

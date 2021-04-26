@@ -1,1 +1,1 @@
-var mnemonic = "pen duty solar brisk decrease demise popular float parent level typical nature";
+var mnemonic = "nephew sunset simple pool neck powder student bar animal index acid false";

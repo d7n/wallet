@@ -1,1 +1,1 @@
-var mnemonic = "firm system addict artwork rather illegal stage screen achieve girl measure size";
+var mnemonic = "local cable blouse evolve divorce buddy ring census abandon will network scan";

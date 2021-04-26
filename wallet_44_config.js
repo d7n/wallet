@@ -1,1 +1,1 @@
-var mnemonic = "web rifle dignity depend scheme fresh visual shallow loan domain very anchor";
+var mnemonic = "impose crime label source husband depart spell damage peace debris just degree";

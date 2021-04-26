@@ -1,1 +1,1 @@
-var mnemonic = "trap boy quality actual admit acid slam wild tuna urban nose bless";
+var mnemonic = "major myself night cart garage grid rigid hero ancient crime south fetch";

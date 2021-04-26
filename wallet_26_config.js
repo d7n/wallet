@@ -1,1 +1,1 @@
-var mnemonic = "arrange dream ocean badge wood mention river know plastic violin curtain boil";
+var mnemonic = "inmate priority hungry tortoise south firm soul defy reject decrease glow erupt";

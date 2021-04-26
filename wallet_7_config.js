@@ -1,1 +1,1 @@
-var mnemonic = "nice denial manage rent plunge zero shed exit inspire goat whale hybrid";
+var mnemonic = "basic spring boat ordinary ugly risk admit hurdle address alarm exchange aunt";

@@ -1,1 +1,1 @@
-var mnemonic = "dream motor fade agent please already lock bracket merge boost erase process";
+var mnemonic = "beef gaze pole annual nature subject drastic cupboard risk couch album jelly";

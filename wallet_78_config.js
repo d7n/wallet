@@ -1,1 +1,1 @@
-var mnemonic = "muscle uphold chief worth hobby father retire urge news pepper balance sauce";
+var mnemonic = "soft wage noodle strike onion can public surge wage play domain spell";

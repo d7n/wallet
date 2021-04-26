@@ -1,1 +1,1 @@
-var mnemonic = "obtain matter short okay vital kiwi equip tube swallow buyer fragile order";
+var mnemonic = "debris hidden rail brand recall derive toddler mad night dentist robust patrol";

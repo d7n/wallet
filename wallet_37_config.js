@@ -1,1 +1,1 @@
-var mnemonic = "segment buffalo during ship mad identify chaos oval jacket advance dawn side";
+var mnemonic = "soda abstract shadow tower sweet couple trust maze edge suspect universe cook";

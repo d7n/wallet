@@ -1,1 +1,1 @@
-var mnemonic = "century table vivid proof exercise brass farm domain ticket screen credit symbol";
+var mnemonic = "auto behave label list notable elbow warrior velvet onion lemon pave echo";

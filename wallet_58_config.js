@@ -1,1 +1,1 @@
-var mnemonic = "faint mind toast shine lecture crazy illegal toast any february any barrel";
+var mnemonic = "curtain wrestle gas clip hope faculty vacuum wolf inform lucky expose shove";

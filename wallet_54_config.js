@@ -1,1 +1,1 @@
-var mnemonic = "fold neglect verify carry element dune phone siege what hill apple you";
+var mnemonic = "vendor inch frog hunt baby water garage sign silent okay super slim";

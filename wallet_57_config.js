@@ -1,1 +1,1 @@
-var mnemonic = "evolve divide broccoli enroll actor unknown present document boost dust label bargain";
+var mnemonic = "canyon truth danger normal timber cotton level have found just skill load";

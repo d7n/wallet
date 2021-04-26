@@ -1,1 +1,1 @@
-var mnemonic = "slab buzz relief jar other point brick cotton chase direct grape dish";
+var mnemonic = "soda stable crisp artefact grace certain tray economy link doll donate wise";

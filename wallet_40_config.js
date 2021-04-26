@@ -1,1 +1,1 @@
-var mnemonic = "metal pizza perfect web inquiry spoon model tray pyramid input coyote argue";
+var mnemonic = "panda business acid grocery question custom hello magic wife anger damage juice";

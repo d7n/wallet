@@ -1,1 +1,1 @@
-var mnemonic = "view vicious stove teach pupil agree area doctor final analyst tackle moment";
+var mnemonic = "member vote edit imitate soap negative ignore song stomach suspect sentence country";

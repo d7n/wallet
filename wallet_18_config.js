@@ -1,1 +1,1 @@
-var mnemonic = "cricket bulb moon odor skate cinnamon maple frown trick brick glove sad";
+var mnemonic = "chase ask brother ghost gate vicious blossom blade stick segment inch plate";

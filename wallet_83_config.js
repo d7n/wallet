@@ -1,1 +1,1 @@
-var mnemonic = "butter crouch net pudding upper pattern zone skin wood remember scout lesson";
+var mnemonic = "member stamp amazing host hazard green call better piano motor denial summer";

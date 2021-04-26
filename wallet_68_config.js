@@ -1,1 +1,1 @@
-var mnemonic = "lion one festival news olympic tent police main mule noodle sense kingdom";
+var mnemonic = "carbon grape peace solution anger tide argue scare lounge develop fashion eyebrow";

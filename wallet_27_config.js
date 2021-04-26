@@ -1,1 +1,1 @@
-var mnemonic = "essay mosquito lyrics song tackle office evolve kite behind blue involve false";
+var mnemonic = "version wrong choose honey orphan loop cradle wrist advice rude sand glide";

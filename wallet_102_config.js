@@ -1,1 +1,1 @@
-var mnemonic = "draw helmet fashion memory trumpet expire field retire pioneer live two idea";
+var mnemonic = "layer purity clarify eagle lucky own ramp welcome visual poem release regret";

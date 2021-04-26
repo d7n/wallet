@@ -1,1 +1,1 @@
-var mnemonic = "outside fatal job jealous other tool video tooth science river girl reunion";
+var mnemonic = "advice blade fox melt secret aisle bless secret crawl position sad twist";

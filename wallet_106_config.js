@@ -1,1 +1,1 @@
-var mnemonic = "letter bonus ridge lens genre truly robot pride add sauce kangaroo check";
+var mnemonic = "oak electric room toy fun logic unable huge supreme pipe mean crawl";

@@ -1,1 +1,1 @@
-var mnemonic = "acquire asthma sound slice flock begin street normal simple jump scatter clay";
+var mnemonic = "alarm evidence rare reflect cargo unable year settle special distance warfare loan";

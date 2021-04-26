@@ -1,1 +1,1 @@
-var mnemonic = "typical three enough tape million dice velvet canyon enhance surface rapid multiply";
+var mnemonic = "comic oil surround coffee mechanic away lyrics egg mosquito alley chuckle machine";

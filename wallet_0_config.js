@@ -1,1 +1,1 @@
-var mnemonic = "leave effort quarter carry fit please genius forward enable army lunar razor";
+var mnemonic = "current marble cement thing drop sword inquiry potato ethics spray universe side";

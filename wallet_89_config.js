@@ -1,1 +1,1 @@
-var mnemonic = "absorb lion diesel blast quiz famous chef skirt move normal flee glue";
+var mnemonic = "wrist cargo roof naive typical odor proof segment extra undo regret fashion";

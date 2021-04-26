@@ -1,1 +1,1 @@
-var mnemonic = "diet three arrange error plastic pink engage coin sadness smart supply reopen";
+var mnemonic = "ability private update solid base square find card initial bacon truth gloom";

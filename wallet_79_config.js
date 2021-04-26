@@ -1,1 +1,1 @@
-var mnemonic = "either dragon pyramid mouse style sample obey arena notable again decade crater";
+var mnemonic = "luggage mechanic fox hurt tragic oxygen peace kitten quote robot gun casual";

@@ -1,1 +1,1 @@
-var mnemonic = "mad hint liberty piano fancy casino tiny urban spread sword ritual safe";
+var mnemonic = "minimum since answer involve level scout else action panther path alcohol grab";

@@ -1,1 +1,1 @@
-var mnemonic = "gadget time picnic foil dry juice alcohol embody chaos picture congress person";
+var mnemonic = "disorder build discover acid bullet end tobacco luggage bubble job lab spare";

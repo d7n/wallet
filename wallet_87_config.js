@@ -1,1 +1,1 @@
-var mnemonic = "alone car ship mail first track sort wrist beyond egg share whip";
+var mnemonic = "citizen smooth energy nurse nature figure among glimpse crazy cage laugh sad";

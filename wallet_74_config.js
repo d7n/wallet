@@ -1,1 +1,1 @@
-var mnemonic = "entry cram ethics pact want faith surge head that cash fluid pudding";
+var mnemonic = "wonder casino album lock bamboo unlock oppose search fat where stem help";

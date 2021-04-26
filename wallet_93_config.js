@@ -1,1 +1,1 @@
-var mnemonic = "chaos imitate exhibit excite bag over help fragile true bitter inherit clever";
+var mnemonic = "mass attack target plug pudding pretty cup tortoise soldier excuse flash outside";

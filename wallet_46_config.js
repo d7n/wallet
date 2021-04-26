@@ -1,1 +1,1 @@
-var mnemonic = "chuckle random plug odor meadow flight rack envelope drill have pave favorite";
+var mnemonic = "mercy annual blast cloud club spoil spice dream clock knife seminar glare";

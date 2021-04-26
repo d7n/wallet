@@ -1,1 +1,1 @@
-var mnemonic = "aim bean lizard treat advice swallow people street velvet key digital rabbit";
+var mnemonic = "mention artwork fire eight bike picnic armed better bread border wagon brand";

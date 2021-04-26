@@ -1,1 +1,1 @@
-var mnemonic = "fatigue fun apart coil dumb awful wire differ million couple average age";
+var mnemonic = "property shell option erosion grant bind crane scout else feature festival trophy";

@@ -1,1 +1,1 @@
-var mnemonic = "dog candy parrot another indicate quiz song clinic zoo width affair pact";
+var mnemonic = "creek trap afford live menu peasant subway team duck ticket arctic shaft";

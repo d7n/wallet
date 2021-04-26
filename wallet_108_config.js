@@ -1,1 +1,1 @@
-var mnemonic = "rocket token smooth wine immense art just noble disorder road tortoise spread";
+var mnemonic = "true dice select oblige art supreme develop run entry rather island symbol";

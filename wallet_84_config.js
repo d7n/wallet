@@ -1,1 +1,1 @@
-var mnemonic = "surge total fine year library source display suggest battle infant gasp hip";
+var mnemonic = "note learn buddy galaxy push quality quiz rebel define wrong better pretty";

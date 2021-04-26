@@ -1,1 +1,1 @@
-var mnemonic = "logic always exhibit pottery adapt cup river forget ivory junior woman entire";
+var mnemonic = "congress sword economy guitar urge salon enemy zero valley original obscure season";

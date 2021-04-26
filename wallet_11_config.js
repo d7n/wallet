@@ -1,1 +1,1 @@
-var mnemonic = "reason inject exact script column about insane between expect barely quiz hero";
+var mnemonic = "advice neither tornado perfect galaxy true foil doctor ahead enroll inner swear";

@@ -1,1 +1,1 @@
-var mnemonic = "usual device meat olive maximum century razor sunny lift muffin curtain gallery";
+var mnemonic = "liquid reunion goat spatial file month pigeon weather canal grape school universe";

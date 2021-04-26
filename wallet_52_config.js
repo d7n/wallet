@@ -1,1 +1,1 @@
-var mnemonic = "dinner portion people hint ladder step live confirm field ecology town country";
+var mnemonic = "pigeon skin buddy icon glare elbow hen current slogan mass sock husband";

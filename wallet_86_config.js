@@ -1,1 +1,1 @@
-var mnemonic = "canoe belt lizard soon answer leader release defy asset figure hard inspire";
+var mnemonic = "jealous moon armed galaxy stove creek issue pudding tomato draw path render";

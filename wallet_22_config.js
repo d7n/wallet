@@ -1,1 +1,1 @@
-var mnemonic = "honey era bench else outside promote chief mobile gauge taxi general lamp";
+var mnemonic = "quit cereal swarm potato raise antique carpet dawn elegant roof dismiss hero";

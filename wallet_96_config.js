@@ -1,1 +1,1 @@
-var mnemonic = "gold time gym weekend old ostrich creek library boss lecture idea payment";
+var mnemonic = "theme crucial nation mimic light eyebrow pledge access wild wedding engage gorilla";

@@ -1,1 +1,1 @@
-var mnemonic = "jeans prize erosion victory have stomach cinnamon wolf success skill sense long";
+var mnemonic = "have craft quote organ mask vast dice maximum spread eye mention jazz";

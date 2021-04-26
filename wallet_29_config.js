@@ -1,1 +1,1 @@
-var mnemonic = "february mistake win typical olive soap tribe wave seek gold marine seminar";
+var mnemonic = "age where budget rocket charge toss peasant foot confirm apple hope staff";

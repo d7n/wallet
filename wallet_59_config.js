@@ -1,1 +1,1 @@
-var mnemonic = "knee enough waste tortoise diet exhibit chalk core height rack credit clown";
+var mnemonic = "quit caught meat summer poem obtain hedgehog twelve taste family clerk imitate";

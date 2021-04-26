@@ -1,1 +1,1 @@
-var mnemonic = "exclude spend palace donkey snow jeans sport uniform token humor thunder mountain";
+var mnemonic = "grit rally abstract exchange glimpse discover chaos gasp actress siege army senior";

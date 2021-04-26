@@ -1,1 +1,1 @@
-var mnemonic = "solution pattern day flush verb tissue layer symptom provide frog giraffe deliver";
+var mnemonic = "busy urban juice door bind circle audit alley swallow phone dirt brass";

@@ -1,1 +1,1 @@
-var mnemonic = "drill horse science phone library entry route spin pizza notable music again";
+var mnemonic = "tone urge vibrant unit edit swear entry assist tone cluster fire rail";

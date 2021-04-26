@@ -1,1 +1,1 @@
-var mnemonic = "water slim hope reunion giraffe sauce save mix under cloth network label";
+var mnemonic = "flavor unaware donkey fence hour want exact heavy shaft music crystal give";

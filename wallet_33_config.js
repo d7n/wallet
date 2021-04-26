@@ -1,1 +1,1 @@
-var mnemonic = "equip what teach wrist bulb lumber milk beach sister left together sentence";
+var mnemonic = "clip enhance pact cool equal antique smile celery cry harsh more voyage";

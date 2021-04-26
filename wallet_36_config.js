@@ -1,1 +1,1 @@
-var mnemonic = "rabbit alter toy finish afraid theme tattoo hire love armed valley one";
+var mnemonic = "pool nose noble frequent ramp duty wife congress hour escape game sell";

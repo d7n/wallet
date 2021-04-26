@@ -1,1 +1,1 @@
-var mnemonic = "token enforce video sunny wall item gesture kit ski foam brief bracket";
+var mnemonic = "rural humor prepare title injury island favorite enable cricket upon whale slender";

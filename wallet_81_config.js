@@ -1,1 +1,1 @@
-var mnemonic = "glory enter wet athlete royal kick engage jar nerve great million social";
+var mnemonic = "mixture patrol hamster simple various tobacco mail drip shoot dwarf earn doctor";

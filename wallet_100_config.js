@@ -1,1 +1,1 @@
-var mnemonic = "best hood blush grant hundred print coast secret club depart second obscure";
+var mnemonic = "kite trip issue purse gun lock image census frog silent chest steak";
