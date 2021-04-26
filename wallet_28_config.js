@@ -1,1 +1,1 @@
-var mnemonic = "travel churn stay drink release finish catalog stock youth never achieve pet";
+var mnemonic = "gain gather short roof fetch funny close liar thing skin expect object";

@@ -1,1 +1,1 @@
-var mnemonic = "rain agent foot boat hint spare spirit pass polar castle drive bulb";
+var mnemonic = "arch speak sorry acquire subject point ocean spatial duck holiday yard master";

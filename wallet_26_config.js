@@ -1,1 +1,1 @@
-var mnemonic = "stuff stem increase behave author echo pumpkin truth just scorpion width taste";
+var mnemonic = "virtual unlock popular dignity shy fan ship deny bar cable public allow";

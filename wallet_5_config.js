@@ -1,1 +1,1 @@
-var mnemonic = "lady venture pride mad grain inspire lion verify cherry kite away salt";
+var mnemonic = "phone apology sketch nature stable alter horror figure basic hand sorry math";

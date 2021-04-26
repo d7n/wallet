@@ -1,1 +1,1 @@
-var mnemonic = "vote sketch yard exit soap another hour suit sudden brave genre banana";
+var mnemonic = "wrestle charge salmon among venue pear tennis rice lava age view rubber";

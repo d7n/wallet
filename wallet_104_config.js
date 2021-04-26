@@ -1,1 +1,1 @@
-var mnemonic = "hard social letter night dawn gift hotel rare retreat utility large scrub";
+var mnemonic = "sibling celery around distance media knee found foam smile provide indicate other";

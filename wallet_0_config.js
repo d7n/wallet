@@ -1,1 +1,1 @@
-var mnemonic = "logic hub trick bleak peanut melody auto into boy drive flower stable";
+var mnemonic = "together trouble zoo only cabin join check wagon exclude blouse cancel drip";

@@ -1,1 +1,1 @@
-var mnemonic = "lottery cake hire awkward maid when dice humble license cat mesh voyage";
+var mnemonic = "motion risk crop attitude carpet illness high usage myself visit extend box";

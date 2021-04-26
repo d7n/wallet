@@ -1,1 +1,1 @@
-var mnemonic = "agent swear apology act excite sing cloth blade safe neck all use";
+var mnemonic = "excite swallow beach fringe train humble choose absent busy multiply joy unknown";

@@ -1,1 +1,1 @@
-var mnemonic = "attract gift claim kitten enough soap tiny play opinion organ buffalo blush";
+var mnemonic = "void three logic elite essence replace fox between spread economy science jaguar";

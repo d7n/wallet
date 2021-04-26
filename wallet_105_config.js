@@ -1,1 +1,1 @@
-var mnemonic = "share fuel social marriage goose enter check about cinnamon program wife aerobic";
+var mnemonic = "season soul wait someone guess bread crack tank mask enter symptom shield";

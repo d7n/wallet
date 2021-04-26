@@ -1,1 +1,1 @@
-var mnemonic = "sweet danger elite give canyon debris trim lava sweet drastic media dumb";
+var mnemonic = "barrel arm female palm shift hollow catch journey exotic put bless frost";

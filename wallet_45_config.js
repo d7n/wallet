@@ -1,1 +1,1 @@
-var mnemonic = "pottery kid smart ice bomb payment liberty never dose fun prepare hungry";
+var mnemonic = "nephew banner asthma slab snow flame armor gorilla tide spice document conduct";

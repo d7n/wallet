@@ -1,1 +1,1 @@
-var mnemonic = "sea attitude apology midnight female since elephant verify clarify valid shock athlete";
+var mnemonic = "blur wasp hire ship fancy recycle desert youth burger slice arrange marble";

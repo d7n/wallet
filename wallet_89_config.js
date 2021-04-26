@@ -1,1 +1,1 @@
-var mnemonic = "coach debris yard essay artefact suspect market choose marble tilt wrap interest";
+var mnemonic = "enter cram burger wreck toilet trophy fatigue amused title often mandate orphan";

@@ -1,1 +1,1 @@
-var mnemonic = "erase segment toast pitch enforce symptom differ chunk gentle clump retreat brain";
+var mnemonic = "wish pave tobacco pelican poem dismiss traffic unlock jelly belt virus velvet";

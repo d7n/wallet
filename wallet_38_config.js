@@ -1,1 +1,1 @@
-var mnemonic = "know october language crystal group wrestle payment buddy float dish hurdle open";
+var mnemonic = "now sister enemy soldier major curious system spawn vessel lesson bird basket";

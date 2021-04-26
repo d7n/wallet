@@ -1,1 +1,1 @@
-var mnemonic = "regular style ecology super leisure rain aunt jump brand you crucial slender";
+var mnemonic = "post argue spoil word merit buyer surprise shiver lift click grab laugh";

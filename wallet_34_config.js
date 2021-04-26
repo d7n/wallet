@@ -1,1 +1,1 @@
-var mnemonic = "carpet rose fly reject once dragon symptom traffic extend fence hope nuclear";
+var mnemonic = "huge cloth voyage mimic prosper next celery shallow antenna matter benefit retreat";

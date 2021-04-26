@@ -1,1 +1,1 @@
-var mnemonic = "guard bean donor only sound cake smooth observe answer recall animal direct";
+var mnemonic = "devote current enact decline kitchen priority element dwarf balance fury camp sphere";

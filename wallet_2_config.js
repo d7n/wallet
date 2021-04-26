@@ -1,1 +1,1 @@
-var mnemonic = "ridge observe husband expand scrub mad alley duty body glide worth thought";
+var mnemonic = "nation hybrid alert bleak trim kangaroo auction that diet project price pumpkin";

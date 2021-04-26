@@ -1,1 +1,1 @@
-var mnemonic = "work knife huge swamp mother wire half fire brown frequent regret cycle";
+var mnemonic = "laptop pair fit phrase swift defy blame cave assist unveil plunge manage";

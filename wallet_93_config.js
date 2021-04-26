@@ -1,1 +1,1 @@
-var mnemonic = "tone slow security rebel nominee result theme soda castle box prison garlic";
+var mnemonic = "ivory borrow trap income answer child focus toy flat tenant reunion drastic";

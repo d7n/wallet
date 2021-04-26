@@ -1,1 +1,1 @@
-var mnemonic = "fine achieve phone artwork twelve grief avoid extend loan own talent utility";
+var mnemonic = "right fabric affair volume youth gym amused icon adapt wealth city bamboo";

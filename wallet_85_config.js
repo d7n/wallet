@@ -1,1 +1,1 @@
-var mnemonic = "problem require bulb swift permit illness deliver jar talk climb brave garment";
+var mnemonic = "divorce pass east core repair lottery useless nasty boring purse cloth hub";

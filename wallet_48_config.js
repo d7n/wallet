@@ -1,1 +1,1 @@
-var mnemonic = "pause day athlete monster truly seed acoustic good quick off ginger clown";
+var mnemonic = "must there glad cupboard settle shallow aerobic decorate fever invite angry silk";

@@ -1,1 +1,1 @@
-var mnemonic = "auction box wisdom powder panda raise estate rich rigid infant hub expire";
+var mnemonic = "auction plastic scissors bleak perfect fuel cruel drink knee crash dial atom";

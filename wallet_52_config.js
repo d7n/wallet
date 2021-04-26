@@ -1,1 +1,1 @@
-var mnemonic = "wrong category please barrel sniff sustain vibrant more pencil rude discover anchor";
+var mnemonic = "number domain spice credit gain limb project target cross output theory holiday";

@@ -1,1 +1,1 @@
-var mnemonic = "leg combine estate huge melt fog error evidence grit option joke summer";
+var mnemonic = "reunion taxi remember damage host toilet cabin peasant nature cabbage arena screen";

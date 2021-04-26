@@ -1,1 +1,1 @@
-var mnemonic = "virus guide foot budget peace vehicle pulse globe flee loan impulse warm";
+var mnemonic = "embrace sheriff magic salad lottery floor museum damage couple relief clean across";

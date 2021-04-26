@@ -1,1 +1,1 @@
-var mnemonic = "palace speak earth equip acid clap forum nest oval satisfy room ordinary";
+var mnemonic = "proud finish across panel method dilemma clog close rabbit salon load detect";

@@ -1,1 +1,1 @@
-var mnemonic = "tenant indoor purpose one lake blade please dog prosper current sight nice";
+var mnemonic = "cube verify river song viable ready craft glory enlist bomb aim moon";

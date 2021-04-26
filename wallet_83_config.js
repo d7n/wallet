@@ -1,1 +1,1 @@
-var mnemonic = "sheriff tent impact near already capital water grief strike fork volcano year";
+var mnemonic = "pink remain topple plug visual illegal moon disagree garment amount pave pencil";

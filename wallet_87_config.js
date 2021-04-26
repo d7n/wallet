@@ -1,1 +1,1 @@
-var mnemonic = "island photo olympic worry dove ahead result cart primary vague proud deer";
+var mnemonic = "slide volcano amount dish glad hip render amazing entry elephant recipe grief";

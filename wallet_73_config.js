@@ -1,1 +1,1 @@
-var mnemonic = "stool over air frown trigger invest initial joy wheel affair stomach raccoon";
+var mnemonic = "egg shield affair bonus hurry ride injury yellow trial artwork empower slide";

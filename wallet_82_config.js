@@ -1,1 +1,1 @@
-var mnemonic = "put road glow vast wait wise simple sad display ridge dismiss vital";
+var mnemonic = "twice pave company absent snake bleak lock bunker off sport novel hint";

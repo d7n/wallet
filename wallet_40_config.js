@@ -1,1 +1,1 @@
-var mnemonic = "island notice balance group dirt palace remain high hand square theme wife";
+var mnemonic = "chicken tourist appear degree cup bird indicate game unfair decline absorb act";

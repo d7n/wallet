@@ -1,1 +1,1 @@
-var mnemonic = "own twenty balcony useless inquiry cheap anchor gossip spice symptom paddle aunt";
+var mnemonic = "attitude gift dumb blind dress resist flavor tool refuse glass siege save";

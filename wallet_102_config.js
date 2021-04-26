@@ -1,1 +1,1 @@
-var mnemonic = "tube garbage shoulder episode fun advance dinner connect undo job balance quantum";
+var mnemonic = "rival garden seek replace will shaft taxi leave bag wide home eager";

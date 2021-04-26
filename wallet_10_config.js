@@ -1,1 +1,1 @@
-var mnemonic = "outdoor message chat cactus egg giraffe kitchen rate virus frame sugar head";
+var mnemonic = "secret nuclear crisp envelope ride float laundry oval weather excess great upper";

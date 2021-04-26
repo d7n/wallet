@@ -1,1 +1,1 @@
-var mnemonic = "sugar ten ticket fox scatter anxiety broccoli thought visual exhibit tray oven";
+var mnemonic = "bomb ribbon outside near garden village burger armed sick squeeze entry shuffle";

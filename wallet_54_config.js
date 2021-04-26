@@ -1,1 +1,1 @@
-var mnemonic = "episode sell elephant whisper two proud potato pepper blouse youth blouse mimic";
+var mnemonic = "float gossip remain grit across pole piece pattern sudden alarm bridge people";

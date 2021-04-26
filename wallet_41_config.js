@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog angle master check speak pulse post pen sign grief shadow piece";
+var mnemonic = "pride slice circle funny evil curtain finger indicate vault space layer engine";

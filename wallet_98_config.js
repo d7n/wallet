@@ -1,1 +1,1 @@
-var mnemonic = "give awesome delay run debris erosion above shop hockey brass crystal number";
+var mnemonic = "cliff flip believe tooth victory street teach fly rocket job chef dance";

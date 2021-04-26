@@ -1,1 +1,1 @@
-var mnemonic = "survey work donate finger album belt egg south toss pen habit faint";
+var mnemonic = "mammal load include olympic history casino true fame sheriff yellow daughter foster";

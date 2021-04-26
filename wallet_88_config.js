@@ -1,1 +1,1 @@
-var mnemonic = "expand staff snake pioneer garbage unit tray quantum stool scrap error copper";
+var mnemonic = "parade clinic trigger speed umbrella general goose disease bargain error ten sword";

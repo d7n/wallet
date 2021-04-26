@@ -1,1 +1,1 @@
-var mnemonic = "resemble bargain average magic evil mercy potato brother enlist arm favorite say";
+var mnemonic = "faint since reward arrive timber luggage butter style kind violin humble pelican";

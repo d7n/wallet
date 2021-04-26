@@ -1,1 +1,1 @@
-var mnemonic = "kitchen burst inner amused hard pencil hover curtain title script deny party";
+var mnemonic = "zero wage panic ship ugly elbow dolphin large apart cliff scale tiger";

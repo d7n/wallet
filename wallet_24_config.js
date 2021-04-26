@@ -1,1 +1,1 @@
-var mnemonic = "danger nephew resemble city poverty couple tribe junior unit hunt luggage harbor";
+var mnemonic = "alert tomato deer same camp remember learn paddle wealth strong symbol summer";

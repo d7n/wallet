@@ -1,1 +1,1 @@
-var mnemonic = "wear tray skull into search second flock exact scissors frog burst shove";
+var mnemonic = "insane human alter run acoustic occur behave bonus execute budget whisper seminar";

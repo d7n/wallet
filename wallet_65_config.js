@@ -1,1 +1,1 @@
-var mnemonic = "torch illegal feature field tired balcony away clay empower negative banner roof";
+var mnemonic = "peasant chalk crouch wrestle turn pass cement spell gospel dignity prepare duck";

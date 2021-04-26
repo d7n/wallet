@@ -1,1 +1,1 @@
-var mnemonic = "ill narrow off jar east sphere shrug roof jazz inform popular album";
+var mnemonic = "across butter across grocery goddess remember fold brown task client chapter nice";

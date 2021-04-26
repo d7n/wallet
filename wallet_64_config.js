@@ -1,1 +1,1 @@
-var mnemonic = "quote mix venture typical dream kidney crime ready chimney chuckle dose receive";
+var mnemonic = "crush tornado write permit blue industry float erase deer differ satisfy flavor";

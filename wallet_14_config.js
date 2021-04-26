@@ -1,1 +1,1 @@
-var mnemonic = "hungry degree green together grant direct lazy erase oven cushion enforce analyst";
+var mnemonic = "dog poverty ship glance rate easy vote dynamic sketch lecture rocket enable";

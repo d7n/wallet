@@ -1,1 +1,1 @@
-var mnemonic = "aspect female multiply unhappy system fix miss scrap emotion blouse minute current";
+var mnemonic = "cube era canoe fame soup grief nominee spoil agent rapid panda people";

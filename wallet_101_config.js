@@ -1,1 +1,1 @@
-var mnemonic = "tennis stool faint table jungle perfect blanket seven palace luggage animal catch";
+var mnemonic = "panda faint jungle fit add cargo hybrid shock explain monkey total clap";

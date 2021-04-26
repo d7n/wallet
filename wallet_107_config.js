@@ -1,1 +1,1 @@
-var mnemonic = "tribe voyage leaf demand act sick asthma quantum unhappy hole expect execute";
+var mnemonic = "erase woman sunny upon jacket fury add begin crack discover oyster gas";

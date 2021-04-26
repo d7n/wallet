@@ -1,1 +1,1 @@
-var mnemonic = "green syrup two clerk fan muscle crawl illness hour route copy jungle";
+var mnemonic = "code buffalo traffic bulb sleep seminar detail hurry tenant skull soul refuse";

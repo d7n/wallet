@@ -1,1 +1,1 @@
-var mnemonic = "jaguar danger case tornado fat frozen normal nation kid draw bounce canoe";
+var mnemonic = "bargain friend average city sausage fresh hint frown escape love wheel approve";

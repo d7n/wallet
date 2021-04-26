@@ -1,1 +1,1 @@
-var mnemonic = "ship stairs wave sister crop long kiwi kick various relax carpet lounge";
+var mnemonic = "explain aunt robust cart list pond scatter powder around heart avoid engage";

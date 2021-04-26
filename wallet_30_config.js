@@ -1,1 +1,1 @@
-var mnemonic = "tag praise embody disagree eyebrow fat wild agree stove diagram stable cargo";
+var mnemonic = "boost duty luxury habit ancient tooth ten crisp bullet camera boring write";

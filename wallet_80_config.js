@@ -1,1 +1,1 @@
-var mnemonic = "sting couple runway onion weapon nerve snap banana mango frost mistake able";
+var mnemonic = "message tackle feel another duty hundred metal guide giggle meadow maximum squirrel";

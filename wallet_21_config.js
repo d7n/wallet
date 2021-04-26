@@ -1,1 +1,1 @@
-var mnemonic = "nature stereo wet jewel design save prize solar steel snap execute bomb";
+var mnemonic = "cactus attend issue garbage stereo seminar exclude credit check across moon draw";

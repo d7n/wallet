@@ -1,1 +1,1 @@
-var mnemonic = "party hammer impulse vehicle setup kangaroo hollow treat hawk frozen fitness flush";
+var mnemonic = "this grit cricket video walk verify since explain canal stool federal mushroom";

@@ -1,1 +1,1 @@
-var mnemonic = "license age pole pole pulse able adjust object robot bitter clean alcohol";
+var mnemonic = "cry ocean tray virtual green dog move leisure able box loud lens";

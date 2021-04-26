@@ -1,1 +1,1 @@
-var mnemonic = "enrich list stage motor good warm rough assault virus gravity music beach";
+var mnemonic = "retreat join juice sand guard intact decrease earn indoor story sauce scheme";

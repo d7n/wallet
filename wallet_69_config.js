@@ -1,1 +1,1 @@
-var mnemonic = "trade rescue movie omit spin ready aware math series nest side express";
+var mnemonic = "hotel hawk before movie quantum define salad bitter rely erode piano minor";

@@ -1,1 +1,1 @@
-var mnemonic = "hurdle burst stay pave describe mom area unfold crime duck erosion dash";
+var mnemonic = "obvious style flush vacuum swear sure jaguar behave asset subway alert finish";

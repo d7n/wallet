@@ -1,1 +1,1 @@
-var mnemonic = "bird seminar dog mass chunk zone finish salmon pilot unfold fine ugly";
+var mnemonic = "pigeon margin cannon tone coconut point gauge auto rifle risk wrap prize";

@@ -1,1 +1,1 @@
-var mnemonic = "evolve submit panel cave violin angry tumble remind school donkey panic pony";
+var mnemonic = "drift dish echo direct gun deny doctor basket orbit pupil laptop night";

@@ -1,1 +1,1 @@
-var mnemonic = "ozone perfect asthma hybrid bachelor parade visit mango trust december program stairs";
+var mnemonic = "tag staff ocean turn runway pottery arch long clutch glance scan daughter";

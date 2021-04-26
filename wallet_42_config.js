@@ -1,1 +1,1 @@
-var mnemonic = "unveil spatial render jealous maid domain vehicle pair protect wisdom head prevent";
+var mnemonic = "animal calm kit daring three normal smoke attend fetch nephew wrong holiday";

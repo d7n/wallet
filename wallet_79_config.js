@@ -1,1 +1,1 @@
-var mnemonic = "horse van body enhance purse amateur first field wink style august frequent";
+var mnemonic = "during stock fever dad open lawsuit layer faculty club topple empty wasp";

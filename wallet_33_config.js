@@ -1,1 +1,1 @@
-var mnemonic = "issue token mobile rifle family gym grid coyote object page guilt fragile";
+var mnemonic = "crater panel mammal title exist floor glance crater cigar food moral ridge";

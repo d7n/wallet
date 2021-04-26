@@ -1,1 +1,1 @@
-var mnemonic = "bone absent chunk orphan hope spoil rude pledge plastic crush injury huge";
+var mnemonic = "shell review ginger civil pattern gossip final pig toddler tray appear dream";

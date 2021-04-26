@@ -1,1 +1,1 @@
-var mnemonic = "finish chat forget crime cost rich insane subway input duty inhale fine";
+var mnemonic = "thank dirt misery sleep acoustic neither pink seven gap year predict panda";

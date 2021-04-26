@@ -1,1 +1,1 @@
-var mnemonic = "perfect later raccoon artwork busy fabric analyst brain crop believe brass soldier";
+var mnemonic = "point cigar route trumpet garage document essay silver despair soon biology off";

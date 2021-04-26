@@ -1,1 +1,1 @@
-var mnemonic = "monster open safe uphold decide tuna salmon index maid effort height asthma";
+var mnemonic = "excuse mouse invite student inmate tumble lunch seven joke math wheat woman";

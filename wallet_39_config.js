@@ -1,1 +1,1 @@
-var mnemonic = "faith purse tongue vacuum spare digital broom nose describe equal mixed sentence";
+var mnemonic = "reflect luxury off amazing combine prosper stereo average surface quote more scan";

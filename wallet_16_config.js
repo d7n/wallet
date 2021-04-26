@@ -1,1 +1,1 @@
-var mnemonic = "input fix sunny warm ride hand elevator clay panther never trial sting";
+var mnemonic = "face fix monitor soft farm ecology roof attack paper open amateur pipe";

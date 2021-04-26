@@ -1,1 +1,1 @@
-var mnemonic = "fetch doll pipe absurd share cupboard hurt toss song select sponsor gravity";
+var mnemonic = "earn world hollow auto alter slow captain silly physical topic tent orient";

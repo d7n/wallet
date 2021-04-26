@@ -1,1 +1,1 @@
-var mnemonic = "view explain staff addict reform mammal still pulse fun vanish attack roof";
+var mnemonic = "great round lab unit huge plug split slab plate noble bread honey";

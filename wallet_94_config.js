@@ -1,1 +1,1 @@
-var mnemonic = "donkey switch toe awesome million march end margin toy matrix yellow school";
+var mnemonic = "journey method economy nerve piece web mouse artwork click critic box normal";

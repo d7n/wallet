@@ -1,1 +1,1 @@
-var mnemonic = "derive physical review buffalo decide cancel sand document enjoy circle next glad";
+var mnemonic = "runway gloom winner section deny dynamic valve salt horn blouse ordinary super";

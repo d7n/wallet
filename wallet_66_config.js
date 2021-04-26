@@ -1,1 +1,1 @@
-var mnemonic = "squirrel order potato fruit region ostrich retire artefact bronze donor east thunder";
+var mnemonic = "express jeans depend video flee proud lock fragile drift trim upgrade rack";

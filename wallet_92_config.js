@@ -1,1 +1,1 @@
-var mnemonic = "dismiss define remind stay cross tuna wood limb fluid duty donor glass";
+var mnemonic = "brown street neck window zoo mushroom lift apart lens teach clerk seek";

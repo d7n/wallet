@@ -1,1 +1,1 @@
-var mnemonic = "pottery blush ozone budget whip lava make cram fringe west income jazz";
+var mnemonic = "desk cupboard wire focus switch happy parent beyond dash pelican sea wheat";

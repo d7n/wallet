@@ -1,1 +1,1 @@
-var mnemonic = "crop hybrid comfort huge bacon advance coffee visit palm spatial father grid";
+var mnemonic = "estate burden alcohol prize voice hurdle element suspect electric famous total guess";

@@ -1,1 +1,1 @@
-var mnemonic = "object select gold slender humor mass ticket broom combine catch pond garage";
+var mnemonic = "actress midnight gain toast draw spare turtle muscle alarm exhaust mimic chest";

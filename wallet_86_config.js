@@ -1,1 +1,1 @@
-var mnemonic = "genuine shove sweet hen kingdom valley talent minor jar license imitate express";
+var mnemonic = "mixture throw write resemble coyote copper alarm van spatial utility will valve";
