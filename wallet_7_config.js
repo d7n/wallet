@@ -1,1 +1,1 @@
-var mnemonic = "tongue surprise choice wool wrestle above crash main surface lens mystery museum";
+var mnemonic = "steak concert nest focus symptom spare dry hair correct switch pact supreme";

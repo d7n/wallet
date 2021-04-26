@@ -1,1 +1,1 @@
-var mnemonic = "slight amateur amazing alert spider turn toilet grass mimic someone acoustic come";
+var mnemonic = "elephant ball become onion fragile frame ignore convince asset spike mail day";

@@ -1,1 +1,1 @@
-var mnemonic = "decorate seven horror clown retreat horror shine soap couch feel uphold firm";
+var mnemonic = "steel sure swing buyer ability crack high until advance valid attack blood";

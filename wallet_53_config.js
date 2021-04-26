@@ -1,1 +1,1 @@
-var mnemonic = "trip cabbage pluck truck believe clutch oblige ceiling penalty bracket payment echo";
+var mnemonic = "viable hub coin tattoo shuffle kid pigeon bachelor flock gather minimum search";

@@ -1,1 +1,1 @@
-var mnemonic = "feed tourist later cycle orchard sunset bid help cage idle autumn venue";
+var mnemonic = "know fun spend gentle endorse address rookie park fringe grass online reunion";

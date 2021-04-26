@@ -1,1 +1,1 @@
-var mnemonic = "caught system path chalk rate auto arrive wisdom gospel valve artwork economy";
+var mnemonic = "dish extra naive raven lava isolate type pear black this sheriff image";

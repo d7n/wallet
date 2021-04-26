@@ -1,1 +1,1 @@
-var mnemonic = "trash squirrel hazard tackle praise mechanic obtain message enrich horse coin permit";
+var mnemonic = "decrease crazy kiss bargain wide mixture accuse region camera source seminar wisdom";

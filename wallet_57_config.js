@@ -1,1 +1,1 @@
-var mnemonic = "prepare nice curious average under transfer rocket awkward enjoy awful damp fetch";
+var mnemonic = "hazard punch include park pepper decide prepare siren travel power limb midnight";

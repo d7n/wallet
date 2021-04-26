@@ -1,1 +1,1 @@
-var mnemonic = "spider that please grant carbon young rescue figure garbage dolphin birth unique";
+var mnemonic = "bronze range wheat round degree author kidney sphere fat slab admit soccer";

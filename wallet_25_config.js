@@ -1,1 +1,1 @@
-var mnemonic = "capital cook rally crunch assist brother favorite edit garbage early sibling pupil";
+var mnemonic = "reject lounge alien flower toilet robust fatal sea empower yard bachelor into";

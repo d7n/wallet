@@ -1,1 +1,1 @@
-var mnemonic = "cute fame combine meadow raccoon deal admit balance tenant legend coast response";
+var mnemonic = "bird satisfy reflect zebra come pattern stamp capable outdoor demise liberty model";

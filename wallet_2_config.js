@@ -1,1 +1,1 @@
-var mnemonic = "ugly mad sail cousin derive meat inform furnace grape issue oak poet";
+var mnemonic = "merge hen spike speak mosquito parade remain uniform panic series minute someone";

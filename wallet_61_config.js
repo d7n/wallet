@@ -1,1 +1,1 @@
-var mnemonic = "room scheme find fury tourist remind aunt until battle armor wet orbit";
+var mnemonic = "artwork obtain tree funny warrior humor layer swap hospital stomach liquid school";

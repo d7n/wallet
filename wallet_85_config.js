@@ -1,1 +1,1 @@
-var mnemonic = "sunny census mother either egg real capable pole hip paper suffer author";
+var mnemonic = "area oven issue avoid harsh anxiety mention theory quantum east you describe";

@@ -1,1 +1,1 @@
-var mnemonic = "water immune eagle consider sudden hidden relax arch track swear bachelor large";
+var mnemonic = "room balcony citizen spawn observe legal sniff yellow obvious bamboo left team";

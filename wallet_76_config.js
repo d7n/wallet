@@ -1,1 +1,1 @@
-var mnemonic = "midnight easily wife hamster occur exchange chapter caution connect coyote include symbol";
+var mnemonic = "text member cool educate opera screen giggle test use taxi home regret";

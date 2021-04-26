@@ -1,1 +1,1 @@
-var mnemonic = "million roast gauge morning online must cattle this dentist hedgehog resist conduct";
+var mnemonic = "enlist suggest notice infant suit sweet powder copy stone praise tube position";

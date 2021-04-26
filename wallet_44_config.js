@@ -1,1 +1,1 @@
-var mnemonic = "melt twice price cash away impulse renew there build ready renew police";
+var mnemonic = "tray pizza expand grief crush genuine trial idea misery nurse quiz cradle";

@@ -1,1 +1,1 @@
-var mnemonic = "battle family frame fine only bunker battle blur label hunt cargo boat";
+var mnemonic = "odor ripple solar hollow slender umbrella tool leg release evidence banner uniform";

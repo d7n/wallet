@@ -1,1 +1,1 @@
-var mnemonic = "key language clinic tooth deputy marine mean basic demand state ski donkey";
+var mnemonic = "width bracket space hood suit pottery dash hungry curious oak lottery monitor";

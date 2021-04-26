@@ -1,1 +1,1 @@
-var mnemonic = "barely jump kid beef table desert thank obtain ridge unique junk marriage";
+var mnemonic = "swap slot march afraid advice swift badge deliver hawk turn govern sentence";

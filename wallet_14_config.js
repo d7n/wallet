@@ -1,1 +1,1 @@
-var mnemonic = "awake visa injury protect eagle power crazy nuclear give eight dream soul";
+var mnemonic = "budget credit feel twenty cup foot payment buyer chapter century monkey zone";

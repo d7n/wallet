@@ -1,1 +1,1 @@
-var mnemonic = "wonder join tackle treat riot circle churn moral harsh pumpkin odor moment";
+var mnemonic = "sunset early tip where rude goose stereo angry review name fluid budget";

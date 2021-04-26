@@ -1,1 +1,1 @@
-var mnemonic = "release sad meadow track eager spare canvas problem fluid spider gospel deer";
+var mnemonic = "range clarify buffalo fame relax favorite duty sauce analyst monster rifle endless";

@@ -1,1 +1,1 @@
-var mnemonic = "obvious verify adult visual despair lamp target steak object valid ankle tip";
+var mnemonic = "nerve bomb patrol punch mechanic paddle couple error recall narrow dash utility";

@@ -1,1 +1,1 @@
-var mnemonic = "hidden spot know debris boat shaft tail palace bicycle curve genius crawl";
+var mnemonic = "endorse solution average damp crunch woman tip pink various bless maid flavor";

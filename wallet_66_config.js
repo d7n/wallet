@@ -1,1 +1,1 @@
-var mnemonic = "pigeon phone convince please uphold shallow arch cargo vast fall copper setup";
+var mnemonic = "giraffe solution wisdom curve conduct elevator item stove whale endorse happy thought";

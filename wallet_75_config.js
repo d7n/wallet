@@ -1,1 +1,1 @@
-var mnemonic = "smart tent smile grief satoshi junior sound govern item human over tobacco";
+var mnemonic = "lunch sister proud wave cup check spread volcano apart typical hotel exclude";

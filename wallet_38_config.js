@@ -1,1 +1,1 @@
-var mnemonic = "blast easily believe describe science shoot result rail jaguar retreat light purchase";
+var mnemonic = "slow reunion toward utility never regular wrist blouse advance cloud glue fuel";

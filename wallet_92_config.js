@@ -1,1 +1,1 @@
-var mnemonic = "tongue one print spoil valve problem brush prosper calm across battle cousin";
+var mnemonic = "north color volcano upper park quick story client silver average chair sand";

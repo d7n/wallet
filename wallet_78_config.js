@@ -1,1 +1,1 @@
-var mnemonic = "canal wreck subway media shadow road they prison eternal garbage garage clog";
+var mnemonic = "double quantum mystery width travel wealth divide bunker course foil drill goat";

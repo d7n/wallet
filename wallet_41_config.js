@@ -1,1 +1,1 @@
-var mnemonic = "valve canvas truly body lake ranch include barely sock much apart bar";
+var mnemonic = "bridge feed volume session also summer spray ritual city useful paper tone";

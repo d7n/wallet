@@ -1,1 +1,1 @@
-var mnemonic = "stamp taste chase excite general lamp message tiger curtain tank danger lemon";
+var mnemonic = "way leg muffin hold screen awkward help yellow depend plunge three wrist";

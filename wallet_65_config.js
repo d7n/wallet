@@ -1,1 +1,1 @@
-var mnemonic = "joke twist jungle nasty together ball buzz cover filter box essence promote";
+var mnemonic = "toddler milk prefer file coffee cloth fossil crazy response feature wheat series";

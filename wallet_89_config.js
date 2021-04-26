@@ -1,1 +1,1 @@
-var mnemonic = "edit into confirm knife seat retreat copper letter step swap dizzy patch";
+var mnemonic = "home uncover gaze write leave scale follow beyond comic witness special inspire";

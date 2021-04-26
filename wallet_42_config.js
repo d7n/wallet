@@ -1,1 +1,1 @@
-var mnemonic = "naive trust habit buyer escape parent leaf loan champion front table foam";
+var mnemonic = "pioneer make bright stool village actress dizzy manage april ketchup crisp dream";

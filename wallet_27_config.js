@@ -1,1 +1,1 @@
-var mnemonic = "mass pelican vendor hybrid version era follow carpet fame dismiss cycle honey";
+var mnemonic = "still window useful snack board slight enter hat nerve fringe ritual convince";

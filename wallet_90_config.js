@@ -1,1 +1,1 @@
-var mnemonic = "thought spoon early airport trial repair hospital couch marriage duck govern street";
+var mnemonic = "essay oil lazy bread tape real feed plunge child margin pelican uncle";

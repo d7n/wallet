@@ -1,1 +1,1 @@
-var mnemonic = "velvet develop moral suit ridge mixed seat march frame shallow muscle sense";
+var mnemonic = "valve tomorrow tongue seven december jazz nest firm valve beauty glimpse silk";

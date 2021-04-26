@@ -1,1 +1,1 @@
-var mnemonic = "quarter leave kitchen crumble grass must abandon motor immense pluck fork rather";
+var mnemonic = "bulk sand steel budget opera ice filter useless boat jaguar seek prefer";

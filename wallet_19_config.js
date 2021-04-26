@@ -1,1 +1,1 @@
-var mnemonic = "employ rare price vacuum fat alien local sleep bachelor document worth piece";
+var mnemonic = "this action expand feel verify core neutral pet actual valve pepper brisk";

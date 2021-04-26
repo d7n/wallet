@@ -1,1 +1,1 @@
-var mnemonic = "toddler leaf unfold purchase earth nest cigar ethics tiger off okay utility";
+var mnemonic = "document owner course suggest best loyal recall climb uphold skate unhappy balance";

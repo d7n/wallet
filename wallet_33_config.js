@@ -1,1 +1,1 @@
-var mnemonic = "theory behind attitude this parrot sadness blue visit either work police fantasy";
+var mnemonic = "abandon athlete topple name shallow swift lift shuffle error joy enact oppose";

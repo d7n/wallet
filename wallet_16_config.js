@@ -1,1 +1,1 @@
-var mnemonic = "immense concert improve climb speed front virtual hungry rescue famous dilemma segment";
+var mnemonic = "also end huge salt stadium emerge wall once gun quit sample suit";

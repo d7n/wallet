@@ -1,1 +1,1 @@
-var mnemonic = "firm fitness fall allow bless swear mushroom clay grid provide siren lamp";
+var mnemonic = "that circle chicken uniform custom soup wash regret almost answer close eternal";

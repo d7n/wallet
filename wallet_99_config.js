@@ -1,1 +1,1 @@
-var mnemonic = "network skull ride crawl green connect picture era churn scale improve lab";
+var mnemonic = "sheriff move cost fold catalog clog hold leg oyster pull blind today";

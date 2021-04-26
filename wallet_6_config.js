@@ -1,1 +1,1 @@
-var mnemonic = "antenna chat warfare move plunge jealous plunge grape frequent small casual inside";
+var mnemonic = "primary wide ethics air broccoli express rice group pulp negative abandon speed";

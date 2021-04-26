@@ -1,1 +1,1 @@
-var mnemonic = "domain select april advice enroll food robot among boil matrix airport trigger";
+var mnemonic = "torch pink bus someone remain mosquito inner pepper joy hold movie ill";

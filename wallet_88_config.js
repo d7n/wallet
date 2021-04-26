@@ -1,1 +1,1 @@
-var mnemonic = "piano mixed media destroy wash peanut hedgehog raise bike initial measure unveil";
+var mnemonic = "weird earn service sure expand quantum predict citizen gentle essay trial female";

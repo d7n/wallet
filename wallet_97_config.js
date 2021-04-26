@@ -1,1 +1,1 @@
-var mnemonic = "rebel daring action squirrel faith slide shove rally frost million seminar office";
+var mnemonic = "aunt toy ripple relief giggle layer spell sausage access pluck carbon library";

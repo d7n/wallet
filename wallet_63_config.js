@@ -1,1 +1,1 @@
-var mnemonic = "video razor oxygen subway cruel runway toy job card brief only small";
+var mnemonic = "police blame ice silent baby demand rookie conduct top mention blame main";

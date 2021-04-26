@@ -1,1 +1,1 @@
-var mnemonic = "gallery estate flash box globe rain deny surround analyst flat audit leisure";
+var mnemonic = "almost twist penalty mercy victory cricket muffin found predict essence royal later";

@@ -1,1 +1,1 @@
-var mnemonic = "hover lend best never wrap tennis six height identify toward harvest author";
+var mnemonic = "immune fruit narrow gather humor timber canyon obtain purse armor enhance legal";

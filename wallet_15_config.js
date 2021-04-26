@@ -1,1 +1,1 @@
-var mnemonic = "drip toilet always divide manage more crazy laptop dwarf detail lesson journey";
+var mnemonic = "party range flavor advance young violin price dizzy zone claw exit devote";

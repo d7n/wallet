@@ -1,1 +1,1 @@
-var mnemonic = "term sort lunch dizzy address envelope guard dial useful sea rely fashion";
+var mnemonic = "scene rebuild holiday fish invest plug tongue galaxy custom waste slot basic";

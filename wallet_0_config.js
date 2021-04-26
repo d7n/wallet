@@ -1,1 +1,1 @@
-var mnemonic = "circle upgrade wise buzz zone ladder output matrix scrub live autumn cotton";
+var mnemonic = "woman across fiscal wrist bless miracle december firm hidden profit feed road";

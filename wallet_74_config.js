@@ -1,1 +1,1 @@
-var mnemonic = "motion monkey sheriff barrel family label address story future glass riot bird";
+var mnemonic = "stomach barely peace fee crane embody voice boss train cake adult avocado";

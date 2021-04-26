@@ -1,1 +1,1 @@
-var mnemonic = "sketch income bomb season nurse opera response oppose happy conduct robust chase";
+var mnemonic = "success lunar tag badge royal join minor reopen satoshi office clean scorpion";

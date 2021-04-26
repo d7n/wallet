@@ -1,1 +1,1 @@
-var mnemonic = "voice enjoy rescue rescue involve toss hurdle organ switch similar robot segment";
+var mnemonic = "pulp coach topic tunnel trend section luxury inmate copper use life liberty";

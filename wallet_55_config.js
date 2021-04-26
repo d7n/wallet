@@ -1,1 +1,1 @@
-var mnemonic = "viable grant glue music column pretty monkey version farm genre mammal breeze";
+var mnemonic = "biology can nasty oyster clown situate feel buffalo reflect runway oak once";

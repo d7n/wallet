@@ -1,1 +1,1 @@
-var mnemonic = "case float omit cradle buzz tag small around grocery viable owner side";
+var mnemonic = "wash always music estate real trade perfect large wave because squirrel mosquito";

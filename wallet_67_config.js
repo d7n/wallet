@@ -1,1 +1,1 @@
-var mnemonic = "forum shield giggle opinion you profit isolate occur blanket impact orient biology";
+var mnemonic = "aerobic lizard vague below crawl ugly fall cause use park seven humble";

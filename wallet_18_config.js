@@ -1,1 +1,1 @@
-var mnemonic = "card trash panic ocean play quality gap sunny fee session mask submit";
+var mnemonic = "shrug return fence rebuild uncle early during crazy release sleep spread buzz";

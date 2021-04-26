@@ -1,1 +1,1 @@
-var mnemonic = "connect outdoor renew order fringe stumble still lamp appear truly reopen police";
+var mnemonic = "spell strike shock history advance wood wall walk document hub town skill";

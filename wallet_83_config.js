@@ -1,1 +1,1 @@
-var mnemonic = "useless taste speed front boil motion file organ acoustic elephant magic accident";
+var mnemonic = "quote any remove skill deer pulse kitten news bike hen boring club";

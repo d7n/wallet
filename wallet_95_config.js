@@ -1,1 +1,1 @@
-var mnemonic = "ostrich hunt behave autumn toddler grace hurt fatal kingdom length what steak";
+var mnemonic = "warm museum there lucky stick toddler toe gain dress pill bulk diamond";

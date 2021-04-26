@@ -1,1 +1,1 @@
-var mnemonic = "resist same seat proof jeans arm unveil claim snack window destroy diagram";
+var mnemonic = "earth select define melody aerobic engage wealth grid syrup potato rug number";

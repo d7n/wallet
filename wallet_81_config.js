@@ -1,1 +1,1 @@
-var mnemonic = "negative audit marine mom dinner busy floor opinion believe need dwarf plastic";
+var mnemonic = "brain vibrant interest blood fiscal input oval carbon film fatal garden solve";

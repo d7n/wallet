@@ -1,1 +1,1 @@
-var mnemonic = "old diary sketch vital switch super daring wonder cricket mouse bid urge";
+var mnemonic = "muscle genius debate crouch table evolve panther dad else swallow reason dad";

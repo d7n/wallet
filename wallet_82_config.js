@@ -1,1 +1,1 @@
-var mnemonic = "enlist april pool grace face topic agree mesh allow cage ketchup practice";
+var mnemonic = "joke cruise squirrel curve fluid burden begin merit raven setup garlic pave";

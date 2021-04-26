@@ -1,1 +1,1 @@
-var mnemonic = "shadow luggage oak angle invite neck shield receive control radio session situate";
+var mnemonic = "reject reopen nurse hair have school buffalo beyond bunker step caution fun";

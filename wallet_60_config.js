@@ -1,1 +1,1 @@
-var mnemonic = "cube monkey glass amused soup label coconut scorpion illegal roof dismiss gold";
+var mnemonic = "leaf picnic vivid choice upset visual rug neglect avocado immune student devote";

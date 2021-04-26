@@ -1,1 +1,1 @@
-var mnemonic = "shell insect tribe labor nerve ladder hire barrel clinic wheel that mango";
+var mnemonic = "nature absurd sort ticket mix invite knee oyster tell canoe clay fortune";

@@ -1,1 +1,1 @@
-var mnemonic = "melt soon earth tomorrow vote teach chase idea range jeans session wrist";
+var mnemonic = "someone cupboard over debate mom best wasp blur utility canvas door install";

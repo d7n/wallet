@@ -1,1 +1,1 @@
-var mnemonic = "trouble please trade grow coin awesome among game barely route develop riot";
+var mnemonic = "joy need magnet spare hope radio become tower skin float help maid";

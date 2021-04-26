@@ -1,1 +1,1 @@
-var mnemonic = "material cube fence toss donate unlock squeeze yellow bunker drink layer scatter";
+var mnemonic = "jar surround tackle talent name bring brother consider whale style awful mango";

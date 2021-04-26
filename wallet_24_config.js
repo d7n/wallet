@@ -1,1 +1,1 @@
-var mnemonic = "rude pet gold cake dash rifle grid beyond later drink citizen crime";
+var mnemonic = "valley conduct strong rhythm margin ridge original spatial chronic craft subway coach";

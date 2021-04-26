@@ -1,1 +1,1 @@
-var mnemonic = "speed boost document return exist ceiling city parrot manage lonely verify rail";
+var mnemonic = "supply equal wolf another feel learn depend favorite sting maze viable smooth";

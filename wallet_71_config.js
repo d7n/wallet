@@ -1,1 +1,1 @@
-var mnemonic = "wire paddle faculty industry tuition prosper canal feed buffalo fish they umbrella";
+var mnemonic = "april roof sad congress mom diesel group refuse hunt plate acid quit";

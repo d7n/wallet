@@ -1,1 +1,1 @@
-var mnemonic = "spot busy craft paper slam spray evil woman dragon giggle apart drastic";
+var mnemonic = "term dance bone buyer trip sweet hover office clock fold fringe brand";

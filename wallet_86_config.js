@@ -1,1 +1,1 @@
-var mnemonic = "toy poet found floor style master search season between check organ charge";
+var mnemonic = "spring fox expect afraid neglect comfort success wine wealth shield happy brain";

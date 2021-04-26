@@ -1,1 +1,1 @@
-var mnemonic = "company raccoon match okay denial access forest message moment search text broom";
+var mnemonic = "media wonder armor august theory destroy system alarm tennis tape wasp evolve";

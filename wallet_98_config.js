@@ -1,1 +1,1 @@
-var mnemonic = "skirt sunny jungle gain grain ill repeat scare rebuild year suspect miss";
+var mnemonic = "deny daughter file table creek school coconut faith night safe engage prize";

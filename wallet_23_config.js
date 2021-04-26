@@ -1,1 +1,1 @@
-var mnemonic = "person organ host tortoise spring damage arena raccoon toss minor fortune area";
+var mnemonic = "region mother must pioneer goose pioneer assist potato process peasant pond grunt";

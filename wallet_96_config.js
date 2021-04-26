@@ -1,1 +1,1 @@
-var mnemonic = "face calm where neutral amount wave hurry vessel runway drastic video train";
+var mnemonic = "size orient path buzz hotel enemy profit rate orange claim shine maximum";

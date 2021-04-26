@@ -1,1 +1,1 @@
-var mnemonic = "idle general bracket apart clarify render learn rigid category legal laundry doll";
+var mnemonic = "waste toilet student cross nose tackle ramp warfare napkin world lunar ski";

@@ -1,1 +1,1 @@
-var mnemonic = "inspire gossip wealth false able green hollow twist surface fragile tongue accident";
+var mnemonic = "require birth claw swallow false mountain fog insect goat forum virtual dizzy";

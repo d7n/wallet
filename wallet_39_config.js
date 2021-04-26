@@ -1,1 +1,1 @@
-var mnemonic = "accuse arctic pitch tank early impulse pride rare trial baby intact dolphin";
+var mnemonic = "seed keep surround ladder category annual sick city pull actress dinosaur buyer";

@@ -1,1 +1,1 @@
-var mnemonic = "category seat oak verify certain fat property eagle hidden feed nature best";
+var mnemonic = "earn excite acquire around walk outdoor stable moment yard head thought endless";
