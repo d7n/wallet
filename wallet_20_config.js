@@ -1,1 +1,1 @@
-var mnemonic = "laptop pair fit phrase swift defy blame cave assist unveil plunge manage";
+var mnemonic = "famous cannon weather drama dance access mystery slide arrange whisper pepper term";

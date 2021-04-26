@@ -1,1 +1,1 @@
-var mnemonic = "express jeans depend video flee proud lock fragile drift trim upgrade rack";
+var mnemonic = "surround royal absurd subway cherry slender neither rabbit same month silly consider";

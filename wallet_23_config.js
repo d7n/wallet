@@ -1,1 +1,1 @@
-var mnemonic = "barrel arm female palm shift hollow catch journey exotic put bless frost";
+var mnemonic = "return volume more gain drift high forget grunt veteran enough museum toe";

@@ -1,1 +1,1 @@
-var mnemonic = "float gossip remain grit across pole piece pattern sudden alarm bridge people";
+var mnemonic = "refuse accident label used artwork dash army topple symptom circle stereo fee";

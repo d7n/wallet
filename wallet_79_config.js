@@ -1,1 +1,1 @@
-var mnemonic = "during stock fever dad open lawsuit layer faculty club topple empty wasp";
+var mnemonic = "frog various sphere teach guilt genius beach tattoo delay party humor wage";

@@ -1,1 +1,1 @@
-var mnemonic = "right fabric affair volume youth gym amused icon adapt wealth city bamboo";
+var mnemonic = "opinion force patrol essay inside raccoon never mail armed task reform original";

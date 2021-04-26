@@ -1,1 +1,1 @@
-var mnemonic = "nature combine execute sunset sail scorpion obscure figure post grow swim cradle";
+var mnemonic = "buyer crime rude rough cup carbon dolphin turtle guess loan broom fringe";

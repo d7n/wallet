@@ -1,1 +1,1 @@
-var mnemonic = "retreat join juice sand guard intact decrease earn indoor story sauce scheme";
+var mnemonic = "miracle cinnamon sponsor soup equip fan silent tennis citizen denial draft state";

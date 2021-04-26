@@ -1,1 +1,1 @@
-var mnemonic = "attitude gift dumb blind dress resist flavor tool refuse glass siege save";
+var mnemonic = "chapter ritual alarm tree dish approve buyer expire deny kingdom ski broccoli";

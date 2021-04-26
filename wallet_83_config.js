@@ -1,1 +1,1 @@
-var mnemonic = "pink remain topple plug visual illegal moon disagree garment amount pave pencil";
+var mnemonic = "gain brass maximum shuffle ghost outdoor police argue spirit survey orange trash";

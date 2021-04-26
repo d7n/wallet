@@ -1,1 +1,1 @@
-var mnemonic = "aunt grape hurt payment trumpet file project arena state fire more frozen";
+var mnemonic = "normal enlist potato ritual cinnamon amateur engage pulse rule peanut about mystery";

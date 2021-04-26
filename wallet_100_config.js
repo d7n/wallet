@@ -1,1 +1,1 @@
-var mnemonic = "bomb ribbon outside near garden village burger armed sick squeeze entry shuffle";
+var mnemonic = "flag labor rescue page now pelican insect area arctic kite giggle eagle";

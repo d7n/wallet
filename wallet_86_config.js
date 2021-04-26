@@ -1,1 +1,1 @@
-var mnemonic = "mixture throw write resemble coyote copper alarm van spatial utility will valve";
+var mnemonic = "prevent feel tone cabbage rice settle banner drift ritual fiber require stool";

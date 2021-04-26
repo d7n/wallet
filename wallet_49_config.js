@@ -1,1 +1,1 @@
-var mnemonic = "cube era canoe fame soup grief nominee spoil agent rapid panda people";
+var mnemonic = "volcano still envelope churn cushion spread utility intact clerk spawn siege cook";

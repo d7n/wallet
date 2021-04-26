@@ -1,1 +1,1 @@
-var mnemonic = "reunion taxi remember damage host toilet cabin peasant nature cabbage arena screen";
+var mnemonic = "slim board claw warm sound lab tower tennis mango wire ticket ramp";

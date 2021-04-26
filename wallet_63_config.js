@@ -1,1 +1,1 @@
-var mnemonic = "void three logic elite essence replace fox between spread economy science jaguar";
+var mnemonic = "leg depth practice lava predict lend rose gossip dignity when trust harvest";

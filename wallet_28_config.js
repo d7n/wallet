@@ -1,1 +1,1 @@
-var mnemonic = "gain gather short roof fetch funny close liar thing skin expect object";
+var mnemonic = "zero feed toss color life slab agent detail actor tomorrow apart ensure";

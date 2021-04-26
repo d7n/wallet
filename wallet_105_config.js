@@ -1,1 +1,1 @@
-var mnemonic = "season soul wait someone guess bread crack tank mask enter symptom shield";
+var mnemonic = "grunt quick off must coyote guard baby prepare notice power sweet jaguar";

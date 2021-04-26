@@ -1,1 +1,1 @@
-var mnemonic = "dog poverty ship glance rate easy vote dynamic sketch lecture rocket enable";
+var mnemonic = "uncover million depth bottom lock apple wear craft input combine south cradle";

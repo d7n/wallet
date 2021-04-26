@@ -1,1 +1,1 @@
-var mnemonic = "thank dirt misery sleep acoustic neither pink seven gap year predict panda";
+var mnemonic = "visa tool earth alpha analyst rescue shy segment arch angle meadow genius";

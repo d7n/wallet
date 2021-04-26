@@ -1,1 +1,1 @@
-var mnemonic = "runway airport liberty spike powder scatter winner situate collect slide board trial";
+var mnemonic = "abstract tissue suggest rival vendor prefer brief rabbit loud become tilt inquiry";

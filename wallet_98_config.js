@@ -1,1 +1,1 @@
-var mnemonic = "cliff flip believe tooth victory street teach fly rocket job chef dance";
+var mnemonic = "excite trash depart frog armor crucial hold tissue shadow voyage scout enforce";

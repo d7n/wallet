@@ -1,1 +1,1 @@
-var mnemonic = "panda faint jungle fit add cargo hybrid shock explain monkey total clap";
+var mnemonic = "wool drop hire february bench exotic easily until olympic random agent roast";

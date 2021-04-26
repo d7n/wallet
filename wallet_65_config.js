@@ -1,1 +1,1 @@
-var mnemonic = "peasant chalk crouch wrestle turn pass cement spell gospel dignity prepare duck";
+var mnemonic = "radio copy decrease tent immune pioneer remain domain hundred broom fashion extend";

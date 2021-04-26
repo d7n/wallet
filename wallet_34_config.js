@@ -1,1 +1,1 @@
-var mnemonic = "huge cloth voyage mimic prosper next celery shallow antenna matter benefit retreat";
+var mnemonic = "car delay coil domain wisdom duty maximum eight dawn curve orphan merge";

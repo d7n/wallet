@@ -1,1 +1,1 @@
-var mnemonic = "runway gloom winner section deny dynamic valve salt horn blouse ordinary super";
+var mnemonic = "delay buzz guilt category long noodle pact claw abstract poet copy hotel";

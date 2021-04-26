@@ -1,1 +1,1 @@
-var mnemonic = "estate burden alcohol prize voice hurdle element suspect electric famous total guess";
+var mnemonic = "still multiply avocado gloom manual setup drum reflect victory winner giraffe vote";

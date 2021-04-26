@@ -1,1 +1,1 @@
-var mnemonic = "nephew banner asthma slab snow flame armor gorilla tide spice document conduct";
+var mnemonic = "door pledge reject pattern link throw portion door engage sort view head";

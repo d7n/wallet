@@ -1,1 +1,1 @@
-var mnemonic = "must there glad cupboard settle shallow aerobic decorate fever invite angry silk";
+var mnemonic = "outer stone pizza dumb fork dry width pretty crouch firm canyon pupil";

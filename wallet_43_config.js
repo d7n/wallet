@@ -1,1 +1,1 @@
-var mnemonic = "motion risk crop attitude carpet illness high usage myself visit extend box";
+var mnemonic = "anxiety mirror flag avocado flower upon captain blush banner jewel picture extra";

@@ -1,1 +1,1 @@
-var mnemonic = "boost duty luxury habit ancient tooth ten crisp bullet camera boring write";
+var mnemonic = "echo become spot debate radio deposit tennis order tide soft grace taste";

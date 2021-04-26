@@ -1,1 +1,1 @@
-var mnemonic = "topple cinnamon saddle wrist return hunt car labor lucky prosper mad point";
+var mnemonic = "enhance jealous diet pilot sun ignore gravity laptop choice garlic vapor upon";

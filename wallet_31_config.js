@@ -1,1 +1,1 @@
-var mnemonic = "insane human alter run acoustic occur behave bonus execute budget whisper seminar";
+var mnemonic = "retreat pyramid pigeon universe proud resist bird art spike tower behave cake";

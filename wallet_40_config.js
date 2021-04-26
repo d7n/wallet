@@ -1,1 +1,1 @@
-var mnemonic = "chicken tourist appear degree cup bird indicate game unfair decline absorb act";
+var mnemonic = "hollow outside kitchen miss favorite coral faint trap eternal enforce body forward";

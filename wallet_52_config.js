@@ -1,1 +1,1 @@
-var mnemonic = "number domain spice credit gain limb project target cross output theory holiday";
+var mnemonic = "scorpion flush found kitchen drive chase coast wrong armed trust mango strategy";

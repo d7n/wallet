@@ -1,1 +1,1 @@
-var mnemonic = "secret nuclear crisp envelope ride float laundry oval weather excess great upper";
+var mnemonic = "loud method chuckle clump radio zero rely hover bike talk height like";

@@ -1,1 +1,1 @@
-var mnemonic = "pride slice circle funny evil curtain finger indicate vault space layer engine";
+var mnemonic = "assume aisle essay pipe use flat silver person humble nose devote weather";

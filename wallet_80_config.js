@@ -1,1 +1,1 @@
-var mnemonic = "message tackle feel another duty hundred metal guide giggle meadow maximum squirrel";
+var mnemonic = "dinner million cart spoon gossip income brown goddess plate artefact antenna ankle";

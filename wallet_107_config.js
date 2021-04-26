@@ -1,1 +1,1 @@
-var mnemonic = "erase woman sunny upon jacket fury add begin crack discover oyster gas";
+var mnemonic = "doll winner never town taxi alone pulp nurse tourist venture item dial";

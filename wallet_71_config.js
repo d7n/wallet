@@ -1,1 +1,1 @@
-var mnemonic = "wrestle charge salmon among venue pear tennis rice lava age view rubber";
+var mnemonic = "trumpet thing mother lend breeze tiny camera shiver lottery switch key buyer";

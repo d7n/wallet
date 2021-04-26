@@ -1,1 +1,1 @@
-var mnemonic = "cube verify river song viable ready craft glory enlist bomb aim moon";
+var mnemonic = "ivory genre mango glance divide fetch practice multiply nurse bitter silent unaware";

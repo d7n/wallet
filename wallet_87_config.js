@@ -1,1 +1,1 @@
-var mnemonic = "slide volcano amount dish glad hip render amazing entry elephant recipe grief";
+var mnemonic = "doctor robust rice polar live later alone hurdle talent dignity amazing hole";

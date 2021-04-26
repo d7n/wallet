@@ -1,1 +1,1 @@
-var mnemonic = "crush tornado write permit blue industry float erase deer differ satisfy flavor";
+var mnemonic = "have cute plastic lava mansion element vacuum advance canal simple pond square";

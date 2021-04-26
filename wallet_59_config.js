@@ -1,1 +1,1 @@
-var mnemonic = "shadow dog skull kick glue shiver emerge inform fossil fine gallery black";
+var mnemonic = "swear potato trigger rely legend dust theme cost empty crop angry mail";

@@ -1,1 +1,1 @@
-var mnemonic = "face fix monitor soft farm ecology roof attack paper open amateur pipe";
+var mnemonic = "fluid twin road virtual uphold vapor surround upon point post eager tag";

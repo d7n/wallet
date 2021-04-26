@@ -1,1 +1,1 @@
-var mnemonic = "friend vibrant trigger work relax gloom kind tape immune keen odor perfect";
+var mnemonic = "vote fun other post split viable dash boss slam visa slot welcome";

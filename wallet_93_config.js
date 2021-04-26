@@ -1,1 +1,1 @@
-var mnemonic = "ivory borrow trap income answer child focus toy flat tenant reunion drastic";
+var mnemonic = "bleak fire sell indicate guess wife pipe pause basket butter imitate feed";

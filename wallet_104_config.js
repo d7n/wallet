@@ -1,1 +1,1 @@
-var mnemonic = "sibling celery around distance media knee found foam smile provide indicate other";
+var mnemonic = "spend surround portion smart bless harvest minor flush dinner useless load fire";

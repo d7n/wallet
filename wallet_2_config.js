@@ -1,1 +1,1 @@
-var mnemonic = "nation hybrid alert bleak trim kangaroo auction that diet project price pumpkin";
+var mnemonic = "retire call air neglect mail sort flavor leisure laptop powder bench heavy";

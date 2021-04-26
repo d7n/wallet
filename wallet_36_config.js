@@ -1,1 +1,1 @@
-var mnemonic = "swallow awake salmon prepare thought buyer visit garbage park orchard soon entry";
+var mnemonic = "blade soda quit error plate multiply awkward volcano reunion exchange push post";

@@ -1,1 +1,1 @@
-var mnemonic = "drift dish echo direct gun deny doctor basket orbit pupil laptop night";
+var mnemonic = "torch connect advance apart pool boost please mix develop polar learn child";

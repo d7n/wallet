@@ -1,1 +1,1 @@
-var mnemonic = "across butter across grocery goddess remember fold brown task client chapter nice";
+var mnemonic = "favorite monster silly among wool endless outside another hello cage excite pilot";

@@ -1,1 +1,1 @@
-var mnemonic = "code buffalo traffic bulb sleep seminar detail hurry tenant skull soul refuse";
+var mnemonic = "improve sister absent barrel recycle antenna resist social mad flower question twelve";

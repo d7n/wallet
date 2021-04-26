@@ -1,1 +1,1 @@
-var mnemonic = "auction plastic scissors bleak perfect fuel cruel drink knee crash dial atom";
+var mnemonic = "bone notable also issue gold column shallow aunt middle knee fame deliver";

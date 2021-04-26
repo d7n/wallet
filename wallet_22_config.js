@@ -1,1 +1,1 @@
-var mnemonic = "arch speak sorry acquire subject point ocean spatial duck holiday yard master";
+var mnemonic = "velvet devote hard network keep tribe between struggle gun series cake reject";

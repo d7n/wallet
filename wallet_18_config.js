@@ -1,1 +1,1 @@
-var mnemonic = "wonder chalk soft crazy mesh apart syrup pill define lyrics tooth report";
+var mnemonic = "choose kidney someone escape mixture behind please attend glue valid common father";

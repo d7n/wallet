@@ -1,1 +1,1 @@
-var mnemonic = "hotel hawk before movie quantum define salad bitter rely erode piano minor";
+var mnemonic = "genius book milk just menu april tomorrow enroll anchor body sorry unknown";

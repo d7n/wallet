@@ -1,1 +1,1 @@
-var mnemonic = "burden sock age corn people enforce bone wrist response excess mercy mushroom";
+var mnemonic = "coin brisk engage trophy act candy expire enough camp miracle clump sunny";

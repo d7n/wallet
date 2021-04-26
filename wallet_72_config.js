@@ -1,1 +1,1 @@
-var mnemonic = "excite swallow beach fringe train humble choose absent busy multiply joy unknown";
+var mnemonic = "alien shove digital key degree frog fabric auto ivory ocean situate height";

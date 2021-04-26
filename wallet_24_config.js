@@ -1,1 +1,1 @@
-var mnemonic = "alert tomato deer same camp remember learn paddle wealth strong symbol summer";
+var mnemonic = "method magnet reward multiply web hour seat maze flower chef grab sudden";

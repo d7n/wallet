@@ -1,1 +1,1 @@
-var mnemonic = "desk cupboard wire focus switch happy parent beyond dash pelican sea wheat";
+var mnemonic = "dad segment trap negative pear fabric ginger depart chat siren invest swim";

@@ -1,1 +1,1 @@
-var mnemonic = "together trouble zoo only cabin join check wagon exclude blouse cancel drip";
+var mnemonic = "industry crash wrap left mean someone claw drum matrix north core draft";

@@ -1,1 +1,1 @@
-var mnemonic = "journey method economy nerve piece web mouse artwork click critic box normal";
+var mnemonic = "cram web merit almost motion cannon helmet picnic property blanket embody romance";

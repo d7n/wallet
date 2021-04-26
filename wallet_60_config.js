@@ -1,1 +1,1 @@
-var mnemonic = "piece fuel ask foot range differ trade jealous draw increase badge choose";
+var mnemonic = "differ narrow alone urge answer donor use warfare dinner replace smart farm";

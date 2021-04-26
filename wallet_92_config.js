@@ -1,1 +1,1 @@
-var mnemonic = "brown street neck window zoo mushroom lift apart lens teach clerk seek";
+var mnemonic = "furnace interest sell jungle foam opinion process monitor patrol gun clean lava";

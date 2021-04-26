@@ -1,1 +1,1 @@
-var mnemonic = "explain aunt robust cart list pond scatter powder around heart avoid engage";
+var mnemonic = "crack between wool call physical notice antique used mouse weasel baby plastic";

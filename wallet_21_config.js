@@ -1,1 +1,1 @@
-var mnemonic = "cactus attend issue garbage stereo seminar exclude credit check across moon draw";
+var mnemonic = "damage swear local cable lamp pact explain curtain exclude pitch health fortune";

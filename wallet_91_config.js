@@ -1,1 +1,1 @@
-var mnemonic = "hope only host gain walk goat price notice nice journey used penalty";
+var mnemonic = "arctic easy kiss glory harsh police else rigid gorilla erosion move skin";

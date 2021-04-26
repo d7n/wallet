@@ -1,1 +1,1 @@
-var mnemonic = "earn world hollow auto alter slow captain silly physical topic tent orient";
+var mnemonic = "leaf funny receive exact couple urge sad situate gesture guard road labor";

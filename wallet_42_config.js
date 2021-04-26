@@ -1,1 +1,1 @@
-var mnemonic = "animal calm kit daring three normal smoke attend fetch nephew wrong holiday";
+var mnemonic = "gather prison depart rhythm meat custom share demand derive utility copper case";

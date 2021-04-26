@@ -1,1 +1,1 @@
-var mnemonic = "reflect luxury off amazing combine prosper stereo average surface quote more scan";
+var mnemonic = "tackle enjoy cup valley tongue small media vehicle that million vicious follow";

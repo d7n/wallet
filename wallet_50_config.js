@@ -1,1 +1,1 @@
-var mnemonic = "devote current enact decline kitchen priority element dwarf balance fury camp sphere";
+var mnemonic = "onion letter refuse wing floor network pride diet aim hello youth fit";

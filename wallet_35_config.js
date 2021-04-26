@@ -1,1 +1,1 @@
-var mnemonic = "brief deposit party aware rug version swamp goose oil arch lobster address";
+var mnemonic = "enrich spare buzz later dose flash much ladder wear float ice chicken";

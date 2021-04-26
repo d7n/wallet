@@ -1,1 +1,1 @@
-var mnemonic = "this grit cricket video walk verify since explain canal stool federal mushroom";
+var mnemonic = "fan direct brief vast midnight wealth cotton dirt useful eye abuse season";

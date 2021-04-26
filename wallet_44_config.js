@@ -1,1 +1,1 @@
-var mnemonic = "lion involve drift burst upset one clap board alley pioneer lobster envelope";
+var mnemonic = "provide mule disorder club student shift theory float invite advice party silk";

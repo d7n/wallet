@@ -1,1 +1,1 @@
-var mnemonic = "proud finish across panel method dilemma clog close rabbit salon load detect";
+var mnemonic = "approve save glad impact blame speed hobby vibrant syrup online worth simple";

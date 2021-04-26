@@ -1,1 +1,1 @@
-var mnemonic = "faint since reward arrive timber luggage butter style kind violin humble pelican";
+var mnemonic = "wave lady multiply very gym arrow boy own warrior core hotel chest";

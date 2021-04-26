@@ -1,1 +1,1 @@
-var mnemonic = "mammal load include olympic history casino true fame sheriff yellow daughter foster";
+var mnemonic = "story adjust fresh smart useless human problem history multiply ring bulb nice";

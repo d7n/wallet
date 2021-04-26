@@ -1,1 +1,1 @@
-var mnemonic = "divorce pass east core repair lottery useless nasty boring purse cloth hub";
+var mnemonic = "soccer menu choice true couch sight lady leave marine rule love nephew";

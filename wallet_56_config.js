@@ -1,1 +1,1 @@
-var mnemonic = "pigeon margin cannon tone coconut point gauge auto rifle risk wrap prize";
+var mnemonic = "mansion side enroll middle hospital mandate split now home sense situate virus";

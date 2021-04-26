@@ -1,1 +1,1 @@
-var mnemonic = "enter cram burger wreck toilet trophy fatigue amused title often mandate orphan";
+var mnemonic = "assault easily decide inflict symptom expire raise oxygen level airport merge claw";

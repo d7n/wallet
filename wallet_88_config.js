@@ -1,1 +1,1 @@
-var mnemonic = "parade clinic trigger speed umbrella general goose disease bargain error ten sword";
+var mnemonic = "life home beef citizen artist place rookie moment corn rally fiction copper";

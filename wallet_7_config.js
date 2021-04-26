@@ -1,1 +1,1 @@
-var mnemonic = "demise army agree stool mistake crane endless style flash neglect reason decade";
+var mnemonic = "region enlist neither census unable slice destroy tenant fitness silver level country";

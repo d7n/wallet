@@ -1,1 +1,1 @@
-var mnemonic = "outside saddle inhale muffin crime mango luggage chase jaguar tragic envelope cereal";
+var mnemonic = "exile melt keep what tail unfair veteran peanut carbon frog enough rate";

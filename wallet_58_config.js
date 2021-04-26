@@ -1,1 +1,1 @@
-var mnemonic = "actress midnight gain toast draw spare turtle muscle alarm exhaust mimic chest";
+var mnemonic = "dignity album bonus stick mountain nothing reopen shock pulp squeeze question plug";

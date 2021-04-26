@@ -1,1 +1,1 @@
-var mnemonic = "rival garden seek replace will shaft taxi leave bag wide home eager";
+var mnemonic = "whale team proud domain maze bronze table loop grass crisp bird sea";

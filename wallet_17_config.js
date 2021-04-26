@@ -1,1 +1,1 @@
-var mnemonic = "tag staff ocean turn runway pottery arch long clutch glance scan daughter";
+var mnemonic = "finish fox chuckle rescue laptop hammer excess spot impact sword sleep venue";

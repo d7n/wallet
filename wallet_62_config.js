@@ -1,1 +1,1 @@
-var mnemonic = "excuse mouse invite student inmate tumble lunch seven joke math wheat woman";
+var mnemonic = "employ right emerge resist reunion remember position mad magic curtain dawn accuse";

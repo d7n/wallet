@@ -1,1 +1,1 @@
-var mnemonic = "bargain friend average city sausage fresh hint frown escape love wheel approve";
+var mnemonic = "special brisk renew unusual anger broccoli chunk anger knee patch margin life";

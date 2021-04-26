@@ -1,1 +1,1 @@
-var mnemonic = "cry ocean tray virtual green dog move leisure able box loud lens";
+var mnemonic = "wreck praise reflect arm kitchen duck december borrow olive funny above height";

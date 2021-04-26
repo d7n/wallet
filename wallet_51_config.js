@@ -1,1 +1,1 @@
-var mnemonic = "point cigar route trumpet garage document essay silver despair soon biology off";
+var mnemonic = "egg zone easily bike melt observe before approve sad velvet cup acquire";

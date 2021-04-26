@@ -1,1 +1,1 @@
-var mnemonic = "virtual unlock popular dignity shy fan ship deny bar cable public allow";
+var mnemonic = "off craft segment rent shoe jungle road filter polar organ often include";

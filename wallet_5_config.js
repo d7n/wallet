@@ -1,1 +1,1 @@
-var mnemonic = "phone apology sketch nature stable alter horror figure basic hand sorry math";
+var mnemonic = "riot change toddler saddle south gauge reopen thank mean door endless river";
