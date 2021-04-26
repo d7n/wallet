@@ -1,1 +1,1 @@
-var mnemonic = "stuff what lesson aerobic glare wild carry scan detail expose sleep deny";
+var mnemonic = "net position novel abuse joke flat nature maple unveil ask library famous";

@@ -1,1 +1,1 @@
-var mnemonic = "eager crouch miss census sphere road wrong smile shy patrol insect arrest";
+var mnemonic = "engage box mandate tool noise lava shield diet august age grant train";

@@ -1,1 +1,1 @@
-var mnemonic = "next income fame lucky seminar slogan south win suit magic acoustic vicious";
+var mnemonic = "toilet fringe awkward zero doll cigar mention original gaze above combine fatal";

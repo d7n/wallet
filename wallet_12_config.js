@@ -1,1 +1,1 @@
-var mnemonic = "ghost sketch love food ripple diamond turkey vocal impose flash trend monitor";
+var mnemonic = "love hollow glove asset excuse seek canoe turkey fossil castle buddy audit";

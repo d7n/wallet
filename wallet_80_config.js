@@ -1,1 +1,1 @@
-var mnemonic = "melt mirror dumb abandon long blossom behave evolve piece rubber wash pool";
+var mnemonic = "engage aim wedding occur teach animal okay monkey debris remain monkey then";

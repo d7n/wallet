@@ -1,1 +1,1 @@
-var mnemonic = "assume arrive modify security spoil concert venture depart december invite black gauge";
+var mnemonic = "maid glue scrub clay frequent chapter crowd march barrel side inside photo";

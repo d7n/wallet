@@ -1,1 +1,1 @@
-var mnemonic = "uncover repair buddy dirt task length vintage road turn champion wine equal";
+var mnemonic = "right rabbit illness kitten write prison glare feed source clog clinic voice";

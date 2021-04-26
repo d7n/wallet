@@ -1,1 +1,1 @@
-var mnemonic = "scare rural announce reflect aim mask blur crack scrap print skill any";
+var mnemonic = "globe return random reform annual punch service gaze roast industry witness icon";

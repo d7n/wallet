@@ -1,1 +1,1 @@
-var mnemonic = "team under manage drum road cram image current remind glory smile crew";
+var mnemonic = "bulb bird mandate rival enter pumpkin jelly canoe soldier office uncover barely";

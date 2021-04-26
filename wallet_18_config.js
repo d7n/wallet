@@ -1,1 +1,1 @@
-var mnemonic = "sheriff muffin milk giggle student zone quantum robust dilemma govern apart lucky";
+var mnemonic = "ramp gym adjust digital fever promote among survey battle shop vicious ability";

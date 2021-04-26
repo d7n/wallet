@@ -1,1 +1,1 @@
-var mnemonic = "since mutual holiday field polar debris universe shed aware grant health behind";
+var mnemonic = "creek lecture walk adult pottery sting party destroy economy gesture patient muffin";

@@ -1,1 +1,1 @@
-var mnemonic = "outer hour move quarter ladder favorite office rib fresh remember salad hybrid";
+var mnemonic = "quarter toe voice silly supply blur tiger pizza museum easily accuse royal";

@@ -1,1 +1,1 @@
-var mnemonic = "drama soccer rhythm jungle team forum evil trust brain panic giant lecture";
+var mnemonic = "sustain ginger first borrow solve guilt stable mom normal shrimp salad tree";

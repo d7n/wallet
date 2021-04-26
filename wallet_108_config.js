@@ -1,1 +1,1 @@
-var mnemonic = "machine cloud relax swap cricket raw carbon gain depend farm wink venture";
+var mnemonic = "broken carbon alter buzz will alpha pledge myself muscle guess cost large";

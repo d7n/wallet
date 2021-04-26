@@ -1,1 +1,1 @@
-var mnemonic = "suffer lady mercy attack hard wool museum loan loyal spike pottery sustain";
+var mnemonic = "visual thought unhappy unfair harbor sure limb buddy host soup mixture mistake";

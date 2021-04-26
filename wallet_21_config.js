@@ -1,1 +1,1 @@
-var mnemonic = "artwork firm oak victory misery enable naive social sudden midnight worth silk";
+var mnemonic = "invite usual retreat country wall family duty assist mouse spy amount fatigue";

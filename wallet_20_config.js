@@ -1,1 +1,1 @@
-var mnemonic = "bike secret pair chaos spike update income prevent useful industry occur lesson";
+var mnemonic = "monitor visual empty humble degree ensure father quality myself resist excite sweet";

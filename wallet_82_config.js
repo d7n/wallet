@@ -1,1 +1,1 @@
-var mnemonic = "dry vessel enact tuna gadget genius cross giraffe buddy route ceiling first";
+var mnemonic = "damage next tribe flat screen rather library unusual puppy bubble trade welcome";

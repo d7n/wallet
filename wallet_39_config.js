@@ -1,1 +1,1 @@
-var mnemonic = "siege small replace swap chalk top satoshi canvas visit latin exclude zero";
+var mnemonic = "pact adjust peasant acid sausage congress pelican chimney awful auto donor elegant";

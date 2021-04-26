@@ -1,1 +1,1 @@
-var mnemonic = "lab alcohol chuckle cancel media olive journey host mercy camera use pipe";
+var mnemonic = "boil math cheap stock giraffe cage detect scatter slice offer miss first";

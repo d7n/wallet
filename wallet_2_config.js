@@ -1,1 +1,1 @@
-var mnemonic = "earn prosper trend lottery need raccoon snow gap imitate tired urge describe";
+var mnemonic = "settle license glow example quarter crawl syrup kidney cotton car cost can";

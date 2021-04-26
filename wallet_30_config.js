@@ -1,1 +1,1 @@
-var mnemonic = "world happy glass exile liberty scorpion castle glide radio into quick abstract";
+var mnemonic = "crazy three fresh canal input plug over victory thunder bleak immune theory";

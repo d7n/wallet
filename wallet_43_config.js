@@ -1,1 +1,1 @@
-var mnemonic = "enact naive normal tonight head slab pull tree garbage silver remain consider";
+var mnemonic = "federal pupil gallery gadget hammer lock broccoli pencil frog ribbon maple make";

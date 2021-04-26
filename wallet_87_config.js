@@ -1,1 +1,1 @@
-var mnemonic = "cattle wheat glad carpet jacket frown urge feature negative raise language inner";
+var mnemonic = "velvet annual survey clarify fee shield ladder jar sword laugh possible reveal";

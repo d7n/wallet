@@ -1,1 +1,1 @@
-var mnemonic = "apart dog grid mind client robust dose unable world race audit genre";
+var mnemonic = "dog about fancy fetch result fashion stool lamp change town patient shy";

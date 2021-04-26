@@ -1,1 +1,1 @@
-var mnemonic = "wage civil stumble crew office galaxy prison comic pen brass shallow spawn";
+var mnemonic = "refuse forget uncle pride goose valid three cook license sign razor scorpion";

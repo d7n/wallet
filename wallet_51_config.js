@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin marine simple kidney among test aware narrow disease genius elephant join";
+var mnemonic = "speed shoulder umbrella impose floor choice survey person student cherry venue gloom";

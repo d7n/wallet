@@ -1,1 +1,1 @@
-var mnemonic = "culture industry wheat gain whip idea survey miracle else pigeon expand cart";
+var mnemonic = "match urban collect tilt dose pond again coach accident side laundry script";

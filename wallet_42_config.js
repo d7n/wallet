@@ -1,1 +1,1 @@
-var mnemonic = "cup turkey celery earn funny final daughter option stomach fitness lamp reveal";
+var mnemonic = "crunch tilt travel tornado bullet author little know catalog face traffic kite";

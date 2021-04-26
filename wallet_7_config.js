@@ -1,1 +1,1 @@
-var mnemonic = "state young fire clip elevator insect claim talk vessel chimney aerobic angry";
+var mnemonic = "income october mother opera prevent unfold crumble valley office noble spawn radar";

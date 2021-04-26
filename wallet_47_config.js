@@ -1,1 +1,1 @@
-var mnemonic = "put caught toss enable six save thing merry top confirm rough later";
+var mnemonic = "tongue record today lift ancient design acquire tide tag father path cluster";

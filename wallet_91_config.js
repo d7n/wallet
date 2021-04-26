@@ -1,1 +1,1 @@
-var mnemonic = "rival between bird seek ill gossip mule width risk arm laptop huge";
+var mnemonic = "tumble burden various garage ring stay quiz outside split soft scale suspect";

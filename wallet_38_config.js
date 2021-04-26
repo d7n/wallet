@@ -1,1 +1,1 @@
-var mnemonic = "grain absent pole casual world poverty easily style moon slide zebra transfer";
+var mnemonic = "unusual frequent zebra tank ask charge toss tunnel vibrant busy view install";

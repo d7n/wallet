@@ -1,1 +1,1 @@
-var mnemonic = "dragon cram addict breeze session holiday earth ethics twist brick tail tent";
+var mnemonic = "brief keen place one measure congress card truck arrive submit tree split";

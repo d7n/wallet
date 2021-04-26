@@ -1,1 +1,1 @@
-var mnemonic = "little warrior wheel perfect balance suit thank organ brick curtain leader top";
+var mnemonic = "mad canal glory announce floor pond pave burden cool gesture load message";

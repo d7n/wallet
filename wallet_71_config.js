@@ -1,1 +1,1 @@
-var mnemonic = "surround story practice narrow torch sorry process whip cycle bag jungle blade";
+var mnemonic = "message pudding address notice season side chef genius daring soldier chat forest";

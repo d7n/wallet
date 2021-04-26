@@ -1,1 +1,1 @@
-var mnemonic = "initial kiss captain option cinnamon retreat assume dad arrest hawk cool dizzy";
+var mnemonic = "cabin ball document jazz tone faint evoke lift until plastic scale wet";

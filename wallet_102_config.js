@@ -1,1 +1,1 @@
-var mnemonic = "unable first twist ridge wild donkey usage save put skull planet loud";
+var mnemonic = "aerobic road they guard violin bean gesture bargain subject hungry finger clip";

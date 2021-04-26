@@ -1,1 +1,1 @@
-var mnemonic = "video lake envelope leave impact absorb maid fence vacant shift twenty resist";
+var mnemonic = "middle cream language dove fade pet can spot improve deputy exotic often";

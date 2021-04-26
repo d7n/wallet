@@ -1,1 +1,1 @@
-var mnemonic = "toddler verb error author interest amused wolf hello puppy live dog weekend";
+var mnemonic = "exit cash polar swear south forget sweet blue hire liar merge cattle";

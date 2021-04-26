@@ -1,1 +1,1 @@
-var mnemonic = "immune sign system used attack other dune ranch hen happy buddy hamster";
+var mnemonic = "rack slab drum actual prefer doctor unlock close sibling force basket smoke";

@@ -1,1 +1,1 @@
-var mnemonic = "turn lava achieve below real inspire expand cannon smoke demand wheel amazing";
+var mnemonic = "club offer paper comic wrong injury accuse legal clay garden enforce before";

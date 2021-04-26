@@ -1,1 +1,1 @@
-var mnemonic = "fury front tank popular liberty museum flash invest minor symbol truly foster";
+var mnemonic = "piano hole deputy divide open image catalog explain ice chef neutral slim";

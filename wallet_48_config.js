@@ -1,1 +1,1 @@
-var mnemonic = "final act patrol chicken road vault vital yard pretty urge awful task";
+var mnemonic = "unveil name segment alley source typical soft ridge boat salute angle will";

@@ -1,1 +1,1 @@
-var mnemonic = "tongue refuse gospel enroll mean forward include spoil nation win relief surface";
+var mnemonic = "chalk say water advice celery usual verify quantum battle october middle bottom";

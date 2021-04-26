@@ -1,1 +1,1 @@
-var mnemonic = "abandon staff thank swamp sound orchard cool know gain beyond pause daring";
+var mnemonic = "ski reason brief mother large space west ability time market smooth grit";

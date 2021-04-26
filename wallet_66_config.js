@@ -1,1 +1,1 @@
-var mnemonic = "cage increase dumb oxygen behave boss grow kitten next mirror twelve current";
+var mnemonic = "hat limit empty cloud bitter jaguar glimpse tissue twelve cheap settle piano";

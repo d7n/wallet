@@ -1,1 +1,1 @@
-var mnemonic = "globe clutch hurry tip together soap pulse answer grit video tattoo twin";
+var mnemonic = "certain pilot sponsor embark exclude tank wood indicate topple save capable city";

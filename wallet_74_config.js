@@ -1,1 +1,1 @@
-var mnemonic = "skill dynamic acoustic regular woman domain later impulse elephant faith video unlock";
+var mnemonic = "prison muscle debate first guess special scare evolve page argue load own";

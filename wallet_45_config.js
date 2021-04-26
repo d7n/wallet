@@ -1,1 +1,1 @@
-var mnemonic = "mirror noise present record pyramid option fiscal correct weasel often ring sauce";
+var mnemonic = "gravity calm maze online bulb various female junior owner comfort disease van";

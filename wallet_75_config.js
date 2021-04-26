@@ -1,1 +1,1 @@
-var mnemonic = "hockey craft pole either exhibit album drill entire loud increase room struggle";
+var mnemonic = "guess weekend close organ acid warfare web toilet dash crumble rebuild smile";

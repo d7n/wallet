@@ -1,1 +1,1 @@
-var mnemonic = "isolate bike minor gasp leader float rapid spoon slot begin glimpse grief";
+var mnemonic = "effort seven arrow proud leader pass maid slow winter demand object find";

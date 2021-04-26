@@ -1,1 +1,1 @@
-var mnemonic = "pelican loud leg race daring diamond crime finish net ocean popular group";
+var mnemonic = "knock enemy intact lesson recycle black dutch typical call vivid car portion";

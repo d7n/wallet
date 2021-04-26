@@ -1,1 +1,1 @@
-var mnemonic = "elder yard electric misery fence athlete razor father absurd you sadness swim";
+var mnemonic = "hire uncover humor offer news verb grocery arena hollow author desert ketchup";

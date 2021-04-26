@@ -1,1 +1,1 @@
-var mnemonic = "prize that picnic age dwarf task alarm sheriff bulk since split soccer";
+var mnemonic = "canal jelly dog kind violin deny task drastic evolve night album cake";

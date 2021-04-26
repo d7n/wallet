@@ -1,1 +1,1 @@
-var mnemonic = "elephant creek knife truck fence swing bamboo coil congress awful merry word";
+var mnemonic = "vote thank jewel artist near another armor resource radar post large indoor";

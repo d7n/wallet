@@ -1,1 +1,1 @@
-var mnemonic = "axis work inquiry ketchup flush marriage number pill limb leader dress robust";
+var mnemonic = "excuse involve lizard cool ski song slot style famous cost return year";

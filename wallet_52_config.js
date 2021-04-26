@@ -1,1 +1,1 @@
-var mnemonic = "very smart west boy spike lemon wasp horn crush small corn pride";
+var mnemonic = "protect wool excuse among bomb need usage unfold tuna actual exit grab";

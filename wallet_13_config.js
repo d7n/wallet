@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow cruel fever egg renew play once apart theory leisure beauty deal";
+var mnemonic = "soul secret fly film song focus month wrist unhappy pencil resemble artefact";

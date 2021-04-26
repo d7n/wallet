@@ -1,1 +1,1 @@
-var mnemonic = "boil pretty wood captain mixture hard minute gentle symbol feature few truth";
+var mnemonic = "truth image opera alone actual original now broccoli hood fossil crouch kit";

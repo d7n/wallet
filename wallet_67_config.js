@@ -1,1 +1,1 @@
-var mnemonic = "afraid tower vivid music typical reject unfair exact motor alarm unusual extra";
+var mnemonic = "unhappy alpha fuel artist horse input clap tobacco next jump action error";

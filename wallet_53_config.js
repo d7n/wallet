@@ -1,1 +1,1 @@
-var mnemonic = "exact pelican diet canoe injury unlock half split exotic lucky family table";
+var mnemonic = "crumble brief there one fork angry second obscure sister slight happy friend";

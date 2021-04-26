@@ -1,1 +1,1 @@
-var mnemonic = "you dynamic cousin patrol orbit hollow apology notice picture boring gorilla enable";
+var mnemonic = "drastic clump frequent trap humble bean hurt talk pottery approve doctor beef";

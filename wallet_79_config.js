@@ -1,1 +1,1 @@
-var mnemonic = "guitar dice force endorse dust below rebel grain elite trial hand wide";
+var mnemonic = "swap bracket fade magic exist cradle father stove clock glide betray drastic";

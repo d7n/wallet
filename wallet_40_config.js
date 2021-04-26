@@ -1,1 +1,1 @@
-var mnemonic = "below monster myth chat depth burst zero label dream sheriff hire sure";
+var mnemonic = "crisp electric loyal amazing run improve luggage cart reunion entire travel prosper";

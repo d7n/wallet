@@ -1,1 +1,1 @@
-var mnemonic = "wasp repeat stairs garden museum brief hollow tiger six rare employ check";
+var mnemonic = "diesel effort prize desert trigger artefact budget expose artwork online bunker video";

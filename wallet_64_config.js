@@ -1,1 +1,1 @@
-var mnemonic = "position random clay muffin swarm dawn lucky mad exact luxury weather sweet";
+var mnemonic = "quantum river almost spot job mimic steak transfer harvest file front wide";

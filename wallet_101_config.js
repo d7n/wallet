@@ -1,1 +1,1 @@
-var mnemonic = "ice improve quiz immense cover slice patient actual ketchup zoo output shallow";
+var mnemonic = "enhance silk total visit wing sunset retire spray island silver bread suspect";

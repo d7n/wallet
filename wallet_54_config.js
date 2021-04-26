@@ -1,1 +1,1 @@
-var mnemonic = "there joke diamond liquid time pottery skill excite alter involve sound artefact";
+var mnemonic = "rely legend poem later need love direct olympic name economy case concert";

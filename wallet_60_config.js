@@ -1,1 +1,1 @@
-var mnemonic = "parrot major magnet venue enjoy tent coach sure correct wealth fury rack";
+var mnemonic = "prepare cute brown symptom attack relief system work coyote gravity often ivory";

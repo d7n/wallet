@@ -1,1 +1,1 @@
-var mnemonic = "coffee decorate era receive spot tilt meadow melody consider wife match much";
+var mnemonic = "talk resist near dose sadness consider warfare call equip another choice wash";

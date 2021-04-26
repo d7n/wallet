@@ -1,1 +1,1 @@
-var mnemonic = "favorite blast suffer vacant item artist sword away supply stem gate improve";
+var mnemonic = "conduct shoulder amateur animal during unable valid crop fever spy fury strategy";

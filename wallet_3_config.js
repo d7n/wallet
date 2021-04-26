@@ -1,1 +1,1 @@
-var mnemonic = "fiscal lazy script harsh reduce boy believe hospital moral chunk marble decorate";
+var mnemonic = "switch neglect measure obey island shell oblige cherry man business lab usual";

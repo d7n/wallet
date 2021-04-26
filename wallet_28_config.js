@@ -1,1 +1,1 @@
-var mnemonic = "trip unfold path actual height video garden giggle decide all benefit beef";
+var mnemonic = "manage symptom wheel lizard cloud swamp clip entry slam ghost forget soda";

@@ -1,1 +1,1 @@
-var mnemonic = "over sense unfair damp small kiwi cinnamon final north husband rubber please";
+var mnemonic = "purse bicycle giraffe mix west pave parrot thunder view forget whip state";

@@ -1,1 +1,1 @@
-var mnemonic = "trip squeeze write picnic before length awkward attend still unveil spend regret";
+var mnemonic = "assist index someone method spawn stock bread room devote episode sentence card";

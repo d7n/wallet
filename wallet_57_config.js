@@ -1,1 +1,1 @@
-var mnemonic = "write inmate panel feed grunt patient question long message maid isolate worry";
+var mnemonic = "syrup again return panel erase nice sunny glow globe lawsuit jaguar young";

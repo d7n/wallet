@@ -1,1 +1,1 @@
-var mnemonic = "remove fashion mountain advice tortoise wagon seven cactus method mansion task morning";
+var mnemonic = "brown patrol approve year breeze choose exchange team dutch action pluck rail";

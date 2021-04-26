@@ -1,1 +1,1 @@
-var mnemonic = "sea festival robot object reflect quarter alley dinosaur flame argue just account";
+var mnemonic = "muscle armed toy obtain mass broom balance army correct knee bench pull";

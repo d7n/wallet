@@ -1,1 +1,1 @@
-var mnemonic = "squeeze proud found around mean bless creek oven across remind warm fox";
+var mnemonic = "pet quote clock about buzz neither orbit test horror pizza attack shed";

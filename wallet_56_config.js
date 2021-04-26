@@ -1,1 +1,1 @@
-var mnemonic = "pair forest museum junk extend rifle energy stuff doll cry east genius";
+var mnemonic = "damp bottom drive chimney remove oak mind waste method ready crunch armor";

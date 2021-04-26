@@ -1,1 +1,1 @@
-var mnemonic = "wall cement avoid muffin horror dash sunny apple sniff faculty luggage orphan";
+var mnemonic = "diary slice only when trumpet zone town blanket palm next strike shock";

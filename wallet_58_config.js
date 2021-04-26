@@ -1,1 +1,1 @@
-var mnemonic = "glow stadium canoe pledge increase under price spread goat boy tribe hero";
+var mnemonic = "patrol install above spread kitchen bullet ripple holiday stadium dinner buddy loud";

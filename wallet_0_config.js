@@ -1,1 +1,1 @@
-var mnemonic = "turn tobacco lumber swing play forum job project kingdom sand remind can";
+var mnemonic = "sell net private hello twelve ring slide rug alarm knife moral sauce";

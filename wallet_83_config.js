@@ -1,1 +1,1 @@
-var mnemonic = "cherry ritual boil furnace bone shrug voyage domain promote dismiss benefit fever";
+var mnemonic = "inject coral increase donate bleak expand dynamic job cloud also attack december";

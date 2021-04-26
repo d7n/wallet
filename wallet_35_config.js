@@ -1,1 +1,1 @@
-var mnemonic = "client mom hat pistol lesson infant trial adjust matrix joke mask list";
+var mnemonic = "attack evil engine arch shrimp wrap battle acoustic combine distance dice airport";

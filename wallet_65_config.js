@@ -1,1 +1,1 @@
-var mnemonic = "float release only gaze board thing shift denial fork private theory onion";
+var mnemonic = "sample pink genius alarm utility magic talent earth tiny actress opera deal";
