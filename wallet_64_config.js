@@ -1,1 +1,1 @@
-var mnemonic = "north artwork panic banana slam pass drama harvest whip fat gaze mechanic";
+var mnemonic = "quote mix venture typical dream kidney crime ready chimney chuckle dose receive";

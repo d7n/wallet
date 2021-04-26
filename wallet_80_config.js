@@ -1,1 +1,1 @@
-var mnemonic = "odor advance rug group spy quarter law oppose edge uncover double device";
+var mnemonic = "sting couple runway onion weapon nerve snap banana mango frost mistake able";

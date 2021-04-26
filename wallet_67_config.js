@@ -1,1 +1,1 @@
-var mnemonic = "sun miss garden bomb vocal thought lawn airport dune corn glory crowd";
+var mnemonic = "tenant indoor purpose one lake blade please dog prosper current sight nice";

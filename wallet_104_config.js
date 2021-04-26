@@ -1,1 +1,1 @@
-var mnemonic = "anchor plastic aim type mirror flag ramp impact vague shallow hockey modify";
+var mnemonic = "hard social letter night dawn gift hotel rare retreat utility large scrub";

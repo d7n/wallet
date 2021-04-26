@@ -1,1 +1,1 @@
-var mnemonic = "must draw fetch pepper gown glare blood mother banner predict elbow stadium";
+var mnemonic = "nature stereo wet jewel design save prize solar steel snap execute bomb";

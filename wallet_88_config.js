@@ -1,1 +1,1 @@
-var mnemonic = "budget popular element virus crouch grid liar tornado release tiny window ill";
+var mnemonic = "expand staff snake pioneer garbage unit tray quantum stool scrap error copper";

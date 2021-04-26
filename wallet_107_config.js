@@ -1,1 +1,1 @@
-var mnemonic = "short essay despair merry unaware clog jump odor purchase success invite camera";
+var mnemonic = "tribe voyage leaf demand act sick asthma quantum unhappy hole expect execute";

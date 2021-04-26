@@ -1,1 +1,1 @@
-var mnemonic = "regret horror upper country skin pride lens exist uniform shrimp collect country";
+var mnemonic = "stool over air frown trigger invest initial joy wheel affair stomach raccoon";

@@ -1,1 +1,1 @@
-var mnemonic = "recycle kick elevator brass shadow gaze wall critic pen gym flock example";
+var mnemonic = "regular style ecology super leisure rain aunt jump brand you crucial slender";

@@ -1,1 +1,1 @@
-var mnemonic = "grape symptom upgrade shallow coral nuclear gather discover top erase obscure grow";
+var mnemonic = "work knife huge swamp mother wire half fire brown frequent regret cycle";

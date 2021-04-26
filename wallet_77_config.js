@@ -1,1 +1,1 @@
-var mnemonic = "mammal until pyramid inherit supply fantasy knee jeans patrol kite jelly over";
+var mnemonic = "finish chat forget crime cost rich insane subway input duty inhale fine";

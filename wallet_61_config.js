@@ -1,1 +1,1 @@
-var mnemonic = "afford satoshi modify goddess various caught sting portion liar own primary matrix";
+var mnemonic = "view explain staff addict reform mammal still pulse fun vanish attack roof";

@@ -1,1 +1,1 @@
-var mnemonic = "gym blue shaft way stairs doll future load surprise hover bubble special";
+var mnemonic = "survey work donate finger album belt egg south toss pen habit faint";

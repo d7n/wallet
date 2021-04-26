@@ -1,1 +1,1 @@
-var mnemonic = "theory smooth social arrive practice refuse term deposit junior imitate vintage order";
+var mnemonic = "perfect later raccoon artwork busy fabric analyst brain crop believe brass soldier";

@@ -1,1 +1,1 @@
-var mnemonic = "knock syrup follow across mountain illegal liberty beach absorb remove excess spoil";
+var mnemonic = "trade rescue movie omit spin ready aware math series nest side express";

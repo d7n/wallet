@@ -1,1 +1,1 @@
-var mnemonic = "escape ladder room cash water bargain about saddle acoustic rain fox season";
+var mnemonic = "evolve submit panel cave violin angry tumble remind school donkey panic pony";

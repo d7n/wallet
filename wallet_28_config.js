@@ -1,1 +1,1 @@
-var mnemonic = "cement orange predict parade tobacco emerge left goddess pool reason message visa";
+var mnemonic = "travel churn stay drink release finish catalog stock youth never achieve pet";

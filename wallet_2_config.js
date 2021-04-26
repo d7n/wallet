@@ -1,1 +1,1 @@
-var mnemonic = "edit winter hood across chunk another system tobacco window cloud gravity force";
+var mnemonic = "ridge observe husband expand scrub mad alley duty body glide worth thought";

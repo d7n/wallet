@@ -1,1 +1,1 @@
-var mnemonic = "pause denial clever surprise february aim man steel abandon acid napkin copper";
+var mnemonic = "monster open safe uphold decide tuna salmon index maid effort height asthma";

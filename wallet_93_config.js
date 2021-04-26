@@ -1,1 +1,1 @@
-var mnemonic = "add law rough flag chat find gym loud defy snow charge wine";
+var mnemonic = "tone slow security rebel nominee result theme soda castle box prison garlic";

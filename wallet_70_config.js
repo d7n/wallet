@@ -1,1 +1,1 @@
-var mnemonic = "logic uniform black rich bar believe design crisp hunt result damage into";
+var mnemonic = "own twenty balcony useless inquiry cheap anchor gossip spice symptom paddle aunt";

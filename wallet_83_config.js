@@ -1,1 +1,1 @@
-var mnemonic = "purpose tribe goat hair phone acid recall critic permit stumble hard style";
+var mnemonic = "sheriff tent impact near already capital water grief strike fork volcano year";

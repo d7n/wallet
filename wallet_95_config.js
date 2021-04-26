@@ -1,1 +1,1 @@
-var mnemonic = "garment diesel head cotton world world seek square rather labor fancy evoke";
+var mnemonic = "green syrup two clerk fan muscle crawl illness hour route copy jungle";

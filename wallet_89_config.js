@@ -1,1 +1,1 @@
-var mnemonic = "until sense area woman emotion knee pistol plug such fox answer blame";
+var mnemonic = "coach debris yard essay artefact suspect market choose marble tilt wrap interest";

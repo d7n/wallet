@@ -1,1 +1,1 @@
-var mnemonic = "history fiscal bike section vague economy salmon nasty hour fatigue response banana";
+var mnemonic = "squirrel order potato fruit region ostrich retire artefact bronze donor east thunder";

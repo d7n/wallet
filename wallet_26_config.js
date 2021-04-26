@@ -1,1 +1,1 @@
-var mnemonic = "behind host guide breeze purchase burst bonus normal camera month attack stool";
+var mnemonic = "stuff stem increase behave author echo pumpkin truth just scorpion width taste";

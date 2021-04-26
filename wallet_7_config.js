@@ -1,1 +1,1 @@
-var mnemonic = "budget female open select rocket globe put royal breeze capital divorce kitchen";
+var mnemonic = "sad notice apology symptom attitude kiwi brick you leader trick mean excess";

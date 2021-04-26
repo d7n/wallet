@@ -1,1 +1,1 @@
-var mnemonic = "drama swamp junk jump truth final swap lyrics end grass retreat stomach";
+var mnemonic = "ship stairs wave sister crop long kiwi kick various relax carpet lounge";

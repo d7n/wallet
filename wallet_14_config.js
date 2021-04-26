@@ -1,1 +1,1 @@
-var mnemonic = "about expire wash ice pear stem bean health theme couple spell insane";
+var mnemonic = "hungry degree green together grant direct lazy erase oven cushion enforce analyst";

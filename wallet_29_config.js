@@ -1,1 +1,1 @@
-var mnemonic = "elbow borrow ball pink goose fit correct noodle fit pelican short melody";
+var mnemonic = "crop hybrid comfort huge bacon advance coffee visit palm spatial father grid";

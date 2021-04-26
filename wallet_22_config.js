@@ -1,1 +1,1 @@
-var mnemonic = "depend panda test dinosaur fiction amazing hybrid bacon purity addict treat electric";
+var mnemonic = "rain agent foot boat hint spare spirit pass polar castle drive bulb";

@@ -1,1 +1,1 @@
-var mnemonic = "like dismiss green jelly shoe loan rescue action badge eagle awake glimpse";
+var mnemonic = "auto tower private bus fiscal goose reveal quarter odor fetch ginger hockey";

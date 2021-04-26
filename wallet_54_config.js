@@ -1,1 +1,1 @@
-var mnemonic = "maid casino swear kick pizza giant celery impact author salt under mother";
+var mnemonic = "episode sell elephant whisper two proud potato pepper blouse youth blouse mimic";

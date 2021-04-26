@@ -1,1 +1,1 @@
-var mnemonic = "enroll call garment ancient tag romance ostrich sting garage print dose club";
+var mnemonic = "faith purse tongue vacuum spare digital broom nose describe equal mixed sentence";

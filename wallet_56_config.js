@@ -1,1 +1,1 @@
-var mnemonic = "slender tennis economy kiwi armed sight cliff gap helmet route prison brick";
+var mnemonic = "bird seminar dog mass chunk zone finish salmon pilot unfold fine ugly";

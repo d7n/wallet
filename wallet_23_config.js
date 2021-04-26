@@ -1,1 +1,1 @@
-var mnemonic = "clock like umbrella vicious beauty juice poverty school mesh whale auto strategy";
+var mnemonic = "sweet danger elite give canyon debris trim lava sweet drastic media dumb";

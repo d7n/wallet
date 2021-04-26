@@ -1,1 +1,1 @@
-var mnemonic = "lift boring affair cricket bright budget sport spirit smoke clarify scheme human";
+var mnemonic = "attract gift claim kitten enough soap tiny play opinion organ buffalo blush";

@@ -1,1 +1,1 @@
-var mnemonic = "jeans aim pioneer scatter road amount find wagon holiday aerobic resemble scatter";
+var mnemonic = "enrich list stage motor good warm rough assault virus gravity music beach";

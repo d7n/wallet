@@ -1,1 +1,1 @@
-var mnemonic = "muscle wing attitude sing word suit hire behave salon polar warfare motor";
+var mnemonic = "palace speak earth equip acid clap forum nest oval satisfy room ordinary";

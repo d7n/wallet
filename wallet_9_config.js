@@ -1,1 +1,1 @@
-var mnemonic = "session slab lumber describe valley inhale that buddy enter sight gun melody";
+var mnemonic = "ill narrow off jar east sphere shrug roof jazz inform popular album";

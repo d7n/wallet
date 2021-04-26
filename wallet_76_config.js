@@ -1,1 +1,1 @@
-var mnemonic = "situate demand forest doll crowd talk wear toss kiss visit palm attract";
+var mnemonic = "sea attitude apology midnight female since elephant verify clarify valid shock athlete";

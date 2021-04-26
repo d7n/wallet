@@ -1,1 +1,1 @@
-var mnemonic = "transfer jealous wrap skill manage bounce sand crowd olympic good senior stem";
+var mnemonic = "actress input midnight decorate noodle crack scout near script moment bounce female";

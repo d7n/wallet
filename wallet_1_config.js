@@ -1,1 +1,1 @@
-var mnemonic = "siege label hello cruel prevent gown flee puzzle fever color ball connect";
+var mnemonic = "pottery blush ozone budget whip lava make cram fringe west income jazz";

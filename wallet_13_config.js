@@ -1,1 +1,1 @@
-var mnemonic = "label sail asthma friend coil wolf record define motion city demise actor";
+var mnemonic = "stock kind collect tenant capital monkey exchange anchor suggest supreme report behind";

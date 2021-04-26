@@ -1,1 +1,1 @@
-var mnemonic = "decade motion umbrella satoshi ladder rare guilt mixture valid emerge pluck shallow";
+var mnemonic = "carpet rose fly reject once dragon symptom traffic extend fence hope nuclear";

@@ -1,1 +1,1 @@
-var mnemonic = "salmon inside hurdle flame dismiss convince topic brain afraid craft before unit";
+var mnemonic = "dismiss define remind stay cross tuna wood limb fluid duty donor glass";

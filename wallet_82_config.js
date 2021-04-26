@@ -1,1 +1,1 @@
-var mnemonic = "cabbage axis stock either tone thrive daughter miss bottom climb melt pair";
+var mnemonic = "put road glow vast wait wise simple sad display ridge dismiss vital";

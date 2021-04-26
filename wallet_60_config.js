@@ -1,1 +1,1 @@
-var mnemonic = "betray invite lunar afford mobile nerve planet lens chapter physical pencil asthma";
+var mnemonic = "erosion clutch chuckle wall tiger early habit manual science trend glory correct";

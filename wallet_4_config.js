@@ -1,1 +1,1 @@
-var mnemonic = "fragile neglect brave biology crunch evil erupt often filter wall print explain";
+var mnemonic = "motor vote also true away lamp marine crater hockey shrimp pizza renew";

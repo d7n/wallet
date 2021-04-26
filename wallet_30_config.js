@@ -1,1 +1,1 @@
-var mnemonic = "sword rally clinic cook flash good top cash account list hidden critic";
+var mnemonic = "tag praise embody disagree eyebrow fat wild agree stove diagram stable cargo";

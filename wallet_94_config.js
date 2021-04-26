@@ -1,1 +1,1 @@
-var mnemonic = "hen tray shop motor banana dwarf present timber unveil fatal genuine trigger";
+var mnemonic = "donkey switch toe awesome million march end margin toy matrix yellow school";

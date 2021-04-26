@@ -1,1 +1,1 @@
-var mnemonic = "purse swap camp ocean lounge oven rely deny wrestle smoke potato daughter";
+var mnemonic = "fine achieve phone artwork twelve grief avoid extend loan own talent utility";

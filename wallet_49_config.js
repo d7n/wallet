@@ -1,1 +1,1 @@
-var mnemonic = "apology sad guilt wrong page mask assume shoot cotton simple shoulder blanket";
+var mnemonic = "aspect female multiply unhappy system fix miss scrap emotion blouse minute current";

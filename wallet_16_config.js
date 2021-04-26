@@ -1,1 +1,1 @@
-var mnemonic = "hybrid palace brush ribbon genre deputy impact advice under spot fat harbor";
+var mnemonic = "input fix sunny warm ride hand elevator clay panther never trial sting";

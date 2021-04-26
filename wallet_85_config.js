@@ -1,1 +1,1 @@
-var mnemonic = "web toddler clever situate two prevent select pause whale diagram volcano fish";
+var mnemonic = "problem require bulb swift permit illness deliver jar talk climb brave garment";

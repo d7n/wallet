@@ -1,1 +1,1 @@
-var mnemonic = "cycle rabbit alien trim review check spray pyramid crouch medal brown vital";
+var mnemonic = "jaguar danger case tornado fat frozen normal nation kid draw bounce canoe";

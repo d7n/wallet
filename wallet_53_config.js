@@ -1,1 +1,1 @@
-var mnemonic = "wait clown invite apple coral napkin valid multiply clerk sing envelope film";
+var mnemonic = "helmet state eye pyramid weird mimic avoid drift lunar shiver error tower";

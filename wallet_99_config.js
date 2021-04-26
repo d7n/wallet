@@ -1,1 +1,1 @@
-var mnemonic = "dress situate bachelor man awesome clarify feel crater employ nurse opera door";
+var mnemonic = "sample tilt system tomorrow real prison way casino habit gift horse twin";

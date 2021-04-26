@@ -1,1 +1,1 @@
-var mnemonic = "fall reform goat invite range tone innocent feel team chapter minute school";
+var mnemonic = "guard bean donor only sound cake smooth observe answer recall animal direct";

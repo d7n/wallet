@@ -1,1 +1,1 @@
-var mnemonic = "gain pulse glare can olympic present citizen engage fan you differ enlist";
+var mnemonic = "boy arrest maple history enlist craft cherry twice comfort future can slide";

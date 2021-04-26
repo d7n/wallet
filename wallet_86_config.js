@@ -1,1 +1,1 @@
-var mnemonic = "globe second play muscle enroll collect divide tool kingdom sausage club glove";
+var mnemonic = "genuine shove sweet hen kingdom valley talent minor jar license imitate express";

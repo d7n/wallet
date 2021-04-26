@@ -1,1 +1,1 @@
-var mnemonic = "shaft ridge carpet vintage horse rocket arm game spring general script metal";
+var mnemonic = "virus guide foot budget peace vehicle pulse globe flee loan impulse warm";

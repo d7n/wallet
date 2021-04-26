@@ -1,1 +1,1 @@
-var mnemonic = "finish depart pipe diamond ramp bulb loyal quote scheme weasel puppy right";
+var mnemonic = "leg combine estate huge melt fog error evidence grit option joke summer";

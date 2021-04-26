@@ -1,1 +1,1 @@
-var mnemonic = "parrot dolphin owner shaft sniff chief jazz negative say spread version spike";
+var mnemonic = "wear tray skull into search second flock exact scissors frog burst shove";

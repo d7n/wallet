@@ -1,1 +1,1 @@
-var mnemonic = "damage style club famous similar organ sand mouse timber plunge future power";
+var mnemonic = "shop forget tourist orchard tornado cabbage settle garment when negative proof excuse";

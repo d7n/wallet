@@ -1,1 +1,1 @@
-var mnemonic = "sauce disorder rice sugar move rotate mandate diamond life enlist good wheat";
+var mnemonic = "lottery cake hire awkward maid when dice humble license cat mesh voyage";

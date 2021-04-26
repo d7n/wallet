@@ -1,1 +1,1 @@
-var mnemonic = "select garlic better noise sun mixed face mixed mercy thumb friend flush";
+var mnemonic = "clarify polar apart maple brand craft kid physical syrup chronic plug cream";

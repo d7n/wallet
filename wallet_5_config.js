@@ -1,1 +1,1 @@
-var mnemonic = "ocean weapon opera girl apology actual annual begin clump burst bring ostrich";
+var mnemonic = "lady venture pride mad grain inspire lion verify cherry kite away salt";

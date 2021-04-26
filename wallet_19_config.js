@@ -1,1 +1,1 @@
-var mnemonic = "will way furnace swallow useless sort jaguar coconut figure prize doll kite";
+var mnemonic = "auction box wisdom powder panda raise estate rich rigid infant hub expire";

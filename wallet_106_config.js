@@ -1,1 +1,1 @@
-var mnemonic = "pattern creek melody pig shrug year puzzle roof night army badge knife";
+var mnemonic = "erase segment toast pitch enforce symptom differ chunk gentle clump retreat brain";

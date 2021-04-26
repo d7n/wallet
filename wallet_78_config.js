@@ -1,1 +1,1 @@
-var mnemonic = "hill easy input result relax sketch toss trim chimney shuffle inform sing";
+var mnemonic = "license age pole pole pulse able adjust object robot bitter clean alcohol";

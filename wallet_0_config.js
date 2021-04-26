@@ -1,1 +1,1 @@
-var mnemonic = "elder swamp crawl cost south acoustic unknown liquid guilt valve lonely trap";
+var mnemonic = "logic hub trick bleak peanut melody auto into boy drive flower stable";

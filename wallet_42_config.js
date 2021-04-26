@@ -1,1 +1,1 @@
-var mnemonic = "ski unknown grit grass pool twin expose subway thunder clutch useless donor";
+var mnemonic = "unveil spatial render jealous maid domain vehicle pair protect wisdom head prevent";

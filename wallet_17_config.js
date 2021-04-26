@@ -1,1 +1,1 @@
-var mnemonic = "zoo donkey battle cactus salon debris amateur cost early argue smoke coach";
+var mnemonic = "ozone perfect asthma hybrid bachelor parade visit mango trust december program stairs";

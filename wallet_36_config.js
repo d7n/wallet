@@ -1,1 +1,1 @@
-var mnemonic = "tired wealth eager lawsuit economy taxi property boy region fluid grocery kangaroo";
+var mnemonic = "across raw oppose segment neutral strong explain cat shield burst buyer rail";

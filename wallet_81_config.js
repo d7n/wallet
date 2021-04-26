@@ -1,1 +1,1 @@
-var mnemonic = "swim near puzzle dove coconut acquire nominee resource limb leg clump bulk";
+var mnemonic = "quality rural public paddle resist six dynamic narrow dry hidden move box";

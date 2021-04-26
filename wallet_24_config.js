@@ -1,1 +1,1 @@
-var mnemonic = "feed antenna pair camp uphold pulp more century silk clever peace benefit";
+var mnemonic = "danger nephew resemble city poverty couple tribe junior unit hunt luggage harbor";

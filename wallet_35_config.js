@@ -1,1 +1,1 @@
-var mnemonic = "seminar impact social heavy damp chef point ketchup vessel alert bring sea";
+var mnemonic = "license naive radar wedding common attend sign bullet uphold affair black spider";

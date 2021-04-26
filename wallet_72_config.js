@@ -1,1 +1,1 @@
-var mnemonic = "never display bar share mom teach little planet loan asthma waste quiz";
+var mnemonic = "agent swear apology act excite sing cloth blade safe neck all use";

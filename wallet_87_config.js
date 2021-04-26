@@ -1,1 +1,1 @@
-var mnemonic = "shoe talk lion hedgehog radar speed kind usage defy color spatial topic";
+var mnemonic = "island photo olympic worry dove ahead result cart primary vague proud deer";

@@ -1,1 +1,1 @@
-var mnemonic = "crack rice ship lake fatigue fold phrase bleak mail stereo giraffe cigar";
+var mnemonic = "kitchen burst inner amused hard pencil hover curtain title script deny party";

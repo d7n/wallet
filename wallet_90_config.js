@@ -1,1 +1,1 @@
-var mnemonic = "lottery daring forward excite fit defense valley alone version assume cause search";
+var mnemonic = "resemble bargain average magic evil mercy potato brother enlist arm favorite say";

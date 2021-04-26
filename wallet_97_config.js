@@ -1,1 +1,1 @@
-var mnemonic = "knife absorb text project ozone key museum honey smooth program increase possible";
+var mnemonic = "derive physical review buffalo decide cancel sand document enjoy circle next glad";

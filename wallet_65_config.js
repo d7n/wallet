@@ -1,1 +1,1 @@
-var mnemonic = "slim now rotate claw advance crack festival assume year glow soda detect";
+var mnemonic = "torch illegal feature field tired balcony away clay empower negative banner roof";

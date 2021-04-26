@@ -1,1 +1,1 @@
-var mnemonic = "harbor coin grief lady reform video lazy achieve melt flat door coral";
+var mnemonic = "fetch doll pipe absurd share cupboard hurt toss song select sponsor gravity";

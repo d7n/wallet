@@ -1,1 +1,1 @@
-var mnemonic = "athlete patrol junior trick flock hole topple soap skin just guitar host";
+var mnemonic = "step donate bridge frown stumble opera eternal area case bamboo perfect dish";

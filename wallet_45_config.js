@@ -1,1 +1,1 @@
-var mnemonic = "consider cousin salad west diamond place beauty task yellow shiver mean ranch";
+var mnemonic = "pottery kid smart ice bomb payment liberty never dose fun prepare hungry";

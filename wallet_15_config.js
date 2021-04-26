@@ -1,1 +1,1 @@
-var mnemonic = "gauge pipe ostrich ripple kitchen shiver sorry soul lizard hurry wool present";
+var mnemonic = "party hammer impulse vehicle setup kangaroo hollow treat hawk frozen fitness flush";

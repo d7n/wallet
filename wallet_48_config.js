@@ -1,1 +1,1 @@
-var mnemonic = "loan axis leaf slam unlock ginger outer moon mimic cricket decide lunar";
+var mnemonic = "pause day athlete monster truly seed acoustic good quick off ginger clown";

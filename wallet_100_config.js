@@ -1,1 +1,1 @@
-var mnemonic = "spoil until finish advance dutch bamboo ladder burden summer party omit multiply";
+var mnemonic = "sugar ten ticket fox scatter anxiety broccoli thought visual exhibit tray oven";

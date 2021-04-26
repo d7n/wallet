@@ -1,1 +1,1 @@
-var mnemonic = "identify accuse soccer asset wheat able define elegant impact light potato faith";
+var mnemonic = "army have east code erupt skin true shrug tackle exist hire engage";

@@ -1,1 +1,1 @@
-var mnemonic = "key upper potato derive truck baby heavy marriage ready item dragon sample";
+var mnemonic = "vote sketch yard exit soap another hour suit sudden brave genre banana";

@@ -1,1 +1,1 @@
-var mnemonic = "pride best gate faculty put fade debate dance pass danger crucial clutch";
+var mnemonic = "share fuel social marriage goose enter check about cinnamon program wife aerobic";
