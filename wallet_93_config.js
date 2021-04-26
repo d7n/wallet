@@ -1,1 +1,1 @@
-var mnemonic = "bleak fire sell indicate guess wife pipe pause basket butter imitate feed";
+var mnemonic = "enemy daughter rail evoke inform ignore pioneer cherry melt kidney divide walk";

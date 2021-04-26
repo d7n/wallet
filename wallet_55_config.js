@@ -1,1 +1,1 @@
-var mnemonic = "merit version mixed apple leave airport major large crisp mammal dust success";
+var mnemonic = "kite shy bread smart push grocery total net girl analyst solution curve";

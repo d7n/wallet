@@ -1,1 +1,1 @@
-var mnemonic = "story adjust fresh smart useless human problem history multiply ring bulb nice";
+var mnemonic = "neither toward beef relief gorilla popular aerobic toast hedgehog amused anchor picture";

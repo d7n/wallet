@@ -1,1 +1,1 @@
-var mnemonic = "fan direct brief vast midnight wealth cotton dirt useful eye abuse season";
+var mnemonic = "agent much salon latin either raise spirit eternal around snake orbit hamster";

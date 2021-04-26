@@ -1,1 +1,1 @@
-var mnemonic = "velvet devote hard network keep tribe between struggle gun series cake reject";
+var mnemonic = "leave fiction battle banana myself domain shield shadow original supply lunch dilemma";

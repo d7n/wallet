@@ -1,1 +1,1 @@
-var mnemonic = "genius book milk just menu april tomorrow enroll anchor body sorry unknown";
+var mnemonic = "mutual rare city average cost great blur scout resist day share shy";

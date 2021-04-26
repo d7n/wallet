@@ -1,1 +1,1 @@
-var mnemonic = "radio copy decrease tent immune pioneer remain domain hundred broom fashion extend";
+var mnemonic = "major bomb pink wreck never combine refuse model cradle prefer various develop";

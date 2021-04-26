@@ -1,1 +1,1 @@
-var mnemonic = "dad segment trap negative pear fabric ginger depart chat siren invest swim";
+var mnemonic = "daring patch imitate kid fragile spend arch panther tissue sorry file cement";

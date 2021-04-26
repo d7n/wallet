@@ -1,1 +1,1 @@
-var mnemonic = "exile melt keep what tail unfair veteran peanut carbon frog enough rate";
+var mnemonic = "fitness leave pistol dance lunar snow cousin tenant legal brush boil carbon";

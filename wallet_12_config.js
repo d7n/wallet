@@ -1,1 +1,1 @@
-var mnemonic = "approve save glad impact blame speed hobby vibrant syrup online worth simple";
+var mnemonic = "fringe guard upset then combine example jar clever upgrade palace leaf pen";

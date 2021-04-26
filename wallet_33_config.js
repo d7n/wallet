@@ -1,1 +1,1 @@
-var mnemonic = "nuclear noise limit lava gun pilot rebuild height hurdle banner evolve barrel";
+var mnemonic = "early tortoise equip gate task subway clever steel oppose announce vessel voyage";

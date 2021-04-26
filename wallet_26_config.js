@@ -1,1 +1,1 @@
-var mnemonic = "off craft segment rent shoe jungle road filter polar organ often include";
+var mnemonic = "salmon acoustic citizen minor close demise lounge solid pool celery dwarf soccer";

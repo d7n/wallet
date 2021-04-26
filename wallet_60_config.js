@@ -1,1 +1,1 @@
-var mnemonic = "differ narrow alone urge answer donor use warfare dinner replace smart farm";
+var mnemonic = "quality color final hybrid mail random snake gentle into damage sword person";

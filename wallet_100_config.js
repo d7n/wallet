@@ -1,1 +1,1 @@
-var mnemonic = "flag labor rescue page now pelican insect area arctic kite giggle eagle";
+var mnemonic = "attract nose awkward primary evolve protect suspect seek coil bunker library bracket";

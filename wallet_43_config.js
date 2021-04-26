@@ -1,1 +1,1 @@
-var mnemonic = "anxiety mirror flag avocado flower upon captain blush banner jewel picture extra";
+var mnemonic = "alcohol abandon combine invest lottery purchase century wrap bracket submit extra license";

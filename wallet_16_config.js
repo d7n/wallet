@@ -1,1 +1,1 @@
-var mnemonic = "fluid twin road virtual uphold vapor surround upon point post eager tag";
+var mnemonic = "game middle educate yard morning price beauty gauge test escape exotic notable";

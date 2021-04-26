@@ -1,1 +1,1 @@
-var mnemonic = "gather prison depart rhythm meat custom share demand derive utility copper case";
+var mnemonic = "correct stadium filter coffee glimpse matter citizen number virtual shoe warrior north";

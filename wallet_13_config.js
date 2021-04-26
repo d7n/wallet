@@ -1,1 +1,1 @@
-var mnemonic = "normal enlist potato ritual cinnamon amateur engage pulse rule peanut about mystery";
+var mnemonic = "early world phone depend tent biology aunt tribe auction acoustic foam topic";

@@ -1,1 +1,1 @@
-var mnemonic = "still multiply avocado gloom manual setup drum reflect victory winner giraffe vote";
+var mnemonic = "brief victory strong ill phone surface select fit marble guitar crash vintage";

@@ -1,1 +1,1 @@
-var mnemonic = "stage salmon click only mirror page master put work payment manual spice";
+var mnemonic = "cigar harsh able shop skirt decline jar vendor machine spy brush cute";

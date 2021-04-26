@@ -1,1 +1,1 @@
-var mnemonic = "mansion side enroll middle hospital mandate split now home sense situate virus";
+var mnemonic = "share maple brick mass junior ankle wrist style evolve field leg excess";

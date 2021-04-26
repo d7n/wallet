@@ -1,1 +1,1 @@
-var mnemonic = "prevent feel tone cabbage rice settle banner drift ritual fiber require stool";
+var mnemonic = "thunder group vacuum ski unfold gaze fog early shuffle fly cabin rich";

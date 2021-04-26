@@ -1,1 +1,1 @@
-var mnemonic = "scorpion flush found kitchen drive chase coast wrong armed trust mango strategy";
+var mnemonic = "immense evil ensure host retire differ response flight invite canyon letter coach";

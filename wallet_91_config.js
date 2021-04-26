@@ -1,1 +1,1 @@
-var mnemonic = "arctic easy kiss glory harsh police else rigid gorilla erosion move skin";
+var mnemonic = "escape mutual despair window among practice young feature roast element detail grape";

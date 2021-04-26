@@ -1,1 +1,1 @@
-var mnemonic = "doll winner never town taxi alone pulp nurse tourist venture item dial";
+var mnemonic = "then child travel jelly human ready recall hire seed drive vapor all";

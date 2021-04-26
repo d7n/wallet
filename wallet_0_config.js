@@ -1,1 +1,1 @@
-var mnemonic = "industry crash wrap left mean someone claw drum matrix north core draft";
+var mnemonic = "setup hold salt turtle dust oil seat another goddess ladder melt vacant";

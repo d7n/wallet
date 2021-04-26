@@ -1,1 +1,1 @@
-var mnemonic = "hollow outside kitchen miss favorite coral faint trap eternal enforce body forward";
+var mnemonic = "habit poem orbit animal peasant abandon tonight globe soup cram candy run";

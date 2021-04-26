@@ -1,1 +1,1 @@
-var mnemonic = "cram web merit almost motion cannon helmet picnic property blanket embody romance";
+var mnemonic = "exclude park tape curious symptom salt post nest salon wash digital media";

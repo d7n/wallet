@@ -1,1 +1,1 @@
-var mnemonic = "coin brisk engage trophy act candy expire enough camp miracle clump sunny";
+var mnemonic = "leaf junior door humor vague crew picture strike barrel crash office swarm";

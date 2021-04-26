@@ -1,1 +1,1 @@
-var mnemonic = "opinion force patrol essay inside raccoon never mail armed task reform original";
+var mnemonic = "duty harvest hour post melt test nuclear fiscal illness wonder plug chair";

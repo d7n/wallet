@@ -1,1 +1,1 @@
-var mnemonic = "retire call air neglect mail sort flavor leisure laptop powder bench heavy";
+var mnemonic = "fix chuckle harvest retire trim manage census goat phrase buyer ball grant";

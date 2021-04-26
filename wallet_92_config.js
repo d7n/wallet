@@ -1,1 +1,1 @@
-var mnemonic = "furnace interest sell jungle foam opinion process monitor patrol gun clean lava";
+var mnemonic = "predict globe now chef elephant valve head crew hen topple hundred tiger";

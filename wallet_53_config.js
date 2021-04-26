@@ -1,1 +1,1 @@
-var mnemonic = "soccer slab fringe yard cinnamon proof erupt decide illegal absorb measure entry";
+var mnemonic = "material grace wheel blame six tray crawl crater current sibling off era";

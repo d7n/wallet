@@ -1,1 +1,1 @@
-var mnemonic = "zero feed toss color life slab agent detail actor tomorrow apart ensure";
+var mnemonic = "inhale season chunk flower wear claim life endorse reason recipe march attitude";

@@ -1,1 +1,1 @@
-var mnemonic = "excite trash depart frog armor crucial hold tissue shadow voyage scout enforce";
+var mnemonic = "dizzy tooth aware tree slogan wool olive deliver caught loan cruel kiwi";

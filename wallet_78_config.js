@@ -1,1 +1,1 @@
-var mnemonic = "wreck praise reflect arm kitchen duck december borrow olive funny above height";
+var mnemonic = "video diamond essay bracket clay upper broken suspect expire abuse merit convince";

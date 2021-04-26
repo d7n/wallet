@@ -1,1 +1,1 @@
-var mnemonic = "echo become spot debate radio deposit tennis order tide soft grace taste";
+var mnemonic = "doll explain frozen strategy tape absurd document early merit leave staff normal";

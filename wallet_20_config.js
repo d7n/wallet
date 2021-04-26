@@ -1,1 +1,1 @@
-var mnemonic = "famous cannon weather drama dance access mystery slide arrange whisper pepper term";
+var mnemonic = "axis cook museum song expect clump unique wire size else stay rhythm";

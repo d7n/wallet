@@ -1,1 +1,1 @@
-var mnemonic = "state accuse rate math process wise assume account feed risk receive scale";
+var mnemonic = "vocal job game lobster floor dawn snack degree shoe royal priority melt";

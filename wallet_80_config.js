@@ -1,1 +1,1 @@
-var mnemonic = "dinner million cart spoon gossip income brown goddess plate artefact antenna ankle";
+var mnemonic = "eager bring real sadness motor kick ozone exotic ask faint broom genuine";

@@ -1,1 +1,1 @@
-var mnemonic = "retreat pyramid pigeon universe proud resist bird art spike tower behave cake";
+var mnemonic = "tiger decide essence wealth doll ripple garage kiwi acquire laptop swallow menu";

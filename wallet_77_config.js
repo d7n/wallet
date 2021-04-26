@@ -1,1 +1,1 @@
-var mnemonic = "visa tool earth alpha analyst rescue shy segment arch angle meadow genius";
+var mnemonic = "depth echo foot wealth token humble salad cupboard fine try vital fan";

@@ -1,1 +1,1 @@
-var mnemonic = "tackle enjoy cup valley tongue small media vehicle that million vicious follow";
+var mnemonic = "gym guide wear riot grace coil yard priority offer pitch picnic city";

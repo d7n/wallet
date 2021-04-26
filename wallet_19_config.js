@@ -1,1 +1,1 @@
-var mnemonic = "bone notable also issue gold column shallow aunt middle knee fame deliver";
+var mnemonic = "wrong smart unlock sail echo combine approve oppose south biology submit define";

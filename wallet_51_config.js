@@ -1,1 +1,1 @@
-var mnemonic = "egg zone easily bike melt observe before approve sad velvet cup acquire";
+var mnemonic = "patch require enemy insane speak ramp excite worth people surprise stove cube";

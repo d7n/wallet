@@ -1,1 +1,1 @@
-var mnemonic = "assault easily decide inflict symptom expire raise oxygen level airport merge claw";
+var mnemonic = "vital tooth online strike inherit idle link begin rebel labor rail bus";

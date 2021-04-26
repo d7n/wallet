@@ -1,1 +1,1 @@
-var mnemonic = "science loan buyer noodle laundry exchange case polar apart cheap sniff bleak";
+var mnemonic = "cabin half pyramid attack clown dignity fence wealth scan blur fatigue pudding";

@@ -1,1 +1,1 @@
-var mnemonic = "miracle cinnamon sponsor soup equip fan silent tennis citizen denial draft state";
+var mnemonic = "fly capable flame drink coast dice check hello gate end beauty zone";

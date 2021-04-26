@@ -1,1 +1,1 @@
-var mnemonic = "swear potato trigger rely legend dust theme cost empty crop angry mail";
+var mnemonic = "pelican sock mercy core husband social veteran slab fitness duty spell turn";

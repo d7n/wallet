@@ -1,1 +1,1 @@
-var mnemonic = "vote fun other post split viable dash boss slam visa slot welcome";
+var mnemonic = "hunt donor dice thought unique desk income cube swing key lemon vintage";

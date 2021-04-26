@@ -1,1 +1,1 @@
-var mnemonic = "life home beef citizen artist place rookie moment corn rally fiction copper";
+var mnemonic = "interest stem believe lunch valve advance typical bag sheriff keep fortune that";

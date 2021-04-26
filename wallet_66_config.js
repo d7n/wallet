@@ -1,1 +1,1 @@
-var mnemonic = "surround royal absurd subway cherry slender neither rabbit same month silly consider";
+var mnemonic = "tattoo access carpet student bus mean toward nothing glass broken basket whip";

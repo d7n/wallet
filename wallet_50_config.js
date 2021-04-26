@@ -1,1 +1,1 @@
-var mnemonic = "onion letter refuse wing floor network pride diet aim hello youth fit";
+var mnemonic = "amateur smoke evolve elegant argue race close cook aspect virus diagram garment";

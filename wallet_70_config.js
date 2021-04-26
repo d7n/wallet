@@ -1,1 +1,1 @@
-var mnemonic = "chapter ritual alarm tree dish approve buyer expire deny kingdom ski broccoli";
+var mnemonic = "actual during mention negative promote erupt dance dolphin cabbage share paper sleep";

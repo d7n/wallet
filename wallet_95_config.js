@@ -1,1 +1,1 @@
-var mnemonic = "improve sister absent barrel recycle antenna resist social mad flower question twelve";
+var mnemonic = "kingdom uphold birth account history diet advice athlete fan portion stairs will";

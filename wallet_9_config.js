@@ -1,1 +1,1 @@
-var mnemonic = "favorite monster silly among wool endless outside another hello cage excite pilot";
+var mnemonic = "length wedding huge scatter patient habit legal frame clean rail tooth sign";

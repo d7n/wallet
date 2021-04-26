@@ -1,1 +1,1 @@
-var mnemonic = "enhance jealous diet pilot sun ignore gravity laptop choice garlic vapor upon";
+var mnemonic = "auction palace page motion balance strategy angry nasty mom scorpion bar jelly";

@@ -1,1 +1,1 @@
-var mnemonic = "car delay coil domain wisdom duty maximum eight dawn curve orphan merge";
+var mnemonic = "bid size enough quality off business pen hen churn siren analyst gentle";

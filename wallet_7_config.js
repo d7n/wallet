@@ -1,1 +1,1 @@
-var mnemonic = "region enlist neither census unable slice destroy tenant fitness silver level country";
+var mnemonic = "seat pair panel memory clean situate step bring key width canvas tortoise";

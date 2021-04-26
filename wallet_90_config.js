@@ -1,1 +1,1 @@
-var mnemonic = "wave lady multiply very gym arrow boy own warrior core hotel chest";
+var mnemonic = "project hidden legal demise today robust quote mystery wing better have example";

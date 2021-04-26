@@ -1,1 +1,1 @@
-var mnemonic = "trumpet thing mother lend breeze tiny camera shiver lottery switch key buyer";
+var mnemonic = "glue ordinary avocado federal true resemble unveil coin pretty spider hidden pledge";

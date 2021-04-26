@@ -1,1 +1,1 @@
-var mnemonic = "loud method chuckle clump radio zero rely hover bike talk height like";
+var mnemonic = "flat obvious deputy hip denial luxury coffee cheese cycle civil benefit ozone";

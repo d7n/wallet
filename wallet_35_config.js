@@ -1,1 +1,1 @@
-var mnemonic = "enrich spare buzz later dose flash much ladder wear float ice chicken";
+var mnemonic = "case hurt appear hold leg scan attitude verify endorse mammal region glove";

@@ -1,1 +1,1 @@
-var mnemonic = "riot change toddler saddle south gauge reopen thank mean door endless river";
+var mnemonic = "box diet grape twelve hundred head assault artist advance meadow island harvest";

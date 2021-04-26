@@ -1,1 +1,1 @@
-var mnemonic = "ivory genre mango glance divide fetch practice multiply nurse bitter silent unaware";
+var mnemonic = "media private left donate garden exercise bright public save couple canyon arrest";

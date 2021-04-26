@@ -1,1 +1,1 @@
-var mnemonic = "torch connect advance apart pool boost please mix develop polar learn child";
+var mnemonic = "venture helmet sound pet essence insect zoo year spider accident educate husband";

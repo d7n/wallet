@@ -1,1 +1,1 @@
-var mnemonic = "force broccoli two gorilla stairs neither boy curtain gallery solution old ill";
+var mnemonic = "skull pipe sign swap bird photo unable physical soon omit hen web";

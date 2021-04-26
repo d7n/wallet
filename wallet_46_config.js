@@ -1,1 +1,1 @@
-var mnemonic = "special brisk renew unusual anger broccoli chunk anger knee patch margin life";
+var mnemonic = "dash rich quantum tenant science better peasant armed wait finish donkey fabric";

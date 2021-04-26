@@ -1,1 +1,1 @@
-var mnemonic = "provide mule disorder club student shift theory float invite advice party silk";
+var mnemonic = "silk capable engine left income palace shield program coconut web eye caution";

@@ -1,1 +1,1 @@
-var mnemonic = "slim board claw warm sound lab tower tennis mango wire ticket ramp";
+var mnemonic = "palace kitten scheme tail alpha moon frown supply rice inspire wire mail";

@@ -1,1 +1,1 @@
-var mnemonic = "gain brass maximum shuffle ghost outdoor police argue spirit survey orange trash";
+var mnemonic = "near food original slogan sleep reject bubble small couch margin flip burger";

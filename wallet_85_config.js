@@ -1,1 +1,1 @@
-var mnemonic = "soccer menu choice true couch sight lady leave marine rule love nephew";
+var mnemonic = "letter emerge mango nominee history section lens stand actual monitor twelve correct";

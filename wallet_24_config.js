@@ -1,1 +1,1 @@
-var mnemonic = "method magnet reward multiply web hour seat maze flower chef grab sudden";
+var mnemonic = "into picture royal vicious jeans endless fence soccer enhance jealous exchange kite";

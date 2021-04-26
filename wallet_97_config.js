@@ -1,1 +1,1 @@
-var mnemonic = "delay buzz guilt category long noodle pact claw abstract poet copy hotel";
+var mnemonic = "document flat inflict return drama cabbage day famous swallow clean figure aim";

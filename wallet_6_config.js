@@ -1,1 +1,1 @@
-var mnemonic = "easy soup chef destroy park seek toast gorilla tree talent left country";
+var mnemonic = "olive usual before roast carry burger flight clarify whale page avocado talk";

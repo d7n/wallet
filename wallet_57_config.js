@@ -1,1 +1,1 @@
-var mnemonic = "abstract tissue suggest rival vendor prefer brief rabbit loud become tilt inquiry";
+var mnemonic = "turn father cotton thought eager flush define brand fan range topple lyrics";

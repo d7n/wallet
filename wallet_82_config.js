@@ -1,1 +1,1 @@
-var mnemonic = "switch estate hungry morning antenna canyon hip review genre ocean circle often";
+var mnemonic = "pelican salute survey relax giant student sail spin chase proof baby decrease";

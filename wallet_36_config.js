@@ -1,1 +1,1 @@
-var mnemonic = "blade soda quit error plate multiply awkward volcano reunion exchange push post";
+var mnemonic = "black airport exact lunar reunion bundle buddy oyster menu fluid coral margin";

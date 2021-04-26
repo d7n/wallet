@@ -1,1 +1,1 @@
-var mnemonic = "damage swear local cable lamp pact explain curtain exclude pitch health fortune";
+var mnemonic = "history evidence jaguar moon expire rocket leg three expand code rude hospital";

@@ -1,1 +1,1 @@
-var mnemonic = "finish fox chuckle rescue laptop hammer excess spot impact sword sleep venue";
+var mnemonic = "rib east filter hair train deputy above total winter tomorrow cycle zoo";

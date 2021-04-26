@@ -1,1 +1,1 @@
-var mnemonic = "spend surround portion smart bless harvest minor flush dinner useless load fire";
+var mnemonic = "puppy duck decorate parade glove elegant word issue try expand daring uncle";

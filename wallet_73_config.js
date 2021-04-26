@@ -1,1 +1,1 @@
-var mnemonic = "spray cave mail harsh pretty have path mule bracket bean insect milk";
+var mnemonic = "tell runway jewel amused scorpion envelope satisfy nothing cruise melt payment cushion";

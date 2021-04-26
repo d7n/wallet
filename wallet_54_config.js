@@ -1,1 +1,1 @@
-var mnemonic = "refuse accident label used artwork dash army topple symptom circle stereo fee";
+var mnemonic = "social small add tip know fresh like duty fire chronic notable hair";

@@ -1,1 +1,1 @@
-var mnemonic = "frog various sphere teach guilt genius beach tattoo delay party humor wage";
+var mnemonic = "mystery rescue buddy coast night above jeans choice same venue wealth enough";

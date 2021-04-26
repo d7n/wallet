@@ -1,1 +1,1 @@
-var mnemonic = "buyer crime rude rough cup carbon dolphin turtle guess loan broom fringe";
+var mnemonic = "subject canyon vacant proud trade helmet correct announce renew web task palm";

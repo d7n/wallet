@@ -1,1 +1,1 @@
-var mnemonic = "have cute plastic lava mansion element vacuum advance canal simple pond square";
+var mnemonic = "rude garden endorse behave deposit oblige earn twenty carpet avocado check bean";

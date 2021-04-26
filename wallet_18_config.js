@@ -1,1 +1,1 @@
-var mnemonic = "choose kidney someone escape mixture behind please attend glue valid common father";
+var mnemonic = "simple fire tag unable comic tray layer suffer million knife habit gather";

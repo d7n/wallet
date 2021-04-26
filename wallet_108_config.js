@@ -1,1 +1,1 @@
-var mnemonic = "leaf funny receive exact couple urge sad situate gesture guard road labor";
+var mnemonic = "roast enhance rib harbor vehicle neither people power prosper decrease sentence census";
