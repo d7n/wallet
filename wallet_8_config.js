@@ -1,1 +1,1 @@
-var mnemonic = "click basic fever primary humor airport tool message spatial mosquito bonus next";
+var mnemonic = "congress survey cereal reopen amount badge because hole hint cluster scorpion hill";

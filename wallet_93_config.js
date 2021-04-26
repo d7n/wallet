@@ -1,1 +1,1 @@
-var mnemonic = "very snow indicate inflict pig lobster grunt drive ski inform jealous you";
+var mnemonic = "damp ankle sun license helmet bid camera arch average oval balance matrix";

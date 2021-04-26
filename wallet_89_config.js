@@ -1,1 +1,1 @@
-var mnemonic = "opera subject dust divide sun rough tired used rifle approve obvious fortune";
+var mnemonic = "blush buffalo ski horse before loyal gospel art foil roast author laptop";

@@ -1,1 +1,1 @@
-var mnemonic = "large eager carbon miracle access embody black remind truth pet dog you";
+var mnemonic = "critic region can crystal burst bus office swarm gate lens magic milk";

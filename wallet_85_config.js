@@ -1,1 +1,1 @@
-var mnemonic = "differ axis sentence drama simple brain slam thumb town grief produce garbage";
+var mnemonic = "include safe arrow snack motor grief truly actual surround adjust odor skate";

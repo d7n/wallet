@@ -1,1 +1,1 @@
-var mnemonic = "bring toilet innocent side void horror round south motor sting crucial bar";
+var mnemonic = "combine motion flavor upper update cover client flat weasel item drama solid";

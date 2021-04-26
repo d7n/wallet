@@ -1,1 +1,1 @@
-var mnemonic = "shrug laugh wise soap tape weird coil stay phone play garlic lady";
+var mnemonic = "elevator jacket vessel entire cat ill orange fringe palace mouse leave search";

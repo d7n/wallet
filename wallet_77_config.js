@@ -1,1 +1,1 @@
-var mnemonic = "extend pet beyond spend adjust square response amateur silent century fat strike";
+var mnemonic = "adapt open affair access fashion original mirror sentence tent hobby riot cheese";

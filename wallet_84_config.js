@@ -1,1 +1,1 @@
-var mnemonic = "use indoor library plunge unfair market medal join tide effort leave throw";
+var mnemonic = "sort kiwi accuse warfare rent awful swallow rifle finish reveal leaf purity";

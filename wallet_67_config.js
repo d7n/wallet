@@ -1,1 +1,1 @@
-var mnemonic = "long gas excess exchange sign receive arch drive memory market method stomach";
+var mnemonic = "brush attend street giggle better floor morning rocket dizzy nose found blast";

@@ -1,1 +1,1 @@
-var mnemonic = "biology sport duty rhythm calm symbol phrase frequent album you thing great";
+var mnemonic = "mixed index citizen vast lab cry upon hurdle permit siege exit example";

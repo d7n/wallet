@@ -1,1 +1,1 @@
-var mnemonic = "agent recall zoo torch style task auto walk dad hybrid detail episode";
+var mnemonic = "marriage ignore trumpet palace rather chase seat forget reflect earn tooth current";

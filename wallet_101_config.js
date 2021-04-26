@@ -1,1 +1,1 @@
-var mnemonic = "road illegal mean lift attitude elbow liar slide digital exist float wet";
+var mnemonic = "setup input hammer what ride false real share rare crater agent apology";

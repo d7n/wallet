@@ -1,1 +1,1 @@
-var mnemonic = "forest cheap faint kidney distance aisle evoke walk grant question broom door";
+var mnemonic = "unknown salad wheat problem tragic bird assume gym oblige helmet fatigue moon";

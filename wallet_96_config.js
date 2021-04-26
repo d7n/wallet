@@ -1,1 +1,1 @@
-var mnemonic = "canal strong lift into task theme mobile drum slender enable quiz pear";
+var mnemonic = "dumb vessel ahead indicate bachelor insect sting coast powder beauty dune cross";

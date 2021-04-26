@@ -1,1 +1,1 @@
-var mnemonic = "cousin spell occur tone add settle chaos laundry solution walnut educate kick";
+var mnemonic = "dolphin praise globe capital wisdom mistake screen nut relief title cat column";

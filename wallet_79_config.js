@@ -1,1 +1,1 @@
-var mnemonic = "hotel fun build hammer acid kid emotion wrestle aisle alien fruit piano";
+var mnemonic = "staff exclude tattoo tissue aunt receive muscle end basic very reflect guitar";

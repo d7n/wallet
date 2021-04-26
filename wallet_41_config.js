@@ -1,1 +1,1 @@
-var mnemonic = "tower door anxiety harvest bundle zero claw board detail mention dirt ceiling";
+var mnemonic = "tennis crash else bottom image glare square rebel salute during visa arrive";

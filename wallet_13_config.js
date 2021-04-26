@@ -1,1 +1,1 @@
-var mnemonic = "summer produce rifle mystery return asset planet churn steel cycle december fame";
+var mnemonic = "tongue notice season poem mesh heart anchor liquid embark valley inform humor";

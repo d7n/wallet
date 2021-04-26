@@ -1,1 +1,1 @@
-var mnemonic = "walnut slide shove remove canoe fatal brush skirt recipe guard squirrel install";
+var mnemonic = "negative sphere suffer primary salmon leopard indoor fluid casino stool track rent";

@@ -1,1 +1,1 @@
-var mnemonic = "vessel digital shadow book build gown inform tribe until lunch electric improve";
+var mnemonic = "dentist jungle execute invest toe alarm dismiss predict waste art hollow dial";

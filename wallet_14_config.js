@@ -1,1 +1,1 @@
-var mnemonic = "spring suggest bacon galaxy major write royal liquid twenty crack weird coach";
+var mnemonic = "change inquiry only good liquid sick disease bullet task huge blossom cart";

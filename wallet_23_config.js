@@ -1,1 +1,1 @@
-var mnemonic = "soda crack ramp say spoil spice chief crystal frame tiger gym moment";
+var mnemonic = "call noodle awesome window vital modify kidney jazz knife supreme fall purchase";

@@ -1,1 +1,1 @@
-var mnemonic = "decide major repair bounce prefer liberty copper trip clip prison high wrong";
+var mnemonic = "lawsuit promote correct combine potato wheat face auction enemy goat cricket know";

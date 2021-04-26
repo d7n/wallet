@@ -1,1 +1,1 @@
-var mnemonic = "fiscal else outer catch tuition dad bike comic west cargo brand tobacco";
+var mnemonic = "snake dish valid plug health opinion need about coin price actor recipe";

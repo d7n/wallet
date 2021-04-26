@@ -1,1 +1,1 @@
-var mnemonic = "text scissors latin swap label amazing tomato innocent concert chuckle embody flag";
+var mnemonic = "fault arctic license whip narrow desk cash swallow coffee joy burst game";

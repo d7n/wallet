@@ -1,1 +1,1 @@
-var mnemonic = "puppy better rare symbol rate flash home sample census cactus world dwarf";
+var mnemonic = "absurd slab hill crucial gas vendor heavy work rare enter word alien";

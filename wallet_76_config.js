@@ -1,1 +1,1 @@
-var mnemonic = "great enlist era cave ramp buyer ugly grass kingdom river jewel august";
+var mnemonic = "home angle attend engine cable minute ready network hundred clinic maximum echo";

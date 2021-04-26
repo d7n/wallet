@@ -1,1 +1,1 @@
-var mnemonic = "axis clown behind ostrich exhibit lens peanut raven animal fossil private dice";
+var mnemonic = "amazing pig draft cost crouch early tank summer prison alone noble melt";

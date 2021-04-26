@@ -1,1 +1,1 @@
-var mnemonic = "fun phone forum cinnamon energy siren table cradle actual title shrug mixture";
+var mnemonic = "lottery screen method foil human main bike vocal issue agree pottery cherry";

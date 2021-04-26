@@ -1,1 +1,1 @@
-var mnemonic = "confirm measure predict trigger ship add coin aisle depth tree jealous glove";
+var mnemonic = "judge suffer table brief sell derive seek denial key aware engage grain";

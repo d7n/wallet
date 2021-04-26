@@ -1,1 +1,1 @@
-var mnemonic = "glow sound robot butter position echo you cinnamon asset pen ecology amused";
+var mnemonic = "clarify eagle prefer pig present armed two measure doll long often banana";

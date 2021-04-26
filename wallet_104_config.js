@@ -1,1 +1,1 @@
-var mnemonic = "honey imitate find cruel birth ask frown sock ketchup total plunge slab";
+var mnemonic = "door stomach vibrant trial gown family foot valley what object tongue enable";

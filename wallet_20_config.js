@@ -1,1 +1,1 @@
-var mnemonic = "opinion oven mouse ceiling infant embody race vehicle sail clever vote boring";
+var mnemonic = "ritual chef sing deer mom story wrong found deer century pupil slide";

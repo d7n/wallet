@@ -1,1 +1,1 @@
-var mnemonic = "average fossil aisle duty regret one caught poem refuse page coin ice";
+var mnemonic = "stone mention quarter effort runway hobby hamster captain blossom horror vicious endorse";

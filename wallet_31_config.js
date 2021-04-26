@@ -1,1 +1,1 @@
-var mnemonic = "merry mind garment mix lizard genuine liberty absurd clerk skirt song hip";
+var mnemonic = "will umbrella margin prefer goose gaze artist laugh amount this client have";

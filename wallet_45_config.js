@@ -1,1 +1,1 @@
-var mnemonic = "cost twin reason squirrel annual later vacant afford bless aspect entire fit";
+var mnemonic = "way choice manage verify road wasp dry canvas resist liberty weapon test";

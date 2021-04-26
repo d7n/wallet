@@ -1,1 +1,1 @@
-var mnemonic = "flavor exclude cart orange swing cargo immune laptop volume pottery under radio";
+var mnemonic = "scorpion hungry wrestle payment walnut pelican vague envelope word collect adult refuse";

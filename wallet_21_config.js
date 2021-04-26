@@ -1,1 +1,1 @@
-var mnemonic = "sad tilt spray crack elite gospel garment fatigue clarify today lunch replace";
+var mnemonic = "nice hire utility express mosquito version pattern much taxi sadness bone identify";

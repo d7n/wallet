@@ -1,1 +1,1 @@
-var mnemonic = "insane man sign hollow orbit spread anxiety alone hedgehog omit skirt impact";
+var mnemonic = "render pause rely finish wash leader survey flush apart ride nut nation";

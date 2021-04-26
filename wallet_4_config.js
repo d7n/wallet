@@ -1,1 +1,1 @@
-var mnemonic = "obey distance fly eight dish hotel filter furnace lobster ticket enable loop";
+var mnemonic = "select pole draft awkward gift fatal distance transfer congress swarm practice desert";

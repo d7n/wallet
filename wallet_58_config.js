@@ -1,1 +1,1 @@
-var mnemonic = "asthma phone symptom eternal egg slogan bulb sunset one oil fire collect";
+var mnemonic = "magic ice term anxiety bullet injury enforce piece slender middle army ticket";

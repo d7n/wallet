@@ -1,1 +1,1 @@
-var mnemonic = "hungry stage type eyebrow message ice pen rifle stereo glory goat sponsor";
+var mnemonic = "excuse announce sad page jacket expect option hen open august vapor winner";

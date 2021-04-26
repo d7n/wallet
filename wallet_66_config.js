@@ -1,1 +1,1 @@
-var mnemonic = "fantasy luggage chimney trust update torch credit keep style outer spare crazy";
+var mnemonic = "rhythm file chase adult rhythm island bulk slot try glory between strike";

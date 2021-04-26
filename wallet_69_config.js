@@ -1,1 +1,1 @@
-var mnemonic = "mobile invite emotion easy crew inspire ready switch jewel spy target bargain";
+var mnemonic = "stumble train hold surprise fork anxiety friend limit voice short visa travel";

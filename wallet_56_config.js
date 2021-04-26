@@ -1,1 +1,1 @@
-var mnemonic = "kit traffic man crack sure world brick gorilla aisle shrimp chest crystal";
+var mnemonic = "echo test clarify double scan inflict hotel pig clerk napkin mixed vicious";

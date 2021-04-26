@@ -1,1 +1,1 @@
-var mnemonic = "leisure art what egg analyst vessel orient service file cream price game";
+var mnemonic = "universe miss gloom firm possible lottery private relief abuse acquire chat buyer";

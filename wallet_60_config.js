@@ -1,1 +1,1 @@
-var mnemonic = "repair time bread elder grace rack zebra problem cherry remind stadium phrase";
+var mnemonic = "wire detail usual scale fossil scorpion away safe identify voyage gain tomorrow";

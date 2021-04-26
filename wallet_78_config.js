@@ -1,1 +1,1 @@
-var mnemonic = "affair laugh license avoid random oval draft chief radar undo travel link";
+var mnemonic = "seven obtain nice dawn dance margin awful quit cinnamon practice puppy local";

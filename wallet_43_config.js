@@ -1,1 +1,1 @@
-var mnemonic = "emerge crumble deal pull husband reward dynamic curve seek cup crunch cupboard";
+var mnemonic = "cheese valid bind fiction hill license abuse guide slogan budget salon vapor";

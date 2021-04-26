@@ -1,1 +1,1 @@
-var mnemonic = "helmet auto blur say spot online swear recipe maximum chicken often verb";
+var mnemonic = "swim firm pet people pave inmate comic suit tuition purse canal pencil";

@@ -1,1 +1,1 @@
-var mnemonic = "equal dad wealth fatal debris course win draw clever miss walk nice";
+var mnemonic = "arch cream equip impact strategy soon ketchup smooth weather quit hold shy";

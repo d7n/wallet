@@ -1,1 +1,1 @@
-var mnemonic = "segment check uncle patient warrior before slow month joy ski donkey awful";
+var mnemonic = "soccer front embrace ugly absorb verify powder kick grape pioneer hobby loop";

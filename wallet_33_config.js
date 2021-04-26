@@ -1,1 +1,1 @@
-var mnemonic = "tool hair rigid sight donor casino recipe gravity copy camera final emerge";
+var mnemonic = "act wolf bracket author cat timber capital broom sorry chief aisle entire";

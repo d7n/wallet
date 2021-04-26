@@ -1,1 +1,1 @@
-var mnemonic = "brick uphold nasty useless bulk blood clinic adult caught isolate admit foam";
+var mnemonic = "have fly welcome belt first host battle kangaroo combine mesh jump enter";

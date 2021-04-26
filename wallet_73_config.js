@@ -1,1 +1,1 @@
-var mnemonic = "spy want knife senior estate welcome trim blood wool chicken exotic cost";
+var mnemonic = "leisure knife tomato screen lens budget lion since report bulb worth ecology";

@@ -1,1 +1,1 @@
-var mnemonic = "drink arena blood dress rapid season install almost good photo stem street";
+var mnemonic = "open vicious finger giggle today stereo lady visual success conduct tissue cruel";

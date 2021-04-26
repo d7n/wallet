@@ -1,1 +1,1 @@
-var mnemonic = "much else surge wink crater dial digital task foot tide ensure gloom";
+var mnemonic = "scorpion movie question vanish burst picnic dynamic salon run legal cycle opinion";

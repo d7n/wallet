@@ -1,1 +1,1 @@
-var mnemonic = "relief rocket leave vacuum upper combine desk alien wood grocery fortune curve";
+var mnemonic = "bid error news enter define stand copper chunk oil diesel ensure elbow";

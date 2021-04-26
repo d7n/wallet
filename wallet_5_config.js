@@ -1,1 +1,1 @@
-var mnemonic = "surprise order enact mandate bridge fish sort similar muscle kiss pet swamp";
+var mnemonic = "cost depend gadget plate trick absurd model photo afford fitness ten increase";

@@ -1,1 +1,1 @@
-var mnemonic = "negative route topic smart switch because minute boil payment lecture clutch valley";
+var mnemonic = "test endless spell group better eagle woman air jar garage bracket share";

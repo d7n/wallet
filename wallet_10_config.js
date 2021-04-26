@@ -1,1 +1,1 @@
-var mnemonic = "ceiling valid page october issue such lift chef sibling moral swap penalty";
+var mnemonic = "village run dolphin alter abandon buyer dilemma buyer insect nice mask glimpse";

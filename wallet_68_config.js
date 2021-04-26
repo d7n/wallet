@@ -1,1 +1,1 @@
-var mnemonic = "cruel lift hen vanish spawn ankle belt fix choose uniform control critic";
+var mnemonic = "allow sibling genuine warrior number profit next elegant drip smoke lunch spice";

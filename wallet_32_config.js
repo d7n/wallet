@@ -1,1 +1,1 @@
-var mnemonic = "orchard advance grape heart right siege limb curtain muffin method style vessel";
+var mnemonic = "sting siege punch resemble other myth cereal mango special until crane kind";

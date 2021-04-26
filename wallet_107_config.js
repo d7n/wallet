@@ -1,1 +1,1 @@
-var mnemonic = "salad reveal ugly boring napkin hope vintage mystery child concert pond print";
+var mnemonic = "eternal myth impulse session track neglect siege dune come burger task perfect";

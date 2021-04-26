@@ -1,1 +1,1 @@
-var mnemonic = "plastic option unhappy upset gossip spice enable pelican frown mercy apart employ";
+var mnemonic = "route panther minor people banana chronic sell border clap drip uncle height";

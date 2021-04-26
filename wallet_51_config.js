@@ -1,1 +1,1 @@
-var mnemonic = "barely enable health glue album mistake kidney cupboard this grid secret decorate";
+var mnemonic = "goddess gym sense special toast butter entire share program erode exit you";

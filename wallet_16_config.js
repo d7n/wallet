@@ -1,1 +1,1 @@
-var mnemonic = "property wave sunny among claw acid avocado please wreck fossil health mercy";
+var mnemonic = "swim chimney danger fly explain potato knee cannon erupt rack school art";

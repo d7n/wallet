@@ -1,1 +1,1 @@
-var mnemonic = "shock puzzle gun learn twin drum pluck owner gate slight industry turtle";
+var mnemonic = "sugar hungry harsh position obscure release gentle portion analyst dice swallow code";

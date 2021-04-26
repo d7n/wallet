@@ -1,1 +1,1 @@
-var mnemonic = "submit mercy brand bachelor traffic ghost surge fluid quarter tell tired snake";
+var mnemonic = "crush save tray pony wood border mirror glory unknown viable half toe";

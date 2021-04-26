@@ -1,1 +1,1 @@
-var mnemonic = "dawn home direct search shield quote amazing satisfy security cargo always now";
+var mnemonic = "hollow force possible plate jacket marine gain abstract shell position shrug learn";

@@ -1,1 +1,1 @@
-var mnemonic = "arch jealous toddler giraffe top able install boost dolphin six tongue safe";
+var mnemonic = "black meadow celery place wool second dream submit blind toast veteran tomato";

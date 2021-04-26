@@ -1,1 +1,1 @@
-var mnemonic = "fire earth girl actor brick file chest enable indoor forum robust inspire";
+var mnemonic = "share remember layer naive neck skate civil blast owner north clog gift";

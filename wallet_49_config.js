@@ -1,1 +1,1 @@
-var mnemonic = "visit vendor elevator often style organ panel fall spare obscure dutch trap";
+var mnemonic = "fitness expose fog whale pluck category surface alone wonder mango above chronic";

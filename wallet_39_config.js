@@ -1,1 +1,1 @@
-var mnemonic = "banana valley beach armed bridge raven original boss random never pepper similar";
+var mnemonic = "impulse husband violin transfer charge cannon six record bullet flame lazy west";

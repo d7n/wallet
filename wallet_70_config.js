@@ -1,1 +1,1 @@
-var mnemonic = "remember arm better chaos scan manage give square swing similar fence survey";
+var mnemonic = "exile spice tonight shallow donkey entire donkey cargo option message various live";

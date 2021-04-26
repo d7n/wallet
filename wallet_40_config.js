@@ -1,1 +1,1 @@
-var mnemonic = "alley mix pigeon planet crush skull noise drip mutual boat equal guard";
+var mnemonic = "celery rifle hire recipe burger nation about genuine cancel life color bacon";

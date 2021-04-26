@@ -1,1 +1,1 @@
-var mnemonic = "slide worry decorate table festival desk excess sponsor clock step river fault";
+var mnemonic = "illegal fine trouble need edit infant movie script gold tool mule angle";

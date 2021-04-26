@@ -1,1 +1,1 @@
-var mnemonic = "exclude bulb shadow crop consider antique chapter offer organ response submit galaxy";
+var mnemonic = "pause original symptom cable meadow record dilemma cattle lemon omit ski axis";

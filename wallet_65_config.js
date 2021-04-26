@@ -1,1 +1,1 @@
-var mnemonic = "asthma gown mesh among athlete penalty thrive cloud pair evoke victory earn";
+var mnemonic = "hamster puzzle panther invite family kingdom february best post away couple axis";

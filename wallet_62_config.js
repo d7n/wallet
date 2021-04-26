@@ -1,1 +1,1 @@
-var mnemonic = "convince muffin novel dove satisfy visit crazy shadow forward tuition protect letter";
+var mnemonic = "burger chef bird funny alarm decade lava roast inspire whip planet dawn";

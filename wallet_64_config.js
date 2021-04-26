@@ -1,1 +1,1 @@
-var mnemonic = "jelly drip main insane piano purse road cream film eight junior inside";
+var mnemonic = "eager lucky ocean melt divorce wasp plastic kiwi since suspect enhance cover";

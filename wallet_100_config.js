@@ -1,1 +1,1 @@
-var mnemonic = "alpha animal poverty angle join main jewel gesture wolf slab refuse magnet";
+var mnemonic = "advice robot engage combine rigid absorb license festival hello wheel spider door";

@@ -1,1 +1,1 @@
-var mnemonic = "story junior wet salute brick gravity demise damp into treat term weird";
+var mnemonic = "achieve shuffle scissors devote spy mask kite tenant among develop choose peanut";

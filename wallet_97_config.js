@@ -1,1 +1,1 @@
-var mnemonic = "athlete foot genius penalty rookie license follow design scissors pitch inhale suggest";
+var mnemonic = "phone brother uncover cook bracket hard blanket letter enlist inflict cake culture";
