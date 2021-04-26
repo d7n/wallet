@@ -1,1 +1,1 @@
-var mnemonic = "swim firm pet people pave inmate comic suit tuition purse canal pencil";
+var mnemonic = "drip toilet always divide manage more crazy laptop dwarf detail lesson journey";

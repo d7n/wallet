@@ -1,1 +1,1 @@
-var mnemonic = "cost depend gadget plate trick absurd model photo afford fitness ten increase";
+var mnemonic = "prosper annual wrist moon wish occur bulb economy foster help close journey";

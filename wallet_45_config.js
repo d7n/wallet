@@ -1,1 +1,1 @@
-var mnemonic = "way choice manage verify road wasp dry canvas resist liberty weapon test";
+var mnemonic = "company raccoon match okay denial access forest message moment search text broom";

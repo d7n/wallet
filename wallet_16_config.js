@@ -1,1 +1,1 @@
-var mnemonic = "swim chimney danger fly explain potato knee cannon erupt rack school art";
+var mnemonic = "immense concert improve climb speed front virtual hungry rescue famous dilemma segment";

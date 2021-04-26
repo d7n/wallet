@@ -1,1 +1,1 @@
-var mnemonic = "blush buffalo ski horse before loyal gospel art foil roast author laptop";
+var mnemonic = "edit into confirm knife seat retreat copper letter step swap dizzy patch";

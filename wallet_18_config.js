@@ -1,1 +1,1 @@
-var mnemonic = "crunch better negative raw evoke vote forest ride wide cargo worry essence";
+var mnemonic = "card trash panic ocean play quality gap sunny fee session mask submit";

@@ -1,1 +1,1 @@
-var mnemonic = "exile spice tonight shallow donkey entire donkey cargo option message various live";
+var mnemonic = "term sort lunch dizzy address envelope guard dial useful sea rely fashion";

@@ -1,1 +1,1 @@
-var mnemonic = "cheese valid bind fiction hill license abuse guide slogan budget salon vapor";
+var mnemonic = "barely jump kid beef table desert thank obtain ridge unique junk marriage";

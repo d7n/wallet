@@ -1,1 +1,1 @@
-var mnemonic = "scorpion movie question vanish burst picnic dynamic salon run legal cycle opinion";
+var mnemonic = "toy poet found floor style master search season between check organ charge";

@@ -1,1 +1,1 @@
-var mnemonic = "enact dizzy charge frost measure badge bubble crystal parade twist wrap wage";
+var mnemonic = "enlist april pool grace face topic agree mesh allow cage ketchup practice";

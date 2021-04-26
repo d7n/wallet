@@ -1,1 +1,1 @@
-var mnemonic = "sort kiwi accuse warfare rent awful swallow rifle finish reveal leaf purity";
+var mnemonic = "case float omit cradle buzz tag small around grocery viable owner side";

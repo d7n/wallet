@@ -1,1 +1,1 @@
-var mnemonic = "phone brother uncover cook bracket hard blanket letter enlist inflict cake culture";
+var mnemonic = "rebel daring action squirrel faith slide shove rally frost million seminar office";

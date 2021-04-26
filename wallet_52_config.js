@@ -1,1 +1,1 @@
-var mnemonic = "galaxy amount sunset trumpet left enter zero urge just link infant daughter";
+var mnemonic = "water immune eagle consider sudden hidden relax arch track swear bachelor large";

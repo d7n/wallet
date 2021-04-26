@@ -1,1 +1,1 @@
-var mnemonic = "marriage ignore trumpet palace rather chase seat forget reflect earn tooth current";
+var mnemonic = "slight amateur amazing alert spider turn toilet grass mimic someone acoustic come";

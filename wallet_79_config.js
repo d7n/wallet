@@ -1,1 +1,1 @@
-var mnemonic = "staff exclude tattoo tissue aunt receive muscle end basic very reflect guitar";
+var mnemonic = "material cube fence toss donate unlock squeeze yellow bunker drink layer scatter";

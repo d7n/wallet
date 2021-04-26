@@ -1,1 +1,1 @@
-var mnemonic = "hollow force possible plate jacket marine gain abstract shell position shrug learn";
+var mnemonic = "battle family frame fine only bunker battle blur label hunt cargo boat";

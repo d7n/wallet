@@ -1,1 +1,1 @@
-var mnemonic = "crowd month stereo cry cigar despair inflict glare trumpet pilot save machine";
+var mnemonic = "video razor oxygen subway cruel runway toy job card brief only small";

@@ -1,1 +1,1 @@
-var mnemonic = "raven million scrap follow zone hobby clap insect ball moment skill bitter";
+var mnemonic = "smart tent smile grief satoshi junior sound govern item human over tobacco";

@@ -1,1 +1,1 @@
-var mnemonic = "change inquiry only good liquid sick disease bullet task huge blossom cart";
+var mnemonic = "awake visa injury protect eagle power crazy nuclear give eight dream soul";

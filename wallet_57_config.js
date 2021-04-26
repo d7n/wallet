@@ -1,1 +1,1 @@
-var mnemonic = "scorpion hungry wrestle payment walnut pelican vague envelope word collect adult refuse";
+var mnemonic = "prepare nice curious average under transfer rocket awkward enjoy awful damp fetch";

@@ -1,1 +1,1 @@
-var mnemonic = "advice robot engage combine rigid absorb license festival hello wheel spider door";
+var mnemonic = "coast crop talent coin will behave exile belt they swallow urge ecology";

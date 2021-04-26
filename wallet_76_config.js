@@ -1,1 +1,1 @@
-var mnemonic = "home angle attend engine cable minute ready network hundred clinic maximum echo";
+var mnemonic = "midnight easily wife hamster occur exchange chapter caution connect coyote include symbol";

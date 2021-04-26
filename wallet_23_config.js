@@ -1,1 +1,1 @@
-var mnemonic = "call noodle awesome window vital modify kidney jazz knife supreme fall purchase";
+var mnemonic = "person organ host tortoise spring damage arena raccoon toss minor fortune area";

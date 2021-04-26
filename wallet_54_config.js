@@ -1,1 +1,1 @@
-var mnemonic = "open vicious finger giggle today stereo lady visual success conduct tissue cruel";
+var mnemonic = "summer leisure siren orange sea cotton lab digital garlic moon among during";

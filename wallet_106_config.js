@@ -1,1 +1,1 @@
-var mnemonic = "snake dish valid plug health opinion need about coin price actor recipe";
+var mnemonic = "east noodle sunset pole cannon vacant fun sketch feel auction breeze prosper";

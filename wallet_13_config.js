@@ -1,1 +1,1 @@
-var mnemonic = "tongue notice season poem mesh heart anchor liquid embark valley inform humor";
+var mnemonic = "spy liar elegant air rubber sight rapid cannon cigar fever cement bachelor";

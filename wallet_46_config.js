@@ -1,1 +1,1 @@
-var mnemonic = "brisk welcome fuel intact sketch match inner rebuild must where wasp chef";
+var mnemonic = "road noble void unfair impulse outer must exclude zero champion hat client";

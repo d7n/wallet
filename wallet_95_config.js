@@ -1,1 +1,1 @@
-var mnemonic = "combine motion flavor upper update cover client flat weasel item drama solid";
+var mnemonic = "ostrich hunt behave autumn toddler grace hurt fatal kingdom length what steak";

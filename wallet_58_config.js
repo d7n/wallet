@@ -1,1 +1,1 @@
-var mnemonic = "magic ice term anxiety bullet injury enforce piece slender middle army ticket";
+var mnemonic = "soul stereo fluid black bleak stable immense pet energy check chronic knee";

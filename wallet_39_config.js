@@ -1,1 +1,1 @@
-var mnemonic = "impulse husband violin transfer charge cannon six record bullet flame lazy west";
+var mnemonic = "accuse arctic pitch tank early impulse pride rare trial baby intact dolphin";

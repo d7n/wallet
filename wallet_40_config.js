@@ -1,1 +1,1 @@
-var mnemonic = "celery rifle hire recipe burger nation about genuine cancel life color bacon";
+var mnemonic = "idle general bracket apart clarify render learn rigid category legal laundry doll";

@@ -1,1 +1,1 @@
-var mnemonic = "brush attend street giggle better floor morning rocket dizzy nose found blast";
+var mnemonic = "forum shield giggle opinion you profit isolate occur blanket impact orient biology";

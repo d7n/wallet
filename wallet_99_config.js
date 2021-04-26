@@ -1,1 +1,1 @@
-var mnemonic = "unknown salad wheat problem tragic bird assume gym oblige helmet fatigue moon";
+var mnemonic = "network skull ride crawl green connect picture era churn scale improve lab";

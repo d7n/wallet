@@ -1,1 +1,1 @@
-var mnemonic = "manual traffic suit gown ice service best royal noise right absent stadium";
+var mnemonic = "game hover fiscal occur west shine climb sick refuse soap ill turkey";

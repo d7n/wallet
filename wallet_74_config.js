@@ -1,1 +1,1 @@
-var mnemonic = "render pause rely finish wash leader survey flush apart ride nut nation";
+var mnemonic = "motion monkey sheriff barrel family label address story future glass riot bird";

@@ -1,1 +1,1 @@
-var mnemonic = "hub cart thumb drastic local crunch dash twelve bike resource risk public";
+var mnemonic = "speed boost document return exist ceiling city parrot manage lonely verify rail";

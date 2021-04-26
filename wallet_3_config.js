@@ -1,1 +1,1 @@
-var mnemonic = "large sorry legal juice oven leave divert delay cool cloud noodle wreck";
+var mnemonic = "hidden spot know debris boat shaft tail palace bicycle curve genius crawl";

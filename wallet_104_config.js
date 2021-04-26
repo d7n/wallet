@@ -1,1 +1,1 @@
-var mnemonic = "door stomach vibrant trial gown family foot valley what object tongue enable";
+var mnemonic = "hover lend best never wrap tennis six height identify toward harvest author";

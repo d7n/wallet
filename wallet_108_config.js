@@ -1,1 +1,1 @@
-var mnemonic = "sugar hungry harsh position obscure release gentle portion analyst dice swallow code";
+var mnemonic = "inspire gossip wealth false able green hollow twist surface fragile tongue accident";

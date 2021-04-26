@@ -1,1 +1,1 @@
-var mnemonic = "suggest error suit slush universe seminar sad garage hurry rain into canvas";
+var mnemonic = "tongue one print spoil valve problem brush prosper calm across battle cousin";

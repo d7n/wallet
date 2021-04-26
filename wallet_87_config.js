@@ -1,1 +1,1 @@
-var mnemonic = "great outside labor junk electric bench shiver fame shy where carpet pond";
+var mnemonic = "safe decrease swamp absorb physical outer wet body whale mimic squeeze vendor";

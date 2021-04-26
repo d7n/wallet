@@ -1,1 +1,1 @@
-var mnemonic = "mutual thank good protect breeze hair gain cluster wasp present discover plate";
+var mnemonic = "mouse setup emotion setup verb express fresh work attack master school umbrella";

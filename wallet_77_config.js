@@ -1,1 +1,1 @@
-var mnemonic = "adapt open affair access fashion original mirror sentence tent hobby riot cheese";
+var mnemonic = "caught system path chalk rate auto arrive wisdom gospel valve artwork economy";

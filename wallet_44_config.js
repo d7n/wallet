@@ -1,1 +1,1 @@
-var mnemonic = "route panther minor people banana chronic sell border clap drip uncle height";
+var mnemonic = "melt twice price cash away impulse renew there build ready renew police";

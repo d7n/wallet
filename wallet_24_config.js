@@ -1,1 +1,1 @@
-var mnemonic = "fault arctic license whip narrow desk cash swallow coffee joy burst game";
+var mnemonic = "rude pet gold cake dash rifle grid beyond later drink citizen crime";

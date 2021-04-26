@@ -1,1 +1,1 @@
-var mnemonic = "pause original symptom cable meadow record dilemma cattle lemon omit ski axis";
+var mnemonic = "mass pelican vendor hybrid version era follow carpet fame dismiss cycle honey";

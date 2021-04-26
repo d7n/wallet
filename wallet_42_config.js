@@ -1,1 +1,1 @@
-var mnemonic = "absurd slab hill crucial gas vendor heavy work rare enter word alien";
+var mnemonic = "naive trust habit buyer escape parent leaf loan champion front table foam";

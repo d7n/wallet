@@ -1,1 +1,1 @@
-var mnemonic = "burger chef bird funny alarm decade lava roast inspire whip planet dawn";
+var mnemonic = "shell insect tribe labor nerve ladder hire barrel clinic wheel that mango";

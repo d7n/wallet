@@ -1,1 +1,1 @@
-var mnemonic = "black meadow celery place wool second dream submit blind toast veteran tomato";
+var mnemonic = "antenna chat warfare move plunge jealous plunge grape frequent small casual inside";

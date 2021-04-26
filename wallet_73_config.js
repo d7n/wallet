@@ -1,1 +1,1 @@
-var mnemonic = "leisure knife tomato screen lens budget lion since report bulb worth ecology";
+var mnemonic = "gallery estate flash box globe rain deny surround analyst flat audit leisure";

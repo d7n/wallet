@@ -1,1 +1,1 @@
-var mnemonic = "sting siege punch resemble other myth cereal mango special until crane kind";
+var mnemonic = "shallow avoid draw wink demise second clarify purity slogan brass zone island";

@@ -1,1 +1,1 @@
-var mnemonic = "soccer front embrace ugly absorb verify powder kick grape pioneer hobby loop";
+var mnemonic = "voice enjoy rescue rescue involve toss hurdle organ switch similar robot segment";

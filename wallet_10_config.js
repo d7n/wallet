@@ -1,1 +1,1 @@
-var mnemonic = "village run dolphin alter abandon buyer dilemma buyer insect nice mask glimpse";
+var mnemonic = "loud place when social often adjust strategy kid trick air embody wrist";

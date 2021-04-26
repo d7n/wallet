@@ -1,1 +1,1 @@
-var mnemonic = "select pole draft awkward gift fatal distance transfer congress swarm practice desert";
+var mnemonic = "garlic reveal dose travel settle train promote dawn pen run slide rookie";

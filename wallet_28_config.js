@@ -1,1 +1,1 @@
-var mnemonic = "robot canal photo project neglect oppose toward nuclear little below donate share";
+var mnemonic = "old diary sketch vital switch super daring wonder cricket mouse bid urge";

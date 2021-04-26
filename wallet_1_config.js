@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit promote correct combine potato wheat face auction enemy goat cricket know";
+var mnemonic = "spider that please grant carbon young rescue figure garbage dolphin birth unique";

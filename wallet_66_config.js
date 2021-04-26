@@ -1,1 +1,1 @@
-var mnemonic = "rhythm file chase adult rhythm island bulk slot try glory between strike";
+var mnemonic = "pigeon phone convince please uphold shallow arch cargo vast fall copper setup";

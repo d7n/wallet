@@ -1,1 +1,1 @@
-var mnemonic = "crush save tray pony wood border mirror glory unknown viable half toe";
+var mnemonic = "velvet develop moral suit ridge mixed seat march frame shallow muscle sense";

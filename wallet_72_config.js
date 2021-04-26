@@ -1,1 +1,1 @@
-var mnemonic = "repair crime salon toddler hard bachelor maximum elite lawn fragile target grant";
+var mnemonic = "million roast gauge morning online must cattle this dentist hedgehog resist conduct";

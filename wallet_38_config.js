@@ -1,1 +1,1 @@
-var mnemonic = "judge suffer table brief sell derive seek denial key aware engage grain";
+var mnemonic = "blast easily believe describe science shoot result rail jaguar retreat light purchase";

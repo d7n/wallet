@@ -1,1 +1,1 @@
-var mnemonic = "damp ankle sun license helmet bid camera arch average oval balance matrix";
+var mnemonic = "trouble please trade grow coin awesome among game barely route develop riot";

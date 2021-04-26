@@ -1,1 +1,1 @@
-var mnemonic = "ritual chef sing deer mom story wrong found deer century pupil slide";
+var mnemonic = "release sad meadow track eager spare canvas problem fluid spider gospel deer";

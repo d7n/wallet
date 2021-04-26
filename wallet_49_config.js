@@ -1,1 +1,1 @@
-var mnemonic = "fitness expose fog whale pluck category surface alone wonder mango above chronic";
+var mnemonic = "spot busy craft paper slam spray evil woman dragon giggle apart drastic";

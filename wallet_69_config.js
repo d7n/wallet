@@ -1,1 +1,1 @@
-var mnemonic = "stumble train hold surprise fork anxiety friend limit voice short visa travel";
+var mnemonic = "future chronic better barrel lawsuit ostrich body tube boil awful goose impose";

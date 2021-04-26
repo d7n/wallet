@@ -1,1 +1,1 @@
-var mnemonic = "dolphin praise globe capital wisdom mistake screen nut relief title cat column";
+var mnemonic = "decorate seven horror clown retreat horror shine soap couch feel uphold firm";

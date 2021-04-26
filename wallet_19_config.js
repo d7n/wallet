@@ -1,1 +1,1 @@
-var mnemonic = "critic region can crystal burst bus office swarm gate lens magic milk";
+var mnemonic = "employ rare price vacuum fat alien local sleep bachelor document worth piece";

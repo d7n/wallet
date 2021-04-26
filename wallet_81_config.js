@@ -1,1 +1,1 @@
-var mnemonic = "onion quality quantum home two book token olive garment online first exclude";
+var mnemonic = "negative audit marine mom dinner busy floor opinion believe need dwarf plastic";

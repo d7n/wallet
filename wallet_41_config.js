@@ -1,1 +1,1 @@
-var mnemonic = "tennis crash else bottom image glare square rebel salute during visa arrive";
+var mnemonic = "valve canvas truly body lake ranch include barely sock much apart bar";

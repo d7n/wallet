@@ -1,1 +1,1 @@
-var mnemonic = "negative sphere suffer primary salmon leopard indoor fluid casino stool track rent";
+var mnemonic = "ugly mad sail cousin derive meat inform furnace grape issue oak poet";

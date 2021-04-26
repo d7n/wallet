@@ -1,1 +1,1 @@
-var mnemonic = "ignore flock kick melody lesson minimum core uphold six odor domain burden";
+var mnemonic = "mansion swift banner olive flag valve hundred silk burger manage hire catalog";

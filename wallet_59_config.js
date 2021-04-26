@@ -1,1 +1,1 @@
-var mnemonic = "dentist jungle execute invest toe alarm dismiss predict waste art hollow dial";
+var mnemonic = "wonder join tackle treat riot circle churn moral harsh pumpkin odor moment";

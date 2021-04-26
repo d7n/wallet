@@ -1,1 +1,1 @@
-var mnemonic = "allow sibling genuine warrior number profit next elegant drip smoke lunch spice";
+var mnemonic = "obvious verify adult visual despair lamp target steak object valid ankle tip";

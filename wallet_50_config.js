@@ -1,1 +1,1 @@
-var mnemonic = "kid glide main manual ecology plunge device raven load garlic suit hungry";
+var mnemonic = "melt soon earth tomorrow vote teach chase idea range jeans session wrist";

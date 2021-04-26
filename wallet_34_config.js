@@ -1,1 +1,1 @@
-var mnemonic = "elevator jacket vessel entire cat ill orange fringe palace mouse leave search";
+var mnemonic = "winner friend filter awkward burst venue soda more shell stable dad among";

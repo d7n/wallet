@@ -1,1 +1,1 @@
-var mnemonic = "wire detail usual scale fossil scorpion away safe identify voyage gain tomorrow";
+var mnemonic = "cube monkey glass amused soup label coconut scorpion illegal roof dismiss gold";

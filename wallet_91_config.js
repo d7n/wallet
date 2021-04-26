@@ -1,1 +1,1 @@
-var mnemonic = "have fly welcome belt first host battle kangaroo combine mesh jump enter";
+var mnemonic = "domain select april advice enroll food robot among boil matrix airport trigger";

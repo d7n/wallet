@@ -1,1 +1,1 @@
-var mnemonic = "dumb vessel ahead indicate bachelor insect sting coast powder beauty dune cross";
+var mnemonic = "face calm where neutral amount wave hurry vessel runway drastic video train";

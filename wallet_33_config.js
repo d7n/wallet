@@ -1,1 +1,1 @@
-var mnemonic = "act wolf bracket author cat timber capital broom sorry chief aisle entire";
+var mnemonic = "theory behind attitude this parrot sadness blue visit either work police fantasy";

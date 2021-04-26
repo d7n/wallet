@@ -1,1 +1,1 @@
-var mnemonic = "mixed index citizen vast lab cry upon hurdle permit siege exit example";
+var mnemonic = "resist same seat proof jeans arm unveil claim snack window destroy diagram";

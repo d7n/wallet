@@ -1,1 +1,1 @@
-var mnemonic = "eternal myth impulse session track neglect siege dune come burger task perfect";
+var mnemonic = "squeeze column jungle output ability bulb eager elbow error real avoid health";

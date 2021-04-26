@@ -1,1 +1,1 @@
-var mnemonic = "universe miss gloom firm possible lottery private relief abuse acquire chat buyer";
+var mnemonic = "wire paddle faculty industry tuition prosper canal feed buffalo fish they umbrella";

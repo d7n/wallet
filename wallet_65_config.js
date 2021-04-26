@@ -1,1 +1,1 @@
-var mnemonic = "hamster puzzle panther invite family kingdom february best post away couple axis";
+var mnemonic = "joke twist jungle nasty together ball buzz cover filter box essence promote";
