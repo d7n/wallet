@@ -1,1 +1,1 @@
-var mnemonic = "knee spell wife make student letter level unhappy share window still hat";
+var mnemonic = "shrug laugh wise soap tape weird coil stay phone play garlic lady";

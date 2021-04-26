@@ -1,1 +1,1 @@
-var mnemonic = "pull junk cream lock vibrant cereal game awkward feature fresh elephant fiction";
+var mnemonic = "walnut slide shove remove canoe fatal brush skirt recipe guard squirrel install";

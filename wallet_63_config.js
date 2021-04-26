@@ -1,1 +1,1 @@
-var mnemonic = "valley violin tooth useful real art topic lesson salad draw check prepare";
+var mnemonic = "fire simple valve foster broken evil fame address oxygen monkey priority amazing";

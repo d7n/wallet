@@ -1,1 +1,1 @@
-var mnemonic = "fan peanut feature early catch bracket fade month roof noble shove census";
+var mnemonic = "load energy sail wash elephant ability great fuel style vast tent chef";

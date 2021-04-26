@@ -1,1 +1,1 @@
-var mnemonic = "vital people stumble cargo infant rocket guilt wash liar pilot sword hammer";
+var mnemonic = "convince muffin novel dove satisfy visit crazy shadow forward tuition protect letter";

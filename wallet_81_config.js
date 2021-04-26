@@ -1,1 +1,1 @@
-var mnemonic = "unable laugh scatter liberty spirit before pioneer exact nut gossip garden behave";
+var mnemonic = "bachelor fault purity produce that cricket couch shock lock whip flavor mandate";

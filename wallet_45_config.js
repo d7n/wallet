@@ -1,1 +1,1 @@
-var mnemonic = "priority travel resist drive erase doll replace crater begin choose crazy wait";
+var mnemonic = "cost twin reason squirrel annual later vacant afford bless aspect entire fit";

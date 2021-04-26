@@ -1,1 +1,1 @@
-var mnemonic = "oppose put hand thrive ethics lucky provide bus announce defense assist keep";
+var mnemonic = "property wave sunny among claw acid avocado please wreck fossil health mercy";

@@ -1,1 +1,1 @@
-var mnemonic = "actual desk push peasant hazard cruel asthma gasp enroll shy notable bar";
+var mnemonic = "text scissors latin swap label amazing tomato innocent concert chuckle embody flag";

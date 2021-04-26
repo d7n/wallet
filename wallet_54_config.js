@@ -1,1 +1,1 @@
-var mnemonic = "wise legal club educate buyer clerk type sauce blouse bonus alpha travel";
+var mnemonic = "drink arena blood dress rapid season install almost good photo stem street";

@@ -1,1 +1,1 @@
-var mnemonic = "later vacuum wagon page top seven upper enhance tennis empower fog prepare";
+var mnemonic = "differ axis sentence drama simple brain slam thumb town grief produce garbage";

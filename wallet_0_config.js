@@ -1,1 +1,1 @@
-var mnemonic = "place prevent welcome either thing final bean stove brass scrap eagle pottery";
+var mnemonic = "fire earth girl actor brick file chest enable indoor forum robust inspire";

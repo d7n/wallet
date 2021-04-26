@@ -1,1 +1,1 @@
-var mnemonic = "media among tape stand tobacco analyst social room sort chair spike tower";
+var mnemonic = "hotel fun build hammer acid kid emotion wrestle aisle alien fruit piano";

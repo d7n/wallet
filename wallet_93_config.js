@@ -1,1 +1,1 @@
-var mnemonic = "phrase symbol despair bacon slight employ glad deposit fatal shine gentle near";
+var mnemonic = "very snow indicate inflict pig lobster grunt drive ski inform jealous you";

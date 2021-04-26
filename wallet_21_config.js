@@ -1,1 +1,1 @@
-var mnemonic = "atom cloud tape sun student spare rebel crop clutch tornado loyal enrich";
+var mnemonic = "sad tilt spray crack elite gospel garment fatigue clarify today lunch replace";

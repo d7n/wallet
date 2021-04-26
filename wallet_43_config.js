@@ -1,1 +1,1 @@
-var mnemonic = "decline humor armed fly fiscal rose sauce bronze prefer remove educate sunny";
+var mnemonic = "emerge crumble deal pull husband reward dynamic curve seek cup crunch cupboard";

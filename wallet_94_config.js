@@ -1,1 +1,1 @@
-var mnemonic = "wise fun image fuel mystery language seat until initial icon host notable";
+var mnemonic = "fun phone forum cinnamon energy siren table cradle actual title shrug mixture";

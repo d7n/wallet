@@ -1,1 +1,1 @@
-var mnemonic = "maid blood spatial advice hurt forget panel alter crystal shy october soft";
+var mnemonic = "orange east flush tiny canvas destroy ginger improve feel marble auto merry";

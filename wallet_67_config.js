@@ -1,1 +1,1 @@
-var mnemonic = "trust edit soup wedding flavor basket picture physical almost elephant drip salon";
+var mnemonic = "long gas excess exchange sign receive arch drive memory market method stomach";

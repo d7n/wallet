@@ -1,1 +1,1 @@
-var mnemonic = "team balance misery virus rally swift other wait company capable also group";
+var mnemonic = "asthma gown mesh among athlete penalty thrive cloud pair evoke victory earn";

@@ -1,1 +1,1 @@
-var mnemonic = "raven pattern include medal battle robust crop inspire kidney snap rib cereal";
+var mnemonic = "plastic option unhappy upset gossip spice enable pelican frown mercy apart employ";

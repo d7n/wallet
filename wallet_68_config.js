@@ -1,1 +1,1 @@
-var mnemonic = "host piece curtain fine dune gap online victory open scare pet tragic";
+var mnemonic = "cruel lift hen vanish spawn ankle belt fix choose uniform control critic";

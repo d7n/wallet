@@ -1,1 +1,1 @@
-var mnemonic = "usual fence change hockey grape identify tuna fan olive around grace cereal";
+var mnemonic = "orchard advance grape heart right siege limb curtain muffin method style vessel";

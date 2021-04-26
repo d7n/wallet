@@ -1,1 +1,1 @@
-var mnemonic = "video oak dash later umbrella capable bike scan tell rigid slab pave";
+var mnemonic = "banana valley beach armed bridge raven original boss random never pepper similar";

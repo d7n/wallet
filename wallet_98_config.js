@@ -1,1 +1,1 @@
-var mnemonic = "enemy erosion clap sport possible yard away jacket follow prepare palm prison";
+var mnemonic = "hungry stage type eyebrow message ice pen rifle stereo glory goat sponsor";

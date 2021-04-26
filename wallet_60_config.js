@@ -1,1 +1,1 @@
-var mnemonic = "debris clean sound roof grab fabric laptop illness wet manage pioneer tooth";
+var mnemonic = "repair time bread elder grace rack zebra problem cherry remind stadium phrase";

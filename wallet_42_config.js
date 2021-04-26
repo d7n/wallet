@@ -1,1 +1,1 @@
-var mnemonic = "good accident olympic famous dose nuclear age market angle gas risk paper";
+var mnemonic = "puppy better rare symbol rate flash home sample census cactus world dwarf";

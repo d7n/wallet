@@ -1,1 +1,1 @@
-var mnemonic = "radio cinnamon cube hold all ride debris wall token index recycle wash";
+var mnemonic = "negative route topic smart switch because minute boil payment lecture clutch valley";

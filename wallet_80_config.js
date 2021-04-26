@@ -1,1 +1,1 @@
-var mnemonic = "bread owner page cause eagle elevator tooth involve fog answer warfare toe";
+var mnemonic = "holiday blue mass nice erosion olive busy clarify horse potato decade file";

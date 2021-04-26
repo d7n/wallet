@@ -1,1 +1,1 @@
-var mnemonic = "century chapter sustain door glare beef sauce skin adapt agent abuse news";
+var mnemonic = "exclude bulb shadow crop consider antique chapter offer organ response submit galaxy";

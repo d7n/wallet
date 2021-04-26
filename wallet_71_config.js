@@ -1,1 +1,1 @@
-var mnemonic = "deputy direct action impact else burden ribbon meadow inspire example immune crumble";
+var mnemonic = "leisure art what egg analyst vessel orient service file cream price game";

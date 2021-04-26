@@ -1,1 +1,1 @@
-var mnemonic = "crop common horn movie argue head strategy hawk daring punch hair change";
+var mnemonic = "extend pet beyond spend adjust square response amateur silent century fat strike";

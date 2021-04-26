@@ -1,1 +1,1 @@
-var mnemonic = "column radio van route swim dismiss liquid little steak pull decorate book";
+var mnemonic = "slide worry decorate table festival desk excess sponsor clock step river fault";

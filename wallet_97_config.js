@@ -1,1 +1,1 @@
-var mnemonic = "wear prevent clerk super regular flee attitude pretty pumpkin silly jelly identify";
+var mnemonic = "athlete foot genius penalty rookie license follow design scissors pitch inhale suggest";

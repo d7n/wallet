@@ -1,1 +1,1 @@
-var mnemonic = "gorilla produce total spread slot hour method sand suspect rebel nation garden";
+var mnemonic = "same pitch endless cause bamboo domain swing asset surround virus verb fee";

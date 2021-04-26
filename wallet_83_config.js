@@ -1,1 +1,1 @@
-var mnemonic = "flock piano pond start transfer time setup perfect thunder symbol morning pear";
+var mnemonic = "average fossil aisle duty regret one caught poem refuse page coin ice";

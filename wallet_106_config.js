@@ -1,1 +1,1 @@
-var mnemonic = "oblige push forward enable pilot three miracle orchard concert weird host diagram";
+var mnemonic = "fiscal else outer catch tuition dad bike comic west cargo brand tobacco";

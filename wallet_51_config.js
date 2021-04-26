@@ -1,1 +1,1 @@
-var mnemonic = "gentle sketch frost young sand mango globe direct goose quick bitter cluster";
+var mnemonic = "barely enable health glue album mistake kidney cupboard this grid secret decorate";

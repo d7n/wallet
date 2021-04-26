@@ -1,1 +1,1 @@
-var mnemonic = "service cruise public will silly arrow rocket fragile sausage armed arm battle";
+var mnemonic = "kit traffic man crack sure world brick gorilla aisle shrimp chest crystal";

@@ -1,1 +1,1 @@
-var mnemonic = "tenant nest breeze digital junior awake burden isolate legend interest hurt way";
+var mnemonic = "glow sound robot butter position echo you cinnamon asset pen ecology amused";

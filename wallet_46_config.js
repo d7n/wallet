@@ -1,1 +1,1 @@
-var mnemonic = "perfect sun border person gown priority coffee siren photo vivid melt pelican";
+var mnemonic = "conduct fiction margin fox rice blame hood charge poem damage open phrase";

@@ -1,1 +1,1 @@
-var mnemonic = "trouble team love tired grow usage truth heart party olympic early reflect";
+var mnemonic = "much else surge wink crater dial digital task foot tide ensure gloom";

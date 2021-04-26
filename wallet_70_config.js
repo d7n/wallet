@@ -1,1 +1,1 @@
-var mnemonic = "cherry dose thought often hour pilot oval meat sick nominee already lab";
+var mnemonic = "remember arm better chaos scan manage give square swing similar fence survey";

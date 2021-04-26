@@ -1,1 +1,1 @@
-var mnemonic = "coyote virtual slot bag need piano achieve law snap modify stove act";
+var mnemonic = "decide major repair bounce prefer liberty copper trip clip prison high wrong";

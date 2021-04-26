@@ -1,1 +1,1 @@
-var mnemonic = "because blind foot sleep message town fruit city script balcony unlock extra";
+var mnemonic = "vessel digital shadow book build gown inform tribe until lunch electric improve";

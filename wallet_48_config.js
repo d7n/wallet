@@ -1,1 +1,1 @@
-var mnemonic = "input tiger raw stove mother weasel ladder child glow lake pair misery";
+var mnemonic = "equal dad wealth fatal debris course win draw clever miss walk nice";

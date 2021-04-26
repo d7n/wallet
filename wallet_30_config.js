@@ -1,1 +1,1 @@
-var mnemonic = "hero payment mechanic dismiss plastic legend hedgehog frog carry attitude inner range";
+var mnemonic = "dawn home direct search shield quote amazing satisfy security cargo always now";

@@ -1,1 +1,1 @@
-var mnemonic = "warfare shield cereal drastic coral tumble dumb neither cushion cabin stay draw";
+var mnemonic = "visit vendor elevator often style organ panel fall spare obscure dutch trap";

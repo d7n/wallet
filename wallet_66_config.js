@@ -1,1 +1,1 @@
-var mnemonic = "urban mercy napkin own curtain cash combine idle garden hundred girl duck";
+var mnemonic = "fantasy luggage chimney trust update torch credit keep style outer spare crazy";

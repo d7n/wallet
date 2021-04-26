@@ -1,1 +1,1 @@
-var mnemonic = "giraffe true execute perfect end mouse sword cram hood sign veteran timber";
+var mnemonic = "salad reveal ugly boring napkin hope vintage mystery child concert pond print";

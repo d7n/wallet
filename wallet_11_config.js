@@ -1,1 +1,1 @@
-var mnemonic = "harsh inhale price surround noble witness power decide taxi horse used arrest";
+var mnemonic = "wine logic fall glow narrow true across dismiss cattle yellow exchange garden";

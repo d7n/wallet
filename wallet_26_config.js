@@ -1,1 +1,1 @@
-var mnemonic = "price utility wealth tag host hub warfare text false donate sponsor north";
+var mnemonic = "enlist naive convince lounge anchor royal citizen step sign cigar helmet frown";

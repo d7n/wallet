@@ -1,1 +1,1 @@
-var mnemonic = "sound raw industry crack rhythm glove pistol sting dignity grace since undo";
+var mnemonic = "agent recall zoo torch style task auto walk dad hybrid detail episode";

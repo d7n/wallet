@@ -1,1 +1,1 @@
-var mnemonic = "convince either glance doll gallery order stand route bring margin romance protect";
+var mnemonic = "chapter knife tag gun rookie session attack glance diary onion border library";

@@ -1,1 +1,1 @@
-var mnemonic = "end file behave earth enhance car unknown gorilla shop choice shift picnic";
+var mnemonic = "shock puzzle gun learn twin drum pluck owner gate slight industry turtle";

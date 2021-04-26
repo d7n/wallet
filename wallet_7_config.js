@@ -1,1 +1,1 @@
-var mnemonic = "victory address wear inform diesel arrive unlock subway attack praise pass stable";
+var mnemonic = "relief rocket leave vacuum upper combine desk alien wood grocery fortune curve";

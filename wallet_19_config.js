@@ -1,1 +1,1 @@
-var mnemonic = "oyster tragic museum boss shift jazz sniff evil allow oak want wine";
+var mnemonic = "large eager carbon miracle access embody black remind truth pet dog you";

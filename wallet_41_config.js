@@ -1,1 +1,1 @@
-var mnemonic = "legend victory pattern now client tube order purse vibrant nuclear hundred scrub";
+var mnemonic = "tower door anxiety harvest bundle zero claw board detail mention dirt ceiling";

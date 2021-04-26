@@ -1,1 +1,1 @@
-var mnemonic = "rigid sausage tackle purchase autumn purse divert tail swarm hill chair dog";
+var mnemonic = "move grace never grit fatigue flock faculty hurry tumble light evolve exchange";

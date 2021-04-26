@@ -1,1 +1,1 @@
-var mnemonic = "guess life forum damp napkin strong grant document coin under satisfy remind";
+var mnemonic = "merry mind garment mix lizard genuine liberty absurd clerk skirt song hip";

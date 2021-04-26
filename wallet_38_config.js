@@ -1,1 +1,1 @@
-var mnemonic = "tree extra cause apart slam item outer indicate public leg east place";
+var mnemonic = "confirm measure predict trigger ship add coin aisle depth tree jealous glove";

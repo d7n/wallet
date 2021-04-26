@@ -1,1 +1,1 @@
-var mnemonic = "hold jaguar improve mixed large lamp simple suggest object prepare pact meadow";
+var mnemonic = "bring toilet innocent side void horror round south motor sting crucial bar";

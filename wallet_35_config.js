@@ -1,1 +1,1 @@
-var mnemonic = "earn reveal hover defense naive cross brain voyage kid street badge behind";
+var mnemonic = "biology sport duty rhythm calm symbol phrase frequent album you thing great";

@@ -1,1 +1,1 @@
-var mnemonic = "position tumble grab student good toss humor oxygen bamboo pumpkin cannon fall";
+var mnemonic = "soda crack ramp say spoil spice chief crystal frame tiger gym moment";

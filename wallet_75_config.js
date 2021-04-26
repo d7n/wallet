@@ -1,1 +1,1 @@
-var mnemonic = "picture actor fatal lounge action cage spend general false timber door buzz";
+var mnemonic = "monitor forward trade whale accident report kit refuse novel begin vendor core";

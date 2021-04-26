@@ -1,1 +1,1 @@
-var mnemonic = "ready gorilla cloth hotel blush dial better fee party excess few grief";
+var mnemonic = "mobile invite emotion easy crew inspire ready switch jewel spy target bargain";

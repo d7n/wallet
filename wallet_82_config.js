@@ -1,1 +1,1 @@
-var mnemonic = "detect reunion burger giggle stomach program range vapor kingdom glare express come";
+var mnemonic = "model emotion dirt pool nut gentle maid need remind spider mutual improve";

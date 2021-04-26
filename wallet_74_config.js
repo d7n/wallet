@@ -1,1 +1,1 @@
-var mnemonic = "episode genius permit wear bacon tag void used couple fabric lonely today";
+var mnemonic = "insane man sign hollow orbit spread anxiety alone hedgehog omit skirt impact";

@@ -1,1 +1,1 @@
-var mnemonic = "bike guitar cart cactus tackle supreme clog suffer someone office concert install";
+var mnemonic = "tumble economy endorse laundry result truth obscure evil truly soft cabin path";

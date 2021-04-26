@@ -1,1 +1,1 @@
-var mnemonic = "vast evil industry battle pill gadget lend find lift position dice harvest";
+var mnemonic = "glory spread gossip actor job clarify web extend harsh top sword enact";

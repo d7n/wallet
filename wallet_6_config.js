@@ -1,1 +1,1 @@
-var mnemonic = "salad tattoo suffer machine foot stamp call patrol artist rather boost say";
+var mnemonic = "arch jealous toddler giraffe top able install boost dolphin six tongue safe";

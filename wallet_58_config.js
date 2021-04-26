@@ -1,1 +1,1 @@
-var mnemonic = "shop clump vague wreck pledge remain eyebrow camera recycle cereal sword fashion";
+var mnemonic = "asthma phone symptom eternal egg slogan bulb sunset one oil fire collect";

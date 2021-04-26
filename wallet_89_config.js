@@ -1,1 +1,1 @@
-var mnemonic = "antique admit smoke alley gospel ride sugar wrist arrest file multiply title";
+var mnemonic = "opera subject dust divide sun rough tired used rifle approve obvious fortune";

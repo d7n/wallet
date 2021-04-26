@@ -1,1 +1,1 @@
-var mnemonic = "filter play flush key visual weather candy beauty boy airport shoe render";
+var mnemonic = "flavor exclude cart orange swing cargo immune laptop volume pottery under radio";

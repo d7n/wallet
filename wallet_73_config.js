@@ -1,1 +1,1 @@
-var mnemonic = "lift zebra scorpion badge sweet grant duty mother tool fox focus elevator";
+var mnemonic = "spy want knife senior estate welcome trim blood wool chicken exotic cost";

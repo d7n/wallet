@@ -1,1 +1,1 @@
-var mnemonic = "review light snack flee swarm weasel autumn flat couch cause afford valid";
+var mnemonic = "affair laugh license avoid random oval draft chief radar undo travel link";

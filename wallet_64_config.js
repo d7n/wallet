@@ -1,1 +1,1 @@
-var mnemonic = "wedding grab project security evidence engage spoon become smooth same stove margin";
+var mnemonic = "jelly drip main insane piano purse road cream film eight junior inside";

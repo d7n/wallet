@@ -1,1 +1,1 @@
-var mnemonic = "front brown leisure lawsuit muffin cigar space scatter evil exile success inspire";
+var mnemonic = "click basic fever primary humor airport tool message spatial mosquito bonus next";

@@ -1,1 +1,1 @@
-var mnemonic = "amused super fault worry polar dolphin shift stage nation undo ritual turtle";
+var mnemonic = "road illegal mean lift attitude elbow liar slide digital exist float wet";

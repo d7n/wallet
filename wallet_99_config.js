@@ -1,1 +1,1 @@
-var mnemonic = "ghost punch license cube text south alter situate aisle ice bracket render";
+var mnemonic = "forest cheap faint kidney distance aisle evoke walk grant question broom door";
