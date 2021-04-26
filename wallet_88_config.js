@@ -1,1 +1,1 @@
-var mnemonic = "grape increase goddess attract cigar great say lawn gown deny conduct dust";
+var mnemonic = "section odor segment safe truly attract critic glow misery ancient effort eye";

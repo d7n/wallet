@@ -1,1 +1,1 @@
-var mnemonic = "crane tent round morning barely negative topic pioneer license cousin lake moment";
+var mnemonic = "void cheap bleak guitar pause frozen tumble ivory reveal leader cabbage upper";

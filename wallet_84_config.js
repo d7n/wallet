@@ -1,1 +1,1 @@
-var mnemonic = "buyer blossom taste wire degree pyramid forest squirrel guide exclude across pill";
+var mnemonic = "history pony hope cry exchange toast law scout employ leisure bachelor access";

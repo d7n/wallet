@@ -1,1 +1,1 @@
-var mnemonic = "kingdom defense emotion erupt noise pen run will first cupboard iron position";
+var mnemonic = "inquiry resemble humble maze artwork subway either legal moral farm weekend praise";

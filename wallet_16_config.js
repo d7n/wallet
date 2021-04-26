@@ -1,1 +1,1 @@
-var mnemonic = "negative marble foot cool cake vendor ship order century bomb genuine resist";
+var mnemonic = "chalk shrimp sugar trim nose path nice nature inside script outer unaware";

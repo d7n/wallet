@@ -1,1 +1,1 @@
-var mnemonic = "supply cycle avoid hood eagle series liar leisure call riot lava cost";
+var mnemonic = "stairs organ glory pigeon champion afford certain stairs pact vital atom margin";

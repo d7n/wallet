@@ -1,1 +1,1 @@
-var mnemonic = "fall fault affair habit stick attack guide now orchard spawn pride host";
+var mnemonic = "educate wild pipe canal current warfare hero electric under tiger advice random";

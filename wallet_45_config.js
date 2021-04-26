@@ -1,1 +1,1 @@
-var mnemonic = "squirrel proof subway raw raw tape stage morning toilet enlist lawsuit place";
+var mnemonic = "crater globe motor broccoli innocent again pet wheel dial legend raccoon mosquito";

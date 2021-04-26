@@ -1,1 +1,1 @@
-var mnemonic = "stuff aunt clap tired year junior gallery famous hazard segment hand toast";
+var mnemonic = "bulk mansion assist profit junior bag same session kite thrive endless diamond";

@@ -1,1 +1,1 @@
-var mnemonic = "robust height amazing mushroom beauty toast tumble notable index dolphin barely amount";
+var mnemonic = "rural gain snap tackle unveil pass child tomato provide income flat priority";

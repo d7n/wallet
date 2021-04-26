@@ -1,1 +1,1 @@
-var mnemonic = "future taste silent little arctic canoe culture old bacon civil muffin powder";
+var mnemonic = "kit inflict auto twelve frown dog mobile afford decide call steel online";

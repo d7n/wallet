@@ -1,1 +1,1 @@
-var mnemonic = "diagram ranch boost donkey route volume dose neglect absorb common delay faith";
+var mnemonic = "energy galaxy issue common reunion guide shrug convince bonus stereo rebel escape";

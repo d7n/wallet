@@ -1,1 +1,1 @@
-var mnemonic = "census twin clever ozone praise seat old beef blanket wealth salute keep";
+var mnemonic = "clock victory bench trumpet vote dolphin despair cannon boil ridge volcano concert";

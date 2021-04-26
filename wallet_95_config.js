@@ -1,1 +1,1 @@
-var mnemonic = "exact truck acquire explain acoustic hand barrel lady chef deer collect napkin";
+var mnemonic = "surround shop unknown oppose mechanic sphere work salon soup retire potato banner";

@@ -1,1 +1,1 @@
-var mnemonic = "laptop spot shuffle model first clutch message order carry escape rookie nice";
+var mnemonic = "amount brown elbow gym muffin loud brief burden suggest october goat sunny";

@@ -1,1 +1,1 @@
-var mnemonic = "tourist section keen hub until pencil toward key sample twelve brush hood";
+var mnemonic = "rack rough clay wing crouch write edit globe between dismiss bless duck";

@@ -1,1 +1,1 @@
-var mnemonic = "curious security net eager cricket couch during arctic clap cancel energy light";
+var mnemonic = "rocket mutual improve weird puppy tattoo left near thrive lucky type build";

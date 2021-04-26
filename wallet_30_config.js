@@ -1,1 +1,1 @@
-var mnemonic = "liar angry logic police injury unlock north wire marine caution drama circle";
+var mnemonic = "fade twice visual bone ship rapid menu smile umbrella cat retire glance";

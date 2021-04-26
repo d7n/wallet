@@ -1,1 +1,1 @@
-var mnemonic = "employ notice link grit know club fly can happy pill soon polar";
+var mnemonic = "analyst actor stone fade order nasty jealous want bright issue inflict radio";

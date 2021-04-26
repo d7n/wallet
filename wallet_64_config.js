@@ -1,1 +1,1 @@
-var mnemonic = "pelican arrow busy connect mechanic before mandate one organ divert flock stone";
+var mnemonic = "turkey since benefit monkey daughter round void type math canvas version during";

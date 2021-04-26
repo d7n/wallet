@@ -1,1 +1,1 @@
-var mnemonic = "please slight absorb evoke share clean possible casino typical front print crew";
+var mnemonic = "enact comic soft tattoo payment cricket visa boil begin hundred hungry century";

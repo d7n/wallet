@@ -1,1 +1,1 @@
-var mnemonic = "feel area duck nose donate purity stable velvet morning clarify absorb model";
+var mnemonic = "light enact idea cloth leaf fringe thrive ugly present extra junior wild";

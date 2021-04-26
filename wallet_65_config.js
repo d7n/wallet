@@ -1,1 +1,1 @@
-var mnemonic = "olive write gown jungle dignity spoil kidney night sign inject fresh cave";
+var mnemonic = "mango tackle series hill fan viable pizza fossil burger wrist flame crumble";

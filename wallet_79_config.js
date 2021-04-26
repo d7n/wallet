@@ -1,1 +1,1 @@
-var mnemonic = "glue episode candy output urban sick climb someone leaf dust bus boost";
+var mnemonic = "seat trick rhythm win recipe pioneer cave fall inch reveal danger favorite";

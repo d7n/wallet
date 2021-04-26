@@ -1,1 +1,1 @@
-var mnemonic = "symptom lawsuit wet useless latin eagle various initial bacon remain science fragile";
+var mnemonic = "fatigue cluster club pause earth kangaroo pride win avocado snow essence reform";

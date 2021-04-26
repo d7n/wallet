@@ -1,1 +1,1 @@
-var mnemonic = "problem already fish merge bind curve eight wet test soap sadness pony";
+var mnemonic = "boss salmon play fetch few library scout reduce trash manual front garbage";

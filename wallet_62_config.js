@@ -1,1 +1,1 @@
-var mnemonic = "town loyal hurt dream blade patrol penalty enrich rural wish year insect";
+var mnemonic = "squeeze small argue medal cool page carbon green style improve brass rice";

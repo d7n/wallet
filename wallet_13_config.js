@@ -1,1 +1,1 @@
-var mnemonic = "advance apology increase answer banner that differ joke feature confirm evoke damage";
+var mnemonic = "guard wrong scorpion diamond delay top false frozen glue carbon swift crumble";

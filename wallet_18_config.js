@@ -1,1 +1,1 @@
-var mnemonic = "best pottery shallow word bomb often seven album clean stock entire emotion";
+var mnemonic = "lesson awesome infant sudden world true subject truth outdoor wrong client retreat";

@@ -1,1 +1,1 @@
-var mnemonic = "aspect chalk general trust brand history soul carry north vote length egg";
+var mnemonic = "chronic know clump kidney stairs plug manual foam cube raw feed gorilla";

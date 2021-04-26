@@ -1,1 +1,1 @@
-var mnemonic = "express horse powder extend release reflect alone code behind property twin maze";
+var mnemonic = "flip grape favorite correct soft quick drastic across apple board feed dress";

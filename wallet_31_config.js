@@ -1,1 +1,1 @@
-var mnemonic = "electric proof document hurt soon music ghost nuclear job valley exist cargo";
+var mnemonic = "decline sure adult acquire review pink banana wine write inmate number sauce";

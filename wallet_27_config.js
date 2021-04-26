@@ -1,1 +1,1 @@
-var mnemonic = "permit arch trade diary belt impose cage hour crime rebel keep cash";
+var mnemonic = "essence magic copy work plate fury blur second ostrich orange follow chalk";

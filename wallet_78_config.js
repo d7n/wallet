@@ -1,1 +1,1 @@
-var mnemonic = "spell comic wisdom width team borrow head nature eternal quality sell best";
+var mnemonic = "force twist garage adult card deer dune dirt major sad lemon snake";

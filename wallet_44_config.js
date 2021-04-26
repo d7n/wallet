@@ -1,1 +1,1 @@
-var mnemonic = "review cost idea elite animal atom mountain inch tortoise pattern museum pause";
+var mnemonic = "fatal beyond soup dice destroy guitar pioneer coil rural net speed random";

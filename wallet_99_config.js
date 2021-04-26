@@ -1,1 +1,1 @@
-var mnemonic = "slice dinosaur model notable inmate large brick news scrub rebel soccer repeat";
+var mnemonic = "text maid prison elevator wish rocket escape annual volume lunar parade aware";

@@ -1,1 +1,1 @@
-var mnemonic = "inquiry length possible action other timber egg exotic visit fame predict phone";
+var mnemonic = "custom awkward side intact issue fatal gloom viable castle wrestle usage better";

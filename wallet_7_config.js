@@ -1,1 +1,1 @@
-var mnemonic = "jelly lecture loan oil cook jump correct upgrade traffic subway embody warm";
+var mnemonic = "embody electric fiscal birth autumn cause city cash regular better flight give";

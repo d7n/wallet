@@ -1,1 +1,1 @@
-var mnemonic = "clean member park security faint great buzz zoo farm barely buddy maid";
+var mnemonic = "steak praise era pill pink gloom expire dash remind erase narrow panther";

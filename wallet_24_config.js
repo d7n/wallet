@@ -1,1 +1,1 @@
-var mnemonic = "dress police arrive render supply rude verify joke ozone sentence buddy velvet";
+var mnemonic = "wife timber room vocal flock scan trim solve teach genius vacant grain";

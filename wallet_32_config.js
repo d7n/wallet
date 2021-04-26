@@ -1,1 +1,1 @@
-var mnemonic = "nasty park reunion grass point effort aisle destroy animal angry check giraffe";
+var mnemonic = "salute topple feel select only afford top promote verb acid thing bacon";

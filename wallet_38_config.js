@@ -1,1 +1,1 @@
-var mnemonic = "collect ritual crumble garage clap slide smile squirrel receive few chuckle roast";
+var mnemonic = "token field laugh powder bubble chronic small denial shaft friend pass train";

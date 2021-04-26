@@ -1,1 +1,1 @@
-var mnemonic = "reopen country giggle priority canvas decade velvet palace vessel race choice phrase";
+var mnemonic = "differ situate radio settle machine marriage order connect dad soda unusual party";

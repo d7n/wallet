@@ -1,1 +1,1 @@
-var mnemonic = "menu beyond oil kite concert first victory carbon disorder around border school";
+var mnemonic = "vote shoulder polar grass urge dirt sudden peanut all gauge drum alert";

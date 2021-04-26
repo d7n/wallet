@@ -1,1 +1,1 @@
-var mnemonic = "fancy adult position gloom true box travel idea vendor right hair battle";
+var mnemonic = "draw depart lonely team syrup poem clerk slow slight current sad assume";

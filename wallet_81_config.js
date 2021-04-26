@@ -1,1 +1,1 @@
-var mnemonic = "elegant dawn gossip remove clutch claw area reject warrior length idle guess";
+var mnemonic = "dragon gym swap limb salute remind kiss gasp truly right wink grab";

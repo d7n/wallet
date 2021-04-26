@@ -1,1 +1,1 @@
-var mnemonic = "dignity again glide size border marble absurd ecology program bike warrior buyer";
+var mnemonic = "soup inflict prison chase wreck brick elder lazy pink crowd vessel demise";

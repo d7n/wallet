@@ -1,1 +1,1 @@
-var mnemonic = "flip alley pistol jungle core seat correct rose piano pizza heavy mosquito";
+var mnemonic = "ribbon multiply frog glide choice waste aim talk sunset pen divert toddler";

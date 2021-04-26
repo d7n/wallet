@@ -1,1 +1,1 @@
-var mnemonic = "sunny machine machine law cabin arrive busy enlist almost common online rough";
+var mnemonic = "hire derive salmon organ bind pumpkin type code fall earn vast skill";

@@ -1,1 +1,1 @@
-var mnemonic = "comic wrestle curious daughter route balance improve smooth before guide focus shuffle";
+var mnemonic = "pigeon tiny trim close vibrant riot vague casual furnace report guard chest";

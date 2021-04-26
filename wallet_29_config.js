@@ -1,1 +1,1 @@
-var mnemonic = "certain disorder effort fiber icon ecology photo victory slam cloud torch donate";
+var mnemonic = "aerobic symptom garden erupt kid give artist depth aware bring cinnamon brush";

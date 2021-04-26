@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon hold immune ability satoshi misery three elephant entry danger force meat";
+var mnemonic = "sing skate ensure ordinary select judge frozen quarter elephant cactus first access";

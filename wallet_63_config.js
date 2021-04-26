@@ -1,1 +1,1 @@
-var mnemonic = "lottery powder teach diagram pizza loud twenty oil ski worry inner voice";
+var mnemonic = "attend detail seminar duty avocado camera office stamp grocery rather buffalo virus";

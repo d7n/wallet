@@ -1,1 +1,1 @@
-var mnemonic = "trumpet topic shield shuffle marine trash canyon female aisle reduce tiny man";
+var mnemonic = "marriage tenant ceiling sing dial warm nose flavor eternal pretty rail oak";

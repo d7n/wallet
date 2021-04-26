@@ -1,1 +1,1 @@
-var mnemonic = "tilt orange please side lift symptom bronze hold refuse obtain crew adapt";
+var mnemonic = "exclude shoe become member salon sphere wealth float jungle jump kit sauce";

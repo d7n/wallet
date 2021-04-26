@@ -1,1 +1,1 @@
-var mnemonic = "predict radar enrich amazing rude shift theme wife envelope supply any height";
+var mnemonic = "rice suit unlock citizen plastic ice fragile sure tiger trouble whip beef";

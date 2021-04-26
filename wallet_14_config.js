@@ -1,1 +1,1 @@
-var mnemonic = "ski side lizard peanut pizza blade intact try sleep hobby envelope camp";
+var mnemonic = "pudding common state bonus because scrub audit daring light august high viable";

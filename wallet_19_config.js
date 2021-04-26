@@ -1,1 +1,1 @@
-var mnemonic = "concert spare upgrade casino machine wreck bargain absorb cinnamon layer execute motor";
+var mnemonic = "they tuna weapon blur midnight concert call curve twice pluck veteran sleep";

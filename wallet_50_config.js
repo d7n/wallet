@@ -1,1 +1,1 @@
-var mnemonic = "tip snap few spice among art shop follow release shield language foot";
+var mnemonic = "eye awake biology omit scan typical frame absurd census crack solution female";

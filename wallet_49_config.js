@@ -1,1 +1,1 @@
-var mnemonic = "cry property million snow bamboo age fatal cement valid enrich west roof";
+var mnemonic = "real betray paddle narrow forest scissors sad soldier cake resist suffer still";

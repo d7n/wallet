@@ -1,1 +1,1 @@
-var mnemonic = "memory around degree sun exhibit answer clump luggage lamp scrub elevator infant";
+var mnemonic = "result gossip myth control enjoy undo minute december asset chase manual steak";

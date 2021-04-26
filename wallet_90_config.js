@@ -1,1 +1,1 @@
-var mnemonic = "copper planet hour shallow result flip town collect royal tumble oil foil";
+var mnemonic = "impulse radio bright throw cool brisk purchase fade junk wheat antique pause";

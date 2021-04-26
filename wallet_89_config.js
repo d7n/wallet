@@ -1,1 +1,1 @@
-var mnemonic = "modify knee sadness network cherry order hand pyramid long video whip action";
+var mnemonic = "resemble fame grape silent fade exclude hurt peasant drift animal erode second";

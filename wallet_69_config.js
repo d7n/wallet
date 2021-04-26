@@ -1,1 +1,1 @@
-var mnemonic = "direct process demand seminar buffalo cry gossip size fiscal gap you camera";
+var mnemonic = "proud seed equip level zone mosquito barrel sure what lawn symptom vapor";

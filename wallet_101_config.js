@@ -1,1 +1,1 @@
-var mnemonic = "heavy burst fence width mother element web access ancient ability economy elephant";
+var mnemonic = "spawn gap amazing lottery federal tell cigar virtual process mansion churn potato";

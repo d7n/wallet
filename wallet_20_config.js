@@ -1,1 +1,1 @@
-var mnemonic = "focus sad mask explain leisure flower day bridge alley dinner sponsor april";
+var mnemonic = "burst snake provide square raven captain talk ethics private excess view urban";

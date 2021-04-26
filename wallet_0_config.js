@@ -1,1 +1,1 @@
-var mnemonic = "pond gentle engage slam fat hunt ride window involve lounge stamp employ";
+var mnemonic = "shift human pistol boil buzz crew axis add hover farm voice frown";

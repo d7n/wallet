@@ -1,1 +1,1 @@
-var mnemonic = "night nurse bike ugly witness nephew purse leave domain enroll during crash";
+var mnemonic = "drip ginger tip vessel video despair aisle zebra finger problem economy glory";

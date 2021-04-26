@@ -1,1 +1,1 @@
-var mnemonic = "nasty acoustic object capital ocean faculty fit ride general major mask boy";
+var mnemonic = "trouble thunder patient rate coyote kind punch clog cable collect square faculty";

@@ -1,1 +1,1 @@
-var mnemonic = "artist road define frown limit intact mail spring lake suit program yard";
+var mnemonic = "lens lazy milk lab win meadow endorse used spy speak economy such";

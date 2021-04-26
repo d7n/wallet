@@ -1,1 +1,1 @@
-var mnemonic = "join double install symptom horn minor noble panic scheme soccer camera fruit";
+var mnemonic = "season stem diet acoustic reason pencil arrive insect lyrics success supply suffer";

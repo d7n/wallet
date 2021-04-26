@@ -1,1 +1,1 @@
-var mnemonic = "mimic glory pizza attract alcohol robust protect wolf double carpet word carry";
+var mnemonic = "next bottom fever labor ahead faculty churn guilt flight napkin honey rubber";

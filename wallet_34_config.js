@@ -1,1 +1,1 @@
-var mnemonic = "fatigue allow copy final record daughter coyote square brisk speed end senior";
+var mnemonic = "more dawn trial drift toast message gadget express hurry unique meat antenna";

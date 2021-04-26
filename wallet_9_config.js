@@ -1,1 +1,1 @@
-var mnemonic = "imitate become library input fortune valid absent animal erupt leaf abstract appear";
+var mnemonic = "lottery wish until attack bread soldier gadget resist answer marriage lazy good";

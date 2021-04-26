@@ -1,1 +1,1 @@
-var mnemonic = "alarm rival inform piano paper unfair siege crumble true emotion brain brick";
+var mnemonic = "mosquito civil agree bread mosquito actual pledge analyst stool athlete clinic predict";

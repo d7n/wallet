@@ -1,1 +1,1 @@
-var mnemonic = "monitor course crater evolve bamboo nephew flat marine unhappy keep often guitar";
+var mnemonic = "hand patrol nephew frame shoe shift vast tragic burden craft want gain";

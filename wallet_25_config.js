@@ -1,1 +1,1 @@
-var mnemonic = "atom stage trim churn charge divert act total goat enrich extra right";
+var mnemonic = "avocado honey odor stool blood mad onion spider else canyon salute fatal";

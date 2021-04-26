@@ -1,1 +1,1 @@
-var mnemonic = "luggage penalty modify habit drama wild napkin armed laugh ball purse hat";
+var mnemonic = "zebra inmate kit risk basket verify birth march fatal blush bench tortoise";

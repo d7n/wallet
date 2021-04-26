@@ -1,1 +1,1 @@
-var mnemonic = "tumble ready theory drill draw sketch elbow fine dentist soda immense dinner";
+var mnemonic = "build icon iron proud enough canyon mixture arena venture wolf correct chat";

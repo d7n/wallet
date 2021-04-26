@@ -1,1 +1,1 @@
-var mnemonic = "rack account report admit famous whale electric abandon slam output chronic satoshi";
+var mnemonic = "bitter capable thumb time weekend phone marriage nephew circle seven delay mistake";

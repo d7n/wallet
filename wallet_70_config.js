@@ -1,1 +1,1 @@
-var mnemonic = "scan infant flavor move parrot devote mistake kitten agree uncle wise trick";
+var mnemonic = "screen shadow key cabbage real vivid news choose valve blood obscure that";

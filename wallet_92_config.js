@@ -1,1 +1,1 @@
-var mnemonic = "service diary craft aisle sing buddy ozone bargain nest drip cupboard sorry";
+var mnemonic = "glass use entire market april maple victory cherry bleak orange front taste";

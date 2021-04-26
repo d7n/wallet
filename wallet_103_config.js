@@ -1,1 +1,1 @@
-var mnemonic = "wild slim canal juice unusual vault combine enlist toe better length buyer";
+var mnemonic = "force beauty carry deny setup salon cancel sunset basic resemble virtual dose";

@@ -1,1 +1,1 @@
-var mnemonic = "mail mix kiwi near lottery piece safe adapt enrich riot act laptop";
+var mnemonic = "mixture blush inside shield salad dumb matter dose swift dragon useful zero";

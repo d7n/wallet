@@ -1,1 +1,1 @@
-var mnemonic = "horn arrest purity poverty blade business spy pact sausage hair soccer dentist";
+var mnemonic = "negative tell coral jeans clean rookie hub length immune virtual detect twenty";

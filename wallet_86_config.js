@@ -1,1 +1,1 @@
-var mnemonic = "village penalty series warfare search bachelor trash auction pottery hobby usage dizzy";
+var mnemonic = "dish invest bitter love clip today civil total shuffle biology faculty palm";

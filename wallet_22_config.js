@@ -1,1 +1,1 @@
-var mnemonic = "frame bench switch elite resist owner pen win mandate spatial involve inside";
+var mnemonic = "alarm bitter bridge tube come idle kangaroo garment crater police picnic crater";

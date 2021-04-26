@@ -1,1 +1,1 @@
-var mnemonic = "dutch forward ordinary brand stuff name luggage cover muscle senior deer whale";
+var mnemonic = "symptom sadness tell success public exact ramp crew aerobic soccer dynamic rack";

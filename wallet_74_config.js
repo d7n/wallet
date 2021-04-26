@@ -1,1 +1,1 @@
-var mnemonic = "aware present rack lazy fame enter uphold derive club saddle gossip gauge";
+var mnemonic = "fault devote black strike theme dry final together unknown absurd art scrap";

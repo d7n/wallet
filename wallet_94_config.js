@@ -1,1 +1,1 @@
-var mnemonic = "tumble cart host march bubble husband artefact win differ message scrub what";
+var mnemonic = "scout antenna burden fit safe erase loop gold bracket best clean bean";

@@ -1,1 +1,1 @@
-var mnemonic = "build notice make search oil broccoli measure draw hero rival desk title";
+var mnemonic = "hospital consider bike dream please divert asthma critic tag become brother parade";
