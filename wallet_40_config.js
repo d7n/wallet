@@ -1,1 +1,1 @@
-var mnemonic = "other leaf fun chimney ill mansion pipe cargo lawn end donkey panda";
+var mnemonic = "small window unfold mule soul argue slot hire song until gold outside";

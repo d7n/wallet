@@ -1,1 +1,1 @@
-var mnemonic = "seat become uphold swift small bamboo lemon clerk benefit stairs dismiss access";
+var mnemonic = "east dentist exhaust puppy energy security boost improve milk into street original";

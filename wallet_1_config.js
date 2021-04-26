@@ -1,1 +1,1 @@
-var mnemonic = "jungle okay garlic around hover radar sentence soup boring struggle siren combine";
+var mnemonic = "danger arctic modify book purpose parent ticket shy harsh cherry interest alter";

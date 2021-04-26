@@ -1,1 +1,1 @@
-var mnemonic = "olympic need patrol view wage hair access hint primary bridge solar rebuild";
+var mnemonic = "spell wine local raise feed slender inmate sound present rocket reward eyebrow";

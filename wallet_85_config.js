@@ -1,1 +1,1 @@
-var mnemonic = "sense enforce brass slow gain judge pony flag record drum eager narrow";
+var mnemonic = "scout street hover acquire sell meat deny achieve vicious west prosper mention";

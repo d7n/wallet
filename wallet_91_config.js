@@ -1,1 +1,1 @@
-var mnemonic = "gas shuffle lizard chat index patient tag often metal demise chuckle hold";
+var mnemonic = "awesome twelve seven chair tent add cheese property clown skate rocket agent";

@@ -1,1 +1,1 @@
-var mnemonic = "income uncover permit require noble rely use critic gas glove apart mimic";
+var mnemonic = "soldier useful air actual switch plunge knife chest file vague crew shy";

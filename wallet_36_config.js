@@ -1,1 +1,1 @@
-var mnemonic = "table hard describe frown absorb talent document advance drive cart cry arrow";
+var mnemonic = "fire wise inch junior vintage when brain orchard verb aim mosquito above";

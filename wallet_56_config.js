@@ -1,1 +1,1 @@
-var mnemonic = "firm roof draw unfold top above barrel quantum coffee solution refuse usual";
+var mnemonic = "major replace heart lyrics tonight quarter make fashion bullet feed sponsor deliver";

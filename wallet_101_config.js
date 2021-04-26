@@ -1,1 +1,1 @@
-var mnemonic = "luxury wood banner decline jewel near kidney orange cigar blood food still";
+var mnemonic = "dumb salon solid discover swear give learn sing frequent husband panel potato";

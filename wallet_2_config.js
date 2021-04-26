@@ -1,1 +1,1 @@
-var mnemonic = "city trick tackle update become ten toy emotion confirm column warrior danger";
+var mnemonic = "athlete hurt shadow provide mystery helmet fresh venue apple voyage win kick";

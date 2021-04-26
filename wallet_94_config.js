@@ -1,1 +1,1 @@
-var mnemonic = "bar tackle similar renew ski cannon power unhappy valley hold hundred truck";
+var mnemonic = "fortune make quit adapt type survey quick thank salad goat scene phone";

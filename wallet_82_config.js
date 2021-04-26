@@ -1,1 +1,1 @@
-var mnemonic = "rebuild raise pool pulp desk edit ten sweet noodle roast blush rate";
+var mnemonic = "coast cattle same strike lunch issue cupboard giant empty almost bulb dumb";

@@ -1,1 +1,1 @@
-var mnemonic = "win parade turn length retreat burst fan put wisdom salon tattoo infant";
+var mnemonic = "vote bulb slot rotate uniform wide impose cloth copper slim chief swamp";

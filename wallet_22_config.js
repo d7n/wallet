@@ -1,1 +1,1 @@
-var mnemonic = "wise act glide outdoor swap liar actor solve bind elephant bless evil";
+var mnemonic = "typical menu flower border control abuse pill dust pumpkin blame reduce basket";

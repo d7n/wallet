@@ -1,1 +1,1 @@
-var mnemonic = "pair secret sister rookie ocean relief popular vanish early novel skill hidden";
+var mnemonic = "lock time glance intact renew great cook inmate popular slim lizard absorb";

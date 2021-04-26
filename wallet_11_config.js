@@ -1,1 +1,1 @@
-var mnemonic = "elite oyster run fish analyst party glove thumb yellow check crop dog";
+var mnemonic = "danger scout chef ivory round mimic announce skirt moon special ghost nasty";

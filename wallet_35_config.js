@@ -1,1 +1,1 @@
-var mnemonic = "pony setup fluid world miracle prison nut enemy attack ten section panther";
+var mnemonic = "boring original promote turtle jeans alter ritual fish sunset lucky carry much";

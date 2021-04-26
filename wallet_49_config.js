@@ -1,1 +1,1 @@
-var mnemonic = "feature shock inch submit razor slot nest depart usual indoor okay defense";
+var mnemonic = "find region name rain position exile matter immense spider return hill mouse";

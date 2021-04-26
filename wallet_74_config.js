@@ -1,1 +1,1 @@
-var mnemonic = "unable section negative wage funny purchase mistake scene letter balance hurdle flock";
+var mnemonic = "gift donor plastic base doll thing blossom entire reward modify north praise";

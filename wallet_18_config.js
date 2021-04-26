@@ -1,1 +1,1 @@
-var mnemonic = "earn time mesh pause budget void few mom ability absent call blood";
+var mnemonic = "smile pen busy combine same useful bacon gun leaf acquire helmet enjoy";

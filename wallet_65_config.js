@@ -1,1 +1,1 @@
-var mnemonic = "crawl mosquito victory fresh crawl fragile multiply buddy debris news catalog scout";
+var mnemonic = "cradle know spray sweet view chuckle tumble celery menu tell audit chef";

@@ -1,1 +1,1 @@
-var mnemonic = "weird sense jacket cradle knife salon chuckle honey entry uncover gloom brown";
+var mnemonic = "donate series super derive digital twice deposit dish target jungle crew slam";

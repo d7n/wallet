@@ -1,1 +1,1 @@
-var mnemonic = "high solution advice bar access satoshi that dish six input essence grit";
+var mnemonic = "vocal olympic almost ridge lamp client liberty morning monitor lumber purchase mouse";

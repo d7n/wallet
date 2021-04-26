@@ -1,1 +1,1 @@
-var mnemonic = "vapor meadow nation warfare merit wide fine pudding vacant proof garlic trumpet";
+var mnemonic = "stone shoot slam thing unusual silent fit giraffe dinosaur attend neither casino";

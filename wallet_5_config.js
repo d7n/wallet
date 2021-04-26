@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit sound occur ready click educate dignity economy plastic noodle tunnel burden";
+var mnemonic = "correct chat announce file blouse gorilla direct reduce credit sand exercise still";

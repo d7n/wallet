@@ -1,1 +1,1 @@
-var mnemonic = "sample doctor illegal travel acquire weapon flight struggle journey flee belt hole";
+var mnemonic = "crystal spice purchase dolphin dumb sample usual submit note brand idea wall";

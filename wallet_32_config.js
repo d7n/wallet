@@ -1,1 +1,1 @@
-var mnemonic = "caution toy swift cheap flag split brain repeat save palm wear reform";
+var mnemonic = "physical warm soon seat horn sing potato fiction people lunar coyote ice";

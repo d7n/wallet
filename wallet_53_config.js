@@ -1,1 +1,1 @@
-var mnemonic = "hello quit advice stick mechanic average furnace talk differ grain cause arctic";
+var mnemonic = "target letter miss yard flower exhaust athlete sense sense grace zoo symptom";

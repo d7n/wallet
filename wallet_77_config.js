@@ -1,1 +1,1 @@
-var mnemonic = "lumber punch ability stomach mechanic obscure practice velvet gap bind catch giggle";
+var mnemonic = "century moment measure learn try copy wet ostrich account mouse process giraffe";

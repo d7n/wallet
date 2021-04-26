@@ -1,1 +1,1 @@
-var mnemonic = "ship idle joke abstract delay profit clean easily hybrid own chuckle balance";
+var mnemonic = "hover gossip arena hen heavy foil buddy bunker enrich ensure purchase dutch";

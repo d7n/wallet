@@ -1,1 +1,1 @@
-var mnemonic = "magnet evidence easy neutral fix since visa wagon clap knife staff ticket";
+var mnemonic = "shiver very tide ten case oven recipe gold enemy lava eager game";

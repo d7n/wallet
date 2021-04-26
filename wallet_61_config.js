@@ -1,1 +1,1 @@
-var mnemonic = "season melody ghost card beef helmet own surface vital rent want awesome";
+var mnemonic = "route equip snake era exit canoe renew fury permit host square surge";

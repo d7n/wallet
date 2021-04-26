@@ -1,1 +1,1 @@
-var mnemonic = "truth muscle box north spell crucial pledge palm animal gravity female indoor";
+var mnemonic = "offer soon right unfold urge initial task spider claim gentle session romance";

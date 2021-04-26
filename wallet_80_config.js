@@ -1,1 +1,1 @@
-var mnemonic = "tonight bottom prevent base improve broken rude sunny season simple home denial";
+var mnemonic = "appear afford fall fatal day vast venture bracket love trumpet law pyramid";

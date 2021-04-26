@@ -1,1 +1,1 @@
-var mnemonic = "eternal puppy seek piece stairs shiver song rhythm spot auto talent spray";
+var mnemonic = "brisk course demise since will thunder that result feel chunk recall palace";

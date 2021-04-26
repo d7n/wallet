@@ -1,1 +1,1 @@
-var mnemonic = "cat mystery mirror couch thank average damage safe sad cube effort cradle";
+var mnemonic = "fruit list can force demand lumber strategy cabbage subject wait picture cycle";

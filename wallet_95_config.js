@@ -1,1 +1,1 @@
-var mnemonic = "swamp promote suit exhaust deny poverty title hobby wagon essay charge secret";
+var mnemonic = "coach earn thought blood fitness indicate post flower rescue subject alpha fee";

@@ -1,1 +1,1 @@
-var mnemonic = "together cute review fault van motor boil spot team merry auction beef";
+var mnemonic = "car travel keep current gun eight fever snap plate warrior atom pond";

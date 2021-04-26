@@ -1,1 +1,1 @@
-var mnemonic = "bonus leisure mule shadow ethics craft skirt casual drift tired trip artwork";
+var mnemonic = "earth verify silk hour potato frozen train recycle deposit mixed advance forget";

@@ -1,1 +1,1 @@
-var mnemonic = "okay same tooth garment digital human deny rebuild cousin online size bracket";
+var mnemonic = "rain ticket love spider sponsor valve recall gauge wait vague use crash";

@@ -1,1 +1,1 @@
-var mnemonic = "ostrich disagree control what window lazy response horse exile rare spice group";
+var mnemonic = "limit exit leg dove ladder citizen shuffle offer pulp avocado gossip clip";

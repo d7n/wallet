@@ -1,1 +1,1 @@
-var mnemonic = "meadow sibling unveil awful sister hand stay dash begin accident focus huge";
+var mnemonic = "recycle dice panel end course empower dolphin canyon art clown place relief";

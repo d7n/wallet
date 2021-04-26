@@ -1,1 +1,1 @@
-var mnemonic = "spread lend smoke inform define private dash nothing other suit clock credit";
+var mnemonic = "under travel orient width place village fire caught fan person bachelor collect";

@@ -1,1 +1,1 @@
-var mnemonic = "latin film hockey material off vital ticket leg demise sausage fee web";
+var mnemonic = "escape absent father copy bench pool renew subway camera predict brave inch";

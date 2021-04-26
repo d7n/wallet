@@ -1,1 +1,1 @@
-var mnemonic = "logic toddler brass idle dismiss grain income damp scheme enroll leg brisk";
+var mnemonic = "dash north honey remove recycle share surprise double price chat equip junk";

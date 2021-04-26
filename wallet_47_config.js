@@ -1,1 +1,1 @@
-var mnemonic = "equal limit local floor grit number put chief cage crowd village collect";
+var mnemonic = "put casino armor royal dad jacket upgrade twice moon habit shiver great";

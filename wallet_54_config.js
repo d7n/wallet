@@ -1,1 +1,1 @@
-var mnemonic = "space drink gorilla dress riot poet elder dirt vicious rice merit patch";
+var mnemonic = "quote purchase aunt surprise fetch cabbage half table shoe process guess finger";

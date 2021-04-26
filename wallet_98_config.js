@@ -1,1 +1,1 @@
-var mnemonic = "foam fluid rubber photo comfort penalty warfare horn service plunge snap actor";
+var mnemonic = "melody junior limb ethics praise enable alter jacket nation glide daughter steak";

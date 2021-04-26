@@ -1,1 +1,1 @@
-var mnemonic = "raccoon crater soccer rival dust cycle plate ship bacon advance forest ripple";
+var mnemonic = "twelve edit much gallery seek cement enter suggest wine force balcony earn";

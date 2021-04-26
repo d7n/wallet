@@ -1,1 +1,1 @@
-var mnemonic = "chuckle conduct together area mixture finish account spice require trim inherit cube";
+var mnemonic = "genre notable chase joy frozen eager odor best puppy normal rose media";

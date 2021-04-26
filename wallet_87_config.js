@@ -1,1 +1,1 @@
-var mnemonic = "circle birth skill monkey educate half merit pizza tourist pioneer bracket liar";
+var mnemonic = "south predict praise ritual wise disagree combine kick physical magnet razor space";

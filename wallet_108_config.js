@@ -1,1 +1,1 @@
-var mnemonic = "web amateur culture slice shield mirror network flock skull recall blossom kidney";
+var mnemonic = "tank term seven easily visual capable perfect jeans pilot wrap clock liar";

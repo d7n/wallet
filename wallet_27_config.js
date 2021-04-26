@@ -1,1 +1,1 @@
-var mnemonic = "typical vendor slot manage brain hint response group focus rely smart spice";
+var mnemonic = "fall hungry funny dash rib bullet opera example spawn awkward laundry motion";

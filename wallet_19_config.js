@@ -1,1 +1,1 @@
-var mnemonic = "since mixed song target exchange future awake misery maximum setup cruel neglect";
+var mnemonic = "frozen charge focus curious ribbon ostrich spirit tool rely member goat proud";

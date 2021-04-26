@@ -1,1 +1,1 @@
-var mnemonic = "cup skin onion solid flip alert still coast else hobby town junk";
+var mnemonic = "ride tuition other modify dry decide unknown combine eyebrow donkey october tube";

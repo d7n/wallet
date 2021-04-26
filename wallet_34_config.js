@@ -1,1 +1,1 @@
-var mnemonic = "blossom diamond awful olive uniform erode very shell critic found exclude trophy";
+var mnemonic = "monkey seat ginger cool stay skate flash glow alcohol unhappy tornado object";

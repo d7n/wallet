@@ -1,1 +1,1 @@
-var mnemonic = "crucial path network ice analyst long job access act machine armor year";
+var mnemonic = "dilemma amateur hint sea spell simple drip fat kangaroo dumb gauge taste";

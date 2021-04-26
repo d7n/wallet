@@ -1,1 +1,1 @@
-var mnemonic = "fitness orphan glare toddler polar myself pitch flag forward wood muscle seminar";
+var mnemonic = "depth wear horror summer attend gesture trophy chief believe involve spray bleak";

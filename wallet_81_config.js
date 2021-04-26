@@ -1,1 +1,1 @@
-var mnemonic = "ankle silver van basic nest rookie planet tide unveil tragic green build";
+var mnemonic = "rabbit diesel can lady grace habit speak motor device arm vintage employ";

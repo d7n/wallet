@@ -1,1 +1,1 @@
-var mnemonic = "million catch weapon blast pair foam grow hedgehog nuclear define lawn thumb";
+var mnemonic = "blood gloom hello slim rose law general leader enrich legend ostrich poverty";

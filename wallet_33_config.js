@@ -1,1 +1,1 @@
-var mnemonic = "quick secret joke impose thumb genuine noodle manage sting sadness napkin trip";
+var mnemonic = "crime inmate escape glove mule fragile husband hint secret income peasant dog";

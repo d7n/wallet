@@ -1,1 +1,1 @@
-var mnemonic = "laptop rapid badge match hood garden pass deny arch reunion suspect guide";
+var mnemonic = "scorpion control almost agree ceiling member profit seed unknown check empty world";

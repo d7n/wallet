@@ -1,1 +1,1 @@
-var mnemonic = "remember excuse blue security firm evil initial drastic slam category vapor sudden";
+var mnemonic = "uniform acid provide believe news school stock lounge say toe slow you";

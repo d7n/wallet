@@ -1,1 +1,1 @@
-var mnemonic = "piece emotion sound crumble normal embark fence bleak thunder extra diagram april";
+var mnemonic = "cycle erase denial exhibit car damage long code come wide vapor prison";

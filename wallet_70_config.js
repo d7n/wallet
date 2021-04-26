@@ -1,1 +1,1 @@
-var mnemonic = "miracle dismiss pretty divide unfold april base father submit mind cash gorilla";
+var mnemonic = "rebuild proof seven popular razor squeeze assault choice also word vibrant give";

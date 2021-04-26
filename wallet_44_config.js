@@ -1,1 +1,1 @@
-var mnemonic = "toddler venture choose myself act anxiety element achieve work celery hat balance";
+var mnemonic = "convince laptop path autumn weather mention van mouse sketch stock trophy drastic";

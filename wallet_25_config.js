@@ -1,1 +1,1 @@
-var mnemonic = "upgrade provide soft index section bread filter devote firm diary raven near";
+var mnemonic = "version sting genre essay wink mercy music spider gather phone tissue famous";

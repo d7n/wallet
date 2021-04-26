@@ -1,1 +1,1 @@
-var mnemonic = "drive upon elephant blind feature lyrics cushion sphere cabin athlete address stem";
+var mnemonic = "story permit hamster diagram zone praise blade mirror sand such flash behind";

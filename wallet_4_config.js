@@ -1,1 +1,1 @@
-var mnemonic = "budget wink property seven mobile valve lonely camera rice tube pause slot";
+var mnemonic = "match vocal sad better hungry lake canal reason rib glimpse orphan north";

@@ -1,1 +1,1 @@
-var mnemonic = "pilot ethics provide ankle common differ symptom town fragile lunch angle vintage";
+var mnemonic = "senior pepper vocal tiger antique worry adult twice agree scatter omit maid";

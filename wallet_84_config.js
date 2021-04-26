@@ -1,1 +1,1 @@
-var mnemonic = "cotton firm include potato long recycle jacket found sample arctic story school";
+var mnemonic = "galaxy capital glove typical enrich shift shop ginger response quiz into fresh";

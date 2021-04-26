@@ -1,1 +1,1 @@
-var mnemonic = "six foil element funny update picture fall family enroll sorry release park";
+var mnemonic = "resist thing alarm cheese resist angry manage derive charge depart rebel liberty";

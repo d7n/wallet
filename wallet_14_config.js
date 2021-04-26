@@ -1,1 +1,1 @@
-var mnemonic = "electric joke artwork erase casual exotic expose mansion shock cheese eye pizza";
+var mnemonic = "husband skin canyon example cabin cover derive dog rug eyebrow clinic flame";

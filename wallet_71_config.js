@@ -1,1 +1,1 @@
-var mnemonic = "seat dream iron bench enhance mansion poet another vocal panic middle hundred";
+var mnemonic = "verb net vibrant umbrella song raccoon wedding arrest there ghost lonely grant";

@@ -1,1 +1,1 @@
-var mnemonic = "tonight vibrant shoe resemble curious dry pizza diary kite awake loan jazz";
+var mnemonic = "dream aerobic column alpha clean water rescue scene spare eyebrow urban cinnamon";

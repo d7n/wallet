@@ -1,1 +1,1 @@
-var mnemonic = "scheme again pistol number lonely track catalog cry enough net never inner";
+var mnemonic = "erase gather antenna forget cancel cash silver secret burden ready economy gate";

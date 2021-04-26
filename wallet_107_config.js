@@ -1,1 +1,1 @@
-var mnemonic = "scrap color salad moment mandate during oil boy clown tenant door blame";
+var mnemonic = "then valve phrase time tiny whip until dream clown couple inhale bachelor";

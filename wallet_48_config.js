@@ -1,1 +1,1 @@
-var mnemonic = "wolf nation inform name connect three female awful scrap step client fuel";
+var mnemonic = "ignore walk adult learn ankle mouse attack wave assault bottom fork arrest";

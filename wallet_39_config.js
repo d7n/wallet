@@ -1,1 +1,1 @@
-var mnemonic = "blouse sure word ripple glare enforce catch admit such under cheese follow";
+var mnemonic = "when sleep grid ship vacuum decade maid song casual merry seed talent";

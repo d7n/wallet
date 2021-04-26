@@ -1,1 +1,1 @@
-var mnemonic = "repeat elbow pond month escape vast regular spirit silver above jazz bar";
+var mnemonic = "gun nothing spatial hamster bounce hurry render escape panther agent pottery list";

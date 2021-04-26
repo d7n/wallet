@@ -1,1 +1,1 @@
-var mnemonic = "snap thank roof opera replace surprise diet host library toe stand tone";
+var mnemonic = "dinner spell please swear frozen aspect mosquito arena capital transfer gift merit";

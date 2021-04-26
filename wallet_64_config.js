@@ -1,1 +1,1 @@
-var mnemonic = "license lawn wall agree diet weather keep pulp over ethics plunge trumpet";
+var mnemonic = "patrol shield rural sample post robust genius fabric afford plunge guess struggle";

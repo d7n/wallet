@@ -1,1 +1,1 @@
-var mnemonic = "lamp speak leaf visit brain sell web wash number observe syrup supreme";
+var mnemonic = "crucial erosion zone swarm lawsuit foam foam sausage banner enroll seat refuse";

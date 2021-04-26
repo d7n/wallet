@@ -1,1 +1,1 @@
-var mnemonic = "source acquire swear suggest color exit addict ramp eagle bench path sorry";
+var mnemonic = "crush fabric aunt praise victory season cup later opera follow genre increase";

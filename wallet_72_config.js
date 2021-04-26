@@ -1,1 +1,1 @@
-var mnemonic = "winter dune donor taxi empty lumber estate leopard obscure plate chat fork";
+var mnemonic = "sea pipe term neglect media know air disease mesh invest cream girl";

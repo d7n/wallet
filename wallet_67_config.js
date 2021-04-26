@@ -1,1 +1,1 @@
-var mnemonic = "magnet cage spin gap payment surface guitar guide captain omit clip exercise";
+var mnemonic = "course address fetch need time entire dove canvas undo jelly rifle certain";

@@ -1,1 +1,1 @@
-var mnemonic = "consider winner risk equip glad junior zero assault entry patient health tourist";
+var mnemonic = "check dish piece remember unknown pen valid three envelope parrot clump unique";

@@ -1,1 +1,1 @@
-var mnemonic = "load glory almost come decorate gym history goat grocery elephant scrap army";
+var mnemonic = "diet carpet gravity inside climb bird vacuum expose chest guitar dwarf guilt";

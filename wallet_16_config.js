@@ -1,1 +1,1 @@
-var mnemonic = "rubber legend breeze entry drip artwork faculty slam leg circle witness flavor";
+var mnemonic = "entire shove narrow miss net surge resist borrow raise task popular unveil";
