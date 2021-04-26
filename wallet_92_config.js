@@ -1,1 +1,1 @@
-var mnemonic = "bridge stem auction neither jeans coffee hero strong tilt absent finger close";
+var mnemonic = "bamboo obvious glide diet wheat door salt anxiety viable now embody boat";

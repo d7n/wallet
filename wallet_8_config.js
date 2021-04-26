@@ -1,1 +1,1 @@
-var mnemonic = "matter effort enemy leader ring treat discover joke creek make dress secret";
+var mnemonic = "spring close eager patch insane broom crowd you work when need wrap";

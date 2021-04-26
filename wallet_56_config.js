@@ -1,1 +1,1 @@
-var mnemonic = "play quarter tomato amused donkey sustain final drill attract help waste cloth";
+var mnemonic = "motor toe skirt skirt increase method result battle picnic night luxury guard";

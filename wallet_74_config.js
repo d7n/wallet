@@ -1,1 +1,1 @@
-var mnemonic = "enact better banner spin barely addict second craft brand course miracle crazy";
+var mnemonic = "lion shrimp furnace sweet pig reopen scene ancient meat sail legal inject";

@@ -1,1 +1,1 @@
-var mnemonic = "clap security kingdom master scatter stick coin slot shaft anger bridge top";
+var mnemonic = "embrace intact debate phone dolphin story demand sleep cake utility fresh error";

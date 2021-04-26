@@ -1,1 +1,1 @@
-var mnemonic = "small train behind exercise behind certain mistake display check blossom ramp route";
+var mnemonic = "rain input chapter tank ripple oxygen orchard iron input injury eye true";

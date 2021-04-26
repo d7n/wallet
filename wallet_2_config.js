@@ -1,1 +1,1 @@
-var mnemonic = "cabbage token piece man vintage glad liquid close spend battle cliff room";
+var mnemonic = "cupboard south kind blood forget stumble damp artefact error panel sword business";

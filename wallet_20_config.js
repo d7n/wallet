@@ -1,1 +1,1 @@
-var mnemonic = "list bronze whip nominee crazy suit round impact celery calm shadow pizza";
+var mnemonic = "material already solution output document empower barely random copy amateur video suggest";

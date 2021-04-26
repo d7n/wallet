@@ -1,1 +1,1 @@
-var mnemonic = "sketch combine mother symbol step cousin tide hollow matter labor fancy soccer";
+var mnemonic = "deposit weird blind increase iron dust phrase poet problem auction below crew";

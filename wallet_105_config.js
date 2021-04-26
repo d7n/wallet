@@ -1,1 +1,1 @@
-var mnemonic = "wagon opinion record raise fan athlete wave group business test favorite chef";
+var mnemonic = "flag ability cupboard stock script parade wine artist giraffe minimum erase evoke";

@@ -1,1 +1,1 @@
-var mnemonic = "add find abandon tree force defense answer spy crop ill artefact category";
+var mnemonic = "arrive gap valid denial river shift power sample hip involve either truck";

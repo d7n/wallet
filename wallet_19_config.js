@@ -1,1 +1,1 @@
-var mnemonic = "snap rent book clog bag urge gesture filter sausage reopen dry spray";
+var mnemonic = "swallow stock kite into mom ceiling peanut genre hen tool chat shrimp";

@@ -1,1 +1,1 @@
-var mnemonic = "raccoon daughter addict champion exercise hurdle mean genuine deny kidney milk echo";
+var mnemonic = "play sadness gym nephew poem want motion crawl cage weather card obtain";

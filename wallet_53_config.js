@@ -1,1 +1,1 @@
-var mnemonic = "cycle cupboard bounce army gym stadium clock double violin genius crash ranch";
+var mnemonic = "grow harsh pigeon fatigue sing dream differ mix age chair box local";

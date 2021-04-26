@@ -1,1 +1,1 @@
-var mnemonic = "abuse foam quiz resource today witness file hollow damp purchase rigid gown";
+var mnemonic = "grant master immense tomato broccoli hurdle bulk budget fine kind visit acoustic";

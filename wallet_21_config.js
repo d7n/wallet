@@ -1,1 +1,1 @@
-var mnemonic = "invest raccoon text dial dinner source attend catch accuse walnut monitor field";
+var mnemonic = "floor fly tip circle order shaft swing acquire hub chest shop twist";

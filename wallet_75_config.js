@@ -1,1 +1,1 @@
-var mnemonic = "melody spoil cannon wait move control scare blossom nasty subway energy brand";
+var mnemonic = "drip rhythm dinosaur remind begin decide radio plunge runway dismiss afraid tongue";

@@ -1,1 +1,1 @@
-var mnemonic = "seven hub canal midnight trial peanut jungle artefact quick edge bulb garment";
+var mnemonic = "involve deliver gold lobster pioneer elephant language range sunny message fruit pigeon";

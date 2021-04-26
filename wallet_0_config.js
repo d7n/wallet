@@ -1,1 +1,1 @@
-var mnemonic = "logic salmon country carbon open lesson vivid view risk tuna cover estate";
+var mnemonic = "owner hurt error among enter relax endless motion neglect across joke twin";

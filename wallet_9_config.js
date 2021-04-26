@@ -1,1 +1,1 @@
-var mnemonic = "timber code same laundry stamp perfect mercy glass service banner street style";
+var mnemonic = "affair tiger shield life remember tragic market minor double scatter mimic street";

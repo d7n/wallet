@@ -1,1 +1,1 @@
-var mnemonic = "embark unknown keep peasant slide rural protect bus best predict half eternal";
+var mnemonic = "movie broccoli home need evil width road outer pilot source duty defy";

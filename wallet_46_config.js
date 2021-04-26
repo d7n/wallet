@@ -1,1 +1,1 @@
-var mnemonic = "betray load friend panic coast dwarf melody attract say pattern peasant pen";
+var mnemonic = "kind elbow torch page cushion click pencil burger thank frost face green";

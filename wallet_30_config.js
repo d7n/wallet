@@ -1,1 +1,1 @@
-var mnemonic = "border thrive rate fitness orchard keen exercise witness marriage lawsuit inch half";
+var mnemonic = "mother elbow fringe beauty hover pitch degree blanket license table sing maid";

@@ -1,1 +1,1 @@
-var mnemonic = "afraid manual typical piece small detail top gasp town ugly weasel tiger";
+var mnemonic = "sun load connect glide wear bag among category ice absurd october leader";

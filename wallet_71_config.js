@@ -1,1 +1,1 @@
-var mnemonic = "step cheese pole mom lift group become sample siren heart lazy poet";
+var mnemonic = "street wing sorry record color sound quote bullet arctic movie brief rack";

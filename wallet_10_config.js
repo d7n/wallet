@@ -1,1 +1,1 @@
-var mnemonic = "bitter orange upset era speed spare ghost corn pluck swap lucky close";
+var mnemonic = "thumb frequent hawk buyer upon renew dignity property banner artefact assume quote";

@@ -1,1 +1,1 @@
-var mnemonic = "cereal giant manual release brave can city provide dove annual pelican dial";
+var mnemonic = "author quit zoo empty emotion latin relax destroy soap soul tower clip";

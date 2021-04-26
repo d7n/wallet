@@ -1,1 +1,1 @@
-var mnemonic = "purchase pioneer fade much legend spare silly snow flip immense payment audit";
+var mnemonic = "unfold multiply cook cushion curtain method destroy alien output law slot salon";

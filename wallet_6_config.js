@@ -1,1 +1,1 @@
-var mnemonic = "home text chief hunt swift casual inside end copper vibrant alien possible";
+var mnemonic = "soap alert fantasy angle vacant whale century quick link auto chef payment";

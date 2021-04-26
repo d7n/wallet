@@ -1,1 +1,1 @@
-var mnemonic = "lens member humor jar million word coin guard inmate venture scan print";
+var mnemonic = "jump party life hen bullet knee rug advice stock post more angle";

@@ -1,1 +1,1 @@
-var mnemonic = "guide replace retire slide slide husband myth spin company desk swap repeat";
+var mnemonic = "recipe make inside face choose scare team control picture destroy tent protect";

@@ -1,1 +1,1 @@
-var mnemonic = "expand side owner brass pencil twin hazard deny lecture clap staff december";
+var mnemonic = "hood crush lunch three chest jar century total ride survey jealous thrive";

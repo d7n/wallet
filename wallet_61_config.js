@@ -1,1 +1,1 @@
-var mnemonic = "refuse they script boil warrior huge athlete stuff nasty usual pool strong";
+var mnemonic = "donate girl lizard omit weather boss crew lucky try glow ceiling life";

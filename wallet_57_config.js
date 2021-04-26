@@ -1,1 +1,1 @@
-var mnemonic = "spread nuclear glide satisfy dust bench artefact vehicle giggle enter street surprise";
+var mnemonic = "viable smoke rain march empty penalty bless apart finger trim math race";

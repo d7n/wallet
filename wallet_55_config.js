@@ -1,1 +1,1 @@
-var mnemonic = "defense plastic marine echo skin bless bitter shuffle choice parrot harsh success";
+var mnemonic = "brush call just gallery intact alcohol umbrella clump family pluck private crew";

@@ -1,1 +1,1 @@
-var mnemonic = "warm subway pulse similar early siren three defense merge talk finish session";
+var mnemonic = "divert parade pepper prison bind cram school family train report near trial";

@@ -1,1 +1,1 @@
-var mnemonic = "uncover wrist broom push alone provide much total wear guide mouse write";
+var mnemonic = "minimum mimic machine all smile critic domain fringe shadow wish umbrella slot";

@@ -1,1 +1,1 @@
-var mnemonic = "note wood forum donkey travel quality measure outdoor limb boy media you";
+var mnemonic = "fine doll side panic sign regular clutch twice punch frost cross south";

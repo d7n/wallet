@@ -1,1 +1,1 @@
-var mnemonic = "snake shop flip abuse snake later fever fancy broccoli ritual dynamic credit";
+var mnemonic = "mystery fence detail visit gift need scale cat canal boy awkward transfer";

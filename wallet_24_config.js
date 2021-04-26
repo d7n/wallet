@@ -1,1 +1,1 @@
-var mnemonic = "gas thing mom chapter pupil situate ten frequent royal globe someone deputy";
+var mnemonic = "actress fatigue unique enhance fruit already limit rent time picture over romance";

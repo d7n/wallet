@@ -1,1 +1,1 @@
-var mnemonic = "input oblige glass trap survey oval swamp reopen fox noise shield garbage";
+var mnemonic = "exclude pudding cake van hair blanket bronze blood lunar mandate pool eye";

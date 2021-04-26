@@ -1,1 +1,1 @@
-var mnemonic = "tackle police egg promote ancient measure sport old canoe glance hurdle culture";
+var mnemonic = "brisk kid away blast shrug clean cage lift slot train dinosaur holiday";

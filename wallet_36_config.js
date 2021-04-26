@@ -1,1 +1,1 @@
-var mnemonic = "situate cluster jelly actual clock obvious path visit mule mix company color";
+var mnemonic = "surge decrease polar clerk stereo raise faint survey pudding boy tail update";

@@ -1,1 +1,1 @@
-var mnemonic = "attend marriage fragile legend addict disagree rug journey boss post great depth";
+var mnemonic = "false point collect mushroom dolphin blast move judge spin ancient visa cannon";

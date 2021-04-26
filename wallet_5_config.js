@@ -1,1 +1,1 @@
-var mnemonic = "cargo feel light drive mandate normal pony never lesson canal final floor";
+var mnemonic = "used vital fan absurd tackle spend write neither infant rare powder dignity";

@@ -1,1 +1,1 @@
-var mnemonic = "huge boost toward silver legal cube eight also pudding sock fiction hedgehog";
+var mnemonic = "lyrics margin virus garden illness major wink flame benefit multiply arctic wide";

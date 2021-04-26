@@ -1,1 +1,1 @@
-var mnemonic = "during such universe wave supreme option pave asthma ride topic adapt gauge";
+var mnemonic = "shiver match rebuild slam shadow pretty frost since like rail wrap cricket";

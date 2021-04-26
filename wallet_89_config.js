@@ -1,1 +1,1 @@
-var mnemonic = "garbage myself chuckle step brush link toddler alarm lamp squeeze decorate load";
+var mnemonic = "coach trial chronic crisp apology glow confirm weather include hover produce social";

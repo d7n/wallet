@@ -1,1 +1,1 @@
-var mnemonic = "two calm until cruel chase oyster shoulder assist today sleep ginger weasel";
+var mnemonic = "thought scan goddess chalk april twist badge upset design reunion cart jazz";

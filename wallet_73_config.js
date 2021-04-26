@@ -1,1 +1,1 @@
-var mnemonic = "empty trial female sketch chief limb lion photo shock library try future";
+var mnemonic = "vocal tip correct danger duty rural insane ten pride much narrow crash";

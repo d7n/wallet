@@ -1,1 +1,1 @@
-var mnemonic = "intact moment okay knock visual damage vital million blur connect normal media";
+var mnemonic = "music smart fury grab height photo debris wrap gain lottery egg coil";

@@ -1,1 +1,1 @@
-var mnemonic = "strong practice remember ribbon trip believe decline silver garden skill drift matrix";
+var mnemonic = "joke dry help brain steel case action duty build stadium swift select";

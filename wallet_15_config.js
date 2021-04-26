@@ -1,1 +1,1 @@
-var mnemonic = "together wrist ladder lunch carpet script suffer baby gown burst sorry gossip";
+var mnemonic = "absurd bright blur pyramid vault add repair relief nasty blame toe razor";

@@ -1,1 +1,1 @@
-var mnemonic = "want left rough will organ hover whale crisp ticket speed plug extra";
+var mnemonic = "simple loan talk vivid describe pulp predict cattle tornado long enable cream";

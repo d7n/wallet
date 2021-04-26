@@ -1,1 +1,1 @@
-var mnemonic = "hen purpose humor express wet capital feed bar ribbon ranch banner crater";
+var mnemonic = "catalog confirm account curve material noise three punch club pole wisdom join";

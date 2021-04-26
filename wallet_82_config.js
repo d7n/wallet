@@ -1,1 +1,1 @@
-var mnemonic = "test season name infant dress champion pioneer turn sweet cruise wonder hair";
+var mnemonic = "echo frequent glass nose pistol deposit whip nothing unhappy lock leopard coast";

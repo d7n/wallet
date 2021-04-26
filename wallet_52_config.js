@@ -1,1 +1,1 @@
-var mnemonic = "fashion mad mean spider fantasy include voice emotion family hill diamond peasant";
+var mnemonic = "inspire disease nominee setup merry glove mechanic science leopard gun doll waste";

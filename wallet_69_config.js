@@ -1,1 +1,1 @@
-var mnemonic = "tunnel around pitch hurt intact student boss color milk kidney tool motion";
+var mnemonic = "dad frozen top script cross nation humble way yellow wash search retreat";

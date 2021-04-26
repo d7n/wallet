@@ -1,1 +1,1 @@
-var mnemonic = "april seek know auto life flavor cherry such token easily month flush";
+var mnemonic = "candy anxiety pudding average success sheriff garden shrug observe melody cup bundle";

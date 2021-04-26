@@ -1,1 +1,1 @@
-var mnemonic = "elder month subject soft flag title tortoise main like tank stock hood";
+var mnemonic = "gossip giant control wife miracle view satisfy alert bracket inner resist under";

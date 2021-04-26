@@ -1,1 +1,1 @@
-var mnemonic = "lottery satoshi toast solid drop fence wide cushion fashion increase fiber assist";
+var mnemonic = "hat pigeon flush brand charge worth label subway broccoli sting yard raw";

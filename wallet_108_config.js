@@ -1,1 +1,1 @@
-var mnemonic = "achieve ribbon gap refuse oak tiny salute steak need average tooth quality";
+var mnemonic = "return equip horn employ autumn rifle differ gun jungle increase chapter topple";

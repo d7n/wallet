@@ -1,1 +1,1 @@
-var mnemonic = "subway pact west brave vapor depth item fox adapt appear entire subway";
+var mnemonic = "drastic crunch clay vital cruise wool raise sentence trophy fluid old universe";

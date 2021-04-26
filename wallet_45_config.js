@@ -1,1 +1,1 @@
-var mnemonic = "consider clay juice group fantasy need game earth diesel left capital logic";
+var mnemonic = "sad grunt fortune adult pave picture breeze soup bamboo tomorrow erode garlic";

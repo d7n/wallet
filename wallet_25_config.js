@@ -1,1 +1,1 @@
-var mnemonic = "capable airport soap lab lucky post drink caught foam happy advice oven";
+var mnemonic = "now diet enhance already primary domain chat kitten anchor blur exchange moon";

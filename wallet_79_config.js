@@ -1,1 +1,1 @@
-var mnemonic = "dish motor tackle alert exchange defy dust lesson nest inside elite embrace";
+var mnemonic = "talk glory expose outside hen enjoy ethics fortune skill sugar honey tray";

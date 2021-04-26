@@ -1,1 +1,1 @@
-var mnemonic = "tray goat inmate spin list screen census know crystal raw base forum";
+var mnemonic = "topic breeze wagon wash try when spray winner acoustic negative between entry";

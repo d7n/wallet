@@ -1,1 +1,1 @@
-var mnemonic = "private mutual toe text evoke private swarm lecture where yellow scan all";
+var mnemonic = "aerobic second rely erosion neutral accident kick heavy observe wet tenant share";

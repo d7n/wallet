@@ -1,1 +1,1 @@
-var mnemonic = "scatter deny enlist country sweet banana hub hand switch way clog tattoo";
+var mnemonic = "spread remain assist smoke mutual long shaft call soft stamp analyst switch";

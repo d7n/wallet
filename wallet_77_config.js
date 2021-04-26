@@ -1,1 +1,1 @@
-var mnemonic = "blush buffalo joke increase lobster fault hood pyramid stove extra worry bunker";
+var mnemonic = "attract nothing disorder craft convince aware pair antenna prosper peasant rely place";

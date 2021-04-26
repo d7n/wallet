@@ -1,1 +1,1 @@
-var mnemonic = "bubble chapter oyster suspect hungry fatal three spike black slide gold jelly";
+var mnemonic = "latin rail neutral away capital butter subway ensure sense roast drop opera";

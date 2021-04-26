@@ -1,1 +1,1 @@
-var mnemonic = "snack upper object equip cause ghost pudding tiger basic obvious clump obvious";
+var mnemonic = "luxury crash draw web brush main alarm code clinic train way hammer";

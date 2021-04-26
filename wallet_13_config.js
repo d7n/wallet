@@ -1,1 +1,1 @@
-var mnemonic = "either hip tone that enroll draw royal flag solid outdoor exile oyster";
+var mnemonic = "artwork help topic faculty ensure stable mirror main filter foam obey dish";

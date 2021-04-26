@@ -1,1 +1,1 @@
-var mnemonic = "art hint claw link spot depart tuna put impact target ten firm";
+var mnemonic = "blame rain scare other car turtle skull congress million observe bomb someone";

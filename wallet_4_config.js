@@ -1,1 +1,1 @@
-var mnemonic = "pioneer exact high gauge category client abstract village runway interest token milk";
+var mnemonic = "method potato airport believe twice edge bright soon omit hint wood december";

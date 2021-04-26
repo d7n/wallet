@@ -1,1 +1,1 @@
-var mnemonic = "whip advice prize float orient finger asthma stay day ankle better any";
+var mnemonic = "tent question great unusual question miss feel sweet owner sausage undo lava";

@@ -1,1 +1,1 @@
-var mnemonic = "axis other laundry lounge badge same fun dirt walk legend solution hand";
+var mnemonic = "annual orchard hood coach quiz sauce will monster rookie donate abuse cram";

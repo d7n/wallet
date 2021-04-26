@@ -1,1 +1,1 @@
-var mnemonic = "desert uphold soon fiction gap cargo despair prefer dream debate legend pizza";
+var mnemonic = "stool youth ocean sail point ethics industry basket what close foot keep";

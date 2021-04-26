@@ -1,1 +1,1 @@
-var mnemonic = "door govern tool olive motion monkey stone happy meadow surface answer unit";
+var mnemonic = "rifle lift lens forest walnut maximum brand wine history settle camp usage";

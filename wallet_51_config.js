@@ -1,1 +1,1 @@
-var mnemonic = "scrap brain can volcano flower axis soldier news normal banana bar grain";
+var mnemonic = "fire seek okay already valve win topic garage pluck urge little crumble";

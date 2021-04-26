@@ -1,1 +1,1 @@
-var mnemonic = "must satoshi practice extra dawn remove address vanish bench layer thing wheel";
+var mnemonic = "flee yellow bunker cabbage trumpet cloud blood pass neck knife coil steak";

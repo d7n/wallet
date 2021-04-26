@@ -1,1 +1,1 @@
-var mnemonic = "viable soon hazard autumn box tip main sweet steel hope success scatter";
+var mnemonic = "risk across price sight task rule symbol open reform donor velvet patient";

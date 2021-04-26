@@ -1,1 +1,1 @@
-var mnemonic = "eternal jealous frame salon misery crowd relief cupboard gauge buddy stadium museum";
+var mnemonic = "chapter concert crime rug chief fabric leisure hard wet visa sea fog";

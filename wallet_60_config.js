@@ -1,1 +1,1 @@
-var mnemonic = "frown banana confirm reason hour isolate prosper absurd rib acid barrel early";
+var mnemonic = "wrist rare wing welcome sun reunion opera sure student orange clarify immune";

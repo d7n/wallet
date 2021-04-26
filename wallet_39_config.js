@@ -1,1 +1,1 @@
-var mnemonic = "doctor main latin receive aim grocery utility panda donate proof upper submit";
+var mnemonic = "ranch girl piece loyal trim boss maple limit cave dwarf record begin";

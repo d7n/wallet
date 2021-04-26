@@ -1,1 +1,1 @@
-var mnemonic = "child youth festival cement sick rocket elegant drip crawl success priority cause";
+var mnemonic = "maple very camera bacon gentle harsh announce follow turkey goddess useful day";

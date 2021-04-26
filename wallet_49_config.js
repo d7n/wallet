@@ -1,1 +1,1 @@
-var mnemonic = "cluster category front tissue electric horror base venture length then opinion sound";
+var mnemonic = "photo story insect mail elder figure portion unusual pony series service layer";

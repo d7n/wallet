@@ -1,1 +1,1 @@
-var mnemonic = "weather primary bicycle very meat curious film unique spare such veteran shock";
+var mnemonic = "loop label lion curious sentence blind interest bitter click soon skull infant";

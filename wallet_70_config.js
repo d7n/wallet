@@ -1,1 +1,1 @@
-var mnemonic = "egg grape dose good web tonight ramp hungry actual employ defy future";
+var mnemonic = "enter legal cement south net net raven kit unable material eternal grass";

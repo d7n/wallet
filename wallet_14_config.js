@@ -1,1 +1,1 @@
-var mnemonic = "alien aspect hill round pig dignity ship spend bracket scare birth stairs";
+var mnemonic = "device sign jacket stable method upgrade steak radar expand million debris dial";

@@ -1,1 +1,1 @@
-var mnemonic = "idle gloom garlic caution poet route tobacco empty satoshi busy cube sword";
+var mnemonic = "regret list roof ring trouble diamond aisle slice suspect obscure cycle define";

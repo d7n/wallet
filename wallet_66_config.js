@@ -1,1 +1,1 @@
-var mnemonic = "regret awake paddle midnight drill much finish diagram profit thought ghost minor";
+var mnemonic = "any evoke rough three voice quit topple buffalo coach horn talk tilt";
