@@ -1,1 +1,1 @@
-var mnemonic = "faint dilemma crop basket valley educate uncle salute urge merit hello need";
+var mnemonic = "soul sea industry erupt print rack fluid bracket gorilla jelly frost switch";

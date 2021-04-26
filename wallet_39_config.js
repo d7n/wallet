@@ -1,1 +1,1 @@
-var mnemonic = "skate honey come expose bubble youth tone knee argue panel minor soul";
+var mnemonic = "damp pledge apple chair across eye ship main glory need deer laugh";

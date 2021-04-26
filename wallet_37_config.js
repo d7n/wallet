@@ -1,1 +1,1 @@
-var mnemonic = "crazy sing scrap syrup cheap text spoon edit base train scorpion vault";
+var mnemonic = "garage crawl range fault butter duty priority luxury have chronic exile roast";

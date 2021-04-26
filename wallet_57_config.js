@@ -1,1 +1,1 @@
-var mnemonic = "easily scatter identify trouble thank north shuffle deputy afraid witness neglect two";
+var mnemonic = "into gravity average wealth tube soda frown fragile wink today patient drastic";

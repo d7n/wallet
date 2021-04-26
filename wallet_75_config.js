@@ -1,1 +1,1 @@
-var mnemonic = "wine candy merge future mom refuse change process pause omit black twenty";
+var mnemonic = "deer remind system monitor split blossom echo access dust wasp cherry shell";

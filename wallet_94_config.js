@@ -1,1 +1,1 @@
-var mnemonic = "tonight stool patch fame immune scatter wonder student essence gown bus rent";
+var mnemonic = "output loud shed embrace rocket verb behind then sunset spread toss post";

@@ -1,1 +1,1 @@
-var mnemonic = "jump lecture rookie donate limit bamboo rather voice settle episode weasel pledge";
+var mnemonic = "mistake sustain pretty about day correct surprise december palace like very digital";

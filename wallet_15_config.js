@@ -1,1 +1,1 @@
-var mnemonic = "shield vote puzzle safe remove edge food minor rapid village ginger where";
+var mnemonic = "hungry lumber card bronze more puzzle yard glass school moral giant ticket";

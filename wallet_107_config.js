@@ -1,1 +1,1 @@
-var mnemonic = "away curious warm evoke shop rapid increase bachelor glide love clarify captain";
+var mnemonic = "pole car shiver scissors payment monkey logic mutual report chalk sheriff text";

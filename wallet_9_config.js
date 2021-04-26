@@ -1,1 +1,1 @@
-var mnemonic = "twenty hole normal suspect cram program wet tiny prevent casual height mercy";
+var mnemonic = "minimum obtain arrow open track search become drop grass faculty ticket better";

@@ -1,1 +1,1 @@
-var mnemonic = "enhance artwork tennis girl margin brave crumble jaguar wedding deal upgrade brief";
+var mnemonic = "main mix attack burden imitate net lawn pelican stem float empty arrange";

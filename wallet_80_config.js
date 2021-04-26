@@ -1,1 +1,1 @@
-var mnemonic = "find rose anger obvious bike defense plug sunset sing erosion language way";
+var mnemonic = "lizard around mixed hen upgrade clever portion witness upper lamp lesson invest";

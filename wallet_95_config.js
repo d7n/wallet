@@ -1,1 +1,1 @@
-var mnemonic = "drastic lesson observe refuse orange adjust ranch silver orbit skull opera tell";
+var mnemonic = "subject fun process orphan dress dinosaur glance swap school taxi exact mango";

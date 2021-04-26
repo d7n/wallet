@@ -1,1 +1,1 @@
-var mnemonic = "turtle pigeon execute whale planet shadow else model upper abuse regular connect";
+var mnemonic = "father fitness family differ lava wild better shield start hurry modify swamp";

@@ -1,1 +1,1 @@
-var mnemonic = "excite employ people cattle suspect grain fuel violin prevent cousin organ box";
+var mnemonic = "toddler menu double over wedding fat illegal robust giraffe eager element option";

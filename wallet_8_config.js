@@ -1,1 +1,1 @@
-var mnemonic = "skull page sudden shift unfair apple radar sand punch park venue friend";
+var mnemonic = "guilt frozen pilot page cycle cable athlete drive casino inflict library frog";

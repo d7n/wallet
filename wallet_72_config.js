@@ -1,1 +1,1 @@
-var mnemonic = "powder sort green tragic correct crash wreck science bacon hero forget throw";
+var mnemonic = "connect chief embody slot exhaust silk ice cute bread wrong enhance oyster";

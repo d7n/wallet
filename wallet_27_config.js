@@ -1,1 +1,1 @@
-var mnemonic = "code pact rare kidney dash enhance pilot potato ring basket where salute";
+var mnemonic = "real silver spray usage crane tone fix predict rebuild other core region";

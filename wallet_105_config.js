@@ -1,1 +1,1 @@
-var mnemonic = "soon lend fitness orient dust witness master hurdle mandate sadness select unknown";
+var mnemonic = "process record fringe just throw direct lawn pitch various finger cover about";

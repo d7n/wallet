@@ -1,1 +1,1 @@
-var mnemonic = "dilemma student include certain puppy pull twist present medal amount ball trigger";
+var mnemonic = "faint public sleep timber sunset void empty three parent okay glimpse assist";

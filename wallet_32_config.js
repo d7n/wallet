@@ -1,1 +1,1 @@
-var mnemonic = "erode genuine midnight verify glad combine dice raven danger praise parade rough";
+var mnemonic = "decrease man alien fork lecture any buzz cinnamon cupboard rebel daughter room";

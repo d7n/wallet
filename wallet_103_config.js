@@ -1,1 +1,1 @@
-var mnemonic = "guide eagle end among hire rubber network spider federal myth live mistake";
+var mnemonic = "frost soda vessel skull bread phone solve robot medal smart drastic crop";

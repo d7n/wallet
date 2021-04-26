@@ -1,1 +1,1 @@
-var mnemonic = "help sock gasp middle picture kind board vicious wrist royal dash check";
+var mnemonic = "about jewel tragic afford will chunk symptom fee galaxy position cable recipe";

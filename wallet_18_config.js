@@ -1,1 +1,1 @@
-var mnemonic = "fit october abandon rapid tenant betray ethics swallow evidence amateur gossip country";
+var mnemonic = "try bachelor tip excess donate bring rebel diagram medal draw scheme skill";

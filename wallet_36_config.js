@@ -1,1 +1,1 @@
-var mnemonic = "garden mind sword panel pony fantasy note mean rally blur alarm horror";
+var mnemonic = "square warfare hand sort scan response strike salt road husband outside canoe";

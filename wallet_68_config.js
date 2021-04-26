@@ -1,1 +1,1 @@
-var mnemonic = "arrange system tenant fossil rabbit myth bracket drip help firm edge razor";
+var mnemonic = "mobile prevent merry level domain endorse victory cupboard valid minute cross frame";

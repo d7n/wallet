@@ -1,1 +1,1 @@
-var mnemonic = "income viable promote review worry side table timber grief above vapor large";
+var mnemonic = "power page because peasant history roof search baby praise drive mosquito always";

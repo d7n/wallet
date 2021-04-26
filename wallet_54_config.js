@@ -1,1 +1,1 @@
-var mnemonic = "wall century safe pill sister such hen rely rabbit sign mean opinion";
+var mnemonic = "crazy raccoon omit snow reason bright jump parrot begin agree subway jar";

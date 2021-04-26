@@ -1,1 +1,1 @@
-var mnemonic = "deal degree tiny trial dumb search dragon round obtain salt adult first";
+var mnemonic = "reform farm hold guilt cement under boat wisdom harbor squeeze warm predict";

@@ -1,1 +1,1 @@
-var mnemonic = "correct junk bracket spy bike ugly fiscal humble stereo distance enlist you";
+var mnemonic = "goddess entire foster frog ivory menu mercy original fade together hover ostrich";

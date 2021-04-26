@@ -1,1 +1,1 @@
-var mnemonic = "bind view pizza steak such hurt vanish behave round indicate sock name";
+var mnemonic = "bullet identify dragon today dice kingdom betray balcony office unveil fat gentle";

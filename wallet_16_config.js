@@ -1,1 +1,1 @@
-var mnemonic = "situate gadget diamond occur spoil scare lyrics video raw bounce mixture sport";
+var mnemonic = "bulb cheap air indicate critic happy motor decorate split job tired copper";

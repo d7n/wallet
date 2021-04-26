@@ -1,1 +1,1 @@
-var mnemonic = "rail prepare congress depart brief animal note demand bundle nature start chicken";
+var mnemonic = "engage video rule chicken fluid hill decrease rocket fossil action meadow rough";

@@ -1,1 +1,1 @@
-var mnemonic = "orchard desk spawn oval eyebrow lava mean brisk whale ride blade liar";
+var mnemonic = "small slogan piano enable matrix fence library slow panel noodle swap voice";

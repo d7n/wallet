@@ -1,1 +1,1 @@
-var mnemonic = "tool theme rose bicycle all purpose craft reason meadow reform sleep crowd";
+var mnemonic = "sleep usual atom lizard shallow tower provide still wall frequent will cage";

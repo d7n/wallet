@@ -1,1 +1,1 @@
-var mnemonic = "chat edge hospital rather car bar true era car educate cycle verify";
+var mnemonic = "column blind where inside bleak crush clown exact local exile little genuine";

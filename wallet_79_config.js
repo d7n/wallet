@@ -1,1 +1,1 @@
-var mnemonic = "mosquito adjust sport turkey inch creek shoe argue swallow thing decline push";
+var mnemonic = "rack peace junior twist prepare behind hidden office scorpion response fit side";

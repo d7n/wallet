@@ -1,1 +1,1 @@
-var mnemonic = "tongue rhythm keep time toward custom board divide spider cup doll net";
+var mnemonic = "pair smile scheme income vague rocket rural metal renew famous then weekend";

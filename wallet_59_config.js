@@ -1,1 +1,1 @@
-var mnemonic = "slim foil question damp rival december ensure bulb giggle antique spy rabbit";
+var mnemonic = "system wave blue asset buffalo local fossil zero account appear vivid keep";

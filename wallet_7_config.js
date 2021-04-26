@@ -1,1 +1,1 @@
-var mnemonic = "solid adapt order rocket same soap summer orchard vintage wave pull fan";
+var mnemonic = "merit city charge law language ring flame glow thing pigeon gather help";

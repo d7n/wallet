@@ -1,1 +1,1 @@
-var mnemonic = "foam drift survey stick carry jar wrestle domain seminar sight remain anxiety";
+var mnemonic = "nut brush crime sniff brass tragic nuclear purity order clown hedgehog minimum";

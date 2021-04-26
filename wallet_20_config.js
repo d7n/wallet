@@ -1,1 +1,1 @@
-var mnemonic = "casual flush apple time daring cause measure forum crash word taste measure";
+var mnemonic = "mercy merit beach relax opera village sibling mother potato wisdom engine action";

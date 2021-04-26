@@ -1,1 +1,1 @@
-var mnemonic = "panther bulb crumble resemble palm they inherit layer scrap toe noble keen";
+var mnemonic = "fish card virus lounge suggest enforce arctic rebuild culture fatigue dry situate";

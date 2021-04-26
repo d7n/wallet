@@ -1,1 +1,1 @@
-var mnemonic = "thing security asthma second elevator push dolphin order team dust lemon wagon";
+var mnemonic = "glove exhibit accident amount maze sadness neglect tomorrow vault outdoor law finish";

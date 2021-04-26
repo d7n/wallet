@@ -1,1 +1,1 @@
-var mnemonic = "bonus velvet satoshi text century estate tree nest device abstract trash hurry";
+var mnemonic = "lion moon peace business comfort panther receive any empty above canal trial";

@@ -1,1 +1,1 @@
-var mnemonic = "nest gap jeans guess purpose member deputy muscle wealth power calm better";
+var mnemonic = "sense joke around clay humble cancel all force student banner spawn bone";

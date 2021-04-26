@@ -1,1 +1,1 @@
-var mnemonic = "wealth report oven follow shaft coyote echo nature beauty expand apple walnut";
+var mnemonic = "whisper glory oak knife ancient raccoon adult file start vacant vanish grab";

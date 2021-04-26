@@ -1,1 +1,1 @@
-var mnemonic = "color evoke below laptop tooth weather annual way dial horror endless cram";
+var mnemonic = "until social able deliver farm giraffe wash science laundry portion smile light";

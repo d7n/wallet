@@ -1,1 +1,1 @@
-var mnemonic = "believe throw sleep avocado oxygen general stereo radio copper brisk world poet";
+var mnemonic = "obtain tissue review urge tank sun kit grape reward art chest material";

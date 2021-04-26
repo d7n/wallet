@@ -1,1 +1,1 @@
-var mnemonic = "reveal pudding pitch prosper sniff trick tower spider planet census anxiety jazz";
+var mnemonic = "foam best pizza quiz path knee collect hood antenna pepper brass essay";

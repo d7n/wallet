@@ -1,1 +1,1 @@
-var mnemonic = "cube fresh plate wood source mind glue february law dismiss aisle police";
+var mnemonic = "prepare crack alpha state celery abuse immune hip pole track poet physical";

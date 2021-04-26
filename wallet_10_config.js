@@ -1,1 +1,1 @@
-var mnemonic = "park flame tennis ozone squeeze strike erupt average razor cover adapt skate";
+var mnemonic = "drill brave master ask panel parent idle like climb sort media iron";

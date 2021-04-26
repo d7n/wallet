@@ -1,1 +1,1 @@
-var mnemonic = "inmate toilet target biology auction clarify firm turn angry huge ship method";
+var mnemonic = "remind polar easily heart asset pottery shrug gloom squeeze million faith sail";

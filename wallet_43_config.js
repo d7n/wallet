@@ -1,1 +1,1 @@
-var mnemonic = "swallow rib mail raven battle style pull image blossom obvious soccer tribe";
+var mnemonic = "zero image banner leave audit use crew morning chronic skill voice lumber";

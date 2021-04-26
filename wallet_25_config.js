@@ -1,1 +1,1 @@
-var mnemonic = "search panic wide two renew spawn result right exotic cactus diamond erosion";
+var mnemonic = "inform valley they amateur same jar more boring van equip bulb frozen";

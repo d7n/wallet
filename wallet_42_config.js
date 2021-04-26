@@ -1,1 +1,1 @@
-var mnemonic = "joy donkey salmon tray small laundry public mail hub armor strong huge";
+var mnemonic = "hint borrow loud indicate bring bounce shallow vacuum dawn young pull umbrella";

@@ -1,1 +1,1 @@
-var mnemonic = "gentle noise copper anxiety join buyer entry shallow smile mechanic token pill";
+var mnemonic = "either region caught ramp enough vital climb spike credit brass stomach matter";

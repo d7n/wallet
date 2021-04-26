@@ -1,1 +1,1 @@
-var mnemonic = "cage coyote salmon index ivory movie pioneer submit wine gossip slab enact";
+var mnemonic = "put sad drama rebel art drop grunt island machine note message baby";

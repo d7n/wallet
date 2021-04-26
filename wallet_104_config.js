@@ -1,1 +1,1 @@
-var mnemonic = "one loud library apart morning list combine design puppy federal cave royal";
+var mnemonic = "solid output concert seat sponsor penalty soda coin web orange crisp since";

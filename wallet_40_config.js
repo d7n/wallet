@@ -1,1 +1,1 @@
-var mnemonic = "army remind mouse permit few tail tourist guitar move relief urge stove";
+var mnemonic = "pond miracle industry tent immune assume custom print spare dune link maze";

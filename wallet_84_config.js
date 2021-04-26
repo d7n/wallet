@@ -1,1 +1,1 @@
-var mnemonic = "visual wisdom wreck wonder decline feel regret bronze cloth all improve garment";
+var mnemonic = "control panda advance leg maid tattoo giraffe during multiply eagle split puzzle";

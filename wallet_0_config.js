@@ -1,1 +1,1 @@
-var mnemonic = "vehicle remain logic ball lunch sport property alpha calm build bubble film";
+var mnemonic = "jungle fault order memory illness enhance impact year hello exist neglect awful";

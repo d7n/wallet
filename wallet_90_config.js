@@ -1,1 +1,1 @@
-var mnemonic = "gym silent erupt museum scatter lobster naive maple good tortoise choose toy";
+var mnemonic = "lucky squirrel unknown cement review agree link glide blast call make try";

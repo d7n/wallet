@@ -1,1 +1,1 @@
-var mnemonic = "current issue fork exhaust stadium degree caution chest small similar fringe solution";
+var mnemonic = "bundle oven sick record since start corn lemon human minimum garment scout";

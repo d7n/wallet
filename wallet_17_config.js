@@ -1,1 +1,1 @@
-var mnemonic = "donkey horror endorse bullet rubber stamp economy famous exhibit clutch cram broccoli";
+var mnemonic = "mail peace still swarm ostrich snap satoshi come media web mercy carry";

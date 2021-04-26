@@ -1,1 +1,1 @@
-var mnemonic = "picnic pull apple family sister prison skin dinner absurd device brisk skull";
+var mnemonic = "flash agree supply rate soda push patrol biology world rebuild oak stone";

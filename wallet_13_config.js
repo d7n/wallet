@@ -1,1 +1,1 @@
-var mnemonic = "certain field truly wolf dune into receive stone prevent olympic enable sugar";
+var mnemonic = "junk fame heart post cattle planet captain resource mean grain toilet return";

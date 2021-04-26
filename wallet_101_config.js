@@ -1,1 +1,1 @@
-var mnemonic = "jaguar inside mansion glove kit crystal iron call arena wolf eight panther";
+var mnemonic = "salt between update remind hope dry caution pepper wife update side math";

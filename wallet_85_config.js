@@ -1,1 +1,1 @@
-var mnemonic = "quarter still ivory online glory choose sweet plate clarify mouse patch beauty";
+var mnemonic = "dolphin attend turkey busy torch modify juice wedding obscure honey rose trial";

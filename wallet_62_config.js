@@ -1,1 +1,1 @@
-var mnemonic = "warm high reopen december bulk champion luggage romance noise hobby hard debris";
+var mnemonic = "build approve demise bitter thumb treat march mixed long wine fresh beauty";

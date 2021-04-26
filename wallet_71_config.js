@@ -1,1 +1,1 @@
-var mnemonic = "tail spin clutch sheriff box satisfy absent ensure advice enroll chunk hunt";
+var mnemonic = "later melody water crouch hold until dragon eagle village gift identify code";

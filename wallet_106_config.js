@@ -1,1 +1,1 @@
-var mnemonic = "three cool price know frozen multiply vivid century north fatigue deputy wheat";
+var mnemonic = "cloth festival fall list bronze segment maple jelly famous genuine left onion";

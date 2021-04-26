@@ -1,1 +1,1 @@
-var mnemonic = "barrel girl impact mobile real occur entire gain near truly mention hollow";
+var mnemonic = "rebel atom deliver skin try grass march prefer tag actor figure oven";

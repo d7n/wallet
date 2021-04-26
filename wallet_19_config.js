@@ -1,1 +1,1 @@
-var mnemonic = "fury trip divert already panda rally mom help pistol lucky defense scatter";
+var mnemonic = "supreme law rough believe never arrow anxiety kitten zebra remind universe victory";

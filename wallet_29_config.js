@@ -1,1 +1,1 @@
-var mnemonic = "layer live joy sure wonder brief coffee bounce unhappy wife salute badge";
+var mnemonic = "solution together bitter swear fashion aspect genre snap across embody gate include";

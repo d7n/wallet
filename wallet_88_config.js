@@ -1,1 +1,1 @@
-var mnemonic = "wall exotic road fringe ethics border horn range poet inhale drive tower";
+var mnemonic = "broom earth select diesel switch prosper omit pass outdoor various sell elephant";

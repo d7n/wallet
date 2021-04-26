@@ -1,1 +1,1 @@
-var mnemonic = "forward fringe length leader flush dolphin scatter alter engine certain crumble nest";
+var mnemonic = "sand scout basket install treat chapter drum village morning burst lawsuit excite";
