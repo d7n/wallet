@@ -1,1 +1,1 @@
-var mnemonic = "latin rail neutral away capital butter subway ensure sense roast drop opera";
+var mnemonic = "shoot garbage brand wave change auto loud topic subject tape syrup tomato";

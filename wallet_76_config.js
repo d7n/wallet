@@ -1,1 +1,1 @@
-var mnemonic = "divert parade pepper prison bind cram school family train report near trial";
+var mnemonic = "arch search tackle tower broken stage magic grit wait smart follow frame";

@@ -1,1 +1,1 @@
-var mnemonic = "knife federal lizard slide catalog fabric belt census aware love inflict basket";
+var mnemonic = "analyst evoke crumble there soldier sea galaxy hen syrup nerve toward spider";

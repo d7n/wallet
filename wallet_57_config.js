@@ -1,1 +1,1 @@
-var mnemonic = "viable smoke rain march empty penalty bless apart finger trim math race";
+var mnemonic = "promote disorder seven globe drill alien cruel peasant tag excite sadness call";

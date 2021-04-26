@@ -1,1 +1,1 @@
-var mnemonic = "recipe make inside face choose scare team control picture destroy tent protect";
+var mnemonic = "ill jump install panic lens soda buzz absorb suggest saddle robot laptop";

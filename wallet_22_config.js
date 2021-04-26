@@ -1,1 +1,1 @@
-var mnemonic = "regret list roof ring trouble diamond aisle slice suspect obscure cycle define";
+var mnemonic = "layer always school manage peace alley seed wrap gasp warm winner goose";

@@ -1,1 +1,1 @@
-var mnemonic = "immense escape firm insane master ozone ignore rich husband design spatial trumpet";
+var mnemonic = "cannon tomorrow camp twin drum canyon canal salute bacon spatial elite rhythm";

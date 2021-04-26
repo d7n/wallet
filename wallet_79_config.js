@@ -1,1 +1,1 @@
-var mnemonic = "talk glory expose outside hen enjoy ethics fortune skill sugar honey tray";
+var mnemonic = "manual ocean belt egg detail replace civil idea rose debate garbage climb";

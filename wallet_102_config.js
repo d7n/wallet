@@ -1,1 +1,1 @@
-var mnemonic = "candy anxiety pudding average success sheriff garden shrug observe melody cup bundle";
+var mnemonic = "draft comic camera goddess cool share minor science plastic floor immense imitate";

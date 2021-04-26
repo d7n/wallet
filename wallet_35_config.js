@@ -1,1 +1,1 @@
-var mnemonic = "movie broccoli home need evil width road outer pilot source duty defy";
+var mnemonic = "bridge top number swamp behind mad speak submit install nation ocean exclude";

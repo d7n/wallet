@@ -1,1 +1,1 @@
-var mnemonic = "motor toe skirt skirt increase method result battle picnic night luxury guard";
+var mnemonic = "weasel insect fortune time office country scene suffer wealth regret stay student";

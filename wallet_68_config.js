@@ -1,1 +1,1 @@
-var mnemonic = "maple very camera bacon gentle harsh announce follow turkey goddess useful day";
+var mnemonic = "label vicious book child height stairs program toddler egg cloth orange private";

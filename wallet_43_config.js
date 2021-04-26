@@ -1,1 +1,1 @@
-var mnemonic = "grant master immense tomato broccoli hurdle bulk budget fine kind visit acoustic";
+var mnemonic = "peasant left either must invite action monitor museum forum diary endless vintage";

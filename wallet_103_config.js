@@ -1,1 +1,1 @@
-var mnemonic = "fame glue effort today improve frost obey upper rubber coffee punch lobster";
+var mnemonic = "any consider pottery only novel knock protect rib deliver mountain benefit visit";

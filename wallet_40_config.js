@@ -1,1 +1,1 @@
-var mnemonic = "remove neutral arch trip surge vibrant idea weather curve chronic evoke risk";
+var mnemonic = "curve skin grunt clay actress kitten train lion web island chief foil";

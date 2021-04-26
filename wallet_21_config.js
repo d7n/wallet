@@ -1,1 +1,1 @@
-var mnemonic = "floor fly tip circle order shaft swing acquire hub chest shop twist";
+var mnemonic = "legend invite rhythm rice tone embody isolate bless spot family wall hospital";

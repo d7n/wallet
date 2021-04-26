@@ -1,1 +1,1 @@
-var mnemonic = "kind elbow torch page cushion click pencil burger thank frost face green";
+var mnemonic = "crop ask sell pencil weapon slab tool seminar general under creek car";

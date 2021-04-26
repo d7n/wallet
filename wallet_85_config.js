@@ -1,1 +1,1 @@
-var mnemonic = "loan possible gallery tragic focus width carbon rhythm derive screen magnet relax";
+var mnemonic = "script detail slab accident cart color chicken move govern mandate grain oak";

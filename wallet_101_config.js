@@ -1,1 +1,1 @@
-var mnemonic = "tent question great unusual question miss feel sweet owner sausage undo lava";
+var mnemonic = "gadget coffee list update ritual family language camera grow rely tower rose";

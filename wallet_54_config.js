@@ -1,1 +1,1 @@
-var mnemonic = "stool youth ocean sail point ethics industry basket what close foot keep";
+var mnemonic = "choose oak ball history entry horse program camera sunny another replace sort";

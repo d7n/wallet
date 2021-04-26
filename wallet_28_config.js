@@ -1,1 +1,1 @@
-var mnemonic = "risk across price sight task rule symbol open reform donor velvet patient";
+var mnemonic = "awkward giant leader auction menu cream own bid swim three dawn zebra";

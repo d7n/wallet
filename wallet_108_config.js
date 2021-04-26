@@ -1,1 +1,1 @@
-var mnemonic = "return equip horn employ autumn rifle differ gun jungle increase chapter topple";
+var mnemonic = "plunge bench word slot swamp mobile urban almost grunt code lava sword";

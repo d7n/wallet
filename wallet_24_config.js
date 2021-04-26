@@ -1,1 +1,1 @@
-var mnemonic = "actress fatigue unique enhance fruit already limit rent time picture over romance";
+var mnemonic = "theme pact crumble column deer symbol heavy bullet chalk first often spatial";

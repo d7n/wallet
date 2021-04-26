@@ -1,1 +1,1 @@
-var mnemonic = "attract nothing disorder craft convince aware pair antenna prosper peasant rely place";
+var mnemonic = "horse patient just final army surprise jacket fiction slide easily humor journey";

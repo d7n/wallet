@@ -1,1 +1,1 @@
-var mnemonic = "exclude pudding cake van hair blanket bronze blood lunar mandate pool eye";
+var mnemonic = "crucial planet observe face first toe sphere possible device armed olympic imitate";

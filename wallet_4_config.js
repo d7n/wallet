@@ -1,1 +1,1 @@
-var mnemonic = "method potato airport believe twice edge bright soon omit hint wood december";
+var mnemonic = "poet fruit name address deputy push cheap skin unit mail amount asset";

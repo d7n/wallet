@@ -1,1 +1,1 @@
-var mnemonic = "inspire disease nominee setup merry glove mechanic science leopard gun doll waste";
+var mnemonic = "arrive renew invest rug junior tribe steel sister banner attack announce image";

@@ -1,1 +1,1 @@
-var mnemonic = "mother elbow fringe beauty hover pitch degree blanket license table sing maid";
+var mnemonic = "pause right diet tray size illness slot original butter afraid bright holiday";

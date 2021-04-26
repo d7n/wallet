@@ -1,1 +1,1 @@
-var mnemonic = "any evoke rough three voice quit topple buffalo coach horn talk tilt";
+var mnemonic = "doll invite spawn cupboard vital track hammer century wide rate olive design";

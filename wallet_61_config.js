@@ -1,1 +1,1 @@
-var mnemonic = "donate girl lizard omit weather boss crew lucky try glow ceiling life";
+var mnemonic = "clay puppy sing riot ghost penalty diagram quick flower library scan just";

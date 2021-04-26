@@ -1,1 +1,1 @@
-var mnemonic = "blame rain scare other car turtle skull congress million observe bomb someone";
+var mnemonic = "torch toss wrong ice cabin cause kitchen motion indicate clump luggage swift";

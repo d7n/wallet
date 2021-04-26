@@ -1,1 +1,1 @@
-var mnemonic = "rain input chapter tank ripple oxygen orchard iron input injury eye true";
+var mnemonic = "open correct slab truly craft cliff best slim cost awesome warm left";

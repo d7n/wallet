@@ -1,1 +1,1 @@
-var mnemonic = "spread remain assist smoke mutual long shaft call soft stamp analyst switch";
+var mnemonic = "jelly lava prepare trumpet panic husband fire dinosaur cigar across promote misery";

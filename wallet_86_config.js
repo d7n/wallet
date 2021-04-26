@@ -1,1 +1,1 @@
-var mnemonic = "minimum mimic machine all smile critic domain fringe shadow wish umbrella slot";
+var mnemonic = "vintage point prison fancy warm morning valve churn dinner harbor desert planet";

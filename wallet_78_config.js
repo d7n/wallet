@@ -1,1 +1,1 @@
-var mnemonic = "deposit weird blind increase iron dust phrase poet problem auction below crew";
+var mnemonic = "fall upset subway long critic kiss tornado trip beauty crumble battle correct";

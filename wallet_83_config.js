@@ -1,1 +1,1 @@
-var mnemonic = "catalog confirm account curve material noise three punch club pole wisdom join";
+var mnemonic = "churn truth swarm crystal oven calm bring protect exact bulb crater rude";

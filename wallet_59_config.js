@@ -1,1 +1,1 @@
-var mnemonic = "orient achieve celery glad swamp input lava squirrel glide bulb walnut basket";
+var mnemonic = "depth burst atom can symbol upper short federal identify gift street return";

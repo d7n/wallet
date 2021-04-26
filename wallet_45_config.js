@@ -1,1 +1,1 @@
-var mnemonic = "sad grunt fortune adult pave picture breeze soup bamboo tomorrow erode garlic";
+var mnemonic = "neutral fiber original lens chase expire depend van lens intact fun cross";

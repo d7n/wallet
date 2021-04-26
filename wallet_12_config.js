@@ -1,1 +1,1 @@
-var mnemonic = "moral member educate horn that slide funny joke hold glove opera slam";
+var mnemonic = "drastic unaware biology slice drill verify salad neither joy dilemma account fix";

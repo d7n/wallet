@@ -1,1 +1,1 @@
-var mnemonic = "unfold multiply cook cushion curtain method destroy alien output law slot salon";
+var mnemonic = "property rebuild often used sphere cabbage topic arena above autumn claw zone";

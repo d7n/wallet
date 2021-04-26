@@ -1,1 +1,1 @@
-var mnemonic = "rule hand list demise trumpet copy hub crazy vapor discover envelope exchange";
+var mnemonic = "elephant copper color start decorate menu october forget second giant decrease list";

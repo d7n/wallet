@@ -1,1 +1,1 @@
-var mnemonic = "spring close eager patch insane broom crowd you work when need wrap";
+var mnemonic = "emotion tomorrow eye that infant outside certain hour scare lunch window useless";

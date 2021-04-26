@@ -1,1 +1,1 @@
-var mnemonic = "bamboo obvious glide diet wheat door salt anxiety viable now embody boat";
+var mnemonic = "frequent pen coast endorse aisle bar expire wonder reform narrow glad volcano";

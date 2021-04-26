@@ -1,1 +1,1 @@
-var mnemonic = "simple loan talk vivid describe pulp predict cattle tornado long enable cream";
+var mnemonic = "home mixture green repeat vicious plastic ladder fabric security margin rough sad";

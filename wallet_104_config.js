@@ -1,1 +1,1 @@
-var mnemonic = "involve deliver gold lobster pioneer elephant language range sunny message fruit pigeon";
+var mnemonic = "sadness excess grace domain vanish fantasy mercy lesson parent square account lock";

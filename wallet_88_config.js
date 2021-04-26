@@ -1,1 +1,1 @@
-var mnemonic = "document feel spider evil elegant detect edit diary own confirm tortoise blind";
+var mnemonic = "rule animal hold make scout month load boost aim eagle regular unveil";

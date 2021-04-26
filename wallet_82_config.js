@@ -1,1 +1,1 @@
-var mnemonic = "echo frequent glass nose pistol deposit whip nothing unhappy lock leopard coast";
+var mnemonic = "debate crane spawn celery exercise remove million slim leader surface cage promote";

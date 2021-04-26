@@ -1,1 +1,1 @@
-var mnemonic = "fine doll side panic sign regular clutch twice punch frost cross south";
+var mnemonic = "art green uncle dial nut sniff night young flash proud stereo genre";

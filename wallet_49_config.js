@@ -1,1 +1,1 @@
-var mnemonic = "photo story insect mail elder figure portion unusual pony series service layer";
+var mnemonic = "brief lawsuit grocery moon pudding multiply equal cream casino body brain salute";

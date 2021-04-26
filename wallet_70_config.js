@@ -1,1 +1,1 @@
-var mnemonic = "enter legal cement south net net raven kit unable material eternal grass";
+var mnemonic = "cat multiply remind distance machine cable access pupil next afraid live child";

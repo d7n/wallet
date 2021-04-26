@@ -1,1 +1,1 @@
-var mnemonic = "luxury crash draw web brush main alarm code clinic train way hammer";
+var mnemonic = "dad feed opera zebra smile mix tomato robust few barrel worry ski";

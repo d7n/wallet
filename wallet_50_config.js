@@ -1,1 +1,1 @@
-var mnemonic = "mystery fence detail visit gift need scale cat canal boy awkward transfer";
+var mnemonic = "ribbon liberty erosion claw profit omit wheel visual deposit random brain timber";

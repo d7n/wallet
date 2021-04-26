@@ -1,1 +1,1 @@
-var mnemonic = "music smart fury grab height photo debris wrap gain lottery egg coil";
+var mnemonic = "private enough multiply tribe when feed act salmon frog lottery delay anger";

@@ -1,1 +1,1 @@
-var mnemonic = "wrist rare wing welcome sun reunion opera sure student orange clarify immune";
+var mnemonic = "demise pattern zoo audit foil ozone achieve clog coach muscle letter future";

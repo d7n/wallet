@@ -1,1 +1,1 @@
-var mnemonic = "false point collect mushroom dolphin blast move judge spin ancient visa cannon";
+var mnemonic = "inquiry tonight ranch around woman brisk knife say fashion pass width render";

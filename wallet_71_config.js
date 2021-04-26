@@ -1,1 +1,1 @@
-var mnemonic = "street wing sorry record color sound quote bullet arctic movie brief rack";
+var mnemonic = "yard furnace shed honey bulk donor beach daughter clarify vibrant sudden topic";

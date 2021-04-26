@@ -1,1 +1,1 @@
-var mnemonic = "know beef broccoli please tell alter evidence race journey ready aspect electric";
+var mnemonic = "gap atom ivory grief orphan heavy borrow anxiety degree depend solution theme";

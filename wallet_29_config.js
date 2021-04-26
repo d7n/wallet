@@ -1,1 +1,1 @@
-var mnemonic = "gossip giant control wife miracle view satisfy alert bracket inner resist under";
+var mnemonic = "kangaroo vast garment grief left media adapt ugly spring report sell mechanic";

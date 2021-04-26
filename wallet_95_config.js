@@ -1,1 +1,1 @@
-var mnemonic = "success heart slogan atom brush tiger surface dash engage caught bridge vintage";
+var mnemonic = "obtain doll medal finish insane cute female alpha gasp you recipe easy";

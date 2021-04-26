@@ -1,1 +1,1 @@
-var mnemonic = "brush call just gallery intact alcohol umbrella clump family pluck private crew";
+var mnemonic = "tree marble blast confirm weekend bag limit run dune palm outside slow";

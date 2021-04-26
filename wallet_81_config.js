@@ -1,1 +1,1 @@
-var mnemonic = "project cube million beach squirrel rocket focus mixed solar nut pet pumpkin";
+var mnemonic = "vivid meat heart off recall eternal timber ceiling invite slight manual submit";

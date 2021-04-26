@@ -1,1 +1,1 @@
-var mnemonic = "play sadness gym nephew poem want motion crawl cage weather card obtain";
+var mnemonic = "girl rifle walk whale huge across burger gate typical cattle effort swift";

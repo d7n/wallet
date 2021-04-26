@@ -1,1 +1,1 @@
-var mnemonic = "embrace intact debate phone dolphin story demand sleep cake utility fresh error";
+var mnemonic = "bracket reduce dismiss fog luggage between later crane snap crawl subject ride";

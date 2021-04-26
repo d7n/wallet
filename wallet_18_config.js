@@ -1,1 +1,1 @@
-var mnemonic = "loop label lion curious sentence blind interest bitter click soon skull infant";
+var mnemonic = "original into ritual exercise book fashion process truth push grief stand online";

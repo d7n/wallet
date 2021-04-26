@@ -1,1 +1,1 @@
-var mnemonic = "thumb frequent hawk buyer upon renew dignity property banner artefact assume quote";
+var mnemonic = "flat morning brother again attract boy silk destroy another guess satoshi web";

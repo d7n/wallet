@@ -1,1 +1,1 @@
-var mnemonic = "author quit zoo empty emotion latin relax destroy soap soul tower clip";
+var mnemonic = "frequent hobby express swim coast zone tonight bamboo glow sunny calm analyst";

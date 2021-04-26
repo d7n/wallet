@@ -1,1 +1,1 @@
-var mnemonic = "thought scan goddess chalk april twist badge upset design reunion cart jazz";
+var mnemonic = "another salute frozen word genuine ecology culture marine panda arena fault science";

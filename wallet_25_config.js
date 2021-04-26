@@ -1,1 +1,1 @@
-var mnemonic = "now diet enhance already primary domain chat kitten anchor blur exchange moon";
+var mnemonic = "test lady frog gaze response dream laptop moral camera fat merry kite";

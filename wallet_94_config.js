@@ -1,1 +1,1 @@
-var mnemonic = "annual orchard hood coach quiz sauce will monster rookie donate abuse cram";
+var mnemonic = "agent marble cushion name time flat jewel pull income fire worth fox";

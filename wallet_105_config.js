@@ -1,1 +1,1 @@
-var mnemonic = "flag ability cupboard stock script parade wine artist giraffe minimum erase evoke";
+var mnemonic = "danger age cheap thought orange dry notice task liberty guess kangaroo ability";

@@ -1,1 +1,1 @@
-var mnemonic = "dad frozen top script cross nation humble way yellow wash search retreat";
+var mnemonic = "sand small team pipe section add salon brick cricket kit sting exclude";

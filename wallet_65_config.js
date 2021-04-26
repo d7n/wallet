@@ -1,1 +1,1 @@
-var mnemonic = "sun load connect glide wear bag among category ice absurd october leader";
+var mnemonic = "field vast intact twenty universe reward rally market income theme brisk decide";

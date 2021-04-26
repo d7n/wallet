@@ -1,1 +1,1 @@
-var mnemonic = "cupboard south kind blood forget stumble damp artefact error panel sword business";
+var mnemonic = "coin rocket crazy illness lazy lounge explain stomach able swing loan city";

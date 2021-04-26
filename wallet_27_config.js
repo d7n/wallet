@@ -1,1 +1,1 @@
-var mnemonic = "jump party life hen bullet knee rug advice stock post more angle";
+var mnemonic = "possible forward camp basket twenty police toward rude original faith usual science";

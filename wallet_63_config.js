@@ -1,1 +1,1 @@
-var mnemonic = "joke dry help brain steel case action duty build stadium swift select";
+var mnemonic = "benefit excuse tunnel black cube heart shift charge kidney crystal rather expand";

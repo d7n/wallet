@@ -1,1 +1,1 @@
-var mnemonic = "rifle lift lens forest walnut maximum brand wine history settle camp usage";
+var mnemonic = "badge fat canal congress pill toy photo rescue know accuse such quiz";

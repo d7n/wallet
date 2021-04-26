@@ -1,1 +1,1 @@
-var mnemonic = "owner hurt error among enter relax endless motion neglect across joke twin";
+var mnemonic = "discover depart recycle consider hamster used brand night enjoy tube panther demise";

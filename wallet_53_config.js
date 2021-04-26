@@ -1,1 +1,1 @@
-var mnemonic = "grow harsh pigeon fatigue sing dream differ mix age chair box local";
+var mnemonic = "guilt solid matrix rescue tragic pipe furnace pink drop matter endorse wave";

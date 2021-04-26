@@ -1,1 +1,1 @@
-var mnemonic = "material already solution output document empower barely random copy amateur video suggest";
+var mnemonic = "bag palm reflect talent oak lemon digital mechanic slab good rack goat";

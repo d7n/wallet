@@ -1,1 +1,1 @@
-var mnemonic = "tortoise wrap six boring blossom oppose awake dismiss amateur reunion chest orbit";
+var mnemonic = "august smart awkward account popular fence harsh tired oval fetch crush blue";

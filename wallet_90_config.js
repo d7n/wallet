@@ -1,1 +1,1 @@
-var mnemonic = "brisk kid away blast shrug clean cage lift slot train dinosaur holiday";
+var mnemonic = "borrow control brief edge parrot scissors butter force mushroom lizard empower can";

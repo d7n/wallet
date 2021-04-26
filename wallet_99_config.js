@@ -1,1 +1,1 @@
-var mnemonic = "arrive gap valid denial river shift power sample hip involve either truck";
+var mnemonic = "mosquito quarter liquid hope breeze clump cash neither liar spot fuel celery";

@@ -1,1 +1,1 @@
-var mnemonic = "swallow stock kite into mom ceiling peanut genre hen tool chat shrimp";
+var mnemonic = "test tiny congress veteran photo sniff box crush pulp bundle clever gauge";

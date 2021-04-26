@@ -1,1 +1,1 @@
-var mnemonic = "coach trial chronic crisp apology glow confirm weather include hover produce social";
+var mnemonic = "key fancy invite exhaust orange tube member buddy loyal pitch ancient indicate";

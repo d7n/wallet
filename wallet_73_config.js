@@ -1,1 +1,1 @@
-var mnemonic = "vocal tip correct danger duty rural insane ten pride much narrow crash";
+var mnemonic = "various tennis direct strategy snow lawsuit depend catch belt judge success car";

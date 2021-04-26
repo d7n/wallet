@@ -1,1 +1,1 @@
-var mnemonic = "ridge primary dutch frequent trap stage unable category gap wing legal hotel";
+var mnemonic = "found scrap stone initial defense absent hole amazing half space farm industry";

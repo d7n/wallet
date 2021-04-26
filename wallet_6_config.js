@@ -1,1 +1,1 @@
-var mnemonic = "soap alert fantasy angle vacant whale century quick link auto chef payment";
+var mnemonic = "sister seek return obtain trim course churn clerk evoke ski empower derive";

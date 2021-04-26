@@ -1,1 +1,1 @@
-var mnemonic = "shiver match rebuild slam shadow pretty frost since like rail wrap cricket";
+var mnemonic = "soccer gloom life divert sadness flock film fall amazing album evoke unlock";

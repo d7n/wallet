@@ -1,1 +1,1 @@
-var mnemonic = "chapter concert crime rug chief fabric leisure hard wet visa sea fog";
+var mnemonic = "left stool wool drive woman ticket palm junior spread nasty weird coral";

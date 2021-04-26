@@ -1,1 +1,1 @@
-var mnemonic = "device sign jacket stable method upgrade steak radar expand million debris dial";
+var mnemonic = "cube weird elbow witness clay act mad pupil opinion pet problem rule";

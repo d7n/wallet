@@ -1,1 +1,1 @@
-var mnemonic = "hat pigeon flush brand charge worth label subway broccoli sting yard raw";
+var mnemonic = "dose canoe city tape jeans wheat pupil couch travel master trick car";

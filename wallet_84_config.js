@@ -1,1 +1,1 @@
-var mnemonic = "topic breeze wagon wash try when spray winner acoustic negative between entry";
+var mnemonic = "twin satisfy roast outer key forward chimney naive second fit enrich human";

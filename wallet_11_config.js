@@ -1,1 +1,1 @@
-var mnemonic = "flee yellow bunker cabbage trumpet cloud blood pass neck knife coil steak";
+var mnemonic = "crisp trust food cram crawl lottery accuse arrange enroll flee dust derive";

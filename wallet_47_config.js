@@ -1,1 +1,1 @@
-var mnemonic = "aerobic second rely erosion neutral accident kick heavy observe wet tenant share";
+var mnemonic = "very promote faith menu quantum reflect carpet feel salmon silver helmet glare";

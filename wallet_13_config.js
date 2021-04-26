@@ -1,1 +1,1 @@
-var mnemonic = "artwork help topic faculty ensure stable mirror main filter foam obey dish";
+var mnemonic = "volcano wolf husband duck icon torch ticket kiss boat bundle donkey hazard";

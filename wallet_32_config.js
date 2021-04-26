@@ -1,1 +1,1 @@
-var mnemonic = "hood crush lunch three chest jar century total ride survey jealous thrive";
+var mnemonic = "curve pupil turn engage glow box pact grief diet leg stable evoke";

@@ -1,1 +1,1 @@
-var mnemonic = "surge decrease polar clerk stereo raise faint survey pudding boy tail update";
+var mnemonic = "develop note seven wool laptop usual snow pumpkin pass search dragon cave";

@@ -1,1 +1,1 @@
-var mnemonic = "used vital fan absurd tackle spend write neither infant rare powder dignity";
+var mnemonic = "fox trap key story tooth stock ten cement relief damage glad canyon";

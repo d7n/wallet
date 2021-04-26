@@ -1,1 +1,1 @@
-var mnemonic = "lion shrimp furnace sweet pig reopen scene ancient meat sail legal inject";
+var mnemonic = "cool legend narrow ride fluid assault caution bunker fish load rude develop";
