@@ -1,1 +1,1 @@
-var mnemonic = "myth enemy circle corn divert inject pet stone route bounce tornado crumble";
+var mnemonic = "fence orchard carbon ankle gate uniform plastic phone ankle nothing cactus erase";

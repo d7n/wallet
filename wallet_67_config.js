@@ -1,1 +1,1 @@
-var mnemonic = "museum sand used toilet client oven wise outside vacuum forget east exhaust";
+var mnemonic = "tank scrap badge virus lift neglect foil act glove author walk weather";

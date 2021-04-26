@@ -1,1 +1,1 @@
-var mnemonic = "razor annual athlete doll private huge case gadget initial empower midnight like";
+var mnemonic = "visa kingdom gospel fantasy grass myth apple toe build hair mass tomato";

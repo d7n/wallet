@@ -1,1 +1,1 @@
-var mnemonic = "mail salmon nothing range company engine cliff eternal puzzle shield crime luggage";
+var mnemonic = "debris erode host more inflict measure pill meadow rabbit tiny focus busy";

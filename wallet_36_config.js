@@ -1,1 +1,1 @@
-var mnemonic = "oyster gun stay hospital apple earth boil few wonder wide rocket year";
+var mnemonic = "student afraid display guess protect vast doll educate scan crucial muscle appear";

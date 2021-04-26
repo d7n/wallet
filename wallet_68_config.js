@@ -1,1 +1,1 @@
-var mnemonic = "nut vendor mercy spatial equal retreat hub acid system venture invest flip";
+var mnemonic = "end gloom ship two comfort casual found asthma stable electric found witness";

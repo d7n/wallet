@@ -1,1 +1,1 @@
-var mnemonic = "forward mercy use feed maid cargo brick mean tone awake foot thrive";
+var mnemonic = "sock gasp toast wealth alarm vote element half air fortune soon derive";

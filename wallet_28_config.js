@@ -1,1 +1,1 @@
-var mnemonic = "imitate holiday easy imitate grass region chuckle monster ship change struggle way";
+var mnemonic = "medal fantasy gasp produce myth fuel infant harvest amateur eye mansion behave";

@@ -1,1 +1,1 @@
-var mnemonic = "device rural equip stadium outside drama drink impose round junk coast thank";
+var mnemonic = "length million message rocket doctor fit grace viable glimpse minor phrase want";

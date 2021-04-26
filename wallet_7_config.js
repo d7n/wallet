@@ -1,1 +1,1 @@
-var mnemonic = "fabric strategy cute satisfy festival february tattoo govern attitude abandon cherry title";
+var mnemonic = "possible upset cheap urge slim potato black rival first dune spare august";

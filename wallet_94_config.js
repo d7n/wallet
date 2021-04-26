@@ -1,1 +1,1 @@
-var mnemonic = "program sustain beef seven depart second crouch force base they affair churn";
+var mnemonic = "frequent wave bridge switch human oyster team parade scrap disorder sell gallery";

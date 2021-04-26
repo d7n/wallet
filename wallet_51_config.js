@@ -1,1 +1,1 @@
-var mnemonic = "useless travel farm home average only gesture promote ritual grid hurry square";
+var mnemonic = "mercy acid orphan husband heart copy face speak nurse peasant dash opera";

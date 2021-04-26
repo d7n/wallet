@@ -1,1 +1,1 @@
-var mnemonic = "fossil pole indicate tag desk sketch short retire shoe parade soul similar";
+var mnemonic = "secret ride couch click jacket innocent trouble inspire sure tag omit kiss";

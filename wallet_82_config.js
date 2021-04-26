@@ -1,1 +1,1 @@
-var mnemonic = "twenty quiz citizen setup unfold slim old kiss cash gloom detail shock";
+var mnemonic = "need milk exclude fog brass mouse wagon heavy van era fold reward";

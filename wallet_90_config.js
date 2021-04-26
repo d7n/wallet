@@ -1,1 +1,1 @@
-var mnemonic = "cheese danger embody fire clip exact distance nose bring column loop settle";
+var mnemonic = "cradle pottery panther visual close wasp endorse rigid entire such farm train";

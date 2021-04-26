@@ -1,1 +1,1 @@
-var mnemonic = "promote menu pigeon monster diamond prize allow blood badge flock ring radar";
+var mnemonic = "rescue ice shadow fold feel math consider seek quarter size whale steak";

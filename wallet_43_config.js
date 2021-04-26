@@ -1,1 +1,1 @@
-var mnemonic = "ring add emerge buffalo want chase math track flag slot delay must";
+var mnemonic = "leopard crawl pottery chair logic stamp impact caught valid remove caution copy";

@@ -1,1 +1,1 @@
-var mnemonic = "wolf connect recycle brisk laptop practice submit tortoise duty amateur aware bag";
+var mnemonic = "welcome opera void jazz mask clown crowd write tray anchor ribbon amazing";

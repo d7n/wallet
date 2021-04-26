@@ -1,1 +1,1 @@
-var mnemonic = "excess found regret castle holiday physical ignore snake badge toddler section occur";
+var mnemonic = "glare chat turtle index share sketch praise animal slush surround couch tone";

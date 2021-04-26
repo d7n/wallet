@@ -1,1 +1,1 @@
-var mnemonic = "hammer orchard nothing soul salon impose hunt country west real rubber push";
+var mnemonic = "body slam goat cause admit picture design duty index indoor panic tackle";

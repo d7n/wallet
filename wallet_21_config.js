@@ -1,1 +1,1 @@
-var mnemonic = "parent broom scheme mail delay shy jazz genre liar crater spy sorry";
+var mnemonic = "list strike husband lazy hurdle tongue atom deposit pyramid affair select clown";

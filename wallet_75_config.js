@@ -1,1 +1,1 @@
-var mnemonic = "industry leave fox holiday ice minimum wisdom orange category memory bullet radar";
+var mnemonic = "benefit doll little undo book strike champion stone garment curious pond crystal";

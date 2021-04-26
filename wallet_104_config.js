@@ -1,1 +1,1 @@
-var mnemonic = "candy recipe ripple favorite present country project industry gauge toilet type stool";
+var mnemonic = "blind pledge produce wrap oyster general flash absurd brown olive couch letter";

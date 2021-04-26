@@ -1,1 +1,1 @@
-var mnemonic = "minor canoe confirm thunder trial brief despair pull oppose enforce tobacco furnace";
+var mnemonic = "route defy alter key tired stairs mobile eyebrow rural brief sea around";

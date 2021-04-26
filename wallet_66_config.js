@@ -1,1 +1,1 @@
-var mnemonic = "tooth drastic belt cloud turn purchase federal valid can snap chimney shuffle";
+var mnemonic = "talent clever expire ripple cry bless cable final tent civil primary remind";

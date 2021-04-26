@@ -1,1 +1,1 @@
-var mnemonic = "maid steak apple family jealous vanish educate asthma basket slow party glue";
+var mnemonic = "pass another unfair prosper cannon rival swim mammal decorate wait purpose immense";

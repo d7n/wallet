@@ -1,1 +1,1 @@
-var mnemonic = "answer audit stove ethics bicycle toilet dune fluid confirm chronic raccoon faint";
+var mnemonic = "multiply park supply expect cat relax act spare sword purse erupt rug";

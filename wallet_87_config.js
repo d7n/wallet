@@ -1,1 +1,1 @@
-var mnemonic = "shove hamster tube gift aim exist sibling worth neither amateur pact torch";
+var mnemonic = "walnut clock ten roof party index tide course mountain subject asset glide";

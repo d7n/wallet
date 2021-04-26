@@ -1,1 +1,1 @@
-var mnemonic = "phone auction liquid pioneer tape cradle wagon when whisper grace lecture valley";
+var mnemonic = "hat rebel meadow dial valid rural intact fatigue expire execute aunt clerk";

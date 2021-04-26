@@ -1,1 +1,1 @@
-var mnemonic = "sample gallery point relax clever across bread feature ecology silver size vacuum";
+var mnemonic = "news exercise gaze panic auction fee raw leisure rather proud fall fancy";

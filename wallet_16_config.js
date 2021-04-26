@@ -1,1 +1,1 @@
-var mnemonic = "paddle interest planet hidden glove cigar runway index among skin retire depend";
+var mnemonic = "together left observe much unique resemble just asset punch siren example say";

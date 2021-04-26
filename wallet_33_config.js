@@ -1,1 +1,1 @@
-var mnemonic = "twice toe cushion talent pool peace point alarm nuclear mixed energy original";
+var mnemonic = "young admit bounce yellow clean crowd argue bargain fiction depth iron estate";

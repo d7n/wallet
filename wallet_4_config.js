@@ -1,1 +1,1 @@
-var mnemonic = "jacket tiger property bulk voyage health clock peasant soccer harvest miss silver";
+var mnemonic = "zebra media pudding gym palace camp opinion language urban version venture relief";

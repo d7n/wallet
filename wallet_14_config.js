@@ -1,1 +1,1 @@
-var mnemonic = "office senior excite person snow warm food trade devote velvet inflict insect";
+var mnemonic = "produce pulp bracket uniform discover range someone vote hen impose century leg";

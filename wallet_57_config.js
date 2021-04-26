@@ -1,1 +1,1 @@
-var mnemonic = "rifle sting undo deny kingdom practice improve plastic virus trust budget wrestle";
+var mnemonic = "guilt where sight obtain praise believe eye call cement knee swing index";

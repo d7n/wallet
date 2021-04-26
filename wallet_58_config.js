@@ -1,1 +1,1 @@
-var mnemonic = "tenant cigar casual draft crowd anxiety monster vault black daring venue vivid";
+var mnemonic = "there juice camp toilet divorce debate acquire message smart rebel morning mad";

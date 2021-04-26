@@ -1,1 +1,1 @@
-var mnemonic = "inspire mule wrestle belt health cable dragon husband convince derive vehicle romance";
+var mnemonic = "tube stool journey claim umbrella crunch supply duty thought lounge number powder";

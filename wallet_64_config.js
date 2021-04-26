@@ -1,1 +1,1 @@
-var mnemonic = "dawn barely believe chimney exit desk fiscal tattoo pottery inform spend east";
+var mnemonic = "pull clip tobacco invest raw carbon share section crowd level patrol accident";

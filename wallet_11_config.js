@@ -1,1 +1,1 @@
-var mnemonic = "silent nation wheat ship curve mirror blade test below deliver crop apple";
+var mnemonic = "code primary cruise exile gaze option universe monster limit dynamic infant debate";

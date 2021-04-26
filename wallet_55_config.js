@@ -1,1 +1,1 @@
-var mnemonic = "sail always avocado infant story lesson any pottery popular food grant ankle";
+var mnemonic = "zebra tennis sword bulb faith size struggle lemon there vanish song scan";

@@ -1,1 +1,1 @@
-var mnemonic = "debate between purity ring same chest call taxi metal fragile real sadness";
+var mnemonic = "rather only rack six more mass will canvas power you reject warfare";

@@ -1,1 +1,1 @@
-var mnemonic = "treat help tag lava regret brick night word estate toilet survey luggage";
+var mnemonic = "toward confirm whisper actual video enlist victory draft uniform pluck satoshi recycle";

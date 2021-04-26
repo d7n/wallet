@@ -1,1 +1,1 @@
-var mnemonic = "panther survey tone float exile whisper idle spy normal protect bicycle page";
+var mnemonic = "express shed explain possible harbor recall section alley amazing hint decade they";

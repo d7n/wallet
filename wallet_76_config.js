@@ -1,1 +1,1 @@
-var mnemonic = "butter corn movie happy upon lend junior chest amount myself vehicle camera";
+var mnemonic = "february ocean need enhance run sound regular beyond tortoise guilt powder before";

@@ -1,1 +1,1 @@
-var mnemonic = "grape route fog assume lesson elder chicken excuse task obtain pond that";
+var mnemonic = "begin emerge knock hunt expose season sound saddle example accident gym lady";

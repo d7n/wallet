@@ -1,1 +1,1 @@
-var mnemonic = "warrior garage notice hammer salute museum pull build service month pull tooth";
+var mnemonic = "sauce slight ghost valley affair offer floor unfold guilt gold simple pave";

@@ -1,1 +1,1 @@
-var mnemonic = "reveal degree travel tobacco disease swift initial pole enforce dentist artwork project";
+var mnemonic = "know street sick lava afford quarter crater want zoo oven clap solution";

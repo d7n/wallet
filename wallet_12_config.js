@@ -1,1 +1,1 @@
-var mnemonic = "carbon actress grow hawk sign digital slogan amazing length float clerk select";
+var mnemonic = "trip drink swear jungle outside pelican annual bacon wonder top play tobacco";

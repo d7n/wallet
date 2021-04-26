@@ -1,1 +1,1 @@
-var mnemonic = "ramp field remember myth defense trust survey law noise census craft crash";
+var mnemonic = "fresh have film conduct cargo only giggle paddle milk south derive since";

@@ -1,1 +1,1 @@
-var mnemonic = "knock narrow time adapt welcome pass whip rain tumble chronic lumber anger";
+var mnemonic = "example sad chase rich adapt talk radar puppy elder topple model renew";

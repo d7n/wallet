@@ -1,1 +1,1 @@
-var mnemonic = "velvet describe gauge act stable impact actor deny blind shuffle index water";
+var mnemonic = "there range vintage summer chuckle picnic bag cycle mask tip nothing travel";

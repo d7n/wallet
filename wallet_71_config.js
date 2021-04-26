@@ -1,1 +1,1 @@
-var mnemonic = "vacant vessel switch emerge funny used plunge pony company subway vicious midnight";
+var mnemonic = "twelve enjoy guide trim borrow annual bunker world happy transfer just junk";

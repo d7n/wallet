@@ -1,1 +1,1 @@
-var mnemonic = "garlic sniff aspect basic smart feel air tower method actress act ridge";
+var mnemonic = "forget cash mistake meadow normal measure wood park relief follow still uncover";

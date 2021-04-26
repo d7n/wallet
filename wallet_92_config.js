@@ -1,1 +1,1 @@
-var mnemonic = "hospital exercise shrug stand eight barrel viable enhance change merit mystery describe";
+var mnemonic = "mention burden grit mother hint camera churn dice harvest champion okay tourist";

@@ -1,1 +1,1 @@
-var mnemonic = "unhappy design parade lizard expose project dizzy cover fault hedgehog odor hidden";
+var mnemonic = "cycle digital cotton cool wise rebel marriage jeans grace drill mirror capable";

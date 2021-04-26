@@ -1,1 +1,1 @@
-var mnemonic = "bracket surge tail cry achieve guard august sample country execute reward civil";
+var mnemonic = "pioneer demise disease wisdom figure elephant knife unknown round orange dry shed";

@@ -1,1 +1,1 @@
-var mnemonic = "omit match grace lumber monkey scene quarter produce predict control weasel phone";
+var mnemonic = "rent breeze shallow kangaroo exhaust project shiver office neck loan expire cloud";

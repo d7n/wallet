@@ -1,1 +1,1 @@
-var mnemonic = "lion sheriff exchange butter cover six someone produce barrel puzzle car roof";
+var mnemonic = "latin they switch pizza faculty lunch festival satoshi smoke enlist entry popular";

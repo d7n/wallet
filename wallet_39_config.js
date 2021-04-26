@@ -1,1 +1,1 @@
-var mnemonic = "whisper chicken secret file liar glory aware silly math benefit silver million";
+var mnemonic = "buddy pudding balance asset illness grass disagree clap craft burden wreck imitate";

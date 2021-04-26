@@ -1,1 +1,1 @@
-var mnemonic = "they become ramp lunar cousin feed force keen twin trim romance screen";
+var mnemonic = "dwarf theory salad dove police absent chronic space current feel exact eager";

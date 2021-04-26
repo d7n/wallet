@@ -1,1 +1,1 @@
-var mnemonic = "blue lyrics gallery bid wild guide vehicle fresh business penalty disease achieve";
+var mnemonic = "bridge renew gasp tomorrow lunar sense theory coil doll ugly cage wonder";

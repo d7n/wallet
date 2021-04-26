@@ -1,1 +1,1 @@
-var mnemonic = "disorder abandon define use marble wagon reason one behind army sand bottom";
+var mnemonic = "erupt gloom gloom south cluster wine vehicle neck era mask parade knock";

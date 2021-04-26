@@ -1,1 +1,1 @@
-var mnemonic = "voyage smart family hybrid garden forget umbrella world embrace torch fatal radio";
+var mnemonic = "museum feature below furnace sustain hour type robot sustain divorce retire excuse";

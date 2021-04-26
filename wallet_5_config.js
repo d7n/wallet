@@ -1,1 +1,1 @@
-var mnemonic = "old antique expect appear scale comfort trumpet mansion verb weekend oyster gallery";
+var mnemonic = "card menu deer inhale hat census shine about pretty duty pioneer creek";

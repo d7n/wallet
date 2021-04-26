@@ -1,1 +1,1 @@
-var mnemonic = "latin mercy amateur wreck assume kit tennis local lab science funny globe";
+var mnemonic = "few subway eager horse pigeon caught bulk rare neutral undo roast chapter";

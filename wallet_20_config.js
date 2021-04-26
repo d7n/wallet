@@ -1,1 +1,1 @@
-var mnemonic = "unlock hundred tail harsh time mirror smile device warm invest neck genius";
+var mnemonic = "couch spray airport popular type unlock scissors ordinary segment wealth globe appear";

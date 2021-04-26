@@ -1,1 +1,1 @@
-var mnemonic = "kick skull cupboard smoke client sphere gown frog then kick excite aspect";
+var mnemonic = "mention giraffe arena metal retire invest width outdoor benefit better embrace obey";

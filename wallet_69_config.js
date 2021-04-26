@@ -1,1 +1,1 @@
-var mnemonic = "syrup insane swift wink neck exact rabbit home mind spoil brand cool";
+var mnemonic = "portion chronic match brown volume pond excuse window umbrella baby bachelor please";

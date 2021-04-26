@@ -1,1 +1,1 @@
-var mnemonic = "firm leader cry above dial bacon thank heavy alcohol equip wall neither";
+var mnemonic = "mention unfair abuse toilet sand sleep visual bachelor arch edge plunge life";

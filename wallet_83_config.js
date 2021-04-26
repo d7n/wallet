@@ -1,1 +1,1 @@
-var mnemonic = "legal dinner raven income among load pink worry ability trigger wash ball";
+var mnemonic = "multiply topple protect often left basic despair early capable unit oil trust";

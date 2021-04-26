@@ -1,1 +1,1 @@
-var mnemonic = "poem huge shop woman pet twist wrist key inch apology earth tip";
+var mnemonic = "race remain quit jump north helmet bone video service vacuum satoshi useless";

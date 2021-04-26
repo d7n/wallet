@@ -1,1 +1,1 @@
-var mnemonic = "cancel project tone vessel bid sense reduce collect dilemma never force fragile";
+var mnemonic = "victory age library robust segment chase vivid turn upgrade slush town bean";

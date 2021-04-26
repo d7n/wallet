@@ -1,1 +1,1 @@
-var mnemonic = "kit collect rate teach actress parrot boss give ensure month paddle pulse";
+var mnemonic = "ocean laptop electric close beauty across awake document jungle busy thing glad";

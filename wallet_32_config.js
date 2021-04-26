@@ -1,1 +1,1 @@
-var mnemonic = "strike attitude youth home report chicken current prize lemon green crater ski";
+var mnemonic = "tribe luggage used rabbit accuse govern upset faculty fence ankle target hungry";

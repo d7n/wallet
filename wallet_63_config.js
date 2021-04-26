@@ -1,1 +1,1 @@
-var mnemonic = "security type metal derive virus tape dinner penalty fork target image wait";
+var mnemonic = "squirrel ask chapter olive hill remember upset gather okay raise fork century";

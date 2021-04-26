@@ -1,1 +1,1 @@
-var mnemonic = "poverty type purity staff hollow secret hole snake priority rose ring index";
+var mnemonic = "toddler draw black bubble divide coil enrich wink grass vault path tank";

@@ -1,1 +1,1 @@
-var mnemonic = "unaware attack correct toe spy index walnut sell pause annual crop metal";
+var mnemonic = "transfer valley make level bleak emotion text era grass alter rookie prison";

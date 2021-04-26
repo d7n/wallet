@@ -1,1 +1,1 @@
-var mnemonic = "license oyster saddle horror frown unique bundle bid print vendor dilemma casual";
+var mnemonic = "churn need craft pulp arrest extend weird horror anxiety rescue vicious script";

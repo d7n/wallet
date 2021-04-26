@@ -1,1 +1,1 @@
-var mnemonic = "liberty horn wife agree friend prize certain element bean dose jacket rely";
+var mnemonic = "sense web bamboo arena ability figure shock clay charge later stadium verify";

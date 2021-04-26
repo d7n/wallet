@@ -1,1 +1,1 @@
-var mnemonic = "rhythm adjust embark caught choice garment provide volume exist grow history impose";
+var mnemonic = "purpose already salon section manage analyst three section jazz snake whip start";

@@ -1,1 +1,1 @@
-var mnemonic = "turn prosper oven clown exile catch expand sudden talk mango kitchen habit";
+var mnemonic = "friend hire sun skin sister same copy merry column eager chair body";

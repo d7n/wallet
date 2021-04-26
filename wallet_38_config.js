@@ -1,1 +1,1 @@
-var mnemonic = "heart lens corn witness genius tray attack jazz machine hen home like";
+var mnemonic = "tuna treat diamond page few vague stage flash fame kit devote focus";

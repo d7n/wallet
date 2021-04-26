@@ -1,1 +1,1 @@
-var mnemonic = "humor upgrade sword february void jaguar lock school forward spell squeeze tennis";
+var mnemonic = "mechanic ridge moral combine kick corn rain caught zero emotion pitch nest";

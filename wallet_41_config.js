@@ -1,1 +1,1 @@
-var mnemonic = "box zoo puzzle uncle mechanic royal festival sense liar upper much retire";
+var mnemonic = "enroll click hunt fetch blossom remind exclude turkey ring once submit goose";

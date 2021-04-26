@@ -1,1 +1,1 @@
-var mnemonic = "bean wrap gadget fetch help surface honey decline tiny innocent combine wedding";
+var mnemonic = "lift there glory bitter toss frequent borrow december skate nice spike bacon";

@@ -1,1 +1,1 @@
-var mnemonic = "path ritual help sword hair trophy great arrange load rack hero tragic";
+var mnemonic = "person notable noble arrange pulse fossil best matrix alter lizard item ankle";

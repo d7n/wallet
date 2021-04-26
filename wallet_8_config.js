@@ -1,1 +1,1 @@
-var mnemonic = "relax kidney tank ritual absurd knife taste salt casino sunny woman banner";
+var mnemonic = "parent harsh universe patient spike ridge dial taxi impose donate gauge slush";

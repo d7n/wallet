@@ -1,1 +1,1 @@
-var mnemonic = "pyramid hope curve junior flush round all chalk shoulder erode quiz ring";
+var mnemonic = "buzz snow abuse afford special soon drastic field carpet wood night huge";

@@ -1,1 +1,1 @@
-var mnemonic = "west autumn budget laugh maid erosion shrug curtain hawk priority blur book";
+var mnemonic = "wheat dawn abandon garment fine among slender tool ladder special desk between";
