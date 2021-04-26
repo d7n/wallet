@@ -1,1 +1,1 @@
-var mnemonic = "drift join size club cave can wire actress steak aware meadow cute";
+var mnemonic = "guide replace retire slide slide husband myth spin company desk swap repeat";

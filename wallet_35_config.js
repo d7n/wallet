@@ -1,1 +1,1 @@
-var mnemonic = "icon say unaware cloth save exercise same tennis door autumn earn volcano";
+var mnemonic = "embark unknown keep peasant slide rural protect bus best predict half eternal";

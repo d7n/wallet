@@ -1,1 +1,1 @@
-var mnemonic = "version recycle release enter recipe eye suffer silent float thrive project history";
+var mnemonic = "minute frown gloom cat trouble ranch void math hint lava fork ramp";

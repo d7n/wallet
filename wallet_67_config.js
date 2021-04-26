@@ -1,1 +1,1 @@
-var mnemonic = "cause coach crime answer erupt cool gather north impact assume canal resist";
+var mnemonic = "door govern tool olive motion monkey stone happy meadow surface answer unit";

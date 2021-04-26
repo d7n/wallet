@@ -1,1 +1,1 @@
-var mnemonic = "adult aware habit fatal strategy limb curve sing mercy front toy meadow";
+var mnemonic = "during such universe wave supreme option pave asthma ride topic adapt gauge";

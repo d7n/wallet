@@ -1,1 +1,1 @@
-var mnemonic = "pelican city rice saddle brave pool extra organ allow web broccoli verb";
+var mnemonic = "list bronze whip nominee crazy suit round impact celery calm shadow pizza";

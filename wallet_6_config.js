@@ -1,1 +1,1 @@
-var mnemonic = "butter submit humble naive become ripple enroll cash foot depend truth pulp";
+var mnemonic = "home text chief hunt swift casual inside end copper vibrant alien possible";

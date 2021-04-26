@@ -1,1 +1,1 @@
-var mnemonic = "wall grunt casino staff front battle witness jeans track used round void";
+var mnemonic = "favorite bone ketchup merge choice raw cotton virus joke loud bacon valley";

@@ -1,1 +1,1 @@
-var mnemonic = "aerobic scene shop lunar water lonely major spell taste claw announce maze";
+var mnemonic = "matter effort enemy leader ring treat discover joke creek make dress secret";

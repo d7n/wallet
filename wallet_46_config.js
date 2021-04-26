@@ -1,1 +1,1 @@
-var mnemonic = "enter symptom core loyal lake sauce enhance expand good reward zero document";
+var mnemonic = "betray load friend panic coast dwarf melody attract say pattern peasant pen";

@@ -1,1 +1,1 @@
-var mnemonic = "illegal inch gift cabbage orient stay dance august wheel slab scissors flash";
+var mnemonic = "step cheese pole mom lift group become sample siren heart lazy poet";

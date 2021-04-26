@@ -1,1 +1,1 @@
-var mnemonic = "tray hundred quit chief side hollow select toilet afford little camera left";
+var mnemonic = "fashion mad mean spider fantasy include voice emotion family hill diamond peasant";

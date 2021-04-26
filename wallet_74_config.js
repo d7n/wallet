@@ -1,1 +1,1 @@
-var mnemonic = "glare toe fuel debate pilot fruit half vocal blossom evidence april gesture";
+var mnemonic = "enact better banner spin barely addict second craft brand course miracle crazy";

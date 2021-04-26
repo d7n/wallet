@@ -1,1 +1,1 @@
-var mnemonic = "another crew vicious valid sugar sing carbon tattoo wrap repair hard couple";
+var mnemonic = "private mutual toe text evoke private swarm lecture where yellow scan all";

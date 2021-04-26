@@ -1,1 +1,1 @@
-var mnemonic = "inform agree better screen process elite garbage soldier matrix text tattoo network";
+var mnemonic = "spread nuclear glide satisfy dust bench artefact vehicle giggle enter street surprise";

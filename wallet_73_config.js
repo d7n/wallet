@@ -1,1 +1,1 @@
-var mnemonic = "gravity motion twist brain wire rigid scout glow goose toy tiny also";
+var mnemonic = "empty trial female sketch chief limb lion photo shock library try future";

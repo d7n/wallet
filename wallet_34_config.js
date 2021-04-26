@@ -1,1 +1,1 @@
-var mnemonic = "castle skin pupil donor scatter visa gesture nasty tape only rescue shrug";
+var mnemonic = "cereal giant manual release brave can city provide dove annual pelican dial";

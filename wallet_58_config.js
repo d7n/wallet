@@ -1,1 +1,1 @@
-var mnemonic = "shoot wet sponsor phrase perfect green nephew suggest spike doll island camp";
+var mnemonic = "bubble chapter oyster suspect hungry fatal three spike black slide gold jelly";

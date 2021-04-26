@@ -1,1 +1,1 @@
-var mnemonic = "true now whisper tube volume more want race among birth fame limit";
+var mnemonic = "invest raccoon text dial dinner source attend catch accuse walnut monitor field";

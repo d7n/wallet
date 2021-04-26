@@ -1,1 +1,1 @@
-var mnemonic = "own mango actual drink merit lunch hunt moment camera usual mention ball";
+var mnemonic = "achieve ribbon gap refuse oak tiny salute steak need average tooth quality";

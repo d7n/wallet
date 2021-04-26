@@ -1,1 +1,1 @@
-var mnemonic = "effort brave card economy strike exhibit two special badge bus squeeze mobile";
+var mnemonic = "viable soon hazard autumn box tip main sweet steel hope success scatter";

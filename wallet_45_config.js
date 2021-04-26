@@ -1,1 +1,1 @@
-var mnemonic = "cliff usage relief birth pen until clarify age milk require bunker bundle";
+var mnemonic = "consider clay juice group fantasy need game earth diesel left capital logic";

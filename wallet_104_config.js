@@ -1,1 +1,1 @@
-var mnemonic = "pill key jump skin seed drive crush cheap radar lens mix chimney";
+var mnemonic = "seven hub canal midnight trial peanut jungle artefact quick edge bulb garment";

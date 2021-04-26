@@ -1,1 +1,1 @@
-var mnemonic = "various trumpet finish ketchup begin toy deposit deny tray consider food track";
+var mnemonic = "idle gloom garlic caution poet route tobacco empty satoshi busy cube sword";

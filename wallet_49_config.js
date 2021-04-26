@@ -1,1 +1,1 @@
-var mnemonic = "hundred coil quality donate quarter design brother notice expire enroll tape moment";
+var mnemonic = "cluster category front tissue electric horror base venture length then opinion sound";

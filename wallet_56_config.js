@@ -1,1 +1,1 @@
-var mnemonic = "comfort observe wolf type draft soul pipe basket pledge inner rookie ghost";
+var mnemonic = "play quarter tomato amused donkey sustain final drill attract help waste cloth";

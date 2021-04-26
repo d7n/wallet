@@ -1,1 +1,1 @@
-var mnemonic = "dove thought remove dance educate brush victory pistol stage orchard wild business";
+var mnemonic = "subway pact west brave vapor depth item fox adapt appear entire subway";

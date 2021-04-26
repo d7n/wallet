@@ -1,1 +1,1 @@
-var mnemonic = "swamp canoe rare wash riot photo accuse stage amount assist service false";
+var mnemonic = "egg grape dose good web tonight ramp hungry actual employ defy future";

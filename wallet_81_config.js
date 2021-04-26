@@ -1,1 +1,1 @@
-var mnemonic = "today gospel birth pudding obscure ocean sock dismiss thought cabbage smoke staff";
+var mnemonic = "large jar finish sausage wolf upper apology innocent finish fog zone sniff";

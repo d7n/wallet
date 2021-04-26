@@ -1,1 +1,1 @@
-var mnemonic = "rude uniform dilemma civil dose palace cannon belt repair object cabin coin";
+var mnemonic = "pioneer exact high gauge category client abstract village runway interest token milk";

@@ -1,1 +1,1 @@
-var mnemonic = "throw attract position hint drive dust hood tobacco infant unable six track";
+var mnemonic = "april seek know auto life flavor cherry such token easily month flush";

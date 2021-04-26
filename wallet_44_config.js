@@ -1,1 +1,1 @@
-var mnemonic = "basket blade lady slight scene marine pipe humble sock lift capable spike";
+var mnemonic = "raccoon daughter addict champion exercise hurdle mean genuine deny kidney milk echo";

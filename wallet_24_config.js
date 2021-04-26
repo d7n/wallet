@@ -1,1 +1,1 @@
-var mnemonic = "between soon rose food devote upset dolphin possible skin resist cup assault";
+var mnemonic = "gas thing mom chapter pupil situate ten frequent royal globe someone deputy";

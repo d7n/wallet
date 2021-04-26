@@ -1,1 +1,1 @@
-var mnemonic = "cloth bench silk body inform island cancel aim doctor destroy catch trim";
+var mnemonic = "census hen picture palm toy step push chase rely nephew grant wage";

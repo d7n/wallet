@@ -1,1 +1,1 @@
-var mnemonic = "inherit pen find scatter poem wrestle warrior fly tank record today toe";
+var mnemonic = "situate cluster jelly actual clock obvious path visit mule mix company color";

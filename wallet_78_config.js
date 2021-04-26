@@ -1,1 +1,1 @@
-var mnemonic = "obscure high roast drama human blade creek print three region leaf claim";
+var mnemonic = "sketch combine mother symbol step cousin tide hollow matter labor fancy soccer";

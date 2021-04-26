@@ -1,1 +1,1 @@
-var mnemonic = "clinic pyramid daughter inch believe subway simple ramp head empty alien whale";
+var mnemonic = "child youth festival cement sick rocket elegant drip crawl success priority cause";

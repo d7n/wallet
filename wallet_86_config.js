@@ -1,1 +1,1 @@
-var mnemonic = "equal uphold situate lobster purse junk punch lawsuit faith ritual arm wear";
+var mnemonic = "uncover wrist broom push alone provide much total wear guide mouse write";

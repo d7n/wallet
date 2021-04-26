@@ -1,1 +1,1 @@
-var mnemonic = "pilot chuckle hawk window tattoo timber rapid radio profit riot hospital agent";
+var mnemonic = "frown banana confirm reason hour isolate prosper absurd rib acid barrel early";

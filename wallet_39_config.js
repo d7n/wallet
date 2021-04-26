@@ -1,1 +1,1 @@
-var mnemonic = "disease win antique indoor dress affair embrace hollow quick canyon occur icon";
+var mnemonic = "doctor main latin receive aim grocery utility panda donate proof upper submit";

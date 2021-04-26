@@ -1,1 +1,1 @@
-var mnemonic = "crime law filter insane oblige nasty harsh vault large latin box thing";
+var mnemonic = "must satoshi practice extra dawn remove address vanish bench layer thing wheel";

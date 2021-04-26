@@ -1,1 +1,1 @@
-var mnemonic = "cradle spread ten young casual hub giraffe tuition remind spatial task resource";
+var mnemonic = "cabbage token piece man vintage glad liquid close spend battle cliff room";

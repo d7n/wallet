@@ -1,1 +1,1 @@
-var mnemonic = "blouse furnace father public pave system coach paper suggest recycle eternal beef";
+var mnemonic = "small train behind exercise behind certain mistake display check blossom ramp route";

@@ -1,1 +1,1 @@
-var mnemonic = "paper spice receive caution author boss copy soccer boost glare head tell";
+var mnemonic = "add find abandon tree force defense answer spy crop ill artefact category";

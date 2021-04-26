@@ -1,1 +1,1 @@
-var mnemonic = "situate broom elbow assault because alpha carbon element wolf cushion cost toy";
+var mnemonic = "want left rough will organ hover whale crisp ticket speed plug extra";

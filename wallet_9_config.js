@@ -1,1 +1,1 @@
-var mnemonic = "bachelor situate neck crawl urge purse harvest unique motion leaf front day";
+var mnemonic = "timber code same laundry stamp perfect mercy glass service banner street style";

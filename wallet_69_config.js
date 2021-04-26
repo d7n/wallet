@@ -1,1 +1,1 @@
-var mnemonic = "trend divorce estate special quality unit occur blur horse dress tree excess";
+var mnemonic = "tunnel around pitch hurt intact student boss color milk kidney tool motion";

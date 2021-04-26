@@ -1,1 +1,1 @@
-var mnemonic = "ask accuse grass please help flame arrive kitten flock fabric vivid inmate";
+var mnemonic = "hen purpose humor express wet capital feed bar ribbon ranch banner crater";

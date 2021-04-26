@@ -1,1 +1,1 @@
-var mnemonic = "electric upgrade shoe key comic business system come estate gym derive secret";
+var mnemonic = "paper drum odor deposit joke immune boss identify industry wait burst rain";

@@ -1,1 +1,1 @@
-var mnemonic = "evoke dust galaxy boy strike fence equal help coral page lady kick";
+var mnemonic = "scrap brain can volcano flower axis soldier news normal banana bar grain";

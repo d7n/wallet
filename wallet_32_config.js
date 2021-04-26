@@ -1,1 +1,1 @@
-var mnemonic = "heavy hamster endorse front until arrange stool video wood barrel leopard message";
+var mnemonic = "expand side owner brass pencil twin hazard deny lecture clap staff december";

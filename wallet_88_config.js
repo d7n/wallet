@@ -1,1 +1,1 @@
-var mnemonic = "capable dust planet gun bacon chalk glove game fame bike cave ability";
+var mnemonic = "pluck position warrior wife lock thing renew slush month emerge thrive shove";

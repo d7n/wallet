@@ -1,1 +1,1 @@
-var mnemonic = "must private weapon slogan uphold army candy equal blouse alpha shell suggest";
+var mnemonic = "bridge stem auction neither jeans coffee hero strong tilt absent finger close";

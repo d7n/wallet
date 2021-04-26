@@ -1,1 +1,1 @@
-var mnemonic = "offer box exclude legend direct drastic emerge crop lawn truck two resist";
+var mnemonic = "test season name infant dress champion pioneer turn sweet cruise wonder hair";

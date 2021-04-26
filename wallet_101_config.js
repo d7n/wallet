@@ -1,1 +1,1 @@
-var mnemonic = "one kingdom they globe debris absorb other wife spell step cousin erode";
+var mnemonic = "whip advice prize float orient finger asthma stay day ankle better any";

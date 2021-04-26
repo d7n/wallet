@@ -1,1 +1,1 @@
-var mnemonic = "scorpion chief knock curtain razor scrub neglect combine witness wire tape scrub";
+var mnemonic = "garbage myself chuckle step brush link toddler alarm lamp squeeze decorate load";

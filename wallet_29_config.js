@@ -1,1 +1,1 @@
-var mnemonic = "ramp diesel hundred receive radio fix sail galaxy must rain spray often";
+var mnemonic = "elder month subject soft flag title tortoise main like tank stock hood";

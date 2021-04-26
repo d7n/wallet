@@ -1,1 +1,1 @@
-var mnemonic = "frame hero fine nominee slush system beyond cement quick orchard black legal";
+var mnemonic = "purchase pioneer fade much legend spare silly snow flip immense payment audit";

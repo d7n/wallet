@@ -1,1 +1,1 @@
-var mnemonic = "situate park axis chaos priority yard flag open coast crumble vital wolf";
+var mnemonic = "useful rose dirt obscure cactus spare govern misery genuine adapt sell nature";

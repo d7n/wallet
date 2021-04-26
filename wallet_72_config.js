@@ -1,1 +1,1 @@
-var mnemonic = "best essence tape shine faint sand canyon legend oxygen pulp vacuum boring";
+var mnemonic = "two calm until cruel chase oyster shoulder assist today sleep ginger weasel";

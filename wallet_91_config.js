@@ -1,1 +1,1 @@
-var mnemonic = "rule clerk scene minimum potato entry nut fantasy praise surprise cheese pony";
+var mnemonic = "antique coin entry movie february nose thought practice ability garlic creek cattle";

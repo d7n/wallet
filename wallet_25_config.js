@@ -1,1 +1,1 @@
-var mnemonic = "home amazing noble moon marble mobile wave accident exhaust glare area exile";
+var mnemonic = "capable airport soap lab lucky post drink caught foam happy advice oven";

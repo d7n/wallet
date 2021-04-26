@@ -1,1 +1,1 @@
-var mnemonic = "gold clump else misery tooth fly dentist dust test jeans culture define";
+var mnemonic = "scatter deny enlist country sweet banana hub hand switch way clog tattoo";

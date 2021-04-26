@@ -1,1 +1,1 @@
-var mnemonic = "leopard income useful water bundle crunch road that twelve end balcony rubber";
+var mnemonic = "ramp focus response art tool cereal dumb twenty ancient critic soon kick";

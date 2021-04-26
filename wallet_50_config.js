@@ -1,1 +1,1 @@
-var mnemonic = "doll umbrella share various mammal nothing tiger west ladder zone air cactus";
+var mnemonic = "snake shop flip abuse snake later fever fancy broccoli ritual dynamic credit";

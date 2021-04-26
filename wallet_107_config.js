@@ -1,1 +1,1 @@
-var mnemonic = "income cook one captain ordinary bulb fantasy current minimum someone end glance";
+var mnemonic = "input oblige glass trap survey oval swamp reopen fox noise shield garbage";

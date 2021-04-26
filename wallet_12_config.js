@@ -1,1 +1,1 @@
-var mnemonic = "trumpet gospel clog box biology dog hat author mixture lyrics all teach";
+var mnemonic = "link leg suffer cram column suspect sport desk brand lawn day daring";

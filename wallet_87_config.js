@@ -1,1 +1,1 @@
-var mnemonic = "ten arrow toss educate pottery panic allow monitor crouch depend obey color";
+var mnemonic = "huge boost toward silver legal cube eight also pudding sock fiction hedgehog";

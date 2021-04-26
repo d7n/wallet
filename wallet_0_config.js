@@ -1,1 +1,1 @@
-var mnemonic = "mammal laptop hunt check table invite tool galaxy popular whip feature caught";
+var mnemonic = "logic salmon country carbon open lesson vivid view risk tuna cover estate";

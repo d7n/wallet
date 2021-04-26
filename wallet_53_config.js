@@ -1,1 +1,1 @@
-var mnemonic = "mail narrow example lottery fancy milk armed aware reform blind above whale";
+var mnemonic = "cycle cupboard bounce army gym stadium clock double violin genius crash ranch";

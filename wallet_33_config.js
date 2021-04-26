@@ -1,1 +1,1 @@
-var mnemonic = "fall planet start wire blossom between tape box sausage seed light flush";
+var mnemonic = "lottery satoshi toast solid drop fence wide cushion fashion increase fiber assist";

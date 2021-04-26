@@ -1,1 +1,1 @@
-var mnemonic = "risk awkward dance obey soldier excite birth shift bean pear notice online";
+var mnemonic = "art hint claw link spot depart tuna put impact target ten firm";

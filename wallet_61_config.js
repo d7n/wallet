@@ -1,1 +1,1 @@
-var mnemonic = "palm captain result assist own garbage sibling hire digital fence inside coach";
+var mnemonic = "refuse they script boil warrior huge athlete stuff nasty usual pool strong";

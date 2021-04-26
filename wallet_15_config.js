@@ -1,1 +1,1 @@
-var mnemonic = "silk barrel exhibit wreck index grid steel enroll scheme vault fresh milk";
+var mnemonic = "together wrist ladder lunch carpet script suffer baby gown burst sorry gossip";

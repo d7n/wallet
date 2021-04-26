@@ -1,1 +1,1 @@
-var mnemonic = "assume build admit blush gossip lobster expose come nest flock clay toddler";
+var mnemonic = "afraid manual typical piece small detail top gasp town ugly weasel tiger";

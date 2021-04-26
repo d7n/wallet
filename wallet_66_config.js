@@ -1,1 +1,1 @@
-var mnemonic = "alarm edge tornado inflict room inner addict pistol bright wait trial still";
+var mnemonic = "regret awake paddle midnight drill much finish diagram profit thought ghost minor";

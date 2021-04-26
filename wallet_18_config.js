@@ -1,1 +1,1 @@
-var mnemonic = "diagram merge apology resemble gun toy resource innocent jeans hello emotion trial";
+var mnemonic = "weather primary bicycle very meat curious film unique spare such veteran shock";

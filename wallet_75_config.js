@@ -1,1 +1,1 @@
-var mnemonic = "dust olive ship like over caution track ghost wonder mystery seminar load";
+var mnemonic = "melody spoil cannon wait move control scare blossom nasty subway energy brand";

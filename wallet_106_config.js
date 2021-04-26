@@ -1,1 +1,1 @@
-var mnemonic = "chase enemy carbon social eyebrow topple possible siren mail raise negative nephew";
+var mnemonic = "intact moment okay knock visual damage vital million blur connect normal media";

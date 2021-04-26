@@ -1,1 +1,1 @@
-var mnemonic = "page click buzz connect bench leader online abstract coin fix tribe merry";
+var mnemonic = "tackle police egg promote ancient measure sport old canoe glance hurdle culture";

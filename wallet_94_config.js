@@ -1,1 +1,1 @@
-var mnemonic = "grief wide project news cube diamond favorite join train outside estate clarify";
+var mnemonic = "axis other laundry lounge badge same fun dirt walk legend solution hand";

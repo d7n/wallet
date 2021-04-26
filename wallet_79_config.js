@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow crime typical envelope assume rent pig sight custom keep expand under";
+var mnemonic = "dish motor tackle alert exchange defy dust lesson nest inside elite embrace";

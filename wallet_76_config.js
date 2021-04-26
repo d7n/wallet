@@ -1,1 +1,1 @@
-var mnemonic = "idea rabbit pumpkin onion essay almost group refuse thing lion organ crew";
+var mnemonic = "warm subway pulse similar early siren three defense merge talk finish session";

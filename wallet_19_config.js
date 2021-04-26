@@ -1,1 +1,1 @@
-var mnemonic = "enrich slide battle question fitness artwork flower hand riot stick practice pitch";
+var mnemonic = "snap rent book clog bag urge gesture filter sausage reopen dry spray";

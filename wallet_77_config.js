@@ -1,1 +1,1 @@
-var mnemonic = "into jaguar stairs sun ribbon pull flight weather orphan fresh suit seek";
+var mnemonic = "blush buffalo joke increase lobster fault hood pyramid stove extra worry bunker";

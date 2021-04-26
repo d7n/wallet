@@ -1,1 +1,1 @@
-var mnemonic = "alter kitten arena frog north gain mom power voice neck height ten";
+var mnemonic = "alien aspect hill round pig dignity ship spend bracket scare birth stairs";

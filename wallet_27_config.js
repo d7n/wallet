@@ -1,1 +1,1 @@
-var mnemonic = "stay truly attitude flee oval define letter sight ordinary venue prevent zone";
+var mnemonic = "lens member humor jar million word coin guard inmate venture scan print";

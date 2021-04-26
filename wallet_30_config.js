@@ -1,1 +1,1 @@
-var mnemonic = "stereo cake amateur winter install staff small flock betray helmet hybrid trip";
+var mnemonic = "border thrive rate fitness orchard keen exercise witness marriage lawsuit inch half";

@@ -1,1 +1,1 @@
-var mnemonic = "slab above seminar voice want worry coyote ball twist future plate diary";
+var mnemonic = "defense plastic marine echo skin bless bitter shuffle choice parrot harsh success";
