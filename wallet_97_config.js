@@ -1,1 +1,1 @@
-var mnemonic = "regret radar simple glad armed stomach useless burger width gossip artefact casual";
+var mnemonic = "clinic civil diagram habit popular regular combine remind silver network amount achieve";

@@ -1,1 +1,1 @@
-var mnemonic = "glare north six six try law bracket riot sibling roast satisfy praise";
+var mnemonic = "clay artwork damp possible join differ name oil copy jealous tide awful";

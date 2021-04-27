@@ -1,1 +1,1 @@
-var mnemonic = "comfort vivid burst shed mean butter kite switch modify way senior coil";
+var mnemonic = "drum rocket castle aim lucky oven idle jungle you rug prize yard";

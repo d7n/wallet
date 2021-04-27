@@ -1,1 +1,1 @@
-var mnemonic = "farm marine fork relax lazy yard source bulk quick lion century witness";
+var mnemonic = "observe chicken process aim danger shock bid extra certain pill escape act";

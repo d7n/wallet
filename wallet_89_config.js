@@ -1,1 +1,1 @@
-var mnemonic = "gesture direct into example initial marble october join wreck slice guess eye";
+var mnemonic = "rocket remain sell peanut wonder library pact eager rescue champion danger raven";

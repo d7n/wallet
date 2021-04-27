@@ -1,1 +1,1 @@
-var mnemonic = "shiver enhance antique usage media tackle chat room topple net warfare hamster";
+var mnemonic = "labor vast october plate slogan rotate peace wait volcano ask endless radar";

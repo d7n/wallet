@@ -1,1 +1,1 @@
-var mnemonic = "model hundred genius oil cradle guilt salute patient pear stuff window forward";
+var mnemonic = "tonight trap lizard town loud forward fancy guide kitchen label potato escape";

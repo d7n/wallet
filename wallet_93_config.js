@@ -1,1 +1,1 @@
-var mnemonic = "sphere goat rice spend direct devote resemble spin wave planet siren kid";
+var mnemonic = "spoon happy gym much slot actor execute script require tip curve mushroom";

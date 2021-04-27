@@ -1,1 +1,1 @@
-var mnemonic = "blast input floor deal helmet used parent glass foster lion hole pluck";
+var mnemonic = "mushroom outside help whale seek ticket load canvas funny obscure elevator phrase";

@@ -1,1 +1,1 @@
-var mnemonic = "drift occur evidence tomato egg pigeon worth image fit divert bless later";
+var mnemonic = "gift dash work state basket whale road obey enable plunge sunny upper";

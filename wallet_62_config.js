@@ -1,1 +1,1 @@
-var mnemonic = "middle list depth earth return narrow palace name liquid culture pair sand";
+var mnemonic = "tray chimney misery rival wealth what ball cloth senior flash token supply";

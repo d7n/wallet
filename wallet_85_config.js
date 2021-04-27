@@ -1,1 +1,1 @@
-var mnemonic = "zoo arch wage wear tiny boss dress blood list sign stock salmon";
+var mnemonic = "guard sudden safe athlete play neglect layer guide material used scout pony";

@@ -1,1 +1,1 @@
-var mnemonic = "wine fire jazz issue gas identify abstract staff sorry margin bread park";
+var mnemonic = "doctor minor illness blue broccoli prepare matter orchard dry style zebra pumpkin";

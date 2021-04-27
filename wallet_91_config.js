@@ -1,1 +1,1 @@
-var mnemonic = "end throw raise film link deny local loan jacket cable fashion music";
+var mnemonic = "grain release cabin scorpion limit orchard clump coffee camp license also desk";

@@ -1,1 +1,1 @@
-var mnemonic = "design employ river miss fan thing divide illegal agent dose lock beyond";
+var mnemonic = "horror pass snake simple hour resemble fan slab volcano flash settle dwarf";

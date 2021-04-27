@@ -1,1 +1,1 @@
-var mnemonic = "damp sense solve march stable sight truth donkey buyer around diagram ring";
+var mnemonic = "brave story relief couch code pattern divide olympic method member metal hedgehog";

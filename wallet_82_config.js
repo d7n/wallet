@@ -1,1 +1,1 @@
-var mnemonic = "wife citizen utility make hazard north raven labor cube glad absorb strategy";
+var mnemonic = "annual pluck absent flip hat company immune decade hammer slide menu pencil";

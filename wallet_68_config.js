@@ -1,1 +1,1 @@
-var mnemonic = "protect tank enforce fashion theory month friend isolate bargain day help frown";
+var mnemonic = "body save steel jungle remember drama melt height girl exchange conduct demand";

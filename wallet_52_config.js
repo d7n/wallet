@@ -1,1 +1,1 @@
-var mnemonic = "fabric knife urban payment cube century tank like park snow divide mail";
+var mnemonic = "antenna feed forum melody detail puppy lazy trust soon check example walnut";

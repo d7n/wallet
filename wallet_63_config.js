@@ -1,1 +1,1 @@
-var mnemonic = "joy mistake supply almost decorate south search tongue edge kiwi choose film";
+var mnemonic = "media clever where unveil flip dad pumpkin ill daring detect pretty also";

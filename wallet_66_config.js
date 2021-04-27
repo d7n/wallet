@@ -1,1 +1,1 @@
-var mnemonic = "pond dice cabbage poem retire poet fox name bamboo strike small flee";
+var mnemonic = "bulk gather unit view collect swallow method arrest debate song close surprise";

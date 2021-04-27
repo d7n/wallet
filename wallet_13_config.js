@@ -1,1 +1,1 @@
-var mnemonic = "verify poem coin quiz laptop copper promote street buyer gossip attract gift";
+var mnemonic = "ginger true enforce amused cactus debris dream speak scissors setup hollow blood";

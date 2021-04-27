@@ -1,1 +1,1 @@
-var mnemonic = "gaze undo arrange round cluster water budget fade sting carpet nest wreck";
+var mnemonic = "pattern side wink flee plunge warfare false artist silent liar cannon gauge";

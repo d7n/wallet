@@ -1,1 +1,1 @@
-var mnemonic = "empty axis food expire walk slogan garage under dance usual alert pond";
+var mnemonic = "flee middle digital miracle bone subway marriage raven suspect pill dune strategy";

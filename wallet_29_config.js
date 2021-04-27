@@ -1,1 +1,1 @@
-var mnemonic = "tribe dentist property lounge conduct game exchange all pole chicken mad box";
+var mnemonic = "unit host cousin toast hidden skate boost quiz side physical wise junior";

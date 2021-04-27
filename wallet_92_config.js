@@ -1,1 +1,1 @@
-var mnemonic = "sister someone unit crystal twist august cram shop coral pistol plastic acid";
+var mnemonic = "resource reward easily guard ranch cute divide august kitten exclude version urge";

@@ -1,1 +1,1 @@
-var mnemonic = "modify subject plunge barrel barely lucky path cereal diamond stumble hurry august";
+var mnemonic = "essence gesture casino dismiss spirit utility answer ticket average cloth typical vicious";

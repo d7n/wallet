@@ -1,1 +1,1 @@
-var mnemonic = "ostrich zone empower today push circle flat panic rural cruel mobile twist";
+var mnemonic = "pink whip radar frown online expand among stumble address case sad credit";

@@ -1,1 +1,1 @@
-var mnemonic = "gadget bench dash loyal note legal pet lens liquid actual stove wool";
+var mnemonic = "glory acid wash task vintage cherry focus provide image disorder window eyebrow";

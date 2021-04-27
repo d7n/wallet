@@ -1,1 +1,1 @@
-var mnemonic = "resist guitar pact raven slim amount decorate peace nest reject donate outside";
+var mnemonic = "canal tomorrow order quarter tunnel stadium bracket alarm age dose very theme";

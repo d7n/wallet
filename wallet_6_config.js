@@ -1,1 +1,1 @@
-var mnemonic = "surround camera bridge icon toddler output debate mirror quiz chaos clump violin";
+var mnemonic = "unit resource review term sunset walnut hamster surface card behind canoe super";

@@ -1,1 +1,1 @@
-var mnemonic = "wisdom ice quiz message rule tell apple guitar waste industry custom frozen";
+var mnemonic = "boss swap morning online chunk fault bracket wedding country miss weather pyramid";

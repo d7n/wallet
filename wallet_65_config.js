@@ -1,1 +1,1 @@
-var mnemonic = "ball enjoy dilemma around argue ball scan grit already clown wealth panic";
+var mnemonic = "version lend disease lottery immune atom total organ avoid six history artwork";

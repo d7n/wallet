@@ -1,1 +1,1 @@
-var mnemonic = "ridge tip version summer peasant cloud envelope admit average history gift hand";
+var mnemonic = "dress please foil hold list ask meat dice cruise fog gap output";

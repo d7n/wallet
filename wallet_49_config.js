@@ -1,1 +1,1 @@
-var mnemonic = "resource arch front excite where myself general parrot phrase stable heart famous";
+var mnemonic = "enlist analyst travel habit ride bullet ticket hundred rude file clip rough";

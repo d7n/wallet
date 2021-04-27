@@ -1,1 +1,1 @@
-var mnemonic = "artefact exit north suggest bounce dash market olympic select month quality cloth";
+var mnemonic = "remove fall panic rhythm regret ensure input brush tape august author inhale";

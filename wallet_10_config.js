@@ -1,1 +1,1 @@
-var mnemonic = "home mystery exist timber gorilla wage bulk clown afraid laugh comfort orbit";
+var mnemonic = "artist better gospel point grass scissors van unfair hub damp alpha fix";

@@ -1,1 +1,1 @@
-var mnemonic = "middle later jazz skirt genre leaf hurdle boil season goddess cat around";
+var mnemonic = "degree matrix click obvious armed glance burden female nerve average spell silk";

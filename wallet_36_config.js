@@ -1,1 +1,1 @@
-var mnemonic = "wrong gentle sea physical angry favorite limb essay pelican sudden elite dynamic";
+var mnemonic = "usage tired expire grain adjust foil salon elbow concert suggest east nerve";

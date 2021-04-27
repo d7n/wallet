@@ -1,1 +1,1 @@
-var mnemonic = "brief thank myth pudding surge insect awesome useful link video worry mushroom";
+var mnemonic = "dumb tiger want mountain survey kitten often margin gravity relax talk ship";

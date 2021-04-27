@@ -1,1 +1,1 @@
-var mnemonic = "liquid blur wrong shadow museum oxygen tiny outdoor pact absorb elegant purse";
+var mnemonic = "myself what run slam foot mountain unfair cable armed blue poet cotton";

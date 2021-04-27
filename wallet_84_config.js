@@ -1,1 +1,1 @@
-var mnemonic = "know dream dolphin latin prize sock exotic double boy viable thumb february";
+var mnemonic = "pill siege arrive swift right purpose crucial sing elegant wrong coral become";

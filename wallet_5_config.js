@@ -1,1 +1,1 @@
-var mnemonic = "slide object easily present cement animal answer focus arena matrix cluster gloom";
+var mnemonic = "edit dwarf desert raccoon fancy liar pioneer coffee erupt beef valid repeat";

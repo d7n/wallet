@@ -1,1 +1,1 @@
-var mnemonic = "train around december orient term aspect father school odor chief expire pact";
+var mnemonic = "elbow marble sort expand photo primary govern fame tonight cherry tackle identify";

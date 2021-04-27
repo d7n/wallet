@@ -1,1 +1,1 @@
-var mnemonic = "child group goat exhibit congress neutral piece tiny toast weapon alien sphere";
+var mnemonic = "candy menu public drop meadow crew pottery tray jar basic nephew seminar";

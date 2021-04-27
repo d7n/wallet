@@ -1,1 +1,1 @@
-var mnemonic = "dismiss skull yellow load fun wide bag glow swamp pink concert copy";
+var mnemonic = "raise pottery visit magnet devote runway fossil seed weapon organ middle own";

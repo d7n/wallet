@@ -1,1 +1,1 @@
-var mnemonic = "pave prison assault viable earn path card actress hero genre super deliver";
+var mnemonic = "milk tuition guide blast width praise height film scale gadget winner word";

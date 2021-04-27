@@ -1,1 +1,1 @@
-var mnemonic = "taste screen client pepper tenant sketch case seat number trust peasant strong";
+var mnemonic = "squeeze squeeze december squirrel fold damage cash tuna spin gown slight student";

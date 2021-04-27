@@ -1,1 +1,1 @@
-var mnemonic = "vivid oppose follow alpha salon beef together assault exact tank nest tiny";
+var mnemonic = "cherry clean reflect disease record salad siege cloth wheel under claw airport";

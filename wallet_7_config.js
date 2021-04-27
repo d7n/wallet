@@ -1,1 +1,1 @@
-var mnemonic = "bright radar nephew say unknown outer input token canoe sauce decline debris";
+var mnemonic = "aerobic motor choice slice wave adapt lawsuit injury jewel park unit staff";

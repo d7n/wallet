@@ -1,1 +1,1 @@
-var mnemonic = "wet meat sniff keen tongue course traffic shrimp envelope crater trophy eager";
+var mnemonic = "engine sound priority meat focus oblige hawk damp great raccoon involve sausage";

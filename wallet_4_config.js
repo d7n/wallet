@@ -1,1 +1,1 @@
-var mnemonic = "ignore olive test correct dry robust cereal abstract sign home blur grid";
+var mnemonic = "trick end analyst shoot federal stool broken goose knock tip gauge liquid";

@@ -1,1 +1,1 @@
-var mnemonic = "furnace gold shrug vacuum chat reform two enroll dinner slush sniff minimum";
+var mnemonic = "trigger love spoon risk pig oil siren east rabbit quarter buffalo chef";

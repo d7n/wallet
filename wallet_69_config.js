@@ -1,1 +1,1 @@
-var mnemonic = "emerge tortoise spin fee van license pelican present enjoy mosquito lobster rug";
+var mnemonic = "marble expire verify turtle you walk reward prepare slush merit myself merge";

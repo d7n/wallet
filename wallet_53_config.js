@@ -1,1 +1,1 @@
-var mnemonic = "spread famous milk monkey team negative disorder virus inhale reunion fish fragile";
+var mnemonic = "behave index hawk betray barely valid harsh into surprise acquire abstract audit";

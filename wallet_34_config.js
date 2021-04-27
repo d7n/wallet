@@ -1,1 +1,1 @@
-var mnemonic = "domain claim level stable ten call fruit basic piece maple cry flavor";
+var mnemonic = "border casino maple pear feel clinic crack extra exact mass rhythm recycle";

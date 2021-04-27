@@ -1,1 +1,1 @@
-var mnemonic = "cloud clerk alley endorse palm olympic catch fiber bubble away garment enlist";
+var mnemonic = "soldier news vital skull ranch picnic unlock balcony amount bacon almost worry";

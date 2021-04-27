@@ -1,1 +1,1 @@
-var mnemonic = "polar test moon oyster spring scout high edit parent pulse hour guide";
+var mnemonic = "whisper better crowd rocket swear destroy festival panic tilt parade true shop";

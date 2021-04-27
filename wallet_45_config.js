@@ -1,1 +1,1 @@
-var mnemonic = "seminar mixed squirrel unit clown tooth bright ability nurse dawn chest beach";
+var mnemonic = "music bubble gift begin spoon jeans hill chat because deer ugly write";

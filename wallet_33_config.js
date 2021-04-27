@@ -1,1 +1,1 @@
-var mnemonic = "garage chimney invite input curious legend finish snake jar outdoor come antenna";
+var mnemonic = "quantum gorilla sting mango unknown behave cliff action punch solve response predict";

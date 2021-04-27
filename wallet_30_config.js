@@ -1,1 +1,1 @@
-var mnemonic = "among easily cushion stage silver goat pretty fit narrow fan gown solid";
+var mnemonic = "material impulse play cluster cereal trust seek connect swarm cycle pig photo";

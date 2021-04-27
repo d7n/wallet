@@ -1,1 +1,1 @@
-var mnemonic = "daughter horn tissue visa surround carpet meat favorite depart match glad extra";
+var mnemonic = "avocado put member flip oven harsh green disease ethics harbor collect tunnel";

@@ -1,1 +1,1 @@
-var mnemonic = "glad service label hole engage royal vocal mother today country kiss come";
+var mnemonic = "column skirt twelve first party review valid olive room load arrange shield";

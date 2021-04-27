@@ -1,1 +1,1 @@
-var mnemonic = "debate orchard bitter eager return boring oval earth abandon library screen ripple";
+var mnemonic = "oxygen verb ship sing scrap wall relax smoke morning ball reveal hard";

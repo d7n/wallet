@@ -1,1 +1,1 @@
-var mnemonic = "actual orient tissue clinic party chief swap near sunset draw bamboo force";
+var mnemonic = "insect accident close soldier fresh speed mouse brother face insect card matrix";

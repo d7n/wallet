@@ -1,1 +1,1 @@
-var mnemonic = "welcome peasant mixed surround pass lake vintage shadow scan hazard reform gallery";
+var mnemonic = "belt pioneer melody chest click soft only cabbage rack choose trust evolve";

@@ -1,1 +1,1 @@
-var mnemonic = "rotate liberty garden cupboard like apology soft clump lemon visit repeat income";
+var mnemonic = "cat puppy illness around trigger clap day diary scare useless salad effort";

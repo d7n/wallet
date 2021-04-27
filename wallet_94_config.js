@@ -1,1 +1,1 @@
-var mnemonic = "survey vast bench shaft link today steel arch danger festival pledge open";
+var mnemonic = "push poem theory helmet ready sheriff session wide fancy strategy cabbage chapter";

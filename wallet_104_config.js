@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog yellow soccer guard west farm gown chunk palm notice swallow hedgehog";
+var mnemonic = "sweet swallow local company tide total couple toss opinion doll sweet mask";

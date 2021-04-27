@@ -1,1 +1,1 @@
-var mnemonic = "example release until athlete slot delay tree tone lend duck secret student";
+var mnemonic = "soon scorpion people capable mirror sun make legend enforce property elegant guess";

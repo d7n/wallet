@@ -1,1 +1,1 @@
-var mnemonic = "uncover track pottery taxi mutual motion grow remove point dad process material";
+var mnemonic = "armor kit cool fun crowd spike bridge gentle bubble movie enlist permit";

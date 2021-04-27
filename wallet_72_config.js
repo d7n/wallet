@@ -1,1 +1,1 @@
-var mnemonic = "can track retire park right injury system giraffe noise guard spot choice";
+var mnemonic = "please pet color air sound shock number release agree unit cabin trim";

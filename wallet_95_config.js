@@ -1,1 +1,1 @@
-var mnemonic = "junk best test immune actor cool work edge picture into gravity caught";
+var mnemonic = "tragic holiday awkward abstract neck pioneer learn donkey cute venue tuna citizen";

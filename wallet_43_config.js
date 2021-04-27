@@ -1,1 +1,1 @@
-var mnemonic = "move news fence outdoor mom name again little baby scan cruise print";
+var mnemonic = "invest awesome pigeon bounce resemble style certain spell believe gap clarify trust";

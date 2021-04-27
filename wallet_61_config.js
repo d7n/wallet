@@ -1,1 +1,1 @@
-var mnemonic = "sick snow vocal image combine satisfy uncle field people draft deliver rigid";
+var mnemonic = "receive upon route guilt hero room hub tent atom permit air lawsuit";

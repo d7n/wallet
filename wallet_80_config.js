@@ -1,1 +1,1 @@
-var mnemonic = "report theory pipe keep three insane total expect pottery reform conduct bomb";
+var mnemonic = "flight pretty lab annual early aware goat license hair belt proud tourist";

@@ -1,1 +1,1 @@
-var mnemonic = "crush theme amazing client mirror endless cram glance next tissue sugar opera";
+var mnemonic = "project birth worry ocean deliver horror liquid satoshi drama romance twelve service";

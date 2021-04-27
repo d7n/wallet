@@ -1,1 +1,1 @@
-var mnemonic = "skill carry tenant intact goat noodle cinnamon powder snack forward firm panic";
+var mnemonic = "toddler ten asset hotel fabric island undo search salon alpha add night";

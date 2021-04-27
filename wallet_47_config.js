@@ -1,1 +1,1 @@
-var mnemonic = "feel fan infant canoe kiss scout toy blur smooth come because silk";
+var mnemonic = "coffee kit soccer board gaze test wing describe pretty bamboo smoke virtual";

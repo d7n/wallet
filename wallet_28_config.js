@@ -1,1 +1,1 @@
-var mnemonic = "joke unique pretty balcony during flush burger repair divorce cotton clutch gorilla";
+var mnemonic = "point kingdom island near style steel girl category this into critic unfair";

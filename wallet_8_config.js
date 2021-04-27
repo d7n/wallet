@@ -1,1 +1,1 @@
-var mnemonic = "verb deer smile deal craft permit ivory horse wreck ship wrap book";
+var mnemonic = "right conduct type torch birth round mix poem mountain spin silver bacon";

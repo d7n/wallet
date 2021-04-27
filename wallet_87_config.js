@@ -1,1 +1,1 @@
-var mnemonic = "message forget sketch right twelve price library approve rhythm arch major manual";
+var mnemonic = "month sibling famous taste tuna poem orient cattle faith ski inject industry";

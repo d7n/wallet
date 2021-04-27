@@ -1,1 +1,1 @@
-var mnemonic = "spread obtain hour wine federal wedding police lucky forget swear raccoon cry";
+var mnemonic = "merit remember unfold umbrella draw nation ship onion beauty tonight system hover";

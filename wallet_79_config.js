@@ -1,1 +1,1 @@
-var mnemonic = "velvet olive snack clump mirror extra salad reject toilet fury advice cattle";
+var mnemonic = "speed deposit turn fee economy drama art success sign tragic winter mix";

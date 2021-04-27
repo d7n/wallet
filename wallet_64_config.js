@@ -1,1 +1,1 @@
-var mnemonic = "install reopen eye tumble shed zoo feel tortoise tag beauty patch pill";
+var mnemonic = "chat ranch combine elevator excuse artwork whip metal stamp regular ceiling mad";

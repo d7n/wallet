@@ -1,1 +1,1 @@
-var mnemonic = "kite warm exhaust clown legend coral lunch total cloth valley pipe foster";
+var mnemonic = "clown wife general boost tank quote any wall lunar tape flee adult";

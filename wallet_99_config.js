@@ -1,1 +1,1 @@
-var mnemonic = "verify remember marriage ladder buffalo idle glance artefact giggle weird shuffle owner";
+var mnemonic = "become avoid sphere educate rent winner news wear copper debris island choose";

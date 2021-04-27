@@ -1,1 +1,1 @@
-var mnemonic = "shoe humor web rebuild spring ten skull impose wire orbit flavor scrub";
+var mnemonic = "goat have oblige exhaust foster garage marriage swap device child cancel solution";

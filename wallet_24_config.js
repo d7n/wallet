@@ -1,1 +1,1 @@
-var mnemonic = "dove seed chat brisk tobacco gossip pass chef country keep salmon famous";
+var mnemonic = "trigger wrap faculty exercise gloom artefact neglect february oyster arch left wife";

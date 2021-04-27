@@ -1,1 +1,1 @@
-var mnemonic = "volume divorce chief crowd clump together clap runway grace holiday route deer";
+var mnemonic = "curtain december buffalo shy supreme tube mixed burden polar swallow moment basic";

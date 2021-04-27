@@ -1,1 +1,1 @@
-var mnemonic = "fantasy embrace leisure man connect sweet nuclear cross asset easy sand kick";
+var mnemonic = "help write pyramid icon camp spike syrup behave chaos olympic fluid address";

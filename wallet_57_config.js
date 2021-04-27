@@ -1,1 +1,1 @@
-var mnemonic = "social develop endorse ask end effort hotel prize obey street usage weasel";
+var mnemonic = "barely pledge degree empower congress hold south resist few grit parent position";
