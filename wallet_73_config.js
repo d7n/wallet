@@ -1,1 +1,1 @@
-var mnemonic = "situate inch include meadow peace derive bulb ribbon cram thumb battle track";
+var mnemonic = "crop zero phone depth core ketchup gift tail guitar mixed yard planet";

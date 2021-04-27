@@ -1,1 +1,1 @@
-var mnemonic = "phrase way wrestle grief crouch call bread sea lyrics dream hamster enter";
+var mnemonic = "creek decrease salon note tiny swear awesome explain pill enhance burden february";

@@ -1,1 +1,1 @@
-var mnemonic = "renew swamp put toilet portion mountain tray melody march violin mom absurd";
+var mnemonic = "stereo zone time youth ripple age cheese brown urge wait dog soon";

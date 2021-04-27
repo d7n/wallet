@@ -1,1 +1,1 @@
-var mnemonic = "husband begin finish coil pill book goose visit session future distance typical";
+var mnemonic = "pulp field deputy public mesh ritual property armed pool flee comic program";

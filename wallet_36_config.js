@@ -1,1 +1,1 @@
-var mnemonic = "alley pitch fiction health shuffle tired yellow test parent employ lazy code";
+var mnemonic = "raccoon rude symptom script divert zoo draft crop north glimpse toward acid";

@@ -1,1 +1,1 @@
-var mnemonic = "afford beef mechanic salt youth medal seminar robot jazz spoil slush rubber";
+var mnemonic = "involve worry hold inquiry famous mean monitor skate problem echo recycle carry";

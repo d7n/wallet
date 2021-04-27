@@ -1,1 +1,1 @@
-var mnemonic = "alter sun fun thunder neutral glory nut lab satisfy domain quarter never";
+var mnemonic = "ancient picnic circle retire jewel river student middle sun choose often empty";

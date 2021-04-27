@@ -1,1 +1,1 @@
-var mnemonic = "bottom grab glow elevator region ankle bounce grunt people decade dignity hidden";
+var mnemonic = "radar decorate fish village minor service orchard renew found miss member among";

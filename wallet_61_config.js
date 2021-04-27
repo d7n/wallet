@@ -1,1 +1,1 @@
-var mnemonic = "kid mom tag ill dune illness make survey planet humble miracle orphan";
+var mnemonic = "train swallow veteran cross monster install point dune combine crisp soon wrong";

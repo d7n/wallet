@@ -1,1 +1,1 @@
-var mnemonic = "bachelor hen cinnamon truth midnight dilemma swift gain agree brother wet tobacco";
+var mnemonic = "sell connect same kidney top salt venue trust anxiety picture order brush";

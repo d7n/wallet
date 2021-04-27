@@ -1,1 +1,1 @@
-var mnemonic = "badge bring method sister useless always solve vault solid one utility have";
+var mnemonic = "clerk horn body buddy flag exhibit artefact empty rigid fix raven steak";

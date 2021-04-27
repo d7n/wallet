@@ -1,1 +1,1 @@
-var mnemonic = "sniff indoor ridge small yard basic opera shop help south silent mimic";
+var mnemonic = "feel borrow anchor deal blood require catalog vacuum can plunge assist define";

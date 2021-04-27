@@ -1,1 +1,1 @@
-var mnemonic = "decline inherit boy ring find soldier enter client cup fee alert farm";
+var mnemonic = "swift month reward wait cushion bind joy teach outside grass october hold";

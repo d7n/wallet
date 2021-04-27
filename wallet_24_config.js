@@ -1,1 +1,1 @@
-var mnemonic = "small game thrive shuffle diagram puppy mass quote swim slight caught ring";
+var mnemonic = "notable indoor ostrich trip wheel dress horror inspire wonder decorate borrow business";

@@ -1,1 +1,1 @@
-var mnemonic = "have explain soccer march pool dance law brown mother perfect stock abuse";
+var mnemonic = "build damp evidence boy crush autumn curtain trial faint mushroom alcohol tuition";

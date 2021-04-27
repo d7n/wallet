@@ -1,1 +1,1 @@
-var mnemonic = "anxiety steel journey cricket paddle anchor relief ahead blame giant volume brand";
+var mnemonic = "clerk museum wood window balcony food pizza dust sad leg unlock maid";

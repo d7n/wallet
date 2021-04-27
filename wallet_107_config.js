@@ -1,1 +1,1 @@
-var mnemonic = "pistol whale south rate habit curve battle mountain feature mask clever cable";
+var mnemonic = "crew cycle between runway soda skull salon defy pelican rich vehicle sad";

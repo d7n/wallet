@@ -1,1 +1,1 @@
-var mnemonic = "immense link filter item spatial lift merit ahead clean essay endorse december";
+var mnemonic = "own panda pen uphold immune diary volume clump advice alley kitten demand";

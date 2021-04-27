@@ -1,1 +1,1 @@
-var mnemonic = "inform want nest smart remain walk sheriff quiz sorry bid original sail";
+var mnemonic = "venture mansion curious phone force bacon eager pact endless plastic tenant hero";

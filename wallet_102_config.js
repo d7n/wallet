@@ -1,1 +1,1 @@
-var mnemonic = "broom relief detect dice vehicle stick slam diet tornado choose vibrant salt";
+var mnemonic = "shop scrap gift vital clarify ripple monster worth write trial age strike";

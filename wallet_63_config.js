@@ -1,1 +1,1 @@
-var mnemonic = "hazard exile joke scorpion awful stairs mandate token latin eight appear wisdom";
+var mnemonic = "biology dirt federal indoor gold flower post upgrade squirrel average chalk fox";

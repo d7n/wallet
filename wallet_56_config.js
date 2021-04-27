@@ -1,1 +1,1 @@
-var mnemonic = "pepper audit hazard vital expect address end boost disorder film kitchen drip";
+var mnemonic = "holiday group chat entire stove praise dwarf only merit season marriage claim";

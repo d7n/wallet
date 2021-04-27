@@ -1,1 +1,1 @@
-var mnemonic = "exact load above echo ship antique clump elevator pottery tuna lock imitate";
+var mnemonic = "wasp gas tuna obvious twelve transfer supreme describe reform horse portion oblige";

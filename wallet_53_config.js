@@ -1,1 +1,1 @@
-var mnemonic = "swing position right lava elder lab bomb street device scrub multiply valley";
+var mnemonic = "idle joy fire lonely kitchen keen tornado shy reject science salmon twist";

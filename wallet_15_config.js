@@ -1,1 +1,1 @@
-var mnemonic = "snow language noodle sister seven setup order output spray dirt crystal cable";
+var mnemonic = "negative suggest ramp enact double change celery cover scout easy power runway";

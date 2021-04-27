@@ -1,1 +1,1 @@
-var mnemonic = "base prosper bubble flush slot cabbage situate supply midnight penalty immune useful";
+var mnemonic = "trouble sword devote code ozone humble win escape someone drift velvet region";

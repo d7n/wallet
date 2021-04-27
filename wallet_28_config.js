@@ -1,1 +1,1 @@
-var mnemonic = "comfort snack coyote dolphin boost round supreme use simple patient sketch detect";
+var mnemonic = "armor spoon behind biology man glory diary use chair manual abandon assist";

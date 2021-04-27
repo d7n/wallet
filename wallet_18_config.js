@@ -1,1 +1,1 @@
-var mnemonic = "hurdle paddle innocent cricket soldier material culture phone improve file resemble base";
+var mnemonic = "say dragon common snack trip initial bless palm sister actress spot later";

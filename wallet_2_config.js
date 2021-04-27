@@ -1,1 +1,1 @@
-var mnemonic = "meadow clown hidden thunder model calm behind two carpet leader limit puzzle";
+var mnemonic = "shrug proud tone emerge network height topple protect kind copy tuna indoor";

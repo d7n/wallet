@@ -1,1 +1,1 @@
-var mnemonic = "fatigue hurt lake erosion reflect fury welcome dial drama author invest oblige";
+var mnemonic = "cage chronic milk dilemma hospital innocent shrug receive age truth angry scheme";

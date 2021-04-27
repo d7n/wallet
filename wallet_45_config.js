@@ -1,1 +1,1 @@
-var mnemonic = "photo amount empty avocado air swallow pyramid future sponsor invite soap cage";
+var mnemonic = "dilemma omit traffic identify cruise music kid script inhale during syrup apart";

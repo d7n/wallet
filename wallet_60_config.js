@@ -1,1 +1,1 @@
-var mnemonic = "zone before lounge prepare smooth airport sniff service seed assist sport wine";
+var mnemonic = "phone never switch sure amazing repair thunder sand subway domain what since";

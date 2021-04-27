@@ -1,1 +1,1 @@
-var mnemonic = "suggest vapor delay total cheese sing beauty gadget domain that obscure round";
+var mnemonic = "cat risk venue rookie gorilla then owner system elite glove net deal";

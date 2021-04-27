@@ -1,1 +1,1 @@
-var mnemonic = "tone hold ignore ten lion lend vapor cost grass lift convince cheese";
+var mnemonic = "section monitor figure about suffer display cash lizard lunch skin document news";

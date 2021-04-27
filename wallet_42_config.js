@@ -1,1 +1,1 @@
-var mnemonic = "oxygen woman survey blade flush poverty frozen club plug poem elegant manage";
+var mnemonic = "photo above blur saddle any zebra melody economy ability area alcohol push";

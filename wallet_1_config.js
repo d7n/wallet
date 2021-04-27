@@ -1,1 +1,1 @@
-var mnemonic = "program drift pelican green bachelor inner tag entire purchase motor tattoo flock";
+var mnemonic = "topic farm idle tiger pipe season black bleak market foot learn main";

@@ -1,1 +1,1 @@
-var mnemonic = "giant pizza amount enable hobby thunder snap victory random stool blame chuckle";
+var mnemonic = "boost parade aware session iron delay width property math because month ticket";

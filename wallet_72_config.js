@@ -1,1 +1,1 @@
-var mnemonic = "fence priority habit rib soldier hurdle code subject creek drastic awake guide";
+var mnemonic = "mercy author hand faith girl nose indicate fix grid piano night fox";

@@ -1,1 +1,1 @@
-var mnemonic = "venue panel razor seed pave cross nasty obvious business fit topple proud";
+var mnemonic = "gadget tone search icon hood fit few ripple thrive school average feed";

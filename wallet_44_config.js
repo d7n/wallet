@@ -1,1 +1,1 @@
-var mnemonic = "sorry merit basic roast history above fossil team erode cover tornado minute";
+var mnemonic = "myth share turkey near tone firm brush exhibit judge enroll tooth soccer";

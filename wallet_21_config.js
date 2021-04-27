@@ -1,1 +1,1 @@
-var mnemonic = "before apology gorilla library review wreck venture verb evil heart husband undo";
+var mnemonic = "egg resist symbol agree dizzy spread alpha grit furnace story rare nasty";

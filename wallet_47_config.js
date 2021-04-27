@@ -1,1 +1,1 @@
-var mnemonic = "group catch advice lens cook often want police food dynamic elbow surprise";
+var mnemonic = "carry later gun hungry subject kick wall budget entire interest order original";

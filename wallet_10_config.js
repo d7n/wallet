@@ -1,1 +1,1 @@
-var mnemonic = "obtain bird pigeon gossip canvas lunch horror castle shoulder property sketch wrestle";
+var mnemonic = "upset almost lottery enhance tree pig offer cool happy raw field soldier";

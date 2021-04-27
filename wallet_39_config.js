@@ -1,1 +1,1 @@
-var mnemonic = "rely domain pattern trash gauge expect math spider myth ordinary enforce misery";
+var mnemonic = "diamond culture north comfort baby include notice hen glory engine hole also";

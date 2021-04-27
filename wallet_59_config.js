@@ -1,1 +1,1 @@
-var mnemonic = "hollow exile kiss slab brass grape disagree boost neutral attack velvet giggle";
+var mnemonic = "just emotion element soldier peanut frost tonight pyramid glide evidence much clarify";

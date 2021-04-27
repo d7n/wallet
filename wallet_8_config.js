@@ -1,1 +1,1 @@
-var mnemonic = "enlist trend destroy giggle meat agent empower evolve grape diet urban cheese";
+var mnemonic = "because combine void rapid gift solid into undo reason pledge alcohol crisp";

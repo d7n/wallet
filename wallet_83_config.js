@@ -1,1 +1,1 @@
-var mnemonic = "radar market whip stage egg machine economy almost step proud hunt never";
+var mnemonic = "bird silly wonder often raven shadow enrich duck galaxy rail length burger";

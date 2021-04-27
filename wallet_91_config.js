@@ -1,1 +1,1 @@
-var mnemonic = "arctic sunny market behind hub noble tape artwork panel caught van deny";
+var mnemonic = "error hybrid chronic include load avoid odor sunny weird bamboo involve wool";

@@ -1,1 +1,1 @@
-var mnemonic = "movie crunch easy click six task rate vehicle hard virus news tissue";
+var mnemonic = "pottery filter divert fire topic reflect trust pool kitchen century armor report";

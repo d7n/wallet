@@ -1,1 +1,1 @@
-var mnemonic = "flock scale joy wisdom winter guitar layer right pole village gas notice";
+var mnemonic = "oil flag tank police grain drink galaxy ecology donkey shoot view banana";

@@ -1,1 +1,1 @@
-var mnemonic = "wash canyon planet bounce assume season earn torch elevator evoke speed draft";
+var mnemonic = "fee corn remove monkey ready video slight lock annual must enjoy same";

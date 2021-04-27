@@ -1,1 +1,1 @@
-var mnemonic = "movie creek rally ring join spring search reward concert limit pioneer blade";
+var mnemonic = "crush business sign parent melt mansion burden vibrant myth stock salon smoke";

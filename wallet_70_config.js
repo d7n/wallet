@@ -1,1 +1,1 @@
-var mnemonic = "retire cloth horror cloth lounge they come point unable express wheat keen";
+var mnemonic = "rifle speed way diagram dolphin improve arm elevator spirit satisfy cigar creek";

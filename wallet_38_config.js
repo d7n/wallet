@@ -1,1 +1,1 @@
-var mnemonic = "need project risk oval pair roof arrange capital cart stamp gun foam";
+var mnemonic = "silent lift loan make present mirror matrix banana awful view settle notable";

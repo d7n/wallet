@@ -1,1 +1,1 @@
-var mnemonic = "cream start grit lab anchor vintage mechanic phone expire trade spring atom";
+var mnemonic = "security abandon wrap picture increase unaware cry bottom miracle egg damage announce";

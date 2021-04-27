@@ -1,1 +1,1 @@
-var mnemonic = "woman twenty boy arrow zoo talk maid address double loop urge into";
+var mnemonic = "damp umbrella fancy window awake twice group hotel wolf observe lobster scare";

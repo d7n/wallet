@@ -1,1 +1,1 @@
-var mnemonic = "gasp swear lounge cool soda record smoke cinnamon media core prison dirt";
+var mnemonic = "tray prize depart rent forum worry vintage lock else draft meat crouch";

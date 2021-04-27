@@ -1,1 +1,1 @@
-var mnemonic = "egg shoot panther sorry half number zoo tackle crop decide supreme team";
+var mnemonic = "benefit cube slow wine blame aisle horror evidence amused silly viable beach";

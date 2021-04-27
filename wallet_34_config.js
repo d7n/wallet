@@ -1,1 +1,1 @@
-var mnemonic = "dilemma mix movie media husband napkin mango quit car nurse host world";
+var mnemonic = "topple brother honey unable mountain pill suffer tourist avoid scatter thunder another";

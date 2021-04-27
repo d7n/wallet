@@ -1,1 +1,1 @@
-var mnemonic = "energy celery tower category hold employ man loop rib begin bundle any";
+var mnemonic = "help buffalo hurry medal lumber misery prefer shadow place thing glove beach";

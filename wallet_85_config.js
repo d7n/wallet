@@ -1,1 +1,1 @@
-var mnemonic = "throw creek calm bronze capable alpha nose absorb else curious today estate";
+var mnemonic = "dragon hidden where multiply embark act deposit copy lecture bottom eye keen";

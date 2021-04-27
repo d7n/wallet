@@ -1,1 +1,1 @@
-var mnemonic = "firm square certain crop pool shell exchange guide pole clap tiger funny";
+var mnemonic = "distance chapter mountain senior menu car swift normal physical reflect race danger";

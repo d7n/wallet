@@ -1,1 +1,1 @@
-var mnemonic = "disagree worth fix shift toe drive riot program dust fury ritual dice";
+var mnemonic = "impact town birth talent result afford nominee bridge access thumb rural frost";

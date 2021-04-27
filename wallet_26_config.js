@@ -1,1 +1,1 @@
-var mnemonic = "element knock glide minimum cactus december prison attract toy job script wheel";
+var mnemonic = "actor other mushroom attack height attract proof library cattle knee easy swamp";

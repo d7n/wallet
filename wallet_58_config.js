@@ -1,1 +1,1 @@
-var mnemonic = "grit celery sibling yellow boost pole outdoor scrub pioneer cousin over snake";
+var mnemonic = "picture maximum dry shield scare sweet include device advance tribe spatial pupil";

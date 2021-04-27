@@ -1,1 +1,1 @@
-var mnemonic = "grape consider stool notice candy tell snap recycle forward trophy scale basic";
+var mnemonic = "cruise beyond knee cotton price now hold pony market ability discover trash";

@@ -1,1 +1,1 @@
-var mnemonic = "rule quantum risk enable delay refuse forest average topic awake lady muscle";
+var mnemonic = "demise demise outdoor fiscal alcohol swim acid early chalk bean van climb";

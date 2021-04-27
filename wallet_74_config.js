@@ -1,1 +1,1 @@
-var mnemonic = "capable use leave pottery catalog resemble battle goat rigid scrub piano bag";
+var mnemonic = "useful judge pink record just wrong essence critic diagram kitchen sunset very";

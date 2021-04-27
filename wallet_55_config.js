@@ -1,1 +1,1 @@
-var mnemonic = "wink actor video make topic devote cube fork protect forget plunge praise";
+var mnemonic = "month hint act pause wheat sure crane only border couple blouse weapon";

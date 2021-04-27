@@ -1,1 +1,1 @@
-var mnemonic = "door fatigue window midnight glory notice funny start cliff income nature shop";
+var mnemonic = "correct vibrant say initial pair sun indicate skate series pig fan child";

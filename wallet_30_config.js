@@ -1,1 +1,1 @@
-var mnemonic = "industry toward smooth thumb era prison option rule around chief bicycle puppy";
+var mnemonic = "fly riot aunt wink lift foot sunset private coyote fitness panther field";

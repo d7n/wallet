@@ -1,1 +1,1 @@
-var mnemonic = "vacuum escape chronic evil hurt angry raise alone cargo cream clown peace";
+var mnemonic = "nephew salad method smile hollow question upgrade tank spy wing midnight cotton";

@@ -1,1 +1,1 @@
-var mnemonic = "pigeon pass rotate bubble material inner robot whisper gold border burst pumpkin";
+var mnemonic = "polar caught accuse attack solar sight divide anger under luxury industry consider";

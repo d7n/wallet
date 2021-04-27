@@ -1,1 +1,1 @@
-var mnemonic = "puzzle link cushion addict glass rescue kiss key bullet zone donkey escape";
+var mnemonic = "zone diamond screen winner deposit jacket sunset riot rail mansion strong found";

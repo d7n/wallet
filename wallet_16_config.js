@@ -1,1 +1,1 @@
-var mnemonic = "kick broken matrix sample first assume inform buffalo spot village eager smile";
+var mnemonic = "fabric robust place void grow satoshi apple snake room night chapter basic";

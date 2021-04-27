@@ -1,1 +1,1 @@
-var mnemonic = "stock virtual region offer artist cattle clever kick story walnut torch pet";
+var mnemonic = "age avoid actor vicious crew fun dawn giraffe fee pony bulb hello";

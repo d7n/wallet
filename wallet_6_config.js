@@ -1,1 +1,1 @@
-var mnemonic = "pioneer they sense hollow term canyon hazard festival shove visa quality inject";
+var mnemonic = "zoo shove true whip lawsuit later cotton usual illness scout tail fence";

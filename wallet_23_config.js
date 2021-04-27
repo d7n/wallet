@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog tired grunt cancel wife vintage suit gasp cement fantasy lawsuit gesture";
+var mnemonic = "weekend topple suggest dice intact brisk cost auto illness vendor mad toast";

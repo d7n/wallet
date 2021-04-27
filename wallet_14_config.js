@@ -1,1 +1,1 @@
-var mnemonic = "purity deer basket capable sand year wire minimum icon render worry neck";
+var mnemonic = "talk useful suffer best yellow section regular into enforce motion dilemma view";

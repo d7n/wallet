@@ -1,1 +1,1 @@
-var mnemonic = "gadget sand crouch decorate tree true craft topple small pioneer clown tooth";
+var mnemonic = "accuse obey cable grace atom small amount stadium blast intact clump because";

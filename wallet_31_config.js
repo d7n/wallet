@@ -1,1 +1,1 @@
-var mnemonic = "gate path predict fatal water unveil skull online atom fragile whip diesel";
+var mnemonic = "leader one sudden crunch logic forget nothing critic net build magnet wolf";

@@ -1,1 +1,1 @@
-var mnemonic = "expose blur usual pluck bean spider shuffle muffin armor gauge cup toast";
+var mnemonic = "organ asthma iron tragic ceiling faint genius ride inspire drip maximum boat";

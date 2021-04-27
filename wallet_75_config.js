@@ -1,1 +1,1 @@
-var mnemonic = "anchor add select lottery knee mercy absurd paper pupil rookie quality trip";
+var mnemonic = "flame faint rigid spy flash sauce found organ differ vocal cake desert";

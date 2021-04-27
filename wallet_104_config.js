@@ -1,1 +1,1 @@
-var mnemonic = "host promote sad depth develop absorb tooth seek drive elegant friend degree";
+var mnemonic = "smart voyage ginger recycle buddy glass miracle wheat dragon speed snap grape";

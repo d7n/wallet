@@ -1,1 +1,1 @@
-var mnemonic = "deny narrow right please buffalo february horror wing eight napkin reduce camera";
+var mnemonic = "basic gauge random potato enter rice menu anxiety claim solve orient exclude";

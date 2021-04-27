@@ -1,1 +1,1 @@
-var mnemonic = "neck term dad prepare sister acquire bonus orphan crunch change claw cliff";
+var mnemonic = "luxury quit ghost orbit public carbon embark comfort garlic tone pigeon worry";

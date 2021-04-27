@@ -1,1 +1,1 @@
-var mnemonic = "village gossip pink recall unusual tail matter south banana initial cabbage draft";
+var mnemonic = "indicate foil alarm fitness violin share artefact hurry mixture pave effort case";

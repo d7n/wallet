@@ -1,1 +1,1 @@
-var mnemonic = "switch option asset domain sample powder certain kitten ignore giggle sustain hockey";
+var mnemonic = "toe brick govern eternal arrange proof fix rice boring stomach enjoy way";

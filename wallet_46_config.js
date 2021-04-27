@@ -1,1 +1,1 @@
-var mnemonic = "warm pill flat two hybrid pulp gauge border before all phone code";
+var mnemonic = "coil rude satoshi render provide crazy wrong viable parade girl machine help";

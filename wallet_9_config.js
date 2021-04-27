@@ -1,1 +1,1 @@
-var mnemonic = "tired aspect hope shrimp barrel slow silk win hidden stem tribe hospital";
+var mnemonic = "label slide ill law insane egg left inside predict vocal sense ensure";
