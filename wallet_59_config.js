@@ -1,1 +1,1 @@
-var mnemonic = "genius cloud actress space guess lyrics torch clock remain dune comic road";
+var mnemonic = "civil update worry cigar dentist price eager trophy pelican parade blind grace";

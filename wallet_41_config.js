@@ -1,1 +1,1 @@
-var mnemonic = "dress weird screen decorate harvest various nerve village turn shoe change sketch";
+var mnemonic = "magnet game poverty just number matrix because nothing survey thunder curve essay";

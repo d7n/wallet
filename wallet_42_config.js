@@ -1,1 +1,1 @@
-var mnemonic = "bench ball among report salt reduce exhaust climb duck strike roof cactus";
+var mnemonic = "match panel salon night hill void hen soft issue future news vault";

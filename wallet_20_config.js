@@ -1,1 +1,1 @@
-var mnemonic = "summer chronic inside nut dizzy entry husband quit abandon mercy inherit switch";
+var mnemonic = "birth lizard cup idle fossil weapon deal curve cheap jungle venue spirit";

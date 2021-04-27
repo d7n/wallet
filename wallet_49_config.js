@@ -1,1 +1,1 @@
-var mnemonic = "wife flavor hurt blast rose enlist car arrive orient prevent will lunch";
+var mnemonic = "crowd success width hold elite miss turtle decline face truth auto silk";

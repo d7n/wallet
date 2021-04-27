@@ -1,1 +1,1 @@
-var mnemonic = "glad mean general eager field truck pill chapter loyal gorilla subject shallow";
+var mnemonic = "salon have drill river fresh seven lady there hire swing reveal alter";

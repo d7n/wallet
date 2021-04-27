@@ -1,1 +1,1 @@
-var mnemonic = "song coast butter tribe idea father zone unable inform utility crowd excuse";
+var mnemonic = "obvious soccer image delay lens beauty field man casino asset lecture average";

@@ -1,1 +1,1 @@
-var mnemonic = "forest aim casino vanish exclude vendor soldier raccoon live spot amazing throw";
+var mnemonic = "protect frog trick unaware garbage stick ski pistol labor grab ahead joy";

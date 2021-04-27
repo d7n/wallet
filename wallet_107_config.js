@@ -1,1 +1,1 @@
-var mnemonic = "return grain loud meat peanut furnace film harvest clip eager future sniff";
+var mnemonic = "bullet ancient atom squirrel dust property old public slight talk october spoon";

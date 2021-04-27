@@ -1,1 +1,1 @@
-var mnemonic = "reveal vacuum monster sound screen rack video crater nurse excite capital verify";
+var mnemonic = "sight happy candy remove black armor dust record abandon balance volcano engage";

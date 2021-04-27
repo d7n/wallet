@@ -1,1 +1,1 @@
-var mnemonic = "turn run census sad blue hover cross arena hair electric view day";
+var mnemonic = "depart hip lawsuit hammer hair chef couple zero casual repair october future";

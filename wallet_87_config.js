@@ -1,1 +1,1 @@
-var mnemonic = "little bus bless peasant lunar uncle clean shoe what foster kangaroo enough";
+var mnemonic = "fringe leave glove gentle mutual possible total crunch exhaust woman month steel";

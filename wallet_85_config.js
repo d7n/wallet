@@ -1,1 +1,1 @@
-var mnemonic = "robust record rate leisure device mirror vital artist glue earn execute nasty";
+var mnemonic = "final pulp sausage palace dog bridge hen anxiety denial grass pitch lamp";

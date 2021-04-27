@@ -1,1 +1,1 @@
-var mnemonic = "circle kangaroo novel own trash enter dress sausage tumble thought question lounge";
+var mnemonic = "jelly walk expose fun more answer then erode recipe bread myself motion";

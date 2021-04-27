@@ -1,1 +1,1 @@
-var mnemonic = "expire collect because lake put hello frozen mansion deny guitar dinner extra";
+var mnemonic = "book taxi health famous extra mouse stadium erode slogan earth dumb beach";

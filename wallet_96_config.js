@@ -1,1 +1,1 @@
-var mnemonic = "suspect route need spray spray word produce dog bag despair portion cereal";
+var mnemonic = "there solar actor soup proof trial control still knife host certain around";

@@ -1,1 +1,1 @@
-var mnemonic = "estate vague small loan buzz cheap north eye gravity universe fuel enhance";
+var mnemonic = "home sniff enact work clean jelly purity retire leaf aunt source bubble";

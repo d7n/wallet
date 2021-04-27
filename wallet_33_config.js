@@ -1,1 +1,1 @@
-var mnemonic = "path hero tackle ancient cricket acoustic dance noodle often crater burst ripple";
+var mnemonic = "family chimney bag globe repeat drama puzzle achieve square subject amazing cluster";

@@ -1,1 +1,1 @@
-var mnemonic = "cup remind heavy very length notice hen parade sniff fury frequent main";
+var mnemonic = "route dolphin range leg soup project sorry develop debate happy liberty elegant";

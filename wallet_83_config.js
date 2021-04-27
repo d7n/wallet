@@ -1,1 +1,1 @@
-var mnemonic = "brass upset leader little angle artwork traffic slice tunnel auto general timber";
+var mnemonic = "advice plastic hawk lecture dish icon satisfy merit trumpet habit version winner";

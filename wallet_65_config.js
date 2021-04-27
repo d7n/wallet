@@ -1,1 +1,1 @@
-var mnemonic = "tiny name regular mad normal person enlist survey tank fantasy divorce renew";
+var mnemonic = "fuel into balcony tooth sweet cry brave assault reunion coil guide bachelor";

@@ -1,1 +1,1 @@
-var mnemonic = "wet hybrid recall law junk veteran lend december obscure debris tower initial";
+var mnemonic = "couple three brick frown clown ski race little paper april aspect vapor";

@@ -1,1 +1,1 @@
-var mnemonic = "shield reward noodle marble film glide hospital flag act simple axis random";
+var mnemonic = "child hawk minute better kit gown family angry chief away art until";

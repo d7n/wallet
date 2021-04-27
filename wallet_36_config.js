@@ -1,1 +1,1 @@
-var mnemonic = "jewel eternal disease myth strong arrive execute sea bitter moment toy race";
+var mnemonic = "sphere wall bulb ride silk cricket sauce drink race net wisdom poverty";

@@ -1,1 +1,1 @@
-var mnemonic = "retire evidence garment senior library pill cinnamon trophy yard game bleak stool";
+var mnemonic = "verify violin choose device carry visual photo crew legal direct faint bulk";

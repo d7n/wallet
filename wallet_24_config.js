@@ -1,1 +1,1 @@
-var mnemonic = "buddy escape alter fire game mountain evil crisp amateur fox token crack";
+var mnemonic = "direct edit beach artwork entry bus try infant position elevator ship oppose";

@@ -1,1 +1,1 @@
-var mnemonic = "fitness fit index alone bus cruel guitar absorb pact slam hen empty";
+var mnemonic = "rough inhale census chaos story file hand harvest warm what relax story";

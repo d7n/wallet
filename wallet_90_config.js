@@ -1,1 +1,1 @@
-var mnemonic = "artist average cram deposit street mango load critic lobster various panel cause";
+var mnemonic = "virtual essay disagree pioneer pudding wreck client music net friend alert noise";

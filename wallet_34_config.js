@@ -1,1 +1,1 @@
-var mnemonic = "finger stadium artist plate gospel sell tattoo left divide thrive apple turtle";
+var mnemonic = "faint venue accident copy issue south update sand harvest food paper rail";

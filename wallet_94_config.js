@@ -1,1 +1,1 @@
-var mnemonic = "sight together guess broken wear jewel evoke famous inherit nasty pipe royal";
+var mnemonic = "empty frog jeans angle crisp candy damage unfold captain cotton weather cart";

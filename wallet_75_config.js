@@ -1,1 +1,1 @@
-var mnemonic = "jealous flat mixture what nephew sheriff style talent pull elder gasp debris";
+var mnemonic = "predict lake gas pride tell brief between consider route choice dog measure";

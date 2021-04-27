@@ -1,1 +1,1 @@
-var mnemonic = "drill side path version target garage design happy venue develop weasel ecology";
+var mnemonic = "slight evolve menu destroy panel joke cinnamon example earn swallow common pave";

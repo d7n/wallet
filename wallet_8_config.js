@@ -1,1 +1,1 @@
-var mnemonic = "gorilla crop share vanish output help drama other pottery health size assume";
+var mnemonic = "air describe enjoy high denial dress portion tell gospel smooth afford behave";

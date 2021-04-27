@@ -1,1 +1,1 @@
-var mnemonic = "limb choice avoid oblige click what chef rude course athlete process hole";
+var mnemonic = "core column jewel east actress piano gallery juice kingdom version next tuition";

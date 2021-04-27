@@ -1,1 +1,1 @@
-var mnemonic = "impulse shaft acoustic seek attitude gallery model hawk convince rhythm broken way";
+var mnemonic = "proof polar start select venture shove leg mammal easy broken car surface";

@@ -1,1 +1,1 @@
-var mnemonic = "eagle west dolphin subway quote first soul remove nut step attack unable";
+var mnemonic = "tired lounge shell army amused spatial diet leopard group small useful layer";

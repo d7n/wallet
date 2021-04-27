@@ -1,1 +1,1 @@
-var mnemonic = "harbor column limit proof crumble write group anger obtain salmon margin paddle";
+var mnemonic = "build bargain honey gym problem hub board solid burden open jump tide";

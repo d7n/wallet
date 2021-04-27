@@ -1,1 +1,1 @@
-var mnemonic = "topic wealth increase spread own grace radio mask horse exercise dirt humor";
+var mnemonic = "point clown century business decade resist another baby never correct witness expose";

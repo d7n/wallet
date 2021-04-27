@@ -1,1 +1,1 @@
-var mnemonic = "renew now fox oppose auction word lizard distance expect elder interest protect";
+var mnemonic = "utility youth visit axis melody live fall menu rail kite around found";

@@ -1,1 +1,1 @@
-var mnemonic = "volcano canal control mixture shy hip lift day clerk impose shove win";
+var mnemonic = "boat farm jar okay excite equip such target expect feature blush forget";

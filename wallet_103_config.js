@@ -1,1 +1,1 @@
-var mnemonic = "abandon organ denial puzzle mesh slot receive canyon celery bonus mouse cradle";
+var mnemonic = "describe tiny crunch hip garlic ranch fame orient senior dawn deliver opinion";

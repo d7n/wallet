@@ -1,1 +1,1 @@
-var mnemonic = "maximum shy limit column elevator exist kick thrive holiday slender hurdle million";
+var mnemonic = "moon leopard bomb unveil replace pool episode crouch scale innocent trick relax";

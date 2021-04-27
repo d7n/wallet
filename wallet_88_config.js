@@ -1,1 +1,1 @@
-var mnemonic = "museum talk ridge border eternal barrel output convince enemy claim sense fatigue";
+var mnemonic = "salmon eager ask dune now derive orbit skirt thing figure joy endorse";

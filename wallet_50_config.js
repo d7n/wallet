@@ -1,1 +1,1 @@
-var mnemonic = "quality alley noodle benefit toilet memory shield under era cinnamon leopard poet";
+var mnemonic = "best robot town digital normal local coach again air domain donkey sleep";

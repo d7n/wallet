@@ -1,1 +1,1 @@
-var mnemonic = "cloud conduct ugly devote journey curious master reunion success ethics legend neutral";
+var mnemonic = "damage ocean crush demise iron bench ghost combine change volcano ahead spice";

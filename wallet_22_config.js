@@ -1,1 +1,1 @@
-var mnemonic = "voyage urban blame main brisk cost library pony robust lift sick section";
+var mnemonic = "toe inherit vapor scene panic fault tail move affair benefit shoulder crouch";

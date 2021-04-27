@@ -1,1 +1,1 @@
-var mnemonic = "affair purchase energy park satisfy city mobile history myth custom flock choose";
+var mnemonic = "armed ecology boat oak edit tube motion gather hybrid install aware final";

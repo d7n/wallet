@@ -1,1 +1,1 @@
-var mnemonic = "arrive huge old puppy west mask erosion upgrade envelope junior equip cause";
+var mnemonic = "nuclear fatal airport fatigue goat arena drink rapid inspire valid humor sausage";

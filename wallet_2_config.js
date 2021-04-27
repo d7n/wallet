@@ -1,1 +1,1 @@
-var mnemonic = "ill weather craft sail toss doctor champion current mercy vendor net nothing";
+var mnemonic = "find slight double gas surround around crime obvious resist topic elephant floor";

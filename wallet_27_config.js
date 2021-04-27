@@ -1,1 +1,1 @@
-var mnemonic = "ahead burger stamp student major boat join great rare name space exile";
+var mnemonic = "amused skill kite stick ghost paddle act because scan arrive random estate";

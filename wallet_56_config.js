@@ -1,1 +1,1 @@
-var mnemonic = "door cross wisdom scatter family gift cruise cage mix style trophy large";
+var mnemonic = "palace clerk exclude idle cherry cloth chaos beauty slice arm indoor fringe";

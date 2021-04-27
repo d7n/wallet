@@ -1,1 +1,1 @@
-var mnemonic = "shoot type fashion worry soccer false plug alcohol equal sound cargo resist";
+var mnemonic = "rule ancient sphere subject gloom enlist finish hard kiss trip swift banner";

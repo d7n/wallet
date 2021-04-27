@@ -1,1 +1,1 @@
-var mnemonic = "nurse divorce lawn relax bullet behind borrow anchor slush segment member old";
+var mnemonic = "science slow skin service cage scorpion ketchup wreck once vessel useless zero";

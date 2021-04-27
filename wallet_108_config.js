@@ -1,1 +1,1 @@
-var mnemonic = "flavor grace spoon coach monkey antique burger visual split fatal library casino";
+var mnemonic = "slim lobster market pause can gesture helmet neglect trial law chuckle resemble";

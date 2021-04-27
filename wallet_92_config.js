@@ -1,1 +1,1 @@
-var mnemonic = "century reward speed obscure entry hidden phone tooth path box biology west";
+var mnemonic = "enroll document young nest oak wood depth stool snake code better chef";

@@ -1,1 +1,1 @@
-var mnemonic = "shrug gesture nice focus grain become weapon viable uncle alcohol team earth";
+var mnemonic = "burden beauty lyrics cheap amateur inmate nation sense capable puzzle doctor fit";

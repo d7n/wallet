@@ -1,1 +1,1 @@
-var mnemonic = "sick estate yellow smart blast barely party tissue pink stereo win carbon";
+var mnemonic = "miss evidence private skill truth behave coyote gym six spot stool outside";

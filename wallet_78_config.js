@@ -1,1 +1,1 @@
-var mnemonic = "slab dentist again owner describe crystal engage before plunge barely film mother";
+var mnemonic = "cook home kingdom ready coyote already rough keep hazard inform walnut tuition";

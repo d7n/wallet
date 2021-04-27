@@ -1,1 +1,1 @@
-var mnemonic = "stool absent spray oblige divert kiss cannon tide crucial auction quit expect";
+var mnemonic = "print peace pear miracle scare swear wisdom frozen response metal charge various";

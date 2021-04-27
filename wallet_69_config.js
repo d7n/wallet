@@ -1,1 +1,1 @@
-var mnemonic = "lava slush infant wait result awful left addict pull case stock excess";
+var mnemonic = "luxury oval arch canvas virtual lobster cushion napkin coast popular shoot ticket";

@@ -1,1 +1,1 @@
-var mnemonic = "huge merit side edit fluid cube drift creek purpose sugar tilt hobby";
+var mnemonic = "heart acoustic drop invite run steel diamond trial humble inflict square hunt";

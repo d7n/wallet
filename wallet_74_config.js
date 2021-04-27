@@ -1,1 +1,1 @@
-var mnemonic = "aim glad mail vacuum imitate grow boss vessel update fix dress shield";
+var mnemonic = "various clever write circle spring owner again thank kangaroo vintage trip hand";

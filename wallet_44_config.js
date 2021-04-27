@@ -1,1 +1,1 @@
-var mnemonic = "elephant rich rough fly diamond debate crater village rain reward list cage";
+var mnemonic = "pizza level bunker anxiety mask erode game bottom tag legend ethics offer";

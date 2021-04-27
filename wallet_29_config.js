@@ -1,1 +1,1 @@
-var mnemonic = "winter garment public parrot toe utility arctic gloom matrix devote fancy reopen";
+var mnemonic = "design rail again inherit census famous myth word trash palace fatigue brother";

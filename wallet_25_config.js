@@ -1,1 +1,1 @@
-var mnemonic = "slide enter crystal hedgehog thing foster capable always pottery february repair online";
+var mnemonic = "include icon odor tissue screen demise obey poem cigar explain thumb license";

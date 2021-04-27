@@ -1,1 +1,1 @@
-var mnemonic = "menu among leave force trophy blush profit juice horn icon face firm";
+var mnemonic = "school crane tunnel tower include lounge gauge steak ride under cradle spray";

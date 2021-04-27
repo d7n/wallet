@@ -1,1 +1,1 @@
-var mnemonic = "clay grace table name sun other before left elbow below head system";
+var mnemonic = "six fade gesture supreme mountain viable pulse sick lottery beauty charge right";

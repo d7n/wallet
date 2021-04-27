@@ -1,1 +1,1 @@
-var mnemonic = "flush across fat maze inquiry isolate coffee unique course strong comic romance";
+var mnemonic = "pledge combine parent beef file victory among accuse word knee dolphin share";

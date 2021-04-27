@@ -1,1 +1,1 @@
-var mnemonic = "debate peasant mercy candy canal lawsuit over item marble skill close enemy";
+var mnemonic = "tuna pyramid afford unknown purpose unknown humor holiday dash news object sort";

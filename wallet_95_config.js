@@ -1,1 +1,1 @@
-var mnemonic = "insect hard lamp twist antenna crime omit mind enlist input strategy coast";
+var mnemonic = "rose doll couple pioneer link violin surface congress eyebrow west panel adjust";

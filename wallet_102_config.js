@@ -1,1 +1,1 @@
-var mnemonic = "midnight wall own country gather peasant soda viable rib steak tag rival";
+var mnemonic = "ship define aspect glad firm bid three major heart crane impact risk";

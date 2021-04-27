@@ -1,1 +1,1 @@
-var mnemonic = "bid town pride system movie remove news wrap reform purchase ignore ride";
+var mnemonic = "reason bless current mushroom evolve drip hat siren problem donor action stage";

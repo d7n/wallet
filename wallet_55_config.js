@@ -1,1 +1,1 @@
-var mnemonic = "jeans pink budget famous conduct senior chimney shrimp measure extra shoe cousin";
+var mnemonic = "prefer sure claim sweet major cherry cool float weasel expose modify problem";

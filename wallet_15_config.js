@@ -1,1 +1,1 @@
-var mnemonic = "letter unlock deny flock coin fog assault crater holiday delay glare void";
+var mnemonic = "bronze leave make void devote wood broccoli soap balance afraid tenant express";

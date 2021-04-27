@@ -1,1 +1,1 @@
-var mnemonic = "keen swing one appear remind scout exile speak boss bonus alpha light";
+var mnemonic = "life feel pledge sunny oval crumble blue area lend shy clock pretty";

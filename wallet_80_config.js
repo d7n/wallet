@@ -1,1 +1,1 @@
-var mnemonic = "brush aim smart love typical explain solid void famous dismiss system brave";
+var mnemonic = "hold retire limit unit evidence hollow innocent such company say corn body";

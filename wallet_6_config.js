@@ -1,1 +1,1 @@
-var mnemonic = "fan twist mountain dial joke allow before huge decrease tell success walnut";
+var mnemonic = "blouse clarify cherry teach review cliff public promote keep fold enemy magnet";

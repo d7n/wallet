@@ -1,1 +1,1 @@
-var mnemonic = "room general tornado speak this custom same lizard mango present snow bag";
+var mnemonic = "vote inch rug praise code thrive claim viable firm program fragile quick";

@@ -1,1 +1,1 @@
-var mnemonic = "magnet apology coach wagon atom pill agree jealous category surprise bar symptom";
+var mnemonic = "can fashion fortune since thank toy best turn film legal pretty cake";

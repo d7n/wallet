@@ -1,1 +1,1 @@
-var mnemonic = "alley glow tobacco orange upset eye scene great lucky old legend tiny";
+var mnemonic = "bunker foster first syrup attend tide west broom jump foam dream retire";

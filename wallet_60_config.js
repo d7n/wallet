@@ -1,1 +1,1 @@
-var mnemonic = "obey ostrich subject arch spike mass excess cram custom tuition grace panda";
+var mnemonic = "also panel already gospel elbow ozone next enter day gasp upon velvet";

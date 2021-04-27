@@ -1,1 +1,1 @@
-var mnemonic = "eternal visit damp person dish exile romance rack note history health inject";
+var mnemonic = "conduct merit trip excite dignity income fly sword gain ritual pupil lecture";

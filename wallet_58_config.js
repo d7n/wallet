@@ -1,1 +1,1 @@
-var mnemonic = "famous comic awkward fury mansion goddess kick state pair bring cinnamon kiwi";
+var mnemonic = "save upon confirm limb urge pet lady cargo champion autumn valve settle";

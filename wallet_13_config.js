@@ -1,1 +1,1 @@
-var mnemonic = "observe canyon require adapt kidney erase deal ticket fog country attend dirt";
+var mnemonic = "guitar body clean turn peasant invite arctic moral enforce thrive nurse grunt";

@@ -1,1 +1,1 @@
-var mnemonic = "hint pudding shallow time visa addict accuse oblige radar easily social dune";
+var mnemonic = "hour present grunt napkin asset absurd cool town best total hamster inherit";

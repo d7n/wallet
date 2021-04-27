@@ -1,1 +1,1 @@
-var mnemonic = "flower able dynamic nothing small program grace rough verb luggage jelly unfair";
+var mnemonic = "search bring survey wisdom wear february feed gauge north confirm exercise into";

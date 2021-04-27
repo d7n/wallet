@@ -1,1 +1,1 @@
-var mnemonic = "apology mirror lady goose warm slot tray sunny style rocket worry alien";
+var mnemonic = "merry moral fruit wet game army symbol tennis wall kiwi edge member";

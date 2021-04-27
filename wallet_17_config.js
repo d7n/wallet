@@ -1,1 +1,1 @@
-var mnemonic = "sustain jeans divorce soldier benefit birth brief upset select trade unhappy choice";
+var mnemonic = "wire turkey trumpet extend remember able engage flavor strike marble wide stone";

@@ -1,1 +1,1 @@
-var mnemonic = "pretty weekend diamond core update truck lecture garment shrimp eyebrow select promote";
+var mnemonic = "shiver scrap immune morning decide urban hammer rural aware faith electric trick";

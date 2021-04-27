@@ -1,1 +1,1 @@
-var mnemonic = "country index clog ranch stuff state drop pattern pitch suit avoid fortune";
+var mnemonic = "love tuition group deliver plastic lyrics neck swift wheel girl lens story";

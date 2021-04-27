@@ -1,1 +1,1 @@
-var mnemonic = "begin fiber track aisle globe slogan pause next slide night level twice";
+var mnemonic = "direct wild coach recipe pen afraid solve lumber supreme mirror hood crime";

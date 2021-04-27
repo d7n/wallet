@@ -1,1 +1,1 @@
-var mnemonic = "airport team tourist floor thank proof spread rack place frown achieve hood";
+var mnemonic = "mad happy you pioneer stumble fringe journey about kit float you child";

@@ -1,1 +1,1 @@
-var mnemonic = "latin boring cliff can element say hammer dash better monitor despair admit";
+var mnemonic = "emotion title robot enjoy quick discover bunker donate reopen mechanic judge kidney";
