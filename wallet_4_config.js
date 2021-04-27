@@ -1,1 +1,1 @@
-var mnemonic = "trick end analyst shoot federal stool broken goose knock tip gauge liquid";
+var mnemonic = "asthma route dove second fury motion insect museum life drill swap air";

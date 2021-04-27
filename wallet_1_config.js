@@ -1,1 +1,1 @@
-var mnemonic = "run uncle tortoise develop argue topple element vacuum away hope weather punch";
+var mnemonic = "tag step flat promote state case such play three forum spy acquire";

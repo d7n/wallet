@@ -1,1 +1,1 @@
-var mnemonic = "dress please foil hold list ask meat dice cruise fog gap output";
+var mnemonic = "lift dirt two reduce resist machine soup gas unit dutch wine recall";

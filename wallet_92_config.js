@@ -1,1 +1,1 @@
-var mnemonic = "resource reward easily guard ranch cute divide august kitten exclude version urge";
+var mnemonic = "mean mouse life flavor once barrel other tank cloud combine bicycle reject";

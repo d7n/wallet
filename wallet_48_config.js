@@ -1,1 +1,1 @@
-var mnemonic = "similar harbor mouse broom senior skull radar name basket cheese meat book";
+var mnemonic = "phrase account want stick ride connect general tray gaze soda slight jelly";

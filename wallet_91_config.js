@@ -1,1 +1,1 @@
-var mnemonic = "grain release cabin scorpion limit orchard clump coffee camp license also desk";
+var mnemonic = "marriage divorce cinnamon method certain trip gun observe maze way recall chef";

@@ -1,1 +1,1 @@
-var mnemonic = "sweet swallow local company tide total couple toss opinion doll sweet mask";
+var mnemonic = "swap rely hard air off powder install pen dutch fault buyer confirm";

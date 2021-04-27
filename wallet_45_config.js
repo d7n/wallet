@@ -1,1 +1,1 @@
-var mnemonic = "music bubble gift begin spoon jeans hill chat because deer ugly write";
+var mnemonic = "empty arrest reform science cousin dad orbit hat canyon rotate welcome art";

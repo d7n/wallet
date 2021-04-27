@@ -1,1 +1,1 @@
-var mnemonic = "degree matrix click obvious armed glance burden female nerve average spell silk";
+var mnemonic = "laundry prison token coral lyrics lift intact awake beef chalk crew maximum";

@@ -1,1 +1,1 @@
-var mnemonic = "belt pioneer melody chest click soft only cabbage rack choose trust evolve";
+var mnemonic = "clock illegal update track casual figure arrest cart main enough slot inhale";

@@ -1,1 +1,1 @@
-var mnemonic = "merit remember unfold umbrella draw nation ship onion beauty tonight system hover";
+var mnemonic = "exhaust unable tackle hole embody exotic ridge eternal expire inform catch acid";

@@ -1,1 +1,1 @@
-var mnemonic = "canal tomorrow order quarter tunnel stadium bracket alarm age dose very theme";
+var mnemonic = "donkey zebra wall business common wish they analyst also disorder second document";

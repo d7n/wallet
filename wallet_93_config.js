@@ -1,1 +1,1 @@
-var mnemonic = "spoon happy gym much slot actor execute script require tip curve mushroom";
+var mnemonic = "snow between miss lunar mail reform regret have noodle exclude sustain topple";

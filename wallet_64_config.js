@@ -1,1 +1,1 @@
-var mnemonic = "chat ranch combine elevator excuse artwork whip metal stamp regular ceiling mad";
+var mnemonic = "doctor urge similar message common clown drip bullet giraffe snake coast route";

@@ -1,1 +1,1 @@
-var mnemonic = "pill siege arrive swift right purpose crucial sing elegant wrong coral become";
+var mnemonic = "quick crush plastic occur patrol ritual mandate together volcano dignity flush cancel";

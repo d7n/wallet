@@ -1,1 +1,1 @@
-var mnemonic = "edit dwarf desert raccoon fancy liar pioneer coffee erupt beef valid repeat";
+var mnemonic = "green sing income miracle engage mandate hurry vocal upset cloth inform parrot";

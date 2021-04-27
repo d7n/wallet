@@ -1,1 +1,1 @@
-var mnemonic = "alter cliff assist matrix explain ethics bargain exercise trap loop soccer another";
+var mnemonic = "explain clip goat rotate void exchange donate hidden guilt board polar trim";

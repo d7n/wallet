@@ -1,1 +1,1 @@
-var mnemonic = "antenna feed forum melody detail puppy lazy trust soon check example walnut";
+var mnemonic = "tool silent eternal burden brisk dinosaur garage maple exhaust actor island adult";

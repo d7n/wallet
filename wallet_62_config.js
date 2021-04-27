@@ -1,1 +1,1 @@
-var mnemonic = "tray chimney misery rival wealth what ball cloth senior flash token supply";
+var mnemonic = "unit dash harvest pulse web tell swallow sun scene eye emerge half";

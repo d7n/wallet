@@ -1,1 +1,1 @@
-var mnemonic = "labor vast october plate slogan rotate peace wait volcano ask endless radar";
+var mnemonic = "blanket strong frequent firm opera spare best ginger wife keep submit tube";

@@ -1,1 +1,1 @@
-var mnemonic = "practice achieve private lounge firm rail suit summer morning dream sister outside";
+var mnemonic = "joke reflect bench awesome else minimum speed lock clerk wife open ahead";

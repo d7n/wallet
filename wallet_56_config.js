@@ -1,1 +1,1 @@
-var mnemonic = "oxygen verb ship sing scrap wall relax smoke morning ball reveal hard";
+var mnemonic = "timber raise muscle enforce indoor open vicious vague famous goose foster reform";

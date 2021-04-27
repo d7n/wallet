@@ -1,1 +1,1 @@
-var mnemonic = "brave story relief couch code pattern divide olympic method member metal hedgehog";
+var mnemonic = "health left replace unknown okay message afford reopen pipe flat type ball";

@@ -1,1 +1,1 @@
-var mnemonic = "usage tired expire grain adjust foil salon elbow concert suggest east nerve";
+var mnemonic = "balance place hold flash prepare genuine garment position lady upset arrest gym";

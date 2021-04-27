@@ -1,1 +1,1 @@
-var mnemonic = "flee middle digital miracle bone subway marriage raven suspect pill dune strategy";
+var mnemonic = "fix zero crunch nose payment elbow people near subway alter boost popular";

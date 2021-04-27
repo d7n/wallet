@@ -1,1 +1,1 @@
-var mnemonic = "mushroom outside help whale seek ticket load canvas funny obscure elevator phrase";
+var mnemonic = "siege era staff obtain ahead gloom atom gas tattoo humble injury real";

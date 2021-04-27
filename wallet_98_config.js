@@ -1,1 +1,1 @@
-var mnemonic = "project birth worry ocean deliver horror liquid satoshi drama romance twelve service";
+var mnemonic = "limb alley sell valid black deliver pioneer fire fold solution appear spawn";

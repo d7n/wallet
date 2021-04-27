@@ -1,1 +1,1 @@
-var mnemonic = "tonight trap lizard town loud forward fancy guide kitchen label potato escape";
+var mnemonic = "tobacco loop liar apart unfair wink during clerk alien pave stamp alien";

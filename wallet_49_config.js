@@ -1,1 +1,1 @@
-var mnemonic = "enlist analyst travel habit ride bullet ticket hundred rude file clip rough";
+var mnemonic = "toilet energy square shy movie happy language unit vanish dwarf combine master";

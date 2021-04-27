@@ -1,1 +1,1 @@
-var mnemonic = "boss swap morning online chunk fault bracket wedding country miss weather pyramid";
+var mnemonic = "artefact barely dune subject huge give unfair mutual citizen limit honey confirm";

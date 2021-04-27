@@ -1,1 +1,1 @@
-var mnemonic = "wrestle gorilla art talk harsh stairs guide uniform number panic only hard";
+var mnemonic = "soccer spare unfold despair slam emerge disagree grain donkey blue differ dirt";

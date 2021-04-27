@@ -1,1 +1,1 @@
-var mnemonic = "guard sudden safe athlete play neglect layer guide material used scout pony";
+var mnemonic = "asset unit mother lunch orient lion moment into ripple random direct chuckle";

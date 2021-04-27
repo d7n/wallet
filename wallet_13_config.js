@@ -1,1 +1,1 @@
-var mnemonic = "ginger true enforce amused cactus debris dream speak scissors setup hollow blood";
+var mnemonic = "grow wing nuclear shop cup wire myth cake away neither senior copper";

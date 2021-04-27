@@ -1,1 +1,1 @@
-var mnemonic = "banana menu force play cool duty mask easily mosquito settle poverty brave";
+var mnemonic = "firm trust walk clay capable problem suggest venue gun high supply adjust";

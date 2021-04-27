@@ -1,1 +1,1 @@
-var mnemonic = "body save steel jungle remember drama melt height girl exchange conduct demand";
+var mnemonic = "three bone place absurd dawn giant retreat clump mountain idle issue ramp";

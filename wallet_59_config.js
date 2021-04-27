@@ -1,1 +1,1 @@
-var mnemonic = "cigar outdoor soup myth autumn shoe illness local model path approve print";
+var mnemonic = "crystal spider surround gown host slice police umbrella parade gym despair weasel";

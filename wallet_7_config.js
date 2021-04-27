@@ -1,1 +1,1 @@
-var mnemonic = "aerobic motor choice slice wave adapt lawsuit injury jewel park unit staff";
+var mnemonic = "prepare churn ranch aisle final miss add mango idle wash asthma butter";

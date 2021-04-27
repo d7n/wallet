@@ -1,1 +1,1 @@
-var mnemonic = "coffee kit soccer board gaze test wing describe pretty bamboo smoke virtual";
+var mnemonic = "bean swear belt patrol behave hand mutual tomato unlock current ticket mention";

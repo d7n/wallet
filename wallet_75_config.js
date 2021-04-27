@@ -1,1 +1,1 @@
-var mnemonic = "avocado put member flip oven harsh green disease ethics harbor collect tunnel";
+var mnemonic = "renew joy private load split turkey movie floor flee pull enhance orange";

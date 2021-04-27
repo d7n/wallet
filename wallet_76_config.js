@@ -1,1 +1,1 @@
-var mnemonic = "gift dash work state basket whale road obey enable plunge sunny upper";
+var mnemonic = "knock become rebuild select web result gorilla sibling squirrel umbrella evidence final";

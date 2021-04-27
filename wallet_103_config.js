@@ -1,1 +1,1 @@
-var mnemonic = "soon scorpion people capable mirror sun make legend enforce property elegant guess";
+var mnemonic = "shrug abandon course capital item share chunk mad spider vivid rain wagon";

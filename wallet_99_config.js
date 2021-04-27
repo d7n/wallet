@@ -1,1 +1,1 @@
-var mnemonic = "become avoid sphere educate rent winner news wear copper debris island choose";
+var mnemonic = "away later gauge turkey census foil captain trust edit prefer purse vast";

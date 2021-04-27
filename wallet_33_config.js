@@ -1,1 +1,1 @@
-var mnemonic = "quantum gorilla sting mango unknown behave cliff action punch solve response predict";
+var mnemonic = "response tobacco logic custom swarm wire have element ecology monster lounge pyramid";

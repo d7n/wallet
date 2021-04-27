@@ -1,1 +1,1 @@
-var mnemonic = "cat puppy illness around trigger clap day diary scare useless salad effort";
+var mnemonic = "mandate world cross scrub strategy problem churn marriage park dinner fold eager";

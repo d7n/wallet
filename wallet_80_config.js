@@ -1,1 +1,1 @@
-var mnemonic = "flight pretty lab annual early aware goat license hair belt proud tourist";
+var mnemonic = "couple you never copy wide access avoid churn naive real blame adapt";

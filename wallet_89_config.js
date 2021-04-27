@@ -1,1 +1,1 @@
-var mnemonic = "rocket remain sell peanut wonder library pact eager rescue champion danger raven";
+var mnemonic = "rule prevent clump assault private gate hybrid swing sauce lobster name beyond";

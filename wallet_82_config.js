@@ -1,1 +1,1 @@
-var mnemonic = "annual pluck absent flip hat company immune decade hammer slide menu pencil";
+var mnemonic = "seminar mixture orphan bulb jaguar subway account kangaroo mosquito ecology more orange";

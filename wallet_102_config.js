@@ -1,1 +1,1 @@
-var mnemonic = "essence gesture casino dismiss spirit utility answer ticket average cloth typical vicious";
+var mnemonic = "stone festival brother alien weird famous imitate skirt interest middle process envelope";

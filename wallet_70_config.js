@@ -1,1 +1,1 @@
-var mnemonic = "drum rocket castle aim lucky oven idle jungle you rug prize yard";
+var mnemonic = "scale dismiss invite strike place horn tiny title roast vast merry iron";

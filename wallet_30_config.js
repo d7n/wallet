@@ -1,1 +1,1 @@
-var mnemonic = "material impulse play cluster cereal trust seek connect swarm cycle pig photo";
+var mnemonic = "since picture problem art popular wrestle light flash dice series enough cherry";

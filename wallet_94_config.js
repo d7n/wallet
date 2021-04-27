@@ -1,1 +1,1 @@
-var mnemonic = "push poem theory helmet ready sheriff session wide fancy strategy cabbage chapter";
+var mnemonic = "resemble wolf page tuna vacuum kingdom code humor relief detail coffee tourist";

@@ -1,1 +1,1 @@
-var mnemonic = "tragic holiday awkward abstract neck pioneer learn donkey cute venue tuna citizen";
+var mnemonic = "track certain negative ostrich purpose diet height series kit half worth gasp";

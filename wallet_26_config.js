@@ -1,1 +1,1 @@
-var mnemonic = "cherry clean reflect disease record salad siege cloth wheel under claw airport";
+var mnemonic = "material nephew fortune roast market floor funny waste reward strike labor where";

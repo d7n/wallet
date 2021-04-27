@@ -1,1 +1,1 @@
-var mnemonic = "doctor minor illness blue broccoli prepare matter orchard dry style zebra pumpkin";
+var mnemonic = "name weekend style web illegal path again record gorilla jaguar orange forum";

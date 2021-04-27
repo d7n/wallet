@@ -1,1 +1,1 @@
-var mnemonic = "craft monitor soon allow refuse fall transfer little hope toilet safe step";
+var mnemonic = "furnace gold side penalty swift dice gorilla envelope park outer witness square";

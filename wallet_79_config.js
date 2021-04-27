@@ -1,1 +1,1 @@
-var mnemonic = "speed deposit turn fee economy drama art success sign tragic winter mix";
+var mnemonic = "poem best olive garlic armor bridge satoshi loan smoke leader donor cruise";

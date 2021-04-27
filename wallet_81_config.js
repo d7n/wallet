@@ -1,1 +1,1 @@
-var mnemonic = "elbow marble sort expand photo primary govern fame tonight cherry tackle identify";
+var mnemonic = "ecology park pulp venture must blur same normal ramp neglect student air";

@@ -1,1 +1,1 @@
-var mnemonic = "clay artwork damp possible join differ name oil copy jealous tide awful";
+var mnemonic = "verify field lawn daring cloud random palace away cheese machine doll nature";

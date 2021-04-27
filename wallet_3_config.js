@@ -1,1 +1,1 @@
-var mnemonic = "horror pass snake simple hour resemble fan slab volcano flash settle dwarf";
+var mnemonic = "scare machine mesh harvest unable spatial clay awesome debate foot stumble humble";

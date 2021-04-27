@@ -1,1 +1,1 @@
-var mnemonic = "squeeze squeeze december squirrel fold damage cash tuna spin gown slight student";
+var mnemonic = "slot evil sock toy term code able media truck fortune kit delay";

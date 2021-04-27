@@ -1,1 +1,1 @@
-var mnemonic = "month sibling famous taste tuna poem orient cattle faith ski inject industry";
+var mnemonic = "audit fine thrive option clever lamp diesel thunder castle want cup paper";

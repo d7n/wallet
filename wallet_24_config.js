@@ -1,1 +1,1 @@
-var mnemonic = "trigger wrap faculty exercise gloom artefact neglect february oyster arch left wife";
+var mnemonic = "blind return dove pigeon snap mirror voice ozone vault patrol know shoe";

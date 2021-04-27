@@ -1,1 +1,1 @@
-var mnemonic = "toddler ten asset hotel fabric island undo search salon alpha add night";
+var mnemonic = "ethics assist lottery car obscure brave soccer bonus lonely lonely crisp sample";

@@ -1,1 +1,1 @@
-var mnemonic = "milk tuition guide blast width praise height film scale gadget winner word";
+var mnemonic = "mule bargain tomorrow odor adapt leader solution shallow response pair invite rely";

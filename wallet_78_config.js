@@ -1,1 +1,1 @@
-var mnemonic = "goat have oblige exhaust foster garage marriage swap device child cancel solution";
+var mnemonic = "olive program guilt soup gesture kiss lady emerge gloom keen industry frog";

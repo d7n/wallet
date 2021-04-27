@@ -1,1 +1,1 @@
-var mnemonic = "bulk gather unit view collect swallow method arrest debate song close surprise";
+var mnemonic = "lab second snow coach vast citizen lawsuit today kingdom scatter minute slim";

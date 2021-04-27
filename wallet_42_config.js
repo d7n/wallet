@@ -1,1 +1,1 @@
-var mnemonic = "slight orbit taste random open uncover win little aisle stage bus marble";
+var mnemonic = "pumpkin black anxiety mixture conduct obey original lion artefact yellow above metal";

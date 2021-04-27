@@ -1,1 +1,1 @@
-var mnemonic = "help write pyramid icon camp spike syrup behave chaos olympic fluid address";
+var mnemonic = "flag call talk drama easily cable rely gold garden calm size neither";

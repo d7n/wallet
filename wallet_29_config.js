@@ -1,1 +1,1 @@
-var mnemonic = "unit host cousin toast hidden skate boost quiz side physical wise junior";
+var mnemonic = "sniff gorilla hobby gossip goat dynamic document satisfy retreat page sting east";

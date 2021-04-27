@@ -1,1 +1,1 @@
-var mnemonic = "marble expire verify turtle you walk reward prepare slush merit myself merge";
+var mnemonic = "retire dirt high adult blind original party champion glare add tag merry";

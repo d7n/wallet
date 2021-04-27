@@ -1,1 +1,1 @@
-var mnemonic = "clown wife general boost tank quote any wall lunar tape flee adult";
+var mnemonic = "special prepare cereal erode judge diary large cushion cloth mom secret urban";

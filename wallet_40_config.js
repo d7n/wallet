@@ -1,1 +1,1 @@
-var mnemonic = "engine sound priority meat focus oblige hawk damp great raccoon involve sausage";
+var mnemonic = "endless busy april ivory ketchup home easily guitar illness certain ready awake";

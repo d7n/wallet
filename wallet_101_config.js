@@ -1,1 +1,1 @@
-var mnemonic = "soldier marriage mechanic hundred farm country acid ready hammer together tourist nurse";
+var mnemonic = "finger eight worry laugh leg maid surface rocket attitude sail arrive struggle";

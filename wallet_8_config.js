@@ -1,1 +1,1 @@
-var mnemonic = "right conduct type torch birth round mix poem mountain spin silver bacon";
+var mnemonic = "sense solve exercise aisle oxygen stuff satoshi cinnamon cheap oblige kit hurry";

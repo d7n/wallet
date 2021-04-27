@@ -1,1 +1,1 @@
-var mnemonic = "border casino maple pear feel clinic crack extra exact mass rhythm recycle";
+var mnemonic = "hamster sunset soon skate fox retire prosper antique laundry room filter humble";

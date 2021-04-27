@@ -1,1 +1,1 @@
-var mnemonic = "urge clock thank annual hurdle pencil spoil torch inflict chat genius wreck";
+var mnemonic = "dolphin tube novel fever film obey absorb curve trust giraffe crouch unique";

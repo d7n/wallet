@@ -1,1 +1,1 @@
-var mnemonic = "pattern side wink flee plunge warfare false artist silent liar cannon gauge";
+var mnemonic = "mountain royal water industry basket wisdom own strong canal pupil taxi bullet";

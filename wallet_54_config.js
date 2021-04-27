@@ -1,1 +1,1 @@
-var mnemonic = "whisper better crowd rocket swear destroy festival panic tilt parade true shop";
+var mnemonic = "engine charge sadness hard canoe badge debate staff crater planet animal brother";

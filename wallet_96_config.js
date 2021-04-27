@@ -1,1 +1,1 @@
-var mnemonic = "armor kit cool fun crowd spike bridge gentle bubble movie enlist permit";
+var mnemonic = "enrich grab fold apart output faculty sell coffee jeans symbol dust juice";

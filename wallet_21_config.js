@@ -1,1 +1,1 @@
-var mnemonic = "rose always wrist doctor invest spice ethics chase hint home step zero";
+var mnemonic = "timber sea pistol hover term obtain season carbon fossil want grant hen";

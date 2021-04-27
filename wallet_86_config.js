@@ -1,1 +1,1 @@
-var mnemonic = "soldier news vital skull ranch picnic unlock balcony amount bacon almost worry";
+var mnemonic = "bulb repair boss body shrimp ecology flight verb art cargo potato found";

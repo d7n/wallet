@@ -1,1 +1,1 @@
-var mnemonic = "candy menu public drop meadow crew pottery tray jar basic nephew seminar";
+var mnemonic = "hammer coyote cute okay year disagree still easy canvas person field vessel";

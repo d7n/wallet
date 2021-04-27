@@ -1,1 +1,1 @@
-var mnemonic = "trigger love spoon risk pig oil siren east rabbit quarter buffalo chef";
+var mnemonic = "dentist observe answer ceiling foster pair athlete logic chase viable shoot butter";

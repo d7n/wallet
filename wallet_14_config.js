@@ -1,1 +1,1 @@
-var mnemonic = "curtain december buffalo shy supreme tube mixed burden polar swallow moment basic";
+var mnemonic = "width bottom diesel cry home message head weapon village shove betray soldier";

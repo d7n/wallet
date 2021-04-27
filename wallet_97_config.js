@@ -1,1 +1,1 @@
-var mnemonic = "clinic civil diagram habit popular regular combine remind silver network amount achieve";
+var mnemonic = "seek lift festival manage now clump above conduct effort velvet tilt rib";
