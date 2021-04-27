@@ -1,1 +1,1 @@
-var mnemonic = "various clever write circle spring owner again thank kangaroo vintage trip hand";
+var mnemonic = "wheat later visit sustain image base divide blanket tilt clerk know neutral";

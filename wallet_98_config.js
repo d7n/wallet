@@ -1,1 +1,1 @@
-var mnemonic = "damage ocean crush demise iron bench ghost combine change volcano ahead spice";
+var mnemonic = "wait episode moon blouse muffin intact wood stay inch law famous window";

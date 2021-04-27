@@ -1,1 +1,1 @@
-var mnemonic = "final pulp sausage palace dog bridge hen anxiety denial grass pitch lamp";
+var mnemonic = "seminar invest grain air bread accident pledge predict ticket happy someone correct";

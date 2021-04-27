@@ -1,1 +1,1 @@
-var mnemonic = "nuclear fatal airport fatigue goat arena drink rapid inspire valid humor sausage";
+var mnemonic = "donor turn later combine repair congress pen group people foot between attitude";

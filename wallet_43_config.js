@@ -1,1 +1,1 @@
-var mnemonic = "emotion title robot enjoy quick discover bunker donate reopen mechanic judge kidney";
+var mnemonic = "gesture nation heart ripple talent still gown marine comfort crouch office then";

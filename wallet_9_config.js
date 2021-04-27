@@ -1,1 +1,1 @@
-var mnemonic = "couple three brick frown clown ski race little paper april aspect vapor";
+var mnemonic = "swallow idea voice license walk leg gravity lottery obey dignity laugh pizza";

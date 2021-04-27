@@ -1,1 +1,1 @@
-var mnemonic = "rule ancient sphere subject gloom enlist finish hard kiss trip swift banner";
+var mnemonic = "taxi slogan cancel august anchor pyramid problem artist sibling gentle today vocal";

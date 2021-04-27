@@ -1,1 +1,1 @@
-var mnemonic = "save upon confirm limb urge pet lady cargo champion autumn valve settle";
+var mnemonic = "jump enroll fat ability palm swear acquire exotic people spot myth roof";

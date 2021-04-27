@@ -1,1 +1,1 @@
-var mnemonic = "multiply rescue narrow beyond yellow chimney duty forest melt pen city atom";
+var mnemonic = "fringe lumber unveil army brush absurd access worry negative stamp nose bench";

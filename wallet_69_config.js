@@ -1,1 +1,1 @@
-var mnemonic = "luxury oval arch canvas virtual lobster cushion napkin coast popular shoot ticket";
+var mnemonic = "coil feature tissue elevator hundred decrease crowd object gasp someone evolve portion";

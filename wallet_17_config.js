@@ -1,1 +1,1 @@
-var mnemonic = "wire turkey trumpet extend remember able engage flavor strike marble wide stone";
+var mnemonic = "test arctic subject trigger auto put give antique immense layer dwarf bargain";

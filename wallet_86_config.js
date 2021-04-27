@@ -1,1 +1,1 @@
-var mnemonic = "slight evolve menu destroy panel joke cinnamon example earn swallow common pave";
+var mnemonic = "drink style expect execute crucial dignity birth venture print tone tomorrow fire";

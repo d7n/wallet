@@ -1,1 +1,1 @@
-var mnemonic = "family chimney bag globe repeat drama puzzle achieve square subject amazing cluster";
+var mnemonic = "advance siege amused arrow settle spy memory trouble chaos drill coil unique";

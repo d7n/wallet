@@ -1,1 +1,1 @@
-var mnemonic = "bunker foster first syrup attend tide west broom jump foam dream retire";
+var mnemonic = "mammal hazard slice mirror island shiver attend motor great clap wrist slam";

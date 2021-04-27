@@ -1,1 +1,1 @@
-var mnemonic = "hour present grunt napkin asset absurd cool town best total hamster inherit";
+var mnemonic = "fiction agent poem hidden culture pride error sugar caution outside antique lottery";

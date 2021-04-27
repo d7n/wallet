@@ -1,1 +1,1 @@
-var mnemonic = "crowd success width hold elite miss turtle decline face truth auto silk";
+var mnemonic = "deer curtain retreat various pioneer ice stable identify attend mix census harbor";

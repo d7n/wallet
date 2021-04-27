@@ -1,1 +1,1 @@
-var mnemonic = "vote inch rug praise code thrive claim viable firm program fragile quick";
+var mnemonic = "movie build hazard rabbit drama empower sample current sister fresh artwork melt";

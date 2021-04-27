@@ -1,1 +1,1 @@
-var mnemonic = "utility youth visit axis melody live fall menu rail kite around found";
+var mnemonic = "answer stool profit clown credit muscle tunnel slender hidden scout second door";

@@ -1,1 +1,1 @@
-var mnemonic = "core column jewel east actress piano gallery juice kingdom version next tuition";
+var mnemonic = "stone torch host popular town rhythm water prevent mango confirm jealous disagree";

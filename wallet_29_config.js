@@ -1,1 +1,1 @@
-var mnemonic = "design rail again inherit census famous myth word trash palace fatigue brother";
+var mnemonic = "road warfare cabbage mistake video ramp tuna census top scrap roast penalty";

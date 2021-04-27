@@ -1,1 +1,1 @@
-var mnemonic = "child hawk minute better kit gown family angry chief away art until";
+var mnemonic = "attract purity faculty angle animal feature disease visual grape bracket minimum search";

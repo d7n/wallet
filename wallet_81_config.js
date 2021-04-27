@@ -1,1 +1,1 @@
-var mnemonic = "reason bless current mushroom evolve drip hat siren problem donor action stage";
+var mnemonic = "become clean embark frost foster price vintage genre water garden gain tank";

@@ -1,1 +1,1 @@
-var mnemonic = "hold retire limit unit evidence hollow innocent such company say corn body";
+var mnemonic = "glare shoulder girl mirror much fragile color change income demise clever few";

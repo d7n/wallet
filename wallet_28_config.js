@@ -1,1 +1,1 @@
-var mnemonic = "shiver scrap immune morning decide urban hammer rural aware faith electric trick";
+var mnemonic = "swear sail elephant quote elder opera jealous black mango route repair fringe";

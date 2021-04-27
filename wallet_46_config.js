@@ -1,1 +1,1 @@
-var mnemonic = "school crane tunnel tower include lounge gauge steak ride under cradle spray";
+var mnemonic = "maximum shallow imitate strike finish afraid fashion scare universe ostrich refuse palace";

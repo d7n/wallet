@@ -1,1 +1,1 @@
-var mnemonic = "aspect panic rotate basic major business beach concert assume loud ugly tragic";
+var mnemonic = "fame sand title total pull outdoor forward wash token tattoo north rule";

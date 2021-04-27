@@ -1,1 +1,1 @@
-var mnemonic = "tuna pyramid afford unknown purpose unknown humor holiday dash news object sort";
+var mnemonic = "shoot shove local bid click animal praise oppose ginger rookie noodle avocado";

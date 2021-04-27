@@ -1,1 +1,1 @@
-var mnemonic = "search bring survey wisdom wear february feed gauge north confirm exercise into";
+var mnemonic = "hawk attract render exile grow manual draw point before admit horse salmon";

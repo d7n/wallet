@@ -1,1 +1,1 @@
-var mnemonic = "tired lounge shell army amused spatial diet leopard group small useful layer";
+var mnemonic = "crumble spider dizzy frog grain modify sphere bleak monster true come wood";

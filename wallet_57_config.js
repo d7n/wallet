@@ -1,1 +1,1 @@
-var mnemonic = "protect frog trick unaware garbage stick ski pistol labor grab ahead joy";
+var mnemonic = "popular armor camera climb upper mango doll disease gasp tired select cushion";

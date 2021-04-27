@@ -1,1 +1,1 @@
-var mnemonic = "sorry dog fury canvas bullet receive three neutral win magic tobacco urge";
+var mnemonic = "salute uphold satoshi become ramp final gold sand bike grief push easy";

@@ -1,1 +1,1 @@
-var mnemonic = "palace clerk exclude idle cherry cloth chaos beauty slice arm indoor fringe";
+var mnemonic = "elder polar cliff embrace trick hover snack pluck flame maple reveal opera";

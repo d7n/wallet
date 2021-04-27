@@ -1,1 +1,1 @@
-var mnemonic = "leave argue smooth oven magic bottom verb humor slight stay suggest wolf";
+var mnemonic = "tomorrow fork police relief claw nature picture choose cream upper winter loud";

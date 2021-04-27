@@ -1,1 +1,1 @@
-var mnemonic = "blouse clarify cherry teach review cliff public promote keep fold enemy magnet";
+var mnemonic = "castle outside must yellow work hurry work judge twelve dust utility change";

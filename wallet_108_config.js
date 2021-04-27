@@ -1,1 +1,1 @@
-var mnemonic = "slim lobster market pause can gesture helmet neglect trial law chuckle resemble";
+var mnemonic = "gun social thunder element orange orbit board hole rubber budget orbit circle";

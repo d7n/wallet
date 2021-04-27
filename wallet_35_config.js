@@ -1,1 +1,1 @@
-var mnemonic = "build bargain honey gym problem hub board solid burden open jump tide";
+var mnemonic = "together actual such major loan pumpkin mother choose control layer inflict blind";

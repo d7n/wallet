@@ -1,1 +1,1 @@
-var mnemonic = "sphere wall bulb ride silk cricket sauce drink race net wisdom poverty";
+var mnemonic = "pulse attend gorilla vast abuse tomato expire sign area long carbon surface";

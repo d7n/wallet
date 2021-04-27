@@ -1,1 +1,1 @@
-var mnemonic = "advice plastic hawk lecture dish icon satisfy merit trumpet habit version winner";
+var mnemonic = "coin snap eyebrow slim engage still film castle blur belt battle copper";

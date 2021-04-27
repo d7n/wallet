@@ -1,1 +1,1 @@
-var mnemonic = "moon leopard bomb unveil replace pool episode crouch scale innocent trick relax";
+var mnemonic = "exercise peace pact timber check tuna nephew century sell basket you fault";

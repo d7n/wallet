@@ -1,1 +1,1 @@
-var mnemonic = "salon have drill river fresh seven lady there hire swing reveal alter";
+var mnemonic = "pig weapon rule moment other bridge noise clump excess wire group olive";

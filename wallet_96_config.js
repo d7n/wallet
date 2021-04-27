@@ -1,1 +1,1 @@
-var mnemonic = "there solar actor soup proof trial control still knife host certain around";
+var mnemonic = "crystal spend come kidney laptop total have title link level elephant puzzle";

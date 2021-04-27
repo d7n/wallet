@@ -1,1 +1,1 @@
-var mnemonic = "fuel into balcony tooth sweet cry brave assault reunion coil guide bachelor";
+var mnemonic = "dance force bronze service give ecology start crumble salt pair view future";

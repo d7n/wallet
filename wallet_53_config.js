@@ -1,1 +1,1 @@
-var mnemonic = "burden beauty lyrics cheap amateur inmate nation sense capable puzzle doctor fit";
+var mnemonic = "cabin stable focus ring elder regret present hazard ethics junk half abstract";

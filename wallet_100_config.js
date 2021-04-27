@@ -1,1 +1,1 @@
-var mnemonic = "can fashion fortune since thank toy best turn film legal pretty cake";
+var mnemonic = "fence island board head ladder lesson north green multiply album chest girl";

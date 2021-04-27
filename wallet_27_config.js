@@ -1,1 +1,1 @@
-var mnemonic = "amused skill kite stick ghost paddle act because scan arrive random estate";
+var mnemonic = "sleep august abandon piece grow what industry master jar crew key float";

@@ -1,1 +1,1 @@
-var mnemonic = "love tuition group deliver plastic lyrics neck swift wheel girl lens story";
+var mnemonic = "account punch stem spider snow aisle logic salmon man uncover describe catalog";

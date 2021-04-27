@@ -1,1 +1,1 @@
-var mnemonic = "best robot town digital normal local coach again air domain donkey sleep";
+var mnemonic = "sustain inside public trial size lend senior nominee harbor swim knock polar";

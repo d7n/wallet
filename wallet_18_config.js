@@ -1,1 +1,1 @@
-var mnemonic = "other post pizza sword portion magic click setup blush coyote cat acoustic";
+var mnemonic = "know rally junk bamboo noise shadow kangaroo injury midnight consider timber seat";

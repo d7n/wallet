@@ -1,1 +1,1 @@
-var mnemonic = "toe inherit vapor scene panic fault tail move affair benefit shoulder crouch";
+var mnemonic = "leopard giggle plug solid cigar defense badge random project balance submit history";

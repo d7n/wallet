@@ -1,1 +1,1 @@
-var mnemonic = "find slight double gas surround around crime obvious resist topic elephant floor";
+var mnemonic = "design treat hope cry use quick hope clap frown lottery dilemma sponsor";

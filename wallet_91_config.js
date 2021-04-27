@@ -1,1 +1,1 @@
-var mnemonic = "direct wild coach recipe pen afraid solve lumber supreme mirror hood crime";
+var mnemonic = "brick rate medal inhale giggle tonight bronze network ski time utility penalty";

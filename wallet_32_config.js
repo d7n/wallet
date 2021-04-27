@@ -1,1 +1,1 @@
-var mnemonic = "boat farm jar okay excite equip such target expect feature blush forget";
+var mnemonic = "vintage talk endorse surround beach unit slam sentence bottom coffee bring diagram";

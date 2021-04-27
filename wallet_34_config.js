@@ -1,1 +1,1 @@
-var mnemonic = "faint venue accident copy issue south update sand harvest food paper rail";
+var mnemonic = "among master tone open blush amateur sword april history blossom alarm popular";

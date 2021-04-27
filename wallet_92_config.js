@@ -1,1 +1,1 @@
-var mnemonic = "enroll document young nest oak wood depth stool snake code better chef";
+var mnemonic = "group circle badge enemy gossip parrot upper tenant ten frost alarm salon";

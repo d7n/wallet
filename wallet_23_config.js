@@ -1,1 +1,1 @@
-var mnemonic = "home sniff enact work clean jelly purity retire leaf aunt source bubble";
+var mnemonic = "lady involve apple matrix invite glow desert pigeon blast wreck crawl blame";

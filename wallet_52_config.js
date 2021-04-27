@@ -1,1 +1,1 @@
-var mnemonic = "science slow skin service cage scorpion ketchup wreck once vessel useless zero";
+var mnemonic = "mixed company sponsor kind print cancel often elegant van foot service join";

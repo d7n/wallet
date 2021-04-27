@@ -1,1 +1,1 @@
-var mnemonic = "sight happy candy remove black armor dust record abandon balance volcano engage";
+var mnemonic = "action round dentist festival diesel open sadness dad maple lion initial receive";

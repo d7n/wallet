@@ -1,1 +1,1 @@
-var mnemonic = "comfort magnet panther drum vault shield siren motion glimpse purity mix gloom";
+var mnemonic = "duck scan bone foster limb program private dash wonder plug shift clerk";

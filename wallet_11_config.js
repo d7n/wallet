@@ -1,1 +1,1 @@
-var mnemonic = "book taxi health famous extra mouse stadium erode slogan earth dumb beach";
+var mnemonic = "cost tuition village shallow bullet embrace grace bitter amused ozone van couch";

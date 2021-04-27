@@ -1,1 +1,1 @@
-var mnemonic = "armed ecology boat oak edit tube motion gather hybrid install aware final";
+var mnemonic = "vicious nothing erode own hedgehog giant ahead kind unfold cabbage rocket keep";

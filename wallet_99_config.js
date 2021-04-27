@@ -1,1 +1,1 @@
-var mnemonic = "mad happy you pioneer stumble fringe journey about kit float you child";
+var mnemonic = "plunge oak sea misery pride warm mobile agent husband anxiety forward summer";

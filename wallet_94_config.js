@@ -1,1 +1,1 @@
-var mnemonic = "empty frog jeans angle crisp candy damage unfold captain cotton weather cart";
+var mnemonic = "ugly rapid ring goat giggle claw skull phrase foster stadium album same";

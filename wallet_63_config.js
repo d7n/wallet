@@ -1,1 +1,1 @@
-var mnemonic = "six fade gesture supreme mountain viable pulse sick lottery beauty charge right";
+var mnemonic = "wool confirm day moment pool fragile trip diary cactus craft shoulder code";

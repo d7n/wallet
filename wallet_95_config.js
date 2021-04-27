@@ -1,1 +1,1 @@
-var mnemonic = "rose doll couple pioneer link violin surface congress eyebrow west panel adjust";
+var mnemonic = "dismiss dwarf around wet park input empower gap human solution option word";

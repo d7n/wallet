@@ -1,1 +1,1 @@
-var mnemonic = "army this decrease crush old dry pumpkin mercy eternal mystery true velvet";
+var mnemonic = "inch lonely expand pole stay dirt topic cushion blouse distance sound two";

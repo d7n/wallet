@@ -1,1 +1,1 @@
-var mnemonic = "route dolphin range leg soup project sorry develop debate happy liberty elegant";
+var mnemonic = "invest poem define tail dwarf silk book need exit myself resource when";

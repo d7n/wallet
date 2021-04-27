@@ -1,1 +1,1 @@
-var mnemonic = "team escape enable weather bone loud dirt shed sample half bright fatal";
+var mnemonic = "march observe zone dream explain run pottery balance suspect hunt orange economy";

@@ -1,1 +1,1 @@
-var mnemonic = "obvious soccer image delay lens beauty field man casino asset lecture average";
+var mnemonic = "virtual ribbon sheriff song fold trim monitor sock couple pulse topple volume";

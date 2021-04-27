@@ -1,1 +1,1 @@
-var mnemonic = "rough inhale census chaos story file hand harvest warm what relax story";
+var mnemonic = "symbol vital shop connect initial aware master glass live tongue author fancy";

@@ -1,1 +1,1 @@
-var mnemonic = "salmon eager ask dune now derive orbit skirt thing figure joy endorse";
+var mnemonic = "winner picture write state frame gas police paper vapor vivid van steel";

@@ -1,1 +1,1 @@
-var mnemonic = "match panel salon night hill void hen soft issue future news vault";
+var mnemonic = "good slide advance promote van annual control multiply wine brain jelly merge";

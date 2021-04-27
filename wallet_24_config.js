@@ -1,1 +1,1 @@
-var mnemonic = "direct edit beach artwork entry bus try infant position elevator ship oppose";
+var mnemonic = "clip useful ignore gossip board sniff scatter movie finger insect market soon";

@@ -1,1 +1,1 @@
-var mnemonic = "caught arrow deer neglect stairs black wolf amateur advance arch unusual script";
+var mnemonic = "frown breeze gesture ticket earn raccoon rubber strike control loan neutral elegant";

@@ -1,1 +1,1 @@
-var mnemonic = "conduct merit trip excite dignity income fly sword gain ritual pupil lecture";
+var mnemonic = "divert cactus repair milk laptop reunion select spice clinic ugly cigar shoot";

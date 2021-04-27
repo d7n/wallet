@@ -1,1 +1,1 @@
-var mnemonic = "pledge combine parent beef file victory among accuse word knee dolphin share";
+var mnemonic = "luxury embody december mass punch session flock extra hour safe mango enable";

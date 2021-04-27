@@ -1,1 +1,1 @@
-var mnemonic = "bronze leave make void devote wood broccoli soap balance afraid tenant express";
+var mnemonic = "fiction use smile autumn demise hurry early valid identify virtual stadium bus";

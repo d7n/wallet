@@ -1,1 +1,1 @@
-var mnemonic = "pizza level bunker anxiety mask erode game bottom tag legend ethics offer";
+var mnemonic = "mandate chicken eternal patch dry silly spring loyal file behave shuffle gorilla";

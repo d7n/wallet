@@ -1,1 +1,1 @@
-var mnemonic = "office guide nice load flash canoe learn tomorrow girl absent cousin dial";
+var mnemonic = "suffer unaware august wheat useful act frown will urban pencil lion pear";

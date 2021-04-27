@@ -1,1 +1,1 @@
-var mnemonic = "depart hip lawsuit hammer hair chef couple zero casual repair october future";
+var mnemonic = "crisp index office explain element asthma kit slam pulse pattern employ buffalo";

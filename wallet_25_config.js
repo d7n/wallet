@@ -1,1 +1,1 @@
-var mnemonic = "include icon odor tissue screen demise obey poem cigar explain thumb license";
+var mnemonic = "buzz hope soccer cycle bomb frame home vintage orient hungry sound nephew";

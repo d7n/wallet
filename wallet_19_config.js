@@ -1,1 +1,1 @@
-var mnemonic = "heart acoustic drop invite run steel diamond trial humble inflict square hunt";
+var mnemonic = "culture impose that boat mouse camera fragile planet ozone this gallery picture";

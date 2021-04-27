@@ -1,1 +1,1 @@
-var mnemonic = "guitar body clean turn peasant invite arctic moral enforce thrive nurse grunt";
+var mnemonic = "weekend evolve choice strategy bring battle divorce dismiss immune circle ensure alarm";

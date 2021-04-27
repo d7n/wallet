@@ -1,1 +1,1 @@
-var mnemonic = "virtual essay disagree pioneer pudding wreck client music net friend alert noise";
+var mnemonic = "flee pigeon tourist sure crack bitter obtain local ignore account pet afraid";

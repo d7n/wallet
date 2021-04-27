@@ -1,1 +1,1 @@
-var mnemonic = "life feel pledge sunny oval crumble blue area lend shy clock pretty";
+var mnemonic = "fresh salon kind pottery script prevent together fever spirit junior beach ugly";

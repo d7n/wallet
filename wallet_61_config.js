@@ -1,1 +1,1 @@
-var mnemonic = "print peace pear miracle scare swear wisdom frozen response metal charge various";
+var mnemonic = "thought little welcome absent wink ethics total long slam egg pencil question";
