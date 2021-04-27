@@ -1,1 +1,1 @@
-var mnemonic = "lucky relax what kidney endless noise road confirm disease urban height warrior";
+var mnemonic = "process ozone forest grocery winter reward entry absorb alone cinnamon squeeze essence";

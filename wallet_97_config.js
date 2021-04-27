@@ -1,1 +1,1 @@
-var mnemonic = "green stomach decline depart ceiling setup crime load belt play warfare program";
+var mnemonic = "hood silk surge silver expire build table margin provide poem arrive rookie";

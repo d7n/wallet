@@ -1,1 +1,1 @@
-var mnemonic = "achieve museum attack pilot galaxy notice arm wine connect amount desk wink";
+var mnemonic = "depth catch teach forum multiply wood hero arrive warfare misery ignore glory";

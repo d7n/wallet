@@ -1,1 +1,1 @@
-var mnemonic = "outer repair polar grain catch picture tape trip brown carpet slam current";
+var mnemonic = "vanish scorpion sing claw planet antenna neutral clerk solution about social poet";

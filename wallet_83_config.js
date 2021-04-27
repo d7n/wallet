@@ -1,1 +1,1 @@
-var mnemonic = "disease rapid still mail meat brief floor seminar fault law space grant";
+var mnemonic = "print sand disagree feel sniff radio initial devote typical solve crystal know";

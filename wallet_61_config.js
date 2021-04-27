@@ -1,1 +1,1 @@
-var mnemonic = "detail depth scene super ritual lounge verb fatigue steel dog switch bring";
+var mnemonic = "noble ticket bicycle civil crew host alien devote purse devote almost disease";

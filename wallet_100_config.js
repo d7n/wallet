@@ -1,1 +1,1 @@
-var mnemonic = "wagon apart lizard perfect snake bullet square asthma interest humble rhythm alien";
+var mnemonic = "motor album creek output clip kingdom become loop warrior awesome extra farm";

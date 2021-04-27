@@ -1,1 +1,1 @@
-var mnemonic = "autumn foster mixed staff settle advance apple frequent poet dad legend blame";
+var mnemonic = "rival evolve cake pride clog slow member delay december upgrade whip extra";

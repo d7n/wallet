@@ -1,1 +1,1 @@
-var mnemonic = "axis mobile west correct eternal surprise inner about explain base depth wild";
+var mnemonic = "avoid vintage sadness inch attitude knock wine today faith direct save guard";

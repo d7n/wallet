@@ -1,1 +1,1 @@
-var mnemonic = "used satoshi rival anxiety kick fold sphere position answer base easy together";
+var mnemonic = "relief curtain magic grain news fashion demise patient oppose sibling fat spoon";

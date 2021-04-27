@@ -1,1 +1,1 @@
-var mnemonic = "approve cat fruit alley garbage shop wood photo gold obtain water lunar";
+var mnemonic = "ranch sting spawn token boy legend elephant viable quick smoke manage pudding";

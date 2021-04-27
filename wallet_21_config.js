@@ -1,1 +1,1 @@
-var mnemonic = "race old rotate cherry vendor true grocery range owner valley charge discover";
+var mnemonic = "addict weird behave can impose certain spring dragon million repeat wing general";

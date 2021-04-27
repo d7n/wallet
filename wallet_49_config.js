@@ -1,1 +1,1 @@
-var mnemonic = "panel marine window blanket screen example shallow rug taste funny ball hip";
+var mnemonic = "lizard scatter attack spatial language castle cube unit balcony pair weapon upon";

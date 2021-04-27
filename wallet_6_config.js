@@ -1,1 +1,1 @@
-var mnemonic = "unit kick typical chunk rack bar coin jelly execute observe essence february";
+var mnemonic = "mimic harvest retreat wink skill snap lawsuit wink vote song direct wife";

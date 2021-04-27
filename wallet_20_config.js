@@ -1,1 +1,1 @@
-var mnemonic = "remove warfare mirror noodle deny beauty call turkey ride nerve outside good";
+var mnemonic = "plate indicate sick trick social code erosion connect cat such gather favorite";

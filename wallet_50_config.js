@@ -1,1 +1,1 @@
-var mnemonic = "reunion message cable fury gospel goose arrange symbol spot dolphin topple conduct";
+var mnemonic = "gas fall van eternal holiday witness recall antique bird traffic place outside";

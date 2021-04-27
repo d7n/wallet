@@ -1,1 +1,1 @@
-var mnemonic = "boring arctic question guard festival hope unlock describe ability wool often power";
+var mnemonic = "wheel popular chat prevent say banner ritual receive rabbit turn violin cliff";

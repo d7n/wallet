@@ -1,1 +1,1 @@
-var mnemonic = "emotion casual add color box machine fly develop pigeon budget clay candy";
+var mnemonic = "avocado movie worth mandate thunder giraffe write drop combine loan climb toast";

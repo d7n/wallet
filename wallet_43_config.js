@@ -1,1 +1,1 @@
-var mnemonic = "rural tattoo valley impulse practice frame message quiz weather current where silver";
+var mnemonic = "science wire target soda ceiling route cute night nut sausage alarm uncle";

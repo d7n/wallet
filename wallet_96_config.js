@@ -1,1 +1,1 @@
-var mnemonic = "choose forget upon chapter runway sport primary pole web easy play harsh";
+var mnemonic = "trash middle simple success predict laundry shoot know work divert jazz teach";

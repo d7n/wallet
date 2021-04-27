@@ -1,1 +1,1 @@
-var mnemonic = "tilt alone mystery winner silent cruise another mercy lady claim wisdom august";
+var mnemonic = "govern edit smoke myself salon security apple town erupt jazz pony fiscal";

@@ -1,1 +1,1 @@
-var mnemonic = "prefer confirm vanish science hundred shuffle near leave diesel faculty concert cave";
+var mnemonic = "winner rate insane total age excuse motion resist garden mirror awful begin";

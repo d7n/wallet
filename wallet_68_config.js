@@ -1,1 +1,1 @@
-var mnemonic = "viable reward borrow practice hollow ill write possible medal useless happy armed";
+var mnemonic = "comic tilt vivid erupt vote effort rough vessel fall tomorrow melt inside";

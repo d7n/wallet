@@ -1,1 +1,1 @@
-var mnemonic = "opinion route edit oppose what napkin mind conduct dry dolphin awkward hammer";
+var mnemonic = "neither essence pact offer shed cactus shaft opinion shift fresh collect bargain";

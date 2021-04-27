@@ -1,1 +1,1 @@
-var mnemonic = "crash jealous february forest bachelor junk shoulder work reform nephew method wealth";
+var mnemonic = "alert volcano hero sell kid heavy execute blur century claw tower edit";

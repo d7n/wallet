@@ -1,1 +1,1 @@
-var mnemonic = "siege prison swim slow result twist illegal february defy witness obscure pelican";
+var mnemonic = "radar army agree wet hat napkin mansion dignity behave dish lady clinic";

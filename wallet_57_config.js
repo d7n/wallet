@@ -1,1 +1,1 @@
-var mnemonic = "hidden garlic chalk blouse cliff twenty drill segment rain theory tree entire";
+var mnemonic = "great crime afraid trumpet aunt derive vacuum what floor century daring frog";

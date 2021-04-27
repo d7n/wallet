@@ -1,1 +1,1 @@
-var mnemonic = "sing hybrid jealous whisper planet useless put tired also love tongue logic";
+var mnemonic = "position memory mosquito story arctic gorilla tube canal hint gadget level any";

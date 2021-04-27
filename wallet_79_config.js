@@ -1,1 +1,1 @@
-var mnemonic = "limb valid pink unhappy female follow beef bread twenty bitter carbon alley";
+var mnemonic = "borrow forward smooth delay never hair round pattern creek crane ketchup coin";

@@ -1,1 +1,1 @@
-var mnemonic = "release verb wheel fantasy spot toilet dune toy provide glue armed since";
+var mnemonic = "ice special bracket roof invest decline pupil vessel shop room moral layer";

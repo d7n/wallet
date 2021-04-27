@@ -1,1 +1,1 @@
-var mnemonic = "bottom crumble young canoe essence avocado network pulse tiny festival pause frozen";
+var mnemonic = "avocado item wage middle strong december gasp bulk file devote come hazard";

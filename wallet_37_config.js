@@ -1,1 +1,1 @@
-var mnemonic = "sting captain renew produce mandate bean reduce boil candy exercise upset about";
+var mnemonic = "evidence scan lyrics tiger crop absent wonder hip latin leopard cycle keep";

@@ -1,1 +1,1 @@
-var mnemonic = "length valley blood frequent office yellow eagle parrot section museum mirror moment";
+var mnemonic = "speak until crisp march giggle swap federal treat pretty vendor wave estate";

@@ -1,1 +1,1 @@
-var mnemonic = "glance mirror throw village umbrella together city injury snap avoid half eight";
+var mnemonic = "legend asset minute cable glow merge desk hundred bounce diesel ceiling various";

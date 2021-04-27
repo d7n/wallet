@@ -1,1 +1,1 @@
-var mnemonic = "physical upon search hospital level stand country forest palm skate thank library";
+var mnemonic = "bridge congress infant fever detail current coin assume infant rather finger hawk";

@@ -1,1 +1,1 @@
-var mnemonic = "engage swift you observe senior hobby explain shift liar skate message nation";
+var mnemonic = "gospel hen almost swamp raw bag ankle reject age vintage nation better";

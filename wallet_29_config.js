@@ -1,1 +1,1 @@
-var mnemonic = "visit achieve accuse flag card song immense weekend fuel benefit scrub move";
+var mnemonic = "vibrant trumpet negative section coconut unlock century reform rack stage despair nerve";

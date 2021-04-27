@@ -1,1 +1,1 @@
-var mnemonic = "panic pencil team wide family pave resource fitness unfair vanish host sun";
+var mnemonic = "capable fever option decorate chimney valid grit try wealth damp illness deny";

@@ -1,1 +1,1 @@
-var mnemonic = "elite cluster desert boost burden prize toy movie bike call boat original";
+var mnemonic = "solar custom paper discover hole fiscal rapid oven remain isolate rose journey";

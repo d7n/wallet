@@ -1,1 +1,1 @@
-var mnemonic = "close drama hurt bomb edge clown pudding pudding vocal hand churn trumpet";
+var mnemonic = "twist tourist blast concert crime twist onion weasel brand indicate clinic mom";

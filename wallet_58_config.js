@@ -1,1 +1,1 @@
-var mnemonic = "second usage improve rug dish gasp merry oxygen view popular street federal";
+var mnemonic = "island hen peanut salad oxygen faculty tunnel exist truth bag another hazard";

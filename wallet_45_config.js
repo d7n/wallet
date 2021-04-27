@@ -1,1 +1,1 @@
-var mnemonic = "priority yard drift pair matter unique poet reunion price cliff enroll index";
+var mnemonic = "figure exile cliff music empower mechanic insect torch suspect belt cry nominee";

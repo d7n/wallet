@@ -1,1 +1,1 @@
-var mnemonic = "walk vote pride image candy rabbit top pottery cruise stage mimic proof";
+var mnemonic = "thunder topple still organ squeeze teach dismiss tackle dawn gesture picnic throw";

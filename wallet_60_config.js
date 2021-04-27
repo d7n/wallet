@@ -1,1 +1,1 @@
-var mnemonic = "youth question own drift year cable awful afford betray guard system employ";
+var mnemonic = "spring cry syrup trumpet damage grief east frost green journey way slide";

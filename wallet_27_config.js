@@ -1,1 +1,1 @@
-var mnemonic = "razor torch legend menu furnace giggle wire sunset about tobacco dog unhappy";
+var mnemonic = "ranch small attack coyote cause perfect miss addict hire seat dial couch";

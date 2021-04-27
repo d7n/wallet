@@ -1,1 +1,1 @@
-var mnemonic = "dog anger bread visit pear health together question dune light stone urban";
+var mnemonic = "place alarm off become seminar jewel honey baby spring produce legend pen";

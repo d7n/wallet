@@ -1,1 +1,1 @@
-var mnemonic = "ask rally permit bag wet evil pause indoor start flag replace traffic";
+var mnemonic = "draft blouse slush cabin trash elder ensure check question thunder tomorrow identify";

@@ -1,1 +1,1 @@
-var mnemonic = "detect resemble erupt bless begin good quarter monkey casual snow document avoid";
+var mnemonic = "fiscal push disagree plunge warm ginger safe media world suspect dentist this";

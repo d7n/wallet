@@ -1,1 +1,1 @@
-var mnemonic = "dentist minimum tail caution ramp extend electric fade bamboo best hidden scissors";
+var mnemonic = "husband prevent library orange atom suspect limb goat change mean special detail";

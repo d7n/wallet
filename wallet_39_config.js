@@ -1,1 +1,1 @@
-var mnemonic = "kingdom caution grace since battle fan table divorce bench deliver jelly spy";
+var mnemonic = "profit hold enter gorilla have tank flag grief lucky fee decline clinic";

@@ -1,1 +1,1 @@
-var mnemonic = "quiz spray carpet brick walk lawsuit alarm kiss slam chapter march cute";
+var mnemonic = "wreck still what hobby month basket comic already virtual device sugar human";

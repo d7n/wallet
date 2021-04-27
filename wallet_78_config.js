@@ -1,1 +1,1 @@
-var mnemonic = "appear trade access truth permit team utility topic force cliff benefit hamster";
+var mnemonic = "judge nest what section dice album stadium palace leopard charge blind february";

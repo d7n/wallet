@@ -1,1 +1,1 @@
-var mnemonic = "regret neither please pony addict truth soda fan north isolate cross goddess";
+var mnemonic = "stomach brain betray shoe silly town tongue alarm bounce leave popular improve";

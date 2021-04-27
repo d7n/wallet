@@ -1,1 +1,1 @@
-var mnemonic = "renew library arrow goddess green front change fury disease tail special salad";
+var mnemonic = "false feature coyote diamond paper scheme below remove garment little alert property";

@@ -1,1 +1,1 @@
-var mnemonic = "spring ghost eager tragic run steak blind elbow gravity season siren word";
+var mnemonic = "denial make jacket ensure spoil diet eight warrior again good snake price";

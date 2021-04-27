@@ -1,1 +1,1 @@
-var mnemonic = "ball hammer action nest access dutch wrist loyal input also museum keep";
+var mnemonic = "scene gas supply release congress hen bus pencil post series honey coin";

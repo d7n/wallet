@@ -1,1 +1,1 @@
-var mnemonic = "able garlic spoil chunk letter achieve urban zoo cousin abuse damp execute";
+var mnemonic = "vacant chase pulp keen day cupboard sting before unhappy glass lab dose";

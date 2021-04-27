@@ -1,1 +1,1 @@
-var mnemonic = "dolphin silly diary enable power rocket drink curtain rack patient virtual deliver";
+var mnemonic = "airport real knife hero visual snow nurse club bomb mirror bubble skirt";

@@ -1,1 +1,1 @@
-var mnemonic = "camera parade blue luxury feature veteran hip glow benefit bomb cage delay";
+var mnemonic = "arrow great claw clinic iron diamond judge camera spread focus three chronic";

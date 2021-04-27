@@ -1,1 +1,1 @@
-var mnemonic = "only aisle carpet car region adjust change quiz hundred cloud group game";
+var mnemonic = "cancel comfort concert rug proud cactus fashion stem dish clown ordinary vote";

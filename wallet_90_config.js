@@ -1,1 +1,1 @@
-var mnemonic = "diesel just asthma piano occur tiny radio frequent bounce define series tiny";
+var mnemonic = "fatigue twelve peace twenty pelican tilt involve merry april inject timber effort";

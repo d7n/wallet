@@ -1,1 +1,1 @@
-var mnemonic = "lift feature matter virus length alarm dad later embrace follow universe hair";
+var mnemonic = "unique disagree pelican adjust utility able ripple aim cart hammer purity have";

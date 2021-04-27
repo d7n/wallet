@@ -1,1 +1,1 @@
-var mnemonic = "emerge jaguar furnace camp script bonus author tennis friend deposit place cream";
+var mnemonic = "ocean domain egg tank arena identify review ride mountain anger point badge";

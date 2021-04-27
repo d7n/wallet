@@ -1,1 +1,1 @@
-var mnemonic = "orange industry correct flavor car bracket license super erupt tank anger congress";
+var mnemonic = "liberty deny february plug insane index lounge market hub pill cactus merge";

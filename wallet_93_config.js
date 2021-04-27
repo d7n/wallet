@@ -1,1 +1,1 @@
-var mnemonic = "cluster will phrase spin army crater raccoon agree future idle fee razor";
+var mnemonic = "hazard video cliff soup portion twin feed deal uniform inspire vote echo";

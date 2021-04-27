@@ -1,1 +1,1 @@
-var mnemonic = "shock rare color camp client blood radio reveal entry kitchen same brave";
+var mnemonic = "fly light ketchup social behave picture crowd forum latin nurse park primary";

@@ -1,1 +1,1 @@
-var mnemonic = "discover deal senior certain purity sun atom glass boat student hobby suffer";
+var mnemonic = "legend pumpkin sugar subject carpet vocal adult peanut belt describe cliff mix";

@@ -1,1 +1,1 @@
-var mnemonic = "sense paper destroy wrestle foil tonight music output plate spare asset popular";
+var mnemonic = "culture wrong pipe exile detect hold fan asthma void summer often raise";

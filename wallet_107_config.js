@@ -1,1 +1,1 @@
-var mnemonic = "useful bonus rough certain ridge project curious advice opinion similar patrol weird";
+var mnemonic = "shiver gate symptom exercise enough fence cost borrow task camp top hobby";

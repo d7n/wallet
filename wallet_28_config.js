@@ -1,1 +1,1 @@
-var mnemonic = "transfer story age already upper tail mule behave remind orchard jelly rent";
+var mnemonic = "slender shove slot flush census wash trap error orange maple large fog";

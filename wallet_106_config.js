@@ -1,1 +1,1 @@
-var mnemonic = "scout vocal uncover stage crumble year soup kitchen road stage popular achieve";
+var mnemonic = "labor pole control modify bird resource much rich expand husband original quality";

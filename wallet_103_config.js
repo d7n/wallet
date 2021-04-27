@@ -1,1 +1,1 @@
-var mnemonic = "toward novel eager ocean live flavor gate talk goat depth afford view";
+var mnemonic = "vapor december model biology alert injury record wise ridge rival animal address";

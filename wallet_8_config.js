@@ -1,1 +1,1 @@
-var mnemonic = "theory any rich three oppose scale recycle song royal slam civil pitch";
+var mnemonic = "whip upgrade street enroll grace able universe syrup index flash kick vital";

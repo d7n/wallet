@@ -1,1 +1,1 @@
-var mnemonic = "this royal lady throw laptop casual dust trim maple rich concert toddler";
+var mnemonic = "habit average hour stadium powder envelope humor chef level tool measure cube";

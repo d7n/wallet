@@ -1,1 +1,1 @@
-var mnemonic = "organ weekend door when recipe gentle trade loyal car cushion biology furnace";
+var mnemonic = "economy improve advance stem useless hope addict retire catch ribbon rather piece";

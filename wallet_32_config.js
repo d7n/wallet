@@ -1,1 +1,1 @@
-var mnemonic = "crowd jar grab float balance maximum romance heavy force alarm nasty weapon";
+var mnemonic = "rotate gentle vague save agree clerk allow ethics shop busy result shoe";

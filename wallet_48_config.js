@@ -1,1 +1,1 @@
-var mnemonic = "quit drill credit transfer robot cave rookie filter choose dinosaur version scissors";
+var mnemonic = "shine soul mandate medal sheriff feature lady funny permit swarm auction crucial";

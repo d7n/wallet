@@ -1,1 +1,1 @@
-var mnemonic = "sibling property fluid chapter frame orient riot march bubble steel million wool";
+var mnemonic = "design wrong grit whisper scheme popular pull connect absent spice life scatter";

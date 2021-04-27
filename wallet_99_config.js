@@ -1,1 +1,1 @@
-var mnemonic = "pluck battle spike cool arm below note question clay wish until fall";
+var mnemonic = "search aim cage dignity where mountain lava bike bonus raccoon disorder gold";

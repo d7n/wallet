@@ -1,1 +1,1 @@
-var mnemonic = "long problem analyst strong toast street actual card canvas learn whale abuse";
+var mnemonic = "matrix dirt grid over quarter rule trade fancy mistake pulp real come";

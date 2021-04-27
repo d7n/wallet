@@ -1,1 +1,1 @@
-var mnemonic = "oval evoke evil bitter arch total flock detail educate final inhale pair";
+var mnemonic = "vehicle unusual make trigger off process dolphin ask trumpet armor they wave";

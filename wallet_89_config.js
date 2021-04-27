@@ -1,1 +1,1 @@
-var mnemonic = "crystal source crash sock rival tube tray lobster sponsor boil main alarm";
+var mnemonic = "awful valley rather dismiss please wing smoke senior idle infant brick hour";

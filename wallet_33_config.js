@@ -1,1 +1,1 @@
-var mnemonic = "dish culture pledge helmet bulk cart brain manual find adjust dial enable";
+var mnemonic = "ranch robust era history erode afraid journey voyage taxi snow cram twenty";

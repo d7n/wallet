@@ -1,1 +1,1 @@
-var mnemonic = "inner cheese meadow deny sleep bleak sign exotic exclude ceiling oblige whale";
+var mnemonic = "merit faculty sing ivory drum lemon peasant valid salad bomb glove powder";

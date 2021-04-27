@@ -1,1 +1,1 @@
-var mnemonic = "discover budget luxury thrive edit example priority record cattle verify nasty robust";
+var mnemonic = "upgrade misery grass mechanic wrap evoke ignore enhance bunker shield sponsor figure";

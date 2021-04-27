@@ -1,1 +1,1 @@
-var mnemonic = "alone final oblige chunk age spice trash supply voyage glimpse avoid sword";
+var mnemonic = "cruel alcohol web cash fog spawn behind device flag moral urban usage";

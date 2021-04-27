@@ -1,1 +1,1 @@
-var mnemonic = "prison satoshi flock traffic mutual devote program lava second want only dove";
+var mnemonic = "cargo clerk inmate carbon attract stamp original thought nuclear victory oven secret";

@@ -1,1 +1,1 @@
-var mnemonic = "choice tag ahead boss bacon bronze found neglect veteran ketchup genuine sustain";
+var mnemonic = "pledge layer melt select solid tree cliff iron window bulb key soap";

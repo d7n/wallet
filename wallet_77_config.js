@@ -1,1 +1,1 @@
-var mnemonic = "earth rotate mask alone icon field vicious anchor umbrella reveal vapor train";
+var mnemonic = "force soda slide royal pelican about skate dune swap lend focus wealth";
