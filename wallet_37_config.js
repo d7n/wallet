@@ -1,1 +1,1 @@
-var mnemonic = "absent canoe judge hair top elite rent axis bunker rocket lab isolate";
+var mnemonic = "draft achieve three reunion burden peanut tenant inner topic hope day grit";

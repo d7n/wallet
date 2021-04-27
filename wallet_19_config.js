@@ -1,1 +1,1 @@
-var mnemonic = "ghost thank nut reduce bundle tired amused furnace used purse frown guide";
+var mnemonic = "alcohol shield rough fiber witness ill asthma century height skin tone squeeze";

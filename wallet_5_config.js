@@ -1,1 +1,1 @@
-var mnemonic = "boy bonus cloud clip method often oxygen cheese current marriage long smoke";
+var mnemonic = "obscure clever lens cool wet winner found wealth double parrot common office";

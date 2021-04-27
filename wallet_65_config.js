@@ -1,1 +1,1 @@
-var mnemonic = "trap fork upon wide flight guide fog brand emerge member involve casual";
+var mnemonic = "athlete lawn service kid task dawn liquid exile ice brick tag index";

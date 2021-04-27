@@ -1,1 +1,1 @@
-var mnemonic = "gate cruise army where inner scorpion arrange wise ship saddle act fork";
+var mnemonic = "foil wait palace spice park elite crime faculty embark parade garlic afraid";

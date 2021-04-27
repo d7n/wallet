@@ -1,1 +1,1 @@
-var mnemonic = "brass slow horse payment retire need glory cattle leopard squeeze fun improve";
+var mnemonic = "junior actress quantum february pony noble health access split truly license include";

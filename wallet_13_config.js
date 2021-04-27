@@ -1,1 +1,1 @@
-var mnemonic = "under gallery curve private viable trend bring harsh sail object pioneer tone";
+var mnemonic = "fragile note parent nominee annual ketchup dress usage fire bench drink deputy";

@@ -1,1 +1,1 @@
-var mnemonic = "valid faith similar donkey enemy trap moral nature pull welcome awesome moral";
+var mnemonic = "hard canal hood author scrap bone rich school modify report album pill";

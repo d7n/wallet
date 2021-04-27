@@ -1,1 +1,1 @@
-var mnemonic = "clinic also pony human cruel dress useful symbol where wrong pass rain";
+var mnemonic = "barrel excuse rubber coral chief body episode turn nurse subject blur owner";

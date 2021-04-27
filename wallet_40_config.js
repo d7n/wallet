@@ -1,1 +1,1 @@
-var mnemonic = "keen type artefact round uniform boss side toss session wall ecology mushroom";
+var mnemonic = "wheat unusual own adapt wasp buyer field you leader lunar settle awkward";

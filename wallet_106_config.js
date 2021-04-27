@@ -1,1 +1,1 @@
-var mnemonic = "crowd auction decide spirit employ gate tomorrow guard foil donate choose rice";
+var mnemonic = "dignity fiber urban retreat depend heavy vague emerge melody video glimpse curve";

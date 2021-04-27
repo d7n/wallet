@@ -1,1 +1,1 @@
-var mnemonic = "earth party reflect danger purity know item bulb hope almost leg pottery";
+var mnemonic = "dance target beef peasant permit stamp capable scout citizen boss blossom either";

@@ -1,1 +1,1 @@
-var mnemonic = "various basket olympic praise project remove galaxy execute faith cruel faith again";
+var mnemonic = "tank retire jeans noble reject trash corn accident future receive subway true";

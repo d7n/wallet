@@ -1,1 +1,1 @@
-var mnemonic = "expand tower aware empty design mango youth collect gather jewel scale welcome";
+var mnemonic = "firm lizard guitar cake remind similar general fly improve eternal memory drum";

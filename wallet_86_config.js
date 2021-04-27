@@ -1,1 +1,1 @@
-var mnemonic = "brave kiss about tooth dune clever armed venture hazard bone river album";
+var mnemonic = "mix coast room comic piano grocery fossil crush sort snack uniform pitch";

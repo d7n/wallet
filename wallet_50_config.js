@@ -1,1 +1,1 @@
-var mnemonic = "blade repeat essay horror happy hedgehog immense piece stairs purse unlock escape";
+var mnemonic = "middle couple fiction throw badge inside face embark hybrid story august enroll";

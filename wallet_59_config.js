@@ -1,1 +1,1 @@
-var mnemonic = "illegal punch symptom ancient absent album various diary tomorrow print pull divert";
+var mnemonic = "settle mixture fan shadow clean damp shadow enter cabin decide afford glow";

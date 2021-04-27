@@ -1,1 +1,1 @@
-var mnemonic = "leisure disorder foil educate firm mosquito reduce gun ugly hedgehog olive dust";
+var mnemonic = "layer arrest knife dizzy design space kiss pelican guitar dice bag payment";

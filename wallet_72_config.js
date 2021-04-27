@@ -1,1 +1,1 @@
-var mnemonic = "hire cost ranch cupboard help barrel wise crazy vapor dinner crisp moral";
+var mnemonic = "heart mountain faint hazard cement lottery vapor kitchen rapid finger weather nature";

@@ -1,1 +1,1 @@
-var mnemonic = "chase toilet hurdle bunker impulse obey goddess phrase mail couch steel more";
+var mnemonic = "kiwi bright ill valid know blast until private heart soup october online";

@@ -1,1 +1,1 @@
-var mnemonic = "reduce nose clerk tree any solve fiber bus flame hungry proof kiwi";
+var mnemonic = "trigger broken alarm shadow market oxygen moon mansion good recipe slide clog";

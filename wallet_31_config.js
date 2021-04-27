@@ -1,1 +1,1 @@
-var mnemonic = "cereal ill sense write arrest fluid weird anxiety display broom flash man";
+var mnemonic = "tiny sight divorce minor fun jealous security climb invite uniform scrub coffee";

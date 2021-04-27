@@ -1,1 +1,1 @@
-var mnemonic = "flower bitter humble spin jungle harsh crouch panel perfect auto monster father";
+var mnemonic = "flight noise slide paper tuna salad parrot season various various claim truly";

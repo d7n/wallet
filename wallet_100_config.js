@@ -1,1 +1,1 @@
-var mnemonic = "pond element have solid rocket february purchase play chapter until frequent promote";
+var mnemonic = "floor track cattle school onion sadness then banana monkey whisper invite fog";

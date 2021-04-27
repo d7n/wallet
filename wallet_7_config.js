@@ -1,1 +1,1 @@
-var mnemonic = "grunt include gasp flat doctor snow mutual flat venture sketch lab drive";
+var mnemonic = "unknown olive horn skill chimney manage reason frozen hedgehog act alien tiger";

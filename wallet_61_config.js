@@ -1,1 +1,1 @@
-var mnemonic = "language expire fox series owner lemon syrup dilemma brother travel crouch assume";
+var mnemonic = "must genuine brain turn merry maple ivory neglect clinic search armor tuition";

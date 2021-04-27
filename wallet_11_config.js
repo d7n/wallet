@@ -1,1 +1,1 @@
-var mnemonic = "wink region add poet figure fatigue lizard deal glory live cross worry";
+var mnemonic = "brave lift enjoy elephant inspire spatial mixture slight extra clog half rival";

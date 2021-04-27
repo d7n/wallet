@@ -1,1 +1,1 @@
-var mnemonic = "slogan plunge truth shop ethics catalog mango raccoon mean lunar velvet novel";
+var mnemonic = "game supply argue fog team away govern shock dinosaur company lyrics letter";

@@ -1,1 +1,1 @@
-var mnemonic = "amused minor title runway match they cactus unknown approve garlic joy draw";
+var mnemonic = "olympic voyage bread fall park sell father furnace never when clinic tent";

@@ -1,1 +1,1 @@
-var mnemonic = "extra genre health sword wolf jazz sponsor habit sibling shrimp embrace brick";
+var mnemonic = "also pear lawn glimpse cycle peasant voyage awkward cost avocado craft sure";

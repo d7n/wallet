@@ -1,1 +1,1 @@
-var mnemonic = "wife outer swap run pigeon original patch smoke fit wine license assist";
+var mnemonic = "scan tourist differ damp sting ride broom result this rail silly sword";

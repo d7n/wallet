@@ -1,1 +1,1 @@
-var mnemonic = "ask spirit unfold treat desk dragon roast ranch truck mean action heart";
+var mnemonic = "crash warm opera beauty million grow lumber adult margin wool inflict habit";

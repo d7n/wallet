@@ -1,1 +1,1 @@
-var mnemonic = "siege term prepare tone burden seminar scout verify hero diamond soccer toy";
+var mnemonic = "fly bring actor buyer teach tent immune endless menu learn patrol glide";

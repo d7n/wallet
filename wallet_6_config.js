@@ -1,1 +1,1 @@
-var mnemonic = "romance carbon habit spoon spray favorite link organ endless casino mass thunder";
+var mnemonic = "toward kid security equip dune struggle scheme engage husband jar vintage child";

@@ -1,1 +1,1 @@
-var mnemonic = "flash appear burst pencil control east thumb upon grit awkward style whisper";
+var mnemonic = "mouse negative honey nurse hint toddler exhibit safe cloth vibrant shoot syrup";

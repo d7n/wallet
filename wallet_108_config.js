@@ -1,1 +1,1 @@
-var mnemonic = "uniform cushion often assault replace gold cheese raw option sorry target initial";
+var mnemonic = "water unveil able stick august vocal dutch shallow scene drip figure slush";

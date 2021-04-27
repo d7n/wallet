@@ -1,1 +1,1 @@
-var mnemonic = "loyal siege wing depend apple alien asset lunar share cushion antique guilt";
+var mnemonic = "fun keep brief govern card trust chat frozen anger shaft mutual pink";

@@ -1,1 +1,1 @@
-var mnemonic = "gun pond host plastic clerk cover blade image flip federal nest banner";
+var mnemonic = "galaxy illness pole hurry cake solar post phone point once grid mix";

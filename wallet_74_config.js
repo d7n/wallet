@@ -1,1 +1,1 @@
-var mnemonic = "moment laundry inject believe bunker rocket decrease rifle album panic business flavor";
+var mnemonic = "drink together true cook rally add curve return daring peasant verify blast";

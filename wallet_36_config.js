@@ -1,1 +1,1 @@
-var mnemonic = "tennis edit secret pyramid wood business zebra fluid clap ball prefer flag";
+var mnemonic = "extra filter social muscle fiscal avocado tuition lawsuit have chalk slam tourist";

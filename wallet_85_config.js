@@ -1,1 +1,1 @@
-var mnemonic = "sudden visit erase organ senior assault forum sheriff undo blade gain laptop";
+var mnemonic = "easily canyon day toast dynamic term today hood unaware wonder tray inner";

@@ -1,1 +1,1 @@
-var mnemonic = "typical genius switch disease blush history isolate right breeze clap onion practice";
+var mnemonic = "giraffe marriage puppy above luxury like clutch protect topic erase special give";

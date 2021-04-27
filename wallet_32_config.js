@@ -1,1 +1,1 @@
-var mnemonic = "simple curious disorder gloom river term together bronze hill twist anchor dilemma";
+var mnemonic = "noise choose forget above infant armor scale congress proud damp attend dial";

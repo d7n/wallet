@@ -1,1 +1,1 @@
-var mnemonic = "parrot display primary embark parrot dog release stamp wrap stool initial public";
+var mnemonic = "rug symptom brief virtual remind inject novel rely head volume blur total";

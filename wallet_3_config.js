@@ -1,1 +1,1 @@
-var mnemonic = "settle toast check injury chat bracket perfect risk laundry display sponsor federal";
+var mnemonic = "point hover lady tonight hollow antique surprise soda leave add used october";

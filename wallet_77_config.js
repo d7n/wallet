@@ -1,1 +1,1 @@
-var mnemonic = "find team cabbage hungry ahead sudden reject civil spatial raw plastic monitor";
+var mnemonic = "spoil resist other idle betray genuine drift angle uncover cry make quarter";

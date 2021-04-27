@@ -1,1 +1,1 @@
-var mnemonic = "near ice stand scare ancient phone mercy marine illegal cruel gown wrong";
+var mnemonic = "reunion link visit amazing fly knife chaos decline trust cage bread shoulder";

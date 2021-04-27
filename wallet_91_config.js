@@ -1,1 +1,1 @@
-var mnemonic = "wonder miracle february level apple robust gloom toss warrior interest nuclear train";
+var mnemonic = "oval metal indicate need always dry daring snap mistake evil beyond tonight";

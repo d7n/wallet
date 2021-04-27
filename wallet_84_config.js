@@ -1,1 +1,1 @@
-var mnemonic = "advance joke cause gasp cupboard stay rate elite daughter blast shrimp diamond";
+var mnemonic = "hood smart bicycle mother rebuild immense slight art cupboard toe fork theory";

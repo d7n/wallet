@@ -1,1 +1,1 @@
-var mnemonic = "height acoustic silver analyst decade toast shuffle notable monitor denial craft other";
+var mnemonic = "keen latin deny level thunder grief shoe supply dolphin dial practice awake";

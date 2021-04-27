@@ -1,1 +1,1 @@
-var mnemonic = "ski disagree tail orbit sense motion profit neglect thrive term claim tomorrow";
+var mnemonic = "motor insane section clerk call slush cinnamon inmate popular purpose high empty";

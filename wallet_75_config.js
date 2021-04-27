@@ -1,1 +1,1 @@
-var mnemonic = "section print trap kitten useless sort crater gossip civil bus remain interest";
+var mnemonic = "because bird violin capital metal garden smoke hungry orphan example lens evil";

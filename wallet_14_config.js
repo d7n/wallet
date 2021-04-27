@@ -1,1 +1,1 @@
-var mnemonic = "pride cousin drama lift outside drip wrong unit volume brick prevent between";
+var mnemonic = "october render engage gain ritual acid cradle pool peace jar struggle test";

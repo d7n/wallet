@@ -1,1 +1,1 @@
-var mnemonic = "brown inch squirrel sick trial movie police curious bulk early search habit";
+var mnemonic = "excuse forum regret ice yard motion tilt strategy whip isolate front another";

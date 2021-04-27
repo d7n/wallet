@@ -1,1 +1,1 @@
-var mnemonic = "swallow coil dream clarify roast father lava emerge employ north speed tomorrow";
+var mnemonic = "salute brown wreck music gun explain lonely shine switch lazy craft story";

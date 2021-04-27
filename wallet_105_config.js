@@ -1,1 +1,1 @@
-var mnemonic = "stand begin prison ribbon cross please distance defense man side radio misery";
+var mnemonic = "fan torch material table frog great shaft coil camp evidence law panther";

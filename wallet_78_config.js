@@ -1,1 +1,1 @@
-var mnemonic = "chronic waste faculty language renew bless exile chronic fortune valid derive plastic";
+var mnemonic = "truth this scheme mystery gauge chief large vibrant help rate room history";

@@ -1,1 +1,1 @@
-var mnemonic = "hollow budget giggle scheme boring travel much budget pledge guess ecology favorite";
+var mnemonic = "video ring okay post harsh horn amount crush right tape multiply buddy";

@@ -1,1 +1,1 @@
-var mnemonic = "pigeon friend gossip goat sight river unknown trust ozone egg hole insect";
+var mnemonic = "ill uncover sustain fall chicken nasty cage wild skin jump extend economy";

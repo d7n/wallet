@@ -1,1 +1,1 @@
-var mnemonic = "man relief enrich easy pupil true federal trigger view coil tone spray";
+var mnemonic = "jungle rapid system bridge confirm destroy height west wish nation pigeon alley";

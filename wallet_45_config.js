@@ -1,1 +1,1 @@
-var mnemonic = "return love pig just cover unveil leg flame diagram mechanic where topple";
+var mnemonic = "minor invest maximum clever lava rookie kitchen long reject glimpse grid science";

@@ -1,1 +1,1 @@
-var mnemonic = "recall elegant mention hero book horn right achieve wall street praise usual";
+var mnemonic = "hero tissue game swift song talk neck bless barely garment endorse birth";

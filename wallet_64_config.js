@@ -1,1 +1,1 @@
-var mnemonic = "physical art reason amazing report deny weekend dolphin tree easily helmet deposit";
+var mnemonic = "post basket split critic fun gauge result slight unlock creek team heart";

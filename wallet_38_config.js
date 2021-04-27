@@ -1,1 +1,1 @@
-var mnemonic = "silk brisk want purpose mean member idle kind maid feature crew year";
+var mnemonic = "twist hazard february bacon social odor will entire edit stage reject visual";

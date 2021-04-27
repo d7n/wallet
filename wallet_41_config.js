@@ -1,1 +1,1 @@
-var mnemonic = "choose wire there toe drama essay weird name bar asset clump start";
+var mnemonic = "trade luggage wagon oven whale mask leg knife ice sweet weird naive";

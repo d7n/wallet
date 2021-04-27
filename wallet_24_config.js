@@ -1,1 +1,1 @@
-var mnemonic = "spoon ocean brave luxury weapon over fall push poem april advice brown";
+var mnemonic = "report enrich review capable survey source stairs rib duck liquid produce praise";

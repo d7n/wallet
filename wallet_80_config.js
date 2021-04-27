@@ -1,1 +1,1 @@
-var mnemonic = "click distance local traffic legend gesture leader flush warrior welcome collect cart";
+var mnemonic = "junior chapter lecture spirit hand rubber mutual busy reward correct garlic armed";

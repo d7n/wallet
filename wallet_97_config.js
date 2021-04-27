@@ -1,1 +1,1 @@
-var mnemonic = "truth peanut immense clutch soft punch rent jazz obscure canal parrot broom";
+var mnemonic = "uncle trash under cradle unveil uncover elbow climb guilt alarm dust primary";

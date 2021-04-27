@@ -1,1 +1,1 @@
-var mnemonic = "tone digital midnight media tape ridge wasp invite industry whale marriage first";
+var mnemonic = "obvious provide liquid six pride comfort avocado clock faculty zone stereo nation";

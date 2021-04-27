@@ -1,1 +1,1 @@
-var mnemonic = "leaf spirit certain glance habit twist broccoli item damage fever cart grunt";
+var mnemonic = "fitness system mom suspect frost soon improve ceiling poem scout joy gadget";

@@ -1,1 +1,1 @@
-var mnemonic = "inner merry gain tortoise vital crouch walk flower very stove noodle barely";
+var mnemonic = "neck cinnamon sense soccer fossil narrow olive unusual vintage chaos hybrid salt";

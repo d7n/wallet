@@ -1,1 +1,1 @@
-var mnemonic = "rescue dad small run situate urban view foam salon carbon upon artist";
+var mnemonic = "coin dismiss day awful atom slogan obscure strike warm vacuum champion vessel";

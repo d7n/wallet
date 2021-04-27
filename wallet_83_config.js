@@ -1,1 +1,1 @@
-var mnemonic = "fantasy sustain easy fancy will margin outer slam donor kid joy taxi";
+var mnemonic = "rookie rookie level slow sea cart wool cement hen universe hint nuclear";

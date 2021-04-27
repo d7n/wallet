@@ -1,1 +1,1 @@
-var mnemonic = "idle banner leave upon truly decorate initial shrug clump subway apology fox";
+var mnemonic = "strategy soccer flight table rate thing mix wise suffer dove gossip cattle";

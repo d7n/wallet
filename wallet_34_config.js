@@ -1,1 +1,1 @@
-var mnemonic = "toilet second donor battle eye chase slot letter oil man comic pudding";
+var mnemonic = "victory gloom effort bring play valve basic code chronic market abstract swallow";

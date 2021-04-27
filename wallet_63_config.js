@@ -1,1 +1,1 @@
-var mnemonic = "humble split tuition goose accident enough dirt album stadium wire spoon shell";
+var mnemonic = "outdoor lion charge solution unhappy flame aerobic same entire multiply found output";

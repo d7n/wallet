@@ -1,1 +1,1 @@
-var mnemonic = "elbow can adapt animal theory tooth plunge boy grit cart balance shove";
+var mnemonic = "damage rich shoe ticket great fix amused course lizard galaxy ocean grit";

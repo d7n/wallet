@@ -1,1 +1,1 @@
-var mnemonic = "nurse polar art involve medal want blind left title aerobic learn keep";
+var mnemonic = "gallery enter abuse card nation game apple puzzle force library loud estate";

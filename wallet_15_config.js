@@ -1,1 +1,1 @@
-var mnemonic = "suffer armor loop balance sure turkey wage brown comic art finger you";
+var mnemonic = "image tattoo almost abstract vivid dentist system leaf page worth task easy";

@@ -1,1 +1,1 @@
-var mnemonic = "roof swift issue earth beach result onion afford moral manage speed world";
+var mnemonic = "depth deposit feed lift permit ozone wire plastic humor lucky pipe loyal";

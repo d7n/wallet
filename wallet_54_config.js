@@ -1,1 +1,1 @@
-var mnemonic = "write wage bronze attract razor total blue inflict trip improve title claim";
+var mnemonic = "empower battle human rabbit bar deputy fiscal record illegal brush garment before";

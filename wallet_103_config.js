@@ -1,1 +1,1 @@
-var mnemonic = "tower cross rail sign escape receive sibling chalk donor refuse tail artist";
+var mnemonic = "announce crowd can chief strike stay damage enhance portion soul high resemble";

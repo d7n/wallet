@@ -1,1 +1,1 @@
-var mnemonic = "carry truck either smooth call process tip nest cream ten output duty";
+var mnemonic = "logic boss insane glory glass alert argue palace pledge prepare enrich tongue";

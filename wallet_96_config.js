@@ -1,1 +1,1 @@
-var mnemonic = "casual holiday giant mind antique kangaroo rotate minimum jaguar that cancel comfort";
+var mnemonic = "fever liberty reject tree call snack ketchup donate slush section brick opera";

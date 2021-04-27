@@ -1,1 +1,1 @@
-var mnemonic = "antique hip myth abuse smart slam fruit brave stand picnic neck access";
+var mnemonic = "indoor leaf suspect tunnel sight space nest luggage rule make jazz patient";

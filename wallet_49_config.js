@@ -1,1 +1,1 @@
-var mnemonic = "hurt carry network drum olive slam riot radio lift shock ensure whale";
+var mnemonic = "ocean ostrich effort welcome panther kid abuse extra regular tenant stumble tube";

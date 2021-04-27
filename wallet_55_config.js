@@ -1,1 +1,1 @@
-var mnemonic = "crime van force palm clarify action dose general fire fever train pitch";
+var mnemonic = "shop snap better peace left kiss jaguar hollow rival afford source blade";

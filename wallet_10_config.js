@@ -1,1 +1,1 @@
-var mnemonic = "unique envelope swap few wool absent attitude blossom coast love gallery angle";
+var mnemonic = "ramp eyebrow piece mass then team daring apology banana switch promote easy";

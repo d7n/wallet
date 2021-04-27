@@ -1,1 +1,1 @@
-var mnemonic = "ready cross type mix edit logic tip eternal shine truck carpet nature";
+var mnemonic = "caution time giant debate boss blame buyer acquire fiction crunch giant hotel";

@@ -1,1 +1,1 @@
-var mnemonic = "gold flock predict inner fit kitten convince loyal arrow radar cross sample";
+var mnemonic = "spin kangaroo waste name found tiny virtual animal hybrid cancel urban claim";

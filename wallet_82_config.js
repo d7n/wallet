@@ -1,1 +1,1 @@
-var mnemonic = "radar near basket wood captain spin wire album infant great chunk wolf";
+var mnemonic = "afraid enable feature sister echo metal sniff goddess cram video manage want";

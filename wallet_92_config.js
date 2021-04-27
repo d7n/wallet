@@ -1,1 +1,1 @@
-var mnemonic = "scale warfare mobile code simple glove final panda permit month volcano hello";
+var mnemonic = "fall supply logic fix measure place sand power unhappy fly just bunker";

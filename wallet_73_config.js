@@ -1,1 +1,1 @@
-var mnemonic = "rice pigeon plug jar crane unlock stone thunder outer jazz unit edit";
+var mnemonic = "clog tent peasant blanket advance whisper analyst gaze void floor glove rough";

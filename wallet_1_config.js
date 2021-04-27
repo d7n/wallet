@@ -1,1 +1,1 @@
-var mnemonic = "merit name master liar slight candy permit robot culture furnace assist alter";
+var mnemonic = "flat clown never crazy helmet talent domain horror erosion slot skill dash";

@@ -1,1 +1,1 @@
-var mnemonic = "clutch trash athlete spike useless staff prefer gold matrix float tray protect";
+var mnemonic = "flock nose empower actor brief style cheap wall stand pair penalty slight";

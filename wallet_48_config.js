@@ -1,1 +1,1 @@
-var mnemonic = "found moment citizen grace game trial abandon alcohol truly cruel robot dawn";
+var mnemonic = "trick repeat neck guess eternal rotate busy pledge bid machine fire echo";

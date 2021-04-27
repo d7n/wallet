@@ -1,1 +1,1 @@
-var mnemonic = "long simple wasp reveal barely palm home minute canyon stomach mosquito possible";
+var mnemonic = "addict chef horror logic avocado cause know warfare dog busy street when";

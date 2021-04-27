@@ -1,1 +1,1 @@
-var mnemonic = "woman provide night kid tell crystal couple sting spice sing forget shell";
+var mnemonic = "second cricket catalog since able flame suggest lift hole fox inherit diagram";

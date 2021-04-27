@@ -1,1 +1,1 @@
-var mnemonic = "citizen also danger liquid movie crawl blame two ribbon health force inhale";
+var mnemonic = "card shift forest scene fluid jazz sketch bamboo pig elevator chalk across";

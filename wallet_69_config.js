@@ -1,1 +1,1 @@
-var mnemonic = "supreme vessel lawsuit rabbit track lecture van excite twin prison clutch fold";
+var mnemonic = "wire power announce maid token chef accident plate card caution error maple";

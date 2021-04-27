@@ -1,1 +1,1 @@
-var mnemonic = "dry problem jealous random drum bomb thumb collect matrix pair axis math";
+var mnemonic = "problem blood lend best movie review into derive toy immune patient raise";

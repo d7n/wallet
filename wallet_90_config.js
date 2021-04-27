@@ -1,1 +1,1 @@
-var mnemonic = "grief brain ball clerk young inch universe soccer install milk wife crash";
+var mnemonic = "tuition gas bullet crowd off moon animal poet nature frequent inquiry hub";
