@@ -1,1 +1,1 @@
-var mnemonic = "swear panther donate magic prefer option unique exist lecture picture whip robot";
+var mnemonic = "emerge tortoise spin fee van license pelican present enjoy mosquito lobster rug";

@@ -1,1 +1,1 @@
-var mnemonic = "skull fall industry lawn gather project foam search easily any crush reveal";
+var mnemonic = "joy mistake supply almost decorate south search tongue edge kiwi choose film";

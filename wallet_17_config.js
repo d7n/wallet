@@ -1,1 +1,1 @@
-var mnemonic = "leopard avoid argue sort face orbit trip all casino shoulder when vintage";
+var mnemonic = "child group goat exhibit congress neutral piece tiny toast weapon alien sphere";

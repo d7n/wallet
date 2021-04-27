@@ -1,1 +1,1 @@
-var mnemonic = "test clinic nut great swallow cause camp emotion case uniform interest come";
+var mnemonic = "regret radar simple glad armed stomach useless burger width gossip artefact casual";

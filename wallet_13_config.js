@@ -1,1 +1,1 @@
-var mnemonic = "slab trim pitch asset hotel benefit width taste explain game airport bracket";
+var mnemonic = "verify poem coin quiz laptop copper promote street buyer gossip attract gift";

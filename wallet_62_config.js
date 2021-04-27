@@ -1,1 +1,1 @@
-var mnemonic = "blood transfer sting among front chronic champion buffalo soft consider vast lemon";
+var mnemonic = "middle list depth earth return narrow palace name liquid culture pair sand";

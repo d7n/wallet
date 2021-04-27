@@ -1,1 +1,1 @@
-var mnemonic = "shallow same foil fury rapid travel twelve sugar pottery defy news puppy";
+var mnemonic = "surround camera bridge icon toddler output debate mirror quiz chaos clump violin";

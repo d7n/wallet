@@ -1,1 +1,1 @@
-var mnemonic = "priority junior bounce organ swing foam abuse exchange elegant crack tuna produce";
+var mnemonic = "sister someone unit crystal twist august cram shop coral pistol plastic acid";

@@ -1,1 +1,1 @@
-var mnemonic = "grass east wink slot load resist glance monkey inmate blade canvas ask";
+var mnemonic = "feel fan infant canoe kiss scout toy blur smooth come because silk";

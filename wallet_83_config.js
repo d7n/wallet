@@ -1,1 +1,1 @@
-var mnemonic = "copper smile clarify calm toy develop layer wear never civil deputy frost";
+var mnemonic = "resist guitar pact raven slim amount decorate peace nest reject donate outside";

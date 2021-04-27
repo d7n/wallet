@@ -1,1 +1,1 @@
-var mnemonic = "swift deputy style inspire nature sorry utility dragon match have tornado sleep";
+var mnemonic = "amateur manual lyrics produce choose enter menu cry secret athlete gloom bounce";

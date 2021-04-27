@@ -1,1 +1,1 @@
-var mnemonic = "wave gallery fine indoor shop aunt genius fantasy edit follow theory syrup";
+var mnemonic = "middle later jazz skirt genre leaf hurdle boil season goddess cat around";

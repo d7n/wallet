@@ -1,1 +1,1 @@
-var mnemonic = "escape globe average inspire achieve fee ritual together lesson skin catalog sustain";
+var mnemonic = "daughter horn tissue visa surround carpet meat favorite depart match glad extra";

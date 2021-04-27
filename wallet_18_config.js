@@ -1,1 +1,1 @@
-var mnemonic = "swim video observe nest radio audit polar better essence police obscure ivory";
+var mnemonic = "glad service label hole engage royal vocal mother today country kiss come";

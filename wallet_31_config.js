@@ -1,1 +1,1 @@
-var mnemonic = "lend scene wait hundred sell mosquito coast museum sister accuse vibrant isolate";
+var mnemonic = "extra among need lemon sea supreme illegal tree glue jazz stairs laugh";

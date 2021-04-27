@@ -1,1 +1,1 @@
-var mnemonic = "torch twist rice story circle tragic gate banana topic bread canoe pumpkin";
+var mnemonic = "skill carry tenant intact goat noodle cinnamon powder snack forward firm panic";

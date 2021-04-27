@@ -1,1 +1,1 @@
-var mnemonic = "visa produce drop eight local jar rebuild feel weasel gain predict deputy";
+var mnemonic = "shoe humor web rebuild spring ten skull impose wire orbit flavor scrub";

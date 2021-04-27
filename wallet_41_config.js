@@ -1,1 +1,1 @@
-var mnemonic = "dwarf tray amused swamp tired crisp industry helmet shock wasp night inject";
+var mnemonic = "welcome peasant mixed surround pass lake vintage shadow scan hazard reform gallery";

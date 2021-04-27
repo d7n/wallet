@@ -1,1 +1,1 @@
-var mnemonic = "venture arctic defy before identify indicate maid sing senior summer dismiss put";
+var mnemonic = "hedgehog yellow soccer guard west farm gown chunk palm notice swallow hedgehog";

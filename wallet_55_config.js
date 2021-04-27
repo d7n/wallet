@@ -1,1 +1,1 @@
-var mnemonic = "birth major gloom web salon sniff ribbon clip recall feed disease harsh";
+var mnemonic = "shiver enhance antique usage media tackle chat room topple net warfare hamster";

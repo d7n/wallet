@@ -1,1 +1,1 @@
-var mnemonic = "riot crater miracle federal mail coin under chalk anchor put silk rhythm";
+var mnemonic = "one child title light fortune coast observe produce spoon pave cover empower";

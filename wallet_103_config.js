@@ -1,1 +1,1 @@
-var mnemonic = "they fancy million high train duty desert claw all silver torch sponsor";
+var mnemonic = "example release until athlete slot delay tree tone lend duck secret student";

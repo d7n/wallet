@@ -1,1 +1,1 @@
-var mnemonic = "rare impulse question poet awake rail lift install welcome project annual arm";
+var mnemonic = "empty axis food expire walk slogan garage under dance usual alert pond";

@@ -1,1 +1,1 @@
-var mnemonic = "glimpse mango sadness humble design degree rival sun west present almost tail";
+var mnemonic = "blast input floor deal helmet used parent glass foster lion hole pluck";

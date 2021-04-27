@@ -1,1 +1,1 @@
-var mnemonic = "unfold ranch around artefact step wine fine dragon staff movie dwarf rely";
+var mnemonic = "rotate liberty garden cupboard like apology soft clump lemon visit repeat income";

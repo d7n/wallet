@@ -1,1 +1,1 @@
-var mnemonic = "eternal digital wild flee silly core bridge true town heavy mosquito square";
+var mnemonic = "pond dice cabbage poem retire poet fox name bamboo strike small flee";

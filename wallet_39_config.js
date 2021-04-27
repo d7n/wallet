@@ -1,1 +1,1 @@
-var mnemonic = "this announce someone defy black goddess snack devote cancel online salmon north";
+var mnemonic = "habit motor control topic visa hole fatigue comic crime color duck butter";

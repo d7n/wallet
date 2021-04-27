@@ -1,1 +1,1 @@
-var mnemonic = "below inject rate cotton shift praise chair river isolate destroy trophy abuse";
+var mnemonic = "report theory pipe keep three insane total expect pottery reform conduct bomb";

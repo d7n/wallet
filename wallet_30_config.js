@@ -1,1 +1,1 @@
-var mnemonic = "fetch any panel speed party unlock prefer plastic spice space river scare";
+var mnemonic = "among easily cushion stage silver goat pretty fit narrow fan gown solid";

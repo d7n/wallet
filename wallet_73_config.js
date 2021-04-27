@@ -1,1 +1,1 @@
-var mnemonic = "accident session satisfy pluck knock final fit cinnamon snack tourist demise deer";
+var mnemonic = "dismiss skull yellow load fun wide bag glow swamp pink concert copy";

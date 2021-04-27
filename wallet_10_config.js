@@ -1,1 +1,1 @@
-var mnemonic = "vendor mutual horse crisp empty swallow winner onion space crowd quality suit";
+var mnemonic = "home mystery exist timber gorilla wage bulk clown afraid laugh comfort orbit";

@@ -1,1 +1,1 @@
-var mnemonic = "simple submit twenty permit divorce real canoe wise jump drama name retire";
+var mnemonic = "verb deer smile deal craft permit ivory horse wreck ship wrap book";

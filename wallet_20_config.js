@@ -1,1 +1,1 @@
-var mnemonic = "dilemma napkin patrol horse can flip ketchup foot gorilla depend fly device";
+var mnemonic = "model hundred genius oil cradle guilt salute patient pear stuff window forward";

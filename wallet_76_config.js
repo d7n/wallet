@@ -1,1 +1,1 @@
-var mnemonic = "time swing mutual clinic curtain stage express kiwi leave acid apart frown";
+var mnemonic = "drift occur evidence tomato egg pigeon worth image fit divert bless later";

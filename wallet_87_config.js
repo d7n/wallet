@@ -1,1 +1,1 @@
-var mnemonic = "card you bid sustain visit pass exhibit imitate cycle patient race recipe";
+var mnemonic = "message forget sketch right twelve price library approve rhythm arch major manual";

@@ -1,1 +1,1 @@
-var mnemonic = "arrange search foam ten vacuum wheat hour worth harvest local alone logic";
+var mnemonic = "oyster alone normal nephew puzzle direct coyote kid amount sail human north";

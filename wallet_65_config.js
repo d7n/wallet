@@ -1,1 +1,1 @@
-var mnemonic = "ceiling liar video solution very laugh original sing donate nose adapt impact";
+var mnemonic = "ball enjoy dilemma around argue ball scan grit already clown wealth panic";

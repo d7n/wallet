@@ -1,1 +1,1 @@
-var mnemonic = "hover capable duty muscle chicken gap notable brand inhale sunny donor rather";
+var mnemonic = "fabric knife urban payment cube century tank like park snow divide mail";

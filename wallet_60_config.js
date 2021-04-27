@@ -1,1 +1,1 @@
-var mnemonic = "ankle junk radar inflict morning grape accident amused motion alley above reject";
+var mnemonic = "actual orient tissue clinic party chief swap near sunset draw bamboo force";

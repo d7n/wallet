@@ -1,1 +1,1 @@
-var mnemonic = "code million unfold armor orange gloom dry limb quit share coast find";
+var mnemonic = "gesture direct into example initial marble october join wreck slice guess eye";

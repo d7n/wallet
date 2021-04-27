@@ -1,1 +1,1 @@
-var mnemonic = "eternal mutual nerve elegant fault inherit again sheriff ticket attend ocean frozen";
+var mnemonic = "ridge tip version summer peasant cloud envelope admit average history gift hand";

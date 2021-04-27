@@ -1,1 +1,1 @@
-var mnemonic = "enroll wealth parent cross neutral industry expose crop range dance clarify shield";
+var mnemonic = "protect tank enforce fashion theory month friend isolate bargain day help frown";

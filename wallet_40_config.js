@@ -1,1 +1,1 @@
-var mnemonic = "thank daughter arrest physical false found this soft wolf genre initial another";
+var mnemonic = "wet meat sniff keen tongue course traffic shrimp envelope crater trophy eager";

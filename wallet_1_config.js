@@ -1,1 +1,1 @@
-var mnemonic = "neither vacuum equal palm local divorce habit head country choice rely neither";
+var mnemonic = "model square bracket dog hidden deer crack riot start pepper vessel gate";

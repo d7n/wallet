@@ -1,1 +1,1 @@
-var mnemonic = "grape tool peasant sunset mind relax same picnic oil capital season humor";
+var mnemonic = "absent nice warfare unknown ill pulp trap melody antenna million twice matrix";

@@ -1,1 +1,1 @@
-var mnemonic = "paper sauce owner jelly ribbon gorilla script bubble outer crumble guitar uniform";
+var mnemonic = "dove seed chat brisk tobacco gossip pass chef country keep salmon famous";

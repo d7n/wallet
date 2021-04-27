@@ -1,1 +1,1 @@
-var mnemonic = "flip note summer fine monitor manual ocean hire spray improve trap clever";
+var mnemonic = "damp sense solve march stable sight truth donkey buyer around diagram ring";

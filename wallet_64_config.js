@@ -1,1 +1,1 @@
-var mnemonic = "bring faculty fame health ready height energy fire ladder dress double carpet";
+var mnemonic = "install reopen eye tumble shed zoo feel tortoise tag beauty patch pill";

@@ -1,1 +1,1 @@
-var mnemonic = "become connect chapter crunch frost rely plug skill oblige cart elbow require";
+var mnemonic = "resource arch front excite where myself general parrot phrase stable heart famous";

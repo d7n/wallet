@@ -1,1 +1,1 @@
-var mnemonic = "spot wonder narrow excite peasant escape scrub divide party scan oval rapid";
+var mnemonic = "can track retire park right injury system giraffe noise guard spot choice";

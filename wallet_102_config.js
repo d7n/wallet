@@ -1,1 +1,1 @@
-var mnemonic = "tragic episode canyon autumn fun inherit echo vital coconut accident pluck arctic";
+var mnemonic = "modify subject plunge barrel barely lucky path cereal diamond stumble hurry august";

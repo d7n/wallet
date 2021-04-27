@@ -1,1 +1,1 @@
-var mnemonic = "hello economy steak ten tackle rough dash coach pear list rude tiger";
+var mnemonic = "velvet olive snack clump mirror extra salad reject toilet fury advice cattle";

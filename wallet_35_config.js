@@ -1,1 +1,1 @@
-var mnemonic = "seat sniff into enforce sea duck marriage layer stand scout speed blood";
+var mnemonic = "spread obtain hour wine federal wedding police lucky forget swear raccoon cry";

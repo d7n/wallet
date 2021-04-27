@@ -1,1 +1,1 @@
-var mnemonic = "shell beef cabbage plug giant senior mention crumble march region vintage aware";
+var mnemonic = "junk best test immune actor cool work edge picture into gravity caught";

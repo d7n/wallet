@@ -1,1 +1,1 @@
-var mnemonic = "behind deliver people vessel emerge spare save churn corn barely place giraffe";
+var mnemonic = "verify remember marriage ladder buffalo idle glance artefact giggle weird shuffle owner";

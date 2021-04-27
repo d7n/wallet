@@ -1,1 +1,1 @@
-var mnemonic = "plastic rail illness swift economy call thunder drift maze lend reduce basic";
+var mnemonic = "pave prison assault viable earn path card actress hero genre super deliver";

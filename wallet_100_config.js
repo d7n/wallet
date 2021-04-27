@@ -1,1 +1,1 @@
-var mnemonic = "escape cycle hire length utility rebuild essence limb limb obscure embrace sorry";
+var mnemonic = "artefact exit north suggest bounce dash market olympic select month quality cloth";

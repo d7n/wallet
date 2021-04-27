@@ -1,1 +1,1 @@
-var mnemonic = "swing benefit tired mammal assume grow frog eyebrow service water claim pupil";
+var mnemonic = "milk pull parrot slender scheme force monster stumble elite funny when perfect";

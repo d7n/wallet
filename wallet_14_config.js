@@ -1,1 +1,1 @@
-var mnemonic = "apple fossil day cook enough post merit review voice fall alcohol exhibit";
+var mnemonic = "volume divorce chief crowd clump together clap runway grace holiday route deer";

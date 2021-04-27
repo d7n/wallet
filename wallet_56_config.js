@@ -1,1 +1,1 @@
-var mnemonic = "cargo actor unique offer unfold improve idle panda stable upon wasp upon";
+var mnemonic = "debate orchard bitter eager return boring oval earth abandon library screen ripple";

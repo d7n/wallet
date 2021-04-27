@@ -1,1 +1,1 @@
-var mnemonic = "cram motor soul glow quarter obscure team stage defense cabbage shop gown";
+var mnemonic = "slide object easily present cement animal answer focus arena matrix cluster gloom";

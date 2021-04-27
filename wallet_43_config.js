@@ -1,1 +1,1 @@
-var mnemonic = "west token gaze man cattle syrup half minor list unfair comic intact";
+var mnemonic = "move news fence outdoor mom name again little baby scan cruise print";

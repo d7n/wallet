@@ -1,1 +1,1 @@
-var mnemonic = "creek paddle snap wash slot purchase zone live rail eye film tiger";
+var mnemonic = "glare north six six try law bracket riot sibling roast satisfy praise";

@@ -1,1 +1,1 @@
-var mnemonic = "prison poverty kitchen trade summer label know rebuild social bottom fat truly";
+var mnemonic = "domain claim level stable ten call fruit basic piece maple cry flavor";

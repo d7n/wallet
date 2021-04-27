@@ -1,1 +1,1 @@
-var mnemonic = "chunk planet hill erosion update hammer trim speed refuse bus shuffle bottom";
+var mnemonic = "know dream dolphin latin prize sock exotic double boy viable thumb february";

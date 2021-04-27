@@ -1,1 +1,1 @@
-var mnemonic = "teach clean peace wrestle indicate kingdom mistake model receive cradle grief area";
+var mnemonic = "enhance upper flat jelly ball unveil milk powder entry civil sketch actor";

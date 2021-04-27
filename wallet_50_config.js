@@ -1,1 +1,1 @@
-var mnemonic = "oxygen olympic oven goose correct fabric tumble wrist sea lounge pencil try";
+var mnemonic = "furnace gold shrug vacuum chat reform two enroll dinner slush sniff minimum";

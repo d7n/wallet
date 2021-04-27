@@ -1,1 +1,1 @@
-var mnemonic = "wagon outside history grape ability range orchard laundry script bacon veteran hidden";
+var mnemonic = "survey vast bench shaft link today steel arch danger festival pledge open";

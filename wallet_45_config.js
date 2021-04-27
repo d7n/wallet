@@ -1,1 +1,1 @@
-var mnemonic = "orphan nasty hidden near juice produce script oppose hint zone turtle collect";
+var mnemonic = "seminar mixed squirrel unit clown tooth bright ability nurse dawn chest beach";

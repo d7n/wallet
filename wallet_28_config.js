@@ -1,1 +1,1 @@
-var mnemonic = "hub marriage clap mandate ten fire project flower pitch pass mammal timber";
+var mnemonic = "joke unique pretty balcony during flush burger repair divorce cotton clutch gorilla";

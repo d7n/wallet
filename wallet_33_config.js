@@ -1,1 +1,1 @@
-var mnemonic = "zero improve siren million property scene can possible agree tourist sustain length";
+var mnemonic = "garage chimney invite input curious legend finish snake jar outdoor come antenna";

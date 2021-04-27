@@ -1,1 +1,1 @@
-var mnemonic = "dish idle lottery measure endless boost increase improve trophy despair history diagram";
+var mnemonic = "train around december orient term aspect father school odor chief expire pact";

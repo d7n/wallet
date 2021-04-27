@@ -1,1 +1,1 @@
-var mnemonic = "glove render scene casual giant swift pudding flee two cabbage kite slow";
+var mnemonic = "crush theme amazing client mirror endless cram glance next tissue sugar opera";

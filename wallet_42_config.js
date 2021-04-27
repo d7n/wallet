@@ -1,1 +1,1 @@
-var mnemonic = "hurdle bike angle under divert female orchard buyer dirt check board rubber";
+var mnemonic = "leave bicycle already brand window mushroom august remember world pulse dove welcome";

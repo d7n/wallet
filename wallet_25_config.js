@@ -1,1 +1,1 @@
-var mnemonic = "strong brain estate multiply uncover rule lunch example risk define annual strong";
+var mnemonic = "gaze undo arrange round cluster water budget fade sting carpet nest wreck";

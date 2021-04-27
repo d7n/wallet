@@ -1,1 +1,1 @@
-var mnemonic = "key tiny frequent jelly canvas wife sense circle output tank general firm";
+var mnemonic = "polar test moon oyster spring scout high edit parent pulse hour guide";

@@ -1,1 +1,1 @@
-var mnemonic = "repair typical course whisper cabin latin know clean view because stem will";
+var mnemonic = "cloud clerk alley endorse palm olympic catch fiber bubble away garment enlist";

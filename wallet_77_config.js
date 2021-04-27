@@ -1,1 +1,1 @@
-var mnemonic = "service twist keen blood scale undo term thing scrub brush bracket clog";
+var mnemonic = "brief thank myth pudding surge insect awesome useful link video worry mushroom";

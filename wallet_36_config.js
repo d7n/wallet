@@ -1,1 +1,1 @@
-var mnemonic = "enemy prefer song engage funny decline call lion poverty whip test cheap";
+var mnemonic = "wrong gentle sea physical angry favorite limb essay pelican sudden elite dynamic";

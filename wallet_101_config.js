@@ -1,1 +1,1 @@
-var mnemonic = "prize company dirt daring also twelve improve asthma woman unfair virus accident";
+var mnemonic = "lava neck usage donkey honey boost joke author dream illness ethics obtain";

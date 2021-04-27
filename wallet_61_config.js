@@ -1,1 +1,1 @@
-var mnemonic = "minor hospital notice aerobic yellow wonder between census venue coconut boat human";
+var mnemonic = "sick snow vocal image combine satisfy uncle field people draft deliver rigid";

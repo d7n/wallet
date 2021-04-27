@@ -1,1 +1,1 @@
-var mnemonic = "rescue toy reunion output song upper march panic baby response someone course";
+var mnemonic = "tribe dentist property lounge conduct game exchange all pole chicken mad box";

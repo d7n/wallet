@@ -1,1 +1,1 @@
-var mnemonic = "hidden target donate best van resource discover pyramid trumpet exhibit clean cover";
+var mnemonic = "kite warm exhaust clown legend coral lunch total cloth valley pipe foster";

@@ -1,1 +1,1 @@
-var mnemonic = "universe stairs myself accident reject weekend border grab seat tone oppose yard";
+var mnemonic = "taste screen client pepper tenant sketch case seat number trust peasant strong";
