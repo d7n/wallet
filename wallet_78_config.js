@@ -1,1 +1,1 @@
-var mnemonic = "pass slow ride scrub drip address orbit soccer fuel day vicious man";
+var mnemonic = "radar fox pulp escape subway either notable theme tonight exhaust sugar member";

@@ -1,1 +1,1 @@
-var mnemonic = "address ship initial garden remove tool deposit collect toe brief obey enact";
+var mnemonic = "amateur remain vicious aspect enemy cover hurdle soap amused trim edit minimum";

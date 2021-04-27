@@ -1,1 +1,1 @@
-var mnemonic = "blanket team armor chat chicken fine mobile note company junior above output";
+var mnemonic = "worth ketchup ring section floor assault grow task correct grief pyramid guess";

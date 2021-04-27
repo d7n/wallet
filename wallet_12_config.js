@@ -1,1 +1,1 @@
-var mnemonic = "loud agree ostrich fresh pole sponsor discover delay float double bachelor early";
+var mnemonic = "option loop grab settle mom hen good quarter tower reason bleak decade";

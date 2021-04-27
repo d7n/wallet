@@ -1,1 +1,1 @@
-var mnemonic = "often village oblige trust make scan light fold thank museum memory dose";
+var mnemonic = "certain tissue bread foam must pear race artefact ritual riot alpha nothing";

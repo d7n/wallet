@@ -1,1 +1,1 @@
-var mnemonic = "decide print visit inflict multiply divert prize diagram shallow uphold choose antenna";
+var mnemonic = "pledge one inject grain about shoe catalog bike escape valve seed truly";

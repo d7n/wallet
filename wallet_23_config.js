@@ -1,1 +1,1 @@
-var mnemonic = "song clip force stand mix frozen snap slab glimpse trade joke gym";
+var mnemonic = "effort wise shuffle liar escape coast still board tent dog column ribbon";

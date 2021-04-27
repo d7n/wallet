@@ -1,1 +1,1 @@
-var mnemonic = "garment buyer void unique stage peasant spider unaware sorry action cheap crawl";
+var mnemonic = "large clerk rely absorb hurt organ alarm car item wonder hello dust";

@@ -1,1 +1,1 @@
-var mnemonic = "crime original west scheme elephant dog snake air october planet cattle insane";
+var mnemonic = "vapor vote gown milk tape symptom under wreck inform clip salt convince";

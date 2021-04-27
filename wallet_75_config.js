@@ -1,1 +1,1 @@
-var mnemonic = "rally cradle minute load refuse captain fancy swift resemble few there crack";
+var mnemonic = "cause apart coconut course brown lyrics garden clerk kingdom amount luggage robust";

@@ -1,1 +1,1 @@
-var mnemonic = "rigid dirt raccoon ill warm life ghost cost music wash glare carry";
+var mnemonic = "push kiss rich grain chunk slogan hello harbor admit hope inch grant";

@@ -1,1 +1,1 @@
-var mnemonic = "climb distance marble embark edge armor quantum almost bottom cement issue bridge";
+var mnemonic = "stick eagle decade raccoon adult laugh oil radar elephant industry hill shield";

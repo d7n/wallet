@@ -1,1 +1,1 @@
-var mnemonic = "dose minute million interest fall onion nephew rival orbit major carbon race";
+var mnemonic = "burger impose sniff monkey purse panda million youth river tail deal march";

@@ -1,1 +1,1 @@
-var mnemonic = "clog turn easy genuine random trick decide young high rain magnet kidney";
+var mnemonic = "lunar medal image castle can dish huge puzzle void tower arctic symptom";

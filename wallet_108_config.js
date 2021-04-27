@@ -1,1 +1,1 @@
-var mnemonic = "pig blush reject between review antenna make guard comic hammer energy diesel";
+var mnemonic = "genre aspect enrich load fluid call alcohol tide fade govern abuse advance";

@@ -1,1 +1,1 @@
-var mnemonic = "notice end result first finish deputy silver ability bacon same disagree toy";
+var mnemonic = "metal judge humor month purchase diagram enroll barrel twin little convince rally";

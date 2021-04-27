@@ -1,1 +1,1 @@
-var mnemonic = "issue truly travel leaf left expand original vivid rabbit place detail chimney";
+var mnemonic = "dwarf zoo fade second safe vendor job awful mushroom bamboo metal path";

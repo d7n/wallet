@@ -1,1 +1,1 @@
-var mnemonic = "stem culture cushion trip wagon virus casino lamp slab sell subject daughter";
+var mnemonic = "fan basket rail floor garlic retreat camp turn rhythm hire tunnel sign";

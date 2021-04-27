@@ -1,1 +1,1 @@
-var mnemonic = "drill size rose east normal until stereo attend hint price shrimp rare";
+var mnemonic = "sick fuel excess use nominee spring twist window afraid stone egg bird";

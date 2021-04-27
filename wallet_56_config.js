@@ -1,1 +1,1 @@
-var mnemonic = "enforce inch elegant ask deny cradle symptom pigeon fossil able will firm";
+var mnemonic = "chicken range liberty apple dad insect genius napkin arrow sport arrow success";

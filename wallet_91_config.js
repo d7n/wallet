@@ -1,1 +1,1 @@
-var mnemonic = "tube more sentence lesson promote rib squeeze naive ugly horror taxi chaos";
+var mnemonic = "spatial release pottery canal bike consider dry loop gauge hobby panther thought";

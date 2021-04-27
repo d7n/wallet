@@ -1,1 +1,1 @@
-var mnemonic = "trip edit grid blind jelly burst exile exhibit explain conduct powder hip";
+var mnemonic = "option monitor absurd estate accident stamp palm dry feature rival scrub giggle";

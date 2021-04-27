@@ -1,1 +1,1 @@
-var mnemonic = "era brown piece away similar broccoli later artefact denial typical slim parrot";
+var mnemonic = "waste defy similar bacon wink noodle impose business focus poverty example half";

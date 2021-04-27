@@ -1,1 +1,1 @@
-var mnemonic = "model twin leisure error salute then lounge soft tray cargo debris clog";
+var mnemonic = "tuna soup rare spray unit exile tornado large prison air legal draft";

@@ -1,1 +1,1 @@
-var mnemonic = "jacket crucial season captain broom refuse clean collect horse coast bundle awesome";
+var mnemonic = "identify arrest miracle okay awesome pioneer devote exact wing rib journey home";

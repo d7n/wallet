@@ -1,1 +1,1 @@
-var mnemonic = "celery task banana craft truly boring source umbrella soda jewel then fire";
+var mnemonic = "reward enlist shy sight patient jelly filter oppose husband apology motor abandon";

@@ -1,1 +1,1 @@
-var mnemonic = "carry section labor evil state egg quantum assault cabin boring wealth vintage";
+var mnemonic = "cousin relief unknown palm relax swim pulse excess cart depend fruit outside";

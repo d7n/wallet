@@ -1,1 +1,1 @@
-var mnemonic = "peasant paper urge stay tent smile wave code guitar install dial fabric";
+var mnemonic = "dumb doll idle push ketchup hazard famous manage surface cause whip vital";

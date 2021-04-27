@@ -1,1 +1,1 @@
-var mnemonic = "odor address peasant divert lucky small rail icon middle spy pioneer member";
+var mnemonic = "similar topic nation test early ugly noise lazy festival quarter mule brown";

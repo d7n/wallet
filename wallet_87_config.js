@@ -1,1 +1,1 @@
-var mnemonic = "crew loyal test group enable dune enact zone private embark cake raccoon";
+var mnemonic = "wet drive miracle name apart purse dust stumble girl divert input fancy";

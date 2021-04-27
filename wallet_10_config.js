@@ -1,1 +1,1 @@
-var mnemonic = "guitar rice tunnel between unveil enemy apology kick beauty melt below boy";
+var mnemonic = "liar rule visa diamond before hawk odor oppose reduce surprise motion alpha";

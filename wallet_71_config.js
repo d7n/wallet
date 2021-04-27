@@ -1,1 +1,1 @@
-var mnemonic = "stage road grace limit media load blouse cross embody crucial good short";
+var mnemonic = "body barrel gravity state hen during hold alone fiction belt entry gun";

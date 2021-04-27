@@ -1,1 +1,1 @@
-var mnemonic = "guess certain file piece bulb neck absorb snack because drama stumble puppy";
+var mnemonic = "deputy lab express educate usual embrace paddle jungle retreat filter race rule";

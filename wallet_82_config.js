@@ -1,1 +1,1 @@
-var mnemonic = "must hero bomb must orient crisp quit cattle mistake game kit hybrid";
+var mnemonic = "feature autumn confirm wage few perfect pill little market decorate gorilla jazz";

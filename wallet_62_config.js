@@ -1,1 +1,1 @@
-var mnemonic = "rib ketchup claim raise cheese estate someone congress puzzle eyebrow easily tip";
+var mnemonic = "object nurse sail group draft drip armor believe must defy decorate liberty";

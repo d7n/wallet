@@ -1,1 +1,1 @@
-var mnemonic = "start tent filter other load evidence fence sock hard wild payment liquid";
+var mnemonic = "typical local right gravity vacant notice trumpet year team card torch circle";

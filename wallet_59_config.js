@@ -1,1 +1,1 @@
-var mnemonic = "shadow adjust blossom episode combine noble skill rebel valid decrease core neutral";
+var mnemonic = "you farm wrist rent anxiety yard ordinary elite client rescue that axis";

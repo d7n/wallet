@@ -1,1 +1,1 @@
-var mnemonic = "first defense cat repeat nation eyebrow taste movie language awake coyote agree";
+var mnemonic = "vendor intact know salt fan album amused today witness once current fame";

@@ -1,1 +1,1 @@
-var mnemonic = "job syrup then receive sample found face tumble require lawn jaguar board";
+var mnemonic = "note exhaust brown turkey ghost exercise lawsuit beach note cushion gun juice";

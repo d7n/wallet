@@ -1,1 +1,1 @@
-var mnemonic = "speed glimpse grass tornado crush fade primary tortoise leaf tiger oyster top";
+var mnemonic = "chair truth motion spatial merit blind report shift purity toe such change";

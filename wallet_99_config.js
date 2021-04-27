@@ -1,1 +1,1 @@
-var mnemonic = "essay solve rough physical check comic history have either sorry skin bid";
+var mnemonic = "length tomato loop retreat chief tired insane hollow fly old attend travel";

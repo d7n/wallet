@@ -1,1 +1,1 @@
-var mnemonic = "tackle youth start venture dizzy yard office stadium cheap dust huge loan";
+var mnemonic = "exact layer avocado elevator camera response shell tower diary impose stomach blouse";

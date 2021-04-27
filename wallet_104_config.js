@@ -1,1 +1,1 @@
-var mnemonic = "version occur diesel disease entire where health then life depend response over";
+var mnemonic = "jealous ugly humor ring tribe video wonder general split dizzy general skin";

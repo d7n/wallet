@@ -1,1 +1,1 @@
-var mnemonic = "ten thank era youth speed velvet mercy pig comic priority sorry clever";
+var mnemonic = "coyote arm taxi exercise unusual evil parrot neutral bicycle unknown feature abuse";

@@ -1,1 +1,1 @@
-var mnemonic = "defy large inch tobacco hurdle regret civil dismiss afford frost puppy canoe";
+var mnemonic = "angle depth return enlist fence pipe rebel tell flush cricket interest duck";

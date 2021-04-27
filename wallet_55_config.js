@@ -1,1 +1,1 @@
-var mnemonic = "spread vocal fix slight donkey dice steak lobster render family fruit afraid";
+var mnemonic = "moral mouse foster unique junk repair casual effort valid pulse sugar shrug";

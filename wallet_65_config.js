@@ -1,1 +1,1 @@
-var mnemonic = "pluck earn bullet moon bind gas garment hawk ostrich confirm soft sadness";
+var mnemonic = "foster small provide harbor gym thunder knee remember tiger special protect pact";

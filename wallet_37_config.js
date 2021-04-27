@@ -1,1 +1,1 @@
-var mnemonic = "token regret dance lecture excuse erode subway girl space state muscle more";
+var mnemonic = "away bright error recipe service innocent genius flush fantasy smoke sword impact";

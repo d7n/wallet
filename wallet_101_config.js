@@ -1,1 +1,1 @@
-var mnemonic = "link flame yard verb word gorilla sad diesel that brick exhibit steel";
+var mnemonic = "bulk drift hawk dice ignore license step barrel whisper fee hungry fabric";

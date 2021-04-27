@@ -1,1 +1,1 @@
-var mnemonic = "copper pledge thing vanish express risk forum impulse finish wrist put holiday";
+var mnemonic = "future wrestle shoulder stool share say deputy midnight awesome enjoy deer device";

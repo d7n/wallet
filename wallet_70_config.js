@@ -1,1 +1,1 @@
-var mnemonic = "alarm wish royal quarter jeans emerge opinion poem asthma rabbit honey alter";
+var mnemonic = "traffic guilt library view upper reveal peanut dress brisk ship vendor supreme";

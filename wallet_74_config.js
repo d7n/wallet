@@ -1,1 +1,1 @@
-var mnemonic = "trouble outdoor leopard humble unit frequent zoo real text trick puzzle mobile";
+var mnemonic = "engine beyond dinosaur sign cancel object such brush slam south tag pitch";

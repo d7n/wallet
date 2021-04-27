@@ -1,1 +1,1 @@
-var mnemonic = "coach horn summer move ribbon tackle elevator agree syrup toddler pact over";
+var mnemonic = "tissue today rival basic bag throw desk mask blanket episode level tribe";

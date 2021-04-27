@@ -1,1 +1,1 @@
-var mnemonic = "abuse minute this save govern pledge slush scatter illness skin buddy coast";
+var mnemonic = "ketchup month apple faint eagle west yard mercy struggle civil indoor sting";

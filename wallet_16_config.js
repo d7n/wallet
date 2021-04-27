@@ -1,1 +1,1 @@
-var mnemonic = "fit toss faint swap scene live minor icon observe chronic near cave";
+var mnemonic = "donor swap flip already earth duty dove meadow quit analyst eye dog";

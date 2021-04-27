@@ -1,1 +1,1 @@
-var mnemonic = "enhance edge portion tackle detect soldier slender long foil elephant pyramid blossom";
+var mnemonic = "ability million bonus scare choose vast pen cage vacant marine file display";

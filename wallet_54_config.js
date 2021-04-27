@@ -1,1 +1,1 @@
-var mnemonic = "twenty dune crater grab skill bridge alien melody fee angry soon expand";
+var mnemonic = "hammer nasty viable year topple during luggage taste nominee about mouse agent";

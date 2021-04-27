@@ -1,1 +1,1 @@
-var mnemonic = "reject edge eyebrow sock barely kidney reduce chair example desk direct divert";
+var mnemonic = "carpet fruit exhaust dog fresh bag blue utility receive wash coach final";

@@ -1,1 +1,1 @@
-var mnemonic = "marine answer include pool noodle valley copper flight shop glide turkey net";
+var mnemonic = "noise sphere faculty trial review shine team slow autumn false wet train";

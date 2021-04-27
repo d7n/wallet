@@ -1,1 +1,1 @@
-var mnemonic = "ranch leisure once pelican brand mass finger rally trend rib curve wish";
+var mnemonic = "during puppy pigeon stuff quote tone rain train oblige three repair pyramid";

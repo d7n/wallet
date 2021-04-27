@@ -1,1 +1,1 @@
-var mnemonic = "camp cloud aware stick cat version panel differ blouse alcohol melody funny";
+var mnemonic = "dumb diamond wealth curtain purpose review brick bunker play card economy sorry";

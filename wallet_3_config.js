@@ -1,1 +1,1 @@
-var mnemonic = "smoke robot room library lobster calm kidney staff trumpet endless trigger search";
+var mnemonic = "soda animal merit menu solar category color venue piano second gloom journey";

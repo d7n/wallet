@@ -1,1 +1,1 @@
-var mnemonic = "digital legal twelve hold latin oil fly dust verify grab hedgehog range";
+var mnemonic = "clay great myself spell use approve become absurd favorite attitude vicious cook";

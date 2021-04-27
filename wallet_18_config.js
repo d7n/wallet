@@ -1,1 +1,1 @@
-var mnemonic = "whale dream whale bronze river erase city shadow wet alone scan manual";
+var mnemonic = "kiss topple list gym patrol ship stock faculty upon soul rocket produce";

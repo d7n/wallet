@@ -1,1 +1,1 @@
-var mnemonic = "pony kick empower oyster viable paper climb room dilemma fence wedding monkey";
+var mnemonic = "nose tree pipe humor odor poem jelly siege voyage mansion fade task";

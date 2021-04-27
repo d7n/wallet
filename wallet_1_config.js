@@ -1,1 +1,1 @@
-var mnemonic = "guard brother carpet broccoli hundred theme party second copy sight deposit click";
+var mnemonic = "tone build scene loop forward viable anger biology mirror marble whisper inquiry";

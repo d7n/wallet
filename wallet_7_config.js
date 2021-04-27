@@ -1,1 +1,1 @@
-var mnemonic = "champion hat token mom live limit motor peace wish question doll mechanic";
+var mnemonic = "slow awake column galaxy unhappy tonight food outdoor income consider disagree unusual";

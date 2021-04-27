@@ -1,1 +1,1 @@
-var mnemonic = "dutch actress chapter ask meat spider toddler name fancy borrow correct tape";
+var mnemonic = "apart audit verb pepper permit weasel shoulder drama talent candy youth person";

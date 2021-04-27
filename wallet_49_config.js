@@ -1,1 +1,1 @@
-var mnemonic = "assist celery youth life anger traffic raccoon naive plug file grow sleep";
+var mnemonic = "timber neither small peasant supply inform any social fuel blind decide owner";

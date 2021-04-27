@@ -1,1 +1,1 @@
-var mnemonic = "physical choose bachelor truly custom want april hundred ceiling layer profit unlock";
+var mnemonic = "coffee pen heart narrow rookie group shield rack pizza tissue amused scene";

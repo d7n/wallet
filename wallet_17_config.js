@@ -1,1 +1,1 @@
-var mnemonic = "ship case pulp athlete hood pitch project hen floor acid blast minimum";
+var mnemonic = "much dish smile hundred pudding review method evolve ugly twenty end wrestle";

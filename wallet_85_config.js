@@ -1,1 +1,1 @@
-var mnemonic = "hungry fever catalog mouse flag ability spring loyal dynamic trigger fiber either";
+var mnemonic = "chalk sustain gorilla vicious toy ethics hour divide flee imitate hurt library";

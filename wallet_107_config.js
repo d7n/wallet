@@ -1,1 +1,1 @@
-var mnemonic = "question pull foam liquid sting awkward mask protect price work next drink";
+var mnemonic = "buffalo sail client museum angle answer ceiling print rival party uniform digital";

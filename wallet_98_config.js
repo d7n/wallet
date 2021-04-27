@@ -1,1 +1,1 @@
-var mnemonic = "ability exercise miracle depart bulb sort fox fringe payment ice tape choice";
+var mnemonic = "future six maid submit snake bulb asthma science first chuckle chaos uncle";

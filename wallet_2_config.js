@@ -1,1 +1,1 @@
-var mnemonic = "mutual point mistake phrase bread cup sustain lab shuffle school improve theme";
+var mnemonic = "differ axis phone tribe farm wool ill hole busy elbow cable social";

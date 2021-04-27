@@ -1,1 +1,1 @@
-var mnemonic = "absurd rare mixed exchange girl describe material power kid cabbage crumble ramp";
+var mnemonic = "trust analyst hard vessel artist spider maple allow truly much devote surround";

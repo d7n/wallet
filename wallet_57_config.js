@@ -1,1 +1,1 @@
-var mnemonic = "assault busy congress connect loop income strategy step need south that alien";
+var mnemonic = "fire below accuse lottery cost bridge ethics face woman survey wet burst";

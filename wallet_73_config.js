@@ -1,1 +1,1 @@
-var mnemonic = "stumble gossip kite vivid mobile moment hurry outdoor enact divorce wear parrot";
+var mnemonic = "swing jeans table mention double meadow six coffee shy suffer genius evil";

@@ -1,1 +1,1 @@
-var mnemonic = "aware used remind again foil token setup chief grid crew update shuffle";
+var mnemonic = "collect tip disease gap panel mad sniff erupt year magnet basket audit";

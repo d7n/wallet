@@ -1,1 +1,1 @@
-var mnemonic = "base battle scissors horn salon pulp lounge advice tip cart forward idea";
+var mnemonic = "helmet please section random trick oblige pair dust again december proof mountain";

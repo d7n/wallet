@@ -1,1 +1,1 @@
-var mnemonic = "impulse wild owner high reflect soup celery transfer marine jeans tiger risk";
+var mnemonic = "solid crush tube fiction clever unknown apology sock sun myself method journey";

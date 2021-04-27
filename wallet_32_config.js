@@ -1,1 +1,1 @@
-var mnemonic = "misery fold vacant ensure else obvious bread sound furnace exercise appear message";
+var mnemonic = "wet thing write purity slam eager dice hundred another another better crop";

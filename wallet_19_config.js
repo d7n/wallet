@@ -1,1 +1,1 @@
-var mnemonic = "bracket year muscle catalog essay pink section crane shed can royal allow";
+var mnemonic = "senior arctic ankle doctor width curtain kite eagle shadow feature pumpkin athlete";

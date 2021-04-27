@@ -1,1 +1,1 @@
-var mnemonic = "bridge connect cloth opinion motor level noise document small legend ahead library";
+var mnemonic = "orbit reveal victory soul attack lock lift beyond honey off surprise spoon";

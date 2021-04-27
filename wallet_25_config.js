@@ -1,1 +1,1 @@
-var mnemonic = "hollow neutral olympic purchase window way tourist claw whip attack near first";
+var mnemonic = "once hidden rule claw stove awkward rich vapor wrist axis magnet jaguar";

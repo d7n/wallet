@@ -1,1 +1,1 @@
-var mnemonic = "yard cage gym rule flush army away number upgrade enter vivid bag";
+var mnemonic = "social title brick tragic crime luggage earn skin relief cloud relax athlete";

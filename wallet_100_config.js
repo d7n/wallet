@@ -1,1 +1,1 @@
-var mnemonic = "bottom snow hidden super dog bachelor vague demise umbrella undo misery fragile";
+var mnemonic = "claw unit october december hire early tornado calm foam donkey trigger crack";

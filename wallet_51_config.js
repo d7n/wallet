@@ -1,1 +1,1 @@
-var mnemonic = "omit firm fix enjoy afford message rain spatial eternal dream result submit";
+var mnemonic = "salute swing detail siren agree vibrant scatter into all sauce gun bullet";

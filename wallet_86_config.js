@@ -1,1 +1,1 @@
-var mnemonic = "toast ahead chair movie inject upgrade ribbon return antenna february seat grape";
+var mnemonic = "muscle select achieve draft wheat fire bullet glide total fame great soup";

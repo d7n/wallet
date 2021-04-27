@@ -1,1 +1,1 @@
-var mnemonic = "indicate orange throw age document ball body armor river egg monkey deputy";
+var mnemonic = "session juice border skill cost rice property acid climb protect loan lock";

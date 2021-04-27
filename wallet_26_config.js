@@ -1,1 +1,1 @@
-var mnemonic = "slender wagon best depart tomorrow venue online fabric snake govern barely three";
+var mnemonic = "focus kit rude pretty question quiz glance phrase basic feature table green";

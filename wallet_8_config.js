@@ -1,1 +1,1 @@
-var mnemonic = "estate elegant giggle push myself cabin summer analyst doll embark flower pull";
+var mnemonic = "glory stomach flavor tube resemble earth horror snake fitness grow behave angle";

@@ -1,1 +1,1 @@
-var mnemonic = "admit fatigue victory shift huge notable arm shell loan divorce gold wage";
+var mnemonic = "give spy because wolf emerge portion coral tackle select key radio subway";
