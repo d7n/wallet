@@ -1,1 +1,1 @@
-var mnemonic = "couple young typical cliff betray dinosaur dog wealth burger evidence quote merit";
+var mnemonic = "route civil fence deposit ripple seed jacket express weasel leopard jewel any";

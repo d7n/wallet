@@ -1,1 +1,1 @@
-var mnemonic = "screen perfect acoustic brand scissors sense fat doctor crisp raccoon voyage skate";
+var mnemonic = "vendor transfer guard frown group pride bonus asthma equal example mirror grocery";

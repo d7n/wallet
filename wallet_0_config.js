@@ -1,1 +1,1 @@
-var mnemonic = "correct guard grief orphan guard come remind disease tank stamp tumble laugh";
+var mnemonic = "orient wing vanish discover awkward foil fuel farm wife step bounce bag";

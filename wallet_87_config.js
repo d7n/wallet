@@ -1,1 +1,1 @@
-var mnemonic = "scale memory raw sick impact drama basket green rigid term mobile always";
+var mnemonic = "reward settle region squeeze kick tourist buyer logic symptom garden develop shoe";

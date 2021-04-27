@@ -1,1 +1,1 @@
-var mnemonic = "reject hover work dial wrist ostrich seminar rely pill prison keep arch";
+var mnemonic = "sense fresh pony echo light whale decide delay door panda oxygen okay";

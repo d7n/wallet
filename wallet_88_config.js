@@ -1,1 +1,1 @@
-var mnemonic = "guard regular price mimic arch share sand spawn viable crane inmate oblige";
+var mnemonic = "donkey cliff rebuild attend bullet debate economy bullet degree have rate split";

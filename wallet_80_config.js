@@ -1,1 +1,1 @@
-var mnemonic = "survey cash camera champion cheap point output notable tattoo maze sea scene";
+var mnemonic = "crisp check coconut physical sign cup staff carry food timber swear luggage";

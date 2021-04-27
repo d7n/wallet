@@ -1,1 +1,1 @@
-var mnemonic = "real usage awake crack taxi fancy inform eyebrow vanish human match bag";
+var mnemonic = "shallow orbit appear siren dolphin clinic ship road blouse subject spring trumpet";

@@ -1,1 +1,1 @@
-var mnemonic = "vapor milk sad trap fault crunch hundred ramp escape empower arch calm";
+var mnemonic = "pizza color cushion meadow defy flame audit reason ask diamond surprise meat";

@@ -1,1 +1,1 @@
-var mnemonic = "pilot pole useful involve modify jungle trial section faint city consider tackle";
+var mnemonic = "upper remind hidden letter turn wall tent cake domain end wine flock";

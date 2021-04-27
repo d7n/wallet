@@ -1,1 +1,1 @@
-var mnemonic = "quote keen divorce little gossip cake uncover cruise wear broom echo slice";
+var mnemonic = "zone model change gym fence model magnet leave cherry worth capable abstract";

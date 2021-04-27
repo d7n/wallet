@@ -1,1 +1,1 @@
-var mnemonic = "fetch salon clever funny miss paper jazz fetch slot average sponsor orange";
+var mnemonic = "tip member kangaroo please drip version twist siren sleep grit industry object";

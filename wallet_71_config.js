@@ -1,1 +1,1 @@
-var mnemonic = "tide decorate false issue survey guilt deliver same pupil candy race nurse";
+var mnemonic = "thought moon coast soft file march album drill pudding goose impose ticket";

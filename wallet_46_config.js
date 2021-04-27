@@ -1,1 +1,1 @@
-var mnemonic = "drift decline profit summer miracle slush correct unable image brave crowd way";
+var mnemonic = "turtle glass already antenna vacuum nest write dutch outside frown split gas";

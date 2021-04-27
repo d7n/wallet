@@ -1,1 +1,1 @@
-var mnemonic = "cute sense room april receive road shoot mouse you divide smoke town";
+var mnemonic = "response riot raven undo target ritual curious cinnamon pledge federal radio screen";

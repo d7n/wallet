@@ -1,1 +1,1 @@
-var mnemonic = "crew design avoid mercy damp useless horror spawn liar soda drip scare";
+var mnemonic = "diagram leisure weasel zoo bag disagree old radar analyst fall inch cart";

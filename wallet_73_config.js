@@ -1,1 +1,1 @@
-var mnemonic = "pretty cross legend sing open message organ identify excess grass cat salad";
+var mnemonic = "alcohol sudden satoshi pony poet machine grit spoil tonight tuition pluck evolve";

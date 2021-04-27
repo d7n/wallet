@@ -1,1 +1,1 @@
-var mnemonic = "cradle pull process december soup strategy energy grief fiscal april clinic coconut";
+var mnemonic = "impose sausage question stadium demand arm behave nurse route bread hammer angry";

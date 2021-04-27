@@ -1,1 +1,1 @@
-var mnemonic = "dizzy super kid cup tackle conduct mask shoe outer high soon garlic";
+var mnemonic = "dragon evidence denial entry cart clutch exile apple category logic success title";

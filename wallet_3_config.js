@@ -1,1 +1,1 @@
-var mnemonic = "clump ride lion leg easy patient mad creek reject learn shield burst";
+var mnemonic = "wrong arena tired wrestle dance inherit point lazy dog wrong stuff tomorrow";

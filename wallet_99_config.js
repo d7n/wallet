@@ -1,1 +1,1 @@
-var mnemonic = "busy scout dwarf super sock random cute cactus jar control what melt";
+var mnemonic = "awful skate during evidence naive estate illegal buddy call acid glide also";

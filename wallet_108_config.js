@@ -1,1 +1,1 @@
-var mnemonic = "legal diagram silly wood perfect recipe behind way amused mystery machine gold";
+var mnemonic = "note romance domain smoke adapt library achieve myself obtain suspect obey burden";

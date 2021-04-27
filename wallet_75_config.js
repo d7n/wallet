@@ -1,1 +1,1 @@
-var mnemonic = "home salmon insane north habit miracle sun traffic gospel asset air marble";
+var mnemonic = "mushroom harbor taxi useful deny purse economy foam basic symptom learn tone";

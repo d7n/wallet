@@ -1,1 +1,1 @@
-var mnemonic = "liar ship error decide lizard cargo maze garment divorce pledge gaze seek";
+var mnemonic = "behind random trust young ethics consider trip where join march choose turkey";

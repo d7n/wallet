@@ -1,1 +1,1 @@
-var mnemonic = "beef onion bargain sketch federal spoil ability adjust trend impulse engine energy";
+var mnemonic = "border face what wall forward tape this fog black lab treat power";

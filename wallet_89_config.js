@@ -1,1 +1,1 @@
-var mnemonic = "walk volcano man satoshi reward scorpion rack favorite umbrella profit pizza arrange";
+var mnemonic = "slush inherit weasel early bid number escape oppose toe crush pill crunch";

@@ -1,1 +1,1 @@
-var mnemonic = "board excess pistol make shoe write fire canal empower execute season twin";
+var mnemonic = "can much dance focus insane soccer damp vacant private amazing rib eternal";

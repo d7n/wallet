@@ -1,1 +1,1 @@
-var mnemonic = "address observe early column walnut used boy trash toss agent family plastic";
+var mnemonic = "come artwork caution barely jazz alpha bracket move silly intact rapid divert";

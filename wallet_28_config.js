@@ -1,1 +1,1 @@
-var mnemonic = "town rain spider addict help glory safe suspect tortoise regular rough enhance";
+var mnemonic = "august wool solve gesture dignity elevator street reflect depart frozen tissue tide";

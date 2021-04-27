@@ -1,1 +1,1 @@
-var mnemonic = "limb mean impose shoe feed consider predict blossom deputy feed catalog village";
+var mnemonic = "help live shine acoustic quality lady error plate bounce effort letter rapid";

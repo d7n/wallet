@@ -1,1 +1,1 @@
-var mnemonic = "awake pizza merge economy kit sun diagram label chief mansion output assist";
+var mnemonic = "hotel outside glue story charge gain embody because culture snack slab silly";

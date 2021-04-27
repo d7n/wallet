@@ -1,1 +1,1 @@
-var mnemonic = "round corn reveal bike usual virtual pitch concert ill pen cook eye";
+var mnemonic = "deny loop spoil buffalo donkey museum letter buyer bleak cycle viable clarify";

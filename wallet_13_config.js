@@ -1,1 +1,1 @@
-var mnemonic = "finger pattern hawk tribe print mimic urge miss seven exhibit sea list";
+var mnemonic = "access iron half despair raw joy side strike liar screen minor about";

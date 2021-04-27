@@ -1,1 +1,1 @@
-var mnemonic = "deal stage august proof together claw danger comfort injury cloud unhappy enable";
+var mnemonic = "width loan eight present muscle vault coast million guitar august fever correct";

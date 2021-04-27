@@ -1,1 +1,1 @@
-var mnemonic = "oak forest cheap table sibling derive curve system brain luggage choice love";
+var mnemonic = "hidden actual emerge dune cram float purity gorilla green galaxy vast rebel";

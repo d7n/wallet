@@ -1,1 +1,1 @@
-var mnemonic = "flavor chase common tortoise stool fault craft senior prefer peanut dizzy crucial";
+var mnemonic = "daring pass tooth corn pitch innocent purpose clerk matrix toe solid drink";

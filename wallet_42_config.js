@@ -1,1 +1,1 @@
-var mnemonic = "roof slush upgrade venue electric oyster custom black pen fragile inquiry sustain";
+var mnemonic = "either submit pencil school trim farm fever affair hip cloud science document";

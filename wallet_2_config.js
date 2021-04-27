@@ -1,1 +1,1 @@
-var mnemonic = "wisdom tag stool receive kingdom fashion era journey test erosion degree breeze";
+var mnemonic = "universe bullet margin spawn ginger tomorrow hard govern ice mandate hub club";

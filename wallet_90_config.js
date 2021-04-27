@@ -1,1 +1,1 @@
-var mnemonic = "recipe flavor spirit city biology cloth goose load bacon obey brick mobile";
+var mnemonic = "immune nasty during list vapor slam twelve future report lottery virus grape";

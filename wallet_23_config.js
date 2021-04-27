@@ -1,1 +1,1 @@
-var mnemonic = "family sun settle pill volume filter thing expand mom fence side retreat";
+var mnemonic = "mind elder add slender romance skirt hollow leg ugly oxygen crater suffer";

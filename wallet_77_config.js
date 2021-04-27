@@ -1,1 +1,1 @@
-var mnemonic = "two calm crack width liquid fly muscle sister feature dignity smoke sea";
+var mnemonic = "buddy salute library direct shy cycle liberty cousin drink response attract involve";

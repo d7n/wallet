@@ -1,1 +1,1 @@
-var mnemonic = "uphold weasel brick cotton shift flag favorite daughter rich inside patient father";
+var mnemonic = "fat leg merit spice salt rough invest north sure ritual apart chimney";

@@ -1,1 +1,1 @@
-var mnemonic = "network suffer crew witness talk strong proud hazard fruit neither glide dolphin";
+var mnemonic = "remind bleak monster column agent chase pact solve wagon school inch add";

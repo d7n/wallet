@@ -1,1 +1,1 @@
-var mnemonic = "collect lazy vicious service bus crater bounce luggage crater pepper coral thing";
+var mnemonic = "remember width later tragic copy captain hedgehog swarm special drip electric local";

@@ -1,1 +1,1 @@
-var mnemonic = "hockey uphold stairs attack track punch object prepare earn peanut mandate comfort";
+var mnemonic = "provide drama item catch crowd sustain logic furnace unfold sting beach maple";

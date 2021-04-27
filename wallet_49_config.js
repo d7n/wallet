@@ -1,1 +1,1 @@
-var mnemonic = "entire exile fever shrimp chest hurt deliver melt barrel swarm day bundle";
+var mnemonic = "under pear churn chair magic clap unable clap base couple aim message";

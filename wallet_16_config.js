@@ -1,1 +1,1 @@
-var mnemonic = "burden brush worry lucky fragile sentence fuel oxygen ceiling wave gossip tourist";
+var mnemonic = "penalty island lift february reason theme double fabric chalk rapid lonely bag";

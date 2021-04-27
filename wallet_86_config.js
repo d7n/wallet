@@ -1,1 +1,1 @@
-var mnemonic = "cake cheap abuse belt crater muscle follow genuine filter symbol cushion vendor";
+var mnemonic = "flock symbol truly eagle pilot artefact mind poem spirit forum festival cry";

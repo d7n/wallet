@@ -1,1 +1,1 @@
-var mnemonic = "aisle wet express always clap ribbon fan fog daring neither picnic step";
+var mnemonic = "wonder subject sweet aunt daring couple slim media quick demand category acoustic";

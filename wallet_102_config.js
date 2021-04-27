@@ -1,1 +1,1 @@
-var mnemonic = "flock dove betray rally hello special announce frog desk crime endorse stay";
+var mnemonic = "awful make bracket wire deer cousin edge unlock web segment hamster mixed";

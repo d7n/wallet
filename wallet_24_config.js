@@ -1,1 +1,1 @@
-var mnemonic = "scrap obvious dinner dish glad torch include spoon prize fold guide flat";
+var mnemonic = "copper core fashion anxiety misery actress rubber session order high radio main";

@@ -1,1 +1,1 @@
-var mnemonic = "beach equip marble type flip salon scheme question pizza toilet over rapid";
+var mnemonic = "provide rib noise liberty swap domain winter problem pass crack taste audit";

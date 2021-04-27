@@ -1,1 +1,1 @@
-var mnemonic = "fury tired loop orange gaze tell suspect flat inject ship suit frozen";
+var mnemonic = "only hover fork large mention defy stuff popular pulse about brown moment";

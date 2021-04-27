@@ -1,1 +1,1 @@
-var mnemonic = "tattoo space amateur soul before build scrub govern success slam tumble regular";
+var mnemonic = "wife cool chimney recall flat opinion anger camp any issue mixture kidney";

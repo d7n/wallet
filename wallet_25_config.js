@@ -1,1 +1,1 @@
-var mnemonic = "health crowd jelly assault coconut famous satisfy hurdle inflict rally lawn decrease";
+var mnemonic = "pledge burst bless awful course wisdom owner since guess vendor task gentle";

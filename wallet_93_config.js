@@ -1,1 +1,1 @@
-var mnemonic = "chase outside loyal token unhappy smoke garbage citizen surface frame air father";
+var mnemonic = "prepare antenna wreck above gesture chest raise laptop manual rhythm wall often";

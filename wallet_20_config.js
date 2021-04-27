@@ -1,1 +1,1 @@
-var mnemonic = "autumn wheat share guilt abuse upon spawn yellow unhappy belt talent fluid";
+var mnemonic = "brother stairs return senior gift column repeat offer toe decorate liquid census";

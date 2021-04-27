@@ -1,1 +1,1 @@
-var mnemonic = "consider bomb guide hip deal brief adapt exclude song oval captain budget";
+var mnemonic = "clean waste income alarm pudding wasp nasty habit sphere allow scale say";

@@ -1,1 +1,1 @@
-var mnemonic = "festival monitor civil edge deer loyal iron nice nose orange funny hope";
+var mnemonic = "merit bubble mass fatigue science minimum fly injury romance banana anchor sick";

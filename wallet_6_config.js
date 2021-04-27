@@ -1,1 +1,1 @@
-var mnemonic = "crowd street bulk mean plate rebuild three gaze twin remain mass lawn";
+var mnemonic = "furnace settle one tail laptop indoor midnight gentle orchard sketch try barrel";

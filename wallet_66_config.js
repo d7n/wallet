@@ -1,1 +1,1 @@
-var mnemonic = "scorpion village various unique mystery dwarf bench snow old isolate impact cart";
+var mnemonic = "chunk palace cabbage sick kind spot jazz afford loyal exile annual novel";

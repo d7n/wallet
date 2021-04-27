@@ -1,1 +1,1 @@
-var mnemonic = "chaos solid ask extend embrace subway always lamp wreck degree toilet smart";
+var mnemonic = "afraid avoid cycle afraid pave shield dog wreck ceiling depart two scrub";

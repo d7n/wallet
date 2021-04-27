@@ -1,1 +1,1 @@
-var mnemonic = "crack tuna wink stumble give stadium lamp universe cake filter accuse vessel";
+var mnemonic = "artwork crouch decide there west damp hundred swim version wrap grunt surge";

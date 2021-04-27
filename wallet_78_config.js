@@ -1,1 +1,1 @@
-var mnemonic = "lumber excuse climb clutch ramp smooth captain profit kitchen tooth artefact video";
+var mnemonic = "smoke husband coffee smart decline field debris afford indicate boss flip equal";

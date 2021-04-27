@@ -1,1 +1,1 @@
-var mnemonic = "erode parrot van enhance exclude cloud conduct wreck erode elbow easy remove";
+var mnemonic = "cancel boat bundle final crush mansion snake start short retreat ordinary arm";

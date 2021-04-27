@@ -1,1 +1,1 @@
-var mnemonic = "deliver silent hollow under rebel wife start battle put olympic garment matrix";
+var mnemonic = "coin mutual drift rapid concert target circle swarm beach own churn dolphin";

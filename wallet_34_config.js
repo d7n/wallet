@@ -1,1 +1,1 @@
-var mnemonic = "vocal naive gown bargain broccoli hand belt ranch identify wrong ready need";
+var mnemonic = "access all about economy approve cluster monkey flower steak dinner plate jungle";

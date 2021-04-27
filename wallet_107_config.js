@@ -1,1 +1,1 @@
-var mnemonic = "liberty slice bean avoid aware antique museum river glow leisure worth able";
+var mnemonic = "alert organ lens unique combine crazy curious gloom price august enter web";

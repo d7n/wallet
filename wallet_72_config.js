@@ -1,1 +1,1 @@
-var mnemonic = "satisfy early tree divide end idle pass country olive ten oil riot";
+var mnemonic = "athlete evidence top spatial jump document gentle also leaf depend other advice";

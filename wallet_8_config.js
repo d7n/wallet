@@ -1,1 +1,1 @@
-var mnemonic = "network leader cigar invite silent slight tortoise future excess essence initial wait";
+var mnemonic = "wing monitor vast neither frame season reform alarm wild shy outer nurse";

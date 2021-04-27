@@ -1,1 +1,1 @@
-var mnemonic = "enlist ritual wheat price mean potato leisure hobby beef test enforce impact";
+var mnemonic = "horror era attend airport flip evidence music plug below wrap phrase twist";

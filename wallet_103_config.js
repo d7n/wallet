@@ -1,1 +1,1 @@
-var mnemonic = "exact tornado floor lizard noodle surface trouble become wire control forget cattle";
+var mnemonic = "try scare pull display explain lawsuit result blade width mirror wash target";

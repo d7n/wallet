@@ -1,1 +1,1 @@
-var mnemonic = "flock act repeat repair cereal any load cream avoid goose army open";
+var mnemonic = "fever shoe make turn cream vast crawl blush domain aunt chapter happy";

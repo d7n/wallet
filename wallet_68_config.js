@@ -1,1 +1,1 @@
-var mnemonic = "sea flip half slush trip curious galaxy describe stock melody trial earn";
+var mnemonic = "area follow example inner hen click code entire sibling thought filter pony";

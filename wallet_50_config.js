@@ -1,1 +1,1 @@
-var mnemonic = "cube goddess busy design stomach glad pumpkin mushroom surge sort exotic erupt";
+var mnemonic = "involve brick glance level hybrid comfort venue ill satoshi soda asset cover";

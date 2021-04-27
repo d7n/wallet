@@ -1,1 +1,1 @@
-var mnemonic = "manual moral hip unhappy slight car violin trigger sweet know excite hill";
+var mnemonic = "genius clutch middle thumb debris analyst use oval usual wave kitchen august";

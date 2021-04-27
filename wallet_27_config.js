@@ -1,1 +1,1 @@
-var mnemonic = "scout glance spoon order little oven peanut clerk dizzy lyrics also hover";
+var mnemonic = "oxygen local patrol near polar cattle argue pizza marriage scrap orange exhibit";

@@ -1,1 +1,1 @@
-var mnemonic = "alcohol attract crazy unable arrive behave potato despair breeze scene shrimp rotate";
+var mnemonic = "rebuild vague kit still hour dismiss own impose bitter dizzy invest parent";

@@ -1,1 +1,1 @@
-var mnemonic = "huge miss coffee corn style ring bicycle sleep squeeze wonder income basic";
+var mnemonic = "endorse head damage patient inner pony tomorrow walk gym onion analyst trumpet";

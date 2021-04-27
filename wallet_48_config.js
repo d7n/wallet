@@ -1,1 +1,1 @@
-var mnemonic = "coral cable giant like tumble claw fox asthma tribe bid gallery chapter";
+var mnemonic = "similar follow abuse wedding oppose replace huge relief wool cannon deposit knock";

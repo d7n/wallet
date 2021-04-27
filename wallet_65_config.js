@@ -1,1 +1,1 @@
-var mnemonic = "trial fitness just style liquid sign public typical scrap organ bike chaos";
+var mnemonic = "federal punch fabric decrease neck pull kitten label aim stem frog math";

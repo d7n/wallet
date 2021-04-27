@@ -1,1 +1,1 @@
-var mnemonic = "release deal judge save dash federal tree sell infant return project weapon";
+var mnemonic = "assume payment clinic raven squeeze black prosper baby rice simple angry giggle";

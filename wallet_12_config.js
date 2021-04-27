@@ -1,1 +1,1 @@
-var mnemonic = "extend wide illness okay fury chronic setup short brain frequent rare kitten";
+var mnemonic = "cute favorite cable ripple purpose empower bleak diary pepper report mail dune";

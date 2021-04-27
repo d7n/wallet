@@ -1,1 +1,1 @@
-var mnemonic = "harsh income victory veteran current pitch tell alcohol ahead volcano surge divide";
+var mnemonic = "shoulder design tilt roof auction tomato poet deny jaguar call toast congress";

@@ -1,1 +1,1 @@
-var mnemonic = "address summer hawk once various boil quarter bounce minute hand rhythm family";
+var mnemonic = "flock worth connect once kite load gaze power open seek trade vintage";

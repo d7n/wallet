@@ -1,1 +1,1 @@
-var mnemonic = "three vendor nest learn horn jump glide cabin proof duck blind come";
+var mnemonic = "onion cabbage wheel voice vacant rebel rice kiss alien erode crumble velvet";

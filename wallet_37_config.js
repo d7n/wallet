@@ -1,1 +1,1 @@
-var mnemonic = "suffer tiger report unlock nature leg honey conduct cross favorite wrestle music";
+var mnemonic = "blame photo rich bundle act awesome sea flag brave budget cigar obey";

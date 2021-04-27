@@ -1,1 +1,1 @@
-var mnemonic = "tunnel bottom slide host gaze south skirt casino antenna own open mind";
+var mnemonic = "dignity select error truly rapid symbol staff pretty donkey artist canvas place";

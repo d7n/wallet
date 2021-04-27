@@ -1,1 +1,1 @@
-var mnemonic = "object ostrich cup claw help stage enact vehicle ugly regular view voyage";
+var mnemonic = "brand vicious tower adjust coral grant mobile lab vocal tumble dignity there";

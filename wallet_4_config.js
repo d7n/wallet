@@ -1,1 +1,1 @@
-var mnemonic = "close exercise sea service slide link teach gift leg false chronic arctic";
+var mnemonic = "illness tower correct coffee donkey have olympic census praise seminar make trumpet";

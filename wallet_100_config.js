@@ -1,1 +1,1 @@
-var mnemonic = "captain already sponsor fiber hockey hello canoe winter note bonus scale mom";
+var mnemonic = "danger sugar unit escape prepare interest upper sausage eyebrow resemble project butter";

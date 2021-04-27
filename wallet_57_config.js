@@ -1,1 +1,1 @@
-var mnemonic = "seven very fade urge easily river kid vague cloud solid result edit";
+var mnemonic = "creek sun shy vote syrup enough boil risk dance inspire home expose";

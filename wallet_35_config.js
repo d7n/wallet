@@ -1,1 +1,1 @@
-var mnemonic = "viable forum sock buddy bright digital kitchen remain index rely reunion glimpse";
+var mnemonic = "pony federal bar step boss salmon oval fitness rapid hip six dutch";
