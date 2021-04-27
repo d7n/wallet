@@ -1,1 +1,1 @@
-var mnemonic = "buzz donkey alter glory survey imitate barely dash kingdom bring mistake talent";
+var mnemonic = "original magnet security invest skin actress good relax outer script walnut naive";

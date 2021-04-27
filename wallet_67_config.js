@@ -1,1 +1,1 @@
-var mnemonic = "guide absurd enact idle innocent pledge shoot provide cash tree need runway";
+var mnemonic = "worth hat mean napkin vapor robust price ecology govern orphan ten extend";

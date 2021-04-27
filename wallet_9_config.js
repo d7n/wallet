@@ -1,1 +1,1 @@
-var mnemonic = "vessel lunch fit credit idea timber sun medal scout gospel wasp bitter";
+var mnemonic = "surge chef tent bleak engine deny daughter abstract muscle weasel loop route";

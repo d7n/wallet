@@ -1,1 +1,1 @@
-var mnemonic = "knock zebra sister opera clap belt chimney vivid odor diet olympic aim";
+var mnemonic = "endless cause salute oyster artefact talk age brass climb churn marine script";

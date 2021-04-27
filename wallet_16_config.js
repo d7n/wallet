@@ -1,1 +1,1 @@
-var mnemonic = "lounge arrest group swing tide whip false melt suffer antique gadget before";
+var mnemonic = "total sense traffic rug jeans fancy veteran giggle marble dentist frown federal";

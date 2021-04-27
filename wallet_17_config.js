@@ -1,1 +1,1 @@
-var mnemonic = "mandate blue shed surface wait bag quantum pulse replace rubber disease ecology";
+var mnemonic = "copper develop cheap aware twenty surface evolve field female explain true baby";

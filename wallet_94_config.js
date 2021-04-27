@@ -1,1 +1,1 @@
-var mnemonic = "whale artefact myself juice end delay ankle vote umbrella child flash know";
+var mnemonic = "hen camera flock iron museum sphere network bag such antenna craft easily";

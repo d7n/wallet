@@ -1,1 +1,1 @@
-var mnemonic = "pistol friend attack brick recall latin tower narrow mountain hockey arch better";
+var mnemonic = "spare slice ignore matter flip damage wheel doll goose slot cheese foot";

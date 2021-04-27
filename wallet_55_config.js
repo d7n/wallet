@@ -1,1 +1,1 @@
-var mnemonic = "flush rapid crowd broken wheel horn naive stem put ticket indoor sign";
+var mnemonic = "stool morning october history animal wonder puppy piano rubber doll book fashion";

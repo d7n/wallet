@@ -1,1 +1,1 @@
-var mnemonic = "chair abuse announce art rabbit spoon glass open lend rely forward party";
+var mnemonic = "theory gaze vibrant wife analyst torch dash evidence sadness olive front human";

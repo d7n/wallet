@@ -1,1 +1,1 @@
-var mnemonic = "marine mass cliff machine settle inform two fish that tobacco crop act";
+var mnemonic = "pilot gossip group wrist day sphere below expose clap guess ancient orchard";

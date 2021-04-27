@@ -1,1 +1,1 @@
-var mnemonic = "involve private exhaust similar avoid execute cherry wasp wine cereal staff portion";
+var mnemonic = "picture blur again latin boss cupboard faculty raise liquid face keep cheap";

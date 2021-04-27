@@ -1,1 +1,1 @@
-var mnemonic = "economy misery silver flavor ordinary border prevent thunder boost viable inhale sing";
+var mnemonic = "usual monitor cycle action pilot aerobic sadness insane ranch tuna craft rug";

@@ -1,1 +1,1 @@
-var mnemonic = "ankle decade zero humble equal stumble awful element often disease autumn improve";
+var mnemonic = "rescue recall champion spray undo lonely seed gas absorb script eye asset";

@@ -1,1 +1,1 @@
-var mnemonic = "bench sniff amazing engine bamboo join inside enough addict next biology forum";
+var mnemonic = "host mother skirt jump canal urban rose task shock diet barrel sadness";

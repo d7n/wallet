@@ -1,1 +1,1 @@
-var mnemonic = "mesh latin reflect hip identify large awkward disease split garment dog hurdle";
+var mnemonic = "loud around expect relax foster family sock chimney aware gallery pigeon chronic";

@@ -1,1 +1,1 @@
-var mnemonic = "nest erosion jealous attract please captain metal excuse chalk bullet crew grape";
+var mnemonic = "lawn comfort busy hope destroy huge develop island okay credit grape pioneer";

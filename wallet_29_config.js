@@ -1,1 +1,1 @@
-var mnemonic = "enough churn rotate section text interest pumpkin shop diesel paddle chapter eager";
+var mnemonic = "various execute hour gorilla output country nice squeeze spoil camera regular critic";

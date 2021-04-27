@@ -1,1 +1,1 @@
-var mnemonic = "trip room unveil clever bus result crater across liberty rough tongue script";
+var mnemonic = "young sphere stand smile shock stable student hour canal accuse analyst typical";

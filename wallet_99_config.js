@@ -1,1 +1,1 @@
-var mnemonic = "profit omit crazy bread void spray check inside build deputy bronze explain";
+var mnemonic = "wish smoke shift window day worry miss nose wait hurry achieve maximum";

@@ -1,1 +1,1 @@
-var mnemonic = "melody market popular hedgehog input hill involve trick beef tongue festival crawl";
+var mnemonic = "village flag alcohol maple bacon border coin symbol unable scare alley blue";

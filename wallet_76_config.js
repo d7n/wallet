@@ -1,1 +1,1 @@
-var mnemonic = "tooth picture present quick poet above silver flavor chapter energy give buddy";
+var mnemonic = "leave good topple myself uncover birth scene power smoke stuff climb upper";

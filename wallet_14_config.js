@@ -1,1 +1,1 @@
-var mnemonic = "eye sample cruel olympic issue subject shallow wood sadness size empty fabric";
+var mnemonic = "brass champion bike off account pizza symptom satoshi bulb intact february repeat";

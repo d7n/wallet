@@ -1,1 +1,1 @@
-var mnemonic = "pass verify august oyster security false still sudden ramp family ski suspect";
+var mnemonic = "dirt sunny close fever hero dolphin garment fly cup alarm dance come";

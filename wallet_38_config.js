@@ -1,1 +1,1 @@
-var mnemonic = "circle share ranch wheat budget night foil fitness imitate health april travel";
+var mnemonic = "debate fault robot steak mask weasel ginger donor shoot laptop angry baby";

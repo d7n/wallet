@@ -1,1 +1,1 @@
-var mnemonic = "skin state collect can save season flag rack pyramid judge course tuition";
+var mnemonic = "error flat squirrel patrol burger tumble damp liberty author lake dragon bullet";

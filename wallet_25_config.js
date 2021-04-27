@@ -1,1 +1,1 @@
-var mnemonic = "history inmate nasty fatal aware wedding coach split topple topple cube soda";
+var mnemonic = "horn spring maze vague harsh day uniform perfect echo tent afford oblige";

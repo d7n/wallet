@@ -1,1 +1,1 @@
-var mnemonic = "moment fork filter soup panther arrange jungle tide churn scare jacket radar";
+var mnemonic = "interest become steel barrel early excuse stable file praise tip vast tail";

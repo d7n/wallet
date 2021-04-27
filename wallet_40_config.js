@@ -1,1 +1,1 @@
-var mnemonic = "soft swallow version eternal credit concert pencil weapon surge clutch loud caught";
+var mnemonic = "transfer hurdle lyrics rocket green pilot wait beach actress news talent island";

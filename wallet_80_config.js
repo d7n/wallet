@@ -1,1 +1,1 @@
-var mnemonic = "fire voice derive catalog ribbon dice gap dizzy screen void memory repair";
+var mnemonic = "pond garment pen friend you timber sheriff prize drama danger laptop skin";

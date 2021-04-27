@@ -1,1 +1,1 @@
-var mnemonic = "install mind judge melt road please puzzle consider dove stool average define";
+var mnemonic = "assume vanish opera jeans bid abandon eyebrow border exclude auction deny glove";

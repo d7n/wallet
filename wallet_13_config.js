@@ -1,1 +1,1 @@
-var mnemonic = "hello cart end federal phrase enact menu shell hire runway alien buyer";
+var mnemonic = "grape chimney despair you result candy theory zero vault cry scan draw";

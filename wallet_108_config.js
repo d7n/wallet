@@ -1,1 +1,1 @@
-var mnemonic = "laundry step country hospital shoe speak blossom fence stool lesson wish ribbon";
+var mnemonic = "pudding glance cabbage lake february team fancy famous visa know explain divorce";

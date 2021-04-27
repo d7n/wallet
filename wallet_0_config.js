@@ -1,1 +1,1 @@
-var mnemonic = "foam fly refuse garment cloth hour fish camera autumn powder amazing pledge";
+var mnemonic = "rich wheel section chest sudden cloth embrace spike torch wrestle debate family";

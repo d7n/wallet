@@ -1,1 +1,1 @@
-var mnemonic = "dinner predict month grape dove fetch flavor anger black cycle stool today";
+var mnemonic = "decade master siren parade fatal ring enlist nest actress net hundred bullet";

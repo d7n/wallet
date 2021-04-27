@@ -1,1 +1,1 @@
-var mnemonic = "river donate sail weather run discover weasel verify arm winner coil mind";
+var mnemonic = "half trim tomorrow wave boring broken awesome aerobic decade patrol town satoshi";

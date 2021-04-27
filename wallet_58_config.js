@@ -1,1 +1,1 @@
-var mnemonic = "human pluck crisp where gift clown total ramp panic choose during afford";
+var mnemonic = "thank smart exercise donor rate hover gas trigger battle bless job message";

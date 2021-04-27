@@ -1,1 +1,1 @@
-var mnemonic = "barely pattern shrimp merit chair toddler village baby lobster cable put forward";
+var mnemonic = "february filter science waste hotel capable jar account liar sure bag know";

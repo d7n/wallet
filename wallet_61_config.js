@@ -1,1 +1,1 @@
-var mnemonic = "visual whip rude shrimp pear cargo hope broccoli avoid giant avoid next";
+var mnemonic = "fold base web track novel gold always action inject hazard knock hat";

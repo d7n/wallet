@@ -1,1 +1,1 @@
-var mnemonic = "one dignity board surround reduce curve upgrade agree say hood occur spare";
+var mnemonic = "feel spawn setup mention sudden before collect paper crunch tenant tower bench";

@@ -1,1 +1,1 @@
-var mnemonic = "govern predict panel antenna middle air asset debate ordinary lyrics useless kiss";
+var mnemonic = "shrug easy divorce copy debate off feed neglect timber cash have advance";

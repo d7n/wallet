@@ -1,1 +1,1 @@
-var mnemonic = "ability stable destroy very dolphin subject govern glass immense summer injury eye";
+var mnemonic = "right wire plastic control boat around live change point jelly water spirit";

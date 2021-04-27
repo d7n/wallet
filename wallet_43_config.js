@@ -1,1 +1,1 @@
-var mnemonic = "major fence electric carry language loyal learn clarify spice option battle pear";
+var mnemonic = "canvas joke torch inflict subway hole gaze aisle cloud stage chimney boat";

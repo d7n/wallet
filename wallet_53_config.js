@@ -1,1 +1,1 @@
-var mnemonic = "husband fortune estate mango doctor city amazing collect about powder pair dial";
+var mnemonic = "unable network anchor elbow anxiety earn potato glove rapid real steel train";

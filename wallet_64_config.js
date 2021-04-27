@@ -1,1 +1,1 @@
-var mnemonic = "energy canoe stairs drive tonight slice traffic flash amount game sort assault";
+var mnemonic = "survey seed antenna shop buffalo local sight suffer friend bind draw forward";

@@ -1,1 +1,1 @@
-var mnemonic = "destroy dawn hen patrol bread version ensure wage deer board bunker need";
+var mnemonic = "verb slot drum gap dust win proof local police decade gas man";

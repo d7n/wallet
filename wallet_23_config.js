@@ -1,1 +1,1 @@
-var mnemonic = "where stable owner badge assume noise pact output sugar idle praise diagram";
+var mnemonic = "food champion already crawl spring ethics supreme have gather push win project";

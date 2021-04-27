@@ -1,1 +1,1 @@
-var mnemonic = "drastic source merge grocery zone farm arrest buddy like adjust shuffle what";
+var mnemonic = "violin virtual frown neck almost height leisure morning sadness tank garage million";

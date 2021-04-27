@@ -1,1 +1,1 @@
-var mnemonic = "little funny prefer toast evil city force turn slot make zone crouch";
+var mnemonic = "ladder various hunt across follow clutch weasel steel voyage divorce kingdom mention";

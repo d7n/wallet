@@ -1,1 +1,1 @@
-var mnemonic = "upgrade certain fiscal ketchup group rapid pink area aim drill wine birth";
+var mnemonic = "write fame hold program gate mandate moment wide pull marble soccer fortune";

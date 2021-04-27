@@ -1,1 +1,1 @@
-var mnemonic = "siege charge marriage side right cake maximum oval subject neglect rude report";
+var mnemonic = "bubble retreat lava green mean swap wheel people reveal thrive female south";

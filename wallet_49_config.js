@@ -1,1 +1,1 @@
-var mnemonic = "dinner sunset gown burst above someone warfare brass gadget nasty travel spend";
+var mnemonic = "plunge apart solution bag shift share fan own suffer whale pulp sorry";

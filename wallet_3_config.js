@@ -1,1 +1,1 @@
-var mnemonic = "ticket hope hawk long flock you notice crystal hero dawn cable company";
+var mnemonic = "magnet question gas vintage strong install patch cigar space hurdle off skin";

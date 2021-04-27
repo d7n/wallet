@@ -1,1 +1,1 @@
-var mnemonic = "enable forest render sound gun bring empower door survey distance park welcome";
+var mnemonic = "spirit shiver patrol fever indicate pear endorse tuna one steel cake shock";

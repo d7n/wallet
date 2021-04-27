@@ -1,1 +1,1 @@
-var mnemonic = "coin hungry outer file enter cabbage weekend left asthma artist cabbage vapor";
+var mnemonic = "water raven famous sick derive daring alarm cable afford aware swallow antenna";

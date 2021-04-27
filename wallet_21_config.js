@@ -1,1 +1,1 @@
-var mnemonic = "canyon valid coconut gallery toddler minor figure skull hotel rain age hidden";
+var mnemonic = "fat gasp huge science perfect spice trick leaf peanut siren valid sentence";

@@ -1,1 +1,1 @@
-var mnemonic = "sunny unhappy ahead era bread wave pudding wire clinic squirrel olive video";
+var mnemonic = "turtle carry install camp certain danger purse coffee version crack column flag";

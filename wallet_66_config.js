@@ -1,1 +1,1 @@
-var mnemonic = "aerobic utility shed bid brown expect coconut surge impose kitten spatial magic";
+var mnemonic = "disease snack chair negative forest risk hotel morning agree rhythm utility reduce";

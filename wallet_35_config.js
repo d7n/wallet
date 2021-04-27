@@ -1,1 +1,1 @@
-var mnemonic = "armor cushion slam pig dice describe settle admit wheat barely confirm ill";
+var mnemonic = "pole venue cage code sight air define taste stumble grocery gun senior";

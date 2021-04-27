@@ -1,1 +1,1 @@
-var mnemonic = "inspire shy tattoo liquid crisp movie office crawl once recycle awful improve";
+var mnemonic = "walnut omit belt furnace attitude dance elegant citizen couch enlist erase silk";

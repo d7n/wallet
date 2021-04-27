@@ -1,1 +1,1 @@
-var mnemonic = "resource wise base sign another silk grape tube unhappy toy prevent tornado";
+var mnemonic = "agent vocal window diet segment guitar know zebra athlete genre run one";

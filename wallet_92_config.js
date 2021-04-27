@@ -1,1 +1,1 @@
-var mnemonic = "glimpse useful during demand lake please nature eyebrow left swim bitter lock";
+var mnemonic = "camera amateur human mad prevent trophy inform devote copper trouble network state";

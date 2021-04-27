@@ -1,1 +1,1 @@
-var mnemonic = "soap tornado puzzle rebel absorb coast palace grief trade frost great answer";
+var mnemonic = "weasel sword kid student another expire salt quote gloom together license damage";

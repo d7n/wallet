@@ -1,1 +1,1 @@
-var mnemonic = "hire random fringe inside situate mirror jungle casino shove cloth measure great";
+var mnemonic = "practice toilet ill nest inquiry stand wink plunge catch success grass tobacco";

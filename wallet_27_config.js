@@ -1,1 +1,1 @@
-var mnemonic = "middle mother delay hunt scorpion canal drip robust render margin omit obey";
+var mnemonic = "blade large hint swing social bounce tragic logic filter hard govern abuse";

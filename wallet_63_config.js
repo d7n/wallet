@@ -1,1 +1,1 @@
-var mnemonic = "federal warm milk connect leg raccoon tribe party enact note mutual finger";
+var mnemonic = "alone ranch oak learn subject chalk bright machine rhythm glow pull elder";

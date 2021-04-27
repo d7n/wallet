@@ -1,1 +1,1 @@
-var mnemonic = "advice spread badge surge goat onion tuition behave measure mushroom crane clap";
+var mnemonic = "onion wait cousin silver sponsor reward news news cloth verify cluster trick";

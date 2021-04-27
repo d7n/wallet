@@ -1,1 +1,1 @@
-var mnemonic = "advice wild muffin direct put unfold market work draw manage human blouse";
+var mnemonic = "peasant insect eye know mixed hat lesson tuna area age hedgehog fancy";

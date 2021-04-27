@@ -1,1 +1,1 @@
-var mnemonic = "super green primary talk clump find speed danger stone copy layer practice";
+var mnemonic = "right retire earth release gift fashion rally helmet cause ignore same kind";

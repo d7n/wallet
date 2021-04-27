@@ -1,1 +1,1 @@
-var mnemonic = "time edge example bleak access spare staff combine boss firm silver network";
+var mnemonic = "uncover degree dry else legend clog city hip car system educate march";

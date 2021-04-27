@@ -1,1 +1,1 @@
-var mnemonic = "rack mansion traffic skull dune stock science control harsh soon total click";
+var mnemonic = "lumber ladder category assault glue model detail occur license omit submit accuse";

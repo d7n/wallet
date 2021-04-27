@@ -1,1 +1,1 @@
-var mnemonic = "sibling network fire end raccoon mention addict steel carpet lady lift spread";
+var mnemonic = "human road know top catalog accident vacant column city ice future pass";

@@ -1,1 +1,1 @@
-var mnemonic = "gasp twice stove sudden raven toy puppy drum mixture below frost daring";
+var mnemonic = "monster convince detail trophy west leg scissors sell caution canvas write cattle";

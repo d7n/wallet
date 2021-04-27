@@ -1,1 +1,1 @@
-var mnemonic = "enact cheese talk switch avoid news october nuclear disease bottom quarter hero";
+var mnemonic = "ridge unusual sand forget change magic good clump drip ship hazard manual";

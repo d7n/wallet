@@ -1,1 +1,1 @@
-var mnemonic = "ticket fine shoe stuff swarm happy turkey lyrics clog main keep brass";
+var mnemonic = "refuse simple change cattle curious rule story case poverty dismiss retire cause";

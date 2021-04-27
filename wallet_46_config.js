@@ -1,1 +1,1 @@
-var mnemonic = "rebel bachelor refuse arrive anger rocket artwork resource voice ceiling liquid hat";
+var mnemonic = "tower notable camp leg chicken dune sock dove caught plunge reason primary";

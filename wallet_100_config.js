@@ -1,1 +1,1 @@
-var mnemonic = "addict hurt pretty pill radio elegant mirror quarter tooth tourist baby struggle";
+var mnemonic = "device chapter soda goose demand amount right modify sudden practice bounce trial";

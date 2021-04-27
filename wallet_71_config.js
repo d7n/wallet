@@ -1,1 +1,1 @@
-var mnemonic = "wave coffee payment neither seminar able exercise lunar outer cousin traffic february";
+var mnemonic = "output nose soldier fat season hold breeze advice upgrade sell echo sport";

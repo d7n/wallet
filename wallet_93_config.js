@@ -1,1 +1,1 @@
-var mnemonic = "clown present swap electric aim owner green rate shoot surprise derive oven";
+var mnemonic = "off bottom regret mosquito comic bitter knock noble spirit loop above slam";

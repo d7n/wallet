@@ -1,1 +1,1 @@
-var mnemonic = "person talent audit casino mom season express song swift almost credit zero";
+var mnemonic = "easily erase glare senior kangaroo galaxy carbon squeeze keen wave bamboo fork";

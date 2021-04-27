@@ -1,1 +1,1 @@
-var mnemonic = "joke negative mobile arch together keep enter ugly raw wedding engage deal";
+var mnemonic = "cry adult kidney wage volcano alpha alien athlete basket adjust disagree grape";

@@ -1,1 +1,1 @@
-var mnemonic = "liquid steak recipe mystery train race velvet cigar trophy stem enhance mind";
+var mnemonic = "swing marriage drama sausage orchard gentle turn weather topic elephant wedding excess";
