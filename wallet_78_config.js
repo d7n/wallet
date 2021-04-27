@@ -1,1 +1,1 @@
-var mnemonic = "easily erase glare senior kangaroo galaxy carbon squeeze keen wave bamboo fork";
+var mnemonic = "chronic waste faculty language renew bless exile chronic fortune valid derive plastic";

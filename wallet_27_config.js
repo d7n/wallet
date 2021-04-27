@@ -1,1 +1,1 @@
-var mnemonic = "blade large hint swing social bounce tragic logic filter hard govern abuse";
+var mnemonic = "parrot display primary embark parrot dog release stamp wrap stool initial public";

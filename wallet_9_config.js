@@ -1,1 +1,1 @@
-var mnemonic = "surge chef tent bleak engine deny daughter abstract muscle weasel loop route";
+var mnemonic = "recall elegant mention hero book horn right achieve wall street praise usual";

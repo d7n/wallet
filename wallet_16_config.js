@@ -1,1 +1,1 @@
-var mnemonic = "total sense traffic rug jeans fancy veteran giggle marble dentist frown federal";
+var mnemonic = "man relief enrich easy pupil true federal trigger view coil tone spray";

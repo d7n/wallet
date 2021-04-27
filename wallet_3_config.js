@@ -1,1 +1,1 @@
-var mnemonic = "magnet question gas vintage strong install patch cigar space hurdle off skin";
+var mnemonic = "settle toast check injury chat bracket perfect risk laundry display sponsor federal";

@@ -1,1 +1,1 @@
-var mnemonic = "device chapter soda goose demand amount right modify sudden practice bounce trial";
+var mnemonic = "pond element have solid rocket february purchase play chapter until frequent promote";

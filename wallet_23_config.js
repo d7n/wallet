@@ -1,1 +1,1 @@
-var mnemonic = "food champion already crawl spring ethics supreme have gather push win project";
+var mnemonic = "various basket olympic praise project remove galaxy execute faith cruel faith again";

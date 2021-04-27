@@ -1,1 +1,1 @@
-var mnemonic = "unable network anchor elbow anxiety earn potato glove rapid real steel train";
+var mnemonic = "typical genius switch disease blush history isolate right breeze clap onion practice";

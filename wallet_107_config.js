@@ -1,1 +1,1 @@
-var mnemonic = "interest become steel barrel early excuse stable file praise tip vast tail";
+var mnemonic = "brown inch squirrel sick trial movie police curious bulk early search habit";

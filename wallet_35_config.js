@@ -1,1 +1,1 @@
-var mnemonic = "pole venue cage code sight air define taste stumble grocery gun senior";
+var mnemonic = "antique hip myth abuse smart slam fruit brave stand picnic neck access";

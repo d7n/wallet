@@ -1,1 +1,1 @@
-var mnemonic = "coil stock fine shield bid hire tornado scheme magic domain clever globe";
+var mnemonic = "rescue dad small run situate urban view foam salon carbon upon artist";

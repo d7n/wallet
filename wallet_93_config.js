@@ -1,1 +1,1 @@
-var mnemonic = "off bottom regret mosquito comic bitter knock noble spirit loop above slam";
+var mnemonic = "expand tower aware empty design mango youth collect gather jewel scale welcome";

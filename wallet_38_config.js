@@ -1,1 +1,1 @@
-var mnemonic = "debate fault robot steak mask weasel ginger donor shoot laptop angry baby";
+var mnemonic = "silk brisk want purpose mean member idle kind maid feature crew year";

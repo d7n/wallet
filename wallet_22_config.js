@@ -1,1 +1,1 @@
-var mnemonic = "elephant foam grass october negative exhibit vendor brass doll brother kick account";
+var mnemonic = "swallow coil dream clarify roast father lava emerge employ north speed tomorrow";

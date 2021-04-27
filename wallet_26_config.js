@@ -1,1 +1,1 @@
-var mnemonic = "right retire earth release gift fashion rally helmet cause ignore same kind";
+var mnemonic = "citizen also danger liquid movie crawl blame two ribbon health force inhale";

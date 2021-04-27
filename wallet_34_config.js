@@ -1,1 +1,1 @@
-var mnemonic = "sleep park spin desk cup fall meat brown agent alpha pelican air";
+var mnemonic = "toilet second donor battle eye chase slot letter oil man comic pudding";

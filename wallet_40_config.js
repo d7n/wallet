@@ -1,1 +1,1 @@
-var mnemonic = "transfer hurdle lyrics rocket green pilot wait beach actress news talent island";
+var mnemonic = "keen type artefact round uniform boss side toss session wall ecology mushroom";

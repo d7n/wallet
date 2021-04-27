@@ -1,1 +1,1 @@
-var mnemonic = "half trim tomorrow wave boring broken awesome aerobic decade patrol town satoshi";
+var mnemonic = "outside pause soft whisper hire easy palm thing shed bring salt grace";

@@ -1,1 +1,1 @@
-var mnemonic = "fat gasp huge science perfect spice trick leaf peanut siren valid sentence";
+var mnemonic = "gold flock predict inner fit kitten convince loyal arrow radar cross sample";

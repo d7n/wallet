@@ -1,1 +1,1 @@
-var mnemonic = "glance man custom trigger hobby empty innocent measure dad airport ability film";
+var mnemonic = "wonder miracle february level apple robust gloom toss warrior interest nuclear train";

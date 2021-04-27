@@ -1,1 +1,1 @@
-var mnemonic = "shrug easy divorce copy debate off feed neglect timber cash have advance";
+var mnemonic = "write wage bronze attract razor total blue inflict trip improve title claim";

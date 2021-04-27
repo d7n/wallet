@@ -1,1 +1,1 @@
-var mnemonic = "bubble retreat lava green mean swap wheel people reveal thrive female south";
+var mnemonic = "tone digital midnight media tape ridge wasp invite industry whale marriage first";

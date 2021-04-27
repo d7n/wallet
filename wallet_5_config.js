@@ -1,1 +1,1 @@
-var mnemonic = "theory gaze vibrant wife analyst torch dash evidence sadness olive front human";
+var mnemonic = "boy bonus cloud clip method often oxygen cheese current marriage long smoke";

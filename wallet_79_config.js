@@ -1,1 +1,1 @@
-var mnemonic = "strategy curve simple chimney assume remember promote report coil uncle other lunch";
+var mnemonic = "finger nut rude summer report recycle place drill arrest cannon express desk";

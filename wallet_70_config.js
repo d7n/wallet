@@ -1,1 +1,1 @@
-var mnemonic = "assume vanish opera jeans bid abandon eyebrow border exclude auction deny glove";
+var mnemonic = "ski disagree tail orbit sense motion profit neglect thrive term claim tomorrow";

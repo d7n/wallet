@@ -1,1 +1,1 @@
-var mnemonic = "output nose soldier fat season hold breeze advice upgrade sell echo sport";
+var mnemonic = "dry problem jealous random drum bomb thumb collect matrix pair axis math";

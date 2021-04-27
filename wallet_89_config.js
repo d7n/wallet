@@ -1,1 +1,1 @@
-var mnemonic = "cry adult kidney wage volcano alpha alien athlete basket adjust disagree grape";
+var mnemonic = "reduce nose clerk tree any solve fiber bus flame hungry proof kiwi";

@@ -1,1 +1,1 @@
-var mnemonic = "code task siren survey mom change wreck family poverty monitor eight year";
+var mnemonic = "supreme vessel lawsuit rabbit track lecture van excite twin prison clutch fold";

@@ -1,1 +1,1 @@
-var mnemonic = "hen camera flock iron museum sphere network bag such antenna craft easily";
+var mnemonic = "valid faith similar donkey enemy trap moral nature pull welcome awesome moral";

@@ -1,1 +1,1 @@
-var mnemonic = "relief anger layer air limit skull diary file arctic switch dress run";
+var mnemonic = "height acoustic silver analyst decade toast shuffle notable monitor denial craft other";

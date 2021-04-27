@@ -1,1 +1,1 @@
-var mnemonic = "spare slice ignore matter flip damage wheel doll goose slot cheese foot";
+var mnemonic = "ready cross type mix edit logic tip eternal shine truck carpet nature";

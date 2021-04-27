@@ -1,1 +1,1 @@
-var mnemonic = "plunge convince canyon nut truly vital luxury gasp web advice powder bid";
+var mnemonic = "amused minor title runway match they cactus unknown approve garlic joy draw";

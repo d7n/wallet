@@ -1,1 +1,1 @@
-var mnemonic = "dirt sunny close fever hero dolphin garment fly cup alarm dance come";
+var mnemonic = "fantasy sustain easy fancy will margin outer slam donor kid joy taxi";

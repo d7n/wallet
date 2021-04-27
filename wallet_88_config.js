@@ -1,1 +1,1 @@
-var mnemonic = "empower pluck hint miss inflict video text soul vendor like asthma aerobic";
+var mnemonic = "roof swift issue earth beach result onion afford moral manage speed world";

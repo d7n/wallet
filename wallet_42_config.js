@@ -1,1 +1,1 @@
-var mnemonic = "jewel unfair because feed denial weekend figure need measure follow involve grab";
+var mnemonic = "chase toilet hurdle bunker impulse obey goddess phrase mail couch steel more";

@@ -1,1 +1,1 @@
-var mnemonic = "loud around expect relax foster family sock chimney aware gallery pigeon chronic";
+var mnemonic = "grief brain ball clerk young inch universe soccer install milk wife crash";

@@ -1,1 +1,1 @@
-var mnemonic = "uncover degree dry else legend clog city hip car system educate march";
+var mnemonic = "unique envelope swap few wool absent attitude blossom coast love gallery angle";

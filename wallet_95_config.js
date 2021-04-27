@@ -1,1 +1,1 @@
-var mnemonic = "picture blur again latin boss cupboard faculty raise liquid face keep cheap";
+var mnemonic = "nurse polar art involve medal want blind left title aerobic learn keep";

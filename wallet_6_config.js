@@ -1,1 +1,1 @@
-var mnemonic = "write fame hold program gate mandate moment wide pull marble soccer fortune";
+var mnemonic = "romance carbon habit spoon spray favorite link organ endless casino mass thunder";

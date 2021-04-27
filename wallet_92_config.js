@@ -1,1 +1,1 @@
-var mnemonic = "camera amateur human mad prevent trophy inform devote copper trouble network state";
+var mnemonic = "scale warfare mobile code simple glove final panda permit month volcano hello";

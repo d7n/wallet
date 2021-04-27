@@ -1,1 +1,1 @@
-var mnemonic = "merit squirrel blind garlic capable tank sense rookie odor cigar core toilet";
+var mnemonic = "ghost thank nut reduce bundle tired amused furnace used purse frown guide";

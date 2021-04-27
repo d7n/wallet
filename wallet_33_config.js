@@ -1,1 +1,1 @@
-var mnemonic = "lawn comfort busy hope destroy huge develop island okay credit grape pioneer";
+var mnemonic = "hollow budget giggle scheme boring travel much budget pledge guess ecology favorite";

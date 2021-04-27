@@ -1,1 +1,1 @@
-var mnemonic = "cabbage fruit riot ride suit major foil blade same february thank axis";
+var mnemonic = "grunt include gasp flat doctor snow mutual flat venture sketch lab drive";

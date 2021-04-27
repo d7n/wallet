@@ -1,1 +1,1 @@
-var mnemonic = "survey seed antenna shop buffalo local sight suffer friend bind draw forward";
+var mnemonic = "physical art reason amazing report deny weekend dolphin tree easily helmet deposit";

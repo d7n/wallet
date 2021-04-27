@@ -1,1 +1,1 @@
-var mnemonic = "stool morning october history animal wonder puppy piano rubber doll book fashion";
+var mnemonic = "crime van force palm clarify action dose general fire fever train pitch";

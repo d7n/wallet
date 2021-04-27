@@ -1,1 +1,1 @@
-var mnemonic = "rich wheel section chest sudden cloth embrace spike torch wrestle debate family";
+var mnemonic = "pigeon friend gossip goat sight river unknown trust ozone egg hole insect";

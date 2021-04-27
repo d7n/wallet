@@ -1,1 +1,1 @@
-var mnemonic = "monster convince detail trophy west leg scissors sell caution canvas write cattle";
+var mnemonic = "advance joke cause gasp cupboard stay rate elite daughter blast shrimp diamond";

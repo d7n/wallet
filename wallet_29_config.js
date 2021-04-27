@@ -1,1 +1,1 @@
-var mnemonic = "various execute hour gorilla output country nice squeeze spoil camera regular critic";
+var mnemonic = "warfare spring wild dose forum quiz merit gadget they scene guess manual";

@@ -1,1 +1,1 @@
-var mnemonic = "village flag alcohol maple bacon border coin symbol unable scare alley blue";
+var mnemonic = "choose wire there toe drama essay weird name bar asset clump start";

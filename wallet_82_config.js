@@ -1,1 +1,1 @@
-var mnemonic = "february filter science waste hotel capable jar account liar sure bag know";
+var mnemonic = "radar near basket wood captain spin wire album infant great chunk wolf";

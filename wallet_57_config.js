@@ -1,1 +1,1 @@
-var mnemonic = "lumber ladder category assault glue model detail occur license omit submit accuse";
+var mnemonic = "flash appear burst pencil control east thumb upon grit awkward style whisper";

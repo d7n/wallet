@@ -1,1 +1,1 @@
-var mnemonic = "tower notable camp leg chicken dune sock dove caught plunge reason primary";
+var mnemonic = "leisure disorder foil educate firm mosquito reduce gun ugly hedgehog olive dust";

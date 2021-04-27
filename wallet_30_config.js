@@ -1,1 +1,1 @@
-var mnemonic = "ridge unusual sand forget change magic good clump drip ship hazard manual";
+var mnemonic = "gate cruise army where inner scorpion arrange wise ship saddle act fork";

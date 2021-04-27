@@ -1,1 +1,1 @@
-var mnemonic = "usual monitor cycle action pilot aerobic sadness insane ranch tuna craft rug";
+var mnemonic = "siege term prepare tone burden seminar scout verify hero diamond soccer toy";

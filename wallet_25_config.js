@@ -1,1 +1,1 @@
-var mnemonic = "horn spring maze vague harsh day uniform perfect echo tent afford oblige";
+var mnemonic = "feature satisfy perfect horn praise ranch gas april zone close impose panda";

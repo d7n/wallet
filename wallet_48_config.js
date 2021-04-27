@@ -1,1 +1,1 @@
-var mnemonic = "weasel sword kid student another expire salt quote gloom together license damage";
+var mnemonic = "found moment citizen grace game trial abandon alcohol truly cruel robot dawn";

@@ -1,1 +1,1 @@
-var mnemonic = "pudding glance cabbage lake february team fancy famous visa know explain divorce";
+var mnemonic = "uniform cushion often assault replace gold cheese raw option sorry target initial";

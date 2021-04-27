@@ -1,1 +1,1 @@
-var mnemonic = "spirit shiver patrol fever indicate pear endorse tuna one steel cake shock";
+var mnemonic = "suffer armor loop balance sure turkey wage brown comic art finger you";

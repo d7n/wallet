@@ -1,1 +1,1 @@
-var mnemonic = "rescue recall champion spray undo lonely seed gas absorb script eye asset";
+var mnemonic = "gun pond host plastic clerk cover blade image flip federal nest banner";

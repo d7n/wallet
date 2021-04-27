@@ -1,1 +1,1 @@
-var mnemonic = "agent vocal window diet segment guitar know zebra athlete genre run one";
+var mnemonic = "woman provide night kid tell crystal couple sting spice sing forget shell";

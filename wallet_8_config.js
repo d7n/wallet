@@ -1,1 +1,1 @@
-var mnemonic = "decade master siren parade fatal ring enlist nest actress net hundred bullet";
+var mnemonic = "run input wave remain parrot artefact honey explain uniform host gloom stomach";

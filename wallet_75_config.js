@@ -1,1 +1,1 @@
-var mnemonic = "original magnet security invest skin actress good relax outer script walnut naive";
+var mnemonic = "section print trap kitten useless sort crater gossip civil bus remain interest";

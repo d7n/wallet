@@ -1,1 +1,1 @@
-var mnemonic = "refuse simple change cattle curious rule story case poverty dismiss retire cause";
+var mnemonic = "crowd auction decide spirit employ gate tomorrow guard foil donate choose rice";

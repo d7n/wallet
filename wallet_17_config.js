@@ -1,1 +1,1 @@
-var mnemonic = "copper develop cheap aware twenty surface evolve field female explain true baby";
+var mnemonic = "elbow can adapt animal theory tooth plunge boy grit cart balance shove";

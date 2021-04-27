@@ -1,1 +1,1 @@
-var mnemonic = "question seminar thumb music spray unfold foot second easily foster pumpkin mention";
+var mnemonic = "loyal siege wing depend apple alien asset lunar share cushion antique guilt";

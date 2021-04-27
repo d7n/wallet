@@ -1,1 +1,1 @@
-var mnemonic = "worth hat mean napkin vapor robust price ecology govern orphan ten extend";
+var mnemonic = "earth party reflect danger purity know item bulb hope almost leg pottery";

@@ -1,1 +1,1 @@
-var mnemonic = "alone ranch oak learn subject chalk bright machine rhythm glow pull elder";
+var mnemonic = "humble split tuition goose accident enough dirt album stadium wire spoon shell";

@@ -1,1 +1,1 @@
-var mnemonic = "frozen crouch bulb leader trust upon local merit proud hen error point";
+var mnemonic = "hire cost ranch cupboard help barrel wise crazy vapor dinner crisp moral";

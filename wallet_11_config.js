@@ -1,1 +1,1 @@
-var mnemonic = "onion hotel donor answer share rain voyage borrow gossip they pulse mule";
+var mnemonic = "wink region add poet figure fatigue lizard deal glory live cross worry";

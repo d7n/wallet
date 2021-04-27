@@ -1,1 +1,1 @@
-var mnemonic = "wild upset remove rare unaware release coconut clarify venue color pencil spike";
+var mnemonic = "ask spirit unfold treat desk dragon roast ranch truck mean action heart";

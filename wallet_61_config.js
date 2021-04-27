@@ -1,1 +1,1 @@
-var mnemonic = "fold base web track novel gold always action inject hazard knock hat";
+var mnemonic = "language expire fox series owner lemon syrup dilemma brother travel crouch assume";

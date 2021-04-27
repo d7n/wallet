@@ -1,1 +1,1 @@
-var mnemonic = "canvas joke torch inflict subway hole gaze aisle cloud stage chimney boat";
+var mnemonic = "extra genre health sword wolf jazz sponsor habit sibling shrimp embrace brick";

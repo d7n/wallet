@@ -1,1 +1,1 @@
-var mnemonic = "onion wait cousin silver sponsor reward news news cloth verify cluster trick";
+var mnemonic = "inner merry gain tortoise vital crouch walk flower very stove noodle barely";

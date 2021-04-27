@@ -1,1 +1,1 @@
-var mnemonic = "verb slot drum gap dust win proof local police decade gas man";
+var mnemonic = "casual holiday giant mind antique kangaroo rotate minimum jaguar that cancel comfort";

@@ -1,1 +1,1 @@
-var mnemonic = "endless cause salute oyster artefact talk age brass climb churn marine script";
+var mnemonic = "idle banner leave upon truly decorate initial shrug clump subway apology fox";

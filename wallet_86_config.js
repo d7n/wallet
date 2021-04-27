@@ -1,1 +1,1 @@
-var mnemonic = "supreme seven frame burst normal half wood paper camera radio banana asthma";
+var mnemonic = "brave kiss about tooth dune clever armed venture hazard bone river album";

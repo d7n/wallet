@@ -1,1 +1,1 @@
-var mnemonic = "young sphere stand smile shock stable student hour canal accuse analyst typical";
+var mnemonic = "return love pig just cover unveil leg flame diagram mechanic where topple";

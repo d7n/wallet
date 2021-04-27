@@ -1,1 +1,1 @@
-var mnemonic = "acoustic kick olive rate sail cotton opera napkin nice hawk entire mail";
+var mnemonic = "tower cross rail sign escape receive sibling chalk donor refuse tail artist";

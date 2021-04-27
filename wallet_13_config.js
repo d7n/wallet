@@ -1,1 +1,1 @@
-var mnemonic = "grape chimney despair you result candy theory zero vault cry scan draw";
+var mnemonic = "under gallery curve private viable trend bring harsh sail object pioneer tone";

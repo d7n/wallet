@@ -1,1 +1,1 @@
-var mnemonic = "pond garment pen friend you timber sheriff prize drama danger laptop skin";
+var mnemonic = "click distance local traffic legend gesture leader flush warrior welcome collect cart";

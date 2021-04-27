@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo course ordinary eternal naive face dignity sort owner multiply immense daughter";
+var mnemonic = "merit name master liar slight candy permit robot culture furnace assist alter";

@@ -1,1 +1,1 @@
-var mnemonic = "walnut omit belt furnace attitude dance elegant citizen couch enlist erase silk";
+var mnemonic = "stand begin prison ribbon cross please distance defense man side radio misery";

@@ -1,1 +1,1 @@
-var mnemonic = "plunge apart solution bag shift share fan own suffer whale pulp sorry";
+var mnemonic = "hurt carry network drum olive slam riot radio lift shock ensure whale";

@@ -1,1 +1,1 @@
-var mnemonic = "leave good topple myself uncover birth scene power smoke stuff climb upper";
+var mnemonic = "daughter deposit drum receive jeans apart valid indicate dress room illegal design";

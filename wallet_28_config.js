@@ -1,1 +1,1 @@
-var mnemonic = "recycle impact original size column collect avoid about elbow oyster same mobile";
+var mnemonic = "slogan plunge truth shop ethics catalog mango raccoon mean lunar velvet novel";

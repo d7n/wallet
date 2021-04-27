@@ -1,1 +1,1 @@
-var mnemonic = "thank smart exercise donor rate hover gas trigger battle bless job message";
+var mnemonic = "long simple wasp reveal barely palm home minute canyon stomach mosquito possible";
