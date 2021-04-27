@@ -1,1 +1,1 @@
-var mnemonic = "leader one sudden crunch logic forget nothing critic net build magnet wolf";
+var mnemonic = "axis proof upon pull split gasp recipe diary canoe town art toward";

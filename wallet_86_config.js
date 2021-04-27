@@ -1,1 +1,1 @@
-var mnemonic = "venture mansion curious phone force bacon eager pact endless plastic tenant hero";
+var mnemonic = "elite derive rely lens object enable decade cabbage jeans flat knock rhythm";

@@ -1,1 +1,1 @@
-var mnemonic = "flame faint rigid spy flash sauce found organ differ vocal cake desert";
+var mnemonic = "warrior virtual unhappy plate solid busy velvet menu oval someone ship inform";

@@ -1,1 +1,1 @@
-var mnemonic = "negative suggest ramp enact double change celery cover scout easy power runway";
+var mnemonic = "mouse govern tenant slice match square purchase liquid enhance dragon wire effort";

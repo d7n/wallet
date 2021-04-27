@@ -1,1 +1,1 @@
-var mnemonic = "organ asthma iron tragic ceiling faint genius ride inspire drip maximum boat";
+var mnemonic = "tunnel aware horror brain company body bottom purchase select barely sport measure";

@@ -1,1 +1,1 @@
-var mnemonic = "garment online year coil winter ten hunt smile misery mom enter gift";
+var mnemonic = "nice give code virus decorate cage awful best divorce kid spin allow";

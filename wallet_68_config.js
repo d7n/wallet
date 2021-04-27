@@ -1,1 +1,1 @@
-var mnemonic = "luxury quit ghost orbit public carbon embark comfort garlic tone pigeon worry";
+var mnemonic = "unlock inform okay attitude girl cotton gloom such mountain town trumpet divorce";

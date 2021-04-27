@@ -1,1 +1,1 @@
-var mnemonic = "armor spoon behind biology man glory diary use chair manual abandon assist";
+var mnemonic = "iron tongue bleak define museum crunch erase rib laundry punch scrap wool";

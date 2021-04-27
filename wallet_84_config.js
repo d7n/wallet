@@ -1,1 +1,1 @@
-var mnemonic = "feel borrow anchor deal blood require catalog vacuum can plunge assist define";
+var mnemonic = "stamp eye arrest keen half dwarf brown above still portion suffer muffin";

@@ -1,1 +1,1 @@
-var mnemonic = "topic farm idle tiger pipe season black bleak market foot learn main";
+var mnemonic = "august degree destroy program earn chase theory energy film country tooth insect";

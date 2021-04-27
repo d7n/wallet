@@ -1,1 +1,1 @@
-var mnemonic = "dragon hidden where multiply embark act deposit copy lecture bottom eye keen";
+var mnemonic = "toward syrup learn dice sorry beef symptom antique quality ring solid food";

@@ -1,1 +1,1 @@
-var mnemonic = "basic gauge random potato enter rice menu anxiety claim solve orient exclude";
+var mnemonic = "attitude duck enlist sting gorilla green purse convince daughter crawl radio broom";

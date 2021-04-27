@@ -1,1 +1,1 @@
-var mnemonic = "idle joy fire lonely kitchen keen tornado shy reject science salmon twist";
+var mnemonic = "ripple dose perfect mountain ask seat check surface satisfy license fury away";

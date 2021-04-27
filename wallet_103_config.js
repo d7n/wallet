@@ -1,1 +1,1 @@
-var mnemonic = "ancient picnic circle retire jewel river student middle sun choose often empty";
+var mnemonic = "robust where claim pizza industry pig ill autumn flash phrase female later";

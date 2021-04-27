@@ -1,1 +1,1 @@
-var mnemonic = "crop zero phone depth core ketchup gift tail guitar mixed yard planet";
+var mnemonic = "table tourist bachelor image fatal universe boat cheap awake erode blind situate";

@@ -1,1 +1,1 @@
-var mnemonic = "clerk museum wood window balcony food pizza dust sad leg unlock maid";
+var mnemonic = "ahead alter elevator pet image proof ribbon actual city live strike answer";

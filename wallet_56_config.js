@@ -1,1 +1,1 @@
-var mnemonic = "holiday group chat entire stove praise dwarf only merit season marriage claim";
+var mnemonic = "clinic avocado garage prize mammal fence scatter unfair anxiety maple similar gloom";

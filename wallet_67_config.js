@@ -1,1 +1,1 @@
-var mnemonic = "crush business sign parent melt mansion burden vibrant myth stock salon smoke";
+var mnemonic = "brush rabbit oil conduct injury bicycle people vendor build window treat yellow";

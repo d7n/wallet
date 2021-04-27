@@ -1,1 +1,1 @@
-var mnemonic = "security abandon wrap picture increase unaware cry bottom miracle egg damage announce";
+var mnemonic = "raw seven note alter perfect vanish shield kingdom access crawl bamboo forward";

@@ -1,1 +1,1 @@
-var mnemonic = "silent lift loan make present mirror matrix banana awful view settle notable";
+var mnemonic = "twice wear spare cupboard glance fire shield elite board palace mail deer";

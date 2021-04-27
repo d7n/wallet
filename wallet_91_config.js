@@ -1,1 +1,1 @@
-var mnemonic = "error hybrid chronic include load avoid odor sunny weird bamboo involve wool";
+var mnemonic = "unusual offer valve trophy market pluck record hotel across twenty kite sleep";

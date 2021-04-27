@@ -1,1 +1,1 @@
-var mnemonic = "zone diamond screen winner deposit jacket sunset riot rail mansion strong found";
+var mnemonic = "smile birth raccoon carpet cube west ketchup give ordinary upper forum border";

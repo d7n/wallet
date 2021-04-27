@@ -1,1 +1,1 @@
-var mnemonic = "age avoid actor vicious crew fun dawn giraffe fee pony bulb hello";
+var mnemonic = "load end champion wine eyebrow across boil private random man borrow balance";

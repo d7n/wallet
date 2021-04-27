@@ -1,1 +1,1 @@
-var mnemonic = "raccoon rude symptom script divert zoo draft crop north glimpse toward acid";
+var mnemonic = "mercy genuine glass traffic wash later modify pen gadget shy quick athlete";

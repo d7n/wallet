@@ -1,1 +1,1 @@
-var mnemonic = "month hint act pause wheat sure crane only border couple blouse weapon";
+var mnemonic = "frown adjust current client plug lottery cinnamon dish sustain siren pill input";

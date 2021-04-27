@@ -1,1 +1,1 @@
-var mnemonic = "pulp field deputy public mesh ritual property armed pool flee comic program";
+var mnemonic = "width peasant light weapon shy desert few junior welcome age disorder until";

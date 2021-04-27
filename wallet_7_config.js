@@ -1,1 +1,1 @@
-var mnemonic = "correct vibrant say initial pair sun indicate skate series pig fan child";
+var mnemonic = "comic mango dice act awkward west diesel sell annual square forward light";

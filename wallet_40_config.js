@@ -1,1 +1,1 @@
-var mnemonic = "above friend try foil like hospital oxygen sound convince fatal reunion luggage";
+var mnemonic = "sea rose tuna rose pair bundle wet viable random jeans purse curtain";

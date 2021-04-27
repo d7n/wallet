@@ -1,1 +1,1 @@
-var mnemonic = "benefit cube slow wine blame aisle horror evidence amused silly viable beach";
+var mnemonic = "surprise maze junk van alarm kiss short option unknown artist situate dwarf";

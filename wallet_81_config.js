@@ -1,1 +1,1 @@
-var mnemonic = "clerk horn body buddy flag exhibit artefact empty rigid fix raven steak";
+var mnemonic = "tumble strike lunar happy spy verify exile film industry enable alcohol skin";

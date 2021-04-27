@@ -1,1 +1,1 @@
-var mnemonic = "help buffalo hurry medal lumber misery prefer shadow place thing glove beach";
+var mnemonic = "reveal flush enable banner pitch client shift welcome credit rug dream maximum";

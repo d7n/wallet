@@ -1,1 +1,1 @@
-var mnemonic = "notice endless eager gap unfair banner nest provide green spin chunk raw";
+var mnemonic = "current silver eternal door must dynamic course plate hello initial engage alert";

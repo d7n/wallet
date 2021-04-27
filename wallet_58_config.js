@@ -1,1 +1,1 @@
-var mnemonic = "picture maximum dry shield scare sweet include device advance tribe spatial pupil";
+var mnemonic = "wire wage scrap meadow hazard excite talk issue recipe vessel wave pluck";

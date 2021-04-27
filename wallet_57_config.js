@@ -1,1 +1,1 @@
-var mnemonic = "fossil crazy web cloud mechanic toilet absorb cricket toward shell spin eight";
+var mnemonic = "there rail dove today injury trade double uncover aware ball front weapon";

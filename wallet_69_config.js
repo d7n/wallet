@@ -1,1 +1,1 @@
-var mnemonic = "festival sadness spoon derive lecture steak junior task alien cliff bulk proud";
+var mnemonic = "pizza claim topple text print among praise divide harvest caught monkey shift";

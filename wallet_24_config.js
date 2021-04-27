@@ -1,1 +1,1 @@
-var mnemonic = "notable indoor ostrich trip wheel dress horror inspire wonder decorate borrow business";
+var mnemonic = "juice prosper mystery arrest depth merit invest chest update urban sadness return";

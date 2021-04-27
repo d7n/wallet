@@ -1,1 +1,1 @@
-var mnemonic = "photo above blur saddle any zebra melody economy ability area alcohol push";
+var mnemonic = "open agree language raise entire mention insect area spread tent wagon move";

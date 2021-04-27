@@ -1,1 +1,1 @@
-var mnemonic = "damp umbrella fancy window awake twice group hotel wolf observe lobster scare";
+var mnemonic = "senior canoe portion explain range cash bean profit annual destroy decorate robot";

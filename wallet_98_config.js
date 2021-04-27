@@ -1,1 +1,1 @@
-var mnemonic = "cat risk venue rookie gorilla then owner system elite glove net deal";
+var mnemonic = "screen post human equip hard elevator road close amazing original strong citizen";

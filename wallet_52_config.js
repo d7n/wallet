@@ -1,1 +1,1 @@
-var mnemonic = "wasp gas tuna obvious twelve transfer supreme describe reform horse portion oblige";
+var mnemonic = "design mechanic machine coil misery grain minute gym second lumber prepare river";

@@ -1,1 +1,1 @@
-var mnemonic = "biology dirt federal indoor gold flower post upgrade squirrel average chalk fox";
+var mnemonic = "carpet door piano state fortune achieve critic now carry advance stage various";

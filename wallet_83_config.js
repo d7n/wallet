@@ -1,1 +1,1 @@
-var mnemonic = "bird silly wonder often raven shadow enrich duck galaxy rail length burger";
+var mnemonic = "crystal brain half naive tower soda oblige unusual loan admit misery poverty";

@@ -1,1 +1,1 @@
-var mnemonic = "accuse obey cable grace atom small amount stadium blast intact clump because";
+var mnemonic = "garlic issue pave room cabin birth deal main carbon fancy tired maid";

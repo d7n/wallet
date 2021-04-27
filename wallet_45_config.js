@@ -1,1 +1,1 @@
-var mnemonic = "dilemma omit traffic identify cruise music kid script inhale during syrup apart";
+var mnemonic = "sword diamond scrub board word wear tuna lyrics inner carbon face buyer";

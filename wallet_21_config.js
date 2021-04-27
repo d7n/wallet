@@ -1,1 +1,1 @@
-var mnemonic = "egg resist symbol agree dizzy spread alpha grit furnace story rare nasty";
+var mnemonic = "moment combine super metal panic image critic smile hour nation snake boat";

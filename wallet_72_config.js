@@ -1,1 +1,1 @@
-var mnemonic = "mercy author hand faith girl nose indicate fix grid piano night fox";
+var mnemonic = "detail guard mammal dolphin matter own end invest neither smooth attract two";

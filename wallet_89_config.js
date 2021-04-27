@@ -1,1 +1,1 @@
-var mnemonic = "pottery filter divert fire topic reflect trust pool kitchen century armor report";
+var mnemonic = "laptop swarm clutch essence outdoor vacuum strike knee connect void coyote dog";

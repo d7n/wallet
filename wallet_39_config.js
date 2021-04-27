@@ -1,1 +1,1 @@
-var mnemonic = "diamond culture north comfort baby include notice hen glory engine hole also";
+var mnemonic = "humor skate imitate disorder service roast amused escape talent area solution panic";

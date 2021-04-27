@@ -1,1 +1,1 @@
-var mnemonic = "fly riot aunt wink lift foot sunset private coyote fitness panther field";
+var mnemonic = "rotate else school beauty index bench service table sadness ritual weather donkey";

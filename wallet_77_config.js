@@ -1,1 +1,1 @@
-var mnemonic = "nephew salad method smile hollow question upgrade tank spy wing midnight cotton";
+var mnemonic = "host bean october endorse shiver faculty uncle screen omit correct shoe pyramid";

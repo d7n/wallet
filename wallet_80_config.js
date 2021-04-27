@@ -1,1 +1,1 @@
-var mnemonic = "distance chapter mountain senior menu car swift normal physical reflect race danger";
+var mnemonic = "tired earth school brass parade fuel tag work muffin toddler mom infant";

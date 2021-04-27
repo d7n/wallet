@@ -1,1 +1,1 @@
-var mnemonic = "own panda pen uphold immune diary volume clump advice alley kitten demand";
+var mnemonic = "oak access novel nature party skirt album right market coyote suggest balcony";

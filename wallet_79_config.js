@@ -1,1 +1,1 @@
-var mnemonic = "cruise beyond knee cotton price now hold pony market ability discover trash";
+var mnemonic = "provide pink disagree immune lemon casino benefit disorder silk front ensure absent";

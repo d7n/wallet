@@ -1,1 +1,1 @@
-var mnemonic = "because combine void rapid gift solid into undo reason pledge alcohol crisp";
+var mnemonic = "dash drill gossip brush hat gold drama sister meat advice release relax";

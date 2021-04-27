@@ -1,1 +1,1 @@
-var mnemonic = "fee corn remove monkey ready video slight lock annual must enjoy same";
+var mnemonic = "siren peace wait zero sunny move cherry together ghost lunch baby ramp";

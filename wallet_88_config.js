@@ -1,1 +1,1 @@
-var mnemonic = "panther submit crew car apart six media vocal guard ask relief veteran";
+var mnemonic = "loud dream dose push pledge exile sail cruise roof anchor science glare";

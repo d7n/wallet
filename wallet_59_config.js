@@ -1,1 +1,1 @@
-var mnemonic = "just emotion element soldier peanut frost tonight pyramid glide evidence much clarify";
+var mnemonic = "cigar decrease glimpse potato collect burst ethics wave future grass gloom pig";

@@ -1,1 +1,1 @@
-var mnemonic = "creek decrease salon note tiny swear awesome explain pill enhance burden february";
+var mnemonic = "start reject dirt harsh slow damage flee stable movie skill viable fee";

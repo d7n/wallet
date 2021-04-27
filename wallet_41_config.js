@@ -1,1 +1,1 @@
-var mnemonic = "polar caught accuse attack solar sight divide anger under luxury industry consider";
+var mnemonic = "topic script report trial cabbage core ketchup puzzle garage fault loyal cousin";

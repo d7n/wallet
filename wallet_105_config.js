@@ -1,1 +1,1 @@
-var mnemonic = "toe brick govern eternal arrange proof fix rice boring stomach enjoy way";
+var mnemonic = "horn party original buzz deal dry cheap grass diagram color sight seven";

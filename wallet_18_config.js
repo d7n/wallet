@@ -1,1 +1,1 @@
-var mnemonic = "say dragon common snack trip initial bless palm sister actress spot later";
+var mnemonic = "outer initial situate link poem circle song develop drama admit rifle effort";

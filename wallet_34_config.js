@@ -1,1 +1,1 @@
-var mnemonic = "topple brother honey unable mountain pill suffer tourist avoid scatter thunder another";
+var mnemonic = "term blur prevent insane sugar broccoli inner furnace segment decide trial wasp";

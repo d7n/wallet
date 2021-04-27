@@ -1,1 +1,1 @@
-var mnemonic = "actor other mushroom attack height attract proof library cattle knee easy swamp";
+var mnemonic = "ugly nose abstract wild steak author damp song nerve silver valve slim";

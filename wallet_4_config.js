@@ -1,1 +1,1 @@
-var mnemonic = "demise demise outdoor fiscal alcohol swim acid early chalk bean van climb";
+var mnemonic = "tray sun install actor snack tide muffin concert detail picnic armor tag";

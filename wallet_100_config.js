@@ -1,1 +1,1 @@
-var mnemonic = "cage chronic milk dilemma hospital innocent shrug receive age truth angry scheme";
+var mnemonic = "scene meat cotton crouch oppose deer method umbrella business rent fog gauge";

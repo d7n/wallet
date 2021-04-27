@@ -1,1 +1,1 @@
-var mnemonic = "train swallow veteran cross monster install point dune combine crisp soon wrong";
+var mnemonic = "primary kingdom rice artist eye spend margin success protect immune addict grief";

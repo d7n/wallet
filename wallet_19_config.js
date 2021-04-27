@@ -1,1 +1,1 @@
-var mnemonic = "coast flavor wood energy caution raven exact leaf grid fame coyote what";
+var mnemonic = "dismiss multiply dad velvet vibrant bachelor already suffer palace city oval album";

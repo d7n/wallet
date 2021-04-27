@@ -1,1 +1,1 @@
-var mnemonic = "upset almost lottery enhance tree pig offer cool happy raw field soldier";
+var mnemonic = "basic suggest margin laugh shy leg wrong general must method erupt famous";

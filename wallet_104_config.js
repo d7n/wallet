@@ -1,1 +1,1 @@
-var mnemonic = "smart voyage ginger recycle buddy glass miracle wheat dragon speed snap grape";
+var mnemonic = "toast huge embody awful resist pill glue write fade resemble buyer chapter";

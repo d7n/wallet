@@ -1,1 +1,1 @@
-var mnemonic = "spirit bar abuse observe dirt custom cycle input settle grunt category essence";
+var mnemonic = "toss mass unfair load sketch glue elbow arctic suit tilt mail sample";

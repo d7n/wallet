@@ -1,1 +1,1 @@
-var mnemonic = "boost parade aware session iron delay width property math because month ticket";
+var mnemonic = "today trip hood ethics vacant cereal lumber artist slim public shallow borrow";

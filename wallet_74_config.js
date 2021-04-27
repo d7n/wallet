@@ -1,1 +1,1 @@
-var mnemonic = "useful judge pink record just wrong essence critic diagram kitchen sunset very";
+var mnemonic = "spin candy stereo certain crime lumber before woman clever real disagree little";

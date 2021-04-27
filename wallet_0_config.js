@@ -1,1 +1,1 @@
-var mnemonic = "surge slab logic plunge lawsuit exist system build country hybrid solve toward";
+var mnemonic = "hundred roof modify approve pen village can thing marine mercy access vivid";

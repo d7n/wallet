@@ -1,1 +1,1 @@
-var mnemonic = "symptom satoshi vendor air merge weird knock exile tell yellow garden black";
+var mnemonic = "plastic gesture forest section country track long enrich mad scrub stairs pioneer";

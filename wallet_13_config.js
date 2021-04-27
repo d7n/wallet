@@ -1,1 +1,1 @@
-var mnemonic = "tray prize depart rent forum worry vintage lock else draft meat crouch";
+var mnemonic = "dune ensure scout embark prize census differ foot gaze aunt only pass";

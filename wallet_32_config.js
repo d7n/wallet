@@ -1,1 +1,1 @@
-var mnemonic = "section monitor figure about suffer display cash lizard lunch skin document news";
+var mnemonic = "agent fold ceiling poem humble siege black lunar garden strategy raven amazing";

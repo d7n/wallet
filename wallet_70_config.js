@@ -1,1 +1,1 @@
-var mnemonic = "rifle speed way diagram dolphin improve arm elevator spirit satisfy cigar creek";
+var mnemonic = "sing shuffle essence tube enough toward erosion common submit garage amateur merry";

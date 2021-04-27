@@ -1,1 +1,1 @@
-var mnemonic = "weekend topple suggest dice intact brisk cost auto illness vendor mad toast";
+var mnemonic = "view ugly approve will bright club unaware unaware short quantum save oval";

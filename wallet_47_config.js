@@ -1,1 +1,1 @@
-var mnemonic = "carry later gun hungry subject kick wall budget entire interest order original";
+var mnemonic = "couch nature swift club page detect cover law fall awake raw receive";

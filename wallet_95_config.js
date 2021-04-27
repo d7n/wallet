@@ -1,1 +1,1 @@
-var mnemonic = "build damp evidence boy crush autumn curtain trial faint mushroom alcohol tuition";
+var mnemonic = "uncle rely screen culture catalog keep stadium luxury strong mouse oppose amused";

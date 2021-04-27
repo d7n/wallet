@@ -1,1 +1,1 @@
-var mnemonic = "phone never switch sure amazing repair thunder sand subway domain what since";
+var mnemonic = "purse pluck basic alarm truck swing shoe aisle logic work relief pistol";

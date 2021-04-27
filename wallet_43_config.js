@@ -1,1 +1,1 @@
-var mnemonic = "sell connect same kidney top salt venue trust anxiety picture order brush";
+var mnemonic = "frog course other country unusual equal puppy rate horn depart border rate";

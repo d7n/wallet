@@ -1,1 +1,1 @@
-var mnemonic = "guess leg clump loan vanish love pass badge state script salad finish";
+var mnemonic = "canyon bundle glass basket earn festival mention conduct consider parade zebra thank";

@@ -1,1 +1,1 @@
-var mnemonic = "swift month reward wait cushion bind joy teach outside grass october hold";
+var mnemonic = "lottery plunge diary final draw march tourist buyer crowd vendor huge glove";

@@ -1,1 +1,1 @@
-var mnemonic = "radar decorate fish village minor service orchard renew found miss member among";
+var mnemonic = "balance various art very suspect detail already quarter negative venture display spell";

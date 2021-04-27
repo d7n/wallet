@@ -1,1 +1,1 @@
-var mnemonic = "talk useful suffer best yellow section regular into enforce motion dilemma view";
+var mnemonic = "emerge perfect cloth escape stable sadness manual medal drive glow upper unhappy";

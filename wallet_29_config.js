@@ -1,1 +1,1 @@
-var mnemonic = "involve worry hold inquiry famous mean monitor skate problem echo recycle carry";
+var mnemonic = "powder swamp pyramid shift invest clock fuel sock erode tower broken essay";

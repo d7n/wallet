@@ -1,1 +1,1 @@
-var mnemonic = "gadget tone search icon hood fit few ripple thrive school average feed";
+var mnemonic = "rebel enjoy rapid shaft lottery cheese spy spice print never south upper";

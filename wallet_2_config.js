@@ -1,1 +1,1 @@
-var mnemonic = "shrug proud tone emerge network height topple protect kind copy tuna indoor";
+var mnemonic = "frost ladder cigar surround armed vibrant phrase sniff plastic firm still ceiling";

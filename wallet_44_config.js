@@ -1,1 +1,1 @@
-var mnemonic = "myth share turkey near tone firm brush exhibit judge enroll tooth soccer";
+var mnemonic = "script thrive average afford auction oyster annual connect absorb useful forward notice";

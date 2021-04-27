@@ -1,1 +1,1 @@
-var mnemonic = "scheme crisp buddy dentist curious once insane intact cupboard dumb pass that";
+var mnemonic = "bubble warrior flash viable mercy another pitch frame total oven rose theme";

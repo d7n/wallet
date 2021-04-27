@@ -1,1 +1,1 @@
-var mnemonic = "coil rude satoshi render provide crazy wrong viable parade girl machine help";
+var mnemonic = "move note treat this blouse inhale science heavy couple slot car gallery";

@@ -1,1 +1,1 @@
-var mnemonic = "impact town birth talent result afford nominee bridge access thumb rural frost";
+var mnemonic = "kitten turn jungle bus library design refuse cable current spy evolve sword";

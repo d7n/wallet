@@ -1,1 +1,1 @@
-var mnemonic = "warfare process bunker review wish super speed gun category run when agree";
+var mnemonic = "link taxi bus ski diary trophy swing cactus all mixture easily moon";
