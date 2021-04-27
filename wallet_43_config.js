@@ -1,1 +1,1 @@
-var mnemonic = "inherit month decrease kiwi gun boil roast camp tool turtle warrior stand";
+var mnemonic = "identify globe produce pelican gossip piano evoke wheat foster arm service crazy";

@@ -1,1 +1,1 @@
-var mnemonic = "mango choice tuition bench abandon maid sun cargo help glory stand join";
+var mnemonic = "ghost room cool pool flower update vendor music cheese wage term gaze";

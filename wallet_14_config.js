@@ -1,1 +1,1 @@
-var mnemonic = "pool connect trap autumn young wet atom wasp abandon address pelican improve";
+var mnemonic = "black cause degree zebra region spare oyster mule please rude indoor jazz";

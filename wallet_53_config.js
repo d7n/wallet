@@ -1,1 +1,1 @@
-var mnemonic = "number turn promote verb phrase program aim grain undo round sleep negative";
+var mnemonic = "relax hunt faith pair obey dutch obey reflect helmet receive virtual honey";

@@ -1,1 +1,1 @@
-var mnemonic = "color trust ice equal chapter negative split course unknown afford exclude season";
+var mnemonic = "young pledge obvious peace suffer delay they rose return wall model dragon";

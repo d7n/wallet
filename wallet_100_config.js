@@ -1,1 +1,1 @@
-var mnemonic = "finger age page super process pair lottery mobile innocent witness trust marriage";
+var mnemonic = "gentle cactus grit try genre jazz such tell cheese guess beauty broken";

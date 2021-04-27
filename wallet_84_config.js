@@ -1,1 +1,1 @@
-var mnemonic = "close napkin sleep force fiction call blossom predict belt brass decrease donate";
+var mnemonic = "february picture swap fringe arctic security horn violin any camera daughter liquid";

@@ -1,1 +1,1 @@
-var mnemonic = "toward bread runway enough tragic draft beef demand board access immune fossil";
+var mnemonic = "peace matter repeat annual scan fortune quick update broom elbow subject hunt";

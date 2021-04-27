@@ -1,1 +1,1 @@
-var mnemonic = "tag sound perfect clean lazy civil enhance lawn parrot lab assume job";
+var mnemonic = "resist orient security stem wolf main cake option problem fog fly retreat";

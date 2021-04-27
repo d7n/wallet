@@ -1,1 +1,1 @@
-var mnemonic = "reason middle seek gun seven grant diesel supreme laundry giraffe grass whisper";
+var mnemonic = "setup dash cry charge furnace trend mesh hub shed strong save excuse";

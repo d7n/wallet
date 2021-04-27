@@ -1,1 +1,1 @@
-var mnemonic = "topic safe prize old author begin two ready loan code flag whale";
+var mnemonic = "upon century quality bone dumb unique pond pumpkin proof rule modify wait";

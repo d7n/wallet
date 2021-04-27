@@ -1,1 +1,1 @@
-var mnemonic = "nurse soccer tribe magnet amused seed boss slot garden talent churn smart";
+var mnemonic = "prevent flash flock lizard fame garage pink involve soda sad large undo";

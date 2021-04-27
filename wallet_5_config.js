@@ -1,1 +1,1 @@
-var mnemonic = "boss museum raw melt resist friend stuff cover bless admit staff girl";
+var mnemonic = "embrace book merge split enter direct mushroom warm spare zoo square future";

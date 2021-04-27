@@ -1,1 +1,1 @@
-var mnemonic = "flush fever trial moment lake injury student broken twelve real gospel gold";
+var mnemonic = "donate sustain basket spoon wink harvest truth invest benefit insane tackle pear";

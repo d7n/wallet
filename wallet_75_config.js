@@ -1,1 +1,1 @@
-var mnemonic = "explain junk reunion gloom evolve expand consider spend father month salon parrot";
+var mnemonic = "refuse that panther present sniff label direct race evil million stage absent";

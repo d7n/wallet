@@ -1,1 +1,1 @@
-var mnemonic = "elder tennis tower april raven fortune mandate glare fetch fold oxygen general";
+var mnemonic = "humor knock glance inmate betray swap sound attract pulse upset pledge transfer";

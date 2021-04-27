@@ -1,1 +1,1 @@
-var mnemonic = "pulse recycle movie rebuild stay dish sight very cheap wrestle until occur";
+var mnemonic = "burger expect heavy keep sell history idle demise robot list december try";

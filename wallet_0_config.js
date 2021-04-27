@@ -1,1 +1,1 @@
-var mnemonic = "evoke spell butter mirror skin brush leader injury daring acid globe rack";
+var mnemonic = "surface tumble lonely only immense rent chimney problem find lens cost diet";

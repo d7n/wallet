@@ -1,1 +1,1 @@
-var mnemonic = "onion actor parade copy cliff humor protect notice soul orphan absent raven";
+var mnemonic = "tenant fatigue trash member thunder slight pair roof toddler prevent certain panther";

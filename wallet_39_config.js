@@ -1,1 +1,1 @@
-var mnemonic = "review nose plunge era favorite potato fish moral banner used whisper usage";
+var mnemonic = "write great pluck suggest wagon rice verify pilot aware roast boost loop";

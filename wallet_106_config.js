@@ -1,1 +1,1 @@
-var mnemonic = "love vehicle reveal winter elite jar destroy cupboard pepper badge piece kite";
+var mnemonic = "wild oven convince trash inmate hamster spare now foam math quick wrestle";

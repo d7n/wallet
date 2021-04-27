@@ -1,1 +1,1 @@
-var mnemonic = "divorce trigger exile umbrella mention couch brother wish leopard inform frame salmon";
+var mnemonic = "used priority lumber quiz analyst umbrella royal task dilemma sunny quiz enact";

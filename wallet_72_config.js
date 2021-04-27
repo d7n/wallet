@@ -1,1 +1,1 @@
-var mnemonic = "border fashion belt turkey coconut host resource skull dynamic boring salt cave";
+var mnemonic = "oyster chimney design rural educate model gaze amateur cattle forum lawsuit shed";

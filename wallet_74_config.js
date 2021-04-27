@@ -1,1 +1,1 @@
-var mnemonic = "course venture monitor concert useful sausage improve bonus pretty express order seat";
+var mnemonic = "wrist earn nurse snake seven lobster frown depth olympic bitter accident stumble";

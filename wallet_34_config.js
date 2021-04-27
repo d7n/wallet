@@ -1,1 +1,1 @@
-var mnemonic = "castle vicious monster uniform enemy member tackle thumb butter modify spare cover";
+var mnemonic = "midnight access maximum culture exchange inform tongue monitor fashion loop clean mobile";

@@ -1,1 +1,1 @@
-var mnemonic = "potato any news thought grab where aisle latin toilet usage scare forest";
+var mnemonic = "frame bone asthma timber crisp hip crunch fetch lens ghost strategy fit";

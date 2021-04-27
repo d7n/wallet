@@ -1,1 +1,1 @@
-var mnemonic = "marine diet analyst absorb this harbor embody beauty alarm bean benefit shuffle";
+var mnemonic = "deposit develop online draft flat bacon strong parade traffic involve reform prevent";

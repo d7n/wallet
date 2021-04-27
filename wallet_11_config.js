@@ -1,1 +1,1 @@
-var mnemonic = "spike drop lunch skill fiber upgrade nest trap gravity weasel bulb rough";
+var mnemonic = "profit local frame spin oblige mass furnace aspect wide bunker else still";

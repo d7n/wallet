@@ -1,1 +1,1 @@
-var mnemonic = "basket book chair fly bleak fury picnic mandate million cross alone thank";
+var mnemonic = "mimic robust auction inner solution under update fit paper office remember annual";

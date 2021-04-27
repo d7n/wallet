@@ -1,1 +1,1 @@
-var mnemonic = "mom banana frequent dinosaur focus puzzle piano fruit grant tooth ocean used";
+var mnemonic = "trust adapt autumn rough cram fun galaxy cousin turkey arrange appear perfect";

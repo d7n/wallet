@@ -1,1 +1,1 @@
-var mnemonic = "final amount use ladder baby clarify essence subway foster weapon gun spring";
+var mnemonic = "jeans purchase image auction hip type answer employ thumb soda acoustic faith";

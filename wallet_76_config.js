@@ -1,1 +1,1 @@
-var mnemonic = "vintage divert chaos drip tattoo logic trumpet project place wise input action";
+var mnemonic = "wrap craft display expose proof fragile calm monkey provide stomach noodle arrive";

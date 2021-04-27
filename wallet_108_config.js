@@ -1,1 +1,1 @@
-var mnemonic = "cabbage uncle drive duck friend trust slot color gauge radar achieve letter";
+var mnemonic = "agree vapor shoulder merry soldier coin pond evolve census demand pluck artefact";

@@ -1,1 +1,1 @@
-var mnemonic = "tattoo fresh chase steak network response track height notice birth clean dry";
+var mnemonic = "obtain input talent language tunnel chest domain deliver usual eagle huge diesel";

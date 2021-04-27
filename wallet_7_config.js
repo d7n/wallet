@@ -1,1 +1,1 @@
-var mnemonic = "ivory what believe long neglect affair cherry candy wet gun public open";
+var mnemonic = "fashion neglect submit attitude bunker behind chase season meat border crater own";

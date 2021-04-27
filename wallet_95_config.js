@@ -1,1 +1,1 @@
-var mnemonic = "rely oak attend property walnut flame stone talk ridge coin endorse category";
+var mnemonic = "hair husband taxi hollow dove angle roast deposit tip chunk sock author";

@@ -1,1 +1,1 @@
-var mnemonic = "month visa target oppose lunar ripple recall finish mystery tuna evil pass";
+var mnemonic = "hint cute depend siege fit case enforce supply raise inherit tragic air";

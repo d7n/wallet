@@ -1,1 +1,1 @@
-var mnemonic = "copy obtain caution casual web acquire motion kitchen garlic occur stock earn";
+var mnemonic = "subway tone huge say seed tackle stadium destroy crop emerge leaf impulse";

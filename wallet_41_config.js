@@ -1,1 +1,1 @@
-var mnemonic = "poet soldier thrive boat warm eyebrow have exhaust will modify effort unfold";
+var mnemonic = "sample enhance patrol shield lesson divert rate rapid ginger puzzle soap bulb";

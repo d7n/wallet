@@ -1,1 +1,1 @@
-var mnemonic = "prefer connect normal mandate park weasel actor major unable pelican weekend clay";
+var mnemonic = "curious hamster afford exile quick goddess mean general advance tongue green skull";

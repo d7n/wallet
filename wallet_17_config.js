@@ -1,1 +1,1 @@
-var mnemonic = "harvest tag actor minor hire busy scrub action sniff renew property beyond";
+var mnemonic = "close route flip sport original focus trend cram mistake wink insect electric";

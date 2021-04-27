@@ -1,1 +1,1 @@
-var mnemonic = "useless agent length shoot good film isolate cigar search either series trouble";
+var mnemonic = "abuse photo screen property iron section cereal tribe keep share expire clock";

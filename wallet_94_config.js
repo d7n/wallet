@@ -1,1 +1,1 @@
-var mnemonic = "chalk couch truly spring select setup modify stuff crawl match metal hope";
+var mnemonic = "banana wrestle suit proud curtain mirror milk zero aisle team miss solve";

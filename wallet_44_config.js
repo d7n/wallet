@@ -1,1 +1,1 @@
-var mnemonic = "profit logic model raise claw usage immense coin sight romance notice vintage";
+var mnemonic = "congress creek sing decide liberty axis bring august jaguar razor risk side";

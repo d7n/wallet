@@ -1,1 +1,1 @@
-var mnemonic = "riot shock army fiscal tattoo brass evidence transfer cube wrestle flush solar";
+var mnemonic = "stove member shell setup near quit nasty sure kind eagle analyst sign";

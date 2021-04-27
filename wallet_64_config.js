@@ -1,1 +1,1 @@
-var mnemonic = "loud reason garlic unveil own boat fresh weasel praise forget fragile much";
+var mnemonic = "apart quarter embody snap horse uphold actual hope company pizza era vague";

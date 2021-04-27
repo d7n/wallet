@@ -1,1 +1,1 @@
-var mnemonic = "pepper bench you chalk volcano pony split another skin federal inherit civil";
+var mnemonic = "wool video lawn warfare main critic all monster giraffe you assume truly";

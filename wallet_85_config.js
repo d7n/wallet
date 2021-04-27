@@ -1,1 +1,1 @@
-var mnemonic = "man gift actress hamster learn biology scatter sauce number worth file lamp";
+var mnemonic = "myth traffic luggage shed reduce captain mesh hub naive yellow assault engine";

@@ -1,1 +1,1 @@
-var mnemonic = "ask increase crack list brush summer define cube border raven jelly soul";
+var mnemonic = "flavor scatter unfair random found armed arrest grunt sleep daughter parent sock";

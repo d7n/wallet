@@ -1,1 +1,1 @@
-var mnemonic = "win stone absent tragic eagle favorite smile shell brisk cat certain icon";
+var mnemonic = "census educate universe together liar hood earn inhale lottery law junior need";

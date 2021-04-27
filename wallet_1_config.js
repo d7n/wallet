@@ -1,1 +1,1 @@
-var mnemonic = "capable eight foil thought acoustic vessel purity acid poet course tattoo panic";
+var mnemonic = "limit velvet nephew rabbit garment modify only common hazard trash save horn";

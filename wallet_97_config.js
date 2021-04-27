@@ -1,1 +1,1 @@
-var mnemonic = "arrive infant outdoor alter similar can urban want already good nuclear ride";
+var mnemonic = "cushion roof tone topic runway ask express awkward valve buddy slight visa";

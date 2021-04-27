@@ -1,1 +1,1 @@
-var mnemonic = "detail claim birth spy question injury juice mean kingdom laugh exhaust cross";
+var mnemonic = "giant float patrol brother gesture razor unusual slice scale note sense vicious";

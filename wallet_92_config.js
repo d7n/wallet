@@ -1,1 +1,1 @@
-var mnemonic = "parent author trouble syrup minimum bread lazy scrap benefit still parade oppose";
+var mnemonic = "item stumble road group wrist kind fringe gallery alter evoke tired smile";

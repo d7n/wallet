@@ -1,1 +1,1 @@
-var mnemonic = "day drastic demand surprise glory harsh gym mimic vapor bicycle common crash";
+var mnemonic = "violin vote diet flash stage secret naive zebra soul daughter limb tortoise";

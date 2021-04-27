@@ -1,1 +1,1 @@
-var mnemonic = "detail advice sand strategy goat diary marriage card cream uncle chef advance";
+var mnemonic = "slim must often plug aspect finger tongue bacon denial poet business become";

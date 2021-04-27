@@ -1,1 +1,1 @@
-var mnemonic = "box world old dad decline pencil umbrella athlete depart eagle muscle wait";
+var mnemonic = "olympic setup van design cushion flame fine sadness steel cruise gas calm";

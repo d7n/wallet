@@ -1,1 +1,1 @@
-var mnemonic = "spare yellow cigar burden project beyond giant skirt subway concert suit wall";
+var mnemonic = "company lock enjoy copy feel stem black festival spike delay always rely";

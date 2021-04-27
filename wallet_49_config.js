@@ -1,1 +1,1 @@
-var mnemonic = "blind weekend hope casual right street math violin charge increase high giant";
+var mnemonic = "exile culture company toe risk symptom rose field cliff canal diamond hurt";

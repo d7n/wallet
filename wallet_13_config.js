@@ -1,1 +1,1 @@
-var mnemonic = "govern law together retire awkward lamp obvious monitor shed evolve page huge";
+var mnemonic = "actual aspect creek dress twelve jazz joy path syrup pretty language bronze";

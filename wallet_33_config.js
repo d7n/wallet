@@ -1,1 +1,1 @@
-var mnemonic = "catalog verify chair clap series better token return blind wasp inflict copper";
+var mnemonic = "aunt outdoor hawk impose defense because game about debris oppose stable used";

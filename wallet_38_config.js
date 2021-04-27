@@ -1,1 +1,1 @@
-var mnemonic = "return nephew slight refuse denial nature lecture salmon swamp detail baby exit";
+var mnemonic = "surface grape warfare jazz script hair find wood fantasy planet habit model";

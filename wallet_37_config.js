@@ -1,1 +1,1 @@
-var mnemonic = "puzzle valid illness kangaroo cherry craft rely arrange away ten reason west";
+var mnemonic = "vendor reason jelly invite mention pretty illegal cry exercise slice thunder danger";

@@ -1,1 +1,1 @@
-var mnemonic = "moon mind victory outdoor theme square matter skin suspect equip tomorrow battle";
+var mnemonic = "you cradle finish never six refuse solution diary mask explain sample hammer";

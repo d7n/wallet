@@ -1,1 +1,1 @@
-var mnemonic = "twin lottery cruise pony stay force buddy inquiry output sword advice tail";
+var mnemonic = "seed lounge spot swamp lab novel between ring picnic medal page either";

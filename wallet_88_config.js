@@ -1,1 +1,1 @@
-var mnemonic = "indoor enjoy refuse stay broken biology feel cross orange forum wrist kitten";
+var mnemonic = "food amazing over west drip fan exact loud fragile suit wasp world";

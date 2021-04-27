@@ -1,1 +1,1 @@
-var mnemonic = "parent snap slam crystal patrol spring north balance car liar modify labor";
+var mnemonic = "decorate tuna sing already upper slice unique accuse budget know enjoy bar";

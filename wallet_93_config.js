@@ -1,1 +1,1 @@
-var mnemonic = "give shrimp stuff energy half destroy crazy search sight milk into identify";
+var mnemonic = "burst walk clump poem other hand invest motion initial renew cancel silk";

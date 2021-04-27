@@ -1,1 +1,1 @@
-var mnemonic = "bulb celery bring focus breeze security shield welcome salon useful clap excess";
+var mnemonic = "relax traffic phone exact pitch punch census hat miss hurry east check";

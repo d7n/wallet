@@ -1,1 +1,1 @@
-var mnemonic = "vehicle poverty exclude wrong feed toe idle wisdom bitter side define crowd";
+var mnemonic = "budget veteran donkey north myself style debate style unveil actual exercise casual";

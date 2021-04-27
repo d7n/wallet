@@ -1,1 +1,1 @@
-var mnemonic = "educate already report push friend agree name entire enemy stool fruit salon";
+var mnemonic = "gift cinnamon pair ethics fog six shadow duck execute spray layer swamp";

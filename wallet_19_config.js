@@ -1,1 +1,1 @@
-var mnemonic = "host wide fix wasp flock nothing ship fall circle assume metal arena";
+var mnemonic = "model knee present promote error upset faith style inch quality flash hurry";

@@ -1,1 +1,1 @@
-var mnemonic = "series link option elephant smoke this photo cool alter domain submit frown";
+var mnemonic = "decide skin hat celery arrive alley mention egg december tornado picnic tiger";

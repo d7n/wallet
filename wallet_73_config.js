@@ -1,1 +1,1 @@
-var mnemonic = "sausage need estate endorse say region glory cream green price rain shove";
+var mnemonic = "giggle decade alter impulse require across swear mountain huge rain hybrid fox";

@@ -1,1 +1,1 @@
-var mnemonic = "tube goat december build horse autumn omit question segment load neutral lumber";
+var mnemonic = "expand hungry attract firm bottom lumber exotic pull orient tenant strike useful";

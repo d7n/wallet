@@ -1,1 +1,1 @@
-var mnemonic = "tuna secret erupt hawk desert ski host plate pond sketch absorb slush";
+var mnemonic = "moment close cave else carpet basket scale deny theory toilet fox dizzy";

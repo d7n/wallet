@@ -1,1 +1,1 @@
-var mnemonic = "absurd arrest matrix funny diagram awkward peace faint cannon clutch frown now";
+var mnemonic = "trade industry core grace manual embrace jacket exit gauge path coconut sunny";

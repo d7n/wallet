@@ -1,1 +1,1 @@
-var mnemonic = "asthma ginger scorpion dutch pink discover faith candy shiver evoke nature immense";
+var mnemonic = "weapon simple brave broom case van awake happy domain leg eyebrow width";

@@ -1,1 +1,1 @@
-var mnemonic = "demise response volcano embody follow broken tonight ordinary curve report glue sing";
+var mnemonic = "toddler captain file review error floor expand wrap zebra erupt seminar amused";

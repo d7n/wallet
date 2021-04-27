@@ -1,1 +1,1 @@
-var mnemonic = "anchor helmet only uphold pass three naive mirror elevator record rude blade";
+var mnemonic = "innocent office height mushroom tuna pony ghost into use caught garlic wait";

@@ -1,1 +1,1 @@
-var mnemonic = "adjust clip believe illegal exit chief absurd planet gauge intact laundry ability";
+var mnemonic = "round six improve mass ordinary amateur include stable nerve album left bitter";

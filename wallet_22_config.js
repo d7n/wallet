@@ -1,1 +1,1 @@
-var mnemonic = "inflict sick naive noodle long ethics injury feel jeans endless library toss";
+var mnemonic = "chapter bounce choice funny seminar dance nice veteran good come small cabbage";

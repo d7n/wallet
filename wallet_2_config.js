@@ -1,1 +1,1 @@
-var mnemonic = "canal normal neutral salute belt mention actor alien wool addict hurt thumb";
+var mnemonic = "endorse derive arm hero property secret feed feel client front diet solution";

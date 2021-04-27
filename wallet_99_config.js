@@ -1,1 +1,1 @@
-var mnemonic = "design meat tag visual inject accident feed buddy parent federal lizard rifle";
+var mnemonic = "proud ball december dilemma identify shove sauce topic believe comfort cable upset";

@@ -1,1 +1,1 @@
-var mnemonic = "verify cart laptop toward tree double hobby case dry kite future body";
+var mnemonic = "illegal issue garden uphold brain tonight abstract write flat farm history coffee";

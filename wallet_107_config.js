@@ -1,1 +1,1 @@
-var mnemonic = "decorate fiction video rib craft odor mercy husband burden cluster remove walk";
+var mnemonic = "six poem swamp multiply action romance culture buddy elephant become piano will";

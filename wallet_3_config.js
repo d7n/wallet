@@ -1,1 +1,1 @@
-var mnemonic = "skull menu skin choice coil target doctor rubber penalty junk script volcano";
+var mnemonic = "army panel forest lounge before fun inmate life oak amazing space shove";

@@ -1,1 +1,1 @@
-var mnemonic = "focus knife suggest balcony cycle neck weasel box once once evolve phone";
+var mnemonic = "skin absorb hire such wheat time spider good return joke equal athlete";

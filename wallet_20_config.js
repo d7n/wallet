@@ -1,1 +1,1 @@
-var mnemonic = "teach car brother only decide problem olive sketch good whip produce keep";
+var mnemonic = "rotate verb scare style found world trigger modify law banana fitness airport";

@@ -1,1 +1,1 @@
-var mnemonic = "rebuild custom know wing sure tray myself page economy foster agent vault";
+var mnemonic = "shy sniff again gravity mother fury rent come hold delay short giant";
