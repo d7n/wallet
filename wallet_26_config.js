@@ -1,1 +1,1 @@
-var mnemonic = "material nephew fortune roast market floor funny waste reward strike labor where";
+var mnemonic = "bargain utility ocean clap inside oppose method print width erase gentle shallow";

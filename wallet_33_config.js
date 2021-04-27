@@ -1,1 +1,1 @@
-var mnemonic = "response tobacco logic custom swarm wire have element ecology monster lounge pyramid";
+var mnemonic = "chat choice cigar allow provide deputy unique network lumber reveal pioneer double";

@@ -1,1 +1,1 @@
-var mnemonic = "enrich grab fold apart output faculty sell coffee jeans symbol dust juice";
+var mnemonic = "gossip excuse one skate fortune rally demand knife problem slender bar zone";

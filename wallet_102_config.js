@@ -1,1 +1,1 @@
-var mnemonic = "stone festival brother alien weird famous imitate skirt interest middle process envelope";
+var mnemonic = "clay coyote pool spice inch little random rude much sock amount rice";

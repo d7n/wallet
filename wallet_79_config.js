@@ -1,1 +1,1 @@
-var mnemonic = "poem best olive garlic armor bridge satoshi loan smoke leader donor cruise";
+var mnemonic = "flower fabric flight draw oppose air confirm inherit laundry fault slogan sibling";

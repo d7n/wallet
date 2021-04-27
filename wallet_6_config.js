@@ -1,1 +1,1 @@
-var mnemonic = "squeeze earth issue wool total mesh kitten science brother defy depend night";
+var mnemonic = "trash pepper calm critic orange tag style fee cage provide clap arrest";

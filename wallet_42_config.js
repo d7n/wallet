@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin black anxiety mixture conduct obey original lion artefact yellow above metal";
+var mnemonic = "mom position coffee happy funny album believe meadow ice spy swallow grief";

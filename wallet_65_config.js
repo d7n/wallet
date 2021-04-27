@@ -1,1 +1,1 @@
-var mnemonic = "clap cupboard unknown track citizen armor mansion decide pet volcano net sketch";
+var mnemonic = "bullet capable annual artefact village enact object fire coin bone obtain devote";

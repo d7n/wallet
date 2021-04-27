@@ -1,1 +1,1 @@
-var mnemonic = "animal achieve horn club raven eight chimney name proof suit attitude sample";
+var mnemonic = "index basic april field record list lend benefit illness icon match link";

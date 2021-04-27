@@ -1,1 +1,1 @@
-var mnemonic = "rule prevent clump assault private gate hybrid swing sauce lobster name beyond";
+var mnemonic = "minor draw goose ethics decide become domain file session cool hair purse";

@@ -1,1 +1,1 @@
-var mnemonic = "ladder rather october attend ridge bomb cube diet develop fly sentence possible";
+var mnemonic = "tourist survey income unfair buffalo code divorce model copy strike off butter";

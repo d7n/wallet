@@ -1,1 +1,1 @@
-var mnemonic = "health left replace unknown okay message afford reopen pipe flat type ball";
+var mnemonic = "merry vintage thought void first deliver biology portion lounge glory any happy";

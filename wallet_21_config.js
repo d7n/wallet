@@ -1,1 +1,1 @@
-var mnemonic = "timber sea pistol hover term obtain season carbon fossil want grant hen";
+var mnemonic = "audit tape sudden match lion sport style lava elegant initial sunset latin";

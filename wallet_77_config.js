@@ -1,1 +1,1 @@
-var mnemonic = "oil mask sentence whale valid portion pair keen head page vast arrow";
+var mnemonic = "friend screen final admit wage august alert glad rather call glide gather";

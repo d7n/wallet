@@ -1,1 +1,1 @@
-var mnemonic = "mean mouse life flavor once barrel other tank cloud combine bicycle reject";
+var mnemonic = "sleep tuna caught happy swing weasel boil build sponsor stable orbit oval";

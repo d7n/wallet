@@ -1,1 +1,1 @@
-var mnemonic = "bulb repair boss body shrimp ecology flight verb art cargo potato found";
+var mnemonic = "immune galaxy plate area meadow adult marriage alcohol planet canoe bread rich";

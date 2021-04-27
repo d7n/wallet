@@ -1,1 +1,1 @@
-var mnemonic = "dune color few verb flat reward romance cricket huge this victory license";
+var mnemonic = "bulk when deliver jar act response master jazz wild ginger total clerk";

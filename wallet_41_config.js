@@ -1,1 +1,1 @@
-var mnemonic = "clock illegal update track casual figure arrest cart main enough slot inhale";
+var mnemonic = "diesel couple lottery unaware innocent vital category priority kitten audit virus during";

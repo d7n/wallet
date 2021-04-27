@@ -1,1 +1,1 @@
-var mnemonic = "seek lift festival manage now clump above conduct effort velvet tilt rib";
+var mnemonic = "swallow tuna pig genuine spare ridge october link harbor panda impulse nothing";

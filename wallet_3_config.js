@@ -1,1 +1,1 @@
-var mnemonic = "scare machine mesh harvest unable spatial clay awesome debate foot stumble humble";
+var mnemonic = "air stomach dash example fire cover kidney drum symptom upper gorilla message";

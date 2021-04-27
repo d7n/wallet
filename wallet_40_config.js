@@ -1,1 +1,1 @@
-var mnemonic = "endless busy april ivory ketchup home easily guitar illness certain ready awake";
+var mnemonic = "amount stick party piece donkey poet flat exchange fruit unaware rent chapter";

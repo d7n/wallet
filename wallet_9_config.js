@@ -1,1 +1,1 @@
-var mnemonic = "soccer spare unfold despair slam emerge disagree grain donkey blue differ dirt";
+var mnemonic = "surge blind crowd judge erase position trigger pepper build royal traffic uniform";

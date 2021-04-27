@@ -1,1 +1,1 @@
-var mnemonic = "resemble wolf page tuna vacuum kingdom code humor relief detail coffee tourist";
+var mnemonic = "badge midnight ordinary grid enact magnet mosquito omit comic pluck hollow harsh";

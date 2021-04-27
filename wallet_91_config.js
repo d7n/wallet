@@ -1,1 +1,1 @@
-var mnemonic = "marriage divorce cinnamon method certain trip gun observe maze way recall chef";
+var mnemonic = "note vacuum off brush wing figure tissue asset palm market grow fall";

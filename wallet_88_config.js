@@ -1,1 +1,1 @@
-var mnemonic = "chronic river hurdle afford rocket work frame gather dose process sister ten";
+var mnemonic = "annual text attack awkward radio type crack useless estate nut used trial";

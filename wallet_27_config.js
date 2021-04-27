@@ -1,1 +1,1 @@
-var mnemonic = "slot evil sock toy term code able media truck fortune kit delay";
+var mnemonic = "phone state switch gas town faint turn pact trust unusual list dentist";

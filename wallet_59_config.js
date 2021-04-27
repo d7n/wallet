@@ -1,1 +1,1 @@
-var mnemonic = "crystal spider surround gown host slice police umbrella parade gym despair weasel";
+var mnemonic = "convince lizard rail awkward grit aspect disease resist pact manage attract alien";

@@ -1,1 +1,1 @@
-var mnemonic = "olive program guilt soup gesture kiss lady emerge gloom keen industry frog";
+var mnemonic = "balcony fog kick quick please science youth key luggage merge lounge vessel";

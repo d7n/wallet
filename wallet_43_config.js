@@ -1,1 +1,1 @@
-var mnemonic = "much small enable double nest gentle power legal stuff bacon live cloth";
+var mnemonic = "pepper hard ritual pretty tip color layer mask attract find firm remember";

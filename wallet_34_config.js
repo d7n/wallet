@@ -1,1 +1,1 @@
-var mnemonic = "hamster sunset soon skate fox retire prosper antique laundry room filter humble";
+var mnemonic = "obscure fringe there boost sad acquire nothing manage spell output famous enforce";

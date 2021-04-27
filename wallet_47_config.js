@@ -1,1 +1,1 @@
-var mnemonic = "bean swear belt patrol behave hand mutual tomato unlock current ticket mention";
+var mnemonic = "analyst fetch thought topic rapid venture monitor jaguar oval tide snow need";

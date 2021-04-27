@@ -1,1 +1,1 @@
-var mnemonic = "siege era staff obtain ahead gloom atom gas tattoo humble injury real";
+var mnemonic = "rapid mean brother champion poverty include era clerk spice senior pyramid path";

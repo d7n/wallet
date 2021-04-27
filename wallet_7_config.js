@@ -1,1 +1,1 @@
-var mnemonic = "prepare churn ranch aisle final miss add mango idle wash asthma butter";
+var mnemonic = "slim hat provide brick seat empower sponsor uncle note shy dizzy soccer";

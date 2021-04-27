@@ -1,1 +1,1 @@
-var mnemonic = "blind return dove pigeon snap mirror voice ozone vault patrol know shoe";
+var mnemonic = "piano thought aim divide foam wisdom crouch engage ancient drift tribe gain";

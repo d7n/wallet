@@ -1,1 +1,1 @@
-var mnemonic = "width bottom diesel cry home message head weapon village shove betray soldier";
+var mnemonic = "divorce inherit crawl actress you torch penalty vanish convince urban pigeon festival";

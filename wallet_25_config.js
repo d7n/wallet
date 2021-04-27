@@ -1,1 +1,1 @@
-var mnemonic = "mountain royal water industry basket wisdom own strong canal pupil taxi bullet";
+var mnemonic = "humble alley sunset party depart fox retire place bean still ozone rigid";

@@ -1,1 +1,1 @@
-var mnemonic = "sense solve exercise aisle oxygen stuff satoshi cinnamon cheap oblige kit hurry";
+var mnemonic = "bid you cross cement arena midnight describe amount radar another number swear";

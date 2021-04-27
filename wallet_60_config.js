@@ -1,1 +1,1 @@
-var mnemonic = "useless million salad sniff old nurse limb father cheese very crime seed";
+var mnemonic = "unveil skate pyramid sell column piece wave muscle cradle season amazing remember";

@@ -1,1 +1,1 @@
-var mnemonic = "retire dirt high adult blind original party champion glare add tag merry";
+var mnemonic = "popular jazz ask club huge heavy cake measure letter theme this tissue";

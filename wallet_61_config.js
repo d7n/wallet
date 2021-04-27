@@ -1,1 +1,1 @@
-var mnemonic = "giraffe admit crawl egg silent train soft case elephant donkey delay game";
+var mnemonic = "switch pyramid width fork pigeon there hammer syrup digital version boil bulk";

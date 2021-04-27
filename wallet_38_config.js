@@ -1,1 +1,1 @@
-var mnemonic = "piano mouse response catch submit slight boat solution seed chalk motor struggle";
+var mnemonic = "insane deliver flock inform curious toddler december bitter angle that anchor limit";

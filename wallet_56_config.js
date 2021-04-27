@@ -1,1 +1,1 @@
-var mnemonic = "timber raise muscle enforce indoor open vicious vague famous goose foster reform";
+var mnemonic = "happy photo merry divert tail basic palace lobster demise annual patrol vanish";

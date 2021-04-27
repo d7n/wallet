@@ -1,1 +1,1 @@
-var mnemonic = "machine manual polar friend butter correct caught bread clap digital into forest";
+var mnemonic = "ribbon gap blade average pulse ridge around know pattern possible present turn";

@@ -1,1 +1,1 @@
-var mnemonic = "blanket strong frequent firm opera spare best ginger wife keep submit tube";
+var mnemonic = "learn exit expire dilemma attitude elite casual way hybrid upgrade sword vote";

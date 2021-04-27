@@ -1,1 +1,1 @@
-var mnemonic = "thrive clap busy carpet pluck zero cherry group truck view innocent road";
+var mnemonic = "grocery jacket spring milk appear tide boat picnic ramp amateur bargain mercy";

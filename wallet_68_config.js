@@ -1,1 +1,1 @@
-var mnemonic = "three bone place absurd dawn giant retreat clump mountain idle issue ramp";
+var mnemonic = "view net payment shallow knock sentence diamond effort proud fancy bag senior";

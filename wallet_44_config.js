@@ -1,1 +1,1 @@
-var mnemonic = "mandate world cross scrub strategy problem churn marriage park dinner fold eager";
+var mnemonic = "fox cycle special renew height crouch grit prevent normal dizzy hazard waste";

@@ -1,1 +1,1 @@
-var mnemonic = "verify field lawn daring cloud random palace away cheese machine doll nature";
+var mnemonic = "junk grant crisp employ dragon write loan stamp champion clap shiver drum";

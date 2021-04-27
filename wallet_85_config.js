@@ -1,1 +1,1 @@
-var mnemonic = "asset unit mother lunch orient lion moment into ripple random direct chuckle";
+var mnemonic = "tissue catalog comfort metal thrive runway seat wing order canoe upon bleak";

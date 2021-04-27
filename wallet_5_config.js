@@ -1,1 +1,1 @@
-var mnemonic = "green sing income miracle engage mandate hurry vocal upset cloth inform parrot";
+var mnemonic = "cream crowd toward either require wage shoot cry airport dose bamboo symbol";

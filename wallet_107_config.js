@@ -1,1 +1,1 @@
-var mnemonic = "put extend grief bike harsh black measure dragon wisdom oven mimic wrong";
+var mnemonic = "erosion junk practice retire cattle mix quit old sleep pulp universe join";

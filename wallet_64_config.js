@@ -1,1 +1,1 @@
-var mnemonic = "doctor urge similar message common clown drip bullet giraffe snake coast route";
+var mnemonic = "enter unlock indoor brick cake slim virtual network dismiss oyster admit rhythm";

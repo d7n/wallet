@@ -1,1 +1,1 @@
-var mnemonic = "eagle keep permit cattle silent glad noise veteran duty culture march trash";
+var mnemonic = "pizza ensure program accuse teach reunion supply cabbage rotate giggle topic auto";

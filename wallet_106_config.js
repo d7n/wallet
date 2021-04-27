@@ -1,1 +1,1 @@
-var mnemonic = "elevator raccoon trend clog erupt stool rabbit other exclude slot divert process";
+var mnemonic = "off yard village common hamster green resist maze field inform short video";

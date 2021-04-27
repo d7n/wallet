@@ -1,1 +1,1 @@
-var mnemonic = "audit fine thrive option clever lamp diesel thunder castle want cup paper";
+var mnemonic = "toilet art fox suffer seven outdoor merge accuse ostrich voyage fork course";

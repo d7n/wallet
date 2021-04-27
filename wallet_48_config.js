@@ -1,1 +1,1 @@
-var mnemonic = "phrase account want stick ride connect general tray gaze soda slight jelly";
+var mnemonic = "venue sell grant oval habit beauty nurse egg kid crucial lady enlist";

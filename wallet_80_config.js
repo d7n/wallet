@@ -1,1 +1,1 @@
-var mnemonic = "couple you never copy wide access avoid churn naive real blame adapt";
+var mnemonic = "act admit warm remember steel ketchup execute glare shock cliff cabin crucial";

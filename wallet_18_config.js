@@ -1,1 +1,1 @@
-var mnemonic = "region scale you world desert sheriff machine oppose artefact gospel twelve check";
+var mnemonic = "attract combine bomb holiday deal over road prepare welcome surge later sadness";

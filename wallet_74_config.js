@@ -1,1 +1,1 @@
-var mnemonic = "dolphin tube novel fever film obey absorb curve trust giraffe crouch unique";
+var mnemonic = "brick people lift belt humble clown shaft auction happy clap provide yellow";

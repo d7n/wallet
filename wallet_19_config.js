@@ -1,1 +1,1 @@
-var mnemonic = "special prepare cereal erode judge diary large cushion cloth mom secret urban";
+var mnemonic = "margin lounge light crouch fossil bless spike pattern patient oxygen squirrel spray";

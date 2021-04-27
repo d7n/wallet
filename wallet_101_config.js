@@ -1,1 +1,1 @@
-var mnemonic = "finger eight worry laugh leg maid surface rocket attitude sail arrive struggle";
+var mnemonic = "market miracle language soccer eternal diesel victory front sphere liar wink mosquito";

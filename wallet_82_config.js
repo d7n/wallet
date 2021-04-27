@@ -1,1 +1,1 @@
-var mnemonic = "seminar mixture orphan bulb jaguar subway account kangaroo mosquito ecology more orange";
+var mnemonic = "usage steel hand together sad enroll lift hip main flame left stereo";

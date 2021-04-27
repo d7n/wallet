@@ -1,1 +1,1 @@
-var mnemonic = "since picture problem art popular wrestle light flash dice series enough cherry";
+var mnemonic = "jelly notable music meat burger gas velvet mobile method auto car direct";

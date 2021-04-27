@@ -1,1 +1,1 @@
-var mnemonic = "tag step flat promote state case such play three forum spy acquire";
+var mnemonic = "thank area grow pilot topic lend powder carpet friend speak square dentist";

@@ -1,1 +1,1 @@
-var mnemonic = "ethics assist lottery car obscure brave soccer bonus lonely lonely crisp sample";
+var mnemonic = "orbit goose season before enemy wheel say bargain lens achieve story foam";

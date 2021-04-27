@@ -1,1 +1,1 @@
-var mnemonic = "sniff gorilla hobby gossip goat dynamic document satisfy retreat page sting east";
+var mnemonic = "carpet riot pink coyote extra member seat drill essence spray mule chuckle";

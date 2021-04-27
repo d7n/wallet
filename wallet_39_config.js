@@ -1,1 +1,1 @@
-var mnemonic = "joke reflect bench awesome else minimum speed lock clerk wife open ahead";
+var mnemonic = "unaware monitor crane pattern flush coil sign jacket bean wife small vendor";

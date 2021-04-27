@@ -1,1 +1,1 @@
-var mnemonic = "snow between miss lunar mail reform regret have noodle exclude sustain topple";
+var mnemonic = "trick exchange ill guitar eager tube token wedding weather stable address any";

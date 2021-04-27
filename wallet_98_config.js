@@ -1,1 +1,1 @@
-var mnemonic = "limb alley sell valid black deliver pioneer fire fold solution appear spawn";
+var mnemonic = "fresh shell awake blast humor flag finger glare olympic ritual put act";

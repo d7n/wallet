@@ -1,1 +1,1 @@
-var mnemonic = "unit dash harvest pulse web tell swallow sun scene eye emerge half";
+var mnemonic = "old world sunny gap mansion nation inside garlic team repeat december enact";

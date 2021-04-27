@@ -1,1 +1,1 @@
-var mnemonic = "explain clip goat rotate void exchange donate hidden guilt board polar trim";
+var mnemonic = "admit sphere tank jazz disease oil attitude quick year health leader sleep";

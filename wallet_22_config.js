@@ -1,1 +1,1 @@
-var mnemonic = "surprise few cherry owner feed scheme garbage never captain alcohol sister sadness";
+var mnemonic = "saddle wreck gas shy spirit right burden pottery nose session bone motor";

@@ -1,1 +1,1 @@
-var mnemonic = "ecology park pulp venture must blur same normal ramp neglect student air";
+var mnemonic = "exist later jazz math hub clinic frost current spoon become section produce";

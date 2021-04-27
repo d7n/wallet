@@ -1,1 +1,1 @@
-var mnemonic = "mule bargain tomorrow odor adapt leader solution shallow response pair invite rely";
+var mnemonic = "head kidney dizzy test middle doctor lounge beyond fury radio whisper isolate";

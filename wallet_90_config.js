@@ -1,1 +1,1 @@
-var mnemonic = "firm trust walk clay capable problem suggest venue gun high supply adjust";
+var mnemonic = "pattern siege approve proof rescue friend slender shoulder bounce clown garlic distance";

@@ -1,1 +1,1 @@
-var mnemonic = "grow wing nuclear shop cup wire myth cake away neither senior copper";
+var mnemonic = "giraffe survey video whisper humble syrup render vague solid metal random festival";

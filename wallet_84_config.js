@@ -1,1 +1,1 @@
-var mnemonic = "quick crush plastic occur patrol ritual mandate together volcano dignity flush cancel";
+var mnemonic = "pear gospel boost defy much junior sword tumble brother undo stem universe";

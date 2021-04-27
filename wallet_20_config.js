@@ -1,1 +1,1 @@
-var mnemonic = "tobacco loop liar apart unfair wink during clerk alien pave stamp alien";
+var mnemonic = "autumn predict risk early put turkey stadium swift blade tool collect bench";

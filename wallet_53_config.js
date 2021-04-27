@@ -1,1 +1,1 @@
-var mnemonic = "neither nothing crisp ring chapter intact fitness name lift brown renew wash";
+var mnemonic = "winter ridge planet mesh movie lazy section adjust velvet fork fiction tool";

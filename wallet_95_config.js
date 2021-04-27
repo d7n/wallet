@@ -1,1 +1,1 @@
-var mnemonic = "track certain negative ostrich purpose diet height series kit half worth gasp";
+var mnemonic = "code thrive improve flower arrow enjoy curve arctic rural priority uphold fuel";

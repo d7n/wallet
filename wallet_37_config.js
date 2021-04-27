@@ -1,1 +1,1 @@
-var mnemonic = "name weekend style web illegal path again record gorilla jaguar orange forum";
+var mnemonic = "dance protect spray gym country maximum start letter modify slim endless whisper";

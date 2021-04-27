@@ -1,1 +1,1 @@
-var mnemonic = "artefact barely dune subject huge give unfair mutual citizen limit honey confirm";
+var mnemonic = "figure state topple armed toilet practice supply script hundred attitude lawn hello";

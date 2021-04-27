@@ -1,1 +1,1 @@
-var mnemonic = "scale dismiss invite strike place horn tiny title roast vast merry iron";
+var mnemonic = "ten slam polar coffee erode assume hazard fade timber garment champion wolf";

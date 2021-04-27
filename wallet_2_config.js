@@ -1,1 +1,1 @@
-var mnemonic = "laundry prison token coral lyrics lift intact awake beef chalk crew maximum";
+var mnemonic = "speak sausage imitate today symptom vital audit camera december achieve recycle boost";

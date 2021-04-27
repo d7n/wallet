@@ -1,1 +1,1 @@
-var mnemonic = "away later gauge turkey census foil captain trust edit prefer purse vast";
+var mnemonic = "decide option blue cousin unaware pipe danger cancel yellow connect pave bird";

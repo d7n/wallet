@@ -1,1 +1,1 @@
-var mnemonic = "renew joy private load split turkey movie floor flee pull enhance orange";
+var mnemonic = "depth powder anchor similar circle electric barrel double parrot present toy athlete";

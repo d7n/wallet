@@ -1,1 +1,1 @@
-var mnemonic = "hammer coyote cute okay year disagree still easy canvas person field vessel";
+var mnemonic = "guide butter now join valid retreat spice sniff magnet harbor joy oxygen";

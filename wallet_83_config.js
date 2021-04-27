@@ -1,1 +1,1 @@
-var mnemonic = "donkey zebra wall business common wish they analyst also disorder second document";
+var mnemonic = "unfair inherit demise crime dance bike decline find pool phrase put gadget";
