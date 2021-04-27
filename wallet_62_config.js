@@ -1,1 +1,1 @@
-var mnemonic = "toe ceiling sunny weird number arrange clap filter rotate check hair edit";
+var mnemonic = "small own friend subway phone build leaf shoot endless lottery farm silk";

@@ -1,1 +1,1 @@
-var mnemonic = "foster mixture high sock tail truck keen jump material speed tribe defense";
+var mnemonic = "enemy forum leopard sort rebuild exchange hub offer fossil minimum potato blur";

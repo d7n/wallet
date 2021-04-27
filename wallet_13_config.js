@@ -1,1 +1,1 @@
-var mnemonic = "okay salute frog cross toast music nephew bonus shoot leisure nerve soft";
+var mnemonic = "swift skin bring vacuum august outside imitate expire seat process dial clock";

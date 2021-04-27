@@ -1,1 +1,1 @@
-var mnemonic = "smart bunker eye power easily panic hotel level junk warfare humor below";
+var mnemonic = "goddess finish brain struggle local cupboard ritual sample fluid affair dial feed";

@@ -1,1 +1,1 @@
-var mnemonic = "soap silly curious picnic view exact naive infant timber snow camera trumpet";
+var mnemonic = "phrase verb wrist busy over middle rib success cage absorb alert focus";

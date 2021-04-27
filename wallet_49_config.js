@@ -1,1 +1,1 @@
-var mnemonic = "merit alert song pass magic aim move eye badge liberty enable raven";
+var mnemonic = "album inner lion antique bleak cloud door actress pudding mixed bicycle come";

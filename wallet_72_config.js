@@ -1,1 +1,1 @@
-var mnemonic = "rate churn require myself milk congress section safe skull inmate hamster smoke";
+var mnemonic = "age control broccoli domain frost rice pact ask vendor like planet ribbon";

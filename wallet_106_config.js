@@ -1,1 +1,1 @@
-var mnemonic = "unlock demand puzzle post rocket huge puzzle luxury prefer eagle number decorate";
+var mnemonic = "mix voice normal walnut wide kind siege real tunnel remain before fetch";

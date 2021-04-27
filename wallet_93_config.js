@@ -1,1 +1,1 @@
-var mnemonic = "frost torch long sea credit solve peasant promote rib robot zebra ketchup";
+var mnemonic = "weekend cage benefit miracle deny sight able alley once clip poverty grain";

@@ -1,1 +1,1 @@
-var mnemonic = "lecture goat day animal blast rail cross mask sound simple effort slow";
+var mnemonic = "title wine attract odor disease social cinnamon spare stuff distance nut neck";

@@ -1,1 +1,1 @@
-var mnemonic = "close this barely mystery detect actual dune tag spin exile wrist shrimp";
+var mnemonic = "tiny dose profit season mix history forest teach square drop ice cream";

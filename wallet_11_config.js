@@ -1,1 +1,1 @@
-var mnemonic = "wealth solid vibrant mask dress aspect goat unfair width seed about deliver";
+var mnemonic = "latin inherit cupboard noble gesture notable property leave fiction shoot lunar random";

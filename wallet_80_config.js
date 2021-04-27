@@ -1,1 +1,1 @@
-var mnemonic = "imitate priority paper spatial vast caught lemon cube ignore country tourist symbol";
+var mnemonic = "easily rotate check region dutch amazing front broken oak bridge switch bean";

@@ -1,1 +1,1 @@
-var mnemonic = "almost loyal neglect bundle subject thought royal ability truth drum exile hint";
+var mnemonic = "pull scan execute build disorder strategy casual infant key step real pear";

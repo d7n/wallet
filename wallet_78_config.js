@@ -1,1 +1,1 @@
-var mnemonic = "toast riot olympic impact wheel view minor replace laugh cotton uncle wide";
+var mnemonic = "hazard tip enable laundry turn soul female feed minute peasant feed cereal";

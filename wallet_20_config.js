@@ -1,1 +1,1 @@
-var mnemonic = "miss toward unlock come world certain rose wait hamster globe gloom picture";
+var mnemonic = "inquiry fine pretty sad symbol fatigue present clay claw ethics excite glad";

@@ -1,1 +1,1 @@
-var mnemonic = "leader toddler giraffe dice flower cube top raw next session auto calm";
+var mnemonic = "credit say couple monster hurt cry furnace clog portion sight bamboo mind";

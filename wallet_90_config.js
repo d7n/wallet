@@ -1,1 +1,1 @@
-var mnemonic = "trumpet any radio dial false broccoli impact figure ginger learn betray hazard";
+var mnemonic = "curtain girl twist sweet deal human duck dynamic discover priority grief income";

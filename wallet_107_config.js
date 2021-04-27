@@ -1,1 +1,1 @@
-var mnemonic = "add remember door pattern pink deal transfer innocent mad soldier harbor case";
+var mnemonic = "dutch pair include gain below nation miracle sock hybrid neck whale sponsor";

@@ -1,1 +1,1 @@
-var mnemonic = "stereo afford yellow dish valley connect kidney fossil thumb domain engage cabin";
+var mnemonic = "sell weather almost depend truly other body eternal gossip viable funny praise";

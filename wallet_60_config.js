@@ -1,1 +1,1 @@
-var mnemonic = "lawn shift pause pledge miracle human example powder fringe sauce cliff assume";
+var mnemonic = "bus health tip match profit armor illegal find diagram purchase effort jump";

@@ -1,1 +1,1 @@
-var mnemonic = "loud equip museum lunar dragon essay live goose oval miss armed elephant";
+var mnemonic = "recipe orange own solve injury lion remove domain gym chair profit fluid";

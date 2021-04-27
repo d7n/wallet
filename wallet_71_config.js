@@ -1,1 +1,1 @@
-var mnemonic = "wall enrich news country faith firm pluck borrow order present settle marble";
+var mnemonic = "wreck mistake retire gorilla order glimpse master clever enjoy warfare tuna wool";

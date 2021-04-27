@@ -1,1 +1,1 @@
-var mnemonic = "educate hamster inflict wire pen approve major camp sense suit blossom over";
+var mnemonic = "chaos path material radar need utility video drama fault program early small";

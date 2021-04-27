@@ -1,1 +1,1 @@
-var mnemonic = "inject address genuine prison write local label release include sail chat shrimp";
+var mnemonic = "couch bargain glue accuse lounge again conduct expose become exile exhibit gate";

@@ -1,1 +1,1 @@
-var mnemonic = "merry process chicken spend chapter pony thing actual entry mule daughter drum";
+var mnemonic = "melt injury envelope sibling uphold idle caught spike chief stable belt illness";

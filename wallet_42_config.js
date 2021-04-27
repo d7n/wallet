@@ -1,1 +1,1 @@
-var mnemonic = "grape immune member quit trouble melt pencil beyond design despair gate exclude";
+var mnemonic = "pet sort kite curve black twice fresh scrub cloud over kitten burden";

@@ -1,1 +1,1 @@
-var mnemonic = "degree fog cluster solid supply another draft ten basket entry youth carry";
+var mnemonic = "gun elegant door either media relief forget joy era ball suspect certain";

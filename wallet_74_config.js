@@ -1,1 +1,1 @@
-var mnemonic = "child true food wool zebra swallow time scout blood black rescue display";
+var mnemonic = "life place page mail midnight leader moon earth void joy raven early";

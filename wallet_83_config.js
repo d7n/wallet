@@ -1,1 +1,1 @@
-var mnemonic = "pilot despair lesson glance develop jacket loyal frozen uphold quit forward narrow";
+var mnemonic = "scale casino foot cover away room news immense pet soda august dwarf";

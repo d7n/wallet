@@ -1,1 +1,1 @@
-var mnemonic = "lawn around climb royal absorb test enlist circle dizzy maze unaware token";
+var mnemonic = "rabbit vacant want top scorpion please frozen anxiety cactus acid enhance movie";

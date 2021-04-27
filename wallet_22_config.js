@@ -1,1 +1,1 @@
-var mnemonic = "shock crawl useful calm stock wasp cushion buyer jazz enter attack ability";
+var mnemonic = "father tiger expand level aisle dirt fabric clog slight shed giraffe aim";

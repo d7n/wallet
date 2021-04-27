@@ -1,1 +1,1 @@
-var mnemonic = "debate staff only cheap mammal multiply wet smoke olive sock labor regret";
+var mnemonic = "fluid umbrella sheriff umbrella use alone globe ketchup loyal bid analyst suffer";

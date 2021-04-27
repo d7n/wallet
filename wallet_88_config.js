@@ -1,1 +1,1 @@
-var mnemonic = "similar matter depart venue suffer start issue music ignore few blood inhale";
+var mnemonic = "private usage leader rapid assist text curve near nation again lesson siege";

@@ -1,1 +1,1 @@
-var mnemonic = "frequent add urge cradle sibling buffalo pelican update live release current slot";
+var mnemonic = "fence supreme prepare wheel screen bench skull initial tragic prepare farm loud";

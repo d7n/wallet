@@ -1,1 +1,1 @@
-var mnemonic = "wish aunt awkward safe fame spice canvas fox wine figure future normal";
+var mnemonic = "jelly elbow album ready setup sail powder bid loud tongue fresh tonight";

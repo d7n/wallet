@@ -1,1 +1,1 @@
-var mnemonic = "strategy mail weird island this diesel inspire enact general fit author sort";
+var mnemonic = "rather copy chicken sport glimpse peanut duck beauty hobby drop rate awkward";

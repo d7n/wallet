@@ -1,1 +1,1 @@
-var mnemonic = "exist transfer enemy peanut arena lens dog shaft wool find shoot heart";
+var mnemonic = "hungry siege cupboard report garage around gas imitate divorce column bonus tuna";

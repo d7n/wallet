@@ -1,1 +1,1 @@
-var mnemonic = "jewel roof only next inform urban kidney notice art lion black fancy";
+var mnemonic = "option syrup ability shop advance hood police jealous fit material fade shoe";

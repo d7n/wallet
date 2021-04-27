@@ -1,1 +1,1 @@
-var mnemonic = "tunnel present extend old acid regret finish nose rude eager like salt";
+var mnemonic = "brand smoke dizzy dwarf consider tourist hard brief useless rhythm victory unknown";

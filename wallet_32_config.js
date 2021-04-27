@@ -1,1 +1,1 @@
-var mnemonic = "stool mouse ocean pear pear spirit chaos confirm expect daring fiction collect";
+var mnemonic = "citizen coil axis ability permit oppose child turn front large body pledge";

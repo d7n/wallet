@@ -1,1 +1,1 @@
-var mnemonic = "stuff stamp jar feature siege cement rapid able debate west health basic";
+var mnemonic = "pool stairs drive tuna spring couch february luggage rescue strong depend link";

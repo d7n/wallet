@@ -1,1 +1,1 @@
-var mnemonic = "silk render arm indicate jeans aerobic rent pause duty raise child wing";
+var mnemonic = "stick injury auto lemon educate acoustic shell nature between zone olympic main";

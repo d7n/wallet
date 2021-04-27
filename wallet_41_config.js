@@ -1,1 +1,1 @@
-var mnemonic = "absurd ask tired drama early base caution enough lyrics copy card thank";
+var mnemonic = "chat hire donate acoustic stage fortune rent category dwarf surge slush swim";

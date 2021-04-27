@@ -1,1 +1,1 @@
-var mnemonic = "push video story quality toddler unfair cricket inside oppose there wool spy";
+var mnemonic = "member affair year phrase blue carpet tired resource month silly notice flame";

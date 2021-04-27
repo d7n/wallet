@@ -1,1 +1,1 @@
-var mnemonic = "order donor offer orchard toward boil stand sudden canal only educate put";
+var mnemonic = "pledge kingdom segment cactus chalk provide upset shadow sugar away below extra";

@@ -1,1 +1,1 @@
-var mnemonic = "stuff wink seven cousin human alert grace field buyer wolf useful peace";
+var mnemonic = "turtle monster squeeze punch jealous pole left spy deputy ticket hockey autumn";

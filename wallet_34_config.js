@@ -1,1 +1,1 @@
-var mnemonic = "advance ability mutual jeans road buddy sudden rack admit involve trend verify";
+var mnemonic = "hurdle enhance have vast valve illness planet infant glad reform miracle pond";

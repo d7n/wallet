@@ -1,1 +1,1 @@
-var mnemonic = "song turtle fortune leave reason alien kiwi expand plate toss beyond dwarf";
+var mnemonic = "peasant plunge yard volcano silent skirt liquid tomorrow endless chapter seek survey";

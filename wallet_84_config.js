@@ -1,1 +1,1 @@
-var mnemonic = "ship mix kit elephant nation chat weather wrestle gentle silly pulp lounge";
+var mnemonic = "black kind job orient ranch scrap shy void menu will obscure exist";

@@ -1,1 +1,1 @@
-var mnemonic = "other rail dust wing distance relief axis cattle kingdom upset exotic situate";
+var mnemonic = "giraffe sugar rocket amateur nuclear ocean weekend knife coconut pluck number voyage";

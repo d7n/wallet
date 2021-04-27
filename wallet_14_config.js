@@ -1,1 +1,1 @@
-var mnemonic = "panic twelve nurse mimic mother peasant sample educate shoe bronze badge shift";
+var mnemonic = "goose system enough patrol guard pretty silk south ozone early village arctic";

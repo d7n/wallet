@@ -1,1 +1,1 @@
-var mnemonic = "game palace rebuild play kind emotion toddler equal remember fun exhibit piece";
+var mnemonic = "canvas crazy strategy topple visit glass antique myself slight matrix burst develop";

@@ -1,1 +1,1 @@
-var mnemonic = "super slow total plug steak copper lawsuit cabbage order talk option caught";
+var mnemonic = "soldier arch zone dirt either sting spatial midnight brown head clinic join";

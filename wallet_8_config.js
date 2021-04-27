@@ -1,1 +1,1 @@
-var mnemonic = "bright kiss cheap midnight plug blood zebra sock estate canvas equip elbow";
+var mnemonic = "april pull ridge motor ankle pride remain pistol salt please giraffe auction";

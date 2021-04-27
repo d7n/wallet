@@ -1,1 +1,1 @@
-var mnemonic = "man trim symbol grid quiz pupil antenna junk pulp velvet admit almost";
+var mnemonic = "february used uniform fancy index bar donor put spawn hip attack raw";

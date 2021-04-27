@@ -1,1 +1,1 @@
-var mnemonic = "cannon situate release normal lab wise amateur area shock off suffer loud";
+var mnemonic = "pave divorce upgrade wrist reduce fiscal adjust illegal category law glove search";

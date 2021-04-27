@@ -1,1 +1,1 @@
-var mnemonic = "tape pledge hamster exact code pool stairs come pear almost crucial often";
+var mnemonic = "kingdom vacant memory often panic security grape return tail tooth fantasy mountain";

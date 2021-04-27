@@ -1,1 +1,1 @@
-var mnemonic = "rebuild maximum faith thrive calm work forward shop remove grid amateur alley";
+var mnemonic = "figure novel floor violin gun kitchen weather lazy scissors indicate trip deposit";

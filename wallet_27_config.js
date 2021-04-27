@@ -1,1 +1,1 @@
-var mnemonic = "riot engage boost occur ceiling canal fatigue seven myself apple tuition educate";
+var mnemonic = "insane clown decline analyst scrub tell wool coral tiny nature spawn stuff";

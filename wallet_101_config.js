@@ -1,1 +1,1 @@
-var mnemonic = "speed jaguar river antique athlete impact better tube decrease inflict smooth cancel";
+var mnemonic = "potato pepper sting ball slam slide gold approve regular hungry vast region";

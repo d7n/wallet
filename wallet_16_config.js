@@ -1,1 +1,1 @@
-var mnemonic = "syrup year blossom ladder name swap horror kind trigger detail vanish agree";
+var mnemonic = "witness hungry armor cradle slam heart hair brass canal thing trick balcony";

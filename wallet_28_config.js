@@ -1,1 +1,1 @@
-var mnemonic = "tragic ball vintage check identify south exit asset double cousin address fashion";
+var mnemonic = "thank mother bulk nephew jeans mail tribe super dutch clown path tray";

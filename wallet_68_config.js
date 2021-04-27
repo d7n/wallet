@@ -1,1 +1,1 @@
-var mnemonic = "electric sleep until carpet bean fabric shine before squirrel version tower fossil";
+var mnemonic = "marine before shrimp chronic coin depart purity smile super cereal summer culture";

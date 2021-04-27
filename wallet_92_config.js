@@ -1,1 +1,1 @@
-var mnemonic = "peace predict apart vote suspect galaxy wolf dilemma govern vibrant vehicle athlete";
+var mnemonic = "sock menu proof device fringe chalk kangaroo flush develop hospital shield foam";

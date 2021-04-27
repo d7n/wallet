@@ -1,1 +1,1 @@
-var mnemonic = "ordinary eternal tape destroy card place require bronze oil opinion mansion immense";
+var mnemonic = "early brother rookie place hood country knock tower cute soon lamp waste";

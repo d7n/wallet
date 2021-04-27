@@ -1,1 +1,1 @@
-var mnemonic = "drum problem direct pluck juice large will area parade unaware onion tank";
+var mnemonic = "shift evidence woman jacket heart wall bid question vintage shrug pioneer pause";

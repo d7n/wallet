@@ -1,1 +1,1 @@
-var mnemonic = "direct elite zoo daughter walk asthma rich problem inhale nothing truck bone";
+var mnemonic = "blossom wisdom pride hammer grit monitor pause obscure slot impact coil slam";

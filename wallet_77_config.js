@@ -1,1 +1,1 @@
-var mnemonic = "parent tomorrow dry mention custom sausage ill fly awake tragic figure actual";
+var mnemonic = "lift organ pig arrow pulp athlete inform decide van above bundle become";

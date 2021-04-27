@@ -1,1 +1,1 @@
-var mnemonic = "finger hazard review uncover peace shop shiver assume hidden era please dumb";
+var mnemonic = "coil day orchard tired eager chat sign settle wine moral cushion warrior";

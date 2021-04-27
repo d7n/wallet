@@ -1,1 +1,1 @@
-var mnemonic = "flock combine bleak ritual spawn off tonight furnace mesh actress file trigger";
+var mnemonic = "use maze distance walk blade patient dress gold six tunnel try problem";

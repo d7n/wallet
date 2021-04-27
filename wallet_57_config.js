@@ -1,1 +1,1 @@
-var mnemonic = "common chef loyal code battle post album devote step leisure polar round";
+var mnemonic = "spread crop april rival twice lion quit music split carpet garage visit";

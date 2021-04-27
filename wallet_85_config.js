@@ -1,1 +1,1 @@
-var mnemonic = "midnight gadget produce tissue erode garage celery such junior wave toss copper";
+var mnemonic = "artist gun float broken reunion exchange biology federal fire elite toe lady";

@@ -1,1 +1,1 @@
-var mnemonic = "adapt book peasant crowd apple six gravity spend produce crisp token industry";
+var mnemonic = "purse twin state view chat siege swap taste refuse cabin course friend";

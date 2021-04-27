@@ -1,1 +1,1 @@
-var mnemonic = "slam popular tell neutral giant captain orange cart sell system cream trap";
+var mnemonic = "tunnel large nurse spell draw junk coconut trash luggage angle grief mother";

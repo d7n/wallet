@@ -1,1 +1,1 @@
-var mnemonic = "harbor color ginger grass simple guess garlic vicious type sugar evidence cliff";
+var mnemonic = "enter pole hood science truth year rib broccoli cluster renew mass attack";

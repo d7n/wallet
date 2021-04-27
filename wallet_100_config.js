@@ -1,1 +1,1 @@
-var mnemonic = "desert crane music asthma bamboo auto blush grape ceiling awful suit furnace";
+var mnemonic = "start truth humble damage normal liberty immense puppy soon slush icon negative";

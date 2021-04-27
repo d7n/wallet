@@ -1,1 +1,1 @@
-var mnemonic = "cactus run theme sail focus fat across lend embrace cute renew wise";
+var mnemonic = "lunar improve chimney degree zone uncover finger scheme unhappy market cheese toward";

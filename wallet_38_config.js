@@ -1,1 +1,1 @@
-var mnemonic = "carry pull portion angry april wall since catch butter shaft congress spot";
+var mnemonic = "ask laugh deal helmet require smoke boat pass begin space proud priority";

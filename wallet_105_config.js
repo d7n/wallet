@@ -1,1 +1,1 @@
-var mnemonic = "during boss later kiss donkey ladder cement picnic galaxy sausage renew build";
+var mnemonic = "brass ranch office chaos anger main rebel army ghost tissue resist repair";

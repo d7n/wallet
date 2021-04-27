@@ -1,1 +1,1 @@
-var mnemonic = "frame erupt symbol pudding cabbage bamboo bless material pipe muscle genius retire";
+var mnemonic = "curious auction during sick acoustic ramp pumpkin better track language sister rival";

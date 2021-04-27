@@ -1,1 +1,1 @@
-var mnemonic = "glue exotic borrow volume balcony indicate display winner then enrich width must";
+var mnemonic = "machine reward help convince day expand shed board speak sad chaos reward";

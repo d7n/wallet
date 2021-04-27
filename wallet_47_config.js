@@ -1,1 +1,1 @@
-var mnemonic = "place cliff inside dose cart tree joy huge resemble filter lift business";
+var mnemonic = "unveil whisper jaguar flower thought hidden join grape exit rain cheap mad";

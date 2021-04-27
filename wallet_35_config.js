@@ -1,1 +1,1 @@
-var mnemonic = "shoot network exercise congress element have dial twin festival nurse decline save";
+var mnemonic = "village similar easy chimney visit neglect spell copper physical cereal apology acid";

@@ -1,1 +1,1 @@
-var mnemonic = "language typical clinic frost student twenty slim fault naive observe border silk";
+var mnemonic = "flash chair ritual property ice together smile genre ivory later axis farm";

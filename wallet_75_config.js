@@ -1,1 +1,1 @@
-var mnemonic = "stove fit title market midnight smooth spawn purse there tuna spawn pair";
+var mnemonic = "else bubble earn seven height chat rent hurdle lobster unveil remove fee";

@@ -1,1 +1,1 @@
-var mnemonic = "cheap they page power select chunk floor spatial favorite between select kind";
+var mnemonic = "cement electric core scrub toast tuition kiss rude dial obtain kangaroo food";

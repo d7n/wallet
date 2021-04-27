@@ -1,1 +1,1 @@
-var mnemonic = "broom ramp diary soap thunder brisk mimic stem patient false execute clump";
+var mnemonic = "glass increase tower bounce crack forum sort friend knife volcano clog guide";

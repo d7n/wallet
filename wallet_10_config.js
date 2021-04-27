@@ -1,1 +1,1 @@
-var mnemonic = "goat baby gravity until diet love zoo shrimp zebra term strike mercy";
+var mnemonic = "eyebrow push laptop bike strong shy educate jungle turtle motor rebel admit";

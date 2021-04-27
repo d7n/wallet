@@ -1,1 +1,1 @@
-var mnemonic = "isolate unveil twin tool large essay unable hen field inhale next just";
+var mnemonic = "reduce anger found water treat office poverty fork mask material canvas inflict";
