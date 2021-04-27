@@ -1,1 +1,1 @@
-var mnemonic = "resist orient security stem wolf main cake option problem fog fly retreat";
+var mnemonic = "resource shield amused gas palace pig faint laptop sadness random sand apple";

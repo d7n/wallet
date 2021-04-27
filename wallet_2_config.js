@@ -1,1 +1,1 @@
-var mnemonic = "endorse derive arm hero property secret feed feel client front diet solution";
+var mnemonic = "chest outside flat work grace rebuild torch access fortune aisle popular rich";

@@ -1,1 +1,1 @@
-var mnemonic = "olympic setup van design cushion flame fine sadness steel cruise gas calm";
+var mnemonic = "mention doll rigid slab beach raw process tortoise call punch culture ostrich";

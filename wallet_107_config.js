@@ -1,1 +1,1 @@
-var mnemonic = "six poem swamp multiply action romance culture buddy elephant become piano will";
+var mnemonic = "sign own lake among script outside eye search miracle doctor divorce purchase";

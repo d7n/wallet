@@ -1,1 +1,1 @@
-var mnemonic = "donate sustain basket spoon wink harvest truth invest benefit insane tackle pear";
+var mnemonic = "autumn collect coach master crater cause then mom snack then model borrow";

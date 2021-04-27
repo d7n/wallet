@@ -1,1 +1,1 @@
-var mnemonic = "peace matter repeat annual scan fortune quick update broom elbow subject hunt";
+var mnemonic = "another harvest ivory canal lunar tragic correct race recipe fiber knee pet";

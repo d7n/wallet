@@ -1,1 +1,1 @@
-var mnemonic = "cushion roof tone topic runway ask express awkward valve buddy slight visa";
+var mnemonic = "camera country vicious group cotton mesh town syrup diagram panel scorpion school";

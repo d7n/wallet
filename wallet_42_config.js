@@ -1,1 +1,1 @@
-var mnemonic = "giant float patrol brother gesture razor unusual slice scale note sense vicious";
+var mnemonic = "curious frame amateur access endless vehicle advice tide love virtual casual nuclear";

@@ -1,1 +1,1 @@
-var mnemonic = "february picture swap fringe arctic security horn violin any camera daughter liquid";
+var mnemonic = "vapor good surprise silly young exotic rotate real stamp fade wife swing";

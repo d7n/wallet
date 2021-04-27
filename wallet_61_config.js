@@ -1,1 +1,1 @@
-var mnemonic = "into member essay buzz inspire pear genuine spice design prevent candy almost";
+var mnemonic = "cave tuna bubble hover radio between east noise april flower renew exclude";

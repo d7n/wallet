@@ -1,1 +1,1 @@
-var mnemonic = "gentle cactus grit try genre jazz such tell cheese guess beauty broken";
+var mnemonic = "finger secret inject kitten trick horror remind pelican become payment world breeze";

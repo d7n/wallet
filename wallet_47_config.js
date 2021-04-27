@@ -1,1 +1,1 @@
-var mnemonic = "skin absorb hire such wheat time spider good return joke equal athlete";
+var mnemonic = "tumble industry damage diamond obey unlock indicate turkey uphold awake decline differ";

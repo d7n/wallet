@@ -1,1 +1,1 @@
-var mnemonic = "identify globe produce pelican gossip piano evoke wheat foster arm service crazy";
+var mnemonic = "guide figure lock candy merit coconut split have digital combine motor olive";

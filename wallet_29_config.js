@@ -1,1 +1,1 @@
-var mnemonic = "relax traffic phone exact pitch punch census hat miss hurry east check";
+var mnemonic = "mention focus polar clump notice west face supply pitch brother city rebuild";

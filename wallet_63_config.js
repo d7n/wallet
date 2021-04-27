@@ -1,1 +1,1 @@
-var mnemonic = "tenant fatigue trash member thunder slight pair roof toddler prevent certain panther";
+var mnemonic = "unaware engine local mechanic able around sun surprise success vacant curve clever";

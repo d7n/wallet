@@ -1,1 +1,1 @@
-var mnemonic = "black cause degree zebra region spare oyster mule please rude indoor jazz";
+var mnemonic = "add slim drum faculty play board patient pull carpet fiber title orbit";

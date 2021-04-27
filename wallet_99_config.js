@@ -1,1 +1,1 @@
-var mnemonic = "proud ball december dilemma identify shove sauce topic believe comfort cable upset";
+var mnemonic = "fury candy thunder they timber explain shift pulse struggle wire session dismiss";

@@ -1,1 +1,1 @@
-var mnemonic = "hair husband taxi hollow dove angle roast deposit tip chunk sock author";
+var mnemonic = "title kite abandon detect milk menu dream employ spoon great school dolphin";

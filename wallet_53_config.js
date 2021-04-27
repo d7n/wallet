@@ -1,1 +1,1 @@
-var mnemonic = "relax hunt faith pair obey dutch obey reflect helmet receive virtual honey";
+var mnemonic = "easy depend melt orange desk certain apology suggest satisfy garbage embark trip";

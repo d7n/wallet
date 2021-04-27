@@ -1,1 +1,1 @@
-var mnemonic = "subway tone huge say seed tackle stadium destroy crop emerge leaf impulse";
+var mnemonic = "spend debate smart shed hour gasp session burden stuff glimpse fluid venture";

@@ -1,1 +1,1 @@
-var mnemonic = "upon century quality bone dumb unique pond pumpkin proof rule modify wait";
+var mnemonic = "travel ancient tube indoor slight poverty pyramid unique chapter laugh energy army";

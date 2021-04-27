@@ -1,1 +1,1 @@
-var mnemonic = "apart quarter embody snap horse uphold actual hope company pizza era vague";
+var mnemonic = "jealous muscle snake have fluid million guilt furnace medal boat stereo outside";

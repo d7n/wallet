@@ -1,1 +1,1 @@
-var mnemonic = "abuse photo screen property iron section cereal tribe keep share expire clock";
+var mnemonic = "tired buzz satoshi uncover pool unhappy remind alley crime trim cover super";

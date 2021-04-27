@@ -1,1 +1,1 @@
-var mnemonic = "prevent flash flock lizard fame garage pink involve soda sad large undo";
+var mnemonic = "torch subway fit crazy wrist peanut foster depend detail pigeon swallow weasel";

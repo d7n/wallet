@@ -1,1 +1,1 @@
-var mnemonic = "burst walk clump poem other hand invest motion initial renew cancel silk";
+var mnemonic = "have plate decline grab elegant excuse yellow minor better ring allow bird";

@@ -1,1 +1,1 @@
-var mnemonic = "jeans purchase image auction hip type answer employ thumb soda acoustic faith";
+var mnemonic = "ordinary file spray federal there until human eager bundle struggle always patch";

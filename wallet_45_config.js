@@ -1,1 +1,1 @@
-var mnemonic = "expand hungry attract firm bottom lumber exotic pull orient tenant strike useful";
+var mnemonic = "bridge clump math law nephew logic climb wet diesel insane raise track";

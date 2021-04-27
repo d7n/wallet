@@ -1,1 +1,1 @@
-var mnemonic = "help cannon damage taste direct armor use smooth detect arena unable second";
+var mnemonic = "season border song found reopen logic argue topic coral tenant uncle unveil";

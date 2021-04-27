@@ -1,1 +1,1 @@
-var mnemonic = "begin second hole donor issue ivory sword cloth shop category float jump";
+var mnemonic = "shadow frost polar one rhythm topic left elite holiday spawn quarter base";

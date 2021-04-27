@@ -1,1 +1,1 @@
-var mnemonic = "seed lounge spot swamp lab novel between ring picnic medal page either";
+var mnemonic = "long shove reject robot hire bag dust caution ahead section cushion build";

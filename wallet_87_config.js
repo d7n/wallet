@@ -1,1 +1,1 @@
-var mnemonic = "hint cute depend siege fit case enforce supply raise inherit tragic air";
+var mnemonic = "salute color possible feed feature east license sniff provide culture moon clap";

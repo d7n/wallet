@@ -1,1 +1,1 @@
-var mnemonic = "surface tumble lonely only immense rent chimney problem find lens cost diet";
+var mnemonic = "unknown chalk eye remember damp essence kick skin area country area disagree";

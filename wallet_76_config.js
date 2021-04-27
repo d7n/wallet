@@ -1,1 +1,1 @@
-var mnemonic = "wrap craft display expose proof fragile calm monkey provide stomach noodle arrive";
+var mnemonic = "direct tumble border volume erode inject struggle unable slim cause peasant unit";

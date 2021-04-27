@@ -1,1 +1,1 @@
-var mnemonic = "trade industry core grace manual embrace jacket exit gauge path coconut sunny";
+var mnemonic = "dizzy theory various spend trim innocent under police trigger promote monster sound";

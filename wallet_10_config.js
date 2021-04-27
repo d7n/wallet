@@ -1,1 +1,1 @@
-var mnemonic = "shy sniff again gravity mother fury rent come hold delay short giant";
+var mnemonic = "yard student tilt sister throw wisdom merry maximum cigar open install vocal";

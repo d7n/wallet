@@ -1,1 +1,1 @@
-var mnemonic = "ghost room cool pool flower update vendor music cheese wage term gaze";
+var mnemonic = "jazz defy bid solution remove little head install brisk margin lunar crop";

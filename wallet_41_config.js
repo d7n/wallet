@@ -1,1 +1,1 @@
-var mnemonic = "sample enhance patrol shield lesson divert rate rapid ginger puzzle soap bulb";
+var mnemonic = "remind about runway recall edge grass hungry dry soul plastic craft middle";

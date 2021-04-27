@@ -1,1 +1,1 @@
-var mnemonic = "purity demand arrange spray rain primary camera oppose detect napkin honey tissue";
+var mnemonic = "neglect world minor great margin crystal patient clinic parent kind ethics property";

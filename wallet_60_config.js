@@ -1,1 +1,1 @@
-var mnemonic = "nominee unfold final defense olympic wild grocery master erode simple sweet reward";
+var mnemonic = "enough crystal thumb agree cattle fat mesh grape gadget loop siren absent";

@@ -1,1 +1,1 @@
-var mnemonic = "limit velvet nephew rabbit garment modify only common hazard trash save horn";
+var mnemonic = "truth similar concert frequent cement any juice energy leg uniform minor few";

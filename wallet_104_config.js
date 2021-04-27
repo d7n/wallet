@@ -1,1 +1,1 @@
-var mnemonic = "boat horse size odor movie van crouch slim duck mosquito hazard gorilla";
+var mnemonic = "donor name heart monkey disease swift page tent fiction unveil life damp";

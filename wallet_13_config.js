@@ -1,1 +1,1 @@
-var mnemonic = "actual aspect creek dress twelve jazz joy path syrup pretty language bronze";
+var mnemonic = "undo angle case sleep walnut hockey praise gather high tilt actual process";

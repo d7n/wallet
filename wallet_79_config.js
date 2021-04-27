@@ -1,1 +1,1 @@
-var mnemonic = "illegal issue garden uphold brain tonight abstract write flat farm history coffee";
+var mnemonic = "wave chief absurd twelve creek uncover utility autumn indicate bacon news grid";

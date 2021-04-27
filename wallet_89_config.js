@@ -1,1 +1,1 @@
-var mnemonic = "young pledge obvious peace suffer delay they rose return wall model dragon";
+var mnemonic = "travel grief bulb aisle true old limit alone metal waste soon wrong";

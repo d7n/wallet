@@ -1,1 +1,1 @@
-var mnemonic = "service orphan chimney damp wing world insane proud second prevent student victory";
+var mnemonic = "exclude brand valley drama stadium flee abstract student fluid monkey shove summer";

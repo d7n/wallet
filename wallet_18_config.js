@@ -1,1 +1,1 @@
-var mnemonic = "flavor scatter unfair random found armed arrest grunt sleep daughter parent sock";
+var mnemonic = "people embrace title insect rule road antenna submit ecology maximum life kidney";

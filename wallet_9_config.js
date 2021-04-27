@@ -1,1 +1,1 @@
-var mnemonic = "company lock enjoy copy feel stem black festival spike delay always rely";
+var mnemonic = "shield pilot neither fine diet foam piano borrow oak clock trial wrap";

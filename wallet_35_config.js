@@ -1,1 +1,1 @@
-var mnemonic = "obtain input talent language tunnel chest domain deliver usual eagle huge diesel";
+var mnemonic = "arena clog since choice style season abstract life rain trim rather super";

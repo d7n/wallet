@@ -1,1 +1,1 @@
-var mnemonic = "surface grape warfare jazz script hair find wood fantasy planet habit model";
+var mnemonic = "denial snow usage program tank toss hobby broken basic question key educate";

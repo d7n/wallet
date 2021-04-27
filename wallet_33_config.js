@@ -1,1 +1,1 @@
-var mnemonic = "aunt outdoor hawk impose defense because game about debris oppose stable used";
+var mnemonic = "squeeze evil believe onion state minor tuna believe hen pigeon observe stand";

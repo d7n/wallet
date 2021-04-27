@@ -1,1 +1,1 @@
-var mnemonic = "earn club frost equip bring camera husband solid message edit found rhythm";
+var mnemonic = "circle wash ritual letter issue winner among tennis suggest liberty stone wolf";

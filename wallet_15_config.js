@@ -1,1 +1,1 @@
-var mnemonic = "patch arch drama toss today exercise dutch often ice embark remove wrap";
+var mnemonic = "over cable chat next example girl food armed work salt venue glide";

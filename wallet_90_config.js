@@ -1,1 +1,1 @@
-var mnemonic = "you cradle finish never six refuse solution diary mask explain sample hammer";
+var mnemonic = "dune digital solid alarm sun club quote skirt immense loop hidden build";

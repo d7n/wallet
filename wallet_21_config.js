@@ -1,1 +1,1 @@
-var mnemonic = "bind tumble typical hobby grunt frog party filter crumble steel jaguar submit";
+var mnemonic = "link toy crucial error soap brother curious now buddy right else myself";

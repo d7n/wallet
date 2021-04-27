@@ -1,1 +1,1 @@
-var mnemonic = "vendor reason jelly invite mention pretty illegal cry exercise slice thunder danger";
+var mnemonic = "antique correct waste cart tide service taste scheme suit all offer universe";

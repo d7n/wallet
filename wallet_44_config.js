@@ -1,1 +1,1 @@
-var mnemonic = "congress creek sing decide liberty axis bring august jaguar razor risk side";
+var mnemonic = "usage loop innocent safe cool labor panic velvet jar spike health region";

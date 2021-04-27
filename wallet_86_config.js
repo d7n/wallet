@@ -1,1 +1,1 @@
-var mnemonic = "setup dash cry charge furnace trend mesh hub shed strong save excuse";
+var mnemonic = "diary knee liquid tunnel sponsor boost rebel under zero illness poverty enter";

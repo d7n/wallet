@@ -1,1 +1,1 @@
-var mnemonic = "weapon simple brave broom case van awake happy domain leg eyebrow width";
+var mnemonic = "trade six nominee indoor bean hub toddler infant envelope over climb tragic";

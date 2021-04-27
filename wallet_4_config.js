@@ -1,1 +1,1 @@
-var mnemonic = "sock addict pet exact scrub tone curve artwork ring duck kitchen obtain";
+var mnemonic = "obtain actual angry exact strategy fiction day win question robot age mechanic";

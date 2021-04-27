@@ -1,1 +1,1 @@
-var mnemonic = "food amazing over west drip fan exact loud fragile suit wasp world";
+var mnemonic = "forward next soon nation always envelope broken lucky cupboard poem ginger profit";

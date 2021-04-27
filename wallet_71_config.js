@@ -1,1 +1,1 @@
-var mnemonic = "innocent office height mushroom tuna pony ghost into use caught garlic wait";
+var mnemonic = "tennis lava license cross logic cannon force blossom gasp coin subway doll";

@@ -1,1 +1,1 @@
-var mnemonic = "wrist earn nurse snake seven lobster frown depth olympic bitter accident stumble";
+var mnemonic = "town team skirt fix online diesel slush drip borrow draft bachelor derive";

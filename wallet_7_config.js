@@ -1,1 +1,1 @@
-var mnemonic = "fashion neglect submit attitude bunker behind chase season meat border crater own";
+var mnemonic = "heavy tuna blur trust example hundred raw embark circle energy enrich clog";

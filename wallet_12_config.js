@@ -1,1 +1,1 @@
-var mnemonic = "curious hamster afford exile quick goddess mean general advance tongue green skull";
+var mnemonic = "boil naive path rack learn doll orchard reveal fuel favorite board drink";

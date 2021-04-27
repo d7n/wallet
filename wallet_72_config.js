@@ -1,1 +1,1 @@
-var mnemonic = "oyster chimney design rural educate model gaze amateur cattle forum lawsuit shed";
+var mnemonic = "medal choose distance fee sight word report wolf utility extra aisle coffee";

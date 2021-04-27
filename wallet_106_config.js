@@ -1,1 +1,1 @@
-var mnemonic = "wild oven convince trash inmate hamster spare now foam math quick wrestle";
+var mnemonic = "pulse inhale pudding romance found find plunge innocent office license question enforce";

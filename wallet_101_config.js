@@ -1,1 +1,1 @@
-var mnemonic = "lyrics hen bless spell survey fresh resist genius rally pulp romance step";
+var mnemonic = "buzz velvet wild cup bamboo please sample rebuild subway kidney slush like";

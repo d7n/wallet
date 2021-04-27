@@ -1,1 +1,1 @@
-var mnemonic = "census educate universe together liar hood earn inhale lottery law junior need";
+var mnemonic = "glad burst parade grant trumpet glue mention sibling aim sample winner auction";

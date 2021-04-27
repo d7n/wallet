@@ -1,1 +1,1 @@
-var mnemonic = "model knee present promote error upset faith style inch quality flash hurry";
+var mnemonic = "color glory eyebrow rival common fossil consider jewel muffin level cluster auction";

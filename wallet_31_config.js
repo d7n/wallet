@@ -1,1 +1,1 @@
-var mnemonic = "fragile guess range outdoor rule excuse grain hunt cancel order bronze toy";
+var mnemonic = "next coffee present vast turkey gesture detect federal winner erase mistake snow";

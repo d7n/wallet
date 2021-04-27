@@ -1,1 +1,1 @@
-var mnemonic = "giggle decade alter impulse require across swear mountain huge rain hybrid fox";
+var mnemonic = "frown first myth found icon yellow alarm tomorrow happy point wasp ocean";

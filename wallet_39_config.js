@@ -1,1 +1,1 @@
-var mnemonic = "write great pluck suggest wagon rice verify pilot aware roast boost loop";
+var mnemonic = "armor monkey tuna still hat dash main position alien sail crew media";

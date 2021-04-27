@@ -1,1 +1,1 @@
-var mnemonic = "embrace book merge split enter direct mushroom warm spare zoo square future";
+var mnemonic = "crush asthma mass seven local submit amused heart tortoise cactus harvest rocket";

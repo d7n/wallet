@@ -1,1 +1,1 @@
-var mnemonic = "exile culture company toe risk symptom rose field cliff canal diamond hurt";
+var mnemonic = "damage other exercise issue dust cross distance party chair retreat winter baby";

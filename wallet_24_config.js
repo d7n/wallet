@@ -1,1 +1,1 @@
-var mnemonic = "mimic robust auction inner solution under update fit paper office remember annual";
+var mnemonic = "faculty advance margin page clay cruel habit they lady excite answer fatal";

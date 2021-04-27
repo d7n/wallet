@@ -1,1 +1,1 @@
-var mnemonic = "mix soon forward bone perfect debate dynamic entry amazing obvious spider into";
+var mnemonic = "tail goddess market enact stuff close illegal pave erode ozone theme milk";

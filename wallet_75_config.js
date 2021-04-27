@@ -1,1 +1,1 @@
-var mnemonic = "refuse that panther present sniff label direct race evil million stage absent";
+var mnemonic = "trophy fringe catalog hour bacon code please path range forest weapon easily";

@@ -1,1 +1,1 @@
-var mnemonic = "decide skin hat celery arrive alley mention egg december tornado picnic tiger";
+var mnemonic = "wave attract absorb situate knock pulse mule diet thing endless donor cost";

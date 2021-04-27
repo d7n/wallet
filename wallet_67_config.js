@@ -1,1 +1,1 @@
-var mnemonic = "remember stand column scheme main elevator trouble wheat solid law exact husband";
+var mnemonic = "midnight demand plate goose drift hockey youth diamond example judge voice parade";

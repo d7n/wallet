@@ -1,1 +1,1 @@
-var mnemonic = "myth traffic luggage shed reduce captain mesh hub naive yellow assault engine";
+var mnemonic = "autumn ordinary vibrant box quit hood link lyrics access symbol humble quote";

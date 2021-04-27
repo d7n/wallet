@@ -1,1 +1,1 @@
-var mnemonic = "round six improve mass ordinary amateur include stable nerve album left bitter";
+var mnemonic = "donkey tribe rural slow panda detect long myself border finish planet glow";

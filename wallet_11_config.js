@@ -1,1 +1,1 @@
-var mnemonic = "profit local frame spin oblige mass furnace aspect wide bunker else still";
+var mnemonic = "health throw sphere they script scrap neutral miracle thank negative bleak dice";

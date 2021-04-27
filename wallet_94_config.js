@@ -1,1 +1,1 @@
-var mnemonic = "banana wrestle suit proud curtain mirror milk zero aisle team miss solve";
+var mnemonic = "because year when drill suggest region taste table water frozen glad marble";

@@ -1,1 +1,1 @@
-var mnemonic = "wool video lawn warfare main critic all monster giraffe you assume truly";
+var mnemonic = "stock advice base fold level december culture kick install person park blush";

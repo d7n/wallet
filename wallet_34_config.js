@@ -1,1 +1,1 @@
-var mnemonic = "midnight access maximum culture exchange inform tongue monitor fashion loop clean mobile";
+var mnemonic = "actual script syrup prevent bid useless upgrade equal sleep thought legal sauce";

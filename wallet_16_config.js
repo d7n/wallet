@@ -1,1 +1,1 @@
-var mnemonic = "moment close cave else carpet basket scale deny theory toilet fox dizzy";
+var mnemonic = "solve erase city flee theme vote spot joke daring duty lab patient";

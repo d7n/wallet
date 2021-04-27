@@ -1,1 +1,1 @@
-var mnemonic = "deposit develop online draft flat bacon strong parade traffic involve reform prevent";
+var mnemonic = "dial motor peasant clown winner sponsor ripple relax arrange shock artist win";

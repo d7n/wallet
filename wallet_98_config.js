@@ -1,1 +1,1 @@
-var mnemonic = "used priority lumber quiz analyst umbrella royal task dilemma sunny quiz enact";
+var mnemonic = "tent veteran episode mention peace month joy pupil glare love tissue scene";

@@ -1,1 +1,1 @@
-var mnemonic = "close route flip sport original focus trend cram mistake wink insect electric";
+var mnemonic = "funny verb vehicle one tumble fossil fold jelly text movie reject dial";

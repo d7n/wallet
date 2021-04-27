@@ -1,1 +1,1 @@
-var mnemonic = "enforce blast february submit benefit tell public mad exhibit excuse boring human";
+var mnemonic = "journey art orient bread nephew equal vehicle pilot episode attitude aunt mimic";

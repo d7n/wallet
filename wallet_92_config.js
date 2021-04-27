@@ -1,1 +1,1 @@
-var mnemonic = "item stumble road group wrist kind fringe gallery alter evoke tired smile";
+var mnemonic = "basic beyond hip worry fault act crater dice hurry wedding stairs loud";

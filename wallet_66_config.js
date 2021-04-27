@@ -1,1 +1,1 @@
-var mnemonic = "decorate tuna sing already upper slice unique accuse budget know enjoy bar";
+var mnemonic = "faculty update rack couple leopard fat relief odor supply abuse clay unfair";

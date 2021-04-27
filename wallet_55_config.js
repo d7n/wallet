@@ -1,1 +1,1 @@
-var mnemonic = "lift toast drastic differ first job choice grow lucky fluid bean glimpse";
+var mnemonic = "leg praise tool catch neck pride garden reflect witness noise palace vehicle";

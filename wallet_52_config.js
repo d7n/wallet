@@ -1,1 +1,1 @@
-var mnemonic = "trust adapt autumn rough cram fun galaxy cousin turkey arrange appear perfect";
+var mnemonic = "toy bargain liquid erase pause busy inquiry video iron model ramp divert";

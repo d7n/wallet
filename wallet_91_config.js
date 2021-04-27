@@ -1,1 +1,1 @@
-var mnemonic = "stove member shell setup near quit nasty sure kind eagle analyst sign";
+var mnemonic = "ankle silver rule regret cause teach wealth fantasy draw coast napkin tool";

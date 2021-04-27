@@ -1,1 +1,1 @@
-var mnemonic = "wisdom mirror dragon reason glad zoo price question poem cinnamon wing render";
+var mnemonic = "reason wedding coil edit lawn story turn resource major sun soft spice";
