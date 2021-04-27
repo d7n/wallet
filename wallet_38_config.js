@@ -1,1 +1,1 @@
-var mnemonic = "upper remind hidden letter turn wall tent cake domain end wine flock";
+var mnemonic = "dinner embody require liberty choose gasp cannon talent female apple father aerobic";

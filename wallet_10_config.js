@@ -1,1 +1,1 @@
-var mnemonic = "coin mutual drift rapid concert target circle swarm beach own churn dolphin";
+var mnemonic = "rather lyrics fence visual rural outer crime evil push sunny indicate coil";

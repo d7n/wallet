@@ -1,1 +1,1 @@
-var mnemonic = "clean waste income alarm pudding wasp nasty habit sphere allow scale say";
+var mnemonic = "cluster wall grocery man citizen inspire drink flavor hotel disorder reject crawl";

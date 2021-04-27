@@ -1,1 +1,1 @@
-var mnemonic = "assume payment clinic raven squeeze black prosper baby rice simple angry giggle";
+var mnemonic = "galaxy usual maid plastic clinic account garlic ahead leopard elephant orphan cradle";

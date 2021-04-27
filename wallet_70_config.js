@@ -1,1 +1,1 @@
-var mnemonic = "vendor transfer guard frown group pride bonus asthma equal example mirror grocery";
+var mnemonic = "guess drastic exotic gravity pride public lesson dutch jeans base car caution";

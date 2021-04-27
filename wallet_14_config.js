@@ -1,1 +1,1 @@
-var mnemonic = "provide rib noise liberty swap domain winter problem pass crack taste audit";
+var mnemonic = "board crash tone south syrup famous there either ensure runway slush pitch";

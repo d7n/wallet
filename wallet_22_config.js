@@ -1,1 +1,1 @@
-var mnemonic = "inspire okay first giant sugar run buffalo purity spoon fluid upset tonight";
+var mnemonic = "blush cake window strong miss useful parade maximum country hen enforce exist";

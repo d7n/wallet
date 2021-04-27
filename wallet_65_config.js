@@ -1,1 +1,1 @@
-var mnemonic = "federal punch fabric decrease neck pull kitten label aim stem frog math";
+var mnemonic = "achieve language year alarm bullet fantasy finger warrior tube layer average nothing";

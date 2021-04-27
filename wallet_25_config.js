@@ -1,1 +1,1 @@
-var mnemonic = "pledge burst bless awful course wisdom owner since guess vendor task gentle";
+var mnemonic = "pave exercise dirt lamp glue space pause blame cave fame quiz inner";

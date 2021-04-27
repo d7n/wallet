@@ -1,1 +1,1 @@
-var mnemonic = "response riot raven undo target ritual curious cinnamon pledge federal radio screen";
+var mnemonic = "plate injury hair easily shoot page solve daughter cargo rabbit toe toilet";

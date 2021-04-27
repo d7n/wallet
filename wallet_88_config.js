@@ -1,1 +1,1 @@
-var mnemonic = "donkey cliff rebuild attend bullet debate economy bullet degree have rate split";
+var mnemonic = "alone market vital index belt brick organ exit wasp cloud rice control";

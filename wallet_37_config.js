@@ -1,1 +1,1 @@
-var mnemonic = "blame photo rich bundle act awesome sea flag brave budget cigar obey";
+var mnemonic = "club soup priority bring marble ketchup cute faint build second breeze exchange";

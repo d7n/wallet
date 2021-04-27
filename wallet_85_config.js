@@ -1,1 +1,1 @@
-var mnemonic = "dignity select error truly rapid symbol staff pretty donkey artist canvas place";
+var mnemonic = "goose electric exhaust offer cake list cheese blind village inject ozone casual";

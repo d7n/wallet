@@ -1,1 +1,1 @@
-var mnemonic = "eight economy south advance noble setup cube prepare hello square domain mountain";
+var mnemonic = "paper process behave fancy attend sorry label prepare whale visit sauce club";

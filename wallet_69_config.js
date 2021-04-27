@@ -1,1 +1,1 @@
-var mnemonic = "only hover fork large mention defy stuff popular pulse about brown moment";
+var mnemonic = "pipe repeat budget sort obvious staff pull aspect pumpkin naive fiscal beef";

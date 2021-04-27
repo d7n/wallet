@@ -1,1 +1,1 @@
-var mnemonic = "inner evidence kick ordinary trend size motion ride job polar write arrest";
+var mnemonic = "program settle diet marriage remind forum addict idle rather label address joy";

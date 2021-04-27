@@ -1,1 +1,1 @@
-var mnemonic = "daring pass tooth corn pitch innocent purpose clerk matrix toe solid drink";
+var mnemonic = "survey old dilemma mixture eye shift erode affair absurd lazy mansion arena";

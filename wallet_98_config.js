@@ -1,1 +1,1 @@
-var mnemonic = "early rose venue toilet join scan lazy dust cruel assault ancient fee";
+var mnemonic = "torch orphan coral physical goose cover fruit rubber wild grab february object";

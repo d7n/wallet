@@ -1,1 +1,1 @@
-var mnemonic = "brand vicious tower adjust coral grant mobile lab vocal tumble dignity there";
+var mnemonic = "visit follow rice twenty denial friend move cage talent town enrich hero";

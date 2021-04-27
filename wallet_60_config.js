@@ -1,1 +1,1 @@
-var mnemonic = "merit bubble mass fatigue science minimum fly injury romance banana anchor sick";
+var mnemonic = "upper stadium present battle oak mango consider divert grit consider stamp item";

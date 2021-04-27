@@ -1,1 +1,1 @@
-var mnemonic = "wrong arena tired wrestle dance inherit point lazy dog wrong stuff tomorrow";
+var mnemonic = "display online remember husband success neglect buyer position produce imitate observe caution";

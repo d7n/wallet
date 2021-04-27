@@ -1,1 +1,1 @@
-var mnemonic = "august wool solve gesture dignity elevator street reflect depart frozen tissue tide";
+var mnemonic = "maid client youth insect brave vote fiscal vocal lock addict certain aspect";

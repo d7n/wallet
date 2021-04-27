@@ -1,1 +1,1 @@
-var mnemonic = "buddy salute library direct shy cycle liberty cousin drink response attract involve";
+var mnemonic = "super success guide caution alcohol ozone maple goose spoon syrup achieve domain";

@@ -1,1 +1,1 @@
-var mnemonic = "prepare antenna wreck above gesture chest raise laptop manual rhythm wall often";
+var mnemonic = "magic robust seven various false pulse lab claim trumpet dad december false";

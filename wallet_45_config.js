@@ -1,1 +1,1 @@
-var mnemonic = "shoulder design tilt roof auction tomato poet deny jaguar call toast congress";
+var mnemonic = "repair analyst hobby palace rent lemon arctic hour remember dilemma prefer inflict";

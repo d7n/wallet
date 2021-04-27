@@ -1,1 +1,1 @@
-var mnemonic = "note romance domain smoke adapt library achieve myself obtain suspect obey burden";
+var mnemonic = "lounge tank immune cheese awful fiction craft artist bulb young hat unit";

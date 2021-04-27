@@ -1,1 +1,1 @@
-var mnemonic = "genius clutch middle thumb debris analyst use oval usual wave kitchen august";
+var mnemonic = "provide reveal ritual pupil size torch until you good immense direct brief";

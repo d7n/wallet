@@ -1,1 +1,1 @@
-var mnemonic = "route civil fence deposit ripple seed jacket express weasel leopard jewel any";
+var mnemonic = "obey profit ritual draw attend guard surprise shed hammer option coffee wise";

@@ -1,1 +1,1 @@
-var mnemonic = "creek sun shy vote syrup enough boil risk dance inspire home expose";
+var mnemonic = "fence gun upgrade slush gas grape hen announce fiction comfort interest club";

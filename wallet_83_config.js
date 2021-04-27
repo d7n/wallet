@@ -1,1 +1,1 @@
-var mnemonic = "bacon name analyst hair blouse quit frost sunset spike hurry hamster staff";
+var mnemonic = "wrong calm bamboo angry slush artwork what copper trust arrive weekend scatter";

@@ -1,1 +1,1 @@
-var mnemonic = "turtle glass already antenna vacuum nest write dutch outside frown split gas";
+var mnemonic = "census menu rail aim decorate memory ignore help shrimp crawl ketchup relief";

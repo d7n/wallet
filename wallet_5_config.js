@@ -1,1 +1,1 @@
-var mnemonic = "artwork crouch decide there west damp hundred swim version wrap grunt surge";
+var mnemonic = "action history proof room chunk know fitness sausage smoke matter grid vehicle";

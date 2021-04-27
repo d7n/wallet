@@ -1,1 +1,1 @@
-var mnemonic = "orient wing vanish discover awkward foil fuel farm wife step bounce bag";
+var mnemonic = "basket brain congress help old post soup lesson amount climb rely mind";

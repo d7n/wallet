@@ -1,1 +1,1 @@
-var mnemonic = "throw pizza matrix trumpet whip relax use hospital brush explain interest bring";
+var mnemonic = "leisure digital jungle congress code addict recall alarm before banana truth mean";

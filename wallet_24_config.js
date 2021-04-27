@@ -1,1 +1,1 @@
-var mnemonic = "copper core fashion anxiety misery actress rubber session order high radio main";
+var mnemonic = "record turtle town embark earn food vote sport cover rely snow rack";

@@ -1,1 +1,1 @@
-var mnemonic = "cancel boat bundle final crush mansion snake start short retreat ordinary arm";
+var mnemonic = "then garment furnace afford pair mass rabbit moral decade lounge skill connect";

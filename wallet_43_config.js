@@ -1,1 +1,1 @@
-var mnemonic = "fever shoe make turn cream vast crawl blush domain aunt chapter happy";
+var mnemonic = "tip fitness bracket wife subway banner opera young cram anxiety run night";

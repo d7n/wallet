@@ -1,1 +1,1 @@
-var mnemonic = "endorse head damage patient inner pony tomorrow walk gym onion analyst trumpet";
+var mnemonic = "announce neutral dwarf poverty begin decade tragic useful dawn across eternal arrow";

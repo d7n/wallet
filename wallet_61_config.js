@@ -1,1 +1,1 @@
-var mnemonic = "bonus erosion round whale apple hover purity boring split couch north reveal";
+var mnemonic = "east pipe advice tobacco punch tail slim tiger airport stove robot purse";

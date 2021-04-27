@@ -1,1 +1,1 @@
-var mnemonic = "come artwork caution barely jazz alpha bracket move silly intact rapid divert";
+var mnemonic = "pizza fire ship flash first stage lecture muscle chief squeeze bus like";

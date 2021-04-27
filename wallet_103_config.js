@@ -1,1 +1,1 @@
-var mnemonic = "try scare pull display explain lawsuit result blade width mirror wash target";
+var mnemonic = "sketch culture argue media sun rack force apology million sheriff fiber step";

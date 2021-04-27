@@ -1,1 +1,1 @@
-var mnemonic = "mother slice indicate remove siege baby thunder bean leader love permit civil";
+var mnemonic = "clinic rely deal fan chronic misery attract squirrel entire deny wing unfold";

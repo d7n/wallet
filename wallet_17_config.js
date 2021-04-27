@@ -1,1 +1,1 @@
-var mnemonic = "impose sausage question stadium demand arm behave nurse route bread hammer angry";
+var mnemonic = "volume episode orchard pioneer case staff decline affair embody blur burger monster";

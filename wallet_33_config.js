@@ -1,1 +1,1 @@
-var mnemonic = "onion cabbage wheel voice vacant rebel rice kiss alien erode crumble velvet";
+var mnemonic = "caution idea huge twenty tool barely exhaust oven mimic barely install mango";

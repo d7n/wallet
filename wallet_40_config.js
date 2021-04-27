@@ -1,1 +1,1 @@
-var mnemonic = "shallow orbit appear siren dolphin clinic ship road blouse subject spring trumpet";
+var mnemonic = "ship love ice emerge head rotate cliff zero gasp paddle viable they";

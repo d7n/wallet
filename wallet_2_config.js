@@ -1,1 +1,1 @@
-var mnemonic = "universe bullet margin spawn ginger tomorrow hard govern ice mandate hub club";
+var mnemonic = "whisper mandate vehicle brief dawn voyage dignity cricket hazard method false cruise";

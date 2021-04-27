@@ -1,1 +1,1 @@
-var mnemonic = "flock worth connect once kite load gaze power open seek trade vintage";
+var mnemonic = "label slush room topple fringe fresh leave height jaguar rain giraffe bomb";

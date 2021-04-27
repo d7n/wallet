@@ -1,1 +1,1 @@
-var mnemonic = "awful skate during evidence naive estate illegal buddy call acid glide also";
+var mnemonic = "broom brass surge fence pond parade brown dance favorite now innocent sibling";

@@ -1,1 +1,1 @@
-var mnemonic = "involve brick glance level hybrid comfort venue ill satoshi soda asset cover";
+var mnemonic = "diamond material void raw bread scene air soap pony avocado advice above";

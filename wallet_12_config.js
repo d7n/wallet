@@ -1,1 +1,1 @@
-var mnemonic = "cute favorite cable ripple purpose empower bleak diary pepper report mail dune";
+var mnemonic = "doll pretty crowd panda clock wink athlete blood labor mule pipe amazing";

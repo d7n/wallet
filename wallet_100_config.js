@@ -1,1 +1,1 @@
-var mnemonic = "danger sugar unit escape prepare interest upper sausage eyebrow resemble project butter";
+var mnemonic = "spot rifle clock thought unlock else timber economy nice round forward famous";

@@ -1,1 +1,1 @@
-var mnemonic = "smoke husband coffee smart decline field debris afford indicate boss flip equal";
+var mnemonic = "volcano boy autumn term year fuel outside behave cute faint bubble script";

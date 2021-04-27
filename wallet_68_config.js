@@ -1,1 +1,1 @@
-var mnemonic = "area follow example inner hen click code entire sibling thought filter pony";
+var mnemonic = "recipe target chuckle pulp solid join ring toward tourist joy visa human";

@@ -1,1 +1,1 @@
-var mnemonic = "horror era attend airport flip evidence music plug below wrap phrase twist";
+var mnemonic = "glance confirm mimic happy question lab wreck grit logic shop autumn rival";

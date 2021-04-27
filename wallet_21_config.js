@@ -1,1 +1,1 @@
-var mnemonic = "pizza color cushion meadow defy flame audit reason ask diamond surprise meat";
+var mnemonic = "stereo sure hole tuna candy start keep token swarm royal metal hello";

@@ -1,1 +1,1 @@
-var mnemonic = "help live shine acoustic quality lady error plate bounce effort letter rapid";
+var mnemonic = "fossil cotton remind chunk camp scare panic mad when trade safe cushion";

@@ -1,1 +1,1 @@
-var mnemonic = "illness tower correct coffee donkey have olympic census praise seminar make trumpet";
+var mnemonic = "auction sustain change chalk filter element distance credit still math father cream";

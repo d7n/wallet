@@ -1,1 +1,1 @@
-var mnemonic = "tip member kangaroo please drip version twist siren sleep grit industry object";
+var mnemonic = "kidney bless zone code snake pipe bean avocado detail artist lecture move";

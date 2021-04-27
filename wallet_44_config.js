@@ -1,1 +1,1 @@
-var mnemonic = "hidden actual emerge dune cram float purity gorilla green galaxy vast rebel";
+var mnemonic = "vendor pill town age jewel industry stuff social metal tide chunk scan";

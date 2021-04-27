@@ -1,1 +1,1 @@
-var mnemonic = "slush inherit weasel early bid number escape oppose toe crush pill crunch";
+var mnemonic = "grass become figure net desk truly antenna cherry stool industry flash van";

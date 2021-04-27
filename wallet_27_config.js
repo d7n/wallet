@@ -1,1 +1,1 @@
-var mnemonic = "oxygen local patrol near polar cattle argue pizza marriage scrap orange exhibit";
+var mnemonic = "stem child athlete sauce argue tower subway century soft infant rubber evolve";

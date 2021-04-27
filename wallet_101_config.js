@@ -1,1 +1,1 @@
-var mnemonic = "soda crack volcano mosquito bean vault jealous rival lift subway joy ozone";
+var mnemonic = "country liberty million meat below shove rebuild remain click element dad glue";

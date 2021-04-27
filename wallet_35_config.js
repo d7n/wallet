@@ -1,1 +1,1 @@
-var mnemonic = "pony federal bar step boss salmon oval fitness rapid hip six dutch";
+var mnemonic = "regret ice usage nuclear trade better clerk deer exchange cabin tunnel soda";

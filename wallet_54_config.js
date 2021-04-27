@@ -1,1 +1,1 @@
-var mnemonic = "wonder subject sweet aunt daring couple slim media quick demand category acoustic";
+var mnemonic = "floor behave laptop there buzz stable apology alarm already proud desert stool";

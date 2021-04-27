@@ -1,1 +1,1 @@
-var mnemonic = "dragon evidence denial entry cart clutch exile apple category logic success title";
+var mnemonic = "east mass apart practice caution exclude reduce drum nest faith forum impact";

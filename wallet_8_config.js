@@ -1,1 +1,1 @@
-var mnemonic = "wing monitor vast neither frame season reform alarm wild shy outer nurse";
+var mnemonic = "insane grid arch hollow flight pause garment knock release mountain unfair pizza";

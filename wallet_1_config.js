@@ -1,1 +1,1 @@
-var mnemonic = "hip nerve good oven valve prison spread glance arrive impulse weather ceiling";
+var mnemonic = "shell crane special magnet program stove meat task fat box digital horror";

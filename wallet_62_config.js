@@ -1,1 +1,1 @@
-var mnemonic = "can much dance focus insane soccer damp vacant private amazing rib eternal";
+var mnemonic = "under you copper fortune replace another angle clip awesome either cactus creek";

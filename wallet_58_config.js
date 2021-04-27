@@ -1,1 +1,1 @@
-var mnemonic = "wife cool chimney recall flat opinion anger camp any issue mixture kidney";
+var mnemonic = "arrive spell brief vapor dance vicious tip repeat notice topple pond good";

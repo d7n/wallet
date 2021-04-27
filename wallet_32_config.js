@@ -1,1 +1,1 @@
-var mnemonic = "behind random trust young ethics consider trip where join march choose turkey";
+var mnemonic = "finish domain cotton twist pumpkin license total next walk during position fee";

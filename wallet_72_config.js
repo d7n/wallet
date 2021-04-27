@@ -1,1 +1,1 @@
-var mnemonic = "athlete evidence top spatial jump document gentle also leaf depend other advice";
+var mnemonic = "winter dentist pledge jazz cool neglect income worry weather practice cloth toddler";

@@ -1,1 +1,1 @@
-var mnemonic = "mind elder add slender romance skirt hollow leg ugly oxygen crater suffer";
+var mnemonic = "seed deal season style cost easily insane exile plate brief priority clip";

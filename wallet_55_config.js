@@ -1,1 +1,1 @@
-var mnemonic = "remind bleak monster column agent chase pact solve wagon school inch add";
+var mnemonic = "portion shaft seek moon include drive yellow junior cereal loud must drill";

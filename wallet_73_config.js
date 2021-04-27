@@ -1,1 +1,1 @@
-var mnemonic = "alcohol sudden satoshi pony poet machine grit spoil tonight tuition pluck evolve";
+var mnemonic = "another boil coil cruise mom cable envelope subway achieve copper large name";

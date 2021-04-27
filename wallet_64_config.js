@@ -1,1 +1,1 @@
-var mnemonic = "emotion peanut cat thunder tourist defense half bullet pizza obtain credit artefact";
+var mnemonic = "earn patrol unfold one near accident swear course make brave nuclear escape";

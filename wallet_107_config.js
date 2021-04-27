@@ -1,1 +1,1 @@
-var mnemonic = "alert organ lens unique combine crazy curious gloom price august enter web";
+var mnemonic = "mesh rail shadow edge blame choice refuse above rescue shuffle unfair entry";

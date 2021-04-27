@@ -1,1 +1,1 @@
-var mnemonic = "diagram leisure weasel zoo bag disagree old radar analyst fall inch cart";
+var mnemonic = "invest kind tunnel echo detect basic verb purse shock cricket tube post";

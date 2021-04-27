@@ -1,1 +1,1 @@
-var mnemonic = "provide drama item catch crowd sustain logic furnace unfold sting beach maple";
+var mnemonic = "helmet enter relax dial high odor meadow science awesome success unusual gate";

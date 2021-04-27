@@ -1,1 +1,1 @@
-var mnemonic = "flock symbol truly eagle pilot artefact mind poem spirit forum festival cry";
+var mnemonic = "deputy lunch hire hair boy jewel differ danger milk lock sick tape";

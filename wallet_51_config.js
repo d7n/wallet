@@ -1,1 +1,1 @@
-var mnemonic = "reform metal slight gallery evolve detect danger exhaust inmate excess find floor";
+var mnemonic = "duty income mask canal swing act call access shock sword oblige flag";

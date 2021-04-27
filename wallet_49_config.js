@@ -1,1 +1,1 @@
-var mnemonic = "under pear churn chair magic clap unable clap base couple aim message";
+var mnemonic = "airport doctor father garment butter inquiry lamp fine merry away clap derive";

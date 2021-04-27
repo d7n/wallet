@@ -1,1 +1,1 @@
-var mnemonic = "hotel outside glue story charge gain embody because culture snack slab silly";
+var mnemonic = "upset fashion celery wide taxi absurd enable pass expose gossip mechanic code";

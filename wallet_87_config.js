@@ -1,1 +1,1 @@
-var mnemonic = "reward settle region squeeze kick tourist buyer logic symptom garden develop shoe";
+var mnemonic = "also ready nature small wait sport cloth banana jealous grit toast such";

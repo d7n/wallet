@@ -1,1 +1,1 @@
-var mnemonic = "awful make bracket wire deer cousin edge unlock web segment hamster mixed";
+var mnemonic = "athlete cactus again job project venue worry walk leopard recycle public main";

@@ -1,1 +1,1 @@
-var mnemonic = "vacant crunch grab split giant peasant ask truck address wool exercise belt";
+var mnemonic = "nest lottery logic garlic winner mixture april guard scatter innocent reject easy";

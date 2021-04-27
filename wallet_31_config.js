@@ -1,1 +1,1 @@
-var mnemonic = "afraid avoid cycle afraid pave shield dog wreck ceiling depart two scrub";
+var mnemonic = "sunset curious black found scan spare refuse firm guitar swap firm excite";

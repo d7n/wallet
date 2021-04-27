@@ -1,1 +1,1 @@
-var mnemonic = "sense fresh pony echo light whale decide delay door panda oxygen okay";
+var mnemonic = "bounce knee hand space snap wait stamp primary grape fatigue spawn creek";

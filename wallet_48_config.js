@@ -1,1 +1,1 @@
-var mnemonic = "similar follow abuse wedding oppose replace huge relief wool cannon deposit knock";
+var mnemonic = "steak jacket agree present ball earth mirror twist pill track clown exile";

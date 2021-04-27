@@ -1,1 +1,1 @@
-var mnemonic = "crisp check coconut physical sign cup staff carry food timber swear luggage";
+var mnemonic = "law swamp gather drift bulb man quick blue hello capable december ostrich";

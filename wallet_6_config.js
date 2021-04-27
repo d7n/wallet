@@ -1,1 +1,1 @@
-var mnemonic = "furnace settle one tail laptop indoor midnight gentle orchard sketch try barrel";
+var mnemonic = "animal joke cereal layer come help note brother deal basket affair hundred";

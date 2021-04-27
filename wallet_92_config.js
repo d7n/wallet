@@ -1,1 +1,1 @@
-var mnemonic = "width loan eight present muscle vault coast million guitar august fever correct";
+var mnemonic = "extend drama result worth expire bundle churn hint identify banner unfair fork";

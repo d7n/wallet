@@ -1,1 +1,1 @@
-var mnemonic = "brother stairs return senior gift column repeat offer toe decorate liquid census";
+var mnemonic = "what celery amateur obscure lyrics squirrel innocent neither habit tenant weekend pact";
