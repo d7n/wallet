@@ -1,1 +1,1 @@
-var mnemonic = "gossip senior soda talk common believe race illness scissors hen flight lamp";
+var mnemonic = "jewel eternal disease myth strong arrive execute sea bitter moment toy race";

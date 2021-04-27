@@ -1,1 +1,1 @@
-var mnemonic = "jealous between force tent item better broom injury boy car alert inquiry";
+var mnemonic = "eternal visit damp person dish exile romance rack note history health inject";

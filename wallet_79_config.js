@@ -1,1 +1,1 @@
-var mnemonic = "leisure gasp moral age picnic either drip jeans margin false best occur";
+var mnemonic = "debate peasant mercy candy canal lawsuit over item marble skill close enemy";

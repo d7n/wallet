@@ -1,1 +1,1 @@
-var mnemonic = "humor topic wisdom planet spike monitor beauty flat debate wood demise media";
+var mnemonic = "circle kangaroo novel own trash enter dress sausage tumble thought question lounge";

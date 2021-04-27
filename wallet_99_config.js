@@ -1,1 +1,1 @@
-var mnemonic = "ensure accident picture aware miss arrest expire giggle glance task abstract arrow";
+var mnemonic = "airport team tourist floor thank proof spread rack place frown achieve hood";

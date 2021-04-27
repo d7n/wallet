@@ -1,1 +1,1 @@
-var mnemonic = "theory clog ice health sail choice escape violin offer roast siege little";
+var mnemonic = "affair purchase energy park satisfy city mobile history myth custom flock choose";

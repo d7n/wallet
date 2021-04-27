@@ -1,1 +1,1 @@
-var mnemonic = "lazy file trash purpose monitor risk balance child elder cherry injury ranch";
+var mnemonic = "business lobster pave crack anxiety job mixture machine cash loyal much bless";

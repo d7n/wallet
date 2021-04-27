@@ -1,1 +1,1 @@
-var mnemonic = "yellow olive youth notable sort century plunge lottery rally region method cactus";
+var mnemonic = "quality alley noodle benefit toilet memory shield under era cinnamon leopard poet";

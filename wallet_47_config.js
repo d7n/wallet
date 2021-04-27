@@ -1,1 +1,1 @@
-var mnemonic = "harsh indicate spoon become embrace cousin ability blind dance final catch amateur";
+var mnemonic = "dynamic cliff merge alcohol knock elevator bridge acoustic fatigue spike rhythm amazing";

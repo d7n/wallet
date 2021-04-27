@@ -1,1 +1,1 @@
-var mnemonic = "camp invite verb dune large tissue foot duck glove require close obscure";
+var mnemonic = "math divorce surge thrive various motion magic cliff barely napkin sweet hover";

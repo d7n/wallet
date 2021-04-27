@@ -1,1 +1,1 @@
-var mnemonic = "person axis dismiss response choice error cactus drastic tumble top daring bid";
+var mnemonic = "latin boring cliff can element say hammer dash better monitor despair admit";

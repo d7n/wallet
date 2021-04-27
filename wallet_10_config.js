@@ -1,1 +1,1 @@
-var mnemonic = "ship neck sponsor lesson speed heart shield brief wise siren loyal alien";
+var mnemonic = "apology mirror lady goose warm slot tray sunny style rocket worry alien";

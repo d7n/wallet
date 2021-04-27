@@ -1,1 +1,1 @@
-var mnemonic = "fitness salt region wrong ladder original property dress skin involve camp virtual";
+var mnemonic = "letter unlock deny flock coin fog assault crater holiday delay glare void";

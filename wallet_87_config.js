@@ -1,1 +1,1 @@
-var mnemonic = "learn canyon razor crater cube bulk found rebel help ignore hill vacant";
+var mnemonic = "little bus bless peasant lunar uncle clean shoe what foster kangaroo enough";

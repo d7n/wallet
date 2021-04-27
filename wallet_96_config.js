@@ -1,1 +1,1 @@
-var mnemonic = "symbol liberty flat cable unknown crane ugly giant genius taste budget spawn";
+var mnemonic = "suspect route need spray spray word produce dog bag despair portion cereal";

@@ -1,1 +1,1 @@
-var mnemonic = "hammer cake lend grant permit cigar shield summer tone trick liquid target";
+var mnemonic = "ahead burger stamp student major boat join great rare name space exile";

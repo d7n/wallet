@@ -1,1 +1,1 @@
-var mnemonic = "add keep able offer try strategy acid circle fly attend join average";
+var mnemonic = "harbor column limit proof crumble write group anger obtain salmon margin paddle";

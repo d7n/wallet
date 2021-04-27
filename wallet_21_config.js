@@ -1,1 +1,1 @@
-var mnemonic = "prevent riot sudden raven abstract hat mansion thumb that transfer young script";
+var mnemonic = "flower able dynamic nothing small program grace rough verb luggage jelly unfair";

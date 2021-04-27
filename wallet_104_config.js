@@ -1,1 +1,1 @@
-var mnemonic = "thrive punch milk web tonight settle exact vague sibling scan bring amount";
+var mnemonic = "danger public sport ring orange few journey feature write total little rack";

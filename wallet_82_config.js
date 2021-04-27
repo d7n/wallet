@@ -1,1 +1,1 @@
-var mnemonic = "increase cargo parrot solution slim verb interest teach armed crop attend leader";
+var mnemonic = "retire evidence garment senior library pill cinnamon trophy yard game bleak stool";

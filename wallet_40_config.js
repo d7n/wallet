@@ -1,1 +1,1 @@
-var mnemonic = "cup amazing spider trip young normal invite slight melt chalk slice link";
+var mnemonic = "maximum shy limit column elevator exist kick thrive holiday slender hurdle million";

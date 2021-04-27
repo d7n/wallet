@@ -1,1 +1,1 @@
-var mnemonic = "sense crowd manual chair level essence quantum like toast jar parent second";
+var mnemonic = "destroy burst assume wrong consider write cycle outer million purity offer flash";

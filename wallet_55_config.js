@@ -1,1 +1,1 @@
-var mnemonic = "later puzzle rescue save impose muffin reflect carbon dice loop exotic iron";
+var mnemonic = "jeans pink budget famous conduct senior chimney shrimp measure extra shoe cousin";

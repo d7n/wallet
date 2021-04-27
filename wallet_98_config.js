@@ -1,1 +1,1 @@
-var mnemonic = "skirt rapid blossom jazz zone rocket fit vote stage write fun furnace";
+var mnemonic = "cloud conduct ugly devote journey curious master reunion success ethics legend neutral";

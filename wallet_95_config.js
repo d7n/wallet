@@ -1,1 +1,1 @@
-var mnemonic = "usual ball noodle weapon praise film exercise army antique transfer ahead resist";
+var mnemonic = "insect hard lamp twist antenna crime omit mind enlist input strategy coast";

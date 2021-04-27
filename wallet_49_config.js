@@ -1,1 +1,1 @@
-var mnemonic = "tennis armed mule avoid clever normal visa laugh snow moral net vapor";
+var mnemonic = "wife flavor hurt blast rose enlist car arrive orient prevent will lunch";

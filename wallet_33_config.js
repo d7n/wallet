@@ -1,1 +1,1 @@
-var mnemonic = "brush duty ladder acoustic six ankle develop worth run dentist light camp";
+var mnemonic = "path hero tackle ancient cricket acoustic dance noodle often crater burst ripple";

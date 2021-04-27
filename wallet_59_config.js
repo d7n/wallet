@@ -1,1 +1,1 @@
-var mnemonic = "media fruit cat chapter prize cause measure adapt faint deny skin swim";
+var mnemonic = "genius cloud actress space guess lyrics torch clock remain dune comic road";

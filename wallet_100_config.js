@@ -1,1 +1,1 @@
-var mnemonic = "economy tribe announce wall volume another dress crawl tuna rose gossip grab";
+var mnemonic = "magnet apology coach wagon atom pill agree jealous category surprise bar symptom";

@@ -1,1 +1,1 @@
-var mnemonic = "must pupil hip inner earn rookie lab run attract harbor half nature";
+var mnemonic = "observe canyon require adapt kidney erase deal ticket fog country attend dirt";

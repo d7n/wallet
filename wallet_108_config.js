@@ -1,1 +1,1 @@
-var mnemonic = "awkward rural sign force soup blur feed list crane canal kidney mirror";
+var mnemonic = "flavor grace spoon coach monkey antique burger visual split fatal library casino";

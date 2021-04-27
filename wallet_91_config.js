@@ -1,1 +1,1 @@
-var mnemonic = "reward strike outer tenant govern auto face occur recipe water glass neck";
+var mnemonic = "begin fiber track aisle globe slogan pause next slide night level twice";

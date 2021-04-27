@@ -1,1 +1,1 @@
-var mnemonic = "false arctic prevent moral play conduct uncover jar play pride junior ability";
+var mnemonic = "room general tornado speak this custom same lizard mango present snow bag";

@@ -1,1 +1,1 @@
-var mnemonic = "oyster blanket asthma snack rich trick laptop pair swim decorate you toy";
+var mnemonic = "shrug gesture nice focus grain become weapon viable uncle alcohol team earth";

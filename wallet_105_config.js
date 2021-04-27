@@ -1,1 +1,1 @@
-var mnemonic = "entire soul body cruise fix motion expand visual valley recipe patch million";
+var mnemonic = "alley glow tobacco orange upset eye scene great lucky old legend tiny";

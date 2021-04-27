@@ -1,1 +1,1 @@
-var mnemonic = "balcony note laugh wealth wine biology link wealth hub modify denial turn";
+var mnemonic = "fitness fit index alone bus cruel guitar absorb pact slam hen empty";

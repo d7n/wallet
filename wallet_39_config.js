@@ -1,1 +1,1 @@
-var mnemonic = "outdoor artwork fire roast employ anger cause bar hammer lock admit mammal";
+var mnemonic = "song coast butter tribe idea father zone unable inform utility crowd excuse";

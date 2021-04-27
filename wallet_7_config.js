@@ -1,1 +1,1 @@
-var mnemonic = "absorb roast man swap gloom naive vast sort grab eyebrow orient issue";
+var mnemonic = "saddle blue foster height select hybrid clever describe swing ask celery demise";

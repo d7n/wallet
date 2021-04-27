@@ -1,1 +1,1 @@
-var mnemonic = "snack blind cat spread gown rich design unique gossip actress finish pause";
+var mnemonic = "menu among leave force trophy blush profit juice horn icon face firm";

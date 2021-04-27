@@ -1,1 +1,1 @@
-var mnemonic = "fiction eternal game visa stomach cute attend cup work reflect hawk rapid";
+var mnemonic = "shield reward noodle marble film glide hospital flag act simple axis random";

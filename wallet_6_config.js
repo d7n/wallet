@@ -1,1 +1,1 @@
-var mnemonic = "glide rigid music fiscal lawn domain fresh nurse magic scene cable giant";
+var mnemonic = "fan twist mountain dial joke allow before huge decrease tell success walnut";

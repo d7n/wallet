@@ -1,1 +1,1 @@
-var mnemonic = "question admit grit size inhale achieve profit traffic cram source rare green";
+var mnemonic = "voyage urban blame main brisk cost library pony robust lift sick section";

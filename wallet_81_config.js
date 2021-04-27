@@ -1,1 +1,1 @@
-var mnemonic = "narrow install rhythm pen atom forum cycle degree must learn brain blanket";
+var mnemonic = "bid town pride system movie remove news wrap reform purchase ignore ride";

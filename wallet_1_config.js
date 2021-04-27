@@ -1,1 +1,1 @@
-var mnemonic = "column orient pulp glimpse island approve inject issue priority kite match beauty";
+var mnemonic = "output simple alone rural spend bicycle unhappy fat fiction trend jump undo";

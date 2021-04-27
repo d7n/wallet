@@ -1,1 +1,1 @@
-var mnemonic = "noodle input seat affair ensure gown elite curtain fragile mango moment fog";
+var mnemonic = "impulse shaft acoustic seek attitude gallery model hawk convince rhythm broken way";

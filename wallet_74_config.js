@@ -1,1 +1,1 @@
-var mnemonic = "immense cousin pulse witness vacuum hammer mercy welcome ladder ridge shadow tenant";
+var mnemonic = "aim glad mail vacuum imitate grow boss vessel update fix dress shield";

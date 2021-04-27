@@ -1,1 +1,1 @@
-var mnemonic = "final push car world blast large adjust famous twice tone defy spice";
+var mnemonic = "sick estate yellow smart blast barely party tissue pink stereo win carbon";

@@ -1,1 +1,1 @@
-var mnemonic = "enemy entire bitter pact picnic arrest credit public truck harsh shed limb";
+var mnemonic = "country index clog ranch stuff state drop pattern pitch suit avoid fortune";

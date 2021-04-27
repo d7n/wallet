@@ -1,1 +1,1 @@
-var mnemonic = "drama undo gallery fever retreat summer book helmet alien where civil sense";
+var mnemonic = "sight together guess broken wear jewel evoke famous inherit nasty pipe royal";

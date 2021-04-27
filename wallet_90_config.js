@@ -1,1 +1,1 @@
-var mnemonic = "below ecology blade fault service face flight embark maid robust label anxiety";
+var mnemonic = "artist average cram deposit street mango load critic lobster various panel cause";

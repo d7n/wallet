@@ -1,1 +1,1 @@
-var mnemonic = "insane arm copper improve fish stable gossip bachelor online fringe boost flip";
+var mnemonic = "stool absent spray oblige divert kiss cannon tide crucial auction quit expect";

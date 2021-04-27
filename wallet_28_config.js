@@ -1,1 +1,1 @@
-var mnemonic = "uniform sniff happy smart habit build visa salon guess thought smooth coin";
+var mnemonic = "pretty weekend diamond core update truck lecture garment shrimp eyebrow select promote";

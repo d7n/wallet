@@ -1,1 +1,1 @@
-var mnemonic = "caught harvest mechanic earth utility stamp program link sing ridge memory lunar";
+var mnemonic = "brush aim smart love typical explain solid void famous dismiss system brave";

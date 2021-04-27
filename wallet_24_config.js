@@ -1,1 +1,1 @@
-var mnemonic = "melody shoulder perfect wet arm custom predict around boss match lamp knee";
+var mnemonic = "buddy escape alter fire game mountain evil crisp amateur fox token crack";

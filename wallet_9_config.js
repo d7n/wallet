@@ -1,1 +1,1 @@
-var mnemonic = "music cloud spell urge jaguar burger raw symptom attitude orange time dance";
+var mnemonic = "wet hybrid recall law junk veteran lend december obscure debris tower initial";

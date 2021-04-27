@@ -1,1 +1,1 @@
-var mnemonic = "visa steak soup shoe kite capital stumble sleep scrub access step banner";
+var mnemonic = "limb choice avoid oblige click what chef rude course athlete process hole";

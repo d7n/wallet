@@ -1,1 +1,1 @@
-var mnemonic = "object sea chicken slide drink age offer top wolf chest spider slim";
+var mnemonic = "estate vague small loan buzz cheap north eye gravity universe fuel enhance";

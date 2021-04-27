@@ -1,1 +1,1 @@
-var mnemonic = "spawn furnace excuse miracle absorb tribe setup follow rally chase victory promote";
+var mnemonic = "abandon organ denial puzzle mesh slot receive canyon celery bonus mouse cradle";

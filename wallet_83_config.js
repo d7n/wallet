@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit cool cable daring doll observe base wall unique dwarf panda fine";
+var mnemonic = "brass upset leader little angle artwork traffic slice tunnel auto general timber";

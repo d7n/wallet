@@ -1,1 +1,1 @@
-var mnemonic = "first moon milk brother boost hole title dumb stool taxi speak strong";
+var mnemonic = "museum talk ridge border eternal barrel output convince enemy claim sense fatigue";

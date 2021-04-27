@@ -1,1 +1,1 @@
-var mnemonic = "rack feel december exist subject shove hobby innocent one sand achieve pudding";
+var mnemonic = "door cross wisdom scatter family gift cruise cage mix style trophy large";

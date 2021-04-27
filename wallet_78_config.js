@@ -1,1 +1,1 @@
-var mnemonic = "plug film wish outside maximum change orbit holiday lunch frost prefer daughter";
+var mnemonic = "slab dentist again owner describe crystal engage before plunge barely film mother";

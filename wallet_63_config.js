@@ -1,1 +1,1 @@
-var mnemonic = "connect undo cement mean sketch meadow share great curve equip acquire cliff";
+var mnemonic = "clay grace table name sun other before left elbow below head system";

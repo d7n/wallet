@@ -1,1 +1,1 @@
-var mnemonic = "tower claim obscure eyebrow cover coral position popular honey shine egg piano";
+var mnemonic = "huge merit side edit fluid cube drift creek purpose sugar tilt hobby";

@@ -1,1 +1,1 @@
-var mnemonic = "mobile final mercy grape alone flush fat foam buyer capable lyrics border";
+var mnemonic = "cup remind heavy very length notice hen parade sniff fury frequent main";

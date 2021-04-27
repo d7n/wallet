@@ -1,1 +1,1 @@
-var mnemonic = "toward love hockey satoshi shaft glue farm tattoo wide utility elegant pepper";
+var mnemonic = "forest aim casino vanish exclude vendor soldier raccoon live spot amazing throw";

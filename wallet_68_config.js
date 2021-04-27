@@ -1,1 +1,1 @@
-var mnemonic = "please measure miracle awful auto grape slab require erosion scorpion tobacco later";
+var mnemonic = "inherit moment raven journey woman auction abstract diagram tired stomach warm coast";

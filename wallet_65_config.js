@@ -1,1 +1,1 @@
-var mnemonic = "tornado tape draft job awful wheat sorry spice news design hero gate";
+var mnemonic = "tiny name regular mad normal person enlist survey tank fantasy divorce renew";

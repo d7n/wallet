@@ -1,1 +1,1 @@
-var mnemonic = "keep jaguar range stove kick soda super judge face churn pyramid decide";
+var mnemonic = "robust record rate leisure device mirror vital artist glue earn execute nasty";

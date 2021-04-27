@@ -1,1 +1,1 @@
-var mnemonic = "dash before loop captain radio title season october rather kind champion arctic";
+var mnemonic = "volcano canal control mixture shy hip lift day clerk impose shove win";

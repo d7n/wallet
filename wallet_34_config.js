@@ -1,1 +1,1 @@
-var mnemonic = "error ski brave pudding grape velvet fly above lend cycle goose domain";
+var mnemonic = "finger stadium artist plate gospel sell tattoo left divide thrive apple turtle";

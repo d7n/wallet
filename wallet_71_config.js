@@ -1,1 +1,1 @@
-var mnemonic = "myself joke suspect strong depth eagle love vault foam shed fruit mutual";
+var mnemonic = "shield monkey turtle expire soul client cabbage gap keen transfer mystery style";

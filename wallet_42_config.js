@@ -1,1 +1,1 @@
-var mnemonic = "gloom extra index various romance popular pet crush iron usage domain elbow";
+var mnemonic = "bench ball among report salt reduce exhaust climb duck strike roof cactus";

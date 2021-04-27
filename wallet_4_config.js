@@ -1,1 +1,1 @@
-var mnemonic = "satisfy salad board vacant tumble tortoise survey occur bag pear assist attitude";
+var mnemonic = "reveal vacuum monster sound screen rack video crater nurse excite capital verify";

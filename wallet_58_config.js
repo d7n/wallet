@@ -1,1 +1,1 @@
-var mnemonic = "chronic parade child engine salad super quit tower prevent earn gentle unhappy";
+var mnemonic = "famous comic awkward fury mansion goddess kick state pair bring cinnamon kiwi";

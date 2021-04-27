@@ -1,1 +1,1 @@
-var mnemonic = "warm grocery fire boring charge insane recycle powder brown leg december relax";
+var mnemonic = "flush across fat maze inquiry isolate coffee unique course strong comic romance";

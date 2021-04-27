@@ -1,1 +1,1 @@
-var mnemonic = "wait junior mushroom spirit wedding topic deny bottom vessel dinosaur crush praise";
+var mnemonic = "century reward speed obscure entry hidden phone tooth path box biology west";

@@ -1,1 +1,1 @@
-var mnemonic = "catch street float income kite rebel glare velvet smooth spare source nurse";
+var mnemonic = "decide exchange practice laundry apology jar near evolve picture between pattern work";

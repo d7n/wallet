@@ -1,1 +1,1 @@
-var mnemonic = "shrug gate smart engine humor fly horror raw deputy sibling attitude zone";
+var mnemonic = "renew now fox oppose auction word lizard distance expect elder interest protect";

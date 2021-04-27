@@ -1,1 +1,1 @@
-var mnemonic = "rail omit bundle forget pepper coconut worry school list umbrella coconut output";
+var mnemonic = "eagle west dolphin subway quote first soul remove nut step attack unable";

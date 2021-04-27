@@ -1,1 +1,1 @@
-var mnemonic = "canyon verb wire foil iron oxygen fetch logic genius matrix box glass";
+var mnemonic = "summer chronic inside nut dizzy entry husband quit abandon mercy inherit switch";

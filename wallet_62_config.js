@@ -1,1 +1,1 @@
-var mnemonic = "actor room inspire antenna neutral ladder anger slow harsh between abuse bulk";
+var mnemonic = "slow rail always buyer tumble luggage craft skill olympic actual level category";

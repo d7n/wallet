@@ -1,1 +1,1 @@
-var mnemonic = "suit bread salt foster surface sorry income helmet correct forum milk frog";
+var mnemonic = "drill side path version target garage design happy venue develop weasel ecology";

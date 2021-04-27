@@ -1,1 +1,1 @@
-var mnemonic = "furnace index alpha current bonus stumble endless promote regular labor gate miss";
+var mnemonic = "turn run census sad blue hover cross arena hair electric view day";

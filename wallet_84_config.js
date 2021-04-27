@@ -1,1 +1,1 @@
-var mnemonic = "glory element music test resist minute fox super order mention almost large";
+var mnemonic = "cattle broccoli east exotic awkward surface morning glare media end frequent clutch";

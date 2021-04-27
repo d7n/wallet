@@ -1,1 +1,1 @@
-var mnemonic = "upset hand mammal between amazing almost genuine forget monkey casual cushion plastic";
+var mnemonic = "hint pudding shallow time visa addict accuse oblige radar easily social dune";

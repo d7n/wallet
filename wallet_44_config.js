@@ -1,1 +1,1 @@
-var mnemonic = "gas electric shy record flee order forward reopen tool pioneer kidney test";
+var mnemonic = "elephant rich rough fly diamond debate crater village rain reward list cage";
