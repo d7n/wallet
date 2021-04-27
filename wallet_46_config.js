@@ -1,1 +1,1 @@
-var mnemonic = "census menu rail aim decorate memory ignore help shrimp crawl ketchup relief";
+var mnemonic = "junk fossil negative must napkin column mirror control health erosion planet seven";

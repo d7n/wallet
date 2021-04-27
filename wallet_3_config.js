@@ -1,1 +1,1 @@
-var mnemonic = "display online remember husband success neglect buyer position produce imitate observe caution";
+var mnemonic = "step prevent awful dish solar catalog robust cable assist smart chicken yard";

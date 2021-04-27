@@ -1,1 +1,1 @@
-var mnemonic = "tip fitness bracket wife subway banner opera young cram anxiety run night";
+var mnemonic = "ocean voyage shoulder lemon crawl space private pledge domain auto first subway";

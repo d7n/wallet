@@ -1,1 +1,1 @@
-var mnemonic = "doll pretty crowd panda clock wink athlete blood labor mule pipe amazing";
+var mnemonic = "name slab banana duck rack curious female welcome regret reason bacon limb";

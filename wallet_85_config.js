@@ -1,1 +1,1 @@
-var mnemonic = "goose electric exhaust offer cake list cheese blind village inject ozone casual";
+var mnemonic = "swift flee olive tail matrix swift rookie tissue hub era property palace";

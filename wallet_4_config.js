@@ -1,1 +1,1 @@
-var mnemonic = "auction sustain change chalk filter element distance credit still math father cream";
+var mnemonic = "hood plug auction mandate legend hair ten depend infant detect fetch junk";

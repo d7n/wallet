@@ -1,1 +1,1 @@
-var mnemonic = "bounce knee hand space snap wait stamp primary grape fatigue spawn creek";
+var mnemonic = "skirt witness eye erupt salt close arrest mule result enrich guard claim";

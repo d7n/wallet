@@ -1,1 +1,1 @@
-var mnemonic = "volume episode orchard pioneer case staff decline affair embody blur burger monster";
+var mnemonic = "okay large thank account decline cave truck situate page desert arm coffee";

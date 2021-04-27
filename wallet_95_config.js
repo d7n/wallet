@@ -1,1 +1,1 @@
-var mnemonic = "raw kidney rough room casual early catch blood elbow bubble talent rich";
+var mnemonic = "earth butter young ahead jelly number hotel toe fat pizza away exchange";

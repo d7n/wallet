@@ -1,1 +1,1 @@
-var mnemonic = "volcano boy autumn term year fuel outside behave cute faint bubble script";
+var mnemonic = "wealth palace glide puzzle nurse monster nurse casino elite canal enjoy artefact";

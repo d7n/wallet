@@ -1,1 +1,1 @@
-var mnemonic = "diamond material void raw bread scene air soap pony avocado advice above";
+var mnemonic = "word loop busy female method mountain wool mixed gallery promote million vacant";

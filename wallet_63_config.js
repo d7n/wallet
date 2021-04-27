@@ -1,1 +1,1 @@
-var mnemonic = "nest lottery logic garlic winner mixture april guard scatter innocent reject easy";
+var mnemonic = "hurry mesh cart room action kind dove close ancient entire boat fantasy";

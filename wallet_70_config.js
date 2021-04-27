@@ -1,1 +1,1 @@
-var mnemonic = "guess drastic exotic gravity pride public lesson dutch jeans base car caution";
+var mnemonic = "laundry enjoy orbit vanish park essence crazy injury tissue behave diagram online";

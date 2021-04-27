@@ -1,1 +1,1 @@
-var mnemonic = "program settle diet marriage remind forum addict idle rather label address joy";
+var mnemonic = "shoe harbor apology suffer staff sport dust play leg stereo tide garbage";

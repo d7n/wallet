@@ -1,1 +1,1 @@
-var mnemonic = "helmet enter relax dial high odor meadow science awesome success unusual gate";
+var mnemonic = "few joy nest culture swamp garbage flag range caution answer mention live";

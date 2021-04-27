@@ -1,1 +1,1 @@
-var mnemonic = "rather lyrics fence visual rural outer crime evil push sunny indicate coil";
+var mnemonic = "unique level recall there panel mobile twenty crisp shrimp skill decide circle";

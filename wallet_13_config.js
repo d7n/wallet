@@ -1,1 +1,1 @@
-var mnemonic = "employ style wolf light lonely myself unfair local embark like priority recycle";
+var mnemonic = "learn spring jealous engine vehicle wild chaos fine purse bag ozone junk";

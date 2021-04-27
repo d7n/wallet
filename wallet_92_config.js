@@ -1,1 +1,1 @@
-var mnemonic = "extend drama result worth expire bundle churn hint identify banner unfair fork";
+var mnemonic = "busy render potato chuckle always donor vapor wagon inspire apart build crash";

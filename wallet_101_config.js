@@ -1,1 +1,1 @@
-var mnemonic = "country liberty million meat below shove rebuild remain click element dad glue";
+var mnemonic = "scorpion dog hole involve trouble alien negative rice broom scorpion bitter search";

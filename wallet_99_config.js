@@ -1,1 +1,1 @@
-var mnemonic = "broom brass surge fence pond parade brown dance favorite now innocent sibling";
+var mnemonic = "swap couch wasp ethics magic salt clean number imitate goat female equal";

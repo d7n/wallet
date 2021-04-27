@@ -1,1 +1,1 @@
-var mnemonic = "fossil cotton remind chunk camp scare panic mad when trade safe cushion";
+var mnemonic = "grunt surprise junk adult run canal give follow arrest material sick scrub";

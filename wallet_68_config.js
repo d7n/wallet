@@ -1,1 +1,1 @@
-var mnemonic = "recipe target chuckle pulp solid join ring toward tourist joy visa human";
+var mnemonic = "always hollow erupt spring cry globe bunker green barely child feature bronze";

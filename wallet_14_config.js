@@ -1,1 +1,1 @@
-var mnemonic = "board crash tone south syrup famous there either ensure runway slush pitch";
+var mnemonic = "rely general ivory baby usage legal tank clap door dune photo canoe";

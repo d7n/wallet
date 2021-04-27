@@ -1,1 +1,1 @@
-var mnemonic = "pipe repeat budget sort obvious staff pull aspect pumpkin naive fiscal beef";
+var mnemonic = "junk budget dove later join term aerobic coin fiber mixed echo sort";

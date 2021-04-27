@@ -1,1 +1,1 @@
-var mnemonic = "galaxy usual maid plastic clinic account garlic ahead leopard elephant orphan cradle";
+var mnemonic = "evidence valley steel limit ocean mesh avocado monster tortoise dolphin inside render";

@@ -1,1 +1,1 @@
-var mnemonic = "vendor pill town age jewel industry stuff social metal tide chunk scan";
+var mnemonic = "learn invest process smoke pool twice enhance region reopen unique room bubble";

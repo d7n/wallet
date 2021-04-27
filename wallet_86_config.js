@@ -1,1 +1,1 @@
-var mnemonic = "deputy lunch hire hair boy jewel differ danger milk lock sick tape";
+var mnemonic = "orphan flag prevent tunnel point finish repair donor defense raccoon rice vague";

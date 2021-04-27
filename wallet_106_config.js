@@ -1,1 +1,1 @@
-var mnemonic = "east mass apart practice caution exclude reduce drum nest faith forum impact";
+var mnemonic = "patient crouch surface lion aspect famous home burden ice spend inspire firm";

@@ -1,1 +1,1 @@
-var mnemonic = "gas decrease tilt clutch cross mixed front orange predict girl letter rookie";
+var mnemonic = "young what victory picture spell robot whisper foot author bulb very curious";

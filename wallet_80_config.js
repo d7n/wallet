@@ -1,1 +1,1 @@
-var mnemonic = "law swamp gather drift bulb man quick blue hello capable december ostrich";
+var mnemonic = "file undo project swear air unique angle boost shock visa sibling cry";

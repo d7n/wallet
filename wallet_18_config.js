@@ -1,1 +1,1 @@
-var mnemonic = "lawn million claim game clown squeeze borrow window chimney rebuild negative bonus";
+var mnemonic = "chief extend dice prison disagree violin cattle debris earth you situate base";

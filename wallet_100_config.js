@@ -1,1 +1,1 @@
-var mnemonic = "spot rifle clock thought unlock else timber economy nice round forward famous";
+var mnemonic = "endless alert field area exclude better blade menu people cannon hurt inhale";

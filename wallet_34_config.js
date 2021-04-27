@@ -1,1 +1,1 @@
-var mnemonic = "income school flag actor pill vault okay planet dragon knife urban wing";
+var mnemonic = "fire pluck benefit travel pyramid cram awesome skin topple describe side tilt";

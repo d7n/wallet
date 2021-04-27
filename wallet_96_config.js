@@ -1,1 +1,1 @@
-var mnemonic = "visit follow rice twenty denial friend move cage talent town enrich hero";
+var mnemonic = "road survey luxury foil resource fit absent slam survey era blush indicate";

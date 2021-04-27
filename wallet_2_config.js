@@ -1,1 +1,1 @@
-var mnemonic = "whisper mandate vehicle brief dawn voyage dignity cricket hazard method false cruise";
+var mnemonic = "cactus among imitate solution slight discover horror disorder foster blame canoe short";

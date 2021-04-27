@@ -1,1 +1,1 @@
-var mnemonic = "cluster wall grocery man citizen inspire drink flavor hotel disorder reject crawl";
+var mnemonic = "police swim loan walk session mosquito embark match wet super beauty daring";

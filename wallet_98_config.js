@@ -1,1 +1,1 @@
-var mnemonic = "torch orphan coral physical goose cover fruit rubber wild grab february object";
+var mnemonic = "admit noodle safe odor crush jazz sure stem defense erosion paddle aisle";

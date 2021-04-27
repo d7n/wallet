@@ -1,1 +1,1 @@
-var mnemonic = "wrong calm bamboo angry slush artwork what copper trust arrive weekend scatter";
+var mnemonic = "cement robot hair together armed bring prize afraid embark screen clinic bonus";

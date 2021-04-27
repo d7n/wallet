@@ -1,1 +1,1 @@
-var mnemonic = "invest kind tunnel echo detect basic verb purse shock cricket tube post";
+var mnemonic = "orchard winter trade sing vehicle express praise word term window goddess talk";

@@ -1,1 +1,1 @@
-var mnemonic = "mesh rail shadow edge blame choice refuse above rescue shuffle unfair entry";
+var mnemonic = "begin apology dream mandate face office actor regret rail mask poem flash";

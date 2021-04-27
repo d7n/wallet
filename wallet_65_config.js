@@ -1,1 +1,1 @@
-var mnemonic = "achieve language year alarm bullet fantasy finger warrior tube layer average nothing";
+var mnemonic = "task image brush verify inform fragile nose weekend lab report syrup fluid";

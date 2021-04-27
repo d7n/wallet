@@ -1,1 +1,1 @@
-var mnemonic = "clinic rely deal fan chronic misery attract squirrel entire deny wing unfold";
+var mnemonic = "gentle what bring ask program aim dog expand piano truck gun victory";

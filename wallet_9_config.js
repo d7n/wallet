@@ -1,1 +1,1 @@
-var mnemonic = "label slush room topple fringe fresh leave height jaguar rain giraffe bomb";
+var mnemonic = "glory engage genre siren sauce item resist resource own science staff speed";

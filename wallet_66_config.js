@@ -1,1 +1,1 @@
-var mnemonic = "danger garden tool chimney opinion promote autumn save knife when urban flash";
+var mnemonic = "humble method diamond net glass cliff fetch secret army trick have interest";

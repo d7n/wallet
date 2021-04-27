@@ -1,1 +1,1 @@
-var mnemonic = "stereo sure hole tuna candy start keep token swarm royal metal hello";
+var mnemonic = "carry jar meat kingdom ride portion inmate harsh indoor jaguar patient define";

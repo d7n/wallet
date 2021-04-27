@@ -1,1 +1,1 @@
-var mnemonic = "super success guide caution alcohol ozone maple goose spoon syrup achieve domain";
+var mnemonic = "pepper unlock loop jealous reward foster obvious rebuild want cruel verify real";

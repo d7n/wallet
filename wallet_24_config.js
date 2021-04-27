@@ -1,1 +1,1 @@
-var mnemonic = "record turtle town embark earn food vote sport cover rely snow rack";
+var mnemonic = "avoid remind bulb snap dress clean symbol local inspire poverty debate wire";

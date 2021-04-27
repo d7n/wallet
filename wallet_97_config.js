@@ -1,1 +1,1 @@
-var mnemonic = "survey old dilemma mixture eye shift erode affair absurd lazy mansion arena";
+var mnemonic = "kick this town great jungle track climb six lens slam need special";

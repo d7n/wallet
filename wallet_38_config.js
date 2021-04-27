@@ -1,1 +1,1 @@
-var mnemonic = "dinner embody require liberty choose gasp cannon talent female apple father aerobic";
+var mnemonic = "tree borrow sunset type denial edge afford tomorrow acid load love odor";

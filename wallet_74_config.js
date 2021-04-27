@@ -1,1 +1,1 @@
-var mnemonic = "paper spoil flower puzzle noodle tell cloud poet blind hobby cheese pen";
+var mnemonic = "play venture arm rack swift virtual region flock slush vault curve quiz";

@@ -1,1 +1,1 @@
-var mnemonic = "obey profit ritual draw attend guard surprise shed hammer option coffee wise";
+var mnemonic = "alone eight tape fence patient topic pause long modify leaf cement giraffe";

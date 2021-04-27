@@ -1,1 +1,1 @@
-var mnemonic = "lounge tank immune cheese awful fiction craft artist bulb young hat unit";
+var mnemonic = "celery rose flee hurt model outdoor shoulder nut space muffin ticket two";

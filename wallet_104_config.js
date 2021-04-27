@@ -1,1 +1,1 @@
-var mnemonic = "minor indoor degree real sun rice metal erase whip town own round";
+var mnemonic = "believe danger vault corn always hotel fire range donor bench film west";

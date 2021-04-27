@@ -1,1 +1,1 @@
-var mnemonic = "earn patrol unfold one near accident swear course make brave nuclear escape";
+var mnemonic = "gift close riot world code soccer runway suffer pulp globe hat again";

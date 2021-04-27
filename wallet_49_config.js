@@ -1,1 +1,1 @@
-var mnemonic = "airport doctor father garment butter inquiry lamp fine merry away clap derive";
+var mnemonic = "gallery bright yard swift narrow column observe size tunnel tobacco budget receive";

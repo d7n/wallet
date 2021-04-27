@@ -1,1 +1,1 @@
-var mnemonic = "leisure digital jungle congress code addict recall alarm before banana truth mean";
+var mnemonic = "small sugar swing summer film february gas client observe book head feel";

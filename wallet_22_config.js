@@ -1,1 +1,1 @@
-var mnemonic = "blush cake window strong miss useful parade maximum country hen enforce exist";
+var mnemonic = "unveil pear brief arctic provide swamp jump company zebra notable property mean";

@@ -1,1 +1,1 @@
-var mnemonic = "club soup priority bring marble ketchup cute faint build second breeze exchange";
+var mnemonic = "gift fruit utility fly three provide dice forum silly short oil soldier";

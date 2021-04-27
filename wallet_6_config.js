@@ -1,1 +1,1 @@
-var mnemonic = "animal joke cereal layer come help note brother deal basket affair hundred";
+var mnemonic = "void episode stove hip aerobic acquire confirm myself memory auction document suffer";

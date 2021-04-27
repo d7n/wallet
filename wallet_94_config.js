@@ -1,1 +1,1 @@
-var mnemonic = "bind cousin blue infant initial arm road enrich still dune pair mobile";
+var mnemonic = "finger cool magnet column speed nose flip alert crucial task unique bus";

@@ -1,1 +1,1 @@
-var mnemonic = "fringe step pitch curious forget once excess result armed accuse please kick";
+var mnemonic = "cream service middle govern name clinic opera alone talk erupt tone crash";

@@ -1,1 +1,1 @@
-var mnemonic = "sketch culture argue media sun rack force apology million sheriff fiber step";
+var mnemonic = "stumble defy remove world field screen jaguar finger setup child adjust pepper";

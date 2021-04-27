@@ -1,1 +1,1 @@
-var mnemonic = "upset fashion celery wide taxi absurd enable pass expose gossip mechanic code";
+var mnemonic = "pyramid gate middle pen sudden oven humble saddle uphold rug surge anchor";

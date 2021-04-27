@@ -1,1 +1,1 @@
-var mnemonic = "under you copper fortune replace another angle clip awesome either cactus creek";
+var mnemonic = "pigeon pelican kid body crew ice scatter east inspire motor match shove";

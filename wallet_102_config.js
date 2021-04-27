@@ -1,1 +1,1 @@
-var mnemonic = "athlete cactus again job project venue worry walk leopard recycle public main";
+var mnemonic = "alpha ceiling divide ordinary advice neutral torch fish giant volcano prepare drift";

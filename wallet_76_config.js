@@ -1,1 +1,1 @@
-var mnemonic = "banana humor agent wing flush wave uncle exotic wine because assume wish";
+var mnemonic = "auction forest unaware ethics cargo provide pill science place disorder tip sport";

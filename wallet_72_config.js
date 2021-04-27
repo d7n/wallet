@@ -1,1 +1,1 @@
-var mnemonic = "winter dentist pledge jazz cool neglect income worry weather practice cloth toddler";
+var mnemonic = "duck vague ordinary cabbage swarm behave session unusual size solution lottery chunk";

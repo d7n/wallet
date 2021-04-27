@@ -1,1 +1,1 @@
-var mnemonic = "caution idea huge twenty tool barely exhaust oven mimic barely install mango";
+var mnemonic = "arctic ketchup mom lava sponsor flash either garden group teach have tilt";

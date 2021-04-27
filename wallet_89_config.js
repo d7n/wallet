@@ -1,1 +1,1 @@
-var mnemonic = "grass become figure net desk truly antenna cherry stool industry flash van";
+var mnemonic = "hire type witness achieve wrestle cheese push cement kid buyer curtain note";

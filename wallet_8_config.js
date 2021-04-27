@@ -1,1 +1,1 @@
-var mnemonic = "insane grid arch hollow flight pause garment knock release mountain unfair pizza";
+var mnemonic = "spoon direct crew book undo canal sense winter fit patrol rhythm talent";

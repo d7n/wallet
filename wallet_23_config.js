@@ -1,1 +1,1 @@
-var mnemonic = "seed deal season style cost easily insane exile plate brief priority clip";
+var mnemonic = "step cheese antique say divert stumble tortoise assume reveal ensure club object";

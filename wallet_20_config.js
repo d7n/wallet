@@ -1,1 +1,1 @@
-var mnemonic = "what celery amateur obscure lyrics squirrel innocent neither habit tenant weekend pact";
+var mnemonic = "tiny cherry brave swing bonus insect snack power right funny brush grape";

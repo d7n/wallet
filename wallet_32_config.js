@@ -1,1 +1,1 @@
-var mnemonic = "finish domain cotton twist pumpkin license total next walk during position fee";
+var mnemonic = "excess kite offer often thought lawsuit coil finish scorpion must fence paper";

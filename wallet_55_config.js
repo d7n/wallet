@@ -1,1 +1,1 @@
-var mnemonic = "portion shaft seek moon include drive yellow junior cereal loud must drill";
+var mnemonic = "zero banner damage clean kind parent hello ill grocery wise salon verb";

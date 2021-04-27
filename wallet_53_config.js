@@ -1,1 +1,1 @@
-var mnemonic = "provide reveal ritual pupil size torch until you good immense direct brief";
+var mnemonic = "roast decorate omit cluster fee initial gasp beach math scatter amateur ecology";

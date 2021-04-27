@@ -1,1 +1,1 @@
-var mnemonic = "announce neutral dwarf poverty begin decade tragic useful dawn across eternal arrow";
+var mnemonic = "foil home damage address jungle actor poet asset creek quit game simple";

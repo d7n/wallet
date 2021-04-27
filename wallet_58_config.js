@@ -1,1 +1,1 @@
-var mnemonic = "arrive spell brief vapor dance vicious tip repeat notice topple pond good";
+var mnemonic = "solid patient base relief wash pair push early flush slab badge distance";

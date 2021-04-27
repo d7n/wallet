@@ -1,1 +1,1 @@
-var mnemonic = "sunset curious black found scan spare refuse firm guitar swap firm excite";
+var mnemonic = "fatigue hair tongue wheat street step survey organ settle inform ignore dragon";

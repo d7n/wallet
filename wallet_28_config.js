@@ -1,1 +1,1 @@
-var mnemonic = "maid client youth insect brave vote fiscal vocal lock addict certain aspect";
+var mnemonic = "panel hedgehog beef solar know spoon divert test abstract crucial duck there";

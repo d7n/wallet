@@ -1,1 +1,1 @@
-var mnemonic = "paper process behave fancy attend sorry label prepare whale visit sauce club";
+var mnemonic = "night inject prize hedgehog kind region swamp fire jelly spawn twice home";

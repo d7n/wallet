@@ -1,1 +1,1 @@
-var mnemonic = "clump bulk vocal jelly tobacco ahead glide forest man surround return country";
+var mnemonic = "neglect drink dumb worry company onion ready wrist magnet lucky elegant dumb";

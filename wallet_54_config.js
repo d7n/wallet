@@ -1,1 +1,1 @@
-var mnemonic = "floor behave laptop there buzz stable apology alarm already proud desert stool";
+var mnemonic = "unknown glory wing leg drive fan tortoise ivory army false actress skull";

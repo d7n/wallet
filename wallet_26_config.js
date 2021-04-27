@@ -1,1 +1,1 @@
-var mnemonic = "pizza fire ship flash first stage lecture muscle chief squeeze bus like";
+var mnemonic = "salt hundred theme unveil bottom angle cabin crane this brush shoe clean";

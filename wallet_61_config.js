@@ -1,1 +1,1 @@
-var mnemonic = "east pipe advice tobacco punch tail slim tiger airport stove robot purse";
+var mnemonic = "beauty fix bracket want acquire grocery point antenna bacon rebel scheme glove";

@@ -1,1 +1,1 @@
-var mnemonic = "steak jacket agree present ball earth mirror twist pill track clown exile";
+var mnemonic = "quarter trophy volume engine kite combine control spin team best walnut future";

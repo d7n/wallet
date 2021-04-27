@@ -1,1 +1,1 @@
-var mnemonic = "glance confirm mimic happy question lab wreck grit logic shop autumn rival";
+var mnemonic = "seven squeeze area ranch mirror december garden sunset paddle already tide shoe";

@@ -1,1 +1,1 @@
-var mnemonic = "opera body depart nose category wrong uphold tumble dentist access arena feel";
+var mnemonic = "dose dice story security give accident screen vessel friend gather rude case";

@@ -1,1 +1,1 @@
-var mnemonic = "pave exercise dirt lamp glue space pause blame cave fame quiz inner";
+var mnemonic = "fat initial prison illness museum arrest rotate energy urge helmet equip miracle";

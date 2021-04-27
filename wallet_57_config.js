@@ -1,1 +1,1 @@
-var mnemonic = "fence gun upgrade slush gas grape hen announce fiction comfort interest club";
+var mnemonic = "joy siren frown merit system design swing fine innocent ancient reunion invite";

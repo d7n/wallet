@@ -1,1 +1,1 @@
-var mnemonic = "shell crane special magnet program stove meat task fat box digital horror";
+var mnemonic = "void million illness love bacon winter pilot palace hurry truck injury crush";

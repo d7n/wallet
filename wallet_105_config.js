@@ -1,1 +1,1 @@
-var mnemonic = "plate injury hair easily shoot page solve daughter cargo rabbit toe toilet";
+var mnemonic = "during bread rude crystal version industry present hub oak come garage crash";

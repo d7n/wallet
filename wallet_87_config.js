@@ -1,1 +1,1 @@
-var mnemonic = "also ready nature small wait sport cloth banana jealous grit toast such";
+var mnemonic = "normal inflict gather suffer abandon machine one damp audit physical message rookie";

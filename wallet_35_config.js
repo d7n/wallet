@@ -1,1 +1,1 @@
-var mnemonic = "regret ice usage nuclear trade better clerk deer exchange cabin tunnel soda";
+var mnemonic = "panther current economy harsh snake warfare marble inherit enact oblige dawn wait";

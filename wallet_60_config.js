@@ -1,1 +1,1 @@
-var mnemonic = "upper stadium present battle oak mango consider divert grit consider stamp item";
+var mnemonic = "absent upgrade joy lonely priority bring tiny ginger tray people excite vague";

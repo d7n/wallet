@@ -1,1 +1,1 @@
-var mnemonic = "basket brain congress help old post soup lesson amount climb rely mind";
+var mnemonic = "month amazing gown water inspire hand uphold also lift develop peasant clutch";

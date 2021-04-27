@@ -1,1 +1,1 @@
-var mnemonic = "duty income mask canal swing act call access shock sword oblige flag";
+var mnemonic = "child process make stage calm embark bulb merry peasant runway style friend";
