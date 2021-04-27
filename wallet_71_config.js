@@ -1,1 +1,1 @@
-var mnemonic = "tail equip shop vapor soon slow hat husband champion street trust tomato";
+var mnemonic = "okay parade rifle board certain expose icon rhythm disorder barrel sheriff decrease";

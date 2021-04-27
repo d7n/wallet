@@ -1,1 +1,1 @@
-var mnemonic = "slim put ranch owner awesome legend solution usual ahead alarm explain cost";
+var mnemonic = "range correct bundle sock teach school anxiety hire urban dinner release oven";

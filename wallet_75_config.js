@@ -1,1 +1,1 @@
-var mnemonic = "antenna legal diesel lottery daughter mechanic erosion heart ritual fault fan minor";
+var mnemonic = "view insect angry opera lava must sport worry flame ghost thunder interest";

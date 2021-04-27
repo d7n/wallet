@@ -1,1 +1,1 @@
-var mnemonic = "bag catch nothing affair someone merge swap equip item funny unfair space";
+var mnemonic = "raise illness pair congress sword citizen scrub achieve holiday portion equip bottom";

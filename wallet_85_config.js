@@ -1,1 +1,1 @@
-var mnemonic = "country immense cube business canal caught crane gasp wave cluster pipe inspire";
+var mnemonic = "urban loan chief among shrug student festival switch source this raw coach";

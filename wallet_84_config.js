@@ -1,1 +1,1 @@
-var mnemonic = "apology column never item emerge good juice caught magic lemon gold solve";
+var mnemonic = "pencil stage eyebrow erosion peanut direct jungle cruel upgrade write coil kiss";

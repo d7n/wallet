@@ -1,1 +1,1 @@
-var mnemonic = "noise adjust code clock ignore people fish hurt gravity segment access photo";
+var mnemonic = "enjoy output flip coach bus pledge page shaft cereal judge post bench";

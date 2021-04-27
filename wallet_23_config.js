@@ -1,1 +1,1 @@
-var mnemonic = "tissue alcohol perfect tank measure oven proof gravity spare obscure behave cup";
+var mnemonic = "jaguar wise sting tobacco become nice cat loop vicious rebel cram exit";

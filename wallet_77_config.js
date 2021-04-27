@@ -1,1 +1,1 @@
-var mnemonic = "maple ability setup lab drama surface segment device sure clip black pretty";
+var mnemonic = "bunker ancient question impulse spatial law under size empower bicycle discover lady";

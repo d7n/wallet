@@ -1,1 +1,1 @@
-var mnemonic = "raccoon spatial secret transfer slush urban ride robot kiwi drill depth similar";
+var mnemonic = "square sick crane stick olympic pelican equip answer equal thing diesel release";

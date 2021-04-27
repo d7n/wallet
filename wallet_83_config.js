@@ -1,1 +1,1 @@
-var mnemonic = "wide toilet near example broccoli planet reunion bunker plug author boring annual";
+var mnemonic = "royal oval shoot express casino apple artwork age slogan income version save";

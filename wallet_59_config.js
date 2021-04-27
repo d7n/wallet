@@ -1,1 +1,1 @@
-var mnemonic = "put total save neglect rough renew bronze candy bunker apart body business";
+var mnemonic = "shoot curious safe follow glass drink gospel just toss found noble sister";

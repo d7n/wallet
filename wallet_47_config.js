@@ -1,1 +1,1 @@
-var mnemonic = "extend huge gallery relax bottom car fame conduct height emotion eagle lottery";
+var mnemonic = "unique sand voice awkward thank blur narrow major multiply fox mimic shallow";

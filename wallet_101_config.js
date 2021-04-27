@@ -1,1 +1,1 @@
-var mnemonic = "flush rubber supply smart family rate output unhappy rack bid fiber wood";
+var mnemonic = "dish between team manage slab divert vivid boost stove hover receive reunion";

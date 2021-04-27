@@ -1,1 +1,1 @@
-var mnemonic = "sunset harvest invite tornado various silver slab release slam ecology ill volcano";
+var mnemonic = "album other number goddess price party jazz bind girl town like teach";

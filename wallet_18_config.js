@@ -1,1 +1,1 @@
-var mnemonic = "board venture wet pen balance fuel blame whale boring gadget mobile typical";
+var mnemonic = "tackle lobster habit train foil point spell copper derive front solve soon";

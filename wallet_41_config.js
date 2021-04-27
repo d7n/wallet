@@ -1,1 +1,1 @@
-var mnemonic = "purity enforce spoon cousin brisk perfect soccer burst powder winner jeans song";
+var mnemonic = "worry until bronze eagle close december palace summer critic fade kangaroo onion";

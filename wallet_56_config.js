@@ -1,1 +1,1 @@
-var mnemonic = "absorb sadness suggest health lonely cry space invest dune pioneer zoo mixture";
+var mnemonic = "foam change yard chunk curve drama fossil random vault summer typical permit";

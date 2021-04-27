@@ -1,1 +1,1 @@
-var mnemonic = "club burden gospel winner repeat click february over zebra squeeze right acoustic";
+var mnemonic = "usage gentle whale shallow visit carpet immune guess estate office lucky vacuum";

@@ -1,1 +1,1 @@
-var mnemonic = "history dawn staff note gasp yellow cabin humor chalk crunch damp noodle";
+var mnemonic = "nut soda again february kick enroll refuse enlist woman deposit sugar file";

@@ -1,1 +1,1 @@
-var mnemonic = "decade wonder cliff long mixture very airport seat denial point garage print";
+var mnemonic = "panda swim pioneer frost dice spawn goose toy dignity ice six torch";

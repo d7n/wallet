@@ -1,1 +1,1 @@
-var mnemonic = "tiny next used flight afraid weasel join ritual harvest alley route heart";
+var mnemonic = "same fall success aspect right delay turtle manage genre mammal balcony rate";

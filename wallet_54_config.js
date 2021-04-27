@@ -1,1 +1,1 @@
-var mnemonic = "switch prevent frequent caught device today venture sense excite sail neglect edge";
+var mnemonic = "empty dolphin stock neglect minor demand document shock used armor female else";

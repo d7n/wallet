@@ -1,1 +1,1 @@
-var mnemonic = "improve shoulder work steak boil monitor creek negative hat manage grace amused";
+var mnemonic = "alley ecology sort surge art episode inherit else lava pelican tissue promote";

@@ -1,1 +1,1 @@
-var mnemonic = "upgrade such sugar race rubber rabbit must machine juice laugh diary eight";
+var mnemonic = "decade return write trial frown ghost churn advice betray used pool pet";

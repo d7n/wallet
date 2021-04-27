@@ -1,1 +1,1 @@
-var mnemonic = "resemble confirm shove seed deny jungle advice auto cruise embark bullet bounce";
+var mnemonic = "aisle pink almost very monster question soccer judge wheat syrup pool effort";

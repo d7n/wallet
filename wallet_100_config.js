@@ -1,1 +1,1 @@
-var mnemonic = "uphold actor spray link start alley sea awful chaos zero discover lounge";
+var mnemonic = "cross speed banana divert adult become comfort tray slow permit throw snap";

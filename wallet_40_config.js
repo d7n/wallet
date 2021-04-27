@@ -1,1 +1,1 @@
-var mnemonic = "situate soda defy pelican narrow multiply answer amateur reunion toy unit check";
+var mnemonic = "inspire train coffee error shine sentence cloth stick owner spoon gaze cargo";

@@ -1,1 +1,1 @@
-var mnemonic = "message hover rotate tip rebel reform eager song gate almost seek caution";
+var mnemonic = "retire supreme unfair item nation today limit disease inspire clump enact rescue";

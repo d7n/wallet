@@ -1,1 +1,1 @@
-var mnemonic = "eight honey unit shadow old payment venture cube tornado disease upper siege";
+var mnemonic = "that fan surface awful know draw rocket pole ring latin stick garden";

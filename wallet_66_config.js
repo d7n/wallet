@@ -1,1 +1,1 @@
-var mnemonic = "mean collect fox inmate mimic clean virtual estate nuclear uncle grit yard";
+var mnemonic = "believe antique urge age dinner ozone crew ten utility secret hidden step";

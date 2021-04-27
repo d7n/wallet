@@ -1,1 +1,1 @@
-var mnemonic = "reduce equip bench balance damage fresh protect gospel promote deputy wage amateur";
+var mnemonic = "health mad tortoise peasant conduct ginger west twin buddy undo polar nut";

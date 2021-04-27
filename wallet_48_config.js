@@ -1,1 +1,1 @@
-var mnemonic = "depart risk dice blossom source ankle spring physical annual trial ignore wife";
+var mnemonic = "dance awful umbrella actress oven link spare type coconut afraid fat level";

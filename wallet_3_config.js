@@ -1,1 +1,1 @@
-var mnemonic = "relax predict inmate agree beef step kingdom electric prosper wall insect prize";
+var mnemonic = "reform spider enjoy question like gravity luxury fringe firm learn ivory uncle";

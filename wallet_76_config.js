@@ -1,1 +1,1 @@
-var mnemonic = "first can reveal remain dignity boring select panic frog lobster cup grace";
+var mnemonic = "system what sell relief when holiday crystal slow leg lucky one fee";

@@ -1,1 +1,1 @@
-var mnemonic = "rural armed stadium dish empower toward ecology lion swamp spike bacon coil";
+var mnemonic = "spirit actress unfair river fossil notable surface ice jaguar cream harbor clock";

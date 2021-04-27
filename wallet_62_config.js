@@ -1,1 +1,1 @@
-var mnemonic = "amateur apple found indicate rare inner replace fun arctic canvas gold win";
+var mnemonic = "master loyal burger domain night swamp lazy caution alter tuition prefer trap";

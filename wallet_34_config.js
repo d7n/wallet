@@ -1,1 +1,1 @@
-var mnemonic = "garment future rookie lens number also brain faculty oblige puppy measure juice";
+var mnemonic = "useless scrub skill harvest build sand ability sweet woman security twelve you";

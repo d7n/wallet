@@ -1,1 +1,1 @@
-var mnemonic = "guess army promote horn attend cream pioneer drink zoo coach tonight concert";
+var mnemonic = "grief bench hobby near aerobic half soul limit better mirror slogan shaft";

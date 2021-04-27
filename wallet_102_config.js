@@ -1,1 +1,1 @@
-var mnemonic = "thought miracle minor grab canal sister mad arrest domain ranch powder bright";
+var mnemonic = "trash border worth predict topple purchase grain capital solve flower consider exercise";

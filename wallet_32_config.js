@@ -1,1 +1,1 @@
-var mnemonic = "armor sound canvas mention plate baby few uncover web disease gun test";
+var mnemonic = "hedgehog person boil staff boat oyster key inspire language quiz scout seat";

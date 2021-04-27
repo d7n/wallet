@@ -1,1 +1,1 @@
-var mnemonic = "client ripple include annual void attitude danger paper coil leg quality access";
+var mnemonic = "address rotate snake siren recipe grass loyal copper dentist fetch direct speak";

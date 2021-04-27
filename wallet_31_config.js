@@ -1,1 +1,1 @@
-var mnemonic = "narrow sure frost extend shaft bring world park limit clown radio wrestle";
+var mnemonic = "bus talent office reduce december only inform guitar brown spice torch strike";

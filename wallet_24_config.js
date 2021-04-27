@@ -1,1 +1,1 @@
-var mnemonic = "cricket distance alley write derive noble short ladder because humor afraid region";
+var mnemonic = "any supply what foster dinosaur market monitor raven truck peasant school velvet";

@@ -1,1 +1,1 @@
-var mnemonic = "awake immense title image any bacon pink move near east engine model";
+var mnemonic = "outside bacon column index sock label typical valve sadness kidney cloud size";

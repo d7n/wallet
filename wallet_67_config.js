@@ -1,1 +1,1 @@
-var mnemonic = "kitten indicate cricket special vocal final hunt cereal gallery turtle park delay";
+var mnemonic = "pencil cave say spoon scene shield gadget hundred dizzy sniff junior gap";

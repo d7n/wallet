@@ -1,1 +1,1 @@
-var mnemonic = "lawn fish foster element solid chest before task force render alter devote";
+var mnemonic = "step wealth sun hold attract blur hole upgrade soup infant pluck inhale";

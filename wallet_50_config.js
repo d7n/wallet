@@ -1,1 +1,1 @@
-var mnemonic = "sort federal disorder ethics twice country student kick forget gentle strike twenty";
+var mnemonic = "repair put escape cake hole lobster whip kit wear myself certain timber";

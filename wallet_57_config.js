@@ -1,1 +1,1 @@
-var mnemonic = "barely crash ginger pull palm ozone keep girl creek episode destroy fresh";
+var mnemonic = "gossip clutch arrest tired fiscal vital pretty chronic galaxy rapid swing social";

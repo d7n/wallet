@@ -1,1 +1,1 @@
-var mnemonic = "quality lumber arrow ice cricket company worth pen route survey wagon upon";
+var mnemonic = "stone absorb element car first invite able lobster twist youth resource laptop";

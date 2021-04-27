@@ -1,1 +1,1 @@
-var mnemonic = "coin clip total question differ athlete daughter pride pigeon nothing opera order";
+var mnemonic = "sadness abuse fresh wasp famous range junk vote aware catalog cover wage";

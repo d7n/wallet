@@ -1,1 +1,1 @@
-var mnemonic = "enforce stairs six leopard dentist feed arctic animal sample beyond viable opinion";
+var mnemonic = "radar mixture render mixed trap load file solar piece sense icon ghost";

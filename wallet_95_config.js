@@ -1,1 +1,1 @@
-var mnemonic = "powder car siren crowd race prize logic find silk dignity earn blossom";
+var mnemonic = "amount knock trouble forum absurd lab strike flee border vintage nut crystal";

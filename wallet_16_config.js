@@ -1,1 +1,1 @@
-var mnemonic = "long utility airport master can away head much pumpkin fine author city";
+var mnemonic = "amazing fan legal cover advice often balance leopard bottom biology around attitude";

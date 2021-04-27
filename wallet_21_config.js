@@ -1,1 +1,1 @@
-var mnemonic = "uncle recall all inflict notice loan anger tell poem tomorrow debris save";
+var mnemonic = "wink rare clutch daughter castle immense pyramid never drop sleep enhance puppy";

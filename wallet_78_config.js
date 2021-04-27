@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin squirrel fringe consider spring gauge hill fly sound rifle skin thank";
+var mnemonic = "settle truly trigger cereal oval scene flat reform cabbage video bullet knock";

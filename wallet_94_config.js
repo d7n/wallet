@@ -1,1 +1,1 @@
-var mnemonic = "kitchen credit ridge alter science glance abuse allow journey length income file";
+var mnemonic = "alter bounce father axis mobile bring crouch payment idea mistake luggage section";

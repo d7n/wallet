@@ -1,1 +1,1 @@
-var mnemonic = "cram brave endless home clock cute notice unlock because urban mention ocean";
+var mnemonic = "promote pluck gun drive comic bicycle unfair tent movie worth input seek";

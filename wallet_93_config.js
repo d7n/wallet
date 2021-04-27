@@ -1,1 +1,1 @@
-var mnemonic = "food legend vast return imitate journey lecture type radar jelly ocean journey";
+var mnemonic = "cigar fox gaze ask matter exit tape prosper calm oak artefact habit";

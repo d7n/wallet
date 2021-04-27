@@ -1,1 +1,1 @@
-var mnemonic = "near obscure tower toy sign glimpse chapter warrior arrest metal danger that";
+var mnemonic = "assault edit chair gain disagree gloom recall capital artist matter violin mind";

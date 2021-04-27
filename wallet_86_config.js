@@ -1,1 +1,1 @@
-var mnemonic = "trumpet dose seek decade adjust visa kidney gap tilt pumpkin stuff notable";
+var mnemonic = "stick hard comfort win neutral pizza sphere misery treat inform afraid enrich";

@@ -1,1 +1,1 @@
-var mnemonic = "smooth remain narrow jaguar whip gaze slab buyer labor arrow globe eye";
+var mnemonic = "beauty fault hold typical pond retreat body silver pilot matter win reason";

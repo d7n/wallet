@@ -1,1 +1,1 @@
-var mnemonic = "tilt fuel tray puppy cat drill absurd language execute wreck buddy suspect";
+var mnemonic = "clutch trust holiday clean cute bag diary warrior uncover depth reason poverty";

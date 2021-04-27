@@ -1,1 +1,1 @@
-var mnemonic = "rude elbow motion collect nurse system type scheme club elephant easy unusual";
+var mnemonic = "indicate door absurd phrase neglect hand detect brisk office sport cancel powder";

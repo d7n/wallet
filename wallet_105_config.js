@@ -1,1 +1,1 @@
-var mnemonic = "around layer mansion depend canoe visit car occur minute prosper treat wire";
+var mnemonic = "topic limb beef simple rigid trumpet february say express vicious belt put";

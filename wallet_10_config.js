@@ -1,1 +1,1 @@
-var mnemonic = "conduct title adjust lucky capital shoe require jungle insect couch turtle husband";
+var mnemonic = "panther nation utility naive exile glimpse stable swift nurse album portion denial";

@@ -1,1 +1,1 @@
-var mnemonic = "silk thrive confirm reflect window steel physical hybrid dragon sad divorce also";
+var mnemonic = "vast live awesome caution pear curious local direct copy speed limb tape";

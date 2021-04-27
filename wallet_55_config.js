@@ -1,1 +1,1 @@
-var mnemonic = "rude finger core middle program mother sting protect tattoo false depth side";
+var mnemonic = "silver brick weird best art awake fix swift switch tongue issue dumb";

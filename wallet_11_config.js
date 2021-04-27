@@ -1,1 +1,1 @@
-var mnemonic = "capable crawl stamp liberty net worth car horror trust acid butter cupboard";
+var mnemonic = "tool kidney squirrel real shrug mom talent physical you volume caught bind";

@@ -1,1 +1,1 @@
-var mnemonic = "lonely mad ketchup flag caught enemy pigeon impose pet gadget course tell";
+var mnemonic = "still mean length art huge way office never long corn garage stuff";

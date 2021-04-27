@@ -1,1 +1,1 @@
-var mnemonic = "card snow know syrup track permit behave cupboard unit fury circle carpet";
+var mnemonic = "plate execute welcome inspire artist eyebrow size absent rival physical expire inflict";

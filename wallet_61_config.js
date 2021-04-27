@@ -1,1 +1,1 @@
-var mnemonic = "budget express much reveal hub menu release tackle ring fee tennis ghost";
+var mnemonic = "extra ribbon negative orbit beef unaware actual flavor focus brown ocean exclude";

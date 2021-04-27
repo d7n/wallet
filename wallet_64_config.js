@@ -1,1 +1,1 @@
-var mnemonic = "shove borrow prepare nerve end course toilet legal benefit pill brain chicken";
+var mnemonic = "habit tumble baby honey artist list era choose earn describe chronic spray";

@@ -1,1 +1,1 @@
-var mnemonic = "state choose dirt snake wear sell october leopard riot similar cream upgrade";
+var mnemonic = "save minor sphere busy mirror voice pepper imitate measure van custom height";

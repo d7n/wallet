@@ -1,1 +1,1 @@
-var mnemonic = "armed cave tone used witness physical curious joke resemble slow humor garage";
+var mnemonic = "current news beyond print lab mom flame mean heart picnic run escape";

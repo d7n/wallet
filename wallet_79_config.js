@@ -1,1 +1,1 @@
-var mnemonic = "mutual alone indicate range pencil process genuine version electric treat spoil soon";
+var mnemonic = "inhale tuna mushroom oil father slogan window warm fog music mutual risk";

@@ -1,1 +1,1 @@
-var mnemonic = "fancy one transfer marriage festival vehicle push fresh mercy gas oak cup";
+var mnemonic = "web describe same already fragile marriage trade vessel proof trash judge add";

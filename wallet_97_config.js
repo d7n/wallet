@@ -1,1 +1,1 @@
-var mnemonic = "educate dry unit peanut spread stable affair engage mother chunk pledge crop";
+var mnemonic = "kiss young spawn damp spike believe measure tortoise physical shaft volume demise";

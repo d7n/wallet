@@ -1,1 +1,1 @@
-var mnemonic = "unique oyster shadow blood enhance excite wrong effort taste slogan credit sadness";
+var mnemonic = "wide calm robust absent problem lounge hill sight noise floor deputy hungry";

@@ -1,1 +1,1 @@
-var mnemonic = "media desert dog risk select cross message damp unable language remove various";
+var mnemonic = "coast law ten kidney soup fix never scout boost caution oxygen wrap";

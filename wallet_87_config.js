@@ -1,1 +1,1 @@
-var mnemonic = "survey grace surprise smile curve okay then expire spot shoe shock inquiry";
+var mnemonic = "skin airport income wool glimpse walnut riot million butter ticket similar helmet";

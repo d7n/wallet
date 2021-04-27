@@ -1,1 +1,1 @@
-var mnemonic = "fit swim nurse scorpion gas balance input month describe ozone example avoid";
+var mnemonic = "hat olympic evidence focus tennis abuse twelve perfect solve solar tiger sock";

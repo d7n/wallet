@@ -1,1 +1,1 @@
-var mnemonic = "battle rain tackle tag right owner typical neither fame spice sand artwork";
+var mnemonic = "tomorrow behind attract damp process bulk grocery tuna pledge social student oil";

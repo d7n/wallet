@@ -1,1 +1,1 @@
-var mnemonic = "brush breeze faith hungry share spell vintage demise lobster leaf tumble name";
+var mnemonic = "client vintage student winner surprise decline gasp shadow drip share merge ecology";

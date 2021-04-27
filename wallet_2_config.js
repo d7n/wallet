@@ -1,1 +1,1 @@
-var mnemonic = "enable guess refuse category venue rhythm member town fashion flag process window";
+var mnemonic = "glad drum bright violin pink uncle energy train oil print sponsor spray";

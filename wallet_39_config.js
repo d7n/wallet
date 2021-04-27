@@ -1,1 +1,1 @@
-var mnemonic = "note cheap double flock turn globe afford hybrid seminar punch lunch future";
+var mnemonic = "august grid imitate salad artwork sponsor all movie below trend prosper often";

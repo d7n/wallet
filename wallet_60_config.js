@@ -1,1 +1,1 @@
-var mnemonic = "radio asset clean mandate bulb slender during start tattoo woman cousin leopard";
+var mnemonic = "isolate possible wisdom weapon whale outdoor jungle glue sail group possible repeat";

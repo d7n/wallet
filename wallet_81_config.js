@@ -1,1 +1,1 @@
-var mnemonic = "pepper aim fuel say pretty rice write love equip across gift lounge";
+var mnemonic = "entire marble hole inmate cruise tongue boost seven enemy found angle mouse";

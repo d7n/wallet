@@ -1,1 +1,1 @@
-var mnemonic = "mutual identify guard dune treat village dinosaur false peace jump move coast";
+var mnemonic = "winter palace people chunk over fish rug transfer essence drum know hero";

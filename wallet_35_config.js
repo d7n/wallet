@@ -1,1 +1,1 @@
-var mnemonic = "silk gossip question dry embrace bunker struggle silk kind city wealth unknown";
+var mnemonic = "sad tennis tissue resemble catalog deny crane sail usage begin away deposit";

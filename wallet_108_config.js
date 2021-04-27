@@ -1,1 +1,1 @@
-var mnemonic = "toilet battle apple way sponsor sausage nation glue pyramid tonight rent orphan";
+var mnemonic = "fancy profit insect develop cannon plastic tent guide silk connect boost term";
