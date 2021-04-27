@@ -1,1 +1,1 @@
-var mnemonic = "kiwi bright ill valid know blast until private heart soup october online";
+var mnemonic = "detail claim birth spy question injury juice mean kingdom laugh exhaust cross";

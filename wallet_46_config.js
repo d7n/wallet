@@ -1,1 +1,1 @@
-var mnemonic = "layer arrest knife dizzy design space kiss pelican guitar dice bag payment";
+var mnemonic = "pulse recycle movie rebuild stay dish sight very cheap wrestle until occur";

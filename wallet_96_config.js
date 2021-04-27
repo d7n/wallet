@@ -1,1 +1,1 @@
-var mnemonic = "fever liberty reject tree call snack ketchup donate slush section brick opera";
+var mnemonic = "twin lottery cruise pony stay force buddy inquiry output sword advice tail";

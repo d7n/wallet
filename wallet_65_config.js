@@ -1,1 +1,1 @@
-var mnemonic = "athlete lawn service kid task dawn liquid exile ice brick tag index";
+var mnemonic = "series link option elephant smoke this photo cool alter domain submit frown";

@@ -1,1 +1,1 @@
-var mnemonic = "keen latin deny level thunder grief shoe supply dolphin dial practice awake";
+var mnemonic = "month visa target oppose lunar ripple recall finish mystery tuna evil pass";

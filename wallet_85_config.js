@@ -1,1 +1,1 @@
-var mnemonic = "easily canyon day toast dynamic term today hood unaware wonder tray inner";
+var mnemonic = "man gift actress hamster learn biology scatter sauce number worth file lamp";

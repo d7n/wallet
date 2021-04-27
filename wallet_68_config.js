@@ -1,1 +1,1 @@
-var mnemonic = "logic boss insane glory glass alert argue palace pledge prepare enrich tongue";
+var mnemonic = "detail advice sand strategy goat diary marriage card cream uncle chef advance";

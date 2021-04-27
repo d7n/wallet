@@ -1,1 +1,1 @@
-var mnemonic = "actual blood divide just talk about where snack hero fox flush royal";
+var mnemonic = "bulb celery bring focus breeze security shield welcome salon useful clap excess";

@@ -1,1 +1,1 @@
-var mnemonic = "uncle trash under cradle unveil uncover elbow climb guilt alarm dust primary";
+var mnemonic = "arrive infant outdoor alter similar can urban want already good nuclear ride";

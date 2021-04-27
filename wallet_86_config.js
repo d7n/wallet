@@ -1,1 +1,1 @@
-var mnemonic = "mix coast room comic piano grocery fossil crush sort snack uniform pitch";
+var mnemonic = "reason middle seek gun seven grant diesel supreme laundry giraffe grass whisper";

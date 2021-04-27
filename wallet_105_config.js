@@ -1,1 +1,1 @@
-var mnemonic = "fan torch material table frog great shaft coil camp evidence law panther";
+var mnemonic = "tag sound perfect clean lazy civil enhance lawn parrot lab assume job";

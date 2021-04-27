@@ -1,1 +1,1 @@
-var mnemonic = "give student evoke poet jeans banner sail century ability wool enjoy view";
+var mnemonic = "educate already report push friend agree name entire enemy stool fruit salon";

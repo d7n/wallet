@@ -1,1 +1,1 @@
-var mnemonic = "heart mountain faint hazard cement lottery vapor kitchen rapid finger weather nature";
+var mnemonic = "border fashion belt turkey coconut host resource skull dynamic boring salt cave";

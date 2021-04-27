@@ -1,1 +1,1 @@
-var mnemonic = "trick repeat neck guess eternal rotate busy pledge bid machine fire echo";
+var mnemonic = "useless agent length shoot good film isolate cigar search either series trouble";

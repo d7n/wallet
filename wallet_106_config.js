@@ -1,1 +1,1 @@
-var mnemonic = "dignity fiber urban retreat depend heavy vague emerge melody video glimpse curve";
+var mnemonic = "love vehicle reveal winter elite jar destroy cupboard pepper badge piece kite";

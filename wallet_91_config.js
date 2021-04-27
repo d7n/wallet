@@ -1,1 +1,1 @@
-var mnemonic = "oval metal indicate need always dry daring snap mistake evil beyond tonight";
+var mnemonic = "riot shock army fiscal tattoo brass evidence transfer cube wrestle flush solar";

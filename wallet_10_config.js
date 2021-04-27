@@ -1,1 +1,1 @@
-var mnemonic = "ramp eyebrow piece mass then team daring apology banana switch promote easy";
+var mnemonic = "rebuild custom know wing sure tray myself page economy foster agent vault";

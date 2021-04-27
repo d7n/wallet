@@ -1,1 +1,1 @@
-var mnemonic = "foil wait palace spice park elite crime faculty embark parade garlic afraid";
+var mnemonic = "fiction genuine panda chest divert expand tray march chase elephant pumpkin thrive";

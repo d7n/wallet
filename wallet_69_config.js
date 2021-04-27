@@ -1,1 +1,1 @@
-var mnemonic = "wire power announce maid token chef accident plate card caution error maple";
+var mnemonic = "mango choice tuition bench abandon maid sun cargo help glory stand join";

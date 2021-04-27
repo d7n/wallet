@@ -1,1 +1,1 @@
-var mnemonic = "truth this scheme mystery gauge chief large vibrant help rate room history";
+var mnemonic = "box world old dad decline pencil umbrella athlete depart eagle muscle wait";

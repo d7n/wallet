@@ -1,1 +1,1 @@
-var mnemonic = "announce crowd can chief strike stay damage enhance portion soul high resemble";
+var mnemonic = "vehicle poverty exclude wrong feed toe idle wisdom bitter side define crowd";

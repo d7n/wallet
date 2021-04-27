@@ -1,1 +1,1 @@
-var mnemonic = "flat clown never crazy helmet talent domain horror erosion slot skill dash";
+var mnemonic = "capable eight foil thought acoustic vessel purity acid poet course tattoo panic";

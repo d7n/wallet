@@ -1,1 +1,1 @@
-var mnemonic = "spin kangaroo waste name found tiny virtual animal hybrid cancel urban claim";
+var mnemonic = "core tattoo input vacant panel mobile enough rare force canyon unique speed";

@@ -1,1 +1,1 @@
-var mnemonic = "rookie rookie level slow sea cart wool cement hen universe hint nuclear";
+var mnemonic = "copy obtain caution casual web acquire motion kitchen garlic occur stock earn";

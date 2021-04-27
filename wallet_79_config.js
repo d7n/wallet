@@ -1,1 +1,1 @@
-var mnemonic = "echo pitch seat pipe pact hungry enable super bunker stamp tiny dismiss";
+var mnemonic = "verify cart laptop toward tree double hobby case dry kite future body";

@@ -1,1 +1,1 @@
-var mnemonic = "clog tent peasant blanket advance whisper analyst gaze void floor glove rough";
+var mnemonic = "sausage need estate endorse say region glory cream green price rain shove";

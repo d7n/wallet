@@ -1,1 +1,1 @@
-var mnemonic = "reunion link visit amazing fly knife chaos decline trust cage bread shoulder";
+var mnemonic = "design meat tag visual inject accident feed buddy parent federal lizard rifle";

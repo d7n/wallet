@@ -1,1 +1,1 @@
-var mnemonic = "card shift forest scene fluid jazz sketch bamboo pig elevator chalk across";
+var mnemonic = "demise response volcano embody follow broken tonight ordinary curve report glue sing";

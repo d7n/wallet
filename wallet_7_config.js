@@ -1,1 +1,1 @@
-var mnemonic = "unknown olive horn skill chimney manage reason frozen hedgehog act alien tiger";
+var mnemonic = "ivory what believe long neglect affair cherry candy wet gun public open";

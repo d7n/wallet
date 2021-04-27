@@ -1,1 +1,1 @@
-var mnemonic = "coin dismiss day awful atom slogan obscure strike warm vacuum champion vessel";
+var mnemonic = "divorce trigger exile umbrella mention couch brother wish leopard inform frame salmon";

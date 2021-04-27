@@ -1,1 +1,1 @@
-var mnemonic = "fitness system mom suspect frost soon improve ceiling poem scout joy gadget";
+var mnemonic = "teach car brother only decide problem olive sketch good whip produce keep";

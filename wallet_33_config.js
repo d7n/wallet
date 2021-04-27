@@ -1,1 +1,1 @@
-var mnemonic = "video ring okay post harsh horn amount crush right tape multiply buddy";
+var mnemonic = "catalog verify chair clap series better token return blind wasp inflict copper";

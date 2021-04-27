@@ -1,1 +1,1 @@
-var mnemonic = "fly bring actor buyer teach tent immune endless menu learn patrol glide";
+var mnemonic = "profit logic model raise claw usage immense coin sight romance notice vintage";

@@ -1,1 +1,1 @@
-var mnemonic = "ocean ostrich effort welcome panther kid abuse extra regular tenant stumble tube";
+var mnemonic = "blind weekend hope casual right street math violin charge increase high giant";

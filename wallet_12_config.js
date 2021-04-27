@@ -1,1 +1,1 @@
-var mnemonic = "scan tourist differ damp sting ride broom result this rail silly sword";
+var mnemonic = "prefer connect normal mandate park weasel actor major unable pelican weekend clay";

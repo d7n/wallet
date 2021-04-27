@@ -1,1 +1,1 @@
-var mnemonic = "extra filter social muscle fiscal avocado tuition lawsuit have chalk slam tourist";
+var mnemonic = "elder tennis tower april raven fortune mandate glare fetch fold oxygen general";

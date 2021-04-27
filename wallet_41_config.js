@@ -1,1 +1,1 @@
-var mnemonic = "trade luggage wagon oven whale mask leg knife ice sweet weird naive";
+var mnemonic = "poet soldier thrive boat warm eyebrow have exhaust will modify effort unfold";

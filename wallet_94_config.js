@@ -1,1 +1,1 @@
-var mnemonic = "hard canal hood author scrap bone rich school modify report album pill";
+var mnemonic = "chalk couch truly spring select setup modify stuff crawl match metal hope";

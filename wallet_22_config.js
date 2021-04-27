@@ -1,1 +1,1 @@
-var mnemonic = "salute brown wreck music gun explain lonely shine switch lazy craft story";
+var mnemonic = "inflict sick naive noodle long ethics injury feel jeans endless library toss";

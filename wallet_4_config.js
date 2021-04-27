@@ -1,1 +1,1 @@
-var mnemonic = "strategy soccer flight table rate thing mix wise suffer dove gossip cattle";
+var mnemonic = "such speak fantasy hurdle slide roast rely cabbage zoo awesome collect traffic";

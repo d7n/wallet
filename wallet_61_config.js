@@ -1,1 +1,1 @@
-var mnemonic = "must genuine brain turn merry maple ivory neglect clinic search armor tuition";
+var mnemonic = "flee history sustain wonder mirror major angry crush flash turtle void ketchup";

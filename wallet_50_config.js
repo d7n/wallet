@@ -1,1 +1,1 @@
-var mnemonic = "middle couple fiction throw badge inside face embark hybrid story august enroll";
+var mnemonic = "marine diet analyst absorb this harbor embody beauty alarm bean benefit shuffle";

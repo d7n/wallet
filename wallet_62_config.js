@@ -1,1 +1,1 @@
-var mnemonic = "neck cinnamon sense soccer fossil narrow olive unusual vintage chaos hybrid salt";
+var mnemonic = "day drastic demand surprise glory harsh gym mimic vapor bicycle common crash";

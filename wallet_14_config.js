@@ -1,1 +1,1 @@
-var mnemonic = "october render engage gain ritual acid cradle pool peace jar struggle test";
+var mnemonic = "pool connect trap autumn young wet atom wasp abandon address pelican improve";

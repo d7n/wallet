@@ -1,1 +1,1 @@
-var mnemonic = "settle mixture fan shadow clean damp shadow enter cabin decide afford glow";
+var mnemonic = "learn sight dwarf rally great quote awkward use fun stereo pepper enroll";

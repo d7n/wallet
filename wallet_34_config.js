@@ -1,1 +1,1 @@
-var mnemonic = "victory gloom effort bring play valve basic code chronic market abstract swallow";
+var mnemonic = "castle vicious monster uniform enemy member tackle thumb butter modify spare cover";

@@ -1,1 +1,1 @@
-var mnemonic = "trigger broken alarm shadow market oxygen moon mansion good recipe slide clog";
+var mnemonic = "color trust ice equal chapter negative split course unknown afford exclude season";

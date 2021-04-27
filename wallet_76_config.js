@@ -1,1 +1,1 @@
-var mnemonic = "target gadget boat intact estate noodle bid mutual want remove expose control";
+var mnemonic = "vintage divert chaos drip tattoo logic trumpet project place wise input action";

@@ -1,1 +1,1 @@
-var mnemonic = "firm lizard guitar cake remind similar general fly improve eternal memory drum";
+var mnemonic = "give shrimp stuff energy half destroy crazy search sight milk into identify";

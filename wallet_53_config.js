@@ -1,1 +1,1 @@
-var mnemonic = "giraffe marriage puppy above luxury like clutch protect topic erase special give";
+var mnemonic = "number turn promote verb phrase program aim grain undo round sleep negative";

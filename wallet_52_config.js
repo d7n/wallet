@@ -1,1 +1,1 @@
-var mnemonic = "galaxy illness pole hurry cake solar post phone point once grid mix";
+var mnemonic = "mom banana frequent dinosaur focus puzzle piano fruit grant tooth ocean used";

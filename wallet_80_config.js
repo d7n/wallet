@@ -1,1 +1,1 @@
-var mnemonic = "junior chapter lecture spirit hand rubber mutual busy reward correct garlic armed";
+var mnemonic = "toward bread runway enough tragic draft beef demand board access immune fossil";

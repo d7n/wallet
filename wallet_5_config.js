@@ -1,1 +1,1 @@
-var mnemonic = "obscure clever lens cool wet winner found wealth double parrot common office";
+var mnemonic = "boss museum raw melt resist friend stuff cover bless admit staff girl";

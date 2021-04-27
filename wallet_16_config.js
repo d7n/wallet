@@ -1,1 +1,1 @@
-var mnemonic = "jungle rapid system bridge confirm destroy height west wish nation pigeon alley";
+var mnemonic = "tuna secret erupt hawk desert ski host plate pond sketch absorb slush";

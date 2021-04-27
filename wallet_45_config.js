@@ -1,1 +1,1 @@
-var mnemonic = "minor invest maximum clever lava rookie kitchen long reject glimpse grid science";
+var mnemonic = "tube goat december build horse autumn omit question segment load neutral lumber";

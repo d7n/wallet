@@ -1,1 +1,1 @@
-var mnemonic = "flock nose empower actor brief style cheap wall stand pair penalty slight";
+var mnemonic = "adjust clip believe illegal exit chief absurd planet gauge intact laundry ability";

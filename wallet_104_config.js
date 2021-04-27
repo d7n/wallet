@@ -1,1 +1,1 @@
-var mnemonic = "wolf where space column demand anger click family border load range rival";
+var mnemonic = "unfair shift neither pill alcohol faint elite sing arm script popular depth";

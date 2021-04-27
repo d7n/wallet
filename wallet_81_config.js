@@ -1,1 +1,1 @@
-var mnemonic = "obvious provide liquid six pride comfort avocado clock faculty zone stereo nation";
+var mnemonic = "forum govern bread disagree unveil soda return impose kingdom buyer siren target";

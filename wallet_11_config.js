@@ -1,1 +1,1 @@
-var mnemonic = "brave lift enjoy elephant inspire spatial mixture slight extra clog half rival";
+var mnemonic = "spike drop lunch skill fiber upgrade nest trap gravity weasel bulb rough";

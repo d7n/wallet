@@ -1,1 +1,1 @@
-var mnemonic = "game supply argue fog team away govern shock dinosaur company lyrics letter";
+var mnemonic = "topic safe prize old author begin two ready loan code flag whale";

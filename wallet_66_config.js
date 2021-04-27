@@ -1,1 +1,1 @@
-var mnemonic = "flight noise slide paper tuna salad parrot season various various claim truly";
+var mnemonic = "parent snap slam crystal patrol spring north balance car liar modify labor";

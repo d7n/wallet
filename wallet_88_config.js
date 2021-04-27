@@ -1,1 +1,1 @@
-var mnemonic = "depth deposit feed lift permit ozone wire plastic humor lucky pipe loyal";
+var mnemonic = "indoor enjoy refuse stay broken biology feel cross orange forum wrist kitten";

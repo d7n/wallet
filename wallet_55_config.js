@@ -1,1 +1,1 @@
-var mnemonic = "shop snap better peace left kiss jaguar hollow rival afford source blade";
+var mnemonic = "detail scrub wait gospel volcano husband pumpkin detail glow chimney rocket shift";

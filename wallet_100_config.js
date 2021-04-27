@@ -1,1 +1,1 @@
-var mnemonic = "floor track cattle school onion sadness then banana monkey whisper invite fog";
+var mnemonic = "finger age page super process pair lottery mobile innocent witness trust marriage";

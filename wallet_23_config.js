@@ -1,1 +1,1 @@
-var mnemonic = "tank retire jeans noble reject trash corn accident future receive subway true";
+var mnemonic = "potato any news thought grab where aisle latin toilet usage scare forest";

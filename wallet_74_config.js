@@ -1,1 +1,1 @@
-var mnemonic = "drink together true cook rally add curve return daring peasant verify blast";
+var mnemonic = "course venture monitor concert useful sausage improve bonus pretty express order seat";

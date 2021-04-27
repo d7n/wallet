@@ -1,1 +1,1 @@
-var mnemonic = "point hover lady tonight hollow antique surprise soda leave add used october";
+var mnemonic = "skull menu skin choice coil target doctor rubber penalty junk script volcano";

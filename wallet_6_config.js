@@ -1,1 +1,1 @@
-var mnemonic = "toward kid security equip dune struggle scheme engage husband jar vintage child";
+var mnemonic = "flush fever trial moment lake injury student broken twelve real gospel gold";

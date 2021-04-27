@@ -1,1 +1,1 @@
-var mnemonic = "ill uncover sustain fall chicken nasty cage wild skin jump extend economy";
+var mnemonic = "evoke spell butter mirror skin brush leader injury daring acid globe rack";

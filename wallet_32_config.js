@@ -1,1 +1,1 @@
-var mnemonic = "noise choose forget above infant armor scale congress proud damp attend dial";
+var mnemonic = "position coin rally cake stuff blast father hood pluck copy industry increase";

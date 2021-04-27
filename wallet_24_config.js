@@ -1,1 +1,1 @@
-var mnemonic = "report enrich review capable survey source stairs rib duck liquid produce praise";
+var mnemonic = "basket book chair fly bleak fury picnic mandate million cross alone thank";

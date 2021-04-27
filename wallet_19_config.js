@@ -1,1 +1,1 @@
-var mnemonic = "alcohol shield rough fiber witness ill asthma century height skin tone squeeze";
+var mnemonic = "host wide fix wasp flock nothing ship fall circle assume metal arena";

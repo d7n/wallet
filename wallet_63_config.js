@@ -1,1 +1,1 @@
-var mnemonic = "outdoor lion charge solution unhappy flame aerobic same entire multiply found output";
+var mnemonic = "onion actor parade copy cliff humor protect notice soul orphan absent raven";

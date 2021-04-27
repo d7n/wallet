@@ -1,1 +1,1 @@
-var mnemonic = "dance target beef peasant permit stamp capable scout citizen boss blossom either";
+var mnemonic = "rich sick novel ball industry stool news oil save idle rich refuse";

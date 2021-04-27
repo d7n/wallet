@@ -1,1 +1,1 @@
-var mnemonic = "gallery enter abuse card nation game apple puzzle force library loud estate";
+var mnemonic = "rely oak attend property walnut flame stone talk ridge coin endorse category";

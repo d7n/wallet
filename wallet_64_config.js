@@ -1,1 +1,1 @@
-var mnemonic = "post basket split critic fun gauge result slight unlock creek team heart";
+var mnemonic = "loud reason garlic unveil own boat fresh weasel praise forget fragile much";

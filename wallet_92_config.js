@@ -1,1 +1,1 @@
-var mnemonic = "fall supply logic fix measure place sand power unhappy fly just bunker";
+var mnemonic = "parent author trouble syrup minimum bread lazy scrap benefit still parade oppose";

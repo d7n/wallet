@@ -1,1 +1,1 @@
-var mnemonic = "wheat unusual own adapt wasp buyer field you leader lunar settle awkward";
+var mnemonic = "asthma ginger scorpion dutch pink discover faith candy shiver evoke nature immense";

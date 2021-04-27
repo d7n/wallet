@@ -1,1 +1,1 @@
-var mnemonic = "excuse forum regret ice yard motion tilt strategy whip isolate front another";
+var mnemonic = "decorate fiction video rib craft odor mercy husband burden cluster remove walk";

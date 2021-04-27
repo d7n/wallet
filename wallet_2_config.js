@@ -1,1 +1,1 @@
-var mnemonic = "caution time giant debate boss blame buyer acquire fiction crunch giant hotel";
+var mnemonic = "canal normal neutral salute belt mention actor alien wool addict hurt thumb";

@@ -1,1 +1,1 @@
-var mnemonic = "spoil resist other idle betray genuine drift angle uncover cry make quarter";
+var mnemonic = "weird flush trumpet shoot grocery oven result someone grief abstract dish stool";

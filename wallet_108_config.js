@@ -1,1 +1,1 @@
-var mnemonic = "water unveil able stick august vocal dutch shallow scene drip figure slush";
+var mnemonic = "cabbage uncle drive duck friend trust slot color gauge radar achieve letter";

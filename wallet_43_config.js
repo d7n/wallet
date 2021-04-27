@@ -1,1 +1,1 @@
-var mnemonic = "also pear lawn glimpse cycle peasant voyage awkward cost avocado craft sure";
+var mnemonic = "inherit month decrease kiwi gun boil roast camp tool turtle warrior stand";

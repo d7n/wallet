@@ -1,1 +1,1 @@
-var mnemonic = "junior actress quantum february pony noble health access split truly license include";
+var mnemonic = "focus knife suggest balcony cycle neck weasel box once once evolve phone";

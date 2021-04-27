@@ -1,1 +1,1 @@
-var mnemonic = "because bird violin capital metal garden smoke hungry orphan example lens evil";
+var mnemonic = "explain junk reunion gloom evolve expand consider spend father month salon parrot";

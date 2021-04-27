@@ -1,1 +1,1 @@
-var mnemonic = "damage rich shoe ticket great fix amused course lizard galaxy ocean grit";
+var mnemonic = "harvest tag actor minor hire busy scrub action sniff renew property beyond";

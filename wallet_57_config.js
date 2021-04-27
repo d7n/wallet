@@ -1,1 +1,1 @@
-var mnemonic = "mouse negative honey nurse hint toddler exhibit safe cloth vibrant shoot syrup";
+var mnemonic = "final amount use ladder baby clarify essence subway foster weapon gun spring";
