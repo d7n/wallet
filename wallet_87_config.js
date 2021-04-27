@@ -1,1 +1,1 @@
-var mnemonic = "cheap dune trigger focus region digital more symbol bone more vessel wisdom";
+var mnemonic = "range cargo play thought utility name dynamic valley village dwarf voyage man";

@@ -1,1 +1,1 @@
-var mnemonic = "stadium frown cheap double into talent shoulder dragon loud invite short artist";
+var mnemonic = "school matter silly turn river edge kidney ecology topple hundred purpose ocean";

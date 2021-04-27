@@ -1,1 +1,1 @@
-var mnemonic = "pass connect seminar cousin obscure scale language spread salt song pigeon away";
+var mnemonic = "blind unaware aunt olive flip letter news six claim rifle danger inside";

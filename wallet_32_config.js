@@ -1,1 +1,1 @@
-var mnemonic = "trend stove transfer ball axis legal punch inner leopard swim digital kitten";
+var mnemonic = "flower exclude intact auction list combine alert track obtain acquire off arena";

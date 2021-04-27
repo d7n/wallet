@@ -1,1 +1,1 @@
-var mnemonic = "quarter kind elegant merit thunder edge eye scrub dutch mother slush clump";
+var mnemonic = "proud pizza city maximum carbon forest random abandon stool fatal actress mansion";

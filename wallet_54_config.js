@@ -1,1 +1,1 @@
-var mnemonic = "fantasy tribe sweet spoon brush maple ivory thank auction apology frozen near";
+var mnemonic = "receive noodle matrix nasty first pizza input firm fish hen cruel panic";

@@ -1,1 +1,1 @@
-var mnemonic = "leave title verify cupboard fruit poet law demise broccoli ride menu garage";
+var mnemonic = "install bachelor gown private collect trick recall flee able inflict umbrella glad";

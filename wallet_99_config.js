@@ -1,1 +1,1 @@
-var mnemonic = "giraffe evidence occur ankle supply lock away laugh abstract assault check session";
+var mnemonic = "rapid panel amazing once brown pony render rack urban summer chicken public";

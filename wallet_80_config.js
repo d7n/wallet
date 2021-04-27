@@ -1,1 +1,1 @@
-var mnemonic = "industry unknown globe actual twenty square arm display draw mom dad cash";
+var mnemonic = "smile achieve priority uncle champion lunch hungry lift bean virus glad private";

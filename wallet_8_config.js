@@ -1,1 +1,1 @@
-var mnemonic = "unlock change merry horn leopard pistol current auction frost document future aspect";
+var mnemonic = "shallow pink soup tomato width faint hammer recycle royal manage social prefer";

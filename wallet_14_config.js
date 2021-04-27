@@ -1,1 +1,1 @@
-var mnemonic = "glow cool whip region around local turn onion tank act vocal fit";
+var mnemonic = "fire spare dial frequent rookie deer iron cube clever wagon food voice";

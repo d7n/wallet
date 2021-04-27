@@ -1,1 +1,1 @@
-var mnemonic = "front camp merit voice arm proud glance antique key sleep satisfy grief";
+var mnemonic = "column wrap orchard elder trash cradle exit expire cook miracle slim humble";

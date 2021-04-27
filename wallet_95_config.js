@@ -1,1 +1,1 @@
-var mnemonic = "live mask elder upon surface comic steel select age dune message lend";
+var mnemonic = "region assume cheap weird hope fish illness client height wolf virtual reopen";

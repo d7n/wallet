@@ -1,1 +1,1 @@
-var mnemonic = "measure dose two master mesh tenant matrix lecture bid advice alone sock";
+var mnemonic = "begin slush sample axis want layer rally sketch pause royal attend mule";

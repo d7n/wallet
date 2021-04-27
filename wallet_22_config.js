@@ -1,1 +1,1 @@
-var mnemonic = "visual ramp learn enroll any lawsuit use rifle crop crumble video length";
+var mnemonic = "armed session mandate deer brother minor humble evil library moral polar fancy";

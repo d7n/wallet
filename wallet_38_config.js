@@ -1,1 +1,1 @@
-var mnemonic = "ski you already manual giggle elegant basket leisure junior brush snow later";
+var mnemonic = "sing pilot track hub dish acid today grit crop enroll gap when";

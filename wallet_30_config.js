@@ -1,1 +1,1 @@
-var mnemonic = "boil harsh split fog treat endorse patrol wet document raw cover wreck";
+var mnemonic = "release leisure monitor ability cable spirit fringe soup treat puppy fork father";

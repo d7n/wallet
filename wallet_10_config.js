@@ -1,1 +1,1 @@
-var mnemonic = "border table miracle nephew banana people degree discover permit earth discover injury";
+var mnemonic = "green mixed barrel blanket acoustic initial teach still cheap solid sketch theory";

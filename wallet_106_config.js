@@ -1,1 +1,1 @@
-var mnemonic = "ghost nuclear rocket bag neglect load noodle good deputy elephant refuse scan";
+var mnemonic = "joy real need same permit reunion alcohol penalty stem goddess razor hidden";

@@ -1,1 +1,1 @@
-var mnemonic = "raise admit such minimum raccoon equip bench course small wait marine other";
+var mnemonic = "spatial goose candy gun deer shoulder large attitude label any upset casual";

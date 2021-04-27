@@ -1,1 +1,1 @@
-var mnemonic = "powder merge cheese coffee mesh wild coral feature lunch truth tilt opera";
+var mnemonic = "sleep oven december blast acoustic lobster album idle myself version unfair crucial";

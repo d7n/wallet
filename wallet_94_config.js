@@ -1,1 +1,1 @@
-var mnemonic = "tissue extra damp brother whisper clarify bullet horn power neck maximum diamond";
+var mnemonic = "egg turtle sand radar trust blade happy essay aerobic wide weird empower";

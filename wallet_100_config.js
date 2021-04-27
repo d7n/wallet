@@ -1,1 +1,1 @@
-var mnemonic = "menu half hour seek assist quality dinosaur upset favorite peanut pact vehicle";
+var mnemonic = "click youth deposit okay velvet long chapter mechanic beach amused mean rifle";

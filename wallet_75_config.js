@@ -1,1 +1,1 @@
-var mnemonic = "tomato impulse play sense square enforce aim piece record senior mobile habit";
+var mnemonic = "sick rice mansion special deny arrest junior obscure hover turkey island endless";

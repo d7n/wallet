@@ -1,1 +1,1 @@
-var mnemonic = "strong gossip bunker predict smooth fruit frame glove onion fury stock parent";
+var mnemonic = "concert water mail palm outdoor transfer phrase parent olive demand setup desk";

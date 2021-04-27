@@ -1,1 +1,1 @@
-var mnemonic = "group abstract seek coach accuse paddle fetch change gain kitchen pencil color";
+var mnemonic = "huge there pepper run obvious rapid blame cereal box visual pipe pipe";

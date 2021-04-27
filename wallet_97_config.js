@@ -1,1 +1,1 @@
-var mnemonic = "rate gravity exchange waste nothing runway between offer ride ugly believe peace";
+var mnemonic = "fence swamp quote canvas elegant disorder kite response quarter panel inner person";

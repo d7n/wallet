@@ -1,1 +1,1 @@
-var mnemonic = "people alley resist identify easy regular venture current cannon fruit physical tackle";
+var mnemonic = "audit market huge neck gift weasel fun toddler oblige blouse acquire empty";

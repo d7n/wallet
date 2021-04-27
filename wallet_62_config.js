@@ -1,1 +1,1 @@
-var mnemonic = "thumb pig multiply bronze few pulse pulse punch solar gold foot horse";
+var mnemonic = "throw clock patrol army despair false enable polar gaze ritual future kite";

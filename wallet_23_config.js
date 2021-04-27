@@ -1,1 +1,1 @@
-var mnemonic = "minor seven method column search evoke fashion planet faint vintage always borrow";
+var mnemonic = "huge talk soccer educate humble point save fold turkey chapter nose rent";

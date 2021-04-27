@@ -1,1 +1,1 @@
-var mnemonic = "genuine income host all argue elder earn universe gadget method confirm bulb";
+var mnemonic = "ivory turn chunk bulk confirm chronic behind sail fit rude panda where";

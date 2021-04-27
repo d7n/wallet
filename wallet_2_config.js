@@ -1,1 +1,1 @@
-var mnemonic = "purpose reopen shy live liar nut rapid naive art error nasty wing";
+var mnemonic = "source inside boat source senior fall moral know net purchase state burger";

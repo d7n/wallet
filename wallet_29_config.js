@@ -1,1 +1,1 @@
-var mnemonic = "surge bachelor spot piece patrol cinnamon original tumble repeat token surface salon";
+var mnemonic = "near curious symptom seven please rude wish noble oppose oven beach harsh";

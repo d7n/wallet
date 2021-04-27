@@ -1,1 +1,1 @@
-var mnemonic = "tackle cheese where stadium opera amused clarify exist axis permit ethics among";
+var mnemonic = "stable smooth clip change glare own duck leaf mail permit news sample";

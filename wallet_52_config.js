@@ -1,1 +1,1 @@
-var mnemonic = "engine cattle scrub robot dance fly lounge assist adult stamp slim cram";
+var mnemonic = "bean inform bullet color doll acquire wonder armed goddess license name sign";

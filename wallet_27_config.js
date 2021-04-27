@@ -1,1 +1,1 @@
-var mnemonic = "tent elite caught life neck post timber ensure balcony give awful sell";
+var mnemonic = "sun wine vapor scale sausage regular expand pulp sorry under envelope virtual";

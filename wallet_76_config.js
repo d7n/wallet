@@ -1,1 +1,1 @@
-var mnemonic = "want loan corn bicycle neck father soul one lift involve leaf net";
+var mnemonic = "foil fade diamond soon bunker soft tower jar tribe vivid idea cloud";

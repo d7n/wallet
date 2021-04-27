@@ -1,1 +1,1 @@
-var mnemonic = "spoil recycle reject access camp wise earn fiction hawk dove flip pen";
+var mnemonic = "address wage east limb swing nurse grief believe reflect day helmet dice";

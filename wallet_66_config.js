@@ -1,1 +1,1 @@
-var mnemonic = "first lab vibrant top lake divorce hip advance black false cousin error";
+var mnemonic = "reopen leg carpet liberty upset clutch anxiety elbow march escape remind squirrel";

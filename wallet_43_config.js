@@ -1,1 +1,1 @@
-var mnemonic = "race second hero sketch rich tornado cave puppy maximum spend render strong";
+var mnemonic = "trust already vapor jewel they august assault allow smile shove session real";

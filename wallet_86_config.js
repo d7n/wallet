@@ -1,1 +1,1 @@
-var mnemonic = "pyramid problem law hill brother elevator blind crush situate keep agree repair";
+var mnemonic = "cause ivory message maid siege toward student genius game toss exercise profit";

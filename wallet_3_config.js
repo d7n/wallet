@@ -1,1 +1,1 @@
-var mnemonic = "pledge unaware always industry muffin fresh clump travel black machine barely tell";
+var mnemonic = "banner special use pool frequent inherit silver belt panel duck ride wild";

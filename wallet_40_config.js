@@ -1,1 +1,1 @@
-var mnemonic = "burger snack atom radar parrot angle tonight invest observe inch metal hero";
+var mnemonic = "south hurry garage glad sketch demise moon explain mix heart chronic spin";

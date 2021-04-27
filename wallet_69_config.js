@@ -1,1 +1,1 @@
-var mnemonic = "recipe girl lemon drastic ankle marble negative crystal mom jaguar loop clap";
+var mnemonic = "biology parrot law motor dove gesture steel hard sentence balance display chunk";

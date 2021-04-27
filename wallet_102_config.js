@@ -1,1 +1,1 @@
-var mnemonic = "sunny fatigue brave spice shrug output stick outer subject fury faint else";
+var mnemonic = "pledge autumn fitness destroy junk rifle perfect anger echo east choose drift";

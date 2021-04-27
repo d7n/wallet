@@ -1,1 +1,1 @@
-var mnemonic = "evoke pipe symbol release seed flock hawk royal tooth unit plate abandon";
+var mnemonic = "half glove name thought text pledge borrow ghost model dry equip during";

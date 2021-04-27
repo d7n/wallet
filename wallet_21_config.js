@@ -1,1 +1,1 @@
-var mnemonic = "shadow void wall thumb vague feature jacket nerve egg intact neck april";
+var mnemonic = "muffin cradle fork matter connect exercise exotic smooth portion column cover visual";

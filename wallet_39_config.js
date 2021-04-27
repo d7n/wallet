@@ -1,1 +1,1 @@
-var mnemonic = "very trap horn ghost embark hair hill ability tag dove still admit";
+var mnemonic = "ride approve maple side kitchen frown ordinary globe hospital emotion carry sheriff";

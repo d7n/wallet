@@ -1,1 +1,1 @@
-var mnemonic = "describe water below whale junk token all alter van rose reduce brand";
+var mnemonic = "alpha margin pepper picture squeeze tiny start auction innocent grain fiber chicken";

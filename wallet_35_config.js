@@ -1,1 +1,1 @@
-var mnemonic = "volume logic announce fiber solar cruel female egg noble puppy economy lunch";
+var mnemonic = "artefact crucial brave fatigue isolate top ocean february virtual amateur blue will";

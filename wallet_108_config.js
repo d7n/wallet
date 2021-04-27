@@ -1,1 +1,1 @@
-var mnemonic = "rally wasp jungle walk special broccoli they sun cradle decline speak toward";
+var mnemonic = "cage vapor open fringe soup flower panic banner media congress squirrel engine";

@@ -1,1 +1,1 @@
-var mnemonic = "zebra bright raccoon holiday traffic token sort either spirit ozone fiscal creek";
+var mnemonic = "human setup cross cactus embody click mean adjust pass trip nominee goose";

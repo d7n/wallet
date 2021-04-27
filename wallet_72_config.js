@@ -1,1 +1,1 @@
-var mnemonic = "voyage reveal board duty canvas foster upset stuff nuclear swing target combine";
+var mnemonic = "innocent card globe lend april pledge reward citizen injury dial crumble elephant";

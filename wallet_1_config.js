@@ -1,1 +1,1 @@
-var mnemonic = "settle visit spell fatigue romance erode recipe leisure pave hand fun manual";
+var mnemonic = "want champion addict envelope artist library all holiday organ palm detail inmate";

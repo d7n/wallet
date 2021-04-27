@@ -1,1 +1,1 @@
-var mnemonic = "only follow before man demise fog argue pluck absurd april stem layer";
+var mnemonic = "together inject enemy script submit cool object cram sell motor method develop";

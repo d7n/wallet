@@ -1,1 +1,1 @@
-var mnemonic = "street measure stem hospital coyote update nerve bid round merit echo oil";
+var mnemonic = "peasant few rigid garlic hundred river daughter agree below marine orchard praise";

@@ -1,1 +1,1 @@
-var mnemonic = "often assume damp deal collect toy venture idea obvious silver artwork negative";
+var mnemonic = "gloom imitate cash expire neck dolphin annual lab gain session cactus couch";

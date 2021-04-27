@@ -1,1 +1,1 @@
-var mnemonic = "measure luggage good picnic benefit nephew account rival ramp provide battle dizzy";
+var mnemonic = "code squeeze camp situate depend lawsuit service lift unlock chapter deposit nut";

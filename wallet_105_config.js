@@ -1,1 +1,1 @@
-var mnemonic = "tackle assist problem shine topple vivid run position rally script brother patrol";
+var mnemonic = "isolate subway unfold danger mother grape lecture minimum dragon parade dune culture";

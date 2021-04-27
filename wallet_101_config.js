@@ -1,1 +1,1 @@
-var mnemonic = "core execute arrange motion force path doll grant old purpose surround pet";
+var mnemonic = "oak immense donor hour session lens purpose crater tenant flush indicate churn";

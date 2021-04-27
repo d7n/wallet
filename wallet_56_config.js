@@ -1,1 +1,1 @@
-var mnemonic = "pride display thumb apple wrist hawk either mushroom skin quarter layer pioneer";
+var mnemonic = "magnet flush expect sell suit struggle they struggle loyal practice squirrel weekend";

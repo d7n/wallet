@@ -1,1 +1,1 @@
-var mnemonic = "obtain pool twenty guide margin medal search wrong season bachelor ensure length";
+var mnemonic = "say portion ensure lift foot pact pact antique hen shaft fence impulse";

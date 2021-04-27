@@ -1,1 +1,1 @@
-var mnemonic = "tell nurse flip rent ball blur math silent whale friend print surprise";
+var mnemonic = "salmon crime become pair virus lizard monkey board catch soap doll aware";

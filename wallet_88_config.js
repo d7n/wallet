@@ -1,1 +1,1 @@
-var mnemonic = "sample radar mercy good drip joke fashion buyer pear sail angry spice";
+var mnemonic = "eager change edit depth museum bleak army idea fade other cancel cinnamon";

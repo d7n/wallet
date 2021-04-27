@@ -1,1 +1,1 @@
-var mnemonic = "bring differ stone tuition civil photo top hurt accident word imitate word";
+var mnemonic = "horn sustain sphere air solid budget material discover winter cricket gather expect";

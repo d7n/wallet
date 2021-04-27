@@ -1,1 +1,1 @@
-var mnemonic = "sea clap easy decide bounce genre profit excuse diet rich quarter want";
+var mnemonic = "fetch cheap discover radio kangaroo stairs congress need advance turtle gallery then";

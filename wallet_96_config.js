@@ -1,1 +1,1 @@
-var mnemonic = "adapt ghost coffee flight rely lottery bomb wheel ask keep region sunset";
+var mnemonic = "attract very duty cross top require woman twenty survey measure shove breeze";

@@ -1,1 +1,1 @@
-var mnemonic = "element buddy phone analyst vehicle fine lucky unfair note trash wagon mountain";
+var mnemonic = "recall note ranch dish health silent insect yellow artefact explain prosper question";

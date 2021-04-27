@@ -1,1 +1,1 @@
-var mnemonic = "item aerobic noodle maple axis short strategy actual liar liberty bulk valley";
+var mnemonic = "charge beauty maple owner skin guess trap system love mountain robot catalog";

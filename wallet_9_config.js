@@ -1,1 +1,1 @@
-var mnemonic = "spike absurd ghost impact load tissue thought useful armor already obey tray";
+var mnemonic = "sight cover become crane genius inside expand arch stadium unusual portion grief";

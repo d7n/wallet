@@ -1,1 +1,1 @@
-var mnemonic = "elbow purity grape humor post unit clever object token miss garlic tape";
+var mnemonic = "orange round hurt nose young balance inspire disagree hurt can can disagree";

@@ -1,1 +1,1 @@
-var mnemonic = "average sock recycle knock obey diet shell beyond humor chef flight cake";
+var mnemonic = "expire thing spoil leisure enact ten scatter ride violin pig torch prosper";

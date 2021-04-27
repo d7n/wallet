@@ -1,1 +1,1 @@
-var mnemonic = "better retire film become left current tent antenna urban gap space ticket";
+var mnemonic = "across camp banana such taste wrestle below know style useful waste winter";

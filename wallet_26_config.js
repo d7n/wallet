@@ -1,1 +1,1 @@
-var mnemonic = "eight account trouble scan auto exhaust issue resist trash avoid write axis";
+var mnemonic = "emotion butter picture trip either fuel head achieve produce nature century cycle";

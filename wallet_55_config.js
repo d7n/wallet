@@ -1,1 +1,1 @@
-var mnemonic = "treat west tongue defy balcony rent few sting lift oyster knee jewel";
+var mnemonic = "oppose example budget miracle autumn planet category chicken minute column broom giant";

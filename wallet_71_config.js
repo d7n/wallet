@@ -1,1 +1,1 @@
-var mnemonic = "wheel phone erode toast unknown law student front protect album need market";
+var mnemonic = "true either enroll wagon crazy coconut bright lion vendor laugh sunset bus";

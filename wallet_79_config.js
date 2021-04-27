@@ -1,1 +1,1 @@
-var mnemonic = "decrease skill speak patrol thunder suspect mandate they recall logic tackle observe";
+var mnemonic = "cruise symbol announce fame noise virtual drill minor pilot document around prison";

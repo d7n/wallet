@@ -1,1 +1,1 @@
-var mnemonic = "stove buffalo strategy october issue stand arm swap struggle runway transfer cook";
+var mnemonic = "swap member dish chronic media item loyal sunset infant glow south cargo";

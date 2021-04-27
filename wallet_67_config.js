@@ -1,1 +1,1 @@
-var mnemonic = "near fee siren frequent icon stadium wing balance buzz mammal vault jaguar";
+var mnemonic = "undo obey village brand choose family able believe piano infant cheese denial";

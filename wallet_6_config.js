@@ -1,1 +1,1 @@
-var mnemonic = "fever job camp scrap cigar cargo horse syrup just little mammal once";
+var mnemonic = "pencil educate shaft goose blind buzz kite select text regular fossil tribe";

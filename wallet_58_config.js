@@ -1,1 +1,1 @@
-var mnemonic = "witness track local aim check kingdom wrap giant next marine filter tone";
+var mnemonic = "reason top twelve ship toast lock rifle that snake bird fat chief";

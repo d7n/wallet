@@ -1,1 +1,1 @@
-var mnemonic = "north sibling budget hurt acquire repair february broccoli rigid keep wear island";
+var mnemonic = "urge warm response universe spell oppose hundred snow wrestle use thing coast";

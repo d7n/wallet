@@ -1,1 +1,1 @@
-var mnemonic = "order canoe lady govern fish embark cart solve aisle manage waste rebel";
+var mnemonic = "exhibit again tag nerve royal world orange stumble bean glare exhaust squeeze";

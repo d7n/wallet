@@ -1,1 +1,1 @@
-var mnemonic = "monkey parent inner helmet match offer syrup acquire action fine pact crater";
+var mnemonic = "similar mind loop camp rail switch vital chair lemon pause absorb number";

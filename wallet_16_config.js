@@ -1,1 +1,1 @@
-var mnemonic = "enjoy gain solution reveal battle slab island tail struggle acid wild snap";
+var mnemonic = "team social prison author daughter upgrade noble topple magnet goat dress gospel";

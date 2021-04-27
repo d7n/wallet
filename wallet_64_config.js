@@ -1,1 +1,1 @@
-var mnemonic = "dice gravity finger wasp black engine gesture prepare draw subway mobile world";
+var mnemonic = "space useful cushion vicious exclude senior vendor oyster company exact chapter cause";

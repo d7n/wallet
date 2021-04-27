@@ -1,1 +1,1 @@
-var mnemonic = "whale midnight swim pool salute orbit crane feed sister outer forget film";
+var mnemonic = "hurry people dawn addict into roast trouble valley dice jungle audit draw";

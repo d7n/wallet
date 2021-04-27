@@ -1,1 +1,1 @@
-var mnemonic = "sure salute inmate bulk census rigid lobster simple lamp naive drastic shield";
+var mnemonic = "edge asset area kingdom stamp appear cradle artefact shield rally wasp stuff";

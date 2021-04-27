@@ -1,1 +1,1 @@
-var mnemonic = "coral jewel hungry put lend claw online ribbon media moral rely huge";
+var mnemonic = "inmate field skate near dial autumn virus coffee rhythm exotic expose talent";

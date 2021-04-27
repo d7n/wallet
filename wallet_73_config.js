@@ -1,1 +1,1 @@
-var mnemonic = "grant hazard recipe gown leave cause this funny useful little fringe enter";
+var mnemonic = "leisure secret toe bread organ fun brisk that heart index story argue";
