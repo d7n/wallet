@@ -1,1 +1,1 @@
-var mnemonic = "hockey sleep miss final reduce tent immense scout hazard boy simple gesture";
+var mnemonic = "style scan usual final egg satoshi ranch invite choice tribe funny capable";

@@ -1,1 +1,1 @@
-var mnemonic = "degree girl three dolphin ghost two drill fitness excite faculty breeze body";
+var mnemonic = "wreck during zone orange biology pride jaguar match stone engine north draw";

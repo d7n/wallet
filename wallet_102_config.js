@@ -1,1 +1,1 @@
-var mnemonic = "wash eyebrow food market cushion night celery march famous patient blast will";
+var mnemonic = "despair gallery soon feel hole fox effort swamp common purchase crater fence";

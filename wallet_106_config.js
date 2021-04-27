@@ -1,1 +1,1 @@
-var mnemonic = "swamp tissue organ bean major pave write speak cable scout upgrade injury";
+var mnemonic = "endorse almost scene edge symptom panda element lift old bar earn congress";

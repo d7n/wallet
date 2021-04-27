@@ -1,1 +1,1 @@
-var mnemonic = "turn need order lizard mom pond sort account dawn tone spy clean";
+var mnemonic = "napkin sudden system ketchup motor turkey swim roof confirm direct sting glance";

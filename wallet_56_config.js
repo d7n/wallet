@@ -1,1 +1,1 @@
-var mnemonic = "earth maid video can strong polar indicate solve boat enact timber guess";
+var mnemonic = "exchange head banner drive lens fuel orient knife unusual laundry swear length";

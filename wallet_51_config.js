@@ -1,1 +1,1 @@
-var mnemonic = "betray fuel battle cousin change unhappy census urge offer nation skin cactus";
+var mnemonic = "start appear frog surface weird parade enter injury example atom midnight seed";

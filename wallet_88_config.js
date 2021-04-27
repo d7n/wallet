@@ -1,1 +1,1 @@
-var mnemonic = "gather tone door truth seed thank slight hobby arrest warrior giggle clap";
+var mnemonic = "soda appear cover profit crew sure void pear believe remind sight ethics";

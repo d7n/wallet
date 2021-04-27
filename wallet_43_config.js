@@ -1,1 +1,1 @@
-var mnemonic = "excuse wash robot coach gift mind predict limit unable essay chat prison";
+var mnemonic = "market pulp hub panda raven violin doctor rigid tooth man ahead girl";

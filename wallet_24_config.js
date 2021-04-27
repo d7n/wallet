@@ -1,1 +1,1 @@
-var mnemonic = "tonight cheap planet require best inherit rescue caution universe average dice match";
+var mnemonic = "turn certain exist session doctor try limit bag hawk tuition hammer swim";

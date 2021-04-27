@@ -1,1 +1,1 @@
-var mnemonic = "pretty bullet crucial soap produce effort escape twice swallow virus wall begin";
+var mnemonic = "found express label attract soon rose easily crumble animal canoe error shove";

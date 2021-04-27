@@ -1,1 +1,1 @@
-var mnemonic = "mouse hurdle need dirt become fury blur clog cool cliff heavy elbow";
+var mnemonic = "seek doctor tissue close report chat festival syrup tag civil woman version";

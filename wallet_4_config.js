@@ -1,1 +1,1 @@
-var mnemonic = "bottom copper siren basic lady power chicken town buffalo round critic riot";
+var mnemonic = "urban valve helmet love ceiling accuse eternal rib quiz notice purpose midnight";

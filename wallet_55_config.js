@@ -1,1 +1,1 @@
-var mnemonic = "current capable process survey alley rule genre trash joy title regret select";
+var mnemonic = "panic announce hawk endorse region horse short ten oval energy protect submit";

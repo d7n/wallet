@@ -1,1 +1,1 @@
-var mnemonic = "sun across route plate taste catalog thought stage absorb fringe thank brisk";
+var mnemonic = "scrub frost spin cost arrest erode what topple still penalty found smooth";

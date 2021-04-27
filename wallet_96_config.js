@@ -1,1 +1,1 @@
-var mnemonic = "leg inch person dragon kick onion sense shaft extra legal float indoor";
+var mnemonic = "hero live soul stairs giraffe badge tape apart lion smart inflict human";

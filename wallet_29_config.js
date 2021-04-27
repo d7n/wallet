@@ -1,1 +1,1 @@
-var mnemonic = "cheap attack price holiday maid wine labor gasp hand spawn clay cotton";
+var mnemonic = "entry sketch ocean enter about can knee senior oil front payment useful";

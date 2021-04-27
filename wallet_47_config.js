@@ -1,1 +1,1 @@
-var mnemonic = "address era service wink energy coach duck poverty grit cabin clarify excuse";
+var mnemonic = "bring similar pilot upset spin plug drive sauce trade will steel guess";

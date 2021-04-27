@@ -1,1 +1,1 @@
-var mnemonic = "expect relief lunar collect try old horn smoke charge fly offer leopard";
+var mnemonic = "slab fox shrimp lyrics elbow version joke thank must door text humble";

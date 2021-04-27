@@ -1,1 +1,1 @@
-var mnemonic = "report glance pool inside bus protect emerge remember crumble useless country where";
+var mnemonic = "follow liberty track tackle edge banner tower leisure curve first salute welcome";

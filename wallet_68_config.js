@@ -1,1 +1,1 @@
-var mnemonic = "govern few inspire rival cause wrestle theory tiny flock drop bag crunch";
+var mnemonic = "tongue fold real shift nation network equal bright bunker endorse fox switch";

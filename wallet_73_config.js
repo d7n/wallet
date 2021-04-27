@@ -1,1 +1,1 @@
-var mnemonic = "arrange cycle chuckle state together ball monster ripple giant suspect praise else";
+var mnemonic = "together home juice seed arena acquire asthma sell belt collect secret taxi";

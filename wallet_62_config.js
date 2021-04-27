@@ -1,1 +1,1 @@
-var mnemonic = "time rich wolf service ring upgrade glad ten spider click easily garment";
+var mnemonic = "bone struggle source biology dragon amused buffalo capable style wonder mirror surround";

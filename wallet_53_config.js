@@ -1,1 +1,1 @@
-var mnemonic = "sudden orphan detect record shiver memory gauge super same dice quarter pluck";
+var mnemonic = "base step drip begin first crush grief amused resist dizzy catch bench";

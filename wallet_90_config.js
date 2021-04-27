@@ -1,1 +1,1 @@
-var mnemonic = "disagree mechanic swim range poverty case ritual limit glimpse book seminar bundle";
+var mnemonic = "breeze keep can west develop unfair sleep dash volcano gloom entire nurse";

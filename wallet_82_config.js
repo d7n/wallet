@@ -1,1 +1,1 @@
-var mnemonic = "empower fruit people sense october pole grab summer minor album family spend";
+var mnemonic = "annual thunder question narrow web panic match vault soft dance gown gloom";

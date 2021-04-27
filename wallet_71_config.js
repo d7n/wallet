@@ -1,1 +1,1 @@
-var mnemonic = "pupil witness offer usual occur knife dream miracle escape despair doctor wage";
+var mnemonic = "doctor recipe extend educate velvet capital square stairs spike interest jump rookie";

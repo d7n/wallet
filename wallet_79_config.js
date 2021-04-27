@@ -1,1 +1,1 @@
-var mnemonic = "patient patrol shoe assume leg icon flip indicate inject labor depend task";
+var mnemonic = "gravity august pet faculty spin rifle erode torch crisp island quit crop";

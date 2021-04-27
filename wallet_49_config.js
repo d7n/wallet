@@ -1,1 +1,1 @@
-var mnemonic = "asset river argue exclude suffer update behind magic carry bar fashion range";
+var mnemonic = "roast various switch village tobacco forget mercy office chronic pulse torch kiss";

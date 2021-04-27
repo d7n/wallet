@@ -1,1 +1,1 @@
-var mnemonic = "smooth evolve warm swift long sign off assault damage shuffle tackle mix";
+var mnemonic = "alcohol frame riot inmate wheel industry ready hedgehog sting good unlock move";

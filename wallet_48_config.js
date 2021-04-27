@@ -1,1 +1,1 @@
-var mnemonic = "ten student water math stone rifle modify foot conduct lucky begin narrow";
+var mnemonic = "blood velvet utility ancient shrug between filter rude quality local quality swift";

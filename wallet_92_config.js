@@ -1,1 +1,1 @@
-var mnemonic = "spoil knee accuse hunt lens grow bus book leg truly thank say";
+var mnemonic = "situate shield mushroom vendor deputy goose dress stone frequent board humble patrol";

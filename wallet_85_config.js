@@ -1,1 +1,1 @@
-var mnemonic = "case immense limb wolf once deer napkin tragic provide promote rib pioneer";
+var mnemonic = "crash foster myth polar ozone whisper then direct accident review song time";

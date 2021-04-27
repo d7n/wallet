@@ -1,1 +1,1 @@
-var mnemonic = "coral screen blame task trend route once stamp trust youth wood orphan";
+var mnemonic = "steak want health equal purpose ecology library hold face save either possible";

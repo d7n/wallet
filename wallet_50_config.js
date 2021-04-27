@@ -1,1 +1,1 @@
-var mnemonic = "arrow crack logic rude hurt access wasp skill friend lion reform input";
+var mnemonic = "release crawl sauce cruise ramp photo soccer pudding rival tuna fly team";

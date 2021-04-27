@@ -1,1 +1,1 @@
-var mnemonic = "hamster convince ribbon vacant width advice dirt warm pact egg soccer blade";
+var mnemonic = "virtual false rookie champion world either grant remain digital bag reward uniform";

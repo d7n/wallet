@@ -1,1 +1,1 @@
-var mnemonic = "skull ghost dress picnic cheese enact cushion multiply grid mechanic donate parrot";
+var mnemonic = "public race pave ahead spider melt other people buddy ankle foil cluster";

@@ -1,1 +1,1 @@
-var mnemonic = "square control seed vessel demand boat chat stuff reveal unaware cream drop";
+var mnemonic = "visa kick hat morning bag asset angle clip boost sugar divide search";

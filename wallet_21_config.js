@@ -1,1 +1,1 @@
-var mnemonic = "ask chat expect process tackle goose indicate inhale convince cotton feature exclude";
+var mnemonic = "must target offer depth congress category weird joke chuckle purity ivory shuffle";

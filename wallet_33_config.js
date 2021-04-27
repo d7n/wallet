@@ -1,1 +1,1 @@
-var mnemonic = "exit detect become camp alarm ensure reform raven sniff crew dinosaur indicate";
+var mnemonic = "kick seat fiction choose nation insect pave rabbit spirit dust similar physical";

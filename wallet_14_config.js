@@ -1,1 +1,1 @@
-var mnemonic = "hope tired wear dust blouse you fuel video balance source jewel leave";
+var mnemonic = "subject enroll brick crater bring beach merry write allow energy symbol member";

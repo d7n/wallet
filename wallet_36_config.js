@@ -1,1 +1,1 @@
-var mnemonic = "limb blush switch alley funny cloud slow breeze type bicycle near split";
+var mnemonic = "tone drive day cup remain budget crop tunnel tissue choose exile cry";

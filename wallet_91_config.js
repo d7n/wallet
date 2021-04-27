@@ -1,1 +1,1 @@
-var mnemonic = "season hobby cattle congress fiscal depart glide soda draw swallow sunny neck";
+var mnemonic = "wish civil crush escape chest shallow reflect since main envelope cloth fade";

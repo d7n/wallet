@@ -1,1 +1,1 @@
-var mnemonic = "galaxy satoshi midnight answer bridge multiply cute derive image opinion speed soft";
+var mnemonic = "render female place hurry dentist cruel thrive diesel young dizzy trade clinic";

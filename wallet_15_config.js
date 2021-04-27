@@ -1,1 +1,1 @@
-var mnemonic = "castle scrub always company hospital infant dinner sibling frozen salt myself million";
+var mnemonic = "total fade test display waste energy slice proof hope trumpet outer goat";

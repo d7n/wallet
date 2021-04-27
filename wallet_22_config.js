@@ -1,1 +1,1 @@
-var mnemonic = "clump nation ability nest much peanut burden mention struggle gain morning develop";
+var mnemonic = "airport slot blouse apart own advice dish betray good reflect enable guilt";

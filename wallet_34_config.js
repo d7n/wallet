@@ -1,1 +1,1 @@
-var mnemonic = "auction because connect source rib blanket pluck number put author fun spirit";
+var mnemonic = "trouble assault daughter insane clutch like bamboo march toe output animal cherry";

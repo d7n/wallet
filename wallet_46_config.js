@@ -1,1 +1,1 @@
-var mnemonic = "weather much mango divide sea rabbit glue monkey gesture caution reject cradle";
+var mnemonic = "industry scheme actor hobby couple arrest powder final water denial theme sense";

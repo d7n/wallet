@@ -1,1 +1,1 @@
-var mnemonic = "actor jazz city festival dirt snack can raw artefact ethics battle unhappy";
+var mnemonic = "pipe problem cat modify south virtual law argue gold absurd smooth prison";

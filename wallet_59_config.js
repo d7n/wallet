@@ -1,1 +1,1 @@
-var mnemonic = "vacuum move lawn ignore battle myself decide measure impulse scrap shoulder entry";
+var mnemonic = "fresh neglect busy submit film rhythm void music bitter rough hold situate";

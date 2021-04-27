@@ -1,1 +1,1 @@
-var mnemonic = "column insect dragon apart hat sudden lizard glove search organ enable pill";
+var mnemonic = "symptom cactus donor flavor art muscle tumble soda creek food occur business";

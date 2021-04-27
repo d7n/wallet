@@ -1,1 +1,1 @@
-var mnemonic = "file vote bean insane duty monitor hamster smart year they sense core";
+var mnemonic = "satoshi stairs nose hazard once board grocery recall strategy embark maximum warrior";

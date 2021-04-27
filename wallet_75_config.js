@@ -1,1 +1,1 @@
-var mnemonic = "ginger lecture priority certain plunge mercy april width pretty cry wise burden";
+var mnemonic = "tackle acid yellow finish illegal tackle consider judge despair crew catalog control";

@@ -1,1 +1,1 @@
-var mnemonic = "truly gaze winter boat motion kitten keen coin fabric industry glide thank";
+var mnemonic = "east detail float kid alarm skill guard remain security cross dose goose";

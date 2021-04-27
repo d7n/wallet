@@ -1,1 +1,1 @@
-var mnemonic = "space symbol injury visit romance shrug profit shell exist usual dance advice";
+var mnemonic = "try fox column atom miss chalk turn twist goat submit cart fetch";

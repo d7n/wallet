@@ -1,1 +1,1 @@
-var mnemonic = "purity forest coast lock stereo kitten shoulder deal cliff edit afraid onion";
+var mnemonic = "kind goose share actual asset lock scrub tattoo giraffe oppose powder clerk";

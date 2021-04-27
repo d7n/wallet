@@ -1,1 +1,1 @@
-var mnemonic = "wet uniform forget merry vehicle snap original injury champion labor price purchase";
+var mnemonic = "measure december ginger any marriage dinosaur never top small pencil pave area";

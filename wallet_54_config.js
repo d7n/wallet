@@ -1,1 +1,1 @@
-var mnemonic = "true panic fee twice giant expect disorder speak squeeze bulk neutral trend";
+var mnemonic = "amateur switch farm pizza chat tip lonely festival shed goddess wire drama";

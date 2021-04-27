@@ -1,1 +1,1 @@
-var mnemonic = "useless kid open mouse region expand sister text genius brief error hurry";
+var mnemonic = "blue sure month celery proud deal enforce devote survey below afford display";

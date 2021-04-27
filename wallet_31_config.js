@@ -1,1 +1,1 @@
-var mnemonic = "stairs acid art torch length dog reduce alert spread stumble woman industry";
+var mnemonic = "tornado adjust pony educate fresh device miracle start ghost during film hospital";

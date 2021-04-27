@@ -1,1 +1,1 @@
-var mnemonic = "describe pluck gorilla used park ethics hood useful convince success army flat";
+var mnemonic = "slight pilot catalog knife tail cycle pool labor rifle around gym minute";

@@ -1,1 +1,1 @@
-var mnemonic = "taxi achieve economy execute burden phone burger title spy ski dizzy journey";
+var mnemonic = "speed shell fever summer easily divorce invest shop material explain kitchen escape";

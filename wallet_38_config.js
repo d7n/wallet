@@ -1,1 +1,1 @@
-var mnemonic = "afraid merge bonus sister aerobic join half globe vapor essence rain time";
+var mnemonic = "frequent siege mutual solve excuse clap upon island recycle certain squirrel caution";

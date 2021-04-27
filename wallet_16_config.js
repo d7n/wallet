@@ -1,1 +1,1 @@
-var mnemonic = "puppy depth marriage globe patient number meadow negative same like turkey diary";
+var mnemonic = "funny among tornado culture good opinion warfare subway identify venture believe victory";

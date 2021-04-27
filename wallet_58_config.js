@@ -1,1 +1,1 @@
-var mnemonic = "kitten agree exist found brass soda nice brown media empty fan proof";
+var mnemonic = "essence label help trade lab appear banana mesh enforce sing fit winner";

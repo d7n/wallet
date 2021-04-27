@@ -1,1 +1,1 @@
-var mnemonic = "announce march immense relief ready forum column live gym pledge under city";
+var mnemonic = "weapon project utility giraffe replace ceiling hole icon picnic someone awake ordinary";

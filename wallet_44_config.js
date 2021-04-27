@@ -1,1 +1,1 @@
-var mnemonic = "south retreat prosper concert merit major coast atom company arena door taxi";
+var mnemonic = "slide destroy suspect digital shed fuel sail lecture any problem elbow begin";

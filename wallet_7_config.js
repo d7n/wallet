@@ -1,1 +1,1 @@
-var mnemonic = "blood true silk couch leg planet buzz hungry arctic enroll only aunt";
+var mnemonic = "asthma buddy soda mountain brass believe parrot anger stairs fly relax outer";

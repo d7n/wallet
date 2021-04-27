@@ -1,1 +1,1 @@
-var mnemonic = "betray fringe blood kit lecture common stool this into crawl lawn fix";
+var mnemonic = "canoe arena gold mountain theory brand few goat upset garment mango river";

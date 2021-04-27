@@ -1,1 +1,1 @@
-var mnemonic = "coil give stock calm multiply miss trim ask correct moon shove fashion";
+var mnemonic = "ceiling february strategy guilt century pet ahead ensure file famous grace fault";

@@ -1,1 +1,1 @@
-var mnemonic = "crazy kiwi debate slight palm depart hotel safe knee book evolve void";
+var mnemonic = "lab spare spin typical struggle bag shuffle soldier can reform season secret";

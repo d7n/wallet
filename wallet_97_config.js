@@ -1,1 +1,1 @@
-var mnemonic = "front hedgehog ensure mom hamster cheap festival giant spoon will average knee";
+var mnemonic = "drum dizzy frequent party avoid advice beyond found sauce lab mass toast";

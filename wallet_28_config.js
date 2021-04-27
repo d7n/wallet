@@ -1,1 +1,1 @@
-var mnemonic = "into street disorder abandon border country price rough sea admit brain energy";
+var mnemonic = "paper license fish tuition appear parade gossip twenty unknown retreat mesh decline";

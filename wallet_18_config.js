@@ -1,1 +1,1 @@
-var mnemonic = "various length valid long city clinic choose roof tray battle airport hammer";
+var mnemonic = "shrimp eyebrow setup beef stuff notice hint reopen excess cherry health repair";

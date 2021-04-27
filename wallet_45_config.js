@@ -1,1 +1,1 @@
-var mnemonic = "giraffe amateur globe life element agent engine disorder slight plunge brother fame";
+var mnemonic = "evil runway stairs always among kiwi flash resist foil finish virtual roast";

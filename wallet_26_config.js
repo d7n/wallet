@@ -1,1 +1,1 @@
-var mnemonic = "aware mask busy donkey gravity tornado field lazy lock direct engage flat";
+var mnemonic = "dad craft zone twice glimpse carbon gasp patient giant common trim butter";

@@ -1,1 +1,1 @@
-var mnemonic = "give wasp intact special large brother excite own push fat skill hold";
+var mnemonic = "trend usual sick occur slow slide alcohol balance warrior empty consider genuine";

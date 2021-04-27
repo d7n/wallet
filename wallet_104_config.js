@@ -1,1 +1,1 @@
-var mnemonic = "wish decade duck forward bind unfair make fine tooth hundred voyage outside";
+var mnemonic = "spatial fiction display stool maple isolate balance mutual loyal rotate swamp mosquito";

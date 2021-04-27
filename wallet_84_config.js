@@ -1,1 +1,1 @@
-var mnemonic = "lava critic catch hand wife wasp walnut cherry ability garden dish victory";
+var mnemonic = "labor sight public erase dynamic tank close busy amateur table portion robust";

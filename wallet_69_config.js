@@ -1,1 +1,1 @@
-var mnemonic = "day myth arm man smart pear rack access game runway mobile uniform";
+var mnemonic = "antenna vendor under bag salmon dad lend peace rebel gauge near critic";

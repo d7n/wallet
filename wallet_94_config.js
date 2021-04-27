@@ -1,1 +1,1 @@
-var mnemonic = "artwork document usage exist enemy kiss dog veteran boost weird bone amused";
+var mnemonic = "mixture voyage term extend earth raise dice asset duty curtain alter leopard";

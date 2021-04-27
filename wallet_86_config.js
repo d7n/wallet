@@ -1,1 +1,1 @@
-var mnemonic = "hurt girl wing hill play blouse museum knee upgrade bracket expose night";
+var mnemonic = "neck grain armed squeeze street talent amateur crane shock mom coach avoid";

@@ -1,1 +1,1 @@
-var mnemonic = "poet whale label exotic broom thunder payment quote brave amateur force narrow";
+var mnemonic = "session reform skate blood rug wide output miss wheat general lecture cactus";

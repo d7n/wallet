@@ -1,1 +1,1 @@
-var mnemonic = "team regular hurry tag wrestle sight canvas describe casino proud total try";
+var mnemonic = "chapter city poverty trend glimpse helmet cash rubber tell visit slide symbol";

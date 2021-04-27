@@ -1,1 +1,1 @@
-var mnemonic = "tone umbrella spread modify iron drink letter trust attack soldier news indicate";
+var mnemonic = "what violin turtle detail wool boy virtual dry emerge state flower box";

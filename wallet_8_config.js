@@ -1,1 +1,1 @@
-var mnemonic = "anchor tunnel tragic aware more various sand surprise broccoli blue abandon usage";
+var mnemonic = "shield target loyal myself knock ensure genius income jacket lecture badge chaos";
