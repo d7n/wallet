@@ -1,1 +1,1 @@
-var mnemonic = "intact innocent elite issue ribbon ridge tray pupil auto term project off";
+var mnemonic = "hover capable duty muscle chicken gap notable brand inhale sunny donor rather";

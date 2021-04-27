@@ -1,1 +1,1 @@
-var mnemonic = "odor lamp deal sea own boost pony future tuna dentist corn hurt";
+var mnemonic = "suspect asset bread town sugar vault tray merge dose art pyramid live";

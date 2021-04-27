@@ -1,1 +1,1 @@
-var mnemonic = "express imitate sudden wrestle outside symbol bitter flame toward destroy moral actress";
+var mnemonic = "time swing mutual clinic curtain stage express kiwi leave acid apart frown";

@@ -1,1 +1,1 @@
-var mnemonic = "rare venture bonus mammal unaware describe trial hill advice raw inspire work";
+var mnemonic = "rare impulse question poet awake rail lift install welcome project annual arm";

@@ -1,1 +1,1 @@
-var mnemonic = "assume city traffic unfold figure say kingdom link express picture essay wedding";
+var mnemonic = "hidden target donate best van resource discover pyramid trumpet exhibit clean cover";

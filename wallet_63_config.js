@@ -1,1 +1,1 @@
-var mnemonic = "close mixture delay inner wage endorse burst machine visit cupboard follow stool";
+var mnemonic = "skull fall industry lawn gather project foam search easily any crush reveal";

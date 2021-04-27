@@ -1,1 +1,1 @@
-var mnemonic = "chuckle cement monkey drip address acquire humble tray ball glue antique rebuild";
+var mnemonic = "maze toss pioneer joke thunder tone country produce echo whip diagram faint";

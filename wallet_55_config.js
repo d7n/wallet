@@ -1,1 +1,1 @@
-var mnemonic = "jump can chat near human embrace arrest bronze friend monkey place begin";
+var mnemonic = "birth major gloom web salon sniff ribbon clip recall feed disease harsh";

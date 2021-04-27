@@ -1,1 +1,1 @@
-var mnemonic = "million antique battle push report home shove bleak retire truck stay organ";
+var mnemonic = "thank daughter arrest physical false found this soft wolf genre initial another";

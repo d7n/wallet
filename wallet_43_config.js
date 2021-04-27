@@ -1,1 +1,1 @@
-var mnemonic = "trumpet icon pilot place alone cool weasel medal siren toilet maximum model";
+var mnemonic = "west token gaze man cattle syrup half minor list unfair comic intact";

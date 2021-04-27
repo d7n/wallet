@@ -1,1 +1,1 @@
-var mnemonic = "lecture old sister burger goddess tip toilet gaze thing skill glide diesel";
+var mnemonic = "slab trim pitch asset hotel benefit width taste explain game airport bracket";

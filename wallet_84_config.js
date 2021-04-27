@@ -1,1 +1,1 @@
-var mnemonic = "address insane cinnamon jeans success number click normal liberty fox clown daring";
+var mnemonic = "chunk planet hill erosion update hammer trim speed refuse bus shuffle bottom";

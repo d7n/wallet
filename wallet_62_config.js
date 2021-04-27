@@ -1,1 +1,1 @@
-var mnemonic = "tonight tenant ghost garage emotion essay sail uncover devote merge magnet piece";
+var mnemonic = "blood transfer sting among front chronic champion buffalo soft consider vast lemon";

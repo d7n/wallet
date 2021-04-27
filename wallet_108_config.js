@@ -1,1 +1,1 @@
-var mnemonic = "clown final slam team often push dizzy reduce people pink insane eyebrow";
+var mnemonic = "box awful flock buzz beef drill pig crisp logic wonder tackle laugh";

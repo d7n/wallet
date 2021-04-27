@@ -1,1 +1,1 @@
-var mnemonic = "sick sight author pigeon hire thought erupt celery bracket cruel budget ostrich";
+var mnemonic = "below inject rate cotton shift praise chair river isolate destroy trophy abuse";

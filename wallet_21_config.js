@@ -1,1 +1,1 @@
-var mnemonic = "brisk lion aware science marine pave force afford shield detail shrug notice";
+var mnemonic = "feed rent fabric shed knee trumpet picnic stuff rally sugar clock desert";

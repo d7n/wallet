@@ -1,1 +1,1 @@
-var mnemonic = "material jazz outer weapon clean spell globe parrot earn face rare general";
+var mnemonic = "grape tool peasant sunset mind relax same picnic oil capital season humor";

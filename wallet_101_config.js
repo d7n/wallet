@@ -1,1 +1,1 @@
-var mnemonic = "scan orange update fan lesson aware picture suspect bitter economy hill useful";
+var mnemonic = "prize company dirt daring also twelve improve asthma woman unfair virus accident";

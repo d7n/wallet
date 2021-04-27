@@ -1,1 +1,1 @@
-var mnemonic = "muscle clock mammal stone company ramp cement group exclude mistake abstract theme";
+var mnemonic = "shell beef cabbage plug giant senior mention crumble march region vintage aware";

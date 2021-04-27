@@ -1,1 +1,1 @@
-var mnemonic = "bring depend galaxy loyal spike behave box virtual cost taste sample lonely";
+var mnemonic = "arrange search foam ten vacuum wheat hour worth harvest local alone logic";

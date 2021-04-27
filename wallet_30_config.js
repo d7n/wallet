@@ -1,1 +1,1 @@
-var mnemonic = "vibrant umbrella merit siren way gold drastic trash main defy step exercise";
+var mnemonic = "fetch any panel speed party unlock prefer plastic spice space river scare";

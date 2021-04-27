@@ -1,1 +1,1 @@
-var mnemonic = "unhappy harbor option upon sense business toss century certain estate blade sustain";
+var mnemonic = "clock find idle race car embark near economy honey input point palace";

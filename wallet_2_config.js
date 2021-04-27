@@ -1,1 +1,1 @@
-var mnemonic = "rebel noodle vague fantasy two fault top connect practice crush wild quantum";
+var mnemonic = "wave gallery fine indoor shop aunt genius fantasy edit follow theory syrup";

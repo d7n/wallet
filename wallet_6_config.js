@@ -1,1 +1,1 @@
-var mnemonic = "walnut grant worry comfort grocery march gravity lottery luxury stairs raw inch";
+var mnemonic = "shallow same foil fury rapid travel twelve sugar pottery defy news puppy";

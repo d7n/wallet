@@ -1,1 +1,1 @@
-var mnemonic = "curtain fashion pledge minimum seek naive ramp camp thrive boil month rookie";
+var mnemonic = "glimpse mango sadness humble design degree rival sun west present almost tail";

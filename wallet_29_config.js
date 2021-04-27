@@ -1,1 +1,1 @@
-var mnemonic = "civil easy mail aunt talent job pulse dream diagram salt ill popular";
+var mnemonic = "rescue toy reunion output song upper march panic baby response someone course";

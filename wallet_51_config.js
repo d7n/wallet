@@ -1,1 +1,1 @@
-var mnemonic = "sudden coil hidden parrot people twelve glove announce master barrel liar habit";
+var mnemonic = "plastic rail illness swift economy call thunder drift maze lend reduce basic";

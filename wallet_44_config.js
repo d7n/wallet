@@ -1,1 +1,1 @@
-var mnemonic = "power assault range equal boy age lamp tilt write require kitten alien";
+var mnemonic = "unfold ranch around artefact step wine fine dragon staff movie dwarf rely";

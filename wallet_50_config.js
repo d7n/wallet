@@ -1,1 +1,1 @@
-var mnemonic = "boy park fruit detect slam table wrong buzz music arrange domain observe";
+var mnemonic = "oxygen olympic oven goose correct fabric tumble wrist sea lounge pencil try";

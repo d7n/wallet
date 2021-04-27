@@ -1,1 +1,1 @@
-var mnemonic = "strong broom boring symptom ranch bike push caution riot when scatter off";
+var mnemonic = "eternal mutual nerve elegant fault inherit again sheriff ticket attend ocean frozen";

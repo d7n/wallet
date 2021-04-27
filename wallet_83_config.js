@@ -1,1 +1,1 @@
-var mnemonic = "nose candy potato disease cousin neutral nation fault arch sketch turkey fury";
+var mnemonic = "copper smile clarify calm toy develop layer wear never civil deputy frost";

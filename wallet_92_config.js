@@ -1,1 +1,1 @@
-var mnemonic = "quality divide mule rescue grunt busy alpha lens need salad melody renew";
+var mnemonic = "priority junior bounce organ swing foam abuse exchange elegant crack tuna produce";

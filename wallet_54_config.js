@@ -1,1 +1,1 @@
-var mnemonic = "source clay diamond armor describe pact prosper march comic grape mosquito simple";
+var mnemonic = "key tiny frequent jelly canvas wife sense circle output tank general firm";

@@ -1,1 +1,1 @@
-var mnemonic = "exhibit silk isolate school rival rigid movie build dolphin receive entry inherit";
+var mnemonic = "neither vacuum equal palm local divorce habit head country choice rely neither";

@@ -1,1 +1,1 @@
-var mnemonic = "dignity lonely hour never organ shoot tonight panic layer embark cancel tiger";
+var mnemonic = "sunny brand barrel link lemon foster boy mass way enlist answer pair";

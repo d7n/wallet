@@ -1,1 +1,1 @@
-var mnemonic = "tooth legal entry gloom brass arrest sustain fluid soon fiber major suggest";
+var mnemonic = "swing benefit tired mammal assume grow frog eyebrow service water claim pupil";

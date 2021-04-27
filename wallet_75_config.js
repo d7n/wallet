@@ -1,1 +1,1 @@
-var mnemonic = "spend stone pepper before zero unique asthma ball fragile knife tube planet";
+var mnemonic = "escape globe average inspire achieve fee ritual together lesson skin catalog sustain";

@@ -1,1 +1,1 @@
-var mnemonic = "resist vessel sunny opera cost celery twice worth fitness drum fault net";
+var mnemonic = "hurdle bike angle under divert female orchard buyer dirt check board rubber";

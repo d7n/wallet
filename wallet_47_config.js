@@ -1,1 +1,1 @@
-var mnemonic = "surround novel long across cycle follow lake urban seven hood shy panic";
+var mnemonic = "grass east wink slot load resist glance monkey inmate blade canvas ask";

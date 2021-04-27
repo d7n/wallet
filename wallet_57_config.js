@@ -1,1 +1,1 @@
-var mnemonic = "level gentle utility chunk shallow roof predict bike snack creek tuna baby";
+var mnemonic = "few cloth world million owner metal produce detect canoe neck icon stand";

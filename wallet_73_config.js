@@ -1,1 +1,1 @@
-var mnemonic = "quick hunt cement embrace common box cart potato person wool distance width";
+var mnemonic = "accident session satisfy pluck knock final fit cinnamon snack tourist demise deer";

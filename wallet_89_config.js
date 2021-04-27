@@ -1,1 +1,1 @@
-var mnemonic = "evidence suggest auction rack toddler rib approve accident indicate remind dance pyramid";
+var mnemonic = "code million unfold armor orange gloom dry limb quit share coast find";

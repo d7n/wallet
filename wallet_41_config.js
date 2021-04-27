@@ -1,1 +1,1 @@
-var mnemonic = "know stereo dash panda beach organ math stay clerk have rent person";
+var mnemonic = "dwarf tray amused swamp tired crisp industry helmet shock wasp night inject";

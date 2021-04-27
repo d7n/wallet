@@ -1,1 +1,1 @@
-var mnemonic = "way arctic video leader wagon road bind suit kitten submit cement excess";
+var mnemonic = "orphan nasty hidden near juice produce script oppose hint zone turtle collect";

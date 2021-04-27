@@ -1,1 +1,1 @@
-var mnemonic = "electric video detail kangaroo border patrol suggest december detect toast daughter reason";
+var mnemonic = "this announce someone defy black goddess snack devote cancel online salmon north";

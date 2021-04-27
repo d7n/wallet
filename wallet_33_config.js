@@ -1,1 +1,1 @@
-var mnemonic = "unusual mandate mixed remember shove shallow disorder math marble float canyon club";
+var mnemonic = "zero improve siren million property scene can possible agree tourist sustain length";

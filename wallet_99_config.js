@@ -1,1 +1,1 @@
-var mnemonic = "coin civil carpet two flat then vicious combine remember juice heavy harbor";
+var mnemonic = "behind deliver people vessel emerge spare save churn corn barely place giraffe";

@@ -1,1 +1,1 @@
-var mnemonic = "midnight acid carry save impose spider cover ship detail hammer slow cigar";
+var mnemonic = "ankle junk radar inflict morning grape accident amused motion alley above reject";

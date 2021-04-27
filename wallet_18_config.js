@@ -1,1 +1,1 @@
-var mnemonic = "near gloom theme burden million clap tongue bleak wealth limit glove good";
+var mnemonic = "swim video observe nest radio audit polar better essence police obscure ivory";

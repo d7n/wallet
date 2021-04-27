@@ -1,1 +1,1 @@
-var mnemonic = "auto truly between poet south sick copy finger rack front become fall";
+var mnemonic = "bring faculty fame health ready height energy fire ladder dress double carpet";

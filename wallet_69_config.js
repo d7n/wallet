@@ -1,1 +1,1 @@
-var mnemonic = "gossip awkward feed section exhaust good under orient rookie stable twice science";
+var mnemonic = "swear panther donate magic prefer option unique exist lecture picture whip robot";

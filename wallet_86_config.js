@@ -1,1 +1,1 @@
-var mnemonic = "region task embody finger wisdom fade amateur flower pitch pilot practice stadium";
+var mnemonic = "repair typical course whisper cabin latin know clean view because stem will";

@@ -1,1 +1,1 @@
-var mnemonic = "index caught biology athlete paper echo dune clown ecology palace spirit ski";
+var mnemonic = "since person elbow lyrics raise fury refuse chronic doll supply fine host";

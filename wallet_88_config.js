@@ -1,1 +1,1 @@
-var mnemonic = "bring taxi small ladder laundry equip fire boring kiss girl parent saddle";
+var mnemonic = "swift deputy style inspire nature sorry utility dragon match have tornado sleep";

@@ -1,1 +1,1 @@
-var mnemonic = "error manage news ankle crumble tomato spatial bean dog access round meat";
+var mnemonic = "urge embrace sunny novel grocery nominee danger forget steak flag couple talent";

@@ -1,1 +1,1 @@
-var mnemonic = "adapt escape cigar juice express beef cruel upper gloom jeans raise wonder";
+var mnemonic = "torch twist rice story circle tragic gate banana topic bread canoe pumpkin";

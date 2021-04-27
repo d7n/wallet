@@ -1,1 +1,1 @@
-var mnemonic = "spirit goat person paddle jealous sunset bird local enemy shy column believe";
+var mnemonic = "can advance wide absorb asthma limb divorce slice push laundry guard cover";

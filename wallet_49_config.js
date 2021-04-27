@@ -1,1 +1,1 @@
-var mnemonic = "fog parade canal lecture brick armor fatigue thumb boost emerge destroy pet";
+var mnemonic = "become connect chapter crunch frost rely plug skill oblige cart elbow require";

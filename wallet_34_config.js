@@ -1,1 +1,1 @@
-var mnemonic = "coast youth phrase title brand stick thumb chalk document shoot divert comic";
+var mnemonic = "prison poverty kitchen trade summer label know rebuild social bottom fat truly";

@@ -1,1 +1,1 @@
-var mnemonic = "boy exercise siege sign victory radio tape wrap picnic where speak beauty";
+var mnemonic = "solid picture welcome wrong field boring sorry pigeon reduce success bundle mistake";

@@ -1,1 +1,1 @@
-var mnemonic = "path humor click claw creek advice crack room love fitness draft fold";
+var mnemonic = "apple fossil day cook enough post merit review voice fall alcohol exhibit";

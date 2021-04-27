@@ -1,1 +1,1 @@
-var mnemonic = "muscle exit outer tomorrow match install seek net polar shop diet tiny";
+var mnemonic = "escape cycle hire length utility rebuild essence limb limb obscure embrace sorry";

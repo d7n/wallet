@@ -1,1 +1,1 @@
-var mnemonic = "chaos marine borrow over when allow grace visit output battle vicious post";
+var mnemonic = "flip note summer fine monitor manual ocean hire spray improve trap clever";

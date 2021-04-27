@@ -1,1 +1,1 @@
-var mnemonic = "error relax trick donate scale motion final hour jewel section hedgehog convince";
+var mnemonic = "tragic episode canyon autumn fun inherit echo vital coconut accident pluck arctic";

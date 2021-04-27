@@ -1,1 +1,1 @@
-var mnemonic = "clerk small jump clarify promote fan double dolphin aspect elevator sausage dentist";
+var mnemonic = "hub marriage clap mandate ten fire project flower pitch pass mammal timber";

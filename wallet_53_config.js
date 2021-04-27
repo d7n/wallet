@@ -1,1 +1,1 @@
-var mnemonic = "glide reunion mango banner liar minimum innocent abstract adjust language differ find";
+var mnemonic = "again poet effort hole absorb category husband stone symptom gorilla general earth";

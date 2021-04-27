@@ -1,1 +1,1 @@
-var mnemonic = "shrimp more earth immense title feature fly session prosper change toward garlic";
+var mnemonic = "they fancy million high train duty desert claw all silver torch sponsor";

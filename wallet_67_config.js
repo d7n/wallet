@@ -1,1 +1,1 @@
-var mnemonic = "sketch sniff unaware giant poverty boy burden soft secret humble sure medal";
+var mnemonic = "film victory ribbon stove enter room tenant symptom smart lava trial umbrella";

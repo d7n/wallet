@@ -1,1 +1,1 @@
-var mnemonic = "mechanic grit raise vapor pond treat faith treat donkey someone smoke often";
+var mnemonic = "simple submit twenty permit divorce real canoe wise jump drama name retire";

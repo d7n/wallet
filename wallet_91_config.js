@@ -1,1 +1,1 @@
-var mnemonic = "ginger dynamic young proof seminar luggage inflict joy soon planet slab arrest";
+var mnemonic = "myth video educate fringe history vicious inspire weapon weasel exit original valid";

@@ -1,1 +1,1 @@
-var mnemonic = "exchange analyst quarter inch tree cost squirrel brush indoor alcohol anger odor";
+var mnemonic = "glove render scene casual giant swift pudding flee two cabbage kite slow";

@@ -1,1 +1,1 @@
-var mnemonic = "dose course engage pact cloth someone fine finger above enrich chunk wise";
+var mnemonic = "service twist keen blood scale undo term thing scrub brush bracket clog";

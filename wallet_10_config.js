@@ -1,1 +1,1 @@
-var mnemonic = "observe ring pelican super accuse episode blind boy category sun shell love";
+var mnemonic = "vendor mutual horse crisp empty swallow winner onion space crowd quality suit";

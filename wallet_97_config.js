@@ -1,1 +1,1 @@
-var mnemonic = "snow phone rescue firm squeeze captain syrup crane april extra anger ready";
+var mnemonic = "test clinic nut great swallow cause camp emotion case uniform interest come";

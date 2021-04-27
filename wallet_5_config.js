@@ -1,1 +1,1 @@
-var mnemonic = "sentence truth unique hammer matrix tooth code seed suggest tomato tornado frog";
+var mnemonic = "cram motor soul glow quarter obscure team stage defense cabbage shop gown";

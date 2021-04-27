@@ -1,1 +1,1 @@
-var mnemonic = "glimpse enjoy sheriff south tortoise educate captain nuclear valid chuckle minimum shiver";
+var mnemonic = "visa produce drop eight local jar rebuild feel weasel gain predict deputy";

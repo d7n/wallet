@@ -1,1 +1,1 @@
-var mnemonic = "seminar struggle noodle blood actual never bless famous orient glow adjust average";
+var mnemonic = "blouse glory smart stick palm anger weapon sick clip drum verb cart";

@@ -1,1 +1,1 @@
-var mnemonic = "word token chaos afraid omit age emotion ten give shield glance craft";
+var mnemonic = "dilemma napkin patrol horse can flip ketchup foot gorilla depend fly device";

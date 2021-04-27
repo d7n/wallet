@@ -1,1 +1,1 @@
-var mnemonic = "apart amazing math tortoise level toast spend enjoy quarter save endorse receive";
+var mnemonic = "wagon outside history grape ability range orchard laundry script bacon veteran hidden";

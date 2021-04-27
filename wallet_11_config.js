@@ -1,1 +1,1 @@
-var mnemonic = "tell excite heart unlock skull hip alter oyster track vault dog shuffle";
+var mnemonic = "creek paddle snap wash slot purchase zone live rail eye film tiger";

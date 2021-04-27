@@ -1,1 +1,1 @@
-var mnemonic = "amazing polar patch siege window dwarf require grass address clerk depart avoid";
+var mnemonic = "minor hospital notice aerobic yellow wonder between census venue coconut boat human";

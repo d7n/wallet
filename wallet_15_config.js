@@ -1,1 +1,1 @@
-var mnemonic = "risk junior note finger tunnel wonder only flat inch update boat end";
+var mnemonic = "teach clean peace wrestle indicate kingdom mistake model receive cradle grief area";

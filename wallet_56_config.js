@@ -1,1 +1,1 @@
-var mnemonic = "chest ozone split danger rebuild cool search case quarter ankle embark service";
+var mnemonic = "cargo actor unique offer unfold improve idle panda stable upon wasp upon";

@@ -1,1 +1,1 @@
-var mnemonic = "pledge provide buzz effort flat coral faculty alcohol airport time puzzle family";
+var mnemonic = "paper sauce owner jelly ribbon gorilla script bubble outer crumble guitar uniform";

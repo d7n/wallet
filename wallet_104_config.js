@@ -1,1 +1,1 @@
-var mnemonic = "ginger exotic fatigue move battle general embrace cube rescue marble valve glance";
+var mnemonic = "venture arctic defy before identify indicate maid sing senior summer dismiss put";

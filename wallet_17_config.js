@@ -1,1 +1,1 @@
-var mnemonic = "ugly movie sting divorce tuna topic elite gather remove alone power mouse";
+var mnemonic = "leopard avoid argue sort face orbit trip all casino shoulder when vintage";

@@ -1,1 +1,1 @@
-var mnemonic = "picture column pony blood butter cancel palm omit horn carry vessel wide";
+var mnemonic = "idle average sheriff wall best wealth aunt exile raise valid gas bubble";

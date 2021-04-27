@@ -1,1 +1,1 @@
-var mnemonic = "enact over coin isolate betray dawn soft joke stadium crater speak possible";
+var mnemonic = "universe stairs myself accident reject weekend border grab seat tone oppose yard";

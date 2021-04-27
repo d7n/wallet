@@ -1,1 +1,1 @@
-var mnemonic = "edge canvas cable notice lumber melody athlete shuffle impact wear leisure average";
+var mnemonic = "hello economy steak ten tackle rough dash coach pear list rude tiger";

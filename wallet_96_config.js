@@ -1,1 +1,1 @@
-var mnemonic = "betray traffic radio violin manage goat tool modify history fetch program grid";
+var mnemonic = "couple dentist uphold horse unveil arctic end uniform deliver issue such unable";

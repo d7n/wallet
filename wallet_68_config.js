@@ -1,1 +1,1 @@
-var mnemonic = "family carpet pepper tray explain faculty feed phone drill text pen frequent";
+var mnemonic = "enroll wealth parent cross neutral industry expose crop range dance clarify shield";

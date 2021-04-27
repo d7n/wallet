@@ -1,1 +1,1 @@
-var mnemonic = "hotel genuine such trick smile release foil canal uphold diamond polar audit";
+var mnemonic = "spot wonder narrow excite peasant escape scrub divide party scan oval rapid";

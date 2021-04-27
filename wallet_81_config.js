@@ -1,1 +1,1 @@
-var mnemonic = "sustain clip web excite warfare peace ribbon dizzy chronic annual refuse puzzle";
+var mnemonic = "dish idle lottery measure endless boost increase improve trophy despair history diagram";

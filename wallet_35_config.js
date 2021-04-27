@@ -1,1 +1,1 @@
-var mnemonic = "glance debate number scan uphold roof joy oak east inspire guilt manual";
+var mnemonic = "seat sniff into enforce sea duck marriage layer stand scout speed blood";

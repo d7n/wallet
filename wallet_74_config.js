@@ -1,1 +1,1 @@
-var mnemonic = "rhythm mixed chimney obey satisfy joke exclude hawk multiply history flame spread";
+var mnemonic = "april swim invest finish cable shaft bomb amused manage gift horn popular";
