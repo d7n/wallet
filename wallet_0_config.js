@@ -1,1 +1,1 @@
-var mnemonic = "current marble cement thing drop sword inquiry potato ethics spray universe side";
+var mnemonic = "dad acid icon runway edit you present party satisfy egg amateur frame";

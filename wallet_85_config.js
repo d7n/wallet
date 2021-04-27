@@ -1,1 +1,1 @@
-var mnemonic = "try judge hill practice afford harbor salmon grid monitor buyer combine speak";
+var mnemonic = "hungry exhibit apple unique ready jelly glide top custom comic melody model";

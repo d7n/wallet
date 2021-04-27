@@ -1,1 +1,1 @@
-var mnemonic = "minimum basket sketch shove actress comfort annual custom gap term cycle direct";
+var mnemonic = "congress maple casino zero flush idle warrior aerobic fiscal symptom place wasp";

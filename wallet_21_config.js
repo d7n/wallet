@@ -1,1 +1,1 @@
-var mnemonic = "health behave bounce drastic age snap throw emerge food search left manual";
+var mnemonic = "husband disagree flavor pole above current salmon clerk elite neck female review";

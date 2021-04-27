@@ -1,1 +1,1 @@
-var mnemonic = "frequent sheriff endless flag before body alpha forget travel essence fee ladder";
+var mnemonic = "upon clog marine visual arrest slide raven segment punch silly build hammer";

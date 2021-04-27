@@ -1,1 +1,1 @@
-var mnemonic = "advice neither tornado perfect galaxy true foil doctor ahead enroll inner swear";
+var mnemonic = "spatial loud impact fetch scheme cave practice hidden mind pudding host game";

@@ -1,1 +1,1 @@
-var mnemonic = "mass attack target plug pudding pretty cup tortoise soldier excuse flash outside";
+var mnemonic = "wild suspect unlock review lamp vanish age alter decade lazy churn inquiry";

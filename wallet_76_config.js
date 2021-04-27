@@ -1,1 +1,1 @@
-var mnemonic = "tone urge vibrant unit edit swear entry assist tone cluster fire rail";
+var mnemonic = "lottery small winter will kiwi flower pizza meadow where donkey portion angry";

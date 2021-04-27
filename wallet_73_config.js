@@ -1,1 +1,1 @@
-var mnemonic = "people marine menu earth sign promote onion raven pave cream interest train";
+var mnemonic = "biology oval spoon abstract rapid trip rookie invest tunnel cannon nuclear tree";

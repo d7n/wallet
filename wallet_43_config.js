@@ -1,1 +1,1 @@
-var mnemonic = "congress sword economy guitar urge salon enemy zero valley original obscure season";
+var mnemonic = "monkey theme excite diagram please decline pistol north trophy tourist utility blind";

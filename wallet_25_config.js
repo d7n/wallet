@@ -1,1 +1,1 @@
-var mnemonic = "beef gaze pole annual nature subject drastic cupboard risk couch album jelly";
+var mnemonic = "head bus intact treat dentist unhappy farm process patient sight open two";

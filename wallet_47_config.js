@@ -1,1 +1,1 @@
-var mnemonic = "rural humor prepare title injury island favorite enable cricket upon whale slender";
+var mnemonic = "toddler awful reason rebel fox afford street fluid dismiss circle pet cave";

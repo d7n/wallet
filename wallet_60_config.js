@@ -1,1 +1,1 @@
-var mnemonic = "ability private update solid base square find card initial bacon truth gloom";
+var mnemonic = "nature decide captain trend sure milk skirt nothing position antenna woman anchor";

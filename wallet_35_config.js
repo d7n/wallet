@@ -1,1 +1,1 @@
-var mnemonic = "member vote edit imitate soap negative ignore song stomach suspect sentence country";
+var mnemonic = "rival net slice love actress tiger spin flat argue access autumn wall";

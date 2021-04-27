@@ -1,1 +1,1 @@
-var mnemonic = "lonely rescue clown phrase age kingdom acid arrange squeeze local indoor unique";
+var mnemonic = "mom toss universe december client broccoli expand desert entire path tower cruel";

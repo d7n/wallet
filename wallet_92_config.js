@@ -1,1 +1,1 @@
-var mnemonic = "loud clerk pencil useful jaguar asset couple drink trust toss onion roast";
+var mnemonic = "tent dismiss all logic clock sea cram entire sweet afraid fame rebuild";

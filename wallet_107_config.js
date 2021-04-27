@@ -1,1 +1,1 @@
-var mnemonic = "major myself night cart garage grid rigid hero ancient crime south fetch";
+var mnemonic = "acoustic degree armed universe oil priority tank gauge cupboard mistake three amateur";

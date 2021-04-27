@@ -1,1 +1,1 @@
-var mnemonic = "cradle hip near teach dress there try olive gym supply pig lucky";
+var mnemonic = "come relax when car stadium dawn ritual original alcohol coconut rotate wife";

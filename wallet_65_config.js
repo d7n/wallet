@@ -1,1 +1,1 @@
-var mnemonic = "have craft quote organ mask vast dice maximum spread eye mention jazz";
+var mnemonic = "blood home near patrol rookie view ocean artwork wealth knock regular clock";

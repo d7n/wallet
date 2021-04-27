@@ -1,1 +1,1 @@
-var mnemonic = "quit caught meat summer poem obtain hedgehog twelve taste family clerk imitate";
+var mnemonic = "pave dance citizen discover black erode tape teach empower animal prize clump";

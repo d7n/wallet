@@ -1,1 +1,1 @@
-var mnemonic = "section truck indicate dream antenna oven can human hill toy mix thing";
+var mnemonic = "young snack call night aisle private inform depth blast shrug huge furnace";

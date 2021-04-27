@@ -1,1 +1,1 @@
-var mnemonic = "layer purity clarify eagle lucky own ramp welcome visual poem release regret";
+var mnemonic = "essence gather ensure tuition subway mail chalk drip fatal kite only swamp";

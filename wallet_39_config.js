@@ -1,1 +1,1 @@
-var mnemonic = "auto behave label list notable elbow warrior velvet onion lemon pave echo";
+var mnemonic = "sword rhythm this banner tuition mandate unfair sand cycle mule ripple kingdom";

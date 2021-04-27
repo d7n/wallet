@@ -1,1 +1,1 @@
-var mnemonic = "clip enhance pact cool equal antique smile celery cry harsh more voyage";
+var mnemonic = "garbage atom job boat insane stay oak must put subway question flavor";

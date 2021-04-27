@@ -1,1 +1,1 @@
-var mnemonic = "basic spring boat ordinary ugly risk admit hurdle address alarm exchange aunt";
+var mnemonic = "topic dutch olympic round blossom leave brother become reject female answer field";

@@ -1,1 +1,1 @@
-var mnemonic = "flavor unaware donkey fence hour want exact heavy shaft music crystal give";
+var mnemonic = "obey cheese devote renew mirror seminar ahead great split labor clerk remain";

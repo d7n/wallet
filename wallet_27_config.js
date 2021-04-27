@@ -1,1 +1,1 @@
-var mnemonic = "version wrong choose honey orphan loop cradle wrist advice rude sand glide";
+var mnemonic = "young sudden senior core mercy erosion leaf sudden beyond nothing midnight twin";

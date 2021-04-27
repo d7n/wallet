@@ -1,1 +1,1 @@
-var mnemonic = "wonder casino album lock bamboo unlock oppose search fat where stem help";
+var mnemonic = "wish nation seed bus decade veteran body bird trophy inflict brand topic";

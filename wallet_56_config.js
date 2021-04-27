@@ -1,1 +1,1 @@
-var mnemonic = "ride whisper auction fox culture game parade exhaust attract weather salute recycle";
+var mnemonic = "hockey maximum ten mule health among leave pair life relief please afford";

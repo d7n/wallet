@@ -1,1 +1,1 @@
-var mnemonic = "mercy annual blast cloud club spoil spice dream clock knife seminar glare";
+var mnemonic = "dove supreme thumb draw wide meat vehicle kidney elegant blue erupt soldier";

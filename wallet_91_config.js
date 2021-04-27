@@ -1,1 +1,1 @@
-var mnemonic = "aisle denial dilemma pony arctic now weasel drama oblige attract tiger stamp";
+var mnemonic = "range element tornado grass prison ignore position culture sick hard above clerk";

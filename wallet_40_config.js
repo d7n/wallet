@@ -1,1 +1,1 @@
-var mnemonic = "panda business acid grocery question custom hello magic wife anger damage juice";
+var mnemonic = "hidden east fluid beef rely consider rebel dinosaur sentence permit mistake wrap";

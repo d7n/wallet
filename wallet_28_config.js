@@ -1,1 +1,1 @@
-var mnemonic = "minimum since answer involve level scout else action panther path alcohol grab";
+var mnemonic = "term gas first fade salt idea yard shed loyal hero cricket label";

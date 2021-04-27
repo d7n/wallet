@@ -1,1 +1,1 @@
-var mnemonic = "strong system grunt radar machine unit wheel issue kitten pet quit leg";
+var mnemonic = "planet tide casino guitar dog health mass scorpion pride mimic asset process";

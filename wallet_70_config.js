@@ -1,1 +1,1 @@
-var mnemonic = "media warfare opera hope blame push keep stereo vocal blast rare short";
+var mnemonic = "ready pride profit figure human smart course inherit bike metal mushroom empower";

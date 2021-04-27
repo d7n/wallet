@@ -1,1 +1,1 @@
-var mnemonic = "tribe pelican print very guard digital make cinnamon clarify nominee inch swear";
+var mnemonic = "siren walk fire fun next nasty defense door brush taste analyst have";

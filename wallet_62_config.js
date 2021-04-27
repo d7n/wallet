@@ -1,1 +1,1 @@
-var mnemonic = "grit rally abstract exchange glimpse discover chaos gasp actress siege army senior";
+var mnemonic = "slim permit ahead elephant anger enter will pulse dismiss cream minor seminar";

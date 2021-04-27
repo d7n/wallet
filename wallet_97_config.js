@@ -1,1 +1,1 @@
-var mnemonic = "diary paddle father merge salt loud crouch lava side raven tuition dwarf";
+var mnemonic = "grocery mom carry piece mobile silk stairs square sample title across mix";

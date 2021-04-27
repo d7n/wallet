@@ -1,1 +1,1 @@
-var mnemonic = "similar strategy silly upset cost enlist biology brand long soup define museum";
+var mnemonic = "erupt scale tower bubble ignore hold inner bean episode install senior loop";

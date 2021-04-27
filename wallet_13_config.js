@@ -1,1 +1,1 @@
-var mnemonic = "debris hidden rail brand recall derive toddler mad night dentist robust patrol";
+var mnemonic = "educate remain slab silk yard forget walnut sport ahead gaze nest moral";

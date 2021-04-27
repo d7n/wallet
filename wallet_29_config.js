@@ -1,1 +1,1 @@
-var mnemonic = "age where budget rocket charge toss peasant foot confirm apple hope staff";
+var mnemonic = "change advice call lady opera state demise puppy galaxy cash price lend";

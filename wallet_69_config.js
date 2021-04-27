@@ -1,1 +1,1 @@
-var mnemonic = "guitar under language pretty reopen crop loyal speed foam vicious month sight";
+var mnemonic = "camp weasel ivory despair camp combine fancy error derive clinic crack tissue";

@@ -1,1 +1,1 @@
-var mnemonic = "picture burger barrel close ketchup cushion tonight junk reason trash permit pause";
+var mnemonic = "tube ankle alert tree actress device nurse twist loop agent employ move";

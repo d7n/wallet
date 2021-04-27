@@ -1,1 +1,1 @@
-var mnemonic = "place property wear hidden balcony name attitude unlock rigid afford day loyal";
+var mnemonic = "april range funny argue window firm camera firm subway air assault rookie";

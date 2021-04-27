@@ -1,1 +1,1 @@
-var mnemonic = "local cable blouse evolve divorce buddy ring census abandon will network scan";
+var mnemonic = "raccoon bubble inmate fox hero cancel hunt voice divorce camp lumber peanut";

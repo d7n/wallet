@@ -1,1 +1,1 @@
-var mnemonic = "shuffle woman alarm circle view mobile penalty true width envelope carpet cigar";
+var mnemonic = "half original emotion like there weird lazy rug label tomorrow cushion noodle";

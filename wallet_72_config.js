@@ -1,1 +1,1 @@
-var mnemonic = "napkin train honey style improve cup ship tag lucky travel brain creek";
+var mnemonic = "promote essay bonus height fringe decade focus ivory burden behave reveal wisdom";

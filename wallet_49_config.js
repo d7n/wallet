@@ -1,1 +1,1 @@
-var mnemonic = "garlic bird front offer fire slide ship album picture faith stuff memory";
+var mnemonic = "viable mule jungle target leader fashion benefit hybrid stereo delay keen attend";

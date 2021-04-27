@@ -1,1 +1,1 @@
-var mnemonic = "snake hour please animal dinner begin brief ancient mass forward admit super";
+var mnemonic = "vote again avocado level opera problem meadow answer afford wasp brief genre";

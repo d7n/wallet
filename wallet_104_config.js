@@ -1,1 +1,1 @@
-var mnemonic = "comic oil surround coffee mechanic away lyrics egg mosquito alley chuckle machine";
+var mnemonic = "drama wisdom current scheme control unable tragic exhibit rule truly capable armor";

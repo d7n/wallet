@@ -1,1 +1,1 @@
-var mnemonic = "canyon truth danger normal timber cotton level have found just skill load";
+var mnemonic = "large slot chuckle chuckle vocal art theme heavy vibrant fold swing cost";

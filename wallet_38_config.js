@@ -1,1 +1,1 @@
-var mnemonic = "sister zero magnet impulse diet domain apology parent arch tuition file control";
+var mnemonic = "stomach subway narrow lecture corn figure hidden release involve bracket move model";

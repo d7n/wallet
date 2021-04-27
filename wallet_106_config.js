@@ -1,1 +1,1 @@
-var mnemonic = "oak electric room toy fun logic unable huge supreme pipe mean crawl";
+var mnemonic = "essay sing excite adult nut chuckle melt bright knee boat wall absorb";

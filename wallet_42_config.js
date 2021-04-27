@@ -1,1 +1,1 @@
-var mnemonic = "hundred cement senior decide tilt sand stumble alert grant into fury more";
+var mnemonic = "silver happy kid crowd lawn chimney weasel monitor resource decade sign firm";

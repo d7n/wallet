@@ -1,1 +1,1 @@
-var mnemonic = "mention artwork fire eight bike picnic armed better bread border wagon brand";
+var mnemonic = "hamster scan smart drink ripple return trap supreme shoot immense warm decade";

@@ -1,1 +1,1 @@
-var mnemonic = "luggage mechanic fox hurt tragic oxygen peace kitten quote robot gun casual";
+var mnemonic = "mercy fitness often pact afraid ready click glimpse nose search inner other";

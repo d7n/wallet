@@ -1,1 +1,1 @@
-var mnemonic = "alarm evidence rare reflect cargo unable year settle special distance warfare loan";
+var mnemonic = "final glad sad embody fine erode boy want like please priority scissors";

@@ -1,1 +1,1 @@
-var mnemonic = "this cheap state nut enough carbon ridge glide size volume pass sponsor";
+var mnemonic = "own honey hungry boring bargain select volcano evoke size hand child lemon";

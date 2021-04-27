@@ -1,1 +1,1 @@
-var mnemonic = "present brush found atom faith reason skull river stool question blanket slender";
+var mnemonic = "wing feel box deposit bulk best liar spray knock embody rabbit enable";

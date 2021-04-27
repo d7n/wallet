@@ -1,1 +1,1 @@
-var mnemonic = "love keep doll gain syrup supply tattoo mirror stumble team small coach";
+var mnemonic = "supreme material name soon risk below donkey crane message jacket engage permit";

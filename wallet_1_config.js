@@ -1,1 +1,1 @@
-var mnemonic = "keen wait round drama regret rail rally custom clerk loan glimpse security";
+var mnemonic = "clinic genre neutral rude burst rigid fit anger few defense very soup";

@@ -1,1 +1,1 @@
-var mnemonic = "citizen smooth energy nurse nature figure among glimpse crazy cage laugh sad";
+var mnemonic = "recycle pledge swap lizard bracket oblige hamster impact symptom creek kiwi seat";

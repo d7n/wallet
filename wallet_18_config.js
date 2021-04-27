@@ -1,1 +1,1 @@
-var mnemonic = "chase ask brother ghost gate vicious blossom blade stick segment inch plate";
+var mnemonic = "tomato neck east stairs sun treat strong patrol industry ivory live aware";

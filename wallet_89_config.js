@@ -1,1 +1,1 @@
-var mnemonic = "wrist cargo roof naive typical odor proof segment extra undo regret fashion";
+var mnemonic = "buyer pioneer candy step deliver agree modify crush one eagle gown squirrel";

@@ -1,1 +1,1 @@
-var mnemonic = "spread liquid sun forest layer tattoo tired village hockey enforce script steak";
+var mnemonic = "winner income stable almost claw fury excess month chalk orchard just blame";

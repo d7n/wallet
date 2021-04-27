@@ -1,1 +1,1 @@
-var mnemonic = "kite trip issue purse gun lock image census frog silent chest steak";
+var mnemonic = "member duck expire toilet daring satisfy tenant quick hand myth open ceiling";

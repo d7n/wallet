@@ -1,1 +1,1 @@
-var mnemonic = "jealous moon armed galaxy stove creek issue pudding tomato draw path render";
+var mnemonic = "worry mosquito hobby fly champion profit decade cruise olympic cost grass forest";

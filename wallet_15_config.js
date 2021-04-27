@@ -1,1 +1,1 @@
-var mnemonic = "creek trap afford live menu peasant subway team duck ticket arctic shaft";
+var mnemonic = "party jealous market net popular area zone foil caution orange inside tumble";

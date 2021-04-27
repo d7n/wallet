@@ -1,1 +1,1 @@
-var mnemonic = "vendor inch frog hunt baby water garage sign silent okay super slim";
+var mnemonic = "gentle monkey eye lawn upgrade box rent industry explain castle actual upgrade";

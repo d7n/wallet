@@ -1,1 +1,1 @@
-var mnemonic = "quit cereal swarm potato raise antique carpet dawn elegant roof dismiss hero";
+var mnemonic = "talent man found next raw funny judge apology cupboard intact system ride";

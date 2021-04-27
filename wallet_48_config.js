@@ -1,1 +1,1 @@
-var mnemonic = "soda stable crisp artefact grace certain tray economy link doll donate wise";
+var mnemonic = "animal half agent calm scatter mosquito rely true upon chimney obscure miss";

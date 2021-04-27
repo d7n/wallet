@@ -1,1 +1,1 @@
-var mnemonic = "runway oil card beef kiss dignity scene tongue unusual beauty rhythm notable";
+var mnemonic = "stereo feel fade detect core old gravity ramp drift thumb senior royal";

@@ -1,1 +1,1 @@
-var mnemonic = "curtain wrestle gas clip hope faculty vacuum wolf inform lucky expose shove";
+var mnemonic = "cram race cost fatigue unhappy laugh infant suffer pencil north control toast";

@@ -1,1 +1,1 @@
-var mnemonic = "crunch sausage attitude test start chaos crime dirt tuna february tomato say";
+var mnemonic = "goat ethics drill sad useless coffee reveal space trash jump immense weapon";

@@ -1,1 +1,1 @@
-var mnemonic = "lab model clip spy cabbage split announce update attack heavy hope menu";
+var mnemonic = "close coin diamond smoke slide book today warm mammal element evoke prevent";

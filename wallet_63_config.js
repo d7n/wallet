@@ -1,1 +1,1 @@
-var mnemonic = "other sheriff panther ski practice wonder faith vintage goose focus lock blanket";
+var mnemonic = "little ecology know post someone junior always health engage output open bus";

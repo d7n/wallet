@@ -1,1 +1,1 @@
-var mnemonic = "disorder build discover acid bullet end tobacco luggage bubble job lab spare";
+var mnemonic = "among cycle census east acquire tribe spy age letter matter also yard";

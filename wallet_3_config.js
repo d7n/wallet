@@ -1,1 +1,1 @@
-var mnemonic = "submit orphan check cute limit try slide emerge test group file option";
+var mnemonic = "someone biology depend extra extra physical lumber journey maple nasty tree jealous";

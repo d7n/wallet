@@ -1,1 +1,1 @@
-var mnemonic = "hint lesson prize salad plastic solid excess truly legend drastic script dentist";
+var mnemonic = "birth fortune invite genuine echo cover one miss youth unknown fold cinnamon";

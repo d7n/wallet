@@ -1,1 +1,1 @@
-var mnemonic = "glare hole bleak gauge faint noble wrestle deputy sting magic shell dumb";
+var mnemonic = "rate corn ladder nice text rebel sing brush resemble kingdom yellow forget";

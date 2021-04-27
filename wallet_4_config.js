@@ -1,1 +1,1 @@
-var mnemonic = "bench push mandate unveil palace fan phone tail capable play coast essence";
+var mnemonic = "oppose cup minor purse father such alcohol range stone turn lens bird";

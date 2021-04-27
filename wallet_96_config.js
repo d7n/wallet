@@ -1,1 +1,1 @@
-var mnemonic = "theme crucial nation mimic light eyebrow pledge access wild wedding engage gorilla";
+var mnemonic = "link pistol glimpse spoil fuel black cruise garment custom replace shrug bounce";

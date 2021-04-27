@@ -1,1 +1,1 @@
-var mnemonic = "retreat gospel emotion hazard throw glory expand flip leader viable loyal crisp";
+var mnemonic = "return injury grocery burger spawn twist purchase modify join stadium flavor clean";

@@ -1,1 +1,1 @@
-var mnemonic = "near either stand fashion example rhythm outer journey team happy sibling donor";
+var mnemonic = "various mansion cycle humble ecology empty grab patrol tray uphold enhance pink";

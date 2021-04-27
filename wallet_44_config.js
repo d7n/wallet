@@ -1,1 +1,1 @@
-var mnemonic = "impose crime label source husband depart spell damage peace debris just degree";
+var mnemonic = "stamp order seminar expire armed decade spoil smile current turn funny pony";

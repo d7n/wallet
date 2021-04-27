@@ -1,1 +1,1 @@
-var mnemonic = "state bird door adjust fold naive come crater cabin never solution object";
+var mnemonic = "dress chest together moon large term setup twice sad latin mixed fold";
