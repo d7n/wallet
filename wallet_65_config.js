@@ -1,1 +1,1 @@
-var mnemonic = "across camp banana such taste wrestle below know style useful waste winter";
+var mnemonic = "now spirit reform one velvet bag vehicle tornado cart spoon shock size";

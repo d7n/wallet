@@ -1,1 +1,1 @@
-var mnemonic = "audit market huge neck gift weasel fun toddler oblige blouse acquire empty";
+var mnemonic = "bag income library fork poverty possible tongue address gas couch doll rescue";

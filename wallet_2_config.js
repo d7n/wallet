@@ -1,1 +1,1 @@
-var mnemonic = "source inside boat source senior fall moral know net purchase state burger";
+var mnemonic = "acid car wink citizen result glimpse forest beauty wink infant glue invite";

@@ -1,1 +1,1 @@
-var mnemonic = "true either enroll wagon crazy coconut bright lion vendor laugh sunset bus";
+var mnemonic = "already sniff check potato script border jealous frame picnic rifle desk chest";

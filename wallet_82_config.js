@@ -1,1 +1,1 @@
-var mnemonic = "salmon crime become pair virus lizard monkey board catch soap doll aware";
+var mnemonic = "come step garlic fringe buyer river spot favorite autumn farm myself avoid";

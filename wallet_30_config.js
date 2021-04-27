@@ -1,1 +1,1 @@
-var mnemonic = "release leisure monitor ability cable spirit fringe soup treat puppy fork father";
+var mnemonic = "welcome always width certain damage bounce acid job piano exotic there flat";

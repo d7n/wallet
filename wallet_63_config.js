@@ -1,1 +1,1 @@
-var mnemonic = "stable smooth clip change glare own duck leaf mail permit news sample";
+var mnemonic = "unveil concert lizard bag prize finger soccer disease salute can mail pepper";

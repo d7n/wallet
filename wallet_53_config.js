@@ -1,1 +1,1 @@
-var mnemonic = "ivory turn chunk bulk confirm chronic behind sail fit rude panda where";
+var mnemonic = "involve panel market machine empty turtle impose vote fatigue arm that beach";

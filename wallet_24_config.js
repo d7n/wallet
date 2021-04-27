@@ -1,1 +1,1 @@
-var mnemonic = "sustain lady behind dumb scrub demise innocent good patch surprise depart index";
+var mnemonic = "question jar level property security supreme silver ski lottery scrap inform exist";

@@ -1,1 +1,1 @@
-var mnemonic = "range cargo play thought utility name dynamic valley village dwarf voyage man";
+var mnemonic = "roof fix sunny risk dial purse crisp tent spawn recycle north common";

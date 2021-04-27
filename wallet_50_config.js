@@ -1,1 +1,1 @@
-var mnemonic = "tooth risk million clean join sad kingdom gold tag tomato build inhale";
+var mnemonic = "view comic isolate oil gloom perfect page gold culture obvious erode smart";

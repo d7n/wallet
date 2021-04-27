@@ -1,1 +1,1 @@
-var mnemonic = "undo obey village brand choose family able believe piano infant cheese denial";
+var mnemonic = "source arrest travel symbol coil brass cliff crowd often company exhibit now";

@@ -1,1 +1,1 @@
-var mnemonic = "flower exclude intact auction list combine alert track obtain acquire off arena";
+var mnemonic = "drill velvet tape eternal trigger wrap goddess emotion diary miracle digital carry";

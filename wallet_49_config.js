@@ -1,1 +1,1 @@
-var mnemonic = "gloom imitate cash expire neck dolphin annual lab gain session cactus couch";
+var mnemonic = "skull clinic push tenant sunny woman rapid myself language cereal suspect metal";

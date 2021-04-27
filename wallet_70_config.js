@@ -1,1 +1,1 @@
-var mnemonic = "claim renew sketch grunt arctic east pipe ecology bubble dust boring acid";
+var mnemonic = "eternal lazy walnut appear blast gasp behave room fringe siren border cement";

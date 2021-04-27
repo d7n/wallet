@@ -1,1 +1,1 @@
-var mnemonic = "cruise symbol announce fame noise virtual drill minor pilot document around prison";
+var mnemonic = "feed drift already inject anchor ten october raise diagram fly nasty raven";

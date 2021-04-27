@@ -1,1 +1,1 @@
-var mnemonic = "school matter silly turn river edge kidney ecology topple hundred purpose ocean";
+var mnemonic = "dry ready mixed alert case elegant act pipe control prize invest throw";

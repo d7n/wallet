@@ -1,1 +1,1 @@
-var mnemonic = "exhibit again tag nerve royal world orange stumble bean glare exhaust squeeze";
+var mnemonic = "limb seat brief mystery purchase dinosaur exchange soft heavy desk recipe unfair";

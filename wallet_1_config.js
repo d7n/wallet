@@ -1,1 +1,1 @@
-var mnemonic = "want champion addict envelope artist library all holiday organ palm detail inmate";
+var mnemonic = "solve shallow shove scheme dwarf north arrange above universe unique small decrease";

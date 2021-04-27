@@ -1,1 +1,1 @@
-var mnemonic = "clean rebuild chair odor convince december weekend title cake view throw ketchup";
+var mnemonic = "chair powder old before sniff boil insane into glory unable citizen quit";

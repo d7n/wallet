@@ -1,1 +1,1 @@
-var mnemonic = "together inject enemy script submit cool object cram sell motor method develop";
+var mnemonic = "upset category scan fluid work organ blame cabin doctor bike dice rescue";

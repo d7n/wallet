@@ -1,1 +1,1 @@
-var mnemonic = "bean inform bullet color doll acquire wonder armed goddess license name sign";
+var mnemonic = "boss gravity decrease risk mimic fat imitate pole cry review vintage suffer";

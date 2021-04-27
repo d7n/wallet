@@ -1,1 +1,1 @@
-var mnemonic = "sick rice mansion special deny arrest junior obscure hover turkey island endless";
+var mnemonic = "soft nothing champion swarm glimpse hair lucky bridge dose dragon congress prison";

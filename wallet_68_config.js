@@ -1,1 +1,1 @@
-var mnemonic = "edge asset area kingdom stamp appear cradle artefact shield rally wasp stuff";
+var mnemonic = "trend injury force casual parade victory weapon valley punch hawk wash taste";

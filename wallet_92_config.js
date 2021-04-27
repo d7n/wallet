@@ -1,1 +1,1 @@
-var mnemonic = "half glove name thought text pledge borrow ghost model dry equip during";
+var mnemonic = "demise front great argue paper parrot also board mix tooth decide chest";

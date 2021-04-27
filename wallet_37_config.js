@@ -1,1 +1,1 @@
-var mnemonic = "charge beauty maple owner skin guess trap system love mountain robot catalog";
+var mnemonic = "best morning version chase moon minute spring hedgehog session boy kick other";

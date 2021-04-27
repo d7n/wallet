@@ -1,1 +1,1 @@
-var mnemonic = "fetch cheap discover radio kangaroo stairs congress need advance turtle gallery then";
+var mnemonic = "blame session peasant have van vocal system motion night vacuum public thank";

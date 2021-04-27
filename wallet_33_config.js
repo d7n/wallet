@@ -1,1 +1,1 @@
-var mnemonic = "alpha margin pepper picture squeeze tiny start auction innocent grain fiber chicken";
+var mnemonic = "interest beef raw forum clay quit ancient winner dress disease salt climb";

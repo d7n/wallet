@@ -1,1 +1,1 @@
-var mnemonic = "sing pilot track hub dish acid today grit crop enroll gap when";
+var mnemonic = "august loop begin belt ketchup mule screen urge patrol emerge enforce dial";

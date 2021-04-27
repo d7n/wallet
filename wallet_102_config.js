@@ -1,1 +1,1 @@
-var mnemonic = "pledge autumn fitness destroy junk rifle perfect anger echo east choose drift";
+var mnemonic = "analyst biology birth skirt fitness baby clock add deal armor elder during";

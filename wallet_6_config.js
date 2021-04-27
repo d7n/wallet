@@ -1,1 +1,1 @@
-var mnemonic = "pencil educate shaft goose blind buzz kite select text regular fossil tribe";
+var mnemonic = "tumble honey neither maximum income goose brisk pink planet gym glass rice";

@@ -1,1 +1,1 @@
-var mnemonic = "rule valve chief air kick step unveil direct lounge hungry project escape";
+var mnemonic = "bronze giant lumber remove primary early bargain water prefer crazy gown sail";

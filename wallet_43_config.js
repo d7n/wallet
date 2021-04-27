@@ -1,1 +1,1 @@
-var mnemonic = "trust already vapor jewel they august assault allow smile shove session real";
+var mnemonic = "category curve emerge force cruel clay spatial combine end wrap connect fiction";

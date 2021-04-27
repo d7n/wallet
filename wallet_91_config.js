@@ -1,1 +1,1 @@
-var mnemonic = "install bachelor gown private collect trick recall flee able inflict umbrella glad";
+var mnemonic = "jeans remind label quiz dance involve talk guitar icon betray tail parent";

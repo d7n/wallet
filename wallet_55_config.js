@@ -1,1 +1,1 @@
-var mnemonic = "oppose example budget miracle autumn planet category chicken minute column broom giant";
+var mnemonic = "brother endorse shock manage truth tuition affair kiwi coyote quick salad certain";

@@ -1,1 +1,1 @@
-var mnemonic = "click youth deposit okay velvet long chapter mechanic beach amused mean rifle";
+var mnemonic = "wing act arrive chef riot setup exact room execute depth begin tray";

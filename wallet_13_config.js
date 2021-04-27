@@ -1,1 +1,1 @@
-var mnemonic = "okay awesome moral harbor hawk spring dance ceiling exercise phone curious puppy";
+var mnemonic = "law trash opera metal admit local describe supreme blood long choice face";

@@ -1,1 +1,1 @@
-var mnemonic = "stay toss anger build hero exercise weasel nice hood alpha tobacco provide";
+var mnemonic = "monkey leg flight tree note mask virus satoshi loyal reflect tired vicious";

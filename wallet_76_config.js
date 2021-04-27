@@ -1,1 +1,1 @@
-var mnemonic = "foil fade diamond soon bunker soft tower jar tribe vivid idea cloud";
+var mnemonic = "try perfect pull cable glad catch warrior tool custom lemon response exile";

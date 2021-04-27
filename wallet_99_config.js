@@ -1,1 +1,1 @@
-var mnemonic = "rapid panel amazing once brown pony render rack urban summer chicken public";
+var mnemonic = "struggle cost snow enact ship wait tongue roast enrich such tourist army";

@@ -1,1 +1,1 @@
-var mnemonic = "hurry people dawn addict into roast trouble valley dice jungle audit draw";
+var mnemonic = "neck tree bundle minor develop cost table gap battle tip fancy dance";

@@ -1,1 +1,1 @@
-var mnemonic = "inmate field skate near dial autumn virus coffee rhythm exotic expose talent";
+var mnemonic = "world goddess goat time satoshi hand awkward sign tissue vote elegant treat";

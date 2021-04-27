@@ -1,1 +1,1 @@
-var mnemonic = "blind unaware aunt olive flip letter news six claim rifle danger inside";
+var mnemonic = "aisle tornado arena second crumble monkey grunt toilet smile tenant flush pluck";

@@ -1,1 +1,1 @@
-var mnemonic = "provide shock artist advice crime buddy army humor waste receive squeeze bench";
+var mnemonic = "drama human tape bridge observe shell ride style maple double salmon unusual";

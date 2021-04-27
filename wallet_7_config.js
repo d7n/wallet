@@ -1,1 +1,1 @@
-var mnemonic = "similar mind loop camp rail switch vital chair lemon pause absorb number";
+var mnemonic = "estate furnace damp banana balcony general mercy suggest marine rural circle gossip";

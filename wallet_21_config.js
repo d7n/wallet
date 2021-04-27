@@ -1,1 +1,1 @@
-var mnemonic = "muffin cradle fork matter connect exercise exotic smooth portion column cover visual";
+var mnemonic = "pony story author narrow random donkey van car burst acid super side";

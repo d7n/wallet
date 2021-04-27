@@ -1,1 +1,1 @@
-var mnemonic = "column wrap orchard elder trash cradle exit expire cook miracle slim humble";
+var mnemonic = "jewel mass mimic later dose basic defy base horn saddle polar lamp";

@@ -1,1 +1,1 @@
-var mnemonic = "fence swamp quote canvas elegant disorder kite response quarter panel inner person";
+var mnemonic = "prepare best retreat joy shield base parent abandon render beach guide squeeze";

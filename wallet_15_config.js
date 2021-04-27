@@ -1,1 +1,1 @@
-var mnemonic = "peasant few rigid garlic hundred river daughter agree below marine orchard praise";
+var mnemonic = "rocket spread toy unit survey sound canal dog shadow cattle wear announce";

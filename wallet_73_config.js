@@ -1,1 +1,1 @@
-var mnemonic = "leisure secret toe bread organ fun brisk that heart index story argue";
+var mnemonic = "blast fatigue electric sibling enter annual insect panic ice run height outdoor";

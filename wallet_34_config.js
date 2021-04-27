@@ -1,1 +1,1 @@
-var mnemonic = "parrot curious orphan rebel middle language feed cricket behave agent turn dress";
+var mnemonic = "leave tackle route erase apple mutual mosquito mass volcano park army provide";

@@ -1,1 +1,1 @@
-var mnemonic = "alarm loan sad two clarify pupil engage woman laptop rather human neutral";
+var mnemonic = "ski exhibit bomb puppy mango awkward achieve diary taxi slot come castle";

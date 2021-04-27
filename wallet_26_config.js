@@ -1,1 +1,1 @@
-var mnemonic = "emotion butter picture trip either fuel head achieve produce nature century cycle";
+var mnemonic = "weather degree spoil weather dumb pulp crash primary dentist example umbrella soon";

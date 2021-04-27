@@ -1,1 +1,1 @@
-var mnemonic = "joy real need same permit reunion alcohol penalty stem goddess razor hidden";
+var mnemonic = "catalog dice right snow boil layer domain employ catch august accuse cat";

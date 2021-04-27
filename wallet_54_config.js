@@ -1,1 +1,1 @@
-var mnemonic = "receive noodle matrix nasty first pizza input firm fish hen cruel panic";
+var mnemonic = "stage flash private fox chapter mass method tired lumber improve pattern wrestle";

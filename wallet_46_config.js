@@ -1,1 +1,1 @@
-var mnemonic = "curious ghost fix plastic include snap judge often three social evolve spoil";
+var mnemonic = "surge settle suspect prize cloth owner feature rough digital oxygen casual panic";

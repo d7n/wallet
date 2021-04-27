@@ -1,1 +1,1 @@
-var mnemonic = "space useful cushion vicious exclude senior vendor oyster company exact chapter cause";
+var mnemonic = "start limit turtle upper view attitude blur reject lizard orient boil satoshi";

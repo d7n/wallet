@@ -1,1 +1,1 @@
-var mnemonic = "eager change edit depth museum bleak army idea fade other cancel cinnamon";
+var mnemonic = "dragon lyrics cactus ice panda stable ladder train weekend fury aunt lemon";

@@ -1,1 +1,1 @@
-var mnemonic = "reopen leg carpet liberty upset clutch anxiety elbow march escape remind squirrel";
+var mnemonic = "wrong cricket fever potato large retire slender copper letter fan belt cook";

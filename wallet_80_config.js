@@ -1,1 +1,1 @@
-var mnemonic = "smile achieve priority uncle champion lunch hungry lift bean virus glad private";
+var mnemonic = "pencil gun leg affair hold lift glare rabbit solve dance hollow assume";

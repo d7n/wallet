@@ -1,1 +1,1 @@
-var mnemonic = "reason top twelve ship toast lock rifle that snake bird fat chief";
+var mnemonic = "behave group equal goddess slim lunar polar churn onion beef virus year";

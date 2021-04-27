@@ -1,1 +1,1 @@
-var mnemonic = "work load dream evolve sadness sibling solid renew quantum wealth forward action";
+var mnemonic = "chapter primary earth gown excite goat blur hurry laugh thing cotton motion";

@@ -1,1 +1,1 @@
-var mnemonic = "proud pizza city maximum carbon forest random abandon stool fatal actress mansion";
+var mnemonic = "kit sport impose amused family snake fitness episode ship drastic luggage tip";

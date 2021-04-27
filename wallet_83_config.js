@@ -1,1 +1,1 @@
-var mnemonic = "proud coyote language fiction soul tattoo frozen grunt jazz oxygen culture gap";
+var mnemonic = "funny sauce security torch rose alter blush seat enable laptop symbol warm";

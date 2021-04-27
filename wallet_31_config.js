@@ -1,1 +1,1 @@
-var mnemonic = "urge warm response universe spell oppose hundred snow wrestle use thing coast";
+var mnemonic = "ketchup lazy side lottery assault evoke wall seminar eight boring brass absurd";

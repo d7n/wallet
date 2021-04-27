@@ -1,1 +1,1 @@
-var mnemonic = "address wage east limb swing nurse grief believe reflect day helmet dice";
+var mnemonic = "marriage beach target vague pilot couple market such bird raven stool canoe";

@@ -1,1 +1,1 @@
-var mnemonic = "magnet flush expect sell suit struggle they struggle loyal practice squirrel weekend";
+var mnemonic = "caught mixed couch depend nose monitor bridge lawsuit pelican nuclear south pelican";

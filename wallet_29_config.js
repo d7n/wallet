@@ -1,1 +1,1 @@
-var mnemonic = "near curious symptom seven please rude wish noble oppose oven beach harsh";
+var mnemonic = "fruit youth style novel brown submit palm swim stock sing anchor sail";

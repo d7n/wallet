@@ -1,1 +1,1 @@
-var mnemonic = "spatial goose candy gun deer shoulder large attitude label any upset casual";
+var mnemonic = "grab cable inject myth trick gap fly produce derive tonight crawl twin";

@@ -1,1 +1,1 @@
-var mnemonic = "innocent card globe lend april pledge reward citizen injury dial crumble elephant";
+var mnemonic = "seek mesh false position afraid occur matrix tip noise amount ribbon figure";

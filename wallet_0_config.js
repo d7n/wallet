@@ -1,1 +1,1 @@
-var mnemonic = "begin slush sample axis want layer rally sketch pause royal attend mule";
+var mnemonic = "either modify fashion lady anchor visit element swallow certain sight away beyond";

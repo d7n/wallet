@@ -1,1 +1,1 @@
-var mnemonic = "shallow pink soup tomato width faint hammer recycle royal manage social prefer";
+var mnemonic = "already hen mushroom obtain nut explain road bean usual entry verify file";

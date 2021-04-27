@@ -1,1 +1,1 @@
-var mnemonic = "spread orphan end wing decorate blood icon milk file demise unaware cliff";
+var mnemonic = "veteran used abandon pear ladder verify concert diamond verb strike canal shiver";

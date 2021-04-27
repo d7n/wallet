@@ -1,1 +1,1 @@
-var mnemonic = "south hurry garage glad sketch demise moon explain mix heart chronic spin";
+var mnemonic = "face myth pistol quality retreat table express birth surge bitter better moon";

@@ -1,1 +1,1 @@
-var mnemonic = "ride approve maple side kitchen frown ordinary globe hospital emotion carry sheriff";
+var mnemonic = "kit hub novel smooth float chicken nurse trick salt umbrella enhance welcome";

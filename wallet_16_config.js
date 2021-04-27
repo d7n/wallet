@@ -1,1 +1,1 @@
-var mnemonic = "team social prison author daughter upgrade noble topple magnet goat dress gospel";
+var mnemonic = "poem pen certain judge symptom escape soda spawn lumber impose shift answer";

@@ -1,1 +1,1 @@
-var mnemonic = "cage vapor open fringe soup flower panic banner media congress squirrel engine";
+var mnemonic = "tank scrub sing candy shoot sell evolve find smoke element bring snap";

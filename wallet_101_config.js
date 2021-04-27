@@ -1,1 +1,1 @@
-var mnemonic = "oak immense donor hour session lens purpose crater tenant flush indicate churn";
+var mnemonic = "crisp sentence switch phrase slam junk finish ready lounge again lottery month";

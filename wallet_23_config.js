@@ -1,1 +1,1 @@
-var mnemonic = "huge talk soccer educate humble point save fold turkey chapter nose rent";
+var mnemonic = "toward way lumber kidney dynamic floor corn voice sleep drastic there mechanic";

@@ -1,1 +1,1 @@
-var mnemonic = "huge there pepper run obvious rapid blame cereal box visual pipe pipe";
+var mnemonic = "stand solution story fat hint know scorpion picture safe negative shoot amateur";

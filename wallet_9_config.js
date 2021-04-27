@@ -1,1 +1,1 @@
-var mnemonic = "sight cover become crane genius inside expand arch stadium unusual portion grief";
+var mnemonic = "flag dove choice scan draft isolate spirit element multiply live panda cat";

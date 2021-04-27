@@ -1,1 +1,1 @@
-var mnemonic = "code squeeze camp situate depend lawsuit service lift unlock chapter deposit nut";
+var mnemonic = "icon mimic kitchen cradle insane hint rug live mad parent rack rotate";

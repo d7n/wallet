@@ -1,1 +1,1 @@
-var mnemonic = "recall note ranch dish health silent insect yellow artefact explain prosper question";
+var mnemonic = "palace car churn cannon south cart super upset escape hip become item";

@@ -1,1 +1,1 @@
-var mnemonic = "expire thing spoil leisure enact ten scatter ride violin pig torch prosper";
+var mnemonic = "small laugh affair rare obvious disorder cluster first turkey mistake mango try";

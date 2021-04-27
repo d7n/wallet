@@ -1,1 +1,1 @@
-var mnemonic = "green mixed barrel blanket acoustic initial teach still cheap solid sketch theory";
+var mnemonic = "jeans lesson beauty manage project rabbit sad result neck captain clinic hurdle";

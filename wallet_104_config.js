@@ -1,1 +1,1 @@
-var mnemonic = "sleep oven december blast acoustic lobster album idle myself version unfair crucial";
+var mnemonic = "dignity opinion drill valve program employ nuclear fit detect tumble image receive";

@@ -1,1 +1,1 @@
-var mnemonic = "cause ivory message maid siege toward student genius game toss exercise profit";
+var mnemonic = "weapon upgrade talent message violin ride tent conduct patch tortoise census transfer";

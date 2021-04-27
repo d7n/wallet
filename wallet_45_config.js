@@ -1,1 +1,1 @@
-var mnemonic = "insane hawk trend enhance field electric squeeze boat frog board various tourist";
+var mnemonic = "year spread drop labor rubber spread mad lazy judge pistol fox seed";

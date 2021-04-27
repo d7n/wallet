@@ -1,1 +1,1 @@
-var mnemonic = "human setup cross cactus embody click mean adjust pass trip nominee goose";
+var mnemonic = "wire sadness first bracket wait outside erase universe elite fall magnet cover";

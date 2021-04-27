@@ -1,1 +1,1 @@
-var mnemonic = "say portion ensure lift foot pact pact antique hen shaft fence impulse";
+var mnemonic = "solid pulse burger twenty apart moment walnut figure license poet call inspire";

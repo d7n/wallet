@@ -1,1 +1,1 @@
-var mnemonic = "ask trip drum feature tragic tackle trial rotate blue elevator wheel mobile";
+var mnemonic = "airport catch drift call miss upper deputy furnace cradle walnut cause hole";

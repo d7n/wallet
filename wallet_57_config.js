@@ -1,1 +1,1 @@
-var mnemonic = "horn sustain sphere air solid budget material discover winter cricket gather expect";
+var mnemonic = "laundry hurdle blind borrow hip major toe worry idle coil horn inquiry";

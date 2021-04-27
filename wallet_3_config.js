@@ -1,1 +1,1 @@
-var mnemonic = "banner special use pool frequent inherit silver belt panel duck ride wild";
+var mnemonic = "law treat barely perfect multiply tobacco weapon drip muscle gold machine indoor";

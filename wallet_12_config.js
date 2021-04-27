@@ -1,1 +1,1 @@
-var mnemonic = "code account december pilot bounce infant ordinary dolphin iron what wreck rookie";
+var mnemonic = "avoid eye marine rebuild antique coil mean slush simple blush multiply biology";
