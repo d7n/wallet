@@ -1,1 +1,1 @@
-var mnemonic = "denial make jacket ensure spoil diet eight warrior again good snake price";
+var mnemonic = "meat scale village license sing undo nothing icon easy service slogan alter";

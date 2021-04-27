@@ -1,1 +1,1 @@
-var mnemonic = "sign fame original december gown indoor belt check excuse change resource canvas";
+var mnemonic = "chase used plastic fossil found parent nation immense laptop defense inhale bring";

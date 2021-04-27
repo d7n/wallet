@@ -1,1 +1,1 @@
-var mnemonic = "pull life subject mean owner never never quiz wrestle kit raise slab";
+var mnemonic = "ill slide change lonely holiday orange champion ankle before fragile reform tube";

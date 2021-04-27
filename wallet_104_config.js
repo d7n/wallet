@@ -1,1 +1,1 @@
-var mnemonic = "false feature coyote diamond paper scheme below remove garment little alert property";
+var mnemonic = "rocket sample beef elder exit dinosaur profit decorate unusual like apart chase";

@@ -1,1 +1,1 @@
-var mnemonic = "cruel alcohol web cash fog spawn behind device flag moral urban usage";
+var mnemonic = "license real hockey famous banana veteran deputy lunar author lawsuit nothing satoshi";

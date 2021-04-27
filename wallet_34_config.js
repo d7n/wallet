@@ -1,1 +1,1 @@
-var mnemonic = "speak until crisp march giggle swap federal treat pretty vendor wave estate";
+var mnemonic = "april melt daring six arctic cherry few cause message jewel harsh phone";

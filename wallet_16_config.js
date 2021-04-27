@@ -1,1 +1,1 @@
-var mnemonic = "bridge congress infant fever detail current coin assume infant rather finger hawk";
+var mnemonic = "van find wink craft muffin spray jump fault road lumber remember solar";

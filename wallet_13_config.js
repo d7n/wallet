@@ -1,1 +1,1 @@
-var mnemonic = "ice special bracket roof invest decline pupil vessel shop room moral layer";
+var mnemonic = "minor palace sunset tunnel caught ecology hood remove bachelor apology jeans defy";

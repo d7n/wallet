@@ -1,1 +1,1 @@
-var mnemonic = "vibrant trumpet negative section coconut unlock century reform rack stage despair nerve";
+var mnemonic = "camp unfold science stick couch alley paddle abuse attack degree marine shoulder";

@@ -1,1 +1,1 @@
-var mnemonic = "ripple mechanic include frequent need raven there faculty green version virtual saddle";
+var mnemonic = "motion upon success farm hope debris artist final flight render need divide";

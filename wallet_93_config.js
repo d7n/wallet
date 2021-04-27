@@ -1,1 +1,1 @@
-var mnemonic = "hazard video cliff soup portion twin feed deal uniform inspire vote echo";
+var mnemonic = "job hurry auction joy piece dutch survey buffalo element offer culture joke";

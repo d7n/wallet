@@ -1,1 +1,1 @@
-var mnemonic = "siren glad spoil differ raccoon swing supreme ready cattle exchange cliff mango";
+var mnemonic = "model arctic bracket task note unable cat cage carbon casino long brown";

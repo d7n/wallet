@@ -1,1 +1,1 @@
-var mnemonic = "search aim cage dignity where mountain lava bike bonus raccoon disorder gold";
+var mnemonic = "sunset very broom melody timber business fortune castle artefact very auction pottery";

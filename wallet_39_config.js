@@ -1,1 +1,1 @@
-var mnemonic = "profit hold enter gorilla have tank flag grief lucky fee decline clinic";
+var mnemonic = "position tragic hour clutch meadow any brown region crouch tribe wrist leave";

@@ -1,1 +1,1 @@
-var mnemonic = "cargo clerk inmate carbon attract stamp original thought nuclear victory oven secret";
+var mnemonic = "ribbon frame library basket sense afford umbrella few atom spoil drink trouble";

@@ -1,1 +1,1 @@
-var mnemonic = "husband prevent library orange atom suspect limb goat change mean special detail";
+var mnemonic = "all detail moment chef entry pelican pizza mass scale pretty garden fade";

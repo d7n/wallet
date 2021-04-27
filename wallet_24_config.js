@@ -1,1 +1,1 @@
-var mnemonic = "thunder topple still organ squeeze teach dismiss tackle dawn gesture picnic throw";
+var mnemonic = "talk roast ivory lens uncle arena glory play flip syrup describe razor";

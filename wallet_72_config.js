@@ -1,1 +1,1 @@
-var mnemonic = "click fiber balance reduce tiny asthma soon trash cost grit cat under";
+var mnemonic = "noble glow scan volume mansion umbrella garden sentence fog extra wish adjust";

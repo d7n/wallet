@@ -1,1 +1,1 @@
-var mnemonic = "matrix dirt grid over quarter rule trade fancy mistake pulp real come";
+var mnemonic = "parent lumber much forget catch crumble virus exercise entire where elevator divert";

@@ -1,1 +1,1 @@
-var mnemonic = "judge nest what section dice album stadium palace leopard charge blind february";
+var mnemonic = "weasel inch clean hello job repeat noble ethics grab sunset reject dirt";

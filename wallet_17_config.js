@@ -1,1 +1,1 @@
-var mnemonic = "winner rate insane total age excuse motion resist garden mirror awful begin";
+var mnemonic = "announce draft fashion boring hawk print media hamster twin steak property auto";

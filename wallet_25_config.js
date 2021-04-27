@@ -1,1 +1,1 @@
-var mnemonic = "wreck still what hobby month basket comic already virtual device sugar human";
+var mnemonic = "drip neutral mechanic pulp robot state monitor normal river raven adapt one";

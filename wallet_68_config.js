@@ -1,1 +1,1 @@
-var mnemonic = "comic tilt vivid erupt vote effort rough vessel fall tomorrow melt inside";
+var mnemonic = "giraffe express guard emerge timber nose combine hybrid aim eagle lesson brain";

@@ -1,1 +1,1 @@
-var mnemonic = "ranch robust era history erode afraid journey voyage taxi snow cram twenty";
+var mnemonic = "lobster range gift glance defense broken during unknown parade sunset social inspire";

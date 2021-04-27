@@ -1,1 +1,1 @@
-var mnemonic = "circle auction first miracle tornado fitness skate topple never aspect off action";
+var mnemonic = "trip rapid child alcohol train exile chicken left about sorry rude sister";

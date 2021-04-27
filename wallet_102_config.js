@@ -1,1 +1,1 @@
-var mnemonic = "remove army crumble equal town shift major rookie quarter oxygen prison citizen";
+var mnemonic = "key grain hawk alley student senior trap exchange clay enrich tent depart";

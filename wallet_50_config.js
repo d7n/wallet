@@ -1,1 +1,1 @@
-var mnemonic = "gas fall van eternal holiday witness recall antique bird traffic place outside";
+var mnemonic = "angle fortune twist obey dinosaur drastic together lava base rubber wagon decorate";

@@ -1,1 +1,1 @@
-var mnemonic = "position memory mosquito story arctic gorilla tube canal hint gadget level any";
+var mnemonic = "broccoli giant add pipe auction blouse lady arrow diet fade blind almost";

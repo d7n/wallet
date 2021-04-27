@@ -1,1 +1,1 @@
-var mnemonic = "fatigue twelve peace twenty pelican tilt involve merry april inject timber effort";
+var mnemonic = "puzzle badge above author myth abandon traffic range below meat accuse nerve";

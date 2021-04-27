@@ -1,1 +1,1 @@
-var mnemonic = "design wrong grit whisper scheme popular pull connect absent spice life scatter";
+var mnemonic = "paper display delay wait laundry shrimp rotate you select normal muscle soap";

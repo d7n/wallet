@@ -1,1 +1,1 @@
-var mnemonic = "borrow forward smooth delay never hair round pattern creek crane ketchup coin";
+var mnemonic = "pitch nuclear boat slight worth bone robot elbow entry level slender jelly";

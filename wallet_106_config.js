@@ -1,1 +1,1 @@
-var mnemonic = "labor pole control modify bird resource much rich expand husband original quality";
+var mnemonic = "yard erosion fitness gold scorpion control divert card endless quality since nephew";

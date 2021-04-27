@@ -1,1 +1,1 @@
-var mnemonic = "depth catch teach forum multiply wood hero arrive warfare misery ignore glory";
+var mnemonic = "step there velvet parade cat bronze parrot build connect image ladder flat";

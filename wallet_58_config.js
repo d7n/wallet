@@ -1,1 +1,1 @@
-var mnemonic = "island hen peanut salad oxygen faculty tunnel exist truth bag another hazard";
+var mnemonic = "host artist outer fan balance february usage wonder sibling shed confirm shove";

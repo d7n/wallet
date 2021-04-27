@@ -1,1 +1,1 @@
-var mnemonic = "twist tourist blast concert crime twist onion weasel brand indicate clinic mom";
+var mnemonic = "avoid anchor notice harsh left main moral expire diet foil argue ensure";

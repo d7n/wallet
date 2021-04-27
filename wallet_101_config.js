@@ -1,1 +1,1 @@
-var mnemonic = "avocado item wage middle strong december gasp bulk file devote come hazard";
+var mnemonic = "wreck van minor deputy ugly bless kangaroo time private giant title derive";

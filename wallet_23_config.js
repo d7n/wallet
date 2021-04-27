@@ -1,1 +1,1 @@
-var mnemonic = "jaguar phrase acoustic inject clinic original lumber choose sweet resource disease property";
+var mnemonic = "spare close crouch someone sadness cannon drastic uniform fence dune insane loan";

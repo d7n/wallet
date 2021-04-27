@@ -1,1 +1,1 @@
-var mnemonic = "vehicle unusual make trigger off process dolphin ask trumpet armor they wave";
+var mnemonic = "clump police tool insect payment laptop river dream renew ball settle average";

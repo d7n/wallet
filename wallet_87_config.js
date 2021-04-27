@@ -1,1 +1,1 @@
-var mnemonic = "silly palm stomach uphold argue object session grief raccoon narrow because matter";
+var mnemonic = "side vote tone spice snow mammal message income inch recipe return share";

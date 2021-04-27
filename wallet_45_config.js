@@ -1,1 +1,1 @@
-var mnemonic = "figure exile cliff music empower mechanic insect torch suspect belt cry nominee";
+var mnemonic = "myth valve find family omit until volcano balcony feel pottery kitchen satoshi";

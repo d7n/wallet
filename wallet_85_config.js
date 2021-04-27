@@ -1,1 +1,1 @@
-var mnemonic = "ready defy pipe garbage harsh property vintage random pony eager alien accuse";
+var mnemonic = "mom easily fee brass scatter hedgehog web lyrics screen equip midnight sock";

@@ -1,1 +1,1 @@
-var mnemonic = "wheel popular chat prevent say banner ritual receive rabbit turn violin cliff";
+var mnemonic = "possible empower duty smile family juice harsh crop blossom snake crop primary";

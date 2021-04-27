@@ -1,1 +1,1 @@
-var mnemonic = "ranch small attack coyote cause perfect miss addict hire seat dial couch";
+var mnemonic = "burger capital item stock vanish result sun nasty tattoo crawl dynamic female";

@@ -1,1 +1,1 @@
-var mnemonic = "fly light ketchup social behave picture crowd forum latin nurse park primary";
+var mnemonic = "merge path wide velvet garlic fever visual rose alpha tackle trigger hill";

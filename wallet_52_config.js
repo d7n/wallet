@@ -1,1 +1,1 @@
-var mnemonic = "visual oblige notable hockey travel offer near name tower surprise huge switch";
+var mnemonic = "famous harsh error feature talk use shoot draw permit tobacco wonder rapid";

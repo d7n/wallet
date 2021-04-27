@@ -1,1 +1,1 @@
-var mnemonic = "alert volcano hero sell kid heavy execute blur century claw tower edit";
+var mnemonic = "length endorse disorder surprise range skull whisper middle onion powder siren dream";

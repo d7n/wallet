@@ -1,1 +1,1 @@
-var mnemonic = "noble ticket bicycle civil crew host alien devote purse devote almost disease";
+var mnemonic = "sunny banner prosper deputy cat come sea boat gesture alley fork lecture";

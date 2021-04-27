@@ -1,1 +1,1 @@
-var mnemonic = "ordinary fly found cabbage fence piano clean hood evoke type advice cruise";
+var mnemonic = "aunt pulp scrap seminar human young page beef list gate arctic example";

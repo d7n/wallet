@@ -1,1 +1,1 @@
-var mnemonic = "slender shove slot flush census wash trap error orange maple large fog";
+var mnemonic = "salad swim noise warfare sister spin blame history wise tuition soldier embody";

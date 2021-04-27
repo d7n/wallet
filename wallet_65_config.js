@@ -1,1 +1,1 @@
-var mnemonic = "spoon dream budget outer quick leaf captain year item afraid silver broken";
+var mnemonic = "plate shine ginger mixed blind stem consider real wife bounce problem embark";

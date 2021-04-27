@@ -1,1 +1,1 @@
-var mnemonic = "place alarm off become seminar jewel honey baby spring produce legend pen";
+var mnemonic = "bargain antenna artwork faint clinic vivid explain obey rain wood pause lumber";

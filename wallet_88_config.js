@@ -1,1 +1,1 @@
-var mnemonic = "draft blouse slush cabin trash elder ensure check question thunder tomorrow identify";
+var mnemonic = "drill hand discover cherry alter focus body famous hurdle bid couple avoid";

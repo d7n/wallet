@@ -1,1 +1,1 @@
-var mnemonic = "shine soul mandate medal sheriff feature lady funny permit swarm auction crucial";
+var mnemonic = "gloom urban office runway retire short cabin cloud ball derive kite actual";

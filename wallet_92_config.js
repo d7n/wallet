@@ -1,1 +1,1 @@
-var mnemonic = "govern edit smoke myself salon security apple town erupt jazz pony fiscal";
+var mnemonic = "awful knife photo athlete circle harbor suspect stem poem love benefit cream";

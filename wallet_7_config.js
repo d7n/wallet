@@ -1,1 +1,1 @@
-var mnemonic = "brick please marine daring hidden interest mail sign defense badge void chef";
+var mnemonic = "stamp employ now saddle narrow reopen orbit wreck scene off sense wealth";

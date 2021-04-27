@@ -1,1 +1,1 @@
-var mnemonic = "evidence scan lyrics tiger crop absent wonder hip latin leopard cycle keep";
+var mnemonic = "bag jazz loyal aisle wasp you member drive venue model extra cost";

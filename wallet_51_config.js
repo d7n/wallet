@@ -1,1 +1,1 @@
-var mnemonic = "capable fever option decorate chimney valid grit try wealth damp illness deny";
+var mnemonic = "vital allow defy verb anxiety news carbon lazy width expect zero dolphin";

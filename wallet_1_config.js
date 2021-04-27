@@ -1,1 +1,1 @@
-var mnemonic = "solar custom paper discover hole fiscal rapid oven remain isolate rose journey";
+var mnemonic = "anxiety final normal vacuum file dirt elite question flower goddess powder surround";

@@ -1,1 +1,1 @@
-var mnemonic = "rotate gentle vague save agree clerk allow ethics shop busy result shoe";
+var mnemonic = "tilt race congress camera universe item oxygen tenant cherry deer jealous agent";

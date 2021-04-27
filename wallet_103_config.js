@@ -1,1 +1,1 @@
-var mnemonic = "vapor december model biology alert injury record wise ridge rival animal address";
+var mnemonic = "auto wave method quarter onion dress roast bullet claw leaf increase cloth";

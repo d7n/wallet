@@ -1,1 +1,1 @@
-var mnemonic = "ocean domain egg tank arena identify review ride mountain anger point badge";
+var mnemonic = "much champion vintage castle absorb believe roast shiver nose gold evoke depart";

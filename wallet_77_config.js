@@ -1,1 +1,1 @@
-var mnemonic = "force soda slide royal pelican about skate dune swap lend focus wealth";
+var mnemonic = "damage suffer spring half first please category move brown illegal slot liar";

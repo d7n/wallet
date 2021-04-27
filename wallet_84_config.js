@@ -1,1 +1,1 @@
-var mnemonic = "airport real knife hero visual snow nurse club bomb mirror bubble skirt";
+var mnemonic = "isolate blame jungle parent decrease consider response below dirt crucial fluid slim";

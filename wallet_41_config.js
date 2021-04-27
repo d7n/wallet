@@ -1,1 +1,1 @@
-var mnemonic = "legend asset minute cable glow merge desk hundred bounce diesel ceiling various";
+var mnemonic = "pistol below among venture vanish toddler museum push demise public fiber curve";

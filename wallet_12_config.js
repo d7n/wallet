@@ -1,1 +1,1 @@
-var mnemonic = "ranch sting spawn token boy legend elephant viable quick smoke manage pudding";
+var mnemonic = "cave tell elevator bread kangaroo absurd online shadow true stand rent honey";

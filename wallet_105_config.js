@@ -1,1 +1,1 @@
-var mnemonic = "vacant chase pulp keen day cupboard sting before unhappy glass lab dose";
+var mnemonic = "trend lounge amateur bitter repeat police expire borrow joy old wall there";

@@ -1,1 +1,1 @@
-var mnemonic = "arrow great claw clinic iron diamond judge camera spread focus three chronic";
+var mnemonic = "rich tray vault music only squeeze nothing magnet truth unlock catch clump";

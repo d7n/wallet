@@ -1,1 +1,1 @@
-var mnemonic = "mimic harvest retreat wink skill snap lawsuit wink vote song direct wife";
+var mnemonic = "muscle screen amused lecture attitude stable output pitch mixture trap meat dinner";

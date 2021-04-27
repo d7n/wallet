@@ -1,1 +1,1 @@
-var mnemonic = "hood silk surge silver expire build table margin provide poem arrive rookie";
+var mnemonic = "voyage inside skin satisfy champion cupboard lawsuit tourist clinic shield like uniform";

@@ -1,1 +1,1 @@
-var mnemonic = "rival evolve cake pride clog slow member delay december upgrade whip extra";
+var mnemonic = "audit refuse ankle toy drink alley absorb suffer advance auto plate keep";

@@ -1,1 +1,1 @@
-var mnemonic = "upgrade misery grass mechanic wrap evoke ignore enhance bunker shield sponsor figure";
+var mnemonic = "like still behave earn picture mercy soldier brush fringe mango arrow network";

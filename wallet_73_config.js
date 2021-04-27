@@ -1,1 +1,1 @@
-var mnemonic = "pledge layer melt select solid tree cliff iron window bulb key soap";
+var mnemonic = "simple mango episode expect gauge figure just wire end certain dial feel";

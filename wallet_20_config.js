@@ -1,1 +1,1 @@
-var mnemonic = "plate indicate sick trick social code erosion connect cat such gather favorite";
+var mnemonic = "fall power pride person region quantum fence oval sand gaze noise improve";

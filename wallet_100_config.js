@@ -1,1 +1,1 @@
-var mnemonic = "motor album creek output clip kingdom become loop warrior awesome extra farm";
+var mnemonic = "immense universe rather crystal valley rule obscure sea acid step play state";

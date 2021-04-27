@@ -1,1 +1,1 @@
-var mnemonic = "neither essence pact offer shed cactus shaft opinion shift fresh collect bargain";
+var mnemonic = "method punch visual start canoe vapor token party bomb parade someone walnut";

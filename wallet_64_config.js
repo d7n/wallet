@@ -1,1 +1,1 @@
-var mnemonic = "gospel hen almost swamp raw bag ankle reject age vintage nation better";
+var mnemonic = "own tuition steel mask route gaze wagon box crush sponsor comic arena";

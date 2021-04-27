@@ -1,1 +1,1 @@
-var mnemonic = "figure when basket express bacon idle tip cluster luggage color borrow dance";
+var mnemonic = "matter cliff work plastic limit glare size during clerk wise occur rule";

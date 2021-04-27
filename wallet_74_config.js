@@ -1,1 +1,1 @@
-var mnemonic = "economy improve advance stem useless hope addict retire catch ribbon rather piece";
+var mnemonic = "sleep inner regret volume equip joy cherry sun confirm spawn fly together";

@@ -1,1 +1,1 @@
-var mnemonic = "relief curtain magic grain news fashion demise patient oppose sibling fat spoon";
+var mnemonic = "remind mad caution correct forget entry mind visual fly pupil between forward";

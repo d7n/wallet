@@ -1,1 +1,1 @@
-var mnemonic = "cost bar coil attract soda tissue artist settle marble wheel please ladder";
+var mnemonic = "when cloth buddy axis clerk stomach magnet penalty effort garage betray coffee";

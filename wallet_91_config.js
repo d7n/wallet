@@ -1,1 +1,1 @@
-var mnemonic = "morning seminar skin office suspect lesson vicious approve thing oven ability sea";
+var mnemonic = "monkey canal amateur poem ozone first foil avocado window unhappy drastic tube";

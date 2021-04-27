@@ -1,1 +1,1 @@
-var mnemonic = "cancel comfort concert rug proud cactus fashion stem dish clown ordinary vote";
+var mnemonic = "laptop wrestle wire pledge rare exit bamboo disorder easy inmate prevent village";

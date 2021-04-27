@@ -1,1 +1,1 @@
-var mnemonic = "avoid vintage sadness inch attitude knock wine today faith direct save guard";
+var mnemonic = "energy possible dish almost south alley rotate say run polar buffalo index";

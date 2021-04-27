@@ -1,1 +1,1 @@
-var mnemonic = "whip upgrade street enroll grace able universe syrup index flash kick vital";
+var mnemonic = "ball appear invite earn uncle dragon symptom depend bulk primary cradle song";

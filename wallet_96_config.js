@@ -1,1 +1,1 @@
-var mnemonic = "trash middle simple success predict laundry shoot know work divert jazz teach";
+var mnemonic = "comfort aim canvas team orient impose bird favorite swallow window hold stuff";

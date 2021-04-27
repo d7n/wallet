@@ -1,1 +1,1 @@
-var mnemonic = "fork cause abstract conduct diary salt pitch moon position spring educate clown";
+var mnemonic = "weasel risk verb shock win seven tunnel thing parent olympic coffee genuine";

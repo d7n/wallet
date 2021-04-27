@@ -1,1 +1,1 @@
-var mnemonic = "scale lunch year portion slow asthma explain cruel fold any stick light";
+var mnemonic = "pulp immune pilot denial infant educate absent icon spawn embark pilot immune";

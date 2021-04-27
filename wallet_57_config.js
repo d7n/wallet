@@ -1,1 +1,1 @@
-var mnemonic = "great crime afraid trumpet aunt derive vacuum what floor century daring frog";
+var mnemonic = "pulse tragic multiply uncover nominee orphan riot enforce trend leopard expand cart";

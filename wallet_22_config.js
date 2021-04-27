@@ -1,1 +1,1 @@
-var mnemonic = "habit average hour stadium powder envelope humor chef level tool measure cube";
+var mnemonic = "screen palace abuse crush morning say dizzy save crazy ivory buddy medal";

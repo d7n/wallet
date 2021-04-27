@@ -1,1 +1,1 @@
-var mnemonic = "vanish scorpion sing claw planet antenna neutral clerk solution about social poet";
+var mnemonic = "toilet immune proud scheme oak alcohol lend rather heart fantasy lumber demise";
