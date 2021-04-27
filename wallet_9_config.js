@@ -1,1 +1,1 @@
-var mnemonic = "swallow idea voice license walk leg gravity lottery obey dignity laugh pizza";
+var mnemonic = "wrist peasant task nothing ball soul already lawn arrive pool noise ride";

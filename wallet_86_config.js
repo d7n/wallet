@@ -1,1 +1,1 @@
-var mnemonic = "drink style expect execute crucial dignity birth venture print tone tomorrow fire";
+var mnemonic = "mansion street very father frog ivory isolate couple burden leave meadow year";

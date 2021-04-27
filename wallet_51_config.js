@@ -1,1 +1,1 @@
-var mnemonic = "divert cactus repair milk laptop reunion select spice clinic ugly cigar shoot";
+var mnemonic = "core sport sample accuse winter disagree tomorrow zebra salute soap animal clock";

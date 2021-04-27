@@ -1,1 +1,1 @@
-var mnemonic = "script afford cage jaguar brain armed blind glare curious during interest dance";
+var mnemonic = "build area wine rule spare stadium tail meat cradle direct bacon pumpkin";

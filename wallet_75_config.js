@@ -1,1 +1,1 @@
-var mnemonic = "shrimp inside sun planet price behave monster spring account disagree person transfer";
+var mnemonic = "win fringe draft catch law weird party cherry engage screen flat sand";

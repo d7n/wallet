@@ -1,1 +1,1 @@
-var mnemonic = "jump enroll fat ability palm swear acquire exotic people spot myth roof";
+var mnemonic = "tattoo alarm modify melody announce trend salute path guard three tired angle";

@@ -1,1 +1,1 @@
-var mnemonic = "calm few lady language swim black negative until maze option share enter";
+var mnemonic = "fetch april mention stable peasant cute math okay dignity consider cheese crack";

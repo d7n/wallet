@@ -1,1 +1,1 @@
-var mnemonic = "strategy shy flower best egg rocket width have brisk field struggle useless";
+var mnemonic = "ice estate zebra mutual rocket post below symbol girl unit abandon engine";

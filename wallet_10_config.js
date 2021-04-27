@@ -1,1 +1,1 @@
-var mnemonic = "mimic pencil index mutual shadow limit confirm soul behave critic castle quit";
+var mnemonic = "great acoustic exhaust enjoy cheese shoulder film hard badge arch claw height";

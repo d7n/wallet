@@ -1,1 +1,1 @@
-var mnemonic = "virtual ribbon sheriff song fold trim monitor sock couple pulse topple volume";
+var mnemonic = "animal beyond art book loop any hotel merit bamboo common reject canvas";

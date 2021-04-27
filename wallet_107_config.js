@@ -1,1 +1,1 @@
-var mnemonic = "blanket toward outer give square risk make history give pact floor crime";
+var mnemonic = "anchor struggle venue top ginger brother upper virus viable square convince pole";

@@ -1,1 +1,1 @@
-var mnemonic = "trap isolate faculty skate level hint wide scale chunk asset about poem";
+var mnemonic = "side traffic girl girl green inner know control observe ride evolve frog";

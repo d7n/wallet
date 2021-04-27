@@ -1,1 +1,1 @@
-var mnemonic = "claw frame spike wise join electric shield dish claim luxury involve rather";
+var mnemonic = "engine enact clock gap flock alien social rookie glory walk error decide";

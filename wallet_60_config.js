@@ -1,1 +1,1 @@
-var mnemonic = "cart lesson board giant century arena orchard motor vivid eager country rescue";
+var mnemonic = "crash foil notable worth inject card wish arrest flag empty gravity spike";

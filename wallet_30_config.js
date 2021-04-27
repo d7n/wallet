@@ -1,1 +1,1 @@
-var mnemonic = "task pledge lava follow asset heavy shiver hard name bulk gift step";
+var mnemonic = "warm lawn rural round anchor problem daughter pact enroll rebuild stuff move";

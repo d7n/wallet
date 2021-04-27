@@ -1,1 +1,1 @@
-var mnemonic = "prevent sadness bleak club betray joy soup iron museum coffee engage gravity";
+var mnemonic = "island spike holiday van advance album outdoor script sustain firm learn balance";

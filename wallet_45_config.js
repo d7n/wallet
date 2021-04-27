@@ -1,1 +1,1 @@
-var mnemonic = "invest poem define tail dwarf silk book need exit myself resource when";
+var mnemonic = "color dolphin peanut label rapid soap dream sense search moment pioneer push";

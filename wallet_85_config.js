@@ -1,1 +1,1 @@
-var mnemonic = "seminar invest grain air bread accident pledge predict ticket happy someone correct";
+var mnemonic = "term flavor combine struggle call open host cat duty scare hover venture";

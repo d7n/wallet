@@ -1,1 +1,1 @@
-var mnemonic = "advance siege amused arrow settle spy memory trouble chaos drill coil unique";
+var mnemonic = "goose bus display dream consider spread odor pond neglect minute rude pattern";

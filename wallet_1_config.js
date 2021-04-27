@@ -1,1 +1,1 @@
-var mnemonic = "inch lonely expand pole stay dirt topic cushion blouse distance sound two";
+var mnemonic = "drop settle seven vast lecture jealous hospital risk step fame trip maze";

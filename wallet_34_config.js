@@ -1,1 +1,1 @@
-var mnemonic = "among master tone open blush amateur sword april history blossom alarm popular";
+var mnemonic = "dune ship turkey comfort bargain tail expand penalty news decorate flip gaze";

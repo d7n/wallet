@@ -1,1 +1,1 @@
-var mnemonic = "good slide advance promote van annual control multiply wine brain jelly merge";
+var mnemonic = "kite reflect high oxygen card always orchard hollow learn ladder hub hurry";

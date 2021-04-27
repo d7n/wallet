@@ -1,1 +1,1 @@
-var mnemonic = "opera pledge farm oyster gun actor tray guitar attend spoil appear mask";
+var mnemonic = "pool pretty digital zero fringe heavy garage video vault inner ivory guide";

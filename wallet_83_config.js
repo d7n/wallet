@@ -1,1 +1,1 @@
-var mnemonic = "coin snap eyebrow slim engage still film castle blur belt battle copper";
+var mnemonic = "nothing erase trial hero actor give close similar cause toss dutch glue";

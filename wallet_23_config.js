@@ -1,1 +1,1 @@
-var mnemonic = "lady involve apple matrix invite glow desert pigeon blast wreck crawl blame";
+var mnemonic = "fossil wrist eye betray gloom dirt talk liberty lyrics electric material possible";

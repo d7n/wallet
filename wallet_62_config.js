@@ -1,1 +1,1 @@
-var mnemonic = "march observe zone dream explain run pottery balance suspect hunt orange economy";
+var mnemonic = "ridge desk unfold table pledge company govern swing tennis oval metal subway";

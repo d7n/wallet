@@ -1,1 +1,1 @@
-var mnemonic = "become clean embark frost foster price vintage genre water garden gain tank";
+var mnemonic = "floor amount romance ankle peanut country absent blur echo then this course";

@@ -1,1 +1,1 @@
-var mnemonic = "wait episode moon blouse muffin intact wood stay inch law famous window";
+var mnemonic = "effort vocal enter balance city typical copper giggle nest crystal remind industry";

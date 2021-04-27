@@ -1,1 +1,1 @@
-var mnemonic = "vicious nothing erode own hedgehog giant ahead kind unfold cabbage rocket keep";
+var mnemonic = "chapter six receive baby over wisdom nose front barrel grow earn core";

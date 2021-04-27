@@ -1,1 +1,1 @@
-var mnemonic = "fiction agent poem hidden culture pride error sugar caution outside antique lottery";
+var mnemonic = "nation bleak notable salad win shoe old evolve cycle price unit toast";

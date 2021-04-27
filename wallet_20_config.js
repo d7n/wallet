@@ -1,1 +1,1 @@
-var mnemonic = "video call trip also dial chair stick layer prize coach hero depth";
+var mnemonic = "educate typical exhaust spread salute park present slight middle lab blossom enough";

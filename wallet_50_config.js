@@ -1,1 +1,1 @@
-var mnemonic = "sustain inside public trial size lend senior nominee harbor swim knock polar";
+var mnemonic = "scrub cushion sorry useful garlic damp edge virus farm weird coin render";

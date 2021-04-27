@@ -1,1 +1,1 @@
-var mnemonic = "design treat hope cry use quick hope clap frown lottery dilemma sponsor";
+var mnemonic = "elegant vocal setup soccer below tornado matter enjoy oppose rich asset arrow";

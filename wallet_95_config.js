@@ -1,1 +1,1 @@
-var mnemonic = "dismiss dwarf around wet park input empower gap human solution option word";
+var mnemonic = "junk stock glue fall ginger apology meat quarter fringe hope rifle regret";

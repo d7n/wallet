@@ -1,1 +1,1 @@
-var mnemonic = "know rally junk bamboo noise shadow kangaroo injury midnight consider timber seat";
+var mnemonic = "devote melody hybrid tomorrow gaze armor cluster extend guitar museum twin boss";

@@ -1,1 +1,1 @@
-var mnemonic = "test arctic subject trigger auto put give antique immense layer dwarf bargain";
+var mnemonic = "yard game age input toe decide earth shrimp river supply employ caught";

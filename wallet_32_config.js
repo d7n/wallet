@@ -1,1 +1,1 @@
-var mnemonic = "vintage talk endorse surround beach unit slam sentence bottom coffee bring diagram";
+var mnemonic = "future short rice sight chef start need sand payment build edge chicken";

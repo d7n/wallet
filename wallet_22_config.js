@@ -1,1 +1,1 @@
-var mnemonic = "leopard giggle plug solid cigar defense badge random project balance submit history";
+var mnemonic = "sponsor satisfy lava vault knife lamp reopen consider chicken true file grit";

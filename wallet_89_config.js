@@ -1,1 +1,1 @@
-var mnemonic = "account punch stem spider snow aisle logic salmon man uncover describe catalog";
+var mnemonic = "donate curious ski wide derive apology person truth surface host coast resemble";

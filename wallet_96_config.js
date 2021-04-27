@@ -1,1 +1,1 @@
-var mnemonic = "crystal spend come kidney laptop total have title link level elephant puzzle";
+var mnemonic = "random coil obtain faith siege thank aspect museum phone near tone impose";

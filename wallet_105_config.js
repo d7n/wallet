@@ -1,1 +1,1 @@
-var mnemonic = "mammal hazard slice mirror island shiver attend motor great clap wrist slam";
+var mnemonic = "gather husband winner swallow top secret artist chronic science prefer mountain dignity";

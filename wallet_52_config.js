@@ -1,1 +1,1 @@
-var mnemonic = "mixed company sponsor kind print cancel often elegant van foot service join";
+var mnemonic = "crack noodle slice wisdom hold box artefact bronze train august sleep addict";

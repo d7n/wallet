@@ -1,1 +1,1 @@
-var mnemonic = "fresh salon kind pottery script prevent together fever spirit junior beach ugly";
+var mnemonic = "diesel six army satoshi absurd army dice warm roof phrase cabbage renew";

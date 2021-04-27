@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow fork police relief claw nature picture choose cream upper winter loud";
+var mnemonic = "way relief tent beach clap exercise poverty country angle wood eternal spoon";

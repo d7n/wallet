@@ -1,1 +1,1 @@
-var mnemonic = "someone acid where vacant warrior pen replace future private segment turtle water";
+var mnemonic = "swap gentle lonely imitate journey mix gap parrot ketchup ignore upset sibling";

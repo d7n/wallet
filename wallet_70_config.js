@@ -1,1 +1,1 @@
-var mnemonic = "fame sand title total pull outdoor forward wash token tattoo north rule";
+var mnemonic = "sentence swamp dune giant that debris plastic charge decline ozone erupt toward";

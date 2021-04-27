@@ -1,1 +1,1 @@
-var mnemonic = "thought little welcome absent wink ethics total long slam egg pencil question";
+var mnemonic = "mercy liar false erosion direct project boy slight blouse youth engine primary";

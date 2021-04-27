@@ -1,1 +1,1 @@
-var mnemonic = "ugly rapid ring goat giggle claw skull phrase foster stadium album same";
+var mnemonic = "length valid swing frame trade album time pistol repeat carbon neck raw";

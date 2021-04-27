@@ -1,1 +1,1 @@
-var mnemonic = "smooth mean tissue agree play polar observe build pistol boy myth put";
+var mnemonic = "roast industry victory sing hidden assume pet age easily second major intact";

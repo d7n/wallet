@@ -1,1 +1,1 @@
-var mnemonic = "pulse attend gorilla vast abuse tomato expire sign area long carbon surface";
+var mnemonic = "gallery room vacant rally solar rent dismiss buffalo left near twist much";

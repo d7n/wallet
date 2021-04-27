@@ -1,1 +1,1 @@
-var mnemonic = "glare shoulder girl mirror much fragile color change income demise clever few";
+var mnemonic = "amateur gain pyramid tennis deputy switch until velvet kitchen tonight twelve acid";

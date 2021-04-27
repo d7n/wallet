@@ -1,1 +1,1 @@
-var mnemonic = "shoot shove local bid click animal praise oppose ginger rookie noodle avocado";
+var mnemonic = "dinner logic tumble tag enlist life toddler filter minor okay swap position";

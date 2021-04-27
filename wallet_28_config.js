@@ -1,1 +1,1 @@
-var mnemonic = "swear sail elephant quote elder opera jealous black mango route repair fringe";
+var mnemonic = "heavy town message coil cover text horn fashion fine very grid lock";

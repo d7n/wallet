@@ -1,1 +1,1 @@
-var mnemonic = "busy screen firm lend crime high since title elegant easily coach huge";
+var mnemonic = "hole fork direct trick trumpet desert oppose dry bargain deputy stomach viable";

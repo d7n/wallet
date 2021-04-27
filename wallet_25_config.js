@@ -1,1 +1,1 @@
-var mnemonic = "buzz hope soccer cycle bomb frame home vintage orient hungry sound nephew";
+var mnemonic = "cargo object cross miss cream rebel host cloud copy slice path spray";

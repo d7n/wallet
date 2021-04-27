@@ -1,1 +1,1 @@
-var mnemonic = "flee pigeon tourist sure crack bitter obtain local ignore account pet afraid";
+var mnemonic = "more kiss ahead taxi plug bridge stable aim orient science celery mixture";

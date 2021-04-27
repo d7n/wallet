@@ -1,1 +1,1 @@
-var mnemonic = "culture impose that boat mouse camera fragile planet ozone this gallery picture";
+var mnemonic = "half exchange hire device push tenant benefit today cake outdoor uncle believe";

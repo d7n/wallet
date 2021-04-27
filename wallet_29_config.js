@@ -1,1 +1,1 @@
-var mnemonic = "road warfare cabbage mistake video ramp tuna census top scrap roast penalty";
+var mnemonic = "rug napkin ridge senior craft hospital step tomato clutch police mansion crop";

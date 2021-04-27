@@ -1,1 +1,1 @@
-var mnemonic = "attract purity faculty angle animal feature disease visual grape bracket minimum search";
+var mnemonic = "satisfy point verb indoor sausage clever sheriff reunion swarm already require unusual";

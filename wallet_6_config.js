@@ -1,1 +1,1 @@
-var mnemonic = "castle outside must yellow work hurry work judge twelve dust utility change";
+var mnemonic = "wheat mule analyst cost orient elite attitude once client put decade harbor";

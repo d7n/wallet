@@ -1,1 +1,1 @@
-var mnemonic = "weekend evolve choice strategy bring battle divorce dismiss immune circle ensure alarm";
+var mnemonic = "setup calm inmate fossil tattoo visual devote bridge wreck online ceiling drive";

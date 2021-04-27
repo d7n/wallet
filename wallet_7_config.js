@@ -1,1 +1,1 @@
-var mnemonic = "frown breeze gesture ticket earn raccoon rubber strike control loan neutral elegant";
+var mnemonic = "praise sweet hub patch gorilla success net ranch title derive innocent frog";

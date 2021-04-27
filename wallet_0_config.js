@@ -1,1 +1,1 @@
-var mnemonic = "duck scan bone foster limb program private dash wonder plug shift clerk";
+var mnemonic = "jewel match infant describe verify news now diary annual drink market old";

@@ -1,1 +1,1 @@
-var mnemonic = "symbol vital shop connect initial aware master glass live tongue author fancy";
+var mnemonic = "transfer famous goose never orange gentle globe outdoor wheel come tobacco margin";

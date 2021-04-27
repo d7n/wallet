@@ -1,1 +1,1 @@
-var mnemonic = "pig weapon rule moment other bridge noise clump excess wire group olive";
+var mnemonic = "camp feel job slab quote online wise start injury casual own pizza";

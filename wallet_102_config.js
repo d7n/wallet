@@ -1,1 +1,1 @@
-var mnemonic = "member network rib comic inherit town diet oblige type okay napkin zoo";
+var mnemonic = "wall staff gate give diamond pluck ship glide canyon pattern race keep";

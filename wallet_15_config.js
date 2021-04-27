@@ -1,1 +1,1 @@
-var mnemonic = "fiction use smile autumn demise hurry early valid identify virtual stadium bus";
+var mnemonic = "tiger leaf symptom brisk bunker tuition debris useless attack mirror rude glory";

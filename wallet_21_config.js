@@ -1,1 +1,1 @@
-var mnemonic = "hawk attract render exile grow manual draw point before admit horse salmon";
+var mnemonic = "face legal equal energy ketchup into exercise main fold awful potato village";

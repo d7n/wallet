@@ -1,1 +1,1 @@
-var mnemonic = "crumble spider dizzy frog grain modify sphere bleak monster true come wood";
+var mnemonic = "fire entry minimum teach primary bamboo sleep beach dad loud cricket tiger";

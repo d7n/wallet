@@ -1,1 +1,1 @@
-var mnemonic = "salute uphold satoshi become ramp final gold sand bike grief push easy";
+var mnemonic = "upset ten gossip pony crush voyage essence blame pottery retire meat profit";

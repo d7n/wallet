@@ -1,1 +1,1 @@
-var mnemonic = "clip useful ignore gossip board sniff scatter movie finger insect market soon";
+var mnemonic = "test border youth spread type pledge receive pyramid flat eternal want gospel";

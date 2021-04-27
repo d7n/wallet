@@ -1,1 +1,1 @@
-var mnemonic = "dance force bronze service give ecology start crumble salt pair view future";
+var mnemonic = "decide pair rug anger aisle magic snack exclude damage noodle evil subway";

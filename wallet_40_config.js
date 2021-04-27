@@ -1,1 +1,1 @@
-var mnemonic = "exercise peace pact timber check tuna nephew century sell basket you fault";
+var mnemonic = "beef nephew glass habit volume sister galaxy crumble put outside magic pottery";

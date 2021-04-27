@@ -1,1 +1,1 @@
-var mnemonic = "salad pencil whip menu clay liberty angle delay seminar estate lunch mule";
+var mnemonic = "ready ignore oil envelope solve happy urban action sustain heart supreme desk";

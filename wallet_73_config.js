@@ -1,1 +1,1 @@
-var mnemonic = "crisp index office explain element asthma kit slam pulse pattern employ buffalo";
+var mnemonic = "amount avoid relief saddle runway pattern early income twist gap pencil orbit";

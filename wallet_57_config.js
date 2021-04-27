@@ -1,1 +1,1 @@
-var mnemonic = "popular armor camera climb upper mango doll disease gasp tired select cushion";
+var mnemonic = "sketch cause describe humble catch outside huge author urge much forward destroy";

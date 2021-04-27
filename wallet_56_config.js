@@ -1,1 +1,1 @@
-var mnemonic = "elder polar cliff embrace trick hover snack pluck flame maple reveal opera";
+var mnemonic = "surround engine exit gospel forget possible expand sell range cook dynamic crunch";

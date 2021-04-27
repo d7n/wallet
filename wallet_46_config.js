@@ -1,1 +1,1 @@
-var mnemonic = "maximum shallow imitate strike finish afraid fashion scare universe ostrich refuse palace";
+var mnemonic = "carpet ramp cement major wife among habit cook can output clump wall";

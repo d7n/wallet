@@ -1,1 +1,1 @@
-var mnemonic = "group circle badge enemy gossip parrot upper tenant ten frost alarm salon";
+var mnemonic = "filter prize moment pioneer need talk repeat horror ring police obtain stamp";

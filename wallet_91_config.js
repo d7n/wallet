@@ -1,1 +1,1 @@
-var mnemonic = "brick rate medal inhale giggle tonight bronze network ski time utility penalty";
+var mnemonic = "bind stumble simple exhibit shine solve color boring dish inmate era range";

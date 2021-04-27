@@ -1,1 +1,1 @@
-var mnemonic = "luxury embody december mass punch session flock extra hour safe mango enable";
+var mnemonic = "chalk grape excess unveil screen rescue sense science void repair purchase seminar";

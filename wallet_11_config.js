@@ -1,1 +1,1 @@
-var mnemonic = "cost tuition village shallow bullet embrace grace bitter amused ozone van couch";
+var mnemonic = "exercise medal win off piece enrich exotic movie prepare amused taste light";

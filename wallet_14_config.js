@@ -1,1 +1,1 @@
-var mnemonic = "fringe lumber unveil army brush absurd access worry negative stamp nose bench";
+var mnemonic = "okay purity giggle wool host autumn tool grass exist secret wish what";

@@ -1,1 +1,1 @@
-var mnemonic = "winner picture write state frame gas police paper vapor vivid van steel";
+var mnemonic = "jelly someone mechanic north phone health tumble side north fade appear couple";

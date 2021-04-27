@@ -1,1 +1,1 @@
-var mnemonic = "cabin stable focus ring elder regret present hazard ethics junk half abstract";
+var mnemonic = "hero response helmet pilot broken field later dance general west prevent cargo";

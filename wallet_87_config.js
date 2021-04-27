@@ -1,1 +1,1 @@
-var mnemonic = "cereal armed flee organ wash long purchase offer mutual mushroom outer elegant";
+var mnemonic = "potato approve monkey chase tobacco pride attack engage supreme state crazy mixture";

@@ -1,1 +1,1 @@
-var mnemonic = "suffer unaware august wheat useful act frown will urban pencil lion pear";
+var mnemonic = "cupboard kangaroo access under oblige advice zoo enhance car outside glimpse become";

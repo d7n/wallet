@@ -1,1 +1,1 @@
-var mnemonic = "wheat later visit sustain image base divide blanket tilt clerk know neutral";
+var mnemonic = "picnic song service topple display physical humor mix pony guess scout minute";

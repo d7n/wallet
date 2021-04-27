@@ -1,1 +1,1 @@
-var mnemonic = "answer stool profit clown credit muscle tunnel slender hidden scout second door";
+var mnemonic = "choose right honey jelly faith material jungle spike enact lion episode pill";

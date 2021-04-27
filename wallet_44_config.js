@@ -1,1 +1,1 @@
-var mnemonic = "mandate chicken eternal patch dry silly spring loyal file behave shuffle gorilla";
+var mnemonic = "equal fruit pledge climb pencil rabbit village math tuition rally embark install";

@@ -1,1 +1,1 @@
-var mnemonic = "action round dentist festival diesel open sadness dad maple lion initial receive";
+var mnemonic = "turkey marble report lady hidden naive inhale tunnel shoulder apology quality give";

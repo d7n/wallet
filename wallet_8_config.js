@@ -1,1 +1,1 @@
-var mnemonic = "fun tag unlock gather winner fetch wrist pause inform bird actor feature";
+var mnemonic = "bicycle dress leader aware clump panther cigar accuse evil rural fence senior";

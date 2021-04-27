@@ -1,1 +1,1 @@
-var mnemonic = "deer curtain retreat various pioneer ice stable identify attend mix census harbor";
+var mnemonic = "sting shed minor cook shoe require bird kitchen rule fall shove observe";

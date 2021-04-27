@@ -1,1 +1,1 @@
-var mnemonic = "wave rabbit betray airport talk diagram glory flavor spoon tuna fault filter";
+var mnemonic = "soldier wheat crime bid unusual vintage cover dream blouse public cactus note";
