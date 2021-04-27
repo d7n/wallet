@@ -1,1 +1,1 @@
-var mnemonic = "avoid remind bulb snap dress clean symbol local inspire poverty debate wire";
+var mnemonic = "walk vote pride image candy rabbit top pottery cruise stage mimic proof";

@@ -1,1 +1,1 @@
-var mnemonic = "name slab banana duck rack curious female welcome regret reason bacon limb";
+var mnemonic = "approve cat fruit alley garbage shop wood photo gold obtain water lunar";

@@ -1,1 +1,1 @@
-var mnemonic = "task image brush verify inform fragile nose weekend lab report syrup fluid";
+var mnemonic = "language phrase choice whip advance submit angle fan mystery exit ask apart";

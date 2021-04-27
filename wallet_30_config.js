@@ -1,1 +1,1 @@
-var mnemonic = "police swim loan walk session mosquito embark match wet super beauty daring";
+var mnemonic = "crash jealous february forest bachelor junk shoulder work reform nephew method wealth";

@@ -1,1 +1,1 @@
-var mnemonic = "few joy nest culture swamp garbage flag range caution answer mention live";
+var mnemonic = "limb valid pink unhappy female follow beef bread twenty bitter carbon alley";

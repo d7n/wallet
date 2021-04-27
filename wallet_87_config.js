@@ -1,1 +1,1 @@
-var mnemonic = "normal inflict gather suffer abandon machine one damp audit physical message rookie";
+var mnemonic = "sense mansion eyebrow nose angle over clutch common hope sun chief silk";

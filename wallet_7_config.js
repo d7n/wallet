@@ -1,1 +1,1 @@
-var mnemonic = "neglect drink dumb worry company onion ready wrist magnet lucky elegant dumb";
+var mnemonic = "nephew high project goose crash oxygen identify arena quantum jazz split minimum";

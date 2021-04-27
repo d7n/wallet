@@ -1,1 +1,1 @@
-var mnemonic = "girl narrow fly two portion bottom regular bleak worry ocean tower pass";
+var mnemonic = "choice tag ahead boss bacon bronze found neglect veteran ketchup genuine sustain";

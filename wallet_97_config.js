@@ -1,1 +1,1 @@
-var mnemonic = "kick this town great jungle track climb six lens slam need special";
+var mnemonic = "green stomach decline depart ceiling setup crime load belt play warfare program";

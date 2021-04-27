@@ -1,1 +1,1 @@
-var mnemonic = "earth butter young ahead jelly number hotel toe fat pizza away exchange";
+var mnemonic = "list beauty unaware laundry opera hobby short real room salon raw reform";

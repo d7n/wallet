@@ -1,1 +1,1 @@
-var mnemonic = "glory engage genre siren sauce item resist resource own science staff speed";
+var mnemonic = "width calm brown mix viable retire shuffle genuine merge merit clarify enrich";

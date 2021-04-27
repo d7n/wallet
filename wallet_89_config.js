@@ -1,1 +1,1 @@
-var mnemonic = "hire type witness achieve wrestle cheese push cement kid buyer curtain note";
+var mnemonic = "crystal source crash sock rival tube tray lobster sponsor boil main alarm";

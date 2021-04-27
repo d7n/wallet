@@ -1,1 +1,1 @@
-var mnemonic = "beauty fix bracket want acquire grocery point antenna bacon rebel scheme glove";
+var mnemonic = "detail depth scene super ritual lounge verb fatigue steel dog switch bring";

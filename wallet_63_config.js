@@ -1,1 +1,1 @@
-var mnemonic = "hurry mesh cart room action kind dove close ancient entire boat fantasy";
+var mnemonic = "dog anger bread visit pear health together question dune light stone urban";

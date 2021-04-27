@@ -1,1 +1,1 @@
-var mnemonic = "step prevent awful dish solar catalog robust cable assist smart chicken yard";
+var mnemonic = "fortune peace warm odor fury rotate castle diagram ramp good reflect tourist";

@@ -1,1 +1,1 @@
-var mnemonic = "sand elegant truck unfold finger priority congress execute twist member despair earth";
+var mnemonic = "lucky relax what kidney endless noise road confirm disease urban height warrior";

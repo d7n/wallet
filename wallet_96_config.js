@@ -1,1 +1,1 @@
-var mnemonic = "road survey luxury foil resource fit absent slam survey era blush indicate";
+var mnemonic = "choose forget upon chapter runway sport primary pole web easy play harsh";

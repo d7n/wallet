@@ -1,1 +1,1 @@
-var mnemonic = "scorpion dog hole involve trouble alien negative rice broom scorpion bitter search";
+var mnemonic = "bottom crumble young canoe essence avocado network pulse tiny festival pause frozen";

@@ -1,1 +1,1 @@
-var mnemonic = "carry jar meat kingdom ride portion inmate harsh indoor jaguar patient define";
+var mnemonic = "race old rotate cherry vendor true grocery range owner valley charge discover";

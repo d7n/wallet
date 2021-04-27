@@ -1,1 +1,1 @@
-var mnemonic = "orchard winter trade sing vehicle express praise word term window goddess talk";
+var mnemonic = "visit achieve accuse flag card song immense weekend fuel benefit scrub move";

@@ -1,1 +1,1 @@
-var mnemonic = "orphan flag prevent tunnel point finish repair donor defense raccoon rice vague";
+var mnemonic = "lift feature matter virus length alarm dad later embrace follow universe hair";

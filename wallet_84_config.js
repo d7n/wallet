@@ -1,1 +1,1 @@
-var mnemonic = "evidence valley steel limit ocean mesh avocado monster tortoise dolphin inside render";
+var mnemonic = "dolphin silly diary enable power rocket drink curtain rack patient virtual deliver";

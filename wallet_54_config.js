@@ -1,1 +1,1 @@
-var mnemonic = "unknown glory wing leg drive fan tortoise ivory army false actress skull";
+var mnemonic = "long problem analyst strong toast street actual card canvas learn whale abuse";

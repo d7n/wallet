@@ -1,1 +1,1 @@
-var mnemonic = "swap couch wasp ethics magic salt clean number imitate goat female equal";
+var mnemonic = "pluck battle spike cool arm below note question clay wish until fall";

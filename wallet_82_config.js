@@ -1,1 +1,1 @@
-var mnemonic = "pyramid gate middle pen sudden oven humble saddle uphold rug surge anchor";
+var mnemonic = "achieve museum attack pilot galaxy notice arm wine connect amount desk wink";

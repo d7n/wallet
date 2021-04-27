@@ -1,1 +1,1 @@
-var mnemonic = "tiny cherry brave swing bonus insect snack power right funny brush grape";
+var mnemonic = "remove warfare mirror noodle deny beauty call turkey ride nerve outside good";

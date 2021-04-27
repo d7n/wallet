@@ -1,1 +1,1 @@
-var mnemonic = "distance option cycle police clerk pyramid dynamic sauce imitate program achieve disagree";
+var mnemonic = "priority yard drift pair matter unique poet reunion price cliff enroll index";

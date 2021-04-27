@@ -1,1 +1,1 @@
-var mnemonic = "zero banner damage clean kind parent hello ill grocery wise salon verb";
+var mnemonic = "boring arctic question guard festival hope unlock describe ability wool often power";

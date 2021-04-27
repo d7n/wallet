@@ -1,1 +1,1 @@
-var mnemonic = "ocean voyage shoulder lemon crawl space private pledge domain auto first subway";
+var mnemonic = "rural tattoo valley impulse practice frame message quiz weather current where silver";

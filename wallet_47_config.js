@@ -1,1 +1,1 @@
-var mnemonic = "night inject prize hedgehog kind region swamp fire jelly spawn twice home";
+var mnemonic = "dentist minimum tail caution ramp extend electric fade bamboo best hidden scissors";

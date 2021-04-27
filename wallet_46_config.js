@@ -1,1 +1,1 @@
-var mnemonic = "junk fossil negative must napkin column mirror control health erosion planet seven";
+var mnemonic = "regret neither please pony addict truth soda fan north isolate cross goddess";

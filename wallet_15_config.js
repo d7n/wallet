@@ -1,1 +1,1 @@
-var mnemonic = "seven squeeze area ranch mirror december garden sunset paddle already tide shoe";
+var mnemonic = "used satoshi rival anxiety kick fold sphere position answer base easy together";

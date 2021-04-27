@@ -1,1 +1,1 @@
-var mnemonic = "fatigue hair tongue wheat street step survey organ settle inform ignore dragon";
+var mnemonic = "prison satoshi flock traffic mutual devote program lava second want only dove";

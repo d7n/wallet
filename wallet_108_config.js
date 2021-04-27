@@ -1,1 +1,1 @@
-var mnemonic = "celery rose flee hurt model outdoor shoulder nut space muffin ticket two";
+var mnemonic = "autumn foster mixed staff settle advance apple frequent poet dad legend blame";

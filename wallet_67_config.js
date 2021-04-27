@@ -1,1 +1,1 @@
-var mnemonic = "shoe harbor apology suffer staff sport dust play leg stereo tide garbage";
+var mnemonic = "opinion route edit oppose what napkin mind conduct dry dolphin awkward hammer";

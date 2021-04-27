@@ -1,1 +1,1 @@
-var mnemonic = "toward guess print lobster flavor desk reopen hurdle job health immense hospital";
+var mnemonic = "cluster will phrase spin army crater raccoon agree future idle fee razor";

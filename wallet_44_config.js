@@ -1,1 +1,1 @@
-var mnemonic = "learn invest process smoke pool twice enhance region reopen unique room bubble";
+var mnemonic = "close drama hurt bomb edge clown pudding pudding vocal hand churn trumpet";

@@ -1,1 +1,1 @@
-var mnemonic = "cactus among imitate solution slight discover horror disorder foster blame canoe short";
+var mnemonic = "only aisle carpet car region adjust change quiz hundred cloud group game";

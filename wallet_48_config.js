@@ -1,1 +1,1 @@
-var mnemonic = "quarter trophy volume engine kite combine control spin team best walnut future";
+var mnemonic = "quit drill credit transfer robot cave rookie filter choose dinosaur version scissors";

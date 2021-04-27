@@ -1,1 +1,1 @@
-var mnemonic = "learn spring jealous engine vehicle wild chaos fine purse bag ozone junk";
+var mnemonic = "release verb wheel fantasy spot toilet dune toy provide glue armed since";

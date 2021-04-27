@@ -1,1 +1,1 @@
-var mnemonic = "word loop busy female method mountain wool mixed gallery promote million vacant";
+var mnemonic = "reunion message cable fury gospel goose arrange symbol spot dolphin topple conduct";

@@ -1,1 +1,1 @@
-var mnemonic = "chief extend dice prison disagree violin cattle debris earth you situate base";
+var mnemonic = "emerge jaguar furnace camp script bonus author tennis friend deposit place cream";

@@ -1,1 +1,1 @@
-var mnemonic = "duck vague ordinary cabbage swarm behave session unusual size solution lottery chunk";
+var mnemonic = "round impose kidney check romance swap finish essence control item ill relax";

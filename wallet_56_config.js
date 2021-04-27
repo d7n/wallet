@@ -1,1 +1,1 @@
-var mnemonic = "employ vendor vocal reject explain mobile turtle liar select lift idle frown";
+var mnemonic = "sibling property fluid chapter frame orient riot march bubble steel million wool";

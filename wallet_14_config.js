@@ -1,1 +1,1 @@
-var mnemonic = "rely general ivory baby usage legal tank clap door dune photo canoe";
+var mnemonic = "polar present dream thing capable cheap battle hire stock inquiry satisfy price";

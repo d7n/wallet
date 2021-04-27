@@ -1,1 +1,1 @@
-var mnemonic = "foil home damage address jungle actor poet asset creek quit game simple";
+var mnemonic = "sense paper destroy wrestle foil tonight music output plate spare asset popular";

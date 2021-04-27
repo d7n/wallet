@@ -1,1 +1,1 @@
-var mnemonic = "endless alert field area exclude better blade menu people cannon hurt inhale";
+var mnemonic = "wagon apart lizard perfect snake bullet square asthma interest humble rhythm alien";

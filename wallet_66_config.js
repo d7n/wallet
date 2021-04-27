@@ -1,1 +1,1 @@
-var mnemonic = "humble method diamond net glass cliff fetch secret army trick have interest";
+var mnemonic = "wash equip march pact rather what young this engage cause dynamic universe";

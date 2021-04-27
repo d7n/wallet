@@ -1,1 +1,1 @@
-var mnemonic = "admit noodle safe odor crush jazz sure stem defense erosion paddle aisle";
+var mnemonic = "camera parade blue luxury feature veteran hip glow benefit bomb cage delay";

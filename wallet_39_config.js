@@ -1,1 +1,1 @@
-var mnemonic = "gentle what bring ask program aim dog expand piano truck gun victory";
+var mnemonic = "kingdom caution grace since battle fan table divorce bench deliver jelly spy";

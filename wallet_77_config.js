@@ -1,1 +1,1 @@
-var mnemonic = "pepper unlock loop jealous reward foster obvious rebuild want cruel verify real";
+var mnemonic = "earth rotate mask alone icon field vicious anchor umbrella reveal vapor train";

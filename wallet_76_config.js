@@ -1,1 +1,1 @@
-var mnemonic = "auction forest unaware ethics cargo provide pill science place disorder tip sport";
+var mnemonic = "inner cheese meadow deny sleep bleak sign exotic exclude ceiling oblige whale";

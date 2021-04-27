@@ -1,1 +1,1 @@
-var mnemonic = "tree borrow sunset type denial edge afford tomorrow acid load love odor";
+var mnemonic = "ball hammer action nest access dutch wrist loyal input also museum keep";

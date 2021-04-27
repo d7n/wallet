@@ -1,1 +1,1 @@
-var mnemonic = "stumble defy remove world field screen jaguar finger setup child adjust pepper";
+var mnemonic = "toward novel eager ocean live flavor gate talk goat depth afford view";

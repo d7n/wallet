@@ -1,1 +1,1 @@
-var mnemonic = "busy render potato chuckle always donor vapor wagon inspire apart build crash";
+var mnemonic = "tilt alone mystery winner silent cruise another mercy lady claim wisdom august";

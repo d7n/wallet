@@ -1,1 +1,1 @@
-var mnemonic = "unveil pear brief arctic provide swamp jump company zebra notable property mean";
+var mnemonic = "this royal lady throw laptop casual dust trim maple rich concert toddler";

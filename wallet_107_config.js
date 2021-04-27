@@ -1,1 +1,1 @@
-var mnemonic = "begin apology dream mandate face office actor regret rail mask poem flash";
+var mnemonic = "useful bonus rough certain ridge project curious advice opinion similar patrol weird";

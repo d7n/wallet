@@ -1,1 +1,1 @@
-var mnemonic = "small sugar swing summer film february gas client observe book head feel";
+var mnemonic = "assume raise inflict auto slogan anchor solution cherry jaguar pilot bitter atom";

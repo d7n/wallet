@@ -1,1 +1,1 @@
-var mnemonic = "solid patient base relief wash pair push early flush slab badge distance";
+var mnemonic = "second usage improve rug dish gasp merry oxygen view popular street federal";

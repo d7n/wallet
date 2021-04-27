@@ -1,1 +1,1 @@
-var mnemonic = "cement robot hair together armed bring prize afraid embark screen clinic bonus";
+var mnemonic = "disease rapid still mail meat brief floor seminar fault law space grant";

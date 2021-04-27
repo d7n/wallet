@@ -1,1 +1,1 @@
-var mnemonic = "void episode stove hip aerobic acquire confirm myself memory auction document suffer";
+var mnemonic = "unit kick typical chunk rack bar coin jelly execute observe essence february";

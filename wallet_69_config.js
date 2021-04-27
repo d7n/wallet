@@ -1,1 +1,1 @@
-var mnemonic = "junk budget dove later join term aerobic coin fiber mixed echo sort";
+var mnemonic = "force easy extra return number season infant spider gift photo script toe";

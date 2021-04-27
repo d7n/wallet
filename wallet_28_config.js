@@ -1,1 +1,1 @@
-var mnemonic = "panel hedgehog beef solar know spoon divert test abstract crucial duck there";
+var mnemonic = "transfer story age already upper tail mule behave remind orchard jelly rent";

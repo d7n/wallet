@@ -1,1 +1,1 @@
-var mnemonic = "void million illness love bacon winter pilot palace hurry truck injury crush";
+var mnemonic = "elite cluster desert boost burden prize toy movie bike call boat original";

@@ -1,1 +1,1 @@
-var mnemonic = "gift close riot world code soccer runway suffer pulp globe hat again";
+var mnemonic = "engage swift you observe senior hobby explain shift liar skate message nation";

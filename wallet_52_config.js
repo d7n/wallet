@@ -1,1 +1,1 @@
-var mnemonic = "young what victory picture spell robot whisper foot author bulb very curious";
+var mnemonic = "jaguar foil shrug cinnamon autumn amazing buddy couple approve egg crater brother";

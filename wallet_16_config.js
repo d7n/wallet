@@ -1,1 +1,1 @@
-var mnemonic = "tennis country absent drama cherry onion vintage order rotate cattle lunch apology";
+var mnemonic = "physical upon search hospital level stand country forest palm skate thank library";

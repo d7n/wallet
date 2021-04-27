@@ -1,1 +1,1 @@
-var mnemonic = "wealth palace glide puzzle nurse monster nurse casino elite canal enjoy artefact";
+var mnemonic = "appear trade access truth permit team utility topic force cliff benefit hamster";

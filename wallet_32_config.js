@@ -1,1 +1,1 @@
-var mnemonic = "excess kite offer often thought lawsuit coil finish scorpion must fence paper";
+var mnemonic = "crowd jar grab float balance maximum romance heavy force alarm nasty weapon";

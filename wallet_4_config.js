@@ -1,1 +1,1 @@
-var mnemonic = "hood plug auction mandate legend hair ten depend infant detect fetch junk";
+var mnemonic = "saddle faculty cushion soon outside super private elevator fiction pull length normal";

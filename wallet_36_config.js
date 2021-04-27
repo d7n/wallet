@@ -1,1 +1,1 @@
-var mnemonic = "snap invest detail endless airport weasel renew depend push purse gap churn";
+var mnemonic = "urban dwarf jump skull ankle onion cash roast fringe creek expire approve";

@@ -1,1 +1,1 @@
-var mnemonic = "finger cool magnet column speed nose flip alert crucial task unique bus";
+var mnemonic = "siege prison swim slow result twist illegal february defy witness obscure pelican";

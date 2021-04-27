@@ -1,1 +1,1 @@
-var mnemonic = "bag science mobile chaos alley clown because buzz random laptop practice unfair";
+var mnemonic = "grass ribbon long sentence caught truck behind cram syrup payment grape thing";

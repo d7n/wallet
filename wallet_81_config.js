@@ -1,1 +1,1 @@
-var mnemonic = "alone eight tape fence patient topic pause long modify leaf cement giraffe";
+var mnemonic = "orange industry correct flavor car bracket license super erupt tank anger congress";

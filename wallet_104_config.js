@@ -1,1 +1,1 @@
-var mnemonic = "believe danger vault corn always hotel fire range donor bench film west";
+var mnemonic = "renew library arrow goddess green front change fury disease tail special salad";

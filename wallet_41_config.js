@@ -1,1 +1,1 @@
-var mnemonic = "claw theory public peace super unveil mother electric review feature siren kitchen";
+var mnemonic = "glance mirror throw village umbrella together city injury snap avoid half eight";

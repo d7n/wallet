@@ -1,1 +1,1 @@
-var mnemonic = "roast decorate omit cluster fee initial gasp beach math scatter amateur ecology";
+var mnemonic = "detect resemble erupt bless begin good quarter monkey casual snow document avoid";

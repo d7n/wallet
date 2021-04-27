@@ -1,1 +1,1 @@
-var mnemonic = "cream service middle govern name clinic opera alone talk erupt tone crash";
+var mnemonic = "discover deal senior certain purity sun atom glass boat student hobby suffer";

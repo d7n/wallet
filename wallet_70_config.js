@@ -1,1 +1,1 @@
-var mnemonic = "laundry enjoy orbit vanish park essence crazy injury tissue behave diagram online";
+var mnemonic = "axis mobile west correct eternal surprise inner about explain base depth wild";

@@ -1,1 +1,1 @@
-var mnemonic = "panther current economy harsh snake warfare marble inherit enact oblige dawn wait";
+var mnemonic = "oval evoke evil bitter arch total flock detail educate final inhale pair";

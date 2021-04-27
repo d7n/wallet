@@ -1,1 +1,1 @@
-var mnemonic = "swift flee olive tail matrix swift rookie tissue hub era property palace";
+var mnemonic = "detail negative buyer before spare glory excuse document season help depart decide";

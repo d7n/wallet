@@ -1,1 +1,1 @@
-var mnemonic = "gain income grocery life update toe update silly ghost spot venture session";
+var mnemonic = "diesel just asthma piano occur tiny radio frequent bounce define series tiny";

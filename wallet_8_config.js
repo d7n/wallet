@@ -1,1 +1,1 @@
-var mnemonic = "spoon direct crew book undo canal sense winter fit patrol rhythm talent";
+var mnemonic = "theory any rich three oppose scale recycle song royal slam civil pitch";
