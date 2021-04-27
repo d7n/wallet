@@ -1,1 +1,1 @@
-var mnemonic = "kiss topple list gym patrol ship stock faculty upon soul rocket produce";
+var mnemonic = "include toast creek length scrap two melody nice orient beyond misery enough";

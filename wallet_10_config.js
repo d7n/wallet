@@ -1,1 +1,1 @@
-var mnemonic = "liar rule visa diamond before hawk odor oppose reduce surprise motion alpha";
+var mnemonic = "daring fog embark caught rescue bless doll tree glow network emotion basket";

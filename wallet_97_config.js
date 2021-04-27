@@ -1,1 +1,1 @@
-var mnemonic = "burger impose sniff monkey purse panda million youth river tail deal march";
+var mnemonic = "chimney wish sugar pelican dream grab movie cake region erupt mansion uniform";

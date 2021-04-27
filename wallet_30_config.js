@@ -1,1 +1,1 @@
-var mnemonic = "ability million bonus scare choose vast pen cage vacant marine file display";
+var mnemonic = "apology cram upset marriage wheel program what family winter quit meadow sketch";

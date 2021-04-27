@@ -1,1 +1,1 @@
-var mnemonic = "afraid level monitor clap reflect equip trouble age option cupboard result panel";
+var mnemonic = "crew spring banana fluid walk system step virtual umbrella cart alert bread";

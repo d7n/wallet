@@ -1,1 +1,1 @@
-var mnemonic = "certain tissue bread foam must pear race artefact ritual riot alpha nothing";
+var mnemonic = "above joke clutch step evidence three bus era proof long clog voice";

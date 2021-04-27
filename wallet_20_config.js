@@ -1,1 +1,1 @@
-var mnemonic = "session juice border skill cost rice property acid climb protect loan lock";
+var mnemonic = "visit chuckle home shove still simple egg unique lava resemble about suit";

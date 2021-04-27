@@ -1,1 +1,1 @@
-var mnemonic = "during puppy pigeon stuff quote tone rain train oblige three repair pyramid";
+var mnemonic = "end skull cat awful good castle blouse pepper actress mixture grid believe";

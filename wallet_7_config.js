@@ -1,1 +1,1 @@
-var mnemonic = "slow awake column galaxy unhappy tonight food outdoor income consider disagree unusual";
+var mnemonic = "suit banner pave agree cinnamon pupil wine faith despair copy will when";

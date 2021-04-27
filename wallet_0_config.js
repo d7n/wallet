@@ -1,1 +1,1 @@
-var mnemonic = "tissue today rival basic bag throw desk mask blanket episode level tribe";
+var mnemonic = "disagree ritual trap black speak treat aspect pyramid sponsor dolphin place doll";

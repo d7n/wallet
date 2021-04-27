@@ -1,1 +1,1 @@
-var mnemonic = "tone build scene loop forward viable anger biology mirror marble whisper inquiry";
+var mnemonic = "bridge cake buffalo dial jazz beach topic sock axis skirt stool tone";

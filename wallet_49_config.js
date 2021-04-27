@@ -1,1 +1,1 @@
-var mnemonic = "timber neither small peasant supply inform any social fuel blind decide owner";
+var mnemonic = "neck rebel east illegal false middle essence easy attack warm screen document";

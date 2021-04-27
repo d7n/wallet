@@ -1,1 +1,1 @@
-var mnemonic = "similar topic nation test early ugly noise lazy festival quarter mule brown";
+var mnemonic = "sort dignity length warfare unusual dance ranch hat whale meadow hurt scheme";

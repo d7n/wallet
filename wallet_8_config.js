@@ -1,1 +1,1 @@
-var mnemonic = "glory stomach flavor tube resemble earth horror snake fitness grow behave angle";
+var mnemonic = "mutual strong depth village snack mail goose dash bus chunk birth awful";

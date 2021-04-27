@@ -1,1 +1,1 @@
-var mnemonic = "push kiss rich grain chunk slogan hello harbor admit hope inch grant";
+var mnemonic = "track option virtual chicken ability budget half mule throw review now sudden";

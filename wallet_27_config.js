@@ -1,1 +1,1 @@
-var mnemonic = "solid crush tube fiction clever unknown apology sock sun myself method journey";
+var mnemonic = "gesture pact flock double simple trumpet tank entire guilt wreck stem task";

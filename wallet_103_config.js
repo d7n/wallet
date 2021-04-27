@@ -1,1 +1,1 @@
-var mnemonic = "dumb diamond wealth curtain purpose review brick bunker play card economy sorry";
+var mnemonic = "ring clown practice material limb neutral title piece replace foster coach spread";

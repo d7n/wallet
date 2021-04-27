@@ -1,1 +1,1 @@
-var mnemonic = "spatial release pottery canal bike consider dry loop gauge hobby panther thought";
+var mnemonic = "play rice anger special maze face system slot glory merit shuffle middle";

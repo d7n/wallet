@@ -1,1 +1,1 @@
-var mnemonic = "fan basket rail floor garlic retreat camp turn rhythm hire tunnel sign";
+var mnemonic = "example payment abandon near mask bulb law antique ridge offer month asset";

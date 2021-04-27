@@ -1,1 +1,1 @@
-var mnemonic = "dwarf zoo fade second safe vendor job awful mushroom bamboo metal path";
+var mnemonic = "kitchen avocado model decorate side case purse mask bulb typical echo theme";

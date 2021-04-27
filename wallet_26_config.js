@@ -1,1 +1,1 @@
-var mnemonic = "focus kit rude pretty question quiz glance phrase basic feature table green";
+var mnemonic = "teach rack divert rival soul vocal puzzle impose jaguar warrior pumpkin fiber";

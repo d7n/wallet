@@ -1,1 +1,1 @@
-var mnemonic = "metal judge humor month purchase diagram enroll barrel twin little convince rally";
+var mnemonic = "olive miracle bronze problem release sign keep athlete solid pepper raise cheap";

@@ -1,1 +1,1 @@
-var mnemonic = "tuna soup rare spray unit exile tornado large prison air legal draft";
+var mnemonic = "stay grunt tail benefit flock rely trap legal aerobic identify force civil";

@@ -1,1 +1,1 @@
-var mnemonic = "dumb doll idle push ketchup hazard famous manage surface cause whip vital";
+var mnemonic = "half bag grit hip ice silly repeat chimney dial gap pattern purpose";

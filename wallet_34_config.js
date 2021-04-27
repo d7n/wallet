@@ -1,1 +1,1 @@
-var mnemonic = "worth ketchup ring section floor assault grow task correct grief pyramid guess";
+var mnemonic = "curious state lamp glove ugly income cloud charge course argue famous deny";

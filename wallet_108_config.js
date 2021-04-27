@@ -1,1 +1,1 @@
-var mnemonic = "genre aspect enrich load fluid call alcohol tide fade govern abuse advance";
+var mnemonic = "crime unfold drama depart sound zebra aim sleep lift estate table genius";

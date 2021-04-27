@@ -1,1 +1,1 @@
-var mnemonic = "jealous ugly humor ring tribe video wonder general split dizzy general skin";
+var mnemonic = "elder boss trophy chimney tourist impose agree moment mixture skin tackle real";

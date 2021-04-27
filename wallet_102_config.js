@@ -1,1 +1,1 @@
-var mnemonic = "carpet fruit exhaust dog fresh bag blue utility receive wash coach final";
+var mnemonic = "input animal wealth kiss crack judge push foil alcohol afraid exchange elder";

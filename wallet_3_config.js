@@ -1,1 +1,1 @@
-var mnemonic = "soda animal merit menu solar category color venue piano second gloom journey";
+var mnemonic = "must work raw emerge float crowd swim pumpkin accuse must gospel animal";

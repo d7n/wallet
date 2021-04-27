@@ -1,1 +1,1 @@
-var mnemonic = "buffalo sail client museum angle answer ceiling print rival party uniform digital";
+var mnemonic = "solve horse search example hope olympic argue tower clever eternal such collect";

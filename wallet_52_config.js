@@ -1,1 +1,1 @@
-var mnemonic = "pledge one inject grain about shoe catalog bike escape valve seed truly";
+var mnemonic = "fuel road mountain pottery crew rare night pool parent this manual trouble";

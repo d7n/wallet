@@ -1,1 +1,1 @@
-var mnemonic = "then beach fossil cross deer bomb great hint beach want media space";
+var mnemonic = "grief suggest bullet dawn often replace jealous clown update prepare grain reveal";

@@ -1,1 +1,1 @@
-var mnemonic = "nose tree pipe humor odor poem jelly siege voyage mansion fade task";
+var mnemonic = "element bean process game pattern amazing stereo youth erase toilet pulse spin";

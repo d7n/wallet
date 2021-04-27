@@ -1,1 +1,1 @@
-var mnemonic = "body barrel gravity state hen during hold alone fiction belt entry gun";
+var mnemonic = "season fortune oven drum price nuclear life summer husband nut include pyramid";

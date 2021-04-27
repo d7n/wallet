@@ -1,1 +1,1 @@
-var mnemonic = "define hamster drama sand bullet element apology torch shy hurt nice brown";
+var mnemonic = "hammer crouch joke kingdom mushroom satisfy wear coconut salmon silk unfair express";

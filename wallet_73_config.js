@@ -1,1 +1,1 @@
-var mnemonic = "swing jeans table mention double meadow six coffee shy suffer genius evil";
+var mnemonic = "monster action raise rural print detect inflict carpet play shift script parent";

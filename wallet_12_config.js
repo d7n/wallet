@@ -1,1 +1,1 @@
-var mnemonic = "option loop grab settle mom hen good quarter tower reason bleak decade";
+var mnemonic = "around private grocery rose board water elder worry oval clay trophy gaze";

@@ -1,1 +1,1 @@
-var mnemonic = "feature autumn confirm wage few perfect pill little market decorate gorilla jazz";
+var mnemonic = "noodle auction stadium flight cave garlic february math essay diagram luggage loyal";

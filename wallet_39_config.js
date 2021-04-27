@@ -1,1 +1,1 @@
-var mnemonic = "employ spider ride pear donkey monster much dove swing foil innocent struggle";
+var mnemonic = "room glad champion noise license neither jelly divert memory shaft vacant glance";

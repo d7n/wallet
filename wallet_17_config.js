@@ -1,1 +1,1 @@
-var mnemonic = "much dish smile hundred pudding review method evolve ugly twenty end wrestle";
+var mnemonic = "virus glue boat student observe term habit view ask orange tumble lava";

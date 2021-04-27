@@ -1,1 +1,1 @@
-var mnemonic = "foster small provide harbor gym thunder knee remember tiger special protect pact";
+var mnemonic = "ribbon spirit ranch share midnight mention bid patient dry mimic demand twenty";

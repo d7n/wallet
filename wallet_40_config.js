@@ -1,1 +1,1 @@
-var mnemonic = "waste defy similar bacon wink noodle impose business focus poverty example half";
+var mnemonic = "identify save deer south kind biology help area before enhance various wide";

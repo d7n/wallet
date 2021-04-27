@@ -1,1 +1,1 @@
-var mnemonic = "trust analyst hard vessel artist spider maple allow truly much devote surround";
+var mnemonic = "rice dad confirm man siege van flush spend habit hazard tool depth";

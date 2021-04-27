@@ -1,1 +1,1 @@
-var mnemonic = "coyote arm taxi exercise unusual evil parrot neutral bicycle unknown feature abuse";
+var mnemonic = "regret urban owner latin card balcony celery sport flat subject pact barrel";

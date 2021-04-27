@@ -1,1 +1,1 @@
-var mnemonic = "guess error error mammal street space glass start window melt seminar one";
+var mnemonic = "fame patient student loan champion oblige clarify mail kid head virus right";

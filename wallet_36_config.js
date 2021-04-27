@@ -1,1 +1,1 @@
-var mnemonic = "angle depth return enlist fence pipe rebel tell flush cricket interest duck";
+var mnemonic = "tray clinic build mail oppose tired horror grit tongue copper horn thrive";

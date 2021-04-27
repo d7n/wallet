@@ -1,1 +1,1 @@
-var mnemonic = "traffic guilt library view upper reveal peanut dress brisk ship vendor supreme";
+var mnemonic = "labor keen elevator stage reduce that idea slow since find panic shoe";

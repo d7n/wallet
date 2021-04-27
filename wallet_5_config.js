@@ -1,1 +1,1 @@
-var mnemonic = "protect sadness enemy develop voyage jazz media camp sword enough number skill";
+var mnemonic = "list gain team table record since gift lyrics attack cram mansion theme";

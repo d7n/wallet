@@ -1,1 +1,1 @@
-var mnemonic = "note exhaust brown turkey ghost exercise lawsuit beach note cushion gun juice";
+var mnemonic = "quality impact subject enroll business erosion spend toast rule rather ranch vivid";

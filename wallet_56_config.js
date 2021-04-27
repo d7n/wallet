@@ -1,1 +1,1 @@
-var mnemonic = "chicken range liberty apple dad insect genius napkin arrow sport arrow success";
+var mnemonic = "another parrot demise mask write play tip man above easily seek illegal";

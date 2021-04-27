@@ -1,1 +1,1 @@
-var mnemonic = "dress region detail draft craft sun right actress private kitchen mango picture";
+var mnemonic = "educate derive mystery grow any case switch double fatal armed walk electric";

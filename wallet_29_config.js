@@ -1,1 +1,1 @@
-var mnemonic = "lunar medal image castle can dish huge puzzle void tower arctic symptom";
+var mnemonic = "empty peace harvest quiz curtain plug thumb orbit call choice chunk barely";

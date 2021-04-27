@@ -1,1 +1,1 @@
-var mnemonic = "senior arctic ankle doctor width curtain kite eagle shadow feature pumpkin athlete";
+var mnemonic = "renew man time feed record fitness crumble trash never brave summer grant";

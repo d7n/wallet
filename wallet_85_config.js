@@ -1,1 +1,1 @@
-var mnemonic = "chalk sustain gorilla vicious toy ethics hour divide flee imitate hurt library";
+var mnemonic = "orchard route bronze walk stamp special blood buddy gorilla before inform canal";

@@ -1,1 +1,1 @@
-var mnemonic = "protect tone acoustic draft lizard decline spare hill ghost recipe tent adapt";
+var mnemonic = "wagon morning globe enact siren carry steak human blame miss host earn";

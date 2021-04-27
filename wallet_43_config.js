@@ -1,1 +1,1 @@
-var mnemonic = "future wrestle shoulder stool share say deputy midnight awesome enjoy deer device";
+var mnemonic = "harvest crop curtain light glove rice gather guess settle away version damp";

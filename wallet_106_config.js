@@ -1,1 +1,1 @@
-var mnemonic = "coffee pen heart narrow rookie group shield rack pizza tissue amused scene";
+var mnemonic = "cage sponsor mesh job rescue fragile episode hedgehog clay buddy solid glass";

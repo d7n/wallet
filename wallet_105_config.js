@@ -1,1 +1,1 @@
-var mnemonic = "option monitor absurd estate accident stamp palm dry feature rival scrub giggle";
+var mnemonic = "resemble fee agree replace sword page blush space breeze height donkey animal";

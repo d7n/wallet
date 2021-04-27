@@ -1,1 +1,1 @@
-var mnemonic = "bulk drift hawk dice ignore license step barrel whisper fee hungry fabric";
+var mnemonic = "wire crop color combine desk animal rookie glare holiday owner capital flight";

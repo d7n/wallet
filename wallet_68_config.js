@@ -1,1 +1,1 @@
-var mnemonic = "ketchup month apple faint eagle west yard mercy struggle civil indoor sting";
+var mnemonic = "hollow trigger globe border sad vacant reject perfect obtain sphere action stomach";

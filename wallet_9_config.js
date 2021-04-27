@@ -1,1 +1,1 @@
-var mnemonic = "apart audit verb pepper permit weasel shoulder drama talent candy youth person";
+var mnemonic = "any whale brother genre clap real fetch tattoo shuffle mango amazing chaos";

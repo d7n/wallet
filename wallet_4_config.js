@@ -1,1 +1,1 @@
-var mnemonic = "vendor intact know salt fan album amused today witness once current fame";
+var mnemonic = "sick moment blur claim tomorrow worry rug trim opinion cricket genuine tackle";

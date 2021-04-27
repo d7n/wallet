@@ -1,1 +1,1 @@
-var mnemonic = "deputy lab express educate usual embrace paddle jungle retreat filter race rule";
+var mnemonic = "fuel sight volcano liquid exact enable invest law home pattern sense gun";

@@ -1,1 +1,1 @@
-var mnemonic = "radar fox pulp escape subway either notable theme tonight exhaust sugar member";
+var mnemonic = "mom pear harbor permit couple circle stadium velvet correct sword cute call";

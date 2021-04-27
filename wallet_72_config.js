@@ -1,1 +1,1 @@
-var mnemonic = "smile couple chaos guilt lamp cat hazard custom robust absurd title rookie";
+var mnemonic = "oblige glare grit disease degree wage path torch lift earn stem celery";

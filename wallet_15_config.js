@@ -1,1 +1,1 @@
-var mnemonic = "identify arrest miracle okay awesome pioneer devote exact wing rib journey home";
+var mnemonic = "core attend fuel subject stamp produce forget video push sign link comfort";

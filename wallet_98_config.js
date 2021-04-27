@@ -1,1 +1,1 @@
-var mnemonic = "future six maid submit snake bulb asthma science first chuckle chaos uncle";
+var mnemonic = "theory scheme prevent envelope alien habit truck system safe lonely side sort";

@@ -1,1 +1,1 @@
-var mnemonic = "muscle select achieve draft wheat fire bullet glide total fame great soup";
+var mnemonic = "surface tragic shop find game purchase modify advance crunch system fun grow";

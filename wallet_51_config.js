@@ -1,1 +1,1 @@
-var mnemonic = "salute swing detail siren agree vibrant scatter into all sauce gun bullet";
+var mnemonic = "surface trim spring tuna member unlock flag east damp layer client ramp";

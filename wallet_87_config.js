@@ -1,1 +1,1 @@
-var mnemonic = "wet drive miracle name apart purse dust stumble girl divert input fancy";
+var mnemonic = "token emotion depend smile profit you table tobacco ceiling track amazing conduct";

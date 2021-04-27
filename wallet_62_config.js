@@ -1,1 +1,1 @@
-var mnemonic = "object nurse sail group draft drip armor believe must defy decorate liberty";
+var mnemonic = "stay patient fantasy wisdom mansion bicycle raw federal blur tumble pizza chalk";

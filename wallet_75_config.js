@@ -1,1 +1,1 @@
-var mnemonic = "cause apart coconut course brown lyrics garden clerk kingdom amount luggage robust";
+var mnemonic = "dizzy meadow trouble ivory robust hand cushion ankle boil host distance expire";

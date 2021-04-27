@@ -1,1 +1,1 @@
-var mnemonic = "chair truth motion spatial merit blind report shift purity toe such change";
+var mnemonic = "drastic fiction slogan august vital vendor snack bone cycle blame craft canvas";

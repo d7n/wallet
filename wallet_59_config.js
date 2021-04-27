@@ -1,1 +1,1 @@
-var mnemonic = "you farm wrist rent anxiety yard ordinary elite client rescue that axis";
+var mnemonic = "confirm bargain deliver collect practice trip bottom put essence debate century eagle";

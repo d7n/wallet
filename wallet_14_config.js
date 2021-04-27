@@ -1,1 +1,1 @@
-var mnemonic = "sick fuel excess use nominee spring twist window afraid stone egg bird";
+var mnemonic = "power offer able address member much answer salon bargain rural flight laugh";

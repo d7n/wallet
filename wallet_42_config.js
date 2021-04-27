@@ -1,1 +1,1 @@
-var mnemonic = "fold mimic atom family degree enable refuse cabbage bounce arch unable interest";
+var mnemonic = "alone uncover uncover duck swift future beauty bottom royal narrow trophy when";

@@ -1,1 +1,1 @@
-var mnemonic = "effort wise shuffle liar escape coast still board tent dog column ribbon";
+var mnemonic = "chicken stool guard focus budget beef stool exhaust dish material say animal";

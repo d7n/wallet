@@ -1,1 +1,1 @@
-var mnemonic = "noise sphere faculty trial review shine team slow autumn false wet train";
+var mnemonic = "kidney session anger enlist satisfy must knee parrot aerobic maze wife main";

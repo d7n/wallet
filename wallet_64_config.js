@@ -1,1 +1,1 @@
-var mnemonic = "fiction piano chuckle page action giraffe favorite gesture cotton thought dash flee";
+var mnemonic = "jealous mix window easy matrix melody swap minor inhale right radar dream";

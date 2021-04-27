@@ -1,1 +1,1 @@
-var mnemonic = "cousin relief unknown palm relax swim pulse excess cart depend fruit outside";
+var mnemonic = "grass clever tuition move desk sentence broken churn wolf reject chaos town";

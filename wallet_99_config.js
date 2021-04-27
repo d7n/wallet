@@ -1,1 +1,1 @@
-var mnemonic = "length tomato loop retreat chief tired insane hollow fly old attend travel";
+var mnemonic = "coast label stand paddle logic own better build hidden cage attack unit";

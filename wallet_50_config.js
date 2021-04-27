@@ -1,1 +1,1 @@
-var mnemonic = "large clerk rely absorb hurt organ alarm car item wonder hello dust";
+var mnemonic = "catch mirror artwork kind lawsuit please seminar update kitchen property feature pepper";

@@ -1,1 +1,1 @@
-var mnemonic = "give spy because wolf emerge portion coral tackle select key radio subway";
+var mnemonic = "turkey tool tragic defense sausage abstract source symbol game replace sand hurry";

@@ -1,1 +1,1 @@
-var mnemonic = "donor swap flip already earth duty dove meadow quit analyst eye dog";
+var mnemonic = "aspect number aspect amazing hint feature judge north plunge crash remember slush";

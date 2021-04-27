@@ -1,1 +1,1 @@
-var mnemonic = "orbit reveal victory soul attack lock lift beyond honey off surprise spoon";
+var mnemonic = "light elegant room walk before chase oak property deposit tomorrow holiday gadget";
