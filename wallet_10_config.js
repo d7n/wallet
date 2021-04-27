@@ -1,1 +1,1 @@
-var mnemonic = "toilet immune proud scheme oak alcohol lend rather heart fantasy lumber demise";
+var mnemonic = "obtain bird pigeon gossip canvas lunch horror castle shoulder property sketch wrestle";

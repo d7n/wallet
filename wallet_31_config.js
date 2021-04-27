@@ -1,1 +1,1 @@
-var mnemonic = "ribbon frame library basket sense afford umbrella few atom spoil drink trouble";
+var mnemonic = "gate path predict fatal water unveil skull online atom fragile whip diesel";

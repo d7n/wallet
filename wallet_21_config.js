@@ -1,1 +1,1 @@
-var mnemonic = "anger butter cinnamon laugh target cement girl artist excess gauge meat glare";
+var mnemonic = "before apology gorilla library review wreck venture verb evil heart husband undo";

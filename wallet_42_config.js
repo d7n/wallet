@@ -1,1 +1,1 @@
-var mnemonic = "donate sunset parrot rebel palace merry laundry mushroom differ solar ranch source";
+var mnemonic = "oxygen woman survey blade flush poverty frozen club plug poem elegant manage";

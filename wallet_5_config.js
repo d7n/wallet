@@ -1,1 +1,1 @@
-var mnemonic = "model arctic bracket task note unable cat cage carbon casino long brown";
+var mnemonic = "husband begin finish coil pill book goose visit session future distance typical";

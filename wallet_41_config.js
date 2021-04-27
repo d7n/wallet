@@ -1,1 +1,1 @@
-var mnemonic = "pistol below among venture vanish toddler museum push demise public fiber curve";
+var mnemonic = "pigeon pass rotate bubble material inner robot whisper gold border burst pumpkin";

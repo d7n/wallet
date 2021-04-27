@@ -1,1 +1,1 @@
-var mnemonic = "screen palace abuse crush morning say dizzy save crazy ivory buddy medal";
+var mnemonic = "cream start grit lab anchor vintage mechanic phone expire trade spring atom";

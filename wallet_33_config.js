@@ -1,1 +1,1 @@
-var mnemonic = "lobster range gift glance defense broken during unknown parade sunset social inspire";
+var mnemonic = "phrase way wrestle grief crouch call bread sea lyrics dream hamster enter";

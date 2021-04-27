@@ -1,1 +1,1 @@
-var mnemonic = "meat scale village license sing undo nothing icon easy service slogan alter";
+var mnemonic = "anchor add select lottery knee mercy absurd paper pupil rookie quality trip";

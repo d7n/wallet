@@ -1,1 +1,1 @@
-var mnemonic = "burger capital item stock vanish result sun nasty tattoo crawl dynamic female";
+var mnemonic = "scheme love space winter rhythm poet anxiety live wear job rotate brush";

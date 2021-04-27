@@ -1,1 +1,1 @@
-var mnemonic = "avoid anchor notice harsh left main moral expire diet foil argue ensure";
+var mnemonic = "sorry merit basic roast history above fossil team erode cover tornado minute";

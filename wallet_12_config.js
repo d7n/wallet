@@ -1,1 +1,1 @@
-var mnemonic = "cave tell elevator bread kangaroo absurd online shadow true stand rent honey";
+var mnemonic = "stock virtual region offer artist cattle clever kick story walnut torch pet";

@@ -1,1 +1,1 @@
-var mnemonic = "pulse tragic multiply uncover nominee orphan riot enforce trend leopard expand cart";
+var mnemonic = "twin gather settle deputy health tunnel like drop scene twenty jump end";

@@ -1,1 +1,1 @@
-var mnemonic = "angle fortune twist obey dinosaur drastic together lava base rubber wagon decorate";
+var mnemonic = "knife enhance omit kind forget copper crunch deposit base casino evil govern";

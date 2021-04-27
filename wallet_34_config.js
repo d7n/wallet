@@ -1,1 +1,1 @@
-var mnemonic = "april melt daring six arctic cherry few cause message jewel harsh phone";
+var mnemonic = "dilemma mix movie media husband napkin mango quit car nurse host world";

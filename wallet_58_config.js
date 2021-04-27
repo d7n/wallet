@@ -1,1 +1,1 @@
-var mnemonic = "host artist outer fan balance february usage wonder sibling shed confirm shove";
+var mnemonic = "grit celery sibling yellow boost pole outdoor scrub pioneer cousin over snake";

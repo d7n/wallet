@@ -1,1 +1,1 @@
-var mnemonic = "step there velvet parade cat bronze parrot build connect image ladder flat";
+var mnemonic = "immense link filter item spatial lift merit ahead clean essay endorse december";

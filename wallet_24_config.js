@@ -1,1 +1,1 @@
-var mnemonic = "talk roast ivory lens uncle arena glory play flip syrup describe razor";
+var mnemonic = "small game thrive shuffle diagram puppy mass quote swim slight caught ring";

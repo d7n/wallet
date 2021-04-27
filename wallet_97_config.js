@@ -1,1 +1,1 @@
-var mnemonic = "voyage inside skin satisfy champion cupboard lawsuit tourist clinic shield like uniform";
+var mnemonic = "renew swamp put toilet portion mountain tray melody march violin mom absurd";

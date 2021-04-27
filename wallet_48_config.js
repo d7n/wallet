@@ -1,1 +1,1 @@
-var mnemonic = "gloom urban office runway retire short cabin cloud ball derive kite actual";
+var mnemonic = "defense prepare abandon faint spread bleak material grain mystery drastic wrist embody";

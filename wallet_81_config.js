@@ -1,1 +1,1 @@
-var mnemonic = "cushion quarter cupboard peanut typical walk climb kiwi apology disagree wheat alarm";
+var mnemonic = "badge bring method sister useless always solve vault solid one utility have";

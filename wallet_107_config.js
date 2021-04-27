@@ -1,1 +1,1 @@
-var mnemonic = "rain era thrive history actress behind cable reunion topple vintage swear rotate";
+var mnemonic = "pistol whale south rate habit curve battle mountain feature mask clever cable";

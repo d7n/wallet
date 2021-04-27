@@ -1,1 +1,1 @@
-var mnemonic = "plate shine ginger mixed blind stem consider real wife bounce problem embark";
+var mnemonic = "indicate antique range question pill buzz middle robot master actress tenant eternal";

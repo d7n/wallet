@@ -1,1 +1,1 @@
-var mnemonic = "key grain hawk alley student senior trap exchange clay enrich tent depart";
+var mnemonic = "broom relief detect dice vehicle stick slam diet tornado choose vibrant salt";

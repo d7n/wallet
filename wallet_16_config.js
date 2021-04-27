@@ -1,1 +1,1 @@
-var mnemonic = "van find wink craft muffin spray jump fault road lumber remember solar";
+var mnemonic = "kick broken matrix sample first assume inform buffalo spot village eager smile";

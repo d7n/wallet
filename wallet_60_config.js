@@ -1,1 +1,1 @@
-var mnemonic = "real live tone genius food absurd grain absorb crowd shield nominee rice";
+var mnemonic = "zone before lounge prepare smooth airport sniff service seed assist sport wine";

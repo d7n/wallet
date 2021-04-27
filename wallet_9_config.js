@@ -1,1 +1,1 @@
-var mnemonic = "pulp immune pilot denial infant educate absent icon spawn embark pilot immune";
+var mnemonic = "tired aspect hope shrimp barrel slow silk win hidden stem tribe hospital";

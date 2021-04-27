@@ -1,1 +1,1 @@
-var mnemonic = "sunny banner prosper deputy cat come sea boat gesture alley fork lecture";
+var mnemonic = "kid mom tag ill dune illness make survey planet humble miracle orphan";

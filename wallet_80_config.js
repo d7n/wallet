@@ -1,1 +1,1 @@
-var mnemonic = "motion upon success farm hope debris artist final flight render need divide";
+var mnemonic = "firm square certain crop pool shell exchange guide pole clap tiger funny";

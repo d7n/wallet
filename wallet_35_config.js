@@ -1,1 +1,1 @@
-var mnemonic = "clump police tool insect payment laptop river dream renew ball settle average";
+var mnemonic = "recipe vacuum clever weird gain viable spoil cake roast jazz olive labor";

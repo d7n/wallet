@@ -1,1 +1,1 @@
-var mnemonic = "energy possible dish almost south alley rotate say run polar buffalo index";
+var mnemonic = "retire cloth horror cloth lounge they come point unable express wheat keen";

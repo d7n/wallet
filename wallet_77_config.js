@@ -1,1 +1,1 @@
-var mnemonic = "damage suffer spring half first please category move brown illegal slot liar";
+var mnemonic = "vacuum escape chronic evil hurt angry raise alone cargo cream clown peace";

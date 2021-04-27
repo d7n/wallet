@@ -1,1 +1,1 @@
-var mnemonic = "famous harsh error feature talk use shoot draw permit tobacco wonder rapid";
+var mnemonic = "exact load above echo ship antique clump elevator pottery tuna lock imitate";

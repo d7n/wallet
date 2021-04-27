@@ -1,1 +1,1 @@
-var mnemonic = "comfort aim canvas team orient impose bird favorite swallow window hold stuff";
+var mnemonic = "puzzle link cushion addict glass rescue kiss key bullet zone donkey escape";

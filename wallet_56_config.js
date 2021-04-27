@@ -1,1 +1,1 @@
-var mnemonic = "paper display delay wait laundry shrimp rotate you select normal muscle soap";
+var mnemonic = "pepper audit hazard vital expect address end boost disorder film kitchen drip";

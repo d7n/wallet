@@ -1,1 +1,1 @@
-var mnemonic = "ball appear invite earn uncle dragon symptom depend bulk primary cradle song";
+var mnemonic = "enlist trend destroy giggle meat agent empower evolve grape diet urban cheese";

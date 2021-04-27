@@ -1,1 +1,1 @@
-var mnemonic = "impact pizza dune clerk home tunnel chicken fade witness poem leisure idea";
+var mnemonic = "energy celery tower category hold employ man loop rib begin bundle any";

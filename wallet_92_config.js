@@ -1,1 +1,1 @@
-var mnemonic = "awful knife photo athlete circle harbor suspect stem poem love benefit cream";
+var mnemonic = "gadget sand crouch decorate tree true craft topple small pioneer clown tooth";

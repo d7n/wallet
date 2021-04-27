@@ -1,1 +1,1 @@
-var mnemonic = "anxiety final normal vacuum file dirt elite question flower goddess powder surround";
+var mnemonic = "program drift pelican green bachelor inner tag entire purchase motor tattoo flock";

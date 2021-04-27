@@ -1,1 +1,1 @@
-var mnemonic = "side vote tone spice snow mammal message income inch recipe return share";
+var mnemonic = "giant pizza amount enable hobby thunder snap victory random stool blame chuckle";

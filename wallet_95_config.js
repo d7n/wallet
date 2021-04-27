@@ -1,1 +1,1 @@
-var mnemonic = "trip rapid child alcohol train exile chicken left about sorry rude sister";
+var mnemonic = "have explain soccer march pool dance law brown mother perfect stock abuse";

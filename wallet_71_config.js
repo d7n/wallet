@@ -1,1 +1,1 @@
-var mnemonic = "hurt flight mystery unfold pair buzz cage cook bargain inside index cherry";
+var mnemonic = "play risk frog pig october sword rude say toward two shy fiscal";

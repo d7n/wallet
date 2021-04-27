@@ -1,1 +1,1 @@
-var mnemonic = "among fold seminar about illness man atom swim orient pyramid lens gap";
+var mnemonic = "swing position right lava elder lab bomb street device scrub multiply valley";

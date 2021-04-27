@@ -1,1 +1,1 @@
-var mnemonic = "sunset very broom melody timber business fortune castle artefact very auction pottery";
+var mnemonic = "bottom grab glow elevator region ankle bounce grunt people decade dignity hidden";

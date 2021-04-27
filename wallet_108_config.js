@@ -1,1 +1,1 @@
-var mnemonic = "audit refuse ankle toy drink alley absorb suffer advance auto plate keep";
+var mnemonic = "venue panel razor seed pave cross nasty obvious business fit topple proud";

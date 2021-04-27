@@ -1,1 +1,1 @@
-var mnemonic = "job hurry auction joy piece dutch survey buffalo element offer culture joke";
+var mnemonic = "decline inherit boy ring find soldier enter client cup fee alert farm";

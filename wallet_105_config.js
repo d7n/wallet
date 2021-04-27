@@ -1,1 +1,1 @@
-var mnemonic = "trend lounge amateur bitter repeat police expire borrow joy old wall there";
+var mnemonic = "switch option asset domain sample powder certain kitten ignore giggle sustain hockey";

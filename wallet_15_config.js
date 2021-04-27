@@ -1,1 +1,1 @@
-var mnemonic = "remind mad caution correct forget entry mind visual fly pupil between forward";
+var mnemonic = "snow language noodle sister seven setup order output spray dirt crystal cable";

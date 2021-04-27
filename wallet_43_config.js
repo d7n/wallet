@@ -1,1 +1,1 @@
-var mnemonic = "beef stadium earn unknown flush kid carry output april cushion cage fatal";
+var mnemonic = "bachelor hen cinnamon truth midnight dilemma swift gain agree brother wet tobacco";

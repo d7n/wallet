@@ -1,1 +1,1 @@
-var mnemonic = "muscle screen amused lecture attitude stable output pitch mixture trap meat dinner";
+var mnemonic = "pioneer they sense hollow term canyon hazard festival shove visa quality inject";

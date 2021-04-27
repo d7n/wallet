@@ -1,1 +1,1 @@
-var mnemonic = "bargain antenna artwork faint clinic vivid explain obey rain wood pause lumber";
+var mnemonic = "hazard exile joke scorpion awful stairs mandate token latin eight appear wisdom";

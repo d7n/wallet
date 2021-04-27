@@ -1,1 +1,1 @@
-var mnemonic = "length endorse disorder surprise range skull whisper middle onion powder siren dream";
+var mnemonic = "industry toward smooth thumb era prison option rule around chief bicycle puppy";

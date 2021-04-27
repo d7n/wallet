@@ -1,1 +1,1 @@
-var mnemonic = "announce draft fashion boring hawk print media hamster twin steak property auto";
+var mnemonic = "flock scale joy wisdom winter guitar layer right pole village gas notice";

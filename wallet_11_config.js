@@ -1,1 +1,1 @@
-var mnemonic = "broccoli giant add pipe auction blouse lady arrow diet fade blind almost";
+var mnemonic = "base prosper bubble flush slot cabbage situate supply midnight penalty immune useful";

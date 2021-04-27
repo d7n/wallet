@@ -1,1 +1,1 @@
-var mnemonic = "simple mango episode expect gauge figure just wire end certain dial feel";
+var mnemonic = "situate inch include meadow peace derive bulb ribbon cram thumb battle track";

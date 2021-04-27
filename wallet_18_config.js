@@ -1,1 +1,1 @@
-var mnemonic = "much champion vintage castle absorb believe roast shiver nose gold evoke depart";
+var mnemonic = "hurdle paddle innocent cricket soldier material culture phone improve file resemble base";

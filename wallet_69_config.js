@@ -1,1 +1,1 @@
-var mnemonic = "weasel risk verb shock win seven tunnel thing parent olympic coffee genuine";
+var mnemonic = "firm ivory bench moment cousin fever hidden joke vivid breeze matter magic";

@@ -1,1 +1,1 @@
-var mnemonic = "like still behave earn picture mercy soldier brush fringe mango arrow network";
+var mnemonic = "element knock glide minimum cactus december prison attract toy job script wheel";

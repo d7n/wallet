@@ -1,1 +1,1 @@
-var mnemonic = "pill toe rib gentle empower bridge crystal twenty mistake question walnut episode";
+var mnemonic = "egg shoot panther sorry half number zoo tackle crop decide supreme team";

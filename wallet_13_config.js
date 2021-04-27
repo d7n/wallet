@@ -1,1 +1,1 @@
-var mnemonic = "minor palace sunset tunnel caught ecology hood remove bachelor apology jeans defy";
+var mnemonic = "gasp swear lounge cool soda record smoke cinnamon media core prison dirt";

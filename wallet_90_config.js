@@ -1,1 +1,1 @@
-var mnemonic = "puzzle badge above author myth abandon traffic range below meat accuse nerve";
+var mnemonic = "anxiety steel journey cricket paddle anchor relief ahead blame giant volume brand";

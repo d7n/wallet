@@ -1,1 +1,1 @@
-var mnemonic = "aunt pulp scrap seminar human young page beef list gate arctic example";
+var mnemonic = "woman twenty boy arrow zoo talk maid address double loop urge into";

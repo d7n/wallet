@@ -1,1 +1,1 @@
-var mnemonic = "all detail moment chef entry pelican pizza mass scale pretty garden fade";
+var mnemonic = "group catch advice lens cook often want police food dynamic elbow surprise";

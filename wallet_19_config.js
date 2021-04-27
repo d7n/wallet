@@ -1,1 +1,1 @@
-var mnemonic = "chase used plastic fossil found parent nation immense laptop defense inhale bring";
+var mnemonic = "water acoustic silver bind ceiling fatal blind robot curtain fabric forget man";

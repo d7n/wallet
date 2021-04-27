@@ -1,1 +1,1 @@
-var mnemonic = "vital allow defy verb anxiety news carbon lazy width expect zero dolphin";
+var mnemonic = "reveal save deposit ahead regular census neglect steel teach valve melody account";

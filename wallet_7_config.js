@@ -1,1 +1,1 @@
-var mnemonic = "stamp employ now saddle narrow reopen orbit wreck scene off sense wealth";
+var mnemonic = "door fatigue window midnight glory notice funny start cliff income nature shop";

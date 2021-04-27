@@ -1,1 +1,1 @@
-var mnemonic = "license real hockey famous banana veteran deputy lunar author lawsuit nothing satoshi";
+var mnemonic = "quote rotate true east holiday observe ivory metal spawn lake weird tiger";

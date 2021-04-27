@@ -1,1 +1,1 @@
-var mnemonic = "attitude abandon artwork accuse buffalo violin sponsor parrot absurd regret cool draw";
+var mnemonic = "movie crunch easy click six task rate vehicle hard virus news tissue";

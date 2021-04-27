@@ -1,1 +1,1 @@
-var mnemonic = "myth valve find family omit until volcano balcony feel pottery kitchen satoshi";
+var mnemonic = "photo amount empty avocado air swallow pyramid future sponsor invite soap cage";

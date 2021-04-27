@@ -1,1 +1,1 @@
-var mnemonic = "bag jazz loyal aisle wasp you member drive venue model extra cost";
+var mnemonic = "disagree worth fix shift toe drive riot program dust fury ritual dice";

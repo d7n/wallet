@@ -1,1 +1,1 @@
-var mnemonic = "method punch visual start canoe vapor token party bomb parade someone walnut";
+var mnemonic = "movie creek rally ring join spring search reward concert limit pioneer blade";

@@ -1,1 +1,1 @@
-var mnemonic = "isolate blame jungle parent decrease consider response below dirt crucial fluid slim";
+var mnemonic = "sniff indoor ridge small yard basic opera shop help south silent mimic";

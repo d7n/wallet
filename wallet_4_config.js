@@ -1,1 +1,1 @@
-var mnemonic = "when cloth buddy axis clerk stomach magnet penalty effort garage betray coffee";
+var mnemonic = "rule quantum risk enable delay refuse forest average topic awake lady muscle";

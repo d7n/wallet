@@ -1,1 +1,1 @@
-var mnemonic = "laptop wrestle wire pledge rare exit bamboo disorder easy inmate prevent village";
+var mnemonic = "meadow clown hidden thunder model calm behind two carpet leader limit puzzle";

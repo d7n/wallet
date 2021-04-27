@@ -1,1 +1,1 @@
-var mnemonic = "possible empower duty smile family juice harsh crop blossom snake crop primary";
+var mnemonic = "wink actor video make topic devote cube fork protect forget plunge praise";

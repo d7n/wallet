@@ -1,1 +1,1 @@
-var mnemonic = "noble glow scan volume mansion umbrella garden sentence fog extra wish adjust";
+var mnemonic = "fence priority habit rib soldier hurdle code subject creek drastic awake guide";

@@ -1,1 +1,1 @@
-var mnemonic = "spare close crouch someone sadness cannon drastic uniform fence dune insane loan";
+var mnemonic = "hedgehog tired grunt cancel wife vintage suit gasp cement fantasy lawsuit gesture";

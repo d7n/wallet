@@ -1,1 +1,1 @@
-var mnemonic = "joy estate lion virtual buffalo already twin empower trip repair anchor foam";
+var mnemonic = "warm pill flat two hybrid pulp gauge border before all phone code";

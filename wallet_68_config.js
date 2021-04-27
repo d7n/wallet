@@ -1,1 +1,1 @@
-var mnemonic = "giraffe express guard emerge timber nose combine hybrid aim eagle lesson brain";
+var mnemonic = "neck term dad prepare sister acquire bonus orphan crunch change claw cliff";

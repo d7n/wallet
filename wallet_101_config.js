@@ -1,1 +1,1 @@
-var mnemonic = "wreck van minor deputy ugly bless kangaroo time private giant title derive";
+var mnemonic = "license whale verb wife orbit price dismiss predict volume hello unaware suffer";

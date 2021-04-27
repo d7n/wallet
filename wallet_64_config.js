@@ -1,1 +1,1 @@
-var mnemonic = "own tuition steel mask route gaze wagon box crush sponsor comic arena";
+var mnemonic = "expose blur usual pluck bean spider shuffle muffin armor gauge cup toast";

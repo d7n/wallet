@@ -1,1 +1,1 @@
-var mnemonic = "immense universe rather crystal valley rule obscure sea acid step play state";
+var mnemonic = "fatigue hurt lake erosion reflect fury welcome dial drama author invest oblige";

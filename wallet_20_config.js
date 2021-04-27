@@ -1,1 +1,1 @@
-var mnemonic = "fall power pride person region quantum fence oval sand gaze noise improve";
+var mnemonic = "deny narrow right please buffalo february horror wing eight napkin reduce camera";

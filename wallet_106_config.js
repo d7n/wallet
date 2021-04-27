@@ -1,1 +1,1 @@
-var mnemonic = "yard erosion fitness gold scorpion control divert card endless quality since nephew";
+var mnemonic = "soft tobacco figure adapt gaze unknown infant avocado couple arrest quit little";

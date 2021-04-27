@@ -1,1 +1,1 @@
-var mnemonic = "abstract tent latin collect among secret balance fringe drop behave height coffee";
+var mnemonic = "make tunnel work victory whip praise kick salt cloth gauge razor victory";

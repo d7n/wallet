@@ -1,1 +1,1 @@
-var mnemonic = "position tragic hour clutch meadow any brown region crouch tribe wrist leave";
+var mnemonic = "rely domain pattern trash gauge expect math spider myth ordinary enforce misery";

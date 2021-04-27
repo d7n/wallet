@@ -1,1 +1,1 @@
-var mnemonic = "auto wave method quarter onion dress roast bullet claw leaf increase cloth";
+var mnemonic = "alter sun fun thunder neutral glory nut lab satisfy domain quarter never";

@@ -1,1 +1,1 @@
-var mnemonic = "weasel inch clean hello job repeat noble ethics grab sunset reject dirt";
+var mnemonic = "village gossip pink recall unusual tail matter south banana initial cabbage draft";

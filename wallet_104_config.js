@@ -1,1 +1,1 @@
-var mnemonic = "rocket sample beef elder exit dinosaur profit decorate unusual like apart chase";
+var mnemonic = "host promote sad depth develop absorb tooth seek drive elegant friend degree";
