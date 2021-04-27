@@ -1,1 +1,1 @@
-var mnemonic = "caution nature river iron asset such skirt toy emotion balcony birth armor";
+var mnemonic = "refuse cloth fiber jacket action eight combine opinion wedding mixed lemon dismiss";

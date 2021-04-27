@@ -1,1 +1,1 @@
-var mnemonic = "trash submit rib option art light brisk list cousin cattle display close";
+var mnemonic = "menu half hour seek assist quality dinosaur upset favorite peanut pact vehicle";

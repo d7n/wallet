@@ -1,1 +1,1 @@
-var mnemonic = "sand hazard water genius swallow income maze aim tragic hour outdoor citizen";
+var mnemonic = "tissue extra damp brother whisper clarify bullet horn power neck maximum diamond";

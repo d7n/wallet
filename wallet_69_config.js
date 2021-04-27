@@ -1,1 +1,1 @@
-var mnemonic = "balance fancy leg like minute age hard foster control real connect truly";
+var mnemonic = "recipe girl lemon drastic ankle marble negative crystal mom jaguar loop clap";

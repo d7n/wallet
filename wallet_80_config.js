@@ -1,1 +1,1 @@
-var mnemonic = "clinic science nice tonight velvet title draw either speak random wreck broom";
+var mnemonic = "industry unknown globe actual twenty square arm display draw mom dad cash";

@@ -1,1 +1,1 @@
-var mnemonic = "august fly razor card flame section tube fun crush speed theme iron";
+var mnemonic = "average sock recycle knock obey diet shell beyond humor chef flight cake";

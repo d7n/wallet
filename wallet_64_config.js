@@ -1,1 +1,1 @@
-var mnemonic = "elevator legal umbrella ill insect forum dirt voice little exhaust prevent hungry";
+var mnemonic = "dice gravity finger wasp black engine gesture prepare draw subway mobile world";

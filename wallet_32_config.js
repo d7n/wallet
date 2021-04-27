@@ -1,1 +1,1 @@
-var mnemonic = "turn gallery wedding model junior stereo whale blame engine shove divert sister";
+var mnemonic = "trend stove transfer ball axis legal punch inner leopard swim digital kitten";

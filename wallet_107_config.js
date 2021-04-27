@@ -1,1 +1,1 @@
-var mnemonic = "diesel under table jaguar rough correct word enhance version cry fury hospital";
+var mnemonic = "elbow purity grape humor post unit clever object token miss garlic tape";

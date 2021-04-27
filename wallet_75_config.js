@@ -1,1 +1,1 @@
-var mnemonic = "soap palace old video stamp swarm romance bicycle select merit leopard slim";
+var mnemonic = "tomato impulse play sense square enforce aim piece record senior mobile habit";

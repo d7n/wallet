@@ -1,1 +1,1 @@
-var mnemonic = "accident sound during seminar anger fan bar cancel era marble night immune";
+var mnemonic = "shadow void wall thumb vague feature jacket nerve egg intact neck april";

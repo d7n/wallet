@@ -1,1 +1,1 @@
-var mnemonic = "squirrel just bulk mail rapid plug weekend tree margin chunk custom cinnamon";
+var mnemonic = "stamp stem elder divert belt walnut foam seed kangaroo industry property fire";

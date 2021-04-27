@@ -1,1 +1,1 @@
-var mnemonic = "coffee relief crack spy illness type already dinosaur mechanic shrimp chunk song";
+var mnemonic = "adapt ghost coffee flight rely lottery bomb wheel ask keep region sunset";

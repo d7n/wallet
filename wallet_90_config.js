@@ -1,1 +1,1 @@
-var mnemonic = "throw stone gun sweet diesel leopard dismiss excite harbor lonely silk modify";
+var mnemonic = "measure luggage good picnic benefit nephew account rival ramp provide battle dizzy";

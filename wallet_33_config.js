@@ -1,1 +1,1 @@
-var mnemonic = "vacant puzzle stomach once noble plastic best ignore address enforce plunge device";
+var mnemonic = "describe water below whale junk token all alter van rose reduce brand";

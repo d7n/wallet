@@ -1,1 +1,1 @@
-var mnemonic = "guard near bonus spread unique purse tunnel enjoy wrist beauty cruel inspire";
+var mnemonic = "spoil recycle reject access camp wise earn fiction hawk dove flip pen";

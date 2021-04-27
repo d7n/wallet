@@ -1,1 +1,1 @@
-var mnemonic = "copper chronic wild panda cliff cheap between eagle wash purpose truly vocal";
+var mnemonic = "item aerobic noodle maple axis short strategy actual liar liberty bulk valley";

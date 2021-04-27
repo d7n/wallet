@@ -1,1 +1,1 @@
-var mnemonic = "often road vendor recipe avocado napkin match laundry lounge melt diesel slim";
+var mnemonic = "upset spare genuine pepper change fork program short style happy angry staff";

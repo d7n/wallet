@@ -1,1 +1,1 @@
-var mnemonic = "current error lake voyage light slush almost select hurt west opera reflect";
+var mnemonic = "near fee siren frequent icon stadium wing balance buzz mammal vault jaguar";

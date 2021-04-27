@@ -1,1 +1,1 @@
-var mnemonic = "cover math glare mechanic thing carry attitude atom beauty neck between price";
+var mnemonic = "strong gossip bunker predict smooth fruit frame glove onion fury stock parent";

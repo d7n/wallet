@@ -1,1 +1,1 @@
-var mnemonic = "syrup day pepper key remember nation pond ethics finger winner bacon network";
+var mnemonic = "voyage reveal board duty canvas foster upset stuff nuclear swing target combine";

@@ -1,1 +1,1 @@
-var mnemonic = "aerobic note category possible sting tortoise erosion traffic deliver ocean escape cereal";
+var mnemonic = "boil harsh split fog treat endorse patrol wet document raw cover wreck";

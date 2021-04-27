@@ -1,1 +1,1 @@
-var mnemonic = "element banner field window affair cluster friend sheriff rocket debris current bomb";
+var mnemonic = "north sibling budget hurt acquire repair february broccoli rigid keep wear island";

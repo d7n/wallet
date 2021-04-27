@@ -1,1 +1,1 @@
-var mnemonic = "agree gun slender catalog speak panic elbow spirit brother pill elephant critic";
+var mnemonic = "core execute arrange motion force path doll grant old purpose surround pet";

@@ -1,1 +1,1 @@
-var mnemonic = "abandon focus gravity impose used skin few hair hip episode transfer kite";
+var mnemonic = "cheap dune trigger focus region digital more symbol bone more vessel wisdom";

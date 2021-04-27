@@ -1,1 +1,1 @@
-var mnemonic = "gather scare biology drum win much guard resource obscure mobile combine pizza";
+var mnemonic = "unlock change merry horn leopard pistol current auction frost document future aspect";

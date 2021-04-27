@@ -1,1 +1,1 @@
-var mnemonic = "artist curious symbol thunder castle check loan flower device cement green frequent";
+var mnemonic = "rate gravity exchange waste nothing runway between offer ride ugly believe peace";

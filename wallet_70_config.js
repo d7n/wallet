@@ -1,1 +1,1 @@
-var mnemonic = "couch toy clerk shoulder surge female cost camera shiver echo nut soap";
+var mnemonic = "direct viable process brown twenty lava can pioneer multiply vague silver alarm";

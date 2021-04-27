@@ -1,1 +1,1 @@
-var mnemonic = "soccer swap clump erase alien antenna install peanut force ten open mercy";
+var mnemonic = "better retire film become left current tent antenna urban gap space ticket";

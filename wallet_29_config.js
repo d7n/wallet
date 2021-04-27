@@ -1,1 +1,1 @@
-var mnemonic = "follow cigar uphold midnight ostrich position mandate solar common ivory jacket cliff";
+var mnemonic = "surge bachelor spot piece patrol cinnamon original tumble repeat token surface salon";

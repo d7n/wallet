@@ -1,1 +1,1 @@
-var mnemonic = "weekend solid marble stock couple actress expose orange embark smart recycle lonely";
+var mnemonic = "enjoy gain solution reveal battle slab island tail struggle acid wild snap";

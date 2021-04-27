@@ -1,1 +1,1 @@
-var mnemonic = "mountain flat beach rival carpet equip quality embrace grow brain volcano paper";
+var mnemonic = "race second hero sketch rich tornado cave puppy maximum spend render strong";

@@ -1,1 +1,1 @@
-var mnemonic = "isolate movie vital car warrior crop solution antenna second nice picnic stove";
+var mnemonic = "ceiling erase tongue civil duty coach phrase kiss boy spider armor success";

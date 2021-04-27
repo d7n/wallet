@@ -1,1 +1,1 @@
-var mnemonic = "letter also kit you invite valve daring liquid hunt proof affair wet";
+var mnemonic = "stadium frown cheap double into talent shoulder dragon loud invite short artist";

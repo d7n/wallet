@@ -1,1 +1,1 @@
-var mnemonic = "upgrade seek then range burden soldier permit clip arena steak advance remind";
+var mnemonic = "pyramid problem law hill brother elevator blind crush situate keep agree repair";

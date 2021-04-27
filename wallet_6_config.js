@@ -1,1 +1,1 @@
-var mnemonic = "accuse pony claim earn pill fever happy seminar skirt exhibit utility wisdom";
+var mnemonic = "fever job camp scrap cigar cargo horse syrup just little mammal once";

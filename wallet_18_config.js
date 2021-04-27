@@ -1,1 +1,1 @@
-var mnemonic = "radio woman wreck basic useful barely benefit disorder guess debris mass shift";
+var mnemonic = "element buddy phone analyst vehicle fine lucky unfair note trash wagon mountain";

@@ -1,1 +1,1 @@
-var mnemonic = "beef light scissors indoor pipe rally network purity cliff panel insect manage";
+var mnemonic = "first lab vibrant top lake divorce hip advance black false cousin error";

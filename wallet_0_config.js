@@ -1,1 +1,1 @@
-var mnemonic = "creek harsh shadow lava sentence summer eye task build fatal jacket renew";
+var mnemonic = "measure dose two master mesh tenant matrix lecture bid advice alone sock";

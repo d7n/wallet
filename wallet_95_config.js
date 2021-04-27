@@ -1,1 +1,1 @@
-var mnemonic = "isolate ability alter soul journey leisure delay sketch curve depend want hair";
+var mnemonic = "live mask elder upon surface comic steel select age dune message lend";

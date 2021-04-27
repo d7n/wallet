@@ -1,1 +1,1 @@
-var mnemonic = "cable bread basket student still position session monitor pole rubber alpha useless";
+var mnemonic = "twenty culture mixed blast ripple among post dutch satisfy clump erode wife";

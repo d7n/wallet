@@ -1,1 +1,1 @@
-var mnemonic = "curious bicycle enroll early cram fossil very occur danger gossip approve excuse";
+var mnemonic = "decrease skill speak patrol thunder suspect mandate they recall logic tackle observe";

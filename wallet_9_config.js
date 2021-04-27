@@ -1,1 +1,1 @@
-var mnemonic = "double cotton width enlist width jaguar polar rhythm black crouch donkey unable";
+var mnemonic = "spike absurd ghost impact load tissue thought useful armor already obey tray";

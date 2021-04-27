@@ -1,1 +1,1 @@
-var mnemonic = "boil portion decide antenna snake survey resist erode minute fossil valid wrestle";
+var mnemonic = "tent elite caught life neck post timber ensure balcony give awful sell";

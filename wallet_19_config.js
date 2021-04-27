@@ -1,1 +1,1 @@
-var mnemonic = "aisle potato bleak parade cricket kite organ father fine service worth rack";
+var mnemonic = "cactus shadow middle inspire echo twice adapt cycle wood oven merge cluster";

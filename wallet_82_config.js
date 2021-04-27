@@ -1,1 +1,1 @@
-var mnemonic = "erosion cat grid prize control lesson oval explain afford crop shell rifle";
+var mnemonic = "tell nurse flip rent ball blur math silent whale friend print surprise";

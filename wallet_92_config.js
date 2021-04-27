@@ -1,1 +1,1 @@
-var mnemonic = "castle vanish sunset hope direct toe beef home hair loan fresh correct";
+var mnemonic = "evoke pipe symbol release seed flock hawk royal tooth unit plate abandon";

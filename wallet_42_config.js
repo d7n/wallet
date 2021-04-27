@@ -1,1 +1,1 @@
-var mnemonic = "fashion clog insect someone negative gun peasant deal payment ball correct cave";
+var mnemonic = "group abstract seek coach accuse paddle fetch change gain kitchen pencil color";

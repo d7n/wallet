@@ -1,1 +1,1 @@
-var mnemonic = "kid noble bid differ typical enrich suit need recipe trial lend decorate";
+var mnemonic = "stove buffalo strategy october issue stand arm swap struggle runway transfer cook";

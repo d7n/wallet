@@ -1,1 +1,1 @@
-var mnemonic = "exotic rather sunny federal airport primary uniform glance arctic brush oblige steak";
+var mnemonic = "pass connect seminar cousin obscure scale language spread salt song pigeon away";

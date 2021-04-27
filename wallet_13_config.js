@@ -1,1 +1,1 @@
-var mnemonic = "boat jungle truth match palace ethics village crime girl guess seminar wrist";
+var mnemonic = "hat depth curve woman cake spring empower anchor immense speak bounce fit";

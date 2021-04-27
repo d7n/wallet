@@ -1,1 +1,1 @@
-var mnemonic = "country cricket before alter abstract hover leisure exchange box skirt drive prepare";
+var mnemonic = "front camp merit voice arm proud glance antique key sleep satisfy grief";

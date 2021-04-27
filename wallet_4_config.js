@@ -1,1 +1,1 @@
-var mnemonic = "swim coin craft crumble anchor live runway program salon mixed wish siege";
+var mnemonic = "only follow before man demise fog argue pluck absurd april stem layer";

@@ -1,1 +1,1 @@
-var mnemonic = "topic oval dust infant session route differ era voice buddy patrol narrow";
+var mnemonic = "visual ramp learn enroll any lawsuit use rifle crop crumble video length";

@@ -1,1 +1,1 @@
-var mnemonic = "acid rival beef collect saddle mail fall admit two cost switch toe";
+var mnemonic = "often assume damp deal collect toy venture idea obvious silver artwork negative";

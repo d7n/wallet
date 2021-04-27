@@ -1,1 +1,1 @@
-var mnemonic = "antique echo hazard drill top cloud drum remain quantum success crew woman";
+var mnemonic = "shaft supply muscle analyst erupt host father blind shop birth guess slow";

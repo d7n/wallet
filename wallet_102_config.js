@@ -1,1 +1,1 @@
-var mnemonic = "balcony key vessel mix remove slight camp peace grow bomb immense chuckle";
+var mnemonic = "sunny fatigue brave spice shrug output stick outer subject fury faint else";

@@ -1,1 +1,1 @@
-var mnemonic = "say monster fragile emotion owner spatial duck siren fitness index bulb elite";
+var mnemonic = "zebra bright raccoon holiday traffic token sort either spirit ozone fiscal creek";

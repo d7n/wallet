@@ -1,1 +1,1 @@
-var mnemonic = "fatigue guard cereal romance wet once govern garden erase width marble inch";
+var mnemonic = "order canoe lady govern fish embark cart solve aisle manage waste rebel";

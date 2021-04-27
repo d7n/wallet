@@ -1,1 +1,1 @@
-var mnemonic = "indicate walnut cook return assault misery six clinic ethics banana kind achieve";
+var mnemonic = "always cake season direct snake raw frame average asthma sniff elite liberty";

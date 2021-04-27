@@ -1,1 +1,1 @@
-var mnemonic = "trust swamp unique return stone scout artwork loop become alert rabbit escape";
+var mnemonic = "genuine income host all argue elder earn universe gadget method confirm bulb";

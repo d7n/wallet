@@ -1,1 +1,1 @@
-var mnemonic = "cliff observe slender minimum surround prison couch gossip off armed gesture wise";
+var mnemonic = "quarter kind elegant merit thunder edge eye scrub dutch mother slush clump";

@@ -1,1 +1,1 @@
-var mnemonic = "bronze yellow begin decade circle answer open hazard gallery change what tool";
+var mnemonic = "expose sense loan toddler marble ritual trigger melt piano still bullet fancy";

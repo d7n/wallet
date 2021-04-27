@@ -1,1 +1,1 @@
-var mnemonic = "together easy crucial matter clay allow differ cream welcome daughter glance diamond";
+var mnemonic = "carbon claim decline few health edit faith office scene regular moon accident";

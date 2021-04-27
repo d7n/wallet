@@ -1,1 +1,1 @@
-var mnemonic = "magnet milk during alarm rhythm tuna universe magnet shy honey true detect";
+var mnemonic = "giraffe evidence occur ankle supply lock away laugh abstract assault check session";

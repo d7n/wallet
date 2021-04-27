@@ -1,1 +1,1 @@
-var mnemonic = "fatal tank lock drink during toast century luxury follow identify pitch range";
+var mnemonic = "obtain pool twenty guide margin medal search wrong season bachelor ensure length";

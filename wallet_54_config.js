@@ -1,1 +1,1 @@
-var mnemonic = "polar drill cable loyal picture imitate crucial write carbon slab dose hamster";
+var mnemonic = "fantasy tribe sweet spoon brush maple ivory thank auction apology frozen near";

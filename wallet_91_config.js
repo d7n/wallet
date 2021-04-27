@@ -1,1 +1,1 @@
-var mnemonic = "forget body pigeon man tank saddle stuff youth damp runway oppose boss";
+var mnemonic = "leave title verify cupboard fruit poet law demise broccoli ride menu garage";

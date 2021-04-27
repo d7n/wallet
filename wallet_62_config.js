@@ -1,1 +1,1 @@
-var mnemonic = "fabric deposit story detect magnet crucial crisp roof steel one annual home";
+var mnemonic = "thumb pig multiply bronze few pulse pulse punch solar gold foot horse";

@@ -1,1 +1,1 @@
-var mnemonic = "duck patch zebra awake spoon alarm victory make own alone series check";
+var mnemonic = "treat west tongue defy balcony rent few sting lift oyster knee jewel";

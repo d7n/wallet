@@ -1,1 +1,1 @@
-var mnemonic = "random hammer area hunt roast island excite mail problem because paddle option";
+var mnemonic = "purpose reopen shy live liar nut rapid naive art error nasty wing";

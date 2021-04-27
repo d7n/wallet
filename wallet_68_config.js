@@ -1,1 +1,1 @@
-var mnemonic = "tuna oven misery thank stereo ramp blind nuclear ranch adapt pudding arena";
+var mnemonic = "sure salute inmate bulk census rigid lobster simple lamp naive drastic shield";

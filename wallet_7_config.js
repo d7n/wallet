@@ -1,1 +1,1 @@
-var mnemonic = "route volume print enrich citizen shrug small virus science inquiry jump peace";
+var mnemonic = "monkey parent inner helmet match offer syrup acquire action fine pact crater";

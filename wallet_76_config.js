@@ -1,1 +1,1 @@
-var mnemonic = "never helmet crystal scale like tonight topple letter choice dash measure people";
+var mnemonic = "want loan corn bicycle neck father soul one lift involve leaf net";

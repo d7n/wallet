@@ -1,1 +1,1 @@
-var mnemonic = "tray cherry joy awkward sadness keep shuffle cupboard empty science cable online";
+var mnemonic = "ski you already manual giggle elegant basket leisure junior brush snow later";

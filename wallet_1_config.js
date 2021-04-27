@@ -1,1 +1,1 @@
-var mnemonic = "dinner alarm praise wave glad more spread furnace exclude betray connect emerge";
+var mnemonic = "settle visit spell fatigue romance erode recipe leisure pave hand fun manual";

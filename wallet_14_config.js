@@ -1,1 +1,1 @@
-var mnemonic = "false salmon horn strong empty valve dismiss husband reveal shine jelly genuine";
+var mnemonic = "glow cool whip region around local turn onion tank act vocal fit";

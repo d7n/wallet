@@ -1,1 +1,1 @@
-var mnemonic = "fire copper forget cram empty rack rookie taxi stage arrow charge harbor";
+var mnemonic = "wheel phone erode toast unknown law student front protect album need market";

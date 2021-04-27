@@ -1,1 +1,1 @@
-var mnemonic = "order bridge ride knife husband crane analyst inherit chief ticket able solid";
+var mnemonic = "tackle cheese where stadium opera amused clarify exist axis permit ethics among";

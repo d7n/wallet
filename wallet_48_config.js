@@ -1,1 +1,1 @@
-var mnemonic = "cupboard act track apple tiger clean mammal time melt tobacco benefit enough";
+var mnemonic = "split marine valley near tide seek anger weird pink symbol tunnel vocal";

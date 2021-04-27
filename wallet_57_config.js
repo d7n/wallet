@@ -1,1 +1,1 @@
-var mnemonic = "sort choice slim program advice actual endless hint track clump session solid";
+var mnemonic = "bring differ stone tuition civil photo top hurt accident word imitate word";

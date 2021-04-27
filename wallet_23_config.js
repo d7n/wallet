@@ -1,1 +1,1 @@
-var mnemonic = "phrase treat subject cage error animal ticket screen antenna private fossil together";
+var mnemonic = "minor seven method column search evoke fashion planet faint vintage always borrow";

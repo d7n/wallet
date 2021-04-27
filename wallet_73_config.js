@@ -1,1 +1,1 @@
-var mnemonic = "when glow bubble civil off peace garbage message maple sand ready wrestle";
+var mnemonic = "grant hazard recipe gown leave cause this funny useful little fringe enter";

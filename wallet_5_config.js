@@ -1,1 +1,1 @@
-var mnemonic = "wise face venue vague marble price tuition mad episode muscle young fan";
+var mnemonic = "sea clap easy decide bounce genre profit excuse diet rich quarter want";

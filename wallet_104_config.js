@@ -1,1 +1,1 @@
-var mnemonic = "erode cloth want item venture cloud egg artist awkward scout arena cloth";
+var mnemonic = "powder merge cheese coffee mesh wild coral feature lunch truth tilt opera";

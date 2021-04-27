@@ -1,1 +1,1 @@
-var mnemonic = "duck soldier start engine desk hero assume endorse fossil okay term flat";
+var mnemonic = "pride display thumb apple wrist hawk either mushroom skin quarter layer pioneer";

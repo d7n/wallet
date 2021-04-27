@@ -1,1 +1,1 @@
-var mnemonic = "sun wear liberty adult modify initial grit cage correct chaos rich enter";
+var mnemonic = "very trap horn ghost embark hair hill ability tag dove still admit";

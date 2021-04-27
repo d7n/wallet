@@ -1,1 +1,1 @@
-var mnemonic = "unit powder silly voice erode knock pair sword body man spike afford";
+var mnemonic = "pledge unaware always industry muffin fresh clump travel black machine barely tell";

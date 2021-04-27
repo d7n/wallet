@@ -1,1 +1,1 @@
-var mnemonic = "fantasy riot dolphin visa addict fantasy hair chair guess kitchen laugh pilot";
+var mnemonic = "daughter distance ask evidence point market direct recall goddess illegal vicious agree";

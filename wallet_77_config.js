@@ -1,1 +1,1 @@
-var mnemonic = "pretty vacuum retire habit cream hire local walk egg wife fatigue jaguar";
+var mnemonic = "whale midnight swim pool salute orbit crane feed sister outer forget film";
