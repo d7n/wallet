@@ -1,1 +1,1 @@
-var mnemonic = "box obvious shuffle rabbit cave talent taste dutch rack harsh atom pulp";
+var mnemonic = "armor steak estate plate orchard song stand garden exile chapter food potato";

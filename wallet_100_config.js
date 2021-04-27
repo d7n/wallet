@@ -1,1 +1,1 @@
-var mnemonic = "regret glory sea raven message winter brick memory inner cream theme fat";
+var mnemonic = "cook amount train giggle matter arctic volume gorilla squeeze method jeans success";

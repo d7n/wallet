@@ -1,1 +1,1 @@
-var mnemonic = "shaft vault differ gym husband tip spread crucial old organ ecology wife";
+var mnemonic = "favorite february exotic unit limb charge fish two bullet fuel bread comfort";

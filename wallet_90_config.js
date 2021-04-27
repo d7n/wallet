@@ -1,1 +1,1 @@
-var mnemonic = "stuff maple dress giraffe woman pudding allow warfare slush penalty faith million";
+var mnemonic = "sight disagree input account loan hockey unique fly mail text cradle evoke";

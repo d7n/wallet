@@ -1,1 +1,1 @@
-var mnemonic = "impact now yard elite few acquire lazy sponsor stumble fee notable sunny";
+var mnemonic = "rack direct swing weather suspect finger nothing above tuna slight voice three";

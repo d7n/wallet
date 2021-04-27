@@ -1,1 +1,1 @@
-var mnemonic = "resist draft possible cattle secret pair regular wisdom group marble nation settle";
+var mnemonic = "hello update curious since observe broccoli add fashion flip solve february animal";

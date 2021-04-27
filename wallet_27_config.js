@@ -1,1 +1,1 @@
-var mnemonic = "task dwarf hospital injury salon draft tattoo prison upon strike lunch unfair";
+var mnemonic = "jar sketch fire below grid body escape trash toss wide raise laptop";

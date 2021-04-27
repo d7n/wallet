@@ -1,1 +1,1 @@
-var mnemonic = "sunny tennis hub enough hood expand comfort own chuckle option distance tourist";
+var mnemonic = "fine ladder flip awful enact report inch daring wagon roof holiday crush";

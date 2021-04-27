@@ -1,1 +1,1 @@
-var mnemonic = "slim abandon open dune office effort infant dumb hub cactus stand later";
+var mnemonic = "inflict toddler oak clutch ceiling valid local derive alpha during lawsuit winter";

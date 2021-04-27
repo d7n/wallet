@@ -1,1 +1,1 @@
-var mnemonic = "perfect hip target silver midnight world stadium whisper donor shop oval globe";
+var mnemonic = "urban artwork swap scout raccoon six spring gift screen slab proof suffer";

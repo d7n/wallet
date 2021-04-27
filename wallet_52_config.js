@@ -1,1 +1,1 @@
-var mnemonic = "blue flat suffer one bike stand wet select flash vessel man wedding";
+var mnemonic = "recycle scissors agent tortoise plate gravity explain pony angle garden vacant ice";

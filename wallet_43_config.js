@@ -1,1 +1,1 @@
-var mnemonic = "theory core suit soda business supply brain tiger capital mandate symbol crop";
+var mnemonic = "acquire public pool absorb snake powder dutch lawsuit april drama voyage mesh";

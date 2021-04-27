@@ -1,1 +1,1 @@
-var mnemonic = "someone seek imitate distance bus today end resource chat estate that expect";
+var mnemonic = "report stone runway neglect double cricket various grid ecology tackle file spray";

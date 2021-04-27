@@ -1,1 +1,1 @@
-var mnemonic = "nest useless olive jump outside change amused nation vendor claw capable tiny";
+var mnemonic = "orchard bid magnet myself convince filter dove text typical idea blind rural";

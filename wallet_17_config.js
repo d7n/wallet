@@ -1,1 +1,1 @@
-var mnemonic = "turtle wrestle minor adjust sleep foster cloud agree force spoon outer congress";
+var mnemonic = "purchase river caught occur size vote museum december engine picture disease mango";

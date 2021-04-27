@@ -1,1 +1,1 @@
-var mnemonic = "renew ball work cargo awkward drink wear scrap rival organ speed bird";
+var mnemonic = "frost junior silent vocal noodle educate also noise odor actor donate park";

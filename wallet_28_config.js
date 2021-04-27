@@ -1,1 +1,1 @@
-var mnemonic = "depth answer such gun please bike portion setup scrub march celery wide";
+var mnemonic = "ugly first crunch antique anchor guilt turn radar rug gift dawn rescue";

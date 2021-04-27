@@ -1,1 +1,1 @@
-var mnemonic = "region resemble tragic outside coil fossil dove mass mechanic limit glance flight";
+var mnemonic = "seat resist bean acid mesh fatigue cram canvas barely life drip bargain";

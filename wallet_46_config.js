@@ -1,1 +1,1 @@
-var mnemonic = "stay like noise differ repeat method armor first parrot pioneer favorite buzz";
+var mnemonic = "dry borrow shock prevent book dignity mean play grace barely steel man";

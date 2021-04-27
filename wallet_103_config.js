@@ -1,1 +1,1 @@
-var mnemonic = "salt bundle unusual best rent dutch wrap gift grab filter slight clean";
+var mnemonic = "already unable cause tourist friend dwarf castle return hotel insect honey enroll";

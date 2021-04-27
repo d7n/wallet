@@ -1,1 +1,1 @@
-var mnemonic = "emerge rigid vendor waste state inside draw pizza borrow tuition helmet when";
+var mnemonic = "furnace level frame shadow diary index dinner radar rail fantasy giant cloud";

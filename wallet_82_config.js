@@ -1,1 +1,1 @@
-var mnemonic = "finger ten trend antique humble empower weasel relief front unable unlock mean";
+var mnemonic = "tiger margin genius uncover ladder replace analyst first burst region meadow oyster";

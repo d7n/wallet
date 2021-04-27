@@ -1,1 +1,1 @@
-var mnemonic = "stomach gown choice attack wife about review legend manual lumber mask ship";
+var mnemonic = "split argue evoke enjoy found talent response wait body area viable ladder";

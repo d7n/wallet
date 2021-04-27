@@ -1,1 +1,1 @@
-var mnemonic = "level before long crawl desert exist knife insane obvious obtain woman climb";
+var mnemonic = "expire rifle thank verify fade gadget core head squirrel scissors panda dinner";

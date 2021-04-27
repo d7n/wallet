@@ -1,1 +1,1 @@
-var mnemonic = "average excite ready never wise afford inside vessel have fine foil permit";
+var mnemonic = "brother way grid vapor laundry trick sudden glory proof install strike jelly";

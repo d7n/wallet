@@ -1,1 +1,1 @@
-var mnemonic = "glove marine skate soap ordinary spot october sponsor tongue warfare bomb canoe";
+var mnemonic = "lyrics tide push tent more glory employ forest object episode ten clay";

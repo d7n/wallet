@@ -1,1 +1,1 @@
-var mnemonic = "design solution flush loan episode write audit twice vendor laptop huge hero";
+var mnemonic = "drastic destroy north common female hybrid tunnel marine swear veteran dove among";

@@ -1,1 +1,1 @@
-var mnemonic = "execute flash loyal ten throw dawn area traffic harvest coconut basket attitude";
+var mnemonic = "enter hip shallow dumb boring used gas become code ask strike day";

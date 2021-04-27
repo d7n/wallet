@@ -1,1 +1,1 @@
-var mnemonic = "kind noise spring runway bachelor main minimum fossil make dream drum broken";
+var mnemonic = "ability raise lamp frequent off truly slight above split fun notable chapter";

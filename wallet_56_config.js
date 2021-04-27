@@ -1,1 +1,1 @@
-var mnemonic = "robot luggage amount face junk model vital arrange exhibit abstract code original";
+var mnemonic = "arrive boil loan grocery afraid ghost provide client injury credit section gift";

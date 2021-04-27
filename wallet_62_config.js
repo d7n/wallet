@@ -1,1 +1,1 @@
-var mnemonic = "bacon walk motion alarm mom mom treat float stay shop diesel science";
+var mnemonic = "clarify swing dove host wrist task visit truly stadium attract athlete alcohol";

@@ -1,1 +1,1 @@
-var mnemonic = "gown shove can claim vicious wide unit story tenant allow year talent";
+var mnemonic = "gas cluster answer trip fee romance fine special grace ritual machine dilemma";

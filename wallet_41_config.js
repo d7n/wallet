@@ -1,1 +1,1 @@
-var mnemonic = "grid minute turtle pledge click monkey tissue head budget two middle sudden";
+var mnemonic = "social truck purity comfort time enforce staff front run reduce smart carbon";

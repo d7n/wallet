@@ -1,1 +1,1 @@
-var mnemonic = "burden label eternal absorb furnace stereo capable century ostrich jaguar rich combine";
+var mnemonic = "lonely brisk bunker man ketchup artefact trophy angle fluid master slim journey";

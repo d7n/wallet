@@ -1,1 +1,1 @@
-var mnemonic = "stem duck like raccoon federal dog lemon unlock taxi embrace dynamic text";
+var mnemonic = "behave strategy derive dune mutual bargain blue toilet grunt milk law truck";

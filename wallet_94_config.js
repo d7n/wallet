@@ -1,1 +1,1 @@
-var mnemonic = "neutral define chimney inform essay wash miss acquire uncover crucial shield winter";
+var mnemonic = "improve fade torch nothing behave loop hub craft feel pool language cover";

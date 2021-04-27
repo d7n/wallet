@@ -1,1 +1,1 @@
-var mnemonic = "south fuel result motion husband become ask access genius anger scrap social";
+var mnemonic = "edit gentle strategy inject boy depend patch pepper pudding duty still arrow";

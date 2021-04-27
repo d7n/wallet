@@ -1,1 +1,1 @@
-var mnemonic = "dance wrist mystery grow charge wage hair crater foot brief crazy glad";
+var mnemonic = "cupboard neither price dune panther easily stable kite ancient quarter east powder";

@@ -1,1 +1,1 @@
-var mnemonic = "quantum come fiction sun mom badge type steak wine timber entry daughter";
+var mnemonic = "sister mammal push frown palm any flame forget spice dry deputy item";

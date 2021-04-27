@@ -1,1 +1,1 @@
-var mnemonic = "trophy mesh able raven comic ticket behave half critic permit crystal truck";
+var mnemonic = "idea emerge flee autumn they spot tongue tell kingdom drink wide plug";

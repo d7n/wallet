@@ -1,1 +1,1 @@
-var mnemonic = "drum game trade faint type race garment scale impact ticket mammal rookie";
+var mnemonic = "uncle blanket clean tray thrive lawn brown raise please eager couple plate";

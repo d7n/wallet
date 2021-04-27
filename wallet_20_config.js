@@ -1,1 +1,1 @@
-var mnemonic = "orbit gloom library brain step pride mad position multiply favorite reflect mimic";
+var mnemonic = "hub retreat eight powder net unfold bar burden palm invite ivory crowd";

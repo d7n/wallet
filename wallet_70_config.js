@@ -1,1 +1,1 @@
-var mnemonic = "denial title maximum iron awkward forward reflect refuse deliver endless pipe wrap";
+var mnemonic = "enough firm direct wise baby reopen enlist capable harbor flee fish horn";

@@ -1,1 +1,1 @@
-var mnemonic = "illness asset file kidney tortoise repeat scrub task ball off primary trash";
+var mnemonic = "orphan gather pear elegant tank eternal extra celery sentence empty dinosaur primary";

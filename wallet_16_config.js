@@ -1,1 +1,1 @@
-var mnemonic = "brisk myself better surprise humor fiction obey round usual brisk devote mirror";
+var mnemonic = "cause blind soup blouse clean column fiction start swamp response traffic slim";

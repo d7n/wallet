@@ -1,1 +1,1 @@
-var mnemonic = "parade adjust major draft enlist unknown emerge capital sight vote sauce carpet";
+var mnemonic = "ribbon way business limb tree spring nephew ill flush retreat special awkward";

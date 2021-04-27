@@ -1,1 +1,1 @@
-var mnemonic = "shine wolf recycle film guess similar spell share race left crew face";
+var mnemonic = "almost few ecology truly heart monkey tree oil enable spell boost nation";

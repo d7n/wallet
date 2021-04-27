@@ -1,1 +1,1 @@
-var mnemonic = "talk buyer dragon unveil finger resemble student shell cupboard urban turtle slam";
+var mnemonic = "argue wait stage want isolate output phone poem primary ketchup later liar";

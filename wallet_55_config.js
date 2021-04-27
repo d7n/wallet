@@ -1,1 +1,1 @@
-var mnemonic = "base model hub upgrade permit oxygen capable lava suspect glove story rubber";
+var mnemonic = "vault chicken woman veteran garment duck scissors illness power enforce stay item";

@@ -1,1 +1,1 @@
-var mnemonic = "improve uphold modify square cake popular dizzy antenna carry cactus shrug firm";
+var mnemonic = "slow purity feel execute alter all volcano turtle ethics verb also calm";

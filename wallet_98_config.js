@@ -1,1 +1,1 @@
-var mnemonic = "ring forest silly admit sauce winter laptop mosquito bonus quality favorite artist";
+var mnemonic = "client barely cargo since chair horse over chronic decade equal case swap";

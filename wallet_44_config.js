@@ -1,1 +1,1 @@
-var mnemonic = "trust story say travel table left few depart orchard say spread acid";
+var mnemonic = "holiday swarm cheese iron almost afford educate aim bike front dentist uncle";

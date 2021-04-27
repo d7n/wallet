@@ -1,1 +1,1 @@
-var mnemonic = "flat salute memory defense dream person acid board glue canyon ticket salmon";
+var mnemonic = "dish sock grab piano private giggle buddy nation fade vacuum man tube";

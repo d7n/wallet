@@ -1,1 +1,1 @@
-var mnemonic = "oxygen stumble series betray arena oil weapon april reunion wrestle sun assist";
+var mnemonic = "silent axis cradle exercise quick fade exotic limit edit ritual price review";

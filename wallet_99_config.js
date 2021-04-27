@@ -1,1 +1,1 @@
-var mnemonic = "dilemma retreat metal enable spray run usage pulp rapid walk swamp heavy";
+var mnemonic = "absurd cattle spoil intact claw income balcony enact brisk battle borrow trend";

@@ -1,1 +1,1 @@
-var mnemonic = "wage gap tube conduct such critic artist debris verb myth between gas";
+var mnemonic = "such glance swallow cart girl fever gun drastic inner one reward help";

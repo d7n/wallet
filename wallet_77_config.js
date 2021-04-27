@@ -1,1 +1,1 @@
-var mnemonic = "quick weekend tent detail carbon attitude call alpha thunder winter ketchup alone";
+var mnemonic = "grow dentist replace obtain bleak gadget trial cherry reopen one liquid blast";

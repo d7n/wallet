@@ -1,1 +1,1 @@
-var mnemonic = "mesh sauce rice drip exist urge figure ridge desert stamp rapid pelican";
+var mnemonic = "jacket orbit inch medal essence clap gorilla pledge home reunion ice resemble";

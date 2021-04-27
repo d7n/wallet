@@ -1,1 +1,1 @@
-var mnemonic = "toddler begin test want finger later advance under sugar mixed maid risk";
+var mnemonic = "lend feed smart tide vacant sense coyote struggle moral word little equip";

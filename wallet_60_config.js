@@ -1,1 +1,1 @@
-var mnemonic = "fiber wrong fiction trumpet pumpkin fiscal fringe arena language alley squeeze glow";
+var mnemonic = "abandon group boss member eternal tooth radio pottery rare battle leisure oil";

@@ -1,1 +1,1 @@
-var mnemonic = "garage argue repeat strike learn genuine swap stand outdoor tennis thunder check";
+var mnemonic = "gravity note ship attend disagree rely powder sell lemon lucky rival yard";

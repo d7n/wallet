@@ -1,1 +1,1 @@
-var mnemonic = "thing book lend donkey surface awesome okay egg regret lend slight cinnamon";
+var mnemonic = "public worry broccoli swear layer cereal broken weekend general soda laptop volume";

@@ -1,1 +1,1 @@
-var mnemonic = "audit license raise trade unit merge push brief detect exhaust fee fix";
+var mnemonic = "radio replace empower indoor paper energy tray youth knock found bunker carpet";

@@ -1,1 +1,1 @@
-var mnemonic = "bench evil elder depart provide outer outside stadium wave price damp genre";
+var mnemonic = "bitter wolf sustain flight wife olympic identify armor grunt album puppy situate";

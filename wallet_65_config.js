@@ -1,1 +1,1 @@
-var mnemonic = "away earn burden blame wealth father glove ordinary donor super jacket hold";
+var mnemonic = "media idea anxiety burst can endorse provide answer oppose rib country cup";

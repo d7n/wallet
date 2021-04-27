@@ -1,1 +1,1 @@
-var mnemonic = "easy bike bus castle finger crush fix universe desk width spoon hedgehog";
+var mnemonic = "kiss stand artist leg evolve swim barely labor hat peanut lonely domain";

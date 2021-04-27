@@ -1,1 +1,1 @@
-var mnemonic = "width project mobile multiply mansion shy minute nerve what fox multiply size";
+var mnemonic = "judge promote motion logic garage north sunset pause say nest ready renew";

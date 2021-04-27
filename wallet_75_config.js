@@ -1,1 +1,1 @@
-var mnemonic = "diet master tragic diamond oppose salmon crazy bean short acquire sting doctor";
+var mnemonic = "bless sure now sleep milk expand museum salmon magnet record deny visit";

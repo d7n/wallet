@@ -1,1 +1,1 @@
-var mnemonic = "hidden side return laundry broom elephant strike silver frown question ghost parent";
+var mnemonic = "outside party front engage net digital alert egg shadow always monitor park";

@@ -1,1 +1,1 @@
-var mnemonic = "cost repeat plate easily cute inch deal pledge crazy surge vast occur";
+var mnemonic = "case garbage cotton employ duck inside pencil ocean disorder nephew train kidney";

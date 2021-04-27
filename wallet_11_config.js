@@ -1,1 +1,1 @@
-var mnemonic = "stuff awful fossil attitude chronic awful upset excess balance lizard invest what";
+var mnemonic = "rely south hurry interest pigeon ivory moral crawl decrease hover park live";

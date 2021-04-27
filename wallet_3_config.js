@@ -1,1 +1,1 @@
-var mnemonic = "catalog gold off transfer cupboard ripple random solve inch public stage text";
+var mnemonic = "voice drop tomorrow bicycle praise illness fringe wing trick reopen amount wife";

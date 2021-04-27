@@ -1,1 +1,1 @@
-var mnemonic = "minute quantum parade magic saddle fabric since amazing diamond floor trip exercise";
+var mnemonic = "mom survey person imitate news divert hat enhance security infant depart color";

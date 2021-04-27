@@ -1,1 +1,1 @@
-var mnemonic = "toe wasp suggest dragon mountain sniff goose library trigger script harvest damp";
+var mnemonic = "guess flat gentle license escape tired cement bargain gain ecology side east";

@@ -1,1 +1,1 @@
-var mnemonic = "decorate olympic spread offer code soda exhibit party wonder smart mother deputy";
+var mnemonic = "pitch movie tragic grief garage remove junk this buyer divorce thrive marble";

@@ -1,1 +1,1 @@
-var mnemonic = "broom rigid property rifle gossip maximum appear bind goose vacuum identify must";
+var mnemonic = "announce switch all utility tide live scheme few era butter science napkin";

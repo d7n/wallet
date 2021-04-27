@@ -1,1 +1,1 @@
-var mnemonic = "refuse question army leave mouse print radio light whip item dream planet";
+var mnemonic = "comic myth polar earth toy surprise sausage hollow bright aerobic seek mask";

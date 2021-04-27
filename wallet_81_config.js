@@ -1,1 +1,1 @@
-var mnemonic = "excite space about dad roof where deer offer regret mandate airport silver";
+var mnemonic = "lonely audit depth motor toy tumble pole repair letter company minor turtle";

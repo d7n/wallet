@@ -1,1 +1,1 @@
-var mnemonic = "enemy venue coil endorse target defense umbrella venture admit effort meadow cheap";
+var mnemonic = "scissors usage assist mountain ginger divert amount person weasel panda october gorilla";

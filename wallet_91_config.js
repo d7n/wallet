@@ -1,1 +1,1 @@
-var mnemonic = "dutch faculty harsh across interest dial rapid fork open tumble festival purse";
+var mnemonic = "manual shallow party diesel swallow surprise hole unfair brain ready grape clay";

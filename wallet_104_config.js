@@ -1,1 +1,1 @@
-var mnemonic = "advice tail false defense noodle stove run film recall sister render resist";
+var mnemonic = "search antique dress spice quit better never tilt skate cherry motor display";

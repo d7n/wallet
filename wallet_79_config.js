@@ -1,1 +1,1 @@
-var mnemonic = "swear wrap wild spread west inherit pole pet phone involve giggle fly";
+var mnemonic = "adjust success immune fluid beyond dismiss curtain person dragon cereal squeeze bomb";

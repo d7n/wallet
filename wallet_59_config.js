@@ -1,1 +1,1 @@
-var mnemonic = "bar gather clip lawn expose cannon wing slide replace hole click great";
+var mnemonic = "garlic forum romance seminar empty wise art step trouble napkin panel movie";

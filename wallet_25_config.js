@@ -1,1 +1,1 @@
-var mnemonic = "orphan nice either spatial level length pioneer electric keen powder fox oppose";
+var mnemonic = "imitate album knee gain spare tired saddle toward cheap office harsh border";

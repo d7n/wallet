@@ -1,1 +1,1 @@
-var mnemonic = "bitter lawn volume bulb brief inform viable worry civil kite type eagle";
+var mnemonic = "funny runway state wheat toe auto twice hungry emotion element blanket mansion";

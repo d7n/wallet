@@ -1,1 +1,1 @@
-var mnemonic = "logic never amused rely loop metal fresh spike trophy carpet bunker punch";
+var mnemonic = "mix away roof spell enough ecology decrease list elite paddle cross sure";

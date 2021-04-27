@@ -1,1 +1,1 @@
-var mnemonic = "rain cannon process arrange fee practice clean cupboard resource reveal runway economy";
+var mnemonic = "lesson empty child accuse grocery actual talk federal long pioneer six witness";

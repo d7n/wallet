@@ -1,1 +1,1 @@
-var mnemonic = "discover cannon ahead net resemble lobster crew yard join oval frown cradle";
+var mnemonic = "obtain dumb curve distance segment flat assume category drama hollow resist dizzy";

@@ -1,1 +1,1 @@
-var mnemonic = "bind tenant keen upper slight guitar sketch hurdle rotate school panic parent";
+var mnemonic = "piece orphan consider where hire sibling chimney jazz render spirit bachelor join";

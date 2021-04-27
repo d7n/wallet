@@ -1,1 +1,1 @@
-var mnemonic = "crucial report idea upset slender south blush series monkey trust ill student";
+var mnemonic = "achieve soul panel fabric card envelope brick all jealous weapon deliver copper";

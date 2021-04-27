@@ -1,1 +1,1 @@
-var mnemonic = "antenna foster infant reopen lab matrix mixture level erode buzz swear accuse";
+var mnemonic = "dolphin green pumpkin peace slide tuna badge exit parent sorry punch arrange";

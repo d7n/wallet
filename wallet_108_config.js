@@ -1,1 +1,1 @@
-var mnemonic = "bench ladder charge solve sheriff interest sibling visual hire dose loud index";
+var mnemonic = "exclude rebel expand crop use race amazing quiz result surface trick attitude";
