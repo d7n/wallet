@@ -1,1 +1,1 @@
-var mnemonic = "toy bargain liquid erase pause busy inquiry video iron model ramp divert";
+var mnemonic = "actress rough shy fold clerk when dizzy resource mutual silver bread card";

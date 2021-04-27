@@ -1,1 +1,1 @@
-var mnemonic = "dirt only key link hawk fly letter gauge margin supreme glue tragic";
+var mnemonic = "orphan scissors risk toilet element actual sphere soul push garage much file";

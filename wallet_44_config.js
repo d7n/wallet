@@ -1,1 +1,1 @@
-var mnemonic = "usage loop innocent safe cool labor panic velvet jar spike health region";
+var mnemonic = "leave furnace churn raw robot two cabbage plate runway fetch bid smooth";

@@ -1,1 +1,1 @@
-var mnemonic = "season border song found reopen logic argue topic coral tenant uncle unveil";
+var mnemonic = "hat top clean broken apple tired clean capable melt use shrimp buffalo";

@@ -1,1 +1,1 @@
-var mnemonic = "mention focus polar clump notice west face supply pitch brother city rebuild";
+var mnemonic = "lesson blue talent boil vessel cloud imitate enemy erase vast symptom kit";

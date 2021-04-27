@@ -1,1 +1,1 @@
-var mnemonic = "donkey tribe rural slow panda detect long myself border finish planet glow";
+var mnemonic = "fade indicate robot tail world advice dwarf vanish north pioneer fuel carbon";

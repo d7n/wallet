@@ -1,1 +1,1 @@
-var mnemonic = "wave chief absurd twelve creek uncover utility autumn indicate bacon news grid";
+var mnemonic = "energy artwork sauce dizzy reduce rich affair clog lucky better broccoli chuckle";

@@ -1,1 +1,1 @@
-var mnemonic = "trade six nominee indoor bean hub toddler infant envelope over climb tragic";
+var mnemonic = "flame pencil absurd few marble obscure cheese someone ready lobster unit paper";

@@ -1,1 +1,1 @@
-var mnemonic = "shield pilot neither fine diet foam piano borrow oak clock trial wrap";
+var mnemonic = "mammal engine reason copy file cause comic shoe ecology knock glide all";

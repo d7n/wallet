@@ -1,1 +1,1 @@
-var mnemonic = "exclude brand valley drama stadium flee abstract student fluid monkey shove summer";
+var mnemonic = "truth belt album success width rare slight match spike address put couple";

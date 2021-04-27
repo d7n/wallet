@@ -1,1 +1,1 @@
-var mnemonic = "armor monkey tuna still hat dash main position alien sail crew media";
+var mnemonic = "curtain youth flight peace crawl grocery design receive harsh visual claw claim";

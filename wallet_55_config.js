@@ -1,1 +1,1 @@
-var mnemonic = "leg praise tool catch neck pride garden reflect witness noise palace vehicle";
+var mnemonic = "medal smart turn slab define cash purchase slow drill poet around write";

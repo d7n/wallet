@@ -1,1 +1,1 @@
-var mnemonic = "midnight demand plate goose drift hockey youth diamond example judge voice parade";
+var mnemonic = "bench merge cargo kitten glare release cross render crack good charge royal";

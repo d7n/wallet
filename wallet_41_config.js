@@ -1,1 +1,1 @@
-var mnemonic = "remind about runway recall edge grass hungry dry soul plastic craft middle";
+var mnemonic = "stable wall umbrella youth remember crack swim credit awake inherit village boat";

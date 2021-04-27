@@ -1,1 +1,1 @@
-var mnemonic = "dizzy theory various spend trim innocent under police trigger promote monster sound";
+var mnemonic = "room quality leopard tobacco ski iron behind raccoon fuel veteran east blind";

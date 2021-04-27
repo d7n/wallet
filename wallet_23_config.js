@@ -1,1 +1,1 @@
-var mnemonic = "luxury decrease world keep winner diamond hybrid purity effort fabric usage fold";
+var mnemonic = "lyrics soda poet beauty reunion talent trim rebel nest argue yellow script";

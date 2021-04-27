@@ -1,1 +1,1 @@
-var mnemonic = "basic beyond hip worry fault act crater dice hurry wedding stairs loud";
+var mnemonic = "paddle wing ketchup catalog danger patient knock pepper basic kit acid balcony";

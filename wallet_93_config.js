@@ -1,1 +1,1 @@
-var mnemonic = "have plate decline grab elegant excuse yellow minor better ring allow bird";
+var mnemonic = "know nature depend clock child devote learn horn orange remove chimney face";

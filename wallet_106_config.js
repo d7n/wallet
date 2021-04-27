@@ -1,1 +1,1 @@
-var mnemonic = "pulse inhale pudding romance found find plunge innocent office license question enforce";
+var mnemonic = "wasp shed loop senior wink lunch exclude immune rural clap barrel analyst";

@@ -1,1 +1,1 @@
-var mnemonic = "because year when drill suggest region taste table water frozen glad marble";
+var mnemonic = "century idle advance cheese route job common upper curve elegant acid random";

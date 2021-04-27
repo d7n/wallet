@@ -1,1 +1,1 @@
-var mnemonic = "ordinary file spray federal there until human eager bundle struggle always patch";
+var mnemonic = "recipe offer swift random rotate equip blouse antique when slim adjust energy";

@@ -1,1 +1,1 @@
-var mnemonic = "dune digital solid alarm sun club quote skirt immense loop hidden build";
+var mnemonic = "crawl whale volume random pony nurse budget gasp large host buyer eternal";

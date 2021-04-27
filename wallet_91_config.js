@@ -1,1 +1,1 @@
-var mnemonic = "ankle silver rule regret cause teach wealth fantasy draw coast napkin tool";
+var mnemonic = "want stand purse traffic beauty fall near second copy marriage expand current";

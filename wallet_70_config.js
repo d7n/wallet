@@ -1,1 +1,1 @@
-var mnemonic = "torch subway fit crazy wrist peanut foster depend detail pigeon swallow weasel";
+var mnemonic = "pause candy train bubble universe abandon palm give call faculty shield century";

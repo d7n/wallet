@@ -1,1 +1,1 @@
-var mnemonic = "boil naive path rack learn doll orchard reveal fuel favorite board drink";
+var mnemonic = "salad typical dumb fat seek yellow early orient inflict pitch assault timber";

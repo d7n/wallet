@@ -1,1 +1,1 @@
-var mnemonic = "heavy tuna blur trust example hundred raw embark circle energy enrich clog";
+var mnemonic = "excess exit neglect mom half blood cricket twice boy method brief spy";

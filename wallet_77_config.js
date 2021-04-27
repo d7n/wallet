@@ -1,1 +1,1 @@
-var mnemonic = "neglect world minor great margin crystal patient clinic parent kind ethics property";
+var mnemonic = "afraid border family spirit clown close poverty fashion outdoor sentence photo amount";

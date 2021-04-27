@@ -1,1 +1,1 @@
-var mnemonic = "obtain actual angry exact strategy fiction day win question robot age mechanic";
+var mnemonic = "swamp dune fat cute bench pond angry pair fashion banana before toy";

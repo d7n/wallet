@@ -1,1 +1,1 @@
-var mnemonic = "ceiling ask win embrace cloud flame ignore spider mobile junk output news";
+var mnemonic = "cage clay rescue orchard stage slim solve forest skin gossip media region";

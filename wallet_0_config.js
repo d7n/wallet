@@ -1,1 +1,1 @@
-var mnemonic = "unknown chalk eye remember damp essence kick skin area country area disagree";
+var mnemonic = "name fade genuine earn veteran boil pact return such believe abuse feed";

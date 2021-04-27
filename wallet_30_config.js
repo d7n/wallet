@@ -1,1 +1,1 @@
-var mnemonic = "journey art orient bread nephew equal vehicle pilot episode attitude aunt mimic";
+var mnemonic = "goddess host original bless pattern spirit tray bargain scene scout upset solid";

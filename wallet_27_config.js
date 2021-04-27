@@ -1,1 +1,1 @@
-var mnemonic = "glad burst parade grant trumpet glue mention sibling aim sample winner auction";
+var mnemonic = "jaguar east panel west foam skirt prison tragic crush add upon despair";

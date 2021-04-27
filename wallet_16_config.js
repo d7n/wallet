@@ -1,1 +1,1 @@
-var mnemonic = "solve erase city flee theme vote spot joke daring duty lab patient";
+var mnemonic = "panel helmet depart clap heavy fix wrong speed suggest vintage avoid embark";

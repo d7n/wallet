@@ -1,1 +1,1 @@
-var mnemonic = "bridge clump math law nephew logic climb wet diesel insane raise track";
+var mnemonic = "fluid impose dirt nuclear train decade recipe cross habit woman canvas ride";

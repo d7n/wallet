@@ -1,1 +1,1 @@
-var mnemonic = "stock advice base fold level december culture kick install person park blush";
+var mnemonic = "render hurt frozen title tuition language rely embody owner artefact crash illegal";

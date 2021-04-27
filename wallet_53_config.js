@@ -1,1 +1,1 @@
-var mnemonic = "easy depend melt orange desk certain apology suggest satisfy garbage embark trip";
+var mnemonic = "sausage diary crumble mouse boat open fame boost social pumpkin ethics author";

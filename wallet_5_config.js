@@ -1,1 +1,1 @@
-var mnemonic = "crush asthma mass seven local submit amused heart tortoise cactus harvest rocket";
+var mnemonic = "trade dutch come whale drink impose open same wine basket sugar mixture";

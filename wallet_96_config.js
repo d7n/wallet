@@ -1,1 +1,1 @@
-var mnemonic = "long shove reject robot hire bag dust caution ahead section cushion build";
+var mnemonic = "record bachelor effort security sadness coach snow cage leg upon steel caution";

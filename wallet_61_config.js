@@ -1,1 +1,1 @@
-var mnemonic = "cave tuna bubble hover radio between east noise april flower renew exclude";
+var mnemonic = "disease swallow hold carbon busy sphere disorder boil muffin museum fish annual";

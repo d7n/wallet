@@ -1,1 +1,1 @@
-var mnemonic = "yard student tilt sister throw wisdom merry maximum cigar open install vocal";
+var mnemonic = "call dumb figure awkward between sword village small lawn waste venture domain";

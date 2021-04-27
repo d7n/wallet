@@ -1,1 +1,1 @@
-var mnemonic = "add slim drum faculty play board patient pull carpet fiber title orbit";
+var mnemonic = "reject help hood angry salmon isolate leader height october firm human name";

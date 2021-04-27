@@ -1,1 +1,1 @@
-var mnemonic = "travel grief bulb aisle true old limit alone metal waste soon wrong";
+var mnemonic = "shock mouse attract source narrow ginger soon wild frequent consider depth drill";

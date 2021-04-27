@@ -1,1 +1,1 @@
-var mnemonic = "jealous muscle snake have fluid million guilt furnace medal boat stereo outside";
+var mnemonic = "engage next regret body tent range baby grief able crumble mountain chat";

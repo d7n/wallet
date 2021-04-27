@@ -1,1 +1,1 @@
-var mnemonic = "town team skirt fix online diesel slush drip borrow draft bachelor derive";
+var mnemonic = "manage salt film decrease blouse culture wet enable mobile display birth inject";

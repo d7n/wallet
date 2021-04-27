@@ -1,1 +1,1 @@
-var mnemonic = "camera country vicious group cotton mesh town syrup diagram panel scorpion school";
+var mnemonic = "survey toward found entire task pilot gadget sweet bamboo syrup indoor candy";

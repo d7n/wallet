@@ -1,1 +1,1 @@
-var mnemonic = "repair elephant focus layer payment useful stick school vapor lottery denial thank";
+var mnemonic = "cart park actor quality guitar radar undo rain type item glad stage";

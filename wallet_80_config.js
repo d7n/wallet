@@ -1,1 +1,1 @@
-var mnemonic = "another harvest ivory canal lunar tragic correct race recipe fiber knee pet";
+var mnemonic = "eye ring prevent month muffin gown marriage attitude rail link notice maximum";

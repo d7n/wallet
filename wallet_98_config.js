@@ -1,1 +1,1 @@
-var mnemonic = "tent veteran episode mention peace month joy pupil glare love tissue scene";
+var mnemonic = "asset grid destroy picture slush forum movie assist list gate accuse apart";

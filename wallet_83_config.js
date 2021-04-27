@@ -1,1 +1,1 @@
-var mnemonic = "spend debate smart shed hour gasp session burden stuff glimpse fluid venture";
+var mnemonic = "own sketch despair risk awake near steel prefer envelope eager melody agent";

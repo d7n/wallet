@@ -1,1 +1,1 @@
-var mnemonic = "electric shoe series seek move margin differ room erase stock bone pulse";
+var mnemonic = "zone ostrich switch lunar hawk photo traffic nominee welcome below under can";

@@ -1,1 +1,1 @@
-var mnemonic = "funny verb vehicle one tumble fossil fold jelly text movie reject dial";
+var mnemonic = "cake wear frost matrix yard small outer able example lion hour symptom";

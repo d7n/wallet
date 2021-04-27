@@ -1,1 +1,1 @@
-var mnemonic = "jazz defy bid solution remove little head install brisk margin lunar crop";
+var mnemonic = "auction goat canyon park spatial bicycle cabbage earth young divorce era window";

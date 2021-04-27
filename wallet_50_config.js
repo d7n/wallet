@@ -1,1 +1,1 @@
-var mnemonic = "dial motor peasant clown winner sponsor ripple relax arrange shock artist win";
+var mnemonic = "heavy file attend affair lobster fiscal celery ranch valve clinic panther citizen";

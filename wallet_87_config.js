@@ -1,1 +1,1 @@
-var mnemonic = "salute color possible feed feature east license sniff provide culture moon clap";
+var mnemonic = "office keep secret loyal rail coast weather public oyster summer trip dream";

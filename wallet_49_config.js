@@ -1,1 +1,1 @@
-var mnemonic = "damage other exercise issue dust cross distance party chair retreat winter baby";
+var mnemonic = "little ticket lake salt rack hybrid ugly vague defy seed during impulse";

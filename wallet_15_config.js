@@ -1,1 +1,1 @@
-var mnemonic = "over cable chat next example girl food armed work salt venue glide";
+var mnemonic = "reward habit visit earth push scatter sleep unaware circle know canal bid";

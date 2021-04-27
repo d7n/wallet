@@ -1,1 +1,1 @@
-var mnemonic = "trophy fringe catalog hour bacon code please path range forest weapon easily";
+var mnemonic = "barrel public network split often impose code quick brass rail seed follow";

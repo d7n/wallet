@@ -1,1 +1,1 @@
-var mnemonic = "guide figure lock candy merit coconut split have digital combine motor olive";
+var mnemonic = "reject cannon thought direct subject always update real quit venue aisle scale";

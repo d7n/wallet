@@ -1,1 +1,1 @@
-var mnemonic = "tired buzz satoshi uncover pool unhappy remind alley crime trim cover super";
+var mnemonic = "absorb brave prison way young test lab extra copper royal bridge merge";

@@ -1,1 +1,1 @@
-var mnemonic = "vapor good surprise silly young exotic rotate real stamp fade wife swing";
+var mnemonic = "old gentle guide teach crush shell occur inner label rain input phrase";

@@ -1,1 +1,1 @@
-var mnemonic = "actual script syrup prevent bid useless upgrade equal sleep thought legal sauce";
+var mnemonic = "pig angle garbage view eye neither build account else domain fiction label";

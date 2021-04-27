@@ -1,1 +1,1 @@
-var mnemonic = "autumn collect coach master crater cause then mom snack then model borrow";
+var mnemonic = "vocal struggle animal quiz spider toy convince ship orient offer return holiday";

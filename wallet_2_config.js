@@ -1,1 +1,1 @@
-var mnemonic = "chest outside flat work grace rebuild torch access fortune aisle popular rich";
+var mnemonic = "double poet unveil what genre shoe bonus slam salt remember clever wave";

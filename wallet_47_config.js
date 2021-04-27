@@ -1,1 +1,1 @@
-var mnemonic = "tumble industry damage diamond obey unlock indicate turkey uphold awake decline differ";
+var mnemonic = "ball fiscal dilemma cherry under glove noble fragile stove green fatal more";

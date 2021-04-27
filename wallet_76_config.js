@@ -1,1 +1,1 @@
-var mnemonic = "direct tumble border volume erode inject struggle unable slim cause peasant unit";
+var mnemonic = "island general never soup vendor canvas prosper clerk asset strong goddess nuclear";

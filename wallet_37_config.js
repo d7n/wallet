@@ -1,1 +1,1 @@
-var mnemonic = "antique correct waste cart tide service taste scheme suit all offer universe";
+var mnemonic = "zebra episode garage surprise script axis victory winter convince tag tomato empower";

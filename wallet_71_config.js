@@ -1,1 +1,1 @@
-var mnemonic = "tennis lava license cross logic cannon force blossom gasp coin subway doll";
+var mnemonic = "dance life fine step scissors tent observe popular retreat artist advance rally";

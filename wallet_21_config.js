@@ -1,1 +1,1 @@
-var mnemonic = "link toy crucial error soap brother curious now buddy right else myself";
+var mnemonic = "approve detail glare outdoor author satisfy rack blanket shoulder concert seven frozen";

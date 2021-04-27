@@ -1,1 +1,1 @@
-var mnemonic = "render body wonder spread tooth drink gasp camera jewel industry among remove";
+var mnemonic = "apple grape barely busy flame proud pizza boat success fetch fuel work";

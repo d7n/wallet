@@ -1,1 +1,1 @@
-var mnemonic = "travel ancient tube indoor slight poverty pyramid unique chapter laugh energy army";
+var mnemonic = "repeat pilot connect company original balance mountain dove height fresh century comfort";

@@ -1,1 +1,1 @@
-var mnemonic = "faculty update rack couple leopard fat relief odor supply abuse clay unfair";
+var mnemonic = "save truly peace sunny crazy mushroom fever gauge deer muffin awake list";

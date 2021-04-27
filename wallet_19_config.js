@@ -1,1 +1,1 @@
-var mnemonic = "color glory eyebrow rival common fossil consider jewel muffin level cluster auction";
+var mnemonic = "access clown soda mad gloom dawn merry brother recipe mule mule damage";

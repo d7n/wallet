@@ -1,1 +1,1 @@
-var mnemonic = "faculty advance margin page clay cruel habit they lady excite answer fatal";
+var mnemonic = "opera point pelican fork brand tired travel crowd tonight worry ocean best";

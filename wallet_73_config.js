@@ -1,1 +1,1 @@
-var mnemonic = "frown first myth found icon yellow alarm tomorrow happy point wasp ocean";
+var mnemonic = "concert medal virus vendor scatter health nation decrease summer fluid case math";

@@ -1,1 +1,1 @@
-var mnemonic = "enough crystal thumb agree cattle fat mesh grape gadget loop siren absent";
+var mnemonic = "maze coffee sword ensure eight skin invest snake artist puzzle essence neutral";

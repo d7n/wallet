@@ -1,1 +1,1 @@
-var mnemonic = "mention doll rigid slab beach raw process tortoise call punch culture ostrich";
+var mnemonic = "pony special security start lizard wrong boat soon cricket dinosaur chicken weather";

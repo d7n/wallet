@@ -1,1 +1,1 @@
-var mnemonic = "title kite abandon detect milk menu dream employ spoon great school dolphin";
+var mnemonic = "melt vehicle object misery bless faith teach stick soup shield swallow select";

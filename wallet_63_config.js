@@ -1,1 +1,1 @@
-var mnemonic = "unaware engine local mechanic able around sun surprise success vacant curve clever";
+var mnemonic = "annual sheriff budget canyon vivid solar prevent hazard mail spice wrist impulse";

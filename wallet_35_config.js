@@ -1,1 +1,1 @@
-var mnemonic = "arena clog since choice style season abstract life rain trim rather super";
+var mnemonic = "essence sword hub egg tuition answer equip example believe any trim unhappy";

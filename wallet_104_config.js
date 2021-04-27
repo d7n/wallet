@@ -1,1 +1,1 @@
-var mnemonic = "donor name heart monkey disease swift page tent fiction unveil life damp";
+var mnemonic = "flag brain imitate mimic damp vital trend inside knife zoo one miss";

@@ -1,1 +1,1 @@
-var mnemonic = "sign own lake among script outside eye search miracle doctor divorce purchase";
+var mnemonic = "six opinion gasp warfare van safe toast jealous grow universe already teach";

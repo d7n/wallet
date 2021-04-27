@@ -1,1 +1,1 @@
-var mnemonic = "step sauce appear wave protect run divide sadness asthma exist fringe chronic";
+var mnemonic = "toss reopen occur couch demand cancel pink convince confirm uncle fault sell";

@@ -1,1 +1,1 @@
-var mnemonic = "skin machine mango test inhale bleak spring wife apology bridge depart search";
+var mnemonic = "shove cheese shell mandate nut gas marriage range one exist utility feature";

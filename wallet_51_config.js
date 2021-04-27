@@ -1,1 +1,1 @@
-var mnemonic = "long license yard sunset light price dizzy fantasy today security olive increase";
+var mnemonic = "alley funny plastic excite track smooth seat face syrup mix scrap supreme";
