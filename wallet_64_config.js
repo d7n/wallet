@@ -1,1 +1,1 @@
-var mnemonic = "tunnel aware horror brain company body bottom purchase select barely sport measure";
+var mnemonic = "elevator legal umbrella ill insect forum dirt voice little exhaust prevent hungry";

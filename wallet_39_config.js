@@ -1,1 +1,1 @@
-var mnemonic = "humor skate imitate disorder service roast amused escape talent area solution panic";
+var mnemonic = "sun wear liberty adult modify initial grit cage correct chaos rich enter";

@@ -1,1 +1,1 @@
-var mnemonic = "host bean october endorse shiver faculty uncle screen omit correct shoe pyramid";
+var mnemonic = "pretty vacuum retire habit cream hire local walk egg wife fatigue jaguar";

@@ -1,1 +1,1 @@
-var mnemonic = "sea rose tuna rose pair bundle wet viable random jeans purse curtain";
+var mnemonic = "draft behind strong uncle dress odor august drastic sun shrug among reform";

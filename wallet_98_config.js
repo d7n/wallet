@@ -1,1 +1,1 @@
-var mnemonic = "screen post human equip hard elevator road close amazing original strong citizen";
+var mnemonic = "caution nature river iron asset such skirt toy emotion balcony birth armor";

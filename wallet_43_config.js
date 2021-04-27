@@ -1,1 +1,1 @@
-var mnemonic = "frog course other country unusual equal puppy rate horn depart border rate";
+var mnemonic = "mountain flat beach rival carpet equip quality embrace grow brain volcano paper";

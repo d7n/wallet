@@ -1,1 +1,1 @@
-var mnemonic = "there rail dove today injury trade double uncover aware ball front weapon";
+var mnemonic = "sort choice slim program advice actual endless hint track clump session solid";

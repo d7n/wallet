@@ -1,1 +1,1 @@
-var mnemonic = "start reject dirt harsh slow damage flee stable movie skill viable fee";
+var mnemonic = "vacant puzzle stomach once noble plastic best ignore address enforce plunge device";

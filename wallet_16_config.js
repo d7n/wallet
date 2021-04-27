@@ -1,1 +1,1 @@
-var mnemonic = "hybrid mass circle clip combine bonus common chuckle hair metal over state";
+var mnemonic = "weekend solid marble stock couple actress expose orange embark smart recycle lonely";

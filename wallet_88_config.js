@@ -1,1 +1,1 @@
-var mnemonic = "loud dream dose push pledge exile sail cruise roof anchor science glare";
+var mnemonic = "funny elevator topic same skill blame card meat couple throw device black";

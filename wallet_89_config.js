@@ -1,1 +1,1 @@
-var mnemonic = "laptop swarm clutch essence outdoor vacuum strike knee connect void coyote dog";
+var mnemonic = "cliff observe slender minimum surround prison couch gossip off armed gesture wise";

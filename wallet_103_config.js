@@ -1,1 +1,1 @@
-var mnemonic = "robust where claim pizza industry pig ill autumn flash phrase female later";
+var mnemonic = "kid noble bid differ typical enrich suit need recipe trial lend decorate";

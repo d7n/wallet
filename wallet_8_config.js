@@ -1,1 +1,1 @@
-var mnemonic = "dash drill gossip brush hat gold drama sister meat advice release relax";
+var mnemonic = "gather scare biology drum win much guard resource obscure mobile combine pizza";

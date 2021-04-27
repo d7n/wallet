@@ -1,1 +1,1 @@
-var mnemonic = "rotate else school beauty index bench service table sadness ritual weather donkey";
+var mnemonic = "aerobic note category possible sting tortoise erosion traffic deliver ocean escape cereal";

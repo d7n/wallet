@@ -1,1 +1,1 @@
-var mnemonic = "nice give code virus decorate cage awful best divorce kid spin allow";
+var mnemonic = "soccer swap clump erase alien antenna install peanut force ten open mercy";

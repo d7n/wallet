@@ -1,1 +1,1 @@
-var mnemonic = "cigar decrease glimpse potato collect burst ethics wave future grass gloom pig";
+var mnemonic = "fatal tank lock drink during toast century luxury follow identify pitch range";

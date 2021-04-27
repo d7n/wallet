@@ -1,1 +1,1 @@
-var mnemonic = "outer initial situate link poem circle song develop drama admit rifle effort";
+var mnemonic = "radio woman wreck basic useful barely benefit disorder guess debris mass shift";

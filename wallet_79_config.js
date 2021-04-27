@@ -1,1 +1,1 @@
-var mnemonic = "provide pink disagree immune lemon casino benefit disorder silk front ensure absent";
+var mnemonic = "curious bicycle enroll early cram fossil very occur danger gossip approve excuse";

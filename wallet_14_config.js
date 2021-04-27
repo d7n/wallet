@@ -1,1 +1,1 @@
-var mnemonic = "emerge perfect cloth escape stable sadness manual medal drive glow upper unhappy";
+var mnemonic = "false salmon horn strong empty valve dismiss husband reveal shine jelly genuine";

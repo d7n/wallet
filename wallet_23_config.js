@@ -1,1 +1,1 @@
-var mnemonic = "view ugly approve will bright club unaware unaware short quantum save oval";
+var mnemonic = "phrase treat subject cage error animal ticket screen antenna private fossil together";

@@ -1,1 +1,1 @@
-var mnemonic = "horn party original buzz deal dry cheap grass diagram color sight seven";
+var mnemonic = "hub bunker quiz shove region price truth dry portion desert champion nominee";

@@ -1,1 +1,1 @@
-var mnemonic = "ripple dose perfect mountain ask seat check surface satisfy license fury away";
+var mnemonic = "trust swamp unique return stone scout artwork loop become alert rabbit escape";

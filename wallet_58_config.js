@@ -1,1 +1,1 @@
-var mnemonic = "wire wage scrap meadow hazard excite talk issue recipe vessel wave pluck";
+var mnemonic = "net key dinner garbage spice absurd world sheriff auto dust gap mutual";

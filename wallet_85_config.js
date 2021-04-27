@@ -1,1 +1,1 @@
-var mnemonic = "toward syrup learn dice sorry beef symptom antique quality ring solid food";
+var mnemonic = "maple hole one forest first black fence element winter body develop reason";

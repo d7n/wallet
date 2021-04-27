@@ -1,1 +1,1 @@
-var mnemonic = "kid sustain piano repeat zebra involve ocean pride fatal atom dance inside";
+var mnemonic = "balcony key vessel mix remove slight camp peace grow bomb immense chuckle";

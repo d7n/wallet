@@ -1,1 +1,1 @@
-var mnemonic = "open agree language raise entire mention insect area spread tent wagon move";
+var mnemonic = "fashion clog insect someone negative gun peasant deal payment ball correct cave";

@@ -1,1 +1,1 @@
-var mnemonic = "dismiss multiply dad velvet vibrant bachelor already suffer palace city oval album";
+var mnemonic = "aisle potato bleak parade cricket kite organ father fine service worth rack";

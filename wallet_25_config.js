@@ -1,1 +1,1 @@
-var mnemonic = "canyon bundle glass basket earn festival mention conduct consider parade zebra thank";
+var mnemonic = "fatigue guard cereal romance wet once govern garden erase width marble inch";

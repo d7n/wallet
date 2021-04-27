@@ -1,1 +1,1 @@
-var mnemonic = "lottery plunge diary final draw march tourist buyer crowd vendor huge glove";
+var mnemonic = "letter also kit you invite valve daring liquid hunt proof affair wet";

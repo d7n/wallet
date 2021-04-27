@@ -1,1 +1,1 @@
-var mnemonic = "sing shuffle essence tube enough toward erosion common submit garage amateur merry";
+var mnemonic = "couch toy clerk shoulder surge female cost camera shiver echo nut soap";

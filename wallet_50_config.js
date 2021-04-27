@@ -1,1 +1,1 @@
-var mnemonic = "link taxi bus ski diary trophy swing cactus all mixture easily moon";
+var mnemonic = "together easy crucial matter clay allow differ cream welcome daughter glance diamond";

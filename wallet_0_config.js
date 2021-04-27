@@ -1,1 +1,1 @@
-var mnemonic = "hundred roof modify approve pen village can thing marine mercy access vivid";
+var mnemonic = "creek harsh shadow lava sentence summer eye task build fatal jacket renew";

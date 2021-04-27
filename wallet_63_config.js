@@ -1,1 +1,1 @@
-var mnemonic = "carpet door piano state fortune achieve critic now carry advance stage various";
+var mnemonic = "order bridge ride knife husband crane analyst inherit chief ticket able solid";

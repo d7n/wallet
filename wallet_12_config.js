@@ -1,1 +1,1 @@
-var mnemonic = "load end champion wine eyebrow across boil private random man borrow balance";
+var mnemonic = "often road vendor recipe avocado napkin match laundry lounge melt diesel slim";

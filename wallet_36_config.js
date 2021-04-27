@@ -1,1 +1,1 @@
-var mnemonic = "mercy genuine glass traffic wash later modify pen gadget shy quick athlete";
+var mnemonic = "cover math glare mechanic thing carry attitude atom beauty neck between price";

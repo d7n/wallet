@@ -1,1 +1,1 @@
-var mnemonic = "powder swamp pyramid shift invest clock fuel sock erode tower broken essay";
+var mnemonic = "follow cigar uphold midnight ostrich position mandate solar common ivory jacket cliff";

@@ -1,1 +1,1 @@
-var mnemonic = "elite derive rely lens object enable decade cabbage jeans flat knock rhythm";
+var mnemonic = "upgrade seek then range burden soldier permit clip arena steak advance remind";

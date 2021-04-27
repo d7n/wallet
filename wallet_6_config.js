@@ -1,1 +1,1 @@
-var mnemonic = "kiwi cost mammal poet hazard chapter proud margin stock torch enroll roast";
+var mnemonic = "accuse pony claim earn pill fever happy seminar skirt exhibit utility wisdom";

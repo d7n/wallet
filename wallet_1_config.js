@@ -1,1 +1,1 @@
-var mnemonic = "august degree destroy program earn chase theory energy film country tooth insect";
+var mnemonic = "dinner alarm praise wave glad more spread furnace exclude betray connect emerge";

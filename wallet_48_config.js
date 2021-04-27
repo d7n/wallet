@@ -1,1 +1,1 @@
-var mnemonic = "wave shock wave wave orphan usage doll solar domain math gorilla impose";
+var mnemonic = "cupboard act track apple tiger clean mammal time melt tobacco benefit enough";

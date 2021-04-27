@@ -1,1 +1,1 @@
-var mnemonic = "scene meat cotton crouch oppose deer method umbrella business rent fog gauge";
+var mnemonic = "trash submit rib option art light brisk list cousin cattle display close";

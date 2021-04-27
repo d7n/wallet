@@ -1,1 +1,1 @@
-var mnemonic = "balance various art very suspect detail already quarter negative venture display spell";
+var mnemonic = "magnet milk during alarm rhythm tuna universe magnet shy honey true detect";

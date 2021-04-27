@@ -1,1 +1,1 @@
-var mnemonic = "attitude duck enlist sting gorilla green purse convince daughter crawl radio broom";
+var mnemonic = "exclude artefact dutch barely fork arrive lunch liquid flavor scorpion fan domain";

@@ -1,1 +1,1 @@
-var mnemonic = "cream blind imitate allow wagon spell detect odor night ozone awkward dumb";
+var mnemonic = "agree gun slender catalog speak panic elbow spirit brother pill elephant critic";

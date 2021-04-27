@@ -1,1 +1,1 @@
-var mnemonic = "move note treat this blouse inhale science heavy couple slot car gallery";
+var mnemonic = "truck object must area sing banner develop sign pepper relief mutual pulp";

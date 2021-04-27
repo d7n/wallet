@@ -1,1 +1,1 @@
-var mnemonic = "give early fly domain strike pool castle inform option rotate approve lady";
+var mnemonic = "guard near bonus spread unique purse tunnel enjoy wrist beauty cruel inspire";

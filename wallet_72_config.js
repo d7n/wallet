@@ -1,1 +1,1 @@
-var mnemonic = "detail guard mammal dolphin matter own end invest neither smooth attract two";
+var mnemonic = "syrup day pepper key remember nation pond ethics finger winner bacon network";

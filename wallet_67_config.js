@@ -1,1 +1,1 @@
-var mnemonic = "brush rabbit oil conduct injury bicycle people vendor build window treat yellow";
+var mnemonic = "current error lake voyage light slush almost select hurt west opera reflect";

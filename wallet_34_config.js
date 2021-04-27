@@ -1,1 +1,1 @@
-var mnemonic = "term blur prevent insane sugar broccoli inner furnace segment decide trial wasp";
+var mnemonic = "indicate walnut cook return assault misery six clinic ethics banana kind achieve";

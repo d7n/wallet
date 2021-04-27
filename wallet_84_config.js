@@ -1,1 +1,1 @@
-var mnemonic = "stamp eye arrest keen half dwarf brown above still portion suffer muffin";
+var mnemonic = "squirrel just bulk mail rapid plug weekend tree margin chunk custom cinnamon";

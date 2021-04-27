@@ -1,1 +1,1 @@
-var mnemonic = "raw seven note alter perfect vanish shield kingdom access crawl bamboo forward";
+var mnemonic = "topic oval dust infant session route differ era voice buddy patrol narrow";

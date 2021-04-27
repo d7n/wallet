@@ -1,1 +1,1 @@
-var mnemonic = "sword diamond scrub board word wear tuna lyrics inner carbon face buyer";
+var mnemonic = "cable bread basket student still position session monitor pole rubber alpha useless";

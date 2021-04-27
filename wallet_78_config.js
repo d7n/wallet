@@ -1,1 +1,1 @@
-var mnemonic = "action urge midnight live quarter grab pizza water blur hedgehog roof typical";
+var mnemonic = "unaware game shy awful security club predict obey fly spirit excess twin";

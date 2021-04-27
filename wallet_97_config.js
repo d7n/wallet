@@ -1,1 +1,1 @@
-var mnemonic = "swim ocean pool pole mail adult potato knock fantasy truth menu net";
+var mnemonic = "artist curious symbol thunder castle check loan flower device cement green frequent";

@@ -1,1 +1,1 @@
-var mnemonic = "equip spirit puzzle index install popular prize forum company trick purity choose";
+var mnemonic = "diesel under table jaguar rough correct word enhance version cry fury hospital";

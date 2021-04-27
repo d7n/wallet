@@ -1,1 +1,1 @@
-var mnemonic = "topic script report trial cabbage core ketchup puzzle garage fault loyal cousin";
+var mnemonic = "august fly razor card flame section tube fun crush speed theme iron";

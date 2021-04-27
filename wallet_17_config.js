@@ -1,1 +1,1 @@
-var mnemonic = "camera demand regular appear quality chicken adjust reveal destroy detect zoo twist";
+var mnemonic = "fantasy riot dolphin visa addict fantasy hair chair guess kitchen laugh pilot";

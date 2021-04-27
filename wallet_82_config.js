@@ -1,1 +1,1 @@
-var mnemonic = "oak access novel nature party skirt album right market coyote suggest balcony";
+var mnemonic = "erosion cat grid prize control lesson oval explain afford crop shell rifle";

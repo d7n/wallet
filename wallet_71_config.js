@@ -1,1 +1,1 @@
-var mnemonic = "current silver eternal door must dynamic course plate hello initial engage alert";
+var mnemonic = "fire copper forget cram empty rack rookie taxi stage arrow charge harbor";

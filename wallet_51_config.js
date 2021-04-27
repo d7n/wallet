@@ -1,1 +1,1 @@
-var mnemonic = "decorate venue genre monitor hybrid auction culture pet convince give snap stock";
+var mnemonic = "stool guard moral drive history rice blood pond later basket tenant gossip";

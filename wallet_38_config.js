@@ -1,1 +1,1 @@
-var mnemonic = "twice wear spare cupboard glance fire shield elite board palace mail deer";
+var mnemonic = "tray cherry joy awkward sadness keep shuffle cupboard empty science cable online";

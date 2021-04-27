@@ -1,1 +1,1 @@
-var mnemonic = "axis proof upon pull split gasp recipe diary canoe town art toward";
+var mnemonic = "element banner field window affair cluster friend sheriff rocket debris current bomb";

@@ -1,1 +1,1 @@
-var mnemonic = "comic mango dice act awkward west diesel sell annual square forward light";
+var mnemonic = "route volume print enrich citizen shrug small virus science inquiry jump peace";

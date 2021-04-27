@@ -1,1 +1,1 @@
-var mnemonic = "toast huge embody awful resist pill glue write fade resemble buyer chapter";
+var mnemonic = "erode cloth want item venture cloud egg artist awkward scout arena cloth";

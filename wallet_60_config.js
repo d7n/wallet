@@ -1,1 +1,1 @@
-var mnemonic = "purse pluck basic alarm truck swing shoe aisle logic work relief pistol";
+var mnemonic = "isolate movie vital car warrior crop solution antenna second nice picnic stove";

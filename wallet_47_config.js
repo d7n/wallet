@@ -1,1 +1,1 @@
-var mnemonic = "couch nature swift club page detect cover law fall awake raw receive";
+var mnemonic = "actual grunt inside buyer hundred nerve crime upon lens health banana alert";

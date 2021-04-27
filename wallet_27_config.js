@@ -1,1 +1,1 @@
-var mnemonic = "uncover crew civil quantum slow butter orphan bird wish arrow kit wide";
+var mnemonic = "boil portion decide antenna snake survey resist erode minute fossil valid wrestle";

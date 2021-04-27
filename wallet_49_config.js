@@ -1,1 +1,1 @@
-var mnemonic = "reveal flush enable banner pitch client shift welcome credit rug dream maximum";
+var mnemonic = "acid rival beef collect saddle mail fall admit two cost switch toe";

@@ -1,1 +1,1 @@
-var mnemonic = "tray sun install actor snack tide muffin concert detail picnic armor tag";
+var mnemonic = "swim coin craft crumble anchor live runway program salon mixed wish siege";

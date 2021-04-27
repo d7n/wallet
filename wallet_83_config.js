@@ -1,1 +1,1 @@
-var mnemonic = "crystal brain half naive tower soda oblige unusual loan admit misery poverty";
+var mnemonic = "rice dry destroy casual canvas figure divide milk sheriff burden ahead large";

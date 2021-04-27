@@ -1,1 +1,1 @@
-var mnemonic = "juice prosper mystery arrest depth merit invest chest update urban sadness return";
+var mnemonic = "antique echo hazard drill top cloud drum remain quantum success crew woman";

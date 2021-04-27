@@ -1,1 +1,1 @@
-var mnemonic = "bubble warrior flash viable mercy another pitch frame total oven rose theme";
+var mnemonic = "polar drill cable loyal picture imitate crucial write carbon slab dose hamster";

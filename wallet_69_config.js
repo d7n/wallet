@@ -1,1 +1,1 @@
-var mnemonic = "pizza claim topple text print among praise divide harvest caught monkey shift";
+var mnemonic = "balance fancy leg like minute age hard foster control real connect truly";

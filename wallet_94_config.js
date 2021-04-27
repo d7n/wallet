@@ -1,1 +1,1 @@
-var mnemonic = "siren peace wait zero sunny move cherry together ghost lunch baby ramp";
+var mnemonic = "sand hazard water genius swallow income maze aim tragic hour outdoor citizen";

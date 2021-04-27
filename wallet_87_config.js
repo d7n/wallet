@@ -1,1 +1,1 @@
-var mnemonic = "today trip hood ethics vacant cereal lumber artist slim public shallow borrow";
+var mnemonic = "abandon focus gravity impose used skin few hair hip episode transfer kite";

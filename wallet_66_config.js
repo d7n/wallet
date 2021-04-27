@@ -1,1 +1,1 @@
-var mnemonic = "cotton scrap catch property kangaroo give travel december tooth media radar host";
+var mnemonic = "beef light scissors indoor pipe rally network purity cliff panel insect manage";

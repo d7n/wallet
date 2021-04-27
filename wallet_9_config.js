@@ -1,1 +1,1 @@
-var mnemonic = "female drop real afford party exhibit raven thunder human raven grit excess";
+var mnemonic = "double cotton width enlist width jaguar polar rhythm black crouch donkey unable";

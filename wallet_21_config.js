@@ -1,1 +1,1 @@
-var mnemonic = "moment combine super metal panic image critic smile hour nation snake boat";
+var mnemonic = "accident sound during seminar anger fan bar cancel era marble night immune";

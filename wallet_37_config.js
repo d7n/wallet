@@ -1,1 +1,1 @@
-var mnemonic = "kitten turn jungle bus library design refuse cable current spy evolve sword";
+var mnemonic = "copper chronic wild panda cliff cheap between eagle wash purpose truly vocal";

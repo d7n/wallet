@@ -1,1 +1,1 @@
-var mnemonic = "primary kingdom rice artist eye spend margin success protect immune addict grief";
+var mnemonic = "bronze yellow begin decade circle answer open hazard gallery change what tool";

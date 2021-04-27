@@ -1,1 +1,1 @@
-var mnemonic = "ugly nose abstract wild steak author damp song nerve silver valve slim";
+var mnemonic = "debris blind tilt distance walk buddy mutual novel cheap laundry width hungry";

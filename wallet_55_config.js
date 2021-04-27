@@ -1,1 +1,1 @@
-var mnemonic = "frown adjust current client plug lottery cinnamon dish sustain siren pill input";
+var mnemonic = "duck patch zebra awake spoon alarm victory make own alone series check";

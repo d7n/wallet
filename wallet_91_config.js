@@ -1,1 +1,1 @@
-var mnemonic = "unusual offer valve trophy market pluck record hotel across twenty kite sleep";
+var mnemonic = "forget body pigeon man tank saddle stuff youth damp runway oppose boss";

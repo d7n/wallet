@@ -1,1 +1,1 @@
-var mnemonic = "width peasant light weapon shy desert few junior welcome age disorder until";
+var mnemonic = "wise face venue vague marble price tuition mad episode muscle young fan";

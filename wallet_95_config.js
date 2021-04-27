@@ -1,1 +1,1 @@
-var mnemonic = "uncle rely screen culture catalog keep stadium luxury strong mouse oppose amused";
+var mnemonic = "isolate ability alter soul journey leisure delay sketch curve depend want hair";

@@ -1,1 +1,1 @@
-var mnemonic = "iron tongue bleak define museum crunch erase rib laundry punch scrap wool";
+var mnemonic = "say monster fragile emotion owner spatial duck siren fitness index bulb elite";

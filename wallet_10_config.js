@@ -1,1 +1,1 @@
-var mnemonic = "basic suggest margin laugh shy leg wrong general must method erupt famous";
+var mnemonic = "insect trim seek auto worry stuff sudden century fade van follow torch";

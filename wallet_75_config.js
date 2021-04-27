@@ -1,1 +1,1 @@
-var mnemonic = "warrior virtual unhappy plate solid busy velvet menu oval someone ship inform";
+var mnemonic = "soap palace old video stamp swarm romance bicycle select merit leopard slim";

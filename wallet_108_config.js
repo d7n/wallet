@@ -1,1 +1,1 @@
-var mnemonic = "rebel enjoy rapid shaft lottery cheese spy spice print never south upper";
+var mnemonic = "normal attitude glue jacket embody cactus picnic jeans seven basket twelve excite";

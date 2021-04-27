@@ -1,1 +1,1 @@
-var mnemonic = "mouse govern tenant slice match square purchase liquid enhance dragon wire effort";
+var mnemonic = "head turn frown final mother action flash stomach off label announce dinner";

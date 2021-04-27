@@ -1,1 +1,1 @@
-var mnemonic = "frost ladder cigar surround armed vibrant phrase sniff plastic firm still ceiling";
+var mnemonic = "random hammer area hunt roast island excite mail problem because paddle option";
