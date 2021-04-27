@@ -1,1 +1,1 @@
-var mnemonic = "double poet unveil what genre shoe bonus slam salt remember clever wave";
+var mnemonic = "enable guess refuse category venue rhythm member town fashion flag process window";

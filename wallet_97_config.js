@@ -1,1 +1,1 @@
-var mnemonic = "survey toward found entire task pilot gadget sweet bamboo syrup indoor candy";
+var mnemonic = "educate dry unit peanut spread stable affair engage mother chunk pledge crop";

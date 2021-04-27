@@ -1,1 +1,1 @@
-var mnemonic = "leave furnace churn raw robot two cabbage plate runway fetch bid smooth";
+var mnemonic = "history dawn staff note gasp yellow cabin humor chalk crunch damp noodle";

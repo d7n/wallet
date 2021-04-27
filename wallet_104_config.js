@@ -1,1 +1,1 @@
-var mnemonic = "flag brain imitate mimic damp vital trend inside knife zoo one miss";
+var mnemonic = "upgrade such sugar race rubber rabbit must machine juice laugh diary eight";

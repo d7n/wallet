@@ -1,1 +1,1 @@
-var mnemonic = "century repeat harbor finish frost blanket submit picnic wet fever ivory load";
+var mnemonic = "rural armed stadium dish empower toward ecology lion swamp spike bacon coil";

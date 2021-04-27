@@ -1,1 +1,1 @@
-var mnemonic = "access clown soda mad gloom dawn merry brother recipe mule mule damage";
+var mnemonic = "invite quantum only fly rabbit basic sister area congress mother naive feature";

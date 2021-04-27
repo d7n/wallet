@@ -1,1 +1,1 @@
-var mnemonic = "behind chat approve decorate guitar trim proof amateur goat whisper horn slush";
+var mnemonic = "armor sound canvas mention plate baby few uncover web disease gun test";

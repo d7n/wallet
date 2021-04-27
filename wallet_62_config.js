@@ -1,1 +1,1 @@
-var mnemonic = "zone ostrich switch lunar hawk photo traffic nominee welcome below under can";
+var mnemonic = "amateur apple found indicate rare inner replace fun arctic canvas gold win";

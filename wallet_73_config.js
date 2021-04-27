@@ -1,1 +1,1 @@
-var mnemonic = "concert medal virus vendor scatter health nation decrease summer fluid case math";
+var mnemonic = "resemble confirm shove seed deny jungle advice auto cruise embark bullet bounce";

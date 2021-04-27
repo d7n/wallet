@@ -1,1 +1,1 @@
-var mnemonic = "own sketch despair risk awake near steel prefer envelope eager melody agent";
+var mnemonic = "wide toilet near example broccoli planet reunion bunker plug author boring annual";

@@ -1,1 +1,1 @@
-var mnemonic = "reject help hood angry salmon isolate leader height october firm human name";
+var mnemonic = "cram brave endless home clock cute notice unlock because urban mention ocean";

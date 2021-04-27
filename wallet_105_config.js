@@ -1,1 +1,1 @@
-var mnemonic = "certain inject glimpse airport exile rebel essay marine public media exhibit decrease";
+var mnemonic = "around layer mansion depend canoe visit car occur minute prosper treat wire";

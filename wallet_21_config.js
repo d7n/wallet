@@ -1,1 +1,1 @@
-var mnemonic = "approve detail glare outdoor author satisfy rack blanket shoulder concert seven frozen";
+var mnemonic = "uncle recall all inflict notice loan anger tell poem tomorrow debris save";

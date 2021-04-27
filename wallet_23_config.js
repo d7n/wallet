@@ -1,1 +1,1 @@
-var mnemonic = "lyrics soda poet beauty reunion talent trim rebel nest argue yellow script";
+var mnemonic = "tissue alcohol perfect tank measure oven proof gravity spare obscure behave cup";

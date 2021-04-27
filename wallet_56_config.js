@@ -1,1 +1,1 @@
-var mnemonic = "cage clay rescue orchard stage slim solve forest skin gossip media region";
+var mnemonic = "absorb sadness suggest health lonely cry space invest dune pioneer zoo mixture";

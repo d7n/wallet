@@ -1,1 +1,1 @@
-var mnemonic = "trade dutch come whale drink impose open same wine basket sugar mixture";
+var mnemonic = "smooth remain narrow jaguar whip gaze slab buyer labor arrow globe eye";

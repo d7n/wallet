@@ -1,1 +1,1 @@
-var mnemonic = "melt vehicle object misery bless faith teach stick soup shield swallow select";
+var mnemonic = "powder car siren crowd race prize logic find silk dignity earn blossom";

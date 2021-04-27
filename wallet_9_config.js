@@ -1,1 +1,1 @@
-var mnemonic = "mammal engine reason copy file cause comic shoe ecology knock glide all";
+var mnemonic = "tilt fuel tray puppy cat drill absurd language execute wreck buddy suspect";

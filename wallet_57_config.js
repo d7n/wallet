@@ -1,1 +1,1 @@
-var mnemonic = "recipe offer swift random rotate equip blouse antique when slim adjust energy";
+var mnemonic = "barely crash ginger pull palm ozone keep girl creek episode destroy fresh";

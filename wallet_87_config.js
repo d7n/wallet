@@ -1,1 +1,1 @@
-var mnemonic = "office keep secret loyal rail coast weather public oyster summer trip dream";
+var mnemonic = "survey grace surprise smile curve okay then expire spot shoe shock inquiry";

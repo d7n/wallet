@@ -1,1 +1,1 @@
-var mnemonic = "save truly peace sunny crazy mushroom fever gauge deer muffin awake list";
+var mnemonic = "mean collect fox inmate mimic clean virtual estate nuclear uncle grit yard";

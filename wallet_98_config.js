@@ -1,1 +1,1 @@
-var mnemonic = "asset grid destroy picture slush forum movie assist list gate accuse apart";
+var mnemonic = "awake immense title image any bacon pink move near east engine model";

@@ -1,1 +1,1 @@
-var mnemonic = "sausage diary crumble mouse boat open fame boost social pumpkin ethics author";
+var mnemonic = "culture chapter renew nose little month payment above trick iron grow december";

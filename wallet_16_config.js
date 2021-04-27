@@ -1,1 +1,1 @@
-var mnemonic = "panel helmet depart clap heavy fix wrong speed suggest vintage avoid embark";
+var mnemonic = "long utility airport master can away head much pumpkin fine author city";

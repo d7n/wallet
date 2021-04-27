@@ -1,1 +1,1 @@
-var mnemonic = "proof early topple company emotion false weekend debate shoe cost siren tornado";
+var mnemonic = "flush rubber supply smart family rate output unhappy rack bid fiber wood";

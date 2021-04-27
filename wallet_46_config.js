@@ -1,1 +1,1 @@
-var mnemonic = "toss reopen occur couch demand cancel pink convince confirm uncle fault sell";
+var mnemonic = "lonely mad ketchup flag caught enemy pigeon impose pet gadget course tell";

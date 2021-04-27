@@ -1,1 +1,1 @@
-var mnemonic = "ball fiscal dilemma cherry under glove noble fragile stove green fatal more";
+var mnemonic = "extend huge gallery relax bottom car fame conduct height emotion eagle lottery";

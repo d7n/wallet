@@ -1,1 +1,1 @@
-var mnemonic = "manage salt film decrease blouse culture wet enable mobile display birth inject";
+var mnemonic = "guess army promote horn attend cream pioneer drink zoo coach tonight concert";

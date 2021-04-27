@@ -1,1 +1,1 @@
-var mnemonic = "absorb brave prison way young test lab extra copper royal bridge merge";
+var mnemonic = "depart risk dice blossom source ankle spring physical annual trial ignore wife";

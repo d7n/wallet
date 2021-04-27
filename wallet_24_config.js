@@ -1,1 +1,1 @@
-var mnemonic = "opera point pelican fork brand tired travel crowd tonight worry ocean best";
+var mnemonic = "cricket distance alley write derive noble short ladder because humor afraid region";

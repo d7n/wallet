@@ -1,1 +1,1 @@
-var mnemonic = "name fade genuine earn veteran boil pact return such believe abuse feed";
+var mnemonic = "state choose dirt snake wear sell october leopard riot similar cream upgrade";

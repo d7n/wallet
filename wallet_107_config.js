@@ -1,1 +1,1 @@
-var mnemonic = "six opinion gasp warfare van safe toast jealous grow universe already teach";
+var mnemonic = "until orchard chalk impulse limit few symptom rubber lounge either vocal orient";

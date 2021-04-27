@@ -1,1 +1,1 @@
-var mnemonic = "found lava toast exchange donkey floor bronze history perfect vacuum regret churn";
+var mnemonic = "board venture wet pen balance fuel blame whale boring gadget mobile typical";

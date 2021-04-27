@@ -1,1 +1,1 @@
-var mnemonic = "room quality leopard tobacco ski iron behind raccoon fuel veteran east blind";
+var mnemonic = "ten cotton breeze globe thunder cactus slide choose clown scout raven hollow";

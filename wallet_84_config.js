@@ -1,1 +1,1 @@
-var mnemonic = "old gentle guide teach crush shell occur inner label rain input phrase";
+var mnemonic = "apology column never item emerge good juice caught magic lemon gold solve";

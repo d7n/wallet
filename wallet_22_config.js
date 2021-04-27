@@ -1,1 +1,1 @@
-var mnemonic = "apple grape barely busy flame proud pizza boat success fetch fuel work";
+var mnemonic = "client ripple include annual void attitude danger paper coil leg quality access";

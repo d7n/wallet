@@ -1,1 +1,1 @@
-var mnemonic = "call dumb figure awkward between sword village small lawn waste venture domain";
+var mnemonic = "conduct title adjust lucky capital shoe require jungle insect couch turtle husband";

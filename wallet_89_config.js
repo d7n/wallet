@@ -1,1 +1,1 @@
-var mnemonic = "shock mouse attract source narrow ginger soon wild frequent consider depth drill";
+var mnemonic = "tiny next used flight afraid weasel join ritual harvest alley route heart";

@@ -1,1 +1,1 @@
-var mnemonic = "little ticket lake salt rack hybrid ugly vague defy seed during impulse";
+var mnemonic = "slim put ranch owner awesome legend solution usual ahead alarm explain cost";

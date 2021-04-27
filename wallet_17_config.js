@@ -1,1 +1,1 @@
-var mnemonic = "cake wear frost matrix yard small outer able example lion hour symptom";
+var mnemonic = "coin clip total question differ athlete daughter pride pigeon nothing opera order";

@@ -1,1 +1,1 @@
-var mnemonic = "maze coffee sword ensure eight skin invest snake artist puzzle essence neutral";
+var mnemonic = "radio asset clean mandate bulb slender during start tattoo woman cousin leopard";

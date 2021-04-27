@@ -1,1 +1,1 @@
-var mnemonic = "swamp dune fat cute bench pond angry pair fashion banana before toy";
+var mnemonic = "reduce equip bench balance damage fresh protect gospel promote deputy wage amateur";

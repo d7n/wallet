@@ -1,1 +1,1 @@
-var mnemonic = "shove cheese shell mandate nut gas marriage range one exist utility feature";
+var mnemonic = "rude elbow motion collect nurse system type scheme club elephant easy unusual";

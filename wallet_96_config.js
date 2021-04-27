@@ -1,1 +1,1 @@
-var mnemonic = "record bachelor effort security sadness coach snow cage leg upon steel caution";
+var mnemonic = "improve shoulder work steak boil monitor creek negative hat manage grace amused";

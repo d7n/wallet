@@ -1,1 +1,1 @@
-var mnemonic = "diary night faith protect pill solve question sock blossom fiber sunset rail";
+var mnemonic = "silk thrive confirm reflect window steel physical hybrid dragon sad divorce also";

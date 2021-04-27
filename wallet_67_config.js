@@ -1,1 +1,1 @@
-var mnemonic = "bench merge cargo kitten glare release cross render crack good charge royal";
+var mnemonic = "kitten indicate cricket special vocal final hunt cereal gallery turtle park delay";

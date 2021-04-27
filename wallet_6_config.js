@@ -1,1 +1,1 @@
-var mnemonic = "vocal struggle animal quiz spider toy convince ship orient offer return holiday";
+var mnemonic = "sibling bundle canyon pear defy coyote immense problem click fatigue save lawn";

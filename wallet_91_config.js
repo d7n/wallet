@@ -1,1 +1,1 @@
-var mnemonic = "want stand purse traffic beauty fall near second copy marriage expand current";
+var mnemonic = "media desert dog risk select cross message damp unable language remove various";

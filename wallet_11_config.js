@@ -1,1 +1,1 @@
-var mnemonic = "muffin message donkey quality betray tenant air bomb shy retreat concert asset";
+var mnemonic = "capable crawl stamp liberty net worth car horror trust acid butter cupboard";

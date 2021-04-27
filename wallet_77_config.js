@@ -1,1 +1,1 @@
-var mnemonic = "afraid border family spirit clown close poverty fashion outdoor sentence photo amount";
+var mnemonic = "maple ability setup lab drama surface segment device sure clip black pretty";

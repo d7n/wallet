@@ -1,1 +1,1 @@
-var mnemonic = "people gold confirm enter ostrich orphan brown usual identify wide fruit globe";
+var mnemonic = "uphold actor spray link start alley sea awful chaos zero discover lounge";

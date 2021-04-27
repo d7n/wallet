@@ -1,1 +1,1 @@
-var mnemonic = "truth belt album success width rare slight match spike address put couple";
+var mnemonic = "pepper aim fuel say pretty rice write love equip across gift lounge";

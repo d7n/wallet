@@ -1,1 +1,1 @@
-var mnemonic = "hat top clean broken apple tired clean capable melt use shrimp buffalo";
+var mnemonic = "switch prevent frequent caught device today venture sense excite sail neglect edge";

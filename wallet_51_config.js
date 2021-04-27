@@ -1,1 +1,1 @@
-var mnemonic = "alley funny plastic excite track smooth seat face syrup mix scrap supreme";
+var mnemonic = "fancy one transfer marriage festival vehicle push fresh mercy gas oak cup";

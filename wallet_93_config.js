@@ -1,1 +1,1 @@
-var mnemonic = "know nature depend clock child devote learn horn orange remove chimney face";
+var mnemonic = "food legend vast return imitate journey lecture type radar jelly ocean journey";

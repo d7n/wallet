@@ -1,1 +1,1 @@
-var mnemonic = "orphan scissors risk toilet element actual sphere soul push garage much file";
+var mnemonic = "urban horse nurse wolf pattern super glide vehicle energy witness apart sausage";

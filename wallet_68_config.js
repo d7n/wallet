@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit enroll exile code file taxi fringe addict uncover now brand way";
+var mnemonic = "noise adjust code clock ignore people fish hurt gravity segment access photo";

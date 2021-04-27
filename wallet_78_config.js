@@ -1,1 +1,1 @@
-var mnemonic = "pony special security start lizard wrong boat soon cricket dinosaur chicken weather";
+var mnemonic = "pumpkin squirrel fringe consider spring gauge hill fly sound rifle skin thank";

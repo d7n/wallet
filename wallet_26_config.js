@@ -1,1 +1,1 @@
-var mnemonic = "cart park actor quality guitar radar undo rain type item glad stage";
+var mnemonic = "oven rescue urge process metal grid cupboard lyrics damp next addict garden";

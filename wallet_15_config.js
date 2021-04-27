@@ -1,1 +1,1 @@
-var mnemonic = "reward habit visit earth push scatter sleep unaware circle know canal bid";
+var mnemonic = "brush breeze faith hungry share spell vintage demise lobster leaf tumble name";

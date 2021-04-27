@@ -1,1 +1,1 @@
-var mnemonic = "essence sword hub egg tuition answer equip example believe any trim unhappy";
+var mnemonic = "silk gossip question dry embrace bunker struggle silk kind city wealth unknown";

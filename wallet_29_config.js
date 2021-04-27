@@ -1,1 +1,1 @@
-var mnemonic = "lesson blue talent boil vessel cloud imitate enemy erase vast symptom kit";
+var mnemonic = "nation heavy rose elder refuse snake normal symbol frame learn gasp arrange";

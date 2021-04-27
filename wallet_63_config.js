@@ -1,1 +1,1 @@
-var mnemonic = "annual sheriff budget canyon vivid solar prevent hazard mail spice wrist impulse";
+var mnemonic = "portion garage inherit affair harsh engine end calm vintage hire walk naive";

@@ -1,1 +1,1 @@
-var mnemonic = "bone electric service hammer mass lucky wave flip actual shaft pelican photo";
+var mnemonic = "sunset harvest invite tornado various silver slab release slam ecology ill volcano";

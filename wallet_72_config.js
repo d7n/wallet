@@ -1,1 +1,1 @@
-var mnemonic = "there turn develop craft photo calm wonder loop trust point casual deliver";
+var mnemonic = "stone dirt multiply domain item because small ski border foster pole balcony";

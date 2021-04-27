@@ -1,1 +1,1 @@
-var mnemonic = "monkey nasty link alpha mercy announce fossil seed erupt visa parade jacket";
+var mnemonic = "quality lumber arrow ice cricket company worth pen route survey wagon upon";

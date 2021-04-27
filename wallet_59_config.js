@@ -1,1 +1,1 @@
-var mnemonic = "number adapt crisp night wrap polar wear fashion match roof choice umbrella";
+var mnemonic = "put total save neglect rough renew bronze candy bunker apart body business";

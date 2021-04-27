@@ -1,1 +1,1 @@
-var mnemonic = "strong genre earn fix must speed adapt belt fortune toss empower universe";
+var mnemonic = "enforce stairs six leopard dentist feed arctic animal sample beyond viable opinion";

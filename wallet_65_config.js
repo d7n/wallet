@@ -1,1 +1,1 @@
-var mnemonic = "client pudding daughter love switch negative vague whisper federal slam enlist someone";
+var mnemonic = "eight honey unit shadow old payment venture cube tornado disease upper siege";

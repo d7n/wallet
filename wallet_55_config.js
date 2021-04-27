@@ -1,1 +1,1 @@
-var mnemonic = "medal smart turn slab define cash purchase slow drill poet around write";
+var mnemonic = "rude finger core middle program mother sting protect tattoo false depth side";

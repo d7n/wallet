@@ -1,1 +1,1 @@
-var mnemonic = "heavy file attend affair lobster fiscal celery ranch valve clinic panther citizen";
+var mnemonic = "sort federal disorder ethics twice country student kick forget gentle strike twenty";

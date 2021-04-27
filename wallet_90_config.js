@@ -1,1 +1,1 @@
-var mnemonic = "crawl whale volume random pony nurse budget gasp large host buyer eternal";
+var mnemonic = "subway lumber gap weird face erase world depart dune jump album host";

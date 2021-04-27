@@ -1,1 +1,1 @@
-var mnemonic = "pause candy train bubble universe abandon palm give call faculty shield century";
+var mnemonic = "indicate extend sunset banner awake brave captain price fence monkey artefact gauge";

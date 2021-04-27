@@ -1,1 +1,1 @@
-var mnemonic = "render hurt frozen title tuition language rely embody owner artefact crash illegal";
+var mnemonic = "armed cave tone used witness physical curious joke resemble slow humor garage";

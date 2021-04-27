@@ -1,1 +1,1 @@
-var mnemonic = "fade indicate robot tail world advice dwarf vanish north pioneer fuel carbon";
+var mnemonic = "thought miracle minor grab canal sister mad arrest domain ranch powder bright";

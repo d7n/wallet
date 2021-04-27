@@ -1,1 +1,1 @@
-var mnemonic = "century idle advance cheese route job common upper curve elegant acid random";
+var mnemonic = "kitchen credit ridge alter science glance abuse allow journey length income file";

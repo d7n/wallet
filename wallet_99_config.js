@@ -1,1 +1,1 @@
-var mnemonic = "around area water small captain final design cook rude away earth priority";
+var mnemonic = "blossom pudding fat receive return cause plate heart radio fence rack spell";

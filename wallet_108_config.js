@@ -1,1 +1,1 @@
-var mnemonic = "shell pizza basket manage mansion trash whip august spoil document donate pepper";
+var mnemonic = "toilet battle apple way sponsor sausage nation glue pyramid tonight rent orphan";

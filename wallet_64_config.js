@@ -1,1 +1,1 @@
-var mnemonic = "engage next regret body tent range baby grief able crumble mountain chat";
+var mnemonic = "shove borrow prepare nerve end course toilet legal benefit pill brain chicken";

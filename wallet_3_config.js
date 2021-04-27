@@ -1,1 +1,1 @@
-var mnemonic = "clown grass quality put hedgehog about short rural audit admit atom exercise";
+var mnemonic = "relax predict inmate agree beef step kingdom electric prosper wall insect prize";

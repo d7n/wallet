@@ -1,1 +1,1 @@
-var mnemonic = "stable wall umbrella youth remember crack swim credit awake inherit village boat";
+var mnemonic = "purity enforce spoon cousin brisk perfect soccer burst powder winner jeans song";

@@ -1,1 +1,1 @@
-var mnemonic = "disease swallow hold carbon busy sphere disorder boil muffin museum fish annual";
+var mnemonic = "budget express much reveal hub menu release tackle ring fee tennis ghost";

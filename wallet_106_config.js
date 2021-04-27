@@ -1,1 +1,1 @@
-var mnemonic = "wasp shed loop senior wink lunch exclude immune rural clap barrel analyst";
+var mnemonic = "club burden gospel winner repeat click february over zebra squeeze right acoustic";

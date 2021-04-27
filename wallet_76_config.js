@@ -1,1 +1,1 @@
-var mnemonic = "island general never soup vendor canvas prosper clerk asset strong goddess nuclear";
+var mnemonic = "first can reveal remain dignity boring select panic frog lobster cup grace";

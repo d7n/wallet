@@ -1,1 +1,1 @@
-var mnemonic = "goddess host original bless pattern spirit tray bargain scene scout upset solid";
+var mnemonic = "fit swim nurse scorpion gas balance input month describe ozone example avoid";
