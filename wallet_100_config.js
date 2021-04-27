@@ -1,1 +1,1 @@
-var mnemonic = "cook amount train giggle matter arctic volume gorilla squeeze method jeans success";
+var mnemonic = "shadow cheese comfort benefit marine venture best topic spider gown arrange desert";

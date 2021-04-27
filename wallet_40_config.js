@@ -1,1 +1,1 @@
-var mnemonic = "ability raise lamp frequent off truly slight above split fun notable chapter";
+var mnemonic = "mother wool disease exact success kit auction electric north wreck view moment";

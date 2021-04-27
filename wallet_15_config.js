@@ -1,1 +1,1 @@
-var mnemonic = "outside party front engage net digital alert egg shadow always monitor park";
+var mnemonic = "prefer end warfare grow scene away attack derive expire glare direct long";

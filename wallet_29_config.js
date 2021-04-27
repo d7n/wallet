@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit enemy crack tonight purpose wolf focus high orange clerk guess water";
+var mnemonic = "impulse virtual whip insane carbon room open bonus settle city fly century";

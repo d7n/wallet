@@ -1,1 +1,1 @@
-var mnemonic = "depart mad airport gallery fade salad ancient crunch humor giggle click sure";
+var mnemonic = "this check hunt zebra fury replace expose hurdle leopard subject dentist sweet";

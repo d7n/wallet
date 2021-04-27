@@ -1,1 +1,1 @@
-var mnemonic = "report stone runway neglect double cricket various grid ecology tackle file spray";
+var mnemonic = "comic multiply miss bird faint argue awful tiny poet powder city height";

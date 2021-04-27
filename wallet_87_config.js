@@ -1,1 +1,1 @@
-var mnemonic = "announce switch all utility tide live scheme few era butter science napkin";
+var mnemonic = "vivid genius upset glue situate steak entry pass brick choice laptop canvas";

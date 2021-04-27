@@ -1,1 +1,1 @@
-var mnemonic = "used wife tower aunt wheat two outer salt nuclear hobby grow bid";
+var mnemonic = "present swing version enable nothing clay abuse verb employ person february easy";

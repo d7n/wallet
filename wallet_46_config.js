@@ -1,1 +1,1 @@
-var mnemonic = "dry borrow shock prevent book dignity mean play grace barely steel man";
+var mnemonic = "seek badge pool call under body cheese medal together basic dolphin exercise";

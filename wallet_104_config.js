@@ -1,1 +1,1 @@
-var mnemonic = "search antique dress spice quit better never tilt skate cherry motor display";
+var mnemonic = "toy kiss option witness swarm sort giraffe uniform clerk boil laundry blanket";

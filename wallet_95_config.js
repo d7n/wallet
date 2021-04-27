@@ -1,1 +1,1 @@
-var mnemonic = "split argue evoke enjoy found talent response wait body area viable ladder";
+var mnemonic = "marble ribbon leisure cable film inspire normal vacuum shallow orphan broccoli misery";

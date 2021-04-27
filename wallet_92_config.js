@@ -1,1 +1,1 @@
-var mnemonic = "obtain dumb curve distance segment flat assume category drama hollow resist dizzy";
+var mnemonic = "road manage hungry beef solution diamond guide patch girl degree basic wedding";

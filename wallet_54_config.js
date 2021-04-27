@@ -1,1 +1,1 @@
-var mnemonic = "sister mammal push frown palm any flame forget spice dry deputy item";
+var mnemonic = "jungle penalty program female shine silly gym exhibit grocery agent raw scorpion";

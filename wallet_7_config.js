@@ -1,1 +1,1 @@
-var mnemonic = "slow purity feel execute alter all volcano turtle ethics verb also calm";
+var mnemonic = "stem globe garbage script vessel twin fresh butter rapid they rib frost";

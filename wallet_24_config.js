@@ -1,1 +1,1 @@
-var mnemonic = "jacket orbit inch medal essence clap gorilla pledge home reunion ice resemble";
+var mnemonic = "floor addict similar ivory camp shrug short menu meat sentence toe luggage";

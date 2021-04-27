@@ -1,1 +1,1 @@
-var mnemonic = "silent axis cradle exercise quick fade exotic limit edit ritual price review";
+var mnemonic = "throw cactus catalog wish much alley waste skirt shift hat win angle";

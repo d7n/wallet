@@ -1,1 +1,1 @@
-var mnemonic = "dolphin green pumpkin peace slide tuna badge exit parent sorry punch arrange";
+var mnemonic = "vanish danger salad prefer sphere adult acoustic bag payment swing word scrap";

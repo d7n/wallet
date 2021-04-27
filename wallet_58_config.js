@@ -1,1 +1,1 @@
-var mnemonic = "armor steak estate plate orchard song stand garden exile chapter food potato";
+var mnemonic = "where reject left side police audit silly panel more piece fire author";

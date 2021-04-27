@@ -1,1 +1,1 @@
-var mnemonic = "lucky smooth audit cluster slice crane rude shop dove copper web family";
+var mnemonic = "brisk swap fresh across decline meat dust worry fossil observe brush catalog";

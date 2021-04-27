@@ -1,1 +1,1 @@
-var mnemonic = "voice drop tomorrow bicycle praise illness fringe wing trick reopen amount wife";
+var mnemonic = "ill sign oven clump coconut satisfy equip nature buzz favorite game credit";

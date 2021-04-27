@@ -1,1 +1,1 @@
-var mnemonic = "clarify swing dove host wrist task visit truly stadium attract athlete alcohol";
+var mnemonic = "then flush mule decide dad impact shadow sweet traffic clinic toast liquid";

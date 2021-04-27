@@ -1,1 +1,1 @@
-var mnemonic = "lyrics tide push tent more glory employ forest object episode ten clay";
+var mnemonic = "expose cluster filter copy rich slab obscure stuff issue vehicle category various";

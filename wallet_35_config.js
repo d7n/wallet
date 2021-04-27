@@ -1,1 +1,1 @@
-var mnemonic = "hammer denial smoke achieve twenty hidden become body front audit jar grape";
+var mnemonic = "debris reason coach soul faculty update fly bar still physical page uncle";

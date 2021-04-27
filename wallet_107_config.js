@@ -1,1 +1,1 @@
-var mnemonic = "smoke fade idea heavy engine always soccer quality glow flavor inner buyer";
+var mnemonic = "feed mushroom trouble kingdom proof bring gaze draw eye thumb monkey radio";

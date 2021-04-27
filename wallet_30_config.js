@@ -1,1 +1,1 @@
-var mnemonic = "relief cattle squeeze usage life aware ensure onion volume put half group";
+var mnemonic = "diet task sauce chalk ten tiny hobby recipe profit marriage impulse random";

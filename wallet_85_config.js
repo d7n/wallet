@@ -1,1 +1,1 @@
-var mnemonic = "piece orphan consider where hire sibling chimney jazz render spirit bachelor join";
+var mnemonic = "turn poem quantum problem fault slim roof excite critic auto use come";

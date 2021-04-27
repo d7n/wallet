@@ -1,1 +1,1 @@
-var mnemonic = "guess flat gentle license escape tired cement bargain gain ecology side east";
+var mnemonic = "walnut hello float convince case retreat roast keep trouble enact filter later";

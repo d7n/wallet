@@ -1,1 +1,1 @@
-var mnemonic = "mom survey person imitate news divert hat enhance security infant depart color";
+var mnemonic = "enlist joke result pluck detail level flock tuna flee royal ozone pyramid";

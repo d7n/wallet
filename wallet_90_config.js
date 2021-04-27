@@ -1,1 +1,1 @@
-var mnemonic = "sight disagree input account loan hockey unique fly mail text cradle evoke";
+var mnemonic = "heavy shove pupil vapor issue carbon sauce novel pioneer robust else lecture";

@@ -1,1 +1,1 @@
-var mnemonic = "ribbon way business limb tree spring nephew ill flush retreat special awkward";
+var mnemonic = "range term half salmon casino deposit trend moment village casino initial when";

@@ -1,1 +1,1 @@
-var mnemonic = "vault chicken woman veteran garment duck scissors illness power enforce stay item";
+var mnemonic = "learn island where gentle pass paper depth number habit second ramp goddess";

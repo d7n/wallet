@@ -1,1 +1,1 @@
-var mnemonic = "achieve soul panel fabric card envelope brick all jealous weapon deliver copper";
+var mnemonic = "casual chair grow pencil calm mosquito topple false retire produce pool wide";

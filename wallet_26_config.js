@@ -1,1 +1,1 @@
-var mnemonic = "fine ladder flip awful enact report inch daring wagon roof holiday crush";
+var mnemonic = "ghost call rare forget notice marble creek report shed silly nominee inherit";

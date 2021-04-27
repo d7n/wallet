@@ -1,1 +1,1 @@
-var mnemonic = "mix away roof spell enough ecology decrease list elite paddle cross sure";
+var mnemonic = "dignity employ expose celery meat blanket shiver jeans naive measure develop uniform";

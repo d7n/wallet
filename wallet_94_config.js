@@ -1,1 +1,1 @@
-var mnemonic = "improve fade torch nothing behave loop hub craft feel pool language cover";
+var mnemonic = "hidden humor guitar sail minor click friend artefact doctor enlist income pluck";

@@ -1,1 +1,1 @@
-var mnemonic = "drastic destroy north common female hybrid tunnel marine swear veteran dove among";
+var mnemonic = "drastic memory snake craft gate gentle notice inject tomato twenty essay lawsuit";

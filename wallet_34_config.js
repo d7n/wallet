@@ -1,1 +1,1 @@
-var mnemonic = "orphan gather pear elegant tank eternal extra celery sentence empty dinosaur primary";
+var mnemonic = "bulk crack candy depart universe rifle mad ranch hunt blast firm cotton";

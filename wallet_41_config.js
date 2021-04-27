@@ -1,1 +1,1 @@
-var mnemonic = "social truck purity comfort time enforce staff front run reduce smart carbon";
+var mnemonic = "almost gap floor hint apart reason blind mansion bounce olive allow mass";

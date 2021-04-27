@@ -1,1 +1,1 @@
-var mnemonic = "exclude rebel expand crop use race amazing quiz result surface trick attitude";
+var mnemonic = "ticket method gun guard blue gravity grab before gorilla deer shuffle entire";

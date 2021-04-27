@@ -1,1 +1,1 @@
-var mnemonic = "lonely brisk bunker man ketchup artefact trophy angle fluid master slim journey";
+var mnemonic = "valid mad cash legend bomb sugar snap use produce tray lamp alcohol";

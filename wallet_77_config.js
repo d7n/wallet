@@ -1,1 +1,1 @@
-var mnemonic = "grow dentist replace obtain bleak gadget trial cherry reopen one liquid blast";
+var mnemonic = "april elevator struggle visual will orange amount kiss antenna valve drive cool";

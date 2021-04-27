@@ -1,1 +1,1 @@
-var mnemonic = "lesson empty child accuse grocery actual talk federal long pioneer six witness";
+var mnemonic = "cake detail dwarf frequent young bundle leisure thrive heart tennis symbol lazy";

@@ -1,1 +1,1 @@
-var mnemonic = "cause blind soup blouse clean column fiction start swamp response traffic slim";
+var mnemonic = "cherry path expire pudding write snack delay wrestle thing episode analyst tomato";

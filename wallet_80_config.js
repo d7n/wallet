@@ -1,1 +1,1 @@
-var mnemonic = "cupboard neither price dune panther easily stable kite ancient quarter east powder";
+var mnemonic = "net divorce garbage industry hawk piano donor logic home faculty toward abandon";

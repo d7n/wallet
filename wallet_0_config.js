@@ -1,1 +1,1 @@
-var mnemonic = "frost junior silent vocal noodle educate also noise odor actor donate park";
+var mnemonic = "mean avocado worry universe team raccoon pen winter truck milk artwork clinic";

@@ -1,1 +1,1 @@
-var mnemonic = "radio replace empower indoor paper energy tray youth knock found bunker carpet";
+var mnemonic = "language such donor letter wood furnace coral where team damp canoe update";

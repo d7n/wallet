@@ -1,1 +1,1 @@
-var mnemonic = "such glance swallow cart girl fever gun drastic inner one reward help";
+var mnemonic = "multiply age knock fly present swallow forward become rough spend security march";

@@ -1,1 +1,1 @@
-var mnemonic = "gas cluster answer trip fee romance fine special grace ritual machine dilemma";
+var mnemonic = "owner arm ceiling delay disorder couple suggest just gas coil canal fringe";

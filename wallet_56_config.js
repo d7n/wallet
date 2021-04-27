@@ -1,1 +1,1 @@
-var mnemonic = "arrive boil loan grocery afraid ghost provide client injury credit section gift";
+var mnemonic = "kid carbon boat reason smooth lion cram push nature drive tornado torch";

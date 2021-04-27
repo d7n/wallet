@@ -1,1 +1,1 @@
-var mnemonic = "bless sure now sleep milk expand museum salmon magnet record deny visit";
+var mnemonic = "cousin salon lemon bulb wash door online dust thing differ ski vault";

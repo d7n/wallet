@@ -1,1 +1,1 @@
-var mnemonic = "rack direct swing weather suspect finger nothing above tuna slight voice three";
+var mnemonic = "moon goddess chimney lawsuit improve maze olive vital butter fine teach loop";

@@ -1,1 +1,1 @@
-var mnemonic = "ugly first crunch antique anchor guilt turn radar rug gift dawn rescue";
+var mnemonic = "trouble release vocal volume kingdom wink recall tool leg army nose rookie";

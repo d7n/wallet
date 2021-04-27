@@ -1,1 +1,1 @@
-var mnemonic = "imitate album knee gain spare tired saddle toward cheap office harsh border";
+var mnemonic = "rotate use egg umbrella clarify cluster visit drop budget smooth village spend";

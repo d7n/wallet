@@ -1,1 +1,1 @@
-var mnemonic = "holiday swarm cheese iron almost afford educate aim bike front dentist uncle";
+var mnemonic = "model battle love trial later erode raven industry cabin good square hurt";

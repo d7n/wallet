@@ -1,1 +1,1 @@
-var mnemonic = "favorite february exotic unit limb charge fish two bullet fuel bread comfort";
+var mnemonic = "royal master safe engage sight eternal animal diet skate memory twenty rely";

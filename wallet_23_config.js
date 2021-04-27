@@ -1,1 +1,1 @@
-var mnemonic = "benefit caught describe six tilt main head napkin stable dream bean shoot";
+var mnemonic = "canoe child three now follow wheat wool approve double first step wreck";

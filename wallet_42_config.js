@@ -1,1 +1,1 @@
-var mnemonic = "behave strategy derive dune mutual bargain blue toilet grunt milk law truck";
+var mnemonic = "pond mansion eight govern select owner annual prison will index genuine domain";

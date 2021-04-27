@@ -1,1 +1,1 @@
-var mnemonic = "buyer rare volume tortoise mass nerve weapon amount six position physical believe";
+var mnemonic = "topple recall unit retreat wise swamp cinnamon clock total able ghost army";

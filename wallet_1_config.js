@@ -1,1 +1,1 @@
-var mnemonic = "comic myth polar earth toy surprise sausage hollow bright aerobic seek mask";
+var mnemonic = "category flush select slim never twenty recall flush mimic harvest piano hip";

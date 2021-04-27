@@ -1,1 +1,1 @@
-var mnemonic = "dish sock grab piano private giggle buddy nation fade vacuum man tube";
+var mnemonic = "stone detail source odor electric unknown coconut dragon lawsuit wide obscure crime";

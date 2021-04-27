@@ -1,1 +1,1 @@
-var mnemonic = "absurd cattle spoil intact claw income balcony enact brisk battle borrow trend";
+var mnemonic = "mechanic age lion mercy pigeon initial choose album poem inject push family";

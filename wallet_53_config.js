@@ -1,1 +1,1 @@
-var mnemonic = "judge promote motion logic garage north sunset pause say nest ready renew";
+var mnemonic = "screen keen tower include strategy anchor tail daring lift topic lyrics hotel";

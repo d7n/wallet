@@ -1,1 +1,1 @@
-var mnemonic = "case garbage cotton employ duck inside pencil ocean disorder nephew train kidney";
+var mnemonic = "feed sibling firm oval mad aerobic fantasy parent labor shaft feature today";

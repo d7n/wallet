@@ -1,1 +1,1 @@
-var mnemonic = "cycle mesh cruise blue wool thought loop fragile coil anchor affair lawsuit";
+var mnemonic = "remember section cause road pill more empty pet lecture boat wheat sheriff";

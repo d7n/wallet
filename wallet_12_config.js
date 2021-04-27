@@ -1,1 +1,1 @@
-var mnemonic = "brother way grid vapor laundry trick sudden glory proof install strike jelly";
+var mnemonic = "spatial swarm process decline number tenant bundle lemon skull blame lizard slogan";

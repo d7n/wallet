@@ -1,1 +1,1 @@
-var mnemonic = "public worry broccoli swear layer cereal broken weekend general soda laptop volume";
+var mnemonic = "loud plug asthma drama delay lecture country pitch kitchen seat believe blue";

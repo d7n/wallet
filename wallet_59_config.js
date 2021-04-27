@@ -1,1 +1,1 @@
-var mnemonic = "garlic forum romance seminar empty wise art step trouble napkin panel movie";
+var mnemonic = "zebra exchange flower kite column such dune attend hybrid boil merry all";

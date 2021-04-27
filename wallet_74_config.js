@@ -1,1 +1,1 @@
-var mnemonic = "toilet hole call gorilla rescue ranch chapter undo vibrant lake blade bonus";
+var mnemonic = "weather wrong gadget beach foot million split boil jump cannon leaf injury";

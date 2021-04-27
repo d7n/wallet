@@ -1,1 +1,1 @@
-var mnemonic = "forum knife furnace gasp embark device exit donor rug emerge fancy raven";
+var mnemonic = "remove snap eagle require wet flame mansion minor slab carpet tomato tower";

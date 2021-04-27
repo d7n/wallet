@@ -1,1 +1,1 @@
-var mnemonic = "purchase river caught occur size vote museum december engine picture disease mango";
+var mnemonic = "faith stadium wagon orient adapt record renew unit dignity silver seminar miracle";

@@ -1,1 +1,1 @@
-var mnemonic = "enter hip shallow dumb boring used gas become code ask strike day";
+var mnemonic = "phone moment cup legend secret bracket swim mule insect banner ghost noble";

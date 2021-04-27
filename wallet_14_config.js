@@ -1,1 +1,1 @@
-var mnemonic = "inflict toddler oak clutch ceiling valid local derive alpha during lawsuit winter";
+var mnemonic = "unaware glass airport spike retreat cricket escape derive border sweet bulk mushroom";

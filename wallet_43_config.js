@@ -1,1 +1,1 @@
-var mnemonic = "acquire public pool absorb snake powder dutch lawsuit april drama voyage mesh";
+var mnemonic = "orange shed banner sick force final know scissors field sing spell magnet";

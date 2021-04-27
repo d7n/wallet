@@ -1,1 +1,1 @@
-var mnemonic = "funny runway state wheat toe auto twice hungry emotion element blanket mansion";
+var mnemonic = "ladder indoor stairs deposit panic wire owner fuel parrot cruel consider blood";

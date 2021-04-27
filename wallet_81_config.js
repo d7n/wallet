@@ -1,1 +1,1 @@
-var mnemonic = "lonely audit depth motor toy tumble pole repair letter company minor turtle";
+var mnemonic = "swing neck measure hover grunt novel cloth report urge farm another royal";

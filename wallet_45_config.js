@@ -1,1 +1,1 @@
-var mnemonic = "scissors usage assist mountain ginger divert amount person weasel panda october gorilla";
+var mnemonic = "copy potato flat venue region select teach rocket coffee act fold embark";

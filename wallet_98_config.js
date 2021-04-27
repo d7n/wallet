@@ -1,1 +1,1 @@
-var mnemonic = "client barely cargo since chair horse over chronic decade equal case swap";
+var mnemonic = "two buffalo educate endless valve occur trouble spread cable panic unaware hello";

@@ -1,1 +1,1 @@
-var mnemonic = "pen same panther ramp panel gasp bronze person material bone antenna half";
+var mnemonic = "ladder waste matrix area uniform detect catch huge lady stay puppy light";

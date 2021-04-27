@@ -1,1 +1,1 @@
-var mnemonic = "already unable cause tourist friend dwarf castle return hotel insect honey enroll";
+var mnemonic = "humble milk cruel draw sign room immune lend expire strike define fresh";

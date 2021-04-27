@@ -1,1 +1,1 @@
-var mnemonic = "furnace level frame shadow diary index dinner radar rail fantasy giant cloud";
+var mnemonic = "domain city provide rebuild awake find disorder cherry ship vibrant favorite rubber";

@@ -1,1 +1,1 @@
-var mnemonic = "matrix history fault recycle step prison antique define infant solar sadness venue";
+var mnemonic = "fame major pledge glad fragile track gym mushroom valley potato bus picnic";

@@ -1,1 +1,1 @@
-var mnemonic = "expire rifle thank verify fade gadget core head squirrel scissors panda dinner";
+var mnemonic = "bomb hockey weekend outdoor basket soft fence super cabin sick grain mixture";

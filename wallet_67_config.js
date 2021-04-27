@@ -1,1 +1,1 @@
-var mnemonic = "kiss stand artist leg evolve swim barely labor hat peanut lonely domain";
+var mnemonic = "century equal ride large naive clump accuse people maid fashion model balcony";

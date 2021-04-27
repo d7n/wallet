@@ -1,1 +1,1 @@
-var mnemonic = "argue wait stage want isolate output phone poem primary ketchup later liar";
+var mnemonic = "ring spoon tourist neutral wonder museum course axis since smile casual fall";

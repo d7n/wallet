@@ -1,1 +1,1 @@
-var mnemonic = "almost few ecology truly heart monkey tree oil enable spell boost nation";
+var mnemonic = "dice sample avoid garage foam uncover ball story cupboard capable child mandate";

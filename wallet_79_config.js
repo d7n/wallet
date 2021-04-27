@@ -1,1 +1,1 @@
-var mnemonic = "adjust success immune fluid beyond dismiss curtain person dragon cereal squeeze bomb";
+var mnemonic = "odor boss cliff clerk oil middle cram caution crisp sphere abuse sheriff";

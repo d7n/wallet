@@ -1,1 +1,1 @@
-var mnemonic = "abandon group boss member eternal tooth radio pottery rare battle leisure oil";
+var mnemonic = "spread come price pretty rare immense path task clip fence easily feature";

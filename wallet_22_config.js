@@ -1,1 +1,1 @@
-var mnemonic = "force melody three unable crisp shrimp latin bitter today muffin tone grid";
+var mnemonic = "fortune speak shy picnic leader bachelor comic zone circle frequent dignity shoot";

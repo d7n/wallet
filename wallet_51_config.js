@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow shield video lion wheat cluster paper trigger become bulb cat soccer";
+var mnemonic = "accuse swear tag organ state bomb slide minimum sun afford rifle wash";

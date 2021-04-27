@@ -1,1 +1,1 @@
-var mnemonic = "recycle scissors agent tortoise plate gravity explain pony angle garden vacant ice";
+var mnemonic = "bleak stem voice champion thunder student noise mix enough modify state unusual";

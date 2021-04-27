@@ -1,1 +1,1 @@
-var mnemonic = "media idea anxiety burst can endorse provide answer oppose rib country cup";
+var mnemonic = "duck bring impact hundred cake then expose spatial victory pear catch trade";
