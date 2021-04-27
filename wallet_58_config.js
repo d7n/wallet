@@ -1,1 +1,1 @@
-var mnemonic = "elegant margin kitchen detail next peace armed smooth pill story obscure empty";
+var mnemonic = "chronic parade child engine salad super quit tower prevent earn gentle unhappy";

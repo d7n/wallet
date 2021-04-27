@@ -1,1 +1,1 @@
-var mnemonic = "insane clown decline analyst scrub tell wool coral tiny nature spawn stuff";
+var mnemonic = "hammer cake lend grant permit cigar shield summer tone trick liquid target";

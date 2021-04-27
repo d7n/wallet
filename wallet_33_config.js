@@ -1,1 +1,1 @@
-var mnemonic = "recipe orange own solve injury lion remove domain gym chair profit fluid";
+var mnemonic = "brush duty ladder acoustic six ankle develop worth run dentist light camp";

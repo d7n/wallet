@@ -1,1 +1,1 @@
-var mnemonic = "spread crop april rival twice lion quit music split carpet garage visit";
+var mnemonic = "toward love hockey satoshi shaft glue farm tattoo wide utility elegant pepper";

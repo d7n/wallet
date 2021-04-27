@@ -1,1 +1,1 @@
-var mnemonic = "purse twin state view chat siege swap taste refuse cabin course friend";
+var mnemonic = "ensure accident picture aware miss arrest expire giggle glance task abstract arrow";

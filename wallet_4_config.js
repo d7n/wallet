@@ -1,1 +1,1 @@
-var mnemonic = "fence supreme prepare wheel screen bench skull initial tragic prepare farm loud";
+var mnemonic = "satisfy salad board vacant tumble tortoise survey occur bag pear assist attitude";

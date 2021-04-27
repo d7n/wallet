@@ -1,1 +1,1 @@
-var mnemonic = "illegal biology harsh wrong cheese gospel size powder total boost unusual address";
+var mnemonic = "music cloud spell urge jaguar burger raw symptom attitude orange time dance";

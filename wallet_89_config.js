@@ -1,1 +1,1 @@
-var mnemonic = "option syrup ability shop advance hood police jealous fit material fade shoe";
+var mnemonic = "enemy entire bitter pact picnic arrest credit public truck harsh shed limb";

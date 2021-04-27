@@ -1,1 +1,1 @@
-var mnemonic = "wreck mistake retire gorilla order glimpse master clever enjoy warfare tuna wool";
+var mnemonic = "myself joke suspect strong depth eagle love vault foam shed fruit mutual";

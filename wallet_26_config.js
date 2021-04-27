@@ -1,1 +1,1 @@
-var mnemonic = "coil day orchard tired eager chat sign settle wine moral cushion warrior";
+var mnemonic = "false arctic prevent moral play conduct uncover jar play pride junior ability";

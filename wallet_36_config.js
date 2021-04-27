@@ -1,1 +1,1 @@
-var mnemonic = "credit say couple monster hurt cry furnace clog portion sight bamboo mind";
+var mnemonic = "gossip senior soda talk common believe race illness scissors hen flight lamp";

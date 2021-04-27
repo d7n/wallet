@@ -1,1 +1,1 @@
-var mnemonic = "scale casino foot cover away room news immense pet soda august dwarf";
+var mnemonic = "lawsuit cool cable daring doll observe base wall unique dwarf panda fine";

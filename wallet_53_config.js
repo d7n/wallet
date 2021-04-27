@@ -1,1 +1,1 @@
-var mnemonic = "mammal turkey credit crunch tattoo major deal obscure claw pink foster ice";
+var mnemonic = "oyster blanket asthma snack rich trick laptop pair swim decorate you toy";

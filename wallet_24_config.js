@@ -1,1 +1,1 @@
-var mnemonic = "hand brick grid sand exchange rabbit task gap embark grief grid try";
+var mnemonic = "melody shoulder perfect wet arm custom predict around boss match lamp knee";

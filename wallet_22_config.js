@@ -1,1 +1,1 @@
-var mnemonic = "father tiger expand level aisle dirt fabric clog slight shed giraffe aim";
+var mnemonic = "question admit grit size inhale achieve profit traffic cram source rare green";

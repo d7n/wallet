@@ -1,1 +1,1 @@
-var mnemonic = "cement electric core scrub toast tuition kiss rude dial obtain kangaroo food";
+var mnemonic = "volume orchard ugly rare imitate finger heart auto else awesome dial gloom";

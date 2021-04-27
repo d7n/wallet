@@ -1,1 +1,1 @@
-var mnemonic = "author neck meat dinner ability cash kid small wine master similar mango";
+var mnemonic = "rail omit bundle forget pepper coconut worry school list umbrella coconut output";

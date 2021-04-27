@@ -1,1 +1,1 @@
-var mnemonic = "use maze distance walk blade patient dress gold six tunnel try problem";
+var mnemonic = "arrange merry saddle hunt recall coach reduce spring flash shell arm trim";

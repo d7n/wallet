@@ -1,1 +1,1 @@
-var mnemonic = "rather copy chicken sport glimpse peanut duck beauty hobby drop rate awkward";
+var mnemonic = "round riot mail wolf thought exile ticket crumble sweet pear rotate shrimp";

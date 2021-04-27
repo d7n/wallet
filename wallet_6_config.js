@@ -1,1 +1,1 @@
-var mnemonic = "depth eyebrow stove pipe acid scatter model flower junk antique ocean square";
+var mnemonic = "glide rigid music fiscal lawn domain fresh nurse magic scene cable giant";

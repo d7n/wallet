@@ -1,1 +1,1 @@
-var mnemonic = "unfair strong receive limb stool old disorder save robot exclude swallow beef";
+var mnemonic = "skirt rapid blossom jazz zone rocket fit vote stage write fun furnace";

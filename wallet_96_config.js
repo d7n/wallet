@@ -1,1 +1,1 @@
-var mnemonic = "pull scan execute build disorder strategy casual infant key step real pear";
+var mnemonic = "symbol liberty flat cable unknown crane ugly giant genius taste budget spawn";

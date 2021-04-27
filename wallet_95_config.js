@@ -1,1 +1,1 @@
-var mnemonic = "outdoor bounce glory quarter priority gorilla spice message video quality buyer ridge";
+var mnemonic = "usual ball noodle weapon praise film exercise army antique transfer ahead resist";

@@ -1,1 +1,1 @@
-var mnemonic = "hungry siege cupboard report garage around gas imitate divorce column bonus tuna";
+var mnemonic = "increase cargo parrot solution slim verb interest teach armed crop attend leader";

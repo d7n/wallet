@@ -1,1 +1,1 @@
-var mnemonic = "rabbit vacant want top scorpion please frozen anxiety cactus acid enhance movie";
+var mnemonic = "suit bread salt foster surface sorry income helmet correct forum milk frog";

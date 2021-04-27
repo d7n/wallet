@@ -1,1 +1,1 @@
-var mnemonic = "reduce anger found water treat office poverty fork mask material canvas inflict";
+var mnemonic = "absorb roast man swap gloom naive vast sort grab eyebrow orient issue";

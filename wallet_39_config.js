@@ -1,1 +1,1 @@
-var mnemonic = "pledge kingdom segment cactus chalk provide upset shadow sugar away below extra";
+var mnemonic = "outdoor artwork fire roast employ anger cause bar hammer lock admit mammal";

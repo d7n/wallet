@@ -1,1 +1,1 @@
-var mnemonic = "machine reward help convince day expand shed board speak sad chaos reward";
+var mnemonic = "drama undo gallery fever retreat summer book helmet alien where civil sense";

@@ -1,1 +1,1 @@
-var mnemonic = "potato pepper sting ball slam slide gold approve regular hungry vast region";
+var mnemonic = "balcony note laugh wealth wine biology link wealth hub modify denial turn";

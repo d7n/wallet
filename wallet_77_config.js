@@ -1,1 +1,1 @@
-var mnemonic = "lift organ pig arrow pulp athlete inform decide van above bundle become";
+var mnemonic = "fiction eternal game visa stomach cute attend cup work reflect hawk rapid";

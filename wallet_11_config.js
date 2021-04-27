@@ -1,1 +1,1 @@
-var mnemonic = "latin inherit cupboard noble gesture notable property leave fiction shoot lunar random";
+var mnemonic = "ensure board gas entire text draw empower together crouch embark orbit year";

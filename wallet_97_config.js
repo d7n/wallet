@@ -1,1 +1,1 @@
-var mnemonic = "fluid umbrella sheriff umbrella use alone globe ketchup loyal bid analyst suffer";
+var mnemonic = "bullet exclude south fury country empower cook supreme fetch obscure hundred photo";

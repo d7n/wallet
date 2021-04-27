@@ -1,1 +1,1 @@
-var mnemonic = "stick injury auto lemon educate acoustic shell nature between zone olympic main";
+var mnemonic = "cup amazing spider trip young normal invite slight melt chalk slice link";

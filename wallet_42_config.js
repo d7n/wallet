@@ -1,1 +1,1 @@
-var mnemonic = "pet sort kite curve black twice fresh scrub cloud over kitten burden";
+var mnemonic = "gloom extra index various romance popular pet crush iron usage domain elbow";

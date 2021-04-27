@@ -1,1 +1,1 @@
-var mnemonic = "village similar easy chimney visit neglect spell copper physical cereal apology acid";
+var mnemonic = "add keep able offer try strategy acid circle fly attend join average";

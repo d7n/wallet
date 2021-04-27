@@ -1,1 +1,1 @@
-var mnemonic = "chaos path material radar need utility video drama fault program early small";
+var mnemonic = "leisure gasp moral age picnic either drip jeans margin false best occur";

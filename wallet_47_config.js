@@ -1,1 +1,1 @@
-var mnemonic = "unveil whisper jaguar flower thought hidden join grape exit rain cheap mad";
+var mnemonic = "harsh indicate spoon become embrace cousin ability blind dance final catch amateur";

@@ -1,1 +1,1 @@
-var mnemonic = "hazard tip enable laundry turn soul female feed minute peasant feed cereal";
+var mnemonic = "plug film wish outside maximum change orbit holiday lunch frost prefer daughter";

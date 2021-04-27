@@ -1,1 +1,1 @@
-var mnemonic = "peasant plunge yard volcano silent skirt liquid tomorrow endless chapter seek survey";
+var mnemonic = "column orient pulp glimpse island approve inject issue priority kite match beauty";

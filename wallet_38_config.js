@@ -1,1 +1,1 @@
-var mnemonic = "ask laugh deal helmet require smoke boat pass begin space proud priority";
+var mnemonic = "company cave among middle story street brain enhance laugh miracle friend size";

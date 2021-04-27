@@ -1,1 +1,1 @@
-var mnemonic = "easily rotate check region dutch amazing front broken oak bridge switch bean";
+var mnemonic = "caught harvest mechanic earth utility stamp program link sing ridge memory lunar";

@@ -1,1 +1,1 @@
-var mnemonic = "inquiry fine pretty sad symbol fatigue present clay claw ethics excite glad";
+var mnemonic = "canyon verb wire foil iron oxygen fetch logic genius matrix box glass";

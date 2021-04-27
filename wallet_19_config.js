@@ -1,1 +1,1 @@
-var mnemonic = "another habit material pioneer lobster process fine shift advance reward defense awful";
+var mnemonic = "tower claim obscure eyebrow cover coral position popular honey shine egg piano";

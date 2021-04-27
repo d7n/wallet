@@ -1,1 +1,1 @@
-var mnemonic = "olive choice glue lemon baby often mask visit program list grain casino";
+var mnemonic = "catch street float income kite rebel glare velvet smooth spare source nurse";

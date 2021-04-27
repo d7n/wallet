@@ -1,1 +1,1 @@
-var mnemonic = "sock menu proof device fringe chalk kangaroo flush develop hospital shield foam";
+var mnemonic = "wait junior mushroom spirit wedding topic deny bottom vessel dinosaur crush praise";

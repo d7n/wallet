@@ -1,1 +1,1 @@
-var mnemonic = "goddess finish brain struggle local cupboard ritual sample fluid affair dial feed";
+var mnemonic = "maple scout kit error solid humor crane thunder pipe suspect moment balcony";

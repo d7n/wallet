@@ -1,1 +1,1 @@
-var mnemonic = "leg twist that entry cry cliff say wink shock else want write";
+var mnemonic = "later puzzle rescue save impose muffin reflect carbon dice loop exotic iron";

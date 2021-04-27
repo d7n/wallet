@@ -1,1 +1,1 @@
-var mnemonic = "brass ranch office chaos anger main rebel army ghost tissue resist repair";
+var mnemonic = "entire soul body cruise fix motion expand visual valley recipe patch million";

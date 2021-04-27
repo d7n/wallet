@@ -1,1 +1,1 @@
-var mnemonic = "soldier arch zone dirt either sting spatial midnight brown head clinic join";
+var mnemonic = "shrug gate smart engine humor fly horror raw deputy sibling attitude zone";

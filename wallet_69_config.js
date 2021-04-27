@@ -1,1 +1,1 @@
-var mnemonic = "giraffe sugar rocket amateur nuclear ocean weekend knife coconut pluck number voyage";
+var mnemonic = "payment firm position milk play custom elephant three barely have brand tragic";

@@ -1,1 +1,1 @@
-var mnemonic = "artist gun float broken reunion exchange biology federal fire elite toe lady";
+var mnemonic = "keep jaguar range stove kick soda super judge face churn pyramid decide";

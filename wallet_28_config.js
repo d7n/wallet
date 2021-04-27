@@ -1,1 +1,1 @@
-var mnemonic = "thank mother bulk nephew jeans mail tribe super dutch clown path tray";
+var mnemonic = "uniform sniff happy smart habit build visa salon guess thought smooth coin";

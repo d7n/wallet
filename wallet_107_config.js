@@ -1,1 +1,1 @@
-var mnemonic = "dutch pair include gain below nation miracle sock hybrid neck whale sponsor";
+var mnemonic = "bomb price coyote furnace intact bus robust eager below cruise cheap swamp";

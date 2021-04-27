@@ -1,1 +1,1 @@
-var mnemonic = "tiny dose profit season mix history forest teach square drop ice cream";
+var mnemonic = "yellow olive youth notable sort century plunge lottery rally region method cactus";

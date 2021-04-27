@@ -1,1 +1,1 @@
-var mnemonic = "enter pole hood science truth year rib broccoli cluster renew mass attack";
+var mnemonic = "jealous between force tent item better broom injury boy car alert inquiry";

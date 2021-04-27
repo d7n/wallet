@@ -1,1 +1,1 @@
-var mnemonic = "cover ask viable jazz fox margin tide pupil paper ski margin coffee";
+var mnemonic = "visa steak soup shoe kite capital stumble sleep scrub access step banner";

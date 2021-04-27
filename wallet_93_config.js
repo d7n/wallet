@@ -1,1 +1,1 @@
-var mnemonic = "weekend cage benefit miracle deny sight able alley once clip poverty grain";
+var mnemonic = "august aim slush turtle animal worth used crew bachelor dignity flip spring";

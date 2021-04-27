@@ -1,1 +1,1 @@
-var mnemonic = "shift evidence woman jacket heart wall bid question vintage shrug pioneer pause";
+var mnemonic = "theory clog ice health sail choice escape violin offer roast siege little";

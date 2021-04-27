@@ -1,1 +1,1 @@
-var mnemonic = "private usage leader rapid assist text curve near nation again lesson siege";
+var mnemonic = "first moon milk brother boost hole title dumb stool taxi speak strong";

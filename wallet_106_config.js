@@ -1,1 +1,1 @@
-var mnemonic = "mix voice normal walnut wide kind siege real tunnel remain before fetch";
+var mnemonic = "noodle input seat affair ensure gown elite curtain fragile mango moment fog";

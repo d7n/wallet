@@ -1,1 +1,1 @@
-var mnemonic = "melt injury envelope sibling uphold idle caught spike chief stable belt illness";
+var mnemonic = "topic rail enough mirror screen render quarter unhappy clinic forum unit blood";

@@ -1,1 +1,1 @@
-var mnemonic = "small own friend subway phone build leaf shoot endless lottery farm silk";
+var mnemonic = "actor room inspire antenna neutral ladder anger slow harsh between abuse bulk";

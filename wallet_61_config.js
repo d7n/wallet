@@ -1,1 +1,1 @@
-var mnemonic = "kingdom vacant memory often panic security grape return tail tooth fantasy mountain";
+var mnemonic = "insane arm copper improve fish stable gossip bachelor online fringe boost flip";

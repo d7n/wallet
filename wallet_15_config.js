@@ -1,1 +1,1 @@
-var mnemonic = "phrase verb wrist busy over middle rib success cage absorb alert focus";
+var mnemonic = "fitness salt region wrong ladder original property dress skin involve camp virtual";

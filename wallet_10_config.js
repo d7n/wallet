@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow push laptop bike strong shy educate jungle turtle motor rebel admit";
+var mnemonic = "ship neck sponsor lesson speed heart shield brief wise siren loyal alien";

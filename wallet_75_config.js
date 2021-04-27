@@ -1,1 +1,1 @@
-var mnemonic = "else bubble earn seven height chat rent hurdle lobster unveil remove fee";
+var mnemonic = "lonely planet cement blanket strong fix example return stadium shaft lift bachelor";

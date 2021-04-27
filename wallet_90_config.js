@@ -1,1 +1,1 @@
-var mnemonic = "curtain girl twist sweet deal human duck dynamic discover priority grief income";
+var mnemonic = "below ecology blade fault service face flight embark maid robust label anxiety";

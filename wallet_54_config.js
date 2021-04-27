@@ -1,1 +1,1 @@
-var mnemonic = "enemy forum leopard sort rebuild exchange hub offer fossil minimum potato blur";
+var mnemonic = "warm grocery fire boring charge insane recycle powder brown leg december relax";

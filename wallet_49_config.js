@@ -1,1 +1,1 @@
-var mnemonic = "album inner lion antique bleak cloud door actress pudding mixed bicycle come";
+var mnemonic = "tennis armed mule avoid clever normal visa laugh snow moral net vapor";

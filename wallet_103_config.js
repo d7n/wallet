@@ -1,1 +1,1 @@
-var mnemonic = "brand smoke dizzy dwarf consider tourist hard brief useless rhythm victory unknown";
+var mnemonic = "spawn furnace excuse miracle absorb tribe setup follow rally chase victory promote";

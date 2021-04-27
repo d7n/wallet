@@ -1,1 +1,1 @@
-var mnemonic = "erosion fruit where wonder advice machine garment tobacco erosion dumb smile siege";
+var mnemonic = "tornado tape draft job awful wheat sorry spice news design hero gate";

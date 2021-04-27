@@ -1,1 +1,1 @@
-var mnemonic = "glass increase tower bounce crack forum sort friend knife volcano clog guide";
+var mnemonic = "furnace index alpha current bonus stumble endless promote regular labor gate miss";

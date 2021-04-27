@@ -1,1 +1,1 @@
-var mnemonic = "life place page mail midnight leader moon earth void joy raven early";
+var mnemonic = "immense cousin pulse witness vacuum hammer mercy welcome ladder ridge shadow tenant";

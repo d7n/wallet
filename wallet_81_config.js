@@ -1,1 +1,1 @@
-var mnemonic = "member affair year phrase blue carpet tired resource month silly notice flame";
+var mnemonic = "narrow install rhythm pen atom forum cycle degree must learn brain blanket";

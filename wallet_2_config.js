@@ -1,1 +1,1 @@
-var mnemonic = "tunnel large nurse spell draw junk coconut trash luggage angle grief mother";
+var mnemonic = "oxygen fury tower lunar viable vibrant avocado cover can omit danger crawl";

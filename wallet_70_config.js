@@ -1,1 +1,1 @@
-var mnemonic = "pool stairs drive tuna spring couch february luggage rescue strong depend link";
+var mnemonic = "lazy file trash purpose monitor risk balance child elder cherry injury ranch";

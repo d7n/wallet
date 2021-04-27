@@ -1,1 +1,1 @@
-var mnemonic = "code spy picture chef agree wide security toe hybrid arctic mention travel";
+var mnemonic = "final push car world blast large adjust famous twice tone defy spice";

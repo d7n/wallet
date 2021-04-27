@@ -1,1 +1,1 @@
-var mnemonic = "marine before shrimp chronic coin depart purity smile super cereal summer culture";
+var mnemonic = "please measure miracle awful auto grape slab require erosion scorpion tobacco later";

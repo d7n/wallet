@@ -1,1 +1,1 @@
-var mnemonic = "figure novel floor violin gun kitchen weather lazy scissors indicate trip deposit";
+var mnemonic = "casino march divert exercise inmate globe script disagree fog interest canal chief";

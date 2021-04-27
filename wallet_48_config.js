@@ -1,1 +1,1 @@
-var mnemonic = "february used uniform fancy index bar donor put spawn hip attack raw";
+var mnemonic = "innocent insane endorse square talent crazy wisdom theme network shaft include agree";

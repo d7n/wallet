@@ -1,1 +1,1 @@
-var mnemonic = "april pull ridge motor ankle pride remain pistol salt please giraffe auction";
+var mnemonic = "blanket devote question capable general warm envelope dry push ancient minute stairs";

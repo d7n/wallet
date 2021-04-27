@@ -1,1 +1,1 @@
-var mnemonic = "swift skin bring vacuum august outside imitate expire seat process dial clock";
+var mnemonic = "must pupil hip inner earn rookie lab run attract harbor half nature";

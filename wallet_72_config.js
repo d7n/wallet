@@ -1,1 +1,1 @@
-var mnemonic = "age control broccoli domain frost rice pact ask vendor like planet ribbon";
+var mnemonic = "upset hand mammal between amazing almost genuine forget monkey casual cushion plastic";

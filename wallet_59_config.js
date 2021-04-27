@@ -1,1 +1,1 @@
-var mnemonic = "early brother rookie place hood country knock tower cute soon lamp waste";
+var mnemonic = "media fruit cat chapter prize cause measure adapt faint deny skin swim";

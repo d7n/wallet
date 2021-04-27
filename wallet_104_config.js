@@ -1,1 +1,1 @@
-var mnemonic = "sell weather almost depend truly other body eternal gossip viable funny praise";
+var mnemonic = "thrive punch milk web tonight settle exact vague sibling scan bring amount";

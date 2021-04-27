@@ -1,1 +1,1 @@
-var mnemonic = "canvas crazy strategy topple visit glass antique myself slight matrix burst develop";
+var mnemonic = "person axis dismiss response choice error cactus drastic tumble top daring bid";

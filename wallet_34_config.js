@@ -1,1 +1,1 @@
-var mnemonic = "hurdle enhance have vast valve illness planet infant glad reform miracle pond";
+var mnemonic = "error ski brave pudding grape velvet fly above lend cycle goose domain";

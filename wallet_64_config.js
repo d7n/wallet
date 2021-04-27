@@ -1,1 +1,1 @@
-var mnemonic = "accident black anchor welcome virtual soft upon legal allow loyal kit top";
+var mnemonic = "humor topic wisdom planet spike monitor beauty flat debate wood demise media";
