@@ -1,1 +1,1 @@
-var mnemonic = "essence gather ensure tuition subway mail chalk drip fatal kite only swamp";
+var mnemonic = "dolphin axis glide magic public antenna clap skill mixed foil answer armor";

@@ -1,1 +1,1 @@
-var mnemonic = "animal half agent calm scatter mosquito rely true upon chimney obscure miss";
+var mnemonic = "soap tornado puzzle rebel absorb coast palace grief trade frost great answer";

@@ -1,1 +1,1 @@
-var mnemonic = "acoustic degree armed universe oil priority tank gauge cupboard mistake three amateur";
+var mnemonic = "moment fork filter soup panther arrange jungle tide churn scare jacket radar";

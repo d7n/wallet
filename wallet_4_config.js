@@ -1,1 +1,1 @@
-var mnemonic = "oppose cup minor purse father such alcohol range stone turn lens bird";
+var mnemonic = "knock zebra sister opera clap belt chimney vivid odor diet olympic aim";

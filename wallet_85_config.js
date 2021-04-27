@@ -1,1 +1,1 @@
-var mnemonic = "hungry exhibit apple unique ready jelly glide top custom comic melody model";
+var mnemonic = "one dignity board surround reduce curve upgrade agree say hood occur spare";

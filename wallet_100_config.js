@@ -1,1 +1,1 @@
-var mnemonic = "member duck expire toilet daring satisfy tenant quick hand myth open ceiling";
+var mnemonic = "addict hurt pretty pill radio elegant mirror quarter tooth tourist baby struggle";

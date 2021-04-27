@@ -1,1 +1,1 @@
-var mnemonic = "torch birth bleak magnet mobile immune gain razor neither inner purse seminar";
+var mnemonic = "laundry step country hospital shoe speak blossom fence stool lesson wish ribbon";

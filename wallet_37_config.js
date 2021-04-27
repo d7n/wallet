@@ -1,1 +1,1 @@
-var mnemonic = "you problem safe scrub boy differ firm phone ball witness parade enhance";
+var mnemonic = "sibling network fire end raccoon mention addict steel carpet lady lift spread";

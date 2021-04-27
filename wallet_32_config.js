@@ -1,1 +1,1 @@
-var mnemonic = "hamster scan smart drink ripple return trap supreme shoot immense warm decade";
+var mnemonic = "ability stable destroy very dolphin subject govern glass immense summer injury eye";

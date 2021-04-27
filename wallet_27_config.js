@@ -1,1 +1,1 @@
-var mnemonic = "young sudden senior core mercy erosion leaf sudden beyond nothing midnight twin";
+var mnemonic = "middle mother delay hunt scorpion canal drip robust render margin omit obey";

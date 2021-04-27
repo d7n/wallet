@@ -1,1 +1,1 @@
-var mnemonic = "since sting clay expand screen silver arrow sorry brother gas below nasty";
+var mnemonic = "dinner predict month grape dove fetch flavor anger black cycle stool today";

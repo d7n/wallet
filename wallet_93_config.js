@@ -1,1 +1,1 @@
-var mnemonic = "wild suspect unlock review lamp vanish age alter decade lazy churn inquiry";
+var mnemonic = "clown present swap electric aim owner green rate shoot surprise derive oven";

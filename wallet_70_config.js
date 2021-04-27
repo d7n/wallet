@@ -1,1 +1,1 @@
-var mnemonic = "ready pride profit figure human smart course inherit bike metal mushroom empower";
+var mnemonic = "install mind judge melt road please puzzle consider dove stool average define";

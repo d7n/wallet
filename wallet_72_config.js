@@ -1,1 +1,1 @@
-var mnemonic = "promote essay bonus height fringe decade focus ivory burden behave reveal wisdom";
+var mnemonic = "success garment tongue various hope tribe enact stable bacon rubber market crouch";

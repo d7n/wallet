@@ -1,1 +1,1 @@
-var mnemonic = "buyer pioneer candy step deliver agree modify crush one eagle gown squirrel";
+var mnemonic = "joke negative mobile arch together keep enter ugly raw wedding engage deal";

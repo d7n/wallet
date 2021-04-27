@@ -1,1 +1,1 @@
-var mnemonic = "tent dismiss all logic clock sea cram entire sweet afraid fame rebuild";
+var mnemonic = "glimpse useful during demand lake please nature eyebrow left swim bitter lock";

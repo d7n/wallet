@@ -1,1 +1,1 @@
-var mnemonic = "siren walk fire fun next nasty defense door brush taste analyst have";
+var mnemonic = "buzz donkey alter glory survey imitate barely dash kingdom bring mistake talent";

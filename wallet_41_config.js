@@ -1,1 +1,1 @@
-var mnemonic = "upon clog marine visual arrest slide raven segment punch silly build hammer";
+var mnemonic = "melody market popular hedgehog input hill involve trick beef tongue festival crawl";

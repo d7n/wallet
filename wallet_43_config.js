@@ -1,1 +1,1 @@
-var mnemonic = "monkey theme excite diagram please decline pistol north trophy tourist utility blind";
+var mnemonic = "major fence electric carry language loyal learn clarify spice option battle pear";

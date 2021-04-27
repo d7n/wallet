@@ -1,1 +1,1 @@
-var mnemonic = "term gas first fade salt idea yard shed loyal hero cricket label";
+var mnemonic = "patrol stable melt private lend drip sister input actor office lemon front";

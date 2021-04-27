@@ -1,1 +1,1 @@
-var mnemonic = "tube ankle alert tree actress device nurse twist loop agent employ move";
+var mnemonic = "eye item easily blue slim clump path slam soap void army normal";

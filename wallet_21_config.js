@@ -1,1 +1,1 @@
-var mnemonic = "husband disagree flavor pole above current salmon clerk elite neck female review";
+var mnemonic = "canyon valid coconut gallery toddler minor figure skull hotel rain age hidden";

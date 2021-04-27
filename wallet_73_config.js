@@ -1,1 +1,1 @@
-var mnemonic = "biology oval spoon abstract rapid trip rookie invest tunnel cannon nuclear tree";
+var mnemonic = "nut tumble arctic desert hybrid core garage village proud observe fault fantasy";

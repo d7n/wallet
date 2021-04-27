@@ -1,1 +1,1 @@
-var mnemonic = "rival net slice love actress tiger spin flat argue access autumn wall";
+var mnemonic = "armor cushion slam pig dice describe settle admit wheat barely confirm ill";

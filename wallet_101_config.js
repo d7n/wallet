@@ -1,1 +1,1 @@
-var mnemonic = "memory upper gas sea kangaroo furnace box fit life recipe syrup creek";
+var mnemonic = "grass situate floor decrease hurry barely march dream broken card oven donkey";

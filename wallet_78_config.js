@@ -1,1 +1,1 @@
-var mnemonic = "club draft rapid ceiling such hunt shuffle sweet endless protect behave quarter";
+var mnemonic = "person talent audit casino mom season express song swift almost credit zero";

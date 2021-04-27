@@ -1,1 +1,1 @@
-var mnemonic = "hidden east fluid beef rely consider rebel dinosaur sentence permit mistake wrap";
+var mnemonic = "soft swallow version eternal credit concert pencil weapon surge clutch loud caught";

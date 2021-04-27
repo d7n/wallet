@@ -1,1 +1,1 @@
-var mnemonic = "raccoon bubble inmate fox hero cancel hunt voice divorce camp lumber peanut";
+var mnemonic = "river donate sail weather run discover weasel verify arm winner coil mind";

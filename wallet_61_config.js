@@ -1,1 +1,1 @@
-var mnemonic = "erupt scale tower bubble ignore hold inner bean episode install senior loop";
+var mnemonic = "visual whip rude shrimp pear cargo hope broccoli avoid giant avoid next";

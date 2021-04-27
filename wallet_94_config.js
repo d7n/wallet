@@ -1,1 +1,1 @@
-var mnemonic = "together crucial can movie reopen key require direct upset peanut fun legend";
+var mnemonic = "whale artefact myself juice end delay ankle vote umbrella child flash know";

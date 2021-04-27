@@ -1,1 +1,1 @@
-var mnemonic = "little ecology know post someone junior always health engage output open bus";
+var mnemonic = "federal warm milk connect leg raccoon tribe party enact note mutual finger";

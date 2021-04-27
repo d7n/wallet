@@ -1,1 +1,1 @@
-var mnemonic = "allow iron bunker bonus beauty rally method spoon original hair oyster original";
+var mnemonic = "barely pattern shrimp merit chair toddler village baby lobster cable put forward";

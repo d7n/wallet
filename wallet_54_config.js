@@ -1,1 +1,1 @@
-var mnemonic = "gentle monkey eye lawn upgrade box rent industry explain castle actual upgrade";
+var mnemonic = "govern predict panel antenna middle air asset debate ordinary lyrics useless kiss";

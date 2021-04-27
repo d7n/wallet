@@ -1,1 +1,1 @@
-var mnemonic = "winner income stable almost claw fury excess month chalk orchard just blame";
+var mnemonic = "involve private exhaust similar avoid execute cherry wasp wine cereal staff portion";

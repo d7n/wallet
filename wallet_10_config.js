@@ -1,1 +1,1 @@
-var mnemonic = "obey cheese devote renew mirror seminar ahead great split labor clerk remain";
+var mnemonic = "time edge example bleak access spare staff combine boss firm silver network";

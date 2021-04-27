@@ -1,1 +1,1 @@
-var mnemonic = "dress chest together moon large term setup twice sad latin mixed fold";
+var mnemonic = "vessel lunch fit credit idea timber sun medal scout gospel wasp bitter";

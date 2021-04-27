@@ -1,1 +1,1 @@
-var mnemonic = "drama wisdom current scheme control unable tragic exhibit rule truly capable armor";
+var mnemonic = "advice wild muffin direct put unfold market work draw manage human blouse";

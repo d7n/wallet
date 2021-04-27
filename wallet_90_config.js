@@ -1,1 +1,1 @@
-var mnemonic = "birth fortune invite genuine echo cover one miss youth unknown fold cinnamon";
+var mnemonic = "mesh latin reflect hip identify large awkward disease split garment dog hurdle";

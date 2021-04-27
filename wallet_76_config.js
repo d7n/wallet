@@ -1,1 +1,1 @@
-var mnemonic = "lottery small winter will kiwi flower pizza meadow where donkey portion angry";
+var mnemonic = "tooth picture present quick poet above silver flavor chapter energy give buddy";

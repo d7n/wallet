@@ -1,1 +1,1 @@
-var mnemonic = "range element tornado grass prison ignore position culture sick hard above clerk";
+var mnemonic = "melody walnut suit victory tooth vague climb permit cigar anxiety nest mother";

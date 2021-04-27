@@ -1,1 +1,1 @@
-var mnemonic = "change advice call lady opera state demise puppy galaxy cash price lend";
+var mnemonic = "enough churn rotate section text interest pumpkin shop diesel paddle chapter eager";

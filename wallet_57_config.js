@@ -1,1 +1,1 @@
-var mnemonic = "large slot chuckle chuckle vocal art theme heavy vibrant fold swing cost";
+var mnemonic = "rack mansion traffic skull dune stock science control harsh soon total click";

@@ -1,1 +1,1 @@
-var mnemonic = "party jealous market net popular area zone foil caution orange inside tumble";
+var mnemonic = "enable forest render sound gun bring empower door survey distance park welcome";

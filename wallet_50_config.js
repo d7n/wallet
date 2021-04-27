@@ -1,1 +1,1 @@
-var mnemonic = "stereo feel fade detect core old gravity ramp drift thumb senior royal";
+var mnemonic = "lion oblige major unlock tree absorb stable stand write word science saddle";

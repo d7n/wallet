@@ -1,1 +1,1 @@
-var mnemonic = "conduct doll simple note diet over laundry tube exact ring gloom horn";
+var mnemonic = "eye sample cruel olympic issue subject shallow wood sadness size empty fabric";

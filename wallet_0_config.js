@@ -1,1 +1,1 @@
-var mnemonic = "dad acid icon runway edit you present party satisfy egg amateur frame";
+var mnemonic = "foam fly refuse garment cloth hour fish camera autumn powder amazing pledge";

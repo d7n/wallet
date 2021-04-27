@@ -1,1 +1,1 @@
-var mnemonic = "dove supreme thumb draw wide meat vehicle kidney elegant blue erupt soldier";
+var mnemonic = "rebel bachelor refuse arrive anger rocket artwork resource voice ceiling liquid hat";

@@ -1,1 +1,1 @@
-var mnemonic = "stamp order seminar expire armed decade spoil smile current turn funny pony";
+var mnemonic = "economy misery silver flavor ordinary border prevent thunder boost viable inhale sing";

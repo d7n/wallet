@@ -1,1 +1,1 @@
-var mnemonic = "worry improve allow prize daring rent innocent educate sound brief suit outside";
+var mnemonic = "liquid steak recipe mystery train race velvet cigar trophy stem enhance mind";

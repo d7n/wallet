@@ -1,1 +1,1 @@
-var mnemonic = "salad coach dumb alone embark blouse tired furnace eager night error derive";
+var mnemonic = "pass verify august oyster security false still sudden ramp family ski suspect";

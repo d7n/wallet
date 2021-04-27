@@ -1,1 +1,1 @@
-var mnemonic = "rare occur time effort chunk exercise loud surface original hunt rule abstract";
+var mnemonic = "gasp twice stove sudden raven toy puppy drum mixture below frost daring";

@@ -1,1 +1,1 @@
-var mnemonic = "sword rhythm this banner tuition mandate unfair sand cycle mule ripple kingdom";
+var mnemonic = "coin hungry outer file enter cabbage weekend left asthma artist cabbage vapor";

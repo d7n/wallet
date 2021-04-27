@@ -1,1 +1,1 @@
-var mnemonic = "worry mosquito hobby fly champion profit decade cruise olympic cost grass forest";
+var mnemonic = "fox stage liar beauty ethics essence slogan renew include sweet entry large";

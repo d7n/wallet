@@ -1,1 +1,1 @@
-var mnemonic = "tomato neck east stairs sun treat strong patrol industry ivory live aware";
+var mnemonic = "resource wise base sign another silk grape tube unhappy toy prevent tornado";

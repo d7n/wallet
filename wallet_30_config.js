@@ -1,1 +1,1 @@
-var mnemonic = "supreme material name soon risk below donkey crane message jacket engage permit";
+var mnemonic = "enact cheese talk switch avoid news october nuclear disease bottom quarter hero";

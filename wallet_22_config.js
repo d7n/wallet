@@ -1,1 +1,1 @@
-var mnemonic = "talent man found next raw funny judge apology cupboard intact system ride";
+var mnemonic = "enact citizen brain potato over pony name palace ribbon canyon uniform canvas";

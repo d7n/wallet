@@ -1,1 +1,1 @@
-var mnemonic = "olive globe cherry toast fix risk father hero culture isolate write pass";
+var mnemonic = "energy canoe stairs drive tonight slice traffic flash amount game sort assault";

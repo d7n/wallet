@@ -1,1 +1,1 @@
-var mnemonic = "close coin diamond smoke slide book today warm mammal element evoke prevent";
+var mnemonic = "crunch bench master champion trophy purity desert balance inspire fruit traffic try";

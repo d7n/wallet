@@ -1,1 +1,1 @@
-var mnemonic = "onion cupboard floor venture spice switch snap uphold harsh annual obtain version";
+var mnemonic = "super green primary talk clump find speed danger stone copy layer practice";

@@ -1,1 +1,1 @@
-var mnemonic = "stomach subway narrow lecture corn figure hidden release involve bracket move model";
+var mnemonic = "circle share ranch wheat budget night foil fitness imitate health april travel";

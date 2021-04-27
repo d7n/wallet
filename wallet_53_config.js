@@ -1,1 +1,1 @@
-var mnemonic = "half original emotion like there weird lazy rug label tomorrow cushion noodle";
+var mnemonic = "husband fortune estate mango doctor city amazing collect about powder pair dial";

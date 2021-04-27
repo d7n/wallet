@@ -1,1 +1,1 @@
-var mnemonic = "essay sing excite adult nut chuckle melt bright knee boat wall absorb";
+var mnemonic = "ticket fine shoe stuff swarm happy turkey lyrics clog main keep brass";

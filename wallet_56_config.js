@@ -1,1 +1,1 @@
-var mnemonic = "hockey maximum ten mule health among leave pair life relief please afford";
+var mnemonic = "help photo little alcohol essence hammer sick brick actor opera entry artwork";

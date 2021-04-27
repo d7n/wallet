@@ -1,1 +1,1 @@
-var mnemonic = "nature decide captain trend sure milk skirt nothing position antenna woman anchor";
+var mnemonic = "erode increase turtle cigar agent glass neutral hotel between jazz isolate purpose";

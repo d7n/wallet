@@ -1,1 +1,1 @@
-var mnemonic = "link pistol glimpse spoil fuel black cruise garment custom replace shrug bounce";
+var mnemonic = "destroy dawn hen patrol bread version ensure wage deer board bunker need";

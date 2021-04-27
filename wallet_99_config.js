@@ -1,1 +1,1 @@
-var mnemonic = "extend toe dwarf hub famous patch habit improve syrup million poem excite";
+var mnemonic = "profit omit crazy bread void spray check inside build deputy bronze explain";

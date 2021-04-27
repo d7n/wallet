@@ -1,1 +1,1 @@
-var mnemonic = "viable mule jungle target leader fashion benefit hybrid stereo delay keen attend";
+var mnemonic = "dinner sunset gown burst above someone warfare brass gadget nasty travel spend";

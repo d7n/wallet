@@ -1,1 +1,1 @@
-var mnemonic = "blouse faith slam cloud woman horse promote flock resource cricket blade siege";
+var mnemonic = "mandate blue shed surface wait bag quantum pulse replace rubber disease ecology";

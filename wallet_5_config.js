@@ -1,1 +1,1 @@
-var mnemonic = "young snack call night aisle private inform depth blast shrug huge furnace";
+var mnemonic = "chair abuse announce art rabbit spoon glass open lend rely forward party";

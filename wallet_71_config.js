@@ -1,1 +1,1 @@
-var mnemonic = "own honey hungry boring bargain select volcano evoke size hand child lemon";
+var mnemonic = "wave coffee payment neither seminar able exercise lunar outer cousin traffic february";

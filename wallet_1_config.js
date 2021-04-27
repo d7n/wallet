@@ -1,1 +1,1 @@
-var mnemonic = "clinic genre neutral rude burst rigid fit anger few defense very soup";
+var mnemonic = "fashion phone frame rib normal direct blouse simple ask beach smile sea";

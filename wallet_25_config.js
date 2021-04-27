@@ -1,1 +1,1 @@
-var mnemonic = "head bus intact treat dentist unhappy farm process patient sight open two";
+var mnemonic = "history inmate nasty fatal aware wedding coach split topple topple cube soda";

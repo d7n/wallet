@@ -1,1 +1,1 @@
-var mnemonic = "mercy fitness often pact afraid ready click glimpse nose search inner other";
+var mnemonic = "oppose funny today ladder segment script seek student essay point mechanic brisk";

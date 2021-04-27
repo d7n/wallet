@@ -1,1 +1,1 @@
-var mnemonic = "among cycle census east acquire tribe spy age letter matter also yard";
+var mnemonic = "fabric system pipe excuse gallery antique typical slush artist claw reopen siren";

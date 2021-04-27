@@ -1,1 +1,1 @@
-var mnemonic = "rate corn ladder nice text rebel sing brush resemble kingdom yellow forget";
+var mnemonic = "where stable owner badge assume noise pact output sugar idle praise diagram";

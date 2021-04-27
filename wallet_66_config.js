@@ -1,1 +1,1 @@
-var mnemonic = "goat ethics drill sad useless coffee reveal space trash jump immense weapon";
+var mnemonic = "aerobic utility shed bid brown expect coconut surge impose kitten spatial magic";

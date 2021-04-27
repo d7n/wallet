@@ -1,1 +1,1 @@
-var mnemonic = "hunt crew chimney section damage liar energy reject choice click punch tone";
+var mnemonic = "fire voice derive catalog ribbon dice gap dizzy screen void memory repair";

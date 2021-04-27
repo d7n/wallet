@@ -1,1 +1,1 @@
-var mnemonic = "someone biology depend extra extra physical lumber journey maple nasty tree jealous";
+var mnemonic = "ticket hope hawk long flock you notice crystal hero dawn cable company";

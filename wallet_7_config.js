@@ -1,1 +1,1 @@
-var mnemonic = "topic dutch olympic round blossom leave brother become reject female answer field";
+var mnemonic = "acid mixture swarm lava mountain another unable truth license ancient mixture film";

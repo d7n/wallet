@@ -1,1 +1,1 @@
-var mnemonic = "horse coach balance evoke nurse happy mixed weasel imitate paper harvest lottery";
+var mnemonic = "siege charge marriage side right cake maximum oval subject neglect rude report";

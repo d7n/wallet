@@ -1,1 +1,1 @@
-var mnemonic = "gentle staff drive high issue supreme embrace picnic mixture high lawsuit slender";
+var mnemonic = "little funny prefer toast evil city force turn slot make zone crouch";

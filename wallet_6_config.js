@@ -1,1 +1,1 @@
-var mnemonic = "erode upon length saddle steak surge flush midnight wish lock offer help";
+var mnemonic = "upgrade certain fiscal ketchup group rapid pink area aim drill wine birth";

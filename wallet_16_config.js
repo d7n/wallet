@@ -1,1 +1,1 @@
-var mnemonic = "vote again avocado level opera problem meadow answer afford wasp brief genre";
+var mnemonic = "lounge arrest group swing tide whip false melt suffer antique gadget before";

@@ -1,1 +1,1 @@
-var mnemonic = "spatial loud impact fetch scheme cave practice hidden mind pudding host game";
+var mnemonic = "horse fancy wish dizzy grid regret joke crew cup index hedgehog major";

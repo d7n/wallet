@@ -1,1 +1,1 @@
-var mnemonic = "garbage atom job boat insane stay oak must put subway question flavor";
+var mnemonic = "nest erosion jealous attract please captain metal excuse chalk bullet crew grape";
