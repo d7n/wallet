@@ -1,1 +1,1 @@
-var mnemonic = "pencil stage eyebrow erosion peanut direct jungle cruel upgrade write coil kiss";
+var mnemonic = "address ship initial garden remove tool deposit collect toe brief obey enact";

@@ -1,1 +1,1 @@
-var mnemonic = "step wealth sun hold attract blur hole upgrade soup infant pluck inhale";
+var mnemonic = "token regret dance lecture excuse erode subway girl space state muscle more";

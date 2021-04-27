@@ -1,1 +1,1 @@
-var mnemonic = "alter bounce father axis mobile bring crouch payment idea mistake luggage section";
+var mnemonic = "goose entire cry practice fossil exchange wink fan gas lazy reason lecture";

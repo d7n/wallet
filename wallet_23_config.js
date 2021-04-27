@@ -1,1 +1,1 @@
-var mnemonic = "jaguar wise sting tobacco become nice cat loop vicious rebel cram exit";
+var mnemonic = "song clip force stand mix frozen snap slab glimpse trade joke gym";

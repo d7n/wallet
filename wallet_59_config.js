@@ -1,1 +1,1 @@
-var mnemonic = "shoot curious safe follow glass drink gospel just toss found noble sister";
+var mnemonic = "shadow adjust blossom episode combine noble skill rebel valid decrease core neutral";

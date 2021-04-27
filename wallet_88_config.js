@@ -1,1 +1,1 @@
-var mnemonic = "panda swim pioneer frost dice spawn goose toy dignity ice six torch";
+var mnemonic = "guess certain file piece bulb neck absorb snack because drama stumble puppy";

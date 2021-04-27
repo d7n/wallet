@@ -1,1 +1,1 @@
-var mnemonic = "wide calm robust absent problem lounge hill sight noise floor deputy hungry";
+var mnemonic = "cram segment alley agree solution firm baby quote prize project smoke critic";

@@ -1,1 +1,1 @@
-var mnemonic = "wink rare clutch daughter castle immense pyramid never drop sleep enhance puppy";
+var mnemonic = "climb distance marble embark edge armor quantum almost bottom cement issue bridge";

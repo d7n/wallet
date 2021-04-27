@@ -1,1 +1,1 @@
-var mnemonic = "album other number goddess price party jazz bind girl town like teach";
+var mnemonic = "guard brother carpet broccoli hundred theme party second copy sight deposit click";

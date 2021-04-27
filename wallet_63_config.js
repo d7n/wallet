@@ -1,1 +1,1 @@
-var mnemonic = "forum exile aware slab siege baby blossom doll bullet add sword author";
+var mnemonic = "carry section labor evil state egg quantum assault cabin boring wealth vintage";

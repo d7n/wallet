@@ -1,1 +1,1 @@
-var mnemonic = "beauty fault hold typical pond retreat body silver pilot matter win reason";
+var mnemonic = "dynamic type rebuild horse rely enact pulse sleep benefit pipe fit fish";

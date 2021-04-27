@@ -1,1 +1,1 @@
-var mnemonic = "alley ecology sort surge art episode inherit else lava pelican tissue promote";
+var mnemonic = "post material other struggle thrive hamster guard pluck zone lunch milk nut";

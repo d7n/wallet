@@ -1,1 +1,1 @@
-var mnemonic = "range correct bundle sock teach school anxiety hire urban dinner release oven";
+var mnemonic = "assist celery youth life anger traffic raccoon naive plug file grow sleep";

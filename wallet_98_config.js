@@ -1,1 +1,1 @@
-var mnemonic = "outside bacon column index sock label typical valve sadness kidney cloud size";
+var mnemonic = "ability exercise miracle depart bulb sort fox fringe payment ice tape choice";

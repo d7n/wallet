@@ -1,1 +1,1 @@
-var mnemonic = "hat olympic evidence focus tennis abuse twelve perfect solve solar tiger sock";
+var mnemonic = "enhance edge portion tackle detect soldier slender long foil elephant pyramid blossom";

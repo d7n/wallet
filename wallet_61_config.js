@@ -1,1 +1,1 @@
-var mnemonic = "extra ribbon negative orbit beef unaware actual flavor focus brown ocean exclude";
+var mnemonic = "issue truly travel leaf left expand original vivid rabbit place detail chimney";

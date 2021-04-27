@@ -1,1 +1,1 @@
-var mnemonic = "reform spider enjoy question like gravity luxury fringe firm learn ivory uncle";
+var mnemonic = "smoke robot room library lobster calm kidney staff trumpet endless trigger search";

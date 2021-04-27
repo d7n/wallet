@@ -1,1 +1,1 @@
-var mnemonic = "often close render wisdom right decorate lucky invite swing electric attract hammer";
+var mnemonic = "champion hat token mom live limit motor peace wish question doll mechanic";

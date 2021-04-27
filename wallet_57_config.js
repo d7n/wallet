@@ -1,1 +1,1 @@
-var mnemonic = "gossip clutch arrest tired fiscal vital pretty chronic galaxy rapid swing social";
+var mnemonic = "assault busy congress connect loop income strategy step need south that alien";

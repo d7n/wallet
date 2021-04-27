@@ -1,1 +1,1 @@
-var mnemonic = "turkey capable double hurry cousin garden angry that fall unfair notice nuclear";
+var mnemonic = "question pull foam liquid sting awkward mask protect price work next drink";

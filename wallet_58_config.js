@@ -1,1 +1,1 @@
-var mnemonic = "vast live awesome caution pear curious local direct copy speed limb tape";
+var mnemonic = "blade royal sell alley chunk access satoshi student guess cousin salad measure";

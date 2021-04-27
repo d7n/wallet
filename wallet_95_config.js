@@ -1,1 +1,1 @@
-var mnemonic = "amount knock trouble forum absurd lab strike flee border vintage nut crystal";
+var mnemonic = "base battle scissors horn salon pulp lounge advice tip cart forward idea";

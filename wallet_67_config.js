@@ -1,1 +1,1 @@
-var mnemonic = "pencil cave say spoon scene shield gadget hundred dizzy sniff junior gap";
+var mnemonic = "rice fault cupboard odor decide sell wreck program minor elephant symbol hold";

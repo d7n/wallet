@@ -1,1 +1,1 @@
-var mnemonic = "inhale tuna mushroom oil father slogan window warm fog music mutual risk";
+var mnemonic = "often village oblige trust make scan light fold thank museum memory dose";

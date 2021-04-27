@@ -1,1 +1,1 @@
-var mnemonic = "unique sand voice awkward thank blur narrow major multiply fox mimic shallow";
+var mnemonic = "rigid dirt raccoon ill warm life ghost cost music wash glare carry";

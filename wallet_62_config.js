@@ -1,1 +1,1 @@
-var mnemonic = "master loyal burger domain night swamp lazy caution alter tuition prefer trap";
+var mnemonic = "rib ketchup claim raise cheese estate someone congress puzzle eyebrow easily tip";

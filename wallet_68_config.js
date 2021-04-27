@@ -1,1 +1,1 @@
-var mnemonic = "enjoy output flip coach bus pledge page shaft cereal judge post bench";
+var mnemonic = "abuse minute this save govern pledge slush scatter illness skin buddy coast";

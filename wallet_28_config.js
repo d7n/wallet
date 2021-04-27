@@ -1,1 +1,1 @@
-var mnemonic = "plate execute welcome inspire artist eyebrow size absent rival physical expire inflict";
+var mnemonic = "lunch peanut quiz fossil letter dinner celery assist tower extend write lobster";

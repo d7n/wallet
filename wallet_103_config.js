@@ -1,1 +1,1 @@
-var mnemonic = "retire supreme unfair item nation today limit disease inspire clump enact rescue";
+var mnemonic = "camp cloud aware stick cat version panel differ blouse alcohol melody funny";

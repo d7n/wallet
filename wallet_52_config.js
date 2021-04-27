@@ -1,1 +1,1 @@
-var mnemonic = "ritual boil output snack divert laptop february soup ribbon public ghost crane";
+var mnemonic = "decide print visit inflict multiply divert prize diagram shallow uphold choose antenna";

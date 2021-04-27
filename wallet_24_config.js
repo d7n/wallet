@@ -1,1 +1,1 @@
-var mnemonic = "any supply what foster dinosaur market monitor raven truck peasant school velvet";
+var mnemonic = "pony kick empower oyster viable paper climb room dilemma fence wedding monkey";

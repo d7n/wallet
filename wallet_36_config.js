@@ -1,1 +1,1 @@
-var mnemonic = "indicate door absurd phrase neglect hand detect brisk office sport cancel powder";
+var mnemonic = "defy large inch tobacco hurdle regret civil dismiss afford frost puppy canoe";

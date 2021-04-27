@@ -1,1 +1,1 @@
-var mnemonic = "raise illness pair congress sword citizen scrub achieve holiday portion equip bottom";
+var mnemonic = "tackle youth start venture dizzy yard office stadium cheap dust huge loan";

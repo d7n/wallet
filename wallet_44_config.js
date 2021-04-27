@@ -1,1 +1,1 @@
-var mnemonic = "nut soda again february kick enroll refuse enlist woman deposit sugar file";
+var mnemonic = "absurd rare mixed exchange girl describe material power kid cabbage crumble ramp";

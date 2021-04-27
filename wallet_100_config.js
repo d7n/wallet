@@ -1,1 +1,1 @@
-var mnemonic = "cross speed banana divert adult become comfort tray slow permit throw snap";
+var mnemonic = "bottom snow hidden super dog bachelor vague demise umbrella undo misery fragile";

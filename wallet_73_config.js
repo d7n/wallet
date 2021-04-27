@@ -1,1 +1,1 @@
-var mnemonic = "aisle pink almost very monster question soccer judge wheat syrup pool effort";
+var mnemonic = "stumble gossip kite vivid mobile moment hurry outdoor enact divorce wear parrot";

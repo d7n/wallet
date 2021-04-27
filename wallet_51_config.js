@@ -1,1 +1,1 @@
-var mnemonic = "web describe same already fragile marriage trade vessel proof trash judge add";
+var mnemonic = "omit firm fix enjoy afford message rain spatial eternal dream result submit";

@@ -1,1 +1,1 @@
-var mnemonic = "bunker ancient question impulse spatial law under size empower bicycle discover lady";
+var mnemonic = "digital legal twelve hold latin oil fly dust verify grab hedgehog range";

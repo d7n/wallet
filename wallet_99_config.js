@@ -1,1 +1,1 @@
-var mnemonic = "congress spawn battle fringe umbrella daring piece pink degree scout fat move";
+var mnemonic = "essay solve rough physical check comic history have either sorry skin bid";

@@ -1,1 +1,1 @@
-var mnemonic = "coast law ten kidney soup fix never scout boost caution oxygen wrap";
+var mnemonic = "tube more sentence lesson promote rib squeeze naive ugly horror taxi chaos";

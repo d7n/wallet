@@ -1,1 +1,1 @@
-var mnemonic = "heart grunt laptop scatter ridge fork stand hazard vicious text title little";
+var mnemonic = "bracket year muscle catalog essay pink section crane shed can royal allow";

@@ -1,1 +1,1 @@
-var mnemonic = "person this mountain library pigeon just note brave vital pact clever weird";
+var mnemonic = "alarm wish royal quarter jeans emerge opinion poem asthma rabbit honey alter";

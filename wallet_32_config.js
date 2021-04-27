@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog person boil staff boat oyster key inspire language quiz scout seat";
+var mnemonic = "misery fold vacant ensure else obvious bread sound furnace exercise appear message";

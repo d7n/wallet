@@ -1,1 +1,1 @@
-var mnemonic = "cigar fox gaze ask matter exit tape prosper calm oak artefact habit";
+var mnemonic = "odor address peasant divert lucky small rail icon middle spy pioneer member";

@@ -1,1 +1,1 @@
-var mnemonic = "panther nation utility naive exile glimpse stable swift nurse album portion denial";
+var mnemonic = "guitar rice tunnel between unveil enemy apology kick beauty melt below boy";

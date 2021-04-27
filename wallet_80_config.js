@@ -1,1 +1,1 @@
-var mnemonic = "assault edit chair gain disagree gloom recall capital artist matter violin mind";
+var mnemonic = "speed glimpse grass tornado crush fade primary tortoise leaf tiger oyster top";

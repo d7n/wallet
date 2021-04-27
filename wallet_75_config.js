@@ -1,1 +1,1 @@
-var mnemonic = "view insect angry opera lava must sport worry flame ghost thunder interest";
+var mnemonic = "rally cradle minute load refuse captain fancy swift resemble few there crack";

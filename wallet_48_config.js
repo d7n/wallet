@@ -1,1 +1,1 @@
-var mnemonic = "dance awful umbrella actress oven link spare type coconut afraid fat level";
+var mnemonic = "puppy health mail moment correct fringe car sun loyal survey space rabbit";

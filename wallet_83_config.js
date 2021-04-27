@@ -1,1 +1,1 @@
-var mnemonic = "royal oval shoot express casino apple artwork age slogan income version save";
+var mnemonic = "stem culture cushion trip wagon virus casino lamp slab sell subject daughter";

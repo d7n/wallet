@@ -1,1 +1,1 @@
-var mnemonic = "same fall success aspect right delay turtle manage genre mammal balcony rate";
+var mnemonic = "warm enroll text cover horror scene ski leave gift possible canoe submit";

@@ -1,1 +1,1 @@
-var mnemonic = "spirit actress unfair river fossil notable surface ice jaguar cream harbor clock";
+var mnemonic = "outdoor pizza worth cupboard garment obtain bargain glove click marine time naive";

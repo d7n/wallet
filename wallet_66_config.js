@@ -1,1 +1,1 @@
-var mnemonic = "believe antique urge age dinner ozone crew ten utility secret hidden step";
+var mnemonic = "ranch leisure once pelican brand mass finger rally trend rib curve wish";

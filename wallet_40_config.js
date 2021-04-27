@@ -1,1 +1,1 @@
-var mnemonic = "inspire train coffee error shine sentence cloth stick owner spoon gaze cargo";
+var mnemonic = "era brown piece away similar broccoli later artefact denial typical slim parrot";

@@ -1,1 +1,1 @@
-var mnemonic = "okay parade rifle board certain expose icon rhythm disorder barrel sheriff decrease";
+var mnemonic = "stage road grace limit media load blouse cross embody crucial good short";

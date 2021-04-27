@@ -1,1 +1,1 @@
-var mnemonic = "promote pluck gun drive comic bicycle unfair tent movie worth input seek";
+var mnemonic = "drill size rose east normal until stereo attend hint price shrimp rare";

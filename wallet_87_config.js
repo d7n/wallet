@@ -1,1 +1,1 @@
-var mnemonic = "skin airport income wool glimpse walnut riot million butter ticket similar helmet";
+var mnemonic = "crew loyal test group enable dune enact zone private embark cake raccoon";

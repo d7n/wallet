@@ -1,1 +1,1 @@
-var mnemonic = "sugar melt fox clutch siege brown attend unaware square girl fortune open";
+var mnemonic = "aware used remind again foil token setup chief grid crew update shuffle";

@@ -1,1 +1,1 @@
-var mnemonic = "swarm wheel decade finger barrel funny morning security whip pipe shallow latin";
+var mnemonic = "clog turn easy genuine random trick decide young high rain magnet kidney";

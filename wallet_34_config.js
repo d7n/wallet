@@ -1,1 +1,1 @@
-var mnemonic = "useless scrub skill harvest build sand ability sweet woman security twelve you";
+var mnemonic = "blanket team armor chat chicken fine mobile note company junior above output";

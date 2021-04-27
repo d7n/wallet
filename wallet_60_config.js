@@ -1,1 +1,1 @@
-var mnemonic = "isolate possible wisdom weapon whale outdoor jungle glue sail group possible repeat";
+var mnemonic = "yard cage gym rule flush army away number upgrade enter vivid bag";

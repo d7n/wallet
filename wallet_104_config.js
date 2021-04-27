@@ -1,1 +1,1 @@
-var mnemonic = "decade return write trial frown ghost churn advice betray used pool pet";
+var mnemonic = "version occur diesel disease entire where health then life depend response over";

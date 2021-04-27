@@ -1,1 +1,1 @@
-var mnemonic = "system what sell relief when holiday crystal slow leg lucky one fee";
+var mnemonic = "start tent filter other load evidence fence sock hard wild payment liquid";

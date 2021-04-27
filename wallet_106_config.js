@@ -1,1 +1,1 @@
-var mnemonic = "usage gentle whale shallow visit carpet immune guess estate office lucky vacuum";
+var mnemonic = "physical choose bachelor truly custom want april hundred ceiling layer profit unlock";

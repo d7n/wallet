@@ -1,1 +1,1 @@
-var mnemonic = "settle truly trigger cereal oval scene flat reform cabbage video bullet knock";
+var mnemonic = "pass slow ride scrub drip address orbit soccer fuel day vicious man";

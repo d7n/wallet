@@ -1,1 +1,1 @@
-var mnemonic = "kiss young spawn damp spike believe measure tortoise physical shaft volume demise";
+var mnemonic = "dose minute million interest fall onion nephew rival orbit major carbon race";

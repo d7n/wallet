@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow behind attract damp process bulk grocery tuna pledge social student oil";
+var mnemonic = "alarm fashion noodle follow discover enforce before quit panel shock divorce volcano";

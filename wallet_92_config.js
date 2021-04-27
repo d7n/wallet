@@ -1,1 +1,1 @@
-var mnemonic = "square sick crane stick olympic pelican equip answer equal thing diesel release";
+var mnemonic = "celery task banana craft truly boring source umbrella soda jewel then fire";

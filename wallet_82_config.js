@@ -1,1 +1,1 @@
-var mnemonic = "current news beyond print lab mom flame mean heart picnic run escape";
+var mnemonic = "must hero bomb must orient crisp quit cattle mistake game kit hybrid";

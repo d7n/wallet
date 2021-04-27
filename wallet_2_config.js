@@ -1,1 +1,1 @@
-var mnemonic = "glad drum bright violin pink uncle energy train oil print sponsor spray";
+var mnemonic = "mutual point mistake phrase bread cup sustain lab shuffle school improve theme";

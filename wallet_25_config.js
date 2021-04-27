@@ -1,1 +1,1 @@
-var mnemonic = "throw family father catch bench rail flame entry better old venture file";
+var mnemonic = "hollow neutral olympic purchase window way tourist claw whip attack near first";

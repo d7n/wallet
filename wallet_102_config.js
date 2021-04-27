@@ -1,1 +1,1 @@
-var mnemonic = "trash border worth predict topple purchase grain capital solve flower consider exercise";
+var mnemonic = "reject edge eyebrow sock barely kidney reduce chair example desk direct divert";

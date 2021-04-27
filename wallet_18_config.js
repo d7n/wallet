@@ -1,1 +1,1 @@
-var mnemonic = "tackle lobster habit train foil point spell copper derive front solve soon";
+var mnemonic = "whale dream whale bronze river erase city shadow wet alone scan manual";

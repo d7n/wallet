@@ -1,1 +1,1 @@
-var mnemonic = "tool kidney squirrel real shrug mom talent physical you volume caught bind";
+var mnemonic = "awful bullet pony same assist limb worth maid galaxy angle push doctor";

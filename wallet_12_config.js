@@ -1,1 +1,1 @@
-var mnemonic = "fabric next shallow raven script sound calm link frost become jar lens";
+var mnemonic = "loud agree ostrich fresh pole sponsor discover delay float double bachelor early";

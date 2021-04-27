@@ -1,1 +1,1 @@
-var mnemonic = "sadness abuse fresh wasp famous range junk vote aware catalog cover wage";
+var mnemonic = "ship case pulp athlete hood pitch project hen floor acid blast minimum";

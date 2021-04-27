@@ -1,1 +1,1 @@
-var mnemonic = "grief bench hobby near aerobic half soul limit better mirror slogan shaft";
+var mnemonic = "trouble outdoor leopard humble unit frequent zoo real text trick puzzle mobile";

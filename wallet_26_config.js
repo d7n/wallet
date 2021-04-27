@@ -1,1 +1,1 @@
-var mnemonic = "police open voyage assault glare ask exotic fruit rough elephant provide school";
+var mnemonic = "slender wagon best depart tomorrow venue online fabric snake govern barely three";

@@ -1,1 +1,1 @@
-var mnemonic = "bus talent office reduce december only inform guitar brown spice torch strike";
+var mnemonic = "peasant paper urge stay tent smile wave code guitar install dial fabric";

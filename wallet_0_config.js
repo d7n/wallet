@@ -1,1 +1,1 @@
-var mnemonic = "save minor sphere busy mirror voice pepper imitate measure van custom height";
+var mnemonic = "coach horn summer move ribbon tackle elevator agree syrup toddler pact over";

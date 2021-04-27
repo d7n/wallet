@@ -1,1 +1,1 @@
-var mnemonic = "radar mixture render mixed trap load file solar piece sense icon ghost";
+var mnemonic = "estate elegant giggle push myself cabin summer analyst doll embark flower pull";

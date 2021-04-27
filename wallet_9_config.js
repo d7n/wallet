@@ -1,1 +1,1 @@
-var mnemonic = "clutch trust holiday clean cute bag diary warrior uncover depth reason poverty";
+var mnemonic = "dutch actress chapter ask meat spider toddler name fancy borrow correct tape";

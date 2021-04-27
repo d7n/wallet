@@ -1,1 +1,1 @@
-var mnemonic = "amazing fan legal cover advice often balance leopard bottom biology around attitude";
+var mnemonic = "fit toss faint swap scene live minor icon observe chronic near cave";

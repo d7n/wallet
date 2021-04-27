@@ -1,1 +1,1 @@
-var mnemonic = "that fan surface awful know draw rocket pole ring latin stick garden";
+var mnemonic = "pluck earn bullet moon bind gas garment hawk ostrich confirm soft sadness";

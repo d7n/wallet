@@ -1,1 +1,1 @@
-var mnemonic = "foam change yard chunk curve drama fossil random vault summer typical permit";
+var mnemonic = "enforce inch elegant ask deny cradle symptom pigeon fossil able will firm";

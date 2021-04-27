@@ -1,1 +1,1 @@
-var mnemonic = "habit tumble baby honey artist list era choose earn describe chronic spray";
+var mnemonic = "evil welcome enemy victory food cement sadness hen broken field doll goddess";

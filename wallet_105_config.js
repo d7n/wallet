@@ -1,1 +1,1 @@
-var mnemonic = "topic limb beef simple rigid trumpet february say express vicious belt put";
+var mnemonic = "trip edit grid blind jelly burst exile exhibit explain conduct powder hip";

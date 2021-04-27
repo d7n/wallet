@@ -1,1 +1,1 @@
-var mnemonic = "worry until bronze eagle close december palace summer critic fade kangaroo onion";
+var mnemonic = "model twin leisure error salute then lounge soft tray cargo debris clog";

@@ -1,1 +1,1 @@
-var mnemonic = "client vintage student winner surprise decline gasp shadow drip share merge ecology";
+var mnemonic = "jacket crucial season captain broom refuse clean collect horse coast bundle awesome";
