@@ -1,1 +1,1 @@
-var mnemonic = "already sniff check potato script border jealous frame picnic rifle desk chest";
+var mnemonic = "perfect hip target silver midnight world stadium whisper donor shop oval globe";

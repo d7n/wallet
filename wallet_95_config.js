@@ -1,1 +1,1 @@
-var mnemonic = "slam wait team grunt drift saddle stamp chimney drift width lab engage";
+var mnemonic = "stomach gown choice attack wife about review legend manual lumber mask ship";

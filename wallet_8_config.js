@@ -1,1 +1,1 @@
-var mnemonic = "already hen mushroom obtain nut explain road bean usual entry verify file";
+var mnemonic = "ecology accident panel such congress fuel menu obtain oil intact guess zebra";

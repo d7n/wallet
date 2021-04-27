@@ -1,1 +1,1 @@
-var mnemonic = "solve shallow shove scheme dwarf north arrange above universe unique small decrease";
+var mnemonic = "refuse question army leave mouse print radio light whip item dream planet";

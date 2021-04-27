@@ -1,1 +1,1 @@
-var mnemonic = "drama human tape bridge observe shell ride style maple double salmon unusual";
+var mnemonic = "ring forest silly admit sauce winter laptop mosquito bonus quality favorite artist";

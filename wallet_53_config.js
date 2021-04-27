@@ -1,1 +1,1 @@
-var mnemonic = "involve panel market machine empty turtle impose vote fatigue arm that beach";
+var mnemonic = "width project mobile multiply mansion shy minute nerve what fox multiply size";

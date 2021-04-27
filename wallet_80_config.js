@@ -1,1 +1,1 @@
-var mnemonic = "pencil gun leg affair hold lift glare rabbit solve dance hollow assume";
+var mnemonic = "dance wrist mystery grow charge wage hair crater foot brief crazy glad";

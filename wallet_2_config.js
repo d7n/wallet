@@ -1,1 +1,1 @@
-var mnemonic = "acid car wink citizen result glimpse forest beauty wink infant glue invite";
+var mnemonic = "dad attitude quarter flower dilemma smart toward badge parade jump claw correct";

@@ -1,1 +1,1 @@
-var mnemonic = "unveil concert lizard bag prize finger soccer disease salute can mail pepper";
+var mnemonic = "bitter lawn volume bulb brief inform viable worry civil kite type eagle";

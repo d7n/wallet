@@ -1,1 +1,1 @@
-var mnemonic = "crisp sentence switch phrase slam junk finish ready lounge again lottery month";
+var mnemonic = "antenna foster infant reopen lab matrix mixture level erode buzz swear accuse";

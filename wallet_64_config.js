@@ -1,1 +1,1 @@
-var mnemonic = "start limit turtle upper view attitude blur reject lizard orient boil satoshi";
+var mnemonic = "nest useless olive jump outside change amused nation vendor claw capable tiny";

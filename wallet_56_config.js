@@ -1,1 +1,1 @@
-var mnemonic = "caught mixed couch depend nose monitor bridge lawsuit pelican nuclear south pelican";
+var mnemonic = "robot luggage amount face junk model vital arrange exhibit abstract code original";

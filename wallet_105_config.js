@@ -1,1 +1,1 @@
-var mnemonic = "easily scare video range boss crack baby column green spirit chat harvest";
+var mnemonic = "knife museum since post company scorpion duck option joy milk degree finger";

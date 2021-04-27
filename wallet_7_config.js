@@ -1,1 +1,1 @@
-var mnemonic = "estate furnace damp banana balcony general mercy suggest marine rural circle gossip";
+var mnemonic = "improve uphold modify square cake popular dizzy antenna carry cactus shrug firm";

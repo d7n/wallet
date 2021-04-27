@@ -1,1 +1,1 @@
-var mnemonic = "either modify fashion lady anchor visit element swallow certain sight away beyond";
+var mnemonic = "renew ball work cargo awkward drink wear scrap rival organ speed bird";

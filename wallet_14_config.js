@@ -1,1 +1,1 @@
-var mnemonic = "fringe voyage lucky fashion maze length depart trend drill wave glimpse diesel";
+var mnemonic = "slim abandon open dune office effort infant dumb hub cactus stand later";

@@ -1,1 +1,1 @@
-var mnemonic = "ski exhibit bomb puppy mango awkward achieve diary taxi slot come castle";
+var mnemonic = "amount invite champion hole census long list spoon drastic margin select hour";

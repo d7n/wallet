@@ -1,1 +1,1 @@
-var mnemonic = "interest beef raw forum clay quit ancient winner dress disease salt climb";
+var mnemonic = "crucial report idea upset slender south blush series monkey trust ill student";

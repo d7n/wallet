@@ -1,1 +1,1 @@
-var mnemonic = "chapter primary earth gown excite goat blur hurry laugh thing cotton motion";
+var mnemonic = "fiber wrong fiction trumpet pumpkin fiscal fringe arena language alley squeeze glow";

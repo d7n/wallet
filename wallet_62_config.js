@@ -1,1 +1,1 @@
-var mnemonic = "metal shadow junk armor april route shop impulse liberty velvet shock piano";
+var mnemonic = "bacon walk motion alarm mom mom treat float stay shop diesel science";

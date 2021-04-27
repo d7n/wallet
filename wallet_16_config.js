@@ -1,1 +1,1 @@
-var mnemonic = "poem pen certain judge symptom escape soda spawn lumber impose shift answer";
+var mnemonic = "brisk myself better surprise humor fiction obey round usual brisk devote mirror";

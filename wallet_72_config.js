@@ -1,1 +1,1 @@
-var mnemonic = "seek mesh false position afraid occur matrix tip noise amount ribbon figure";
+var mnemonic = "glove marine skate soap ordinary spot october sponsor tongue warfare bomb canoe";

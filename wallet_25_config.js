@@ -1,1 +1,1 @@
-var mnemonic = "limb seat brief mystery purchase dinosaur exchange soft heavy desk recipe unfair";
+var mnemonic = "orphan nice either spatial level length pioneer electric keen powder fox oppose";

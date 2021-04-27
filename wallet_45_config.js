@@ -1,1 +1,1 @@
-var mnemonic = "year spread drop labor rubber spread mad lazy judge pistol fox seed";
+var mnemonic = "enemy venue coil endorse target defense umbrella venture admit effort meadow cheap";

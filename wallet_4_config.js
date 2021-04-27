@@ -1,1 +1,1 @@
-var mnemonic = "upset category scan fluid work organ blame cabin doctor bike dice rescue";
+var mnemonic = "case credit attack logic stem point rate ice rocket arm inch sample";

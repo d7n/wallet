@@ -1,1 +1,1 @@
-var mnemonic = "solid pulse burger twenty apart moment walnut figure license poet call inspire";
+var mnemonic = "bar gather clip lawn expose cannon wing slide replace hole click great";

@@ -1,1 +1,1 @@
-var mnemonic = "unaware reject citizen sick lounge give amused security episode sell merry hand";
+var mnemonic = "horror able spy verb chapter decade science glue confirm vanish issue remove";

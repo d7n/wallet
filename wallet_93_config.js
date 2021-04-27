@@ -1,1 +1,1 @@
-var mnemonic = "dry ready mixed alert case elegant act pipe control prize invest throw";
+var mnemonic = "shine wolf recycle film guess similar spell share race left crew face";

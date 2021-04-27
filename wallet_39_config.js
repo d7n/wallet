@@ -1,1 +1,1 @@
-var mnemonic = "kit hub novel smooth float chicken nurse trick salt umbrella enhance welcome";
+var mnemonic = "someone seek imitate distance bus today end resource chat estate that expect";

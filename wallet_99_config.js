@@ -1,1 +1,1 @@
-var mnemonic = "struggle cost snow enact ship wait tongue roast enrich such tourist army";
+var mnemonic = "dilemma retreat metal enable spray run usage pulp rapid walk swamp heavy";

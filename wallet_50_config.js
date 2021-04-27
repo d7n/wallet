@@ -1,1 +1,1 @@
-var mnemonic = "view comic isolate oil gloom perfect page gold culture obvious erode smart";
+var mnemonic = "region resemble tragic outside coil fossil dove mass mechanic limit glance flight";

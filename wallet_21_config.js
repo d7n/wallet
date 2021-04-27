@@ -1,1 +1,1 @@
-var mnemonic = "pony story author narrow random donkey van car burst acid super side";
+var mnemonic = "design solution flush loan episode write audit twice vendor laptop huge hero";

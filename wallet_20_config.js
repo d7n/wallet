@@ -1,1 +1,1 @@
-var mnemonic = "veteran used abandon pear ladder verify concert diamond verb strike canal shiver";
+var mnemonic = "orbit gloom library brain step pride mad position multiply favorite reflect mimic";

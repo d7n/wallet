@@ -1,1 +1,1 @@
-var mnemonic = "behave group equal goddess slim lunar polar churn onion beef virus year";
+var mnemonic = "box obvious shuffle rabbit cave talent taste dutch rack harsh atom pulp";

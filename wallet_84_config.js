@@ -1,1 +1,1 @@
-var mnemonic = "bronze giant lumber remove primary early bargain water prefer crazy gown sail";
+var mnemonic = "paper tenant olympic hybrid clerk youth romance outside soon dose three flame";

@@ -1,1 +1,1 @@
-var mnemonic = "brother endorse shock manage truth tuition affair kiwi coyote quick salad certain";
+var mnemonic = "base model hub upgrade permit oxygen capable lava suspect glove story rubber";

@@ -1,1 +1,1 @@
-var mnemonic = "icon mimic kitchen cradle insane hint rug live mad parent rack rotate";
+var mnemonic = "stuff maple dress giraffe woman pudding allow warfare slush penalty faith million";

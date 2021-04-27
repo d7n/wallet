@@ -1,1 +1,1 @@
-var mnemonic = "rule fetch differ vapor rare announce cluster night drill tiger valley clip";
+var mnemonic = "neutral define chimney inform essay wash miss acquire uncover crucial shield winter";

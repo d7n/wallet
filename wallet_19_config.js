@@ -1,1 +1,1 @@
-var mnemonic = "monkey leg flight tree note mask virus satoshi loyal reflect tired vicious";
+var mnemonic = "shaft vault differ gym husband tip spread crucial old organ ecology wife";

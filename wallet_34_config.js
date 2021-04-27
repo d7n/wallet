@@ -1,1 +1,1 @@
-var mnemonic = "leave tackle route erase apple mutual mosquito mass volcano park army provide";
+var mnemonic = "illness asset file kidney tortoise repeat scrub task ball off primary trash";

@@ -1,1 +1,1 @@
-var mnemonic = "avoid eye marine rebuild antique coil mean slush simple blush multiply biology";
+var mnemonic = "average excite ready never wise afford inside vessel have fine foil permit";

@@ -1,1 +1,1 @@
-var mnemonic = "tumble honey neither maximum income goose brisk pink planet gym glass rice";
+var mnemonic = "thing book lend donkey surface awesome okay egg regret lend slight cinnamon";

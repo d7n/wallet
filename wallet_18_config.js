@@ -1,1 +1,1 @@
-var mnemonic = "palace car churn cannon south cart super upset escape hip become item";
+var mnemonic = "parade adjust major draft enlist unknown emerge capital sight vote sauce carpet";

@@ -1,1 +1,1 @@
-var mnemonic = "swamp neither cool creek radio power trade carry spider valve subway address";
+var mnemonic = "trophy mesh able raven comic ticket behave half critic permit crystal truck";

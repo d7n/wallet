@@ -1,1 +1,1 @@
-var mnemonic = "neck tree bundle minor develop cost table gap battle tip fancy dance";
+var mnemonic = "quick weekend tent detail carbon attitude call alpha thunder winter ketchup alone";

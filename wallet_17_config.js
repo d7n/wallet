@@ -1,1 +1,1 @@
-var mnemonic = "airport catch drift call miss upper deputy furnace cradle walnut cause hole";
+var mnemonic = "turtle wrestle minor adjust sleep foster cloud agree force spoon outer congress";

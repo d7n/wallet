@@ -1,1 +1,1 @@
-var mnemonic = "mixture cage current machine stairs leg acid fat rifle ordinary volume damp";
+var mnemonic = "danger brother crawl uniform skate salon runway assume spatial immense update ready";

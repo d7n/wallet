@@ -1,1 +1,1 @@
-var mnemonic = "private vital imitate bomb ecology scout uniform cannon vapor prefer cradle song";
+var mnemonic = "wage gap tube conduct such critic artist debris verb myth between gas";

@@ -1,1 +1,1 @@
-var mnemonic = "jeans lesson beauty manage project rabbit sad result neck captain clinic hurdle";
+var mnemonic = "logic never amused rely loop metal fresh spike trophy carpet bunker punch";

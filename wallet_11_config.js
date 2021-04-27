@@ -1,1 +1,1 @@
-var mnemonic = "marriage beach target vague pilot couple market such bird raven stool canoe";
+var mnemonic = "stuff awful fossil attitude chronic awful upset excess balance lizard invest what";

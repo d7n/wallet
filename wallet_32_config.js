@@ -1,1 +1,1 @@
-var mnemonic = "drill velvet tape eternal trigger wrap goddess emotion diary miracle digital carry";
+var mnemonic = "toe wasp suggest dragon mountain sniff goose library trigger script harvest damp";

@@ -1,1 +1,1 @@
-var mnemonic = "soft nothing champion swarm glimpse hair lucky bridge dose dragon congress prison";
+var mnemonic = "diet master tragic diamond oppose salmon crazy bean short acquire sting doctor";

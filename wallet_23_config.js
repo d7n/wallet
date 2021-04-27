@@ -1,1 +1,1 @@
-var mnemonic = "toward way lumber kidney dynamic floor corn voice sleep drastic there mechanic";
+var mnemonic = "cat include people notice convince announce maple fiscal excess act coin feel";

@@ -1,1 +1,1 @@
-var mnemonic = "wire sadness first bracket wait outside erase universe elite fall magnet cover";
+var mnemonic = "depth answer such gun please bike portion setup scrub march celery wide";

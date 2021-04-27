@@ -1,1 +1,1 @@
-var mnemonic = "blast fatigue electric sibling enter annual insect panic ice run height outdoor";
+var mnemonic = "cost repeat plate easily cute inch deal pledge crazy surge vast occur";

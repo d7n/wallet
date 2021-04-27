@@ -1,1 +1,1 @@
-var mnemonic = "sausage regular off capital endorse link reward snow already dash mutual tumble";
+var mnemonic = "salt bundle unusual best rent dutch wrap gift grab filter slight clean";

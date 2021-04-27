@@ -1,1 +1,1 @@
-var mnemonic = "dignity opinion drill valve program employ nuclear fit detect tumble image receive";
+var mnemonic = "advice tail false defense noodle stove run film recall sister render resist";

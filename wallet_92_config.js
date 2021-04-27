@@ -1,1 +1,1 @@
-var mnemonic = "demise front great argue paper parrot also board mix tooth decide chest";
+var mnemonic = "discover cannon ahead net resemble lobster crew yard join oval frown cradle";

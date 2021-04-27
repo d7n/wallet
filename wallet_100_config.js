@@ -1,1 +1,1 @@
-var mnemonic = "wing act arrive chef riot setup exact room execute depth begin tray";
+var mnemonic = "regret glory sea raven message winter brick memory inner cream theme fat";

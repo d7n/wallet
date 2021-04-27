@@ -1,1 +1,1 @@
-var mnemonic = "august loop begin belt ketchup mule screen urge patrol emerge enforce dial";
+var mnemonic = "level before long crawl desert exist knife insane obvious obtain woman climb";

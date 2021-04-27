@@ -1,1 +1,1 @@
-var mnemonic = "laundry hurdle blind borrow hip major toe worry idle coil horn inquiry";
+var mnemonic = "resist draft possible cattle secret pair regular wisdom group marble nation settle";

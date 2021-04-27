@@ -1,1 +1,1 @@
-var mnemonic = "jeans remind label quiz dance involve talk guitar icon betray tail parent";
+var mnemonic = "dutch faculty harsh across interest dial rapid fork open tumble festival purse";

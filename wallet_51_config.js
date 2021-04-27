@@ -1,1 +1,1 @@
-var mnemonic = "bag income library fork poverty possible tongue address gas couch doll rescue";
+var mnemonic = "guide depth steel angry hire scorpion entry away sentence seat dolphin immense";

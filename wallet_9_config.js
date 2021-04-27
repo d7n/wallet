@@ -1,1 +1,1 @@
-var mnemonic = "flag dove choice scan draft isolate spirit element multiply live panda cat";
+var mnemonic = "minute quantum parade magic saddle fabric since amazing diamond floor trip exercise";

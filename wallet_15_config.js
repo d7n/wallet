@@ -1,1 +1,1 @@
-var mnemonic = "rocket spread toy unit survey sound canal dog shadow cattle wear announce";
+var mnemonic = "hidden side return laundry broom elephant strike silver frown question ghost parent";

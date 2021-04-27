@@ -1,1 +1,1 @@
-var mnemonic = "source arrest travel symbol coil brass cliff crowd often company exhibit now";
+var mnemonic = "easy bike bus castle finger crush fix universe desk width spoon hedgehog";

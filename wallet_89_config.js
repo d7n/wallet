@@ -1,1 +1,1 @@
-var mnemonic = "kit sport impose amused family snake fitness episode ship drastic luggage tip";
+var mnemonic = "oxygen stumble series betray arena oil weapon april reunion wrestle sun assist";

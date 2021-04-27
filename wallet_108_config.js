@@ -1,1 +1,1 @@
-var mnemonic = "tank scrub sing candy shoot sell evolve find smoke element bring snap";
+var mnemonic = "bench ladder charge solve sheriff interest sibling visual hire dose loud index";

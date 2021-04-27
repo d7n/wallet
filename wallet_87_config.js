@@ -1,1 +1,1 @@
-var mnemonic = "roof fix sunny risk dial purse crisp tent spawn recycle north common";
+var mnemonic = "broom rigid property rifle gossip maximum appear bind goose vacuum identify must";

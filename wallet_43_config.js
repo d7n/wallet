@@ -1,1 +1,1 @@
-var mnemonic = "category curve emerge force cruel clay spatial combine end wrap connect fiction";
+var mnemonic = "theory core suit soda business supply brain tiger capital mandate symbol crop";

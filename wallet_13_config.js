@@ -1,1 +1,1 @@
-var mnemonic = "law trash opera metal admit local describe supreme blood long choice face";
+var mnemonic = "rain cannon process arrange fee practice clean cupboard resource reveal runway economy";

@@ -1,1 +1,1 @@
-var mnemonic = "stage flash private fox chapter mass method tired lumber improve pattern wrestle";
+var mnemonic = "quantum come fiction sun mom badge type steak wine timber entry daughter";

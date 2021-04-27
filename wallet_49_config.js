@@ -1,1 +1,1 @@
-var mnemonic = "skull clinic push tenant sunny woman rapid myself language cereal suspect metal";
+var mnemonic = "ski raven prefer slam kite lounge razor gas mimic diary nasty juice";

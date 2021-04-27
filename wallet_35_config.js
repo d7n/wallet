@@ -1,1 +1,1 @@
-var mnemonic = "layer weapon warm child sense before shine rug dog dizzy mean garage";
+var mnemonic = "laptop cherry room hurdle marriage measure cradle next kid toddler knee casual";

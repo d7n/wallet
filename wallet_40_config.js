@@ -1,1 +1,1 @@
-var mnemonic = "face myth pistol quality retreat table express birth surge bitter better moon";
+var mnemonic = "kind noise spring runway bachelor main minimum fossil make dream drum broken";

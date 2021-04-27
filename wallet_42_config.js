@@ -1,1 +1,1 @@
-var mnemonic = "stand solution story fat hint know scorpion picture safe negative shoot amateur";
+var mnemonic = "stem duck like raccoon federal dog lemon unlock taxi embrace dynamic text";

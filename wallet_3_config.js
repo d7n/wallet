@@ -1,1 +1,1 @@
-var mnemonic = "law treat barely perfect multiply tobacco weapon drip muscle gold machine indoor";
+var mnemonic = "catalog gold off transfer cupboard ripple random solve inch public stage text";

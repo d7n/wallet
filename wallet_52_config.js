@@ -1,1 +1,1 @@
-var mnemonic = "boss gravity decrease risk mimic fat imitate pole cry review vintage suffer";
+var mnemonic = "blue flat suffer one bike stand wet select flash vessel man wedding";

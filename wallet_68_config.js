@@ -1,1 +1,1 @@
-var mnemonic = "trend injury force casual parade victory weapon valley punch hawk wash taste";
+var mnemonic = "burden label eternal absorb furnace stereo capable century ostrich jaguar rich combine";

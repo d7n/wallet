@@ -1,1 +1,1 @@
-var mnemonic = "weather degree spoil weather dumb pulp crash primary dentist example umbrella soon";
+var mnemonic = "sunny tennis hub enough hood expand comfort own chuckle option distance tourist";

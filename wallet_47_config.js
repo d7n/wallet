@@ -1,1 +1,1 @@
-var mnemonic = "world goddess goat time satoshi hand awkward sign tissue vote elegant treat";
+var mnemonic = "audit license raise trade unit merge push brief detect exhaust fee fix";

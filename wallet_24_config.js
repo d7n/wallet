@@ -1,1 +1,1 @@
-var mnemonic = "question jar level property security supreme silver ski lottery scrap inform exist";
+var mnemonic = "mesh sauce rice drip exist urge figure ridge desert stamp rapid pelican";

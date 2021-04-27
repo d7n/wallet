@@ -1,1 +1,1 @@
-var mnemonic = "fury uniform episode blush soon spawn slam denial burst dream hire verb";
+var mnemonic = "trust story say travel table left few depart orchard say spread acid";

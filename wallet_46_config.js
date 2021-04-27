@@ -1,1 +1,1 @@
-var mnemonic = "surge settle suspect prize cloth owner feature rough digital oxygen casual panic";
+var mnemonic = "stay like noise differ repeat method armor first parrot pioneer favorite buzz";

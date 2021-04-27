@@ -1,1 +1,1 @@
-var mnemonic = "come step garlic fringe buyer river spot favorite autumn farm myself avoid";
+var mnemonic = "finger ten trend antique humble empower weasel relief front unable unlock mean";

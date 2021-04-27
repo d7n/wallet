@@ -1,1 +1,1 @@
-var mnemonic = "analyst biology birth skirt fitness baby clock add deal armor elder during";
+var mnemonic = "emerge rigid vendor waste state inside draw pizza borrow tuition helmet when";

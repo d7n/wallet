@@ -1,1 +1,1 @@
-var mnemonic = "feed drift already inject anchor ten october raise diagram fly nasty raven";
+var mnemonic = "swear wrap wild spread west inherit pole pet phone involve giggle fly";

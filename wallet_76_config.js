@@ -1,1 +1,1 @@
-var mnemonic = "try perfect pull cable glad catch warrior tool custom lemon response exile";
+var mnemonic = "flat salute memory defense dream person acid board glue canyon ticket salmon";

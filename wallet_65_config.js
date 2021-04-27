@@ -1,1 +1,1 @@
-var mnemonic = "now spirit reform one velvet bag vehicle tornado cart spoon shock size";
+var mnemonic = "away earn burden blame wealth father glove ordinary donor super jacket hold";

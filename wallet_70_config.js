@@ -1,1 +1,1 @@
-var mnemonic = "eternal lazy walnut appear blast gasp behave room fringe siren border cement";
+var mnemonic = "denial title maximum iron awkward forward reflect refuse deliver endless pipe wrap";

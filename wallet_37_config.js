@@ -1,1 +1,1 @@
-var mnemonic = "best morning version chase moon minute spring hedgehog session boy kick other";
+var mnemonic = "toddler begin test want finger later advance under sugar mixed maid risk";

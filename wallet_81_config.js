@@ -1,1 +1,1 @@
-var mnemonic = "aisle tornado arena second crumble monkey grunt toilet smile tenant flush pluck";
+var mnemonic = "excite space about dad roof where deer offer regret mandate airport silver";

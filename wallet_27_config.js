@@ -1,1 +1,1 @@
-var mnemonic = "oil settle since cry silly orphan river enemy force twenty visit bread";
+var mnemonic = "task dwarf hospital injury salon draft tattoo prison upon strike lunch unfair";

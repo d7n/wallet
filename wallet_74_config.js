@@ -1,1 +1,1 @@
-var mnemonic = "jewel mass mimic later dose basic defy base horn saddle polar lamp";
+var mnemonic = "nature extra maple wear nose artefact excuse discover utility biology candy soccer";
