@@ -1,1 +1,1 @@
-var mnemonic = "chimney wish sugar pelican dream grab movie cake region erupt mansion uniform";
+var mnemonic = "razor onion memory chunk remove blind regret stem era puzzle verify position";

@@ -1,1 +1,1 @@
-var mnemonic = "suit banner pave agree cinnamon pupil wine faith despair copy will when";
+var mnemonic = "rough still tool priority west federal cart wash adapt road electric wheel";

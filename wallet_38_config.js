@@ -1,1 +1,1 @@
-var mnemonic = "pear foot frame disease such update auto milk peasant maze pink magnet";
+var mnemonic = "nephew wall peace sting table hole april script pumpkin satoshi journey donkey";

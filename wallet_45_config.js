@@ -1,1 +1,1 @@
-var mnemonic = "shop film globe sea steak paddle runway relax aware drink sting surprise";
+var mnemonic = "video empower supreme three scheme fire fold lyrics sugar survey aerobic main";

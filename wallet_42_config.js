@@ -1,1 +1,1 @@
-var mnemonic = "alone uncover uncover duck swift future beauty bottom royal narrow trophy when";
+var mnemonic = "slim term uniform cloud kitchen teach gain loop process monster devote promote";

@@ -1,1 +1,1 @@
-var mnemonic = "empty peace harvest quiz curtain plug thumb orbit call choice chunk barely";
+var mnemonic = "tree wasp inhale rude base nice clown glory attack awful cement glide";

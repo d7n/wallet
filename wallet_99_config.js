@@ -1,1 +1,1 @@
-var mnemonic = "coast label stand paddle logic own better build hidden cage attack unit";
+var mnemonic = "clarify gun arena start fish imitate doll birth foot belt logic rapid";

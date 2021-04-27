@@ -1,1 +1,1 @@
-var mnemonic = "element bean process game pattern amazing stereo youth erase toilet pulse spin";
+var mnemonic = "elite sport extend chase carry common length fun broom post glare color";

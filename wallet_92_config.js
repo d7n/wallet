@@ -1,1 +1,1 @@
-var mnemonic = "endless miss basic affair ride crazy garlic pool diet kick weather now";
+var mnemonic = "earn happy festival blush large inch couch dawn wood tattoo shift close";

@@ -1,1 +1,1 @@
-var mnemonic = "gesture pact flock double simple trumpet tank entire guilt wreck stem task";
+var mnemonic = "own palace mercy faint squirrel guard exile file away invite danger toe";

@@ -1,1 +1,1 @@
-var mnemonic = "token emotion depend smile profit you table tobacco ceiling track amazing conduct";
+var mnemonic = "wide airport shock midnight brush anxiety erase chronic sheriff fly ramp walk";

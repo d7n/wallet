@@ -1,1 +1,1 @@
-var mnemonic = "frozen twenty before cool okay balance mother bullet border blame panda lock";
+var mnemonic = "beauty involve achieve excess sword zone wash slight skate open cycle health";

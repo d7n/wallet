@@ -1,1 +1,1 @@
-var mnemonic = "crime unfold drama depart sound zebra aim sleep lift estate table genius";
+var mnemonic = "cotton fox awkward deliver print invest hospital pool wealth luggage snake expire";

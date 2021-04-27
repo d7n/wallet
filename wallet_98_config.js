@@ -1,1 +1,1 @@
-var mnemonic = "theory scheme prevent envelope alien habit truck system safe lonely side sort";
+var mnemonic = "chuckle grit crunch coil issue riot offer reject spy wire muscle sport";

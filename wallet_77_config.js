@@ -1,1 +1,1 @@
-var mnemonic = "guilt elevator crouch nice warm stereo door stairs kangaroo arm volume nerve";
+var mnemonic = "orphan olive kit spare staff energy fan miracle advice public pave alcohol";

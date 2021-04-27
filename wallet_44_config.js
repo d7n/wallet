@@ -1,1 +1,1 @@
-var mnemonic = "rice dad confirm man siege van flush spend habit hazard tool depth";
+var mnemonic = "orphan habit cloth hope february episode dash mammal warfare remain envelope matrix";

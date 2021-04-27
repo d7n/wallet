@@ -1,1 +1,1 @@
-var mnemonic = "title feel fiber viable trim weapon pencil design pledge machine portion evil";
+var mnemonic = "know panda explain pen obtain envelope smart liar mean mobile wedding dad";

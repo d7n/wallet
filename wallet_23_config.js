@@ -1,1 +1,1 @@
-var mnemonic = "chicken stool guard focus budget beef stool exhaust dish material say animal";
+var mnemonic = "noodle decade purse saddle hole earth trial pet net barrel labor art";

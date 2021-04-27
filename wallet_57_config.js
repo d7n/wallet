@@ -1,1 +1,1 @@
-var mnemonic = "kiss ribbon unlock energy urge heavy tongue news clump brick pet humor";
+var mnemonic = "one edge slab figure reform torch jelly spell multiply grief valley census";

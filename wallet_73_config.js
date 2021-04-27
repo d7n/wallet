@@ -1,1 +1,1 @@
-var mnemonic = "monster action raise rural print detect inflict carpet play shift script parent";
+var mnemonic = "hen repeat ridge air ship phrase expand spy test belt table honey";

@@ -1,1 +1,1 @@
-var mnemonic = "another parrot demise mask write play tip man above easily seek illegal";
+var mnemonic = "leg fashion double catch sketch success derive twenty grab detect equip panic";

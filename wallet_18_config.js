@@ -1,1 +1,1 @@
-var mnemonic = "include toast creek length scrap two melody nice orient beyond misery enough";
+var mnemonic = "clip credit inner cross ride salute stem hair enforce naive liquid absurd";

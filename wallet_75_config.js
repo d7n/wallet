@@ -1,1 +1,1 @@
-var mnemonic = "dizzy meadow trouble ivory robust hand cushion ankle boil host distance expire";
+var mnemonic = "post legal cousin exact pride shell spatial own yard hello enlist coil";

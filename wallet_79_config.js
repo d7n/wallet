@@ -1,1 +1,1 @@
-var mnemonic = "above joke clutch step evidence three bus era proof long clog voice";
+var mnemonic = "weird clown syrup rookie broken chat price stock limit habit win dad";

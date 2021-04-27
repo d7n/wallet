@@ -1,1 +1,1 @@
-var mnemonic = "hammer crouch joke kingdom mushroom satisfy wear coconut salmon silk unfair express";
+var mnemonic = "submit bottom suspect kingdom liquid mobile canvas crime ask hole fork thank";

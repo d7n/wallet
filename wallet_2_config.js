@@ -1,1 +1,1 @@
-var mnemonic = "online magic option entry erode cover skill embrace rare carry hurt book";
+var mnemonic = "scout laugh south route fetch gain piece squeeze mule apart purchase robot";

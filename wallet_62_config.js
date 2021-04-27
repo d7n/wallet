@@ -1,1 +1,1 @@
-var mnemonic = "stay patient fantasy wisdom mansion bicycle raw federal blur tumble pizza chalk";
+var mnemonic = "man wage valley minimum script flash pride hospital casual side neglect person";

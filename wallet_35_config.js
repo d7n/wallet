@@ -1,1 +1,1 @@
-var mnemonic = "kidney session anger enlist satisfy must knee parrot aerobic maze wife main";
+var mnemonic = "train glance valley boil devote lizard kiss duck lion letter clown kick";

@@ -1,1 +1,1 @@
-var mnemonic = "mom pear harbor permit couple circle stadium velvet correct sword cute call";
+var mnemonic = "utility athlete cereal expand beyond enable nuclear issue sibling code access spend";

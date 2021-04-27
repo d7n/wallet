@@ -1,1 +1,1 @@
-var mnemonic = "crew spring banana fluid walk system step virtual umbrella cart alert bread";
+var mnemonic = "position pitch doll arrange piece ask matrix coral myth cry dizzy evolve";

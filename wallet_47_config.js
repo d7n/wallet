@@ -1,1 +1,1 @@
-var mnemonic = "track option virtual chicken ability budget half mule throw review now sudden";
+var mnemonic = "lemon aware fit round coyote biology fork autumn worth pave fetch mass";

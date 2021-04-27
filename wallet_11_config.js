@@ -1,1 +1,1 @@
-var mnemonic = "consider nature appear riot primary wrong student exchange middle indoor coil caught";
+var mnemonic = "true cupboard coach skin prefer curve damp sight false debate opinion prepare";

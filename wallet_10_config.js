@@ -1,1 +1,1 @@
-var mnemonic = "daring fog embark caught rescue bless doll tree glow network emotion basket";
+var mnemonic = "wear escape dwarf short debris illness acquire menu wrong auto ketchup tone";

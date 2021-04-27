@@ -1,1 +1,1 @@
-var mnemonic = "orchard route bronze walk stamp special blood buddy gorilla before inform canal";
+var mnemonic = "frown crush punch blame mind sun tenant already bargain fury cigar inch";

@@ -1,1 +1,1 @@
-var mnemonic = "main boring glue rookie velvet zero mirror cattle hard junior doll corn";
+var mnemonic = "sick talent solid muffin circle deposit flock frown desk hire peasant nut";

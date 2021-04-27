@@ -1,1 +1,1 @@
-var mnemonic = "room glad champion noise license neither jelly divert memory shaft vacant glance";
+var mnemonic = "wish pony old zero rough park design apple young solid crane mountain";

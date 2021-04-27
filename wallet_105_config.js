@@ -1,1 +1,1 @@
-var mnemonic = "resemble fee agree replace sword page blush space breeze height donkey animal";
+var mnemonic = "accident orphan weekend surface lake skirt kick merge tobacco obtain method melody";

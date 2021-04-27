@@ -1,1 +1,1 @@
-var mnemonic = "virus glue boat student observe term habit view ask orange tumble lava";
+var mnemonic = "crystal label slab square refuse relief trigger gadget walk become crunch wink";

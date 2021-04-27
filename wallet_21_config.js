@@ -1,1 +1,1 @@
-var mnemonic = "fetch civil sound flight achieve disease detect plastic situate island wear antenna";
+var mnemonic = "time accuse stand such hungry obey limit report insane merge salad desk";

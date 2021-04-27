@@ -1,1 +1,1 @@
-var mnemonic = "please until use comfort mountain repeat lamp cotton warfare mango gorilla rhythm";
+var mnemonic = "pyramid paper idea victory wheat tell timber cruise color neck seek powder";

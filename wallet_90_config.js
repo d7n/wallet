@@ -1,1 +1,1 @@
-var mnemonic = "olive miracle bronze problem release sign keep athlete solid pepper raise cheap";
+var mnemonic = "lumber bright dawn obvious thumb initial naive valid rookie picture wood spoil";

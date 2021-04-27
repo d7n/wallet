@@ -1,1 +1,1 @@
-var mnemonic = "grass clever tuition move desk sentence broken churn wolf reject chaos town";
+var mnemonic = "debate excite high already luxury six benefit mutual tattoo chimney yard negative";

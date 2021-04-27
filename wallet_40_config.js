@@ -1,1 +1,1 @@
-var mnemonic = "identify save deer south kind biology help area before enhance various wide";
+var mnemonic = "divide museum atom fancy attack fortune bless artwork year gasp globe fork";

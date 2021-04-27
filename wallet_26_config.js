@@ -1,1 +1,1 @@
-var mnemonic = "teach rack divert rival soul vocal puzzle impose jaguar warrior pumpkin fiber";
+var mnemonic = "cat demand review swing camp fiscal hire mirror trick forum witness elegant";

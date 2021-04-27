@@ -1,1 +1,1 @@
-var mnemonic = "oblige glare grit disease degree wage path torch lift earn stem celery";
+var mnemonic = "promote hair absorb fury sure depend olympic pioneer spend position army front";

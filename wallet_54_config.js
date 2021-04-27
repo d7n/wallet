@@ -1,1 +1,1 @@
-var mnemonic = "laundry accuse green despair demise patient east ship brain eagle other frown";
+var mnemonic = "air office resist system pumpkin round priority catalog exact teach mind cradle";

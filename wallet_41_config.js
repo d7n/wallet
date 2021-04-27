@@ -1,1 +1,1 @@
-var mnemonic = "stay grunt tail benefit flock rely trap legal aerobic identify force civil";
+var mnemonic = "employ market ordinary return dawn copper auto wise script number mercy employ";

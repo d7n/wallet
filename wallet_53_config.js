@@ -1,1 +1,1 @@
-var mnemonic = "device wise march fossil step pass bracket grape color seminar ensure unit";
+var mnemonic = "dizzy eagle vanish void soup moment upgrade cancel tongue corn apology frozen";

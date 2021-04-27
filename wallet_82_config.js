@@ -1,1 +1,1 @@
-var mnemonic = "noodle auction stadium flight cave garlic february math essay diagram luggage loyal";
+var mnemonic = "gym else woman family hotel kitchen laundry habit little mutual person honey";

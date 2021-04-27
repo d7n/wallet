@@ -1,1 +1,1 @@
-var mnemonic = "hollow trigger globe border sad vacant reject perfect obtain sphere action stomach";
+var mnemonic = "thank hundred apart ability east coyote beauty approve donor agree salt finish";

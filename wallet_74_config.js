@@ -1,1 +1,1 @@
-var mnemonic = "stage warfare amazing unfold seed ten powder decline vault zero buzz yard";
+var mnemonic = "tattoo nerve shrug butter upset include patch butter cool wrestle game kitten";

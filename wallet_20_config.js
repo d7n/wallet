@@ -1,1 +1,1 @@
-var mnemonic = "visit chuckle home shove still simple egg unique lava resemble about suit";
+var mnemonic = "inject indicate inquiry coconut load two leisure student trouble frozen sell seat";

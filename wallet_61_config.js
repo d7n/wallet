@@ -1,1 +1,1 @@
-var mnemonic = "kitchen avocado model decorate side case purse mask bulb typical echo theme";
+var mnemonic = "ball hub inside glory shiver gospel diesel famous occur illness strike wealth";

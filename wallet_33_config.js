@@ -1,1 +1,1 @@
-var mnemonic = "quality impact subject enroll business erosion spend toast rule rather ranch vivid";
+var mnemonic = "similar globe trumpet weapon voice leave knee increase twenty useful promote boy";

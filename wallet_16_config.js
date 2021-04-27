@@ -1,1 +1,1 @@
-var mnemonic = "aspect number aspect amazing hint feature judge north plunge crash remember slush";
+var mnemonic = "robot people lazy typical divorce symptom pledge oblige session robust cruise total";

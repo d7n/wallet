@@ -1,1 +1,1 @@
-var mnemonic = "sort dignity length warfare unusual dance ranch hat whale meadow hurt scheme";
+var mnemonic = "blade they autumn unusual family bag flock illegal avocado foil busy dynamic";

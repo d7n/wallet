@@ -1,1 +1,1 @@
-var mnemonic = "disagree ritual trap black speak treat aspect pyramid sponsor dolphin place doll";
+var mnemonic = "agent person dawn eyebrow alone glue weasel jewel yard south hard kit";

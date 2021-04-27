@@ -1,1 +1,1 @@
-var mnemonic = "around private grocery rose board water elder worry oval clay trophy gaze";
+var mnemonic = "manage middle blast finger private sing eternal wool patrol little fix define";

@@ -1,1 +1,1 @@
-var mnemonic = "crystal home invite purpose chapter solution envelope steel measure giggle test zone";
+var mnemonic = "nice vacant manual marine rare wool aisle vehicle lemon snake option mango";

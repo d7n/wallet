@@ -1,1 +1,1 @@
-var mnemonic = "guilt debris island paper gloom frequent pledge giggle always stool federal cancel";
+var mnemonic = "march legend travel dust almost immense hip submit stay drastic violin muffin";

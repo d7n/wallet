@@ -1,1 +1,1 @@
-var mnemonic = "apology cram upset marriage wheel program what family winter quit meadow sketch";
+var mnemonic = "junk soda lawn submit asset enforce business bullet shine access divide regular";

@@ -1,1 +1,1 @@
-var mnemonic = "beef amazing dice fog victory tattoo venue symbol horn couch bamboo ramp";
+var mnemonic = "doll beyond morning wolf warfare castle giraffe bulb display broccoli peanut ankle";

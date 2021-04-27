@@ -1,1 +1,1 @@
-var mnemonic = "example payment abandon near mask bulb law antique ridge offer month asset";
+var mnemonic = "claim surface scene vapor hunt banana into carry media nest height breeze";

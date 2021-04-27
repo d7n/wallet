@@ -1,1 +1,1 @@
-var mnemonic = "pioneer same garage ask lottery display junior pipe hire zoo radar foster";
+var mnemonic = "olympic meat sort link essay actor symbol earth coyote juice avocado brain";

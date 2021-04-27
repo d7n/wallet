@@ -1,1 +1,1 @@
-var mnemonic = "fuel sight volcano liquid exact enable invest law home pattern sense gun";
+var mnemonic = "layer jealous material inherit daughter detect guilt danger maple nasty sort arrange";

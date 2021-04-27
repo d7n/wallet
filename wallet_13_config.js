@@ -1,1 +1,1 @@
-var mnemonic = "grief suggest bullet dawn often replace jealous clown update prepare grain reveal";
+var mnemonic = "coast fringe rug pause muscle crawl stomach purpose material sauce various gun";

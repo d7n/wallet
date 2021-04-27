@@ -1,1 +1,1 @@
-var mnemonic = "drastic fiction slogan august vital vendor snack bone cycle blame craft canvas";
+var mnemonic = "service acquire climb stand dismiss away tongue fade cherry wait scan betray";

@@ -1,1 +1,1 @@
-var mnemonic = "fame patient student loan champion oblige clarify mail kid head virus right";
+var mnemonic = "stool hockey collect knife fire source virtual entire copper avocado hundred party";

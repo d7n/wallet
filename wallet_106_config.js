@@ -1,1 +1,1 @@
-var mnemonic = "cage sponsor mesh job rescue fragile episode hedgehog clay buddy solid glass";
+var mnemonic = "give accident marble buddy cook size crack task meadow december armed upset";

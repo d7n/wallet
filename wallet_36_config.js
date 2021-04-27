@@ -1,1 +1,1 @@
-var mnemonic = "tray clinic build mail oppose tired horror grit tongue copper horn thrive";
+var mnemonic = "wrap caution motor bonus symptom another frequent morning elite animal artefact swap";

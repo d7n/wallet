@@ -1,1 +1,1 @@
-var mnemonic = "staff false worry also exclude miss vicious proof moral dutch butter approve";
+var mnemonic = "mistake body number envelope gesture clean sight find december return phrase tray";

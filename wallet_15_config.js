@@ -1,1 +1,1 @@
-var mnemonic = "core attend fuel subject stamp produce forget video push sign link comfort";
+var mnemonic = "mosquito more afraid sample mimic shift another monkey unaware drama regular caught";

@@ -1,1 +1,1 @@
-var mnemonic = "mutual strong depth village snack mail goose dash bus chunk birth awful";
+var mnemonic = "child unknown state mansion office palm try fit quarter add figure flat";

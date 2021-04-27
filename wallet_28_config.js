@@ -1,1 +1,1 @@
-var mnemonic = "wagon morning globe enact siren carry steak human blame miss host earn";
+var mnemonic = "elephant still practice pudding scissors emerge country observe true crush swallow random";

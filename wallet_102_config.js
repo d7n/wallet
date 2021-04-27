@@ -1,1 +1,1 @@
-var mnemonic = "input animal wealth kiss crack judge push foil alcohol afraid exchange elder";
+var mnemonic = "liquid point immune divide father add sport engage hole candy venture account";

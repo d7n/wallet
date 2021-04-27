@@ -1,1 +1,1 @@
-var mnemonic = "sick moment blur claim tomorrow worry rug trim opinion cricket genuine tackle";
+var mnemonic = "master lecture left mom cigar you boy ticket rug easily combine illegal";

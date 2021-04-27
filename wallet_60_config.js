@@ -1,1 +1,1 @@
-var mnemonic = "wild often glass inject remind congress permit announce swim nephew ticket release";
+var mnemonic = "call host possible illness isolate brush host select crowd speak wait squirrel";

@@ -1,1 +1,1 @@
-var mnemonic = "end skull cat awful good castle blouse pepper actress mixture grid believe";
+var mnemonic = "erosion crash park broom surprise delay display when issue grape pride swift";

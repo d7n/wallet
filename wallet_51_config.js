@@ -1,1 +1,1 @@
-var mnemonic = "surface trim spring tuna member unlock flag east damp layer client ramp";
+var mnemonic = "envelope bottom during snack valley impose sweet cattle practice firm dinner paper";

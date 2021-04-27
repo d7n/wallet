@@ -1,1 +1,1 @@
-var mnemonic = "season fortune oven drum price nuclear life summer husband nut include pyramid";
+var mnemonic = "season search benefit canyon quote speak device decorate cousin since dragon rotate";

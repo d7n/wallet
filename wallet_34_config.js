@@ -1,1 +1,1 @@
-var mnemonic = "curious state lamp glove ugly income cloud charge course argue famous deny";
+var mnemonic = "abandon lizard piano spray quote display betray liar vanish tray lift unusual";

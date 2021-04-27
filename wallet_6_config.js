@@ -1,1 +1,1 @@
-var mnemonic = "turkey tool tragic defense sausage abstract source symbol game replace sand hurry";
+var mnemonic = "family arm giraffe jazz social drill okay round enrich anger movie toss";

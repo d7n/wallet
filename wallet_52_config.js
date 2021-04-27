@@ -1,1 +1,1 @@
-var mnemonic = "fuel road mountain pottery crew rare night pool parent this manual trouble";
+var mnemonic = "digital loop bulk baby put answer february invest wood fire clutch cargo";

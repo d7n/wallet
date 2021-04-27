@@ -1,1 +1,1 @@
-var mnemonic = "catch mirror artwork kind lawsuit please seminar update kitchen property feature pepper";
+var mnemonic = "yellow educate sustain door square coin crystal away toward bring jar flat";

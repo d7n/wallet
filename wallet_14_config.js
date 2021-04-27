@@ -1,1 +1,1 @@
-var mnemonic = "power offer able address member much answer salon bargain rural flight laugh";
+var mnemonic = "subject come doll jealous math oven judge erase bomb pause cushion since";

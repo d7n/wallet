@@ -1,1 +1,1 @@
-var mnemonic = "half bag grit hip ice silly repeat chimney dial gap pattern purpose";
+var mnemonic = "honey crouch coconut gold move improve muscle twenty acoustic magnet faith obvious";

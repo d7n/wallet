@@ -1,1 +1,1 @@
-var mnemonic = "must work raw emerge float crowd swim pumpkin accuse must gospel animal";
+var mnemonic = "clinic skate couch split response hat powder odor exit way vacuum tilt";

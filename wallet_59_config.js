@@ -1,1 +1,1 @@
-var mnemonic = "confirm bargain deliver collect practice trip bottom put essence debate century eagle";
+var mnemonic = "judge voyage polar path behave aisle title plastic melody canoe air agree";

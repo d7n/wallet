@@ -1,1 +1,1 @@
-var mnemonic = "bridge cake buffalo dial jazz beach topic sock axis skirt stool tone";
+var mnemonic = "blanket drama chimney dry rifle tone globe afraid broken option risk permit";

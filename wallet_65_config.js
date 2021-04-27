@@ -1,1 +1,1 @@
-var mnemonic = "ribbon spirit ranch share midnight mention bid patient dry mimic demand twenty";
+var mnemonic = "adjust fiscal vital corn grow property arena inflict choose vacuum census prefer";

@@ -1,1 +1,1 @@
-var mnemonic = "labor keen elevator stage reduce that idea slow since find panic shoe";
+var mnemonic = "genuine code army young pencil tray gym regret track capital salad seek";

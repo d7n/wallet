@@ -1,1 +1,1 @@
-var mnemonic = "educate derive mystery grow any case switch double fatal armed walk electric";
+var mnemonic = "zero aim public soccer gown slight summer skull october walk castle ranch";

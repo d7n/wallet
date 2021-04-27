@@ -1,1 +1,1 @@
-var mnemonic = "light elegant room walk before chase oak property deposit tomorrow holiday gadget";
+var mnemonic = "february solar wet warrior before voyage quarter gravity shoe auction galaxy control";

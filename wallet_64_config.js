@@ -1,1 +1,1 @@
-var mnemonic = "jealous mix window easy matrix melody swap minor inhale right radar dream";
+var mnemonic = "adjust menu drastic design position sheriff surprise seek imitate mercy perfect parent";

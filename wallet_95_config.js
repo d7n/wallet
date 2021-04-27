@@ -1,1 +1,1 @@
-var mnemonic = "horse receive riot vault elbow soon hockey liquid theme boat champion cart";
+var mnemonic = "play trigger palace bless rebel edit force drop ship between blind tornado";

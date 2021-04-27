@@ -1,1 +1,1 @@
-var mnemonic = "harvest crop curtain light glove rice gather guess settle away version damp";
+var mnemonic = "goat rely elevator foam cry pepper skill laptop hurdle exile month mosquito";
