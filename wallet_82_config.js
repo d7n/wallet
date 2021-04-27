@@ -1,1 +1,1 @@
-var mnemonic = "ready ignore oil envelope solve happy urban action sustain heart supreme desk";
+var mnemonic = "empower fruit people sense october pole grab summer minor album family spend";

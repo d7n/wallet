@@ -1,1 +1,1 @@
-var mnemonic = "install mixed jaguar vapor seed omit man vocal moment repair brush fence";
+var mnemonic = "result atom offer distance guitar meat mind bulk blast kid beef either";

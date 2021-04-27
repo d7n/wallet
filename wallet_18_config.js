@@ -1,1 +1,1 @@
-var mnemonic = "devote melody hybrid tomorrow gaze armor cluster extend guitar museum twin boss";
+var mnemonic = "various length valid long city clinic choose roof tray battle airport hammer";

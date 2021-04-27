@@ -1,1 +1,1 @@
-var mnemonic = "build area wine rule spare stadium tail meat cradle direct bacon pumpkin";
+var mnemonic = "current capable process survey alley rule genre trash joy title regret select";

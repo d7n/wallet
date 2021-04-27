@@ -1,1 +1,1 @@
-var mnemonic = "length valid swing frame trade album time pistol repeat carbon neck raw";
+var mnemonic = "artwork document usage exist enemy kiss dog veteran boost weird bone amused";

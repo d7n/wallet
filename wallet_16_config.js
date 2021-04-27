@@ -1,1 +1,1 @@
-var mnemonic = "hole fork direct trick trumpet desert oppose dry bargain deputy stomach viable";
+var mnemonic = "puppy depth marriage globe patient number meadow negative same like turkey diary";

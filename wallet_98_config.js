@@ -1,1 +1,1 @@
-var mnemonic = "effort vocal enter balance city typical copper giggle nest crystal remind industry";
+var mnemonic = "hockey sleep miss final reduce tent immense scout hazard boy simple gesture";

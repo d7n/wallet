@@ -1,1 +1,1 @@
-var mnemonic = "wheat mule analyst cost orient elite attitude once client put decade harbor";
+var mnemonic = "expect relief lunar collect try old horn smoke charge fly offer leopard";

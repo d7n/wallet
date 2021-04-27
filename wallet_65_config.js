@@ -1,1 +1,1 @@
-var mnemonic = "decide pair rug anger aisle magic snack exclude damage noodle evil subway";
+var mnemonic = "file vote bean insane duty monitor hamster smart year they sense core";

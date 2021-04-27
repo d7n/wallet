@@ -1,1 +1,1 @@
-var mnemonic = "dinner logic tumble tag enlist life toddler filter minor okay swap position";
+var mnemonic = "patient patrol shoe assume leg icon flip indicate inject labor depend task";

@@ -1,1 +1,1 @@
-var mnemonic = "setup calm inmate fossil tattoo visual devote bridge wreck online ceiling drive";
+var mnemonic = "infant solid nose blanket sniff goat grow receive elephant bamboo fox lonely";

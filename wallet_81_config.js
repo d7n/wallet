@@ -1,1 +1,1 @@
-var mnemonic = "floor amount romance ankle peanut country absent blur echo then this course";
+var mnemonic = "nice excess off empty orbit dynamic oil damp bike gasp decorate hat";

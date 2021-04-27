@@ -1,1 +1,1 @@
-var mnemonic = "scrub cushion sorry useful garlic damp edge virus farm weird coin render";
+var mnemonic = "arrow crack logic rude hurt access wasp skill friend lion reform input";

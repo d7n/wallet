@@ -1,1 +1,1 @@
-var mnemonic = "surround engine exit gospel forget possible expand sell range cook dynamic crunch";
+var mnemonic = "earth maid video can strong polar indicate solve boat enact timber guess";

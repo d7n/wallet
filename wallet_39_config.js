@@ -1,1 +1,1 @@
-var mnemonic = "animal beyond art book loop any hotel merit bamboo common reject canvas";
+var mnemonic = "around monitor attract divorce gate merit exercise minimum clap twenty crazy valley";

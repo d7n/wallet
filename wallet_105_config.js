@@ -1,1 +1,1 @@
-var mnemonic = "gather husband winner swallow top secret artist chronic science prefer mountain dignity";
+var mnemonic = "hamster convince ribbon vacant width advice dirt warm pact egg soccer blade";

@@ -1,1 +1,1 @@
-var mnemonic = "crash foil notable worth inject card wish arrest flag empty gravity spike";
+var mnemonic = "live canoe coil winner swamp system wall castle rude member absurd child";

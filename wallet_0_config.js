@@ -1,1 +1,1 @@
-var mnemonic = "jewel match infant describe verify news now diary annual drink market old";
+var mnemonic = "taxi achieve economy execute burden phone burger title spy ski dizzy journey";

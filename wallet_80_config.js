@@ -1,1 +1,1 @@
-var mnemonic = "amateur gain pyramid tennis deputy switch until velvet kitchen tonight twelve acid";
+var mnemonic = "wrap zebra either goddess stick donate spread unknown confirm matrix siege clog";

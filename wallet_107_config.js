@@ -1,1 +1,1 @@
-var mnemonic = "anchor struggle venue top ginger brother upper virus viable square convince pole";
+var mnemonic = "announce march immense relief ready forum column live gym pledge under city";

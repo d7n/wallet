@@ -1,1 +1,1 @@
-var mnemonic = "okay purity giggle wool host autumn tool grass exist secret wish what";
+var mnemonic = "hope tired wear dust blouse you fuel video balance source jewel leave";

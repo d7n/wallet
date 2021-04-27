@@ -1,1 +1,1 @@
-var mnemonic = "beef nephew glass habit volume sister galaxy crumble put outside magic pottery";
+var mnemonic = "betray fringe blood kit lecture common stool this into crawl lawn fix";

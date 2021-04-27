@@ -1,1 +1,1 @@
-var mnemonic = "phrase glue network spider category brush loyal puppy sense canyon innocent oyster";
+var mnemonic = "address era service wink energy coach duck poverty grit cabin clarify excuse";

@@ -1,1 +1,1 @@
-var mnemonic = "crack noodle slice wisdom hold box artefact bronze train august sleep addict";
+var mnemonic = "give wasp intact special large brother excite own push fat skill hold";

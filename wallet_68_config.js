@@ -1,1 +1,1 @@
-var mnemonic = "pretty sea claim recipe shoulder pretty trophy butter divide viable discover muscle";
+var mnemonic = "govern few inspire rival cause wrestle theory tiny flock drop bag crunch";

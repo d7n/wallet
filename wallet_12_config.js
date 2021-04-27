@@ -1,1 +1,1 @@
-var mnemonic = "fire entry minimum teach primary bamboo sleep beach dad loud cricket tiger";
+var mnemonic = "useless kid open mouse region expand sister text genius brief error hurry";

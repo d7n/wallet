@@ -1,1 +1,1 @@
-var mnemonic = "drop settle seven vast lecture jealous hospital risk step fame trip maze";
+var mnemonic = "degree girl three dolphin ghost two drill fitness excite faculty breeze body";

@@ -1,1 +1,1 @@
-var mnemonic = "hero response helmet pilot broken field later dance general west prevent cargo";
+var mnemonic = "sudden orphan detect record shiver memory gauge super same dice quarter pluck";

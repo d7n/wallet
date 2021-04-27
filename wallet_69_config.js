@@ -1,1 +1,1 @@
-var mnemonic = "whale blue decrease collect light glide off lesson gold they metal burger";
+var mnemonic = "day myth arm man smart pear rack access game runway mobile uniform";

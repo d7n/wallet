@@ -1,1 +1,1 @@
-var mnemonic = "goose bus display dream consider spread odor pond neglect minute rude pattern";
+var mnemonic = "exit detect become camp alarm ensure reform raven sniff crew dinosaur indicate";

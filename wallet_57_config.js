@@ -1,1 +1,1 @@
-var mnemonic = "sketch cause describe humble catch outside huge author urge much forward destroy";
+var mnemonic = "elephant history worry unable universe virtual chat candy lucky harbor interest rose";

@@ -1,1 +1,1 @@
-var mnemonic = "carpet ramp cement major wife among habit cook can output clump wall";
+var mnemonic = "weather much mango divide sea rabbit glue monkey gesture caution reject cradle";

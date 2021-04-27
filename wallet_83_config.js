@@ -1,1 +1,1 @@
-var mnemonic = "nothing erase trial hero actor give close similar cause toss dutch glue";
+var mnemonic = "crazy kiwi debate slight palm depart hotel safe knee book evolve void";

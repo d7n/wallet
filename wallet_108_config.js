@@ -1,1 +1,1 @@
-var mnemonic = "pond again jump leisure reveal deputy remind wire drive battle daring extra";
+var mnemonic = "poet whale label exotic broom thunder payment quote brave amateur force narrow";

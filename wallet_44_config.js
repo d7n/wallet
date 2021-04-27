@@ -1,1 +1,1 @@
-var mnemonic = "equal fruit pledge climb pencil rabbit village math tuition rally embark install";
+var mnemonic = "south retreat prosper concert merit major coast atom company arena door taxi";

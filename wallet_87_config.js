@@ -1,1 +1,1 @@
-var mnemonic = "potato approve monkey chase tobacco pride attack engage supreme state crazy mixture";
+var mnemonic = "team regular hurry tag wrestle sight canvas describe casino proud total try";

@@ -1,1 +1,1 @@
-var mnemonic = "brave enough theme cake chaos expire turkey middle still unfair citizen situate";
+var mnemonic = "square control seed vessel demand boat chat stuff reveal unaware cream drop";

@@ -1,1 +1,1 @@
-var mnemonic = "choose right honey jelly faith material jungle spike enact lion episode pill";
+var mnemonic = "essence glance excess jealous remind canvas early then sea wasp mind cinnamon";

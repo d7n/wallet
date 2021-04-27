@@ -1,1 +1,1 @@
-var mnemonic = "ridge desk unfold table pledge company govern swing tennis oval metal subway";
+var mnemonic = "time rich wolf service ring upgrade glad ten spider click easily garment";

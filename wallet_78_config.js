@@ -1,1 +1,1 @@
-var mnemonic = "fetch april mention stable peasant cute math okay dignity consider cheese crack";
+var mnemonic = "column insect dragon apart hat sudden lizard glove search organ enable pill";

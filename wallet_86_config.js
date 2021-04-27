@@ -1,1 +1,1 @@
-var mnemonic = "mansion street very father frog ivory isolate couple burden leave meadow year";
+var mnemonic = "hurt girl wing hill play blouse museum knee upgrade bracket expose night";

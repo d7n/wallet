@@ -1,1 +1,1 @@
-var mnemonic = "physical dolphin chef aerobic account horn east maple matrix owner else describe";
+var mnemonic = "excuse wash robot coach gift mind predict limit unable essay chat prison";

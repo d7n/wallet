@@ -1,1 +1,1 @@
-var mnemonic = "shed lemon lyrics tiger climb mammal dust minor wrist absorb minute script";
+var mnemonic = "fall enough senior zone brisk armed street asthma image same merry sea";

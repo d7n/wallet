@@ -1,1 +1,1 @@
-var mnemonic = "term flavor combine struggle call open host cat duty scare hover venture";
+var mnemonic = "case immense limb wolf once deer napkin tragic provide promote rib pioneer";

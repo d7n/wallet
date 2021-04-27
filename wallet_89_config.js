@@ -1,1 +1,1 @@
-var mnemonic = "donate curious ski wide derive apology person truth surface host coast resemble";
+var mnemonic = "boost also prevent adapt salmon water speed lounge toy lift all clap";

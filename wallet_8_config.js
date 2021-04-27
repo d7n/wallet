@@ -1,1 +1,1 @@
-var mnemonic = "bicycle dress leader aware clump panther cigar accuse evil rural fence senior";
+var mnemonic = "anchor tunnel tragic aware more various sand surprise broccoli blue abandon usage";

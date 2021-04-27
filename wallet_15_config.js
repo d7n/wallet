@@ -1,1 +1,1 @@
-var mnemonic = "tiger leaf symptom brisk bunker tuition debris useless attack mirror rude glory";
+var mnemonic = "castle scrub always company hospital infant dinner sibling frozen salt myself million";

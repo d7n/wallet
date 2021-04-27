@@ -1,1 +1,1 @@
-var mnemonic = "jelly someone mechanic north phone health tumble side north fade appear couple";
+var mnemonic = "gather tone door truth seed thank slight hobby arrest warrior giggle clap";

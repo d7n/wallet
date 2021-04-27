@@ -1,1 +1,1 @@
-var mnemonic = "half exchange hire device push tenant benefit today cake outdoor uncle believe";
+var mnemonic = "coil give stock calm multiply miss trim ask correct moon shove fashion";

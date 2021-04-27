@@ -1,1 +1,1 @@
-var mnemonic = "elegant vocal setup soccer below tornado matter enjoy oppose rich asset arrow";
+var mnemonic = "actor jazz city festival dirt snack can raw artefact ethics battle unhappy";

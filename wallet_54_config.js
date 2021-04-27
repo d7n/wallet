@@ -1,1 +1,1 @@
-var mnemonic = "chalk grape excess unveil screen rescue sense science void repair purchase seminar";
+var mnemonic = "true panic fee twice giant expect disorder speak squeeze bulk neutral trend";

@@ -1,1 +1,1 @@
-var mnemonic = "mercy liar false erosion direct project boy slight blouse youth engine primary";
+var mnemonic = "purity forest coast lock stereo kitten shoulder deal cliff edit afraid onion";

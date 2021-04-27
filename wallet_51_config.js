@@ -1,1 +1,1 @@
-var mnemonic = "core sport sample accuse winter disagree tomorrow zebra salute soap animal clock";
+var mnemonic = "betray fuel battle cousin change unhappy census urge offer nation skin cactus";

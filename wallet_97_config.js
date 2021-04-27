@@ -1,1 +1,1 @@
-var mnemonic = "rally pattern young expect metal autumn burger frog adult glad middle meat";
+var mnemonic = "front hedgehog ensure mom hamster cheap festival giant spoon will average knee";

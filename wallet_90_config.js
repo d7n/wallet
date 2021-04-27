@@ -1,1 +1,1 @@
-var mnemonic = "more kiss ahead taxi plug bridge stable aim orient science celery mixture";
+var mnemonic = "disagree mechanic swim range poverty case ritual limit glimpse book seminar bundle";

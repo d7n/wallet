@@ -1,1 +1,1 @@
-var mnemonic = "test border youth spread type pledge receive pyramid flat eternal want gospel";
+var mnemonic = "tonight cheap planet require best inherit rescue caution universe average dice match";

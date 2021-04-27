@@ -1,1 +1,1 @@
-var mnemonic = "dune ship turkey comfort bargain tail expand penalty news decorate flip gaze";
+var mnemonic = "auction because connect source rib blanket pluck number put author fun spirit";

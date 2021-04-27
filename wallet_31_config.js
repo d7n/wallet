@@ -1,1 +1,1 @@
-var mnemonic = "already okay broccoli smooth sure gorilla ethics device crane wear phone gossip";
+var mnemonic = "stairs acid art torch length dog reduce alert spread stumble woman industry";

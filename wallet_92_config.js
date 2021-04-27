@@ -1,1 +1,1 @@
-var mnemonic = "filter prize moment pioneer need talk repeat horror ring police obtain stamp";
+var mnemonic = "spoil knee accuse hunt lens grow bus book leg truly thank say";

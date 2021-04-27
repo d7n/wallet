@@ -1,1 +1,1 @@
-var mnemonic = "transfer famous goose never orange gentle globe outdoor wheel come tobacco margin";
+var mnemonic = "rebel reduce eight garage reason female indoor arena bomb another try wrestle";

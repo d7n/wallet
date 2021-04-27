@@ -1,1 +1,1 @@
-var mnemonic = "disagree today slow dash client flower monkey early bounce uncle exhaust brown";
+var mnemonic = "sun across route plate taste catalog thought stage absorb fringe thank brisk";

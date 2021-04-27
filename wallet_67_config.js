@@ -1,1 +1,1 @@
-var mnemonic = "diesel six army satoshi absurd army dice warm roof phrase cabbage renew";
+var mnemonic = "smooth evolve warm swift long sign off assault damage shuffle tackle mix";

@@ -1,1 +1,1 @@
-var mnemonic = "sting shed minor cook shoe require bird kitchen rule fall shove observe";
+var mnemonic = "asset river argue exclude suffer update behind magic carry bar fashion range";

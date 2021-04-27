@@ -1,1 +1,1 @@
-var mnemonic = "gallery room vacant rally solar rent dismiss buffalo left near twist much";
+var mnemonic = "limb blush switch alley funny cloud slow breeze type bicycle near split";

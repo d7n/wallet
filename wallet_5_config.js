@@ -1,1 +1,1 @@
-var mnemonic = "way relief tent beach clap exercise poverty country angle wood eternal spoon";
+var mnemonic = "ethics people memory easy indoor sort risk alarm aerobic sick supply valid";

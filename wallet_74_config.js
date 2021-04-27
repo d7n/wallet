@@ -1,1 +1,1 @@
-var mnemonic = "picnic song service topple display physical humor mix pony guess scout minute";
+var mnemonic = "super giant olive absorb bus dignity heavy address miss measure sudden shadow";

@@ -1,1 +1,1 @@
-var mnemonic = "exercise medal win off piece enrich exotic movie prepare amused taste light";
+var mnemonic = "dune draw bar vague benefit office arrange rifle second electric burden repair";

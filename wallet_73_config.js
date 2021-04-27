@@ -1,1 +1,1 @@
-var mnemonic = "amount avoid relief saddle runway pattern early income twist gap pencil orbit";
+var mnemonic = "arrange cycle chuckle state together ball monster ripple giant suspect praise else";

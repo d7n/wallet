@@ -1,1 +1,1 @@
-var mnemonic = "nation bleak notable salad win shoe old evolve cycle price unit toast";
+var mnemonic = "session ghost exact happy neither what rural guard defense arrive label tumble";

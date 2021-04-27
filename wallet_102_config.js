@@ -1,1 +1,1 @@
-var mnemonic = "wall staff gate give diamond pluck ship glide canyon pattern race keep";
+var mnemonic = "wash eyebrow food market cushion night celery march famous patient blast will";

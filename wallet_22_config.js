@@ -1,1 +1,1 @@
-var mnemonic = "sponsor satisfy lava vault knife lamp reopen consider chicken true file grit";
+var mnemonic = "clump nation ability nest much peanut burden mention struggle gain morning develop";

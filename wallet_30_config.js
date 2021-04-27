@@ -1,1 +1,1 @@
-var mnemonic = "warm lawn rural round anchor problem daughter pact enroll rebuild stuff move";
+var mnemonic = "report glance pool inside bus protect emerge remember crumble useless country where";

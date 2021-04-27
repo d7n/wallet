@@ -1,1 +1,1 @@
-var mnemonic = "cargo object cross miss cream rebel host cloud copy slice path spray";
+var mnemonic = "galaxy satoshi midnight answer bridge multiply cute derive image opinion speed soft";

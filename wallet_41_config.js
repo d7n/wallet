@@ -1,1 +1,1 @@
-var mnemonic = "engine enact clock gap flock alien social rookie glory walk error decide";
+var mnemonic = "forum unhappy add fever lady wrist explain priority nice snack buddy fork";

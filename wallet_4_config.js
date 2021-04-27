@@ -1,1 +1,1 @@
-var mnemonic = "turkey marble report lady hidden naive inhale tunnel shoulder apology quality give";
+var mnemonic = "bottom copper siren basic lady power chicken town buffalo round critic riot";

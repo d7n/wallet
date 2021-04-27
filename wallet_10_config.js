@@ -1,1 +1,1 @@
-var mnemonic = "great acoustic exhaust enjoy cheese shoulder film hard badge arch claw height";
+var mnemonic = "spend bag expect bridge walk rhythm heart token dial loan kingdom update";

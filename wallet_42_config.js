@@ -1,1 +1,1 @@
-var mnemonic = "kite reflect high oxygen card always orchard hollow learn ladder hub hurry";
+var mnemonic = "skull ghost dress picnic cheese enact cushion multiply grid mechanic donate parrot";

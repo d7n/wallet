@@ -1,1 +1,1 @@
-var mnemonic = "swap gentle lonely imitate journey mix gap parrot ketchup ignore upset sibling";
+var mnemonic = "pupil witness offer usual occur knife dream miracle escape despair doctor wage";

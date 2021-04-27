@@ -1,1 +1,1 @@
-var mnemonic = "island spike holiday van advance album outdoor script sustain firm learn balance";
+var mnemonic = "swamp tissue organ bean major pave write speak cable scout upgrade injury";

@@ -1,1 +1,1 @@
-var mnemonic = "cluster timber health hazard shove radar glad nominee clarify seminar void orange";
+var mnemonic = "aware mask busy donkey gravity tornado field lazy lock direct engage flat";

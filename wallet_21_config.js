@@ -1,1 +1,1 @@
-var mnemonic = "face legal equal energy ketchup into exercise main fold awful potato village";
+var mnemonic = "ask chat expect process tackle goose indicate inhale convince cotton feature exclude";

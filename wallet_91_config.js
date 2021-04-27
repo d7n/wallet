@@ -1,1 +1,1 @@
-var mnemonic = "bind stumble simple exhibit shine solve color boring dish inmate era range";
+var mnemonic = "season hobby cattle congress fiscal depart glide soda draw swallow sunny neck";

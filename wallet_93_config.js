@@ -1,1 +1,1 @@
-var mnemonic = "roast industry victory sing hidden assume pet age easily second major intact";
+var mnemonic = "tone umbrella spread modify iron drink letter trust attack soldier news indicate";

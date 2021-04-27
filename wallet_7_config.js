@@ -1,1 +1,1 @@
-var mnemonic = "praise sweet hub patch gorilla success net ranch title derive innocent frog";
+var mnemonic = "blood true silk couch leg planet buzz hungry arctic enroll only aunt";

@@ -1,1 +1,1 @@
-var mnemonic = "random coil obtain faith siege thank aspect museum phone near tone impose";
+var mnemonic = "leg inch person dragon kick onion sense shaft extra legal float indoor";

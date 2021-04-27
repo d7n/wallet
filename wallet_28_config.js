@@ -1,1 +1,1 @@
-var mnemonic = "heavy town message coil cover text horn fashion fine very grid lock";
+var mnemonic = "into street disorder abandon border country price rough sea admit brain energy";

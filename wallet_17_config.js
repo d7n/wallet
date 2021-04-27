@@ -1,1 +1,1 @@
-var mnemonic = "yard game age input toe decide earth shrimp river supply employ caught";
+var mnemonic = "reject fold dry canyon area fiction consider oppose absorb hammer romance goddess";

@@ -1,1 +1,1 @@
-var mnemonic = "chapter six receive baby over wisdom nose front barrel grow earn core";
+var mnemonic = "coral screen blame task trend route once stamp trust youth wood orphan";

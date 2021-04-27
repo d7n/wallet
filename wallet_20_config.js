@@ -1,1 +1,1 @@
-var mnemonic = "educate typical exhaust spread salute park present slight middle lab blossom enough";
+var mnemonic = "chicken scare uphold dose team motor casino oxygen either wrist escape wide";

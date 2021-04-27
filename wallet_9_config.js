@@ -1,1 +1,1 @@
-var mnemonic = "wrist peasant task nothing ball soul already lawn arrive pool noise ride";
+var mnemonic = "space symbol injury visit romance shrug profit shell exist usual dance advice";
