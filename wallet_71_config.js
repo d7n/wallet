@@ -1,1 +1,1 @@
-var mnemonic = "novel behind worry rookie film forest scrub quarter breeze blame chef zone";
+var mnemonic = "curtain fashion pledge minimum seek naive ramp camp thrive boil month rookie";

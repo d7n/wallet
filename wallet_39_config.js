@@ -1,1 +1,1 @@
-var mnemonic = "normal pigeon earn chapter casual effort fury renew worry mistake need narrow";
+var mnemonic = "electric video detail kangaroo border patrol suggest december detect toast daughter reason";

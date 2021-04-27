@@ -1,1 +1,1 @@
-var mnemonic = "observe check federal quiz burden warrior nest olympic glory shrug crouch rubber";
+var mnemonic = "resist vessel sunny opera cost celery twice worth fitness drum fault net";

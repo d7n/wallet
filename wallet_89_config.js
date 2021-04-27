@@ -1,1 +1,1 @@
-var mnemonic = "barrel under laundry tiger menu good ivory risk clever concert risk unhappy";
+var mnemonic = "evidence suggest auction rack toddler rib approve accident indicate remind dance pyramid";

@@ -1,1 +1,1 @@
-var mnemonic = "april uphold head ivory mixture crisp work artist sunset scout inherit hair";
+var mnemonic = "muscle exit outer tomorrow match install seek net polar shop diet tiny";

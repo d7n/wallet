@@ -1,1 +1,1 @@
-var mnemonic = "hybrid december speak silver uncle book paddle fluid true puzzle you wink";
+var mnemonic = "mechanic grit raise vapor pond treat faith treat donkey someone smoke often";

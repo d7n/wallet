@@ -1,1 +1,1 @@
-var mnemonic = "example thought robust mango spatial verify music focus grid also once bounce";
+var mnemonic = "bring taxi small ladder laundry equip fire boring kiss girl parent saddle";

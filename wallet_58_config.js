@@ -1,1 +1,1 @@
-var mnemonic = "nuclear ship soccer neutral zoo soup gossip remind blue divorce cage script";
+var mnemonic = "rare venture bonus mammal unaware describe trial hill advice raw inspire work";

@@ -1,1 +1,1 @@
-var mnemonic = "ski steak opera prize much manage opera discover wish surround toddler similar";
+var mnemonic = "near gloom theme burden million clap tongue bleak wealth limit glove good";

@@ -1,1 +1,1 @@
-var mnemonic = "sponsor case regular protect seat lady trip certain helmet alone poet hold";
+var mnemonic = "glide reunion mango banner liar minimum innocent abstract adjust language differ find";

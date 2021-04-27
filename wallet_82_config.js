@@ -1,1 +1,1 @@
-var mnemonic = "abandon ethics power pear swamp alien section boring happy glass demand curtain";
+var mnemonic = "grid firm torch grape rice spy impose parent era sail that apart";

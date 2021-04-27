@@ -1,1 +1,1 @@
-var mnemonic = "betray love cook guide leisure million ocean invest asthma wink poem defense";
+var mnemonic = "dose course engage pact cloth someone fine finger above enrich chunk wise";

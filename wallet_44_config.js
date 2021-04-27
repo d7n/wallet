@@ -1,1 +1,1 @@
-var mnemonic = "venue skate toward below goddess camp earth pioneer laptop illegal ball catch";
+var mnemonic = "power assault range equal boy age lamp tilt write require kitten alien";

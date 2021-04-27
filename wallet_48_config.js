@@ -1,1 +1,1 @@
-var mnemonic = "leg kite zero process cage cart cattle car trade weasel opera allow";
+var mnemonic = "primary post current close prefer imitate picnic hero slim cabbage reflect work";

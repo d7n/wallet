@@ -1,1 +1,1 @@
-var mnemonic = "minimum inside marriage theme salute dwarf language profit latin later math obscure";
+var mnemonic = "snow phone rescue firm squeeze captain syrup crane april extra anger ready";

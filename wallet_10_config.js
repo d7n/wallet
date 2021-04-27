@@ -1,1 +1,1 @@
-var mnemonic = "lumber spring around chicken polar tuna stove canvas coffee start burger educate";
+var mnemonic = "observe ring pelican super accuse episode blind boy category sun shell love";

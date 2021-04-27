@@ -1,1 +1,1 @@
-var mnemonic = "vendor pumpkin prize long client process damp unique purchase force mad sleep";
+var mnemonic = "legal scale employ head seat attend anxiety silk knee hour better hole";

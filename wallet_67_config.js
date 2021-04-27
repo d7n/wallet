@@ -1,1 +1,1 @@
-var mnemonic = "cross one artist prize maze excuse broom subway food federal blanket provide";
+var mnemonic = "sketch sniff unaware giant poverty boy burden soft secret humble sure medal";

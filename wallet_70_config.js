@@ -1,1 +1,1 @@
-var mnemonic = "chimney shield awake crane borrow slot seven urge multiply garden wise patrol";
+var mnemonic = "index caught biology athlete paper echo dune clown ecology palace spirit ski";

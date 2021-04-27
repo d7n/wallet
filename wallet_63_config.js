@@ -1,1 +1,1 @@
-var mnemonic = "salt intact gold book economy middle mandate lonely member cement carbon power";
+var mnemonic = "close mixture delay inner wage endorse burst machine visit cupboard follow stool";

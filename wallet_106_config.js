@@ -1,1 +1,1 @@
-var mnemonic = "panda game horse drink sport water barrel come begin gasp more twice";
+var mnemonic = "error manage news ankle crumble tomato spatial bean dog access round meat";

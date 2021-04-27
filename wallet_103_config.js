@@ -1,1 +1,1 @@
-var mnemonic = "author sand dynamic benefit print ancient arch napkin hour math taste lunar";
+var mnemonic = "shrimp more earth immense title feature fly session prosper change toward garlic";

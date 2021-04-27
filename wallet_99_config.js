@@ -1,1 +1,1 @@
-var mnemonic = "angry gather senior ranch weird ginger episode alien cat example click harbor";
+var mnemonic = "coin civil carpet two flat then vicious combine remember juice heavy harbor";

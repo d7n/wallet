@@ -1,1 +1,1 @@
-var mnemonic = "bus aisle diagram derive trumpet daring trick rapid today holiday remember bleak";
+var mnemonic = "scan orange update fan lesson aware picture suspect bitter economy hill useful";

@@ -1,1 +1,1 @@
-var mnemonic = "pen olympic lady vacuum stool general bench arrest cliff return globe legal";
+var mnemonic = "exchange analyst quarter inch tree cost squirrel brush indoor alcohol anger odor";

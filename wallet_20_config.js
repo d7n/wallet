@@ -1,1 +1,1 @@
-var mnemonic = "space sauce twice stumble enlist monkey marine circle treat edit latin churn";
+var mnemonic = "word token chaos afraid omit age emotion ten give shield glance craft";

@@ -1,1 +1,1 @@
-var mnemonic = "home olive blade wave recall lumber jewel major pizza sun cheap cluster";
+var mnemonic = "know stereo dash panda beach organ math stay clerk have rent person";

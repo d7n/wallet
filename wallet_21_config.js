@@ -1,1 +1,1 @@
-var mnemonic = "close recall choice art barely holiday castle crater combine olive allow lucky";
+var mnemonic = "brisk lion aware science marine pave force afford shield detail shrug notice";

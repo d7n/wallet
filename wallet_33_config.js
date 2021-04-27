@@ -1,1 +1,1 @@
-var mnemonic = "cushion apple oxygen foster giant discover warfare else cute unusual burst resist";
+var mnemonic = "unusual mandate mixed remember shove shallow disorder math marble float canyon club";

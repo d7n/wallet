@@ -1,1 +1,1 @@
-var mnemonic = "upgrade leisure kidney miracle syrup situate cycle region select dry mutual nurse";
+var mnemonic = "express imitate sudden wrestle outside symbol bitter flame toward destroy moral actress";

@@ -1,1 +1,1 @@
-var mnemonic = "rubber merry point wear seminar display purpose plug hour chat misery lens";
+var mnemonic = "ugly movie sting divorce tuna topic elite gather remove alone power mouse";

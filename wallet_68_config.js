@@ -1,1 +1,1 @@
-var mnemonic = "rabbit year bomb fringe broom put steel wink reflect insect valve fit";
+var mnemonic = "family carpet pepper tray explain faculty feed phone drill text pen frequent";

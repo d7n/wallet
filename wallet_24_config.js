@@ -1,1 +1,1 @@
-var mnemonic = "bargain thunder element sad orchard evil swamp letter impulse loyal kitchen ribbon";
+var mnemonic = "pledge provide buzz effort flat coral faculty alcohol airport time puzzle family";

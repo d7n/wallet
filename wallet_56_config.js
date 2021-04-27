@@ -1,1 +1,1 @@
-var mnemonic = "evidence level add lumber rival muscle rail display appear crumble hero put";
+var mnemonic = "chest ozone split danger rebuild cool search case quarter ankle embark service";

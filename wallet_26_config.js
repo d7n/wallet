@@ -1,1 +1,1 @@
-var mnemonic = "found ahead company lend gather general response guess crystal oil salmon average";
+var mnemonic = "zoo duty sibling loop what margin trigger stock enforce vibrant unit barely";

@@ -1,1 +1,1 @@
-var mnemonic = "tortoise edge winner moon april minor blouse course lunar image imitate bulk";
+var mnemonic = "boy park fruit detect slam table wrong buzz music arrange domain observe";

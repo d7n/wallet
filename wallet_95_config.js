@@ -1,1 +1,1 @@
-var mnemonic = "obey field frozen wrap essence circle enrich grant switch kitten mouse stuff";
+var mnemonic = "muscle clock mammal stone company ramp cement group exclude mistake abstract theme";

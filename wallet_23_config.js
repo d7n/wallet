@@ -1,1 +1,1 @@
-var mnemonic = "basic clock timber educate coil disagree kick gift balcony wire imitate soft";
+var mnemonic = "chaos marine borrow over when allow grace visit output battle vicious post";

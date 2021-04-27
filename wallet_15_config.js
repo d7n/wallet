@@ -1,1 +1,1 @@
-var mnemonic = "solution forest copy change face square bargain lunch glass summer radar cup";
+var mnemonic = "risk junior note finger tunnel wonder only flat inch update boat end";

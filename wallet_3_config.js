@@ -1,1 +1,1 @@
-var mnemonic = "educate certain note vote head solar okay meadow you choose priority silly";
+var mnemonic = "seminar struggle noodle blood actual never bless famous orient glow adjust average";

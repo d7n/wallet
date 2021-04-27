@@ -1,1 +1,1 @@
-var mnemonic = "truck govern apart resist hurdle average spin always shadow share desert vicious";
+var mnemonic = "short portion length auto recipe obey viable ranch hammer wage depend enforce";

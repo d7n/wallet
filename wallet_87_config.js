@@ -1,1 +1,1 @@
-var mnemonic = "winter thought word faith scout stable quit key patrol spot job educate";
+var mnemonic = "satisfy leisure unhappy always metal fatal crouch abandon credit health provide cry";

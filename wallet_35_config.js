@@ -1,1 +1,1 @@
-var mnemonic = "cup marble olive ugly repeat account float slot install problem gesture era";
+var mnemonic = "glance debate number scan uphold roof joy oak east inspire guilt manual";

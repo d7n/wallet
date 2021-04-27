@@ -1,1 +1,1 @@
-var mnemonic = "guitar hint mention park sustain humor garment popular captain bean share escape";
+var mnemonic = "adapt escape cigar juice express beef cruel upper gloom jeans raise wonder";

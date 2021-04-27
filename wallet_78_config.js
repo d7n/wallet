@@ -1,1 +1,1 @@
-var mnemonic = "gesture garage limit cushion project decide initial keep raise boat float outdoor";
+var mnemonic = "glimpse enjoy sheriff south tortoise educate captain nuclear valid chuckle minimum shiver";

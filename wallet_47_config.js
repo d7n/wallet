@@ -1,1 +1,1 @@
-var mnemonic = "wasp assume similar work rose hand twelve fatal electric enough slight crystal";
+var mnemonic = "surround novel long across cycle follow lake urban seven hood shy panic";

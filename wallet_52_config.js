@@ -1,1 +1,1 @@
-var mnemonic = "demand gym hand local wedding unknown kid journey explain govern shock require";
+var mnemonic = "intact innocent elite issue ribbon ridge tray pupil auto term project off";

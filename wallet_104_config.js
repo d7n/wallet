@@ -1,1 +1,1 @@
-var mnemonic = "range purse region clarify grid camp hope lake cart blame reflect lake";
+var mnemonic = "ginger exotic fatigue move battle general embrace cube rescue marble valve glance";

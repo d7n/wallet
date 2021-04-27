@@ -1,1 +1,1 @@
-var mnemonic = "ordinary deny tooth buddy swear honey pistol jump unusual twin despair tomorrow";
+var mnemonic = "rhythm mixed chimney obey satisfy joke exclude hawk multiply history flame spread";

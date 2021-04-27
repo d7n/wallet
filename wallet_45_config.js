@@ -1,1 +1,1 @@
-var mnemonic = "income merge retreat spawn boy dawn uniform summer trouble summer young model";
+var mnemonic = "way arctic video leader wagon road bind suit kitten submit cement excess";

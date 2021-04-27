@@ -1,1 +1,1 @@
-var mnemonic = "gown forward diagram river elder buyer drill hole unfair hotel screen march";
+var mnemonic = "gossip awkward feed section exhaust good under orient rookie stable twice science";

@@ -1,1 +1,1 @@
-var mnemonic = "stem legal wagon mimic collect army vote segment wash armed photo rice";
+var mnemonic = "quick hunt cement embrace common box cart potato person wool distance width";

@@ -1,1 +1,1 @@
-var mnemonic = "moon ring minute tower twice lobster strong click creek snap blue stay";
+var mnemonic = "rebel noodle vague fantasy two fault top connect practice crush wild quantum";

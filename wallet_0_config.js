@@ -1,1 +1,1 @@
-var mnemonic = "oval bracket ship loyal daughter tail mistake recall found swallow foster bind";
+var mnemonic = "nose table nothing unhappy fish marble surprise require blame hockey enrich scan";

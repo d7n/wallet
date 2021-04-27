@@ -1,1 +1,1 @@
-var mnemonic = "rubber bleak style wrap arctic expect tuition just transfer segment maximum balcony";
+var mnemonic = "ginger dynamic young proof seminar luggage inflict joy soon planet slab arrest";

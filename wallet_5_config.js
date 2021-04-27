@@ -1,1 +1,1 @@
-var mnemonic = "scale pen pony super below broken deliver clog supply surge truly plunge";
+var mnemonic = "sentence truth unique hammer matrix tooth code seed suggest tomato tornado frog";

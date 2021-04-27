@@ -1,1 +1,1 @@
-var mnemonic = "minor scrub escape gain satisfy novel myself six clutch shrug measure mention";
+var mnemonic = "chuckle cement monkey drip address acquire humble tray ball glue antique rebuild";

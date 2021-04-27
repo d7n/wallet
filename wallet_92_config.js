@@ -1,1 +1,1 @@
-var mnemonic = "swear below great oil aisle pear arrive hungry rubber one milk clarify";
+var mnemonic = "quality divide mule rescue grunt busy alpha lens need salad melody renew";

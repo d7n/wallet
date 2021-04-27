@@ -1,1 +1,1 @@
-var mnemonic = "target drama elegant horror eager faint delay name false mandate clever wagon";
+var mnemonic = "exhibit silk isolate school rival rigid movie build dolphin receive entry inherit";

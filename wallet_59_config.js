@@ -1,1 +1,1 @@
-var mnemonic = "sign rookie isolate frequent mind exhaust crystal citizen leg battle cage rail";
+var mnemonic = "material jazz outer weapon clean spell globe parrot earn face rare general";

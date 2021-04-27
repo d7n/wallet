@@ -1,1 +1,1 @@
-var mnemonic = "piece deliver wedding midnight return story eternal deer soon turtle whale glue";
+var mnemonic = "odor lamp deal sea own boost pony future tuna dentist corn hurt";

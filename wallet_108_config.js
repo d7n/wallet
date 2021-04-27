@@ -1,1 +1,1 @@
-var mnemonic = "push place window again enter member minor elite wheat gospel spread alpha";
+var mnemonic = "clown final slam team often push dizzy reduce people pink insane eyebrow";

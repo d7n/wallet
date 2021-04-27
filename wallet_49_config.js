@@ -1,1 +1,1 @@
-var mnemonic = "fat blade duty urge joke reform original future scrub beach divide alien";
+var mnemonic = "fog parade canal lecture brick armor fatigue thumb boost emerge destroy pet";

@@ -1,1 +1,1 @@
-var mnemonic = "silent release diary toss engage swap snack outside blanket mask range physical";
+var mnemonic = "million antique battle push report home shove bleak retire truck stay organ";

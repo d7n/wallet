@@ -1,1 +1,1 @@
-var mnemonic = "weather chest cruel behave bid give valve air when drop expect cloth";
+var mnemonic = "sick sight author pigeon hire thought erupt celery bracket cruel budget ostrich";

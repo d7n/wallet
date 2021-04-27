@@ -1,1 +1,1 @@
-var mnemonic = "cause destroy link poem pilot bronze horn blossom base bulb episode balance";
+var mnemonic = "spend stone pepper before zero unique asthma ball fragile knife tube planet";

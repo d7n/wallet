@@ -1,1 +1,1 @@
-var mnemonic = "brief room kangaroo umbrella deliver inform better feel enjoy slab skull diamond";
+var mnemonic = "ten swing tissue potato bean salute peace castle choice member owner guilt";

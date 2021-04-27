@@ -1,1 +1,1 @@
-var mnemonic = "client face cattle about evil flat walk village sleep lunar whisper valley";
+var mnemonic = "boy exercise siege sign victory radio tape wrap picnic where speak beauty";

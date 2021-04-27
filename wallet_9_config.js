@@ -1,1 +1,1 @@
-var mnemonic = "nation tackle bullet cushion today brain buddy culture alter happy fabric agent";
+var mnemonic = "tooth legal entry gloom brass arrest sustain fluid soon fiber major suggest";

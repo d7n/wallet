@@ -1,1 +1,1 @@
-var mnemonic = "awesome company radar allow neck toilet balcony nothing clap stumble swim lyrics";
+var mnemonic = "amazing polar patch siege window dwarf require grass address clerk depart avoid";

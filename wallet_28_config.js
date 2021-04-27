@@ -1,1 +1,1 @@
-var mnemonic = "rather shine dentist tissue vast chicken coach air wine grief rose rebel";
+var mnemonic = "clerk small jump clarify promote fan double dolphin aspect elevator sausage dentist";

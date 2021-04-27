@@ -1,1 +1,1 @@
-var mnemonic = "excite leg kit deal abandon pepper dragon unlock violin swift abandon allow";
+var mnemonic = "source clay diamond armor describe pact prosper march comic grape mosquito simple";

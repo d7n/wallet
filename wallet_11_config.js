@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow ten strike price humble sibling flat bicycle fly kiss kit winter";
+var mnemonic = "tell excite heart unlock skull hip alter oyster track vault dog shuffle";

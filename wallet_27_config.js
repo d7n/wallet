@@ -1,1 +1,1 @@
-var mnemonic = "van endless penalty pizza sample giraffe logic left clock kitten fine chest";
+var mnemonic = "enact over coin isolate betray dawn soft joke stadium crater speak possible";

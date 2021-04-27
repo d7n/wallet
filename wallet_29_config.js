@@ -1,1 +1,1 @@
-var mnemonic = "trip noodle ticket pill soon recycle smooth evidence boost screen trade jazz";
+var mnemonic = "civil easy mail aunt talent job pulse dream diagram salt ill popular";

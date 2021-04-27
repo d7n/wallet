@@ -1,1 +1,1 @@
-var mnemonic = "flush team donkey priority surge salt now radio spoil melt shove pool";
+var mnemonic = "jump can chat near human embrace arrest bronze friend monkey place begin";

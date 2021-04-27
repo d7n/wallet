@@ -1,1 +1,1 @@
-var mnemonic = "patrol valley memory harvest drastic find chest truly cinnamon mask crush cover";
+var mnemonic = "nose candy potato disease cousin neutral nation fault arch sketch turkey fury";

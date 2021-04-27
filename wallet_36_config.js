@@ -1,1 +1,1 @@
-var mnemonic = "gallery verify absorb vanish chase bag pole fuel ramp ask update ready";
+var mnemonic = "increase ripple crane tail canal destroy clever grid news gown pilot message";

@@ -1,1 +1,1 @@
-var mnemonic = "dove tip peasant wrong very various stage water puzzle twist hair pull";
+var mnemonic = "tonight tenant ghost garage emotion essay sail uncover devote merge magnet piece";

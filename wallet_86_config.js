@@ -1,1 +1,1 @@
-var mnemonic = "funny cupboard scrub kid quiz nurse nothing hen try paddle noodle yard";
+var mnemonic = "region task embody finger wisdom fade amateur flower pitch pilot practice stadium";

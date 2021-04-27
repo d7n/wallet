@@ -1,1 +1,1 @@
-var mnemonic = "drink damage clinic learn smooth empower lunar critic make vessel slender excuse";
+var mnemonic = "address insane cinnamon jeans success number click normal liberty fox clown daring";

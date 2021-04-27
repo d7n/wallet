@@ -1,1 +1,1 @@
-var mnemonic = "gown window neglect fury achieve student giraffe mobile notice poet visa raw";
+var mnemonic = "midnight acid carry save impose spider cover ship detail hammer slow cigar";

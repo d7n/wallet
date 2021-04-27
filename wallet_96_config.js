@@ -1,1 +1,1 @@
-var mnemonic = "parrot verb fall shy master sea patch immense bulb funny wild pony";
+var mnemonic = "betray traffic radio violin manage goat tool modify history fetch program grid";

@@ -1,1 +1,1 @@
-var mnemonic = "brisk middle elevator only alcohol wisdom hungry swim gown access grow federal";
+var mnemonic = "spirit goat person paddle jealous sunset bird local enemy shy column believe";

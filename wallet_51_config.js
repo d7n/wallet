@@ -1,1 +1,1 @@
-var mnemonic = "inject garage banana light suffer believe neither venture spike memory ticket tissue";
+var mnemonic = "sudden coil hidden parrot people twelve glove announce master barrel liar habit";

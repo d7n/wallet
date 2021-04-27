@@ -1,1 +1,1 @@
-var mnemonic = "sign royal lawsuit teach media matrix powder toss logic property sell furnace";
+var mnemonic = "taste same tray boy total super miracle canoe bring north burger tank";

@@ -1,1 +1,1 @@
-var mnemonic = "audit nominee pear cool egg million laptop noise chat glare obey slush";
+var mnemonic = "auto truly between poet south sick copy finger rack front become fall";

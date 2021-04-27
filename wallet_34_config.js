@@ -1,1 +1,1 @@
-var mnemonic = "year come ivory elite clarify ripple echo broom any doctor enroll bacon";
+var mnemonic = "coast youth phrase title brand stick thumb chalk document shoot divert comic";

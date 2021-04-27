@@ -1,1 +1,1 @@
-var mnemonic = "region walnut father garment ask medal spare orphan regular iron destroy guess";
+var mnemonic = "lecture old sister burger goddess tip toilet gaze thing skill glide diesel";

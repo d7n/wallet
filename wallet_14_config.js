@@ -1,1 +1,1 @@
-var mnemonic = "wool donate brick idle puzzle similar word agree pause ten tunnel firm";
+var mnemonic = "path humor click claw creek advice crack room love fitness draft fold";
