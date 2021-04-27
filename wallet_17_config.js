@@ -1,1 +1,1 @@
-var mnemonic = "guide butter now join valid retreat spice sniff magnet harbor joy oxygen";
+var mnemonic = "cradle pull process december soup strategy energy grief fiscal april clinic coconut";

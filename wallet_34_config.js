@@ -1,1 +1,1 @@
-var mnemonic = "obscure fringe there boost sad acquire nothing manage spell output famous enforce";
+var mnemonic = "vocal naive gown bargain broccoli hand belt ranch identify wrong ready need";

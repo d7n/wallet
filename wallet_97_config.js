@@ -1,1 +1,1 @@
-var mnemonic = "swallow tuna pig genuine spare ridge october link harbor panda impulse nothing";
+var mnemonic = "flavor chase common tortoise stool fault craft senior prefer peanut dizzy crucial";

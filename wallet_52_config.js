@@ -1,1 +1,1 @@
-var mnemonic = "humor sail card west proud boring ticket leopard panic gaze huge liquid";
+var mnemonic = "beef onion bargain sketch federal spoil ability adjust trend impulse engine energy";

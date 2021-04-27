@@ -1,1 +1,1 @@
-var mnemonic = "insane deliver flock inform curious toddler december bitter angle that anchor limit";
+var mnemonic = "pilot pole useful involve modify jungle trial section faint city consider tackle";

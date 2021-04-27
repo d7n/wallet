@@ -1,1 +1,1 @@
-var mnemonic = "public analyst home bacon glove lunar giraffe survey swim panel seed upset";
+var mnemonic = "close exercise sea service slide link teach gift leg false chronic arctic";

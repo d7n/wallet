@@ -1,1 +1,1 @@
-var mnemonic = "winter ridge planet mesh movie lazy section adjust velvet fork fiction tool";
+var mnemonic = "manual moral hip unhappy slight car violin trigger sweet know excite hill";

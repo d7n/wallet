@@ -1,1 +1,1 @@
-var mnemonic = "dance protect spray gym country maximum start letter modify slim endless whisper";
+var mnemonic = "suffer tiger report unlock nature leg honey conduct cross favorite wrestle music";

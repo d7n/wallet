@@ -1,1 +1,1 @@
-var mnemonic = "learn exit expire dilemma attitude elite casual way hybrid upgrade sword vote";
+var mnemonic = "network suffer crew witness talk strong proud hazard fruit neither glide dolphin";

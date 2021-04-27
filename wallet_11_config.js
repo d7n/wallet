@@ -1,1 +1,1 @@
-var mnemonic = "junk grant crisp employ dragon write loan stamp champion clap shiver drum";
+var mnemonic = "limb mean impose shoe feed consider predict blossom deputy feed catalog village";

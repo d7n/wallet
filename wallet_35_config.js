@@ -1,1 +1,1 @@
-var mnemonic = "position sadness climb garbage ski soul hurdle wave night cup foil kidney";
+var mnemonic = "viable forum sock buddy bright digital kitchen remain index rely reunion glimpse";

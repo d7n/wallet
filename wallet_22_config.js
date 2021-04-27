@@ -1,1 +1,1 @@
-var mnemonic = "saddle wreck gas shy spirit right burden pottery nose session bone motor";
+var mnemonic = "trip inquiry promote hobby learn fashion satoshi echo install tragic skin floor";

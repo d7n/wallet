@@ -1,1 +1,1 @@
-var mnemonic = "toe exhibit meat fee hole treat cruise spell chimney asset aisle sudden";
+var mnemonic = "harsh income victory veteran current pitch tell alcohol ahead volcano surge divide";

@@ -1,1 +1,1 @@
-var mnemonic = "they suspect hover menu chalk crane fee sail fade garlic moment must";
+var mnemonic = "legal diagram silly wood perfect recipe behind way amused mystery machine gold";

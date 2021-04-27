@@ -1,1 +1,1 @@
-var mnemonic = "view net payment shallow knock sentence diamond effort proud fancy bag senior";
+var mnemonic = "sea flip half slush trip curious galaxy describe stock melody trial earn";

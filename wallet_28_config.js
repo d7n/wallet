@@ -1,1 +1,1 @@
-var mnemonic = "bulk when deliver jar act response master jazz wild ginger total clerk";
+var mnemonic = "town rain spider addict help glory safe suspect tortoise regular rough enhance";

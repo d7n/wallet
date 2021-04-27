@@ -1,1 +1,1 @@
-var mnemonic = "pear gospel boost defy much junior sword tumble brother undo stem universe";
+var mnemonic = "release deal judge save dash federal tree sell infant return project weapon";

@@ -1,1 +1,1 @@
-var mnemonic = "ten slam polar coffee erode assume hazard fade timber garment champion wolf";
+var mnemonic = "screen perfect acoustic brand scissors sense fat doctor crisp raccoon voyage skate";

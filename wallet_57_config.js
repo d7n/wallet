@@ -1,1 +1,1 @@
-var mnemonic = "index basic april field record list lend benefit illness icon match link";
+var mnemonic = "seven very fade urge easily river kid vague cloud solid result edit";

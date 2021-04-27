@@ -1,1 +1,1 @@
-var mnemonic = "bargain utility ocean clap inside oppose method print width erase gentle shallow";
+var mnemonic = "address observe early column walnut used boy trash toss agent family plastic";

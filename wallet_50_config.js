@@ -1,1 +1,1 @@
-var mnemonic = "universe evolve agent jaguar spice inject bid agree screen emotion space attend";
+var mnemonic = "cube goddess busy design stomach glad pumpkin mushroom surge sort exotic erupt";

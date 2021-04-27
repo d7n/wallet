@@ -1,1 +1,1 @@
-var mnemonic = "margin lounge light crouch fossil bless spike pattern patient oxygen squirrel spray";
+var mnemonic = "reject hover work dial wrist ostrich seminar rely pill prison keep arch";

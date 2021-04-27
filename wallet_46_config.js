@@ -1,1 +1,1 @@
-var mnemonic = "ribbon gap blade average pulse ridge around know pattern possible present turn";
+var mnemonic = "drift decline profit summer miracle slush correct unable image brave crowd way";

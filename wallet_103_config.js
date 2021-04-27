@@ -1,1 +1,1 @@
-var mnemonic = "oblige trigger foil else display process forward ozone trumpet sense bleak weather";
+var mnemonic = "exact tornado floor lizard noodle surface trouble become wire control forget cattle";

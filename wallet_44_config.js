@@ -1,1 +1,1 @@
-var mnemonic = "fox cycle special renew height crouch grit prevent normal dizzy hazard waste";
+var mnemonic = "oak forest cheap table sibling derive curve system brain luggage choice love";

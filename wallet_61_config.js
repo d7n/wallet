@@ -1,1 +1,1 @@
-var mnemonic = "switch pyramid width fork pigeon there hammer syrup digital version boil bulk";
+var mnemonic = "vanish whisper walnut blood clarify install reveal carpet chair thunder renew cement";

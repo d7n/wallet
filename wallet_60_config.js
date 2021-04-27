@@ -1,1 +1,1 @@
-var mnemonic = "unveil skate pyramid sell column piece wave muscle cradle season amazing remember";
+var mnemonic = "festival monitor civil edge deer loyal iron nice nose orange funny hope";

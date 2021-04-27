@@ -1,1 +1,1 @@
-var mnemonic = "glimpse rule mimic tuna pluck cube bubble sport diagram swear renew glow";
+var mnemonic = "entire exile fever shrimp chest hurt deliver melt barrel swarm day bundle";

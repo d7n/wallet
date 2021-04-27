@@ -1,1 +1,1 @@
-var mnemonic = "thank area grow pilot topic lend powder carpet friend speak square dentist";
+var mnemonic = "island wood wealth around siren essay buzz tool focus faith thrive below";

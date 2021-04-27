@@ -1,1 +1,1 @@
-var mnemonic = "immune galaxy plate area meadow adult marriage alcohol planet canoe bread rich";
+var mnemonic = "cake cheap abuse belt crater muscle follow genuine filter symbol cushion vendor";

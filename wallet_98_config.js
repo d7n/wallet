@@ -1,1 +1,1 @@
-var mnemonic = "fresh shell awake blast humor flag finger glare olympic ritual put act";
+var mnemonic = "two key rather neglect stable attract tornado soon casino drum negative door";

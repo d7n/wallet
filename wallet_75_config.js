@@ -1,1 +1,1 @@
-var mnemonic = "depth powder anchor similar circle electric barrel double parrot present toy athlete";
+var mnemonic = "home salmon insane north habit miracle sun traffic gospel asset air marble";

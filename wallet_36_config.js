@@ -1,1 +1,1 @@
-var mnemonic = "term bulk correct author one render enemy zone general screen promote immense";
+var mnemonic = "erode parrot van enhance exclude cloud conduct wreck erode elbow easy remove";

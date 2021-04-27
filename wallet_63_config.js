@@ -1,1 +1,1 @@
-var mnemonic = "gain announce float divert lens analyst account walk visa gap atom zebra";
+var mnemonic = "shrimp humble hard jungle army rigid girl vacuum install deny sign arch";

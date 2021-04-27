@@ -1,1 +1,1 @@
-var mnemonic = "patch toward source pair scare fortune project add way tackle drift wish";
+var mnemonic = "pretty cross legend sing open message organ identify excess grass cat salad";

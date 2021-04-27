@@ -1,1 +1,1 @@
-var mnemonic = "tourist survey income unfair buffalo code divorce model copy strike off butter";
+var mnemonic = "satisfy early tree divide end idle pass country olive ten oil riot";

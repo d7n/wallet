@@ -1,1 +1,1 @@
-var mnemonic = "edit meat legal rich beyond skill arrive cargo witness acoustic cloth race";
+var mnemonic = "tattoo space amateur soul before build scrub govern success slam tumble regular";

@@ -1,1 +1,1 @@
-var mnemonic = "tissue catalog comfort metal thrive runway seat wing order canoe upon bleak";
+var mnemonic = "tunnel bottom slide host gaze south skirt casino antenna own open mind";

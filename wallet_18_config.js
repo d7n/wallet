@@ -1,1 +1,1 @@
-var mnemonic = "attract combine bomb holiday deal over road prepare welcome surge later sadness";
+var mnemonic = "quote keen divorce little gossip cake uncover cruise wear broom echo slice";

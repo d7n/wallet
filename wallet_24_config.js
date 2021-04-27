@@ -1,1 +1,1 @@
-var mnemonic = "piano thought aim divide foam wisdom crouch engage ancient drift tribe gain";
+var mnemonic = "scrap obvious dinner dish glad torch include spoon prize fold guide flat";

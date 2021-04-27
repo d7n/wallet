@@ -1,1 +1,1 @@
-var mnemonic = "mom position coffee happy funny album believe meadow ice spy swallow grief";
+var mnemonic = "roof slush upgrade venue electric oyster custom black pen fragile inquiry sustain";

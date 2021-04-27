@@ -1,1 +1,1 @@
-var mnemonic = "iron deny slide soul trip camera tunnel cry crush drum fatal social";
+var mnemonic = "uphold weasel brick cotton shift flag favorite daughter rich inside patient father";

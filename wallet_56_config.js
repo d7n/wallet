@@ -1,1 +1,1 @@
-var mnemonic = "happy photo merry divert tail basic palace lobster demise annual patrol vanish";
+var mnemonic = "fetch salon clever funny miss paper jazz fetch slot average sponsor orange";

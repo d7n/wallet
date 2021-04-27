@@ -1,1 +1,1 @@
-var mnemonic = "cream crowd toward either require wage shoot cry airport dose bamboo symbol";
+var mnemonic = "crack tuna wink stumble give stadium lamp universe cake filter accuse vessel";

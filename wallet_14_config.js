@@ -1,1 +1,1 @@
-var mnemonic = "divorce inherit crawl actress you torch penalty vanish convince urban pigeon festival";
+var mnemonic = "beach equip marble type flip salon scheme question pizza toilet over rapid";

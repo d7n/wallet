@@ -1,1 +1,1 @@
-var mnemonic = "pepper hard ritual pretty tip color layer mask attract find firm remember";
+var mnemonic = "flock act repeat repair cereal any load cream avoid goose army open";

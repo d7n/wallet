@@ -1,1 +1,1 @@
-var mnemonic = "service ski cause excuse mixed grass image foil brown bacon road replace";
+var mnemonic = "aisle wet express always clap ribbon fan fog daring neither picnic step";

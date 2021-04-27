@@ -1,1 +1,1 @@
-var mnemonic = "popular jazz ask club huge heavy cake measure letter theme this tissue";
+var mnemonic = "fury tired loop orange gaze tell suspect flat inject ship suit frozen";

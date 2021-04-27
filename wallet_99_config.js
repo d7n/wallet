@@ -1,1 +1,1 @@
-var mnemonic = "decide option blue cousin unaware pipe danger cancel yellow connect pave bird";
+var mnemonic = "busy scout dwarf super sock random cute cactus jar control what melt";

@@ -1,1 +1,1 @@
-var mnemonic = "air stomach dash example fire cover kidney drum symptom upper gorilla message";
+var mnemonic = "clump ride lion leg easy patient mad creek reject learn shield burst";

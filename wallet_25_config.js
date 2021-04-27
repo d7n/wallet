@@ -1,1 +1,1 @@
-var mnemonic = "humble alley sunset party depart fox retire place bean still ozone rigid";
+var mnemonic = "health crowd jelly assault coconut famous satisfy hurdle inflict rally lawn decrease";

@@ -1,1 +1,1 @@
-var mnemonic = "giraffe survey video whisper humble syrup render vague solid metal random festival";
+var mnemonic = "finger pattern hawk tribe print mimic urge miss seven exhibit sea list";

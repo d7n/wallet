@@ -1,1 +1,1 @@
-var mnemonic = "toilet art fox suffer seven outdoor merge accuse ostrich voyage fork course";
+var mnemonic = "scale memory raw sick impact drama basket green rigid term mobile always";

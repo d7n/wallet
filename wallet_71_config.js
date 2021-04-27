@@ -1,1 +1,1 @@
-var mnemonic = "rapid mean brother champion poverty include era clerk spice senior pyramid path";
+var mnemonic = "tide decorate false issue survey guilt deliver same pupil candy race nurse";

@@ -1,1 +1,1 @@
-var mnemonic = "head kidney dizzy test middle doctor lounge beyond fury radio whisper isolate";
+var mnemonic = "easy umbrella ozone mosquito throw update victory fox napkin age gloom pottery";

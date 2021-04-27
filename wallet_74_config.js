@@ -1,1 +1,1 @@
-var mnemonic = "brick people lift belt humble clown shaft auction happy clap provide yellow";
+var mnemonic = "obscure recipe test bulk zone ski bike pyramid derive fabric fury team";

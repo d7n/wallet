@@ -1,1 +1,1 @@
-var mnemonic = "trick exchange ill guitar eager tube token wedding weather stable address any";
+var mnemonic = "chase outside loyal token unhappy smoke garbage citizen surface frame air father";

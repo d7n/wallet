@@ -1,1 +1,1 @@
-var mnemonic = "trash pepper calm critic orange tag style fee cage provide clap arrest";
+var mnemonic = "crowd street bulk mean plate rebuild three gaze twin remain mass lawn";

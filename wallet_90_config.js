@@ -1,1 +1,1 @@
-var mnemonic = "pattern siege approve proof rescue friend slender shoulder bounce clown garlic distance";
+var mnemonic = "recipe flavor spirit city biology cloth goose load bacon obey brick mobile";

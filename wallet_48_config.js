@@ -1,1 +1,1 @@
-var mnemonic = "venue sell grant oval habit beauty nurse egg kid crucial lady enlist";
+var mnemonic = "coral cable giant like tumble claw fox asthma tribe bid gallery chapter";

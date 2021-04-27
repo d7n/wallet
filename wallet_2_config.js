@@ -1,1 +1,1 @@
-var mnemonic = "speak sausage imitate today symptom vital audit camera december achieve recycle boost";
+var mnemonic = "wisdom tag stool receive kingdom fashion era journey test erosion degree breeze";

@@ -1,1 +1,1 @@
-var mnemonic = "code thrive improve flower arrow enjoy curve arctic rural priority uphold fuel";
+var mnemonic = "super ivory rescue attract release essay reason donor beauty airport final curtain";

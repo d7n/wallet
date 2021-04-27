@@ -1,1 +1,1 @@
-var mnemonic = "clay coyote pool spice inch little random rude much sock amount rice";
+var mnemonic = "flock dove betray rally hello special announce frog desk crime endorse stay";

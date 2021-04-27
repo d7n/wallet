@@ -1,1 +1,1 @@
-var mnemonic = "merry vintage thought void first deliver biology portion lounge glory any happy";
+var mnemonic = "family sun settle pill volume filter thing expand mom fence side retreat";

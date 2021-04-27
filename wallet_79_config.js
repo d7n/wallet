@@ -1,1 +1,1 @@
-var mnemonic = "flower fabric flight draw oppose air confirm inherit laundry fault slogan sibling";
+var mnemonic = "hockey uphold stairs attack track punch object prepare earn peanut mandate comfort";

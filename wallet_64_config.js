@@ -1,1 +1,1 @@
-var mnemonic = "enter unlock indoor brick cake slim virtual network dismiss oyster admit rhythm";
+var mnemonic = "fiber rapid kind paper portion off poverty scrub thank sponsor turkey relief";

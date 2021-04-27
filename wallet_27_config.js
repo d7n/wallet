@@ -1,1 +1,1 @@
-var mnemonic = "phone state switch gas town faint turn pact trust unusual list dentist";
+var mnemonic = "scout glance spoon order little oven peanut clerk dizzy lyrics also hover";

@@ -1,1 +1,1 @@
-var mnemonic = "friend screen final admit wage august alert glad rather call glide gather";
+var mnemonic = "two calm crack width liquid fly muscle sister feature dignity smoke sea";

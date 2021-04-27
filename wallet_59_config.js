@@ -1,1 +1,1 @@
-var mnemonic = "convince lizard rail awkward grit aspect disease resist pact manage attract alien";
+var mnemonic = "huge miss coffee corn style ring bicycle sleep squeeze wonder income basic";

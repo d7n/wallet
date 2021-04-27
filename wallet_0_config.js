@@ -1,1 +1,1 @@
-var mnemonic = "coral day club side bone fox junior maid over depend front carbon";
+var mnemonic = "correct guard grief orphan guard come remind disease tank stamp tumble laugh";

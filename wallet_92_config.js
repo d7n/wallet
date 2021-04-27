@@ -1,1 +1,1 @@
-var mnemonic = "sleep tuna caught happy swing weasel boil build sponsor stable orbit oval";
+var mnemonic = "deal stage august proof together claw danger comfort injury cloud unhappy enable";

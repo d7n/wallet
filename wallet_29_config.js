@@ -1,1 +1,1 @@
-var mnemonic = "carpet riot pink coyote extra member seat drill essence spray mule chuckle";
+var mnemonic = "crew design avoid mercy damp useless horror spawn liar soda drip scare";

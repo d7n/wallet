@@ -1,1 +1,1 @@
-var mnemonic = "chat choice cigar allow provide deputy unique network lumber reveal pioneer double";
+var mnemonic = "three vendor nest learn horn jump glide cabin proof duck blind come";

@@ -1,1 +1,1 @@
-var mnemonic = "erosion junk practice retire cattle mix quit old sleep pulp universe join";
+var mnemonic = "liberty slice bean avoid aware antique museum river glow leisure worth able";

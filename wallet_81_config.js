@@ -1,1 +1,1 @@
-var mnemonic = "exist later jazz math hub clinic frost current spoon become section produce";
+var mnemonic = "couple young typical cliff betray dinosaur dog wealth burger evidence quote merit";

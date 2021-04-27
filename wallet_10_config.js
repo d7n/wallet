@@ -1,1 +1,1 @@
-var mnemonic = "grocery jacket spring milk appear tide boat picnic ramp amateur bargain mercy";
+var mnemonic = "deliver silent hollow under rebel wife start battle put olympic garment matrix";

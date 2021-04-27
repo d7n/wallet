@@ -1,1 +1,1 @@
-var mnemonic = "gossip excuse one skate fortune rally demand knife problem slender bar zone";
+var mnemonic = "object ostrich cup claw help stage enact vehicle ugly regular view voyage";

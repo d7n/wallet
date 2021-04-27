@@ -1,1 +1,1 @@
-var mnemonic = "autumn predict risk early put turkey stadium swift blade tool collect bench";
+var mnemonic = "autumn wheat share guilt abuse upon spawn yellow unhappy belt talent fluid";

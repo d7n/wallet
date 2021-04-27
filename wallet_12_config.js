@@ -1,1 +1,1 @@
-var mnemonic = "figure state topple armed toilet practice supply script hundred attitude lawn hello";
+var mnemonic = "extend wide illness okay fury chronic setup short brain frequent rare kitten";

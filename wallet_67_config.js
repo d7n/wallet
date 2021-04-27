@@ -1,1 +1,1 @@
-var mnemonic = "squeeze stone wrestle hero despair hammer kidney forum inspire question adjust lady";
+var mnemonic = "dinner lesson nice night crew this display olympic smooth foil theory stamp";

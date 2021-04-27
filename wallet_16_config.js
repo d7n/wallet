@@ -1,1 +1,1 @@
-var mnemonic = "orbit goose season before enemy wheel say bargain lens achieve story foam";
+var mnemonic = "burden brush worry lucky fragile sentence fuel oxygen ceiling wave gossip tourist";

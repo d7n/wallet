@@ -1,1 +1,1 @@
-var mnemonic = "minor draw goose ethics decide become domain file session cool hair purse";
+var mnemonic = "walk volcano man satoshi reward scorpion rack favorite umbrella profit pizza arrange";

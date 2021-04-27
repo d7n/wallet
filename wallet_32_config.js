@@ -1,1 +1,1 @@
-var mnemonic = "admit sphere tank jazz disease oil attitude quick year health leader sleep";
+var mnemonic = "liar ship error decide lizard cargo maze garment divorce pledge gaze seek";

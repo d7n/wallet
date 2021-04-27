@@ -1,1 +1,1 @@
-var mnemonic = "surge blind crowd judge erase position trigger pepper build royal traffic uniform";
+var mnemonic = "address summer hawk once various boil quarter bounce minute hand rhythm family";

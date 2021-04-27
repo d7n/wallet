@@ -1,1 +1,1 @@
-var mnemonic = "pizza ensure program accuse teach reunion supply cabbage rotate giggle topic auto";
+var mnemonic = "captain already sponsor fiber hockey hello canoe winter note bonus scale mom";

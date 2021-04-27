@@ -1,1 +1,1 @@
-var mnemonic = "general clay helmet cost again salon foam arrest keep insane supreme flip";
+var mnemonic = "enlist ritual wheat price mean potato leisure hobby beef test enforce impact";

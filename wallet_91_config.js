@@ -1,1 +1,1 @@
-var mnemonic = "note vacuum off brush wing figure tissue asset palm market grow fall";
+var mnemonic = "this fat october jar next annual magic burden disagree anxiety anxiety side";

@@ -1,1 +1,1 @@
-var mnemonic = "balcony fog kick quick please science youth key luggage merge lounge vessel";
+var mnemonic = "lumber excuse climb clutch ramp smooth captain profit kitchen tooth artefact video";

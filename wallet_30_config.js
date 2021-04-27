@@ -1,1 +1,1 @@
-var mnemonic = "jelly notable music meat burger gas velvet mobile method auto car direct";
+var mnemonic = "consider bomb guide hip deal brief adapt exclude song oval captain budget";

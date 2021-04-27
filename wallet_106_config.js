@@ -1,1 +1,1 @@
-var mnemonic = "off yard village common hamster green resist maze field inform short video";
+var mnemonic = "dizzy super kid cup tackle conduct mask shoe outer high soon garlic";

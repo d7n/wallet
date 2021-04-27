@@ -1,1 +1,1 @@
-var mnemonic = "unfair inherit demise crime dance bike decline find pool phrase put gadget";
+var mnemonic = "spike essence cotton demand burst tent cactus use bleak enjoy enter culture";

@@ -1,1 +1,1 @@
-var mnemonic = "annual text attack awkward radio type crack useless estate nut used trial";
+var mnemonic = "guard regular price mimic arch share sand spawn viable crane inmate oblige";
