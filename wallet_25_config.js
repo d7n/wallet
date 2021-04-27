@@ -1,1 +1,1 @@
-var mnemonic = "render female place hurry dentist cruel thrive diesel young dizzy trade clinic";
+var mnemonic = "novel churn sport clock bargain abandon jump solar shrug come rack ankle";

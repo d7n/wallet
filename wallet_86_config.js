@@ -1,1 +1,1 @@
-var mnemonic = "neck grain armed squeeze street talent amateur crane shock mom coach avoid";
+var mnemonic = "funny cupboard scrub kid quiz nurse nothing hen try paddle noodle yard";

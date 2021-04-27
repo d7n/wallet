@@ -1,1 +1,1 @@
-var mnemonic = "release crawl sauce cruise ramp photo soccer pudding rival tuna fly team";
+var mnemonic = "tortoise edge winner moon april minor blouse course lunar image imitate bulk";

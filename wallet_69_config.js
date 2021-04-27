@@ -1,1 +1,1 @@
-var mnemonic = "antenna vendor under bag salmon dad lend peace rebel gauge near critic";
+var mnemonic = "gown forward diagram river elder buyer drill hole unfair hotel screen march";

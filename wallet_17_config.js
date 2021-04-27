@@ -1,1 +1,1 @@
-var mnemonic = "tragic produce horror tell ozone velvet muffin armed rebel great army bargain";
+var mnemonic = "rubber merry point wear seminar display purpose plug hour chat misery lens";

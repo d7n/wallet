@@ -1,1 +1,1 @@
-var mnemonic = "crash foster myth polar ozone whisper then direct accident review song time";
+var mnemonic = "brisk middle elevator only alcohol wisdom hungry swim gown access grow federal";

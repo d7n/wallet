@@ -1,1 +1,1 @@
-var mnemonic = "found express label attract soon rose easily crumble animal canoe error shove";
+var mnemonic = "educate certain note vote head solar okay meadow you choose priority silly";

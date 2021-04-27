@@ -1,1 +1,1 @@
-var mnemonic = "tornado adjust pony educate fresh device miracle start ghost during film hospital";
+var mnemonic = "school whale boring december quantum bird canvas black smile ten cousin dwarf";

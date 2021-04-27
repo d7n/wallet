@@ -1,1 +1,1 @@
-var mnemonic = "slight pilot catalog knife tail cycle pool labor rifle around gym minute";
+var mnemonic = "betray love cook guide leisure million ocean invest asthma wink poem defense";

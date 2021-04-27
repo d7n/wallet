@@ -1,1 +1,1 @@
-var mnemonic = "labor sight public erase dynamic tank close busy amateur table portion robust";
+var mnemonic = "drink damage clinic learn smooth empower lunar critic make vessel slender excuse";

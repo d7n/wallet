@@ -1,1 +1,1 @@
-var mnemonic = "public race pave ahead spider melt other people buddy ankle foil cluster";
+var mnemonic = "observe check federal quiz burden warrior nest olympic glory shrug crouch rubber";

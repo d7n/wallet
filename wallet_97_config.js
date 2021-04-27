@@ -1,1 +1,1 @@
-var mnemonic = "drum dizzy frequent party avoid advice beyond found sauce lab mass toast";
+var mnemonic = "minimum inside marriage theme salute dwarf language profit latin later math obscure";

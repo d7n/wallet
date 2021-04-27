@@ -1,1 +1,1 @@
-var mnemonic = "satoshi stairs nose hazard once board grocery recall strategy embark maximum warrior";
+var mnemonic = "truck govern apart resist hurdle average spin always shadow share desert vicious";

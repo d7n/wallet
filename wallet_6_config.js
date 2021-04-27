@@ -1,1 +1,1 @@
-var mnemonic = "slab fox shrimp lyrics elbow version joke thank must door text humble";
+var mnemonic = "ten clever defy donkey crouch soap tag describe unveil rail mimic discover";

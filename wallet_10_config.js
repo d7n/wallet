@@ -1,1 +1,1 @@
-var mnemonic = "what month lunch reason visa furnace news cage follow meadow laptop gasp";
+var mnemonic = "lumber spring around chicken polar tuna stove canvas coffee start burger educate";

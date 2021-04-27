@@ -1,1 +1,1 @@
-var mnemonic = "wreck during zone orange biology pride jaguar match stone engine north draw";
+var mnemonic = "target drama elegant horror eager faint delay name false mandate clever wagon";

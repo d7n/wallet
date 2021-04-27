@@ -1,1 +1,1 @@
-var mnemonic = "soda appear cover profit crew sure void pear believe remind sight ethics";
+var mnemonic = "example thought robust mango spatial verify music focus grid also once bounce";

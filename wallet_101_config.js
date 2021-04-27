@@ -1,1 +1,1 @@
-var mnemonic = "later step ketchup cover imitate account wheel motion topple dignity modify bargain";
+var mnemonic = "bus aisle diagram derive trumpet daring trick rapid today holiday remember bleak";

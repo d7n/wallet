@@ -1,1 +1,1 @@
-var mnemonic = "industry scheme actor hobby couple arrest powder final water denial theme sense";
+var mnemonic = "sign royal lawsuit teach media matrix powder toss logic property sell furnace";

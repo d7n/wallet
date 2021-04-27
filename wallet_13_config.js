@@ -1,1 +1,1 @@
-var mnemonic = "barely friend scrub meat fury cancel awesome midnight over soup student sail";
+var mnemonic = "region walnut father garment ask medal spare orphan regular iron destroy guess";

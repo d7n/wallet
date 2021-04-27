@@ -1,1 +1,1 @@
-var mnemonic = "motor elevator season insane cake dose check license identify bar inflict foot";
+var mnemonic = "pull token advice hero praise wink cherry cat that interest deny they";

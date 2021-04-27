@@ -1,1 +1,1 @@
-var mnemonic = "gravity august pet faculty spin rifle erode torch crisp island quit crop";
+var mnemonic = "blouse faith brave spice real hover drum cabbage throw useless section road";

@@ -1,1 +1,1 @@
-var mnemonic = "blue sure month celery proud deal enforce devote survey below afford display";
+var mnemonic = "piece deliver wedding midnight return story eternal deer soon turtle whale glue";

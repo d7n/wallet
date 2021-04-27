@@ -1,1 +1,1 @@
-var mnemonic = "subject enroll brick crater bring beach merry write allow energy symbol member";
+var mnemonic = "wool donate brick idle puzzle similar word agree pause ten tunnel firm";

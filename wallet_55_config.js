@@ -1,1 +1,1 @@
-var mnemonic = "panic announce hawk endorse region horse short ten oval energy protect submit";
+var mnemonic = "flush team donkey priority surge salt now radio spoil melt shove pool";

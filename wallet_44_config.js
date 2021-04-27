@@ -1,1 +1,1 @@
-var mnemonic = "slide destroy suspect digital shed fuel sail lecture any problem elbow begin";
+var mnemonic = "venue skate toward below goddess camp earth pioneer laptop illegal ball catch";

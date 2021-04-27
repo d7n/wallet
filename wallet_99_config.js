@@ -1,1 +1,1 @@
-var mnemonic = "age phone lawn kingdom hero frost define indicate misery wet ball forest";
+var mnemonic = "angry gather senior ranch weird ginger episode alien cat example click harbor";

@@ -1,1 +1,1 @@
-var mnemonic = "weapon project utility giraffe replace ceiling hole icon picnic someone awake ordinary";
+var mnemonic = "bind response worth giggle bamboo soon window favorite length wish essay dwarf";

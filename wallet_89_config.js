@@ -1,1 +1,1 @@
-var mnemonic = "entire salt entry thumb board civil gospel nut hope letter shine black";
+var mnemonic = "barrel under laundry tiger menu good ivory risk clever concert risk unhappy";

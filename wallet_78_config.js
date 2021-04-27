@@ -1,1 +1,1 @@
-var mnemonic = "symptom cactus donor flavor art muscle tumble soda creek food occur business";
+var mnemonic = "gesture garage limit cushion project decide initial keep raise boat float outdoor";

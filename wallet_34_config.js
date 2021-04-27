@@ -1,1 +1,1 @@
-var mnemonic = "trouble assault daughter insane clutch like bamboo march toe output animal cherry";
+var mnemonic = "year come ivory elite clarify ripple echo broom any doctor enroll bacon";

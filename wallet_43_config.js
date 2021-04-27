@@ -1,1 +1,1 @@
-var mnemonic = "market pulp hub panda raven violin doctor rigid tooth man ahead girl";
+var mnemonic = "blood friend sort toe depart venue picnic charge rate vibrant banana model";

@@ -1,1 +1,1 @@
-var mnemonic = "scrub frost spin cost arrest erode what topple still penalty found smooth";
+var mnemonic = "speed habit blast loyal coin price together quarter diamond palace cigar input";

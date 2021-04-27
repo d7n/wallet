@@ -1,1 +1,1 @@
-var mnemonic = "shrimp eyebrow setup beef stuff notice hint reopen excess cherry health repair";
+var mnemonic = "ski steak opera prize much manage opera discover wish surround toddler similar";

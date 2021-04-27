@@ -1,1 +1,1 @@
-var mnemonic = "mixture voyage term extend earth raise dice asset duty curtain alter leopard";
+var mnemonic = "theory mix unfair swim input super shield jacket eight render window nominee";

@@ -1,1 +1,1 @@
-var mnemonic = "hurry stairs picnic curtain case talent mother mouse march genuine daughter heart";
+var mnemonic = "tuition month warm keep curtain sudden pottery city menu next position invest";

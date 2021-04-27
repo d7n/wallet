@@ -1,1 +1,1 @@
-var mnemonic = "speed shell fever summer easily divorce invest shop material explain kitchen escape";
+var mnemonic = "oval bracket ship loyal daughter tail mistake recall found swallow foster bind";

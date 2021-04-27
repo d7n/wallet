@@ -1,1 +1,1 @@
-var mnemonic = "urban valve helmet love ceiling accuse eternal rib quiz notice purpose midnight";
+var mnemonic = "client face cattle about evil flat walk village sleep lunar whisper valley";

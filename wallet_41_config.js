@@ -1,1 +1,1 @@
-var mnemonic = "stage smart cement chimney axis blade quote remind drop call must violin";
+var mnemonic = "home olive blade wave recall lumber jewel major pizza sun cheap cluster";

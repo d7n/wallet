@@ -1,1 +1,1 @@
-var mnemonic = "visit cherry pair pioneer panel vast awake virtual month actress antique giraffe";
+var mnemonic = "basic clock timber educate coil disagree kick gift balcony wire imitate soft";

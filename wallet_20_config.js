@@ -1,1 +1,1 @@
-var mnemonic = "false turtle duty awful blush twin blame tape final spirit night work";
+var mnemonic = "space sauce twice stumble enlist monkey marine circle treat edit latin churn";

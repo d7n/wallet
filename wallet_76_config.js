@@ -1,1 +1,1 @@
-var mnemonic = "steak want health equal purpose ecology library hold face save either possible";
+var mnemonic = "upgrade leisure kidney miracle syrup situate cycle region select dry mutual nurse";

@@ -1,1 +1,1 @@
-var mnemonic = "blood velvet utility ancient shrug between filter rude quality local quality swift";
+var mnemonic = "leg kite zero process cage cart cattle car trade weasel opera allow";

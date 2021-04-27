@@ -1,1 +1,1 @@
-var mnemonic = "bring similar pilot upset spin plug drive sauce trade will steel guess";
+var mnemonic = "wasp assume similar work rose hand twelve fatal electric enough slight crystal";

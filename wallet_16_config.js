@@ -1,1 +1,1 @@
-var mnemonic = "funny among tornado culture good opinion warfare subway identify venture believe victory";
+var mnemonic = "guitar hint mention park sustain humor garment popular captain bean share escape";

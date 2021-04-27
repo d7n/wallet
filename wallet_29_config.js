@@ -1,1 +1,1 @@
-var mnemonic = "entry sketch ocean enter about can knee senior oil front payment useful";
+var mnemonic = "trip noodle ticket pill soon recycle smooth evidence boost screen trade jazz";

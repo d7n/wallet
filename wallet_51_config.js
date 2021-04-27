@@ -1,1 +1,1 @@
-var mnemonic = "start appear frog surface weird parade enter injury example atom midnight seed";
+var mnemonic = "inject garage banana light suffer believe neither venture spike memory ticket tissue";

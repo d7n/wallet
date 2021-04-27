@@ -1,1 +1,1 @@
-var mnemonic = "airport slot blouse apart own advice dish betray good reflect enable guilt";
+var mnemonic = "minor scrub escape gain satisfy novel myself six clutch shrug measure mention";

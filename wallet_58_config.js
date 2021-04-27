@@ -1,1 +1,1 @@
-var mnemonic = "essence label help trade lab appear banana mesh enforce sing fit winner";
+var mnemonic = "nuclear ship soccer neutral zoo soup gossip remind blue divorce cage script";

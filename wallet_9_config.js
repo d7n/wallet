@@ -1,1 +1,1 @@
-var mnemonic = "try fox column atom miss chalk turn twist goat submit cart fetch";
+var mnemonic = "nation tackle bullet cushion today brain buddy culture alter happy fabric agent";

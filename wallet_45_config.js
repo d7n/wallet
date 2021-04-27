@@ -1,1 +1,1 @@
-var mnemonic = "evil runway stairs always among kiwi flash resist foil finish virtual roast";
+var mnemonic = "income merge retreat spawn boy dawn uniform summer trouble summer young model";

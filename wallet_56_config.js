@@ -1,1 +1,1 @@
-var mnemonic = "exchange head banner drive lens fuel orient knife unusual laundry swear length";
+var mnemonic = "evidence level add lumber rival muscle rail display appear crumble hero put";

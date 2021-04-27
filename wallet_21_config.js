@@ -1,1 +1,1 @@
-var mnemonic = "must target offer depth congress category weird joke chuckle purity ivory shuffle";
+var mnemonic = "close recall choice art barely holiday castle crater combine olive allow lucky";

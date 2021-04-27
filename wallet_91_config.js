@@ -1,1 +1,1 @@
-var mnemonic = "wish civil crush escape chest shallow reflect since main envelope cloth fade";
+var mnemonic = "rubber bleak style wrap arctic expect tuition just transfer segment maximum balcony";

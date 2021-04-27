@@ -1,1 +1,1 @@
-var mnemonic = "together home juice seed arena acquire asthma sell belt collect secret taxi";
+var mnemonic = "stem legal wagon mimic collect army vote segment wash armed photo rice";

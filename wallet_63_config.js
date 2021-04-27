@@ -1,1 +1,1 @@
-var mnemonic = "seek doctor tissue close report chat festival syrup tag civil woman version";
+var mnemonic = "salt intact gold book economy middle mandate lonely member cement carbon power";

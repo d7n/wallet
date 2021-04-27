@@ -1,1 +1,1 @@
-var mnemonic = "situate shield mushroom vendor deputy goose dress stone frequent board humble patrol";
+var mnemonic = "swear below great oil aisle pear arrive hungry rubber one milk clarify";

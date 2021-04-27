@@ -1,1 +1,1 @@
-var mnemonic = "style scan usual final egg satoshi ranch invite choice tribe funny capable";
+var mnemonic = "pen olympic lady vacuum stool general bench arrest cliff return globe legal";

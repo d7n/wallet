@@ -1,1 +1,1 @@
-var mnemonic = "venue dynamic goat lyrics away blood royal similar hen dune juice bike";
+var mnemonic = "obey field frozen wrap essence circle enrich grant switch kitten mouse stuff";

@@ -1,1 +1,1 @@
-var mnemonic = "east detail float kid alarm skill guard remain security cross dose goose";
+var mnemonic = "van endless penalty pizza sample giraffe logic left clock kitten fine chest";

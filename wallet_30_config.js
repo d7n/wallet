@@ -1,1 +1,1 @@
-var mnemonic = "follow liberty track tackle edge banner tower leisure curve first salute welcome";
+var mnemonic = "helmet crop snap plate identify lion baby enact popular prize mask spice";

@@ -1,1 +1,1 @@
-var mnemonic = "measure december ginger any marriage dinosaur never top small pencil pave area";
+var mnemonic = "renew lion bar bonus dismiss where denial immune winner barely metal close";

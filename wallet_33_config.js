@@ -1,1 +1,1 @@
-var mnemonic = "kick seat fiction choose nation insect pave rabbit spirit dust similar physical";
+var mnemonic = "cushion apple oxygen foster giant discover warfare else cute unusual burst resist";

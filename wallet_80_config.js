@@ -1,1 +1,1 @@
-var mnemonic = "balcony flame sample gesture hour lion boil north love direct gesture nation";
+var mnemonic = "weather chest cruel behave bid give valve air when drop expect cloth";

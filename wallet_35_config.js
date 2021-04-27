@@ -1,1 +1,1 @@
-var mnemonic = "spoil agree abstract clog wife rather object royal jacket tree minor luxury";
+var mnemonic = "cup marble olive ugly repeat account float slot install problem gesture era";

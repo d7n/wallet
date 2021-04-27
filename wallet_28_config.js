@@ -1,1 +1,1 @@
-var mnemonic = "paper license fish tuition appear parade gossip twenty unknown retreat mesh decline";
+var mnemonic = "rather shine dentist tissue vast chicken coach air wine grief rose rebel";

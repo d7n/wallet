@@ -1,1 +1,1 @@
-var mnemonic = "session reform skate blood rug wide output miss wheat general lecture cactus";
+var mnemonic = "push place window again enter member minor elite wheat gospel spread alpha";

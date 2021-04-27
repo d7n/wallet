@@ -1,1 +1,1 @@
-var mnemonic = "endorse almost scene edge symptom panda element lift old bar earn congress";
+var mnemonic = "panda game horse drink sport water barrel come begin gasp more twice";

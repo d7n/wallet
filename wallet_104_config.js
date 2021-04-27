@@ -1,1 +1,1 @@
-var mnemonic = "spatial fiction display stool maple isolate balance mutual loyal rotate swamp mosquito";
+var mnemonic = "range purse region clarify grid camp hope lake cart blame reflect lake";

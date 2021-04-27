@@ -1,1 +1,1 @@
-var mnemonic = "hero live soul stairs giraffe badge tape apart lion smart inflict human";
+var mnemonic = "parrot verb fall shy master sea patch immense bulb funny wild pony";

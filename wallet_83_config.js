@@ -1,1 +1,1 @@
-var mnemonic = "lab spare spin typical struggle bag shuffle soldier can reform season secret";
+var mnemonic = "patrol valley memory harvest drastic find chest truly cinnamon mask crush cover";

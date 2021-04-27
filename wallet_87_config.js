@@ -1,1 +1,1 @@
-var mnemonic = "chapter city poverty trend glimpse helmet cash rubber tell visit slide symbol";
+var mnemonic = "winter thought word faith scout stable quit key patrol spot job educate";

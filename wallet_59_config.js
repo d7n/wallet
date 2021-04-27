@@ -1,1 +1,1 @@
-var mnemonic = "fresh neglect busy submit film rhythm void music bitter rough hold situate";
+var mnemonic = "sign rookie isolate frequent mind exhaust crystal citizen leg battle cage rail";

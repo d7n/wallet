@@ -1,1 +1,1 @@
-var mnemonic = "tone drive day cup remain budget crop tunnel tissue choose exile cry";
+var mnemonic = "gallery verify absorb vanish chase bag pole fuel ramp ask update ready";

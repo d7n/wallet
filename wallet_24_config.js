@@ -1,1 +1,1 @@
-var mnemonic = "turn certain exist session doctor try limit bag hawk tuition hammer swim";
+var mnemonic = "bargain thunder element sad orchard evil swamp letter impulse loyal kitchen ribbon";

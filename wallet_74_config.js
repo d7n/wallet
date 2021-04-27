@@ -1,1 +1,1 @@
-var mnemonic = "gentle secret matrix arch inject misery trim master siege west end siege";
+var mnemonic = "ordinary deny tooth buddy swear honey pistol jump unusual twin despair tomorrow";

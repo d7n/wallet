@@ -1,1 +1,1 @@
-var mnemonic = "luxury myself mixture know action retreat wagon organ define type notice midnight";
+var mnemonic = "scale pen pony super below broken deliver clog supply surge truly plunge";

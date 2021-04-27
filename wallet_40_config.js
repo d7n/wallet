@@ -1,1 +1,1 @@
-var mnemonic = "canoe arena gold mountain theory brand few goat upset garment mango river";
+var mnemonic = "silent release diary toss engage swap snack outside blanket mask range physical";

@@ -1,1 +1,1 @@
-var mnemonic = "kind goose share actual asset lock scrub tattoo giraffe oppose powder clerk";
+var mnemonic = "awesome company radar allow neck toilet balcony nothing clap stumble swim lyrics";

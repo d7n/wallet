@@ -1,1 +1,1 @@
-var mnemonic = "total fade test display waste energy slice proof hope trumpet outer goat";
+var mnemonic = "solution forest copy change face square bargain lunch glass summer radar cup";

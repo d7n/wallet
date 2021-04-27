@@ -1,1 +1,1 @@
-var mnemonic = "frequent siege mutual solve excuse clap upon island recycle certain squirrel caution";
+var mnemonic = "vendor pumpkin prize long client process damp unique purchase force mad sleep";

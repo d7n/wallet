@@ -1,1 +1,1 @@
-var mnemonic = "subject liar sorry marine utility stone define load gas security loyal diagram";
+var mnemonic = "gown window neglect fury achieve student giraffe mobile notice poet visa raw";

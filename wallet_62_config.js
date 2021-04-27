@@ -1,1 +1,1 @@
-var mnemonic = "bone struggle source biology dragon amused buffalo capable style wonder mirror surround";
+var mnemonic = "dove tip peasant wrong very various stage water puzzle twist hair pull";

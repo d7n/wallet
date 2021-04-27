@@ -1,1 +1,1 @@
-var mnemonic = "visa kick hat morning bag asset angle clip boost sugar divide search";
+var mnemonic = "april uphold head ivory mixture crisp work artist sunset scout inherit hair";

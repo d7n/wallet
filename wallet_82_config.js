@@ -1,1 +1,1 @@
-var mnemonic = "annual thunder question narrow web panic match vault soft dance gown gloom";
+var mnemonic = "abandon ethics power pear swamp alien section boring happy glass demand curtain";

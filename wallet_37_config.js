@@ -1,1 +1,1 @@
-var mnemonic = "monkey file insect rubber aim next leisure boat skin alley reward donor";
+var mnemonic = "brief room kangaroo umbrella deliver inform better feel enjoy slab skull diamond";

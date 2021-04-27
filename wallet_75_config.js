@@ -1,1 +1,1 @@
-var mnemonic = "tackle acid yellow finish illegal tackle consider judge despair crew catalog control";
+var mnemonic = "cause destroy link poem pilot bronze horn blossom base bulb episode balance";

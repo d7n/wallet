@@ -1,1 +1,1 @@
-var mnemonic = "breeze keep can west develop unfair sleep dash volcano gloom entire nurse";
+var mnemonic = "eyebrow online miss can ankle extend husband ocean love spring bid pave";
