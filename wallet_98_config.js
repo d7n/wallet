@@ -1,1 +1,1 @@
-var mnemonic = "chuckle grit crunch coil issue riot offer reject spy wire muscle sport";
+var mnemonic = "gallery wash accident pact comfort scale duck powder zoo genuine large banner";

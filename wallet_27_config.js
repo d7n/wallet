@@ -1,1 +1,1 @@
-var mnemonic = "own palace mercy faint squirrel guard exile file away invite danger toe";
+var mnemonic = "riot engage boost occur ceiling canal fatigue seven myself apple tuition educate";

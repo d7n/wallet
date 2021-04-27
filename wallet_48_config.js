@@ -1,1 +1,1 @@
-var mnemonic = "exotic rule boat turn february edit solution west lamp grace pepper volume";
+var mnemonic = "man trim symbol grid quiz pupil antenna junk pulp velvet admit almost";

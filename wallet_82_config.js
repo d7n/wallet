@@ -1,1 +1,1 @@
-var mnemonic = "gym else woman family hotel kitchen laundry habit little mutual person honey";
+var mnemonic = "exist transfer enemy peanut arena lens dog shaft wool find shoot heart";

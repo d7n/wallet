@@ -1,1 +1,1 @@
-var mnemonic = "elephant still practice pudding scissors emerge country observe true crush swallow random";
+var mnemonic = "tragic ball vintage check identify south exit asset double cousin address fashion";

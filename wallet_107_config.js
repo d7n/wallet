@@ -1,1 +1,1 @@
-var mnemonic = "real impose voice message trigger lecture drill stuff amount rescue horse divorce";
+var mnemonic = "add remember door pattern pink deal transfer innocent mad soldier harbor case";

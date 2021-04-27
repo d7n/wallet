@@ -1,1 +1,1 @@
-var mnemonic = "junk soda lawn submit asset enforce business bullet shine access divide regular";
+var mnemonic = "wish aunt awkward safe fame spice canvas fox wine figure future normal";

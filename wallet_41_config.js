@@ -1,1 +1,1 @@
-var mnemonic = "employ market ordinary return dawn copper auto wise script number mercy employ";
+var mnemonic = "absurd ask tired drama early base caution enough lyrics copy card thank";

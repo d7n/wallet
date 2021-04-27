@@ -1,1 +1,1 @@
-var mnemonic = "debate excite high already luxury six benefit mutual tattoo chimney yard negative";
+var mnemonic = "language typical clinic frost student twenty slim fault naive observe border silk";

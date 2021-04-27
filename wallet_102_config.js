@@ -1,1 +1,1 @@
-var mnemonic = "liquid point immune divide father add sport engage hole candy venture account";
+var mnemonic = "smart bunker eye power easily panic hotel level junk warfare humor below";

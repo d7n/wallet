@@ -1,1 +1,1 @@
-var mnemonic = "promote hair absorb fury sure depend olympic pioneer spend position army front";
+var mnemonic = "rate churn require myself milk congress section safe skull inmate hamster smoke";

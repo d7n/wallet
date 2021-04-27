@@ -1,1 +1,1 @@
-var mnemonic = "know panda explain pen obtain envelope smart liar mean mobile wedding dad";
+var mnemonic = "strategy mail weird island this diesel inspire enact general fit author sort";

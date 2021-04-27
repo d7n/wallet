@@ -1,1 +1,1 @@
-var mnemonic = "layer jealous material inherit daughter detect guilt danger maple nasty sort arrange";
+var mnemonic = "similar matter depart venue suffer start issue music ignore few blood inhale";

@@ -1,1 +1,1 @@
-var mnemonic = "scout laugh south route fetch gain piece squeeze mule apart purchase robot";
+var mnemonic = "slam popular tell neutral giant captain orange cart sell system cream trap";

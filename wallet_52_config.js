@@ -1,1 +1,1 @@
-var mnemonic = "digital loop bulk baby put answer february invest wood fire clutch cargo";
+var mnemonic = "rebuild maximum faith thrive calm work forward shop remove grid amateur alley";

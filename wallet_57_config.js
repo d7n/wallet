@@ -1,1 +1,1 @@
-var mnemonic = "one edge slab figure reform torch jelly spell multiply grief valley census";
+var mnemonic = "common chef loyal code battle post album devote step leisure polar round";

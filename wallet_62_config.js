@@ -1,1 +1,1 @@
-var mnemonic = "man wage valley minimum script flash pride hospital casual side neglect person";
+var mnemonic = "toe ceiling sunny weird number arrange clap filter rotate check hair edit";

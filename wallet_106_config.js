@@ -1,1 +1,1 @@
-var mnemonic = "give accident marble buddy cook size crack task meadow december armed upset";
+var mnemonic = "unlock demand puzzle post rocket huge puzzle luxury prefer eagle number decorate";

@@ -1,1 +1,1 @@
-var mnemonic = "media property acquire extend endless leg slow few great organ funny army";
+var mnemonic = "lawn around climb royal absorb test enlist circle dizzy maze unaware token";

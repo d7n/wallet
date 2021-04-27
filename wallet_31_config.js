@@ -1,1 +1,1 @@
-var mnemonic = "honey crouch coconut gold move improve muscle twenty acoustic magnet faith obvious";
+var mnemonic = "surround civil barely have evoke tired drift bread creek repair tattoo caution";

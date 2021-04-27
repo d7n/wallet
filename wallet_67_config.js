@@ -1,1 +1,1 @@
-var mnemonic = "position pitch doll arrange piece ask matrix coral myth cry dizzy evolve";
+var mnemonic = "stuff wink seven cousin human alert grace field buyer wolf useful peace";

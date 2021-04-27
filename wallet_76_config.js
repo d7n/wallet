@@ -1,1 +1,1 @@
-var mnemonic = "march legend travel dust almost immense hip submit stay drastic violin muffin";
+var mnemonic = "drum problem direct pluck juice large will area parade unaware onion tank";

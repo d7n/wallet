@@ -1,1 +1,1 @@
-var mnemonic = "razor onion memory chunk remove blind regret stem era puzzle verify position";
+var mnemonic = "debate staff only cheap mammal multiply wet smoke olive sock labor regret";

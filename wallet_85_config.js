@@ -1,1 +1,1 @@
-var mnemonic = "frown crush punch blame mind sun tenant already bargain fury cigar inch";
+var mnemonic = "midnight gadget produce tissue erode garage celery such junior wave toss copper";

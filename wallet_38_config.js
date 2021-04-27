@@ -1,1 +1,1 @@
-var mnemonic = "nephew wall peace sting table hole april script pumpkin satoshi journey donkey";
+var mnemonic = "carry pull portion angry april wall since catch butter shaft congress spot";

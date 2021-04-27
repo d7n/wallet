@@ -1,1 +1,1 @@
-var mnemonic = "shift escape crystal usage soap stereo tired spawn grass razor voice nothing";
+var mnemonic = "ship mix kit elephant nation chat weather wrestle gentle silly pulp lounge";

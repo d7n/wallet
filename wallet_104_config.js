@@ -1,1 +1,1 @@
-var mnemonic = "junk attract hospital into boss boil hunt toss loyal fence unit found";
+var mnemonic = "stereo afford yellow dish valley connect kidney fossil thumb domain engage cabin";

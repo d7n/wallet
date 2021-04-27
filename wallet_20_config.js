@@ -1,1 +1,1 @@
-var mnemonic = "inject indicate inquiry coconut load two leisure student trouble frozen sell seat";
+var mnemonic = "miss toward unlock come world certain rose wait hamster globe gloom picture";

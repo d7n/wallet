@@ -1,1 +1,1 @@
-var mnemonic = "season search benefit canyon quote speak device decorate cousin since dragon rotate";
+var mnemonic = "wall enrich news country faith firm pluck borrow order present settle marble";

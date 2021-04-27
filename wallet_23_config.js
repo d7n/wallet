@@ -1,1 +1,1 @@
-var mnemonic = "noodle decade purse saddle hole earth trial pet net barrel labor art";
+var mnemonic = "inject address genuine prison write local label release include sail chat shrimp";

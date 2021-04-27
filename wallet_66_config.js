@@ -1,1 +1,1 @@
-var mnemonic = "erosion crash park broom surprise delay display when issue grape pride swift";
+var mnemonic = "frame erupt symbol pudding cabbage bamboo bless material pipe muscle genius retire";

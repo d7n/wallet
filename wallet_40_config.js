@@ -1,1 +1,1 @@
-var mnemonic = "divide museum atom fancy attack fortune bless artwork year gasp globe fork";
+var mnemonic = "silk render arm indicate jeans aerobic rent pause duty raise child wing";

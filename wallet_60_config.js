@@ -1,1 +1,1 @@
-var mnemonic = "call host possible illness isolate brush host select crowd speak wait squirrel";
+var mnemonic = "lawn shift pause pledge miracle human example powder fringe sauce cliff assume";

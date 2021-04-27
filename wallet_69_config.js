@@ -1,1 +1,1 @@
-var mnemonic = "submit bottom suspect kingdom liquid mobile canvas crime ask hole fork thank";
+var mnemonic = "other rail dust wing distance relief axis cattle kingdom upset exotic situate";

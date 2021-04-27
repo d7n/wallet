@@ -1,1 +1,1 @@
-var mnemonic = "season master payment odor cushion hobby subway direct shaft shed high outside";
+var mnemonic = "antenna sun hard bring promote farm misery differ blue thought throw tennis";

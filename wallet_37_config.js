@@ -1,1 +1,1 @@
-var mnemonic = "olympic meat sort link essay actor symbol earth coyote juice avocado brain";
+var mnemonic = "super slow total plug steak copper lawsuit cabbage order talk option caught";

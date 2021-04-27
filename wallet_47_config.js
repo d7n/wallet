@@ -1,1 +1,1 @@
-var mnemonic = "lemon aware fit round coyote biology fork autumn worth pave fetch mass";
+var mnemonic = "place cliff inside dose cart tree joy huge resemble filter lift business";

@@ -1,1 +1,1 @@
-var mnemonic = "february solar wet warrior before voyage quarter gravity shoe auction galaxy control";
+var mnemonic = "cactus run theme sail focus fat across lend embrace cute renew wise";

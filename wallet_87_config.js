@@ -1,1 +1,1 @@
-var mnemonic = "wide airport shock midnight brush anxiety erase chronic sheriff fly ramp walk";
+var mnemonic = "sunset slush strike lizard radio before injury giraffe blanket teach elegant castle";

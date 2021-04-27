@@ -1,1 +1,1 @@
-var mnemonic = "weird clown syrup rookie broken chat price stock limit habit win dad";
+var mnemonic = "educate hamster inflict wire pen approve major camp sense suit blossom over";

@@ -1,1 +1,1 @@
-var mnemonic = "utility athlete cereal expand beyond enable nuclear issue sibling code access spend";
+var mnemonic = "toast riot olympic impact wheel view minor replace laugh cotton uncle wide";

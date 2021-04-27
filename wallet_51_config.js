@@ -1,1 +1,1 @@
-var mnemonic = "envelope bottom during snack valley impose sweet cattle practice firm dinner paper";
+var mnemonic = "harbor color ginger grass simple guess garlic vicious type sugar evidence cliff";

@@ -1,1 +1,1 @@
-var mnemonic = "stool hockey collect knife fire source virtual entire copper avocado hundred party";
+var mnemonic = "glue exotic borrow volume balcony indicate display winner then enrich width must";

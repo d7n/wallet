@@ -1,1 +1,1 @@
-var mnemonic = "zero aim public soccer gown slight summer skull october walk castle ranch";
+var mnemonic = "almost loyal neglect bundle subject thought royal ability truth drum exile hint";

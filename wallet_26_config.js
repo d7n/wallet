@@ -1,1 +1,1 @@
-var mnemonic = "cat demand review swing camp fiscal hire mirror trick forum witness elegant";
+var mnemonic = "finger hazard review uncover peace shop shiver assume hidden era please dumb";

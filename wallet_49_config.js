@@ -1,1 +1,1 @@
-var mnemonic = "defense chair verb destroy elbow list economy end gym custom chalk swallow";
+var mnemonic = "merit alert song pass magic aim move eye badge liberty enable raven";

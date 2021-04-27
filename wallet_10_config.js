@@ -1,1 +1,1 @@
-var mnemonic = "wear escape dwarf short debris illness acquire menu wrong auto ketchup tone";
+var mnemonic = "goat baby gravity until diet love zoo shrimp zebra term strike mercy";

@@ -1,1 +1,1 @@
-var mnemonic = "manage middle blast finger private sing eternal wool patrol little fix define";
+var mnemonic = "remind brand report maximum differ spatial stereo across picnic camera move ostrich";

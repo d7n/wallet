@@ -1,1 +1,1 @@
-var mnemonic = "wish pony old zero rough park design apple young solid crane mountain";
+var mnemonic = "order donor offer orchard toward boil stand sudden canal only educate put";

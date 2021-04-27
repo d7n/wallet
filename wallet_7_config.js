@@ -1,1 +1,1 @@
-var mnemonic = "rough still tool priority west federal cart wash adapt road electric wheel";
+var mnemonic = "isolate unveil twin tool large essay unable hen field inhale next just";

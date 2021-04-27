@@ -1,1 +1,1 @@
-var mnemonic = "mosquito more afraid sample mimic shift another monkey unaware drama regular caught";
+var mnemonic = "soap silly curious picnic view exact naive infant timber snow camera trumpet";

@@ -1,1 +1,1 @@
-var mnemonic = "wrap caution motor bonus symptom another frequent morning elite animal artefact swap";
+var mnemonic = "leader toddler giraffe dice flower cube top raw next session auto calm";

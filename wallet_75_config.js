@@ -1,1 +1,1 @@
-var mnemonic = "post legal cousin exact pride shell spatial own yard hello enlist coil";
+var mnemonic = "stove fit title market midnight smooth spawn purse there tuna spawn pair";

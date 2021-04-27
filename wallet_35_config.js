@@ -1,1 +1,1 @@
-var mnemonic = "train glance valley boil devote lizard kiss duck lion letter clown kick";
+var mnemonic = "shoot network exercise congress element have dial twin festival nurse decline save";

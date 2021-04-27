@@ -1,1 +1,1 @@
-var mnemonic = "clarify gun arena start fish imitate doll birth foot belt logic rapid";
+var mnemonic = "adapt book peasant crowd apple six gravity spend produce crisp token industry";

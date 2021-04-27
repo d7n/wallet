@@ -1,1 +1,1 @@
-var mnemonic = "beauty involve achieve excess sword zone wash slight skate open cycle health";
+var mnemonic = "stool mouse ocean pear pear spirit chaos confirm expect daring fiction collect";

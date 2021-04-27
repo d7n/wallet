@@ -1,1 +1,1 @@
-var mnemonic = "abandon lizard piano spray quote display betray liar vanish tray lift unusual";
+var mnemonic = "advance ability mutual jeans road buddy sudden rack admit involve trend verify";

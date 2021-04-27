@@ -1,1 +1,1 @@
-var mnemonic = "slim term uniform cloud kitchen teach gain loop process monster devote promote";
+var mnemonic = "grape immune member quit trouble melt pencil beyond design despair gate exclude";

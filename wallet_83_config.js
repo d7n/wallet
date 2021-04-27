@@ -1,1 +1,1 @@
-var mnemonic = "claim surface scene vapor hunt banana into carry media nest height breeze";
+var mnemonic = "pilot despair lesson glance develop jacket loyal frozen uphold quit forward narrow";

@@ -1,1 +1,1 @@
-var mnemonic = "ball hub inside glory shiver gospel diesel famous occur illness strike wealth";
+var mnemonic = "tape pledge hamster exact code pool stairs come pear almost crucial often";

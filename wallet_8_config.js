@@ -1,1 +1,1 @@
-var mnemonic = "child unknown state mansion office palm try fit quarter add figure flat";
+var mnemonic = "bright kiss cheap midnight plug blood zebra sock estate canvas equip elbow";

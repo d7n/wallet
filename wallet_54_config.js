@@ -1,1 +1,1 @@
-var mnemonic = "air office resist system pumpkin round priority catalog exact teach mind cradle";
+var mnemonic = "foster mixture high sock tail truck keen jump material speed tribe defense";

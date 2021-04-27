@@ -1,1 +1,1 @@
-var mnemonic = "video empower supreme three scheme fire fold lyrics sugar survey aerobic main";
+var mnemonic = "degree fog cluster solid supply another draft ten basket entry youth carry";

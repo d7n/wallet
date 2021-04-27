@@ -1,1 +1,1 @@
-var mnemonic = "play trigger palace bless rebel edit force drop ship between blind tornado";
+var mnemonic = "okay advance legend shiver monster fade toward tiger unknown absurd grow dice";

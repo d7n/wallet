@@ -1,1 +1,1 @@
-var mnemonic = "blade they autumn unusual family bag flock illegal avocado foil busy dynamic";
+var mnemonic = "frost torch long sea credit solve peasant promote rib robot zebra ketchup";

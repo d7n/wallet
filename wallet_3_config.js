@@ -1,1 +1,1 @@
-var mnemonic = "clinic skate couch split response hat powder odor exit way vacuum tilt";
+var mnemonic = "coral kid name silk debate giggle invite together share mom throw food";

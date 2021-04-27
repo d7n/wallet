@@ -1,1 +1,1 @@
-var mnemonic = "agent person dawn eyebrow alone glue weasel jewel yard south hard kit";
+var mnemonic = "talent consider salt bubble give end vendor allow used peanut voyage faculty";

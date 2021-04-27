@@ -1,1 +1,1 @@
-var mnemonic = "cotton fox awkward deliver print invest hospital pool wealth luggage snake expire";
+var mnemonic = "range fit smile stone tooth funny shrimp gentle access bench daughter thank";

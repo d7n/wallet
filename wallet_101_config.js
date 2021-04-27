@@ -1,1 +1,1 @@
-var mnemonic = "damp small thumb concert sphere warm exhaust dizzy enhance priority spatial dragon";
+var mnemonic = "speed jaguar river antique athlete impact better tube decrease inflict smooth cancel";

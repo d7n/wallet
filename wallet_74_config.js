@@ -1,1 +1,1 @@
-var mnemonic = "tattoo nerve shrug butter upset include patch butter cool wrestle game kitten";
+var mnemonic = "child true food wool zebra swallow time scout blood black rescue display";

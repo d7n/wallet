@@ -1,1 +1,1 @@
-var mnemonic = "orphan olive kit spare staff energy fan miracle advice public pave alcohol";
+var mnemonic = "parent tomorrow dry mention custom sausage ill fly awake tragic figure actual";

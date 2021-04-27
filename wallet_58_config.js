@@ -1,1 +1,1 @@
-var mnemonic = "sick talent solid muffin circle deposit flock frown desk hire peasant nut";
+var mnemonic = "join version travel throw defy skill absurd cook modify inherit detail spider";

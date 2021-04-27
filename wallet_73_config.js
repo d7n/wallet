@@ -1,1 +1,1 @@
-var mnemonic = "hen repeat ridge air ship phrase expand spy test belt table honey";
+var mnemonic = "broom ramp diary soap thunder brisk mimic stem patient false execute clump";

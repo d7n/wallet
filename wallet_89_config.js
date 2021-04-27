@@ -1,1 +1,1 @@
-var mnemonic = "mistake body number envelope gesture clean sight find december return phrase tray";
+var mnemonic = "jewel roof only next inform urban kidney notice art lion black fancy";

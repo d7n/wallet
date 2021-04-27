@@ -1,1 +1,1 @@
-var mnemonic = "earn happy festival blush large inch couch dawn wood tattoo shift close";
+var mnemonic = "peace predict apart vote suspect galaxy wolf dilemma govern vibrant vehicle athlete";

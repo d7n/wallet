@@ -1,1 +1,1 @@
-var mnemonic = "shoulder basket ketchup reunion model scissors cluster announce brain mad raise tank";
+var mnemonic = "direct elite zoo daughter walk asthma rich problem inhale nothing truck bone";

@@ -1,1 +1,1 @@
-var mnemonic = "pair crouch hedgehog era forward sphere venture veteran verify urge relax field";
+var mnemonic = "debate prize camera ocean trigger uniform october quarter slight mail observe empty";

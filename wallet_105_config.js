@@ -1,1 +1,1 @@
-var mnemonic = "accident orphan weekend surface lake skirt kick merge tobacco obtain method melody";
+var mnemonic = "during boss later kiss donkey ladder cement picnic galaxy sausage renew build";

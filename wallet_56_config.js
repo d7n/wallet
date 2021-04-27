@@ -1,1 +1,1 @@
-var mnemonic = "leg fashion double catch sketch success derive twenty grab detect equip panic";
+var mnemonic = "lecture goat day animal blast rail cross mask sound simple effort slow";

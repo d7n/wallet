@@ -1,1 +1,1 @@
-var mnemonic = "dizzy eagle vanish void soup moment upgrade cancel tongue corn apology frozen";
+var mnemonic = "squeeze odor moment height noble blanket club image erode outside unveil purchase";

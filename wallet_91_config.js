@@ -1,1 +1,1 @@
-var mnemonic = "story decrease supply master pilot fantasy prevent multiply gift weird student meat";
+var mnemonic = "cannon situate release normal lab wise amateur area shock off suffer loud";

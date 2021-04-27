@@ -1,1 +1,1 @@
-var mnemonic = "coast fringe rug pause muscle crawl stomach purpose material sauce various gun";
+var mnemonic = "okay salute frog cross toast music nephew bonus shoot leisure nerve soft";

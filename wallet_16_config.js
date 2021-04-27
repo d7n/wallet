@@ -1,1 +1,1 @@
-var mnemonic = "robot people lazy typical divorce symptom pledge oblige session robust cruise total";
+var mnemonic = "syrup year blossom ladder name swap horror kind trigger detail vanish agree";

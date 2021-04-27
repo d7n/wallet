@@ -1,1 +1,1 @@
-var mnemonic = "yellow educate sustain door square coin crystal away toward bring jar flat";
+var mnemonic = "close this barely mystery detect actual dune tag spin exile wrist shrimp";

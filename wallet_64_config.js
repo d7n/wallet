@@ -1,1 +1,1 @@
-var mnemonic = "adjust menu drastic design position sheriff surprise seek imitate mercy perfect parent";
+var mnemonic = "girl pony target palace level flat hair erosion silly turn snap sister";

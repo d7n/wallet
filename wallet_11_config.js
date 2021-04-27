@@ -1,1 +1,1 @@
-var mnemonic = "true cupboard coach skin prefer curve damp sight false debate opinion prepare";
+var mnemonic = "wealth solid vibrant mask dress aspect goat unfair width seed about deliver";

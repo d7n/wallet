@@ -1,1 +1,1 @@
-var mnemonic = "orphan habit cloth hope february episode dash mammal warfare remain envelope matrix";
+var mnemonic = "know clever hamster client champion luxury salad razor mix nominee moment cage";

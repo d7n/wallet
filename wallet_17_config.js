@@ -1,1 +1,1 @@
-var mnemonic = "crystal label slab square refuse relief trigger gadget walk become crunch wink";
+var mnemonic = "flock combine bleak ritual spawn off tonight furnace mesh actress file trigger";

@@ -1,1 +1,1 @@
-var mnemonic = "elite sport extend chase carry common length fun broom post glare color";
+var mnemonic = "neither maple salon man liar fragile broom accuse reject paper profit manage";
