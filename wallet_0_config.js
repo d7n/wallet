@@ -1,1 +1,1 @@
-var mnemonic = "seat shuffle shield power student claim vendor destroy unit between nation vendor";
+var mnemonic = "economy anxiety foot hammer script rookie quiz abstract own glove swim equal";

@@ -1,1 +1,1 @@
-var mnemonic = "defy wrist reason beyond assist faint collect memory fatigue main rival merge";
+var mnemonic = "uncle strong hungry rib spirit special page ivory jaguar winter learn question";

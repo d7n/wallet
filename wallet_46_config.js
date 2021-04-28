@@ -1,1 +1,1 @@
-var mnemonic = "laundry noise goddess affair submit rose chuckle purse high sorry dash manual";
+var mnemonic = "pause sponsor gaze width window inhale pen skirt giraffe right cheap suspect";

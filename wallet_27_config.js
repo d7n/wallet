@@ -1,1 +1,1 @@
-var mnemonic = "ice mushroom crush choice flush tilt dinner wear alter diet glide faint";
+var mnemonic = "satoshi easily vehicle pass anchor load state team faint stable flock lift";

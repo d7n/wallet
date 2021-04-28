@@ -1,1 +1,1 @@
-var mnemonic = "hobby erupt cruise flock soon thunder bleak lab hurdle artefact twist surface";
+var mnemonic = "snake broccoli assist genius mushroom salon priority coach chronic sense suggest kit";

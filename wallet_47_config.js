@@ -1,1 +1,1 @@
-var mnemonic = "girl shaft silent athlete coconut service scare ugly world gap rose bacon";
+var mnemonic = "live layer cruise eager polar pass maple daring party cement sugar sleep";

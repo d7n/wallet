@@ -1,1 +1,1 @@
-var mnemonic = "visa clock north history wing skull insect fish around cabin business tilt";
+var mnemonic = "coconut aware gallery vapor solve install ball option adult teach situate twenty";

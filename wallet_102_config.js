@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur antenna nest peace urban excite stay spirit stool episode flower smoke";
+var mnemonic = "session health husband trip raven such eight inside pencil aunt record mango";

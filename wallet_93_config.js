@@ -1,1 +1,1 @@
-var mnemonic = "fish acquire whisper sustain syrup tired ring garden belt wise oxygen primary";
+var mnemonic = "outside oblige basket chuckle grain phrase crater cross faith pledge adapt daring";

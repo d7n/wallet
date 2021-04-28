@@ -1,1 +1,1 @@
-var mnemonic = "private lecture catch afraid exercise bracket upgrade capital decorate trumpet waste forget";
+var mnemonic = "harvest cruise cousin embody road vibrant swear lizard wild forum emotion learn";

@@ -1,1 +1,1 @@
-var mnemonic = "suit love uniform staff onion acid tiger genius magnet auto uncle broom";
+var mnemonic = "ahead vessel rifle nature unveil jump offer chief caught tomato abstract economy";

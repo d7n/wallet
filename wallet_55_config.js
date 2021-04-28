@@ -1,1 +1,1 @@
-var mnemonic = "people month tattoo setup arctic wolf jewel spin edit patrol sibling pair";
+var mnemonic = "scene act effort giant olympic wave trap dash winter slender armed dismiss";

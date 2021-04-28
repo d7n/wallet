@@ -1,1 +1,1 @@
-var mnemonic = "sad air bag display blind inside eternal laundry symbol swap length sunny";
+var mnemonic = "hawk picture execute rough harbor have cluster rice assault noodle across reason";

@@ -1,1 +1,1 @@
-var mnemonic = "path convince fortune marine siege direct mix fetch wrist code sample ball";
+var mnemonic = "into kidney catalog cross soda heart hire used ripple wild similar vast";

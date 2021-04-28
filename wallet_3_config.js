@@ -1,1 +1,1 @@
-var mnemonic = "armed ceiling volume immune buddy thrive dismiss piece ready beef car hybrid";
+var mnemonic = "ceiling metal insane police throw praise symptom ginger book this piece neck";

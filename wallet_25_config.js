@@ -1,1 +1,1 @@
-var mnemonic = "humble curious train moment crop into mushroom alter spell deny junk finish";
+var mnemonic = "win dog april elder bulk member book broccoli surprise tomorrow nasty scout";

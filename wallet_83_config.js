@@ -1,1 +1,1 @@
-var mnemonic = "next sample mass sunset way split sand talent valid doll setup club";
+var mnemonic = "catch glue dry pyramid check front slight used elbow order meat exhaust";

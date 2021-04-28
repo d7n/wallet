@@ -1,1 +1,1 @@
-var mnemonic = "cup shell frog endorse merge cloud tree rich relief adjust ask debris";
+var mnemonic = "cave soldier shoulder struggle purchase region become reason save oyster unlock vital";

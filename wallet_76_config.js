@@ -1,1 +1,1 @@
-var mnemonic = "long invite vault pole purity toward come steak visit decide copper select";
+var mnemonic = "verb dawn bacon purchase camera fault hotel ensure cigar quit nephew sad";

@@ -1,1 +1,1 @@
-var mnemonic = "song engage farm aware chicken tent window blade ill teach lizard pond";
+var mnemonic = "august barrel finish video match mistake harvest shove ticket inject general wagon";

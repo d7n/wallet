@@ -1,1 +1,1 @@
-var mnemonic = "drink arm baby prefer mystery next duck science song real sock more";
+var mnemonic = "shine tip bid act balcony matrix escape movie ecology giraffe witness typical";

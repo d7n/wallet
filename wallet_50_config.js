@@ -1,1 +1,1 @@
-var mnemonic = "require sadness embody liquid cushion liquid illegal slim obvious turtle cheap fee";
+var mnemonic = "apart find clerk primary upper van wreck amazing style garage guess visit";

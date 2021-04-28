@@ -1,1 +1,1 @@
-var mnemonic = "desk tissue math swamp artist merge caution culture false survey urban stool";
+var mnemonic = "crash solar wife divide uniform toilet black jar spoil double clerk trophy";

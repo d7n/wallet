@@ -1,1 +1,1 @@
-var mnemonic = "suit tag juice annual army bitter whip version must lawsuit put pen";
+var mnemonic = "twelve bulb family matter tree very prevent label unknown select view board";

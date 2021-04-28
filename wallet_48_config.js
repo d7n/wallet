@@ -1,1 +1,1 @@
-var mnemonic = "gadget side loop turkey ladder fancy melt inmate card exclude shield aunt";
+var mnemonic = "amazing brain tourist pride hood silk mention retreat net strike word someone";

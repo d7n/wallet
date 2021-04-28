@@ -1,1 +1,1 @@
-var mnemonic = "aspect police mammal column erode tissue brisk return page provide deny valid";
+var mnemonic = "dove chair unfair december sniff boost goose rapid curve rug gain green";

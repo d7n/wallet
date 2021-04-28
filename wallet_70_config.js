@@ -1,1 +1,1 @@
-var mnemonic = "wrap course pelican fade arrow absurd swap rely rug same cotton hurdle";
+var mnemonic = "witness catalog insane awake token link price magic better trophy exchange treat";

@@ -1,1 +1,1 @@
-var mnemonic = "loan obtain motion lab remind sand gap ripple fitness group wedding beyond";
+var mnemonic = "maze cheap minimum actress sail voice develop gate busy vehicle hip ribbon";

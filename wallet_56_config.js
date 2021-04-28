@@ -1,1 +1,1 @@
-var mnemonic = "fatigue pistol peanut day economy you innocent legend stable rain hat citizen";
+var mnemonic = "demise claw exotic region cool announce human find match paddle crater history";

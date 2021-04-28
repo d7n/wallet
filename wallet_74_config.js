@@ -1,1 +1,1 @@
-var mnemonic = "scrub fame fame garlic earn garden meadow abstract work holiday victory village";
+var mnemonic = "auto inside crisp ticket skin march universe treat spin clarify puzzle radar";

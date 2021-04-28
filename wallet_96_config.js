@@ -1,1 +1,1 @@
-var mnemonic = "medal rigid cry tip knee jealous spin rate pepper work crawl foster";
+var mnemonic = "moon disorder giant trade inside skirt repeat prevent harbor success funny tiger";

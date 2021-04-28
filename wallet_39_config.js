@@ -1,1 +1,1 @@
-var mnemonic = "squirrel series shrug eye ivory spice magic snack gravity critic street bomb";
+var mnemonic = "lunar yard view hawk vast start census train garage quick basic summer";

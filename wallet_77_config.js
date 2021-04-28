@@ -1,1 +1,1 @@
-var mnemonic = "industry must patrol enrich pigeon seminar speak two loud first year wage";
+var mnemonic = "trial kit try gauge tool patient course utility parrot long tree mandate";

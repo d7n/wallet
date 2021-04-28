@@ -1,1 +1,1 @@
-var mnemonic = "become library mercy fatigue eight long universe food reason joy shoot find";
+var mnemonic = "torch shuffle fluid gift extra purity session barely head smooth jealous master";

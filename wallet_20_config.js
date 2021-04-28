@@ -1,1 +1,1 @@
-var mnemonic = "divorce wet ginger river abandon ring mind direct cereal brother ramp head";
+var mnemonic = "spice valid cheese slide apology sight barely orphan frozen chuckle clip fat";

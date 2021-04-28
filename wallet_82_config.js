@@ -1,1 +1,1 @@
-var mnemonic = "cream burst sweet broom nature wrestle bike child curtain axis april mechanic";
+var mnemonic = "bicycle news outside perfect shell again spawn force bright blur bike pride";

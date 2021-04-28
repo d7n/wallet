@@ -1,1 +1,1 @@
-var mnemonic = "blanket egg time burden code shoot weather citizen useless online whip stairs";
+var mnemonic = "dinosaur fog hope poet draw search person talk fire chimney ankle tape";

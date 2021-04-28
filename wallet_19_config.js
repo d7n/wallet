@@ -1,1 +1,1 @@
-var mnemonic = "gentle sing belt infant pumpkin stamp edge praise stuff square celery other";
+var mnemonic = "buddy nasty tray traffic pony crystal garlic fork nurse medal river excite";

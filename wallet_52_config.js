@@ -1,1 +1,1 @@
-var mnemonic = "amazing prefer disease shadow city vapor margin upon guard obtain mountain survey";
+var mnemonic = "company guitar what comic scan wish toe mule siege embrace ocean brown";

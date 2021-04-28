@@ -1,1 +1,1 @@
-var mnemonic = "sadness visual three divorce conduct record wide enrich spike apology cactus vessel";
+var mnemonic = "kite fetch first suggest used stereo metal salt very celery beef subject";

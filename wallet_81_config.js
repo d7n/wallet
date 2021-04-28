@@ -1,1 +1,1 @@
-var mnemonic = "blossom crucial similar lecture short work access answer flame raven climb behave";
+var mnemonic = "spoon plastic version lemon foil erosion arm weasel abstract guilt uniform element";

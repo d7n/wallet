@@ -1,1 +1,1 @@
-var mnemonic = "industry faint fox sweet twist guard mobile note inner casual wish orbit";
+var mnemonic = "oyster pipe arrive produce kiss squeeze capital struggle grass pull beef second";

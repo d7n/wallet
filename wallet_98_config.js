@@ -1,1 +1,1 @@
-var mnemonic = "detect file sting oblige deliver come public end weekend control damp develop";
+var mnemonic = "meadow category shallow seed ostrich among argue between caution confirm dizzy way";

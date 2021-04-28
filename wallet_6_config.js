@@ -1,1 +1,1 @@
-var mnemonic = "lyrics pepper heavy repeat advance message physical produce purse void inform student";
+var mnemonic = "dutch worry conduct warrior stumble family cost praise tiny axis erosion runway";

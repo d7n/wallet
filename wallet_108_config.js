@@ -1,1 +1,1 @@
-var mnemonic = "faculty sound electric either inch response spray dinosaur spice hint work train";
+var mnemonic = "save danger time plunge long wide coach civil round blood type waste";

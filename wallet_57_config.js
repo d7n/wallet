@@ -1,1 +1,1 @@
-var mnemonic = "review bleak affair exist sibling absent tree own depart pen athlete fatal";
+var mnemonic = "sock trend record jar bicycle soft scrub light egg business undo update";

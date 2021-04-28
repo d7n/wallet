@@ -1,1 +1,1 @@
-var mnemonic = "all bike toe valid ivory cat genuine follow story double sponsor patient";
+var mnemonic = "clerk shrug keen list audit race organ grunt lesson lucky nose impose";

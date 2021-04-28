@@ -1,1 +1,1 @@
-var mnemonic = "affair remove frown wage foam action worry reduce lawsuit oxygen confirm visa";
+var mnemonic = "hour ride option scissors today solve sock august vintage chapter frequent length";

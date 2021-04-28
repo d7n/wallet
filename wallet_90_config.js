@@ -1,1 +1,1 @@
-var mnemonic = "regular rocket hospital correct chronic wolf pluck inform square accident frog yard";
+var mnemonic = "stem rebuild dizzy grunt fun scatter core actress small phone gospel wolf";

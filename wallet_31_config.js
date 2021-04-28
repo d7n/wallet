@@ -1,1 +1,1 @@
-var mnemonic = "company loop rely wink castle absent napkin cousin elephant near obscure turkey";
+var mnemonic = "orbit vibrant crush endorse promote mule choice poet evolve satoshi review plastic";

@@ -1,1 +1,1 @@
-var mnemonic = "monkey exile air arch little club unit elite nice tunnel blur fall";
+var mnemonic = "awkward work bounce first noble decrease verify dish twice lava invite spike";

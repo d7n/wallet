@@ -1,1 +1,1 @@
-var mnemonic = "dizzy intact ill among flavor entire earn media forget merge trend denial";
+var mnemonic = "around endorse fluid cushion shrug arrive horror injury soon where add artist";

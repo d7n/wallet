@@ -1,1 +1,1 @@
-var mnemonic = "miss mean year glide order champion detect autumn elder eight blossom talk";
+var mnemonic = "tackle candy divide build tail submit universe reunion cheap infant warrior rather";

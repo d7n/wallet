@@ -1,1 +1,1 @@
-var mnemonic = "rocket panic purity sell soda session lounge file drive eager curtain autumn";
+var mnemonic = "boil unaware keen paddle coach hold swift kitchen crawl tooth say chunk";

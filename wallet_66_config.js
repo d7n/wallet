@@ -1,1 +1,1 @@
-var mnemonic = "butter galaxy crowd helmet entire vehicle theory fork news electric left champion";
+var mnemonic = "display term valve dynamic civil phrase oppose act soldier cube modify shadow";

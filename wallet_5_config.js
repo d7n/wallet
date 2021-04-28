@@ -1,1 +1,1 @@
-var mnemonic = "endorse document address easy female magnet palace meadow balcony amused mail hood";
+var mnemonic = "wreck shift found vast fault vapor spike local sock spot cliff genius";

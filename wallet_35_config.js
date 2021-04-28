@@ -1,1 +1,1 @@
-var mnemonic = "excess action tobacco jar honey buzz age chapter snack table wonder loud";
+var mnemonic = "orphan rose govern potato foil almost ticket lonely where track degree east";

@@ -1,1 +1,1 @@
-var mnemonic = "relief paper easy adjust unfold bomb clock include clutch butter exhaust wave";
+var mnemonic = "drill cram furnace power leave throw police rocket seminar belt verify monster";

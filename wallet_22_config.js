@@ -1,1 +1,1 @@
-var mnemonic = "expect elbow mirror accident opinion lawsuit give more zone duty bundle fade";
+var mnemonic = "cook coconut tissue mandate envelope lawsuit cruise coin elegant select adult access";

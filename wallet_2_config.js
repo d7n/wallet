@@ -1,1 +1,1 @@
-var mnemonic = "ginger rack tennis home unhappy fish south until around cancel excess curious";
+var mnemonic = "exact output sting gate tell luxury suffer toss boring aware moral space";

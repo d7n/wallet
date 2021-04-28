@@ -1,1 +1,1 @@
-var mnemonic = "pretty arctic exchange market yellow strike disorder dawn side lamp pattern note";
+var mnemonic = "pyramid still garden joke artwork charge crime jungle rail rural tragic minute";

@@ -1,1 +1,1 @@
-var mnemonic = "health near grunt local stadium open deputy shove kick cliff pupil response";
+var mnemonic = "crime thank lemon pudding congress romance candy creek insect place faint other";

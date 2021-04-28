@@ -1,1 +1,1 @@
-var mnemonic = "depart mouse term jelly soon sunny awesome junk prison dilemma oak fine";
+var mnemonic = "share post travel force birth bike only skill door cupboard brave note";

@@ -1,1 +1,1 @@
-var mnemonic = "blur enhance gift dawn glide design carpet prepare all broken dog tide";
+var mnemonic = "boost puppy labor eyebrow cluster leave bean prosper useful fly retire option";

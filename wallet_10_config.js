@@ -1,1 +1,1 @@
-var mnemonic = "equip river staff prison lyrics you traffic absorb crime answer clutch mansion";
+var mnemonic = "boy attitude century memory list ankle shield initial duty poet like game";

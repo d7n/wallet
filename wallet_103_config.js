@@ -1,1 +1,1 @@
-var mnemonic = "abstract vessel ocean whip oblige cigar educate wrist hip answer lunch thought";
+var mnemonic = "flock quantum pattern knife ivory ask tenant memory morning awful wild room";

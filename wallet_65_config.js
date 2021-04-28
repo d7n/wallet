@@ -1,1 +1,1 @@
-var mnemonic = "casual scrub sweet call erosion anxiety exhibit soccer cradle stumble same face";
+var mnemonic = "easy act undo valve that mystery page sure position gesture village obvious";

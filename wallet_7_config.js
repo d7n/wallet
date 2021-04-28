@@ -1,1 +1,1 @@
-var mnemonic = "stereo hint allow syrup dizzy artist rail flush spend piano used strong";
+var mnemonic = "arch lion bachelor tape cake random replace second total install gauge palace";

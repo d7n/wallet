@@ -1,1 +1,1 @@
-var mnemonic = "artist image sunset brisk exercise giraffe prize green admit upon sadness slab";
+var mnemonic = "blur twist tray flee stumble access only east step umbrella object calm";

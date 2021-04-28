@@ -1,1 +1,1 @@
-var mnemonic = "nominee mosquito moral trick merry twin entire taste crater ship wet exhibit";
+var mnemonic = "side winner boat mirror region hamster police position question alone fiber gas";

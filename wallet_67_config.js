@@ -1,1 +1,1 @@
-var mnemonic = "pull opinion click reject sell island student bounce trap dentist adjust leave";
+var mnemonic = "onion slide iron maximum hero clump shuffle nose assault visit dose usage";

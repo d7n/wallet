@@ -1,1 +1,1 @@
-var mnemonic = "only insect club giggle area then lava speak any clerk juice armed";
+var mnemonic = "across gym planet aisle bitter adjust axis exclude spare involve cargo engage";

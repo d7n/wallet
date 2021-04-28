@@ -1,1 +1,1 @@
-var mnemonic = "stand wait person run ring carpet flat faith parade solve fiscal soap";
+var mnemonic = "track various little team collect tail island tired firm when edge direct";

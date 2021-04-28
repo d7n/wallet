@@ -1,1 +1,1 @@
-var mnemonic = "claim column dose brisk decorate whisper soul pet captain weapon diesel tag";
+var mnemonic = "cinnamon drastic own cabin intact naive obvious position plastic bike soup injury";

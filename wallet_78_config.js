@@ -1,1 +1,1 @@
-var mnemonic = "biology merge borrow joy rescue congress talent apology admit damp lamp patch";
+var mnemonic = "wink consider wave alien heavy then daring arrive split feel guilt citizen";

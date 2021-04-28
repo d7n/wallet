@@ -1,1 +1,1 @@
-var mnemonic = "accuse acoustic cheese phrase bullet annual boost tree almost balcony despair cabin";
+var mnemonic = "waste major thank moment hotel frozen melody buffalo erode surround cash jazz";

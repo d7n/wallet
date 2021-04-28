@@ -1,1 +1,1 @@
-var mnemonic = "field depend club obey cherry tray cave fine guard outer fee ignore";
+var mnemonic = "present ridge grain abstract make wrong radar base direct require flee impose";

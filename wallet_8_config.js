@@ -1,1 +1,1 @@
-var mnemonic = "where shine pact hip air mobile define adapt trip cricket chicken slice";
+var mnemonic = "east feed tip oak print verify night neutral topple use dinosaur fortune";

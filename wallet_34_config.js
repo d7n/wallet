@@ -1,1 +1,1 @@
-var mnemonic = "delay gorilla motor open cloth size alter unit budget buddy salon run";
+var mnemonic = "problem morning panther punch umbrella among donor trophy nuclear extra battle true";

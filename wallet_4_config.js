@@ -1,1 +1,1 @@
-var mnemonic = "photo attract gift vital vanish second brain survey melody atom convince fiber";
+var mnemonic = "wheat quiz umbrella muscle crystal feel mushroom lens attack enough nice oval";

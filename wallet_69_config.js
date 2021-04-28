@@ -1,1 +1,1 @@
-var mnemonic = "depart sad soda lock double there left material edge keen path raw";
+var mnemonic = "maximum damp quit myself dry will also change salon picture smile fatal";

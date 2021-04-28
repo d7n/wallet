@@ -1,1 +1,1 @@
-var mnemonic = "tool adjust salon kite prepare pitch basic speed annual oxygen people noble";
+var mnemonic = "custom west absorb pair siege retire dolphin orient rural slide clump merry";

@@ -1,1 +1,1 @@
-var mnemonic = "direct armed road believe century wine fault live tunnel garbage movie milk";
+var mnemonic = "pet funny cushion suffer mushroom provide busy sunset card elbow century excess";

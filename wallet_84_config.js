@@ -1,1 +1,1 @@
-var mnemonic = "verb space daring north mystery state demise quality state junior under idea";
+var mnemonic = "above theory alcohol yellow item plate protect wall romance girl can digital";

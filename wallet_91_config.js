@@ -1,1 +1,1 @@
-var mnemonic = "destroy simple tiny cousin unable boss ten impact old strong nut crystal";
+var mnemonic = "shell park muffin hunt border member paper desk census prison need turkey";

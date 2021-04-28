@@ -1,1 +1,1 @@
-var mnemonic = "cry behind into deal march bird void estate goose school orange wing";
+var mnemonic = "question guess panic misery they minimum shiver congress delay lounge strong method";

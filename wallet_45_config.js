@@ -1,1 +1,1 @@
-var mnemonic = "priority monitor suspect seek tortoise cluster dance unveil tourist return derive flower";
+var mnemonic = "excite foam collect arrive paddle prosper rent luggage flight normal million since";

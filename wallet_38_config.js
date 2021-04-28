@@ -1,1 +1,1 @@
-var mnemonic = "first ozone mouse measure embrace junior turtle aim cherry river chuckle security";
+var mnemonic = "alien reform hire verify toy praise bacon achieve warm use surround tobacco";

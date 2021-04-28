@@ -1,1 +1,1 @@
-var mnemonic = "diet belt private gadget tongue gossip visit list tortoise sick emerge someone";
+var mnemonic = "news chapter excess kit engage coach three fuel wage pledge picnic slam";

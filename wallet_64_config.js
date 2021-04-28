@@ -1,1 +1,1 @@
-var mnemonic = "math universe razor easily unusual differ glass swarm cheap garment stumble follow";
+var mnemonic = "seat guilt jeans snap net enable spray address broken random seminar corn";
