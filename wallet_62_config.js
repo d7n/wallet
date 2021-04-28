@@ -1,1 +1,1 @@
-var mnemonic = "sudden predict keen reunion satoshi argue slight olive vocal thought nature input";
+var mnemonic = "post asthma quantum helmet mountain gauge critic bronze bulk winner code dismiss";

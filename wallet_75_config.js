@@ -1,1 +1,1 @@
-var mnemonic = "mirror hood hamster invest lock engine ostrich market bargain busy insect parent";
+var mnemonic = "peace hunt caution try artefact gas kit gospel tennis crater junk square";

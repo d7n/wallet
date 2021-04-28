@@ -1,1 +1,1 @@
-var mnemonic = "chicken orient case obey canoe police enforce witness ship horse cross kitten";
+var mnemonic = "sadness sock ancient open describe truck ghost curious salt property whale fabric";

@@ -1,1 +1,1 @@
-var mnemonic = "minute argue misery tattoo mansion knock state pass enough large table pipe";
+var mnemonic = "razor twist panic kick slogan debris start matrix lawsuit warfare arm mercy";

@@ -1,1 +1,1 @@
-var mnemonic = "glory travel force horror step entry one mercy assault canal script require";
+var mnemonic = "medal lady inform lucky rare sand squeeze jewel estate equip mean asset";

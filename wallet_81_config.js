@@ -1,1 +1,1 @@
-var mnemonic = "daring juice type shoulder suggest drip slam february badge enable rather raccoon";
+var mnemonic = "spell wheel obtain spend two pilot library load amazing immune bundle tomorrow";

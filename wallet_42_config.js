@@ -1,1 +1,1 @@
-var mnemonic = "admit dismiss marine faint boil cotton taste exclude main bundle silly movie";
+var mnemonic = "bronze expand ship broken lens result finish pulse ribbon velvet early zoo";

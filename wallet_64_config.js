@@ -1,1 +1,1 @@
-var mnemonic = "fancy medal episode upon robust unfair acid alarm admit grit hire wild";
+var mnemonic = "attack toe tunnel olympic matter coral little warfare direct injury reunion lucky";

@@ -1,1 +1,1 @@
-var mnemonic = "mistake dance glass arena wife race time shift oblige poet output travel";
+var mnemonic = "write garlic olive smoke become clown soap violin grit gossip energy tissue";

@@ -1,1 +1,1 @@
-var mnemonic = "wine resource awake uncle bicycle scrub beauty impose chest first certain patrol";
+var mnemonic = "utility lemon replace drip asthma betray either seat fit define umbrella glove";

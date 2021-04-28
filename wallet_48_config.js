@@ -1,1 +1,1 @@
-var mnemonic = "solution loop choice scene they grain voice stumble ladder omit dilemma cliff";
+var mnemonic = "bulk similar grape short dragon drip kitchen odor trouble turtle umbrella damp";

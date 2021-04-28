@@ -1,1 +1,1 @@
-var mnemonic = "donor token pretty awkward flock lounge speak moment cannon float apple place";
+var mnemonic = "beyond creek dose salon they adjust way modify drive coin cancel pizza";

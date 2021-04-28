@@ -1,1 +1,1 @@
-var mnemonic = "useful govern black creek only bridge rival organ skin wrestle decline behave";
+var mnemonic = "air okay minimum audit lake favorite message wash mention fiber track token";

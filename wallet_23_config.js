@@ -1,1 +1,1 @@
-var mnemonic = "mixture swim stomach shrimp injury bulk move before dinosaur choose scale ostrich";
+var mnemonic = "equip door master ecology talk test receive imitate that anxiety struggle fee";

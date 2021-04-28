@@ -1,1 +1,1 @@
-var mnemonic = "gorilla salt sweet leg width law stamp glory ozone isolate wide toss";
+var mnemonic = "embrace total budget try when asset brick version armed verb skill mule";

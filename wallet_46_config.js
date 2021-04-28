@@ -1,1 +1,1 @@
-var mnemonic = "build medal dirt grief stamp life daring advance carbon company thing always";
+var mnemonic = "sauce art session bright animal chronic resemble practice paper jump smart season";

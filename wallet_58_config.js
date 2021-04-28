@@ -1,1 +1,1 @@
-var mnemonic = "degree organ magic east soul online solution apology shadow check used assault";
+var mnemonic = "model dream option cat genius survey appear lonely found fantasy claim federal";

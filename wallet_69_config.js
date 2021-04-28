@@ -1,1 +1,1 @@
-var mnemonic = "tumble supply acoustic net flock riot drum ceiling anger chicken room arctic";
+var mnemonic = "wild thank hurdle edit squeeze express hire keen voyage road project usual";

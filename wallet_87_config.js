@@ -1,1 +1,1 @@
-var mnemonic = "book rug camp guilt fee hybrid state laundry loyal gadget apart elder";
+var mnemonic = "slender paper tattoo suit wife frown pelican aim upgrade marble warfare canyon";

@@ -1,1 +1,1 @@
-var mnemonic = "tumble betray security bar case pair renew approve fire hammer gap family";
+var mnemonic = "pen child anchor dress print dizzy between erase hero visit craft buddy";

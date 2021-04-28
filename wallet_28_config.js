@@ -1,1 +1,1 @@
-var mnemonic = "snow whisper fault tenant valve various common display hair toy meadow inject";
+var mnemonic = "park admit resist omit ahead false like dumb strategy bronze speed anxiety";

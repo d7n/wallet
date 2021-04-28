@@ -1,1 +1,1 @@
-var mnemonic = "gentle leaf plastic job ketchup fun beef fall debris aisle crop witness";
+var mnemonic = "cluster capital robust oven able scare scale asset custom else left album";

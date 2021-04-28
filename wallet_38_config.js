@@ -1,1 +1,1 @@
-var mnemonic = "sheriff ancient palm verb squirrel edit box rib happy upon advice style";
+var mnemonic = "have glue mystery face snap lecture crop rebuild holiday layer share assume";

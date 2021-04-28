@@ -1,1 +1,1 @@
-var mnemonic = "buzz term erosion square south jar school shoot sphere guitar raw drink";
+var mnemonic = "author public image spend punch history ostrich unable middle donate hen vague";

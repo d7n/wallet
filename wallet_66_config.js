@@ -1,1 +1,1 @@
-var mnemonic = "nest satisfy water local flag flag desk crucial purity month increase unveil";
+var mnemonic = "burger wife boss current eagle upgrade lizard sphere can sword joy field";

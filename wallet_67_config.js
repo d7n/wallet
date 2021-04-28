@@ -1,1 +1,1 @@
-var mnemonic = "barely rent decide correct damp shove february minimum winner entire comfort powder";
+var mnemonic = "traffic boring predict during approve correct old gasp right hollow aisle digital";

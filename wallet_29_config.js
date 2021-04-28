@@ -1,1 +1,1 @@
-var mnemonic = "adjust summer motion vocal barrel give paper ticket happy sock gun topple";
+var mnemonic = "fever theory addict primary chat engage yard universe visit donor movie fun";

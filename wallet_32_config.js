@@ -1,1 +1,1 @@
-var mnemonic = "hybrid artefact shop roof affair hope illegal absorb treat delay worth into";
+var mnemonic = "clump tuna december swamp habit include raven occur citizen recycle gloom good";

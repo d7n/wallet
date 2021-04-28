@@ -1,1 +1,1 @@
-var mnemonic = "fit uncover reform fog oil then rose gather danger page zone trial";
+var mnemonic = "relax thunder feed rapid chimney true vintage quick intact twist sister clock";

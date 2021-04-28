@@ -1,1 +1,1 @@
-var mnemonic = "click shrimp review lamp swift sudden mule leaf stone army island velvet";
+var mnemonic = "also float world valley wine rifle insane love basket mushroom mushroom dial";

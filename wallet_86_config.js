@@ -1,1 +1,1 @@
-var mnemonic = "shrimp hurry fever weekend danger defy cotton young either intact chunk control";
+var mnemonic = "maple plug oyster dutch mesh exclude type animal vintage divert such slot";

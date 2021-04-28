@@ -1,1 +1,1 @@
-var mnemonic = "palm sadness behave dream thrive kick improve december silent true poet flee";
+var mnemonic = "exit repeat range fault crack journey spy glare dash face quick parent";

@@ -1,1 +1,1 @@
-var mnemonic = "step any tone father friend hurdle decide own art donate alone slim";
+var mnemonic = "alter abstract notable diet struggle before vital blind total veteran ignore fever";

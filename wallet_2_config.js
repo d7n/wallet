@@ -1,1 +1,1 @@
-var mnemonic = "gesture judge high scale wait novel volcano click team simple whisper stuff";
+var mnemonic = "diary inner inmate bronze later machine hover civil invest window tumble foil";

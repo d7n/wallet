@@ -1,1 +1,1 @@
-var mnemonic = "jealous police reflect expand boat magnet grass short educate patrol buzz pupil";
+var mnemonic = "bacon arrive enough flight enlist satoshi alert syrup audit vanish knee stock";

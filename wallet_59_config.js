@@ -1,1 +1,1 @@
-var mnemonic = "modify run quiz borrow attract march exist zebra goddess digital prison supply";
+var mnemonic = "town side blame future benefit wedding egg cruise winter inhale neglect leader";

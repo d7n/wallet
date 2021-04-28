@@ -1,1 +1,1 @@
-var mnemonic = "cherry dice dial employ garage wrap broken boy tilt coconut betray summer";
+var mnemonic = "country heavy staff object pave praise return milk nephew patrol episode inch";

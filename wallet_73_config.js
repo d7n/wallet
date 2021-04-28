@@ -1,1 +1,1 @@
-var mnemonic = "slice drama fantasy frog frame define member ritual gather time cattle fold";
+var mnemonic = "assist unaware mix dad armor fame hobby afford buddy soccer adjust liquid";

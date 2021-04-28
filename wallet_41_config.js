@@ -1,1 +1,1 @@
-var mnemonic = "kite stone noise detect soccer below witness fun stadium thank broom sand";
+var mnemonic = "blossom shove brief logic alarm erase round you height jealous soccer display";

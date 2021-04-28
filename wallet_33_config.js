@@ -1,1 +1,1 @@
-var mnemonic = "owner pledge explain bronze doll senior april august toe adapt then task";
+var mnemonic = "virus frozen demise winner helmet chest title syrup bean produce rival tag";

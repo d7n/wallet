@@ -1,1 +1,1 @@
-var mnemonic = "woman deny light transfer hurdle session junk dilemma chuckle umbrella wine creek";
+var mnemonic = "melody model web myself square office bleak pioneer blade stadium ride report";

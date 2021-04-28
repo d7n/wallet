@@ -1,1 +1,1 @@
-var mnemonic = "cement inflict race seat dice dish crunch clock magic toss test title";
+var mnemonic = "cheese quality airport effort fashion glory report swim dilemma smile assault glove";

@@ -1,1 +1,1 @@
-var mnemonic = "series trust faculty north olive property shy discover expire toilet tide gadget";
+var mnemonic = "beauty style drive ivory draft kit rug people search veteran social glass";

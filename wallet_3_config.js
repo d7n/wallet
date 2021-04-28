@@ -1,1 +1,1 @@
-var mnemonic = "bitter wrist this now orchard link bar spell path magic jazz fluid";
+var mnemonic = "omit donate taxi wire chunk swallow orchard receive cabin assume wealth ethics";

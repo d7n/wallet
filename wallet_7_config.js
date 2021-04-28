@@ -1,1 +1,1 @@
-var mnemonic = "issue timber river visit appear receive resist like forget rebel slam sign";
+var mnemonic = "warm kidney wealth twelve distance lizard curious mom question fresh clock bus";

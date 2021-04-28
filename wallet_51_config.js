@@ -1,1 +1,1 @@
-var mnemonic = "disease topple mesh tackle opinion property spoon quarter raise estate marriage retreat";
+var mnemonic = "antenna horn legend senior amazing reduce alley hire lumber deliver core ridge";

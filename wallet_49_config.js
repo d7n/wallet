@@ -1,1 +1,1 @@
-var mnemonic = "wreck congress oyster gallery spot beef practice tank never amount cupboard grunt";
+var mnemonic = "upon control wisdom sun subway soap link better head drama blast evoke";

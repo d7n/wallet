@@ -1,1 +1,1 @@
-var mnemonic = "inflict poet repeat fiction sudden right level maze mule faculty vital mimic";
+var mnemonic = "unit web note doll rookie fold object quote ugly web stay cat";

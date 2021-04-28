@@ -1,1 +1,1 @@
-var mnemonic = "guard deliver creek nasty summer lumber spin outside decade movie adapt broken";
+var mnemonic = "jewel issue record bread keep can champion loop tail market abandon coffee";

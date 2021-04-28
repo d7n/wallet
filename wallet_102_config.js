@@ -1,1 +1,1 @@
-var mnemonic = "nerve wide trade auto follow ice fun soldier duty impose bonus angle";
+var mnemonic = "vibrant fitness crop rain world special assume mammal giggle mask grass century";

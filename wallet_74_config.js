@@ -1,1 +1,1 @@
-var mnemonic = "allow often jar mule wire retire bomb bless method awesome trumpet floor";
+var mnemonic = "hospital custom boil net bundle assault spend slide motion invite replace bone";

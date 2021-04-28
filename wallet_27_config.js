@@ -1,1 +1,1 @@
-var mnemonic = "power venture side cargo column tribe flag suffer buffalo scene size odor";
+var mnemonic = "penalty repeat squeeze sheriff wash club economy audit clock three squirrel squirrel";

@@ -1,1 +1,1 @@
-var mnemonic = "devote number assist gain vote school wait tube sugar divide bridge hammer";
+var mnemonic = "dynamic decorate expect leopard trial rookie congress office shrug bounce check chair";

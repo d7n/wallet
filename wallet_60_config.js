@@ -1,1 +1,1 @@
-var mnemonic = "aware novel toddler impact narrow figure this topple excess month raccoon unique";
+var mnemonic = "know mouse winner spend river together expand south absent upon defense annual";

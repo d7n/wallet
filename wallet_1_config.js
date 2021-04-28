@@ -1,1 +1,1 @@
-var mnemonic = "excite vapor april nerve immune medal attend scatter dragon truck kiss venture";
+var mnemonic = "unusual tide reveal basket burden follow idle aisle innocent stamp wave rule";

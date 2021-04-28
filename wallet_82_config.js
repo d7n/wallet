@@ -1,1 +1,1 @@
-var mnemonic = "spatial kitten room network reward embark random speak perfect throw captain infant";
+var mnemonic = "inform song fork mammal excite february pause chalk note magnet ticket minor";

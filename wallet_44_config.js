@@ -1,1 +1,1 @@
-var mnemonic = "puzzle country health refuse tortoise easily vessel sunny tip pond acid group";
+var mnemonic = "million creek strong question prevent party tube trim absurd injury promote license";

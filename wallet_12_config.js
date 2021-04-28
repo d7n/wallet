@@ -1,1 +1,1 @@
-var mnemonic = "cage drift morning repair fuel flower fury pilot match sample win keen";
+var mnemonic = "trumpet wheel spirit solar pony picnic trumpet math action cattle basket pizza";

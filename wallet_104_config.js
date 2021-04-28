@@ -1,1 +1,1 @@
-var mnemonic = "trip volcano what cigar claim coffee camera kit neutral thing inhale jar";
+var mnemonic = "border race gesture play fury evoke black more tower now number quarter";

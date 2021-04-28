@@ -1,1 +1,1 @@
-var mnemonic = "drill bronze divide peanut appear sure spread already interest furnace sibling wish";
+var mnemonic = "trick video magnet myth urban rural tide glass radio scorpion mesh ice";

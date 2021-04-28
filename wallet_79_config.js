@@ -1,1 +1,1 @@
-var mnemonic = "left diagram fold enroll wage doll obey process winner giant virus taxi";
+var mnemonic = "tuna life make finger frequent melody jar silly pony fruit acoustic jewel";

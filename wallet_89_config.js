@@ -1,1 +1,1 @@
-var mnemonic = "happy flock length tower slide advance insect space traffic wood slab entry";
+var mnemonic = "pave slot sunset blouse all burden hobby verb violin salmon virus trap";

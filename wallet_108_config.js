@@ -1,1 +1,1 @@
-var mnemonic = "october remember start ensure tower grunt casino token sorry heart tilt buddy";
+var mnemonic = "anger candy tomato predict offer admit fury patient return later chief elder";

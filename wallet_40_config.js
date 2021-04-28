@@ -1,1 +1,1 @@
-var mnemonic = "oil knock kiwi royal own cover fashion neither helmet episode syrup solution";
+var mnemonic = "breeze then region degree history level jaguar bomb margin typical alpha bind";

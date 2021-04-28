@@ -1,1 +1,1 @@
-var mnemonic = "lawn envelope tattoo below action type welcome debris bus label latin gaze";
+var mnemonic = "rescue flame boring switch ticket ticket scheme choice ten figure smoke depth";

@@ -1,1 +1,1 @@
-var mnemonic = "bind alert betray twenty asthma embrace urban cupboard uncle ship canal credit";
+var mnemonic = "upper infant novel gossip finger bacon share fat display rather room embody";

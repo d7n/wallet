@@ -1,1 +1,1 @@
-var mnemonic = "nose arrange hero moral visit injury shoulder cabbage awake script express skin";
+var mnemonic = "output wealth hire force position fame garbage crew chalk chaos decade glove";

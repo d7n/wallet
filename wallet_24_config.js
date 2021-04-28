@@ -1,1 +1,1 @@
-var mnemonic = "fog grunt wild exit hurt dry route force question census spread hover";
+var mnemonic = "list emerge kidney borrow candy endless old useless bullet use shiver place";

@@ -1,1 +1,1 @@
-var mnemonic = "story clay loud smoke evil pig insect science bronze kite glance like";
+var mnemonic = "destroy isolate gasp elephant frog annual business eye floor mansion puzzle upper";

@@ -1,1 +1,1 @@
-var mnemonic = "lend below execute bridge nice donate stock myself noodle behave worth elephant";
+var mnemonic = "congress enroll inquiry beef team egg illegal cattle battle popular return embrace";

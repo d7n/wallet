@@ -1,1 +1,1 @@
-var mnemonic = "brave lift once elite grape service damage cheap canal extend odor away";
+var mnemonic = "winter present buyer matter paper target two steak gloom marriage make mixture";

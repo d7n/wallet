@@ -1,1 +1,1 @@
-var mnemonic = "other envelope field trade bunker electric open pudding minute noble alone negative";
+var mnemonic = "glory saddle flee advice arch vicious derive quiz raise right physical treat";

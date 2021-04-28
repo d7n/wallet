@@ -1,1 +1,1 @@
-var mnemonic = "plunge claw around friend eagle wisdom brave confirm cruel bacon busy confirm";
+var mnemonic = "beach lab neutral arena topple shift strategy giant prize common mule royal";

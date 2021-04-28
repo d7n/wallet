@@ -1,1 +1,1 @@
-var mnemonic = "vehicle dizzy empower fame raise park cruel swap life hammer holiday bubble";
+var mnemonic = "romance monster still cactus paper reform regret rifle giggle neutral resemble ramp";

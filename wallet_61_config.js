@@ -1,1 +1,1 @@
-var mnemonic = "diamond zebra network music fetch wealth trial parrot weather curtain session stamp";
+var mnemonic = "flag bubble inject shift loyal arm banner cruise grid evolve polar photo";

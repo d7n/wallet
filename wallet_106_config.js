@@ -1,1 +1,1 @@
-var mnemonic = "laundry truth music lava auction ship describe bike charge slab visa cannon";
+var mnemonic = "spare defy logic sunny ketchup chair present boat super fossil pond quarter";

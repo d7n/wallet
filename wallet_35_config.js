@@ -1,1 +1,1 @@
-var mnemonic = "matrix verify call guess garden fiscal bone version physical punch shrug raccoon";
+var mnemonic = "fade gather guard left matrix genuine shadow year during retreat embody domain";

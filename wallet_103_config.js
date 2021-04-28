@@ -1,1 +1,1 @@
-var mnemonic = "loan cabbage dry attack fiscal sauce picnic attack modify across cousin core";
+var mnemonic = "powder client sad turn inspire february vanish need anchor pencil lobster ceiling";

@@ -1,1 +1,1 @@
-var mnemonic = "aim toilet spot fringe record matrix mom category alcohol mesh cover drum";
+var mnemonic = "egg slogan network chapter column dream traffic ozone bundle angry grant find";

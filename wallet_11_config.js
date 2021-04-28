@@ -1,1 +1,1 @@
-var mnemonic = "fringe tank nerve situate vicious abstract razor town ripple sustain safe disagree";
+var mnemonic = "reunion window barely river position inject fame grocery celery grape nothing galaxy";

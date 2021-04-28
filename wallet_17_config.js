@@ -1,1 +1,1 @@
-var mnemonic = "all top exclude drive bind pass snack certain sauce speak target message";
+var mnemonic = "alarm doctor library ignore grow exile love melody sea wreck try clutch";

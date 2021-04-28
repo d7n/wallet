@@ -1,1 +1,1 @@
-var mnemonic = "spawn cigar remain mammal cheap erosion ethics link major tuition empty success";
+var mnemonic = "rug wire demand initial pistol goat lady nerve picture ill kick blush";

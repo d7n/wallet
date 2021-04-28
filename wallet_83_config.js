@@ -1,1 +1,1 @@
-var mnemonic = "once young property much record memory staff visit dish snap gorilla report";
+var mnemonic = "jacket panda powder column alert chair valve ladder will buffalo humble twelve";

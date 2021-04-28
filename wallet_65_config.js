@@ -1,1 +1,1 @@
-var mnemonic = "junk tube phrase float icon deliver engage bright solve cushion exact acid";
+var mnemonic = "melody feed proud position exact promote pistol elephant video find vague uphold";

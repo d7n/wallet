@@ -1,1 +1,1 @@
-var mnemonic = "close enroll actor side blur loyal fame stool tool control picnic virus";
+var mnemonic = "enroll spirit record choose hood observe skirt twin fossil sail alone educate";

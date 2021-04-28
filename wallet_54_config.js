@@ -1,1 +1,1 @@
-var mnemonic = "kid reform match twice settle million guitar wear phone pioneer organ goddess";
+var mnemonic = "orange useless zoo infant aim journey guilt such offer cat video reunion";

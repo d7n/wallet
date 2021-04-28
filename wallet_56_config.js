@@ -1,1 +1,1 @@
-var mnemonic = "dawn region wolf cruise seat lonely verify chimney shoe lend soccer member";
+var mnemonic = "worth sing nature combine scrap drop dad ancient vintage power rotate during";
