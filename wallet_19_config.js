@@ -1,1 +1,1 @@
-var mnemonic = "tackle flush tuition ready family lyrics champion lunch retire smart minute cluster";
+var mnemonic = "mandate this acquire armor express gadget blossom hen canal student rebuild need";

@@ -1,1 +1,1 @@
-var mnemonic = "middle unlock inform bottom guard enrich segment essence rural young feel breeze";
+var mnemonic = "inspire summer sword tackle hunt exist wonder punch shell donate leisure test";

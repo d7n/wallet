@@ -1,1 +1,1 @@
-var mnemonic = "twin cattle energy lift visit valley light oyster sound labor flavor sibling";
+var mnemonic = "wool method hover damp butter trap right copper silent gaze feel person";

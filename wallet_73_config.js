@@ -1,1 +1,1 @@
-var mnemonic = "describe lonely expose brief grit main lady display move axis seven climb";
+var mnemonic = "track resemble develop educate concert anchor upon minute supreme suspect curve debris";

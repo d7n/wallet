@@ -1,1 +1,1 @@
-var mnemonic = "sail scrap once era mountain town window object obey excess crane unlock";
+var mnemonic = "number flower cram fashion donor reject forum trap also vocal vibrant scheme";

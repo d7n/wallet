@@ -1,1 +1,1 @@
-var mnemonic = "mixture dance table abstract panic system key exercise wheel census social lake";
+var mnemonic = "shock gorilla hospital primary summer air book invest fatigue sign indicate hat";

@@ -1,1 +1,1 @@
-var mnemonic = "unlock spirit indicate uniform piano penalty wheat fresh fashion review supreme light";
+var mnemonic = "giggle proof write night blood nut jewel visit design useless around grid";

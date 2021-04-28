@@ -1,1 +1,1 @@
-var mnemonic = "decade evil script city gloom employ crystal open together right object lens";
+var mnemonic = "baby grit kite asset vast suspect please grow walnut mercy mirror praise";

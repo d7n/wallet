@@ -1,1 +1,1 @@
-var mnemonic = "glide current poverty wet vacuum armed novel retreat obey item face pottery";
+var mnemonic = "turtle omit muscle track fence supreme grab turkey drop help chalk come";

@@ -1,1 +1,1 @@
-var mnemonic = "ribbon citizen spawn sing reduce urge soccer giggle tip flock leopard struggle";
+var mnemonic = "bird canyon blind gap such napkin upon shoot divide alarm wheat final";

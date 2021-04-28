@@ -1,1 +1,1 @@
-var mnemonic = "cream judge bicycle gauge behind bonus baby organ inch broom scatter claw";
+var mnemonic = "endorse slot fat hungry bulk stomach brother priority bottom measure elder scheme";

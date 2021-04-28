@@ -1,1 +1,1 @@
-var mnemonic = "opinion rotate dish hungry impact during clap chase sauce upgrade cover debris";
+var mnemonic = "found slogan risk idle cinnamon collect swap total tuition small tray cube";

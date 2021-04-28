@@ -1,1 +1,1 @@
-var mnemonic = "riot field detail leisure slide brown scout focus steel sister trumpet core";
+var mnemonic = "when despair stumble estate envelope picture virus horror turkey upgrade crash amateur";

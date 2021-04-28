@@ -1,1 +1,1 @@
-var mnemonic = "mesh leopard similar deny cruise risk property female ten yard wagon leaf";
+var mnemonic = "curious install oblige detect dry top copy hungry laptop ramp salt survey";

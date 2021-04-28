@@ -1,1 +1,1 @@
-var mnemonic = "million vintage wrist fork garbage still trash memory afraid devote eye puzzle";
+var mnemonic = "earn brief relax math sound soap acid laptop tortoise right empty panther";

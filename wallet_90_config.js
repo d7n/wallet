@@ -1,1 +1,1 @@
-var mnemonic = "injury scissors crop area vote mushroom before hundred know spring online wagon";
+var mnemonic = "sword true wool announce debate chase merry peasant oven resource snack indicate";

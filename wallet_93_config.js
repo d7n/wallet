@@ -1,1 +1,1 @@
-var mnemonic = "wave custom short spend fabric crystal bullet rhythm file razor nurse bulk";
+var mnemonic = "pitch emotion ship girl hockey raise manage system record target fish early";

@@ -1,1 +1,1 @@
-var mnemonic = "chalk reduce toss tonight hard undo orange spy huge cement thumb open";
+var mnemonic = "bronze certain wood pledge gentle tide craft run life force increase awkward";

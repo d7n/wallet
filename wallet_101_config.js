@@ -1,1 +1,1 @@
-var mnemonic = "pitch cruise derive tape inherit between bitter notice broccoli castle point decorate";
+var mnemonic = "gossip usual comfort leave apart online boost flash dinosaur thunder record chest";

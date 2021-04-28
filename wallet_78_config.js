@@ -1,1 +1,1 @@
-var mnemonic = "harsh calm frame clerk real talk east mammal woman fragile party blind";
+var mnemonic = "forest absurd immense donor rubber magnet deny emotion tuna planet dial dolphin";

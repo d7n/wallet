@@ -1,1 +1,1 @@
-var mnemonic = "talk thunder valve merit exercise near mystery library enemy moral juice latin";
+var mnemonic = "route answer actor cool gather artwork sell body sunny laugh theme day";

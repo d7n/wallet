@@ -1,1 +1,1 @@
-var mnemonic = "pear area turkey mesh session joke beach shoe ivory rug alien crack";
+var mnemonic = "pill destroy adapt group sniff addict such nest object blouse moral profit";

@@ -1,1 +1,1 @@
-var mnemonic = "fringe spawn grass boost rule maple timber heart trap hat seed bottom";
+var mnemonic = "space spatial scrap useful require section rain enemy prosper hair soon corn";

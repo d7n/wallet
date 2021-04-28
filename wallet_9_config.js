@@ -1,1 +1,1 @@
-var mnemonic = "thank enjoy cigar kitten blood kite dignity diamond clay amateur path exile";
+var mnemonic = "venture innocent fragile profit brass oak tip receive sword cousin mystery language";

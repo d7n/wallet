@@ -1,1 +1,1 @@
-var mnemonic = "cruel comic frown baby aim pass eagle wheat ceiling foster tired else";
+var mnemonic = "license sugar actor guitar depth extra please banner salt crash six father";

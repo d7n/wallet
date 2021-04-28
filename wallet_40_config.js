@@ -1,1 +1,1 @@
-var mnemonic = "gossip develop famous spice head cousin isolate boring dolphin phone multiply castle";
+var mnemonic = "steel gown skill kingdom news tomato crew panel hurry cute trip fence";

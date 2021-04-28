@@ -1,1 +1,1 @@
-var mnemonic = "slam length idea icon wink brick endless pumpkin human rib task box";
+var mnemonic = "note special soul middle exist shuffle skirt autumn dragon tree fortune market";

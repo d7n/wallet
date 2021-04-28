@@ -1,1 +1,1 @@
-var mnemonic = "wonder room peanut tortoise craft ripple earth citizen river denial emotion danger";
+var mnemonic = "law balance match view language bundle give income oil option open cause";

@@ -1,1 +1,1 @@
-var mnemonic = "distance spare wear multiply become toward brass resist relief desk calm speed";
+var mnemonic = "lend item decide drum edit case reform horse wheel focus resist right";

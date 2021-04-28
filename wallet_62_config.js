@@ -1,1 +1,1 @@
-var mnemonic = "globe blush area step over manual museum matter charge step debate bench";
+var mnemonic = "pause zero wear duck peace cricket slab horse inner rare slab club";

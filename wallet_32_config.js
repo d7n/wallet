@@ -1,1 +1,1 @@
-var mnemonic = "type planet cry blood timber cool pass witness sting into affair coral";
+var mnemonic = "thunder stone rebuild alert humor know culture rain balance session master shrimp";

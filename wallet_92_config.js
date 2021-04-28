@@ -1,1 +1,1 @@
-var mnemonic = "congress merit pulp damp wide attract club fiber curve opera maze nest";
+var mnemonic = "news cabin balance mistake become fall flower expand slender catalog sniff cram";

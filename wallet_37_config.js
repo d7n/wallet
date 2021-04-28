@@ -1,1 +1,1 @@
-var mnemonic = "glow merge focus genuine phrase response meat slow behind tired discover cancel";
+var mnemonic = "excite post tiny disease dawn radar lens domain ready silk hover switch";

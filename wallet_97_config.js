@@ -1,1 +1,1 @@
-var mnemonic = "sphere humor foster option detect category resemble media hub gauge forward provide";
+var mnemonic = "ugly struggle easily involve flock cannon hip fever security assume notable employ";

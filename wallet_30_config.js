@@ -1,1 +1,1 @@
-var mnemonic = "fox knock exile embrace execute stand shallow festival filter clump kid injury";
+var mnemonic = "banner obtain topic supreme emotion loud mail remind boost tuition cloth media";

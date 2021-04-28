@@ -1,1 +1,1 @@
-var mnemonic = "anger pitch what push atom fine under inquiry carbon magic lecture reason";
+var mnemonic = "abuse aware twist evil since rhythm tragic wise glide airport review final";

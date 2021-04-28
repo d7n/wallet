@@ -1,1 +1,1 @@
-var mnemonic = "spot client upon still able divorce coral element limb gloom silent ignore";
+var mnemonic = "indoor album climb rose magic bargain render three horse glass virtual describe";

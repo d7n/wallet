@@ -1,1 +1,1 @@
-var mnemonic = "page butter key carbon brick aerobic beauty pulse sugar caught pluck harvest";
+var mnemonic = "ranch entire blood devote favorite rule spot amateur ranch retire knife raise";

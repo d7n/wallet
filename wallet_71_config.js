@@ -1,1 +1,1 @@
-var mnemonic = "hamster crash vast banner fever nerve flash penalty journey dinner long guard";
+var mnemonic = "paddle inch scout direct coyote laugh romance erosion voyage crane tray tube";

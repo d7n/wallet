@@ -1,1 +1,1 @@
-var mnemonic = "goddess throw capital sound illness gap course glad next pull inherit eagle";
+var mnemonic = "suit fat century dinner donor picture disease clock brain side invest leopard";

@@ -1,1 +1,1 @@
-var mnemonic = "hunt swear recall magnet forum angry tray rapid consider success whisper split";
+var mnemonic = "destroy angle aisle rookie misery ankle motor survey language crew tone series";

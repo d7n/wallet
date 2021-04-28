@@ -1,1 +1,1 @@
-var mnemonic = "shoe grass column power vast catch world clutch embark hip reveal clinic";
+var mnemonic = "palace radio file route once empower pull flock turkey congress large fish";

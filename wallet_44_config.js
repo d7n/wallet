@@ -1,1 +1,1 @@
-var mnemonic = "envelope finish acid spice spread suffer orange ladder humble assault antique expire";
+var mnemonic = "victory aim width also drink movie price orbit mouse lesson stuff assault";

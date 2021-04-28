@@ -1,1 +1,1 @@
-var mnemonic = "into buddy arm reunion raise venture anger warm gather input shaft pull";
+var mnemonic = "assume ignore satisfy soccer nurse awful winter inmate joke material dwarf very";

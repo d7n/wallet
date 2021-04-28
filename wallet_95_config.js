@@ -1,1 +1,1 @@
-var mnemonic = "ski code crawl fee sure snow afraid mean pause guitar stereo drip";
+var mnemonic = "affair abstract praise shrimp social switch evidence kitten curious approve usual place";

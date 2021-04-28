@@ -1,1 +1,1 @@
-var mnemonic = "loyal lunar ugly school visa symptom argue lucky daring resemble canoe treat";
+var mnemonic = "ice filter margin paper ethics recycle hire digital wink brave deliver window";

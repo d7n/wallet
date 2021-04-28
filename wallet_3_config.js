@@ -1,1 +1,1 @@
-var mnemonic = "exchange foster peasant invest sentence leg reunion cargo sleep attend join peanut";
+var mnemonic = "echo minimum planet penalty crisp belt during owner tattoo high must royal";

@@ -1,1 +1,1 @@
-var mnemonic = "raccoon analyst very bottom quit gasp target amazing mammal sphere brother economy";
+var mnemonic = "grid end cook original romance belt juice monitor pear intact make pizza";

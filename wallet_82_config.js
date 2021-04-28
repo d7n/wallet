@@ -1,1 +1,1 @@
-var mnemonic = "inspire doll table spray verify grass fade fantasy hybrid initial clump session";
+var mnemonic = "debris dolphin spell select clown over credit squeeze endless exact army neutral";

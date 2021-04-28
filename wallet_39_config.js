@@ -1,1 +1,1 @@
-var mnemonic = "rug radio caught viable fan danger coral add crystal waste knife grape";
+var mnemonic = "ivory enhance fall dress glance erupt stand violin cattle pony rail matrix";

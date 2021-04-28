@@ -1,1 +1,1 @@
-var mnemonic = "kiwi dinosaur tiny frown blind vast inform fatal regular detail organ rely";
+var mnemonic = "olive wink matrix reform punch shy alarm tomato there vehicle honey student";

@@ -1,1 +1,1 @@
-var mnemonic = "practice shoot use occur enlist educate knock curtain want meadow demise paper";
+var mnemonic = "shadow abstract laptop range happy tank alcohol eyebrow labor dynamic betray renew";

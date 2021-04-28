@@ -1,1 +1,1 @@
-var mnemonic = "truck scare february hockey almost tray famous laptop brand april north inquiry";
+var mnemonic = "capable primary hip prosper logic helmet arctic smile pistol ozone sand analyst";

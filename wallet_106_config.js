@@ -1,1 +1,1 @@
-var mnemonic = "forum true ship broken give reward copy fossil cute fiscal ball match";
+var mnemonic = "harbor equip tenant kid knife item clutch dirt absorb grant broom boss";

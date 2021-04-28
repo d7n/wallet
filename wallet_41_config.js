@@ -1,1 +1,1 @@
-var mnemonic = "muffin ship coconut woman frown advice spider clever zero obey ozone glide";
+var mnemonic = "patch pulp owner umbrella choose basket stereo rifle decorate limb inherit fall";

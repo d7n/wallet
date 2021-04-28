@@ -1,1 +1,1 @@
-var mnemonic = "gate can century shell weapon reduce pizza stable history bullet school city";
+var mnemonic = "potato bundle network reform antenna assault zero soap lemon scrap sand swamp";

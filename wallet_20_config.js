@@ -1,1 +1,1 @@
-var mnemonic = "consider survey flip else card bread west control foil armed vault check";
+var mnemonic = "average exile same board deny unit uncover holiday night nominee slice chef";

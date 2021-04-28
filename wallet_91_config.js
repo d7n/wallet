@@ -1,1 +1,1 @@
-var mnemonic = "drip castle raccoon hobby canvas ten sing anger paddle filter police sound";
+var mnemonic = "visa acoustic report wise square marriage margin resource maximum maple nominee egg";

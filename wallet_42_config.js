@@ -1,1 +1,1 @@
-var mnemonic = "urban have print area wall pear modify urban fall coin couch focus";
+var mnemonic = "local foam immune accident nurse tower armed height check upgrade ramp okay";

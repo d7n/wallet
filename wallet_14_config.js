@@ -1,1 +1,1 @@
-var mnemonic = "toddler forum pretty walk ancient animal tilt cabbage mango measure frequent like";
+var mnemonic = "fancy moon report stadium brand diamond valve rib episode exact network fitness";

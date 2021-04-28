@@ -1,1 +1,1 @@
-var mnemonic = "embody cloth alien grace crystal clerk twist immune surprise embrace ritual nothing";
+var mnemonic = "cousin seat enable anchor kidney vacuum member seed one wide lottery palace";

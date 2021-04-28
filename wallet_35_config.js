@@ -1,1 +1,1 @@
-var mnemonic = "vessel destroy empower bridge rubber butter wasp cycle front wash brown resemble";
+var mnemonic = "rent bridge extend student rhythm piece ahead verb learn hood arrow degree";

@@ -1,1 +1,1 @@
-var mnemonic = "father riot issue orphan jungle erode margin bless scout reduce slot lyrics";
+var mnemonic = "rather eagle puzzle leopard spring latin physical lobster return envelope siege concert";

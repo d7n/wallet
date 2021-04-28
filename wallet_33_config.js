@@ -1,1 +1,1 @@
-var mnemonic = "daughter warm idle all federal buzz obscure onion fox unlock intact foil";
+var mnemonic = "quick lunch snake sustain bean hidden little donate boost flush clutch kite";

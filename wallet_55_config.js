@@ -1,1 +1,1 @@
-var mnemonic = "input bleak wave heavy reduce police cargo street cinnamon treat green angry";
+var mnemonic = "key system artefact annual wrestle shine science retire virtual invite squeeze wrestle";

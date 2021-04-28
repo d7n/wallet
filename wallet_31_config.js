@@ -1,1 +1,1 @@
-var mnemonic = "budget mansion tail biology march field door rubber drift brain pluck illness";
+var mnemonic = "meadow rifle lunar network hammer clown fantasy excuse crack stuff level narrow";

@@ -1,1 +1,1 @@
-var mnemonic = "wall innocent dad inhale alpha involve will crystal extend picnic tobacco laptop";
+var mnemonic = "pet robust cage visa sleep mistake scorpion gloom job urban child social";

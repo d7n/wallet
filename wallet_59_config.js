@@ -1,1 +1,1 @@
-var mnemonic = "bachelor trust range wet van route elbow student fetch book chalk mixture";
+var mnemonic = "video ramp prefer sausage profit half obey illness solar organ secret final";

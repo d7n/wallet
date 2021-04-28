@@ -1,1 +1,1 @@
-var mnemonic = "dice violin soft wrong man soccer bottom script cloud bird pumpkin fire";
+var mnemonic = "defense desk shiver couple lab notable kitten fashion aim lounge pig father";

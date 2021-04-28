@@ -1,1 +1,1 @@
-var mnemonic = "toward fantasy harbor video project bar fancy monitor budget chunk upgrade father";
+var mnemonic = "buddy actual silk monitor stadium plastic cruise exist crowd movie number blossom";

@@ -1,1 +1,1 @@
-var mnemonic = "crystal vote half young afraid fade latin wedding fringe riot blade remember";
+var mnemonic = "army private kiss hour visual final nurse crowd kitten hungry brain east";

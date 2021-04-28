@@ -1,1 +1,1 @@
-var mnemonic = "renew uniform elder network inherit useless knee flame average inch suffer talent";
+var mnemonic = "female common ocean peasant cancel hundred mechanic phone crucial perfect hybrid curtain";

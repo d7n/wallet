@@ -1,1 +1,1 @@
-var mnemonic = "library morning army risk motion width until normal frozen prosper seed monster";
+var mnemonic = "timber tip worth melody vessel jump rose inside effort enroll catalog faculty";

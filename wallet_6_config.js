@@ -1,1 +1,1 @@
-var mnemonic = "immense trend document mirror odor stamp employ moral bread purse cargo humor";
+var mnemonic = "hockey spoon auto rural cart same world pledge middle priority switch hundred";

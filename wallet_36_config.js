@@ -1,1 +1,1 @@
-var mnemonic = "tuna size narrow toddler cave race erase trim screen shadow wrist usage";
+var mnemonic = "frown glance tiny sail confirm wink token govern team glimpse during immune";

@@ -1,1 +1,1 @@
-var mnemonic = "estate explain slush evolve prepare glare guess patch flavor fatal talk tribe";
+var mnemonic = "visa hint decline much head forest hidden giraffe trap panel transfer fortune";

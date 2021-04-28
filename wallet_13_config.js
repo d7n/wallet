@@ -1,1 +1,1 @@
-var mnemonic = "brush follow staff execute afford degree grunt novel control pelican culture local";
+var mnemonic = "oyster onion smooth banner scrap salt mammal main oil moral gospel jewel";

@@ -1,1 +1,1 @@
-var mnemonic = "humble farm bounce dumb regular regret turtle dream toilet fault venue inform";
+var mnemonic = "fire arm saddle absent soup life outside subject void typical dragon local";

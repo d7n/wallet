@@ -1,1 +1,1 @@
-var mnemonic = "obvious ridge stable ketchup deny wing citizen cinnamon lift hen depend enroll";
+var mnemonic = "accident person pretty fox uphold skin goose initial town desert cruise play";

@@ -1,1 +1,1 @@
-var mnemonic = "knee prize dynamic carry vessel vacuum fine spoon pulp faith since execute";
+var mnemonic = "kit brick around wasp barrel submit toddler control demise disease tool rent";

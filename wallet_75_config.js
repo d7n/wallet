@@ -1,1 +1,1 @@
-var mnemonic = "inner volume gun dial hobby tent scale prize train glass trick bless";
+var mnemonic = "embrace polar scare industry water poem remember train slight spider amazing drop";

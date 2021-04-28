@@ -1,1 +1,1 @@
-var mnemonic = "way brass dial recall toast whip version person spoil prize feed turkey";
+var mnemonic = "add label shield style crop gauge depth wealth motor tilt time robust";

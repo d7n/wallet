@@ -1,1 +1,1 @@
-var mnemonic = "usage practice toddler august senior enhance economy salad more arena box truth";
+var mnemonic = "duck door robot universe village armor fiscal audit trade click blouse grain";

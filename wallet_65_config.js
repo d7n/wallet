@@ -1,1 +1,1 @@
-var mnemonic = "junior doll shy observe mixed term art bless pass silent mutual science";
+var mnemonic = "melt stereo rough pulp addict tenant resemble wrong fiber legend camp uncover";

@@ -1,1 +1,1 @@
-var mnemonic = "just trouble edge calm lecture place traffic unaware horn purchase misery human";
+var mnemonic = "online burger just craft quiz predict bean ball apple toss horn sock";

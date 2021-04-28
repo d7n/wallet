@@ -1,1 +1,1 @@
-var mnemonic = "silly useful main timber pave room rent skull boy sport entry mail";
+var mnemonic = "antique mask canoe talent rather subway diesel gap innocent cattle since frequent";

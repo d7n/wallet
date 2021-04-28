@@ -1,1 +1,1 @@
-var mnemonic = "giggle spray fault educate culture sudden cross cinnamon exile artwork source seed";
+var mnemonic = "tired aunt gym damage truth report skirt electric north paddle sun step";

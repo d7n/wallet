@@ -1,1 +1,1 @@
-var mnemonic = "wool behave artwork arctic flat budget grape club motor salad ask matrix";
+var mnemonic = "illegal bracket boss bless enable result mouse tennis detail crater worry run";
