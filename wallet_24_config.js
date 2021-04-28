@@ -1,1 +1,1 @@
-var mnemonic = "choose domain coast bar myself skill true oval middle taste dry talk";
+var mnemonic = "sing festival volcano annual dish jeans chalk gather spirit scheme become length";

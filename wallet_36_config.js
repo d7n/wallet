@@ -1,1 +1,1 @@
-var mnemonic = "boat banana afraid between second endorse empower elevator secret kind key major";
+var mnemonic = "lunch motion welcome fade valid loyal steak twice grape spirit now toy";

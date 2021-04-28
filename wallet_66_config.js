@@ -1,1 +1,1 @@
-var mnemonic = "fiscal vault spread invest budget cruise lyrics pencil unfair judge ocean end";
+var mnemonic = "aisle reason pear floor squeeze vessel choice bus great hungry silver leader";

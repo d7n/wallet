@@ -1,1 +1,1 @@
-var mnemonic = "three indicate cube negative story develop small situate opinion hobby action attitude";
+var mnemonic = "attitude social negative return differ assault forum general better material vocal tuition";

@@ -1,1 +1,1 @@
-var mnemonic = "curve swim valid rough wing simple estate pluck shrimp fantasy amazing choose";
+var mnemonic = "gather seat dish coral source lift gun upgrade noodle donor mixture shuffle";

@@ -1,1 +1,1 @@
-var mnemonic = "acid task dutch wrong gift ramp come farm draw battle theory special";
+var mnemonic = "message identify gate index mango clerk region leisure sudden volcano same spoon";

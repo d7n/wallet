@@ -1,1 +1,1 @@
-var mnemonic = "embark detail black garlic inject prosper purpose caught shove outside person other";
+var mnemonic = "spend run height trust close afraid address exhibit wisdom file shy proud";

@@ -1,1 +1,1 @@
-var mnemonic = "field indicate wrestle become category surround kingdom security onion laugh regret animal";
+var mnemonic = "bunker upon dry stamp vast tank grid job onion aim similar tent";

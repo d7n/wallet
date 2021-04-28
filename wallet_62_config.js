@@ -1,1 +1,1 @@
-var mnemonic = "toe odor food border patrol shuffle wish action female fiction feel flock";
+var mnemonic = "found kidney cat dune meadow shiver harvest decade fresh obscure asthma impulse";

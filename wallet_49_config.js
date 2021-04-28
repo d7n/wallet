@@ -1,1 +1,1 @@
-var mnemonic = "panther bachelor hero mesh catalog use novel safe upgrade during noise bring";
+var mnemonic = "either repeat you visa crane monster close accident noodle layer coffee tent";

@@ -1,1 +1,1 @@
-var mnemonic = "member universe leisure domain lounge aware bone dilemma scene emotion cherry minor";
+var mnemonic = "retreat father holiday guide army school chair ripple fine lizard west grant";

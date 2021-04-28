@@ -1,1 +1,1 @@
-var mnemonic = "scale tissue way post news tree rice vintage hire seminar hundred multiply";
+var mnemonic = "fringe join phone trouble park flush atom group popular organ like remember";

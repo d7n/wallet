@@ -1,1 +1,1 @@
-var mnemonic = "spatial review around broom glory artwork goddess hen juice since film rookie";
+var mnemonic = "tonight lesson setup flash nut vivid wasp spawn fatal awake dynamic liquid";

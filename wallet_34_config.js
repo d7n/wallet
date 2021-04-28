@@ -1,1 +1,1 @@
-var mnemonic = "excess ball success local price silent tattoo address normal cruel dinosaur melody";
+var mnemonic = "drill romance alert inhale ocean humor frog runway bread chunk among coconut";

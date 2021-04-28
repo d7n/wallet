@@ -1,1 +1,1 @@
-var mnemonic = "flush hen arrange wood more lawsuit sort aunt ball sport company cherry";
+var mnemonic = "humor interest excuse limit iron runway oppose slow web slogan silly minor";

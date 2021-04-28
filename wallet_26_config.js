@@ -1,1 +1,1 @@
-var mnemonic = "human cement crouch purchase result fun swarm film prepare pond increase record";
+var mnemonic = "inquiry gloom duty push tiger gallery bicycle over pull flush glove proof";

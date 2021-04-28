@@ -1,1 +1,1 @@
-var mnemonic = "congress general title gasp project benefit timber solve furnace worry man among";
+var mnemonic = "cave drastic intact grass uniform excuse exact remove sheriff allow future mystery";

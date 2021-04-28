@@ -1,1 +1,1 @@
-var mnemonic = "artefact oxygen wait bubble recall silver cool unable science usual round squeeze";
+var mnemonic = "win arrest correct subject august nothing man bone bread kidney evidence vote";

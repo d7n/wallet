@@ -1,1 +1,1 @@
-var mnemonic = "harvest right demise ritual predict october manage humble laundry police pool say";
+var mnemonic = "mass together remember dance host behave reopen reflect motor hold sun plunge";

@@ -1,1 +1,1 @@
-var mnemonic = "thumb quality crowd gallery manage able local prepare swear scare ahead luggage";
+var mnemonic = "elevator sword convince appear expose razor energy blast salon setup glance luxury";

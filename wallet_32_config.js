@@ -1,1 +1,1 @@
-var mnemonic = "check dry ask sister purity hedgehog inform offer correct edge lamp heart";
+var mnemonic = "gospel jealous fortune canvas skin version poverty select cliff mirror erosion circle";

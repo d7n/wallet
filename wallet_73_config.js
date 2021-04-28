@@ -1,1 +1,1 @@
-var mnemonic = "patrol disease vapor find pelican shrimp genre clock fix pelican ride bread";
+var mnemonic = "print expose rug heavy veteran fee lady season glare feel change melt";

@@ -1,1 +1,1 @@
-var mnemonic = "main spider blanket crane unveil fit annual address quarter wedding echo provide";
+var mnemonic = "moral goose olive undo surprise lobster laugh horn secret tiger strong nest";

@@ -1,1 +1,1 @@
-var mnemonic = "scatter burger suspect alert soccer comic heavy neglect column gold drink unfair";
+var mnemonic = "put bulk today chunk jar false drink desk talent exercise inch grant";

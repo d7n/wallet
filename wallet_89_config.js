@@ -1,1 +1,1 @@
-var mnemonic = "absorb sunset volume juice chaos arena man custom tribe helmet image test";
+var mnemonic = "intact rather team battle dog bulk vacant salon birth include retreat course";

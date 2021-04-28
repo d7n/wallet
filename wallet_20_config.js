@@ -1,1 +1,1 @@
-var mnemonic = "stay try harsh royal gasp virtual ice vacant garage sketch service gasp";
+var mnemonic = "degree anchor draft wild they silver violin drip cycle clump metal sheriff";

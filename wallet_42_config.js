@@ -1,1 +1,1 @@
-var mnemonic = "depend side ranch brave own fold rather pupil ahead photo bike soon";
+var mnemonic = "know debris undo become logic dust opinion sleep rely struggle same verb";

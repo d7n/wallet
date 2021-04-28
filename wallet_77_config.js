@@ -1,1 +1,1 @@
-var mnemonic = "sail sample reason badge claim sign wisdom eagle elbow flower salad south";
+var mnemonic = "nephew valve marriage feel average first bargain yellow exotic acoustic joy dinosaur";

@@ -1,1 +1,1 @@
-var mnemonic = "chalk salon rookie slab point runway category carbon provide until enlist average";
+var mnemonic = "pride auto office eternal bird sheriff casino pause calm era vanish young";

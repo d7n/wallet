@@ -1,1 +1,1 @@
-var mnemonic = "coffee refuse cloud mushroom praise prepare allow advice case broken security sunny";
+var mnemonic = "net scorpion bird luggage voyage melt six discover harvest next category vendor";

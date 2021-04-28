@@ -1,1 +1,1 @@
-var mnemonic = "salmon cabin critic panic comic estate gas used reward consider together any";
+var mnemonic = "never outside absurd pizza century tennis hollow carry crash slender disorder file";

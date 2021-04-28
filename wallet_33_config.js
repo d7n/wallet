@@ -1,1 +1,1 @@
-var mnemonic = "skull peasant bid hire neglect very bring problem episode spray text like";
+var mnemonic = "outdoor violin legend lyrics stand modify seed alone save clump robot wait";

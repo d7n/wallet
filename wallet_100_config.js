@@ -1,1 +1,1 @@
-var mnemonic = "draw vintage crane voice strong blast basket buddy satisfy always protect burst";
+var mnemonic = "undo animal wrestle prepare shop neutral shed tomato glove train write clump";

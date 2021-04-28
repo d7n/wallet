@@ -1,1 +1,1 @@
-var mnemonic = "pear tide gorilla knock reveal bunker garlic since buzz art baby trend";
+var mnemonic = "print basic exhibit use physical matter prefer gaze decrease decide afraid sell";

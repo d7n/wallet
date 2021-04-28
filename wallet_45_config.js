@@ -1,1 +1,1 @@
-var mnemonic = "upset height salad critic uphold credit garden device broom will cheese foot";
+var mnemonic = "process hold monkey night twin health brisk foster speak learn hello awesome";

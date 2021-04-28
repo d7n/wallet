@@ -1,1 +1,1 @@
-var mnemonic = "voice miracle grit plastic gap spider trouble renew kiss decide retire script";
+var mnemonic = "elder clay dose learn amused there tissue fatigue symbol tent receive add";

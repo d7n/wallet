@@ -1,1 +1,1 @@
-var mnemonic = "idle lucky rich cook media mixed boss excite debris supply craft clean";
+var mnemonic = "price teach work number scene spare noble topple then cupboard rescue foster";

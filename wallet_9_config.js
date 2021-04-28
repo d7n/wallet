@@ -1,1 +1,1 @@
-var mnemonic = "balcony interest kingdom actress defense engage squirrel logic border lunch vocal clip";
+var mnemonic = "vital pull coffee stairs cattle wonder despair glance mystery clap give mango";

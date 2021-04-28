@@ -1,1 +1,1 @@
-var mnemonic = "vacant replace green favorite milk warm recall humble profit ski wheat reunion";
+var mnemonic = "drastic copper calm yellow label demand lend unique pizza sense brave live";

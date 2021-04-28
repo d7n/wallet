@@ -1,1 +1,1 @@
-var mnemonic = "risk wait razor salute donor clip jeans book warfare bar address jealous";
+var mnemonic = "believe pill width badge bag good dinosaur impose spirit invite short clever";

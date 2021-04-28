@@ -1,1 +1,1 @@
-var mnemonic = "trip frog pause acquire ripple stool pudding order shy gaze pilot enable";
+var mnemonic = "half salute resource razor conduct draw husband pledge anchor salute seek post";

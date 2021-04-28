@@ -1,1 +1,1 @@
-var mnemonic = "snap place humor home hard submit wagon market desk slush april check";
+var mnemonic = "oyster special fresh bless oil swap atom west diamond walnut bird order";

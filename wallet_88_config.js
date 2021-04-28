@@ -1,1 +1,1 @@
-var mnemonic = "mix dinosaur mansion dance bomb lyrics coral cup arrest rebuild photo welcome";
+var mnemonic = "tape village kingdom clinic leisure industry opinion ugly burger stove distance twice";

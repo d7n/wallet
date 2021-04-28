@@ -1,1 +1,1 @@
-var mnemonic = "cry whisper flower you menu valley link tube benefit artefact above disease";
+var mnemonic = "beyond logic fence satisfy base echo inspire clarify flag acquire save knife";

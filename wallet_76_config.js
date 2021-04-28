@@ -1,1 +1,1 @@
-var mnemonic = "basket mean hole deal clever wrong split general useless pact lecture loan";
+var mnemonic = "federal hole motor toe close life rate medal damp scene special track";

@@ -1,1 +1,1 @@
-var mnemonic = "peasant drama joy mountain patient collect figure boss short minimum bitter tuna";
+var mnemonic = "glare initial document disagree face multiply sign language puzzle treat enroll boat";

@@ -1,1 +1,1 @@
-var mnemonic = "plug pact wife liberty exhibit daughter loan lecture drive congress cake baby";
+var mnemonic = "amount birth lady stock consider enough moral over element simple solid throw";

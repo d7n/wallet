@@ -1,1 +1,1 @@
-var mnemonic = "spike exercise either put elder cruel cluster write donate member obscure card";
+var mnemonic = "middle what clarify bread predict rival wait luggage comfort sorry sand sword";

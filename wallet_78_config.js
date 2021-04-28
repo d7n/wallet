@@ -1,1 +1,1 @@
-var mnemonic = "average crew shuffle puzzle corn course sunset kitchen design rude train hunt";
+var mnemonic = "cash era name letter volcano horror area wave aisle wrong wage material";

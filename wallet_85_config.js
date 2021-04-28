@@ -1,1 +1,1 @@
-var mnemonic = "lake monkey winner shuffle cheese move toast helmet snake cancel february diamond";
+var mnemonic = "grid catch inform wreck news level bullet local chest quantum capital indoor";

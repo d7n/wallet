@@ -1,1 +1,1 @@
-var mnemonic = "peasant habit like exhibit rather demand retire noise ensure lawn cloth era";
+var mnemonic = "girl vicious sea kit neck trick off skate owner flame inside luxury";

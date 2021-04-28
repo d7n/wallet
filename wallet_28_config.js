@@ -1,1 +1,1 @@
-var mnemonic = "present range smooth hidden program dad length roof indicate hedgehog round merge";
+var mnemonic = "unfair intact fantasy lunch misery thunder vehicle clarify evidence giraffe method lift";

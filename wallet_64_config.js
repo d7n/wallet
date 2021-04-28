@@ -1,1 +1,1 @@
-var mnemonic = "lecture ancient giraffe index chicken acid stove search state balance guitar script";
+var mnemonic = "miss festival deputy morning business biology butter final diesel deny blind grant";

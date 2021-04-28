@@ -1,1 +1,1 @@
-var mnemonic = "voyage wrestle leg maple rich razor group issue ridge tooth access start";
+var mnemonic = "mom connect coyote decade roof across shield crazy toss tennis gain rose";

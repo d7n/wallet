@@ -1,1 +1,1 @@
-var mnemonic = "either embark lazy attend minute total biology chief clarify awesome tip session";
+var mnemonic = "cloth dutch street spray priority alter space maple purpose lunch cargo anchor";

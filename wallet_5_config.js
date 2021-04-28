@@ -1,1 +1,1 @@
-var mnemonic = "reflect tray art exit joy wear song rare wine ill heavy globe";
+var mnemonic = "orchard version over minute manage cherry author invest guess bonus exhibit act";

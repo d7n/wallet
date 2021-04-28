@@ -1,1 +1,1 @@
-var mnemonic = "inflict flip visa used like broom income journey teach praise rival mystery";
+var mnemonic = "code license frame turn cruise picnic original voyage knee garage mean impulse";

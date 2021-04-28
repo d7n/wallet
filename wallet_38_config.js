@@ -1,1 +1,1 @@
-var mnemonic = "pluck sunset strategy medal hill need foam learn access gold main defense";
+var mnemonic = "harvest cup wall uncle airport silent clap derive wool trumpet bounce since";

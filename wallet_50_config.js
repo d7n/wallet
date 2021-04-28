@@ -1,1 +1,1 @@
-var mnemonic = "cliff owner damp casual used pill tell index muscle dwarf educate stone";
+var mnemonic = "alarm able danger avocado dumb occur double depart drive siege exercise duty";

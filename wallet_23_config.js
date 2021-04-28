@@ -1,1 +1,1 @@
-var mnemonic = "royal rate answer direct arm hawk antenna below mouse pulse pigeon patient";
+var mnemonic = "loud honey glow because fish nasty first drum roof elephant scatter actor";

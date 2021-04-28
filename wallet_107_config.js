@@ -1,1 +1,1 @@
-var mnemonic = "rate must tank manual story coach evidence leopard about diary cactus tissue";
+var mnemonic = "decorate lonely gadget funny cage veteran saddle key actor sell mass check";

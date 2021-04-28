@@ -1,1 +1,1 @@
-var mnemonic = "will venue dentist warfare daughter position jazz panic sunset access ozone unveil";
+var mnemonic = "pudding thunder eyebrow assault order increase skirt seed wait snake win purpose";

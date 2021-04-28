@@ -1,1 +1,1 @@
-var mnemonic = "just lion cheese panic plastic mesh acoustic grief seminar spell three doll";
+var mnemonic = "tip truth suggest usual accident floor practice core only sick melt comfort";

@@ -1,1 +1,1 @@
-var mnemonic = "feature this matrix swift treat isolate library weird during busy quote liar";
+var mnemonic = "case kick lawn waste recycle kit modify flat can hammer cube slim";

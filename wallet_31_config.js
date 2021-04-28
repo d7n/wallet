@@ -1,1 +1,1 @@
-var mnemonic = "razor paddle wait already ripple moment leader clinic slight melody net income";
+var mnemonic = "nothing size hand argue immune cancel tail bulk segment glue short isolate";

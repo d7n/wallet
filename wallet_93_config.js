@@ -1,1 +1,1 @@
-var mnemonic = "guard dinosaur public swift stable alpha strategy rely curve seek light border";
+var mnemonic = "industry cheese unaware iron ranch invest eager only brave upgrade segment buyer";

@@ -1,1 +1,1 @@
-var mnemonic = "lift weekend people solar asthma carry boil choose install venue brief shift";
+var mnemonic = "knee artwork captain base hope hungry mercy breeze club step immense jump";

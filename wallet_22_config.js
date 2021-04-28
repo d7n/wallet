@@ -1,1 +1,1 @@
-var mnemonic = "fat exhibit draw hat reform devote clinic omit tilt make negative drama";
+var mnemonic = "will vanish panther flag auto icon strategy summer trouble injury crack tuition";

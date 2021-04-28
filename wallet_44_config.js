@@ -1,1 +1,1 @@
-var mnemonic = "like banana victory spread galaxy tragic meadow planet boil unusual zero easily";
+var mnemonic = "version train crash fire neutral material fetch mobile hockey file cigar kitten";

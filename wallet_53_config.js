@@ -1,1 +1,1 @@
-var mnemonic = "spy million voyage novel steak bonus rebuild title reveal mass toilet fee";
+var mnemonic = "outdoor excess coral high canyon sand nerve phrase warfare good carry mountain";

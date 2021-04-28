@@ -1,1 +1,1 @@
-var mnemonic = "rookie sadness lucky round blade desert punch cousin course inhale toilet fossil";
+var mnemonic = "lunar found better broom pause index elite drip offer multiply copy amateur";

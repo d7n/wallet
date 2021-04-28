@@ -1,1 +1,1 @@
-var mnemonic = "million share stadium typical sun broken pet over guitar write volcano just";
+var mnemonic = "cattle brisk reopen flock radio appear already bind churn other problem region";

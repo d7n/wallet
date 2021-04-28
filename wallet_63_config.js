@@ -1,1 +1,1 @@
-var mnemonic = "number surround coast huge broccoli abstract hazard enter way digital sausage voyage";
+var mnemonic = "just awesome draft confirm wife oxygen topple runway harbor candy federal secret";

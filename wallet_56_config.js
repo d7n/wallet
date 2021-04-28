@@ -1,1 +1,1 @@
-var mnemonic = "skill lion fatigue disagree debris decline clever verify glimpse high until major";
+var mnemonic = "amused mask favorite nasty time will much annual front coconut wing collect";

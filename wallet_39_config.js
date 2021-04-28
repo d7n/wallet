@@ -1,1 +1,1 @@
-var mnemonic = "such payment guard tissue labor hungry file struggle eyebrow buffalo myself father";
+var mnemonic = "early ketchup asthma coconut resource agent length material fragile hospital tortoise gravity";

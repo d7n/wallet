@@ -1,1 +1,1 @@
-var mnemonic = "visit grace ensure payment tell bid member cargo crazy service shadow mutual";
+var mnemonic = "video diesel debate reopen mountain daring predict ship neck control income claw";

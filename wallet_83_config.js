@@ -1,1 +1,1 @@
-var mnemonic = "frame library more dragon bag angry voice banner nurse car slab argue";
+var mnemonic = "mind certain control love dutch afford camera piano liquid fog ostrich maximum";

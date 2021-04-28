@@ -1,1 +1,1 @@
-var mnemonic = "music borrow loan weasel dinner fuel alert kidney opera size can panic";
+var mnemonic = "shrimp jewel wagon swamp tired wool slim axis father live scan milk";

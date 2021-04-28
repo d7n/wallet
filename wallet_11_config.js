@@ -1,1 +1,1 @@
-var mnemonic = "interest actual oxygen virtual dynamic also trash summer favorite black album scare";
+var mnemonic = "dutch bread plate close position fluid prevent cruel sudden crystal sphere ski";

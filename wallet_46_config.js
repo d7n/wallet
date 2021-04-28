@@ -1,1 +1,1 @@
-var mnemonic = "flat analyst ancient artwork dial ecology horse inch enrich pool absent winner";
+var mnemonic = "two near never gold advice iron dwarf visual napkin enforce faint antique";

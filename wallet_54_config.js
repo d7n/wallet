@@ -1,1 +1,1 @@
-var mnemonic = "skirt child nothing miss path fatal sphere light sight rude purse rib";
+var mnemonic = "ridge pipe express average catch human mimic brain huge media risk sun";

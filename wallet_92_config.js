@@ -1,1 +1,1 @@
-var mnemonic = "best flip document cup stand enemy vault agent march main square actress";
+var mnemonic = "laugh six dragon click distance silk result same diagram poem clutch home";

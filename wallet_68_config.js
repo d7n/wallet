@@ -1,1 +1,1 @@
-var mnemonic = "citizen sorry arrow awake illegal various kind exchange valid festival black ignore";
+var mnemonic = "method current hybrid evoke tuition place comfort deal dream decide upper glance";

@@ -1,1 +1,1 @@
-var mnemonic = "despair one course hockey edge spare mass fame month exile clump call";
+var mnemonic = "face typical wrong fan symbol forget insane foster limit offer eager border";

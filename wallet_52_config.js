@@ -1,1 +1,1 @@
-var mnemonic = "talk item category wire valve oyster stove main hotel upon pond zero";
+var mnemonic = "reduce arena rescue figure lens uphold alarm winner brush outside salad street";

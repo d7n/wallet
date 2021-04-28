@@ -1,1 +1,1 @@
-var mnemonic = "chalk mail goddess slam direct sign elephant trial habit hero foil clown";
+var mnemonic = "amateur suggest board school picnic gaze guide future wine copy prepare resemble";
