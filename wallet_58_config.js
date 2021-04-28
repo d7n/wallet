@@ -1,1 +1,1 @@
-var mnemonic = "ostrich immense toe purity planet meat boil fall material endless catch wood";
+var mnemonic = "omit federal torch hundred twist original gate when icon relief appear bundle";

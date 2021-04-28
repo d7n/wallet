@@ -1,1 +1,1 @@
-var mnemonic = "robust clip repair walk hurt brand amazing pluck also flush fever rotate";
+var mnemonic = "soccer quality silk agent rain upper village long polar middle kitten parade";

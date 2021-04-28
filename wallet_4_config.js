@@ -1,1 +1,1 @@
-var mnemonic = "farm metal badge undo attend soccer eternal caution assault magic glove right";
+var mnemonic = "ankle truly gain lion loyal damp blur sketch bind uniform exit verify";

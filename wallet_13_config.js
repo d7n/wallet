@@ -1,1 +1,1 @@
-var mnemonic = "mimic unaware powder wedding drip hill pave heavy shoulder police dismiss poverty";
+var mnemonic = "section spring inject atom napkin pipe want sweet parent because script borrow";

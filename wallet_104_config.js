@@ -1,1 +1,1 @@
-var mnemonic = "festival lend horn must wrestle inside north increase talent armor suggest lend";
+var mnemonic = "space dry quality world cool whale wrong print together obey ocean jealous";

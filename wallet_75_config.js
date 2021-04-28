@@ -1,1 +1,1 @@
-var mnemonic = "pioneer leisure review rose tiger multiply inner friend velvet puppy detail swim";
+var mnemonic = "occur twelve puppy clown couple cute random worth eight tobacco metal attack";

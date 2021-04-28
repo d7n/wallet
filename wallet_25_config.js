@@ -1,1 +1,1 @@
-var mnemonic = "border pony never foot flush layer exchange cable scrap canal chat sing";
+var mnemonic = "sort cactus glow company pyramid unknown result account street emerge pattern egg";

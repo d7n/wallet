@@ -1,1 +1,1 @@
-var mnemonic = "delay subject artist grief patch average gym medal obey private deputy replace";
+var mnemonic = "enable view clown ecology dolphin harsh resource crane mouse satoshi turkey nephew";

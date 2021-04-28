@@ -1,1 +1,1 @@
-var mnemonic = "sport biology satoshi hole ocean repair blind wish theme option sick limb";
+var mnemonic = "heavy clump cement project roof soldier fiber notable amateur strategy kid voice";

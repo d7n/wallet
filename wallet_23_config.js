@@ -1,1 +1,1 @@
-var mnemonic = "cactus bring believe certain evidence regular endorse salon limit ritual balance custom";
+var mnemonic = "mass peace physical swamp loan arm water flavor stomach sick inmate memory";

@@ -1,1 +1,1 @@
-var mnemonic = "fall affair minor sign turn own crystal depth citizen clog despair rescue";
+var mnemonic = "eternal type genuine inch emotion panda choose minor keen prepare acquire change";

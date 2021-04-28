@@ -1,1 +1,1 @@
-var mnemonic = "armor pledge cheap army discover priority erase outdoor hole mix novel lift";
+var mnemonic = "denial service network exist game fat hint error uncle talk leopard heavy";

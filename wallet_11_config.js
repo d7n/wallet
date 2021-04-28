@@ -1,1 +1,1 @@
-var mnemonic = "update bone ranch hungry flame foot awake neck oven deny myself chuckle";
+var mnemonic = "menu truly fatal visa blade rookie tomorrow act police loop gadget debris";

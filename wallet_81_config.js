@@ -1,1 +1,1 @@
-var mnemonic = "wide describe flip youth beef kiss scissors bird merge attack glare holiday";
+var mnemonic = "orient gate black test paddle frame firm busy also shrimp rookie struggle";

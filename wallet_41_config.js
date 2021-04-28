@@ -1,1 +1,1 @@
-var mnemonic = "language apart explain cup finger romance coffee eager seat pull cattle anxiety";
+var mnemonic = "boil scatter start mixed twin orient rack protect chapter sniff give spider";

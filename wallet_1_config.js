@@ -1,1 +1,1 @@
-var mnemonic = "jar rather silk okay supply blanket hood cousin meat release slim army";
+var mnemonic = "mail ostrich double jungle inmate rich place idea pull sphere stove bundle";

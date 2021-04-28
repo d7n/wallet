@@ -1,1 +1,1 @@
-var mnemonic = "surge device eye flock effort feature buffalo belt force garden exchange green";
+var mnemonic = "finish region quiz chef elder pen diary creek cheap prevent original trip";

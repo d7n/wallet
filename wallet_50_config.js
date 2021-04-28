@@ -1,1 +1,1 @@
-var mnemonic = "ice glad chimney leader limb hurry latin that health where boost train";
+var mnemonic = "cherry meadow celery staff fade blame distance flower fence side kitchen pen";

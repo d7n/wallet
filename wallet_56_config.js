@@ -1,1 +1,1 @@
-var mnemonic = "output stairs trend crumble cram grunt swear prepare mean ethics sure owner";
+var mnemonic = "cereal people elbow march valley federal victory chase paper million moral tissue";

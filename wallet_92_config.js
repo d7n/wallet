@@ -1,1 +1,1 @@
-var mnemonic = "together goose couch rare aisle atom october erase churn wall position page";
+var mnemonic = "advance swing work chat life resource disorder later collect mixed proof jewel";

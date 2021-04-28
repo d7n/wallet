@@ -1,1 +1,1 @@
-var mnemonic = "enforce banner earn abandon garlic benefit knee denial mobile december vanish car";
+var mnemonic = "business champion reunion acquire chapter basic lucky ivory fame car horn muffin";

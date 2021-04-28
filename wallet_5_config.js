@@ -1,1 +1,1 @@
-var mnemonic = "display gas shaft hotel that leaf cattle adult issue able practice coil";
+var mnemonic = "plastic gym blood pyramid expose reduce scan engine impulse syrup exchange satoshi";

@@ -1,1 +1,1 @@
-var mnemonic = "protect bonus toddler refuse silly hurdle dress trophy possible distance shock woman";
+var mnemonic = "side swift column language theme custom jelly vivid club raven process roast";

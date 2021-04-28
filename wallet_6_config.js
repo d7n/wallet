@@ -1,1 +1,1 @@
-var mnemonic = "company extra mind flip into urban lunar kidney surface snap february bleak";
+var mnemonic = "quality icon vivid design kind exclude maple audit just strategy myself present";

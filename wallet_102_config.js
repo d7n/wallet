@@ -1,1 +1,1 @@
-var mnemonic = "identify cause endorse busy lecture occur bike bubble aware circle there water";
+var mnemonic = "forward pony leg govern bracket pistol village lift develop hole umbrella unlock";

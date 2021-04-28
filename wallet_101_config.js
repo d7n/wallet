@@ -1,1 +1,1 @@
-var mnemonic = "bamboo ankle toward lake hollow draft worry nest song daughter heavy rebel";
+var mnemonic = "wild document clown portion embark make spring salt artist auction waste angry";

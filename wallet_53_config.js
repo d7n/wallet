@@ -1,1 +1,1 @@
-var mnemonic = "either true liberty funny change sight law shallow cute quarter attract inch";
+var mnemonic = "logic project garage panda tragic pill venture wrist nephew timber equal myself";

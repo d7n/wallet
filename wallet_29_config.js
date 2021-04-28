@@ -1,1 +1,1 @@
-var mnemonic = "choose mind lesson voyage canyon sword youth axis shiver annual middle blouse";
+var mnemonic = "auto mean achieve peasant box limb reflect gun chicken surround shaft mouse";

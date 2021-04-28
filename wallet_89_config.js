@@ -1,1 +1,1 @@
-var mnemonic = "lonely alone demand copper ritual minute filter stone valley gold work glory";
+var mnemonic = "voyage rain property travel protect limb walnut hungry bulb artwork lava vague";

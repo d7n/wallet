@@ -1,1 +1,1 @@
-var mnemonic = "bachelor chalk tube shoot unveil weather reunion list bridge orchard trigger reward";
+var mnemonic = "fury ensure ethics shine silly comic display citizen fork squirrel pilot major";

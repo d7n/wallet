@@ -1,1 +1,1 @@
-var mnemonic = "attend ugly enforce that crawl people rifle forward again pizza kidney awful";
+var mnemonic = "silly hero place account cool head august key miss cover major tube";

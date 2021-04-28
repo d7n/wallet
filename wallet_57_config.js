@@ -1,1 +1,1 @@
-var mnemonic = "super easy example inside wine sugar wave edge pattern begin fabric atom";
+var mnemonic = "leave feed moral tumble peasant knife case rural surround version three nasty";

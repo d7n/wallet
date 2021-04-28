@@ -1,1 +1,1 @@
-var mnemonic = "tissue spread pattern sibling eternal mom alley pink absorb drill virus sleep";
+var mnemonic = "scan craft curious predict pig muffin medal weapon company fee admit tray";

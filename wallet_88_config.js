@@ -1,1 +1,1 @@
-var mnemonic = "often worry window casino vacuum tribe daughter knee parade physical south logic";
+var mnemonic = "exile doctor position giant lend hurdle mother mule ticket tilt virus flock";

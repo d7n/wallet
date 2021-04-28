@@ -1,1 +1,1 @@
-var mnemonic = "provide electric quarter wonder upset dinner slender achieve circle talent crop lonely";
+var mnemonic = "scale surface prison picnic bullet opinion argue trial spend among slim stem";

@@ -1,1 +1,1 @@
-var mnemonic = "resemble tired crane bomb nut they result age enemy ride various fantasy";
+var mnemonic = "nation room grief dismiss culture special quality bargain view second equal dash";

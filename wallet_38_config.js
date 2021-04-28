@@ -1,1 +1,1 @@
-var mnemonic = "provide citizen vintage sugar trend express excuse enlist speak gym elevator accuse";
+var mnemonic = "habit will ladder pulp asset survey noise fame voyage vacant boring private";

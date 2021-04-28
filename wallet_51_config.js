@@ -1,1 +1,1 @@
-var mnemonic = "crash scene impact stool chest soda letter six wave pass silly hint";
+var mnemonic = "near trial abuse neutral move suggest helmet draft frozen mesh mixture until";

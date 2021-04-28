@@ -1,1 +1,1 @@
-var mnemonic = "fat afraid ability client icon orange black surround gloom address hammer matrix";
+var mnemonic = "shrug capital fish stock primary pudding monkey nurse arctic solution try victory";

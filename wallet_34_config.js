@@ -1,1 +1,1 @@
-var mnemonic = "kite wolf news inherit churn planet filter utility abandon dish own thumb";
+var mnemonic = "neither pretty ugly warm ramp pink wolf surround hidden ecology cash unfair";

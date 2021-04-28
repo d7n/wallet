@@ -1,1 +1,1 @@
-var mnemonic = "cause grape pottery income captain price stumble tomato pool gas fringe stick";
+var mnemonic = "describe debris shock antique vault boil pudding vault soon early sign discover";

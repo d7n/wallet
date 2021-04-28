@@ -1,1 +1,1 @@
-var mnemonic = "bullet canvas marble gather remember worry bless black involve move trial labor";
+var mnemonic = "rail couch ramp erosion attract morning reduce clarify all penalty giggle garlic";

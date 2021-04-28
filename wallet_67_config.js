@@ -1,1 +1,1 @@
-var mnemonic = "loop confirm lawsuit inspire frozen radar pilot immense eager fox elegant arrest";
+var mnemonic = "tortoise ocean brush service tiny ethics spring canvas just execute tribe frame";

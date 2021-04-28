@@ -1,1 +1,1 @@
-var mnemonic = "normal base hedgehog square crisp repeat catalog injury put sibling album left";
+var mnemonic = "deny swing clean spring retreat decrease segment chair toe laugh pet live";

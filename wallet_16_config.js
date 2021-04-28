@@ -1,1 +1,1 @@
-var mnemonic = "erosion cloud front style glad remove good curtain discover broccoli industry zoo";
+var mnemonic = "exchange explain glare mail case feel vintage margin skate reopen invest pluck";

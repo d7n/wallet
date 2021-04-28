@@ -1,1 +1,1 @@
-var mnemonic = "empty rabbit desk depth cherry job fly unit fiction shallow lab chair";
+var mnemonic = "slight north shine bleak frown deposit rug sting logic strategy keep subway";

@@ -1,1 +1,1 @@
-var mnemonic = "fruit kangaroo clinic emotion potato link salute submit finish resource poet talent";
+var mnemonic = "nature mushroom dove judge accuse logic lab cushion indoor punch people valve";

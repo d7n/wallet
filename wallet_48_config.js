@@ -1,1 +1,1 @@
-var mnemonic = "stay assist diamond zone biology spirit banana script nest payment vapor zone";
+var mnemonic = "oven diamond mask auction float unhappy security still convince august giggle pride";

@@ -1,1 +1,1 @@
-var mnemonic = "deputy buffalo reform fit pupil essence banana vault input curious monitor fiber";
+var mnemonic = "range poverty parent dilemma nuclear copper swift also business release between leaf";

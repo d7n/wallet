@@ -1,1 +1,1 @@
-var mnemonic = "early limb empower add assist sugar push panther adult anger van cigar";
+var mnemonic = "express hotel lyrics transfer charge twin puzzle enroll afraid trumpet strike joke";

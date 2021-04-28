@@ -1,1 +1,1 @@
-var mnemonic = "original helmet brother shop wedding network success weird dwarf mail wash vacant";
+var mnemonic = "brisk mimic bunker alley solution silver average vapor fox air weather axis";

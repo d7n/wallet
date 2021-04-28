@@ -1,1 +1,1 @@
-var mnemonic = "admit recycle warrior grid absent toast stairs party genuine pair chimney oblige";
+var mnemonic = "foot urban speed blue spare action swift exact ugly lunar slush perfect";

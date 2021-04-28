@@ -1,1 +1,1 @@
-var mnemonic = "smooth can brisk toward play rebuild miss orient dry allow guard solution";
+var mnemonic = "dose giraffe fine nerve cluster clarify chimney trend jeans sheriff emerge top";

@@ -1,1 +1,1 @@
-var mnemonic = "goose squirrel ask bounce follow expire blossom script aunt gravity view depth";
+var mnemonic = "trumpet derive move essence turtle depart tourist prosper joke under that dice";

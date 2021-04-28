@@ -1,1 +1,1 @@
-var mnemonic = "cigar weasel ripple strike network sense expect horror uphold piano dynamic green";
+var mnemonic = "rare useless rebuild wonder jeans pair mass forward dose position plunge popular";

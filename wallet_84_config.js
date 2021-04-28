@@ -1,1 +1,1 @@
-var mnemonic = "common age funny top mandate shed deer hybrid vacuum risk release pioneer";
+var mnemonic = "physical tool burst base become exhaust machine member keep frost swift dignity";

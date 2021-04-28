@@ -1,1 +1,1 @@
-var mnemonic = "friend become crime rocket gravity more spell guess essay story wire demand";
+var mnemonic = "exotic music sponsor address end front gloom visa inside evil fashion base";

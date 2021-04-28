@@ -1,1 +1,1 @@
-var mnemonic = "ensure drop index motion team athlete eagle label mosquito fortune tissue royal";
+var mnemonic = "canyon sleep special online always gospel unique math police rally trial siege";

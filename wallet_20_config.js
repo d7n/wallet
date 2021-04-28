@@ -1,1 +1,1 @@
-var mnemonic = "farm appear lion moment diet annual exist always couch enemy hub food";
+var mnemonic = "knee mutual fiscal account long victory congress vivid hurry found punch switch";

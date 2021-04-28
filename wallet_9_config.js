@@ -1,1 +1,1 @@
-var mnemonic = "chalk pelican ensure icon name famous immune pencil solve truly game behave";
+var mnemonic = "cry spin safe alpha arrive barely crash weekend oyster number pelican toward";

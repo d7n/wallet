@@ -1,1 +1,1 @@
-var mnemonic = "core essence angry coral flavor exile discover hire pride possible settle estate";
+var mnemonic = "wish parent trend size you logic similar stock now illness select catalog";

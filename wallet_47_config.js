@@ -1,1 +1,1 @@
-var mnemonic = "biology prefer turkey place marriage remember stay front much tooth monster vintage";
+var mnemonic = "axis shift legend mention infant girl prevent boss sign various under exit";

@@ -1,1 +1,1 @@
-var mnemonic = "crazy already spot vacant sauce just drama shrimp estate type genuine away";
+var mnemonic = "trick crime ribbon vanish employ awful boy arctic silly scare robot save";

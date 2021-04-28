@@ -1,1 +1,1 @@
-var mnemonic = "napkin report try borrow pass rich camera sugar finish essence weird volume";
+var mnemonic = "similar panda summer tornado notable elder off sure shoulder ozone become nephew";

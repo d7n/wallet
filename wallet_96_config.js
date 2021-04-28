@@ -1,1 +1,1 @@
-var mnemonic = "puzzle oyster swing long flight woman force power physical note fog exercise";
+var mnemonic = "scrap eight struggle math sponsor flash volcano imitate cross jewel asthma crew";

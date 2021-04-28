@@ -1,1 +1,1 @@
-var mnemonic = "large allow game stick session lunar board bind erode tell cheese hole";
+var mnemonic = "story crouch over prize adapt trick they alert decade shed culture globe";

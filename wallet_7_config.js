@@ -1,1 +1,1 @@
-var mnemonic = "juice couple wise cradle item degree zone improve mosquito ribbon rough chalk";
+var mnemonic = "hair ceiling hill profit wool nominee chaos print arrest ring empower spread";

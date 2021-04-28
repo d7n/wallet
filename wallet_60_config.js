@@ -1,1 +1,1 @@
-var mnemonic = "account general palm emotion bracket spice regret inhale crumble deliver final artefact";
+var mnemonic = "senior length lady loud describe canvas buddy digital bacon mixed edge frown";

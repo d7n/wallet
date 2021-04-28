@@ -1,1 +1,1 @@
-var mnemonic = "trip smart shrug spring brain jungle float legal join need alone give";
+var mnemonic = "cherry tray blade envelope chuckle annual chicken wear genuine permit doll symptom";

@@ -1,1 +1,1 @@
-var mnemonic = "skull swing risk bus grow flee edit novel motor desk romance huge";
+var mnemonic = "logic attack pipe cram leisure left polar pelican hood mansion dinosaur step";

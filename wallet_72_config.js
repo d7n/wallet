@@ -1,1 +1,1 @@
-var mnemonic = "issue fix alert pony zebra diet slice car zone salt song swear";
+var mnemonic = "glove solve hockey dolphin almost pride name organ accuse print buddy praise";

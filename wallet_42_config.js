@@ -1,1 +1,1 @@
-var mnemonic = "rubber unhappy veteran cover mesh garden ribbon recipe thunder envelope access can";
+var mnemonic = "universe imitate session muffin horror purchase group other final marine cheese bachelor";

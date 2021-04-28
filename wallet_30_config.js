@@ -1,1 +1,1 @@
-var mnemonic = "advice win one sadness barely smart above whisper battle casual exercise alert";
+var mnemonic = "history umbrella chalk squirrel enforce decline lift marine learn volume occur grid";

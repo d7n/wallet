@@ -1,1 +1,1 @@
-var mnemonic = "marine oil winner dice allow toe width nurse attack priority owner intact";
+var mnemonic = "forum tunnel anxiety powder post beauty wood vehicle pioneer place advice glide";

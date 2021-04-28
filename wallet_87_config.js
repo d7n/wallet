@@ -1,1 +1,1 @@
-var mnemonic = "leopard left empower betray mixture pave blood feed join member submit dry";
+var mnemonic = "size spider vanish crowd stamp fury essence infant scrap hybrid youth knife";

@@ -1,1 +1,1 @@
-var mnemonic = "wasp parrot census swing clay method prize tool ladder security nuclear cabin";
+var mnemonic = "search happy put paper else rare tunnel culture mask album mosquito domain";

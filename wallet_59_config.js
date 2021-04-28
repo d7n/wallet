@@ -1,1 +1,1 @@
-var mnemonic = "magic cable then exist alter finish silk inner swallow mesh remain kit";
+var mnemonic = "unfair advice surprise pioneer flat noble huge aerobic cradle artist slice comic";

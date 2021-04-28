@@ -1,1 +1,1 @@
-var mnemonic = "approve dutch advice cement all page double shell debate observe drive story";
+var mnemonic = "vicious crash hobby birth cost ceiling able awful circle onion dice strong";

@@ -1,1 +1,1 @@
-var mnemonic = "copy frame original phone island fluid barely next range bus hero expect";
+var mnemonic = "bounce output cannon involve give power age science total pledge capital toast";

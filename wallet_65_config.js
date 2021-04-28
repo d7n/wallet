@@ -1,1 +1,1 @@
-var mnemonic = "three soup actual wait impulse view twice couple attract various liar unlock";
+var mnemonic = "pig team trigger run panic suspect question tired modify jump jelly analyst";

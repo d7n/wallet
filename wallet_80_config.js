@@ -1,1 +1,1 @@
-var mnemonic = "giraffe glance sorry lunar marble sniff minimum bitter crouch skate step push";
+var mnemonic = "pause regular other law ball fantasy lab already silly subway dice side";

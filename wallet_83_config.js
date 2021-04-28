@@ -1,1 +1,1 @@
-var mnemonic = "bitter earn collect shop segment among ability walnut ripple fresh pole board";
+var mnemonic = "maximum once clog say monster super hub captain frost label alpha obvious";

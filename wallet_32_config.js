@@ -1,1 +1,1 @@
-var mnemonic = "exotic rally wall glory camera arm cluster team trigger outside zoo fall";
+var mnemonic = "adult profit token pair observe emerge blind grass kid ready finish you";

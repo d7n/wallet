@@ -1,1 +1,1 @@
-var mnemonic = "garment patch crew brisk reunion hunt parent neglect cute mouse web marine";
+var mnemonic = "divorce stable vibrant matrix jeans bone harvest shock just great attitude cage";

@@ -1,1 +1,1 @@
-var mnemonic = "ripple annual turn like snow desert tuition over cushion couple life orange";
+var mnemonic = "toy disagree version media income corn profit immense west bridge three couple";

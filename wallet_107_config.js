@@ -1,1 +1,1 @@
-var mnemonic = "air spoil bicycle solution start giant camp hood slush flight glory below";
+var mnemonic = "host jelly powder country lizard field net subject glide chapter cram broom";

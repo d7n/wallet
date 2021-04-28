@@ -1,1 +1,1 @@
-var mnemonic = "clown tray pistol scatter siege method gather okay digital casual loan lecture";
+var mnemonic = "occur engage gesture onion update dust identify skate reject tool control own";

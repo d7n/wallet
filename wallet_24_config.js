@@ -1,1 +1,1 @@
-var mnemonic = "scale excuse wear cloud member paddle ready essay olympic rigid firm demise";
+var mnemonic = "priority idea secret border response sport night risk furnace rigid title march";

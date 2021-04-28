@@ -1,1 +1,1 @@
-var mnemonic = "dust rural visual above clock near razor carry icon legal coil small";
+var mnemonic = "muscle violin jaguar cruise come grocery decide brass balcony panel blossom candy";

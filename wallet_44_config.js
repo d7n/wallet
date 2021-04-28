@@ -1,1 +1,1 @@
-var mnemonic = "hamster anchor tourist come pepper crumble require word other pitch vacant smoke";
+var mnemonic = "forum average suit huge insane input fetch gauge help bus letter depend";
