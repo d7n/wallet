@@ -1,1 +1,1 @@
-var mnemonic = "clay hockey survey call wrap ugly open gravity fresh enough federal soft";
+var mnemonic = "between shine then when blast ten inch rubber bridge vacant brave bone";

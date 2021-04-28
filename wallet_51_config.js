@@ -1,1 +1,1 @@
-var mnemonic = "invite educate broom replace sadness hedgehog scissors prefer talent boss economy canvas";
+var mnemonic = "arm claim report cabbage lobster easy future guide hold blade cat pulse";

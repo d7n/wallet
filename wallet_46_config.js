@@ -1,1 +1,1 @@
-var mnemonic = "energy merge vibrant craft forum debate nerve fatal solar mail early slam";
+var mnemonic = "famous tourist olive echo unit crystal habit goat island bright again sadness";

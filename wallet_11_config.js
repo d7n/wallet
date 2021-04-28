@@ -1,1 +1,1 @@
-var mnemonic = "insect volume pole shop general bunker unusual voice fragile olive bread author";
+var mnemonic = "trim hotel wrap describe pool crew vote trust boat repair defense random";

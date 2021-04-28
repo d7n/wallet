@@ -1,1 +1,1 @@
-var mnemonic = "above connect ability guilt breeze talk penalty joy please innocent modify use";
+var mnemonic = "office pave book have cliff eager demand glue sausage blush hello borrow";

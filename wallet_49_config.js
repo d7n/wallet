@@ -1,1 +1,1 @@
-var mnemonic = "special relief sick husband margin thought worry bone rhythm tomorrow more deputy";
+var mnemonic = "goddess jeans ready aunt fault unlock grant undo vault sight layer choose";

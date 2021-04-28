@@ -1,1 +1,1 @@
-var mnemonic = "zero raccoon swift doll funny later spread unusual civil birth horse ridge";
+var mnemonic = "eternal success penalty ticket weather current edge ordinary choose artefact jazz human";

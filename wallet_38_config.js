@@ -1,1 +1,1 @@
-var mnemonic = "ability erode mystery pioneer collect under wrestle recall wrestle method success bacon";
+var mnemonic = "just coral pledge fish raven stem decrease canyon slush wide swift globe";

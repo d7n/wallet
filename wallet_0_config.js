@@ -1,1 +1,1 @@
-var mnemonic = "deposit life ignore chicken husband fiscal addict suggest glove inquiry glove verify";
+var mnemonic = "crush lock ketchup nuclear dolphin ecology chronic drama prison fat goddess obvious";

@@ -1,1 +1,1 @@
-var mnemonic = "prize switch gossip total barely museum income ivory chuckle oil fly coast";
+var mnemonic = "deer anxiety used size high solve dial survey sad crime universe glance";

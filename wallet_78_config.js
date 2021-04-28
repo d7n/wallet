@@ -1,1 +1,1 @@
-var mnemonic = "fragile innocent ostrich culture season price very sorry chapter harbor grunt genre";
+var mnemonic = "paddle ritual plastic artefact wolf bronze absurd pink nation risk lock swamp";

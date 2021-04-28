@@ -1,1 +1,1 @@
-var mnemonic = "divide clutch parrot kid miracle shiver negative flavor disease cloud flame tired";
+var mnemonic = "mutual then embrace best pumpkin possible excuse parent oil embody cost slice";

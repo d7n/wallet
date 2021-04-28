@@ -1,1 +1,1 @@
-var mnemonic = "nature member repeat open gather leader either model flat blouse anchor alpha";
+var mnemonic = "roast stadium right party luggage produce strong spike load grape lesson adult";

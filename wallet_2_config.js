@@ -1,1 +1,1 @@
-var mnemonic = "broom recycle steak canvas lonely assist super place rug between decorate orchard";
+var mnemonic = "almost blood never man program traffic fabric topple edge patrol wisdom hunt";

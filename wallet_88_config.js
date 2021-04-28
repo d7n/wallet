@@ -1,1 +1,1 @@
-var mnemonic = "flight awful impact reason regret moral detect valley dentist assault school heavy";
+var mnemonic = "lobster miss mule confirm educate asthma vibrant bread friend wash apology tube";

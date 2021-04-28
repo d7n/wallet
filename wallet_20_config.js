@@ -1,1 +1,1 @@
-var mnemonic = "judge few manual hybrid panic whip brown divert imitate sail enter decide";
+var mnemonic = "butter ahead cement siege resemble pig judge april tent dream roast ethics";

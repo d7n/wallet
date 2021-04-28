@@ -1,1 +1,1 @@
-var mnemonic = "gun empower romance treat eye hard shiver budget tray scrub garbage medal";
+var mnemonic = "obvious pool north series shrimp portion buzz argue wage breeze crop perfect";

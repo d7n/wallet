@@ -1,1 +1,1 @@
-var mnemonic = "taste envelope connect total creek talk jacket kid vote unit attend salute";
+var mnemonic = "random ability bicycle final pink easily town awful high grocery jelly buzz";

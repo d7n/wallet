@@ -1,1 +1,1 @@
-var mnemonic = "twice odor dragon catch innocent cradle narrow alert engine later kite dash";
+var mnemonic = "doll online silk leg naive cabin dog draft box accident process wise";

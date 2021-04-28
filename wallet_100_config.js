@@ -1,1 +1,1 @@
-var mnemonic = "faint afford weasel stairs time solution typical journey cook proud empty honey";
+var mnemonic = "release gesture drift thunder ability spy adapt follow cereal volume cushion fish";

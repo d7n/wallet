@@ -1,1 +1,1 @@
-var mnemonic = "always poet arrest release notable snack taste tunnel lava enhance ankle follow";
+var mnemonic = "truly shed cave perfect apart seminar observe rebel catch focus interest cage";

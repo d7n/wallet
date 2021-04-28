@@ -1,1 +1,1 @@
-var mnemonic = "orbit relief elder bachelor enrich surge digital parent cloud today miracle admit";
+var mnemonic = "still differ scrap resemble ozone consider before stone century they scout rhythm";

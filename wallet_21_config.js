@@ -1,1 +1,1 @@
-var mnemonic = "vicious ten honey lawsuit remember pepper lock member monster gauge abuse shrug";
+var mnemonic = "couple spread kitten spy embrace filter screen bright dwarf dwarf autumn spatial";

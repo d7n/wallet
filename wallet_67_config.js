@@ -1,1 +1,1 @@
-var mnemonic = "region shove negative goose angle elite carbon park embark night tomato couch";
+var mnemonic = "circle key wheat beef below mass soccer one above miracle airport lazy";

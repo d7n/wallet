@@ -1,1 +1,1 @@
-var mnemonic = "slice pluck you potato hard gain rice method tissue sense debate check";
+var mnemonic = "ripple tree genius ball easy ahead horror scout orient mix album liar";

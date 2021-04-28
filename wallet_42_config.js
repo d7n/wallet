@@ -1,1 +1,1 @@
-var mnemonic = "sauce tornado inject split hope outer another wave hover crawl obscure gossip";
+var mnemonic = "tooth mechanic hedgehog increase tired lumber dirt glance inquiry museum manual area";

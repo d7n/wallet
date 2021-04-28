@@ -1,1 +1,1 @@
-var mnemonic = "maid witness outer patrol fold taxi fragile army nose harsh offer cat";
+var mnemonic = "address chuckle butter unveil unfair eyebrow please joy deliver defy remain girl";

@@ -1,1 +1,1 @@
-var mnemonic = "symbol series excess wonder aim praise trigger staff crack danger december awful";
+var mnemonic = "number issue giant shallow left loop rural foster aunt pact agent target";

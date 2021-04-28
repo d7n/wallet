@@ -1,1 +1,1 @@
-var mnemonic = "cancel drink cherry abandon skill heavy accident hello else naive lend royal";
+var mnemonic = "option bargain still moral fluid toss pluck guitar master grace announce orange";

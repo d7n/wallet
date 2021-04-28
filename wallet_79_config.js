@@ -1,1 +1,1 @@
-var mnemonic = "peasant brick mercy post honey peasant patrol resist chaos dilemma sunset hockey";
+var mnemonic = "suit humor point goat copper travel fiscal analyst sorry kiss name able";

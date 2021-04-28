@@ -1,1 +1,1 @@
-var mnemonic = "fence chicken festival cash silk zebra indicate air toy very motor people";
+var mnemonic = "layer orient usage organ energy brand naive clock bamboo trend submit tiger";

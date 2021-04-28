@@ -1,1 +1,1 @@
-var mnemonic = "bonus object uncle canal such mask slogan hill bamboo same pepper library";
+var mnemonic = "news diet rally quiz fringe category trip dial install soldier subway wide";

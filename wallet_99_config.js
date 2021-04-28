@@ -1,1 +1,1 @@
-var mnemonic = "gift demand library blind wrap royal square place gorilla gossip two movie";
+var mnemonic = "vote ranch dirt modify weather pupil celery matrix tongue flight series token";

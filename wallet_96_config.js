@@ -1,1 +1,1 @@
-var mnemonic = "atom verify depth siren blur dirt lake frame cube stick expire palm";
+var mnemonic = "drama pencil border song because farm unable enemy good enough cup sample";

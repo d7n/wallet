@@ -1,1 +1,1 @@
-var mnemonic = "amount arctic cross fabric patrol million wire tail comic siege pencil head";
+var mnemonic = "merry snow elegant fabric mammal hospital awful normal toward hunt speak total";

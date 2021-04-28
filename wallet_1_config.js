@@ -1,1 +1,1 @@
-var mnemonic = "laugh wing onion reveal enforce tomorrow hurdle rely praise time dilemma long";
+var mnemonic = "eagle aim win wolf great bone zone bus forget pet nut then";

@@ -1,1 +1,1 @@
-var mnemonic = "mandate weekend situate today become leave prevent boring garage raccoon shallow science";
+var mnemonic = "theory neutral lock wood flat public leopard require chunk ask stumble elephant";

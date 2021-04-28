@@ -1,1 +1,1 @@
-var mnemonic = "coil reduce peace island chef inner sphere pond trap stairs august awful";
+var mnemonic = "grape trip lecture fragile parrot labor shrug bronze secret grief tomorrow scout";

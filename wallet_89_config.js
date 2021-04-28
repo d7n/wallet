@@ -1,1 +1,1 @@
-var mnemonic = "bleak tunnel frost illegal pool lake squeeze equip shoe seat inspire dumb";
+var mnemonic = "pudding leaf once file north quantum bundle average twin gold soldier pitch";

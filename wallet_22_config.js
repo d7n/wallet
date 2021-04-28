@@ -1,1 +1,1 @@
-var mnemonic = "ancient glance floor sun another desk bundle venue sing found demise include";
+var mnemonic = "suffer sponsor priority huge task pigeon buddy future busy tragic express almost";

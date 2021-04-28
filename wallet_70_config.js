@@ -1,1 +1,1 @@
-var mnemonic = "copy tenant dial canal giraffe false bird uphold impulse quality ball flavor";
+var mnemonic = "baby pelican hundred million theme truck gift expire fence large void scissors";

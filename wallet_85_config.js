@@ -1,1 +1,1 @@
-var mnemonic = "opinion sand athlete result fantasy tool banner ensure tunnel night fire nest";
+var mnemonic = "mobile answer chef biology dragon differ lady range menu soul impact deny";

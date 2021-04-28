@@ -1,1 +1,1 @@
-var mnemonic = "bamboo turkey bean tilt patient limit spare hip remove wreck crazy resource";
+var mnemonic = "liar mother green robot sock company expect core badge around ask brother";

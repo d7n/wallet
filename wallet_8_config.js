@@ -1,1 +1,1 @@
-var mnemonic = "wrong canoe cube describe bullet grit shift clown transfer tumble dragon fat";
+var mnemonic = "body subway frost giraffe peanut wheel best legal have obtain few exotic";

@@ -1,1 +1,1 @@
-var mnemonic = "rather twenty relax margin fetch river hint people parrot execute announce sausage";
+var mnemonic = "tuition feature accident blood genre liquid maximum icon project couch enroll chicken";

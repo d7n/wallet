@@ -1,1 +1,1 @@
-var mnemonic = "boy castle neck goose hello sand total boat enroll inhale deliver achieve";
+var mnemonic = "come leg toward south prefer elite project scrap key violin junk history";

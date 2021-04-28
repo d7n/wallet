@@ -1,1 +1,1 @@
-var mnemonic = "dish promote useful town trap vessel season decline social deputy slender gadget";
+var mnemonic = "various slam ocean transfer sting rebuild laundry base mystery health alpha guard";

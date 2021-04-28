@@ -1,1 +1,1 @@
-var mnemonic = "mansion exercise stem finger local crunch never rescue creek capital ordinary term";
+var mnemonic = "slush fluid trumpet case mention art antenna blouse raccoon business else giraffe";

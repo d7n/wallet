@@ -1,1 +1,1 @@
-var mnemonic = "tent trim soon globe uphold ride symbol special bench vacant media spider";
+var mnemonic = "track scene addict false layer tornado palm title people drill kidney mixture";

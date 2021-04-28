@@ -1,1 +1,1 @@
-var mnemonic = "laundry cherry smoke vehicle notice income rice village wave flower column misery";
+var mnemonic = "slight photo nuclear melt hard slender faint silver burger air truly exotic";

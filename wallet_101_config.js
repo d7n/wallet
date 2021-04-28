@@ -1,1 +1,1 @@
-var mnemonic = "salad dice tobacco meadow trigger plate pact scheme alarm meadow frown air";
+var mnemonic = "garlic ivory shed where ginger between woman soccer amateur ticket language amount";

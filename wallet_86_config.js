@@ -1,1 +1,1 @@
-var mnemonic = "enrich park cruel transfer neglect fame burden view share lesson sight guide";
+var mnemonic = "rubber toss census actor speed half grit vault various solar security exile";

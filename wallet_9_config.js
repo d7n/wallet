@@ -1,1 +1,1 @@
-var mnemonic = "ability tell edit oppose neither sphere ramp boy stage tourist lottery soup";
+var mnemonic = "employ hat accident measure other planet divorce suspect guilt butter what swear";

@@ -1,1 +1,1 @@
-var mnemonic = "fan occur cup between fold easy hidden bicycle myself slight memory lens";
+var mnemonic = "analyst ocean second comic jacket nominee benefit major crunch umbrella hour turn";

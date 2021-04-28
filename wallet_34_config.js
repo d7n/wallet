@@ -1,1 +1,1 @@
-var mnemonic = "common figure vivid eye bomb wing such spy mention above ordinary edge";
+var mnemonic = "quality notice depart volcano someone claw someone dolphin act reunion egg glow";

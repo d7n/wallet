@@ -1,1 +1,1 @@
-var mnemonic = "scare milk squeeze pelican grit client bachelor tail mammal enemy require wet";
+var mnemonic = "share sting movie fashion spawn trophy venue elevator parrot indicate panel also";

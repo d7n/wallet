@@ -1,1 +1,1 @@
-var mnemonic = "robust cruel better crystal priority charge cycle diesel can keen measure trouble";
+var mnemonic = "whale gap runway use come snack salmon twelve rib review veteran gaze";

@@ -1,1 +1,1 @@
-var mnemonic = "sauce exchange autumn clown accident strong vocal sphere donkey until dose crowd";
+var mnemonic = "patient victory march puzzle angle pass rocket dignity wrist midnight quick squirrel";

@@ -1,1 +1,1 @@
-var mnemonic = "draw harsh modify result topple torch fade globe grief ostrich vote become";
+var mnemonic = "proof erupt result slide equip recycle arrange problem mutual various lake penalty";

@@ -1,1 +1,1 @@
-var mnemonic = "bridge sound craft mimic evoke fossil earth boss forget divorce critic random";
+var mnemonic = "mimic either rescue junior age need gravity method hip palm soccer dad";

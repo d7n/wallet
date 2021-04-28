@@ -1,1 +1,1 @@
-var mnemonic = "visual remind wheel hedgehog bracket mandate order such unit valley salon doctor";
+var mnemonic = "impose cluster fault width lab churn step oven girl ankle afraid host";

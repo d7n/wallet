@@ -1,1 +1,1 @@
-var mnemonic = "worth castle rather reduce change pistol fan victory upset ritual slight rough";
+var mnemonic = "invest gold song gloom velvet monkey quarter bulb black umbrella then oblige";

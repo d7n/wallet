@@ -1,1 +1,1 @@
-var mnemonic = "mouse embark code book shrug gallery claw fade dinner reflect aspect start";
+var mnemonic = "diamond history treat country normal initial about round switch stay mesh pen";

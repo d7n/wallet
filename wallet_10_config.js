@@ -1,1 +1,1 @@
-var mnemonic = "leaf strategy scatter live silk unaware two print define razor label pyramid";
+var mnemonic = "bounce dune ordinary fine maximum note track senior carpet eight company draw";

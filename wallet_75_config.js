@@ -1,1 +1,1 @@
-var mnemonic = "debate ranch pioneer pause patch attend oppose off multiply monkey bamboo problem";
+var mnemonic = "west gadget rally little oyster able gentle pact fluid curve session dentist";

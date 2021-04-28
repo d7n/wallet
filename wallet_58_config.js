@@ -1,1 +1,1 @@
-var mnemonic = "vacant welcome hub sea canal pulse jazz attack west mansion sort sword";
+var mnemonic = "fantasy carbon boat error address spoon edit repeat ready genius change bar";

@@ -1,1 +1,1 @@
-var mnemonic = "satoshi boat length zero negative pear luxury knife battle shove orchard split";
+var mnemonic = "february leg route oven year test much estate mirror scrap carbon aunt";

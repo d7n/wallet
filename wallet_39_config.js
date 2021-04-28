@@ -1,1 +1,1 @@
-var mnemonic = "speak fence minimum oil lion boss bind knock pistol file define coral";
+var mnemonic = "casino spider garlic joy smile gadget saddle system robust stem stadium soft";

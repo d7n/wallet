@@ -1,1 +1,1 @@
-var mnemonic = "resist stone diesel tuition obscure tiny boring cousin zoo charge ability monkey";
+var mnemonic = "point monkey beyond enhance egg have innocent pill live violin latin peace";

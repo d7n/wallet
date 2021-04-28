@@ -1,1 +1,1 @@
-var mnemonic = "play abuse afford twenty decrease position fury water message retire silk caution";
+var mnemonic = "often cinnamon canoe reduce midnight rich install warfare immune spike nice vast";

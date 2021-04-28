@@ -1,1 +1,1 @@
-var mnemonic = "wild hospital best pupil express cloud wear auction curtain hurt govern aerobic";
+var mnemonic = "pelican trumpet betray grit fuel easily desert owner dog child clerk slow";

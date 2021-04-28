@@ -1,1 +1,1 @@
-var mnemonic = "fit memory inspire magic talent install nice silver burger sniff tiger half";
+var mnemonic = "truth firm vast obtain scrub wolf broccoli area tourist drip ladder brass";

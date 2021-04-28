@@ -1,1 +1,1 @@
-var mnemonic = "goat local peanut vivid behave latin donkey eye milk rich vanish claim";
+var mnemonic = "wise entire vendor film flush shock essence tank album tourist silent polar";

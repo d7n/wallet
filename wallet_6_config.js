@@ -1,1 +1,1 @@
-var mnemonic = "step cry bridge pair kiwi orange swarm term affair grow sell surprise";
+var mnemonic = "book tongue camera cancel undo argue delay trophy iron grant absurd clerk";

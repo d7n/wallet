@@ -1,1 +1,1 @@
-var mnemonic = "special panther tiny side feature lunch sell metal birth nest interest surface";
+var mnemonic = "flower wall tone cook hello fiction fame ketchup tenant scheme stage prepare";

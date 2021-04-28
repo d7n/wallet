@@ -1,1 +1,1 @@
-var mnemonic = "recall crack joy carpet swap antique hungry when vast rifle lake oblige";
+var mnemonic = "bike chimney humble detail can giraffe donor fringe economy squirrel today fringe";

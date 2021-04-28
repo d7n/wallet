@@ -1,1 +1,1 @@
-var mnemonic = "only quit penalty runway black penalty scare truly shove remind adapt arrest";
+var mnemonic = "drastic item organ access flower phrase pair cycle baby finish maple conduct";

@@ -1,1 +1,1 @@
-var mnemonic = "oppose shield junior shrimp sick leave reunion process prefer say tool pause";
+var mnemonic = "dream divide close purse leader average thumb peace intact start tornado name";

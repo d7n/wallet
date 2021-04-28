@@ -1,1 +1,1 @@
-var mnemonic = "garage galaxy spawn drastic athlete measure game unusual song effort wheat asthma";
+var mnemonic = "media switch parade umbrella idea track embrace drill radar position donkey carry";

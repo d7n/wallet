@@ -1,1 +1,1 @@
-var mnemonic = "skin unlock meadow valid answer detect stool depth trial core clay long";
+var mnemonic = "opinion two inner insect category dwarf math swing seek whisper select spring";

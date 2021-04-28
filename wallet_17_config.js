@@ -1,1 +1,1 @@
-var mnemonic = "differ cart alert time curious aunt afford hold reason opera fuel scale";
+var mnemonic = "security cute devote exercise mesh slow sell episode raven nuclear accident melody";

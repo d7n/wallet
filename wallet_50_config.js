@@ -1,1 +1,1 @@
-var mnemonic = "ankle fluid render hotel young discover toilet visual machine fold cliff viable";
+var mnemonic = "dust two ramp resist lyrics spot stem false tumble purchase oven skate";

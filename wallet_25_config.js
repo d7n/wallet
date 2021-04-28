@@ -1,1 +1,1 @@
-var mnemonic = "arch accident city happy banana wage clerk annual bridge direct feel frequent";
+var mnemonic = "grunt supply brown arena sure portion artwork dish butter shadow dish piece";

@@ -1,1 +1,1 @@
-var mnemonic = "hobby entry there grace speed head phone retreat afraid smile jeans behave";
+var mnemonic = "off nice accident motion sell science prefer nut forest release right ignore";

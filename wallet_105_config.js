@@ -1,1 +1,1 @@
-var mnemonic = "wink list eagle learn whisper tail hire face unaware radar minute muscle";
+var mnemonic = "wall muscle arrow pigeon liar false glare crew chapter enemy galaxy tube";

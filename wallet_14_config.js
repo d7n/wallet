@@ -1,1 +1,1 @@
-var mnemonic = "chunk nuclear bottom mask faint joy birth build bus just ramp remind";
+var mnemonic = "cannon six tunnel peasant mystery merge point extend force salute fold future";

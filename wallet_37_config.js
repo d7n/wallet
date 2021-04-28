@@ -1,1 +1,1 @@
-var mnemonic = "remind slot mandate latin gown project aerobic happy unable circle misery vehicle";
+var mnemonic = "drum soldier since source risk keen dizzy try retreat toward because cushion";

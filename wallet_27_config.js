@@ -1,1 +1,1 @@
-var mnemonic = "wild hub suspect insect cigar wasp kangaroo flag wolf anxiety guide curious";
+var mnemonic = "fit choice heart power caution march such train cabin waste thank injury";

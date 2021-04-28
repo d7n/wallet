@@ -1,1 +1,1 @@
-var mnemonic = "flag prepare smooth swing join absurd universe spread okay essence adapt claw";
+var mnemonic = "pave erode envelope element quantum wasp gas occur digital desk man shiver";

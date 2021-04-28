@@ -1,1 +1,1 @@
-var mnemonic = "toward hip trap exchange orbit flash motor across series month next dizzy";
+var mnemonic = "carpet burst grow fee spread matrix book scale kitten final dawn reopen";

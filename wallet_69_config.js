@@ -1,1 +1,1 @@
-var mnemonic = "law canoe swim bottom code wait venue blur ripple interest endorse asthma";
+var mnemonic = "bring latin hurdle top slush square improve income special urban want pear";
