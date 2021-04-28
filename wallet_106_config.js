@@ -1,1 +1,1 @@
-var mnemonic = "still differ scrap resemble ozone consider before stone century they scout rhythm";
+var mnemonic = "wonder only illness angry enter penalty wife bench type nasty hotel bike";

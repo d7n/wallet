@@ -1,1 +1,1 @@
-var mnemonic = "garlic ivory shed where ginger between woman soccer amateur ticket language amount";
+var mnemonic = "tonight move report odor appear stadium slide hurry myth ski hurry tip";

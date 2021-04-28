@@ -1,1 +1,1 @@
-var mnemonic = "carpet burst grow fee spread matrix book scale kitten final dawn reopen";
+var mnemonic = "also color rotate leisure pair almost cruel boat fire upgrade episode color";

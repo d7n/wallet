@@ -1,1 +1,1 @@
-var mnemonic = "pudding leaf once file north quantum bundle average twin gold soldier pitch";
+var mnemonic = "trap dilemma scout alter online acid room cherry fiber other view hen";

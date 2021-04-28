@@ -1,1 +1,1 @@
-var mnemonic = "item dragon east where pony follow choice poet amazing fragile curve output";
+var mnemonic = "walk gift know cake use skate jelly heavy salt clock assist execute";

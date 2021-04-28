@@ -1,1 +1,1 @@
-var mnemonic = "patient victory march puzzle angle pass rocket dignity wrist midnight quick squirrel";
+var mnemonic = "nerve mass spray air you cupboard minute eager eight bird matrix indoor";

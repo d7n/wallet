@@ -1,1 +1,1 @@
-var mnemonic = "grape trip lecture fragile parrot labor shrug bronze secret grief tomorrow scout";
+var mnemonic = "neck peace check junk prevent ensure nut cargo snap champion seminar concert";

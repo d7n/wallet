@@ -1,1 +1,1 @@
-var mnemonic = "pelican trumpet betray grit fuel easily desert owner dog child clerk slow";
+var mnemonic = "shrug mix simple perfect suspect evolve trend receive normal faculty sting vicious";

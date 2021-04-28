@@ -1,1 +1,1 @@
-var mnemonic = "deer anxiety used size high solve dial survey sad crime universe glance";
+var mnemonic = "fiscal step frozen gentle drink front average renew copper large digital observe";

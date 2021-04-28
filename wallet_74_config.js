@@ -1,1 +1,1 @@
-var mnemonic = "animal consider smooth gloom hedgehog treat caution regret solar vague wreck coach";
+var mnemonic = "hotel stock heavy critic denial digital dog upgrade list hurry pumpkin absent";

@@ -1,1 +1,1 @@
-var mnemonic = "truly shed cave perfect apart seminar observe rebel catch focus interest cage";
+var mnemonic = "patient soap news coin mistake proof risk chef cube addict silk cave";

@@ -1,1 +1,1 @@
-var mnemonic = "diamond history treat country normal initial about round switch stay mesh pen";
+var mnemonic = "error emotion staff idea pattern kidney eye tunnel recycle happy typical announce";

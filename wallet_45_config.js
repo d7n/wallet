@@ -1,1 +1,1 @@
-var mnemonic = "fashion bind advance pluck feel piece sphere push clown evoke bargain spring";
+var mnemonic = "solve similar luggage day delay cake chronic where welcome garment sudden below";

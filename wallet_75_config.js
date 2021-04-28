@@ -1,1 +1,1 @@
-var mnemonic = "west gadget rally little oyster able gentle pact fluid curve session dentist";
+var mnemonic = "raise already want hint bread detail link giraffe gold forward seven lobster";

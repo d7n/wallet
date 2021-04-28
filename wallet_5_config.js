@@ -1,1 +1,1 @@
-var mnemonic = "option bargain still moral fluid toss pluck guitar master grace announce orange";
+var mnemonic = "bone good hurdle city once cricket zone wagon net invest found pride";

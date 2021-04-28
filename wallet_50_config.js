@@ -1,1 +1,1 @@
-var mnemonic = "dust two ramp resist lyrics spot stem false tumble purchase oven skate";
+var mnemonic = "okay worth business tower there quantum banana diary parent minimum kid ice";

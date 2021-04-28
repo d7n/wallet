@@ -1,1 +1,1 @@
-var mnemonic = "butter ahead cement siege resemble pig judge april tent dream roast ethics";
+var mnemonic = "cabbage ocean half team train stadium close daughter illness fatigue goose issue";

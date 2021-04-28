@@ -1,1 +1,1 @@
-var mnemonic = "famous tourist olive echo unit crystal habit goat island bright again sadness";
+var mnemonic = "mechanic agent small grace saddle inhale repair unit wrong beach erode short";

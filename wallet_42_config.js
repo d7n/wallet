@@ -1,1 +1,1 @@
-var mnemonic = "tooth mechanic hedgehog increase tired lumber dirt glance inquiry museum manual area";
+var mnemonic = "ten solar grid north blouse dumb eager salon torch essay library forum";

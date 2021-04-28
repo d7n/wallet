@@ -1,1 +1,1 @@
-var mnemonic = "lobster miss mule confirm educate asthma vibrant bread friend wash apology tube";
+var mnemonic = "flush warfare reunion digital undo kangaroo buyer attitude donate vague result lesson";

@@ -1,1 +1,1 @@
-var mnemonic = "bring latin hurdle top slush square improve income special urban want pear";
+var mnemonic = "south injury firm pool autumn tourist super suit fat ramp bulk float";

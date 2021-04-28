@@ -1,1 +1,1 @@
-var mnemonic = "bulb joke chimney eyebrow click minimum grunt ring page family luggage broccoli";
+var mnemonic = "truck unaware carry lock thrive tilt until pair ginger minute cash depend";

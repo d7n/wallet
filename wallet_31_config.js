@@ -1,1 +1,1 @@
-var mnemonic = "vast else rent fog federal keep athlete force wheel flash spoon sail";
+var mnemonic = "cupboard salt total suggest twelve ball ostrich episode hub permit artwork narrow";

@@ -1,1 +1,1 @@
-var mnemonic = "point monkey beyond enhance egg have innocent pill live violin latin peace";
+var mnemonic = "deer question man cushion seat coast cheap toast unlock basket tube drum";

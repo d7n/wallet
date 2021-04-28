@@ -1,1 +1,1 @@
-var mnemonic = "vote ranch dirt modify weather pupil celery matrix tongue flight series token";
+var mnemonic = "warm return real edit depart cannon angle sign rhythm roof worth lake";

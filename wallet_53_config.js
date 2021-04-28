@@ -1,1 +1,1 @@
-var mnemonic = "pull zone abuse tongue chest pupil lawsuit extra melt piece brass online";
+var mnemonic = "coil sail riot bridge asthma easy provide scorpion exact also valley ready";

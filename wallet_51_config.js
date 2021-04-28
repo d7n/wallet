@@ -1,1 +1,1 @@
-var mnemonic = "arm claim report cabbage lobster easy future guide hold blade cat pulse";
+var mnemonic = "hockey spy kiwi lava artist genius invite glory clutch hammer toss avocado";

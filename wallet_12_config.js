@@ -1,1 +1,1 @@
-var mnemonic = "wise entire vendor film flush shock essence tank album tourist silent polar";
+var mnemonic = "dirt illegal index hurt cute enforce sell shield shell salute law common";

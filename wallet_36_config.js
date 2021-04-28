@@ -1,1 +1,1 @@
-var mnemonic = "drastic item organ access flower phrase pair cycle baby finish maple conduct";
+var mnemonic = "surface decade foster adult ride ramp rib arm tattoo october luxury all";

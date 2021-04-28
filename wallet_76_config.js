@@ -1,1 +1,1 @@
-var mnemonic = "tuition feature accident blood genre liquid maximum icon project couch enroll chicken";
+var mnemonic = "guess exact best toward situate poem exercise shop loyal dirt yard crisp";

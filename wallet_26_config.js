@@ -1,1 +1,1 @@
-var mnemonic = "ripple tree genius ball easy ahead horror scout orient mix album liar";
+var mnemonic = "subway blossom island web surface entire betray dismiss shrug theme inquiry chronic";

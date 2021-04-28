@@ -1,1 +1,1 @@
-var mnemonic = "just coral pledge fish raven stem decrease canyon slush wide swift globe";
+var mnemonic = "weasel today auto foot reform gaze number rare easily arch ancient ethics";

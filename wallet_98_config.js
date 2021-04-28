@@ -1,1 +1,1 @@
-var mnemonic = "flower wall tone cook hello fiction fame ketchup tenant scheme stage prepare";
+var mnemonic = "lunar either general spice local buddy able eight ignore true fitness have";

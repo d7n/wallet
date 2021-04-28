@@ -1,1 +1,1 @@
-var mnemonic = "crush lock ketchup nuclear dolphin ecology chronic drama prison fat goddess obvious";
+var mnemonic = "soldier dutch hockey arena aunt liberty cactus ranch nurse remind aerobic vicious";

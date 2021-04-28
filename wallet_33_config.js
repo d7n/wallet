@@ -1,1 +1,1 @@
-var mnemonic = "analyst ocean second comic jacket nominee benefit major crunch umbrella hour turn";
+var mnemonic = "video depend local half clinic flip farm olive undo hockey volcano attract";

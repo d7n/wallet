@@ -1,1 +1,1 @@
-var mnemonic = "dream divide close purse leader average thumb peace intact start tornado name";
+var mnemonic = "ride question small like develop reveal garment pond clap rug occur east";

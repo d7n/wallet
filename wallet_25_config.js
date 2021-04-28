@@ -1,1 +1,1 @@
-var mnemonic = "grunt supply brown arena sure portion artwork dish butter shadow dish piece";
+var mnemonic = "horn marine pet armor public merge health impact embody liberty polar inner";

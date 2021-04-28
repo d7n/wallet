@@ -1,1 +1,1 @@
-var mnemonic = "trim hotel wrap describe pool crew vote trust boat repair defense random";
+var mnemonic = "urban rough snake armor foster liberty turkey welcome another trip work blue";

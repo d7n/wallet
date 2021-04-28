@@ -1,1 +1,1 @@
-var mnemonic = "often cinnamon canoe reduce midnight rich install warfare immune spike nice vast";
+var mnemonic = "congress affair throw manage differ ability equal supply job judge diary pelican";

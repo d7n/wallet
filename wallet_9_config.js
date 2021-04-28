@@ -1,1 +1,1 @@
-var mnemonic = "employ hat accident measure other planet divorce suspect guilt butter what swear";
+var mnemonic = "remember glove pave six evidence eye merit park sail online polar tiny";

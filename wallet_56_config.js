@@ -1,1 +1,1 @@
-var mnemonic = "track scene addict false layer tornado palm title people drill kidney mixture";
+var mnemonic = "country tape quiz cute rough body crumble tool slot destroy ostrich tragic";

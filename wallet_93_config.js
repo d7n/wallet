@@ -1,1 +1,1 @@
-var mnemonic = "share sting movie fashion spawn trophy venue elevator parrot indicate panel also";
+var mnemonic = "lecture step still spawn person creek depth tissue ethics buyer mention lunar";

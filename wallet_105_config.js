@@ -1,1 +1,1 @@
-var mnemonic = "wall muscle arrow pigeon liar false glare crew chapter enemy galaxy tube";
+var mnemonic = "water animal coin axis design dinosaur skirt carry sense hood brisk clip";

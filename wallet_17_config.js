@@ -1,1 +1,1 @@
-var mnemonic = "security cute devote exercise mesh slow sell episode raven nuclear accident melody";
+var mnemonic = "make front daughter siege traffic garbage february anger bullet viable cactus talent";

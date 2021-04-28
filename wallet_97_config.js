@@ -1,1 +1,1 @@
-var mnemonic = "duty joke smooth pilot visa soup unhappy level mass boring record hello";
+var mnemonic = "current news soul admit trust myself camera limb broccoli seven student cotton";

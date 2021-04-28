@@ -1,1 +1,1 @@
-var mnemonic = "gravity cake provide forward genius anxiety cement floor arrow fame sting opinion";
+var mnemonic = "surge flag urban trim version rain brush nation dry desk unlock roof";

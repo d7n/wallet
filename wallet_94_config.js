@@ -1,1 +1,1 @@
-var mnemonic = "pave erode envelope element quantum wasp gas occur digital desk man shiver";
+var mnemonic = "truck adult can dog bicycle loop cabin garment rookie crumble hair sleep";

@@ -1,1 +1,1 @@
-var mnemonic = "mimic either rescue junior age need gravity method hip palm soccer dad";
+var mnemonic = "van proof eternal add tiny slight broom mind resist skin innocent mansion";

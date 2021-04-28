@@ -1,1 +1,1 @@
-var mnemonic = "truth firm vast obtain scrub wolf broccoli area tourist drip ladder brass";
+var mnemonic = "eager rate kiwi turtle book object pyramid rifle six magnet shoe warm";

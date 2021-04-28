@@ -1,1 +1,1 @@
-var mnemonic = "blade jewel patch vital minute dinner broken mail bottom valley curtain alter";
+var mnemonic = "cloud street pause boy emotion sick february melt venue dream basic nasty";

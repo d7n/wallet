@@ -1,1 +1,1 @@
-var mnemonic = "fit choice heart power caution march such train cabin waste thank injury";
+var mnemonic = "jewel regret mean cricket caught ripple image festival sausage mean monitor dog";

@@ -1,1 +1,1 @@
-var mnemonic = "paddle ritual plastic artefact wolf bronze absurd pink nation risk lock swamp";
+var mnemonic = "hotel athlete garden coconut force witness wife regret caution fan pepper chalk";

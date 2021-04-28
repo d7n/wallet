@@ -1,1 +1,1 @@
-var mnemonic = "circle key wheat beef below mass soccer one above miracle airport lazy";
+var mnemonic = "lamp scheme enrich surge forward faint magnet census nerve shrug citizen demise";

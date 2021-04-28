@@ -1,1 +1,1 @@
-var mnemonic = "goddess jeans ready aunt fault unlock grant undo vault sight layer choose";
+var mnemonic = "episode rice solve busy winner horror cement grocery hover sign utility claw";

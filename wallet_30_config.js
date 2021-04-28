@@ -1,1 +1,1 @@
-var mnemonic = "impose cluster fault width lab churn step oven girl ankle afraid host";
+var mnemonic = "country kitten baby question alley oval minute law include inform blind belt";

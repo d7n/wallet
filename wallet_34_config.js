@@ -1,1 +1,1 @@
-var mnemonic = "quality notice depart volcano someone claw someone dolphin act reunion egg glow";
+var mnemonic = "average invest talk siren hip device lava solve loyal raw sketch hedgehog";

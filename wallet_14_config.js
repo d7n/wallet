@@ -1,1 +1,1 @@
-var mnemonic = "cannon six tunnel peasant mystery merge point extend force salute fold future";
+var mnemonic = "game poverty faint yard powder wrap excuse chapter jelly style put series";

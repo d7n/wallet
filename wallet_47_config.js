@@ -1,1 +1,1 @@
-var mnemonic = "office pave book have cliff eager demand glue sausage blush hello borrow";
+var mnemonic = "brand embody guard neutral horn slab manage ten fitness gauge bounce steel";

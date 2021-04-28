@@ -1,1 +1,1 @@
-var mnemonic = "slush fluid trumpet case mention art antenna blouse raccoon business else giraffe";
+var mnemonic = "know hen sheriff garden reunion mass window lottery tilt position genius bulb";

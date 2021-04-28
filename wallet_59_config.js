@@ -1,1 +1,1 @@
-var mnemonic = "derive popular twist scheme hunt future fat finger public family abandon whisper";
+var mnemonic = "little error worry guide uncover base ramp exhibit theme light dune response";

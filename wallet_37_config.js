@@ -1,1 +1,1 @@
-var mnemonic = "drum soldier since source risk keen dizzy try retreat toward because cushion";
+var mnemonic = "arctic stage anxiety walk faith coconut describe pen upon tooth beauty agent";

@@ -1,1 +1,1 @@
-var mnemonic = "media switch parade umbrella idea track embrace drill radar position donkey carry";
+var mnemonic = "setup scorpion adult jazz next copy robot subject rug truck seat episode";

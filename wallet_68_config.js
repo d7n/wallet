@@ -1,1 +1,1 @@
-var mnemonic = "bubble shop faith super dish build lens exile gravity issue yellow bid";
+var mnemonic = "napkin local start alley twelve ignore warm seven wild humble object gentle";

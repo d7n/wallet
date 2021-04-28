@@ -1,1 +1,1 @@
-var mnemonic = "body subway frost giraffe peanut wheel best legal have obtain few exotic";
+var mnemonic = "hurt surface current puzzle share fashion crucial loud icon author pass early";

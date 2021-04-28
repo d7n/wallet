@@ -1,1 +1,1 @@
-var mnemonic = "baby pelican hundred million theme truck gift expire fence large void scissors";
+var mnemonic = "girl stamp sure soap gas nation piece aisle genuine unfair tooth ski";

@@ -1,1 +1,1 @@
-var mnemonic = "opinion two inner insect category dwarf math swing seek whisper select spring";
+var mnemonic = "pumpkin plastic practice double drop carpet pepper patch raccoon say lake shuffle";

@@ -1,1 +1,1 @@
-var mnemonic = "february leg route oven year test much estate mirror scrap carbon aunt";
+var mnemonic = "ocean album wisdom turtle obtain earth people laundry ill smooth rural guess";

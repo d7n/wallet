@@ -1,1 +1,1 @@
-var mnemonic = "merry snow elegant fabric mammal hospital awful normal toward hunt speak total";
+var mnemonic = "put action sphere position donate wash museum comic online royal lens cash";

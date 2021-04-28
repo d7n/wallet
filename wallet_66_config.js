@@ -1,1 +1,1 @@
-var mnemonic = "mutual then embrace best pumpkin possible excuse parent oil embody cost slice";
+var mnemonic = "uncle filter crowd subway language slush attract palace horror observe sustain grape";

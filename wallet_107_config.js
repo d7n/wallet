@@ -1,1 +1,1 @@
-var mnemonic = "invest gold song gloom velvet monkey quarter bulb black umbrella then oblige";
+var mnemonic = "mind almost puzzle phrase open access roof tower spread occur tattoo put";

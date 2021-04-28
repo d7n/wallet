@@ -1,1 +1,1 @@
-var mnemonic = "casino spider garlic joy smile gadget saddle system robust stem stadium soft";
+var mnemonic = "night fold scatter foot radio symptom insect pool bunker dilemma sad sauce";

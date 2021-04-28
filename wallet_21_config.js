@@ -1,1 +1,1 @@
-var mnemonic = "couple spread kitten spy embrace filter screen bright dwarf dwarf autumn spatial";
+var mnemonic = "inflict gospel vault write spider razor mean brief october busy chapter display";

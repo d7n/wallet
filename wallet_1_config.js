@@ -1,1 +1,1 @@
-var mnemonic = "eagle aim win wolf great bone zone bus forget pet nut then";
+var mnemonic = "require exchange scissors unaware puzzle ginger cruise chat afraid fix coast menu";

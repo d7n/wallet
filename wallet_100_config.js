@@ -1,1 +1,1 @@
-var mnemonic = "release gesture drift thunder ability spy adapt follow cereal volume cushion fish";
+var mnemonic = "gym festival feature differ peasant wedding group egg depart plunge fitness tissue";

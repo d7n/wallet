@@ -1,1 +1,1 @@
-var mnemonic = "various slam ocean transfer sting rebuild laundry base mystery health alpha guard";
+var mnemonic = "elegant february skill square cushion obey other island elite auto fuel sudden";

@@ -1,1 +1,1 @@
-var mnemonic = "layer orient usage organ energy brand naive clock bamboo trend submit tiger";
+var mnemonic = "middle assist cushion oxygen eight hotel mesh silly under spider replace two";

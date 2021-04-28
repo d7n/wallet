@@ -1,1 +1,1 @@
-var mnemonic = "doll online silk leg naive cabin dog draft box accident process wise";
+var mnemonic = "dinner focus silver peace series obey mirror guard donor together soccer unveil";

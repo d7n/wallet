@@ -1,1 +1,1 @@
-var mnemonic = "frog borrow heart general wreck record airport kiss depth twenty quick genuine";
+var mnemonic = "van brush glare rabbit twice athlete benefit door script element elder ginger";

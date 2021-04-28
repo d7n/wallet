@@ -1,1 +1,1 @@
-var mnemonic = "mail opinion pink excite accident melt level list security common person reject";
+var mnemonic = "depth crowd slender frog rescue coyote palm notable useless screen carbon kick";

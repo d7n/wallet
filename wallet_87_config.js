@@ -1,1 +1,1 @@
-var mnemonic = "theory neutral lock wood flat public leopard require chunk ask stumble elephant";
+var mnemonic = "erosion purpose only shallow buzz spend bar wear assume risk fish erode";

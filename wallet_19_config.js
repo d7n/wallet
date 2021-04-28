@@ -1,1 +1,1 @@
-var mnemonic = "address chuckle butter unveil unfair eyebrow please joy deliver defy remain girl";
+var mnemonic = "hero force hen naive spoil access palace forward drift gift vast beauty";

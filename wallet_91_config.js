@@ -1,1 +1,1 @@
-var mnemonic = "off nice accident motion sell science prefer nut forest release right ignore";
+var mnemonic = "dove hammer wealth auction tower dynamic dinner alter damage oven again slight";

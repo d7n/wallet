@@ -1,1 +1,1 @@
-var mnemonic = "drama pencil border song because farm unable enemy good enough cup sample";
+var mnemonic = "tiny park surface arrow price spot ahead dune obtain topic flag despair";

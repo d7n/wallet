@@ -1,1 +1,1 @@
-var mnemonic = "whale gap runway use come snack salmon twelve rib review veteran gaze";
+var mnemonic = "cash virtual emerge pattern monster medal race vehicle patient property shock glove";

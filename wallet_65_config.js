@@ -1,1 +1,1 @@
-var mnemonic = "news diet rally quiz fringe category trip dial install soldier subway wide";
+var mnemonic = "rely practice elbow kitten blouse deposit match dice sample hub palace body";

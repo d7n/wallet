@@ -1,1 +1,1 @@
-var mnemonic = "number issue giant shallow left loop rural foster aunt pact agent target";
+var mnemonic = "toast response control barrel twist cancel hand matrix soap mom clump awful";

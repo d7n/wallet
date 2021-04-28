@@ -1,1 +1,1 @@
-var mnemonic = "almost blood never man program traffic fabric topple edge patrol wisdom hunt";
+var mnemonic = "dry broom twist infant change snap arrange review inmate that supply bread";

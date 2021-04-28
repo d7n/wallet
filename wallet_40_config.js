@@ -1,1 +1,1 @@
-var mnemonic = "sword wide kiss silly crunch tube margin audit wrist catch detect chat";
+var mnemonic = "pumpkin romance frame cake practice sock saddle ankle oil female solar mirror";

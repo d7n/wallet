@@ -1,1 +1,1 @@
-var mnemonic = "liar mother green robot sock company expect core badge around ask brother";
+var mnemonic = "state suit top found remain spare eye title expire job burst magic";

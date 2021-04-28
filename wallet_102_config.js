@@ -1,1 +1,1 @@
-var mnemonic = "proof erupt result slide equip recycle arrange problem mutual various lake penalty";
+var mnemonic = "famous east day major wide city side later sibling primary else soup";
