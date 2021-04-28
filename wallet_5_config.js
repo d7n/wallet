@@ -1,1 +1,1 @@
-var mnemonic = "announce hover garage sponsor word cabin sniff spider race pause grit purpose";
+var mnemonic = "flight lyrics wrist craft require height jewel gift extend symbol alone lumber";

@@ -1,1 +1,1 @@
-var mnemonic = "whisper task normal situate price acid adapt cloth debate slice parrot ugly";
+var mnemonic = "balcony step feel staff example differ ecology jeans pink wrong public seminar";

@@ -1,1 +1,1 @@
-var mnemonic = "split miracle caught course tired diet fly sadness exile tiger design submit";
+var mnemonic = "city toward belt debris table stomach coconut live pool seed main dove";

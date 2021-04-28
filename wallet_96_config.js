@@ -1,1 +1,1 @@
-var mnemonic = "mushroom domain honey audit wrap raise link decide rug always predict teach";
+var mnemonic = "solution later normal aunt aim flush twin squeeze fly art hurt staff";

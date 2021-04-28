@@ -1,1 +1,1 @@
-var mnemonic = "omit buddy intact bulb rough board segment sport whale surge globe trade";
+var mnemonic = "submit slim penalty kite setup gold athlete coil spider skirt lawn style";

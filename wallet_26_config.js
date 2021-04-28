@@ -1,1 +1,1 @@
-var mnemonic = "lock fossil ramp height leisure layer process hockey plate breeze human casual";
+var mnemonic = "hidden dynamic scare accuse slam panda junior feed miracle text duty enable";

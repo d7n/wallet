@@ -1,1 +1,1 @@
-var mnemonic = "apple depth boat zebra install prosper trash token maze melody please tower";
+var mnemonic = "ethics balcony lemon effort shed category section purchase risk evidence lottery void";

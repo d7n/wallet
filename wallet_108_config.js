@@ -1,1 +1,1 @@
-var mnemonic = "hospital when deal joke dog cycle feature lecture cross pattern kiss maximum";
+var mnemonic = "mushroom disorder section easily welcome pioneer undo swamp portion accuse shuffle weather";

@@ -1,1 +1,1 @@
-var mnemonic = "sample ball jeans tenant bamboo cabin exact wet surface crater industry sock";
+var mnemonic = "laundry small sunset pipe error wife almost cover judge fortune little blood";

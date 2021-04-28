@@ -1,1 +1,1 @@
-var mnemonic = "laundry cupboard foam intact banner matrix raw wing kangaroo hover pelican fabric";
+var mnemonic = "tongue discover glue glove bounce icon bless during defy curious convince result";

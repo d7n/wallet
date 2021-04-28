@@ -1,1 +1,1 @@
-var mnemonic = "trouble cliff match neither next cloth crush already pretty moral plug owner";
+var mnemonic = "pigeon envelope reopen spell sniff ostrich series better soon venture barrel device";

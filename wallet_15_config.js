@@ -1,1 +1,1 @@
-var mnemonic = "copy girl hotel file hobby denial expand title today diary drop orchard";
+var mnemonic = "border social cricket time accident goat patch pepper build flip fresh flower";

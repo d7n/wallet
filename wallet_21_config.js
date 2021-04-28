@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit educate imitate slender oxygen idle divert around monster grow gallery ceiling";
+var mnemonic = "whale ripple book hurry patient side bubble donor laptop valid best test";

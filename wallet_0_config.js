@@ -1,1 +1,1 @@
-var mnemonic = "hip script into satoshi soul trust oval unhappy august level subway finish";
+var mnemonic = "maid cool afford nose slogan equip virtual pave bid nest kite scissors";

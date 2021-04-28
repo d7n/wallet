@@ -1,1 +1,1 @@
-var mnemonic = "trade hedgehog demise follow trip drastic struggle debate cube smooth away verb";
+var mnemonic = "purchase source saddle wash key awful hint flash gain this veteran father";

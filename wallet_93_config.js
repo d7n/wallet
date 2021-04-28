@@ -1,1 +1,1 @@
-var mnemonic = "film panel vapor puzzle festival season choose february mimic pudding purchase pool";
+var mnemonic = "cry path gravity boy hour island ankle spy cruel air win flash";

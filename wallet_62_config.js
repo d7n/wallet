@@ -1,1 +1,1 @@
-var mnemonic = "anger syrup doctor switch say mechanic identify lady file basket wool cage";
+var mnemonic = "brick possible federal joke nose kitchen paddle act salmon pink riot bonus";

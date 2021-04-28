@@ -1,1 +1,1 @@
-var mnemonic = "dinner only warrior fee couple three curious like exit fancy issue light";
+var mnemonic = "deer prize rookie retire nose club dolphin toe woman vote asthma inflict";

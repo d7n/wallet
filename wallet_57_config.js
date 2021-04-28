@@ -1,1 +1,1 @@
-var mnemonic = "layer snack sea siren portion left turn gentle online shoulder viable pause";
+var mnemonic = "inspire code helmet critic cause glance autumn scatter embody innocent gorilla sauce";

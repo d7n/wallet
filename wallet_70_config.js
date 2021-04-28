@@ -1,1 +1,1 @@
-var mnemonic = "reflect target path about vessel damage pledge avoid guard expect oppose limit";
+var mnemonic = "evolve jazz order impact wrestle dolphin solid critic inject couple stomach grab";

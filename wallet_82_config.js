@@ -1,1 +1,1 @@
-var mnemonic = "morning session old message sudden claw draw physical cheap meadow certain agent";
+var mnemonic = "excuse lawsuit fluid donor glimpse update victory cute hidden paddle welcome scene";

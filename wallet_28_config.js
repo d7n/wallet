@@ -1,1 +1,1 @@
-var mnemonic = "pause left cause demise bless avoid inherit spot aerobic physical stumble junior";
+var mnemonic = "satisfy dinosaur say same layer capable present arm cereal blur lady master";

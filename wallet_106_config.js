@@ -1,1 +1,1 @@
-var mnemonic = "such aim head author risk foil parent climb congress donkey advance allow";
+var mnemonic = "crisp roof ginger lottery wasp win arrow clown quit pencil orbit grocery";

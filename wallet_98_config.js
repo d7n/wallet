@@ -1,1 +1,1 @@
-var mnemonic = "cricket stamp bridge lunar random bread mountain genuine onion peace motion enter";
+var mnemonic = "sing february edit theory fault fatigue ask lonely talent learn midnight age";

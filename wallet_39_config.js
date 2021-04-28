@@ -1,1 +1,1 @@
-var mnemonic = "shrug elbow wear believe connect what great mandate trust perfect anchor hundred";
+var mnemonic = "put hand edit man fence slice bracket august develop bone coast normal";

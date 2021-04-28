@@ -1,1 +1,1 @@
-var mnemonic = "sing slot runway drip mimic fitness text sure parent brother duck devote";
+var mnemonic = "awesome anger lake sponsor draw lonely safe burger index rifle noble kingdom";

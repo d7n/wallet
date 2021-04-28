@@ -1,1 +1,1 @@
-var mnemonic = "expect fruit ripple vehicle excess narrow tuna casual pilot rubber media supply";
+var mnemonic = "hero debris arm ability knife laundry abstract huge useful stereo will general";

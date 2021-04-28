@@ -1,1 +1,1 @@
-var mnemonic = "crunch usual witness option voice silk perfect abandon stereo keep attitude hair";
+var mnemonic = "firm half put enable naive echo install keen early now point hawk";

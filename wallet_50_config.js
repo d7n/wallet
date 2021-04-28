@@ -1,1 +1,1 @@
-var mnemonic = "neutral frost abuse bring fan ugly genuine escape nest alert private thumb";
+var mnemonic = "reflect trick leader quarter biology resemble regret industry wasp art grunt keen";

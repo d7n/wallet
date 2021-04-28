@@ -1,1 +1,1 @@
-var mnemonic = "security real mutual wing wool clump angle group country denial erase endorse";
+var mnemonic = "swear nerve annual flag fragile offer layer flock vote film mushroom village";

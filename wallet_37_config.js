@@ -1,1 +1,1 @@
-var mnemonic = "other furnace item joy sad theme grunt swear give kick tone rabbit";
+var mnemonic = "hen gown extend bread pig mirror puzzle market actress zone measure jazz";

@@ -1,1 +1,1 @@
-var mnemonic = "trigger zebra estate refuse useless magnet auto song nest crop false amateur";
+var mnemonic = "special vast six banana mouse upgrade flavor route fan timber source fancy";

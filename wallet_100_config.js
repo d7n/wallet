@@ -1,1 +1,1 @@
-var mnemonic = "walnut alert useful bone exile winner admit awesome rally scorpion mushroom car";
+var mnemonic = "build cattle smart into wire novel thought payment exhaust seven scorpion theory";

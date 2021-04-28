@@ -1,1 +1,1 @@
-var mnemonic = "clump punch office october tattoo jump priority tilt legend fancy salon olympic";
+var mnemonic = "whip cool genuine vibrant horn rubber grief mimic expect secret arctic baby";

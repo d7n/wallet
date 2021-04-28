@@ -1,1 +1,1 @@
-var mnemonic = "juice merit level boost coil sight cook design alone faith strike virtual";
+var mnemonic = "miracle unveil old insect fabric dinner rug ozone remove erupt host pepper";

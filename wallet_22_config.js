@@ -1,1 +1,1 @@
-var mnemonic = "gym bright able brisk profit issue major salt educate warm endless health";
+var mnemonic = "else pink learn neither mix clean unfold wise stone lens jungle impose";

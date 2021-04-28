@@ -1,1 +1,1 @@
-var mnemonic = "baby embark insane shop true upset good acquire mammal brass upset service";
+var mnemonic = "devote prison bulk candy snack horse obscure talk dilemma orchard valve code";

@@ -1,1 +1,1 @@
-var mnemonic = "awesome husband safe embody pact equal spell silent mix ocean brick fantasy";
+var mnemonic = "that mistake today shadow eight street box forward van scatter bulk picnic";

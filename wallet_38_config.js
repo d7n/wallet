@@ -1,1 +1,1 @@
-var mnemonic = "race remember fold roast prison undo garment feel enforce flock cool wide";
+var mnemonic = "push knock mixed raven wedding helmet allow maximum sell grape year curtain";

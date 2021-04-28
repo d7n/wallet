@@ -1,1 +1,1 @@
-var mnemonic = "inform lobster roast dice claw record engage anxiety valve measure wife brisk";
+var mnemonic = "pipe very time cover adult snow destroy valley bus camera occur test";

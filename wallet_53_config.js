@@ -1,1 +1,1 @@
-var mnemonic = "soldier century stone poverty quiz begin current virtual flight collect casual nice";
+var mnemonic = "surface original shop faint just ethics off material winter lawsuit add vapor";

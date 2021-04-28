@@ -1,1 +1,1 @@
-var mnemonic = "mirror burst mystery area famous gesture always below scare mixed trash uncle";
+var mnemonic = "bag cinnamon ready layer material bicycle cage subway attract nuclear result aim";

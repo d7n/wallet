@@ -1,1 +1,1 @@
-var mnemonic = "demise turn ticket honey come law over escape nerve pull forest put";
+var mnemonic = "defy text credit junk cool sunset symptom welcome immense more dilemma domain";

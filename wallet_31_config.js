@@ -1,1 +1,1 @@
-var mnemonic = "key imitate iron festival target quarter brick half honey strategy primary enemy";
+var mnemonic = "pink subject border moon win perfect cook rate luxury second feed suspect";

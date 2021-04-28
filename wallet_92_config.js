@@ -1,1 +1,1 @@
-var mnemonic = "sea impulse canoe dash clutch crater pencil floor dwarf swear toilet clean";
+var mnemonic = "stove jewel submit shrug hurdle chunk burst six grant thunder remember enact";

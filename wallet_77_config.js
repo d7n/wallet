@@ -1,1 +1,1 @@
-var mnemonic = "cupboard stone menu abuse wet harvest bonus universe attack eager custom rescue";
+var mnemonic = "close paddle lift swing bargain ship two onion impact cliff stock topple";

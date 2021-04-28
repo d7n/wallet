@@ -1,1 +1,1 @@
-var mnemonic = "eight demand rate blush sell shoulder wide quick gold degree left board";
+var mnemonic = "rotate hazard catalog sock bitter toe small like nest rail kangaroo gym";

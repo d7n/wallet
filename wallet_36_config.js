@@ -1,1 +1,1 @@
-var mnemonic = "toy coast birth cat door walnut opinion face innocent grit brave wrist";
+var mnemonic = "city merry stuff attitude air print dance trick stay carpet dish ladder";

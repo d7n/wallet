@@ -1,1 +1,1 @@
-var mnemonic = "exclude credit wonder tiger seek vintage steak parade result vehicle shell deal";
+var mnemonic = "enroll clay swarm dish oyster jaguar draw save ancient exotic avoid wood";

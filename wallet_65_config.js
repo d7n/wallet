@@ -1,1 +1,1 @@
-var mnemonic = "scene thank absurd want ship cart grocery disagree grocery wrong vintage main";
+var mnemonic = "attract onion portion become pumpkin you trap buzz only reject aunt pattern";

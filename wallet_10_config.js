@@ -1,1 +1,1 @@
-var mnemonic = "coconut tortoise hair extend group boost large kangaroo grunt health zone identify";
+var mnemonic = "swallow attend try time absent then april display demand print lunar brave";

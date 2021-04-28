@@ -1,1 +1,1 @@
-var mnemonic = "escape object decrease train model nation mobile raven foot gentle canyon apart";
+var mnemonic = "rich produce nut coil fee detail auto pistol secret figure confirm garlic";

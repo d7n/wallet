@@ -1,1 +1,1 @@
-var mnemonic = "vast sun mention skin patch stick rich husband daring fetch autumn reopen";
+var mnemonic = "cheap lion explain drink project field draw matter olive they excite churn";

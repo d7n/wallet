@@ -1,1 +1,1 @@
-var mnemonic = "decline betray pudding marine only logic unveil neglect album material stadium viable";
+var mnemonic = "link please crime cable slow right scheme end rubber neutral burst fragile";

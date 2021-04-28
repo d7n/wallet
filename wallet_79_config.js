@@ -1,1 +1,1 @@
-var mnemonic = "amazing circle soldier senior visit pretty remain observe trap seat gain mercy";
+var mnemonic = "better poverty tomato coil tornado client sniff ladder steak invest there judge";

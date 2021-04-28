@@ -1,1 +1,1 @@
-var mnemonic = "olive journey violin off skull nation grace cup senior blue author train";
+var mnemonic = "surface forget abuse tuna stable rookie wasp extra today pitch cave tuition";

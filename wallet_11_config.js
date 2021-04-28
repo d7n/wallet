@@ -1,1 +1,1 @@
-var mnemonic = "dynamic task name analyst sister tent rib pigeon kite hand around barely";
+var mnemonic = "hip welcome evoke minute poverty film despair yellow quiz space they art";

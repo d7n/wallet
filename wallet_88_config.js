@@ -1,1 +1,1 @@
-var mnemonic = "velvet level figure craft inflict save clerk donate plug thrive wool fashion";
+var mnemonic = "that cat struggle honey knock just spider false cash latin limb horror";

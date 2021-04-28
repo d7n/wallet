@@ -1,1 +1,1 @@
-var mnemonic = "cost place vivid nurse regular long oak admit follow transfer fragile spot";
+var mnemonic = "survey weird cover blast cause analyst open wish sleep device purse pole";

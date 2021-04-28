@@ -1,1 +1,1 @@
-var mnemonic = "floor hold inherit lab inherit carpet struggle source rib reduce virtual drum";
+var mnemonic = "suspect monkey theory catalog laundry olympic organ athlete style original solution vague";

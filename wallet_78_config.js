@@ -1,1 +1,1 @@
-var mnemonic = "code behind left simple either kangaroo urge park icon crime grape hair";
+var mnemonic = "tomorrow conduct cup crime echo spring volume lyrics filter include client brain";

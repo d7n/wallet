@@ -1,1 +1,1 @@
-var mnemonic = "behave rebel barrel top media skirt judge area slender crush valley little";
+var mnemonic = "guide play will renew orphan verify entire fun layer roast capable initial";

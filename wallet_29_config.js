@@ -1,1 +1,1 @@
-var mnemonic = "forest exhaust basket volcano alarm gallery train left voice scrub grape sting";
+var mnemonic = "cancel satisfy donor eye review place fluid coffee fortune barrel carbon ship";

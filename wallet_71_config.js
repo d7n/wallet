@@ -1,1 +1,1 @@
-var mnemonic = "gate submit fragile weather sausage skate coast will coil artefact index wood";
+var mnemonic = "remind vital satoshi creek bullet wedding army tone ketchup icon slab illegal";

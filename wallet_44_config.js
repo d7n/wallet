@@ -1,1 +1,1 @@
-var mnemonic = "soul you deposit message smile siege give feature butter wagon cup rebel";
+var mnemonic = "inhale tone lion verb update crime mirror mixed vacuum success over female";

@@ -1,1 +1,1 @@
-var mnemonic = "gain chuckle physical welcome fiscal describe spider fuel kind senior book used";
+var mnemonic = "acoustic stem intact robust business one hammer arrive below final digital napkin";

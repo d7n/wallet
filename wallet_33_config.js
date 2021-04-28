@@ -1,1 +1,1 @@
-var mnemonic = "edit yard daughter matrix wasp guide album hire rug universe birth office";
+var mnemonic = "maximum ready ozone vanish tell frame someone decide spring capable club virtual";

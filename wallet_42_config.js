@@ -1,1 +1,1 @@
-var mnemonic = "brown update grass wolf vivid another nerve tag announce family repair frozen";
+var mnemonic = "patrol afford fatigue spirit quantum ride nation auto joke example orbit wash";

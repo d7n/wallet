@@ -1,1 +1,1 @@
-var mnemonic = "copper soldier december only noble just scout into next detect track weapon";
+var mnemonic = "brick supreme clean convince sword around equal urge kitchen wagon diesel poem";

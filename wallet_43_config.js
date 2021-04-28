@@ -1,1 +1,1 @@
-var mnemonic = "army dilemma wrong antenna ozone language venue deal response save exhaust direct";
+var mnemonic = "velvet pond mind analyst admit wood decide identify fabric thought hidden bubble";

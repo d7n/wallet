@@ -1,1 +1,1 @@
-var mnemonic = "dutch broken share foil april copy roof balcony nest fish hotel awake";
+var mnemonic = "desert become giraffe toward any genre drive oyster camp craft language pride";

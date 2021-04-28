@@ -1,1 +1,1 @@
-var mnemonic = "marriage uniform melody start agent vicious hen canal neck lock ethics inspire";
+var mnemonic = "hire disorder rug stool void food report grant help result pioneer punch";

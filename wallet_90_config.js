@@ -1,1 +1,1 @@
-var mnemonic = "sport tower family fashion federal enable female turtle short print hand harsh";
+var mnemonic = "barrel elegant hedgehog giggle youth two feel original knife blur ritual scrub";

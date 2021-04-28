@@ -1,1 +1,1 @@
-var mnemonic = "talent satisfy movie sugar property blade myth warrior bone list estate romance";
+var mnemonic = "frown food near move frozen duck person crew surface wreck note favorite";

@@ -1,1 +1,1 @@
-var mnemonic = "peace boring magnet suffer sausage observe woman elephant bounce adult over noodle";
+var mnemonic = "clap broom pretty jeans wolf fury relax survey traffic laundry horn rule";

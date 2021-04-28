@@ -1,1 +1,1 @@
-var mnemonic = "wait pelican smart claim lunch wait tribe december kiwi satoshi alter tide";
+var mnemonic = "upgrade chapter camera account dream expire cake run kiss senior oppose letter";

@@ -1,1 +1,1 @@
-var mnemonic = "world nature badge stone pupil school cage vibrant toilet light combine message";
+var mnemonic = "index duck aware warfare couple purpose budget path hockey other pilot buzz";

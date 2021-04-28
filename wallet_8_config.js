@@ -1,1 +1,1 @@
-var mnemonic = "romance lab adult upper confirm winter rice friend wide little drastic actress";
+var mnemonic = "mystery fuel disease kingdom safe feed glow income world remain chapter catalog";

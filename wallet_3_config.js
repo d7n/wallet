@@ -1,1 +1,1 @@
-var mnemonic = "arrange target fluid field cereal indicate scale nothing thing weather pass vanish";
+var mnemonic = "orient member interest thrive choice spy day wasp sort prepare early glory";

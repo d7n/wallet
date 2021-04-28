@@ -1,1 +1,1 @@
-var mnemonic = "use act hill tumble few hunt maple crazy ranch custom inspire three";
+var mnemonic = "chest bachelor civil soon convince sense admit vanish scene property visit result";

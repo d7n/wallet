@@ -1,1 +1,1 @@
-var mnemonic = "exercise net solve future approve tongue luxury feel turtle cheap drive crime";
+var mnemonic = "want refuse grape skull cage angry person industry service cool time region";

@@ -1,1 +1,1 @@
-var mnemonic = "wife much into disease produce cigar accuse brother away supply diary grace";
+var mnemonic = "coin choose tobacco furnace asset change boss rough tuition flat pipe ritual";

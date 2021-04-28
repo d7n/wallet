@@ -1,1 +1,1 @@
-var mnemonic = "decide check shove visa ethics keep usual car people success polar describe";
+var mnemonic = "satoshi produce dial useful confirm must genius fish primary hotel banner fruit";

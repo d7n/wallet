@@ -1,1 +1,1 @@
-var mnemonic = "lobster hour prefer captain citizen shock fragile total dirt divert office afford";
+var mnemonic = "fine trust control wedding option verify success scene sand flight virus afraid";
