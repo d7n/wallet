@@ -1,1 +1,1 @@
-var mnemonic = "remember tail rough east much six gorilla fringe cave approve become hedgehog";
+var mnemonic = "grocery inquiry squeeze assist seminar tackle issue hint celery student pelican warm";

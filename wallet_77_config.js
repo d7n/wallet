@@ -1,1 +1,1 @@
-var mnemonic = "bracket waste pioneer phone surge visual sign pole draft view flip refuse";
+var mnemonic = "then omit unhappy glass bottom become roof same favorite canyon permit replace";

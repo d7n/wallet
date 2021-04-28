@@ -1,1 +1,1 @@
-var mnemonic = "turtle despair famous pottery success father into escape pluck lazy buzz life";
+var mnemonic = "happy barely execute exotic differ fork shop stock path enhance wish firm";

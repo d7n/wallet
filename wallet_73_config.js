@@ -1,1 +1,1 @@
-var mnemonic = "bomb define orchard catalog leaf nature myself gun wall light lift document";
+var mnemonic = "range survey hockey hope ozone absurd cycle nerve kick try enroll long";

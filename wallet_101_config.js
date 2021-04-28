@@ -1,1 +1,1 @@
-var mnemonic = "fresh pave alone famous side table bright toast drum sword ship decorate";
+var mnemonic = "rich club rescue blame arm family table clog glare try near arctic";

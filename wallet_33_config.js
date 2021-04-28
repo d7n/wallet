@@ -1,1 +1,1 @@
-var mnemonic = "hybrid captain silly video mistake idle that neglect equal brush repeat eye";
+var mnemonic = "flock screen soul inject library nominee relief oval feature mask wage acquire";

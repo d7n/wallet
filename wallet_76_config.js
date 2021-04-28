@@ -1,1 +1,1 @@
-var mnemonic = "hour web error tourist please stomach fit couch solar sustain replace local";
+var mnemonic = "faculty position bronze accuse creek drastic cloth mass diary nut curious swamp";

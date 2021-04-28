@@ -1,1 +1,1 @@
-var mnemonic = "rapid club bomb music equip earth grief asthma harsh ready panel festival";
+var mnemonic = "just release tissue tree comic fish mammal brand crater cheese pledge task";

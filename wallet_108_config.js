@@ -1,1 +1,1 @@
-var mnemonic = "express time dinner clip proud erase globe attack three client armor limb";
+var mnemonic = "ribbon praise remove obey slot keen crazy cliff custom stadium robot grass";

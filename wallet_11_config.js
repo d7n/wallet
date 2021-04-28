@@ -1,1 +1,1 @@
-var mnemonic = "bus crew strong south love purse hello case rocket miss address bounce";
+var mnemonic = "nation viable capable afraid control wild universe ecology chair attitude fence surface";

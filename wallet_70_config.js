@@ -1,1 +1,1 @@
-var mnemonic = "stage measure write plunge salute joke venture brick bid staff radio walnut";
+var mnemonic = "near fly bird donate shock satoshi replace stadium chuckle proud addict abstract";

@@ -1,1 +1,1 @@
-var mnemonic = "two private version auction virtual tilt trust recycle mention feel island another";
+var mnemonic = "one salute camp era crush coin coin weird explain window wage large";

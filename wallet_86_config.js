@@ -1,1 +1,1 @@
-var mnemonic = "robot across employ motor mean valid pitch custom broken steel sphere team";
+var mnemonic = "verify rifle wrist strong mango shock neglect knife orchard parent orphan auction";

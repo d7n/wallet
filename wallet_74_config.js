@@ -1,1 +1,1 @@
-var mnemonic = "adult arm inhale pride twelve print differ nephew fitness penalty mouse friend";
+var mnemonic = "limit dinner tray rib solar what input lock normal boost spell lady";

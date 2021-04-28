@@ -1,1 +1,1 @@
-var mnemonic = "sort royal swap pulse improve garlic kitchen swift voice immense expand cube";
+var mnemonic = "grid noodle prosper motion today mouse budget inquiry access already situate tunnel";

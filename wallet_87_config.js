@@ -1,1 +1,1 @@
-var mnemonic = "warrior author patrol toy laundry budget hood remember account hire custom rug";
+var mnemonic = "warm humble chunk panda enhance matter outer picture embrace cute refuse reveal";

@@ -1,1 +1,1 @@
-var mnemonic = "shallow crash below eagle play tuna season wire sustain skate health flee";
+var mnemonic = "close layer hobby enrich street enroll foil vicious observe embark escape drastic";

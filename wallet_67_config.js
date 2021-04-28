@@ -1,1 +1,1 @@
-var mnemonic = "task model absorb panic trip easy sorry cannon bar thing arctic about";
+var mnemonic = "adapt lemon siren stand measure iron original balance miracle fine panic luxury";

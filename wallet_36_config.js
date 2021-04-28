@@ -1,1 +1,1 @@
-var mnemonic = "reunion language gaze globe whisper stairs switch pink embark secret rigid want";
+var mnemonic = "raven scale dumb collect badge collect feel theory type fame gain maid";

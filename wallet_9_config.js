@@ -1,1 +1,1 @@
-var mnemonic = "input boat trash rail country wheat vicious retire sadness attract announce token";
+var mnemonic = "search reform arch hurt tired lyrics symbol design connect daughter wedding wreck";

@@ -1,1 +1,1 @@
-var mnemonic = "icon mail eyebrow mention rely ancient achieve sing affair squirrel arena move";
+var mnemonic = "globe element defy pull mind fame pistol kangaroo mixture angle baby smooth";

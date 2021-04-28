@@ -1,1 +1,1 @@
-var mnemonic = "focus baby differ initial find patch vehicle message junior chunk claw unveil";
+var mnemonic = "magnet neither roof evoke rebuild danger merge bracket bachelor blanket sick one";

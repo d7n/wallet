@@ -1,1 +1,1 @@
-var mnemonic = "uncle off never welcome pelican grocery vicious actress diamond spin order armed";
+var mnemonic = "where scorpion total fiction wave unaware thank actor rude deposit blast true";

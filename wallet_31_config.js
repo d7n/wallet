@@ -1,1 +1,1 @@
-var mnemonic = "horse foot enhance rich project reform unhappy evil client elder width flip";
+var mnemonic = "more inquiry cherry renew oblige web trap cry post isolate scissors fluid";

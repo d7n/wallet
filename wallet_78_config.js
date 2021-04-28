@@ -1,1 +1,1 @@
-var mnemonic = "keep quantum quantum face fresh income digital hole about tissue noble tilt";
+var mnemonic = "orchard kitten call media brief pond supply survey feed swamp swing toward";

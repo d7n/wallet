@@ -1,1 +1,1 @@
-var mnemonic = "bicycle bridge quick unveil speak garbage surround buyer verify time swap tent";
+var mnemonic = "biology answer enter game suggest layer unusual mountain arrow access spirit popular";

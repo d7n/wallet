@@ -1,1 +1,1 @@
-var mnemonic = "slam exist midnight kiwi wasp pet army maze tomorrow page slim denial";
+var mnemonic = "inner area alert baby skill fee myth trumpet attract melt spring wisdom";

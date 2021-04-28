@@ -1,1 +1,1 @@
-var mnemonic = "season parent welcome hope analyst census flash lock zoo suit bundle shield";
+var mnemonic = "swap know delay away slush shoulder since pretty hockey gap invite glass";

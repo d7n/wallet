@@ -1,1 +1,1 @@
-var mnemonic = "poverty rather town execute random journey eager cry purse shiver left tackle";
+var mnemonic = "hundred group cinnamon ankle pride achieve shallow mom market ginger little business";

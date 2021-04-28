@@ -1,1 +1,1 @@
-var mnemonic = "column hurry loud style move escape average pitch energy film decline market";
+var mnemonic = "cluster person science unable badge fiber episode track sock change midnight situate";

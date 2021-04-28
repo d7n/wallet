@@ -1,1 +1,1 @@
-var mnemonic = "output lesson provide light since sunny achieve jazz output brick wreck desk";
+var mnemonic = "shoot ill boring famous mule deny idle boring penalty venue aisle buyer";

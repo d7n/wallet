@@ -1,1 +1,1 @@
-var mnemonic = "wise there excite warrior wheat social want tape run horse later pulp";
+var mnemonic = "response chunk float arctic garden frown duck possible fiber source subway anger";

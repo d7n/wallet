@@ -1,1 +1,1 @@
-var mnemonic = "better myth flame print canal void bike spirit parent original swift brass";
+var mnemonic = "load verify bright view pig bus forum install panic wink list fire";

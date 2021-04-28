@@ -1,1 +1,1 @@
-var mnemonic = "valid arrive display across boring buddy angry dragon tip mutual lion mandate";
+var mnemonic = "web banana oblige upper sibling milk key cabin jealous winter decade voice";

@@ -1,1 +1,1 @@
-var mnemonic = "twelve school donor video fine holiday pink write helmet input tornado view";
+var mnemonic = "maze behind blame dragon exchange staff enjoy subject put wisdom equip blood";

@@ -1,1 +1,1 @@
-var mnemonic = "help proof hand charge crash repeat monitor fence bottom funny veteran fade";
+var mnemonic = "razor west moon base fossil indicate daughter idle miss coast angle luxury";

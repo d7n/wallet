@@ -1,1 +1,1 @@
-var mnemonic = "involve bring cactus edit test fuel convince entire second either tissue office";
+var mnemonic = "unveil prison pink annual desk invite account pen summer silly exact energy";

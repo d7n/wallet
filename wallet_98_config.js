@@ -1,1 +1,1 @@
-var mnemonic = "abstract stem fiber oxygen easily chase skate trumpet answer tired photo equal";
+var mnemonic = "bless loud slogan system daring depart phone feature tower bicycle exercise soap";

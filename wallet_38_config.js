@@ -1,1 +1,1 @@
-var mnemonic = "wife vintage spell raven man collect nephew dry robot shed child eye";
+var mnemonic = "amateur error glare essence sting slam grass child valley crew jar similar";

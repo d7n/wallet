@@ -1,1 +1,1 @@
-var mnemonic = "wave coffee warfare among convince salute rent rent error oyster call rebuild";
+var mnemonic = "rubber machine cigar unknown stool property legend sad crystal keen divorce stool";

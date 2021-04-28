@@ -1,1 +1,1 @@
-var mnemonic = "creek aspect dawn club burger virtual lens maze client used churn voyage";
+var mnemonic = "race alcohol manual raccoon desert since east loyal clump canoe raise case";

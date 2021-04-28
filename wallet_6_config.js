@@ -1,1 +1,1 @@
-var mnemonic = "congress sting recall decide embrace garage execute fever village paper pottery future";
+var mnemonic = "donkey blast example alone beef butter display release boat estate absorb doctor";

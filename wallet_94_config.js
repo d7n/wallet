@@ -1,1 +1,1 @@
-var mnemonic = "give near actor extra arena build wrestle frog estate indicate nominee volume";
+var mnemonic = "robot comic sentence chunk river door step paper absorb ski cup jar";

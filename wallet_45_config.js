@@ -1,1 +1,1 @@
-var mnemonic = "grit stuff twin wrap claw clap orient surround champion primary cradle cram";
+var mnemonic = "often year genius into tumble police weasel work proud decrease away club";

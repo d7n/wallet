@@ -1,1 +1,1 @@
-var mnemonic = "silk usual census piece annual produce believe card donor castle argue bird";
+var mnemonic = "toast gadget actual warfare beach immense spoil swift shift tree impose dynamic";

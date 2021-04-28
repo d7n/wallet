@@ -1,1 +1,1 @@
-var mnemonic = "phrase hour hobby sample arrow quiz bring cotton spy engine area favorite";
+var mnemonic = "climb logic range observe gloom mandate credit item captain correct fatal result";

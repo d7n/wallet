@@ -1,1 +1,1 @@
-var mnemonic = "change pool remind early depart lizard garlic alarm velvet bubble state spread";
+var mnemonic = "audit amused same guitar exhaust cloth leopard route paddle decorate spirit festival";

@@ -1,1 +1,1 @@
-var mnemonic = "piano orient elite size nest ozone width response tomato animal near people";
+var mnemonic = "year spirit report maple grid buddy curtain butter slogan slab near fire";

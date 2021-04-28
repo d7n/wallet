@@ -1,1 +1,1 @@
-var mnemonic = "roast swim job reward female pudding baby choose miracle license winner pipe";
+var mnemonic = "flip pudding visa upper sniff agree invite segment web cancel steak style";

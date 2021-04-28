@@ -1,1 +1,1 @@
-var mnemonic = "pink clutch erase glass eternal day brown blue harsh inside ketchup abstract";
+var mnemonic = "door sausage swim once hip cable balance figure network lobster quit tent";

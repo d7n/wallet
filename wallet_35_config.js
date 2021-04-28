@@ -1,1 +1,1 @@
-var mnemonic = "marine select inspire wear apple acquire three code drift panel when multiply";
+var mnemonic = "half health donkey scale type mule audit weird false snake civil oyster";

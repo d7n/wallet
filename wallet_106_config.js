@@ -1,1 +1,1 @@
-var mnemonic = "fan silk lucky special grunt today now entire solid scorpion soft orphan";
+var mnemonic = "eager comic keep online video riot call large grace agree stomach calm";

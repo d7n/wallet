@@ -1,1 +1,1 @@
-var mnemonic = "forest faint venture loop very dismiss razor scene same rally spoil tobacco";
+var mnemonic = "prosper gaze sentence miracle tunnel trust enough advance develop program violin salmon";

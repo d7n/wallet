@@ -1,1 +1,1 @@
-var mnemonic = "cherry fetch panel reason glare rival gift situate sauce dragon clutch parent";
+var mnemonic = "south december energy mimic mimic jewel local cigar feel retreat stool stomach";

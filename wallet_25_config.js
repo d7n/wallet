@@ -1,1 +1,1 @@
-var mnemonic = "express clean tray bulk lecture achieve control potato figure pair gadget whisper";
+var mnemonic = "awesome cabin window auto forward december disease luggage energy drop sheriff nice";

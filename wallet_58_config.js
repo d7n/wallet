@@ -1,1 +1,1 @@
-var mnemonic = "glad hybrid dragon perfect slide destroy noodle round million kid close roast";
+var mnemonic = "raven present flush flee album ramp inspire brand broccoli purse option real";

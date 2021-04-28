@@ -1,1 +1,1 @@
-var mnemonic = "vast surprise hunt foster forget trial museum sock survey simple blame betray";
+var mnemonic = "file collect amateur truck oak certain man advice viable ramp click word";

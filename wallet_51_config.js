@@ -1,1 +1,1 @@
-var mnemonic = "excuse ladder whip tribe advance city number fiber shield match buyer senior";
+var mnemonic = "among beach express flag endorse offer insane jar proof pigeon ability vast";

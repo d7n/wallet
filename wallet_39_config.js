@@ -1,1 +1,1 @@
-var mnemonic = "limb message pumpkin oxygen edge father butter unit vocal insane enough left";
+var mnemonic = "multiply quote undo biology anxiety evil weather nation until ostrich turkey walnut";

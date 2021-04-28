@@ -1,1 +1,1 @@
-var mnemonic = "human cave sphere dismiss bean dizzy fish print wink thrive mind ship";
+var mnemonic = "main afraid code pretty sort family canyon forget smooth sea cannon ostrich";

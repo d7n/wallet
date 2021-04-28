@@ -1,1 +1,1 @@
-var mnemonic = "certain column tube neither cluster stool manage tackle toward net kit grunt";
+var mnemonic = "must truth afraid square border risk faint calm chicken liar gain mosquito";

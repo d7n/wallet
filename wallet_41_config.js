@@ -1,1 +1,1 @@
-var mnemonic = "good hope atom harvest alpha flag execute category park tuna chapter sleep";
+var mnemonic = "spy mobile ivory dash alone recycle palace leisure foam own decorate waste";

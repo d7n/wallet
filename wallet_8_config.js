@@ -1,1 +1,1 @@
-var mnemonic = "misery pride album lumber orchard purchase dice easy brisk spirit lobster comfort";
+var mnemonic = "genuine flight wrestle receive pudding enlist awesome hen hedgehog unit ritual demand";

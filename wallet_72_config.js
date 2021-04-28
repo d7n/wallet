@@ -1,1 +1,1 @@
-var mnemonic = "drum cool admit error wagon tomato order vague hawk shrimp tail phrase";
+var mnemonic = "rack elder hint blind ice satisfy wreck injury rescue riot patrol quality";

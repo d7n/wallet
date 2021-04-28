@@ -1,1 +1,1 @@
-var mnemonic = "cart pretty dinner clarify isolate scatter crouch round jaguar wait tonight couch";
+var mnemonic = "member exchange hold ritual tired coffee cactus dentist depth among dynamic reduce";

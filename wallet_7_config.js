@@ -1,1 +1,1 @@
-var mnemonic = "impulse shrug recipe horror metal abstract because speed admit donate sugar tone";
+var mnemonic = "cheese stadium have real okay chief combine swim field huge bus grant";

@@ -1,1 +1,1 @@
-var mnemonic = "define bounce prosper apple style mom false regular flame rack funny pepper";
+var mnemonic = "useless blast rate room ten hammer pause under ocean food zebra asset";

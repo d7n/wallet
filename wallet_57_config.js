@@ -1,1 +1,1 @@
-var mnemonic = "dish mixed notable naive now item barely base host patient parade again";
+var mnemonic = "bonus supreme celery length embark globe ecology benefit vacant pig crystal resist";

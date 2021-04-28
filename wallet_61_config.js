@@ -1,1 +1,1 @@
-var mnemonic = "jacket height father forward dolphin tone couple clip option faith main neck";
+var mnemonic = "giraffe tomorrow will alcohol force analyst trigger ketchup extend slice dust acid";

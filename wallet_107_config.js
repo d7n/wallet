@@ -1,1 +1,1 @@
-var mnemonic = "innocent edge hill stem horse river teach appear secret olympic arrive barely";
+var mnemonic = "repeat join differ genuine chalk retire bulb knee keep hurdle gentle mimic";

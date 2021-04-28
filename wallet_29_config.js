@@ -1,1 +1,1 @@
-var mnemonic = "trim absorb art surround disease awesome around green alien gloom quality fox";
+var mnemonic = "inquiry measure pole shuffle negative flock fan hockey humor barely evidence genuine";

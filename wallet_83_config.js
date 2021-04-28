@@ -1,1 +1,1 @@
-var mnemonic = "reveal bean mad grass immune diamond scrap injury few staff oval annual";
+var mnemonic = "poverty lesson bomb squeeze olympic nice gentle genius ancient defense judge hero";

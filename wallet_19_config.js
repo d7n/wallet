@@ -1,1 +1,1 @@
-var mnemonic = "sunset notable pattern leg lizard civil mad radar front essay gossip leader";
+var mnemonic = "creek consider elite blue chaos rookie charge grid unfold dose whale soccer";

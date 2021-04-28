@@ -1,1 +1,1 @@
-var mnemonic = "series puppy orchard pluck large plate guitar arrive pipe repeat soda walk";
+var mnemonic = "nut field noise horse rival space dog between cabbage envelope sketch wasp";

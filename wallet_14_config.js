@@ -1,1 +1,1 @@
-var mnemonic = "wrist dice panic critic various medal sort enough turkey finger layer express";
+var mnemonic = "business melt assault sorry this describe long steak ten fault extend scheme";

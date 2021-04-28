@@ -1,1 +1,1 @@
-var mnemonic = "twelve grid remove fiber enter claw feature basic choice enforce ocean upset";
+var mnemonic = "chicken mango category treat gown engine library tree regret among soft giraffe";

@@ -1,1 +1,1 @@
-var mnemonic = "east vast verify borrow pyramid lunch army beach hint wrist sustain ostrich";
+var mnemonic = "strike glide wait gather chef burden border photo original earn elbow lesson";

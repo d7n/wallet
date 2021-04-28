@@ -1,1 +1,1 @@
-var mnemonic = "auction front train game figure tide jungle electric popular shaft sausage trust";
+var mnemonic = "electric nation refuse caution true able differ honey donate provide husband anxiety";

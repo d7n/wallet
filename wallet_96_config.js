@@ -1,1 +1,1 @@
-var mnemonic = "siege below return dune two unable stable blossom pride edge crater life";
+var mnemonic = "fault loud opinion diet innocent wink expose purity fancy sight unique cherry";

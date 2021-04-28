@@ -1,1 +1,1 @@
-var mnemonic = "image spin trophy prevent knife repair uniform walnut famous lawsuit clay movie";
+var mnemonic = "asthma lab cry ship hawk program wedding purpose physical jump easy select";

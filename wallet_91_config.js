@@ -1,1 +1,1 @@
-var mnemonic = "into attack shine pepper rotate problem virtual possible soda hat snack gadget";
+var mnemonic = "spatial witness atom treat lucky chef example broken roof machine tonight since";

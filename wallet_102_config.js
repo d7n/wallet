@@ -1,1 +1,1 @@
-var mnemonic = "slice fantasy civil below mom fringe force canal chef hunt average identify";
+var mnemonic = "goose hair lumber solid rabbit giant amused shine inch oven country immense";

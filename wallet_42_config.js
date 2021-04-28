@@ -1,1 +1,1 @@
-var mnemonic = "firm oak hidden dish grid slender produce property rude shove future pattern";
+var mnemonic = "pink crisp wrestle online popular wrist cricket either slim label metal trend";

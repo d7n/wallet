@@ -1,1 +1,1 @@
-var mnemonic = "pass speak enemy brief blue message dinosaur please aspect problem script endorse";
+var mnemonic = "access magic same trade angle armor slim what uncover unlock hawk erode";

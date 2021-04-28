@@ -1,1 +1,1 @@
-var mnemonic = "antenna license cigar crime electric document banner shadow bind nephew insane guilt";
+var mnemonic = "charge cupboard dynamic kid pencil misery ice clarify promote violin seek sadness";

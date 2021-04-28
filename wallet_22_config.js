@@ -1,1 +1,1 @@
-var mnemonic = "coin arrange flower trap ball alert spell notice tongue drill vivid ancient";
+var mnemonic = "relax sketch picture jewel dismiss deer entire assume liberty safe toward select";

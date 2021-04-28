@@ -1,1 +1,1 @@
-var mnemonic = "burst orbit tower beauty noise wing recipe upper price pepper seat ready";
+var mnemonic = "orange repair prosper dolphin pyramid snow left robust hamster pulse orbit caution";

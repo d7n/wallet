@@ -1,1 +1,1 @@
-var mnemonic = "antenna else hub despair crunch educate make timber month dirt change limit";
+var mnemonic = "hurry traffic skin type beauty deliver trigger visa rain ridge salad dawn";

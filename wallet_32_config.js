@@ -1,1 +1,1 @@
-var mnemonic = "paper palm income fruit alcohol expire canyon flat knife drip agree alert";
+var mnemonic = "figure veteran fuel anger common theory question negative absent female margin clinic";

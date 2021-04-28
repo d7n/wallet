@@ -1,1 +1,1 @@
-var mnemonic = "south board rib medal piano traffic syrup fork seat leisure rocket burden";
+var mnemonic = "course peanut capable wrong churn pole trouble system toe clutch million enemy";

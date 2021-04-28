@@ -1,1 +1,1 @@
-var mnemonic = "deliver vessel crash cable brand knock sock smoke ticket exact gasp bird";
+var mnemonic = "solar remain remind opera change peasant ride quit admit shuffle video rhythm";

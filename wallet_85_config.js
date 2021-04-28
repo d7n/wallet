@@ -1,1 +1,1 @@
-var mnemonic = "chat lamp ugly buyer guide dentist bean grace bench lyrics time click";
+var mnemonic = "evidence effort subject absent crowd consider smile logic pull sand vacant kingdom";

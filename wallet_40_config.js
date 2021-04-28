@@ -1,1 +1,1 @@
-var mnemonic = "loan misery busy soldier success recycle screen paper raise fragile cup burst";
+var mnemonic = "dove baby three gallery skin rack aspect above lamp north castle ginger";

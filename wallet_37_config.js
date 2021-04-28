@@ -1,1 +1,1 @@
-var mnemonic = "wait view digital destroy element help merge member system fringe banner quality";
+var mnemonic = "patrol boss yellow hint car grant wreck cream defy shaft use learn";
