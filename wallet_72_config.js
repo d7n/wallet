@@ -1,1 +1,1 @@
-var mnemonic = "surprise dry capital adult truly museum mean curious awful sibling rice rocket";
+var mnemonic = "mesh shock paper hen today rug jacket million aspect circle pen double";

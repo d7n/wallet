@@ -1,1 +1,1 @@
-var mnemonic = "cousin entire caution situate kitchen crisp legal symbol cactus track rocket bulk";
+var mnemonic = "later yellow glove embrace promote hurdle begin boy canoe mention false situate";

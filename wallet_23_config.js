@@ -1,1 +1,1 @@
-var mnemonic = "index health inner two secret stereo wrong afraid grief gold switch core";
+var mnemonic = "trip sudden fluid giggle undo expose neglect earth family mirror census adult";

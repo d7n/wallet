@@ -1,1 +1,1 @@
-var mnemonic = "cluster head lake year extend seek master twenty pipe memory maze glow";
+var mnemonic = "silver category nerve eyebrow strike hundred sausage cloth lesson burden student father";

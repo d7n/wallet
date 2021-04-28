@@ -1,1 +1,1 @@
-var mnemonic = "dismiss inmate awake hammer journey misery glance tent enact manage veteran end";
+var mnemonic = "comfort rhythm climb surge sense champion vanish citizen cabbage axis planet super";

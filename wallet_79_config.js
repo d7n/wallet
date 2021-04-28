@@ -1,1 +1,1 @@
-var mnemonic = "furnace token race aware craft zebra off just drill notable differ interest";
+var mnemonic = "unusual almost later nation idle away unaware mesh yellow perfect sugar ensure";

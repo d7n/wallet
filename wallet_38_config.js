@@ -1,1 +1,1 @@
-var mnemonic = "empty struggle stairs wink amateur style month glass arch culture sudden fabric";
+var mnemonic = "convince canoe wonder vocal accuse common hole maze vendor visual shiver pass";

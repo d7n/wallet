@@ -1,1 +1,1 @@
-var mnemonic = "gesture illegal world scatter ugly wage man minor shoulder false chef access";
+var mnemonic = "deal axis zero open rich hard cherry retreat forum inmate couch salad";

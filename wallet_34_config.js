@@ -1,1 +1,1 @@
-var mnemonic = "good genius drill draw viable rapid village oak amount vote try spoon";
+var mnemonic = "chief family fever spare vital work pepper festival fiber puppy flock install";

@@ -1,1 +1,1 @@
-var mnemonic = "swallow rain reunion decorate fury velvet unfair best high curious desert stone";
+var mnemonic = "away absent reduce identify obscure affair budget swallow fossil deer shield debris";

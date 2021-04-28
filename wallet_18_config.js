@@ -1,1 +1,1 @@
-var mnemonic = "wine sadness fog hunt help any switch siege craft bargain three segment";
+var mnemonic = "caught update enact nation arrow outer foster taste arrest distance call age";

@@ -1,1 +1,1 @@
-var mnemonic = "shed excess frequent turkey limit guess broom strong urge dragon minimum upper";
+var mnemonic = "spray radar foster duck remind provide stairs secret play ticket wash problem";

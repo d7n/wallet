@@ -1,1 +1,1 @@
-var mnemonic = "phone sibling couch sound use possible window science better setup tiny crack";
+var mnemonic = "isolate gauge staff hybrid federal predict memory chase silent celery employ illness";

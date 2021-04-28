@@ -1,1 +1,1 @@
-var mnemonic = "give license lizard test run tattoo supply fury spray swim crater session";
+var mnemonic = "mom earn shove busy armed enrich defy will maid post patch force";

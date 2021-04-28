@@ -1,1 +1,1 @@
-var mnemonic = "robust brisk arrest zone tourist seed disagree satoshi rigid fury grit vault";
+var mnemonic = "door song tank royal lecture prize slush fantasy special inspire chunk leave";

@@ -1,1 +1,1 @@
-var mnemonic = "bench nation stadium poverty april zero hill senior spare attack camera return";
+var mnemonic = "like lazy stool thing album rookie rib hurry tuition diet museum family";

@@ -1,1 +1,1 @@
-var mnemonic = "sad rain history damp bamboo arrow spend human spy shallow vapor lumber";
+var mnemonic = "message fashion bargain fragile chat liar car below object toddler child faint";

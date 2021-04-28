@@ -1,1 +1,1 @@
-var mnemonic = "pulp capable auto awake run rule cruise math sausage shoot afford armed";
+var mnemonic = "volume ring snake between furnace know lobster tourist raven stomach train depend";

@@ -1,1 +1,1 @@
-var mnemonic = "celery mixed wear truly poem echo history book banana step search federal";
+var mnemonic = "cousin project brick trash spray infant diamond jeans achieve return advice pulp";

@@ -1,1 +1,1 @@
-var mnemonic = "enjoy below gate subject embark inherit guitar diet economy source husband clog";
+var mnemonic = "hat usual fashion then walnut before employ stage test smooth remove oak";

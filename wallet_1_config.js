@@ -1,1 +1,1 @@
-var mnemonic = "cave curtain trumpet fortune begin stamp bag rail either glove bulb sample";
+var mnemonic = "blade sphere unaware project alien arrange merry critic consider goddess produce shrug";

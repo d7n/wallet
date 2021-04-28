@@ -1,1 +1,1 @@
-var mnemonic = "eager round kitten ritual marble cloth silly receive abandon wheat afford raven";
+var mnemonic = "arrow machine canoe mass minute citizen fetch sell vague someone mutual antique";

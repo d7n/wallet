@@ -1,1 +1,1 @@
-var mnemonic = "spatial figure depend story rare audit chest scissors pudding taxi peanut must";
+var mnemonic = "bread aerobic runway pepper cart venture tail town borrow fatal castle tent";

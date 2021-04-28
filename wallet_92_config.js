@@ -1,1 +1,1 @@
-var mnemonic = "uncover clip risk crucial bar ivory shrug worry stand squirrel oval hour";
+var mnemonic = "cage holiday long medal term drastic security fluid fury suggest elevator garlic";

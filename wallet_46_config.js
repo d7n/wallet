@@ -1,1 +1,1 @@
-var mnemonic = "roof glance index luggage wise lens cattle sausage shine exhaust accident reward";
+var mnemonic = "panda poem machine random thumb rather random stomach supply quick patient initial";

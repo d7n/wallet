@@ -1,1 +1,1 @@
-var mnemonic = "rib trap alley way cupboard lazy between jewel airport radar cactus mansion";
+var mnemonic = "tiger already remind adjust merge common such camp please atom six volcano";

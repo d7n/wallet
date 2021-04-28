@@ -1,1 +1,1 @@
-var mnemonic = "license pigeon green asthma better kind dog easily bounce wedding solid opinion";
+var mnemonic = "danger inhale drift setup water scare ostrich detail bounce settle when muscle";

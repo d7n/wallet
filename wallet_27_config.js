@@ -1,1 +1,1 @@
-var mnemonic = "arrange glide airport midnight place scare credit armed slight hen resist damage";
+var mnemonic = "venture sport tell timber define upon loan various wrap owner course reduce";

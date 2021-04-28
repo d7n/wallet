@@ -1,1 +1,1 @@
-var mnemonic = "ivory room elephant mix then neck favorite horse upper skull artefact crane";
+var mnemonic = "erase pepper diary legal bus forward eyebrow various social blood picture talk";

@@ -1,1 +1,1 @@
-var mnemonic = "apology state bunker glide chair display cash start hurdle future involve burger";
+var mnemonic = "rather proud nation west join light warfare future weasel hockey vehicle desert";

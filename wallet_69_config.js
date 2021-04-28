@@ -1,1 +1,1 @@
-var mnemonic = "pottery drill crisp great appear wash trip license truth wage thank away";
+var mnemonic = "scare uncle draw ghost boss large bean margin advance turn report they";

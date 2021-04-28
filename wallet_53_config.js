@@ -1,1 +1,1 @@
-var mnemonic = "twice reveal vehicle ensure online leopard start metal water praise shallow rain";
+var mnemonic = "gadget hero spider cost smoke bottom phone used quarter prepare flash hundred";

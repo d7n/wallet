@@ -1,1 +1,1 @@
-var mnemonic = "calm hamster buddy outside glove hold tag snack intact scheme dust critic";
+var mnemonic = "erase garbage address announce obscure century grain sphere fire scene music friend";

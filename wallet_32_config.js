@@ -1,1 +1,1 @@
-var mnemonic = "board hope also defy diet surprise reflect cost wagon decrease expand recycle";
+var mnemonic = "brand grab near seat ride fox stage chaos entry stumble grain alarm";

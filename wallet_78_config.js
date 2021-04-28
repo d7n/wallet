@@ -1,1 +1,1 @@
-var mnemonic = "mean labor identify secret unhappy dentist end purchase gasp cheese joke curious";
+var mnemonic = "pink lock exact hamster twin alien urge fine concert regular zoo arm";

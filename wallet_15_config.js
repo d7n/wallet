@@ -1,1 +1,1 @@
-var mnemonic = "unit grunt ginger gym error thrive prize crash butter mixture eternal lyrics";
+var mnemonic = "away donate cram that mansion champion ivory frown festival repair bid divide";

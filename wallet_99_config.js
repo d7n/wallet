@@ -1,1 +1,1 @@
-var mnemonic = "spare employ usual asthma floor dose spread soap found weasel glow debris";
+var mnemonic = "slot man clay fancy primary shiver adapt odor promote draw spare dwarf";

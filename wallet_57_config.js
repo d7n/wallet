@@ -1,1 +1,1 @@
-var mnemonic = "sadness man pepper divorce dry sad pen foster have wave write jaguar";
+var mnemonic = "eager similar height private diamond priority live object flat snap tornado eager";

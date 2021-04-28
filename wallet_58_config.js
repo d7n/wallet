@@ -1,1 +1,1 @@
-var mnemonic = "half funny child essay fiscal script toss oven music next protect canyon";
+var mnemonic = "uncover exotic crater figure text clarify river verb model fix feature city";

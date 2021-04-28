@@ -1,1 +1,1 @@
-var mnemonic = "regular head little mesh fossil gauge tenant trade jaguar clip space rookie";
+var mnemonic = "drum write stem among monkey cute corn plug tomorrow wheat coffee guess";

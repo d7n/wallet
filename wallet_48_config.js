@@ -1,1 +1,1 @@
-var mnemonic = "harbor distance tube hammer response news exchange remain hair pulse approve excite";
+var mnemonic = "price glove system fault damp derive alcohol dress welcome notable copy stove";

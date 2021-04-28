@@ -1,1 +1,1 @@
-var mnemonic = "team ripple morning asset link size walnut resource dial skull secret rice";
+var mnemonic = "arrest verify sphere grain spell try nasty flash bronze antenna abuse lecture";

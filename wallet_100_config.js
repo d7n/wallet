@@ -1,1 +1,1 @@
-var mnemonic = "phrase destroy leave salt table orchard brain pet smile advance method slide";
+var mnemonic = "blame author large train knee raccoon bacon turtle fire save pigeon obscure";

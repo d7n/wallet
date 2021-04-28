@@ -1,1 +1,1 @@
-var mnemonic = "valve flat plastic sick useful math pelican mechanic churn guitar crush slice";
+var mnemonic = "card clap fit carpet model wait chief mean above chat kite donkey";

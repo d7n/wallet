@@ -1,1 +1,1 @@
-var mnemonic = "romance patrol blind curtain inquiry flush purse voyage cool tiny purpose task";
+var mnemonic = "peace danger pluck mistake jealous web occur upon grid slam powder unlock";

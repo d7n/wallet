@@ -1,1 +1,1 @@
-var mnemonic = "fork humor mixed turn lend canal multiply detect capable fluid cute relax";
+var mnemonic = "party together kitchen aspect aunt company middle spy kidney youth march more";

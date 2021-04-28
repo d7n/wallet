@@ -1,1 +1,1 @@
-var mnemonic = "target clip pupil inner hamster hello settle patrol noble robot sense grab";
+var mnemonic = "voice struggle palm thank scissors gate raccoon twin student recycle close identify";

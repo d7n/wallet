@@ -1,1 +1,1 @@
-var mnemonic = "door morning silk letter reduce wise sign that unveil victory stamp cupboard";
+var mnemonic = "another pet bachelor sand differ tornado floor swear design puzzle valley chest";

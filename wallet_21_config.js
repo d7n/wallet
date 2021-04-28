@@ -1,1 +1,1 @@
-var mnemonic = "display gorilla harvest great crisp hen cook normal wink day injury roof";
+var mnemonic = "miracle neglect various shrimp obvious oven below unaware expire proof cargo arm";

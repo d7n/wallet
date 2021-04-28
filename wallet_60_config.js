@@ -1,1 +1,1 @@
-var mnemonic = "angry tilt any clump blanket sleep mango staff digital bid nothing crater";
+var mnemonic = "budget term affair deny stove flee crouch cage maid surround verify depart";

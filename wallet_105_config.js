@@ -1,1 +1,1 @@
-var mnemonic = "arrow bamboo flee sock enrich emotion ignore fabric maple sign cloth tail";
+var mnemonic = "bird exact ridge risk squeeze net bubble rough liberty strong into amused";

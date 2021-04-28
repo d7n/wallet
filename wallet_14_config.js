@@ -1,1 +1,1 @@
-var mnemonic = "immune accuse slow foster idle much topple main royal stem learn hazard";
+var mnemonic = "release hamster impact track flight business unknown practice coin few salmon spike";

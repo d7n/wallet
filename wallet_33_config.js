@@ -1,1 +1,1 @@
-var mnemonic = "road boost bamboo diesel sunset release pioneer pledge visa mask crowd jump";
+var mnemonic = "master treat earn glow cherry acquire panel annual mom planet hazard apart";

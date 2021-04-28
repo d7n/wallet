@@ -1,1 +1,1 @@
-var mnemonic = "vacant turtle monitor lift budget route uncover knee cotton sadness rug employ";
+var mnemonic = "nation merge brown dignity miss employ limit sauce soda wife coach script";

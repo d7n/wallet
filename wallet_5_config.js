@@ -1,1 +1,1 @@
-var mnemonic = "side such leaf first syrup message odor opera glance thank purity work";
+var mnemonic = "close elder just convince once list diamond collect whip rotate cattle silver";

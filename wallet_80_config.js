@@ -1,1 +1,1 @@
-var mnemonic = "trigger patch romance autumn sketch soul asset predict misery swift pact debate";
+var mnemonic = "orchard genre library assume rail autumn quick fine fence harsh suffer analyst";

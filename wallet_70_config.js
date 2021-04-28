@@ -1,1 +1,1 @@
-var mnemonic = "swallow awake couple stumble fragile worry grocery people switch cereal thank trim";
+var mnemonic = "error medal card sugar hover another cake stick guilt keep horn awkward";

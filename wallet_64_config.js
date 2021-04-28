@@ -1,1 +1,1 @@
-var mnemonic = "sleep yard flavor fly seminar drum sand text letter feed balance champion";
+var mnemonic = "mixed usual vapor duck fiscal range above pupil glove alone stock satoshi";

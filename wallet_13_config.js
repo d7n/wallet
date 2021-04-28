@@ -1,1 +1,1 @@
-var mnemonic = "casual chef essence much buffalo category crazy goddess elegant deposit salmon depth";
+var mnemonic = "dwarf draft dust gesture bar struggle resource venue canal hover dice foster";

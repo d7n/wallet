@@ -1,1 +1,1 @@
-var mnemonic = "click anchor genuine ritual pass outdoor stamp doll lonely deliver tissue call";
+var mnemonic = "cricket face fix core history brisk erupt devote replace comfort calm stumble";

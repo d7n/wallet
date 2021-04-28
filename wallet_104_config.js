@@ -1,1 +1,1 @@
-var mnemonic = "salt answer asset crucial stage tower alcohol fee ocean minute eager detail";
+var mnemonic = "thing anchor birth during game easy gun since fence speak wait dose";

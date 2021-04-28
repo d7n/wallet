@@ -1,1 +1,1 @@
-var mnemonic = "hundred happy liquid join athlete kiss basket tornado scare slight purpose draw";
+var mnemonic = "earth robot enforce that trade weasel design have push nerve helmet snack";

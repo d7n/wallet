@@ -1,1 +1,1 @@
-var mnemonic = "increase often reunion town orphan huge spawn quality apart develop paper sort";
+var mnemonic = "situate impact disagree volcano conduct nut stadium arrest kidney luxury display copper";

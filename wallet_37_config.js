@@ -1,1 +1,1 @@
-var mnemonic = "museum oxygen health maximum front genre route arrange atom van vapor volume";
+var mnemonic = "uphold daughter drill toss various click surround machine brick gym mechanic pink";

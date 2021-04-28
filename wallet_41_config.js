@@ -1,1 +1,1 @@
-var mnemonic = "remain artwork quantum hybrid put hundred tonight favorite celery crunch frost retreat";
+var mnemonic = "owner execute zone goddess canoe tiny job harvest another lake extra conduct";

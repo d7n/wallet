@@ -1,1 +1,1 @@
-var mnemonic = "siege tank envelope girl muscle grace pumpkin barely dose diagram boost famous";
+var mnemonic = "vanish catch valve tell gaze blade cram maid girl social blouse laundry";

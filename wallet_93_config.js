@@ -1,1 +1,1 @@
-var mnemonic = "own ethics guide wait rhythm situate general dad virus dog image impose";
+var mnemonic = "cluster camp claim wheat know feel collect manage proud trend beyond glance";

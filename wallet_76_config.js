@@ -1,1 +1,1 @@
-var mnemonic = "pistol worth kit miss woman bird pair people ripple this sustain monitor";
+var mnemonic = "acquire trial during knock add gallery guard blush toss layer off toddler";

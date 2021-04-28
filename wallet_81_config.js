@@ -1,1 +1,1 @@
-var mnemonic = "rapid deer stick kind ramp fit oyster stable box tissue document brain";
+var mnemonic = "dance bulb eager memory salon fat stay nerve boring federal giggle rule";

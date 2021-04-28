@@ -1,1 +1,1 @@
-var mnemonic = "trust reason tunnel spin shaft defense easy question fetch enough pyramid hotel";
+var mnemonic = "atom rural wrist column patrol total engage demise soap exhaust offer hospital";

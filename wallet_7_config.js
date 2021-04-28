@@ -1,1 +1,1 @@
-var mnemonic = "surface message winner medal what way face social champion analyst spoil please";
+var mnemonic = "chimney glance post team barely jewel address journey naive giraffe barely mail";

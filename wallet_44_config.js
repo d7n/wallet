@@ -1,1 +1,1 @@
-var mnemonic = "harsh perfect quick combine curtain badge finish observe cannon elevator caution ghost";
+var mnemonic = "unknown tray cube scatter million appear car science collect arrest install exotic";

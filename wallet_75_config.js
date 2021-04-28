@@ -1,1 +1,1 @@
-var mnemonic = "hobby emotion road cream faculty apple property material crazy unfair diagram hole";
+var mnemonic = "comfort salad final move wasp chimney angry lobster orchard save foam link";

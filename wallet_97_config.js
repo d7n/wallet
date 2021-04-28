@@ -1,1 +1,1 @@
-var mnemonic = "runway sibling solar yellow dirt venue cinnamon crush dog congress loyal farm";
+var mnemonic = "mimic opinion typical wrap dilemma hello early click hill fruit demise crisp";

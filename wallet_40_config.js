@@ -1,1 +1,1 @@
-var mnemonic = "cattle bag special faith angry cash reduce match desert vibrant fault nothing";
+var mnemonic = "title dentist chef enlist guide chaos cruise seminar quote cushion scan shuffle";

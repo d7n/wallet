@@ -1,1 +1,1 @@
-var mnemonic = "antenna vibrant couch summer promote brown stereo later razor bread bicycle cheap";
+var mnemonic = "science hospital vanish kind vanish spy sauce frown own cement master page";

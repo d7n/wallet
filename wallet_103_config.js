@@ -1,1 +1,1 @@
-var mnemonic = "monkey faint slab trend spray wise curtain mirror amazing assume boost nice";
+var mnemonic = "tide course auto pudding proud sound cliff cement relief sea option cricket";

@@ -1,1 +1,1 @@
-var mnemonic = "muscle wet process mother river obey able face unique drama state mobile";
+var mnemonic = "among attack abuse orbit diamond snap glad regret swamp trumpet tonight alter";

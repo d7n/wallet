@@ -1,1 +1,1 @@
-var mnemonic = "athlete relief praise dwarf correct enjoy have abandon raise kiss faith busy";
+var mnemonic = "snap typical hollow people zero table phone prepare wink six crime wrist";

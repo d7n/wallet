@@ -1,1 +1,1 @@
-var mnemonic = "uphold soup direct squeeze cousin smooth vague intact soccer smile result admit";
+var mnemonic = "spike brain illegal evoke educate deny adjust danger faculty viable luggage auction";

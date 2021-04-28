@@ -1,1 +1,1 @@
-var mnemonic = "timber drive remove alarm guilt start march math call evil oppose load";
+var mnemonic = "future pretty indoor dismiss quantum hawk damp wink recall disorder ice example";

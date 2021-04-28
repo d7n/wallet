@@ -1,1 +1,1 @@
-var mnemonic = "scare feed start cover federal dentist cabbage tail memory affair anger follow";
+var mnemonic = "hero garment cattle enrich side drastic tube evidence text spot frog student";

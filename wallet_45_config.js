@@ -1,1 +1,1 @@
-var mnemonic = "figure spawn question mandate crouch federal basic skin twin crumble hollow subject";
+var mnemonic = "leisure fortune rough south snap weekend slow debate picture pitch hen broom";

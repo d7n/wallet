@@ -1,1 +1,1 @@
-var mnemonic = "inject sight gravity wheel decide custom stomach hour kitchen recall ill inside";
+var mnemonic = "liberty where device guess twist gesture morning two apart asset stuff mixed";

@@ -1,1 +1,1 @@
-var mnemonic = "leg east usual eye clever dad help endorse lyrics lottery music nose";
+var mnemonic = "palm tobacco dismiss federal magic now rail animal share hello fix lens";

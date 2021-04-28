@@ -1,1 +1,1 @@
-var mnemonic = "million correct shoulder anxiety shine win green spider hidden castle credit usual";
+var mnemonic = "prize equal film parrot win economy fiction waste note degree stem net";

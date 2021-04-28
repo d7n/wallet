@@ -1,1 +1,1 @@
-var mnemonic = "strike stomach mix lecture until stand rocket earn boss mixture ceiling glare";
+var mnemonic = "frost nut scheme night they weather fresh stage weird prosper crisp deliver";

@@ -1,1 +1,1 @@
-var mnemonic = "royal speed attend reward pair unit shoot inmate cream scrub accuse rival";
+var mnemonic = "oxygen play pill food few struggle cost beauty blame pair winner enforce";

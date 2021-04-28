@@ -1,1 +1,1 @@
-var mnemonic = "key network jar much airport vivid pulse market peanut whale oblige wise";
+var mnemonic = "sudden foster decade aerobic salmon stereo day submit collect develop dumb hub";

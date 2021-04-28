@@ -1,1 +1,1 @@
-var mnemonic = "like story funny dice two mammal milk order sun flee luxury exhibit";
+var mnemonic = "bubble grant panic amount system chicken inch rent promote salmon father club";

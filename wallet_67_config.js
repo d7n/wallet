@@ -1,1 +1,1 @@
-var mnemonic = "fetch cradle fragile unlock like entry actual execute nose hurdle fashion gospel";
+var mnemonic = "youth decade marriage holiday unknown tornado enough common merry execute aware maple";
