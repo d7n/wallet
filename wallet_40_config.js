@@ -1,1 +1,1 @@
-var mnemonic = "rack citizen arctic feed connect toe organ century action blur depend novel";
+var mnemonic = "sugar grape thought laundry special damp horror will tape total truck galaxy";

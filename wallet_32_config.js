@@ -1,1 +1,1 @@
-var mnemonic = "finger force camp heart board they pause volcano cause tube ten jealous";
+var mnemonic = "combine world brass minimum slot vague exile entry plug essence pave claw";

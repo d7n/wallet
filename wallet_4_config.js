@@ -1,1 +1,1 @@
-var mnemonic = "shallow predict pupil write clap prison space inmate prevent select amount muscle";
+var mnemonic = "game steel garment ocean awful enemy payment kangaroo useful fiber gown deliver";

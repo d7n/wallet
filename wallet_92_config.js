@@ -1,1 +1,1 @@
-var mnemonic = "hire list problem february tissue cricket carbon when alter river female mirror";
+var mnemonic = "swear inherit hedgehog ship boy sad acid mass please wage word glass";

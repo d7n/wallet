@@ -1,1 +1,1 @@
-var mnemonic = "garbage stool giggle lumber solution direct suggest tourist benefit oil bring cricket";
+var mnemonic = "quote salad entry box napkin few bulb title hockey panic artefact trial";

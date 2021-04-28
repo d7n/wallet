@@ -1,1 +1,1 @@
-var mnemonic = "chronic rail elder flower text win employ renew rose erase blanket country";
+var mnemonic = "honey unfair tuition crystal carry grow behave practice grab scene aunt umbrella";

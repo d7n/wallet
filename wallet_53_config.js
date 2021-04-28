@@ -1,1 +1,1 @@
-var mnemonic = "ketchup unknown bronze angle vendor vote tomorrow enable upgrade chimney embrace across";
+var mnemonic = "client essence syrup wing start theory pumpkin warrior debris similar retreat flag";

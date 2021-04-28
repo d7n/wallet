@@ -1,1 +1,1 @@
-var mnemonic = "sibling super ladder junior mind imitate december romance chuckle undo victory onion";
+var mnemonic = "mobile senior vote public obscure idle nice boring insane source concert sibling";

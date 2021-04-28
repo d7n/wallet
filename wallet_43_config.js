@@ -1,1 +1,1 @@
-var mnemonic = "fish goddess index trick tenant panther sugar luxury road differ moral run";
+var mnemonic = "double copy leaf kit funny hood joke insect athlete man room cause";

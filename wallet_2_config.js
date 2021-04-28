@@ -1,1 +1,1 @@
-var mnemonic = "vital bulb bulk actress media height mix scorpion fiscal embark onion labor";
+var mnemonic = "faith certain gesture swamp busy robust pill repeat office title fence winter";

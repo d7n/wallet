@@ -1,1 +1,1 @@
-var mnemonic = "brave avoid box stock catalog wrap humor void west short slide lift";
+var mnemonic = "valid advance input jacket purse run endorse object about gap need boss";

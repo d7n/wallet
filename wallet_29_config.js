@@ -1,1 +1,1 @@
-var mnemonic = "exclude snow juice once lend proud fashion goat lonely warfare monitor exchange";
+var mnemonic = "shift grief legend disagree disorder usual heavy machine appear school mansion gadget";

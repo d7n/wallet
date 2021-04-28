@@ -1,1 +1,1 @@
-var mnemonic = "match tomorrow expand solution page save property boss vintage winner admit knee";
+var mnemonic = "wish outer belt satoshi design awkward surface laundry ecology crumble jungle sausage";

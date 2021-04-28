@@ -1,1 +1,1 @@
-var mnemonic = "old ice history lobster surge few route excite culture awful conduct general";
+var mnemonic = "blossom snap jeans three desert they talk sand word blame genre local";

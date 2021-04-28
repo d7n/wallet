@@ -1,1 +1,1 @@
-var mnemonic = "rude jelly hurt world fruit normal bid echo fitness already caution undo";
+var mnemonic = "swarm twice dirt amazing magnet ensure key apple gauge useless ketchup front";

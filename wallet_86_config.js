@@ -1,1 +1,1 @@
-var mnemonic = "when answer sunny trap anchor suspect frozen divorce hello spider river version";
+var mnemonic = "latin taste mixed connect huge govern park organ whisper office maid abuse";

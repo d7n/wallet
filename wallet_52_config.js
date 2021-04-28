@@ -1,1 +1,1 @@
-var mnemonic = "bracket body cake angle sound blind hill flat volcano zero poet injury";
+var mnemonic = "door quit risk clinic old improve insane romance virus talk solid manage";

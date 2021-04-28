@@ -1,1 +1,1 @@
-var mnemonic = "empty cliff basic drastic aspect forum draw turn smart forest iron judge";
+var mnemonic = "disorder sock cream wife spike certain save brass position opinion blast gift";

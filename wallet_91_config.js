@@ -1,1 +1,1 @@
-var mnemonic = "zoo lunch pink boost garbage armor lounge repair genuine eagle can shed";
+var mnemonic = "skate only frog twice shallow skull balance hub review agree wave brisk";

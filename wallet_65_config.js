@@ -1,1 +1,1 @@
-var mnemonic = "damage evolve abandon setup early firm primary stand marble earth drift quick";
+var mnemonic = "swear loan peace lunar entry steak denial leader head place eye great";

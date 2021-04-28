@@ -1,1 +1,1 @@
-var mnemonic = "actress barrel song rice surprise become fuel toss orange erode wing spray";
+var mnemonic = "tumble tag speed script curve theory rhythm ketchup tomorrow local provide tone";

@@ -1,1 +1,1 @@
-var mnemonic = "math okay require virus baby damage catalog cushion mystery cup lucky version";
+var mnemonic = "party shy shop traffic panel custom mango uniform monitor curve news novel";

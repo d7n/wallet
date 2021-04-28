@@ -1,1 +1,1 @@
-var mnemonic = "army invest pizza apple involve matter immune barrel develop orange defense parade";
+var mnemonic = "same provide add stick radio digital relief engine earn ginger swing weather";

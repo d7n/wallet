@@ -1,1 +1,1 @@
-var mnemonic = "absurd crew sweet girl behind rose render common cliff hurt faith eagle";
+var mnemonic = "uphold ancient cup enhance midnight spring olive sketch purse response hole deliver";

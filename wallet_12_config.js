@@ -1,1 +1,1 @@
-var mnemonic = "vicious beyond bronze pretty wet foster human garden mixture fitness swift heavy";
+var mnemonic = "license size aunt glow engine weapon dentist answer dust eager near phrase";

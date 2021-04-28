@@ -1,1 +1,1 @@
-var mnemonic = "erosion enough neutral rigid sibling path release guide artefact ripple volume trade";
+var mnemonic = "transfer wisdom awake riot connect end robot crouch very vivid biology ill";

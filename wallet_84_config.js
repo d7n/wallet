@@ -1,1 +1,1 @@
-var mnemonic = "route photo buyer artist topic enemy spread beauty ecology shop history mind";
+var mnemonic = "family foster amount fuel sheriff gauge author stand cement ignore menu early";

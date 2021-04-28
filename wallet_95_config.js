@@ -1,1 +1,1 @@
-var mnemonic = "minute fever curious peasant circle remain firm double flat cat manage pilot";
+var mnemonic = "club beyond fuel flash talent town hero hunt lonely edge danger siege";

@@ -1,1 +1,1 @@
-var mnemonic = "toy language hunt access kind daughter volume scare bring sponsor random slot";
+var mnemonic = "march hard dose already excess ribbon divide party blossom puppy over enough";

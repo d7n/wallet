@@ -1,1 +1,1 @@
-var mnemonic = "vague urban paper again device mammal soft empty thing season sentence gate";
+var mnemonic = "snake saddle detect list ask net scissors agree angry east glimpse joy";

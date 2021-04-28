@@ -1,1 +1,1 @@
-var mnemonic = "cook truth six fly there arctic sheriff salmon question vote identify much";
+var mnemonic = "body morning dirt odor private nothing dutch swim dance fashion include warrior";

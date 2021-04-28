@@ -1,1 +1,1 @@
-var mnemonic = "vital float elite check tennis fuel romance area roof skill company pink";
+var mnemonic = "wide belt census credit skirt lend ensure fade differ inner veteran orange";

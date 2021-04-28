@@ -1,1 +1,1 @@
-var mnemonic = "permit adult move expose recycle chapter time ecology seven indicate science fiction";
+var mnemonic = "onion car myth library defense diamond clarify height off garage away there";

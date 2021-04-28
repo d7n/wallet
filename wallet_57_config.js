@@ -1,1 +1,1 @@
-var mnemonic = "exercise top team thrive eight amazing motor remain public enjoy food rebuild";
+var mnemonic = "main hand daughter zebra degree gloom crawl make six camera vessel sugar";

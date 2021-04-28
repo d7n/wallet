@@ -1,1 +1,1 @@
-var mnemonic = "disorder method surround simple guitar luxury tribe garlic cotton friend slim tunnel";
+var mnemonic = "elephant post mercy screen entire off fog half cereal dinner festival save";

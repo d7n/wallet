@@ -1,1 +1,1 @@
-var mnemonic = "debate trouble envelope private pupil scatter student neither siege path snap penalty";
+var mnemonic = "maze glance chaos order cactus slice ship then base ripple cement orbit";

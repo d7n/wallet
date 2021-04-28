@@ -1,1 +1,1 @@
-var mnemonic = "tent fatal police poverty sock prize banana member deny wear until scene";
+var mnemonic = "citizen predict era deer relief palace green door collect say two member";

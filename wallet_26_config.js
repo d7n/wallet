@@ -1,1 +1,1 @@
-var mnemonic = "silly observe note room shove cabbage amazing crawl column toward hotel favorite";
+var mnemonic = "art hammer trade exist rib card summer divert pitch tide curve away";

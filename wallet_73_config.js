@@ -1,1 +1,1 @@
-var mnemonic = "spice athlete skull betray burden allow match result bunker true slender copy";
+var mnemonic = "tool asset crisp hen zoo parent chef pipe slam deputy decade outdoor";

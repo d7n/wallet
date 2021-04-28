@@ -1,1 +1,1 @@
-var mnemonic = "father romance alley vague enlist clutch embody clever amused faith clap say";
+var mnemonic = "wall ramp jelly pulse universe uphold play winner now shy alley fiscal";

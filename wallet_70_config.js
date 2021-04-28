@@ -1,1 +1,1 @@
-var mnemonic = "erase advice mail armed fresh phone hedgehog road logic glance forget core";
+var mnemonic = "outer warrior filter match educate giggle walnut nice wash course bracket unfair";

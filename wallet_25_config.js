@@ -1,1 +1,1 @@
-var mnemonic = "kidney impact shift pledge bomb pact hurt ensure debris improve spring mother";
+var mnemonic = "giggle clump pulse endless receive bullet arrive eyebrow transfer inquiry modify depart";

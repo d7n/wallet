@@ -1,1 +1,1 @@
-var mnemonic = "machine neutral fabric topple pigeon sting gold deer spray enhance patient shaft";
+var mnemonic = "blast daring donor dice device laugh mushroom slim apple hold surge theory";

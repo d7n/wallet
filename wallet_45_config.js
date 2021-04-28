@@ -1,1 +1,1 @@
-var mnemonic = "awake cover husband often junk accident urge merge tiny favorite rescue black";
+var mnemonic = "badge dutch open clap leader group property mistake meadow method find input";

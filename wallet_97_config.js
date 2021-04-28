@@ -1,1 +1,1 @@
-var mnemonic = "february narrow remind buzz silly wasp surface chaos awful field cable faculty";
+var mnemonic = "jewel jazz artist truth attract heavy chair embody mom review chat pigeon";

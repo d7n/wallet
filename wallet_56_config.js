@@ -1,1 +1,1 @@
-var mnemonic = "symptom expect damp drift jar certain fuel order skirt surface chunk left";
+var mnemonic = "quit any evil whisper leader fresh neck cross recipe release rare shell";

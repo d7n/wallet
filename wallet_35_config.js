@@ -1,1 +1,1 @@
-var mnemonic = "solid worry worry carpet frame chief sell patch cement gospel lava journey";
+var mnemonic = "nut hundred crew impulse glue strong execute frown rough between half soup";

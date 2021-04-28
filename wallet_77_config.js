@@ -1,1 +1,1 @@
-var mnemonic = "will pitch truck job frown display leaf permit symbol garlic stomach zoo";
+var mnemonic = "bargain scheme strike dinner walk silent rib disagree dignity rack similar firm";

@@ -1,1 +1,1 @@
-var mnemonic = "panic border dinosaur erode lion avoid detail sentence man forward identify sustain";
+var mnemonic = "theory dentist sketch cash under gun intact opinion chef slush attend horror";

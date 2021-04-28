@@ -1,1 +1,1 @@
-var mnemonic = "goddess hamster trigger output slice machine move option cheap erase screen electric";
+var mnemonic = "mention logic trade coyote paper salmon term large curtain knife twin awesome";

@@ -1,1 +1,1 @@
-var mnemonic = "nominee major master laundry regular drink icon spoil certain debate prize shove";
+var mnemonic = "token unique happy coast family tragic timber catch gallery excuse hockey faculty";

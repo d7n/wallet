@@ -1,1 +1,1 @@
-var mnemonic = "humble auto oil empty nephew leaf into confirm vivid example manual blast";
+var mnemonic = "truck erase alter merge person suffer track pizza notice wing gospel vanish";

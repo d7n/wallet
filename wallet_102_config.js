@@ -1,1 +1,1 @@
-var mnemonic = "announce gentle boat salmon rural wasp mobile drum boy great skate hood";
+var mnemonic = "tiny online napkin come cluster search release lobster odor multiply whip sheriff";

@@ -1,1 +1,1 @@
-var mnemonic = "swallow find green tennis family post educate brief measure pool mountain cement";
+var mnemonic = "dress sock tail life public solution exotic gossip rent kite hawk fiction";

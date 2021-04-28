@@ -1,1 +1,1 @@
-var mnemonic = "device also medal april bitter crystal blast warrior hello reward length mouse";
+var mnemonic = "lizard jungle churn miss error venue monitor wagon cement save valve anxiety";

@@ -1,1 +1,1 @@
-var mnemonic = "basket valley rather episode egg journey satisfy sell improve wreck champion galaxy";
+var mnemonic = "olympic sleep again direct diamond wall kite coach glare tuna water duck";

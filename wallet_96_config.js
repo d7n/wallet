@@ -1,1 +1,1 @@
-var mnemonic = "hint twice mad veteran truck below pilot decide range sleep occur stable";
+var mnemonic = "decorate kind east sphere payment whale regular hand shallow transfer impose hidden";

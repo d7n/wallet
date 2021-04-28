@@ -1,1 +1,1 @@
-var mnemonic = "interest dad addict bag misery genius vast wet stone sun wonder flag";
+var mnemonic = "train evidence direct normal luxury leave salute liquid warfare infant major blue";

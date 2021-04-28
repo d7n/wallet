@@ -1,1 +1,1 @@
-var mnemonic = "frown beef race balance sunny replace delay asset chair crane before cabin";
+var mnemonic = "whisper ketchup item soap obtain crucial output snack gloom fox amateur exile";

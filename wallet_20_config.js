@@ -1,1 +1,1 @@
-var mnemonic = "crazy correct economy flight group disorder buddy punch hold isolate burger inquiry";
+var mnemonic = "exile spider wonder food detect pupil demise discover ivory second deer truth";

@@ -1,1 +1,1 @@
-var mnemonic = "van trip spot knee riot input bargain napkin skate harsh foot crisp";
+var mnemonic = "impulse excess walk idle stand company october one addict category rail absent";

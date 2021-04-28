@@ -1,1 +1,1 @@
-var mnemonic = "orange valve nominee anxiety clinic swallow minimum act indoor child subway sleep";
+var mnemonic = "blame marriage under believe tired open town attend honey avocado around imitate";

@@ -1,1 +1,1 @@
-var mnemonic = "tip prevent hurdle merge cover gaze public cactus wall follow extra chuckle";
+var mnemonic = "august daughter poem rebel steel already stamp spirit chapter elephant bike supply";

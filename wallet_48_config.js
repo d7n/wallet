@@ -1,1 +1,1 @@
-var mnemonic = "comic knee powder course analyst habit strategy whip item fish leader reveal";
+var mnemonic = "penalty swarm win ski rich risk grid top stove cliff lab wall";

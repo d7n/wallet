@@ -1,1 +1,1 @@
-var mnemonic = "snake doctor excuse very novel direct train grain mask fat earth hire";
+var mnemonic = "orchard broken oyster lazy fetch math slight produce rifle word nature income";

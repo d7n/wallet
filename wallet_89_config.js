@@ -1,1 +1,1 @@
-var mnemonic = "random mesh donate predict assault roof account music empower depend talk correct";
+var mnemonic = "thought traffic debate neither olive iron light gospel drink flavor coach nut";

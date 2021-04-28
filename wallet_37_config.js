@@ -1,1 +1,1 @@
-var mnemonic = "fuel camera vacant cage fortune clump liquid include that urge early truly";
+var mnemonic = "pink cattle uncle gorilla ordinary protect scan quick pony mystery snake zero";

@@ -1,1 +1,1 @@
-var mnemonic = "sun genre crowd mean frame scatter stumble way south reflect crouch sport";
+var mnemonic = "robust flat wage chunk foot document culture culture account brief exercise mixed";

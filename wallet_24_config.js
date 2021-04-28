@@ -1,1 +1,1 @@
-var mnemonic = "convince neutral scatter during various mule emerge draft gather turtle track toward";
+var mnemonic = "bubble grit negative ladder hurt winter gorilla riot enrich inquiry eyebrow pull";

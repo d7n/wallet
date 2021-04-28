@@ -1,1 +1,1 @@
-var mnemonic = "acoustic symptom round leg route already reward wire venue junk submit water";
+var mnemonic = "unknown industry mechanic smoke begin stereo limit tortoise wedding mad resist nasty";

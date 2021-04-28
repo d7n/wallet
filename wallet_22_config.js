@@ -1,1 +1,1 @@
-var mnemonic = "broccoli doctor diet whale sick bunker giant uncover hard slogan cup world";
+var mnemonic = "mercy system explain you spring tongue orient fringe battle assume media elevator";

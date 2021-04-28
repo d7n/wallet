@@ -1,1 +1,1 @@
-var mnemonic = "tent arrest champion viable nature swarm police twice kitchen tomato casino post";
+var mnemonic = "nose vacant render predict razor patch rail custom cannon express ready sort";

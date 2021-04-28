@@ -1,1 +1,1 @@
-var mnemonic = "float squirrel fence good wine dune license orbit seed erase gesture arch";
+var mnemonic = "make judge dwarf now seven consider river wrap bargain kitten width crisp";

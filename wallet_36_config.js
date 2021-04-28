@@ -1,1 +1,1 @@
-var mnemonic = "outside hand one journey lottery net salt plate era sense regret knife";
+var mnemonic = "inform marriage elite skirt desk fog demise method flight shock alone ginger";

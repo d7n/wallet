@@ -1,1 +1,1 @@
-var mnemonic = "visit other gloom tackle permit pave average matrix proof nerve giraffe stock";
+var mnemonic = "damp dog bean expand lamp fix clock jacket energy such egg usage";

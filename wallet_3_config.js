@@ -1,1 +1,1 @@
-var mnemonic = "unaware auction tenant give cattle cake glad output culture color coast sphere";
+var mnemonic = "inch pitch calm arch term spell nose place target assist zero hotel";

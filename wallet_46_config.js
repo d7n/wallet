@@ -1,1 +1,1 @@
-var mnemonic = "belt outdoor suffer interest goat smart tomorrow angle dragon agree cotton laptop";
+var mnemonic = "weather strike champion cactus common appear record vague mammal view wool model";

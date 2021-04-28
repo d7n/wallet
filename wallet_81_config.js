@@ -1,1 +1,1 @@
-var mnemonic = "orphan usual lazy bar toast hip steak that giraffe essence tooth rail";
+var mnemonic = "obey verb smooth slide above account food tiger critic warm travel cheap";

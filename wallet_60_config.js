@@ -1,1 +1,1 @@
-var mnemonic = "donor stove delay squirrel forward purse police rich session lift lady glue";
+var mnemonic = "hill route craft health disagree stamp custom camera milk slide bachelor explain";

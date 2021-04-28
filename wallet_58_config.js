@@ -1,1 +1,1 @@
-var mnemonic = "road practice taxi surface profit road mom boost gap actor dignity wreck";
+var mnemonic = "finger rate suffer novel travel cover silent pave margin immune laptop fresh";

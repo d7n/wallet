@@ -1,1 +1,1 @@
-var mnemonic = "dad blind boat claw dynamic favorite tackle bone illness tourist cinnamon reject";
+var mnemonic = "appear ship hill expand hand lobster announce spoon suggest sample fox average";

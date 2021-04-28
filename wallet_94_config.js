@@ -1,1 +1,1 @@
-var mnemonic = "host clay weapon wolf shrug mercy margin never deal size swift nerve";
+var mnemonic = "hobby list dish catalog ugly celery grief blast shy fix cannon hat";

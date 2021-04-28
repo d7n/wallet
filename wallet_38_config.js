@@ -1,1 +1,1 @@
-var mnemonic = "advance hard buyer brisk iron shoot globe shiver right leg tone forget";
+var mnemonic = "fatal wealth category unhappy maze elbow bright verify always hawk tragic gossip";
