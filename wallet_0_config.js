@@ -1,1 +1,1 @@
-var mnemonic = "rent exercise sister need oil view elite bronze century glide tone february";
+var mnemonic = "seat shuffle shield power student claim vendor destroy unit between nation vendor";

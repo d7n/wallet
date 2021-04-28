@@ -1,1 +1,1 @@
-var mnemonic = "umbrella puppy draw mandate question adapt cancel loyal hundred enter shy skill";
+var mnemonic = "laundry noise goddess affair submit rose chuckle purse high sorry dash manual";

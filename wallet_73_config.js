@@ -1,1 +1,1 @@
-var mnemonic = "flavor misery spring valve ecology column body jaguar warfare tomato youth adult";
+var mnemonic = "giraffe rice sorry cherry laugh sand possible winner opinion carry three pass";

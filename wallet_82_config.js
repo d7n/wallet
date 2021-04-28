@@ -1,1 +1,1 @@
-var mnemonic = "wedding wagon burst win wire deposit pen garage cry explain another punch";
+var mnemonic = "cream burst sweet broom nature wrestle bike child curtain axis april mechanic";

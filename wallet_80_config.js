@@ -1,1 +1,1 @@
-var mnemonic = "conduct forward call bid casual acoustic net tennis orchard tool sell call";
+var mnemonic = "rocket panic purity sell soda session lounge file drive eager curtain autumn";

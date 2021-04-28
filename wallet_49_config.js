@@ -1,1 +1,1 @@
-var mnemonic = "nature major broken ghost change glimpse oval fall already width vast father";
+var mnemonic = "private lecture catch afraid exercise bracket upgrade capital decorate trumpet waste forget";

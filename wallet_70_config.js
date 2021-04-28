@@ -1,1 +1,1 @@
-var mnemonic = "orchard thrive call electric acid again aunt oxygen update dentist case mom";
+var mnemonic = "wrap course pelican fade arrow absurd swap rely rug same cotton hurdle";

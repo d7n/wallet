@@ -1,1 +1,1 @@
-var mnemonic = "cloth clever annual tone vibrant suit trigger sand mirror dove myself arrest";
+var mnemonic = "equip river staff prison lyrics you traffic absorb crime answer clutch mansion";

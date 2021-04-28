@@ -1,1 +1,1 @@
-var mnemonic = "usage reopen music library lemon output barely casino cigar shiver coral tonight";
+var mnemonic = "review bleak affair exist sibling absent tree own depart pen athlete fatal";

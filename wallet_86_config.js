@@ -1,1 +1,1 @@
-var mnemonic = "photo stem confirm cage moment hover glide exchange nephew student action canoe";
+var mnemonic = "music film badge bachelor merit west allow embrace magnet brother brave thunder";

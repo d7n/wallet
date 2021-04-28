@@ -1,1 +1,1 @@
-var mnemonic = "surface case man fashion economy economy garlic replace exhibit drink ring corn";
+var mnemonic = "accuse acoustic cheese phrase bullet annual boost tree almost balcony despair cabin";

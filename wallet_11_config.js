@@ -1,1 +1,1 @@
-var mnemonic = "fix rack sail dragon life kidney owner dwarf bubble canvas jealous profit";
+var mnemonic = "detect next program garlic suspect scheme echo vivid exhaust lumber host library";

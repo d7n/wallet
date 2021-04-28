@@ -1,1 +1,1 @@
-var mnemonic = "buyer vendor portion chaos urban reform liar dust victory author sell sign";
+var mnemonic = "ginger rack tennis home unhappy fish south until around cancel excess curious";

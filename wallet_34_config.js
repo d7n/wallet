@@ -1,1 +1,1 @@
-var mnemonic = "easy zone crazy select bicycle treat west then armor claw couch material";
+var mnemonic = "delay gorilla motor open cloth size alter unit budget buddy salon run";

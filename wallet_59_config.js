@@ -1,1 +1,1 @@
-var mnemonic = "destroy genre learn seek card north grain cricket morning rival unable mistake";
+var mnemonic = "affair remove frown wage foam action worry reduce lawsuit oxygen confirm visa";

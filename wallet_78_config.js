@@ -1,1 +1,1 @@
-var mnemonic = "tribe huge accuse relief glare travel debate accuse airport they example exhaust";
+var mnemonic = "biology merge borrow joy rescue congress talent apology admit damp lamp patch";

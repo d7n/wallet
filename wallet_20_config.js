@@ -1,1 +1,1 @@
-var mnemonic = "mushroom acoustic program foil ahead notable skill captain eagle myth enroll stuff";
+var mnemonic = "divorce wet ginger river abandon ring mind direct cereal brother ramp head";

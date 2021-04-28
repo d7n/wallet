@@ -1,1 +1,1 @@
-var mnemonic = "link destroy hour fancy broken fault cattle kiss sample render strong floor";
+var mnemonic = "song engage farm aware chicken tent window blade ill teach lizard pond";

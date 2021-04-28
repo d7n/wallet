@@ -1,1 +1,1 @@
-var mnemonic = "hurdle brown heart angle essay jealous improve kind liquid north book language";
+var mnemonic = "relief paper easy adjust unfold bomb clock include clutch butter exhaust wave";

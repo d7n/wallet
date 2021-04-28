@@ -1,1 +1,1 @@
-var mnemonic = "sugar move resist lunar green gossip pill simple citizen pledge collect cheese";
+var mnemonic = "company loop rely wink castle absent napkin cousin elephant near obscure turkey";

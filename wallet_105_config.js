@@ -1,1 +1,1 @@
-var mnemonic = "wool planet fiber vote kit gesture unusual crop surprise belt away exile";
+var mnemonic = "suit love uniform staff onion acid tiger genius magnet auto uncle broom";

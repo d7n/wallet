@@ -1,1 +1,1 @@
-var mnemonic = "idea child glue genuine pull spoil stick water topic calm field devote";
+var mnemonic = "scrub fame fame garlic earn garden meadow abstract work holiday victory village";

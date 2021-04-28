@@ -1,1 +1,1 @@
-var mnemonic = "file olive buzz orient catch medal butter fragile island midnight shoe icon";
+var mnemonic = "people month tattoo setup arctic wolf jewel spin edit patrol sibling pair";

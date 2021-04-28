@@ -1,1 +1,1 @@
-var mnemonic = "share grain boring bridge onion dune immense brand favorite vessel screen glance";
+var mnemonic = "cup shell frog endorse merge cloud tree rich relief adjust ask debris";

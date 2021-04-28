@@ -1,1 +1,1 @@
-var mnemonic = "response expect office valid banana close excess resist orbit cloud vital ankle";
+var mnemonic = "ostrich enlist ramp powder lesson tomorrow ramp garage flock grow rare acoustic";

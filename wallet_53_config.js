@@ -1,1 +1,1 @@
-var mnemonic = "aisle pattern consider drive grab alien blade shoe setup mandate dolphin attack";
+var mnemonic = "word slim brass water across lumber smile scene crop stay road school";

@@ -1,1 +1,1 @@
-var mnemonic = "young oyster print admit edge blue torch grocery decade repeat initial worth";
+var mnemonic = "long invite vault pole purity toward come steak visit decide copper select";

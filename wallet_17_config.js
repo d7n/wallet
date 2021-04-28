@@ -1,1 +1,1 @@
-var mnemonic = "grab cross latin cable chase wet sister carry pelican spice digital garbage";
+var mnemonic = "desk tissue math swamp artist merge caution culture false survey urban stool";

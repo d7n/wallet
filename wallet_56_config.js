@@ -1,1 +1,1 @@
-var mnemonic = "drama home sweet rare door dumb furnace add amateur truck civil quality";
+var mnemonic = "fatigue pistol peanut day economy you innocent legend stable rain hat citizen";

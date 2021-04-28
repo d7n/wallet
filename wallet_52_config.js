@@ -1,1 +1,1 @@
-var mnemonic = "expose climb sentence quantum choice steel manual power custom leader cigar mention";
+var mnemonic = "amazing prefer disease shadow city vapor margin upon guard obtain mountain survey";

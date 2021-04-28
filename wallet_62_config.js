@@ -1,1 +1,1 @@
-var mnemonic = "quote section parrot poverty patient fever ivory gaze dry canoe normal merit";
+var mnemonic = "nominee mosquito moral trick merry twin entire taste crater ship wet exhibit";

@@ -1,1 +1,1 @@
-var mnemonic = "appear pudding able strike junior potato add leave century ceiling mass uncover";
+var mnemonic = "depart mouse term jelly soon sunny awesome junk prison dilemma oak fine";

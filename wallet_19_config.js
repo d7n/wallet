@@ -1,1 +1,1 @@
-var mnemonic = "audit cabbage enforce letter blast boy sight shell best clever hero churn";
+var mnemonic = "gentle sing belt infant pumpkin stamp edge praise stuff square celery other";

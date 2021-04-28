@@ -1,1 +1,1 @@
-var mnemonic = "drive claim since verb layer chalk license ensure fancy sight matter execute";
+var mnemonic = "ice unusual acid input keep mystery rule width mountain fresh route glow";

@@ -1,1 +1,1 @@
-var mnemonic = "minimum robust vibrant series usage off seed zebra soul pupil then spin";
+var mnemonic = "artist image sunset brisk exercise giraffe prize green admit upon sadness slab";

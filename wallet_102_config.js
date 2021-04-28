@@ -1,1 +1,1 @@
-var mnemonic = "glory giant final fury target smart eight dawn like chase flame advance";
+var mnemonic = "dinosaur antenna nest peace urban excite stay spirit stool episode flower smoke";

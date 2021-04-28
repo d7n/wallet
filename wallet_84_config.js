@@ -1,1 +1,1 @@
-var mnemonic = "march enlist unknown burst pill frog comfort cause element hollow panic tent";
+var mnemonic = "verb space daring north mystery state demise quality state junior under idea";

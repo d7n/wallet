@@ -1,1 +1,1 @@
-var mnemonic = "today around opera prepare only wrap inner chase sniff brown early limb";
+var mnemonic = "expect elbow mirror accident opinion lawsuit give more zone duty bundle fade";

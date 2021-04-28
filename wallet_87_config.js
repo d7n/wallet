@@ -1,1 +1,1 @@
-var mnemonic = "wine runway armor dragon range load target gloom service alley artist junk";
+var mnemonic = "brick angry cement fever route cigar vocal best candy cradle keep ridge";

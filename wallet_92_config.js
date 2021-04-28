@@ -1,1 +1,1 @@
-var mnemonic = "circle loan skill garlic apology upper ranch renew brain since caught crisp";
+var mnemonic = "dizzy intact ill among flavor entire earn media forget merge trend denial";

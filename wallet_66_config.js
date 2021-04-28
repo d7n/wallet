@@ -1,1 +1,1 @@
-var mnemonic = "access issue grocery ticket audit rhythm solve rare diesel behave awful grid";
+var mnemonic = "butter galaxy crowd helmet entire vehicle theory fork news electric left champion";

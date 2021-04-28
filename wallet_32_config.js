@@ -1,1 +1,1 @@
-var mnemonic = "account fury coffee child cram three genuine palm grass glimpse reopen mesh";
+var mnemonic = "only insect club giggle area then lava speak any clerk juice armed";

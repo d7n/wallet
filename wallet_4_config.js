@@ -1,1 +1,1 @@
-var mnemonic = "vast atom video farm lizard load park mask oven reform click life";
+var mnemonic = "photo attract gift vital vanish second brain survey melody atom convince fiber";

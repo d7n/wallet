@@ -1,1 +1,1 @@
-var mnemonic = "normal enlist excite bid describe vehicle oven gown laugh shuffle submit unlock";
+var mnemonic = "sight visa glance language right glow ghost pen apple media employ gasp";

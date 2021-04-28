@@ -1,1 +1,1 @@
-var mnemonic = "marble road key drama chaos profit rigid blade dog grocery phone lock";
+var mnemonic = "monkey exile air arch little club unit elite nice tunnel blur fall";

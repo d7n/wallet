@@ -1,1 +1,1 @@
-var mnemonic = "ginger behave small start matter ice rebel clean wish useful recycle filter";
+var mnemonic = "lyrics pepper heavy repeat advance message physical produce purse void inform student";

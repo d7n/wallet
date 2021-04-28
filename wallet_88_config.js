@@ -1,1 +1,1 @@
-var mnemonic = "license gesture motor stove chapter cherry drip habit rigid section royal copper";
+var mnemonic = "industry faint fox sweet twist guard mobile note inner casual wish orbit";

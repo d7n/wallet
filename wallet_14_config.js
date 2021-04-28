@@ -1,1 +1,1 @@
-var mnemonic = "steel piece purse chase income foam foot dragon stem mutual lawn lizard";
+var mnemonic = "field depend club obey cherry tray cave fine guard outer fee ignore";

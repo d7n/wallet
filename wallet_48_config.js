@@ -1,1 +1,1 @@
-var mnemonic = "powder used school rich valley between fine two hint thumb theme carbon";
+var mnemonic = "gadget side loop turkey ladder fancy melt inmate card exclude shield aunt";

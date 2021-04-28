@@ -1,1 +1,1 @@
-var mnemonic = "social exotic minor notice they crawl base junk nurse metal setup gesture";
+var mnemonic = "stand wait person run ring carpet flat faith parade solve fiscal soap";

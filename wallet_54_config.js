@@ -1,1 +1,1 @@
-var mnemonic = "innocent lab wide wheel cover dad novel couple runway olive change very";
+var mnemonic = "blur enhance gift dawn glide design carpet prepare all broken dog tide";

@@ -1,1 +1,1 @@
-var mnemonic = "hover lock index side deer punch rubber demise artist senior census around";
+var mnemonic = "industry must patrol enrich pigeon seminar speak two loud first year wage";

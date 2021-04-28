@@ -1,1 +1,1 @@
-var mnemonic = "awful hub truck essay market shrimp embody dad impose eager indoor genuine";
+var mnemonic = "armed ceiling volume immune buddy thrive dismiss piece ready beef car hybrid";

@@ -1,1 +1,1 @@
-var mnemonic = "toy guard one hope appear dance pride reflect rebuild shaft swim stairs";
+var mnemonic = "weather crater ready ethics valve gun sad confirm horn multiply cave moon";

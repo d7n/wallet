@@ -1,1 +1,1 @@
-var mnemonic = "humble pluck able magic field muscle kiwi kitchen lake high three expand";
+var mnemonic = "next sample mass sunset way split sand talent valid doll setup club";

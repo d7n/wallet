@@ -1,1 +1,1 @@
-var mnemonic = "right lucky eagle found concert enrich spice business rack flame cabbage chicken";
+var mnemonic = "tool adjust salon kite prepare pitch basic speed annual oxygen people noble";

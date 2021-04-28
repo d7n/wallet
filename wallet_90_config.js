@@ -1,1 +1,1 @@
-var mnemonic = "bridge wonder shoot burst advance wrong upon example story return key solid";
+var mnemonic = "regular rocket hospital correct chronic wolf pluck inform square accident frog yard";

@@ -1,1 +1,1 @@
-var mnemonic = "subject rich inflict marine spawn crucial more prepare acoustic pig monkey quantum";
+var mnemonic = "excess action tobacco jar honey buzz age chapter snack table wonder loud";

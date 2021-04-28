@@ -1,1 +1,1 @@
-var mnemonic = "month more humor history rug apart struggle canoe cable lumber neither clown";
+var mnemonic = "ice mushroom crush choice flush tilt dinner wear alter diet glide faint";

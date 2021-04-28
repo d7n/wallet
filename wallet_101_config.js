@@ -1,1 +1,1 @@
-var mnemonic = "ginger million rival author silk dismiss pencil stumble right reduce elite muffin";
+var mnemonic = "sorry final wish forget middle help kitten dream siege casual apology mobile";

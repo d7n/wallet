@@ -1,1 +1,1 @@
-var mnemonic = "doctor merit inject urge agent struggle shadow example fall pilot piano length";
+var mnemonic = "humble curious train moment crop into mushroom alter spell deny junk finish";

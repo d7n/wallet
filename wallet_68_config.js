@@ -1,1 +1,1 @@
-var mnemonic = "option youth vast six marriage flock veteran domain cereal borrow more sting";
+var mnemonic = "sad air bag display blind inside eternal laundry symbol swap length sunny";

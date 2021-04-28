@@ -1,1 +1,1 @@
-var mnemonic = "raw heavy gesture various edge prefer lake car village cart radio habit";
+var mnemonic = "depart sad soda lock double there left material edge keen path raw";

@@ -1,1 +1,1 @@
-var mnemonic = "option silent street polar jump rubber kiss inspire ceiling sell blanket uncover";
+var mnemonic = "all bike toe valid ivory cat genuine follow story double sponsor patient";

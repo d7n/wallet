@@ -1,1 +1,1 @@
-var mnemonic = "dance leisure crouch message length sock candy fresh rapid execute banana turkey";
+var mnemonic = "visa clock north history wing skull insect fish around cabin business tilt";

@@ -1,1 +1,1 @@
-var mnemonic = "disorder liar lake loud park method brush family food erupt town donate";
+var mnemonic = "diet belt private gadget tongue gossip visit list tortoise sick emerge someone";

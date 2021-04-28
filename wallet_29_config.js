@@ -1,1 +1,1 @@
-var mnemonic = "deny host inflict rhythm bright crunch vibrant innocent hidden unhappy vague plunge";
+var mnemonic = "path convince fortune marine siege direct mix fetch wrist code sample ball";

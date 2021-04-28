@@ -1,1 +1,1 @@
-var mnemonic = "shield lawsuit multiply someone vital cage area dolphin sun scrub dizzy together";
+var mnemonic = "sadness visual three divorce conduct record wide enrich spike apology cactus vessel";

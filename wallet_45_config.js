@@ -1,1 +1,1 @@
-var mnemonic = "pretty fresh soul filter antique icon festival royal denial pig remember ridge";
+var mnemonic = "priority monitor suspect seek tortoise cluster dance unveil tourist return derive flower";

@@ -1,1 +1,1 @@
-var mnemonic = "cousin unknown mosquito trust reunion sure hen green camera leave ship wheel";
+var mnemonic = "blanket egg time burden code shoot weather citizen useless online whip stairs";

@@ -1,1 +1,1 @@
-var mnemonic = "squirrel desk thought wood approve now double tumble smile embark super bid";
+var mnemonic = "suit tag juice annual army bitter whip version must lawsuit put pen";

@@ -1,1 +1,1 @@
-var mnemonic = "bunker top armed target wave income reflect increase bargain asthma measure loud";
+var mnemonic = "drink arm baby prefer mystery next duck science song real sock more";

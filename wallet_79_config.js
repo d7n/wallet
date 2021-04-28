@@ -1,1 +1,1 @@
-var mnemonic = "volume stumble multiply boil vibrant soda angle ready scatter potato author track";
+var mnemonic = "become library mercy fatigue eight long universe food reason joy shoot find";

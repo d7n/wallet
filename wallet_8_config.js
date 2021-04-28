@@ -1,1 +1,1 @@
-var mnemonic = "cluster enjoy often civil ankle witness stereo rough vault stumble leave morning";
+var mnemonic = "where shine pact hip air mobile define adapt trip cricket chicken slice";

@@ -1,1 +1,1 @@
-var mnemonic = "electric wall endless gadget erode chalk true right orchard regret ritual siren";
+var mnemonic = "squirrel series shrug eye ivory spice magic snack gravity critic street bomb";

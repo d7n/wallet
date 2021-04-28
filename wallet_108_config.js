@@ -1,1 +1,1 @@
-var mnemonic = "crane heart record board outdoor pair crime scatter album reason foil street";
+var mnemonic = "faculty sound electric either inch response spray dinosaur spice hint work train";

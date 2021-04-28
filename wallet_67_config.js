@@ -1,1 +1,1 @@
-var mnemonic = "search casino injury plug opinion march reunion appear odor naive erase iron";
+var mnemonic = "pull opinion click reject sell island student bounce trap dentist adjust leave";

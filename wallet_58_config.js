@@ -1,1 +1,1 @@
-var mnemonic = "cement antique heavy review nothing turkey supply junk talent develop obscure lava";
+var mnemonic = "health near grunt local stadium open deputy shove kick cliff pupil response";

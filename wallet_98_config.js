@@ -1,1 +1,1 @@
-var mnemonic = "drip bus sponsor laugh stone eternal matter pull simple lottery language tiger";
+var mnemonic = "detect file sting oblige deliver come public end weekend control damp develop";

@@ -1,1 +1,1 @@
-var mnemonic = "almost original mango bounce elegant reward body joke betray alert solution swear";
+var mnemonic = "electric game ladder short monster idea birth drop habit much sleep cute";

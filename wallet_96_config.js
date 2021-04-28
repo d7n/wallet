@@ -1,1 +1,1 @@
-var mnemonic = "sun fee sheriff someone magnet sheriff skull obey harbor coach alley evolve";
+var mnemonic = "medal rigid cry tip knee jealous spin rate pepper work crawl foster";

@@ -1,1 +1,1 @@
-var mnemonic = "lift unable flock muscle sweet middle amateur athlete saddle vehicle answer surprise";
+var mnemonic = "choice video black pizza spawn trust dance inform large salt else coach";

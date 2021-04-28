@@ -1,1 +1,1 @@
-var mnemonic = "peasant city fame build camera term fish ripple supreme session crumble trade";
+var mnemonic = "blossom crucial similar lecture short work access answer flame raven climb behave";

@@ -1,1 +1,1 @@
-var mnemonic = "pink husband supreme dilemma strike chief price wheat file attitude stereo ordinary";
+var mnemonic = "trim advice offer phrase coil later maid own fault glide project asthma";
