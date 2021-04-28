@@ -1,1 +1,1 @@
-var mnemonic = "uphold success about middle pen object entire ivory usual donkey track dwarf";
+var mnemonic = "curious broccoli prefer person refuse account soft quality detail great easily actress";

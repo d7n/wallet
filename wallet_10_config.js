@@ -1,1 +1,1 @@
-var mnemonic = "harvest chalk obvious rate calm funny panda ladder sting term rug uphold";
+var mnemonic = "wisdom deal surge useful pill egg soul search place thought sing solid";

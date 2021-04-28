@@ -1,1 +1,1 @@
-var mnemonic = "exchange finish famous tissue buddy salad limb draw equal autumn scale sun";
+var mnemonic = "immune library museum audit whale camp brass casino front victory nasty proof";

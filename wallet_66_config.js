@@ -1,1 +1,1 @@
-var mnemonic = "moral icon provide fantasy hockey mirror resource sign history online friend tuna";
+var mnemonic = "dose pair glad stamp radio pet cattle need bullet glare cliff police";

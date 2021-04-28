@@ -1,1 +1,1 @@
-var mnemonic = "amount hair seven dwarf sibling swear shed sail drum sample spatial vanish";
+var mnemonic = "essence useful faith what shrug poet soon angle song flower circle manual";

@@ -1,1 +1,1 @@
-var mnemonic = "oven install attract game search spoil cherry melt word artwork tower true";
+var mnemonic = "hundred attack rule bottom immune glory fragile unfold genre honey amount gain";

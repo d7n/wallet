@@ -1,1 +1,1 @@
-var mnemonic = "remind auction frog business pledge swear tissue giraffe outdoor nut matrix wine";
+var mnemonic = "final trust excuse mad simple predict grape because ritual stick sell foam";

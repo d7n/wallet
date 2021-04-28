@@ -1,1 +1,1 @@
-var mnemonic = "rib combine photo auto garbage aim diet repeat elephant web borrow car";
+var mnemonic = "scrub end teach ostrich pluck dove brother blast dutch someone bicycle clever";

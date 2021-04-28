@@ -1,1 +1,1 @@
-var mnemonic = "other raw convince scrap message puppy crumble drama castle shield host make";
+var mnemonic = "flavor season begin endorse pitch drama cupboard mutual board novel twelve quiz";

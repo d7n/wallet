@@ -1,1 +1,1 @@
-var mnemonic = "shallow equal canoe smooth curious sick system orbit wedding surge desert debris";
+var mnemonic = "bachelor resource primary shrimp person novel pass poverty adult abandon output lock";

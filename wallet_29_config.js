@@ -1,1 +1,1 @@
-var mnemonic = "poet network second aisle engage track fitness enact raise flame bundle school";
+var mnemonic = "capable school exact crisp orchard erupt strong surface coconut nerve infant random";

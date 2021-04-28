@@ -1,1 +1,1 @@
-var mnemonic = "imitate soda angry run much hundred sure early heart insane farm crew";
+var mnemonic = "rib ranch emerge opera nut machine select pitch burger caution foam affair";

@@ -1,1 +1,1 @@
-var mnemonic = "concert bitter fever feature tattoo consider reveal verify fashion best easily winner";
+var mnemonic = "stereo pattern orbit stone exotic shop near yard arrange rival bacon disorder";

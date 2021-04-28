@@ -1,1 +1,1 @@
-var mnemonic = "where ranch harsh check laptop draft energy clown blanket reveal poverty modify";
+var mnemonic = "inhale false trash deliver derive citizen portion orange release museum word town";

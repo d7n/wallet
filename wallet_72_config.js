@@ -1,1 +1,1 @@
-var mnemonic = "obvious yard lens hero abandon woman sweet often excess seat spray repair";
+var mnemonic = "since horror pride recipe tiger invest shaft math dish card timber exit";

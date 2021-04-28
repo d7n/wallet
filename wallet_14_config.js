@@ -1,1 +1,1 @@
-var mnemonic = "tissue film orbit aisle destroy gloom later surround stage marine barely oil";
+var mnemonic = "suggest symbol mechanic chronic devote equal strike thrive amateur indicate vivid combine";

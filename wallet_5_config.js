@@ -1,1 +1,1 @@
-var mnemonic = "kingdom apology segment garbage gate decorate effort derive ordinary team bunker about";
+var mnemonic = "muscle grunt annual neglect snack credit talent doll tragic ill hidden pumpkin";

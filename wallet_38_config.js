@@ -1,1 +1,1 @@
-var mnemonic = "omit jeans path chef one meat wheel rescue globe budget echo mixed";
+var mnemonic = "milk pistol puzzle mail omit treat view clog vapor blast govern mad";

@@ -1,1 +1,1 @@
-var mnemonic = "own job surprise way clip liberty detect veteran noble return address skate";
+var mnemonic = "stadium then hotel transfer initial zoo slogan one pyramid nut ozone mule";

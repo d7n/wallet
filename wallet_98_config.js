@@ -1,1 +1,1 @@
-var mnemonic = "private cloud section bench pave vague craft grant orient pony ceiling stadium";
+var mnemonic = "domain audit point begin fever circle unit hello error cloud language donkey";

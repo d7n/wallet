@@ -1,1 +1,1 @@
-var mnemonic = "hat panda tray people raccoon nose artist balance scissors draft lyrics warm";
+var mnemonic = "receive bar undo isolate marine ski law drastic ostrich budget expect ship";

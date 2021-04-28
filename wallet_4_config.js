@@ -1,1 +1,1 @@
-var mnemonic = "banner asthma fit symptom move ensure upon trip curious apology join pond";
+var mnemonic = "vacuum load monkey spin obscure spice iron sausage churn forum matrix then";

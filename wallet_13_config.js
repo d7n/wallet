@@ -1,1 +1,1 @@
-var mnemonic = "example crunch summer they destroy buffalo sense worry impulse antique ill chronic";
+var mnemonic = "smart bid salute black addict quote angry wash run cube student future";

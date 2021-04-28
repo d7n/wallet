@@ -1,1 +1,1 @@
-var mnemonic = "tiger police snack bunker spike patch punch fresh ankle absorb decline word";
+var mnemonic = "work wash visual record awkward snake find accident wrist perfect detail clap";

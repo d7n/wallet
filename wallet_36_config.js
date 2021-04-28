@@ -1,1 +1,1 @@
-var mnemonic = "erase cotton return rich gun post bridge mistake enroll board canvas castle";
+var mnemonic = "loop slam rely over shell suspect inquiry office craft else collect orphan";

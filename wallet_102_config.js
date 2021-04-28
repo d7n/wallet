@@ -1,1 +1,1 @@
-var mnemonic = "elder toddler warm evoke best question endless culture olympic next boy eyebrow";
+var mnemonic = "also brisk flower valve category economy bone mammal fire bid fault leisure";

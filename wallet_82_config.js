@@ -1,1 +1,1 @@
-var mnemonic = "cradle dinosaur message enlist feed reward orient price indicate write sense bus";
+var mnemonic = "illegal artwork cloth engine prepare quarter frame endless shuffle soup image retire";

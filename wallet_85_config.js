@@ -1,1 +1,1 @@
-var mnemonic = "clean test venue deer caution device visual climb access place unable sphere";
+var mnemonic = "live sing bar knife explain celery attitude stove vault attract puzzle forget";

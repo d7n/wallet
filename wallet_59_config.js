@@ -1,1 +1,1 @@
-var mnemonic = "leopard model doll method embody frog job draw hundred enlist reason knee";
+var mnemonic = "unhappy image lecture donate sail useless result minute tuna enlist people badge";

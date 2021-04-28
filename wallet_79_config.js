@@ -1,1 +1,1 @@
-var mnemonic = "river roast deposit safe mule barrel jeans bottom kiss pupil crew fever";
+var mnemonic = "cruel anger crouch excess suspect slogan faith entire aunt opera sea much";

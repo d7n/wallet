@@ -1,1 +1,1 @@
-var mnemonic = "door ripple end crane avocado renew gravity minor clerk amused tornado grow";
+var mnemonic = "when identify virus clip toddler scorpion park crouch common face muscle embody";

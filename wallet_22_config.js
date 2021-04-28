@@ -1,1 +1,1 @@
-var mnemonic = "fashion trade crew angry invest minute clarify abstract order orange keen such";
+var mnemonic = "check trial scorpion patient eternal faint belt wall drip dismiss space wrist";

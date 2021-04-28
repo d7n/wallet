@@ -1,1 +1,1 @@
-var mnemonic = "rail tomorrow ski curious alert vapor siren gold dial panic bonus arena";
+var mnemonic = "test mansion improve arch blue domain window result wall switch into hero";

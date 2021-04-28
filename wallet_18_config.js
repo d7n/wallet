@@ -1,1 +1,1 @@
-var mnemonic = "coin view alien legend mule coconut math must worth tube kitchen left";
+var mnemonic = "rule move zoo slush cherry grain absorb card mouse glory mystery popular";

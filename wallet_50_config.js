@@ -1,1 +1,1 @@
-var mnemonic = "all between boost exact wreck citizen goat resemble borrow recycle dove trick";
+var mnemonic = "horn gentle erupt screen little hungry polar industry boil shoulder quote whip";

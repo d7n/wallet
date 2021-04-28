@@ -1,1 +1,1 @@
-var mnemonic = "peanut spoil three hope sausage destroy acquire accuse coral talent equal tonight";
+var mnemonic = "jacket someone soccer endorse balance buzz citizen ankle faith measure drift electric";

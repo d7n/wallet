@@ -1,1 +1,1 @@
-var mnemonic = "pig sadness oblige wash clean onion system vivid torch upset wide jealous";
+var mnemonic = "stomach click feed face fiction kite rich change gentle frequent south barely";

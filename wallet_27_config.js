@@ -1,1 +1,1 @@
-var mnemonic = "bracket audit stable category mixture potato fluid differ moon primary rude spray";
+var mnemonic = "arctic boil crucial kangaroo ready forward mistake resemble next jelly lobster guard";

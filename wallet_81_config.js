@@ -1,1 +1,1 @@
-var mnemonic = "penalty grunt melt order fiction sustain wall step oven diesel leg hen";
+var mnemonic = "fly truth plunge improve innocent pact rail lottery develop network forward corn";

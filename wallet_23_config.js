@@ -1,1 +1,1 @@
-var mnemonic = "mosquito rifle shuffle train illness onion oyster broom input strike machine liquid";
+var mnemonic = "barely marble often million cattle notable truck elegant ivory boy giggle unfold";

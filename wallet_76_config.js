@@ -1,1 +1,1 @@
-var mnemonic = "parent same border ripple absurd avoid multiply shrimp morning army process meadow";
+var mnemonic = "guitar heavy still seminar tomato sound smart cook lesson spoon snack mango";

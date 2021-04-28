@@ -1,1 +1,1 @@
-var mnemonic = "arrow visit journey wisdom ask sample explain rice actress lend suit neutral";
+var mnemonic = "tonight album ordinary climb very track fold urge option episode midnight section";

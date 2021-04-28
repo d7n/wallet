@@ -1,1 +1,1 @@
-var mnemonic = "marine maximum local core salon ripple naive kitchen roast top kingdom blouse";
+var mnemonic = "math unfold common reason humble noodle letter genuine wagon tissue great cargo";

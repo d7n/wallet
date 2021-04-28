@@ -1,1 +1,1 @@
-var mnemonic = "snake argue remove renew list number icon grape vast wheel floor borrow";
+var mnemonic = "copper acoustic dismiss recipe subway express stumble eight patient blood once royal";

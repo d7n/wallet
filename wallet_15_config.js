@@ -1,1 +1,1 @@
-var mnemonic = "lazy shiver make punch borrow lab drum case lunar shock replace human";
+var mnemonic = "make reform want alley seek swift glimpse wasp argue price glue surround";

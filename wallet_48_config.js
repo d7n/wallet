@@ -1,1 +1,1 @@
-var mnemonic = "crucial group fine exist poverty ceiling state husband rotate major entry easily";
+var mnemonic = "coral drama skill crucial razor course rival scout member balcony luggage rib";

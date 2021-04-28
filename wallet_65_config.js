@@ -1,1 +1,1 @@
-var mnemonic = "slab bone similar govern avocado tent bone bean vapor drama obscure buyer";
+var mnemonic = "trade omit narrow chicken risk wisdom gadget photo refuse frost expose someone";

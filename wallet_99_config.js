@@ -1,1 +1,1 @@
-var mnemonic = "zebra urban stool eternal despair candy useful deal chief mistake tissue wash";
+var mnemonic = "flight ozone local music huge oxygen cereal water smile accident lawsuit pass";

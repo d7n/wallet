@@ -1,1 +1,1 @@
-var mnemonic = "immense tray cloth sword picture useful adapt moment notable fence gun clip";
+var mnemonic = "truly govern squeeze panther chest pass few resist involve naive crime judge";

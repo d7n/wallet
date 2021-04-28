@@ -1,1 +1,1 @@
-var mnemonic = "weekend pink glow east differ you apple body round trial render april";
+var mnemonic = "school salmon false saddle old surge wait answer sketch edit climb cash";

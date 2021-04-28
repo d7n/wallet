@@ -1,1 +1,1 @@
-var mnemonic = "intact twin amount festival invite estate dragon into tennis until naive border";
+var mnemonic = "purity wrestle loyal kind adapt cereal drip output rapid provide abandon cost";

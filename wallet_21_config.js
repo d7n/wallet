@@ -1,1 +1,1 @@
-var mnemonic = "moon tray truth release dose bone unaware entire version debate soft exchange";
+var mnemonic = "initial clean finger busy miss country tent screen car card leg defy";

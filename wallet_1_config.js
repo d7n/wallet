@@ -1,1 +1,1 @@
-var mnemonic = "ship never rug web physical wealth replace pen cross bus jewel elegant";
+var mnemonic = "educate address shuffle diagram main sell choice salt aunt brown broken dutch";

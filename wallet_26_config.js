@@ -1,1 +1,1 @@
-var mnemonic = "solution liar north avocado assume strategy margin error tree vote abstract vault";
+var mnemonic = "link require embark iron regular usage thumb cup shop tower luxury misery";

@@ -1,1 +1,1 @@
-var mnemonic = "that change exhibit style oxygen creek enable east inside cook twelve flower";
+var mnemonic = "strong purse laundry liquid fat wool arrive siren exile cage oval dice";

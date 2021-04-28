@@ -1,1 +1,1 @@
-var mnemonic = "night dolphin develop good improve young caught service bench liquid purse general";
+var mnemonic = "walnut hour giggle buzz arena iron verify plug shallow buzz frozen brief";

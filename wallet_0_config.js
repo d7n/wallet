@@ -1,1 +1,1 @@
-var mnemonic = "soft stuff gain bid avoid high panic scorpion media trade quality must";
+var mnemonic = "dignity salon village issue style mule guitar castle action hen scrub valley";

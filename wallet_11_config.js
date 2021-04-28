@@ -1,1 +1,1 @@
-var mnemonic = "glow blur club silk carpet fish clip alien twin galaxy clever case";
+var mnemonic = "puppy party bird rich sudden glance oppose bike quote aspect face pupil";

@@ -1,1 +1,1 @@
-var mnemonic = "thumb glue cabbage crisp culture issue property genuine lock artwork shy urban";
+var mnemonic = "extra exhaust field position slam magic this couple marine ocean wash bounce";

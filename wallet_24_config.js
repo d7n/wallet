@@ -1,1 +1,1 @@
-var mnemonic = "thunder bottom spice prefer mesh fever coral hammer lizard upper sure mango";
+var mnemonic = "lobster public stand alarm brave photo wall letter term barrel sight correct";

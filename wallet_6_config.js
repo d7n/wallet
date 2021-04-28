@@ -1,1 +1,1 @@
-var mnemonic = "legend fortune shiver hope slide angry ready echo produce turkey wing under";
+var mnemonic = "trial angry sniff flower order call release buyer stool jacket balance example";

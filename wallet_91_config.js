@@ -1,1 +1,1 @@
-var mnemonic = "proof relief task depend wrist garment settle lizard tobacco insane return only";
+var mnemonic = "awful cry file camera zebra party grab decide letter trend obey usage";

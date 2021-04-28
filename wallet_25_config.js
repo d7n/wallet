@@ -1,1 +1,1 @@
-var mnemonic = "rug drill pond truly trend indoor fatal cinnamon lecture feed kid elbow";
+var mnemonic = "buddy dismiss morning favorite hollow occur near rocket search tank clinic panel";

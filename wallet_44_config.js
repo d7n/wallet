@@ -1,1 +1,1 @@
-var mnemonic = "achieve detect analyst pill canal slim crop know narrow lift can violin";
+var mnemonic = "old desert circle waste asset praise piano push castle silk nephew forget";

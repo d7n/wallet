@@ -1,1 +1,1 @@
-var mnemonic = "already split end patch proud season say evoke excuse loyal vocal record";
+var mnemonic = "ring suffer mandate rebuild soft pulp point glove draft garlic drip mule";

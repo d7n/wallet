@@ -1,1 +1,1 @@
-var mnemonic = "range help often output sketch obscure despair congress leave knee gym convince";
+var mnemonic = "yard story absent property laptop clerk swing tip slice follow volume flag";

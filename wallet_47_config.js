@@ -1,1 +1,1 @@
-var mnemonic = "private now box debris where guard soup rabbit early unique happy lunar";
+var mnemonic = "cook worry security three sheriff topic nest luxury employ pepper moral door";

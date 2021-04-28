@@ -1,1 +1,1 @@
-var mnemonic = "often pencil liberty alien identify bench width parent riot crew click sketch";
+var mnemonic = "access direct scrap remain cluster maximum type chimney remember spike ankle demand";

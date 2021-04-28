@@ -1,1 +1,1 @@
-var mnemonic = "fatigue egg crop zoo fork volcano series fortune human struggle chef syrup";
+var mnemonic = "sign grace beach hole they mom urge cannon grass choice license install";

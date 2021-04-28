@@ -1,1 +1,1 @@
-var mnemonic = "pepper witness meat style scissors obey penalty sing very kidney chapter inflict";
+var mnemonic = "visa farm toilet choose flight pencil future planet soda habit tuna spring";

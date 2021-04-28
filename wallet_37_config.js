@@ -1,1 +1,1 @@
-var mnemonic = "wrap month good grain gasp glass tobacco grocery victory habit salt capable";
+var mnemonic = "expire power child senior clog apology police battle clip thought tissue prison";

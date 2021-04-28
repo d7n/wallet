@@ -1,1 +1,1 @@
-var mnemonic = "inner birth gas clown flush point cradle inspire there alarm spirit change";
+var mnemonic = "derive brain moral category perfect glimpse aunt plastic notice two lawsuit student";

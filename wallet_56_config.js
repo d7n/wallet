@@ -1,1 +1,1 @@
-var mnemonic = "casual vacuum jaguar upset coyote pet wagon leader dolphin pudding hybrid used";
+var mnemonic = "tissue fall open age luggage hunt snack debate crucial oven ancient humor";

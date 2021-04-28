@@ -1,1 +1,1 @@
-var mnemonic = "heart cause resemble orchard afraid angle swear you position equal shine universe";
+var mnemonic = "together butter warfare office permit exit razor shrug goddess pepper leopard lend";

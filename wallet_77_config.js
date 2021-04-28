@@ -1,1 +1,1 @@
-var mnemonic = "else into heavy wood shoe resource orchard title abstract cream reunion repair";
+var mnemonic = "submit one concert top axis layer lawsuit remind toss conduct lend useful";

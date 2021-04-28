@@ -1,1 +1,1 @@
-var mnemonic = "rhythm border foil knock champion cry defy never erode kite arrive clean";
+var mnemonic = "express struggle view jeans mind purpose smart aisle leg carpet blur convince";

@@ -1,1 +1,1 @@
-var mnemonic = "attitude animal science rate category appear yard demise coil mushroom liberty trim";
+var mnemonic = "ladder company runway cross accuse lamp chat nasty account diary skin spawn";

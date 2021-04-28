@@ -1,1 +1,1 @@
-var mnemonic = "pear orbit club before inflict garment pencil kiwi hockey giraffe during negative";
+var mnemonic = "bounce room exhaust south private fiscal liar inquiry seek chef route usual";

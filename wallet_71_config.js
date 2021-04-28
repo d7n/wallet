@@ -1,1 +1,1 @@
-var mnemonic = "tonight silent stem detect team analyst settle era token vibrant concert recycle";
+var mnemonic = "where dial toilet jungle laptop year anxiety total rib sponsor garbage magnet";

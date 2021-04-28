@@ -1,1 +1,1 @@
-var mnemonic = "help hundred clerk fault quit chief innocent slam leaf scene cram guard";
+var mnemonic = "extend tuition there turn random busy marriage erosion timber tuna gallery pluck";

@@ -1,1 +1,1 @@
-var mnemonic = "jazz sugar deputy toast purpose illegal duty ugly minute merit people twice";
+var mnemonic = "wheel adjust chalk sudden rule license edge tooth page defense plug emerge";

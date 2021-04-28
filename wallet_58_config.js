@@ -1,1 +1,1 @@
-var mnemonic = "debate february okay harsh powder buffalo flash cigar ladder earn empower behave";
+var mnemonic = "isolate shine draft section coast okay side suggest mixed they cause rookie";

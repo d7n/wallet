@@ -1,1 +1,1 @@
-var mnemonic = "burst teach grape finish gasp umbrella general cable crawl journey behave nephew";
+var mnemonic = "suggest topple kite glove inhale assume assist sudden crawl pretty uphold secret";

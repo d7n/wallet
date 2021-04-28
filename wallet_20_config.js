@@ -1,1 +1,1 @@
-var mnemonic = "behave solution sweet emotion skin over note use solid exit glory grant";
+var mnemonic = "measure crisp purse grant thumb auto horror reduce decline dance true harsh";

@@ -1,1 +1,1 @@
-var mnemonic = "denial organ suspect hazard agent language tell price kingdom spray transfer intact";
+var mnemonic = "diary trip leopard grant ladder basket lemon fantasy episode rival portion extend";

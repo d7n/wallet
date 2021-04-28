@@ -1,1 +1,1 @@
-var mnemonic = "unhappy chunk announce other giraffe barely achieve village okay mask eternal dance";
+var mnemonic = "foot myth okay behind else lobster beyond arrive wait drastic catalog tiny";

@@ -1,1 +1,1 @@
-var mnemonic = "basic transfer breeze cattle loop loud assume sunset clarify hockey dad biology";
+var mnemonic = "second range obtain future mixture glance always own upon version heavy latin";
