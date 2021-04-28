@@ -1,1 +1,1 @@
-var mnemonic = "believe kit fresh paddle quiz rose ticket glance bleak patch crew thought";
+var mnemonic = "name predict ready wealth chuckle shoe early legend snake zoo alley february";

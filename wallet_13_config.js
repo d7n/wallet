@@ -1,1 +1,1 @@
-var mnemonic = "pill open satoshi mirror riot payment average fiber twenty devote enough hollow";
+var mnemonic = "atom mad sound pink cute potato gauge choose mesh build mask stumble";

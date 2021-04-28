@@ -1,1 +1,1 @@
-var mnemonic = "exact analyst loud double scan wrap retire illegal lobster donor accident human";
+var mnemonic = "tail cousin swing kick pumpkin ozone shop armed derive rib donkey sudden";

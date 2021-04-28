@@ -1,1 +1,1 @@
-var mnemonic = "giant volcano cricket satisfy group idle milk spray toddler parade catalog decade";
+var mnemonic = "fall where truck quit various next total powder glove section tribe cram";

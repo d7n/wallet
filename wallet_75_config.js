@@ -1,1 +1,1 @@
-var mnemonic = "warrior grunt recipe apology depth retreat powder inspire arrive modify open actor";
+var mnemonic = "outdoor move antenna exhibit drama off donkey relief pair fragile make zero";

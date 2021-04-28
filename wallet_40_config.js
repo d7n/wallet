@@ -1,1 +1,1 @@
-var mnemonic = "pitch luggage assume small sea thunder news hurt invite goat face theme";
+var mnemonic = "banana gather mushroom near theme heart enemy hip book actress salon rate";

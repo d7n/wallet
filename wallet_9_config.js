@@ -1,1 +1,1 @@
-var mnemonic = "relief desert use evidence chapter collect they magnet believe guess result label";
+var mnemonic = "whip crane index exercise nasty saddle later mystery dish brother hip enrich";

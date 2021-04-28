@@ -1,1 +1,1 @@
-var mnemonic = "practice chief flavor relax match winner honey wasp dizzy reveal solve vast";
+var mnemonic = "hungry enrich spell genuine senior into age end off noise come gym";

@@ -1,1 +1,1 @@
-var mnemonic = "plate upon attitude there reason solid cluster pride dentist base width attract";
+var mnemonic = "bachelor fury around open come morning oyster topple machine discover spare clump";

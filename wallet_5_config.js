@@ -1,1 +1,1 @@
-var mnemonic = "promote acoustic crisp ancient wheel path poem mango position theme cube sick";
+var mnemonic = "powder opera crisp season title wing search crime wild fault knife feed";

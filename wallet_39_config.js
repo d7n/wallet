@@ -1,1 +1,1 @@
-var mnemonic = "skate shed wolf they exercise cram mixture rotate guitar text magnet remember";
+var mnemonic = "betray shine memory inspire fragile check letter stadium emerge west vintage october";

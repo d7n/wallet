@@ -1,1 +1,1 @@
-var mnemonic = "nest soft air moment impose result remove hub hundred twist wave ladder";
+var mnemonic = "income next venture joke couple swift reunion wood print orchard receive crumble";

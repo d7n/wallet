@@ -1,1 +1,1 @@
-var mnemonic = "convince crucial increase clay item turkey eight canvas vicious truck eye original";
+var mnemonic = "excuse illegal crime arrive oxygen easily feel elevator just anxiety spoil because";

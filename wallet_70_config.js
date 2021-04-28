@@ -1,1 +1,1 @@
-var mnemonic = "chief neutral auto will desk heavy project dust talent first vibrant forward";
+var mnemonic = "banner desert chase woman buffalo off bring swift say lawsuit damage false";

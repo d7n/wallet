@@ -1,1 +1,1 @@
-var mnemonic = "debate neglect whip embrace chunk gun music ski region engine power expose";
+var mnemonic = "electric merit finish great dish promote bachelor void leg island distance hire";

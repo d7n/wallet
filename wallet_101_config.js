@@ -1,1 +1,1 @@
-var mnemonic = "much cousin rare abuse lesson delay winner vague curve try diary vital";
+var mnemonic = "couch shy permit carpet kick candy impulse dune charge muscle more army";

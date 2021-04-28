@@ -1,1 +1,1 @@
-var mnemonic = "police series april merge toddler sick acquire rain busy bind example recipe";
+var mnemonic = "dog fuel town alter lunar tilt match remind filter immense silent goddess";

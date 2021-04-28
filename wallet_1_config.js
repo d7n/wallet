@@ -1,1 +1,1 @@
-var mnemonic = "kitchen pattern brown crime drastic dynamic husband true plate cradle mercy famous";
+var mnemonic = "divide draft exit crisp install option carpet kitten rigid farm local soda";

@@ -1,1 +1,1 @@
-var mnemonic = "response height bonus giggle actual either mask heavy clerk evolve man holiday";
+var mnemonic = "tail bunker put man food test fade skill head sick cycle material";

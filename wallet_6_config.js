@@ -1,1 +1,1 @@
-var mnemonic = "artwork crowd broccoli fall warrior wet region spell diesel famous claw frozen";
+var mnemonic = "ask walnut inherit since miracle sponsor eight wagon kidney advice table lock";

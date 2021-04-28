@@ -1,1 +1,1 @@
-var mnemonic = "promote uncover spot cat enable dwarf potato enemy morning explain merry brush";
+var mnemonic = "december work slight adult match crash portion spend capable horse grace kingdom";

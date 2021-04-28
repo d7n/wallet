@@ -1,1 +1,1 @@
-var mnemonic = "shine regular public theory now mind kingdom symbol then elite artwork spare";
+var mnemonic = "cat limit suggest rely will parrot unit amused toddler elite kingdom kit";

@@ -1,1 +1,1 @@
-var mnemonic = "thunder bone next alpha help mule boat absurd pink trim grab poet";
+var mnemonic = "move detail cattle merge zoo occur lazy title box end crawl ribbon";

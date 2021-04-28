@@ -1,1 +1,1 @@
-var mnemonic = "flush cool blast genre alcohol tool genius hammer sniff taste push broccoli";
+var mnemonic = "comfort add escape ridge unfair call swarm wheel clip claim upgrade surprise";

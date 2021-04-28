@@ -1,1 +1,1 @@
-var mnemonic = "enforce sweet knife hub view climb find scatter dwarf february bless soft";
+var mnemonic = "visit organ invest giant grit book tone setup chef holiday few arrive";

@@ -1,1 +1,1 @@
-var mnemonic = "purpose venture use hockey exist fan metal elite gauge make cute grain";
+var mnemonic = "rally despair february love wheat advice kidney message ladder exercise execute movie";

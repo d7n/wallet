@@ -1,1 +1,1 @@
-var mnemonic = "peasant despair culture stem snack river claim trigger good east prevent armor";
+var mnemonic = "unit month stay arrive absorb open salmon piano leisure card volcano rare";

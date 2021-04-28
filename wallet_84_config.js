@@ -1,1 +1,1 @@
-var mnemonic = "media goat wasp novel love quiz absorb erupt desert horror wreck guard";
+var mnemonic = "boss raw year critic buffalo rookie plastic expand maid genuine bag control";

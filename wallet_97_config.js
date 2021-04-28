@@ -1,1 +1,1 @@
-var mnemonic = "entry record episode cash walnut bottom engine insane exhaust pear grass admit";
+var mnemonic = "imitate off erosion mean stage capable hip crunch interest purity defy curve";

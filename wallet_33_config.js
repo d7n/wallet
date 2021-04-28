@@ -1,1 +1,1 @@
-var mnemonic = "fancy grass this unfold pair cart rigid flock fault slow source siren";
+var mnemonic = "icon churn ecology address mechanic pledge wrestle cloth such junk now remember";

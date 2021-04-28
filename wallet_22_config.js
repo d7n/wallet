@@ -1,1 +1,1 @@
-var mnemonic = "own length alter toy sport coconut vocal test behind soccer robust rough";
+var mnemonic = "photo leisure decorate shine maze swear husband devote able seed creek alpha";

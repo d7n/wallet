@@ -1,1 +1,1 @@
-var mnemonic = "plastic half rifle wild truck electric vibrant eyebrow sick critic slide sell";
+var mnemonic = "account similar win penalty silver symptom mixed scrub rally behave bamboo surround";

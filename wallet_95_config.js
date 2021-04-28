@@ -1,1 +1,1 @@
-var mnemonic = "police rough mutual bird gate aim subway hurry welcome effort zero upset";
+var mnemonic = "impact category common inform burden spoon release apology little brief flower broccoli";

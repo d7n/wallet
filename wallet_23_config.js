@@ -1,1 +1,1 @@
-var mnemonic = "blame warfare pet slow keen defy horn lizard embrace act excite breeze";
+var mnemonic = "skin vendor true supreme choose zoo huge teach wave aerobic cube mistake";

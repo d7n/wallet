@@ -1,1 +1,1 @@
-var mnemonic = "penalty child afraid century silver panther middle voyage mammal decide edge remember";
+var mnemonic = "remain pulp display inquiry distance usage thought cherry fly little struggle vessel";

@@ -1,1 +1,1 @@
-var mnemonic = "shiver accident distance vapor another borrow upon save recall grunt differ near";
+var mnemonic = "drum peace vintage tattoo custom hill autumn engine call narrow chimney add";

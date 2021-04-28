@@ -1,1 +1,1 @@
-var mnemonic = "joke crazy knee disorder collect moment wild shop glow half put able";
+var mnemonic = "object dress analyst rural obtain blind initial still pink style economy unknown";

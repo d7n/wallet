@@ -1,1 +1,1 @@
-var mnemonic = "regret also hotel rhythm episode law usual present frost strategy region prison";
+var mnemonic = "abstract noble slogan mesh oxygen expect snow sea perfect exercise fox nephew";

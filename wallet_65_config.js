@@ -1,1 +1,1 @@
-var mnemonic = "squeeze feature process wish cigar runway filter mass profit dove horn solve";
+var mnemonic = "loud maple prefer fine lottery pill useful final lava blind visit pelican";

@@ -1,1 +1,1 @@
-var mnemonic = "hybrid february void shoot weasel color ability spider antenna shield bacon blur";
+var mnemonic = "board cram drill sheriff okay water cabin hill riot choose destroy elegant";

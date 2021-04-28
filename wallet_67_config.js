@@ -1,1 +1,1 @@
-var mnemonic = "fossil crumble donate april adult grow frost cliff report burden exercise include";
+var mnemonic = "absurd island curve anger clap dose chalk canoe gain profit midnight leopard";

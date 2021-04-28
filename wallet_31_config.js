@@ -1,1 +1,1 @@
-var mnemonic = "travel dad naive until tennis device frame ranch sort recipe drill frost";
+var mnemonic = "saddle base visa milk float among this bind mixed spawn kit panda";

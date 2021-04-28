@@ -1,1 +1,1 @@
-var mnemonic = "solve great rare car grant swift approve seat hybrid hurdle gym envelope";
+var mnemonic = "lake page hope thrive marine imitate situate pipe grocery train gift enroll";

@@ -1,1 +1,1 @@
-var mnemonic = "one empower earn load wild shaft avoid shrimp rhythm half erode whip";
+var mnemonic = "grid true run kiss scout away addict burger fetch tunnel method woman";

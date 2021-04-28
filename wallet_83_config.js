@@ -1,1 +1,1 @@
-var mnemonic = "avoid palace menu limit popular eye wrap place sketch comfort visit census";
+var mnemonic = "rigid broccoli script bleak crop flock share assist risk make fluid birth";

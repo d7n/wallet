@@ -1,1 +1,1 @@
-var mnemonic = "wasp practice stairs cross elevator snow essay loyal arrest barrel decrease math";
+var mnemonic = "soldier immense gain slender song ten suggest candy bar exotic coast suggest";

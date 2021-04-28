@@ -1,1 +1,1 @@
-var mnemonic = "join aerobic amount aware extend despair amount tool humor scrub where gain";
+var mnemonic = "detect empty young around coconut father loan siege add artefact amateur pass";

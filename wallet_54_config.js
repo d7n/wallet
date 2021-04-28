@@ -1,1 +1,1 @@
-var mnemonic = "grab wealth garage warm hammer language boil tooth catch arch leave hire";
+var mnemonic = "gun crunch share calm hundred town film quarter chicken abuse cruel pledge";

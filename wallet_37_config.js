@@ -1,1 +1,1 @@
-var mnemonic = "absent slam pool people decade brother cattle copy brother script roast term";
+var mnemonic = "nature soldier park pumpkin photo wedding now gesture joke remember hedgehog merge";

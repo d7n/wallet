@@ -1,1 +1,1 @@
-var mnemonic = "avoid bubble narrow rhythm own labor good awake transfer concert flip bundle";
+var mnemonic = "spy bottom seek dance feature until brisk because matrix bulb wood right";

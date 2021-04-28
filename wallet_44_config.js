@@ -1,1 +1,1 @@
-var mnemonic = "sign wash view sword apology still over canoe spread critic cry fix";
+var mnemonic = "open phrase cupboard flee disease poem begin student devote dragon quit gospel";

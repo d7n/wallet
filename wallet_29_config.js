@@ -1,1 +1,1 @@
-var mnemonic = "unfair alone couple excess key plate cliff supply salon invest enroll mystery";
+var mnemonic = "arrow hungry flavor salute manage void tonight hawk swarm bus crack wrong";

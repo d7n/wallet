@@ -1,1 +1,1 @@
-var mnemonic = "aunt auto legal family spoil venue deliver flower pave globe inspire use";
+var mnemonic = "congress army retire seek struggle obscure abstract meadow praise mansion rigid oval";

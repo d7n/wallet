@@ -1,1 +1,1 @@
-var mnemonic = "fringe laptop mirror muscle mad post edge glance punch lottery boost worry";
+var mnemonic = "cost audit oil buffalo lion crime ten crew catch alpha pass begin";

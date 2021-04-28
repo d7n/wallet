@@ -1,1 +1,1 @@
-var mnemonic = "pink shove govern lottery define capital favorite brave initial young undo gospel";
+var mnemonic = "live minute whale agree mushroom poem december right reward spot mistake wait";

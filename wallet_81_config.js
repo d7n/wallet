@@ -1,1 +1,1 @@
-var mnemonic = "twenty humble tragic eager fire buzz toy park ten cost bench cave";
+var mnemonic = "empty barely great blush version odor best anchor insect eager energy horror";

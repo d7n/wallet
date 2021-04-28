@@ -1,1 +1,1 @@
-var mnemonic = "blind nest dignity embrace detect circle grab defy woman taste clip typical";
+var mnemonic = "coach pledge among snack cabin bicycle tourist song size satoshi very cheese";

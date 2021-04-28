@@ -1,1 +1,1 @@
-var mnemonic = "decline play vivid impulse ginger avoid tourist august sunny kit absent bachelor";
+var mnemonic = "zoo velvet obvious phrase guitar badge decrease spirit lunar engage catch lab";

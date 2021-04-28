@@ -1,1 +1,1 @@
-var mnemonic = "unit cat wing spoon inject zone invest enact matter moon include have";
+var mnemonic = "slot hint ancient trouble ice draw elder fat actual phone patch blur";

@@ -1,1 +1,1 @@
-var mnemonic = "bachelor walnut carry twice slogan drill immense key dignity raven because brand";
+var mnemonic = "twenty army unique boil food code frozen foot wife daughter mimic very";

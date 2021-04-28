@@ -1,1 +1,1 @@
-var mnemonic = "hospital cheap include there wagon fiber afford erosion current matrix quick steak";
+var mnemonic = "prosper bread elegant canvas panda pyramid voyage marine verb gospel same aim";

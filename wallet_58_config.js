@@ -1,1 +1,1 @@
-var mnemonic = "stock oven journey nuclear canvas dinner mushroom flee pretty ritual buzz copy";
+var mnemonic = "aim mobile such island dad ice surge tank pluck across unfold three";

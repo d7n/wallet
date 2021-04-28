@@ -1,1 +1,1 @@
-var mnemonic = "deliver train medal fade search choice limit song level thunder planet record";
+var mnemonic = "repeat latin donor expand match void garment monitor target warm crash hammer";

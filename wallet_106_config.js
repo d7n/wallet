@@ -1,1 +1,1 @@
-var mnemonic = "very dirt ritual junk shrimp broom federal turkey speak labor minimum amazing";
+var mnemonic = "involve mystery chronic claw among belt grunt duck leaf apology slender tag";

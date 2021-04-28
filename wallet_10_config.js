@@ -1,1 +1,1 @@
-var mnemonic = "visit tomato win book target next inject logic bulk tape giggle kingdom";
+var mnemonic = "wall edit lion winner hill candy describe hurdle tonight risk also ethics";

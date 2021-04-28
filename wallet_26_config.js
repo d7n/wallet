@@ -1,1 +1,1 @@
-var mnemonic = "release adult police cushion process arch hip floor sand shine unit expect";
+var mnemonic = "evil kidney clown auction census scrap video hammer artwork grid code ketchup";

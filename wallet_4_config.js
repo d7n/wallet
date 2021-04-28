@@ -1,1 +1,1 @@
-var mnemonic = "daughter hobby pattern bulk tobacco mountain cement gentle feature pave saddle cost";
+var mnemonic = "toss bicycle crunch peace emerge noble biology garment credit brass drop horn";

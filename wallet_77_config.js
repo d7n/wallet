@@ -1,1 +1,1 @@
-var mnemonic = "join mosquito claim wrist drive ticket never develop casino measure wrestle pony";
+var mnemonic = "jacket coin hockey virtual spoil minute double pride leisure gap minute fall";

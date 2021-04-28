@@ -1,1 +1,1 @@
-var mnemonic = "force client material evolve stone valley occur web rude regular price relief";
+var mnemonic = "road nephew tool strong suspect receive auto pattern echo talent twenty gas";

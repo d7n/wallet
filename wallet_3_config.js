@@ -1,1 +1,1 @@
-var mnemonic = "just nation decrease hawk point doctor waste damage sense excite shop virus";
+var mnemonic = "doll consider struggle polar spatial jazz intact color rotate daughter clean future";

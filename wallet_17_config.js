@@ -1,1 +1,1 @@
-var mnemonic = "simple snake control clever today remember fan suffer final bottom phrase person";
+var mnemonic = "document moon bridge breeze already struggle mother sphere unit tackle guide spy";

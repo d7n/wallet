@@ -1,1 +1,1 @@
-var mnemonic = "random wait owner cousin try erode speak rent solution ranch census envelope";
+var mnemonic = "jungle cotton clutch text decade discover upper script diagram staff treat run";

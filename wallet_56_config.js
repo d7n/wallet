@@ -1,1 +1,1 @@
-var mnemonic = "rely jump property conduct spawn maze door panther inherit idle luxury universe";
+var mnemonic = "design first conduct success neither patch someone caught midnight lab clerk since";

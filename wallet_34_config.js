@@ -1,1 +1,1 @@
-var mnemonic = "burden pottery favorite saddle cash bid bring dolphin cover hidden egg welcome";
+var mnemonic = "rifle boring trend praise renew kiwi chase behind castle target loan muffin";

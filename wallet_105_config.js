@@ -1,1 +1,1 @@
-var mnemonic = "venue unfair author health involve usage clog post intact nasty police lava";
+var mnemonic = "twenty royal prison depend win comic shrug clock buffalo shoulder wire card";

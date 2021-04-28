@@ -1,1 +1,1 @@
-var mnemonic = "zoo scrub eagle desert arrive nature brown fan critic often target regular";
+var mnemonic = "social indoor soap appear jacket front trick tower office way wood movie";

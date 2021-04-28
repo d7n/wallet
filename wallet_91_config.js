@@ -1,1 +1,1 @@
-var mnemonic = "bridge enter what pitch various lady chest just copy faith race matrix";
+var mnemonic = "figure budget attitude during sight peanut strike embark tube stock hurt able";

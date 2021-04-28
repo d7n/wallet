@@ -1,1 +1,1 @@
-var mnemonic = "lumber either gospel bamboo square ski enrich brown state soon guess elephant";
+var mnemonic = "dragon rate hurdle carpet bus only paper decide chunk dial company observe";

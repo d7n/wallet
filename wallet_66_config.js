@@ -1,1 +1,1 @@
-var mnemonic = "squeeze stable hour target apology couple quick derive box token wolf describe";
+var mnemonic = "magnet scrub mirror bench clip pony hospital captain fringe chunk rally fringe";

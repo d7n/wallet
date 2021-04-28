@@ -1,1 +1,1 @@
-var mnemonic = "memory survey file swim oil radio vocal rug pig guard tired chase";
+var mnemonic = "audit step bronze apple apple exhaust dial hire below scare episode company";

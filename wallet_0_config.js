@@ -1,1 +1,1 @@
-var mnemonic = "vacant timber peasant awful rhythm crime marriage aerobic page indicate friend tube";
+var mnemonic = "vanish melt angry title despair pink improve rapid admit smile science pen";

@@ -1,1 +1,1 @@
-var mnemonic = "escape arrange reason occur inflict nasty glow series safe armed cream until";
+var mnemonic = "innocent fade select harsh marine doll race increase harsh brief permit cricket";

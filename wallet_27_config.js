@@ -1,1 +1,1 @@
-var mnemonic = "picture witness glass robot goat pony forest disease label citizen afford satoshi";
+var mnemonic = "average desert brave current season table extend supply twelve practice sketch curtain";

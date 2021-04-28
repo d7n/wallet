@@ -1,1 +1,1 @@
-var mnemonic = "fat sentence soda legal connect shoulder inhale discover caught level hill alter";
+var mnemonic = "announce wild curious bike business skin picture silk this sheriff nasty pride";

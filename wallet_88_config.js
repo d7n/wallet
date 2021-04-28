@@ -1,1 +1,1 @@
-var mnemonic = "safe funny popular husband turn catalog gasp merit cattle marine window modify";
+var mnemonic = "avocado rocket you decorate busy match message language bottom nose ordinary keen";

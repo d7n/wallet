@@ -1,1 +1,1 @@
-var mnemonic = "industry erosion return among ethics loan sad random ranch early judge gather";
+var mnemonic = "hybrid guitar beach raccoon account easy tilt hybrid resist impact march iron";

@@ -1,1 +1,1 @@
-var mnemonic = "farm excuse catalog apology please also short tiny upgrade risk debris autumn";
+var mnemonic = "air execute spider remind lady frost creek cage metal puppy ready wrist";

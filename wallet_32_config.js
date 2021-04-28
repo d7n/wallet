@@ -1,1 +1,1 @@
-var mnemonic = "exhaust donor valley wire comfort because debate cost story radar gasp diamond";
+var mnemonic = "whisper slush present resemble whip arch resist crop april fan rocket logic";

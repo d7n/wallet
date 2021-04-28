@@ -1,1 +1,1 @@
-var mnemonic = "armed mistake eagle lunch frost crucial trade mushroom ride prison dune gospel";
+var mnemonic = "asthma room rural destroy absurd fish empty survey debate spy carry saddle";

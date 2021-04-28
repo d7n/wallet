@@ -1,1 +1,1 @@
-var mnemonic = "grant save legal run source pool balance tribe alter analyst kiwi chest";
+var mnemonic = "boring cricket like essay suspect interest iron random bonus trim replace imitate";

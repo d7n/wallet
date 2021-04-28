@@ -1,1 +1,1 @@
-var mnemonic = "govern crash warfare minor grow property fit broken chronic rough flag awkward";
+var mnemonic = "pink salon genuine kind mountain lamp window confirm castle amazing retreat hollow";

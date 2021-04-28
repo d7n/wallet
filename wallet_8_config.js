@@ -1,1 +1,1 @@
-var mnemonic = "crew bind ramp crazy physical pistol essence coast cigar risk hold shoot";
+var mnemonic = "cancel riot enlist used ecology little pilot inmate door unit cradle early";

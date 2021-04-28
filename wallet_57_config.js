@@ -1,1 +1,1 @@
-var mnemonic = "stick tide bundle harbor brother permit idle link lion this reform bridge";
+var mnemonic = "ribbon badge payment unhappy volcano banana october grocery object era kangaroo success";

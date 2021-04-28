@@ -1,1 +1,1 @@
-var mnemonic = "slogan boy pitch layer limb magnet own attract sister lion record action";
+var mnemonic = "early bind subway whisper abandon sign one noodle table shield brain trip";

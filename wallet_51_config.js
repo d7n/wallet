@@ -1,1 +1,1 @@
-var mnemonic = "bulb magic protect domain hat worry message total start ask expire beach";
+var mnemonic = "faint excuse habit satoshi very scrub notable warm verb rabbit wood stable";

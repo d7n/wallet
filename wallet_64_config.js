@@ -1,1 +1,1 @@
-var mnemonic = "frog wolf rough device orphan athlete fury security program gym slice vault";
+var mnemonic = "kit inside video whisper dove pledge solution luggage umbrella draw tail beef";

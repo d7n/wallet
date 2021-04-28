@@ -1,1 +1,1 @@
-var mnemonic = "view cream chef parent faculty seat used piano sport sample thought exhibit";
+var mnemonic = "alpha donate crush cheese gallery essence river cabbage wisdom umbrella polar ripple";

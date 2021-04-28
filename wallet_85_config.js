@@ -1,1 +1,1 @@
-var mnemonic = "gentle steel easily memory champion zone picnic island waste fire spawn elite";
+var mnemonic = "grunt check convince virtual derive erupt push floor digital rally know ladder";
