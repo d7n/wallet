@@ -1,1 +1,1 @@
-var mnemonic = "stone detail source odor electric unknown coconut dragon lawsuit wide obscure crime";
+var mnemonic = "ahead weasel party order faint shadow body forward dismiss shell talent recall";

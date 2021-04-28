@@ -1,1 +1,1 @@
-var mnemonic = "century equal ride large naive clump accuse people maid fashion model balcony";
+var mnemonic = "black wall save matter cabbage soda common fiber powder secret strong keen";

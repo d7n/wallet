@@ -1,1 +1,1 @@
-var mnemonic = "trouble release vocal volume kingdom wink recall tool leg army nose rookie";
+var mnemonic = "biology chicken inherit truly slender air cycle pass obvious black ceiling cup";

@@ -1,1 +1,1 @@
-var mnemonic = "vivid genius upset glue situate steak entry pass brick choice laptop canvas";
+var mnemonic = "once session impact wide elite law pony festival window there silk sea";

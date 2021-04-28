@@ -1,1 +1,1 @@
-var mnemonic = "valid mad cash legend bomb sugar snap use produce tray lamp alcohol";
+var mnemonic = "core dynamic network arm soul age soap pool mixed cry today bracket";

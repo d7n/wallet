@@ -1,1 +1,1 @@
-var mnemonic = "this check hunt zebra fury replace expose hurdle leopard subject dentist sweet";
+var mnemonic = "gloom hurdle fine organ antique distance flat fix diary stuff mesh tree";

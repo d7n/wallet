@@ -1,1 +1,1 @@
-var mnemonic = "ladder waste matrix area uniform detect catch huge lady stay puppy light";
+var mnemonic = "child way there bracket exit worry only current theme universe town couple";

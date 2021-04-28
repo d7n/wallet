@@ -1,1 +1,1 @@
-var mnemonic = "moon goddess chimney lawsuit improve maze olive vital butter fine teach loop";
+var mnemonic = "car roast soup search whip solid carbon yellow tip glass robot moment";

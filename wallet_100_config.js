@@ -1,1 +1,1 @@
-var mnemonic = "shadow cheese comfort benefit marine venture best topic spider gown arrange desert";
+var mnemonic = "goat giraffe sort antenna sadness dignity host hard rice nuclear injury you";

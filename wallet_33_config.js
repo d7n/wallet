@@ -1,1 +1,1 @@
-var mnemonic = "casual chair grow pencil calm mosquito topple false retire produce pool wide";
+var mnemonic = "web shoot wisdom coach boat cattle hope swallow doctor pledge sentence polar";

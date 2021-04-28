@@ -1,1 +1,1 @@
-var mnemonic = "copy potato flat venue region select teach rocket coffee act fold embark";
+var mnemonic = "brick stick drastic basket glad juice very explain uncover drip mesh clever";

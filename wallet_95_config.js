@@ -1,1 +1,1 @@
-var mnemonic = "marble ribbon leisure cable film inspire normal vacuum shallow orphan broccoli misery";
+var mnemonic = "reunion disease much there child draft melt reject autumn crowd develop prize";

@@ -1,1 +1,1 @@
-var mnemonic = "accuse swear tag organ state bomb slide minimum sun afford rifle wash";
+var mnemonic = "then illness pumpkin magnet island toddler april glad become fish oven guard";

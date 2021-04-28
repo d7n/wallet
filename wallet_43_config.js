@@ -1,1 +1,1 @@
-var mnemonic = "orange shed banner sick force final know scissors field sing spell magnet";
+var mnemonic = "avoid inject feed crime dry boring that mule west ship glory glory";

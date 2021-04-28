@@ -1,1 +1,1 @@
-var mnemonic = "cousin salon lemon bulb wash door online dust thing differ ski vault";
+var mnemonic = "photo canvas salon boss bind derive donor exhibit lounge flip soda ten";

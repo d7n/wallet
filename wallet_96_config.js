@@ -1,1 +1,1 @@
-var mnemonic = "multiply age knock fly present swallow forward become rough spend security march";
+var mnemonic = "glue fiction pilot gown dwarf impact acoustic way nasty release flat notice";

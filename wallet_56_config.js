@@ -1,1 +1,1 @@
-var mnemonic = "kid carbon boat reason smooth lion cram push nature drive tornado torch";
+var mnemonic = "leisure attack clutch review account jar heavy evidence table coin demand forum";

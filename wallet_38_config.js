@@ -1,1 +1,1 @@
-var mnemonic = "bomb hockey weekend outdoor basket soft fence super cabin sick grain mixture";
+var mnemonic = "suspect obvious good burst decide tortoise animal pulp ready shy gap nest";

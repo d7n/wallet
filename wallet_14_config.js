@@ -1,1 +1,1 @@
-var mnemonic = "unaware glass airport spike retreat cricket escape derive border sweet bulk mushroom";
+var mnemonic = "prefer furnace scout tomato vault sugar secret amused climb now agent broken";

@@ -1,1 +1,1 @@
-var mnemonic = "rotate use egg umbrella clarify cluster visit drop budget smooth village spend";
+var mnemonic = "wave ghost essence tip because domain peace dinner witness vacant absent neutral";

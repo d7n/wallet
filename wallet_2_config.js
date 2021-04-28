@@ -1,1 +1,1 @@
-var mnemonic = "stay flight possible rain page author mass whale average shiver club match";
+var mnemonic = "floor brass enter enforce kid salute salute close abandon opera casino catch";

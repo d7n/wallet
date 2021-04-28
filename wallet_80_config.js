@@ -1,1 +1,1 @@
-var mnemonic = "net divorce garbage industry hawk piano donor logic home faculty toward abandon";
+var mnemonic = "segment script choose pizza foil double decline fiber lobster verify term win";

@@ -1,1 +1,1 @@
-var mnemonic = "feed sibling firm oval mad aerobic fantasy parent labor shaft feature today";
+var mnemonic = "keep gorilla tired accuse eyebrow job sock title virtual zero talent omit";

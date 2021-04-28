@@ -1,1 +1,1 @@
-var mnemonic = "floor addict similar ivory camp shrug short menu meat sentence toe luggage";
+var mnemonic = "episode marble brisk breeze defense ivory bind wrap sand pipe observe spend";

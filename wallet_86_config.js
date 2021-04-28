@@ -1,1 +1,1 @@
-var mnemonic = "phone moment cup legend secret bracket swim mule insect banner ghost noble";
+var mnemonic = "tobacco tooth output rocket humor fun soft vibrant lounge mom tilt gallery";

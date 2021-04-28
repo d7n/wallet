@@ -1,1 +1,1 @@
-var mnemonic = "dignity employ expose celery meat blanket shiver jeans naive measure develop uniform";
+var mnemonic = "fork borrow educate write tube like code eyebrow tilt memory sniff original";

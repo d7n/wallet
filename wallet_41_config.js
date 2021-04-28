@@ -1,1 +1,1 @@
-var mnemonic = "almost gap floor hint apart reason blind mansion bounce olive allow mass";
+var mnemonic = "crumble screen drive since stairs olive during world debris involve left loop";

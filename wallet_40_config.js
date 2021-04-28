@@ -1,1 +1,1 @@
-var mnemonic = "mother wool disease exact success kit auction electric north wreck view moment";
+var mnemonic = "keen brush before speak grain exhibit demand inside coral year dove embody";

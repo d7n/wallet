@@ -1,1 +1,1 @@
-var mnemonic = "then flush mule decide dad impact shadow sweet traffic clinic toast liquid";
+var mnemonic = "movie scout agent secret decade audit deal decide bamboo caution network tuna";

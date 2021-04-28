@@ -1,1 +1,1 @@
-var mnemonic = "seek badge pool call under body cheese medal together basic dolphin exercise";
+var mnemonic = "tattoo opinion link hub drift title olympic disease ketchup cradle act box";

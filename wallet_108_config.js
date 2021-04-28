@@ -1,1 +1,1 @@
-var mnemonic = "ticket method gun guard blue gravity grab before gorilla deer shuffle entire";
+var mnemonic = "course diet media you pool tonight autumn useful car target normal school";

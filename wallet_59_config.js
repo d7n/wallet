@@ -1,1 +1,1 @@
-var mnemonic = "zebra exchange flower kite column such dune attend hybrid boil merry all";
+var mnemonic = "budget link output sponsor elegant sponsor tip alone aisle aerobic kitchen wisdom";

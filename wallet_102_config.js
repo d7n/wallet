@@ -1,1 +1,1 @@
-var mnemonic = "domain city provide rebuild awake find disorder cherry ship vibrant favorite rubber";
+var mnemonic = "income matrix parent used cancel fragile protect pear theory belt funny pottery";

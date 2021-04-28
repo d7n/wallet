@@ -1,1 +1,1 @@
-var mnemonic = "upon property ordinary spoil dove fetch service hunt uniform laugh gather tunnel";
+var mnemonic = "issue august silly ready safe state luxury canyon ski steel crush power";

@@ -1,1 +1,1 @@
-var mnemonic = "cake detail dwarf frequent young bundle leisure thrive heart tennis symbol lazy";
+var mnemonic = "wreck moral tube maze kangaroo ordinary ketchup increase robust cattle toddler manage";

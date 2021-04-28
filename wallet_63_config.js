@@ -1,1 +1,1 @@
-var mnemonic = "ladder indoor stairs deposit panic wire owner fuel parrot cruel consider blood";
+var mnemonic = "hire witness rug escape cluster step citizen decorate cheese october crisp evolve";

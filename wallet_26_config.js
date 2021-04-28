@@ -1,1 +1,1 @@
-var mnemonic = "ghost call rare forget notice marble creek report shed silly nominee inherit";
+var mnemonic = "steel bomb addict comic hurdle robust fat sun grunt hub extend staff";

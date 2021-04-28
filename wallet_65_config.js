@@ -1,1 +1,1 @@
-var mnemonic = "duck bring impact hundred cake then expose spatial victory pear catch trade";
+var mnemonic = "stem science employ strategy glare inquiry desk almost cook balcony resist dumb";

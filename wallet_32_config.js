@@ -1,1 +1,1 @@
-var mnemonic = "walnut hello float convince case retreat roast keep trouble enact filter later";
+var mnemonic = "clinic various lizard fury invite clay miss viable galaxy debris volcano spoil";

@@ -1,1 +1,1 @@
-var mnemonic = "muscle caught salute lobster online quality staff session seminar rigid ice material";
+var mnemonic = "input trial online vicious gesture ocean paper permit naive someone clerk nice";

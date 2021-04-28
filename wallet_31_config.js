@@ -1,1 +1,1 @@
-var mnemonic = "remember section cause road pill more empty pet lecture boat wheat sheriff";
+var mnemonic = "summer nurse twist salon cash rely cereal circle control walnut rural sphere";

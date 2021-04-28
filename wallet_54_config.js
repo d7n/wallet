@@ -1,1 +1,1 @@
-var mnemonic = "jungle penalty program female shine silly gym exhibit grocery agent raw scorpion";
+var mnemonic = "void wasp small blast general syrup game charge give truth limit flower";

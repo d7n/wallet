@@ -1,1 +1,1 @@
-var mnemonic = "impulse virtual whip insane carbon room open bonus settle city fly century";
+var mnemonic = "erupt author food middle cradle another slush pink order damp arch disorder";

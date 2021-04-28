@@ -1,1 +1,1 @@
-var mnemonic = "dice sample avoid garage foam uncover ball story cupboard capable child mandate";
+var mnemonic = "disease rifle strategy blur argue pepper ghost fruit intact rice indicate raccoon";

@@ -1,1 +1,1 @@
-var mnemonic = "odor boss cliff clerk oil middle cram caution crisp sphere abuse sheriff";
+var mnemonic = "crazy bulb orange evoke penalty repair tiny decide welcome pottery faith bus";

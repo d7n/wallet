@@ -1,1 +1,1 @@
-var mnemonic = "swing neck measure hover grunt novel cloth report urge farm another royal";
+var mnemonic = "long cherry thunder panic rent swamp great scout rubber call inject ignore";

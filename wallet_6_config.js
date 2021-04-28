@@ -1,1 +1,1 @@
-var mnemonic = "loud plug asthma drama delay lecture country pitch kitchen seat believe blue";
+var mnemonic = "snow indicate correct paper loyal job multiply soul knee december spend slab";

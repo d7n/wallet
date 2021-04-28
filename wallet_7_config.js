@@ -1,1 +1,1 @@
-var mnemonic = "stem globe garbage script vessel twin fresh butter rapid they rib frost";
+var mnemonic = "next subject cheap drill example work assault aisle sight lava replace moral";

@@ -1,1 +1,1 @@
-var mnemonic = "expose cluster filter copy rich slab obscure stuff issue vehicle category various";
+var mnemonic = "venture fitness emotion scrub crack asset federal enlist lizard simple unaware zoo";

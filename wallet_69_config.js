@@ -1,1 +1,1 @@
-var mnemonic = "change case matter render link parade bunker explain duty admit pole warrior";
+var mnemonic = "slogan trip social charge dust breeze leaf diary crunch meat butter egg";

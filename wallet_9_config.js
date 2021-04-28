@@ -1,1 +1,1 @@
-var mnemonic = "enlist joke result pluck detail level flock tuna flee royal ozone pyramid";
+var mnemonic = "hospital raw slam blue crew fiction coach awesome tuition assume raven stem";

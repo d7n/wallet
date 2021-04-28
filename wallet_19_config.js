@@ -1,1 +1,1 @@
-var mnemonic = "royal master safe engage sight eternal animal diet skate memory twenty rely";
+var mnemonic = "margin chief equip stick bargain derive index live depart put gallery pistol";

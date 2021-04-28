@@ -1,1 +1,1 @@
-var mnemonic = "topple recall unit retreat wise swamp cinnamon clock total able ghost army";
+var mnemonic = "gun erode fox unfold asthma joke kitten smile educate whip like custom";

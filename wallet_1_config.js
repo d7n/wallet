@@ -1,1 +1,1 @@
-var mnemonic = "category flush select slim never twenty recall flush mimic harvest piano hip";
+var mnemonic = "chief almost slush donkey muffin hungry will receive cradle cloud whale melody";

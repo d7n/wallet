@@ -1,1 +1,1 @@
-var mnemonic = "screen keen tower include strategy anchor tail daring lift topic lyrics hotel";
+var mnemonic = "exercise abandon vintage elegant vital ride dumb primary tent despair draw empty";

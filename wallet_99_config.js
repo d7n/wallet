@@ -1,1 +1,1 @@
-var mnemonic = "mechanic age lion mercy pigeon initial choose album poem inject push family";
+var mnemonic = "beyond effort bomb soul myth key breeze bike once liar cushion device";

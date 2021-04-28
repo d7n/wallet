@@ -1,1 +1,1 @@
-var mnemonic = "present swing version enable nothing clay abuse verb employ person february easy";
+var mnemonic = "flat obey capital motor hunt check jazz shop permit script viable coach";

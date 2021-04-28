@@ -1,1 +1,1 @@
-var mnemonic = "mean avocado worry universe team raccoon pen winter truck milk artwork clinic";
+var mnemonic = "until essence tilt bless flight beyond sad shiver essay rely purpose sound";

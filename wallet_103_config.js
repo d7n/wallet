@@ -1,1 +1,1 @@
-var mnemonic = "humble milk cruel draw sign room immune lend expire strike define fresh";
+var mnemonic = "brick rather wood noise undo task filter swear achieve tray return marble";

@@ -1,1 +1,1 @@
-var mnemonic = "brisk swap fresh across decline meat dust worry fossil observe brush catalog";
+var mnemonic = "curve goose skin puppy rate reform verify mean pioneer mention audit cargo";

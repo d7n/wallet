@@ -1,1 +1,1 @@
-var mnemonic = "bone sketch frown amazing arctic cloth venture dynamic orange teach season brown";
+var mnemonic = "hope brown glide monitor myself strong retreat company industry income true fine";

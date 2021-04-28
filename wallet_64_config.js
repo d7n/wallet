@@ -1,1 +1,1 @@
-var mnemonic = "cereal agree episode mixed pigeon suggest visual clip raven upper humble flavor";
+var mnemonic = "tower insane giant what stamp debris gather private scatter ceiling neutral quiz";

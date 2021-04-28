@@ -1,1 +1,1 @@
-var mnemonic = "range term half salmon casino deposit trend moment village casino initial when";
+var mnemonic = "neither ill client woman genuine run eyebrow remain lounge material shiver civil";

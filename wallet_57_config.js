@@ -1,1 +1,1 @@
-var mnemonic = "planet stomach rapid arrest farm upper main other home impact prosper shell";
+var mnemonic = "pottery bless found sail situate middle force hamster winner library negative provide";

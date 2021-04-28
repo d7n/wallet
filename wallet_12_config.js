@@ -1,1 +1,1 @@
-var mnemonic = "spatial swarm process decline number tenant bundle lemon skull blame lizard slogan";
+var mnemonic = "life version perfect flight gaze level cargo insect slight stage claim arrest";

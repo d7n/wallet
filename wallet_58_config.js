@@ -1,1 +1,1 @@
-var mnemonic = "where reject left side police audit silly panel more piece fire author";
+var mnemonic = "empower cradle always direct tank want pause cool fragile small inflict spin";

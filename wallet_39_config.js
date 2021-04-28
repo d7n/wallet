@@ -1,1 +1,1 @@
-var mnemonic = "comic multiply miss bird faint argue awful tiny poet powder city height";
+var mnemonic = "road tooth crane crew relax voice stay barrel dust stool pill topic";

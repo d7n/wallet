@@ -1,1 +1,1 @@
-var mnemonic = "debris reason coach soul faculty update fly bar still physical page uncle";
+var mnemonic = "language meadow child green apart angle soul permit miss luxury material father";

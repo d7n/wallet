@@ -1,1 +1,1 @@
-var mnemonic = "bulk crack candy depart universe rifle mad ranch hunt blast firm cotton";
+var mnemonic = "delay advance tooth slender abuse spy budget habit junior vintage lizard nut";

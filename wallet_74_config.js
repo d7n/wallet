@@ -1,1 +1,1 @@
-var mnemonic = "weather wrong gadget beach foot million split boil jump cannon leaf injury";
+var mnemonic = "enter script spring police lift rookie afford blur what seminar mesh sibling";

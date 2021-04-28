@@ -1,1 +1,1 @@
-var mnemonic = "ill sign oven clump coconut satisfy equip nature buzz favorite game credit";
+var mnemonic = "solution drift visit space ostrich bulk volume calm design tomorrow wire reason";

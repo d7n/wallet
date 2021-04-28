@@ -1,1 +1,1 @@
-var mnemonic = "language such donor letter wood furnace coral where team damp canoe update";
+var mnemonic = "cube beach identify buffalo creek harbor stairs monster media room display punch";

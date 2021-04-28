@@ -1,1 +1,1 @@
-var mnemonic = "owner arm ceiling delay disorder couple suggest just gas coil canal fringe";
+var mnemonic = "cable skirt destroy monster appear exclude sustain quiz issue april sentence illness";

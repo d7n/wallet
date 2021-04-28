@@ -1,1 +1,1 @@
-var mnemonic = "model battle love trial later erode raven industry cabin good square hurt";
+var mnemonic = "armor cake neck protect symbol hungry eight view giggle later feature dwarf";

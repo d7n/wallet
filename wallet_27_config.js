@@ -1,1 +1,1 @@
-var mnemonic = "swamp erase embody visit sponsor valve stumble purse detect antique luxury quality";
+var mnemonic = "trouble bottom second rescue gun banana math arena process host laptop hair";

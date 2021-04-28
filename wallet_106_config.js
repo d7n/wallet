@@ -1,1 +1,1 @@
-var mnemonic = "diesel feature space clip army near method mixture fiction once repair satisfy";
+var mnemonic = "holiday vicious blame maze post kite chapter exist lamp idea very grief";

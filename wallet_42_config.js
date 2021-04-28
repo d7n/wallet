@@ -1,1 +1,1 @@
-var mnemonic = "pond mansion eight govern select owner annual prison will index genuine domain";
+var mnemonic = "mask outside forward orbit one uncover shrug today grass below trust ring";

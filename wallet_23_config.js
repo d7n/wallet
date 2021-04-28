@@ -1,1 +1,1 @@
-var mnemonic = "canoe child three now follow wheat wool approve double first step wreck";
+var mnemonic = "excess shed ancient sniff knife salute nuclear record between phone run during";

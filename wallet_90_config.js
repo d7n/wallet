@@ -1,1 +1,1 @@
-var mnemonic = "heavy shove pupil vapor issue carbon sauce novel pioneer robust else lecture";
+var mnemonic = "sick cotton dismiss liar dilemma fatal ridge receive target rain aspect autumn";

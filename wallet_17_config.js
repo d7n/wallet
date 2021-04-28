@@ -1,1 +1,1 @@
-var mnemonic = "faith stadium wagon orient adapt record renew unit dignity silver seminar miracle";
+var mnemonic = "argue top dog cabbage legal task humor motor illegal bronze chat jeans";

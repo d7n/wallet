@@ -1,1 +1,1 @@
-var mnemonic = "two buffalo educate endless valve occur trouble spread cable panic unaware hello";
+var mnemonic = "magnet wheel shell salmon stay vicious hero history shed rapid beyond hello";

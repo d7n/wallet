@@ -1,1 +1,1 @@
-var mnemonic = "pool they siren interest fatal miss syrup affair hill garlic category harbor";
+var mnemonic = "what warfare apart birth able layer monitor vacant sense knock opinion fee";

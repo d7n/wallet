@@ -1,1 +1,1 @@
-var mnemonic = "fortune speak shy picnic leader bachelor comic zone circle frequent dignity shoot";
+var mnemonic = "switch fish depth cliff liberty donkey cake bird goat chat embrace gym";

@@ -1,1 +1,1 @@
-var mnemonic = "drastic memory snake craft gate gentle notice inject tomato twenty essay lawsuit";
+var mnemonic = "start trap earn now transfer again home horn enable walk fabric march";

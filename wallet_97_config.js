@@ -1,1 +1,1 @@
-var mnemonic = "ring spoon tourist neutral wonder museum course axis since smile casual fall";
+var mnemonic = "buddy cook helmet friend weather sausage fortune salon course misery can before";

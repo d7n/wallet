@@ -1,1 +1,1 @@
-var mnemonic = "turn poem quantum problem fault slim roof excite critic auto use come";
+var mnemonic = "advance keep evidence better angry weapon club ability trumpet shy final hero";

@@ -1,1 +1,1 @@
-var mnemonic = "bleak stem voice champion thunder student noise mix enough modify state unusual";
+var mnemonic = "theme rude library pig adjust toy apology grief average solution portion ribbon";

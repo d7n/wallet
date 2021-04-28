@@ -1,1 +1,1 @@
-var mnemonic = "learn island where gentle pass paper depth number habit second ramp goddess";
+var mnemonic = "army lucky bronze minute cloud exercise kingdom year police impulse borrow oyster";

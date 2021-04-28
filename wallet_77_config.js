@@ -1,1 +1,1 @@
-var mnemonic = "april elevator struggle visual will orange amount kiss antenna valve drive cool";
+var mnemonic = "shove column vintage used rose staff inch best picture tube among festival";

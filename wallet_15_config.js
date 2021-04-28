@@ -1,1 +1,1 @@
-var mnemonic = "prefer end warfare grow scene away attack derive expire glare direct long";
+var mnemonic = "excess spot meat ceiling there ritual use write crazy hammer life tray";

@@ -1,1 +1,1 @@
-var mnemonic = "spread come price pretty rare immense path task clip fence easily feature";
+var mnemonic = "sniff brave stairs gasp hover mixed jewel leg skate mimic lock turkey";
