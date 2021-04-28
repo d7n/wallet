@@ -1,1 +1,1 @@
-var mnemonic = "cheese also useless divorce jar indoor cruise wash abandon shift repeat robust";
+var mnemonic = "sibling super ladder junior mind imitate december romance chuckle undo victory onion";

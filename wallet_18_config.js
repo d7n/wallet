@@ -1,1 +1,1 @@
-var mnemonic = "century wink lucky soap neither artist refuse sword category orange galaxy attitude";
+var mnemonic = "blade cousin push before crawl purchase faint unaware arrow hungry squeeze anxiety";

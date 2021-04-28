@@ -1,1 +1,1 @@
-var mnemonic = "portion always lawsuit fence fall orange grow jump south bachelor coyote typical";
+var mnemonic = "acoustic symptom round leg route already reward wire venue junk submit water";

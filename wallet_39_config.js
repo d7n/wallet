@@ -1,1 +1,1 @@
-var mnemonic = "plastic side large power wire canal rule wheel outer bronze height suggest";
+var mnemonic = "imitate flush display split special honey various group monster dwarf tape provide";

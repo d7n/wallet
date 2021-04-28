@@ -1,1 +1,1 @@
-var mnemonic = "already first height lunar price indoor echo envelope accident move innocent story";
+var mnemonic = "crazy correct economy flight group disorder buddy punch hold isolate burger inquiry";

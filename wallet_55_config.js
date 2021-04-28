@@ -1,1 +1,1 @@
-var mnemonic = "project first robust vast enter business company limb leisure asthma design vapor";
+var mnemonic = "gloom opinion sea devote attack peace rack catalog october super bunker input";

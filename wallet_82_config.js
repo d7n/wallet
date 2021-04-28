@@ -1,1 +1,1 @@
-var mnemonic = "diesel where crouch cage april pretty battle orbit mosquito hand mother math";
+var mnemonic = "float squirrel fence good wine dune license orbit seed erase gesture arch";

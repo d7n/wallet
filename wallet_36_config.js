@@ -1,1 +1,1 @@
-var mnemonic = "apple call inspire come fury priority run bean chief share broom elegant";
+var mnemonic = "outside hand one journey lottery net salt plate era sense regret knife";

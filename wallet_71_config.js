@@ -1,1 +1,1 @@
-var mnemonic = "giant physical parrot accuse sense lawn puppy laugh robust ability best bean";
+var mnemonic = "chronic rail elder flower text win employ renew rose erase blanket country";

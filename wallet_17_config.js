@@ -1,1 +1,1 @@
-var mnemonic = "sail shallow panel fiber rib live olympic eagle senior disorder ritual mesh";
+var mnemonic = "rude jelly hurt world fruit normal bid echo fitness already caution undo";

@@ -1,1 +1,1 @@
-var mnemonic = "develop barely viable current ripple impose fox owner cluster height devote glare";
+var mnemonic = "actress barrel song rice surprise become fuel toss orange erode wing spray";

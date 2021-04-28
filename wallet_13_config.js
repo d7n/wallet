@@ -1,1 +1,1 @@
-var mnemonic = "illegal advice affair negative task scan harvest path leave awake post kind";
+var mnemonic = "van trip spot knee riot input bargain napkin skate harsh foot crisp";

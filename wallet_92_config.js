@@ -1,1 +1,1 @@
-var mnemonic = "unusual injury trust song letter road grant rocket unaware repair march make";
+var mnemonic = "hire list problem february tissue cricket carbon when alter river female mirror";

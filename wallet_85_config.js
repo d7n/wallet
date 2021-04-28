@@ -1,1 +1,1 @@
-var mnemonic = "hazard century upset hard before bicycle blue ginger vote winter flee tunnel";
+var mnemonic = "math okay require virus baby damage catalog cushion mystery cup lucky version";

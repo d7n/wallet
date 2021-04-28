@@ -1,1 +1,1 @@
-var mnemonic = "census enhance bottom wrist author type exile fee mom warrior onion success";
+var mnemonic = "cook truth six fly there arctic sheriff salmon question vote identify much";

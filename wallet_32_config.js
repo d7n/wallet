@@ -1,1 +1,1 @@
-var mnemonic = "nature pride horn pond coach upset online hand bright harvest knife provide";
+var mnemonic = "finger force camp heart board they pause volcano cause tube ten jealous";

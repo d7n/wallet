@@ -1,1 +1,1 @@
-var mnemonic = "verb prize weapon gasp slab key weekend artist horse spice kitten snake";
+var mnemonic = "river reject try scout invite wrestle acid fever cabbage unique coil either";

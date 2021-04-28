@@ -1,1 +1,1 @@
-var mnemonic = "inmate dragon twice faculty turn glare drip vocal gap document rather hawk";
+var mnemonic = "zoo lunch pink boost garbage armor lounge repair genuine eagle can shed";

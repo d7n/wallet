@@ -1,1 +1,1 @@
-var mnemonic = "frequent destroy fiber kite fade fox business agree donor burst host time";
+var mnemonic = "machine neutral fabric topple pigeon sting gold deer spray enhance patient shaft";

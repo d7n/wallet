@@ -1,1 +1,1 @@
-var mnemonic = "clown hobby armed legend plug blood shaft immense record ghost jewel twin";
+var mnemonic = "unaware auction tenant give cattle cake glad output culture color coast sphere";

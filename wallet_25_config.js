@@ -1,1 +1,1 @@
-var mnemonic = "steak allow nose lizard safe cinnamon marble obtain pupil repeat blush celery";
+var mnemonic = "kidney impact shift pledge bomb pact hurt ensure debris improve spring mother";

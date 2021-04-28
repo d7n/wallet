@@ -1,1 +1,1 @@
-var mnemonic = "frequent marine frown coast click cradle stay baby candy choose stay broccoli";
+var mnemonic = "nominee major master laundry regular drink icon spoil certain debate prize shove";

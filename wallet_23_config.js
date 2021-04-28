@@ -1,1 +1,1 @@
-var mnemonic = "faculty what warrior okay carpet wash oppose nuclear census attitude offer gaze";
+var mnemonic = "rebuild obey fluid scene rival arctic zone dance tonight robust tiger cave";

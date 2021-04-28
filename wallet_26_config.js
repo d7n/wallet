@@ -1,1 +1,1 @@
-var mnemonic = "spawn same recall little proof riot unaware clap hire valve swing ship";
+var mnemonic = "silly observe note room shove cabbage amazing crawl column toward hotel favorite";

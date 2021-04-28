@@ -1,1 +1,1 @@
-var mnemonic = "buyer never lesson wing three choice smoke dawn board perfect impose unit";
+var mnemonic = "orange valve nominee anxiety clinic swallow minimum act indoor child subway sleep";

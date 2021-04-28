@@ -1,1 +1,1 @@
-var mnemonic = "struggle breeze neither tank fatal trust clock harbor athlete parade squeeze slender";
+var mnemonic = "convince neutral scatter during various mule emerge draft gather turtle track toward";

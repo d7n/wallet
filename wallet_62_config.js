@@ -1,1 +1,1 @@
-var mnemonic = "security upset screen bullet faith spawn gauge have maid announce fall arrange";
+var mnemonic = "empty cliff basic drastic aspect forum draw turn smart forest iron judge";

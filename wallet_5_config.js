@@ -1,1 +1,1 @@
-var mnemonic = "bird net science ancient alcohol grass magnet salt youth spot depth giggle";
+var mnemonic = "street sense mansion used muffin student jelly hill drum twenty horse tip";

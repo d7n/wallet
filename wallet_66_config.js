@@ -1,1 +1,1 @@
-var mnemonic = "grant legend usage range palace add spare apart cannon quit monitor soft";
+var mnemonic = "visit other gloom tackle permit pave average matrix proof nerve giraffe stock";

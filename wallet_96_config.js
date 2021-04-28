@@ -1,1 +1,1 @@
-var mnemonic = "sing spike fire hunt climb enemy session lab vivid bundle expect heart";
+var mnemonic = "hint twice mad veteran truck below pilot decide range sleep occur stable";

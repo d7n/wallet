@@ -1,1 +1,1 @@
-var mnemonic = "video coin rather injury actress announce add ten tobacco crawl anxiety web";
+var mnemonic = "report pave hobby bird fall wonder coyote focus ethics blossom tonight avocado";

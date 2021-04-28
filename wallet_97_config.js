@@ -1,1 +1,1 @@
-var mnemonic = "wink hunt nurse knee father tobacco inside erase finger furnace response actress";
+var mnemonic = "february narrow remind buzz silly wasp surface chaos awful field cable faculty";

@@ -1,1 +1,1 @@
-var mnemonic = "glimpse flower hotel there hub income fruit poem wing subway infant dress";
+var mnemonic = "old ice history lobster surge few route excite culture awful conduct general";

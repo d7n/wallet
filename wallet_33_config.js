@@ -1,1 +1,1 @@
-var mnemonic = "transfer bulb notice nose upon follow ramp ten imitate merge sock dove";
+var mnemonic = "breeze help inherit skin avoid mandate balance picture merry dove travel alien";

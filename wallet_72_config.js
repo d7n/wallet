@@ -1,1 +1,1 @@
-var mnemonic = "eye inner garlic debris praise jar remind tired slow hero avocado hint";
+var mnemonic = "pelican someone ozone vehicle shoot slam flock metal tobacco multiply correct argue";

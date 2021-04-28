@@ -1,1 +1,1 @@
-var mnemonic = "define right siege tray bottom amount focus know vault scrap drift cattle";
+var mnemonic = "erase advice mail armed fresh phone hedgehog road logic glance forget core";

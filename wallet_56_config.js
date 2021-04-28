@@ -1,1 +1,1 @@
-var mnemonic = "local jaguar vessel moment shadow table robot where frozen noble farm maple";
+var mnemonic = "symptom expect damp drift jar certain fuel order skirt surface chunk left";

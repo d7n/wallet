@@ -1,1 +1,1 @@
-var mnemonic = "mimic sister scrap daughter print quote casual lottery diary helmet junior increase";
+var mnemonic = "amazing area response bronze point stem dinosaur embody cannon enhance sting chef";

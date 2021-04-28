@@ -1,1 +1,1 @@
-var mnemonic = "observe place find obtain summer brisk rack upon fantasy shrimp find diet";
+var mnemonic = "permit adult move expose recycle chapter time ecology seven indicate science fiction";

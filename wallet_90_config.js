@@ -1,1 +1,1 @@
-var mnemonic = "pull pen soccer biology poem thought witness evoke emerge alley gauge toilet";
+var mnemonic = "liquid eight rabbit ostrich truly badge bounce museum heart useless gospel mansion";

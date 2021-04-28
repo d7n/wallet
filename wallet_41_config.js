@@ -1,1 +1,1 @@
-var mnemonic = "mail comfort rocket achieve buyer never ride zoo rather census jelly account";
+var mnemonic = "dad blind boat claw dynamic favorite tackle bone illness tourist cinnamon reject";

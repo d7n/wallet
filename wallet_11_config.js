@@ -1,1 +1,1 @@
-var mnemonic = "spatial vacuum laugh broccoli device foil inch usual cost visual base donate";
+var mnemonic = "father romance alley vague enlist clutch embody clever amused faith clap say";

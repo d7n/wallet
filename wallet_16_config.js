@@ -1,1 +1,1 @@
-var mnemonic = "tube return sense soup jump during citizen bag general mouse broken private";
+var mnemonic = "vital float elite check tennis fuel romance area roof skill company pink";

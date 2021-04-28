@@ -1,1 +1,1 @@
-var mnemonic = "small slide smoke upset happy lottery sauce guide impulse gas stem tiger";
+var mnemonic = "energy trash this door stone that have inmate hire element tornado rebuild";

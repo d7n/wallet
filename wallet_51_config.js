@@ -1,1 +1,1 @@
-var mnemonic = "wish beauty cricket add doll vehicle foam harvest aerobic thumb urban wash";
+var mnemonic = "tip prevent hurdle merge cover gaze public cactus wall follow extra chuckle";

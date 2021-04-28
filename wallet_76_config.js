@@ -1,1 +1,1 @@
-var mnemonic = "penalty torch almost glance major settle hub pair rocket position distance album";
+var mnemonic = "sun genre crowd mean frame scatter stumble way south reflect crouch sport";

@@ -1,1 +1,1 @@
-var mnemonic = "behind border extra cloud lock order birth involve artist pause fury lounge";
+var mnemonic = "route photo buyer artist topic enemy spread beauty ecology shop history mind";

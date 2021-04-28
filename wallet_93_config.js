@@ -1,1 +1,1 @@
-var mnemonic = "size trash misery zone trap body empty leg convince poem abuse ignore";
+var mnemonic = "tent outer layer trust quiz fault labor lecture cake special initial notable";

@@ -1,1 +1,1 @@
-var mnemonic = "execute soda borrow crane claw damp illness snap acoustic stool scout enrich";
+var mnemonic = "absurd crew sweet girl behind rose render common cliff hurt faith eagle";

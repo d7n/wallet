@@ -1,1 +1,1 @@
-var mnemonic = "maze fog name pioneer can once cupboard leaf tissue trend trigger myself";
+var mnemonic = "swallow find green tennis family post educate brief measure pool mountain cement";

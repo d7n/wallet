@@ -1,1 +1,1 @@
-var mnemonic = "utility kangaroo fault table train swim uncover fringe dragon powder dizzy beyond";
+var mnemonic = "device also medal april bitter crystal blast warrior hello reward length mouse";

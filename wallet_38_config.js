@@ -1,1 +1,1 @@
-var mnemonic = "winner rice parent filter rally network cereal small enroll valley verb heavy";
+var mnemonic = "advance hard buyer brisk iron shoot globe shiver right leg tone forget";

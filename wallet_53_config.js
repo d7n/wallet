@@ -1,1 +1,1 @@
-var mnemonic = "know fold mammal monitor rally october enjoy grid large during approve occur";
+var mnemonic = "ketchup unknown bronze angle vendor vote tomorrow enable upgrade chimney embrace across";

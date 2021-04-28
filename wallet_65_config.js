@@ -1,1 +1,1 @@
-var mnemonic = "concert crawl hole mirror topic cement slide wrap nephew direct coil syrup";
+var mnemonic = "damage evolve abandon setup early firm primary stand marble earth drift quick";

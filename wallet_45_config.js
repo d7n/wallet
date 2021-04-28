@@ -1,1 +1,1 @@
-var mnemonic = "cage anchor glow staff shuffle flat primary ritual boil lunch blue claw";
+var mnemonic = "awake cover husband often junk accident urge merge tiny favorite rescue black";

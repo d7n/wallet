@@ -1,1 +1,1 @@
-var mnemonic = "walk honey differ swap canal gold palm payment phrase device answer write";
+var mnemonic = "recycle become disorder modify anchor solve dutch photo deal turkey segment miss";

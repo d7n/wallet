@@ -1,1 +1,1 @@
-var mnemonic = "index drop witness evidence innocent material tent aspect pelican remove diesel legend";
+var mnemonic = "road practice taxi surface profit road mom boost gap actor dignity wreck";

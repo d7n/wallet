@@ -1,1 +1,1 @@
-var mnemonic = "tree banana sketch correct angle either flush million weasel note pen awake";
+var mnemonic = "debate trouble envelope private pupil scatter student neither siege path snap penalty";

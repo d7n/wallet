@@ -1,1 +1,1 @@
-var mnemonic = "steak margin farm tumble slush offer media maximum crash view borrow comfort";
+var mnemonic = "fuel camera vacant cage fortune clump liquid include that urge early truly";

@@ -1,1 +1,1 @@
-var mnemonic = "surprise cherry coast easy culture yard fragile upper supply sleep estate poem";
+var mnemonic = "panic border dinosaur erode lion avoid detail sentence man forward identify sustain";

@@ -1,1 +1,1 @@
-var mnemonic = "exhaust congress friend unlock rib clerk scatter inside because rude icon night";
+var mnemonic = "comic knee powder course analyst habit strategy whip item fish leader reveal";

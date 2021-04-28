@@ -1,1 +1,1 @@
-var mnemonic = "mixture front pencil toast wasp rival grit cherry piano crazy olympic fee";
+var mnemonic = "bless yard silent squeeze figure bunker flight ribbon diamond beach useless pause";

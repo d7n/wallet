@@ -1,1 +1,1 @@
-var mnemonic = "help stamp upgrade flock shoot actual orchard thought thunder captain vibrant pilot";
+var mnemonic = "gallery volcano cherry same monster edit recall ball more angry good giggle";

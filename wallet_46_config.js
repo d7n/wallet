@@ -1,1 +1,1 @@
-var mnemonic = "quiz radar surface fire best degree wisdom trim illegal drift furnace window";
+var mnemonic = "belt outdoor suffer interest goat smart tomorrow angle dragon agree cotton laptop";

@@ -1,1 +1,1 @@
-var mnemonic = "learn income mule mobile pattern unfair double gym slice put shaft either";
+var mnemonic = "universe sorry laptop parade chair wide pass lady motion dumb ceiling match";

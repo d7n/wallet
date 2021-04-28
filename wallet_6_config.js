@@ -1,1 +1,1 @@
-var mnemonic = "lunar about drink strong velvet copy wreck pink novel steak festival frog";
+var mnemonic = "erosion enough neutral rigid sibling path release guide artefact ripple volume trade";

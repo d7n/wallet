@@ -1,1 +1,1 @@
-var mnemonic = "bicycle special auto trial ethics knock burden marine despair industry much sweet";
+var mnemonic = "match tomorrow expand solution page save property boss vintage winner admit knee";

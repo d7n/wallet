@@ -1,1 +1,1 @@
-var mnemonic = "pistol bunker regular artwork spring satisfy base gain wheat coin album enjoy";
+var mnemonic = "gauge later smile afraid exact banana laptop arena scout survey disease crack";

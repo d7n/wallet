@@ -1,1 +1,1 @@
-var mnemonic = "hammer miracle pelican bus update march grit frost digital roof logic lawn";
+var mnemonic = "random mesh donate predict assault roof account music empower depend talk correct";

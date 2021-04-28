@@ -1,1 +1,1 @@
-var mnemonic = "oxygen amused unfair reward quiz husband daring faint orient short property glad";
+var mnemonic = "donor stove delay squirrel forward purse police rich session lift lady glue";

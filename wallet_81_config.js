@@ -1,1 +1,1 @@
-var mnemonic = "token kick deposit cotton museum wrap detail stuff medal reform august neck";
+var mnemonic = "orphan usual lazy bar toast hip steak that giraffe essence tooth rail";

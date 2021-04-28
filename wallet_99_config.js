@@ -1,1 +1,1 @@
-var mnemonic = "silver couch eternal sample anger leaf plastic rare twenty crumble melt bird";
+var mnemonic = "snake doctor excuse very novel direct train grain mask fat earth hire";

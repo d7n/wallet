@@ -1,1 +1,1 @@
-var mnemonic = "forest matter tent task myth trophy tooth pig mansion lounge weasel inquiry";
+var mnemonic = "tornado crash inform tonight ladder crystal actual zone exhibit unusual helmet have";

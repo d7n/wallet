@@ -1,1 +1,1 @@
-var mnemonic = "mystery base gauge people ill capable firm ribbon cry raccoon depart nerve";
+var mnemonic = "tent arrest champion viable nature swarm police twice kitchen tomato casino post";

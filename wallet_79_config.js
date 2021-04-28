@@ -1,1 +1,1 @@
-var mnemonic = "laugh canvas suit tennis shrimp exotic segment rookie board nothing silk board";
+var mnemonic = "frown beef race balance sunny replace delay asset chair crane before cabin";

@@ -1,1 +1,1 @@
-var mnemonic = "loud quiz spare raven defy fault second wire net satoshi mountain crane";
+var mnemonic = "basket valley rather episode egg journey satisfy sell improve wreck champion galaxy";

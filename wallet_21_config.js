@@ -1,1 +1,1 @@
-var mnemonic = "manual tag bid input border atom sniff tail receive brain bleak render";
+var mnemonic = "object direct become inflict genius enjoy secret degree shift narrow daughter notice";

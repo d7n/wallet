@@ -1,1 +1,1 @@
-var mnemonic = "screen drink cotton kitchen oppose raccoon more head negative together abuse similar";
+var mnemonic = "garbage stool giggle lumber solution direct suggest tourist benefit oil bring cricket";

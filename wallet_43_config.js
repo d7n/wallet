@@ -1,1 +1,1 @@
-var mnemonic = "differ idea nasty include type fossil public notable vault truck differ protect";
+var mnemonic = "fish goddess index trick tenant panther sugar luxury road differ moral run";

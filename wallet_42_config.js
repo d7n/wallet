@@ -1,1 +1,1 @@
-var mnemonic = "move hood more acid rally jar where test alien theme during foster";
+var mnemonic = "steel option adapt illness better two water famous cement uncle situate dutch";

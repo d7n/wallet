@@ -1,1 +1,1 @@
-var mnemonic = "night gorilla owner replace fetch response grid charge canvas daring bargain rabbit";
+var mnemonic = "toy language hunt access kind daughter volume scare bring sponsor random slot";

@@ -1,1 +1,1 @@
-var mnemonic = "hand also panther job fish piano boring vault mask gas ripple quiz";
+var mnemonic = "goddess hamster trigger output slice machine move option cheap erase screen electric";

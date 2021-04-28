@@ -1,1 +1,1 @@
-var mnemonic = "position mobile rose home law embrace nose mobile end unaware final flock";
+var mnemonic = "exercise top team thrive eight amazing motor remain public enjoy food rebuild";

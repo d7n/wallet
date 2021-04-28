@@ -1,1 +1,1 @@
-var mnemonic = "sweet attend interest behave father best tonight marriage street frequent shrimp slim";
+var mnemonic = "army invest pizza apple involve matter immune barrel develop orange defense parade";

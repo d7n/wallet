@@ -1,1 +1,1 @@
-var mnemonic = "primary mention ticket apple rhythm govern cabbage detect ordinary crack battle ignore";
+var mnemonic = "brave avoid box stock catalog wrap humor void west short slide lift";

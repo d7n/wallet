@@ -1,1 +1,1 @@
-var mnemonic = "wheat funny extra pelican solve repair setup cause arrest cover blouse clever";
+var mnemonic = "will pitch truck job frown display leaf permit symbol garlic stomach zoo";
