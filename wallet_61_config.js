@@ -1,1 +1,1 @@
-var mnemonic = "skate funny scrap physical sniff warrior robot sibling render decade monkey else";
+var mnemonic = "silent struggle gas name crisp butter tape evidence unusual various bench hawk";

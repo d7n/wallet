@@ -1,1 +1,1 @@
-var mnemonic = "wedding tiger endless major square traffic solar color daring seven process repair";
+var mnemonic = "topic stock brave card basic mango theory village goat salmon move video";

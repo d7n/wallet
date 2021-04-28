@@ -1,1 +1,1 @@
-var mnemonic = "photo fat stuff spot stay exist deputy fatal axis gadget script water";
+var mnemonic = "combine gorilla develop foam timber noble snow picture hip cabin peanut hope";

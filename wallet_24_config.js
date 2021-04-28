@@ -1,1 +1,1 @@
-var mnemonic = "exhaust bachelor zero strong task food junior excite until power can isolate";
+var mnemonic = "one kiss season infant barely parade clean yellow path slogan image involve";

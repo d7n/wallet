@@ -1,1 +1,1 @@
-var mnemonic = "scatter rocket athlete harsh asthma burst pudding pilot mango pipe trouble renew";
+var mnemonic = "measure maximum velvet oppose foot dove empower hurt wink coil wealth total";

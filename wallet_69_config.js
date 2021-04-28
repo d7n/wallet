@@ -1,1 +1,1 @@
-var mnemonic = "opinion quiz other script mutual raven accuse window online wash jewel family";
+var mnemonic = "example phone twin multiply upgrade matter release cube fury ordinary wise blast";

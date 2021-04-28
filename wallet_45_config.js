@@ -1,1 +1,1 @@
-var mnemonic = "cargo denial chicken swap walk shed million auction clutch orbit drum dad";
+var mnemonic = "tip elite primary improve ceiling park egg range giggle brush luxury beauty";

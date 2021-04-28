@@ -1,1 +1,1 @@
-var mnemonic = "vanish swallow visit riot vessel furnace theory chase group seminar potato into";
+var mnemonic = "enough person patrol egg insect jelly luggage escape nurse manual promote test";

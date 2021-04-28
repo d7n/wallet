@@ -1,1 +1,1 @@
-var mnemonic = "speed situate labor jaguar short false window loan special sample hundred layer";
+var mnemonic = "comfort click route differ razor ostrich envelope ignore rent one frozen tennis";

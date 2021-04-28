@@ -1,1 +1,1 @@
-var mnemonic = "version response life crack receive future valid once glove shaft crunch indicate";
+var mnemonic = "hard kind seminar cotton note vibrant humble consider crouch filter spoil inhale";

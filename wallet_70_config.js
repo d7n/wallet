@@ -1,1 +1,1 @@
-var mnemonic = "scan story explain toss pupil flame diagram soldier holiday guess transfer lonely";
+var mnemonic = "achieve surprise order sweet high access demise stomach concert lounge divide empty";

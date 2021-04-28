@@ -1,1 +1,1 @@
-var mnemonic = "resist alpha baby man life tourist position baby august strike wage palm";
+var mnemonic = "deliver spoil oven essay subway fragile mask fiscal alcohol alien evolve limit";

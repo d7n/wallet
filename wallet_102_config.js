@@ -1,1 +1,1 @@
-var mnemonic = "pulse cheese hover alien render there buffalo attack couple castle common off";
+var mnemonic = "side cause rule ring beauty front dog define juice wolf mule unable";

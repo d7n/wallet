@@ -1,1 +1,1 @@
-var mnemonic = "offer physical lady sample key midnight hobby smart income swift open skin";
+var mnemonic = "adjust body spin evolve napkin face lamp garlic visa normal monster fan";

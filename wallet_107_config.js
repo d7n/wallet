@@ -1,1 +1,1 @@
-var mnemonic = "add wrestle soda wrap bike topple scatter pistol feel pen buyer wrestle";
+var mnemonic = "author police before smoke electric coast pledge into nothing rely void obtain";

@@ -1,1 +1,1 @@
-var mnemonic = "trade pistol usual tongue innocent powder melt modify float deputy disease bring";
+var mnemonic = "tuition spin taste spray rate evil smoke venue bag number dune fitness";

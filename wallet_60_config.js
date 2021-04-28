@@ -1,1 +1,1 @@
-var mnemonic = "almost hollow pepper wealth drip way okay panel gift stem tomorrow april";
+var mnemonic = "goddess spawn thunder club frame ride pioneer pass much degree visit sphere";

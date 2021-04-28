@@ -1,1 +1,1 @@
-var mnemonic = "shuffle relax goat nominee purse piano planet draw estate kid domain seminar";
+var mnemonic = "inflict fluid mango cupboard horror tourist pact chuckle dizzy hard empower dentist";

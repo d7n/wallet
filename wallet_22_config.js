@@ -1,1 +1,1 @@
-var mnemonic = "goat glove fuel broccoli heart sadness intact stable concert sick tragic brown";
+var mnemonic = "blossom spring despair electric shuffle deliver believe team permit front buddy grape";

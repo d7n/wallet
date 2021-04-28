@@ -1,1 +1,1 @@
-var mnemonic = "bus smoke envelope live meat sniff limb bunker hire april tail battle";
+var mnemonic = "embrace sword mammal minimum maximum battle orchard pride labor crucial proud devote";

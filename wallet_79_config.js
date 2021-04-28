@@ -1,1 +1,1 @@
-var mnemonic = "wreck vendor lounge illness tiger luxury daughter afford negative silver usual industry";
+var mnemonic = "flower fun warm season alpha boat memory trade suit three night attend";

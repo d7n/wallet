@@ -1,1 +1,1 @@
-var mnemonic = "return inner gate young awake wedding canyon animal smooth scale shallow space";
+var mnemonic = "special topple chimney satisfy history dentist melody ball dilemma december prosper pilot";

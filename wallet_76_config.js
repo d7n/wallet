@@ -1,1 +1,1 @@
-var mnemonic = "capital second mesh identify access minute silent push frozen congress dignity group";
+var mnemonic = "strong health pen beef arm junior melody renew this sun sweet senior";

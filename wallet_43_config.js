@@ -1,1 +1,1 @@
-var mnemonic = "stable solar arrow carry cluster crater carry talk garlic dawn special powder";
+var mnemonic = "remember wedding whisper symptom oval kite cancel scale foam horn impact cotton";

@@ -1,1 +1,1 @@
-var mnemonic = "apart danger depend flag hole aware popular gown quarter dream ankle bulk";
+var mnemonic = "grit peasant thought height inspire mask rather creek pair clean toss real";

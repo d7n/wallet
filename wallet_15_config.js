@@ -1,1 +1,1 @@
-var mnemonic = "cancel crunch vanish letter sign donkey glow march because idea nuclear permit";
+var mnemonic = "display real ugly flame maze often enhance volcano motion able modify relief";

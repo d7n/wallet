@@ -1,1 +1,1 @@
-var mnemonic = "slice shed rebel top empower define group learn find vivid capital mind";
+var mnemonic = "winner pig cream sketch adapt hover mansion detail kiss future group estate";

@@ -1,1 +1,1 @@
-var mnemonic = "mesh chunk unhappy turtle room pattern direct require detect menu humor wreck";
+var mnemonic = "ship ordinary decide topple coral party ginger primary identify idle crash swift";

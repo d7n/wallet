@@ -1,1 +1,1 @@
-var mnemonic = "tonight thank stool flight song wash hybrid define alley project misery trouble";
+var mnemonic = "bright news marine chunk bitter reopen day merry pluck extend penalty dry";

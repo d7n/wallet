@@ -1,1 +1,1 @@
-var mnemonic = "write ignore slice squirrel shift shoot rug assist garbage garden banner april";
+var mnemonic = "bacon crane turn snap naive wild switch truth slender wife dice voice";

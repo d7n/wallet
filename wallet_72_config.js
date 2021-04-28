@@ -1,1 +1,1 @@
-var mnemonic = "test torch mass main bird general nation shaft gold expire theory donor";
+var mnemonic = "random only build light ankle genius popular opera very dog carpet city";

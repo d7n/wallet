@@ -1,1 +1,1 @@
-var mnemonic = "december scan warrior miss glimpse ten aspect need super man fiber winner";
+var mnemonic = "slim front banner shrimp bench board virus square inch child churn scan";

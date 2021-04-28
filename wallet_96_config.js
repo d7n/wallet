@@ -1,1 +1,1 @@
-var mnemonic = "second guide false custom romance giraffe hair deal dial claim amused gravity";
+var mnemonic = "person sleep build raise during shoulder turkey attract glass first speed artefact";

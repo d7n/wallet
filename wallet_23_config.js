@@ -1,1 +1,1 @@
-var mnemonic = "vehicle tennis wisdom odor warm hazard proud sting diesel rubber circle phone";
+var mnemonic = "unlock decline live hope either what sister laugh quantum employ world online";

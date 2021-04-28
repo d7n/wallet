@@ -1,1 +1,1 @@
-var mnemonic = "please naive moral soul tiny rival innocent radio super omit virus coral";
+var mnemonic = "input empower climb round easily orchard tribe laptop trash shell one photo";

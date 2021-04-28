@@ -1,1 +1,1 @@
-var mnemonic = "fun hint reopen grow word spray symbol inch grocery maze assault immune";
+var mnemonic = "swift dirt wrong occur giggle kingdom fringe excess cycle shed armed become";

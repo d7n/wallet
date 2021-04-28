@@ -1,1 +1,1 @@
-var mnemonic = "pond ritual pupil rude capable trade grape gap plunge cinnamon assault certain";
+var mnemonic = "column pistol space case concert foot ladder tent wish idle trim concert";

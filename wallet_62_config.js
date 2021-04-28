@@ -1,1 +1,1 @@
-var mnemonic = "leaf trumpet leg dial slide danger valve bacon genuine fire rocket tube";
+var mnemonic = "delay core punch grunt appear demand sad latin casino extra credit degree";

@@ -1,1 +1,1 @@
-var mnemonic = "lobster garbage smart typical remember bonus fiction like broom plug super chapter";
+var mnemonic = "toss gloom beauty rule giraffe wife admit series identify tennis lava volume";

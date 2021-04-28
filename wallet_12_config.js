@@ -1,1 +1,1 @@
-var mnemonic = "black divorce assist deposit sunny share jelly lake laugh tragic basic pride";
+var mnemonic = "ancient easily blue health close click soup need sleep tuna student drastic";

@@ -1,1 +1,1 @@
-var mnemonic = "noble price tired drip bind onion return birth lab shadow deliver donate";
+var mnemonic = "fog evolve salad disease purse budget hedgehog hospital plug ranch more step";

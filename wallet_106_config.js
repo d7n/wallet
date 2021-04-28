@@ -1,1 +1,1 @@
-var mnemonic = "dose news citizen tissue wonder ocean able jump property bench arm purse";
+var mnemonic = "shoot erase motor nice pink gas hub bounce era tattoo design box";

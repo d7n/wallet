@@ -1,1 +1,1 @@
-var mnemonic = "dash glance popular upon region gorilla plug culture advance mix spoon used";
+var mnemonic = "jacket census armed category label dinner finish ten around eyebrow method stage";

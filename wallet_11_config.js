@@ -1,1 +1,1 @@
-var mnemonic = "skate aim uncle spin quality obvious invest target puppy leisure sell vanish";
+var mnemonic = "stairs vault narrow fold oak parrot okay knee dice pilot smart act";

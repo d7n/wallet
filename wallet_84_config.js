@@ -1,1 +1,1 @@
-var mnemonic = "legal pulse raw van dragon weapon wear panic absent phone hire crane";
+var mnemonic = "twice breeze fun behind lunch sport helmet illegal brave divert exit unveil";

@@ -1,1 +1,1 @@
-var mnemonic = "someone simple sister shadow captain derive matrix know neither normal modify leaf";
+var mnemonic = "panic arrow cart essay increase pupil awesome grace win sphere burger school";

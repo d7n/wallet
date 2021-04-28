@@ -1,1 +1,1 @@
-var mnemonic = "inquiry outside flame display mother peasant actual dove dragon use round board";
+var mnemonic = "demise enact exist priority render atom close stumble leave glove weather rapid";

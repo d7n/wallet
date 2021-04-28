@@ -1,1 +1,1 @@
-var mnemonic = "isolate true fringe object swim obtain antique wine catch report chronic strong";
+var mnemonic = "swallow letter imitate gift eternal patrol park sport solution city hidden coconut";

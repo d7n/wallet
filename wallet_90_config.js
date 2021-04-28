@@ -1,1 +1,1 @@
-var mnemonic = "lyrics level glide twelve wave please post tent humble jar cancel defy";
+var mnemonic = "solve jungle jealous okay jewel kid web nominee hire upgrade atom game";

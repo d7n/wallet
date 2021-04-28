@@ -1,1 +1,1 @@
-var mnemonic = "recipe angry sketch blush garbage bomb silly meadow correct neither urge gravity";
+var mnemonic = "still meat predict egg ask evidence cover coin cycle desert expect frog";

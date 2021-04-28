@@ -1,1 +1,1 @@
-var mnemonic = "pyramid radar absorb rice dry soldier spot tag reflect hat cancel legend";
+var mnemonic = "alone transfer cereal analyst fabric country cycle peanut sword note joy marine";

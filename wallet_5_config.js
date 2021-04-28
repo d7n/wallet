@@ -1,1 +1,1 @@
-var mnemonic = "crystal try bleak exotic fever resist anxiety beauty year dumb lecture observe";
+var mnemonic = "hold radar later evil same couch brown question argue inspire canvas antique";

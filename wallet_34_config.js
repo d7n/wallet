@@ -1,1 +1,1 @@
-var mnemonic = "oven goat grass spirit render lottery dune episode clutch trophy minimum found";
+var mnemonic = "window volcano wrestle visual police urge eternal gate taste canoe keen pigeon";

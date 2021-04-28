@@ -1,1 +1,1 @@
-var mnemonic = "tunnel you van bind churn assume culture cotton easy prison eagle zoo";
+var mnemonic = "romance orange bag auto velvet frequent rifle viable annual comfort era mechanic";

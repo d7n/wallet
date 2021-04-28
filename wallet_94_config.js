@@ -1,1 +1,1 @@
-var mnemonic = "puzzle saddle card hospital arrive double radio vacant must diamond laugh squeeze";
+var mnemonic = "just praise please dinner exhibit brand nut brand myth grow whip filter";

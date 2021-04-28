@@ -1,1 +1,1 @@
-var mnemonic = "tell plunge polar glare muffin crowd depart sunset timber april grit common";
+var mnemonic = "mushroom crazy unfold infant arrest pretty wonder always again donor champion jealous";

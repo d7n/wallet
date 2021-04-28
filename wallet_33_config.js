@@ -1,1 +1,1 @@
-var mnemonic = "copy minimum prison pledge unfair nest green dial rate stove exhaust erase";
+var mnemonic = "critic giant never door blanket universe dolphin sure labor critic injury injury";

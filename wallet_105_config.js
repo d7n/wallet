@@ -1,1 +1,1 @@
-var mnemonic = "idle bottom verify expose odor bronze usual order unaware math supply cake";
+var mnemonic = "avocado stove rigid inflict language soul skill isolate dumb helmet mesh lend";

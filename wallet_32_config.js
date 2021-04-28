@@ -1,1 +1,1 @@
-var mnemonic = "whale forward marine foot slam faith breeze robust ticket comic eyebrow pair";
+var mnemonic = "measure slide tool now forget order recall save element junior shield select";

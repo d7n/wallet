@@ -1,1 +1,1 @@
-var mnemonic = "copper enact unknown prison magic educate deliver grace toss nation escape victory";
+var mnemonic = "review fitness tape palace minor humble giant peanut advance denial remember basket";

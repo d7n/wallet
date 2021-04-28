@@ -1,1 +1,1 @@
-var mnemonic = "focus anchor harvest behave tube vanish holiday room gas coach zero adapt";
+var mnemonic = "jump sadness cheap kitchen paper way bounce amazing shaft tower prefer benefit";

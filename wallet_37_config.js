@@ -1,1 +1,1 @@
-var mnemonic = "filter annual normal radar setup match payment endless fossil ill orchard fox";
+var mnemonic = "bike outside clarify dress excite learn damage close jealous age foil core";

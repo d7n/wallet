@@ -1,1 +1,1 @@
-var mnemonic = "glass stage hill drift rabbit total situate zoo frown plunge twelve asset";
+var mnemonic = "beyond cream state noble valve fever jaguar sweet attend lab pretty copy";

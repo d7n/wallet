@@ -1,1 +1,1 @@
-var mnemonic = "toy field wait train bus goose parent hand creek park deer guide";
+var mnemonic = "antique cannon advance inquiry bless fee ill cash swarm trick repeat dilemma";

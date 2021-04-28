@@ -1,1 +1,1 @@
-var mnemonic = "midnight verify road winter degree morning neck boring useless claim witness bachelor";
+var mnemonic = "duck slide nose announce robot until rose setup cycle hint clay ice";

@@ -1,1 +1,1 @@
-var mnemonic = "sadness supreme syrup warm promote stage woman satisfy aunt feel tackle puppy";
+var mnemonic = "soldier scare essence acquire smoke hen danger spatial equal such thunder little";

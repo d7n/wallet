@@ -1,1 +1,1 @@
-var mnemonic = "trim situate desk uniform chat purchase board cute element pig worth frost";
+var mnemonic = "beyond blur fragile priority depth humor bag link prison upon clay nut";

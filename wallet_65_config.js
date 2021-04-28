@@ -1,1 +1,1 @@
-var mnemonic = "snow nurse satoshi stove price pitch tower explain public permit quantum february";
+var mnemonic = "soft news blouse draw smile present snack palm identify test tackle outdoor";

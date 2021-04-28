@@ -1,1 +1,1 @@
-var mnemonic = "network fish sniff kid cost present ship vehicle end world deal twice";
+var mnemonic = "behind village hybrid message spin motor promote trim guess spot ripple minimum";

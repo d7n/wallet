@@ -1,1 +1,1 @@
-var mnemonic = "rotate winner attack still jelly quantum keen armed web local deposit blade";
+var mnemonic = "admit naive satisfy language defy cruel staff point senior about behave infant";

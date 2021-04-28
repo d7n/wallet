@@ -1,1 +1,1 @@
-var mnemonic = "blouse fit mango clerk grid traffic lift inner place field increase jungle";
+var mnemonic = "season length fashion turkey gas planet lizard bacon broom ethics rocket belt";

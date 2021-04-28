@@ -1,1 +1,1 @@
-var mnemonic = "toe nest inflict provide wasp possible bag prefer certain must crumble trophy";
+var mnemonic = "glad dove youth hope accident wealth supply mystery phrase lady enter shuffle";

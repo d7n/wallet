@@ -1,1 +1,1 @@
-var mnemonic = "boil immune remain jazz favorite leisure circle any safe quit coin display";
+var mnemonic = "door senior ability device first travel valve canal column bus moral afford";

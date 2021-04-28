@@ -1,1 +1,1 @@
-var mnemonic = "potato weird wisdom attract client behave object chronic violin ghost boss explain";
+var mnemonic = "merit stuff write leisure sentence canal level ordinary dinner audit outdoor clay";

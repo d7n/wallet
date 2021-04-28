@@ -1,1 +1,1 @@
-var mnemonic = "work shoulder buddy badge monitor industry recall close yellow journey know little";
+var mnemonic = "whale noise once flip manual effort liar unusual report rate bulb edit";

@@ -1,1 +1,1 @@
-var mnemonic = "laundry rocket humor truth cross move arrest reflect brass fresh hybrid lens";
+var mnemonic = "still razor logic ability sentence smooth pattern kid tilt client shift assault";

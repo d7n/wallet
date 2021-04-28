@@ -1,1 +1,1 @@
-var mnemonic = "measure violin aerobic balance shrimp suit scrap hurt wrap mirror butter grape";
+var mnemonic = "drift base army artwork rigid add ostrich glass furnace tool exchange area";

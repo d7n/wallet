@@ -1,1 +1,1 @@
-var mnemonic = "shop yellow ecology mule version finish first width allow oven crisp chuckle";
+var mnemonic = "mother renew trophy ugly bonus spray brand animal garage rather output hood";

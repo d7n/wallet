@@ -1,1 +1,1 @@
-var mnemonic = "owner copper this basket mansion noise mechanic fuel parade quality erosion belt";
+var mnemonic = "mother ethics rubber story click sponsor require input metal crater melody exercise";

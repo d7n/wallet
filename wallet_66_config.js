@@ -1,1 +1,1 @@
-var mnemonic = "beauty year knock item slight trim wolf devote cannon ivory remain arrange";
+var mnemonic = "margin transfer error venture time display carry trial board swift edit gospel";

@@ -1,1 +1,1 @@
-var mnemonic = "spin hood casino cake snake glass winner fresh miracle elegant tape forest";
+var mnemonic = "meat lock pet dress embark venture banner pizza brave element rate head";

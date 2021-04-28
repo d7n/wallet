@@ -1,1 +1,1 @@
-var mnemonic = "bird police leader slogan coffee doctor now forget owner equip wet cram";
+var mnemonic = "wear grape rug select reflect weekend social face tornado park story distance";

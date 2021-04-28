@@ -1,1 +1,1 @@
-var mnemonic = "seven biology praise dinosaur aspect random ginger armor tobacco bid tone round";
+var mnemonic = "stove soccer cram exist spin select budget civil document predict ancient home";

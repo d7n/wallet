@@ -1,1 +1,1 @@
-var mnemonic = "devote will cover recall chalk hungry excite lecture embrace can agree tip";
+var mnemonic = "vendor federal neck boil evolve silly split seed bulb suspect tragic poverty";

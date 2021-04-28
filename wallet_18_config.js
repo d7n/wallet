@@ -1,1 +1,1 @@
-var mnemonic = "bacon cause test express edit sugar original execute ability dad worry sentence";
+var mnemonic = "judge grunt donkey cigar cloth talent congress wish amount swap grain chair";

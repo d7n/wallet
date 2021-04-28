@@ -1,1 +1,1 @@
-var mnemonic = "elder outdoor laptop convince blade dance cradle perfect base lens dice enlist";
+var mnemonic = "daring quality save crime armed ask mistake anxiety glad treat vicious weird";

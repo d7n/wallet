@@ -1,1 +1,1 @@
-var mnemonic = "connect purity melt fork ghost merit ramp quit game used erosion exercise";
+var mnemonic = "rapid unusual mass apart response trap canoe decorate memory gold initial security";

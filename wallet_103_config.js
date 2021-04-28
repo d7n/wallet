@@ -1,1 +1,1 @@
-var mnemonic = "civil youth grow spread label gauge topple middle finish hard faith trap";
+var mnemonic = "obtain advance fatal leader canal vault door slam escape skirt foam catalog";

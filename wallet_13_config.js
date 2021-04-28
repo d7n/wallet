@@ -1,1 +1,1 @@
-var mnemonic = "text inherit network oven around avocado arrow spirit lyrics smooth parent receive";
+var mnemonic = "genius uncover rich orange rapid core skull velvet soldier sick best bracket";

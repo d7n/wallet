@@ -1,1 +1,1 @@
-var mnemonic = "mix cable wool icon gesture eagle yellow forest hundred super position duty";
+var mnemonic = "gadget day dose piece avocado firm style earn profit flag couch surround";

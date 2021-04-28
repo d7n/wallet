@@ -1,1 +1,1 @@
-var mnemonic = "struggle office enforce desert empty stumble nurse check car rack chicken museum";
+var mnemonic = "vicious goose fence cement dinosaur horse alley mixed differ torch despair twin";

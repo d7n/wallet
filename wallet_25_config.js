@@ -1,1 +1,1 @@
-var mnemonic = "income prosper equip amused relax clever idle swarm pipe visit afraid eight";
+var mnemonic = "garbage green pet save stable hair jeans spirit merit salmon weird palace";
