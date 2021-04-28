@@ -1,1 +1,1 @@
-var mnemonic = "impact lady decline expand dinner public skull gorilla scissors left diary torch";
+var mnemonic = "oppose pause frame company rib movie cycle winner host isolate finish into";

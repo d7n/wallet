@@ -1,1 +1,1 @@
-var mnemonic = "yard wasp sauce gossip great reduce cliff knife two attitude napkin great";
+var mnemonic = "gadget cruise swear swallow sun retreat exhaust twist guitar hurt crack sun";

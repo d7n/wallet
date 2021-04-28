@@ -1,1 +1,1 @@
-var mnemonic = "elegant resist resource athlete ill panda chase core voice gap together cup";
+var mnemonic = "answer erupt photo version subject pottery ridge arrow life panic boy lizard";

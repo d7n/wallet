@@ -1,1 +1,1 @@
-var mnemonic = "dolphin friend tool race damp speak logic stable jar item borrow frost";
+var mnemonic = "unit auction brother absent clap grace fatigue bullet rose announce teach gadget";

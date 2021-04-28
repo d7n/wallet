@@ -1,1 +1,1 @@
-var mnemonic = "menu slim slide suspect vocal object admit pulp gym negative repair panel";
+var mnemonic = "year boat aunt click remember bicycle rural humble cover act cabbage route";

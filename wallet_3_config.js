@@ -1,1 +1,1 @@
-var mnemonic = "matrix fade rare hurt problem renew travel engine catalog menu segment fever";
+var mnemonic = "sponsor nominee margin canvas habit grace sun attend become debris hard dumb";

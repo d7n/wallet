@@ -1,1 +1,1 @@
-var mnemonic = "father insect patient impulse sketch army marriage recycle consider act spoil unfair";
+var mnemonic = "expose rubber fiction solid brave head service guide belt convince drive elder";

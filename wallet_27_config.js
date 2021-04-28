@@ -1,1 +1,1 @@
-var mnemonic = "fitness frown want suit test brand fiction brand arctic bridge category other";
+var mnemonic = "lock page plug ethics give angry merit man chase zone spirit resource";

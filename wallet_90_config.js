@@ -1,1 +1,1 @@
-var mnemonic = "clarify hill awful stumble gauge notable soccer census exact liquid entry reform";
+var mnemonic = "wise leg media crouch ability unhappy disagree drink there brown submit rail";

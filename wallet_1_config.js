@@ -1,1 +1,1 @@
-var mnemonic = "kidney marble twist piece few evolve street happy magnet nation turkey stand";
+var mnemonic = "enable supreme ridge wash south gap company wrap raven umbrella arrive panther";

@@ -1,1 +1,1 @@
-var mnemonic = "mobile hobby way rubber medal alone hurdle fox absurd latin forget seed";
+var mnemonic = "direct nothing ring exhibit border blast hire fat retreat icon march hair";

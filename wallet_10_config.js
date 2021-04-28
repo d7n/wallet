@@ -1,1 +1,1 @@
-var mnemonic = "table agent swing ginger deer juice illegal pupil analyst wing yellow abuse";
+var mnemonic = "book chair crystal ethics olive chair snake tiger vendor burst grid gather";

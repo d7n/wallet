@@ -1,1 +1,1 @@
-var mnemonic = "casual sail phone chest enjoy vote mushroom cave abuse gallery deposit sustain";
+var mnemonic = "hospital remove shrimp consider junk wait elegant spike innocent improve peanut expand";

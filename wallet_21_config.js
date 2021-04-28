@@ -1,1 +1,1 @@
-var mnemonic = "usual six fruit impulse friend address head describe debate miracle resist fury";
+var mnemonic = "example olympic isolate bird web razor pencil blue future void throw source";

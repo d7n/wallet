@@ -1,1 +1,1 @@
-var mnemonic = "pear science casino learn use hockey village van orient sadness conduct noodle";
+var mnemonic = "demand measure leisure display trumpet wild east category season until suffer rotate";

@@ -1,1 +1,1 @@
-var mnemonic = "private square frequent moon grief rough feature until confirm absorb illegal baby";
+var mnemonic = "craft glow typical develop fork actual filter romance awful glimpse replace seat";

@@ -1,1 +1,1 @@
-var mnemonic = "science model paddle erupt typical banana quick air knock clean wool tide";
+var mnemonic = "inherit begin ceiling blame ketchup cargo various enroll young stay member tackle";

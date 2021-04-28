@@ -1,1 +1,1 @@
-var mnemonic = "couch scissors fetch fault stove snap virus wet custom breeze boss satisfy";
+var mnemonic = "trigger discover sphere return exact gain allow client bone twin power vicious";

@@ -1,1 +1,1 @@
-var mnemonic = "junk current file ugly allow indicate feel wealth kitchen love session light";
+var mnemonic = "lion chalk goose saddle term hundred champion tomato arrow year draw soap";

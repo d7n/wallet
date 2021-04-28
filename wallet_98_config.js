@@ -1,1 +1,1 @@
-var mnemonic = "polar amazing dinosaur jungle ankle kitten order effort fuel october price long";
+var mnemonic = "hub midnight salon hello congress know opera response nut teach ocean cluster";

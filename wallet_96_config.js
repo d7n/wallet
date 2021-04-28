@@ -1,1 +1,1 @@
-var mnemonic = "apple simple control horror thrive chase robot anchor day beauty zero unit";
+var mnemonic = "smile coconut foam trust pudding boss cushion because load gown dwarf razor";

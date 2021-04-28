@@ -1,1 +1,1 @@
-var mnemonic = "advance goat humble replace jacket pause index mercy job infant nation only";
+var mnemonic = "shop quantum hurdle recipe forum muscle shift senior coach degree hold copy";

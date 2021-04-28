@@ -1,1 +1,1 @@
-var mnemonic = "female left crater predict plate glove search gain drip next net own";
+var mnemonic = "scatter divorce february fence dolphin tide volume edit summer kangaroo physical valley";

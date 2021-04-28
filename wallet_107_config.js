@@ -1,1 +1,1 @@
-var mnemonic = "change kingdom inmate enjoy matter try tree swear excess wife control dial";
+var mnemonic = "mammal average road boil clever venue because country summer praise visit minimum";

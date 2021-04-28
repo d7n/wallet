@@ -1,1 +1,1 @@
-var mnemonic = "damage bone pool whale later palace gossip leopard ski panel pencil suffer";
+var mnemonic = "eye regret enroll kind machine tourist please useful wait wait inner lesson";

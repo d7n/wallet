@@ -1,1 +1,1 @@
-var mnemonic = "repair great sort empty fine since alien wear crowd thought panic exist";
+var mnemonic = "summer fine team top gallery olive april unable order very garbage hurdle";

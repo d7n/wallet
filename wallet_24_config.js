@@ -1,1 +1,1 @@
-var mnemonic = "curious still gesture glad mixture assault crime potato shallow decide alarm chimney";
+var mnemonic = "tired alcohol champion cotton all utility hidden thank section base course canyon";

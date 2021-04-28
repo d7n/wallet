@@ -1,1 +1,1 @@
-var mnemonic = "depart museum lounge road elegant junior outside device hazard coast wine sniff";
+var mnemonic = "kid harbor tennis visit away shield mercy evoke worth ill found work";

@@ -1,1 +1,1 @@
-var mnemonic = "wreck emerge junk weird promote ancient agree picture cotton already lucky reflect";
+var mnemonic = "situate lonely trouble sweet roast injury impulse wear green food silent final";

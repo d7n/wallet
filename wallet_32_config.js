@@ -1,1 +1,1 @@
-var mnemonic = "used misery planet romance mechanic junior innocent fall change gadget stomach february";
+var mnemonic = "pig pact spawn tool waste target rural box wish season become cinnamon";

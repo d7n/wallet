@@ -1,1 +1,1 @@
-var mnemonic = "slow cross foot crack hungry december purse lottery render super audit action";
+var mnemonic = "response clay loop print measure twenty mountain sure scrub venue sand gap";

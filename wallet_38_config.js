@@ -1,1 +1,1 @@
-var mnemonic = "casino eternal daring kit project pumpkin salon toilet secret indicate weekend today";
+var mnemonic = "lizard balcony inherit multiply lesson adapt alcohol casino risk eagle early afford";

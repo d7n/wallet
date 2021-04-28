@@ -1,1 +1,1 @@
-var mnemonic = "climb unveil giant forum prepare artwork zebra castle room loyal share evolve";
+var mnemonic = "stamp multiply swift melt license cushion benefit roast aspect source jump virus";

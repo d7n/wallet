@@ -1,1 +1,1 @@
-var mnemonic = "depart hour stumble toss smart obscure urban earn verb plunge venture rotate";
+var mnemonic = "put wild harbor list tiny better veteran credit benefit clock forum run";

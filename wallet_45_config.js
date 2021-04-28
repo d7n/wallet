@@ -1,1 +1,1 @@
-var mnemonic = "ecology bulb inquiry stereo patient sauce blur naive toilet exhaust duty name";
+var mnemonic = "review galaxy miracle avocado toast special talent day sea hole render cover";

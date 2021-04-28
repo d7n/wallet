@@ -1,1 +1,1 @@
-var mnemonic = "light perfect gift valley urban famous ring ticket west math valve brave";
+var mnemonic = "dose prison broom toy brown someone marine picture end tuna crowd umbrella";

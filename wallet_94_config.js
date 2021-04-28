@@ -1,1 +1,1 @@
-var mnemonic = "math earn gym believe erode certain flock gasp spring undo useless must";
+var mnemonic = "confirm sugar extend across just manage quote permit subway drop amused fancy";

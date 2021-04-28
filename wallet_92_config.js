@@ -1,1 +1,1 @@
-var mnemonic = "hobby pole party gather end tone state hybrid current oppose drastic hurry";
+var mnemonic = "market cost rescue enroll record congress jealous medal release unusual give dog";

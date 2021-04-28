@@ -1,1 +1,1 @@
-var mnemonic = "slight measure regular material alien exotic pave fit page marine settle amateur";
+var mnemonic = "wrist globe spoon replace wrist various high orchard catalog side window pulp";

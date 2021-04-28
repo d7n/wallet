@@ -1,1 +1,1 @@
-var mnemonic = "cute trend about bird label post else reflect smoke virtual gossip april";
+var mnemonic = "teach blind cause pill window obey acquire castle vocal hard umbrella again";

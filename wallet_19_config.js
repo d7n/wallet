@@ -1,1 +1,1 @@
-var mnemonic = "garment wing fade program cradle fade copy caution treat relax brand thank";
+var mnemonic = "tip need fury more jaguar differ evoke hip canyon oak host aim";

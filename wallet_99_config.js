@@ -1,1 +1,1 @@
-var mnemonic = "unaware relief swear visa advance smoke slender result slice spice abandon define";
+var mnemonic = "together gate defense fix bottom angry upon cruise civil slide law garage";

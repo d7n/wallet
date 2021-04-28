@@ -1,1 +1,1 @@
-var mnemonic = "rely humble hotel art income increase parrot call repair glad decide soldier";
+var mnemonic = "brief else gather path become bargain boss local purchase mango unique hair";

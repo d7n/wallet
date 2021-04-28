@@ -1,1 +1,1 @@
-var mnemonic = "immune dust avocado sleep glory street casino foil weather crop hope open";
+var mnemonic = "renew pluck agent razor risk lend bleak fetch budget language minute random";

@@ -1,1 +1,1 @@
-var mnemonic = "eye vendor dice among lyrics blame major olive gold during antique nerve";
+var mnemonic = "help chalk destroy saddle clerk sunset degree choose piece dutch liquid aim";

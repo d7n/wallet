@@ -1,1 +1,1 @@
-var mnemonic = "napkin true today differ detail burst uncover neck canyon sound oppose identify";
+var mnemonic = "lab crater vapor dash carbon obvious snack glass cushion seminar brain drip";

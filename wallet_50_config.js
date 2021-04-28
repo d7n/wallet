@@ -1,1 +1,1 @@
-var mnemonic = "hand inject garage hammer skirt since check omit rebel half obscure disease";
+var mnemonic = "share need galaxy solve attend wrong eternal view sail vacuum kind few";

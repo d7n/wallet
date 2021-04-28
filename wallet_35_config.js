@@ -1,1 +1,1 @@
-var mnemonic = "code surge lift bacon actual squirrel miracle bomb vapor sheriff sister daughter";
+var mnemonic = "cash embrace reward hundred evolve hundred mutual flock asthma game awesome already";

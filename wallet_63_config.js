@@ -1,1 +1,1 @@
-var mnemonic = "square attract reduce shy security boring spike capital equip repeat desk practice";
+var mnemonic = "economy risk brother entire dust cover soccer cargo face return food resource";

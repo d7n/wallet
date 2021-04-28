@@ -1,1 +1,1 @@
-var mnemonic = "claim render notable security can lucky garlic lizard quote ability dutch fluid";
+var mnemonic = "crime pulse derive caution atom rally minimum tennis town meadow concert able";

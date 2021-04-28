@@ -1,1 +1,1 @@
-var mnemonic = "poet panther kick lazy lyrics monkey industry sea volume bubble empty bullet";
+var mnemonic = "sausage reward matter doctor lounge creek invest blame fortune miss idle aerobic";

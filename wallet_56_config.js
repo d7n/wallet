@@ -1,1 +1,1 @@
-var mnemonic = "erase medal version catalog pioneer soon wild minute color stone hurt frown";
+var mnemonic = "tunnel pet lava scissors escape exist short frog message post shaft noble";

@@ -1,1 +1,1 @@
-var mnemonic = "lemon search regular fitness frog transfer emerge shove lecture immune second lawn";
+var mnemonic = "robust despair armed defy prison frost broccoli sheriff trash save all absurd";

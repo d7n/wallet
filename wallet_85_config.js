@@ -1,1 +1,1 @@
-var mnemonic = "settle unknown theory sad output grace child vibrant kit trumpet enhance bring";
+var mnemonic = "net range pig license hybrid divert physical business busy plug sell fun";

@@ -1,1 +1,1 @@
-var mnemonic = "bargain unfair regret rug tunnel joke setup tail wall pitch later moment";
+var mnemonic = "cart leaf boy resource quiz monkey include model elite refuse abandon mom";

@@ -1,1 +1,1 @@
-var mnemonic = "win fresh bid few loyal lonely capable large salute wet talk venue";
+var mnemonic = "credit myself grief clock autumn agent blame gift almost coconut olympic image";

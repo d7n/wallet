@@ -1,1 +1,1 @@
-var mnemonic = "window remain first three inmate color legend reward airport jacket help camera";
+var mnemonic = "genuine annual ankle hip cherry twin fresh network quantum fortune radar twice";

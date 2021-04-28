@@ -1,1 +1,1 @@
-var mnemonic = "hood health split also private spin auction nephew marine bubble tired crew";
+var mnemonic = "flock stone banner erupt jungle rose ability eight skin deposit bring reform";

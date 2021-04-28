@@ -1,1 +1,1 @@
-var mnemonic = "unveil tube minor nut boy that define mule pet snack lesson crawl";
+var mnemonic = "depart test nasty abstract mule invest expose figure bring adult where evolve";

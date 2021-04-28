@@ -1,1 +1,1 @@
-var mnemonic = "vivid talk artefact magnet ivory used oak park guess dinner thunder program";
+var mnemonic = "kangaroo mention army focus clever twenty warrior huge rally poem palace roast";

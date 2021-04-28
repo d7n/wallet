@@ -1,1 +1,1 @@
-var mnemonic = "combine column reflect stamp label unlock opinion comfort play kingdom antique spread";
+var mnemonic = "six wheat obtain humble bid garment fire able rule girl toy figure";

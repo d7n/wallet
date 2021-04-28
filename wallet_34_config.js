@@ -1,1 +1,1 @@
-var mnemonic = "another autumn boring ignore aware current water whale payment recall angry announce";
+var mnemonic = "accuse usual much federal bag either all tackle mobile dilemma popular atom";

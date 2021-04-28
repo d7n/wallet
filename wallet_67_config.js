@@ -1,1 +1,1 @@
-var mnemonic = "ramp little grunt champion pill skirt metal party polar budget address drill";
+var mnemonic = "nominee body avocado obey mind write often quit north digital pill hamster";

@@ -1,1 +1,1 @@
-var mnemonic = "offer orchard daughter ahead merge endless illness arrange fragile illegal fancy sample";
+var mnemonic = "rival joy slam disorder chronic swim wise indoor uphold divert device pluck";

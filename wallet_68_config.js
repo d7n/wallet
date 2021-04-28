@@ -1,1 +1,1 @@
-var mnemonic = "leave gap bone margin soul truly option curve belt bridge frost obvious";
+var mnemonic = "cradle rapid wear erupt present impose stumble shoulder salute giraffe distance bargain";

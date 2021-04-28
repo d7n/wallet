@@ -1,1 +1,1 @@
-var mnemonic = "label spawn borrow chair blouse day faith narrow indoor half churn develop";
+var mnemonic = "hobby december jaguar rail claw warm hip ugly foster response can bus";

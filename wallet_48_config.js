@@ -1,1 +1,1 @@
-var mnemonic = "stamp cool balcony behind bag private gain pizza balance spoon remember salt";
+var mnemonic = "grid dwarf time diary notice right wedding trash satoshi tide dad absurd";

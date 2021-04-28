@@ -1,1 +1,1 @@
-var mnemonic = "wet mammal wasp fatal drive junk puzzle practice online account item federal";
+var mnemonic = "candy year coil spike nerve gorilla surround large material settle game jelly";

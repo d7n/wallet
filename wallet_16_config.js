@@ -1,1 +1,1 @@
-var mnemonic = "mercy version boring comfort stadium cable analyst matrix test omit hard scrap";
+var mnemonic = "ski assault gate fix cover scatter tackle bridge derive cross gallery van";

@@ -1,1 +1,1 @@
-var mnemonic = "harbor chest debate weasel dignity enhance antique cross web bridge clock margin";
+var mnemonic = "similar three acoustic tooth industry front swift maid useless length wine foam";

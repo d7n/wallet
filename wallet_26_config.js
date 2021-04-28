@@ -1,1 +1,1 @@
-var mnemonic = "woman local banner chalk special proud dash survey lottery camp city boost";
+var mnemonic = "shop cereal flee lady wealth alcohol lazy ring wash tide pole oven";

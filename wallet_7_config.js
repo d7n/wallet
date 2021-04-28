@@ -1,1 +1,1 @@
-var mnemonic = "mule random expire one thunder fun level divorce fit amateur board crime";
+var mnemonic = "boil turkey girl alone tone industry wedding mouse dilemma patient feed inform";

@@ -1,1 +1,1 @@
-var mnemonic = "hire cigar expand life promote medal frozen topple lazy file labor kick";
+var mnemonic = "egg trouble movie open worth tower now gift mushroom call claim bus";

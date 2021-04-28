@@ -1,1 +1,1 @@
-var mnemonic = "grace follow permit goose dragon model crater page outside pull level able";
+var mnemonic = "stable curtain dentist casino rubber member truly gasp boy type ready hawk";

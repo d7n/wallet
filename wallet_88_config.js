@@ -1,1 +1,1 @@
-var mnemonic = "fruit pluck shield three exotic adjust wild pattern steak elbow luxury spoon";
+var mnemonic = "banner popular album fiction artefact expand section combine bracket crash romance pyramid";

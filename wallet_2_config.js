@@ -1,1 +1,1 @@
-var mnemonic = "calm wisdom book remain occur state crack sunny can hat budget devote";
+var mnemonic = "water pitch moment glare sail candy drum wash vehicle giant green course";

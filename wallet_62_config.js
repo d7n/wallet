@@ -1,1 +1,1 @@
-var mnemonic = "whale order chair vanish okay journey predict much mom swear nose valley";
+var mnemonic = "antenna skill border disagree process magnet spoil answer trash appear action moral";

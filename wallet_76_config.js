@@ -1,1 +1,1 @@
-var mnemonic = "neck cushion survey valid humble slam traffic poem girl caution robot midnight";
+var mnemonic = "kangaroo suggest top flee kite core feed notice inject tortoise miracle simple";

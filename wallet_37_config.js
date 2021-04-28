@@ -1,1 +1,1 @@
-var mnemonic = "clump planet avocado win private mad flavor volcano sister census afford mandate";
+var mnemonic = "guitar order upgrade dance load cream earth lumber eagle deer sugar sweet";

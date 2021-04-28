@@ -1,1 +1,1 @@
-var mnemonic = "discover afraid sister tooth post indicate tornado uncle weird curious grain era";
+var mnemonic = "village such child warm judge poverty broken upon leaf twist torch able";

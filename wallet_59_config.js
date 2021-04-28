@@ -1,1 +1,1 @@
-var mnemonic = "retire shift track decide decline mean surface another claw poverty boat abstract";
+var mnemonic = "loop spatial supply rain example ceiling fatal basket real creek venture tent";

@@ -1,1 +1,1 @@
-var mnemonic = "text cabbage miss grocery curious split auto cake learn yard butter change";
+var mnemonic = "pupil retreat bargain imitate doctor office question divorce swarm today walnut host";

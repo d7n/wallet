@@ -1,1 +1,1 @@
-var mnemonic = "language glue margin enemy quiz airport eight soccer comfort rocket arena wasp";
+var mnemonic = "mixed renew legal prepare response clog left bachelor invite bronze canoe tongue";

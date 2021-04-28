@@ -1,1 +1,1 @@
-var mnemonic = "size trap defy original wait caught edge list rule bottom giant sting";
+var mnemonic = "lesson maze joke soccer treat vacant coffee skull fuel vital sentence silver";

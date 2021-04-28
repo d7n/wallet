@@ -1,1 +1,1 @@
-var mnemonic = "canal ready soul sort furnace wrist glass host style naive aim click";
+var mnemonic = "velvet subway raise pond note force gasp deposit false solar flat churn";

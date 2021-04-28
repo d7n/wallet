@@ -1,1 +1,1 @@
-var mnemonic = "soap survey control neglect rug exist glance recycle census disease gold despair";
+var mnemonic = "topic cabbage same juice negative short hollow buffalo elbow decade useful nature";

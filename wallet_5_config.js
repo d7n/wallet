@@ -1,1 +1,1 @@
-var mnemonic = "ranch recall glory ginger bargain skill evolve cargo fuel sign evil brisk";
+var mnemonic = "success ability pave crew laugh ill dust question whip furnace rebel mutual";

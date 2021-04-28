@@ -1,1 +1,1 @@
-var mnemonic = "sound thunder goddess chimney enough clutch arrest atom apart way rib glue";
+var mnemonic = "north rib rival act own giggle sheriff gather frost van dove tool";

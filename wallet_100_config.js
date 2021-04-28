@@ -1,1 +1,1 @@
-var mnemonic = "mail debris chuckle voice pool tragic light switch canvas win blue decrease";
+var mnemonic = "lesson hunt wasp exotic dismiss soda cinnamon salmon lake vast business amount";
