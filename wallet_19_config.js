@@ -1,1 +1,1 @@
-var mnemonic = "employ chronic ankle bulk slogan garage begin any noble travel hint manual";
+var mnemonic = "observe place find obtain summer brisk rack upon fantasy shrimp find diet";

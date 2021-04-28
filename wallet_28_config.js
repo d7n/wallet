@@ -1,1 +1,1 @@
-var mnemonic = "alpha donate crush cheese gallery essence river cabbage wisdom umbrella polar ripple";
+var mnemonic = "bleak pear circle ignore circle rather twin civil define ginger poem regular";

@@ -1,1 +1,1 @@
-var mnemonic = "cat limit suggest rely will parrot unit amused toddler elite kingdom kit";
+var mnemonic = "mimic sister scrap daughter print quote casual lottery diary helmet junior increase";

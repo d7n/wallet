@@ -1,1 +1,1 @@
-var mnemonic = "repeat latin donor expand match void garment monitor target warm crash hammer";
+var mnemonic = "buyer never lesson wing three choice smoke dawn board perfect impose unit";

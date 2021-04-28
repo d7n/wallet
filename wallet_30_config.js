@@ -1,1 +1,1 @@
-var mnemonic = "detect empty young around coconut father loan siege add artefact amateur pass";
+var mnemonic = "night gorilla owner replace fetch response grid charge canvas daring bargain rabbit";

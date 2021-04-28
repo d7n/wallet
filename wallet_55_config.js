@@ -1,1 +1,1 @@
-var mnemonic = "rally despair february love wheat advice kidney message ladder exercise execute movie";
+var mnemonic = "project first robust vast enter business company limb leisure asthma design vapor";

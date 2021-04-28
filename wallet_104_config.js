@@ -1,1 +1,1 @@
-var mnemonic = "electric merit finish great dish promote bachelor void leg island distance hire";
+var mnemonic = "glimpse flower hotel there hub income fruit poem wing subway infant dress";

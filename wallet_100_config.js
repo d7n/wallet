@@ -1,1 +1,1 @@
-var mnemonic = "news buzz amazing approve duck tissue demise question arrange follow fiction abstract";
+var mnemonic = "account year crop unfair squeeze mom antique bargain inmate depend punch present";

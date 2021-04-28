@@ -1,1 +1,1 @@
-var mnemonic = "grid true run kiss scout away addict burger fetch tunnel method woman";
+var mnemonic = "portion always lawsuit fence fall orange grow jump south bachelor coyote typical";

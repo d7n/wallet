@@ -1,1 +1,1 @@
-var mnemonic = "prosper bread elegant canvas panda pyramid voyage marine verb gospel same aim";
+var mnemonic = "bicycle special auto trial ethics knock burden marine despair industry much sweet";

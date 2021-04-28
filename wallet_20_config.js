@@ -1,1 +1,1 @@
-var mnemonic = "remain pulp display inquiry distance usage thought cherry fly little struggle vessel";
+var mnemonic = "already first height lunar price indoor echo envelope accident move innocent story";

@@ -1,1 +1,1 @@
-var mnemonic = "tail bunker put man food test fade skill head sick cycle material";
+var mnemonic = "cheese also useless divorce jar indoor cruise wash abandon shift repeat robust";

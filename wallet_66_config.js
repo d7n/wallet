@@ -1,1 +1,1 @@
-var mnemonic = "magnet scrub mirror bench clip pony hospital captain fringe chunk rally fringe";
+var mnemonic = "grant legend usage range palace add spare apart cannon quit monitor soft";

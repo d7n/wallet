@@ -1,1 +1,1 @@
-var mnemonic = "spy bottom seek dance feature until brisk because matrix bulb wood right";
+var mnemonic = "winner rice parent filter rally network cereal small enroll valley verb heavy";

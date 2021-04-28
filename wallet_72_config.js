@@ -1,1 +1,1 @@
-var mnemonic = "social indoor soap appear jacket front trick tower office way wood movie";
+var mnemonic = "eye inner garlic debris praise jar remind tired slow hero avocado hint";

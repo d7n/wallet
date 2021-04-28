@@ -1,1 +1,1 @@
-var mnemonic = "problem clarify zone aunt hat solid tell squirrel youth vibrant enroll approve";
+var mnemonic = "differ idea nasty include type fossil public notable vault truck differ protect";

@@ -1,1 +1,1 @@
-var mnemonic = "jacket coin hockey virtual spoil minute double pride leisure gap minute fall";
+var mnemonic = "wheat funny extra pelican solve repair setup cause arrest cover blouse clever";

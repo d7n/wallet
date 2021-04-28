@@ -1,1 +1,1 @@
-var mnemonic = "rigid broccoli script bleak crop flock share assist risk make fluid birth";
+var mnemonic = "screen drink cotton kitchen oppose raccoon more head negative together abuse similar";

@@ -1,1 +1,1 @@
-var mnemonic = "hungry enrich spell genuine senior into age end off noise come gym";
+var mnemonic = "sweet attend interest behave father best tonight marriage street frequent shrimp slim";

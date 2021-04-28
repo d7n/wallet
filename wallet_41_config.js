@@ -1,1 +1,1 @@
-var mnemonic = "live minute whale agree mushroom poem december right reward spot mistake wait";
+var mnemonic = "mail comfort rocket achieve buyer never ride zoo rather census jelly account";

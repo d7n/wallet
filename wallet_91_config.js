@@ -1,1 +1,1 @@
-var mnemonic = "figure budget attitude during sight peanut strike embark tube stock hurt able";
+var mnemonic = "inmate dragon twice faculty turn glare drip vocal gap document rather hawk";

@@ -1,1 +1,1 @@
-var mnemonic = "crouch general hurry unveil wealth razor glance fire youth dune around glad";
+var mnemonic = "ladder view boss glow enrich furnace arrive pole broom novel onion absurd";

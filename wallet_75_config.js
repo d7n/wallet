@@ -1,1 +1,1 @@
-var mnemonic = "outdoor move antenna exhibit drama off donkey relief pair fragile make zero";
+var mnemonic = "walk honey differ swap canal gold palm payment phrase device answer write";

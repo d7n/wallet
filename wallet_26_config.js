@@ -1,1 +1,1 @@
-var mnemonic = "evil kidney clown auction census scrap video hammer artwork grid code ketchup";
+var mnemonic = "spawn same recall little proof riot unaware clap hire valve swing ship";

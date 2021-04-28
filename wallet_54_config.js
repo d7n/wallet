@@ -1,1 +1,1 @@
-var mnemonic = "gun crunch share calm hundred town film quarter chicken abuse cruel pledge";
+var mnemonic = "forest matter tent task myth trophy tooth pig mansion lounge weasel inquiry";

@@ -1,1 +1,1 @@
-var mnemonic = "fall where truck quit various next total powder glove section tribe cram";
+var mnemonic = "laugh canvas suit tennis shrimp exotic segment rookie board nothing silk board";

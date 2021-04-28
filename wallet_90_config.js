@@ -1,1 +1,1 @@
-var mnemonic = "boring cricket like essay suspect interest iron random bonus trim replace imitate";
+var mnemonic = "pull pen soccer biology poem thought witness evoke emerge alley gauge toilet";

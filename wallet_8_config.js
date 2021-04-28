@@ -1,1 +1,1 @@
-var mnemonic = "cancel riot enlist used ecology little pilot inmate door unit cradle early";
+var mnemonic = "verb prize weapon gasp slab key weekend artist horse spice kitten snake";

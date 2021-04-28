@@ -1,1 +1,1 @@
-var mnemonic = "rifle boring trend praise renew kiwi chase behind castle target loan muffin";
+var mnemonic = "pistol bunker regular artwork spring satisfy base gain wheat coin album enjoy";

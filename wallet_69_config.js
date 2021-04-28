@@ -1,1 +1,1 @@
-var mnemonic = "asthma room rural destroy absurd fish empty survey debate spy carry saddle";
+var mnemonic = "hobby cable pigeon suspect dress asthma frame floor dinner travel earn saddle";

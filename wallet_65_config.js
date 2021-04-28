@@ -1,1 +1,1 @@
-var mnemonic = "loud maple prefer fine lottery pill useful final lava blind visit pelican";
+var mnemonic = "concert crawl hole mirror topic cement slide wrap nephew direct coil syrup";

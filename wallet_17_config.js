@@ -1,1 +1,1 @@
-var mnemonic = "document moon bridge breeze already struggle mother sphere unit tackle guide spy";
+var mnemonic = "sail shallow panel fiber rib live olympic eagle senior disorder ritual mesh";

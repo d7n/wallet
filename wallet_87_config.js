@@ -1,1 +1,1 @@
-var mnemonic = "dragon rate hurdle carpet bus only paper decide chunk dial company observe";
+var mnemonic = "frequent marine frown coast click cradle stay baby candy choose stay broccoli";

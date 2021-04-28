@@ -1,1 +1,1 @@
-var mnemonic = "bachelor fury around open come morning oyster topple machine discover spare clump";
+var mnemonic = "penalty torch almost glance major settle hub pair rocket position distance album";

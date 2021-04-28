@@ -1,1 +1,1 @@
-var mnemonic = "banner desert chase woman buffalo off bring swift say lawsuit damage false";
+var mnemonic = "define right siege tray bottom amount focus know vault scrap drift cattle";

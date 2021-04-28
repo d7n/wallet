@@ -1,1 +1,1 @@
-var mnemonic = "lake page hope thrive marine imitate situate pipe grocery train gift enroll";
+var mnemonic = "father quiz bullet benefit series shine senior switch argue helmet math shop";

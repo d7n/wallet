@@ -1,1 +1,1 @@
-var mnemonic = "icon churn ecology address mechanic pledge wrestle cloth such junk now remember";
+var mnemonic = "transfer bulb notice nose upon follow ramp ten imitate merge sock dove";

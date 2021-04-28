@@ -1,1 +1,1 @@
-var mnemonic = "account similar win penalty silver symptom mixed scrub rally behave bamboo surround";
+var mnemonic = "open repeat age hover clutch coral super know prize exotic skill boss";

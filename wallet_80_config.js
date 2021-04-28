@@ -1,1 +1,1 @@
-var mnemonic = "pink salon genuine kind mountain lamp window confirm castle amazing retreat hollow";
+var mnemonic = "learn income mule mobile pattern unfair double gym slice put shaft either";

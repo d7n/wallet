@@ -1,1 +1,1 @@
-var mnemonic = "crunch correct curious consider bless robot orphan major endless blur frown canal";
+var mnemonic = "cable invite turn organ barrel bind clutch two mom unlock announce cruise";

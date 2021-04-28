@@ -1,1 +1,1 @@
-var mnemonic = "whisper slush present resemble whip arch resist crop april fan rocket logic";
+var mnemonic = "nature pride horn pond coach upset online hand bright harvest knife provide";

@@ -1,1 +1,1 @@
-var mnemonic = "air execute spider remind lady frost creek cage metal puppy ready wrist";
+var mnemonic = "immense inspire aspect grass nephew brown basic erupt kangaroo six hobby fence";

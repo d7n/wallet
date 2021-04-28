@@ -1,1 +1,1 @@
-var mnemonic = "whip crane index exercise nasty saddle later mystery dish brother hip enrich";
+var mnemonic = "dune fatal rigid monitor slice hire zero excess tomato dice glide exist";

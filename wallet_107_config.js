@@ -1,1 +1,1 @@
-var mnemonic = "early bind subway whisper abandon sign one noodle table shield brain trip";
+var mnemonic = "surprise cherry coast easy culture yard fragile upper supply sleep estate poem";

@@ -1,1 +1,1 @@
-var mnemonic = "dog fuel town alter lunar tilt match remind filter immense silent goddess";
+var mnemonic = "loud quiz spare raven defy fault second wire net satoshi mountain crane";

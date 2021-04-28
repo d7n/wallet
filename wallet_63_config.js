@@ -1,1 +1,1 @@
-var mnemonic = "announce wild curious bike business skin picture silk this sheriff nasty pride";
+var mnemonic = "junk frozen fuel exhibit echo please tuition use surface all fish manage";

@@ -1,1 +1,1 @@
-var mnemonic = "slot hint ancient trouble ice draw elder fat actual phone patch blur";
+var mnemonic = "quiz radar surface fire best degree wisdom trim illegal drift furnace window";

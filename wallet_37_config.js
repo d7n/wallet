@@ -1,1 +1,1 @@
-var mnemonic = "nature soldier park pumpkin photo wedding now gesture joke remember hedgehog merge";
+var mnemonic = "steak margin farm tumble slush offer media maximum crash view borrow comfort";

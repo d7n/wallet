@@ -1,1 +1,1 @@
-var mnemonic = "design first conduct success neither patch someone caught midnight lab clerk since";
+var mnemonic = "local jaguar vessel moment shadow table robot where frozen noble farm maple";

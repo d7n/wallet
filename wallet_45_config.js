@@ -1,1 +1,1 @@
-var mnemonic = "abstract noble slogan mesh oxygen expect snow sea perfect exercise fox nephew";
+var mnemonic = "cage anchor glow staff shuffle flat primary ritual boil lunch blue claw";

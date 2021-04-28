@@ -1,1 +1,1 @@
-var mnemonic = "income next venture joke couple swift reunion wood print orchard receive crumble";
+var mnemonic = "obscure flat deliver bacon demise venture lend donor thing carbon topple special";

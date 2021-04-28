@@ -1,1 +1,1 @@
-var mnemonic = "congress army retire seek struggle obscure abstract meadow praise mansion rigid oval";
+var mnemonic = "phrase settle bachelor angle worry swap analyst rebuild bachelor history fish huge";

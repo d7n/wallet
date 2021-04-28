@@ -1,1 +1,1 @@
-var mnemonic = "kit inside video whisper dove pledge solution luggage umbrella draw tail beef";
+var mnemonic = "census enhance bottom wrist author type exile fee mom warrior onion success";

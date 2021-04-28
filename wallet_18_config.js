@@ -1,1 +1,1 @@
-var mnemonic = "cost audit oil buffalo lion crime ten crew catch alpha pass begin";
+var mnemonic = "century wink lucky soap neither artist refuse sword category orange galaxy attitude";

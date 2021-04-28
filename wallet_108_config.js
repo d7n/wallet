@@ -1,1 +1,1 @@
-var mnemonic = "brief lunar champion peace bonus reason powder trigger brown kick smooth broom";
+var mnemonic = "tree banana sketch correct angle either flush million weasel note pen awake";

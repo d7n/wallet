@@ -1,1 +1,1 @@
-var mnemonic = "rain cherry enable drop resemble grain bar twin offer forget weasel face";
+var mnemonic = "sing spike fire hunt climb enemy session lab vivid bundle expect heart";

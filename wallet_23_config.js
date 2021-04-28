@@ -1,1 +1,1 @@
-var mnemonic = "skin vendor true supreme choose zoo huge teach wave aerobic cube mistake";
+var mnemonic = "faculty what warrior okay carpet wash oppose nuclear census attitude offer gaze";

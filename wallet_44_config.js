@@ -1,1 +1,1 @@
-var mnemonic = "open phrase cupboard flee disease poem begin student devote dragon quit gospel";
+var mnemonic = "mixture front pencil toast wasp rival grit cherry piano crazy olympic fee";

@@ -1,1 +1,1 @@
-var mnemonic = "excuse illegal crime arrive oxygen easily feel elevator just anxiety spoil because";
+var mnemonic = "security upset screen bullet faith spawn gauge have maid announce fall arrange";

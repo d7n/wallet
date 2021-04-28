@@ -1,1 +1,1 @@
-var mnemonic = "ask walnut inherit since miracle sponsor eight wagon kidney advice table lock";
+var mnemonic = "lunar about drink strong velvet copy wreck pink novel steak festival frog";

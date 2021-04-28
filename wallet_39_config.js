@@ -1,1 +1,1 @@
-var mnemonic = "betray shine memory inspire fragile check letter stadium emerge west vintage october";
+var mnemonic = "plastic side large power wire canal rule wheel outer bronze height suggest";

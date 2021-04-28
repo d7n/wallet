@@ -1,1 +1,1 @@
-var mnemonic = "comfort add escape ridge unfair call swarm wheel clip claim upgrade surprise";
+var mnemonic = "exhaust congress friend unlock rib clerk scatter inside because rude icon night";

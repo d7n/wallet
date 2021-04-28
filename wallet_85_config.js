@@ -1,1 +1,1 @@
-var mnemonic = "grunt check convince virtual derive erupt push floor digital rally know ladder";
+var mnemonic = "hazard century upset hard before bicycle blue ginger vote winter flee tunnel";

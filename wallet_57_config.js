@@ -1,1 +1,1 @@
-var mnemonic = "ribbon badge payment unhappy volcano banana october grocery object era kangaroo success";
+var mnemonic = "position mobile rose home law embrace nose mobile end unaware final flock";

@@ -1,1 +1,1 @@
-var mnemonic = "board cram drill sheriff okay water cabin hill riot choose destroy elegant";
+var mnemonic = "oxygen amused unfair reward quiz husband daring faint orient short property glad";

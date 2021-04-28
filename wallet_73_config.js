@@ -1,1 +1,1 @@
-var mnemonic = "coach pledge among snack cabin bicycle tourist song size satoshi very cheese";
+var mnemonic = "soda sick caution manage reopen alert suit train purpose image acquire involve";

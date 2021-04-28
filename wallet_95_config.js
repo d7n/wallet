@@ -1,1 +1,1 @@
-var mnemonic = "impact category common inform burden spoon release apology little brief flower broccoli";
+var mnemonic = "together fly doll pet narrow lesson act alien drift save mean wolf";

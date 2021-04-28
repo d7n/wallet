@@ -1,1 +1,1 @@
-var mnemonic = "audit step bronze apple apple exhaust dial hire below scare episode company";
+var mnemonic = "young brand virus resist law cave erosion decline increase attitude adult horror";

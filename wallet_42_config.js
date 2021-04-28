@@ -1,1 +1,1 @@
-var mnemonic = "zoo velvet obvious phrase guitar badge decrease spirit lunar engage catch lab";
+var mnemonic = "move hood more acid rally jar where test alien theme during foster";

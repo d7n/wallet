@@ -1,1 +1,1 @@
-var mnemonic = "drum peace vintage tattoo custom hill autumn engine call narrow chimney add";
+var mnemonic = "diesel where crouch cage april pretty battle orbit mosquito hand mother math";

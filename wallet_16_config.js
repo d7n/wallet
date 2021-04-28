@@ -1,1 +1,1 @@
-var mnemonic = "hybrid guitar beach raccoon account easy tilt hybrid resist impact march iron";
+var mnemonic = "tube return sense soup jump during citizen bag general mouse broken private";

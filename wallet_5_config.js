@@ -1,1 +1,1 @@
-var mnemonic = "powder opera crisp season title wing search crime wild fault knife feed";
+var mnemonic = "bird net science ancient alcohol grass magnet salt youth spot depth giggle";

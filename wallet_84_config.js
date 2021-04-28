@@ -1,1 +1,1 @@
-var mnemonic = "boss raw year critic buffalo rookie plastic expand maid genuine bag control";
+var mnemonic = "behind border extra cloud lock order birth involve artist pause fury lounge";

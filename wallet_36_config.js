@@ -1,1 +1,1 @@
-var mnemonic = "visit organ invest giant grit book tone setup chef holiday few arrive";
+var mnemonic = "apple call inspire come fury priority run bean chief share broom elegant";

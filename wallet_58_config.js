@@ -1,1 +1,1 @@
-var mnemonic = "aim mobile such island dad ice surge tank pluck across unfold three";
+var mnemonic = "index drop witness evidence innocent material tent aspect pelican remove diesel legend";

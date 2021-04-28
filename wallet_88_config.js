@@ -1,1 +1,1 @@
-var mnemonic = "avocado rocket you decorate busy match message language bottom nose ordinary keen";
+var mnemonic = "satoshi toward express problem pudding expire meadow veteran dawn vivid side toast";

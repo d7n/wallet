@@ -1,1 +1,1 @@
-var mnemonic = "soldier immense gain slender song ten suggest candy bar exotic coast suggest";
+var mnemonic = "struggle breeze neither tank fatal trust clock harbor athlete parade squeeze slender";

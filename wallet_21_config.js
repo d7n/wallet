@@ -1,1 +1,1 @@
-var mnemonic = "tail cousin swing kick pumpkin ozone shop armed derive rib donkey sudden";
+var mnemonic = "manual tag bid input border atom sniff tail receive brain bleak render";

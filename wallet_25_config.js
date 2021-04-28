@@ -1,1 +1,1 @@
-var mnemonic = "innocent fade select harsh marine doll race increase harsh brief permit cricket";
+var mnemonic = "steak allow nose lizard safe cinnamon marble obtain pupil repeat blush celery";

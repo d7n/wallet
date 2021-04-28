@@ -1,1 +1,1 @@
-var mnemonic = "atom mad sound pink cute potato gauge choose mesh build mask stumble";
+var mnemonic = "illegal advice affair negative task scan harvest path leave awake post kind";

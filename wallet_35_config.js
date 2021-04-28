@@ -1,1 +1,1 @@
-var mnemonic = "object dress analyst rural obtain blind initial still pink style economy unknown";
+var mnemonic = "trash able define can village destroy track since neither math height soul";

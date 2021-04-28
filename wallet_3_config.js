@@ -1,1 +1,1 @@
-var mnemonic = "doll consider struggle polar spatial jazz intact color rotate daughter clean future";
+var mnemonic = "clown hobby armed legend plug blood shaft immense record ghost jewel twin";

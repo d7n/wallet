@@ -1,1 +1,1 @@
-var mnemonic = "move detail cattle merge zoo occur lazy title box end crawl ribbon";
+var mnemonic = "know fold mammal monitor rally october enjoy grid large during approve occur";

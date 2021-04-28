@@ -1,1 +1,1 @@
-var mnemonic = "road nephew tool strong suspect receive auto pattern echo talent twenty gas";
+var mnemonic = "execute soda borrow crane claw damp illness snap acoustic stool scout enrich";

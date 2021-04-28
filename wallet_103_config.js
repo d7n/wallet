@@ -1,1 +1,1 @@
-var mnemonic = "december work slight adult match crash portion spend capable horse grace kingdom";
+var mnemonic = "utility kangaroo fault table train swim uncover fringe dragon powder dizzy beyond";

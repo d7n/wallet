@@ -1,1 +1,1 @@
-var mnemonic = "average desert brave current season table extend supply twelve practice sketch curtain";
+var mnemonic = "help stamp upgrade flock shoot actual orchard thought thunder captain vibrant pilot";

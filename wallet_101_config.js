@@ -1,1 +1,1 @@
-var mnemonic = "couch shy permit carpet kick candy impulse dune charge muscle more army";
+var mnemonic = "develop barely viable current ripple impose fox owner cluster height devote glare";
