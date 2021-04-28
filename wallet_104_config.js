@@ -1,1 +1,1 @@
-var mnemonic = "alpha laptop wine mammal bullet bitter merit forum sting fork lonely retreat";
+var mnemonic = "film crack better law join couple noise fork remain roof trip baby";

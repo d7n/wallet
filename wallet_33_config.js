@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon cube diary adapt enact method pigeon same craft mixed spot labor";
+var mnemonic = "clay cash inflict orphan curtain mimic spy present wise pulp wish mom";

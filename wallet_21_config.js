@@ -1,1 +1,1 @@
-var mnemonic = "boat bus runway tribe vapor fall slam object into calm client two";
+var mnemonic = "ribbon habit echo frequent feature yard custom frozen lesson potato paddle extend";

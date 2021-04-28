@@ -1,1 +1,1 @@
-var mnemonic = "later emerge bright cool wheat fashion choose town diary endless dolphin swing";
+var mnemonic = "dignity burst bird news love guess simple survey confirm december toy erase";

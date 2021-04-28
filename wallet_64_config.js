@@ -1,1 +1,1 @@
-var mnemonic = "patch install fringe someone work verify giggle couple during lava caution giggle";
+var mnemonic = "connect stool hungry hockey strike female renew item gossip auction artist nice";

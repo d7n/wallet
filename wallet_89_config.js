@@ -1,1 +1,1 @@
-var mnemonic = "scale put axis buyer slice ostrich pizza hero twice input baby curious";
+var mnemonic = "ghost slab lyrics amazing fatal hospital good harsh usual emerge erode divorce";

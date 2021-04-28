@@ -1,1 +1,1 @@
-var mnemonic = "cover casino claim high lunch fan frown correct enjoy distance toilet payment";
+var mnemonic = "display blame ask penalty mercy toe future share tornado guide fee leaf";

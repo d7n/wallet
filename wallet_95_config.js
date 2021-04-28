@@ -1,1 +1,1 @@
-var mnemonic = "kitchen carpet long glove turn frozen that limb sauce gossip quit uncover";
+var mnemonic = "artwork pizza bright stock volume razor joy cannon need sense cabin smooth";

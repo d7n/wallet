@@ -1,1 +1,1 @@
-var mnemonic = "produce canyon shiver near wisdom replace camp wait wreck video harsh odor";
+var mnemonic = "fault enjoy key rabbit kick list slab short surface tobacco champion tattoo";

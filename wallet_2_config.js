@@ -1,1 +1,1 @@
-var mnemonic = "kiwi weekend defy toddler patrol eight air business island clip dish risk";
+var mnemonic = "enforce topple chaos lunch friend next offer manage mask dirt pool mom";

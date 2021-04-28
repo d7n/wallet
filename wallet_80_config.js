@@ -1,1 +1,1 @@
-var mnemonic = "main idea visual minute describe year myth skin neglect rude nation jealous";
+var mnemonic = "throw stumble company sunset glove story permit tell sentence knee suffer corn";

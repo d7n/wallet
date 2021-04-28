@@ -1,1 +1,1 @@
-var mnemonic = "boring shoot message dumb enable fan mass exercise copper lottery misery course";
+var mnemonic = "sound sail they peace cake celery horror enlist bounce yard access forward";

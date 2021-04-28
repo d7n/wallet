@@ -1,1 +1,1 @@
-var mnemonic = "zebra hill icon worth promote speed sniff crystal host process chalk matter";
+var mnemonic = "sound tool upset chronic legal hurry domain tortoise fence filter sleep drastic";

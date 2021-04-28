@@ -1,1 +1,1 @@
-var mnemonic = "rich force damp father horn pool reopen heart tuna stereo confirm spy";
+var mnemonic = "chronic barely hat lounge sell reflect entry few spell angle aspect remind";

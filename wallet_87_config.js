@@ -1,1 +1,1 @@
-var mnemonic = "horse power vocal fashion because olive insect bomb deer seek habit puzzle";
+var mnemonic = "wing bulk hello slide dragon off laugh laptop opinion right game good";

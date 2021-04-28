@@ -1,1 +1,1 @@
-var mnemonic = "ostrich detail chalk fiscal resist diet best mesh enter genre toddler simple";
+var mnemonic = "noble code pride once erase amateur left option offer mad pioneer laugh";

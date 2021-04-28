@@ -1,1 +1,1 @@
-var mnemonic = "minimum between snap layer merry situate disagree dress dial assault rug senior";
+var mnemonic = "announce suspect lens pupil citizen quarter timber thing glad seven beauty leave";

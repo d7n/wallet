@@ -1,1 +1,1 @@
-var mnemonic = "auction skin calm correct hammer salad potato company already foster usual update";
+var mnemonic = "home dose unknown slam original faint casual attack around allow equip purity";

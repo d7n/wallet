@@ -1,1 +1,1 @@
-var mnemonic = "loud sport gown jeans shallow bomb clump pupil ostrich later coil cereal";
+var mnemonic = "zebra turtle nut honey anxiety shrimp pluck half front please dry hollow";

@@ -1,1 +1,1 @@
-var mnemonic = "impose off account virus undo travel version boil grass member gallery auction";
+var mnemonic = "pear token coyote cannon logic sick pet apology board zone bean female";

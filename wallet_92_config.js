@@ -1,1 +1,1 @@
-var mnemonic = "weather army rival improve dilemma nothing mention acoustic inherit can kiwi decorate";
+var mnemonic = "cargo health opinion collect avoid recipe caught script wheel curve jaguar punch";

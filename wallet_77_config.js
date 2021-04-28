@@ -1,1 +1,1 @@
-var mnemonic = "increase height enroll sentence fence betray claw salad marble miss cry debris";
+var mnemonic = "pool volcano media kid finger hammer acoustic dice twist spy shadow filter";

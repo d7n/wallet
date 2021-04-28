@@ -1,1 +1,1 @@
-var mnemonic = "false scene clump plastic click error teach space flag rude resource play";
+var mnemonic = "envelope gate sunset whale job kite glance cook know march immune label";

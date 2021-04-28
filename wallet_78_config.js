@@ -1,1 +1,1 @@
-var mnemonic = "seed autumn radar attract oil ecology behave near patient wage cannon awful";
+var mnemonic = "soda harbor card saddle alien area lift record bleak canal gas faith";

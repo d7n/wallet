@@ -1,1 +1,1 @@
-var mnemonic = "off carry faith fun vendor dignity never flat close eager cereal uniform";
+var mnemonic = "gauge essence picnic lift dose movie network invite nasty smile inside guide";

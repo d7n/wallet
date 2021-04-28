@@ -1,1 +1,1 @@
-var mnemonic = "crop hand deliver rhythm permit gown august secret reject assume success thrive";
+var mnemonic = "broom round torch advice omit measure involve chief wedding february awful able";

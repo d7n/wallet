@@ -1,1 +1,1 @@
-var mnemonic = "hamster denial scale one caught during online pen razor soup bridge roast";
+var mnemonic = "prefer barely place ahead home remember brick govern essence armed diesel nothing";

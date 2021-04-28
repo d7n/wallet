@@ -1,1 +1,1 @@
-var mnemonic = "mesh fog document inmate cage crack sign fringe diet hurry comic submit";
+var mnemonic = "asthma faint blush target affair frequent shy item rural size universe agent";

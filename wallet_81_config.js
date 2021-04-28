@@ -1,1 +1,1 @@
-var mnemonic = "feel grant infant gold plunge boss eager old naive nothing parent edit";
+var mnemonic = "mix fame indicate hammer pattern manual tape stereo tonight approve magic hurt";

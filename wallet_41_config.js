@@ -1,1 +1,1 @@
-var mnemonic = "rigid enable churn account excuse sound story aware century imitate win eagle";
+var mnemonic = "someone praise judge focus census pencil fish express shuffle duty apology omit";

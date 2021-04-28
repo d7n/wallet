@@ -1,1 +1,1 @@
-var mnemonic = "profit head attack ship cigar taxi bridge enable soccer arm music trend";
+var mnemonic = "unfair badge cotton photo family rookie manage valve off rude program nephew";

@@ -1,1 +1,1 @@
-var mnemonic = "false route work object hunt wreck wild fatal bag plastic easily topic";
+var mnemonic = "idea ostrich usage fiber cloth nest stairs boring insect option squirrel hat";

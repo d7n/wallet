@@ -1,1 +1,1 @@
-var mnemonic = "clap time rent enter pass wheel nerve fan catalog chuckle process because";
+var mnemonic = "disagree stumble obtain embrace parrot coconut tower devote silent token zone thumb";

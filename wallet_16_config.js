@@ -1,1 +1,1 @@
-var mnemonic = "jazz pact submit runway kick web steak boil orient elevator voice recipe";
+var mnemonic = "pepper nasty soul device squeeze energy decide maze select airport essay stairs";

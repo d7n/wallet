@@ -1,1 +1,1 @@
-var mnemonic = "message force awful chuckle doctor acquire club ribbon measure local blame response";
+var mnemonic = "control agree menu nose test media scene clean crane sort column rival";

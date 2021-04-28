@@ -1,1 +1,1 @@
-var mnemonic = "tree panther left planet team later kitchen use table target lizard define";
+var mnemonic = "chalk business visual volcano again venue depend dress plunge rubber slow useful";

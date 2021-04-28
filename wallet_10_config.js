@@ -1,1 +1,1 @@
-var mnemonic = "grunt rebel track era sense smart clarify street account magnet always symptom";
+var mnemonic = "leopard shuffle echo hazard improve try fruit term distance ceiling ring achieve";

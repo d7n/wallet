@@ -1,1 +1,1 @@
-var mnemonic = "spot unit bargain escape novel soup swap surface boss ribbon absorb apart";
+var mnemonic = "core view phrase hidden debris indoor april motor cargo sign foot shine";

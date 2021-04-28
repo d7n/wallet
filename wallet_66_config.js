@@ -1,1 +1,1 @@
-var mnemonic = "squeeze zebra crazy file unveil avoid number search rifle thunder ice lumber";
+var mnemonic = "during stove entire nuclear convince pattern truth warfare fashion little season lock";

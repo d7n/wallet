@@ -1,1 +1,1 @@
-var mnemonic = "clutch bless noise crew virus wave write bicycle share churn second mesh";
+var mnemonic = "lake cream night print album snake inspire laugh original hip comic cluster";

@@ -1,1 +1,1 @@
-var mnemonic = "fatal pitch pottery wrong stadium tourist sting style help pottery pink voyage";
+var mnemonic = "blanket drama despair agent arena until wrap chief metal digital hockey dune";

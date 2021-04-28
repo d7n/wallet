@@ -1,1 +1,1 @@
-var mnemonic = "tortoise spoil sock shoe evil anger ecology quality matter vendor honey grace";
+var mnemonic = "nominee umbrella post crane net bird brain drill climb immune share tuna";

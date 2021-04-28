@@ -1,1 +1,1 @@
-var mnemonic = "indoor fat initial bring enforce pluck cup marine follow steel ladder feel";
+var mnemonic = "coast cash harvest body chalk smile afraid biology crouch all lawsuit boost";

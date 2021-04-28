@@ -1,1 +1,1 @@
-var mnemonic = "appear pond noodle exhaust vibrant three side keep noodle cart liar total";
+var mnemonic = "scout orange remind amazing cargo rally whisper hospital vague beach ignore budget";

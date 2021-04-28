@@ -1,1 +1,1 @@
-var mnemonic = "impose over before warfare adapt human volume identify about use extra frost";
+var mnemonic = "hybrid cabbage trim myself chicken drift section monster still have busy sadness";

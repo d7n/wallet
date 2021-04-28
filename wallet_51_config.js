@@ -1,1 +1,1 @@
-var mnemonic = "utility problem brass pigeon female color attract error load park health damp";
+var mnemonic = "render zoo head absent true original famous loop local embody heavy shine";

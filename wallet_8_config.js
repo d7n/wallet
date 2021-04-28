@@ -1,1 +1,1 @@
-var mnemonic = "follow wool flat immense shuffle empower language pigeon local apple improve problem";
+var mnemonic = "agree similar use cart copper inhale chimney sketch teach illegal earth wink";

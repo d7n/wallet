@@ -1,1 +1,1 @@
-var mnemonic = "play feel pen noodle perfect cover unlock mosquito clarify mutual exit sting";
+var mnemonic = "year possible future price rapid climb viable print elevator enhance fun explain";

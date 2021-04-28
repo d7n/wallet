@@ -1,1 +1,1 @@
-var mnemonic = "liquid drink gain glue update rib melody shrug wise cross shield nut";
+var mnemonic = "celery delay icon mouse garbage ladder grunt moon charge embrace video task";

@@ -1,1 +1,1 @@
-var mnemonic = "chef dream salmon broom jewel before artist pottery magic champion donor turn";
+var mnemonic = "jewel scrub pudding drip soda essay order push sphere stock supply happy";

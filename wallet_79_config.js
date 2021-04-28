@@ -1,1 +1,1 @@
-var mnemonic = "usual more crash author then voice crawl bacon differ amused hawk crumble";
+var mnemonic = "conduct stage move debate visit chimney festival few grid juice wage route";

@@ -1,1 +1,1 @@
-var mnemonic = "mind screen enjoy gaze album solid survey blame prison wedding pledge kangaroo";
+var mnemonic = "tonight dynamic desk tag unfair figure board butter lava elegant blind obvious";

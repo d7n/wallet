@@ -1,1 +1,1 @@
-var mnemonic = "decide mobile boost immune peace snow current will parrot dry unique also";
+var mnemonic = "move keep marble immune episode jazz gas belt kiss east proud shine";

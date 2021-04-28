@@ -1,1 +1,1 @@
-var mnemonic = "obvious sibling plastic owner sunset rare artist lonely limb hedgehog primary wait";
+var mnemonic = "tower hurdle you wood before make civil card gauge coach canyon trip";

@@ -1,1 +1,1 @@
-var mnemonic = "seed uncover human whale can diagram drink habit spin cancel verify coil";
+var mnemonic = "grain swing drastic toe lens sketch sock elbow pistol below mom notable";

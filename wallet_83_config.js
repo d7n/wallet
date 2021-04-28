@@ -1,1 +1,1 @@
-var mnemonic = "rule speak peasant there crisp nut hockey power air fluid goddess rain";
+var mnemonic = "salmon mean practice cool common lamp elbow curve moment cluster ticket kite";

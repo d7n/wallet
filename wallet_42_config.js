@@ -1,1 +1,1 @@
-var mnemonic = "caution avocado yard oval skin dice shove great defense ring cover orient";
+var mnemonic = "tail depart flavor shallow involve lesson anger beyond miss iron rent clinic";

@@ -1,1 +1,1 @@
-var mnemonic = "such siren sausage script noble lyrics stage connect thought whisper primary slot";
+var mnemonic = "piano month fashion stadium maximum clock canyon door tongue kiwi resemble used";

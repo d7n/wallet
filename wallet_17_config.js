@@ -1,1 +1,1 @@
-var mnemonic = "glance guard time true firm flash grape master view pigeon pink social";
+var mnemonic = "point place lens salt dice document cereal bulb bulb jar cereal illegal";

@@ -1,1 +1,1 @@
-var mnemonic = "mean owner pen battle motion mass swamp cliff physical wheat tiny title";
+var mnemonic = "sugar license lazy rent lake glimpse post mouse learn mosquito hello rib";

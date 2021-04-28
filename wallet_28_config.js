@@ -1,1 +1,1 @@
-var mnemonic = "trash snake useful same modify pencil video other funny blade leisure mesh";
+var mnemonic = "same engine verb recall employ solar street bridge merit maze leg slim";

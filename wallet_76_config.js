@@ -1,1 +1,1 @@
-var mnemonic = "scale town urban humble hockey elevator crawl make fish security shoe olympic";
+var mnemonic = "kind fantasy vocal slide machine recycle nose local learn dismiss price weekend";

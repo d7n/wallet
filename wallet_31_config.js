@@ -1,1 +1,1 @@
-var mnemonic = "poem amazing garment chicken job barrel copper express cluster swift inflict flight";
+var mnemonic = "flower melt quit hat skull jazz skirt upon vacuum transfer enhance around";

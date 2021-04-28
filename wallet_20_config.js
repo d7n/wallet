@@ -1,1 +1,1 @@
-var mnemonic = "column dry index hair tackle race hurt pill soldier refuse vacuum hungry";
+var mnemonic = "comfort device payment truth lyrics general grass stuff lottery rhythm invest increase";

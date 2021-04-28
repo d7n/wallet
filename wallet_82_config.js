@@ -1,1 +1,1 @@
-var mnemonic = "initial board pledge devote cycle seat shy alarm never army endless south";
+var mnemonic = "clock write brother faint floor humble merry cruise mansion evidence income situate";

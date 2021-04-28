@@ -1,1 +1,1 @@
-var mnemonic = "volume young rare good retire duck limb marine theme dream uniform sick";
+var mnemonic = "laugh humor smile salt object loud away blood uncle shoe donate either";

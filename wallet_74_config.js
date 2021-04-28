@@ -1,1 +1,1 @@
-var mnemonic = "camp hamster pool theory indicate easily vote melody load solve teach obey";
+var mnemonic = "expose used reunion brother fury inject grain hotel mean either cargo ugly";

@@ -1,1 +1,1 @@
-var mnemonic = "taxi loop drum rocket dad wine strategy labor skill latin kitchen neglect";
+var mnemonic = "airport choose any link group best ritual imitate leave point mom muffin";

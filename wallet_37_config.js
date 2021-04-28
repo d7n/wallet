@@ -1,1 +1,1 @@
-var mnemonic = "alert affair hazard flavor play marine novel romance clog unit alpha gasp";
+var mnemonic = "excite mixed lesson mechanic airport rain minute defy mosquito one noodle ethics";

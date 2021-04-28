@@ -1,1 +1,1 @@
-var mnemonic = "wonder rain sing donate word ghost route elegant outer globe gospel bright";
+var mnemonic = "shoulder lesson evolve novel act sick chef prosper priority survey chase general";

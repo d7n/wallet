@@ -1,1 +1,1 @@
-var mnemonic = "sort spin oxygen outside help close pear cook grass myth average weasel";
+var mnemonic = "crash wire fluid alien era veteran royal season stand tuition cash suggest";

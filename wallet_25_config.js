@@ -1,1 +1,1 @@
-var mnemonic = "garden toward scatter abstract eight asthma choice together disagree rose wear cream";
+var mnemonic = "slush very under wink believe throw trophy critic year arctic jungle text";

@@ -1,1 +1,1 @@
-var mnemonic = "receive oval equip concert safe moment vicious spell steel absent pill initial";
+var mnemonic = "west violin join spy invest tenant unusual trial purchase frown icon any";

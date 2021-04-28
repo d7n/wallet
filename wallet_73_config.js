@@ -1,1 +1,1 @@
-var mnemonic = "device clutch flip under derive into travel mansion accident favorite wage theme";
+var mnemonic = "problem surround ginger start grit game educate mule vivid host pattern pluck";

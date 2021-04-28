@@ -1,1 +1,1 @@
-var mnemonic = "student blossom wealth hockey recycle rural grape afford sun cake goose spray";
+var mnemonic = "tower smoke step blanket physical banana orange prepare bubble deny orphan elbow";

@@ -1,1 +1,1 @@
-var mnemonic = "just put identify fever walk furnace coffee awkward cruise decline dish awful";
+var mnemonic = "vast chest track maximum have symbol general security demand oval laugh thumb";

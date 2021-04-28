@@ -1,1 +1,1 @@
-var mnemonic = "rebuild since green accuse disagree copper twenty load pelican fragile climb answer";
+var mnemonic = "page exclude shoe hamster empower pony oven soup awake walk inner immune";

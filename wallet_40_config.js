@@ -1,1 +1,1 @@
-var mnemonic = "pig pool method main mimic bread canal tuna curtain silly trigger beef";
+var mnemonic = "mule north harsh snap fence section balance service bus bring artist credit";

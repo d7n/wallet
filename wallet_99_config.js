@@ -1,1 +1,1 @@
-var mnemonic = "medal birth when maple pistol document jewel invest size capable caution tuna";
+var mnemonic = "carpet age door rough ice talent case chair spirit utility suit ankle";

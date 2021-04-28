@@ -1,1 +1,1 @@
-var mnemonic = "bring town alarm zebra game cute traffic violin company motor radar matrix";
+var mnemonic = "snap gather uncover awake assume among vendor unlock awful vibrant science dignity";

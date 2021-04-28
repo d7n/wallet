@@ -1,1 +1,1 @@
-var mnemonic = "increase width silver faculty remind rival seven happy surround slab oak chase";
+var mnemonic = "lucky east crash decline dilemma night violin immense accuse arctic physical strategy";

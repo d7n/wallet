@@ -1,1 +1,1 @@
-var mnemonic = "defy plunge damage air assume mobile clog awesome effort unusual increase glow";
+var mnemonic = "year clog praise casual paper goddess erode verify doll cycle tribe heart";

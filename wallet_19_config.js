@@ -1,1 +1,1 @@
-var mnemonic = "begin cloud remain fly nominee evoke toy impact mistake initial elegant volume";
+var mnemonic = "expire piano virus action ugly addict impact search north taxi company area";

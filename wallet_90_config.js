@@ -1,1 +1,1 @@
-var mnemonic = "rich predict assume razor step upgrade bean drip rural divide delay dial";
+var mnemonic = "tongue supreme never bone law sting rebuild live fury margin grid foster";

@@ -1,1 +1,1 @@
-var mnemonic = "voice silver milk program fatal suit glance sock negative flat joy glance";
+var mnemonic = "outside illness inspire pioneer addict myth thrive foil olive twice stone suggest";

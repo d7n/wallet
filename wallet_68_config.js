@@ -1,1 +1,1 @@
-var mnemonic = "tumble consider earn planet fantasy track sign then valley element supply toy";
+var mnemonic = "believe drip diesel asthma bounce craft absurd spring runway snap wolf require";

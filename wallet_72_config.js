@@ -1,1 +1,1 @@
-var mnemonic = "flat weasel someone shrimp talk donkey switch elevator tent wine farm above";
+var mnemonic = "laundry patrol accident foil board among wild snap discover addict hurdle tilt";

@@ -1,1 +1,1 @@
-var mnemonic = "virus filter year glow stand bag alpha arm liquid error behave gold";
+var mnemonic = "smooth pottery hobby between such naive aim grow pool mail drop fury";

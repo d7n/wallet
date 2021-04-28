@@ -1,1 +1,1 @@
-var mnemonic = "cycle talent pencil heavy sleep polar hire boss suit floor index end";
+var mnemonic = "sound design obey enter wheel fly cream pilot piano bridge exercise harbor";

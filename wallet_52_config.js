@@ -1,1 +1,1 @@
-var mnemonic = "yard liberty welcome input jealous bubble near wage then cause measure garment";
+var mnemonic = "release sea embody elder garlic craft nuclear wet helmet idle strong unlock";

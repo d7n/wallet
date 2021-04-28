@@ -1,1 +1,1 @@
-var mnemonic = "chimney carbon lawsuit above village suspect music cry join rally old glow";
+var mnemonic = "biology juice truly acquire valid hope situate goat beef pony vessel athlete";

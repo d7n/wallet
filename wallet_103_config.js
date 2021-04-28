@@ -1,1 +1,1 @@
-var mnemonic = "crawl habit typical replace welcome six social pluck spot skin glide strategy";
+var mnemonic = "wagon village orchard acoustic bottom joy oxygen wide broken choice snack clever";

@@ -1,1 +1,1 @@
-var mnemonic = "comic tissue spawn sun acoustic town tenant hockey city film domain jeans";
+var mnemonic = "need group perfect bless inject merit general barrel motor moment friend olive";

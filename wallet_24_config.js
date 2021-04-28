@@ -1,1 +1,1 @@
-var mnemonic = "bleak around once celery convince fat zone talent useless warfare item umbrella";
+var mnemonic = "now denial zero leisure claim jaguar denial result false fox scout wheel";

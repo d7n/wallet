@@ -1,1 +1,1 @@
-var mnemonic = "impose they mechanic peanut stairs pause bachelor wrap behave live soda ordinary";
+var mnemonic = "fatal wolf close change help okay patch goddess check what buzz mind";
