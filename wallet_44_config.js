@@ -1,1 +1,1 @@
-var mnemonic = "paper require recipe drastic conduct beef upset horse father three soup pride";
+var mnemonic = "diamond grief file asthma extend heavy youth hobby topple canyon impose behind";

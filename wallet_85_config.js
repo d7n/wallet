@@ -1,1 +1,1 @@
-var mnemonic = "loop sign heart initial end evolve depend echo devote action question always";
+var mnemonic = "liquid drink gain glue update rib melody shrug wise cross shield nut";

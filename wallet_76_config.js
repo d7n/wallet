@@ -1,1 +1,1 @@
-var mnemonic = "attract near rhythm planet truth icon type honey pyramid sleep submit kiwi";
+var mnemonic = "scale town urban humble hockey elevator crawl make fish security shoe olympic";

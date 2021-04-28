@@ -1,1 +1,1 @@
-var mnemonic = "load few sibling energy identify boring bread until estate hedgehog coral devote";
+var mnemonic = "bleak around once celery convince fat zone talent useless warfare item umbrella";

@@ -1,1 +1,1 @@
-var mnemonic = "vacant daring inch attack ladder swear doctor code miss swift spoil decorate";
+var mnemonic = "impose they mechanic peanut stairs pause bachelor wrap behave live soda ordinary";

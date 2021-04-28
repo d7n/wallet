@@ -1,1 +1,1 @@
-var mnemonic = "detail voyage gentle antenna sight advance rely shy exact suggest toward coral";
+var mnemonic = "champion trim wrap glue nuclear bomb erupt blossom weekend move chimney rapid";

@@ -1,1 +1,1 @@
-var mnemonic = "wet exhibit just monitor area mention lift noodle deliver habit armed wave";
+var mnemonic = "cover casino claim high lunch fan frown correct enjoy distance toilet payment";

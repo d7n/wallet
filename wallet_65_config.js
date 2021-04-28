@@ -1,1 +1,1 @@
-var mnemonic = "desert throw coil seven exchange reveal wrist play protect detect release matrix";
+var mnemonic = "mean owner pen battle motion mass swamp cliff physical wheat tiny title";

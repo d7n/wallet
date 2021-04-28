@@ -1,1 +1,1 @@
-var mnemonic = "task visa silk april copy kite capable enjoy flush stomach woman hair";
+var mnemonic = "profit head attack ship cigar taxi bridge enable soccer arm music trend";

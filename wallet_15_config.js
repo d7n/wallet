@@ -1,1 +1,1 @@
-var mnemonic = "shrimp silly piano flee tray simple decorate aspect awake tiger surround desk";
+var mnemonic = "increase width silver faculty remind rival seven happy surround slab oak chase";

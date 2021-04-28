@@ -1,1 +1,1 @@
-var mnemonic = "flag hole help wool glare scheme vote lonely floor minute genius verify";
+var mnemonic = "impose off account virus undo travel version boil grass member gallery auction";

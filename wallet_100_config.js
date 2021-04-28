@@ -1,1 +1,1 @@
-var mnemonic = "arrange vanish kidney extend stomach lunch error accuse fiber tortoise mistake artwork";
+var mnemonic = "taxi loop drum rocket dad wine strategy labor skill latin kitchen neglect";

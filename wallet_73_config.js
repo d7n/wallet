@@ -1,1 +1,1 @@
-var mnemonic = "expand three steak embark grow table chalk thing energy diesel able battle";
+var mnemonic = "device clutch flip under derive into travel mansion accident favorite wage theme";

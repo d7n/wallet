@@ -1,1 +1,1 @@
-var mnemonic = "tank dash never home uncle meadow crash note hold mosquito auction begin";
+var mnemonic = "rich force damp father horn pool reopen heart tuna stereo confirm spy";

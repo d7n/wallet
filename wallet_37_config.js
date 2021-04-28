@@ -1,1 +1,1 @@
-var mnemonic = "effort wait seek congress uncle slush actual wonder flee drink weasel quick";
+var mnemonic = "alert affair hazard flavor play marine novel romance clog unit alpha gasp";

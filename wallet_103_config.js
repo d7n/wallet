@@ -1,1 +1,1 @@
-var mnemonic = "direct cherry order inform double congress stadium cable ridge eyebrow grit select";
+var mnemonic = "crawl habit typical replace welcome six social pluck spot skin glide strategy";

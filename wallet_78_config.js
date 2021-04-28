@@ -1,1 +1,1 @@
-var mnemonic = "they outdoor eager clown vague bronze brick diamond unveil exhaust grab busy";
+var mnemonic = "seed autumn radar attract oil ecology behave near patient wage cannon awful";

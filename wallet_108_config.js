@@ -1,1 +1,1 @@
-var mnemonic = "claw version fever split trade cool alley emotion orbit flip rebel hazard";
+var mnemonic = "cycle talent pencil heavy sleep polar hire boss suit floor index end";

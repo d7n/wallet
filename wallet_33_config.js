@@ -1,1 +1,1 @@
-var mnemonic = "favorite prison narrow special hood jewel disease enough reason fence initial scatter";
+var mnemonic = "cinnamon cube diary adapt enact method pigeon same craft mixed spot labor";

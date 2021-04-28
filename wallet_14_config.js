@@ -1,1 +1,1 @@
-var mnemonic = "canal exchange throw stadium congress almost observe present curious capable wheat answer";
+var mnemonic = "cup sustain divorce beef feel post manual owner scorpion unfair trust gold";

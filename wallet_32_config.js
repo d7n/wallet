@@ -1,1 +1,1 @@
-var mnemonic = "resemble measure cup tenant half delay blouse dynamic wild praise three grace";
+var mnemonic = "mesh fog document inmate cage crack sign fringe diet hurry comic submit";

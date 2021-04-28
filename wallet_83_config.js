@@ -1,1 +1,1 @@
-var mnemonic = "cigar shrug quality engine embody tortoise duty face aerobic fringe bone rain";
+var mnemonic = "rule speak peasant there crisp nut hockey power air fluid goddess rain";

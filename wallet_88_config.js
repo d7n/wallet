@@ -1,1 +1,1 @@
-var mnemonic = "put hazard cycle roof laundry gown day argue upgrade busy grid easy";
+var mnemonic = "zebra hill icon worth promote speed sniff crystal host process chalk matter";

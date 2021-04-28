@@ -1,1 +1,1 @@
-var mnemonic = "tip offer club crazy glad bulb collect elevator curtain water treat beef";
+var mnemonic = "voice silver milk program fatal suit glance sock negative flat joy glance";

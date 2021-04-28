@@ -1,1 +1,1 @@
-var mnemonic = "solar dilemma diamond east primary click mansion denial regret spin toe negative";
+var mnemonic = "tonight kind focus advance trigger stay cart sting order describe later burden";

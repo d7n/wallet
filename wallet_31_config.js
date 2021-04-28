@@ -1,1 +1,1 @@
-var mnemonic = "question ordinary position axis gasp finger funny pact senior morning merit topple";
+var mnemonic = "poem amazing garment chicken job barrel copper express cluster swift inflict flight";

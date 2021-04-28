@@ -1,1 +1,1 @@
-var mnemonic = "base jaguar core sadness quick tiger inside assume hope hair fan invite";
+var mnemonic = "ostrich detail chalk fiscal resist diet best mesh enter genre toddler simple";

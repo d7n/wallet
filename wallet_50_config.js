@@ -1,1 +1,1 @@
-var mnemonic = "lady uncover shrimp become lawsuit salute recycle rival cup alarm safe alter";
+var mnemonic = "just put identify fever walk furnace coffee awkward cruise decline dish awful";

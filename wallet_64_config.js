@@ -1,1 +1,1 @@
-var mnemonic = "buyer reject elite order stamp guilt nurse toast uniform wish truth aerobic";
+var mnemonic = "patch install fringe someone work verify giggle couple during lava caution giggle";

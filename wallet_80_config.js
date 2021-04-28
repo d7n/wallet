@@ -1,1 +1,1 @@
-var mnemonic = "planet loan poem gospel ability special author this front village uncover valve";
+var mnemonic = "main idea visual minute describe year myth skin neglect rude nation jealous";

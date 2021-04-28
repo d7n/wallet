@@ -1,1 +1,1 @@
-var mnemonic = "clerk umbrella sketch truly harsh virus place law mimic huge wife tooth";
+var mnemonic = "squeeze zebra crazy file unveil avoid number search rifle thunder ice lumber";

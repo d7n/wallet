@@ -1,1 +1,1 @@
-var mnemonic = "transfer orphan consider right asset cake suffer happy hire burden actor major";
+var mnemonic = "clutch bless noise crew virus wave write bicycle share churn second mesh";

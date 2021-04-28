@@ -1,1 +1,1 @@
-var mnemonic = "wave beef flock bird lyrics because city hungry front know check post";
+var mnemonic = "off carry faith fun vendor dignity never flat close eager cereal uniform";

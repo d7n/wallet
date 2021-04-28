@@ -1,1 +1,1 @@
-var mnemonic = "minimum timber acquire actual honey easy squeeze hair clump august rent onion";
+var mnemonic = "rebuild since green accuse disagree copper twenty load pelican fragile climb answer";

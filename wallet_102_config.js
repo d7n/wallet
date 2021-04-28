@@ -1,1 +1,1 @@
-var mnemonic = "quality trend nurse else hood always sniff math romance grace perfect panther";
+var mnemonic = "chimney carbon lawsuit above village suspect music cry join rally old glow";

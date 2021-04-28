@@ -1,1 +1,1 @@
-var mnemonic = "parade mean fiber original grid mechanic wrist silly casual warfare man million";
+var mnemonic = "appear pond noodle exhaust vibrant three side keep noodle cart liar total";

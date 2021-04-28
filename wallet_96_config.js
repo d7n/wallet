@@ -1,1 +1,1 @@
-var mnemonic = "office staff fall recall shove sleep toilet reunion object citizen credit actor";
+var mnemonic = "auction skin calm correct hammer salad potato company already foster usual update";

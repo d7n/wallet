@@ -1,1 +1,1 @@
-var mnemonic = "hurdle practice ripple like easy doctor someone wear script mandate iron giraffe";
+var mnemonic = "scale put axis buyer slice ostrich pizza hero twice input baby curious";

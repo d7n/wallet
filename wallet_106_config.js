@@ -1,1 +1,1 @@
-var mnemonic = "relief wine adapt fabric mother slim census spot novel strong author snake";
+var mnemonic = "later emerge bright cool wheat fashion choose town diary endless dolphin swing";

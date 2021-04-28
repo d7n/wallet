@@ -1,1 +1,1 @@
-var mnemonic = "action allow sail winner rookie club cancel month useless swear all orange";
+var mnemonic = "chef dream salmon broom jewel before artist pottery magic champion donor turn";

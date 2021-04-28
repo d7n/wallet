@@ -1,1 +1,1 @@
-var mnemonic = "tobacco episode ethics lunch type erosion timber amateur list seven wise flip";
+var mnemonic = "clap time rent enter pass wheel nerve fan catalog chuckle process because";

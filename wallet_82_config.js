@@ -1,1 +1,1 @@
-var mnemonic = "cargo canvas tornado alarm success hero guitar cherry legal develop subject night";
+var mnemonic = "initial board pledge devote cycle seat shy alarm never army endless south";

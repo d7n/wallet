@@ -1,1 +1,1 @@
-var mnemonic = "picture rebuild carry ability useful battle shadow language indoor joke roast hope";
+var mnemonic = "increase height enroll sentence fence betray claw salad marble miss cry debris";

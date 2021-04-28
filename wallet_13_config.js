@@ -1,1 +1,1 @@
-var mnemonic = "promote lamp panel divert wait hero sleep actual december thought rival adjust";
+var mnemonic = "boring shoot message dumb enable fan mass exercise copper lottery misery course";

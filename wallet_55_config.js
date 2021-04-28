@@ -1,1 +1,1 @@
-var mnemonic = "source lab eternal lock danger sketch sport recycle decline real top rely";
+var mnemonic = "volume young rare good retire duck limb marine theme dream uniform sick";

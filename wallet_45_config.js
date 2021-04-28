@@ -1,1 +1,1 @@
-var mnemonic = "canyon donor sponsor sibling verb fiber conduct news phrase test tiny sock";
+var mnemonic = "bring town alarm zebra game cute traffic violin company motor radar matrix";

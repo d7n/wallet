@@ -1,1 +1,1 @@
-var mnemonic = "inmate rookie lazy gloom gesture fade switch bacon shrug vibrant potato imitate";
+var mnemonic = "rich predict assume razor step upgrade bean drip rural divide delay dial";

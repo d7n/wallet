@@ -1,1 +1,1 @@
-var mnemonic = "degree drink left fine nest talk minimum cart young inch federal chef";
+var mnemonic = "rigid enable churn account excuse sound story aware century imitate win eagle";

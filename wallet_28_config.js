@@ -1,1 +1,1 @@
-var mnemonic = "skin rain rubber people cloud valve train ginger viable divorce omit plastic";
+var mnemonic = "trash snake useful same modify pencil video other funny blade leisure mesh";

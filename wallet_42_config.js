@@ -1,1 +1,1 @@
-var mnemonic = "announce space flock forward fire occur antique crouch limit depend enroll expand";
+var mnemonic = "caution avocado yard oval skin dice shove great defense ring cover orient";

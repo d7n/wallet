@@ -1,1 +1,1 @@
-var mnemonic = "delay almost route artist pitch replace agree banner question fever zebra circle";
+var mnemonic = "garden toward scatter abstract eight asthma choice together disagree rose wear cream";

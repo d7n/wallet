@@ -1,1 +1,1 @@
-var mnemonic = "athlete strategy mechanic wire snow total almost rescue mixed elevator flash sight";
+var mnemonic = "virus filter year glow stand bag alpha arm liquid error behave gold";

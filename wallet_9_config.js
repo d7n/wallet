@@ -1,1 +1,1 @@
-var mnemonic = "scout erode wheat blur kitten math action around dash illness repair ocean";
+var mnemonic = "sort spin oxygen outside help close pear cook grass myth average weasel";

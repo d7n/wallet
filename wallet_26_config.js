@@ -1,1 +1,1 @@
-var mnemonic = "sail melt candy join cabbage copper eight shaft field album explain length";
+var mnemonic = "mind screen enjoy gaze album solid survey blame prison wedding pledge kangaroo";

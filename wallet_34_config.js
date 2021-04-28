@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo force have alter version barrel parrot orbit science swallow farm reform";
+var mnemonic = "saddle luxury render finish town plastic heavy idea ivory planet nose verify";

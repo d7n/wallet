@@ -1,1 +1,1 @@
-var mnemonic = "tuna tooth south eagle lazy crater autumn dry enhance advance insect when";
+var mnemonic = "begin cloud remain fly nominee evoke toy impact mistake initial elegant volume";

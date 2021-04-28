@@ -1,1 +1,1 @@
-var mnemonic = "daughter design dilemma gaze glory dove rather off cinnamon peanut depart bottom";
+var mnemonic = "student blossom wealth hockey recycle rural grape afford sun cake goose spray";

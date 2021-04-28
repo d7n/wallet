@@ -1,1 +1,1 @@
-var mnemonic = "hammer practice heart raw one deer immense banana steak palace slender bulk";
+var mnemonic = "such siren sausage script noble lyrics stage connect thought whisper primary slot";

@@ -1,1 +1,1 @@
-var mnemonic = "guide six legal return else tired faculty climb system toilet fish palace";
+var mnemonic = "decide mobile boost immune peace snow current will parrot dry unique also";

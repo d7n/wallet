@@ -1,1 +1,1 @@
-var mnemonic = "buzz sponsor evil below girl neck boring team goat prepare divorce pulp";
+var mnemonic = "loud sport gown jeans shallow bomb clump pupil ostrich later coil cereal";

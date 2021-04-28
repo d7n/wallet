@@ -1,1 +1,1 @@
-var mnemonic = "three bar devote solve ten trigger banana light duty load theme try";
+var mnemonic = "popular charge fat duck flame peanut ladder latin uncover smooth interest model";

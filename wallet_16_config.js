@@ -1,1 +1,1 @@
-var mnemonic = "devote seminar crane prepare judge increase token patient brisk arctic settle glimpse";
+var mnemonic = "jazz pact submit runway kick web steak boil orient elevator voice recipe";

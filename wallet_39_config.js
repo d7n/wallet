@@ -1,1 +1,1 @@
-var mnemonic = "photo stick robot wolf about orient pledge boss conduct impact crazy length";
+var mnemonic = "comic tissue spawn sun acoustic town tenant hockey city film domain jeans";

@@ -1,1 +1,1 @@
-var mnemonic = "coach sort wave outer wife tooth slow tongue minute enjoy captain spike";
+var mnemonic = "usual more crash author then voice crawl bacon differ amused hawk crumble";

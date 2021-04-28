@@ -1,1 +1,1 @@
-var mnemonic = "deposit omit reform diet found cactus party idle flash enter imitate recipe";
+var mnemonic = "message force awful chuckle doctor acquire club ribbon measure local blame response";

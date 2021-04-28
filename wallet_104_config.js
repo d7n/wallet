@@ -1,1 +1,1 @@
-var mnemonic = "ghost walk lazy country humble target sniff leave pact rebel start describe";
+var mnemonic = "alpha laptop wine mammal bullet bitter merit forum sting fork lonely retreat";

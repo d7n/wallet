@@ -1,1 +1,1 @@
-var mnemonic = "ramp bracket next sense sleep trouble song finger mushroom rookie cup lift";
+var mnemonic = "tree panther left planet team later kitchen use table target lizard define";

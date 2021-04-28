@@ -1,1 +1,1 @@
-var mnemonic = "eight venue funny candy elder argue mad host shadow rubber another wreck";
+var mnemonic = "indoor fat initial bring enforce pluck cup marine follow steel ladder feel";

@@ -1,1 +1,1 @@
-var mnemonic = "pole arrange try across prevent unhappy swallow across better ivory they rich";
+var mnemonic = "seed uncover human whale can diagram drink habit spin cancel verify coil";

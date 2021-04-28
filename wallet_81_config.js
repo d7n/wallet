@@ -1,1 +1,1 @@
-var mnemonic = "limit clay divorce blouse pill subject maze tree lounge case fold road";
+var mnemonic = "feel grant infant gold plunge boss eager old naive nothing parent edit";

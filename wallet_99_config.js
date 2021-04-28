@@ -1,1 +1,1 @@
-var mnemonic = "turkey mango mobile pitch expect man faculty fine debris rack skull kingdom";
+var mnemonic = "medal birth when maple pistol document jewel invest size capable caution tuna";

@@ -1,1 +1,1 @@
-var mnemonic = "weird olive million hidden comfort mind spin mother wood stem tortoise life";
+var mnemonic = "false scene clump plastic click error teach space flag rude resource play";

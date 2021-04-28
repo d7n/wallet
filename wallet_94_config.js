@@ -1,1 +1,1 @@
-var mnemonic = "bench bread deposit pyramid ordinary olympic drill car volcano car antenna victory";
+var mnemonic = "false route work object hunt wreck wild fatal bag plastic easily topic";

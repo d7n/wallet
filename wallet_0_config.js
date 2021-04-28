@@ -1,1 +1,1 @@
-var mnemonic = "garbage glue steel bleak immense indoor love stuff fuel garage brisk tonight";
+var mnemonic = "eager harvest salon surface upon gospel wave stage rifle census bacon rebel";

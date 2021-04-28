@@ -1,1 +1,1 @@
-var mnemonic = "almost series vintage expand purse drama middle great admit elegant chicken give";
+var mnemonic = "weather army rival improve dilemma nothing mention acoustic inherit can kiwi decorate";

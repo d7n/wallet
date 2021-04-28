@@ -1,1 +1,1 @@
-var mnemonic = "broccoli cat pioneer say husband system next drama drive cute abandon arctic";
+var mnemonic = "obvious sibling plastic owner sunset rare artist lonely limb hedgehog primary wait";

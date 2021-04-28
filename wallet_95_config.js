@@ -1,1 +1,1 @@
-var mnemonic = "reduce phrase uncle brave essay success intact appear scheme toss onion face";
+var mnemonic = "kitchen carpet long glove turn frozen that limb sauce gossip quit uncover";

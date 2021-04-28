@@ -1,1 +1,1 @@
-var mnemonic = "sorry enrich unhappy travel ozone sun need baby few layer hungry erosion";
+var mnemonic = "receive oval equip concert safe moment vicious spell steel absent pill initial";

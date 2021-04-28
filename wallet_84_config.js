@@ -1,1 +1,1 @@
-var mnemonic = "enhance dutch daughter atom velvet torch major gold bring hidden calm when";
+var mnemonic = "produce canyon shiver near wisdom replace camp wait wreck video harsh odor";

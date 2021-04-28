@@ -1,1 +1,1 @@
-var mnemonic = "midnight crater echo tortoise worry door clog sunset library busy vapor dwarf";
+var mnemonic = "always latin hole forest leader tide over fantasy above indoor shove honey";

@@ -1,1 +1,1 @@
-var mnemonic = "fence brave shift game pumpkin embody barrel expect brass swap tray knife";
+var mnemonic = "tortoise spoil sock shoe evil anger ecology quality matter vendor honey grace";

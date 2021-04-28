@@ -1,1 +1,1 @@
-var mnemonic = "anchor clock midnight track fruit weasel area twist next retreat bridge metal";
+var mnemonic = "crop hand deliver rhythm permit gown august secret reject assume success thrive";

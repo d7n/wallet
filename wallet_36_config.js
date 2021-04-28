@@ -1,1 +1,1 @@
-var mnemonic = "nephew cloud era force rifle trophy donor machine eager happy balcony popular";
+var mnemonic = "wonder rain sing donate word ghost route elegant outer globe gospel bright";

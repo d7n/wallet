@@ -1,1 +1,1 @@
-var mnemonic = "smart cable club walk valley carbon chunk cage mixed thank false finger";
+var mnemonic = "glance guard time true firm flash grape master view pigeon pink social";

@@ -1,1 +1,1 @@
-var mnemonic = "also action reunion remember suffer razor safe matrix teach south still vendor";
+var mnemonic = "utility problem brass pigeon female color attract error load park health damp";

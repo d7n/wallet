@@ -1,1 +1,1 @@
-var mnemonic = "remind save someone blue drip acid unfair rival flat fresh cart exclude";
+var mnemonic = "evoke rubber uniform mobile soup scan course dad moment purse kind road";

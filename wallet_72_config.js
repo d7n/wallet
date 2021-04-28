@@ -1,1 +1,1 @@
-var mnemonic = "inch honey city lake library enact slender submit goat list spring faculty";
+var mnemonic = "flat weasel someone shrimp talk donkey switch elevator tent wine farm above";

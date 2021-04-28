@@ -1,1 +1,1 @@
-var mnemonic = "banner eagle glove trial below business canoe same blood release spring render";
+var mnemonic = "student physical cheap reject allow eight later clean harvest captain merit calm";

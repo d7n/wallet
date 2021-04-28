@@ -1,1 +1,1 @@
-var mnemonic = "green april demise indicate wear clip patch trumpet despair soup topple odor";
+var mnemonic = "follow wool flat immense shuffle empower language pigeon local apple improve problem";

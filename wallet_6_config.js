@@ -1,1 +1,1 @@
-var mnemonic = "curve liquid quote degree wear excite suit run furnace random any series";
+var mnemonic = "hamster denial scale one caught during online pen razor soup bridge roast";

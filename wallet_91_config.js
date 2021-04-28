@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur awful praise unveil cupboard farm salmon lift dignity actor fresh slot";
+var mnemonic = "fatal pitch pottery wrong stadium tourist sting style help pottery pink voyage";

@@ -1,1 +1,1 @@
-var mnemonic = "ripple sustain rotate negative essence episode reason glance blush depth advance note";
+var mnemonic = "tumble consider earn planet fantasy track sign then valley element supply toy";

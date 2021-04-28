@@ -1,1 +1,1 @@
-var mnemonic = "coin dirt airport agent mask fish slab engine online setup kitchen occur";
+var mnemonic = "boat bus runway tribe vapor fall slam object into calm client two";
