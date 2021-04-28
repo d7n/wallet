@@ -1,1 +1,1 @@
-var mnemonic = "egg slogan network chapter column dream traffic ozone bundle angry grant find";
+var mnemonic = "text humor kidney fame abuse gloom saddle have bean hire tobacco pelican";

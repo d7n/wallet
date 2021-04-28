@@ -1,1 +1,1 @@
-var mnemonic = "ritual quantum truly unable often damage mom carry theme intact message obscure";
+var mnemonic = "lion wife patrol document arrive tennis venue silent claim local ask rival";

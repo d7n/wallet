@@ -1,1 +1,1 @@
-var mnemonic = "border race gesture play fury evoke black more tower now number quarter";
+var mnemonic = "answer drop fashion light nation trim carry flee quantum sunny where detail";

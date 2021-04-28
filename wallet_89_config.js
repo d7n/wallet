@@ -1,1 +1,1 @@
-var mnemonic = "pave slot sunset blouse all burden hobby verb violin salmon virus trap";
+var mnemonic = "master crouch month foam across grit famous sight version replace flight pride";

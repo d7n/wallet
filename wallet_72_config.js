@@ -1,1 +1,1 @@
-var mnemonic = "unit web note doll rookie fold object quote ugly web stay cat";
+var mnemonic = "vibrant buffalo math hedgehog advance seek leisure shaft oven prevent okay mind";

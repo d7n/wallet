@@ -1,1 +1,1 @@
-var mnemonic = "spare defy logic sunny ketchup chair present boat super fossil pond quarter";
+var mnemonic = "slab lend clean float client skill winner brush tackle size this gather";

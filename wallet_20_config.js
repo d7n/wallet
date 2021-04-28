@@ -1,1 +1,1 @@
-var mnemonic = "beyond creek dose salon they adjust way modify drive coin cancel pizza";
+var mnemonic = "cash measure install deny sword spider envelope leaf reject drift shallow record";

@@ -1,1 +1,1 @@
-var mnemonic = "also float world valley wine rifle insane love basket mushroom mushroom dial";
+var mnemonic = "liberty obey rocket strike pelican suspect thought patient maze south rare found";

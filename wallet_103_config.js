@@ -1,1 +1,1 @@
-var mnemonic = "powder client sad turn inspire february vanish need anchor pencil lobster ceiling";
+var mnemonic = "strike salt east firm gown latin paddle embrace observe clever balcony charge";

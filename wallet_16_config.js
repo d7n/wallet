@@ -1,1 +1,1 @@
-var mnemonic = "trick video magnet myth urban rural tide glass radio scorpion mesh ice";
+var mnemonic = "donate curious bullet myth inmate oxygen typical olive fade canoe trade bone";

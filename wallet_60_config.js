@@ -1,1 +1,1 @@
-var mnemonic = "know mouse winner spend river together expand south absent upon defense annual";
+var mnemonic = "lift fork mutual helmet grow upset crystal pulp hockey balcony consider salon";

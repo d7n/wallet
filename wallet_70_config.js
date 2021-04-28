@@ -1,1 +1,1 @@
-var mnemonic = "cluster capital robust oven able scare scale asset custom else left album";
+var mnemonic = "hedgehog oxygen skirt kidney arena index shine genre hand area resist surprise";

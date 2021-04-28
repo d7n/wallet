@@ -1,1 +1,1 @@
-var mnemonic = "omit donate taxi wire chunk swallow orchard receive cabin assume wealth ethics";
+var mnemonic = "pioneer abuse gloom slender trash above enhance decide stay film come scan";

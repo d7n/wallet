@@ -1,1 +1,1 @@
-var mnemonic = "flip clock video desk puzzle noodle jacket science horror child divide cruise";
+var mnemonic = "toast swift food amazing spirit sport cattle kit figure few unveil pen";

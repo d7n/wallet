@@ -1,1 +1,1 @@
-var mnemonic = "rug wire demand initial pistol goat lady nerve picture ill kick blush";
+var mnemonic = "figure switch increase parent feature liberty quote nothing charge coil churn deputy";

@@ -1,1 +1,1 @@
-var mnemonic = "fade gather guard left matrix genuine shadow year during retreat embody domain";
+var mnemonic = "confirm above play scan parade labor radio method unfair donor tent vault";

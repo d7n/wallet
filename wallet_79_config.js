@@ -1,1 +1,1 @@
-var mnemonic = "tuna life make finger frequent melody jar silly pony fruit acoustic jewel";
+var mnemonic = "toast decide shoot stumble song much ensure ivory crystal other bulb element";

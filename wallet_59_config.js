@@ -1,1 +1,1 @@
-var mnemonic = "town side blame future benefit wedding egg cruise winter inhale neglect leader";
+var mnemonic = "coconut merry bamboo addict meadow winner heart museum adjust clip caught author";

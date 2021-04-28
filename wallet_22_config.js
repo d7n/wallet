@@ -1,1 +1,1 @@
-var mnemonic = "beach lab neutral arena topple shift strategy giant prize common mule royal";
+var mnemonic = "pride double fox collect mechanic small rely detect much left report topple";

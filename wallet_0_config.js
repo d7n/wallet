@@ -1,1 +1,1 @@
-var mnemonic = "output wealth hire force position fame garbage crew chalk chaos decade glove";
+var mnemonic = "either rural axis exclude canvas toddler question flash half dad name plunge";

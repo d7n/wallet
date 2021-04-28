@@ -1,1 +1,1 @@
-var mnemonic = "spell wheel obtain spend two pilot library load amazing immune bundle tomorrow";
+var mnemonic = "scene fringe strong govern stamp tired follow pepper wool client quarter kingdom";

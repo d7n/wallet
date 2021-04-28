@@ -1,1 +1,1 @@
-var mnemonic = "dynamic decorate expect leopard trial rookie congress office shrug bounce check chair";
+var mnemonic = "unveil market search monkey ugly notice sauce shop problem valve fan local";

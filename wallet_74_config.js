@@ -1,1 +1,1 @@
-var mnemonic = "hospital custom boil net bundle assault spend slide motion invite replace bone";
+var mnemonic = "fancy arrive shiver guide clog payment alert pluck still desert age off";

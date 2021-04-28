@@ -1,1 +1,1 @@
-var mnemonic = "rescue flame boring switch ticket ticket scheme choice ten figure smoke depth";
+var mnemonic = "mushroom repair arrive fancy again discover reveal inhale viable neutral glue journey";

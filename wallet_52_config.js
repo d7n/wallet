@@ -1,1 +1,1 @@
-var mnemonic = "cheese quality airport effort fashion glory report swim dilemma smile assault glove";
+var mnemonic = "ostrich resemble ticket offer lens main journey tattoo dish liquid track dutch";

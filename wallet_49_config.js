@@ -1,1 +1,1 @@
-var mnemonic = "upon control wisdom sun subway soap link better head drama blast evoke";
+var mnemonic = "skate knife dragon bicycle obtain boy broom razor major burger weapon profit";

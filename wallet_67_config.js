@@ -1,1 +1,1 @@
-var mnemonic = "traffic boring predict during approve correct old gasp right hollow aisle digital";
+var mnemonic = "siege mom ten hungry maze mutual calm universe universe design close tunnel";

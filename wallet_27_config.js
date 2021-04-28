@@ -1,1 +1,1 @@
-var mnemonic = "penalty repeat squeeze sheriff wash club economy audit clock three squirrel squirrel";
+var mnemonic = "ghost taste identify saddle emerge song reduce struggle cook until nothing habit";

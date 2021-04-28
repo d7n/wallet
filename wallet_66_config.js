@@ -1,1 +1,1 @@
-var mnemonic = "burger wife boss current eagle upgrade lizard sphere can sword joy field";
+var mnemonic = "skirt annual cool news radar crumble monster math uniform sea paper tenant";

@@ -1,1 +1,1 @@
-var mnemonic = "reunion window barely river position inject fame grocery celery grape nothing galaxy";
+var mnemonic = "garbage dynamic detect odor inherit advice mystery term tilt present elevator confirm";

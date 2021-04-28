@@ -1,1 +1,1 @@
-var mnemonic = "blossom shove brief logic alarm erase round you height jealous soccer display";
+var mnemonic = "brain switch mail east wasp target donkey solution slam ski noise organ";

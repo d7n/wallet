@@ -1,1 +1,1 @@
-var mnemonic = "rookie predict symptom athlete later bottom maze daughter fetch donkey embody area";
+var mnemonic = "child usual hood oak screen diesel midnight crouch repeat private water trend";

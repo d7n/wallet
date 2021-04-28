@@ -1,1 +1,1 @@
-var mnemonic = "anger candy tomato predict offer admit fury patient return later chief elder";
+var mnemonic = "outside orient wealth garment where orphan sad grow lucky radio minor myself";

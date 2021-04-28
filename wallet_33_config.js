@@ -1,1 +1,1 @@
-var mnemonic = "virus frozen demise winner helmet chest title syrup bean produce rival tag";
+var mnemonic = "pear fade remember pioneer silly silver island gospel pencil chat fossil core";

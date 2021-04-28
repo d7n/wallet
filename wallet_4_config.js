@@ -1,1 +1,1 @@
-var mnemonic = "author public image spend punch history ostrich unable middle donate hen vague";
+var mnemonic = "border brisk deer opinion impulse stay thank rice ice praise pipe indoor";

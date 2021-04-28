@@ -1,1 +1,1 @@
-var mnemonic = "utility lemon replace drip asthma betray either seat fit define umbrella glove";
+var mnemonic = "clutch vote victory derive chronic ankle since choice doll theme patient angle";

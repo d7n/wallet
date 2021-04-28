@@ -1,1 +1,1 @@
-var mnemonic = "air okay minimum audit lake favorite message wash mention fiber track token";
+var mnemonic = "select drift legal bridge list ramp baby warfare gold change fit wink";

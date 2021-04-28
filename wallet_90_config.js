@@ -1,1 +1,1 @@
-var mnemonic = "rebel fan clean immense doctor hope glimpse round faith credit disorder eagle";
+var mnemonic = "web captain sweet secret flight leaf learn bounce resist bean notable voice";

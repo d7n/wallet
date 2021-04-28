@@ -1,1 +1,1 @@
-var mnemonic = "genre stage payment convince input penalty ladder identify dream bulk glow copy";
+var mnemonic = "balance enact mammal foil uncover happy wine exclude table weasel grocery morning";

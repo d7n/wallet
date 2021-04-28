@@ -1,1 +1,1 @@
-var mnemonic = "envelope diagram neck tag tobacco exist say parrot cake analyst click machine";
+var mnemonic = "bird offer cotton green hand connect december wrist three define tuna upper";

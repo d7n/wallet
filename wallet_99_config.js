@@ -1,1 +1,1 @@
-var mnemonic = "mixture junior chronic egg remain unknown trust picnic country brass mutual twist";
+var mnemonic = "sudden easily cushion cake leisure much chief journey junk cement detail oval";

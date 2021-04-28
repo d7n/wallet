@@ -1,1 +1,1 @@
-var mnemonic = "embrace total budget try when asset brick version armed verb skill mule";
+var mnemonic = "beyond glance fox object jungle suit old question coast access ready victory";

@@ -1,1 +1,1 @@
-var mnemonic = "list emerge kidney borrow candy endless old useless bullet use shiver place";
+var mnemonic = "stadium inspire chunk grow swap apple breeze cinnamon arctic exotic tip luxury";

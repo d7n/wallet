@@ -1,1 +1,1 @@
-var mnemonic = "diary inner inmate bronze later machine hover civil invest window tumble foil";
+var mnemonic = "item addict street chaos visa cannon quarter test win sock panda song";

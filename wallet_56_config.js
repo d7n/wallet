@@ -1,1 +1,1 @@
-var mnemonic = "worth sing nature combine scrap drop dad ancient vintage power rotate during";
+var mnemonic = "couch surround width wisdom depth crush cost year help convince tower april";

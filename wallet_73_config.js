@@ -1,1 +1,1 @@
-var mnemonic = "assist unaware mix dad armor fame hobby afford buddy soccer adjust liquid";
+var mnemonic = "style divert kidney grocery banner raise whisper index embrace fat swarm use";

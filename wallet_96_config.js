@@ -1,1 +1,1 @@
-var mnemonic = "bacon arrive enough flight enlist satoshi alert syrup audit vanish knee stock";
+var mnemonic = "material enable rally level luggage define fantasy degree always frozen glory rude";

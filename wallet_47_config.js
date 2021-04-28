@@ -1,1 +1,1 @@
-var mnemonic = "sadness sock ancient open describe truck ghost curious salt property whale fabric";
+var mnemonic = "eager cup salute advice great exotic grass disagree enact loan dinosaur disease";

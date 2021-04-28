@@ -1,1 +1,1 @@
-var mnemonic = "clump tuna december swamp habit include raven occur citizen recycle gloom good";
+var mnemonic = "donor phrase twelve scan search badge alley gravity increase quick pilot list";

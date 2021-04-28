@@ -1,1 +1,1 @@
-var mnemonic = "maple plug oyster dutch mesh exclude type animal vintage divert such slot";
+var mnemonic = "vibrant mirror poet treat nasty shell bag sting hold distance flee attend";

@@ -1,1 +1,1 @@
-var mnemonic = "inform song fork mammal excite february pause chalk note magnet ticket minor";
+var mnemonic = "worry cheese song relax salon tower engage month panel stage inhale basic";

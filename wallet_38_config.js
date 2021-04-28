@@ -1,1 +1,1 @@
-var mnemonic = "have glue mystery face snap lecture crop rebuild holiday layer share assume";
+var mnemonic = "toilet lamp hub around pottery load kidney senior roof party tomato rack";

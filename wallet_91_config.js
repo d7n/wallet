@@ -1,1 +1,1 @@
-var mnemonic = "glory saddle flee advice arch vicious derive quiz raise right physical treat";
+var mnemonic = "script quiz garbage body cushion seed river venue roof lamp slam try";

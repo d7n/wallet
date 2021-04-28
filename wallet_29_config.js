@@ -1,1 +1,1 @@
-var mnemonic = "fever theory addict primary chat engage yard universe visit donor movie fun";
+var mnemonic = "sadness achieve pepper subject proud cloth woman volume talent click consider crash";

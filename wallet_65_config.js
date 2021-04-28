@@ -1,1 +1,1 @@
-var mnemonic = "melody feed proud position exact promote pistol elephant video find vague uphold";
+var mnemonic = "relax dinosaur say gasp over zoo elegant autumn mystery top husband unveil";

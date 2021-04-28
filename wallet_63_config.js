@@ -1,1 +1,1 @@
-var mnemonic = "gate term sing skate hawk type fork siren siege economy they arctic";
+var mnemonic = "keen hotel armor guitar taxi glad achieve climb earn mimic snake tower";

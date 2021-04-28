@@ -1,1 +1,1 @@
-var mnemonic = "write garlic olive smoke become clown soap violin grit gossip energy tissue";
+var mnemonic = "satisfy game color critic place rocket simple pave depth bargain humble suit";

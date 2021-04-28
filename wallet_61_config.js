@@ -1,1 +1,1 @@
-var mnemonic = "flag bubble inject shift loyal arm banner cruise grid evolve polar photo";
+var mnemonic = "force over topic core movie discover round typical body piece nerve seat";

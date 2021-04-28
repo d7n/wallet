@@ -1,1 +1,1 @@
-var mnemonic = "attack toe tunnel olympic matter coral little warfare direct injury reunion lucky";
+var mnemonic = "trap diamond pact alcohol gentle piece gun next room bamboo energy puppy";

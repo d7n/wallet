@@ -1,1 +1,1 @@
-var mnemonic = "alarm doctor library ignore grow exile love melody sea wreck try clutch";
+var mnemonic = "chicken caught bring wild child busy glance mystery helmet olympic upgrade ticket";

@@ -1,1 +1,1 @@
-var mnemonic = "sauce art session bright animal chronic resemble practice paper jump smart season";
+var mnemonic = "improve cousin vanish chalk vault coach demise alarm wrist thumb hand two";

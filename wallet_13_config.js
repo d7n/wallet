@@ -1,1 +1,1 @@
-var mnemonic = "country heavy staff object pave praise return milk nephew patrol episode inch";
+var mnemonic = "mesh oval bronze champion scrub sock derive lady liquid stool field quiz";

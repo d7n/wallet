@@ -1,1 +1,1 @@
-var mnemonic = "antenna horn legend senior amazing reduce alley hire lumber deliver core ridge";
+var mnemonic = "flush rude teach private vintage speed hurry review black stick nothing satoshi";

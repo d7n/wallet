@@ -1,1 +1,1 @@
-var mnemonic = "pen child anchor dress print dizzy between erase hero visit craft buddy";
+var mnemonic = "kiss describe era outdoor stuff ill abuse sorry pass need army soap";

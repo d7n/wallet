@@ -1,1 +1,1 @@
-var mnemonic = "alter abstract notable diet struggle before vital blind total veteran ignore fever";
+var mnemonic = "call abuse all economy base fatigue toilet library sport wool welcome very";

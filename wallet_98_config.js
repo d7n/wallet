@@ -1,1 +1,1 @@
-var mnemonic = "beauty style drive ivory draft kit rug people search veteran social glass";
+var mnemonic = "van clean obvious fork flip dinosaur pioneer equal hedgehog walk custom sheriff";

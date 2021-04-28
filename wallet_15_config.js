@@ -1,1 +1,1 @@
-var mnemonic = "medal lady inform lucky rare sand squeeze jewel estate equip mean asset";
+var mnemonic = "give stage shy surround image program black cotton army tornado alone pioneer";

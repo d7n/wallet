@@ -1,1 +1,1 @@
-var mnemonic = "orange useless zoo infant aim journey guilt such offer cat video reunion";
+var mnemonic = "then congress skate miss start oblige suit hint ask unfold grunt cover";

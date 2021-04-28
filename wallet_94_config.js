@@ -1,1 +1,1 @@
-var mnemonic = "melody model web myself square office bleak pioneer blade stadium ride report";
+var mnemonic = "across list mind employ text once mandate quiz tube monster cave attend";

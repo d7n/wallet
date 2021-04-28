@@ -1,1 +1,1 @@
-var mnemonic = "budget monster relief parent double balance seek swift reopen advice basket fall";
+var mnemonic = "enhance melody milk wolf consider define enemy exit book vehicle swear glance";

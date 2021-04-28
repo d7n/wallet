@@ -1,1 +1,1 @@
-var mnemonic = "winter present buyer matter paper target two steak gloom marriage make mixture";
+var mnemonic = "prison benefit club eagle brown large risk gate digital impulse train upper";

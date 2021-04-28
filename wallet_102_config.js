@@ -1,1 +1,1 @@
-var mnemonic = "vibrant fitness crop rain world special assume mammal giggle mask grass century";
+var mnemonic = "library twelve truly minute quit finger kiss afford enemy magnet guard marble";

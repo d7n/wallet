@@ -1,1 +1,1 @@
-var mnemonic = "ugly jelly million stem crew entire black pigeon certain luggage lawsuit latin";
+var mnemonic = "stairs shock decrease physical trouble valve excess quality east brisk security include";

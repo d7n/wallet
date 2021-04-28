@@ -1,1 +1,1 @@
-var mnemonic = "cruise disorder order input forget robust episode disease merit tool orange lyrics";
+var mnemonic = "gold mango evidence bench enlist describe physical popular rigid fly loyal measure";

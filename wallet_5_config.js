@@ -1,1 +1,1 @@
-var mnemonic = "inform garment depend double pet arch ice main mobile candy dwarf coin";
+var mnemonic = "cage goat mercy permit taxi stage lemon please lunch casino attitude metal";

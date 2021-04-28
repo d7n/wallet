@@ -1,1 +1,1 @@
-var mnemonic = "pipe strike system inject oil awesome alert salt oven install recycle glare";
+var mnemonic = "phrase satisfy town kid royal drop gorilla nephew subway green broken feed";

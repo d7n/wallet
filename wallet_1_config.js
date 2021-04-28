@@ -1,1 +1,1 @@
-var mnemonic = "unusual tide reveal basket burden follow idle aisle innocent stamp wave rule";
+var mnemonic = "bachelor extra hundred body roof remember volcano fluid mix chaos misery toddler";

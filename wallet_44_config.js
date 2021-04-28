@@ -1,1 +1,1 @@
-var mnemonic = "million creek strong question prevent party tube trim absurd injury promote license";
+var mnemonic = "finger sting spell spoil process vicious project napkin despair royal course friend";

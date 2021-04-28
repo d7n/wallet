@@ -1,1 +1,1 @@
-var mnemonic = "relax thunder feed rapid chimney true vintage quick intact twist sister clock";
+var mnemonic = "kick develop ankle stay tunnel jar pony veteran join piano purse blame";

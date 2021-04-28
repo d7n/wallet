@@ -1,1 +1,1 @@
-var mnemonic = "differ index then response chase give obscure trim eager unfair divide rapid";
+var mnemonic = "pride measure bridge daring wedding rice level nature neutral arctic chimney slight";

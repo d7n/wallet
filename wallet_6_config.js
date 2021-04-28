@@ -1,1 +1,1 @@
-var mnemonic = "scale bitter gauge pair junk announce moral panel budget essence boat give";
+var mnemonic = "mistake agent disagree avocado finger embody hurt wrong neutral echo width black";

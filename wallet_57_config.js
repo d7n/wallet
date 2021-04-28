@@ -1,1 +1,1 @@
-var mnemonic = "elephant drip latin unaware awesome inch asthma act globe small box curtain";
+var mnemonic = "dial attend roof choice curve trade flame initial flight either iron such";

@@ -1,1 +1,1 @@
-var mnemonic = "special siren cattle craft volcano love check neglect gaze broom guitar surge";
+var mnemonic = "camp common blur pioneer sell female unknown stomach pepper action rug thumb";

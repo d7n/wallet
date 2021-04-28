@@ -1,1 +1,1 @@
-var mnemonic = "razor twist panic kick slogan debris start matrix lawsuit warfare arm mercy";
+var mnemonic = "never better mystery true easy girl pretty quote bench silk effort chunk";

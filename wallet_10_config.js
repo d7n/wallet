@@ -1,1 +1,1 @@
-var mnemonic = "cherry wrap belt edit focus layer floor victory volume tilt juice ice";
+var mnemonic = "author erase search liquid february net judge swarm under okay hand debate";
