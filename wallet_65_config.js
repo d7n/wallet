@@ -1,1 +1,1 @@
-var mnemonic = "melt stereo rough pulp addict tenant resemble wrong fiber legend camp uncover";
+var mnemonic = "artefact oxygen wait bubble recall silver cool unable science usual round squeeze";

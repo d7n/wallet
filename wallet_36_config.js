@@ -1,1 +1,1 @@
-var mnemonic = "frown glance tiny sail confirm wink token govern team glimpse during immune";
+var mnemonic = "boat banana afraid between second endorse empower elevator secret kind key major";

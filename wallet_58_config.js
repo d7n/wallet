@@ -1,1 +1,1 @@
-var mnemonic = "bird canyon blind gap such napkin upon shoot divide alarm wheat final";
+var mnemonic = "salmon cabin critic panic comic estate gas used reward consider together any";

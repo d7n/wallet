@@ -1,1 +1,1 @@
-var mnemonic = "buddy actual silk monitor stadium plastic cruise exist crowd movie number blossom";
+var mnemonic = "sail sample reason badge claim sign wisdom eagle elbow flower salad south";

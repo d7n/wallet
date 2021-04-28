@@ -1,1 +1,1 @@
-var mnemonic = "online burger just craft quiz predict bean ball apple toss horn sock";
+var mnemonic = "interest actual oxygen virtual dynamic also trash summer favorite black album scare";

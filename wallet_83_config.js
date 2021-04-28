@@ -1,1 +1,1 @@
-var mnemonic = "text ten question right never friend power swear false eyebrow kangaroo daughter";
+var mnemonic = "frame library more dragon bag angry voice banner nurse car slab argue";

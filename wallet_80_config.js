@@ -1,1 +1,1 @@
-var mnemonic = "tired aunt gym damage truth report skirt electric north paddle sun step";
+var mnemonic = "idle lucky rich cook media mixed boss excite debris supply craft clean";

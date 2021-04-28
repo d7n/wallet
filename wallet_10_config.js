@@ -1,1 +1,1 @@
-var mnemonic = "palace radio file route once empower pull flock turkey congress large fish";
+var mnemonic = "will venue dentist warfare daughter position jazz panic sunset access ozone unveil";

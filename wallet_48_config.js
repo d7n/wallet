@@ -1,1 +1,1 @@
-var mnemonic = "pill destroy adapt group sniff addict such nest object blouse moral profit";
+var mnemonic = "thumb quality crowd gallery manage able local prepare swear scare ahead luggage";

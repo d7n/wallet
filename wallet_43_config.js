@@ -1,1 +1,1 @@
-var mnemonic = "easy game major churn exercise embark food demise wide iron nice dizzy";
+var mnemonic = "inflict flip visa used like broom income journey teach praise rival mystery";

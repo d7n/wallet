@@ -1,1 +1,1 @@
-var mnemonic = "venue faint idle divide problem amount security copper merge afford muscle cave";
+var mnemonic = "music borrow loan weasel dinner fuel alert kidney opera size can panic";

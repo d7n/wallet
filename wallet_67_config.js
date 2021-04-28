@@ -1,1 +1,1 @@
-var mnemonic = "pet robust cage visa sleep mistake scorpion gloom job urban child social";
+var mnemonic = "voice miracle grit plastic gap spider trouble renew kiss decide retire script";

@@ -1,1 +1,1 @@
-var mnemonic = "assume ignore satisfy soccer nurse awful winter inmate joke material dwarf very";
+var mnemonic = "follow marble repair fashion peanut scheme fatigue swallow vocal thumb now tiger";

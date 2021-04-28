@@ -1,1 +1,1 @@
-var mnemonic = "grid end cook original romance belt juice monitor pear intact make pizza";
+var mnemonic = "pig brave garment deliver floor organ copper process ugly verb office mail";

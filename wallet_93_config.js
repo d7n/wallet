@@ -1,1 +1,1 @@
-var mnemonic = "pitch emotion ship girl hockey raise manage system record target fish early";
+var mnemonic = "guard dinosaur public swift stable alpha strategy rely curve seek light border";

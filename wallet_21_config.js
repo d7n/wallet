@@ -1,1 +1,1 @@
-var mnemonic = "weapon muscle library lonely clinic habit void wedding brother leisure airport flat";
+var mnemonic = "vacant replace green favorite milk warm recall humble profit ski wheat reunion";

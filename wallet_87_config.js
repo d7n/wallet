@@ -1,1 +1,1 @@
-var mnemonic = "segment lady surface era rural dirt prize soup priority arrow atom ritual";
+var mnemonic = "main spider blanket crane unveil fit annual address quarter wedding echo provide";

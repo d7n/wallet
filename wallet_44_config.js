@@ -1,1 +1,1 @@
-var mnemonic = "victory aim width also drink movie price orbit mouse lesson stuff assault";
+var mnemonic = "like banana victory spread galaxy tragic meadow planet boil unusual zero easily";

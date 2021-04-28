@@ -1,1 +1,1 @@
-var mnemonic = "route answer actor cool gather artwork sell body sunny laugh theme day";
+var mnemonic = "spy million voyage novel steak bonus rebuild title reveal mass toilet fee";

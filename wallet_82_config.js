@@ -1,1 +1,1 @@
-var mnemonic = "debris dolphin spell select clown over credit squeeze endless exact army neutral";
+var mnemonic = "peasant drama joy mountain patient collect figure boss short minimum bitter tuna";

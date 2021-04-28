@@ -1,1 +1,1 @@
-var mnemonic = "oyster onion smooth banner scrap salt mammal main oil moral gospel jewel";
+var mnemonic = "forest morning syrup fury viable escape picnic include tiny champion now year";

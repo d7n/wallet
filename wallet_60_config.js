@@ -1,1 +1,1 @@
-var mnemonic = "add label shield style crop gauge depth wealth motor tilt time robust";
+var mnemonic = "snap place humor home hard submit wagon market desk slush april check";

@@ -1,1 +1,1 @@
-var mnemonic = "sword true wool announce debate chase merry peasant oven resource snack indicate";
+var mnemonic = "snack seven swallow tip noodle nation okay winner real early grunt exclude";

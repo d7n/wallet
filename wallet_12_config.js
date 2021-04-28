@@ -1,1 +1,1 @@
-var mnemonic = "soft crunch success wing tooth version swear student also asset spot flush";
+var mnemonic = "sad speed you practice true phone tilt rule furnace pair popular maple";

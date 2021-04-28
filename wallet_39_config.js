@@ -1,1 +1,1 @@
-var mnemonic = "ivory enhance fall dress glance erupt stand violin cattle pony rail matrix";
+var mnemonic = "such payment guard tissue labor hungry file struggle eyebrow buffalo myself father";

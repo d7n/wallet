@@ -1,1 +1,1 @@
-var mnemonic = "curious install oblige detect dry top copy hungry laptop ramp salt survey";
+var mnemonic = "cliff owner damp casual used pill tell index muscle dwarf educate stone";

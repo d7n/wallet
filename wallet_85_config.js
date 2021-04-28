@@ -1,1 +1,1 @@
-var mnemonic = "accident person pretty fox uphold skin goose initial town desert cruise play";
+var mnemonic = "lake monkey winner shuffle cheese move toast helmet snake cancel february diamond";

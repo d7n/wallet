@@ -1,1 +1,1 @@
-var mnemonic = "found slogan risk idle cinnamon collect swap total tuition small tray cube";
+var mnemonic = "choose domain coast bar myself skill true oval middle taste dry talk";

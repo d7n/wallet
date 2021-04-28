@@ -1,1 +1,1 @@
-var mnemonic = "base immune agree broccoli remember simple degree broccoli oil pilot supply plug";
+var mnemonic = "skirt child nothing miss path fatal sphere light sight rude purse rib";

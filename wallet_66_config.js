@@ -1,1 +1,1 @@
-var mnemonic = "lemon habit apology master media relax economy bar matrix tennis lunch response";
+var mnemonic = "fiscal vault spread invest budget cruise lyrics pencil unfair judge ocean end";

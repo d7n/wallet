@@ -1,1 +1,1 @@
-var mnemonic = "quick lunch snake sustain bean hidden little donate boost flush clutch kite";
+var mnemonic = "skull peasant bid hire neglect very bring problem episode spray text like";

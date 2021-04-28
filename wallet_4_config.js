@@ -1,1 +1,1 @@
-var mnemonic = "destroy angle aisle rookie misery ankle motor survey language crew tone series";
+var mnemonic = "just lion cheese panic plastic mesh acoustic grief seminar spell three doll";

@@ -1,1 +1,1 @@
-var mnemonic = "correct peasant earth cereal awesome heart arm differ pulp rail supply hill";
+var mnemonic = "ship hat flag maze electric erase decline tree prize pistol kite average";

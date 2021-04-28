@@ -1,1 +1,1 @@
-var mnemonic = "shock gorilla hospital primary summer air book invest fatigue sign indicate hat";
+var mnemonic = "pluck sunset strategy medal hill need foam learn access gold main defense";

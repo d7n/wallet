@@ -1,1 +1,1 @@
-var mnemonic = "meadow rifle lunar network hammer clown fantasy excuse crack stuff level narrow";
+var mnemonic = "razor paddle wait already ripple moment leader clinic slight melody net income";

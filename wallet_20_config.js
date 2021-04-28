@@ -1,1 +1,1 @@
-var mnemonic = "average exile same board deny unit uncover holiday night nominee slice chef";
+var mnemonic = "stay try harsh royal gasp virtual ice vacant garage sketch service gasp";

@@ -1,1 +1,1 @@
-var mnemonic = "inspire summer sword tackle hunt exist wonder punch shell donate leisure test";
+var mnemonic = "plug pact wife liberty exhibit daughter loan lecture drive congress cake baby";

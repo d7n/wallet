@@ -1,1 +1,1 @@
-var mnemonic = "visa acoustic report wise square marriage margin resource maximum maple nominee egg";
+var mnemonic = "canvas nephew mail wreck jealous fine tip behind net claim civil endorse";

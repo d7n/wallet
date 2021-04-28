@@ -1,1 +1,1 @@
-var mnemonic = "rent bridge extend student rhythm piece ahead verb learn hood arrow degree";
+var mnemonic = "scale tissue way post news tree rice vintage hire seminar hundred multiply";

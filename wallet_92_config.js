@@ -1,1 +1,1 @@
-var mnemonic = "news cabin balance mistake become fall flower expand slender catalog sniff cram";
+var mnemonic = "best flip document cup stand enemy vault agent march main square actress";

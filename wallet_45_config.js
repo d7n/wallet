@@ -1,1 +1,1 @@
-var mnemonic = "october siren course rather shuffle pumpkin history vital version choice dad join";
+var mnemonic = "upset height salad critic uphold credit garden device broom will cheese foot";

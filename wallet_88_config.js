@@ -1,1 +1,1 @@
-var mnemonic = "wool method hover damp butter trap right copper silent gaze feel person";
+var mnemonic = "mix dinosaur mansion dance bomb lyrics coral cup arrest rebuild photo welcome";

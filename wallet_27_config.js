@@ -1,1 +1,1 @@
-var mnemonic = "army private kiss hour visual final nurse crowd kitten hungry brain east";
+var mnemonic = "congress general title gasp project benefit timber solve furnace worry man among";

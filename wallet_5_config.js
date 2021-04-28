@@ -1,1 +1,1 @@
-var mnemonic = "thing art solution eyebrow judge suit punch capital victory grace mushroom car";
+var mnemonic = "reflect tray art exit joy wear song rare wine ill heavy globe";

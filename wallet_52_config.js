@@ -1,1 +1,1 @@
-var mnemonic = "law balance match view language bundle give income oil option open cause";
+var mnemonic = "talk item category wire valve oyster stove main hotel upon pond zero";

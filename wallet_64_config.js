@@ -1,1 +1,1 @@
-var mnemonic = "assault hockey treat dignity remain few impose fringe judge salad scrap tone";
+var mnemonic = "lecture ancient giraffe index chicken acid stove search state balance guitar script";

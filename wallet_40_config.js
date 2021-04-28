@@ -1,1 +1,1 @@
-var mnemonic = "steel gown skill kingdom news tomato crew panel hurry cute trip fence";
+var mnemonic = "member universe leisure domain lounge aware bone dilemma scene emotion cherry minor";

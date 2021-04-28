@@ -1,1 +1,1 @@
-var mnemonic = "ugly struggle easily involve flock cannon hip fever security assume notable employ";
+var mnemonic = "either embark lazy attend minute total biology chief clarify awesome tip session";

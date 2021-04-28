@@ -1,1 +1,1 @@
-var mnemonic = "license sugar actor guitar depth extra please banner salt crash six father";
+var mnemonic = "scatter burger suspect alert soccer comic heavy neglect column gold drink unfair";

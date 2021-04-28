@@ -1,1 +1,1 @@
-var mnemonic = "patch pulp owner umbrella choose basket stereo rifle decorate limb inherit fall";
+var mnemonic = "pupil bottom work fiber change bleak vessel wise enforce casino sauce fetch";

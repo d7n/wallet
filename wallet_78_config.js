@@ -1,1 +1,1 @@
-var mnemonic = "forest absurd immense donor rubber magnet deny emotion tuna planet dial dolphin";
+var mnemonic = "average crew shuffle puzzle corn course sunset kitchen design rude train hunt";

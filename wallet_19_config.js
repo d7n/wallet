@@ -1,1 +1,1 @@
-var mnemonic = "mandate this acquire armor express gadget blossom hen canal student rebuild need";
+var mnemonic = "pear tide gorilla knock reveal bunker garlic since buzz art baby trend";

@@ -1,1 +1,1 @@
-var mnemonic = "echo minimum planet penalty crisp belt during owner tattoo high must royal";
+var mnemonic = "balcony agent blood icon meadow damage become slender calm bubble major dice";

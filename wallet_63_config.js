@@ -1,1 +1,1 @@
-var mnemonic = "shadow abstract laptop range happy tank alcohol eyebrow labor dynamic betray renew";
+var mnemonic = "number surround coast huge broccoli abstract hazard enter way digital sausage voyage";

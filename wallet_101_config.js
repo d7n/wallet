@@ -1,1 +1,1 @@
-var mnemonic = "gossip usual comfort leave apart online boost flash dinosaur thunder record chest";
+var mnemonic = "flush hen arrange wood more lawsuit sort aunt ball sport company cherry";

@@ -1,1 +1,1 @@
-var mnemonic = "female common ocean peasant cancel hundred mechanic phone crucial perfect hybrid curtain";
+var mnemonic = "royal rate answer direct arm hawk antenna below mouse pulse pigeon patient";

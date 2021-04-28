@@ -1,1 +1,1 @@
-var mnemonic = "ice filter margin paper ethics recycle hire digital wink brave deliver window";
+var mnemonic = "basket mean hole deal clever wrong split general useless pact lecture loan";

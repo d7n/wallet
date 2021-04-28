@@ -1,1 +1,1 @@
-var mnemonic = "during taxi since scorpion frost barely keep ability pave update garage absurd";
+var mnemonic = "fitness deer kidney want coach agree liquid brief crack argue wall ostrich";

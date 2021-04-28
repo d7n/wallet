@@ -1,1 +1,1 @@
-var mnemonic = "olive wink matrix reform punch shy alarm tomato there vehicle honey student";
+var mnemonic = "fade success enjoy sibling step tumble total easily like dinner photo marriage";

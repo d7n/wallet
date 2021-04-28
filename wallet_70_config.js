@@ -1,1 +1,1 @@
-var mnemonic = "junior uncle fiscal nation enough label head galaxy divert lake artwork noodle";
+var mnemonic = "pitch flush wreck carry visual initial solve lunch garbage child wrist romance";

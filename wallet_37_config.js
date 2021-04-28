@@ -1,1 +1,1 @@
-var mnemonic = "excite post tiny disease dawn radar lens domain ready silk hover switch";
+var mnemonic = "million share stadium typical sun broken pet over guitar write volcano just";

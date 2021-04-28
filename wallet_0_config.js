@@ -1,1 +1,1 @@
-var mnemonic = "space spatial scrap useful require section rain enemy prosper hair soon corn";
+var mnemonic = "field indicate wrestle become category surround kingdom security onion laugh regret animal";

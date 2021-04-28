@@ -1,1 +1,1 @@
-var mnemonic = "lend item decide drum edit case reform horse wheel focus resist right";
+var mnemonic = "silly excess match neglect sphere cement heavy check lab city toy dust";

@@ -1,1 +1,1 @@
-var mnemonic = "fancy moon report stadium brand diamond valve rib episode exact network fitness";
+var mnemonic = "harvest right demise ritual predict october manage humble laundry police pool say";

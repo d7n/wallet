@@ -1,1 +1,1 @@
-var mnemonic = "duck door robot universe village armor fiscal audit trade click blouse grain";
+var mnemonic = "lift weekend people solar asthma carry boil choose install venue brief shift";

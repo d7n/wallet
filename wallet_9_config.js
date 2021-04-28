@@ -1,1 +1,1 @@
-var mnemonic = "venture innocent fragile profit brass oak tip receive sword cousin mystery language";
+var mnemonic = "balcony interest kingdom actress defense engage squirrel logic border lunch vocal clip";

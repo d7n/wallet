@@ -1,1 +1,1 @@
-var mnemonic = "fire arm saddle absent soup life outside subject void typical dragon local";
+var mnemonic = "present range smooth hidden program dad length roof indicate hedgehog round merge";

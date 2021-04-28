@@ -1,1 +1,1 @@
-var mnemonic = "potato bundle network reform antenna assault zero soap lemon scrap sand swamp";
+var mnemonic = "spatial review around broom glory artwork goddess hen juice since film rookie";

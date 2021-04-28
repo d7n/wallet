@@ -1,1 +1,1 @@
-var mnemonic = "when despair stumble estate envelope picture virus horror turkey upgrade crash amateur";
+var mnemonic = "chalk mail goddess slam direct sign elephant trial habit hero foil clown";

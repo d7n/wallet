@@ -1,1 +1,1 @@
-var mnemonic = "visa hint decline much head forest hidden giraffe trap panel transfer fortune";
+var mnemonic = "fat exhibit draw hat reform devote clinic omit tilt make negative drama";

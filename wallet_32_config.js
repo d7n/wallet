@@ -1,1 +1,1 @@
-var mnemonic = "thunder stone rebuild alert humor know culture rain balance session master shrimp";
+var mnemonic = "check dry ask sister purity hedgehog inform offer correct edge lamp heart";

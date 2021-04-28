@@ -1,1 +1,1 @@
-var mnemonic = "bronze certain wood pledge gentle tide craft run life force increase awkward";
+var mnemonic = "despair one course hockey edge spare mass fame month exile clump call";

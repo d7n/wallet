@@ -1,1 +1,1 @@
-var mnemonic = "affair abstract praise shrimp social switch evidence kitten curious approve usual place";
+var mnemonic = "know update assist chef annual sniff snake patient spoon cement giggle fix";

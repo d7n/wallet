@@ -1,1 +1,1 @@
-var mnemonic = "useful window list route fold later topic act amount ensure glory amount";
+var mnemonic = "spike exercise either put elder cruel cluster write donate member obscure card";

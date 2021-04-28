@@ -1,1 +1,1 @@
-var mnemonic = "defense desk shiver couple lab notable kitten fashion aim lounge pig father";
+var mnemonic = "three indicate cube negative story develop small situate opinion hobby action attitude";

@@ -1,1 +1,1 @@
-var mnemonic = "embrace polar scare industry water poem remember train slight spider amazing drop";
+var mnemonic = "hill box brush carpet sword safe aerobic nothing cost radio law possible";

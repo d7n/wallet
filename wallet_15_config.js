@@ -1,1 +1,1 @@
-var mnemonic = "suit fat century dinner donor picture disease clock brain side invest leopard";
+var mnemonic = "sunny swift whisper appear brick original history dragon crystal parent vendor caution";

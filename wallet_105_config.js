@@ -1,1 +1,1 @@
-var mnemonic = "kitchen thrive warrior scale blind leisure inflict spawn isolate current galaxy salmon";
+var mnemonic = "trip frog pause acquire ripple stool pudding order shy gaze pilot enable";

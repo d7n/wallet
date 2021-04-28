@@ -1,1 +1,1 @@
-var mnemonic = "rather eagle puzzle leopard spring latin physical lobster return envelope siege concert";
+var mnemonic = "arena decade pave mesh process this disease case voyage cake connect source";

@@ -1,1 +1,1 @@
-var mnemonic = "illegal bracket boss bless enable result mouse tennis detail crater worry run";
+var mnemonic = "cry whisper flower you menu valley link tube benefit artefact above disease";

@@ -1,1 +1,1 @@
-var mnemonic = "pause zero wear duck peace cricket slab horse inner rare slab club";
+var mnemonic = "toe odor food border patrol shuffle wish action female fiction feel flock";

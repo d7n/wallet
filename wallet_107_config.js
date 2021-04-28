@@ -1,1 +1,1 @@
-var mnemonic = "turtle omit muscle track fence supreme grab turkey drop help chalk come";
+var mnemonic = "rate must tank manual story coach evidence leopard about diary cactus tissue";

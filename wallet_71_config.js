@@ -1,1 +1,1 @@
-var mnemonic = "paddle inch scout direct coyote laugh romance erosion voyage crane tray tube";
+var mnemonic = "chalk salon rookie slab point runway category carbon provide until enlist average";

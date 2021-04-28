@@ -1,1 +1,1 @@
-var mnemonic = "capable primary hip prosper logic helmet arctic smile pistol ozone sand analyst";
+var mnemonic = "feature this matrix swift treat isolate library weird during busy quote liar";

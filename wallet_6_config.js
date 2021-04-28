@@ -1,1 +1,1 @@
-var mnemonic = "hockey spoon auto rural cart same world pledge middle priority switch hundred";
+var mnemonic = "coffee refuse cloud mushroom praise prepare allow advice case broken security sunny";

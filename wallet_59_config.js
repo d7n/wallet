@@ -1,1 +1,1 @@
-var mnemonic = "video ramp prefer sausage profit half obey illness solar organ secret final";
+var mnemonic = "giant lesson monkey visa comic tower distance ramp cup stick satoshi veteran";

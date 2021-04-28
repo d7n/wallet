@@ -1,1 +1,1 @@
-var mnemonic = "trick make offer taste exclude hill bid dish web adapt absurd dragon";
+var mnemonic = "rookie sadness lucky round blade desert punch cousin course inhale toilet fossil";

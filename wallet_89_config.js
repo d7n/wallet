@@ -1,1 +1,1 @@
-var mnemonic = "giggle proof write night blood nut jewel visit design useless around grid";
+var mnemonic = "absorb sunset volume juice chaos arena man custom tribe helmet image test";

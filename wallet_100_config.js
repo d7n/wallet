@@ -1,1 +1,1 @@
-var mnemonic = "round town orphan tobacco practice era match play maid mom enrich skirt";
+var mnemonic = "draw vintage crane voice strong blast basket buddy satisfy always protect burst";

@@ -1,1 +1,1 @@
-var mnemonic = "spy owner assume vote rifle patrol raise rookie fun mad cousin goddess";
+var mnemonic = "peasant habit like exhibit rather demand retire noise ensure lawn cloth era";

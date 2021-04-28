@@ -1,1 +1,1 @@
-var mnemonic = "state penalty camp series section opera surprise palm solution drastic snake future";
+var mnemonic = "skill lion fatigue disagree debris decline clever verify glimpse high until major";

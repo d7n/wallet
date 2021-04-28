@@ -1,1 +1,1 @@
-var mnemonic = "timber tip worth melody vessel jump rose inside effort enroll catalog faculty";
+var mnemonic = "curve swim valid rough wing simple estate pluck shrimp fantasy amazing choose";

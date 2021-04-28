@@ -1,1 +1,1 @@
-var mnemonic = "banner obtain topic supreme emotion loud mail remind boost tuition cloth media";
+var mnemonic = "march like relax couple veteran maze pulse trial win include about dance";
