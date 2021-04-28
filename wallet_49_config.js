@@ -1,1 +1,1 @@
-var mnemonic = "elephant post mercy screen entire off fog half cereal dinner festival save";
+var mnemonic = "pause omit combine jacket garment attack around uphold acquire edge farm shine";

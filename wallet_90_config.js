@@ -1,1 +1,1 @@
-var mnemonic = "fossil pilot spend inflict faculty junior north strategy cheese gold earn civil";
+var mnemonic = "lend swift account lazy law hawk orient unlock canoe lobster broom trick";

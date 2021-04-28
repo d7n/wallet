@@ -1,1 +1,1 @@
-var mnemonic = "art hammer trade exist rib card summer divert pitch tide curve away";
+var mnemonic = "imitate question bike vibrant erode rose nurse grain grief theme grape neutral";

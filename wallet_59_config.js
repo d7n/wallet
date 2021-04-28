@@ -1,1 +1,1 @@
-var mnemonic = "tilt run cargo left never arrow object search wealth force lounge vague";
+var mnemonic = "mom love artist response hollow exile brass obtain arrive congress fog vague";

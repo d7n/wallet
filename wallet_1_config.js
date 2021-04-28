@@ -1,1 +1,1 @@
-var mnemonic = "blast daring donor dice device laugh mushroom slim apple hold surge theory";
+var mnemonic = "wink scrap kiss possible supreme join walnut east fire shoot gather marble";

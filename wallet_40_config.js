@@ -1,1 +1,1 @@
-var mnemonic = "sugar grape thought laundry special damp horror will tape total truck galaxy";
+var mnemonic = "tuition rack diamond caught champion boy shrug typical poem boil resist three";

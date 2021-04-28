@@ -1,1 +1,1 @@
-var mnemonic = "dawn treat adjust garbage possible ivory ensure upgrade robot guess brain define";
+var mnemonic = "settle volcano burger park little cricket earth gold used soon chief palm";

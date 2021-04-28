@@ -1,1 +1,1 @@
-var mnemonic = "chuckle phrase leave crouch veteran famous team once minimum disagree fault quit";
+var mnemonic = "leisure design party robust typical oil pause journey have song angle fox";

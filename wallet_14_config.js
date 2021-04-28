@@ -1,1 +1,1 @@
-var mnemonic = "mobile senior vote public obscure idle nice boring insane source concert sibling";
+var mnemonic = "slender disorder cream erupt pizza enjoy shop client great gauge more left";

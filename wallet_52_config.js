@@ -1,1 +1,1 @@
-var mnemonic = "door quit risk clinic old improve insane romance virus talk solid manage";
+var mnemonic = "leaf cancel life claw month police aunt system swarm buddy clog public";

@@ -1,1 +1,1 @@
-var mnemonic = "fatal wealth category unhappy maze elbow bright verify always hawk tragic gossip";
+var mnemonic = "debris dream goose acquire trim pitch topic extend jump giant decide reunion";

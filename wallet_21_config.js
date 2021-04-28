@@ -1,1 +1,1 @@
-var mnemonic = "tray milk payment trend carry remove edit armor early emotion curtain journey";
+var mnemonic = "atom ginger grain swarm frequent post whisper view forget execute inflict science";

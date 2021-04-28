@@ -1,1 +1,1 @@
-var mnemonic = "blossom snap jeans three desert they talk sand word blame genre local";
+var mnemonic = "element lonely horror degree child joy lab pond sound embark twenty remind";

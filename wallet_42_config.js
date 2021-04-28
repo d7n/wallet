@@ -1,1 +1,1 @@
-var mnemonic = "regular below enlist area crane permit wrong certain embrace snack retire edge";
+var mnemonic = "obscure permit riot subject system debate survey play swing foster arctic occur";

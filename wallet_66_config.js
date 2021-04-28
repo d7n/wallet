@@ -1,1 +1,1 @@
-var mnemonic = "damp dog bean expand lamp fix clock jacket energy such egg usage";
+var mnemonic = "direct journey sniff topic insect drum job junior drum paddle bike time";

@@ -1,1 +1,1 @@
-var mnemonic = "swamp practice frequent naive valid artefact fat toddler push clump jungle erupt";
+var mnemonic = "net above cricket surround fish laugh potato october ivory jewel rookie robust";

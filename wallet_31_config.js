@@ -1,1 +1,1 @@
-var mnemonic = "citizen predict era deer relief palace green door collect say two member";
+var mnemonic = "various virtual web school galaxy grief security zebra attack tiger orbit onion";

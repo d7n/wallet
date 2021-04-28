@@ -1,1 +1,1 @@
-var mnemonic = "double copy leaf kit funny hood joke insect athlete man room cause";
+var mnemonic = "milk theme artist box shoe broom heart taxi trust blouse evoke pudding";

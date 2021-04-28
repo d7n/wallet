@@ -1,1 +1,1 @@
-var mnemonic = "nose vacant render predict razor patch rail custom cannon express ready sort";
+var mnemonic = "moon zebra tray canoe prosper vote stone equal inch grow style trouble";

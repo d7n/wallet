@@ -1,1 +1,1 @@
-var mnemonic = "aim margin universe observe wonder tackle label service reduce ginger gold main";
+var mnemonic = "steak nut mosquito during melody kingdom benefit leopard buffalo ten chief fantasy";

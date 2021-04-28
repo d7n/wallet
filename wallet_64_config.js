@@ -1,1 +1,1 @@
-var mnemonic = "body morning dirt odor private nothing dutch swim dance fashion include warrior";
+var mnemonic = "snap rally catch abstract agent stock easily arrange caught omit oppose casual";

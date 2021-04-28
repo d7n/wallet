@@ -1,1 +1,1 @@
-var mnemonic = "transfer wisdom awake riot connect end robot crouch very vivid biology ill";
+var mnemonic = "pair vacant still tortoise security bachelor blame remove harvest flush critic until";

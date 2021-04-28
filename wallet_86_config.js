@@ -1,1 +1,1 @@
-var mnemonic = "latin taste mixed connect huge govern park organ whisper office maid abuse";
+var mnemonic = "mixed time early exile wise analyst cart truth indicate screen intact cool";

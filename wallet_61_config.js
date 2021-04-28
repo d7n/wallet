@@ -1,1 +1,1 @@
-var mnemonic = "uphold ancient cup enhance midnight spring olive sketch purse response hole deliver";
+var mnemonic = "link combine tourist order lucky size vessel mad rapid remember ecology vibrant";

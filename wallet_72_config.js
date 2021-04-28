@@ -1,1 +1,1 @@
-var mnemonic = "satisfy castle what tail trash sense priority common unveil expose clump apple";
+var mnemonic = "few daughter peasant math genre disagree shell surround agent swift chapter coil";

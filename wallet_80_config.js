@@ -1,1 +1,1 @@
-var mnemonic = "spoon warrior struggle hotel history arrive air bundle state chapter cage device";
+var mnemonic = "diagram skirt reduce foot topic please force crew boring output grape foam";

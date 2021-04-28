@@ -1,1 +1,1 @@
-var mnemonic = "bargain scheme strike dinner walk silent rib disagree dignity rack similar firm";
+var mnemonic = "hen seven pottery congress rally blood become bid toddler furnace impose quit";

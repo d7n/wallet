@@ -1,1 +1,1 @@
-var mnemonic = "blame marriage under believe tired open town attend honey avocado around imitate";
+var mnemonic = "wise tomorrow moon still behave beauty leaf modify entry apart craft sure";

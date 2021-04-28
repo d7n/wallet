@@ -1,1 +1,1 @@
-var mnemonic = "inch pitch calm arch term spell nose place target assist zero hotel";
+var mnemonic = "you piece achieve method hat please person safe program trouble rent hero";

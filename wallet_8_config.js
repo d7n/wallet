@@ -1,1 +1,1 @@
-var mnemonic = "denial annual afraid machine lens ecology old argue calm paddle pass hope";
+var mnemonic = "nation reflect enable burden amazing remove estate crisp ugly iron shift shaft";

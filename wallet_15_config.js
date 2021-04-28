@@ -1,1 +1,1 @@
-var mnemonic = "train evidence direct normal luxury leave salute liquid warfare infant major blue";
+var mnemonic = "service kiss tip ugly spare cost wagon hurdle matrix rare behind left";

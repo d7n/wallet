@@ -1,1 +1,1 @@
-var mnemonic = "olympic sleep again direct diamond wall kite coach glare tuna water duck";
+var mnemonic = "reopen genuine illegal front bean easy sweet horse inform impose produce range";

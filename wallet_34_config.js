@@ -1,1 +1,1 @@
-var mnemonic = "exit thank puppy dawn behave juice autumn try zone conduct layer exhaust";
+var mnemonic = "elbow salad school mother nice harsh bulk valley switch category struggle kind";

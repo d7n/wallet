@@ -1,1 +1,1 @@
-var mnemonic = "august daughter poem rebel steel already stamp spirit chapter elephant bike supply";
+var mnemonic = "angry carbon police scare then card outdoor east grant faith kid drive";

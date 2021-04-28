@@ -1,1 +1,1 @@
-var mnemonic = "pony concert riot list undo stage message exhaust among brand spider quit";
+var mnemonic = "dentist seven illness neglect decline boy tennis valve dog tower draw fruit";

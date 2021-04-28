@@ -1,1 +1,1 @@
-var mnemonic = "main hand daughter zebra degree gloom crawl make six camera vessel sugar";
+var mnemonic = "tackle elevator onion advance cry pioneer truth auto inform sunny cannon injury";

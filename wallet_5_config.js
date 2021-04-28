@@ -1,1 +1,1 @@
-var mnemonic = "promote type wrong despair mouse egg ivory review drip gloom rice unlock";
+var mnemonic = "okay illegal favorite music piano case disagree universe erase useless high tragic";

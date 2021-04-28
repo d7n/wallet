@@ -1,1 +1,1 @@
-var mnemonic = "swarm twice dirt amazing magnet ensure key apple gauge useless ketchup front";
+var mnemonic = "force economy poverty return kick layer march baby scrub unique gain orbit";

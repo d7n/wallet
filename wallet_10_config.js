@@ -1,1 +1,1 @@
-var mnemonic = "trial route idea habit outer kid gun car place you magnet latin";
+var mnemonic = "giant sort milk hazard obscure excite special pen bless park curious rigid";

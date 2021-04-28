@@ -1,1 +1,1 @@
-var mnemonic = "unknown industry mechanic smoke begin stereo limit tortoise wedding mad resist nasty";
+var mnemonic = "industry unusual thrive disagree pet few novel grab potato glad shrimp can";

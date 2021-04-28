@@ -1,1 +1,1 @@
-var mnemonic = "appear ship hill expand hand lobster announce spoon suggest sample fox average";
+var mnemonic = "scorpion dog scale panic trim injury uniform lesson one frost caution kit";

@@ -1,1 +1,1 @@
-var mnemonic = "useless piece gold first wet soccer inch undo model dice side decrease";
+var mnemonic = "witness drill envelope small robust room remind observe harbor suit chest roast";

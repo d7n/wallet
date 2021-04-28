@@ -1,1 +1,1 @@
-var mnemonic = "robust flat wage chunk foot document culture culture account brief exercise mixed";
+var mnemonic = "office gauge feature leader enrich throw track credit own evidence cart hand";

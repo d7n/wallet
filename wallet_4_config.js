@@ -1,1 +1,1 @@
-var mnemonic = "game steel garment ocean awful enemy payment kangaroo useful fiber gown deliver";
+var mnemonic = "mosquito exit latin another right ability notice wagon above moment wear lawn";

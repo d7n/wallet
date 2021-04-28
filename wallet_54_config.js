@@ -1,1 +1,1 @@
-var mnemonic = "picnic enemy circle animal misery almost toddler gloom field wall modify boring";
+var mnemonic = "fence use snow blossom hungry teach antique endorse asset vast plunge indoor";

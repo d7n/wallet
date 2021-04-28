@@ -1,1 +1,1 @@
-var mnemonic = "hill route craft health disagree stamp custom camera milk slide bachelor explain";
+var mnemonic = "melody blade poem jump draft gas discover fluid throw slogan resemble pet";

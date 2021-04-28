@@ -1,1 +1,1 @@
-var mnemonic = "matrix call thank fault skirt moment shell betray spoil move discover length";
+var mnemonic = "immune leg oak flip flavor crack monkey young expire stool join basket";

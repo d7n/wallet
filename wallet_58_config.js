@@ -1,1 +1,1 @@
-var mnemonic = "finger rate suffer novel travel cover silent pave margin immune laptop fresh";
+var mnemonic = "wink solid royal sell tide dice side harsh piece turn local chair";

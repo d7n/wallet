@@ -1,1 +1,1 @@
-var mnemonic = "jewel jazz artist truth attract heavy chair embody mom review chat pigeon";
+var mnemonic = "crawl chief bean pizza portion knock brave venture ketchup mean scare silver";

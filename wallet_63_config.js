@@ -1,1 +1,1 @@
-var mnemonic = "desk warrior inside cage young ice lawsuit off spray major wish gun";
+var mnemonic = "royal fault bitter sibling waste attitude athlete post reduce fun this twelve";

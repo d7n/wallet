@@ -1,1 +1,1 @@
-var mnemonic = "impulse excess walk idle stand company october one addict category rail absent";
+var mnemonic = "limb fatal rifle way cliff gate aunt blossom pottery emerge erupt fever";

@@ -1,1 +1,1 @@
-var mnemonic = "swear inherit hedgehog ship boy sad acid mass please wage word glass";
+var mnemonic = "catalog enter impact illness moon cute load feel song game now inspire";

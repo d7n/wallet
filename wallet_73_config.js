@@ -1,1 +1,1 @@
-var mnemonic = "tool asset crisp hen zoo parent chef pipe slam deputy decade outdoor";
+var mnemonic = "lift egg tribe fence elevator frequent wheel sheriff quality couch gospel convince";

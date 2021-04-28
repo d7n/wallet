@@ -1,1 +1,1 @@
-var mnemonic = "hobby list dish catalog ugly celery grief blast shy fix cannon hat";
+var mnemonic = "face cute salmon other phrase day prison bring industry fitness proud hole";

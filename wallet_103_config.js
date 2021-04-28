@@ -1,1 +1,1 @@
-var mnemonic = "lizard jungle churn miss error venue monitor wagon cement save valve anxiety";
+var mnemonic = "lemon lens gold yellow success fine festival stairs seek pulse start any";

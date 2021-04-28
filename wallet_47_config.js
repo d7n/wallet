@@ -1,1 +1,1 @@
-var mnemonic = "wish outer belt satoshi design awkward surface laundry ecology crumble jungle sausage";
+var mnemonic = "coin bounce erosion guitar victory one solution vibrant agent left garbage practice";

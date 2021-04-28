@@ -1,1 +1,1 @@
-var mnemonic = "penalty swarm win ski rich risk grid top stove cliff lab wall";
+var mnemonic = "lunar ensure clinic animal wine melody myself theme loud leg snake play";

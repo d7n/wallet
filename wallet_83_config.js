@@ -1,1 +1,1 @@
-var mnemonic = "quote salad entry box napkin few bulb title hockey panic artefact trial";
+var mnemonic = "shed marble deny dinner copy six pottery despair trip song neck mass";

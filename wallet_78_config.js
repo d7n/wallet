@@ -1,1 +1,1 @@
-var mnemonic = "same provide add stick radio digital relief engine earn ginger swing weather";
+var mnemonic = "slab cloud inherit special process morning zoo grape gossip aware matrix fatigue";

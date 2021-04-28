@@ -1,1 +1,1 @@
-var mnemonic = "thought traffic debate neither olive iron light gospel drink flavor coach nut";
+var mnemonic = "silk face arrest cargo shift repeat rhythm party one rack original food";

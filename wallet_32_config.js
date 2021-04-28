@@ -1,1 +1,1 @@
-var mnemonic = "combine world brass minimum slot vague exile entry plug essence pave claw";
+var mnemonic = "fish bind useful hint ecology bean grief spike blanket aerobic camp labor";

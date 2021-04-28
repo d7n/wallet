@@ -1,1 +1,1 @@
-var mnemonic = "march hard dose already excess ribbon divide party blossom puppy over enough";
+var mnemonic = "also orbit stadium run before push swift duty coast dove immense drive";

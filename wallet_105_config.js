@@ -1,1 +1,1 @@
-var mnemonic = "mention logic trade coyote paper salmon term large curtain knife twin awesome";
+var mnemonic = "grunt seed radio remind only hover promote time flip deal oblige merge";

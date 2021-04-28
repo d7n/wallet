@@ -1,1 +1,1 @@
-var mnemonic = "bring auto farm wife depth tower glory code boss object pill busy";
+var mnemonic = "crane wealth entry hero embrace photo ring deposit host wonder rich olympic";

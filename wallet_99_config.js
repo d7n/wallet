@@ -1,1 +1,1 @@
-var mnemonic = "orchard broken oyster lazy fetch math slight produce rifle word nature income";
+var mnemonic = "width path nut refuse accuse loan timber wink later sentence oval way";

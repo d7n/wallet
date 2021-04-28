@@ -1,1 +1,1 @@
-var mnemonic = "decorate kind east sphere payment whale regular hand shallow transfer impose hidden";
+var mnemonic = "vicious ancient eight mean cute curtain warm repair federal fiction dwarf frost";

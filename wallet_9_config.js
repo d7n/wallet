@@ -1,1 +1,1 @@
-var mnemonic = "robust wire load property onion essence vendor deposit please casual that primary";
+var mnemonic = "proud beef cage great file slush neutral senior easy lawn choose tenant";

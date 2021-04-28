@@ -1,1 +1,1 @@
-var mnemonic = "theory dentist sketch cash under gun intact opinion chef slush attend horror";
+var mnemonic = "talent abstract before actual master enable power gospel hamster eight swift fashion";

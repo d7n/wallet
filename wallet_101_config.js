@@ -1,1 +1,1 @@
-var mnemonic = "tumble tag speed script curve theory rhythm ketchup tomorrow local provide tone";
+var mnemonic = "subject artefact employ oppose business thought disorder wet grunt range popular lumber";

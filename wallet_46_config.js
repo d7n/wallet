@@ -1,1 +1,1 @@
-var mnemonic = "weather strike champion cactus common appear record vague mammal view wool model";
+var mnemonic = "addict weasel sister surge myth orient chalk consider umbrella game access obscure";

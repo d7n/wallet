@@ -1,1 +1,1 @@
-var mnemonic = "tiny online napkin come cluster search release lobster odor multiply whip sheriff";
+var mnemonic = "clip ranch busy earth horn eager cream nest magnet twin fork ladder";

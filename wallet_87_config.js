@@ -1,1 +1,1 @@
-var mnemonic = "token unique happy coast family tragic timber catch gallery excuse hockey faculty";
+var mnemonic = "way trigger unique piano kid holiday lyrics social mind have attract advice";

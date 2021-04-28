@@ -1,1 +1,1 @@
-var mnemonic = "exile spider wonder food detect pupil demise discover ivory second deer truth";
+var mnemonic = "island guide clip tilt pigeon hen mammal grocery style thought fashion short";

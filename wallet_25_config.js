@@ -1,1 +1,1 @@
-var mnemonic = "giggle clump pulse endless receive bullet arrive eyebrow transfer inquiry modify depart";
+var mnemonic = "wheel oxygen museum uncover enjoy convince surface picture lonely ecology media cherry";

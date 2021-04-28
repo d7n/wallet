@@ -1,1 +1,1 @@
-var mnemonic = "valid advance input jacket purse run endorse object about gap need boss";
+var mnemonic = "crawl ozone misery frame slender right goose annual october quality memory concert";

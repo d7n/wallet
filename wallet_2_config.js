@@ -1,1 +1,1 @@
-var mnemonic = "faith certain gesture swamp busy robust pill repeat office title fence winter";
+var mnemonic = "around wood tragic defy good water avoid spare excite defense test term";

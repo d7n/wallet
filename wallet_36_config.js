@@ -1,1 +1,1 @@
-var mnemonic = "inform marriage elite skirt desk fog demise method flight shock alone ginger";
+var mnemonic = "guilt mass bundle erode inherit perfect nasty junk sentence pause blue rotate";

@@ -1,1 +1,1 @@
-var mnemonic = "family foster amount fuel sheriff gauge author stand cement ignore menu early";
+var mnemonic = "grief fit grow entire speed wine jeans loyal boss govern owner captain";

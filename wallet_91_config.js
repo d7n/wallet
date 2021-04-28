@@ -1,1 +1,1 @@
-var mnemonic = "skate only frog twice shallow skull balance hub review agree wave brisk";
+var mnemonic = "bird used segment setup trigger certain hope basket ethics fury heart habit";

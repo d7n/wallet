@@ -1,1 +1,1 @@
-var mnemonic = "quit any evil whisper leader fresh neck cross recipe release rare shell";
+var mnemonic = "police enact lazy lens raise auction sight floor hedgehog remember sphere find";

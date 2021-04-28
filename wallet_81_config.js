@@ -1,1 +1,1 @@
-var mnemonic = "obey verb smooth slide above account food tiger critic warm travel cheap";
+var mnemonic = "tumble mechanic require jazz arena mango nominee old stomach tourist asset acquire";

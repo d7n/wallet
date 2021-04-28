@@ -1,1 +1,1 @@
-var mnemonic = "swear loan peace lunar entry steak denial leader head place eye great";
+var mnemonic = "come isolate gadget equip segment nasty shoe diagram never pet funny aware";

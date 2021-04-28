@@ -1,1 +1,1 @@
-var mnemonic = "snake saddle detect list ask net scissors agree angry east glimpse joy";
+var mnemonic = "since term bean size assume label tissue galaxy slam shield sentence diary";

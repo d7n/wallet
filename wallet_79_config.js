@@ -1,1 +1,1 @@
-var mnemonic = "whisper ketchup item soap obtain crucial output snack gloom fox amateur exile";
+var mnemonic = "endorse circle habit close object icon shoulder giant above ranch soon tank";

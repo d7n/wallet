@@ -1,1 +1,1 @@
-var mnemonic = "enough film grunt army relief obvious half more general fence fire enforce";
+var mnemonic = "arrange orient curve family actual general life brick inject top fiscal amount";

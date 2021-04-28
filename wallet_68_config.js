@@ -1,1 +1,1 @@
-var mnemonic = "truck erase alter merge person suffer track pizza notice wing gospel vanish";
+var mnemonic = "toast merge main wild unknown step extend another reduce nothing business kitchen";

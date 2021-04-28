@@ -1,1 +1,1 @@
-var mnemonic = "party shy shop traffic panel custom mango uniform monitor curve news novel";
+var mnemonic = "beef load solution renew walnut recall swallow urge state mimic kitchen family";

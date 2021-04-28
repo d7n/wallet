@@ -1,1 +1,1 @@
-var mnemonic = "outer warrior filter match educate giggle walnut nice wash course bracket unfair";
+var mnemonic = "oyster spike stage mango garbage endorse obscure motor ski taxi moral super";

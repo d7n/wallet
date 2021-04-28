@@ -1,1 +1,1 @@
-var mnemonic = "disorder sock cream wife spike certain save brass position opinion blast gift";
+var mnemonic = "crunch siren stock elite cloth depend urban chef tank goat right payment";

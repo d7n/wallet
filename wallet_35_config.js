@@ -1,1 +1,1 @@
-var mnemonic = "nut hundred crew impulse glue strong execute frown rough between half soup";
+var mnemonic = "lounge pact busy aunt hungry load pipe attitude focus explain eager midnight";

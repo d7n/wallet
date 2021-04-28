@@ -1,1 +1,1 @@
-var mnemonic = "onion car myth library defense diamond clarify height off garage away there";
+var mnemonic = "wreck match sail flower neither render liquid voyage update day oblige custom";

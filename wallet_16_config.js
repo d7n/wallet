@@ -1,1 +1,1 @@
-var mnemonic = "wide belt census credit skirt lend ensure fade differ inner veteran orange";
+var mnemonic = "around milk sting mom pottery clay volume frozen option monkey welcome own";

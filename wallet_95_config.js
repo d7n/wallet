@@ -1,1 +1,1 @@
-var mnemonic = "club beyond fuel flash talent town hero hunt lonely edge danger siege";
+var mnemonic = "walk recall entry flag bomb pudding list salute phrase rocket define panther";

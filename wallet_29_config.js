@@ -1,1 +1,1 @@
-var mnemonic = "shift grief legend disagree disorder usual heavy machine appear school mansion gadget";
+var mnemonic = "fitness alley maze dentist talent donate erase mimic intact weasel adult between";

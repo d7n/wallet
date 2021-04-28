@@ -1,1 +1,1 @@
-var mnemonic = "poem unaware bomb syrup bulb salad salmon during comfort inhale fantasy hammer";
+var mnemonic = "now achieve praise home hurdle dune recycle license evidence friend reform fragile";

@@ -1,1 +1,1 @@
-var mnemonic = "mercy system explain you spring tongue orient fringe battle assume media elevator";
+var mnemonic = "ready program hammer pattern normal when actual wolf dragon worry arch inherit";
