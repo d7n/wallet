@@ -1,1 +1,1 @@
-var mnemonic = "laundry small sunset pipe error wife almost cover judge fortune little blood";
+var mnemonic = "position transfer current virus prison pride picture theory adjust expire match trick";

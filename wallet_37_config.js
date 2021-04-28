@@ -1,1 +1,1 @@
-var mnemonic = "hen gown extend bread pig mirror puzzle market actress zone measure jazz";
+var mnemonic = "debate coral stumble hint shine inflict breeze roast erosion coral oval soda";

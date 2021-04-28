@@ -1,1 +1,1 @@
-var mnemonic = "else pink learn neither mix clean unfold wise stone lens jungle impose";
+var mnemonic = "guide abuse student alone lucky time soldier wine beauty quiz skirt busy";

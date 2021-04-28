@@ -1,1 +1,1 @@
-var mnemonic = "mushroom disorder section easily welcome pioneer undo swamp portion accuse shuffle weather";
+var mnemonic = "mystery wild quote nerve disease inmate fever heart lottery blouse slice blade";

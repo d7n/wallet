@@ -1,1 +1,1 @@
-var mnemonic = "coyote disagree room grab catch daughter attack table album system cement cliff";
+var mnemonic = "tag job bind recipe increase agree margin hover media swear thumb news";

@@ -1,1 +1,1 @@
-var mnemonic = "surface original shop faint just ethics off material winter lawsuit add vapor";
+var mnemonic = "token before ill chat travel lucky horse circle comfort address early hazard";

@@ -1,1 +1,1 @@
-var mnemonic = "miracle unveil old insect fabric dinner rug ozone remove erupt host pepper";
+var mnemonic = "spice vault twenty useless pottery nurse stock dice reopen polar charge unknown";

@@ -1,1 +1,1 @@
-var mnemonic = "swallow attend try time absent then april display demand print lunar brave";
+var mnemonic = "salt thunder sauce forum dolphin heart detect umbrella shine renew present surge";

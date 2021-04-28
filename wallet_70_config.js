@@ -1,1 +1,1 @@
-var mnemonic = "evolve jazz order impact wrestle dolphin solid critic inject couple stomach grab";
+var mnemonic = "dish shaft plug draft clerk ill dynamic shove hockey bid toss own";

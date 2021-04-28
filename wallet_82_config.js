@@ -1,1 +1,1 @@
-var mnemonic = "excuse lawsuit fluid donor glimpse update victory cute hidden paddle welcome scene";
+var mnemonic = "miracle display like visual company picnic title strategy icon achieve present convince";

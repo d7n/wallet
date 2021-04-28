@@ -1,1 +1,1 @@
-var mnemonic = "ethics balcony lemon effort shed category section purchase risk evidence lottery void";
+var mnemonic = "biology forward fuel wise figure laptop rate approve connect donor melt snow";

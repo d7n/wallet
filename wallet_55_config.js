@@ -1,1 +1,1 @@
-var mnemonic = "join neck gasp author paper wasp sugar stem major imitate boring dirt";
+var mnemonic = "grit beauty slow roof dose sadness orchard detect bracket top warfare air";

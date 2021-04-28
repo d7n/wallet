@@ -1,1 +1,1 @@
-var mnemonic = "cheap lion explain drink project field draw matter olive they excite churn";
+var mnemonic = "lake abstract before thank exchange certain north inside finish urge crucial item";

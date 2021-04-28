@@ -1,1 +1,1 @@
-var mnemonic = "push knock mixed raven wedding helmet allow maximum sell grape year curtain";
+var mnemonic = "second library runway one present frown fold exist sheriff peace ugly cook";

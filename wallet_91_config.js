@@ -1,1 +1,1 @@
-var mnemonic = "helmet noble brick popular slow metal pole such trap puppy myth gap";
+var mnemonic = "price shove steel moment junior inner right actress vibrant canal town fruit";

@@ -1,1 +1,1 @@
-var mnemonic = "early village boss public notable leader post absent orient science under recall";
+var mnemonic = "escape foot movie stay early obvious moment lucky radar bounce endless dolphin";

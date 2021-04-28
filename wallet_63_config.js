@@ -1,1 +1,1 @@
-var mnemonic = "mind laugh hour display measure come bachelor fringe crisp crack divert mechanic";
+var mnemonic = "lawsuit deliver stove seed judge excuse machine couch palm scale sort truly";

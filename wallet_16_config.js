@@ -1,1 +1,1 @@
-var mnemonic = "purchase source saddle wash key awful hint flash gain this veteran father";
+var mnemonic = "vital crane poverty husband fiber actual fiscal gate trip index ship soda";

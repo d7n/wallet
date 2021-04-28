@@ -1,1 +1,1 @@
-var mnemonic = "build cattle smart into wire novel thought payment exhaust seven scorpion theory";
+var mnemonic = "dice morning giant peace have brown nation focus pill rotate govern gossip";

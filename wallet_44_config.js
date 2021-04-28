@@ -1,1 +1,1 @@
-var mnemonic = "inhale tone lion verb update crime mirror mixed vacuum success over female";
+var mnemonic = "faint bounce boil juice pride sting approve ankle choose frequent east urge";

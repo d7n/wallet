@@ -1,1 +1,1 @@
-var mnemonic = "remind vital satoshi creek bullet wedding army tone ketchup icon slab illegal";
+var mnemonic = "weasel below upon grape minute fat noble soda edit scout gaze scan";

@@ -1,1 +1,1 @@
-var mnemonic = "bag cinnamon ready layer material bicycle cage subway attract nuclear result aim";
+var mnemonic = "sugar deposit negative midnight race cloth best execute crunch mask physical tilt";

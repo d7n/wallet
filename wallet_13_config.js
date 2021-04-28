@@ -1,1 +1,1 @@
-var mnemonic = "lava field super hungry stem unfold identify sketch sunset toddler sphere cry";
+var mnemonic = "inner open rule grit dish fluid surface sting stool ice toilet follow";

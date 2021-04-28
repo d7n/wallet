@@ -1,1 +1,1 @@
-var mnemonic = "cancel satisfy donor eye review place fluid coffee fortune barrel carbon ship";
+var mnemonic = "grant finish trash stick ship pet never legal manual angry clutch unknown";

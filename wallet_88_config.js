@@ -1,1 +1,1 @@
-var mnemonic = "that cat struggle honey knock just spider false cash latin limb horror";
+var mnemonic = "frequent sauce tell spirit still treat trophy ill position bone ticket country";

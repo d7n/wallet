@@ -1,1 +1,1 @@
-var mnemonic = "describe play galaxy walk around nerve better build more pottery drive turtle";
+var mnemonic = "victory you uncle random lizard fit gentle skirt electric fuel ill feed";

@@ -1,1 +1,1 @@
-var mnemonic = "defy text credit junk cool sunset symptom welcome immense more dilemma domain";
+var mnemonic = "chest tide maple wrist valid sniff veteran light spike gown paddle argue";

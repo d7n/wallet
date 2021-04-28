@@ -1,1 +1,1 @@
-var mnemonic = "mystery fuel disease kingdom safe feed glow income world remain chapter catalog";
+var mnemonic = "over doll lawsuit brick oval group endorse winner auction now buzz museum";

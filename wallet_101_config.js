@@ -1,1 +1,1 @@
-var mnemonic = "hero debris arm ability knife laundry abstract huge useful stereo will general";
+var mnemonic = "earn carbon will obey toddler trash mountain supreme ticket fragile render damage";

@@ -1,1 +1,1 @@
-var mnemonic = "amateur grass surround burger amateur acoustic honey guitar winner note riot input";
+var mnemonic = "indoor meat diesel shy bid sleep marble foam repeat flee wing rabbit";

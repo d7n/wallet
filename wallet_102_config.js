@@ -1,1 +1,1 @@
-var mnemonic = "link please crime cable slow right scheme end rubber neutral burst fragile";
+var mnemonic = "squeeze meadow link can general manage security shell bus debris blanket obtain";

@@ -1,1 +1,1 @@
-var mnemonic = "satoshi produce dial useful confirm must genius fish primary hotel banner fruit";
+var mnemonic = "shield crucial bubble spin kind snow giraffe position stock tobacco main want";

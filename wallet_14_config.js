@@ -1,1 +1,1 @@
-var mnemonic = "fine trust control wedding option verify success scene sand flight virus afraid";
+var mnemonic = "wife piece magic potato oak innocent reform slide pyramid carry green pink";

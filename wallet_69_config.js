@@ -1,1 +1,1 @@
-var mnemonic = "suspect monkey theory catalog laundry olympic organ athlete style original solution vague";
+var mnemonic = "subject absent interest south paper nephew aware federal reform nature robust resist";

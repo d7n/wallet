@@ -1,1 +1,1 @@
-var mnemonic = "want refuse grape skull cage angry person industry service cool time region";
+var mnemonic = "food exclude surge anchor gain priority length day live coyote boring kick";

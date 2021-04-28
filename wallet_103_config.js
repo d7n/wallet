@@ -1,1 +1,1 @@
-var mnemonic = "coin choose tobacco furnace asset change boss rough tuition flat pipe ritual";
+var mnemonic = "middle story solar cruise plate trade slogan drop critic forget chest satisfy";

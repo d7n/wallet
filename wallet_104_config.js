@@ -1,1 +1,1 @@
-var mnemonic = "tongue discover glue glove bounce icon bless during defy curious convince result";
+var mnemonic = "jelly jar purpose lab arctic country correct across despair impulse input ask";

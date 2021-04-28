@@ -1,1 +1,1 @@
-var mnemonic = "maximum ready ozone vanish tell frame someone decide spring capable club virtual";
+var mnemonic = "slide people barely roof nature already bounce essay survey advance cradle exhibit";

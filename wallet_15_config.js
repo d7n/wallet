@@ -1,1 +1,1 @@
-var mnemonic = "border social cricket time accident goat patch pepper build flip fresh flower";
+var mnemonic = "sadness silk slush disease ostrich forest clutch alcohol boy crisp jelly fox";

@@ -1,1 +1,1 @@
-var mnemonic = "maid cool afford nose slogan equip virtual pave bid nest kite scissors";
+var mnemonic = "height float garlic connect tornado glove beyond rescue legend recall human quality";

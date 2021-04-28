@@ -1,1 +1,1 @@
-var mnemonic = "index duck aware warfare couple purpose budget path hockey other pilot buzz";
+var mnemonic = "enforce pave frown donor labor grab angle expand eight foam spoil vital";

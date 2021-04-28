@@ -1,1 +1,1 @@
-var mnemonic = "tilt ketchup fork modify ritual cloud garlic outdoor catch baby option flip";
+var mnemonic = "mango census actor endless goddess become insect diesel police surface idea sure";

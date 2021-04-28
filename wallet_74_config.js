@@ -1,1 +1,1 @@
-var mnemonic = "guide play will renew orphan verify entire fun layer roast capable initial";
+var mnemonic = "loan rule this hotel include please until reason news salt column silent";

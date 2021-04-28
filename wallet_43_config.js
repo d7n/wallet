@@ -1,1 +1,1 @@
-var mnemonic = "velvet pond mind analyst admit wood decide identify fabric thought hidden bubble";
+var mnemonic = "stereo invest mistake human gallery destroy shoe shine stumble board yard raven";

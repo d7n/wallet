@@ -1,1 +1,1 @@
-var mnemonic = "hidden dynamic scare accuse slam panda junior feed miracle text duty enable";
+var mnemonic = "high bring poverty will inquiry bullet blue worth amused wall seed tribe";

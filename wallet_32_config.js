@@ -1,1 +1,1 @@
-var mnemonic = "brick supreme clean convince sword around equal urge kitchen wagon diesel poem";
+var mnemonic = "try pizza cricket news bring scale useless head rug file fortune defense";

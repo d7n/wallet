@@ -1,1 +1,1 @@
-var mnemonic = "city merry stuff attitude air print dance trick stay carpet dish ladder";
+var mnemonic = "useful mimic hello outdoor mouse radar genuine crazy rather jump royal prize";

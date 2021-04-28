@@ -1,1 +1,1 @@
-var mnemonic = "crisp roof ginger lottery wasp win arrow clown quit pencil orbit grocery";
+var mnemonic = "deal cycle grace globe infant place balance school slender cook glad defy";

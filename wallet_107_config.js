@@ -1,1 +1,1 @@
-var mnemonic = "slide script other then hour toward theory liar moral canyon defense injury";
+var mnemonic = "such side hurry collect marriage lend glass throw problem yellow burger enough";

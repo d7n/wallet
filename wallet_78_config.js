@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow conduct cup crime echo spring volume lyrics filter include client brain";
+var mnemonic = "more garbage setup general twelve hole unique glass spatial mouse civil once";

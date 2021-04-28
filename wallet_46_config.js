@@ -1,1 +1,1 @@
-var mnemonic = "deer prize rookie retire nose club dolphin toe woman vote asthma inflict";
+var mnemonic = "cargo accuse best flush found senior squeeze tribe notable weekend hidden melt";

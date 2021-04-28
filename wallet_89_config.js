@@ -1,1 +1,1 @@
-var mnemonic = "eight purse outdoor soda piano spoil twice label around client embody border";
+var mnemonic = "garlic wagon learn beef welcome visual mutual success invest clever message upset";

@@ -1,1 +1,1 @@
-var mnemonic = "hire disorder rug stool void food report grant help result pioneer punch";
+var mnemonic = "volcano cycle exhibit size armor method ripple butter loyal captain regret civil";

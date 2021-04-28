@@ -1,1 +1,1 @@
-var mnemonic = "chest bachelor civil soon convince sense admit vanish scene property visit result";
+var mnemonic = "cream damage donkey spring duck wheel grain tongue index dust valley warfare";

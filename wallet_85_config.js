@@ -1,1 +1,1 @@
-var mnemonic = "surface forget abuse tuna stable rookie wasp extra today pitch cave tuition";
+var mnemonic = "history speak patient raise retreat brother relax case glass wall manual window";

@@ -1,1 +1,1 @@
-var mnemonic = "park crew stove cloth corn item thrive media december canal anchor tone";
+var mnemonic = "permit rich twenty rich casino idle large power spice buzz debate gentle";

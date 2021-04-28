@@ -1,1 +1,1 @@
-var mnemonic = "obey glad badge lemon resist top benefit year mutual tide cat index";
+var mnemonic = "kick jungle seat warrior ready rifle rubber cage alter ride hole gym";

@@ -1,1 +1,1 @@
-var mnemonic = "close paddle lift swing bargain ship two onion impact cliff stock topple";
+var mnemonic = "play school arena icon liar lunar update need theory then lyrics fiscal";

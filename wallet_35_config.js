@@ -1,1 +1,1 @@
-var mnemonic = "runway animal speed dumb height famous seek viable comfort smooth rebel drink";
+var mnemonic = "light all scare solution ginger habit season wedding stool weather keep chalk";

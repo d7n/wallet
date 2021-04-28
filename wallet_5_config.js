@@ -1,1 +1,1 @@
-var mnemonic = "flight lyrics wrist craft require height jewel gift extend symbol alone lumber";
+var mnemonic = "antenna soccer life tank siege ancient soft beach chat demise sniff win";

@@ -1,1 +1,1 @@
-var mnemonic = "special vast six banana mouse upgrade flavor route fan timber source fancy";
+var mnemonic = "heart ritual beauty trigger chunk omit water boss improve split margin dilemma";

@@ -1,1 +1,1 @@
-var mnemonic = "filter glance spy detail ordinary angle engine isolate ignore exhibit park come";
+var mnemonic = "custom primary local cherry choose amazing stem ancient error fortune extra insane";

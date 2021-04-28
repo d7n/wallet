@@ -1,1 +1,1 @@
-var mnemonic = "solution later normal aunt aim flush twin squeeze fly art hurt staff";
+var mnemonic = "sing able month valid convince buffalo lobster script carry secret soul puppy";

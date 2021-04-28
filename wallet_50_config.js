@@ -1,1 +1,1 @@
-var mnemonic = "reflect trick leader quarter biology resemble regret industry wasp art grunt keen";
+var mnemonic = "come special gasp attack wonder banner rebuild finish stage audit protect refuse";

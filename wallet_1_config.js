@@ -1,1 +1,1 @@
-var mnemonic = "acoustic stem intact robust business one hammer arrive below final digital napkin";
+var mnemonic = "traffic door cherry canyon enjoy wrestle army thumb quarter vanish assault hub";

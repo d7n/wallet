@@ -1,1 +1,1 @@
-var mnemonic = "swear nerve annual flag fragile offer layer flock vote film mushroom village";
+var mnemonic = "afraid wrestle artist fatigue height rural again win leaf animal bright dove";

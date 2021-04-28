@@ -1,1 +1,1 @@
-var mnemonic = "firm half put enable naive echo install keen early now point hawk";
+var mnemonic = "wet burst balcony nose cousin protect three horse across cry mixture can";

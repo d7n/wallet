@@ -1,1 +1,1 @@
-var mnemonic = "cry path gravity boy hour island ankle spy cruel air win flash";
+var mnemonic = "thought bundle spawn stone eye deputy bunker embark dizzy display scissors electric";

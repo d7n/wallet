@@ -1,1 +1,1 @@
-var mnemonic = "pipe very time cover adult snow destroy valley bus camera occur test";
+var mnemonic = "half scout until photo either wave urge axis various announce nut filter";

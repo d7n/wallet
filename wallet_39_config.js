@@ -1,1 +1,1 @@
-var mnemonic = "put hand edit man fence slice bracket august develop bone coast normal";
+var mnemonic = "immense museum pluck tuna salute imitate shell shoe blush hello oval blush";

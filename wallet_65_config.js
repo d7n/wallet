@@ -1,1 +1,1 @@
-var mnemonic = "attract onion portion become pumpkin you trap buzz only reject aunt pattern";
+var mnemonic = "stock camera divorce curious any pet retire ozone parent throw hotel staff";

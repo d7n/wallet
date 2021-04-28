@@ -1,1 +1,1 @@
-var mnemonic = "biology salt canal valid erase fabric labor rough lounge wink exotic orchard";
+var mnemonic = "spend pretty pen guard submit bridge price hire city place clog hero";

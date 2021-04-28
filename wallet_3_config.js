@@ -1,1 +1,1 @@
-var mnemonic = "orient member interest thrive choice spy day wasp sort prepare early glory";
+var mnemonic = "tool fog grant lamp equip three seminar sponsor insect hover hole panther";

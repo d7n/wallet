@@ -1,1 +1,1 @@
-var mnemonic = "upgrade chapter camera account dream expire cake run kiss senior oppose letter";
+var mnemonic = "purpose copy palace ring spirit reason tape room frame black pudding arrow";

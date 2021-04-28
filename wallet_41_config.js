@@ -1,1 +1,1 @@
-var mnemonic = "survey weird cover blast cause analyst open wish sleep device purse pole";
+var mnemonic = "ripple flush banana order bamboo patient rent garage doll beyond exhaust grain";

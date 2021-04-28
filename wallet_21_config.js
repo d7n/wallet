@@ -1,1 +1,1 @@
-var mnemonic = "whale ripple book hurry patient side bubble donor laptop valid best test";
+var mnemonic = "assist bachelor cluster attitude amazing flag banner conduct husband basket hamster pledge";

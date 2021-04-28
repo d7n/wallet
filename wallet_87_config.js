@@ -1,1 +1,1 @@
-var mnemonic = "satoshi certain globe any drama camp month collect bright object remove teach";
+var mnemonic = "pond leaf absorb winter tiny candy wing hurt connect brisk lawn bullet";

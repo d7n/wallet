@@ -1,1 +1,1 @@
-var mnemonic = "small dish bottom abuse frown enrich laptop net fortune cross section tourist";
+var mnemonic = "business injury ranch proof control cement tenant balance risk road valve bullet";

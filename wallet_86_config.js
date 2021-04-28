@@ -1,1 +1,1 @@
-var mnemonic = "radar tooth club tunnel tragic drum cup cage square wedding drop obvious";
+var mnemonic = "machine gate badge crystal jealous congress oil universe scheme glide thank embrace";

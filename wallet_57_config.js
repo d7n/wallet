@@ -1,1 +1,1 @@
-var mnemonic = "inspire code helmet critic cause glance autumn scatter embody innocent gorilla sauce";
+var mnemonic = "lawsuit clinic month father call shoulder term carry stool design tilt egg";

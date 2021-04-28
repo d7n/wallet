@@ -1,1 +1,1 @@
-var mnemonic = "rotate hazard catalog sock bitter toe small like nest rail kangaroo gym";
+var mnemonic = "nothing potato help soft holiday tiger matrix lunar column loyal similar family";

@@ -1,1 +1,1 @@
-var mnemonic = "enroll clay swarm dish oyster jaguar draw save ancient exotic avoid wood";
+var mnemonic = "deliver leopard juice thing pattern elder say glass case enable armor vibrant";

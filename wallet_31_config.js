@@ -1,1 +1,1 @@
-var mnemonic = "pink subject border moon win perfect cook rate luxury second feed suspect";
+var mnemonic = "day erosion twice sign upset small cigar index embody amateur dog keep";

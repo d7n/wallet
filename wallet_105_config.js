@@ -1,1 +1,1 @@
-var mnemonic = "menu wolf suffer kick length narrow toe high coral humor repair vast";
+var mnemonic = "question erupt critic patch also grape helmet wheel fitness oven swarm attract";

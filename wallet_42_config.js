@@ -1,1 +1,1 @@
-var mnemonic = "patrol afford fatigue spirit quantum ride nation auto joke example orbit wash";
+var mnemonic = "emerge cost fresh scale feature cloud clerk wall action elegant hollow impact";

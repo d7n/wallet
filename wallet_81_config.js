@@ -1,1 +1,1 @@
-var mnemonic = "response live rice shoe little sphere produce jump tourist vacant wrap leopard";
+var mnemonic = "cruise pencil brother tourist grace zoo attend negative group essay spend raven";
