@@ -1,1 +1,1 @@
-var mnemonic = "memory seven retire man pyramid height reform brother unusual neglect silly name";
+var mnemonic = "erase cotton return rich gun post bridge mistake enroll board canvas castle";

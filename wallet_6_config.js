@@ -1,1 +1,1 @@
-var mnemonic = "luxury wool want brass hood clever energy remain trumpet autumn unknown more";
+var mnemonic = "legend fortune shiver hope slide angry ready echo produce turkey wing under";

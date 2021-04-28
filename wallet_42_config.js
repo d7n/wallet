@@ -1,1 +1,1 @@
-var mnemonic = "tackle lion person coin liberty shiver tomato biology begin usage vacant gossip";
+var mnemonic = "remind auction frog business pledge swear tissue giraffe outdoor nut matrix wine";

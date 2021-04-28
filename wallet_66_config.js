@@ -1,1 +1,1 @@
-var mnemonic = "own entry sadness flush plug manual defense gun day program such speed";
+var mnemonic = "moral icon provide fantasy hockey mirror resource sign history online friend tuna";

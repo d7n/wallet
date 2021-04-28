@@ -1,1 +1,1 @@
-var mnemonic = "alone chimney poverty heart burst enact option clever indicate memory pull dirt";
+var mnemonic = "penalty grunt melt order fiction sustain wall step oven diesel leg hen";

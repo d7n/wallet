@@ -1,1 +1,1 @@
-var mnemonic = "arm script design guitar knife stage limb avoid text pattern over kingdom";
+var mnemonic = "leg physical confirm angle absorb faint minimum weapon float rate update physical";

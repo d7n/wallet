@@ -1,1 +1,1 @@
-var mnemonic = "spirit gas pilot ugly police ridge talent brush moral banner vast miracle";
+var mnemonic = "fashion trade crew angry invest minute clarify abstract order orange keen such";

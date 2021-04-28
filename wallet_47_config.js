@@ -1,1 +1,1 @@
-var mnemonic = "retreat burden grant build panic primary doctor unfold gate bind refuse smoke";
+var mnemonic = "private now box debris where guard soup rabbit early unique happy lunar";

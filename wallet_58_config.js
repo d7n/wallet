@@ -1,1 +1,1 @@
-var mnemonic = "clerk return excess cake work soap endorse diet swamp couch vague asthma";
+var mnemonic = "debate february okay harsh powder buffalo flash cigar ladder earn empower behave";

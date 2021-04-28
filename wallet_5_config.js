@@ -1,1 +1,1 @@
-var mnemonic = "breeze bag key filter truck ticket frown wish series clutch remove danger";
+var mnemonic = "kingdom apology segment garbage gate decorate effort derive ordinary team bunker about";

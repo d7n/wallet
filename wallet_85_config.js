@@ -1,1 +1,1 @@
-var mnemonic = "dutch chaos angle cigar staff rigid leave cabin squeeze armor belt error";
+var mnemonic = "clean test venue deer caution device visual climb access place unable sphere";

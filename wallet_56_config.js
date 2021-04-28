@@ -1,1 +1,1 @@
-var mnemonic = "slide desert room jewel proud dog gasp toy amused purse spatial cake";
+var mnemonic = "casual vacuum jaguar upset coyote pet wagon leader dolphin pudding hybrid used";

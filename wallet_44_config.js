@@ -1,1 +1,1 @@
-var mnemonic = "quarter upgrade cargo episode news chuckle inch observe mobile surge range decorate";
+var mnemonic = "achieve detect analyst pill canal slim crop know narrow lift can violin";

@@ -1,1 +1,1 @@
-var mnemonic = "whisper damp grow hat metal ensure describe athlete north ensure warm arrive";
+var mnemonic = "door ripple end crane avocado renew gravity minor clerk amused tornado grow";

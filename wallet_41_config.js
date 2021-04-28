@@ -1,1 +1,1 @@
-var mnemonic = "roof armed velvet pull seed cash knife garlic menu theme chef steel";
+var mnemonic = "oven install attract game search spoil cherry melt word artwork tower true";

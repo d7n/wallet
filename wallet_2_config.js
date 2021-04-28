@@ -1,1 +1,1 @@
-var mnemonic = "multiply fan panic split crowd hungry human else fluid uphold purchase bomb";
+var mnemonic = "already split end patch proud season say evoke excuse loyal vocal record";

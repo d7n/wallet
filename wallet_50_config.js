@@ -1,1 +1,1 @@
-var mnemonic = "creek into symptom catalog army common organ swap typical kit game whip";
+var mnemonic = "all between boost exact wreck citizen goat resemble borrow recycle dove trick";

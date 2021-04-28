@@ -1,1 +1,1 @@
-var mnemonic = "impact engage rally happy mask behave mixed body forward deliver weasel private";
+var mnemonic = "cause truck frequent debris build local aspect script absorb side two hope";

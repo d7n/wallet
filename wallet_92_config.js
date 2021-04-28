@@ -1,1 +1,1 @@
-var mnemonic = "rail mistake search tilt axis squirrel shiver parent chuckle length honey matter";
+var mnemonic = "help hundred clerk fault quit chief innocent slam leaf scene cram guard";

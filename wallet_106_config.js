@@ -1,1 +1,1 @@
-var mnemonic = "indicate hair toy eyebrow hint soon boring carbon agree outside damp short";
+var mnemonic = "jazz sugar deputy toast purpose illegal duty ugly minute merit people twice";

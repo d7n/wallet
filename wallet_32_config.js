@@ -1,1 +1,1 @@
-var mnemonic = "link birth case poverty tail pair ribbon right twelve impact learn jump";
+var mnemonic = "lecture tube clinic timber print immense antenna answer dice robot scheme refuse";

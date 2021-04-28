@@ -1,1 +1,1 @@
-var mnemonic = "unable cattle youth document report country smooth desk novel diet radio guess";
+var mnemonic = "firm feature bulb subway sheriff define inform electric material jacket speed current";

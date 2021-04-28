@@ -1,1 +1,1 @@
-var mnemonic = "month stay favorite security lawn memory lounge dignity embrace glance border genre";
+var mnemonic = "bracket audit stable category mixture potato fluid differ moon primary rude spray";

@@ -1,1 +1,1 @@
-var mnemonic = "whip pizza oak combine skull replace logic crucial grace assume hip film";
+var mnemonic = "solution liar north avocado assume strategy margin error tree vote abstract vault";

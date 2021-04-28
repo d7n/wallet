@@ -1,1 +1,1 @@
-var mnemonic = "spring situate tube public alarm frequent enemy mango flag local garlic carry";
+var mnemonic = "often pencil liberty alien identify bench width parent riot crew click sketch";

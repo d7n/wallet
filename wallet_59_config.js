@@ -1,1 +1,1 @@
-var mnemonic = "network raccoon mind cable wrestle jazz various such cotton wheat pen rabbit";
+var mnemonic = "leopard model doll method embody frog job draw hundred enlist reason knee";

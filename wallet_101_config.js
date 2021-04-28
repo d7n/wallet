@@ -1,1 +1,1 @@
-var mnemonic = "unveil donkey stone occur hawk coin crane hen detect undo there fashion";
+var mnemonic = "average vendor energy gasp item interest debris drill depend rocket weather extra";

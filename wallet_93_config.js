@@ -1,1 +1,1 @@
-var mnemonic = "route check egg bullet strong occur daughter energy warm panda dress sibling";
+var mnemonic = "snake argue remove renew list number icon grape vast wheel floor borrow";

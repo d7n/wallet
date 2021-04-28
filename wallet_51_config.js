@@ -1,1 +1,1 @@
-var mnemonic = "crane chalk surround minute goose educate lizard citizen hover apart paper record";
+var mnemonic = "other raw convince scrap message puppy crumble drama castle shield host make";

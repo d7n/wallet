@@ -1,1 +1,1 @@
-var mnemonic = "sphere clip artwork choice stamp recipe accident pass immune pole cinnamon amount";
+var mnemonic = "omit jeans path chef one meat wheel rescue globe budget echo mixed";

@@ -1,1 +1,1 @@
-var mnemonic = "sort secret ethics leaf make library possible pupil foam agent viable butter";
+var mnemonic = "concert bitter fever feature tattoo consider reveal verify fashion best easily winner";

@@ -1,1 +1,1 @@
-var mnemonic = "print circle number jeans post wood vote bean dismiss that bubble ensure";
+var mnemonic = "tomato nice matrix track dawn subject poverty diesel sock antenna cactus broken";

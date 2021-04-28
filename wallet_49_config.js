@@ -1,1 +1,1 @@
-var mnemonic = "erode citizen pumpkin invite liquid ugly scheme sample lizard muffin unfold kid";
+var mnemonic = "unhappy chunk announce other giraffe barely achieve village okay mask eternal dance";

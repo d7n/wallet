@@ -1,1 +1,1 @@
-var mnemonic = "donor field school panda moment portion deny derive poverty render riot swing";
+var mnemonic = "lazy shiver make punch borrow lab drum case lunar shock replace human";

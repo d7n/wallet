@@ -1,1 +1,1 @@
-var mnemonic = "offer wash involve surge mean include gas know monster melt recall borrow";
+var mnemonic = "exchange finish famous tissue buddy salad limb draw equal autumn scale sun";

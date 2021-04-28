@@ -1,1 +1,1 @@
-var mnemonic = "category happy gravity sound diagram sign depart space certain alcohol brass arrive";
+var mnemonic = "banner asthma fit symptom move ensure upon trip curious apology join pond";

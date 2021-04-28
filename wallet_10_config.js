@@ -1,1 +1,1 @@
-var mnemonic = "spray option alpha actress blood mutual analyst audit puzzle budget column neglect";
+var mnemonic = "harvest chalk obvious rate calm funny panda ladder sting term rug uphold";

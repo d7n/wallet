@@ -1,1 +1,1 @@
-var mnemonic = "vanish dry expand coconut dilemma express solve width age advance stand cave";
+var mnemonic = "attitude animal science rate category appear yard demise coil mushroom liberty trim";

@@ -1,1 +1,1 @@
-var mnemonic = "nothing valid firm vendor sail fork kangaroo all make barrel atom glove";
+var mnemonic = "rib combine photo auto garbage aim diet repeat elephant web borrow car";

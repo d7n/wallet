@@ -1,1 +1,1 @@
-var mnemonic = "dance brain cave shy evolve olympic extend unaware super torch sword village";
+var mnemonic = "night dolphin develop good improve young caught service bench liquid purse general";

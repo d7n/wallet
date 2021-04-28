@@ -1,1 +1,1 @@
-var mnemonic = "damage actual note prison hurdle other marine fragile leave duck legal payment";
+var mnemonic = "sample review excess gentle dress belt stick tent frozen such correct trouble";

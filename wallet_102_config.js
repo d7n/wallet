@@ -1,1 +1,1 @@
-var mnemonic = "exist found essay exact holiday belt more include better cabin pepper stuff";
+var mnemonic = "elder toddler warm evoke best question endless culture olympic next boy eyebrow";

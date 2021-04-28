@@ -1,1 +1,1 @@
-var mnemonic = "frog search glove depend pilot potato must indoor tip clock scale super";
+var mnemonic = "peanut spoil three hope sausage destroy acquire accuse coral talent equal tonight";

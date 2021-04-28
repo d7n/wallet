@@ -1,1 +1,1 @@
-var mnemonic = "parrot sniff bulb daring someone can grit engage twice law join mosquito";
+var mnemonic = "tissue film orbit aisle destroy gloom later surround stage marine barely oil";

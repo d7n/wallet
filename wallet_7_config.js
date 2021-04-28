@@ -1,1 +1,1 @@
-var mnemonic = "fiscal keen quarter recycle escape claim tired author normal arena gentle soda";
+var mnemonic = "that change exhibit style oxygen creek enable east inside cook twelve flower";

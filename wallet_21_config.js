@@ -1,1 +1,1 @@
-var mnemonic = "buffalo pipe major speed duty exhibit frown mirror surface concert subject address";
+var mnemonic = "moon tray truth release dose bone unaware entire version debate soft exchange";

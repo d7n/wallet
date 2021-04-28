@@ -1,1 +1,1 @@
-var mnemonic = "grass inform wrestle museum witness enrich endless lunch umbrella grace strike surround";
+var mnemonic = "where ranch harsh check laptop draft energy clown blanket reveal poverty modify";

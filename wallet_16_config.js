@@ -1,1 +1,1 @@
-var mnemonic = "battle slam envelope transfer melody regret rubber orphan roast still odor approve";
+var mnemonic = "rhythm border foil knock champion cry defy never erode kite arrive clean";

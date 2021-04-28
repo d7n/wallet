@@ -1,1 +1,1 @@
-var mnemonic = "coconut replace canvas muffin pitch coyote balcony quality exit light lyrics shadow";
+var mnemonic = "weekend pink glow east differ you apple body round trial render april";

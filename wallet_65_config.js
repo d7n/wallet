@@ -1,1 +1,1 @@
-var mnemonic = "someone tribe canoe ready cup step also dwarf true assist inflict hole";
+var mnemonic = "slab bone similar govern avocado tent bone bean vapor drama obscure buyer";

@@ -1,1 +1,1 @@
-var mnemonic = "topple inner talent little retreat dream person coyote special tower scorpion isolate";
+var mnemonic = "tonight silent stem detect team analyst settle era token vibrant concert recycle";

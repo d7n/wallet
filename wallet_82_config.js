@@ -1,1 +1,1 @@
-var mnemonic = "shrimp pluck brown weird park quarter element table moment bracket fall night";
+var mnemonic = "cradle dinosaur message enlist feed reward orient price indicate write sense bus";

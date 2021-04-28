@@ -1,1 +1,1 @@
-var mnemonic = "attack two start small owner disease control gauge lonely hungry ten upper";
+var mnemonic = "crucial group fine exist poverty ceiling state husband rotate major entry easily";

@@ -1,1 +1,1 @@
-var mnemonic = "embark fan frown ugly alien embody merit rug sock ginger defense neck";
+var mnemonic = "debris collect elbow cart fiscal hip rifle release steel life deposit absent";

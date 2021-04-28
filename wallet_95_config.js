@@ -1,1 +1,1 @@
-var mnemonic = "paddle call panther purpose smoke chat ice coin upon purpose kitchen index";
+var mnemonic = "expand engine certain retire nest congress uncover song pulp video spell draw";

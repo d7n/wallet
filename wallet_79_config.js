@@ -1,1 +1,1 @@
-var mnemonic = "recycle claim limb blade shove split lawsuit tell bus decline gorilla spot";
+var mnemonic = "river roast deposit safe mule barrel jeans bottom kiss pupil crew fever";

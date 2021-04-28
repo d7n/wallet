@@ -1,1 +1,1 @@
-var mnemonic = "explain pipe color vague enhance figure gallery movie tag two brass gesture";
+var mnemonic = "exile trouble metal goose toss inhale saddle ugly flight thought crane rent";

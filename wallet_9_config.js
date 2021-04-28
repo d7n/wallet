@@ -1,1 +1,1 @@
-var mnemonic = "cradle recipe goose swallow north since unknown vehicle unaware later cabbage witness";
+var mnemonic = "usual palace private wide keen range negative grab barrel light room uphold";

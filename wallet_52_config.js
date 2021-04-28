@@ -1,1 +1,1 @@
-var mnemonic = "cruel income caught code gas truly pear awful sketch immune panda fruit";
+var mnemonic = "arrow visit journey wisdom ask sample explain rice actress lend suit neutral";

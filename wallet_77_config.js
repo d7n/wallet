@@ -1,1 +1,1 @@
-var mnemonic = "illness extend tortoise design pig panic cup toddler army remember desert interest";
+var mnemonic = "else into heavy wood shoe resource orchard title abstract cream reunion repair";

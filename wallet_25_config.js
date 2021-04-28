@@ -1,1 +1,1 @@
-var mnemonic = "evoke donate equal space praise return motor paddle lucky top dream collect";
+var mnemonic = "rug drill pond truly trend indoor fatal cinnamon lecture feed kid elbow";

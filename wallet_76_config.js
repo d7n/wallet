@@ -1,1 +1,1 @@
-var mnemonic = "section remain chief hire uncover donkey embody lawsuit amused rotate thought father";
+var mnemonic = "parent same border ripple absurd avoid multiply shrimp morning army process meadow";

@@ -1,1 +1,1 @@
-var mnemonic = "chair lawn trick loud bicycle major clerk lazy stumble school valid disagree";
+var mnemonic = "possible power rice describe few nation stadium seminar donate radar example advance";

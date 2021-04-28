@@ -1,1 +1,1 @@
-var mnemonic = "skin lesson phrase discover keen excite pattern negative office gas proud together";
+var mnemonic = "tilt axis hard strike aspect defy cigar artwork mango behind lobster medal";

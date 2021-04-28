@@ -1,1 +1,1 @@
-var mnemonic = "once run pattern bullet arrive scare letter devote elevator fix leopard negative";
+var mnemonic = "soft stuff gain bid avoid high panic scorpion media trade quality must";

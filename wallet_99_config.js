@@ -1,1 +1,1 @@
-var mnemonic = "silk sketch quote promote uphold roast sort tag hidden endless mutual width";
+var mnemonic = "zebra urban stool eternal despair candy useful deal chief mistake tissue wash";

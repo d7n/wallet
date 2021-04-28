@@ -1,1 +1,1 @@
-var mnemonic = "audit draft cotton undo gentle morning video build bar worth exhibit sun";
+var mnemonic = "proof relief task depend wrist garment settle lizard tobacco insane return only";

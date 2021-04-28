@@ -1,1 +1,1 @@
-var mnemonic = "brisk stumble noodle blur umbrella roof fall monster viable plunge essay force";
+var mnemonic = "coin view alien legend mule coconut math must worth tube kitchen left";

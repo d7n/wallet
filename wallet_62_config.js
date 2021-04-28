@@ -1,1 +1,1 @@
-var mnemonic = "slight pretty throw swallow behave inquiry pear indoor critic fork comfort maximum";
+var mnemonic = "intact twin amount festival invite estate dragon into tennis until naive border";

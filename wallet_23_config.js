@@ -1,1 +1,1 @@
-var mnemonic = "tattoo ring quarter match fiscal search chief latin order bring piano fine";
+var mnemonic = "mosquito rifle shuffle train illness onion oyster broom input strike machine liquid";

@@ -1,1 +1,1 @@
-var mnemonic = "rather liquid cricket spend quality motion onion dawn buyer cake timber wheel";
+var mnemonic = "tiger police snack bunker spike patch punch fresh ankle absorb decline word";

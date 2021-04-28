@@ -1,1 +1,1 @@
-var mnemonic = "naive stem undo then because true label update say expire word unit";
+var mnemonic = "pear orbit club before inflict garment pencil kiwi hockey giraffe during negative";

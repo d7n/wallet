@@ -1,1 +1,1 @@
-var mnemonic = "pelican myself give limb patch undo crumble dutch pink hurry reform damp";
+var mnemonic = "obvious yard lens hero abandon woman sweet often excess seat spray repair";

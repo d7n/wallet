@@ -1,1 +1,1 @@
-var mnemonic = "auction adjust increase dismiss bounce rail squirrel enemy earth layer symptom physical";
+var mnemonic = "rail tomorrow ski curious alert vapor siren gold dial panic bonus arena";

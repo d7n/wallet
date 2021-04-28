@@ -1,1 +1,1 @@
-var mnemonic = "top mobile forum riot latin village reveal heavy bundle guide over patch";
+var mnemonic = "private cloud section bench pave vague craft grant orient pony ceiling stadium";

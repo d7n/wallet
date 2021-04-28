@@ -1,1 +1,1 @@
-var mnemonic = "poet chicken sibling praise soccer disorder stem plunge venue rival claim caution";
+var mnemonic = "denial organ suspect hazard agent language tell price kingdom spray transfer intact";

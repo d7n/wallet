@@ -1,1 +1,1 @@
-var mnemonic = "catch require again wreck frog float bounce soda program rough regular violin";
+var mnemonic = "heart cause resemble orchard afraid angle swear you position equal shine universe";

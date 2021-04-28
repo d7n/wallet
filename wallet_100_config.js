@@ -1,1 +1,1 @@
-var mnemonic = "raw device step paddle degree tiger mercy client apple board hard aunt";
+var mnemonic = "inner birth gas clown flush point cradle inspire there alarm spirit change";

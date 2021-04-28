@@ -1,1 +1,1 @@
-var mnemonic = "limit pear holiday shine suit hunt noise ensure enough now bus power";
+var mnemonic = "pepper witness meat style scissors obey penalty sing very kidney chapter inflict";

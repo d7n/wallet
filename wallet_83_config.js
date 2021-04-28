@@ -1,1 +1,1 @@
-var mnemonic = "cluster exclude tool sphere trend much crystal buyer hungry grocery because future";
+var mnemonic = "average author enable wasp exact response tree place diary bulk nice hope";

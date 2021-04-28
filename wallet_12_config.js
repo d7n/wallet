@@ -1,1 +1,1 @@
-var mnemonic = "achieve myself cross match magnet depart aunt silver zoo thrive curve universe";
+var mnemonic = "marine maximum local core salon ripple naive kitchen roast top kingdom blouse";

@@ -1,1 +1,1 @@
-var mnemonic = "orbit cruise holiday they balcony inch admit ahead quality neck weird name";
+var mnemonic = "burst teach grape finish gasp umbrella general cable crawl journey behave nephew";

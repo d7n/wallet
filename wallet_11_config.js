@@ -1,1 +1,1 @@
-var mnemonic = "gauge lawsuit tank zero manual nation resist lumber grain mobile message few";
+var mnemonic = "glow blur club silk carpet fish clip alien twin galaxy clever case";

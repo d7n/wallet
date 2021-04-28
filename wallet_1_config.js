@@ -1,1 +1,1 @@
-var mnemonic = "swarm advice broken yellow admit pull stable sauce artefact dentist crew trim";
+var mnemonic = "ship never rug web physical wealth replace pen cross bus jewel elegant";
