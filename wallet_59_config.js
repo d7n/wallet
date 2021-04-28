@@ -1,1 +1,1 @@
-var mnemonic = "spice vault twenty useless pottery nurse stock dice reopen polar charge unknown";
+var mnemonic = "network raccoon mind cable wrestle jazz various such cotton wheat pen rabbit";

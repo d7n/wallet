@@ -1,1 +1,1 @@
-var mnemonic = "tool fog grant lamp equip three seminar sponsor insect hover hole panther";
+var mnemonic = "skin lesson phrase discover keen excite pattern negative office gas proud together";

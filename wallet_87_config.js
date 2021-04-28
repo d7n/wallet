@@ -1,1 +1,1 @@
-var mnemonic = "pond leaf absorb winter tiny candy wing hurt connect brisk lawn bullet";
+var mnemonic = "glad odor marine hurry cost client oil pluck quality often toward tattoo";

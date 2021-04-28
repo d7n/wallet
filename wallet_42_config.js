@@ -1,1 +1,1 @@
-var mnemonic = "emerge cost fresh scale feature cloud clerk wall action elegant hollow impact";
+var mnemonic = "tackle lion person coin liberty shiver tomato biology begin usage vacant gossip";

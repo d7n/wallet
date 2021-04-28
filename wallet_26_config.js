@@ -1,1 +1,1 @@
-var mnemonic = "high bring poverty will inquiry bullet blue worth amused wall seed tribe";
+var mnemonic = "whip pizza oak combine skull replace logic crucial grace assume hip film";

@@ -1,1 +1,1 @@
-var mnemonic = "heart ritual beauty trigger chunk omit water boss improve split margin dilemma";
+var mnemonic = "retreat burden grant build panic primary doctor unfold gate bind refuse smoke";

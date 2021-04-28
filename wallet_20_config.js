@@ -1,1 +1,1 @@
-var mnemonic = "happy thrive current avocado into ankle purpose blind actress tell repeat gym";
+var mnemonic = "then chat motor pig shell secret hotel meat unit globe impact clog";

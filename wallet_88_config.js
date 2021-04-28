@@ -1,1 +1,1 @@
-var mnemonic = "frequent sauce tell spirit still treat trophy ill position bone ticket country";
+var mnemonic = "nothing valid firm vendor sail fork kangaroo all make barrel atom glove";

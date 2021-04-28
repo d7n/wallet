@@ -1,1 +1,1 @@
-var mnemonic = "donate bean illness sea guard swift clerk angle narrow vapor shrug soccer";
+var mnemonic = "pelican myself give limb patch undo crumble dutch pink hurry reform damp";

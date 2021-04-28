@@ -1,1 +1,1 @@
-var mnemonic = "position transfer current virus prison pride picture theory adjust expire match trick";
+var mnemonic = "erode citizen pumpkin invite liquid ugly scheme sample lizard muffin unfold kid";

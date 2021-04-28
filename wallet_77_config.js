@@ -1,1 +1,1 @@
-var mnemonic = "play school arena icon liar lunar update need theory then lyrics fiscal";
+var mnemonic = "illness extend tortoise design pig panic cup toddler army remember desert interest";

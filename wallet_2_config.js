@@ -1,1 +1,1 @@
-var mnemonic = "business injury ranch proof control cement tenant balance risk road valve bullet";
+var mnemonic = "multiply fan panic split crowd hungry human else fluid uphold purchase bomb";

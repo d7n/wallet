@@ -1,1 +1,1 @@
-var mnemonic = "cargo accuse best flush found senior squeeze tribe notable weekend hidden melt";
+var mnemonic = "embark fan frown ugly alien embody merit rug sock ginger defense neck";

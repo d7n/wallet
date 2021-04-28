@@ -1,1 +1,1 @@
-var mnemonic = "dish shaft plug draft clerk ill dynamic shove hockey bid toss own";
+var mnemonic = "gorilla print juice door raccoon sport check melt group sustain muscle witness";

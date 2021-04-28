@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit deliver stove seed judge excuse machine couch palm scale sort truly";
+var mnemonic = "fun wise rail electric glare indicate guard brush hood wisdom start crazy";

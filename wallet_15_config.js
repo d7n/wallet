@@ -1,1 +1,1 @@
-var mnemonic = "sadness silk slush disease ostrich forest clutch alcohol boy crisp jelly fox";
+var mnemonic = "donor field school panda moment portion deny derive poverty render riot swing";

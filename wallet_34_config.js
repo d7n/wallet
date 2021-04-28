@@ -1,1 +1,1 @@
-var mnemonic = "enforce pave frown donor labor grab angle expand eight foam spoil vital";
+var mnemonic = "vanish dry expand coconut dilemma express solve width age advance stand cave";

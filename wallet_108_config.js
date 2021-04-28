@@ -1,1 +1,1 @@
-var mnemonic = "mystery wild quote nerve disease inmate fever heart lottery blouse slice blade";
+var mnemonic = "explain pipe color vague enhance figure gallery movie tag two brass gesture";

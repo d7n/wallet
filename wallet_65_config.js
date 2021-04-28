@@ -1,1 +1,1 @@
-var mnemonic = "stock camera divorce curious any pet retire ozone parent throw hotel staff";
+var mnemonic = "someone tribe canoe ready cup step also dwarf true assist inflict hole";

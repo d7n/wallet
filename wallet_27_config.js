@@ -1,1 +1,1 @@
-var mnemonic = "range spy soap flat similar slow please chapter mixed alcohol success sun";
+var mnemonic = "month stay favorite security lawn memory lounge dignity embrace glance border genre";

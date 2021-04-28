@@ -1,1 +1,1 @@
-var mnemonic = "immense museum pluck tuna salute imitate shell shoe blush hello oval blush";
+var mnemonic = "arm script design guitar knife stage limb avoid text pattern over kingdom";

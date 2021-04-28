@@ -1,1 +1,1 @@
-var mnemonic = "city crystal turkey ginger enemy aisle custom border curve vital diagram dirt";
+var mnemonic = "era brush scare indoor exchange record hotel focus mechanic lift fish lawn";

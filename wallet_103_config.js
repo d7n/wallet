@@ -1,1 +1,1 @@
-var mnemonic = "middle story solar cruise plate trade slogan drop critic forget chest satisfy";
+var mnemonic = "comfort busy win claw health online bag apple abstract symptom family wagon";

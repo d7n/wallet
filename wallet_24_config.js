@@ -1,1 +1,1 @@
-var mnemonic = "earth member invest fragile awful clay episode switch awful defense quantum repair";
+var mnemonic = "lawsuit sick kitten alter hold segment mother tooth drop pistol alarm valid";

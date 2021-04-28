@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit clinic month father call shoulder term carry stool design tilt egg";
+var mnemonic = "frog search glove depend pilot potato must indoor tip clock scale super";

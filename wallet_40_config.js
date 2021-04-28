@@ -1,1 +1,1 @@
-var mnemonic = "prevent six craft acquire tone access luxury dismiss excess scare off wine";
+var mnemonic = "sort secret ethics leaf make library possible pupil foam agent viable butter";

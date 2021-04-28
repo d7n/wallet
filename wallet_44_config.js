@@ -1,1 +1,1 @@
-var mnemonic = "faint bounce boil juice pride sting approve ankle choose frequent east urge";
+var mnemonic = "quarter upgrade cargo episode news chuckle inch observe mobile surge range decorate";

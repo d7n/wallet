@@ -1,1 +1,1 @@
-var mnemonic = "together blame cupboard federal key sauce describe deal police extra taxi pig";
+var mnemonic = "crane chalk surround minute goose educate lizard citizen hover apart paper record";

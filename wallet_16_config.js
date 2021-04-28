@@ -1,1 +1,1 @@
-var mnemonic = "vital crane poverty husband fiber actual fiscal gate trip index ship soda";
+var mnemonic = "battle slam envelope transfer melody regret rubber orphan roast still odor approve";

@@ -1,1 +1,1 @@
-var mnemonic = "squeeze meadow link can general manage security shell bus debris blanket obtain";
+var mnemonic = "exist found essay exact holiday belt more include better cabin pepper stuff";

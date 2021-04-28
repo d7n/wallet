@@ -1,1 +1,1 @@
-var mnemonic = "light all scare solution ginger habit season wedding stool weather keep chalk";
+var mnemonic = "ecology issue author expire opinion slab street trash sweet material tool belt";

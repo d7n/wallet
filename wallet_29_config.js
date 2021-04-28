@@ -1,1 +1,1 @@
-var mnemonic = "grant finish trash stick ship pet never legal manual angry clutch unknown";
+var mnemonic = "gallery doll spirit globe scare clock tribe spy caught uphold blanket rib";

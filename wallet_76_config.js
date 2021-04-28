@@ -1,1 +1,1 @@
-var mnemonic = "biology forward fuel wise figure laptop rate approve connect donor melt snow";
+var mnemonic = "section remain chief hire uncover donkey embody lawsuit amused rotate thought father";

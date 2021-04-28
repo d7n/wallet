@@ -1,1 +1,1 @@
-var mnemonic = "ripple flush banana order bamboo patient rent garage doll beyond exhaust grain";
+var mnemonic = "roof armed velvet pull seed cash knife garlic menu theme chef steel";

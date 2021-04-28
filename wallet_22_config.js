@@ -1,1 +1,1 @@
-var mnemonic = "guide abuse student alone lucky time soldier wine beauty quiz skirt busy";
+var mnemonic = "spirit gas pilot ugly police ridge talent brush moral banner vast miracle";

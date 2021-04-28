@@ -1,1 +1,1 @@
-var mnemonic = "cream visual close scene spike add mass boat odor solution shrimp cash";
+var mnemonic = "leave drastic pause craft reform hood imitate blind oval utility wolf taste";

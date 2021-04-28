@@ -1,1 +1,1 @@
-var mnemonic = "sing able month valid convince buffalo lobster script carry secret soul puppy";
+var mnemonic = "rather liquid cricket spend quality motion onion dawn buyer cake timber wheel";

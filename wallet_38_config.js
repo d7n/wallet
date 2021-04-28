@@ -1,1 +1,1 @@
-var mnemonic = "second library runway one present frown fold exist sheriff peace ugly cook";
+var mnemonic = "sphere clip artwork choice stamp recipe accident pass immune pole cinnamon amount";

@@ -1,1 +1,1 @@
-var mnemonic = "debate coral stumble hint shine inflict breeze roast erosion coral oval soda";
+var mnemonic = "alpha fish situate damage vacant boost water sustain punch match toilet okay";

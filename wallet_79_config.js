@@ -1,1 +1,1 @@
-var mnemonic = "purchase judge fish miracle van wreck market hurry casino inspire casual knife";
+var mnemonic = "recycle claim limb blade shove split lawsuit tell bus decline gorilla spot";

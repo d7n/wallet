@@ -1,1 +1,1 @@
-var mnemonic = "gas vault oak doctor cargo exact noble captain warrior caught history later";
+var mnemonic = "chat tuna love dog truth cool runway fat blade report genius number";

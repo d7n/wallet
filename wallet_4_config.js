@@ -1,1 +1,1 @@
-var mnemonic = "half scout until photo either wave urge axis various announce nut filter";
+var mnemonic = "category happy gravity sound diagram sign depart space certain alcohol brass arrive";

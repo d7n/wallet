@@ -1,1 +1,1 @@
-var mnemonic = "assist bachelor cluster attitude amazing flag banner conduct husband basket hamster pledge";
+var mnemonic = "buffalo pipe major speed duty exhibit frown mirror surface concert subject address";

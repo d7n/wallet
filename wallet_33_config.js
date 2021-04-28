@@ -1,1 +1,1 @@
-var mnemonic = "slide people barely roof nature already bounce essay survey advance cradle exhibit";
+var mnemonic = "chair lawn trick loud bicycle major clerk lazy stumble school valid disagree";

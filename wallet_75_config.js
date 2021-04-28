@@ -1,1 +1,1 @@
-var mnemonic = "spend pretty pen guard submit bridge price hire city place clog hero";
+var mnemonic = "naive stem undo then because true label update say expire word unit";

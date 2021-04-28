@@ -1,1 +1,1 @@
-var mnemonic = "such side hurry collect marriage lend glass throw problem yellow burger enough";
+var mnemonic = "auction adjust increase dismiss bounce rail squirrel enemy earth layer symptom physical";

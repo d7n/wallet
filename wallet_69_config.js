@@ -1,1 +1,1 @@
-var mnemonic = "subject absent interest south paper nephew aware federal reform nature robust resist";
+var mnemonic = "spring situate tube public alarm frequent enemy mango flag local garlic carry";

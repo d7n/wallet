@@ -1,1 +1,1 @@
-var mnemonic = "food exclude surge anchor gain priority length day live coyote boring kick";
+var mnemonic = "print circle number jeans post wood vote bean dismiss that bubble ensure";

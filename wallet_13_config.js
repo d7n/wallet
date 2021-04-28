@@ -1,1 +1,1 @@
-var mnemonic = "inner open rule grit dish fluid surface sting stool ice toilet follow";
+var mnemonic = "connect nice adult title husband pluck cabbage region double scissors task piano";

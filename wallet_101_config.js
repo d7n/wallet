@@ -1,1 +1,1 @@
-var mnemonic = "earn carbon will obey toddler trash mountain supreme ticket fragile render damage";
+var mnemonic = "unveil donkey stone occur hawk coin crane hen detect undo there fashion";

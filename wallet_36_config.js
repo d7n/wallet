@@ -1,1 +1,1 @@
-var mnemonic = "useful mimic hello outdoor mouse radar genuine crazy rather jump royal prize";
+var mnemonic = "memory seven retire man pyramid height reform brother unusual neglect silly name";

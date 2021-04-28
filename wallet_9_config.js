@@ -1,1 +1,1 @@
-var mnemonic = "indoor meat diesel shy bid sleep marble foam repeat flee wing rabbit";
+var mnemonic = "cradle recipe goose swallow north since unknown vehicle unaware later cabbage witness";

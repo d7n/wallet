@@ -1,1 +1,1 @@
-var mnemonic = "deal cycle grace globe infant place balance school slender cook glad defy";
+var mnemonic = "indicate hair toy eyebrow hint soon boring carbon agree outside damp short";

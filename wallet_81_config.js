@@ -1,1 +1,1 @@
-var mnemonic = "cruise pencil brother tourist grace zoo attend negative group essay spend raven";
+var mnemonic = "alone chimney poverty heart burst enact option clever indicate memory pull dirt";

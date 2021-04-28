@@ -1,1 +1,1 @@
-var mnemonic = "weasel below upon grape minute fat noble soda edit scout gaze scan";
+var mnemonic = "topple inner talent little retreat dream person coyote special tower scorpion isolate";

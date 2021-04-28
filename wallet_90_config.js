@@ -1,1 +1,1 @@
-var mnemonic = "member bar bamboo burst view rich addict winner frequent drill say alarm";
+var mnemonic = "orbit cruise holiday they balcony inch admit ahead quality neck weird name";

@@ -1,1 +1,1 @@
-var mnemonic = "nothing potato help soft holiday tiger matrix lunar column loyal similar family";
+var mnemonic = "limit pear holiday shine suit hunt noise ensure enough now bus power";

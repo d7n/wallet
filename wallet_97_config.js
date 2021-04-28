@@ -1,1 +1,1 @@
-var mnemonic = "vacant legend practice mixture sleep mistake early matter buffalo vague ridge throw";
+var mnemonic = "become genuine fossil body you picture champion tobacco unit awkward owner health";

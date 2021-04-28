@@ -1,1 +1,1 @@
-var mnemonic = "deliver leopard juice thing pattern elder say glass case enable armor vibrant";
+var mnemonic = "pelican leave depth strike thank doll sail mystery cereal neither finger valid";

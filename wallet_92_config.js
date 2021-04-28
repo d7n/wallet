@@ -1,1 +1,1 @@
-var mnemonic = "myself hobby gown chef bid scrap hurdle leaf call bulb sting milk";
+var mnemonic = "rail mistake search tilt axis squirrel shiver parent chuckle length honey matter";

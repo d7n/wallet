@@ -1,1 +1,1 @@
-var mnemonic = "miracle display like visual company picnic title strategy icon achieve present convince";
+var mnemonic = "shrimp pluck brown weird park quarter element table moment bracket fall night";

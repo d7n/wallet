@@ -1,1 +1,1 @@
-var mnemonic = "antenna soccer life tank siege ancient soft beach chat demise sniff win";
+var mnemonic = "breeze bag key filter truck ticket frown wish series clutch remove danger";

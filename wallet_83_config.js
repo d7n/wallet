@@ -1,1 +1,1 @@
-var mnemonic = "furnace outside carpet parrot demand fatigue saddle author mask satisfy walnut surround";
+var mnemonic = "cluster exclude tool sphere trend much crystal buyer hungry grocery because future";

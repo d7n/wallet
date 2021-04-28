@@ -1,1 +1,1 @@
-var mnemonic = "garlic wagon learn beef welcome visual mutual success invest clever message upset";
+var mnemonic = "snack curious pink extra tree drop teach loan jar carbon own milk";

@@ -1,1 +1,1 @@
-var mnemonic = "sponsor midnight mom scrap mandate citizen wave apple cake adapt shoot define";
+var mnemonic = "clerk return excess cake work soap endorse diet swamp couch vague asthma";

@@ -1,1 +1,1 @@
-var mnemonic = "tag job bind recipe increase agree margin hover media swear thumb news";
+var mnemonic = "tattoo ring quarter match fiscal search chief latin order bring piano fine";

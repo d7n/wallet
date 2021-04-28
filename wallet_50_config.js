@@ -1,1 +1,1 @@
-var mnemonic = "come special gasp attack wonder banner rebuild finish stage audit protect refuse";
+var mnemonic = "creek into symptom catalog army common organ swap typical kit game whip";

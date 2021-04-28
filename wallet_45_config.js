@@ -1,1 +1,1 @@
-var mnemonic = "custom primary local cherry choose amazing stem ancient error fortune extra insane";
+var mnemonic = "right busy attack fragile roast gather decade car arrive produce exhibit wall";

@@ -1,1 +1,1 @@
-var mnemonic = "history speak patient raise retreat brother relax case glass wall manual window";
+var mnemonic = "dutch chaos angle cigar staff rigid leave cabin squeeze armor belt error";

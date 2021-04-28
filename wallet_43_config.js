@@ -1,1 +1,1 @@
-var mnemonic = "stereo invest mistake human gallery destroy shoe shine stumble board yard raven";
+var mnemonic = "grass inform wrestle museum witness enrich endless lunch umbrella grace strike surround";

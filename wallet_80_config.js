@@ -1,1 +1,1 @@
-var mnemonic = "wet burst balcony nose cousin protect three horse across cry mixture can";
+var mnemonic = "offer wash involve surge mean include gas know monster melt recall borrow";

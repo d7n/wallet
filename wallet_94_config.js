@@ -1,1 +1,1 @@
-var mnemonic = "sugar deposit negative midnight race cloth best execute crunch mask physical tilt";
+var mnemonic = "damage actual note prison hurdle other marine fragile leave duck legal payment";

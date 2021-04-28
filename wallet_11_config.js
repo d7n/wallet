@@ -1,1 +1,1 @@
-var mnemonic = "throw cruel history maze burger relief topic clutch ski glimpse organ weapon";
+var mnemonic = "gauge lawsuit tank zero manual nation resist lumber grain mobile message few";

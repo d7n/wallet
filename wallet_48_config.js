@@ -1,1 +1,1 @@
-var mnemonic = "kick turtle little myth bless glue panic reveal large cost eyebrow update";
+var mnemonic = "attack two start small owner disease control gauge lonely hungry ten upper";

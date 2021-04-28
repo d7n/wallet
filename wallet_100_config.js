@@ -1,1 +1,1 @@
-var mnemonic = "dice morning giant peace have brown nation focus pill rotate govern gossip";
+var mnemonic = "raw device step paddle degree tiger mercy client apple board hard aunt";

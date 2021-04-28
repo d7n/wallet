@@ -1,1 +1,1 @@
-var mnemonic = "cream damage donkey spring duck wheel grain tongue index dust valley warfare";
+var mnemonic = "fiscal keen quarter recycle escape claim tired author normal arena gentle soda";

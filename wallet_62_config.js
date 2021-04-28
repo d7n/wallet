@@ -1,1 +1,1 @@
-var mnemonic = "silver dolphin security guide ignore asthma genuine utility decorate fork nuclear security";
+var mnemonic = "slight pretty throw swallow behave inquiry pear indoor critic fork comfort maximum";

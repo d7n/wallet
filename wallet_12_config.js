@@ -1,1 +1,1 @@
-var mnemonic = "victory you uncle random lizard fit gentle skirt electric fuel ill feed";
+var mnemonic = "achieve myself cross match magnet depart aunt silver zoo thrive curve universe";

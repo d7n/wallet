@@ -1,1 +1,1 @@
-var mnemonic = "traffic door cherry canyon enjoy wrestle army thumb quarter vanish assault hub";
+var mnemonic = "swarm advice broken yellow admit pull stable sauce artefact dentist crew trim";

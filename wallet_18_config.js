@@ -1,1 +1,1 @@
-var mnemonic = "shoe finger ridge dust pledge title flash wish list burst laugh piece";
+var mnemonic = "brisk stumble noodle blur umbrella roof fall monster viable plunge essay force";

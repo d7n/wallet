@@ -1,1 +1,1 @@
-var mnemonic = "volcano cycle exhibit size armor method ripple butter loyal captain regret civil";
+var mnemonic = "luxury wool want brass hood clever energy remain trumpet autumn unknown more";

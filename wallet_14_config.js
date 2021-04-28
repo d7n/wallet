@@ -1,1 +1,1 @@
-var mnemonic = "wife piece magic potato oak innocent reform slide pyramid carry green pink";
+var mnemonic = "parrot sniff bulb daring someone can grit engage twice law join mosquito";

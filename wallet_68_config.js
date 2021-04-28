@@ -1,1 +1,1 @@
-var mnemonic = "shield crucial bubble spin kind snow giraffe position stock tobacco main want";
+var mnemonic = "fade tape bar give initial conduct spider trim sound essence diamond kite";

@@ -1,1 +1,1 @@
-var mnemonic = "token before ill chat travel lucky horse circle comfort address early hazard";
+var mnemonic = "deny borrow trophy exchange view refuse trip deputy leaf exit foil govern";

@@ -1,1 +1,1 @@
-var mnemonic = "machine gate badge crystal jealous congress oil universe scheme glide thank embrace";
+var mnemonic = "giant unaware zone around bundle thought wise dress point audit source oppose";

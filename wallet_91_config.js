@@ -1,1 +1,1 @@
-var mnemonic = "price shove steel moment junior inner right actress vibrant canal town fruit";
+var mnemonic = "audit draft cotton undo gentle morning video build bar worth exhibit sun";

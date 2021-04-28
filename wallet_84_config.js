@@ -1,1 +1,1 @@
-var mnemonic = "purpose copy palace ring spirit reason tape room frame black pudding arrow";
+var mnemonic = "section history grace gas dinosaur approve reward volume strong guess aisle weekend";

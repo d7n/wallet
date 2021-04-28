@@ -1,1 +1,1 @@
-var mnemonic = "permit rich twenty rich casino idle large power spice buzz debate gentle";
+var mnemonic = "unfold predict leaf copy grief pact imitate hollow must shed february crystal";
