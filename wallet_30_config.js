@@ -1,1 +1,1 @@
-var mnemonic = "deliver kid marriage scatter sweet term quiz kiwi remind safe recipe acoustic";
+var mnemonic = "harbor chest debate weasel dignity enhance antique cross web bridge clock margin";

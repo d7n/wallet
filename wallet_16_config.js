@@ -1,1 +1,1 @@
-var mnemonic = "news derive involve like quiz torch return denial blanket flight dawn plate";
+var mnemonic = "mercy version boring comfort stadium cable analyst matrix test omit hard scrap";

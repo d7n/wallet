@@ -1,1 +1,1 @@
-var mnemonic = "deny clog fall describe inquiry obtain mechanic stamp alert cotton topic range";
+var mnemonic = "elegant resist resource athlete ill panda chase core voice gap together cup";

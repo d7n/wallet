@@ -1,1 +1,1 @@
-var mnemonic = "later denial banana dad box vapor ostrich reveal praise basic favorite cram";
+var mnemonic = "farm popular they hood urge hidden devote phone dignity entry noble good";

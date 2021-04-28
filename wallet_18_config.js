@@ -1,1 +1,1 @@
-var mnemonic = "affair dance basket myth hamster slide useful salute frost symbol vanish guess";
+var mnemonic = "hire cigar expand life promote medal frozen topple lazy file labor kick";

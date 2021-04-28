@@ -1,1 +1,1 @@
-var mnemonic = "album repeat urban blood inject vague fever job marriage trumpet sea seed";
+var mnemonic = "used misery planet romance mechanic junior innocent fall change gadget stomach february";

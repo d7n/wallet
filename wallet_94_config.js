@@ -1,1 +1,1 @@
-var mnemonic = "depend fold debris symbol dinner business gap remind pyramid lady clutch flip";
+var mnemonic = "math earn gym believe erode certain flock gasp spring undo useless must";

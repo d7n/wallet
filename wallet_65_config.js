@@ -1,1 +1,1 @@
-var mnemonic = "cigar winter link ability age crisp moment account inherit phone disorder pause";
+var mnemonic = "combine column reflect stamp label unlock opinion comfort play kingdom antique spread";

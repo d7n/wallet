@@ -1,1 +1,1 @@
-var mnemonic = "two file lend flip paper sibling warfare priority frown need baby town";
+var mnemonic = "matrix fade rare hurt problem renew travel engine catalog menu segment fever";

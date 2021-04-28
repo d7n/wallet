@@ -1,1 +1,1 @@
-var mnemonic = "census student slow enlist service bridge gold light faint more indoor display";
+var mnemonic = "amazing prepare valley fuel daughter couch kit accident uniform brick team mosquito";

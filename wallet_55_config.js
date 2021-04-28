@@ -1,1 +1,1 @@
-var mnemonic = "already spring outer chief wonder trim embrace major damp lizard glow lawn";
+var mnemonic = "mobile hobby way rubber medal alone hurdle fox absurd latin forget seed";

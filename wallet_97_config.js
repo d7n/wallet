@@ -1,1 +1,1 @@
-var mnemonic = "shy scan casino valley stamp game shine where glove mandate legal food";
+var mnemonic = "depart museum lounge road elegant junior outside device hazard coast wine sniff";

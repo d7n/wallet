@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit kitten ethics fit post monkey picture bridge also satisfy early sketch";
+var mnemonic = "win fresh bid few loyal lonely capable large salute wet talk venue";

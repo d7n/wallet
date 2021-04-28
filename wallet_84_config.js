@@ -1,1 +1,1 @@
-var mnemonic = "barrel team index orient gallery abuse dream midnight rain alter undo arch";
+var mnemonic = "cube labor cannon cash vendor reveal calm snake measure legend mad mobile";

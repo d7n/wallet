@@ -1,1 +1,1 @@
-var mnemonic = "develop crisp airport mind cycle debris define cook winner rail funny early";
+var mnemonic = "erase medal version catalog pioneer soon wild minute color stone hurt frown";

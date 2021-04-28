@@ -1,1 +1,1 @@
-var mnemonic = "demand also stereo dry myself fancy scissors mask million exhaust quiz truck";
+var mnemonic = "window remain first three inmate color legend reward airport jacket help camera";

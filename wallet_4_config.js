@@ -1,1 +1,1 @@
-var mnemonic = "giant moment end achieve mail tell attend impulse twelve sudden april chuckle";
+var mnemonic = "menu slim slide suspect vocal object admit pulp gym negative repair panel";

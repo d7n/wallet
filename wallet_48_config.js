@@ -1,1 +1,1 @@
-var mnemonic = "blossom diary hurdle team best firm fitness lizard uniform castle clip sting";
+var mnemonic = "stamp cool balcony behind bag private gain pizza balance spoon remember salt";

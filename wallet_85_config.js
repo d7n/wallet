@@ -1,1 +1,1 @@
-var mnemonic = "nice become elder dad input issue peanut solid primary coconut auction boost";
+var mnemonic = "settle unknown theory sad output grace child vibrant kit trumpet enhance bring";

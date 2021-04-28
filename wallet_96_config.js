@@ -1,1 +1,1 @@
-var mnemonic = "retire coin rescue inch song alert below ridge farm inform sadness luggage";
+var mnemonic = "apple simple control horror thrive chase robot anchor day beauty zero unit";

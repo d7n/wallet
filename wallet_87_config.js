@@ -1,1 +1,1 @@
-var mnemonic = "metal worth ring stamp typical venue potato dismiss panic era original addict";
+var mnemonic = "client dial industry divorce kit antenna lonely police equal absent winner camp";

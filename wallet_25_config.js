@@ -1,1 +1,1 @@
-var mnemonic = "term forward base job unit assume color cactus chest vivid sunset often";
+var mnemonic = "discover afraid sister tooth post indicate tornado uncle weird curious grain era";

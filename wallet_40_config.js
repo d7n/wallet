@@ -1,1 +1,1 @@
-var mnemonic = "vivid problem genuine bridge correct solution yellow animal bracket monster copy milk";
+var mnemonic = "advance goat humble replace jacket pause index mercy job infant nation only";

@@ -1,1 +1,1 @@
-var mnemonic = "similar yard scan need buyer gap bar rent slim thing subject buyer";
+var mnemonic = "unaware relief swear visa advance smoke slender result slice spice abandon define";

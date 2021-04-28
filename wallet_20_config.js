@@ -1,1 +1,1 @@
-var mnemonic = "cause lamp dismiss retire argue wisdom blur scene error oblige orange advice";
+var mnemonic = "depart hour stumble toss smart obscure urban earn verb plunge venture rotate";

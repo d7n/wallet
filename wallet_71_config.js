@@ -1,1 +1,1 @@
-var mnemonic = "lonely mean judge enjoy journey pattern vehicle old consider eight crush leader";
+var mnemonic = "receive sure expire feed morning tiny better ability analyst cube stone call";

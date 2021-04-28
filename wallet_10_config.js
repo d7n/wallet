@@ -1,1 +1,1 @@
-var mnemonic = "quit evidence actual honey armor produce suggest melody mad exclude beach before";
+var mnemonic = "table agent swing ginger deer juice illegal pupil analyst wing yellow abuse";

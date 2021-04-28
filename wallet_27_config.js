@@ -1,1 +1,1 @@
-var mnemonic = "blanket couple pulp desk drop picnic twelve olympic mention begin kingdom drink";
+var mnemonic = "fitness frown want suit test brand fiction brand arctic bridge category other";

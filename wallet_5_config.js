@@ -1,1 +1,1 @@
-var mnemonic = "vital patient error answer scare curious shallow across crisp dynamic bracket gorilla";
+var mnemonic = "ranch recall glory ginger bargain skill evolve cargo fuel sign evil brisk";

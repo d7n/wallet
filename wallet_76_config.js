@@ -1,1 +1,1 @@
-var mnemonic = "debris afraid estate focus easy legend subway ramp sound must organ way";
+var mnemonic = "neck cushion survey valid humble slam traffic poem girl caution robot midnight";

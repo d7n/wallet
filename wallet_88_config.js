@@ -1,1 +1,1 @@
-var mnemonic = "dust hero action rhythm begin able federal someone increase horror window general";
+var mnemonic = "fruit pluck shield three exotic adjust wild pattern steak elbow luxury spoon";

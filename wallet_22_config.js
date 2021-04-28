@@ -1,1 +1,1 @@
-var mnemonic = "vast crop drive denial door sister print mercy endorse spy draft inmate";
+var mnemonic = "carry glad choose guitar goose one bunker square account march bonus check";

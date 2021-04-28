@@ -1,1 +1,1 @@
-var mnemonic = "orchard island laugh dawn hospital airport garbage monster across hockey weasel educate";
+var mnemonic = "unveil tube minor nut boy that define mule pet snack lesson crawl";

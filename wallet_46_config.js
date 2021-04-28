@@ -1,1 +1,1 @@
-var mnemonic = "accident poet actual real vague wasp reveal broom note random mass educate";
+var mnemonic = "repair great sort empty fine since alien wear crowd thought panic exist";

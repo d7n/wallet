@@ -1,1 +1,1 @@
-var mnemonic = "often reason cash caution ivory theory method scrap face soldier run mail";
+var mnemonic = "garment wing fade program cradle fade copy caution treat relax brand thank";

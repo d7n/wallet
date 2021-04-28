@@ -1,1 +1,1 @@
-var mnemonic = "mouse world nerve client vast rocket candy silver sorry ankle squeeze explain";
+var mnemonic = "shadow large athlete ketchup exit audit practice word must harsh stereo bright";

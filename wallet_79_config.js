@@ -1,1 +1,1 @@
-var mnemonic = "smoke spice cloth grace balcony honey cement sheriff master purpose size doll";
+var mnemonic = "couch scissors fetch fault stove snap virus wet custom breeze boss satisfy";

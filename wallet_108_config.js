@@ -1,1 +1,1 @@
-var mnemonic = "oil sound balcony omit flag era control valid return saddle thrive improve";
+var mnemonic = "immune dust avocado sleep glory street casino foil weather crop hope open";

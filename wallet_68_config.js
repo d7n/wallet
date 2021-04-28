@@ -1,1 +1,1 @@
-var mnemonic = "come napkin record turkey chicken staff label forget alcohol post piece dumb";
+var mnemonic = "leave gap bone margin soul truly option curve belt bridge frost obvious";

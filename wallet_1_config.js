@@ -1,1 +1,1 @@
-var mnemonic = "hybrid humor day skin penalty play soldier crunch cargo right elevator wire";
+var mnemonic = "kidney marble twist piece few evolve street happy magnet nation turkey stand";

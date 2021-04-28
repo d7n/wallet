@@ -1,1 +1,1 @@
-var mnemonic = "ranch cake gossip angry planet noodle pool scrub diet cable net gospel";
+var mnemonic = "hood health split also private spin auction nephew marine bubble tired crew";

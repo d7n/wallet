@@ -1,1 +1,1 @@
-var mnemonic = "cradle display curve audit street coin program target share post stool spawn";
+var mnemonic = "science model paddle erupt typical banana quick air knock clean wool tide";

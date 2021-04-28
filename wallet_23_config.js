@@ -1,1 +1,1 @@
-var mnemonic = "acoustic finish predict tongue boss crunch call fiction problem inject struggle split";
+var mnemonic = "wreck emerge junk weird promote ancient agree picture cotton already lucky reflect";

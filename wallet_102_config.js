@@ -1,1 +1,1 @@
-var mnemonic = "cost muscle hand inspire spider wealth jazz typical fine interest chief guard";
+var mnemonic = "size trap defy original wait caught edge list rule bottom giant sting";

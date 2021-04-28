@@ -1,1 +1,1 @@
-var mnemonic = "orange left chaos brain excess subway quantum sun always match mixture glue";
+var mnemonic = "casino eternal daring kit project pumpkin salon toilet secret indicate weekend today";

@@ -1,1 +1,1 @@
-var mnemonic = "sunset dynamic doctor twenty any symptom chicken spare dentist casual actress resource";
+var mnemonic = "host taste scan eternal venue base manual middle smoke deputy mixture promote";

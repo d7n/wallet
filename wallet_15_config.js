@@ -1,1 +1,1 @@
-var mnemonic = "rhythm square science erupt fault kind shadow void help coral ride pull";
+var mnemonic = "cute trend about bird label post else reflect smoke virtual gossip april";

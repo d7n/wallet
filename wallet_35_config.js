@@ -1,1 +1,1 @@
-var mnemonic = "quiz age opera gas benefit ordinary skate hawk panda brand donor oak";
+var mnemonic = "code surge lift bacon actual squirrel miracle bomb vapor sheriff sister daughter";

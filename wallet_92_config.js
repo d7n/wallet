@@ -1,1 +1,1 @@
-var mnemonic = "tourist health connect betray sad audit aisle suggest pig corn expect above";
+var mnemonic = "hobby pole party gather end tone state hybrid current oppose drastic hurry";

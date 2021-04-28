@@ -1,1 +1,1 @@
-var mnemonic = "script skin senior alter light project curve whisper skull pig claw artefact";
+var mnemonic = "grace follow permit goose dragon model crater page outside pull level able";

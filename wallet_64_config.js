@@ -1,1 +1,1 @@
-var mnemonic = "observe yellow guitar blossom jar marble impose grab deer finish advice movie";
+var mnemonic = "damage bone pool whale later palace gossip leopard ski panel pencil suffer";

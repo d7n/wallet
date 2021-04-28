@@ -1,1 +1,1 @@
-var mnemonic = "aerobic crucial husband kangaroo beef clown various weird slab indicate seminar permit";
+var mnemonic = "company scare melt casino three pilot seminar broom feature merge cute aunt";

@@ -1,1 +1,1 @@
-var mnemonic = "midnight person file curve replace flight danger tribe edit net tackle virtual";
+var mnemonic = "private square frequent moon grief rough feature until confirm absorb illegal baby";

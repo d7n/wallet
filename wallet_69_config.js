@@ -1,1 +1,1 @@
-var mnemonic = "core before oval fringe begin motor audit van humor portion toast civil";
+var mnemonic = "lemon search regular fitness frog transfer emerge shove lecture immune second lawn";

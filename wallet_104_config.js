@@ -1,1 +1,1 @@
-var mnemonic = "hip because produce august happy innocent test dizzy history soda sibling animal";
+var mnemonic = "impact lady decline expand dinner public skull gorilla scissors left diary torch";

@@ -1,1 +1,1 @@
-var mnemonic = "defense crucial search tomato bar pet raise way maple behave purity sun";
+var mnemonic = "sound thunder goddess chimney enough clutch arrest atom apart way rib glue";

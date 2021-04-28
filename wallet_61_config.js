@@ -1,1 +1,1 @@
-var mnemonic = "alter casual twist clinic slot consider address loud demand breeze morning napkin";
+var mnemonic = "offer orchard daughter ahead merge endless illness arrange fragile illegal fancy sample";

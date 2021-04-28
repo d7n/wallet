@@ -1,1 +1,1 @@
-var mnemonic = "come path arrest swear rich cliff morning spider render cigar crash suit";
+var mnemonic = "junk current file ugly allow indicate feel wealth kitchen love session light";

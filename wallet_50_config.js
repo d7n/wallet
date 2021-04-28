@@ -1,1 +1,1 @@
-var mnemonic = "liar inmate sustain extra mass chronic man claim west balance second canyon";
+var mnemonic = "hand inject garage hammer skirt since check omit rebel half obscure disease";

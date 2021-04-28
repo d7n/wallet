@@ -1,1 +1,1 @@
-var mnemonic = "chair slim offer cake garden slide song stand vague rubber source still";
+var mnemonic = "clump planet avocado win private mad flavor volcano sister census afford mandate";

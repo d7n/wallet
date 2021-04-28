@@ -1,1 +1,1 @@
-var mnemonic = "setup early three blood auction consider spread great cave carpet banner submit";
+var mnemonic = "canal ready soul sort furnace wrist glass host style naive aim click";

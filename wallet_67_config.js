@@ -1,1 +1,1 @@
-var mnemonic = "alcohol around type buyer harsh marine void bubble alarm dentist faint pair";
+var mnemonic = "ramp little grunt champion pill skirt metal party polar budget address drill";

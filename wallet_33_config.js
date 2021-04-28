@@ -1,1 +1,1 @@
-var mnemonic = "office medal step moral piano cancel face arm know soldier brown pipe";
+var mnemonic = "climb unveil giant forum prepare artwork zebra castle room loyal share evolve";

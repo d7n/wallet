@@ -1,1 +1,1 @@
-var mnemonic = "clip diamond ivory parade knee must easily ocean horror little eight maze";
+var mnemonic = "square attract reduce shy security boring spike capital equip repeat desk practice";

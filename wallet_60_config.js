@@ -1,1 +1,1 @@
-var mnemonic = "midnight crop flavor replace hand series length december valve same used food";
+var mnemonic = "casual sail phone chest enjoy vote mushroom cave abuse gallery deposit sustain";

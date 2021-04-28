@@ -1,1 +1,1 @@
-var mnemonic = "grief pilot time eager edge pattern script page reveal spice discover force";
+var mnemonic = "usual six fruit impulse friend address head describe debate miracle resist fury";

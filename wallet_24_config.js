@@ -1,1 +1,1 @@
-var mnemonic = "black gravity million mystery nature critic pistol proud ignore account alter away";
+var mnemonic = "curious still gesture glad mixture assault crime potato shallow decide alarm chimney";

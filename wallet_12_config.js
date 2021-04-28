@@ -1,1 +1,1 @@
-var mnemonic = "blanket renew warm floor try trouble jeans come room vivid relax scrap";
+var mnemonic = "soap survey control neglect rug exist glance recycle census disease gold despair";

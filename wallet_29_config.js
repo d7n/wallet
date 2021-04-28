@@ -1,1 +1,1 @@
-var mnemonic = "arctic cost real deputy slogan cry maid sunset magnet skate kiwi talent";
+var mnemonic = "father insect patient impulse sketch army marriage recycle consider act spoil unfair";

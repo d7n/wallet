@@ -1,1 +1,1 @@
-var mnemonic = "super pet small focus culture gaze limit scrub typical word ritual file";
+var mnemonic = "dolphin friend tool race damp speak logic stable jar item borrow frost";

@@ -1,1 +1,1 @@
-var mnemonic = "disease excess ordinary settle cute okay steel level option two tube cable";
+var mnemonic = "slow cross foot crack hungry december purse lottery render super audit action";

@@ -1,1 +1,1 @@
-var mnemonic = "wait later royal arm attract float absent cricket bone woman menu renew";
+var mnemonic = "mail debris chuckle voice pool tragic light switch canvas win blue decrease";

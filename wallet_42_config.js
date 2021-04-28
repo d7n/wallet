@@ -1,1 +1,1 @@
-var mnemonic = "drill confirm correct letter auction there exercise comfort afraid train age tired";
+var mnemonic = "claim render notable security can lucky garlic lizard quote ability dutch fluid";

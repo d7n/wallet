@@ -1,1 +1,1 @@
-var mnemonic = "festival firm coffee scout cinnamon tail detect height weasel moral elephant stomach";
+var mnemonic = "wet mammal wasp fatal drive junk puzzle practice online account item federal";

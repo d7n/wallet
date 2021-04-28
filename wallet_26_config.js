@@ -1,1 +1,1 @@
-var mnemonic = "upgrade dice swim retire cluster crawl enact moral right auction alley clarify";
+var mnemonic = "woman local banner chalk special proud dash survey lottery camp city boost";

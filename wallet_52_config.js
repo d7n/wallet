@@ -1,1 +1,1 @@
-var mnemonic = "tell supreme path tree crowd engage salon swarm stage remind salon arena";
+var mnemonic = "then drill funny bonus notable text prison oak recipe antenna usual turkey";

@@ -1,1 +1,1 @@
-var mnemonic = "echo extend radar acquire spring fiction retire sport stadium core canal program";
+var mnemonic = "yard wasp sauce gossip great reduce cliff knife two attitude napkin great";

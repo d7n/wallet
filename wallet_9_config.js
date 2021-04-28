@@ -1,1 +1,1 @@
-var mnemonic = "potato potato there judge upon flavor loyal shove waste cluster canoe sunny";
+var mnemonic = "news wage gather napkin fork remind disagree prison shrimp release sock convince";

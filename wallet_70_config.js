@@ -1,1 +1,1 @@
-var mnemonic = "round mimic burger hand bicycle evidence parade stick ritual reward fatal liar";
+var mnemonic = "slight measure regular material alien exotic pave fit page marine settle amateur";

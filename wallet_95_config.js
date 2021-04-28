@@ -1,1 +1,1 @@
-var mnemonic = "wide inspire rebel lab blouse axis dilemma produce omit couple only error";
+var mnemonic = "poet panther kick lazy lyrics monkey industry sea volume bubble empty bullet";

@@ -1,1 +1,1 @@
-var mnemonic = "flavor bracket cross document idea fiction animal entire record sleep omit below";
+var mnemonic = "mule random expire one thunder fun level divorce fit amateur board crime";

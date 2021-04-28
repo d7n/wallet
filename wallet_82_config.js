@@ -1,1 +1,1 @@
-var mnemonic = "brave cross cook rescue supply delay because tackle quiz deliver fat picnic";
+var mnemonic = "eye vendor dice among lyrics blame major olive gold during antique nerve";

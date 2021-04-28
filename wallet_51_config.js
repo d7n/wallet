@@ -1,1 +1,1 @@
-var mnemonic = "comic ginger enjoy limb south section add neglect penalty surprise memory sting";
+var mnemonic = "pear science casino learn use hockey village van orient sadness conduct noodle";

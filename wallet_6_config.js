@@ -1,1 +1,1 @@
-var mnemonic = "seek frog pledge mad frog dentist atom innocent drink waste laptop wrist";
+var mnemonic = "vivid talk artefact magnet ivory used oak park guess dinner thunder program";

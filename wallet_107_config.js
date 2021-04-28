@@ -1,1 +1,1 @@
-var mnemonic = "vault key hybrid alert pact fruit copy fiscal fragile burst elbow hub";
+var mnemonic = "change kingdom inmate enjoy matter try tree swear excess wife control dial";

@@ -1,1 +1,1 @@
-var mnemonic = "tattoo lab head grid exercise column trim level twenty try supreme admit";
+var mnemonic = "another autumn boring ignore aware current water whale payment recall angry announce";

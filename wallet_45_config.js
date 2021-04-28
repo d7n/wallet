@@ -1,1 +1,1 @@
-var mnemonic = "trade addict clock candy proof forget defy news festival lucky double aspect";
+var mnemonic = "ecology bulb inquiry stereo patient sauce blur naive toilet exhaust duty name";

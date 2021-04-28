@@ -1,1 +1,1 @@
-var mnemonic = "trap jazz embody oblige fuel hedgehog maximum enable hour witness knee excite";
+var mnemonic = "clarify hill awful stumble gauge notable soccer census exact liquid entry reform";
