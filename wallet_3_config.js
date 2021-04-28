@@ -1,1 +1,1 @@
-var mnemonic = "smooth pottery hobby between such naive aim grow pool mail drop fury";
+var mnemonic = "gain inherit clerk pill quarter net cheap matter kingdom explain expose ill";

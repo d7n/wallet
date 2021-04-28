@@ -1,1 +1,1 @@
-var mnemonic = "ribbon habit echo frequent feature yard custom frozen lesson potato paddle extend";
+var mnemonic = "drill topple audit illness wrestle choice pool purpose pizza open sock reform";

@@ -1,1 +1,1 @@
-var mnemonic = "problem surround ginger start grit game educate mule vivid host pattern pluck";
+var mnemonic = "page tennis rely balance profit force describe minute modify horse style liberty";

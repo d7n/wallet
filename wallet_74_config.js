@@ -1,1 +1,1 @@
-var mnemonic = "expose used reunion brother fury inject grain hotel mean either cargo ugly";
+var mnemonic = "unusual frost asset better sheriff chaos miss sibling rescue adjust filter useless";

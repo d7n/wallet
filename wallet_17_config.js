@@ -1,1 +1,1 @@
-var mnemonic = "point place lens salt dice document cereal bulb bulb jar cereal illegal";
+var mnemonic = "pink pupil round will miss major cherry portion finger swing license master";

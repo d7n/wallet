@@ -1,1 +1,1 @@
-var mnemonic = "attitude dolphin state grain express traffic world discover spray tell payment license";
+var mnemonic = "juice island insane body pool rifle force exile ladder kidney attract shock";

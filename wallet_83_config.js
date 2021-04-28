@@ -1,1 +1,1 @@
-var mnemonic = "salmon mean practice cool common lamp elbow curve moment cluster ticket kite";
+var mnemonic = "spy walnut sun coral frown badge cancel surge employ jungle seminar drive";

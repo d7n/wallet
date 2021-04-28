@@ -1,1 +1,1 @@
-var mnemonic = "tonight dynamic desk tag unfair figure board butter lava elegant blind obvious";
+var mnemonic = "dwarf mobile change sick person cloud usage green submit verb great love";

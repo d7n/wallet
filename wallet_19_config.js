@@ -1,1 +1,1 @@
-var mnemonic = "expire piano virus action ugly addict impact search north taxi company area";
+var mnemonic = "motion coil dizzy exclude anxiety essence bracket surround menu solid shoot save";

@@ -1,1 +1,1 @@
-var mnemonic = "prefer barely place ahead home remember brick govern essence armed diesel nothing";
+var mnemonic = "usual physical hope rent time surface vast smile open grape elephant give";

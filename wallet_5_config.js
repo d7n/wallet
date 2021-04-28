@@ -1,1 +1,1 @@
-var mnemonic = "hood tool worry miss distance wagon tonight boost parrot weasel mention soon";
+var mnemonic = "hope decade payment friend wait dismiss farm vivid youth milk airport foot";

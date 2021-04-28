@@ -1,1 +1,1 @@
-var mnemonic = "vast chest track maximum have symbol general security demand oval laugh thumb";
+var mnemonic = "use broccoli remain owner distance rabbit sea oval upon film rhythm equal";

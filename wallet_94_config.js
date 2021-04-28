@@ -1,1 +1,1 @@
-var mnemonic = "idea ostrich usage fiber cloth nest stairs boring insect option squirrel hat";
+var mnemonic = "crack buddy transfer trigger wage wait ten manual monkey claw spice clean";

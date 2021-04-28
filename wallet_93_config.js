@@ -1,1 +1,1 @@
-var mnemonic = "result oven sing tired scissors game daring equip hybrid fold desert govern";
+var mnemonic = "very space stumble satoshi funny range snack engine impose bean lens disagree";

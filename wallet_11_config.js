@@ -1,1 +1,1 @@
-var mnemonic = "lake cream night print album snake inspire laugh original hip comic cluster";
+var mnemonic = "law material craft razor travel strong capital legal shoot pyramid wreck spike";

@@ -1,1 +1,1 @@
-var mnemonic = "now denial zero leisure claim jaguar denial result false fox scout wheel";
+var mnemonic = "envelope abandon cycle exact state funny movie olympic wealth blind uncle eight";

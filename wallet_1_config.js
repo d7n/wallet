@@ -1,1 +1,1 @@
-var mnemonic = "display blame ask penalty mercy toe future share tornado guide fee leaf";
+var mnemonic = "slow dawn stairs laundry jelly execute city spirit suspect ocean bonus behind";

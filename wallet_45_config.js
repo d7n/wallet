@@ -1,1 +1,1 @@
-var mnemonic = "snap gather uncover awake assume among vendor unlock awful vibrant science dignity";
+var mnemonic = "dial boy ship yellow remember combine dismiss slim episode panel parrot autumn";

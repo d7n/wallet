@@ -1,1 +1,1 @@
-var mnemonic = "year possible future price rapid climb viable print elevator enhance fun explain";
+var mnemonic = "stone isolate desk dune type unusual exotic brief main cute drift metal";

@@ -1,1 +1,1 @@
-var mnemonic = "sound tool upset chronic legal hurry domain tortoise fence filter sleep drastic";
+var mnemonic = "message deputy bless auto cruel charge carpet clock stone solid service outdoor";

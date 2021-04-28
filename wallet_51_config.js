@@ -1,1 +1,1 @@
-var mnemonic = "render zoo head absent true original famous loop local embody heavy shine";
+var mnemonic = "include effort saddle cream stone faculty shove various despair vendor rotate burger";

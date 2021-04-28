@@ -1,1 +1,1 @@
-var mnemonic = "connect stool hungry hockey strike female renew item gossip auction artist nice";
+var mnemonic = "neither fine stage change hand illegal jump work lyrics river trap remain";

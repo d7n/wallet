@@ -1,1 +1,1 @@
-var mnemonic = "pool volcano media kid finger hammer acoustic dice twist spy shadow filter";
+var mnemonic = "carbon essay under next gallery plug wrestle receive ignore pulse spike midnight";

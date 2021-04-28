@@ -1,1 +1,1 @@
-var mnemonic = "clay cash inflict orphan curtain mimic spy present wise pulp wish mom";
+var mnemonic = "harvest icon know quantum cherry luggage type match drama gate source voice";

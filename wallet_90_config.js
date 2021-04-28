@@ -1,1 +1,1 @@
-var mnemonic = "tongue supreme never bone law sting rebuild live fury margin grid foster";
+var mnemonic = "inform cotton razor hard anxiety moon sure grape cargo attract spot luggage";

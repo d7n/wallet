@@ -1,1 +1,1 @@
-var mnemonic = "agree similar use cart copper inhale chimney sketch teach illegal earth wink";
+var mnemonic = "hobby surround insect member abandon evidence discover that puzzle fluid manage final";

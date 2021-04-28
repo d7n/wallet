@@ -1,1 +1,1 @@
-var mnemonic = "dignity burst bird news love guess simple survey confirm december toy erase";
+var mnemonic = "nest twelve public double width recall chief fruit grid concert gun second";

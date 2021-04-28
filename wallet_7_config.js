@@ -1,1 +1,1 @@
-var mnemonic = "hybrid cabbage trim myself chicken drift section monster still have busy sadness";
+var mnemonic = "annual orange flower claw feed pond increase sphere concert human clerk inch";

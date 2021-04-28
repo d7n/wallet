@@ -1,1 +1,1 @@
-var mnemonic = "home dose unknown slam original faint casual attack around allow equip purity";
+var mnemonic = "struggle ball deputy jacket tenant man elephant catch radar convince forum host";

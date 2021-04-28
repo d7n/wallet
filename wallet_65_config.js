@@ -1,1 +1,1 @@
-var mnemonic = "sugar license lazy rent lake glimpse post mouse learn mosquito hello rib";
+var mnemonic = "rhythm rival congress hockey wide siren patient vivid reward coil wrap attitude";

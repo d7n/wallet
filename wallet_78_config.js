@@ -1,1 +1,1 @@
-var mnemonic = "soda harbor card saddle alien area lift record bleak canal gas faith";
+var mnemonic = "then mimic olive put garbage giraffe level own help perfect hunt damp";

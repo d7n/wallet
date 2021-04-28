@@ -1,1 +1,1 @@
-var mnemonic = "film crack better law join couple noise fork remain roof trip baby";
+var mnemonic = "nature exhibit medal whisper online police will vibrant bus soul insect romance";

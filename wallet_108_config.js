@@ -1,1 +1,1 @@
-var mnemonic = "sound design obey enter wheel fly cream pilot piano bridge exercise harbor";
+var mnemonic = "minute glory fix sketch copper humor apology chuckle able judge leaf super";

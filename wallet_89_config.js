@@ -1,1 +1,1 @@
-var mnemonic = "ghost slab lyrics amazing fatal hospital good harsh usual emerge erode divorce";
+var mnemonic = "hobby exact media ship arena estate edit fly soon dune moment sponsor";

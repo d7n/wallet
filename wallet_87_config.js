@@ -1,1 +1,1 @@
-var mnemonic = "wing bulk hello slide dragon off laugh laptop opinion right game good";
+var mnemonic = "recipe virtual depth fire palm wasp degree update cram slam prosper comfort";

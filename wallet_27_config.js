@@ -1,1 +1,1 @@
-var mnemonic = "west violin join spy invest tenant unusual trial purchase frown icon any";
+var mnemonic = "siege kid public mystery image fun chunk brand wish best visit group";

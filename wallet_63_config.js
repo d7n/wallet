@@ -1,1 +1,1 @@
-var mnemonic = "tower hurdle you wood before make civil card gauge coach canyon trip";
+var mnemonic = "worry wealth cage card puppy edit abstract erode corn puzzle later galaxy";

@@ -1,1 +1,1 @@
-var mnemonic = "grain swing drastic toe lens sketch sock elbow pistol below mom notable";
+var mnemonic = "gate raise glimpse enrich now danger marine blue february badge human never";

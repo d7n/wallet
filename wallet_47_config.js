@@ -1,1 +1,1 @@
-var mnemonic = "trust guess candy element royal depth chunk sight evil pool foam acquire";
+var mnemonic = "toilet stock other thumb spatial shaft protect behind depart adjust approve educate";

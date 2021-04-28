@@ -1,1 +1,1 @@
-var mnemonic = "mix fame indicate hammer pattern manual tape stereo tonight approve magic hurt";
+var mnemonic = "curve believe bachelor field peanut hawk patch vacuum tribe atom mass base";

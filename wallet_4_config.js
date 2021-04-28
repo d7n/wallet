@@ -1,1 +1,1 @@
-var mnemonic = "host such legal slab grass enemy ripple program develop fall end decade";
+var mnemonic = "ignore alien unknown need siren lake favorite custom marine regular scan rocket";

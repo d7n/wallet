@@ -1,1 +1,1 @@
-var mnemonic = "enforce topple chaos lunch friend next offer manage mask dirt pool mom";
+var mnemonic = "index amused loan dinner giggle exchange sock vague shoot online method raccoon";

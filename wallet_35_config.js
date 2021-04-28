@@ -1,1 +1,1 @@
-var mnemonic = "move keep marble immune episode jazz gas belt kiss east proud shine";
+var mnemonic = "tragic sustain grain heavy receive math river joke artwork fluid neutral moral";

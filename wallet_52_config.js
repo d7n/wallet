@@ -1,1 +1,1 @@
-var mnemonic = "release sea embody elder garlic craft nuclear wet helmet idle strong unlock";
+var mnemonic = "drum uphold daughter coffee jealous foam floor diamond invite blind chunk drum";

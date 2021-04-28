@@ -1,1 +1,1 @@
-var mnemonic = "announce suspect lens pupil citizen quarter timber thing glad seven beauty leave";
+var mnemonic = "atom swap judge series phone meat guess sunset fuel clarify word pottery";

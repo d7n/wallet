@@ -1,1 +1,1 @@
-var mnemonic = "need group perfect bless inject merit general barrel motor moment friend olive";
+var mnemonic = "promote rate also infant eyebrow arrest satisfy key curious buffalo change host";

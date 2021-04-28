@@ -1,1 +1,1 @@
-var mnemonic = "believe drip diesel asthma bounce craft absurd spring runway snap wolf require";
+var mnemonic = "canyon warrior monitor fantasy brother stairs glare prosper snack bronze cousin midnight";

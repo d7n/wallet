@@ -1,1 +1,1 @@
-var mnemonic = "kind fantasy vocal slide machine recycle nose local learn dismiss price weekend";
+var mnemonic = "chair drive view print history category sunset eager twelve fancy traffic cousin";

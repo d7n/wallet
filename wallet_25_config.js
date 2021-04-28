@@ -1,1 +1,1 @@
-var mnemonic = "slush very under wink believe throw trophy critic year arctic jungle text";
+var mnemonic = "wife off bird pear entire speak hidden gospel drama exit bulk polar";

@@ -1,1 +1,1 @@
-var mnemonic = "comfort device payment truth lyrics general grass stuff lottery rhythm invest increase";
+var mnemonic = "few arrange beef firm mass video message spirit fame prevent shield crater";

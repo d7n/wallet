@@ -1,1 +1,1 @@
-var mnemonic = "during stove entire nuclear convince pattern truth warfare fashion little season lock";
+var mnemonic = "enemy run fatigue museum robust decrease fever walnut that fence chimney square";

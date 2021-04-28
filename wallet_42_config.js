@@ -1,1 +1,1 @@
-var mnemonic = "tail depart flavor shallow involve lesson anger beyond miss iron rent clinic";
+var mnemonic = "whisper obtain item submit include assault crew process wing liquid author claim";

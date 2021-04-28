@@ -1,1 +1,1 @@
-var mnemonic = "jewel scrub pudding drip soda essay order push sphere stock supply happy";
+var mnemonic = "destroy anger obscure pass better flag output suffer indicate hope cheese edit";

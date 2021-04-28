@@ -1,1 +1,1 @@
-var mnemonic = "page exclude shoe hamster empower pony oven soup awake walk inner immune";
+var mnemonic = "law gallery gas glove method mandate rebel march load wasp okay expand";

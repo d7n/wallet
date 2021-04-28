@@ -1,1 +1,1 @@
-var mnemonic = "envelope gate sunset whale job kite glance cook know march immune label";
+var mnemonic = "cactus jump reveal sister quantum manage doctor laugh thought eternal rare cargo";

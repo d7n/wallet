@@ -1,1 +1,1 @@
-var mnemonic = "someone praise judge focus census pencil fish express shuffle duty apology omit";
+var mnemonic = "crystal tip arrange size bread finish craft hospital transfer one spatial decade";

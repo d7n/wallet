@@ -1,1 +1,1 @@
-var mnemonic = "verb hidden chest remove image surge mind kingdom swear reduce mistake glove";
+var mnemonic = "light radio cluster hotel drink barely month income eight rate issue mind";

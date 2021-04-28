@@ -1,1 +1,1 @@
-var mnemonic = "asthma faint blush target affair frequent shy item rural size universe agent";
+var mnemonic = "ridge feature hello sad myself gossip equal scorpion blast open mammal subject";

@@ -1,1 +1,1 @@
-var mnemonic = "combine climb burger glow material balcony shy youth bounce connect cream insect";
+var mnemonic = "multiply satoshi yellow ten ten poet journey gift pretty tuna carbon village";

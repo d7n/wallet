@@ -1,1 +1,1 @@
-var mnemonic = "disagree stumble obtain embrace parrot coconut tower devote silent token zone thumb";
+var mnemonic = "false elevator immense sorry degree salmon amazing bullet pelican patrol cross charge";

@@ -1,1 +1,1 @@
-var mnemonic = "artwork pizza bright stock volume razor joy cannon need sense cabin smooth";
+var mnemonic = "fix dynamic like castle wink shiver sea child flee regular tree bacon";

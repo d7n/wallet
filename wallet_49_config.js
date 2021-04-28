@@ -1,1 +1,1 @@
-var mnemonic = "guilt bounce team cup album ugly slide trend strong omit federal chalk";
+var mnemonic = "scene sleep salad answer digital river jelly menu vehicle oblige hawk cabbage";

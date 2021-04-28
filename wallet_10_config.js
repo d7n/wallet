@@ -1,1 +1,1 @@
-var mnemonic = "leopard shuffle echo hazard improve try fruit term distance ceiling ring achieve";
+var mnemonic = "tool output chest panel cart same tool trip finish priority version employ";

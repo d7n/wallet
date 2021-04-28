@@ -1,1 +1,1 @@
-var mnemonic = "biology juice truly acquire valid hope situate goat beef pony vessel athlete";
+var mnemonic = "identify august plastic term parrot deliver twice income tell shrimp waste erosion";

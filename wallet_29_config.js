@@ -1,1 +1,1 @@
-var mnemonic = "beyond surprise comfort obvious orange praise access turkey depart coral rabbit jelly";
+var mnemonic = "sample salon this diary bench talk sea risk rhythm unaware reunion stereo";

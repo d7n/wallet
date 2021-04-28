@@ -1,1 +1,1 @@
-var mnemonic = "control agree menu nose test media scene clean crane sort column rival";
+var mnemonic = "travel east space night blue project remember panda bless maze shell sight";

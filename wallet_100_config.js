@@ -1,1 +1,1 @@
-var mnemonic = "airport choose any link group best ritual imitate leave point mom muffin";
+var mnemonic = "virtual glass timber march detect congress tennis attract tray bleak abuse van";

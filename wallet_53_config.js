@@ -1,1 +1,1 @@
-var mnemonic = "outside illness inspire pioneer addict myth thrive foil olive twice stone suggest";
+var mnemonic = "abstract badge insect badge lens fame just little toward thing stick affair";

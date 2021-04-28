@@ -1,1 +1,1 @@
-var mnemonic = "pepper nasty soul device squeeze energy decide maze select airport essay stairs";
+var mnemonic = "average fragile social useless key fatigue make merry ivory search junk palm";

@@ -1,1 +1,1 @@
-var mnemonic = "clock write brother faint floor humble merry cruise mansion evidence income situate";
+var mnemonic = "pond market drip surge parent fabric school blind various avoid velvet debate";

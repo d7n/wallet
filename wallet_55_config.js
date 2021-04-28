@@ -1,1 +1,1 @@
-var mnemonic = "laugh humor smile salt object loud away blood uncle shoe donate either";
+var mnemonic = "eagle strong hawk prepare field cinnamon ten depend usage cave buyer nerve";

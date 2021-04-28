@@ -1,1 +1,1 @@
-var mnemonic = "gauge essence picnic lift dose movie network invite nasty smile inside guide";
+var mnemonic = "reveal hockey audit cash enter key early rack clog depth wedding crucial";

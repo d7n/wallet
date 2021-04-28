@@ -1,1 +1,1 @@
-var mnemonic = "stereo manual gap cream shoe belt catch maid question master coconut punch";
+var mnemonic = "deal success frost over only stable actual alone obscure scheme brass bid";

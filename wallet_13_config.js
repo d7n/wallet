@@ -1,1 +1,1 @@
-var mnemonic = "sound sail they peace cake celery horror enlist bounce yard access forward";
+var mnemonic = "fancy search design defy differ garment enlist beach moral soldier idea cabbage";

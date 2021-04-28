@@ -1,1 +1,1 @@
-var mnemonic = "wine similar cereal humble ball fossil script upgrade fade stem broccoli involve";
+var mnemonic = "pig mean stuff endless task mule chunk notable parrot quiz fury hybrid";

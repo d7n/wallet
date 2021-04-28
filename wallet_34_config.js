@@ -1,1 +1,1 @@
-var mnemonic = "sport congress parent mammal feed victory tomorrow renew end pottery that resist";
+var mnemonic = "year piano bleak water door crush build pact later roast more west";

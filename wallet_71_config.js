@@ -1,1 +1,1 @@
-var mnemonic = "noble code pride once erase amateur left option offer mad pioneer laugh";
+var mnemonic = "shield math split climb cable drum gold around almost better train awful";

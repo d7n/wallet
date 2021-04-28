@@ -1,1 +1,1 @@
-var mnemonic = "piano month fashion stadium maximum clock canyon door tongue kiwi resemble used";
+var mnemonic = "razor suffer diesel busy snake struggle ahead across divert broken liberty honey";

@@ -1,1 +1,1 @@
-var mnemonic = "carpet age door rough ice talent case chair spirit utility suit ankle";
+var mnemonic = "glimpse where obtain predict menu anger fun sea nerve around black toward";

@@ -1,1 +1,1 @@
-var mnemonic = "coast cash harvest body chalk smile afraid biology crouch all lawsuit boost";
+var mnemonic = "liberty alley sister aim swift enjoy awful despair six border doctor aware";

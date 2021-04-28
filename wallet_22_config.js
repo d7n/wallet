@@ -1,1 +1,1 @@
-var mnemonic = "scout orange remind amazing cargo rally whisper hospital vague beach ignore budget";
+var mnemonic = "vital scare little ceiling nominee fine jaguar two faint domain sport rifle";

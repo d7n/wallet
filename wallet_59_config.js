@@ -1,1 +1,1 @@
-var mnemonic = "chalk business visual volcano again venue depend dress plunge rubber slow useful";
+var mnemonic = "inhale energy polar jump diary feel vintage cloth pulse alley type blame";

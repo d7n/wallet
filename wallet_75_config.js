@@ -1,1 +1,1 @@
-var mnemonic = "year clog praise casual paper goddess erode verify doll cycle tribe heart";
+var mnemonic = "west sand hope deliver fence unable book notable bean laptop minute cram";

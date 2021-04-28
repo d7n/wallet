@@ -1,1 +1,1 @@
-var mnemonic = "tower smoke step blanket physical banana orange prepare bubble deny orphan elbow";
+var mnemonic = "champion remind truly receive wrist uncover armed garden cart toddler silent pattern";

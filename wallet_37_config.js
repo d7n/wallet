@@ -1,1 +1,1 @@
-var mnemonic = "excite mixed lesson mechanic airport rain minute defy mosquito one noodle ethics";
+var mnemonic = "quarter husband stock thumb need glass kite tell alpha evolve already open";

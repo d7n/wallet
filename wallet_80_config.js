@@ -1,1 +1,1 @@
-var mnemonic = "throw stumble company sunset glove story permit tell sentence knee suffer corn";
+var mnemonic = "snack round connect chuckle property cream treat involve spice deliver system glare";

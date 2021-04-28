@@ -1,1 +1,1 @@
-var mnemonic = "blanket drama despair agent arena until wrap chief metal digital hockey dune";
+var mnemonic = "attack gate extra critic equal define average final version shield build parent";
