@@ -1,1 +1,1 @@
-var mnemonic = "adapt lemon siren stand measure iron original balance miracle fine panic luxury";
+var mnemonic = "pole arrange try across prevent unhappy swallow across better ivory they rich";

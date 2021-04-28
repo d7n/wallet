@@ -1,1 +1,1 @@
-var mnemonic = "maze behind blame dragon exchange staff enjoy subject put wisdom equip blood";
+var mnemonic = "desert throw coil seven exchange reveal wrist play protect detect release matrix";

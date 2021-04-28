@@ -1,1 +1,1 @@
-var mnemonic = "hurry traffic skin type beauty deliver trigger visa rain ridge salad dawn";
+var mnemonic = "heart busy quit resemble wear grant move fresh fat endless boil correct";

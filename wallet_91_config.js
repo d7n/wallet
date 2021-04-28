@@ -1,1 +1,1 @@
-var mnemonic = "spatial witness atom treat lucky chef example broken roof machine tonight since";
+var mnemonic = "dinosaur awful praise unveil cupboard farm salmon lift dignity actor fresh slot";

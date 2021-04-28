@@ -1,1 +1,1 @@
-var mnemonic = "unveil prison pink annual desk invite account pen summer silly exact energy";
+var mnemonic = "tank dash never home uncle meadow crash note hold mosquito auction begin";

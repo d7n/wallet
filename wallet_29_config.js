@@ -1,1 +1,1 @@
-var mnemonic = "inquiry measure pole shuffle negative flock fan hockey humor barely evidence genuine";
+var mnemonic = "remind save someone blue drip acid unfair rival flat fresh cart exclude";

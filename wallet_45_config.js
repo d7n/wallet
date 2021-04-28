@@ -1,1 +1,1 @@
-var mnemonic = "often year genius into tumble police weasel work proud decrease away club";
+var mnemonic = "canyon donor sponsor sibling verb fiber conduct news phrase test tiny sock";

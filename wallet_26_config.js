@@ -1,1 +1,1 @@
-var mnemonic = "prosper gaze sentence miracle tunnel trust enough advance develop program violin salmon";
+var mnemonic = "sail melt candy join cabbage copper eight shaft field album explain length";

@@ -1,1 +1,1 @@
-var mnemonic = "rack elder hint blind ice satisfy wreck injury rescue riot patrol quality";
+var mnemonic = "inch honey city lake library enact slender submit goat list spring faculty";

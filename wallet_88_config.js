@@ -1,1 +1,1 @@
-var mnemonic = "member exchange hold ritual tired coffee cactus dentist depth among dynamic reduce";
+var mnemonic = "put hazard cycle roof laundry gown day argue upgrade busy grid easy";

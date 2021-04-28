@@ -1,1 +1,1 @@
-var mnemonic = "range survey hockey hope ozone absurd cycle nerve kick try enroll long";
+var mnemonic = "expand three steak embark grow table chalk thing energy diesel able battle";

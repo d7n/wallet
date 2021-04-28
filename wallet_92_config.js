@@ -1,1 +1,1 @@
-var mnemonic = "biology answer enter game suggest layer unusual mountain arrow access spirit popular";
+var mnemonic = "almost series vintage expand purse drama middle great admit elegant chicken give";

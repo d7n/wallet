@@ -1,1 +1,1 @@
-var mnemonic = "rubber machine cigar unknown stool property legend sad crystal keen divorce stool";
+var mnemonic = "deposit omit reform diet found cactus party idle flash enter imitate recipe";

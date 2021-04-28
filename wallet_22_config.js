@@ -1,1 +1,1 @@
-var mnemonic = "relax sketch picture jewel dismiss deer entire assume liberty safe toward select";
+var mnemonic = "parade mean fiber original grid mechanic wrist silly casual warfare man million";

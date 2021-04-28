@@ -1,1 +1,1 @@
-var mnemonic = "half health donkey scale type mule audit weird false snake civil oyster";
+var mnemonic = "guide six legal return else tired faculty climb system toilet fish palace";

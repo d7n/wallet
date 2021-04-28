@@ -1,1 +1,1 @@
-var mnemonic = "toe seed post call long badge fatigue guide three crucial decorate antique";
+var mnemonic = "promote lamp panel divert wait hero sleep actual december thought rival adjust";

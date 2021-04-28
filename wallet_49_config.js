@@ -1,1 +1,1 @@
-var mnemonic = "must truth afraid square border risk faint calm chicken liar gain mosquito";
+var mnemonic = "banner eagle glove trial below business canoe same blood release spring render";

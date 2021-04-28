@@ -1,1 +1,1 @@
-var mnemonic = "file collect amateur truck oak certain man advice viable ramp click word";
+var mnemonic = "garbage glue steel bleak immense indoor love stuff fuel garage brisk tonight";

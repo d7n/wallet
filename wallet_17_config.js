@@ -1,1 +1,1 @@
-var mnemonic = "web banana oblige upper sibling milk key cabin jealous winter decade voice";
+var mnemonic = "smart cable club walk valley carbon chunk cage mixed thank false finger";

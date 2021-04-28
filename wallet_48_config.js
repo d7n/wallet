@@ -1,1 +1,1 @@
-var mnemonic = "hundred group cinnamon ankle pride achieve shallow mom market ginger little business";
+var mnemonic = "vacant daring inch attack ladder swear doctor code miss swift spoil decorate";

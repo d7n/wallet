@@ -1,1 +1,1 @@
-var mnemonic = "repeat join differ genuine chalk retire bulb knee keep hurdle gentle mimic";
+var mnemonic = "orbit junk noble flavor genre pact ripple announce network spoon craft army";

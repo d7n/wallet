@@ -1,1 +1,1 @@
-var mnemonic = "cheese stadium have real okay chief combine swim field huge bus grant";
+var mnemonic = "erase add lava neglect catalog arctic expire color detect margin flush strong";

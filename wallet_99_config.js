@@ -1,1 +1,1 @@
-var mnemonic = "shoot ill boring famous mule deny idle boring penalty venue aisle buyer";
+var mnemonic = "turkey mango mobile pitch expect man faculty fine debris rack skull kingdom";

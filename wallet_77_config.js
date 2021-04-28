@@ -1,1 +1,1 @@
-var mnemonic = "then omit unhappy glass bottom become roof same favorite canyon permit replace";
+var mnemonic = "picture rebuild carry ability useful battle shadow language indoor joke roast hope";

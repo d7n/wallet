@@ -1,1 +1,1 @@
-var mnemonic = "inflict wait radar fury puzzle summer slot divert essence educate only genre";
+var mnemonic = "castle pulse bless audit destroy wisdom system whisper live nerve best fringe";

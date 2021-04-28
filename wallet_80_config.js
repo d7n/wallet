@@ -1,1 +1,1 @@
-var mnemonic = "science force depart shop awesome magic diamond stomach version trade idle abuse";
+var mnemonic = "planet loan poem gospel ability special author this front village uncover valve";

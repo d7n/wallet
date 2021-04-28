@@ -1,1 +1,1 @@
-var mnemonic = "spy mobile ivory dash alone recycle palace leisure foam own decorate waste";
+var mnemonic = "degree drink left fine nest talk minimum cart young inch federal chef";

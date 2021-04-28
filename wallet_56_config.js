@@ -1,1 +1,1 @@
-var mnemonic = "charge repeat measure moral always salt drink drip palace mansion begin catalog";
+var mnemonic = "task visa silk april copy kite capable enjoy flush stomach woman hair";

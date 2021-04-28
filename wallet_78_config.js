@@ -1,1 +1,1 @@
-var mnemonic = "orchard kitten call media brief pond supply survey feed swamp swing toward";
+var mnemonic = "they outdoor eager clown vague bronze brick diamond unveil exhaust grab busy";

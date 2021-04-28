@@ -1,1 +1,1 @@
-var mnemonic = "main afraid code pretty sort family canyon forget smooth sea cannon ostrich";
+var mnemonic = "ramp bracket next sense sleep trouble song finger mushroom rookie cup lift";

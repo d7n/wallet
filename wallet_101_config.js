@@ -1,1 +1,1 @@
-var mnemonic = "rich club rescue blame arm family table clog glare try near arctic";
+var mnemonic = "minimum timber acquire actual honey easy squeeze hair clump august rent onion";

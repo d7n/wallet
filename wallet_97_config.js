@@ -1,1 +1,1 @@
-var mnemonic = "load verify bright view pig bus forum install panic wink list fire";
+var mnemonic = "hammer practice heart raw one deer immense banana steak palace slender bulk";

@@ -1,1 +1,1 @@
-var mnemonic = "south december energy mimic mimic jewel local cigar feel retreat stool stomach";
+var mnemonic = "sniff upset journey suffer decide human obvious tree car bind menu old";

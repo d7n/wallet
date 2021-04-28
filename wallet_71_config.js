@@ -1,1 +1,1 @@
-var mnemonic = "useless blast rate room ten hammer pause under ocean food zebra asset";
+var mnemonic = "base jaguar core sadness quick tiger inside assume hope hair fan invite";

@@ -1,1 +1,1 @@
-var mnemonic = "verify rifle wrist strong mango shock neglect knife orchard parent orphan auction";
+var mnemonic = "anchor clock midnight track fruit weasel area twist next retreat bridge metal";

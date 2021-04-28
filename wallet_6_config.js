@@ -1,1 +1,1 @@
-var mnemonic = "donkey blast example alone beef butter display release boat estate absorb doctor";
+var mnemonic = "curve liquid quote degree wear excite suit run furnace random any series";

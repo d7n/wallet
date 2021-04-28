@@ -1,1 +1,1 @@
-var mnemonic = "strike glide wait gather chef burden border photo original earn elbow lesson";
+var mnemonic = "skin rain rubber people cloud valve train ginger viable divorce omit plastic";

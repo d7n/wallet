@@ -1,1 +1,1 @@
-var mnemonic = "business melt assault sorry this describe long steak ten fault extend scheme";
+var mnemonic = "canal exchange throw stadium congress almost observe present curious capable wheat answer";

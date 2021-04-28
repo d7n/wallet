@@ -1,1 +1,1 @@
-var mnemonic = "robot comic sentence chunk river door step paper absorb ski cup jar";
+var mnemonic = "bench bread deposit pyramid ordinary olympic drill car volcano car antenna victory";

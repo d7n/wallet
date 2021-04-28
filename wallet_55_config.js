@@ -1,1 +1,1 @@
-var mnemonic = "year spirit report maple grid buddy curtain butter slogan slab near fire";
+var mnemonic = "source lab eternal lock danger sketch sport recycle decline real top rely";

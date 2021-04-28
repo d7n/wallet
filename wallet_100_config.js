@@ -1,1 +1,1 @@
-var mnemonic = "lawn hospital apart tomorrow shoe accident maze audit labor hood glide address";
+var mnemonic = "arrange vanish kidney extend stomach lunch error accuse fiber tortoise mistake artwork";

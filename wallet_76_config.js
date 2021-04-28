@@ -1,1 +1,1 @@
-var mnemonic = "faculty position bronze accuse creek drastic cloth mass diary nut curious swamp";
+var mnemonic = "attract near rhythm planet truth icon type honey pyramid sleep submit kiwi";

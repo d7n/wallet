@@ -1,1 +1,1 @@
-var mnemonic = "metal skin kangaroo dignity text coconut asset fire hill loyal just state";
+var mnemonic = "tip offer club crazy glad bulb collect elevator curtain water treat beef";

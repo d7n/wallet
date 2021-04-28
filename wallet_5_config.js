@@ -1,1 +1,1 @@
-var mnemonic = "response chunk float arctic garden frown duck possible fiber source subway anger";
+var mnemonic = "detail voyage gentle antenna sight advance rely shy exact suggest toward coral";

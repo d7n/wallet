@@ -1,1 +1,1 @@
-var mnemonic = "door sausage swim once hip cable balance figure network lobster quit tent";
+var mnemonic = "direct cherry order inform double congress stadium cable ridge eyebrow grit select";

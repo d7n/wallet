@@ -1,1 +1,1 @@
-var mnemonic = "charge cupboard dynamic kid pencil misery ice clarify promote violin seek sadness";
+var mnemonic = "toy security park crucial broken remain column fuel collect toilet engage tape";

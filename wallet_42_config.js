@@ -1,1 +1,1 @@
-var mnemonic = "pink crisp wrestle online popular wrist cricket either slim label metal trend";
+var mnemonic = "announce space flock forward fire occur antique crouch limit depend enroll expand";

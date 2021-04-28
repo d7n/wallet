@@ -1,1 +1,1 @@
-var mnemonic = "flip pudding visa upper sniff agree invite segment web cancel steak style";
+var mnemonic = "kangaroo force have alter version barrel parrot orbit science swallow farm reform";

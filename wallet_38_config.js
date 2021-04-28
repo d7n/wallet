@@ -1,1 +1,1 @@
-var mnemonic = "amateur error glare essence sting slam grass child valley crew jar similar";
+var mnemonic = "fence brave shift game pumpkin embody barrel expect brass swap tray knife";

@@ -1,1 +1,1 @@
-var mnemonic = "orange repair prosper dolphin pyramid snow left robust hamster pulse orbit caution";
+var mnemonic = "solar dilemma diamond east primary click mansion denial regret spin toe negative";

@@ -1,1 +1,1 @@
-var mnemonic = "grass volume few ticket oak mixed figure arrest conduct double champion frog";
+var mnemonic = "lady uncover shrimp become lawsuit salute recycle rival cup alarm safe alter";

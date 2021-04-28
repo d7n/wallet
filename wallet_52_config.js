@@ -1,1 +1,1 @@
-var mnemonic = "grocery inquiry squeeze assist seminar tackle issue hint celery student pelican warm";
+var mnemonic = "firm model again radar police lizard sick harvest coyote list balance battle";

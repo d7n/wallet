@@ -1,1 +1,1 @@
-var mnemonic = "raven scale dumb collect badge collect feel theory type fame gain maid";
+var mnemonic = "nephew cloud era force rifle trophy donor machine eager happy balcony popular";

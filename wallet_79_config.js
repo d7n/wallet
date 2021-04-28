@@ -1,1 +1,1 @@
-var mnemonic = "globe element defy pull mind fame pistol kangaroo mixture angle baby smooth";
+var mnemonic = "coach sort wave outer wife tooth slow tongue minute enjoy captain spike";

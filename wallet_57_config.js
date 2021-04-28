@@ -1,1 +1,1 @@
-var mnemonic = "bonus supreme celery length embark globe ecology benefit vacant pig crystal resist";
+var mnemonic = "weird olive million hidden comfort mind spin mother wood stem tortoise life";

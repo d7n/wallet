@@ -1,1 +1,1 @@
-var mnemonic = "multiply quote undo biology anxiety evil weather nation until ostrich turkey walnut";
+var mnemonic = "photo stick robot wolf about orient pledge boss conduct impact crazy length";

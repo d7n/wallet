@@ -1,1 +1,1 @@
-var mnemonic = "where scorpion total fiction wave unaware thank actor rude deposit blast true";
+var mnemonic = "buyer reject elite order stamp guilt nurse toast uniform wish truth aerobic";

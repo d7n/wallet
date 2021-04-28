@@ -1,1 +1,1 @@
-var mnemonic = "bless loud slogan system daring depart phone feature tower bicycle exercise soap";
+var mnemonic = "wave beef flock bird lyrics because city hungry front know check post";

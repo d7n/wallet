@@ -1,1 +1,1 @@
-var mnemonic = "pioneer illegal uncover vintage joke unfold bargain pulp fluid gain source tornado";
+var mnemonic = "eight venue funny candy elder argue mad host shadow rubber another wreck";

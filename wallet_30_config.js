@@ -1,1 +1,1 @@
-var mnemonic = "nut field noise horse rival space dog between cabbage envelope sketch wasp";
+var mnemonic = "indoor love stay license clip grit library dry multiply maximum glide boss";

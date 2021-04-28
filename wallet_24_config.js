@@ -1,1 +1,1 @@
-var mnemonic = "swap know delay away slush shoulder since pretty hockey gap invite glass";
+var mnemonic = "load few sibling energy identify boring bread until estate hedgehog coral devote";

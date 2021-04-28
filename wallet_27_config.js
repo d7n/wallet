@@ -1,1 +1,1 @@
-var mnemonic = "course peanut capable wrong churn pole trouble system toe clutch million enemy";
+var mnemonic = "sorry enrich unhappy travel ozone sun need baby few layer hungry erosion";

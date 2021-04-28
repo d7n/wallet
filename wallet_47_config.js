@@ -1,1 +1,1 @@
-var mnemonic = "climb logic range observe gloom mandate credit item captain correct fatal result";
+var mnemonic = "three bar devote solve ten trigger banana light duty load theme try";

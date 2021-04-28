@@ -1,1 +1,1 @@
-var mnemonic = "poverty lesson bomb squeeze olympic nice gentle genius ancient defense judge hero";
+var mnemonic = "cigar shrug quality engine embody tortoise duty face aerobic fringe bone rain";

@@ -1,1 +1,1 @@
-var mnemonic = "solar remain remind opera change peasant ride quit admit shuffle video rhythm";
+var mnemonic = "shrimp silly piano flee tray simple decorate aspect awake tiger surround desk";

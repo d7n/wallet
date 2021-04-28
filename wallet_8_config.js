@@ -1,1 +1,1 @@
-var mnemonic = "genuine flight wrestle receive pudding enlist awesome hen hedgehog unit ritual demand";
+var mnemonic = "green april demise indicate wear clip patch trumpet despair soup topple odor";

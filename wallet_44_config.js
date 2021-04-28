@@ -1,1 +1,1 @@
-var mnemonic = "magnet neither roof evoke rebuild danger merge bracket bachelor blanket sick one";
+var mnemonic = "paper require recipe drastic conduct beef upset horse father three soup pride";

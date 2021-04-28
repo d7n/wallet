@@ -1,1 +1,1 @@
-var mnemonic = "ribbon praise remove obey slot keen crazy cliff custom stadium robot grass";
+var mnemonic = "claw version fever split trade cool alley emotion orbit flip rebel hazard";

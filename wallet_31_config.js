@@ -1,1 +1,1 @@
-var mnemonic = "more inquiry cherry renew oblige web trap cry post isolate scissors fluid";
+var mnemonic = "question ordinary position axis gasp finger funny pact senior morning merit topple";

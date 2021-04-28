@@ -1,1 +1,1 @@
-var mnemonic = "eager comic keep online video riot call large grace agree stomach calm";
+var mnemonic = "relief wine adapt fabric mother slim census spot novel strong author snake";

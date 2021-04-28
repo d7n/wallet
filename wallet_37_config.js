@@ -1,1 +1,1 @@
-var mnemonic = "patrol boss yellow hint car grant wreck cream defy shaft use learn";
+var mnemonic = "effort wait seek congress uncle slush actual wonder flee drink weasel quick";

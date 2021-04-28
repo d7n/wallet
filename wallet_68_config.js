@@ -1,1 +1,1 @@
-var mnemonic = "cluster person science unable badge fiber episode track sock change midnight situate";
+var mnemonic = "ripple sustain rotate negative essence episode reason glance blush depth advance note";

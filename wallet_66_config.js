@@ -1,1 +1,1 @@
-var mnemonic = "inner area alert baby skill fee myth trumpet attract melt spring wisdom";
+var mnemonic = "clerk umbrella sketch truly harsh virus place law mimic huge wife tooth";

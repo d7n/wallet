@@ -1,1 +1,1 @@
-var mnemonic = "giraffe tomorrow will alcohol force analyst trigger ketchup extend slice dust acid";
+var mnemonic = "buzz sponsor evil below girl neck boring team goat prepare divorce pulp";

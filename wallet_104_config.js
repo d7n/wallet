@@ -1,1 +1,1 @@
-var mnemonic = "razor west moon base fossil indicate daughter idle miss coast angle luxury";
+var mnemonic = "ghost walk lazy country humble target sniff leave pact rebel start describe";

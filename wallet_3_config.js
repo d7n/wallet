@@ -1,1 +1,1 @@
-var mnemonic = "one salute camp era crush coin coin weird explain window wage large";
+var mnemonic = "athlete strategy mechanic wire snow total almost rescue mixed elevator flash sight";

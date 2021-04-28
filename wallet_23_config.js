@@ -1,1 +1,1 @@
-var mnemonic = "audit amused same guitar exhaust cloth leopard route paddle decorate spirit festival";
+var mnemonic = "hip flight peasant bike raven century trophy move maple renew cloud arena";

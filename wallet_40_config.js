@@ -1,1 +1,1 @@
-var mnemonic = "dove baby three gallery skin rack aspect above lamp north castle ginger";
+var mnemonic = "assault diagram girl sense deal early person share disagree word visa clown";

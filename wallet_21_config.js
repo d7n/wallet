@@ -1,1 +1,1 @@
-var mnemonic = "chicken mango category treat gown engine library tree regret among soft giraffe";
+var mnemonic = "coin dirt airport agent mask fish slab engine online setup kitchen occur";

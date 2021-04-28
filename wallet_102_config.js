@@ -1,1 +1,1 @@
-var mnemonic = "goose hair lumber solid rabbit giant amused shine inch oven country immense";
+var mnemonic = "quality trend nurse else hood always sniff math romance grace perfect panther";

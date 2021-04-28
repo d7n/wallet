@@ -1,1 +1,1 @@
-var mnemonic = "toast gadget actual warfare beach immense spoil swift shift tree impose dynamic";
+var mnemonic = "cargo canvas tornado alarm success hero guitar cherry legal develop subject night";

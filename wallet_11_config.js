@@ -1,1 +1,1 @@
-var mnemonic = "nation viable capable afraid control wild universe ecology chair attitude fence surface";
+var mnemonic = "transfer orphan consider right asset cake suffer happy hire burden actor major";

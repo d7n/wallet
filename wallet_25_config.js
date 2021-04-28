@@ -1,1 +1,1 @@
-var mnemonic = "awesome cabin window auto forward december disease luggage energy drop sheriff nice";
+var mnemonic = "delay almost route artist pitch replace agree banner question fever zebra circle";

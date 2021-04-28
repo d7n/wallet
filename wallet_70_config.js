@@ -1,1 +1,1 @@
-var mnemonic = "near fly bird donate shock satoshi replace stadium chuckle proud addict abstract";
+var mnemonic = "flag hole help wool glare scheme vote lonely floor minute genius verify";

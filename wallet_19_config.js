@@ -1,1 +1,1 @@
-var mnemonic = "creek consider elite blue chaos rookie charge grid unfold dose whale soccer";
+var mnemonic = "tuna tooth south eagle lazy crater autumn dry enhance advance insect when";

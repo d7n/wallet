@@ -1,1 +1,1 @@
-var mnemonic = "donor level false keep cry discover myth spice matrix now range butter";
+var mnemonic = "broccoli cat pioneer say husband system next drama drive cute abandon arctic";
