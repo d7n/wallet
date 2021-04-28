@@ -1,1 +1,1 @@
-var mnemonic = "diet toilet alter protect multiply episode clever throw series era flush jaguar";
+var mnemonic = "phrase hour hobby sample arrow quiz bring cotton spy engine area favorite";

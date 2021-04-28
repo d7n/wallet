@@ -1,1 +1,1 @@
-var mnemonic = "social ladder stand brief foam frequent excuse canoe teach kitchen paddle apart";
+var mnemonic = "define bounce prosper apple style mom false regular flame rack funny pepper";

@@ -1,1 +1,1 @@
-var mnemonic = "core vicious jealous seed winner drive fancy scare verify make gate ill";
+var mnemonic = "sort royal swap pulse improve garlic kitchen swift voice immense expand cube";

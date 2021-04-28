@@ -1,1 +1,1 @@
-var mnemonic = "minute extend flower frame horse language meat bread tiger ability chapter invest";
+var mnemonic = "huge ancient tenant where fox enrich win furnace chef indoor warm bus";

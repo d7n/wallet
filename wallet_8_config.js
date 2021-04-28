@@ -1,1 +1,1 @@
-var mnemonic = "rough record input jelly scene midnight rebuild lazy goddess december glance cat";
+var mnemonic = "misery pride album lumber orchard purchase dice easy brisk spirit lobster comfort";

@@ -1,1 +1,1 @@
-var mnemonic = "math yard wine rice faith supreme knee summer exhaust skin panther empty";
+var mnemonic = "involve bring cactus edit test fuel convince entire second either tissue office";

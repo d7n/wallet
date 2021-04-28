@@ -1,1 +1,1 @@
-var mnemonic = "aware clog reopen fiber double donate help fuel public segment say color";
+var mnemonic = "that vicious slender comfort leisure kitten bread marble buddy hurdle cute stool";

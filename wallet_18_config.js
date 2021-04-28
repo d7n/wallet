@@ -1,1 +1,1 @@
-var mnemonic = "foil okay pitch crowd ritual evil cabin fat winter trim pilot input";
+var mnemonic = "pass speak enemy brief blue message dinosaur please aspect problem script endorse";

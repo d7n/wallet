@@ -1,1 +1,1 @@
-var mnemonic = "cave electric blame orbit eyebrow galaxy refuse collect corn creek faint despair";
+var mnemonic = "bus crew strong south love purse hello case rocket miss address bounce";

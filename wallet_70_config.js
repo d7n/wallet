@@ -1,1 +1,1 @@
-var mnemonic = "foam stage order lady olympic breeze unhappy nest resource toss athlete cabin";
+var mnemonic = "stage measure write plunge salute joke venture brick bid staff radio walnut";

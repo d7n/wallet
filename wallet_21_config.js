@@ -1,1 +1,1 @@
-var mnemonic = "model trial deputy early cry outdoor athlete scatter tomorrow slender arrest rail";
+var mnemonic = "twelve grid remove fiber enter claw feature basic choice enforce ocean upset";

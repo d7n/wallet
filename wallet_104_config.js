@@ -1,1 +1,1 @@
-var mnemonic = "screen beauty direct upper knee bridge obscure blanket plastic entry tone cactus";
+var mnemonic = "help proof hand charge crash repeat monitor fence bottom funny veteran fade";

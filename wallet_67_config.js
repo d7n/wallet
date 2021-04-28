@@ -1,1 +1,1 @@
-var mnemonic = "tenant hold snack record oblige when slice vintage tape gasp young exile";
+var mnemonic = "task model absorb panic trip easy sorry cannon bar thing arctic about";

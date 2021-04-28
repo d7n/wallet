@@ -1,1 +1,1 @@
-var mnemonic = "stem grid below robust you math vanish indicate assault genius genius tent";
+var mnemonic = "roast swim job reward female pudding baby choose miracle license winner pipe";

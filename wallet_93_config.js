@@ -1,1 +1,1 @@
-var mnemonic = "submit hint manual spin maximum battle siren tiger minute limb impulse piano";
+var mnemonic = "burst orbit tower beauty noise wing recipe upper price pepper seat ready";

@@ -1,1 +1,1 @@
-var mnemonic = "furnace hen lesson able lounge powder claim mixed wrap capable keep wolf";
+var mnemonic = "column hurry loud style move escape average pitch energy film decline market";

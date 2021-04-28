@@ -1,1 +1,1 @@
-var mnemonic = "fiber prevent cave main refuse walk crater puppy broccoli maximum elephant option";
+var mnemonic = "cart pretty dinner clarify isolate scatter crouch round jaguar wait tonight couch";

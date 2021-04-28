@@ -1,1 +1,1 @@
-var mnemonic = "wagon dose evoke phone fix decide addict wife walk tobacco any timber";
+var mnemonic = "faculty pool rail cabbage sort purse bottom leader oppose moment protect install";

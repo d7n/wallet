@@ -1,1 +1,1 @@
-var mnemonic = "manual spray flash time term message satoshi window relief turkey flip dignity";
+var mnemonic = "output lesson provide light since sunny achieve jazz output brick wreck desk";

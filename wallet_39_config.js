@@ -1,1 +1,1 @@
-var mnemonic = "copper observe nominee narrow sugar kidney thrive ask spice manual check win";
+var mnemonic = "limb message pumpkin oxygen edge father butter unit vocal insane enough left";

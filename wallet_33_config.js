@@ -1,1 +1,1 @@
-var mnemonic = "meadow face mention scheme paddle tiny banner tip old text awesome increase";
+var mnemonic = "hybrid captain silly video mistake idle that neglect equal brush repeat eye";

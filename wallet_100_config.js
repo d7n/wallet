@@ -1,1 +1,1 @@
-var mnemonic = "bag erosion oil soldier permit deliver crowd tent this brisk wreck switch";
+var mnemonic = "address hair plug poem fine spray wool hammer home coach uncle snow";

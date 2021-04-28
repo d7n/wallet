@@ -1,1 +1,1 @@
-var mnemonic = "ability marine code account chat broccoli foil describe spray paper adjust bomb";
+var mnemonic = "rapid club bomb music equip earth grief asthma harsh ready panel festival";

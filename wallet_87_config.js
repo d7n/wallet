@@ -1,1 +1,1 @@
-var mnemonic = "flavor clip sunset unlock mutual author army wrap abuse job luxury today";
+var mnemonic = "warrior author patrol toy laundry budget hood remember account hire custom rug";

@@ -1,1 +1,1 @@
-var mnemonic = "rely volcano child phrase swing access traffic spring topic forest legend round";
+var mnemonic = "twelve school donor video fine holiday pink write helmet input tornado view";

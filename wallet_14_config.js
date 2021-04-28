@@ -1,1 +1,1 @@
-var mnemonic = "endorse stuff dismiss chimney account matter laundry tribe blind apology bottom employ";
+var mnemonic = "wrist dice panic critic various medal sort enough turkey finger layer express";

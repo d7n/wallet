@@ -1,1 +1,1 @@
-var mnemonic = "right profit tip disagree boat approve board fat aim absorb deer deny";
+var mnemonic = "better myth flame print canal void bike spirit parent original swift brass";

@@ -1,1 +1,1 @@
-var mnemonic = "used melt whale split click type help enable change dumb champion rocket";
+var mnemonic = "season parent welcome hope analyst census flash lock zoo suit bundle shield";

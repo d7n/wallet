@@ -1,1 +1,1 @@
-var mnemonic = "rose employ jar wall measure theme riot element curtain share tray alert";
+var mnemonic = "wife vintage spell raven man collect nephew dry robot shed child eye";

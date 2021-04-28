@@ -1,1 +1,1 @@
-var mnemonic = "tortoise bless siege cloth defy define skate obvious around case always yellow";
+var mnemonic = "certain column tube neither cluster stool manage tackle toward net kit grunt";

@@ -1,1 +1,1 @@
-var mnemonic = "owner gorilla burger outside accident winner jewel crop casual mosquito action team";
+var mnemonic = "fresh pave alone famous side table bright toast drum sword ship decorate";

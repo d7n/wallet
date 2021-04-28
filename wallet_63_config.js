@@ -1,1 +1,1 @@
-var mnemonic = "mixed predict scrap smoke high maple final aware marble image pond property";
+var mnemonic = "poverty dizzy ginger gym curve click dynamic million grant drift ecology prosper";

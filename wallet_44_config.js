@@ -1,1 +1,1 @@
-var mnemonic = "boat gather virtual theory wrist simple net assist burden vanish nice bike";
+var mnemonic = "focus baby differ initial find patch vehicle message junior chunk claw unveil";

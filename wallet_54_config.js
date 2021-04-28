@@ -1,1 +1,1 @@
-var mnemonic = "screen senior perfect health journey grain clever funny enjoy later judge suspect";
+var mnemonic = "auction front train game figure tide jungle electric popular shaft sausage trust";

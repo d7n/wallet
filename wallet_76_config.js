@@ -1,1 +1,1 @@
-var mnemonic = "neither crater coconut tone pottery kid inform cruel sphere cat cherry onion";
+var mnemonic = "hour web error tourist please stomach fit couch solar sustain replace local";

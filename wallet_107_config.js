@@ -1,1 +1,1 @@
-var mnemonic = "arrest sentence tube know chair keen another useless antenna buddy south guide";
+var mnemonic = "innocent edge hill stem horse river teach appear secret olympic arrive barely";

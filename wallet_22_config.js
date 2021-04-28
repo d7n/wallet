@@ -1,1 +1,1 @@
-var mnemonic = "amused deputy purse sad napkin clinic cat sell ill act myth envelope";
+var mnemonic = "coin arrange flower trap ball alert spell notice tongue drill vivid ancient";

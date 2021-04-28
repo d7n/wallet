@@ -1,1 +1,1 @@
-var mnemonic = "movie artist siege business camp prepare seven atom essay lion job ketchup";
+var mnemonic = "remember tail rough east much six gorilla fringe cave approve become hedgehog";

@@ -1,1 +1,1 @@
-var mnemonic = "champion chest fork torch hybrid finish danger mosquito chapter scrub sick transfer";
+var mnemonic = "valid arrive display across boring buddy angry dragon tip mutual lion mandate";

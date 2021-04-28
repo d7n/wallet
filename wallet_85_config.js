@@ -1,1 +1,1 @@
-var mnemonic = "deer robot vote flush possible dilemma claw guide diagram cute animal distance";
+var mnemonic = "chat lamp ugly buyer guide dentist bean grace bench lyrics time click";

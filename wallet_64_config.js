@@ -1,1 +1,1 @@
-var mnemonic = "seven danger alarm apart box nominee axis usage wing endless lady legend";
+var mnemonic = "uncle off never welcome pelican grocery vicious actress diamond spin order armed";

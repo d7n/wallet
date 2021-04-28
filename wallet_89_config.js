@@ -1,1 +1,1 @@
-var mnemonic = "bid truck drink forward pottery exclude sorry slab bubble asthma ski carry";
+var mnemonic = "plate marriage attract expose property manage beauty creek jazz math habit error";

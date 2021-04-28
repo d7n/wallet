@@ -1,1 +1,1 @@
-var mnemonic = "moon regular calm gesture village person choice guitar friend rack similar festival";
+var mnemonic = "marine select inspire wear apple acquire three code drift panel when multiply";

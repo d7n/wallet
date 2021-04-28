@@ -1,1 +1,1 @@
-var mnemonic = "head pledge helmet employ ghost crush thing because disagree image purse neglect";
+var mnemonic = "dish mixed notable naive now item barely base host patient parade again";

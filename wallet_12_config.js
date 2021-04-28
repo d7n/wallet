@@ -1,1 +1,1 @@
-var mnemonic = "slogan icon gallery brisk slide tomorrow toddler eight mass dismiss tissue million";
+var mnemonic = "satoshi fork skill elbow small march practice click decade laugh scrub olive";

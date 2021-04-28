@@ -1,1 +1,1 @@
-var mnemonic = "option eager upset major later soft budget drift goddess portion alcohol oyster";
+var mnemonic = "trim absorb art surround disease awesome around green alien gloom quality fox";

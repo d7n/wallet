@@ -1,1 +1,1 @@
-var mnemonic = "exchange before decorate globe either student account script avoid sustain nasty argue";
+var mnemonic = "loan misery busy soldier success recycle screen paper raise fragile cup burst";

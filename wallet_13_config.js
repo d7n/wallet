@@ -1,1 +1,1 @@
-var mnemonic = "symptom develop oil impose orient weather salt remember marine gentle assist never";
+var mnemonic = "adjust sphere record uncover snake truth toy enforce escape install host language";

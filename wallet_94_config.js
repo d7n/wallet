@@ -1,1 +1,1 @@
-var mnemonic = "call danger goose blade stuff quiz oppose axis conduct fish topple vacant";
+var mnemonic = "give near actor extra arena build wrestle frog estate indicate nominee volume";

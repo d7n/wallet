@@ -1,1 +1,1 @@
-var mnemonic = "inherit funny alcohol jar hand aim you glance ring country accident comic";
+var mnemonic = "shallow crash below eagle play tuna season wire sustain skate health flee";

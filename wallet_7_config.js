@@ -1,1 +1,1 @@
-var mnemonic = "opinion town inmate meadow city frequent real tongue myself soap glow large";
+var mnemonic = "impulse shrug recipe horror metal abstract because speed admit donate sugar tone";

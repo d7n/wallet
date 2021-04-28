@@ -1,1 +1,1 @@
-var mnemonic = "aware pencil aware notice measure abandon extra crumble misery pony urge eyebrow";
+var mnemonic = "forest faint venture loop very dismiss razor scene same rally spoil tobacco";

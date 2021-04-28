@@ -1,1 +1,1 @@
-var mnemonic = "funny rack myself erase box tenant sight apart true fine shield execute";
+var mnemonic = "human cave sphere dismiss bean dizzy fish print wink thrive mind ship";

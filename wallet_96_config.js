@@ -1,1 +1,1 @@
-var mnemonic = "ring purse reduce curtain hand display rebuild region isolate expose assault swing";
+var mnemonic = "siege below return dune two unable stable blossom pride edge crater life";

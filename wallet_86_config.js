@@ -1,1 +1,1 @@
-var mnemonic = "ceiling asthma capital chat hat sunset person coil thing dress inherit mule";
+var mnemonic = "robot across employ motor mean valid pitch custom broken steel sphere team";

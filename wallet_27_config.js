@@ -1,1 +1,1 @@
-var mnemonic = "friend pitch primary cannon avoid razor pave lobster scene wonder critic cannon";
+var mnemonic = "south board rib medal piano traffic syrup fork seat leisure rocket burden";

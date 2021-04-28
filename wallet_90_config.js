@@ -1,1 +1,1 @@
-var mnemonic = "cash decline away plunge solid cushion achieve basket wall goddess cost useful";
+var mnemonic = "student swap notice flight powder end carpet infant pattern thank sauce curtain";

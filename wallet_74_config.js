@@ -1,1 +1,1 @@
-var mnemonic = "marriage audit pumpkin horror tell sail sleep knife south surge note online";
+var mnemonic = "adult arm inhale pride twelve print differ nephew fitness penalty mouse friend";

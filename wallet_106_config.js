@@ -1,1 +1,1 @@
-var mnemonic = "vehicle zoo habit across mixture bean bonus car crazy rack chalk potato";
+var mnemonic = "fan silk lucky special grunt today now entire solid scorpion soft orphan";

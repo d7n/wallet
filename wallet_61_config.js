@@ -1,1 +1,1 @@
-var mnemonic = "expand winner dice cute butter lunar cherry special exile lonely shrimp front";
+var mnemonic = "jacket height father forward dolphin tone couple clip option faith main neck";

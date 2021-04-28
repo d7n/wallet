@@ -1,1 +1,1 @@
-var mnemonic = "dust butter profit normal club fork pen differ exist inhale chimney spin";
+var mnemonic = "train super famous lamp strong glue fork more tomorrow beach friend element";

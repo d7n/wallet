@@ -1,1 +1,1 @@
-var mnemonic = "decrease until blanket mass old match hero holiday clever various taxi fly";
+var mnemonic = "two private version auction virtual tilt trust recycle mention feel island another";

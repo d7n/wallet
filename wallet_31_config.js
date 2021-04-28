@@ -1,1 +1,1 @@
-var mnemonic = "fossil tornado column fine addict guess safe unveil original salad feed illegal";
+var mnemonic = "horse foot enhance rich project reform unhappy evil client elder width flip";

@@ -1,1 +1,1 @@
-var mnemonic = "brick ceiling crack blue crop bounce river hood decrease permit much media";
+var mnemonic = "express clean tray bulk lecture achieve control potato figure pair gadget whisper";

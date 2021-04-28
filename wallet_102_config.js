@@ -1,1 +1,1 @@
-var mnemonic = "park layer wrong place dilemma punch empower panel observe excuse envelope exact";
+var mnemonic = "slice fantasy civil below mom fringe force canal chef hunt average identify";

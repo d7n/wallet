@@ -1,1 +1,1 @@
-var mnemonic = "spoil skirt thought area fiction reform music usage solar silent diamond during";
+var mnemonic = "east vast verify borrow pyramid lunch army beach hint wrist sustain ostrich";

@@ -1,1 +1,1 @@
-var mnemonic = "peace tube slim hire message shrimp arrange today flush network coral emerge";
+var mnemonic = "congress sting recall decide embrace garage execute fever village paper pottery future";

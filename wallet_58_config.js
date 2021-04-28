@@ -1,1 +1,1 @@
-var mnemonic = "eye swarm bone forest fat harvest lift sight resist kidney mirror cattle";
+var mnemonic = "glad hybrid dragon perfect slide destroy noodle round million kid close roast";

@@ -1,1 +1,1 @@
-var mnemonic = "blush fancy crush script twelve fish trap bacon slam there upgrade light";
+var mnemonic = "into attack shine pepper rotate problem virtual possible soda hat snack gadget";

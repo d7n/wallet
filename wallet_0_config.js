@@ -1,1 +1,1 @@
-var mnemonic = "project portion truly exhibit stable lake remember dry until quote trap useless";
+var mnemonic = "vast surprise hunt foster forget trial museum sock survey simple blame betray";

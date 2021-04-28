@@ -1,1 +1,1 @@
-var mnemonic = "brass nasty gather disease endless convince viable found blanket exile wreck lift";
+var mnemonic = "what old width tube cargo deal female add pretty since island double";

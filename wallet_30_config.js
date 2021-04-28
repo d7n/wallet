@@ -1,1 +1,1 @@
-var mnemonic = "scissors candy transfer expand exile top broccoli predict upper jacket delay tongue";
+var mnemonic = "series puppy orchard pluck large plate guitar arrive pipe repeat soda walk";

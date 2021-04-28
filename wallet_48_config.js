@@ -1,1 +1,1 @@
-var mnemonic = "foster liar page erupt client ripple myth list struggle wedding fame machine";
+var mnemonic = "poverty rather town execute random journey eager cry purse shiver left tackle";

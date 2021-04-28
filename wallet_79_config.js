@@ -1,1 +1,1 @@
-var mnemonic = "apart sight tag cruise dragon blossom judge mistake pudding sorry point like";
+var mnemonic = "icon mail eyebrow mention rely ancient achieve sing affair squirrel arena move";

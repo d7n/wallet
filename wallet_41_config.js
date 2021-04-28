@@ -1,1 +1,1 @@
-var mnemonic = "fitness leg music clock exhaust child miracle edit avoid carbon swim soon";
+var mnemonic = "good hope atom harvest alpha flag execute category park tuna chapter sleep";

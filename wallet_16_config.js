@@ -1,1 +1,1 @@
-var mnemonic = "mention match note start disagree blossom ensure tired pave beach length faculty";
+var mnemonic = "furnace upset coach assist vicious december scene meadow type middle true employ";

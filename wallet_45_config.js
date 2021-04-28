@@ -1,1 +1,1 @@
-var mnemonic = "inform release build merge crime submit conduct rhythm shrug trumpet prepare army";
+var mnemonic = "grit stuff twin wrap claw clap orient surround champion primary cradle cram";

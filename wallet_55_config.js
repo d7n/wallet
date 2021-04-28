@@ -1,1 +1,1 @@
-var mnemonic = "swear armed news custom behind net oyster firm fantasy high chunk surprise";
+var mnemonic = "piano orient elite size nest ozone width response tomato animal near people";

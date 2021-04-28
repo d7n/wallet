@@ -1,1 +1,1 @@
-var mnemonic = "grid motion cry exchange answer afford spirit world speak upset couple decline";
+var mnemonic = "bracket waste pioneer phone surge visual sign pole draft view flip refuse";

@@ -1,1 +1,1 @@
-var mnemonic = "unable define cotton eternal soccer frown nice bamboo lift ancient science item";
+var mnemonic = "pink clutch erase glass eternal day brown blue harsh inside ketchup abstract";

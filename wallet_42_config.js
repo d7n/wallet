@@ -1,1 +1,1 @@
-var mnemonic = "crisp antique help infant already field glow stool item wire narrow dune";
+var mnemonic = "firm oak hidden dish grid slender produce property rude shove future pattern";

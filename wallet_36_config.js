@@ -1,1 +1,1 @@
-var mnemonic = "bicycle slide that morning hamster series retire cover airport rib lucky virtual";
+var mnemonic = "reunion language gaze globe whisper stairs switch pink embark secret rigid want";

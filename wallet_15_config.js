@@ -1,1 +1,1 @@
-var mnemonic = "exhaust differ estate unaware early step fetch soft silly apart arrange hard";
+var mnemonic = "deliver vessel crash cable brand knock sock smoke ticket exact gasp bird";

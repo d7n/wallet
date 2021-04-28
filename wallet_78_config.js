@@ -1,1 +1,1 @@
-var mnemonic = "humor grant odor author charge stem zero blush steak work never glare";
+var mnemonic = "keep quantum quantum face fresh income digital hole about tissue noble tilt";

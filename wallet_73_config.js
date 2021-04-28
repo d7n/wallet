@@ -1,1 +1,1 @@
-var mnemonic = "weekend gate slam wire obtain witness nominee sibling finish sound young salad";
+var mnemonic = "bomb define orchard catalog leaf nature myself gun wall light lift document";

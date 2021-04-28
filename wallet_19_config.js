@@ -1,1 +1,1 @@
-var mnemonic = "town perfect gravity left identify apple produce unable similar frequent wife mansion";
+var mnemonic = "sunset notable pattern leg lizard civil mad radar front essay gossip leader";

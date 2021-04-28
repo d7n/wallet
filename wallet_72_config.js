@@ -1,1 +1,1 @@
-var mnemonic = "child reject stamp despair orbit alpha dad lend naive month display clean";
+var mnemonic = "drum cool admit error wagon tomato order vague hawk shrimp tail phrase";

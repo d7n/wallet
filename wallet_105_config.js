@@ -1,1 +1,1 @@
-var mnemonic = "essay keen shrug topic hat shop boring decade maid fiction muffin track";
+var mnemonic = "foster razor drop verb material tenant dilemma melody wage clock deal festival";

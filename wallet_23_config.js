@@ -1,1 +1,1 @@
-var mnemonic = "napkin sustain mouse egg jealous force company expand history chicken organ stand";
+var mnemonic = "change pool remind early depart lizard garlic alarm velvet bubble state spread";
