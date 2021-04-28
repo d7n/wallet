@@ -1,1 +1,1 @@
-var mnemonic = "light legend dumb decade tortoise awesome law wealth faith match joke shadow";
+var mnemonic = "near behave reject floor hockey shy pond minor gloom vivid electric debate";

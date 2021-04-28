@@ -1,1 +1,1 @@
-var mnemonic = "dwarf mobile change sick person cloud usage green submit verb great love";
+var mnemonic = "journey dress pilot bread debris sketch gauge reflect lab remove pact cheap";

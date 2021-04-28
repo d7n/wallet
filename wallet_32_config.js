@@ -1,1 +1,1 @@
-var mnemonic = "ridge feature hello sad myself gossip equal scorpion blast open mammal subject";
+var mnemonic = "boss favorite error rotate cactus pear light visual master leaf quantum cotton";

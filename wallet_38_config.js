@@ -1,1 +1,1 @@
-var mnemonic = "actor describe life surprise canal remove exist century junk asset item item";
+var mnemonic = "undo awkward never kidney depend wine admit raven truck kiwi water sure";

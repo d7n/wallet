@@ -1,1 +1,1 @@
-var mnemonic = "dial boy ship yellow remember combine dismiss slim episode panel parrot autumn";
+var mnemonic = "wire miss habit dream drastic thunder clean phrase hybrid predict exclude purpose";

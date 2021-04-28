@@ -1,1 +1,1 @@
-var mnemonic = "false elevator immense sorry degree salmon amazing bullet pelican patrol cross charge";
+var mnemonic = "sugar detect install canvas timber point frequent edge bread pistol garlic urge";

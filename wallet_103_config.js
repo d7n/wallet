@@ -1,1 +1,1 @@
-var mnemonic = "defense erupt sun betray sheriff defense chest payment fly chase endless charge";
+var mnemonic = "pond brown dog aim emotion swarm edit delay ribbon spend comfort citizen";

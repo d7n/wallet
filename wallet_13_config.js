@@ -1,1 +1,1 @@
-var mnemonic = "fancy search design defy differ garment enlist beach moral soldier idea cabbage";
+var mnemonic = "filter little economy purse assist candy crystal auto pattern excite sustain draw";

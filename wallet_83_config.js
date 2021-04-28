@@ -1,1 +1,1 @@
-var mnemonic = "spy walnut sun coral frown badge cancel surge employ jungle seminar drive";
+var mnemonic = "lake poet garbage maple enhance virtual endorse iron assault danger trim junk";

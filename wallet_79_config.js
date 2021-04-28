@@ -1,1 +1,1 @@
-var mnemonic = "seven reveal excess banana envelope best enjoy caught damp ball tube kangaroo";
+var mnemonic = "fee uncover fabric poem team deer sunset core pond hover forget plug";

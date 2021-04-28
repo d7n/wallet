@@ -1,1 +1,1 @@
-var mnemonic = "champion remind truly receive wrist uncover armed garden cart toddler silent pattern";
+var mnemonic = "camera scissors ladder card peanut negative margin abuse pumpkin green vault news";

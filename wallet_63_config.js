@@ -1,1 +1,1 @@
-var mnemonic = "worry wealth cage card puppy edit abstract erode corn puzzle later galaxy";
+var mnemonic = "pulp worth bitter evoke check ship dwarf stand raven elite sudden defy";

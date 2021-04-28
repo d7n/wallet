@@ -1,1 +1,1 @@
-var mnemonic = "daring price sword arm fun potato fun deputy bring saddle border pear";
+var mnemonic = "way toss you tenant famous expire slam welcome angle myth double under";

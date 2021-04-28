@@ -1,1 +1,1 @@
-var mnemonic = "hobby surround insect member abandon evidence discover that puzzle fluid manage final";
+var mnemonic = "bicycle tattoo animal rare board will hurry ordinary clip add agree syrup";

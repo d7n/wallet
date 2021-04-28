@@ -1,1 +1,1 @@
-var mnemonic = "wife off bird pear entire speak hidden gospel drama exit bulk polar";
+var mnemonic = "vicious wait inch track canyon come cinnamon kitten visa wave hobby water";

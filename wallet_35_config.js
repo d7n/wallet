@@ -1,1 +1,1 @@
-var mnemonic = "tragic sustain grain heavy receive math river joke artwork fluid neutral moral";
+var mnemonic = "anchor copy person canvas citizen solution caught example atom member moon federal";

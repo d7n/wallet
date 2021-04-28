@@ -1,1 +1,1 @@
-var mnemonic = "law gallery gas glove method mandate rebel march load wasp okay expand";
+var mnemonic = "idle either start crunch theory olympic car badge talk accuse position method";

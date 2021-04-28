@@ -1,1 +1,1 @@
-var mnemonic = "neither fine stage change hand illegal jump work lyrics river trap remain";
+var mnemonic = "cruel hard version brand panda soldier weird keep provide yellow add anchor";

@@ -1,1 +1,1 @@
-var mnemonic = "gain inherit clerk pill quarter net cheap matter kingdom explain expose ill";
+var mnemonic = "steel million initial faculty record churn able shallow skill earth guard short";

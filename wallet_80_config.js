@@ -1,1 +1,1 @@
-var mnemonic = "snack round connect chuckle property cream treat involve spice deliver system glare";
+var mnemonic = "volcano system jungle town stomach evolve muscle media sadness frequent result iron";

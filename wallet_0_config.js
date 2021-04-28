@@ -1,1 +1,1 @@
-var mnemonic = "pig mean stuff endless task mule chunk notable parrot quiz fury hybrid";
+var mnemonic = "merge olympic solution circle gap inmate elevator blue spring tiger maple obscure";

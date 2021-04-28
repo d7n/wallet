@@ -1,1 +1,1 @@
-var mnemonic = "quarter husband stock thumb need glass kite tell alpha evolve already open";
+var mnemonic = "enough mail sea question crazy shy save art nuclear race derive bicycle";

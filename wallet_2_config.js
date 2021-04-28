@@ -1,1 +1,1 @@
-var mnemonic = "index amused loan dinner giggle exchange sock vague shoot online method raccoon";
+var mnemonic = "arctic lecture rude fan prosper frequent sustain mom gloom myself heavy truck";

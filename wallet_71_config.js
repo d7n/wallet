@@ -1,1 +1,1 @@
-var mnemonic = "shield math split climb cable drum gold around almost better train awful";
+var mnemonic = "result brand salt loud solar sign tobacco reduce kangaroo flush air globe";

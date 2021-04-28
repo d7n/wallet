@@ -1,1 +1,1 @@
-var mnemonic = "virtual glass timber march detect congress tennis attract tray bleak abuse van";
+var mnemonic = "angry special rule zebra roof enemy huge exist repeat coyote start stage";

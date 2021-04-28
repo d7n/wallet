@@ -1,1 +1,1 @@
-var mnemonic = "sample salon this diary bench talk sea risk rhythm unaware reunion stereo";
+var mnemonic = "expand hybrid index velvet vote cave dutch three trend promote glue gallery";

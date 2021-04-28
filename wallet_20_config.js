@@ -1,1 +1,1 @@
-var mnemonic = "few arrange beef firm mass video message spirit fame prevent shield crater";
+var mnemonic = "salt outside cupboard track source ten belt portion distance chunk tennis search";

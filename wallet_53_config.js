@@ -1,1 +1,1 @@
-var mnemonic = "abstract badge insect badge lens fame just little toward thing stick affair";
+var mnemonic = "spend ghost primary gasp over canal near museum violin help peanut fade";

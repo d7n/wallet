@@ -1,1 +1,1 @@
-var mnemonic = "fix dynamic like castle wink shiver sea child flee regular tree bacon";
+var mnemonic = "finish pluck chef hair accident regular hat picnic spirit live essence fatigue";

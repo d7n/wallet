@@ -1,1 +1,1 @@
-var mnemonic = "usual physical hope rent time surface vast smile open grape elephant give";
+var mnemonic = "trend speed defense text squirrel patch powder boy elite blouse pond base";

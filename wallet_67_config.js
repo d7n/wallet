@@ -1,1 +1,1 @@
-var mnemonic = "gate raise glimpse enrich now danger marine blue february badge human never";
+var mnemonic = "fancy scene fruit defense light child scout reform crater deer royal knife";

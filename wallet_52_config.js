@@ -1,1 +1,1 @@
-var mnemonic = "drum uphold daughter coffee jealous foam floor diamond invite blind chunk drum";
+var mnemonic = "error artist security educate attend excess wall thank ladder occur desk focus";

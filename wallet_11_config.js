@@ -1,1 +1,1 @@
-var mnemonic = "law material craft razor travel strong capital legal shoot pyramid wreck spike";
+var mnemonic = "ribbon web arrive text there skull perfect decade decrease adjust carbon twin";

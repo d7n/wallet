@@ -1,1 +1,1 @@
-var mnemonic = "curve believe bachelor field peanut hawk patch vacuum tribe atom mass base";
+var mnemonic = "already consider portion follow claim immune excite neutral seven column rule rural";

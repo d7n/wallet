@@ -1,1 +1,1 @@
-var mnemonic = "spike rabbit float unaware warm market neglect trim entry country target silent";
+var mnemonic = "notable laptop remember cigar occur stage throw use leaf future deer funny";

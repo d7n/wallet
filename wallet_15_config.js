@@ -1,1 +1,1 @@
-var mnemonic = "add impulse token omit brisk feed zebra umbrella become news fuel kidney";
+var mnemonic = "ladder kick gasp tissue panic buddy census muffin public display luggage square";

@@ -1,1 +1,1 @@
-var mnemonic = "unfold used federal trend absorb enemy olive stuff neutral boil resist edge";
+var mnemonic = "access orphan thumb scout settle culture badge brush asset reopen alley company";

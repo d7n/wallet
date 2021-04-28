@@ -1,1 +1,1 @@
-var mnemonic = "destroy anger obscure pass better flag output suffer indicate hope cheese edit";
+var mnemonic = "elder teach oxygen pole hammer lobster kitten teach aim law beef pear";

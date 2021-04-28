@@ -1,1 +1,1 @@
-var mnemonic = "liberty alley sister aim swift enjoy awful despair six border doctor aware";
+var mnemonic = "crater observe top absorb arm frame immune autumn column claim zoo wood";

@@ -1,1 +1,1 @@
-var mnemonic = "cream frequent fame volume road sick hope movie plate attend cattle repair";
+var mnemonic = "blanket promote journey include fluid neither hair traffic engine tail hammer artwork";

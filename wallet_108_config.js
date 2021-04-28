@@ -1,1 +1,1 @@
-var mnemonic = "minute glory fix sketch copper humor apology chuckle able judge leaf super";
+var mnemonic = "hedgehog question load trash couple home music frog connect cliff cat omit";

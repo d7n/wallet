@@ -1,1 +1,1 @@
-var mnemonic = "motion coil dizzy exclude anxiety essence bracket surround menu solid shoot save";
+var mnemonic = "merge impose dash citizen tank property fluid satoshi address gown clinic link";

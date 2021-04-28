@@ -1,1 +1,1 @@
-var mnemonic = "grant view degree sustain carry wagon fever give mom code enrich lion";
+var mnemonic = "eagle general ostrich raccoon jeans voyage refuse frown metal endorse analyst extend";

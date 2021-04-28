@@ -1,1 +1,1 @@
-var mnemonic = "tool output chest panel cart same tool trip finish priority version employ";
+var mnemonic = "pretty injury put convince goat blade juice clown crush work mutual clown";

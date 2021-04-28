@@ -1,1 +1,1 @@
-var mnemonic = "slow dawn stairs laundry jelly execute city spirit suspect ocean bonus behind";
+var mnemonic = "weekend risk license engage pool thank cable famous priority awesome clay waste";

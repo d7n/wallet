@@ -1,1 +1,1 @@
-var mnemonic = "use broccoli remain owner distance rabbit sea oval upon film rhythm equal";
+var mnemonic = "ripple improve copper draw since globe fold cargo sausage beef pottery erase";

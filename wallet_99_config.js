@@ -1,1 +1,1 @@
-var mnemonic = "glimpse where obtain predict menu anger fun sea nerve around black toward";
+var mnemonic = "honey tube clarify fever month sign sample disorder asthma shop light nothing";

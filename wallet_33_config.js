@@ -1,1 +1,1 @@
-var mnemonic = "harvest icon know quantum cherry luggage type match drama gate source voice";
+var mnemonic = "worth mosquito fork brief next lens course topple wife skin receive track";

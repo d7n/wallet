@@ -1,1 +1,1 @@
-var mnemonic = "annual orange flower claw feed pond increase sphere concert human clerk inch";
+var mnemonic = "gentle inhale bracket junior area happy thrive modify happy always dirt travel";

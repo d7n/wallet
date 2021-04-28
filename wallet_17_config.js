@@ -1,1 +1,1 @@
-var mnemonic = "pink pupil round will miss major cherry portion finger swing license master";
+var mnemonic = "inside distance snake entry extend parent clump mercy garden apart typical humor";

@@ -1,1 +1,1 @@
-var mnemonic = "deal success frost over only stable actual alone obscure scheme brass bid";
+var mnemonic = "burst side tilt universe run gravity chapter demise junk document useless noise";

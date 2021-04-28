@@ -1,1 +1,1 @@
-var mnemonic = "finger frequent lens decade indoor island save retire exchange gap vacuum tell";
+var mnemonic = "rule logic toss giggle liar supreme drink engine churn gentle robot salad";

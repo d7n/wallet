@@ -1,1 +1,1 @@
-var mnemonic = "light radio cluster hotel drink barely month income eight rate issue mind";
+var mnemonic = "peace work circle entry umbrella decide candy ghost alter become trip bench";

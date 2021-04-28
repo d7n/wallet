@@ -1,1 +1,1 @@
-var mnemonic = "toilet stock other thumb spatial shaft protect behind depart adjust approve educate";
+var mnemonic = "violin near vapor topic one under net rotate ceiling help empower ten";

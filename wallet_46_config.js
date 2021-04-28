@@ -1,1 +1,1 @@
-var mnemonic = "donkey make rhythm hard artefact history refuse moral super leaf among doll";
+var mnemonic = "rubber helmet tackle cloth fit light claw feed sword that hobby leave";

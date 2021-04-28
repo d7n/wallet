@@ -1,1 +1,1 @@
-var mnemonic = "defy help million improve invite alley sibling alley trust valve machine sweet";
+var mnemonic = "trust eager address snap must you stool glare resemble split spatial holiday";

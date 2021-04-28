@@ -1,1 +1,1 @@
-var mnemonic = "race unknown water lizard super catalog below about company uphold sponsor science";
+var mnemonic = "mistake piano execute finish harsh stereo axis zebra outer dilemma trumpet consider";

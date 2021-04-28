@@ -1,1 +1,1 @@
-var mnemonic = "eagle strong hawk prepare field cinnamon ten depend usage cave buyer nerve";
+var mnemonic = "evidence elevator laptop inherit chronic dirt tissue document motor avoid arrow tone";

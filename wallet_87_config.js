@@ -1,1 +1,1 @@
-var mnemonic = "recipe virtual depth fire palm wasp degree update cram slam prosper comfort";
+var mnemonic = "trial tail category stuff little foster render mix cereal room excess cruise";

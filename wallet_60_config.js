@@ -1,1 +1,1 @@
-var mnemonic = "travel east space night blue project remember panda bless maze shell sight";
+var mnemonic = "door kitten alone diamond million blouse art know render envelope fresh present";

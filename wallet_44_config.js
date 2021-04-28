@@ -1,1 +1,1 @@
-var mnemonic = "juice island insane body pool rifle force exile ladder kidney attract shock";
+var mnemonic = "hurry frost cry crucial dutch box lend mandate outside recall coral click";

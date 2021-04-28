@@ -1,1 +1,1 @@
-var mnemonic = "discover observe vocal then number example helmet fan type milk clog myth";
+var mnemonic = "essence gaze zoo label enable chat baby upset effort fly unknown vanish";

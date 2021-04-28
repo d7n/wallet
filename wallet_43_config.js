@@ -1,1 +1,1 @@
-var mnemonic = "stadium device crack supreme armed enrich skull rug kingdom okay version trap";
+var mnemonic = "daring fix hero front coyote slab credit alley uniform room pumpkin shoulder";

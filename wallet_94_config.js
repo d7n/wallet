@@ -1,1 +1,1 @@
-var mnemonic = "crack buddy transfer trigger wage wait ten manual monkey claw spice clean";
+var mnemonic = "divorce genre aisle sleep weapon guilt glow settle erosion fault worry win";

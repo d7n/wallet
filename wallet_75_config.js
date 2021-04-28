@@ -1,1 +1,1 @@
-var mnemonic = "west sand hope deliver fence unable book notable bean laptop minute cram";
+var mnemonic = "target mystery gun surface update sport bronze venture similar pioneer near increase";

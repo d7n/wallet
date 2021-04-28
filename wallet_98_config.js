@@ -1,1 +1,1 @@
-var mnemonic = "reveal hockey audit cash enter key early rack clog depth wedding crucial";
+var mnemonic = "cousin special drink topple trophy describe almost absent tonight direct elbow you";

@@ -1,1 +1,1 @@
-var mnemonic = "hope decade payment friend wait dismiss farm vivid youth milk airport foot";
+var mnemonic = "obvious mesh october they this cupboard carbon license month discover confirm behave";

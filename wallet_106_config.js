@@ -1,1 +1,1 @@
-var mnemonic = "nest twelve public double width recall chief fruit grid concert gun second";
+var mnemonic = "clean ignore teach grain number gentle endorse pole deposit lumber fortune arrest";

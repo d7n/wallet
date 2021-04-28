@@ -1,1 +1,1 @@
-var mnemonic = "chair drive view print history category sunset eager twelve fancy traffic cousin";
+var mnemonic = "divorce other earth mechanic include nothing citizen action virus april exact exact";

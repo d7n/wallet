@@ -1,1 +1,1 @@
-var mnemonic = "stone isolate desk dune type unusual exotic brief main cute drift metal";
+var mnemonic = "ahead distance quick oxygen muscle combine vehicle rather palm quarter choice inherit";

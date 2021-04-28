@@ -1,1 +1,1 @@
-var mnemonic = "unfold name trouble control fragile crane paddle skull smoke beauty provide ridge";
+var mnemonic = "bitter atom nose song avoid slender gap december anchor act polar fetch";

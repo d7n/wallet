@@ -1,1 +1,1 @@
-var mnemonic = "alarm vital orbit equip guide ask middle tip plunge amateur parade stairs";
+var mnemonic = "bean mountain jungle sun skin idea purity toward comfort amateur layer omit";

@@ -1,1 +1,1 @@
-var mnemonic = "atom swap judge series phone meat guess sunset fuel clarify word pottery";
+var mnemonic = "beef road among chief top awkward join someone symptom fluid narrow actor";

@@ -1,1 +1,1 @@
-var mnemonic = "vital scare little ceiling nominee fine jaguar two faint domain sport rifle";
+var mnemonic = "payment horror bid gesture hotel machine sphere wide nothing immense robust dizzy";

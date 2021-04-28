@@ -1,1 +1,1 @@
-var mnemonic = "already target dismiss noble allow wash differ bus found father hip peasant";
+var mnemonic = "below dish opera learn element check blanket page stool govern month grief";

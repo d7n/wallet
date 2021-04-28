@@ -1,1 +1,1 @@
-var mnemonic = "fun aspect that liberty wisdom limb must cement page discover jar rose";
+var mnemonic = "agent secret happy tower boost fire people elegant cage sadness inflict chair";

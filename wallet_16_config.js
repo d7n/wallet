@@ -1,1 +1,1 @@
-var mnemonic = "average fragile social useless key fatigue make merry ivory search junk palm";
+var mnemonic = "honey cake pigeon vessel tomorrow stomach print artefact urban scare uniform noise";

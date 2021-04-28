@@ -1,1 +1,1 @@
-var mnemonic = "page tennis rely balance profit force describe minute modify horse style liberty";
+var mnemonic = "since spin demise planet fresh excite able walk artefact pave voyage leave";

@@ -1,1 +1,1 @@
-var mnemonic = "very space stumble satoshi funny range snack engine impose bean lens disagree";
+var mnemonic = "burden onion parade oil airport more alpha differ labor false royal blood";

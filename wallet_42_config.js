@@ -1,1 +1,1 @@
-var mnemonic = "whisper obtain item submit include assault crew process wing liquid author claim";
+var mnemonic = "resemble shallow rifle fix cube chase insane friend bridge afraid urge tissue";

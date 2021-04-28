@@ -1,1 +1,1 @@
-var mnemonic = "carbon essay under next gallery plug wrestle receive ignore pulse spike midnight";
+var mnemonic = "video treat place tuna verify small curious arrow liberty control crater educate";

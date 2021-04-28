@@ -1,1 +1,1 @@
-var mnemonic = "razor suffer diesel busy snake struggle ahead across divert broken liberty honey";
+var mnemonic = "twist garbage patch armor hero coach cream narrow stage wonder thrive guitar";

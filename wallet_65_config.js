@@ -1,1 +1,1 @@
-var mnemonic = "rhythm rival congress hockey wide siren patient vivid reward coil wrap attitude";
+var mnemonic = "horror venture head veteran scene target inspire case enter feed asthma wall";

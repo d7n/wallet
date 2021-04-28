@@ -1,1 +1,1 @@
-var mnemonic = "enemy run fatigue museum robust decrease fever walnut that fence chimney square";
+var mnemonic = "addict lecture dish require left broom remember merit stadium tag version element";

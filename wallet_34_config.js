@@ -1,1 +1,1 @@
-var mnemonic = "year piano bleak water door crush build pact later roast more west";
+var mnemonic = "unfold help trade gloom ahead chalk volume version admit transfer raw bleak";

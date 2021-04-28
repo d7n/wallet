@@ -1,1 +1,1 @@
-var mnemonic = "toss dignity tennis wool track swap horror jaguar dumb enact badge stumble";
+var mnemonic = "myth exhibit volcano someone finish manual enlist machine reunion wheat six trumpet";

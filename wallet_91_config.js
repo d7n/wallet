@@ -1,1 +1,1 @@
-var mnemonic = "attack gate extra critic equal define average final version shield build parent";
+var mnemonic = "antenna mother balcony result mixture bulb matrix flush disorder pitch stairs spoon";

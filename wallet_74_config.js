@@ -1,1 +1,1 @@
-var mnemonic = "unusual frost asset better sheriff chaos miss sibling rescue adjust filter useless";
+var mnemonic = "bar what nephew opera raccoon company make tube domain raccoon allow citizen";

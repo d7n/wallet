@@ -1,1 +1,1 @@
-var mnemonic = "scene sleep salad answer digital river jelly menu vehicle oblige hawk cabbage";
+var mnemonic = "foot apple spice obey ghost ecology shuffle device journey debris buyer broken";
