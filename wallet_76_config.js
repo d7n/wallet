@@ -1,1 +1,1 @@
-var mnemonic = "fever logic begin camp birth copy celery seek awesome shine spy detect";
+var mnemonic = "medal grass month hint used insect agree you priority charge tray vacuum";

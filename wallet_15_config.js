@@ -1,1 +1,1 @@
-var mnemonic = "elder lab lift feel weapon suggest fortune ivory whip almost magnet wedding";
+var mnemonic = "jealous plastic scheme fit child coyote intact agent fossil point interest mad";

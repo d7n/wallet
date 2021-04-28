@@ -1,1 +1,1 @@
-var mnemonic = "virus assist mask tiny roof monkey feature exist stable ordinary potato comic";
+var mnemonic = "manual public spice diet situate magnet image enable athlete armed couple one";

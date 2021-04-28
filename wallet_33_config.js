@@ -1,1 +1,1 @@
-var mnemonic = "feature survey hamster near taste noble skirt record vote assume real era";
+var mnemonic = "scene test lesson cousin tower curious ice pledge stage wing roof tube";

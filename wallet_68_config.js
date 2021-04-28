@@ -1,1 +1,1 @@
-var mnemonic = "stove mail figure custom burger vague wrong key vote size bunker slim";
+var mnemonic = "manual avoid bike repair future topple double goddess poet clog sight heavy";

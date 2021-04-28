@@ -1,1 +1,1 @@
-var mnemonic = "left swap mask crystal peanut canvas enough conduct bundle isolate quit crunch";
+var mnemonic = "potato inhale runway edge code reflect pair enact okay birth fish deny";

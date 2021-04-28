@@ -1,1 +1,1 @@
-var mnemonic = "hidden talent arrow ability hole double execute injury reject master digital alley";
+var mnemonic = "play good peasant furnace sock decorate thumb today wait small scare mixed";

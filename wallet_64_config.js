@@ -1,1 +1,1 @@
-var mnemonic = "corn apple park brown shoe scout web load morning patient skin verify";
+var mnemonic = "absurd word juice brief cinnamon letter party october stamp visual plunge actual";

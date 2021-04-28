@@ -1,1 +1,1 @@
-var mnemonic = "connect faculty frost horn trap network exist grid comfort mango squeeze divert";
+var mnemonic = "promote neutral diesel deputy bulb giraffe trash decorate truck slight roast cash";

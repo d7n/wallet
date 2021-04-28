@@ -1,1 +1,1 @@
-var mnemonic = "travel border cry glow debris clean sibling veteran power space urban library";
+var mnemonic = "village popular nose mimic reason drift opera struggle there merry crucial term";

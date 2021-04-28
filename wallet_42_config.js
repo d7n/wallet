@@ -1,1 +1,1 @@
-var mnemonic = "distance theme jewel pyramid hero dash crucial casino behind spirit hospital service";
+var mnemonic = "always misery mandate crouch orchard transfer lobster flat mammal segment network save";

@@ -1,1 +1,1 @@
-var mnemonic = "simple potato twice early squirrel pizza easy include vicious smooth move now";
+var mnemonic = "impulse goat farm fog alien dress young essence dismiss coil wine sunset";

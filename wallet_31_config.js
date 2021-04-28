@@ -1,1 +1,1 @@
-var mnemonic = "market frog leader moral across pumpkin scissors enlist elite square version deputy";
+var mnemonic = "excess vintage snap click daughter summer asthma bundle toy security finger idea";

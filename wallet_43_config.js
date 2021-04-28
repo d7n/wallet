@@ -1,1 +1,1 @@
-var mnemonic = "pass monitor proof monster tenant good video gasp sorry trial dust citizen";
+var mnemonic = "witness festival crumble sniff spare unfair toy fade clerk abuse hidden chimney";

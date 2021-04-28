@@ -1,1 +1,1 @@
-var mnemonic = "source sunset item erode donate make pepper chat school grace stairs stove";
+var mnemonic = "segment electric spider basic federal gym riot evidence arch van vital brown";

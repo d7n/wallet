@@ -1,1 +1,1 @@
-var mnemonic = "tired wrong slogan invite build second spike border render artist style expand";
+var mnemonic = "doctor laugh fame deliver kitten blast clever auto enlist exclude wrong ask";

@@ -1,1 +1,1 @@
-var mnemonic = "gadget height ranch ordinary wise female safe blanket economy bar sense field";
+var mnemonic = "scan snow purse forward ramp advance beyond random divert flower select attitude";

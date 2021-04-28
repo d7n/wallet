@@ -1,1 +1,1 @@
-var mnemonic = "evidence kitten diagram multiply attack popular ship flip bring before blossom key";
+var mnemonic = "tourist chat tooth race borrow derive amused clip minimum wing stairs path";

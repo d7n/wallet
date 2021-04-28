@@ -1,1 +1,1 @@
-var mnemonic = "auction shrug undo dentist crystal bounce atom high awful cargo focus coffee";
+var mnemonic = "sun indicate ozone sail convince live debate lecture enact cactus prosper rural";

@@ -1,1 +1,1 @@
-var mnemonic = "energy badge frown wedding relax kick funny young audit custom forum trophy";
+var mnemonic = "resource water super offer miracle green body inside vanish custom fence chest";

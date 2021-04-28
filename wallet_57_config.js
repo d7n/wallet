@@ -1,1 +1,1 @@
-var mnemonic = "make spawn become hero divorce believe jewel country decline citizen nephew quality";
+var mnemonic = "exist brand orbit recipe fatigue silver piano have among season neither nothing";

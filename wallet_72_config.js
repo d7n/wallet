@@ -1,1 +1,1 @@
-var mnemonic = "left wide tired slush until advice toward toddler result miracle lady lend";
+var mnemonic = "cherry novel credit fire pipe benefit nuclear rabbit master shield palace poem";

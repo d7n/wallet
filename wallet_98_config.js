@@ -1,1 +1,1 @@
-var mnemonic = "comfort only decrease horse business side gadget excuse tiger trend depend glide";
+var mnemonic = "hero myself whisper cup tag armor civil minimum purse cruel also dutch";

@@ -1,1 +1,1 @@
-var mnemonic = "below harsh sell green response solution neck manage quote bacon negative mystery";
+var mnemonic = "advance recall rotate copper code saddle huge tooth bus learn daring shift";

@@ -1,1 +1,1 @@
-var mnemonic = "armor urge divorce library sibling double romance leave camera deal friend buffalo";
+var mnemonic = "eagle fun mix purse clutch follow bounce man deer help grid stairs";

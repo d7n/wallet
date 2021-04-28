@@ -1,1 +1,1 @@
-var mnemonic = "panther vanish price injury transfer gym save play portion ancient that type";
+var mnemonic = "parrot autumn glory lounge there antenna vacuum rack crouch title thought catalog";

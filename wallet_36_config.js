@@ -1,1 +1,1 @@
-var mnemonic = "sunny erupt damp service game medal system element scheme pattern shallow track";
+var mnemonic = "notice payment foot benefit patient fresh surprise spider beach marriage panel boy";

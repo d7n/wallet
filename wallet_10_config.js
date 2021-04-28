@@ -1,1 +1,1 @@
-var mnemonic = "document winter awake bachelor public orchard cute tank dutch project coach hammer";
+var mnemonic = "can screen gather prepare illness siege forward goat snap price exchange build";

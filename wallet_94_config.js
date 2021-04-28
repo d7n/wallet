@@ -1,1 +1,1 @@
-var mnemonic = "comfort afraid wash scheme drop task gossip swamp depth bench mandate diamond";
+var mnemonic = "diagram demise foster distance wall wish coyote soul bright cube erode balance";

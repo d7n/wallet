@@ -1,1 +1,1 @@
-var mnemonic = "huge manage cheap electric abstract unable pyramid foam target moon regular news";
+var mnemonic = "develop various distance robust riot material bunker trophy decide wink popular ahead";

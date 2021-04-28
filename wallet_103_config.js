@@ -1,1 +1,1 @@
-var mnemonic = "grass snack aerobic virtual dawn drum report original when kitten primary debate";
+var mnemonic = "wife tree video zero race shrimp nasty jelly peasant aim plastic walk";

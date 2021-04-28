@@ -1,1 +1,1 @@
-var mnemonic = "fall butter urban beauty aware smile drum deny knee cousin priority blush";
+var mnemonic = "aware pilot result inform three ladder bonus symbol wolf endless arrange they";

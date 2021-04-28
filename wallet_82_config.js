@@ -1,1 +1,1 @@
-var mnemonic = "cabin setup want hole evoke crash convince guard drip unveil hat pink";
+var mnemonic = "wood client ski issue they heart myth route room theory fortune fork";

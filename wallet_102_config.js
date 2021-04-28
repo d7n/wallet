@@ -1,1 +1,1 @@
-var mnemonic = "gravity mansion void prosper excess hood wedding rent feed force payment lift";
+var mnemonic = "note until vote decide age jealous kind detail truly tuition lava luggage";

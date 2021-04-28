@@ -1,1 +1,1 @@
-var mnemonic = "pepper water city crack mimic ethics obscure thank sudden develop route chief";
+var mnemonic = "nuclear fork enjoy thrive clutch hedgehog donkey six price faith melody rate";

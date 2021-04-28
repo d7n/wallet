@@ -1,1 +1,1 @@
-var mnemonic = "grocery expire crisp vapor jacket group example fatal injury script answer steel";
+var mnemonic = "champion torch genuine under acquire void hair since alcohol tonight punch bulb";

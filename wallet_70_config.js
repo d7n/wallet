@@ -1,1 +1,1 @@
-var mnemonic = "sense guard unfair scene fashion wrap aunt swarm glory december furnace panda";
+var mnemonic = "park tuition pioneer blanket choice erosion accident castle benefit expand mutual seek";

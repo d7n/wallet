@@ -1,1 +1,1 @@
-var mnemonic = "expand visa measure eight sadness helmet system prefer fancy devote rigid glue";
+var mnemonic = "width senior decrease wild noodle deal cruise arrive cancel example strike lunch";

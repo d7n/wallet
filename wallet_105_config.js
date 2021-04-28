@@ -1,1 +1,1 @@
-var mnemonic = "busy tumble camera helmet sample sick genuine gas talk pistol camera tuna";
+var mnemonic = "kiss return pause pause voyage illness vapor orchard whale rose maximum anchor";

@@ -1,1 +1,1 @@
-var mnemonic = "life want pigeon buddy engage dynamic pistol situate diesel bike scrap century";
+var mnemonic = "damage spatial differ horror spread drip abandon elite reopen moon region various";

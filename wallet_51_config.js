@@ -1,1 +1,1 @@
-var mnemonic = "laundry add boring amateur ramp bridge avocado great night pupil fit coffee";
+var mnemonic = "bronze weapon robot unlock ozone source again pear pulse exist lens life";

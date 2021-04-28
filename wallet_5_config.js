@@ -1,1 +1,1 @@
-var mnemonic = "feed rebuild airport verify soda elevator slide paper honey onion violin fluid";
+var mnemonic = "orient ship answer pig figure exhaust bracket kiss filter turkey worry three";

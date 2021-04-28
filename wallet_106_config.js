@@ -1,1 +1,1 @@
-var mnemonic = "seed media answer practice heart power keep sing barrel what tiny science";
+var mnemonic = "snow diesel actual weird mother throw escape relief total enlist fault trumpet";

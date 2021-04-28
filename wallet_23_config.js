@@ -1,1 +1,1 @@
-var mnemonic = "equal betray quarter neck baby lava law wet oppose escape avocado rookie";
+var mnemonic = "return slam hub exchange matrix spy stage now agent phone member host";

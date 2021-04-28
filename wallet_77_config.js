@@ -1,1 +1,1 @@
-var mnemonic = "ozone decorate quote ice fit remove stumble oppose caught put demise float";
+var mnemonic = "hammer mule crystal spatial short rookie wage mesh marble genre cliff void";

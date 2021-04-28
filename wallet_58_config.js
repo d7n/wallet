@@ -1,1 +1,1 @@
-var mnemonic = "napkin gesture burst sentence curious grunt silver depth receive doll genre amount";
+var mnemonic = "unaware comic team mobile climb charge exchange drip nut bike egg topple";

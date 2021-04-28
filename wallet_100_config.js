@@ -1,1 +1,1 @@
-var mnemonic = "device tape era trumpet broken argue defy know romance crumble abstract gain";
+var mnemonic = "tribe smooth cheap bullet lady delay announce wrap arrest motor inflict skate";

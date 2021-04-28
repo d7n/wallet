@@ -1,1 +1,1 @@
-var mnemonic = "van hospital pilot alert genuine balcony nerve wild ill fitness wreck door";
+var mnemonic = "arrest lottery artwork flight pool stove chronic sense dust pulse clay radar";

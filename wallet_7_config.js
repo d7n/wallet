@@ -1,1 +1,1 @@
-var mnemonic = "soul sauce cotton champion this burger ring april knee gentle grunt modify";
+var mnemonic = "plug blame uniform minor cattle easily vicious sad ignore dog stable family";

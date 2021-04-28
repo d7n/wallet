@@ -1,1 +1,1 @@
-var mnemonic = "sleep vacuum copper present tip defy hammer loan chalk puzzle total sadness";
+var mnemonic = "enough glimpse between turtle pioneer debris around industry army ivory advance ship";

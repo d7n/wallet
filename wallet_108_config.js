@@ -1,1 +1,1 @@
-var mnemonic = "dignity skate perfect rate fossil tenant puppy brush tenant august alcohol ship";
+var mnemonic = "loop wrist window skate umbrella interest frown adult cave traffic copper ten";

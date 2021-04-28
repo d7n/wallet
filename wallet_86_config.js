@@ -1,1 +1,1 @@
-var mnemonic = "welcome pizza smile april caught double material best jaguar violin whisper breeze";
+var mnemonic = "panel album ability reward parrot raise mixed couple clip hill surround answer";

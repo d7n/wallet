@@ -1,1 +1,1 @@
-var mnemonic = "trap frequent prison what tag rubber like truck tenant person junk thrive";
+var mnemonic = "rude version resource captain mechanic melody pact owner moral tide snow huge";

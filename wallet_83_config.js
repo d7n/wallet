@@ -1,1 +1,1 @@
-var mnemonic = "much close animal family object seek wink boring fan chat ranch upgrade";
+var mnemonic = "acquire glory ticket adapt believe west exhaust nice normal document trend person";

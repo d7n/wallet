@@ -1,1 +1,1 @@
-var mnemonic = "stem cupboard guess system force middle glue ignore bring online segment trophy";
+var mnemonic = "quick topple taste cannon crop riot focus donkey prize stamp library scorpion";

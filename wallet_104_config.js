@@ -1,1 +1,1 @@
-var mnemonic = "census laptop narrow this aisle embrace bless assault gas art gate excuse";
+var mnemonic = "sustain truth tonight rookie close enroll train define salon clarify pool behave";

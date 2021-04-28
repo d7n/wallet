@@ -1,1 +1,1 @@
-var mnemonic = "weekend toward spare artwork permit walk tribe moral resist catch person rate";
+var mnemonic = "genuine skirt giggle monitor forward proud adjust accuse anchor kitchen dial muffin";

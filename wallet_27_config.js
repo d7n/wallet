@@ -1,1 +1,1 @@
-var mnemonic = "ordinary foot horn sad payment science laugh nephew retreat bicycle please rely";
+var mnemonic = "immune web ask typical display giraffe warfare intact bottom project clever suit";

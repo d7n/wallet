@@ -1,1 +1,1 @@
-var mnemonic = "hazard aspect purity reason hero soup tumble essence scrub tackle limit floor";
+var mnemonic = "acoustic loop general what man addict atom crew response box ancient basic";

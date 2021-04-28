@@ -1,1 +1,1 @@
-var mnemonic = "skin happy tool virus relax pair lava gate genre wear popular normal";
+var mnemonic = "joke sunset juice truly damp section owner dune trust elbow income exile";

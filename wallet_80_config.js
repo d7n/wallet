@@ -1,1 +1,1 @@
-var mnemonic = "bone auto forest pink lava heavy same device pupil together moral noise";
+var mnemonic = "record airport garment army globe tackle ship uniform distance ill sign repair";

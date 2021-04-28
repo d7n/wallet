@@ -1,1 +1,1 @@
-var mnemonic = "educate brass crash wing tissue below fury custom teach lucky drive inflict";
+var mnemonic = "skirt entire arm board survey truly stone audit digital pupil else skull";

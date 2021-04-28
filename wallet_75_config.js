@@ -1,1 +1,1 @@
-var mnemonic = "same script banana blast forest diesel absent cactus hungry law drift spatial";
+var mnemonic = "sample discover machine divert fame where neck game crystal example drink crash";

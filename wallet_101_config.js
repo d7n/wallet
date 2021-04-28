@@ -1,1 +1,1 @@
-var mnemonic = "lemon tree tribe amused affair food enter limb account decline have drink";
+var mnemonic = "rebuild girl blade law clay craft wire taxi impact biology erosion oyster";

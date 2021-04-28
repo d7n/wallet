@@ -1,1 +1,1 @@
-var mnemonic = "vehicle helmet theory old produce hundred hire hard now movie palm solve";
+var mnemonic = "foster trial sick broccoli afford spice pet hope desk vocal bean rate";

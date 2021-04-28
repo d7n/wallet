@@ -1,1 +1,1 @@
-var mnemonic = "heavy easily wheel hurt cruise able lion below void lift together abandon";
+var mnemonic = "athlete decade fat inflict antenna gallery minute marriage october maid avoid note";

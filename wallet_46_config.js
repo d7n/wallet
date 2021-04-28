@@ -1,1 +1,1 @@
-var mnemonic = "okay pizza rescue deputy toast push mandate guitar lend adult leaf poem";
+var mnemonic = "print green there ship dash cousin chicken smart subway unfair alien position";

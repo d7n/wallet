@@ -1,1 +1,1 @@
-var mnemonic = "trend enter fatal buffalo similar piece nasty thought away match maple never";
+var mnemonic = "tongue hotel first office lizard wheel cable action lounge column quarter danger";

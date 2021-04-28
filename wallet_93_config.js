@@ -1,1 +1,1 @@
-var mnemonic = "cattle keep slice other claim next hold kick female job master critic";
+var mnemonic = "lumber famous coral secret dance hover focus place moment blossom kitten divorce";

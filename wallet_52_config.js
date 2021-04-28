@@ -1,1 +1,1 @@
-var mnemonic = "fiction copy huge muscle punch cat chapter damp dish knock rotate glory";
+var mnemonic = "candy few frost attack harsh fatigue yard regret actress curious immense again";

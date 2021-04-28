@@ -1,1 +1,1 @@
-var mnemonic = "explain obtain stick sponsor insane license lounge report case shrimp prison cloud";
+var mnemonic = "nut lunar soccer language blanket present truly ball street favorite weird smoke";

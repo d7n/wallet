@@ -1,1 +1,1 @@
-var mnemonic = "vibrant foam second grunt water car focus dignity gold perfect boat success";
+var mnemonic = "need hospital hill high mother settle same mask special shift humble lottery";

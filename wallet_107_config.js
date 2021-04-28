@@ -1,1 +1,1 @@
-var mnemonic = "decrease human behave stove doctor among dolphin post student actor mask nice";
+var mnemonic = "acid fence coral fog tornado music image work prefer similar kid quarter";

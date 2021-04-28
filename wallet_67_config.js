@@ -1,1 +1,1 @@
-var mnemonic = "nature coffee panel lucky select thunder patch rescue puzzle acquire move fault";
+var mnemonic = "village excess home cross spring stable one circle credit garment grit soap";

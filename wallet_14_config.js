@@ -1,1 +1,1 @@
-var mnemonic = "helmet bullet rigid skull together reveal cement benefit arrange fatal crash develop";
+var mnemonic = "hole rhythm pupil alert arena problem same over dignity defense curious reunion";

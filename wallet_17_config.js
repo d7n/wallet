@@ -1,1 +1,1 @@
-var mnemonic = "february catch project pigeon script chronic hurdle canyon vast cruise sock box";
+var mnemonic = "pill monkey dream gown robot dove shrug soup knock worry clog inform";

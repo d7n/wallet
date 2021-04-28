@@ -1,1 +1,1 @@
-var mnemonic = "donor robot present castle ramp dream cross hobby run tube extra whip";
+var mnemonic = "badge alpha bid shrimp grape opera catch wagon fetch whip defense cream";

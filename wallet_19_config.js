@@ -1,1 +1,1 @@
-var mnemonic = "december seven hammer bracket hawk art shove stand economy trend barrel echo";
+var mnemonic = "win enroll swap wood disagree erase champion interest stove journey inch dice";

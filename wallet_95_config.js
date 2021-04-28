@@ -1,1 +1,1 @@
-var mnemonic = "bracket bean long eagle goose anger advice stick must develop process venue";
+var mnemonic = "slight half gas narrow goat crowd shell guess copper firm undo whisper";

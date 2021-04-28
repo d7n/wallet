@@ -1,1 +1,1 @@
-var mnemonic = "gorilla west point brass forest rare husband labor visit maximum space range";
+var mnemonic = "fun melody debate live immune first image alien indicate domain seven prize";

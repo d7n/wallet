@@ -1,1 +1,1 @@
-var mnemonic = "assault topic dance carbon option tissue allow unfold curious envelope salon net";
+var mnemonic = "spend force piece sausage saddle ceiling piano mass casual sing galaxy yellow";

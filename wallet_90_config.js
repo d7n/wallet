@@ -1,1 +1,1 @@
-var mnemonic = "agree bottom apology puzzle magic color spare industry awful thrive gospel cable";
+var mnemonic = "milk mechanic find tennis slot tennis sick injury today three grape stem";

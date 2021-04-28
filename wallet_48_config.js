@@ -1,1 +1,1 @@
-var mnemonic = "rebuild nominee stereo skull scrap enemy jealous allow weapon suspect eager fury";
+var mnemonic = "disorder raise copper wolf boy juice tonight return load grab swap canoe";

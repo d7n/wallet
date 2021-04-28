@@ -1,1 +1,1 @@
-var mnemonic = "harbor slam monster name dance kingdom legend animal kitchen cycle jacket spoil";
+var mnemonic = "either vapor weapon rely private vintage candy myth join because famous fetch";

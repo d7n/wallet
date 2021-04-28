@@ -1,1 +1,1 @@
-var mnemonic = "box obey capable seat blind derive when piece fame march unfold mistake";
+var mnemonic = "shove debate turn soup arm arrest steel garbage onion aisle chimney real";
