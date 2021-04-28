@@ -1,1 +1,1 @@
-var mnemonic = "fragile planet gas story lyrics arm bright mask company thrive upon fiscal";
+var mnemonic = "kite stone noise detect soccer below witness fun stadium thank broom sand";

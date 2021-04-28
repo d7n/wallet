@@ -1,1 +1,1 @@
-var mnemonic = "orchard version over minute manage cherry author invest guess bonus exhibit act";
+var mnemonic = "dose sad bag thumb suggest embrace voyage reject plunge crawl sight river";

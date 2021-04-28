@@ -1,1 +1,1 @@
-var mnemonic = "laugh six dragon click distance silk result same diagram poem clutch home";
+var mnemonic = "wine resource awake uncle bicycle scrub beauty impose chest first certain patrol";

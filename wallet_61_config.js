@@ -1,1 +1,1 @@
-var mnemonic = "believe pill width badge bag good dinosaur impose spirit invite short clever";
+var mnemonic = "diamond zebra network music fetch wealth trial parrot weather curtain session stamp";

@@ -1,1 +1,1 @@
-var mnemonic = "cattle brisk reopen flock radio appear already bind churn other problem region";
+var mnemonic = "click shrimp review lamp swift sudden mule leaf stone army island velvet";

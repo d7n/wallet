@@ -1,1 +1,1 @@
-var mnemonic = "today hidden gravity crowd mystery evidence chuckle achieve palm shell away best";
+var mnemonic = "aim toilet spot fringe record matrix mom category alcohol mesh cover drum";

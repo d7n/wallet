@@ -1,1 +1,1 @@
-var mnemonic = "net scorpion bird luggage voyage melt six discover harvest next category vendor";
+var mnemonic = "motor kangaroo lizard nut dance slender fuel west embark accident flip stairs";

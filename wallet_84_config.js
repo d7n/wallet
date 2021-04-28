@@ -1,1 +1,1 @@
-var mnemonic = "put bulk today chunk jar false drink desk talent exercise inch grant";
+var mnemonic = "close enroll actor side blur loyal fame stool tool control picnic virus";

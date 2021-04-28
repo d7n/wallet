@@ -1,1 +1,1 @@
-var mnemonic = "knee artwork captain base hope hungry mercy breeze club step immense jump";
+var mnemonic = "chicken orient case obey canoe police enforce witness ship horse cross kitten";

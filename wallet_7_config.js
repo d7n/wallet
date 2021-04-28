@@ -1,1 +1,1 @@
-var mnemonic = "message identify gate index mango clerk region leisure sudden volcano same spoon";
+var mnemonic = "issue timber river visit appear receive resist like forget rebel slam sign";

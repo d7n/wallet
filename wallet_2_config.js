@@ -1,1 +1,1 @@
-var mnemonic = "gather seat dish coral source lift gun upgrade noodle donor mixture shuffle";
+var mnemonic = "gesture judge high scale wait novel volcano click team simple whisper stuff";

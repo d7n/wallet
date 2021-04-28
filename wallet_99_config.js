@@ -1,1 +1,1 @@
-var mnemonic = "differ faculty anchor grab thing joy pear space width element glad pet";
+var mnemonic = "illness subway awesome tourist oxygen today mouse citizen practice edge response disorder";

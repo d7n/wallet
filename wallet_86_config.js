@@ -1,1 +1,1 @@
-var mnemonic = "okay only match fee present behind version cactus measure awful argue dash";
+var mnemonic = "shrimp hurry fever weekend danger defy cotton young either intact chunk control";

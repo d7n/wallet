@@ -1,1 +1,1 @@
-var mnemonic = "attitude social negative return differ assault forum general better material vocal tuition";
+var mnemonic = "disease topple mesh tackle opinion property spoon quarter raise estate marriage retreat";

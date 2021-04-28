@@ -1,1 +1,1 @@
-var mnemonic = "pudding thunder eyebrow assault order increase skirt seed wait snake win purpose";
+var mnemonic = "crack advance year debate vote buffalo skirt witness ramp ozone twice pigeon";

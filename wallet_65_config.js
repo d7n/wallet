@@ -1,1 +1,1 @@
-var mnemonic = "win arrest correct subject august nothing man bone bread kidney evidence vote";
+var mnemonic = "junk tube phrase float icon deliver engage bright solve cushion exact acid";

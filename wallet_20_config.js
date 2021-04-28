@@ -1,1 +1,1 @@
-var mnemonic = "degree anchor draft wild they silver violin drip cycle clump metal sheriff";
+var mnemonic = "donor token pretty awkward flock lounge speak moment cannon float apple place";

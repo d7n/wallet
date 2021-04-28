@@ -1,1 +1,1 @@
-var mnemonic = "miss festival deputy morning business biology butter final diesel deny blind grant";
+var mnemonic = "fancy medal episode upon robust unfair acid alarm admit grit hire wild";

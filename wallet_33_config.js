@@ -1,1 +1,1 @@
-var mnemonic = "outdoor violin legend lyrics stand modify seed alone save clump robot wait";
+var mnemonic = "owner pledge explain bronze doll senior april august toe adapt then task";

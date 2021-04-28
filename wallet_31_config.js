@@ -1,1 +1,1 @@
-var mnemonic = "nothing size hand argue immune cancel tail bulk segment glue short isolate";
+var mnemonic = "dog author west embark mystery upper gown diary pony rally network library";

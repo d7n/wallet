@@ -1,1 +1,1 @@
-var mnemonic = "fringe join phone trouble park flush atom group popular organ like remember";
+var mnemonic = "matrix verify call guess garden fiscal bone version physical punch shrug raccoon";

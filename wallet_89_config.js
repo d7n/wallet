@@ -1,1 +1,1 @@
-var mnemonic = "intact rather team battle dog bulk vacant salon birth include retreat course";
+var mnemonic = "happy flock length tower slide advance insect space traffic wood slab entry";

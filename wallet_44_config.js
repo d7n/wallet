@@ -1,1 +1,1 @@
-var mnemonic = "version train crash fire neutral material fetch mobile hockey file cigar kitten";
+var mnemonic = "puzzle country health refuse tortoise easily vessel sunny tip pond acid group";

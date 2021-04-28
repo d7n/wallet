@@ -1,1 +1,1 @@
-var mnemonic = "decorate lonely gadget funny cage veteran saddle key actor sell mass check";
+var mnemonic = "minute argue misery tattoo mansion knock state pass enough large table pipe";

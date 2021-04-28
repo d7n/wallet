@@ -1,1 +1,1 @@
-var mnemonic = "drill romance alert inhale ocean humor frog runway bread chunk among coconut";
+var mnemonic = "bind alert betray twenty asthma embrace urban cupboard uncle ship canal credit";

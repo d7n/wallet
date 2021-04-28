@@ -1,1 +1,1 @@
-var mnemonic = "harvest cup wall uncle airport silent clap derive wool trumpet bounce since";
+var mnemonic = "sheriff ancient palm verb squirrel edit box rib happy upon advice style";

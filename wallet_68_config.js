@@ -1,1 +1,1 @@
-var mnemonic = "method current hybrid evoke tuition place comfort deal dream decide upper glance";
+var mnemonic = "lawn envelope tattoo below action type welcome debris bus label latin gaze";

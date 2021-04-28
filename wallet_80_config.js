@@ -1,1 +1,1 @@
-var mnemonic = "price teach work number scene spare noble topple then cupboard rescue foster";
+var mnemonic = "cattle will permit cave stuff prepare jewel radio trumpet hill inflict blanket";

@@ -1,1 +1,1 @@
-var mnemonic = "undo animal wrestle prepare shop neutral shed tomato glove train write clump";
+var mnemonic = "wreck snake ritual squirrel couch meadow hotel luggage thought neutral impulse jewel";

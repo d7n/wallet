@@ -1,1 +1,1 @@
-var mnemonic = "two near never gold advice iron dwarf visual napkin enforce faint antique";
+var mnemonic = "build medal dirt grief stamp life daring advance carbon company thing always";

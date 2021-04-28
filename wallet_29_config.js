@@ -1,1 +1,1 @@
-var mnemonic = "shrimp jewel wagon swamp tired wool slim axis father live scan milk";
+var mnemonic = "adjust summer motion vocal barrel give paper ticket happy sock gun topple";

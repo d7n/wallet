@@ -1,1 +1,1 @@
-var mnemonic = "early ketchup asthma coconut resource agent length material fragile hospital tortoise gravity";
+var mnemonic = "spawn cigar remain mammal cheap erosion ethics link major tuition empty success";

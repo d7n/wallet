@@ -1,1 +1,1 @@
-var mnemonic = "federal hole motor toe close life rate medal damp scene special track";
+var mnemonic = "company razor love baby ship glove entire swift stable resource say canoe";

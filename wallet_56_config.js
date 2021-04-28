@@ -1,1 +1,1 @@
-var mnemonic = "amused mask favorite nasty time will much annual front coconut wing collect";
+var mnemonic = "dawn region wolf cruise seat lonely verify chimney shoe lend soccer member";

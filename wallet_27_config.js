@@ -1,1 +1,1 @@
-var mnemonic = "cave drastic intact grass uniform excuse exact remove sheriff allow future mystery";
+var mnemonic = "power venture side cargo column tribe flag suffer buffalo scene size odor";

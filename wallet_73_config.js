@@ -1,1 +1,1 @@
-var mnemonic = "print expose rug heavy veteran fee lady season glare feel change melt";
+var mnemonic = "slice drama fantasy frog frame define member ritual gather time cattle fold";

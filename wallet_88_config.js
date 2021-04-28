@@ -1,1 +1,1 @@
-var mnemonic = "tape village kingdom clinic leisure industry opinion ugly burger stove distance twice";
+var mnemonic = "brave lift once elite grape service damage cheap canal extend odor away";

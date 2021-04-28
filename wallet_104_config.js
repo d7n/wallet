@@ -1,1 +1,1 @@
-var mnemonic = "tonight lesson setup flash nut vivid wasp spawn fatal awake dynamic liquid";
+var mnemonic = "trip volcano what cigar claim coffee camera kit neutral thing inhale jar";

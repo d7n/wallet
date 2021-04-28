@@ -1,1 +1,1 @@
-var mnemonic = "lunch motion welcome fade valid loyal steak twice grape spirit now toy";
+var mnemonic = "paper vocal plate hill squeeze solution cute pink climb decorate scout chunk";

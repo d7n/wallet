@@ -1,1 +1,1 @@
-var mnemonic = "tip truth suggest usual accident floor practice core only sick melt comfort";
+var mnemonic = "buzz term erosion square south jar school shoot sphere guitar raw drink";

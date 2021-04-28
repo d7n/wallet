@@ -1,1 +1,1 @@
-var mnemonic = "bunker upon dry stamp vast tank grid job onion aim similar tent";
+var mnemonic = "nose arrange hero moral visit injury shoulder cabbage awake script express skin";

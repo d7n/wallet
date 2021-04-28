@@ -1,1 +1,1 @@
-var mnemonic = "never outside absurd pizza century tennis hollow carry crash slender disorder file";
+var mnemonic = "degree organ magic east soul online solution apology shadow check used assault";

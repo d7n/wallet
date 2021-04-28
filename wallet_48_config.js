@@ -1,1 +1,1 @@
-var mnemonic = "elevator sword convince appear expose razor energy blast salon setup glance luxury";
+var mnemonic = "solution loop choice scene they grain voice stumble ladder omit dilemma cliff";

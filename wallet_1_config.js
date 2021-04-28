@@ -1,1 +1,1 @@
-var mnemonic = "girl vicious sea kit neck trick off skate owner flame inside luxury";
+var mnemonic = "excite vapor april nerve immune medal attend scatter dragon truck kiss venture";

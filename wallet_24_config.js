@@ -1,1 +1,1 @@
-var mnemonic = "sing festival volcano annual dish jeans chalk gather spirit scheme become length";
+var mnemonic = "fog grunt wild exit hurt dry route force question census spread hover";

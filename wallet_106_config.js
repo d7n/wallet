@@ -1,1 +1,1 @@
-var mnemonic = "video diesel debate reopen mountain daring predict ship neck control income claw";
+var mnemonic = "laundry truth music lava auction ship describe bike charge slab visa cannon";

@@ -1,1 +1,1 @@
-var mnemonic = "unfair intact fantasy lunch misery thunder vehicle clarify evidence giraffe method lift";
+var mnemonic = "snow whisper fault tenant valve various common display hair toy meadow inject";

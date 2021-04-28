@@ -1,1 +1,1 @@
-var mnemonic = "industry cheese unaware iron ranch invest eager only brave upgrade segment buyer";
+var mnemonic = "step any tone father friend hurdle decide own art donate alone slim";

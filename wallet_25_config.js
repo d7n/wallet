@@ -1,1 +1,1 @@
-var mnemonic = "amateur suggest board school picnic gaze guide future wine copy prepare resemble";
+var mnemonic = "pretty garage assume luggage hero slogan stay wagon glad piano divorce liar";

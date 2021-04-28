@@ -1,1 +1,1 @@
-var mnemonic = "leisure cruel hint inmate tragic around apart senior license jar grow throw";
+var mnemonic = "learn motion vacuum divorce together annual lawsuit silk couple giggle cushion scene";

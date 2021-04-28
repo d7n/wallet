@@ -1,1 +1,1 @@
-var mnemonic = "case kick lawn waste recycle kit modify flat can hammer cube slim";
+var mnemonic = "drill bronze divide peanut appear sure spread already interest furnace sibling wish";

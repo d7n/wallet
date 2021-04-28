@@ -1,1 +1,1 @@
-var mnemonic = "process hold monkey night twin health brisk foster speak learn hello awesome";
+var mnemonic = "gorilla salt sweet leg width law stamp glory ozone isolate wide toss";

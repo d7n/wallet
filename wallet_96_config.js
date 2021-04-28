@@ -1,1 +1,1 @@
-var mnemonic = "north solid wedding voyage lab mutual bread hat child luxury clay evil";
+var mnemonic = "jealous police reflect expand boat magnet grass short educate patrol buzz pupil";

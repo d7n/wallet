@@ -1,1 +1,1 @@
-var mnemonic = "drastic copper calm yellow label demand lend unique pizza sense brave live";
+var mnemonic = "vehicle dizzy empower fame raise park cruel swap life hammer holiday bubble";

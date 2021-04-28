@@ -1,1 +1,1 @@
-var mnemonic = "guide cushion urban script tail punch act empower space drum scout cash";
+var mnemonic = "other envelope field trade bunker electric open pudding minute noble alone negative";

@@ -1,1 +1,1 @@
-var mnemonic = "vital pull coffee stairs cattle wonder despair glance mystery clap give mango";
+var mnemonic = "puppy boost picture shift nice smooth degree argue cattle swift autumn runway";

@@ -1,1 +1,1 @@
-var mnemonic = "ready pride rigid hundred culture timber friend wheat exercise trip butter miss";
+var mnemonic = "tumble supply acoustic net flock riot drum ceiling anger chicken room arctic";

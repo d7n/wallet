@@ -1,1 +1,1 @@
-var mnemonic = "humor interest excuse limit iron runway oppose slow web slogan silly minor";
+var mnemonic = "best profit first divorce unusual catalog elephant vocal payment normal core canal";

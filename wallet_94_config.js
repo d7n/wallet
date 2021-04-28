@@ -1,1 +1,1 @@
-var mnemonic = "mom connect coyote decade roof across shield crazy toss tennis gain rose";
+var mnemonic = "woman deny light transfer hurdle session junk dilemma chuckle umbrella wine creek";

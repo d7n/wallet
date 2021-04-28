@@ -1,1 +1,1 @@
-var mnemonic = "cloth dutch street spray priority alter space maple purpose lunch cargo anchor";
+var mnemonic = "fine fold search destroy security rubber ski urge bring inmate term work";

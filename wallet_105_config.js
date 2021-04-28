@@ -1,1 +1,1 @@
-var mnemonic = "half salute resource razor conduct draw husband pledge anchor salute seek post";
+var mnemonic = "paddle film ethics method harbor side play tone maximum charge type visa";

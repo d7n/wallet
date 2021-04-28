@@ -1,1 +1,1 @@
-var mnemonic = "know debris undo become logic dust opinion sleep rely struggle same verb";
+var mnemonic = "admit dismiss marine faint boil cotton taste exclude main bundle silly movie";

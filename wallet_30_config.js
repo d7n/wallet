@@ -1,1 +1,1 @@
-var mnemonic = "robust expose error kind squirrel plug question time maid film army extend";
+var mnemonic = "fit uncover reform fog oil then rose gather danger page zone trial";

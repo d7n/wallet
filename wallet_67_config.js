@@ -1,1 +1,1 @@
-var mnemonic = "elder clay dose learn amused there tissue fatigue symbol tent receive add";
+var mnemonic = "barely rent decide correct damp shove february minimum winner entire comfort powder";

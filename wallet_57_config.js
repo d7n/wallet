@@ -1,1 +1,1 @@
-var mnemonic = "lunar found better broom pause index elite drip offer multiply copy amateur";
+var mnemonic = "left wool parrot poet giggle wrestle polar barely endorse lady tower dress";

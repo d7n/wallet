@@ -1,1 +1,1 @@
-var mnemonic = "soon prison cousin curve wrong walk famous tower already cargo claw uncle";
+var mnemonic = "modify run quiz borrow attract march exist zebra goddess digital prison supply";

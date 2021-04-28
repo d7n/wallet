@@ -1,1 +1,1 @@
-var mnemonic = "spend run height trust close afraid address exhibit wisdom file shy proud";
+var mnemonic = "palm sadness behave dream thrive kick improve december silent true poet flee";

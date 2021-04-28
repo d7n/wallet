@@ -1,1 +1,1 @@
-var mnemonic = "will vanish panther flag auto icon strategy summer trouble injury crack tuition";
+var mnemonic = "plunge claw around friend eagle wisdom brave confirm cruel bacon busy confirm";

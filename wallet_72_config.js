@@ -1,1 +1,1 @@
-var mnemonic = "proof solar vibrant owner shy purse usage filter real cover awkward rather";
+var mnemonic = "inflict poet repeat fiction sudden right level maze mule faculty vital mimic";

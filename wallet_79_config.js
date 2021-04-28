@@ -1,1 +1,1 @@
-var mnemonic = "barrel ahead differ shoulder bomb couple mixture crack object near love elder";
+var mnemonic = "left diagram fold enroll wage doll obey process winner giant virus taxi";

@@ -1,1 +1,1 @@
-var mnemonic = "mind certain control love dutch afford camera piano liquid fog ostrich maximum";
+var mnemonic = "once young property much record memory staff visit dish snap gorilla report";

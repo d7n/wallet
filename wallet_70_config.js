@@ -1,1 +1,1 @@
-var mnemonic = "bulk problem ridge distance praise home rate fever photo drop village festival";
+var mnemonic = "gentle leaf plastic job ketchup fun beef fall debris aisle crop witness";

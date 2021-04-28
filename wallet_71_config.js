@@ -1,1 +1,1 @@
-var mnemonic = "pride auto office eternal bird sheriff casino pause calm era vanish young";
+var mnemonic = "lend below execute bridge nice donate stock myself noodle behave worth elephant";

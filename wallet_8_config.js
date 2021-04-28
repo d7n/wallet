@@ -1,1 +1,1 @@
-var mnemonic = "pole lake fabric way hunt boy seven endorse vessel world roof slush";
+var mnemonic = "spy middle business toddler property grief sport dirt subject pulse length appear";

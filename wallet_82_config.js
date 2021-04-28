@@ -1,1 +1,1 @@
-var mnemonic = "glare initial document disagree face multiply sign language puzzle treat enroll boat";
+var mnemonic = "spatial kitten room network reward embark random speak perfect throw captain infant";

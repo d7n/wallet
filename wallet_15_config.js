@@ -1,1 +1,1 @@
-var mnemonic = "tip route slab sauce sand raccoon measure good sausage harbor alert fee";
+var mnemonic = "glory travel force horror step entry one mercy assault canal script require";

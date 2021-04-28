@@ -1,1 +1,1 @@
-var mnemonic = "tooth negative army half remain post early laundry slush decorate member sniff";
+var mnemonic = "nerve wide trade auto follow ice fun soldier duty impose bonus angle";

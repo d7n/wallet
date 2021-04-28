@@ -1,1 +1,1 @@
-var mnemonic = "alarm able danger avocado dumb occur double depart drive siege exercise duty";
+var mnemonic = "fix famous evolve inquiry join circle lesson drama coyote frown uniform olive";

@@ -1,1 +1,1 @@
-var mnemonic = "face typical wrong fan symbol forget insane foster limit offer eager border";
+var mnemonic = "all top exclude drive bind pass snack certain sauce speak target message";

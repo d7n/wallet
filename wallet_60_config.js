@@ -1,1 +1,1 @@
-var mnemonic = "oyster special fresh bless oil swap atom west diamond walnut bird order";
+var mnemonic = "aware novel toddler impact narrow figure this topple excess month raccoon unique";

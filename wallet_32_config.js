@@ -1,1 +1,1 @@
-var mnemonic = "gospel jealous fortune canvas skin version poverty select cliff mirror erosion circle";
+var mnemonic = "hybrid artefact shop roof affair hope illegal absorb treat delay worth into";

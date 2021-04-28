@@ -1,1 +1,1 @@
-var mnemonic = "nephew valve marriage feel average first bargain yellow exotic acoustic joy dinosaur";
+var mnemonic = "mistake dance glass arena wife race time shift oblige poet output travel";

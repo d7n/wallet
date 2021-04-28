@@ -1,1 +1,1 @@
-var mnemonic = "heavy staff motion expect sausage raccoon wine swamp salon must real park";
+var mnemonic = "cherry dice dial employ garage wrap broken boy tilt coconut betray summer";

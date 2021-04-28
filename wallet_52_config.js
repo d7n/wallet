@@ -1,1 +1,1 @@
-var mnemonic = "reduce arena rescue figure lens uphold alarm winner brush outside salad street";
+var mnemonic = "cement inflict race seat dice dish crunch clock magic toss test title";

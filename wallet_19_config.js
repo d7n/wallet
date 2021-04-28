@@ -1,1 +1,1 @@
-var mnemonic = "print basic exhibit use physical matter prefer gaze decrease decide afraid sell";
+var mnemonic = "story clay loud smoke evil pig insect science bronze kite glance like";

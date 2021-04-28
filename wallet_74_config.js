@@ -1,1 +1,1 @@
-var mnemonic = "middle what clarify bread predict rival wait luggage comfort sorry sand sword";
+var mnemonic = "allow often jar mule wire retire bomb bless method awesome trumpet floor";

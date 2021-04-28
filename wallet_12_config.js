@@ -1,1 +1,1 @@
-var mnemonic = "marine glow assist dumb calm final device kidney obtain before arrive machine";
+var mnemonic = "cage drift morning repair fuel flower fury pilot match sample win keen";
