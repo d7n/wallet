@@ -1,1 +1,1 @@
-var mnemonic = "soul glimpse guess tip trial swift skill layer act stem welcome flight";
+var mnemonic = "wagon dose evoke phone fix decide addict wife walk tobacco any timber";

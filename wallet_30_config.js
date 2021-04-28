@@ -1,1 +1,1 @@
-var mnemonic = "able chaos syrup leopard worth orbit eternal forest giggle pulp balance fish";
+var mnemonic = "scissors candy transfer expand exile top broccoli predict upper jacket delay tongue";

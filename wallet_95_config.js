@@ -1,1 +1,1 @@
-var mnemonic = "cruel bitter pudding erode almost almost favorite panic humor limit velvet brass";
+var mnemonic = "inherit funny alcohol jar hand aim you glance ring country accident comic";

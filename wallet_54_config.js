@@ -1,1 +1,1 @@
-var mnemonic = "salt capable hour want enact crime menu remove certain language duty wedding";
+var mnemonic = "screen senior perfect health journey grain clever funny enjoy later judge suspect";

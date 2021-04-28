@@ -1,1 +1,1 @@
-var mnemonic = "when drip wrong anger thank acquire segment board decide bar ship speed";
+var mnemonic = "tenant hold snack record oblige when slice vintage tape gasp young exile";

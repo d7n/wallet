@@ -1,1 +1,1 @@
-var mnemonic = "season crazy cave derive giant into spider iron range custom soap engage";
+var mnemonic = "opinion town inmate meadow city frequent real tongue myself soap glow large";

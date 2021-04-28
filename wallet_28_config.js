@@ -1,1 +1,1 @@
-var mnemonic = "elegant urge false power uphold pottery raw hundred rhythm world angry double";
+var mnemonic = "spoil skirt thought area fiction reform music usage solar silent diamond during";

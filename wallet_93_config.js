@@ -1,1 +1,1 @@
-var mnemonic = "suspect choice trigger erupt case elder jaguar stage above similar glare grain";
+var mnemonic = "submit hint manual spin maximum battle siren tiger minute limb impulse piano";

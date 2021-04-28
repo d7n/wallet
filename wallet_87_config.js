@@ -1,1 +1,1 @@
-var mnemonic = "parrot aisle clinic off hollow cable ice visit dilemma ocean rough push";
+var mnemonic = "flavor clip sunset unlock mutual author army wrap abuse job luxury today";

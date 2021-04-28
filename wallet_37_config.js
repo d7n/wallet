@@ -1,1 +1,1 @@
-var mnemonic = "welcome relax alcohol crowd pear mandate journey furnace print flame snow employ";
+var mnemonic = "brass dinosaur right injury warrior sauce member weird bring write laugh sweet";

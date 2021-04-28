@@ -1,1 +1,1 @@
-var mnemonic = "match calm shrimp exist age lunar rate guide bridge tail cram plunge";
+var mnemonic = "wrist joke path catch tool naive voyage fringe lawsuit layer baby prefer";

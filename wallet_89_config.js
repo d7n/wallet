@@ -1,1 +1,1 @@
-var mnemonic = "buzz extra found slam often orange cotton ozone case photo outside what";
+var mnemonic = "bid truck drink forward pottery exclude sorry slab bubble asthma ski carry";

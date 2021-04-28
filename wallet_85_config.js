@@ -1,1 +1,1 @@
-var mnemonic = "guitar swing rhythm doll winner stick clever cannon lesson priority torch people";
+var mnemonic = "deer robot vote flush possible dilemma claw guide diagram cute animal distance";

@@ -1,1 +1,1 @@
-var mnemonic = "hope page olympic acquire village head park usage seed lawn benefit brief";
+var mnemonic = "cigar wire foot tunnel globe two spike today promote useful barrel echo";

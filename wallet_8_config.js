@@ -1,1 +1,1 @@
-var mnemonic = "exclude evidence insect fashion slush tribe awake sister around unlock lecture message";
+var mnemonic = "rough record input jelly scene midnight rebuild lazy goddess december glance cat";

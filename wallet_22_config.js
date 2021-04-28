@@ -1,1 +1,1 @@
-var mnemonic = "chalk type move hood wrap repair salmon foil error stand exhibit physical";
+var mnemonic = "amused deputy purse sad napkin clinic cat sell ill act myth envelope";

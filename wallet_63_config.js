@@ -1,1 +1,1 @@
-var mnemonic = "ugly embark letter deposit cute mechanic control fire silk climb despair van";
+var mnemonic = "mixed predict scrap smoke high maple final aware marble image pond property";

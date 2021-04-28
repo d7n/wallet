@@ -1,1 +1,1 @@
-var mnemonic = "stereo wave angle eyebrow robust romance benefit slow nominee resource cover width";
+var mnemonic = "friend pitch primary cannon avoid razor pave lobster scene wonder critic cannon";

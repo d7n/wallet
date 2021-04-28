@@ -1,1 +1,1 @@
-var mnemonic = "salad destroy shoot coach sausage garlic argue also velvet asthma better verb";
+var mnemonic = "fitness leg music clock exhaust child miracle edit avoid carbon swim soon";

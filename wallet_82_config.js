@@ -1,1 +1,1 @@
-var mnemonic = "purchase air seed catalog runway drill spy loan trash blush erase island";
+var mnemonic = "game diary debate enroll evidence scale boring fantasy foam escape vacuum frog";

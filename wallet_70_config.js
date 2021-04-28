@@ -1,1 +1,1 @@
-var mnemonic = "melody globe wet twelve entire law gather actress night pipe salon insect";
+var mnemonic = "foam stage order lady olympic breeze unhappy nest resource toss athlete cabin";

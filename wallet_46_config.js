@@ -1,1 +1,1 @@
-var mnemonic = "thunder brown shallow orbit cave nest salute hold donor spider frequent village";
+var mnemonic = "math yard wine rice faith supreme knee summer exhaust skin panther empty";

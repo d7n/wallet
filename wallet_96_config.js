@@ -1,1 +1,1 @@
-var mnemonic = "faint pen affair alone finger spell spatial century age person rural spray";
+var mnemonic = "ring purse reduce curtain hand display rebuild region isolate expose assault swing";

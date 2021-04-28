@@ -1,1 +1,1 @@
-var mnemonic = "today despair bulk athlete client embark eye daughter rubber put hip cruel";
+var mnemonic = "seven danger alarm apart box nominee axis usage wing endless lady legend";

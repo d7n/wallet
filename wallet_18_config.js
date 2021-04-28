@@ -1,1 +1,1 @@
-var mnemonic = "nation pig poverty enforce goose vendor erosion vocal frog degree range ten";
+var mnemonic = "foil okay pitch crowd ritual evil cabin fat winter trim pilot input";

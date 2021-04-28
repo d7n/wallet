@@ -1,1 +1,1 @@
-var mnemonic = "base stadium cat link october coffee first exact another rotate kitten cherry";
+var mnemonic = "bag erosion oil soldier permit deliver crowd tent this brisk wreck switch";

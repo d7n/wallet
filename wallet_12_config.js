@@ -1,1 +1,1 @@
-var mnemonic = "wrist screen game front economy erosion problem actual infant nose fragile slam";
+var mnemonic = "slogan icon gallery brisk slide tomorrow toddler eight mass dismiss tissue million";

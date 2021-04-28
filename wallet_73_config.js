@@ -1,1 +1,1 @@
-var mnemonic = "tired cost comic assault expect entire tired lift awful elbow wave marble";
+var mnemonic = "weekend gate slam wire obtain witness nominee sibling finish sound young salad";

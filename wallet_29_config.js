@@ -1,1 +1,1 @@
-var mnemonic = "garlic pause order jelly junk move ticket genre this tide music kitten";
+var mnemonic = "option eager upset major later soft budget drift goddess portion alcohol oyster";

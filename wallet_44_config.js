@@ -1,1 +1,1 @@
-var mnemonic = "clean slight story close shell decline head ugly lobster resource novel sudden";
+var mnemonic = "boat gather virtual theory wrist simple net assist burden vanish nice bike";

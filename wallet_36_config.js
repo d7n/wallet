@@ -1,1 +1,1 @@
-var mnemonic = "acid finger bicycle similar height swarm cancel above jungle coast velvet attend";
+var mnemonic = "bicycle slide that morning hamster series retire cover airport rib lucky virtual";

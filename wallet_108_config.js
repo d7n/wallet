@@ -1,1 +1,1 @@
-var mnemonic = "depth tooth trip cost series artwork only clog point oval flee inject";
+var mnemonic = "place chat fox sheriff nephew lake miss first exotic key ramp nature";

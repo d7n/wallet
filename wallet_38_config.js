@@ -1,1 +1,1 @@
-var mnemonic = "top finish educate feel weird soon imitate post denial edge silent finger";
+var mnemonic = "rose employ jar wall measure theme riot element curtain share tray alert";

@@ -1,1 +1,1 @@
-var mnemonic = "panic stage fee attend unique chest interest lounge trouble blanket mesh high";
+var mnemonic = "movie artist siege business camp prepare seven atom essay lion job ketchup";

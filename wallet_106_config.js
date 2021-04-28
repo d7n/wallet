@@ -1,1 +1,1 @@
-var mnemonic = "scatter increase middle vacuum woman crawl uniform rare bench review exhaust city";
+var mnemonic = "vehicle zoo habit across mixture bean bonus car crazy rack chalk potato";

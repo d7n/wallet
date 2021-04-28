@@ -1,1 +1,1 @@
-var mnemonic = "hood season melt question away art castle abstract lottery champion adjust rocket";
+var mnemonic = "volume window play panic raccoon fox brand buddy still beauty defense relief";

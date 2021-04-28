@@ -1,1 +1,1 @@
-var mnemonic = "noodle custom arctic ethics extend fever original awesome brain swing tackle soon";
+var mnemonic = "napkin sustain mouse egg jealous force company expand history chicken organ stand";

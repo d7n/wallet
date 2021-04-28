@@ -1,1 +1,1 @@
-var mnemonic = "minor awkward when property bacon carbon science replace regular valid spray credit";
+var mnemonic = "silent execute divorce surge boat before tobacco vault wrong frown pet news";

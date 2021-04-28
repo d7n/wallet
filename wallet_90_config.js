@@ -1,1 +1,1 @@
-var mnemonic = "gaze panther crouch way amateur soap circle jelly fetch bag east kid";
+var mnemonic = "cash decline away plunge solid cushion achieve basket wall goddess cost useful";

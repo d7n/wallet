@@ -1,1 +1,1 @@
-var mnemonic = "spike floor sport three grow dawn timber income shield flight soda grief";
+var mnemonic = "exhaust differ estate unaware early step fetch soft silly apart arrange hard";

@@ -1,1 +1,1 @@
-var mnemonic = "sample story bundle limb romance dutch shadow elevator usual special chapter alpha";
+var mnemonic = "meadow face mention scheme paddle tiny banner tip old text awesome increase";

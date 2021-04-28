@@ -1,1 +1,1 @@
-var mnemonic = "fade scrub project pig cost ensure gold lens fashion bright screen organ";
+var mnemonic = "foster liar page erupt client ripple myth list struggle wedding fame machine";

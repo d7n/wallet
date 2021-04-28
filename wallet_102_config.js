@@ -1,1 +1,1 @@
-var mnemonic = "slender entry engage jelly sponsor scare sea reduce nose captain never maximum";
+var mnemonic = "park layer wrong place dilemma punch empower panel observe excuse envelope exact";

@@ -1,1 +1,1 @@
-var mnemonic = "art annual figure hungry bachelor purpose clump retreat spawn clever scorpion shaft";
+var mnemonic = "fossil tornado column fine addict guess safe unveil original salad feed illegal";

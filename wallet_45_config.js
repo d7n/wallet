@@ -1,1 +1,1 @@
-var mnemonic = "room warm size garage comfort bundle slide improve discover aware valve planet";
+var mnemonic = "inform release build merge crime submit conduct rhythm shrug trumpet prepare army";

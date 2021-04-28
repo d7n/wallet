@@ -1,1 +1,1 @@
-var mnemonic = "quantum around require feed subway order exhaust sweet jar six sheriff beef";
+var mnemonic = "swear armed news custom behind net oyster firm fantasy high chunk surprise";

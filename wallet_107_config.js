@@ -1,1 +1,1 @@
-var mnemonic = "more absurd famous excuse patient milk rail off carpet hedgehog tag grape";
+var mnemonic = "arrest sentence tube know chair keen another useless antenna buddy south guide";

@@ -1,1 +1,1 @@
-var mnemonic = "aisle begin remain cream boil feature nation rebuild wealth dry garbage tennis";
+var mnemonic = "matrix arena stuff differ feed distance similar spare palm page mobile actor";

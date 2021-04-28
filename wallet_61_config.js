@@ -1,1 +1,1 @@
-var mnemonic = "fame satoshi excess budget asset genius artwork meadow limit cycle mouse safe";
+var mnemonic = "expand winner dice cute butter lunar cherry special exile lonely shrimp front";

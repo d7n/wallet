@@ -1,1 +1,1 @@
-var mnemonic = "flight surprise word rich canyon choose baby endless weapon toss lumber face";
+var mnemonic = "champion chest fork torch hybrid finish danger mosquito chapter scrub sick transfer";

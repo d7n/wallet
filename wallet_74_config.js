@@ -1,1 +1,1 @@
-var mnemonic = "abuse duty before airport suffer bracket school wrong forward then shine inside";
+var mnemonic = "marriage audit pumpkin horror tell sail sleep knife south surge note online";

@@ -1,1 +1,1 @@
-var mnemonic = "doctor expire clown pear man surge company health slide avoid salt floor";
+var mnemonic = "town perfect gravity left identify apple produce unable similar frequent wife mansion";

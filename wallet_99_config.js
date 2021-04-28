@@ -1,1 +1,1 @@
-var mnemonic = "cash advice grit fall left extend festival radar kiwi quiz neglect bone";
+var mnemonic = "manual spray flash time term message satoshi window relief turkey flip dignity";

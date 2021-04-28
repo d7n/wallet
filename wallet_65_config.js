@@ -1,1 +1,1 @@
-var mnemonic = "volume forget garage large hurt spoil canoe rice follow name circle wave";
+var mnemonic = "rely volcano child phrase swing access traffic spring topic forest legend round";

@@ -1,1 +1,1 @@
-var mnemonic = "ankle basket raise situate peace follow one sword lawsuit ability nest civil";
+var mnemonic = "unable define cotton eternal soccer frown nice bamboo lift ancient science item";

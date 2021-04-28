@@ -1,1 +1,1 @@
-var mnemonic = "green result noble ketchup dance chunk spare popular sibling raven extra multiply";
+var mnemonic = "apart sight tag cruise dragon blossom judge mistake pudding sorry point like";

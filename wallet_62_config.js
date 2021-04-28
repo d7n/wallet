@@ -1,1 +1,1 @@
-var mnemonic = "present install pilot recipe answer defense tortoise middle window shell dash game";
+var mnemonic = "dust butter profit normal club fork pen differ exist inhale chimney spin";

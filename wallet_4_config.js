@@ -1,1 +1,1 @@
-var mnemonic = "wrestle exchange hub share burst arrive original lecture galaxy business client push";
+var mnemonic = "federal broccoli hen post kit elegant museum syrup way oblige sentence mushroom";

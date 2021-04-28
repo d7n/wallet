@@ -1,1 +1,1 @@
-var mnemonic = "endorse latin knock insect used delay holiday dune soccer inner festival remind";
+var mnemonic = "tortoise bless siege cloth defy define skate obvious around case always yellow";

@@ -1,1 +1,1 @@
-var mnemonic = "vapor mobile still south banana taxi injury knife beyond demise resist mention";
+var mnemonic = "crisp antique help infant already field glow stool item wire narrow dune";

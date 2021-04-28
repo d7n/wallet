@@ -1,1 +1,1 @@
-var mnemonic = "warm crater mass circle vicious where sport odor slam typical border planet";
+var mnemonic = "furnace hen lesson able lounge powder claim mixed wrap capable keep wolf";

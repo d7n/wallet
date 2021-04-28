@@ -1,1 +1,1 @@
-var mnemonic = "fee antenna cereal keep famous awake upper office index family airport alone";
+var mnemonic = "owner gorilla burger outside accident winner jewel crop casual mosquito action team";

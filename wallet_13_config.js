@@ -1,1 +1,1 @@
-var mnemonic = "gate ten assist suspect document breeze shy army ozone banana couple siren";
+var mnemonic = "symptom develop oil impose orient weather salt remember marine gentle assist never";

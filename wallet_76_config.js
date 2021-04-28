@@ -1,1 +1,1 @@
-var mnemonic = "depart normal catalog saddle split diary nation win burger bind sample use";
+var mnemonic = "neither crater coconut tone pottery kid inform cruel sphere cat cherry onion";

@@ -1,1 +1,1 @@
-var mnemonic = "entry crop lawsuit remind wrong arch minute arm climb assault crouch eager";
+var mnemonic = "stem grid below robust you math vanish indicate assault genius genius tent";

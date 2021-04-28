@@ -1,1 +1,1 @@
-var mnemonic = "stumble electric network kiwi cabin large project guard only solution island nasty";
+var mnemonic = "minute extend flower frame horse language meat bread tiger ability chapter invest";

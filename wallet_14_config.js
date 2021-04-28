@@ -1,1 +1,1 @@
-var mnemonic = "transfer expire ugly sound catalog tooth matrix wife lend cousin bunker inspire";
+var mnemonic = "endorse stuff dismiss chimney account matter laundry tribe blind apology bottom employ";

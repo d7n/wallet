@@ -1,1 +1,1 @@
-var mnemonic = "flower boil above special donkey tent cost gallery cook nose grass heart";
+var mnemonic = "core vicious jealous seed winner drive fancy scare verify make gate ill";

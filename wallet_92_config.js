@@ -1,1 +1,1 @@
-var mnemonic = "ostrich congress sweet stem quote lawsuit salmon civil brass anxiety harvest depend";
+var mnemonic = "hungry disease web nice alien bargain insane air mule glad they bracket";

@@ -1,1 +1,1 @@
-var mnemonic = "scrap caught scatter stick unhappy sample street supply seat trumpet alcohol such";
+var mnemonic = "blush fancy crush script twelve fish trap bacon slam there upgrade light";

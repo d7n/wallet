@@ -1,1 +1,1 @@
-var mnemonic = "fuel crew mandate thunder exist suggest sentence water grocery mechanic rose fatal";
+var mnemonic = "humor grant odor author charge stem zero blush steak work never glare";

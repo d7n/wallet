@@ -1,1 +1,1 @@
-var mnemonic = "frame life donor finish fun entire update tongue smooth merit maximum sleep";
+var mnemonic = "social ladder stand brief foam frequent excuse canoe teach kitchen paddle apart";

@@ -1,1 +1,1 @@
-var mnemonic = "frozen solar orchard frozen furnace belt canal fortune depart endless end ketchup";
+var mnemonic = "model trial deputy early cry outdoor athlete scatter tomorrow slender arrest rail";

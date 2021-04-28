@@ -1,1 +1,1 @@
-var mnemonic = "fine budget render hello lounge weather daring enforce come harvest myself elevator";
+var mnemonic = "head pledge helmet employ ghost crush thing because disagree image purse neglect";

@@ -1,1 +1,1 @@
-var mnemonic = "joke entire finish left amateur void spatial pulse razor net rifle illness";
+var mnemonic = "pave actor beach stereo garment debris raven shiver basket amount equal dream";

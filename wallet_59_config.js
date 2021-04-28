@@ -1,1 +1,1 @@
-var mnemonic = "enrich priority unveil speed happy defense elbow glance purity device tumble prepare";
+var mnemonic = "funny rack myself erase box tenant sight apart true fine shield execute";

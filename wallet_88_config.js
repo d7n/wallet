@@ -1,1 +1,1 @@
-var mnemonic = "sock plug egg alert rely notice bright hurt electric real swift liquid";
+var mnemonic = "fiber prevent cave main refuse walk crater puppy broccoli maximum elephant option";

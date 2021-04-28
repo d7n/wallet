@@ -1,1 +1,1 @@
-var mnemonic = "draft brand dolphin winner mistake domain auto upon bind census regret photo";
+var mnemonic = "decrease until blanket mass old match hero holiday clever various taxi fly";

@@ -1,1 +1,1 @@
-var mnemonic = "high project impose detail detail caution supply dress reopen carbon retreat phone";
+var mnemonic = "used melt whale split click type help enable change dumb champion rocket";

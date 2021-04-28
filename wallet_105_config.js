@@ -1,1 +1,1 @@
-var mnemonic = "crazy lady rally expire render popular cash vacant warfare bind unusual reflect";
+var mnemonic = "essay keen shrug topic hat shop boring decade maid fiction muffin track";

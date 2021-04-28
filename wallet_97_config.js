@@ -1,1 +1,1 @@
-var mnemonic = "concert legend noise antenna subject this fragile kick slogan reason company shove";
+var mnemonic = "right profit tip disagree boat approve board fat aim absorb deer deny";

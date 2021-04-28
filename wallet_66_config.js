@@ -1,1 +1,1 @@
-var mnemonic = "arch amazing pencil industry antique crime destroy behind call badge matter gorilla";
+var mnemonic = "curtain electric report social fortune unit bamboo cage task library celery message";

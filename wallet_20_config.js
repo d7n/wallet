@@ -1,1 +1,1 @@
-var mnemonic = "estate loan assume prevent scout kick asthma local draft stick recall measure";
+var mnemonic = "water scrub wide shallow stick silly bracket arch alcohol vivid like reveal";

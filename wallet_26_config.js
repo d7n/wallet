@@ -1,1 +1,1 @@
-var mnemonic = "fire unaware web guess valley boost medal useless stage hungry canvas promote";
+var mnemonic = "aware pencil aware notice measure abandon extra crumble misery pony urge eyebrow";

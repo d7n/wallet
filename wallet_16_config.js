@@ -1,1 +1,1 @@
-var mnemonic = "cat replace push sorry glad sock angle stadium post ribbon wave flip";
+var mnemonic = "mention match note start disagree blossom ensure tired pave beach length faculty";

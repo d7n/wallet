@@ -1,1 +1,1 @@
-var mnemonic = "speak oblige price recycle mixture gallery tumble album fat power purpose citizen";
+var mnemonic = "oyster sudden gate law fog flush lab you citizen sun nest harbor";

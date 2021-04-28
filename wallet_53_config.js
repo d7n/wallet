@@ -1,1 +1,1 @@
-var mnemonic = "turn maple orient elevator quick poet price embark bitter bullet invest cactus";
+var mnemonic = "brass nasty gather disease endless convince viable found blanket exile wreck lift";

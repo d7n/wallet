@@ -1,1 +1,1 @@
-var mnemonic = "cash process sword skirt soap chicken column opera town scorpion sword math";
+var mnemonic = "child reject stamp despair orbit alpha dad lend naive month display clean";

@@ -1,1 +1,1 @@
-var mnemonic = "oblige farm walk stable radio outside trip ridge notable nasty feature network";
+var mnemonic = "copper observe nominee narrow sugar kidney thrive ask spice manual check win";

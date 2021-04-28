@@ -1,1 +1,1 @@
-var mnemonic = "barrel predict domain frame slow just february conduct joke piece version reunion";
+var mnemonic = "kiss metal order announce suffer harsh property affair isolate tired total borrow";
