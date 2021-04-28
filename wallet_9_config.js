@@ -1,1 +1,1 @@
-var mnemonic = "door senior ability device first travel valve canal column bus moral afford";
+var mnemonic = "biology change trim soup depth screen have fit recipe same run symptom";

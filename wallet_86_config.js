@@ -1,1 +1,1 @@
-var mnemonic = "radar gospel mask dentist caught safe monster junk submit banana film clock";
+var mnemonic = "photo stem confirm cage moment hover glide exchange nephew student action canoe";

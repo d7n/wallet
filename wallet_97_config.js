@@ -1,1 +1,1 @@
-var mnemonic = "input empower climb round easily orchard tribe laptop trash shell one photo";
+var mnemonic = "tornado merry wagon cupboard artist same ignore resist farm practice upon spin";

@@ -1,1 +1,1 @@
-var mnemonic = "mother ethics rubber story click sponsor require input metal crater melody exercise";
+var mnemonic = "normal enlist excite bid describe vehicle oven gown laugh shuffle submit unlock";

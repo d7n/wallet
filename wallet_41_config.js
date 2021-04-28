@@ -1,1 +1,1 @@
-var mnemonic = "deliver spoil oven essay subway fragile mask fiscal alcohol alien evolve limit";
+var mnemonic = "stand book split diesel clarify wing clock army imitate sniff comfort into";

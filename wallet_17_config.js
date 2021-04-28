@@ -1,1 +1,1 @@
-var mnemonic = "still meat predict egg ask evidence cover coin cycle desert expect frog";
+var mnemonic = "grab cross latin cable chase wet sister carry pelican spice digital garbage";

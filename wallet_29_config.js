@@ -1,1 +1,1 @@
-var mnemonic = "swift dirt wrong occur giggle kingdom fringe excess cycle shed armed become";
+var mnemonic = "deny host inflict rhythm bright crunch vibrant innocent hidden unhappy vague plunge";

@@ -1,1 +1,1 @@
-var mnemonic = "panic arrow cart essay increase pupil awesome grace win sphere burger school";
+var mnemonic = "nature major broken ghost change glimpse oval fall already width vast father";

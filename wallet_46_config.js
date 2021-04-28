@@ -1,1 +1,1 @@
-var mnemonic = "measure maximum velvet oppose foot dove empower hurt wink coil wealth total";
+var mnemonic = "umbrella puppy draw mandate question adapt cancel loyal hundred enter shy skill";

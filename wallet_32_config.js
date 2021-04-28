@@ -1,1 +1,1 @@
-var mnemonic = "measure slide tool now forget order recall save element junior shield select";
+var mnemonic = "account fury coffee child cram three genuine palm grass glimpse reopen mesh";

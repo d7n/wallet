@@ -1,1 +1,1 @@
-var mnemonic = "judge grunt donkey cigar cloth talent congress wish amount swap grain chair";
+var mnemonic = "bless fantasy auto meadow caution nation arrange lumber before lemon version retire";

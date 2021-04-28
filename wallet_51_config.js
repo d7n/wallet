@@ -1,1 +1,1 @@
-var mnemonic = "soldier scare essence acquire smoke hen danger spatial equal such thunder little";
+var mnemonic = "lion magnet market walk gravity elevator rocket urban donkey always tomorrow direct";

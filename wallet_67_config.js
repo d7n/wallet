@@ -1,1 +1,1 @@
-var mnemonic = "inflict fluid mango cupboard horror tourist pact chuckle dizzy hard empower dentist";
+var mnemonic = "search casino injury plug opinion march reunion appear odor naive erase iron";

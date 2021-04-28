@@ -1,1 +1,1 @@
-var mnemonic = "solve jungle jealous okay jewel kid web nominee hire upgrade atom game";
+var mnemonic = "bridge wonder shoot burst advance wrong upon example story return key solid";

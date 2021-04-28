@@ -1,1 +1,1 @@
-var mnemonic = "adjust body spin evolve napkin face lamp garlic visa normal monster fan";
+var mnemonic = "flavor misery spring valve ecology column body jaguar warfare tomato youth adult";

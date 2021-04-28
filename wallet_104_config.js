@@ -1,1 +1,1 @@
-var mnemonic = "pole gasp segment antique thing monster silver pumpkin pole spike fun exit";
+var mnemonic = "dance leisure crouch message length sock candy fresh rapid execute banana turkey";

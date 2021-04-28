@@ -1,1 +1,1 @@
-var mnemonic = "jacket census armed category label dinner finish ten around eyebrow method stage";
+var mnemonic = "idea child glue genuine pull spoil stick water topic calm field devote";

@@ -1,1 +1,1 @@
-var mnemonic = "stove soccer cram exist spin select budget civil document predict ancient home";
+var mnemonic = "cluster enjoy often civil ankle witness stereo rough vault stumble leave morning";

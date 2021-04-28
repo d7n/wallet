@@ -1,1 +1,1 @@
-var mnemonic = "daring quality save crime armed ask mistake anxiety glad treat vicious weird";
+var mnemonic = "expose climb sentence quantum choice steel manual power custom leader cigar mention";

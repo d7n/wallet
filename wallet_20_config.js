@@ -1,1 +1,1 @@
-var mnemonic = "toss gloom beauty rule giraffe wife admit series identify tennis lava volume";
+var mnemonic = "mushroom acoustic program foil ahead notable skill captain eagle myth enroll stuff";

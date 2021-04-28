@@ -1,1 +1,1 @@
-var mnemonic = "winner pig cream sketch adapt hover mansion detail kiss future group estate";
+var mnemonic = "drive claim since verb layer chalk license ensure fancy sight matter execute";

@@ -1,1 +1,1 @@
-var mnemonic = "soft news blouse draw smile present snack palm identify test tackle outdoor";
+var mnemonic = "impulse female fever access enforce sense fluid nurse eyebrow potato metal tape";

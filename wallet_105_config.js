@@ -1,1 +1,1 @@
-var mnemonic = "avocado stove rigid inflict language soul skill isolate dumb helmet mesh lend";
+var mnemonic = "wool planet fiber vote kit gesture unusual crop surprise belt away exile";

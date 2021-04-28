@@ -1,1 +1,1 @@
-var mnemonic = "beyond blur fragile priority depth humor bag link prison upon clay nut";
+var mnemonic = "fun fix behave reason evolve antenna ask journey source rapid own load";

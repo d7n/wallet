@@ -1,1 +1,1 @@
-var mnemonic = "genuine approve direct project aim leopard other feature excuse dinosaur motor sister";
+var mnemonic = "minimum robust vibrant series usage off seed zebra soul pupil then spin";

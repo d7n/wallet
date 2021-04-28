@@ -1,1 +1,1 @@
-var mnemonic = "mushroom crazy unfold infant arrest pretty wonder always again donor champion jealous";
+var mnemonic = "buyer vendor portion chaos urban reform liar dust victory author sell sign";

@@ -1,1 +1,1 @@
-var mnemonic = "romance orange bag auto velvet frequent rifle viable annual comfort era mechanic";
+var mnemonic = "crane heart record board outdoor pair crime scatter album reason foil street";

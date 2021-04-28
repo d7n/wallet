@@ -1,1 +1,1 @@
-var mnemonic = "remember wedding whisper symptom oval kite cancel scale foam horn impact cotton";
+var mnemonic = "text arrest predict city notable pattern firm inflict column lyrics logic wall";

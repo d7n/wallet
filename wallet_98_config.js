@@ -1,1 +1,1 @@
-var mnemonic = "still razor logic ability sentence smooth pattern kid tilt client shift assault";
+var mnemonic = "drip bus sponsor laugh stone eternal matter pull simple lottery language tiger";

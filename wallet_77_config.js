@@ -1,1 +1,1 @@
-var mnemonic = "bacon crane turn snap naive wild switch truth slender wife dice voice";
+var mnemonic = "hover lock index side deer punch rubber demise artist senior census around";

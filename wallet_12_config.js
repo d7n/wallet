@@ -1,1 +1,1 @@
-var mnemonic = "ancient easily blue health close click soup need sleep tuna student drastic";
+var mnemonic = "hurdle brown heart angle essay jealous improve kind liquid north book language";

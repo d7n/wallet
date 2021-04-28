@@ -1,1 +1,1 @@
-var mnemonic = "tuition spin taste spray rate evil smoke venue bag number dune fitness";
+var mnemonic = "destroy genre learn seek card north grain cricket morning rival unable mistake";

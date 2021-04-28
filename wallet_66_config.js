@@ -1,1 +1,1 @@
-var mnemonic = "margin transfer error venture time display carry trial board swift edit gospel";
+var mnemonic = "access issue grocery ticket audit rhythm solve rare diesel behave awful grid";

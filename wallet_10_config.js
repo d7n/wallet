@@ -1,1 +1,1 @@
-var mnemonic = "ship ordinary decide topple coral party ginger primary identify idle crash swift";
+var mnemonic = "cloth clever annual tone vibrant suit trigger sand mirror dove myself arrest";

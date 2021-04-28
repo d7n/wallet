@@ -1,1 +1,1 @@
-var mnemonic = "gadget day dose piece avocado firm style earn profit flag couch surround";
+var mnemonic = "drama home sweet rare door dumb furnace add amateur truck civil quality";

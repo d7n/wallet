@@ -1,1 +1,1 @@
-var mnemonic = "alone transfer cereal analyst fabric country cycle peanut sword note joy marine";
+var mnemonic = "language sadness alpha leopard firm trigger garlic royal employ lawn sunny bracket";

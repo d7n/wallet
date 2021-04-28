@@ -1,1 +1,1 @@
-var mnemonic = "genius uncover rich orange rapid core skull velvet soldier sick best bracket";
+var mnemonic = "right lucky eagle found concert enrich spice business rack flame cabbage chicken";

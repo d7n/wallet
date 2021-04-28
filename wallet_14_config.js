@@ -1,1 +1,1 @@
-var mnemonic = "ankle home slide vote simple sand helmet dynamic reward organ permit kangaroo";
+var mnemonic = "steel piece purse chase income foam foot dragon stem mutual lawn lizard";

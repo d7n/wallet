@@ -1,1 +1,1 @@
-var mnemonic = "goddess spawn thunder club frame ride pioneer pass much degree visit sphere";
+var mnemonic = "shield lawsuit multiply someone vital cage area dolphin sun scrub dizzy together";

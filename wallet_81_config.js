@@ -1,1 +1,1 @@
-var mnemonic = "topic stock brave card basic mango theory village goat salmon move video";
+var mnemonic = "peasant city fame build camera term fish ripple supreme session crumble trade";

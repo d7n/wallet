@@ -1,1 +1,1 @@
-var mnemonic = "whale noise once flip manual effort liar unusual report rate bulb edit";
+var mnemonic = "rent exercise sister need oil view elite bronze century glide tone february";

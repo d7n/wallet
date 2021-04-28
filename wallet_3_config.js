@@ -1,1 +1,1 @@
-var mnemonic = "duck slide nose announce robot until rose setup cycle hint clay ice";
+var mnemonic = "awful hub truck essay market shrimp embody dad impose eager indoor genuine";

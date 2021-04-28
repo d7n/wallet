@@ -1,1 +1,1 @@
-var mnemonic = "medal peanut crisp arrive series include toy wet sponsor opera enforce again";
+var mnemonic = "sugar move resist lunar green gossip pill simple citizen pledge collect cheese";

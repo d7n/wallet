@@ -1,1 +1,1 @@
-var mnemonic = "garbage green pet save stable hair jeans spirit merit salmon weird palace";
+var mnemonic = "doctor merit inject urge agent struggle shadow example fall pilot piano length";

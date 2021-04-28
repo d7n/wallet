@@ -1,1 +1,1 @@
-var mnemonic = "pact meat melt toe worry skin excess kangaroo evolve advance rich demand";
+var mnemonic = "marble road key drama chaos profit rigid blade dog grocery phone lock";

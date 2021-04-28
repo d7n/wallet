@@ -1,1 +1,1 @@
-var mnemonic = "spike palm object fire order shock sight clump usage enrich tape any";
+var mnemonic = "conduct forward call bid casual acoustic net tennis orchard tool sell call";

@@ -1,1 +1,1 @@
-var mnemonic = "meat lock pet dress embark venture banner pizza brave element rate head";
+var mnemonic = "innocent lab wide wheel cover dad novel couple runway olive change very";

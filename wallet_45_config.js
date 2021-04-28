@@ -1,1 +1,1 @@
-var mnemonic = "tip elite primary improve ceiling park egg range giggle brush luxury beauty";
+var mnemonic = "pretty fresh soul filter antique icon festival royal denial pig remember ridge";

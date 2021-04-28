@@ -1,1 +1,1 @@
-var mnemonic = "mother renew trophy ugly bonus spray brand animal garage rather output hood";
+var mnemonic = "wedding wagon burst win wire deposit pen garage cry explain another punch";

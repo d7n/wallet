@@ -1,1 +1,1 @@
-var mnemonic = "behind village hybrid message spin motor promote trim guess spot ripple minimum";
+var mnemonic = "merge salad affair panther accident mouse swear device bargain aware hobby riot";

@@ -1,1 +1,1 @@
-var mnemonic = "hard kind seminar cotton note vibrant humble consider crouch filter spoil inhale";
+var mnemonic = "material measure account flavor tornado mesh shift glass manual alarm slide adjust";

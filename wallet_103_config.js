@@ -1,1 +1,1 @@
-var mnemonic = "obtain advance fatal leader canal vault door slam escape skirt foam catalog";
+var mnemonic = "bronze march develop match brisk wear innocent acoustic october orient reveal online";

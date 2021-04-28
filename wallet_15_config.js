@@ -1,1 +1,1 @@
-var mnemonic = "display real ugly flame maze often enhance volcano motion able modify relief";
+var mnemonic = "weasel state comic lyrics equal pudding neck tuition sting kiss cry palm";

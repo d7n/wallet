@@ -1,1 +1,1 @@
-var mnemonic = "season length fashion turkey gas planet lizard bacon broom ethics rocket belt";
+var mnemonic = "wine runway armor dragon range load target gloom service alley artist junk";

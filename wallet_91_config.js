@@ -1,1 +1,1 @@
-var mnemonic = "drift base army artwork rigid add ostrich glass furnace tool exchange area";
+var mnemonic = "alpha mesh solid goat bracket calm grid zebra wisdom forest cause resemble";

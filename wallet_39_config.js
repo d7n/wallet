@@ -1,1 +1,1 @@
-var mnemonic = "demise enact exist priority render atom close stumble leave glove weather rapid";
+var mnemonic = "electric wall endless gadget erode chalk true right orchard regret ritual siren";

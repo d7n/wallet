@@ -1,1 +1,1 @@
-var mnemonic = "grit peasant thought height inspire mask rather creek pair clean toss real";
+var mnemonic = "usage reopen music library lemon output barely casino cigar shiver coral tonight";

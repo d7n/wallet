@@ -1,1 +1,1 @@
-var mnemonic = "glad dove youth hope accident wealth supply mystery phrase lady enter shuffle";
+var mnemonic = "license gesture motor stove chapter cherry drip habit rigid section royal copper";

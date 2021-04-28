@@ -1,1 +1,1 @@
-var mnemonic = "admit naive satisfy language defy cruel staff point senior about behave infant";
+var mnemonic = "ginger behave small start matter ice rebel clean wish useful recycle filter";

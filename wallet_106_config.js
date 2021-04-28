@@ -1,1 +1,1 @@
-var mnemonic = "shoot erase motor nice pink gas hub bounce era tattoo design box";
+var mnemonic = "option silent street polar jump rubber kiss inspire ceiling sell blanket uncover";

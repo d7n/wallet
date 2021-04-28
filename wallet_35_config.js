@@ -1,1 +1,1 @@
-var mnemonic = "stage split manual midnight pause diary zebra man option breeze spot sand";
+var mnemonic = "subject rich inflict marine spawn crucial more prepare acoustic pig monkey quantum";

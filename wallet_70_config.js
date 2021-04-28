@@ -1,1 +1,1 @@
-var mnemonic = "achieve surprise order sweet high access demise stomach concert lounge divide empty";
+var mnemonic = "orchard thrive call electric acid again aunt oxygen update dentist case mom";

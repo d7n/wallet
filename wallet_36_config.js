@@ -1,1 +1,1 @@
-var mnemonic = "beyond cream state noble valve fever jaguar sweet attend lab pretty copy";
+var mnemonic = "almost original mango bounce elegant reward body joke betray alert solution swear";

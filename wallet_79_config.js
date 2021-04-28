@@ -1,1 +1,1 @@
-var mnemonic = "flower fun warm season alpha boat memory trade suit three night attend";
+var mnemonic = "volume stumble multiply boil vibrant soda angle ready scatter potato author track";

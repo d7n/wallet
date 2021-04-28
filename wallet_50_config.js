@@ -1,1 +1,1 @@
-var mnemonic = "enough person patrol egg insect jelly luggage escape nurse manual promote test";
+var mnemonic = "position box discover bamboo list shoot theory omit pony rocket neck address";

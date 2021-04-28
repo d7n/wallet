@@ -1,1 +1,1 @@
-var mnemonic = "rapid unusual mass apart response trap canoe decorate memory gold initial security";
+var mnemonic = "tribe huge accuse relief glare travel debate accuse airport they example exhaust";

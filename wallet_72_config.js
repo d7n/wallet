@@ -1,1 +1,1 @@
-var mnemonic = "random only build light ankle genius popular opera very dog carpet city";
+var mnemonic = "share grain boring bridge onion dune immense brand favorite vessel screen glance";

@@ -1,1 +1,1 @@
-var mnemonic = "side cause rule ring beauty front dog define juice wolf mule unable";
+var mnemonic = "glory giant final fury target smart eight dawn like chase flame advance";

@@ -1,1 +1,1 @@
-var mnemonic = "delay core punch grunt appear demand sad latin casino extra credit degree";
+var mnemonic = "quote section parrot poverty patient fever ivory gaze dry canoe normal merit";

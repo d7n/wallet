@@ -1,1 +1,1 @@
-var mnemonic = "train tool taxi innocent obvious fee tomato inherit woman dry october snow";
+var mnemonic = "aisle pattern consider drive grab alien blade shoe setup mandate dolphin attack";

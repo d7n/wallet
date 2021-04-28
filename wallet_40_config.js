@@ -1,1 +1,1 @@
-var mnemonic = "vendor federal neck boil evolve silly split seed bulb suspect tragic poverty";
+var mnemonic = "social exotic minor notice they crawl base junk nurse metal setup gesture";

@@ -1,1 +1,1 @@
-var mnemonic = "wear grape rug select reflect weekend social face tornado park story distance";
+var mnemonic = "circle loan skill garlic apology upper ranch renew brain since caught crisp";

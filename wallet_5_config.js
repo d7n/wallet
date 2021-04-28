@@ -1,1 +1,1 @@
-var mnemonic = "hold radar later evil same couch brown question argue inspire canvas antique";
+var mnemonic = "science pool fragile toilet document pilot display script awful street tunnel guilt";

@@ -1,1 +1,1 @@
-var mnemonic = "strong health pen beef arm junior melody renew this sun sweet senior";
+var mnemonic = "young oyster print admit edge blue torch grocery decade repeat initial worth";

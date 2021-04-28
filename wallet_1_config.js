@@ -1,1 +1,1 @@
-var mnemonic = "embrace sword mammal minimum maximum battle orchard pride labor crucial proud devote";
+var mnemonic = "pink husband supreme dilemma strike chief price wheat file attitude stereo ordinary";

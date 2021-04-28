@@ -1,1 +1,1 @@
-var mnemonic = "one kiss season infant barely parade clean yellow path slogan image involve";
+var mnemonic = "disorder liar lake loud park method brush family food erupt town donate";

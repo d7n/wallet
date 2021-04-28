@@ -1,1 +1,1 @@
-var mnemonic = "vicious goose fence cement dinosaur horse alley mixed differ torch despair twin";
+var mnemonic = "bunker top armed target wave income reflect increase bargain asthma measure loud";

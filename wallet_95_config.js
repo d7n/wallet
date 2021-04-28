@@ -1,1 +1,1 @@
-var mnemonic = "swallow letter imitate gift eternal patrol park sport solution city hidden coconut";
+var mnemonic = "response expect office valid banana close excess resist orbit cloud vital ankle";

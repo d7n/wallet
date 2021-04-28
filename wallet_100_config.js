@@ -1,1 +1,1 @@
-var mnemonic = "bright news marine chunk bitter reopen day merry pluck extend penalty dry";
+var mnemonic = "lift unable flock muscle sweet middle amateur athlete saddle vehicle answer surprise";

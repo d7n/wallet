@@ -1,1 +1,1 @@
-var mnemonic = "ribbon pig sphere february next ceiling eye gym flower grab radio cheap";
+var mnemonic = "insane assume pretty shock pistol nasty absent then cruel region shrimp talk";

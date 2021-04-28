@@ -1,1 +1,1 @@
-var mnemonic = "blossom spring despair electric shuffle deliver believe team permit front buddy grape";
+var mnemonic = "today around opera prepare only wrap inner chase sniff brown early limb";

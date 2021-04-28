@@ -1,1 +1,1 @@
-var mnemonic = "merit stuff write leisure sentence canal level ordinary dinner audit outdoor clay";
+var mnemonic = "option youth vast six marriage flock veteran domain cereal borrow more sting";

@@ -1,1 +1,1 @@
-var mnemonic = "column pistol space case concert foot ladder tent wish idle trim concert";
+var mnemonic = "myself brown marine people movie volume seed spirit hat crane extra record";

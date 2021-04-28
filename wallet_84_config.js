@@ -1,1 +1,1 @@
-var mnemonic = "twice breeze fun behind lunch sport helmet illegal brave divert exit unveil";
+var mnemonic = "march enlist unknown burst pill frog comfort cause element hollow panic tent";

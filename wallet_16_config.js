@@ -1,1 +1,1 @@
-var mnemonic = "review fitness tape palace minor humble giant peanut advance denial remember basket";
+var mnemonic = "exercise fan clip since novel despair icon fire praise team rural alone";

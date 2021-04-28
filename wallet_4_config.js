@@ -1,1 +1,1 @@
-var mnemonic = "antique cannon advance inquiry bless fee ill cash swarm trick repeat dilemma";
+var mnemonic = "vast atom video farm lizard load park mask oven reform click life";

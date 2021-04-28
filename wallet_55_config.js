@@ -1,1 +1,1 @@
-var mnemonic = "special topple chimney satisfy history dentist melody ball dilemma december prosper pilot";
+var mnemonic = "file olive buzz orient catch medal butter fragile island midnight shoe icon";

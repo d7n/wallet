@@ -1,1 +1,1 @@
-var mnemonic = "flower calm toe wealth various lemon under answer silent one tonight nice";
+var mnemonic = "link destroy hour fancy broken fault cattle kiss sample render strong floor";

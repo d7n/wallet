@@ -1,1 +1,1 @@
-var mnemonic = "stairs vault narrow fold oak parrot okay knee dice pilot smart act";
+var mnemonic = "fix rack sail dragon life kidney owner dwarf bubble canvas jealous profit";

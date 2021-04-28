@@ -1,1 +1,1 @@
-var mnemonic = "slim front banner shrimp bench board virus square inch child churn scan";
+var mnemonic = "surface case man fashion economy economy garlic replace exhibit drink ring corn";

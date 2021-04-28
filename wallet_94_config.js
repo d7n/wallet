@@ -1,1 +1,1 @@
-var mnemonic = "just praise please dinner exhibit brand nut brand myth grow whip filter";
+var mnemonic = "toy guard one hope appear dance pride reflect rebuild shaft swim stairs";

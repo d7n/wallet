@@ -1,1 +1,1 @@
-var mnemonic = "example phone twin multiply upgrade matter release cube fury ordinary wise blast";
+var mnemonic = "raw heavy gesture various edge prefer lake car village cart radio habit";

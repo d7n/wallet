@@ -1,1 +1,1 @@
-var mnemonic = "unlock decline live hope either what sister laugh quantum employ world online";
+var mnemonic = "cousin unknown mosquito trust reunion sure hen green camera leave ship wheel";

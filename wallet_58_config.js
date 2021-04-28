@@ -1,1 +1,1 @@
-var mnemonic = "loud tone birth write license swim screen blood alpha between vacant winter";
+var mnemonic = "cement antique heavy review nothing turkey supply junk talent develop obscure lava";
