@@ -1,1 +1,1 @@
-var mnemonic = "dose giraffe fine nerve cluster clarify chimney trend jeans sheriff emerge top";
+var mnemonic = "sail scrap once era mountain town window object obey excess crane unlock";

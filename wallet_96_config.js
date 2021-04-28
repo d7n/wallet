@@ -1,1 +1,1 @@
-var mnemonic = "scrap eight struggle math sponsor flash volcano imitate cross jewel asthma crew";
+var mnemonic = "unusual quit economy demise ensure glow prefer toe boat border upgrade october";

@@ -1,1 +1,1 @@
-var mnemonic = "brisk mimic bunker alley solution silver average vapor fox air weather axis";
+var mnemonic = "distance spare wear multiply become toward brass resist relief desk calm speed";

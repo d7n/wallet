@@ -1,1 +1,1 @@
-var mnemonic = "hair ceiling hill profit wool nominee chaos print arrest ring empower spread";
+var mnemonic = "victory usual dash member debate intact kitten approve sell muffin assume step";

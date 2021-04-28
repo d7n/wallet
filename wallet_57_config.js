@@ -1,1 +1,1 @@
-var mnemonic = "leave feed moral tumble peasant knife case rural surround version three nasty";
+var mnemonic = "elbow leopard toy never boy frown rotate online gun manual abandon cotton";

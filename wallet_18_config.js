@@ -1,1 +1,1 @@
-var mnemonic = "hen narrow wrestle century forum pioneer tell captain marine monitor return hazard";
+var mnemonic = "kiwi dinosaur tiny frown blind vast inform fatal regular detail organ rely";

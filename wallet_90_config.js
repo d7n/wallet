@@ -1,1 +1,1 @@
-var mnemonic = "absurd cycle peanut symbol enact hire unique divorce path lunar achieve oven";
+var mnemonic = "injury scissors crop area vote mushroom before hundred know spring online wagon";

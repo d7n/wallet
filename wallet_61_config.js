@@ -1,1 +1,1 @@
-var mnemonic = "never bundle obscure almost ship soul type throw base doctor aspect there";
+var mnemonic = "spot client upon still able divorce coral element limb gloom silent ignore";

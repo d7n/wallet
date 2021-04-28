@@ -1,1 +1,1 @@
-var mnemonic = "voyage rain property travel protect limb walnut hungry bulb artwork lava vague";
+var mnemonic = "unlock spirit indicate uniform piano penalty wheat fresh fashion review supreme light";

@@ -1,1 +1,1 @@
-var mnemonic = "pause regular other law ball fantasy lab already silly subway dice side";
+var mnemonic = "giggle spray fault educate culture sudden cross cinnamon exile artwork source seed";

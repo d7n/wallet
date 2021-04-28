@@ -1,1 +1,1 @@
-var mnemonic = "exotic music sponsor address end front gloom visa inside evil fashion base";
+var mnemonic = "wonder room peanut tortoise craft ripple earth citizen river denial emotion danger";

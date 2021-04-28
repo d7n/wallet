@@ -1,1 +1,1 @@
-var mnemonic = "cherry meadow celery staff fade blame distance flower fence side kitchen pen";
+var mnemonic = "mesh leopard similar deny cruise risk property female ten yard wagon leaf";

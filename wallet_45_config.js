@@ -1,1 +1,1 @@
-var mnemonic = "cherry tray blade envelope chuckle annual chicken wear genuine permit doll symptom";
+var mnemonic = "heavy step spell emotion state vital young device soldier jelly lift elegant";

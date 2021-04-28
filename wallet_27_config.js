@@ -1,1 +1,1 @@
-var mnemonic = "rail couch ramp erosion attract morning reduce clarify all penalty giggle garlic";
+var mnemonic = "crystal vote half young afraid fade latin wedding fringe riot blade remember";

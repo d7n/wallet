@@ -1,1 +1,1 @@
-var mnemonic = "coil unlock load ride pizza hospital regret wave surround wise orphan blur";
+var mnemonic = "panic lobster shoe course lake please provide elbow pink mobile cry dinosaur";

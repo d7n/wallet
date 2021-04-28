@@ -1,1 +1,1 @@
-var mnemonic = "hope notice trip table cactus bag reopen forward monitor vocal expose jungle";
+var mnemonic = "middle unlock inform bottom guard enrich segment essence rural young feel breeze";

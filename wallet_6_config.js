@@ -1,1 +1,1 @@
-var mnemonic = "quality icon vivid design kind exclude maple audit just strategy myself present";
+var mnemonic = "immense trend document mirror odor stamp employ moral bread purse cargo humor";

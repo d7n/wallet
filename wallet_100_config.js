@@ -1,1 +1,1 @@
-var mnemonic = "wish parent trend size you logic similar stock now illness select catalog";
+var mnemonic = "hover hamster number pitch basket lava library cash element wild capable beach";

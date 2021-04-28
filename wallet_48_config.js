@@ -1,1 +1,1 @@
-var mnemonic = "oven diamond mask auction float unhappy security still convince august giggle pride";
+var mnemonic = "pear area turkey mesh session joke beach shoe ivory rug alien crack";

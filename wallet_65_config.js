@@ -1,1 +1,1 @@
-var mnemonic = "pig team trigger run panic suspect question tired modify jump jelly analyst";
+var mnemonic = "junior doll shy observe mixed term art bless pass silent mutual science";

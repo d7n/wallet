@@ -1,1 +1,1 @@
-var mnemonic = "rare useless rebuild wonder jeans pair mass forward dose position plunge popular";
+var mnemonic = "knee prize dynamic carry vessel vacuum fine spoon pulp faith since execute";

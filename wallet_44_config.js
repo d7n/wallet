@@ -1,1 +1,1 @@
-var mnemonic = "forum average suit huge insane input fetch gauge help bus letter depend";
+var mnemonic = "envelope finish acid spice spread suffer orange ladder humble assault antique expire";

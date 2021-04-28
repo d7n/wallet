@@ -1,1 +1,1 @@
-var mnemonic = "orient gate black test paddle frame firm busy also shrimp rookie struggle";
+var mnemonic = "slam length idea icon wink brick endless pumpkin human rib task box";

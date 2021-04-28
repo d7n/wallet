@@ -1,1 +1,1 @@
-var mnemonic = "tortoise ocean brush service tiny ethics spring canvas just execute tribe frame";
+var mnemonic = "wall innocent dad inhale alpha involve will crystal extend picnic tobacco laptop";

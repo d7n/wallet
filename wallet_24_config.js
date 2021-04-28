@@ -1,1 +1,1 @@
-var mnemonic = "priority idea secret border response sport night risk furnace rigid title march";
+var mnemonic = "opinion rotate dish hungry impact during clap chase sauce upgrade cover debris";

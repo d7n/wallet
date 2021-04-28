@@ -1,1 +1,1 @@
-var mnemonic = "physical tool burst base become exhaust machine member keep frost swift dignity";
+var mnemonic = "cruel comic frown baby aim pass eagle wheat ceiling foster tired else";

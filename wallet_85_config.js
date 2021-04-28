@@ -1,1 +1,1 @@
-var mnemonic = "snow whale hub because come day ketchup decade someone melt miracle chef";
+var mnemonic = "obvious ridge stable ketchup deny wing citizen cinnamon lift hen depend enroll";

@@ -1,1 +1,1 @@
-var mnemonic = "zebra island crowd budget mobile imitate police night napkin cruise pilot bullet";
+var mnemonic = "fringe spawn grass boost rule maple timber heart trap hat seed bottom";

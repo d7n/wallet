@@ -1,1 +1,1 @@
-var mnemonic = "describe debris shock antique vault boil pudding vault soon early sign discover";
+var mnemonic = "globe blush area step over manual museum matter charge step debate bench";

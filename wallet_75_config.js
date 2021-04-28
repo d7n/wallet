@@ -1,1 +1,1 @@
-var mnemonic = "occur twelve puppy clown couple cute random worth eight tobacco metal attack";
+var mnemonic = "inner volume gun dial hobby tent scale prize train glass trick bless";

@@ -1,1 +1,1 @@
-var mnemonic = "finish region quiz chef elder pen diary creek cheap prevent original trip";
+var mnemonic = "drip castle raccoon hobby canvas ten sing anger paddle filter police sound";

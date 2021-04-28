@@ -1,1 +1,1 @@
-var mnemonic = "muscle violin jaguar cruise come grocery decide brass balcony panel blossom candy";
+var mnemonic = "chalk reduce toss tonight hard undo orange spy huge cement thumb open";

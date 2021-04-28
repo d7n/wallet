@@ -1,1 +1,1 @@
-var mnemonic = "near trial abuse neutral move suggest helmet draft frozen mesh mixture until";
+var mnemonic = "dice violin soft wrong man soccer bottom script cloud bird pumpkin fire";

@@ -1,1 +1,1 @@
-var mnemonic = "toy disagree version media income corn profit immense west bridge three couple";
+var mnemonic = "raise police guide crisp elephant pond item charge shed code demise civil";

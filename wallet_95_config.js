@@ -1,1 +1,1 @@
-var mnemonic = "side swift column language theme custom jelly vivid club raven process roast";
+var mnemonic = "ski code crawl fee sure snow afraid mean pause guitar stereo drip";

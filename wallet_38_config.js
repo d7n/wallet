@@ -1,1 +1,1 @@
-var mnemonic = "habit will ladder pulp asset survey noise fame voyage vacant boring private";
+var mnemonic = "mixture dance table abstract panic system key exercise wheel census social lake";

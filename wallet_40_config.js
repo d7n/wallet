@@ -1,1 +1,1 @@
-var mnemonic = "street shoot garden kangaroo shrimp bounce lion slam nerve secret carpet spray";
+var mnemonic = "gossip develop famous spice head cousin isolate boring dolphin phone multiply castle";

@@ -1,1 +1,1 @@
-var mnemonic = "ankle truly gain lion loyal damp blur sketch bind uniform exit verify";
+var mnemonic = "hunt swear recall magnet forum angry tray rapid consider success whisper split";

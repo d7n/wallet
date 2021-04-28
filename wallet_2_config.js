@@ -1,1 +1,1 @@
-var mnemonic = "logic attack pipe cram leisure left polar pelican hood mansion dinosaur step";
+var mnemonic = "library morning army risk motion width until normal frozen prosper seed monster";

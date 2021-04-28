@@ -1,1 +1,1 @@
-var mnemonic = "wild document clown portion embark make spring salt artist auction waste angry";
+var mnemonic = "pitch cruise derive tape inherit between bitter notice broccoli castle point decorate";

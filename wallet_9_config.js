@@ -1,1 +1,1 @@
-var mnemonic = "cry spin safe alpha arrive barely crash weekend oyster number pelican toward";
+var mnemonic = "thank enjoy cigar kitten blood kite dignity diamond clay amateur path exile";

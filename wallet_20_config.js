@@ -1,1 +1,1 @@
-var mnemonic = "knee mutual fiscal account long victory congress vivid hurry found punch switch";
+var mnemonic = "consider survey flip else card bread west control foil armed vault check";

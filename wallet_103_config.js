@@ -1,1 +1,1 @@
-var mnemonic = "cabbage expect toilet room claim rain ship doctor six hold filter renew";
+var mnemonic = "wool behave artwork arctic flat budget grape club motor salad ask matrix";

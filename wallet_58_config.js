@@ -1,1 +1,1 @@
-var mnemonic = "omit federal torch hundred twist original gate when icon relief appear bundle";
+var mnemonic = "ribbon citizen spawn sing reduce urge soccer giggle tip flock leopard struggle";

@@ -1,1 +1,1 @@
-var mnemonic = "story crouch over prize adapt trick they alert decade shed culture globe";
+var mnemonic = "tuna size narrow toddler cave race erase trim screen shadow wrist usage";

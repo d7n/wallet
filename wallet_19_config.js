@@ -1,1 +1,1 @@
-var mnemonic = "business champion reunion acquire chapter basic lucky ivory fame car horn muffin";
+var mnemonic = "tackle flush tuition ready family lyrics champion lunch retire smart minute cluster";

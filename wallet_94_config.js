@@ -1,1 +1,1 @@
-var mnemonic = "dumb chest solution bronze desert blame talk dizzy engage nature fiscal marriage";
+var mnemonic = "anger pitch what push atom fine under inquiry carbon magic lecture reason";

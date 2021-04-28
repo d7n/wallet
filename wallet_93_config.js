@@ -1,1 +1,1 @@
-var mnemonic = "heavy clump cement project roof soldier fiber notable amateur strategy kid voice";
+var mnemonic = "wave custom short spend fabric crystal bullet rhythm file razor nurse bulk";

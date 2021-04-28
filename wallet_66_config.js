@@ -1,1 +1,1 @@
-var mnemonic = "scan craft curious predict pig muffin medal weapon company fee admit tray";
+var mnemonic = "misery letter whale flash nest much insect drift second social write health";

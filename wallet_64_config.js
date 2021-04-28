@@ -1,1 +1,1 @@
-var mnemonic = "trick crime ribbon vanish employ awful boy arctic silly scare robot save";
+var mnemonic = "exist jealous belt brand trial drill use fat belt adult trim invest";

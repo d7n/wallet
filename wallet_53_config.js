@@ -1,1 +1,1 @@
-var mnemonic = "logic project garage panda tragic pill venture wrist nephew timber equal myself";
+var mnemonic = "talk thunder valve merit exercise near mystery library enemy moral juice latin";

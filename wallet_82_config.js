@@ -1,1 +1,1 @@
-var mnemonic = "scale surface prison picnic bullet opinion argue trial spend among slim stem";
+var mnemonic = "inspire doll table spray verify grass fade fantasy hybrid initial clump session";

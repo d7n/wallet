@@ -1,1 +1,1 @@
-var mnemonic = "space dry quality world cool whale wrong print together obey ocean jealous";
+var mnemonic = "gate can century shell weapon reduce pizza stable history bullet school city";

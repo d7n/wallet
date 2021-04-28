@@ -1,1 +1,1 @@
-var mnemonic = "advance swing work chat life resource disorder later collect mixed proof jewel";
+var mnemonic = "congress merit pulp damp wide attract club fiber curve opera maze nest";

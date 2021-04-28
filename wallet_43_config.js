@@ -1,1 +1,1 @@
-var mnemonic = "fury ensure ethics shine silly comic display citizen fork squirrel pilot major";
+var mnemonic = "impact remind nuclear fat target net slogan hammer jaguar wagon misery medal";

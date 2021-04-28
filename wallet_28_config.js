@@ -1,1 +1,1 @@
-var mnemonic = "forum tunnel anxiety powder post beauty wood vehicle pioneer place advice glide";
+var mnemonic = "humble farm bounce dumb regular regret turtle dream toilet fault venue inform";

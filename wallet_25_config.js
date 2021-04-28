@@ -1,1 +1,1 @@
-var mnemonic = "sort cactus glow company pyramid unknown result account street emerge pattern egg";
+var mnemonic = "riot field detail leisure slide brown scout focus steel sister trumpet core";

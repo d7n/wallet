@@ -1,1 +1,1 @@
-var mnemonic = "eternal type genuine inch emotion panda choose minor keen prepare acquire change";
+var mnemonic = "sphere humor foster option detect category resemble media hub gauge forward provide";

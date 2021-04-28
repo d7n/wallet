@@ -1,1 +1,1 @@
-var mnemonic = "axis shift legend mention infant girl prevent boss sign various under exit";
+var mnemonic = "usage practice toddler august senior enhance economy salad more arena box truth";

@@ -1,1 +1,1 @@
-var mnemonic = "auto mean achieve peasant box limb reflect gun chicken surround shaft mouse";
+var mnemonic = "move rhythm resist erosion green alert reunion high talk position thing stage";

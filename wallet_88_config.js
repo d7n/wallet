@@ -1,1 +1,1 @@
-var mnemonic = "exile doctor position giant lend hurdle mother mule ticket tilt virus flock";
+var mnemonic = "twin cattle energy lift visit valley light oyster sound labor flavor sibling";

@@ -1,1 +1,1 @@
-var mnemonic = "soccer quality silk agent rain upper village long polar middle kitten parade";
+var mnemonic = "embody cloth alien grace crystal clerk twist immune surprise embrace ritual nothing";

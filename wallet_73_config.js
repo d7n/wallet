@@ -1,1 +1,1 @@
-var mnemonic = "inhale coral december awful buyer pitch joke fragile blur special celery eternal";
+var mnemonic = "describe lonely expose brief grit main lady display move axis seven climb";

@@ -1,1 +1,1 @@
-var mnemonic = "boil scatter start mixed twin orient rack protect chapter sniff give spider";
+var mnemonic = "muffin ship coconut woman frown advice spider clever zero obey ozone glide";

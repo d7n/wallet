@@ -1,1 +1,1 @@
-var mnemonic = "tuition elephant defense swarm office badge only penalty sister bridge leader onion";
+var mnemonic = "silly useful main timber pave room rent skull boy sport entry mail";

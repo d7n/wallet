@@ -1,1 +1,1 @@
-var mnemonic = "senior length lady loud describe canvas buddy digital bacon mixed edge frown";
+var mnemonic = "way brass dial recall toast whip version person spoil prize feed turkey";

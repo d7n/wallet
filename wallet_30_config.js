@@ -1,1 +1,1 @@
-var mnemonic = "history umbrella chalk squirrel enforce decline lift marine learn volume occur grid";
+var mnemonic = "fox knock exile embrace execute stand shallow festival filter clump kid injury";

@@ -1,1 +1,1 @@
-var mnemonic = "forward pony leg govern bracket pistol village lift develop hole umbrella unlock";
+var mnemonic = "raccoon analyst very bottom quit gasp target amazing mammal sphere brother economy";

@@ -1,1 +1,1 @@
-var mnemonic = "joy target panda fossil wink soda hole poverty curious auction trap inflict";
+var mnemonic = "rug radio caught viable fan danger coral add crystal waste knife grape";

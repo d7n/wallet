@@ -1,1 +1,1 @@
-var mnemonic = "range poverty parent dilemma nuclear copper swift also business release between leaf";
+var mnemonic = "father riot issue orphan jungle erode margin bless scout reduce slot lyrics";

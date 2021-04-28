@@ -1,1 +1,1 @@
-var mnemonic = "occur engage gesture onion update dust identify skate reject tool control own";
+var mnemonic = "exchange foster peasant invest sentence leg reunion cargo sleep attend join peanut";

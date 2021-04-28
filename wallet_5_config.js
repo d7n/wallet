@@ -1,1 +1,1 @@
-var mnemonic = "plastic gym blood pyramid expose reduce scan engine impulse syrup exchange satoshi";
+var mnemonic = "life giggle illegal unhappy ask false accident huge dress usual permit robot";

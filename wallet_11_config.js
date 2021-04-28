@@ -1,1 +1,1 @@
-var mnemonic = "menu truly fatal visa blade rookie tomorrow act police loop gadget debris";
+var mnemonic = "just trouble edge calm lecture place traffic unaware horn purchase misery human";

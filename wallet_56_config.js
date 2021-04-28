@@ -1,1 +1,1 @@
-var mnemonic = "cereal people elbow march valley federal victory chase paper million moral tissue";
+var mnemonic = "distance recipe loop swift fatal awake city draw tourist tattoo gallery kitten";

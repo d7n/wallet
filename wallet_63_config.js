@@ -1,1 +1,1 @@
-var mnemonic = "divorce stable vibrant matrix jeans bone harvest shock just great attitude cage";
+var mnemonic = "practice shoot use occur enlist educate knock curtain want meadow demise paper";

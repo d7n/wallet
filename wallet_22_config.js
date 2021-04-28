@@ -1,1 +1,1 @@
-var mnemonic = "denial service network exist game fat hint error uncle talk leopard heavy";
+var mnemonic = "estate explain slush evolve prepare glare guess patch flavor fatal talk tribe";

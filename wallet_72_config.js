@@ -1,1 +1,1 @@
-var mnemonic = "glove solve hockey dolphin almost pride name organ accuse print buddy praise";
+var mnemonic = "into buddy arm reunion raise venture anger warm gather input shaft pull";

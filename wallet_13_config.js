@@ -1,1 +1,1 @@
-var mnemonic = "section spring inject atom napkin pipe want sweet parent because script borrow";
+var mnemonic = "brush follow staff execute afford degree grunt novel control pelican culture local";

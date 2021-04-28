@@ -1,1 +1,1 @@
-var mnemonic = "shrug capital fish stock primary pudding monkey nurse arctic solution try victory";
+var mnemonic = "interest cry fringe company memory sketch neck nasty canvas shrug reveal exclude";

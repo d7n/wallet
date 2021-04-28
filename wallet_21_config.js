@@ -1,1 +1,1 @@
-var mnemonic = "marble game end describe mind sort maximum panic ritual retire sudden alcohol";
+var mnemonic = "soccer mansion person layer drill sniff syrup ribbon stem table vocal quick";

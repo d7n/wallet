@@ -1,1 +1,1 @@
-var mnemonic = "tape city truth easy total analyst oppose blouse scare identify anchor slice";
+var mnemonic = "shoe grass column power vast catch world clutch embark hip reveal clinic";

@@ -1,1 +1,1 @@
-var mnemonic = "deny swing clean spring retreat decrease segment chair toe laugh pet live";
+var mnemonic = "vessel destroy empower bridge rubber butter wasp cycle front wash brown resemble";

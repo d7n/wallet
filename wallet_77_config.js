@@ -1,1 +1,1 @@
-var mnemonic = "enable view clown ecology dolphin harsh resource crane mouse satoshi turkey nephew";
+var mnemonic = "toward fantasy harbor video project bar fancy monitor budget chunk upgrade father";

@@ -1,1 +1,1 @@
-var mnemonic = "canyon sleep special online always gospel unique math police rally trial siege";
+var mnemonic = "forum true ship broken give reward copy fossil cute fiscal ball match";

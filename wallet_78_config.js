@@ -1,1 +1,1 @@
-var mnemonic = "slight north shine bleak frown deposit rug sting logic strategy keep subway";
+var mnemonic = "harsh calm frame clerk real talk east mammal woman fragile party blind";

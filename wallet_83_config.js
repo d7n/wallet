@@ -1,1 +1,1 @@
-var mnemonic = "maximum once clog say monster super hub captain frost label alpha obvious";
+var mnemonic = "joke indicate tree custom task chat smart hammer raw embody trade series";

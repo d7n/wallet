@@ -1,1 +1,1 @@
-var mnemonic = "express hotel lyrics transfer charge twin puzzle enroll afraid trumpet strike joke";
+var mnemonic = "glow merge focus genuine phrase response meat slow behind tired discover cancel";

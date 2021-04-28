@@ -1,1 +1,1 @@
-var mnemonic = "size spider vanish crowd stamp fury essence infant scrap hybrid youth knife";
+var mnemonic = "mistake deposit witness bracket awful unfair reason pattern skull monster load soccer";

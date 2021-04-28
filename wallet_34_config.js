@@ -1,1 +1,1 @@
-var mnemonic = "neither pretty ugly warm ramp pink wolf surround hidden ecology cash unfair";
+var mnemonic = "page butter key carbon brick aerobic beauty pulse sugar caught pluck harvest";

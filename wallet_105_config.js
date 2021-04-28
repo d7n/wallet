@@ -1,1 +1,1 @@
-var mnemonic = "boring hope artwork august fetch wheat local meadow flush pause love post";
+var mnemonic = "endless release better lyrics gun border innocent eye spike okay stem fit";

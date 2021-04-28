@@ -1,1 +1,1 @@
-var mnemonic = "mass peace physical swamp loan arm water flavor stomach sick inmate memory";
+var mnemonic = "renew uniform elder network inherit useless knee flame average inch suffer talent";

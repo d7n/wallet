@@ -1,1 +1,1 @@
-var mnemonic = "bounce output cannon involve give power age science total pledge capital toast";
+var mnemonic = "vault identify capital usage exact mixed deliver venture wire cluster present helmet";
