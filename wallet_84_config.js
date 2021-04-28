@@ -1,1 +1,1 @@
-var mnemonic = "word process swamp corn similar can switch game record habit close industry";
+var mnemonic = "barrel team index orient gallery abuse dream midnight rain alter undo arch";

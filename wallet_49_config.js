@@ -1,1 +1,1 @@
-var mnemonic = "pair lens blouse output electric try tonight tower salmon dog define memory";
+var mnemonic = "ranch cake gossip angry planet noodle pool scrub diet cable net gospel";

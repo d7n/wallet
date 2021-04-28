@@ -1,1 +1,1 @@
-var mnemonic = "crystal spider enable resemble canyon lift pole accident limit owner check tattoo";
+var mnemonic = "script skin senior alter light project curve whisper skull pig claw artefact";

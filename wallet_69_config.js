@@ -1,1 +1,1 @@
-var mnemonic = "dawn window square powder soda grant hurdle obtain erase inherit output jar";
+var mnemonic = "core before oval fringe begin motor audit van humor portion toast civil";

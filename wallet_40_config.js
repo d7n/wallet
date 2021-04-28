@@ -1,1 +1,1 @@
-var mnemonic = "ignore walk ostrich adapt sound blue team eyebrow food rubber salute nest";
+var mnemonic = "vivid problem genuine bridge correct solution yellow animal bracket monster copy milk";

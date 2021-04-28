@@ -1,1 +1,1 @@
-var mnemonic = "very bag upon abandon ready chef burden spirit pond have concert fold";
+var mnemonic = "tell supreme path tree crowd engage salon swarm stage remind salon arena";

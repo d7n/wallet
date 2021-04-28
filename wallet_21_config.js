@@ -1,1 +1,1 @@
-var mnemonic = "relief high never marble budget ceiling ill actress merit trigger keen quit";
+var mnemonic = "grief pilot time eager edge pattern script page reveal spice discover force";

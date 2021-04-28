@@ -1,1 +1,1 @@
-var mnemonic = "nuclear mosquito tunnel mimic reject extra tragic labor mouse stage gesture negative";
+var mnemonic = "demand also stereo dry myself fancy scissors mask million exhaust quiz truck";

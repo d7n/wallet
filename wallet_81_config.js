@@ -1,1 +1,1 @@
-var mnemonic = "collect wrong category bubble dinosaur betray convince access miracle small tattoo banner";
+var mnemonic = "census student slow enlist service bridge gold light faint more indoor display";

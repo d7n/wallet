@@ -1,1 +1,1 @@
-var mnemonic = "depart feature age rebuild orchard session monitor dinosaur engage anxiety control absent";
+var mnemonic = "trap jazz embody oblige fuel hedgehog maximum enable hour witness knee excite";

@@ -1,1 +1,1 @@
-var mnemonic = "involve wave trap talk false require pause exotic there shuffle board axis";
+var mnemonic = "smoke spice cloth grace balcony honey cement sheriff master purpose size doll";

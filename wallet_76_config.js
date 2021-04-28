@@ -1,1 +1,1 @@
-var mnemonic = "security hat paddle stay appear point present thing other buddy roast media";
+var mnemonic = "debris afraid estate focus easy legend subway ramp sound must organ way";

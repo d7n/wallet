@@ -1,1 +1,1 @@
-var mnemonic = "federal transfer subject zoo flip insane cereal museum kitchen science dawn army";
+var mnemonic = "tattoo lab head grid exercise column trim level twenty try supreme admit";

@@ -1,1 +1,1 @@
-var mnemonic = "during issue stairs flag aerobic friend tower quality daughter tuition scissors flavor";
+var mnemonic = "hip because produce august happy innocent test dizzy history soda sibling animal";

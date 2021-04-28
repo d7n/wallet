@@ -1,1 +1,1 @@
-var mnemonic = "metal guard vendor noodle secret moral ability wink street hospital hidden exhibit";
+var mnemonic = "blossom diary hurdle team best firm fitness lizard uniform castle clip sting";

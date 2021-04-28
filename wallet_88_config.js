@@ -1,1 +1,1 @@
-var mnemonic = "spice gain poverty token use put total between dawn inform oyster sudden";
+var mnemonic = "dust hero action rhythm begin able federal someone increase horror window general";

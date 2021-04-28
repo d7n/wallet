@@ -1,1 +1,1 @@
-var mnemonic = "swallow action possible must hood melt planet easily visa give fashion soldier";
+var mnemonic = "vital patient error answer scare curious shallow across crisp dynamic bracket gorilla";

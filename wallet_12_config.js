@@ -1,1 +1,1 @@
-var mnemonic = "stool assault describe answer front tonight intact bring loan harbor exit glide";
+var mnemonic = "blanket renew warm floor try trouble jeans come room vivid relax scrap";

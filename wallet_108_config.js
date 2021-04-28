@@ -1,1 +1,1 @@
-var mnemonic = "entry invite spawn office menu project shrug layer time page federal village";
+var mnemonic = "oil sound balcony omit flag era control valid return saddle thrive improve";

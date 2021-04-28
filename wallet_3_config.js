@@ -1,1 +1,1 @@
-var mnemonic = "upgrade brush charge believe skull detail fatal little post gallery oak power";
+var mnemonic = "two file lend flip paper sibling warfare priority frown need baby town";

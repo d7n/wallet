@@ -1,1 +1,1 @@
-var mnemonic = "answer talk virtual palace year sign black fiscal assault walk rather allow";
+var mnemonic = "tourist health connect betray sad audit aisle suggest pig corn expect above";

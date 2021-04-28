@@ -1,1 +1,1 @@
-var mnemonic = "face target reform leave any base script brand thrive crater dream panther";
+var mnemonic = "cost muscle hand inspire spider wealth jazz typical fine interest chief guard";

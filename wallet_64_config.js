@@ -1,1 +1,1 @@
-var mnemonic = "crop deny current include orbit eyebrow express discover owner swap crucial ride";
+var mnemonic = "observe yellow guitar blossom jar marble impose grab deer finish advice movie";

@@ -1,1 +1,1 @@
-var mnemonic = "fold hundred lawsuit resource gadget devote assume truth kangaroo drop scorpion gate";
+var mnemonic = "upgrade dice swim retire cluster crawl enact moral right auction alley clarify";

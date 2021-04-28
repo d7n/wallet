@@ -1,1 +1,1 @@
-var mnemonic = "sibling party tomorrow come dream fall vibrant sample tonight river ring danger";
+var mnemonic = "short agent airport patrol live today lesson sight ceiling cook since crystal";

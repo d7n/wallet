@@ -1,1 +1,1 @@
-var mnemonic = "educate supreme robot confirm quick error long tool waste grace series sleep";
+var mnemonic = "office medal step moral piano cancel face arm know soldier brown pipe";

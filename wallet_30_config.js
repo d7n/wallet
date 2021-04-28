@@ -1,1 +1,1 @@
-var mnemonic = "traffic service rough maximum pact scale safe access post stand penalty crush";
+var mnemonic = "deliver kid marriage scatter sweet term quiz kiwi remind safe recipe acoustic";

@@ -1,1 +1,1 @@
-var mnemonic = "ignore safe deputy awesome say ask swarm nest blossom average salon elite";
+var mnemonic = "aerobic crucial husband kangaroo beef clown various weird slab indicate seminar permit";

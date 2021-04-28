@@ -1,1 +1,1 @@
-var mnemonic = "rain autumn diamond orphan pull fitness grass fall cattle medal rich pluck";
+var mnemonic = "lawsuit kitten ethics fit post monkey picture bridge also satisfy early sketch";

@@ -1,1 +1,1 @@
-var mnemonic = "organ raise choose payment smart dice major patch cement indicate ankle lucky";
+var mnemonic = "come path arrest swear rich cliff morning spider render cigar crash suit";

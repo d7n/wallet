@@ -1,1 +1,1 @@
-var mnemonic = "loan certain romance wool orphan typical fence promote casual unhappy diary add";
+var mnemonic = "festival firm coffee scout cinnamon tail detect height weasel moral elephant stomach";

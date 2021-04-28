@@ -1,1 +1,1 @@
-var mnemonic = "dust symptom tool best glove village congress panther humor eyebrow chat sauce";
+var mnemonic = "cross trophy put access dry damp dust short during canvas bulb problem";

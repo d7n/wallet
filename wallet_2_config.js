@@ -1,1 +1,1 @@
-var mnemonic = "jazz same valve humble actor maze friend olympic buffalo debris country country";
+var mnemonic = "drink tip wire keep wool blossom choose barely ankle dinosaur flock focus";

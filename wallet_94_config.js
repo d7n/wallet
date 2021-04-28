@@ -1,1 +1,1 @@
-var mnemonic = "win circle absurd crush rally road hole raw gravity buffalo test connect";
+var mnemonic = "depend fold debris symbol dinner business gap remind pyramid lady clutch flip";

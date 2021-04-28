@@ -1,1 +1,1 @@
-var mnemonic = "outdoor narrow point keep negative mean liquid grid kiss glass skate able";
+var mnemonic = "deny clog fall describe inquiry obtain mechanic stamp alert cotton topic range";

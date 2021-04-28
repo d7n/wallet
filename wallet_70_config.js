@@ -1,1 +1,1 @@
-var mnemonic = "hobby maximum potato crumble floor blind attract minimum surprise penalty penalty kidney";
+var mnemonic = "round mimic burger hand bicycle evidence parade stick ritual reward fatal liar";

@@ -1,1 +1,1 @@
-var mnemonic = "crash bachelor echo cricket balance claim spot gun reform fringe cart type";
+var mnemonic = "trade addict clock candy proof forget defy news festival lucky double aspect";

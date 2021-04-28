@@ -1,1 +1,1 @@
-var mnemonic = "fatigue about attract torch until pretty actress brain net sense corn predict";
+var mnemonic = "orchard island laugh dawn hospital airport garbage monster across hockey weasel educate";

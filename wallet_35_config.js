@@ -1,1 +1,1 @@
-var mnemonic = "ski advance blast couple tonight person spare crystal leg mammal surprise quote";
+var mnemonic = "quiz age opera gas benefit ordinary skate hawk panda brand donor oak";

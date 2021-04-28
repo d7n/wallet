@@ -1,1 +1,1 @@
-var mnemonic = "seven reward rapid orange noodle orient flee capable tag unusual today expand";
+var mnemonic = "clinic gasp possible sand spray gasp obvious brain crush winner ugly bind";

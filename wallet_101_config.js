@@ -1,1 +1,1 @@
-var mnemonic = "estate path night reflect mammal range patch proof false session album omit";
+var mnemonic = "jungle reflect wall market alien crunch risk echo bulk aerobic midnight favorite";

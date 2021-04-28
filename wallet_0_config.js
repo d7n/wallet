@@ -1,1 +1,1 @@
-var mnemonic = "trophy aspect dice final sword wage gossip wreck satoshi primary giraffe develop";
+var mnemonic = "occur area jaguar nerve hen ladder soon same wire nephew ribbon route";

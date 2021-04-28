@@ -1,1 +1,1 @@
-var mnemonic = "shallow caution devote donate unfold trade test judge cave foot dignity buddy";
+var mnemonic = "comic ginger enjoy limb south section add neglect penalty surprise memory sting";

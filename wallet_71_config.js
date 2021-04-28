@@ -1,1 +1,1 @@
-var mnemonic = "vendor sand rabbit pig unique opinion sauce mule donate above trust include";
+var mnemonic = "lonely mean judge enjoy journey pattern vehicle old consider eight crush leader";

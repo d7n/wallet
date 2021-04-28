@@ -1,1 +1,1 @@
-var mnemonic = "rack surface never vendor settle pupil garlic assume crowd shrimp figure remember";
+var mnemonic = "term forward base job unit assume color cactus chest vivid sunset often";

@@ -1,1 +1,1 @@
-var mnemonic = "usual broken trip public system poet ancient swift give gate share deer";
+var mnemonic = "super pet small focus culture gaze limit scrub typical word ritual file";

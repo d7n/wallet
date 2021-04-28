@@ -1,1 +1,1 @@
-var mnemonic = "curtain end canyon kit tree avoid obey bar foil diamond venture three";
+var mnemonic = "wait later royal arm attract float absent cricket bone woman menu renew";

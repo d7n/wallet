@@ -1,1 +1,1 @@
-var mnemonic = "museum harvest chapter buzz burger amazing various slogan strategy secret solution elder";
+var mnemonic = "affair dance basket myth hamster slide useful salute frost symbol vanish guess";

@@ -1,1 +1,1 @@
-var mnemonic = "suspect behave core depart when library fame govern sudden morning limb cruel";
+var mnemonic = "drill confirm correct letter auction there exercise comfort afraid train age tired";

@@ -1,1 +1,1 @@
-var mnemonic = "what border antenna weekend jelly carpet drop chef rough angry upset sword";
+var mnemonic = "hazard eight stock stock face field draft sport crawl soon update young";

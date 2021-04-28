@@ -1,1 +1,1 @@
-var mnemonic = "lend diamond salmon method lazy immense endless night draw people tell bitter";
+var mnemonic = "often reason cash caution ivory theory method scrap face soldier run mail";

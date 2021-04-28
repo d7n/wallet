@@ -1,1 +1,1 @@
-var mnemonic = "open genre library hard buddy ask program fire security famous chest pioneer";
+var mnemonic = "later denial banana dad box vapor ostrich reveal praise basic favorite cram";

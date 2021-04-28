@@ -1,1 +1,1 @@
-var mnemonic = "salute strike mammal amateur title valley puzzle track message quarter enlist select";
+var mnemonic = "come napkin record turkey chicken staff label forget alcohol post piece dumb";

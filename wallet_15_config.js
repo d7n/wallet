@@ -1,1 +1,1 @@
-var mnemonic = "mad lock arch various squeeze shiver debris round transfer sphere tumble sense";
+var mnemonic = "rhythm square science erupt fault kind shadow void help coral ride pull";

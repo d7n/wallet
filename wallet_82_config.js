@@ -1,1 +1,1 @@
-var mnemonic = "secret squeeze toddler hamster person trim trick essay champion person quit burger";
+var mnemonic = "brave cross cook rescue supply delay because tackle quiz deliver fat picnic";

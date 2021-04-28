@@ -1,1 +1,1 @@
-var mnemonic = "talk old matter airport impulse fiscal region used phrase remind fire genius";
+var mnemonic = "giant moment end achieve mail tell attend impulse twelve sudden april chuckle";

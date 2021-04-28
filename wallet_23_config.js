@@ -1,1 +1,1 @@
-var mnemonic = "decorate marble company stairs blood ladder side month lucky fantasy animal silk";
+var mnemonic = "acoustic finish predict tongue boss crunch call fiction problem inject struggle split";

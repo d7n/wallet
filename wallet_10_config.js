@@ -1,1 +1,1 @@
-var mnemonic = "rather topple bacon pioneer tool gospel urge common away latin second reward";
+var mnemonic = "quit evidence actual honey armor produce suggest melody mad exclude beach before";

@@ -1,1 +1,1 @@
-var mnemonic = "crane motion expect purpose swarm grocery issue leave state depth stadium picnic";
+var mnemonic = "vast crop drive denial door sister print mercy endorse spy draft inmate";

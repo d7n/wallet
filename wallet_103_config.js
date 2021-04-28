@@ -1,1 +1,1 @@
-var mnemonic = "topic wonder swap over jar anger eight motor loan infant blind above";
+var mnemonic = "hen rice way shift flash transfer chief eye must crater mobile abstract";

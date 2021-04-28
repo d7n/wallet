@@ -1,1 +1,1 @@
-var mnemonic = "anger cycle cost bag plate seat bunker shadow reopen speed illegal crystal";
+var mnemonic = "ship wink scissors car time secret smooth credit gorilla disagree device napkin";

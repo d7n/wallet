@@ -1,1 +1,1 @@
-var mnemonic = "pause settle sample session kit lawsuit banner absorb oxygen danger club junior";
+var mnemonic = "already spring outer chief wonder trim embrace major damp lizard glow lawn";

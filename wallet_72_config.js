@@ -1,1 +1,1 @@
-var mnemonic = "letter nice uncle strong never essence tattoo assault inside nurse mother present";
+var mnemonic = "reflect action caught cat sausage diamond robot mansion lyrics bottom wasp hope";

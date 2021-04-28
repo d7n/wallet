@@ -1,1 +1,1 @@
-var mnemonic = "feature bread whip angle short episode web century eternal slush twenty accident";
+var mnemonic = "liar inmate sustain extra mass chronic man claim west balance second canyon";

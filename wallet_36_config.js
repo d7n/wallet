@@ -1,1 +1,1 @@
-var mnemonic = "toe trouble wild blue next junk jaguar board peanut magic uniform badge";
+var mnemonic = "transfer carpet cube sauce pupil unlock hen situate future scatter vacuum expose";

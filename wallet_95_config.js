@@ -1,1 +1,1 @@
-var mnemonic = "domain drama stick doctor avocado fork miss alter rigid visa wall vast";
+var mnemonic = "wide inspire rebel lab blouse axis dilemma produce omit couple only error";

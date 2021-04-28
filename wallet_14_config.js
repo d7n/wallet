@@ -1,1 +1,1 @@
-var mnemonic = "hard moment lawn hill comfort rhythm outdoor crop matrix unveil hair relief";
+var mnemonic = "cupboard dynamic worth sight now mom scale pottery valve loud clay asthma";

@@ -1,1 +1,1 @@
-var mnemonic = "unknown rib put resist kind horn sick embrace oxygen salad gauge grace";
+var mnemonic = "blanket couple pulp desk drop picnic twelve olympic mention begin kingdom drink";

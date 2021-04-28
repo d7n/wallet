@@ -1,1 +1,1 @@
-var mnemonic = "chronic maze country pyramid raise bunker lock scissors soon parrot boss myth";
+var mnemonic = "cause lamp dismiss retire argue wisdom blur scene error oblige orange advice";

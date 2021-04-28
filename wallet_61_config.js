@@ -1,1 +1,1 @@
-var mnemonic = "leave cannon there canyon turkey flock purity raise soon capable paddle equal";
+var mnemonic = "alter casual twist clinic slot consider address loud demand breeze morning napkin";

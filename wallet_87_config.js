@@ -1,1 +1,1 @@
-var mnemonic = "general impulse nuclear about boss suggest mom flavor essence still system treat";
+var mnemonic = "metal worth ring stamp typical venue potato dismiss panic era original addict";

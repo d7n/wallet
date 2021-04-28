@@ -1,1 +1,1 @@
-var mnemonic = "music iron brother punch never congress curtain upgrade floor scatter habit more";
+var mnemonic = "stuff grab garage fetch sustain able excite shift history limit depend ski";

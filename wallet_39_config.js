@@ -1,1 +1,1 @@
-var mnemonic = "job rotate such picture broken festival above merry work advice know when";
+var mnemonic = "midnight person file curve replace flight danger tribe edit net tackle virtual";

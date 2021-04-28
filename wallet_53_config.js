@@ -1,1 +1,1 @@
-var mnemonic = "frown galaxy phrase rifle couple seek garden misery boil soap miss pet";
+var mnemonic = "defense crucial search tomato bar pet raise way maple behave purity sun";

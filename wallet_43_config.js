@@ -1,1 +1,1 @@
-var mnemonic = "crucial acoustic next feature tenant devote moment brick barrel chunk manual destroy";
+var mnemonic = "parent snake congress sight cricket saddle language there captain affair marriage matter";

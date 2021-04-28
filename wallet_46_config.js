@@ -1,1 +1,1 @@
-var mnemonic = "endless arctic stumble lake property acoustic repeat light expire light embark address";
+var mnemonic = "accident poet actual real vague wasp reveal broom note random mass educate";

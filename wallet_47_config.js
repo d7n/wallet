@@ -1,1 +1,1 @@
-var mnemonic = "jazz above dwarf poverty wrap reflect avoid carry deal illness guilt demise";
+var mnemonic = "mouse world nerve client vast rocket candy silver sorry ankle squeeze explain";

@@ -1,1 +1,1 @@
-var mnemonic = "expire human pulp warm later speed steel alley wet afford butter oppose";
+var mnemonic = "album repeat urban blood inject vague fever job marriage trumpet sea seed";

@@ -1,1 +1,1 @@
-var mnemonic = "copy antenna bean brick kidney host dove dish zero street common obvious";
+var mnemonic = "similar yard scan need buyer gap bar rent slim thing subject buyer";

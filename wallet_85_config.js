@@ -1,1 +1,1 @@
-var mnemonic = "coral pulp pitch knee spider equip also cash promote slight best museum";
+var mnemonic = "nice become elder dad input issue peanut solid primary coconut auction boost";

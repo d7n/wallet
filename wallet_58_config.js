@@ -1,1 +1,1 @@
-var mnemonic = "limb market recycle sadness unfair rival peasant super funny floor train miracle";
+var mnemonic = "disease excess ordinary settle cute okay steel level option two tube cable";

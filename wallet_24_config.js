@@ -1,1 +1,1 @@
-var mnemonic = "agent raw cricket length produce goddess answer believe rude play dad release";
+var mnemonic = "black gravity million mystery nature critic pistol proud ignore account alter away";

@@ -1,1 +1,1 @@
-var mnemonic = "word produce space wine dwarf exotic doctor drip illness sad album cupboard";
+var mnemonic = "midnight crop flavor replace hand series length december valve same used food";

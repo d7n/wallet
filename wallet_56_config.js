@@ -1,1 +1,1 @@
-var mnemonic = "make bread crash duck twin patient brisk swear royal must edge today";
+var mnemonic = "develop crisp airport mind cycle debris define cook winner rail funny early";

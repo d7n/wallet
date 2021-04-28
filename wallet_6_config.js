@@ -1,1 +1,1 @@
-var mnemonic = "lunar join federal boil sausage margin start loyal trumpet guard injury whale";
+var mnemonic = "seek frog pledge mad frog dentist atom innocent drink waste laptop wrist";

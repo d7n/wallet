@@ -1,1 +1,1 @@
-var mnemonic = "rifle birth frame resemble unable hedgehog jazz cruel bomb tragic tooth caution";
+var mnemonic = "retire coin rescue inch song alert below ridge farm inform sadness luggage";

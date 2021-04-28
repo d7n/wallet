@@ -1,1 +1,1 @@
-var mnemonic = "winner catalog layer practice woman resource wealth rule skull latin media earth";
+var mnemonic = "receive jazz trophy nice apart predict drift fatal find sun exclude allow";

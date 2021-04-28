@@ -1,1 +1,1 @@
-var mnemonic = "muscle thrive purse fee vicious filter across round seminar happy craft borrow";
+var mnemonic = "cigar winter link ability age crisp moment account inherit phone disorder pause";

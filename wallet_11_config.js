@@ -1,1 +1,1 @@
-var mnemonic = "legal shell humor naive wedding sail abuse security income impose horn canoe";
+var mnemonic = "circle such page stand avocado lens mercy cash describe print pool phrase";

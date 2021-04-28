@@ -1,1 +1,1 @@
-var mnemonic = "lobster gadget prefer open dress afford funny arm trim over despair such";
+var mnemonic = "echo extend radar acquire spring fiction retire sport stadium core canal program";

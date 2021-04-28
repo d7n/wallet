@@ -1,1 +1,1 @@
-var mnemonic = "despair salon secret figure trigger dignity artefact room lecture siren siren valve";
+var mnemonic = "chair slim offer cake garden slide song stand vague rubber source still";

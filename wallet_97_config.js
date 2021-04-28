@@ -1,1 +1,1 @@
-var mnemonic = "type drift either cheese monitor vacuum march seat apart distance fruit gaze";
+var mnemonic = "shy scan casino valley stamp game shine where glove mandate legal food";

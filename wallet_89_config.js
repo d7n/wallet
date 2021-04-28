@@ -1,1 +1,1 @@
-var mnemonic = "fat twelve remain feature rare kiwi wild wish ancient enhance aspect name";
+var mnemonic = "vanish omit frequent foil moment they hen marble jump zoo reform dad";
