@@ -1,1 +1,1 @@
-var mnemonic = "clutch acoustic soft accident lucky adult relief envelope damage spawn cave solve";
+var mnemonic = "visual remind wheel hedgehog bracket mandate order such unit valley salon doctor";

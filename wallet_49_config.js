@@ -1,1 +1,1 @@
-var mnemonic = "foot myth okay behind else lobster beyond arrive wait drastic catalog tiny";
+var mnemonic = "special relief sick husband margin thought worry bone rhythm tomorrow more deputy";

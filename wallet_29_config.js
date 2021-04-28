@@ -1,1 +1,1 @@
-var mnemonic = "capable school exact crisp orchard erupt strong surface coconut nerve infant random";
+var mnemonic = "wild hospital best pupil express cloud wear auction curtain hurt govern aerobic";

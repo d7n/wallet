@@ -1,1 +1,1 @@
-var mnemonic = "truly govern squeeze panther chest pass few resist involve naive crime judge";
+var mnemonic = "bamboo turkey bean tilt patient limit spare hip remove wreck crazy resource";

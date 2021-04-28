@@ -1,1 +1,1 @@
-var mnemonic = "awful cry file camera zebra party grab decide letter trend obey usage";
+var mnemonic = "hobby entry there grace speed head phone retreat afraid smile jeans behave";

@@ -1,1 +1,1 @@
-var mnemonic = "lobster public stand alarm brave photo wall letter term barrel sight correct";
+var mnemonic = "garage galaxy spawn drastic athlete measure game unusual song effort wheat asthma";

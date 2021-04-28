@@ -1,1 +1,1 @@
-var mnemonic = "isolate shine draft section coast okay side suggest mixed they cause rookie";
+var mnemonic = "vacant welcome hub sea canal pulse jazz attack west mansion sort sword";

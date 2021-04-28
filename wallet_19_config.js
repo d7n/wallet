@@ -1,1 +1,1 @@
-var mnemonic = "diary trip leopard grant ladder basket lemon fantasy episode rival portion extend";
+var mnemonic = "maid witness outer patrol fold taxi fragile army nose harsh offer cat";

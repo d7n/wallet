@@ -1,1 +1,1 @@
-var mnemonic = "slab burst ritual extend beach picture patient mesh physical tired canoe shaft";
+var mnemonic = "flag prepare smooth swing join absurd universe spread okay essence adapt claw";

@@ -1,1 +1,1 @@
-var mnemonic = "guitar heavy still seminar tomato sound smart cook lesson spoon snack mango";
+var mnemonic = "rather twenty relax margin fetch river hint people parrot execute announce sausage";

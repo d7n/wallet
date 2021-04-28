@@ -1,1 +1,1 @@
-var mnemonic = "trade omit narrow chicken risk wisdom gadget photo refuse frost expose someone";
+var mnemonic = "bonus object uncle canal such mask slogan hill bamboo same pepper library";

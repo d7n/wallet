@@ -1,1 +1,1 @@
-var mnemonic = "stomach click feed face fiction kite rich change gentle frequent south barely";
+var mnemonic = "satoshi boat length zero negative pear luxury knife battle shove orchard split";

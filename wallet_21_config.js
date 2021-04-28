@@ -1,1 +1,1 @@
-var mnemonic = "initial clean finger busy miss country tent screen car card leg defy";
+var mnemonic = "vicious ten honey lawsuit remember pepper lock member monster gauge abuse shrug";

@@ -1,1 +1,1 @@
-var mnemonic = "vacuum load monkey spin obscure spice iron sausage churn forum matrix then";
+var mnemonic = "else wheel image inner adult scrap canoe nurse acid since cotton merge";

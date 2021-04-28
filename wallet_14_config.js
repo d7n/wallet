@@ -1,1 +1,1 @@
-var mnemonic = "suggest symbol mechanic chronic devote equal strike thrive amateur indicate vivid combine";
+var mnemonic = "chunk nuclear bottom mask faint joy birth build bus just ramp remind";

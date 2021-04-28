@@ -1,1 +1,1 @@
-var mnemonic = "rib ranch emerge opera nut machine select pitch burger caution foam affair";
+var mnemonic = "differ cart alert time curious aunt afford hold reason opera fuel scale";

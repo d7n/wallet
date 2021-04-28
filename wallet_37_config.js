@@ -1,1 +1,1 @@
-var mnemonic = "expire power child senior clog apology police battle clip thought tissue prison";
+var mnemonic = "remind slot mandate latin gown project aerobic happy unable circle misery vehicle";

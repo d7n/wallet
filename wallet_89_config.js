@@ -1,1 +1,1 @@
-var mnemonic = "curious broccoli prefer person refuse account soft quality detail great easily actress";
+var mnemonic = "bleak tunnel frost illegal pool lake squeeze equip shoe seat inspire dumb";

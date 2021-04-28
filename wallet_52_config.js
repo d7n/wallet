@@ -1,1 +1,1 @@
-var mnemonic = "tonight album ordinary climb very track fold urge option episode midnight section";
+var mnemonic = "zero raccoon swift doll funny later spread unusual civil birth horse ridge";

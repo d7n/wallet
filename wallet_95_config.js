@@ -1,1 +1,1 @@
-var mnemonic = "always chapter donor slice jeans visit dune habit puzzle offer scare bulk";
+var mnemonic = "laundry cherry smoke vehicle notice income rice village wave flower column misery";

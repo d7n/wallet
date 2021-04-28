@@ -1,1 +1,1 @@
-var mnemonic = "fly truth plunge improve innocent pact rail lottery develop network forward corn";
+var mnemonic = "jungle turkey squeeze sponsor perfect already repeat soda exchange setup ask trap";

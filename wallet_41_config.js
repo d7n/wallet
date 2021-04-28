@@ -1,1 +1,1 @@
-var mnemonic = "hundred attack rule bottom immune glory fragile unfold genre honey amount gain";
+var mnemonic = "dish promote useful town trap vessel season decline social deputy slender gadget";

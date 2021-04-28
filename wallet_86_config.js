@@ -1,1 +1,1 @@
-var mnemonic = "essence useful faith what shrug poet soon angle song flower circle manual";
+var mnemonic = "enrich park cruel transfer neglect fame burden view share lesson sight guide";

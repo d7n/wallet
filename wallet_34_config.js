@@ -1,1 +1,1 @@
-var mnemonic = "ladder company runway cross accuse lamp chat nasty account diary skin spawn";
+var mnemonic = "common figure vivid eye bomb wing such spy mention above ordinary edge";

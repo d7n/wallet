@@ -1,1 +1,1 @@
-var mnemonic = "math unfold common reason humble noodle letter genuine wagon tissue great cargo";
+var mnemonic = "goat local peanut vivid behave latin donkey eye milk rich vanish claim";

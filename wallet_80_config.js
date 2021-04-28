@@ -1,1 +1,1 @@
-var mnemonic = "immune library museum audit whale camp brass casino front victory nasty proof";
+var mnemonic = "recall crack joy carpet swap antique hungry when vast rifle lake oblige";

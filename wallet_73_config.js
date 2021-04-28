@@ -1,1 +1,1 @@
-var mnemonic = "answer oak congress weapon again wing casino announce bind silver struggle bless";
+var mnemonic = "amount arctic cross fabric patrol million wire tail comic siege pencil head";

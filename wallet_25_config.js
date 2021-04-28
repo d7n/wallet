@@ -1,1 +1,1 @@
-var mnemonic = "buddy dismiss morning favorite hollow occur near rocket search tank clinic panel";
+var mnemonic = "arch accident city happy banana wage clerk annual bridge direct feel frequent";

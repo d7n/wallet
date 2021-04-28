@@ -1,1 +1,1 @@
-var mnemonic = "walnut hour giggle buzz arena iron verify plug shallow buzz frozen brief";
+var mnemonic = "wrong canoe cube describe bullet grit shift clown transfer tumble dragon fat";

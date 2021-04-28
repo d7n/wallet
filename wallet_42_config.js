@@ -1,1 +1,1 @@
-var mnemonic = "final trust excuse mad simple predict grape because ritual stick sell foam";
+var mnemonic = "sauce tornado inject split hope outer another wave hover crawl obscure gossip";

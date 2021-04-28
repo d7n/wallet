@@ -1,1 +1,1 @@
-var mnemonic = "suggest topple kite glove inhale assume assist sudden crawl pretty uphold secret";
+var mnemonic = "play abuse afford twenty decrease position fury water message retire silk caution";

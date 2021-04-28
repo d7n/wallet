@@ -1,1 +1,1 @@
-var mnemonic = "slim safe peanut bike item cave bronze orient post such primary balance";
+var mnemonic = "region shove negative goose angle elite carbon park embark night tomato couch";

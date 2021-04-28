@@ -1,1 +1,1 @@
-var mnemonic = "primary pottery orphan inside lock strike bleak almost text gain unusual choose";
+var mnemonic = "fragile innocent ostrich culture season price very sorry chapter harbor grunt genre";

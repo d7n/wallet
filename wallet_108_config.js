@@ -1,1 +1,1 @@
-var mnemonic = "chair spell age alien actual neck reopen adult cheese dynamic debate spread";
+var mnemonic = "bridge sound craft mimic evoke fossil earth boss forget divorce critic random";

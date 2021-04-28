@@ -1,1 +1,1 @@
-var mnemonic = "fatal ship obtain day wall dignity crumble mosquito gadget betray shrimp analyst";
+var mnemonic = "clay hockey survey call wrap ugly open gravity fresh enough federal soft";

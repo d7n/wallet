@@ -1,1 +1,1 @@
-var mnemonic = "rule move zoo slush cherry grain absorb card mouse glory mystery popular";
+var mnemonic = "coil reduce peace island chef inner sphere pond trap stairs august awful";

@@ -1,1 +1,1 @@
-var mnemonic = "smart bid salute black addict quote angry wash run cube student future";
+var mnemonic = "kiss flat include voyage large winter point acoustic kit skill cruel mind";

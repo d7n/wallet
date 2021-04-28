@@ -1,1 +1,1 @@
-var mnemonic = "flight ozone local music huge oxygen cereal water smile accident lawsuit pass";
+var mnemonic = "gift demand library blind wrap royal square place gorilla gossip two movie";

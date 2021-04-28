@@ -1,1 +1,1 @@
-var mnemonic = "only guitar novel input inch squeeze peanut confirm throw erase mesh faculty";
+var mnemonic = "ability tell edit oppose neither sphere ramp boy stage tourist lottery soup";

@@ -1,1 +1,1 @@
-var mnemonic = "arctic boil crucial kangaroo ready forward mistake resemble next jelly lobster guard";
+var mnemonic = "wild hub suspect insect cigar wasp kangaroo flag wolf anxiety guide curious";

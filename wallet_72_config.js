@@ -1,1 +1,1 @@
-var mnemonic = "since horror pride recipe tiger invest shaft math dish card timber exit";
+var mnemonic = "puppy liquid frozen sugar choose step start banana build garden will galaxy";

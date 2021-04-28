@@ -1,1 +1,1 @@
-var mnemonic = "tissue fall open age luggage hunt snack debate crucial oven ancient humor";
+var mnemonic = "tent trim soon globe uphold ride symbol special bench vacant media spider";

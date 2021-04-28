@@ -1,1 +1,1 @@
-var mnemonic = "strong purse laundry liquid fat wool arrive siren exile cage oval dice";
+var mnemonic = "boy castle neck goose hello sand total boat enroll inhale deliver achieve";

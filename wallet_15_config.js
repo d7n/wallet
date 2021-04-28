@@ -1,1 +1,1 @@
-var mnemonic = "make reform want alley seek swift glimpse wasp argue price glue surround";
+var mnemonic = "nature member repeat open gather leader either model flat blouse anchor alpha";

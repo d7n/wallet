@@ -1,1 +1,1 @@
-var mnemonic = "work wash visual record awkward snake find accident wrist perfect detail clap";
+var mnemonic = "atom verify depth siren blur dirt lake frame cube stick expire palm";

@@ -1,1 +1,1 @@
-var mnemonic = "horn gentle erupt screen little hungry polar industry boil shoulder quote whip";
+var mnemonic = "ankle fluid render hotel young discover toilet visual machine fold cliff viable";

@@ -1,1 +1,1 @@
-var mnemonic = "stereo pattern orbit stone exotic shop near yard arrange rival bacon disorder";
+var mnemonic = "maple disease news erupt clip reject frame alley banana bleak grid scene";

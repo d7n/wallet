@@ -1,1 +1,1 @@
-var mnemonic = "right cricket swim step oyster lucky argue movie photo zone super feature";
+var mnemonic = "enemy potato minor smile pole illegal middle marine question husband acoustic butter";

@@ -1,1 +1,1 @@
-var mnemonic = "sign grace beach hole they mom urge cannon grass choice license install";
+var mnemonic = "decade cannon master panther bottom bachelor put minor fluid patch margin hip";

@@ -1,1 +1,1 @@
-var mnemonic = "essay evidence treat net yard twelve forget output sound cattle below boil";
+var mnemonic = "salad dice tobacco meadow trigger plate pact scheme alarm meadow frown air";

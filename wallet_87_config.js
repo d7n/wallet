@@ -1,1 +1,1 @@
-var mnemonic = "alone wife balance lens east inflict label quote fall toward increase cute";
+var mnemonic = "mandate weekend situate today become leave prevent boring garage raccoon shallow science";

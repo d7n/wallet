@@ -1,1 +1,1 @@
-var mnemonic = "test mansion improve arch blue domain window result wall switch into hero";
+var mnemonic = "worth castle rather reduce change pistol fan victory upset ritual slight rough";

@@ -1,1 +1,1 @@
-var mnemonic = "bounce room exhaust south private fiscal liar inquiry seek chef route usual";
+var mnemonic = "debate ranch pioneer pause patch attend oppose off multiply monkey bamboo problem";

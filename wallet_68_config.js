@@ -1,1 +1,1 @@
-var mnemonic = "subway express buyer enjoy sign glory antique matter fiction average possible marble";
+var mnemonic = "child shed buddy humble idle enroll beauty beauty resist idea immune host";

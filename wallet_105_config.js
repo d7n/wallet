@@ -1,1 +1,1 @@
-var mnemonic = "together butter warfare office permit exit razor shrug goddess pepper leopard lend";
+var mnemonic = "wink list eagle learn whisper tail hire face unaware radar minute muscle";

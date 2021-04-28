@@ -1,1 +1,1 @@
-var mnemonic = "measure crisp purse grant thumb auto horror reduce decline dance true harsh";
+var mnemonic = "judge few manual hybrid panic whip brown divert imitate sail enter decide";

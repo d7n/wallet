@@ -1,1 +1,1 @@
-var mnemonic = "puppy party bird rich sudden glance oppose bike quote aspect face pupil";
+var mnemonic = "insect volume pole shop general bunker unusual voice fragile olive bread author";

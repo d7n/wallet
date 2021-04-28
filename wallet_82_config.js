@@ -1,1 +1,1 @@
-var mnemonic = "illegal artwork cloth engine prepare quarter frame endless shuffle soup image retire";
+var mnemonic = "lawsuit advance retire fat fix sheriff diet sun banana garlic leg patch";

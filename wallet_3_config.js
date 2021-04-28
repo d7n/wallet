@@ -1,1 +1,1 @@
-var mnemonic = "announce boost day upset fiscal deputy able yard country clever enroll bus";
+var mnemonic = "gun empower romance treat eye hard shiver budget tray scrub garbage medal";

@@ -1,1 +1,1 @@
-var mnemonic = "jacket someone soccer endorse balance buzz citizen ankle faith measure drift electric";
+var mnemonic = "amused demise affair fresh author universe buddy piece tower van below crouch";

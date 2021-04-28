@@ -1,1 +1,1 @@
-var mnemonic = "dose pair glad stamp radio pet cattle need bullet glare cliff police";
+var mnemonic = "divide clutch parrot kid miracle shiver negative flavor disease cloud flame tired";

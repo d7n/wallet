@@ -1,1 +1,1 @@
-var mnemonic = "discover blur magnet minor scheme wire sad atom legal embody blood between";
+var mnemonic = "proud brisk melody defense seek monster plunge pig paddle plug put bitter";

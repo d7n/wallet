@@ -1,1 +1,1 @@
-var mnemonic = "yard story absent property laptop clerk swing tip slice follow volume flag";
+var mnemonic = "symbol series excess wonder aim praise trigger staff crack danger december awful";

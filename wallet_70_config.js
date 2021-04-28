@@ -1,1 +1,1 @@
-var mnemonic = "extra exhaust field position slam magic this couple marine ocean wash bounce";
+var mnemonic = "copy tenant dial canal giraffe false bird uphold impulse quality ball flavor";

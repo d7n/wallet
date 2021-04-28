@@ -1,1 +1,1 @@
-var mnemonic = "extend tuition there turn random busy marriage erosion timber tuna gallery pluck";
+var mnemonic = "taste envelope connect total creek talk jacket kid vote unit attend salute";

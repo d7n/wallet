@@ -1,1 +1,1 @@
-var mnemonic = "receive bar undo isolate marine ski law drastic ostrich budget expect ship";
+var mnemonic = "mouse embark code book shrug gallery claw fade dinner reflect aspect start";

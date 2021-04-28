@@ -1,1 +1,1 @@
-var mnemonic = "copper acoustic dismiss recipe subway express stumble eight patient blood once royal";
+var mnemonic = "scare milk squeeze pelican grit client bachelor tail mammal enemy require wet";

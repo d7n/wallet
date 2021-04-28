@@ -1,1 +1,1 @@
-var mnemonic = "also brisk flower valve category economy bone mammal fire bid fault leisure";
+var mnemonic = "draw harsh modify result topple torch fade globe grief ostrich vote become";

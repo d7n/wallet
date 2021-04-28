@@ -1,1 +1,1 @@
-var mnemonic = "unhappy image lecture donate sail useless result minute tuna enlist people badge";
+var mnemonic = "riot grab view slide lumber sound athlete escape shoe regular soon dial";

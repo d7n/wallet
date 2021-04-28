@@ -1,1 +1,1 @@
-var mnemonic = "dignity salon village issue style mule guitar castle action hen scrub valley";
+var mnemonic = "deposit life ignore chicken husband fiscal addict suggest glove inquiry glove verify";

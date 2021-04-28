@@ -1,1 +1,1 @@
-var mnemonic = "bachelor resource primary shrimp person novel pass poverty adult abandon output lock";
+var mnemonic = "fit memory inspire magic talent install nice silver burger sniff tiger half";

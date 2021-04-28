@@ -1,1 +1,1 @@
-var mnemonic = "old desert circle waste asset praise piano push castle silk nephew forget";
+var mnemonic = "robust cruel better crystal priority charge cycle diesel can keen measure trouble";

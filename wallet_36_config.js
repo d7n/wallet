@@ -1,1 +1,1 @@
-var mnemonic = "loop slam rely over shell suspect inquiry office craft else collect orphan";
+var mnemonic = "only quit penalty runway black penalty scare truly shove remind adapt arrest";

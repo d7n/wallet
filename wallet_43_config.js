@@ -1,1 +1,1 @@
-var mnemonic = "inhale false trash deliver derive citizen portion orange release museum word town";
+var mnemonic = "barely affair define total safe cupboard always bulk dust exact lens enact";

@@ -1,1 +1,1 @@
-var mnemonic = "ring suffer mandate rebuild soft pulp point glove draft garlic drip mule";
+var mnemonic = "broom recycle steak canvas lonely assist super place rug between decorate orchard";

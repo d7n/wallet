@@ -1,1 +1,1 @@
-var mnemonic = "coral drama skill crucial razor course rival scout member balcony luggage rib";
+var mnemonic = "impact method warm drink relief excite edge sudden major below maximum you";

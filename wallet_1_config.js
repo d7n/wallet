@@ -1,1 +1,1 @@
-var mnemonic = "educate address shuffle diagram main sell choice salt aunt brown broken dutch";
+var mnemonic = "laugh wing onion reveal enforce tomorrow hurdle rely praise time dilemma long";

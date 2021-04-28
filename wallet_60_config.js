@@ -1,1 +1,1 @@
-var mnemonic = "visa farm toilet choose flight pencil future planet soda habit tuna spring";
+var mnemonic = "toward hip trap exchange orbit flash motor across series month next dizzy";

@@ -1,1 +1,1 @@
-var mnemonic = "light total meadow mobile exercise begin lazy pact stool under never room";
+var mnemonic = "always poet arrest release notable snack taste tunnel lava enhance ankle follow";

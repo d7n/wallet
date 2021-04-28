@@ -1,1 +1,1 @@
-var mnemonic = "cruel anger crouch excess suspect slogan faith entire aunt opera sea much";
+var mnemonic = "peasant brick mercy post honey peasant patrol resist chaos dilemma sunset hockey";

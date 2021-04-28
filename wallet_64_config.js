@@ -1,1 +1,1 @@
-var mnemonic = "when identify virus clip toddler scorpion park crouch common face muscle embody";
+var mnemonic = "fence chicken festival cash silk zebra indicate air toy very motor people";

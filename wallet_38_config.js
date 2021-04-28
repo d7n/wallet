@@ -1,1 +1,1 @@
-var mnemonic = "milk pistol puzzle mail omit treat view clog vapor blast govern mad";
+var mnemonic = "ability erode mystery pioneer collect under wrestle recall wrestle method success bacon";

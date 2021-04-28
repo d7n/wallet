@@ -1,1 +1,1 @@
-var mnemonic = "flavor season begin endorse pitch drama cupboard mutual board novel twelve quiz";
+var mnemonic = "invite educate broom replace sadness hedgehog scissors prefer talent boss economy canvas";

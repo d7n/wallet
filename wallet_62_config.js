@@ -1,1 +1,1 @@
-var mnemonic = "purity wrestle loyal kind adapt cereal drip output rapid provide abandon cost";
+var mnemonic = "guard flip fashion census input pattern donate camp recipe century tuna across";

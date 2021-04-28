@@ -1,1 +1,1 @@
-var mnemonic = "access direct scrap remain cluster maximum type chimney remember spike ankle demand";
+var mnemonic = "law canoe swim bottom code wait venue blur ripple interest endorse asthma";

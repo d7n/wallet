@@ -1,1 +1,1 @@
-var mnemonic = "domain audit point begin fever circle unit hello error cloud language donkey";
+var mnemonic = "special panther tiny side feature lunch sell metal birth nest interest surface";

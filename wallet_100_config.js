@@ -1,1 +1,1 @@
-var mnemonic = "derive brain moral category perfect glimpse aunt plastic notice two lawsuit student";
+var mnemonic = "faint afford weasel stairs time solution typical journey cook proud empty honey";

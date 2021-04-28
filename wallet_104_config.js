@@ -1,1 +1,1 @@
-var mnemonic = "school salmon false saddle old surge wait answer sketch edit climb cash";
+var mnemonic = "mansion exercise stem finger local crunch never rescue creek capital ordinary term";
