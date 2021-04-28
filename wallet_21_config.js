@@ -1,1 +1,1 @@
-var mnemonic = "atom ginger grain swarm frequent post whisper view forget execute inflict science";
+var mnemonic = "panther vanish price injury transfer gym save play portion ancient that type";

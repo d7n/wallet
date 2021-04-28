@@ -1,1 +1,1 @@
-var mnemonic = "beef load solution renew walnut recall swallow urge state mimic kitchen family";
+var mnemonic = "fall butter urban beauty aware smile drum deny knee cousin priority blush";

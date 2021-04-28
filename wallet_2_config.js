@@ -1,1 +1,1 @@
-var mnemonic = "around wood tragic defy good water avoid spare excite defense test term";
+var mnemonic = "bulb merge goddess satoshi scrub expose calm inside capital argue lab switch";

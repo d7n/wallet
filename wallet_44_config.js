@@ -1,1 +1,1 @@
-var mnemonic = "arrange orient curve family actual general life brick inject top fiscal amount";
+var mnemonic = "shop record ill member theme tomorrow verify check wealth dinner oak home";

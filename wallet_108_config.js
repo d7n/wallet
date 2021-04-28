@@ -1,1 +1,1 @@
-var mnemonic = "vapor coyote exhibit neck arm high rug other nasty federal marine pole";
+var mnemonic = "dignity skate perfect rate fossil tenant puppy brush tenant august alcohol ship";

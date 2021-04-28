@@ -1,1 +1,1 @@
-var mnemonic = "guilt mass bundle erode inherit perfect nasty junk sentence pause blue rotate";
+var mnemonic = "sunny erupt damp service game medal system element scheme pattern shallow track";

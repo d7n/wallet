@@ -1,1 +1,1 @@
-var mnemonic = "slab cloud inherit special process morning zoo grape gossip aware matrix fatigue";
+var mnemonic = "travel border cry glow debris clean sibling veteran power space urban library";

@@ -1,1 +1,1 @@
-var mnemonic = "police enact lazy lens raise auction sight floor hedgehog remember sphere find";
+var mnemonic = "source sunset item erode donate make pepper chat school grace stairs stove";

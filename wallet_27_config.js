@@ -1,1 +1,1 @@
-var mnemonic = "now achieve praise home hurdle dune recycle license evidence friend reform fragile";
+var mnemonic = "ordinary foot horn sad payment science laugh nephew retreat bicycle please rely";

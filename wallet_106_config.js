@@ -1,1 +1,1 @@
-var mnemonic = "steak nut mosquito during melody kingdom benefit leopard buffalo ten chief fantasy";
+var mnemonic = "seed media answer practice heart power keep sing barrel what tiny science";

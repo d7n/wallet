@@ -1,1 +1,1 @@
-var mnemonic = "slender disorder cream erupt pizza enjoy shop client great gauge more left";
+var mnemonic = "helmet bullet rigid skull together reveal cement benefit arrange fatal crash develop";

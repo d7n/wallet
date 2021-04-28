@@ -1,1 +1,1 @@
-var mnemonic = "draft learn sniff cart pulse finish shy rally census arena someone journey";
+var mnemonic = "cabin setup want hole evoke crash convince guard drip unveil hat pink";

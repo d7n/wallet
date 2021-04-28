@@ -1,1 +1,1 @@
-var mnemonic = "crawl ozone misery frame slender right goose annual october quality memory concert";
+var mnemonic = "prepare speed this much final snake later confirm guide lamp material usual";

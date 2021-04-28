@@ -1,1 +1,1 @@
-var mnemonic = "occur solve tonight void old opera refuse common sphere reunion virtual current";
+var mnemonic = "box obey capable seat blind derive when piece fame march unfold mistake";

@@ -1,1 +1,1 @@
-var mnemonic = "coin bounce erosion guitar victory one solution vibrant agent left garbage practice";
+var mnemonic = "weekend toward spare artwork permit walk tribe moral resist catch person rate";

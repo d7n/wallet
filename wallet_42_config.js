@@ -1,1 +1,1 @@
-var mnemonic = "obscure permit riot subject system debate survey play swing foster arctic occur";
+var mnemonic = "distance theme jewel pyramid hero dash crucial casino behind spirit hospital service";

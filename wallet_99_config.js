@@ -1,1 +1,1 @@
-var mnemonic = "width path nut refuse accuse loan timber wink later sentence oval way";
+var mnemonic = "tired wrong slogan invite build second spike border render artist style expand";

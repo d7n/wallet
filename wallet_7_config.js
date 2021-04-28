@@ -1,1 +1,1 @@
-var mnemonic = "industry unusual thrive disagree pet few novel grab potato glad shrimp can";
+var mnemonic = "soul sauce cotton champion this burger ring april knee gentle grunt modify";

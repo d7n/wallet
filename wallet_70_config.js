@@ -1,1 +1,1 @@
-var mnemonic = "oyster spike stage mango garbage endorse obscure motor ski taxi moral super";
+var mnemonic = "sense guard unfair scene fashion wrap aunt swarm glory december furnace panda";

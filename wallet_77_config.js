@@ -1,1 +1,1 @@
-var mnemonic = "hen seven pottery congress rally blood become bid toddler furnace impose quit";
+var mnemonic = "ozone decorate quote ice fit remove stumble oppose caught put demise float";

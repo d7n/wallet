@@ -1,1 +1,1 @@
-var mnemonic = "lift egg tribe fence elevator frequent wheel sheriff quality couch gospel convince";
+var mnemonic = "strike indicate hobby domain dizzy air work hero primary expect minimum radio";

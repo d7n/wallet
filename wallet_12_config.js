@@ -1,1 +1,1 @@
-var mnemonic = "brass approve more glance loan fabric wrap plastic domain teach twelve laundry";
+var mnemonic = "range iron market unknown sniff share list plunge library toddler edit artefact";

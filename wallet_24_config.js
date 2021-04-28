@@ -1,1 +1,1 @@
-var mnemonic = "genius pitch guilt mystery accuse oven venue wasp pact hedgehog permit member";
+var mnemonic = "trap frequent prison what tag rubber like truck tenant person junk thrive";

@@ -1,1 +1,1 @@
-var mnemonic = "intact smoke sure north party stuff boil tube sense wash cradle license";
+var mnemonic = "expand visa measure eight sadness helmet system prefer fancy devote rigid glue";

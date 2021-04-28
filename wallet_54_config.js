@@ -1,1 +1,1 @@
-var mnemonic = "fence use snow blossom hungry teach antique endorse asset vast plunge indoor";
+var mnemonic = "left swap mask crystal peanut canvas enough conduct bundle isolate quit crunch";

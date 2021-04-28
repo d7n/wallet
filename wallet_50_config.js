@@ -1,1 +1,1 @@
-var mnemonic = "reopen genuine illegal front bean easy sweet horse inform impose produce range";
+var mnemonic = "hazard aspect purity reason hero soup tumble essence scrub tackle limit floor";

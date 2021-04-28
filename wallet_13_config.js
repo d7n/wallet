@@ -1,1 +1,1 @@
-var mnemonic = "limb fatal rifle way cliff gate aunt blossom pottery emerge erupt fever";
+var mnemonic = "exotic margin mail maid boy twice pill absurd slender reveal end hotel";

@@ -1,1 +1,1 @@
-var mnemonic = "giant sort milk hazard obscure excite special pen bless park curious rigid";
+var mnemonic = "document winter awake bachelor public orchard cute tank dutch project coach hammer";

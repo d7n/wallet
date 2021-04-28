@@ -1,1 +1,1 @@
-var mnemonic = "tackle elevator onion advance cry pioneer truth auto inform sunny cannon injury";
+var mnemonic = "make spawn become hero divorce believe jewel country decline citizen nephew quality";

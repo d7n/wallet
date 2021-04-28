@@ -1,1 +1,1 @@
-var mnemonic = "grief fit grow entire speed wine jeans loyal boss govern owner captain";
+var mnemonic = "assault topic dance carbon option tissue allow unfold curious envelope salon net";

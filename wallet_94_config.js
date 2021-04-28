@@ -1,1 +1,1 @@
-var mnemonic = "face cute salmon other phrase day prison bring industry fitness proud hole";
+var mnemonic = "comfort afraid wash scheme drop task gossip swamp depth bench mandate diamond";

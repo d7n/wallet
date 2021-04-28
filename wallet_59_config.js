@@ -1,1 +1,1 @@
-var mnemonic = "mom love artist response hollow exile brass obtain arrive congress fog vague";
+var mnemonic = "huge manage cheap electric abstract unable pyramid foam target moon regular news";

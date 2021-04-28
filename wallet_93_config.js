@@ -1,1 +1,1 @@
-var mnemonic = "net above cricket surround fish laugh potato october ivory jewel rookie robust";
+var mnemonic = "cattle keep slice other claim next hold kick female job master critic";

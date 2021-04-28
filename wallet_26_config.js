@@ -1,1 +1,1 @@
-var mnemonic = "imitate question bike vibrant erode rose nurse grain grief theme grape neutral";
+var mnemonic = "project asthma genius pupil congress attract vote hundred toddler tissue layer mistake";

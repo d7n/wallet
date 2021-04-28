@@ -1,1 +1,1 @@
-var mnemonic = "link combine tourist order lucky size vessel mad rapid remember ecology vibrant";
+var mnemonic = "clutch ladder text bonus cube divert electric purity extra this already also";

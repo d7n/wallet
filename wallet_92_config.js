@@ -1,1 +1,1 @@
-var mnemonic = "catalog enter impact illness moon cute load feel song game now inspire";
+var mnemonic = "energy badge frown wedding relax kick funny young audit custom forum trophy";

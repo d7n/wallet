@@ -1,1 +1,1 @@
-var mnemonic = "shed marble deny dinner copy six pottery despair trip song neck mass";
+var mnemonic = "much close animal family object seek wink boring fan chat ranch upgrade";

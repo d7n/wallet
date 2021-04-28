@@ -1,1 +1,1 @@
-var mnemonic = "scorpion dog scale panic trim injury uniform lesson one frost caution kit";
+var mnemonic = "vibrant foam second grunt water car focus dignity gold perfect boat success";

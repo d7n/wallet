@@ -1,1 +1,1 @@
-var mnemonic = "grunt seed radio remind only hover promote time flip deal oblige merge";
+var mnemonic = "busy tumble camera helmet sample sick genuine gas talk pistol camera tuna";

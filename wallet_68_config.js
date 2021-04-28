@@ -1,1 +1,1 @@
-var mnemonic = "toast merge main wild unknown step extend another reduce nothing business kitchen";
+var mnemonic = "stove mail figure custom burger vague wrong key vote size bunker slim";

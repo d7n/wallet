@@ -1,1 +1,1 @@
-var mnemonic = "addict weasel sister surge myth orient chalk consider umbrella game access obscure";
+var mnemonic = "okay pizza rescue deputy toast push mandate guitar lend adult leaf poem";

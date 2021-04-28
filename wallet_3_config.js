@@ -1,1 +1,1 @@
-var mnemonic = "you piece achieve method hat please person safe program trouble rent hero";
+var mnemonic = "obvious cabin advance side second exist cycle child mixture desert suit agent";

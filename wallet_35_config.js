@@ -1,1 +1,1 @@
-var mnemonic = "lounge pact busy aunt hungry load pipe attitude focus explain eager midnight";
+var mnemonic = "feel peasant strategy clown balance grass magic regret faint boring card own";

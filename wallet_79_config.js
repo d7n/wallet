@@ -1,1 +1,1 @@
-var mnemonic = "endorse circle habit close object icon shoulder giant above ranch soon tank";
+var mnemonic = "tenant priority brown together top wedding runway type arctic crowd lawsuit spray";

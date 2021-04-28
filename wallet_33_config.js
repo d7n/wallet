@@ -1,1 +1,1 @@
-var mnemonic = "dentist seven illness neglect decline boy tennis valve dog tower draw fruit";
+var mnemonic = "feature survey hamster near taste noble skirt record vote assume real era";

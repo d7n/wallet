@@ -1,1 +1,1 @@
-var mnemonic = "lunar ensure clinic animal wine melody myself theme loud leg snake play";
+var mnemonic = "rebuild nominee stereo skull scrap enemy jealous allow weapon suspect eager fury";

@@ -1,1 +1,1 @@
-var mnemonic = "settle volcano burger park little cricket earth gold used soon chief palm";
+var mnemonic = "auction shrug undo dentist crystal bounce atom high awful cargo focus coffee";

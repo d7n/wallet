@@ -1,1 +1,1 @@
-var mnemonic = "bird used segment setup trigger certain hope basket ethics fury heart habit";
+var mnemonic = "keep switch flight gorilla immune exact rotate sadness blush final run flat";

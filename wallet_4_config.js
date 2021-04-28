@@ -1,1 +1,1 @@
-var mnemonic = "mosquito exit latin another right ability notice wagon above moment wear lawn";
+var mnemonic = "van hospital pilot alert genuine balcony nerve wild ill fitness wreck door";

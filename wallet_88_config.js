@@ -1,1 +1,1 @@
-var mnemonic = "since term bean size assume label tissue galaxy slam shield sentence diary";
+var mnemonic = "donor robot present castle ramp dream cross hobby run tube extra whip";

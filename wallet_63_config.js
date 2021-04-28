@@ -1,1 +1,1 @@
-var mnemonic = "royal fault bitter sibling waste attitude athlete post reduce fun this twelve";
+var mnemonic = "gorilla west point brass forest rare husband labor visit maximum space range";

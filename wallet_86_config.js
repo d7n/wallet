@@ -1,1 +1,1 @@
-var mnemonic = "mixed time early exile wise analyst cart truth indicate screen intact cool";
+var mnemonic = "welcome pizza smile april caught double material best jaguar violin whisper breeze";

@@ -1,1 +1,1 @@
-var mnemonic = "moon zebra tray canoe prosper vote stone equal inch grow style trouble";
+var mnemonic = "comfort only decrease horse business side gadget excuse tiger trend depend glide";

@@ -1,1 +1,1 @@
-var mnemonic = "snap rally catch abstract agent stock easily arrange caught omit oppose casual";
+var mnemonic = "corn apple park brown shoe scout web load morning patient skin verify";

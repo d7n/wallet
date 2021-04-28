@@ -1,1 +1,1 @@
-var mnemonic = "average soccer accuse charge canvas police parade airport inmate grace veteran bless";
+var mnemonic = "connect faculty frost horn trap network exist grid comfort mango squeeze divert";

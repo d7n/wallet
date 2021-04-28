@@ -1,1 +1,1 @@
-var mnemonic = "vicious ancient eight mean cute curtain warm repair federal fiction dwarf frost";
+var mnemonic = "current visa priority swap join lumber cat brick desert wire absent ordinary";

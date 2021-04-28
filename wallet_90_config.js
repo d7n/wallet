@@ -1,1 +1,1 @@
-var mnemonic = "lend swift account lazy law hawk orient unlock canoe lobster broom trick";
+var mnemonic = "agree bottom apology puzzle magic color spare industry awful thrive gospel cable";

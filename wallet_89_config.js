@@ -1,1 +1,1 @@
-var mnemonic = "silk face arrest cargo shift repeat rhythm party one rack original food";
+var mnemonic = "stem cupboard guess system force middle glue ignore bring online segment trophy";

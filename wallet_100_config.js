@@ -1,1 +1,1 @@
-var mnemonic = "crane wealth entry hero embrace photo ring deposit host wonder rich olympic";
+var mnemonic = "device tape era trumpet broken argue defy know romance crumble abstract gain";

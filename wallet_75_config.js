@@ -1,1 +1,1 @@
-var mnemonic = "leisure design party robust typical oil pause journey have song angle fox";
+var mnemonic = "same script banana blast forest diesel absent cactus hungry law drift spatial";

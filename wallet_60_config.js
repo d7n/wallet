@@ -1,1 +1,1 @@
-var mnemonic = "melody blade poem jump draft gas discover fluid throw slogan resemble pet";
+var mnemonic = "arm cute yard prison exercise ask know decade hammer genre win mango";

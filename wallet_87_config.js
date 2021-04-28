@@ -1,1 +1,1 @@
-var mnemonic = "way trigger unique piano kid holiday lyrics social mind have attract advice";
+var mnemonic = "grace earn scissors shallow angry rug pave wait weird pottery globe noodle";

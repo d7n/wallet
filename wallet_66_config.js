@@ -1,1 +1,1 @@
-var mnemonic = "direct journey sniff topic insect drum job junior drum paddle bike time";
+var mnemonic = "trend enter fatal buffalo similar piece nasty thought away match maple never";

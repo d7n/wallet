@@ -1,1 +1,1 @@
-var mnemonic = "fitness alley maze dentist talent donate erase mimic intact weasel adult between";
+var mnemonic = "evidence kitten diagram multiply attack popular ship flip bring before blossom key";

@@ -1,1 +1,1 @@
-var mnemonic = "course among refuse spirit object road pause throw lazy drama chef host";
+var mnemonic = "equal betray quarter neck baby lava law wet oppose escape avocado rookie";

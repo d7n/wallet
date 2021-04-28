@@ -1,1 +1,1 @@
-var mnemonic = "talent abstract before actual master enable power gospel hamster eight swift fashion";
+var mnemonic = "decrease human behave stove doctor among dolphin post student actor mask nice";

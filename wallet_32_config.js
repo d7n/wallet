@@ -1,1 +1,1 @@
-var mnemonic = "fish bind useful hint ecology bean grief spike blanket aerobic camp labor";
+var mnemonic = "tourist situate hole liquid uphold melody alley matter hybrid middle safe cheap";

@@ -1,1 +1,1 @@
-var mnemonic = "milk theme artist box shoe broom heart taxi trust blouse evoke pudding";
+var mnemonic = "pass monitor proof monster tenant good video gasp sorry trial dust citizen";

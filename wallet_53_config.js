@@ -1,1 +1,1 @@
-var mnemonic = "control allow camera gallery poet ghost evolve angle seed cover enforce loyal";
+var mnemonic = "gadget height ranch ordinary wise female safe blanket economy bar sense field";

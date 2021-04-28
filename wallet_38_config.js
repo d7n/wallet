@@ -1,1 +1,1 @@
-var mnemonic = "debris dream goose acquire trim pitch topic extend jump giant decide reunion";
+var mnemonic = "below harsh sell green response solution neck manage quote bacon negative mystery";

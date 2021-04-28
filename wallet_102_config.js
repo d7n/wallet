@@ -1,1 +1,1 @@
-var mnemonic = "clip ranch busy earth horn eager cream nest magnet twin fork ladder";
+var mnemonic = "gravity mansion void prosper excess hood wedding rent feed force payment lift";

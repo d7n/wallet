@@ -1,1 +1,1 @@
-var mnemonic = "proud beef cage great file slush neutral senior easy lawn choose tenant";
+var mnemonic = "label glow account fitness art immense cross abandon sheriff reveal fall orient";

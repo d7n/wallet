@@ -1,1 +1,1 @@
-var mnemonic = "island guide clip tilt pigeon hen mammal grocery style thought fashion short";
+var mnemonic = "grocery expire crisp vapor jacket group example fatal injury script answer steel";

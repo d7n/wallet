@@ -1,1 +1,1 @@
-var mnemonic = "wise tomorrow moon still behave beauty leaf modify entry apart craft sure";
+var mnemonic = "humor session mixed slow garage worth meadow code brain blind talent tuna";

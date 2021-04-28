@@ -1,1 +1,1 @@
-var mnemonic = "walk recall entry flag bomb pudding list salute phrase rocket define panther";
+var mnemonic = "bracket bean long eagle goose anger advice stick must develop process venue";

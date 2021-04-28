@@ -1,1 +1,1 @@
-var mnemonic = "wheel oxygen museum uncover enjoy convince surface picture lonely ecology media cherry";
+var mnemonic = "explain obtain stick sponsor insane license lounge report case shrimp prison cloud";

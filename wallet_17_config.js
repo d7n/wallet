@@ -1,1 +1,1 @@
-var mnemonic = "force economy poverty return kick layer march baby scrub unique gain orbit";
+var mnemonic = "february catch project pigeon script chronic hurdle canyon vast cruise sock box";

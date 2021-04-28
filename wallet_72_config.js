@@ -1,1 +1,1 @@
-var mnemonic = "few daughter peasant math genre disagree shell surround agent swift chapter coil";
+var mnemonic = "left wide tired slush until advice toward toddler result miracle lady lend";

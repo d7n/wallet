@@ -1,1 +1,1 @@
-var mnemonic = "leaf cancel life claw month police aunt system swarm buddy clog public";
+var mnemonic = "fiction copy huge muscle punch cat chapter damp dish knock rotate glory";

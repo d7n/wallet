@@ -1,1 +1,1 @@
-var mnemonic = "tumble mechanic require jazz arena mango nominee old stomach tourist asset acquire";
+var mnemonic = "educate brass crash wing tissue below fury custom teach lucky drive inflict";

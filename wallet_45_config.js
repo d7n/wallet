@@ -1,1 +1,1 @@
-var mnemonic = "tuna lion wine seven spoil bunker funny govern phone soldier orange plastic";
+var mnemonic = "camp enough artist poem into ginger goddess because nothing weather vague bottom";

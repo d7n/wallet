@@ -1,1 +1,1 @@
-var mnemonic = "direct roof multiply various brief like knife report level hood jar require";
+var mnemonic = "virus assist mask tiny roof monkey feature exist stable ordinary potato comic";

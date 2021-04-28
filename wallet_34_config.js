@@ -1,1 +1,1 @@
-var mnemonic = "elbow salad school mother nice harsh bulk valley switch category struggle kind";
+var mnemonic = "tissue cotton ready health keep renew army hood river stick undo luggage";

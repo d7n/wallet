@@ -1,1 +1,1 @@
-var mnemonic = "ready program hammer pattern normal when actual wolf dragon worry arch inherit";
+var mnemonic = "heavy easily wheel hurt cruise able lion below void lift together abandon";

@@ -1,1 +1,1 @@
-var mnemonic = "lemon lens gold yellow success fine festival stairs seek pulse start any";
+var mnemonic = "grass snack aerobic virtual dawn drum report original when kitten primary debate";

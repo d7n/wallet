@@ -1,1 +1,1 @@
-var mnemonic = "coast blood high great enroll change mandate burden toe lawn craft topic";
+var mnemonic = "nature coffee panel lucky select thunder patch rescue puzzle acquire move fault";

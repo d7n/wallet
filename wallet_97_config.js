@@ -1,1 +1,1 @@
-var mnemonic = "crawl chief bean pizza portion knock brave venture ketchup mean scare silver";
+var mnemonic = "simple potato twice early squirrel pizza easy include vicious smooth move now";

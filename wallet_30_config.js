@@ -1,1 +1,1 @@
-var mnemonic = "also orbit stadium run before push swift duty coast dove immense drive";
+var mnemonic = "sleep vacuum copper present tip defy hammer loan chalk puzzle total sadness";
