@@ -1,1 +1,1 @@
-var mnemonic = "banner popular album fiction artefact expand section combine bracket crash romance pyramid";
+var mnemonic = "calm hamster buddy outside glove hold tag snack intact scheme dust critic";

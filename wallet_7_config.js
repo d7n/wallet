@@ -1,1 +1,1 @@
-var mnemonic = "boil turkey girl alone tone industry wedding mouse dilemma patient feed inform";
+var mnemonic = "surface message winner medal what way face social champion analyst spoil please";

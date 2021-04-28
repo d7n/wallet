@@ -1,1 +1,1 @@
-var mnemonic = "cash embrace reward hundred evolve hundred mutual flock asthma game awesome already";
+var mnemonic = "romance patrol blind curtain inquiry flush purse voyage cool tiny purpose task";

@@ -1,1 +1,1 @@
-var mnemonic = "wrist globe spoon replace wrist various high orchard catalog side window pulp";
+var mnemonic = "swallow awake couple stumble fragile worry grocery people switch cereal thank trim";

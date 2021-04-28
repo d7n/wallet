@@ -1,1 +1,1 @@
-var mnemonic = "help chalk destroy saddle clerk sunset degree choose piece dutch liquid aim";
+var mnemonic = "private small survey tired boost squirrel section design expose enemy expose fragile";

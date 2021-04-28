@@ -1,1 +1,1 @@
-var mnemonic = "paddle happy exile retreat original ginger pen private champion earth undo minute";
+var mnemonic = "silver melody vendor round era absent brick pudding multiply split excite exact";

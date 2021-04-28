@@ -1,1 +1,1 @@
-var mnemonic = "lizard balcony inherit multiply lesson adapt alcohol casino risk eagle early afford";
+var mnemonic = "empty struggle stairs wink amateur style month glass arch culture sudden fabric";

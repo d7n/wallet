@@ -1,1 +1,1 @@
-var mnemonic = "innocent join cluster carry cube coral park hammer twice extra pony ritual";
+var mnemonic = "athlete relief praise dwarf correct enjoy have abandon raise kiss faith busy";

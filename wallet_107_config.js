@@ -1,1 +1,1 @@
-var mnemonic = "mammal average road boil clever venue because country summer praise visit minimum";
+var mnemonic = "phone sibling couch sound use possible window science better setup tiny crack";

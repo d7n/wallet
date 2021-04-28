@@ -1,1 +1,1 @@
-var mnemonic = "expose rubber fiction solid brave head service guide belt convince drive elder";
+var mnemonic = "change actor shield deny series sponsor hand dilemma acoustic feel rubber naive";

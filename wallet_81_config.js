@@ -1,1 +1,1 @@
-var mnemonic = "join behave cherry shell mean logic dilemma remind unable track romance quote";
+var mnemonic = "rapid deer stick kind ramp fit oyster stable box tissue document brain";

@@ -1,1 +1,1 @@
-var mnemonic = "lottery expose report evil remind web limit gift fire sick auction pet";
+var mnemonic = "stage tape filter mango bid smile bring company harsh rotate coast excite";

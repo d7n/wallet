@@ -1,1 +1,1 @@
-var mnemonic = "year boat aunt click remember bicycle rural humble cover act cabbage route";
+var mnemonic = "cluster head lake year extend seek master twenty pipe memory maze glow";

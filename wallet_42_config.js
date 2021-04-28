@@ -1,1 +1,1 @@
-var mnemonic = "crime pulse derive caution atom rally minimum tennis town meadow concert able";
+var mnemonic = "door morning silk letter reduce wise sign that unveil victory stamp cupboard";

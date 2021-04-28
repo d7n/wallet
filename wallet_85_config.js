@@ -1,1 +1,1 @@
-var mnemonic = "net range pig license hybrid divert physical business busy plug sell fun";
+var mnemonic = "target clip pupil inner hamster hello settle patrol noble robot sense grab";

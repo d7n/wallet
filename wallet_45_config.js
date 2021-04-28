@@ -1,1 +1,1 @@
-var mnemonic = "review galaxy miracle avocado toast special talent day sea hole render cover";
+var mnemonic = "figure spawn question mandate crouch federal basic skin twin crumble hollow subject";

@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow shock energy panel network naive notice olympic furnace elite domain game";
+var mnemonic = "eager round kitten ritual marble cloth silly receive abandon wheat afford raven";

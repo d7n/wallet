@@ -1,1 +1,1 @@
-var mnemonic = "junior bullet life cherry over border record deny convince lumber custom rely";
+var mnemonic = "trigger patch romance autumn sketch soul asset predict misery swift pact debate";

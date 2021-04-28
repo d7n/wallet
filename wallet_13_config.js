@@ -1,1 +1,1 @@
-var mnemonic = "lion chalk goose saddle term hundred champion tomato arrow year draw soap";
+var mnemonic = "casual chef essence much buffalo category crazy goddess elegant deposit salmon depth";

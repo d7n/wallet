@@ -1,1 +1,1 @@
-var mnemonic = "tired alcohol champion cotton all utility hidden thank section base course canyon";
+var mnemonic = "regular head little mesh fossil gauge tenant trade jaguar clip space rookie";

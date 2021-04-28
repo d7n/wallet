@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo rude foot forest alcohol endorse timber crack shiver ocean tank dad";
+var mnemonic = "scare feed start cover federal dentist cabbage tail memory affair anger follow";

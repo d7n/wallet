@@ -1,1 +1,1 @@
-var mnemonic = "share need galaxy solve attend wrong eternal view sail vacuum kind few";
+var mnemonic = "million correct shoulder anxiety shine win green spider hidden castle credit usual";

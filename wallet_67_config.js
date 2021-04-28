@@ -1,1 +1,1 @@
-var mnemonic = "nominee body avocado obey mind write often quit north digital pill hamster";
+var mnemonic = "fetch cradle fragile unlock like entry actual execute nose hurdle fashion gospel";

@@ -1,1 +1,1 @@
-var mnemonic = "put wild harbor list tiny better veteran credit benefit clock forum run";
+var mnemonic = "team ripple morning asset link size walnut resource dial skull secret rice";

@@ -1,1 +1,1 @@
-var mnemonic = "teach blind cause pill window obey acquire castle vocal hard umbrella again";
+var mnemonic = "unit grunt ginger gym error thrive prize crash butter mixture eternal lyrics";

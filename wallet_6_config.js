@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo mention army focus clever twenty warrior huge rally poem palace roast";
+var mnemonic = "valve flat plastic sick useful math pelican mechanic churn guitar crush slice";

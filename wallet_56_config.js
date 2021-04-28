@@ -1,1 +1,1 @@
-var mnemonic = "tunnel pet lava scissors escape exist short frog message post shaft noble";
+var mnemonic = "strong tray era tent deliver social zone decide right world stuff order";

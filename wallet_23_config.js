@@ -1,1 +1,1 @@
-var mnemonic = "situate lonely trouble sweet roast injury impulse wear green food silent final";
+var mnemonic = "index health inner two secret stereo wrong afraid grief gold switch core";

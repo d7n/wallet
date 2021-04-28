@@ -1,1 +1,1 @@
-var mnemonic = "similar three acoustic tooth industry front swift maid useless length wine foam";
+var mnemonic = "apology state bunker glide chair display cash start hurdle future involve burger";

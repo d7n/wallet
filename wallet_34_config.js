@@ -1,1 +1,1 @@
-var mnemonic = "accuse usual much federal bag either all tackle mobile dilemma popular atom";
+var mnemonic = "good genius drill draw viable rapid village oak amount vote try spoon";

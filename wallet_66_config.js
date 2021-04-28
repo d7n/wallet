@@ -1,1 +1,1 @@
-var mnemonic = "inherit begin ceiling blame ketchup cargo various enroll young stay member tackle";
+var mnemonic = "fork humor mixed turn lend canal multiply detect capable fluid cute relax";

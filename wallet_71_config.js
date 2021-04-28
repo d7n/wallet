@@ -1,1 +1,1 @@
-var mnemonic = "insect will middle ice human program you drop elephant tuna tell fat";
+var mnemonic = "rib trap alley way cupboard lazy between jewel airport radar cactus mansion";

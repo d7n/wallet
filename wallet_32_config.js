@@ -1,1 +1,1 @@
-var mnemonic = "pig pact spawn tool waste target rural box wish season become cinnamon";
+var mnemonic = "board hope also defy diet surprise reflect cost wagon decrease expand recycle";

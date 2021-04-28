@@ -1,1 +1,1 @@
-var mnemonic = "pupil retreat bargain imitate doctor office question divorce swarm today walnut host";
+var mnemonic = "surprise dry capital adult truly museum mean curious awful sibling rice rocket";

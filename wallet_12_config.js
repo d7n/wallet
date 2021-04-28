@@ -1,1 +1,1 @@
-var mnemonic = "topic cabbage same juice negative short hollow buffalo elbow decade useful nature";
+var mnemonic = "vacant turtle monitor lift budget route uncover knee cotton sadness rug employ";

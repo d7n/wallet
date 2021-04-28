@@ -1,1 +1,1 @@
-var mnemonic = "direct nothing ring exhibit border blast hire fat retreat icon march hair";
+var mnemonic = "timber drive remove alarm guilt start march math call evil oppose load";

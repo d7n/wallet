@@ -1,1 +1,1 @@
-var mnemonic = "flock stone banner erupt jungle rose ability eight skin deposit bring reform";
+var mnemonic = "legend pledge patient donkey waste coin giant envelope motor endless young leaf";

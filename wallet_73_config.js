@@ -1,1 +1,1 @@
-var mnemonic = "gadget cruise swear swallow sun retreat exhaust twist guitar hurt crack sun";
+var mnemonic = "sad rain history damp bamboo arrow spend human spy shallow vapor lumber";

@@ -1,1 +1,1 @@
-var mnemonic = "egg trouble movie open worth tower now gift mushroom call claim bus";
+var mnemonic = "wine sadness fog hunt help any switch siege craft bargain three segment";

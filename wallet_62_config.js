@@ -1,1 +1,1 @@
-var mnemonic = "antenna skill border disagree process magnet spoil answer trash appear action moral";
+var mnemonic = "celery mixed wear truly poem echo history book banana step search federal";

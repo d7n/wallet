@@ -1,1 +1,1 @@
-var mnemonic = "casual reduce weekend street rain cherry grocery radio shield meat keep weird";
+var mnemonic = "monkey faint slab trend spray wise curtain mirror amazing assume boost nice";

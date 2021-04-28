@@ -1,1 +1,1 @@
-var mnemonic = "daughter cart talent ahead useless pioneer novel seven rural auction spread later";
+var mnemonic = "gesture illegal world scatter ugly wage man minor shoulder false chef access";

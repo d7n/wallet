@@ -1,1 +1,1 @@
-var mnemonic = "hobby december jaguar rail claw warm hip ugly foster response can bus";
+var mnemonic = "dismiss inmate awake hammer journey misery glance tent enact manage veteran end";

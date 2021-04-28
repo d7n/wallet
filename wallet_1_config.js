@@ -1,1 +1,1 @@
-var mnemonic = "enable supreme ridge wash south gap company wrap raven umbrella arrive panther";
+var mnemonic = "cave curtain trumpet fortune begin stamp bag rail either glove bulb sample";

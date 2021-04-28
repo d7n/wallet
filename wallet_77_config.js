@@ -1,1 +1,1 @@
-var mnemonic = "mixed renew legal prepare response clog left bachelor invite bronze canoe tongue";
+var mnemonic = "spatial figure depend story rare audit chest scissors pudding taxi peanut must";

@@ -1,1 +1,1 @@
-var mnemonic = "park improve game click talent illness trade exit patrol miracle setup olympic";
+var mnemonic = "west cheese mango pluck dry crash away relax burst rifle charge hat";

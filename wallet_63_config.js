@@ -1,1 +1,1 @@
-var mnemonic = "economy risk brother entire dust cover soccer cargo face return food resource";
+var mnemonic = "like story funny dice two mammal milk order sun flee luxury exhibit";

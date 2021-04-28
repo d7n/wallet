@@ -1,1 +1,1 @@
-var mnemonic = "journey march loyal glory urge hollow damage beef crouch finger exhibit use";
+var mnemonic = "siege tank envelope girl muscle grace pumpkin barely dose diagram boost famous";

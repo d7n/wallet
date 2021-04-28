@@ -1,1 +1,1 @@
-var mnemonic = "stamp multiply swift melt license cushion benefit roast aspect source jump virus";
+var mnemonic = "road boost bamboo diesel sunset release pioneer pledge visa mask crowd jump";

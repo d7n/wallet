@@ -1,1 +1,1 @@
-var mnemonic = "lesson maze joke soccer treat vacant coffee skull fuel vital sentence silver";
+var mnemonic = "key network jar much airport vivid pulse market peanut whale oblige wise";

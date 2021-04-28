@@ -1,1 +1,1 @@
-var mnemonic = "trigger discover sphere return exact gain allow client bone twin power vicious";
+var mnemonic = "furnace token race aware craft zebra off just drill notable differ interest";

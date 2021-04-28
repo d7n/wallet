@@ -1,1 +1,1 @@
-var mnemonic = "wise leg media crouch ability unhappy disagree drink there brown submit rail";
+var mnemonic = "day slot silk hospital zone reason exact test pole squeeze install clever";

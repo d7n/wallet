@@ -1,1 +1,1 @@
-var mnemonic = "trial swarm elevator rookie vanish raccoon kind hunt under twelve fashion biology";
+var mnemonic = "sadness man pepper divorce dry sad pen foster have wave write jaguar";

@@ -1,1 +1,1 @@
-var mnemonic = "example olympic isolate bird web razor pencil blue future void throw source";
+var mnemonic = "display gorilla harvest great crisp hen cook normal wink day injury roof";

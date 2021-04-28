@@ -1,1 +1,1 @@
-var mnemonic = "confirm sugar extend across just manage quote permit subway drop amused fancy";
+var mnemonic = "trust reason tunnel spin shaft defense easy question fetch enough pyramid hotel";

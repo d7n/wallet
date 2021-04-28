@@ -1,1 +1,1 @@
-var mnemonic = "north rib rival act own giggle sheriff gather frost van dove tool";
+var mnemonic = "twice reveal vehicle ensure online leopard start metal water praise shallow rain";

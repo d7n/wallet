@@ -1,1 +1,1 @@
-var mnemonic = "grid dwarf time diary notice right wedding trash satoshi tide dad absurd";
+var mnemonic = "harbor distance tube hammer response news exchange remain hair pulse approve excite";

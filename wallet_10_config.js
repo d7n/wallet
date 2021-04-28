@@ -1,1 +1,1 @@
-var mnemonic = "book chair crystal ethics olive chair snake tiger vendor burst grid gather";
+var mnemonic = "cousin entire caution situate kitchen crisp legal symbol cactus track rocket bulk";

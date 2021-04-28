@@ -1,1 +1,1 @@
-var mnemonic = "hub midnight salon hello congress know opera response nut teach ocean cluster";
+var mnemonic = "invite giraffe two solution dish hood hunt clown mom destroy thought setup";

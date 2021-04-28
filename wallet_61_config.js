@@ -1,1 +1,1 @@
-var mnemonic = "rival joy slam disorder chronic swim wise indoor uphold divert device pluck";
+var mnemonic = "shed excess frequent turkey limit guess broom strong urge dragon minimum upper";

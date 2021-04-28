@@ -1,1 +1,1 @@
-var mnemonic = "craft glow typical develop fork actual filter romance awful glimpse replace seat";
+var mnemonic = "antenna vibrant couch summer promote brown stereo later razor bread bicycle cheap";

@@ -1,1 +1,1 @@
-var mnemonic = "ski assault gate fix cover scatter tackle bridge derive cross gallery van";
+var mnemonic = "suit coral window grief scheme famous able hedgehog stove chef pudding razor";

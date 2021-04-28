@@ -1,1 +1,1 @@
-var mnemonic = "dose prison broom toy brown someone marine picture end tuna crowd umbrella";
+var mnemonic = "bench nation stadium poverty april zero hill senior spare attack camera return";

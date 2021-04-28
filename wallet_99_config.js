@@ -1,1 +1,1 @@
-var mnemonic = "together gate defense fix bottom angry upon cruise civil slide law garage";
+var mnemonic = "spare employ usual asthma floor dose spread soap found weasel glow debris";

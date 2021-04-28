@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo suggest top flee kite core feed notice inject tortoise miracle simple";
+var mnemonic = "pistol worth kit miss woman bird pair people ripple this sustain monitor";

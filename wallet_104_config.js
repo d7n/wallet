@@ -1,1 +1,1 @@
-var mnemonic = "oppose pause frame company rib movie cycle winner host isolate finish into";
+var mnemonic = "salt answer asset crucial stage tower alcohol fee ocean minute eager detail";

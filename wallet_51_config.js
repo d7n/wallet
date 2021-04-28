@@ -1,1 +1,1 @@
-var mnemonic = "demand measure leisure display trumpet wild east category season until suffer rotate";
+var mnemonic = "enjoy below gate subject embark inherit guitar diet economy source husband clog";

@@ -1,1 +1,1 @@
-var mnemonic = "unit auction brother absent clap grace fatigue bullet rose announce teach gadget";
+var mnemonic = "own ethics guide wait rhythm situate general dad virus dog image impose";

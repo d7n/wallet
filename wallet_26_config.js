@@ -1,1 +1,1 @@
-var mnemonic = "shop cereal flee lady wealth alcohol lazy ring wash tide pole oven";
+var mnemonic = "uphold soup direct squeeze cousin smooth vague intact soccer smile result admit";

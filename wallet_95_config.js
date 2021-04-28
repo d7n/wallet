@@ -1,1 +1,1 @@
-var mnemonic = "sausage reward matter doctor lounge creek invest blame fortune miss idle aerobic";
+var mnemonic = "leg east usual eye clever dad help endorse lyrics lottery music nose";

@@ -1,1 +1,1 @@
-var mnemonic = "guitar order upgrade dance load cream earth lumber eagle deer sugar sweet";
+var mnemonic = "museum oxygen health maximum front genre route arrange atom van vapor volume";

@@ -1,1 +1,1 @@
-var mnemonic = "velvet subway raise pond note force gasp deposit false solar flat churn";
+var mnemonic = "arrow bamboo flee sock enrich emotion ignore fabric maple sign cloth tail";

@@ -1,1 +1,1 @@
-var mnemonic = "loop spatial supply rain example ceiling fatal basket real creek venture tent";
+var mnemonic = "pulp capable auto awake run rule cruise math sausage shoot afford armed";

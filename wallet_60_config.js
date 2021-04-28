@@ -1,1 +1,1 @@
-var mnemonic = "hospital remove shrimp consider junk wait elegant spike innocent improve peanut expand";
+var mnemonic = "angry tilt any clump blanket sleep mango staff digital bid nothing crater";

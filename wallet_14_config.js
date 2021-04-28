@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit nurse aware roast lion control radio company earth coffee eternal senior";
+var mnemonic = "immune accuse slow foster idle much topple main royal stem learn hazard";

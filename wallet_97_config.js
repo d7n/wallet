@@ -1,1 +1,1 @@
-var mnemonic = "kid harbor tennis visit away shield mercy evoke worth ill found work";
+var mnemonic = "runway sibling solar yellow dirt venue cinnamon crush dog congress loyal farm";

@@ -1,1 +1,1 @@
-var mnemonic = "lesson hunt wasp exotic dismiss soda cinnamon salmon lake vast business amount";
+var mnemonic = "phrase destroy leave salt table orchard brain pet smile advance method slide";

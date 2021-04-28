@@ -1,1 +1,1 @@
-var mnemonic = "response clay loop print measure twenty mountain sure scrub venue sand gap";
+var mnemonic = "half funny child essay fiscal script toss oven music next protect canyon";

@@ -1,1 +1,1 @@
-var mnemonic = "myself assist health senior credit kidney robot palace toy world leader cereal";
+var mnemonic = "increase often reunion town orphan huge spawn quality apart develop paper sort";

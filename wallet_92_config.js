@@ -1,1 +1,1 @@
-var mnemonic = "market cost rescue enroll record congress jealous medal release unusual give dog";
+var mnemonic = "uncover clip risk crucial bar ivory shrug worry stand squirrel oval hour";

@@ -1,1 +1,1 @@
-var mnemonic = "limit aspect open omit board private upon debate aunt vivid angle copper";
+var mnemonic = "swallow rain reunion decorate fury velvet unfair best high curious desert stone";

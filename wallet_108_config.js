@@ -1,1 +1,1 @@
-var mnemonic = "renew pluck agent razor risk lend bleak fetch budget language minute random";
+var mnemonic = "inject sight gravity wheel decide custom stomach hour kitchen recall ill inside";

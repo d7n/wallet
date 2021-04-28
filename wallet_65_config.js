@@ -1,1 +1,1 @@
-var mnemonic = "six wheat obtain humble bid garment fire able rule girl toy figure";
+var mnemonic = "else faith seminar blame afford web exchange use skin world leader wrestle";

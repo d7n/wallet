@@ -1,1 +1,1 @@
-var mnemonic = "eye regret enroll kind machine tourist please useful wait wait inner lesson";
+var mnemonic = "sleep yard flavor fly seminar drum sand text letter feed balance champion";

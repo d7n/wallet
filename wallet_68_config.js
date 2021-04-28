@@ -1,1 +1,1 @@
-var mnemonic = "cradle rapid wear erupt present impose stumble shoulder salute giraffe distance bargain";
+var mnemonic = "give license lizard test run tattoo supply fury spray swim crater session";

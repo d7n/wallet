@@ -1,1 +1,1 @@
-var mnemonic = "sponsor nominee margin canvas habit grace sun attend become debris hard dumb";
+var mnemonic = "sort recall gold target uncle foam apple exchange combine boy amused unlock";

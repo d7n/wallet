@@ -1,1 +1,1 @@
-var mnemonic = "smile coconut foam trust pudding boss cushion because load gown dwarf razor";
+var mnemonic = "royal speed attend reward pair unit shoot inmate cream scrub accuse rival";

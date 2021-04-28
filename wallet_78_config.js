@@ -1,1 +1,1 @@
-var mnemonic = "hybrid oyster clutch silly music include obscure want cube hungry vocal fat";
+var mnemonic = "mean labor identify secret unhappy dentist end purchase gasp cheese joke curious";
