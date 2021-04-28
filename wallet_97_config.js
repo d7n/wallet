@@ -1,1 +1,1 @@
-var mnemonic = "mimic opinion typical wrap dilemma hello early click hill fruit demise crisp";
+var mnemonic = "entry record episode cash walnut bottom engine insane exhaust pear grass admit";

@@ -1,1 +1,1 @@
-var mnemonic = "panda poem machine random thumb rather random stomach supply quick patient initial";
+var mnemonic = "unit cat wing spoon inject zone invest enact matter moon include have";

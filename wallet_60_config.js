@@ -1,1 +1,1 @@
-var mnemonic = "budget term affair deny stove flee crouch cage maid surround verify depart";
+var mnemonic = "hybrid february void shoot weasel color ability spider antenna shield bacon blur";

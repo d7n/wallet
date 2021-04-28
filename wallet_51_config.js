@@ -1,1 +1,1 @@
-var mnemonic = "hat usual fashion then walnut before employ stage test smooth remove oak";
+var mnemonic = "bulb magic protect domain hat worry message total start ask expire beach";

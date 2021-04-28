@@ -1,1 +1,1 @@
-var mnemonic = "spray radar foster duck remind provide stairs secret play ticket wash problem";
+var mnemonic = "force client material evolve stone valley occur web rude regular price relief";

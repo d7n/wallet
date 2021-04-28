@@ -1,1 +1,1 @@
-var mnemonic = "isolate gauge staff hybrid federal predict memory chase silent celery employ illness";
+var mnemonic = "slogan boy pitch layer limb magnet own attract sister lion record action";

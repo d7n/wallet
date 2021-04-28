@@ -1,1 +1,1 @@
-var mnemonic = "voice struggle palm thank scissors gate raccoon twin student recycle close identify";
+var mnemonic = "gentle steel easily memory champion zone picnic island waste fire spawn elite";

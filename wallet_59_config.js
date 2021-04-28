@@ -1,1 +1,1 @@
-var mnemonic = "volume ring snake between furnace know lobster tourist raven stomach train depend";
+var mnemonic = "shine regular public theory now mind kingdom symbol then elite artwork spare";

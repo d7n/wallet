@@ -1,1 +1,1 @@
-var mnemonic = "moon talk pond memory barely divorce discover daring bring often unit mule";
+var mnemonic = "rely jump property conduct spawn maze door panther inherit idle luxury universe";

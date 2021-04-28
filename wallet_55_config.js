@@ -1,1 +1,1 @@
-var mnemonic = "future pretty indoor dismiss quantum hawk damp wink recall disorder ice example";
+var mnemonic = "purpose venture use hockey exist fan metal elite gauge make cute grain";

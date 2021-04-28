@@ -1,1 +1,1 @@
-var mnemonic = "earth robot enforce that trade weasel design have push nerve helmet snack";
+var mnemonic = "distance pluck tube envelope smooth what relief ugly dumb achieve dentist depth";

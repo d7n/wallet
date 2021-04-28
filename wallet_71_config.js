@@ -1,1 +1,1 @@
-var mnemonic = "tiger already remind adjust merge common such camp please atom six volcano";
+var mnemonic = "peasant despair culture stem snack river claim trigger good east prevent armor";

@@ -1,1 +1,1 @@
-var mnemonic = "liberty where device guess twist gesture morning two apart asset stuff mixed";
+var mnemonic = "despair deal tip where suffer tilt away brother humor ill build crime";

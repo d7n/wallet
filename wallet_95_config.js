@@ -1,1 +1,1 @@
-var mnemonic = "palm tobacco dismiss federal magic now rail animal share hello fix lens";
+var mnemonic = "police rough mutual bird gate aim subway hurry welcome effort zero upset";

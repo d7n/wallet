@@ -1,1 +1,1 @@
-var mnemonic = "caught update enact nation arrow outer foster taste arrest distance call age";
+var mnemonic = "fringe laptop mirror muscle mad post edge glance punch lottery boost worry";

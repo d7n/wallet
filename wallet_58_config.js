@@ -1,1 +1,1 @@
-var mnemonic = "uncover exotic crater figure text clarify river verb model fix feature city";
+var mnemonic = "stock oven journey nuclear canvas dinner mushroom flee pretty ritual buzz copy";

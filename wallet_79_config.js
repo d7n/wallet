@@ -1,1 +1,1 @@
-var mnemonic = "unusual almost later nation idle away unaware mesh yellow perfect sugar ensure";
+var mnemonic = "giant volcano cricket satisfy group idle milk spray toddler parade catalog decade";

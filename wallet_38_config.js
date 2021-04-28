@@ -1,1 +1,1 @@
-var mnemonic = "convince canoe wonder vocal accuse common hole maze vendor visual shiver pass";
+var mnemonic = "avoid bubble narrow rhythm own labor good awake transfer concert flip bundle";

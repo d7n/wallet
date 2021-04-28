@@ -1,1 +1,1 @@
-var mnemonic = "close elder just convince once list diamond collect whip rotate cattle silver";
+var mnemonic = "promote acoustic crisp ancient wheel path poem mango position theme cube sick";

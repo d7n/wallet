@@ -1,1 +1,1 @@
-var mnemonic = "orchard genre library assume rail autumn quick fine fence harsh suffer analyst";
+var mnemonic = "govern crash warfare minor grow property fit broken chronic rough flag awkward";

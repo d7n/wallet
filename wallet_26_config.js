@@ -1,1 +1,1 @@
-var mnemonic = "spike brain illegal evoke educate deny adjust danger faculty viable luggage auction";
+var mnemonic = "release adult police cushion process arch hip floor sand shine unit expect";

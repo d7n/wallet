@@ -1,1 +1,1 @@
-var mnemonic = "drum write stem among monkey cute corn plug tomorrow wheat coffee guess";
+var mnemonic = "wasp practice stairs cross elevator snow essay loyal arrest barrel decrease math";

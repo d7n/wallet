@@ -1,1 +1,1 @@
-var mnemonic = "vanish catch valve tell gaze blade cram maid girl social blouse laundry";
+var mnemonic = "avoid palace menu limit popular eye wrap place sketch comfort visit census";

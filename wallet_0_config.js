@@ -1,1 +1,1 @@
-var mnemonic = "door song tank royal lecture prize slush fantasy special inspire chunk leave";
+var mnemonic = "vacant timber peasant awful rhythm crime marriage aerobic page indicate friend tube";

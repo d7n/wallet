@@ -1,1 +1,1 @@
-var mnemonic = "dwarf draft dust gesture bar struggle resource venue canal hover dice foster";
+var mnemonic = "pill open satoshi mirror riot payment average fiber twenty devote enough hollow";

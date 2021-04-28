@@ -1,1 +1,1 @@
-var mnemonic = "dance bulb eager memory salon fat stay nerve boring federal giggle rule";
+var mnemonic = "twenty humble tragic eager fire buzz toy park ten cost bench cave";

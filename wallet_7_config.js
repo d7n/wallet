@@ -1,1 +1,1 @@
-var mnemonic = "chimney glance post team barely jewel address journey naive giraffe barely mail";
+var mnemonic = "one empower earn load wild shaft avoid shrimp rhythm half erode whip";

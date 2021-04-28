@@ -1,1 +1,1 @@
-var mnemonic = "rather proud nation west join light warfare future weasel hockey vehicle desert";
+var mnemonic = "join aerobic amount aware extend despair amount tool humor scrub where gain";

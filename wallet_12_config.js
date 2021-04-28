@@ -1,1 +1,1 @@
-var mnemonic = "nation merge brown dignity miss employ limit sauce soda wife coach script";
+var mnemonic = "plastic half rifle wild truck electric vibrant eyebrow sick critic slide sell";

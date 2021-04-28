@@ -1,1 +1,1 @@
-var mnemonic = "web blind income coin merry million uniform flat soccer empower nothing tower";
+var mnemonic = "bridge enter what pitch various lady chest just copy faith race matrix";

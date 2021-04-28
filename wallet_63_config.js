@@ -1,1 +1,1 @@
-var mnemonic = "bubble grant panic amount system chicken inch rent promote salmon father club";
+var mnemonic = "fat sentence soda legal connect shoulder inhale discover caught level hill alter";

@@ -1,1 +1,1 @@
-var mnemonic = "mercy combine evil citizen boost night behave luxury accuse bird smoke merry";
+var mnemonic = "bachelor walnut carry twice slogan drill immense key dignity raven because brand";

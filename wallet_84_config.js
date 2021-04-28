@@ -1,1 +1,1 @@
-var mnemonic = "hero garment cattle enrich side drastic tube evidence text spot frog student";
+var mnemonic = "media goat wasp novel love quiz absorb erupt desert horror wreck guard";

@@ -1,1 +1,1 @@
-var mnemonic = "snap typical hollow people zero table phone prepare wink six crime wrist";
+var mnemonic = "fall between adjust slim verify thunder safe salute gossip start spirit scorpion";

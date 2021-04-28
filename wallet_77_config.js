@@ -1,1 +1,1 @@
-var mnemonic = "bread aerobic runway pepper cart venture tail town borrow fatal castle tent";
+var mnemonic = "join mosquito claim wrist drive ticket never develop casino measure wrestle pony";

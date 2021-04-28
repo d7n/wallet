@@ -1,1 +1,1 @@
-var mnemonic = "peace danger pluck mistake jealous web occur upon grid slam powder unlock";
+var mnemonic = "joke crazy knee disorder collect moment wild shop glow half put able";

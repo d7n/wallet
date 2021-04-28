@@ -1,1 +1,1 @@
-var mnemonic = "oxygen play pill food few struggle cost beauty blame pair winner enforce";
+var mnemonic = "cup accuse illness volcano despair disagree spray since soul stamp priority frozen";

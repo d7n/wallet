@@ -1,1 +1,1 @@
-var mnemonic = "venture sport tell timber define upon loan various wrap owner course reduce";
+var mnemonic = "picture witness glass robot goat pony forest disease label citizen afford satoshi";

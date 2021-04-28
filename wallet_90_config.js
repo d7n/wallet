@@ -1,1 +1,1 @@
-var mnemonic = "rural angry cherry remain bridge stone case border athlete top neutral globe";
+var mnemonic = "grant save legal run source pool balance tribe alter analyst kiwi chest";

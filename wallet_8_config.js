@@ -1,1 +1,1 @@
-var mnemonic = "danger inhale drift setup water scare ostrich detail bounce settle when muscle";
+var mnemonic = "crew bind ramp crazy physical pistol essence coast cigar risk hold shoot";

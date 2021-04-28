@@ -1,1 +1,1 @@
-var mnemonic = "ordinary hover yellow cannon alert cliff vicious kingdom toy expose type eye";
+var mnemonic = "multiply volume easy mechanic system nurse faculty you crunch glad often thumb";

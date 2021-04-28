@@ -1,1 +1,1 @@
-var mnemonic = "mixed usual vapor duck fiscal range above pupil glove alone stock satoshi";
+var mnemonic = "frog wolf rough device orphan athlete fury security program gym slice vault";

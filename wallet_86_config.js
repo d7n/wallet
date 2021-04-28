@@ -1,1 +1,1 @@
-var mnemonic = "mask early predict expect spawn brush logic flip boy august elevator term";
+var mnemonic = "nest soft air moment impose result remove hub hundred twist wave ladder";

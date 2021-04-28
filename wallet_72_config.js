@@ -1,1 +1,1 @@
-var mnemonic = "mesh shock paper hen today rug jacket million aspect circle pen double";
+var mnemonic = "zoo scrub eagle desert arrive nature brown fan critic often target regular";

@@ -1,1 +1,1 @@
-var mnemonic = "exotic legal pony attitude general body uncle wire lottery mobile fee little";
+var mnemonic = "grab wealth garage warm hammer language boil tooth catch arch leave hire";

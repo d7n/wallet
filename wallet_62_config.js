@@ -1,1 +1,1 @@
-var mnemonic = "cousin project brick trash spray infant diamond jeans achieve return advice pulp";
+var mnemonic = "convince crucial increase clay item turkey eight canvas vicious truck eye original";

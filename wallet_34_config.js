@@ -1,1 +1,1 @@
-var mnemonic = "chief family fever spare vital work pepper festival fiber puppy flock install";
+var mnemonic = "burden pottery favorite saddle cash bid bring dolphin cover hidden egg welcome";

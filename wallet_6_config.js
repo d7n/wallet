@@ -1,1 +1,1 @@
-var mnemonic = "card clap fit carpet model wait chief mean above chat kite donkey";
+var mnemonic = "artwork crowd broccoli fall warrior wet region spell diesel famous claw frozen";

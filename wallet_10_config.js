@@ -1,1 +1,1 @@
-var mnemonic = "later yellow glove embrace promote hurdle begin boy canoe mention false situate";
+var mnemonic = "visit tomato win book target next inject logic bulk tape giggle kingdom";

@@ -1,1 +1,1 @@
-var mnemonic = "cargo rare vital ice unveil alert icon height fun venture hunt skull";
+var mnemonic = "hospital cheap include there wagon fiber afford erosion current matrix quick steak";

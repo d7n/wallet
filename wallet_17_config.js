@@ -1,1 +1,1 @@
-var mnemonic = "frost nut scheme night they weather fresh stage weird prosper crisp deliver";
+var mnemonic = "simple snake control clever today remember fan suffer final bottom phrase person";

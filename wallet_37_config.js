@@ -1,1 +1,1 @@
-var mnemonic = "uphold daughter drill toss various click surround machine brick gym mechanic pink";
+var mnemonic = "absent slam pool people decade brother cattle copy brother script roast term";

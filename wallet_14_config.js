@@ -1,1 +1,1 @@
-var mnemonic = "release hamster impact track flight business unknown practice coin few salmon spike";
+var mnemonic = "response height bonus giggle actual either mask heavy clerk evolve man holiday";

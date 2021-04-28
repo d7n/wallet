@@ -1,1 +1,1 @@
-var mnemonic = "comfort rhythm climb surge sense champion vanish citizen cabbage axis planet super";
+var mnemonic = "deliver train medal fade search choice limit song level thunder planet record";

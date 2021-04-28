@@ -1,1 +1,1 @@
-var mnemonic = "climb roof genius insect gorilla elder dress drink convince rookie shell legal";
+var mnemonic = "own length alter toy sport coconut vocal test behind soccer robust rough";

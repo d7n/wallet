@@ -1,1 +1,1 @@
-var mnemonic = "eager similar height private diamond priority live object flat snap tornado eager";
+var mnemonic = "stick tide bundle harbor brother permit idle link lion this reform bridge";

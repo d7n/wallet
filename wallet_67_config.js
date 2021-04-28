@@ -1,1 +1,1 @@
-var mnemonic = "youth decade marriage holiday unknown tornado enough common merry execute aware maple";
+var mnemonic = "fossil crumble donate april adult grow frost cliff report burden exercise include";

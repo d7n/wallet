@@ -1,1 +1,1 @@
-var mnemonic = "arrest verify sphere grain spell try nasty flash bronze antenna abuse lecture";
+var mnemonic = "penalty child afraid century silver panther middle voyage mammal decide edge remember";

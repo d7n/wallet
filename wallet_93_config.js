@@ -1,1 +1,1 @@
-var mnemonic = "cluster camp claim wheat know feel collect manage proud trend beyond glance";
+var mnemonic = "believe kit fresh paddle quiz rose ticket glance bleak patch crew thought";

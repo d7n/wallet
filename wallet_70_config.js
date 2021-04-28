@@ -1,1 +1,1 @@
-var mnemonic = "error medal card sugar hover another cake stick guilt keep horn awkward";
+var mnemonic = "chief neutral auto will desk heavy project dust talent first vibrant forward";

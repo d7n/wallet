@@ -1,1 +1,1 @@
-var mnemonic = "atom rural wrist column patrol total engage demise soap exhaust offer hospital";
+var mnemonic = "aunt auto legal family spoil venue deliver flower pave globe inspire use";

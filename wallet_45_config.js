@@ -1,1 +1,1 @@
-var mnemonic = "leisure fortune rough south snap weekend slow debate picture pitch hen broom";
+var mnemonic = "regret also hotel rhythm episode law usual present frost strategy region prison";

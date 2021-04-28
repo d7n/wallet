@@ -1,1 +1,1 @@
-var mnemonic = "comfort salad final move wasp chimney angry lobster orchard save foam link";
+var mnemonic = "warrior grunt recipe apology depth retreat powder inspire arrive modify open actor";

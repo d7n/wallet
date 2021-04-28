@@ -1,1 +1,1 @@
-var mnemonic = "broken wait route army nose fantasy sight legend canoe style elbow crunch";
+var mnemonic = "shiver accident distance vapor another borrow upon save recall grunt differ near";

@@ -1,1 +1,1 @@
-var mnemonic = "slot man clay fancy primary shiver adapt odor promote draw spare dwarf";
+var mnemonic = "power home friend rely slot six medal badge ship veteran bundle cradle";

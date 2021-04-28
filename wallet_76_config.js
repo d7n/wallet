@@ -1,1 +1,1 @@
-var mnemonic = "acquire trial during knock add gallery guard blush toss layer off toddler";
+var mnemonic = "plate upon attitude there reason solid cluster pride dentist base width attract";

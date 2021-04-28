@@ -1,1 +1,1 @@
-var mnemonic = "arrow machine canoe mass minute citizen fetch sell vague someone mutual antique";
+var mnemonic = "lemon choose across scene guilt rally churn barrel wide amount uniform muscle";

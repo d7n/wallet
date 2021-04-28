@@ -1,1 +1,1 @@
-var mnemonic = "cricket face fix core history brisk erupt devote replace comfort calm stumble";
+var mnemonic = "escape arrange reason occur inflict nasty glow series safe armed cream until";

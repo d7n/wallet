@@ -1,1 +1,1 @@
-var mnemonic = "tide course auto pudding proud sound cliff cement relief sea option cricket";
+var mnemonic = "promote uncover spot cat enable dwarf potato enemy morning explain merry brush";

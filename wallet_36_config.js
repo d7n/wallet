@@ -1,1 +1,1 @@
-var mnemonic = "response apology whip casual another cactus camera hip fever admit hold pretty";
+var mnemonic = "enforce sweet knife hub view climb find scatter dwarf february bless soft";

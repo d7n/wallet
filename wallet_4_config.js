@@ -1,1 +1,1 @@
-var mnemonic = "silver category nerve eyebrow strike hundred sausage cloth lesson burden student father";
+var mnemonic = "daughter hobby pattern bulk tobacco mountain cement gentle feature pave saddle cost";

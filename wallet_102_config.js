@@ -1,1 +1,1 @@
-var mnemonic = "sudden foster decade aerobic salmon stereo day submit collect develop dumb hub";
+var mnemonic = "memory survey file swim oil radio vocal rug pig guard tired chase";

@@ -1,1 +1,1 @@
-var mnemonic = "like lazy stool thing album rookie rib hurry tuition diet museum family";
+var mnemonic = "view cream chef parent faculty seat used piano sport sample thought exhibit";

@@ -1,1 +1,1 @@
-var mnemonic = "bird exact ridge risk squeeze net bubble rough liberty strong into amused";
+var mnemonic = "venue unfair author health involve usage clog post intact nasty police lava";

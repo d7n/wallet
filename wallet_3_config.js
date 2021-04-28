@@ -1,1 +1,1 @@
-var mnemonic = "rude connect hip erosion mandate echo answer caution salad improve doll man";
+var mnemonic = "just nation decrease hawk point doctor waste damage sense excite shop virus";

@@ -1,1 +1,1 @@
-var mnemonic = "brand grab near seat ride fox stage chaos entry stumble grain alarm";
+var mnemonic = "exhaust donor valley wire comfort because debate cost story radar gasp diamond";

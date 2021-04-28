@@ -1,1 +1,1 @@
-var mnemonic = "miracle neglect various shrimp obvious oven below unaware expire proof cargo arm";
+var mnemonic = "exact analyst loud double scan wrap retire illegal lobster donor accident human";

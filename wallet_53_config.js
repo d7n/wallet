@@ -1,1 +1,1 @@
-var mnemonic = "gadget hero spider cost smoke bottom phone used quarter prepare flash hundred";
+var mnemonic = "thunder bone next alpha help mule boat absurd pink trim grab poet";

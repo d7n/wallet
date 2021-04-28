@@ -1,1 +1,1 @@
-var mnemonic = "among attack abuse orbit diamond snap glad regret swamp trumpet tonight alter";
+var mnemonic = "very dirt ritual junk shrimp broom federal turkey speak labor minimum amazing";

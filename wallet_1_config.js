@@ -1,1 +1,1 @@
-var mnemonic = "blade sphere unaware project alien arrange merry critic consider goddess produce shrug";
+var mnemonic = "kitchen pattern brown crime drastic dynamic husband true plate cradle mercy famous";

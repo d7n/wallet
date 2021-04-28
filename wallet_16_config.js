@@ -1,1 +1,1 @@
-var mnemonic = "hurry hope spot gallery brown funny worth uniform choice girl worry course";
+var mnemonic = "industry erosion return among ethics loan sad random ranch early judge gather";

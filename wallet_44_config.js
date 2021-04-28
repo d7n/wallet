@@ -1,1 +1,1 @@
-var mnemonic = "unknown tray cube scatter million appear car science collect arrest install exotic";
+var mnemonic = "sign wash view sword apology still over canoe spread critic cry fix";

@@ -1,1 +1,1 @@
-var mnemonic = "situate impact disagree volcano conduct nut stadium arrest kidney luxury display copper";
+var mnemonic = "much cousin rare abuse lesson delay winner vague curve try diary vital";

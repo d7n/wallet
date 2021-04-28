@@ -1,1 +1,1 @@
-var mnemonic = "master treat earn glow cherry acquire panel annual mom planet hazard apart";
+var mnemonic = "fancy grass this unfold pair cart rigid flock fault slow source siren";

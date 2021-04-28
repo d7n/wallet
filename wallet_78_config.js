@@ -1,1 +1,1 @@
-var mnemonic = "pink lock exact hamster twin alien urge fine concert regular zoo arm";
+var mnemonic = "practice chief flavor relax match winner honey wasp dizzy reveal solve vast";

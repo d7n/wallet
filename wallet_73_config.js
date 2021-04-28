@@ -1,1 +1,1 @@
-var mnemonic = "message fashion bargain fragile chat liar car below object toddler child faint";
+var mnemonic = "blind nest dignity embrace detect circle grab defy woman taste clip typical";

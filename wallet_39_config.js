@@ -1,1 +1,1 @@
-var mnemonic = "science hospital vanish kind vanish spy sauce frown own cement master page";
+var mnemonic = "skate shed wolf they exercise cram mixture rotate guitar text magnet remember";

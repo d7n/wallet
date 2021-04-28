@@ -1,1 +1,1 @@
-var mnemonic = "silk spoil pupil certain question bundle exclude news arrest pupil sponsor furnace";
+var mnemonic = "measure result good vivid matter fade slogan angle since rabbit one tiny";
