@@ -1,1 +1,1 @@
-var mnemonic = "print green there ship dash cousin chicken smart subway unfair alien position";
+var mnemonic = "smooth can brisk toward play rebuild miss orient dry allow guard solution";

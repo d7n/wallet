@@ -1,1 +1,1 @@
-var mnemonic = "federal prevent guilt agent rotate hospital parrot hurdle pink scissors work duck";
+var mnemonic = "account general palm emotion bracket spice regret inhale crumble deliver final artefact";

@@ -1,1 +1,1 @@
-var mnemonic = "hammer mule crystal spatial short rookie wage mesh marble genre cliff void";
+var mnemonic = "delay subject artist grief patch average gym medal obey private deputy replace";

@@ -1,1 +1,1 @@
-var mnemonic = "panel album ability reward parrot raise mixed couple clip hill surround answer";
+var mnemonic = "original helmet brother shop wedding network success weird dwarf mail wash vacant";

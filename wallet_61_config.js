@@ -1,1 +1,1 @@
-var mnemonic = "glare siege same race jeans brief table devote oxygen coffee wife lift";
+var mnemonic = "artwork wall glad enemy life honey pink hidden all news round update";

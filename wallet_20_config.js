@@ -1,1 +1,1 @@
-var mnemonic = "champion torch genuine under acquire void hair since alcohol tonight punch bulb";
+var mnemonic = "farm appear lion moment diet annual exist always couch enemy hub food";

@@ -1,1 +1,1 @@
-var mnemonic = "diagram demise foster distance wall wish coyote soul bright cube erode balance";
+var mnemonic = "film then maze olive brave parade behind cupboard repeat expire kidney obvious";

@@ -1,1 +1,1 @@
-var mnemonic = "either vapor weapon rely private vintage candy myth join because famous fetch";
+var mnemonic = "three soup actual wait impulse view twice couple attract various liar unlock";

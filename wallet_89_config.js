@@ -1,1 +1,1 @@
-var mnemonic = "quick topple taste cannon crop riot focus donkey prize stamp library scorpion";
+var mnemonic = "lonely alone demand copper ritual minute filter stone valley gold work glory";

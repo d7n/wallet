@@ -1,1 +1,1 @@
-var mnemonic = "time nut lend tag female gun thumb multiply husband clean together health";
+var mnemonic = "normal base hedgehog square crisp repeat catalog injury put sibling album left";

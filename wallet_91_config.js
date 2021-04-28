@@ -1,1 +1,1 @@
-var mnemonic = "range differ million baby arrest theory cushion attack educate easy blanket inherit";
+var mnemonic = "surge device eye flock effort feature buffalo belt force garden exchange green";

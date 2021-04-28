@@ -1,1 +1,1 @@
-var mnemonic = "snake lunch fancy marble road sniff thrive model seminar certain scatter used";
+var mnemonic = "myth chunk stove awesome thank antique combine aim either host cat pole";

@@ -1,1 +1,1 @@
-var mnemonic = "excess vintage snap click daughter summer asthma bundle toy security finger idea";
+var mnemonic = "napkin report try borrow pass rich camera sugar finish essence weird volume";

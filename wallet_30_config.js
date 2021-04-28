@@ -1,1 +1,1 @@
-var mnemonic = "enough glimpse between turtle pioneer debris around industry army ivory advance ship";
+var mnemonic = "advice win one sadness barely smart above whisper battle casual exercise alert";

@@ -1,1 +1,1 @@
-var mnemonic = "hamster month since noodle leaf reunion vital soup sight decorate taste arm";
+var mnemonic = "chalk pelican ensure icon name famous immune pencil solve truly game behave";

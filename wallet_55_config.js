@@ -1,1 +1,1 @@
-var mnemonic = "damage spatial differ horror spread drip abandon elite reopen moon region various";
+var mnemonic = "approve dutch advice cement all page double shell debate observe drive story";

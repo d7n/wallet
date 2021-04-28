@@ -1,1 +1,1 @@
-var mnemonic = "spend force piece sausage saddle ceiling piano mass casual sing galaxy yellow";
+var mnemonic = "common age funny top mandate shed deer hybrid vacuum risk release pioneer";

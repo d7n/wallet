@@ -1,1 +1,1 @@
-var mnemonic = "tourist chat tooth race borrow derive amused clip minimum wing stairs path";
+var mnemonic = "choose mind lesson voyage canyon sword youth axis shiver annual middle blouse";

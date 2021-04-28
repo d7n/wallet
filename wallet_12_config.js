@@ -1,1 +1,1 @@
-var mnemonic = "boil struggle tooth close luxury shift copper harsh before arctic battle start";
+var mnemonic = "admit recycle warrior grid absent toast stairs party genuine pair chimney oblige";

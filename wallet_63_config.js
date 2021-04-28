@@ -1,1 +1,1 @@
-var mnemonic = "fun melody debate live immune first image alien indicate domain seven prize";
+var mnemonic = "garment patch crew brisk reunion hunt parent neglect cute mouse web marine";

@@ -1,1 +1,1 @@
-var mnemonic = "cherry novel credit fire pipe benefit nuclear rabbit master shield palace poem";
+var mnemonic = "issue fix alert pony zebra diet slice car zone salt song swear";

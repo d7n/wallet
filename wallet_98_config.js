@@ -1,1 +1,1 @@
-var mnemonic = "hero myself whisper cup tag armor civil minimum purse cruel also dutch";
+var mnemonic = "fat afraid ability client icon orange black surround gloom address hammer matrix";

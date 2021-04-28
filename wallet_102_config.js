@@ -1,1 +1,1 @@
-var mnemonic = "note until vote decide age jealous kind detail truly tuition lava luggage";
+var mnemonic = "identify cause endorse busy lecture occur bike bubble aware circle there water";

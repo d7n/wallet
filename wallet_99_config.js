@@ -1,1 +1,1 @@
-var mnemonic = "doctor laugh fame deliver kitten blast clever auto enlist exclude wrong ask";
+var mnemonic = "robust clip repair walk hurt brand amazing pluck also flush fever rotate";

@@ -1,1 +1,1 @@
-var mnemonic = "manual avoid bike repair future topple double goddess poet clog sight heavy";
+var mnemonic = "goose squirrel ask bounce follow expire blossom script aunt gravity view depth";

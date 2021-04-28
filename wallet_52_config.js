@@ -1,1 +1,1 @@
-var mnemonic = "candy few frost attack harsh fatigue yard regret actress curious immense again";
+var mnemonic = "friend become crime rocket gravity more spell guess essay story wire demand";

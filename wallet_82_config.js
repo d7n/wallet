@@ -1,1 +1,1 @@
-var mnemonic = "wood client ski issue they heart myth route room theory fortune fork";
+var mnemonic = "provide electric quarter wonder upset dinner slender achieve circle talent crop lonely";

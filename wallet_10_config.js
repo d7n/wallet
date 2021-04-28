@@ -1,1 +1,1 @@
-var mnemonic = "can screen gather prepare illness siege forward goat snap price exchange build";
+var mnemonic = "alone trend picnic swing bunker salute grant pond among razor impact stadium";

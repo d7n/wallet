@@ -1,1 +1,1 @@
-var mnemonic = "village popular nose mimic reason drift opera struggle there merry crucial term";
+var mnemonic = "empty rabbit desk depth cherry job fly unit fiction shallow lab chair";

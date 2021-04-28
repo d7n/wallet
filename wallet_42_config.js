@@ -1,1 +1,1 @@
-var mnemonic = "always misery mandate crouch orchard transfer lobster flat mammal segment network save";
+var mnemonic = "rubber unhappy veteran cover mesh garden ribbon recipe thunder envelope access can";

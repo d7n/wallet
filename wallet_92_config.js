@@ -1,1 +1,1 @@
-var mnemonic = "resource water super offer miracle green body inside vanish custom fence chest";
+var mnemonic = "together goose couch rare aisle atom october erase churn wall position page";

@@ -1,1 +1,1 @@
-var mnemonic = "notice payment foot benefit patient fresh surprise spider beach marriage panel boy";
+var mnemonic = "large allow game stick session lunar board bind erode tell cheese hole";

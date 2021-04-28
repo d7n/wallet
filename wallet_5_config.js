@@ -1,1 +1,1 @@
-var mnemonic = "orient ship answer pig figure exhaust bracket kiss filter turkey worry three";
+var mnemonic = "display gas shaft hotel that leaf cattle adult issue able practice coil";

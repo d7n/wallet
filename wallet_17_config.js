@@ -1,1 +1,1 @@
-var mnemonic = "pill monkey dream gown robot dove shrug soup knock worry clog inform";
+var mnemonic = "dust rural visual above clock near razor carry icon legal coil small";

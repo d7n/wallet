@@ -1,1 +1,1 @@
-var mnemonic = "slight half gas narrow goat crowd shell guess copper firm undo whisper";
+var mnemonic = "protect bonus toddler refuse silly hurdle dress trophy possible distance shock woman";

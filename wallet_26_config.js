@@ -1,1 +1,1 @@
-var mnemonic = "seed topic then north frequent bonus armed mutual return smart sell early";
+var mnemonic = "fruit kangaroo clinic emotion potato link salute submit finish resource poet talent";

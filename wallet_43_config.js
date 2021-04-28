@@ -1,1 +1,1 @@
-var mnemonic = "witness festival crumble sniff spare unfair toy fade clerk abuse hidden chimney";
+var mnemonic = "bachelor chalk tube shoot unveil weather reunion list bridge orchard trigger reward";

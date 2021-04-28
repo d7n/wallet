@@ -1,1 +1,1 @@
-var mnemonic = "play good peasant furnace sock decorate thumb today wait small scare mixed";
+var mnemonic = "company extra mind flip into urban lunar kidney surface snap february bleak";

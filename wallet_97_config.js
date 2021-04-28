@@ -1,1 +1,1 @@
-var mnemonic = "impulse goat farm fog alien dress young essence dismiss coil wine sunset";
+var mnemonic = "fall affair minor sign turn own crystal depth citizen clog despair rescue";

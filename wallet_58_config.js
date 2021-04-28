@@ -1,1 +1,1 @@
-var mnemonic = "unaware comic team mobile climb charge exchange drip nut bike egg topple";
+var mnemonic = "ostrich immense toe purity planet meat boil fall material endless catch wood";

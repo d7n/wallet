@@ -1,1 +1,1 @@
-var mnemonic = "medal grass month hint used insect agree you priority charge tray vacuum";
+var mnemonic = "resemble tired crane bomb nut they result age enemy ride various fantasy";

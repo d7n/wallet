@@ -1,1 +1,1 @@
-var mnemonic = "eagle fun mix purse clutch follow bounce man deer help grid stairs";
+var mnemonic = "cigar weasel ripple strike network sense expect horror uphold piano dynamic green";

@@ -1,1 +1,1 @@
-var mnemonic = "foster trial sick broccoli afford spice pet hope desk vocal bean rate";
+var mnemonic = "slogan emerge scatter dog piece chair upon repair loud brush hat organ";

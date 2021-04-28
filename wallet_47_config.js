@@ -1,1 +1,1 @@
-var mnemonic = "genuine skirt giggle monitor forward proud adjust accuse anchor kitchen dial muffin";
+var mnemonic = "biology prefer turkey place marriage remember stay front much tooth monster vintage";

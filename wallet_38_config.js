@@ -1,1 +1,1 @@
-var mnemonic = "advance recall rotate copper code saddle huge tooth bus learn daring shift";
+var mnemonic = "provide citizen vintage sugar trend express excuse enlist speak gym elevator accuse";

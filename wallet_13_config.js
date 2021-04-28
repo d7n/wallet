@@ -1,1 +1,1 @@
-var mnemonic = "tone daring initial bless happy almost barrel improve flame stove plug city";
+var mnemonic = "mimic unaware powder wedding drip hill pave heavy shoulder police dismiss poverty";

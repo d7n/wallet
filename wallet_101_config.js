@@ -1,1 +1,1 @@
-var mnemonic = "rebuild girl blade law clay craft wire taxi impact biology erosion oyster";
+var mnemonic = "bamboo ankle toward lake hollow draft worry nest song daughter heavy rebel";

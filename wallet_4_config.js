@@ -1,1 +1,1 @@
-var mnemonic = "arrest lottery artwork flight pool stove chronic sense dust pulse clay radar";
+var mnemonic = "farm metal badge undo attend soccer eternal caution assault magic glove right";

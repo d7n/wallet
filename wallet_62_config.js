@@ -1,1 +1,1 @@
-var mnemonic = "load embrace cruise advance company ask monkey nest advance swift maximum novel";
+var mnemonic = "cause grape pottery income captain price stumble tomato pool gas fringe stick";

@@ -1,1 +1,1 @@
-var mnemonic = "absurd word juice brief cinnamon letter party october stamp visual plunge actual";
+var mnemonic = "crazy already spot vacant sauce just drama shrimp estate type genuine away";

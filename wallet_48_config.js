@@ -1,1 +1,1 @@
-var mnemonic = "disorder raise copper wolf boy juice tonight return load grab swap canoe";
+var mnemonic = "stay assist diamond zone biology spirit banana script nest payment vapor zone";

@@ -1,1 +1,1 @@
-var mnemonic = "kiss return pause pause voyage illness vapor orchard whale rose maximum anchor";
+var mnemonic = "salmon joke erase accuse major stuff drink urge cry denial manage beef";

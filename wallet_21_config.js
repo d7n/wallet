@@ -1,1 +1,1 @@
-var mnemonic = "parrot autumn glory lounge there antenna vacuum rack crouch title thought catalog";
+var mnemonic = "winner wrist pizza lyrics fade flag romance year burst gesture west library";

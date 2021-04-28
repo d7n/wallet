@@ -1,1 +1,1 @@
-var mnemonic = "potato inhale runway edge code reflect pair enact okay birth fish deny";
+var mnemonic = "ripple annual turn like snow desert tuition over cushion couple life orange";

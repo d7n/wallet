@@ -1,1 +1,1 @@
-var mnemonic = "goddess ceiling during orchard piano captain hole sponsor velvet april twelve fatigue";
+var mnemonic = "net radio name valve connect horror lens mirror better end style hedgehog";

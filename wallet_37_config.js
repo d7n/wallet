@@ -1,1 +1,1 @@
-var mnemonic = "shove debate turn soup arm arrest steel garbage onion aisle chimney real";
+var mnemonic = "early limb empower add assist sugar push panther adult anger van cigar";

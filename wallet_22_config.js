@@ -1,1 +1,1 @@
-var mnemonic = "athlete decade fat inflict antenna gallery minute marriage october maid avoid note";
+var mnemonic = "armor pledge cheap army discover priority erase outdoor hole mix novel lift";

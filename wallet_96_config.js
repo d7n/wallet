@@ -1,1 +1,1 @@
-var mnemonic = "access kick tourist dinner chalk clever entire grow trend rate horror glide";
+var mnemonic = "puzzle oyster swing long flight woman force power physical note fog exercise";

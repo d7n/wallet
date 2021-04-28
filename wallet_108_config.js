@@ -1,1 +1,1 @@
-var mnemonic = "loop wrist window skate umbrella interest frown adult cave traffic copper ten";
+var mnemonic = "sun sudden safe basket dawn cannon skin delay consider next pink tower";

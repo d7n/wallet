@@ -1,1 +1,1 @@
-var mnemonic = "milk mechanic find tennis slot tennis sick injury today three grape stem";
+var mnemonic = "ball zebra hen ten favorite glad claw able coyote remove venue cake";

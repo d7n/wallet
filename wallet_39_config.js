@@ -1,1 +1,1 @@
-var mnemonic = "nuclear fork enjoy thrive clutch hedgehog donkey six price faith melody rate";
+var mnemonic = "ride original skirt hockey pact fine erupt best pretty draw angle reduce";

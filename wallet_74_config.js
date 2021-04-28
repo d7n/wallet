@@ -1,1 +1,1 @@
-var mnemonic = "evolve delay velvet pledge raise ladder fog apart slogan quit wise broom";
+var mnemonic = "retire best head almost daring coffee confirm decline echo slot obtain three";

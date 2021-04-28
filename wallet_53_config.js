@@ -1,1 +1,1 @@
-var mnemonic = "scan snow purse forward ramp advance beyond random divert flower select attitude";
+var mnemonic = "either true liberty funny change sight law shallow cute quarter attract inch";

@@ -1,1 +1,1 @@
-var mnemonic = "average soap vanish reject one heavy split glide black achieve cable hurt";
+var mnemonic = "trip smart shrug spring brain jungle float legal join need alone give";

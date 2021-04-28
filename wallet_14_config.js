@@ -1,1 +1,1 @@
-var mnemonic = "hole rhythm pupil alert arena problem same over dignity defense curious reunion";
+var mnemonic = "attend ugly enforce that crawl people rifle forward again pizza kidney awful";

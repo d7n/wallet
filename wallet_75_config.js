@@ -1,1 +1,1 @@
-var mnemonic = "sample discover machine divert fame where neck game crystal example drink crash";
+var mnemonic = "pioneer leisure review rose tiger multiply inner friend velvet puppy detail swim";

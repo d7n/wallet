@@ -1,1 +1,1 @@
-var mnemonic = "tribe smooth cheap bullet lady delay announce wrap arrest motor inflict skate";
+var mnemonic = "core essence angry coral flavor exile discover hire pride possible settle estate";

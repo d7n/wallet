@@ -1,1 +1,1 @@
-var mnemonic = "width senior decrease wild noodle deal cruise arrive cancel example strike lunch";
+var mnemonic = "swarm solar orchard weird collect spell grid zebra neither tray elite mad";

@@ -1,1 +1,1 @@
-var mnemonic = "acid fence coral fog tornado music image work prefer similar kid quarter";
+var mnemonic = "air spoil bicycle solution start giant camp hood slush flight glory below";

@@ -1,1 +1,1 @@
-var mnemonic = "need hospital hill high mother settle same mask special shift humble lottery";
+var mnemonic = "language apart explain cup finger romance coffee eager seat pull cattle anxiety";

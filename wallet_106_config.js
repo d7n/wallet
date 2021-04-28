@@ -1,1 +1,1 @@
-var mnemonic = "snow diesel actual weird mother throw escape relief total enlist fault trumpet";
+var mnemonic = "ensure drop index motion team athlete eagle label mosquito fortune tissue royal";

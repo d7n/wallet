@@ -1,1 +1,1 @@
-var mnemonic = "acoustic loop general what man addict atom crew response box ancient basic";
+var mnemonic = "ice glad chimney leader limb hurry latin that health where boost train";

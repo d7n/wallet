@@ -1,1 +1,1 @@
-var mnemonic = "jealous plastic scheme fit child coyote intact agent fossil point interest mad";
+var mnemonic = "wasp parrot census swing clay method prize tool ladder security nuclear cabin";

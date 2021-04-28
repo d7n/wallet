@@ -1,1 +1,1 @@
-var mnemonic = "record airport garment army globe tackle ship uniform distance ill sign repair";
+var mnemonic = "giraffe glance sorry lunar marble sniff minimum bitter crouch skate step push";

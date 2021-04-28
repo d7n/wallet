@@ -1,1 +1,1 @@
-var mnemonic = "tongue hotel first office lizard wheel cable action lounge column quarter danger";
+var mnemonic = "tissue spread pattern sibling eternal mom alley pink absorb drill virus sleep";

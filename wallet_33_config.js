@@ -1,1 +1,1 @@
-var mnemonic = "scene test lesson cousin tower curious ice pledge stage wing roof tube";
+var mnemonic = "wonder noise muffin remember congress lecture primary color topple weather asset song";

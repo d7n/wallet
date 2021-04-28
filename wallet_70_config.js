@@ -1,1 +1,1 @@
-var mnemonic = "park tuition pioneer blanket choice erosion accident castle benefit expand mutual seek";
+var mnemonic = "copy frame original phone island fluid barely next range bus hero expect";

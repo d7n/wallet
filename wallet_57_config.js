@@ -1,1 +1,1 @@
-var mnemonic = "exist brand orbit recipe fatigue silver piano have among season neither nothing";
+var mnemonic = "super easy example inside wine sugar wave edge pattern begin fabric atom";

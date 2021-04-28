@@ -1,1 +1,1 @@
-var mnemonic = "return slam hub exchange matrix spy stage now agent phone member host";
+var mnemonic = "cactus bring believe certain evidence regular endorse salon limit ritual balance custom";

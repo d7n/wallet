@@ -1,1 +1,1 @@
-var mnemonic = "lumber famous coral secret dance hover focus place moment blossom kitten divorce";
+var mnemonic = "sport biology satoshi hole ocean repair blind wish theme option sick limb";

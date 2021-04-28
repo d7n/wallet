@@ -1,1 +1,1 @@
-var mnemonic = "zero swap amateur power same code basic hockey tool medal pioneer impose";
+var mnemonic = "exotic rally wall glory camera arm cluster team trigger outside zoo fall";

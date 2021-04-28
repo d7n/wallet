@@ -1,1 +1,1 @@
-var mnemonic = "rude version resource captain mechanic melody pact owner moral tide snow huge";
+var mnemonic = "scale excuse wear cloud member paddle ready essay olympic rigid firm demise";

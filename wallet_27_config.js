@@ -1,1 +1,1 @@
-var mnemonic = "immune web ask typical display giraffe warfare intact bottom project clever suit";
+var mnemonic = "bullet canvas marble gather remember worry bless black involve move trial labor";

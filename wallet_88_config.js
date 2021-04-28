@@ -1,1 +1,1 @@
-var mnemonic = "badge alpha bid shrimp grape opera catch wagon fetch whip defense cream";
+var mnemonic = "often worry window casino vacuum tribe daughter knee parade physical south logic";

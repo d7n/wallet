@@ -1,1 +1,1 @@
-var mnemonic = "sun indicate ozone sail convince live debate lecture enact cactus prosper rural";
+var mnemonic = "marine oil winner dice allow toe width nurse attack priority owner intact";

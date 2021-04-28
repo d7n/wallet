@@ -1,1 +1,1 @@
-var mnemonic = "umbrella keep flame corn genuine sting enlist puzzle belt innocent fall wall";
+var mnemonic = "hamster anchor tourist come pepper crumble require word other pitch vacant smoke";

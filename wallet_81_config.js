@@ -1,1 +1,1 @@
-var mnemonic = "skirt entire arm board survey truly stone audit digital pupil else skull";
+var mnemonic = "wide describe flip youth beef kiss scissors bird merge attack glare holiday";

@@ -1,1 +1,1 @@
-var mnemonic = "joke sunset juice truly damp section owner dune trust elbow income exile";
+var mnemonic = "erosion cloud front style glad remove good curtain discover broccoli industry zoo";

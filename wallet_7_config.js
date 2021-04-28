@@ -1,1 +1,1 @@
-var mnemonic = "plug blame uniform minor cattle easily vicious sad ignore dog stable family";
+var mnemonic = "juice couple wise cradle item degree zone improve mosquito ribbon rough chalk";

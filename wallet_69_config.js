@@ -1,1 +1,1 @@
-var mnemonic = "promote neutral diesel deputy bulb giraffe trash decorate truck slight roast cash";
+var mnemonic = "travel marriage face boy opinion text bronze account often rescue moon volcano";

@@ -1,1 +1,1 @@
-var mnemonic = "bronze weapon robot unlock ozone source again pear pulse exist lens life";
+var mnemonic = "crash scene impact stool chest soda letter six wave pass silly hint";
