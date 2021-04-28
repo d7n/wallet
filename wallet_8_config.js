@@ -1,1 +1,1 @@
-var mnemonic = "bicycle tattoo animal rare board will hurry ordinary clip add agree syrup";
+var mnemonic = "romance lab adult upper confirm winter rice friend wide little drastic actress";

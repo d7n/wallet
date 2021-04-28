@@ -1,1 +1,1 @@
-var mnemonic = "embody know organ liar cushion culture damage more security famous mixture rescue";
+var mnemonic = "decide check shove visa ethics keep usual car people success polar describe";

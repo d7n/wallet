@@ -1,1 +1,1 @@
-var mnemonic = "salt outside cupboard track source ten belt portion distance chunk tennis search";
+var mnemonic = "baby embark insane shop true upset good acquire mammal brass upset service";

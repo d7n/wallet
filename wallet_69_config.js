@@ -1,1 +1,1 @@
-var mnemonic = "camera scissors ladder card peanut negative margin abuse pumpkin green vault news";
+var mnemonic = "floor hold inherit lab inherit carpet struggle source rib reduce virtual drum";

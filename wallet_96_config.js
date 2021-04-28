@@ -1,1 +1,1 @@
-var mnemonic = "october clinic deliver coin hammer gym volume tail rapid bronze flock enter";
+var mnemonic = "mushroom domain honey audit wrap raise link decide rug always predict teach";

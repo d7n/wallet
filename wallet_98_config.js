@@ -1,1 +1,1 @@
-var mnemonic = "cousin special drink topple trophy describe almost absent tonight direct elbow you";
+var mnemonic = "cricket stamp bridge lunar random bread mountain genuine onion peace motion enter";

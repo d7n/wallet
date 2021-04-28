@@ -1,1 +1,1 @@
-var mnemonic = "weekend risk license engage pool thank cable famous priority awesome clay waste";
+var mnemonic = "gain chuckle physical welcome fiscal describe spider fuel kind senior book used";

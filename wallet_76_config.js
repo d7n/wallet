@@ -1,1 +1,1 @@
-var mnemonic = "divorce other earth mechanic include nothing citizen action virus april exact exact";
+var mnemonic = "apple depth boat zebra install prosper trash token maze melody please tower";

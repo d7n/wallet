@@ -1,1 +1,1 @@
-var mnemonic = "antenna mother balcony result mixture bulb matrix flush disorder pitch stairs spoon";
+var mnemonic = "neglect bunker ivory fatal frequent athlete chronic loyal slogan spot absent spring";

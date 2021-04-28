@@ -1,1 +1,1 @@
-var mnemonic = "honey tube clarify fever month sign sample disorder asthma shop light nothing";
+var mnemonic = "track suspect despair dilemma hire crime antique jar surge vapor mango garage";

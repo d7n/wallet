@@ -1,1 +1,1 @@
-var mnemonic = "eagle general ostrich raccoon jeans voyage refuse frown metal endorse analyst extend";
+var mnemonic = "olive journey violin off skull nation grace cup senior blue author train";

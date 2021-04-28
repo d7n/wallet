@@ -1,1 +1,1 @@
-var mnemonic = "error artist security educate attend excess wall thank ladder occur desk focus";
+var mnemonic = "dutch broken share foil april copy roof balcony nest fish hotel awake";

@@ -1,1 +1,1 @@
-var mnemonic = "blanket promote journey include fluid neither hair traffic engine tail hammer artwork";
+var mnemonic = "exclude credit wonder tiger seek vintage steak parade result vehicle shell deal";

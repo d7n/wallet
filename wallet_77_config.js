@@ -1,1 +1,1 @@
-var mnemonic = "video treat place tuna verify small curious arrow liberty control crater educate";
+var mnemonic = "cupboard stone menu abuse wet harvest bonus universe attack eager custom rescue";

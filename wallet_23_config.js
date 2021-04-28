@@ -1,1 +1,1 @@
-var mnemonic = "youth pen test utility letter dish breeze perfect rigid aim couch grant";
+var mnemonic = "prosper buyer fuel inch once magic walk autumn make opera cause morning";

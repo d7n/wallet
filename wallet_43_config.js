@@ -1,1 +1,1 @@
-var mnemonic = "daring fix hero front coyote slab credit alley uniform room pumpkin shoulder";
+var mnemonic = "army dilemma wrong antenna ozone language venue deal response save exhaust direct";

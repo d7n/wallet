@@ -1,1 +1,1 @@
-var mnemonic = "filter little economy purse assist candy crystal auto pattern excite sustain draw";
+var mnemonic = "check arctic alarm boy fantasy vanish pulp fence oven flat want guess";

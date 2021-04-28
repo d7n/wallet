@@ -1,1 +1,1 @@
-var mnemonic = "pretty injury put convince goat blade juice clown crush work mutual clown";
+var mnemonic = "coconut tortoise hair extend group boost large kangaroo grunt health zone identify";

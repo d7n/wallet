@@ -1,1 +1,1 @@
-var mnemonic = "anchor copy person canvas citizen solution caught example atom member moon federal";
+var mnemonic = "bamboo loud spirit select frame gown mixed live smile imitate arrive brave";

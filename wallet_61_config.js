@@ -1,1 +1,1 @@
-var mnemonic = "access orphan thumb scout settle culture badge brush asset reopen alley company";
+var mnemonic = "talent satisfy movie sugar property blade myth warrior bone list estate romance";

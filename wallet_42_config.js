@@ -1,1 +1,1 @@
-var mnemonic = "resemble shallow rifle fix cube chase insane friend bridge afraid urge tissue";
+var mnemonic = "brown update grass wolf vivid another nerve tag announce family repair frozen";

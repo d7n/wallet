@@ -1,1 +1,1 @@
-var mnemonic = "ripple improve copper draw since globe fold cargo sausage beef pottery erase";
+var mnemonic = "neutral frost abuse bring fan ugly genuine escape nest alert private thumb";

@@ -1,1 +1,1 @@
-var mnemonic = "obvious mesh october they this cupboard carbon license month discover confirm behave";
+var mnemonic = "announce hover garage sponsor word cabin sniff spider race pause grit purpose";

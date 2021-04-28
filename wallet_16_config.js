@@ -1,1 +1,1 @@
-var mnemonic = "honey cake pigeon vessel tomorrow stomach print artefact urban scare uniform noise";
+var mnemonic = "trade hedgehog demise follow trip drastic struggle debate cube smooth away verb";

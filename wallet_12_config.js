@@ -1,1 +1,1 @@
-var mnemonic = "crater observe top absorb arm frame immune autumn column claim zoo wood";
+var mnemonic = "hold right parrot hidden weapon fiction pepper envelope tumble ten grunt trophy";

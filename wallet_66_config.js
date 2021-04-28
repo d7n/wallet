@@ -1,1 +1,1 @@
-var mnemonic = "addict lecture dish require left broom remember merit stadium tag version element";
+var mnemonic = "vast sun mention skin patch stick rich husband daring fetch autumn reopen";

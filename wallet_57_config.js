@@ -1,1 +1,1 @@
-var mnemonic = "milk video season sign embark cram kingdom license relax shiver warfare diesel";
+var mnemonic = "layer snack sea siren portion left turn gentle online shoulder viable pause";

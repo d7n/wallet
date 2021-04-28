@@ -1,1 +1,1 @@
-var mnemonic = "merge olympic solution circle gap inmate elevator blue spring tiger maple obscure";
+var mnemonic = "hip script into satoshi soul trust oval unhappy august level subway finish";

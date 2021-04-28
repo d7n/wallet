@@ -1,1 +1,1 @@
-var mnemonic = "sugar detect install canvas timber point frequent edge bread pistol garlic urge";
+var mnemonic = "girl ride satoshi employ afraid host cup woman item put control pelican";

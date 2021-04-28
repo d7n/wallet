@@ -1,1 +1,1 @@
-var mnemonic = "fee uncover fabric poem team deer sunset core pond hover forget plug";
+var mnemonic = "amazing circle soldier senior visit pretty remain observe trap seat gain mercy";

@@ -1,1 +1,1 @@
-var mnemonic = "beef road among chief top awkward join someone symptom fluid narrow actor";
+var mnemonic = "awesome husband safe embody pact equal spell silent mix ocean brick fantasy";

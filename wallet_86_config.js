@@ -1,1 +1,1 @@
-var mnemonic = "bitter atom nose song avoid slender gap december anchor act polar fetch";
+var mnemonic = "protect hockey fortune cram motion agent rocket coffee gown february clean spare";

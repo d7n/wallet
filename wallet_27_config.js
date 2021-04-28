@@ -1,1 +1,1 @@
-var mnemonic = "put close vivid parade spread nice powder prefer curve drastic random become";
+var mnemonic = "split miracle caught course tired diet fly sadness exile tiger design submit";

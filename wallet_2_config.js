@@ -1,1 +1,1 @@
-var mnemonic = "arctic lecture rude fan prosper frequent sustain mom gloom myself heavy truck";
+var mnemonic = "happy repair moon run gap vague certain bird east system tackle search";

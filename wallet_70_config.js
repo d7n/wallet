@@ -1,1 +1,1 @@
-var mnemonic = "notable laptop remember cigar occur stage throw use leaf future deer funny";
+var mnemonic = "reflect target path about vessel damage pledge avoid guard expect oppose limit";

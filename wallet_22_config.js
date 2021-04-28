@@ -1,1 +1,1 @@
-var mnemonic = "payment horror bid gesture hotel machine sphere wide nothing immense robust dizzy";
+var mnemonic = "gym bright able brisk profit issue major salt educate warm endless health";

@@ -1,1 +1,1 @@
-var mnemonic = "fancy scene fruit defense light child scout reform crater deer royal knife";
+var mnemonic = "exercise net solve future approve tongue luxury feel turtle cheap drive crime";

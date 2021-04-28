@@ -1,1 +1,1 @@
-var mnemonic = "cruel hard version brand panda soldier weird keep provide yellow add anchor";
+var mnemonic = "security real mutual wing wool clump angle group country denial erase endorse";

@@ -1,1 +1,1 @@
-var mnemonic = "border patient lion cotton steel merge awkward chair goose gas alone donkey";
+var mnemonic = "shrug elbow wear believe connect what great mandate trust perfect anchor hundred";

@@ -1,1 +1,1 @@
-var mnemonic = "bar what nephew opera raccoon company make tube domain raccoon allow citizen";
+var mnemonic = "behave rebel barrel top media skirt judge area slender crush valley little";

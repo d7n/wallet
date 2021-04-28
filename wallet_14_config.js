@@ -1,1 +1,1 @@
-var mnemonic = "peace work circle entry umbrella decide candy ghost alter become trip bench";
+var mnemonic = "lobster hour prefer captain citizen shock fragile total dirt divert office afford";

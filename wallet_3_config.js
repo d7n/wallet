@@ -1,1 +1,1 @@
-var mnemonic = "steel million initial faculty record churn able shallow skill earth guard short";
+var mnemonic = "arrange target fluid field cereal indicate scale nothing thing weather pass vanish";

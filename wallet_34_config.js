@@ -1,1 +1,1 @@
-var mnemonic = "unfold help trade gloom ahead chalk volume version admit transfer raw bleak";
+var mnemonic = "world nature badge stone pupil school cage vibrant toilet light combine message";

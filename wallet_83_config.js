@@ -1,1 +1,1 @@
-var mnemonic = "lake poet garbage maple enhance virtual endorse iron assault danger trim junk";
+var mnemonic = "omit buddy intact bulb rough board segment sport whale surge globe trade";

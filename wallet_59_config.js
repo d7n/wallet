@@ -1,1 +1,1 @@
-var mnemonic = "page claim luggage kangaroo poet pottery sunny solar what similar blue crew";
+var mnemonic = "juice merit level boost coil sight cook design alone faith strike virtual";

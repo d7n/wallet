@@ -1,1 +1,1 @@
-var mnemonic = "dinner fruit banner tomato pistol cupboard blanket shrug purity before scale first";
+var mnemonic = "hidden cloth indicate ugly wasp over north middle pig museum guess eye";

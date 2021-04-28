@@ -1,1 +1,1 @@
-var mnemonic = "essence gaze zoo label enable chat baby upset effort fly unknown vanish";
+var mnemonic = "demise turn ticket honey come law over escape nerve pull forest put";

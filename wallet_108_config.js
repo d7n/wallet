@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog question load trash couple home music frog connect cliff cat omit";
+var mnemonic = "hospital when deal joke dog cycle feature lecture cross pattern kiss maximum";

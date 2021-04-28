@@ -1,1 +1,1 @@
-var mnemonic = "heart relief imitate noodle pudding unveil admit bulk palm merge member hope";
+var mnemonic = "peace boring magnet suffer sausage observe woman elephant bounce adult over noodle";

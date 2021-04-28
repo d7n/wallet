@@ -1,1 +1,1 @@
-var mnemonic = "merge impose dash citizen tank property fluid satoshi address gown clinic link";
+var mnemonic = "bone army dizzy shine pretty pelican push midnight night pilot tuna photo";

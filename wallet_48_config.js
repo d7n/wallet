@@ -1,1 +1,1 @@
-var mnemonic = "mistake piano execute finish harsh stereo axis zebra outer dilemma trumpet consider";
+var mnemonic = "found seven gap guide dragon pluck comic dynamic upgrade valid van thank";

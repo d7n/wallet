@@ -1,1 +1,1 @@
-var mnemonic = "error fall cruise few edit crater witness measure wrong afraid clerk sample";
+var mnemonic = "sport tower family fashion federal enable female turtle short print hand harsh";

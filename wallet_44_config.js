@@ -1,1 +1,1 @@
-var mnemonic = "hurry frost cry crucial dutch box lend mandate outside recall coral click";
+var mnemonic = "soul you deposit message smile siege give feature butter wagon cup rebel";

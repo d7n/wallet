@@ -1,1 +1,1 @@
-var mnemonic = "pond brown dog aim emotion swarm edit delay ribbon spend comfort citizen";
+var mnemonic = "wife much into disease produce cigar accuse brother away supply diary grace";

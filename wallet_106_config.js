@@ -1,1 +1,1 @@
-var mnemonic = "clean ignore teach grain number gentle endorse pole deposit lumber fortune arrest";
+var mnemonic = "such aim head author risk foil parent climb congress donkey advance allow";

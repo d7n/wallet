@@ -1,1 +1,1 @@
-var mnemonic = "jewel place nose ugly poem refuse settle marine story monster cousin cover";
+var mnemonic = "escape object decrease train model nation mobile raven foot gentle canyon apart";

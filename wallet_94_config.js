@@ -1,1 +1,1 @@
-var mnemonic = "divorce genre aisle sleep weapon guilt glow settle erosion fault worry win";
+var mnemonic = "mirror burst mystery area famous gesture always below scare mixed trash uncle";

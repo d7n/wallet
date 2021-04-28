@@ -1,1 +1,1 @@
-var mnemonic = "result brand salt loud solar sign tobacco reduce kangaroo flush air globe";
+var mnemonic = "gate submit fragile weather sausage skate coast will coil artefact index wood";

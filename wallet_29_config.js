@@ -1,1 +1,1 @@
-var mnemonic = "expand hybrid index velvet vote cave dutch three trend promote glue gallery";
+var mnemonic = "forest exhaust basket volcano alarm gallery train left voice scrub grape sting";

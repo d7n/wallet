@@ -1,1 +1,1 @@
-var mnemonic = "evidence elevator laptop inherit chronic dirt tissue document motor avoid arrow tone";
+var mnemonic = "hundred monster chat jewel waste leisure scan human august stadium lawn right";

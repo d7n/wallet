@@ -1,1 +1,1 @@
-var mnemonic = "trial tail category stuff little foster render mix cereal room excess cruise";
+var mnemonic = "cricket vanish arrow arrange occur lazy moral miss okay axis nut nuclear";

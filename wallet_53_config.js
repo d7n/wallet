@@ -1,1 +1,1 @@
-var mnemonic = "spend ghost primary gasp over canal near museum violin help peanut fade";
+var mnemonic = "soldier century stone poverty quiz begin current virtual flight collect casual nice";

@@ -1,1 +1,1 @@
-var mnemonic = "rubber helmet tackle cloth fit light claw feed sword that hobby leave";
+var mnemonic = "dinner only warrior fee couple three curious like exit fancy issue light";

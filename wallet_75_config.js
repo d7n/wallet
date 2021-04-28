@@ -1,1 +1,1 @@
-var mnemonic = "target mystery gun surface update sport bronze venture similar pioneer near increase";
+var mnemonic = "fashion nation skill render achieve vocal can able student can minor often";

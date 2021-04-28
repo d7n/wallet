@@ -1,1 +1,1 @@
-var mnemonic = "inside distance snake entry extend parent clump mercy garden apart typical humor";
+var mnemonic = "clump punch office october tattoo jump priority tilt legend fancy salon olympic";

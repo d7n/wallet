@@ -1,1 +1,1 @@
-var mnemonic = "elder teach oxygen pole hammer lobster kitten teach aim law beef pear";
+var mnemonic = "demand dove exhibit very safe borrow tell bird island warfare robot promote";

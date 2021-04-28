@@ -1,1 +1,1 @@
-var mnemonic = "gentle inhale bracket junior area happy thrive modify happy always dirt travel";
+var mnemonic = "use act hill tumble few hunt maple crazy ranch custom inspire three";

@@ -1,1 +1,1 @@
-var mnemonic = "door kitten alone diamond million blouse art know render envelope fresh present";
+var mnemonic = "eight demand rate blush sell shoulder wide quick gold degree left board";

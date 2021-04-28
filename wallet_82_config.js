@@ -1,1 +1,1 @@
-var mnemonic = "butter lumber talent enroll miss jewel slim angry crop usage beyond pumpkin";
+var mnemonic = "morning session old message sudden claw draw physical cheap meadow certain agent";

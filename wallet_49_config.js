@@ -1,1 +1,1 @@
-var mnemonic = "foot apple spice obey ghost ecology shuffle device journey debris buyer broken";
+var mnemonic = "sample ball jeans tenant bamboo cabin exact wet surface crater industry sock";

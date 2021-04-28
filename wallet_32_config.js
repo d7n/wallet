@@ -1,1 +1,1 @@
-var mnemonic = "boss favorite error rotate cactus pear light visual master leaf quantum cotton";
+var mnemonic = "copper soldier december only noble just scout into next detect track weapon";

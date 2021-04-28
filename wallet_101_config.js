@@ -1,1 +1,1 @@
-var mnemonic = "idle either start crunch theory olympic car badge talk accuse position method";
+var mnemonic = "expect fruit ripple vehicle excess narrow tuna casual pilot rubber media supply";

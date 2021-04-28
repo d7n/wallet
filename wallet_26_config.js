@@ -1,1 +1,1 @@
-var mnemonic = "journey dress pilot bread debris sketch gauge reflect lab remove pact cheap";
+var mnemonic = "lock fossil ramp height leisure layer process hockey plate breeze human casual";

@@ -1,1 +1,1 @@
-var mnemonic = "agent secret happy tower boost fire people elegant cage sadness inflict chair";
+var mnemonic = "wait pelican smart claim lunch wait tribe december kiwi satoshi alter tide";

@@ -1,1 +1,1 @@
-var mnemonic = "vicious wait inch track canyon come cinnamon kitten visa wave hobby water";
+var mnemonic = "gain exhibit matrix sing crumble sun scrap monster mention alien fury side";

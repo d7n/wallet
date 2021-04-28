@@ -1,1 +1,1 @@
-var mnemonic = "ribbon web arrive text there skull perfect decade decrease adjust carbon twin";
+var mnemonic = "dynamic task name analyst sister tent rib pigeon kite hand around barely";

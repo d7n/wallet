@@ -1,1 +1,1 @@
-var mnemonic = "twist garbage patch armor hero coach cream narrow stage wonder thrive guitar";
+var mnemonic = "trouble cliff match neither next cloth crush already pretty moral plug owner";

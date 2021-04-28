@@ -1,1 +1,1 @@
-var mnemonic = "volcano system jungle town stomach evolve muscle media sadness frequent result iron";
+var mnemonic = "crunch usual witness option voice silk perfect abandon stereo keep attitude hair";

@@ -1,1 +1,1 @@
-var mnemonic = "angry special rule zebra roof enemy huge exist repeat coyote start stage";
+var mnemonic = "walnut alert useful bone exile winner admit awesome rally scorpion mushroom car";

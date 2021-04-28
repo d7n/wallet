@@ -1,1 +1,1 @@
-var mnemonic = "object noble ceiling range grief dog health acoustic title engine pig vital";
+var mnemonic = "code behind left simple either kangaroo urge park icon crime grape hair";

@@ -1,1 +1,1 @@
-var mnemonic = "rule logic toss giggle liar supreme drink engine churn gentle robot salad";
+var mnemonic = "upgrade cupboard hammer city boss three govern domain item ivory stem place";

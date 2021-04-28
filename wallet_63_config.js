@@ -1,1 +1,1 @@
-var mnemonic = "pulp worth bitter evoke check ship dwarf stand raven elite sudden defy";
+var mnemonic = "gas fortune clarify hill rely alcohol engine order rare bright forest inhale";

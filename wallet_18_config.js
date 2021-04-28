@@ -1,1 +1,1 @@
-var mnemonic = "burst side tilt universe run gravity chapter demise junk document useless noise";
+var mnemonic = "sing slot runway drip mimic fitness text sure parent brother duck devote";

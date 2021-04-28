@@ -1,1 +1,1 @@
-var mnemonic = "ice special balance account next clip scissors fault slogan fix embody wage";
+var mnemonic = "inform lobster roast dice claw record engage anxiety valve measure wife brisk";

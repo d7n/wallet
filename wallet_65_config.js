@@ -1,1 +1,1 @@
-var mnemonic = "horror venture head veteran scene target inspire case enter feed asthma wall";
+var mnemonic = "scene thank absurd want ship cart grocery disagree grocery wrong vintage main";

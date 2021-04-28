@@ -1,1 +1,1 @@
-var mnemonic = "trend speed defense text squirrel patch powder boy elite blouse pond base";
+var mnemonic = "marriage uniform melody start agent vicious hen canal neck lock ethics inspire";

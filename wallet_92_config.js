@@ -1,1 +1,1 @@
-var mnemonic = "bean mountain jungle sun skin idea purity toward comfort amateur layer omit";
+var mnemonic = "sea impulse canoe dash clutch crater pencil floor dwarf swear toilet clean";

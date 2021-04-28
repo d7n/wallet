@@ -1,1 +1,1 @@
-var mnemonic = "worth mosquito fork brief next lens course topple wife skin receive track";
+var mnemonic = "edit yard daughter matrix wasp guide album hire rug universe birth office";

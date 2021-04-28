@@ -1,1 +1,1 @@
-var mnemonic = "ladder kick gasp tissue panic buddy census muffin public display luggage square";
+var mnemonic = "copy girl hotel file hobby denial expand title today diary drop orchard";

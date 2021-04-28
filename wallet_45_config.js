@@ -1,1 +1,1 @@
-var mnemonic = "wire miss habit dream drastic thunder clean phrase hybrid predict exclude purpose";
+var mnemonic = "stone oven bicycle champion orphan very chicken swarm vast chapter era away";

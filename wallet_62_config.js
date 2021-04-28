@@ -1,1 +1,1 @@
-var mnemonic = "ahead distance quick oxygen muscle combine vehicle rather palm quarter choice inherit";
+var mnemonic = "anger syrup doctor switch say mechanic identify lady file basket wool cage";

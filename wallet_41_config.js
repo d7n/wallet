@@ -1,1 +1,1 @@
-var mnemonic = "enact price fame secret cruel camp mandate song sport alone strike barely";
+var mnemonic = "cost place vivid nurse regular long oak admit follow transfer fragile spot";

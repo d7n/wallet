@@ -1,1 +1,1 @@
-var mnemonic = "burden onion parade oil airport more alpha differ labor false royal blood";
+var mnemonic = "film panel vapor puzzle festival season choose february mimic pudding purchase pool";

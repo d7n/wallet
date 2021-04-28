@@ -1,1 +1,1 @@
-var mnemonic = "already consider portion follow claim immune excite neutral seven column rule rural";
+var mnemonic = "rate hedgehog immune dolphin glide summer broccoli load slender friend sell clock";

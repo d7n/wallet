@@ -1,1 +1,1 @@
-var mnemonic = "violin near vapor topic one under net rotate ceiling help empower ten";
+var mnemonic = "trigger zebra estate refuse useless magnet auto song nest crop false amateur";

@@ -1,1 +1,1 @@
-var mnemonic = "enough mail sea question crazy shy save art nuclear race derive bicycle";
+var mnemonic = "other furnace item joy sad theme grunt swear give kick tone rabbit";

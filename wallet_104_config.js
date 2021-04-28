@@ -1,1 +1,1 @@
-var mnemonic = "denial loan village believe donate caution cost uncover echo also stumble entry";
+var mnemonic = "laundry cupboard foam intact banner matrix raw wing kangaroo hover pelican fabric";

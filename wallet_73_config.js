@@ -1,1 +1,1 @@
-var mnemonic = "since spin demise planet fresh excite able walk artefact pave voyage leave";
+var mnemonic = "alpha old sausage spell organ ostrich barely mixture hole lock weapon ignore";
