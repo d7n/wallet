@@ -1,1 +1,1 @@
-var mnemonic = "crime thank lemon pudding congress romance candy creek insect place faint other";
+var mnemonic = "improve rose leader mass flash dove hole belt verb puzzle shrimp carbon";

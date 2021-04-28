@@ -1,1 +1,1 @@
-var mnemonic = "ceiling metal insane police throw praise symptom ginger book this piece neck";
+var mnemonic = "skate scare hand carbon liar buffalo approve hard crime want dose shoe";

@@ -1,1 +1,1 @@
-var mnemonic = "boy attitude century memory list ankle shield initial duty poet like game";
+var mnemonic = "magnet wait quarter man bottom soul road flash raven hand heavy orphan";

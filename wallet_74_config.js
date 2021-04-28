@@ -1,1 +1,1 @@
-var mnemonic = "auto inside crisp ticket skin march universe treat spin clarify puzzle radar";
+var mnemonic = "mixed magnet normal carpet approve bachelor very east master taxi share movie";

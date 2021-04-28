@@ -1,1 +1,1 @@
-var mnemonic = "problem morning panther punch umbrella among donor trophy nuclear extra battle true";
+var mnemonic = "craft drama frown pig boy arch bargain theory remind link direct need";

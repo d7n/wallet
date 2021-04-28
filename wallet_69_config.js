@@ -1,1 +1,1 @@
-var mnemonic = "maximum damp quit myself dry will also change salon picture smile fatal";
+var mnemonic = "cabbage trouble vibrant until salon join useless inner vehicle adult cousin magic";

@@ -1,1 +1,1 @@
-var mnemonic = "question guess panic misery they minimum shiver congress delay lounge strong method";
+var mnemonic = "response wreck system also prepare rib cannon enemy grid window various poet";

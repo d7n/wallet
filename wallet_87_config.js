@@ -1,1 +1,1 @@
-var mnemonic = "forget depart boring corn jealous kite quick deal have west voyage inhale";
+var mnemonic = "potato dolphin hockey spare behave jewel flavor ticket system dash vital acoustic";

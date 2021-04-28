@@ -1,1 +1,1 @@
-var mnemonic = "above theory alcohol yellow item plate protect wall romance girl can digital";
+var mnemonic = "actual gym settle toast second beauty saddle pause buyer system staff cost";

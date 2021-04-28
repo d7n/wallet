@@ -1,1 +1,1 @@
-var mnemonic = "sock trend record jar bicycle soft scrub light egg business undo update";
+var mnemonic = "rule slender card among craft tube odor junk final tortoise review transfer";

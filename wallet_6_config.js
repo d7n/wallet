@@ -1,1 +1,1 @@
-var mnemonic = "dutch worry conduct warrior stumble family cost praise tiny axis erosion runway";
+var mnemonic = "transfer amateur sadness slab easily rotate marine staff loyal adult merit liberty";

@@ -1,1 +1,1 @@
-var mnemonic = "bleak hip drip buyer crack wealth image brief merit city napkin inherit";
+var mnemonic = "museum prefer prosper shed sniff solid warm whip exercise valve tortoise iron";

@@ -1,1 +1,1 @@
-var mnemonic = "harvest cruise cousin embody road vibrant swear lizard wild forum emotion learn";
+var mnemonic = "chuckle refuse bronze lunar basket rule pupil aunt fitness swallow length chase";

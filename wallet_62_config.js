@@ -1,1 +1,1 @@
-var mnemonic = "side winner boat mirror region hamster police position question alone fiber gas";
+var mnemonic = "tissue snake grab abandon legal fragile clever say wine fetch zero kiwi";

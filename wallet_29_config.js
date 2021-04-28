@@ -1,1 +1,1 @@
-var mnemonic = "into kidney catalog cross soda heart hire used ripple wild similar vast";
+var mnemonic = "fat scorpion gym cherry danger measure spring labor snake unable language lyrics";

@@ -1,1 +1,1 @@
-var mnemonic = "outside oblige basket chuckle grain phrase crater cross faith pledge adapt daring";
+var mnemonic = "gesture juice oval verb horn insect visual journey like utility tattoo fatal";

@@ -1,1 +1,1 @@
-var mnemonic = "clerk shrug keen list audit race organ grunt lesson lucky nose impose";
+var mnemonic = "dirt slot thank dust ankle abstract surge ivory sword cool theory also";

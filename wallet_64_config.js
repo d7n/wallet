@@ -1,1 +1,1 @@
-var mnemonic = "seat guilt jeans snap net enable spray address broken random seminar corn";
+var mnemonic = "switch worry impulse empty wash gown wink cost soon saddle make state";

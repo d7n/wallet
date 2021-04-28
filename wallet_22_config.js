@@ -1,1 +1,1 @@
-var mnemonic = "cook coconut tissue mandate envelope lawsuit cruise coin elegant select adult access";
+var mnemonic = "laugh arrange equal project ramp alien harsh wink myself happy sport snake";

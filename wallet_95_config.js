@@ -1,1 +1,1 @@
-var mnemonic = "staff please vivid public print fiber various adapt prison item observe truly";
+var mnemonic = "stuff frown govern cluster juice earth receive million hair raw stamp margin";

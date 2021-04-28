@@ -1,1 +1,1 @@
-var mnemonic = "win input fetch mule width stool tonight account hand remember actual relax";
+var mnemonic = "curve fresh finish alley luggage ancient chimney pig outside comic edit sudden";

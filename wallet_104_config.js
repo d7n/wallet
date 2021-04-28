@@ -1,1 +1,1 @@
-var mnemonic = "coconut aware gallery vapor solve install ball option adult teach situate twenty";
+var mnemonic = "jelly tongue blood aisle soap unaware spend toilet economy major awkward mother";

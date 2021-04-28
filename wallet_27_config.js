@@ -1,1 +1,1 @@
-var mnemonic = "satoshi easily vehicle pass anchor load state team faint stable flock lift";
+var mnemonic = "economy charge immune rally pear ice sheriff evolve favorite list clip team";

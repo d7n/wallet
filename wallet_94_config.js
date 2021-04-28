@@ -1,1 +1,1 @@
-var mnemonic = "senior wrap base finish vessel private rabbit divide boring atom bacon improve";
+var mnemonic = "bright rough innocent large fox illness lunar pledge click rare cliff rabbit";

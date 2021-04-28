@@ -1,1 +1,1 @@
-var mnemonic = "moon disorder giant trade inside skirt repeat prevent harbor success funny tiger";
+var mnemonic = "pyramid mistake tiger clutch around valid exercise six bamboo world baby repair";

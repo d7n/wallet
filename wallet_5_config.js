@@ -1,1 +1,1 @@
-var mnemonic = "wreck shift found vast fault vapor spike local sock spot cliff genius";
+var mnemonic = "sense mean scale attack almost gesture donor express network tribe mother actor";

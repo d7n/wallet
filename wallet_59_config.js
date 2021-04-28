@@ -1,1 +1,1 @@
-var mnemonic = "hour ride option scissors today solve sock august vintage chapter frequent length";
+var mnemonic = "upper gaze allow file flavor cupboard scout volcano dinner pluck ceiling carbon";

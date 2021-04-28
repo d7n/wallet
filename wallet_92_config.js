@@ -1,1 +1,1 @@
-var mnemonic = "around endorse fluid cushion shrug arrive horror injury soon where add artist";
+var mnemonic = "debris rich industry find laptop abuse orbit candy grit caught mad vendor";

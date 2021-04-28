@@ -1,1 +1,1 @@
-var mnemonic = "scene act effort giant olympic wave trap dash winter slender armed dismiss";
+var mnemonic = "turtle crucial cook noodle spell result lens aspect dice grow gap slab";

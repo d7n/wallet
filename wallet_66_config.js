@@ -1,1 +1,1 @@
-var mnemonic = "display term valve dynamic civil phrase oppose act soldier cube modify shadow";
+var mnemonic = "curtain source apple romance wear gym teach muscle quiz head cook raccoon";

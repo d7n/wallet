@@ -1,1 +1,1 @@
-var mnemonic = "live layer cruise eager polar pass maple daring party cement sugar sleep";
+var mnemonic = "home deny aunt oil dolphin dinosaur toilet trigger seed limit easy edge";

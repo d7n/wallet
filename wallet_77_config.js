@@ -1,1 +1,1 @@
-var mnemonic = "trial kit try gauge tool patient course utility parrot long tree mandate";
+var mnemonic = "major amount fit sudden genre second hobby kite adapt baby cereal skull";

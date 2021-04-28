@@ -1,1 +1,1 @@
-var mnemonic = "save danger time plunge long wide coach civil round blood type waste";
+var mnemonic = "afraid blossom text country ignore ill harsh hybrid layer jacket team drum";

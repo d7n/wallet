@@ -1,1 +1,1 @@
-var mnemonic = "meadow category shallow seed ostrich among argue between caution confirm dizzy way";
+var mnemonic = "unable clean access slow enlist receive ranch joke cage south blanket charge";

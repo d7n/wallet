@@ -1,1 +1,1 @@
-var mnemonic = "defy team stove subject fashion sustain lock beauty gesture infant electric cactus";
+var mnemonic = "have helmet scorpion fade hover image armed trouble bird lemon fitness crop";

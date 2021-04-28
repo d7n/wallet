@@ -1,1 +1,1 @@
-var mnemonic = "boil unaware keen paddle coach hold swift kitchen crawl tooth say chunk";
+var mnemonic = "nurse mirror assault lumber sniff float door limit quiz wild pelican dog";

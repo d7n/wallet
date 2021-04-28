@@ -1,1 +1,1 @@
-var mnemonic = "echo rebuild mass north siege another glare shove ball dash myth quick";
+var mnemonic = "click april wrap pepper trend steel tomato capable carbon input disorder icon";

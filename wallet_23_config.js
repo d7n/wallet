@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur fog hope poet draw search person talk fire chimney ankle tape";
+var mnemonic = "easy beach omit mountain ancient isolate gap lizard shove scale pizza tray";

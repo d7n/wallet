@@ -1,1 +1,1 @@
-var mnemonic = "uncle strong hungry rib spirit special page ivory jaguar winter learn question";
+var mnemonic = "wrestle monkey task champion hamster shy protect merit hold seek disorder response";

@@ -1,1 +1,1 @@
-var mnemonic = "hawk picture execute rough harbor have cluster rice assault noodle across reason";
+var mnemonic = "net assist swim punch bean people close more kiwi paddle cereal exclude";

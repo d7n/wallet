@@ -1,1 +1,1 @@
-var mnemonic = "custom west absorb pair siege retire dolphin orient rural slide clump merry";
+var mnemonic = "much side finish sport wasp first arctic capital rotate crop case video";

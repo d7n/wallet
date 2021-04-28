@@ -1,1 +1,1 @@
-var mnemonic = "apart find clerk primary upper van wreck amazing style garage guess visit";
+var mnemonic = "bicycle flee pretty chicken physical comic inspire sun favorite lunar rug borrow";

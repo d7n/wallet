@@ -1,1 +1,1 @@
-var mnemonic = "economy anxiety foot hammer script rookie quiz abstract own glove swim equal";
+var mnemonic = "rookie december height card essence lounge evidence what scout concert quit eagle";

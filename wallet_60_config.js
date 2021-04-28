@@ -1,1 +1,1 @@
-var mnemonic = "kite fetch first suggest used stereo metal salt very celery beef subject";
+var mnemonic = "badge cool hurdle man true long bleak capable uniform disagree road veteran";

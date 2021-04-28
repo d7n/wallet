@@ -1,1 +1,1 @@
-var mnemonic = "dove chair unfair december sniff boost goose rapid curve rug gain green";
+var mnemonic = "potato leg wonder net inmate moon need damage body mask infant sick";

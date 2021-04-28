@@ -1,1 +1,1 @@
-var mnemonic = "awkward work bounce first noble decrease verify dish twice lava invite spike";
+var mnemonic = "price water cash thrive predict among balance test carbon youth wild inspire";

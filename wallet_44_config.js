@@ -1,1 +1,1 @@
-var mnemonic = "blue valve attract segment they husband double shrug indoor ranch lucky snack";
+var mnemonic = "echo mention identify artist that spread left orphan rifle tragic season minimum";

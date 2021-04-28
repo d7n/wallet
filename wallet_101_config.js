@@ -1,1 +1,1 @@
-var mnemonic = "afford afraid tomorrow jaguar airport nasty host skirt hill extra casual solution";
+var mnemonic = "decline ritual balance nominee bless certain client fetch lunar attack caught nest";

@@ -1,1 +1,1 @@
-var mnemonic = "pet funny cushion suffer mushroom provide busy sunset card elbow century excess";
+var mnemonic = "nephew wool one result zoo hazard resemble cushion degree spend inherit twist";

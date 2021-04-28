@@ -1,1 +1,1 @@
-var mnemonic = "pause sponsor gaze width window inhale pen skirt giraffe right cheap suspect";
+var mnemonic = "then inform evidence else spend clog pelican notice rib nature mandate rose";

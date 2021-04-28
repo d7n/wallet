@@ -1,1 +1,1 @@
-var mnemonic = "present ridge grain abstract make wrong radar base direct require flee impose";
+var mnemonic = "combine drift enable army level battle spray cup garbage brown chef danger";

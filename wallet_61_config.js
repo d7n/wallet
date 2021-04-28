@@ -1,1 +1,1 @@
-var mnemonic = "share post travel force birth bike only skill door cupboard brave note";
+var mnemonic = "fortune again exercise rubber stereo primary tobacco spider lawsuit label evidence fame";

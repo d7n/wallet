@@ -1,1 +1,1 @@
-var mnemonic = "century myth rain sand rose expect lumber hint execute one erosion spin";
+var mnemonic = "face mention phone always harvest remind seed heart lucky keen sight impulse";

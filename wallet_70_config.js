@@ -1,1 +1,1 @@
-var mnemonic = "witness catalog insane awake token link price magic better trophy exchange treat";
+var mnemonic = "lion kind general coin frozen pilot denial spin whisper birth cause wave";

@@ -1,1 +1,1 @@
-var mnemonic = "catch glue dry pyramid check front slight used elbow order meat exhaust";
+var mnemonic = "indicate nest grit twin become hen disorder monster renew menu green oblige";

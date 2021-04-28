@@ -1,1 +1,1 @@
-var mnemonic = "news chapter excess kit engage coach three fuel wage pledge picnic slam";
+var mnemonic = "display survey wheat dash observe rotate gold myth fat drill summer announce";

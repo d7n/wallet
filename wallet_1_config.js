@@ -1,1 +1,1 @@
-var mnemonic = "tank worth census bicycle twist coconut guess kiwi injury glimpse coast solar";
+var mnemonic = "arrive cattle today skull garage beyond develop venue alter bounce toast lobster";

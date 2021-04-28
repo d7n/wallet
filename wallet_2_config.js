@@ -1,1 +1,1 @@
-var mnemonic = "exact output sting gate tell luxury suffer toss boring aware moral space";
+var mnemonic = "come tiny bachelor must segment double calm junior stumble agent trash egg";

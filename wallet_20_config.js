@@ -1,1 +1,1 @@
-var mnemonic = "spice valid cheese slide apology sight barely orphan frozen chuckle clip fat";
+var mnemonic = "demand misery sign hill rug gravity cover panel tray rocket volcano series";

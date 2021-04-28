@@ -1,1 +1,1 @@
-var mnemonic = "orphan rose govern potato foil almost ticket lonely where track degree east";
+var mnemonic = "garden expose lumber work minor three excite obvious seed exchange dog mixture";

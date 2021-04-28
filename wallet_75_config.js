@@ -1,1 +1,1 @@
-var mnemonic = "blur twist tray flee stumble access only east step umbrella object calm";
+var mnemonic = "express swarm trust sorry monster agree soccer glance unique modify cupboard chronic";

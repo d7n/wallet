@@ -1,1 +1,1 @@
-var mnemonic = "spoon plastic version lemon foil erosion arm weasel abstract guilt uniform element";
+var mnemonic = "swarm merry strong bleak pumpkin maid win modify capable glad salmon fancy";

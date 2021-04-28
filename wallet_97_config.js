@@ -1,1 +1,1 @@
-var mnemonic = "snake broccoli assist genius mushroom salon priority coach chronic sense suggest kit";
+var mnemonic = "vessel hand cable ball forget pretty charge traffic caught learn bracket lend";

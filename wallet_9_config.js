@@ -1,1 +1,1 @@
-var mnemonic = "tail damage double air flame dream plug devote fence hub range melody";
+var mnemonic = "illness ozone phone involve stuff olive kit same search rack mesh prison";

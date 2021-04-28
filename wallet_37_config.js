@@ -1,1 +1,1 @@
-var mnemonic = "tackle candy divide build tail submit universe reunion cheap infant warrior rather";
+var mnemonic = "strong soap wage stem area never advice wise check conduct fluid chunk";

@@ -1,1 +1,1 @@
-var mnemonic = "arch lion bachelor tape cake random replace second total install gauge palace";
+var mnemonic = "uniform hotel panel worth cancel cry elbow velvet penalty margin submit swing";

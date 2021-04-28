@@ -1,1 +1,1 @@
-var mnemonic = "boost puppy labor eyebrow cluster leave bean prosper useful fly retire option";
+var mnemonic = "inform reflect taste rural develop acquire negative knife odor degree crucial heart";

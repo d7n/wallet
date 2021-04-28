@@ -1,1 +1,1 @@
-var mnemonic = "grocery erosion detail tattoo awkward denial hungry gas radio run corn inherit";
+var mnemonic = "baby egg certain vendor confirm border aisle book wide rocket beyond since";

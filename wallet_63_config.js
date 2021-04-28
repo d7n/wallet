@@ -1,1 +1,1 @@
-var mnemonic = "twelve bulb family matter tree very prevent label unknown select view board";
+var mnemonic = "erode crowd abuse opera glory deposit fence iron topic shock pet own";

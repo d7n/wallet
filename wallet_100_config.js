@@ -1,1 +1,1 @@
-var mnemonic = "melody piano vessel loyal sing tortoise visa able window capable muscle frown";
+var mnemonic = "beach invest little quick monkey ancient cover invite air amount keep quote";

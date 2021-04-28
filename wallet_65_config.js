@@ -1,1 +1,1 @@
-var mnemonic = "easy act undo valve that mystery page sure position gesture village obvious";
+var mnemonic = "extend genre range perfect famous collect vessel child balcony quit argue pond";

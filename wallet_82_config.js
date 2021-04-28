@@ -1,1 +1,1 @@
-var mnemonic = "bicycle news outside perfect shell again spawn force bright blur bike pride";
+var mnemonic = "begin episode mix useless appear nasty yard jacket congress parrot bullet stay";

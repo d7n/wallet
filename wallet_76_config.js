@@ -1,1 +1,1 @@
-var mnemonic = "verb dawn bacon purchase camera fault hotel ensure cigar quit nephew sad";
+var mnemonic = "firm deal satoshi fine guess enforce subject replace put finish shed story";

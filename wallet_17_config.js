@@ -1,1 +1,1 @@
-var mnemonic = "crash solar wife divide uniform toilet black jar spoil double clerk trophy";
+var mnemonic = "exotic immune country bracket spin used start timber indicate budget appear option";

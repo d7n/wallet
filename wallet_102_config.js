@@ -1,1 +1,1 @@
-var mnemonic = "session health husband trip raven such eight inside pencil aunt record mango";
+var mnemonic = "movie shed swamp outdoor pulp arch aware dial clay excess island cluster";

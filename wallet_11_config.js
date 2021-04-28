@@ -1,1 +1,1 @@
-var mnemonic = "robot palace defy mad stove machine antique awkward shiver spell describe leg";
+var mnemonic = "car ridge fox rival type snack elbow bus slice easily casino enforce";

@@ -1,1 +1,1 @@
-var mnemonic = "pyramid still garden joke artwork charge crime jungle rail rural tragic minute";
+var mnemonic = "surround coffee swim advice spot burger before protect water wheat rather bread";

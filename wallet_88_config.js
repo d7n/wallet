@@ -1,1 +1,1 @@
-var mnemonic = "oyster pipe arrive produce kiss squeeze capital struggle grass pull beef second";
+var mnemonic = "sing quality message loan unhappy eternal series fiction kitchen copper vault kiwi";

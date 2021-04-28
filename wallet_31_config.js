@@ -1,1 +1,1 @@
-var mnemonic = "orbit vibrant crush endorse promote mule choice poet evolve satoshi review plastic";
+var mnemonic = "hand cup thing snap search total duty one snake engage hospital slogan";

@@ -1,1 +1,1 @@
-var mnemonic = "amazing brain tourist pride hood silk mention retreat net strike word someone";
+var mnemonic = "cloud dune wisdom pepper such fabric alarm hard client rural fetch cherry";

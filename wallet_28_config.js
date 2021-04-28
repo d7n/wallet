@@ -1,1 +1,1 @@
-var mnemonic = "waste major thank moment hotel frozen melody buffalo erode surround cash jazz";
+var mnemonic = "coast region state relax bomb fit angry giggle snap antenna shaft panda";

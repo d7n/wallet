@@ -1,1 +1,1 @@
-var mnemonic = "demise claw exotic region cool announce human find match paddle crater history";
+var mnemonic = "penalty deal legend error gap story lunar piece alien patient broccoli scene";

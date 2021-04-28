@@ -1,1 +1,1 @@
-var mnemonic = "drill cram furnace power leave throw police rocket seminar belt verify monster";
+var mnemonic = "filter inmate token stage base great bread champion olympic theme ramp abandon";

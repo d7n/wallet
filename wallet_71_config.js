@@ -1,1 +1,1 @@
-var mnemonic = "crack degree file buyer small quality pond rice dust join pond drink";
+var mnemonic = "raw shed kind spare month mechanic parade corn faculty rude disease fan";

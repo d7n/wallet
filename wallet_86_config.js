@@ -1,1 +1,1 @@
-var mnemonic = "length prize scale truly congress tackle burst lady comfort edit glue carbon";
+var mnemonic = "obscure junior twist recall room normal depart sword situate matter grant educate";
