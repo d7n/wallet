@@ -1,1 +1,1 @@
-var mnemonic = "erosion purpose only shallow buzz spend bar wear assume risk fish erode";
+var mnemonic = "blouse fit mango clerk grid traffic lift inner place field increase jungle";

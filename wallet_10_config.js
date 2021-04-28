@@ -1,1 +1,1 @@
-var mnemonic = "pizza never obey help honey talk target invest family deer indicate bread";
+var mnemonic = "mesh chunk unhappy turtle room pattern direct require detect menu humor wreck";

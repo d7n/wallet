@@ -1,1 +1,1 @@
-var mnemonic = "wonder only illness angry enter penalty wife bench type nasty hotel bike";
+var mnemonic = "dose news citizen tissue wonder ocean able jump property bench arm purse";

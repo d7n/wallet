@@ -1,1 +1,1 @@
-var mnemonic = "walk gift know cake use skate jelly heavy salt clock assist execute";
+var mnemonic = "wedding tiger endless major square traffic solar color daring seven process repair";

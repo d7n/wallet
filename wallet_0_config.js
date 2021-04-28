@@ -1,1 +1,1 @@
-var mnemonic = "soldier dutch hockey arena aunt liberty cactus ranch nurse remind aerobic vicious";
+var mnemonic = "work shoulder buddy badge monitor industry recall close yellow journey know little";

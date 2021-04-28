@@ -1,1 +1,1 @@
-var mnemonic = "lecture step still spawn person creek depth tissue ethics buyer mention lunar";
+var mnemonic = "aisle kangaroo excite model spy mind avoid panic exhaust vault unknown suggest";

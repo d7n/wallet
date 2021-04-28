@@ -1,1 +1,1 @@
-var mnemonic = "ocean album wisdom turtle obtain earth people laundry ill smooth rural guess";
+var mnemonic = "december scan warrior miss glimpse ten aspect need super man fiber winner";

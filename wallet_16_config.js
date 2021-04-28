@@ -1,1 +1,1 @@
-var mnemonic = "fiscal step frozen gentle drink front average renew copper large digital observe";
+var mnemonic = "copper enact unknown prison magic educate deliver grace toss nation escape victory";

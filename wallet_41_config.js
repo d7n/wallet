@@ -1,1 +1,1 @@
-var mnemonic = "elegant february skill square cushion obey other island elite auto fuel sudden";
+var mnemonic = "resist alpha baby man life tourist position baby august strike wage palm";

@@ -1,1 +1,1 @@
-var mnemonic = "ride question small like develop reveal garment pond clap rug occur east";
+var mnemonic = "whale forward marine foot slam faith breeze robust ticket comic eyebrow pair";

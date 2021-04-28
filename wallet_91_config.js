@@ -1,1 +1,1 @@
-var mnemonic = "dove hammer wealth auction tower dynamic dinner alter damage oven again slight";
+var mnemonic = "measure violin aerobic balance shrimp suit scrap hurt wrap mirror butter grape";

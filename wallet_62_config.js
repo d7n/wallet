@@ -1,1 +1,1 @@
-var mnemonic = "surge flag urban trim version rain brush nation dry desk unlock roof";
+var mnemonic = "leaf trumpet leg dial slide danger valve bacon genuine fire rocket tube";

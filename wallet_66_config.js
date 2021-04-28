@@ -1,1 +1,1 @@
-var mnemonic = "uncle filter crowd subway language slush attract palace horror observe sustain grape";
+var mnemonic = "beauty year knock item slight trim wolf devote cannon ivory remain arrange";

@@ -1,1 +1,1 @@
-var mnemonic = "congress affair throw manage differ ability equal supply job judge diary pelican";
+var mnemonic = "lyrics level glide twelve wave please post tent humble jar cancel defy";

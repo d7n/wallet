@@ -1,1 +1,1 @@
-var mnemonic = "response cliff celery idle bike whale universe burden entry shaft baby nest";
+var mnemonic = "cupboard surface try toy runway still awesome second favorite rail draw cheap";

@@ -1,1 +1,1 @@
-var mnemonic = "depth crowd slender frog rescue coyote palm notable useless screen carbon kick";
+var mnemonic = "test torch mass main bird general nation shaft gold expire theory donor";

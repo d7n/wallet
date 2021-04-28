@@ -1,1 +1,1 @@
-var mnemonic = "little error worry guide uncover base ramp exhibit theme light dune response";
+var mnemonic = "trade pistol usual tongue innocent powder melt modify float deputy disease bring";

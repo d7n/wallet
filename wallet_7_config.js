@@ -1,1 +1,1 @@
-var mnemonic = "crack punch nest suit glance sibling riot volume erode twelve theory tomorrow";
+var mnemonic = "pond ritual pupil rude capable trade grape gap plunge cinnamon assault certain";

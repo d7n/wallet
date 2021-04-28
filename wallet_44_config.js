@@ -1,1 +1,1 @@
-var mnemonic = "cash virtual emerge pattern monster medal race vehicle patient property shock glove";
+var mnemonic = "version response life crack receive future valid once glove shaft crunch indicate";

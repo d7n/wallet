@@ -1,1 +1,1 @@
-var mnemonic = "rely practice elbow kitten blouse deposit match dice sample hub palace body";
+var mnemonic = "snow nurse satoshi stove price pitch tower explain public permit quantum february";

@@ -1,1 +1,1 @@
-var mnemonic = "tiny park surface arrow price spot ahead dune obtain topic flag despair";
+var mnemonic = "second guide false custom romance giraffe hair deal dial claim amused gravity";

@@ -1,1 +1,1 @@
-var mnemonic = "raise already want hint bread detail link giraffe gold forward seven lobster";
+var mnemonic = "clown relief tunnel amount wagon sister master foil ship caution engage nothing";

@@ -1,1 +1,1 @@
-var mnemonic = "okay worth business tower there quantum banana diary parent minimum kid ice";
+var mnemonic = "vanish swallow visit riot vessel furnace theory chase group seminar potato into";

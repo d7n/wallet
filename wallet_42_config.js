@@ -1,1 +1,1 @@
-var mnemonic = "ten solar grid north blouse dumb eager salon torch essay library forum";
+var mnemonic = "space movie vault jump pond throw confirm fade name expose fork december";

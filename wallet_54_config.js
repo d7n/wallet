@@ -1,1 +1,1 @@
-var mnemonic = "patient soap news coin mistake proof risk chef cube addict silk cave";
+var mnemonic = "spin hood casino cake snake glass winner fresh miracle elegant tape forest";

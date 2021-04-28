@@ -1,1 +1,1 @@
-var mnemonic = "deer question man cushion seat coast cheap toast unlock basket tube drum";
+var mnemonic = "vehicle tennis wisdom odor warm hazard proud sting diesel rubber circle phone";

@@ -1,1 +1,1 @@
-var mnemonic = "girl stamp sure soap gas nation piece aisle genuine unfair tooth ski";
+var mnemonic = "scan story explain toss pupil flame diagram soldier holiday guess transfer lonely";

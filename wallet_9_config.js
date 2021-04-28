@@ -1,1 +1,1 @@
-var mnemonic = "remember glove pave six evidence eye merit park sail online polar tiny";
+var mnemonic = "boil immune remain jazz favorite leisure circle any safe quit coin display";

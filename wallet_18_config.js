@@ -1,1 +1,1 @@
-var mnemonic = "neck peace check junk prevent ensure nut cargo snap champion seminar concert";
+var mnemonic = "bacon cause test express edit sugar original execute ability dad worry sentence";

@@ -1,1 +1,1 @@
-var mnemonic = "truck adult can dog bicycle loop cabin garment rookie crumble hair sleep";
+var mnemonic = "puzzle saddle card hospital arrive double radio vacant must diamond laugh squeeze";

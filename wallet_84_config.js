@@ -1,1 +1,1 @@
-var mnemonic = "eager rate kiwi turtle book object pyramid rifle six magnet shoe warm";
+var mnemonic = "legal pulse raw van dragon weapon wear panic absent phone hire crane";

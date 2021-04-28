@@ -1,1 +1,1 @@
-var mnemonic = "dry broom twist infant change snap arrange review inmate that supply bread";
+var mnemonic = "tell plunge polar glare muffin crowd depart sunset timber april grit common";

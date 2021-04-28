@@ -1,1 +1,1 @@
-var mnemonic = "error emotion staff idea pattern kidney eye tunnel recycle happy typical announce";
+var mnemonic = "focus anchor harvest behave tube vanish holiday room gas coach zero adapt";

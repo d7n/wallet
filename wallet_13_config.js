@@ -1,1 +1,1 @@
-var mnemonic = "void scissors service tenant mixed fancy destroy curtain protect axis sun fluid";
+var mnemonic = "text inherit network oven around avocado arrow spirit lyrics smooth parent receive";

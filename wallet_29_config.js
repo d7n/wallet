@@ -1,1 +1,1 @@
-var mnemonic = "shrug mix simple perfect suspect evolve trend receive normal faculty sting vicious";
+var mnemonic = "fun hint reopen grow word spray symbol inch grocery maze assault immune";

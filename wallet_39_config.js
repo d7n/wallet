@@ -1,1 +1,1 @@
-var mnemonic = "night fold scatter foot radio symptom insect pool bunker dilemma sad sauce";
+var mnemonic = "inquiry outside flame display mother peasant actual dove dragon use round board";

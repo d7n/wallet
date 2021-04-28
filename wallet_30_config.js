@@ -1,1 +1,1 @@
-var mnemonic = "country kitten baby question alley oval minute law include inform blind belt";
+var mnemonic = "slice shed rebel top empower define group learn find vivid capital mind";

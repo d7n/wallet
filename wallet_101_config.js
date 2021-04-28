@@ -1,1 +1,1 @@
-var mnemonic = "tonight move report odor appear stadium slide hurry myth ski hurry tip";
+var mnemonic = "photo fat stuff spot stay exist deputy fatal axis gadget script water";

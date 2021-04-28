@@ -1,1 +1,1 @@
-var mnemonic = "warm return real edit depart cannon angle sign rhythm roof worth lake";
+var mnemonic = "struggle office enforce desert empty stumble nurse check car rack chicken museum";

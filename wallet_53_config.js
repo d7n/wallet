@@ -1,1 +1,1 @@
-var mnemonic = "coil sail riot bridge asthma easy provide scorpion exact also valley ready";
+var mnemonic = "hold note mask shrimp dinner card siren system click charge whisper knock";

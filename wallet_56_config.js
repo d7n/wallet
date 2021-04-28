@@ -1,1 +1,1 @@
-var mnemonic = "country tape quiz cute rough body crumble tool slot destroy ostrich tragic";
+var mnemonic = "mix cable wool icon gesture eagle yellow forest hundred super position duty";

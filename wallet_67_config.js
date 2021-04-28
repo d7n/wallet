@@ -1,1 +1,1 @@
-var mnemonic = "lamp scheme enrich surge forward faint magnet census nerve shrug citizen demise";
+var mnemonic = "shuffle relax goat nominee purse piano planet draw estate kid domain seminar";

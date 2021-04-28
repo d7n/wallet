@@ -1,1 +1,1 @@
-var mnemonic = "average invest talk siren hip device lava solve loyal raw sketch hedgehog";
+var mnemonic = "oven goat grass spirit render lottery dune episode clutch trophy minimum found";

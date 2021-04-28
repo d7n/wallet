@@ -1,1 +1,1 @@
-var mnemonic = "various rent solar boss organ agent actor awkward easy waste perfect butter";
+var mnemonic = "where vault marine funny monkey record blush replace aim rent today height";

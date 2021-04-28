@@ -1,1 +1,1 @@
-var mnemonic = "shield buyer detail decrease layer limit close panther depth hood head cloth";
+var mnemonic = "cancel crunch vanish letter sign donkey glow march because idea nuclear permit";

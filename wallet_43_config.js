@@ -1,1 +1,1 @@
-var mnemonic = "fabric proud top patch culture sand survey index vivid divert equip swim";
+var mnemonic = "stable solar arrow carry cluster crater carry talk garlic dawn special powder";

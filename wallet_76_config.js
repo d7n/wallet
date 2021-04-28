@@ -1,1 +1,1 @@
-var mnemonic = "guess exact best toward situate poem exercise shop loyal dirt yard crisp";
+var mnemonic = "capital second mesh identify access minute silent push frozen congress dignity group";

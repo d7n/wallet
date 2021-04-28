@@ -1,1 +1,1 @@
-var mnemonic = "state suit top found remain spare eye title expire job burst magic";
+var mnemonic = "return inner gate young awake wedding canyon animal smooth scale shallow space";

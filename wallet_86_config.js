@@ -1,1 +1,1 @@
-var mnemonic = "below accuse upgrade search similar student scale give mistake torch absent coach";
+var mnemonic = "faint puppy luggage hip fly scrub radio tent belt affair chaos ranch";

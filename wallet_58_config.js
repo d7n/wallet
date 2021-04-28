@@ -1,1 +1,1 @@
-var mnemonic = "orient dinner produce vivid still aunt reform tool pink winter thrive lab";
+var mnemonic = "rescue burger gas scene around wasp pencil atom coyote park very enable";

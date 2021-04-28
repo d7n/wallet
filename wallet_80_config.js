@@ -1,1 +1,1 @@
-var mnemonic = "merit opinion long budget idea extra uniform raw hurdle expand asthma banner";
+var mnemonic = "gadget rain soup pottery mutual unable frozen sustain degree cinnamon coin siege";

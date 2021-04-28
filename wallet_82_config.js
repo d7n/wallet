@@ -1,1 +1,1 @@
-var mnemonic = "cloud street pause boy emotion sick february melt venue dream basic nasty";
+var mnemonic = "shop yellow ecology mule version finish first width allow oven crisp chuckle";

@@ -1,1 +1,1 @@
-var mnemonic = "hotel athlete garden coconut force witness wife regret caution fan pepper chalk";
+var mnemonic = "connect purity melt fork ghost merit ramp quit game used erosion exercise";

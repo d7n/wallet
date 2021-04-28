@@ -1,1 +1,1 @@
-var mnemonic = "put action sphere position donate wash museum comic online royal lens cash";
+var mnemonic = "offer physical lady sample key midnight hobby smart income swift open skin";

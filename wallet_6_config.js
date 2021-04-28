@@ -1,1 +1,1 @@
-var mnemonic = "law over age across depart table ancient comic liberty stomach false series";
+var mnemonic = "rotate winner attack still jelly quantum keen armed web local deposit blade";

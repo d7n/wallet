@@ -1,1 +1,1 @@
-var mnemonic = "toast response control barrel twist cancel hand matrix soap mom clump awful";
+var mnemonic = "civil youth grow spread label gauge topple middle finish hard faith trap";

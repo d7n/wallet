@@ -1,1 +1,1 @@
-var mnemonic = "arctic stage anxiety walk faith coconut describe pen upon tooth beauty agent";
+var mnemonic = "filter annual normal radar setup match payment endless fossil ill orchard fox";

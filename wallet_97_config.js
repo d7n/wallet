@@ -1,1 +1,1 @@
-var mnemonic = "current news soul admit trust myself camera limb broccoli seven student cotton";
+var mnemonic = "please naive moral soul tiny rival innocent radio super omit virus coral";

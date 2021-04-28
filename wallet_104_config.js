@@ -1,1 +1,1 @@
-var mnemonic = "know hen sheriff garden reunion mass window lottery tilt position genius bulb";
+var mnemonic = "jungle attack inhale safe cost soda maid position emotion nurse theme devote";

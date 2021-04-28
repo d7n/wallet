@@ -1,1 +1,1 @@
-var mnemonic = "weasel today auto foot reform gaze number rare easily arch ancient ethics";
+var mnemonic = "episode airport mutual grant snake social wreck before board crouch fox gauge";

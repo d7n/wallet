@@ -1,1 +1,1 @@
-var mnemonic = "mind almost puzzle phrase open access roof tower spread occur tattoo put";
+var mnemonic = "add wrestle soda wrap bike topple scatter pistol feel pen buyer wrestle";

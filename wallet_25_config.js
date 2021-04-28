@@ -1,1 +1,1 @@
-var mnemonic = "horn marine pet armor public merge health impact embody liberty polar inner";
+var mnemonic = "income prosper equip amused relax clever idle swarm pipe visit afraid eight";

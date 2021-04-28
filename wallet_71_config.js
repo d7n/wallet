@@ -1,1 +1,1 @@
-var mnemonic = "van brush glare rabbit twice athlete benefit door script element elder ginger";
+var mnemonic = "network fish sniff kid cost present ship vehicle end world deal twice";

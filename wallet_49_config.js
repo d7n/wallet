@@ -1,1 +1,1 @@
-var mnemonic = "episode rice solve busy winner horror cement grocery hover sign utility claw";
+var mnemonic = "someone simple sister shadow captain derive matrix know neither normal modify leaf";

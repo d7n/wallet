@@ -1,1 +1,1 @@
-var mnemonic = "lunar either general spice local buddy able eight ignore true fitness have";
+var mnemonic = "laundry rocket humor truth cross move arrest reflect brass fresh hybrid lens";

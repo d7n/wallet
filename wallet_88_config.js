@@ -1,1 +1,1 @@
-var mnemonic = "flush warfare reunion digital undo kangaroo buyer attitude donate vague result lesson";
+var mnemonic = "toe nest inflict provide wasp possible bag prefer certain must crumble trophy";

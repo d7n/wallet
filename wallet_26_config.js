@@ -1,1 +1,1 @@
-var mnemonic = "subway blossom island web surface entire betray dismiss shrug theme inquiry chronic";
+var mnemonic = "kidney damp verify frozen result move outside sort stone exist warrior endless";

@@ -1,1 +1,1 @@
-var mnemonic = "napkin local start alley twelve ignore warm seven wild humble object gentle";
+var mnemonic = "potato weird wisdom attract client behave object chronic violin ghost boss explain";

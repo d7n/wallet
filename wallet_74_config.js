@@ -1,1 +1,1 @@
-var mnemonic = "hotel stock heavy critic denial digital dog upgrade list hurry pumpkin absent";
+var mnemonic = "dash glance popular upon region gorilla plug culture advance mix spoon used";

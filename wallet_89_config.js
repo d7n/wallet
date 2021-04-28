@@ -1,1 +1,1 @@
-var mnemonic = "trap dilemma scout alter online acid room cherry fiber other view hen";
+var mnemonic = "owner copper this basket mansion noise mechanic fuel parade quality erosion belt";

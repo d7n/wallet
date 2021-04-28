@@ -1,1 +1,1 @@
-var mnemonic = "spice kiss glass hole avoid runway virtual parent cram crew rail skin";
+var mnemonic = "toy field wait train bus goose parent hand creek park deer guide";

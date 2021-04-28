@@ -1,1 +1,1 @@
-var mnemonic = "mechanic agent small grace saddle inhale repair unit wrong beach erode short";
+var mnemonic = "scatter rocket athlete harsh asthma burst pudding pilot mango pipe trouble renew";

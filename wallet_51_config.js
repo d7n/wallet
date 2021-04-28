@@ -1,1 +1,1 @@
-var mnemonic = "hockey spy kiwi lava artist genius invite glory clutch hammer toss avocado";
+var mnemonic = "sadness supreme syrup warm promote stage woman satisfy aunt feel tackle puppy";

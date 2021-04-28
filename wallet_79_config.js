@@ -1,1 +1,1 @@
-var mnemonic = "oak oppose shy void check age hungry nominee wish wide gaze inquiry";
+var mnemonic = "wreck vendor lounge illness tiger luxury daughter afford negative silver usual industry";

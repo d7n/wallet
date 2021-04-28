@@ -1,1 +1,1 @@
-var mnemonic = "festival rubber motor swarm club cook wrap service hill surge success agree";
+var mnemonic = "apart danger depend flag hole aware popular gown quarter dream ankle bulk";

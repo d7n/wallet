@@ -1,1 +1,1 @@
-var mnemonic = "dirt illegal index hurt cute enforce sell shield shell salute law common";
+var mnemonic = "black divorce assist deposit sunny share jelly lake laugh tragic basic pride";

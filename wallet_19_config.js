@@ -1,1 +1,1 @@
-var mnemonic = "hero force hen naive spoil access palace forward drift gift vast beauty";
+var mnemonic = "bachelor season burst guide roast decade measure edge equip burger chair gauge";

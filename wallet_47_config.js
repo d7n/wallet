@@ -1,1 +1,1 @@
-var mnemonic = "brand embody guard neutral horn slab manage ten fitness gauge bounce steel";
+var mnemonic = "pyramid radar absorb rice dry soldier spot tag reflect hat cancel legend";

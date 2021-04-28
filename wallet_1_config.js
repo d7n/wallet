@@ -1,1 +1,1 @@
-var mnemonic = "require exchange scissors unaware puzzle ginger cruise chat afraid fix coast menu";
+var mnemonic = "bus smoke envelope live meat sniff limb bunker hire april tail battle";

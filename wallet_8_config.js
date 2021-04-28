@@ -1,1 +1,1 @@
-var mnemonic = "hurt surface current puzzle share fashion crucial loud icon author pass early";
+var mnemonic = "seven biology praise dinosaur aspect random ginger armor tobacco bid tone round";

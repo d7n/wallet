@@ -1,1 +1,1 @@
-var mnemonic = "middle assist cushion oxygen eight hotel mesh silly under spider replace two";
+var mnemonic = "trim situate desk uniform chat purchase board cute element pig worth frost";

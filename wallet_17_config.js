@@ -1,1 +1,1 @@
-var mnemonic = "make front daughter siege traffic garbage february anger bullet viable cactus talent";
+var mnemonic = "recipe angry sketch blush garbage bomb silly meadow correct neither urge gravity";

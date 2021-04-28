@@ -1,1 +1,1 @@
-var mnemonic = "video depend local half clinic flip farm olive undo hockey volcano attract";
+var mnemonic = "copy minimum prison pledge unfair nest green dial rate stove exhaust erase";

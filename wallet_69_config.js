@@ -1,1 +1,1 @@
-var mnemonic = "south injury firm pool autumn tourist super suit fat ramp bulk float";
+var mnemonic = "opinion quiz other script mutual raven accuse window online wash jewel family";

@@ -1,1 +1,1 @@
-var mnemonic = "dinner focus silver peace series obey mirror guard donor together soccer unveil";
+var mnemonic = "write ignore slice squirrel shift shoot rug assist garbage garden banner april";

@@ -1,1 +1,1 @@
-var mnemonic = "cabbage ocean half team train stadium close daughter illness fatigue goose issue";
+var mnemonic = "lobster garbage smart typical remember bonus fiction like broom plug super chapter";

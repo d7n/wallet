@@ -1,1 +1,1 @@
-var mnemonic = "inflict gospel vault write spider razor mean brief october busy chapter display";
+var mnemonic = "option expand behind armor winter until gadget piano supply abstract mom perfect";

@@ -1,1 +1,1 @@
-var mnemonic = "monitor float frame wild slam know soldier hire ostrich sheriff capable lottery";
+var mnemonic = "goat glove fuel broccoli heart sadness intact stable concert sick tragic brown";

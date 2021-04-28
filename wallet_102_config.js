@@ -1,1 +1,1 @@
-var mnemonic = "famous east day major wide city side later sibling primary else soup";
+var mnemonic = "pulse cheese hover alien render there buffalo attack couple castle common off";
