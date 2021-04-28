@@ -1,1 +1,1 @@
-var mnemonic = "skirt annual cool news radar crumble monster math uniform sea paper tenant";
+var mnemonic = "arch amazing pencil industry antique crime destroy behind call badge matter gorilla";

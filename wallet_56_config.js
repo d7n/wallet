@@ -1,1 +1,1 @@
-var mnemonic = "couch surround width wisdom depth crush cost year help convince tower april";
+var mnemonic = "wear one flash castle congress eager deposit kitchen never piece beyond hedgehog";

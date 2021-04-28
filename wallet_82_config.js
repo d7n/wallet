@@ -1,1 +1,1 @@
-var mnemonic = "worry cheese song relax salon tower engage month panel stage inhale basic";
+var mnemonic = "purchase air seed catalog runway drill spy loan trash blush erase island";

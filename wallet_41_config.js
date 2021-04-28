@@ -1,1 +1,1 @@
-var mnemonic = "brain switch mail east wasp target donkey solution slam ski noise organ";
+var mnemonic = "salad destroy shoot coach sausage garlic argue also velvet asthma better verb";

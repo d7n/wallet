@@ -1,1 +1,1 @@
-var mnemonic = "strike salt east firm gown latin paddle embrace observe clever balcony charge";
+var mnemonic = "ankle basket raise situate peace follow one sword lawsuit ability nest civil";

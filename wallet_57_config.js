@@ -1,1 +1,1 @@
-var mnemonic = "dial attend roof choice curve trade flame initial flight either iron such";
+var mnemonic = "fine budget render hello lounge weather daring enforce come harvest myself elevator";

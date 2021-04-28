@@ -1,1 +1,1 @@
-var mnemonic = "lift fork mutual helmet grow upset crystal pulp hockey balcony consider salon";
+var mnemonic = "clerk machine matter own mimic member palm deny ethics place recycle notice";

@@ -1,1 +1,1 @@
-var mnemonic = "author erase search liquid february net judge swarm under okay hand debate";
+var mnemonic = "barrel predict domain frame slow just february conduct joke piece version reunion";

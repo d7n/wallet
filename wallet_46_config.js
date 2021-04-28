@@ -1,1 +1,1 @@
-var mnemonic = "improve cousin vanish chalk vault coach demise alarm wrist thumb hand two";
+var mnemonic = "thunder brown shallow orbit cave nest salute hold donor spider frequent village";

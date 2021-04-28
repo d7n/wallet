@@ -1,1 +1,1 @@
-var mnemonic = "place clip crash dance south chef sunset dice captain foot awkward fever";
+var mnemonic = "exclude evidence insect fashion slush tribe awake sister around unlock lecture message";

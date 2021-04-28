@@ -1,1 +1,1 @@
-var mnemonic = "cash measure install deny sword spider envelope leaf reject drift shallow record";
+var mnemonic = "estate loan assume prevent scout kick asthma local draft stick recall measure";

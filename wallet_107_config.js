@@ -1,1 +1,1 @@
-var mnemonic = "never better mystery true easy girl pretty quote bench silk effort chunk";
+var mnemonic = "more absurd famous excuse patient milk rail off carpet hedgehog tag grape";

@@ -1,1 +1,1 @@
-var mnemonic = "donate curious bullet myth inmate oxygen typical olive fade canoe trade bone";
+var mnemonic = "cat replace push sorry glad sock angle stadium post ribbon wave flip";

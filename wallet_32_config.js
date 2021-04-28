@@ -1,1 +1,1 @@
-var mnemonic = "donor phrase twelve scan search badge alley gravity increase quick pilot list";
+var mnemonic = "hood season melt question away art castle abstract lottery champion adjust rocket";

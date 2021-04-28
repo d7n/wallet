@@ -1,1 +1,1 @@
-var mnemonic = "step brick casual wink critic boss text forest law avoid raven fee";
+var mnemonic = "concert legend noise antenna subject this fragile kick slogan reason company shove";

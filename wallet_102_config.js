@@ -1,1 +1,1 @@
-var mnemonic = "library twelve truly minute quit finger kiss afford enemy magnet guard marble";
+var mnemonic = "slender entry engage jelly sponsor scare sea reduce nose captain never maximum";

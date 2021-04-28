@@ -1,1 +1,1 @@
-var mnemonic = "work sleep collect fall safe resemble earth window caution possible one cluster";
+var mnemonic = "minor awkward when property bacon carbon science replace regular valid spray credit";

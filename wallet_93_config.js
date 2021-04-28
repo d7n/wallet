@@ -1,1 +1,1 @@
-var mnemonic = "call abuse all economy base fatigue toilet library sport wool welcome very";
+var mnemonic = "suspect choice trigger erupt case elder jaguar stage above similar glare grain";

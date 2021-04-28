@@ -1,1 +1,1 @@
-var mnemonic = "phrase satisfy town kid royal drop gorilla nephew subway green broken feed";
+var mnemonic = "cruel bitter pudding erode almost almost favorite panic humor limit velvet brass";

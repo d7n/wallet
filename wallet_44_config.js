@@ -1,1 +1,1 @@
-var mnemonic = "finger sting spell spoil process vicious project napkin despair royal course friend";
+var mnemonic = "clean slight story close shell decline head ugly lobster resource novel sudden";

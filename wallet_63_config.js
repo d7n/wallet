@@ -1,1 +1,1 @@
-var mnemonic = "keen hotel armor guitar taxi glad achieve climb earn mimic snake tower";
+var mnemonic = "ugly embark letter deposit cute mechanic control fire silk climb despair van";

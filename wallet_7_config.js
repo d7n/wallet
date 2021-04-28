@@ -1,1 +1,1 @@
-var mnemonic = "hill snake dynamic click lake infant uncle chapter secret diesel utility liquid";
+var mnemonic = "season crazy cave derive giant into spider iron range custom soap engage";

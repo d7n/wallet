@@ -1,1 +1,1 @@
-var mnemonic = "flush rude teach private vintage speed hurry review black stick nothing satoshi";
+var mnemonic = "kit bargain subway cinnamon asthma rescue across neglect spice witness risk symbol";

@@ -1,1 +1,1 @@
-var mnemonic = "alien grab assume want tilt quick museum dog glimpse phone lend because";
+var mnemonic = "joke entire finish left amateur void spatial pulse razor net rifle illness";

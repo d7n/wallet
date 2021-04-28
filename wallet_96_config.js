@@ -1,1 +1,1 @@
-var mnemonic = "material enable rally level luggage define fantasy degree always frozen glory rude";
+var mnemonic = "faint pen affair alone finger spell spatial century age person rural spray";

@@ -1,1 +1,1 @@
-var mnemonic = "defense heavy sea occur brass task beef level find donkey nature pipe";
+var mnemonic = "seat history bridge cart cancel okay mobile month planet token stay ahead";

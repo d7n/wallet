@@ -1,1 +1,1 @@
-var mnemonic = "siege mom ten hungry maze mutual calm universe universe design close tunnel";
+var mnemonic = "when drip wrong anger thank acquire segment board decide bar ship speed";

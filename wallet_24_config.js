@@ -1,1 +1,1 @@
-var mnemonic = "stadium inspire chunk grow swap apple breeze cinnamon arctic exotic tip luxury";
+var mnemonic = "high project impose detail detail caution supply dress reopen carbon retreat phone";

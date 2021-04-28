@@ -1,1 +1,1 @@
-var mnemonic = "balance enact mammal foil uncover happy wine exclude table weasel grocery morning";
+var mnemonic = "base stadium cat link october coffee first exact another rotate kitten cherry";

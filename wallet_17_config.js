@@ -1,1 +1,1 @@
-var mnemonic = "chicken caught bring wild child busy glance mystery helmet olympic upgrade ticket";
+var mnemonic = "flight surprise word rich canyon choose baby endless weapon toss lumber face";

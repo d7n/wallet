@@ -1,1 +1,1 @@
-var mnemonic = "idle punch exhibit brand squeeze little estate secret lake tornado card link";
+var mnemonic = "below muscle begin bind dignity burst give ostrich wonder tunnel move horn";

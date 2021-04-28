@@ -1,1 +1,1 @@
-var mnemonic = "pear fade remember pioneer silly silver island gospel pencil chat fossil core";
+var mnemonic = "sample story bundle limb romance dutch shadow elevator usual special chapter alpha";

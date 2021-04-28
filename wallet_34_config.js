@@ -1,1 +1,1 @@
-var mnemonic = "awkward expose when fun void toast bulk measure satoshi poverty off truck";
+var mnemonic = "entry crop lawsuit remind wrong arch minute arm climb assault crouch eager";

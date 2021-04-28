@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog oxygen skirt kidney arena index shine genre hand area resist surprise";
+var mnemonic = "melody globe wet twelve entire law gather actress night pipe salon insect";

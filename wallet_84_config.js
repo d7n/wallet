@@ -1,1 +1,1 @@
-var mnemonic = "cotton nose thank enrich census dynamic peanut shoot high wall tuition card";
+var mnemonic = "flower boil above special donkey tent cost gallery cook nose grass heart";

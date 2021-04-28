@@ -1,1 +1,1 @@
-var mnemonic = "stomach multiply recipe genius elite enforce knife one tilt patch pair firm";
+var mnemonic = "match calm shrimp exist age lunar rate guide bridge tail cram plunge";

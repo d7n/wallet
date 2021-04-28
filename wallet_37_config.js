@@ -1,1 +1,1 @@
-var mnemonic = "liberty obey rocket strike pelican suspect thought patient maze south rare found";
+var mnemonic = "welcome relax alcohol crowd pear mandate journey furnace print flame snow employ";

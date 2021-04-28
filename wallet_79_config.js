@@ -1,1 +1,1 @@
-var mnemonic = "toast decide shoot stumble song much ensure ivory crystal other bulb element";
+var mnemonic = "green result noble ketchup dance chunk spare popular sibling raven extra multiply";

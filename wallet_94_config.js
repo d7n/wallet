@@ -1,1 +1,1 @@
-var mnemonic = "across list mind employ text once mandate quiz tube monster cave attend";
+var mnemonic = "stereo shed width loud company come dinner emerge leader man almost skirt";

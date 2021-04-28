@@ -1,1 +1,1 @@
-var mnemonic = "mistake agent disagree avocado finger embody hurt wrong neutral echo width black";
+var mnemonic = "carpet true champion pottery safe betray mean rally habit upper liquid glance";

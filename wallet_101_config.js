@@ -1,1 +1,1 @@
-var mnemonic = "enhance melody milk wolf consider define enemy exit book vehicle swear glance";
+var mnemonic = "fee antenna cereal keep famous awake upper office index family airport alone";

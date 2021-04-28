@@ -1,1 +1,1 @@
-var mnemonic = "praise balance begin ski damage debate dynamic actor pencil fox mandate alone";
+var mnemonic = "vapor mobile still south banana taxi injury knife beyond demise resist mention";

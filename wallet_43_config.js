@@ -1,1 +1,1 @@
-var mnemonic = "day twin lens method business tail pledge open buyer deputy trial match";
+var mnemonic = "gate gun supply leg arch across sure honey service neck stone dream";

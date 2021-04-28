@@ -1,1 +1,1 @@
-var mnemonic = "unveil market search monkey ugly notice sauce shop problem valve fan local";
+var mnemonic = "guitar swing rhythm doll winner stick clever cannon lesson priority torch people";

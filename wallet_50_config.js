@@ -1,1 +1,1 @@
-var mnemonic = "pride measure bridge daring wedding rice level nature neutral arctic chimney slight";
+var mnemonic = "stumble electric network kiwi cabin large project guard only solution island nasty";

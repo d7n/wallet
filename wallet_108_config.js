@@ -1,1 +1,1 @@
-var mnemonic = "outside orient wealth garment where orphan sad grow lucky radio minor myself";
+var mnemonic = "depth tooth trip cost series artwork only clog point oval flee inject";

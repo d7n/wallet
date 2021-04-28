@@ -1,1 +1,1 @@
-var mnemonic = "pioneer abuse gloom slender trash above enhance decide stay film come scan";
+var mnemonic = "draft brand dolphin winner mistake domain auto upon bind census regret photo";

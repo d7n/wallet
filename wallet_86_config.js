@@ -1,1 +1,1 @@
-var mnemonic = "vibrant mirror poet treat nasty shell bag sting hold distance flee attend";
+var mnemonic = "kiwi tell traffic arrange symbol cushion pumpkin rib route staff situate blue";

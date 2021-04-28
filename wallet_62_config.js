@@ -1,1 +1,1 @@
-var mnemonic = "sting cube climb robot true float frown solar poem egg absorb corn";
+var mnemonic = "present install pilot recipe answer defense tortoise middle window shell dash game";

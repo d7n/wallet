@@ -1,1 +1,1 @@
-var mnemonic = "eager cup salute advice great exotic grass disagree enact loan dinosaur disease";
+var mnemonic = "picture act giggle office hamster coast huge fog spell inspire trouble pact";

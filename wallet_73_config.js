@@ -1,1 +1,1 @@
-var mnemonic = "style divert kidney grocery banner raise whisper index embrace fat swarm use";
+var mnemonic = "tired cost comic assault expect entire tired lift awful elbow wave marble";

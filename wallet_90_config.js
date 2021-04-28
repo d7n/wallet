@@ -1,1 +1,1 @@
-var mnemonic = "web captain sweet secret flight leaf learn bounce resist bean notable voice";
+var mnemonic = "gaze panther crouch way amateur soap circle jelly fetch bag east kid";

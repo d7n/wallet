@@ -1,1 +1,1 @@
-var mnemonic = "script quiz garbage body cushion seed river venue roof lamp slam try";
+var mnemonic = "scrap caught scatter stick unhappy sample street supply seat trumpet alcohol such";

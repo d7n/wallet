@@ -1,1 +1,1 @@
-var mnemonic = "stairs shock decrease physical trouble valve excess quality east brisk security include";
+var mnemonic = "turn maple orient elevator quick poet price embark bitter bullet invest cactus";

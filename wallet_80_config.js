@@ -1,1 +1,1 @@
-var mnemonic = "lion wife patrol document arrive tennis venue silent claim local ask rival";
+var mnemonic = "sun fee hole dial sort oyster erosion heart doll solar typical theory";

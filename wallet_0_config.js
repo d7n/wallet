@@ -1,1 +1,1 @@
-var mnemonic = "either rural axis exclude canvas toddler question flash half dad name plunge";
+var mnemonic = "tribe menu palm cost song foot mammal cigar name syrup room dove";

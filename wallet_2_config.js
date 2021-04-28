@@ -1,1 +1,1 @@
-var mnemonic = "item addict street chaos visa cannon quarter test win sock panda song";
+var mnemonic = "soul glimpse guess tip trial swift skill layer act stem welcome flight";

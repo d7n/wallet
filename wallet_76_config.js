@@ -1,1 +1,1 @@
-var mnemonic = "gold mango evidence bench enlist describe physical popular rigid fly loyal measure";
+var mnemonic = "depart normal catalog saddle split diary nation win burger bind sample use";

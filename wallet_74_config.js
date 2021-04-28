@@ -1,1 +1,1 @@
-var mnemonic = "fancy arrive shiver guide clog payment alert pluck still desert age off";
+var mnemonic = "abuse duty before airport suffer bracket school wrong forward then shine inside";

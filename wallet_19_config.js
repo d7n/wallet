@@ -1,1 +1,1 @@
-var mnemonic = "cruise practice reveal rude situate actor frog cheese twelve city hand void";
+var mnemonic = "doctor expire clown pear man surge company health slide avoid salt floor";

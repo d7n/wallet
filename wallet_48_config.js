@@ -1,1 +1,1 @@
-var mnemonic = "sketch trash miracle woman era ready document lend denial volcano because judge";
+var mnemonic = "fade scrub project pig cost ensure gold lens fashion bright screen organ";

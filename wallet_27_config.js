@@ -1,1 +1,1 @@
-var mnemonic = "ghost taste identify saddle emerge song reduce struggle cook until nothing habit";
+var mnemonic = "stereo wave angle eyebrow robust romance benefit slow nominee resource cover width";

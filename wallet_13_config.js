@@ -1,1 +1,1 @@
-var mnemonic = "mesh oval bronze champion scrub sock derive lady liquid stool field quiz";
+var mnemonic = "gate ten assist suspect document breeze shy army ozone banana couple siren";

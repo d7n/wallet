@@ -1,1 +1,1 @@
-var mnemonic = "kiss describe era outdoor stuff ill abuse sorry pass need army soap";
+var mnemonic = "fire unaware web guess valley boost medal useless stage hungry canvas promote";

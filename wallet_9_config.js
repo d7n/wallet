@@ -1,1 +1,1 @@
-var mnemonic = "benefit rescue point loop fee nominee hill section close tuition rocket trend";
+var mnemonic = "hope page olympic acquire village head park usage seed lawn benefit brief";

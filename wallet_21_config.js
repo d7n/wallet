@@ -1,1 +1,1 @@
-var mnemonic = "almost trophy rescue mercy sell more blind vibrant erode drive resist nest";
+var mnemonic = "frozen solar orchard frozen furnace belt canal fortune depart endless end ketchup";

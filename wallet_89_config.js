@@ -1,1 +1,1 @@
-var mnemonic = "master crouch month foam across grit famous sight version replace flight pride";
+var mnemonic = "buzz extra found slam often orange cotton ozone case photo outside what";

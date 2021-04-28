@@ -1,1 +1,1 @@
-var mnemonic = "cage goat mercy permit taxi stage lemon please lunch casino attitude metal";
+var mnemonic = "aisle begin remain cream boil feature nation rebuild wealth dry garbage tennis";

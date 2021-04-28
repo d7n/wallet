@@ -1,1 +1,1 @@
-var mnemonic = "relax dinosaur say gasp over zoo elegant autumn mystery top husband unveil";
+var mnemonic = "volume forget garage large hurt spoil canoe rice follow name circle wave";

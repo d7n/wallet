@@ -1,1 +1,1 @@
-var mnemonic = "camp common blur pioneer sell female unknown stomach pepper action rug thumb";
+var mnemonic = "acid finger bicycle similar height swarm cancel above jungle coast velvet attend";

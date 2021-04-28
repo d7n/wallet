@@ -1,1 +1,1 @@
-var mnemonic = "bachelor fossil raw never salon sphere ill scan toilet swallow orient alone";
+var mnemonic = "invest grow like debris firm invest cactus history tip myth detect alone";

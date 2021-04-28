@@ -1,1 +1,1 @@
-var mnemonic = "scene fringe strong govern stamp tired follow pepper wool client quarter kingdom";
+var mnemonic = "canyon soccer upset bind repeat impact million better gallery cost laundry afford";

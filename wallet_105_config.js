@@ -1,1 +1,1 @@
-var mnemonic = "toast swift food amazing spirit sport cattle kit figure few unveil pen";
+var mnemonic = "crazy lady rally expire render popular cash vacant warfare bind unusual reflect";

@@ -1,1 +1,1 @@
-var mnemonic = "utility grit gaze skill term mom afraid twice antenna total party merge";
+var mnemonic = "frame life donor finish fun entire update tongue smooth merit maximum sleep";

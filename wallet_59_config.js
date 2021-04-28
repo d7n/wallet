@@ -1,1 +1,1 @@
-var mnemonic = "coconut merry bamboo addict meadow winner heart museum adjust clip caught author";
+var mnemonic = "enrich priority unveil speed happy defense elbow glance purity device tumble prepare";

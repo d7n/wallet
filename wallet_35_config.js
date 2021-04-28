@@ -1,1 +1,1 @@
-var mnemonic = "confirm above play scan parade labor radio method unfair donor tent vault";
+var mnemonic = "shrug rookie clean final mind stool soft grid fantasy angle feed metal";

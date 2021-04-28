@@ -1,1 +1,1 @@
-var mnemonic = "slab lend clean float client skill winner brush tackle size this gather";
+var mnemonic = "scatter increase middle vacuum woman crawl uniform rare bench review exhaust city";

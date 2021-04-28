@@ -1,1 +1,1 @@
-var mnemonic = "pride double fox collect mechanic small rely detect much left report topple";
+var mnemonic = "chalk type move hood wrap repair salmon foil error stand exhibit physical";

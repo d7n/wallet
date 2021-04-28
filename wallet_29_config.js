@@ -1,1 +1,1 @@
-var mnemonic = "sadness achieve pepper subject proud cloth woman volume talent click consider crash";
+var mnemonic = "garlic pause order jelly junk move ticket genre this tide music kitten";

@@ -1,1 +1,1 @@
-var mnemonic = "give stage shy surround image program black cotton army tornado alone pioneer";
+var mnemonic = "spike floor sport three grow dawn timber income shield flight soda grief";

@@ -1,1 +1,1 @@
-var mnemonic = "figure switch increase parent feature liberty quote nothing charge coil churn deputy";
+var mnemonic = "oblige farm walk stable radio outside trip ridge notable nasty feature network";

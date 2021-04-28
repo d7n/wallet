@@ -1,1 +1,1 @@
-var mnemonic = "prison benefit club eagle brown large risk gate digital impulse train upper";
+var mnemonic = "sock plug egg alert rely notice bright hurt electric real swift liquid";

@@ -1,1 +1,1 @@
-var mnemonic = "van clean obvious fork flip dinosaur pioneer equal hedgehog walk custom sheriff";
+var mnemonic = "speak oblige price recycle mixture gallery tumble album fat power purpose citizen";

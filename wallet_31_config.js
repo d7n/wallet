@@ -1,1 +1,1 @@
-var mnemonic = "bird offer cotton green hand connect december wrist three define tuna upper";
+var mnemonic = "art annual figure hungry bachelor purpose clump retreat spawn clever scorpion shaft";

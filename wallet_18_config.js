@@ -1,1 +1,1 @@
-var mnemonic = "text humor kidney fame abuse gloom saddle have bean hire tobacco pelican";
+var mnemonic = "nation pig poverty enforce goose vendor erosion vocal frog degree range ten";
