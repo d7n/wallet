@@ -1,1 +1,1 @@
-var mnemonic = "broccoli earth point control mountain velvet shoulder copper siege van spoil autumn";
+var mnemonic = "feature bread whip angle short episode web century eternal slush twenty accident";

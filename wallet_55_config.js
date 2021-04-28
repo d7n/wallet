@@ -1,1 +1,1 @@
-var mnemonic = "army lucky bronze minute cloud exercise kingdom year police impulse borrow oyster";
+var mnemonic = "pause settle sample session kit lawsuit banner absorb oxygen danger club junior";

@@ -1,1 +1,1 @@
-var mnemonic = "void wasp small blast general syrup game charge give truth limit flower";
+var mnemonic = "outdoor narrow point keep negative mean liquid grid kiss glass skate able";

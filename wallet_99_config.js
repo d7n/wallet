@@ -1,1 +1,1 @@
-var mnemonic = "beyond effort bomb soul myth key breeze bike once liar cushion device";
+var mnemonic = "copy antenna bean brick kidney host dove dish zero street common obvious";

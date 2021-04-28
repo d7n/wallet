@@ -1,1 +1,1 @@
-var mnemonic = "van nuclear ghost lesson tunnel adult lottery category divorce mystery choose pair";
+var mnemonic = "traffic service rough maximum pact scale safe access post stand penalty crush";

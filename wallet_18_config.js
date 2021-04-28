@@ -1,1 +1,1 @@
-var mnemonic = "neither ill client woman genuine run eyebrow remain lounge material shiver civil";
+var mnemonic = "museum harvest chapter buzz burger amazing various slogan strategy secret solution elder";

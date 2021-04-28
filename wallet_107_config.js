@@ -1,1 +1,1 @@
-var mnemonic = "ritual cake arctic idle tray library shrug junk claim impose nerve absent";
+var mnemonic = "shadow sauce tail account wine brisk elbow game calm sing return burden";

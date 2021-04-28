@@ -1,1 +1,1 @@
-var mnemonic = "pottery bless found sail situate middle force hamster winner library negative provide";
+var mnemonic = "open genre library hard buddy ask program fire security famous chest pioneer";

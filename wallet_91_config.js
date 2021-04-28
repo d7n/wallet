@@ -1,1 +1,1 @@
-var mnemonic = "acquire skirt door sleep card act cotton engine sleep favorite remember trim";
+var mnemonic = "ignore safe deputy awesome say ask swarm nest blossom average salon elite";

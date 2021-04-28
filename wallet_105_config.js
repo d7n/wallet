@@ -1,1 +1,1 @@
-var mnemonic = "curve goose skin puppy rate reform verify mean pioneer mention audit cargo";
+var mnemonic = "grief metal wisdom gift jewel medal outer obvious couch kingdom aunt wreck";

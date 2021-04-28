@@ -1,1 +1,1 @@
-var mnemonic = "then illness pumpkin magnet island toddler april glad become fish oven guard";
+var mnemonic = "shallow caution devote donate unfold trade test judge cave foot dignity buddy";

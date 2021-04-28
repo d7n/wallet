@@ -1,1 +1,1 @@
-var mnemonic = "cement credit obscure empower hood swarm avoid chalk forget couple moon detect";
+var mnemonic = "metal guard vendor noodle secret moral ability wink street hospital hidden exhibit";

@@ -1,1 +1,1 @@
-var mnemonic = "issue august silly ready safe state luxury canyon ski steel crush power";
+var mnemonic = "hobby maximum potato crumble floor blind attract minimum surprise penalty penalty kidney";

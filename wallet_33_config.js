@@ -1,1 +1,1 @@
-var mnemonic = "web shoot wisdom coach boat cattle hope swallow doctor pledge sentence polar";
+var mnemonic = "educate supreme robot confirm quick error long tool waste grace series sleep";

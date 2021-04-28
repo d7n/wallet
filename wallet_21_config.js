@@ -1,1 +1,1 @@
-var mnemonic = "start trap earn now transfer again home horn enable walk fabric march";
+var mnemonic = "relief high never marble budget ceiling ill actress merit trigger keen quit";

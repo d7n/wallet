@@ -1,1 +1,1 @@
-var mnemonic = "tower insane giant what stamp debris gather private scatter ceiling neutral quiz";
+var mnemonic = "crop deny current include orbit eyebrow express discover owner swap crucial ride";

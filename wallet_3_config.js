@@ -1,1 +1,1 @@
-var mnemonic = "solution drift visit space ostrich bulk volume calm design tomorrow wire reason";
+var mnemonic = "upgrade brush charge believe skull detail fatal little post gallery oak power";

@@ -1,1 +1,1 @@
-var mnemonic = "orient develop army will sample pet protect coil teach flash enact correct";
+var mnemonic = "spice gain poverty token use put total between dawn inform oyster sudden";

@@ -1,1 +1,1 @@
-var mnemonic = "magnet wheel shell salmon stay vicious hero history shed rapid beyond hello";
+var mnemonic = "music iron brother punch never congress curtain upgrade floor scatter habit more";

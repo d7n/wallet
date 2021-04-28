@@ -1,1 +1,1 @@
-var mnemonic = "holiday vicious blame maze post kite chapter exist lamp idea very grief";
+var mnemonic = "seven reward rapid orange noodle orient flee capable tag unusual today expand";

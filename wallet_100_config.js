@@ -1,1 +1,1 @@
-var mnemonic = "goat giraffe sort antenna sadness dignity host hard rice nuclear injury you";
+var mnemonic = "curtain end canyon kit tree avoid obey bar foil diamond venture three";

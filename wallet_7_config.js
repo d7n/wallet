@@ -1,1 +1,1 @@
-var mnemonic = "next subject cheap drill example work assault aisle sight lava replace moral";
+var mnemonic = "gym drift calm insane rug car sentence purity thought theme load cup";

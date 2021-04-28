@@ -1,1 +1,1 @@
-var mnemonic = "armor cake neck protect symbol hungry eight view giggle later feature dwarf";
+var mnemonic = "rain autumn diamond orphan pull fitness grass fall cattle medal rich pluck";

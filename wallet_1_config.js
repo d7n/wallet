@@ -1,1 +1,1 @@
-var mnemonic = "chief almost slush donkey muffin hungry will receive cradle cloud whale melody";
+var mnemonic = "already shove trouble strong buffalo refuse unveil ahead reflect tube return credit";

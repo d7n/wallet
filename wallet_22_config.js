@@ -1,1 +1,1 @@
-var mnemonic = "switch fish depth cliff liberty donkey cake bird goat chat embrace gym";
+var mnemonic = "crane motion expect purpose swarm grocery issue leave state depth stadium picnic";

@@ -1,1 +1,1 @@
-var mnemonic = "once session impact wide elite law pony festival window there silk sea";
+var mnemonic = "general impulse nuclear about boss suggest mom flavor essence still system treat";

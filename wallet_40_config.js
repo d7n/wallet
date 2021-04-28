@@ -1,1 +1,1 @@
-var mnemonic = "keen brush before speak grain exhibit demand inside coral year dove embody";
+var mnemonic = "ignore walk ostrich adapt sound blue team eyebrow food rubber salute nest";

@@ -1,1 +1,1 @@
-var mnemonic = "bench very chalk season supreme human rich mango common immune tip strategy";
+var mnemonic = "during issue stairs flag aerobic friend tower quality daughter tuition scissors flavor";

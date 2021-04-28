@@ -1,1 +1,1 @@
-var mnemonic = "episode marble brisk breeze defense ivory bind wrap sand pipe observe spend";
+var mnemonic = "agent raw cricket length produce goddess answer believe rude play dad release";

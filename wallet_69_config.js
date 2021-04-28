@@ -1,1 +1,1 @@
-var mnemonic = "slogan trip social charge dust breeze leaf diary crunch meat butter egg";
+var mnemonic = "dawn window square powder soda grant hurdle obtain erase inherit output jar";

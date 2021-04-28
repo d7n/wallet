@@ -1,1 +1,1 @@
-var mnemonic = "hire witness rug escape cluster step citizen decorate cheese october crisp evolve";
+var mnemonic = "outdoor elbow true key volume bind hundred habit rhythm hen fluid nice";

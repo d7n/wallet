@@ -1,1 +1,1 @@
-var mnemonic = "pledge smart raccoon legal when tumble host siren treat kitten awesome fix";
+var mnemonic = "estate path night reflect mammal range patch proof false session album omit";

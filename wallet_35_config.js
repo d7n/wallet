@@ -1,1 +1,1 @@
-var mnemonic = "language meadow child green apart angle soul permit miss luxury material father";
+var mnemonic = "ski advance blast couple tonight person spare crystal leg mammal surprise quote";

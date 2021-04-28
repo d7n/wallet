@@ -1,1 +1,1 @@
-var mnemonic = "more noise teach demise domain dress field rotate catch indoor double edge";
+var mnemonic = "legal shell humor naive wedding sail abuse security income impose horn canoe";

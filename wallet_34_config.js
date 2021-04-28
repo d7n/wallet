@@ -1,1 +1,1 @@
-var mnemonic = "delay advance tooth slender abuse spy budget habit junior vintage lizard nut";
+var mnemonic = "federal transfer subject zoo flip insane cereal museum kitchen science dawn army";

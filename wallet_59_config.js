@@ -1,1 +1,1 @@
-var mnemonic = "budget link output sponsor elegant sponsor tip alone aisle aerobic kitchen wisdom";
+var mnemonic = "rail abuse bubble secret gaze jump extra document reduce ship kitchen fragile";

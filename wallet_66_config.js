@@ -1,1 +1,1 @@
-var mnemonic = "inquiry comfort motor pelican almost glare inflict assume prison express future verify";
+var mnemonic = "amused original ceiling select father iron zoo extend pigeon fun main language";

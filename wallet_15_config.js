@@ -1,1 +1,1 @@
-var mnemonic = "excess spot meat ceiling there ritual use write crazy hammer life tray";
+var mnemonic = "mad lock arch various squeeze shiver debris round transfer sphere tumble sense";

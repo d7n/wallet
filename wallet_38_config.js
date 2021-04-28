@@ -1,1 +1,1 @@
-var mnemonic = "suspect obvious good burst decide tortoise animal pulp ready shy gap nest";
+var mnemonic = "gospel pole cabin welcome alert display audit quiz nuclear pole accident odor";

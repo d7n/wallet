@@ -1,1 +1,1 @@
-var mnemonic = "crumble screen drive since stairs olive during world debris involve left loop";
+var mnemonic = "warfare shrug sad talent wide leg warfare wise impose industry harvest speed";

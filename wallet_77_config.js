@@ -1,1 +1,1 @@
-var mnemonic = "shove column vintage used rose staff inch best picture tube among festival";
+var mnemonic = "what border antenna weekend jelly carpet drop chef rough angry upset sword";

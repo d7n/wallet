@@ -1,1 +1,1 @@
-var mnemonic = "core dynamic network arm soul age soap pool mixed cry today bracket";
+var mnemonic = "salute strike mammal amateur title valley puzzle track message quarter enlist select";

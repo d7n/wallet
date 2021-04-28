@@ -1,1 +1,1 @@
-var mnemonic = "road tooth crane crew relax voice stay barrel dust stool pill topic";
+var mnemonic = "job rotate such picture broken festival above merry work advice know when";

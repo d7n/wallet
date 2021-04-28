@@ -1,1 +1,1 @@
-var mnemonic = "keep gorilla tired accuse eyebrow job sock title virtual zero talent omit";
+var mnemonic = "lobster gadget prefer open dress afford funny arm trim over despair such";

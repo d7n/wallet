@@ -1,1 +1,1 @@
-var mnemonic = "summer nurse twist salon cash rely cereal circle control walnut rural sphere";
+var mnemonic = "crystal spider enable resemble canyon lift pole accident limit owner check tattoo";

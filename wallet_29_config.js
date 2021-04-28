@@ -1,1 +1,1 @@
-var mnemonic = "erupt author food middle cradle another slush pink order damp arch disorder";
+var mnemonic = "corn prosper share ski blade space never scan swing plunge wild horror";

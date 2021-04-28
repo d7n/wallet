@@ -1,1 +1,1 @@
-var mnemonic = "coyote frown ridge have window bronze route olive float mouse system life";
+var mnemonic = "answer talk virtual palace year sign black fiscal assault walk rather allow";

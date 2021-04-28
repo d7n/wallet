@@ -1,1 +1,1 @@
-var mnemonic = "urge motion pelican traffic timber blush ride fame magic sea ladder noise";
+var mnemonic = "fat twelve remain feature rare kiwi wild wish ancient enhance aspect name";

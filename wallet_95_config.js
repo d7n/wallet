@@ -1,1 +1,1 @@
-var mnemonic = "reunion disease much there child draft melt reject autumn crowd develop prize";
+var mnemonic = "domain drama stick doctor avocado fork miss alter rigid visa wall vast";

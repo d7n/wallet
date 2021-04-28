@@ -1,1 +1,1 @@
-var mnemonic = "wreck moral tube maze kangaroo ordinary ketchup increase robust cattle toddler manage";
+var mnemonic = "organ raise choose payment smart dice major patch cement indicate ankle lucky";

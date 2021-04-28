@@ -1,1 +1,1 @@
-var mnemonic = "fork borrow educate write tube like code eyebrow tilt memory sniff original";
+var mnemonic = "rather topple bacon pioneer tool gospel urge common away latin second reward";

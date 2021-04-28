@@ -1,1 +1,1 @@
-var mnemonic = "hospital raw slam blue crew fiction coach awesome tuition assume raven stem";
+var mnemonic = "gown reform shoe poverty caution demand neutral genre agree meadow busy source";

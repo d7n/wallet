@@ -1,1 +1,1 @@
-var mnemonic = "stadium language excuse express urge grunt sadness dial submit state phrase prison";
+var mnemonic = "secret squeeze toddler hamster person trim trick essay champion person quit burger";

@@ -1,1 +1,1 @@
-var mnemonic = "cube beach identify buffalo creek harbor stairs monster media room display punch";
+var mnemonic = "jazz above dwarf poverty wrap reflect avoid carry deal illness guilt demise";

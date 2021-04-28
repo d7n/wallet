@@ -1,1 +1,1 @@
-var mnemonic = "glue fiction pilot gown dwarf impact acoustic way nasty release flat notice";
+var mnemonic = "rifle birth frame resemble unable hedgehog jazz cruel bomb tragic tooth caution";

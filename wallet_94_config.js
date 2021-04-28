@@ -1,1 +1,1 @@
-var mnemonic = "fog advance slim pioneer wreck urge dice onion adapt luxury quarter shield";
+var mnemonic = "win circle absurd crush rally road hole raw gravity buffalo test connect";

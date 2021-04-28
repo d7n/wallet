@@ -1,1 +1,1 @@
-var mnemonic = "venture fitness emotion scrub crack asset federal enlist lizard simple unaware zoo";
+var mnemonic = "letter nice uncle strong never essence tattoo assault inside nurse mother present";

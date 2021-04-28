@@ -1,1 +1,1 @@
-var mnemonic = "long cherry thunder panic rent swamp great scout rubber call inject ignore";
+var mnemonic = "collect wrong category bubble dinosaur betray convince access miracle small tattoo banner";

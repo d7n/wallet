@@ -1,1 +1,1 @@
-var mnemonic = "clinic various lizard fury invite clay miss viable galaxy debris volcano spoil";
+var mnemonic = "expire human pulp warm later speed steel alley wet afford butter oppose";

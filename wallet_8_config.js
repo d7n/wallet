@@ -1,1 +1,1 @@
-var mnemonic = "learn old mutual slow unhappy soon math diet sauce public lounge aspect";
+var mnemonic = "fatigue about attract torch until pretty actress brain net sense corn predict";

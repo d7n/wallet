@@ -1,1 +1,1 @@
-var mnemonic = "crazy bulb orange evoke penalty repair tiny decide welcome pottery faith bus";
+var mnemonic = "involve wave trap talk false require pause exotic there shuffle board axis";

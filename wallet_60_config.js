@@ -1,1 +1,1 @@
-var mnemonic = "sniff brave stairs gasp hover mixed jewel leg skate mimic lock turkey";
+var mnemonic = "word produce space wine dwarf exotic doctor drip illness sad album cupboard";

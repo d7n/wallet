@@ -1,1 +1,1 @@
-var mnemonic = "theme rude library pig adjust toy apology grief average solution portion ribbon";
+var mnemonic = "very bag upon abandon ready chef burden spirit pond have concert fold";

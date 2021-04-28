@@ -1,1 +1,1 @@
-var mnemonic = "argue top dog cabbage legal task humor motor illegal bronze chat jeans";
+var mnemonic = "loan certain romance wool orphan typical fence promote casual unhappy diary add";

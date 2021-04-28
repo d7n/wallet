@@ -1,1 +1,1 @@
-var mnemonic = "disease rifle strategy blur argue pepper ghost fruit intact rice indicate raccoon";
+var mnemonic = "usual broken trip public system poet ancient swift give gate share deer";

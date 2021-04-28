@@ -1,1 +1,1 @@
-var mnemonic = "exercise abandon vintage elegant vital ride dumb primary tent despair draw empty";
+var mnemonic = "frown galaxy phrase rifle couple seek garden misery boil soap miss pet";

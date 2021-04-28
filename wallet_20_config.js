@@ -1,1 +1,1 @@
-var mnemonic = "snow weird glass raccoon decline wedding catalog survey dress pluck quick envelope";
+var mnemonic = "chronic maze country pyramid raise bunker lock scissors soon parrot boss myth";

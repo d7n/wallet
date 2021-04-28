@@ -1,1 +1,1 @@
-var mnemonic = "inch matter stick keep valley legal drip destroy night advance rubber pottery";
+var mnemonic = "draw toddler sunny frozen submit sight math problem tunnel rigid adapt valid";

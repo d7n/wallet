@@ -1,1 +1,1 @@
-var mnemonic = "excess shed ancient sniff knife salute nuclear record between phone run during";
+var mnemonic = "decorate marble company stairs blood ladder side month lucky fantasy animal silk";

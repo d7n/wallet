@@ -1,1 +1,1 @@
-var mnemonic = "leisure attack clutch review account jar heavy evidence table coin demand forum";
+var mnemonic = "make bread crash duck twin patient brisk swear royal must edge today";

@@ -1,1 +1,1 @@
-var mnemonic = "trouble bottom second rescue gun banana math arena process host laptop hair";
+var mnemonic = "unknown rib put resist kind horn sick embrace oxygen salad gauge grace";

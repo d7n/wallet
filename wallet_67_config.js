@@ -1,1 +1,1 @@
-var mnemonic = "black wall save matter cabbage soda common fiber powder secret strong keen";
+var mnemonic = "machine lobster cover gate dream reject margin vapor unveil page place service";

@@ -1,1 +1,1 @@
-var mnemonic = "sick cotton dismiss liar dilemma fatal ridge receive target rain aspect autumn";
+var mnemonic = "depart feature age rebuild orchard session monitor dinosaur engage anxiety control absent";

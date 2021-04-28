@@ -1,1 +1,1 @@
-var mnemonic = "photo canvas salon boss bind derive donor exhibit lounge flip soda ten";
+var mnemonic = "winner catalog layer practice woman resource wealth rule skull latin media earth";

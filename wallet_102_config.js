@@ -1,1 +1,1 @@
-var mnemonic = "income matrix parent used cancel fragile protect pear theory belt funny pottery";
+var mnemonic = "face target reform leave any base script brand thrive crater dream panther";

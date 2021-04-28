@@ -1,1 +1,1 @@
-var mnemonic = "input trial online vicious gesture ocean paper permit naive someone clerk nice";
+var mnemonic = "vendor sand rabbit pig unique opinion sauce mule donate above trust include";

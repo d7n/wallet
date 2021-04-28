@@ -1,1 +1,1 @@
-var mnemonic = "cable skirt destroy monster appear exclude sustain quiz issue april sentence illness";
+var mnemonic = "swallow action possible must hood melt planet easily visa give fashion soldier";

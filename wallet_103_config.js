@@ -1,1 +1,1 @@
-var mnemonic = "brick rather wood noise undo task filter swear achieve tray return marble";
+var mnemonic = "topic wonder swap over jar anger eight motor loan infant blind above";

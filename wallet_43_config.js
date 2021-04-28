@@ -1,1 +1,1 @@
-var mnemonic = "avoid inject feed crime dry boring that mule west ship glory glory";
+var mnemonic = "crucial acoustic next feature tenant devote moment brick barrel chunk manual destroy";

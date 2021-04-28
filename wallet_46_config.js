@@ -1,1 +1,1 @@
-var mnemonic = "tattoo opinion link hub drift title olympic disease ketchup cradle act box";
+var mnemonic = "endless arctic stumble lake property acoustic repeat light expire light embark address";

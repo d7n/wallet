@@ -1,1 +1,1 @@
-var mnemonic = "empower cradle always direct tank want pause cool fragile small inflict spin";
+var mnemonic = "limb market recycle sadness unfair rival peasant super funny floor train miracle";

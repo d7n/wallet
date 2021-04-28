@@ -1,1 +1,1 @@
-var mnemonic = "wave ghost essence tip because domain peace dinner witness vacant absent neutral";
+var mnemonic = "rack surface never vendor settle pupil garlic assume crowd shrimp figure remember";

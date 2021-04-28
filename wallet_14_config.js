@@ -1,1 +1,1 @@
-var mnemonic = "prefer furnace scout tomato vault sugar secret amused climb now agent broken";
+var mnemonic = "hard moment lawn hill comfort rhythm outdoor crop matrix unveil hair relief";

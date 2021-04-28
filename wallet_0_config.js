@@ -1,1 +1,1 @@
-var mnemonic = "until essence tilt bless flight beyond sad shiver essay rely purpose sound";
+var mnemonic = "trophy aspect dice final sword wage gossip wreck satoshi primary giraffe develop";

@@ -1,1 +1,1 @@
-var mnemonic = "stem science employ strategy glare inquiry desk almost cook balcony resist dumb";
+var mnemonic = "muscle thrive purse fee vicious filter across round seminar happy craft borrow";

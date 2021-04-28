@@ -1,1 +1,1 @@
-var mnemonic = "movie scout agent secret decade audit deal decide bamboo caution network tuna";
+var mnemonic = "dust symptom tool best glove village congress panther humor eyebrow chat sauce";

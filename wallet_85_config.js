@@ -1,1 +1,1 @@
-var mnemonic = "advance keep evidence better angry weapon club ability trumpet shy final hero";
+var mnemonic = "coral pulp pitch knee spider equip also cash promote slight best museum";

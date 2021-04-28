@@ -1,1 +1,1 @@
-var mnemonic = "gun erode fox unfold asthma joke kitten smile educate whip like custom";
+var mnemonic = "talk old matter airport impulse fiscal region used phrase remind fire genius";

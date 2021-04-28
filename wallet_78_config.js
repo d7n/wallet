@@ -1,1 +1,1 @@
-var mnemonic = "child way there bracket exit worry only current theme universe town couple";
+var mnemonic = "sibling party tomorrow come dream fall vibrant sample tonight river ring danger";

@@ -1,1 +1,1 @@
-var mnemonic = "biology chicken inherit truly slender air cycle pass obvious black ceiling cup";
+var mnemonic = "anger cycle cost bag plate seat bunker shadow reopen speed illegal crystal";

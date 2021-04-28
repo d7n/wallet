@@ -1,1 +1,1 @@
-var mnemonic = "toy tomato upset lift match text physical hold before forget tourist jacket";
+var mnemonic = "toe trouble wild blue next junk jaguar board peanut magic uniform badge";

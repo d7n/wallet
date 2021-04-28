@@ -1,1 +1,1 @@
-var mnemonic = "tobacco tooth output rocket humor fun soft vibrant lounge mom tilt gallery";
+var mnemonic = "nuclear mosquito tunnel mimic reject extra tragic labor mouse stage gesture negative";

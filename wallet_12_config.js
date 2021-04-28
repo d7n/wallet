@@ -1,1 +1,1 @@
-var mnemonic = "life version perfect flight gaze level cargo insect slight stage claim arrest";
+var mnemonic = "stool assault describe answer front tonight intact bring loan harbor exit glide";

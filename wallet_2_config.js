@@ -1,1 +1,1 @@
-var mnemonic = "floor brass enter enforce kid salute salute close abandon opera casino catch";
+var mnemonic = "jazz same valve humble actor maze friend olympic buffalo debris country country";

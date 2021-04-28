@@ -1,1 +1,1 @@
-var mnemonic = "enter script spring police lift rookie afford blur what seminar mesh sibling";
+var mnemonic = "wait gloom toy wisdom obvious bargain knee rare liar bird sell lunch";

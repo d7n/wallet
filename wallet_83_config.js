@@ -1,1 +1,1 @@
-var mnemonic = "what warfare apart birth able layer monitor vacant sense knock opinion fee";
+var mnemonic = "define valid obey tobacco panther aspect fury mixed swap hawk version enough";
