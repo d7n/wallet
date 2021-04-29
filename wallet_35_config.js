@@ -1,1 +1,1 @@
-var mnemonic = "jealous melt supreme cost useless inform spread enjoy unknown unveil style tilt";
+var mnemonic = "frame render concert razor kiss pulp ceiling neglect wrestle news cliff keep";

@@ -1,1 +1,1 @@
-var mnemonic = "gesture job jazz talent cart size south choice ski lizard become interest";
+var mnemonic = "lucky will switch toddler soup surface beef lion behind unaware film mask";

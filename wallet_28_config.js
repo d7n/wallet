@@ -1,1 +1,1 @@
-var mnemonic = "marriage illegal alter icon spell item brush dog world express exit donkey";
+var mnemonic = "polar stay board load gas error sheriff accident seek column lyrics verify";

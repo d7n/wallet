@@ -1,1 +1,1 @@
-var mnemonic = "sell odor verify stamp force camp absurd rice pause slight lyrics abandon";
+var mnemonic = "feel august insect beauty material again daughter timber dawn leisure bullet eager";

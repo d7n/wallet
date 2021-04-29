@@ -1,1 +1,1 @@
-var mnemonic = "scan pink notice equal empower alone supreme olive tail razor core tide";
+var mnemonic = "sadness upset actress world improve note wall gun gold pitch swamp birth";

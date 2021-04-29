@@ -1,1 +1,1 @@
-var mnemonic = "crumble flight attract combine hundred motor merge cover figure media this fashion";
+var mnemonic = "finish aisle cup sadness famous pill pipe frost draw before kite victory";

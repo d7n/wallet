@@ -1,1 +1,1 @@
-var mnemonic = "glove typical trial notice sunny okay swear night valid install require film";
+var mnemonic = "shift ghost limb poem energy canyon accuse defense grit oyster punch twice";

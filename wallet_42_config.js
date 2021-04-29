@@ -1,1 +1,1 @@
-var mnemonic = "try various stuff holiday demise canoe soccer make laundry auction mushroom fuel";
+var mnemonic = "follow suit logic put across menu business organ dinner curtain make advance";

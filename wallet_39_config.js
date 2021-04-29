@@ -1,1 +1,1 @@
-var mnemonic = "now zero license consider smoke hurt capable shove icon welcome dream wisdom";
+var mnemonic = "option stone robust install fancy erupt item congress enrich spice oven ranch";

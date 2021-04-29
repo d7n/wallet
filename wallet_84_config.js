@@ -1,1 +1,1 @@
-var mnemonic = "movie town upon honey remain junior syrup stem admit history park index";
+var mnemonic = "strike cupboard gadget ritual point blouse video turtle shoulder word antenna duty";

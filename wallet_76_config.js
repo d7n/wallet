@@ -1,1 +1,1 @@
-var mnemonic = "brick early sentence phone issue mention opera stage embark six walnut apple";
+var mnemonic = "crystal rib glimpse way issue tragic coconut network erupt legend gauge hood";

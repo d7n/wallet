@@ -1,1 +1,1 @@
-var mnemonic = "require culture casino music fat aerobic grief fame famous lazy educate quit";
+var mnemonic = "proud auction artist correct normal employ cup become wealth tide bread torch";

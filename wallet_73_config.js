@@ -1,1 +1,1 @@
-var mnemonic = "access embark matter useful much rookie human reason because sudden armed science";
+var mnemonic = "modify teach vague duty target wisdom capable dog defense million later damp";

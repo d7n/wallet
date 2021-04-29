@@ -1,1 +1,1 @@
-var mnemonic = "absurd benefit neglect innocent tomorrow ordinary sign squeeze able faith pyramid what";
+var mnemonic = "bird act short news organ damp merit odor duty diet firm broken";

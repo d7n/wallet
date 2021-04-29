@@ -1,1 +1,1 @@
-var mnemonic = "dolphin void naive dry impact eye regret segment squirrel place honey loop";
+var mnemonic = "onion risk hidden input mask give ketchup festival pilot sell fury problem";

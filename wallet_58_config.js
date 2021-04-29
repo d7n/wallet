@@ -1,1 +1,1 @@
-var mnemonic = "april width surface spray balcony silent humble door dance ahead reflect erupt";
+var mnemonic = "wonder worry faint lake danger sponsor start fine save protect account swing";

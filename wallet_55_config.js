@@ -1,1 +1,1 @@
-var mnemonic = "custom short random horror program purchase quarter phone rate blast primary success";
+var mnemonic = "lunar middle magnet napkin student possible garden logic recipe fuel slow dumb";

@@ -1,1 +1,1 @@
-var mnemonic = "crisp grocery chef comic evoke pull arctic cave recipe boat icon unfair";
+var mnemonic = "upon verify rug seek gym slide enforce left grab six coin original";

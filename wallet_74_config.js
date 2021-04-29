@@ -1,1 +1,1 @@
-var mnemonic = "grass will outside magic ugly patch file ankle rely style dismiss nephew";
+var mnemonic = "ski much connect acid wrist forum slice coil dune endless flame abuse";

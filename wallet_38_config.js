@@ -1,1 +1,1 @@
-var mnemonic = "quiz cart monster pitch federal tube inner east dry remember gadget exotic";
+var mnemonic = "olympic laugh slim clap spice cushion express find tunnel pair village express";

@@ -1,1 +1,1 @@
-var mnemonic = "gap wool embody amazing bitter soldier mercy face witness lake divide rate";
+var mnemonic = "prevent unusual stumble erupt machine post filter lady language mom foster food";

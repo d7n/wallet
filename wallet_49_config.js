@@ -1,1 +1,1 @@
-var mnemonic = "slot sadness oil clap crater vital drift yellow scissors mansion bag roof";
+var mnemonic = "rifle nation message design castle inhale bring ramp strong whisper injury stand";

@@ -1,1 +1,1 @@
-var mnemonic = "misery exercise vanish type settle vessel move consider hope young time little";
+var mnemonic = "return limb boil target despair ready buddy middle spoil second submit across";

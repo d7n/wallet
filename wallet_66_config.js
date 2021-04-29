@@ -1,1 +1,1 @@
-var mnemonic = "cigar duck answer depth unknown slot acoustic bring ten beyond blind puppy";
+var mnemonic = "dirt start silver resemble quantum trip simple cliff photo song also remove";

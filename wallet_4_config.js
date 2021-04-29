@@ -1,1 +1,1 @@
-var mnemonic = "fetch assist melt joy upset adapt invest hawk decrease fall seminar message";
+var mnemonic = "property seven country capable awake panda seat nest strategy artefact work master";

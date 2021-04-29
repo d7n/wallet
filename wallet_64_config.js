@@ -1,1 +1,1 @@
-var mnemonic = "distance will summer royal purpose mansion custom tell record catch laptop wave";
+var mnemonic = "junk robot foot solution fork recall chunk cheese nuclear control slot cool";

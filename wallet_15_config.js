@@ -1,1 +1,1 @@
-var mnemonic = "shaft area century because faint benefit promote shadow vital equip please coast";
+var mnemonic = "peace alarm athlete arrange good deal upper abstract truth hedgehog perfect property";

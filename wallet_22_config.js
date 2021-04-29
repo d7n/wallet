@@ -1,1 +1,1 @@
-var mnemonic = "simple split vanish arrive ice suit offer shield range faculty task athlete";
+var mnemonic = "daughter pulp always danger spy evolve truth resource audit injury city inner";

@@ -1,1 +1,1 @@
-var mnemonic = "ship coin answer recall claim desert camera auto token rebuild episode humor";
+var mnemonic = "slam tissue bird jeans multiply dwarf soul follow vast amount mass chunk";

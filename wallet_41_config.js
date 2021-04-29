@@ -1,1 +1,1 @@
-var mnemonic = "awful wild dress spider ribbon glory seven coast spawn street vague patient";
+var mnemonic = "square weapon orient wrong pitch warfare soldier ivory lemon pond bind cherry";

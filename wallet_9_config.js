@@ -1,1 +1,1 @@
-var mnemonic = "muffin sight metal tip grid blur kid bicycle embrace share lecture rebuild";
+var mnemonic = "field hand swap jazz ugly arrow source input good atom drum border";

@@ -1,1 +1,1 @@
-var mnemonic = "elbow avocado prison task dolphin credit spike first ball another broom sea";
+var mnemonic = "dog dutch lake cattle outdoor man garlic wonder inform brother install theory";

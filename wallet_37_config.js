@@ -1,1 +1,1 @@
-var mnemonic = "achieve dog trade second spice have steel short tourist attend shell loyal";
+var mnemonic = "zebra lend annual tongue east polar escape absorb salon blame angry remember";

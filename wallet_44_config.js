@@ -1,1 +1,1 @@
-var mnemonic = "rely diary front urge enact logic child mouse card dizzy magnet target";
+var mnemonic = "pony talk idle balcony economy orphan aim begin rather melt rural material";

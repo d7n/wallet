@@ -1,1 +1,1 @@
-var mnemonic = "one prevent document rack morning audit embrace concert tongue cry cook oil";
+var mnemonic = "cupboard travel retire meat slogan odor bid actor glance raise woman strong";

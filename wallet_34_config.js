@@ -1,1 +1,1 @@
-var mnemonic = "cup theme someone obvious guard mercy lobster maid spoil type level regret";
+var mnemonic = "typical they ghost bottom lizard release absurd when oval modify barrel disease";

@@ -1,1 +1,1 @@
-var mnemonic = "used glimpse offer diesel grape such phrase ask unusual hammer idea begin";
+var mnemonic = "maid hint album sudden smooth radio oblige hurt supreme resist start renew";

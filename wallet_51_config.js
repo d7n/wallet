@@ -1,1 +1,1 @@
-var mnemonic = "alcohol random oppose wrestle pigeon consider design plastic laptop hospital couch all";
+var mnemonic = "remind thought toddler cable saddle impact vessel across birth enter work super";

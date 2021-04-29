@@ -1,1 +1,1 @@
-var mnemonic = "hollow giggle million trigger lawsuit unable bridge swap exile muscle oyster end";
+var mnemonic = "own bitter provide noise episode capital text skirt tourist below crew card";

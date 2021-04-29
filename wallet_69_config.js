@@ -1,1 +1,1 @@
-var mnemonic = "taste doctor confirm crane frame faith slow time ship expand quarter canal";
+var mnemonic = "slight stand split tornado soon ginger estate record million cricket own ill";

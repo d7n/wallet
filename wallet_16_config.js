@@ -1,1 +1,1 @@
-var mnemonic = "wet harsh ignore inside travel major common rotate giraffe acid shoot ask";
+var mnemonic = "sleep quote noble pause goddess talent pumpkin divorce mimic physical glance baby";

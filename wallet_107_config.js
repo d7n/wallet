@@ -1,1 +1,1 @@
-var mnemonic = "letter planet park modify turn oil orphan unique jump ridge local sock";
+var mnemonic = "emerge tomorrow sell fly rib wheat top rigid flavor auction robot illegal";

@@ -1,1 +1,1 @@
-var mnemonic = "cycle push measure sibling valley drastic amount clip humor art quarter movie";
+var mnemonic = "theme verify float answer today enact wealth six boss barrel chuckle promote";

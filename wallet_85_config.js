@@ -1,1 +1,1 @@
-var mnemonic = "orange wasp close wealth relief small rice boil joy odor capital embody";
+var mnemonic = "chase column shuffle goddess inside swift method witness gesture boss envelope cute";

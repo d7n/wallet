@@ -1,1 +1,1 @@
-var mnemonic = "capital stomach title inherit expire foam guess second enrich crucial mosquito random";
+var mnemonic = "crazy else fat exact grunt nature torch nasty smart lonely forget eight";

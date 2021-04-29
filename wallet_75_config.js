@@ -1,1 +1,1 @@
-var mnemonic = "settle enroll uphold neglect team salad naive end dial face entire fit";
+var mnemonic = "supreme bind abuse brick return force regular icon pet silk able square";

@@ -1,1 +1,1 @@
-var mnemonic = "logic mind faith track drip multiply mobile pumpkin between range memory lamp";
+var mnemonic = "any phrase card dice tissue total put marble valve tissue together crazy";

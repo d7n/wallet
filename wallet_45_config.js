@@ -1,1 +1,1 @@
-var mnemonic = "nasty script dry game fatal two reflect advance mobile square stumble wine";
+var mnemonic = "conduct laugh priority fame logic energy annual method nation then negative stove";

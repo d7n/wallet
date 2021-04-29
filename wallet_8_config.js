@@ -1,1 +1,1 @@
-var mnemonic = "rhythm basket peace gravity unfair boil test adapt easy faculty congress tape";
+var mnemonic = "that hen purpose army hedgehog trend strategy jacket dash blind end hundred";

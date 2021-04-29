@@ -1,1 +1,1 @@
-var mnemonic = "siege perfect begin nerve scene census response series speak orchard wear soap";
+var mnemonic = "crumble fringe license dose toddler cart raw crawl come field habit unit";

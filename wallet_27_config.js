@@ -1,1 +1,1 @@
-var mnemonic = "wealth jeans auction whip lunar motion grace observe canvas donkey video dismiss";
+var mnemonic = "meat mistake certain glass pudding board viable vapor much glad click sun";

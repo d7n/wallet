@@ -1,1 +1,1 @@
-var mnemonic = "crystal fitness wisdom fan erosion dignity recycle later bag hamster lock broken";
+var mnemonic = "episode physical wedding myself banner success push delay hour depend situate work";

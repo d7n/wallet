@@ -1,1 +1,1 @@
-var mnemonic = "gown card hollow balance cloud staff eternal garbage usage proof sadness giant";
+var mnemonic = "ticket car wedding cotton hip broccoli error trial hazard script canvas salmon";

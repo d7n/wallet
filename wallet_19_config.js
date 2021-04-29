@@ -1,1 +1,1 @@
-var mnemonic = "together any medal host produce hope sock banana cereal flat kit near";
+var mnemonic = "palm deer tenant easily taste case upon answer estate execute kit banana";

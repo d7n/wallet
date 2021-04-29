@@ -1,1 +1,1 @@
-var mnemonic = "twice nose just sentence modify frown episode number mango inhale burst happy";
+var mnemonic = "blouse tube honey place double west wealth unusual anger hero dice when";

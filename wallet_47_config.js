@@ -1,1 +1,1 @@
-var mnemonic = "kiwi demise obey tenant upset world depart art lyrics catalog stamp radio";
+var mnemonic = "staff orange also pledge social bracket cruel month repair lemon gain ball";

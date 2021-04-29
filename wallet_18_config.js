@@ -1,1 +1,1 @@
-var mnemonic = "gown emotion bless shift churn sail below quick fetch stomach sweet luggage";
+var mnemonic = "excess mixture chunk auction image bread what have adapt peace camera priority";

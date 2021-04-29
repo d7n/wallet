@@ -1,1 +1,1 @@
-var mnemonic = "cherry chat emotion copy inner kiwi super search genre fossil lake love";
+var mnemonic = "nothing outside rice assume exercise pill exact point ill guard boy salute";

@@ -1,1 +1,1 @@
-var mnemonic = "bless erosion outdoor analyst monitor tell thought extra devote joke swing provide";
+var mnemonic = "afford curtain reject dream fringe clinic lock dose ivory bicycle perfect blanket";

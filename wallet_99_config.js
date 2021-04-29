@@ -1,1 +1,1 @@
-var mnemonic = "sorry acoustic lamp hen bargain clinic review window abandon expose choose sort";
+var mnemonic = "eyebrow fluid swap process pact snack easily swear used credit friend scheme";

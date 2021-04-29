@@ -1,1 +1,1 @@
-var mnemonic = "assist lady nice fork defy talk stairs noble kitchen upper renew clutch";
+var mnemonic = "earn arch want pigeon mechanic logic light torch bless moon weather pill";

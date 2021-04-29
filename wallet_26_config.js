@@ -1,1 +1,1 @@
-var mnemonic = "possible bundle clown robust shoe tornado divide tackle dynamic remain today craft";
+var mnemonic = "breeze doll want lesson curtain clarify pear sing spice garbage tribe either";

@@ -1,1 +1,1 @@
-var mnemonic = "enable learn rate frost task acquire also source grit celery tell version";
+var mnemonic = "laundry lizard hold desk clerk record opinion mom badge curtain guitar dirt";

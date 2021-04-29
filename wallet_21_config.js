@@ -1,1 +1,1 @@
-var mnemonic = "south mammal tumble math tray decide kind change token unique found maple";
+var mnemonic = "such hollow kidney slab obey increase tongue inject attitude busy eight uphold";

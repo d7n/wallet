@@ -1,1 +1,1 @@
-var mnemonic = "logic trophy feature acoustic behind divert token typical museum wrong amount drum";
+var mnemonic = "pause armed jump visit rescue quiz tent list crane venue nurse under";

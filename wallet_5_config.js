@@ -1,1 +1,1 @@
-var mnemonic = "possible snap gun remember member keen illness change chest trip name element";
+var mnemonic = "barely often tackle obtain tag lucky congress connect express soon stadium sad";

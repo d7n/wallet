@@ -1,1 +1,1 @@
-var mnemonic = "actress doctor funny pear token undo child laugh real spread author private";
+var mnemonic = "owner tag depth magic process oxygen cushion danger quality sun try laugh";

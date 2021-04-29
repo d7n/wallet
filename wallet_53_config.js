@@ -1,1 +1,1 @@
-var mnemonic = "sample west scale voyage absorb layer gather okay mango sign occur polar";
+var mnemonic = "describe paddle setup govern disagree cinnamon proof announce actual recipe evidence hollow";

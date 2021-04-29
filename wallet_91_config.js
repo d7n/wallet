@@ -1,1 +1,1 @@
-var mnemonic = "cube physical panther wolf ginger hybrid pioneer shed alter seminar find frame";
+var mnemonic = "hybrid hard join spring venue debate fashion diet embrace cancel gesture siege";

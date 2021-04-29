@@ -1,1 +1,1 @@
-var mnemonic = "seven various canoe witness abstract daughter outer document sketch diet hand symbol";
+var mnemonic = "danger click firm valid sell town shoulder sing vote balcony witness glue";

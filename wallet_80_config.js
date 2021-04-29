@@ -1,1 +1,1 @@
-var mnemonic = "range crisp eternal arrange stadium wool biology model bus adjust merry huge";
+var mnemonic = "next surround pear change virus bamboo disorder dog style spy question inmate";

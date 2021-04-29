@@ -1,1 +1,1 @@
-var mnemonic = "twice vote major menu yard curious infant six actual slice warm tent";
+var mnemonic = "excuse common blast text matrix boy debris shoot sauce pudding drop sweet";

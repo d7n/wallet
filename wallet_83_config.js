@@ -1,1 +1,1 @@
-var mnemonic = "begin ocean assault dash abandon canyon envelope spread climb kitchen mesh surround";
+var mnemonic = "huge pen crane nut learn add obey melt park delay shine ranch";

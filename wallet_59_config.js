@@ -1,1 +1,1 @@
-var mnemonic = "voyage theme donate time edge army obvious ritual funny guess tell monster";
+var mnemonic = "ginger object suspect piano relax large mystery force delay people mirror endorse";

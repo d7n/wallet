@@ -1,1 +1,1 @@
-var mnemonic = "emotion ocean tenant garden strike wasp fortune glove deer staff voice valid";
+var mnemonic = "oyster table dove robust ribbon seven lumber asset card maze spot spoil";

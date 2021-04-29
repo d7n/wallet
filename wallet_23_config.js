@@ -1,1 +1,1 @@
-var mnemonic = "lift sight neglect cry amused tiny album bottom metal crush earn dentist";
+var mnemonic = "scale skirt summer coral spot can settle tomato filter airport powder spare";

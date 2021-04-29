@@ -1,1 +1,1 @@
-var mnemonic = "purse help shed pepper stumble human tattoo universe equal cereal dream make";
+var mnemonic = "bag monkey team carpet glass pair bind produce news adapt digital cruel";

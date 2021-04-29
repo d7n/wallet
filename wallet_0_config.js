@@ -1,1 +1,1 @@
-var mnemonic = "baby later jump gorilla crystal draft mobile music scatter report manage text";
+var mnemonic = "cactus year lawsuit blood pool humble bar hill mammal walk solid phrase";

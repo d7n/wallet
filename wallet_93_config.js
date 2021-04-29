@@ -1,1 +1,1 @@
-var mnemonic = "myself video check cargo tree awful report injury trash clinic skirt oblige";
+var mnemonic = "noodle silk yard hunt bright loud voyage increase property wink marine judge";

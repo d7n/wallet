@@ -1,1 +1,1 @@
-var mnemonic = "comfort lake captain inquiry fit song frog top legend secret finger fetch";
+var mnemonic = "craft yard chaos gather valve movie awkward shell grunt test journey such";

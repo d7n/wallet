@@ -1,1 +1,1 @@
-var mnemonic = "lady away mimic three obvious lizard work feed chicken regular harbor ski";
+var mnemonic = "issue never ozone clean sword upgrade wool expire ensure denial coyote room";

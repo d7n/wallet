@@ -1,1 +1,1 @@
-var mnemonic = "cushion animal soft zoo meadow improve exit tray engage gossip major kitchen";
+var mnemonic = "cousin side fatal use word heart deliver vital name allow neutral slice";

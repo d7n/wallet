@@ -1,1 +1,1 @@
-var mnemonic = "robust imitate hour power ticket notice main duck pilot thumb use broken";
+var mnemonic = "devote want spirit tone entry art witness isolate space during brown bargain";

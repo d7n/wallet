@@ -1,1 +1,1 @@
-var mnemonic = "gun miss hobby camera century monkey prize appear sword seat echo bachelor";
+var mnemonic = "roast abandon sheriff fresh supreme off spoil liar zebra setup omit wedding";

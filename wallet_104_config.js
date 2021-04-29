@@ -1,1 +1,1 @@
-var mnemonic = "wink notable cross birth captain trim lucky aware bomb hen clarify trick";
+var mnemonic = "winter farm slice stuff refuse modify affair grief naive huge venture much";

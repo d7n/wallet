@@ -1,1 +1,1 @@
-var mnemonic = "hub noise hole royal quality desert enforce lounge rebel mansion soft museum";
+var mnemonic = "divorce attend front soup oxygen garment parade keep visa ordinary analyst seminar";

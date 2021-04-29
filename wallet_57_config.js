@@ -1,1 +1,1 @@
-var mnemonic = "dismiss enjoy identify habit mirror expire globe stable afraid crime attitude arena";
+var mnemonic = "want almost limit task baby cotton income present neck boy later negative";

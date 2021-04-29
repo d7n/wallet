@@ -1,1 +1,1 @@
-var mnemonic = "pond lyrics silent future couple display try truck item rebuild salute sick";
+var mnemonic = "business profit glass wolf audit knee poverty city foil cinnamon furnace aerobic";

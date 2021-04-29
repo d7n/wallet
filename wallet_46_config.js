@@ -1,1 +1,1 @@
-var mnemonic = "clay blush miracle wild awake assume zero foil glory slot bundle ask";
+var mnemonic = "patch lawn street regular gorilla story tobacco orient action chicken suit dentist";

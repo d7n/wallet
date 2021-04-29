@@ -1,1 +1,1 @@
-var mnemonic = "volcano life noise lyrics early fox spring summer allow wedding you use";
+var mnemonic = "sing polar body ride gain machine nephew transfer ask almost vanish wheat";

@@ -1,1 +1,1 @@
-var mnemonic = "volcano amused bargain afford scare secret fiscal hood issue fox elbow diet";
+var mnemonic = "autumn rookie arrow top problem embrace pupil believe saddle sort any skirt";

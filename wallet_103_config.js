@@ -1,1 +1,1 @@
-var mnemonic = "kite file suggest vessel circle finger dutch piano comfort become robust february";
+var mnemonic = "crouch lady accuse tide mad sausage more basic height exist edge patrol";

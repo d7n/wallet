@@ -1,1 +1,1 @@
-var mnemonic = "torch lamp primary blanket myself job noodle frame airport jaguar badge ice";
+var mnemonic = "width word field weasel lunar fall grief coast voyage hint actress rare";

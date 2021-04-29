@@ -1,1 +1,1 @@
-var mnemonic = "speak urge furnace dinner decade word puzzle pigeon happy tube hunt goat";
+var mnemonic = "olive loop exhibit exile vapor member enlist remember add virtual clog nephew";
