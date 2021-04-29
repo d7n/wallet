@@ -1,1 +1,1 @@
-var mnemonic = "planet float hungry giggle shuffle when eye pelican rebuild drop drip property";
+var mnemonic = "garment degree rebuild solve imitate supreme chalk gym void horn price suggest";

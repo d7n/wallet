@@ -1,1 +1,1 @@
-var mnemonic = "brush core shrimp exile six learn decide dune smoke dentist all diagram";
+var mnemonic = "regular pyramid spoil surge define mention federal hour abstract first entire inspire";

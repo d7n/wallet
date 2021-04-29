@@ -1,1 +1,1 @@
-var mnemonic = "illegal you fancy endless owner grab radar perfect dial dismiss just word";
+var mnemonic = "soccer shadow three cloth capital attack slow learn shiver kitten gold volcano";

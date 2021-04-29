@@ -1,1 +1,1 @@
-var mnemonic = "swift satisfy world lobster fitness bracket sense crime daring bright timber denial";
+var mnemonic = "season cloud because into various fresh slow fork topic nut begin end";

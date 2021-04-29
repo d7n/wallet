@@ -1,1 +1,1 @@
-var mnemonic = "math light artefact muffin plate canoe fabric bundle plug list sponsor wash";
+var mnemonic = "drink family become despair assault rack assume saddle grape tail erupt few";

@@ -1,1 +1,1 @@
-var mnemonic = "laptop slam lunch life poem party thank primary hamster tree sense message";
+var mnemonic = "nice inhale grass amazing room rain syrup normal clutch wild finish elder";

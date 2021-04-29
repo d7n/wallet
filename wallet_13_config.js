@@ -1,1 +1,1 @@
-var mnemonic = "candy way fiscal lonely pulp analyst similar faith myth random sentence pool";
+var mnemonic = "wasp carry rabbit call truth garlic cargo decide choice aunt finish luxury";

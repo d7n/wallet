@@ -1,1 +1,1 @@
-var mnemonic = "test prosper jazz merge speak trigger chest birth mutual ginger blossom multiply";
+var mnemonic = "stool tobacco pill perfect execute dog churn hill buyer suspect bench discover";

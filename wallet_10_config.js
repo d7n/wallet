@@ -1,1 +1,1 @@
-var mnemonic = "allow palace peasant leaf hip measure urban sustain hope label news remember";
+var mnemonic = "cargo mercy because sauce uncover little great gauge correct flower bracket thunder";

@@ -1,1 +1,1 @@
-var mnemonic = "simple skill found abuse figure bachelor trophy change panic tree breeze pledge";
+var mnemonic = "vanish fall siege flight cinnamon accuse best swift oil law speed paddle";

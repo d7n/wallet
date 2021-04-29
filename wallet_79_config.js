@@ -1,1 +1,1 @@
-var mnemonic = "devote apple funny wide gesture world impose happy expect lumber pumpkin north";
+var mnemonic = "stumble deny month hire bamboo agent assume cream pulse tail spot mango";

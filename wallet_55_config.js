@@ -1,1 +1,1 @@
-var mnemonic = "water mango wine honey mutual offer tiger load grant acquire again wet";
+var mnemonic = "bone toilet tomorrow flavor shrug then relief soda name stool reunion visual";

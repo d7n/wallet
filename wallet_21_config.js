@@ -1,1 +1,1 @@
-var mnemonic = "consider segment board phone mesh bench raise parent abandon mother segment apart";
+var mnemonic = "fun smoke carbon shove cheese print spread rule hammer field lottery behind";

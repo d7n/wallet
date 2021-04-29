@@ -1,1 +1,1 @@
-var mnemonic = "title situate hold gym caught possible embody smart regular grace adapt stadium";
+var mnemonic = "vanish green ill squeeze master aerobic grape essence chicken random glory repeat";

@@ -1,1 +1,1 @@
-var mnemonic = "stairs cherry wing draft disagree buyer mechanic replace improve dragon shaft census";
+var mnemonic = "brush wink blood net select into door survey pattern obscure gown tennis";

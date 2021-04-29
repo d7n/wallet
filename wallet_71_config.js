@@ -1,1 +1,1 @@
-var mnemonic = "language cross loop small suggest picnic maze uncle second wedding wreck range";
+var mnemonic = "oyster meadow riot rose strong action economy sense lens collect limit industry";

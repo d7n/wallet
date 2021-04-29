@@ -1,1 +1,1 @@
-var mnemonic = "dish easily smile monkey disorder cereal come urge close swap hybrid warm";
+var mnemonic = "creek spawn source boost segment cable kiwi extend trend abuse normal more";

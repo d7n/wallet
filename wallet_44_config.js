@@ -1,1 +1,1 @@
-var mnemonic = "unhappy spare talent sponsor one mix couple vessel water tooth base large";
+var mnemonic = "dress curtain chief kiwi craft surround snap stereo lift myth escape depend";

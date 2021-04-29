@@ -1,1 +1,1 @@
-var mnemonic = "bounce ten security earn jacket bind waste whisper dignity wet when coconut";
+var mnemonic = "similar output visa add truly state dolphin mad truck base spawn coast";

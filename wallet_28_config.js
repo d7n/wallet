@@ -1,1 +1,1 @@
-var mnemonic = "muscle swamp fabric panda setup squeeze atom tilt garden blame napkin puzzle";
+var mnemonic = "priority ski mistake favorite small deer firm perfect tissue spider negative aware";

@@ -1,1 +1,1 @@
-var mnemonic = "fuel topple crater various enable survey merry scissors owner ugly panther online";
+var mnemonic = "egg rally walnut measure crouch scale annual taste silver forest lecture level";

@@ -1,1 +1,1 @@
-var mnemonic = "myself stick pyramid differ kind check slush unaware guitar tragic royal ensure";
+var mnemonic = "wool tunnel spike mobile chronic you reward unfold inside fancy swallow board";

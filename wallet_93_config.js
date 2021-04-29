@@ -1,1 +1,1 @@
-var mnemonic = "lounge electric still wise buyer point baby laptop stairs usual health tomato";
+var mnemonic = "hockey slush dumb place shadow popular unfair service fall arrest nasty spend";

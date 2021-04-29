@@ -1,1 +1,1 @@
-var mnemonic = "beef spider surge day chicken pass sort beauty measure battle arm artefact";
+var mnemonic = "cool vibrant hood aim useful advance night rare flight stem crush flight";

@@ -1,1 +1,1 @@
-var mnemonic = "fine glory venue door silk frown screen amount country orbit basic between";
+var mnemonic = "letter scan stable afraid scissors behave away vague noodle climb inquiry gorilla";

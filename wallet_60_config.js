@@ -1,1 +1,1 @@
-var mnemonic = "mention soap nothing alert inspire nature salad cream risk chest sign hurry";
+var mnemonic = "game give skirt vessel dinner penalty list embody ring cover business cloud";

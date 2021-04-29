@@ -1,1 +1,1 @@
-var mnemonic = "coin deposit sort hybrid naive deposit concert time garbage hurry essence awkward";
+var mnemonic = "penalty impose borrow innocent kid popular mercy moral shine month guilt fat";

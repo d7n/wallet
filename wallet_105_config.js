@@ -1,1 +1,1 @@
-var mnemonic = "pyramid lion deny leaf asset will make include avoid east royal demise";
+var mnemonic = "puzzle federal imitate shed cancel lava almost color core tuna leopard define";

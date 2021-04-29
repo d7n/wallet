@@ -1,1 +1,1 @@
-var mnemonic = "menu secret wolf spare fitness disorder repair chair swamp water public suggest";
+var mnemonic = "dutch struggle frozen maid same baby oil hurry vault ship hotel clap";

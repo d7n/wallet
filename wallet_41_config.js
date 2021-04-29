@@ -1,1 +1,1 @@
-var mnemonic = "hamster pole glare cupboard believe chronic okay sight car nose choose sock";
+var mnemonic = "film duty kid lamp gown walnut speed neutral provide become random table";

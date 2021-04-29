@@ -1,1 +1,1 @@
-var mnemonic = "tobacco shed dove woman vivid extend key stumble script private drive noodle";
+var mnemonic = "execute install ivory predict brain inner cave leave include firm venture snap";

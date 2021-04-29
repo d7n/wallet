@@ -1,1 +1,1 @@
-var mnemonic = "tennis engage pen spray record concert oil bird govern giggle dentist permit";
+var mnemonic = "era catalog furnace math oval forum divide crunch casual total galaxy assault";

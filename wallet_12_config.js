@@ -1,1 +1,1 @@
-var mnemonic = "scrub shield neck angle green source turtle script service raven usage steel";
+var mnemonic = "language smoke benefit weather aerobic square dinner solar connect antenna decide quarter";

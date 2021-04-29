@@ -1,1 +1,1 @@
-var mnemonic = "trust gadget patient special draft swim holiday already nut almost wet picture";
+var mnemonic = "unhappy oil giant hedgehog barely knee brain utility world kidney drip seven";

@@ -1,1 +1,1 @@
-var mnemonic = "spider mountain enlist sadness kingdom certain nest modify caution build oblige visit";
+var mnemonic = "husband garden brush grid calm buddy dry error visit toy awful confirm";

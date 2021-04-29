@@ -1,1 +1,1 @@
-var mnemonic = "victory nature clean resist egg survey ride recall identify drastic just survey";
+var mnemonic = "receive ocean sell prize warm steel ball comic devote daring kid extend";

@@ -1,1 +1,1 @@
-var mnemonic = "immense sphere fix arrive result few acid remove layer wait wheel index";
+var mnemonic = "print possible join noodle strike rail worth spirit punch tumble poet any";

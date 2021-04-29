@@ -1,1 +1,1 @@
-var mnemonic = "random seat plate trim smooth famous load abuse gentle picture build margin";
+var mnemonic = "film capital fence blush define online autumn crouch buzz shock candy brush";

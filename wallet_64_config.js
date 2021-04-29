@@ -1,1 +1,1 @@
-var mnemonic = "taxi illegal quarter town duck mutual degree lend lounge liar penalty trend";
+var mnemonic = "mobile peasant crystal forward gas catalog empty merry tower swing hip resemble";

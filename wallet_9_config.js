@@ -1,1 +1,1 @@
-var mnemonic = "frequent tuition pen affair jungle original swarm zoo vivid belt differ dolphin";
+var mnemonic = "female patch month trip despair envelope clump frown fiction soon silent execute";

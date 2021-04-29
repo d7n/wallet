@@ -1,1 +1,1 @@
-var mnemonic = "craft slender cheap tennis original champion art baby cloud lounge poem frame";
+var mnemonic = "chef tilt close brass dust custom empower unhappy banana face mom seat";

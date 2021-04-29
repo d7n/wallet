@@ -1,1 +1,1 @@
-var mnemonic = "express phrase aware trial wool also unhappy access caution issue middle cancel";
+var mnemonic = "trade dragon name degree cart later advance consider moment hollow organ fine";

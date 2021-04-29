@@ -1,1 +1,1 @@
-var mnemonic = "antique ladder scare stereo arm night box crime cherry sad exhibit box";
+var mnemonic = "merry auto adult job scan effort pact sand spatial like galaxy grocery";

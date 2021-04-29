@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin trophy remember domain tent novel space champion amateur runway park shield";
+var mnemonic = "tongue vacant apology minor scrap tragic dog salad replace dynamic public pulp";

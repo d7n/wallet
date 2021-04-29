@@ -1,1 +1,1 @@
-var mnemonic = "upon pet source width profit plug bacon issue buddy lunch network beauty";
+var mnemonic = "volume hamster move there mixed endless between jungle maximum absurd leave usual";

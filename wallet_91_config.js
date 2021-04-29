@@ -1,1 +1,1 @@
-var mnemonic = "elevator palace enrich climb clock tone cable toward plastic drink maid joke";
+var mnemonic = "chest diamond goddess moral crystal skirt tired certain require mechanic mix canoe";

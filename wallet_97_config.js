@@ -1,1 +1,1 @@
-var mnemonic = "slot hybrid flush kiwi fault coast royal problem isolate arrest school economy";
+var mnemonic = "ankle inhale system nation black appear whip laugh doctor below involve emotion";

@@ -1,1 +1,1 @@
-var mnemonic = "mixed toe hero coach patch kiwi tackle push dose kitchen ten type";
+var mnemonic = "tool announce warm flock industry inmate oblige kitten knee devote purpose mass";

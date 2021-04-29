@@ -1,1 +1,1 @@
-var mnemonic = "inmate exercise pink thunder simple magnet coral lecture toast price crucial monster";
+var mnemonic = "ghost genuine cover owner print cross giggle south one giraffe fossil segment";

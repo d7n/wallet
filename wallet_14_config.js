@@ -1,1 +1,1 @@
-var mnemonic = "pig dance park entry thank fury thunder mom announce arch afford laptop";
+var mnemonic = "cement minimum inner pig aspect napkin basic mean quarter energy fetch depend";

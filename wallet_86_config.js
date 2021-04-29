@@ -1,1 +1,1 @@
-var mnemonic = "meadow install post throw ill crystal alarm equal like shadow believe brother";
+var mnemonic = "gate drill lecture miss interest tired civil law refuse invest mom original";

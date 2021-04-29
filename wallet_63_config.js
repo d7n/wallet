@@ -1,1 +1,1 @@
-var mnemonic = "roast grief arch fine flight later topple donor fix chef mobile wheat";
+var mnemonic = "stool yard lawn pause verify brass plug smooth ribbon cattle cake syrup";

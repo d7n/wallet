@@ -1,1 +1,1 @@
-var mnemonic = "obey isolate viable improve nose soap symptom load reward hub offer shine";
+var mnemonic = "item brush assault neck evil thank inspire rule merry vacant frost combine";

@@ -1,1 +1,1 @@
-var mnemonic = "junior valley capable seek wolf argue popular supreme betray document aware legend";
+var mnemonic = "shoulder elbow because text coin cinnamon identify roast just meadow tent surface";

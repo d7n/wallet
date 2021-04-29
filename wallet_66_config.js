@@ -1,1 +1,1 @@
-var mnemonic = "sponsor punch eye earn distance royal fox route mobile lucky whale gorilla";
+var mnemonic = "hobby antique horn search swift stock snap acid require earth goddess bring";

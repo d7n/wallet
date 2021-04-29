@@ -1,1 +1,1 @@
-var mnemonic = "primary erosion phrase legal visit brick ketchup profit drama arrow middle coral";
+var mnemonic = "grant audit stereo guitar enhance pen sugar home inflict neck fox brave";

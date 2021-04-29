@@ -1,1 +1,1 @@
-var mnemonic = "athlete beauty thrive prison swift law acquire lock region wreck private truly";
+var mnemonic = "alert alone coconut soccer between found claim guard call require melt tray";

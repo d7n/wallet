@@ -1,1 +1,1 @@
-var mnemonic = "home cricket plate island result radio whale razor kite mirror theme giraffe";
+var mnemonic = "dynamic minute topple spot column toss autumn index cook price accuse cool";

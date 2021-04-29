@@ -1,1 +1,1 @@
-var mnemonic = "cargo grain kid push grain couch craft lens invite fatigue spoil outer";
+var mnemonic = "dry slab label release prepare deliver file plug clog high moon connect";

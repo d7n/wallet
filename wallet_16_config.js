@@ -1,1 +1,1 @@
-var mnemonic = "excess payment draw tape adult hockey assume gown nominee pact error digital";
+var mnemonic = "floor piano fatigue vendor pizza love pitch wedding much puzzle custom advice";

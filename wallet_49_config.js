@@ -1,1 +1,1 @@
-var mnemonic = "over salon tip topic chair squirrel tonight orient slush reopen way salute";
+var mnemonic = "build system future work wide pool illegal mansion table analyst ill advice";

@@ -1,1 +1,1 @@
-var mnemonic = "horror frozen loan clog divert month dog park crumble smile glue marble";
+var mnemonic = "venue drastic much fantasy maple tennis about salute lawsuit element there predict";

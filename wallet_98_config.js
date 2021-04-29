@@ -1,1 +1,1 @@
-var mnemonic = "across sea scan tunnel jaguar trash cactus make draw youth donate cart";
+var mnemonic = "wine unusual jelly render valid reform hybrid patch left sorry kiwi genuine";

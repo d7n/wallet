@@ -1,1 +1,1 @@
-var mnemonic = "oxygen silly caution among stadium rival attend remind fantasy slogan tonight unique";
+var mnemonic = "wheat point small venue violin million expect column rate stomach boss accident";

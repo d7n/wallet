@@ -1,1 +1,1 @@
-var mnemonic = "midnight problem lunch acoustic evolve once screen science once ceiling shrimp museum";
+var mnemonic = "harsh history cannon thing stairs blanket equal alone table sample fatal strong";

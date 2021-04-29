@@ -1,1 +1,1 @@
-var mnemonic = "mandate pupil fossil exile void budget artefact enable volcano furnace situate shoulder";
+var mnemonic = "horn alone lens write gown chunk link grief initial mutual purse apart";

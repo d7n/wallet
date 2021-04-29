@@ -1,1 +1,1 @@
-var mnemonic = "torch extend middle nest hidden boat camera ivory access away flight faith";
+var mnemonic = "enhance super salad vivid satoshi bag limb flee have junior genre fluid";

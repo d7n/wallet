@@ -1,1 +1,1 @@
-var mnemonic = "gain artist burger close among mystery mansion injury degree erupt view deny";
+var mnemonic = "road car lawn rib tackle young bunker apple brand mansion robust pink";

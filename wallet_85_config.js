@@ -1,1 +1,1 @@
-var mnemonic = "runway other buffalo sock december fan machine renew horror fox judge unusual";
+var mnemonic = "across aunt gate view spring cycle pyramid best hand vague sudden argue";

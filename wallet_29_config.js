@@ -1,1 +1,1 @@
-var mnemonic = "shoe harbor inhale someone sphere estate robot ride depth truth demise hire";
+var mnemonic = "crash album push reflect defy dune motion elevator jazz film engine fame";

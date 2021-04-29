@@ -1,1 +1,1 @@
-var mnemonic = "senior harbor frost stove weekend bamboo display celery later exotic wild february";
+var mnemonic = "lazy defense control swarm donor arctic before ride situate polar general gaze";

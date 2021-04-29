@@ -1,1 +1,1 @@
-var mnemonic = "tomato advance rent must toilet shoe quit primary brave survey horn smart";
+var mnemonic = "census canal claim shed olive alpha around asthma confirm wing equal idle";

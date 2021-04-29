@@ -1,1 +1,1 @@
-var mnemonic = "occur shock brief unusual rice exotic join upper online dust course fame";
+var mnemonic = "network assault tool trumpet arm chapter whip junk other peasant radar proof";

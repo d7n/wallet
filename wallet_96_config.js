@@ -1,1 +1,1 @@
-var mnemonic = "gift stairs avoid nephew twenty desk believe hollow address surround erode cat";
+var mnemonic = "liberty path around misery hub seek spawn solid south anger resist curve";

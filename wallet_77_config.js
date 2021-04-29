@@ -1,1 +1,1 @@
-var mnemonic = "inmate fish mirror this dust fold indicate gaze ripple dust people gossip";
+var mnemonic = "rice supply lounge element cash rule illness tomorrow doll bring hedgehog menu";

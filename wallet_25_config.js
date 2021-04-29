@@ -1,1 +1,1 @@
-var mnemonic = "leave gasp kangaroo opinion master hybrid power dove elder flower kingdom sad";
+var mnemonic = "focus endorse mask predict planet soldier rival brown thunder book muscle uncover";

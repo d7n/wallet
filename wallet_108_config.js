@@ -1,1 +1,1 @@
-var mnemonic = "ask enemy poverty field right window initial resemble coyote fame tail shell";
+var mnemonic = "bomb oppose river agent define suggest banana tennis check great scorpion light";

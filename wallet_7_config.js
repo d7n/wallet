@@ -1,1 +1,1 @@
-var mnemonic = "apart shoe net eight book diamond swear shallow pause couch code town";
+var mnemonic = "guess kangaroo indicate craft hint fortune laptop lock weasel attitude assist great";

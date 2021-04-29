@@ -1,1 +1,1 @@
-var mnemonic = "tone blame neck lift legal dragon act involve awful child antenna base";
+var mnemonic = "army suspect sail album father consider trash aware across train never neglect";

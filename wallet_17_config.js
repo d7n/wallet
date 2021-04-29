@@ -1,1 +1,1 @@
-var mnemonic = "smooth virtual scissors list cigar door cage arrange dilemma salute predict soup";
+var mnemonic = "obey actress pelican poem conduct basket model party shift veteran remove great";

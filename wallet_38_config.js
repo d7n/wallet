@@ -1,1 +1,1 @@
-var mnemonic = "rail country diary husband summer antenna language mad receive sail accuse spoon";
+var mnemonic = "identify blanket guess mimic menu trash menu hip prize panda smart clump";

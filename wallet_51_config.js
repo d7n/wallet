@@ -1,1 +1,1 @@
-var mnemonic = "robot useless viable song figure risk arch cute profit sail annual super";
+var mnemonic = "upper cube slogan menu cave unfair blouse brown music dune concert route";

@@ -1,1 +1,1 @@
-var mnemonic = "monkey erosion harsh video ginger live inside pepper surprise token anger floor";
+var mnemonic = "spoon tube camera enrich trouble practice math pupil crystal pole tone skill";

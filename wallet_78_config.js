@@ -1,1 +1,1 @@
-var mnemonic = "defense step pipe garlic panther sport world wrap armed group stock recycle";
+var mnemonic = "bicycle salon obscure virus pizza area atom print horn pear dial garlic";
