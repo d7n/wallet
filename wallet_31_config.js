@@ -1,1 +1,1 @@
-var mnemonic = "canyon average tomato begin property bring extra puppy oil rocket lava major";
+var mnemonic = "alarm crumble together machine orphan tissue mistake stable artwork photo august cheese";

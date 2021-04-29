@@ -1,1 +1,1 @@
-var mnemonic = "inch account virus toe today iron vivid plug video picnic limit minimum";
+var mnemonic = "argue school flip grass eagle chapter expose forum fever fashion angle sell";

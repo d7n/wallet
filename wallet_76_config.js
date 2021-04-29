@@ -1,1 +1,1 @@
-var mnemonic = "grit giggle friend slam nothing seminar frown hard screen boost become wish";
+var mnemonic = "electric apart grace sausage lottery galaxy catch slam orbit federal crawl food";

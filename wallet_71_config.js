@@ -1,1 +1,1 @@
-var mnemonic = "purpose evoke lizard comic coral hundred mix business train grape install myself";
+var mnemonic = "property helmet forget side theme stamp execute rally vanish monster salute elbow";

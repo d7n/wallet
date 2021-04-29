@@ -1,1 +1,1 @@
-var mnemonic = "breeze kangaroo alter hamster odor adjust destroy tomato toast diesel spice firm";
+var mnemonic = "smile caution jelly market shop ask swing worth client club economy organ";

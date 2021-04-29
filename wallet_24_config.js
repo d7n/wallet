@@ -1,1 +1,1 @@
-var mnemonic = "this wrist beach purse seat gentle loyal salt joke nothing popular alcohol";
+var mnemonic = "thought hover radio dial rely upon poverty title solar paddle car plunge";

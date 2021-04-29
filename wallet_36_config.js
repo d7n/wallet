@@ -1,1 +1,1 @@
-var mnemonic = "early nut episode slam card tackle craft kidney skin fringe day make";
+var mnemonic = "they fault borrow rely again fancy emotion oxygen dash alien sure tunnel";

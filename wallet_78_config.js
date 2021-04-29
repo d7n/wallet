@@ -1,1 +1,1 @@
-var mnemonic = "father major quit fetch wagon loop render famous wrap library dentist trend";
+var mnemonic = "involve drop search harvest mango protect banana uniform include time helmet law";

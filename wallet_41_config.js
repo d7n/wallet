@@ -1,1 +1,1 @@
-var mnemonic = "adapt warm error enhance switch they wolf knife build boil deer run";
+var mnemonic = "scorpion trial drift say direct excuse goddess tongue brass always citizen sunset";

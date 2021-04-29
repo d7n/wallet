@@ -1,1 +1,1 @@
-var mnemonic = "kiss wild alarm verb company course duty expose lake melt start marriage";
+var mnemonic = "trade news illegal squeeze couple reduce inhale drive alter tiger extra luggage";

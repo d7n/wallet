@@ -1,1 +1,1 @@
-var mnemonic = "biology puppy make stock minimum almost sun anxiety female spring clip wagon";
+var mnemonic = "around dwarf mirror blade shadow concert toy alpha poem crawl negative reopen";

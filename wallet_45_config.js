@@ -1,1 +1,1 @@
-var mnemonic = "wire start choose opera knock fever push response imitate gospel visual card";
+var mnemonic = "float poverty maple cake cram spider knee that riot pulp front depth";

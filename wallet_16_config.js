@@ -1,1 +1,1 @@
-var mnemonic = "random menu act mixture bamboo use tide over lake distance tool thumb";
+var mnemonic = "chief waste flash frost easy similar prosper hotel ensure news crazy profit";

@@ -1,1 +1,1 @@
-var mnemonic = "tumble equal zero select sail owner glory portion copy say change cereal";
+var mnemonic = "despair client where region bright ability version chimney program into brain puppy";

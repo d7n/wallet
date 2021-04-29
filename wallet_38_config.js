@@ -1,1 +1,1 @@
-var mnemonic = "club music bone equal awful more puzzle stereo hood runway shine output";
+var mnemonic = "ankle tape spoon fat alter term rural capable supreme elephant laugh orient";

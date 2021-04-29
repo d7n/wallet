@@ -1,1 +1,1 @@
-var mnemonic = "insect protect gun that peace certain honey connect energy spot dry hub";
+var mnemonic = "retire hole kite artist deputy bridge tip mom burger fitness cigar erosion";

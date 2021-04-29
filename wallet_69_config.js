@@ -1,1 +1,1 @@
-var mnemonic = "luggage gorilla pilot close false step hurdle company visa man gentle vanish";
+var mnemonic = "art glory service viable furnace hidden they ahead height situate faculty conduct";

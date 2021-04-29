@@ -1,1 +1,1 @@
-var mnemonic = "marine horse reopen cable cinnamon harbor february clinic giraffe drip machine check";
+var mnemonic = "display endorse open twice comic caution sunset awesome diesel length nuclear trouble";

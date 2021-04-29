@@ -1,1 +1,1 @@
-var mnemonic = "surprise glass dinner act replace butter start fresh canyon rescue wall wheel";
+var mnemonic = "stove engine obscure consider lonely hello stable dwarf kind stay tiny nice";

@@ -1,1 +1,1 @@
-var mnemonic = "vocal modify cry angle hill suggest tank village join trumpet debate hurry";
+var mnemonic = "rifle usual palm praise badge know foil question fantasy just unlock lounge";

@@ -1,1 +1,1 @@
-var mnemonic = "hammer video spoil obvious clarify flat seed reason team room dynamic prepare";
+var mnemonic = "resource glide usage duty prepare kick visa notice crisp atom subway yellow";

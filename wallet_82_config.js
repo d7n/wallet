@@ -1,1 +1,1 @@
-var mnemonic = "fuel release garden cycle rookie deer crystal jealous color donor candy across";
+var mnemonic = "will input help place census gasp deliver radar correct phrase hair solve";

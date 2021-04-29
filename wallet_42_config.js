@@ -1,1 +1,1 @@
-var mnemonic = "hello neck pioneer rubber match bubble long original group price butter sweet";
+var mnemonic = "resource pistol usage oak office below title pause fine intact finish time";

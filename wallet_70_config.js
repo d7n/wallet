@@ -1,1 +1,1 @@
-var mnemonic = "wrap market domain doll object twin atom era spare survey kick present";
+var mnemonic = "swap memory maze pool knee unusual scheme member clap vast finger general";

@@ -1,1 +1,1 @@
-var mnemonic = "exclude spatial sun maze abstract core effort boat key music notice typical";
+var mnemonic = "retreat boil appear chalk exchange today coral kidney tape fork exhibit item";

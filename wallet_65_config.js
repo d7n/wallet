@@ -1,1 +1,1 @@
-var mnemonic = "more blue pipe loan sauce salmon sign curtain project rival saddle clock";
+var mnemonic = "cover disease marriage awake cheap room crush business phrase project egg miracle";

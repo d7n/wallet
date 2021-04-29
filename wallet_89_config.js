@@ -1,1 +1,1 @@
-var mnemonic = "pigeon lab trash eyebrow other indicate erupt wisdom gesture tongue garage accuse";
+var mnemonic = "essence chuckle cradle close banana crack reduce electric divide clerk faith steel";

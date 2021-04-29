@@ -1,1 +1,1 @@
-var mnemonic = "fashion depend boil extend april regular bulb rule flag deputy afraid pave";
+var mnemonic = "neglect metal mobile ask power bag banana exhibit fortune hobby whip sick";

@@ -1,1 +1,1 @@
-var mnemonic = "slush join deer sand genuine camp repair code lamp human survey toddler";
+var mnemonic = "version example neck element chef pelican damp reunion cook option exist same";

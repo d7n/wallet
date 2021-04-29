@@ -1,1 +1,1 @@
-var mnemonic = "chair team fitness ensure chuckle can taste bridge pioneer manage dream day";
+var mnemonic = "junior forest drive allow public pigeon squirrel model person axis only heart";

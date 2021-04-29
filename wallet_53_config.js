@@ -1,1 +1,1 @@
-var mnemonic = "amused sphere hotel cable frown inform yellow bar glad van asthma copy";
+var mnemonic = "sport host predict tiny pull express turkey destroy world slab vendor drift";

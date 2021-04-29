@@ -1,1 +1,1 @@
-var mnemonic = "deposit smoke purpose ancient chaos spy morning unfold clock walk endorse marble";
+var mnemonic = "sort code devote test blouse dilemma script control burden shell faint mango";

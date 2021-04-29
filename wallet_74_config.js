@@ -1,1 +1,1 @@
-var mnemonic = "exist scorpion case daring thing awesome ten sell juice allow toe waste";
+var mnemonic = "shift rich stick blush urban figure grab annual sheriff antenna pattern hawk";

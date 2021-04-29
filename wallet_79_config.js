@@ -1,1 +1,1 @@
-var mnemonic = "boring destroy vehicle amateur erupt hold large tourist champion lazy tattoo umbrella";
+var mnemonic = "catch banner multiply speed clutch cabbage visa enrich visa soon render grid";

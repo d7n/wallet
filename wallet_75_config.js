@@ -1,1 +1,1 @@
-var mnemonic = "virtual glove tone cycle canal such volcano elite rural between nest brain";
+var mnemonic = "noodle measure display property vapor tennis easily sand note canvas field venture";

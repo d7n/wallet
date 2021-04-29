@@ -1,1 +1,1 @@
-var mnemonic = "behave unknown prevent hint poem aim history plunge yellow letter net law";
+var mnemonic = "raw describe frozen punch drama hole hat cube number predict near wife";

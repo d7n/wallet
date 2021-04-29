@@ -1,1 +1,1 @@
-var mnemonic = "powder abandon upon drop warfare sad couple limit pulse limit explain frequent";
+var mnemonic = "afraid raw movie gym shoe scrap cargo pigeon seed soldier inject game";

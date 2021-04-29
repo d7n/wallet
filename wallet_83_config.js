@@ -1,1 +1,1 @@
-var mnemonic = "alone impulse aunt fatal ahead health double glow hover foam sport protect";
+var mnemonic = "humble wall input impact aisle prepare view goat clerk mango evoke injury";

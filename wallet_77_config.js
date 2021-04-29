@@ -1,1 +1,1 @@
-var mnemonic = "turkey marine pause athlete mind wasp ozone reopen design stone valve stool";
+var mnemonic = "hat race stairs merit cargo shaft detail air suspect subway spray race";

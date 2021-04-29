@@ -1,1 +1,1 @@
-var mnemonic = "wood riot light token boil toast kitchen friend wonder address soup hen";
+var mnemonic = "dog layer pattern camera wave term bicycle tray defense phrase imitate detail";

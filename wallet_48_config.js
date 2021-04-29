@@ -1,1 +1,1 @@
-var mnemonic = "bamboo vault indoor brush reveal chaos fury force rude treat picture gallery";
+var mnemonic = "rotate brisk place service junk thumb west monkey creek provide bleak shoulder";

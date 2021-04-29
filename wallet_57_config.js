@@ -1,1 +1,1 @@
-var mnemonic = "can garden naive elegant arch tuition aisle quick nerve just cross diary";
+var mnemonic = "stay capable peasant nut situate degree enjoy need flag summer immune detect";

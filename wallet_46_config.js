@@ -1,1 +1,1 @@
-var mnemonic = "bachelor speak vanish kind balcony develop cheap obscure blanket lucky foster swamp";
+var mnemonic = "inherit law brother measure farm scale forum okay cradle donor choose seminar";

@@ -1,1 +1,1 @@
-var mnemonic = "tumble gauge lunar install garage cave step skull display name attack fun";
+var mnemonic = "swift sense cancel shy allow lawn romance about design latin ride major";

@@ -1,1 +1,1 @@
-var mnemonic = "occur sun desert accident pioneer month trick space hawk live angle dismiss";
+var mnemonic = "fossil physical grow hidden plunge peace weird erase cricket sure spend bar";

@@ -1,1 +1,1 @@
-var mnemonic = "soap bundle live torch rapid neither craft author maximum put verify ride";
+var mnemonic = "expire matter peasant quit repeat crane prison couple nothing hospital cancel start";

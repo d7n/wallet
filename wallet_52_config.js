@@ -1,1 +1,1 @@
-var mnemonic = "abuse live sheriff enhance glide rain child knife faint coyote ten whip";
+var mnemonic = "word educate hire strike crisp shield consider relief sample vault forward ten";

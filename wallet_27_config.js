@@ -1,1 +1,1 @@
-var mnemonic = "social cruise ritual cinnamon begin accident globe thought offer giggle cruel fox";
+var mnemonic = "minimum sadness loop lumber immune soul sausage ball regular swift festival float";

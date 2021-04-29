@@ -1,1 +1,1 @@
-var mnemonic = "rescue glue ecology anxiety rent tomato settle chair camera spatial huge page";
+var mnemonic = "cage mango smart unfold matrix about hero click office clever hurry piano";

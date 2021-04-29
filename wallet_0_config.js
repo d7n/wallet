@@ -1,1 +1,1 @@
-var mnemonic = "garment fashion dutch soup inmate protect joy image tortoise utility acquire security";
+var mnemonic = "artwork observe portion wish embody nut squeeze travel liquid bar common age";

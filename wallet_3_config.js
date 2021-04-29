@@ -1,1 +1,1 @@
-var mnemonic = "human empower bless describe install amused life crystal calm marine tuition medal";
+var mnemonic = "shift route relief media raw sand apology hazard decide ignore couch kick";

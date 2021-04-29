@@ -1,1 +1,1 @@
-var mnemonic = "legal sing coffee refuse patch answer vanish twelve budget upset coconut comic";
+var mnemonic = "mean viable olive away perfect nose sleep acid enter skull witness desk";

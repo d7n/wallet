@@ -1,1 +1,1 @@
-var mnemonic = "coach produce bind buddy visit best thumb shock pair recall owner sight";
+var mnemonic = "civil naive style canal kiss tank puppy happy zebra select youth day";

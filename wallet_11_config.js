@@ -1,1 +1,1 @@
-var mnemonic = "interest lunar december motor during situate since bundle feed eagle scene rebuild";
+var mnemonic = "spawn obey credit olympic pudding little isolate dinner student sorry ride provide";

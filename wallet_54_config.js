@@ -1,1 +1,1 @@
-var mnemonic = "profit bracket return twin into day promote razor rotate solar opera envelope";
+var mnemonic = "habit faint stove bracket pill false old blame first spot crowd brown";

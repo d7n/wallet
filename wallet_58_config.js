@@ -1,1 +1,1 @@
-var mnemonic = "now jump kitchen kangaroo west join horse upgrade bottom logic museum boost";
+var mnemonic = "bus turkey left slender tobacco tape shrug slow quiz wash amount stumble";

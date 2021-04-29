@@ -1,1 +1,1 @@
-var mnemonic = "program genre extend luxury tornado media airport owner hint light another blood";
+var mnemonic = "keen dream quantum vicious manage vote maple coffee scrub few collect reason";

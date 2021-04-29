@@ -1,1 +1,1 @@
-var mnemonic = "order proof earn ridge curve salmon flight design poverty lecture luggage wool";
+var mnemonic = "process apology hybrid scorpion yellow derive umbrella memory board crisp cause advance";

@@ -1,1 +1,1 @@
-var mnemonic = "birth benefit palace divide bar stereo common crumble manage survey dutch dawn";
+var mnemonic = "love soon asset topple age judge daring dynamic wreck stem brown gauge";

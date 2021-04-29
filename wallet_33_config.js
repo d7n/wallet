@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon member intact early tourist jealous barely poem friend fiber neglect shed";
+var mnemonic = "calm cruise uncover melt beauty above comic spot direct tuition border remove";

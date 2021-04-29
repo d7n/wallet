@@ -1,1 +1,1 @@
-var mnemonic = "carpet sentence trouble cancel wonder stem frost fatal spell employ melody key";
+var mnemonic = "theme crane piano exile cycle organ repair thumb water coast more ocean";

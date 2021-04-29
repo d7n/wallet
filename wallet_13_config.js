@@ -1,1 +1,1 @@
-var mnemonic = "rude hamster trigger put river future basic away need onion shrimp help";
+var mnemonic = "level mimic need physical resist calm egg number erosion toss exist number";

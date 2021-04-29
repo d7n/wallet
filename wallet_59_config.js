@@ -1,1 +1,1 @@
-var mnemonic = "phrase sniff cause entry clutch recall aerobic alien struggle negative bird card";
+var mnemonic = "domain dance crop force donkey explain hello provide tennis cheap organ range";

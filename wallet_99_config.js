@@ -1,1 +1,1 @@
-var mnemonic = "laugh river clutch rice raven usage range sister property swap weekend empower";
+var mnemonic = "avoid typical install between bacon wild range budget message pioneer shadow dwarf";

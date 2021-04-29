@@ -1,1 +1,1 @@
-var mnemonic = "brother planet various viable siren meadow veteran cactus carpet false crouch dutch";
+var mnemonic = "olympic wreck dawn green element solid ugly math flat air human secret";

@@ -1,1 +1,1 @@
-var mnemonic = "base rice taxi exit make own catch veteran sketch garlic laptop hawk";
+var mnemonic = "talk ivory dutch bundle film index scatter noodle lyrics empty ship industry";

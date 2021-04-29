@@ -1,1 +1,1 @@
-var mnemonic = "index salad damp famous motor tragic salt derive wheel curtain fee harbor";
+var mnemonic = "evidence napkin bag mansion output junk laugh slogan shoot sign drift hobby";

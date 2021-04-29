@@ -1,1 +1,1 @@
-var mnemonic = "valid shine clay eagle radio world urge pulse shine umbrella sister enlist";
+var mnemonic = "film jelly shuffle announce habit victory walk myself apart weasel swap airport";

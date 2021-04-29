@@ -1,1 +1,1 @@
-var mnemonic = "afraid chimney never sand dune stick sight when pony tissue marriage record";
+var mnemonic = "cricket nuclear urban idea actual kidney tongue sweet permit goose menu equal";

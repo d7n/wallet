@@ -1,1 +1,1 @@
-var mnemonic = "sibling power garlic canoe method broken pluck sting country burger leader speed";
+var mnemonic = "analyst calm borrow exclude shiver liquid shield pretty capital beach corn steak";

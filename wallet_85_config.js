@@ -1,1 +1,1 @@
-var mnemonic = "curtain narrow decline vibrant income awkward time federal slow nurse feed material";
+var mnemonic = "panther question ability dutch entry myth feel mean peasant raccoon ability trash";

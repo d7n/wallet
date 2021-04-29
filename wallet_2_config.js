@@ -1,1 +1,1 @@
-var mnemonic = "accuse skin extra remove capital stable fire thought must void include frog";
+var mnemonic = "sample ride monkey appear mirror resist sport tower punch focus win salt";

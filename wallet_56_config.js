@@ -1,1 +1,1 @@
-var mnemonic = "canal afraid parent genre scissors suggest eye raise sweet corn arrange total";
+var mnemonic = "disorder stumble raise wave must able wide wasp train grow gallery atom";

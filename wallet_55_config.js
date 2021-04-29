@@ -1,1 +1,1 @@
-var mnemonic = "basket odor crowd add over menu truth monitor display afford supply dial";
+var mnemonic = "cruel cigar minor duck bicycle dawn gun lawsuit suggest cancel gain west";

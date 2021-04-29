@@ -1,1 +1,1 @@
-var mnemonic = "submit corn uniform slice little lady hamster guilt supreme dinosaur crater coach";
+var mnemonic = "into gospel ramp regular venture mobile coast same venture slide before holiday";

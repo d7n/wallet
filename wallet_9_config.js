@@ -1,1 +1,1 @@
-var mnemonic = "cupboard chimney ball radar today weapon miss enforce food announce canoe tattoo";
+var mnemonic = "sauce parade west shock august grace leopard push choose visit edge position";

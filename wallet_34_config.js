@@ -1,1 +1,1 @@
-var mnemonic = "army melody injury winter harsh ahead quality layer logic almost tumble enter";
+var mnemonic = "alter venue analyst meat arrive current veteran sunset surface elite flight cost";

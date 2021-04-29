@@ -1,1 +1,1 @@
-var mnemonic = "legal dilemma problem fiction attend marble snap glance dance dynamic leg tip";
+var mnemonic = "loud day burden analyst service boy rib crucial warfare illness sand race";

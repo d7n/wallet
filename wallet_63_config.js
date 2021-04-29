@@ -1,1 +1,1 @@
-var mnemonic = "hole steel surround parent shy mistake mention quit render buyer matrix impose";
+var mnemonic = "crumble electric relax brush panther abuse label conduct hope divorce fog toss";

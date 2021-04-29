@@ -1,1 +1,1 @@
-var mnemonic = "better wagon sock medal valley blue april friend rifle leopard system left";
+var mnemonic = "dawn stay hope fire like thrive better stove uncover trade globe exotic";

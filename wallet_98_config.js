@@ -1,1 +1,1 @@
-var mnemonic = "then express ethics culture hungry improve burst crush bleak ancient ostrich eight";
+var mnemonic = "window various cactus kick twenty glass announce girl left carbon skirt hover";

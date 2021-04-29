@@ -1,1 +1,1 @@
-var mnemonic = "crash amused female fine crisp holiday disease sister toddler sausage mosquito clap";
+var mnemonic = "similar someone tiny jacket ice royal sibling merit word iron viable mammal";

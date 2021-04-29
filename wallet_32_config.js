@@ -1,1 +1,1 @@
-var mnemonic = "focus switch enemy trophy garbage submit kid genius unhappy law foster segment";
+var mnemonic = "doctor regret nest grit eternal ripple kiss home coil alone view nephew";

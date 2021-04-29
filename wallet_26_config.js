@@ -1,1 +1,1 @@
-var mnemonic = "chuckle coyote hurt trust sick fox spin slogan law useful purity next";
+var mnemonic = "luggage volcano retreat recall birth culture electric scare virtual adjust viable electric";

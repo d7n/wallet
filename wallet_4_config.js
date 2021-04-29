@@ -1,1 +1,1 @@
-var mnemonic = "exist gesture citizen speed crime goose soul club ignore attitude drama entry";
+var mnemonic = "ridge monster inquiry science deal random mystery earn narrow destroy ribbon barely";

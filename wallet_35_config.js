@@ -1,1 +1,1 @@
-var mnemonic = "plate during crawl blanket solar pelican oak boil trumpet riot ring unlock";
+var mnemonic = "chief zone tornado latin thing kind disease lazy tree abuse domain green";

@@ -1,1 +1,1 @@
-var mnemonic = "bean mention step disease summer okay asset tell tree recycle blossom neither";
+var mnemonic = "clip tackle cricket swim alcohol snow erupt invite jump mom toy sand";

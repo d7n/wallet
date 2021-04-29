@@ -1,1 +1,1 @@
-var mnemonic = "book remain yellow hello mail unfold false future inner push mad edge";
+var mnemonic = "plastic square tag aim coral caution head help art thunder victory glance";

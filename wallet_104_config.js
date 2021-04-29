@@ -1,1 +1,1 @@
-var mnemonic = "pool price casino paddle feature success jelly cinnamon hospital slim chunk excuse";
+var mnemonic = "hedgehog pretty word summer digital accuse soon daring fit banana prosper pulp";

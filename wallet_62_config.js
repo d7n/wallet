@@ -1,1 +1,1 @@
-var mnemonic = "mirror august donkey shallow rebuild suspect pulp earn good upon invest profit";
+var mnemonic = "like camera turkey gym fade kid title party blind inside abstract bread";

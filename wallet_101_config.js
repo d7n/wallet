@@ -1,1 +1,1 @@
-var mnemonic = "museum auto town pause tag final rude era edit eagle cute tourist";
+var mnemonic = "orange wagon town detect hint forest still rocket regret build fine biology";
