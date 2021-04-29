@@ -1,1 +1,1 @@
-var mnemonic = "there mix this expect clown purse network turtle result time dream know";
+var mnemonic = "lumber major swear blame fashion wall test strike blast essence elbow attitude";

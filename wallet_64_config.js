@@ -1,1 +1,1 @@
-var mnemonic = "submit neck gasp motor rotate item milk tackle pretty region screen leopard";
+var mnemonic = "kind coyote glance shed anger medal smile palm zone chest above defense";

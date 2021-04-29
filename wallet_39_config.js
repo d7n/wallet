@@ -1,1 +1,1 @@
-var mnemonic = "honey helmet park topic ice lunch retire vintage ticket enlist walnut guess";
+var mnemonic = "erode spider diamond wreck olympic panda diagram birth measure problem order height";

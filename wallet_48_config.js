@@ -1,1 +1,1 @@
-var mnemonic = "fever chimney snack glue patrol toast bullet agree resemble trip culture salt";
+var mnemonic = "tank hard actor foam cause dream trick twelve couple twin hint midnight";

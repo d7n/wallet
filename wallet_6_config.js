@@ -1,1 +1,1 @@
-var mnemonic = "fade exist question dish frozen differ grunt release dynamic drop bag depend";
+var mnemonic = "breeze reveal slender fragile snack robust wise opera vote trim april nice";

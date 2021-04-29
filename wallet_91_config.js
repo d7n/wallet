@@ -1,1 +1,1 @@
-var mnemonic = "garlic weird jar soccer unlock main focus hat ladder miracle found bronze";
+var mnemonic = "inner fiber diagram tree injury trash crucial robust cinnamon build venture dynamic";

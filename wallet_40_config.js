@@ -1,1 +1,1 @@
-var mnemonic = "size drop require ketchup bamboo crystal lesson hedgehog lab divert monkey divide";
+var mnemonic = "range transfer chef bridge wish biology unusual axis action fish knee prefer";

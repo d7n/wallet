@@ -1,1 +1,1 @@
-var mnemonic = "clown used furnace road dumb someone sound card trend insect divide amused";
+var mnemonic = "goddess artist marriage series father end divert cover siren father draft distance";

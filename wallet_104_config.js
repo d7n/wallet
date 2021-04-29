@@ -1,1 +1,1 @@
-var mnemonic = "wage tonight guess easily tooth still art helmet home aim bird push";
+var mnemonic = "code icon glass plunge electric fantasy cannon clay impulse lecture survey palm";

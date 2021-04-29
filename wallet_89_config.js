@@ -1,1 +1,1 @@
-var mnemonic = "hint decide shoulder what close inherit adjust ketchup loop merry silver immune";
+var mnemonic = "report grit virtual valid transfer mammal cereal target hour toilet theory rapid";

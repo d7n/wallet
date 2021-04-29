@@ -1,1 +1,1 @@
-var mnemonic = "convince peanut clown slam butter gap series transfer pizza danger believe book";
+var mnemonic = "arrive loop bone axis leg able divide proof orange island alcohol patch";

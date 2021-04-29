@@ -1,1 +1,1 @@
-var mnemonic = "inform popular toe outside patient improve decorate river tooth course useful often";
+var mnemonic = "ordinary need company dose shallow fury despair injury master lady neutral move";

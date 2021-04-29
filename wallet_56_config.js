@@ -1,1 +1,1 @@
-var mnemonic = "aspect film zebra evolve beyond plug sad essay dwarf spray arrest pluck";
+var mnemonic = "law term eye eager kitchen mango area emerge sound twelve airport shed";

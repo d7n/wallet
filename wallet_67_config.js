@@ -1,1 +1,1 @@
-var mnemonic = "act vocal portion guard snack father amateur company area all bulb dog";
+var mnemonic = "area erosion there conduct cement symbol radar brave glove radio admit liquid";

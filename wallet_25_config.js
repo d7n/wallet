@@ -1,1 +1,1 @@
-var mnemonic = "wing special kitchen mimic color shrimp actual cook luxury tip enact couple";
+var mnemonic = "skill edit patch bench cover fruit skate oval curious carpet become control";

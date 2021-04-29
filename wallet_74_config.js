@@ -1,1 +1,1 @@
-var mnemonic = "process fitness duty amazing field stool business arrow helmet asset strike avocado";
+var mnemonic = "pond salmon cover video noodle anchor intact race divide two choice anchor";

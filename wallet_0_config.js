@@ -1,1 +1,1 @@
-var mnemonic = "expire artist author ethics garden provide prepare sure beauty noble east empower";
+var mnemonic = "genius tunnel arch pull grid system truth scout slogan parade author chicken";

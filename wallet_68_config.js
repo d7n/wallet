@@ -1,1 +1,1 @@
-var mnemonic = "arctic copper empower shaft sketch broccoli repair know cart spread guitar fun";
+var mnemonic = "favorite math soul ship toddler valve struggle follow monitor mushroom prosper scare";

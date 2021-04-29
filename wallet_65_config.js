@@ -1,1 +1,1 @@
-var mnemonic = "tone avoid tide vote hill muscle humble state gym absurd fly produce";
+var mnemonic = "frequent predict system fabric title ribbon public skill grow fix easily myth";

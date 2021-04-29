@@ -1,1 +1,1 @@
-var mnemonic = "hub combine crawl shell route brisk grit toilet actor spy time segment";
+var mnemonic = "upset dismiss deposit endless behind recall industry saddle best knife deliver daughter";

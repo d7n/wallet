@@ -1,1 +1,1 @@
-var mnemonic = "trust surface damp energy visit heavy crouch powder rural they head month";
+var mnemonic = "chef moral pigeon country chief another middle couch spawn over panda bracket";

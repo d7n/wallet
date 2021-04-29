@@ -1,1 +1,1 @@
-var mnemonic = "defy pudding cement eight crash mutual aspect repair field quit kid evil";
+var mnemonic = "update noodle sound spare shuffle library jeans upper tongue stock donate innocent";

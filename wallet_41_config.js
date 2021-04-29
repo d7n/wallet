@@ -1,1 +1,1 @@
-var mnemonic = "wild edge limb sleep bitter physical naive deputy wheat first already trophy";
+var mnemonic = "interest liar sauce sort night vote museum squirrel thumb gas coil wild";

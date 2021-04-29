@@ -1,1 +1,1 @@
-var mnemonic = "switch gas position puppy relief place credit seat stone asthma glide current";
+var mnemonic = "goddess open remind people hip hope mean student steel time subject pyramid";

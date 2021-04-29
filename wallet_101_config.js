@@ -1,1 +1,1 @@
-var mnemonic = "more general grit mystery online rug stem inside shy ginger fame nurse";
+var mnemonic = "silly evolve mosquito sweet track repair laundry soda jar alert place shrug";

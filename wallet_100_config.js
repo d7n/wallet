@@ -1,1 +1,1 @@
-var mnemonic = "crucial country cup birth address fame car camera lonely bright rebel price";
+var mnemonic = "craft crowd update diesel around rate eagle segment neither hire field level";

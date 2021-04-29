@@ -1,1 +1,1 @@
-var mnemonic = "raccoon stereo tank mind toy elegant step gospel put city gentle cause";
+var mnemonic = "range work lawn gown ability train venue copper robot rather master sausage";

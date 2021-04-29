@@ -1,1 +1,1 @@
-var mnemonic = "elevator stumble tape improve canoe nice grocery bone inhale news dignity remain";
+var mnemonic = "approve pudding unveil lake soda spell inform wink swift piano strike setup";

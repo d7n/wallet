@@ -1,1 +1,1 @@
-var mnemonic = "finish season fresh awesome kick dinner awake tobacco card expand cry sudden";
+var mnemonic = "upon observe same notable tourist promote sponsor tooth middle push risk nest";

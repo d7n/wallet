@@ -1,1 +1,1 @@
-var mnemonic = "someone left rebel series venture ginger pulp wave nest fish one apart";
+var mnemonic = "shrimp security uniform bamboo range party boss pulse lady require lecture asthma";

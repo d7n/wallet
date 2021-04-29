@@ -1,1 +1,1 @@
-var mnemonic = "bind spot lend power silly update illegal field dutch foster wheat retire";
+var mnemonic = "midnight crime harbor mix sketch stadium project present carpet urge amused alone";

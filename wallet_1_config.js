@@ -1,1 +1,1 @@
-var mnemonic = "project either innocent health metal liberty wave chase suspect park sauce interest";
+var mnemonic = "mountain skill taxi piano battle bean dice usage peasant latin donor faith";

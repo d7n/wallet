@@ -1,1 +1,1 @@
-var mnemonic = "design gravity hockey regular raccoon tired faculty close need random sense tuna";
+var mnemonic = "heart pull mix garlic mention maple rude thing latin brass adjust ability";

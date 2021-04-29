@@ -1,1 +1,1 @@
-var mnemonic = "drill stereo upon toy potato alley shine peasant six soap radar another";
+var mnemonic = "fame rubber just suggest little eye dream random stay this illegal gas";

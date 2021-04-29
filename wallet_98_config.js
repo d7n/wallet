@@ -1,1 +1,1 @@
-var mnemonic = "monster cheese salt addict myth chest fashion skill save mimic twelve page";
+var mnemonic = "dwarf position old fold useless february next present baby shift cake vessel";

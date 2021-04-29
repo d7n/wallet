@@ -1,1 +1,1 @@
-var mnemonic = "lemon census doctor artwork three radar aim special absent stable issue undo";
+var mnemonic = "umbrella tongue process marriage little view spend abstract era sudden mango jacket";

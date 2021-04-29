@@ -1,1 +1,1 @@
-var mnemonic = "result luxury upper advance say inform domain glory gap document sponsor wife";
+var mnemonic = "good imitate hold soft lend size census learn lounge timber already pair";

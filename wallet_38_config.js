@@ -1,1 +1,1 @@
-var mnemonic = "struggle grid almost supreme foot you rival train acquire pen trap still";
+var mnemonic = "vendor insane crumble light need morning clog arrive fashion album letter suit";

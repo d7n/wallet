@@ -1,1 +1,1 @@
-var mnemonic = "goat dilemma toddler divide bone bless leader bargain body slight extend hard";
+var mnemonic = "spirit struggle salt reduce depart random snack item used finger column pudding";

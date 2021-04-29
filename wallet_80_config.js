@@ -1,1 +1,1 @@
-var mnemonic = "exclude hundred habit lady note start pink dust youth dentist follow shiver";
+var mnemonic = "frozen donkey aim buzz wild gauge dumb teach tooth alley virus tragic";

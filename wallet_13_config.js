@@ -1,1 +1,1 @@
-var mnemonic = "soccer winter antique radio relief pretty little alien inform reward dizzy crime";
+var mnemonic = "black bid bulb street mobile shift chapter east cart lab step cousin";

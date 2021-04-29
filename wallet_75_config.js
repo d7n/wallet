@@ -1,1 +1,1 @@
-var mnemonic = "civil wrestle tail mail aunt since liquid toilet mask invest layer brother";
+var mnemonic = "stone deal snake achieve advice consider have gauge hotel region other cousin";

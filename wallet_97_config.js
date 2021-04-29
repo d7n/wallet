@@ -1,1 +1,1 @@
-var mnemonic = "turkey laptop toss list guitar lizard supreme inside half nice excite trip";
+var mnemonic = "original box spoil plate goose double age lab rely disorder rival hill";

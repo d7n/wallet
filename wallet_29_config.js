@@ -1,1 +1,1 @@
-var mnemonic = "knock punch federal kidney upgrade violin tomato wasp dress wheat crystal angle";
+var mnemonic = "tilt anxiety chest faint pottery whale wait hero face human bean ladder";

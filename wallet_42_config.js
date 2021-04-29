@@ -1,1 +1,1 @@
-var mnemonic = "zone charge rival shiver industry crater nut fame liberty twelve bag pencil";
+var mnemonic = "hip pistol return gift busy embrace gasp trumpet record bulk fiber amateur";

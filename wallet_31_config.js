@@ -1,1 +1,1 @@
-var mnemonic = "weasel loyal science where spike airport noble mother bridge margin walk tomato";
+var mnemonic = "jeans glide maze scan lunar kite trumpet dad bullet super gasp acquire";

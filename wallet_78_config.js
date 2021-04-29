@@ -1,1 +1,1 @@
-var mnemonic = "salad celery happy fun issue inform warfare album cushion sad dune toddler";
+var mnemonic = "toward dial fiction bridge cool monkey lottery entry enlist face popular gloom";

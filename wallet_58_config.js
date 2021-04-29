@@ -1,1 +1,1 @@
-var mnemonic = "weird spawn drive stamp open brass carbon crack radar monster budget couch";
+var mnemonic = "entry pelican work buzz replace slender forum dog clump return elevator play";

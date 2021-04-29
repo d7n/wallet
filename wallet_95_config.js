@@ -1,1 +1,1 @@
-var mnemonic = "first mind basic deal evidence rack grid agree version wood service wage";
+var mnemonic = "waste sunset swamp bird month always night bullet shield moon thought lesson";

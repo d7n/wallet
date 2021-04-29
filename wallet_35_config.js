@@ -1,1 +1,1 @@
-var mnemonic = "farm border drift elevator raccoon mind stay cactus comfort awake ordinary truth";
+var mnemonic = "scale gain taste license client expand toss cry sting purchase credit chest";

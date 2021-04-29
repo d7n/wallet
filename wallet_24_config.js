@@ -1,1 +1,1 @@
-var mnemonic = "ancient maid boring end barrel right club concert cannon roast receive edge";
+var mnemonic = "auction scan source usual rate next picture quit immune venue tourist corn";

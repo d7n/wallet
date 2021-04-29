@@ -1,1 +1,1 @@
-var mnemonic = "father hollow bread silly balcony erupt grape hurry ice shoe cave basket";
+var mnemonic = "rural success stumble hurdle decade planet sell buzz census alpha moral upon";

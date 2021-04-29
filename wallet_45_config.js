@@ -1,1 +1,1 @@
-var mnemonic = "love rose antenna elevator subway salad minute obey depth civil peace couple";
+var mnemonic = "loud foster trophy shuffle century scare case merit alcohol visit rebel dizzy";

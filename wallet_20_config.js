@@ -1,1 +1,1 @@
-var mnemonic = "cake oval grace nephew ostrich unfold author brown kitten end alone grunt";
+var mnemonic = "swamp panic stem merge future antique biology stage venue clean sphere cloth";

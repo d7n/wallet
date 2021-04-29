@@ -1,1 +1,1 @@
-var mnemonic = "vote pitch alpha venture major brand gain alert verify wood common dish";
+var mnemonic = "vague push beef tank bike anxiety hen inch patient chaos ready pepper";

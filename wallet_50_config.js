@@ -1,1 +1,1 @@
-var mnemonic = "share level dust rally cake warm roof surround machine upgrade surround wife";
+var mnemonic = "pigeon brass clinic magnet describe region vital drill crystal toilet mystery kind";

@@ -1,1 +1,1 @@
-var mnemonic = "thrive elephant midnight sound grocery market false hello suspect whale hammer source";
+var mnemonic = "convince enrich history soccer easy scorpion whisper silver potato person giant aim";

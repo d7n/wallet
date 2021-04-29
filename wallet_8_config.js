@@ -1,1 +1,1 @@
-var mnemonic = "mouse want cute rabbit amazing park vault couch bike drop tribe mammal";
+var mnemonic = "shiver illegal alone manage minor debris reopen hammer upgrade cannon inhale brain";

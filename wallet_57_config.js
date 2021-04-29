@@ -1,1 +1,1 @@
-var mnemonic = "bacon sheriff mushroom output betray bone morning hello bundle option truck arch";
+var mnemonic = "climb alley mask paddle green hub copper patrol subway mansion evidence garbage";

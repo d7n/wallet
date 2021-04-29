@@ -1,1 +1,1 @@
-var mnemonic = "december current frame abuse assume require battle appear real silk adjust enroll";
+var mnemonic = "icon ranch gold laugh neutral plunge deputy cheese journey pottery patrol final";

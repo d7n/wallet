@@ -1,1 +1,1 @@
-var mnemonic = "napkin reduce unit awesome assume risk approve just traffic fog scare sunny";
+var mnemonic = "main honey vital mask wash lesson document disagree decrease uniform gasp vendor";

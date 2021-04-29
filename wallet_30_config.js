@@ -1,1 +1,1 @@
-var mnemonic = "fuel kit speed pretty flat garden alarm confirm august lunch airport peasant";
+var mnemonic = "seed shop monkey duty trophy derive reflect allow physical artist capital speed";

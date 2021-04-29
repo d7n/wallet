@@ -1,1 +1,1 @@
-var mnemonic = "friend antenna hurry warrior shallow pupil random thunder oblige spoon egg pledge";
+var mnemonic = "toe absurd afraid split casino squirrel crisp hood fiscal inspire gym today";

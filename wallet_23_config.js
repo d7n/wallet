@@ -1,1 +1,1 @@
-var mnemonic = "knock drama orient document scatter wall doctor fish crater alley noise neutral";
+var mnemonic = "vague damage extra mansion silver cook tag once winner reduce pride art";

@@ -1,1 +1,1 @@
-var mnemonic = "champion unaware impose popular welcome jazz define quit manual usage column cycle";
+var mnemonic = "save donor rhythm ticket clap engine fine witness tooth door connect diesel";

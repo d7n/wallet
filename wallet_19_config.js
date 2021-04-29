@@ -1,1 +1,1 @@
-var mnemonic = "tray language any stairs tip custom rhythm tape lamp behave museum empty";
+var mnemonic = "solve mushroom author giggle clarify castle model style hazard duty future define";

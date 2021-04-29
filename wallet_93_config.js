@@ -1,1 +1,1 @@
-var mnemonic = "dilemma dismiss ensure biology screen toe maze glue advance any panther female";
+var mnemonic = "mouse unaware change fortune beef badge polar smoke spike dolphin grid infant";

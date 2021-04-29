@@ -1,1 +1,1 @@
-var mnemonic = "ice diagram use review annual confirm nest beach raw clog infant album";
+var mnemonic = "guilt elite excite spatial else reveal mean because heart couple forum fat";

@@ -1,1 +1,1 @@
-var mnemonic = "motion word verify immune junk volcano half defense rival shine neglect boost";
+var mnemonic = "spice man feed pattern bulb debate mass social multiply weasel cash usage";

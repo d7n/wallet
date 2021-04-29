@@ -1,1 +1,1 @@
-var mnemonic = "pulse neither awake cruel pulse link coach alien grab pyramid hat treat";
+var mnemonic = "huge pelican police fit flat flavor rotate cloth raven coffee bread will";

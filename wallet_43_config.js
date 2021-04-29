@@ -1,1 +1,1 @@
-var mnemonic = "access viable little pepper check detail venture moon forward prize spend season";
+var mnemonic = "correct doll annual turtle joy second reveal fold chicken need gorilla cement";

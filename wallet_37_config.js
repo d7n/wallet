@@ -1,1 +1,1 @@
-var mnemonic = "island print argue crowd quantum youth spawn cinnamon attack update source stable";
+var mnemonic = "bachelor stamp crouch edge oval nut secret gown flee grid jeans crack";

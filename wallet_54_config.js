@@ -1,1 +1,1 @@
-var mnemonic = "volcano deny barely fan muscle truly grid sing deal surround verify add";
+var mnemonic = "mistake change mimic reunion blame innocent hour strong infant better spot rack";

@@ -1,1 +1,1 @@
-var mnemonic = "web iron velvet fresh afford unique lawsuit erode hard long oppose bubble";
+var mnemonic = "they brother marriage motor upon disorder verify post side cook stem foil";

@@ -1,1 +1,1 @@
-var mnemonic = "curious bring ribbon minor artefact vehicle defy security winter foam lawn trick";
+var mnemonic = "athlete chest hope earth oven friend proof slush victory gas strategy fat";

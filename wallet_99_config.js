@@ -1,1 +1,1 @@
-var mnemonic = "panther identify wedding virus wet crisp minor churn congress bring hover rebel";
+var mnemonic = "crime noble great venture trophy twenty ensure sure champion person century since";

@@ -1,1 +1,1 @@
-var mnemonic = "reform solve rude flock cheese license alert double since release shock print";
+var mnemonic = "output wool silk sweet trend urge vital between own deny pelican laundry";

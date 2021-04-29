@@ -1,1 +1,1 @@
-var mnemonic = "toilet lend lion mansion woman vanish bird illegal whip claw rapid eight";
+var mnemonic = "slush bag limit ability during raven cabbage install enable switch rigid comfort";

@@ -1,1 +1,1 @@
-var mnemonic = "void resist bounce churn eager ethics level energy betray solution between lab";
+var mnemonic = "addict imitate receive penalty capable mix symbol gossip uniform radio blouse benefit";

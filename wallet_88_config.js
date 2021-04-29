@@ -1,1 +1,1 @@
-var mnemonic = "unfold sleep plastic oval prefer text reopen analyst salon final any century";
+var mnemonic = "unusual atom photo typical chase lava volume abstract orphan catch noble remind";

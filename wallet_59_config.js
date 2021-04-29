@@ -1,1 +1,1 @@
-var mnemonic = "outdoor into sauce payment labor win riot depend south bridge treat found";
+var mnemonic = "genuine join comic increase omit benefit paddle clean rather play chat timber";

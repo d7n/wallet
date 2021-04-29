@@ -1,1 +1,1 @@
-var mnemonic = "defy rather purity cupboard resist into umbrella glare luxury club obtain wet";
+var mnemonic = "cup moment special mesh illness february curtain merge mom else pill collect";

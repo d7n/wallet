@@ -1,1 +1,1 @@
-var mnemonic = "car void scrub alien series globe shed april anger reopen crumble scale";
+var mnemonic = "sister marriage cigar artwork lend baby scale attitude vintage rule actual charge";

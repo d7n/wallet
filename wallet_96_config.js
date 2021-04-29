@@ -1,1 +1,1 @@
-var mnemonic = "possible room bench trip affair knife second pull cloth bunker clever easily";
+var mnemonic = "october rabbit park coral excess artefact toast laptop volume lens cry food";

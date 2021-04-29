@@ -1,1 +1,1 @@
-var mnemonic = "trend island during cupboard depth famous crop tag scan silent spread garment";
+var mnemonic = "rain dismiss century discover floor purse breeze assault stay absurd frog arrive";

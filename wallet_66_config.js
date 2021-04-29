@@ -1,1 +1,1 @@
-var mnemonic = "memory arena snack faint idea proof kitten cram boy salon easily barrel";
+var mnemonic = "fish legal negative patient major road help opera ceiling blind output one";

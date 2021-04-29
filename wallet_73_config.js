@@ -1,1 +1,1 @@
-var mnemonic = "noise ready advice chimney taxi feed hold round verb inject sauce canvas";
+var mnemonic = "stomach honey view luxury soccer shy story abstract use garment marriage fiber";

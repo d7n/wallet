@@ -1,1 +1,1 @@
-var mnemonic = "fan ramp inject host quiz retreat setup demise throw novel hurry valid";
+var mnemonic = "fit buffalo ride evil sponsor empty kite cargo clinic fish welcome valley";

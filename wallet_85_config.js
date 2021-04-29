@@ -1,1 +1,1 @@
-var mnemonic = "ranch kangaroo two inside strong unveil crucial equal glass mouse minor beef";
+var mnemonic = "frozen mistake science glide bundle rapid prize fat pelican length actual dwarf";

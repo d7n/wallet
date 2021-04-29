@@ -1,1 +1,1 @@
-var mnemonic = "intact firm input rib blush neglect drop trip name monitor whip tone";
+var mnemonic = "horror disagree gospel legend business notice give key december unfold mad wheat";
