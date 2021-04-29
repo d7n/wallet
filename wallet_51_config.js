@@ -1,1 +1,1 @@
-var mnemonic = "educate van trophy stadium foil moment grid profit rare switch soda because";
+var mnemonic = "silver dwarf rubber album source feed ginger repair bring possible omit dynamic";

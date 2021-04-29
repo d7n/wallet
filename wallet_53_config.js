@@ -1,1 +1,1 @@
-var mnemonic = "erosion spawn flavor camera turkey west share kick omit artefact short bridge";
+var mnemonic = "fault better dirt close equip renew elegant sketch knee number swift clutch";

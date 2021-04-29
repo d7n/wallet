@@ -1,1 +1,1 @@
-var mnemonic = "online forget alert place upon humor various float gasp remind obey biology";
+var mnemonic = "call desk frost gas purchase choice come possible expect thing powder step";

@@ -1,1 +1,1 @@
-var mnemonic = "process midnight employ domain shop myself car pipe cover canyon gorilla reunion";
+var mnemonic = "badge myself wave soft track pyramid upset whip anxiety across lunch yellow";

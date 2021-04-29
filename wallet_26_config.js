@@ -1,1 +1,1 @@
-var mnemonic = "fetch luggage corn impulse depth behave wing shy stage find solar legend";
+var mnemonic = "hotel check casual syrup insane gate thing banner sport injury winter wagon";

@@ -1,1 +1,1 @@
-var mnemonic = "bronze search bulk fault orphan drift pave tube engine one hip admit";
+var mnemonic = "cash banana prevent project arrest slot grunt cram mansion agree funny hammer";

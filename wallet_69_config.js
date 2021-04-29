@@ -1,1 +1,1 @@
-var mnemonic = "fence melody pizza science quarter trap kiwi tomato confirm legal carpet ugly";
+var mnemonic = "twenty laptop paddle affair runway jeans dice transfer spider eager crawl dolphin";

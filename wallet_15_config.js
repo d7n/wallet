@@ -1,1 +1,1 @@
-var mnemonic = "friend coffee tuition layer thought negative useful veteran travel subject romance alert";
+var mnemonic = "erupt twist resource attend save coconut pig useless slam squirrel wealth census";

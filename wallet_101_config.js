@@ -1,1 +1,1 @@
-var mnemonic = "scheme bracket broom brown shop margin describe sunset nest hundred island suggest";
+var mnemonic = "donate piano sword caution notable obtain anchor ivory resist where walk antique";

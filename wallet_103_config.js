@@ -1,1 +1,1 @@
-var mnemonic = "field shiver drill canal replace since can vast ten pull borrow sick";
+var mnemonic = "muffin sunset tag risk birth ethics course loud suit begin capital coach";

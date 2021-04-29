@@ -1,1 +1,1 @@
-var mnemonic = "reveal depart model lunch gadget snap quality very scorpion mercy awake ride";
+var mnemonic = "riot mystery mirror key cute mixture pony mercy core learn ecology hover";

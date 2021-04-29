@@ -1,1 +1,1 @@
-var mnemonic = "worry intact usage snake soda curve emerge cabin resist cup rural toddler";
+var mnemonic = "next gallery praise access credit modify next gorilla album gaze shop street";

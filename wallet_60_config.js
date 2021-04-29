@@ -1,1 +1,1 @@
-var mnemonic = "truck noodle antique blast margin occur brave more earth loud long awful";
+var mnemonic = "saddle sting multiply sweet allow birth baby feature bulk focus mix betray";

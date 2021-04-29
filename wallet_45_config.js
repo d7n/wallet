@@ -1,1 +1,1 @@
-var mnemonic = "pole enemy middle true issue author success submit script connect diet apart";
+var mnemonic = "sport cabin ceiling census ramp theme final lava child ankle earth tourist";

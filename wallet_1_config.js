@@ -1,1 +1,1 @@
-var mnemonic = "dad else lesson spy opinion kangaroo primary account item gauge veteran oyster";
+var mnemonic = "add under pulp print seek rail above endorse gate dilemma museum drastic";

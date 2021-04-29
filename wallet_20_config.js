@@ -1,1 +1,1 @@
-var mnemonic = "also glare weasel steak sunny game zero equip choose engage month finger";
+var mnemonic = "garden business badge nuclear cherry birth task mixture window gorilla stick muscle";

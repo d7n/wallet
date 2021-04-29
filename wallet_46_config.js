@@ -1,1 +1,1 @@
-var mnemonic = "minor wheel toddler family system crater road like feature exist sunset safe";
+var mnemonic = "actual march emotion bachelor february cat autumn what lecture citizen illness oval";

@@ -1,1 +1,1 @@
-var mnemonic = "impulse heart endless believe punch stove aware blush manage evidence ordinary wife";
+var mnemonic = "seed destroy skin eye gas nuclear unfold bundle dirt plunge range cheap";

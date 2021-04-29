@@ -1,1 +1,1 @@
-var mnemonic = "adapt country garlic youth fog wise hip endorse satoshi crop lunch ribbon";
+var mnemonic = "hour nothing vocal fluid hybrid turkey inspire solid general scout entry usage";

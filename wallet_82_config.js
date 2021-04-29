@@ -1,1 +1,1 @@
-var mnemonic = "execute cheese invite vocal teach convince flush cry sniff owner crunch eager";
+var mnemonic = "business age sunset power tobacco share snake order work invite slight view";

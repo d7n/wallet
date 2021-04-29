@@ -1,1 +1,1 @@
-var mnemonic = "arrange virus toilet march impose fantasy volcano supply hip vicious glow hidden";
+var mnemonic = "vehicle vapor fancy hazard figure bag roof wide nation seven inner refuse";

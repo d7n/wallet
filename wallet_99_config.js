@@ -1,1 +1,1 @@
-var mnemonic = "coral spend uncle toddler wash glimpse dignity choice pyramid shoe idle field";
+var mnemonic = "glory decrease recycle royal vast quick satisfy broccoli decorate bus squeeze miss";

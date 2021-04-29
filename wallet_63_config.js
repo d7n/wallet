@@ -1,1 +1,1 @@
-var mnemonic = "onion daring welcome goat pass assault angle perfect predict weasel goat clever";
+var mnemonic = "pudding omit annual open kit baby minor sugar flip cabin heart process";

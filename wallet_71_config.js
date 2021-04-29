@@ -1,1 +1,1 @@
-var mnemonic = "rule merry orphan lucky disagree sleep reject cradle decorate game ankle erode";
+var mnemonic = "local scorpion glare easy december perfect surge neglect frost aware emotion blade";

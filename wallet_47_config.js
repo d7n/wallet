@@ -1,1 +1,1 @@
-var mnemonic = "village million pill exchange unlock decrease erupt maximum depart tired design output";
+var mnemonic = "piece oil liquid name uncover forest glance history vital method noble divide";

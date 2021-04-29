@@ -1,1 +1,1 @@
-var mnemonic = "venture figure nose purpose coast father broom limit gesture twice hint ahead";
+var mnemonic = "habit desk trick state view marine patch such grief absent reopen initial";

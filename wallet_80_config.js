@@ -1,1 +1,1 @@
-var mnemonic = "maze kidney yard clock oak problem spirit bulk predict civil miracle tackle";
+var mnemonic = "feel myself student salad swing climb lunch panda lamp churn vault list";

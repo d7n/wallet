@@ -1,1 +1,1 @@
-var mnemonic = "magnet knock author daring live champion model swarm diamond stairs logic judge";
+var mnemonic = "change finish accident grid lawn neck cupboard diary marine bomb divorce carpet";

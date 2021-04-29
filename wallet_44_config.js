@@ -1,1 +1,1 @@
-var mnemonic = "ticket expire include reward post ancient iron yard balcony now october fossil";
+var mnemonic = "matrix option axis barely sadness suspect liquid craft cruel visual poverty embrace";

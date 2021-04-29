@@ -1,1 +1,1 @@
-var mnemonic = "have jacket mechanic gas genius key thrive manage tank wisdom robot tube";
+var mnemonic = "purse strong guess mass census awkward label depth amount frequent level patch";

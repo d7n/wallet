@@ -1,1 +1,1 @@
-var mnemonic = "great more hotel junior possible reform help truth urge script fashion print";
+var mnemonic = "logic dumb retreat prize patient flower degree mesh ugly armor various pluck";

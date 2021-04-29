@@ -1,1 +1,1 @@
-var mnemonic = "asset flavor maple sell truck whale swift fat lazy team twenty theme";
+var mnemonic = "diary upgrade dignity final wrap expire burst news rely anger actual slender";

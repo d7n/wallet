@@ -1,1 +1,1 @@
-var mnemonic = "top initial embrace rookie raccoon equal crumble secret worry message acquire smile";
+var mnemonic = "ice into sibling funny tobacco gown spy olympic peasant save wreck labor";

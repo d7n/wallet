@@ -1,1 +1,1 @@
-var mnemonic = "spot stock initial coil evidence denial call tongue news feature gun valve";
+var mnemonic = "pave hold dog novel excite picture open between bright season struggle organ";

@@ -1,1 +1,1 @@
-var mnemonic = "announce manual elbow sun picnic magic afford usage cradle caution salmon artist";
+var mnemonic = "coin output cheese taxi grace salad hungry clarify sell cabin merge zebra";

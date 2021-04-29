@@ -1,1 +1,1 @@
-var mnemonic = "derive trust salt frozen bulk reveal evoke denial girl guide rebel ginger";
+var mnemonic = "misery begin cactus creek gun network twin sibling coin dad gap stomach";

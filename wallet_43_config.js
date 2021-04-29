@@ -1,1 +1,1 @@
-var mnemonic = "dentist thank ice plate comfort million evil job rough inject crop unit";
+var mnemonic = "nerve bridge reward cloth benefit afraid item fitness fold elite payment immense";

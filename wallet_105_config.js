@@ -1,1 +1,1 @@
-var mnemonic = "short rebel attack divorce candy penalty gesture food involve mule mountain various";
+var mnemonic = "cave primary lake local ladder ship segment trust moon ring okay anchor";

@@ -1,1 +1,1 @@
-var mnemonic = "debate submit affair return sound faint distance quit minor void hungry top";
+var mnemonic = "impulse glare chimney first leaf valid input move digital brick harsh evidence";

@@ -1,1 +1,1 @@
-var mnemonic = "radio appear fiber spoon input invest aware talk shell water unhappy resemble";
+var mnemonic = "girl curious silver plunge today casual sister actress pen record gap price";

@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow cheap squeeze horse hint grief pattern purse shine brisk print purpose";
+var mnemonic = "mask daughter design immune upset cinnamon fine unveil heavy cloud document ketchup";

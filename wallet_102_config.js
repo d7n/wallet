@@ -1,1 +1,1 @@
-var mnemonic = "orange where soon sausage joy rebel there coast adapt idea chicken blush";
+var mnemonic = "melody copper lonely sphere pink section obtain require lemon lounge churn rocket";

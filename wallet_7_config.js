@@ -1,1 +1,1 @@
-var mnemonic = "asthma penalty black much home rain own unlock sister unlock pattern capable";
+var mnemonic = "fog wish beef nice common punch sun kiss economy defense fat rent";

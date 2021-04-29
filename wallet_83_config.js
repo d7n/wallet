@@ -1,1 +1,1 @@
-var mnemonic = "credit someone major diagram sorry away carry wing beyond problem horse frog";
+var mnemonic = "sphere income scale marble mind budget effort guilt diagram dust bleak test";

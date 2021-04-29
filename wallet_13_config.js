@@ -1,1 +1,1 @@
-var mnemonic = "combine pupil bulk aisle twice cloth view antenna border glue fish dove";
+var mnemonic = "wagon ice prize utility print credit garlic wood quarter test empower genre";

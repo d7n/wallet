@@ -1,1 +1,1 @@
-var mnemonic = "cube avocado sick quit jelly alone gold figure route tilt isolate blind";
+var mnemonic = "bulk butter any fitness dust music popular episode approve various bounce page";

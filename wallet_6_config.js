@@ -1,1 +1,1 @@
-var mnemonic = "deliver sorry travel kiss breeze demise boy multiply junior narrow weird bar";
+var mnemonic = "snake hammer faculty trip gym leisure faculty also own meadow glory donate";

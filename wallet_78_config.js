@@ -1,1 +1,1 @@
-var mnemonic = "pink room slam crazy injury special yard grass pony stage glow cruel";
+var mnemonic = "never stomach offer afford distance sell skull put road economy cherry legal";

@@ -1,1 +1,1 @@
-var mnemonic = "bitter mystery slender wrong quote try tray mask venture human sister emerge";
+var mnemonic = "rhythm survey box minor garbage essay hospital ramp fix catch fox joke";

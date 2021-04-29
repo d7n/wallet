@@ -1,1 +1,1 @@
-var mnemonic = "scout wagon area human plastic gossip airport firm crane loyal choose rose";
+var mnemonic = "degree addict reform feature fly club strong manage song ketchup option renew";

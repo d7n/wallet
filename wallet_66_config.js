@@ -1,1 +1,1 @@
-var mnemonic = "segment extra inhale mix language culture grace educate switch artefact behave eyebrow";
+var mnemonic = "split myth theory tuna license quarter broom fiscal play garment pulp key";

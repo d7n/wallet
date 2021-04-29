@@ -1,1 +1,1 @@
-var mnemonic = "acquire search universe dove title gun carpet vacant mass demise axis trade";
+var mnemonic = "enact fork century invite thumb choice citizen affair alone deposit fine mosquito";

@@ -1,1 +1,1 @@
-var mnemonic = "code document domain zone cage voyage aim sugar license sound cement burden";
+var mnemonic = "video joke disease mother cereal note merit armor bright bundle conduct chef";

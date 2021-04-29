@@ -1,1 +1,1 @@
-var mnemonic = "cake gap slogan ripple slam depend minor soldier toward fox shy other";
+var mnemonic = "lady cycle okay express dilemma typical slender pledge patch copy first search";

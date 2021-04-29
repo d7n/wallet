@@ -1,1 +1,1 @@
-var mnemonic = "away have own spread culture carry notice medal check weasel barely omit";
+var mnemonic = "dose device debate trigger mirror candy wife decide soccer curve dynamic true";

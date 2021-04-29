@@ -1,1 +1,1 @@
-var mnemonic = "switch grape episode luggage actor stuff bar decline amazing river glass vast";
+var mnemonic = "radio junior swap buzz caution come gorilla worry tornado prevent shock grass";

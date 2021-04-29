@@ -1,1 +1,1 @@
-var mnemonic = "hunt divert motion agent yard melody few swift more video sing girl";
+var mnemonic = "happy gold glide inmate ecology solar immune debate sudden trade beyond boost";

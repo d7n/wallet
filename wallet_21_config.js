@@ -1,1 +1,1 @@
-var mnemonic = "curious peanut cigar excuse tribe drastic thought exercise cause six random endorse";
+var mnemonic = "elder crop solve wife primary dry dove neither knock bulk rapid become";

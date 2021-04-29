@@ -1,1 +1,1 @@
-var mnemonic = "arm inside young tomato pear horse tourist flee soccer glue chunk chicken";
+var mnemonic = "insect camera cigar estate crazy rent comic odor focus about genre brief";

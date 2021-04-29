@@ -1,1 +1,1 @@
-var mnemonic = "food upset identify fine basic fade forest input spider quarter easily angry";
+var mnemonic = "reveal today excuse repair basket mosquito soap daughter water blast buyer manage";

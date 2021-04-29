@@ -1,1 +1,1 @@
-var mnemonic = "art diary limit arena split foam twice swing announce amused become small";
+var mnemonic = "team market piece friend pumpkin begin door dirt honey tiny coffee panther";

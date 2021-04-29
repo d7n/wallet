@@ -1,1 +1,1 @@
-var mnemonic = "drive prefer rotate slight shuffle write common wear certain pumpkin hundred have";
+var mnemonic = "power network hollow point female panel vendor journey perfect village away rigid";

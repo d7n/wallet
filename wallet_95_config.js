@@ -1,1 +1,1 @@
-var mnemonic = "steel snow ski connect lion escape few way stuff during pact sample";
+var mnemonic = "skill produce rail baby above garlic truth addict any illegal hero depth";

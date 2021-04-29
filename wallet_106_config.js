@@ -1,1 +1,1 @@
-var mnemonic = "churn pulp bomb peanut ranch lumber recall topic draft spatial ignore close";
+var mnemonic = "drop promote fade ride fashion stool baby involve need maximum bamboo frown";

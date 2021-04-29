@@ -1,1 +1,1 @@
-var mnemonic = "chimney hip test install frozen worry marriage lady absorb job chest step";
+var mnemonic = "aerobic squeeze daring loud embark wave exhibit perfect chat clean tent call";

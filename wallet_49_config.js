@@ -1,1 +1,1 @@
-var mnemonic = "sorry receive enroll path capital bone canyon atom valid actual need wish";
+var mnemonic = "pride spider protect foster dove join rabbit erase output history simple conduct";

@@ -1,1 +1,1 @@
-var mnemonic = "nuclear video fluid extend tomato rice warm bacon gorilla female velvet acoustic";
+var mnemonic = "move bicycle genuine street planet front picnic hen wife finger burst bamboo";

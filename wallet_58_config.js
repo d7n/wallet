@@ -1,1 +1,1 @@
-var mnemonic = "mouse cactus toward spoon country charge candy flower cruise hollow dry degree";
+var mnemonic = "mirror job soft smooth title exist brick clog bracket bread acoustic reunion";

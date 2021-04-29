@@ -1,1 +1,1 @@
-var mnemonic = "lazy judge outdoor thing play desk abstract you matrix train journey often";
+var mnemonic = "clean cliff robot team final trouble live fatigue logic disagree summer typical";

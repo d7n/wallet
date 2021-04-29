@@ -1,1 +1,1 @@
-var mnemonic = "gift group believe own exercise cube comfort cool woman six coyote feature";
+var mnemonic = "aware tone ten suffer vessel appear cupboard clerk lab title snow husband";

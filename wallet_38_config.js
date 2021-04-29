@@ -1,1 +1,1 @@
-var mnemonic = "lava small camera moon museum hover scene draw wage sport remember gadget";
+var mnemonic = "million merge deposit trophy fit eyebrow brass erosion leg rack dirt lunar";

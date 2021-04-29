@@ -1,1 +1,1 @@
-var mnemonic = "bulk tired heart hire text earn own fence torch meadow over drift";
+var mnemonic = "chicken sell best glide beyond creek region divide decorate high argue fly";

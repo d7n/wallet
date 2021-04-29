@@ -1,1 +1,1 @@
-var mnemonic = "achieve sheriff expire seed critic culture reform rally ice inmate erosion diagram";
+var mnemonic = "sauce joy smart depend protect agree monkey entry spike flame income hazard";

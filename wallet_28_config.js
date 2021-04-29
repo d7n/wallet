@@ -1,1 +1,1 @@
-var mnemonic = "process biology agree dinner vessel hedgehog plunge subject bargain tongue live topple";
+var mnemonic = "river current demise odor unique trick one make trust dune behind collect";

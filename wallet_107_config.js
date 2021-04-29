@@ -1,1 +1,1 @@
-var mnemonic = "around attack bracket magnet bind pelican industry desk tray claw dumb choice";
+var mnemonic = "unlock victory sort creek remove case fury kitten razor praise injury orange";

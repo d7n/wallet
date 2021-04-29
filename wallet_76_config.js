@@ -1,1 +1,1 @@
-var mnemonic = "wash shiver wall light margin arctic extra first laptop interest black diagram";
+var mnemonic = "level silver twist estate identify excess clarify toward lonely web athlete gather";

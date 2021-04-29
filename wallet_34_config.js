@@ -1,1 +1,1 @@
-var mnemonic = "useful entire exile timber ugly broom ketchup move affair object govern pear";
+var mnemonic = "dog crawl captain movie panic elite seven enlist lecture black like hen";

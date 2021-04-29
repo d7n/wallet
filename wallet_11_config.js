@@ -1,1 +1,1 @@
-var mnemonic = "shadow neutral climb ahead dynamic evil talent point sheriff slam predict mad";
+var mnemonic = "shove suspect prosper impose oven amazing almost life mom benefit lend toss";

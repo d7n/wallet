@@ -1,1 +1,1 @@
-var mnemonic = "say dumb auto miss flame need visa steak drink uncle pepper charge";
+var mnemonic = "airport hub envelope mask require life aisle total start venue animal sample";

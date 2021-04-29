@@ -1,1 +1,1 @@
-var mnemonic = "sheriff episode damage phone hurt loud engage danger ethics dirt prosper boost";
+var mnemonic = "shoot nephew myself situate network undo bundle rude dismiss peace hello female";

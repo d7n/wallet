@@ -1,1 +1,1 @@
-var mnemonic = "scissors tennis legal result medal warm armor fabric rack ski laugh elite";
+var mnemonic = "sand bunker shop concert subway cool venue denial sand transfer inmate rural";

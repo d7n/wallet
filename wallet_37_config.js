@@ -1,1 +1,1 @@
-var mnemonic = "mother like dose nest curtain monster stereo deal lottery kitten side caught";
+var mnemonic = "mandate tone degree pond conduct lunch shoot pigeon behind pig good salt";

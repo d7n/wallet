@@ -1,1 +1,1 @@
-var mnemonic = "frost novel now second glow mask liar tube pony expect raven draft";
+var mnemonic = "tent judge friend clever brush bring runway soccer debate infant intact canal";
