@@ -1,1 +1,1 @@
-var mnemonic = "benefit fire detail boil cabin borrow dizzy upgrade grape luxury actual grow";
+var mnemonic = "range saddle nurse sword isolate bless fit castle neglect nasty access dilemma";

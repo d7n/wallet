@@ -1,1 +1,1 @@
-var mnemonic = "genre minute dismiss minor message submit series stadium fame firm view client";
+var mnemonic = "number recall rule potato right canvas cattle habit explain illegal trigger juice";

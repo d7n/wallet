@@ -1,1 +1,1 @@
-var mnemonic = "junk slot airport market gravity coach build fruit kind evoke write erosion";
+var mnemonic = "issue tomorrow oak erase luxury news escape drum monitor area half regret";

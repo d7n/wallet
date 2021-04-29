@@ -1,1 +1,1 @@
-var mnemonic = "female story provide drama mesh acoustic staff coil better hedgehog video material";
+var mnemonic = "mention normal whale tray palace rail learn engine jaguar chase truth announce";

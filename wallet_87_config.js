@@ -1,1 +1,1 @@
-var mnemonic = "lift embark weather behave detect river glance ribbon input aisle proof learn";
+var mnemonic = "sting smile dream legend jump whip pulse utility wild party swarm kiss";

@@ -1,1 +1,1 @@
-var mnemonic = "camp side comfort trouble bronze chuckle gloom trick foam coffee regret recipe";
+var mnemonic = "swallow crumble december shy bottom cricket abstract video leave tonight ginger later";

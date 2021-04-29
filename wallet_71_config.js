@@ -1,1 +1,1 @@
-var mnemonic = "tool boring reason such obscure float total border fatigue index school helmet";
+var mnemonic = "push menu chase have exchange receive inject subject plug minimum general enhance";

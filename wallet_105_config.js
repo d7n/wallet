@@ -1,1 +1,1 @@
-var mnemonic = "uncle any resource retreat crop ask come unable thumb time wrong seek";
+var mnemonic = "crash spin cheese barely tree mirror turn cave evil type perfect rice";

@@ -1,1 +1,1 @@
-var mnemonic = "logic sweet option aerobic depart tortoise initial cat same quick review crazy";
+var mnemonic = "hammer lemon field service dust worth tail urban use rely detect ordinary";

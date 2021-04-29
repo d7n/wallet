@@ -1,1 +1,1 @@
-var mnemonic = "oil social pottery captain chest knife cart crash hammer gossip banana venue";
+var mnemonic = "blame option flag immense where sister snap expect injury educate gap across";

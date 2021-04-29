@@ -1,1 +1,1 @@
-var mnemonic = "knee verb record satisfy promote bundle live april broken loan blame retire";
+var mnemonic = "assume system odor siege coin lottery fantasy crane couple live whale typical";

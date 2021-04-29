@@ -1,1 +1,1 @@
-var mnemonic = "abstract few rookie amount chase wave hat ripple repair cushion recipe enable";
+var mnemonic = "inherit sign almost spend fiction grit demand exhibit hero acquire orbit script";

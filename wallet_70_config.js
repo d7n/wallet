@@ -1,1 +1,1 @@
-var mnemonic = "fan junior radio vintage news caught cluster sting drum basket mobile holiday";
+var mnemonic = "six mirror ahead pyramid spare illegal sister room lunch damage blur repair";

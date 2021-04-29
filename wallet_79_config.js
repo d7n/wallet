@@ -1,1 +1,1 @@
-var mnemonic = "result mechanic stool correct hobby safe tragic mistake find reject sea below";
+var mnemonic = "answer resemble copy recycle file divert essay fantasy clap circle advice lamp";

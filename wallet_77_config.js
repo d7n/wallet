@@ -1,1 +1,1 @@
-var mnemonic = "chaos hungry loan special clog hour verb attitude topic jeans giraffe print";
+var mnemonic = "forward coffee hedgehog fortune impulse river identify animal wink frog lady ability";

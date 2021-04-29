@@ -1,1 +1,1 @@
-var mnemonic = "ordinary weather loan frequent alarm trim rib crack ketchup unveil easy meat";
+var mnemonic = "select caution cram casual fitness theme dress hazard divorce able label tent";

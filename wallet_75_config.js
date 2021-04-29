@@ -1,1 +1,1 @@
-var mnemonic = "trigger body census slice neither flat amused mail swim choice view motion";
+var mnemonic = "wool cupboard smart spare bike grief ritual person wave cloud wine shrug";

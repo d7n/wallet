@@ -1,1 +1,1 @@
-var mnemonic = "vast smart desk buddy machine vintage safe olympic exhibit talent nation ugly";
+var mnemonic = "cry select horror broken dragon antique target crisp season wall feel diagram";

@@ -1,1 +1,1 @@
-var mnemonic = "speed amount glue february tragic dinner universe answer stage skill include egg";
+var mnemonic = "income axis only abuse announce tourist luggage urge stairs vendor stadium private";

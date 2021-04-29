@@ -1,1 +1,1 @@
-var mnemonic = "abuse arrest album short ring toy hundred erosion sand inch wagon winner";
+var mnemonic = "filter puppy medal debate under fiction ordinary this jacket elbow apology device";

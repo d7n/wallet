@@ -1,1 +1,1 @@
-var mnemonic = "popular sense soccer answer immense indoor fluid master void list glow stock";
+var mnemonic = "capable tackle safe sign try beach flash ignore clump fun fragile trigger";

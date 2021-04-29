@@ -1,1 +1,1 @@
-var mnemonic = "mad endorse weasel size solution game pig staff stumble proof video spoil";
+var mnemonic = "young jewel hold universe idea health mammal reopen crew short frost clean";

@@ -1,1 +1,1 @@
-var mnemonic = "column borrow wine catch there sign prevent moon belt artwork flush gain";
+var mnemonic = "year under modify flush charge ridge dinosaur option race obey popular excess";

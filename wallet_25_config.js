@@ -1,1 +1,1 @@
-var mnemonic = "uncover scheme know transfer report swap ivory dynamic magnet beef piano coast";
+var mnemonic = "eyebrow solve lion swarm apology catalog flower flag crash master kitten sustain";

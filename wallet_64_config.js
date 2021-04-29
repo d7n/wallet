@@ -1,1 +1,1 @@
-var mnemonic = "girl coin calm comic inflict foster develop library access vapor rack keen";
+var mnemonic = "auction once blur square drama notable cousin proof clever crater recycle dilemma";

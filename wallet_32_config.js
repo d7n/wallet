@@ -1,1 +1,1 @@
-var mnemonic = "forum brown convince hobby dress depart deny speak good best shaft salt";
+var mnemonic = "scrap pencil cradle dignity elbow marine pencil legal surface kind pudding swamp";

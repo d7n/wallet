@@ -1,1 +1,1 @@
-var mnemonic = "mystery raise drama fire ring execute laptop melt crawl cereal announce decline";
+var mnemonic = "lucky dynamic circle capable mercy recall monster height access milk unit river";

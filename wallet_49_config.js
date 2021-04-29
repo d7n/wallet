@@ -1,1 +1,1 @@
-var mnemonic = "enact journey antenna horse solution six castle august alarm picture swim garment";
+var mnemonic = "security trim foam fiscal plunge sphere frequent hope grape utility enact hire";

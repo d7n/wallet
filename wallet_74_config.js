@@ -1,1 +1,1 @@
-var mnemonic = "melt wrong anchor valley later puppy essence slot kiwi guilt impose antique";
+var mnemonic = "ceiling wild grant truly pumpkin scale like boy search engine funny true";

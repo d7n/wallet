@@ -1,1 +1,1 @@
-var mnemonic = "cliff face original below typical decorate orphan enter gadget enjoy length grace";
+var mnemonic = "version grass original melody crater hub swim scheme sick air grass verify";

@@ -1,1 +1,1 @@
-var mnemonic = "program winter enforce matrix belt share protect teach used lecture cabin pause";
+var mnemonic = "hub tide candy adapt fuel kangaroo staff capital feed inmate camera gym";

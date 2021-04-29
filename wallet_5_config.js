@@ -1,1 +1,1 @@
-var mnemonic = "bus inmate room labor save pledge antenna world drama cabin eager describe";
+var mnemonic = "deputy knock code involve unlock want device body fetch achieve alley once";

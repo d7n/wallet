@@ -1,1 +1,1 @@
-var mnemonic = "special rural trust sister excess soda success average arrest velvet bleak warrior";
+var mnemonic = "grit gossip reflect typical squeeze magic long salon tent wool must burden";

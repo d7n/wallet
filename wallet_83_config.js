@@ -1,1 +1,1 @@
-var mnemonic = "depend end future angle tomato begin prize material solid series nuclear fish";
+var mnemonic = "aspect dust sustain certain canoe play gold build dove minute method kiss";

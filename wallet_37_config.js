@@ -1,1 +1,1 @@
-var mnemonic = "jealous hard advice cheese march picnic thank rival filter road benefit mammal";
+var mnemonic = "eye worry insane traffic vital faint palm hockey boost hour famous salad";

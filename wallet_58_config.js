@@ -1,1 +1,1 @@
-var mnemonic = "coconut pilot paper mirror company neck junior remain kit cancel student mobile";
+var mnemonic = "hood say sort glad purpose eagle sail absorb spawn maximum wide joke";

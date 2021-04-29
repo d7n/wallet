@@ -1,1 +1,1 @@
-var mnemonic = "admit shoulder bright actor noble valve must fancy stool ticket public rally";
+var mnemonic = "celery foam foil front enemy february alone omit rather evil frost phone";

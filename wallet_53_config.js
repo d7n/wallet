@@ -1,1 +1,1 @@
-var mnemonic = "north keep lyrics engage ready insect question wealth confirm run learn possible";
+var mnemonic = "offer cushion repeat return dinner kitchen visit govern movie answer base weekend";

@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon song pair session adult travel trap alert rice blur acquire typical";
+var mnemonic = "pyramid art unable fashion twenty foil venue found gasp major neutral virtual";

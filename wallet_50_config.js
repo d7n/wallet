@@ -1,1 +1,1 @@
-var mnemonic = "dash city game square pyramid federal border dentist bag duck cactus basket";
+var mnemonic = "filter crucial master luxury display mansion detect armor outside labor bleak limb";

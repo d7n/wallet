@@ -1,1 +1,1 @@
-var mnemonic = "pulse idea remain about zone link actual evoke gather survey photo party";
+var mnemonic = "smart admit balcony correct thing diamond six kind subway outdoor picture come";

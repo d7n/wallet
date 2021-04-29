@@ -1,1 +1,1 @@
-var mnemonic = "control skull crunch supreme bargain win guess despair vital junior asset travel";
+var mnemonic = "loop crack false often law uphold link melody author jewel sing jar";

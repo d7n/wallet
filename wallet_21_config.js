@@ -1,1 +1,1 @@
-var mnemonic = "mystery fly pear bomb aware struggle chalk unhappy goddess december steel genre";
+var mnemonic = "super feature history crush test rule thank unlock beyond delay ozone saddle";

@@ -1,1 +1,1 @@
-var mnemonic = "custom flag shoe question waste subway shrimp keen budget sock oil dose";
+var mnemonic = "candy seek swim garage clown admit bulk wave pepper dad finish strategy";

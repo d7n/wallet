@@ -1,1 +1,1 @@
-var mnemonic = "guard armor inject able aisle cage arrow dignity rebel empty balance lake";
+var mnemonic = "mesh lucky account axis street question museum kite airport repair jelly reopen";

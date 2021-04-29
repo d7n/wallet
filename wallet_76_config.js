@@ -1,1 +1,1 @@
-var mnemonic = "panda heavy rebel actress laundry warm sunset canal release frown jump name";
+var mnemonic = "brisk honey post bring winter library inhale sort beach sick good digital";

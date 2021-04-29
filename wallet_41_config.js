@@ -1,1 +1,1 @@
-var mnemonic = "accuse uncle wife quiz unknown truly kitten dragon wear travel dolphin mystery";
+var mnemonic = "elegant shine trick sadness input indicate appear pulp emerge tumble hobby attract";

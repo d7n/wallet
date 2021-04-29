@@ -1,1 +1,1 @@
-var mnemonic = "address disorder lunar leader joy water beyond chronic intact media always world";
+var mnemonic = "leave quality predict wet useful churn maid total wire merge stadium leaf";

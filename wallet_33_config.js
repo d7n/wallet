@@ -1,1 +1,1 @@
-var mnemonic = "damp modify crane under fix pill room siege equip snap cattle crouch";
+var mnemonic = "envelope sunny item box club body category judge next badge hawk double";

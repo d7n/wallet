@@ -1,1 +1,1 @@
-var mnemonic = "mouse derive small quiz inhale wrestle vivid test sun atom produce orient";
+var mnemonic = "boat reform blame text park coffee pear flag drink grunt magnet world";

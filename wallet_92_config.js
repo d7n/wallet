@@ -1,1 +1,1 @@
-var mnemonic = "weather dust uniform energy alley tent wide deal tissue wrong tattoo merry";
+var mnemonic = "dance certain curve behind early knee august volume expand vehicle clean empty";

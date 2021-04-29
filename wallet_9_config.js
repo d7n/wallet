@@ -1,1 +1,1 @@
-var mnemonic = "ability primary dinner more much interest cat cupboard utility size mammal dizzy";
+var mnemonic = "biology basket welcome thunder detail resemble trouble virus random truck bargain three";

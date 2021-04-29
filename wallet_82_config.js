@@ -1,1 +1,1 @@
-var mnemonic = "jeans pet dove stereo happy because banana razor quit theory sick comfort";
+var mnemonic = "defy soul soldier jar blast prosper ghost glad movie truly flush useful";

@@ -1,1 +1,1 @@
-var mnemonic = "drum miss private brief crucial able wear buyer spell bitter arrange enemy";
+var mnemonic = "shaft rent crater leave clean crime document music scan wagon speak buffalo";

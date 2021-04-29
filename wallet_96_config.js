@@ -1,1 +1,1 @@
-var mnemonic = "okay mother solid outside firm legal initial garden captain off where session";
+var mnemonic = "prepare kitchen shield input wrist since weird sell label elder network hour";

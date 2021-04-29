@@ -1,1 +1,1 @@
-var mnemonic = "humble salmon load rude prefer immense tuna road client hollow butter jump";
+var mnemonic = "praise neglect comfort chat kitchen spray link assault skull camp hidden scene";

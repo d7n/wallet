@@ -1,1 +1,1 @@
-var mnemonic = "laptop six muffin flag explain stock truly spell pipe silver leisure lucky";
+var mnemonic = "eager below lecture romance mandate average guard drama sister detail stock six";

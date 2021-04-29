@@ -1,1 +1,1 @@
-var mnemonic = "stairs child frost peasant delay axis cost enough hedgehog ostrich genre answer";
+var mnemonic = "dune series scorpion brush slogan betray elite whip carry love inform squirrel";

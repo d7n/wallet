@@ -1,1 +1,1 @@
-var mnemonic = "borrow evil middle deny mushroom portion strategy announce giant river admit swallow";
+var mnemonic = "seat today cousin effort blur gather pumpkin rose trip swing sample oval";

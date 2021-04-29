@@ -1,1 +1,1 @@
-var mnemonic = "rate riot summer alert skull notable obey describe brisk arctic latin frozen";
+var mnemonic = "inform inch orbit street whisper pass various old slim access rally elbow";

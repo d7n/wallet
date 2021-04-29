@@ -1,1 +1,1 @@
-var mnemonic = "valley walk region lecture dragon grunt art fantasy divorce release audit skull";
+var mnemonic = "dust snow bright crowd wave coach maze elephant just degree person doctor";

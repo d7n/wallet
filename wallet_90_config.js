@@ -1,1 +1,1 @@
-var mnemonic = "admit kangaroo begin gallery seat click impose spoon verify decide just elevator";
+var mnemonic = "bag frozen bachelor defy test dust consider blood employ eager choice slice";

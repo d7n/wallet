@@ -1,1 +1,1 @@
-var mnemonic = "city duck frog cheese detail sauce sick gun echo scorpion dignity doctor";
+var mnemonic = "act pet slam garment awful patrol shuffle tired accuse crash allow ethics";

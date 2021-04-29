@@ -1,1 +1,1 @@
-var mnemonic = "extend burst loop silk unusual belt leisure private weekend bonus happy bleak";
+var mnemonic = "smart stairs extend cart adapt black obscure chapter derive can drill thunder";

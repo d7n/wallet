@@ -1,1 +1,1 @@
-var mnemonic = "awful talk absent arrow little chalk cloth crater please animal summer behind";
+var mnemonic = "rubber squirrel skull during zone drill robot pioneer certain evolve member mad";

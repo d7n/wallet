@@ -1,1 +1,1 @@
-var mnemonic = "blossom surprise destroy bundle feature lesson boring vapor eternal alcohol reopen repair";
+var mnemonic = "grass super century fine feature resist woman silent father will glide aware";

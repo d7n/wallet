@@ -1,1 +1,1 @@
-var mnemonic = "walnut area estate frequent alien demand animal donor legal surround kangaroo oxygen";
+var mnemonic = "sick lumber drift impose sample setup lobster start switch lift leaf among";

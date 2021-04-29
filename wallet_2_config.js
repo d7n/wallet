@@ -1,1 +1,1 @@
-var mnemonic = "theory ivory elegant afraid leg master all run pigeon exact adult tenant";
+var mnemonic = "chimney illness depth sound blade shaft glow initial wisdom vague country always";

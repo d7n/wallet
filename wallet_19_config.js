@@ -1,1 +1,1 @@
-var mnemonic = "toast advice pudding pyramid collect various elevator chase evil grab sunset rose";
+var mnemonic = "ensure dose repair woman spin siege buddy record smile rose cancel prison";

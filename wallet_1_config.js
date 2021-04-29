@@ -1,1 +1,1 @@
-var mnemonic = "source situate dilemma alone fat fury security bamboo toss wasp auto huge";
+var mnemonic = "ugly fiction vast depend cotton salon forest victory decade gospel female edge";

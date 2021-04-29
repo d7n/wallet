@@ -1,1 +1,1 @@
-var mnemonic = "detect school smile physical rail measure giant athlete oak wine space genius";
+var mnemonic = "hamster impose sock cake toe ribbon good flat drastic episode divert source";

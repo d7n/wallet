@@ -1,1 +1,1 @@
-var mnemonic = "office gaze casual artefact human powder coffee voice diet pledge relax cereal";
+var mnemonic = "twelve other coast echo frog stock inject boost rent myth scan half";

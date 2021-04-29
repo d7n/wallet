@@ -1,1 +1,1 @@
-var mnemonic = "skill suffer protect husband poverty donate lion system tenant forest mango mobile";
+var mnemonic = "rigid smart today rescue image task ahead guide photo dilemma ethics system";

@@ -1,1 +1,1 @@
-var mnemonic = "brisk level boss glance awesome census often record clutch vibrant inflict absent";
+var mnemonic = "bright job air size hawk ordinary clock cupboard viable excess jungle depth";

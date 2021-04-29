@@ -1,1 +1,1 @@
-var mnemonic = "cash brush silk student south beauty age forest glance issue fever violin";
+var mnemonic = "service afraid ready lecture approve easy measure pitch moment woman zero chronic";

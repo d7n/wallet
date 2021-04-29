@@ -1,1 +1,1 @@
-var mnemonic = "glad coffee autumn husband ticket guide enrich castle strong depend fashion cook";
+var mnemonic = "math glue bleak frown dutch diary stick abandon jaguar song mosquito lift";

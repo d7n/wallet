@@ -1,1 +1,1 @@
-var mnemonic = "speak top audit disease message situate provide royal review genre wasp twice";
+var mnemonic = "roast turtle ship olympic also federal tool there uncover phrase observe coil";

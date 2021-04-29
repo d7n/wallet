@@ -1,1 +1,1 @@
-var mnemonic = "dry chalk step hidden dismiss scrap tell cram equip train disagree rocket";
+var mnemonic = "hawk fluid sunny patrol refuse sustain spoil bless cook hire total mango";

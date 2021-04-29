@@ -1,1 +1,1 @@
-var mnemonic = "average two fly fancy identify unusual fiction model cloud frame feed sauce";
+var mnemonic = "clown oval chat eternal gospel genre tag exhibit strike invest seven sphere";

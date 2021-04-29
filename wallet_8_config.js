@@ -1,1 +1,1 @@
-var mnemonic = "truth force search input liar parade deliver digital impose tennis object fetch";
+var mnemonic = "valve brave direct cause gallery document decorate catch bone avoid latin unhappy";

@@ -1,1 +1,1 @@
-var mnemonic = "dwarf message young wink group east steel ticket useful hidden asset bulk";
+var mnemonic = "attend primary review mountain caught fat angle art hover royal suggest harvest";

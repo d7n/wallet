@@ -1,1 +1,1 @@
-var mnemonic = "normal also tide blind unfold always already cute renew tip family wall";
+var mnemonic = "limb sudden rare actress ivory exhibit mom clock mule giraffe lawsuit buffalo";

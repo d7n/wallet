@@ -1,1 +1,1 @@
-var mnemonic = "sugar viable acid rather alcohol direct blue front say actual abuse color";
+var mnemonic = "corn buyer also that double zone divert extend token gate wire shiver";

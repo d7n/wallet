@@ -1,1 +1,1 @@
-var mnemonic = "hole unhappy spring slow box crawl snap organ poverty lecture tower dynamic";
+var mnemonic = "copper tired picture catch artefact symbol scatter machine pledge random play layer";

@@ -1,1 +1,1 @@
-var mnemonic = "cat control parrot region lounge father worth task public board describe royal";
+var mnemonic = "suit clap must fitness silver sustain shell jacket ritual tackle open fashion";

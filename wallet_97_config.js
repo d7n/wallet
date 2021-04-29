@@ -1,1 +1,1 @@
-var mnemonic = "save cup sheriff reopen wash rare kite race concert essay damp hockey";
+var mnemonic = "danger chaos elegant cross fury tilt ritual apple already region feed furnace";

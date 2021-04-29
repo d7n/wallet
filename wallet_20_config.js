@@ -1,1 +1,1 @@
-var mnemonic = "lobster pave suit position able avoid box ethics clown model tide drama";
+var mnemonic = "nothing smile forum jelly fiscal health guard fox love flush fiction aerobic";

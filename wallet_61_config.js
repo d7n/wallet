@@ -1,1 +1,1 @@
-var mnemonic = "pretty absorb trash report velvet vicious maple brown release chest disease wing";
+var mnemonic = "engine square fatigue meat embark nasty virtual yellow salt ready glue rhythm";

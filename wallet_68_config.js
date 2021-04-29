@@ -1,1 +1,1 @@
-var mnemonic = "cash desert rival invest quantum gallery fossil boil stomach west fancy way";
+var mnemonic = "scrap loyal dance attack pitch pulse parrot stable pride sting fall truth";
