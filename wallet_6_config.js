@@ -1,1 +1,1 @@
-var mnemonic = "forward problem holiday shop adult endorse vacant awful animal describe monitor topple";
+var mnemonic = "survey ridge sort poverty term odor dog artist throw crime reveal iron";

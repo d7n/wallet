@@ -1,1 +1,1 @@
-var mnemonic = "kidney scheme text ice hero virus yard anger trial dust slam buyer";
+var mnemonic = "future defense lock speed strong comic amount police noble wool black club";

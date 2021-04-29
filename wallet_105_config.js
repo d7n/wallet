@@ -1,1 +1,1 @@
-var mnemonic = "genre since join stamp indicate school inflict field hedgehog click acquire lesson";
+var mnemonic = "guitar lemon truth eternal girl describe hat fashion drum pony bicycle private";

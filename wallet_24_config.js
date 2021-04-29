@@ -1,1 +1,1 @@
-var mnemonic = "half lazy siege gap core there catch fancy youth aim vital imitate";
+var mnemonic = "resemble wise vast critic boring toward patient shield tape subway slim pupil";

@@ -1,1 +1,1 @@
-var mnemonic = "endorse wave spot orange minor crucial hole fitness teach gesture crystal convince";
+var mnemonic = "mobile eyebrow return skate perfect carpet equip test manage fork hard candy";

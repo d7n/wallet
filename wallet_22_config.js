@@ -1,1 +1,1 @@
-var mnemonic = "chunk drill insect advice topic own sister music purse smile cause nice";
+var mnemonic = "prison figure foam frequent result silk clump clown tenant peanut one crunch";

@@ -1,1 +1,1 @@
-var mnemonic = "gift picnic region food ugly earn couple volume agent enjoy they potato";
+var mnemonic = "escape cannon private find mirror negative afford across useless canvas someone human";

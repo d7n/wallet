@@ -1,1 +1,1 @@
-var mnemonic = "game hobby mail sign point cloud vocal cage tackle breeze copy slot";
+var mnemonic = "all enhance actor utility guess curve flower demand shoe swim weasel friend";

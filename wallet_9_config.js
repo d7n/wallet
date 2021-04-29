@@ -1,1 +1,1 @@
-var mnemonic = "twelve rifle before puppy crystal sight worry grief ozone sunny alarm filter";
+var mnemonic = "play tackle rhythm pyramid buzz recall dawn embrace december promote keen give";

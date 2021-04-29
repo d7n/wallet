@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo van insane chalk scrap welcome expand own fashion rose embark village";
+var mnemonic = "scan wall short jaguar glue farm mechanic base shoulder lazy kiss vendor";

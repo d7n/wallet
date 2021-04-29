@@ -1,1 +1,1 @@
-var mnemonic = "course nose oyster artwork inmate now wealth novel melody boat silver asset";
+var mnemonic = "liar again hurry document horror void butter spare cake unhappy coin timber";

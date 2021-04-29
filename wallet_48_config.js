@@ -1,1 +1,1 @@
-var mnemonic = "remind bridge weather medal concert load custom slide retreat submit isolate edit";
+var mnemonic = "genuine note soldier wisdom earn anchor pretty deliver tone mad ahead decade";

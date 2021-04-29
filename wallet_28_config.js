@@ -1,1 +1,1 @@
-var mnemonic = "allow park venue coral trick awkward detect vendor travel giant aspect galaxy";
+var mnemonic = "minute cycle laptop list blood meat flee kick need home knee glare";

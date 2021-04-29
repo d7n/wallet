@@ -1,1 +1,1 @@
-var mnemonic = "autumn tornado never horse dash husband purity stone refuse wink skirt burst";
+var mnemonic = "mandate hint lift grant keen hawk vault winter push spoon model defy";

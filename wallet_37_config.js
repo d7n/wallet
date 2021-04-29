@@ -1,1 +1,1 @@
-var mnemonic = "always lens income negative attend hidden educate century weekend coffee spot apart";
+var mnemonic = "old nut square file earth able olive rural latin rich brown near";

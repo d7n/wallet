@@ -1,1 +1,1 @@
-var mnemonic = "color palace clown winter hospital world team adapt cannon borrow ocean hawk";
+var mnemonic = "exhibit dwarf subject effort wage retreat wolf win flash exit lawn ripple";

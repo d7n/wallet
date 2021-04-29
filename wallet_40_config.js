@@ -1,1 +1,1 @@
-var mnemonic = "electric case elephant grass virtual rifle skirt elevator mail priority mercy reward";
+var mnemonic = "bunker flush mule save powder rule hello devote lesson grow banana fame";

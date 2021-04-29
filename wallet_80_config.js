@@ -1,1 +1,1 @@
-var mnemonic = "clever civil grape fall alarm bulk little apology devote garbage gorilla arch";
+var mnemonic = "curve cupboard odor radio pigeon hub change scorpion frozen unfold stay green";

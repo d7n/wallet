@@ -1,1 +1,1 @@
-var mnemonic = "hill subway style space poem gift list front rib song aisle area";
+var mnemonic = "heart stairs unit coast that settle drill hour over stuff affair reunion";

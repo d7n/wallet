@@ -1,1 +1,1 @@
-var mnemonic = "lumber load mind popular island coast message curious knife pony exit trigger";
+var mnemonic = "head collect blush capable trash chef aerobic vintage topic what sport exotic";

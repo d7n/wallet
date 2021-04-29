@@ -1,1 +1,1 @@
-var mnemonic = "marriage exhibit senior choose similar merge winter decade kiwi scrap duck depth";
+var mnemonic = "shadow dignity park street they pizza unit estate ethics leg error hazard";

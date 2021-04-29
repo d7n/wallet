@@ -1,1 +1,1 @@
-var mnemonic = "action suit dismiss club tide giant metal faith illness used swarm deliver";
+var mnemonic = "immense moral clap winner panic side there genre birth sadness chaos oxygen";

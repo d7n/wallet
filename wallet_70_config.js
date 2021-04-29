@@ -1,1 +1,1 @@
-var mnemonic = "deliver ordinary move behave coil dream clay bachelor cry link odor bar";
+var mnemonic = "sense stand flag prevent senior naive limb audit deposit bench service swing";

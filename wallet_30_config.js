@@ -1,1 +1,1 @@
-var mnemonic = "capital energy energy offer right spike mandate diesel fat sphere syrup correct";
+var mnemonic = "dream surprise opera material tiny wall tape narrow sign grit ivory before";

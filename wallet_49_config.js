@@ -1,1 +1,1 @@
-var mnemonic = "truth rough pink nose candy media frog wide scissors nest used client";
+var mnemonic = "renew response bridge tape fuel walnut cause surprise holiday torch million shaft";

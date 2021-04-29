@@ -1,1 +1,1 @@
-var mnemonic = "athlete seminar clip dirt citizen autumn drastic stand six immense message brick";
+var mnemonic = "wire autumn random alley tissue wait cliff vacuum favorite drive worry trouble";

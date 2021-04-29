@@ -1,1 +1,1 @@
-var mnemonic = "pass bench such immune video puppy sound oblige below giraffe snap ordinary";
+var mnemonic = "proud fantasy top flush enroll balcony view core repeat body wish strong";

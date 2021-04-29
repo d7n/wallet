@@ -1,1 +1,1 @@
-var mnemonic = "fog toddler rack enact hurry write cake six priority peace beef coral";
+var mnemonic = "prosper dust exist craft resist energy crowd toward van logic soon riot";

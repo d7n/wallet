@@ -1,1 +1,1 @@
-var mnemonic = "dune scan evidence admit wool man copper bargain enough narrow demise slim";
+var mnemonic = "split dial mesh embrace leisure south oyster follow coconut praise indoor jelly";

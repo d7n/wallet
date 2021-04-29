@@ -1,1 +1,1 @@
-var mnemonic = "riot slush assault narrow gorilla mobile razor exact gospel step blade club";
+var mnemonic = "priority oak shiver endless paper casino sport seven fiction cloth lyrics alley";

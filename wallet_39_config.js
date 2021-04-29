@@ -1,1 +1,1 @@
-var mnemonic = "useful decorate knife pause club envelope length version sport wolf conduct cargo";
+var mnemonic = "tragic tuna spoon dry regret lawn canyon physical protect dinner escape tag";

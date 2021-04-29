@@ -1,1 +1,1 @@
-var mnemonic = "ivory island drink auction pig world success clown move senior door holiday";
+var mnemonic = "major credit fish nephew search odor satisfy maze planet balance banner rack";

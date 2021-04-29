@@ -1,1 +1,1 @@
-var mnemonic = "hip trust poverty mango leopard door glow census barely test cloud crack";
+var mnemonic = "whale tray rely vocal abstract vote gorilla satoshi kidney satoshi almost tip";

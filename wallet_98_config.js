@@ -1,1 +1,1 @@
-var mnemonic = "fly lend pass exile furnace crystal absurd place spot amazing fatigue century";
+var mnemonic = "unknown garment maid truly budget victory random rubber success write mention assist";

@@ -1,1 +1,1 @@
-var mnemonic = "canyon very sunny three brisk marriage pudding mesh wash bundle swing economy";
+var mnemonic = "flat banana twelve antique tired buddy sword sponsor laundry you stay dash";

@@ -1,1 +1,1 @@
-var mnemonic = "common find ethics furnace initial away confirm rich horror gun coin pipe";
+var mnemonic = "fade vacant tuna shoot civil canyon option torch frown soda buzz phone";

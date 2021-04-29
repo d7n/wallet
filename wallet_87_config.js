@@ -1,1 +1,1 @@
-var mnemonic = "awesome park people supreme next tribe sustain know like runway increase mind";
+var mnemonic = "element become viable language shiver assault okay lake amazing hour demise gate";

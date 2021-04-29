@@ -1,1 +1,1 @@
-var mnemonic = "bubble upper hurry diagram daring world unfair mind best devote trial wait";
+var mnemonic = "desk file oak diet piece october curve hollow answer sphere fatigue defy";

@@ -1,1 +1,1 @@
-var mnemonic = "excess opera display deputy gadget beef goose twice stage festival relief outer";
+var mnemonic = "black educate describe corn above blue wrong curve figure include level more";

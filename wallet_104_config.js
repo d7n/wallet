@@ -1,1 +1,1 @@
-var mnemonic = "wide smart seed bench coin paper limit approve since element bomb glue";
+var mnemonic = "hat mandate lens review wing coast entire note utility oyster brass spider";

@@ -1,1 +1,1 @@
-var mnemonic = "soon slogan avoid apology floor faint oyster slight draft menu gorilla soon";
+var mnemonic = "drum table this public jaguar layer amount sick afford check admit gown";

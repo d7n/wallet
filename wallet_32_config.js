@@ -1,1 +1,1 @@
-var mnemonic = "unaware hobby acid dash green gadget inmate across hawk proud follow elbow";
+var mnemonic = "mandate robot negative dice easy card pen behind future essay physical wave";

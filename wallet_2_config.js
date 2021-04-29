@@ -1,1 +1,1 @@
-var mnemonic = "coyote weekend clay bubble grief song woman bless legend tell length weather";
+var mnemonic = "chase hobby brother kite pitch puzzle few matrix south rifle capital heavy";

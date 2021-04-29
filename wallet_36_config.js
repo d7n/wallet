@@ -1,1 +1,1 @@
-var mnemonic = "visual wedding sponsor margin deny label drip alcohol true bamboo antique sponsor";
+var mnemonic = "match ugly squirrel region salmon arctic infant dolphin blanket rain surface like";

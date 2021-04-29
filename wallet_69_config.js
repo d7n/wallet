@@ -1,1 +1,1 @@
-var mnemonic = "planet away exist forward divert impact exit gravity oppose ankle aisle slight";
+var mnemonic = "entry pause inmate blossom ozone milk umbrella tank wedding civil morning alpha";

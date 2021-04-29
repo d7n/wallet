@@ -1,1 +1,1 @@
-var mnemonic = "valve smile pizza rookie urban caught gun afraid deny burger inject earn";
+var mnemonic = "trumpet unhappy coconut judge sample soldier rival hurt lake foster glimpse story";

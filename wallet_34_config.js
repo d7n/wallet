@@ -1,1 +1,1 @@
-var mnemonic = "win combine bounce laugh reform slam pudding initial taxi horse pistol invite";
+var mnemonic = "during room truly term innocent repair gossip elephant find reject pet phrase";

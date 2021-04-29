@@ -1,1 +1,1 @@
-var mnemonic = "funny boring equip answer million pond spray knock scale wife surge monkey";
+var mnemonic = "audit example today split sadness pigeon harvest gasp giraffe glass side you";

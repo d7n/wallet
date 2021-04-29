@@ -1,1 +1,1 @@
-var mnemonic = "drift flock company find regret sail panic similar minor law quality fetch";
+var mnemonic = "reward hundred fabric amazing leisure ready way slow garlic absorb dutch sugar";

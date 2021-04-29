@@ -1,1 +1,1 @@
-var mnemonic = "nephew glow noise kangaroo nature planet torch cat clarify tennis board total";
+var mnemonic = "liberty shop wise language anchor police yellow work state brown quiz aisle";

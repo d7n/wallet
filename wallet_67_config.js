@@ -1,1 +1,1 @@
-var mnemonic = "toward baby wise soon author choice reflect timber term hurt emotion hip";
+var mnemonic = "nation magnet execute dolphin assist window lesson pull silk raw thumb quick";

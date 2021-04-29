@@ -1,1 +1,1 @@
-var mnemonic = "sleep cream chimney upgrade echo future yellow pond amazing arrange suffer chuckle";
+var mnemonic = "style afford reason tomorrow sport junior card glide bottom disagree decorate purpose";

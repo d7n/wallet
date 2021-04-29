@@ -1,1 +1,1 @@
-var mnemonic = "they post basic parent flash change tool bounce under process next globe";
+var mnemonic = "laundry tiny list prize air utility pony panda guess steak edge okay";

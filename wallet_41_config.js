@@ -1,1 +1,1 @@
-var mnemonic = "cattle table regret news distance pupil cement upset grunt enter pledge dad";
+var mnemonic = "fiscal bright menu chat shoe mirror embody leisure mistake lab alcohol great";

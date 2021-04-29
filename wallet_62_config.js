@@ -1,1 +1,1 @@
-var mnemonic = "ankle merit call industry planet panther minimum vendor palace dice wink cover";
+var mnemonic = "hill pill choose thumb report badge lounge time ladder actual copper dinosaur";

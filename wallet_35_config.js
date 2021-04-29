@@ -1,1 +1,1 @@
-var mnemonic = "drastic brass now one raccoon method alone middle year sentence calm chunk";
+var mnemonic = "scheme reform spatial adjust trade silent oil swallow release rather amazing educate";

@@ -1,1 +1,1 @@
-var mnemonic = "roof ecology brave strike one bird amateur awkward merge anchor access glad";
+var mnemonic = "injury bread enable finish result keep grain lyrics divorce polar symptom grace";

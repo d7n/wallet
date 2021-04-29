@@ -1,1 +1,1 @@
-var mnemonic = "drum grab blood time lava blade decide rebuild prosper hood season input";
+var mnemonic = "strategy hurdle hello border child seven april acquire dove balance fashion garden";

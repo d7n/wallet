@@ -1,1 +1,1 @@
-var mnemonic = "bomb bleak thunder cheese state myth glad vibrant online where milk favorite";
+var mnemonic = "orchard fee breeze love skull daring pupil relax auction grief people fashion";

@@ -1,1 +1,1 @@
-var mnemonic = "toss crystal learn call clog lock mass talent sport taste note struggle";
+var mnemonic = "december concert piano fantasy switch depth pig laptop hint gasp spin choice";

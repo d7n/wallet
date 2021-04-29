@@ -1,1 +1,1 @@
-var mnemonic = "loyal paper universe east argue evidence indoor direct loyal license myself huge";
+var mnemonic = "snake you huge budget minor hunt claim glow vendor assume argue tragic";

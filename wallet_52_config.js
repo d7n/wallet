@@ -1,1 +1,1 @@
-var mnemonic = "gown nurse oblige collect basket connect ethics sport invite visit priority over";
+var mnemonic = "sister come boil pause violin spirit teach uphold episode obvious sight cable";

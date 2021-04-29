@@ -1,1 +1,1 @@
-var mnemonic = "high icon dry tent foam renew glimpse notice pond again demand bundle";
+var mnemonic = "cart ketchup swamp rice detail napkin view next toe stumble wreck picnic";

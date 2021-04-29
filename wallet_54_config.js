@@ -1,1 +1,1 @@
-var mnemonic = "approve file grit chronic aisle human kidney business puppy bench earn carpet";
+var mnemonic = "verb address they change mention ecology palace benefit diamond false birth oyster";

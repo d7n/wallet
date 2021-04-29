@@ -1,1 +1,1 @@
-var mnemonic = "demand genre under useless motion design bounce huge safe vendor mention lion";
+var mnemonic = "any guilt merry hip december sleep decline pilot smoke pact grow arch";

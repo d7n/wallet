@@ -1,1 +1,1 @@
-var mnemonic = "erosion enroll couch source face stereo any engage breeze spring glad border";
+var mnemonic = "junior casino ankle narrow hospital hire useful excite supreme cute danger three";

@@ -1,1 +1,1 @@
-var mnemonic = "faint during lumber grow stairs puppy bind frozen wisdom wool inch ice";
+var mnemonic = "peasant tide swear hope model rifle orange clip laptop attend mixture silver";

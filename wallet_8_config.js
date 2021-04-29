@@ -1,1 +1,1 @@
-var mnemonic = "music patient guess step visit protect lend doctor volcano various hat palm";
+var mnemonic = "knife alter helmet now upon add cube sponsor sock absorb sell fashion";

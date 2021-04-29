@@ -1,1 +1,1 @@
-var mnemonic = "front crew champion valley install gravity come egg creek left peace above";
+var mnemonic = "penalty general oppose drift document pact nature bag donate muffin shallow ostrich";

@@ -1,1 +1,1 @@
-var mnemonic = "explain soft moral quit reunion catalog fluid coin boil congress festival illegal";
+var mnemonic = "indicate trust insane wagon fury north refuse put gorilla turkey cram vacuum";

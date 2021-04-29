@@ -1,1 +1,1 @@
-var mnemonic = "hidden ghost victory camera license dignity dog clever cheese build mechanic region";
+var mnemonic = "collect expect hold canal situate pig minor similar borrow bread divorce machine";

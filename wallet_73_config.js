@@ -1,1 +1,1 @@
-var mnemonic = "mammal any hair weather girl orange rubber bind weekend sheriff raw joke";
+var mnemonic = "coconut kit video circle ranch imitate fresh empower dumb city shift lemon";

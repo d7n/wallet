@@ -1,1 +1,1 @@
-var mnemonic = "pole asthma later inch spatial month iron half jaguar clap noise donkey";
+var mnemonic = "industry guide park rib split will saddle finish marine banana flip forest";

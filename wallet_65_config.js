@@ -1,1 +1,1 @@
-var mnemonic = "already major address black curtain you affair vocal tortoise symptom cupboard patrol";
+var mnemonic = "dilemma argue trade wife define ostrich mansion south fiber convince river celery";

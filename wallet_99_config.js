@@ -1,1 +1,1 @@
-var mnemonic = "behind glory soldier chalk romance fold luggage educate enough solve suit sustain";
+var mnemonic = "people atom behind story zebra bulk seek negative sell kind ignore slogan";

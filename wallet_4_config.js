@@ -1,1 +1,1 @@
-var mnemonic = "sorry nasty educate ceiling taxi empower plastic extra spell utility bleak fat";
+var mnemonic = "bind rule option congress peace crystal equal saddle bread power clay step";

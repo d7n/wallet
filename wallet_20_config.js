@@ -1,1 +1,1 @@
-var mnemonic = "olive purpose float print coyote advance tenant phone monster shoulder cushion virus";
+var mnemonic = "quiz gasp screen motor tourist silk air symbol quantum replace mandate true";

@@ -1,1 +1,1 @@
-var mnemonic = "claw analyst delay invest broom tip cool style pulse choose pistol sure";
+var mnemonic = "weather valley jeans zero child frog satoshi pelican human leisure furnace observe";

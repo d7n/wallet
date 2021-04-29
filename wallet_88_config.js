@@ -1,1 +1,1 @@
-var mnemonic = "bamboo wonder hurdle parent country rate marble panther trust gun alone exist";
+var mnemonic = "wall burger honey minimum head tone between hedgehog source pumpkin color better";

@@ -1,1 +1,1 @@
-var mnemonic = "field drip stairs crisp expose control faint execute green hamster genre earth";
+var mnemonic = "tennis hair cabin dwarf coral cash volume month occur ribbon dry element";

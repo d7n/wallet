@@ -1,1 +1,1 @@
-var mnemonic = "exercise neither basket velvet balance public pluck system orange lend unusual level";
+var mnemonic = "delay oyster broccoli ordinary mule sponsor volcano toast bicycle upset permit catalog";

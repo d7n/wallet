@@ -1,1 +1,1 @@
-var mnemonic = "metal defense tonight sniff series waste neck muscle vocal vote skull badge";
+var mnemonic = "pet juice material fly pepper eyebrow palace wreck indoor plunge much public";

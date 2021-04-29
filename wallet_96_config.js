@@ -1,1 +1,1 @@
-var mnemonic = "index age advance economy meadow fatal hobby prison tired salad beyond flavor";
+var mnemonic = "sentence romance skull lucky access setup sentence among twenty coconut february oil";

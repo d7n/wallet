@@ -1,1 +1,1 @@
-var mnemonic = "century duck cover swallow business exhibit gossip upset crane inside filter total";
+var mnemonic = "mansion social focus planet horn rough metal copy reason attract armor jar";

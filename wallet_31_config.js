@@ -1,1 +1,1 @@
-var mnemonic = "similar script grain pioneer merge jungle knife doctor gasp mother tube benefit";
+var mnemonic = "aunt ability undo erosion trim actual crouch occur equal express start power";

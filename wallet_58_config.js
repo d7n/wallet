@@ -1,1 +1,1 @@
-var mnemonic = "habit viable company fix jewel vibrant hope forget gym loan hold one";
+var mnemonic = "harvest sword pattern kit bleak argue vote puzzle carpet vital mandate one";
