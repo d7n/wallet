@@ -1,1 +1,1 @@
-var mnemonic = "degree believe enjoy fresh firm group thing horse wing life zebra account";
+var mnemonic = "smooth caught spin almost number napkin auction ritual main sustain eight almost";

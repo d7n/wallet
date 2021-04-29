@@ -1,1 +1,1 @@
-var mnemonic = "muffin sunset tag risk birth ethics course loud suit begin capital coach";
+var mnemonic = "language ride census sample liquid exit recall wisdom jeans work just warm";

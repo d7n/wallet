@@ -1,1 +1,1 @@
-var mnemonic = "sport cabin ceiling census ramp theme final lava child ankle earth tourist";
+var mnemonic = "inherit brick ecology length volcano immense winter shop universe coral leisure enhance";

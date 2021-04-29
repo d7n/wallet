@@ -1,1 +1,1 @@
-var mnemonic = "you enlist good rhythm school member teach habit lounge castle company appear";
+var mnemonic = "trim duty tip butter million since segment team photo hood click treat";

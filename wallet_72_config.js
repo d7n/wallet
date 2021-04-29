@@ -1,1 +1,1 @@
-var mnemonic = "clean cliff robot team final trouble live fatigue logic disagree summer typical";
+var mnemonic = "hat spider skirt pride action quick spell super reward picnic tide connect";

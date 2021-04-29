@@ -1,1 +1,1 @@
-var mnemonic = "witness brush nose bounce wheat other supply arrow emerge door base foster";
+var mnemonic = "venture air physical general skill opinion legal trust verify load note copper";

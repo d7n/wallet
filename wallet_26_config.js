@@ -1,1 +1,1 @@
-var mnemonic = "hotel check casual syrup insane gate thing banner sport injury winter wagon";
+var mnemonic = "wall cruise avoid over credit evidence grit taxi beach horror reject often";

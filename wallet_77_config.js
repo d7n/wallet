@@ -1,1 +1,1 @@
-var mnemonic = "lady cycle okay express dilemma typical slender pledge patch copy first search";
+var mnemonic = "guilt shrimp dragon ride kangaroo lemon tag world bar august arm glimpse";

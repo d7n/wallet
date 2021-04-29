@@ -1,1 +1,1 @@
-var mnemonic = "nerve bridge reward cloth benefit afraid item fitness fold elite payment immense";
+var mnemonic = "bullet open receive just monkey mimic crucial bring gaze hint gorilla nation";

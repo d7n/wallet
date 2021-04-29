@@ -1,1 +1,1 @@
-var mnemonic = "solution melt unique barely regular muscle return reopen that artefact escape good";
+var mnemonic = "symbol amazing devote venue blouse follow kitchen dream dwarf junk pudding reason";

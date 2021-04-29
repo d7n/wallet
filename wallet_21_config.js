@@ -1,1 +1,1 @@
-var mnemonic = "elder crop solve wife primary dry dove neither knock bulk rapid become";
+var mnemonic = "lock credit brother stomach urban practice special domain deer truck shop demise";

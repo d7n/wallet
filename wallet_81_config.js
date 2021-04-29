@@ -1,1 +1,1 @@
-var mnemonic = "coin output cheese taxi grace salad hungry clarify sell cabin merge zebra";
+var mnemonic = "hurdle endorse snack autumn you wrist sorry nature indicate paddle nose candy";

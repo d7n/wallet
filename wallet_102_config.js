@@ -1,1 +1,1 @@
-var mnemonic = "melody copper lonely sphere pink section obtain require lemon lounge churn rocket";
+var mnemonic = "make logic hidden boat guitar change sort message scheme artist can glove";

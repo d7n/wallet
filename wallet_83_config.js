@@ -1,1 +1,1 @@
-var mnemonic = "sphere income scale marble mind budget effort guilt diagram dust bleak test";
+var mnemonic = "mushroom olympic wall off surprise shrimp song effort purpose maid hazard spare";

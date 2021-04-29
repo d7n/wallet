@@ -1,1 +1,1 @@
-var mnemonic = "sauce joy smart depend protect agree monkey entry spike flame income hazard";
+var mnemonic = "denial stand iron kind above smile grow witness fox august dwarf chicken";

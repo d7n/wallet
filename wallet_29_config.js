@@ -1,1 +1,1 @@
-var mnemonic = "nut remember soda story crumble dream choose fresh section glare type jaguar";
+var mnemonic = "proud torch hammer occur check sound extra retreat twin pipe anger arena";

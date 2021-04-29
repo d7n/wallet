@@ -1,1 +1,1 @@
-var mnemonic = "print pistol will parrot ring luxury cube menu master chapter green there";
+var mnemonic = "winter busy ketchup wife doctor wheat plug story damage alter clerk develop";

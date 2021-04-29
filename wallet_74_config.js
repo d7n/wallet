@@ -1,1 +1,1 @@
-var mnemonic = "powder estate monkey flame maple below affair own multiply blind demise canyon";
+var mnemonic = "genius detail decline estate pistol enforce measure tail final you forward badge";

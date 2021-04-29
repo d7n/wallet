@@ -1,1 +1,1 @@
-var mnemonic = "drop promote fade ride fashion stool baby involve need maximum bamboo frown";
+var mnemonic = "spread offer spy utility wisdom label sibling nephew notice travel cereal elegant";

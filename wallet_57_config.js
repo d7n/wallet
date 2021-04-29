@@ -1,1 +1,1 @@
-var mnemonic = "riot mystery mirror key cute mixture pony mercy core learn ecology hover";
+var mnemonic = "news build bird name harbor assault trade heavy daring update cry equal";

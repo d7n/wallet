@@ -1,1 +1,1 @@
-var mnemonic = "window hour family document panel knock snake stem afraid grain put jump";
+var mnemonic = "noodle review sniff crawl cabbage solve rather grow mad awake retire salon";

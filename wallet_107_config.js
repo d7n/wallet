@@ -1,1 +1,1 @@
-var mnemonic = "unlock victory sort creek remove case fury kitten razor praise injury orange";
+var mnemonic = "betray marine hospital share august pistol pigeon scare record cliff table pass";

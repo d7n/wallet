@@ -1,1 +1,1 @@
-var mnemonic = "mirror job soft smooth title exist brick clog bracket bread acoustic reunion";
+var mnemonic = "panda worth hello speak punch army social resemble tape run base unable";

@@ -1,1 +1,1 @@
-var mnemonic = "bulk butter any fitness dust music popular episode approve various bounce page";
+var mnemonic = "hire weasel conduct repair rug thumb debris believe endless march vessel country";

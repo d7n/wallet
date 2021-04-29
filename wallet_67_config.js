@@ -1,1 +1,1 @@
-var mnemonic = "ice into sibling funny tobacco gown spy olympic peasant save wreck labor";
+var mnemonic = "evil pig add among prison unusual solar merit play ripple traffic member";

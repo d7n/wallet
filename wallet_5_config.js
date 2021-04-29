@@ -1,1 +1,1 @@
-var mnemonic = "hen craft tower museum little notable bring forget dawn stable tonight cargo";
+var mnemonic = "rocket license hard interest soap casual february uncover can eight rally sorry";

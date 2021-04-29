@@ -1,1 +1,1 @@
-var mnemonic = "feel myself student salad swing climb lunch panda lamp churn vault list";
+var mnemonic = "never unique slot fatigue coyote flame boss mechanic lounge ripple bubble diary";

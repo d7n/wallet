@@ -1,1 +1,1 @@
-var mnemonic = "local scorpion glare easy december perfect surge neglect frost aware emotion blade";
+var mnemonic = "glue mail buddy dose obtain disorder inquiry aisle napkin make pioneer okay";

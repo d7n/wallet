@@ -1,1 +1,1 @@
-var mnemonic = "diary upgrade dignity final wrap expire burst news rely anger actual slender";
+var mnemonic = "already steel razor rotate husband hurdle jeans surprise category receive update label";

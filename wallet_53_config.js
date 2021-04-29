@@ -1,1 +1,1 @@
-var mnemonic = "fault better dirt close equip renew elegant sketch knee number swift clutch";
+var mnemonic = "torch clap quality heart infant found wing innocent april general radar figure";

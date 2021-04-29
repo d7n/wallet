@@ -1,1 +1,1 @@
-var mnemonic = "next gallery praise access credit modify next gorilla album gaze shop street";
+var mnemonic = "tongue inmate similar renew cabin vacant nominee grief require affair behave give";

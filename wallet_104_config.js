@@ -1,1 +1,1 @@
-var mnemonic = "insect camera cigar estate crazy rent comic odor focus about genre brief";
+var mnemonic = "blue ladder cave burden travel dust burger spice resemble weasel next vacuum";

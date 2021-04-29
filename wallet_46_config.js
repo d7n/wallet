@@ -1,1 +1,1 @@
-var mnemonic = "actual march emotion bachelor february cat autumn what lecture citizen illness oval";
+var mnemonic = "someone sleep domain grunt tuition circle ranch near depart reflect buffalo again";

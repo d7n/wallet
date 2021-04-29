@@ -1,1 +1,1 @@
-var mnemonic = "always pepper long bus build renew rude sure human initial curious ride";
+var mnemonic = "theme weapon jar clock cream vacant sight drop settle shift dish roof";

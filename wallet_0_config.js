@@ -1,1 +1,1 @@
-var mnemonic = "radio junior swap buzz caution come gorilla worry tornado prevent shock grass";
+var mnemonic = "pride belt cheap erosion visual usual mom sunset light flight shed obvious";

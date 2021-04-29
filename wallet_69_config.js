@@ -1,1 +1,1 @@
-var mnemonic = "twenty laptop paddle affair runway jeans dice transfer spider eager crawl dolphin";
+var mnemonic = "excite humble attitude piano sign flower year noble angle phrase enemy tongue";

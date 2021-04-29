@@ -1,1 +1,1 @@
-var mnemonic = "faint leopard decade call attract nephew feed bid sibling expect few buyer";
+var mnemonic = "pet rigid degree direct margin marble dish modify year cherry chimney bamboo";

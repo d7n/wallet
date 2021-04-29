@@ -1,1 +1,1 @@
-var mnemonic = "aware tone ten suffer vessel appear cupboard clerk lab title snow husband";
+var mnemonic = "toast ball secret start execute section teach blade cloth under breeze recall";

@@ -1,1 +1,1 @@
-var mnemonic = "million merge deposit trophy fit eyebrow brass erosion leg rack dirt lunar";
+var mnemonic = "crop uniform remove thumb apple seed wisdom dentist danger dizzy acid attitude";

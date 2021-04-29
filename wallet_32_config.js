@@ -1,1 +1,1 @@
-var mnemonic = "dose device debate trigger mirror candy wife decide soccer curve dynamic true";
+var mnemonic = "youth endless entire avoid bar punch mule habit demand august giant awesome";

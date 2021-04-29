@@ -1,1 +1,1 @@
-var mnemonic = "call desk frost gas purchase choice come possible expect thing powder step";
+var mnemonic = "pizza shell hollow matter cigar plastic ozone transfer various brown glide elder";

@@ -1,1 +1,1 @@
-var mnemonic = "pave hold dog novel excite picture open between bright season struggle organ";
+var mnemonic = "universe spot adult join travel diet boil banner matter energy love long";

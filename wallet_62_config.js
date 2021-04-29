@@ -1,1 +1,1 @@
-var mnemonic = "misery begin cactus creek gun network twin sibling coin dad gap stomach";
+var mnemonic = "outdoor smart force spring kite symbol aim clock love chaos little beef";

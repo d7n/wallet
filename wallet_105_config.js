@@ -1,1 +1,1 @@
-var mnemonic = "cave primary lake local ladder ship segment trust moon ring okay anchor";
+var mnemonic = "title scatter habit soccer minimum nurse silver moral unlock paper before nasty";

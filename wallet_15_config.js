@@ -1,1 +1,1 @@
-var mnemonic = "erupt twist resource attend save coconut pig useless slam squirrel wealth census";
+var mnemonic = "nothing shoot stand transfer model pair egg wife brush muffin adjust board";

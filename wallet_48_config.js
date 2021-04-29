@@ -1,1 +1,1 @@
-var mnemonic = "hour nothing vocal fluid hybrid turkey inspire solid general scout entry usage";
+var mnemonic = "vacuum rigid utility avocado repeat carpet tomorrow punch cash tenant circle square";

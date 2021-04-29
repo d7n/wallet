@@ -1,1 +1,1 @@
-var mnemonic = "impulse glare chimney first leaf valid input move digital brick harsh evidence";
+var mnemonic = "spot peanut more empty fit defense during box spirit pond carbon among";

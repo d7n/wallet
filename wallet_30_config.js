@@ -1,1 +1,1 @@
-var mnemonic = "seed destroy skin eye gas nuclear unfold bundle dirt plunge range cheap";
+var mnemonic = "about distance buzz twice you service blade chase garbage bag bronze ordinary";

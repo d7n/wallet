@@ -1,1 +1,1 @@
-var mnemonic = "equal bird hair alter balance grief ridge ranch damp morning skill dynamic";
+var mnemonic = "potato pistol ensure refuse nuclear price popular inspire unable scale blast laugh";

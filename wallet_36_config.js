@@ -1,1 +1,1 @@
-var mnemonic = "follow delay pass violin dolphin peasant exile draft cloud door debate twenty";
+var mnemonic = "bracket bamboo castle noise safe slice harvest vacuum loud joke raw lawn";

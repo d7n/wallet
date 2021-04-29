@@ -1,1 +1,1 @@
-var mnemonic = "tent judge friend clever brush bring runway soccer debate infant intact canal";
+var mnemonic = "neglect quick train olive return great giggle section crowd champion garage news";

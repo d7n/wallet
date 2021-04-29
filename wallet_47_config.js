@@ -1,1 +1,1 @@
-var mnemonic = "piece oil liquid name uncover forest glance history vital method noble divide";
+var mnemonic = "wise coast orbit cat gather ivory urge fame ugly shoot tunnel clap";

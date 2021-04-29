@@ -1,1 +1,1 @@
-var mnemonic = "glory decrease recycle royal vast quick satisfy broccoli decorate bus squeeze miss";
+var mnemonic = "scale attitude local live medal spoon royal click verify sock pottery tool";

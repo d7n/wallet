@@ -1,1 +1,1 @@
-var mnemonic = "wagon ice prize utility print credit garlic wood quarter test empower genre";
+var mnemonic = "neutral bulk enhance stand rifle mirror tooth gesture february focus loop tag";

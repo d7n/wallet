@@ -1,1 +1,1 @@
-var mnemonic = "skill produce rail baby above garlic truth addict any illegal hero depth";
+var mnemonic = "series sport venue venture summer right journey bachelor service stairs midnight know";

@@ -1,1 +1,1 @@
-var mnemonic = "saddle sting multiply sweet allow birth baby feature bulk focus mix betray";
+var mnemonic = "lake fruit exotic forget tree regret observe sound snack avocado upset core";

@@ -1,1 +1,1 @@
-var mnemonic = "sail trouble unfair please possible sustain universe tortoise direct earth stock fine";
+var mnemonic = "one rival render supreme bag dirt reform close joke celery host nasty";

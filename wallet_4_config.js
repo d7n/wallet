@@ -1,1 +1,1 @@
-var mnemonic = "happy gold glide inmate ecology solar immune debate sudden trade beyond boost";
+var mnemonic = "verb digital oyster flag size naive fire alpha cannon gun flat supreme";

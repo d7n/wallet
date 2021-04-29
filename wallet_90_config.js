@@ -1,1 +1,1 @@
-var mnemonic = "move bicycle genuine street planet front picnic hen wife finger burst bamboo";
+var mnemonic = "estate resemble sea rent absurd tag habit start neither flat lady ensure";

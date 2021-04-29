@@ -1,1 +1,1 @@
-var mnemonic = "horror try toy real obscure parent scissors human divert tiger hidden unknown";
+var mnemonic = "mass render hungry twin hurt pyramid finger crew rhythm copy manual wire";

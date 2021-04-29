@@ -1,1 +1,1 @@
-var mnemonic = "snake hammer faculty trip gym leisure faculty also own meadow glory donate";
+var mnemonic = "bind smile dentist cousin liar nest rural leader switch base rude mercy";

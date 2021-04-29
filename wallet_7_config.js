@@ -1,1 +1,1 @@
-var mnemonic = "fog wish beef nice common punch sun kiss economy defense fat rent";
+var mnemonic = "bless claw february glue example happy skill couple possible wheel drastic ecology";

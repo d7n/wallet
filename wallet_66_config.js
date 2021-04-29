@@ -1,1 +1,1 @@
-var mnemonic = "split myth theory tuna license quarter broom fiscal play garment pulp key";
+var mnemonic = "breeze session ridge wire hazard leader step tooth witness toward shy give";

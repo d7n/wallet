@@ -1,1 +1,1 @@
-var mnemonic = "purse strong guess mass census awkward label depth amount frequent level patch";
+var mnemonic = "uniform antique coast wife reject tortoise share party trumpet fortune dinner replace";

@@ -1,1 +1,1 @@
-var mnemonic = "shove suspect prosper impose oven amazing almost life mom benefit lend toss";
+var mnemonic = "jeans clinic cup dove blade thing logic pretty arch soda carbon neck";

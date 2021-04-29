@@ -1,1 +1,1 @@
-var mnemonic = "power network hollow point female panel vendor journey perfect village away rigid";
+var mnemonic = "stool viable learn trick manual unhappy afford buzz joy wheel bargain together";

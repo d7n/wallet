@@ -1,1 +1,1 @@
-var mnemonic = "frame network blanket annual bachelor slab fuel media you foster hungry insane";
+var mnemonic = "oak wood flower member equip sauce floor napkin badge cactus dance vivid";

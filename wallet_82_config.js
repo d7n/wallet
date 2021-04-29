@@ -1,1 +1,1 @@
-var mnemonic = "business age sunset power tobacco share snake order work invite slight view";
+var mnemonic = "hurry hello rug scale quit million safe squeeze sibling depend liar fly";

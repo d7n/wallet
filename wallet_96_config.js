@@ -1,1 +1,1 @@
-var mnemonic = "mask daughter design immune upset cinnamon fine unveil heavy cloud document ketchup";
+var mnemonic = "canvas cannon mansion record stamp banner tomorrow grace enough soap guess eight";

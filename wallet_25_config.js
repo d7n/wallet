@@ -1,1 +1,1 @@
-var mnemonic = "degree addict reform feature fly club strong manage song ketchup option renew";
+var mnemonic = "liar lonely learn notice clown silk divide board when purity nice kangaroo";

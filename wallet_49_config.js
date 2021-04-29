@@ -1,1 +1,1 @@
-var mnemonic = "pride spider protect foster dove join rabbit erase output history simple conduct";
+var mnemonic = "hold grab shoulder inner dawn cash chaos hire assault ribbon cute main";

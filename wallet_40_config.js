@@ -1,1 +1,1 @@
-var mnemonic = "drive receive immune deny sentence risk rack pilot clock this diary wise";
+var mnemonic = "purse rent cup crawl glove maid essay first luxury easily tent immune";

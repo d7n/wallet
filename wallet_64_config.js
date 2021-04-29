@@ -1,1 +1,1 @@
-var mnemonic = "this immense body whip toast remove inherit balance lemon genuine idea alarm";
+var mnemonic = "rely core lounge suit evidence nasty coach tent spatial great tip sniff";

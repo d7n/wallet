@@ -1,1 +1,1 @@
-var mnemonic = "forum appear load alien casino spin random merge fault asset whale mushroom";
+var mnemonic = "promote outer flush double book duty labor ignore embody table involve quality";

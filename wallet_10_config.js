@@ -1,1 +1,1 @@
-var mnemonic = "pottery wonder laptop nothing prevent glory crash panther core endless fossil please";
+var mnemonic = "differ panel tag flush sleep energy taste woman rocket exercise leaf limit";

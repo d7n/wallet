@@ -1,1 +1,1 @@
-var mnemonic = "garden business badge nuclear cherry birth task mixture window gorilla stick muscle";
+var mnemonic = "brick runway veteran base drink high promote refuse rubber below cat ostrich";

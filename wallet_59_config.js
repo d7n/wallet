@@ -1,1 +1,1 @@
-var mnemonic = "shoot nephew myself situate network undo bundle rude dismiss peace hello female";
+var mnemonic = "squirrel step build hammer mouse group direct degree bubble just vintage dream";

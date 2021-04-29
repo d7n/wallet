@@ -1,1 +1,1 @@
-var mnemonic = "decade beauty roast goddess awkward message drum hello task cement element opinion";
+var mnemonic = "dinosaur enough embody trend glue away film evil device sort hub video";

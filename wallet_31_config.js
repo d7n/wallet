@@ -1,1 +1,1 @@
-var mnemonic = "reveal today excuse repair basket mosquito soap daughter water blast buyer manage";
+var mnemonic = "nose topic quote girl pool crunch leader describe arm include blue aerobic";

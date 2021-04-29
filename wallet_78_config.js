@@ -1,1 +1,1 @@
-var mnemonic = "never stomach offer afford distance sell skull put road economy cherry legal";
+var mnemonic = "faith involve black horror immune reject stairs suit diagram harsh dog disagree";

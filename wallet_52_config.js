@@ -1,1 +1,1 @@
-var mnemonic = "airport hub envelope mask require life aisle total start venue animal sample";
+var mnemonic = "arctic ribbon nuclear razor correct report thing agree boss buzz live torch";

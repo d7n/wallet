@@ -1,1 +1,1 @@
-var mnemonic = "buzz provide fashion attack toss pulp raven ocean enforce before movie elder";
+var mnemonic = "frost scrub edge design sell choose clown own curve orchard rural mom";

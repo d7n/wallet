@@ -1,1 +1,1 @@
-var mnemonic = "sand bunker shop concert subway cool venue denial sand transfer inmate rural";
+var mnemonic = "good spring depth salon gossip double mind drama train total latin hurt";

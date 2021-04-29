@@ -1,1 +1,1 @@
-var mnemonic = "change finish accident grid lawn neck cupboard diary marine bomb divorce carpet";
+var mnemonic = "other isolate early hover amused moment rent network canyon unique item fence";

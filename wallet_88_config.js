@@ -1,1 +1,1 @@
-var mnemonic = "cash banana prevent project arrest slot grunt cram mansion agree funny hammer";
+var mnemonic = "alter music analyst adjust give seed debate remove tooth kidney rack dress";

@@ -1,1 +1,1 @@
-var mnemonic = "matrix option axis barely sadness suspect liquid craft cruel visual poverty embrace";
+var mnemonic = "food rough install assault follow same dish smile pen drill help detect";

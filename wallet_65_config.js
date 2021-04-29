@@ -1,1 +1,1 @@
-var mnemonic = "vehicle vapor fancy hazard figure bag roof wide nation seven inner refuse";
+var mnemonic = "saddle devote license success slide head element wing exercise birth science hamster";

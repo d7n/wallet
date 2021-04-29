@@ -1,1 +1,1 @@
-var mnemonic = "video joke disease mother cereal note merit armor bright bundle conduct chef";
+var mnemonic = "escape capable very fan book breeze adjust amused measure city labor recall";

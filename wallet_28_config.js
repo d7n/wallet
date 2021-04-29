@@ -1,1 +1,1 @@
-var mnemonic = "river current demise odor unique trick one make trust dune behind collect";
+var mnemonic = "kid almost lawn tennis crack immense together mix chimney fantasy yard lunch";
