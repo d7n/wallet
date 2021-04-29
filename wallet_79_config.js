@@ -1,1 +1,1 @@
-var mnemonic = "moon february pass oil pepper wisdom wrong antenna broken rug enroll together";
+var mnemonic = "rapid taxi foil purse test job appear verb payment virtual remember burger";

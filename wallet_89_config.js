@@ -1,1 +1,1 @@
-var mnemonic = "emerge guilt opinion better badge input embody win region wash roof boring";
+var mnemonic = "among depend fix galaxy wrap garden apple wave lens mountain blade use";

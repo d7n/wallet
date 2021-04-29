@@ -1,1 +1,1 @@
-var mnemonic = "volcano cancel urban nice coast army satoshi short lava shell lunar claw";
+var mnemonic = "embody velvet crane enact spell film skill shiver awful walk music swear";

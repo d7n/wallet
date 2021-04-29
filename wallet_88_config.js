@@ -1,1 +1,1 @@
-var mnemonic = "code asset reason dash staff snow combine matter alarm poet document danger";
+var mnemonic = "pizza silk coconut pulp border deer shrug aerobic setup jewel cross call";

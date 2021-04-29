@@ -1,1 +1,1 @@
-var mnemonic = "dirt forum canoe scrap junior foster acid crisp hospital job comic vacant";
+var mnemonic = "proof glad remove fine you wedding robot lion oyster struggle wheel sausage";

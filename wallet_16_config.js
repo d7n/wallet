@@ -1,1 +1,1 @@
-var mnemonic = "cash tourist image rocket damp power column betray spirit tower rich venture";
+var mnemonic = "split file also reject cram nominee thing time raccoon age size member";

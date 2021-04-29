@@ -1,1 +1,1 @@
-var mnemonic = "ranch cream guide leisure card clever limit favorite infant fiction blur vault";
+var mnemonic = "puppy artefact honey bridge kick any immune betray exist subject topple distance";

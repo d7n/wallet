@@ -1,1 +1,1 @@
-var mnemonic = "guess daring hammer hill crazy grant mystery grief sketch lumber ancient ignore";
+var mnemonic = "exhibit issue supply emerge element monitor letter december cigar inherit whip humble";

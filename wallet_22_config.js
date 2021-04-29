@@ -1,1 +1,1 @@
-var mnemonic = "mule because detail average thought owner air immense harbor motion one soccer";
+var mnemonic = "damp angle muscle motion adult divorce effort faint phone solution allow have";

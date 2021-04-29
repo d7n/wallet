@@ -1,1 +1,1 @@
-var mnemonic = "theme found gravity deny pizza pulse scrub unknown journey equip today theory";
+var mnemonic = "benefit visual surprise agent portion arrange floor text will predict toe artwork";

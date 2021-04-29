@@ -1,1 +1,1 @@
-var mnemonic = "zone civil dawn color elevator office order total follow cage unique menu";
+var mnemonic = "foam such garment word industry avoid shy echo still monitor brand dry";

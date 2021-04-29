@@ -1,1 +1,1 @@
-var mnemonic = "curve arctic act hurt success bicycle vendor confirm reform local certain fatigue";
+var mnemonic = "now stool proud banana empty bubble define power trash later fine zone";

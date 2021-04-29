@@ -1,1 +1,1 @@
-var mnemonic = "actor swear bridge board spend connect elder subject brick scout mouse plate";
+var mnemonic = "almost nest company siren culture repair brief drip embrace globe labor infant";

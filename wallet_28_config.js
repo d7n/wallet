@@ -1,1 +1,1 @@
-var mnemonic = "polar license fence brush critic nephew metal broken rhythm poverty aware soup";
+var mnemonic = "arctic analyst flip rail income brave sport bullet guess again close verb";

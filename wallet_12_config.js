@@ -1,1 +1,1 @@
-var mnemonic = "brisk season struggle panel travel arrest mammal guitar strike real enroll enough";
+var mnemonic = "fruit fragile below flat buzz ring enrich unaware inspire flame inspire bread";

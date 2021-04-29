@@ -1,1 +1,1 @@
-var mnemonic = "grain surge switch define atom very filter cancel report pizza brass add";
+var mnemonic = "release forward glad canal swallow struggle lobster planet tortoise cradle wing can";

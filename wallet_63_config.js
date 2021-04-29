@@ -1,1 +1,1 @@
-var mnemonic = "lizard return flame track door subway question quantum planet floor jelly aim";
+var mnemonic = "brief join feed liar license useless news ketchup swift endless sail subway";

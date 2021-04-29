@@ -1,1 +1,1 @@
-var mnemonic = "vacuum build cage game frequent away odor grief civil behind text series";
+var mnemonic = "romance tool surge daring survey valley pumpkin curve talent vote leaf kid";

@@ -1,1 +1,1 @@
-var mnemonic = "skate include enact kite crush eternal security frost also sniff inspire silent";
+var mnemonic = "digital clump female market festival crystal verb various lab romance sail session";

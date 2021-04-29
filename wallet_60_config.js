@@ -1,1 +1,1 @@
-var mnemonic = "orchard regret dignity pledge kid exclude test sentence hero little chuckle parade";
+var mnemonic = "slim wonder biology thunder adult wise slight hundred reflect obscure window retreat";

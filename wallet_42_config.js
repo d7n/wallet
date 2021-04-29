@@ -1,1 +1,1 @@
-var mnemonic = "practice clay jaguar aim subject cupboard actress voice put force reject skin";
+var mnemonic = "goat lucky effort explain crack dove oil fox equip orbit neutral fall";

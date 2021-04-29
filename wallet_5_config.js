@@ -1,1 +1,1 @@
-var mnemonic = "dwarf budget train reduce excess crane index game tattoo good harbor lizard";
+var mnemonic = "unusual refuse gravity rabbit pencil mountain arctic mixture cactus agree satoshi person";

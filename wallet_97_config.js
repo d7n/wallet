@@ -1,1 +1,1 @@
-var mnemonic = "tone amused disease caution receive insane curious onion success city garment pen";
+var mnemonic = "giggle wisdom artefact devote velvet scorpion possible nurse three under corn bless";

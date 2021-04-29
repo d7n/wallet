@@ -1,1 +1,1 @@
-var mnemonic = "beef exercise monkey hedgehog harbor enforce gadget help drop jaguar desert all";
+var mnemonic = "blind cross patient small wonder morning nephew poverty eternal coach swarm monster";

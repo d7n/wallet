@@ -1,1 +1,1 @@
-var mnemonic = "duty carry water seek duck faculty fade primary ketchup level under trend";
+var mnemonic = "hold gentle install pilot grab clerk swallow reveal essence struggle punch chest";

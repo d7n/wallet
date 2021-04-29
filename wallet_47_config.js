@@ -1,1 +1,1 @@
-var mnemonic = "drive token crack nation suit flight reject fiber kiss music milk prevent";
+var mnemonic = "decorate dismiss crush text stairs garment tool bag right scrub journey oyster";

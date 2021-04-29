@@ -1,1 +1,1 @@
-var mnemonic = "vague motor hood defy hen alcohol sick ice okay shoe glad voyage";
+var mnemonic = "cigar thought permit because visit vocal vicious duck uniform narrow dial obvious";

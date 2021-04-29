@@ -1,1 +1,1 @@
-var mnemonic = "fluid bench delay debate pen measure sting piece little alone noodle picture";
+var mnemonic = "deal bicycle goddess almost supply company claw obscure such since candy script";

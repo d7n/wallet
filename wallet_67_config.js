@@ -1,1 +1,1 @@
-var mnemonic = "session reason risk winner cry wet industry scale nerve thumb draft step";
+var mnemonic = "clutch tunnel broccoli blue already true trigger antenna purpose dove cotton chunk";

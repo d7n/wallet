@@ -1,1 +1,1 @@
-var mnemonic = "boy provide attract source acoustic shaft edit project slight junior program assist";
+var mnemonic = "pepper angle glove process local now garbage size idle stick swamp blanket";

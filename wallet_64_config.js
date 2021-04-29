@@ -1,1 +1,1 @@
-var mnemonic = "join gain annual aware interest yard step rail predict like arena horror";
+var mnemonic = "gift creek quick wedding duck fatigue brain dizzy person off chat proud";

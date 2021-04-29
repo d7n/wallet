@@ -1,1 +1,1 @@
-var mnemonic = "eagle across letter sweet unaware loan select appear educate cup dish ask";
+var mnemonic = "lobster arena surface twice victory save bleak scorpion shell trust room fabric";

@@ -1,1 +1,1 @@
-var mnemonic = "summer milk true copy include smooth code outer panda section add crunch";
+var mnemonic = "memory concert fetch deny match confirm pencil pulse maid seed chat essence";

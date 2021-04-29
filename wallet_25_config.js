@@ -1,1 +1,1 @@
-var mnemonic = "isolate chapter produce basic force pelican lonely east clay keep sad amateur";
+var mnemonic = "sheriff claw list local busy kind alone drip general team size put";

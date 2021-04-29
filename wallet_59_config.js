@@ -1,1 +1,1 @@
-var mnemonic = "boil enough shoulder into measure wage habit bomb letter zero hood road";
+var mnemonic = "artwork crunch discover nation load industry hungry space invite elephant weird moment";

@@ -1,1 +1,1 @@
-var mnemonic = "truth elephant group ribbon useful biology december zone stool spend box trophy";
+var mnemonic = "carbon reward soda sister motor spirit bachelor render subway guide horse sword";

@@ -1,1 +1,1 @@
-var mnemonic = "ill lesson crucial extend trophy author enough pilot surface pride cave learn";
+var mnemonic = "swing athlete illness slab club pet pull gesture oak labor oval analyst";

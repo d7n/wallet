@@ -1,1 +1,1 @@
-var mnemonic = "final mobile dignity matter lens inflict curtain mosquito curious student belt float";
+var mnemonic = "loud expose sea roof view survey happy entry say before poem culture";

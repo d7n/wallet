@@ -1,1 +1,1 @@
-var mnemonic = "repair print scheme arm amazing essay ladder pluck fault daring act buyer";
+var mnemonic = "knee tomato violin exist explain wage more toss middle frost stereo funny";

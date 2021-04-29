@@ -1,1 +1,1 @@
-var mnemonic = "swing potato romance picture crystal print search egg tourist faint thrive birth";
+var mnemonic = "person excuse correct draw other pond olive end primary ginger unknown unable";

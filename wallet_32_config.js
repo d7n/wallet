@@ -1,1 +1,1 @@
-var mnemonic = "clip ship thing certain casual someone scout soup ramp east gloom ticket";
+var mnemonic = "comfort tired want public stage defense deal drama tunnel south ritual sphere";

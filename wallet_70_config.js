@@ -1,1 +1,1 @@
-var mnemonic = "history deal shoe picture fence series merit enrich popular hundred addict wise";
+var mnemonic = "spawn hope convince ocean click swim fury delay milk across hire actress";

@@ -1,1 +1,1 @@
-var mnemonic = "two mixture ceiling message gospel omit off act speed few chuckle banana";
+var mnemonic = "rare letter man tattoo omit crisp siren illegal actor base crouch found";

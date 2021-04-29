@@ -1,1 +1,1 @@
-var mnemonic = "clean weird blind fog exhibit vital divorce chunk hedgehog brother trend actress";
+var mnemonic = "dune owner rotate win fat pluck cousin legend govern inject damage between";

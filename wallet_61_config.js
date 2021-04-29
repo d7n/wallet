@@ -1,1 +1,1 @@
-var mnemonic = "feel happy render never rent resist utility clump marble carry stairs true";
+var mnemonic = "salad income carry assist exclude flavor tide puppy wreck purchase tooth quarter";

@@ -1,1 +1,1 @@
-var mnemonic = "before spike fortune pluck apology false young pause castle average eternal invest";
+var mnemonic = "tenant super atom spatial yellow inch reject account churn idle arm feed";

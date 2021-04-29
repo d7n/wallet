@@ -1,1 +1,1 @@
-var mnemonic = "chef crucial video leg mystery radio weekend scatter fold parrot legal stove";
+var mnemonic = "error minimum magnet bless life tornado drum feed acid pistol possible network";

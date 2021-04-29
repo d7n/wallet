@@ -1,1 +1,1 @@
-var mnemonic = "sauce flight sadness page layer idle brand candy wire wide endorse trash";
+var mnemonic = "dance napkin day similar where foil movie come lesson pretty size tonight";

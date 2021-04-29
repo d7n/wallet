@@ -1,1 +1,1 @@
-var mnemonic = "ripple crime addict father uncover science asthma thank zebra canyon appear glory";
+var mnemonic = "infant plug multiply milk term style lizard fuel brand pony fault remain";

@@ -1,1 +1,1 @@
-var mnemonic = "crisp grief govern lake hockey govern holiday advance priority menu moral upper";
+var mnemonic = "host input salon tortoise hope resemble file vote juice flower shadow arrow";

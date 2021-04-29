@@ -1,1 +1,1 @@
-var mnemonic = "senior comfort october word involve speed future raise cherry fluid envelope quality";
+var mnemonic = "syrup goat fix picnic settle divide fringe cluster solution poem chalk eternal";

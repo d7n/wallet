@@ -1,1 +1,1 @@
-var mnemonic = "manual range kingdom vocal entry miracle hill month kid lion busy roast";
+var mnemonic = "regular luggage grain will river vault must embark useless knee dance cargo";

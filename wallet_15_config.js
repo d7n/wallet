@@ -1,1 +1,1 @@
-var mnemonic = "gravity pear first rapid sheriff rose casino sport avocado gentle tribe piano";
+var mnemonic = "pen kick economy rail blossom comfort evoke wage viable tragic gather sweet";

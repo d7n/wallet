@@ -1,1 +1,1 @@
-var mnemonic = "assume age rotate weekend thought picture fresh remain matrix spike strategy humble";
+var mnemonic = "abuse pull occur gaze seminar recall police next crime logic neck action";

@@ -1,1 +1,1 @@
-var mnemonic = "mail sniff begin same decorate impose student indoor episode guard zone enrich";
+var mnemonic = "powder define finish oil shift say blast alert round feel own bunker";

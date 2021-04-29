@@ -1,1 +1,1 @@
-var mnemonic = "all circle borrow sunny guess toward throw trash useful prefer perfect tongue";
+var mnemonic = "harsh airport manual lecture hold toilet exotic remind basic able roast excess";

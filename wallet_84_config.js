@@ -1,1 +1,1 @@
-var mnemonic = "spot hurry cost stone awful express snack office cash whale note cool";
+var mnemonic = "twin nut token gym approve involve better correct dash arctic fame swap";

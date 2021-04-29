@@ -1,1 +1,1 @@
-var mnemonic = "general pig reopen material dance roof medal biology unfold remind method gain";
+var mnemonic = "next monkey okay fringe culture response blue omit name ill bright answer";

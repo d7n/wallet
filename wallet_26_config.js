@@ -1,1 +1,1 @@
-var mnemonic = "paddle betray movie spell smoke predict detail behind slim blade voice neglect";
+var mnemonic = "genuine enough capital bean dress warfare swear know method defy curtain famous";

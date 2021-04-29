@@ -1,1 +1,1 @@
-var mnemonic = "middle voyage woman dinosaur want loan erode record soup oval brother rally";
+var mnemonic = "bid soft arena check local debate silk matter ozone gap sad depth";

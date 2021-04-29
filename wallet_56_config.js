@@ -1,1 +1,1 @@
-var mnemonic = "check vendor rapid silver city inhale excuse ten nation pause primary detect";
+var mnemonic = "hobby tobacco kid scale miracle lab habit afraid vessel twelve earth one";

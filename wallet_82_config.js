@@ -1,1 +1,1 @@
-var mnemonic = "bulk unlock left town spider across target carry people catch velvet speed";
+var mnemonic = "pilot broccoli stairs orphan keen thumb confirm sphere easy galaxy pride laugh";

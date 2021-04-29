@@ -1,1 +1,1 @@
-var mnemonic = "piano slot excuse achieve prefer eager gesture bottom assist regular sign tag";
+var mnemonic = "message release script target unit million army school illegal perfect tourist birth";

@@ -1,1 +1,1 @@
-var mnemonic = "menu satoshi permit access blame castle tomorrow ugly six stuff crash bunker";
+var mnemonic = "crime gaze laptop stairs husband speak disease prefer visa maximum place kiss";

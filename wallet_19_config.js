@@ -1,1 +1,1 @@
-var mnemonic = "cotton depart shoe onion length combine lend run tragic column cycle save";
+var mnemonic = "kingdom flower glove pumpkin promote wear aunt finger notable luxury method hockey";

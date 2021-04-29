@@ -1,1 +1,1 @@
-var mnemonic = "distance beyond gas noodle become mixture height wife tag castle virtual alley";
+var mnemonic = "glare pistol student pottery online release scare milk pause hole buffalo cupboard";

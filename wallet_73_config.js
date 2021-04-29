@@ -1,1 +1,1 @@
-var mnemonic = "lab spread pioneer december negative chair sail flip smoke excess grief mother";
+var mnemonic = "main toilet heart category city inform core shy captain olive video reunion";

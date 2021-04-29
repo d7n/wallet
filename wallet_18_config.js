@@ -1,1 +1,1 @@
-var mnemonic = "bonus hello seed carbon bridge leisure water behave tongue boil goddess uncle";
+var mnemonic = "tail tent about prosper mad truly talent mutual maple between ship mix";

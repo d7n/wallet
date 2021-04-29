@@ -1,1 +1,1 @@
-var mnemonic = "subject gloom student protect daring kitchen fly grunt sail spell must crack";
+var mnemonic = "select model original artefact rescue spawn gloom split horn dust fatal excuse";

@@ -1,1 +1,1 @@
-var mnemonic = "local fox rival security argue usage shoulder mammal solar much bottom razor";
+var mnemonic = "pass salon venture vendor upset oppose minute armor various suit sausage food";

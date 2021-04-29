@@ -1,1 +1,1 @@
-var mnemonic = "truly ugly pen wave shift grit pole suspect security spring expire warm";
+var mnemonic = "fox light dilemma replace clown hazard material differ provide sing rabbit mass";

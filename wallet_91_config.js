@@ -1,1 +1,1 @@
-var mnemonic = "mind alone average explain human galaxy certain gift fatigue happy raise mention";
+var mnemonic = "armed capital essence scissors vague replace dry rhythm female verify elbow human";

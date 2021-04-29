@@ -1,1 +1,1 @@
-var mnemonic = "fancy wide cube pony already scene core good scare fall excite exist";
+var mnemonic = "squirrel finish bacon riot year fossil affair example pet unit finish day";

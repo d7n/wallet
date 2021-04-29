@@ -1,1 +1,1 @@
-var mnemonic = "flight warfare fancy short party noise tumble sleep lock raw radar salmon";
+var mnemonic = "chalk such cause palace now army thing vehicle govern nose slice mean";

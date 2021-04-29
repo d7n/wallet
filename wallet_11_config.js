@@ -1,1 +1,1 @@
-var mnemonic = "undo moral language neutral engine license rely luxury fork margin night notable";
+var mnemonic = "dentist bunker click word possible faith talk spray tornado unit alone orange";

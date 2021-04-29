@@ -1,1 +1,1 @@
-var mnemonic = "pistol father school razor require erosion horror smart acoustic donate happy sauce";
+var mnemonic = "abuse poem basic switch laugh slush barely fluid mosquito snake valley connect";

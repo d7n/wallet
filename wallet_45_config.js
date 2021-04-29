@@ -1,1 +1,1 @@
-var mnemonic = "column demand adult patch neck laugh husband cactus over regular frozen horror";
+var mnemonic = "call fine debate century whisper green share arrow model tiny bright whip";

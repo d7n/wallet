@@ -1,1 +1,1 @@
-var mnemonic = "dentist despair relief galaxy pig casual pilot left average sight arch assume";
+var mnemonic = "chest foot rare stay table ship neglect tiger enable concert tree need";

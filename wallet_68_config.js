@@ -1,1 +1,1 @@
-var mnemonic = "always list admit brand notice early toe target rude travel border treat";
+var mnemonic = "glance action relax world text slogan friend attend now what tone check";

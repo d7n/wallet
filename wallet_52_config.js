@@ -1,1 +1,1 @@
-var mnemonic = "daring alpha umbrella twenty tiny general occur nose cool screen invite copy";
+var mnemonic = "snow task isolate outside nest aware abuse knock tone else rabbit vague";

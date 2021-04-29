@@ -1,1 +1,1 @@
-var mnemonic = "fiction impose gorilla girl bind rate topic seek view submit butter electric";
+var mnemonic = "luxury mask embody tooth laundry oak blur broom bomb work fun little";

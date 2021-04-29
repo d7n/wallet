@@ -1,1 +1,1 @@
-var mnemonic = "proud spawn clump guitar couch roast one curious wolf text cloth weasel";
+var mnemonic = "blush primary rural cloth draft little various bus pizza dirt neck egg";

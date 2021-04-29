@@ -1,1 +1,1 @@
-var mnemonic = "derive assault knife rifle century target jealous journey oval rug bag guilt";
+var mnemonic = "toddler analyst breeze trash icon eternal into pipe zoo order slight logic";

@@ -1,1 +1,1 @@
-var mnemonic = "defy electric tree sign monkey income bring solar actor admit donate short";
+var mnemonic = "defy voyage trumpet gossip diesel cactus meadow stage panic flower regular box";

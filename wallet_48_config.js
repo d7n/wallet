@@ -1,1 +1,1 @@
-var mnemonic = "quote glue valid gossip earn side fish fetch okay yellow slogan inhale";
+var mnemonic = "nothing level clarify equal love thrive symptom popular film glad creek intact";

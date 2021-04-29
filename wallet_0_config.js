@@ -1,1 +1,1 @@
-var mnemonic = "endless onion inner decline sadness staff wagon artist humor banana grid shiver";
+var mnemonic = "ill energy mule indicate kidney best index spike system once planet speak";

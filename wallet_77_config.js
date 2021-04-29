@@ -1,1 +1,1 @@
-var mnemonic = "embody usage veteran lottery insane stove victory kind palace warm together dentist";
+var mnemonic = "brave rebel junior hand hotel estate mail bacon cable cash carry radio";

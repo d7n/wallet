@@ -1,1 +1,1 @@
-var mnemonic = "prosper loan leave rapid cloth private chalk zoo bench office amazing latin";
+var mnemonic = "destroy fabric inmate dog doll autumn hotel sustain flavor season fatigue cage";

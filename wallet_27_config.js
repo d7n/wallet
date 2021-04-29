@@ -1,1 +1,1 @@
-var mnemonic = "mesh power hint entry balcony license satoshi must hood cost slice replace";
+var mnemonic = "wing rural horse chef cement model bind curtain excess cream gate hole";

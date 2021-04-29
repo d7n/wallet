@@ -1,1 +1,1 @@
-var mnemonic = "sadness wrestle pact airport giraffe recycle produce lake boost curious resource verify";
+var mnemonic = "dinner cable upset kick offer hand bid place turkey sign comic swift";

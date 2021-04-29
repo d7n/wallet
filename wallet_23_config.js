@@ -1,1 +1,1 @@
-var mnemonic = "theory vapor victory that estate pet please setup palm soldier tent license";
+var mnemonic = "parrot unaware found size canal undo pulp street asthma destroy rigid much";
