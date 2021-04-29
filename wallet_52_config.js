@@ -1,1 +1,1 @@
-var mnemonic = "range work lawn gown ability train venue copper robot rather master sausage";
+var mnemonic = "garage motion add vacuum category slogan million laugh flower file glory sorry";

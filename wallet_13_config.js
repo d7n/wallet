@@ -1,1 +1,1 @@
-var mnemonic = "black bid bulb street mobile shift chapter east cart lab step cousin";
+var mnemonic = "coach orange front same pride era problem famous bounce whale asthma lizard";

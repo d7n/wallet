@@ -1,1 +1,1 @@
-var mnemonic = "mountain skill taxi piano battle bean dice usage peasant latin donor faith";
+var mnemonic = "addict margin result inhale mirror lecture siege rather devote trouble brown device";

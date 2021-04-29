@@ -1,1 +1,1 @@
-var mnemonic = "stone deal snake achieve advice consider have gauge hotel region other cousin";
+var mnemonic = "junior fee uncle piano around night planet ginger chest vapor claw defense";

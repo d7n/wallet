@@ -1,1 +1,1 @@
-var mnemonic = "update noodle sound spare shuffle library jeans upper tongue stock donate innocent";
+var mnemonic = "position vacuum prison replace gravity hawk found tooth tent juice nasty wife";

@@ -1,1 +1,1 @@
-var mnemonic = "breeze reveal slender fragile snack robust wise opera vote trim april nice";
+var mnemonic = "cabin matrix pledge level picnic olympic blush parade mom about search alter";

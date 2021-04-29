@@ -1,1 +1,1 @@
-var mnemonic = "original box spoil plate goose double age lab rely disorder rival hill";
+var mnemonic = "culture frozen banner install track race oval undo salt small brass van";

@@ -1,1 +1,1 @@
-var mnemonic = "dwarf position old fold useless february next present baby shift cake vessel";
+var mnemonic = "blast build strategy tiger tone clump bonus worth pelican hard present flag";

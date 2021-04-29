@@ -1,1 +1,1 @@
-var mnemonic = "midnight crime harbor mix sketch stadium project present carpet urge amused alone";
+var mnemonic = "wash census border category force pen found already wrist finger regular soap";

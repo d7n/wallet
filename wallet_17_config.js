@@ -1,1 +1,1 @@
-var mnemonic = "chef moral pigeon country chief another middle couch spawn over panda bracket";
+var mnemonic = "pistol moon coin hen chuckle cry fit nasty dove ability tiny cruise";

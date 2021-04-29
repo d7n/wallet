@@ -1,1 +1,1 @@
-var mnemonic = "entry pelican work buzz replace slender forum dog clump return elevator play";
+var mnemonic = "income dilemma gather pave render still ramp gas roast vapor powder helmet";

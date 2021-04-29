@@ -1,1 +1,1 @@
-var mnemonic = "silly evolve mosquito sweet track repair laundry soda jar alert place shrug";
+var mnemonic = "choose flush sign deny useful feature spoon valve goddess decorate verb hidden";

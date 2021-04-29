@@ -1,1 +1,1 @@
-var mnemonic = "slush bag limit ability during raven cabbage install enable switch rigid comfort";
+var mnemonic = "have curious require right voice wealth balcony ticket banana audit process swear";

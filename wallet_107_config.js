@@ -1,1 +1,1 @@
-var mnemonic = "actual assault regular obey awesome vapor mass onion rough dinner play candy";
+var mnemonic = "decide grow resist better pass you wait wear long divide loyal wink";

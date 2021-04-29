@@ -1,1 +1,1 @@
-var mnemonic = "fit buffalo ride evil sponsor empty kite cargo clinic fish welcome valley";
+var mnemonic = "lawsuit wrong loud thrive clock pupil zoo reflect train mail genre carpet";

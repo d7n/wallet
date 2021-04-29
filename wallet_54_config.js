@@ -1,1 +1,1 @@
-var mnemonic = "mistake change mimic reunion blame innocent hour strong infant better spot rack";
+var mnemonic = "between beef news two slender hole drift year silent path believe movie";

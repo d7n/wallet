@@ -1,1 +1,1 @@
-var mnemonic = "athlete chest hope earth oven friend proof slush victory gas strategy fat";
+var mnemonic = "cluster warfare flower despair correct myth all novel wolf flag autumn excuse";

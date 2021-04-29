@@ -1,1 +1,1 @@
-var mnemonic = "approve pudding unveil lake soda spell inform wink swift piano strike setup";
+var mnemonic = "enrich pig garage sport pony twenty repair obvious young february heart wise";

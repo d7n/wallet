@@ -1,1 +1,1 @@
-var mnemonic = "genuine join comic increase omit benefit paddle clean rather play chat timber";
+var mnemonic = "zero stock unfold filter tail coin outside wild oxygen verb patch once";

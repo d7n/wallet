@@ -1,1 +1,1 @@
-var mnemonic = "kind coyote glance shed anger medal smile palm zone chest above defense";
+var mnemonic = "absorb private toward legal chef aim sure risk shift edit swift miracle";

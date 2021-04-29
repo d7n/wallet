@@ -1,1 +1,1 @@
-var mnemonic = "range transfer chef bridge wish biology unusual axis action fish knee prefer";
+var mnemonic = "such wage price apology vehicle shrug figure layer firm taste lobster foot";

@@ -1,1 +1,1 @@
-var mnemonic = "praise attend boil alone file like near three clock people stumble together";
+var mnemonic = "prepare grape crowd table lawsuit speak text bounce cake repeat buddy swing";

@@ -1,1 +1,1 @@
-var mnemonic = "cup moment special mesh illness february curtain merge mom else pill collect";
+var mnemonic = "cycle lesson leisure speak theory wide nice accuse shock before setup wet";

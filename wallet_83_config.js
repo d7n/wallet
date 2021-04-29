@@ -1,1 +1,1 @@
-var mnemonic = "ordinary need company dose shallow fury despair injury master lady neutral move";
+var mnemonic = "inject earth system system envelope inmate stairs south cluster enforce degree link";

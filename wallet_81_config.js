@@ -1,1 +1,1 @@
-var mnemonic = "whisper play glare element vital staff weasel kidney text decline misery wasp";
+var mnemonic = "salute squirrel object suit repeat spin author question group sauce analyst simple";

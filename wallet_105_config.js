@@ -1,1 +1,1 @@
-var mnemonic = "upset dismiss deposit endless behind recall industry saddle best knife deliver daughter";
+var mnemonic = "differ tray supreme lesson hub thing staff salt indicate blame art inherit";

@@ -1,1 +1,1 @@
-var mnemonic = "waste sunset swamp bird month always night bullet shield moon thought lesson";
+var mnemonic = "easily enforce among tired arch suffer draft dizzy mail minor people snap";

@@ -1,1 +1,1 @@
-var mnemonic = "broken case clerk danger bone echo artist bacon rabbit deposit start sudden";
+var mnemonic = "coil cupboard slide garden ask arrive either horse brick company scan pipe";

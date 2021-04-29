@@ -1,1 +1,1 @@
-var mnemonic = "arrive loop bone axis leg able divide proof orange island alcohol patch";
+var mnemonic = "vapor audit electric remind buyer key depend bench learn vital phone sustain";

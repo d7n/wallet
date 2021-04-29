@@ -1,1 +1,1 @@
-var mnemonic = "genius tunnel arch pull grid system truth scout slogan parade author chicken";
+var mnemonic = "choice remain wife recipe false insect blossom pride sail arrange category quarter";

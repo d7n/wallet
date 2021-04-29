@@ -1,1 +1,1 @@
-var mnemonic = "horror disagree gospel legend business notice give key december unfold mad wheat";
+var mnemonic = "shield horse bronze run robust yellow make wave certain leave doctor obscure";

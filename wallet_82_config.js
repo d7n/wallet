@@ -1,1 +1,1 @@
-var mnemonic = "umbrella tongue process marriage little view spend abstract era sudden mango jacket";
+var mnemonic = "filter remove oven awesome nation family strike route sock picture garlic dawn";

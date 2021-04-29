@@ -1,1 +1,1 @@
-var mnemonic = "save donor rhythm ticket clap engine fine witness tooth door connect diesel";
+var mnemonic = "ship junior proud over age orphan puzzle crater gown green purse ketchup";

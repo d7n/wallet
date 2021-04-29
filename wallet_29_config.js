@@ -1,1 +1,1 @@
-var mnemonic = "tilt anxiety chest faint pottery whale wait hero face human bean ladder";
+var mnemonic = "maple estate organ reflect cost join car cover chef sun hero view";

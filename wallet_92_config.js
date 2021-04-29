@@ -1,1 +1,1 @@
-var mnemonic = "gap practice deposit merry token coconut sound actual uncover gold army pulse";
+var mnemonic = "cancel frozen speed crawl empty solid genuine strike original whisper pond kangaroo";

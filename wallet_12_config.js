@@ -1,1 +1,1 @@
-var mnemonic = "breeze buddy seminar ignore parent suffer north below volcano ozone unusual apart";
+var mnemonic = "organ enough clump delay minimum actor combine bachelor pitch hint sheriff enhance";

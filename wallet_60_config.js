@@ -1,1 +1,1 @@
-var mnemonic = "fame rubber just suggest little eye dream random stay this illegal gas";
+var mnemonic = "fatigue genuine merit venture trumpet hidden poverty shell few slight buyer despair";

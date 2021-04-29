@@ -1,1 +1,1 @@
-var mnemonic = "heart pull mix garlic mention maple rude thing latin brass adjust ability";
+var mnemonic = "arctic empty weasel lounge usage have pigeon buffalo world biology spice parade";

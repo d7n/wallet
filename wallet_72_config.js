@@ -1,1 +1,1 @@
-var mnemonic = "huge pelican police fit flat flavor rotate cloth raven coffee bread will";
+var mnemonic = "gown talent brass imitate misery legend still tool when horse drum puppy";

@@ -1,1 +1,1 @@
-var mnemonic = "main honey vital mask wash lesson document disagree decrease uniform gasp vendor";
+var mnemonic = "shield toward blast enroll exit fury monitor anger rocket text crack uncover";

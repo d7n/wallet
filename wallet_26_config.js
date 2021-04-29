@@ -1,1 +1,1 @@
-var mnemonic = "good imitate hold soft lend size census learn lounge timber already pair";
+var mnemonic = "orphan speed news tip rival tank pretty eight era armor monkey fold";

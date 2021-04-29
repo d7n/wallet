@@ -1,1 +1,1 @@
-var mnemonic = "shiver illegal alone manage minor debris reopen hammer upgrade cannon inhale brain";
+var mnemonic = "switch verify calm coast ordinary consider hollow snap hill hub legal object";

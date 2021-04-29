@@ -1,1 +1,1 @@
-var mnemonic = "rigid ugly luggage coin toss pilot candy pet nothing chicken shift inside";
+var mnemonic = "receive decide cash glimpse cattle drink worry rapid mammal birth any cherry";

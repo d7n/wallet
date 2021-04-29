@@ -1,1 +1,1 @@
-var mnemonic = "frozen donkey aim buzz wild gauge dumb teach tooth alley virus tragic";
+var mnemonic = "firm clerk ecology park direct company throw afraid father mistake mix hurt";

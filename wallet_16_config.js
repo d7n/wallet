@@ -1,1 +1,1 @@
-var mnemonic = "spirit struggle salt reduce depart random snack item used finger column pudding";
+var mnemonic = "dice donor main crazy image slot dizzy olympic lawn collect asthma eight";

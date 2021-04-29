@@ -1,1 +1,1 @@
-var mnemonic = "hybrid reject walk name bullet tumble measure orange fabric session napkin stand";
+var mnemonic = "age question episode deer glad trip claim cricket blind math letter point";

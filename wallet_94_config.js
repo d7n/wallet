@@ -1,1 +1,1 @@
-var mnemonic = "shrimp security uniform bamboo range party boss pulse lady require lecture asthma";
+var mnemonic = "lyrics aim gas special need veteran taste broken world insane clarify diet";

@@ -1,1 +1,1 @@
-var mnemonic = "stand oval clump between tonight slight pool neutral adult boss expect violin";
+var mnemonic = "purse magnet proud almost column oak this best purpose direct table tilt";

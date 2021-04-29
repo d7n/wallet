@@ -1,1 +1,1 @@
-var mnemonic = "rural success stumble hurdle decade planet sell buzz census alpha moral upon";
+var mnemonic = "clump caution check velvet off egg sight flower express monster veteran addict";

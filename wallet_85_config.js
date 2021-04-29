@@ -1,1 +1,1 @@
-var mnemonic = "frozen mistake science glide bundle rapid prize fat pelican length actual dwarf";
+var mnemonic = "panel script clay unaware surround book define seven casino clever develop hub";

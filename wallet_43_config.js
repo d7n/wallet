@@ -1,1 +1,1 @@
-var mnemonic = "correct doll annual turtle joy second reveal fold chicken need gorilla cement";
+var mnemonic = "hammer crew sudden visa area adapt return skirt enjoy crisp buyer fork";

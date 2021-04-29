@@ -1,1 +1,1 @@
-var mnemonic = "sure clog pride wood forget olive excite math jazz fun rocket crop";
+var mnemonic = "faith sand amateur spatial cousin museum horse patrol subject robust venture clown";

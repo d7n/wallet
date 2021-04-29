@@ -1,1 +1,1 @@
-var mnemonic = "erode spider diamond wreck olympic panda diagram birth measure problem order height";
+var mnemonic = "popular size express uncover symptom popular wheat metal deny mom boost volume";

@@ -1,1 +1,1 @@
-var mnemonic = "spice man feed pattern bulb debate mass social multiply weasel cash usage";
+var mnemonic = "mesh yard hedgehog awake scan vast puppy assist core guess hire point";

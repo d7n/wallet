@@ -1,1 +1,1 @@
-var mnemonic = "mouse unaware change fortune beef badge polar smoke spike dolphin grid infant";
+var mnemonic = "radar hood course clip foster clip turn nerve knife solution alarm clay";

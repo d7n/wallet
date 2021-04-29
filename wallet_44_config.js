@@ -1,1 +1,1 @@
-var mnemonic = "real test hole good reject laugh tag praise supreme response panel garage";
+var mnemonic = "laugh attract rabbit wing service bus quantum sister tragic chef call board";

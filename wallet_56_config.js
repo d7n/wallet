@@ -1,1 +1,1 @@
-var mnemonic = "law term eye eager kitchen mango area emerge sound twelve airport shed";
+var mnemonic = "next dilemma athlete cricket cost humble auction blanket embody where brick tomato";

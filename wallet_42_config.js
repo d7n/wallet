@@ -1,1 +1,1 @@
-var mnemonic = "hip pistol return gift busy embrace gasp trumpet record bulk fiber amateur";
+var mnemonic = "shrug across damage danger under album bullet able love pear trophy boil";

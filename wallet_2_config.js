@@ -1,1 +1,1 @@
-var mnemonic = "rain dismiss century discover floor purse breeze assault stay absurd frog arrive";
+var mnemonic = "practice sail time smoke earn exclude leg desert sustain army assist obtain";

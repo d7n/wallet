@@ -1,1 +1,1 @@
-var mnemonic = "lumber major swear blame fashion wall test strike blast essence elbow attitude";
+var mnemonic = "dentist choose pink energy tool grab river safe buzz escape fluid fever";

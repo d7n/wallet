@@ -1,1 +1,1 @@
-var mnemonic = "guilt elite excite spatial else reveal mean because heart couple forum fat";
+var mnemonic = "wide cram oval erupt penalty swift bone dwarf subject forum island trouble";

@@ -1,1 +1,1 @@
-var mnemonic = "cabbage diesel trap glass embrace bring odor dawn only mass draw sadness";
+var mnemonic = "pet mass narrow vapor museum arena dragon lizard dish crowd relax arrange";

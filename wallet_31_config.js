@@ -1,1 +1,1 @@
-var mnemonic = "jeans glide maze scan lunar kite trumpet dad bullet super gasp acquire";
+var mnemonic = "whisper detail figure cheese stable oblige grace video regular inspire guess stadium";

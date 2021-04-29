@@ -1,1 +1,1 @@
-var mnemonic = "they brother marriage motor upon disorder verify post side cook stem foil";
+var mnemonic = "vital bid grace exit action describe apology leave destroy crack outer own";

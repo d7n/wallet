@@ -1,1 +1,1 @@
-var mnemonic = "upon observe same notable tourist promote sponsor tooth middle push risk nest";
+var mnemonic = "despair early mix barrel alert sort cube leg pistol coffee bless casino";

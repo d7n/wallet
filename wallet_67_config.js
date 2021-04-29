@@ -1,1 +1,1 @@
-var mnemonic = "area erosion there conduct cement symbol radar brave glove radio admit liquid";
+var mnemonic = "dish wrist task inside daughter add story rare vicious loud submit pistol";

@@ -1,1 +1,1 @@
-var mnemonic = "climb alley mask paddle green hub copper patrol subway mansion evidence garbage";
+var mnemonic = "federal color tail green weekend where fault address beauty pelican change swear";

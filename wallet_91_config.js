@@ -1,1 +1,1 @@
-var mnemonic = "inner fiber diagram tree injury trash crucial robust cinnamon build venture dynamic";
+var mnemonic = "vicious forum skull ask pride family try butter camera replace cigar blouse";

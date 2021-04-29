@@ -1,1 +1,1 @@
-var mnemonic = "craft crowd update diesel around rate eagle segment neither hire field level";
+var mnemonic = "solar coconut moment knee butter engine trash shoe security embark banana reveal";

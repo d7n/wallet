@@ -1,1 +1,1 @@
-var mnemonic = "scale gain taste license client expand toss cry sting purchase credit chest";
+var mnemonic = "blade oxygen whisper sugar oven whisper fringe next oyster tide nasty text";

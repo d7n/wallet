@@ -1,1 +1,1 @@
-var mnemonic = "loud foster trophy shuffle century scare case merit alcohol visit rebel dizzy";
+var mnemonic = "office bitter abuse extend gallery margin fresh cigar shove antenna cherry nothing";

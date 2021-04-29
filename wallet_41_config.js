@@ -1,1 +1,1 @@
-var mnemonic = "interest liar sauce sort night vote museum squirrel thumb gas coil wild";
+var mnemonic = "drift brief crew boat access save urban derive title blind pyramid action";

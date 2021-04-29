@@ -1,1 +1,1 @@
-var mnemonic = "report grit virtual valid transfer mammal cereal target hour toilet theory rapid";
+var mnemonic = "burst blue wine hair that tail broom flame lounge object already drum";

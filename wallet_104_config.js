@@ -1,1 +1,1 @@
-var mnemonic = "code icon glass plunge electric fantasy cannon clay impulse lecture survey palm";
+var mnemonic = "display teach vague add soul left battle portion grain gather cigar report";

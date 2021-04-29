@@ -1,1 +1,1 @@
-var mnemonic = "goddess open remind people hip hope mean student steel time subject pyramid";
+var mnemonic = "radio expand knee oval cupboard aware gift there share edge between addict";

@@ -1,1 +1,1 @@
-var mnemonic = "tank hard actor foam cause dream trick twelve couple twin hint midnight";
+var mnemonic = "tribe noodle consider satisfy quarter test chicken divide also blame object crush";

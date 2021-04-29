@@ -1,1 +1,1 @@
-var mnemonic = "bachelor stamp crouch edge oval nut secret gown flee grid jeans crack";
+var mnemonic = "gloom neglect stamp tunnel fault air knife sort trend rain summer knock";

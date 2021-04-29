@@ -1,1 +1,1 @@
-var mnemonic = "convince enrich history soccer easy scorpion whisper silver potato person giant aim";
+var mnemonic = "toward pact smooth keen churn now essay night icon saddle common color";

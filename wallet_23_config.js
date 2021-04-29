@@ -1,1 +1,1 @@
-var mnemonic = "vague damage extra mansion silver cook tag once winner reduce pride art";
+var mnemonic = "village lake ritual maple mad weird object foil grow rebel gasp spider";

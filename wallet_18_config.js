@@ -1,1 +1,1 @@
-var mnemonic = "output wool silk sweet trend urge vital between own deny pelican laundry";
+var mnemonic = "peanut typical guess street link quit hour test differ tribe disease shed";

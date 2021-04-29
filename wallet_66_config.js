@@ -1,1 +1,1 @@
-var mnemonic = "fish legal negative patient major road help opera ceiling blind output one";
+var mnemonic = "pact drive want habit hockey oil better position adapt rare silver close";

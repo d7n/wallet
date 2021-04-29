@@ -1,1 +1,1 @@
-var mnemonic = "vague push beef tank bike anxiety hen inch patient chaos ready pepper";
+var mnemonic = "situate frozen lottery monkey vapor gallery width call taste push unknown raise";

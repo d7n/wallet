@@ -1,1 +1,1 @@
-var mnemonic = "october rabbit park coral excess artefact toast laptop volume lens cry food";
+var mnemonic = "what blanket morning amused sell ridge fluid table emerge celery rate wife";

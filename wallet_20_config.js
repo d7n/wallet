@@ -1,1 +1,1 @@
-var mnemonic = "swamp panic stem merge future antique biology stage venue clean sphere cloth";
+var mnemonic = "trumpet type expire people grocery odor cannon afraid twelve sail eyebrow illness";

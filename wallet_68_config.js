@@ -1,1 +1,1 @@
-var mnemonic = "favorite math soul ship toddler valve struggle follow monitor mushroom prosper scare";
+var mnemonic = "open rate visit atom version emerge trend rich legal open enforce daring";

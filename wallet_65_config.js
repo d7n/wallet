@@ -1,1 +1,1 @@
-var mnemonic = "frequent predict system fabric title ribbon public skill grow fix easily myth";
+var mnemonic = "awkward rifle gate treat order lunch keen identify armor enlist kidney gallery";

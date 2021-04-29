@@ -1,1 +1,1 @@
-var mnemonic = "vendor insane crumble light need morning clog arrive fashion album letter suit";
+var mnemonic = "section cool animal draw scare actress seven game chunk silly approve cool";
