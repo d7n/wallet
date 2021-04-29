@@ -1,1 +1,1 @@
-var mnemonic = "state clever outside vocal popular lab ramp cake put slot item man";
+var mnemonic = "fashion slam ability shield siren ball donor truck harvest chimney slush once";

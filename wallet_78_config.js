@@ -1,1 +1,1 @@
-var mnemonic = "goose mango assume series web tragic mass such frozen unhappy observe bomb";
+var mnemonic = "vault total base chief pelican junk delay spin finish robust jewel learn";

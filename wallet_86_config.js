@@ -1,1 +1,1 @@
-var mnemonic = "year under modify flush charge ridge dinosaur option race obey popular excess";
+var mnemonic = "memory tornado exit weird hero giraffe hard job bid veteran skull tribe";

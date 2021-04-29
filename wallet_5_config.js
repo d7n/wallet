@@ -1,1 +1,1 @@
-var mnemonic = "deputy knock code involve unlock want device body fetch achieve alley once";
+var mnemonic = "sugar cricket friend garden essence slush romance hazard biology subject assist admit";

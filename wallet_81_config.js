@@ -1,1 +1,1 @@
-var mnemonic = "cry select horror broken dragon antique target crisp season wall feel diagram";
+var mnemonic = "seek cable helmet labor quantum aerobic basket inform utility physical popular october";

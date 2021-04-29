@@ -1,1 +1,1 @@
-var mnemonic = "affair dance finger basic expose guard effort one mobile bleak switch sand";
+var mnemonic = "angle close people smoke word people awesome pipe tree wide critic remain";

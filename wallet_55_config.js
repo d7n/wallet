@@ -1,1 +1,1 @@
-var mnemonic = "deliver cruise stadium digital win seat soon leopard visa fuel auto divide";
+var mnemonic = "reason guilt strategy stumble unique recycle improve enemy same pumpkin item later";

@@ -1,1 +1,1 @@
-var mnemonic = "aspect dust sustain certain canoe play gold build dove minute method kiss";
+var mnemonic = "gloom myself lemon ski route reward trouble glow spoon sense surround baby";

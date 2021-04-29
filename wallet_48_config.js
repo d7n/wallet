@@ -1,1 +1,1 @@
-var mnemonic = "roast turtle ship olympic also federal tool there uncover phrase observe coil";
+var mnemonic = "purse early seven remember cause roof lunch resemble trophy insane morning mushroom";

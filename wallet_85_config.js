@@ -1,1 +1,1 @@
-var mnemonic = "pyramid art unable fashion twenty foil venue found gasp major neutral virtual";
+var mnemonic = "strategy lunch oak large simple hand jealous panda piece slender swarm traffic";

@@ -1,1 +1,1 @@
-var mnemonic = "corn buyer also that double zone divert extend token gate wire shiver";
+var mnemonic = "differ need radar document tube thought work enact erosion heart fitness input";

@@ -1,1 +1,1 @@
-var mnemonic = "young jewel hold universe idea health mammal reopen crew short frost clean";
+var mnemonic = "scare satisfy outdoor code off oven bulk love border thought craft side";

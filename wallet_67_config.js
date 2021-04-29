@@ -1,1 +1,1 @@
-var mnemonic = "eager below lecture romance mandate average guard drama sister detail stock six";
+var mnemonic = "eight marriage spend giggle kiss unfold absurd grass solution write song venue";

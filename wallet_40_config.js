@@ -1,1 +1,1 @@
-var mnemonic = "attend primary review mountain caught fat angle art hover royal suggest harvest";
+var mnemonic = "benefit under spatial system tuna clutch film slot horn return holiday aim";

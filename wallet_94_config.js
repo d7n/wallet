@@ -1,1 +1,1 @@
-var mnemonic = "help season initial reflect ugly renew switch shallow coyote month reopen fame";
+var mnemonic = "element approve hero gun expose noise fork tomato find erode eyebrow visit";

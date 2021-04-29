@@ -1,1 +1,1 @@
-var mnemonic = "shaft rent crater leave clean crime document music scan wagon speak buffalo";
+var mnemonic = "food used wagon relief romance evolve lonely frequent success skirt fossil dad";

@@ -1,1 +1,1 @@
-var mnemonic = "garden taxi cheap enrich cram symptom jar admit attend balcony accuse leave";
+var mnemonic = "payment bottom inside goddess rely illegal replace rhythm snow section prize chef";

@@ -1,1 +1,1 @@
-var mnemonic = "night dose liquid forest rich work inner dune arctic paper random orange";
+var mnemonic = "ribbon dawn this dinner join depth tray purchase device road measure frown";

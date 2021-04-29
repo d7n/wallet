@@ -1,1 +1,1 @@
-var mnemonic = "auction once blur square drama notable cousin proof clever crater recycle dilemma";
+var mnemonic = "panic spice half display resemble dentist wage alley bike catalog deny uphold";

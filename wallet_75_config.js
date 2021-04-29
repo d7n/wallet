@@ -1,1 +1,1 @@
-var mnemonic = "wool cupboard smart spare bike grief ritual person wave cloud wine shrug";
+var mnemonic = "struggle west meat allow canvas someone jewel green scare version comfort balcony";

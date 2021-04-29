@@ -1,1 +1,1 @@
-var mnemonic = "planet rely web clay oxygen clown faculty predict trash circle vacuum pipe";
+var mnemonic = "hen twist hole people grief tobacco caution shift cabin echo squeeze version";

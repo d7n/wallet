@@ -1,1 +1,1 @@
-var mnemonic = "ceiling wild grant truly pumpkin scale like boy search engine funny true";
+var mnemonic = "dress prison profit kick helmet sugar dice produce push time zoo enter";

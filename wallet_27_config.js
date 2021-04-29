@@ -1,1 +1,1 @@
-var mnemonic = "cost divorce salon true neck input solid flash skirt pet elder pumpkin";
+var mnemonic = "throw slender blood have enable rose climb primary blind soap pony feed";

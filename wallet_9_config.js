@@ -1,1 +1,1 @@
-var mnemonic = "biology basket welcome thunder detail resemble trouble virus random truck bargain three";
+var mnemonic = "praise eight anger drama spawn project hazard tennis trigger tool amateur topple";

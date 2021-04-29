@@ -1,1 +1,1 @@
-var mnemonic = "seed gas deliver jewel phone peasant lake canoe april maze plunge cloud";
+var mnemonic = "hawk zero model polar earth cup frequent rescue coffee era room pulp";

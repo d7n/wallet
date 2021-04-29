@@ -1,1 +1,1 @@
-var mnemonic = "suit clap must fitness silver sustain shell jacket ritual tackle open fashion";
+var mnemonic = "shallow fetch grunt evoke mention summer episode release tired mobile bottom lemon";

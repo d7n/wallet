@@ -1,1 +1,1 @@
-var mnemonic = "scrap loyal dance attack pitch pulse parrot stable pride sting fall truth";
+var mnemonic = "puzzle divide peanut team tennis divorce poverty sell garment warfare hedgehog sphere";

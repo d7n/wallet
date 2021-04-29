@@ -1,1 +1,1 @@
-var mnemonic = "inform inch orbit street whisper pass various old slim access rally elbow";
+var mnemonic = "chuckle praise awake current burst trust carry web coil bomb slim garden";

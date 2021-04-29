@@ -1,1 +1,1 @@
-var mnemonic = "vital agent firm type olympic energy arch razor air poet hint bargain";
+var mnemonic = "april embrace buyer awake medal liar undo tray push force scorpion announce";

@@ -1,1 +1,1 @@
-var mnemonic = "ugly fiction vast depend cotton salon forest victory decade gospel female edge";
+var mnemonic = "innocent enjoy own follow deputy tackle flavor enough onion visa embark leopard";

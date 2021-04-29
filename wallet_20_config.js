@@ -1,1 +1,1 @@
-var mnemonic = "nothing smile forum jelly fiscal health guard fox love flush fiction aerobic";
+var mnemonic = "hungry able improve chalk decline caught extra fancy cost wing luxury cover";

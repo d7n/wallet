@@ -1,1 +1,1 @@
-var mnemonic = "service afraid ready lecture approve easy measure pitch moment woman zero chronic";
+var mnemonic = "life update swallow dance room evidence palace lawn cliff olive gift local";

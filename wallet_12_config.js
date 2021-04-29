@@ -1,1 +1,1 @@
-var mnemonic = "version grass original melody crater hub swim scheme sick air grass verify";
+var mnemonic = "able indoor tired wood volcano eager siege goat armor debate ethics peasant";

@@ -1,1 +1,1 @@
-var mnemonic = "leave quality predict wet useful churn maid total wire merge stadium leaf";
+var mnemonic = "card pepper immune predict planet fossil snap pave silver sick zone cash";

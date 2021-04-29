@@ -1,1 +1,1 @@
-var mnemonic = "six mirror ahead pyramid spare illegal sister room lunch damage blur repair";
+var mnemonic = "reject april prefer vocal spatial result foot mechanic walk festival february toast";

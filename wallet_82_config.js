@@ -1,1 +1,1 @@
-var mnemonic = "defy soul soldier jar blast prosper ghost glad movie truly flush useful";
+var mnemonic = "warm start bleak lawsuit extend excess half firm grid emotion gravity arch";

@@ -1,1 +1,1 @@
-var mnemonic = "limb sudden rare actress ivory exhibit mom clock mule giraffe lawsuit buffalo";
+var mnemonic = "quit cross build evoke empower lounge address pool eyebrow crush grief issue";

@@ -1,1 +1,1 @@
-var mnemonic = "swallow crumble december shy bottom cricket abstract video leave tonight ginger later";
+var mnemonic = "marriage gasp romance actual nothing horn seed retreat coast pact jump machine";

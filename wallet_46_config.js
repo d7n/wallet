@@ -1,1 +1,1 @@
-var mnemonic = "left insane debate ketchup fold leaf quit access ship neutral unaware fame";
+var mnemonic = "width sausage amateur energy begin plunge myth galaxy rough photo foam fabric";

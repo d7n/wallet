@@ -1,1 +1,1 @@
-var mnemonic = "envelope sunny item box club body category judge next badge hawk double";
+var mnemonic = "denial sing quarter hurry hunt during audit tail peace annual fish true";

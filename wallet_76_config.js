@@ -1,1 +1,1 @@
-var mnemonic = "brisk honey post bring winter library inhale sort beach sick good digital";
+var mnemonic = "half draw labor picnic insane quit make jar arch urban teach job";

@@ -1,1 +1,1 @@
-var mnemonic = "great limb wet agree solve inspire medal grow super birth sniff message";
+var mnemonic = "marriage video bid property loud amateur enlist crack salmon concert bone doctor";

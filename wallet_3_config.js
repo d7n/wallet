@@ -1,1 +1,1 @@
-var mnemonic = "praise neglect comfort chat kitchen spray link assault skull camp hidden scene";
+var mnemonic = "short can uniform mammal piano drop memory digital multiply rude film amused";

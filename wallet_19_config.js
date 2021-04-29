@@ -1,1 +1,1 @@
-var mnemonic = "ensure dose repair woman spin siege buddy record smile rose cancel prison";
+var mnemonic = "fuel setup cool hybrid ankle impulse vault oak student envelope amount autumn";

@@ -1,1 +1,1 @@
-var mnemonic = "dance certain curve behind early knee august volume expand vehicle clean empty";
+var mnemonic = "brick hard ability card elbow glass tiger panda comfort gaze machine tenant";

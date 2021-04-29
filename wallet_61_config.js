@@ -1,1 +1,1 @@
-var mnemonic = "engine square fatigue meat embark nasty virtual yellow salt ready glue rhythm";
+var mnemonic = "govern arrest view music cute mind wage dragon slab wonder cave goddess";

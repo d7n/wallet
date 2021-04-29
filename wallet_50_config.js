@@ -1,1 +1,1 @@
-var mnemonic = "filter crucial master luxury display mansion detect armor outside labor bleak limb";
+var mnemonic = "coil frequent never whale fresh grape trophy dream cupboard silent also federal";

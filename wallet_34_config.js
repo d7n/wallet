@@ -1,1 +1,1 @@
-var mnemonic = "mesh lucky account axis street question museum kite airport repair jelly reopen";
+var mnemonic = "neutral front fresh dune medal subway husband protect mansion lonely mirror foam";

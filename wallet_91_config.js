@@ -1,1 +1,1 @@
-var mnemonic = "tail close job orient step proof this aim garage monkey dice include";
+var mnemonic = "sample portion ask very print toward confirm interest survey traffic raw decorate";

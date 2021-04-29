@@ -1,1 +1,1 @@
-var mnemonic = "danger chaos elegant cross fury tilt ritual apple already region feed furnace";
+var mnemonic = "sphere glad merge goddess alarm cute dream cross future bitter visit slot";

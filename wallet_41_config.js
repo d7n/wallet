@@ -1,1 +1,1 @@
-var mnemonic = "elegant shine trick sadness input indicate appear pulp emerge tumble hobby attract";
+var mnemonic = "scare art history demise hole accident build girl wing define lazy lock";

@@ -1,1 +1,1 @@
-var mnemonic = "push menu chase have exchange receive inject subject plug minimum general enhance";
+var mnemonic = "travel kid angry nasty winner evil address mix document veteran nothing ill";

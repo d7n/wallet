@@ -1,1 +1,1 @@
-var mnemonic = "filter puppy medal debate under fiction ordinary this jacket elbow apology device";
+var mnemonic = "general member exotic cross reopen risk agent giant siren excite silk engine";

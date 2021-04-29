@@ -1,1 +1,1 @@
-var mnemonic = "super feature history crush test rule thank unlock beyond delay ozone saddle";
+var mnemonic = "bullet ghost such problem beach shell end trip mushroom sure expire half";

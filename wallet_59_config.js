@@ -1,1 +1,1 @@
-var mnemonic = "grit gossip reflect typical squeeze magic long salon tent wool must burden";
+var mnemonic = "problem mammal riot sound fame embrace unveil riot setup gate happy item";

@@ -1,1 +1,1 @@
-var mnemonic = "bag frozen bachelor defy test dust consider blood employ eager choice slice";
+var mnemonic = "skin duck step six ripple tooth orbit benefit fever mention wonder clog";

@@ -1,1 +1,1 @@
-var mnemonic = "because ranch giant scan canyon orient raccoon enact chicken trick help around";
+var mnemonic = "destroy trumpet plate faculty bike vessel nature fence tourist pact science promote";

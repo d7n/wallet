@@ -1,1 +1,1 @@
-var mnemonic = "candy seek swim garage clown admit bulk wave pepper dad finish strategy";
+var mnemonic = "casino group lock famous uphold repeat artist chair almost ivory real speed";

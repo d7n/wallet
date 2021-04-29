@@ -1,1 +1,1 @@
-var mnemonic = "hamster impose sock cake toe ribbon good flat drastic episode divert source";
+var mnemonic = "only awesome random chunk pact syrup artwork mad cactus siege idle cotton";

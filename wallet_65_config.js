@@ -1,1 +1,1 @@
-var mnemonic = "income axis only abuse announce tourist luggage urge stairs vendor stadium private";
+var mnemonic = "series diesel rice giggle safe panel female pave vehicle unfold valve castle";

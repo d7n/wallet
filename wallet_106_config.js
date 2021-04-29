@@ -1,1 +1,1 @@
-var mnemonic = "flag foster depend mom author scissors piece candy bring pumpkin one bench";
+var mnemonic = "pave demand success device spare abuse arctic snap wish market wear soft";

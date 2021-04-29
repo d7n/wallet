@@ -1,1 +1,1 @@
-var mnemonic = "prepare kitchen shield input wrist since weird sell label elder network hour";
+var mnemonic = "mix fat legend top grape umbrella empty grass install wisdom field bag";

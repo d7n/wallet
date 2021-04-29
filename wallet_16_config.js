@@ -1,1 +1,1 @@
-var mnemonic = "loop crack false often law uphold link melody author jewel sing jar";
+var mnemonic = "educate load leader swear unfair change wreck regret staff lend light toddler";

@@ -1,1 +1,1 @@
-var mnemonic = "they absurd position dash believe toddler segment reward render cousin hip panther";
+var mnemonic = "dose arch short north program cost random mad coconut wild slide siege";

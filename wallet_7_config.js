@@ -1,1 +1,1 @@
-var mnemonic = "celery foam foil front enemy february alone omit rather evil frost phone";
+var mnemonic = "breeze nose promote tip satisfy text essence hospital unlock sun patch oak";

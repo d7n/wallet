@@ -1,1 +1,1 @@
-var mnemonic = "hood say sort glad purpose eagle sail absorb spawn maximum wide joke";
+var mnemonic = "sniff kind liquid cram annual volume torch fluid spend equip embody pattern";

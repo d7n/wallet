@@ -1,1 +1,1 @@
-var mnemonic = "smart admit balcony correct thing diamond six kind subway outdoor picture come";
+var mnemonic = "pact term allow minor depend answer cheap absorb bone room great erupt";

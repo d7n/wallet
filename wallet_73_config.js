@@ -1,1 +1,1 @@
-var mnemonic = "sick lumber drift impose sample setup lobster start switch lift leaf among";
+var mnemonic = "simple labor magic clinic smile hazard kangaroo step cash chaos step depth";

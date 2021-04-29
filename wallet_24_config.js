@@ -1,1 +1,1 @@
-var mnemonic = "dune series scorpion brush slogan betray elite whip carry love inform squirrel";
+var mnemonic = "pact trap coffee setup judge true either attitude claw twelve under eight";

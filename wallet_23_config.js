@@ -1,1 +1,1 @@
-var mnemonic = "lucky dynamic circle capable mercy recall monster height access milk unit river";
+var mnemonic = "autumn stock resource asthma boring stay exile scissors fragile surface spawn romance";

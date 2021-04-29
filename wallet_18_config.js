@@ -1,1 +1,1 @@
-var mnemonic = "issue tomorrow oak erase luxury news escape drum monitor area half regret";
+var mnemonic = "scan bacon bag escape supreme energy slam joke decorate easy average galaxy";

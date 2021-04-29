@@ -1,1 +1,1 @@
-var mnemonic = "number recall rule potato right canvas cattle habit explain illegal trigger juice";
+var mnemonic = "drama pipe immense behave resist useless else song fatal high harsh furnace";

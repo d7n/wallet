@@ -1,1 +1,1 @@
-var mnemonic = "hawk fluid sunny patrol refuse sustain spoil bless cook hire total mango";
+var mnemonic = "obey skill stock shrug goddess play dress siren cherry nothing better tape";

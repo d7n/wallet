@@ -1,1 +1,1 @@
-var mnemonic = "valve brave direct cause gallery document decorate catch bone avoid latin unhappy";
+var mnemonic = "muffin swap monster mansion apology sugar kingdom ready acoustic year dress october";

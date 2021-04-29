@@ -1,1 +1,1 @@
-var mnemonic = "fault raccoon inner ball random trust front move rhythm energy feature equip";
+var mnemonic = "select march common wedding symbol payment margin inform afford culture bullet grape";

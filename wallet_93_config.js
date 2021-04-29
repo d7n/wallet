@@ -1,1 +1,1 @@
-var mnemonic = "rigid smart today rescue image task ahead guide photo dilemma ethics system";
+var mnemonic = "east focus ride spike ahead arm eternal ripple early season health enact";

@@ -1,1 +1,1 @@
-var mnemonic = "scrap pencil cradle dignity elbow marine pencil legal surface kind pudding swamp";
+var mnemonic = "render rate item clutch glimpse neither coach funny answer nation ball health";

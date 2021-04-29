@@ -1,1 +1,1 @@
-var mnemonic = "select caution cram casual fitness theme dress hazard divorce able label tent";
+var mnemonic = "talk lamp subway cup puppy below uphold define hamster combine forward supply";

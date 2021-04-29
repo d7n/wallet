@@ -1,1 +1,1 @@
-var mnemonic = "math glue bleak frown dutch diary stick abandon jaguar song mosquito lift";
+var mnemonic = "cook glance avoid sponsor umbrella meadow recipe token there surge idea frozen";

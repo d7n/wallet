@@ -1,1 +1,1 @@
-var mnemonic = "rubber squirrel skull during zone drill robot pioneer certain evolve member mad";
+var mnemonic = "unfold grief rapid hello differ doll mechanic own execute fault half elephant";

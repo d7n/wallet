@@ -1,1 +1,1 @@
-var mnemonic = "dust snow bright crowd wave coach maze elephant just degree person doctor";
+var mnemonic = "flight nominee fatal sauce proud food book ramp sniff pepper split middle";

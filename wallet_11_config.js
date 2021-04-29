@@ -1,1 +1,1 @@
-var mnemonic = "mention normal whale tray palace rail learn engine jaguar chase truth announce";
+var mnemonic = "earth fat renew ready width indicate walk caution surface attend snake spray";

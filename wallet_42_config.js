@@ -1,1 +1,1 @@
-var mnemonic = "smart stairs extend cart adapt black obscure chapter derive can drill thunder";
+var mnemonic = "hawk often remind picnic across lobster trouble order school blossom crew media";

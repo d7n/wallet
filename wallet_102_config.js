@@ -1,1 +1,1 @@
-var mnemonic = "stumble nut hobby artist damage team erode nice boy shoot public shallow";
+var mnemonic = "fantasy escape rice title install imitate flame bicycle ability valve anger snow";

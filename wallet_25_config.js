@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow solve lion swarm apology catalog flower flag crash master kitten sustain";
+var mnemonic = "lizard dance assume seat because recall sweet van habit orchard galaxy acquire";

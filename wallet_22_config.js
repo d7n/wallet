@@ -1,1 +1,1 @@
-var mnemonic = "range saddle nurse sword isolate bless fit castle neglect nasty access dilemma";
+var mnemonic = "blur rally food monitor few bargain snake social release pretty offer season";

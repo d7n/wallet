@@ -1,1 +1,1 @@
-var mnemonic = "inherit sign almost spend fiction grit demand exhibit hero acquire orbit script";
+var mnemonic = "torch segment load match oblige cart roast love intact catch decrease popular";

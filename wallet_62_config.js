@@ -1,1 +1,1 @@
-var mnemonic = "boat reform blame text park coffee pear flag drink grunt magnet world";
+var mnemonic = "diamond spatial shield prison pioneer apple rice great high dismiss also sustain";

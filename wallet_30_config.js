@@ -1,1 +1,1 @@
-var mnemonic = "hammer lemon field service dust worth tail urban use rely detect ordinary";
+var mnemonic = "such farm zero spoon ball hollow caution garbage airport slide isolate avocado";

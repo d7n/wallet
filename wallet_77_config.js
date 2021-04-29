@@ -1,1 +1,1 @@
-var mnemonic = "forward coffee hedgehog fortune impulse river identify animal wink frog lady ability";
+var mnemonic = "piece guitar action jelly vintage senior raven east check feature real leave";

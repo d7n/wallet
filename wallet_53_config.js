@@ -1,1 +1,1 @@
-var mnemonic = "offer cushion repeat return dinner kitchen visit govern movie answer base weekend";
+var mnemonic = "agree buyer man rent crane speak heart marriage decade analyst will lyrics";

@@ -1,1 +1,1 @@
-var mnemonic = "grass super century fine feature resist woman silent father will glide aware";
+var mnemonic = "seek patrol predict plunge hood squeeze genuine adjust equal mandate table live";
