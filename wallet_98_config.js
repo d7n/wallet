@@ -1,1 +1,1 @@
-var mnemonic = "fury goose giant awful nose pitch wire climb season siege lawsuit hard";
+var mnemonic = "please scale finish exhaust auction pluck walnut pluck aisle evoke solar dial";

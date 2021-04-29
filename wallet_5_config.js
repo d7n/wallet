@@ -1,1 +1,1 @@
-var mnemonic = "trust record diary exhaust behave mansion stage great topple legal desk upper";
+var mnemonic = "raise depart embody monster pig supreme chronic glove mask wasp column weasel";

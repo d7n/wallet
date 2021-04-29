@@ -1,1 +1,1 @@
-var mnemonic = "film host lend slender pumpkin drink repeat domain ice bronze point found";
+var mnemonic = "ankle right uphold gold must divide urban frequent unaware rigid nominee glove";

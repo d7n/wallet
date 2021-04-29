@@ -1,1 +1,1 @@
-var mnemonic = "child snack program imitate tribe flat atom bleak slam price faith issue";
+var mnemonic = "brisk bar wool link ticket mimic layer alarm measure human sport bacon";

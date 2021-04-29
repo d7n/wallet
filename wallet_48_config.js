@@ -1,1 +1,1 @@
-var mnemonic = "mesh certain stand release search solar goat domain match actor sock despair";
+var mnemonic = "owner grow eager west actor wrong book glow hen hobby birth employ";

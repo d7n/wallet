@@ -1,1 +1,1 @@
-var mnemonic = "mix flavor child panel allow correct tube verify acoustic citizen beach wagon";
+var mnemonic = "alter position solid slow life nerve alien glove spy party wave marble";

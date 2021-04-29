@@ -1,1 +1,1 @@
-var mnemonic = "junior sign void citizen dove capable pledge license weasel country special enemy";
+var mnemonic = "neck wall bacon canyon slot album robust trend festival endless garden wreck";

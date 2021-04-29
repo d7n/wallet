@@ -1,1 +1,1 @@
-var mnemonic = "exit quarter piano clever lend curious thing dress virtual urge base patch";
+var mnemonic = "trial artist vague retire drive never security web tackle street virtual minor";

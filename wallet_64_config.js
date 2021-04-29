@@ -1,1 +1,1 @@
-var mnemonic = "very bulb destroy eye hunt treat shell riot tumble hamster seek calm";
+var mnemonic = "since anger pond curious visa topple until achieve local clarify drive culture";

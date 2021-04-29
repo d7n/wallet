@@ -1,1 +1,1 @@
-var mnemonic = "sure joy side renew math announce video scatter solution tongue door roast";
+var mnemonic = "must fade flat seed clump jump present problem oppose ancient axis tiger";

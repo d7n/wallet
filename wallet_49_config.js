@@ -1,1 +1,1 @@
-var mnemonic = "island hazard maximum diesel country race path sea cricket owner tourist alpha";
+var mnemonic = "polar utility wire sing month among churn latin punch forget assume dress";

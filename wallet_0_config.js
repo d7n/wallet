@@ -1,1 +1,1 @@
-var mnemonic = "subway only hope jelly depth rhythm tackle wealth tone barely system write";
+var mnemonic = "vague knife leader reduce rail reason zoo flavor scare hour tongue capable";

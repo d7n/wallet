@@ -1,1 +1,1 @@
-var mnemonic = "tiger home double example sign fade outer deny hold share morning loan";
+var mnemonic = "happy action sight shoe shock cradle labor patient analyst cement wool alter";

@@ -1,1 +1,1 @@
-var mnemonic = "above rely list season fiber bacon typical awake mix celery across tuna";
+var mnemonic = "upgrade naive suit average source virtual equal couple verb practice camp lumber";

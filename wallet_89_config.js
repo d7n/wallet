@@ -1,1 +1,1 @@
-var mnemonic = "brief apple calm escape dutch novel assist jaguar chair trip point daughter";
+var mnemonic = "oblige equal polar thumb festival bronze chalk large retire series blade wink";

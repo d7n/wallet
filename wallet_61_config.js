@@ -1,1 +1,1 @@
-var mnemonic = "butter gravity tomorrow destroy parade average shed average mother will bleak public";
+var mnemonic = "primary explain fever extend tell icon apology sugar royal monitor absent stone";

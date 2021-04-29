@@ -1,1 +1,1 @@
-var mnemonic = "defy uncle rigid soul include buffalo civil web earn ignore scene possible";
+var mnemonic = "enough track mammal meadow crumble power erode twenty stomach exotic vacuum steel";

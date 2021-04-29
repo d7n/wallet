@@ -1,1 +1,1 @@
-var mnemonic = "sponsor vocal valid disagree pull regret moral better noble recall cigar impact";
+var mnemonic = "educate final cycle tomato butter unfair benefit three tunnel risk smile only";

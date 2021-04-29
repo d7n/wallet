@@ -1,1 +1,1 @@
-var mnemonic = "toy benefit minor tourist canvas mutual mention cause wing oblige draw renew";
+var mnemonic = "object style climb unhappy spring leave oven will bicycle scene fresh sad";

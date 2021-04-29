@@ -1,1 +1,1 @@
-var mnemonic = "define wild power toy hard tree wild train dolphin ask predict critic";
+var mnemonic = "scrap ghost before keep spatial suffer rural tide gold caught swim when";

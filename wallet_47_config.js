@@ -1,1 +1,1 @@
-var mnemonic = "luggage spoon ketchup panel mobile bean obey slight deliver repeat guard north";
+var mnemonic = "disorder west awake wise muscle tell turtle you wild around garbage much";

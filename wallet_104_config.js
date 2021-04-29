@@ -1,1 +1,1 @@
-var mnemonic = "review romance climb season mouse mix forest symbol tuna test vacant law";
+var mnemonic = "flip chuckle food aim voyage west sustain domain fee observe glory replace";

@@ -1,1 +1,1 @@
-var mnemonic = "buzz put ride scare observe orbit brother volume fee cargo risk foot";
+var mnemonic = "bundle cradle draft knee false unveil arrive wide ticket various achieve taste";

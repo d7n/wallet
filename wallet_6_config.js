@@ -1,1 +1,1 @@
-var mnemonic = "scare swim permit fade impose vintage average small damage web next afraid";
+var mnemonic = "uphold parade shrimp easily dial cloud language flat topic spend there glimpse";

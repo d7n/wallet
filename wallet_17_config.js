@@ -1,1 +1,1 @@
-var mnemonic = "walnut else kitten illegal spatial meat quiz yard hollow august siege crowd";
+var mnemonic = "visit erase liberty grunt lottery cat month heart visa above pencil develop";

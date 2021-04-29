@@ -1,1 +1,1 @@
-var mnemonic = "spoil bachelor visit toss fire actual digital memory stamp slogan dizzy word";
+var mnemonic = "rocket feel drop huge brown lion avocado save grunt office despair food";

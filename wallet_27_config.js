@@ -1,1 +1,1 @@
-var mnemonic = "thunder fun screen grape cloud comic actor run crater verify route execute";
+var mnemonic = "voice together recycle ensure absurd shift shove scan omit mandate horror despair";

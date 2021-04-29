@@ -1,1 +1,1 @@
-var mnemonic = "slush gas volume reopen price rally print fever party blue enrich stuff";
+var mnemonic = "circle unit remember topple success antenna merge corn damp banner scare short";

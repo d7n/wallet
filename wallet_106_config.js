@@ -1,1 +1,1 @@
-var mnemonic = "puppy busy garment romance canvas obscure tired oil rocket gallery scrap abandon";
+var mnemonic = "tomato common sound jacket accuse settle stable abuse aisle giraffe one home";

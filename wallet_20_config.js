@@ -1,1 +1,1 @@
-var mnemonic = "copper bar warm inmate genre certain oyster verb expand author pull panic";
+var mnemonic = "supreme bulb bean stick empty vivid modify detect require thank flee skull";

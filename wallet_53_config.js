@@ -1,1 +1,1 @@
-var mnemonic = "omit word ramp tent wreck better welcome stove tunnel fresh scout pony";
+var mnemonic = "inject autumn suspect later federal main stage original glide agent report man";

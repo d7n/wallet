@@ -1,1 +1,1 @@
-var mnemonic = "eight dwarf pluck grid output plastic write ripple bus amused song saddle";
+var mnemonic = "weasel push average absurd coconut slot hawk voice tilt embark safe flash";

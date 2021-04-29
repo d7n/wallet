@@ -1,1 +1,1 @@
-var mnemonic = "farm explain pretty emerge rude interest pupil claim surround dismiss clog blur";
+var mnemonic = "tuna home wisdom aware prepare increase inner syrup useful bird matter glass";

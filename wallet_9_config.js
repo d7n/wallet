@@ -1,1 +1,1 @@
-var mnemonic = "talk swarm weapon exhaust use banana pink lumber twenty fabric this play";
+var mnemonic = "pistol purse unable together visa math social rally someone horror grass rabbit";

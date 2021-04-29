@@ -1,1 +1,1 @@
-var mnemonic = "scissors young seat twenty barrel true left gold cereal avocado vehicle what";
+var mnemonic = "motor entire source column decorate diesel disease repeat general bubble theory sunset";

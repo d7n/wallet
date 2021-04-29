@@ -1,1 +1,1 @@
-var mnemonic = "soon impulse eyebrow buyer try kitchen panel crane various naive kiss grow";
+var mnemonic = "route bread federal dash kiss hint genre donate post boss uphold twenty";

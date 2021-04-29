@@ -1,1 +1,1 @@
-var mnemonic = "market potato impose bar raise kangaroo vacuum club spatial brush clap pepper";
+var mnemonic = "ethics laugh action wet satoshi loan churn strong chicken welcome awful share";

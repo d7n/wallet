@@ -1,1 +1,1 @@
-var mnemonic = "path upgrade bounce fluid glide nothing ladder cheap essay hello else purity";
+var mnemonic = "scare mushroom foster resist grab actor inflict silly wrong cool swallow camp";

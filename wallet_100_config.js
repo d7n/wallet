@@ -1,1 +1,1 @@
-var mnemonic = "depend vague culture wait evil cargo hold lounge dilemma all hurry aspect";
+var mnemonic = "jungle sheriff cloud quarter cloth blade trade fan broccoli attend dragon slide";

@@ -1,1 +1,1 @@
-var mnemonic = "merit clock metal master have prison bubble world hole multiply language shock";
+var mnemonic = "enemy crumble horn mammal north beauty exist office shock craft same hamster";

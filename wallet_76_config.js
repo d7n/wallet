@@ -1,1 +1,1 @@
-var mnemonic = "fan employ because friend what bitter alter piano hour weekend pudding theory";
+var mnemonic = "budget misery south business denial media robust bomb wash elbow pyramid split";

@@ -1,1 +1,1 @@
-var mnemonic = "noble increase pizza junk correct desert pelican hurry congress defense surround sea";
+var mnemonic = "ceiling sentence ten three unfold derive swing ice minimum crumble kid art";

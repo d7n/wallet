@@ -1,1 +1,1 @@
-var mnemonic = "damage birth left tragic tenant behave world ripple dignity happy defy garlic";
+var mnemonic = "metal intact guitar spread cup drama property zero coconut harvest crane keep";

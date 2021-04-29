@@ -1,1 +1,1 @@
-var mnemonic = "method degree warrior shell cube oblige choice rely minor hole come pigeon";
+var mnemonic = "hand one couch sketch fortune elder alarm transfer daring tourist work doll";

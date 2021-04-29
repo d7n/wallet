@@ -1,1 +1,1 @@
-var mnemonic = "seminar nice name occur include coyote truck market forget album weasel travel";
+var mnemonic = "mixture creek festival orange scissors ceiling vapor achieve rubber soap camp ski";

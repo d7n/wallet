@@ -1,1 +1,1 @@
-var mnemonic = "harbor jungle flock thrive junior praise steak trip dish decrease drama skate";
+var mnemonic = "wonder know capable human unlock shiver music fabric monkey rice head false";

@@ -1,1 +1,1 @@
-var mnemonic = "lizard enough task slow small ivory extra absent magnet roof since breeze";
+var mnemonic = "cousin naive illegal donkey ready chef initial clock vehicle hundred flame language";

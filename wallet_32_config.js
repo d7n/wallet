@@ -1,1 +1,1 @@
-var mnemonic = "river good actress page initial forward kind angry essence rough develop direct";
+var mnemonic = "soup must deal sunset card juice kiss sure spike tissue yellow point";

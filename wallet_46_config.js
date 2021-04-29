@@ -1,1 +1,1 @@
-var mnemonic = "bulb member trick forest remain search remain test rural chalk dolphin soap";
+var mnemonic = "typical victory provide weather cupboard country salute hope coin major place regret";

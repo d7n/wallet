@@ -1,1 +1,1 @@
-var mnemonic = "divide same range merge thunder blanket render decline carpet carbon diary gather";
+var mnemonic = "lesson eager caution sadness swift tree winter buddy join slim winter angry";

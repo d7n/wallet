@@ -1,1 +1,1 @@
-var mnemonic = "expose absurd armor scrap vicious embark goose cabin view small click damage";
+var mnemonic = "equip sugar mandate rely make trend expect bicycle burst faith bring kidney";

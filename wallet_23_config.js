@@ -1,1 +1,1 @@
-var mnemonic = "aspect foam feed mesh what elephant face drama illegal property turtle zero";
+var mnemonic = "drink size solution thunder market fiction word exile twelve valley donor fiscal";

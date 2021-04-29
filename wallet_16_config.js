@@ -1,1 +1,1 @@
-var mnemonic = "quarter parent sun number survey cargo decade hire picnic sell giraffe monkey";
+var mnemonic = "base over reunion juice enhance police version ready code bottom between actual";

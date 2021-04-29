@@ -1,1 +1,1 @@
-var mnemonic = "feature three miracle fatal dry fatigue fine face idea pelican power service";
+var mnemonic = "scare tissue drift observe coconut autumn vocal fog beef empower skill chase";

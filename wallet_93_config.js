@@ -1,1 +1,1 @@
-var mnemonic = "debate gorilla increase tribe leopard sunny unknown toast topic arrange mango sing";
+var mnemonic = "grass pulse hold embody that crime quick visit arrest stadium session dignity";

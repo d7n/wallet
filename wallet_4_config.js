@@ -1,1 +1,1 @@
-var mnemonic = "armed input dial health unveil depart funny peanut damp latin feature moment";
+var mnemonic = "soda rather quarter banner secret jelly radio focus essence moment security drill";

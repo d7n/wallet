@@ -1,1 +1,1 @@
-var mnemonic = "pepper picture help worry govern gym leisure device powder broken slush economy";
+var mnemonic = "install smart horn gym audit phone sail broom result quote spirit enemy";

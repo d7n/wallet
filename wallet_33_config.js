@@ -1,1 +1,1 @@
-var mnemonic = "surface consider profit add defense lawn noble mention business dawn drink impulse";
+var mnemonic = "boss marriage pet obscure where dwarf birth modify live wish regular check";

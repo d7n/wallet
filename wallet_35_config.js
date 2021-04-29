@@ -1,1 +1,1 @@
-var mnemonic = "core kitchen crawl assume error play tip essence chalk travel medal orange";
+var mnemonic = "advice dizzy tissue torch double drift december exhaust arrow raccoon wish scorpion";

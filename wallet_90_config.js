@@ -1,1 +1,1 @@
-var mnemonic = "health glance useless question easy crew uncle stand right play quote tooth";
+var mnemonic = "raccoon weasel victory unaware source foot rotate round monitor horror section orient";

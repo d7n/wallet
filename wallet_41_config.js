@@ -1,1 +1,1 @@
-var mnemonic = "develop reunion judge damage limb marble rhythm oyster inquiry nephew spice leopard";
+var mnemonic = "pill dignity zero unit scout payment awesome border lonely inject nice trophy";

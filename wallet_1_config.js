@@ -1,1 +1,1 @@
-var mnemonic = "job mask lens use scatter wash news switch extra purity spot sport";
+var mnemonic = "describe beyond job arrange muffin brand noble venture office visa stick hotel";

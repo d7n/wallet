@@ -1,1 +1,1 @@
-var mnemonic = "bulb border announce slice border turkey gather stool path moment enforce bench";
+var mnemonic = "cabin rib coconut patch elevator sister adult recall error bubble novel length";

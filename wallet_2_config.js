@@ -1,1 +1,1 @@
-var mnemonic = "notable venue shop fancy eternal double repeat elephant nice someone direct odor";
+var mnemonic = "inner educate quit cable approve bone suffer angle wool basket space sauce";

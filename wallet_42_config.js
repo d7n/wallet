@@ -1,1 +1,1 @@
-var mnemonic = "alley review decide jazz side nerve horn destroy slogan doctor snow love";
+var mnemonic = "skull notable monitor minimum wage change bench mass village kind trash copy";

@@ -1,1 +1,1 @@
-var mnemonic = "peace club peasant clutch man spice tornado mouse frog fame pet sand";
+var mnemonic = "neutral believe pig beauty rally rug pizza prosper keen lonely group mean";

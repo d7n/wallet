@@ -1,1 +1,1 @@
-var mnemonic = "family can type wife gorilla bitter dignity stay kid aunt poet chase";
+var mnemonic = "scissors diagram legend fuel immune tomorrow portion sound enroll prison gas nurse";

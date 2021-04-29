@@ -1,1 +1,1 @@
-var mnemonic = "tiger tissue olympic ketchup toilet inner shoot exhibit visit rescue pet false";
+var mnemonic = "patch network erase nerve poverty scan tip author uncover tribe legend sure";

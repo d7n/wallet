@@ -1,1 +1,1 @@
-var mnemonic = "relief monitor coral debate surface bird frown bulk ghost curtain upon utility";
+var mnemonic = "before monitor slim fringe choice gather corn supply melody liberty baby orange";

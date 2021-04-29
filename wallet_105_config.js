@@ -1,1 +1,1 @@
-var mnemonic = "loan large comic napkin final core liar expire tower destroy giraffe moon";
+var mnemonic = "nose focus ladder anger debris shallow already drop jar only circle ghost";

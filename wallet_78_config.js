@@ -1,1 +1,1 @@
-var mnemonic = "keen kiss frost mutual brisk empty rule input kiwi cargo target ugly";
+var mnemonic = "wagon quiz novel device biology cart grant egg seminar dress lens now";

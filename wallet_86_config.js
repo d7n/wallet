@@ -1,1 +1,1 @@
-var mnemonic = "edge stick switch crouch correct melody acquire candy report orange expect poverty";
+var mnemonic = "tattoo mammal mother fee recipe wrestle repeat sorry update pair heart science";

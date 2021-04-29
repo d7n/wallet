@@ -1,1 +1,1 @@
-var mnemonic = "thrive seed quote army robot captain address industry runway tomorrow glare either";
+var mnemonic = "differ person twist chicken hole glimpse toe glory quality census kid blanket";

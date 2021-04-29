@@ -1,1 +1,1 @@
-var mnemonic = "object slab panther brisk proof carpet aerobic speed human ahead draw plug";
+var mnemonic = "carry bachelor uphold quality educate fold ready problem snow runway gossip creek";

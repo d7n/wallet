@@ -1,1 +1,1 @@
-var mnemonic = "maple clip tray pyramid soft still opinion capable point banana mimic number";
+var mnemonic = "banana priority frown ribbon stay judge panel beauty gorilla final right chief";

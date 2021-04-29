@@ -1,1 +1,1 @@
-var mnemonic = "left shove leg sniff kid squeeze annual panic fuel eye ginger text";
+var mnemonic = "erase vicious mansion limit session utility much light inject fade athlete base";

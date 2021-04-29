@@ -1,1 +1,1 @@
-var mnemonic = "relax path owner crew entire way flower shuffle chase fun differ math";
+var mnemonic = "connect kitchen fuel rapid end opinion method hospital eagle wood motion brass";

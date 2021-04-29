@@ -1,1 +1,1 @@
-var mnemonic = "fun divorce run organ rare account elite awkward shiver useful hint welcome";
+var mnemonic = "excuse insane foster multiply agree ten box elbow pen saddle because grant";

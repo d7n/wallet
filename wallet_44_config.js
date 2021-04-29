@@ -1,1 +1,1 @@
-var mnemonic = "jacket emerge large flower clap guilt eyebrow lawsuit oven frequent day practice";
+var mnemonic = "dust stock tower derive ancient shell impose youth finish air require tank";

@@ -1,1 +1,1 @@
-var mnemonic = "slide crystal car general time three coil exile retreat legend expand diamond";
+var mnemonic = "symptom orbit smile during much crystal august nasty parent gym scale glue";

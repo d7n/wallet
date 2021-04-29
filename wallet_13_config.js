@@ -1,1 +1,1 @@
-var mnemonic = "case melody truly kind clean oven rent urge sad wreck brown wheel";
+var mnemonic = "reveal fruit donate offer salmon roast hour thumb assault peace give hand";

@@ -1,1 +1,1 @@
-var mnemonic = "rookie problem ordinary leader salute vote veteran universe paper salmon fame sing";
+var mnemonic = "diet diesel unit audit chalk receive vast excess add infant cliff debris";

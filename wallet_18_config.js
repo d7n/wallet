@@ -1,1 +1,1 @@
-var mnemonic = "upon climb equal dose survey life stadium afraid prefer food evoke joke";
+var mnemonic = "nerve clarify total type purity shine sweet trick flat cattle bitter depth";

@@ -1,1 +1,1 @@
-var mnemonic = "ecology abandon main immense illegal gloom below shaft casino nature someone asthma";
+var mnemonic = "sail heavy ship august tonight charge kiwi walk remove strong vendor movie";

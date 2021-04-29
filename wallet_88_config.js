@@ -1,1 +1,1 @@
-var mnemonic = "shallow need pool frame teach venture neutral banner scare bronze mammal crisp";
+var mnemonic = "foil deputy utility inspire shy void couple describe orbit sand quit object";

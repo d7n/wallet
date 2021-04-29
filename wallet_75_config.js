@@ -1,1 +1,1 @@
-var mnemonic = "come trip expose theory speak oppose whale shuffle capital north trust alert";
+var mnemonic = "describe great clarify view ask tackle easily never proud loud firm sample";

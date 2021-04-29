@@ -1,1 +1,1 @@
-var mnemonic = "math question wing bachelor matter degree velvet knee together license leisure chief";
+var mnemonic = "glove vehicle foster rent horn resemble image normal chair ceiling pottery stadium";

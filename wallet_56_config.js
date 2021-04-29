@@ -1,1 +1,1 @@
-var mnemonic = "aunt benefit vacuum reveal sustain material monitor odor grace business rival physical";
+var mnemonic = "fix donate chase away scan rose group slogan pig traffic print avocado";

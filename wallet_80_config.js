@@ -1,1 +1,1 @@
-var mnemonic = "jelly wreck biology zoo about penalty derive crane antenna gentle try liquid";
+var mnemonic = "mansion act corn immune undo cram mercy perfect brother hedgehog regular flash";

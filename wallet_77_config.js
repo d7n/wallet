@@ -1,1 +1,1 @@
-var mnemonic = "alter frozen empower fame arrest diary brass idea duty kite parent capital";
+var mnemonic = "diesel great dog purity talent breeze unknown aerobic section shrug brother useless";

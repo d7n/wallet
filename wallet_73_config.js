@@ -1,1 +1,1 @@
-var mnemonic = "boy proof awake palace copy pelican battle major noble slot picture antique";
+var mnemonic = "leisure impact alarm use unusual list nasty gas decline meat salute mean";

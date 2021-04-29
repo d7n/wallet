@@ -1,1 +1,1 @@
-var mnemonic = "bullet aisle oil peasant habit timber near orient fun raccoon series quote";
+var mnemonic = "input vacant video hurt vanish sheriff amateur sunny monkey sure portion saddle";

@@ -1,1 +1,1 @@
-var mnemonic = "adult shine crush leader inform index tag stove region basic suspect bicycle";
+var mnemonic = "hunt antenna bonus derive lend day quantum fabric van demise blast pact";

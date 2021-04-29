@@ -1,1 +1,1 @@
-var mnemonic = "grab slim army car clever balcony leader mystery rule forum lumber embark";
+var mnemonic = "sunny glue rate horn resist rose wonder lamp honey type whip reform";

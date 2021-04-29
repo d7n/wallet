@@ -1,1 +1,1 @@
-var mnemonic = "casino keep crew purpose travel coin hint slogan eight vibrant shoe believe";
+var mnemonic = "coast consider furnace worth report then rose ski put place brain author";

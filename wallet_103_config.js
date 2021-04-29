@@ -1,1 +1,1 @@
-var mnemonic = "rescue unit repair twenty emotion trick actress siege south flee enact adapt";
+var mnemonic = "glove cover stairs cradle tissue swift suspect unknown trumpet holiday rotate twelve";
