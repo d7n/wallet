@@ -1,1 +1,1 @@
-var mnemonic = "blood taste seven lava minute man blast poverty cart lazy noble input";
+var mnemonic = "exile ladder excuse moon celery fatal history scatter element pole duty unfair";

@@ -1,1 +1,1 @@
-var mnemonic = "syrup similar cherry play sad tattoo wealth venture trip bone foster crumble";
+var mnemonic = "talk indicate bench demise thank laptop awesome slush install friend property person";

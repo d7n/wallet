@@ -1,1 +1,1 @@
-var mnemonic = "desk dragon creek garage talk bracket unhappy shop cash canyon scan inch";
+var mnemonic = "prepare champion sorry voyage shy cancel protect afraid over call dragon demise";

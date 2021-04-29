@@ -1,1 +1,1 @@
-var mnemonic = "stem culture own arch occur correct still craft bike wolf climb fiber";
+var mnemonic = "judge daring flight seek outside hidden disagree wisdom depend invite emotion female";

@@ -1,1 +1,1 @@
-var mnemonic = "van stand bomb worry twelve easy champion used pigeon chunk onion candy";
+var mnemonic = "fortune weird fatigue lobster aerobic burst resist hedgehog employ gravity track eagle";

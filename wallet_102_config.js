@@ -1,1 +1,1 @@
-var mnemonic = "nominee left elbow sound drop toward area dawn loan example normal only";
+var mnemonic = "awkward scare swim alone detail puppy tree jeans priority shoe host wife";

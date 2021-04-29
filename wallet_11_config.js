@@ -1,1 +1,1 @@
-var mnemonic = "alert custom artist reject stage around host fork off dash siren throw";
+var mnemonic = "decide acquire basket office pact twist atom casual fork spell maid dress";

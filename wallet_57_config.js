@@ -1,1 +1,1 @@
-var mnemonic = "intact tree thunder lucky camera thought goose quick few charge salon laugh";
+var mnemonic = "key gas honey adapt bird number inmate rescue cancel capable poem turkey";

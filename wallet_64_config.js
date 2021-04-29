@@ -1,1 +1,1 @@
-var mnemonic = "effort amazing planet height creek spell wolf version salmon afraid caught viable";
+var mnemonic = "toddler inquiry learn unlock decade anxiety road despair shuffle aisle resist scene";

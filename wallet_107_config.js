@@ -1,1 +1,1 @@
-var mnemonic = "scout immense fine fork hedgehog uniform before dice provide friend silly mosquito";
+var mnemonic = "elite whip push still language broccoli guess century glow host pause future";

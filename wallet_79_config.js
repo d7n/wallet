@@ -1,1 +1,1 @@
-var mnemonic = "cricket exotic victory crunch run census tunnel together fantasy major toe resist";
+var mnemonic = "knee festival puzzle dance hamster cave delay chaos fan worth syrup drill";

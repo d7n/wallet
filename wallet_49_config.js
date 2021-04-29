@@ -1,1 +1,1 @@
-var mnemonic = "exile hen arctic palm artwork popular region pact soul rookie obvious sample";
+var mnemonic = "aim dragon oval hedgehog unhappy comfort fetch ceiling tonight mechanic outside chapter";

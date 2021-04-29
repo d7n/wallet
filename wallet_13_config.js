@@ -1,1 +1,1 @@
-var mnemonic = "razor control ability family turkey amazing alter kid palm hold twice vehicle";
+var mnemonic = "survey social salt slide sunset dragon mass prefer bottom list learn inner";

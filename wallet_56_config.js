@@ -1,1 +1,1 @@
-var mnemonic = "early dwarf beyond stuff devote tonight survey venture fancy never person permit";
+var mnemonic = "coyote output ketchup aunt miracle tip raise cycle pair black hub rival";

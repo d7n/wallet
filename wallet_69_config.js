@@ -1,1 +1,1 @@
-var mnemonic = "return connect plate dismiss awake seek casino relax foot century bargain merit";
+var mnemonic = "laptop volcano impact kid parade desk letter neither city switch oxygen pipe";

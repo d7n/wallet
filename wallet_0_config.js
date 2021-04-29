@@ -1,1 +1,1 @@
-var mnemonic = "room sponsor tragic stick junior degree rather lamp winner whisper party try";
+var mnemonic = "delay divorce spirit hand client toe eyebrow soldier gorilla ship item unique";

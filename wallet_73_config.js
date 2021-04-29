@@ -1,1 +1,1 @@
-var mnemonic = "inhale grief civil ozone grit network sand gown wave salmon valve begin";
+var mnemonic = "concert polar finger violin market purpose token bean ribbon scare little desk";

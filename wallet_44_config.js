@@ -1,1 +1,1 @@
-var mnemonic = "address caught wait vehicle party excess inner cheap shift inside giraffe lucky";
+var mnemonic = "steel gun shuffle picture canyon cruise car bleak program sail earth opinion";

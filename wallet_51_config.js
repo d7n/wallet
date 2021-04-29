@@ -1,1 +1,1 @@
-var mnemonic = "wonder filter series deal web cute rescue pulse father floor advance neck";
+var mnemonic = "flight rally before cruel property clip wide leisure volume among memory sock";

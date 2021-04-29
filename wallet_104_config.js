@@ -1,1 +1,1 @@
-var mnemonic = "allow replace near donate urge path wrestle draw shock skate cram math";
+var mnemonic = "address excuse wrestle record subject select call present security sponsor kiss insect";

@@ -1,1 +1,1 @@
-var mnemonic = "firm wait picnic guitar define noble slush above ship crush matrix steak";
+var mnemonic = "expand forget accuse couch reveal double bargain jaguar sort brown found spike";

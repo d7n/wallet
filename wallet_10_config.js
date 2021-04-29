@@ -1,1 +1,1 @@
-var mnemonic = "round neutral half lion miss runway dolphin badge green wasp already six";
+var mnemonic = "pencil cream horn cushion decide parrot slice pipe armed owner sadness maple";

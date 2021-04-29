@@ -1,1 +1,1 @@
-var mnemonic = "ethics planet slim quantum pumpkin laptop achieve raise trumpet bring elephant thank";
+var mnemonic = "match horn agree awkward fitness spatial gap patient female begin swamp regular";

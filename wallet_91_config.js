@@ -1,1 +1,1 @@
-var mnemonic = "orphan brick shell result seven smart nurse promote food bronze require worth";
+var mnemonic = "history poet join century head quote angle expose course attitude lyrics unaware";

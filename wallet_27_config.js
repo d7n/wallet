@@ -1,1 +1,1 @@
-var mnemonic = "brand mystery dumb bitter shove ribbon repeat wink famous leopard retreat viable";
+var mnemonic = "fly slow lab toilet abandon jealous drip uniform brave snow venture topple";

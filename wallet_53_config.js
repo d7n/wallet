@@ -1,1 +1,1 @@
-var mnemonic = "cool raise replace say endless cabbage modify topple moon into gift wet";
+var mnemonic = "concert volcano churn dose mechanic tree wash rent congress rich economy among";

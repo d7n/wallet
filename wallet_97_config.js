@@ -1,1 +1,1 @@
-var mnemonic = "hen phone human dizzy gather place stone write edit fitness lift result";
+var mnemonic = "whip list salt scale alert fall execute link tuna grape hamster cruel";

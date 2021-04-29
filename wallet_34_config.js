@@ -1,1 +1,1 @@
-var mnemonic = "surface bachelor around under stairs level giant deposit winter crane evoke enroll";
+var mnemonic = "grunt network action heavy large mobile tonight naive notable tunnel celery industry";

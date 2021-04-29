@@ -1,1 +1,1 @@
-var mnemonic = "fault total artist ritual curve sibling vintage hazard develop hedgehog together silver";
+var mnemonic = "ridge connect tuition enough second use sister inject long wedding post dog";

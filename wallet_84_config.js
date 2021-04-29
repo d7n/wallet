@@ -1,1 +1,1 @@
-var mnemonic = "earth easily answer rose erode used cluster census relief consider high faith";
+var mnemonic = "cradle code bunker vanish differ stereo spy book ensure woman magnet math";

@@ -1,1 +1,1 @@
-var mnemonic = "arrow decade surprise connect wrong earn escape siren fence floor pet mask";
+var mnemonic = "emerge summer budget foam hospital approve tide goose canvas ceiling start praise";

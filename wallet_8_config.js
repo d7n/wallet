@@ -1,1 +1,1 @@
-var mnemonic = "beach visit shrimp blanket edge urban super chronic color top pull ordinary";
+var mnemonic = "merry casual exile ocean private shove finger rough asset fall rather split";

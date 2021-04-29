@@ -1,1 +1,1 @@
-var mnemonic = "horror melt large either typical enlist galaxy fetch bubble rail shaft smile";
+var mnemonic = "couch limit guide power canyon shiver silk auction evoke state tenant story";

@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow situate half harsh energy find round gallery small tube clump glide";
+var mnemonic = "believe buffalo submit toss december panic loyal bachelor satoshi west uncle donate";

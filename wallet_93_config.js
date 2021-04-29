@@ -1,1 +1,1 @@
-var mnemonic = "stage know biology material pool buzz vessel veteran will broom inject garbage";
+var mnemonic = "west moral visa domain crime peasant accident torch play glow animal vibrant";

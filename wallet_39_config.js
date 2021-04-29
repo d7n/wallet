@@ -1,1 +1,1 @@
-var mnemonic = "manage convince snack floor royal sauce enhance lyrics mail pistol salon gauge";
+var mnemonic = "leader cabin practice tree short weekend glad juice update cry cat depart";

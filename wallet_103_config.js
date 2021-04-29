@@ -1,1 +1,1 @@
-var mnemonic = "control innocent phone wrong clinic apart follow wing marine solar produce orient";
+var mnemonic = "column fox exclude magnet sheriff plunge ready extend carry neutral nominee pledge";

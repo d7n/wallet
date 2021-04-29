@@ -1,1 +1,1 @@
-var mnemonic = "rate seminar napkin choice mutual neutral snow involve gain fossil congress broom";
+var mnemonic = "cave present chimney vacant warfare trip claim orange tissue sniff bounce civil";

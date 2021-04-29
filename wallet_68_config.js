@@ -1,1 +1,1 @@
-var mnemonic = "step step glue lumber near stone true unveil copy athlete athlete foot";
+var mnemonic = "script rifle jewel home color thunder derive dish dynamic turn baby wing";

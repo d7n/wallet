@@ -1,1 +1,1 @@
-var mnemonic = "asset clog planet pass what ankle dad drive ahead damage dutch mail";
+var mnemonic = "pair session stamp drift bulk current brass ocean mobile nerve join range";

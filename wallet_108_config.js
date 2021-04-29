@@ -1,1 +1,1 @@
-var mnemonic = "light crane flash eagle program expect ladder safe unfair dilemma defy case";
+var mnemonic = "scene ladder arrest pizza laugh celery favorite submit end mansion churn green";

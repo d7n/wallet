@@ -1,1 +1,1 @@
-var mnemonic = "hidden chaos village extend acquire bachelor fame margin adjust begin crawl vessel";
+var mnemonic = "famous buyer reject soul code fame weather hazard devote curve decorate deposit";

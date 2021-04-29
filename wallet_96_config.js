@@ -1,1 +1,1 @@
-var mnemonic = "apart initial hair gauge board cram kingdom worry congress soda bacon present";
+var mnemonic = "firm distance year daughter wink atom main shoe eye north kingdom hobby";

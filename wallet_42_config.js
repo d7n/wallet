@@ -1,1 +1,1 @@
-var mnemonic = "pause real pet fetch light vital menu very obscure post casual pave";
+var mnemonic = "smoke hold afford sniff strong diet improve version more sample august stove";

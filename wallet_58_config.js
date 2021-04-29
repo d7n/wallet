@@ -1,1 +1,1 @@
-var mnemonic = "language iron reopen depart february kangaroo begin wait scorpion resist wood silver";
+var mnemonic = "motion quiz carpet stone physical hazard segment rail ivory message inject galaxy";

@@ -1,1 +1,1 @@
-var mnemonic = "such daughter tilt oil lounge agent airport title year nuclear install tuna";
+var mnemonic = "fix mosquito crawl brand youth unable dash kit tuition hard bargain milk";

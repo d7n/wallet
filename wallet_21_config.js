@@ -1,1 +1,1 @@
-var mnemonic = "smoke lonely appear hockey skate empower close space grunt help gloom beyond";
+var mnemonic = "script design deputy dune believe trial wrap squeeze monster float scene script";

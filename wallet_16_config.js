@@ -1,1 +1,1 @@
-var mnemonic = "atom ivory differ napkin bird post shine crucial electric forum such exhibit";
+var mnemonic = "aware faith custom curious curve alarm split cargo zoo power relief poverty";

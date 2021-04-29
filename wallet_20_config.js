@@ -1,1 +1,1 @@
-var mnemonic = "armed vendor seat orient remind vapor ramp clock saddle permit clinic razor";
+var mnemonic = "that rescue network orchard stairs pole inhale fog detect grid tube sick";

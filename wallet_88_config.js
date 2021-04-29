@@ -1,1 +1,1 @@
-var mnemonic = "busy tuition confirm effort firm where run drift royal evoke simple answer";
+var mnemonic = "come lucky element fatigue episode rate girl punch story apple face pupil";

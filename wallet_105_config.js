@@ -1,1 +1,1 @@
-var mnemonic = "any green tattoo novel transfer raven hover task smile laundry draw patient";
+var mnemonic = "rib silent result multiply payment soccer melody nation oak faculty cargo blame";

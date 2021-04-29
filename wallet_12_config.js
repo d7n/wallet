@@ -1,1 +1,1 @@
-var mnemonic = "midnight success audit fitness quarter maid tone pelican refuse kick error hip";
+var mnemonic = "order misery decade pink grain now tumble asthma time fly pill idle";

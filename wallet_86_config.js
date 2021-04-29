@@ -1,1 +1,1 @@
-var mnemonic = "blood quick because pig resemble shoulder wool tool genuine edit mother length";
+var mnemonic = "tribe gain deliver print river gravity grief connect insect decrease suit stand";

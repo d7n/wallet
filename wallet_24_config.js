@@ -1,1 +1,1 @@
-var mnemonic = "gesture cabbage pond robot pulp jealous art leisure economy dice monitor retreat";
+var mnemonic = "reflect uniform armor ridge grocery great reward merit young wreck artist endorse";

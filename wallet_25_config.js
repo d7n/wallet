@@ -1,1 +1,1 @@
-var mnemonic = "spider stadium father crack plastic walnut draft limit unaware arch diesel worth";
+var mnemonic = "shove genius three need mirror hammer indoor garden universe bounce sniff advance";

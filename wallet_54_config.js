@@ -1,1 +1,1 @@
-var mnemonic = "portion donor garden knee else truly street forward catalog ribbon purpose annual";
+var mnemonic = "useful truly ribbon bus vendor reopen hamster olympic quit wink master smoke";

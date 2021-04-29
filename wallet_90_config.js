@@ -1,1 +1,1 @@
-var mnemonic = "release latin chuckle output wood modify solar toast stool oak gold brisk";
+var mnemonic = "buyer flame language gift mobile clay rebel sea section range vivid gaze";

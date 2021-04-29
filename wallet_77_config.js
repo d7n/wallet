@@ -1,1 +1,1 @@
-var mnemonic = "phone shaft neglect frozen maze galaxy guess stick theme uphold cloth walk";
+var mnemonic = "east coil eyebrow reflect target strategy better once right wool toward river";

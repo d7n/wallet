@@ -1,1 +1,1 @@
-var mnemonic = "head glue torch kind patrol ice that weasel head tell armor fossil";
+var mnemonic = "client alert insect finish tree tube half season come appear quiz method";

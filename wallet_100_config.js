@@ -1,1 +1,1 @@
-var mnemonic = "cover joy luxury over glide mule wait name clever element merry cram";
+var mnemonic = "panther cruel annual sorry deal bridge invite slender filter possible jacket off";

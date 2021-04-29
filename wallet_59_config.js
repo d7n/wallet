@@ -1,1 +1,1 @@
-var mnemonic = "mandate under boring rich harbor find impulse blanket shoe alien nothing resist";
+var mnemonic = "tonight slot act submit mutual degree width document comic head globe unfair";

@@ -1,1 +1,1 @@
-var mnemonic = "melt craft peace agree layer thrive huge tape budget deal echo must";
+var mnemonic = "pony whip school laundry myself alien shift flower since fun gap category";

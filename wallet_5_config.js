@@ -1,1 +1,1 @@
-var mnemonic = "rely pledge float multiply trumpet one into acquire electric illness muscle screen";
+var mnemonic = "milk cycle hybrid section upgrade crouch unusual liberty idea deer whale van";

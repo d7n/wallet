@@ -1,1 +1,1 @@
-var mnemonic = "stool neutral race oak elephant shiver border market have cruise face donkey";
+var mnemonic = "already unusual design shallow penalty author draw manual mirror divorce pistol image";

@@ -1,1 +1,1 @@
-var mnemonic = "december spider achieve lucky smile gospel myth vanish silver hat vanish body";
+var mnemonic = "favorite already blind sketch stumble someone soap floor message prison present anger";

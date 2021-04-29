@@ -1,1 +1,1 @@
-var mnemonic = "split control dynamic dilemma shove mosquito among actress patrol cross smile early";
+var mnemonic = "year guilt trip quick jelly pet beauty decade need north eyebrow uncle";

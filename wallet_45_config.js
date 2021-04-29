@@ -1,1 +1,1 @@
-var mnemonic = "income fruit social sheriff owner cannon lottery word song outdoor finish theme";
+var mnemonic = "limb beauty worry speed wine island rich mail they tenant steel urge";

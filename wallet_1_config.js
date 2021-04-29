@@ -1,1 +1,1 @@
-var mnemonic = "wrap render cinnamon van two vast album gain evolve dawn park error";
+var mnemonic = "risk gallery act truck fancy utility sand deposit crime chair silent add";

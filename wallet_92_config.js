@@ -1,1 +1,1 @@
-var mnemonic = "ivory tray cram globe hawk swing senior cool twenty cousin spare return";
+var mnemonic = "glide hood salute truth lion poverty height target uncover move spoon rough";

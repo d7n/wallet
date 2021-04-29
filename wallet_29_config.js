@@ -1,1 +1,1 @@
-var mnemonic = "correct quarter wealth office divert need basket hawk fiscal casino educate avoid";
+var mnemonic = "make engage usual globe urge answer law style minute remind service regular";

@@ -1,1 +1,1 @@
-var mnemonic = "response lens praise harbor network absent shaft snow jacket warrior rose rug";
+var mnemonic = "warrior man biology shallow punch image field appear stove eternal begin toilet";

@@ -1,1 +1,1 @@
-var mnemonic = "street cousin tone text atom child solution fury journey culture tail electric";
+var mnemonic = "glad manual planet kit believe general nasty insane quarter jungle kiwi torch";

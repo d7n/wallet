@@ -1,1 +1,1 @@
-var mnemonic = "laundry fiction interest rocket liar keep faint reason sell vanish radar cabbage";
+var mnemonic = "spread ostrich truth logic panel across dove all dad zero sort select";

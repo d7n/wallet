@@ -1,1 +1,1 @@
-var mnemonic = "canvas goose smart try light cigar crucial fire wait leisure embrace usual";
+var mnemonic = "divert survey crouch carbon banana violin bacon menu silver hurdle side farm";

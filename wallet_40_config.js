@@ -1,1 +1,1 @@
-var mnemonic = "grief mention diet mutual dance visit bounce found angry clump glide debate";
+var mnemonic = "ship nephew salon genuine awake idle village dinner federal scout poet bottom";

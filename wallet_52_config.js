@@ -1,1 +1,1 @@
-var mnemonic = "win ship canyon assume crawl used mule top obey swarm welcome enroll";
+var mnemonic = "shift own scene random appear three correct fold govern plunge fury sell";

@@ -1,1 +1,1 @@
-var mnemonic = "snap deal throw breeze resist safe distance cause company domain symptom humble";
+var mnemonic = "beauty pitch pepper impulse dismiss physical wagon rocket soccer crisp coyote vessel";

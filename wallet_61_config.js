@@ -1,1 +1,1 @@
-var mnemonic = "early tooth salute evidence aerobic film hip unknown wash suffer rice magnet";
+var mnemonic = "lumber whale degree release tackle join wing topic fiscal harsh nerve traffic";

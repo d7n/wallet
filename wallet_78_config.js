@@ -1,1 +1,1 @@
-var mnemonic = "else cheap sting spice stand avoid split slot alarm degree enforce make";
+var mnemonic = "three lumber erupt prepare today soldier silver when tumble imitate animal loyal";

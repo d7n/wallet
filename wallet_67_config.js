@@ -1,1 +1,1 @@
-var mnemonic = "member gaze hire trap puppy stool tongue rely cat promote item elder";
+var mnemonic = "snow shield program crime stand then original original play must van famous";

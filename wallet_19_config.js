@@ -1,1 +1,1 @@
-var mnemonic = "other rocket tell smooth legal agent wild mutual apology loud hotel blind";
+var mnemonic = "topple bench voyage volcano craft segment audit heart already banner toy engage";

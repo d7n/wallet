@@ -1,1 +1,1 @@
-var mnemonic = "input addict slot impact alpha awake differ lazy achieve rural dutch then";
+var mnemonic = "baby begin state sport learn pioneer liquid canvas panic drift gasp clean";

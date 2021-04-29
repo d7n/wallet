@@ -1,1 +1,1 @@
-var mnemonic = "jacket rhythm join glance palm dry robot other enemy true gadget dignity";
+var mnemonic = "foam output jeans consider penalty patrol second aspect casino mom yellow swallow";

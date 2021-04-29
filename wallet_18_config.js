@@ -1,1 +1,1 @@
-var mnemonic = "clump cash melody organ mutual dress mansion execute illegal surround flight door";
+var mnemonic = "journey cheese slot case hybrid chat blush shoulder random awkward police swap";

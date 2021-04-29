@@ -1,1 +1,1 @@
-var mnemonic = "aware panda enemy brick arm reward much fluid curve mammal fan noble";
+var mnemonic = "taste alarm special bicycle ensure dress capable lens reason dumb cram tiger";

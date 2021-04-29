@@ -1,1 +1,1 @@
-var mnemonic = "mammal jungle scan situate exist enlist large file key vacuum person entry";
+var mnemonic = "dumb renew luxury shoulder note begin master humor album surface game poverty";

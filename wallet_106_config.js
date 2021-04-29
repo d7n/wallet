@@ -1,1 +1,1 @@
-var mnemonic = "member you chair virus bless reopen praise decline proud pond gap cotton";
+var mnemonic = "gold ring medal rely prefer chef dream erupt nasty cigar suspect false";

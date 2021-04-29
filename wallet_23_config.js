@@ -1,1 +1,1 @@
-var mnemonic = "ladder mad verify table fine pepper regret blame chunk dance tumble sick";
+var mnemonic = "play term supreme buffalo client slender spot elephant blush egg nature tattoo";

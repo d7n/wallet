@@ -1,1 +1,1 @@
-var mnemonic = "patch hurdle fog gate scatter mouse fee mom large tuition smooth club";
+var mnemonic = "kitten before congress unique brain canoe code clog common brass core perfect";

@@ -1,1 +1,1 @@
-var mnemonic = "segment festival injury crush guilt miss van series bunker stairs random piece";
+var mnemonic = "degree hen vacant obvious erupt valve artist seed click march dumb spread";

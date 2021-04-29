@@ -1,1 +1,1 @@
-var mnemonic = "motion bread letter sorry glad tourist real veteran wool satoshi raven minimum";
+var mnemonic = "range normal shoe youth uncover athlete copy access gloom cable only market";

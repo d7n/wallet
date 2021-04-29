@@ -1,1 +1,1 @@
-var mnemonic = "mass exile garage apple city liar very enhance diesel gap burden wheel";
+var mnemonic = "side master lyrics large limb cube snow tuna potato feature muffin nature";

@@ -1,1 +1,1 @@
-var mnemonic = "robust summer universe thing tide honey forget acquire bird pink dwarf sketch";
+var mnemonic = "rigid gasp avocado harbor vote cargo silver menu goddess trip enough dirt";

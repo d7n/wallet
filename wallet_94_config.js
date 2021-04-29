@@ -1,1 +1,1 @@
-var mnemonic = "salmon owner certain unhappy glue exile torch explain six office fence note";
+var mnemonic = "immune tunnel female school critic recipe interest spy region year umbrella section";

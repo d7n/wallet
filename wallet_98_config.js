@@ -1,1 +1,1 @@
-var mnemonic = "symptom bread nurse bachelor dose produce road candy gravity derive index daughter";
+var mnemonic = "atom grid rough sunny point arm dawn chalk attract neglect teach intact";

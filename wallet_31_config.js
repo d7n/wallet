@@ -1,1 +1,1 @@
-var mnemonic = "video science mask lizard walnut mesh practice scale stove bottom alone brain";
+var mnemonic = "wool detect liquid false orange atom ugly clump swarm opinion issue laundry";
