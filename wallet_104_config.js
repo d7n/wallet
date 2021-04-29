@@ -1,1 +1,1 @@
-var mnemonic = "dignity ripple grass eyebrow divide tower opera need gain avocado core salute";
+var mnemonic = "sauce tortoise laugh hurdle define main shine three size cargo brave nurse";

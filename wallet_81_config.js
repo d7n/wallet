@@ -1,1 +1,1 @@
-var mnemonic = "circle flower satisfy amused mixture parrot pride vast volume fancy card seven";
+var mnemonic = "baby arctic blur hungry calm diet mercy thank verify upset pudding mosquito";

@@ -1,1 +1,1 @@
-var mnemonic = "man photo timber sail gym arrow mirror occur inside tennis rich social";
+var mnemonic = "feature bounce spawn elbow oblige uniform satisfy scrub good settle ill fortune";

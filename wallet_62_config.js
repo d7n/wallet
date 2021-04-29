@@ -1,1 +1,1 @@
-var mnemonic = "sword million dumb volcano phrase inner enemy loud hungry corn super mule";
+var mnemonic = "tonight chaos much entry ready repeat crouch walnut trust lake vault brother";

@@ -1,1 +1,1 @@
-var mnemonic = "avoid crystal arch crane agent scout inhale unaware treat bone pistol spot";
+var mnemonic = "rescue attend tilt zone galaxy festival vanish urban era plunge company knife";

@@ -1,1 +1,1 @@
-var mnemonic = "foam produce fortune tuition scan rate spray dial country net way fall";
+var mnemonic = "vivid demise dilemma rigid chronic holiday rally tattoo reflect sure food carpet";

@@ -1,1 +1,1 @@
-var mnemonic = "arm turtle catalog path idle sniff little south leisure sound muscle want";
+var mnemonic = "true rate powder expire adapt common raccoon smart exhibit dad hospital frame";

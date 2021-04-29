@@ -1,1 +1,1 @@
-var mnemonic = "joke noise sound burst cool grief jaguar between orient false thumb identify";
+var mnemonic = "silver goat exact click input parrot grain photo device race diet deposit";

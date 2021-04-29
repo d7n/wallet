@@ -1,1 +1,1 @@
-var mnemonic = "basic hip wagon behind text rally amazing broken door mandate across sight";
+var mnemonic = "midnight meat enrich shield during want crucial diet update crumble aspect phrase";

@@ -1,1 +1,1 @@
-var mnemonic = "release rather process noodle minor defy walnut future room eternal rough sure";
+var mnemonic = "daughter cancel shrug phone purity phone fan want reduce pulp hockey treat";

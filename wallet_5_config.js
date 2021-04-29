@@ -1,1 +1,1 @@
-var mnemonic = "bright plate hundred weird van nasty credit attend street sword misery about";
+var mnemonic = "volume cherry resemble open retreat bunker tomato flat myth reveal blanket sketch";

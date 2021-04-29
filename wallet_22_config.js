@@ -1,1 +1,1 @@
-var mnemonic = "kid pause diesel sponsor craft collect broken fiber dune merge install spare";
+var mnemonic = "farm bag despair extra kiwi believe peace defense wash runway home floor";

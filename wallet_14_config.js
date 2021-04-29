@@ -1,1 +1,1 @@
-var mnemonic = "much ordinary design equal simple donkey illness estate follow tumble spider lab";
+var mnemonic = "evoke scissors height guard special hour blossom blush vibrant sure project photo";

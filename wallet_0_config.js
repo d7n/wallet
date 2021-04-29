@@ -1,1 +1,1 @@
-var mnemonic = "sugar riot family favorite arrive atom silver damp fix cricket cherry hello";
+var mnemonic = "vintage clutch vehicle spread clog face secret wine bitter distance cry armed";

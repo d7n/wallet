@@ -1,1 +1,1 @@
-var mnemonic = "regular feel parade light saddle theory timber beauty special slim connect foot";
+var mnemonic = "again picture cactus recipe ticket enough icon twist blouse pyramid ecology park";

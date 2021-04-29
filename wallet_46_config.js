@@ -1,1 +1,1 @@
-var mnemonic = "sudden bronze final reopen soccer ridge short father wreck pause used smart";
+var mnemonic = "man tomato donor desk meat awake reflect term own define real orchard";

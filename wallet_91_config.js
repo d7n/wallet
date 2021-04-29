@@ -1,1 +1,1 @@
-var mnemonic = "always fat tomato friend merge balance exhibit feed valid physical first garment";
+var mnemonic = "dirt brisk viable aunt faith over puzzle obey cotton update market feed";

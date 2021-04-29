@@ -1,1 +1,1 @@
-var mnemonic = "bracket today dilemma test april weapon pluck sport attract bus magic hurt";
+var mnemonic = "whisper blur elite deer ship foam federal crew kangaroo hurt dash aware";

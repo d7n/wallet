@@ -1,1 +1,1 @@
-var mnemonic = "task senior protect grit airport wool trouble quote assume dirt move draw";
+var mnemonic = "fire foam offer envelope alone ready mouse tide month loan arctic chuckle";

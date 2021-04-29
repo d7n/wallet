@@ -1,1 +1,1 @@
-var mnemonic = "april fetch major knock caught buddy dry found term body example party";
+var mnemonic = "lunch trick month flash pool snap gallery soup mesh section profit desert";

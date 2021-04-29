@@ -1,1 +1,1 @@
-var mnemonic = "similar time cart early scene matter then short insect skate neck robot";
+var mnemonic = "churn soldier box ball hospital gift clay unfold youth deny husband dry";

@@ -1,1 +1,1 @@
-var mnemonic = "focus elevator expand toilet worry hard cabin fine brass maple quarter view";
+var mnemonic = "latin square thumb struggle resist deposit poem lake van cushion brass bullet";

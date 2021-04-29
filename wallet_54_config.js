@@ -1,1 +1,1 @@
-var mnemonic = "amateur essence rather welcome medal wage cruise voyage extra utility glory luxury";
+var mnemonic = "oak vast fossil thank stamp pass huge earn damage suspect girl disorder";

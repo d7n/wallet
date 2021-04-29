@@ -1,1 +1,1 @@
-var mnemonic = "position truth group clump stadium useless belt apple that lunar title wool";
+var mnemonic = "awake develop sheriff early permit wash art innocent swallow very noble screen";

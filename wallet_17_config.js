@@ -1,1 +1,1 @@
-var mnemonic = "prepare common assault lady cargo arrest track spatial rug early pear early";
+var mnemonic = "stairs ugly snow develop hunt hockey silent romance split country spend fatal";

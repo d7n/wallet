@@ -1,1 +1,1 @@
-var mnemonic = "cheese grape story antique egg square alcohol sail toy banner rally bundle";
+var mnemonic = "embody all symptom uphold horn crisp cherry have rose cigar ocean detect";

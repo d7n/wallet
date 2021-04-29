@@ -1,1 +1,1 @@
-var mnemonic = "lava olive state buyer toy apple what three rare theory loud donor";
+var mnemonic = "until glimpse guitar oxygen minimum chef voyage dismiss term gallery left coast";

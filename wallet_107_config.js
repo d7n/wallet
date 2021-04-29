@@ -1,1 +1,1 @@
-var mnemonic = "sick unfold helmet owner once famous unable battle top visual obtain drop";
+var mnemonic = "curtain media apple asset series drive excite actor race grain omit same";

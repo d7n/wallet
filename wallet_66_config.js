@@ -1,1 +1,1 @@
-var mnemonic = "poverty voice morning lemon ceiling employ present dynamic assume feel coin amused";
+var mnemonic = "grief issue ridge clever bless unhappy coconut movie clarify fish special case";

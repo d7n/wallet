@@ -1,1 +1,1 @@
-var mnemonic = "axis sausage swarm captain material trouble crucial direct symptom inmate draft hurry";
+var mnemonic = "suit warrior custom seek purse dwarf foster share hidden phone gloom canal";

@@ -1,1 +1,1 @@
-var mnemonic = "wrong spring into text time spirit output never senior pudding monitor picnic";
+var mnemonic = "cushion chase loyal output eternal trade snap employ talk wise either pool";

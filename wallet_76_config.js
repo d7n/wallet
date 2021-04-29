@@ -1,1 +1,1 @@
-var mnemonic = "napkin crystal absorb eager still planet dance flavor opera fabric december panel";
+var mnemonic = "note unaware system vital vintage nest glow shoulder spice merry sport quarter";

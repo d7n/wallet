@@ -1,1 +1,1 @@
-var mnemonic = "problem auction anchor candy bitter valid pudding venue also butter arrive estate";
+var mnemonic = "syrup raw outside close dawn family topic add bag energy picture dial";

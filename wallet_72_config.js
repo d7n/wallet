@@ -1,1 +1,1 @@
-var mnemonic = "kick again oyster cheese tennis vital learn juice toilet robot annual acquire";
+var mnemonic = "glove retire blue siren spoil chimney winter text gloom patch hint goddess";

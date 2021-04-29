@@ -1,1 +1,1 @@
-var mnemonic = "expand destroy still shock window copy jungle enlist program strategy sugar retire";
+var mnemonic = "buffalo grief solve concert muscle afraid embark tennis myself motion chronic evolve";

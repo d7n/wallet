@@ -1,1 +1,1 @@
-var mnemonic = "purity lock person trip crumble fiction enjoy excess dilemma carbon comic slot";
+var mnemonic = "fame ski pill ocean throw magic interest rule kite old verify garbage";

@@ -1,1 +1,1 @@
-var mnemonic = "mechanic cigar coyote soldier concert child wink human mango forest caution smart";
+var mnemonic = "wreck baby force sell bottom ceiling scatter vague where license edge trip";

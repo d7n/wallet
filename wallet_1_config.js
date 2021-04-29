@@ -1,1 +1,1 @@
-var mnemonic = "option sunset leader robust dog color burger ordinary casual mule impact cart";
+var mnemonic = "knock slight basic puzzle drum bike brain invest chapter heavy bonus organ";

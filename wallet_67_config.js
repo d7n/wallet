@@ -1,1 +1,1 @@
-var mnemonic = "scrap control enlist demand flag supreme remove lion student bubble game squeeze";
+var mnemonic = "general random rough embrace dwarf defense design icon survey round wonder forum";

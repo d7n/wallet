@@ -1,1 +1,1 @@
-var mnemonic = "voice volcano melody lunar cover glory burst pluck gold library hold define";
+var mnemonic = "strategy vacuum dress student review private input spread cycle reunion mixture retire";

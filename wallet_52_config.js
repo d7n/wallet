@@ -1,1 +1,1 @@
-var mnemonic = "rough steak midnight space increase boss cancel mad until basic radar wine";
+var mnemonic = "tag forget exit tilt decade can burger visa history bomb torch vibrant";

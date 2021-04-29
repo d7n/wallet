@@ -1,1 +1,1 @@
-var mnemonic = "artwork ceiling dentist umbrella spike chicken nerve animal token toddler day design";
+var mnemonic = "unlock link token walnut fatigue banana cluster royal give embark hub crash";

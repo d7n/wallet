@@ -1,1 +1,1 @@
-var mnemonic = "opinion never fruit escape script lounge glance robust glow quiz accuse dizzy";
+var mnemonic = "million mind stay wreck silly meadow marriage popular large grant wall aware";

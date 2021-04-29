@@ -1,1 +1,1 @@
-var mnemonic = "melody zebra letter puzzle mail bitter base hurry husband train all sphere";
+var mnemonic = "harvest eye define gun end hair latin benefit play smooth often broom";

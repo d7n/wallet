@@ -1,1 +1,1 @@
-var mnemonic = "path real hover salad man island slush repair teach net tennis column";
+var mnemonic = "link crew ecology helmet swift health ivory visit surround payment know bundle";

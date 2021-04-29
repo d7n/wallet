@@ -1,1 +1,1 @@
-var mnemonic = "practice orbit rice civil artist cover danger shrimp tone jazz swap vehicle";
+var mnemonic = "burden lawn hen celery door initial giant credit liar outer quick random";

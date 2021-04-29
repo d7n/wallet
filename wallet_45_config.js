@@ -1,1 +1,1 @@
-var mnemonic = "waste provide subject mass funny fury punch unveil embark giant glide banner";
+var mnemonic = "liquid flip century tilt desert next couch deal feel inquiry kitchen rate";

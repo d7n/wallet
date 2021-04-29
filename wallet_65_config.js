@@ -1,1 +1,1 @@
-var mnemonic = "cigar habit ordinary situate similar memory eight caught author modify erosion burst";
+var mnemonic = "robot apple physical evoke mobile piano main physical nut pipe rebuild save";

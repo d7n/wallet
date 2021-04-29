@@ -1,1 +1,1 @@
-var mnemonic = "country fog stumble human apology abstract another print stone web trim few";
+var mnemonic = "mushroom burden slot topic rule powder alley fatal erode cluster pelican steel";

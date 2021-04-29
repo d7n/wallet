@@ -1,1 +1,1 @@
-var mnemonic = "category damp reunion detail immense floor sketch receive stove despair napkin purpose";
+var mnemonic = "wrestle cheese bridge bicycle resemble like repair weasel rocket fringe blue pelican";

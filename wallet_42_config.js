@@ -1,1 +1,1 @@
-var mnemonic = "arm edge act hard ordinary fringe salad time innocent menu draft hunt";
+var mnemonic = "among oval fiction obscure grace myself favorite silver truck notable shine misery";

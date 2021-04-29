@@ -1,1 +1,1 @@
-var mnemonic = "hazard embody flush bright poem replace good slam door dress stage merge";
+var mnemonic = "enable scare burden danger any kit leisure moon snack turkey switch achieve";

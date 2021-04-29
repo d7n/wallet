@@ -1,1 +1,1 @@
-var mnemonic = "speed apology magic exclude trial produce web peace blind extend rotate glad";
+var mnemonic = "mother arena west story distance when uncle barrel quality kind ostrich inmate";

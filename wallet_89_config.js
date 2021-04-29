@@ -1,1 +1,1 @@
-var mnemonic = "fringe female laundry speak bulk art loud fiction despair detail coconut forum";
+var mnemonic = "flavor modify next soul vote grunt logic friend fly stumble pelican face";

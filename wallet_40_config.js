@@ -1,1 +1,1 @@
-var mnemonic = "twenty slow ritual grain guard client cook swing clog salad concert brick";
+var mnemonic = "earn syrup pact build sweet memory obtain crane notice lend project quit";

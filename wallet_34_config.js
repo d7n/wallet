@@ -1,1 +1,1 @@
-var mnemonic = "jewel crew kidney gallery omit session sure candy wool angry romance diary";
+var mnemonic = "science siren mansion deputy meadow floor stand forward hard hospital solution fatal";

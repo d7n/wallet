@@ -1,1 +1,1 @@
-var mnemonic = "reason gift between spice talk fatal skate review rapid rain glue release";
+var mnemonic = "proof degree soft suffer copy cereal pyramid dawn keen journey become kingdom";

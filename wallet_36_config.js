@@ -1,1 +1,1 @@
-var mnemonic = "naive genius pioneer glass replace width elbow sport jeans consider two boring";
+var mnemonic = "sustain cloth employ measure govern adapt powder cheap panda jump flash used";

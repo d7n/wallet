@@ -1,1 +1,1 @@
-var mnemonic = "gate deer visual student slice plunge cute glide kiss shaft upgrade final";
+var mnemonic = "trial boil zoo punch brain step next have awkward fine feature wedding";

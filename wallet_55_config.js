@@ -1,1 +1,1 @@
-var mnemonic = "kiwi drive odor reduce tail scare evolve noble world bread sleep side";
+var mnemonic = "trap federal punch bench pole room pulp age absent ketchup planet cable";

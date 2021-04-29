@@ -1,1 +1,1 @@
-var mnemonic = "rate any steak pioneer guide leopard rib color time wrong build west";
+var mnemonic = "orient wolf inmate evidence sunset eternal bind sort mother switch route message";

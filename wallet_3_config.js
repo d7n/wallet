@@ -1,1 +1,1 @@
-var mnemonic = "visual crack profit keep moral travel garden giggle sand lucky net purchase";
+var mnemonic = "need once captain attack segment custom audit response finish shock blanket dinosaur";

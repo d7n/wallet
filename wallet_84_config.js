@@ -1,1 +1,1 @@
-var mnemonic = "future uphold hub half anchor foot knock piece left december else purchase";
+var mnemonic = "wine swear inhale senior rubber tourist dust garlic midnight saddle radio potato";

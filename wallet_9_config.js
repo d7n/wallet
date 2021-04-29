@@ -1,1 +1,1 @@
-var mnemonic = "minute jazz dog impulse emotion trap century kingdom confirm obscure trial knock";
+var mnemonic = "bonus produce fancy leisure coach manual fluid almost cream knee lobster uniform";

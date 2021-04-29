@@ -1,1 +1,1 @@
-var mnemonic = "diesel convince model physical obscure banana dwarf fuel egg mother limit average";
+var mnemonic = "draft company simple drastic enrich off number pet decide blur can food";

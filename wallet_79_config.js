@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit tackle hamster access shiver floor danger gift arrange magnet anxiety monkey";
+var mnemonic = "kite fuel net maple radio riot wheel hour shop battle protect kiss";

@@ -1,1 +1,1 @@
-var mnemonic = "enact vacuum supreme desert ball harvest enhance lottery flush early response pig";
+var mnemonic = "toast occur desk hold route tissue mule act amount bomb family tone";

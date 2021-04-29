@@ -1,1 +1,1 @@
-var mnemonic = "goddess milk page young rose label tennis equal actor birth sugar twenty";
+var mnemonic = "clerk human plastic coach argue champion smart turtle virtual mystery employ plug";

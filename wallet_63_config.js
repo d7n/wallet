@@ -1,1 +1,1 @@
-var mnemonic = "reflect neither hire random brand tree choose torch taxi educate spread stand";
+var mnemonic = "bulk story museum same custom average crush salt hand trim senior warrior";

@@ -1,1 +1,1 @@
-var mnemonic = "dentist surround promote success coast soul lyrics daughter stamp list token belt";
+var mnemonic = "mountain usage sphere similar safe action will addict public funny gadget icon";

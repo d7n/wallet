@@ -1,1 +1,1 @@
-var mnemonic = "balcony banner youth garbage situate feel tiger summer other stamp dream grab";
+var mnemonic = "poem penalty kitten agree endless dragon among soft vendor solar speak struggle";

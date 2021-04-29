@@ -1,1 +1,1 @@
-var mnemonic = "illness prepare enough reason awful heart family situate ketchup side another slight";
+var mnemonic = "calm velvet grant brother observe online rescue cable develop lunch giggle ripple";

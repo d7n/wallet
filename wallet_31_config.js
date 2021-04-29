@@ -1,1 +1,1 @@
-var mnemonic = "lava tomato trumpet learn great garlic town input wealth era never photo";
+var mnemonic = "world road stomach dance tell deal ahead know correct barely deer file";

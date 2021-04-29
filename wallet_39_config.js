@@ -1,1 +1,1 @@
-var mnemonic = "salon envelope hunt razor put merge spring tomato gauge fiction puppy gym";
+var mnemonic = "liquid spice mansion unable novel annual asthma great consider defy promote keep";

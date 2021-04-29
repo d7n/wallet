@@ -1,1 +1,1 @@
-var mnemonic = "tooth void blush cattle mountain crane frame banana inner fox gaze clinic";
+var mnemonic = "comic pistol mountain try mind drive badge angle sort end pipe aunt";

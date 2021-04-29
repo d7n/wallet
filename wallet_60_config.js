@@ -1,1 +1,1 @@
-var mnemonic = "squeeze badge oven recipe weather ramp word spell limb exile oven bullet";
+var mnemonic = "extend hope surprise distance axis general lawn exhaust sheriff slam peasant coconut";

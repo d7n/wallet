@@ -1,1 +1,1 @@
-var mnemonic = "smoke swap estate invest cargo still help firm wide web increase quality";
+var mnemonic = "glimpse amazing filter stool swap empty super reveal room butter curtain cargo";

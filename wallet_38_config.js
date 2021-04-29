@@ -1,1 +1,1 @@
-var mnemonic = "bus dwarf rate chaos glue ten pink frown cotton emerge congress muscle";
+var mnemonic = "true theory tray crater census orphan helmet volume desert electric bar swear";

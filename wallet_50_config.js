@@ -1,1 +1,1 @@
-var mnemonic = "topple crucial abandon lend shop around strike clarify chimney fork spring mutual";
+var mnemonic = "auction endorse angle grape crane equip token such vacuum behind stay about";

@@ -1,1 +1,1 @@
-var mnemonic = "sort rescue predict knock cheap supreme street clock abuse office olive loan";
+var mnemonic = "era oak shell address record eye useful video glory depth knee silent";

@@ -1,1 +1,1 @@
-var mnemonic = "embody multiply empty sugar volume crisp swift urge team decade rhythm impulse";
+var mnemonic = "relax damp cart hour police grab become feature endless rural mosquito quiz";

@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo grocery remember want grow verify sail express empty hair wrap opera";
+var mnemonic = "toddler hand water roof yard demise item occur inspire wreck orbit frame";

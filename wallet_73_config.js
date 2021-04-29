@@ -1,1 +1,1 @@
-var mnemonic = "movie violin summer inform enroll question token type destroy pool october marine";
+var mnemonic = "field drip never silent mesh olympic voyage corn taste build river napkin";

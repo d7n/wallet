@@ -1,1 +1,1 @@
-var mnemonic = "tower bullet lock strategy insect car proof term never rude they museum";
+var mnemonic = "soldier all skin canyon more tail fold health nothing reduce roast throw";
