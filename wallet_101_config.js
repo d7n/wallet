@@ -1,1 +1,1 @@
-var mnemonic = "payment bottom inside goddess rely illegal replace rhythm snow section prize chef";
+var mnemonic = "south humble bronze art acoustic company toilet power exotic envelope purpose glare";

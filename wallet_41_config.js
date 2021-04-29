@@ -1,1 +1,1 @@
-var mnemonic = "scare art history demise hole accident build girl wing define lazy lock";
+var mnemonic = "truly wealth regular sport retreat shrimp hawk capable multiply visual attend example";

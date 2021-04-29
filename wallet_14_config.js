@@ -1,1 +1,1 @@
-var mnemonic = "shallow fetch grunt evoke mention summer episode release tired mobile bottom lemon";
+var mnemonic = "jacket above absent wisdom typical valley amateur horse scrub boost tattoo hammer";

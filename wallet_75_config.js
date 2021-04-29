@@ -1,1 +1,1 @@
-var mnemonic = "struggle west meat allow canvas someone jewel green scare version comfort balcony";
+var mnemonic = "depth diagram clip wealth distance glide apology admit mask ancient sniff slow";

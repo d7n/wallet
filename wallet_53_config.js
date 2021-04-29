@@ -1,1 +1,1 @@
-var mnemonic = "agree buyer man rent crane speak heart marriage decade analyst will lyrics";
+var mnemonic = "pilot twelve wisdom flag grid gain thumb near clock radio wish bunker";

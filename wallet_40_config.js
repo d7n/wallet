@@ -1,1 +1,1 @@
-var mnemonic = "benefit under spatial system tuna clutch film slot horn return holiday aim";
+var mnemonic = "adapt flee mom hurdle drum mandate miss tank regret mandate thrive around";

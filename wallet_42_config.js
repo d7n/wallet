@@ -1,1 +1,1 @@
-var mnemonic = "hawk often remind picnic across lobster trouble order school blossom crew media";
+var mnemonic = "chuckle output anger grant segment stick air educate rather forum slender place";

@@ -1,1 +1,1 @@
-var mnemonic = "throw slender blood have enable rose climb primary blind soap pony feed";
+var mnemonic = "cycle episode journey federal wedding curtain gadget cube spell ten hat carry";

@@ -1,1 +1,1 @@
-var mnemonic = "scare satisfy outdoor code off oven bulk love border thought craft side";
+var mnemonic = "dutch believe fame foster sunny heart issue daughter angry damp useful resemble";

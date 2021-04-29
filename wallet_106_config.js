@@ -1,1 +1,1 @@
-var mnemonic = "pave demand success device spare abuse arctic snap wish market wear soft";
+var mnemonic = "entire sand stereo crisp attract input cattle flash whip online fashion install";

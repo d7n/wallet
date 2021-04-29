@@ -1,1 +1,1 @@
-var mnemonic = "bullet ghost such problem beach shell end trip mushroom sure expire half";
+var mnemonic = "cabbage path number cliff silent truck smile walnut emerge pool escape noodle";

@@ -1,1 +1,1 @@
-var mnemonic = "destroy trumpet plate faculty bike vessel nature fence tourist pact science promote";
+var mnemonic = "absent owner toward season draw case tiny awake actor casual wrist badge";

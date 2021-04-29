@@ -1,1 +1,1 @@
-var mnemonic = "word family inform clay scene either easily burden wheel hurt clay menu";
+var mnemonic = "gospel giant mechanic symbol peace common bracket uniform sadness sign conduct note";

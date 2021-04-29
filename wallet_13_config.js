@@ -1,1 +1,1 @@
-var mnemonic = "fashion slam ability shield siren ball donor truck harvest chimney slush once";
+var mnemonic = "pride clown gas crater evidence palace ozone lake help similar abuse universe";

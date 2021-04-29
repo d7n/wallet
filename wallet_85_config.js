@@ -1,1 +1,1 @@
-var mnemonic = "strategy lunch oak large simple hand jealous panda piece slender swarm traffic";
+var mnemonic = "you toilet render mountain pulp depart file naive fly side attitude skull";

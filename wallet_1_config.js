@@ -1,1 +1,1 @@
-var mnemonic = "innocent enjoy own follow deputy tackle flavor enough onion visa embark leopard";
+var mnemonic = "coast nose approve decide dream genuine horse ordinary lava exercise sister face";

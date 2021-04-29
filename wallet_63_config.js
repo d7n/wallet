@@ -1,1 +1,1 @@
-var mnemonic = "talk lamp subway cup puppy below uphold define hamster combine forward supply";
+var mnemonic = "because drama ketchup evidence autumn soldier under pepper spot exit flag galaxy";

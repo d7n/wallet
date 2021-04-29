@@ -1,1 +1,1 @@
-var mnemonic = "eight marriage spend giggle kiss unfold absurd grass solution write song venue";
+var mnemonic = "jaguar answer struggle cross unable chase obey pencil spend fruit that believe";

@@ -1,1 +1,1 @@
-var mnemonic = "sniff kind liquid cram annual volume torch fluid spend equip embody pattern";
+var mnemonic = "enrich soldier food urban say poverty cabbage celery vague clean hip select";

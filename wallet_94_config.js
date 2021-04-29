@@ -1,1 +1,1 @@
-var mnemonic = "element approve hero gun expose noise fork tomato find erode eyebrow visit";
+var mnemonic = "virtual office dial open gold solution atom ankle private crouch smart lawsuit";

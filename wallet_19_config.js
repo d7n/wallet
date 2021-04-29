@@ -1,1 +1,1 @@
-var mnemonic = "fuel setup cool hybrid ankle impulse vault oak student envelope amount autumn";
+var mnemonic = "ridge pole pave tobacco obtain lucky walk short monkey model script fresh";

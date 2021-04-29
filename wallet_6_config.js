@@ -1,1 +1,1 @@
-var mnemonic = "dose arch short north program cost random mad coconut wild slide siege";
+var mnemonic = "syrup kiwi addict wear body gasp review bachelor unlock burst kit crumble";

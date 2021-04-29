@@ -1,1 +1,1 @@
-var mnemonic = "reason guilt strategy stumble unique recycle improve enemy same pumpkin item later";
+var mnemonic = "absurd eight equal speed tiny battle rely cactus mind expand used smooth";

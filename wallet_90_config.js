@@ -1,1 +1,1 @@
-var mnemonic = "skin duck step six ripple tooth orbit benefit fever mention wonder clog";
+var mnemonic = "alter camp rate ring census sock kick limb shoot else unhappy boil";

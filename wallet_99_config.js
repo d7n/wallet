@@ -1,1 +1,1 @@
-var mnemonic = "april embrace buyer awake medal liar undo tray push force scorpion announce";
+var mnemonic = "acquire leg deputy bird planet cargo alley riot dune stamp convince roast";

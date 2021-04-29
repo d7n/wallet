@@ -1,1 +1,1 @@
-var mnemonic = "black lake price local cube enforce autumn siege casual twice donkey favorite";
+var mnemonic = "settle interest sing snow help document roast color purchase surge acoustic frozen";

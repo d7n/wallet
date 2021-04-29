@@ -1,1 +1,1 @@
-var mnemonic = "gesture settle resemble assault squirrel evolve surround car amazing fiber hockey garment";
+var mnemonic = "act item sea mesh gravity sadness margin pact tray nothing blade race";

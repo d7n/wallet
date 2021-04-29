@@ -1,1 +1,1 @@
-var mnemonic = "hospital twenty hat coin adjust ordinary purpose special typical caught churn family";
+var mnemonic = "battle scorpion original hire mom help priority zebra elbow animal lobster limb";

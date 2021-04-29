@@ -1,1 +1,1 @@
-var mnemonic = "half draw labor picnic insane quit make jar arch urban teach job";
+var mnemonic = "chapter mesh parrot session silk frog blast idea polar manual reveal famous";

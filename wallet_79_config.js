@@ -1,1 +1,1 @@
-var mnemonic = "trap dune auction pause odor smart castle eight tennis entry nuclear release";
+var mnemonic = "service camera sleep planet gold style health faith resist velvet certain south";

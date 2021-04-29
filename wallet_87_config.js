@@ -1,1 +1,1 @@
-var mnemonic = "assist index relax will always adapt scatter grunt flat immense oven wool";
+var mnemonic = "bag again bag world science acid decide property aware zebra blast distance";

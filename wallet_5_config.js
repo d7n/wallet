@@ -1,1 +1,1 @@
-var mnemonic = "sugar cricket friend garden essence slush romance hazard biology subject assist admit";
+var mnemonic = "reason layer either verb cave panel walnut tree change lumber rule strong";

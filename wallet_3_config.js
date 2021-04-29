@@ -1,1 +1,1 @@
-var mnemonic = "short can uniform mammal piano drop memory digital multiply rude film amused";
+var mnemonic = "mutual rotate obscure top blue brush fold square fiction erode ten sight";

@@ -1,1 +1,1 @@
-var mnemonic = "scan bacon bag escape supreme energy slam joke decorate easy average galaxy";
+var mnemonic = "lend doctor avocado gate carpet rib bid sail phrase flat dry silk";

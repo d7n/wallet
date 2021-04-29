@@ -1,1 +1,1 @@
-var mnemonic = "ribbon dawn this dinner join depth tray purchase device road measure frown";
+var mnemonic = "sail top wrestle catalog burger one merry pet theory travel pipe height";

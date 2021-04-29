@@ -1,1 +1,1 @@
-var mnemonic = "hawk zero model polar earth cup frequent rescue coffee era room pulp";
+var mnemonic = "dilemma clinic member used pupil misery weather bean rural adult identify march";

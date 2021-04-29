@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit glass okay furnace arena deliver armor rule naive common hockey dry";
+var mnemonic = "clerk soccer update pig man cage race host dolphin stumble recycle apple";

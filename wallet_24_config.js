@@ -1,1 +1,1 @@
-var mnemonic = "pact trap coffee setup judge true either attitude claw twelve under eight";
+var mnemonic = "actual assault deputy paddle various orphan subway enhance obvious swamp journey ripple";

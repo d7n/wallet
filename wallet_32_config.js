@@ -1,1 +1,1 @@
-var mnemonic = "render rate item clutch glimpse neither coach funny answer nation ball health";
+var mnemonic = "mix primary volcano isolate idle kite holiday glance put electric palm bright";

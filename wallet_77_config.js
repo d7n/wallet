@@ -1,1 +1,1 @@
-var mnemonic = "piece guitar action jelly vintage senior raven east check feature real leave";
+var mnemonic = "tumble fluid field curve wish own silent close bike wonder useless lamp";

@@ -1,1 +1,1 @@
-var mnemonic = "select march common wedding symbol payment margin inform afford culture bullet grape";
+var mnemonic = "possible know route broccoli emotion bullet holiday scale room stumble point step";

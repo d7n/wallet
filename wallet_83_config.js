@@ -1,1 +1,1 @@
-var mnemonic = "gloom myself lemon ski route reward trouble glow spoon sense surround baby";
+var mnemonic = "sentence excess vehicle casino useless multiply faint ship frog economy dinner recall";

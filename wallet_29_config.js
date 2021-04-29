@@ -1,1 +1,1 @@
-var mnemonic = "step illness ignore usual service idea bring math gate surface employ faint";
+var mnemonic = "term praise sea unveil draw tourist traffic stock firm imitate sign sun";

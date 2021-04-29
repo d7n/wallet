@@ -1,1 +1,1 @@
-var mnemonic = "only awesome random chunk pact syrup artwork mad cactus siege idle cotton";
+var mnemonic = "network inmate dragon live dolphin crystal smooth rescue nephew direct day dove";

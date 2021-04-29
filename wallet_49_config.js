@@ -1,1 +1,1 @@
-var mnemonic = "feel gentle stool warrior convince inquiry knee ship live trigger air deny";
+var mnemonic = "claw donkey potato weather book castle wait catalog current twin abuse capital";

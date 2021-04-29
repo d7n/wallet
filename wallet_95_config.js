@@ -1,1 +1,1 @@
-var mnemonic = "unfold grief rapid hello differ doll mechanic own execute fault half elephant";
+var mnemonic = "weapon boss pistol bean airport plug pencil chef have sunset enable crew";

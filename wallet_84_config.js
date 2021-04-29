@@ -1,1 +1,1 @@
-var mnemonic = "casino group lock famous uphold repeat artist chair almost ivory real speed";
+var mnemonic = "balance bridge upset still pool army nature talk emotion disorder neglect purity";

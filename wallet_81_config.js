@@ -1,1 +1,1 @@
-var mnemonic = "seek cable helmet labor quantum aerobic basket inform utility physical popular october";
+var mnemonic = "front mind elevator alone select power play use cave mean inflict effort";

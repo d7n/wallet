@@ -1,1 +1,1 @@
-var mnemonic = "marriage video bid property loud amateur enlist crack salmon concert bone doctor";
+var mnemonic = "siege embrace tray alien opera moral north piece maximum negative hope fade";

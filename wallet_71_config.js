@@ -1,1 +1,1 @@
-var mnemonic = "travel kid angry nasty winner evil address mix document veteran nothing ill";
+var mnemonic = "grit win blossom mosquito situate side garbage pelican group coffee dose else";

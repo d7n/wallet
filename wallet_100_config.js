@@ -1,1 +1,1 @@
-var mnemonic = "seek patrol predict plunge hood squeeze genuine adjust equal mandate table live";
+var mnemonic = "struggle female achieve topple capital tape field diagram sibling object resource radio";

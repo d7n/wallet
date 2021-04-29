@@ -1,1 +1,1 @@
-var mnemonic = "educate load leader swear unfair change wreck regret staff lend light toddler";
+var mnemonic = "undo town gospel faith lend beyond glance wedding orient session bind circle";

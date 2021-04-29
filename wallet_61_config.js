@@ -1,1 +1,1 @@
-var mnemonic = "govern arrest view music cute mind wage dragon slab wonder cave goddess";
+var mnemonic = "craft spread toy fiction patient photo whisper mushroom joy joke kick acquire";

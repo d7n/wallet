@@ -1,1 +1,1 @@
-var mnemonic = "lucky rack maximum wrap maximum produce entry paper range write someone taxi";
+var mnemonic = "mercy ugly stamp predict dutch load garbage novel kick mixed aware enact";

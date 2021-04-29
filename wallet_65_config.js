@@ -1,1 +1,1 @@
-var mnemonic = "series diesel rice giggle safe panel female pave vehicle unfold valve castle";
+var mnemonic = "present marble badge potato wrong detect galaxy battle twelve light step crowd";

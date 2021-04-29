@@ -1,1 +1,1 @@
-var mnemonic = "such farm zero spoon ball hollow caution garbage airport slide isolate avocado";
+var mnemonic = "squirrel price child dismiss snake annual april artist better emerge mean uncover";

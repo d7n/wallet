@@ -1,1 +1,1 @@
-var mnemonic = "blur rally food monitor few bargain snake social release pretty offer season";
+var mnemonic = "galaxy hub key screen royal fluid group arrange diesel cruel photo small";

@@ -1,1 +1,1 @@
-var mnemonic = "warm start bleak lawsuit extend excess half firm grid emotion gravity arch";
+var mnemonic = "receive display blame okay vicious property car spin wrist consider cannon hill";

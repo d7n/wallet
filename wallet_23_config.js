@@ -1,1 +1,1 @@
-var mnemonic = "autumn stock resource asthma boring stay exile scissors fragile surface spawn romance";
+var mnemonic = "search plunge lumber peanut vote tunnel trim reunion female family festival elegant";

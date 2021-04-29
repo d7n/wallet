@@ -1,1 +1,1 @@
-var mnemonic = "purse early seven remember cause roof lunch resemble trophy insane morning mushroom";
+var mnemonic = "evil warm correct clarify together use fade clever fiscal during quantum draw";

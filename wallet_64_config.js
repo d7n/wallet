@@ -1,1 +1,1 @@
-var mnemonic = "panic spice half display resemble dentist wage alley bike catalog deny uphold";
+var mnemonic = "quiz bubble purchase victory neck august miracle main welcome lamp sugar pledge";

@@ -1,1 +1,1 @@
-var mnemonic = "sample portion ask very print toward confirm interest survey traffic raw decorate";
+var mnemonic = "trick net hen rice ceiling melody bunker race elite civil toss weird";

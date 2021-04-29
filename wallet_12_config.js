@@ -1,1 +1,1 @@
-var mnemonic = "able indoor tired wood volcano eager siege goat armor debate ethics peasant";
+var mnemonic = "cushion rural broccoli panther news off entire broom stool problem lens ice";

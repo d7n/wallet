@@ -1,1 +1,1 @@
-var mnemonic = "describe primary purity special absent merge camera math donate skull suit fold";
+var mnemonic = "among shrug ripple pepper space federal correct extra invest ladder train hand";

@@ -1,1 +1,1 @@
-var mnemonic = "mix fat legend top grape umbrella empty grass install wisdom field bag";
+var mnemonic = "endorse february silly blame topic champion gown salt merry typical digital fiber";

@@ -1,1 +1,1 @@
-var mnemonic = "view okay false agree admit success exotic cabin ticket select next crouch";
+var mnemonic = "typical shed shiver hand all trial tongue sniff cancel rotate circle staff";

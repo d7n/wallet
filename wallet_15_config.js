@@ -1,1 +1,1 @@
-var mnemonic = "food used wagon relief romance evolve lonely frequent success skirt fossil dad";
+var mnemonic = "erupt wave spy obtain stage vendor elegant master canyon senior core solve";

@@ -1,1 +1,1 @@
-var mnemonic = "east focus ride spike ahead arm eternal ripple early season health enact";
+var mnemonic = "mad primary marble torch vivid clever shop drift awake goat oxygen effort";

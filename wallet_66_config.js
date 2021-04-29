@@ -1,1 +1,1 @@
-var mnemonic = "hen twist hole people grief tobacco caution shift cabin echo squeeze version";
+var mnemonic = "measure vote cattle ski stone modify panther torch polar visit coil student";

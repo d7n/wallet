@@ -1,1 +1,1 @@
-var mnemonic = "problem mammal riot sound fame embrace unveil riot setup gate happy item";
+var mnemonic = "tip ginger timber swim casino slow asthma occur toddler dwarf roast sauce";

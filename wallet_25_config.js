@@ -1,1 +1,1 @@
-var mnemonic = "lizard dance assume seat because recall sweet van habit orchard galaxy acquire";
+var mnemonic = "tornado major apart hair chunk eagle apple electric exchange end useless balcony";

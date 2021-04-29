@@ -1,1 +1,1 @@
-var mnemonic = "muffin swap monster mansion apology sugar kingdom ready acoustic year dress october";
+var mnemonic = "room vibrant genuine ripple fitness cram robot any grace hub mammal window";

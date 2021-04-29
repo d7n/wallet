@@ -1,1 +1,1 @@
-var mnemonic = "marriage gasp romance actual nothing horn seed retreat coast pact jump machine";
+var mnemonic = "wing banana fall ribbon diet potato story fall affair letter despair fetch";

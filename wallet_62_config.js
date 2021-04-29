@@ -1,1 +1,1 @@
-var mnemonic = "diamond spatial shield prison pioneer apple rice great high dismiss also sustain";
+var mnemonic = "journey cross inflict arena paper hope alarm coach feed crouch endorse capable";

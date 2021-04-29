@@ -1,1 +1,1 @@
-var mnemonic = "general member exotic cross reopen risk agent giant siren excite silk engine";
+var mnemonic = "joy tomorrow film inch space patient prevent slender tower blame chunk phone";

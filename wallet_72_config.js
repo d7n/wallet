@@ -1,1 +1,1 @@
-var mnemonic = "pact term allow minor depend answer cheap absorb bone room great erupt";
+var mnemonic = "nuclear best tornado front lawn venture pig social effort minimum maid stable";

@@ -1,1 +1,1 @@
-var mnemonic = "fantasy escape rice title install imitate flame bicycle ability valve anger snow";
+var mnemonic = "drill release joke suggest jaguar sentence small bulk whale hello thunder brush";

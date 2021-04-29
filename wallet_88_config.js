@@ -1,1 +1,1 @@
-var mnemonic = "rich fish festival any north rug any script dragon dad rhythm elephant";
+var mnemonic = "flash supply caught ability tone trust donkey grid setup urban violin chalk";

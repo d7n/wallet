@@ -1,1 +1,1 @@
-var mnemonic = "earth fat renew ready width indicate walk caution surface attend snake spray";
+var mnemonic = "letter matrix soap know bar isolate popular moral glow warfare square tool";

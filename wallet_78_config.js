@@ -1,1 +1,1 @@
-var mnemonic = "vault total base chief pelican junk delay spin finish robust jewel learn";
+var mnemonic = "whale much humble clip deny flag run blood when dirt afford chimney";

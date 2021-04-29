@@ -1,1 +1,1 @@
-var mnemonic = "fly taxi globe pact finger fancy consider evil life sword cross glory";
+var mnemonic = "tilt agree text couple knee east flock ship mutual slender extra globe";

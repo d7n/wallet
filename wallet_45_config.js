@@ -1,1 +1,1 @@
-var mnemonic = "life update swallow dance room evidence palace lawn cliff olive gift local";
+var mnemonic = "next entire retire among park glad universe pizza spoon wheel husband empty";

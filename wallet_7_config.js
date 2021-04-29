@@ -1,1 +1,1 @@
-var mnemonic = "breeze nose promote tip satisfy text essence hospital unlock sun patch oak";
+var mnemonic = "empty build tennis outdoor action pony nothing witness door catch invite ahead";

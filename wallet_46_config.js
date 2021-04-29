@@ -1,1 +1,1 @@
-var mnemonic = "width sausage amateur energy begin plunge myth galaxy rough photo foam fabric";
+var mnemonic = "sausage cigar walnut situate argue people lemon goat section million person plug";

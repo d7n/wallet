@@ -1,1 +1,1 @@
-var mnemonic = "simple labor magic clinic smile hazard kangaroo step cash chaos step depth";
+var mnemonic = "universe edge enroll repair ahead kidney brown sample fantasy culture detail uphold";

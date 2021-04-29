@@ -1,1 +1,1 @@
-var mnemonic = "card pepper immune predict planet fossil snap pave silver sick zone cash";
+var mnemonic = "brisk capable enlist trip endless length cross oval toe corn bracket urge";

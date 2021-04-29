@@ -1,1 +1,1 @@
-var mnemonic = "differ need radar document tube thought work enact erosion heart fitness input";
+var mnemonic = "tattoo fresh duck govern cinnamon pact opera trust summer type vibrant cushion";

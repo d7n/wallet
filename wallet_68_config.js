@@ -1,1 +1,1 @@
-var mnemonic = "puzzle divide peanut team tennis divorce poverty sell garment warfare hedgehog sphere";
+var mnemonic = "decrease bring dumb stumble horror hawk avoid promote medal baby eight rhythm";
