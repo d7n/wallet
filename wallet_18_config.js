@@ -1,1 +1,1 @@
-var mnemonic = "harvest eye define gun end hair latin benefit play smooth often broom";
+var mnemonic = "arrange cross music obey message apology skill sister swap style punch outdoor";

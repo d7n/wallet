@@ -1,1 +1,1 @@
-var mnemonic = "hunt glide bounce wire satisfy protect dune sausage prison hybrid edge bring";
+var mnemonic = "service fan drastic drum drastic adult mother suspect resemble mother receive prefer";

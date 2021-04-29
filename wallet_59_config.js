@@ -1,1 +1,1 @@
-var mnemonic = "anger life dirt reopen peanut quantum item confirm lock dwarf rocket fine";
+var mnemonic = "confirm judge regret cram punch among fat like snap wide dad pony";

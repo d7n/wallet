@@ -1,1 +1,1 @@
-var mnemonic = "grief issue ridge clever bless unhappy coconut movie clarify fish special case";
+var mnemonic = "lounge develop today pelican cabin treat final unable element fragile chalk squirrel";

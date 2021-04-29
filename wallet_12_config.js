@@ -1,1 +1,1 @@
-var mnemonic = "link crew ecology helmet swift health ivory visit surround payment know bundle";
+var mnemonic = "world upper agent virtual tired involve energy guitar right mobile success improve";

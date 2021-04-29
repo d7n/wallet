@@ -1,1 +1,1 @@
-var mnemonic = "true theory tray crater census orphan helmet volume desert electric bar swear";
+var mnemonic = "crystal appear must resemble critic story lobster want latin canvas problem help";

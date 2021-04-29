@@ -1,1 +1,1 @@
-var mnemonic = "youth toast sing slight warrior phrase noble anger what apple come girl";
+var mnemonic = "kitten swarm trust buffalo attend miracle mind main forum unfold inherit replace";

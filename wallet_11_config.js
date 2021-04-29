@@ -1,1 +1,1 @@
-var mnemonic = "cushion chase loyal output eternal trade snap employ talk wise either pool";
+var mnemonic = "found spatial earth jealous argue beauty barely lake cloth good dress there";

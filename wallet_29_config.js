@@ -1,1 +1,1 @@
-var mnemonic = "until glimpse guitar oxygen minimum chef voyage dismiss term gallery left coast";
+var mnemonic = "need craft robot volume zebra awesome mad win planet knock autumn emotion";

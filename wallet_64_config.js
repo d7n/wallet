@@ -1,1 +1,1 @@
-var mnemonic = "toddler hand water roof yard demise item occur inspire wreck orbit frame";
+var mnemonic = "dawn symptom parrot you pencil alarm chef valley input flip hope into";

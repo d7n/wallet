@@ -1,1 +1,1 @@
-var mnemonic = "humor trumpet ocean gadget tube budget spot spice avoid pottery era deputy";
+var mnemonic = "reflect can sport rotate example skirt walnut primary insect dash blue organ";

@@ -1,1 +1,1 @@
-var mnemonic = "popular observe render hair spawn anchor rigid shop luggage proud employ oil";
+var mnemonic = "soccer palace tomato sample yellow amateur keen spray race tackle equip section";

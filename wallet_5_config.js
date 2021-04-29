@@ -1,1 +1,1 @@
-var mnemonic = "volume cherry resemble open retreat bunker tomato flat myth reveal blanket sketch";
+var mnemonic = "warfare cliff eight salad bridge figure parrot lesson clump spend sad snap";

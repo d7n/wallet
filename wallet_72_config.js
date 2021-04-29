@@ -1,1 +1,1 @@
-var mnemonic = "glove retire blue siren spoil chimney winter text gloom patch hint goddess";
+var mnemonic = "bus confirm spy speak leisure birth evil disagree impulse know jaguar parent";

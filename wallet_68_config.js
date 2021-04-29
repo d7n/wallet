@@ -1,1 +1,1 @@
-var mnemonic = "vivid demise dilemma rigid chronic holiday rally tattoo reflect sure food carpet";
+var mnemonic = "radar smart cruise spirit sea zoo pretty matter mad flame index chunk";

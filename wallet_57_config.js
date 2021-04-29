@@ -1,1 +1,1 @@
-var mnemonic = "era oak shell address record eye useful video glory depth knee silent";
+var mnemonic = "below viable demise jeans need doctor chronic problem credit speed cost absent";

@@ -1,1 +1,1 @@
-var mnemonic = "tonight chaos much entry ready repeat crouch walnut trust lake vault brother";
+var mnemonic = "ignore blade grid oxygen pave butter long elephant exercise talent erosion proof";

@@ -1,1 +1,1 @@
-var mnemonic = "robot apple physical evoke mobile piano main physical nut pipe rebuild save";
+var mnemonic = "swift embody thank aware narrow reason man cheap firm train spider aisle";

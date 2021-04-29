@@ -1,1 +1,1 @@
-var mnemonic = "poem penalty kitten agree endless dragon among soft vendor solar speak struggle";
+var mnemonic = "educate history cycle kind husband direct cheese merit like mixed zoo arch";

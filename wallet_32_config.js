@@ -1,1 +1,1 @@
-var mnemonic = "toast occur desk hold route tissue mule act amount bomb family tone";
+var mnemonic = "pyramid talent athlete volume scrap bean reflect liquid radio cram beauty amazing";

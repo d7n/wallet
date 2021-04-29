@@ -1,1 +1,1 @@
-var mnemonic = "sudden virtual board bleak neglect fine auction series spy memory high squirrel";
+var mnemonic = "spice butter dream crop luxury move parent palm list dress age black";

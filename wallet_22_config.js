@@ -1,1 +1,1 @@
-var mnemonic = "farm bag despair extra kiwi believe peace defense wash runway home floor";
+var mnemonic = "wash dog alcohol shuffle involve chronic uncover vast before honey dial act";

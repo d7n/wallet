@@ -1,1 +1,1 @@
-var mnemonic = "mercy search object warfare clay camp already round spend journey sentence ready";
+var mnemonic = "huge good funny drill reason canyon slender pulp purpose drama cart judge";

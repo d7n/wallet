@@ -1,1 +1,1 @@
-var mnemonic = "salt awesome pledge slam tomato input radar edit around belt trigger chaos";
+var mnemonic = "basket donate plunge filter runway tiger cable transfer casual size path cricket";

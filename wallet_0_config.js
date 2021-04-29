@@ -1,1 +1,1 @@
-var mnemonic = "vintage clutch vehicle spread clog face secret wine bitter distance cry armed";
+var mnemonic = "twist slam until magnet keen catalog leg box hair car exercise tongue";

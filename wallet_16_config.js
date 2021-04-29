@@ -1,1 +1,1 @@
-var mnemonic = "owner urge wrestle select cereal deposit wasp usage diagram flock unveil swap";
+var mnemonic = "list drift snow recycle pulse peasant hazard drill ignore drama gravity toward";

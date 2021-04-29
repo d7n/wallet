@@ -1,1 +1,1 @@
-var mnemonic = "sound spring liar brother outside antique oxygen link consider layer pear stick";
+var mnemonic = "mom noble divorce lock collect almost forward apple jungle crucial diesel that";

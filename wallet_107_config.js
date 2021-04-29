@@ -1,1 +1,1 @@
-var mnemonic = "curtain media apple asset series drive excite actor race grain omit same";
+var mnemonic = "regret sadness tip delay sketch bar tissue celery reward light danger siren";

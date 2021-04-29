@@ -1,1 +1,1 @@
-var mnemonic = "draft company simple drastic enrich off number pet decide blur can food";
+var mnemonic = "drift blossom disorder fragile dust weather high defy inquiry dance vibrant hat";

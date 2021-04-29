@@ -1,1 +1,1 @@
-var mnemonic = "strategy vacuum dress student review private input spread cycle reunion mixture retire";
+var mnemonic = "enact federal tape coffee post exercise seek trim provide train blast pudding";

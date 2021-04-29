@@ -1,1 +1,1 @@
-var mnemonic = "extend hope surprise distance axis general lawn exhaust sheriff slam peasant coconut";
+var mnemonic = "chimney seat spend multiply general float donor armor swear genuine tissue diesel";

@@ -1,1 +1,1 @@
-var mnemonic = "baby arctic blur hungry calm diet mercy thank verify upset pudding mosquito";
+var mnemonic = "bracket focus chaos bind split divorce furnace fuel stereo drastic olympic secret";

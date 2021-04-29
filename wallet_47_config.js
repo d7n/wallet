@@ -1,1 +1,1 @@
-var mnemonic = "unable frown palm catch pluck robust nerve plate place cube debate snack";
+var mnemonic = "use arrange slot icon chaos friend question sugar use boost seek flavor";

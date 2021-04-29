@@ -1,1 +1,1 @@
-var mnemonic = "comic pistol mountain try mind drive badge angle sort end pipe aunt";
+var mnemonic = "plug acid diamond cargo lunch mind bundle pigeon stool glory riot royal";

@@ -1,1 +1,1 @@
-var mnemonic = "science siren mansion deputy meadow floor stand forward hard hospital solution fatal";
+var mnemonic = "enjoy kitten fat ugly vague viable essay unveil improve knock mouse intact";

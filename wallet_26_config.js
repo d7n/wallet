@@ -1,1 +1,1 @@
-var mnemonic = "latin square thumb struggle resist deposit poem lake van cushion brass bullet";
+var mnemonic = "high trophy negative range tissue diet usual tennis wine face universe chef";

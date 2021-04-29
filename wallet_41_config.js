@@ -1,1 +1,1 @@
-var mnemonic = "million mind stay wreck silly meadow marriage popular large grant wall aware";
+var mnemonic = "chunk fruit basket frog raven all short noble foot gallery sword burden";

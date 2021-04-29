@@ -1,1 +1,1 @@
-var mnemonic = "sunset fatal desk sheriff there observe upset enable power hedgehog exit prefer";
+var mnemonic = "smoke kitchen deliver rug cram wage pond wait suspect cause cactus journey";

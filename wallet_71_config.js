@@ -1,1 +1,1 @@
-var mnemonic = "lawn joy hollow wife render next nuclear reward marine dilemma bench lion";
+var mnemonic = "theory avoid escape work occur swarm clay parade gallery fetch useless hood";

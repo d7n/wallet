@@ -1,1 +1,1 @@
-var mnemonic = "need once captain attack segment custom audit response finish shock blanket dinosaur";
+var mnemonic = "jaguar fiscal tenant slight decade choice symbol soda fault silent pear float";

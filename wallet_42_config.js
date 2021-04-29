@@ -1,1 +1,1 @@
-var mnemonic = "among oval fiction obscure grace myself favorite silver truck notable shine misery";
+var mnemonic = "inner exile all rally uncover label scare wagon ill dismiss light cliff";

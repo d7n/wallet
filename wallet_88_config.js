@@ -1,1 +1,1 @@
-var mnemonic = "calm velvet grant brother observe online rescue cable develop lunch giggle ripple";
+var mnemonic = "radar pudding fiction athlete giraffe gorilla kangaroo test jungle fresh home dawn";

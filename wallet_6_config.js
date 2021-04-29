@@ -1,1 +1,1 @@
-var mnemonic = "awake develop sheriff early permit wash art innocent swallow very noble screen";
+var mnemonic = "february embody husband pattern uniform run library neglect wheel aim observe try";

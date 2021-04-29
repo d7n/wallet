@@ -1,1 +1,1 @@
-var mnemonic = "humble language become love flush strong payment churn cradle oyster inherit place";
+var mnemonic = "arrow know oil critic absorb brand hour fruit april truck length tattoo";

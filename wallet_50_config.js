@@ -1,1 +1,1 @@
-var mnemonic = "auction endorse angle grape crane equip token such vacuum behind stay about";
+var mnemonic = "old autumn tag critic visual fame promote cute carpet satoshi volcano concert";

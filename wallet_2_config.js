@@ -1,1 +1,1 @@
-var mnemonic = "suit warrior custom seek purse dwarf foster share hidden phone gloom canal";
+var mnemonic = "task mom true social blanket one method typical spring motion slogan rail";

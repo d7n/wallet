@@ -1,1 +1,1 @@
-var mnemonic = "liquid spice mansion unable novel annual asthma great consider defy promote keep";
+var mnemonic = "canvas ring decide happy panel oppose claw must dad deal misery okay";

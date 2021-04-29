@@ -1,1 +1,1 @@
-var mnemonic = "chair nuclear omit lecture gun maid impose belt join spatial okay easily";
+var mnemonic = "hub betray warfare bicycle hobby unit habit throw regular cause citizen pudding";

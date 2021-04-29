@@ -1,1 +1,1 @@
-var mnemonic = "service client chat spring story degree grass people crime safe turn friend";
+var mnemonic = "renew custom push myself eagle inflict unusual erupt key shield butter because";

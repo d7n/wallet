@@ -1,1 +1,1 @@
-var mnemonic = "trap federal punch bench pole room pulp age absent ketchup planet cable";
+var mnemonic = "rabbit board episode reason betray volume display rocket connect maze teach movie";

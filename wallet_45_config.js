@@ -1,1 +1,1 @@
-var mnemonic = "liquid flip century tilt desert next couch deal feel inquiry kitchen rate";
+var mnemonic = "fiscal normal pet train cycle afford trumpet screen shoulder meat switch process";

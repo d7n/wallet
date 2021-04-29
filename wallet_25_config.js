@@ -1,1 +1,1 @@
-var mnemonic = "wreck baby force sell bottom ceiling scatter vague where license edge trip";
+var mnemonic = "catch hill solution chaos mouse alone sibling paper quick trouble goddess vendor";

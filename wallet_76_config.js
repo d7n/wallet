@@ -1,1 +1,1 @@
-var mnemonic = "note unaware system vital vintage nest glow shoulder spice merry sport quarter";
+var mnemonic = "sell valley violin velvet miss gadget armor upper alley tomato surge celery";

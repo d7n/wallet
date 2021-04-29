@@ -1,1 +1,1 @@
-var mnemonic = "dirt brisk viable aunt faith over puzzle obey cotton update market feed";
+var mnemonic = "beef salmon finish cinnamon grunt wealth junior velvet oppose stereo cattle start";

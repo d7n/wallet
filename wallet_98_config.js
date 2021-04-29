@@ -1,1 +1,1 @@
-var mnemonic = "silver goat exact click input parrot grain photo device race diet deposit";
+var mnemonic = "solar wrap phrase easily shaft renew deer print naive fine elephant syrup";

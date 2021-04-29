@@ -1,1 +1,1 @@
-var mnemonic = "stairs ugly snow develop hunt hockey silent romance split country spend fatal";
+var mnemonic = "romance utility cake box chaos lobster fan airport act tortoise possible hammer";

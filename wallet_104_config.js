@@ -1,1 +1,1 @@
-var mnemonic = "sauce tortoise laugh hurdle define main shine three size cargo brave nurse";
+var mnemonic = "explain machine empty similar frame denial inflict eternal rail cloud blood rally";

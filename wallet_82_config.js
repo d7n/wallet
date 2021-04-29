@@ -1,1 +1,1 @@
-var mnemonic = "embody all symptom uphold horn crisp cherry have rose cigar ocean detect";
+var mnemonic = "enlist real father sort blood solution silver glad leg diagram income female";

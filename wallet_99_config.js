@@ -1,1 +1,1 @@
-var mnemonic = "burden lawn hen celery door initial giant credit liar outer quick random";
+var mnemonic = "cross you pizza secret then grunt will main frequent manage remain valve";

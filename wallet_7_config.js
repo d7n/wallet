@@ -1,1 +1,1 @@
-var mnemonic = "lunch trick month flash pool snap gallery soup mesh section profit desert";
+var mnemonic = "legend addict picnic nice doctor cool rude color time scrub bulk calm";

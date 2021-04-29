@@ -1,1 +1,1 @@
-var mnemonic = "field drip never silent mesh olympic voyage corn taste build river napkin";
+var mnemonic = "broccoli toss wine cycle chicken bring neglect people stem merry emotion excuse";

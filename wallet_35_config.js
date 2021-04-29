@@ -1,1 +1,1 @@
-var mnemonic = "identify joke depart gorilla travel decline guess type behave monster lounge tackle";
+var mnemonic = "dose drill arrow chest fiscal predict want tide noise merry nuclear alter";

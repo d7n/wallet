@@ -1,1 +1,1 @@
-var mnemonic = "again picture cactus recipe ticket enough icon twist blouse pyramid ecology park";
+var mnemonic = "quiz pelican erupt trade beyond sail news wonder lottery fiber host elephant";

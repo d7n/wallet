@@ -1,1 +1,1 @@
-var mnemonic = "orient wolf inmate evidence sunset eternal bind sort mother switch route message";
+var mnemonic = "spider gasp armed oil dumb betray curious head spray priority never island";

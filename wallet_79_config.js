@@ -1,1 +1,1 @@
-var mnemonic = "kite fuel net maple radio riot wheel hour shop battle protect kiss";
+var mnemonic = "slow era gentle lift music lunch ready release among among law pony";

@@ -1,1 +1,1 @@
-var mnemonic = "east toy nephew picnic picnic leader exist frequent expose bid blur hand";
+var mnemonic = "wise damage clutch circle repair offer isolate busy suit auction retreat figure";

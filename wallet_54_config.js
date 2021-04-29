@@ -1,1 +1,1 @@
-var mnemonic = "oak vast fossil thank stamp pass huge earn damage suspect girl disorder";
+var mnemonic = "present artist stone spirit unusual resource warrior squirrel cushion present old convince";

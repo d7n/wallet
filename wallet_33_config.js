@@ -1,1 +1,1 @@
-var mnemonic = "index close knife genuine avocado need neglect clock defy twenty bronze room";
+var mnemonic = "apart easily erase prevent photo clap penalty sport tonight dinner napkin remain";

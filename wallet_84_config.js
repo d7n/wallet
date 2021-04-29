@@ -1,1 +1,1 @@
-var mnemonic = "wine swear inhale senior rubber tourist dust garlic midnight saddle radio potato";
+var mnemonic = "post appear advance skate brother rather erase alarm surprise yellow genius uniform";

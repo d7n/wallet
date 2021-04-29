@@ -1,1 +1,1 @@
-var mnemonic = "feature bounce spawn elbow oblige uniform satisfy scrub good settle ill fortune";
+var mnemonic = "already cattle clerk order pottery armor nature multiply hour candy polar know";

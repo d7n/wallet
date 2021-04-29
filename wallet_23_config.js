@@ -1,1 +1,1 @@
-var mnemonic = "fire foam offer envelope alone ready mouse tide month loan arctic chuckle";
+var mnemonic = "law fantasy banner shop pig alcohol demand left become road illness emotion";

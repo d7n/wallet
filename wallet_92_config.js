@@ -1,1 +1,1 @@
-var mnemonic = "buffalo grief solve concert muscle afraid embark tennis myself motion chronic evolve";
+var mnemonic = "eyebrow august clerk either elegant topple wash humor proud reflect equip afford";

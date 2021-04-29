@@ -1,1 +1,1 @@
-var mnemonic = "trial boil zoo punch brain step next have awkward fine feature wedding";
+var mnemonic = "attract cook mercy crush style correct crop network adjust day month maple";

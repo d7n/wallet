@@ -1,1 +1,1 @@
-var mnemonic = "evoke scissors height guard special hour blossom blush vibrant sure project photo";
+var mnemonic = "vendor want entry size sudden cannon claim sunny prison spike appear ask";

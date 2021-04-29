@@ -1,1 +1,1 @@
-var mnemonic = "bonus produce fancy leisure coach manual fluid almost cream knee lobster uniform";
+var mnemonic = "elegant oxygen later retreat lady enlist analyst latin dial melody domain tray";

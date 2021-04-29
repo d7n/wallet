@@ -1,1 +1,1 @@
-var mnemonic = "proof degree soft suffer copy cereal pyramid dawn keen journey become kingdom";
+var mnemonic = "stone space adapt balcony crowd segment august rookie note omit fish advance";

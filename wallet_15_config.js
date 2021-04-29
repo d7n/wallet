@@ -1,1 +1,1 @@
-var mnemonic = "true rate powder expire adapt common raccoon smart exhibit dad hospital frame";
+var mnemonic = "green nerve forest alcohol lemon flower doctor item brush eight reform shrimp";

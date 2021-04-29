@@ -1,1 +1,1 @@
-var mnemonic = "finger pole wreck nominee bench life route maid name connect fringe initial";
+var mnemonic = "advance film salt message brave asset federal exhaust basic patrol home horror";

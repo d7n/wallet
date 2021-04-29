@@ -1,1 +1,1 @@
-var mnemonic = "flavor modify next soul vote grunt logic friend fly stumble pelican face";
+var mnemonic = "harvest appear spoil math snake hood month trial comic duty captain thrive";

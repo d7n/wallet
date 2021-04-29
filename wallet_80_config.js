@@ -1,1 +1,1 @@
-var mnemonic = "dose nerve expect crucial cancel journey wealth famous tank exercise where journey";
+var mnemonic = "hockey auto scale gym world deal toy blade menu minor melt casino";

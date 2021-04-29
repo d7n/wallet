@@ -1,1 +1,1 @@
-var mnemonic = "general random rough embrace dwarf defense design icon survey round wonder forum";
+var mnemonic = "rely young ignore antenna drip matrix chimney tortoise surface parade range engine";

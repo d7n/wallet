@@ -1,1 +1,1 @@
-var mnemonic = "tag forget exit tilt decade can burger visa history bomb torch vibrant";
+var mnemonic = "cabin myth abuse velvet cash lottery follow assist stem order sign obey";

@@ -1,1 +1,1 @@
-var mnemonic = "enable scare burden danger any kit leisure moon snack turkey switch achieve";
+var mnemonic = "drum drift annual tuna rubber rib obtain vendor average harvest topple kiwi";
