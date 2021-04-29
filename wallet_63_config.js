@@ -1,1 +1,1 @@
-var mnemonic = "surface razor artwork subway mutual rich negative cannon rookie educate ceiling renew";
+var mnemonic = "fade tourist script youth relief sunset involve shoot sausage ginger notable twenty";

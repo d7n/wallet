@@ -1,1 +1,1 @@
-var mnemonic = "sail feature siege broken pelican harsh help cannon rescue noise remind indicate";
+var mnemonic = "prison join wise monitor finger good hidden infant garlic mistake affair scrub";

@@ -1,1 +1,1 @@
-var mnemonic = "certain report bike wing sustain sleep puppy still wolf juice cement click";
+var mnemonic = "wish just normal trouble good room basket quick knee gate gaze head";

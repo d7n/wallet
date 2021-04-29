@@ -1,1 +1,1 @@
-var mnemonic = "attack sell bulk skill mind nature ski version print unit bring educate";
+var mnemonic = "addict street plunge hedgehog they nephew cabbage zone nurse fish shadow foot";

@@ -1,1 +1,1 @@
-var mnemonic = "range plastic master doctor drastic industry grace april citizen credit admit quit";
+var mnemonic = "apart noise gas person main much moon oak proof east soda life";

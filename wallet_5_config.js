@@ -1,1 +1,1 @@
-var mnemonic = "direct prize grace elbow undo demise million fall recall erupt thumb sail";
+var mnemonic = "panda wash gallery skin range reflect magnet witness soft awesome capable define";

@@ -1,1 +1,1 @@
-var mnemonic = "empty degree pride result double define raise reunion auction head mammal month";
+var mnemonic = "mercy world horror daughter limb furnace slot multiply fatigue frost crazy muscle";

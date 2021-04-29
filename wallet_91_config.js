@@ -1,1 +1,1 @@
-var mnemonic = "window initial solve traffic more wonder clap pride siege ready sample leopard";
+var mnemonic = "forum frame kitten return express about uniform snap physical cruise frown pizza";

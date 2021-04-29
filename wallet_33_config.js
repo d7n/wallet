@@ -1,1 +1,1 @@
-var mnemonic = "tissue master absurd notable skin refuse gift six thing chase pottery party";
+var mnemonic = "culture payment frequent vivid hollow galaxy foster forget layer ticket globe ostrich";

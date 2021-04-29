@@ -1,1 +1,1 @@
-var mnemonic = "virtual yard summer insane west deer good execute meadow fold garden same";
+var mnemonic = "raven cabin clock eight armor broccoli box river meadow obey sing unique";

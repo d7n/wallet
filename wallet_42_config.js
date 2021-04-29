@@ -1,1 +1,1 @@
-var mnemonic = "punch stamp sphere giraffe diesel sample impulse liar thunder loyal casino add";
+var mnemonic = "square armed lyrics viable diary battle slice wheat thunder drift smart breeze";

@@ -1,1 +1,1 @@
-var mnemonic = "step wreck mind man wise leg beach lecture lamp isolate draft toe";
+var mnemonic = "initial hospital oxygen atom term leaf noise caution flee weasel enrich engage";

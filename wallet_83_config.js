@@ -1,1 +1,1 @@
-var mnemonic = "series sniff arctic explain lock horror cable trip cover tooth indoor grit";
+var mnemonic = "into flavor exist dial flush dog dismiss matter admit vehicle urge employ";

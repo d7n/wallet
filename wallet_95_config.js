@@ -1,1 +1,1 @@
-var mnemonic = "field gauge magnet near toilet spatial image decade step bullet jar sport";
+var mnemonic = "gauge render truly party below traffic armor rebuild use pulse kit normal";

@@ -1,1 +1,1 @@
-var mnemonic = "few twelve switch news feed monkey bar public jeans urge identify evil";
+var mnemonic = "water square attract trigger rally myself art equal drink timber ensure trust";

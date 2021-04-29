@@ -1,1 +1,1 @@
-var mnemonic = "law quote devote latin memory outdoor two wagon express image drink scrub";
+var mnemonic = "wing clock sleep flock auto release velvet defense canal trumpet bless attract";

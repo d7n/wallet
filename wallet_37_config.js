@@ -1,1 +1,1 @@
-var mnemonic = "soda diary idea produce leaf gorilla hire twist celery sausage daring slogan";
+var mnemonic = "elder pluck decade scorpion hollow goose clay wrap member offer gaze solution";

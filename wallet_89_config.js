@@ -1,1 +1,1 @@
-var mnemonic = "arena joy plastic little alert spice town assault riot neutral display local";
+var mnemonic = "curve actor chronic robust blanket clap pony sort primary large more start";

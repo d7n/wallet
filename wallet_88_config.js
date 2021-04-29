@@ -1,1 +1,1 @@
-var mnemonic = "victory relax lyrics rib mass mass mad album vanish gap thumb car";
+var mnemonic = "solar install car negative morning tuition inflict seed dirt pass lady pond";

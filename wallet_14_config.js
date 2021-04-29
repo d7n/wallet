@@ -1,1 +1,1 @@
-var mnemonic = "vague caution mixture junior stairs sibling supreme away draft spawn crawl ball";
+var mnemonic = "ladder manual vehicle bitter hamster decline maple just dismiss steak hotel still";

@@ -1,1 +1,1 @@
-var mnemonic = "horse choose awake priority idea moment cake steel surprise thumb solution weird";
+var mnemonic = "develop illness mail unit have army paper mind wolf you cute art";

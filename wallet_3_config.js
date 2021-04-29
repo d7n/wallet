@@ -1,1 +1,1 @@
-var mnemonic = "bomb cube clay radio win success rebel urban reveal nose fever teach";
+var mnemonic = "consider zero talk figure address razor butter same zero park ripple patch";

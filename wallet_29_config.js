@@ -1,1 +1,1 @@
-var mnemonic = "step deputy parent monkey bind expand tone topple path fine slogan latin";
+var mnemonic = "segment chase illness jelly tenant flower exile month rose spin verb opera";

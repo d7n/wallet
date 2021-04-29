@@ -1,1 +1,1 @@
-var mnemonic = "setup age venue rib cricket holiday tone admit business naive virtual inspire";
+var mnemonic = "arrest pigeon sugar punch thumb ecology tone give ignore correct cricket physical";

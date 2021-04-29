@@ -1,1 +1,1 @@
-var mnemonic = "ginger rich border bus lab suggest vessel remove boy used dignity vibrant";
+var mnemonic = "harsh digital decide correct riot marine total soft measure photo floor list";

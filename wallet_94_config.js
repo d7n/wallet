@@ -1,1 +1,1 @@
-var mnemonic = "above match oven outside eagle memory lab author nurse senior quiz embody";
+var mnemonic = "citizen movie heart rifle small festival silly ankle cloud steel elder monster";

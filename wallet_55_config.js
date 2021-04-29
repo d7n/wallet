@@ -1,1 +1,1 @@
-var mnemonic = "spy aspect enable adapt there remain cheap brother rebuild wage mother oak";
+var mnemonic = "valid title bitter believe guilt render rude few reunion blue search hammer";

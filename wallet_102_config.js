@@ -1,1 +1,1 @@
-var mnemonic = "about shop divert bridge young carpet bullet device viable snack rare task";
+var mnemonic = "naive expand border despair lyrics female spell rent crawl exclude satoshi eyebrow";

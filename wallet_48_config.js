@@ -1,1 +1,1 @@
-var mnemonic = "split machine account truth wink badge melt slim someone involve noodle unable";
+var mnemonic = "cradle lonely transfer shrimp copy neutral addict choose often cook trim depth";

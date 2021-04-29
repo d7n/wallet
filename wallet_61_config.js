@@ -1,1 +1,1 @@
-var mnemonic = "engine vicious disorder sing retire potato crowd curve desk sniff script divert";
+var mnemonic = "climb push protect craft usage crane patrol butter blossom couple forget noise";

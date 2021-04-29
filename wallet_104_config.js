@@ -1,1 +1,1 @@
-var mnemonic = "young demise grab story village ten fiction evolve imitate pioneer insect property";
+var mnemonic = "minute lend earn scheme twenty total original endorse erupt best citizen sight";

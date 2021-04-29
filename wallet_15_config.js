@@ -1,1 +1,1 @@
-var mnemonic = "inmate wet decide what umbrella light initial pluck device above chimney erosion";
+var mnemonic = "original shallow attack trumpet switch faint century hospital output ordinary device asset";

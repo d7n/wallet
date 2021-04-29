@@ -1,1 +1,1 @@
-var mnemonic = "tuition critic illegal velvet basic kind trim gasp barrel fit transfer warrior";
+var mnemonic = "fortune reopen sheriff film ability problem suffer index infant gasp embark sibling";

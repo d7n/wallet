@@ -1,1 +1,1 @@
-var mnemonic = "diet brick donor banner damp change music divide live brand fault father";
+var mnemonic = "sphere survey minimum dress face glimpse slam patch online steel pink lesson";

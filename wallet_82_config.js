@@ -1,1 +1,1 @@
-var mnemonic = "normal crater honey goat item response nuclear maid chef bleak borrow bench";
+var mnemonic = "name rail innocent decide mean coyote inject festival spread garment north valid";

@@ -1,1 +1,1 @@
-var mnemonic = "random hero pool enjoy lift sister cute next cherry retreat meadow chunk";
+var mnemonic = "salt claw kite winner hello light obvious cotton august jungle sail you";

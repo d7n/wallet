@@ -1,1 +1,1 @@
-var mnemonic = "voice vault gap math chimney giant warfare universe cage stage salt lamp";
+var mnemonic = "often stage toward moral column toward wave vessel spice tortoise clip axis";

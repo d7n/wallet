@@ -1,1 +1,1 @@
-var mnemonic = "panther situate size neutral unfold artist pepper defense bonus slam awake paper";
+var mnemonic = "alert maze century switch mystery rookie damage choose bike snack city hill";

@@ -1,1 +1,1 @@
-var mnemonic = "hip crack exotic seminar cradle lemon neither digital praise loud prevent author";
+var mnemonic = "target jaguar race engage tool decrease apart bone poverty benefit win climb";

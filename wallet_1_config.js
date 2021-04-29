@@ -1,1 +1,1 @@
-var mnemonic = "bronze eight crew hill brave debate economy question present monster jungle shaft";
+var mnemonic = "flush close seven usage monkey crisp margin trophy inherit early electric agent";

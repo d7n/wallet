@@ -1,1 +1,1 @@
-var mnemonic = "swear flee enable three true repeat orient empty cable island swap arrive";
+var mnemonic = "sphere fury suspect emotion into swing bubble erupt purchase truly wild segment";

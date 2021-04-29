@@ -1,1 +1,1 @@
-var mnemonic = "judge give melt stool rural culture sadness oppose give panic weather fade";
+var mnemonic = "stuff income enough fury entire arrive slab rely custom clean topple wild";

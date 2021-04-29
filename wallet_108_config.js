@@ -1,1 +1,1 @@
-var mnemonic = "tennis electric rotate ostrich media trash travel bulk purse focus odor spot";
+var mnemonic = "crop wage opera perfect hedgehog town bargain cram lift regret field globe";

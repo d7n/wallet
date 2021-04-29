@@ -1,1 +1,1 @@
-var mnemonic = "depend inject blanket print power load heart love girl thrive often reflect";
+var mnemonic = "hand kick hurry task grocery uniform march pyramid govern quick noise merry";

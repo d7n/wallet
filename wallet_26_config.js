@@ -1,1 +1,1 @@
-var mnemonic = "inform admit basic crush away exotic impact grid royal hurry run anger";
+var mnemonic = "syrup able display burst dinner chicken round excuse code gold pink possible";

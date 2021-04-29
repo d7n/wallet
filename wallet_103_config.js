@@ -1,1 +1,1 @@
-var mnemonic = "asthma soap fury staff produce vessel inform gap price rent roast jacket";
+var mnemonic = "stool twin fragile giraffe layer elegant rookie benefit captain foot more twin";

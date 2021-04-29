@@ -1,1 +1,1 @@
-var mnemonic = "member spatial meat stairs prefer blossom piano bargain eager labor fiction solar";
+var mnemonic = "stick series biology message hope acoustic cushion gap gather illness dumb clock";

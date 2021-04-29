@@ -1,1 +1,1 @@
-var mnemonic = "animal later into volcano pyramid athlete flavor skate pioneer laptop sad try";
+var mnemonic = "please portion essence unknown maple tree cause hair trap maximum circle sock";

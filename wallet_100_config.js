@@ -1,1 +1,1 @@
-var mnemonic = "error grocery claim renew valley cabin tornado either play gun once tank";
+var mnemonic = "gain vague spring fold crystal special loud copy claim demand wave absent";

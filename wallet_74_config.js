@@ -1,1 +1,1 @@
-var mnemonic = "chaos candy report elegant denial silly goat raise visit car mail income";
+var mnemonic = "stumble control shove crater caution furnace learn early entire tiger box sunset";

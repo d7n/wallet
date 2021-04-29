@@ -1,1 +1,1 @@
-var mnemonic = "coach infant frozen edit roast close ask room mobile case coffee dirt";
+var mnemonic = "cycle park carpet raise turn green fix dry profit roof soul worth";

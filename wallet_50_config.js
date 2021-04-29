@@ -1,1 +1,1 @@
-var mnemonic = "window girl armor reject few canoe bonus erase appear snap today medal";
+var mnemonic = "medal senior kick exclude index quote require employ muffin twice mercy work";

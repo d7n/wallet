@@ -1,1 +1,1 @@
-var mnemonic = "love oxygen steak fame crucial celery unable trust credit evolve bean scatter";
+var mnemonic = "spread debris grid budget entry total kiwi caught provide resemble top rate";

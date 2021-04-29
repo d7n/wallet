@@ -1,1 +1,1 @@
-var mnemonic = "valid copy fuel hurdle twelve enhance special priority giant tomato profit will";
+var mnemonic = "stumble soda scale dinosaur undo unknown alone art exchange actress cruise vast";

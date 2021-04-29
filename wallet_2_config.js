@@ -1,1 +1,1 @@
-var mnemonic = "repair train menu disagree home fashion genuine toss hint true kit unique";
+var mnemonic = "already silly unknown blade hold seat faculty wrap fuel shaft bounce bless";

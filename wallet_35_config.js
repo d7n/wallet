@@ -1,1 +1,1 @@
-var mnemonic = "actual then spend settle river alert tone real case north potato pigeon";
+var mnemonic = "thing coyote wood exhaust mixture keep century balcony present pave olympic disorder";

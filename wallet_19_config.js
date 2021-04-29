@@ -1,1 +1,1 @@
-var mnemonic = "dilemma cat tribe soft endless diesel enlist laugh whale shop youth image";
+var mnemonic = "concert walnut powder flag man useful whip hair wisdom bacon human fun";

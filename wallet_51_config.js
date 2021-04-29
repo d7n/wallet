@@ -1,1 +1,1 @@
-var mnemonic = "impulse swing wing dignity thing sing castle sister goat volume lizard praise";
+var mnemonic = "able nose what dial lady wave agent clock main need draw drill";

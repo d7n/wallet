@@ -1,1 +1,1 @@
-var mnemonic = "soccer shuffle nose border sing injury yellow veteran post digital scale segment";
+var mnemonic = "power cabbage atom poverty unique candy world kit grocery tag diamond tunnel";

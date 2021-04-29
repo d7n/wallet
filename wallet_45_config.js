@@ -1,1 +1,1 @@
-var mnemonic = "lab shoot month sound rain symbol story program march crazy autumn face";
+var mnemonic = "venture day frequent snap test split deputy open jaguar marriage inquiry stuff";

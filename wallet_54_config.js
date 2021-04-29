@@ -1,1 +1,1 @@
-var mnemonic = "outer seek initial pony thought spring wool olive observe swim try identify";
+var mnemonic = "runway useless disease iron mixed purpose certain ritual slogan planet arrive route";

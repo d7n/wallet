@@ -1,1 +1,1 @@
-var mnemonic = "enter uniform cluster derive teach odor chair pencil illegal hill century just";
+var mnemonic = "vehicle forum isolate marble size bomb advice ball only honey adapt day";

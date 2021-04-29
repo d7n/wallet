@@ -1,1 +1,1 @@
-var mnemonic = "target spell budget minor dad guilt lift round kitchen elevator shed copper";
+var mnemonic = "win present icon frozen toy tray doll fence awesome letter obvious like";

@@ -1,1 +1,1 @@
-var mnemonic = "major major impose snake balance crawl elephant elbow boost leave stone aunt";
+var mnemonic = "erode arrive any hub split point chronic thumb obscure farm cry cruel";

@@ -1,1 +1,1 @@
-var mnemonic = "wagon boat purpose list anchor beef grunt lumber test above tragic control";
+var mnemonic = "live input grape total garlic horse still bike caution plastic list tunnel";

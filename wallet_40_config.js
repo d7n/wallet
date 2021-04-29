@@ -1,1 +1,1 @@
-var mnemonic = "laugh account aware cement syrup clean mango joy soul journey just keen";
+var mnemonic = "evoke ethics boss this pond hospital live climb skill cause illegal large";

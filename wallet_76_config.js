@@ -1,1 +1,1 @@
-var mnemonic = "sound safe step pretty atom security job valid layer cabbage dynamic tiny";
+var mnemonic = "leisure advice blush buffalo grant wealth aim giant become extend ecology spin";

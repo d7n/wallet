@@ -1,1 +1,1 @@
-var mnemonic = "achieve swim coral core clump supreme gravity cream place lyrics become bachelor";
+var mnemonic = "cement inherit walnut police nurse february trash cabin ball bean clock three";

@@ -1,1 +1,1 @@
-var mnemonic = "skate where civil cable milk power skin impose limit speed loud crystal";
+var mnemonic = "maze apart stick cricket belt what holiday evil jelly violin under enforce";

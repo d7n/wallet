@@ -1,1 +1,1 @@
-var mnemonic = "oval churn other item reduce bring merit devote verify dose shoe nephew";
+var mnemonic = "forum lecture resist mixture win maple taste border repeat style fatigue trap";

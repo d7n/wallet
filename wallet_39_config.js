@@ -1,1 +1,1 @@
-var mnemonic = "second engine size fiber type scissors under client nurse vacant inside clever";
+var mnemonic = "stock language enjoy question energy stadium broom glow eagle lesson peasant rude";

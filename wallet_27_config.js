@@ -1,1 +1,1 @@
-var mnemonic = "stable hello swim joke swim stairs clerk miss vast immense silent scheme";
+var mnemonic = "laugh few behind enable require only nominee wool early tip bonus curtain";

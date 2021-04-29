@@ -1,1 +1,1 @@
-var mnemonic = "twelve mountain month okay assault sentence copy vivid airport border quantum display";
+var mnemonic = "feature fantasy gain term copper arrest person regular carpet use soccer update";

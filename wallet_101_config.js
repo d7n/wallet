@@ -1,1 +1,1 @@
-var mnemonic = "invite cash rather attract various donor habit buyer web famous analyst forget";
+var mnemonic = "balcony convince age puppy still bike bounce swift attract impact amazing quiz";

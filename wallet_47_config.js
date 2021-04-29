@@ -1,1 +1,1 @@
-var mnemonic = "awake cruel face blood spider bronze giant world color tree awkward office";
+var mnemonic = "strike popular mechanic vital rocket forum lunar business lumber goat comfort leopard";

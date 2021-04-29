@@ -1,1 +1,1 @@
-var mnemonic = "hint first silk body ancient fine dune slam large yard cash hazard";
+var mnemonic = "similar purpose bracket unfold letter table gym during vicious pluck actual neutral";

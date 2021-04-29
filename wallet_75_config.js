@@ -1,1 +1,1 @@
-var mnemonic = "exchange company educate life later aware father lab gadget raw dumb they";
+var mnemonic = "buzz hamster advance lava only pipe make end protect sample maze identify";

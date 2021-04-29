@@ -1,1 +1,1 @@
-var mnemonic = "latin dilemma raise fix mix marble nominee uncle gym turkey artefact conduct";
+var mnemonic = "cube outdoor argue lottery identify review blade depend blossom nephew option blind";

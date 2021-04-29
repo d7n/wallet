@@ -1,1 +1,1 @@
-var mnemonic = "blouse salad border sock wait addict twenty crumble auto scan liquid plunge";
+var mnemonic = "fringe metal narrow eight truck special notable account session journey critic prevent";

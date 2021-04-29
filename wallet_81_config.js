@@ -1,1 +1,1 @@
-var mnemonic = "illness fiber exchange wedding demise route inhale remind few broom napkin train";
+var mnemonic = "profit wall million evidence balcony mountain dutch slab distance body spice talk";

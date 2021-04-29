@@ -1,1 +1,1 @@
-var mnemonic = "climb gallery wonder please sketch movie finger census wrestle expand kidney decline";
+var mnemonic = "pill vital hole notice ripple wine oppose indicate chimney delay reduce scheme";

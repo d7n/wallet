@@ -1,1 +1,1 @@
-var mnemonic = "tissue author obey blind oven mad goddess short vendor price priority law";
+var mnemonic = "palace crater view strong uncle burst drum thought test gym invite among";

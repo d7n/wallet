@@ -1,1 +1,1 @@
-var mnemonic = "crowd cheese detail hill rent term unable screen labor already patch catalog";
+var mnemonic = "prosper benefit suggest when hard obey large category flag object daring theory";

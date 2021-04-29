@@ -1,1 +1,1 @@
-var mnemonic = "muscle guitar cargo conduct mistake burger march demise capital dial second thought";
+var mnemonic = "honey mass lizard grocery expire animal clock leaf transfer oval kitten tip";

@@ -1,1 +1,1 @@
-var mnemonic = "horn water treat cotton during liar praise bronze bomb mixed write pig";
+var mnemonic = "warfare awesome fiber nation coral paper vital betray text coast peace then";

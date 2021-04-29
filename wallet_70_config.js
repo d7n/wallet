@@ -1,1 +1,1 @@
-var mnemonic = "govern split route guard diet tornado goat wrist reform wolf general dove";
+var mnemonic = "muscle bright spatial replace plunge raven ready pistol tissue spirit host price";

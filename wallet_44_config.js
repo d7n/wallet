@@ -1,1 +1,1 @@
-var mnemonic = "siren ship chat move portion early before issue order injury install then";
+var mnemonic = "future soul viable host enrich photo regular hidden sun come august jazz";

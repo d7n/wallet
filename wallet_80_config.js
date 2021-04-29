@@ -1,1 +1,1 @@
-var mnemonic = "predict february join gun uniform wheel always mango fiction industry marriage disagree";
+var mnemonic = "display cat usage borrow lake tennis alert theme call leader kit struggle";
