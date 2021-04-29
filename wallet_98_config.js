@@ -1,1 +1,1 @@
-var mnemonic = "round welcome reason wish can work approve cattle refuse fresh enable stock";
+var mnemonic = "reform tooth kite bonus debris grant option loud major crane attack clown";

@@ -1,1 +1,1 @@
-var mnemonic = "aspect tool huge knife swear permit early cool offer celery verify inch";
+var mnemonic = "own trap bone swim angry buddy state topple vanish build deputy crush";

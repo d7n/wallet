@@ -1,1 +1,1 @@
-var mnemonic = "donor federal stairs accident kingdom already antique bean drink brass limb horse";
+var mnemonic = "suit adult recipe enable build kangaroo dynamic mind zoo kingdom slam walnut";

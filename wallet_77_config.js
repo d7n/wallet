@@ -1,1 +1,1 @@
-var mnemonic = "camp accuse cherry logic wave draw scan twelve deer wage brick fatal";
+var mnemonic = "accident bright acoustic valid skirt foam yard setup hollow shell rival pencil";

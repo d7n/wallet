@@ -1,1 +1,1 @@
-var mnemonic = "regular force merge cancel arrive stamp unknown there embrace lounge half blouse";
+var mnemonic = "bleak swift refuse torch theme fury genuine quiz advice outer stage lumber";

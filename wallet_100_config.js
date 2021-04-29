@@ -1,1 +1,1 @@
-var mnemonic = "assume ball brave erode drastic release path upset potato address history guide";
+var mnemonic = "clown brand beef bubble because property project wear eyebrow leader old tenant";

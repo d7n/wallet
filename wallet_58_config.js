@@ -1,1 +1,1 @@
-var mnemonic = "dumb end try observe enter blouse dog nation reveal badge saddle erupt";
+var mnemonic = "actual resemble couch pause engine empower make exile cluster guess ordinary ostrich";

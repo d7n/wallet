@@ -1,1 +1,1 @@
-var mnemonic = "load ladder alone south lava admit smart sauce choice robot carpet vacuum";
+var mnemonic = "peasant awake trick old soap essay trumpet nest swamp sock they suggest";

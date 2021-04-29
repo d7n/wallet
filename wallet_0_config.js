@@ -1,1 +1,1 @@
-var mnemonic = "powder pet find lecture vague stuff fossil turtle shoulder display cage upper";
+var mnemonic = "aisle gold key steel what kind grant answer provide pill breeze shadow";

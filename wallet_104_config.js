@@ -1,1 +1,1 @@
-var mnemonic = "symptom ecology blue coin saddle cat cycle eyebrow learn evolve milk angle";
+var mnemonic = "fuel marine wire protect flag mountain gentle perfect stay burst trap record";

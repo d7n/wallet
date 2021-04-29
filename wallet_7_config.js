@@ -1,1 +1,1 @@
-var mnemonic = "ribbon hope proof weapon insect derive cupboard sword furnace lawn school eight";
+var mnemonic = "trash squeeze avoid ginger egg siren equip pigeon boil sauce course together";

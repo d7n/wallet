@@ -1,1 +1,1 @@
-var mnemonic = "spin couch figure vessel long exist blind arrive other legal equal arrive";
+var mnemonic = "forum idea check offer sick van aisle gloom festival ankle method record";

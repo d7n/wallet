@@ -1,1 +1,1 @@
-var mnemonic = "reunion badge minimum want promote light slam dignity legal speed false price";
+var mnemonic = "say pioneer robot guide deal allow cash surround push gown quit envelope";

@@ -1,1 +1,1 @@
-var mnemonic = "faith outer master ribbon mountain dry enemy move roof abandon album walk";
+var mnemonic = "universe water pull stage scrap fix mountain method venture marine certain poverty";

@@ -1,1 +1,1 @@
-var mnemonic = "travel luxury dial consider strike hollow solution eager ill tool ability reward";
+var mnemonic = "auto bamboo carry just welcome immune method donor salt erase crisp guitar";

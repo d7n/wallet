@@ -1,1 +1,1 @@
-var mnemonic = "festival eight sleep stereo return cause ritual thought blue food pigeon tape";
+var mnemonic = "culture cotton hurdle oppose truly chapter rail expose garment noble display flush";

@@ -1,1 +1,1 @@
-var mnemonic = "teach dish palace glass shiver gather wisdom employ setup evidence sun border";
+var mnemonic = "verify negative dutch waste inflict finger fire grace choice venue keen employ";

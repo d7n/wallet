@@ -1,1 +1,1 @@
-var mnemonic = "crew embody arrive buzz mom powder fever month deliver game focus gesture";
+var mnemonic = "install hurt awkward logic awkward sadness knock keep raven sell path venue";

@@ -1,1 +1,1 @@
-var mnemonic = "bean clown client spice tape donate lunar valley song cycle unknown liquid";
+var mnemonic = "eagle vacant attack iron gym yard subway tail waste away loan melody";

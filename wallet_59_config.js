@@ -1,1 +1,1 @@
-var mnemonic = "name boring inherit hurdle afford ski good crash normal deal tortoise warfare";
+var mnemonic = "good fiscal vapor volume rocket leader twelve neglect expect alien shadow reflect";

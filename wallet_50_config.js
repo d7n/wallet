@@ -1,1 +1,1 @@
-var mnemonic = "excuse certain pumpkin sure oil spray museum friend art town penalty avocado";
+var mnemonic = "sample tourist moment mutual mosquito large roof deputy tray begin smooth poverty";

@@ -1,1 +1,1 @@
-var mnemonic = "evolve spend title ill noise boat group saddle wall exhibit exit figure";
+var mnemonic = "mom pilot trust say jeans skate little young indicate desert accident legend";

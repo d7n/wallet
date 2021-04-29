@@ -1,1 +1,1 @@
-var mnemonic = "silly grant neutral jar brave valley submit young fantasy blood salad wall";
+var mnemonic = "feel dish mango crumble client valid solid leopard company master ribbon control";

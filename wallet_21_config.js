@@ -1,1 +1,1 @@
-var mnemonic = "fetch twelve tragic maple explain emerge panel stumble text crucial oil muffin";
+var mnemonic = "size fish mutual ride body apple never wisdom pepper unfair beauty bicycle";

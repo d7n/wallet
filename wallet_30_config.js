@@ -1,1 +1,1 @@
-var mnemonic = "biology anchor satoshi nephew split renew describe stumble arch unique nothing okay";
+var mnemonic = "stadium private save ceiling okay can fancy silk genius stock thunder april";

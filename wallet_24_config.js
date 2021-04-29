@@ -1,1 +1,1 @@
-var mnemonic = "tiny diamond belt problem morning place under noodle buddy icon major sugar";
+var mnemonic = "mix scene judge pause oil ice horse river cliff test stick avocado";

@@ -1,1 +1,1 @@
-var mnemonic = "panic mass chaos magic lens occur muffin industry excite blur bargain train";
+var mnemonic = "muscle antenna flat february witness error cricket limit upper letter point area";

@@ -1,1 +1,1 @@
-var mnemonic = "crystal diary retreat worth give dutch chunk also gain dove scorpion garbage";
+var mnemonic = "emerge expire goose injury envelope dolphin company whisper weekend network rate trigger";

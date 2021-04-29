@@ -1,1 +1,1 @@
-var mnemonic = "name pole peanut heart sleep dune fever marriage vanish luxury diamond company";
+var mnemonic = "clog decrease dice elite weasel blood fish again kingdom drop athlete long";

@@ -1,1 +1,1 @@
-var mnemonic = "day palm human warm else start forum misery great crystal dignity kite";
+var mnemonic = "vibrant point host budget obvious element odor jump exercise museum degree supply";

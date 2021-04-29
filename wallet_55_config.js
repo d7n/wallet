@@ -1,1 +1,1 @@
-var mnemonic = "canvas crop scene quality venue lock tag object fitness manage undo quote";
+var mnemonic = "critic muffin nose young bike world jealous ceiling recall bleak afraid scrap";

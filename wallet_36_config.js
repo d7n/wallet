@@ -1,1 +1,1 @@
-var mnemonic = "right people disagree jewel come tone skin nasty stuff innocent oblige argue";
+var mnemonic = "pill grab spell poem inner aim mammal spend fall disagree update endless";

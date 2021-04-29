@@ -1,1 +1,1 @@
-var mnemonic = "sell clock cost unable sustain across express dragon creek impose story kiss";
+var mnemonic = "lamp shoe cram tobacco gauge phone cruise involve turn love trend either";

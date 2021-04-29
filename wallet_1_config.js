@@ -1,1 +1,1 @@
-var mnemonic = "surround clutch miracle enable crew minor dirt session gentle use detect axis";
+var mnemonic = "wedding evolve beach blast gate claw scare mandate number future clown slam";

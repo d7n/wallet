@@ -1,1 +1,1 @@
-var mnemonic = "merry squeeze increase easily demand valley jeans glare buyer hire liar jar";
+var mnemonic = "gold worry indoor clump month sphere castle shoulder drink pole search mean";

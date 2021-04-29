@@ -1,1 +1,1 @@
-var mnemonic = "obtain picnic capital ecology churn key cabin hole track custom hedgehog surprise";
+var mnemonic = "shield movie cry stadium hat seminar nephew draw forward brush chapter adult";

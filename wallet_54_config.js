@@ -1,1 +1,1 @@
-var mnemonic = "ill situate involve pizza shrimp monster fit insect material neglect hockey course";
+var mnemonic = "supreme evolve affair usual repair left shift lemon result ability recipe antique";

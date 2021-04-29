@@ -1,1 +1,1 @@
-var mnemonic = "pair disagree boost patient list yellow scatter market law bless giraffe antique";
+var mnemonic = "maximum exist concert trick safe jelly lecture inherit monkey welcome orange explain";

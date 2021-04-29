@@ -1,1 +1,1 @@
-var mnemonic = "ring hungry math quiz rapid muscle equal balcony great square tower avocado";
+var mnemonic = "snap avocado minute loan physical other key solve angle arrange pelican rug";

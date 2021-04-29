@@ -1,1 +1,1 @@
-var mnemonic = "engine fashion other festival faculty away whip shiver glue couch give will";
+var mnemonic = "denial achieve science ocean message teach frost sketch wrestle youth rifle oak";

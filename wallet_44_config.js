@@ -1,1 +1,1 @@
-var mnemonic = "suffer forget sheriff victory picnic fabric genius figure curtain syrup valve vault";
+var mnemonic = "scale glove husband turtle lock flight material meadow divorce movie misery world";

@@ -1,1 +1,1 @@
-var mnemonic = "crush second jazz reason damp angry spoon wine couple eight addict finger";
+var mnemonic = "benefit duty office sense earth silly urge virus range item witness mushroom";

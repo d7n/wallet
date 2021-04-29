@@ -1,1 +1,1 @@
-var mnemonic = "session average frequent razor powder lava raise rabbit ritual egg feature culture";
+var mnemonic = "common soul strike cargo goddess gold figure auction predict exit unusual oil";

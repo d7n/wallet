@@ -1,1 +1,1 @@
-var mnemonic = "smile couple size diesel advance medal attitude video twist armor switch useless";
+var mnemonic = "aerobic smile unfair round token capable sting faculty wrong replace glad keen";

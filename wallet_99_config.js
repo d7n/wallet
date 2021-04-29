@@ -1,1 +1,1 @@
-var mnemonic = "anger anxiety family wet prize finish drip champion kidney romance loan control";
+var mnemonic = "detect wine exclude few taste unaware scan swing nominee deer exhibit farm";

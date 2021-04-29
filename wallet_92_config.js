@@ -1,1 +1,1 @@
-var mnemonic = "under account breeze myth business total creek mansion melt judge device sense";
+var mnemonic = "tiny grab define media tent follow perfect shiver disease morning fold off";

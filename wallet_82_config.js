@@ -1,1 +1,1 @@
-var mnemonic = "exist tray gym ten butter link party worry math great day crane";
+var mnemonic = "lunch plastic vendor average soft target feel rose rotate fold jar canoe";

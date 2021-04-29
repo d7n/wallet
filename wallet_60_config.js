@@ -1,1 +1,1 @@
-var mnemonic = "grit drastic shoot response flower coach scatter eternal foster hungry camera crater";
+var mnemonic = "stadium pilot plunge puzzle edit bird ridge royal before another renew remain";

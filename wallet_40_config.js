@@ -1,1 +1,1 @@
-var mnemonic = "habit must voyage country boring prize unknown pistol chair test hungry around";
+var mnemonic = "army open leaf judge loan present tent amount rough royal warrior suffer";

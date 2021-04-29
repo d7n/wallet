@@ -1,1 +1,1 @@
-var mnemonic = "buzz settle picture culture social imitate wear swim engine humble sort finish";
+var mnemonic = "palace response top tornado reduce ugly fluid fiction knee chaos build steel";

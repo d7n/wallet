@@ -1,1 +1,1 @@
-var mnemonic = "ensure convince element supreme nature normal coin call coach royal ice chicken";
+var mnemonic = "episode melody easy lake budget garlic nuclear olympic various neutral wait lemon";

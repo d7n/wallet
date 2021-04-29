@@ -1,1 +1,1 @@
-var mnemonic = "donate inherit day whisper photo pact month panther gossip text excuse present";
+var mnemonic = "betray use fence noble hospital phone satisfy gasp lava cradle speed close";

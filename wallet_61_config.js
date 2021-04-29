@@ -1,1 +1,1 @@
-var mnemonic = "route time similar near tail obtain chapter attend awake goose cloud raw";
+var mnemonic = "upset ramp negative broom six phrase imitate gloom gun hockey almost spell";

@@ -1,1 +1,1 @@
-var mnemonic = "clinic arena lizard asthma length burden arrest flavor legend science forget velvet";
+var mnemonic = "echo enjoy core waste usual wolf mix gasp confirm flip own pair";

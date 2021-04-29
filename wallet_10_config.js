@@ -1,1 +1,1 @@
-var mnemonic = "front benefit divert cherry soul symbol bicycle parrot miss dizzy current body";
+var mnemonic = "conduct target thing village minimum permit elite airport reunion grain lady mind";

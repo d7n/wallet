@@ -1,1 +1,1 @@
-var mnemonic = "wage guard jungle purpose stick bench diagram season maid ritual slush curtain";
+var mnemonic = "hard minute east loop current injury assist close tide alpha topple circle";

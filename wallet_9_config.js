@@ -1,1 +1,1 @@
-var mnemonic = "song diet length garlic leg fury source fan casino mean palm crop";
+var mnemonic = "portion lounge coin involve chest lawsuit eyebrow dizzy fiscal harvest raise owner";

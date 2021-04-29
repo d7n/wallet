@@ -1,1 +1,1 @@
-var mnemonic = "erosion trophy orphan dust exile garlic oak piano cancel wool deal sorry";
+var mnemonic = "fun brush onion sword advice heavy execute betray believe grass flip dwarf";

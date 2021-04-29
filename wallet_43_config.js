@@ -1,1 +1,1 @@
-var mnemonic = "cliff cotton arm fiscal cost entire shield ticket cook close venture snap";
+var mnemonic = "street monitor dolphin floor reunion bind right size olive latin few desk";

@@ -1,1 +1,1 @@
-var mnemonic = "minor option soap actress dream bench pyramid piano october alter curtain jaguar";
+var mnemonic = "notable elevator royal fashion suspect faint chuckle wrist brave roof truck truck";

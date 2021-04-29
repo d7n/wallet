@@ -1,1 +1,1 @@
-var mnemonic = "celery miss seed asset umbrella affair boil indicate alley magic minor penalty";
+var mnemonic = "social merit under pepper vague select club finger fuel lava verify wrong";

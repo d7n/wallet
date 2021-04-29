@@ -1,1 +1,1 @@
-var mnemonic = "dune october length census tone vault ten cruel tornado buffalo auction pluck";
+var mnemonic = "alone mean lens stamp rely story material silk pencil amateur pride junk";

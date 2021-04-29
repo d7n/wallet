@@ -1,1 +1,1 @@
-var mnemonic = "actor social shell hip still enroll board brisk photo timber sunny will";
+var mnemonic = "wealth meat deny until frame wall witness salute hard orchard pipe liar";

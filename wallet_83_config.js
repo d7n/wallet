@@ -1,1 +1,1 @@
-var mnemonic = "blanket repair eager father wonder gas industry often pledge stable zone pigeon";
+var mnemonic = "tip nominee settle monster author noble layer jealous powder chimney fashion point";

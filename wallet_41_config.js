@@ -1,1 +1,1 @@
-var mnemonic = "lawn upset human kidney behind great find approve pink suggest skin genuine";
+var mnemonic = "carry educate purse lesson smooth used engage frame flag object total radio";

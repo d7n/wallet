@@ -1,1 +1,1 @@
-var mnemonic = "scrub phrase huge loan avocado black tool knock mechanic issue table unusual";
+var mnemonic = "spend rapid copy lizard they vanish gym odor segment woman close alpha";

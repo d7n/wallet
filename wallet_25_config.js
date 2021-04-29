@@ -1,1 +1,1 @@
-var mnemonic = "car view spider small neutral small topic drill ignore any color notice";
+var mnemonic = "lizard wool tackle duty protect shrug curtain grocery unveil dial foil illness";

@@ -1,1 +1,1 @@
-var mnemonic = "resist inflict fresh phone butter venue adult weapon leg insect loop pair";
+var mnemonic = "child come fiscal agent length tent describe winner delay ethics culture scheme";

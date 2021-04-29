@@ -1,1 +1,1 @@
-var mnemonic = "empower hammer solve device prefer kick crisp shine still broken wrap island";
+var mnemonic = "inflict soul level unaware latin father twin accuse palm juice stairs frequent";

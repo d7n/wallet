@@ -1,1 +1,1 @@
-var mnemonic = "hunt unhappy brick consider strike radar market process click exhaust stock better";
+var mnemonic = "pink spoon saddle virtual tree price earth city fossil arena cream fade";

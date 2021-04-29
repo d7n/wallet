@@ -1,1 +1,1 @@
-var mnemonic = "alarm someone fine where path effort either stem grass december arena dune";
+var mnemonic = "month wave practice electric laugh brown door into lecture like weekend grab";

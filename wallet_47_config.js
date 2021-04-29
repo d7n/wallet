@@ -1,1 +1,1 @@
-var mnemonic = "can enhance bird common banner lumber balcony civil drop movie hurry acquire";
+var mnemonic = "ginger beauty betray suspect wagon cycle current there universe injury weapon nose";

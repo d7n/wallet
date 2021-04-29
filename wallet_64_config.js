@@ -1,1 +1,1 @@
-var mnemonic = "future group shoot fence noodle ill yard alert soap heart tip cannon";
+var mnemonic = "cliff mammal flash piece glow energy skirt worry romance shallow loyal dizzy";

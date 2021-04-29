@@ -1,1 +1,1 @@
-var mnemonic = "bird cage multiply list shock find gown future merge demise detect faith";
+var mnemonic = "ocean whisper hammer include twice gloom unfair scrap basic lucky ivory critic";

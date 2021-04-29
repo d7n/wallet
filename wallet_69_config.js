@@ -1,1 +1,1 @@
-var mnemonic = "patrol online pause sadness despair master invest hobby damage float good magic";
+var mnemonic = "wrist check jealous outer drive develop response aim grid between general escape";

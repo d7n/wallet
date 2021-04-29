@@ -1,1 +1,1 @@
-var mnemonic = "skill please rude excess convince defy point soap credit future witness twenty";
+var mnemonic = "morning wink barely during artist olympic throw gentle prosper desert sing bean";

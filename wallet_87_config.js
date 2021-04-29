@@ -1,1 +1,1 @@
-var mnemonic = "absent earth disagree weasel broken talent harvest pigeon glass multiply uncover obscure";
+var mnemonic = "gauge harsh fragile drive when adjust plastic pepper memory evil echo erupt";

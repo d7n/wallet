@@ -1,1 +1,1 @@
-var mnemonic = "warfare cupboard good narrow voyage during flag farm anxiety scheme monitor practice";
+var mnemonic = "float cruel crater frost lab charge before north fine dress scissors print";

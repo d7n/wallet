@@ -1,1 +1,1 @@
-var mnemonic = "level spy one civil cry small decorate program goat rate mom suspect";
+var mnemonic = "kid quit old dry maid six magic stove pool settle replace timber";

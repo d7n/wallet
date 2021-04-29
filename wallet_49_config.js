@@ -1,1 +1,1 @@
-var mnemonic = "come sniff nature fame wear when rib rabbit destroy enlist flat armed";
+var mnemonic = "park animal waste army merry seminar grief penalty man control slice business";

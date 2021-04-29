@@ -1,1 +1,1 @@
-var mnemonic = "two famous voyage bubble shoe digital attract social hold abandon where insane";
+var mnemonic = "trouble chair burger shock frequent master poverty goose expect expose ready mechanic";

@@ -1,1 +1,1 @@
-var mnemonic = "lend club inform invest road cattle mass affair market property super child";
+var mnemonic = "second chronic team deal double shuffle version trap mistake sustain seminar picnic";

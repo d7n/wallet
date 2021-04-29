@@ -1,1 +1,1 @@
-var mnemonic = "stamp filter wool observe robot patch metal afford expand ugly timber dismiss";
+var mnemonic = "possible famous helmet walnut naive slim pistol monkey expose sentence head agree";

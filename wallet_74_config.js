@@ -1,1 +1,1 @@
-var mnemonic = "seminar brush festival bench enhance change pact warfare shrimp vocal carbon ranch";
+var mnemonic = "private faith crew laptop crumble real wealth future monkey agree combine bottom";

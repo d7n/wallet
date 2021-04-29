@@ -1,1 +1,1 @@
-var mnemonic = "step diet fold alpha note empower safe real inspire elevator tomato client";
+var mnemonic = "scan cash gap federal buffalo main large tuition wild twelve ranch obvious";

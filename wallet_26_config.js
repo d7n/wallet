@@ -1,1 +1,1 @@
-var mnemonic = "pet equip cruel original humble field category stock razor memory bar crunch";
+var mnemonic = "trim legal subject later aim oyster swap found cash again horse clean";

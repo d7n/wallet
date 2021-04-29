@@ -1,1 +1,1 @@
-var mnemonic = "arch grit museum purpose uniform sample hammer shrimp salon north swarm huge";
+var mnemonic = "unaware slot aerobic resemble voice endorse chef column daughter van wasp bind";

@@ -1,1 +1,1 @@
-var mnemonic = "nuclear feed define unveil pride office detect dilemma absurd rose brief find";
+var mnemonic = "isolate nose skill wine rice vast miracle sentence weird shift trap rescue";

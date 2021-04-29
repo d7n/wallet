@@ -1,1 +1,1 @@
-var mnemonic = "jar pistol parent comfort across discover piano proof wage usage retreat pupil";
+var mnemonic = "magic fade ask session conduct split notice correct champion roof tower early";

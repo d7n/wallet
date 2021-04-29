@@ -1,1 +1,1 @@
-var mnemonic = "amazing address soul dial bronze notice blood symbol occur enhance hamster penalty";
+var mnemonic = "large roof advance clerk stairs divide ginger script worth group someone casual";

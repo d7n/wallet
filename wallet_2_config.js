@@ -1,1 +1,1 @@
-var mnemonic = "inhale nasty pony border office box merit tonight traffic object puzzle still";
+var mnemonic = "soda ladder envelope comic idea pulp penalty dinosaur jeans enforce man network";
