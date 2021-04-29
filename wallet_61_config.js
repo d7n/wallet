@@ -1,1 +1,1 @@
-var mnemonic = "climb push protect craft usage crane patrol butter blossom couple forget noise";
+var mnemonic = "easy ramp labor peasant mammal sponsor chuckle short raise unique still isolate";

@@ -1,1 +1,1 @@
-var mnemonic = "concert walnut powder flag man useful whip hair wisdom bacon human fun";
+var mnemonic = "high icon dry tent foam renew glimpse notice pond again demand bundle";

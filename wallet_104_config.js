@@ -1,1 +1,1 @@
-var mnemonic = "minute lend earn scheme twenty total original endorse erupt best citizen sight";
+var mnemonic = "wide smart seed bench coin paper limit approve since element bomb glue";

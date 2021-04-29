@@ -1,1 +1,1 @@
-var mnemonic = "naive expand border despair lyrics female spell rent crawl exclude satoshi eyebrow";
+var mnemonic = "cable solid finish art tenant village planet more reveal collect endorse chief";

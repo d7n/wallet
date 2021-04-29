@@ -1,1 +1,1 @@
-var mnemonic = "wish just normal trouble good room basket quick knee gate gaze head";
+var mnemonic = "front crew champion valley install gravity come egg creek left peace above";

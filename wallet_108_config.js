@@ -1,1 +1,1 @@
-var mnemonic = "crop wage opera perfect hedgehog town bargain cram lift regret field globe";
+var mnemonic = "they post basic parent flash change tool bounce under process next globe";

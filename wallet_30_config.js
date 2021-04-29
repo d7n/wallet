@@ -1,1 +1,1 @@
-var mnemonic = "sphere fury suspect emotion into swing bubble erupt purchase truly wild segment";
+var mnemonic = "capital energy energy offer right spike mandate diesel fat sphere syrup correct";

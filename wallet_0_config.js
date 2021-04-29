@@ -1,1 +1,1 @@
-var mnemonic = "sand leaf inhale level print notice unit betray evil mango inquiry sunny";
+var mnemonic = "kidney scheme text ice hero virus yard anger trial dust slam buyer";

@@ -1,1 +1,1 @@
-var mnemonic = "power cabbage atom poverty unique candy world kit grocery tag diamond tunnel";
+var mnemonic = "sun junior curtain goose cash top ensure spatial main blood episode wood";

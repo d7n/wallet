@@ -1,1 +1,1 @@
-var mnemonic = "pill vital hole notice ripple wine oppose indicate chimney delay reduce scheme";
+var mnemonic = "index age advance economy meadow fatal hobby prison tired salad beyond flavor";

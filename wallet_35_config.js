@@ -1,1 +1,1 @@
-var mnemonic = "thing coyote wood exhaust mixture keep century balcony present pave olympic disorder";
+var mnemonic = "drastic brass now one raccoon method alone middle year sentence calm chunk";

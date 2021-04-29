@@ -1,1 +1,1 @@
-var mnemonic = "live input grape total garlic horse still bike caution plastic list tunnel";
+var mnemonic = "half lazy siege gap core there catch fancy youth aim vital imitate";

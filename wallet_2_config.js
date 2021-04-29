@@ -1,1 +1,1 @@
-var mnemonic = "already silly unknown blade hold seat faculty wrap fuel shaft bounce bless";
+var mnemonic = "coyote weekend clay bubble grief song woman bless legend tell length weather";

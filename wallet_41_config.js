@@ -1,1 +1,1 @@
-var mnemonic = "warfare awesome fiber nation coral paper vital betray text coast peace then";
+var mnemonic = "cattle table regret news distance pupil cement upset grunt enter pledge dad";

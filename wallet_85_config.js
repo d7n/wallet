@@ -1,1 +1,1 @@
-var mnemonic = "stuff income enough fury entire arrive slab rely custom clean topple wild";
+var mnemonic = "drum grab blood time lava blade decide rebuild prosper hood season input";

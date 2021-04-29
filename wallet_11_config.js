@@ -1,1 +1,1 @@
-var mnemonic = "wing clock sleep flock auto release velvet defense canal trumpet bless attract";
+var mnemonic = "exercise neither basket velvet balance public pluck system orange lend unusual level";

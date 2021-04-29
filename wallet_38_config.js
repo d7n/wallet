@@ -1,1 +1,1 @@
-var mnemonic = "cycle park carpet raise turn green fix dry profit roof soul worth";
+var mnemonic = "loyal paper universe east argue evidence indoor direct loyal license myself huge";

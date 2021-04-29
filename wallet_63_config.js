@@ -1,1 +1,1 @@
-var mnemonic = "fade tourist script youth relief sunset involve shoot sausage ginger notable twenty";
+var mnemonic = "result skirt radio unique paper hockey wrist sock razor adjust winter try";

@@ -1,1 +1,1 @@
-var mnemonic = "display cat usage borrow lake tennis alert theme call leader kit struggle";
+var mnemonic = "clever civil grape fall alarm bulk little apology devote garbage gorilla arch";

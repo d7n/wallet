@@ -1,1 +1,1 @@
-var mnemonic = "similar purpose bracket unfold letter table gym during vicious pluck actual neutral";
+var mnemonic = "light energy clog insane pipe trade turkey country special same burger market";

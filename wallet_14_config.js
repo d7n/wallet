@@ -1,1 +1,1 @@
-var mnemonic = "ladder manual vehicle bitter hamster decline maple just dismiss steak hotel still";
+var mnemonic = "drift flock company find regret sail panic similar minor law quality fetch";

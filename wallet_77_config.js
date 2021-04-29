@@ -1,1 +1,1 @@
-var mnemonic = "please portion essence unknown maple tree cause hair trap maximum circle sock";
+var mnemonic = "lumber load mind popular island coast message curious knife pony exit trigger";

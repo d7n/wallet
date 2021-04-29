@@ -1,1 +1,1 @@
-var mnemonic = "evoke ethics boss this pond hospital live climb skill cause illegal large";
+var mnemonic = "electric case elephant grass virtual rifle skirt elevator mail priority mercy reward";

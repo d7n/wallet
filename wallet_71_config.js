@@ -1,1 +1,1 @@
-var mnemonic = "arrest pigeon sugar punch thumb ecology tone give ignore correct cricket physical";
+var mnemonic = "faith dial fantasy grocery nose mesh robust hire excess scene shallow differ";

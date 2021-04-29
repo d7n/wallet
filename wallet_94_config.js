@@ -1,1 +1,1 @@
-var mnemonic = "citizen movie heart rifle small festival silly ankle cloud steel elder monster";
+var mnemonic = "field drip stairs crisp expose control faint execute green hamster genre earth";

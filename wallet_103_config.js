@@ -1,1 +1,1 @@
-var mnemonic = "stool twin fragile giraffe layer elegant rookie benefit captain foot more twin";
+var mnemonic = "demand genre under useless motion design bounce huge safe vendor mention lion";

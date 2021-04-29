@@ -1,1 +1,1 @@
-var mnemonic = "result all opera rookie pizza vendor thank budget tower basic meadow umbrella";
+var mnemonic = "action suit dismiss club tide giant metal faith illness used swarm deliver";

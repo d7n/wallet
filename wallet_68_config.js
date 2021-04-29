@@ -1,1 +1,1 @@
-var mnemonic = "spread debris grid budget entry total kiwi caught provide resemble top rate";
+var mnemonic = "canyon very sunny three brisk marriage pudding mesh wash bundle swing economy";

@@ -1,1 +1,1 @@
-var mnemonic = "profit wall million evidence balcony mountain dutch slab distance body spice talk";
+var mnemonic = "course nose oyster artwork inmate now wealth novel melody boat silver asset";

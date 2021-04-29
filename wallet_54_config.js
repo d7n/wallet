@@ -1,1 +1,1 @@
-var mnemonic = "runway useless disease iron mixed purpose certain ritual slogan planet arrive route";
+var mnemonic = "approve file grit chronic aisle human kidney business puppy bench earn carpet";

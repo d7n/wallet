@@ -1,1 +1,1 @@
-var mnemonic = "habit raven switch figure video cabin attitude oven heart cannon swing undo";
+var mnemonic = "gown nurse oblige collect basket connect ethics sport invite visit priority over";

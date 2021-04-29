@@ -1,1 +1,1 @@
-var mnemonic = "laugh few behind enable require only nominee wool early tip bonus curtain";
+var mnemonic = "bubble upper hurry diagram daring world unfair mind best devote trial wait";

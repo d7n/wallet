@@ -1,1 +1,1 @@
-var mnemonic = "addict street plunge hedgehog they nephew cabbage zone nurse fish shadow foot";
+var mnemonic = "lonely sign pumpkin ten stand peace melt pyramid present track thought replace";

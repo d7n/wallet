@@ -1,1 +1,1 @@
-var mnemonic = "win present icon frozen toy tray doll fence awesome letter obvious like";
+var mnemonic = "visual wedding sponsor margin deny label drip alcohol true bamboo antique sponsor";

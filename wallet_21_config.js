@@ -1,1 +1,1 @@
-var mnemonic = "feature fantasy gain term copper arrest person regular carpet use soccer update";
+var mnemonic = "riot slush assault narrow gorilla mobile razor exact gospel step blade club";

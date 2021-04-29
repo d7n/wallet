@@ -1,1 +1,1 @@
-var mnemonic = "engage diamond enable occur field crash cube burst you special athlete island";
+var mnemonic = "twelve rifle before puppy crystal sight worry grief ozone sunny alarm filter";

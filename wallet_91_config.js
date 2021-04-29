@@ -1,1 +1,1 @@
-var mnemonic = "forum frame kitten return express about uniform snap physical cruise frown pizza";
+var mnemonic = "cupboard critic winter material history retire lady exchange picture brother decade humble";

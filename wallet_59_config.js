@@ -1,1 +1,1 @@
-var mnemonic = "raven cabin clock eight armor broccoli box river meadow obey sing unique";
+var mnemonic = "slight person grocery pluck mercy thank praise spoil patient nest job aerobic";

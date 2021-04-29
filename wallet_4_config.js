@@ -1,1 +1,1 @@
-var mnemonic = "develop illness mail unit have army paper mind wolf you cute art";
+var mnemonic = "sorry nasty educate ceiling taxi empower plastic extra spell utility bleak fat";

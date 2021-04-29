@@ -1,1 +1,1 @@
-var mnemonic = "leisure advice blush buffalo grant wealth aim giant become extend ecology spin";
+var mnemonic = "fog toddler rack enact hurry write cake six priority peace beef coral";

@@ -1,1 +1,1 @@
-var mnemonic = "palace crater view strong uncle burst drum thought test gym invite among";
+var mnemonic = "hip trust poverty mango leopard door glow census barely test cloud crack";

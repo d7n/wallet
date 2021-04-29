@@ -1,1 +1,1 @@
-var mnemonic = "stumble control shove crater caution furnace learn early entire tiger box sunset";
+var mnemonic = "endorse wave spot orange minor crucial hole fitness teach gesture crystal convince";

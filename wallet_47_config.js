@@ -1,1 +1,1 @@
-var mnemonic = "strike popular mechanic vital rocket forum lunar business lumber goat comfort leopard";
+var mnemonic = "explain soft moral quit reunion catalog fluid coin boil congress festival illegal";

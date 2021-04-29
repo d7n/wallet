@@ -1,1 +1,1 @@
-var mnemonic = "donor romance apart turn laptop raw hood genuine split east list say";
+var mnemonic = "pass bench such immune video puppy sound oblige below giraffe snap ordinary";

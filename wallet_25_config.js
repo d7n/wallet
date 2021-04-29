@@ -1,1 +1,1 @@
-var mnemonic = "leader section express tool nasty require enemy food lesson inform output burger";
+var mnemonic = "auction trap mom space bind pulse dream reason bicycle attend runway omit";

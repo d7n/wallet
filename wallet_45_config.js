@@ -1,1 +1,1 @@
-var mnemonic = "venture day frequent snap test split deputy open jaguar marriage inquiry stuff";
+var mnemonic = "skirt chicken team tooth quantum daughter situate hobby motor dash combine bag";

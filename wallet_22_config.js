@@ -1,1 +1,1 @@
-var mnemonic = "lab catch next leopard access expect stumble beyond sketch unique minor empty";
+var mnemonic = "chunk drill insect advice topic own sister music purse smile cause nice";

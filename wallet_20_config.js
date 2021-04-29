@@ -1,1 +1,1 @@
-var mnemonic = "water square attract trigger rally myself art equal drink timber ensure trust";
+var mnemonic = "olive purpose float print coyote advance tenant phone monster shoulder cushion virus";

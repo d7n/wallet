@@ -1,1 +1,1 @@
-var mnemonic = "into flavor exist dial flush dog dismiss matter admit vehicle urge employ";
+var mnemonic = "dune scan evidence admit wool man copper bargain enough narrow demise slim";

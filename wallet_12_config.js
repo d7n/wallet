@@ -1,1 +1,1 @@
-var mnemonic = "apart noise gas person main much moon oak proof east soda life";
+var mnemonic = "accident man sheriff utility drastic evidence armor abuse amazing helmet shield reduce";

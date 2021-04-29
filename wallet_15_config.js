@@ -1,1 +1,1 @@
-var mnemonic = "original shallow attack trumpet switch faint century hospital output ordinary device asset";
+var mnemonic = "alpha account fancy trend napkin vanish strategy symptom clip empty core submit";

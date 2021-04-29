@@ -1,1 +1,1 @@
-var mnemonic = "prosper benefit suggest when hard obey large category flag object daring theory";
+var mnemonic = "marriage exhibit senior choose similar merge winter decade kiwi scrap duck depth";

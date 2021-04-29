@@ -1,1 +1,1 @@
-var mnemonic = "stumble soda scale dinosaur undo unknown alone art exchange actress cruise vast";
+var mnemonic = "allow park venue coral trick awkward detect vendor travel giant aspect galaxy";

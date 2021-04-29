@@ -1,1 +1,1 @@
-var mnemonic = "often stage toward moral column toward wave vessel spice tortoise clip axis";
+var mnemonic = "unaware hobby acid dash green gadget inmate across hawk proud follow elbow";

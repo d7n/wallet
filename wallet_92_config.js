@@ -1,1 +1,1 @@
-var mnemonic = "initial hospital oxygen atom term leaf noise caution flee weasel enrich engage";
+var mnemonic = "sleep cream chimney upgrade echo future yellow pond amazing arrange suffer chuckle";

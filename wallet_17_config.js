@@ -1,1 +1,1 @@
-var mnemonic = "gate include pole august job produce beef bring surge bag hurt retreat";
+var mnemonic = "common find ethics furnace initial away confirm rich horror gun coin pipe";

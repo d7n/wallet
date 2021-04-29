@@ -1,1 +1,1 @@
-var mnemonic = "fortune reopen sheriff film ability problem suffer index infant gasp embark sibling";
+var mnemonic = "forward problem holiday shop adult endorse vacant awful animal describe monitor topple";

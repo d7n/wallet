@@ -1,1 +1,1 @@
-var mnemonic = "stock language enjoy question energy stadium broom glow eagle lesson peasant rude";
+var mnemonic = "useful decorate knife pause club envelope length version sport wolf conduct cargo";

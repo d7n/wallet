@@ -1,1 +1,1 @@
-var mnemonic = "target jaguar race engage tool decrease apart bone poverty benefit win climb";
+var mnemonic = "key join shallow game prevent audit awake absorb sight blanket alpha green";

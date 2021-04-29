@@ -1,1 +1,1 @@
-var mnemonic = "develop stamp surprise arrive income deal steel answer learn genius cry whale";
+var mnemonic = "athlete seminar clip dirt citizen autumn drastic stand six immense message brick";

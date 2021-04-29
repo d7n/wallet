@@ -1,1 +1,1 @@
-var mnemonic = "metal bachelor ten fringe moral drum cloud occur suit ramp clock review";
+var mnemonic = "similar script grain pioneer merge jungle knife doctor gasp mother tube benefit";

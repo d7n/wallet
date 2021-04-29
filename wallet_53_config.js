@@ -1,1 +1,1 @@
-var mnemonic = "alert maze century switch mystery rookie damage choose bike snack city hill";
+var mnemonic = "erosion enroll couch source face stereo any engage breeze spring glad border";

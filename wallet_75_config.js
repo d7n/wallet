@@ -1,1 +1,1 @@
-var mnemonic = "buzz hamster advance lava only pipe make end protect sample maze identify";
+var mnemonic = "valve smile pizza rookie urban caught gun afraid deny burger inject earn";

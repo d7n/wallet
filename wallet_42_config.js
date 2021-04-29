@@ -1,1 +1,1 @@
-var mnemonic = "square armed lyrics viable diary battle slice wheat thunder drift smart breeze";
+var mnemonic = "develop jelly clinic rabbit popular master hurdle six east hen south require";

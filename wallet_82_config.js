@@ -1,1 +1,1 @@
-var mnemonic = "name rail innocent decide mean coyote inject festival spread garment north valid";
+var mnemonic = "century duck cover swallow business exhibit gossip upset crane inside filter total";

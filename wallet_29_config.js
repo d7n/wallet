@@ -1,1 +1,1 @@
-var mnemonic = "segment chase illness jelly tenant flower exile month rose spin verb opera";
+var mnemonic = "ivory island drink auction pig world success clown move senior door holiday";

@@ -1,1 +1,1 @@
-var mnemonic = "valid title bitter believe guilt render rude few reunion blue search hammer";
+var mnemonic = "february beauty meadow end adult sugar air sun section rebuild slam develop";

@@ -1,1 +1,1 @@
-var mnemonic = "fringe metal narrow eight truck special notable account session journey critic prevent";
+var mnemonic = "fly lend pass exile furnace crystal absurd place spot amazing fatigue century";

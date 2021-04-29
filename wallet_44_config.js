@@ -1,1 +1,1 @@
-var mnemonic = "future soul viable host enrich photo regular hidden sun come august jazz";
+var mnemonic = "pole asthma later inch spatial month iron half jaguar clap noise donkey";

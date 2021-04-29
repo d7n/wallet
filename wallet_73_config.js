@@ -1,1 +1,1 @@
-var mnemonic = "prison join wise monitor finger good hidden infant garlic mistake affair scrub";
+var mnemonic = "mammal any hair weather girl orange rubber bind weekend sheriff raw joke";

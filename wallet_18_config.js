@@ -1,1 +1,1 @@
-var mnemonic = "harsh digital decide correct riot marine total soft measure photo floor list";
+var mnemonic = "faint during lumber grow stairs puppy bind frozen wisdom wool inch ice";

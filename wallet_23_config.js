@@ -1,1 +1,1 @@
-var mnemonic = "stick series biology message hope acoustic cushion gap gather illness dumb clock";
+var mnemonic = "solid pumpkin wolf trick amazing liberty clinic ignore proof fun program spend";

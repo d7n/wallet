@@ -1,1 +1,1 @@
-var mnemonic = "unit bench abuse total burden glory earth cannon mom claw cheese spy";
+var mnemonic = "toward baby wise soon author choice reflect timber term hurt emotion hip";

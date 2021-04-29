@@ -1,1 +1,1 @@
-var mnemonic = "vehicle forum isolate marble size bomb advice ball only honey adapt day";
+var mnemonic = "truth rough pink nose candy media frog wide scissors nest used client";

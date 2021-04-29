@@ -1,1 +1,1 @@
-var mnemonic = "flush close seven usage monkey crisp margin trophy inherit early electric agent";
+var mnemonic = "game hobby mail sign point cloud vocal cage tackle breeze copy slot";

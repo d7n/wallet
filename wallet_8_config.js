@@ -1,1 +1,1 @@
-var mnemonic = "defy blame bike day globe decade phone despair green tilt snake famous";
+var mnemonic = "music patient guess step visit protect lend doctor volcano various hat palm";

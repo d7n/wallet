@@ -1,1 +1,1 @@
-var mnemonic = "erode arrive any hub split point chronic thumb obscure farm cry cruel";
+var mnemonic = "already major address black curtain you affair vocal tortoise symptom cupboard patrol";

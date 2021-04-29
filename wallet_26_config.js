@@ -1,1 +1,1 @@
-var mnemonic = "syrup able display burst dinner chicken round excuse code gold pink possible";
+var mnemonic = "funny boring equip answer million pond spray knock scale wife surge monkey";

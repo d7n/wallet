@@ -1,1 +1,1 @@
-var mnemonic = "phone pelican race sustain interest pride release grief rib round oval elephant";
+var mnemonic = "kangaroo van insane chalk scrap welcome expand own fashion rose embark village";

@@ -1,1 +1,1 @@
-var mnemonic = "pass quit tag device wood cricket neutral inner entry final pistol banner";
+var mnemonic = "grunt lava reduce push order catalog slender axis dumb stairs trash blind";

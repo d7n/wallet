@@ -1,1 +1,1 @@
-var mnemonic = "balcony convince age puppy still bike bounce swift attract impact amazing quiz";
+var mnemonic = "hidden ghost victory camera license dignity dog clever cheese build mechanic region";

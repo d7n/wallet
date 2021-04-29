@@ -1,1 +1,1 @@
-var mnemonic = "muscle bright spatial replace plunge raven ready pistol tissue spirit host price";
+var mnemonic = "deliver ordinary move behave coil dream clay bachelor cry link odor bar";

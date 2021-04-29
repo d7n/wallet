@@ -1,1 +1,1 @@
-var mnemonic = "gauge render truly party below traffic armor rebuild use pulse kit normal";
+var mnemonic = "gift picnic region food ugly earn couple volume agent enjoy they potato";

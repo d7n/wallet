@@ -1,1 +1,1 @@
-var mnemonic = "elder pluck decade scorpion hollow goose clay wrap member offer gaze solution";
+var mnemonic = "always lens income negative attend hidden educate century weekend coffee spot apart";

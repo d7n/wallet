@@ -1,1 +1,1 @@
-var mnemonic = "honey mass lizard grocery expire animal clock leaf transfer oval kitten tip";
+var mnemonic = "habit viable company fix jewel vibrant hope forget gym loan hold one";

@@ -1,1 +1,1 @@
-var mnemonic = "culture payment frequent vivid hollow galaxy foster forget layer ticket globe ostrich";
+var mnemonic = "stairs question orphan lucky gap leg curtain silent toward useful reflect busy";

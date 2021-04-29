@@ -1,1 +1,1 @@
-var mnemonic = "gain vague spring fold crystal special loud copy claim demand wave absent";
+var mnemonic = "nephew glow noise kangaroo nature planet torch cat clarify tennis board total";

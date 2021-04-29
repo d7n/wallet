@@ -1,1 +1,1 @@
-var mnemonic = "medal senior kick exclude index quote require employ muffin twice mercy work";
+var mnemonic = "autumn tornado never horse dash husband purity stone refuse wink skirt burst";

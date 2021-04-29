@@ -1,1 +1,1 @@
-var mnemonic = "solar install car negative morning tuition inflict seed dirt pass lady pond";
+var mnemonic = "bamboo wonder hurdle parent country rate marble panther trust gun alone exist";

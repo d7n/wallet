@@ -1,1 +1,1 @@
-var mnemonic = "alcohol decrease ostrich apology random exist income steel bird jealous special about";
+var mnemonic = "color palace clown winter hospital world team adapt cannon borrow ocean hawk";

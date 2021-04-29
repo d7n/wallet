@@ -1,1 +1,1 @@
-var mnemonic = "jelly machine drive fresh cause shift because inspire truck screen wing drip";
+var mnemonic = "awesome park people supreme next tribe sustain know like runway increase mind";

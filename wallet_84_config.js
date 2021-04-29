@@ -1,1 +1,1 @@
-var mnemonic = "forum lecture resist mixture win maple taste border repeat style fatigue trap";
+var mnemonic = "cotton fabric ghost edge method student bread flower tumble wise domain guess";

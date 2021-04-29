@@ -1,1 +1,1 @@
-var mnemonic = "mercy world horror daughter limb furnace slot multiply fatigue frost crazy muscle";
+var mnemonic = "genre since join stamp indicate school inflict field hedgehog click acquire lesson";

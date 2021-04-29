@@ -1,1 +1,1 @@
-var mnemonic = "hand kick hurry task grocery uniform march pyramid govern quick noise merry";
+var mnemonic = "win combine bounce laugh reform slam pudding initial taxi horse pistol invite";
