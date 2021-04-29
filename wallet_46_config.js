@@ -1,1 +1,1 @@
-var mnemonic = "immune rescue call main enhance slogan excite promote sibling ring cereal auto";
+var mnemonic = "bulb member trick forest remain search remain test rural chalk dolphin soap";

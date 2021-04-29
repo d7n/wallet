@@ -1,1 +1,1 @@
-var mnemonic = "unveil puzzle much reopen since among resource easy decade faith general cigar";
+var mnemonic = "butter gravity tomorrow destroy parade average shed average mother will bleak public";

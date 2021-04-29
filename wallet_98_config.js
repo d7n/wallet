@@ -1,1 +1,1 @@
-var mnemonic = "reunion giggle social work before truth violin bulb review charge galaxy side";
+var mnemonic = "fury goose giant awful nose pitch wire climb season siege lawsuit hard";

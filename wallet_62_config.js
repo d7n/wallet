@@ -1,1 +1,1 @@
-var mnemonic = "skirt practice dog skate fee robust column wrap what cash milk bamboo";
+var mnemonic = "bulb border announce slice border turkey gather stool path moment enforce bench";

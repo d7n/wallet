@@ -1,1 +1,1 @@
-var mnemonic = "theme panic defy type kingdom hundred museum family renew crater found comfort";
+var mnemonic = "sponsor vocal valid disagree pull regret moral better noble recall cigar impact";

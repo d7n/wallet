@@ -1,1 +1,1 @@
-var mnemonic = "friend useless scene notable believe clutch shrimp uniform ignore trophy tourist champion";
+var mnemonic = "divide same range merge thunder blanket render decline carpet carbon diary gather";

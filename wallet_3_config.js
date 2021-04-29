@@ -1,1 +1,1 @@
-var mnemonic = "stomach grit oak mule dumb duck route eye into clap slogan spot";
+var mnemonic = "math question wing bachelor matter degree velvet knee together license leisure chief";

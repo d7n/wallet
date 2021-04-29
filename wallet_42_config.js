@@ -1,1 +1,1 @@
-var mnemonic = "train half strategy usage lucky exile guess ball truth denial height air";
+var mnemonic = "alley review decide jazz side nerve horn destroy slogan doctor snow love";

@@ -1,1 +1,1 @@
-var mnemonic = "begin pave nose clap frown equip hover rabbit foil acquire indoor uncle";
+var mnemonic = "slush gas volume reopen price rally print fever party blue enrich stuff";

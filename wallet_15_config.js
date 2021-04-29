@@ -1,1 +1,1 @@
-var mnemonic = "buddy lemon portion neutral fortune burden short mouse assist legal broccoli quality";
+var mnemonic = "slide crystal car general time three coil exile retreat legend expand diamond";

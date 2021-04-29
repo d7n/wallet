@@ -1,1 +1,1 @@
-var mnemonic = "misery keep garage merry worth sleep gaze donate inform dolphin country razor";
+var mnemonic = "upon climb equal dose survey life stadium afraid prefer food evoke joke";

@@ -1,1 +1,1 @@
-var mnemonic = "accident rival science satoshi soft better pony ladder push reject sunny extra";
+var mnemonic = "weekend come another car inmate citizen yard fresh approve leader unaware have";

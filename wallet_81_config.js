@@ -1,1 +1,1 @@
-var mnemonic = "poet napkin food fetch gospel core cricket transfer term seat rescue high";
+var mnemonic = "farm explain pretty emerge rude interest pupil claim surround dismiss clog blur";

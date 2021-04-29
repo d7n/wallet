@@ -1,1 +1,1 @@
-var mnemonic = "wheat liar shine sun winner ivory stereo color dolphin swing domain success";
+var mnemonic = "child snack program imitate tribe flat atom bleak slam price faith issue";

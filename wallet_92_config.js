@@ -1,1 +1,1 @@
-var mnemonic = "ring rigid alien grow early solar wonder cargo human enemy earn setup";
+var mnemonic = "bullet aisle oil peasant habit timber near orient fun raccoon series quote";

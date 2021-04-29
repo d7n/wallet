@@ -1,1 +1,1 @@
-var mnemonic = "certain mom theme fog gasp grant sell season open spoon tower runway";
+var mnemonic = "quarter parent sun number survey cargo decade hire picnic sell giraffe monkey";

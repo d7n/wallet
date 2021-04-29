@@ -1,1 +1,1 @@
-var mnemonic = "tribe practice girl tail leader unknown tide build bulb boring alien coyote";
+var mnemonic = "puppy busy garment romance canvas obscure tired oil rocket gallery scrap abandon";

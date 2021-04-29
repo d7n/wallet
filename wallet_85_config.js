@@ -1,1 +1,1 @@
-var mnemonic = "leader once giraffe galaxy dog decline turtle battle quantum soft account above";
+var mnemonic = "tackle hat kick credit differ boost submit winter decade drill chair over";

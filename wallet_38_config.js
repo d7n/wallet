@@ -1,1 +1,1 @@
-var mnemonic = "marine know anchor motor end category primary fat maze trophy include practice";
+var mnemonic = "sure joy side renew math announce video scatter solution tongue door roast";

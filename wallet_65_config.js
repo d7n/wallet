@@ -1,1 +1,1 @@
-var mnemonic = "cliff myself ball same clarify dance auto scare uniform ginger age erase";
+var mnemonic = "adult shine crush leader inform index tag stove region basic suspect bicycle";

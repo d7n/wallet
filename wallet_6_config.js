@@ -1,1 +1,1 @@
-var mnemonic = "beyond stereo myself ripple hurry decide yellow inch auction income trophy flock";
+var mnemonic = "scare swim permit fade impose vintage average small damage web next afraid";

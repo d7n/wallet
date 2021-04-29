@@ -1,1 +1,1 @@
-var mnemonic = "plate ship turkey warrior survey yellow lock palace hidden mom evoke pistol";
+var mnemonic = "thank give ceiling silk there portion salute fox disorder now kit fetch";

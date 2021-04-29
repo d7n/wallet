@@ -1,1 +1,1 @@
-var mnemonic = "youth muscle spirit envelope ocean toddler legal sleep enemy topple derive lab";
+var mnemonic = "defy uncle rigid soul include buffalo civil web earn ignore scene possible";

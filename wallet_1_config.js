@@ -1,1 +1,1 @@
-var mnemonic = "script assist frog garden initial awful bamboo early wheel impose another use";
+var mnemonic = "job mask lens use scatter wash news switch extra purity spot sport";

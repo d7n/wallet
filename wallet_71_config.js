@@ -1,1 +1,1 @@
-var mnemonic = "path city member liberty arrow focus finish poverty dice supply access neglect";
+var mnemonic = "harbor jungle flock thrive junior praise steak trip dish decrease drama skate";

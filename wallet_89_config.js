@@ -1,1 +1,1 @@
-var mnemonic = "visual picnic lens input second since letter human monster brief quality travel";
+var mnemonic = "brief apple calm escape dutch novel assist jaguar chair trip point daughter";

@@ -1,1 +1,1 @@
-var mnemonic = "tail later diet fringe vanish mixed cute section sword myself hill scale";
+var mnemonic = "renew there oxygen mandate agree short tide label cage vintage vote target";

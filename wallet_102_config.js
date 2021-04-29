@@ -1,1 +1,1 @@
-var mnemonic = "around pencil load grunt juice nothing junk acid session typical stand fence";
+var mnemonic = "tiger home double example sign fade outer deny hold share morning loan";

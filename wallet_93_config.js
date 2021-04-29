@@ -1,1 +1,1 @@
-var mnemonic = "embrace saddle spend purity worth material robust invest crystal twin actress hawk";
+var mnemonic = "debate gorilla increase tribe leopard sunny unknown toast topic arrange mango sing";

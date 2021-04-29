@@ -1,1 +1,1 @@
-var mnemonic = "middle whale announce cave heavy repair popular fork cube cube shadow slab";
+var mnemonic = "jacket emerge large flower clap guilt eyebrow lawsuit oven frequent day practice";

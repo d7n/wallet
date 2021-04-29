@@ -1,1 +1,1 @@
-var mnemonic = "child boost float visual wash initial material cement vocal glare hour solution";
+var mnemonic = "review romance climb season mouse mix forest symbol tuna test vacant law";

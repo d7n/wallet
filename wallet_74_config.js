@@ -1,1 +1,1 @@
-var mnemonic = "dirt payment hollow tribe armed midnight shift toy stumble sentence course win";
+var mnemonic = "tiger tissue olympic ketchup toilet inner shoot exhibit visit rescue pet false";

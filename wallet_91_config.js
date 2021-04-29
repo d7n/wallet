@@ -1,1 +1,1 @@
-var mnemonic = "car distance grant smart sugar target tide exotic close inject proud noodle";
+var mnemonic = "lizard enough task slow small ivory extra absent magnet roof since breeze";

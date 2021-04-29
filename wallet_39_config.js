@@ -1,1 +1,1 @@
-var mnemonic = "legal clarify camp punch someone firm hard object fly arrow park speed";
+var mnemonic = "define wild power toy hard tree wild train dolphin ask predict critic";

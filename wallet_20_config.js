@@ -1,1 +1,1 @@
-var mnemonic = "limit trick tennis loan educate glide ugly latin chronic teach want element";
+var mnemonic = "copper bar warm inmate genre certain oyster verb expand author pull panic";

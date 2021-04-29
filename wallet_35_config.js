@@ -1,1 +1,1 @@
-var mnemonic = "silly sight sword motor copper hurry foot have ability basket spot cross";
+var mnemonic = "core kitchen crawl assume error play tip essence chalk travel medal orange";

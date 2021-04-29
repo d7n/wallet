@@ -1,1 +1,1 @@
-var mnemonic = "august air moral salon peanut spell book pet funny multiply sight sphere";
+var mnemonic = "health glance useless question easy crew uncle stand right play quote tooth";

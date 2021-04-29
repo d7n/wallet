@@ -1,1 +1,1 @@
-var mnemonic = "feel fashion sea dawn execute imitate warfare pyramid frozen neck usual rally";
+var mnemonic = "loan large comic napkin final core liar expire tower destroy giraffe moon";

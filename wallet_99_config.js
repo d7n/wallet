@@ -1,1 +1,1 @@
-var mnemonic = "ethics feature genius display jump limit pole artefact receive mimic room credit";
+var mnemonic = "exit quarter piano clever lend curious thing dress virtual urge base patch";

@@ -1,1 +1,1 @@
-var mnemonic = "accuse daughter father electric zero fame oppose online often connect arrange impulse";
+var mnemonic = "boy proof awake palace copy pelican battle major noble slot picture antique";

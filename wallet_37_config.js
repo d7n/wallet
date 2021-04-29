@@ -1,1 +1,1 @@
-var mnemonic = "imitate grow lady throw drastic test apart trophy next rally similar ethics";
+var mnemonic = "peace club peasant clutch man spice tornado mouse frog fame pet sand";

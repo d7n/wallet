@@ -1,1 +1,1 @@
-var mnemonic = "echo barrel someone advice jeans tray panther hybrid satoshi fashion rebuild chunk";
+var mnemonic = "family can type wife gorilla bitter dignity stay kid aunt poet chase";

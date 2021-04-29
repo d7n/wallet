@@ -1,1 +1,1 @@
-var mnemonic = "vehicle snack cabin sauce second denial foster wagon near please false jump";
+var mnemonic = "grab slim army car clever balcony leader mystery rule forum lumber embark";

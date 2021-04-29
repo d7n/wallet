@@ -1,1 +1,1 @@
-var mnemonic = "often define raccoon argue marine earn duty file hover rule custom abstract";
+var mnemonic = "merit clock metal master have prison bubble world hole multiply language shock";

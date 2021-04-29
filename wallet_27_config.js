@@ -1,1 +1,1 @@
-var mnemonic = "boil volcano diary initial leisure canoe audit film mansion high toast search";
+var mnemonic = "thunder fun screen grape cloud comic actor run crater verify route execute";

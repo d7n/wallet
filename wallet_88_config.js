@@ -1,1 +1,1 @@
-var mnemonic = "tuition six grief already combine thought boil grunt demise car sing camp";
+var mnemonic = "shallow need pool frame teach venture neutral banner scare bronze mammal crisp";

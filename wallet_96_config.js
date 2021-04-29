@@ -1,1 +1,1 @@
-var mnemonic = "meadow despair harbor pig occur august clerk pluck sample silent picture save";
+var mnemonic = "buzz put ride scare observe orbit brother volume fee cargo risk foot";

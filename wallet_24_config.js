@@ -1,1 +1,1 @@
-var mnemonic = "purity woman kangaroo violin noble grape agent service snap force harsh salon";
+var mnemonic = "fun divorce run organ rare account elite awkward shiver useful hint welcome";

@@ -1,1 +1,1 @@
-var mnemonic = "brick six immune hood ocean funny online decorate misery cloth avocado damp";
+var mnemonic = "alter frozen empower fame arrest diary brass idea duty kite parent capital";

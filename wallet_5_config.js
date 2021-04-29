@@ -1,1 +1,1 @@
-var mnemonic = "absorb amazing south solar desk extra narrow anger buyer author nuclear market";
+var mnemonic = "trust record diary exhaust behave mansion stage great topple legal desk upper";

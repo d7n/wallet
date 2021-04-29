@@ -1,1 +1,1 @@
-var mnemonic = "predict winner mix tail holiday detect tomato long nation wing pattern siren";
+var mnemonic = "relax path owner crew entire way flower shuffle chase fun differ math";

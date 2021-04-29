@@ -1,1 +1,1 @@
-var mnemonic = "acquire audit token suspect upset fruit artwork misery pudding chronic victory village";
+var mnemonic = "toy benefit minor tourist canvas mutual mention cause wing oblige draw renew";

@@ -1,1 +1,1 @@
-var mnemonic = "deny any frog advice census document they cause prefer awesome cruise frost";
+var mnemonic = "jelly wreck biology zoo about penalty derive crane antenna gentle try liquid";

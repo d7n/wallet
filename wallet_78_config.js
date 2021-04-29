@@ -1,1 +1,1 @@
-var mnemonic = "move wagon unfair ship manage book train inform beauty soccer buzz sea";
+var mnemonic = "keen kiss frost mutual brisk empty rule input kiwi cargo target ugly";

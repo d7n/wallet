@@ -1,1 +1,1 @@
-var mnemonic = "error spray inflict oval minor ticket hour shove crush assume blossom crystal";
+var mnemonic = "limit task govern bring fiction figure language love hammer axis dad sleep";

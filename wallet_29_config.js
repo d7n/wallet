@@ -1,1 +1,1 @@
-var mnemonic = "diet when pumpkin reform popular surround round eagle melody lounge opera junk";
+var mnemonic = "relief monitor coral debate surface bird frown bulk ghost curtain upon utility";

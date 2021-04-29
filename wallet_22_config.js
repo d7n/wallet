@@ -1,1 +1,1 @@
-var mnemonic = "organ material mind grit baby cupboard pull prepare finger wood else cousin";
+var mnemonic = "seminar nice name occur include coyote truck market forget album weasel travel";

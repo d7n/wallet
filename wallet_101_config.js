@@ -1,1 +1,1 @@
-var mnemonic = "leave tribe float shine cheese destroy pizza spider gentle report okay allow";
+var mnemonic = "rookie problem ordinary leader salute vote veteran universe paper salmon fame sing";

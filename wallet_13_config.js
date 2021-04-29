@@ -1,1 +1,1 @@
-var mnemonic = "nest there laugh lounge bundle appear cry like surprise harsh rebel jump";
+var mnemonic = "case melody truly kind clean oven rent urge sad wreck brown wheel";

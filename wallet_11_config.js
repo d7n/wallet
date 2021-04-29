@@ -1,1 +1,1 @@
-var mnemonic = "chase tower couple cook snap jeans maple box sight wasp spot economy";
+var mnemonic = "fuel today want tiny purity announce athlete eye problem cannon endless leg";

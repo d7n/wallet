@@ -1,1 +1,1 @@
-var mnemonic = "course surface foil gospel street type behind sea output fire body warm";
+var mnemonic = "left shove leg sniff kid squeeze annual panic fuel eye ginger text";

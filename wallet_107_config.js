@@ -1,1 +1,1 @@
-var mnemonic = "item tackle ridge copper army pistol pave human sustain else avoid athlete";
+var mnemonic = "soon impulse eyebrow buyer try kitchen panel crane various naive kiss grow";

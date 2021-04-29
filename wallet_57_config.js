@@ -1,1 +1,1 @@
-var mnemonic = "beef aerobic domain little wool visa follow lizard stick dirt wreck tail";
+var mnemonic = "scissors clap wine celery speed fatal illegal during bike fold lens kind";

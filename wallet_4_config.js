@@ -1,1 +1,1 @@
-var mnemonic = "elephant number box action cinnamon circle keep rare offer prefer fox laundry";
+var mnemonic = "armed input dial health unveil depart funny peanut damp latin feature moment";

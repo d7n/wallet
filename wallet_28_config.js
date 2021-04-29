@@ -1,1 +1,1 @@
-var mnemonic = "stable crime silver bulb stone offer story genius forum three hire common";
+var mnemonic = "sing focus surge issue rally wasp scene damp feel utility fluid frown";

@@ -1,1 +1,1 @@
-var mnemonic = "include night indoor unit casual owner glue mad comfort identify appear summer";
+var mnemonic = "pepper picture help worry govern gym leisure device powder broken slush economy";

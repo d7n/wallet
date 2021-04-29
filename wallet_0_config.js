@@ -1,1 +1,1 @@
-var mnemonic = "unit vocal adult have sock prepare fringe mobile must taste lift sight";
+var mnemonic = "subway only hope jelly depth rhythm tackle wealth tone barely system write";

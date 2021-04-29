@@ -1,1 +1,1 @@
-var mnemonic = "aerobic injury favorite elephant castle wagon always legal tonight impulse cart office";
+var mnemonic = "island hazard maximum diesel country race path sea cricket owner tourist alpha";

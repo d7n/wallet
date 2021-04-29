@@ -1,1 +1,1 @@
-var mnemonic = "maximum bicycle blush trim tree mansion brush spatial nation liar tape survey";
+var mnemonic = "develop reunion judge damage limb marble rhythm oyster inquiry nephew spice leopard";

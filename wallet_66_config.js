@@ -1,1 +1,1 @@
-var mnemonic = "mammal record ostrich credit fossil abandon wreck coffee panther supreme genius trend";
+var mnemonic = "adapt tape catch voyage fly place flash chapter hunt someone attitude observe";

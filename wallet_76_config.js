@@ -1,1 +1,1 @@
-var mnemonic = "sister setup camp cruel easy pond scale rail ghost sponsor virtual fabric";
+var mnemonic = "fan employ because friend what bitter alter piano hour weekend pudding theory";

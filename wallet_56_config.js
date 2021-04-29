@@ -1,1 +1,1 @@
-var mnemonic = "civil pencil carry crouch mask hint cruise fine wrist cat danger south";
+var mnemonic = "aunt benefit vacuum reveal sustain material monitor odor grace business rival physical";

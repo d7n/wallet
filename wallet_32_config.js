@@ -1,1 +1,1 @@
-var mnemonic = "toss dutch leg often control remind innocent liar aim awful wide sign";
+var mnemonic = "river good actress page initial forward kind angry essence rough develop direct";

@@ -1,1 +1,1 @@
-var mnemonic = "junior divorce sword news order moral husband aware raise matter phone top";
+var mnemonic = "damage birth left tragic tenant behave world ripple dignity happy defy garlic";

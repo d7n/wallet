@@ -1,1 +1,1 @@
-var mnemonic = "glimpse kite bargain syrup behave winter ketchup worth stem fun truck honey";
+var mnemonic = "edge stick switch crouch correct melody acquire candy report orange expect poverty";

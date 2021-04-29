@@ -1,1 +1,1 @@
-var mnemonic = "learn tuna winner champion taxi betray boring tone heavy august appear mom";
+var mnemonic = "film host lend slender pumpkin drink repeat domain ice bronze point found";

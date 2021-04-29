@@ -1,1 +1,1 @@
-var mnemonic = "maple bread alone catalog veteran base gown guess barely deposit fortune quit";
+var mnemonic = "rule must antenna neutral fame job nest eager weekend bacon other high";

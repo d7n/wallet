@@ -1,1 +1,1 @@
-var mnemonic = "trick trust sustain what scorpion draw dizzy dad bronze snow rebel wrist";
+var mnemonic = "surface consider profit add defense lawn noble mention business dawn drink impulse";

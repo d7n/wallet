@@ -1,1 +1,1 @@
-var mnemonic = "dutch shiver flower ice what cash act pulp kitchen refuse liberty sword";
+var mnemonic = "market potato impose bar raise kangaroo vacuum club spatial brush clap pepper";

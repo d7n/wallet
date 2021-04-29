@@ -1,1 +1,1 @@
-var mnemonic = "team various settle anger spell marble steak evolve unknown basket slim chief";
+var mnemonic = "rescue unit repair twenty emotion trick actress siege south flee enact adapt";

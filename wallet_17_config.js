@@ -1,1 +1,1 @@
-var mnemonic = "ripple unfold fatigue master boil omit shell diamond language you broom bid";
+var mnemonic = "walnut else kitten illegal spatial meat quiz yard hollow august siege crowd";

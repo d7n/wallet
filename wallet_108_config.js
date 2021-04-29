@@ -1,1 +1,1 @@
-var mnemonic = "fall journey hole popular sweet piano flat caught junior oxygen voice where";
+var mnemonic = "noble increase pizza junk correct desert pelican hurry congress defense surround sea";

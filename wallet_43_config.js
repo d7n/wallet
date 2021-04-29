@@ -1,1 +1,1 @@
-var mnemonic = "spice bring have silent across apple super tower notice begin mobile story";
+var mnemonic = "feature three miracle fatal dry fatigue fine face idea pelican power service";

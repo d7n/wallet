@@ -1,1 +1,1 @@
-var mnemonic = "vivid sad decrease artist casual exotic pulp cannon just spin gain gym";
+var mnemonic = "ecology abandon main immense illegal gloom below shaft casino nature someone asthma";

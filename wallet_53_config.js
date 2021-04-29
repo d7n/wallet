@@ -1,1 +1,1 @@
-var mnemonic = "embrace fall program video armed vague local flag cool property chest dry";
+var mnemonic = "omit word ramp tent wreck better welcome stove tunnel fresh scout pony";

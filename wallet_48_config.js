@@ -1,1 +1,1 @@
-var mnemonic = "february carry chief alien shy ask flat amateur guilt trim fortune evoke";
+var mnemonic = "mesh certain stand release search solar goat domain match actor sock despair";

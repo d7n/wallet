@@ -1,1 +1,1 @@
-var mnemonic = "ten pact arrange grass quiz exchange baby spot shield harvest where ride";
+var mnemonic = "expose absurd armor scrap vicious embark goose cabin view small click damage";

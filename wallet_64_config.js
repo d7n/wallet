@@ -1,1 +1,1 @@
-var mnemonic = "rough whale weapon observe garment famous road indicate silent phrase claw cargo";
+var mnemonic = "very bulb destroy eye hunt treat shell riot tumble hamster seek calm";

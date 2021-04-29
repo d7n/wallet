@@ -1,1 +1,1 @@
-var mnemonic = "slogan surround idle tent sample curtain edit grape remember omit aware rule";
+var mnemonic = "come trip expose theory speak oppose whale shuffle capital north trust alert";

@@ -1,1 +1,1 @@
-var mnemonic = "enlist equal will dinosaur rare only foil ordinary certain yard mango action";
+var mnemonic = "path upgrade bounce fluid glide nothing ladder cheap essay hello else purity";

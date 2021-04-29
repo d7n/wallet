@@ -1,1 +1,1 @@
-var mnemonic = "axis play glory sting elephant salt cheap unfold flock stomach squeeze special";
+var mnemonic = "eight dwarf pluck grid output plastic write ripple bus amused song saddle";

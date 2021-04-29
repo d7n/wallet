@@ -1,1 +1,1 @@
-var mnemonic = "zoo process shiver damage mesh industry gold hire october address depend very";
+var mnemonic = "mix flavor child panel allow correct tube verify acoustic citizen beach wagon";

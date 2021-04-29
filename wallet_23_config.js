@@ -1,1 +1,1 @@
-var mnemonic = "disagree scorpion enjoy tunnel index praise cup frame owner ranch wing prepare";
+var mnemonic = "aspect foam feed mesh what elephant face drama illegal property turtle zero";

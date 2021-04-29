@@ -1,1 +1,1 @@
-var mnemonic = "unit skill achieve peanut scheme decide blast broom thrive message update cart";
+var mnemonic = "spoil bachelor visit toss fire actual digital memory stamp slogan dizzy word";

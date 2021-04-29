@@ -1,1 +1,1 @@
-var mnemonic = "receive guide inch vicious question drink remove knock bacon peace indicate vintage";
+var mnemonic = "above rely list season fiber bacon typical awake mix celery across tuna";

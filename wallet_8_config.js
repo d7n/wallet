@@ -1,1 +1,1 @@
-var mnemonic = "buddy copper aware mystery charge suspect virus cheese bulk eye random fork";
+var mnemonic = "cotton fox napkin recall trim sting bag venue bullet crane still hire";
