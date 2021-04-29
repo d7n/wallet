@@ -1,1 +1,1 @@
-var mnemonic = "verb address they change mention ecology palace benefit diamond false birth oyster";
+var mnemonic = "federal track recipe satoshi gossip skirt angry broom sugar inmate couple angry";

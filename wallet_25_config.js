@@ -1,1 +1,1 @@
-var mnemonic = "thrive tennis quote witness verify truth bottom honey circle violin divorce blossom";
+var mnemonic = "liquid cycle just slender crystal cave taxi stadium age loop among gun";

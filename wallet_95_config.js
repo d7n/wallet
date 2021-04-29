@@ -1,1 +1,1 @@
-var mnemonic = "escape cannon private find mirror negative afford across useless canvas someone human";
+var mnemonic = "more figure planet hire hard notable target wave book wine such trophy";

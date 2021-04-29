@@ -1,1 +1,1 @@
-var mnemonic = "renew response bridge tape fuel walnut cause surprise holiday torch million shaft";
+var mnemonic = "tongue adult divert produce sword reflect turn media cousin already prevent skin";

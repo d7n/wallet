@@ -1,1 +1,1 @@
-var mnemonic = "update obvious bubble bag utility estate path prosper rely start bread gasp";
+var mnemonic = "cycle robust pioneer tone pave wet barrel limb atom cash shove burden";

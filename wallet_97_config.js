@@ -1,1 +1,1 @@
-var mnemonic = "penalty general oppose drift document pact nature bag donate muffin shallow ostrich";
+var mnemonic = "enlist seven merge lottery repeat half prevent before relief deliver update lend";

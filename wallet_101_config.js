@@ -1,1 +1,1 @@
-var mnemonic = "collect expect hold canal situate pig minor similar borrow bread divorce machine";
+var mnemonic = "please label series into various arctic oblige danger used perfect improve skill";

@@ -1,1 +1,1 @@
-var mnemonic = "desk file oak diet piece october curve hollow answer sphere fatigue defy";
+var mnemonic = "furnace wing upset appear stable enrich genre title host chase vague rapid";

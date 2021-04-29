@@ -1,1 +1,1 @@
-var mnemonic = "bind rule option congress peace crystal equal saddle bread power clay step";
+var mnemonic = "dynamic front reform empty choose fun problem second thumb net slender soda";

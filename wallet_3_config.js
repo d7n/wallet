@@ -1,1 +1,1 @@
-var mnemonic = "pet juice material fly pepper eyebrow palace wreck indoor plunge much public";
+var mnemonic = "effort rib grunt fringe kingdom earn calm sight tent jealous forum motor";

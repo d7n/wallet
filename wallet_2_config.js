@@ -1,1 +1,1 @@
-var mnemonic = "chase hobby brother kite pitch puzzle few matrix south rifle capital heavy";
+var mnemonic = "awesome sell knife water dinner soon year object just that tenant unknown";

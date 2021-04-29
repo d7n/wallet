@@ -1,1 +1,1 @@
-var mnemonic = "angry joy sample brown person sand glare betray defense dial ceiling swap";
+var mnemonic = "name keen flock idle ancient health route involve race detect task trigger";

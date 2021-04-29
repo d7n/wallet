@@ -1,1 +1,1 @@
-var mnemonic = "strategy hurdle hello border child seven april acquire dove balance fashion garden";
+var mnemonic = "nice aunt census calm index upset hammer identify diamond normal barely corn";

@@ -1,1 +1,1 @@
-var mnemonic = "junior casino ankle narrow hospital hire useful excite supreme cute danger three";
+var mnemonic = "ridge one antique rough original soccer dolphin common risk eyebrow maple shop";

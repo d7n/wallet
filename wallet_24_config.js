@@ -1,1 +1,1 @@
-var mnemonic = "resemble wise vast critic boring toward patient shield tape subway slim pupil";
+var mnemonic = "injury current then alert rally first baby mad patch mean fabric neither";

@@ -1,1 +1,1 @@
-var mnemonic = "split dial mesh embrace leisure south oyster follow coconut praise indoor jelly";
+var mnemonic = "foot nut jeans assault quantum path under mystery invite inhale hazard agree";

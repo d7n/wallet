@@ -1,1 +1,1 @@
-var mnemonic = "survey ridge sort poverty term odor dog artist throw crime reveal iron";
+var mnemonic = "inner total sing fiction age siege head device age scissors napkin inflict";

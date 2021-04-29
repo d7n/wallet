@@ -1,1 +1,1 @@
-var mnemonic = "reward hundred fabric amazing leisure ready way slow garlic absorb dutch sugar";
+var mnemonic = "dismiss praise urban diamond sea glory antique sphere canyon response bargain present";

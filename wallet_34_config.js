@@ -1,1 +1,1 @@
-var mnemonic = "during room truly term innocent repair gossip elephant find reject pet phrase";
+var mnemonic = "warm wide catalog company alley source air traffic tool empower boat jacket";

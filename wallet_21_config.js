@@ -1,1 +1,1 @@
-var mnemonic = "priority oak shiver endless paper casino sport seven fiction cloth lyrics alley";
+var mnemonic = "token remember young option lunch romance fortune width indoor unfold lecture soul";

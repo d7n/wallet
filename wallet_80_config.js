@@ -1,1 +1,1 @@
-var mnemonic = "curve cupboard odor radio pigeon hub change scorpion frozen unfold stay green";
+var mnemonic = "render burden fever measure follow this equal sniff witness rocket festival leader";

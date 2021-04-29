@@ -1,1 +1,1 @@
-var mnemonic = "scan wall short jaguar glue farm mechanic base shoulder lazy kiss vendor";
+var mnemonic = "broccoli carry merge fortune pulp number drive unable caught jewel enforce corn";

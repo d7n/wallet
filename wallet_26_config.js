@@ -1,1 +1,1 @@
-var mnemonic = "audit example today split sadness pigeon harvest gasp giraffe glass side you";
+var mnemonic = "gadget jeans home common alarm move pig trigger pull aerobic analyst fix";

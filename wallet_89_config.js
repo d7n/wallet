@@ -1,1 +1,1 @@
-var mnemonic = "december concert piano fantasy switch depth pig laptop hint gasp spin choice";
+var mnemonic = "identify waste room young loud half pumpkin rival excess tragic promote cliff";

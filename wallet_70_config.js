@@ -1,1 +1,1 @@
-var mnemonic = "sense stand flag prevent senior naive limb audit deposit bench service swing";
+var mnemonic = "release dove gate this talk evil involve sorry they sport bike sail";

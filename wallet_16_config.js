@@ -1,1 +1,1 @@
-var mnemonic = "sample script chief dolphin vicious mix thing about payment canoe short lab";
+var mnemonic = "pony syrup sand minor treat twelve account weapon people warfare expand alter";

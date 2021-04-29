@@ -1,1 +1,1 @@
-var mnemonic = "genuine note soldier wisdom earn anchor pretty deliver tone mad ahead decade";
+var mnemonic = "cable hat story other april luxury just blue blood ready index metal";

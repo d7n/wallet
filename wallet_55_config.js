@@ -1,1 +1,1 @@
-var mnemonic = "exclude actor rally firm ordinary payment tortoise guitar shallow lab quality occur";
+var mnemonic = "immense donkey cook process people liberty siege million royal ribbon degree inquiry";

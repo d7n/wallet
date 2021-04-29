@@ -1,1 +1,1 @@
-var mnemonic = "trumpet unhappy coconut judge sample soldier rival hurt lake foster glimpse story";
+var mnemonic = "desk muffin analyst horror anxiety emerge enforce cluster gown idea diary comfort";

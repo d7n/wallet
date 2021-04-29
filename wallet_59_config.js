@@ -1,1 +1,1 @@
-var mnemonic = "riot phrase rail tell typical garment ramp ozone clap glory attract network";
+var mnemonic = "salt rack poet virtual chalk mask legal fit elegant more syrup wide";

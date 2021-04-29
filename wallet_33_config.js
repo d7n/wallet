@@ -1,1 +1,1 @@
-var mnemonic = "uphold income stick angry sketch bag topple river amused fatigue two tissue";
+var mnemonic = "inflict marriage typical science clinic tape club lizard allow flip equip indoor";

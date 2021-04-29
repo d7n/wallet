@@ -1,1 +1,1 @@
-var mnemonic = "indicate trust insane wagon fury north refuse put gorilla turkey cram vacuum";
+var mnemonic = "identify gown walnut wrap vendor student flag mind right once spare edge";

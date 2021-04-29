@@ -1,1 +1,1 @@
-var mnemonic = "ginger wrong drill draft ship embark tag guess feel coyote frame output";
+var mnemonic = "split emerge neither napkin gossip punch chuckle capital peace erupt security reject";

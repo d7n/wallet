@@ -1,1 +1,1 @@
-var mnemonic = "peasant tide swear hope model rifle orange clip laptop attend mixture silver";
+var mnemonic = "unknown rural apple gown measure capable great angry meat uncover city crash";

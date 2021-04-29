@@ -1,1 +1,1 @@
-var mnemonic = "hill pill choose thumb report badge lounge time ladder actual copper dinosaur";
+var mnemonic = "inquiry conduct hope stomach gauge exercise ugly switch upset stone acid spoon";

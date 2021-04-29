@@ -1,1 +1,1 @@
-var mnemonic = "cart ketchup swamp rice detail napkin view next toe stumble wreck picnic";
+var mnemonic = "wear shock deputy fit enough grid logic avocado fashion blush tower palm";

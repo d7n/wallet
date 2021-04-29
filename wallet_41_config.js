@@ -1,1 +1,1 @@
-var mnemonic = "fiscal bright menu chat shoe mirror embody leisure mistake lab alcohol great";
+var mnemonic = "silver legend camera number open clump cliff goose mechanic ahead twice casual";

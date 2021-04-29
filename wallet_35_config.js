@@ -1,1 +1,1 @@
-var mnemonic = "scheme reform spatial adjust trade silent oil swallow release rather amazing educate";
+var mnemonic = "slice sausage pen frozen alone wine virus educate pig slogan brisk laundry";

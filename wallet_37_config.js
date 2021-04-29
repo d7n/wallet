@@ -1,1 +1,1 @@
-var mnemonic = "old nut square file earth able olive rural latin rich brown near";
+var mnemonic = "soap oval spider buddy pen decade draft citizen phrase wine outer advance";

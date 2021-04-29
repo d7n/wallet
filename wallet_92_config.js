@@ -1,1 +1,1 @@
-var mnemonic = "style afford reason tomorrow sport junior card glide bottom disagree decorate purpose";
+var mnemonic = "shine axis gate pyramid garment cage notable destroy punch normal media plunge";

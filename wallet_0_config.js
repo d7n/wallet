@@ -1,1 +1,1 @@
-var mnemonic = "future defense lock speed strong comic amount police noble wool black club";
+var mnemonic = "quote joke siren spell slot bench exit main midnight wreck chuckle cabbage";

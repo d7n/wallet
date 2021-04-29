@@ -1,1 +1,1 @@
-var mnemonic = "guitar lemon truth eternal girl describe hat fashion drum pony bicycle private";
+var mnemonic = "merge doctor chronic load shy alien wave method work boring dress goddess";

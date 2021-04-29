@@ -1,1 +1,1 @@
-var mnemonic = "laundry tiny list prize air utility pony panda guess steak edge okay";
+var mnemonic = "element shock brain image habit quantum advice snack slow absent bundle update";

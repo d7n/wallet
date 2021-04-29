@@ -1,1 +1,1 @@
-var mnemonic = "snake you huge budget minor hunt claim glow vendor assume argue tragic";
+var mnemonic = "ride biology rigid pioneer purse blur oyster daring eager swim problem memory";

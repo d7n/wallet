@@ -1,1 +1,1 @@
-var mnemonic = "industry guide park rib split will saddle finish marine banana flip forest";
+var mnemonic = "gun puzzle torch thank oyster order gun usual report inside grain snack";

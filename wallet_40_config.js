@@ -1,1 +1,1 @@
-var mnemonic = "bunker flush mule save powder rule hello devote lesson grow banana fame";
+var mnemonic = "hazard escape vendor roast aisle plug gallery cave vital display transfer joy";

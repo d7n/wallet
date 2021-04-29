@@ -1,1 +1,1 @@
-var mnemonic = "sunny vehicle clog step history hurry sudden talk switch pave miss various";
+var mnemonic = "vibrant desert fatal surge degree topic wine oak attack symptom couch thumb";

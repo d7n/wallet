@@ -1,1 +1,1 @@
-var mnemonic = "liberty shop wise language anchor police yellow work state brown quiz aisle";
+var mnemonic = "bonus kick used leopard like violin emerge flash trend moon visa aware";

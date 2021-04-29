@@ -1,1 +1,1 @@
-var mnemonic = "injury bread enable finish result keep grain lyrics divorce polar symptom grace";
+var mnemonic = "profit area more kid trumpet bomb fatigue glue plate naive voice birth";

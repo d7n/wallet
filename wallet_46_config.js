@@ -1,1 +1,1 @@
-var mnemonic = "wire autumn random alley tissue wait cliff vacuum favorite drive worry trouble";
+var mnemonic = "trigger sort dilemma door bench hammer spend stomach pill eyebrow hood smooth";

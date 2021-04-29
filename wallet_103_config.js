@@ -1,1 +1,1 @@
-var mnemonic = "any guilt merry hip december sleep decline pilot smoke pact grow arch";
+var mnemonic = "delay essence option attitude twin slight frame battle lyrics utility size horn";

@@ -1,1 +1,1 @@
-var mnemonic = "element become viable language shiver assault okay lake amazing hour demise gate";
+var mnemonic = "glimpse broccoli noodle outdoor wisdom convince decide lemon joke pride office prevent";

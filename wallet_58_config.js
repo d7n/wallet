@@ -1,1 +1,1 @@
-var mnemonic = "harvest sword pattern kit bleak argue vote puzzle carpet vital mandate one";
+var mnemonic = "gaze merry call kiss tree arrange slam slim method merry idea minor";

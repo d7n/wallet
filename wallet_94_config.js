@@ -1,1 +1,1 @@
-var mnemonic = "tennis hair cabin dwarf coral cash volume month occur ribbon dry element";
+var mnemonic = "science wine napkin spike network erupt elite virtual october knock rack rug";

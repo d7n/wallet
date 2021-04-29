@@ -1,1 +1,1 @@
-var mnemonic = "knife alter helmet now upon add cube sponsor sock absorb sell fashion";
+var mnemonic = "heart what album bomb estate art manual earn venture relax eagle wrap";

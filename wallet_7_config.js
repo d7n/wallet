@@ -1,1 +1,1 @@
-var mnemonic = "black educate describe corn above blue wrong curve figure include level more";
+var mnemonic = "grit tattoo estate section above shallow alley orange then kangaroo avoid idle";

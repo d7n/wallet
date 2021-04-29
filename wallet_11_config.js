@@ -1,1 +1,1 @@
-var mnemonic = "delay oyster broccoli ordinary mule sponsor volcano toast bicycle upset permit catalog";
+var mnemonic = "upgrade wrist expose income total host author mushroom labor story chimney night";

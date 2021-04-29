@@ -1,1 +1,1 @@
-var mnemonic = "mandate hint lift grant keen hawk vault winter push spoon model defy";
+var mnemonic = "chief genuine draft combine cool general bargain equal trap stuff nothing lobster";

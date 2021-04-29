@@ -1,1 +1,1 @@
-var mnemonic = "drum table this public jaguar layer amount sick afford check admit gown";
+var mnemonic = "average pudding click situate biology company bomb bomb invite kiss goose confirm";

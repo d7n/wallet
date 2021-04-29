@@ -1,1 +1,1 @@
-var mnemonic = "exhibit dwarf subject effort wage retreat wolf win flash exit lawn ripple";
+var mnemonic = "jaguar worth pill kite trophy fine drive owner sunset addict wire radio";

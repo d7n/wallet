@@ -1,1 +1,1 @@
-var mnemonic = "mandate robot negative dice easy card pen behind future essay physical wave";
+var mnemonic = "deliver action until ignore venue stamp fatigue pig pattern list churn real";

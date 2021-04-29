@@ -1,1 +1,1 @@
-var mnemonic = "whale tray rely vocal abstract vote gorilla satoshi kidney satoshi almost tip";
+var mnemonic = "unhappy choice flavor merit absurd erase price decline wife honey weird pole";

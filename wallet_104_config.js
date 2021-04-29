@@ -1,1 +1,1 @@
-var mnemonic = "hat mandate lens review wing coast entire note utility oyster brass spider";
+var mnemonic = "trouble senior change beauty pen ankle consider shadow glass merry bread invite";

@@ -1,1 +1,1 @@
-var mnemonic = "liar again hurry document horror void butter spare cake unhappy coin timber";
+var mnemonic = "card connect length arm decide execute waste drill bleak eyebrow puppy swing";

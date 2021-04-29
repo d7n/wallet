@@ -1,1 +1,1 @@
-var mnemonic = "fall leader letter tired blue tonight canvas stadium pull cloth unfold flag";
+var mnemonic = "utility pilot gauge robot govern like hill pool budget modify network myself";

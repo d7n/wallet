@@ -1,1 +1,1 @@
-var mnemonic = "dilemma argue trade wife define ostrich mansion south fiber convince river celery";
+var mnemonic = "fringe matrix follow stumble antenna field morning dune ankle couch please choice";

@@ -1,1 +1,1 @@
-var mnemonic = "flat banana twelve antique tired buddy sword sponsor laundry you stay dash";
+var mnemonic = "property hover pond chronic ticket since domain gift flat drum brisk taste";

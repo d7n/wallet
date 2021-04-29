@@ -1,1 +1,1 @@
-var mnemonic = "mobile eyebrow return skate perfect carpet equip test manage fork hard candy";
+var mnemonic = "obtain quality roast ginger kitchen faculty vivid utility ceiling army exile dog";

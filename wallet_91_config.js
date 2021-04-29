@@ -1,1 +1,1 @@
-var mnemonic = "meadow parent barely spread ranch drive vacuum pluck slim dizzy tide stove";
+var mnemonic = "print rural fruit device amount depart whale bottom bomb claw lucky kangaroo";

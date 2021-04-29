@@ -1,1 +1,1 @@
-var mnemonic = "dream surprise opera material tiny wall tape narrow sign grit ivory before";
+var mnemonic = "faith squeeze strike garbage mercy potato energy next betray decline merge jealous";

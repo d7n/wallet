@@ -1,1 +1,1 @@
-var mnemonic = "quiz gasp screen motor tourist silk air symbol quantum replace mandate true";
+var mnemonic = "seek suffer husband cycle surge name negative grace jungle lobster decade split";

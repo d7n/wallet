@@ -1,1 +1,1 @@
-var mnemonic = "aunt ability undo erosion trim actual crouch occur equal express start power";
+var mnemonic = "start earn scheme chaos pass deer cherry robot kind lizard table army";

@@ -1,1 +1,1 @@
-var mnemonic = "coffee square escape empower plastic install candy present blouse skull floor hire";
+var mnemonic = "taxi season document wealth detail reduce dance snake hint plate feel evoke";

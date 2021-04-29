@@ -1,1 +1,1 @@
-var mnemonic = "unknown garment maid truly budget victory random rubber success write mention assist";
+var mnemonic = "practice inquiry sphere all category tank toddler script genre tide wheel city";

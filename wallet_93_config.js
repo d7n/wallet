@@ -1,1 +1,1 @@
-var mnemonic = "heart stairs unit coast that settle drill hour over stuff affair reunion";
+var mnemonic = "advice spend armed night pool gain gravity sphere own recipe gold tape";

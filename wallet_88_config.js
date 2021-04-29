@@ -1,1 +1,1 @@
-var mnemonic = "wall burger honey minimum head tone between hedgehog source pumpkin color better";
+var mnemonic = "brand labor live exotic glad merge choose now small stuff kiwi long";

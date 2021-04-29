@@ -1,1 +1,1 @@
-var mnemonic = "immense moral clap winner panic side there genre birth sadness chaos oxygen";
+var mnemonic = "wide panther tail corn foam jacket depend teach bird nothing rigid mechanic";

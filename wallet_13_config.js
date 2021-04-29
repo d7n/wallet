@@ -1,1 +1,1 @@
-var mnemonic = "tenant pride junk vital today round bring leg siege tilt inner lyrics";
+var mnemonic = "style fold green anchor dynamic leisure trigger exhibit glad argue daughter absurd";

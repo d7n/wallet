@@ -1,1 +1,1 @@
-var mnemonic = "reason upon robot crater toss unfold pizza boss lesson possible token monkey";
+var mnemonic = "grid lazy tunnel bench dance change wreck never team primary hobby coconut";

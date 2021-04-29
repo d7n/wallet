@@ -1,1 +1,1 @@
-var mnemonic = "major credit fish nephew search odor satisfy maze planet balance banner rack";
+var mnemonic = "atom side crazy magic negative vote task smile thunder jacket depend keen";

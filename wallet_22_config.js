@@ -1,1 +1,1 @@
-var mnemonic = "prison figure foam frequent result silk clump clown tenant peanut one crunch";
+var mnemonic = "situate awesome kite slogan crumble federal earth picnic afford brush coin senior";

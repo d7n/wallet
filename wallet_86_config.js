@@ -1,1 +1,1 @@
-var mnemonic = "science excite episode husband coast lock fault step spider track silly party";
+var mnemonic = "work flag skull kiwi index power rain exhaust review clay practice among";

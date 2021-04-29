@@ -1,1 +1,1 @@
-var mnemonic = "sister come boil pause violin spirit teach uphold episode obvious sight cable";
+var mnemonic = "hard device system ranch brain habit welcome disagree admit right route abuse";

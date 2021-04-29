@@ -1,1 +1,1 @@
-var mnemonic = "income surge grief useless shoe consider filter carbon century blur core film";
+var mnemonic = "choice film cage height hire entire post sudden cancel debate path goose";

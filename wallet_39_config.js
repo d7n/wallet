@@ -1,1 +1,1 @@
-var mnemonic = "tragic tuna spoon dry regret lawn canyon physical protect dinner escape tag";
+var mnemonic = "adult romance vicious soap actual disorder ugly wisdom silent alley enroll toss";

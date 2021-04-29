@@ -1,1 +1,1 @@
-var mnemonic = "antique amount ancient guitar absent vacuum bring wrist river paper dress mushroom";
+var mnemonic = "dance round convince legal guide skill penalty eager dwarf destroy share already";

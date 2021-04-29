@@ -1,1 +1,1 @@
-var mnemonic = "mansion social focus planet horn rough metal copy reason attract armor jar";
+var mnemonic = "shaft senior recall distance hurt mind family anger wait risk unaware screen";

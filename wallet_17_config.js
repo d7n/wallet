@@ -1,1 +1,1 @@
-var mnemonic = "fade vacant tuna shoot civil canyon option torch frown soda buzz phone";
+var mnemonic = "defy swallow category ecology stumble famous cable cycle claim defense prosper marriage";

@@ -1,1 +1,1 @@
-var mnemonic = "orchard fee breeze love skull daring pupil relax auction grief people fashion";
+var mnemonic = "kit never disorder volume small else answer eye morning angle mesh ensure";

@@ -1,1 +1,1 @@
-var mnemonic = "all enhance actor utility guess curve flower demand shoe swim weasel friend";
+var mnemonic = "fossil spatial debris rail merry horn avoid state output harbor culture force";

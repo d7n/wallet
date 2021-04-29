@@ -1,1 +1,1 @@
-var mnemonic = "small smoke ill tail typical elevator wire shift fly crunch author ribbon";
+var mnemonic = "process ceiling juice ensure wrestle offer oak tool slow deliver winter banana";

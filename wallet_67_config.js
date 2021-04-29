@@ -1,1 +1,1 @@
-var mnemonic = "nation magnet execute dolphin assist window lesson pull silk raw thumb quick";
+var mnemonic = "glass round mandate lazy ranch catalog lamp express lobster already outer engine";

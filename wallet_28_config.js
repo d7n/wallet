@@ -1,1 +1,1 @@
-var mnemonic = "minute cycle laptop list blood meat flee kick need home knee glare";
+var mnemonic = "shield view palm gravity satisfy used dove village lend convince unknown write";

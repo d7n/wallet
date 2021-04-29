@@ -1,1 +1,1 @@
-var mnemonic = "people atom behind story zebra bulk seek negative sell kind ignore slogan";
+var mnemonic = "skate jump claw scheme tail firm patch taxi torch lottery wife clip";
