@@ -1,1 +1,1 @@
-var mnemonic = "wash census border category force pen found already wrist finger regular soap";
+var mnemonic = "rescue purchase sudden swear forward immune reduce match sauce enforce solution rigid";

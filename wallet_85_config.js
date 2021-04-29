@@ -1,1 +1,1 @@
-var mnemonic = "panel script clay unaware surround book define seven casino clever develop hub";
+var mnemonic = "wild kitten umbrella crowd scorpion enable explain loud reject cigar antique deal";

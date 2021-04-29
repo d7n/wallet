@@ -1,1 +1,1 @@
-var mnemonic = "resist blast soap electric dizzy diagram sphere walk inspire large suggest lava";
+var mnemonic = "feature hurry float obey master ice weapon purpose human valid avoid clip";

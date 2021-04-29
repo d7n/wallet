@@ -1,1 +1,1 @@
-var mnemonic = "blade oxygen whisper sugar oven whisper fringe next oyster tide nasty text";
+var mnemonic = "ginger stereo agent rigid village jacket special tail original crime north renew";

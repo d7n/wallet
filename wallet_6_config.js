@@ -1,1 +1,1 @@
-var mnemonic = "cabin matrix pledge level picnic olympic blush parade mom about search alter";
+var mnemonic = "analyst behind kiwi scene enforce monkey deer enact wheat grief universe clock";

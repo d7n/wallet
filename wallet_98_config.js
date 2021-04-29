@@ -1,1 +1,1 @@
-var mnemonic = "blast build strategy tiger tone clump bonus worth pelican hard present flag";
+var mnemonic = "announce water become horror strategy gauge topple pool zero cable owner sheriff";

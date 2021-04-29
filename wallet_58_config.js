@@ -1,1 +1,1 @@
-var mnemonic = "income dilemma gather pave render still ramp gas roast vapor powder helmet";
+var mnemonic = "vital cage march glare relax medal distance cool run surprise fortune crane";

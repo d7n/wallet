@@ -1,1 +1,1 @@
-var mnemonic = "shield toward blast enroll exit fury monitor anger rocket text crack uncover";
+var mnemonic = "transfer sail foot lonely soft visa amateur high unlock hello acid grab";

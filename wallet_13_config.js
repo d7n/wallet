@@ -1,1 +1,1 @@
-var mnemonic = "coach orange front same pride era problem famous bounce whale asthma lizard";
+var mnemonic = "thumb blur divorce post position among drive forget immense cheap able maple";

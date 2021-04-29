@@ -1,1 +1,1 @@
-var mnemonic = "element inch view salute bridge joy always interest brush broccoli novel primary";
+var mnemonic = "dizzy merit staff melt divert merry bullet shove galaxy spice oak pistol";

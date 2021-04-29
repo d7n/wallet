@@ -1,1 +1,1 @@
-var mnemonic = "filter remove oven awesome nation family strike route sock picture garlic dawn";
+var mnemonic = "parent claim screen crane topic corn lens negative broccoli father enough scare";

@@ -1,1 +1,1 @@
-var mnemonic = "type soap warfare daring mimic effort enact demand surge trust shuffle fossil";
+var mnemonic = "head blush pet hunt female illegal theme issue betray near safe beauty";

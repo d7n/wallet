@@ -1,1 +1,1 @@
-var mnemonic = "choice remain wife recipe false insect blossom pride sail arrange category quarter";
+var mnemonic = "cruise leader climb begin few cancel novel clown fire useless inhale involve";

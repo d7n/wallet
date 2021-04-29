@@ -1,1 +1,1 @@
-var mnemonic = "purse magnet proud almost column oak this best purpose direct table tilt";
+var mnemonic = "custom crane review name brother funny unveil fall soul rebuild mind hundred";

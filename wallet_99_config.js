@@ -1,1 +1,1 @@
-var mnemonic = "solid object pill swap wreck side fruit mind delay purpose chronic party";
+var mnemonic = "jewel involve stairs kick glance shop smooth bottom axis laundry track myself";

@@ -1,1 +1,1 @@
-var mnemonic = "wife armor say ostrich thing adapt submit charge matrix spawn nuclear hungry";
+var mnemonic = "purpose absent silly sing slice uphold fringe risk pink income upper scene";

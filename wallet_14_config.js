@@ -1,1 +1,1 @@
-var mnemonic = "faith sand amateur spatial cousin museum horse patrol subject robust venture clown";
+var mnemonic = "shrimp brain feed coral crazy setup worry hair oxygen lizard execute attend";

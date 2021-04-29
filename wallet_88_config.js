@@ -1,1 +1,1 @@
-var mnemonic = "buyer hurt border impact pause detail chunk all candy either ceiling poem";
+var mnemonic = "tube mirror token mirror such pattern tackle winter decline reject leaf velvet";

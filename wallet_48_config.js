@@ -1,1 +1,1 @@
-var mnemonic = "tribe noodle consider satisfy quarter test chicken divide also blame object crush";
+var mnemonic = "cotton glove test citizen frown across season keep jazz toward sick prize";

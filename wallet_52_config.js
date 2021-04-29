@@ -1,1 +1,1 @@
-var mnemonic = "garage motion add vacuum category slogan million laugh flower file glory sorry";
+var mnemonic = "hawk give furnace tomato curve dwarf cart volume gap height force february";

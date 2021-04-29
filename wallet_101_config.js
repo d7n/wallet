@@ -1,1 +1,1 @@
-var mnemonic = "choose flush sign deny useful feature spoon valve goddess decorate verb hidden";
+var mnemonic = "birth east load radio globe laundry goat theme want lyrics agree adapt";

@@ -1,1 +1,1 @@
-var mnemonic = "maple online retreat scorpion wet table face sell inspire fault laptop visual";
+var mnemonic = "ancient open envelope boat idea ozone expand fashion april layer zoo arrive";

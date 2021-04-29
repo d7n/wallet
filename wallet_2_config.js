@@ -1,1 +1,1 @@
-var mnemonic = "practice sail time smoke earn exclude leg desert sustain army assist obtain";
+var mnemonic = "puzzle sheriff dragon source have agree tuna gas cruel farm slice tobacco";

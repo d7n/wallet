@@ -1,1 +1,1 @@
-var mnemonic = "cancel frozen speed crawl empty solid genuine strike original whisper pond kangaroo";
+var mnemonic = "thrive foster gravity drive result fault bag spare renew planet board supreme";

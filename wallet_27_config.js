@@ -1,1 +1,1 @@
-var mnemonic = "mesh yard hedgehog awake scan vast puppy assist core guess hire point";
+var mnemonic = "govern bring trap coyote flower wolf dish develop trip token gold volume";

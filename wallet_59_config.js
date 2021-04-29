@@ -1,1 +1,1 @@
-var mnemonic = "zero stock unfold filter tail coin outside wild oxygen verb patch once";
+var mnemonic = "super rabbit friend expose arctic earn scatter unaware drum liberty jungle legend";

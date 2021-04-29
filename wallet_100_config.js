@@ -1,1 +1,1 @@
-var mnemonic = "solar coconut moment knee butter engine trash shoe security embark banana reveal";
+var mnemonic = "cushion camp behind visit eagle library erupt fluid age youth stick skate";

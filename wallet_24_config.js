@@ -1,1 +1,1 @@
-var mnemonic = "market almost wood clerk ticket pig slab debris echo bench cheese collect";
+var mnemonic = "kangaroo cargo rain ethics urban idle level other when south oval jungle";

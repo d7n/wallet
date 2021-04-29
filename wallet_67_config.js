@@ -1,1 +1,1 @@
-var mnemonic = "dish wrist task inside daughter add story rare vicious loud submit pistol";
+var mnemonic = "circle federal stage obvious ski current rival hammer abuse thank tribe enemy";

@@ -1,1 +1,1 @@
-var mnemonic = "whisper detail figure cheese stable oblige grace video regular inspire guess stadium";
+var mnemonic = "derive guitar fat relax toddler test swear orient identify blossom sail crunch";

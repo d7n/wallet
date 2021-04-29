@@ -1,1 +1,1 @@
-var mnemonic = "card used banana summer black page fun diamond frown buyer student wide";
+var mnemonic = "enable eyebrow budget illness wood chest bleak slab elegant problem sleep bracket";

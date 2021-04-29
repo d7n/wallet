@@ -1,1 +1,1 @@
-var mnemonic = "input joke identify leisure sea shield pencil palace purpose club magic kitchen";
+var mnemonic = "horse expire glue father find brisk tide unlock tag yellow obscure fire";

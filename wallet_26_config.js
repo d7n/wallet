@@ -1,1 +1,1 @@
-var mnemonic = "orphan speed news tip rival tank pretty eight era armor monkey fold";
+var mnemonic = "gun owner surprise wear cereal sting genre trigger sign success common code";

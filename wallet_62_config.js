@@ -1,1 +1,1 @@
-var mnemonic = "wide cram oval erupt penalty swift bone dwarf subject forum island trouble";
+var mnemonic = "humor blanket twin sadness maximum heart spray such gift middle game among";

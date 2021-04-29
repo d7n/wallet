@@ -1,1 +1,1 @@
-var mnemonic = "culture frozen banner install track race oval undo salt small brass van";
+var mnemonic = "couple gauge alarm parrot bar art need main local festival actual enroll";

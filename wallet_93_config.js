@@ -1,1 +1,1 @@
-var mnemonic = "radar hood course clip foster clip turn nerve knife solution alarm clay";
+var mnemonic = "image base search become leisure scare taste output arrest into cinnamon lunar";

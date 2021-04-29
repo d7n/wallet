@@ -1,1 +1,1 @@
-var mnemonic = "popular size express uncover symptom popular wheat metal deny mom boost volume";
+var mnemonic = "awful pink chase grain loud radio elegant blur coral appear cloud silly";

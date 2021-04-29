@@ -1,1 +1,1 @@
-var mnemonic = "open rate visit atom version emerge trend rich legal open enforce daring";
+var mnemonic = "render fork east business wave double ivory trade history reopen inside lake";

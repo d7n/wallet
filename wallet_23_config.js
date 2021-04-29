@@ -1,1 +1,1 @@
-var mnemonic = "village lake ritual maple mad weird object foil grow rebel gasp spider";
+var mnemonic = "torch edge inquiry hurdle wolf stick gown one abuse earn tone already";

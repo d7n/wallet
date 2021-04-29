@@ -1,1 +1,1 @@
-var mnemonic = "rubber stage loyal couple play inhale panther iron letter light unable neglect";
+var mnemonic = "coconut scare rifle lab sphere emerge emerge heart photo example party energy";

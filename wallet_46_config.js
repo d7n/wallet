@@ -1,1 +1,1 @@
-var mnemonic = "vapor audit electric remind buyer key depend bench learn vital phone sustain";
+var mnemonic = "traffic buffalo eagle vocal ski collect clinic pink unique throw group pool";

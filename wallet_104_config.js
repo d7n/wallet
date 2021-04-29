@@ -1,1 +1,1 @@
-var mnemonic = "display teach vague add soul left battle portion grain gather cigar report";
+var mnemonic = "climb play camp resist gentle artefact cushion donate depth raccoon deposit rug";

@@ -1,1 +1,1 @@
-var mnemonic = "office bitter abuse extend gallery margin fresh cigar shove antenna cherry nothing";
+var mnemonic = "draft oxygen plastic oval little sunny home affair novel desert mansion mutual";

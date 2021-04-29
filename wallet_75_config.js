@@ -1,1 +1,1 @@
-var mnemonic = "junior fee uncle piano around night planet ginger chest vapor claw defense";
+var mnemonic = "impose style snake square much dry foil cluster festival key trial accident";

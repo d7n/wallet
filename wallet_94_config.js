@@ -1,1 +1,1 @@
-var mnemonic = "lyrics aim gas special need veteran taste broken world insane clarify diet";
+var mnemonic = "coach popular clog supreme require fitness pride riot enable involve remember gather";

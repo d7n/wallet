@@ -1,1 +1,1 @@
-var mnemonic = "luggage skull tiger slot rain seminar cool element gadget now section voice";
+var mnemonic = "company legal lazy vague produce smile more notable crew next arctic stand";

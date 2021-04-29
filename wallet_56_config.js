@@ -1,1 +1,1 @@
-var mnemonic = "next dilemma athlete cricket cost humble auction blanket embody where brick tomato";
+var mnemonic = "fun sudden elbow hazard skirt loud leader gentle craft manual apple boil";

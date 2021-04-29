@@ -1,1 +1,1 @@
-var mnemonic = "burst blue wine hair that tail broom flame lounge object already drum";
+var mnemonic = "harbor because mountain gun upon climb size hole coach wait bracket forum";

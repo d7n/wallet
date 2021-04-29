@@ -1,1 +1,1 @@
-var mnemonic = "firm clerk ecology park direct company throw afraid father mistake mix hurt";
+var mnemonic = "detail mosquito palm easy more wine mutual wave nice silk awake robot";

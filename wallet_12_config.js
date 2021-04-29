@@ -1,1 +1,1 @@
-var mnemonic = "organ enough clump delay minimum actor combine bachelor pitch hint sheriff enhance";
+var mnemonic = "walk actor leader turkey spoon casual volume wood nothing parade butter shoot";

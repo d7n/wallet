@@ -1,1 +1,1 @@
-var mnemonic = "awkward rifle gate treat order lunch keen identify armor enlist kidney gallery";
+var mnemonic = "base clip wise ribbon asset state tiger solar gaze wonder pill text";

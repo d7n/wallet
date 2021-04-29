@@ -1,1 +1,1 @@
-var mnemonic = "federal color tail green weekend where fault address beauty pelican change swear";
+var mnemonic = "height clog panda limit hockey behave salute shaft upper boat cargo ensure";

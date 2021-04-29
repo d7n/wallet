@@ -1,1 +1,1 @@
-var mnemonic = "enrich pig garage sport pony twenty repair obvious young february heart wise";
+var mnemonic = "text lyrics lava endorse comfort exclude section feel flash boring scrub syrup";

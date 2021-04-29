@@ -1,1 +1,1 @@
-var mnemonic = "acoustic stumble cry stage stay double metal father love brief leg royal";
+var mnemonic = "dry staff tackle tumble flight giant silver spy picnic ostrich strike game";

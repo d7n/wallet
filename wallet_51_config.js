@@ -1,1 +1,1 @@
-var mnemonic = "toward pact smooth keen churn now essay night icon saddle common color";
+var mnemonic = "wheat reason envelope primary theory lamp olive case later program news two";

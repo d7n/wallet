@@ -1,1 +1,1 @@
-var mnemonic = "receive decide cash glimpse cattle drink worry rapid mammal birth any cherry";
+var mnemonic = "expand check future piano blade differ learn monkey pigeon near orchard space";

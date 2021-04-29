@@ -1,1 +1,1 @@
-var mnemonic = "peanut typical guess street link quit hour test differ tribe disease shed";
+var mnemonic = "envelope present grief alien crash primary panic rifle cinnamon point remove cushion";

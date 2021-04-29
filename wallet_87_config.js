@@ -1,1 +1,1 @@
-var mnemonic = "radio expand knee oval cupboard aware gift there share edge between addict";
+var mnemonic = "finish toast minimum only giggle expand artwork horror vendor come secret cigar";

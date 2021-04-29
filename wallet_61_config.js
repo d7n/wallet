@@ -1,1 +1,1 @@
-var mnemonic = "culture heart surge trip donkey remember gold horn whip toe consider rally";
+var mnemonic = "father birth syrup grit coin off medal oppose like duck weird rack";

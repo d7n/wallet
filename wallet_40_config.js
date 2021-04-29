@@ -1,1 +1,1 @@
-var mnemonic = "such wage price apology vehicle shrug figure layer firm taste lobster foot";
+var mnemonic = "shrug pumpkin ridge motion patch brown melody famous general unveil visit fever";

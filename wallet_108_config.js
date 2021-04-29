@@ -1,1 +1,1 @@
-var mnemonic = "age question episode deer glad trip claim cricket blind math letter point";
+var mnemonic = "figure enlist any open night now maze short clog sand robust edit";

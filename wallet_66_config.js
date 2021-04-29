@@ -1,1 +1,1 @@
-var mnemonic = "pact drive want habit hockey oil better position adapt rare silver close";
+var mnemonic = "comic panda crystal exile aerobic beyond awesome tragic smile echo indicate disease";

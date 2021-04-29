@@ -1,1 +1,1 @@
-var mnemonic = "situate frozen lottery monkey vapor gallery width call taste push unknown raise";
+var mnemonic = "security gossip amount alone leader reject trend program any furnace myth tag";

@@ -1,1 +1,1 @@
-var mnemonic = "despair early mix barrel alert sort cube leg pistol coffee bless casino";
+var mnemonic = "require stumble iron balance version barely enter wait month annual save become";

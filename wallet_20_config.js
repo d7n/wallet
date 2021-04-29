@@ -1,1 +1,1 @@
-var mnemonic = "trumpet type expire people grocery odor cannon afraid twelve sail eyebrow illness";
+var mnemonic = "range sketch rhythm arrive pepper disagree vicious dizzy width earth immune glue";

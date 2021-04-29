@@ -1,1 +1,1 @@
-var mnemonic = "doll observe insect lens mask wolf moral tenant creek plate eyebrow exhibit";
+var mnemonic = "monkey expire volcano tumble explain mobile forest fresh raccoon quote gravity immense";

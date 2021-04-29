@@ -1,1 +1,1 @@
-var mnemonic = "maple estate organ reflect cost join car cover chef sun hero view";
+var mnemonic = "soccer enemy whisper produce jaguar figure any better million capable exclude man";

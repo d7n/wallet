@@ -1,1 +1,1 @@
-var mnemonic = "inject earth system system envelope inmate stairs south cluster enforce degree link";
+var mnemonic = "orphan lift idea crowd question absent virtual walnut tiny post capable rain";

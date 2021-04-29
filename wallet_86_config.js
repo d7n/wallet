@@ -1,1 +1,1 @@
-var mnemonic = "have curious require right voice wealth balcony ticket banana audit process swear";
+var mnemonic = "expose often grape memory romance addict tree leopard mansion reflect mad addict";

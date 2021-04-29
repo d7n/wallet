@@ -1,1 +1,1 @@
-var mnemonic = "position vacuum prison replace gravity hawk found tooth tent juice nasty wife";
+var mnemonic = "spray time lobster purity matrix monkey output unknown seed matter option lumber";

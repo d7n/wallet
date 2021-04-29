@@ -1,1 +1,1 @@
-var mnemonic = "pet mass narrow vapor museum arena dragon lizard dish crowd relax arrange";
+var mnemonic = "image cupboard consider invest paper produce used square drip lake fit found";

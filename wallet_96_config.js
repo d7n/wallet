@@ -1,1 +1,1 @@
-var mnemonic = "what blanket morning amused sell ridge fluid table emerge celery rate wife";
+var mnemonic = "taxi whale climb advance toast enjoy gasp puzzle super kiss theme culture";

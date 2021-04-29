@@ -1,1 +1,1 @@
-var mnemonic = "gloom neglect stamp tunnel fault air knife sort trend rain summer knock";
+var mnemonic = "fame word antique soap myself fork feel outer affair neck meadow kite";

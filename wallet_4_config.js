@@ -1,1 +1,1 @@
-var mnemonic = "ship junior proud over age orphan puzzle crater gown green purse ketchup";
+var mnemonic = "expire soldier capital dragon term canyon tattoo annual unable direct access live";

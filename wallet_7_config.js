@@ -1,1 +1,1 @@
-var mnemonic = "prepare grape crowd table lawsuit speak text bounce cake repeat buddy swing";
+var mnemonic = "rookie wolf jungle dream pond struggle narrow float split inside rose sick";

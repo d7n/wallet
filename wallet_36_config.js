@@ -1,1 +1,1 @@
-var mnemonic = "road wedding gaze enough build flush spawn model notice muffin quick whisper";
+var mnemonic = "size crucial jealous cage sock oxygen boost whip brain coil party message";

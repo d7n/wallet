@@ -1,1 +1,1 @@
-var mnemonic = "decide grow resist better pass you wait wear long divide loyal wink";
+var mnemonic = "trigger cereal network boy priority explain laptop clock skin naive arch net";

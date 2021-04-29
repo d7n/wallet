@@ -1,1 +1,1 @@
-var mnemonic = "clump caution check velvet off egg sight flower express monster veteran addict";
+var mnemonic = "media nose hockey budget food easy outer ginger protect salad start duck";

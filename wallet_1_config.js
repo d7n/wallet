@@ -1,1 +1,1 @@
-var mnemonic = "addict margin result inhale mirror lecture siege rather devote trouble brown device";
+var mnemonic = "provide silver matter palace monkey inform exit lock glue elder manage disorder";

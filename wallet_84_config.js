@@ -1,1 +1,1 @@
-var mnemonic = "cluster warfare flower despair correct myth all novel wolf flag autumn excuse";
+var mnemonic = "claim powder type help range leaf acquire fancy hill volume recipe spin";

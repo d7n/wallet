@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit wrong loud thrive clock pupil zoo reflect train mail genre carpet";
+var mnemonic = "steak vendor claw feel mutual adult moral rally steak speed year relax";

@@ -1,1 +1,1 @@
-var mnemonic = "hammer crew sudden visa area adapt return skirt enjoy crisp buyer fork";
+var mnemonic = "van vacant truth volume jungle tooth parent junk zero dice float route";

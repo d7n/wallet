@@ -1,1 +1,1 @@
-var mnemonic = "budget blossom humor humble trial hard side steak eyebrow muffin funny benefit";
+var mnemonic = "stereo notable electric garment sadness rib brush exact ring whale maximum usual";

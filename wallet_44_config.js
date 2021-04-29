@@ -1,1 +1,1 @@
-var mnemonic = "laugh attract rabbit wing service bus quantum sister tragic chef call board";
+var mnemonic = "old process vague proud lens lens story clock soldier traffic tuna pupil";

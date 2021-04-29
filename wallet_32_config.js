@@ -1,1 +1,1 @@
-var mnemonic = "cycle lesson leisure speak theory wide nice accuse shock before setup wet";
+var mnemonic = "alert better family toy supply panda sample alarm amount upon birth hint";

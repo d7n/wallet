@@ -1,1 +1,1 @@
-var mnemonic = "census fiscal icon vacuum tomorrow pink ocean tone heart file abandon child";
+var mnemonic = "blade aim city account puzzle stumble marine photo square crunch advance frown";

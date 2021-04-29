@@ -1,1 +1,1 @@
-var mnemonic = "dice donor main crazy image slot dizzy olympic lawn collect asthma eight";
+var mnemonic = "stairs toddler warm convince protect rookie angry upset thing bomb crater history";

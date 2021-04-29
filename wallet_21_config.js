@@ -1,1 +1,1 @@
-var mnemonic = "coil cupboard slide garden ask arrive either horse brick company scan pipe";
+var mnemonic = "tank first buddy victory review lazy cool diamond mirror crash celery glance";
