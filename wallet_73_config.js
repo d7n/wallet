@@ -1,1 +1,1 @@
-var mnemonic = "man toe such safe move visa pelican rib super onion minute goddess";
+var mnemonic = "access embark matter useful much rookie human reason because sudden armed science";

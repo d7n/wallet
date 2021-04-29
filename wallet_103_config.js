@@ -1,1 +1,1 @@
-var mnemonic = "wink must perfect drama desert elbow charge correct end dash duty jungle";
+var mnemonic = "kite file suggest vessel circle finger dutch piano comfort become robust february";

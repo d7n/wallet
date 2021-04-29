@@ -1,1 +1,1 @@
-var mnemonic = "message primary orient insane cliff broccoli sense casual supply aerobic delay link";
+var mnemonic = "sell odor verify stamp force camp absurd rice pause slight lyrics abandon";

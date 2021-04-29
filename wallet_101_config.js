@@ -1,1 +1,1 @@
-var mnemonic = "illness disease hybrid cattle coil fork elegant guide drive wink talk harsh";
+var mnemonic = "crystal fitness wisdom fan erosion dignity recycle later bag hamster lock broken";

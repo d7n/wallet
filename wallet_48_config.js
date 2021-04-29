@@ -1,1 +1,1 @@
-var mnemonic = "present want script hammer obey salon original opera order canal want best";
+var mnemonic = "gap wool embody amazing bitter soldier mercy face witness lake divide rate";

@@ -1,1 +1,1 @@
-var mnemonic = "medal submit maid fine vague strike merit copy plate cannon shove hamster";
+var mnemonic = "volcano life noise lyrics early fox spring summer allow wedding you use";

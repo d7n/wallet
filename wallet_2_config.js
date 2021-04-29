@@ -1,1 +1,1 @@
-var mnemonic = "travel sniff spoon moral comfort interest emerge vibrant cart frown shallow pigeon";
+var mnemonic = "elbow avocado prison task dolphin credit spike first ball another broom sea";

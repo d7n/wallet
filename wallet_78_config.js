@@ -1,1 +1,1 @@
-var mnemonic = "action perfect industry like town vendor powder deliver calm blame grief album";
+var mnemonic = "seven various canoe witness abstract daughter outer document sketch diet hand symbol";

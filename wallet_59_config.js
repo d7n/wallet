@@ -1,1 +1,1 @@
-var mnemonic = "recipe weekend jungle arrive solution know step tag piece eternal beyond picture";
+var mnemonic = "voyage theme donate time edge army obvious ritual funny guess tell monster";

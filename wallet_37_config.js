@@ -1,1 +1,1 @@
-var mnemonic = "primary useful when problem toe donate boil venture envelope teach dragon excuse";
+var mnemonic = "achieve dog trade second spice have steel short tourist attend shell loyal";

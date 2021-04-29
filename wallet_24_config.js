@@ -1,1 +1,1 @@
-var mnemonic = "one open day because rude security choose soft tell rural plunge farm";
+var mnemonic = "prize climb during balcony tattoo dizzy phrase loud rhythm enlist close chase";

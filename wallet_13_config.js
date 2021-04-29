@@ -1,1 +1,1 @@
-var mnemonic = "maximum rebel boy shield weird busy garment rich retire rib exotic valid";
+var mnemonic = "used glimpse offer diesel grape such phrase ask unusual hammer idea begin";

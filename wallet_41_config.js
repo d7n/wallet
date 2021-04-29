@@ -1,1 +1,1 @@
-var mnemonic = "gaze hedgehog rebuild embark boost join brave jazz february front stand turn";
+var mnemonic = "awful wild dress spider ribbon glory seven coast spawn street vague patient";

@@ -1,1 +1,1 @@
-var mnemonic = "wheel tattoo ski pave token dirt spy until upon century debris retire";
+var mnemonic = "muffin sight metal tip grid blur kid bicycle embrace share lecture rebuild";

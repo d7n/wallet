@@ -1,1 +1,1 @@
-var mnemonic = "wisdom about trash nuclear knife layer modify suggest mouse strong arctic utility";
+var mnemonic = "orange wasp close wealth relief small rice boil joy odor capital embody";

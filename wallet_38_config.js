@@ -1,1 +1,1 @@
-var mnemonic = "under into false child front shift spoon pupil define clog used identify";
+var mnemonic = "quiz cart monster pitch federal tube inner east dry remember gadget exotic";

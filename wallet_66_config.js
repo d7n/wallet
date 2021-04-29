@@ -1,1 +1,1 @@
-var mnemonic = "forward shift best annual tray horror ripple south grow siege caught vivid";
+var mnemonic = "cigar duck answer depth unknown slot acoustic bring ten beyond blind puppy";

@@ -1,1 +1,1 @@
-var mnemonic = "awake glimpse coyote tennis clap front powder popular skate body rigid fox";
+var mnemonic = "lift sight neglect cry amused tiny album bottom metal crush earn dentist";

@@ -1,1 +1,1 @@
-var mnemonic = "possible coyote fade aim safe day legal gown coin prevent cube novel";
+var mnemonic = "glove typical trial notice sunny okay swear night valid install require film";

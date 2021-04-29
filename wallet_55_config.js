@@ -1,1 +1,1 @@
-var mnemonic = "height churn jeans garbage two jeans punch satisfy priority advance tuition mom";
+var mnemonic = "custom short random horror program purchase quarter phone rate blast primary success";

@@ -1,1 +1,1 @@
-var mnemonic = "pulp apology labor agree garlic sleep exhibit vendor actress next rapid since";
+var mnemonic = "rely diary front urge enact logic child mouse card dizzy magnet target";

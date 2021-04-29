@@ -1,1 +1,1 @@
-var mnemonic = "almost laundry sentence indoor whip strategy one stand genuine lecture pact hazard";
+var mnemonic = "bless erosion outdoor analyst monitor tell thought extra devote joke swing provide";

@@ -1,1 +1,1 @@
-var mnemonic = "unveil sorry inner culture memory under clutch airport actress visa wink habit";
+var mnemonic = "beyond cable luggage valid flower hour village drama wagon forest valley chat";

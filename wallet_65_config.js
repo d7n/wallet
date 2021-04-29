@@ -1,1 +1,1 @@
-var mnemonic = "loop vital source detail tuna cram concert gun suit confirm digital stove";
+var mnemonic = "cushion animal soft zoo meadow improve exit tray engage gossip major kitchen";

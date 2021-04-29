@@ -1,1 +1,1 @@
-var mnemonic = "unique sleep fatigue tape actress churn property round ramp fat man afford";
+var mnemonic = "report giant share settle usual curve decorate ramp biology rose element link";

@@ -1,1 +1,1 @@
-var mnemonic = "into soldier dinner depend dream language street draft solar core honey ritual";
+var mnemonic = "crisp grocery chef comic evoke pull arctic cave recipe boat icon unfair";

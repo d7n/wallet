@@ -1,1 +1,1 @@
-var mnemonic = "office butter soccer imitate height toilet obscure choose rifle cause reason direct";
+var mnemonic = "jealous melt supreme cost useless inform spread enjoy unknown unveil style tilt";

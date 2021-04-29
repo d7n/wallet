@@ -1,1 +1,1 @@
-var mnemonic = "step peace cliff method right gym pelican photo hill level inform pulse";
+var mnemonic = "april width surface spray balcony silent humble door dance ahead reflect erupt";

@@ -1,1 +1,1 @@
-var mnemonic = "smoke hundred bicycle year setup into stay addict become citizen total clean";
+var mnemonic = "suspect broken error castle net dice zebra sick final frost depend excess";

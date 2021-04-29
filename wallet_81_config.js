@@ -1,1 +1,1 @@
-var mnemonic = "century menu struggle song waste drive sunset please giant craft hole soda";
+var mnemonic = "crumble flight attract combine hundred motor merge cover figure media this fashion";

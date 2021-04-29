@@ -1,1 +1,1 @@
-var mnemonic = "sort total public virtual keen buffalo twelve curious cargo brother extra film";
+var mnemonic = "siege perfect begin nerve scene census response series speak orchard wear soap";

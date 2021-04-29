@@ -1,1 +1,1 @@
-var mnemonic = "stable pond prevent year target bullet expose gravity mask guess clerk art";
+var mnemonic = "clay blush miracle wild awake assume zero foil glory slot bundle ask";

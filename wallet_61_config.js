@@ -1,1 +1,1 @@
-var mnemonic = "turkey aware team chase puzzle anxiety name ritual post burger angry thought";
+var mnemonic = "gesture job jazz talent cart size south choice ski lizard become interest";

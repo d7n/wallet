@@ -1,1 +1,1 @@
-var mnemonic = "talk sick ahead beyond zone color marriage twenty frame drift job trash";
+var mnemonic = "misery exercise vanish type settle vessel move consider hope young time little";

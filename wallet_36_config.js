@@ -1,1 +1,1 @@
-var mnemonic = "wine pumpkin spin era close entire proof elegant shadow payment accuse erase";
+var mnemonic = "speak urge furnace dinner decade word puzzle pigeon happy tube hunt goat";

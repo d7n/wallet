@@ -1,1 +1,1 @@
-var mnemonic = "royal derive mouse excite since phrase taste cover matter order key six";
+var mnemonic = "swarm shield ecology labor umbrella abstract cigar frame art joke caution middle";

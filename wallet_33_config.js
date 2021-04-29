@@ -1,1 +1,1 @@
-var mnemonic = "cash either position situate begin owner youth version next kidney soldier type";
+var mnemonic = "hub noise hole royal quality desert enforce lounge rebel mansion soft museum";

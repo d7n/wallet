@@ -1,1 +1,1 @@
-var mnemonic = "bamboo diary unable eternal luggage enough school skate produce when evolve imitate";
+var mnemonic = "now zero license consider smoke hurt capable shove icon welcome dream wisdom";

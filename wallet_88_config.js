@@ -1,1 +1,1 @@
-var mnemonic = "eight segment town unit meat vote mom task guess travel vapor angry";
+var mnemonic = "anger liberty liquid floor auto spoil cool student proof panther surface identify";

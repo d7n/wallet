@@ -1,1 +1,1 @@
-var mnemonic = "arrow split neck cherry auto injury jewel yellow repeat announce notice flock";
+var mnemonic = "rely ripple card actor dinosaur sphere topple core wrist pass biology nasty";

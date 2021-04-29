@@ -1,1 +1,1 @@
-var mnemonic = "into reward consider absorb begin jazz label fashion jacket pet scan certain";
+var mnemonic = "taste doctor confirm crane frame faith slow time ship expand quarter canal";

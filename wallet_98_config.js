@@ -1,1 +1,1 @@
-var mnemonic = "claw cook border vacuum hundred system march genre vast carpet tackle success";
+var mnemonic = "cherry chat emotion copy inner kiwi super search genre fossil lake love";

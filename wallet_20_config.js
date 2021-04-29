@@ -1,1 +1,1 @@
-var mnemonic = "armed outdoor sponsor boy tenant reflect thunder ship raw demise jacket else";
+var mnemonic = "comfort lake captain inquiry fit song frog top legend secret finger fetch";

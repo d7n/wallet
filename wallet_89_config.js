@@ -1,1 +1,1 @@
-var mnemonic = "debris alien base master gadget future achieve dove sense assault echo farm";
+var mnemonic = "side drop small hole load coach rough smooth mind ceiling manual page";

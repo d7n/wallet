@@ -1,1 +1,1 @@
-var mnemonic = "uphold donkey grab online extra divert error hope cable fork dentist never";
+var mnemonic = "nasty script dry game fatal two reflect advance mobile square stumble wine";

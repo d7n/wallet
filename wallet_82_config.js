@@ -1,1 +1,1 @@
-var mnemonic = "daughter crisp inquiry team keep verb census toilet seek inhale science beef";
+var mnemonic = "scan pink notice equal empower alone supreme olive tail razor core tide";

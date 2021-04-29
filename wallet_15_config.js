@@ -1,1 +1,1 @@
-var mnemonic = "canyon grant parrot print wool document fluid net kidney soul fuel dress";
+var mnemonic = "shaft area century because faint benefit promote shadow vital equip please coast";

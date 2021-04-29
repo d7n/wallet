@@ -1,1 +1,1 @@
-var mnemonic = "hand behave alley dismiss material exact few pencil walnut swear shallow excess";
+var mnemonic = "sorry acoustic lamp hen bargain clinic review window abandon expose choose sort";

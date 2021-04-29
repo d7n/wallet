@@ -1,1 +1,1 @@
-var mnemonic = "punch episode express much render science space brother economy pumpkin lesson soon";
+var mnemonic = "range crisp eternal arrange stadium wool biology model bus adjust merry huge";

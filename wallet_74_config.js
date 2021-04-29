@@ -1,1 +1,1 @@
-var mnemonic = "female addict expose topic purpose vessel fine idle double pony amateur charge";
+var mnemonic = "grass will outside magic ugly patch file ankle rely style dismiss nephew";

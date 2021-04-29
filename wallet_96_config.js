@@ -1,1 +1,1 @@
-var mnemonic = "bubble romance echo aisle divide pass tip audit mushroom merge increase alert";
+var mnemonic = "section repeat century online rally bundle attract skull hunt author address dwarf";

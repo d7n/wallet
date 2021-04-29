@@ -1,1 +1,1 @@
-var mnemonic = "health path spy print battle video advance museum glass visual shine evolve";
+var mnemonic = "logic trophy feature acoustic behind divert token typical museum wrong amount drum";

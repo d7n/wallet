@@ -1,1 +1,1 @@
-var mnemonic = "allow until describe thumb street blouse license ankle upper cat clean rigid";
+var mnemonic = "letter planet park modify turn oil orphan unique jump ridge local sock";

@@ -1,1 +1,1 @@
-var mnemonic = "side mirror renew rail outside alone syrup trash lift uncover trim misery";
+var mnemonic = "actress doctor funny pear token undo child laugh real spread author private";

@@ -1,1 +1,1 @@
-var mnemonic = "analyst fish depend device combine warfare rally suspect tornado govern uncle blossom";
+var mnemonic = "smart palace exit inherit lion turkey prepare lab gaze damp submit tomorrow";

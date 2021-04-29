@@ -1,1 +1,1 @@
-var mnemonic = "vapor jar brass cream double spare grow coin wasp imitate few speak";
+var mnemonic = "hollow giggle million trigger lawsuit unable bridge swap exile muscle oyster end";

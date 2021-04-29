@@ -1,1 +1,1 @@
-var mnemonic = "vanish field abandon knife fiscal other pencil meadow behave spider cousin drip";
+var mnemonic = "dolphin void naive dry impact eye regret segment squirrel place honey loop";

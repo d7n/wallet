@@ -1,1 +1,1 @@
-var mnemonic = "option wagon unit toast pigeon mom excite cry remember fence scrub detect";
+var mnemonic = "torch lamp primary blanket myself job noodle frame airport jaguar badge ice";

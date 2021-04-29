@@ -1,1 +1,1 @@
-var mnemonic = "ripple sword immune diet april cabbage hybrid whip pioneer cloth crystal large";
+var mnemonic = "logic mind faith track drip multiply mobile pumpkin between range memory lamp";

@@ -1,1 +1,1 @@
-var mnemonic = "crash crack night antenna notice brave office clean day puzzle test height";
+var mnemonic = "kiwi demise obey tenant upset world depart art lyrics catalog stamp radio";

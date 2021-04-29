@@ -1,1 +1,1 @@
-var mnemonic = "budget nest deliver vintage truth tennis occur like virus flag south turkey";
+var mnemonic = "simple split vanish arrive ice suit offer shield range faculty task athlete";

@@ -1,1 +1,1 @@
-var mnemonic = "fence nest tent smile inch can arrow symptom panther defy kick sphere";
+var mnemonic = "beyond twist drama whisper knock digital polar math submit inflict turtle siren";

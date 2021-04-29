@@ -1,1 +1,1 @@
-var mnemonic = "praise truly intact noise crane frame ride cave detect maid guess stick";
+var mnemonic = "settle enroll uphold neglect team salad naive end dial face entire fit";

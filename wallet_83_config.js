@@ -1,1 +1,1 @@
-var mnemonic = "photo judge invest delay retreat kid garage size piano elevator relief expect";
+var mnemonic = "begin ocean assault dash abandon canyon envelope spread climb kitchen mesh surround";

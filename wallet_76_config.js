@@ -1,1 +1,1 @@
-var mnemonic = "rain half close december style token turtle vicious give empower faculty armed";
+var mnemonic = "brick early sentence phone issue mention opera stage embark six walnut apple";

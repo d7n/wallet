@@ -1,1 +1,1 @@
-var mnemonic = "mom winner grocery equip lunar letter never gap choice embody wear solar";
+var mnemonic = "possible snap gun remember member keen illness change chest trip name element";

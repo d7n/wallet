@@ -1,1 +1,1 @@
-var mnemonic = "lesson shrimp claw impulse feed member island zero book rude tag cannon";
+var mnemonic = "absurd benefit neglect innocent tomorrow ordinary sign squeeze able faith pyramid what";

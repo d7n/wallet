@@ -1,1 +1,1 @@
-var mnemonic = "planet utility custom doctor arrow kind twenty north derive scan diary property";
+var mnemonic = "enable learn rate frost task acquire also source grit celery tell version";

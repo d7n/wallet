@@ -1,1 +1,1 @@
-var mnemonic = "hidden pet inform tank vintage always great syrup employ rhythm truck divorce";
+var mnemonic = "require culture casino music fat aerobic grief fame famous lazy educate quit";

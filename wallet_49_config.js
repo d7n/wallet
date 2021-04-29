@@ -1,1 +1,1 @@
-var mnemonic = "gallery license vintage bachelor distance there twelve tourist annual aware virtual junior";
+var mnemonic = "slot sadness oil clap crater vital drift yellow scissors mansion bag roof";

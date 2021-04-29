@@ -1,1 +1,1 @@
-var mnemonic = "actress unit innocent truck improve bundle jacket dial provide garden color ketchup";
+var mnemonic = "ship coin answer recall claim desert camera auto token rebuild episode humor";

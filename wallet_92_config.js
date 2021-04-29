@@ -1,1 +1,1 @@
-var mnemonic = "occur destroy dumb broken minute smooth vapor donate subject hat celery buzz";
+var mnemonic = "clock famous copper wire leaf coral blade enact glow napkin wear file";

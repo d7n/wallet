@@ -1,1 +1,1 @@
-var mnemonic = "romance basic year puppy pen fun thing negative coral always deal announce";
+var mnemonic = "marriage illegal alter icon spell item brush dog world express exit donkey";

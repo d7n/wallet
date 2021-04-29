@@ -1,1 +1,1 @@
-var mnemonic = "half vote heart execute response bundle short find grain define faculty winner";
+var mnemonic = "purse help shed pepper stumble human tattoo universe equal cereal dream make";

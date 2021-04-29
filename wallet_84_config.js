@@ -1,1 +1,1 @@
-var mnemonic = "galaxy pistol melody syrup false sign parrot biology bring indoor loyal decade";
+var mnemonic = "movie town upon honey remain junior syrup stem admit history park index";

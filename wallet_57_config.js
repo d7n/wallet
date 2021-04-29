@@ -1,1 +1,1 @@
-var mnemonic = "universe junior advance stairs uncle usual donor include run shed praise void";
+var mnemonic = "dismiss enjoy identify habit mirror expire globe stable afraid crime attitude arena";

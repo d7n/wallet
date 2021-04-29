@@ -1,1 +1,1 @@
-var mnemonic = "angry crumble squeeze casual toilet cup blue embody empty zone answer divert";
+var mnemonic = "south mammal tumble math tray decide kind change token unique found maple";

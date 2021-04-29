@@ -1,1 +1,1 @@
-var mnemonic = "pistol pause news shoe stereo fall only number crumble renew water accuse";
+var mnemonic = "fetch assist melt joy upset adapt invest hawk decrease fall seminar message";

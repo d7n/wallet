@@ -1,1 +1,1 @@
-var mnemonic = "ethics direct slam brother deputy around good wonder ring emerge stuff ribbon";
+var mnemonic = "cycle push measure sibling valley drastic amount clip humor art quarter movie";

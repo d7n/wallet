@@ -1,1 +1,1 @@
-var mnemonic = "parrot ghost problem jump tunnel vendor tuna school brand oak vendor moment";
+var mnemonic = "twin citizen gym live student return transfer route fruit display clarify system";

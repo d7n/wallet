@@ -1,1 +1,1 @@
-var mnemonic = "garbage donkey anger country gasp property whisper reject muffin love liberty friend";
+var mnemonic = "assist lady nice fork defy talk stairs noble kitchen upper renew clutch";
