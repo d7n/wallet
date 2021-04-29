@@ -1,1 +1,1 @@
-var mnemonic = "loud expose sea roof view survey happy entry say before poem culture";
+var mnemonic = "link excite dress immune young what struggle network parrot spot method test";

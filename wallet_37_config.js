@@ -1,1 +1,1 @@
-var mnemonic = "dinner cable upset kick offer hand bid place turkey sign comic swift";
+var mnemonic = "rotate alley hold december congress lyrics three figure tent sport fury setup";

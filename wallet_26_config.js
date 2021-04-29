@@ -1,1 +1,1 @@
-var mnemonic = "genuine enough capital bean dress warfare swear know method defy curtain famous";
+var mnemonic = "symbol blossom box reunion cherry critic permit young embody pelican dutch ability";

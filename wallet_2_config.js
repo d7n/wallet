@@ -1,1 +1,1 @@
-var mnemonic = "foam bullet exhibit oyster tool crane endorse nut collect west mind style";
+var mnemonic = "move hip trap stuff fox cloud fresh tunnel beach test rely they";

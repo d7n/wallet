@@ -1,1 +1,1 @@
-var mnemonic = "tone glass sense arrive easily goddess ketchup draw army tired enhance symbol";
+var mnemonic = "useless raise fix soccer either vault master meat elder devote food palace";

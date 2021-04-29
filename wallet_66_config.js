@@ -1,1 +1,1 @@
-var mnemonic = "bid soft arena check local debate silk matter ozone gap sad depth";
+var mnemonic = "idea riot know enemy nurse sail finish model remove spread foam empty";

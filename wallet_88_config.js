@@ -1,1 +1,1 @@
-var mnemonic = "pizza silk coconut pulp border deer shrug aerobic setup jewel cross call";
+var mnemonic = "student wall dog couple rose choose example limit inner print dune reward";

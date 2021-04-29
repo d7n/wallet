@@ -1,1 +1,1 @@
-var mnemonic = "clutch tunnel broccoli blue already true trigger antenna purpose dove cotton chunk";
+var mnemonic = "buddy canyon portion angle seven bitter rude measure model huge nominee promote";

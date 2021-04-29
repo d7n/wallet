@@ -1,1 +1,1 @@
-var mnemonic = "almost nest company siren culture repair brief drip embrace globe labor infant";
+var mnemonic = "sail quiz convince vault cook salmon guide six art economy pride laptop";

@@ -1,1 +1,1 @@
-var mnemonic = "armed capital essence scissors vague replace dry rhythm female verify elbow human";
+var mnemonic = "bind uniform spy front require shove round verb one area open wagon";

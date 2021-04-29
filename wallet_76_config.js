@@ -1,1 +1,1 @@
-var mnemonic = "blind cross patient small wonder morning nephew poverty eternal coach swarm monster";
+var mnemonic = "average jazz author notice avocado escape sauce bracket artwork reopen antique list";

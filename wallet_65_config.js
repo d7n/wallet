@@ -1,1 +1,1 @@
-var mnemonic = "knife disorder asthma name column paddle news dice knee burden own cactus";
+var mnemonic = "else cement style sport club siege blur ankle yard project garbage erode";

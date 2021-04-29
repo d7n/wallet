@@ -1,1 +1,1 @@
-var mnemonic = "carbon reward soda sister motor spirit bachelor render subway guide horse sword";
+var mnemonic = "fall use about march defy age exist room luggage ride purse thunder";

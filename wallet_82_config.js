@@ -1,1 +1,1 @@
-var mnemonic = "pilot broccoli stairs orphan keen thumb confirm sphere easy galaxy pride laugh";
+var mnemonic = "accident welcome chronic nuclear slender term canyon spike mammal eyebrow elite rain";

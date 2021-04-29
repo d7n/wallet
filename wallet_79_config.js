@@ -1,1 +1,1 @@
-var mnemonic = "rapid taxi foil purse test job appear verb payment virtual remember burger";
+var mnemonic = "radar unaware disorder shell express broken evil pen curious poet convince glance";

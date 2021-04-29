@@ -1,1 +1,1 @@
-var mnemonic = "pass salon venture vendor upset oppose minute armor various suit sausage food";
+var mnemonic = "confirm give coral ball human silly purchase crisp twice fun spike apple";

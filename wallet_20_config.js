@@ -1,1 +1,1 @@
-var mnemonic = "rail text clown appear switch mask uncover reopen much about crash tower";
+var mnemonic = "nose viable allow life bag version palm horror crystal tent spawn fog";

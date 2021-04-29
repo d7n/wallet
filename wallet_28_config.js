@@ -1,1 +1,1 @@
-var mnemonic = "arctic analyst flip rail income brave sport bullet guess again close verb";
+var mnemonic = "hidden rapid camp scheme away truck silver toss round buddy room hurt";

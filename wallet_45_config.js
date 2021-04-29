@@ -1,1 +1,1 @@
-var mnemonic = "call fine debate century whisper green share arrow model tiny bright whip";
+var mnemonic = "truck pledge run gate ozone expect carpet error ivory witness someone violin";

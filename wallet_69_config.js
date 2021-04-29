@@ -1,1 +1,1 @@
-var mnemonic = "defy voyage trumpet gossip diesel cactus meadow stage panic flower regular box";
+var mnemonic = "often own season plunge chimney door solution play bread report replace zero";

@@ -1,1 +1,1 @@
-var mnemonic = "barely peace thunder shrimp own cat deer hard plate hint wish smooth";
+var mnemonic = "tired farm city lobster nerve ugly cart goat army virtual session siren";

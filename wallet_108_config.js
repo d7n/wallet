@@ -1,1 +1,1 @@
-var mnemonic = "puppy artefact honey bridge kick any immune betray exist subject topple distance";
+var mnemonic = "buddy middle used party sugar tip fix wood wash scatter call believe";

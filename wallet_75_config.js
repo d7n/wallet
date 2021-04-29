@@ -1,1 +1,1 @@
-var mnemonic = "mushroom airport depart test switch mosquito frost twenty honey promote neck treat";
+var mnemonic = "flame slush universe gym hero toward shed scissors organ install possible small";

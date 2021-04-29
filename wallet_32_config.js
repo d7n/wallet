@@ -1,1 +1,1 @@
-var mnemonic = "comfort tired want public stage defense deal drama tunnel south ritual sphere";
+var mnemonic = "october circle nest question assist firm extend lottery atom repeat nothing noodle";

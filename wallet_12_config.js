@@ -1,1 +1,1 @@
-var mnemonic = "fruit fragile below flat buzz ring enrich unaware inspire flame inspire bread";
+var mnemonic = "gas panel run worry hire own gesture erosion tilt radio current item";

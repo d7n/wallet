@@ -1,1 +1,1 @@
-var mnemonic = "hold donate apology alter history audit elegant ordinary lamp solar always feed";
+var mnemonic = "capable venture paddle cloud arrow pen smart visa claw nose oxygen save";

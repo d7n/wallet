@@ -1,1 +1,1 @@
-var mnemonic = "nothing level clarify equal love thrive symptom popular film glad creek intact";
+var mnemonic = "say test exclude pulse sight shop clump clutch twist miss barrel dirt";

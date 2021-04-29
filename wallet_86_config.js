@@ -1,1 +1,1 @@
-var mnemonic = "cigar thought permit because visit vocal vicious duck uniform narrow dial obvious";
+var mnemonic = "glory acquire approve poverty stumble strike tiny smile vault extra heavy size";

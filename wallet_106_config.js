@@ -1,1 +1,1 @@
-var mnemonic = "squirrel finish bacon riot year fossil affair example pet unit finish day";
+var mnemonic = "outside jacket denial current account guess project nature inhale monster issue require";

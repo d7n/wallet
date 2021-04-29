@@ -1,1 +1,1 @@
-var mnemonic = "host input salon tortoise hope resemble file vote juice flower shadow arrow";
+var mnemonic = "quality common pattern capital palace author dose gossip style air belt dilemma";

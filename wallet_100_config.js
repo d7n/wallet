@@ -1,1 +1,1 @@
-var mnemonic = "fox light dilemma replace clown hazard material differ provide sing rabbit mass";
+var mnemonic = "oven friend tongue able bachelor ketchup cost portion field trap order caught";

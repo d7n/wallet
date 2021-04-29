@@ -1,1 +1,1 @@
-var mnemonic = "toddler analyst breeze trash icon eternal into pipe zoo order slight logic";
+var mnemonic = "tonight deposit rifle pepper margin motor other safe brief deliver ugly curious";

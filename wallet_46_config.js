@@ -1,1 +1,1 @@
-var mnemonic = "dance napkin day similar where foil movie come lesson pretty size tonight";
+var mnemonic = "news chair dutch zero expire top obtain usual spend shoulder false crane";

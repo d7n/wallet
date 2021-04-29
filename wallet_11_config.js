@@ -1,1 +1,1 @@
-var mnemonic = "dentist bunker click word possible faith talk spray tornado unit alone orange";
+var mnemonic = "spare outdoor kangaroo token kick spray gym carry sniff material column pattern";

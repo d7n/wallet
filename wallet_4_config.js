@@ -1,1 +1,1 @@
-var mnemonic = "harsh airport manual lecture hold toilet exotic remind basic able roast excess";
+var mnemonic = "depart plate clutch special desk index consider century letter nominee notice wrong";

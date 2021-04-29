@@ -1,1 +1,1 @@
-var mnemonic = "hold gentle install pilot grab clerk swallow reveal essence struggle punch chest";
+var mnemonic = "pelican boost twin evil soldier gallery injury assault fitness cook void total";

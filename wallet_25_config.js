@@ -1,1 +1,1 @@
-var mnemonic = "sheriff claw list local busy kind alone drip general team size put";
+var mnemonic = "term pact borrow split practice velvet body reflect filter zero ensure raw";

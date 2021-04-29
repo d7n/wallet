@@ -1,1 +1,1 @@
-var mnemonic = "abuse pull occur gaze seminar recall police next crime logic neck action";
+var mnemonic = "holiday short stone warm pretty garden wonder cherry beyond acoustic voyage layer";

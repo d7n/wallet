@@ -1,1 +1,1 @@
-var mnemonic = "syrup goat fix picnic settle divide fringe cluster solution poem chalk eternal";
+var mnemonic = "attack reveal truck truck logic nature rebel vacuum favorite device marine glow";

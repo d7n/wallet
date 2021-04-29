@@ -1,1 +1,1 @@
-var mnemonic = "person excuse correct draw other pond olive end primary ginger unknown unable";
+var mnemonic = "open afford crouch where grow custom apart menu giraffe throw various border";

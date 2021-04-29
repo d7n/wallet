@@ -1,1 +1,1 @@
-var mnemonic = "glance action relax world text slogan friend attend now what tone check";
+var mnemonic = "decide scare wonder battle dish relief ghost argue combine gauge maze prize";

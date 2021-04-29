@@ -1,1 +1,1 @@
-var mnemonic = "brave rebel junior hand hotel estate mail bacon cable cash carry radio";
+var mnemonic = "noble beauty hope model obey green view casual fame hedgehog word equal";

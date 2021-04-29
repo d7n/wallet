@@ -1,1 +1,1 @@
-var mnemonic = "brief join feed liar license useless news ketchup swift endless sail subway";
+var mnemonic = "sound blush duty match celery add bright faculty board inject mango boss";

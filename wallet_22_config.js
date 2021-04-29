@@ -1,1 +1,1 @@
-var mnemonic = "damp angle muscle motion adult divorce effort faint phone solution allow have";
+var mnemonic = "custom tourist health audit muscle salmon dignity discover join run urban sail";

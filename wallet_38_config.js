@@ -1,1 +1,1 @@
-var mnemonic = "blush primary rural cloth draft little various bus pizza dirt neck egg";
+var mnemonic = "special post luxury attitude worry defense duck calm light plunge asthma toy";

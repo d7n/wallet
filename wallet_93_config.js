@@ -1,1 +1,1 @@
-var mnemonic = "glare pistol student pottery online release scare milk pause hole buffalo cupboard";
+var mnemonic = "situate case volume desert shaft shell hollow equal merge ten knee electric";

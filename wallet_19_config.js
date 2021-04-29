@@ -1,1 +1,1 @@
-var mnemonic = "kingdom flower glove pumpkin promote wear aunt finger notable luxury method hockey";
+var mnemonic = "soft fetch wild marine position hill seed seven layer stone afraid trick";

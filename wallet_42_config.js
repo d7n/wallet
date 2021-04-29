@@ -1,1 +1,1 @@
-var mnemonic = "goat lucky effort explain crack dove oil fox equip orbit neutral fall";
+var mnemonic = "give diary crisp hurt flee decline cat child love timber inspire online";

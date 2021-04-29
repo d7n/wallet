@@ -1,1 +1,1 @@
-var mnemonic = "point town soon depend fun during basic dignity fatal kit march target";
+var mnemonic = "brass brief pattern coyote become cinnamon witness symptom gadget actress deer hole";

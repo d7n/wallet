@@ -1,1 +1,1 @@
-var mnemonic = "wing rural horse chef cement model bind curtain excess cream gate hole";
+var mnemonic = "piano lake sweet guilt oyster effort grab casino cave almost keen heart";

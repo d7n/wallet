@@ -1,1 +1,1 @@
-var mnemonic = "among depend fix galaxy wrap garden apple wave lens mountain blade use";
+var mnemonic = "settle tomato plate few town scout assume grief room exact sibling cliff";

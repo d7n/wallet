@@ -1,1 +1,1 @@
-var mnemonic = "romance tool surge daring survey valley pumpkin curve talent vote leaf kid";
+var mnemonic = "logic trash famous two avoid dilemma left dial field cup anxiety claim";

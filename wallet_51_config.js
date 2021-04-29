@@ -1,1 +1,1 @@
-var mnemonic = "chalk such cause palace now army thing vehicle govern nose slice mean";
+var mnemonic = "borrow puppy huge charge mechanic six symptom marriage stage use machine issue";

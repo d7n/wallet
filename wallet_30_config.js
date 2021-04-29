@@ -1,1 +1,1 @@
-var mnemonic = "now stool proud banana empty bubble define power trash later fine zone";
+var mnemonic = "youth phrase kite enrich silver mutual laptop mask pottery couple toilet evidence";

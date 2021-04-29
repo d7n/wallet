@@ -1,1 +1,1 @@
-var mnemonic = "giggle wisdom artefact devote velvet scorpion possible nurse three under corn bless";
+var mnemonic = "fury village fiction arena adapt relief clap stand pigeon eight tiger diet";

@@ -1,1 +1,1 @@
-var mnemonic = "twin nut token gym approve involve better correct dash arctic fame swap";
+var mnemonic = "menu mushroom proof twist increase trend silk crack outer pilot ignore program";

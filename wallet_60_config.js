@@ -1,1 +1,1 @@
-var mnemonic = "slim wonder biology thunder adult wise slight hundred reflect obscure window retreat";
+var mnemonic = "kid hobby cactus execute inner point soul lawn exact garment garlic book";

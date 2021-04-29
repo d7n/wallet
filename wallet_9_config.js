@@ -1,1 +1,1 @@
-var mnemonic = "hamster erase claw vote rug nation margin scene curtain middle stage solution";
+var mnemonic = "lottery depth hip hammer level practice rebel win pear climb bone film";

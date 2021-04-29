@@ -1,1 +1,1 @@
-var mnemonic = "message release script target unit million army school illegal perfect tourist birth";
+var mnemonic = "museum benefit banana achieve wet sad man myth venue foam sport zero";

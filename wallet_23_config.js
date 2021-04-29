@@ -1,1 +1,1 @@
-var mnemonic = "parrot unaware found size canal undo pulp street asthma destroy rigid much";
+var mnemonic = "foot spike frequent rate half spider maid space off chair solution infant";

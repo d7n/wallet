@@ -1,1 +1,1 @@
-var mnemonic = "exhibit issue supply emerge element monitor letter december cigar inherit whip humble";
+var mnemonic = "cake buzz pride legal style decade reward kid plate force attack raw";

@@ -1,1 +1,1 @@
-var mnemonic = "salad income carry assist exclude flavor tide puppy wreck purchase tooth quarter";
+var mnemonic = "sea amazing will donor wire defense strike bean pole like option scale";

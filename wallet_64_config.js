@@ -1,1 +1,1 @@
-var mnemonic = "gift creek quick wedding duck fatigue brain dizzy person off chat proud";
+var mnemonic = "across gravity race wolf spring blind nominee lecture quality turn arrest robot";

@@ -1,1 +1,1 @@
-var mnemonic = "dumb valve history jump bid leg shrug voice this airport various lion";
+var mnemonic = "goddess rural large palace trust slice west slide dove arrest already human";

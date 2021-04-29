@@ -1,1 +1,1 @@
-var mnemonic = "next monkey okay fringe culture response blue omit name ill bright answer";
+var mnemonic = "oven priority habit degree disagree pair surface chronic fine faint grow busy";

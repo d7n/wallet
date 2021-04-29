@@ -1,1 +1,1 @@
-var mnemonic = "decorate dismiss crush text stairs garment tool bag right scrub journey oyster";
+var mnemonic = "truck load spell ugly top release vault decide busy deal toward hybrid";

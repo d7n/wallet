@@ -1,1 +1,1 @@
-var mnemonic = "spawn hope convince ocean click swim fury delay milk across hire actress";
+var mnemonic = "render seek drop liberty snow lock keep axis inject short congress foster";

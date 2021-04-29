@@ -1,1 +1,1 @@
-var mnemonic = "regular luggage grain will river vault must embark useless knee dance cargo";
+var mnemonic = "afraid omit puppy share when wealth blade comfort oak tonight title oxygen";

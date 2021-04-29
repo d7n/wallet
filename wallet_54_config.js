@@ -1,1 +1,1 @@
-var mnemonic = "abuse poem basic switch laugh slush barely fluid mosquito snake valley connect";
+var mnemonic = "critic imitate rocket broccoli glare car shoot offer flee opera hero black";

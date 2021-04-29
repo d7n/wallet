@@ -1,1 +1,1 @@
-var mnemonic = "tail tent about prosper mad truly talent mutual maple between ship mix";
+var mnemonic = "obtain state clock mixture express pulp stock present taxi manual debris bird";

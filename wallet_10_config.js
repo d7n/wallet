@@ -1,1 +1,1 @@
-var mnemonic = "today science tennis error cat help rail stadium time mixed ready mixture";
+var mnemonic = "height forget bottom lizard good couch step plastic pottery camp swift swallow";

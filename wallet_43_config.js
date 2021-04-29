@@ -1,1 +1,1 @@
-var mnemonic = "force stage ostrich wine scale dash sphere whale special asset course cat";
+var mnemonic = "awkward victory goat law joke veteran seat grit update journey buyer mixed";

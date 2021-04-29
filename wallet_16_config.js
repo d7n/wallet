@@ -1,1 +1,1 @@
-var mnemonic = "split file also reject cram nominee thing time raccoon age size member";
+var mnemonic = "involve neglect crush stuff razor jacket avoid pilot cousin day degree play";

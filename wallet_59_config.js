@@ -1,1 +1,1 @@
-var mnemonic = "artwork crunch discover nation load industry hungry space invite elephant weird moment";
+var mnemonic = "stumble make erupt pioneer magnet reveal stuff banana sound erosion excite disagree";

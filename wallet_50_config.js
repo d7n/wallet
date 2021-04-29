@@ -1,1 +1,1 @@
-var mnemonic = "select model original artefact rescue spawn gloom split horn dust fatal excuse";
+var mnemonic = "skill bonus stool salon occur inject able color better switch must segment";

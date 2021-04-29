@@ -1,1 +1,1 @@
-var mnemonic = "glance neglect lemon seek grit intact surface mobile roast wall envelope benefit";
+var mnemonic = "inhale bean warfare scheme music quarter round prison apple broom little above";

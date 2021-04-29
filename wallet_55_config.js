@@ -1,1 +1,1 @@
-var mnemonic = "destroy fabric inmate dog doll autumn hotel sustain flavor season fatigue cage";
+var mnemonic = "country culture cotton surface island grow group educate lesson exile shrimp mass";

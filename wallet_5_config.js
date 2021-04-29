@@ -1,1 +1,1 @@
-var mnemonic = "unusual refuse gravity rabbit pencil mountain arctic mixture cactus agree satoshi person";
+var mnemonic = "toe crop ocean try color main need hurdle margin interest manage derive";

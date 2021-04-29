@@ -1,1 +1,1 @@
-var mnemonic = "crime gaze laptop stairs husband speak disease prefer visa maximum place kiss";
+var mnemonic = "hockey bubble level evil tell wisdom marine allow select huge peasant hockey";

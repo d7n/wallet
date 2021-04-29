@@ -1,1 +1,1 @@
-var mnemonic = "tenant super atom spatial yellow inch reject account churn idle arm feed";
+var mnemonic = "heavy guess worth answer naive alcohol gun odor saddle garbage wonder welcome";

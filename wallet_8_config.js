@@ -1,1 +1,1 @@
-var mnemonic = "embody velvet crane enact spell film skill shiver awful walk music swear";
+var mnemonic = "list state board alcohol business alarm crisp board screen opinion thumb original";

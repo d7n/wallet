@@ -1,1 +1,1 @@
-var mnemonic = "memory concert fetch deny match confirm pencil pulse maid seed chat essence";
+var mnemonic = "hover fuel title glimpse rhythm feed mind engine flash shop host hazard";

@@ -1,1 +1,1 @@
-var mnemonic = "dune owner rotate win fat pluck cousin legend govern inject damage between";
+var mnemonic = "improve inner minimum uphold venue lunar case broccoli desk time idea kangaroo";

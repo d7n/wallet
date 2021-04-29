@@ -1,1 +1,1 @@
-var mnemonic = "infant plug multiply milk term style lizard fuel brand pony fault remain";
+var mnemonic = "ride quality vapor sibling jealous basic connect trouble fix acquire track develop";

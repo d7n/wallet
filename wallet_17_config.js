@@ -1,1 +1,1 @@
-var mnemonic = "rare letter man tattoo omit crisp siren illegal actor base crouch found";
+var mnemonic = "liquid illness bachelor since woman arch bonus mask educate honey twenty million";

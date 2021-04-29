@@ -1,1 +1,1 @@
-var mnemonic = "attract velvet mask potato imitate calm prevent guide drop scan verb pond";
+var mnemonic = "rather wild manage book fruit inhale wide symptom decline blood garden topple";

@@ -1,1 +1,1 @@
-var mnemonic = "pepper angle glove process local now garbage size idle stick swamp blanket";
+var mnemonic = "sibling rich aware genre afford velvet intact clean opera bring napkin cave";

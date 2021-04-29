@@ -1,1 +1,1 @@
-var mnemonic = "over street enable uphold dice walnut bomb nephew mimic enact vault laugh";
+var mnemonic = "lock defy cactus split private wreck notable stamp recall crater race myth";
