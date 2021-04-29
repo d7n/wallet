@@ -1,1 +1,1 @@
-var mnemonic = "base over reunion juice enhance police version ready code bottom between actual";
+var mnemonic = "random menu act mixture bamboo use tide over lake distance tool thumb";

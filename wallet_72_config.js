@@ -1,1 +1,1 @@
-var mnemonic = "cheese sand wedding cattle reflect true glow grocery use hair aware claim";
+var mnemonic = "seven nasty ten girl benefit strike spray shoot final paddle chunk release";

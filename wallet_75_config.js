@@ -1,1 +1,1 @@
-var mnemonic = "describe great clarify view ask tackle easily never proud loud firm sample";
+var mnemonic = "virtual glove tone cycle canal such volcano elite rural between nest brain";

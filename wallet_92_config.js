@@ -1,1 +1,1 @@
-var mnemonic = "input vacant video hurt vanish sheriff amateur sunny monkey sure portion saddle";
+var mnemonic = "uniform lecture mixed exit crop valve bonus setup exchange beyond language stock";

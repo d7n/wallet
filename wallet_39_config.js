@@ -1,1 +1,1 @@
-var mnemonic = "scrap ghost before keep spatial suffer rural tide gold caught swim when";
+var mnemonic = "book remain yellow hello mail unfold false future inner push mad edge";

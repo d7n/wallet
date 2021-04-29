@@ -1,1 +1,1 @@
-var mnemonic = "object style climb unhappy spring leave oven will bicycle scene fresh sad";
+var mnemonic = "tumble gauge lunar install garage cave step skull display name attack fun";

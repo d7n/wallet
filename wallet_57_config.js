@@ -1,1 +1,1 @@
-var mnemonic = "wisdom pyramid account fox misery pet buyer stand exercise desk hope inhale";
+var mnemonic = "can garden naive elegant arch tuition aisle quick nerve just cross diary";

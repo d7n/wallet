@@ -1,1 +1,1 @@
-var mnemonic = "foil deputy utility inspire shy void couple describe orbit sand quit object";
+var mnemonic = "hammer video spoil obvious clarify flat seed reason team room dynamic prepare";

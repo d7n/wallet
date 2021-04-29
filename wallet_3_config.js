@@ -1,1 +1,1 @@
-var mnemonic = "glove vehicle foster rent horn resemble image normal chair ceiling pottery stadium";
+var mnemonic = "human empower bless describe install amused life crystal calm marine tuition medal";

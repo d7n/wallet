@@ -1,1 +1,1 @@
-var mnemonic = "neck wall bacon canyon slot album robust trend festival endless garden wreck";
+var mnemonic = "crash amused female fine crisp holiday disease sister toddler sausage mosquito clap";

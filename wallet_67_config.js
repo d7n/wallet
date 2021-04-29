@@ -1,1 +1,1 @@
-var mnemonic = "original comic grant half dish pride nerve brush mutual tip day vote";
+var mnemonic = "behave unknown prevent hint poem aim history plunge yellow letter net law";

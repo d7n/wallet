@@ -1,1 +1,1 @@
-var mnemonic = "soup must deal sunset card juice kiss sure spike tissue yellow point";
+var mnemonic = "focus switch enemy trophy garbage submit kid genius unhappy law foster segment";

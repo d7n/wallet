@@ -1,1 +1,1 @@
-var mnemonic = "snap leisure dizzy luggage coach minor vocal holiday vote canal shrug profit";
+var mnemonic = "hole steel surround parent shy mistake mention quit render buyer matrix impose";

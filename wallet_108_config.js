@@ -1,1 +1,1 @@
-var mnemonic = "ceiling sentence ten three unfold derive swing ice minimum crumble kid art";
+var mnemonic = "marine horse reopen cable cinnamon harbor february clinic giraffe drip machine check";

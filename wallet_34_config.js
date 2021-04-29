@@ -1,1 +1,1 @@
-var mnemonic = "minor volume gold wish obvious suspect visit under universe neutral diagram proof";
+var mnemonic = "army melody injury winter harsh ahead quality layer logic almost tumble enter";

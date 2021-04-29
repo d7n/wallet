@@ -1,1 +1,1 @@
-var mnemonic = "patch network erase nerve poverty scan tip author uncover tribe legend sure";
+var mnemonic = "exist scorpion case daring thing awesome ten sell juice allow toe waste";

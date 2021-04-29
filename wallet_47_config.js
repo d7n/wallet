@@ -1,1 +1,1 @@
-var mnemonic = "disorder west awake wise muscle tell turtle you wild around garbage much";
+var mnemonic = "carpet sentence trouble cancel wonder stem frost fatal spell employ melody key";

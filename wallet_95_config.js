@@ -1,1 +1,1 @@
-var mnemonic = "before defy okay deliver shuffle explain topple grace vacuum record poem frost";
+var mnemonic = "mask caught unlock twist sting arena feature reunion intact possible endless renew";

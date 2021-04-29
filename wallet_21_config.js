@@ -1,1 +1,1 @@
-var mnemonic = "equip sugar mandate rely make trend expect bicycle burst faith bring kidney";
+var mnemonic = "rival fame allow switch wait fire lake myself february fringe weird inflict";

@@ -1,1 +1,1 @@
-var mnemonic = "upgrade naive suit average source virtual equal couple verb practice camp lumber";
+var mnemonic = "abuse live sheriff enhance glide rain child knife faint coyote ten whip";

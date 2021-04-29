@@ -1,1 +1,1 @@
-var mnemonic = "mixture creek festival orange scissors ceiling vapor achieve rubber soap camp ski";
+var mnemonic = "insect protect gun that peace certain honey connect energy spot dry hub";

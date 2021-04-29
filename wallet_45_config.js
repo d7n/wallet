@@ -1,1 +1,1 @@
-var mnemonic = "ankle right uphold gold must divide urban frequent unaware rigid nominee glove";
+var mnemonic = "wire start choose opera knock fever push response imitate gospel visual card";

@@ -1,1 +1,1 @@
-var mnemonic = "enough track mammal meadow crumble power erode twenty stomach exotic vacuum steel";
+var mnemonic = "image rebel toilet object tube glance wealth luxury spend tenant news general";

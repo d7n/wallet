@@ -1,1 +1,1 @@
-var mnemonic = "boss marriage pet obscure where dwarf birth modify live wish regular check";
+var mnemonic = "cinnamon member intact early tourist jealous barely poem friend fiber neglect shed";

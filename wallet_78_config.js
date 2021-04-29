@@ -1,1 +1,1 @@
-var mnemonic = "wagon quiz novel device biology cart grant egg seminar dress lens now";
+var mnemonic = "father major quit fetch wagon loop render famous wrap library dentist trend";

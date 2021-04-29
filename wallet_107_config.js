@@ -1,1 +1,1 @@
-var mnemonic = "route bread federal dash kiss hint genre donate post boss uphold twenty";
+var mnemonic = "lazy credit urge favorite clean scorpion depart brain receive often ginger arctic";

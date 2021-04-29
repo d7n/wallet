@@ -1,1 +1,1 @@
-var mnemonic = "diet diesel unit audit chalk receive vast excess add infant cliff debris";
+var mnemonic = "museum auto town pause tag final rude era edit eagle cute tourist";

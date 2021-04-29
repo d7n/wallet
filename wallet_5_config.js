@@ -1,1 +1,1 @@
-var mnemonic = "raise depart embody monster pig supreme chronic glove mask wasp column weasel";
+var mnemonic = "kiss wild alarm verb company course duty expose lake melt start marriage";

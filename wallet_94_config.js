@@ -1,1 +1,1 @@
-var mnemonic = "urban aspect involve quarter slim royal tonight reunion barrel govern dawn basic";
+var mnemonic = "base rice taxi exit make own catch veteran sketch garlic laptop hawk";

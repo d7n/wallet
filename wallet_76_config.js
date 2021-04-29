@@ -1,1 +1,1 @@
-var mnemonic = "budget misery south business denial media robust bomb wash elbow pyramid split";
+var mnemonic = "grit giggle friend slam nothing seminar frown hard screen boost become wish";

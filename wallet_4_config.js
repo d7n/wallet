@@ -1,1 +1,1 @@
-var mnemonic = "soda rather quarter banner secret jelly radio focus essence moment security drill";
+var mnemonic = "exist gesture citizen speed crime goose soul club ignore attitude drama entry";

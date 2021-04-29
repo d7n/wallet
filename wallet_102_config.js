@@ -1,1 +1,1 @@
-var mnemonic = "happy action sight shoe shock cradle labor patient analyst cement wool alter";
+var mnemonic = "program boy enter birth brave nephew carpet destroy runway stone task blanket";

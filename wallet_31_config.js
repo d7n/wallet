@@ -1,1 +1,1 @@
-var mnemonic = "alter position solid slow life nerve alien glove spy party wave marble";
+var mnemonic = "canyon average tomato begin property bring extra puppy oil rocket lava major";

@@ -1,1 +1,1 @@
-var mnemonic = "nose focus ladder anger debris shallow already drop jar only circle ghost";
+var mnemonic = "kangaroo uniform vault hello damage trick bright lens cancel analyst bachelor upset";

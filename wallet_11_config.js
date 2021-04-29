@@ -1,1 +1,1 @@
-var mnemonic = "emerge abandon venture small jazz federal assume object lottery they romance what";
+var mnemonic = "interest lunar december motor during situate since bundle feed eagle scene rebuild";

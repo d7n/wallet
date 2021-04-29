@@ -1,1 +1,1 @@
-var mnemonic = "vague knife leader reduce rail reason zoo flavor scare hour tongue capable";
+var mnemonic = "garment fashion dutch soup inmate protect joy image tortoise utility acquire security";

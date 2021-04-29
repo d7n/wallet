@@ -1,1 +1,1 @@
-var mnemonic = "raccoon weasel victory unaware source foot rotate round monitor horror section orient";
+var mnemonic = "index salad damp famous motor tragic salt derive wheel curtain fee harbor";

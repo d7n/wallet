@@ -1,1 +1,1 @@
-var mnemonic = "uphold parade shrimp easily dial cloud language flat topic spend there glimpse";
+var mnemonic = "legal dilemma problem fiction attend marble snap glance dance dynamic leg tip";

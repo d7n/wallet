@@ -1,1 +1,1 @@
-var mnemonic = "brisk bar wool link ticket mimic layer alarm measure human sport bacon";
+var mnemonic = "valid shine clay eagle radio world urge pulse shine umbrella sister enlist";

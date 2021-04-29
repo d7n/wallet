@@ -1,1 +1,1 @@
-var mnemonic = "amazing option give few silent tilt diesel often next grape author check";
+var mnemonic = "tumble equal zero select sail owner glory portion copy say change cereal";

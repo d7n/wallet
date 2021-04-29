@@ -1,1 +1,1 @@
-var mnemonic = "supreme bulb bean stick empty vivid modify detect require thank flee skull";
+var mnemonic = "sibling power garlic canoe method broken pluck sting country burger leader speed";

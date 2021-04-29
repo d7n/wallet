@@ -1,1 +1,1 @@
-var mnemonic = "circle unit remember topple success antenna merge corn damp banner scare short";
+var mnemonic = "coach produce bind buddy visit best thumb shock pair recall owner sight";

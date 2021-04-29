@@ -1,1 +1,1 @@
-var mnemonic = "visit erase liberty grunt lottery cat month heart visa above pencil develop";
+var mnemonic = "legal sing coffee refuse patch answer vanish twelve budget upset coconut comic";

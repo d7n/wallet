@@ -1,1 +1,1 @@
-var mnemonic = "cabin rib coconut patch elevator sister adult recall error bubble novel length";
+var mnemonic = "mirror august donkey shallow rebuild suspect pulp earn good upon invest profit";

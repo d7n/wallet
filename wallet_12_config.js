@@ -1,1 +1,1 @@
-var mnemonic = "motor entire source column decorate diesel disease repeat general bubble theory sunset";
+var mnemonic = "input slim pony swing chuckle eyebrow bulb agent uncle net bracket pioneer";

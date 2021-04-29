@@ -1,1 +1,1 @@
-var mnemonic = "weasel push average absurd coconut slot hawk voice tilt embark safe flash";
+var mnemonic = "alone impulse aunt fatal ahead health double glow hover foam sport protect";

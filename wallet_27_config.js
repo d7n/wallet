@@ -1,1 +1,1 @@
-var mnemonic = "voice together recycle ensure absurd shift shove scan omit mandate horror despair";
+var mnemonic = "social cruise ritual cinnamon begin accident globe thought offer giggle cruel fox";

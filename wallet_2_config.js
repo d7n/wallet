@@ -1,1 +1,1 @@
-var mnemonic = "inner educate quit cable approve bone suffer angle wool basket space sauce";
+var mnemonic = "accuse skin extra remove capital stable fire thought must void include frog";

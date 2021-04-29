@@ -1,1 +1,1 @@
-var mnemonic = "polar utility wire sing month among churn latin punch forget assume dress";
+var mnemonic = "soap bundle live torch rapid neither craft author maximum put verify ride";

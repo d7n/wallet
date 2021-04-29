@@ -1,1 +1,1 @@
-var mnemonic = "typical victory provide weather cupboard country salute hope coin major place regret";
+var mnemonic = "bachelor speak vanish kind balcony develop cheap obscure blanket lucky foster swamp";

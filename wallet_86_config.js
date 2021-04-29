@@ -1,1 +1,1 @@
-var mnemonic = "tattoo mammal mother fee recipe wrestle repeat sorry update pair heart science";
+var mnemonic = "breeze kangaroo alter hamster odor adjust destroy tomato toast diesel spice firm";

@@ -1,1 +1,1 @@
-var mnemonic = "describe beyond job arrange muffin brand noble venture office visa stick hotel";
+var mnemonic = "program genre extend luxury tornado media airport owner hint light another blood";

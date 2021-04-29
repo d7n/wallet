@@ -1,1 +1,1 @@
-var mnemonic = "before monitor slim fringe choice gather corn supply melody liberty baby orange";
+var mnemonic = "inch account virus toe today iron vivid plug video picnic limit minimum";

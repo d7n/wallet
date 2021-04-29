@@ -1,1 +1,1 @@
-var mnemonic = "scare mushroom foster resist grab actor inflict silly wrong cool swallow camp";
+var mnemonic = "basket odor crowd add over menu truth monitor display afford supply dial";

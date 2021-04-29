@@ -1,1 +1,1 @@
-var mnemonic = "drink size solution thunder market fiction word exile twelve valley donor fiscal";
+var mnemonic = "cotton sheriff flat fence prize dawn detail impact suspect picnic test rack";

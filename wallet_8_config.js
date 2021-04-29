@@ -1,1 +1,1 @@
-var mnemonic = "jewel input decade web winner equal analyst pact trap repair excess fresh";
+var mnemonic = "birth benefit palace divide bar stereo common crumble manage survey dutch dawn";

@@ -1,1 +1,1 @@
-var mnemonic = "primary explain fever extend tell icon apology sugar royal monitor absent stone";
+var mnemonic = "slush join deer sand genuine camp repair code lamp human survey toddler";

@@ -1,1 +1,1 @@
-var mnemonic = "connect kitchen fuel rapid end opinion method hospital eagle wood motion brass";
+var mnemonic = "early nut episode slam card tackle craft kidney skin fringe day make";

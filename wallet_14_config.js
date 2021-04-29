@@ -1,1 +1,1 @@
-var mnemonic = "differ person twist chicken hole glimpse toe glory quality census kid blanket";
+var mnemonic = "bind error leader neutral hole loud farm cliff pelican draft depart brand";

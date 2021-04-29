@@ -1,1 +1,1 @@
-var mnemonic = "coast consider furnace worth report then rose ski put place brain author";
+var mnemonic = "chair team fitness ensure chuckle can taste bridge pioneer manage dream day";

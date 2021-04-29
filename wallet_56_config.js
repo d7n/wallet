@@ -1,1 +1,1 @@
-var mnemonic = "fix donate chase away scan rose group slogan pig traffic print avocado";
+var mnemonic = "canal afraid parent genre scissors suggest eye raise sweet corn arrange total";

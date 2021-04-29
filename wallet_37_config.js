@@ -1,1 +1,1 @@
-var mnemonic = "neutral believe pig beauty rally rug pizza prosper keen lonely group mean";
+var mnemonic = "exclude spatial sun maze abstract core effort boat key music notice typical";

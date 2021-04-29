@@ -1,1 +1,1 @@
-var mnemonic = "scissors diagram legend fuel immune tomorrow portion sound enroll prison gas nurse";
+var mnemonic = "phrase sniff cause entry clutch recall aerobic alien struggle negative bird card";

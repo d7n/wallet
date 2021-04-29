@@ -1,1 +1,1 @@
-var mnemonic = "hunt antenna bonus derive lend day quantum fabric van demise blast pact";
+var mnemonic = "more blue pipe loan sauce salmon sign curtain project rival saddle clock";

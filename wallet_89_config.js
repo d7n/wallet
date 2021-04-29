@@ -1,1 +1,1 @@
-var mnemonic = "oblige equal polar thumb festival bronze chalk large retire series blade wink";
+var mnemonic = "pigeon lab trash eyebrow other indicate erupt wisdom gesture tongue garage accuse";

@@ -1,1 +1,1 @@
-var mnemonic = "must fade flat seed clump jump present problem oppose ancient axis tiger";
+var mnemonic = "club music bone equal awful more puzzle stereo hood runway shine output";

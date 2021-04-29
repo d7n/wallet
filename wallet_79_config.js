@@ -1,1 +1,1 @@
-var mnemonic = "ethics laugh action wet satoshi loan churn strong chicken welcome awful share";
+var mnemonic = "boring destroy vehicle amateur erupt hold large tourist champion lazy tattoo umbrella";

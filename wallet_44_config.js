@@ -1,1 +1,1 @@
-var mnemonic = "dust stock tower derive ancient shell impose youth finish air require tank";
+var mnemonic = "fashion depend boil extend april regular bulb rule flag deputy afraid pave";

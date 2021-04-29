@@ -1,1 +1,1 @@
-var mnemonic = "erase vicious mansion limit session utility much light inject fade athlete base";
+var mnemonic = "wrap market domain doll object twin atom era spare survey kick present";

@@ -1,1 +1,1 @@
-var mnemonic = "sunny glue rate horn resist rose wonder lamp honey type whip reform";
+var mnemonic = "surprise glass dinner act replace butter start fresh canyon rescue wall wheel";

@@ -1,1 +1,1 @@
-var mnemonic = "nerve clarify total type purity shine sweet trick flat cattle bitter depth";
+var mnemonic = "grocery illegal father chat walk illness ensure field witness sugar giggle pride";

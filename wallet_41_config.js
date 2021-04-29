@@ -1,1 +1,1 @@
-var mnemonic = "pill dignity zero unit scout payment awesome border lonely inject nice trophy";
+var mnemonic = "adapt warm error enhance switch they wolf knife build boil deer run";

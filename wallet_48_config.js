@@ -1,1 +1,1 @@
-var mnemonic = "owner grow eager west actor wrong book glow hen hobby birth employ";
+var mnemonic = "bamboo vault indoor brush reveal chaos fury force rude treat picture gallery";

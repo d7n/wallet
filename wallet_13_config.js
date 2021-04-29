@@ -1,1 +1,1 @@
-var mnemonic = "reveal fruit donate offer salmon roast hour thumb assault peace give hand";
+var mnemonic = "rude hamster trigger put river future basic away need onion shrimp help";

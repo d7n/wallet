@@ -1,1 +1,1 @@
-var mnemonic = "educate final cycle tomato butter unfair benefit three tunnel risk smile only";
+var mnemonic = "now jump kitchen kangaroo west join horse upgrade bottom logic museum boost";

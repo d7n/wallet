@@ -1,1 +1,1 @@
-var mnemonic = "mansion act corn immune undo cram mercy perfect brother hedgehog regular flash";
+var mnemonic = "powder abandon upon drop warfare sad couple limit pulse limit explain frequent";

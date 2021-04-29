@@ -1,1 +1,1 @@
-var mnemonic = "pistol purse unable together visa math social rally someone horror grass rabbit";
+var mnemonic = "cupboard chimney ball radar today weapon miss enforce food announce canoe tattoo";

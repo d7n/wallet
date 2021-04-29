@@ -1,1 +1,1 @@
-var mnemonic = "scare tissue drift observe coconut autumn vocal fog beef empower skill chase";
+var mnemonic = "wood riot light token boil toast kitchen friend wonder address soup hen";

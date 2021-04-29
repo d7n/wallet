@@ -1,1 +1,1 @@
-var mnemonic = "cousin naive illegal donkey ready chef initial clock vehicle hundred flame language";
+var mnemonic = "deposit smoke purpose ancient chaos spy morning unfold clock walk endorse marble";

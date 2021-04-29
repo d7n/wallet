@@ -1,1 +1,1 @@
-var mnemonic = "carry bachelor uphold quality educate fold ready problem snow runway gossip creek";
+var mnemonic = "profit bracket return twin into day promote razor rotate solar opera envelope";

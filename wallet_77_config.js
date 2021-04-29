@@ -1,1 +1,1 @@
-var mnemonic = "diesel great dog purity talent breeze unknown aerobic section shrug brother useless";
+var mnemonic = "turkey marine pause athlete mind wasp ozone reopen design stone valve stool";

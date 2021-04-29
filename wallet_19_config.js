@@ -1,1 +1,1 @@
-var mnemonic = "banana priority frown ribbon stay judge panel beauty gorilla final right chief";
+var mnemonic = "submit corn uniform slice little lady hamster guilt supreme dinosaur crater coach";

@@ -1,1 +1,1 @@
-var mnemonic = "culture slim panel ignore blur patient blue canyon charge mechanic fashion cushion";
+var mnemonic = "rescue glue ecology anxiety rent tomato settle chair camera spatial huge page";

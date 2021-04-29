@@ -1,1 +1,1 @@
-var mnemonic = "since anger pond curious visa topple until achieve local clarify drive culture";
+var mnemonic = "better wagon sock medal valley blue april friend rifle leopard system left";

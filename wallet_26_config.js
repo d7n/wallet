@@ -1,1 +1,1 @@
-var mnemonic = "install smart horn gym audit phone sail broom result quote spirit enemy";
+var mnemonic = "chuckle coyote hurt trust sick fox spin slogan law useful purity next";

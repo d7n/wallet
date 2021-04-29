@@ -1,1 +1,1 @@
-var mnemonic = "tuna home wisdom aware prepare increase inner syrup useful bird matter glass";
+var mnemonic = "afraid chimney never sand dune stick sight when pony tissue marriage record";
