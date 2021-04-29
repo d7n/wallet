@@ -1,1 +1,1 @@
-var mnemonic = "vanish seven ship accident pumpkin art birth inject north rough exact garage";
+var mnemonic = "purity woman kangaroo violin noble grape agent service snap force harsh salon";

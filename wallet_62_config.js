@@ -1,1 +1,1 @@
-var mnemonic = "scene author sort swallow eager mandate chunk rail food job upper current";
+var mnemonic = "skirt practice dog skate fee robust column wrap what cash milk bamboo";

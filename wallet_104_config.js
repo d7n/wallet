@@ -1,1 +1,1 @@
-var mnemonic = "world sunset range kiwi harbor actress spike prefer orient lion exercise excess";
+var mnemonic = "child boost float visual wash initial material cement vocal glare hour solution";

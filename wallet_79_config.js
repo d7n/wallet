@@ -1,1 +1,1 @@
-var mnemonic = "flame like cluster trend bus feel mix lake mistake seminar volcano decorate";
+var mnemonic = "dutch shiver flower ice what cash act pulp kitchen refuse liberty sword";

@@ -1,1 +1,1 @@
-var mnemonic = "update remind hurdle later float corn bag motor senior yellow rotate float";
+var mnemonic = "silly sight sword motor copper hurry foot have ability basket spot cross";

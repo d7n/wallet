@@ -1,1 +1,1 @@
-var mnemonic = "version leader clump october rain someone entire eagle fashion below crop ready";
+var mnemonic = "rough whale weapon observe garment famous road indicate silent phrase claw cargo";

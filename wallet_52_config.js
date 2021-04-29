@@ -1,1 +1,1 @@
-var mnemonic = "talent crumble imitate monster share comfort such federal story tank tribe pool";
+var mnemonic = "receive guide inch vicious question drink remove knock bacon peace indicate vintage";

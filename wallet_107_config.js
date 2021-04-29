@@ -1,1 +1,1 @@
-var mnemonic = "use knock junk shell error absorb identify balcony cabbage average pause coin";
+var mnemonic = "item tackle ridge copper army pistol pave human sustain else avoid athlete";

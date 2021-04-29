@@ -1,1 +1,1 @@
-var mnemonic = "gasp regret quote never feel furnace express marriage dish winter axis attack";
+var mnemonic = "mammal record ostrich credit fossil abandon wreck coffee panther supreme genius trend";

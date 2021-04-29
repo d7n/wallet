@@ -1,1 +1,1 @@
-var mnemonic = "mean ritual reward sunny correct trial poverty camp shift identify physical attitude";
+var mnemonic = "travel window truth vintage stem obtain inherit blanket youth swarm friend clinic";

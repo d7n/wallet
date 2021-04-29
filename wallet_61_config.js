@@ -1,1 +1,1 @@
-var mnemonic = "energy raise diamond term half shoe hello hip fat beauty tray predict";
+var mnemonic = "unveil puzzle much reopen since among resource easy decade faith general cigar";

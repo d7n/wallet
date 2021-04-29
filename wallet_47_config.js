@@ -1,1 +1,1 @@
-var mnemonic = "own grain harbor release power paper suspect route fog wink heavy violin";
+var mnemonic = "auto pet ordinary digital dream palace guard video bless nasty rookie wave";

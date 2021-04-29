@@ -1,1 +1,1 @@
-var mnemonic = "modify balcony awful ensure dilemma visual chronic clarify icon regular gallery still";
+var mnemonic = "unit vocal adult have sock prepare fringe mobile must taste lift sight";

@@ -1,1 +1,1 @@
-var mnemonic = "pistol tank found kiss arrow blossom family town throw course abandon seven";
+var mnemonic = "legal clarify camp punch someone firm hard object fly arrow park speed";

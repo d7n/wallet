@@ -1,1 +1,1 @@
-var mnemonic = "announce bachelor hand false tired like mixture field arrive region nerve chef";
+var mnemonic = "zoo process shiver damage mesh industry gold hire october address depend very";

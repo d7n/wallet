@@ -1,1 +1,1 @@
-var mnemonic = "meadow amateur fetch tank shy jacket property print umbrella athlete access sister";
+var mnemonic = "begin remove panic tonight post expire gravity arctic desk menu sunset mask";

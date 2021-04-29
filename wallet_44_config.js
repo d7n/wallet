@@ -1,1 +1,1 @@
-var mnemonic = "apple choice inside black love certain hospital together december surprise clarify genius";
+var mnemonic = "middle whale announce cave heavy repair popular fork cube cube shadow slab";

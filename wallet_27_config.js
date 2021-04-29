@@ -1,1 +1,1 @@
-var mnemonic = "delay valve melody void harbor subway accuse current vendor learn wall mechanic";
+var mnemonic = "boil volcano diary initial leisure canoe audit film mansion high toast search";

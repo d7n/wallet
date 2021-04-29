@@ -1,1 +1,1 @@
-var mnemonic = "fever drink sustain empty fortune suit rice follow ankle element input hospital";
+var mnemonic = "learn tuna winner champion taxi betray boring tone heavy august appear mom";

@@ -1,1 +1,1 @@
-var mnemonic = "success organ icon person fetch pride focus since camera jewel raven love";
+var mnemonic = "vehicle snack cabin sauce second denial foster wagon near please false jump";

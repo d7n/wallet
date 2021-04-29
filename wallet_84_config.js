@@ -1,1 +1,1 @@
-var mnemonic = "couple phone sound cart frequent answer bundle bone obscure material sweet suggest";
+var mnemonic = "youth muscle spirit envelope ocean toddler legal sleep enemy topple derive lab";

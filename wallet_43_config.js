@@ -1,1 +1,1 @@
-var mnemonic = "half marriage caution nerve trial child alone quantum pioneer connect fire recycle";
+var mnemonic = "spice bring have silent across apple super tower notice begin mobile story";

@@ -1,1 +1,1 @@
-var mnemonic = "snake leaf smooth tissue lava source wreck earn yellow cover adjust pulse";
+var mnemonic = "certain mom theme fog gasp grant sell season open spoon tower runway";

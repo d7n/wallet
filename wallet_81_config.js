@@ -1,1 +1,1 @@
-var mnemonic = "mixture teach bus other another either express foot tray element aware snap";
+var mnemonic = "poet napkin food fetch gospel core cricket transfer term seat rescue high";

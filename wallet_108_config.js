@@ -1,1 +1,1 @@
-var mnemonic = "abandon source require hope rare reunion loyal gate promote stomach filter sing";
+var mnemonic = "fall journey hole popular sweet piano flat caught junior oxygen voice where";

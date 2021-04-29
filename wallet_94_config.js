@@ -1,1 +1,1 @@
-var mnemonic = "accident pioneer fog control metal funny focus ill agree evidence stem first";
+var mnemonic = "maple bread alone catalog veteran base gown guess barely deposit fortune quit";

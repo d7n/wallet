@@ -1,1 +1,1 @@
-var mnemonic = "rebuild floor bicycle already stand attend similar bind domain sphere grass oblige";
+var mnemonic = "path city member liberty arrow focus finish poverty dice supply access neglect";

@@ -1,1 +1,1 @@
-var mnemonic = "awkward system filter venture output silver twist aim uncover party knock pool";
+var mnemonic = "meadow despair harbor pig occur august clerk pluck sample silent picture save";

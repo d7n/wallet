@@ -1,1 +1,1 @@
-var mnemonic = "describe rival nominee cinnamon helmet gain ramp silly own insect dust kingdom";
+var mnemonic = "stomach grit oak mule dumb duck route eye into clap slogan spot";

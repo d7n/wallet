@@ -1,1 +1,1 @@
-var mnemonic = "weekend various gaze august wrestle fortune loyal split radio about snow brave";
+var mnemonic = "limit trick tennis loan educate glide ugly latin chronic teach want element";

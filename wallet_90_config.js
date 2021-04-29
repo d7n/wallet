@@ -1,1 +1,1 @@
-var mnemonic = "swarm later gesture answer pluck flock embody lucky ugly resource embrace fresh";
+var mnemonic = "august air moral salon peanut spell book pet funny multiply sight sphere";

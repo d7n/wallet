@@ -1,1 +1,1 @@
-var mnemonic = "ball twice hobby narrow immune grape timber food motion audit gain hour";
+var mnemonic = "accident rival science satoshi soft better pony ladder push reject sunny extra";

@@ -1,1 +1,1 @@
-var mnemonic = "tomato habit unaware chunk bag fantasy gospel pair security actor garage neck";
+var mnemonic = "rally indicate remain melt tenant draft minor father blast series license void";

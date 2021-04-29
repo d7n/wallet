@@ -1,1 +1,1 @@
-var mnemonic = "law margin erase ritual buddy happy clarify loop truck wisdom region indoor";
+var mnemonic = "glimpse federal remember repeat item grant gold uncover balance extra local sand";

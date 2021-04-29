@@ -1,1 +1,1 @@
-var mnemonic = "flat board already blanket exchange camp black fortune hello better they arch";
+var mnemonic = "ripple unfold fatigue master boil omit shell diamond language you broom bid";

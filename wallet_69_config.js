@@ -1,1 +1,1 @@
-var mnemonic = "panda cake badge surprise despair hospital door trigger useful program two video";
+var mnemonic = "junior divorce sword news order moral husband aware raise matter phone top";

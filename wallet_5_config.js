@@ -1,1 +1,1 @@
-var mnemonic = "dumb movie story skate artefact comic thumb thumb flee globe island pitch";
+var mnemonic = "absorb amazing south solar desk extra narrow anger buyer author nuclear market";

@@ -1,1 +1,1 @@
-var mnemonic = "inspire rival guide oblige trip segment blind cement pair disagree universe able";
+var mnemonic = "embrace fall program video armed vague local flag cool property chest dry";

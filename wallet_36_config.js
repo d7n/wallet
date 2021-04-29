@@ -1,1 +1,1 @@
-var mnemonic = "device frame fade view repair anger awake muffin jacket seminar genre anger";
+var mnemonic = "predict winner mix tail holiday detect tomato long nation wing pattern siren";

@@ -1,1 +1,1 @@
-var mnemonic = "syrup twist install chase market net property world tornado gentle couch evolve";
+var mnemonic = "tail later diet fringe vanish mixed cute section sword myself hill scale";

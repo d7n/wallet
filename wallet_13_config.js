@@ -1,1 +1,1 @@
-var mnemonic = "turn whisper pull palace always talent ridge detect evidence junior people differ";
+var mnemonic = "nest there laugh lounge bundle appear cry like surprise harsh rebel jump";

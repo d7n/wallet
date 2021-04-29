@@ -1,1 +1,1 @@
-var mnemonic = "orange leader educate arrest figure patch vocal error novel bronze false slab";
+var mnemonic = "tackle just over fan start basic allow faint liberty lamp east deer";

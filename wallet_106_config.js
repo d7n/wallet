@@ -1,1 +1,1 @@
-var mnemonic = "cat tumble possible crack wage raw imitate like wreck winter entry caution";
+var mnemonic = "tribe practice girl tail leader unknown tide build bulb boring alien coyote";

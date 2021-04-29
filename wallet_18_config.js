@@ -1,1 +1,1 @@
-var mnemonic = "globe blast story knee soft entire obey moral repair gloom cute sound";
+var mnemonic = "misery keep garage merry worth sleep gaze donate inform dolphin country razor";

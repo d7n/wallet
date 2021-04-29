@@ -1,1 +1,1 @@
-var mnemonic = "space type lesson boat slot away easily call miracle industry wood adapt";
+var mnemonic = "unit skill achieve peanut scheme decide blast broom thrive message update cart";

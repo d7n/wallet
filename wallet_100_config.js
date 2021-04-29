@@ -1,1 +1,1 @@
-var mnemonic = "region stumble room major fog damp bind favorite point genuine story pet";
+var mnemonic = "toddler hero vacant rocket girl gas way myself insect ethics concert priority";

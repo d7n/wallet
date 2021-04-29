@@ -1,1 +1,1 @@
-var mnemonic = "theme oval benefit cart raccoon cart scorpion first wide diamond ice casual";
+var mnemonic = "trick trust sustain what scorpion draw dizzy dad bronze snow rebel wrist";

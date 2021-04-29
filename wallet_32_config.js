@@ -1,1 +1,1 @@
-var mnemonic = "cause garden coyote infant sight flock manual there essence pencil alone custom";
+var mnemonic = "toss dutch leg often control remind innocent liar aim awful wide sign";

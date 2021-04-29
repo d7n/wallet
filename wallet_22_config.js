@@ -1,1 +1,1 @@
-var mnemonic = "kiss episode purchase exact lesson fatal method typical clap rather layer echo";
+var mnemonic = "organ material mind grit baby cupboard pull prepare finger wood else cousin";

@@ -1,1 +1,1 @@
-var mnemonic = "today spend tag assist afraid puzzle penalty frequent word guard mansion lucky";
+var mnemonic = "script assist frog garden initial awful bamboo early wheel impose another use";

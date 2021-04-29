@@ -1,1 +1,1 @@
-var mnemonic = "describe genuine attend lecture wine decline chat visa brisk alpha tower museum";
+var mnemonic = "car distance grant smart sugar target tide exotic close inject proud noodle";

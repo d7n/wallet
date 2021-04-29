@@ -1,1 +1,1 @@
-var mnemonic = "pulp dress father regret ecology thought fine sudden trick brand elbow fringe";
+var mnemonic = "dirt payment hollow tribe armed midnight shift toy stumble sentence course win";

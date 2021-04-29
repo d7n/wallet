@@ -1,1 +1,1 @@
-var mnemonic = "summer birth bring trap enter elder salmon embody dentist umbrella just empty";
+var mnemonic = "diet when pumpkin reform popular surround round eagle melody lounge opera junk";

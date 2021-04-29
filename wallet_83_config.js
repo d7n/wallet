@@ -1,1 +1,1 @@
-var mnemonic = "wool dish bullet enough uncover onion decline pole decorate abstract fold song";
+var mnemonic = "axis play glory sting elephant salt cheap unfold flock stomach squeeze special";

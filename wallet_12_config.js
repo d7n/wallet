@@ -1,1 +1,1 @@
-var mnemonic = "snack middle south harvest quality news scene destroy pattern whip weather abstract";
+var mnemonic = "hammer mountain disorder analyst enough tobacco urban domain lottery cloth yard addict";

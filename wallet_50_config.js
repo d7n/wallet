@@ -1,1 +1,1 @@
-var mnemonic = "fly rescue betray ramp knife color office raccoon obvious mail session banana";
+var mnemonic = "wheat liar shine sun winner ivory stereo color dolphin swing domain success";

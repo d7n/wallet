@@ -1,1 +1,1 @@
-var mnemonic = "swallow minor panel canal increase wool art pyramid invite discover mom enhance";
+var mnemonic = "acquire audit token suspect upset fruit artwork misery pudding chronic victory village";

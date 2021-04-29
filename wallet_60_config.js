@@ -1,1 +1,1 @@
-var mnemonic = "expose slight eternal smooth moral next have brave dove method real hybrid";
+var mnemonic = "often define raccoon argue marine earn duty file hover rule custom abstract";

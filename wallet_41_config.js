@@ -1,1 +1,1 @@
-var mnemonic = "fit spin join tuition client gentle dawn main smooth baby wool abandon";
+var mnemonic = "maximum bicycle blush trim tree mansion brush spatial nation liar tape survey";

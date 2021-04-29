@@ -1,1 +1,1 @@
-var mnemonic = "square defy acoustic rice goat casual cloth chalk pistol damp home salmon";
+var mnemonic = "aerobic injury favorite elephant castle wagon always legal tonight impulse cart office";

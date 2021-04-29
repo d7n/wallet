@@ -1,1 +1,1 @@
-var mnemonic = "bundle thunder era erase light found detect frame warfare banana decrease soda";
+var mnemonic = "around pencil load grunt juice nothing junk acid session typical stand fence";

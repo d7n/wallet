@@ -1,1 +1,1 @@
-var mnemonic = "sea street injury collect jar knock weather junk raccoon emotion giant about";
+var mnemonic = "cliff myself ball same clarify dance auto scare uniform ginger age erase";

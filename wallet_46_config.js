@@ -1,1 +1,1 @@
-var mnemonic = "general desert rapid sad field mad canvas satoshi wine raise cheese panel";
+var mnemonic = "immune rescue call main enhance slogan excite promote sibling ring cereal auto";

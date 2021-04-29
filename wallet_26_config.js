@@ -1,1 +1,1 @@
-var mnemonic = "regret cabin slight ritual shallow sand brush early unusual point escape bleak";
+var mnemonic = "include night indoor unit casual owner glue mad comfort identify appear summer";

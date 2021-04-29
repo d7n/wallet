@@ -1,1 +1,1 @@
-var mnemonic = "other midnight mimic census buyer snap final drum phrase fog okay document";
+var mnemonic = "umbrella tuna badge damp unusual between kitchen eye brisk coyote resource dice";

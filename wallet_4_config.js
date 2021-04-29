@@ -1,1 +1,1 @@
-var mnemonic = "plunge dignity tape orange merge aspect move whisper city giant asthma smile";
+var mnemonic = "elephant number box action cinnamon circle keep rare offer prefer fox laundry";

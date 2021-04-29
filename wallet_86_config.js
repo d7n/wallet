@@ -1,1 +1,1 @@
-var mnemonic = "nest poet amateur orbit proud will sight scare monkey tail square soccer";
+var mnemonic = "glimpse kite bargain syrup behave winter ketchup worth stem fun truck honey";

@@ -1,1 +1,1 @@
-var mnemonic = "select forest rifle van dragon firm tray salad chicken jacket dust cross";
+var mnemonic = "beyond stereo myself ripple hurry decide yellow inch auction income trophy flock";

@@ -1,1 +1,1 @@
-var mnemonic = "decorate aim hazard consider visual bean midnight play wedding chunk inject essay";
+var mnemonic = "reunion giggle social work before truth violin bulb review charge galaxy side";

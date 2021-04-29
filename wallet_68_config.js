@@ -1,1 +1,1 @@
-var mnemonic = "impulse raccoon pony hello wage dish sell right rookie guide there stable";
+var mnemonic = "begin pave nose clap frown equip hover rabbit foil acquire indoor uncle";

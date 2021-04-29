@@ -1,1 +1,1 @@
-var mnemonic = "hungry fringe charge prefer egg wonder purity cat sense crazy aisle group";
+var mnemonic = "train half strategy usage lucky exile guess ball truth denial height air";

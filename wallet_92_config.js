@@ -1,1 +1,1 @@
-var mnemonic = "offer settle disease clutch dilemma song abandon arch depend prefer rack throw";
+var mnemonic = "ring rigid alien grow early solar wonder cargo human enemy earn setup";

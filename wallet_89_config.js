@@ -1,1 +1,1 @@
-var mnemonic = "protect trim tip public laundry apology soap hurt near ceiling fragile solar";
+var mnemonic = "visual picnic lens input second since letter human monster brief quality travel";

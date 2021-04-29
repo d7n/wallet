@@ -1,1 +1,1 @@
-var mnemonic = "board video mansion advance all neither conduct heavy whip brass replace song";
+var mnemonic = "vivid sad decrease artist casual exotic pulp cannon just spin gain gym";

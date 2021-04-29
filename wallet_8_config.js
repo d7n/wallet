@@ -1,1 +1,1 @@
-var mnemonic = "grace rare tennis fossil regret survey clutch mango card evidence casual trade";
+var mnemonic = "buddy copper aware mystery charge suspect virus cheese bulk eye random fork";

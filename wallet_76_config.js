@@ -1,1 +1,1 @@
-var mnemonic = "artwork walk sad isolate wheat track laundry grab desert suspect produce pioneer";
+var mnemonic = "sister setup camp cruel easy pond scale rail ghost sponsor virtual fabric";

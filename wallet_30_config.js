@@ -1,1 +1,1 @@
-var mnemonic = "liquid there matter float monitor year fog relief smile mammal when cabbage";
+var mnemonic = "economy skin time spin theory book become asthma media subway circle miss";

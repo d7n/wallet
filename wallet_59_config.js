@@ -1,1 +1,1 @@
-var mnemonic = "animal lion chief surround merit animal cry brick crane divorce spice domain";
+var mnemonic = "echo barrel someone advice jeans tray panther hybrid satoshi fashion rebuild chunk";

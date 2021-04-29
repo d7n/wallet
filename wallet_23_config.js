@@ -1,1 +1,1 @@
-var mnemonic = "lend reward mother pool grocery level host ramp strong clerk topple cousin";
+var mnemonic = "disagree scorpion enjoy tunnel index praise cup frame owner ranch wing prepare";

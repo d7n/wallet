@@ -1,1 +1,1 @@
-var mnemonic = "enroll ball stool question earn beyond hope march busy secret tuna oval";
+var mnemonic = "leave tribe float shine cheese destroy pizza spider gentle report okay allow";
