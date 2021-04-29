@@ -1,1 +1,1 @@
-var mnemonic = "mushroom random normal negative matrix wave ladder raise celery proof bitter coyote";
+var mnemonic = "garage hire series please summer quick elephant stock turn inflict trip file";

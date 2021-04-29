@@ -1,1 +1,1 @@
-var mnemonic = "special switch vivid jelly like melody pizza wide kiss depart shoe daughter";
+var mnemonic = "cause analyst forum cement waste debris grace thrive gasp surprise praise steak";

@@ -1,1 +1,1 @@
-var mnemonic = "fabric old average pyramid awful wing mistake fold nuclear kiss crystal sunset";
+var mnemonic = "segment great army orbit dwarf romance correct boss menu suspect race gesture";

@@ -1,1 +1,1 @@
-var mnemonic = "spike click arch marble aspect adapt original venue drink story gain nuclear";
+var mnemonic = "diamond slab elephant public sunset blind matter submit brass inch zebra raven";

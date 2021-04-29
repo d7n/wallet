@@ -1,1 +1,1 @@
-var mnemonic = "sun orbit eternal team armor vicious home pupil lizard final survey arrest";
+var mnemonic = "host coconut harvest culture radar town lonely across avocado pride rotate bag";

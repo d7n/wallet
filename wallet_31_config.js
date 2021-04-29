@@ -1,1 +1,1 @@
-var mnemonic = "output scrub immense check orient giggle message hurry blue solid intact decorate";
+var mnemonic = "burger excuse task beach satisfy crouch lemon switch visa suspect enact boil";

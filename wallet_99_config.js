@@ -1,1 +1,1 @@
-var mnemonic = "security supreme surround guard club welcome vendor bean legend recall city scale";
+var mnemonic = "snack change index sun ramp smile fiction dance click access wash exhibit";

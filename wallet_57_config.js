@@ -1,1 +1,1 @@
-var mnemonic = "tackle fiber home rebel sure wedding pepper anger bar arctic love effort";
+var mnemonic = "crystal monitor off judge meadow paper attract twelve bind sheriff orange bulk";

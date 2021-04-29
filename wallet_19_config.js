@@ -1,1 +1,1 @@
-var mnemonic = "you trade market review wrist train typical report duck tumble noise isolate";
+var mnemonic = "million body lake churn patrol fossil wagon van denial fan host spin";

@@ -1,1 +1,1 @@
-var mnemonic = "expose more test runway pause throw dust treat square congress garbage capable";
+var mnemonic = "lion hotel jar smoke shiver unveil estate squirrel mom render fault enlist";

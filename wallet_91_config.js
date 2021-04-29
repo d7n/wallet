@@ -1,1 +1,1 @@
-var mnemonic = "city tip doctor rookie soda march economy extend shine lobster chapter rib";
+var mnemonic = "capital feed initial squeeze miss anxiety icon rent eyebrow hobby now brand";

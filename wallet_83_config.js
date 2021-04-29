@@ -1,1 +1,1 @@
-var mnemonic = "spare achieve brother glance wife tumble photo bracket happy patient tribe raven";
+var mnemonic = "mass person vital that critic economy cushion witness fit gospel purchase gaze";

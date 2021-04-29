@@ -1,1 +1,1 @@
-var mnemonic = "dinner circle cigar month solve dove economy knee clump spy trip bulk";
+var mnemonic = "symptom envelope bundle artwork umbrella april model brain history skull world practice";

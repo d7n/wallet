@@ -1,1 +1,1 @@
-var mnemonic = "sense gate bless use gaze odor soul float nice panic loan suggest";
+var mnemonic = "party embark unfair space vehicle major employ since game word jelly perfect";

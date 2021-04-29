@@ -1,1 +1,1 @@
-var mnemonic = "welcome cake valley maid anchor antique example bird enrich type select slab";
+var mnemonic = "license combine guard ghost garlic want slab ordinary lawsuit option fashion gift";

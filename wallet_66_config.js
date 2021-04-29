@@ -1,1 +1,1 @@
-var mnemonic = "burger wise blame aerobic toy point airport soap lake unusual spin adult";
+var mnemonic = "dawn symbol away one talent few sauce squeeze detect crime core sunset";

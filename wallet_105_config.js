@@ -1,1 +1,1 @@
-var mnemonic = "hint spread tail keep village prison brass regular pride weird sleep only";
+var mnemonic = "violin awful mad color outer grid misery dice push vivid few uphold";

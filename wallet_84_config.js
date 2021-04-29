@@ -1,1 +1,1 @@
-var mnemonic = "inform front flip private able federal gap great pig earth radar range";
+var mnemonic = "spatial sunset session flame tray core canyon purpose thrive pear bulb find";

@@ -1,1 +1,1 @@
-var mnemonic = "pause earn dirt elder fabric observe balance sheriff wasp engage left rookie";
+var mnemonic = "auction worry blur live number evidence rotate mechanic record shock copy tone";

@@ -1,1 +1,1 @@
-var mnemonic = "easy fluid acid length steel dutch uphold wrestle bring occur inject loyal";
+var mnemonic = "isolate huge slender arrive distance shock debate ramp private degree corn mouse";

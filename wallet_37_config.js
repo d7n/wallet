@@ -1,1 +1,1 @@
-var mnemonic = "develop process hamster squirrel resemble burden october neutral excess wolf prosper laptop";
+var mnemonic = "fire mosquito surround zoo web fashion cradle trophy sustain inspire champion toward";

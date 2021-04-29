@@ -1,1 +1,1 @@
-var mnemonic = "camp salt essence point barrel deny athlete maze tent wasp butter spider";
+var mnemonic = "episode female despair sample coil select across advice mango mail broken share";

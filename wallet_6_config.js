@@ -1,1 +1,1 @@
-var mnemonic = "wild mother above lens token faith harvest double pipe dizzy mammal burst";
+var mnemonic = "lesson winner awake logic brush fresh fantasy force puppy fun cluster bar";

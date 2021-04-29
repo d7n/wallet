@@ -1,1 +1,1 @@
-var mnemonic = "elder check stock abandon gun radio recipe arrive desert extra what march";
+var mnemonic = "crop obey gentle unknown dice head matrix arrive person solution fiscal rack";

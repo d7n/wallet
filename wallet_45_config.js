@@ -1,1 +1,1 @@
-var mnemonic = "trip water melt dilemma shuffle give employ budget surface feature anxiety error";
+var mnemonic = "chef jump mass broccoli decade eye debris tray attack crazy flower harsh";

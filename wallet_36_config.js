@@ -1,1 +1,1 @@
-var mnemonic = "knee voyage apart midnight slight left tongue juice absorb badge unit nose";
+var mnemonic = "prevent comfort bus hint warfare excess unable pitch foil tongue elder report";

@@ -1,1 +1,1 @@
-var mnemonic = "cave book lyrics foster kick suspect south submit post energy chronic depend";
+var mnemonic = "security rally voice grief cabin obey prison strategy couple fruit escape drive";

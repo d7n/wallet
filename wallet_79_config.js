@@ -1,1 +1,1 @@
-var mnemonic = "embark always safe october race firm future cram small modify property brand";
+var mnemonic = "cute true skate ask cargo various mansion slice pulse cup appear immense";

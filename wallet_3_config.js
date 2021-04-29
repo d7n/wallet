@@ -1,1 +1,1 @@
-var mnemonic = "sorry ugly fee movie outer frown rain travel often future pony copy";
+var mnemonic = "define bicycle anxiety online icon forward holiday genre add miss they raw";

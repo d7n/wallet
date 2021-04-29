@@ -1,1 +1,1 @@
-var mnemonic = "dust sting oven salt achieve yellow journey furnace august rate rebel shrug";
+var mnemonic = "bachelor conduct ankle flock cabin walk sense sand security vehicle mirror fix";

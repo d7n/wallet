@@ -1,1 +1,1 @@
-var mnemonic = "river easy away bring shine shine bottom pave bounce behind maze grape";
+var mnemonic = "coast pig health company settle vessel manual tackle grow setup visa garden";

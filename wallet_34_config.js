@@ -1,1 +1,1 @@
-var mnemonic = "album awful help join excuse dwarf donor business bird disorder security raw";
+var mnemonic = "multiply profit pole toss worth pottery sweet cabbage proud alone speed impose";

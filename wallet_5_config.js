@@ -1,1 +1,1 @@
-var mnemonic = "urban north spare dismiss school nest pony ankle stove monster hill drill";
+var mnemonic = "weapon sad hawk fatigue strategy resemble shrug patrol sheriff blush total come";

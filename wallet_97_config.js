@@ -1,1 +1,1 @@
-var mnemonic = "episode cushion modify chronic source alone message priority gather island monkey grit";
+var mnemonic = "boss runway thank mammal mountain urban tumble worry nest hurdle kite earn";

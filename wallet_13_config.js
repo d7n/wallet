@@ -1,1 +1,1 @@
-var mnemonic = "symptom dash nothing else ugly hedgehog moral release across other uncover venture";
+var mnemonic = "reveal fiction depth shuffle buyer unusual salon float just giraffe miss boil";

@@ -1,1 +1,1 @@
-var mnemonic = "couple decide stone country hamster elephant fade access auction cool design deliver";
+var mnemonic = "sense solve edge finish need tribe glue much impulse burden gospel curious";

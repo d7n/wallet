@@ -1,1 +1,1 @@
-var mnemonic = "cart since elephant ripple ceiling muscle foster donor swim cancel brain cricket";
+var mnemonic = "umbrella goat valve program reason door rebuild exact romance solve afraid hotel";

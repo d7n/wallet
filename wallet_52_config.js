@@ -1,1 +1,1 @@
-var mnemonic = "ten charge acid friend glide sea input husband error club live dry";
+var mnemonic = "brain damage cube tissue milk evil plug emerge flock buzz verify left";

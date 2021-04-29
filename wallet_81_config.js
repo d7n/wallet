@@ -1,1 +1,1 @@
-var mnemonic = "civil give total emerge trend helmet document chat must bomb ethics exclude";
+var mnemonic = "host crowd renew two chef decline sample screen credit reward town hold";

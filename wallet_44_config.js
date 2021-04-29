@@ -1,1 +1,1 @@
-var mnemonic = "question tenant hour purse hammer involve rocket nose tape duty owner other";
+var mnemonic = "velvet usual away wife able price guilt gravity ripple frozen trumpet seed";

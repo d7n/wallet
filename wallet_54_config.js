@@ -1,1 +1,1 @@
-var mnemonic = "shine father text must leader fluid term believe shrug whale volume empower";
+var mnemonic = "margin arctic endless someone panda whisper post question bomb wisdom logic devote";

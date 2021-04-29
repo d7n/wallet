@@ -1,1 +1,1 @@
-var mnemonic = "lake type valley pizza grant zero level leave endorse typical high soldier";
+var mnemonic = "focus pave frequent enact paper lake patrol spell acid bike city crumble";

@@ -1,1 +1,1 @@
-var mnemonic = "cost cactus giggle desk output eager amused actress warfare letter energy industry";
+var mnemonic = "vital run ribbon sport sense core female now uphold cradle game slogan";

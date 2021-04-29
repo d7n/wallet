@@ -1,1 +1,1 @@
-var mnemonic = "clock basic pill essence daring lecture sword crucial common rough apart poet";
+var mnemonic = "swim future advice dynamic toward market bid pause chronic retreat borrow order";

@@ -1,1 +1,1 @@
-var mnemonic = "legal dial silver brain merge chapter pigeon flash claw evoke slide toward";
+var mnemonic = "kiss orphan waste tiger wait pepper apart snake secret awesome vote quality";

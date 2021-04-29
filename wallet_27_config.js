@@ -1,1 +1,1 @@
-var mnemonic = "inmate wrist service tunnel post virtual drip blue sense lawn among breeze";
+var mnemonic = "possible token owner gun foster flush arctic produce retreat addict letter happy";

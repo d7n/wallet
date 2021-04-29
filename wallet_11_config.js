@@ -1,1 +1,1 @@
-var mnemonic = "pulse argue derive hazard honey donor caught daring lemon noodle bag crisp";
+var mnemonic = "shadow salon double fabric before cheese promote bundle lava surface exchange steel";

@@ -1,1 +1,1 @@
-var mnemonic = "arrange mammal team boy net cream deliver suggest mango catch indicate lunch";
+var mnemonic = "card ramp farm combine thought cross guilt harbor music night file make";

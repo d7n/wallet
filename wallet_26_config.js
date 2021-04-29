@@ -1,1 +1,1 @@
-var mnemonic = "public drift service flush talk retreat must chaos defy inherit cloud boost";
+var mnemonic = "muffin music fiction coast hill idea welcome review empty poverty wait satoshi";

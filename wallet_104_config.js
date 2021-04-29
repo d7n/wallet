@@ -1,1 +1,1 @@
-var mnemonic = "carbon trouble mandate avoid sting horn board local maximum dog inspire cousin";
+var mnemonic = "diet figure ecology vendor food comic hollow live broom crime unknown cupboard";

@@ -1,1 +1,1 @@
-var mnemonic = "solar drip zoo theme fault brush welcome field select motion pistol inspire";
+var mnemonic = "equal fly found group prefer bargain festival august super join cluster drill";

@@ -1,1 +1,1 @@
-var mnemonic = "fall mother finish sunny process away please boring actual draft raccoon above";
+var mnemonic = "asset photo hawk network old erode reveal explain lizard shrug all cool";

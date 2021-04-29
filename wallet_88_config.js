@@ -1,1 +1,1 @@
-var mnemonic = "leg merit glide box favorite cruise wire drift shoe strong total satisfy";
+var mnemonic = "pole rebel master guilt mushroom wage leave square away barrel amused midnight";

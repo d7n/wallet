@@ -1,1 +1,1 @@
-var mnemonic = "crystal music diesel saddle ticket focus talent night manage vapor such bundle";
+var mnemonic = "nominee side age time coast margin nasty quit suit noodle pencil tornado";

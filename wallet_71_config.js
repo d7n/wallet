@@ -1,1 +1,1 @@
-var mnemonic = "leisure film essay cry require dolphin note tooth fresh special hamster cliff";
+var mnemonic = "stumble mother beach tool rigid wild school aspect laundry quiz long kangaroo";

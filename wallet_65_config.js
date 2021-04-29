@@ -1,1 +1,1 @@
-var mnemonic = "seed ill firm try glad ripple harsh head message cycle melody raven";
+var mnemonic = "minor talent unusual net squeeze misery excuse helmet boy champion permit around";

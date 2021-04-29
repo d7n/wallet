@@ -1,1 +1,1 @@
-var mnemonic = "month pistol great regular tower neutral figure drop mechanic zoo yellow tonight";
+var mnemonic = "convince remember birth bottom obvious gauge female top ankle unhappy isolate ecology";

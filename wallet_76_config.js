@@ -1,1 +1,1 @@
-var mnemonic = "brave gadget nasty cheap prosper shine very tiger van scorpion pause capable";
+var mnemonic = "burden monkey alley pass proof either dinosaur answer give push bike level";

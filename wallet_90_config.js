@@ -1,1 +1,1 @@
-var mnemonic = "aerobic fade ball ostrich gap duty equal clock supply company food wine";
+var mnemonic = "dance favorite spell fun embody erase illness orbit find sunny give husband";

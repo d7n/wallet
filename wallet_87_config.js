@@ -1,1 +1,1 @@
-var mnemonic = "umbrella topple priority credit museum exotic clip stay click bread focus proof";
+var mnemonic = "october submit forum float caution video arrange step rocket identify fossil virtual";

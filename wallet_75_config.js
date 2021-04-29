@@ -1,1 +1,1 @@
-var mnemonic = "proud thank agree film expect gift curious lock exhibit agent luggage voice";
+var mnemonic = "stuff process axis brave group electric warm february thumb useful secret blanket";

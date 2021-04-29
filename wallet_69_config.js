@@ -1,1 +1,1 @@
-var mnemonic = "assault crouch man produce scrub vague vibrant quarter flame wash enlist input";
+var mnemonic = "uphold book helmet expose elder draft mask whip cactus file genius tuna";

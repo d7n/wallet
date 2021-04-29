@@ -1,1 +1,1 @@
-var mnemonic = "tip maid trigger tool hint dirt toilet utility orphan fun system print";
+var mnemonic = "fiction close uncle share force game female portion dynamic cancel achieve they";

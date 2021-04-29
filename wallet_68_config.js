@@ -1,1 +1,1 @@
-var mnemonic = "blame bicycle hair saddle stone badge swing used tent exotic catalog chalk";
+var mnemonic = "alert pulp talk volcano never pen prefer sad border attend close monitor";

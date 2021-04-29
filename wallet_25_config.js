@@ -1,1 +1,1 @@
-var mnemonic = "say shove gift grass type address stumble pen example essence abuse jeans";
+var mnemonic = "multiply river hen embody poverty circle vote witness only check device apple";

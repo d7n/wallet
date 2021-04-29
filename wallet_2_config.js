@@ -1,1 +1,1 @@
-var mnemonic = "program addict craft royal because open travel dose inject flower buddy hint";
+var mnemonic = "network session library predict fatigue wear witness rely champion cabin island typical";

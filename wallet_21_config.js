@@ -1,1 +1,1 @@
-var mnemonic = "blue vicious material fun gap call inquiry oil deliver pave adjust school";
+var mnemonic = "oblige song fence theme inject alone wrist vehicle ostrich faint agent treat";

@@ -1,1 +1,1 @@
-var mnemonic = "bundle lounge unveil need level flavor dad balcony rude crash thank mule";
+var mnemonic = "oval topple heart vital fog mixture color pen true car child cycle";

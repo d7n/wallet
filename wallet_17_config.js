@@ -1,1 +1,1 @@
-var mnemonic = "obscure twin crane brother system bread tunnel shoe illegal dolphin cycle move";
+var mnemonic = "fetch diagram actor wedding project luggage rail saddle area violin grace infant";

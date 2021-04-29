@@ -1,1 +1,1 @@
-var mnemonic = "remove virus awkward useless valid science portion wise tongue skin congress lizard";
+var mnemonic = "increase chaos evidence great genius tornado biology income merry local draw exit";

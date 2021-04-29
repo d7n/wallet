@@ -1,1 +1,1 @@
-var mnemonic = "pact replace guitar wild pig move baby profit wall worry admit punch";
+var mnemonic = "birth lake target asset feed thing cluster foam absent popular wrap wink";

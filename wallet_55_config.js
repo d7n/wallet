@@ -1,1 +1,1 @@
-var mnemonic = "expand best teach trim topic problem prefer twice light possible cement valid";
+var mnemonic = "hold laptop afford gate surprise announce paddle budget hybrid tube april virus";

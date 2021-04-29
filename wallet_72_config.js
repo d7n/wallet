@@ -1,1 +1,1 @@
-var mnemonic = "bachelor dignity insect chalk abuse ocean jealous dinosaur vacuum ill very offer";
+var mnemonic = "romance urge nominee unaware merit silk pilot love lawsuit rookie over silly";

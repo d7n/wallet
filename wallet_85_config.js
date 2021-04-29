@@ -1,1 +1,1 @@
-var mnemonic = "beach pave goose fancy olympic usage identify figure tip answer retreat earth";
+var mnemonic = "trophy unveil hover feed curve cart pill hawk cradle home blouse false";

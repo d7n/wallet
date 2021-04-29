@@ -1,1 +1,1 @@
-var mnemonic = "junk narrow omit panic exotic media gown cement own gorilla neither switch";
+var mnemonic = "display moral useful doctor sight inhale emotion flash arm uncle project voyage";

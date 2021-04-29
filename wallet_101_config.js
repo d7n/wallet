@@ -1,1 +1,1 @@
-var mnemonic = "cricket illegal hand carpet torch discover walnut evolve digital off option patient";
+var mnemonic = "turn law gain theory chronic slot dawn velvet volcano chuckle orient town";

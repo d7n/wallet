@@ -1,1 +1,1 @@
-var mnemonic = "pattern become tide nature catalog better despair annual nurse opinion arrange will";
+var mnemonic = "capital coin hole inch select laugh junior believe present balance naive coconut";

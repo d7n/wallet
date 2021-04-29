@@ -1,1 +1,1 @@
-var mnemonic = "drift return bike alter innocent tunnel ozone adjust fresh typical document frequent";
+var mnemonic = "fancy volcano clap spoil funny bubble frown gather brief post moment penalty";

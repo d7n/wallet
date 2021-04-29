@@ -1,1 +1,1 @@
-var mnemonic = "often wire team zone upper rough leisure arm rival mix gesture know";
+var mnemonic = "student puzzle harvest ski dizzy sorry mimic turn list core planet poet";

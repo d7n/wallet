@@ -1,1 +1,1 @@
-var mnemonic = "explain laundry timber menu oval mix mechanic praise define finger proud broccoli";
+var mnemonic = "castle other coil solid hammer moon mushroom eagle spirit acoustic wish pink";

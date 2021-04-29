@@ -1,1 +1,1 @@
-var mnemonic = "scale hat forum water between upon slush now decline hamster dinner you";
+var mnemonic = "palace uncover empower dance butter poet client vast fantasy loyal banana hamster";

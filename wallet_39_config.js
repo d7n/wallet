@@ -1,1 +1,1 @@
-var mnemonic = "mimic smoke balcony captain puzzle obscure gift lounge kit render escape report";
+var mnemonic = "blur ankle cradle web jealous famous oblige kiwi edit join material brisk";

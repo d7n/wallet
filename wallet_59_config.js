@@ -1,1 +1,1 @@
-var mnemonic = "ancient frost alter jar enable physical rebel leisure zebra polar orange legal";
+var mnemonic = "horse ritual lounge pulp actress ice end true avocado current search enroll";

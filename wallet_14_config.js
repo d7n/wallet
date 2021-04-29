@@ -1,1 +1,1 @@
-var mnemonic = "box casino nominee feed call bacon mind under tonight coral misery naive";
+var mnemonic = "spoon fatigue one can ivory hobby shoulder domain output amount kiss knife";

@@ -1,1 +1,1 @@
-var mnemonic = "weapon muffin rescue hazard party laptop attend pause change cash grape empower";
+var mnemonic = "harbor shine gesture dish ocean bleak ball mean gallery deal truck tattoo";

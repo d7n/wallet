@@ -1,1 +1,1 @@
-var mnemonic = "renew neutral spider circle adjust lawsuit patrol marine cake combine radar grunt";
+var mnemonic = "together allow laundry canyon pluck narrow size various pluck fitness eager casual";

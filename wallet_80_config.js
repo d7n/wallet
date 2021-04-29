@@ -1,1 +1,1 @@
-var mnemonic = "young useful film know smooth orphan season material math curve tongue hat";
+var mnemonic = "leg brush cake seek rib earth midnight soft total parade decide range";

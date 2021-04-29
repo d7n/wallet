@@ -1,1 +1,1 @@
-var mnemonic = "armor amount busy pride road arrest height priority south helmet resemble link";
+var mnemonic = "patrol horse speed obey elevator awesome forest board resource group rule multiply";

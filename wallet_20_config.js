@@ -1,1 +1,1 @@
-var mnemonic = "tattoo session minimum genius meadow wreck parrot drift alarm thumb knock amount";
+var mnemonic = "what giraffe achieve agent leaf skate slush tell noise bargain cup inquiry";

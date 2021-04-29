@@ -1,1 +1,1 @@
-var mnemonic = "recycle palace buddy public sort peasant slice brother quality range word hood";
+var mnemonic = "lava monitor violin dance nothing prize refuse science crawl window voice dutch";

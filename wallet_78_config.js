@@ -1,1 +1,1 @@
-var mnemonic = "hand cactus amateur guide pave example fire cool slogan defy win spy";
+var mnemonic = "item process twelve rich home canoe place subject cause glare protect sand";

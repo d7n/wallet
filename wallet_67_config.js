@@ -1,1 +1,1 @@
-var mnemonic = "bargain live crush style atom test grant car bright gauge point distance";
+var mnemonic = "design middle skate expect jealous pumpkin assume mobile save step sound poverty";

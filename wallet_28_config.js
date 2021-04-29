@@ -1,1 +1,1 @@
-var mnemonic = "mixed border brush wide together curtain goat pill farm diary embark shoe";
+var mnemonic = "wish connect soda mass cancel session awake panda hedgehog uniform only cement";
