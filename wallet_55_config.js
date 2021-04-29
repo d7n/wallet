@@ -1,1 +1,1 @@
-var mnemonic = "lunar middle magnet napkin student possible garden logic recipe fuel slow dumb";
+var mnemonic = "eyebrow situate half harsh energy find round gallery small tube clump glide";

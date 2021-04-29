@@ -1,1 +1,1 @@
-var mnemonic = "peace alarm athlete arrange good deal upper abstract truth hedgehog perfect property";
+var mnemonic = "reflect zone net today food inhale kite keep tomorrow bronze cherry design";

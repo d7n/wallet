@@ -1,1 +1,1 @@
-var mnemonic = "junk robot foot solution fork recall chunk cheese nuclear control slot cool";
+var mnemonic = "effort amazing planet height creek spell wolf version salmon afraid caught viable";

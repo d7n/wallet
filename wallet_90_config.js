@@ -1,1 +1,1 @@
-var mnemonic = "into bus brush surprise whip cruel build humor blame stock cluster earth";
+var mnemonic = "release latin chuckle output wood modify solar toast stool oak gold brisk";

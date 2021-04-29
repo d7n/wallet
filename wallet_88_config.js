@@ -1,1 +1,1 @@
-var mnemonic = "suit magnet fire hundred gym praise nasty nest filter crouch correct forget";
+var mnemonic = "busy tuition confirm effort firm where run drift royal evoke simple answer";

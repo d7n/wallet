@@ -1,1 +1,1 @@
-var mnemonic = "width word field weasel lunar fall grief coast voyage hint actress rare";
+var mnemonic = "hen phone human dizzy gather place stone write edit fitness lift result";

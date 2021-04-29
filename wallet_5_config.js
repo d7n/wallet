@@ -1,1 +1,1 @@
-var mnemonic = "barely often tackle obtain tag lucky congress connect express soon stadium sad";
+var mnemonic = "rely pledge float multiply trumpet one into acquire electric illness muscle screen";

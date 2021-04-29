@@ -1,1 +1,1 @@
-var mnemonic = "remind thought toddler cable saddle impact vessel across birth enter work super";
+var mnemonic = "wonder filter series deal web cute rescue pulse father floor advance neck";

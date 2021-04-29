@@ -1,1 +1,1 @@
-var mnemonic = "craft yard chaos gather valve movie awkward shell grunt test journey such";
+var mnemonic = "armed vendor seat orient remind vapor ramp clock saddle permit clinic razor";

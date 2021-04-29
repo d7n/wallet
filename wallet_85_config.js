@@ -1,1 +1,1 @@
-var mnemonic = "chase column shuffle goddess inside swift method witness gesture boss envelope cute";
+var mnemonic = "radio glad edge essay busy situate citizen annual wedding inflict range rally";

@@ -1,1 +1,1 @@
-var mnemonic = "follow suit logic put across menu business organ dinner curtain make advance";
+var mnemonic = "pause real pet fetch light vital menu very obscure post casual pave";

@@ -1,1 +1,1 @@
-var mnemonic = "ticket car wedding cotton hip broccoli error trial hazard script canvas salmon";
+var mnemonic = "horror melt large either typical enlist galaxy fetch bubble rail shaft smile";

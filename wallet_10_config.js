@@ -1,1 +1,1 @@
-var mnemonic = "donkey exhaust reduce prefer october nice mystery bright siren runway unique width";
+var mnemonic = "round neutral half lion miss runway dolphin badge green wasp already six";

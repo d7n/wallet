@@ -1,1 +1,1 @@
-var mnemonic = "slight stand split tornado soon ginger estate record million cricket own ill";
+var mnemonic = "return connect plate dismiss awake seek casino relax foot century bargain merit";

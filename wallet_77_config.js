@@ -1,1 +1,1 @@
-var mnemonic = "slam tissue bird jeans multiply dwarf soul follow vast amount mass chunk";
+var mnemonic = "phone shaft neglect frozen maze galaxy guess stick theme uphold cloth walk";

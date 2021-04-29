@@ -1,1 +1,1 @@
-var mnemonic = "upon verify rug seek gym slide enforce left grab six coin original";
+var mnemonic = "member gaze hire trap puppy stool tongue rely cat promote item elder";

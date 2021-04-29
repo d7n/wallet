@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow fluid swap process pact snack easily swear used credit friend scheme";
+var mnemonic = "split control dynamic dilemma shove mosquito among actress patrol cross smile early";

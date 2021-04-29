@@ -1,1 +1,1 @@
-var mnemonic = "next surround pear change virus bamboo disorder dog style spy question inmate";
+var mnemonic = "snap deal throw breeze resist safe distance cause company domain symptom humble";

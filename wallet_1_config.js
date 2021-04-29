@@ -1,1 +1,1 @@
-var mnemonic = "arrange truly capable property cover play mask obscure genre allow stem rib";
+var mnemonic = "wrap render cinnamon van two vast album gain evolve dawn park error";

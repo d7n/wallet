@@ -1,1 +1,1 @@
-var mnemonic = "supreme bind abuse brick return force regular icon pet silk able square";
+var mnemonic = "street cousin tone text atom child solution fury journey culture tail electric";

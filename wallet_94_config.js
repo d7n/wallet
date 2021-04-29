@@ -1,1 +1,1 @@
-var mnemonic = "excuse common blast text matrix boy debris shoot sauce pudding drop sweet";
+var mnemonic = "salmon owner certain unhappy glue exile torch explain six office fence note";

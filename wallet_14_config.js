@@ -1,1 +1,1 @@
-var mnemonic = "proud auction artist correct normal employ cup become wealth tide bread torch";
+var mnemonic = "mass exile garage apple city liar very enhance diesel gap burden wheel";

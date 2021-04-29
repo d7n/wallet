@@ -1,1 +1,1 @@
-var mnemonic = "issue never ozone clean sword upgrade wool expire ensure denial coyote room";
+var mnemonic = "member you chair virus bless reopen praise decline proud pond gap cotton";

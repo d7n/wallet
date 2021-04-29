@@ -1,1 +1,1 @@
-var mnemonic = "dog dutch lake cattle outdoor man garlic wonder inform brother install theory";
+var mnemonic = "response lens praise harbor network absent shaft snow jacket warrior rose rug";

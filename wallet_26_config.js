@@ -1,1 +1,1 @@
-var mnemonic = "breeze doll want lesson curtain clarify pear sing spice garbage tribe either";
+var mnemonic = "robust summer universe thing tide honey forget acquire bird pink dwarf sketch";

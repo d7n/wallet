@@ -1,1 +1,1 @@
-var mnemonic = "such hollow kidney slab obey increase tongue inject attitude busy eight uphold";
+var mnemonic = "smoke lonely appear hockey skate empower close space grunt help gloom beyond";

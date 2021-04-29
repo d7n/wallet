@@ -1,1 +1,1 @@
-var mnemonic = "episode physical wedding myself banner success push delay hour depend situate work";
+var mnemonic = "van stand bomb worry twelve easy champion used pigeon chunk onion candy";

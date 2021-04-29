@@ -1,1 +1,1 @@
-var mnemonic = "sing polar body ride gain machine nephew transfer ask almost vanish wheat";
+var mnemonic = "midnight success audit fitness quarter maid tone pelican refuse kick error hip";

@@ -1,1 +1,1 @@
-var mnemonic = "devote want spirit tone entry art witness isolate space during brown bargain";
+var mnemonic = "grief mention diet mutual dance visit bounce found angry clump glide debate";

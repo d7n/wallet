@@ -1,1 +1,1 @@
-var mnemonic = "roast abandon sheriff fresh supreme off spoil liar zebra setup omit wedding";
+var mnemonic = "step step glue lumber near stone true unveil copy athlete athlete foot";

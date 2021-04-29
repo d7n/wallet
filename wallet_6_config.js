@@ -1,1 +1,1 @@
-var mnemonic = "afford curtain reject dream fringe clinic lock dose ivory bicycle perfect blanket";
+var mnemonic = "stem culture own arch occur correct still craft bike wolf climb fiber";

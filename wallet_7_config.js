@@ -1,1 +1,1 @@
-var mnemonic = "pause armed jump visit rescue quiz tent list crane venue nurse under";
+var mnemonic = "such daughter tilt oil lounge agent airport title year nuclear install tuna";

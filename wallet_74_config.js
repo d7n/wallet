@@ -1,1 +1,1 @@
-var mnemonic = "ski much connect acid wrist forum slice coil dune endless flame abuse";
+var mnemonic = "syrup similar cherry play sad tattoo wealth venture trip bone foster crumble";

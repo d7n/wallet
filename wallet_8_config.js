@@ -1,1 +1,1 @@
-var mnemonic = "that hen purpose army hedgehog trend strategy jacket dash blind end hundred";
+var mnemonic = "beach visit shrimp blanket edge urban super chronic color top pull ordinary";

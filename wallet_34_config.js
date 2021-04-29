@@ -1,1 +1,1 @@
-var mnemonic = "typical they ghost bottom lizard release absurd when oval modify barrel disease";
+var mnemonic = "surface bachelor around under stairs level giant deposit winter crane evoke enroll";

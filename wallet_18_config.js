@@ -1,1 +1,1 @@
-var mnemonic = "excess mixture chunk auction image bread what have adapt peace camera priority";
+var mnemonic = "clump cash melody organ mutual dress mansion execute illegal surround flight door";

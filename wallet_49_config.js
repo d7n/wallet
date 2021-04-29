@@ -1,1 +1,1 @@
-var mnemonic = "rifle nation message design castle inhale bring ramp strong whisper injury stand";
+var mnemonic = "exile hen arctic palm artwork popular region pact soul rookie obvious sample";

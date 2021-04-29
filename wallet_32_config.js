@@ -1,1 +1,1 @@
-var mnemonic = "laundry lizard hold desk clerk record opinion mom badge curtain guitar dirt";
+var mnemonic = "embark erode dizzy almost anxiety world detect slam will forget glimpse ten";

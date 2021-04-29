@@ -1,1 +1,1 @@
-var mnemonic = "bridge agent note picnic very elephant organ solid resemble hello start science";
+var mnemonic = "gesture cabbage pond robot pulp jealous art leisure economy dice monitor retreat";

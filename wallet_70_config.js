@@ -1,1 +1,1 @@
-var mnemonic = "oyster table dove robust ribbon seven lumber asset card maze spot spoil";
+var mnemonic = "stool neutral race oak elephant shiver border market have cruise face donkey";

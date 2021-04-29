@@ -1,1 +1,1 @@
-var mnemonic = "property seven country capable awake panda seat nest strategy artefact work master";
+var mnemonic = "seat horse often razor simple mistake stick stem iron gravity plate day";

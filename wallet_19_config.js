@@ -1,1 +1,1 @@
-var mnemonic = "palm deer tenant easily taste case upon answer estate execute kit banana";
+var mnemonic = "other rocket tell smooth legal agent wild mutual apology loud hotel blind";

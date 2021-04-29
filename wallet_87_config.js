@@ -1,1 +1,1 @@
-var mnemonic = "feel august insect beauty material again daughter timber dawn leisure bullet eager";
+var mnemonic = "mammal jungle scan situate exist enlist large file key vacuum person entry";

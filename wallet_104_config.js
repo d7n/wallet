@@ -1,1 +1,1 @@
-var mnemonic = "winter farm slice stuff refuse modify affair grief naive huge venture much";
+var mnemonic = "allow replace near donate urge path wrestle draw shock skate cram math";

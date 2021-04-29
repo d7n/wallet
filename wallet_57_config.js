@@ -1,1 +1,1 @@
-var mnemonic = "want almost limit task baby cotton income present neck boy later negative";
+var mnemonic = "intact tree thunder lucky camera thought goose quick few charge salon laugh";

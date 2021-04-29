@@ -1,1 +1,1 @@
-var mnemonic = "patch lawn street regular gorilla story tobacco orient action chicken suit dentist";
+var mnemonic = "motion bread letter sorry glad tourist real veteran wool satoshi raven minimum";

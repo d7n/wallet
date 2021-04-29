@@ -1,1 +1,1 @@
-var mnemonic = "square weapon orient wrong pitch warfare soldier ivory lemon pond bind cherry";
+var mnemonic = "melt craft peace agree layer thrive huge tape budget deal echo must";

@@ -1,1 +1,1 @@
-var mnemonic = "daughter pulp always danger spy evolve truth resource audit injury city inner";
+var mnemonic = "task metal ceiling slow roof air notable donkey security expire clarify garbage";

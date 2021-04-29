@@ -1,1 +1,1 @@
-var mnemonic = "noodle silk yard hunt bright loud voyage increase property wink marine judge";
+var mnemonic = "stage know biology material pool buzz vessel veteran will broom inject garbage";

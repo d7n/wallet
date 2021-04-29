@@ -1,1 +1,1 @@
-var mnemonic = "kind guitar tool grow wild screen actual oyster clutch enroll cushion island";
+var mnemonic = "nominee left elbow sound drop toward area dawn loan example normal only";

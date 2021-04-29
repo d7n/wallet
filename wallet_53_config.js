@@ -1,1 +1,1 @@
-var mnemonic = "describe paddle setup govern disagree cinnamon proof announce actual recipe evidence hollow";
+var mnemonic = "cool raise replace say endless cabbage modify topple moon into gift wet";

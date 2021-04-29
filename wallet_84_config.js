@@ -1,1 +1,1 @@
-var mnemonic = "strike cupboard gadget ritual point blouse video turtle shoulder word antenna duty";
+var mnemonic = "earth easily answer rose erode used cluster census relief consider high faith";

@@ -1,1 +1,1 @@
-var mnemonic = "dumb barrel someone dumb inquiry yard pond outside glow ribbon gas deliver";
+var mnemonic = "apart initial hair gauge board cram kingdom worry congress soda bacon present";

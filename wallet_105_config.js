@@ -1,1 +1,1 @@
-var mnemonic = "shift ghost limb poem energy canyon accuse defense grit oyster punch twice";
+var mnemonic = "any green tattoo novel transfer raven hover task smile laundry draw patient";

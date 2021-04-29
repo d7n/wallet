@@ -1,1 +1,1 @@
-var mnemonic = "emerge tomorrow sell fly rib wheat top rigid flavor auction robot illegal";
+var mnemonic = "scout immense fine fork hedgehog uniform before dice provide friend silly mosquito";

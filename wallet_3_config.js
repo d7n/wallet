@@ -1,1 +1,1 @@
-var mnemonic = "shed domain acid civil physical used toilet tone process online drip blame";
+var mnemonic = "rate seminar napkin choice mutual neutral snow involve gain fossil congress broom";

@@ -1,1 +1,1 @@
-var mnemonic = "divorce attend front soup oxygen garment parade keep visa ordinary analyst seminar";
+var mnemonic = "december spider achieve lucky smile gospel myth vanish silver hat vanish body";

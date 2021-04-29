@@ -1,1 +1,1 @@
-var mnemonic = "danger click firm valid sell town shoulder sing vote balcony witness glue";
+var mnemonic = "else cheap sting spice stand avoid split slot alarm degree enforce make";

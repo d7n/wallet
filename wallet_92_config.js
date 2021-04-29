@@ -1,1 +1,1 @@
-var mnemonic = "behind student assault away rack blouse balance eight trophy pyramid bacon asthma";
+var mnemonic = "ivory tray cram globe hawk swing senior cool twenty cousin spare return";

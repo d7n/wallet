@@ -1,1 +1,1 @@
-var mnemonic = "owner tag depth magic process oxygen cushion danger quality sun try laugh";
+var mnemonic = "blood quick because pig resemble shoulder wool tool genuine edit mother length";

@@ -1,1 +1,1 @@
-var mnemonic = "finish aisle cup sadness famous pill pipe frost draw before kite victory";
+var mnemonic = "blood taste seven lava minute man blast poverty cart lazy noble input";

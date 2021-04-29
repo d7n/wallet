@@ -1,1 +1,1 @@
-var mnemonic = "olympic laugh slim clap spice cushion express find tunnel pair village express";
+var mnemonic = "firm wait picnic guitar define noble slush above ship crush matrix steak";

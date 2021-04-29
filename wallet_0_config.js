@@ -1,1 +1,1 @@
-var mnemonic = "cactus year lawsuit blood pool humble bar hill mammal walk solid phrase";
+var mnemonic = "room sponsor tragic stick junior degree rather lamp winner whisper party try";

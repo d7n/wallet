@@ -1,1 +1,1 @@
-var mnemonic = "meat mistake certain glass pudding board viable vapor much glad click sun";
+var mnemonic = "brand mystery dumb bitter shove ribbon repeat wink famous leopard retreat viable";

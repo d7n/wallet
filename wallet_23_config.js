@@ -1,1 +1,1 @@
-var mnemonic = "scale skirt summer coral spot can settle tomato filter airport powder spare";
+var mnemonic = "ladder mad verify table fine pepper regret blame chunk dance tumble sick";

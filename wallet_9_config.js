@@ -1,1 +1,1 @@
-var mnemonic = "field hand swap jazz ugly arrow source input good atom drum border";
+var mnemonic = "input addict slot impact alpha awake differ lazy achieve rural dutch then";

@@ -1,1 +1,1 @@
-var mnemonic = "conduct laugh priority fame logic energy annual method nation then negative stove";
+var mnemonic = "income fruit social sheriff owner cannon lottery word song outdoor finish theme";

@@ -1,1 +1,1 @@
-var mnemonic = "ginger object suspect piano relax large mystery force delay people mirror endorse";
+var mnemonic = "mandate under boring rich harbor find impulse blanket shoe alien nothing resist";

@@ -1,1 +1,1 @@
-var mnemonic = "blouse tube honey place double west wealth unusual anger hero dice when";
+var mnemonic = "early dwarf beyond stuff devote tonight survey venture fancy never person permit";

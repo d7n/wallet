@@ -1,1 +1,1 @@
-var mnemonic = "any phrase card dice tissue total put marble valve tissue together crazy";
+var mnemonic = "cover joy luxury over glide mule wait name clever element merry cram";

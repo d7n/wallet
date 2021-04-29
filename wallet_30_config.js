@@ -1,1 +1,1 @@
-var mnemonic = "crumble fringe license dose toddler cart raw crawl come field habit unit";
+var mnemonic = "whale glass nose usual exhibit evolve local float room thunder goat limit";

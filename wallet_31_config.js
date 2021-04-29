@@ -1,1 +1,1 @@
-var mnemonic = "midnight speak two dog flee cigar host scale about scout wire live";
+var mnemonic = "video science mask lizard walnut mesh practice scale stove bottom alone brain";

@@ -1,1 +1,1 @@
-var mnemonic = "huge pen crane nut learn add obey melt park delay shine ranch";
+var mnemonic = "net breeze loyal train wait phrase animal random obscure cause hub system";

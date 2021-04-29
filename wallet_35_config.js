@@ -1,1 +1,1 @@
-var mnemonic = "frame render concert razor kiss pulp ceiling neglect wrestle news cliff keep";
+var mnemonic = "warrior awake umbrella burden admit lizard inch flavor correct various vacant title";

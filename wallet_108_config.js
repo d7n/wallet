@@ -1,1 +1,1 @@
-var mnemonic = "bag monkey team carpet glass pair bind produce news adapt digital cruel";
+var mnemonic = "light crane flash eagle program expect ladder safe unfair dilemma defy case";

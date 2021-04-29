@@ -1,1 +1,1 @@
-var mnemonic = "autumn rookie arrow top problem embrace pupil believe saddle sort any skirt";
+var mnemonic = "hidden chaos village extend acquire bachelor fame margin adjust begin crawl vessel";

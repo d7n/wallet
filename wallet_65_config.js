@@ -1,1 +1,1 @@
-var mnemonic = "cousin side fatal use word heart deliver vital name allow neutral slice";
+var mnemonic = "segment festival injury crush guilt miss van series bunker stairs random piece";

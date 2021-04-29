@@ -1,1 +1,1 @@
-var mnemonic = "crystal rib glimpse way issue tragic coconut network erupt legend gauge hood";
+var mnemonic = "laundry fiction interest rocket liar keep faint reason sell vanish radar cabbage";

@@ -1,1 +1,1 @@
-var mnemonic = "erosion sick unhappy mandate clerk settle cloud margin flavor goose clerk wise";
+var mnemonic = "head glue torch kind patrol ice that weasel head tell armor fossil";

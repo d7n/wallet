@@ -1,1 +1,1 @@
-var mnemonic = "staff orange also pledge social bracket cruel month repair lemon gain ball";
+var mnemonic = "sad meat tip appear pyramid fortune bacon attitude can cargo evidence lazy";

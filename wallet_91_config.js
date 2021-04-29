@@ -1,1 +1,1 @@
-var mnemonic = "hybrid hard join spring venue debate fashion diet embrace cancel gesture siege";
+var mnemonic = "orphan brick shell result seven smart nurse promote food bronze require worth";

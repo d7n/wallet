@@ -1,1 +1,1 @@
-var mnemonic = "dirt start silver resemble quantum trip simple cliff photo song also remove";
+var mnemonic = "asset clog planet pass what ankle dad drive ahead damage dutch mail";

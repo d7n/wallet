@@ -1,1 +1,1 @@
-var mnemonic = "lucky will switch toddler soup surface beef lion behind unaware film mask";
+var mnemonic = "early tooth salute evidence aerobic film hip unknown wash suffer rice magnet";

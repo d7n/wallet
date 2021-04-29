@@ -1,1 +1,1 @@
-var mnemonic = "own bitter provide noise episode capital text skirt tourist below crew card";
+var mnemonic = "portion donor garden knee else truly street forward catalog ribbon purpose annual";

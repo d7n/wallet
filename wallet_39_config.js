@@ -1,1 +1,1 @@
-var mnemonic = "option stone robust install fancy erupt item congress enrich spice oven ranch";
+var mnemonic = "manage convince snack floor royal sauce enhance lyrics mail pistol salon gauge";

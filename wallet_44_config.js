@@ -1,1 +1,1 @@
-var mnemonic = "pony talk idle balcony economy orphan aim begin rather melt rural material";
+var mnemonic = "address caught wait vehicle party excess inner cheap shift inside giraffe lucky";

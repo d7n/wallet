@@ -1,1 +1,1 @@
-var mnemonic = "nothing outside rice assume exercise pill exact point ill guard boy salute";
+var mnemonic = "symptom bread nurse bachelor dose produce road candy gravity derive index daughter";
