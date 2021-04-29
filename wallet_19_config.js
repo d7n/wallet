@@ -1,1 +1,1 @@
-var mnemonic = "topple bench voyage volcano craft segment audit heart already banner toy engage";
+var mnemonic = "huge always measure blame siren emotion fish beach comfort circle true basic";

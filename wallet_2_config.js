@@ -1,1 +1,1 @@
-var mnemonic = "warrior man biology shallow punch image field appear stove eternal begin toilet";
+var mnemonic = "wire vicious swim smooth fade protect hand endorse fabric uphold million indicate";

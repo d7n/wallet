@@ -1,1 +1,1 @@
-var mnemonic = "couch limit guide power canyon shiver silk auction evoke state tenant story";
+var mnemonic = "scheme enable two monster accuse dog only milk kite unique away slow";

@@ -1,1 +1,1 @@
-var mnemonic = "aim dragon oval hedgehog unhappy comfort fetch ceiling tonight mechanic outside chapter";
+var mnemonic = "inmate appear enact donkey coin tongue winter guide island this cloth sniff";

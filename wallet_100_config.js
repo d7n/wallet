@@ -1,1 +1,1 @@
-var mnemonic = "panther cruel annual sorry deal bridge invite slender filter possible jacket off";
+var mnemonic = "achieve pond scrap salad price crop sentence obey snow arrange program stable";

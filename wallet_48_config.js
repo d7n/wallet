@@ -1,1 +1,1 @@
-var mnemonic = "emerge summer budget foam hospital approve tide goose canvas ceiling start praise";
+var mnemonic = "unusual improve call artefact lunar loan call recycle advice inform device drop";

@@ -1,1 +1,1 @@
-var mnemonic = "evoke flock enroll deliver cancel act peace donkey team hen reason mix";
+var mnemonic = "famous burst tragic lady bacon ticket sponsor bonus best meat sight bamboo";

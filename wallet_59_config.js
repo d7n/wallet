@@ -1,1 +1,1 @@
-var mnemonic = "tonight slot act submit mutual degree width document comic head globe unfair";
+var mnemonic = "run feel phrase dial equip ghost hair nature leg filter jacket gospel";

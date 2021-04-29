@@ -1,1 +1,1 @@
-var mnemonic = "survey social salt slide sunset dragon mass prefer bottom list learn inner";
+var mnemonic = "property leave brick razor lyrics usage young host mixture stem method orange";

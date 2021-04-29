@@ -1,1 +1,1 @@
-var mnemonic = "decide acquire basket office pact twist atom casual fork spell maid dress";
+var mnemonic = "second mind stairs wrestle finger tomorrow rebel warfare depend blind stuff negative";

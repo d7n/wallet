@@ -1,1 +1,1 @@
-var mnemonic = "cave present chimney vacant warfare trip claim orange tissue sniff bounce civil";
+var mnemonic = "loyal scheme that omit fabric better window valley more lens panel west";

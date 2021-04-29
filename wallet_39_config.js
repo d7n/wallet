@@ -1,1 +1,1 @@
-var mnemonic = "leader cabin practice tree short weekend glad juice update cry cat depart";
+var mnemonic = "promote confirm surprise bracket beauty travel moon boy depth explain remind inject";

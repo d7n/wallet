@@ -1,1 +1,1 @@
-var mnemonic = "divert survey crouch carbon banana violin bacon menu silver hurdle side farm";
+var mnemonic = "strike dove add such flavor knife shoe wisdom anger time ocean they";

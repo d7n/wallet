@@ -1,1 +1,1 @@
-var mnemonic = "fly slow lab toilet abandon jealous drip uniform brave snow venture topple";
+var mnemonic = "rain twice cruise awful guide club mutual mask unable poverty tent tissue";

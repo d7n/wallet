@@ -1,1 +1,1 @@
-var mnemonic = "laptop volcano impact kid parade desk letter neither city switch oxygen pipe";
+var mnemonic = "husband antique income degree episode whale hundred sweet crowd give merit flight";

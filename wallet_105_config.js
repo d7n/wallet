@@ -1,1 +1,1 @@
-var mnemonic = "rib silent result multiply payment soccer melody nation oak faculty cargo blame";
+var mnemonic = "caught master toss current dirt tongue ozone canoe test renew guitar manage";

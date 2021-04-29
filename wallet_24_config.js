@@ -1,1 +1,1 @@
-var mnemonic = "reflect uniform armor ridge grocery great reward merit young wreck artist endorse";
+var mnemonic = "viable inmate dawn evolve rotate dynamic jazz dynamic hollow certain shift crumble";

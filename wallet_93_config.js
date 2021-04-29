@@ -1,1 +1,1 @@
-var mnemonic = "west moral visa domain crime peasant accident torch play glow animal vibrant";
+var mnemonic = "basic upgrade ribbon novel obscure order other flower equip element divert credit";

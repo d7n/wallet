@@ -1,1 +1,1 @@
-var mnemonic = "dragon funny extend lecture shuffle cotton purchase canyon flower hotel tone frog";
+var mnemonic = "busy solid guitar festival account agree puppy result genius visa staff toy";

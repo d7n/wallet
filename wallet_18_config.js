@@ -1,1 +1,1 @@
-var mnemonic = "journey cheese slot case hybrid chat blush shoulder random awkward police swap";
+var mnemonic = "describe system tooth fashion merry pride media food object adapt canvas derive";

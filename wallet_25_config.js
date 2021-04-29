@@ -1,1 +1,1 @@
-var mnemonic = "shove genius three need mirror hammer indoor garden universe bounce sniff advance";
+var mnemonic = "extend need guard just hat fitness pilot absorb spot easy this silent";

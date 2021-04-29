@@ -1,1 +1,1 @@
-var mnemonic = "lumber whale degree release tackle join wing topic fiscal harsh nerve traffic";
+var mnemonic = "mixture maple strike degree garbage salute tackle design jealous across gesture valve";

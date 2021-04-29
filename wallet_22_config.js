@@ -1,1 +1,1 @@
-var mnemonic = "divert clip ribbon ramp sad episode manage planet use worry sugar describe";
+var mnemonic = "proof vicious rule account cram wise always stuff virtual cable seminar clean";

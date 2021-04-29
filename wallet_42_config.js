@@ -1,1 +1,1 @@
-var mnemonic = "smoke hold afford sniff strong diet improve version more sample august stove";
+var mnemonic = "flip lobster know always paddle raccoon matrix grief crime ability ring clay";

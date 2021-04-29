@@ -1,1 +1,1 @@
-var mnemonic = "prepare champion sorry voyage shy cancel protect afraid over call dragon demise";
+var mnemonic = "taste list insect swallow skirt seminar manual scheme bike mule evolve frame";

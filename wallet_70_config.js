@@ -1,1 +1,1 @@
-var mnemonic = "already unusual design shallow penalty author draw manual mirror divorce pistol image";
+var mnemonic = "trip shell glow glory author barrel quick potato current heavy lab shell";

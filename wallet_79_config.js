@@ -1,1 +1,1 @@
-var mnemonic = "knee festival puzzle dance hamster cave delay chaos fan worth syrup drill";
+var mnemonic = "crowd general slide credit message material future knee broken alert basic creek";

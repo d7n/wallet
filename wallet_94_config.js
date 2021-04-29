@@ -1,1 +1,1 @@
-var mnemonic = "immune tunnel female school critic recipe interest spy region year umbrella section";
+var mnemonic = "message despair attend marble setup leg creek syrup actual filter dice cover";

@@ -1,1 +1,1 @@
-var mnemonic = "atom grid rough sunny point arm dawn chalk attract neglect teach intact";
+var mnemonic = "giant boy hurdle three subway cute length talk combine control note bird";

@@ -1,1 +1,1 @@
-var mnemonic = "grunt network action heavy large mobile tonight naive notable tunnel celery industry";
+var mnemonic = "first napkin indicate hope include ugly powder camp receive clip pluck ticket";

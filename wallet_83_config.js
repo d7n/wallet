@@ -1,1 +1,1 @@
-var mnemonic = "spend swap grid kid clerk best such gap stool pulse donor couch";
+var mnemonic = "aisle tag expire shift victory lion where cave matter bargain holiday beef";

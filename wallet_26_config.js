@@ -1,1 +1,1 @@
-var mnemonic = "rigid gasp avocado harbor vote cargo silver menu goddess trip enough dirt";
+var mnemonic = "renew copper legend afford head parade harsh segment final jungle correct scorpion";

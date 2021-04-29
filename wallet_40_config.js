@@ -1,1 +1,1 @@
-var mnemonic = "ship nephew salon genuine awake idle village dinner federal scout poet bottom";
+var mnemonic = "stumble dilemma stereo vote card depart humble illness artist extra hello thank";

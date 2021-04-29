@@ -1,1 +1,1 @@
-var mnemonic = "firm distance year daughter wink atom main shoe eye north kingdom hobby";
+var mnemonic = "mystery angle riot lecture charge beyond piece loyal faculty review random pretty";

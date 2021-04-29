@@ -1,1 +1,1 @@
-var mnemonic = "favorite already blind sketch stumble someone soap floor message prison present anger";
+var mnemonic = "tilt web miss inmate miracle develop unable toy whisper foot agent doll";

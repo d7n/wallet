@@ -1,1 +1,1 @@
-var mnemonic = "motion quiz carpet stone physical hazard segment rail ivory message inject galaxy";
+var mnemonic = "scan still teach keen few garbage derive assist beach control explain denial";

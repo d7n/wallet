@@ -1,1 +1,1 @@
-var mnemonic = "key gas honey adapt bird number inmate rescue cancel capable poem turkey";
+var mnemonic = "depart upper blame goddess pink enemy one loop typical recycle current van";

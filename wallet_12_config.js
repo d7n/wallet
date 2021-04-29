@@ -1,1 +1,1 @@
-var mnemonic = "order misery decade pink grain now tumble asthma time fly pill idle";
+var mnemonic = "above nominee flavor silent alcohol right layer surround girl frost claw rapid";

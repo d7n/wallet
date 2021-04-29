@@ -1,1 +1,1 @@
-var mnemonic = "address excuse wrestle record subject select call present security sponsor kiss insect";
+var mnemonic = "code elegant renew obscure shine topic sausage hand spare enrich second gravity";

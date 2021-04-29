@@ -1,1 +1,1 @@
-var mnemonic = "talk indicate bench demise thank laptop awesome slush install friend property person";
+var mnemonic = "only price gesture monster west obvious reward enhance list bread radar mandate";

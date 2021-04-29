@@ -1,1 +1,1 @@
-var mnemonic = "toddler inquiry learn unlock decade anxiety road despair shuffle aisle resist scene";
+var mnemonic = "can imitate meadow remove benefit gym result group shaft jewel make once";

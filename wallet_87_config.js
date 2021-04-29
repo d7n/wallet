@@ -1,1 +1,1 @@
-var mnemonic = "dumb renew luxury shoulder note begin master humor album surface game poverty";
+var mnemonic = "glare firm snack cruise utility patch claim jealous draft boring lawsuit siren";

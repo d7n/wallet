@@ -1,1 +1,1 @@
-var mnemonic = "milk cycle hybrid section upgrade crouch unusual liberty idea deer whale van";
+var mnemonic = "that lava husband noble device mother health hero crater ancient kid scrap";

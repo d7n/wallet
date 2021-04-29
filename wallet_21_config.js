@@ -1,1 +1,1 @@
-var mnemonic = "script design deputy dune believe trial wrap squeeze monster float scene script";
+var mnemonic = "bag coast mesh yellow face knee entry broom cost message rotate absurd";

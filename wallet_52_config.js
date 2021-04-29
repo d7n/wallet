@@ -1,1 +1,1 @@
-var mnemonic = "shift own scene random appear three correct fold govern plunge fury sell";
+var mnemonic = "point rebel sister snow strong seed term vast ice enact kind street";

@@ -1,1 +1,1 @@
-var mnemonic = "useful truly ribbon bus vendor reopen hamster olympic quit wink master smoke";
+var mnemonic = "nasty truth wheat short bottom connect runway ethics gun exit amused clump";

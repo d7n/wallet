@@ -1,1 +1,1 @@
-var mnemonic = "scene ladder arrest pizza laugh celery favorite submit end mansion churn green";
+var mnemonic = "escape rescue wrong myself lift sheriff review hundred since fatigue unhappy peanut";

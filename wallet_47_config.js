@@ -1,1 +1,1 @@
-var mnemonic = "hotel scatter engine alarm left card museum link such kind benefit wool";
+var mnemonic = "spoon electric wheel ritual room gas lottery frost goddess imitate stand shoe";

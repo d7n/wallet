@@ -1,1 +1,1 @@
-var mnemonic = "that rescue network orchard stairs pole inhale fog detect grid tube sick";
+var mnemonic = "sight inject blind average awkward mutual print tragic long various ozone session";

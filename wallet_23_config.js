@@ -1,1 +1,1 @@
-var mnemonic = "play term supreme buffalo client slender spot elephant blush egg nature tattoo";
+var mnemonic = "vote slot enhance camera spice weird act carpet globe awake siege miracle";

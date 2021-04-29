@@ -1,1 +1,1 @@
-var mnemonic = "column fox exclude magnet sheriff plunge ready extend carry neutral nominee pledge";
+var mnemonic = "final again staff spawn abstract word else situate goose follow critic asthma";

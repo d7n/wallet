@@ -1,1 +1,1 @@
-var mnemonic = "beauty pitch pepper impulse dismiss physical wagon rocket soccer crisp coyote vessel";
+var mnemonic = "frost donate orange cigar welcome novel produce mean amount bread water early";

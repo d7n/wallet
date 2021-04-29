@@ -1,1 +1,1 @@
-var mnemonic = "come lucky element fatigue episode rate girl punch story apple face pupil";
+var mnemonic = "turtle theme fever lounge pole cute tonight minor crisp wear flag force";

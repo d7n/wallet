@@ -1,1 +1,1 @@
-var mnemonic = "miracle host tobacco hat group convince theme lesson van nut smart ketchup";
+var mnemonic = "fog chair delay project tumble floor brush mother jump energy bless stem";

@@ -1,1 +1,1 @@
-var mnemonic = "believe buffalo submit toss december panic loyal bachelor satoshi west uncle donate";
+var mnemonic = "device wire little depth celery goose pulse pretty ordinary web exhaust fish";

@@ -1,1 +1,1 @@
-var mnemonic = "fortune weird fatigue lobster aerobic burst resist hedgehog employ gravity track eagle";
+var mnemonic = "gain addict evidence diamond neck alcohol doctor step essay camp radar barely";

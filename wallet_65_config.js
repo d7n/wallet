@@ -1,1 +1,1 @@
-var mnemonic = "degree hen vacant obvious erupt valve artist seed click march dumb spread";
+var mnemonic = "time figure soup dress worry worry potato expose patrol town abuse cash";

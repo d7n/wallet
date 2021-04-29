@@ -1,1 +1,1 @@
-var mnemonic = "script rifle jewel home color thunder derive dish dynamic turn baby wing";
+var mnemonic = "family eager boy monster sheriff among gold gun rhythm lawsuit sea fluid";

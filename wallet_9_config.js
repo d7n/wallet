@@ -1,1 +1,1 @@
-var mnemonic = "baby begin state sport learn pioneer liquid canvas panic drift gasp clean";
+var mnemonic = "walk shop agent diagram corn exhaust business cupboard label load prevent hand";

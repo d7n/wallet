@@ -1,1 +1,1 @@
-var mnemonic = "kitten before congress unique brain canoe code clog common brass core perfect";
+var mnemonic = "post shrug owner road pact shuffle firm develop liberty black dizzy minor";

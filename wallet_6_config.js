@@ -1,1 +1,1 @@
-var mnemonic = "judge daring flight seek outside hidden disagree wisdom depend invite emotion female";
+var mnemonic = "apology uniform taste valve captain solar employ upper inner fragile reason trial";

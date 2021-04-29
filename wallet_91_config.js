@@ -1,1 +1,1 @@
-var mnemonic = "history poet join century head quote angle expose course attitude lyrics unaware";
+var mnemonic = "float swing glad cloth calm caution horn deal state steel into fuel";

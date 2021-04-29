@@ -1,1 +1,1 @@
-var mnemonic = "ridge connect tuition enough second use sister inject long wedding post dog";
+var mnemonic = "comic hard exact youth note crisp friend magic amused doctor puppy decade";

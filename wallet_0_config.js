@@ -1,1 +1,1 @@
-var mnemonic = "delay divorce spirit hand client toe eyebrow soldier gorilla ship item unique";
+var mnemonic = "symbol few response offer bounce virtual pyramid candy want foot sibling patch";

@@ -1,1 +1,1 @@
-var mnemonic = "pencil cream horn cushion decide parrot slice pipe armed owner sadness maple";
+var mnemonic = "love horror end often reveal one jump enforce manage arrow tongue repeat";

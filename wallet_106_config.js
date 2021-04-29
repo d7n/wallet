@@ -1,1 +1,1 @@
-var mnemonic = "gold ring medal rely prefer chef dream erupt nasty cigar suspect false";
+var mnemonic = "jungle pony obey myth mask galaxy casual noise cluster clog point amateur";

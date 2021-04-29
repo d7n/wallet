@@ -1,1 +1,1 @@
-var mnemonic = "client alert insect finish tree tube half season come appear quiz method";
+var mnemonic = "switch card chef bus into input casual viable guilt budget giraffe harsh";

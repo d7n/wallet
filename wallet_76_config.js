@@ -1,1 +1,1 @@
-var mnemonic = "spread ostrich truth logic panel across dove all dad zero sort select";
+var mnemonic = "sun reopen rain pear useless oil suffer wheel tonight voyage misery desk";

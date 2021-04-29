@@ -1,1 +1,1 @@
-var mnemonic = "taste alarm special bicycle ensure dress capable lens reason dumb cram tiger";
+var mnemonic = "spy hotel share general must junior defy hard laugh tissue recipe test";

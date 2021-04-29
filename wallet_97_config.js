@@ -1,1 +1,1 @@
-var mnemonic = "whip list salt scale alert fall execute link tuna grape hamster cruel";
+var mnemonic = "palm wrap bargain quiz mesh crush toy share bottom seminar leaf minor";

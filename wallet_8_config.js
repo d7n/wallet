@@ -1,1 +1,1 @@
-var mnemonic = "merry casual exile ocean private shove finger rough asset fall rather split";
+var mnemonic = "few point foster blouse decline diet hope blur sand ketchup nose frozen";

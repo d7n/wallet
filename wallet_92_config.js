@@ -1,1 +1,1 @@
-var mnemonic = "glide hood salute truth lion poverty height target uncover move spoon rough";
+var mnemonic = "weird fly pause toss vintage coconut sibling fitness toward budget thought already";

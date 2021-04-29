@@ -1,1 +1,1 @@
-var mnemonic = "risk gallery act truck fancy utility sand deposit crime chair silent add";
+var mnemonic = "predict truth dragon coil evolve source smart cricket invest napkin blame latin";

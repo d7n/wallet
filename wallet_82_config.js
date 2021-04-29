@@ -1,1 +1,1 @@
-var mnemonic = "denial topple balance end found match stem achieve enact alley drama deliver";
+var mnemonic = "borrow title robust car love quantum giraffe letter cliff today cash palm";

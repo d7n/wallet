@@ -1,1 +1,1 @@
-var mnemonic = "buyer flame language gift mobile clay rebel sea section range vivid gaze";
+var mnemonic = "bridge fee inner forget fame lunar course win lobster year kiss assume";

@@ -1,1 +1,1 @@
-var mnemonic = "east coil eyebrow reflect target strategy better once right wool toward river";
+var mnemonic = "rifle major unknown erupt silver present exhaust enhance mansion night protect boost";

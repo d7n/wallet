@@ -1,1 +1,1 @@
-var mnemonic = "pony whip school laundry myself alien shift flower since fun gap category";
+var mnemonic = "sweet above spring absurd analyst symbol trade lamp garbage roof there source";

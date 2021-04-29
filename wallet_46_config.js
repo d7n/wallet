@@ -1,1 +1,1 @@
-var mnemonic = "range normal shoe youth uncover athlete copy access gloom cable only market";
+var mnemonic = "pulp coach topic next repeat core grit sauce teach cabbage pond moon";

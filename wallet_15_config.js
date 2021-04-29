@@ -1,1 +1,1 @@
-var mnemonic = "under help stamp move army glide announce coil usual radar ball rally";
+var mnemonic = "muffin drastic zone sort pistol setup syrup amateur submit alone wasp often";

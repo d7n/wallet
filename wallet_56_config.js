@@ -1,1 +1,1 @@
-var mnemonic = "coyote output ketchup aunt miracle tip raise cycle pair black hub rival";
+var mnemonic = "shaft size river chest seven garbage occur plastic gap present music burger";

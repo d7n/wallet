@@ -1,1 +1,1 @@
-var mnemonic = "wool detect liquid false orange atom ugly clump swarm opinion issue laundry";
+var mnemonic = "spin cloth spawn sign please tired same device curve blossom science dilemma";

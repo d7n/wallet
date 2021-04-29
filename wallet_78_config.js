@@ -1,1 +1,1 @@
-var mnemonic = "three lumber erupt prepare today soldier silver when tumble imitate animal loyal";
+var mnemonic = "talent stock reason envelope often flip sound present fee trick senior abandon";

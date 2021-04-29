@@ -1,1 +1,1 @@
-var mnemonic = "mass scene artist indoor victory just denial vapor salmon brass case person";
+var mnemonic = "way fever return only move offer tackle bunker decline butter village ginger";

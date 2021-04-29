@@ -1,1 +1,1 @@
-var mnemonic = "elite whip push still language broccoli guess century glow host pause future";
+var mnemonic = "tornado income bargain toast view cereal curve buyer flash motion blast remain";

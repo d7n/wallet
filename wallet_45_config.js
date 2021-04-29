@@ -1,1 +1,1 @@
-var mnemonic = "limb beauty worry speed wine island rich mail they tenant steel urge";
+var mnemonic = "quit umbrella garage elegant electric stage column token spin roof wage under";

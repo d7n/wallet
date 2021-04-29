@@ -1,1 +1,1 @@
-var mnemonic = "steel gun shuffle picture canyon cruise car bleak program sail earth opinion";
+var mnemonic = "gorilla swing steak erode lonely dune render alter enrich chief oil question";

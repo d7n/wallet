@@ -1,1 +1,1 @@
-var mnemonic = "miracle issue bench carry kitchen awesome motor ride project valley impose escape";
+var mnemonic = "address insane outside meadow mansion actor stand control frog keep hotel seat";

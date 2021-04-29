@@ -1,1 +1,1 @@
-var mnemonic = "exile ladder excuse moon celery fatal history scatter element pole duty unfair";
+var mnemonic = "mosquito tuna gauge answer kiwi public there social veteran door broom fly";

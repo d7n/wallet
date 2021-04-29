@@ -1,1 +1,1 @@
-var mnemonic = "foam output jeans consider penalty patrol second aspect casino mom yellow swallow";
+var mnemonic = "improve snake gym whisper off uphold bright maple bean blade wide taxi";

@@ -1,1 +1,1 @@
-var mnemonic = "wish void danger crew disagree infant hint pattern pupil maid beauty bounce";
+var mnemonic = "calm only guitar avocado cook prefer reunion wild list salon gospel type";

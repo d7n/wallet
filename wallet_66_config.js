@@ -1,1 +1,1 @@
-var mnemonic = "pair session stamp drift bulk current brass ocean mobile nerve join range";
+var mnemonic = "derive evoke long junior pizza there govern acquire grant era panther border";
