@@ -1,1 +1,1 @@
-var mnemonic = "letter matrix soap know bar isolate popular moral glow warfare square tool";
+var mnemonic = "consider social napkin club voice shine grunt bronze mesh swarm wrestle syrup";

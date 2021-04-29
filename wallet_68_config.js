@@ -1,1 +1,1 @@
-var mnemonic = "decrease bring dumb stumble horror hawk avoid promote medal baby eight rhythm";
+var mnemonic = "execute run disagree visa stay bacon birth advice round lizard artefact dream";

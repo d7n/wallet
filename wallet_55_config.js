@@ -1,1 +1,1 @@
-var mnemonic = "absurd eight equal speed tiny battle rely cactus mind expand used smooth";
+var mnemonic = "huge assist quote unknown caution bottom frozen boat noodle roast inside emotion";

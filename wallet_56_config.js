@@ -1,1 +1,1 @@
-var mnemonic = "cheese throw someone admit party congress wise uncle right anger scheme oyster";
+var mnemonic = "tape object music estate link edit muscle skin dog section physical wrap";

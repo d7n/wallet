@@ -1,1 +1,1 @@
-var mnemonic = "sausage cigar walnut situate argue people lemon goat section million person plug";
+var mnemonic = "abuse nephew input ugly involve soft grid scrap coin solid drive other";

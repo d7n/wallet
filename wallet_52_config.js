@@ -1,1 +1,1 @@
-var mnemonic = "possible know route broccoli emotion bullet holiday scale room stumble point step";
+var mnemonic = "live issue network crawl action sausage seek ski obvious purity panic loop";

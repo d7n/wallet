@@ -1,1 +1,1 @@
-var mnemonic = "mad primary marble torch vivid clever shop drift awake goat oxygen effort";
+var mnemonic = "ecology chuckle figure jacket menu problem ridge reform tomato hidden round angry";

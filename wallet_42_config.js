@@ -1,1 +1,1 @@
-var mnemonic = "chuckle output anger grant segment stick air educate rather forum slender place";
+var mnemonic = "half cream surge accuse fresh trim visual cabbage spoil isolate reason bone";

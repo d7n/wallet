@@ -1,1 +1,1 @@
-var mnemonic = "next entire retire among park glad universe pizza spoon wheel husband empty";
+var mnemonic = "topple coach perfect pass tube talent deer deposit coconut expire salt bid";

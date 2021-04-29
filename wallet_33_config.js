@@ -1,1 +1,1 @@
-var mnemonic = "priority uniform guitar truth flat inner unknown maid edit same recipe memory";
+var mnemonic = "bachelor glass weekend furnace page empty stumble love kiwi payment patrol sport";

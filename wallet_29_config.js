@@ -1,1 +1,1 @@
-var mnemonic = "term praise sea unveil draw tourist traffic stock firm imitate sign sun";
+var mnemonic = "unaware tongue steel trap course era universe lounge soldier poet ride arrange";

@@ -1,1 +1,1 @@
-var mnemonic = "endorse february silly blame topic champion gown salt merry typical digital fiber";
+var mnemonic = "next cradle method want juice topic husband concert initial measure window stomach";

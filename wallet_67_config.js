@@ -1,1 +1,1 @@
-var mnemonic = "jaguar answer struggle cross unable chase obey pencil spend fruit that believe";
+var mnemonic = "disorder gun oven scatter drift eagle february tired dragon pulse identify caution";

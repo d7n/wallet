@@ -1,1 +1,1 @@
-var mnemonic = "present marble badge potato wrong detect galaxy battle twelve light step crowd";
+var mnemonic = "local lend zoo bonus firm memory drill motion search orange curious promote";

@@ -1,1 +1,1 @@
-var mnemonic = "flash supply caught ability tone trust donkey grid setup urban violin chalk";
+var mnemonic = "develop jealous upon rhythm arm crop layer wedding just steel artwork naive";

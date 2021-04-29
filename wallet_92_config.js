@@ -1,1 +1,1 @@
-var mnemonic = "attitude square boil question enhance shrimp anxiety join route legend mixture enable";
+var mnemonic = "small ocean receive document fancy boil noble auto rain barely cycle glance";

@@ -1,1 +1,1 @@
-var mnemonic = "search plunge lumber peanut vote tunnel trim reunion female family festival elegant";
+var mnemonic = "welcome hunt sign similar law few flower razor section broccoli bean wish";

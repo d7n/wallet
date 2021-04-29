@@ -1,1 +1,1 @@
-var mnemonic = "chapter mesh parrot session silk frog blast idea polar manual reveal famous";
+var mnemonic = "pitch eye comic emerge suit room mix bicycle wink mimic timber habit";

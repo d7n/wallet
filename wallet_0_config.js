@@ -1,1 +1,1 @@
-var mnemonic = "act item sea mesh gravity sadness margin pact tray nothing blade race";
+var mnemonic = "detect pencil client embrace casino body pig tribe afraid spend crowd genuine";

@@ -1,1 +1,1 @@
-var mnemonic = "payment kit point sadness black correct question noble divide lesson stamp scan";
+var mnemonic = "chaos question garden peasant change tool abstract assume trigger miss jaguar amateur";

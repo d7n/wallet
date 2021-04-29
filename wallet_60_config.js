@@ -1,1 +1,1 @@
-var mnemonic = "dilemma clinic member used pupil misery weather bean rural adult identify march";
+var mnemonic = "bring pact allow autumn muffin draft upper bubble beach ask word coin";

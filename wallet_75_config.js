@@ -1,1 +1,1 @@
-var mnemonic = "depth diagram clip wealth distance glide apology admit mask ancient sniff slow";
+var mnemonic = "glimpse tenant marine rotate theme shell patrol today chaos fashion father coyote";

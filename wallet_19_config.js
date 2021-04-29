@@ -1,1 +1,1 @@
-var mnemonic = "ridge pole pave tobacco obtain lucky walk short monkey model script fresh";
+var mnemonic = "addict able salon enhance praise thing among supply library trash elite split";

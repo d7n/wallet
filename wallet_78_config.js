@@ -1,1 +1,1 @@
-var mnemonic = "whale much humble clip deny flag run blood when dirt afford chimney";
+var mnemonic = "correct enter scan such lyrics story bicycle burden scissors pencil another enemy";

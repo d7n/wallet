@@ -1,1 +1,1 @@
-var mnemonic = "tip ginger timber swim casino slow asthma occur toddler dwarf roast sauce";
+var mnemonic = "industry law lucky choose couple goose blossom seek suit tired paddle gym";

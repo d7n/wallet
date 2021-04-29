@@ -1,1 +1,1 @@
-var mnemonic = "orphan damp receive vibrant absent despair toward drive bring document guess spy";
+var mnemonic = "envelope blue clay casual tribe embody maximum seminar engine palace mail surprise";

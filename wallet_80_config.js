@@ -1,1 +1,1 @@
-var mnemonic = "trouble action obey clown carpet picture jelly lottery exact lady deputy boil";
+var mnemonic = "frozen coyote pepper cave wheel expand fault jungle park transfer endorse zebra";

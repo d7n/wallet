@@ -1,1 +1,1 @@
-var mnemonic = "genre eagle place depth giant assist believe panel guard oak amateur pepper";
+var mnemonic = "primary mansion grain kitchen boil sausage hill cat grass image subject crazy";

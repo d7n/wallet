@@ -1,1 +1,1 @@
-var mnemonic = "gun switch monster drill skill impulse hurt fury person foster child approve";
+var mnemonic = "oval drip hat earth coil pitch cliff dentist audit eye acid organ";

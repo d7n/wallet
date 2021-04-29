@@ -1,1 +1,1 @@
-var mnemonic = "mercy ugly stamp predict dutch load garbage novel kick mixed aware enact";
+var mnemonic = "month minute thumb debris risk pear ready spice orange donkey win solve";

@@ -1,1 +1,1 @@
-var mnemonic = "balance bridge upset still pool army nature talk emotion disorder neglect purity";
+var mnemonic = "hover job divorce still crazy camera rely soldier cash actual leisure vocal";

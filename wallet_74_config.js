@@ -1,1 +1,1 @@
-var mnemonic = "arctic catch sight shop switch glad scene fitness twelve protect allow siege";
+var mnemonic = "remain grow loan walk wild present captain few stereo divide random biology";

@@ -1,1 +1,1 @@
-var mnemonic = "undo town gospel faith lend beyond glance wedding orient session bind circle";
+var mnemonic = "loyal enforce super flower choice trust error assault arrange fiscal else distance";

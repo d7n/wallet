@@ -1,1 +1,1 @@
-var mnemonic = "drill release joke suggest jaguar sentence small bulk whale hello thunder brush";
+var mnemonic = "cool brick loan yellow rare female garage monkey garlic negative spoon juice";

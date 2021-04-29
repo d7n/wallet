@@ -1,1 +1,1 @@
-var mnemonic = "cycle episode journey federal wedding curtain gadget cube spell ten hat carry";
+var mnemonic = "parade holiday october country guard rapid job radar prevent laundry clip rebel";

@@ -1,1 +1,1 @@
-var mnemonic = "south humble bronze art acoustic company toilet power exotic envelope purpose glare";
+var mnemonic = "rib large old apart glad real close mammal lazy own fatal hint";

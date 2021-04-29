@@ -1,1 +1,1 @@
-var mnemonic = "public labor life hour pistol start flag dose beach rude disagree uncover";
+var mnemonic = "draft skull harvest author output visual layer double glide today smoke visual";

@@ -1,1 +1,1 @@
-var mnemonic = "pride clown gas crater evidence palace ozone lake help similar abuse universe";
+var mnemonic = "divorce field cover first can predict maple popular fine spell proof submit";

@@ -1,1 +1,1 @@
-var mnemonic = "galaxy hub key screen royal fluid group arrange diesel cruel photo small";
+var mnemonic = "sad betray call junior witness hurry brown glance stay half else afraid";

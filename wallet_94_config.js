@@ -1,1 +1,1 @@
-var mnemonic = "virtual office dial open gold solution atom ankle private crouch smart lawsuit";
+var mnemonic = "receive peanut clog range expect galaxy mad park claim coffee offer february";

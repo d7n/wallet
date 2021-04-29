@@ -1,1 +1,1 @@
-var mnemonic = "quiz bubble purchase victory neck august miracle main welcome lamp sugar pledge";
+var mnemonic = "employ dial enlist drive piece until express forum story craft snow pluck";

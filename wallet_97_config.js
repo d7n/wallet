@@ -1,1 +1,1 @@
-var mnemonic = "include maple deposit clay tower verify slice vault alter doctor stereo blush";
+var mnemonic = "trouble embody pulse month head decade below other arm certain chicken current";

@@ -1,1 +1,1 @@
-var mnemonic = "cushion rural broccoli panther news off entire broom stool problem lens ice";
+var mnemonic = "lunar mansion reason clever peasant accuse tube toy shy oyster doll sting";

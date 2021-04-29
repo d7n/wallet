@@ -1,1 +1,1 @@
-var mnemonic = "evil warm correct clarify together use fade clever fiscal during quantum draw";
+var mnemonic = "once ready blush guess social february success garage ankle symbol rose circle";

@@ -1,1 +1,1 @@
-var mnemonic = "weapon boss pistol bean airport plug pencil chef have sunset enable crew";
+var mnemonic = "flame arrow dry model habit salmon rural equip amount forest cabin next";

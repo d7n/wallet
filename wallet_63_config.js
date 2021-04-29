@@ -1,1 +1,1 @@
-var mnemonic = "because drama ketchup evidence autumn soldier under pepper spot exit flag galaxy";
+var mnemonic = "young over need damp coach fashion civil industry million radio moment kick";

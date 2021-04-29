@@ -1,1 +1,1 @@
-var mnemonic = "entry funny still myth bridge file duck sort govern ship kit plate";
+var mnemonic = "emerge claw tool local sphere bulb also smile poverty mom bargain exotic";

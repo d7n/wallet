@@ -1,1 +1,1 @@
-var mnemonic = "settle interest sing snow help document roast color purchase surge acoustic frozen";
+var mnemonic = "spin similar shiver vacuum cause leave cover spoon file certain resemble floor";

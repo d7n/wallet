@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin citizen plug route oyster hamster wish task hub island prison interest";
+var mnemonic = "ivory grain alone endorse business invest limit honey effort bunker powder disease";

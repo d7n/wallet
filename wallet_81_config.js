@@ -1,1 +1,1 @@
-var mnemonic = "front mind elevator alone select power play use cave mean inflict effort";
+var mnemonic = "theme alcohol abuse mixture food slogan job garment evolve hint radio piece";

@@ -1,1 +1,1 @@
-var mnemonic = "universe edge enroll repair ahead kidney brown sample fantasy culture detail uphold";
+var mnemonic = "match cart trumpet state resist away assist voice library slice pipe sense";

@@ -1,1 +1,1 @@
-var mnemonic = "bag again bag world science acid decide property aware zebra blast distance";
+var mnemonic = "verify clown outside stone intact save echo situate bid round inflict essence";

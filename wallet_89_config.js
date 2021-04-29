@@ -1,1 +1,1 @@
-var mnemonic = "dutch believe fame foster sunny heart issue daughter angry damp useful resemble";
+var mnemonic = "merge always brother lawsuit search panda access improve cloth average razor where";

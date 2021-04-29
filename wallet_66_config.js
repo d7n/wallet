@@ -1,1 +1,1 @@
-var mnemonic = "measure vote cattle ski stone modify panther torch polar visit coil student";
+var mnemonic = "lonely link core gun museum purity suit brush valley off dizzy liquid";

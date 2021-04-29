@@ -1,1 +1,1 @@
-var mnemonic = "mutual rotate obscure top blue brush fold square fiction erode ten sight";
+var mnemonic = "stand skill dynamic shiver shift moon dwarf mimic portion pioneer myself violin";

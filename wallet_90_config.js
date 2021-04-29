@@ -1,1 +1,1 @@
-var mnemonic = "alter camp rate ring census sock kick limb shoot else unhappy boil";
+var mnemonic = "garden sister doctor group egg employ update peanut inflict cheap example top";

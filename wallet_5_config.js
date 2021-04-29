@@ -1,1 +1,1 @@
-var mnemonic = "reason layer either verb cave panel walnut tree change lumber rule strong";
+var mnemonic = "festival picnic nest science nerve fiber lamp elbow bargain fly slow icon";

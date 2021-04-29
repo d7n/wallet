@@ -1,1 +1,1 @@
-var mnemonic = "empty build tennis outdoor action pony nothing witness door catch invite ahead";
+var mnemonic = "report end mass state sign turn scan bag step rival rate hub";

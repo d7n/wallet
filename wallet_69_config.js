@@ -1,1 +1,1 @@
-var mnemonic = "tilt agree text couple knee east flock ship mutual slender extra globe";
+var mnemonic = "lock wash eager gun garbage shrimp join visa grunt youth false opera";

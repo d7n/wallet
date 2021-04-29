@@ -1,1 +1,1 @@
-var mnemonic = "nuclear best tornado front lawn venture pig social effort minimum maid stable";
+var mnemonic = "search talent panda angle expose general salt assault success relief enroll start";

@@ -1,1 +1,1 @@
-var mnemonic = "erupt wave spy obtain stage vendor elegant master canyon senior core solve";
+var mnemonic = "anger crowd flavor fish embrace web earth spirit picture wage must staff";

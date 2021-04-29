@@ -1,1 +1,1 @@
-var mnemonic = "service camera sleep planet gold style health faith resist velvet certain south";
+var mnemonic = "stuff detail timber arrange excess coral boost fringe often call stomach farm";

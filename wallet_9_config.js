@@ -1,1 +1,1 @@
-var mnemonic = "various mind fish limb tomato saddle frame pipe recall desert comic book";
+var mnemonic = "puppy plug safe canvas remain income adjust trip steak fashion scrap mouse";

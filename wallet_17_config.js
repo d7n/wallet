@@ -1,1 +1,1 @@
-var mnemonic = "gospel giant mechanic symbol peace common bracket uniform sadness sign conduct note";
+var mnemonic = "repair small tool harbor unfair canal rebel chronic spread tool mass basic";

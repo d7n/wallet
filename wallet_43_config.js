@@ -1,1 +1,1 @@
-var mnemonic = "sail top wrestle catalog burger one merry pet theory travel pipe height";
+var mnemonic = "ethics valid hole gap open retire tobacco knock nerve dirt hope crush";

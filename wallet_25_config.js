@@ -1,1 +1,1 @@
-var mnemonic = "tornado major apart hair chunk eagle apple electric exchange end useless balcony";
+var mnemonic = "drip judge toilet notice dumb ribbon anger whale play garage satoshi sphere";

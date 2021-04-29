@@ -1,1 +1,1 @@
-var mnemonic = "enrich soldier food urban say poverty cabbage celery vague clean hip select";
+var mnemonic = "post betray flavor cup install rotate language mansion festival major praise fire";

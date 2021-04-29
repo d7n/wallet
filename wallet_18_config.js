@@ -1,1 +1,1 @@
-var mnemonic = "lend doctor avocado gate carpet rib bid sail phrase flat dry silk";
+var mnemonic = "tide juice fish accuse prison lunar door face large arrive please blue";

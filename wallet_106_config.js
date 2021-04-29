@@ -1,1 +1,1 @@
-var mnemonic = "entire sand stereo crisp attract input cattle flash whip online fashion install";
+var mnemonic = "acid lobster school treat forget snake mad notable unit wear noise possible";

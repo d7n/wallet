@@ -1,1 +1,1 @@
-var mnemonic = "clerk soccer update pig man cage race host dolphin stumble recycle apple";
+var mnemonic = "hungry mesh employ night road wine school anger cotton ignore knock trade";

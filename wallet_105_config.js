@@ -1,1 +1,1 @@
-var mnemonic = "typical shed shiver hand all trial tongue sniff cancel rotate circle staff";
+var mnemonic = "ability diary spell awkward barely infant squeeze grit toward tenant people prize";

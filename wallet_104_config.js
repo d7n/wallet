@@ -1,1 +1,1 @@
-var mnemonic = "network inmate dragon live dolphin crystal smooth rescue nephew direct day dove";
+var mnemonic = "organ squeeze road income knife yellow item puzzle glass upon embark weasel";

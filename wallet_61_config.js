@@ -1,1 +1,1 @@
-var mnemonic = "craft spread toy fiction patient photo whisper mushroom joy joke kick acquire";
+var mnemonic = "promote erase travel stumble debris thunder income right direct grab cliff roof";

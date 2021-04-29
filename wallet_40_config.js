@@ -1,1 +1,1 @@
-var mnemonic = "adapt flee mom hurdle drum mandate miss tank regret mandate thrive around";
+var mnemonic = "evil tag word blood prosper salon fiction script gold mention merry basic";

@@ -1,1 +1,1 @@
-var mnemonic = "actual assault deputy paddle various orphan subway enhance obvious swamp journey ripple";
+var mnemonic = "crack unit unlock drift sheriff shrug damp buffalo give observe truck silver";

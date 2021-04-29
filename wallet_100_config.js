@@ -1,1 +1,1 @@
-var mnemonic = "struggle female achieve topple capital tape field diagram sibling object resource radio";
+var mnemonic = "atom husband target empty now naive cargo prepare robot maximum loud misery";

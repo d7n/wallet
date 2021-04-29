@@ -1,1 +1,1 @@
-var mnemonic = "syrup kiwi addict wear body gasp review bachelor unlock burst kit crumble";
+var mnemonic = "husband mean aisle fault kangaroo entire shy dutch shrug claim nest bullet";

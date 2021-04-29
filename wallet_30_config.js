@@ -1,1 +1,1 @@
-var mnemonic = "squirrel price child dismiss snake annual april artist better emerge mean uncover";
+var mnemonic = "try child law echo biology clay layer firm beef push another awful";

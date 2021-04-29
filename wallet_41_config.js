@@ -1,1 +1,1 @@
-var mnemonic = "truly wealth regular sport retreat shrimp hawk capable multiply visual attend example";
+var mnemonic = "dolphin humor garage any gloom title blade peace name hard canoe sphere";

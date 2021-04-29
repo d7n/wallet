@@ -1,1 +1,1 @@
-var mnemonic = "tattoo fresh duck govern cinnamon pact opera trust summer type vibrant cushion";
+var mnemonic = "quote castle expand loud member mass scheme husband elegant art road muscle";

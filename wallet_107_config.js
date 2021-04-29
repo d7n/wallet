@@ -1,1 +1,1 @@
-var mnemonic = "absent owner toward season draw case tiny awake actor casual wrist badge";
+var mnemonic = "fun jelly salt planet cool acid can until cliff shrimp vicious brisk";

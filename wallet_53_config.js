@@ -1,1 +1,1 @@
-var mnemonic = "pilot twelve wisdom flag grid gain thumb near clock radio wish bunker";
+var mnemonic = "lion faint immune nominee reopen shoe baby wolf someone trade fall argue";

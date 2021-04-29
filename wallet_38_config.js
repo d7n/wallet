@@ -1,1 +1,1 @@
-var mnemonic = "impulse they sponsor access taxi insane rare hobby motion bounce sail intact";
+var mnemonic = "wait valid mutual anger ship convince wedding vivid govern cart please project";

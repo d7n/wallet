@@ -1,1 +1,1 @@
-var mnemonic = "siege embrace tray alien opera moral north piece maximum negative hope fade";
+var mnemonic = "question tail rotate ostrich produce input picture atom anger please mail airport";
