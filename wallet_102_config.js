@@ -1,1 +1,1 @@
-var mnemonic = "make logic hidden boat guitar change sort message scheme artist can glove";
+var mnemonic = "unique sleep fatigue tape actress churn property round ramp fat man afford";

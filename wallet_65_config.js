@@ -1,1 +1,1 @@
-var mnemonic = "saddle devote license success slide head element wing exercise birth science hamster";
+var mnemonic = "loop vital source detail tuna cram concert gun suit confirm digital stove";

@@ -1,1 +1,1 @@
-var mnemonic = "escape capable very fan book breeze adjust amused measure city labor recall";
+var mnemonic = "hidden pet inform tank vintage always great syrup employ rhythm truck divorce";

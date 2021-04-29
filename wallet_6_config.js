@@ -1,1 +1,1 @@
-var mnemonic = "bind smile dentist cousin liar nest rural leader switch base rude mercy";
+var mnemonic = "almost laundry sentence indoor whip strategy one stand genuine lecture pact hazard";

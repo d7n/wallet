@@ -1,1 +1,1 @@
-var mnemonic = "title scatter habit soccer minimum nurse silver moral unlock paper before nasty";
+var mnemonic = "possible coyote fade aim safe day legal gown coin prevent cube novel";

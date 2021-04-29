@@ -1,1 +1,1 @@
-var mnemonic = "pride belt cheap erosion visual usual mom sunset light flight shed obvious";
+var mnemonic = "shoot person captain camp canvas mountain staff leisure acquire invite fat blouse";

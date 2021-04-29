@@ -1,1 +1,1 @@
-var mnemonic = "wise coast orbit cat gather ivory urge fame ugly shoot tunnel clap";
+var mnemonic = "crash crack night antenna notice brave office clean day puzzle test height";

@@ -1,1 +1,1 @@
-var mnemonic = "hurdle endorse snack autumn you wrist sorry nature indicate paddle nose candy";
+var mnemonic = "century menu struggle song waste drive sunset please giant craft hole soda";

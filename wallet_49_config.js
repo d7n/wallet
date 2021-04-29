@@ -1,1 +1,1 @@
-var mnemonic = "hold grab shoulder inner dawn cash chaos hire assault ribbon cute main";
+var mnemonic = "gallery license vintage bachelor distance there twelve tourist annual aware virtual junior";

@@ -1,1 +1,1 @@
-var mnemonic = "behind pave fruit cereal kitchen provide eight olive route cancel vehicle recycle";
+var mnemonic = "throw stumble move such gas pistol fix sword news arrive chapter vast";

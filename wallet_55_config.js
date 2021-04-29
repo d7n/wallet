@@ -1,1 +1,1 @@
-var mnemonic = "oak wood flower member equip sauce floor napkin badge cactus dance vivid";
+var mnemonic = "height churn jeans garbage two jeans punch satisfy priority advance tuition mom";

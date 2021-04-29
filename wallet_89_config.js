@@ -1,1 +1,1 @@
-var mnemonic = "stool viable learn trick manual unhappy afford buzz joy wheel bargain together";
+var mnemonic = "debris alien base master gadget future achieve dove sense assault echo farm";

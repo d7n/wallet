@@ -1,1 +1,1 @@
-var mnemonic = "denial stand iron kind above smile grow witness fox august dwarf chicken";
+var mnemonic = "cash either position situate begin owner youth version next kidney soldier type";

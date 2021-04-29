@@ -1,1 +1,1 @@
-var mnemonic = "rocket license hard interest soap casual february uncover can eight rally sorry";
+var mnemonic = "mom winner grocery equip lunar letter never gap choice embody wear solar";

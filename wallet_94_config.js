@@ -1,1 +1,1 @@
-var mnemonic = "uniform antique coast wife reject tortoise share party trumpet fortune dinner replace";
+var mnemonic = "between glory actress abuse nation nephew client injury audit oyster remove orbit";

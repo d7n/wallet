@@ -1,1 +1,1 @@
-var mnemonic = "outdoor smart force spring kite symbol aim clock love chaos little beef";
+var mnemonic = "copy cover cluster seed life expire dance wheat once fence just mimic";

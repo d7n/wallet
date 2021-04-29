@@ -1,1 +1,1 @@
-var mnemonic = "someone sleep domain grunt tuition circle ranch near depart reflect buffalo again";
+var mnemonic = "stable pond prevent year target bullet expose gravity mask guess clerk art";

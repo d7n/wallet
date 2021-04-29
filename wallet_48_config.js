@@ -1,1 +1,1 @@
-var mnemonic = "vacuum rigid utility avocado repeat carpet tomorrow punch cash tenant circle square";
+var mnemonic = "present want script hammer obey salon original opera order canal want best";

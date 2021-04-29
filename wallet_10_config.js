@@ -1,1 +1,1 @@
-var mnemonic = "differ panel tag flush sleep energy taste woman rocket exercise leaf limit";
+var mnemonic = "depart noble sell spike acid ill electric evil butter night light angry";

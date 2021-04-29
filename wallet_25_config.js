@@ -1,1 +1,1 @@
-var mnemonic = "liar lonely learn notice clown silk divide board when purity nice kangaroo";
+var mnemonic = "arrow split neck cherry auto injury jewel yellow repeat announce notice flock";

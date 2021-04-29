@@ -1,1 +1,1 @@
-var mnemonic = "jeans clinic cup dove blade thing logic pretty arch soda carbon neck";
+var mnemonic = "unveil sorry inner culture memory under clutch airport actress visa wink habit";

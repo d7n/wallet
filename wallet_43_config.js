@@ -1,1 +1,1 @@
-var mnemonic = "bullet open receive just monkey mimic crucial bring gaze hint gorilla nation";
+var mnemonic = "warrior cup piece saddle monster yellow lake easy treat garbage stamp height";

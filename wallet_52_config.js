@@ -1,1 +1,1 @@
-var mnemonic = "arctic ribbon nuclear razor correct report thing agree boss buzz live torch";
+var mnemonic = "parrot ghost problem jump tunnel vendor tuna school brand oak vendor moment";

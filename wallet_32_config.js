@@ -1,1 +1,1 @@
-var mnemonic = "youth endless entire avoid bar punch mule habit demand august giant awesome";
+var mnemonic = "planet utility custom doctor arrow kind twenty north derive scan diary property";

@@ -1,1 +1,1 @@
-var mnemonic = "evil pig add among prison unusual solar merit play ripple traffic member";
+var mnemonic = "into soldier dinner depend dream language street draft solar core honey ritual";

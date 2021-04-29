@@ -1,1 +1,1 @@
-var mnemonic = "inherit brick ecology length volcano immense winter shop universe coral leisure enhance";
+var mnemonic = "uphold donkey grab online extra divert error hope cable fork dentist never";

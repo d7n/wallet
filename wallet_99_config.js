@@ -1,1 +1,1 @@
-var mnemonic = "scale attitude local live medal spoon royal click verify sock pottery tool";
+var mnemonic = "hand behave alley dismiss material exact few pencil walnut swear shallow excess";

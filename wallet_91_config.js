@@ -1,1 +1,1 @@
-var mnemonic = "potato pistol ensure refuse nuclear price popular inspire unable scale blast laugh";
+var mnemonic = "federal key recycle share damp swap indoor crater run caught coin buddy";

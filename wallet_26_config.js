@@ -1,1 +1,1 @@
-var mnemonic = "wall cruise avoid over credit evidence grit taxi beach horror reject often";
+var mnemonic = "soap siren tone dumb dirt carry market object gadget census head border";

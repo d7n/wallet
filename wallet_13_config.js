@@ -1,1 +1,1 @@
-var mnemonic = "neutral bulk enhance stand rifle mirror tooth gesture february focus loop tag";
+var mnemonic = "maximum rebel boy shield weird busy garment rich retire rib exotic valid";

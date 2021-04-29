@@ -1,1 +1,1 @@
-var mnemonic = "guilt shrimp dragon ride kangaroo lemon tag world bar august arm glimpse";
+var mnemonic = "actress unit innocent truck improve bundle jacket dial provide garden color ketchup";

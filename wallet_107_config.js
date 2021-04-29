@@ -1,1 +1,1 @@
-var mnemonic = "betray marine hospital share august pistol pigeon scare record cliff table pass";
+var mnemonic = "allow until describe thumb street blouse license ankle upper cat clean rigid";

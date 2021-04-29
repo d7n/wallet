@@ -1,1 +1,1 @@
-var mnemonic = "tongue inmate similar renew cabin vacant nominee grief require affair behave give";
+var mnemonic = "message primary orient insane cliff broccoli sense casual supply aerobic delay link";

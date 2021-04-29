@@ -1,1 +1,1 @@
-var mnemonic = "spot peanut more empty fit defense during box spirit pond carbon among";
+var mnemonic = "wisdom about trash nuclear knife layer modify suggest mouse strong arctic utility";

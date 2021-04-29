@@ -1,1 +1,1 @@
-var mnemonic = "never unique slot fatigue coyote flame boss mechanic lounge ripple bubble diary";
+var mnemonic = "punch episode express much render science space brother economy pumpkin lesson soon";

@@ -1,1 +1,1 @@
-var mnemonic = "purse rent cup crawl glove maid essay first luxury easily tent immune";
+var mnemonic = "once smile mouse sister shove plunge lawsuit valve around slot stick evoke";

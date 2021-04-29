@@ -1,1 +1,1 @@
-var mnemonic = "excite humble attitude piano sign flower year noble angle phrase enemy tongue";
+var mnemonic = "into reward consider absorb begin jazz label fashion jacket pet scan certain";

@@ -1,1 +1,1 @@
-var mnemonic = "noodle review sniff crawl cabbage solve rather grow mad awake retire salon";
+var mnemonic = "spirit join connect shrimp train hole damp motor much chronic culture rifle";

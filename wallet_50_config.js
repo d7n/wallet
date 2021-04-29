@@ -1,1 +1,1 @@
-var mnemonic = "keen cause arrest clip ocean prefer setup gasp female canal school civil";
+var mnemonic = "diagram hedgehog satoshi trouble gown orchard evoke cactus truck ceiling flower space";

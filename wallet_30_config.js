@@ -1,1 +1,1 @@
-var mnemonic = "about distance buzz twice you service blade chase garbage bag bronze ordinary";
+var mnemonic = "sort total public virtual keen buffalo twelve curious cargo brother extra film";

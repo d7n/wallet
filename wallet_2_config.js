@@ -1,1 +1,1 @@
-var mnemonic = "fabric solution gun twist pelican control delay airport dad print stock guitar";
+var mnemonic = "travel sniff spoon moral comfort interest emerge vibrant cart frown shallow pigeon";

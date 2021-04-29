@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur enough embody trend glue away film evil device sort hub video";
+var mnemonic = "occur destroy dumb broken minute smooth vapor donate subject hat celery buzz";

@@ -1,1 +1,1 @@
-var mnemonic = "lock credit brother stomach urban practice special domain deer truck shop demise";
+var mnemonic = "angry crumble squeeze casual toilet cup blue embody empty zone answer divert";

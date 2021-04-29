@@ -1,1 +1,1 @@
-var mnemonic = "other isolate early hover amused moment rent network canyon unique item fence";
+var mnemonic = "turkey aware team chase puzzle anxiety name ritual post burger angry thought";

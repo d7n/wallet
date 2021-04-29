@@ -1,1 +1,1 @@
-var mnemonic = "seat foster alpha frozen video flag lawsuit bind cluster famous ivory super";
+var mnemonic = "medal submit maid fine vague strike merit copy plate cannon shove hamster";

@@ -1,1 +1,1 @@
-var mnemonic = "torch soft exchange adapt erupt gravity wing cricket judge cotton employ catch";
+var mnemonic = "primary useful when problem toe donate boil venture envelope teach dragon excuse";

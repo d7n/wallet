@@ -1,1 +1,1 @@
-var mnemonic = "canvas cannon mansion record stamp banner tomorrow grace enough soap guess eight";
+var mnemonic = "bubble romance echo aisle divide pass tip audit mushroom merge increase alert";

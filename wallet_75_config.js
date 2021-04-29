@@ -1,1 +1,1 @@
-var mnemonic = "promote outer flush double book duty labor ignore embody table involve quality";
+var mnemonic = "praise truly intact noise crane frame ride cave detect maid guess stick";

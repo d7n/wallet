@@ -1,1 +1,1 @@
-var mnemonic = "neglect quick train olive return great giggle section crowd champion garage news";
+var mnemonic = "gaze hedgehog rebuild embark boost join brave jazz february front stand turn";

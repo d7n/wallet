@@ -1,1 +1,1 @@
-var mnemonic = "nose topic quote girl pool crunch leader describe arm include blue aerobic";
+var mnemonic = "smoke hundred bicycle year setup into stay addict become citizen total clean";

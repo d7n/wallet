@@ -1,1 +1,1 @@
-var mnemonic = "rely core lounge suit evidence nasty coach tent spatial great tip sniff";
+var mnemonic = "grief similar paper cage uncle path audit nest property dentist green welcome";

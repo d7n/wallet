@@ -1,1 +1,1 @@
-var mnemonic = "kid almost lawn tennis crack immense together mix chimney fantasy yard lunch";
+var mnemonic = "romance basic year puppy pen fun thing negative coral always deal announce";

@@ -1,1 +1,1 @@
-var mnemonic = "nothing shoot stand transfer model pair egg wife brush muffin adjust board";
+var mnemonic = "canyon grant parrot print wool document fluid net kidney soul fuel dress";

@@ -1,1 +1,1 @@
-var mnemonic = "bracket bamboo castle noise safe slice harvest vacuum loud joke raw lawn";
+var mnemonic = "wine pumpkin spin era close entire proof elegant shadow payment accuse erase";

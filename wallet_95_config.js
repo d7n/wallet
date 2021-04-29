@@ -1,1 +1,1 @@
-var mnemonic = "series sport venue venture summer right journey bachelor service stairs midnight know";
+var mnemonic = "ethics direct slam brother deputy around good wonder ring emerge stuff ribbon";

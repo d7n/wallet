@@ -1,1 +1,1 @@
-var mnemonic = "blue ladder cave burden travel dust burger spice resemble weasel next vacuum";
+var mnemonic = "concert captain slender weapon minor absorb panic pink nasty mule brief keep";

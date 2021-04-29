@@ -1,1 +1,1 @@
-var mnemonic = "language ride census sample liquid exit recall wisdom jeans work just warm";
+var mnemonic = "wink must perfect drama desert elbow charge correct end dash duty jungle";

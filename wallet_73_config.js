@@ -1,1 +1,1 @@
-var mnemonic = "cup jewel wild memory pitch adapt uniform lemon climb reject dentist certain";
+var mnemonic = "man toe such safe move visa pelican rib super onion minute goddess";

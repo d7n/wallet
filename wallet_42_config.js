@@ -1,1 +1,1 @@
-var mnemonic = "debate spell bullet then depart tape poverty polar sniff invest answer rural";
+var mnemonic = "blanket resist detect enjoy actor exclude total winter learn boring bronze move";

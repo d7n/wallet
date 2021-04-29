@@ -1,1 +1,1 @@
-var mnemonic = "toast ball secret start execute section teach blade cloth under breeze recall";
+var mnemonic = "ripple sword immune diet april cabbage hybrid whip pioneer cloth crystal large";

@@ -1,1 +1,1 @@
-var mnemonic = "pig okay table dinner scatter actor corn flight recall flash rural cactus";
+var mnemonic = "rain half close december style token turtle vicious give empower faculty armed";

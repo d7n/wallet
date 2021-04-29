@@ -1,1 +1,1 @@
-var mnemonic = "hire weasel conduct repair rug thumb debris believe endless march vessel country";
+var mnemonic = "option wagon unit toast pigeon mom excite cry remember fence scrub detect";

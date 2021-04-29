@@ -1,1 +1,1 @@
-var mnemonic = "food rough install assault follow same dish smile pen drill help detect";
+var mnemonic = "pulp apology labor agree garlic sleep exhibit vendor actress next rapid since";

@@ -1,1 +1,1 @@
-var mnemonic = "theme weapon jar clock cream vacant sight drop settle shift dish roof";
+var mnemonic = "pact crop ask fiscal crime badge desert occur toward cheese exotic swing";

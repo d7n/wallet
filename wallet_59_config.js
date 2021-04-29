@@ -1,1 +1,1 @@
-var mnemonic = "squirrel step build hammer mouse group direct degree bubble just vintage dream";
+var mnemonic = "recipe weekend jungle arrive solution know step tag piece eternal beyond picture";

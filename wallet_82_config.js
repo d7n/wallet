@@ -1,1 +1,1 @@
-var mnemonic = "hurry hello rug scale quit million safe squeeze sibling depend liar fly";
+var mnemonic = "daughter crisp inquiry team keep verb census toilet seek inhale science beef";

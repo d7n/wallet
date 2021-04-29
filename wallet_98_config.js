@@ -1,1 +1,1 @@
-var mnemonic = "trim duty tip butter million since segment team photo hood click treat";
+var mnemonic = "claw cook border vacuum hundred system march genre vast carpet tackle success";

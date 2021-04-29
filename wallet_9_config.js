@@ -1,1 +1,1 @@
-var mnemonic = "turn utility vibrant satoshi giant lesson main bracket sign few limb sword";
+var mnemonic = "wheel tattoo ski pave token dirt spy until upon century debris retire";

@@ -1,1 +1,1 @@
-var mnemonic = "good spring depth salon gossip double mind drama train total latin hurt";
+var mnemonic = "one open day because rude security choose soft tell rural plunge farm";

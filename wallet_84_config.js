@@ -1,1 +1,1 @@
-var mnemonic = "venture air physical general skill opinion legal trust verify load note copper";
+var mnemonic = "galaxy pistol melody syrup false sign parrot biology bring indoor loyal decade";

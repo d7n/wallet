@@ -1,1 +1,1 @@
-var mnemonic = "hat spider skirt pride action quick spell super reward picnic tide connect";
+var mnemonic = "antenna test mechanic neither deliver edit hair soda sight dream twin van";

@@ -1,1 +1,1 @@
-var mnemonic = "faith involve black horror immune reject stairs suit diagram harsh dog disagree";
+var mnemonic = "action perfect industry like town vendor powder deliver calm blame grief album";

@@ -1,1 +1,1 @@
-var mnemonic = "teach wink coach alcohol tuition hammer embrace zoo proud warrior member protect";
+var mnemonic = "side mirror renew rail outside alone syrup trash lift uncover trim misery";

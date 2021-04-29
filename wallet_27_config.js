@@ -1,1 +1,1 @@
-var mnemonic = "pet rigid degree direct margin marble dish modify year cherry chimney bamboo";
+var mnemonic = "soda admit cotton tortoise ceiling more animal lyrics suggest belt begin affair";

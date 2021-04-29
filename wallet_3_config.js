@@ -1,1 +1,1 @@
-var mnemonic = "pizza shell hollow matter cigar plastic ozone transfer various brown glide elder";
+var mnemonic = "royal derive mouse excite since phrase taste cover matter order key six";

@@ -1,1 +1,1 @@
-var mnemonic = "news build bird name harbor assault trade heavy daring update cry equal";
+var mnemonic = "universe junior advance stairs uncle usual donor include run shed praise void";

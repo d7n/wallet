@@ -1,1 +1,1 @@
-var mnemonic = "mushroom olympic wall off surprise shrimp song effort purpose maid hazard spare";
+var mnemonic = "photo judge invest delay retreat kid garage size piano elevator relief expect";

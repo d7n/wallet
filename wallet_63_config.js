@@ -1,1 +1,1 @@
-var mnemonic = "reflect now total primary juice depend cannon boil happy poem matter moment";
+var mnemonic = "talk sick ahead beyond zone color marriage twenty frame drift job trash";

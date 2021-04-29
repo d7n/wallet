@@ -1,1 +1,1 @@
-var mnemonic = "lake fruit exotic forget tree regret observe sound snack avocado upset core";
+var mnemonic = "garbage donkey anger country gasp property whisper reject muffin love liberty friend";

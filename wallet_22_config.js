@@ -1,1 +1,1 @@
-var mnemonic = "lemon return practice chronic exotic net globe potato spring front essay say";
+var mnemonic = "budget nest deliver vintage truth tennis occur like virus flag south turkey";

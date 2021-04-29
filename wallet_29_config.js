@@ -1,1 +1,1 @@
-var mnemonic = "proud torch hammer occur check sound extra retreat twin pipe anger arena";
+var mnemonic = "vanish field abandon knife fiscal other pencil meadow behave spider cousin drip";

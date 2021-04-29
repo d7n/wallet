@@ -1,1 +1,1 @@
-var mnemonic = "mention mammal access alien answer sound address start horse three frost inform";
+var mnemonic = "illness disease hybrid cattle coil fork elegant guide drive wink talk harsh";

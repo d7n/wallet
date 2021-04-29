@@ -1,1 +1,1 @@
-var mnemonic = "wing atom draft voyage hold window merry weird crane autumn view canoe";
+var mnemonic = "annual bulb announce exotic van utility screen today enemy arch boil laptop";

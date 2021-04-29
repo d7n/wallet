@@ -1,1 +1,1 @@
-var mnemonic = "estate resemble sea rent absurd tag habit start neither flat lady ensure";
+var mnemonic = "analyst fish depend device combine warfare rally suspect tornado govern uncle blossom";

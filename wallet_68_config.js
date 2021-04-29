@@ -1,1 +1,1 @@
-var mnemonic = "winter busy ketchup wife doctor wheat plug story damage alter clerk develop";
+var mnemonic = "pave abuse lava cradle crater roof daughter twelve twice never castle slender";

@@ -1,1 +1,1 @@
-var mnemonic = "one rival render supreme bag dirt reform close joke celery host nasty";
+var mnemonic = "half vote heart execute response bundle short find grain define faculty winner";
