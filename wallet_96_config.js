@@ -1,1 +1,1 @@
-var mnemonic = "link fee harbor prize grief pause also depend clown draw copy column";
+var mnemonic = "leg reunion arch six giraffe tide captain more faith sound comic despair";

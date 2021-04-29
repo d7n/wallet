@@ -1,1 +1,1 @@
-var mnemonic = "virus pride conduct rescue stairs often hover what space sentence loan wasp";
+var mnemonic = "tooth void blush cattle mountain crane frame banana inner fox gaze clinic";

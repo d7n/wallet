@@ -1,1 +1,1 @@
-var mnemonic = "hazard crowd seed discover middle bonus north innocent shield empty mobile coconut";
+var mnemonic = "similar time cart early scene matter then short insect skate neck robot";

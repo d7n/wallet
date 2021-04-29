@@ -1,1 +1,1 @@
-var mnemonic = "improve globe despair now truth dragon siege math comfort route extend goddess";
+var mnemonic = "problem auction anchor candy bitter valid pudding venue also butter arrive estate";

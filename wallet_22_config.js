@@ -1,1 +1,1 @@
-var mnemonic = "narrow proof cherry manage street unusual season camera patch fine olive news";
+var mnemonic = "kid pause diesel sponsor craft collect broken fiber dune merge install spare";

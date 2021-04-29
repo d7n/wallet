@@ -1,1 +1,1 @@
-var mnemonic = "consider snap crucial decade empty caught envelope mystery guitar dove crash camera";
+var mnemonic = "tree globe ripple betray castle shy outdoor square october limit crater market";

@@ -1,1 +1,1 @@
-var mnemonic = "affair aisle upset wheat blind infant patient reunion divide cigar ghost coil";
+var mnemonic = "token neutral clinic fade slab drip zebra patient beyond catalog word illness";

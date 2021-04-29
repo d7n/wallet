@@ -1,1 +1,1 @@
-var mnemonic = "long lazy absorb pole razor flame differ pulse ice office era menu";
+var mnemonic = "lawsuit tackle hamster access shiver floor danger gift arrange magnet anxiety monkey";

@@ -1,1 +1,1 @@
-var mnemonic = "choose crew strong same census sister nest antique merit mushroom pledge satoshi";
+var mnemonic = "task senior protect grit airport wool trouble quote assume dirt move draw";

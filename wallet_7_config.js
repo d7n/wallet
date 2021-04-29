@@ -1,1 +1,1 @@
-var mnemonic = "spoon bleak animal fancy gauge olive strike scorpion siren casino replace shock";
+var mnemonic = "april fetch major knock caught buddy dry found term body example party";

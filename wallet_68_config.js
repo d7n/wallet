@@ -1,1 +1,1 @@
-var mnemonic = "thunder layer dirt humor hockey dinosaur anger olympic field print winter surge";
+var mnemonic = "foam produce fortune tuition scan rate spray dial country net way fall";

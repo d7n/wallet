@@ -1,1 +1,1 @@
-var mnemonic = "drip snap audit student rain organ frog praise nasty tell behind fresh";
+var mnemonic = "mushroom scout purpose clinic motion nurse army gaze manual zone survey edit";

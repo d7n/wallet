@@ -1,1 +1,1 @@
-var mnemonic = "time fringe chronic below later child bacon tornado express earn tape satoshi";
+var mnemonic = "lava tomato trumpet learn great garlic town input wealth era never photo";

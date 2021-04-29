@@ -1,1 +1,1 @@
-var mnemonic = "orbit force flag equal zoo force between feature mystery grant destroy grit";
+var mnemonic = "chimney develop flight mind feature cattle cherry unlock amused oven image stone";

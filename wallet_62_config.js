@@ -1,1 +1,1 @@
-var mnemonic = "reform city fence shift photo crop ecology during easily glue monster eyebrow";
+var mnemonic = "sword million dumb volcano phrase inner enemy loud hungry corn super mule";

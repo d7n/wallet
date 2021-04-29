@@ -1,1 +1,1 @@
-var mnemonic = "enact around awful nose clinic lottery north obtain enable phone amateur enhance";
+var mnemonic = "arm turtle catalog path idle sniff little south leisure sound muscle want";

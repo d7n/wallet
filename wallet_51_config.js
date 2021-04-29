@@ -1,1 +1,1 @@
-var mnemonic = "thought loyal avoid absent seminar virus stage field coyote basic interest simple";
+var mnemonic = "country fog stumble human apology abstract another print stone web trim few";

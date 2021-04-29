@@ -1,1 +1,1 @@
-var mnemonic = "once glass torch kit quick network kangaroo learn capable keep amateur lava";
+var mnemonic = "reflect neither hire random brand tree choose torch taxi educate spread stand";

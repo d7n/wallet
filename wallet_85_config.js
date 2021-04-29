@@ -1,1 +1,1 @@
-var mnemonic = "talent skin avocado beyond matter image river pool occur giraffe spy pact";
+var mnemonic = "purity lock person trip crumble fiction enjoy excess dilemma carbon comic slot";

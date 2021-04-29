@@ -1,1 +1,1 @@
-var mnemonic = "walk accuse concert symbol blue route health arctic ritual option obvious excess";
+var mnemonic = "lava beach bean curtain faculty pelican position smart cradle symbol cable clarify";

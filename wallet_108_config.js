@@ -1,1 +1,1 @@
-var mnemonic = "scout also huge crumble limit increase credit industry wagon magnet view fiction";
+var mnemonic = "regular feel parade light saddle theory timber beauty special slim connect foot";

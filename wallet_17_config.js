@@ -1,1 +1,1 @@
-var mnemonic = "escape lazy acid extend tortoise mirror clinic change world three soda work";
+var mnemonic = "prepare common assault lady cargo arrest track spatial rug early pear early";

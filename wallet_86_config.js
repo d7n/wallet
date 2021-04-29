@@ -1,1 +1,1 @@
-var mnemonic = "reform mixture finger system expose general enemy learn flat helmet tent girl";
+var mnemonic = "category damp reunion detail immense floor sketch receive stove despair napkin purpose";

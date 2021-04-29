@@ -1,1 +1,1 @@
-var mnemonic = "volcano extend prosper exclude sentence attend empty abstract burst burger prefer fiction";
+var mnemonic = "movie violin summer inform enroll question token type destroy pool october marine";

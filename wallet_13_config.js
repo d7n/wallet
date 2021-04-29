@@ -1,1 +1,1 @@
-var mnemonic = "used pole obtain job tag heavy wine silver despair sweet strong dinner";
+var mnemonic = "embody multiply empty sugar volume crisp swift urge team decade rhythm impulse";

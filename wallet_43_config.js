@@ -1,1 +1,1 @@
-var mnemonic = "vault cost arrive appear civil piano curtain arch rural image draft toy";
+var mnemonic = "park exhibit lunar void charge soccer dilemma uphold chicken tackle frown tomato";

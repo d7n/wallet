@@ -1,1 +1,1 @@
-var mnemonic = "galaxy leg able tattoo quit screen fitness excess glare master afford powder";
+var mnemonic = "much ordinary design equal simple donkey illness estate follow tumble spider lab";

@@ -1,1 +1,1 @@
-var mnemonic = "escape state liar safe such model mushroom usual struggle among desk match";
+var mnemonic = "chat model fuel long indoor swing ozone cute answer tank height hurdle";

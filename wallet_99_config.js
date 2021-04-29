@@ -1,1 +1,1 @@
-var mnemonic = "enjoy vivid dirt age obey urge swing orbit metal uniform burger nation";
+var mnemonic = "practice orbit rice civil artist cover danger shrimp tone jazz swap vehicle";

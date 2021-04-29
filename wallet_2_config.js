@@ -1,1 +1,1 @@
-var mnemonic = "tornado art version lyrics round cover forward nice wheat glare ecology can";
+var mnemonic = "axis sausage swarm captain material trouble crucial direct symptom inmate draft hurry";

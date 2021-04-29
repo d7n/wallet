@@ -1,1 +1,1 @@
-var mnemonic = "dress leg useless athlete lunch inform foot pistol tuna tuition what lecture";
+var mnemonic = "poverty voice morning lemon ceiling employ present dynamic assume feel coin amused";

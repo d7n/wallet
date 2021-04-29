@@ -1,1 +1,1 @@
-var mnemonic = "lecture track flee near ceiling time language also grant local wasp rally";
+var mnemonic = "kangaroo grocery remember want grow verify sail express empty hair wrap opera";

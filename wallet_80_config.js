@@ -1,1 +1,1 @@
-var mnemonic = "divert senior absurd baby purpose action nothing sell glove marble castle social";
+var mnemonic = "broccoli canvas account speak record surface feel civil polar alpha win height";

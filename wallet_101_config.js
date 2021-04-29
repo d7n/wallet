@@ -1,1 +1,1 @@
-var mnemonic = "unable verb drastic thunder ecology say skull diesel kiwi bounce awful nest";
+var mnemonic = "brisk butter calm mushroom garden check winter strike kite above excess yard";

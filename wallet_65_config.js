@@ -1,1 +1,1 @@
-var mnemonic = "recall basket social latin doll night napkin remember else hint avocado faint";
+var mnemonic = "cigar habit ordinary situate similar memory eight caught author modify erosion burst";

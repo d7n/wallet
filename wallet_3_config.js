@@ -1,1 +1,1 @@
-var mnemonic = "audit claim journey have couple climb shrug attack isolate midnight naive pulse";
+var mnemonic = "visual crack profit keep moral travel garden giggle sand lucky net purchase";

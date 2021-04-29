@@ -1,1 +1,1 @@
-var mnemonic = "fever top season snack clarify globe element capital copper powder tourist arrive";
+var mnemonic = "gate deer visual student slice plunge cute glide kiss shaft upgrade final";

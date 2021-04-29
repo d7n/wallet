@@ -1,1 +1,1 @@
-var mnemonic = "route angry welcome quantum unknown height speed narrow owner fault coach reflect";
+var mnemonic = "basic hip wagon behind text rally amazing broken door mandate across sight";

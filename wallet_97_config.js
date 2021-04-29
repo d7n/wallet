@@ -1,1 +1,1 @@
-var mnemonic = "joke pitch rule iron knee avoid next coast yard sponsor choice bachelor";
+var mnemonic = "dentist surround promote success coast soul lyrics daughter stamp list token belt";

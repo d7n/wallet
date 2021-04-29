@@ -1,1 +1,1 @@
-var mnemonic = "plug fitness issue ensure spray help skull seek charge stage humor swear";
+var mnemonic = "focus elevator expand toilet worry hard cabin fine brass maple quarter view";

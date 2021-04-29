@@ -1,1 +1,1 @@
-var mnemonic = "fiber sugar boil elbow humble token sight stick story negative aerobic wash";
+var mnemonic = "salon envelope hunt razor put merge spring tomato gauge fiction puppy gym";

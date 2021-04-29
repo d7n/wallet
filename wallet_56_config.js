@@ -1,1 +1,1 @@
-var mnemonic = "perfect call audit citizen sick review coconut potato country version carbon island";
+var mnemonic = "month half erode uphold column between sketch large merit method below task";

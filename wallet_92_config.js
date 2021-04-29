@@ -1,1 +1,1 @@
-var mnemonic = "online salon coffee junk drama roof ring alcohol bacon liar average off";
+var mnemonic = "expand destroy still shock window copy jungle enlist program strategy sugar retire";

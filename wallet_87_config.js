@@ -1,1 +1,1 @@
-var mnemonic = "mind pluck trumpet govern useless subject hub mass magic color universe junior";
+var mnemonic = "speed apology magic exclude trial produce web peace blind extend rotate glad";

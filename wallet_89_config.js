@@ -1,1 +1,1 @@
-var mnemonic = "olympic rich either spirit toast blush garlic flag consider bleak dignity catalog";
+var mnemonic = "fringe female laundry speak bulk art loud fiction despair detail coconut forum";

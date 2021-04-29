@@ -1,1 +1,1 @@
-var mnemonic = "seek easy burst bulb silk spider pond layer swim enlist vacant disagree";
+var mnemonic = "baby bullet cigar teach seek surround goose penalty funny month produce tattoo";

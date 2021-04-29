@@ -1,1 +1,1 @@
-var mnemonic = "soup deny galaxy tuna draft frost loud license powder stadium remove sphere";
+var mnemonic = "man photo timber sail gym arrow mirror occur inside tennis rich social";

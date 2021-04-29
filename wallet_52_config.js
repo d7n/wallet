@@ -1,1 +1,1 @@
-var mnemonic = "wait velvet guitar elder stove require wonder road dwarf express fragile volcano";
+var mnemonic = "rough steak midnight space increase boss cancel mad until basic radar wine";

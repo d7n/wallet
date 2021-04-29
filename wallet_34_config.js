@@ -1,1 +1,1 @@
-var mnemonic = "enemy frequent frozen gentle october cinnamon armed renew begin enroll table lift";
+var mnemonic = "jewel crew kidney gallery omit session sure candy wool angry romance diary";

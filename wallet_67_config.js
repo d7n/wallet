@@ -1,1 +1,1 @@
-var mnemonic = "normal race secret fitness stamp public junior smoke grocery update drip together";
+var mnemonic = "scrap control enlist demand flag supreme remove lion student bubble game squeeze";

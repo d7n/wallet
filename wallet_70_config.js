@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow labor another radio lazy grant urban transfer adult exit brave camera";
+var mnemonic = "release rather process noodle minor defy walnut future room eternal rough sure";

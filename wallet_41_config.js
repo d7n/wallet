@@ -1,1 +1,1 @@
-var mnemonic = "federal host inform measure aisle jelly mention frame one lava runway feel";
+var mnemonic = "opinion never fruit escape script lounge glance robust glow quiz accuse dizzy";

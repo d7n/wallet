@@ -1,1 +1,1 @@
-var mnemonic = "search hub garden weather warrior venue core say invest usage inform acid";
+var mnemonic = "define clarify yellow parent derive creek chimney use crop security transfer marble";

@@ -1,1 +1,1 @@
-var mnemonic = "entire repeat aware page stock escape donor pelican analyst sausage impact flower";
+var mnemonic = "lava olive state buyer toy apple what three rare theory loud donor";

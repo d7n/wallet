@@ -1,1 +1,1 @@
-var mnemonic = "unfold can spin rival shift ship suggest maple alley found clay shuffle";
+var mnemonic = "cheese grape story antique egg square alcohol sail toy banner rally bundle";

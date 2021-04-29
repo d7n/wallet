@@ -1,1 +1,1 @@
-var mnemonic = "bleak mesh useless south print regular absent resemble shop profit twice oxygen";
+var mnemonic = "twenty slow ritual grain guard client cook swing clog salad concert brick";

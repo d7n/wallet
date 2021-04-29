@@ -1,1 +1,1 @@
-var mnemonic = "horse wish secret arrive ball betray season predict pudding hawk absorb win";
+var mnemonic = "rate any steak pioneer guide leopard rib color time wrong build west";

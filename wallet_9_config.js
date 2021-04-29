@@ -1,1 +1,1 @@
-var mnemonic = "radar warrior design boil drama dose umbrella injury scissors print digital nuclear";
+var mnemonic = "minute jazz dog impulse emotion trap century kingdom confirm obscure trial knock";

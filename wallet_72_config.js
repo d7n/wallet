@@ -1,1 +1,1 @@
-var mnemonic = "cover tank artefact cigar gap cycle horror baby pistol person pumpkin motion";
+var mnemonic = "kick again oyster cheese tennis vital learn juice toilet robot annual acquire";

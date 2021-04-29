@@ -1,1 +1,1 @@
-var mnemonic = "cross motion danger pizza milk whale faith sting pink mouse outside simple";
+var mnemonic = "artwork ceiling dentist umbrella spike chicken nerve animal token toddler day design";

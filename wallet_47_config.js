@@ -1,1 +1,1 @@
-var mnemonic = "frown release renew ice lazy resist song age excite boring foil purchase";
+var mnemonic = "angry catch arrow reflect defense economy once lion alley behave crack beyond";

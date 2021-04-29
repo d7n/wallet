@@ -1,1 +1,1 @@
-var mnemonic = "eagle trip author harbor veteran problem cream delay boil pink abstract pioneer";
+var mnemonic = "bracket today dilemma test april weapon pluck sport attract bus magic hurt";

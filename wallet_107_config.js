@@ -1,1 +1,1 @@
-var mnemonic = "mix embark learn lady brush copper fox denial economy defense bus pumpkin";
+var mnemonic = "sick unfold helmet owner once famous unable battle top visual obtain drop";

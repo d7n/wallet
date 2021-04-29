@@ -1,1 +1,1 @@
-var mnemonic = "table defy huge radio glare minor warm segment garlic knee fly athlete";
+var mnemonic = "one winner expose wrestle forward indoor ticket evil host elegant person output";

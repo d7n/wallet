@@ -1,1 +1,1 @@
-var mnemonic = "topic round traffic mansion birth raw mad season barely genre tube wish";
+var mnemonic = "quit anxiety dust find box spell spread lemon gaze wasp creek fiber";

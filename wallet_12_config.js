@@ -1,1 +1,1 @@
-var mnemonic = "author giraffe float opinion wood evidence business ecology denial mimic exact lion";
+var mnemonic = "path real hover salad man island slush repair teach net tennis column";

@@ -1,1 +1,1 @@
-var mnemonic = "champion half iron sort pumpkin mesh school buzz cram same dilemma endless";
+var mnemonic = "naive genius pioneer glass replace width elbow sport jeans consider two boring";

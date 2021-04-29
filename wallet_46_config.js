@@ -1,1 +1,1 @@
-var mnemonic = "fee cushion valve stem symptom forest three smooth firm basket what apart";
+var mnemonic = "sudden bronze final reopen soccer ridge short father wreck pause used smart";

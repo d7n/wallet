@@ -1,1 +1,1 @@
-var mnemonic = "neglect wait hole perfect situate hover render lady divide giraffe else tuition";
+var mnemonic = "cheap demise fall east choose because rebuild cheese truly there artefact poverty";

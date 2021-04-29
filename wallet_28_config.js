@@ -1,1 +1,1 @@
-var mnemonic = "scrub exile fall avocado brick special pizza trophy lucky brother siege panel";
+var mnemonic = "hazard embody flush bright poem replace good slam door dress stage merge";

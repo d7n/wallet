@@ -1,1 +1,1 @@
-var mnemonic = "clock must lunch expect blouse fetch acquire era response piano isolate illegal";
+var mnemonic = "hope affair promote van lyrics wheel twelve book crawl safe clown have";

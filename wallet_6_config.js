@@ -1,1 +1,1 @@
-var mnemonic = "swim safe sleep window sell churn idle sausage vanish engage banner broom";
+var mnemonic = "position truth group clump stadium useless belt apple that lunar title wool";

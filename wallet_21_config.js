@@ -1,1 +1,1 @@
-var mnemonic = "alley potato gossip salad thing rug hold witness very sand increase accident";
+var mnemonic = "voice volcano melody lunar cover glory burst pluck gold library hold define";

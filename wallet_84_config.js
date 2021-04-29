@@ -1,1 +1,1 @@
-var mnemonic = "crop ketchup spray text script oyster dragon coach nasty carbon creek autumn";
+var mnemonic = "future uphold hub half anchor foot knock piece left december else purchase";

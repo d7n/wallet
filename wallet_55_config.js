@@ -1,1 +1,1 @@
-var mnemonic = "cannon science okay dignity lazy news chase merge faith spare delay card";
+var mnemonic = "kiwi drive odor reduce tail scare evolve noble world bread sleep side";

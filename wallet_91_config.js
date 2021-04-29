@@ -1,1 +1,1 @@
-var mnemonic = "they radar lady eternal save cupboard hat garage child mail ceiling pond";
+var mnemonic = "always fat tomato friend merge balance exhibit feed valid physical first garment";

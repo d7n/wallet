@@ -1,1 +1,1 @@
-var mnemonic = "attend jeans dizzy suggest fiction used fault beauty cliff float fossil animal";
+var mnemonic = "enact vacuum supreme desert ball harvest enhance lottery flush early response pig";

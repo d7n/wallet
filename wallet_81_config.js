@@ -1,1 +1,1 @@
-var mnemonic = "into culture latin marriage music dismiss never execute ramp carbon uphold effort";
+var mnemonic = "circle flower satisfy amused mixture parrot pride vast volume fancy card seven";

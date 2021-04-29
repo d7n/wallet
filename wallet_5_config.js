@@ -1,1 +1,1 @@
-var mnemonic = "almost trim spend relief seven horn tool luggage vocal second survey wink";
+var mnemonic = "bright plate hundred weird van nasty credit attend street sword misery about";

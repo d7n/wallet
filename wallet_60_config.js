@@ -1,1 +1,1 @@
-var mnemonic = "upon swamp blind amused camera uncle cube market dad congress mom wish";
+var mnemonic = "squeeze badge oven recipe weather ramp word spell limb exile oven bullet";

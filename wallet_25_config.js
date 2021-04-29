@@ -1,1 +1,1 @@
-var mnemonic = "jelly sunny fruit explain under woman casino pass mixed under marine remain";
+var mnemonic = "mechanic cigar coyote soldier concert child wink human mango forest caution smart";

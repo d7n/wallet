@@ -1,1 +1,1 @@
-var mnemonic = "tourist umbrella auto moral meat note blush lunch chaos service paper ridge";
+var mnemonic = "joke noise sound burst cool grief jaguar between orient false thumb identify";

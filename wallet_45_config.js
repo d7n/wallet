@@ -1,1 +1,1 @@
-var mnemonic = "uniform trophy good hawk employ emotion history code merit choice ignore uphold";
+var mnemonic = "waste provide subject mass funny fury punch unveil embark giant glide banner";

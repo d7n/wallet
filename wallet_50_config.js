@@ -1,1 +1,1 @@
-var mnemonic = "add marriage benefit endless luggage sail camp close slab dentist logic unfold";
+var mnemonic = "topple crucial abandon lend shop around strike clarify chimney fork spring mutual";

@@ -1,1 +1,1 @@
-var mnemonic = "online volume scare element wise display melt custom cube cake together just";
+var mnemonic = "vote force chimney quiz rural broken tree error pepper general practice patch";

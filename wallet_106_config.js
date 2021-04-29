@@ -1,1 +1,1 @@
-var mnemonic = "prosper regular ignore leisure forum mobile actor ask reflect allow birth recall";
+var mnemonic = "smoke swap estate invest cargo still help firm wide web increase quality";

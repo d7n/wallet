@@ -1,1 +1,1 @@
-var mnemonic = "enforce polar merit giggle fatigue exhaust project mountain scout portion person embody";
+var mnemonic = "balcony banner youth garbage situate feel tiger summer other stamp dream grab";
