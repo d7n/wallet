@@ -1,1 +1,1 @@
-var mnemonic = "media nose hockey budget food easy outer ginger protect salad start duck";
+var mnemonic = "zero kiwi glory april section tell settle system fatigue penalty ask mobile";

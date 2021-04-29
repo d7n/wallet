@@ -1,1 +1,1 @@
-var mnemonic = "horse pistol brass token inspire body change wagon pelican catalog artist note";
+var mnemonic = "lock exhibit lend easily brick vicious auto fever crowd evoke despair goat";

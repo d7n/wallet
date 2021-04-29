@@ -1,1 +1,1 @@
-var mnemonic = "cushion camp behind visit eagle library erupt fluid age youth stick skate";
+var mnemonic = "fashion mystery reject ripple sick ugly number dumb flee remain rotate random";

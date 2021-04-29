@@ -1,1 +1,1 @@
-var mnemonic = "fame word antique soap myself fork feel outer affair neck meadow kite";
+var mnemonic = "useful grow spot innocent start carpet worth husband opinion vehicle rare carry";

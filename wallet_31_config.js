@@ -1,1 +1,1 @@
-var mnemonic = "derive guitar fat relax toddler test swear orient identify blossom sail crunch";
+var mnemonic = "goose roof legend thing avocado muscle remove kiwi core exotic phrase knife";

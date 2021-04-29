@@ -1,1 +1,1 @@
-var mnemonic = "figure enlist any open night now maze short clog sand robust edit";
+var mnemonic = "sick fame crisp cabbage leg mixture valley lava focus nasty crystal column";

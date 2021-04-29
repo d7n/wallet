@@ -1,1 +1,1 @@
-var mnemonic = "van vacant truth volume jungle tooth parent junk zero dice float route";
+var mnemonic = "fortune network fly stone pave parent poem range tell ivory shallow whisper";

@@ -1,1 +1,1 @@
-var mnemonic = "jewel involve stairs kick glance shop smooth bottom axis laundry track myself";
+var mnemonic = "legal foil culture test fabric cable symptom object eight energy mask digital";

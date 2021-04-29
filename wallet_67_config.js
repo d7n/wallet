@@ -1,1 +1,1 @@
-var mnemonic = "circle federal stage obvious ski current rival hammer abuse thank tribe enemy";
+var mnemonic = "joke behind gauge face hope rather news unknown lady busy strong practice";

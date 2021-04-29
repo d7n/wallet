@@ -1,1 +1,1 @@
-var mnemonic = "puzzle sheriff dragon source have agree tuna gas cruel farm slice tobacco";
+var mnemonic = "wealth series chimney math brief hood injury truck change gap ill glance";

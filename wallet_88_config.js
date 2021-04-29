@@ -1,1 +1,1 @@
-var mnemonic = "tube mirror token mirror such pattern tackle winter decline reject leaf velvet";
+var mnemonic = "pact letter sword table cost board print tuna mimic kick razor fish";

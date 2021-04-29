@@ -1,1 +1,1 @@
-var mnemonic = "govern bring trap coyote flower wolf dish develop trip token gold volume";
+var mnemonic = "elbow giraffe idle ethics shoot tool sadness crop sound mother luggage wrist";

@@ -1,1 +1,1 @@
-var mnemonic = "climb play camp resist gentle artefact cushion donate depth raccoon deposit rug";
+var mnemonic = "engage dash truly exchange liberty whisper message artist prize mammal celery carbon";

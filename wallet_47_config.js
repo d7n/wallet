@@ -1,1 +1,1 @@
-var mnemonic = "topple grief mean fat feature fruit fatal install hip mimic elevator million";
+var mnemonic = "outdoor age pilot cotton stadium feature boy main net mixture place humor";

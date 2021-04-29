@@ -1,1 +1,1 @@
-var mnemonic = "head blush pet hunt female illegal theme issue betray near safe beauty";
+var mnemonic = "minor crouch mouse behind crucial laugh glow vicious ill harvest metal nephew";

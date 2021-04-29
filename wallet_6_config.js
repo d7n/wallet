@@ -1,1 +1,1 @@
-var mnemonic = "analyst behind kiwi scene enforce monkey deer enact wheat grief universe clock";
+var mnemonic = "rent income spin card wonder super audit tissue wealth cook dice mountain";

@@ -1,1 +1,1 @@
-var mnemonic = "marble noble juice trade entry work parrot thumb relax demand install weapon";
+var mnemonic = "harvest season fence maple few shaft engage hotel load approve victory chef";

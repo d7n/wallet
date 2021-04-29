@@ -1,1 +1,1 @@
-var mnemonic = "size crucial jealous cage sock oxygen boost whip brain coil party message";
+var mnemonic = "matrix illegal weather dentist toddler extra mutual dune next deliver solution echo";

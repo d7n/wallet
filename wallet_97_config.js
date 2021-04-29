@@ -1,1 +1,1 @@
-var mnemonic = "couple gauge alarm parrot bar art need main local festival actual enroll";
+var mnemonic = "journey acquire apple sea below design pear tone budget detect camera easy";

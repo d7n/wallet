@@ -1,1 +1,1 @@
-var mnemonic = "monkey expire volcano tumble explain mobile forest fresh raccoon quote gravity immense";
+var mnemonic = "omit spice error measure absorb lonely hen feel favorite present ticket fashion";

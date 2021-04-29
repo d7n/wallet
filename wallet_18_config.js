@@ -1,1 +1,1 @@
-var mnemonic = "envelope present grief alien crash primary panic rifle cinnamon point remove cushion";
+var mnemonic = "during surprise phone twin dignity have drip chaos baby observe reunion current";

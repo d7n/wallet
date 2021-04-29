@@ -1,1 +1,1 @@
-var mnemonic = "panther write erode hill world candy smoke globe hello festival scissors unique";
+var mnemonic = "donor spike tiny multiply reduce siren phone brush asset decorate isolate update";

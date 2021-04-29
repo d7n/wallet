@@ -1,1 +1,1 @@
-var mnemonic = "awful pink chase grain loud radio elegant blur coral appear cloud silly";
+var mnemonic = "beyond ancient join join reform pigeon update differ unveil reopen snack logic";

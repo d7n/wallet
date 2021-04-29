@@ -1,1 +1,1 @@
-var mnemonic = "speed ostrich case oak side govern language buddy degree clay nephew tray";
+var mnemonic = "habit offer tank tenant example pole camera worth wheel beyond diesel process";

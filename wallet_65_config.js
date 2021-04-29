@@ -1,1 +1,1 @@
-var mnemonic = "base clip wise ribbon asset state tiger solar gaze wonder pill text";
+var mnemonic = "saddle speak angry nose smart mosquito rail obey super scene obscure usage";

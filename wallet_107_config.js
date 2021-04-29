@@ -1,1 +1,1 @@
-var mnemonic = "trigger cereal network boy priority explain laptop clock skin naive arch net";
+var mnemonic = "rigid piece perfect guitar decide home bridge approve force license coffee finish";

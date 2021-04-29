@@ -1,1 +1,1 @@
-var mnemonic = "purpose absent silly sing slice uphold fringe risk pink income upper scene";
+var mnemonic = "recycle wet reject rifle combine immense rebuild dumb fall avoid room recipe";

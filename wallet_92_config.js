@@ -1,1 +1,1 @@
-var mnemonic = "thrive foster gravity drive result fault bag spare renew planet board supreme";
+var mnemonic = "slot empty demise before stamp disorder another gauge tennis poverty bounce clever";

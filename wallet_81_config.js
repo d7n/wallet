@@ -1,1 +1,1 @@
-var mnemonic = "finish glare beauty purpose length romance aunt best crack rubber shoot night";
+var mnemonic = "odor across search flash primary program trial bundle panic toast stable dynamic";

@@ -1,1 +1,1 @@
-var mnemonic = "suggest collect cannon fault ahead wealth reform obvious dignity pepper episode calm";
+var mnemonic = "share script festival goat casino warrior live chuckle tiger jump camera razor";

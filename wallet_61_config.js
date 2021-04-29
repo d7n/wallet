@@ -1,1 +1,1 @@
-var mnemonic = "father birth syrup grit coin off medal oppose like duck weird rack";
+var mnemonic = "swamp magnet faculty become day agree waste reveal gloom drum poverty enrich";

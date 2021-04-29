@@ -1,1 +1,1 @@
-var mnemonic = "circle blossom cool belt aerobic scene seven cage acoustic ranch vague better";
+var mnemonic = "task regret attract kidney canyon ice series stairs enroll guess broccoli box";

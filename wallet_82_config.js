@@ -1,1 +1,1 @@
-var mnemonic = "parent claim screen crane topic corn lens negative broccoli father enough scare";
+var mnemonic = "evil game pilot throw parade test build color vivid learn chuckle curtain";

@@ -1,1 +1,1 @@
-var mnemonic = "shrug pumpkin ridge motion patch brown melody famous general unveil visit fever";
+var mnemonic = "caution near term force depend blame attract science maze trip aware purse";

@@ -1,1 +1,1 @@
-var mnemonic = "image base search become leisure scare taste output arrest into cinnamon lunar";
+var mnemonic = "museum digital siege grape young fashion settle bacon addict occur animal misery";

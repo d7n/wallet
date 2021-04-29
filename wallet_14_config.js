@@ -1,1 +1,1 @@
-var mnemonic = "shrimp brain feed coral crazy setup worry hair oxygen lizard execute attend";
+var mnemonic = "ribbon cactus shift foot zebra dry drip regret hidden bleak shock sail";

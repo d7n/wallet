@@ -1,1 +1,1 @@
-var mnemonic = "coach popular clog supreme require fitness pride riot enable involve remember gather";
+var mnemonic = "menu audit demise dumb initial shove alert nasty diamond canvas exist village";

@@ -1,1 +1,1 @@
-var mnemonic = "taxi whale climb advance toast enjoy gasp puzzle super kiss theme culture";
+var mnemonic = "antenna when item light achieve resource syrup glow garment more toss differ";

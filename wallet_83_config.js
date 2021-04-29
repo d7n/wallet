@@ -1,1 +1,1 @@
-var mnemonic = "orphan lift idea crowd question absent virtual walnut tiny post capable rain";
+var mnemonic = "lake certain shed lyrics equip sense cotton cousin local engine hour body";

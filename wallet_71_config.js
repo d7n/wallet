@@ -1,1 +1,1 @@
-var mnemonic = "text lyrics lava endorse comfort exclude section feel flash boring scrub syrup";
+var mnemonic = "dawn remove express reject pig shy random monitor recycle veteran diet finish";

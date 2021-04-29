@@ -1,1 +1,1 @@
-var mnemonic = "super rabbit friend expose arctic earn scatter unaware drum liberty jungle legend";
+var mnemonic = "duty candy violin buffalo bless later lift winner often imitate evil sweet";

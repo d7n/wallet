@@ -1,1 +1,1 @@
-var mnemonic = "people museum trade indicate copy off moon noble either bike baby crater";
+var mnemonic = "obvious radio wear relax radio couch wage prefer range cabin random defy";

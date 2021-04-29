@@ -1,1 +1,1 @@
-var mnemonic = "ranch ring clay unique write dad hint abandon together inflict dismiss coyote";
+var mnemonic = "theme that cancel train claw cherry profit unusual buffalo mobile letter card";

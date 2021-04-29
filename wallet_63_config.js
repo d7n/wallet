@@ -1,1 +1,1 @@
-var mnemonic = "image cupboard consider invest paper produce used square drip lake fit found";
+var mnemonic = "near typical gun host elephant maximum action prize witness vocal nice payment";

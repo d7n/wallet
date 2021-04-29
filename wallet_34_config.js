@@ -1,1 +1,1 @@
-var mnemonic = "coconut scare rifle lab sphere emerge emerge heart photo example party energy";
+var mnemonic = "tide visual ranch perfect river into recycle pluck merge what boil upset";

@@ -1,1 +1,1 @@
-var mnemonic = "scare ostrich health armor solid knock pact air antenna gate mass program";
+var mnemonic = "image glide catalog isolate echo raccoon dwarf kidney ranch raw drip lend";

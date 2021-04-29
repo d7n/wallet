@@ -1,1 +1,1 @@
-var mnemonic = "torch edge inquiry hurdle wolf stick gown one abuse earn tone already";
+var mnemonic = "bar bus forward proof glove net render monster pave buyer dolphin meat";

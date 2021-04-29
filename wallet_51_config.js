@@ -1,1 +1,1 @@
-var mnemonic = "wheat reason envelope primary theory lamp olive case later program news two";
+var mnemonic = "clown sock afford slab garlic soap drive wink oven north liberty search";

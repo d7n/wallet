@@ -1,1 +1,1 @@
-var mnemonic = "finish toast minimum only giggle expand artwork horror vendor come secret cigar";
+var mnemonic = "wrong crazy letter father elevator super vivid since torch gossip skill roast";

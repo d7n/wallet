@@ -1,1 +1,1 @@
-var mnemonic = "vital cage march glare relax medal distance cool run surprise fortune crane";
+var mnemonic = "guide six exile wheel december tilt north sadness rough bottom garage pass";

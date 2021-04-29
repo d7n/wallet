@@ -1,1 +1,1 @@
-var mnemonic = "wild kitten umbrella crowd scorpion enable explain loud reject cigar antique deal";
+var mnemonic = "pipe raise resist reveal gown immense trim melt wood circle peace ball";

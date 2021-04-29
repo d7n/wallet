@@ -1,1 +1,1 @@
-var mnemonic = "dizzy merit staff melt divert merry bullet shove galaxy spice oak pistol";
+var mnemonic = "elbow speak camp position salmon wrestle drop this giggle hold budget bone";

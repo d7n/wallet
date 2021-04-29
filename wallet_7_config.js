@@ -1,1 +1,1 @@
-var mnemonic = "rookie wolf jungle dream pond struggle narrow float split inside rose sick";
+var mnemonic = "dinosaur lab crisp chair hole glance spirit tooth soccer annual hedgehog innocent";

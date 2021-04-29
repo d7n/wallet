@@ -1,1 +1,1 @@
-var mnemonic = "render fork east business wave double ivory trade history reopen inside lake";
+var mnemonic = "hundred other giant hire truth slice city sheriff attitude pelican tooth build";

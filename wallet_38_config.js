@@ -1,1 +1,1 @@
-var mnemonic = "creek surround era slogan boat shadow sick island utility draft chalk deal";
+var mnemonic = "jazz green tent market keen someone market brave alpha fabric gold thing";

@@ -1,1 +1,1 @@
-var mnemonic = "fun sudden elbow hazard skirt loud leader gentle craft manual apple boil";
+var mnemonic = "old pencil boat dentist main call please large luxury legend loop used";

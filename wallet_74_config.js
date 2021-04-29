@@ -1,1 +1,1 @@
-var mnemonic = "feature hurry float obey master ice weapon purpose human valid avoid clip";
+var mnemonic = "chief assault castle dice into lunar grass craft early direct latin flat";

@@ -1,1 +1,1 @@
-var mnemonic = "sunny antenna talent inflict salon flame kick column ship huge explain sniff";
+var mnemonic = "gown original option social bid smile brush depart absorb drift valid key";

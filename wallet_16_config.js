@@ -1,1 +1,1 @@
-var mnemonic = "stairs toddler warm convince protect rookie angry upset thing bomb crater history";
+var mnemonic = "lava laptop kite egg goddess forward patrol walk cute strategy force symbol";

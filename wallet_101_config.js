@@ -1,1 +1,1 @@
-var mnemonic = "birth east load radio globe laundry goat theme want lyrics agree adapt";
+var mnemonic = "purpose digital behind strategy chat surround stock sad trash void aisle bid";

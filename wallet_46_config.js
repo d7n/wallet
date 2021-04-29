@@ -1,1 +1,1 @@
-var mnemonic = "traffic buffalo eagle vocal ski collect clinic pink unique throw group pool";
+var mnemonic = "pyramid elder reopen piece daring fever awesome oyster rack oval salad jeans";

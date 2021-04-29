@@ -1,1 +1,1 @@
-var mnemonic = "spray time lobster purity matrix monkey output unknown seed matter option lumber";
+var mnemonic = "area oppose easily fiction waste enlist damage essence acquire romance useless other";

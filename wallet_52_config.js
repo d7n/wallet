@@ -1,1 +1,1 @@
-var mnemonic = "hawk give furnace tomato curve dwarf cart volume gap height force february";
+var mnemonic = "spend web hurdle trouble salmon midnight seminar nothing moment parade calm cabin";

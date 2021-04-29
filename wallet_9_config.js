@@ -1,1 +1,1 @@
-var mnemonic = "steak vendor claw feel mutual adult moral rally steak speed year relax";
+var mnemonic = "decade cheap garden myself kick same woman force ski allow adjust crunch";

@@ -1,1 +1,1 @@
-var mnemonic = "expose often grape memory romance addict tree leopard mansion reflect mad addict";
+var mnemonic = "apple theory shine install borrow program note include absurd book october just";

@@ -1,1 +1,1 @@
-var mnemonic = "security gossip amount alone leader reject trend program any furnace myth tag";
+var mnemonic = "ignore deny useful boil slot office ride tragic then tuna have submit";

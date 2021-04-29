@@ -1,1 +1,1 @@
-var mnemonic = "detail mosquito palm easy more wine mutual wave nice silk awake robot";
+var mnemonic = "tunnel quiz leopard cart any pool frame riot candy blouse unusual napkin";

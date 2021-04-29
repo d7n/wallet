@@ -1,1 +1,1 @@
-var mnemonic = "sister age protect flight alpha aspect prefer shield main victory lesson family";
+var mnemonic = "artefact this license smart inside once tunnel capable bonus solar sudden income";

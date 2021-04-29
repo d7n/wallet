@@ -1,1 +1,1 @@
-var mnemonic = "ancient open envelope boat idea ozone expand fashion april layer zoo arrive";
+var mnemonic = "because axis exhibit carry potato flame sword traffic vague diet odor oak";

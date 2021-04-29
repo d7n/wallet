@@ -1,1 +1,1 @@
-var mnemonic = "ginger stereo agent rigid village jacket special tail original crime north renew";
+var mnemonic = "steak inflict quarter mansion fruit pistol million install misery spider emerge dad";

@@ -1,1 +1,1 @@
-var mnemonic = "company legal lazy vague produce smile more notable crew next arctic stand";
+var mnemonic = "submit razor frame measure food hazard expect party raw cancel grit section";

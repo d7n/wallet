@@ -1,1 +1,1 @@
-var mnemonic = "horse expire glue father find brisk tide unlock tag yellow obscure fire";
+var mnemonic = "traffic offer polar weekend stock split flat better divert siren update push";

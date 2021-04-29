@@ -1,1 +1,1 @@
-var mnemonic = "tank first buddy victory review lazy cool diamond mirror crash celery glance";
+var mnemonic = "enemy rhythm violin dream grass hybrid budget work siren student plastic flavor";

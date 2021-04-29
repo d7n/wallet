@@ -1,1 +1,1 @@
-var mnemonic = "walk actor leader turkey spoon casual volume wood nothing parade butter shoot";
+var mnemonic = "humor material glow frequent visit nest grass example surprise output celery used";

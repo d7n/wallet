@@ -1,1 +1,1 @@
-var mnemonic = "myth major blush clinic comfort speak wrist shiver welcome busy obvious age";
+var mnemonic = "clinic craft pet lucky scout bracket toast cave impulse update volume honey";

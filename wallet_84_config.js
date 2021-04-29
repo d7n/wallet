@@ -1,1 +1,1 @@
-var mnemonic = "claim powder type help range leaf acquire fancy hill volume recipe spin";
+var mnemonic = "pill direct believe reflect already enroll stool ocean raise guilt copy first";

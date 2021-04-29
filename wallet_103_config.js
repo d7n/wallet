@@ -1,1 +1,1 @@
-var mnemonic = "expand check future piano blade differ learn monkey pigeon near orchard space";
+var mnemonic = "rescue fame build fee skill father outside depend hunt pond silent shiver";

@@ -1,1 +1,1 @@
-var mnemonic = "require stumble iron balance version barely enter wait month annual save become";
+var mnemonic = "clarify impact fragile tomorrow lesson material praise wide render pepper shell fashion";

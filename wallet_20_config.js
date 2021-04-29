@@ -1,1 +1,1 @@
-var mnemonic = "range sketch rhythm arrive pepper disagree vicious dizzy width earth immune glue";
+var mnemonic = "clog trip tilt purity profit mistake clean disease reveal leisure remove text";

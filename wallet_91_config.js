@@ -1,1 +1,1 @@
-var mnemonic = "finish sugar during derive among organ cement behave omit domain auction price";
+var mnemonic = "debate rose treat eagle mystery magnet sketch food grant blush truly energy";

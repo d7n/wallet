@@ -1,1 +1,1 @@
-var mnemonic = "blade aim city account puzzle stumble marine photo square crunch advance frown";
+var mnemonic = "deliver vast payment enforce buyer craft clay warfare describe order goose erosion";

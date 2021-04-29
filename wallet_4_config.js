@@ -1,1 +1,1 @@
-var mnemonic = "expire soldier capital dragon term canyon tattoo annual unable direct access live";
+var mnemonic = "during flush present tape dad lake brave universe ticket voice stumble grace";

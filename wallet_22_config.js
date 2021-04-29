@@ -1,1 +1,1 @@
-var mnemonic = "transfer sail foot lonely soft visa amateur high unlock hello acid grab";
+var mnemonic = "canoe burst sense adapt banner apart word wide uncover later aisle weasel";

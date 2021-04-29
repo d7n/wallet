@@ -1,1 +1,1 @@
-var mnemonic = "harbor because mountain gun upon climb size hole coach wait bracket forum";
+var mnemonic = "vendor pass energy suspect ripple draw whip kitchen face easy rotate palace";

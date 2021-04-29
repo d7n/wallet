@@ -1,1 +1,1 @@
-var mnemonic = "quality explain person final sea scheme whisper south garden run educate chalk";
+var mnemonic = "pact zebra remember reduce tornado skill envelope gauge youth clip case behind";

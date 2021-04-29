@@ -1,1 +1,1 @@
-var mnemonic = "chair gown sponsor accident hawk crisp dragon draw movie mouse puppy put";
+var mnemonic = "orient fade butter ball nature episode together visit carry stereo jealous toward";
