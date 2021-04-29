@@ -1,1 +1,1 @@
-var mnemonic = "only price gesture monster west obvious reward enhance list bread radar mandate";
+var mnemonic = "recycle palace buddy public sort peasant slice brother quality range word hood";

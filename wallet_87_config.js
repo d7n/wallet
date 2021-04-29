@@ -1,1 +1,1 @@
-var mnemonic = "glare firm snack cruise utility patch claim jealous draft boring lawsuit siren";
+var mnemonic = "umbrella topple priority credit museum exotic clip stay click bread focus proof";

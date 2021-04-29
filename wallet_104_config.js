@@ -1,1 +1,1 @@
-var mnemonic = "code elegant renew obscure shine topic sausage hand spare enrich second gravity";
+var mnemonic = "carbon trouble mandate avoid sting horn board local maximum dog inspire cousin";

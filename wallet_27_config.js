@@ -1,1 +1,1 @@
-var mnemonic = "rain twice cruise awful guide club mutual mask unable poverty tent tissue";
+var mnemonic = "inmate wrist service tunnel post virtual drip blue sense lawn among breeze";

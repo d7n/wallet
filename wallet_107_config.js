@@ -1,1 +1,1 @@
-var mnemonic = "tornado income bargain toast view cereal curve buyer flash motion blast remain";
+var mnemonic = "click wood type require quantum flip impose weasel jacket dial enact nut";

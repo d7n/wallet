@@ -1,1 +1,1 @@
-var mnemonic = "basic upgrade ribbon novel obscure order other flower equip element divert credit";
+var mnemonic = "sun orbit eternal team armor vicious home pupil lizard final survey arrest";

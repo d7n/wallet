@@ -1,1 +1,1 @@
-var mnemonic = "wire vicious swim smooth fade protect hand endorse fabric uphold million indicate";
+var mnemonic = "program addict craft royal because open travel dose inject flower buddy hint";

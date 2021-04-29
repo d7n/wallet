@@ -1,1 +1,1 @@
-var mnemonic = "saddle differ okay clap add notice glove gown volcano crumble educate holiday";
+var mnemonic = "asset payment behave sister usage relax arrive match desert soldier vocal put";

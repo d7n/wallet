@@ -1,1 +1,1 @@
-var mnemonic = "property leave brick razor lyrics usage young host mixture stem method orange";
+var mnemonic = "symptom dash nothing else ugly hedgehog moral release across other uncover venture";

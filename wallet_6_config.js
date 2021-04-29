@@ -1,1 +1,1 @@
-var mnemonic = "apology uniform taste valve captain solar employ upper inner fragile reason trial";
+var mnemonic = "wild mother above lens token faith harvest double pipe dizzy mammal burst";

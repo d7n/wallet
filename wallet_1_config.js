@@ -1,1 +1,1 @@
-var mnemonic = "predict truth dragon coil evolve source smart cricket invest napkin blame latin";
+var mnemonic = "sense gate bless use gaze odor soul float nice panic loan suggest";

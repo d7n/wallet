@@ -1,1 +1,1 @@
-var mnemonic = "romance public merry hard toss filter estate donate olympic achieve sound erosion";
+var mnemonic = "pause earn dirt elder fabric observe balance sheriff wasp engage left rookie";

@@ -1,1 +1,1 @@
-var mnemonic = "flip lobster know always paddle raccoon matrix grief crime ability ring clay";
+var mnemonic = "camp salt essence point barrel deny athlete maze tent wasp butter spider";

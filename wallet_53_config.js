@@ -1,1 +1,1 @@
-var mnemonic = "laptop approve pretty utility obvious light legal they wear check glance gold";
+var mnemonic = "expose more test runway pause throw dust treat square congress garbage capable";

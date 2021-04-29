@@ -1,1 +1,1 @@
-var mnemonic = "way fever return only move offer tackle bunker decline butter village ginger";
+var mnemonic = "armed size sausage option tuition laugh trust pretty mother capable remove climb";

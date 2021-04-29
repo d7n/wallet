@@ -1,1 +1,1 @@
-var mnemonic = "achieve pond scrap salad price crop sentence obey snow arrange program stable";
+var mnemonic = "mushroom random normal negative matrix wave ladder raise celery proof bitter coyote";

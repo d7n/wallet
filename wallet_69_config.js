@@ -1,1 +1,1 @@
-var mnemonic = "husband antique income degree episode whale hundred sweet crowd give merit flight";
+var mnemonic = "assault crouch man produce scrub vague vibrant quarter flame wash enlist input";

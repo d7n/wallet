@@ -1,1 +1,1 @@
-var mnemonic = "tilt web miss inmate miracle develop unable toy whisper foot agent doll";
+var mnemonic = "fall mother finish sunny process away please boring actual draft raccoon above";

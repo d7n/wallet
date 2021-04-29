@@ -1,1 +1,1 @@
-var mnemonic = "scan still teach keen few garbage derive assist beach control explain denial";
+var mnemonic = "coffee sister they person humor stairs grass aware random sting mix attack";

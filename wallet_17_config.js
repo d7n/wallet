@@ -1,1 +1,1 @@
-var mnemonic = "switch card chef bus into input casual viable guilt budget giraffe harsh";
+var mnemonic = "obscure twin crane brother system bread tunnel shoe illegal dolphin cycle move";

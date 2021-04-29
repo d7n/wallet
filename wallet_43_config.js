@@ -1,1 +1,1 @@
-var mnemonic = "agree talk month scorpion fashion remind casino outdoor during program buyer camera";
+var mnemonic = "dust sting oven salt achieve yellow journey furnace august rate rebel shrug";

@@ -1,1 +1,1 @@
-var mnemonic = "comic hard exact youth note crisp friend magic amused doctor puppy decade";
+var mnemonic = "often wire team zone upper rough leisure arm rival mix gesture know";

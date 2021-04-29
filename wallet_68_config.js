@@ -1,1 +1,1 @@
-var mnemonic = "family eager boy monster sheriff among gold gun rhythm lawsuit sea fluid";
+var mnemonic = "blame bicycle hair saddle stone badge swing used tent exotic catalog chalk";

@@ -1,1 +1,1 @@
-var mnemonic = "few point foster blouse decline diet hope blur sand ketchup nose frozen";
+var mnemonic = "renew neutral spider circle adjust lawsuit patrol marine cake combine radar grunt";

@@ -1,1 +1,1 @@
-var mnemonic = "message despair attend marble setup leg creek syrup actual filter dice cover";
+var mnemonic = "soon female mango brick unusual black know glass gospel devote pony educate";

@@ -1,1 +1,1 @@
-var mnemonic = "second mind stairs wrestle finger tomorrow rebel warfare depend blind stuff negative";
+var mnemonic = "pulse argue derive hazard honey donor caught daring lemon noodle bag crisp";

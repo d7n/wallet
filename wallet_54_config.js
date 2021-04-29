@@ -1,1 +1,1 @@
-var mnemonic = "nasty truth wheat short bottom connect runway ethics gun exit amused clump";
+var mnemonic = "shine father text must leader fluid term believe shrug whale volume empower";

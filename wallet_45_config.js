@@ -1,1 +1,1 @@
-var mnemonic = "quit umbrella garage elegant electric stage column token spin roof wage under";
+var mnemonic = "trip water melt dilemma shuffle give employ budget surface feature anxiety error";

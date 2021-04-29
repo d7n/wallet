@@ -1,1 +1,1 @@
-var mnemonic = "symbol few response offer bounce virtual pyramid candy want foot sibling patch";
+var mnemonic = "water fantasy remain tackle picnic aunt quiz antique saddle miracle square awkward";

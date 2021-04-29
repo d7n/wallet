@@ -1,1 +1,1 @@
-var mnemonic = "vote slot enhance camera spice weird act carpet globe awake siege miracle";
+var mnemonic = "tip maid trigger tool hint dirt toilet utility orphan fun system print";

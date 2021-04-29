@@ -1,1 +1,1 @@
-var mnemonic = "improve snake gym whisper off uphold bright maple bean blade wide taxi";
+var mnemonic = "leisure film essay cry require dolphin note tooth fresh special hamster cliff";

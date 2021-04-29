@@ -1,1 +1,1 @@
-var mnemonic = "post shrug owner road pact shuffle firm develop liberty black dizzy minor";
+var mnemonic = "bundle lounge unveil need level flavor dad balcony rude crash thank mule";

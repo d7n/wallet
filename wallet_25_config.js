@@ -1,1 +1,1 @@
-var mnemonic = "extend need guard just hat fitness pilot absorb spot easy this silent";
+var mnemonic = "say shove gift grass type address stumble pen example essence abuse jeans";

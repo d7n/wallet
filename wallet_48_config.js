@@ -1,1 +1,1 @@
-var mnemonic = "unusual improve call artefact lunar loan call recycle advice inform device drop";
+var mnemonic = "junk narrow omit panic exotic media gown cement own gorilla neither switch";

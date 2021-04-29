@@ -1,1 +1,1 @@
-var mnemonic = "sweet above spring absurd analyst symbol trade lamp garbage roof there source";
+var mnemonic = "couple decide stone country hamster elephant fade access auction cool design deliver";

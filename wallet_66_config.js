@@ -1,1 +1,1 @@
-var mnemonic = "derive evoke long junior pizza there govern acquire grant era panther border";
+var mnemonic = "burger wise blame aerobic toy point airport soap lake unusual spin adult";

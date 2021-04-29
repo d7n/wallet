@@ -1,1 +1,1 @@
-var mnemonic = "crowd general slide credit message material future knee broken alert basic creek";
+var mnemonic = "embark always safe october race firm future cram small modify property brand";

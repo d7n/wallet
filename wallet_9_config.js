@@ -1,1 +1,1 @@
-var mnemonic = "walk shop agent diagram corn exhaust business cupboard label load prevent hand";
+var mnemonic = "river easy away bring shine shine bottom pave bounce behind maze grape";

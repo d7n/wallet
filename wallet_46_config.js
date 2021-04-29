@@ -1,1 +1,1 @@
-var mnemonic = "pulp coach topic next repeat core grit sauce teach cabbage pond moon";
+var mnemonic = "enforce bleak like rice weather page dance ranch vessel umbrella canyon electric";

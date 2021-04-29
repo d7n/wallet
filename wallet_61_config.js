@@ -1,1 +1,1 @@
-var mnemonic = "mixture maple strike degree garbage salute tackle design jealous across gesture valve";
+var mnemonic = "lake type valley pizza grant zero level leave endorse typical high soldier";

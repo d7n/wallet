@@ -1,1 +1,1 @@
-var mnemonic = "viable inmate dawn evolve rotate dynamic jazz dynamic hollow certain shift crumble";
+var mnemonic = "month pistol great regular tower neutral figure drop mechanic zoo yellow tonight";

@@ -1,1 +1,1 @@
-var mnemonic = "erode mass stove tooth forget measure worry media tornado palace hungry nut";
+var mnemonic = "clock basic pill essence daring lecture sword crucial common rough apart poet";

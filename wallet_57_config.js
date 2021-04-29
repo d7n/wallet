@@ -1,1 +1,1 @@
-var mnemonic = "depart upper blame goddess pink enemy one loop typical recycle current van";
+var mnemonic = "tackle fiber home rebel sure wedding pepper anger bar arctic love effort";

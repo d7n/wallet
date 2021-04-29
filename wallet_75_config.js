@@ -1,1 +1,1 @@
-var mnemonic = "execute error cupboard pear palm danger include virus unhappy swamp steel fantasy";
+var mnemonic = "proud thank agree film expect gift curious lock exhibit agent luggage voice";

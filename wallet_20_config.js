@@ -1,1 +1,1 @@
-var mnemonic = "sight inject blind average awkward mutual print tragic long various ozone session";
+var mnemonic = "tattoo session minimum genius meadow wreck parrot drift alarm thumb knock amount";

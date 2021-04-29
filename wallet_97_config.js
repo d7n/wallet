@@ -1,1 +1,1 @@
-var mnemonic = "palm wrap bargain quiz mesh crush toy share bottom seminar leaf minor";
+var mnemonic = "episode cushion modify chronic source alone message priority gather island monkey grit";

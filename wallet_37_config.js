@@ -1,1 +1,1 @@
-var mnemonic = "taste list insect swallow skirt seminar manual scheme bike mule evolve frame";
+var mnemonic = "develop process hamster squirrel resemble burden october neutral excess wolf prosper laptop";

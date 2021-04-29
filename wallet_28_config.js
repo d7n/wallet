@@ -1,1 +1,1 @@
-var mnemonic = "depart dish leisure crater buyer pig audit office bring funny arena style";
+var mnemonic = "mixed border brush wide together curtain goat pill farm diary embark shoe";

@@ -1,1 +1,1 @@
-var mnemonic = "fortune happy neutral mosquito thunder adult warm ceiling timber question honey gorilla";
+var mnemonic = "box casino nominee feed call bacon mind under tonight coral misery naive";

@@ -1,1 +1,1 @@
-var mnemonic = "float swing glad cloth calm caution horn deal state steel into fuel";
+var mnemonic = "city tip doctor rookie soda march economy extend shine lobster chapter rib";

@@ -1,1 +1,1 @@
-var mnemonic = "gain addict evidence diamond neck alcohol doctor step essay camp radar barely";
+var mnemonic = "cricket illegal hand carpet torch discover walnut evolve digital off option patient";

@@ -1,1 +1,1 @@
-var mnemonic = "point rebel sister snow strong seed term vast ice enact kind street";
+var mnemonic = "ten charge acid friend glide sea input husband error club live dry";

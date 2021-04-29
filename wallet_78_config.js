@@ -1,1 +1,1 @@
-var mnemonic = "talent stock reason envelope often flip sound present fee trick senior abandon";
+var mnemonic = "hand cactus amateur guide pave example fire cool slogan defy win spy";

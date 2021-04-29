@@ -1,1 +1,1 @@
-var mnemonic = "trip shell glow glory author barrel quick potato current heavy lab shell";
+var mnemonic = "solar drip zoo theme fault brush welcome field select motion pistol inspire";

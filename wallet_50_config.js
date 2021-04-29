@@ -1,1 +1,1 @@
-var mnemonic = "spy hotel share general must junior defy hard laugh tissue recipe test";
+var mnemonic = "welcome cake valley maid anchor antique example bird enrich type select slab";

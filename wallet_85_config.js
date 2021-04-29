@@ -1,1 +1,1 @@
-var mnemonic = "fog chair delay project tumble floor brush mother jump energy bless stem";
+var mnemonic = "beach pave goose fancy olympic usage identify figure tip answer retreat earth";

@@ -1,1 +1,1 @@
-var mnemonic = "time figure soup dress worry worry potato expose patrol town abuse cash";
+var mnemonic = "seed ill firm try glad ripple harsh head message cycle melody raven";

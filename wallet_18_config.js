@@ -1,1 +1,1 @@
-var mnemonic = "describe system tooth fashion merry pride media food object adapt canvas derive";
+var mnemonic = "cave book lyrics foster kick suspect south submit post energy chronic depend";

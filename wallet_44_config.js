@@ -1,1 +1,1 @@
-var mnemonic = "gorilla swing steak erode lonely dune render alter enrich chief oil question";
+var mnemonic = "question tenant hour purse hammer involve rocket nose tape duty owner other";

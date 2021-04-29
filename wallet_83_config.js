@@ -1,1 +1,1 @@
-var mnemonic = "aisle tag expire shift victory lion where cave matter bargain holiday beef";
+var mnemonic = "spare achieve brother glance wife tumble photo bracket happy patient tribe raven";

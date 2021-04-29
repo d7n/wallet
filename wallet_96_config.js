@@ -1,1 +1,1 @@
-var mnemonic = "mystery angle riot lecture charge beyond piece loyal faculty review random pretty";
+var mnemonic = "style assist almost check border decorate clock piece little cheap volcano express";

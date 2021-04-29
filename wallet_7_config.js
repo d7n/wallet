@@ -1,1 +1,1 @@
-var mnemonic = "caution remember buzz arm element accuse transfer size beyond undo emerge liberty";
+var mnemonic = "weapon muffin rescue hazard party laptop attend pause change cash grape empower";

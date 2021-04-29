@@ -1,1 +1,1 @@
-var mnemonic = "spoon electric wheel ritual room gas lottery frost goddess imitate stand shoe";
+var mnemonic = "pattern become tide nature catalog better despair annual nurse opinion arrange will";

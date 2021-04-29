@@ -1,1 +1,1 @@
-var mnemonic = "strike dove add such flavor knife shoe wisdom anger time ocean they";
+var mnemonic = "turtle kitchen avocado daring first weather item lucky civil seat twelve brass";

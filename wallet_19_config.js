@@ -1,1 +1,1 @@
-var mnemonic = "huge always measure blame siren emotion fish beach comfort circle true basic";
+var mnemonic = "you trade market review wrist train typical report duck tumble noise isolate";

@@ -1,1 +1,1 @@
-var mnemonic = "loyal scheme that omit fabric better window valley more lens panel west";
+var mnemonic = "sorry ugly fee movie outer frown rain travel often future pony copy";

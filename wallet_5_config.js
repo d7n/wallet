@@ -1,1 +1,1 @@
-var mnemonic = "that lava husband noble device mother health hero crater ancient kid scrap";
+var mnemonic = "urban north spare dismiss school nest pony ankle stove monster hill drill";

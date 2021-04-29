@@ -1,1 +1,1 @@
-var mnemonic = "eager mystery resist roast lawn faint choose yard deputy lava axis elbow";
+var mnemonic = "dog monkey depend mystery attend minor orphan wheat safe like suspect bike";

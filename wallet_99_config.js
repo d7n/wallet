@@ -1,1 +1,1 @@
-var mnemonic = "deputy yellow hurdle doctor accident forest mosquito story cliff identify salad other";
+var mnemonic = "security supreme surround guard club welcome vendor bean legend recall city scale";

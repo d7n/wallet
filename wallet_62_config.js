@@ -1,1 +1,1 @@
-var mnemonic = "degree aisle fence subway able key shrug scare claw fox public furnace";
+var mnemonic = "scene wall banana stairs ignore wreck keep style fall illness magic surprise";

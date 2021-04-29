@@ -1,1 +1,1 @@
-var mnemonic = "mosquito tuna gauge answer kiwi public there social veteran door broom fly";
+var mnemonic = "civil give total emerge trend helmet document chat must bomb ethics exclude";

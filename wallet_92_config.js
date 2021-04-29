@@ -1,1 +1,1 @@
-var mnemonic = "weird fly pause toss vintage coconut sibling fitness toward budget thought already";
+var mnemonic = "arrange mammal team boy net cream deliver suggest mango catch indicate lunch";

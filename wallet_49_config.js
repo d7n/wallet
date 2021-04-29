@@ -1,1 +1,1 @@
-var mnemonic = "inmate appear enact donkey coin tongue winter guide island this cloth sniff";
+var mnemonic = "fabric old average pyramid awful wing mistake fold nuclear kiss crystal sunset";

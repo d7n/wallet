@@ -1,1 +1,1 @@
-var mnemonic = "love horror end often reveal one jump enforce manage arrow tongue repeat";
+var mnemonic = "armor amount busy pride road arrest height priority south helmet resemble link";

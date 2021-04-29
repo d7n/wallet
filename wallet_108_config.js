@@ -1,1 +1,1 @@
-var mnemonic = "escape rescue wrong myself lift sheriff review hundred since fatigue unhappy peanut";
+var mnemonic = "cost cactus giggle desk output eager amused actress warfare letter energy industry";

@@ -1,1 +1,1 @@
-var mnemonic = "frost donate orange cigar welcome novel produce mean amount bread water early";
+var mnemonic = "young useful film know smooth orphan season material math curve tongue hat";

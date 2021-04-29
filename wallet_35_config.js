@@ -1,1 +1,1 @@
-var mnemonic = "address insane outside meadow mansion actor stand control frog keep hotel seat";
+var mnemonic = "elder check stock abandon gun radio recipe arrive desert extra what march";

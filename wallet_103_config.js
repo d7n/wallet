@@ -1,1 +1,1 @@
-var mnemonic = "final again staff spawn abstract word else situate goose follow critic asthma";
+var mnemonic = "fence father false riot keen resource cargo truth oval false dad price";

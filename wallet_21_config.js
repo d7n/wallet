@@ -1,1 +1,1 @@
-var mnemonic = "bag coast mesh yellow face knee entry broom cost message rotate absurd";
+var mnemonic = "blue vicious material fun gap call inquiry oil deliver pave adjust school";

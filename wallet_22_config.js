@@ -1,1 +1,1 @@
-var mnemonic = "proof vicious rule account cram wise always stuff virtual cable seminar clean";
+var mnemonic = "rack neck educate script antique surround grain success crush lava twelve dizzy";

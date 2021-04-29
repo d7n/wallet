@@ -1,1 +1,1 @@
-var mnemonic = "intact speed proud make hamster firm nurse bridge dress perfect profit receive";
+var mnemonic = "explain laundry timber menu oval mix mechanic praise define finger proud broccoli";

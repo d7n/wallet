@@ -1,1 +1,1 @@
-var mnemonic = "page lucky text fresh breeze impulse reform fatal art crew pelican wrist";
+var mnemonic = "bargain live crush style atom test grant car bright gauge point distance";

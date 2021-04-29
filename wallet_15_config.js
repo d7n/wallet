@@ -1,1 +1,1 @@
-var mnemonic = "muffin drastic zone sort pistol setup syrup amateur submit alone wasp often";
+var mnemonic = "consider doctor about balance risk trade install moon know vivid maximum nephew";

@@ -1,1 +1,1 @@
-var mnemonic = "bridge fee inner forget fame lunar course win lobster year kiss assume";
+var mnemonic = "aerobic fade ball ostrich gap duty equal clock supply company food wine";

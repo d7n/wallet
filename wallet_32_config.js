@@ -1,1 +1,1 @@
-var mnemonic = "calm only guitar avocado cook prefer reunion wild list salon gospel type";
+var mnemonic = "remove virus awkward useless valid science portion wise tongue skin congress lizard";

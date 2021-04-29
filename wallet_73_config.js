@@ -1,1 +1,1 @@
-var mnemonic = "cause stumble honey entire bomb pink goose buyer panda truth bless shy";
+var mnemonic = "easy fluid acid length steel dutch uphold wrestle bring occur inject loyal";

@@ -1,1 +1,1 @@
-var mnemonic = "above nominee flavor silent alcohol right layer surround girl frost claw rapid";
+var mnemonic = "legal dial silver brain merge chapter pigeon flash claw evoke slide toward";

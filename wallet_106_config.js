@@ -1,1 +1,1 @@
-var mnemonic = "jungle pony obey myth mask galaxy casual noise cluster clog point amateur";
+var mnemonic = "special switch vivid jelly like melody pizza wide kiss depart shoe daughter";

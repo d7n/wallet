@@ -1,1 +1,1 @@
-var mnemonic = "borrow title robust car love quantum giraffe letter cliff today cash palm";
+var mnemonic = "drift return bike alter innocent tunnel ozone adjust fresh typical document frequent";
