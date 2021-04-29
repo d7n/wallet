@@ -1,1 +1,1 @@
-var mnemonic = "renew rapid moon parrot garment work ribbon wheel keep dog tornado distance";
+var mnemonic = "network blouse radar portion earth success bracket hurt announce cattle service same";

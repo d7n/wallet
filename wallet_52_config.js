@@ -1,1 +1,1 @@
-var mnemonic = "notable elevator royal fashion suspect faint chuckle wrist brave roof truck truck";
+var mnemonic = "very card meadow remind unit garlic response embody auto foot recall glimpse";

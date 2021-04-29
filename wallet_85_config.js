@@ -1,1 +1,1 @@
-var mnemonic = "suit adult recipe enable build kangaroo dynamic mind zoo kingdom slam walnut";
+var mnemonic = "lottery build magic cat category symbol cry spell orient please reject moment";

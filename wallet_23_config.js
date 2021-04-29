@@ -1,1 +1,1 @@
-var mnemonic = "aerobic smile unfair round token capable sting faculty wrong replace glad keen";
+var mnemonic = "link luxury tissue supreme spirit paper sound layer swallow antique olympic butter";

@@ -1,1 +1,1 @@
-var mnemonic = "install hurt awkward logic awkward sadness knock keep raven sell path venue";
+var mnemonic = "coin reflect later final laugh avoid write subway property journey host improve";

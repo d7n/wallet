@@ -1,1 +1,1 @@
-var mnemonic = "size fish mutual ride body apple never wisdom pepper unfair beauty bicycle";
+var mnemonic = "swallow fiber main glare lobster hybrid mimic glue mutual verb budget day";

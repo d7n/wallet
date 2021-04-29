@@ -1,1 +1,1 @@
-var mnemonic = "alone mean lens stamp rely story material silk pencil amateur pride junk";
+var mnemonic = "cruel hire fitness ecology process upon little virtual such plate receive reduce";

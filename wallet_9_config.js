@@ -1,1 +1,1 @@
-var mnemonic = "portion lounge coin involve chest lawsuit eyebrow dizzy fiscal harvest raise owner";
+var mnemonic = "october trophy lawn sun grass year faculty host camp expand reward zoo";

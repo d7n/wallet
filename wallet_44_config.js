@@ -1,1 +1,1 @@
-var mnemonic = "scale glove husband turtle lock flight material meadow divorce movie misery world";
+var mnemonic = "captain dismiss pitch candy intact endorse buyer chicken bird clutch asset point";

@@ -1,1 +1,1 @@
-var mnemonic = "top junk biology elder ladder innocent hen happy spoil course climb time";
+var mnemonic = "eager chalk canvas thing state barrel chat trick afford stereo dinner grass";

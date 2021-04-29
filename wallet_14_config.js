@@ -1,1 +1,1 @@
-var mnemonic = "kid quit old dry maid six magic stove pool settle replace timber";
+var mnemonic = "pole produce novel garbage opera venue army gown apart upon aware increase";

@@ -1,1 +1,1 @@
-var mnemonic = "hidden nature jelly island secret viable ghost forum chunk business ensure inch";
+var mnemonic = "cable cereal lawsuit aerobic believe edit recipe social regular churn vague answer";

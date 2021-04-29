@@ -1,1 +1,1 @@
-var mnemonic = "reform tooth kite bonus debris grant option loud major crane attack clown";
+var mnemonic = "hollow useless famous vast ability junk luxury minor fiscal harbor try announce";

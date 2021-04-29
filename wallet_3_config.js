@@ -1,1 +1,1 @@
-var mnemonic = "maximum exist concert trick safe jelly lecture inherit monkey welcome orange explain";
+var mnemonic = "risk walnut thing toss avoid poverty guilt vivid wool library purchase pottery";

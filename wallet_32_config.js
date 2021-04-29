@@ -1,1 +1,1 @@
-var mnemonic = "own trap bone swim angry buddy state topple vanish build deputy crush";
+var mnemonic = "supreme combine electric wink popular omit shield casual initial danger economy wish";

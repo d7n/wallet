@@ -1,1 +1,1 @@
-var mnemonic = "scan cash gap federal buffalo main large tuition wild twelve ranch obvious";
+var mnemonic = "canyon rally afraid join gas wing fun police noble hen hair abandon";

@@ -1,1 +1,1 @@
-var mnemonic = "private faith crew laptop crumble real wealth future monkey agree combine bottom";
+var mnemonic = "aunt result rifle fiber inflict tide spell spin olympic buyer palm also";

@@ -1,1 +1,1 @@
-var mnemonic = "fluid female breeze gloom change layer loan skate ring silly host warm";
+var mnemonic = "stumble olympic outside little gloom effort october eternal napkin ability hard surge";

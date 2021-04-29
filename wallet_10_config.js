@@ -1,1 +1,1 @@
-var mnemonic = "conduct target thing village minimum permit elite airport reunion grain lady mind";
+var mnemonic = "reunion column mushroom shop monster quarter craft furnace calm detail photo margin";

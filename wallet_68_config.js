@@ -1,1 +1,1 @@
-var mnemonic = "muscle antenna flat february witness error cricket limit upper letter point area";
+var mnemonic = "blush bundle engage void receive stumble lunch subway exhibit thumb blood canyon";

@@ -1,1 +1,1 @@
-var mnemonic = "spend rapid copy lizard they vanish gym odor segment woman close alpha";
+var mnemonic = "suit coffee area hidden nice smoke maximum oppose tortoise market success song";

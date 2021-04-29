@@ -1,1 +1,1 @@
-var mnemonic = "install ketchup crush rifle lock question december word spot elevator flat aerobic";
+var mnemonic = "frame recycle asset round album field virus maze pill grid strategy tube";

@@ -1,1 +1,1 @@
-var mnemonic = "ginger beauty betray suspect wagon cycle current there universe injury weapon nose";
+var mnemonic = "ozone rival cherry art fever wood health jazz tumble slice drop display";

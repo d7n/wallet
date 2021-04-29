@@ -1,1 +1,1 @@
-var mnemonic = "wrist check jealous outer drive develop response aim grid between general escape";
+var mnemonic = "mail inner crisp link strike frequent frown oil aerobic valley exchange best";

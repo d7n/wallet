@@ -1,1 +1,1 @@
-var mnemonic = "spell more barely kick detect glow tiger silent open spring speak cherry";
+var mnemonic = "memory stadium demise record lottery grit people allow enemy expose pave jaguar";

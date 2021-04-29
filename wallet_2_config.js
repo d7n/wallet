@@ -1,1 +1,1 @@
-var mnemonic = "soda ladder envelope comic idea pulp penalty dinosaur jeans enforce man network";
+var mnemonic = "orbit uniform page asthma century task popular dog distance bird afraid dish";

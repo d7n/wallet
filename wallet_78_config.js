@@ -1,1 +1,1 @@
-var mnemonic = "unaware slot aerobic resemble voice endorse chef column daughter van wasp bind";
+var mnemonic = "mansion step latin behind dismiss arctic kitten clarify kitchen inherit chalk grace";

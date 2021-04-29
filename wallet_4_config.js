@@ -1,1 +1,1 @@
-var mnemonic = "bomb hip stand bomb twist script cook gloom gold buddy same pool";
+var mnemonic = "match hope artefact normal balance hair tribe company renew wall pumpkin color";

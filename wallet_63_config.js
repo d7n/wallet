@@ -1,1 +1,1 @@
-var mnemonic = "forum idea check offer sick van aisle gloom festival ankle method record";
+var mnemonic = "clerk giraffe vague space planet obscure voice paper carry cluster finish model";

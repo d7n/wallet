@@ -1,1 +1,1 @@
-var mnemonic = "animal man demand climb gorilla isolate champion draw cram snack ride luxury";
+var mnemonic = "large lock giant ship traffic dash gift design ancient front depart goddess";

@@ -1,1 +1,1 @@
-var mnemonic = "episode melody easy lake budget garlic nuclear olympic various neutral wait lemon";
+var mnemonic = "dragon notice hand federal accuse perfect flat combine sketch innocent prepare own";

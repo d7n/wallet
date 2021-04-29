@@ -1,1 +1,1 @@
-var mnemonic = "fun brush onion sword advice heavy execute betray believe grass flip dwarf";
+var mnemonic = "rib ten dragon double picture mirror smooth filter situate notice improve rebel";

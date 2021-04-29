@@ -1,1 +1,1 @@
-var mnemonic = "gauge harsh fragile drive when adjust plastic pepper memory evil echo erupt";
+var mnemonic = "front expand always say act team patrol emerge group diagram absurd slow";

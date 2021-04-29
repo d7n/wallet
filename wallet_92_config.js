@@ -1,1 +1,1 @@
-var mnemonic = "tiny grab define media tent follow perfect shiver disease morning fold off";
+var mnemonic = "scorpion shove sense neglect young drop system bunker primary damp unable sphere";

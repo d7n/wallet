@@ -1,1 +1,1 @@
-var mnemonic = "clown brand beef bubble because property project wear eyebrow leader old tenant";
+var mnemonic = "amateur pave cloud aspect olive weapon desk uphold conduct turn poem crush";

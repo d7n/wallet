@@ -1,1 +1,1 @@
-var mnemonic = "fuel marine wire protect flag mountain gentle perfect stay burst trap record";
+var mnemonic = "truth honey delay dream myth anxiety wild legal coconut fork nuclear current";

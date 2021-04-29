@@ -1,1 +1,1 @@
-var mnemonic = "trash squeeze avoid ginger egg siren equip pigeon boil sauce course together";
+var mnemonic = "unveil hour journey alpha shine target upper bleak other unfold grace claw";

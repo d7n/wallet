@@ -1,1 +1,1 @@
-var mnemonic = "mix scene judge pause oil ice horse river cliff test stick avocado";
+var mnemonic = "sea two february crystal best figure coin level bench face coil bridge";

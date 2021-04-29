@@ -1,1 +1,1 @@
-var mnemonic = "tip nominee settle monster author noble layer jealous powder chimney fashion point";
+var mnemonic = "earth vital solution baby wood loan grow virtual monkey pizza cycle grocery";

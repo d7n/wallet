@@ -1,1 +1,1 @@
-var mnemonic = "park animal waste army merry seminar grief penalty man control slice business";
+var mnemonic = "loud casual receive laugh universe draft march genius model bone carry fox";

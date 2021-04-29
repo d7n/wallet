@@ -1,1 +1,1 @@
-var mnemonic = "universe water pull stage scrap fix mountain method venture marine certain poverty";
+var mnemonic = "craft grief warfare blush short margin slam vacant rely theme candy major";

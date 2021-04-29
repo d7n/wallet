@@ -1,1 +1,1 @@
-var mnemonic = "supreme evolve affair usual repair left shift lemon result ability recipe antique";
+var mnemonic = "squirrel usual jeans battle wish strike salon plunge flavor staff obvious siege";

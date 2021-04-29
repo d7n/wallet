@@ -1,1 +1,1 @@
-var mnemonic = "lizard wool tackle duty protect shrug curtain grocery unveil dial foil illness";
+var mnemonic = "enact man custom dirt sing jar turn access media keep runway photo";

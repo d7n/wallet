@@ -1,1 +1,1 @@
-var mnemonic = "roast salon slam fat law route hammer salon rude sail long diary";
+var mnemonic = "below fantasy knife spell warfare crawl garlic ecology banana clerk train become";

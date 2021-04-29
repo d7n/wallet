@@ -1,1 +1,1 @@
-var mnemonic = "float cruel crater frost lab charge before north fine dress scissors print";
+var mnemonic = "emotion town clutch left arm skirt awesome text raw strike discover stumble";

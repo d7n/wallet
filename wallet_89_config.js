@@ -1,1 +1,1 @@
-var mnemonic = "gold worry indoor clump month sphere castle shoulder drink pole search mean";
+var mnemonic = "champion close increase portion enable era engage duty avoid answer measure solid";

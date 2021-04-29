@@ -1,1 +1,1 @@
-var mnemonic = "mom pilot trust say jeans skate little young indicate desert accident legend";
+var mnemonic = "chair cereal warrior cave pink super noise random champion menu enhance pencil";

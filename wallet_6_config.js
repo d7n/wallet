@@ -1,1 +1,1 @@
-var mnemonic = "perfect you comfort pond begin assault tent erosion explain leopard manual rack";
+var mnemonic = "wedding month thunder expose pumpkin expose clap silver trend destroy burst dish";

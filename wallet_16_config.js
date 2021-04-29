@@ -1,1 +1,1 @@
-var mnemonic = "peasant awake trick old soap essay trumpet nest swamp sock they suggest";
+var mnemonic = "question express rail olive brown twenty dumb deliver aspect connect flash patch";

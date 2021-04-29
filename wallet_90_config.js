@@ -1,1 +1,1 @@
-var mnemonic = "around benefit draft dish ugly grass drastic mushroom bless oil enroll dial";
+var mnemonic = "resist frost play oil aerobic mandate sock deal crime assist gauge art";

@@ -1,1 +1,1 @@
-var mnemonic = "critic muffin nose young bike world jealous ceiling recall bleak afraid scrap";
+var mnemonic = "nuclear rookie differ around lottery alone security physical impose idle flee tuition";

@@ -1,1 +1,1 @@
-var mnemonic = "isolate nose skill wine rice vast miracle sentence weird shift trap rescue";
+var mnemonic = "notice blossom dynamic estate dream hedgehog rose hero auction clarify custom spice";

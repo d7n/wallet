@@ -1,1 +1,1 @@
-var mnemonic = "second chronic team deal double shuffle version trap mistake sustain seminar picnic";
+var mnemonic = "engage whip task oppose over achieve enroll symbol ethics cattle mom square";

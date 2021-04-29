@@ -1,1 +1,1 @@
-var mnemonic = "magic fade ask session conduct split notice correct champion roof tower early";
+var mnemonic = "arena damage citizen rigid chicken exist capital boss fly garment finger scan";

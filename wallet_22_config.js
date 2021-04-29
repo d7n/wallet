@@ -1,1 +1,1 @@
-var mnemonic = "denial achieve science ocean message teach frost sketch wrestle youth rifle oak";
+var mnemonic = "coin expect room consider target alert raw differ advance priority tip since";

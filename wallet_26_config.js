@@ -1,1 +1,1 @@
-var mnemonic = "trim legal subject later aim oyster swap found cash again horse clean";
+var mnemonic = "speak fringe define amused fall reason wise enable involve reunion reflect soldier";

@@ -1,1 +1,1 @@
-var mnemonic = "street monitor dolphin floor reunion bind right size olive latin few desk";
+var mnemonic = "thunder into trap athlete filter obtain bulk matter basket core ostrich physical";

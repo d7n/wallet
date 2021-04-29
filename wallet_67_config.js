@@ -1,1 +1,1 @@
-var mnemonic = "river measure lyrics deliver inflict exile rival cable soap kind pistol together";
+var mnemonic = "solve tourist bicycle enhance visa brisk step token regret seat sort glory";

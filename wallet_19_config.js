@@ -1,1 +1,1 @@
-var mnemonic = "inflict soul level unaware latin father twin accuse palm juice stairs frequent";
+var mnemonic = "word tray under connect split burden apart utility dune couple fragile proud";

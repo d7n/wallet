@@ -1,1 +1,1 @@
-var mnemonic = "pill grab spell poem inner aim mammal spend fall disagree update endless";
+var mnemonic = "into dust garden eternal patch day dentist noise industry toss runway sea";

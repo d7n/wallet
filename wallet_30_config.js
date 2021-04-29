@@ -1,1 +1,1 @@
-var mnemonic = "stadium private save ceiling okay can fancy silk genius stock thunder april";
+var mnemonic = "alone hand test member rather correct artwork birth puppy clarify chimney dice";

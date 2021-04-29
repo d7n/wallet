@@ -1,1 +1,1 @@
-var mnemonic = "actual resemble couch pause engine empower make exile cluster guess ordinary ostrich";
+var mnemonic = "program dose jelly elegant giant trade pyramid sugar crash web sense mammal";

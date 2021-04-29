@@ -1,1 +1,1 @@
-var mnemonic = "lamp shoe cram tobacco gauge phone cruise involve turn love trend either";
+var mnemonic = "cruise wedding hover soft web cheap obey tomorrow surface wave picnic outdoor";

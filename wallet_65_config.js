@@ -1,1 +1,1 @@
-var mnemonic = "silly plastic green unhappy loyal negative office liberty cannon machine chicken cradle";
+var mnemonic = "stereo wrong assist smart crowd slam brass grit cry panel stock moon";

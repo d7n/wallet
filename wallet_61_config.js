@@ -1,1 +1,1 @@
-var mnemonic = "upset ramp negative broom six phrase imitate gloom gun hockey almost spell";
+var mnemonic = "galaxy online now either solar provide junior cram spray duck return robot";

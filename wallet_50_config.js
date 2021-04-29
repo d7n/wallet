@@ -1,1 +1,1 @@
-var mnemonic = "sample tourist moment mutual mosquito large roof deputy tray begin smooth poverty";
+var mnemonic = "hungry uphold wave faith harsh autumn faith include original night nut dolphin";

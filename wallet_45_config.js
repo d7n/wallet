@@ -1,1 +1,1 @@
-var mnemonic = "say pioneer robot guide deal allow cash surround push gown quit envelope";
+var mnemonic = "style latin donate nothing nasty antique claim swing sunny move buffalo orange";

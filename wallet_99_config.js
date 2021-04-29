@@ -1,1 +1,1 @@
-var mnemonic = "detect wine exclude few taste unaware scan swing nominee deer exhibit farm";
+var mnemonic = "unit obey mandate toe gossip salt extend banana flower together jelly resource";

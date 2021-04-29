@@ -1,1 +1,1 @@
-var mnemonic = "possible famous helmet walnut naive slim pistol monkey expose sentence head agree";
+var mnemonic = "wave eager engine catalog lemon harsh wear save mass verify output weasel";

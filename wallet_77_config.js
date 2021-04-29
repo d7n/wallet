@@ -1,1 +1,1 @@
-var mnemonic = "accident bright acoustic valid skirt foam yard setup hollow shell rival pencil";
+var mnemonic = "possible foot guess poem world place measure sunny second theory wonder dash";

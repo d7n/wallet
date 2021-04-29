@@ -1,1 +1,1 @@
-var mnemonic = "pyramid matter carpet country agent smooth guitar beach churn spice before river";
+var mnemonic = "mountain frozen deliver filter horse half title access prison celery people high";

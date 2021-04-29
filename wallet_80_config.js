@@ -1,1 +1,1 @@
-var mnemonic = "feel dish mango crumble client valid solid leopard company master ribbon control";
+var mnemonic = "old math minimum such menu energy source squirrel blouse elite ball face";

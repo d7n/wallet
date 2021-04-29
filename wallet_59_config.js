@@ -1,1 +1,1 @@
-var mnemonic = "good fiscal vapor volume rocket leader twelve neglect expect alien shadow reflect";
+var mnemonic = "height private prize room heart lazy frozen appear estate truck patch address";

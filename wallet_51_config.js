@@ -1,1 +1,1 @@
-var mnemonic = "echo enjoy core waste usual wolf mix gasp confirm flip own pair";
+var mnemonic = "protect slot popular later exclude fossil spring half supply basket cliff better";

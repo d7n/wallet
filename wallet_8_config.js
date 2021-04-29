@@ -1,1 +1,1 @@
-var mnemonic = "hard minute east loop current injury assist close tide alpha topple circle";
+var mnemonic = "suffer jaguar panel deliver collect usual left chaos tail rifle stuff vivid";

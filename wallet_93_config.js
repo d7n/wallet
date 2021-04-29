@@ -1,1 +1,1 @@
-var mnemonic = "pink spoon saddle virtual tree price earth city fossil arena cream fade";
+var mnemonic = "praise submit valid shock breeze lunch purpose pelican drama sphere output citizen";

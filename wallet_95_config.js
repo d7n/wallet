@@ -1,1 +1,1 @@
-var mnemonic = "obey faint ski tone panda deer clay physical poverty attract unable train";
+var mnemonic = "real poverty news hello asthma tuition hour bike rather worry appear insect";

@@ -1,1 +1,1 @@
-var mnemonic = "eagle vacant attack iron gym yard subway tail waste away loan melody";
+var mnemonic = "creek token area clerk marriage spread assault scare engage dance river lunar";

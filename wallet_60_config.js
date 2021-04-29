@@ -1,1 +1,1 @@
-var mnemonic = "stadium pilot plunge puzzle edit bird ridge royal before another renew remain";
+var mnemonic = "near soup ginger team loop ribbon toss shove planet divorce toddler inspire";

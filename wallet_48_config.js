@@ -1,1 +1,1 @@
-var mnemonic = "snap avocado minute loan physical other key solve angle arrange pelican rug";
+var mnemonic = "credit network warm confirm family symbol good laptop roast adult achieve tower";

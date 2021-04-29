@@ -1,1 +1,1 @@
-var mnemonic = "model stomach solution buffalo resemble tent stay end deny wagon direct scrub";
+var mnemonic = "tomorrow glass under obvious situate street connect shaft file paddle crouch evoke";

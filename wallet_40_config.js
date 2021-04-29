@@ -1,1 +1,1 @@
-var mnemonic = "army open leaf judge loan present tent amount rough royal warrior suffer";
+var mnemonic = "cause point proud into increase limit pull acquire depart into detail guard";

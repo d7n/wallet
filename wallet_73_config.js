@@ -1,1 +1,1 @@
-var mnemonic = "craft mushroom leopard group loop during either defense narrow picnic blue warm";
+var mnemonic = "oil vivid audit rare glad dirt layer early scan budget arena example";

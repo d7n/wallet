@@ -1,1 +1,1 @@
-var mnemonic = "month wave practice electric laugh brown door into lecture like weekend grab";
+var mnemonic = "pelican embark method accuse seek exist word stuff organ weekend point diary";

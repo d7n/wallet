@@ -1,1 +1,1 @@
-var mnemonic = "morning wink barely during artist olympic throw gentle prosper desert sing bean";
+var mnemonic = "agent rigid unaware injury hero glimpse alpha fantasy machine people drama merit";

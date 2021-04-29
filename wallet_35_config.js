@@ -1,1 +1,1 @@
-var mnemonic = "social merit under pepper vague select club finger fuel lava verify wrong";
+var mnemonic = "next arena margin exchange repeat echo palm menu quality salute receive minute";

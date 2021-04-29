@@ -1,1 +1,1 @@
-var mnemonic = "child come fiscal agent length tent describe winner delay ethics culture scheme";
+var mnemonic = "unfold slide style blush brush arena boil gate scatter label flame track";

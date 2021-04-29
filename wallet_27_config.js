@@ -1,1 +1,1 @@
-var mnemonic = "work ahead solve female leisure total emerge local inform spoil pioneer enable";
+var mnemonic = "discover sheriff adapt mosquito pelican case april unknown crop seek south daughter";

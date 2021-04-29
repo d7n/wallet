@@ -1,1 +1,1 @@
-var mnemonic = "common soul strike cargo goddess gold figure auction predict exit unusual oil";
+var mnemonic = "end rose pill bubble fringe sport bridge purchase miracle help present tag";

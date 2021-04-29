@@ -1,1 +1,1 @@
-var mnemonic = "wedding evolve beach blast gate claw scare mandate number future clown slam";
+var mnemonic = "duty axis yellow also decorate panic sausage business hint tree prepare panda";

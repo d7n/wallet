@@ -1,1 +1,1 @@
-var mnemonic = "emerge expire goose injury envelope dolphin company whisper weekend network rate trigger";
+var mnemonic = "nuclear note delay engage crowd idea quote loan safe impose honey arena";

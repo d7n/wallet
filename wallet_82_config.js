@@ -1,1 +1,1 @@
-var mnemonic = "lunch plastic vendor average soft target feel rose rotate fold jar canoe";
+var mnemonic = "baby direct craft derive danger rain shy upper loan more drive army";
