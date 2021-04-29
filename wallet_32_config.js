@@ -1,1 +1,1 @@
-var mnemonic = "doctor regret nest grit eternal ripple kiss home coil alone view nephew";
+var mnemonic = "clip ship thing certain casual someone scout soup ramp east gloom ticket";

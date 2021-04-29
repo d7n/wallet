@@ -1,1 +1,1 @@
-var mnemonic = "minimum sadness loop lumber immune soul sausage ball regular swift festival float";
+var mnemonic = "mesh power hint entry balcony license satoshi must hood cost slice replace";

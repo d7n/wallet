@@ -1,1 +1,1 @@
-var mnemonic = "rifle usual palm praise badge know foil question fantasy just unlock lounge";
+var mnemonic = "gravity pear first rapid sheriff rose casino sport avocado gentle tribe piano";

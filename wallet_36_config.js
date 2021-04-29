@@ -1,1 +1,1 @@
-var mnemonic = "they fault borrow rely again fancy emotion oxygen dash alien sure tunnel";
+var mnemonic = "unlock sibling slot series alley drink liberty figure open gaze trust gloom";

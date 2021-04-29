@@ -1,1 +1,1 @@
-var mnemonic = "property helmet forget side theme stamp execute rally vanish monster salute elbow";
+var mnemonic = "senior comfort october word involve speed future raise cherry fluid envelope quality";

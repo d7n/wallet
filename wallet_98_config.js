@@ -1,1 +1,1 @@
-var mnemonic = "window various cactus kick twenty glass announce girl left carbon skirt hover";
+var mnemonic = "ripple crime addict father uncover science asthma thank zebra canyon appear glory";

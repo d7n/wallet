@@ -1,1 +1,1 @@
-var mnemonic = "trade news illegal squeeze couple reduce inhale drive alter tiger extra luggage";
+var mnemonic = "dwarf budget train reduce excess crane index game tattoo good harbor lizard";

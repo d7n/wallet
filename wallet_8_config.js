@@ -1,1 +1,1 @@
-var mnemonic = "love soon asset topple age judge daring dynamic wreck stem brown gauge";
+var mnemonic = "volcano cancel urban nice coast army satoshi short lava shell lunar claw";

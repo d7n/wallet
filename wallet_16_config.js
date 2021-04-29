@@ -1,1 +1,1 @@
-var mnemonic = "chief waste flash frost easy similar prosper hotel ensure news crazy profit";
+var mnemonic = "cash tourist image rocket damp power column betray spirit tower rich venture";

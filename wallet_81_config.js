@@ -1,1 +1,1 @@
-var mnemonic = "cricket nuclear urban idea actual kidney tongue sweet permit goose menu equal";
+var mnemonic = "vacuum build cage game frequent away odor grief civil behind text series";

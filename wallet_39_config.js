@@ -1,1 +1,1 @@
-var mnemonic = "plastic square tag aim coral caution head help art thunder victory glance";
+var mnemonic = "general pig reopen material dance roof medal biology unfold remind method gain";

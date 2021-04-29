@@ -1,1 +1,1 @@
-var mnemonic = "word educate hire strike crisp shield consider relief sample vault forward ten";
+var mnemonic = "daring alpha umbrella twenty tiny general occur nose cool screen invite copy";

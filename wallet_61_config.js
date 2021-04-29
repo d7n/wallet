@@ -1,1 +1,1 @@
-var mnemonic = "version example neck element chef pelican damp reunion cook option exist same";
+var mnemonic = "feel happy render never rent resist utility clump marble carry stairs true";

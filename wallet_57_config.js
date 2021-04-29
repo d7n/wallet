@@ -1,1 +1,1 @@
-var mnemonic = "stay capable peasant nut situate degree enjoy need flag summer immune detect";
+var mnemonic = "menu satoshi permit access blame castle tomorrow ugly six stuff crash bunker";

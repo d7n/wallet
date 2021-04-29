@@ -1,1 +1,1 @@
-var mnemonic = "resource pistol usage oak office below title pause fine intact finish time";
+var mnemonic = "practice clay jaguar aim subject cupboard actress voice put force reject skin";

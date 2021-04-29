@@ -1,1 +1,1 @@
-var mnemonic = "caution recipe design they disease six crack dynamic token scare novel mystery";
+var mnemonic = "pill shove staff wall gold solid bounce space collect cabbage absorb scissors";

@@ -1,1 +1,1 @@
-var mnemonic = "ridge monster inquiry science deal random mystery earn narrow destroy ribbon barely";
+var mnemonic = "all circle borrow sunny guess toward throw trash useful prefer perfect tongue";

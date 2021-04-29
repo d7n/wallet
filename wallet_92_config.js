@@ -1,1 +1,1 @@
-var mnemonic = "skirt cat drum random arrange excess brain erosion derive mushroom step rebel";
+var mnemonic = "skate include enact kite crush eternal security frost also sniff inspire silent";

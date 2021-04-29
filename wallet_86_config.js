@@ -1,1 +1,1 @@
-var mnemonic = "smile caution jelly market shop ask swing worth client club economy organ";
+var mnemonic = "vague motor hood defy hen alcohol sick ice okay shoe glad voyage";

@@ -1,1 +1,1 @@
-var mnemonic = "around dwarf mirror blade shadow concert toy alpha poem crawl negative reopen";
+var mnemonic = "range pistol thunder replace ask gravity model stay frown cost shrimp cargo";

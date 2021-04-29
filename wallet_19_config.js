@@ -1,1 +1,1 @@
-var mnemonic = "into gospel ramp regular venture mobile coast same venture slide before holiday";
+var mnemonic = "cotton depart shoe onion length combine lend run tragic column cycle save";

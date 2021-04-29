@@ -1,1 +1,1 @@
-var mnemonic = "process apology hybrid scorpion yellow derive umbrella memory board crisp cause advance";
+var mnemonic = "fancy wide cube pony already scene core good scare fall excite exist";

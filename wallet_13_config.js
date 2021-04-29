@@ -1,1 +1,1 @@
-var mnemonic = "level mimic need physical resist calm egg number erosion toss exist number";
+var mnemonic = "assume age rotate weekend thought picture fresh remain matrix spike strategy humble";

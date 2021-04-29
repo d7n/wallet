@@ -1,1 +1,1 @@
-var mnemonic = "involve drop search harvest mango protect banana uniform include time helmet law";
+var mnemonic = "theme found gravity deny pizza pulse scrub unknown journey equip today theory";

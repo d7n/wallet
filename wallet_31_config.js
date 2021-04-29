@@ -1,1 +1,1 @@
-var mnemonic = "alarm crumble together machine orphan tissue mistake stable artwork photo august cheese";
+var mnemonic = "guess daring hammer hill crazy grant mystery grief sketch lumber ancient ignore";

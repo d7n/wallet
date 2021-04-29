@@ -1,1 +1,1 @@
-var mnemonic = "scorpion trial drift say direct excuse goddess tongue brass always citizen sunset";
+var mnemonic = "elevator argue call pony zoo piece biology limb globe pelican seat absurd";

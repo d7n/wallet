@@ -1,1 +1,1 @@
-var mnemonic = "retreat boil appear chalk exchange today coral kidney tape fork exhibit item";
+var mnemonic = "sadness wrestle pact airport giraffe recycle produce lake boost curious resource verify";

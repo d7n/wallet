@@ -1,1 +1,1 @@
-var mnemonic = "craft brown clutch code intact sphere vicious peasant anchor edge correct share";
+var mnemonic = "repair print scheme arm amazing essay ladder pluck fault daring act buyer";

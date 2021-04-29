@@ -1,1 +1,1 @@
-var mnemonic = "glory father favorite lemon produce fence junk shaft tuna toy help lock";
+var mnemonic = "brisk season struggle panel travel arrest mammal guitar strike real enroll enough";

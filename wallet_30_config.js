@@ -1,1 +1,1 @@
-var mnemonic = "similar someone tiny jacket ice royal sibling merit word iron viable mammal";
+var mnemonic = "curve arctic act hurt success bicycle vendor confirm reform local certain fatigue";

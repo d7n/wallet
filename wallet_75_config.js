@@ -1,1 +1,1 @@
-var mnemonic = "noodle measure display property vapor tennis easily sand note canvas field venture";
+var mnemonic = "hobby lizard elephant pact limit tackle rough stomach window usage plate common";

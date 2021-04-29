@@ -1,1 +1,1 @@
-var mnemonic = "sample ride monkey appear mirror resist sport tower punch focus win salt";
+var mnemonic = "title rotate frequent inspire cook stumble there rescue effort property intact surge";

@@ -1,1 +1,1 @@
-var mnemonic = "cover disease marriage awake cheap room crush business phrase project egg miracle";
+var mnemonic = "calm identify spirit sleep lumber include pipe young together pepper border raw";

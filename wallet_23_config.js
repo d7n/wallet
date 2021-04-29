@@ -1,1 +1,1 @@
-var mnemonic = "trouble swamp weasel buffalo wave volcano demand humor have awesome pole cage";
+var mnemonic = "theory vapor victory that estate pet please setup palm soldier tent license";

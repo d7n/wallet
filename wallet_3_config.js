@@ -1,1 +1,1 @@
-var mnemonic = "shift route relief media raw sand apology hazard decide ignore couch kick";
+var mnemonic = "lens swear smoke strike toddler pen exchange damp robot donor fine maid";

@@ -1,1 +1,1 @@
-var mnemonic = "expire matter peasant quit repeat crane prison couple nothing hospital cancel start";
+var mnemonic = "truth elephant group ribbon useful biology december zone stool spend box trophy";

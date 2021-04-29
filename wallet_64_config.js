@@ -1,1 +1,1 @@
-var mnemonic = "dawn stay hope fire like thrive better stove uncover trade globe exotic";
+var mnemonic = "join gain annual aware interest yard step rail predict like arena horror";

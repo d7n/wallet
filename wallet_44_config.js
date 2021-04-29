@@ -1,1 +1,1 @@
-var mnemonic = "neglect metal mobile ask power bag banana exhibit fortune hobby whip sick";
+var mnemonic = "february enough visual mean garment item build gorilla mean alone guide wing";

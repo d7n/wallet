@@ -1,1 +1,1 @@
-var mnemonic = "alter venue analyst meat arrive current veteran sunset surface elite flight cost";
+var mnemonic = "grain surge switch define atom very filter cancel report pizza brass add";

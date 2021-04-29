@@ -1,1 +1,1 @@
-var mnemonic = "earth dove cage spread black image odor coffee cool what merge fat";
+var mnemonic = "zone civil dawn color elevator office order total follow cage unique menu";

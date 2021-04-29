@@ -1,1 +1,1 @@
-var mnemonic = "talk ivory dutch bundle film index scatter noodle lyrics empty ship industry";
+var mnemonic = "before spike fortune pluck apology false young pause castle average eternal invest";

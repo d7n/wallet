@@ -1,1 +1,1 @@
-var mnemonic = "orange wagon town detect hint forest still rocket regret build fine biology";
+var mnemonic = "fluid bench delay debate pen measure sting piece little alone noodle picture";

@@ -1,1 +1,1 @@
-var mnemonic = "float poverty maple cake cram spider knee that riot pulp front depth";
+var mnemonic = "column demand adult patch neck laugh husband cactus over regular frozen horror";

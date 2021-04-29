@@ -1,1 +1,1 @@
-var mnemonic = "junior forest drive allow public pigeon squirrel model person axis only heart";
+var mnemonic = "tone amused disease caution receive insane curious onion success city garment pen";

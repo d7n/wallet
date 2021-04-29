@@ -1,1 +1,1 @@
-var mnemonic = "domain dance crop force donkey explain hello provide tennis cheap organ range";
+var mnemonic = "boil enough shoulder into measure wage habit bomb letter zero hood road";

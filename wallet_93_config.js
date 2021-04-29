@@ -1,1 +1,1 @@
-var mnemonic = "olympic wreck dawn green element solid ugly math flat air human secret";
+var mnemonic = "distance beyond gas noodle become mixture height wife tag castle virtual alley";

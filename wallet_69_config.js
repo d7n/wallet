@@ -1,1 +1,1 @@
-var mnemonic = "art glory service viable furnace hidden they ahead height situate faculty conduct";
+var mnemonic = "defy electric tree sign monkey income bring solar actor admit donate short";

@@ -1,1 +1,1 @@
-var mnemonic = "cage mango smart unfold matrix about hero click office clever hurry piano";
+var mnemonic = "polar license fence brush critic nephew metal broken rhythm poverty aware soup";

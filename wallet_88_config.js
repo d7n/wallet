@@ -1,1 +1,1 @@
-var mnemonic = "resource glide usage duty prepare kick visa notice crisp atom subway yellow";
+var mnemonic = "code asset reason dash staff snow combine matter alarm poet document danger";

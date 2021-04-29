@@ -1,1 +1,1 @@
-var mnemonic = "dog layer pattern camera wave term bicycle tray defense phrase imitate detail";
+var mnemonic = "put term speed help response inside surface mention bullet purpose weather combine";

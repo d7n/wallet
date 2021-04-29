@@ -1,1 +1,1 @@
-var mnemonic = "auto pattern regret fatigue buddy kitten file citizen flight mind coconut spin";
+var mnemonic = "middle voyage woman dinosaur want loan erode record soup oval brother rally";

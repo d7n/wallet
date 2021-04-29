@@ -1,1 +1,1 @@
-var mnemonic = "negative huge shock okay lens manual trend mansion liar credit refuse van";
+var mnemonic = "spot hurry cost stone awful express snack office cash whale note cool";

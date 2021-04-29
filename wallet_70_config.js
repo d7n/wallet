@@ -1,1 +1,1 @@
-var mnemonic = "swap memory maze pool knee unusual scheme member clap vast finger general";
+var mnemonic = "history deal shoe picture fence series merit enrich popular hundred addict wise";

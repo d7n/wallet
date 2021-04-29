@@ -1,1 +1,1 @@
-var mnemonic = "luggage volcano retreat recall birth culture electric scare virtual adjust viable electric";
+var mnemonic = "paddle betray movie spell smoke predict detail behind slim blade voice neglect";

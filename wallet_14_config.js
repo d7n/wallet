@@ -1,1 +1,1 @@
-var mnemonic = "inflict behind excite river mask private sauce hollow yellow jungle vacant century";
+var mnemonic = "eagle across letter sweet unaware loan select appear educate cup dish ask";

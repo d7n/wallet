@@ -1,1 +1,1 @@
-var mnemonic = "chicken race fade maximum table deny spare cost gasp result cruel zoo";
+var mnemonic = "truly ugly pen wave shift grit pole suspect security spring expire warm";

@@ -1,1 +1,1 @@
-var mnemonic = "ankle tape spoon fat alter term rural capable supreme elephant laugh orient";
+var mnemonic = "proud spawn clump guitar couch roast one curious wolf text cloth weasel";

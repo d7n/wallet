@@ -1,1 +1,1 @@
-var mnemonic = "stove engine obscure consider lonely hello stable dwarf kind stay tiny nice";
+var mnemonic = "flight warfare fancy short party noise tumble sleep lock raw radar salmon";

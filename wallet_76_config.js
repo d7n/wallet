@@ -1,1 +1,1 @@
-var mnemonic = "electric apart grace sausage lottery galaxy catch slam orbit federal crawl food";
+var mnemonic = "beef exercise monkey hedgehog harbor enforce gadget help drop jaguar desert all";

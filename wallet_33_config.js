@@ -1,1 +1,1 @@
-var mnemonic = "calm cruise uncover melt beauty above comic spot direct tuition border remove";
+var mnemonic = "hamster shock special badge snake love verify rude unfold tooth lottery whip";

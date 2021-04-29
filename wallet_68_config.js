@@ -1,1 +1,1 @@
-var mnemonic = "civil naive style canal kiss tank puppy happy zebra select youth day";
+var mnemonic = "always list admit brand notice early toe target rude travel border treat";

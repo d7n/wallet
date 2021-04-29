@@ -1,1 +1,1 @@
-var mnemonic = "afraid raw movie gym shoe scrap cargo pigeon seed soldier inject game";
+var mnemonic = "final mobile dignity matter lens inflict curtain mosquito curious student belt float";

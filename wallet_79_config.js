@@ -1,1 +1,1 @@
-var mnemonic = "catch banner multiply speed clutch cabbage visa enrich visa soon render grid";
+var mnemonic = "moon february pass oil pepper wisdom wrong antenna broken rug enroll together";

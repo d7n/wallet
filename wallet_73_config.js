@@ -1,1 +1,1 @@
-var mnemonic = "combine citizen spider someone more water urban south canal gasp swing talent";
+var mnemonic = "lab spread pioneer december negative chair sail flip smoke excess grief mother";

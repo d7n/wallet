@@ -1,1 +1,1 @@
-var mnemonic = "sport host predict tiny pull express turkey destroy world slab vendor drift";
+var mnemonic = "duty carry water seek duck faculty fade primary ketchup level under trend";

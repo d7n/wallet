@@ -1,1 +1,1 @@
-var mnemonic = "film jelly shuffle announce habit victory walk myself apart weasel swap airport";
+var mnemonic = "subject gloom student protect daring kitchen fly grunt sail spell must crack";

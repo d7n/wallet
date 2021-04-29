@@ -1,1 +1,1 @@
-var mnemonic = "disorder stumble raise wave must able wide wasp train grow gallery atom";
+var mnemonic = "check vendor rapid silver city inhale excuse ten nation pause primary detect";

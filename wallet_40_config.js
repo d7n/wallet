@@ -1,1 +1,1 @@
-var mnemonic = "swift sense cancel shy allow lawn romance about design latin ride major";
+var mnemonic = "swing potato romance picture crystal print search egg tourist faint thrive birth";

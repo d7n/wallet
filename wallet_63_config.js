@@ -1,1 +1,1 @@
-var mnemonic = "crumble electric relax brush panther abuse label conduct hope divorce fog toss";
+var mnemonic = "lizard return flame track door subway question quantum planet floor jelly aim";

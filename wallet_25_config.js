@@ -1,1 +1,1 @@
-var mnemonic = "treat quick follow total essence sorry into cross camp voyage avocado scene";
+var mnemonic = "isolate chapter produce basic force pelican lonely east clay keep sad amateur";

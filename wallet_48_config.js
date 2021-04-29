@@ -1,1 +1,1 @@
-var mnemonic = "rotate brisk place service junk thumb west monkey creek provide bleak shoulder";
+var mnemonic = "quote glue valid gossip earn side fish fetch okay yellow slogan inhale";

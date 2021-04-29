@@ -1,1 +1,1 @@
-var mnemonic = "chief zone tornado latin thing kind disease lazy tree abuse domain green";
+var mnemonic = "dentist despair relief galaxy pig casual pilot left average sight arch assume";

@@ -1,1 +1,1 @@
-var mnemonic = "like camera turkey gym fade kid title party blind inside abstract bread";
+var mnemonic = "clean weird blind fog exhibit vital divorce chunk hedgehog brother trend actress";

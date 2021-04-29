@@ -1,1 +1,1 @@
-var mnemonic = "thought hover radio dial rely upon poverty title solar paddle car plunge";
+var mnemonic = "fog measure caught cup lizard velvet pipe spice blur steel pyramid pudding";

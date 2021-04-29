@@ -1,1 +1,1 @@
-var mnemonic = "fossil physical grow hidden plunge peace weird erase cricket sure spend bar";
+var mnemonic = "orchard regret dignity pledge kid exclude test sentence hero little chuckle parade";

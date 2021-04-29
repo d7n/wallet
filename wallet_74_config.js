@@ -1,1 +1,1 @@
-var mnemonic = "shift rich stick blush urban figure grab annual sheriff antenna pattern hawk";
+var mnemonic = "actor swear bridge board spend connect elder subject brick scout mouse plate";

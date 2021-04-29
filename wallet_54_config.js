@@ -1,1 +1,1 @@
-var mnemonic = "habit faint stove bracket pill false old blame first spot crowd brown";
+var mnemonic = "pistol father school razor require erosion horror smart acoustic donate happy sauce";

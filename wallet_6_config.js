@@ -1,1 +1,1 @@
-var mnemonic = "loud day burden analyst service boy rib crucial warfare illness sand race";
+var mnemonic = "dirt forum canoe scrap junior foster acid crisp hospital job comic vacant";

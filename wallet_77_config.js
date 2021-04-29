@@ -1,1 +1,1 @@
-var mnemonic = "hat race stairs merit cargo shaft detail air suspect subway spray race";
+var mnemonic = "embody usage veteran lottery insane stove victory kind palace warm together dentist";

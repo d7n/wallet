@@ -1,1 +1,1 @@
-var mnemonic = "leopard soon kiss fatigue damp together volcano library office three debate clarify";
+var mnemonic = "crisp grief govern lake hockey govern holiday advance priority menu moral upper";

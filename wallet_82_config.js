@@ -1,1 +1,1 @@
-var mnemonic = "will input help place census gasp deliver radar correct phrase hair solve";
+var mnemonic = "bulk unlock left town spider across target carry people catch velvet speed";

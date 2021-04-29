@@ -1,1 +1,1 @@
-var mnemonic = "essence chuckle cradle close banana crack reduce electric divide clerk faith steel";
+var mnemonic = "emerge guilt opinion better badge input embody win region wash roof boring";

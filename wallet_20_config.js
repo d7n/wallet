@@ -1,1 +1,1 @@
-var mnemonic = "analyst calm borrow exclude shiver liquid shield pretty capital beach corn steak";
+var mnemonic = "hint broccoli decline uncover early coach notice stove abandon foil rebel famous";

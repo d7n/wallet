@@ -1,1 +1,1 @@
-var mnemonic = "despair client where region bright ability version chimney program into brain puppy";
+var mnemonic = "sponsor hamster install lunar hurt hen armed elevator aim option horror bulb";

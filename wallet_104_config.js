@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog pretty word summer digital accuse soon daring fit banana prosper pulp";
+var mnemonic = "fiction impose gorilla girl bind rate topic seek view submit butter electric";

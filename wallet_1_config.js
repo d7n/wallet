@@ -1,1 +1,1 @@
-var mnemonic = "keen dream quantum vicious manage vote maple coffee scrub few collect reason";
+var mnemonic = "boy provide attract source acoustic shaft edit project slight junior program assist";

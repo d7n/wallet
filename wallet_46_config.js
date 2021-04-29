@@ -1,1 +1,1 @@
-var mnemonic = "inherit law brother measure farm scale forum okay cradle donor choose seminar";
+var mnemonic = "sauce flight sadness page layer idle brand candy wire wide endorse trash";

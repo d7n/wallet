@@ -1,1 +1,1 @@
-var mnemonic = "humble wall input impact aisle prepare view goat clerk mango evoke injury";
+var mnemonic = "mail sniff begin same decorate impose student indoor episode guard zone enrich";

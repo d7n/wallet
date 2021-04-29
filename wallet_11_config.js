@@ -1,1 +1,1 @@
-var mnemonic = "spawn obey credit olympic pudding little isolate dinner student sorry ride provide";
+var mnemonic = "undo moral language neutral engine license rely luxury fork margin night notable";

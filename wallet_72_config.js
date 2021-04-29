@@ -1,1 +1,1 @@
-var mnemonic = "doctor feature scheme all actor portion potato address purpose flavor jump thank";
+var mnemonic = "derive assault knife rifle century target jealous journey oval rug bag guilt";

@@ -1,1 +1,1 @@
-var mnemonic = "mean viable olive away perfect nose sleep acid enter skull witness desk";
+var mnemonic = "two mixture ceiling message gospel omit off act speed few chuckle banana";

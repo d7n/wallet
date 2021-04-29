@@ -1,1 +1,1 @@
-var mnemonic = "sort code devote test blouse dilemma script control burden shell faint mango";
+var mnemonic = "mind alone average explain human galaxy certain gift fatigue happy raise mention";

@@ -1,1 +1,1 @@
-var mnemonic = "theme crane piano exile cycle organ repair thumb water coast more ocean";
+var mnemonic = "drive token crack nation suit flight reject fiber kiss music milk prevent";

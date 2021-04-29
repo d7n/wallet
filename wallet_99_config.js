@@ -1,1 +1,1 @@
-var mnemonic = "avoid typical install between bacon wild range budget message pioneer shadow dwarf";
+var mnemonic = "heart daring ribbon initial broom goose blade zebra client can crawl blush";

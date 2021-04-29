@@ -1,1 +1,1 @@
-var mnemonic = "sauce parade west shock august grace leopard push choose visit edge position";
+var mnemonic = "friend evolve eager answer tribe client rhythm guide payment mixture cost found";
