@@ -1,1 +1,1 @@
-var mnemonic = "pen horn scrub connect enlist mouse media clinic liquid shrug magic saddle";
+var mnemonic = "field shiver drill canal replace since can vast ten pull borrow sick";

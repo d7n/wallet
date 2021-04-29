@@ -1,1 +1,1 @@
-var mnemonic = "creek spawn source boost segment cable kiwi extend trend abuse normal more";
+var mnemonic = "churn pulp bomb peanut ranch lumber recall topic draft spatial ignore close";

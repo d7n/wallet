@@ -1,1 +1,1 @@
-var mnemonic = "hobby antique horn search swift stock snap acid require earth goddess bring";
+var mnemonic = "segment extra inhale mix language culture grace educate switch artefact behave eyebrow";

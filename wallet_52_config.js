@@ -1,1 +1,1 @@
-var mnemonic = "chef tilt close brass dust custom empower unhappy banana face mom seat";
+var mnemonic = "say dumb auto miss flame need visa steak drink uncle pepper charge";

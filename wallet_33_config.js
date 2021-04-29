@@ -1,1 +1,1 @@
-var mnemonic = "hole bamboo aspect pretty license piano lounge ready output radar father sign";
+var mnemonic = "achieve sheriff expire seed critic culture reform rally ice inmate erosion diagram";

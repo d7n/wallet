@@ -1,1 +1,1 @@
-var mnemonic = "dress curtain chief kiwi craft surround snap stereo lift myth escape depend";
+var mnemonic = "ticket expire include reward post ancient iron yard balcony now october fossil";

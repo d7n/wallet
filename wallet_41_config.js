@@ -1,1 +1,1 @@
-var mnemonic = "film duty kid lamp gown walnut speed neutral provide become random table";
+var mnemonic = "frost novel now second glow mask liar tube pony expect raven draft";

@@ -1,1 +1,1 @@
-var mnemonic = "across aunt gate view spring cycle pyramid best hand vague sudden argue";
+var mnemonic = "debate submit affair return sound faint distance quit minor void hungry top";

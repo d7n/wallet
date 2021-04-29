@@ -1,1 +1,1 @@
-var mnemonic = "pink screen mammal plug car kid catch fall pact inspire song stove";
+var mnemonic = "sheriff episode damage phone hurt loud engage danger ethics dirt prosper boost";

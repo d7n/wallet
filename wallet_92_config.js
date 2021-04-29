@@ -1,1 +1,1 @@
-var mnemonic = "dune debris flame pipe success position alert eyebrow will thunder awesome build";
+var mnemonic = "cigar noodle outer prize exotic smile pluck school wool category trap verify";

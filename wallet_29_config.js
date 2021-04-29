@@ -1,1 +1,1 @@
-var mnemonic = "crash album push reflect defy dune motion elevator jazz film engine fame";
+var mnemonic = "fatal man morning kitchen tooth laugh old cause bulb into phrase spike";

@@ -1,1 +1,1 @@
-var mnemonic = "grant audit stereo guitar enhance pen sugar home inflict neck fox brave";
+var mnemonic = "favorite paper giggle dynamic bring lake beach toy bargain multiply include taxi";

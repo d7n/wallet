@@ -1,1 +1,1 @@
-var mnemonic = "execute install ivory predict brain inner cave leave include firm venture snap";
+var mnemonic = "credit someone major diagram sorry away carry wing beyond problem horse frog";

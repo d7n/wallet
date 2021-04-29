@@ -1,1 +1,1 @@
-var mnemonic = "shoulder elbow because text coin cinnamon identify roast just meadow tent surface";
+var mnemonic = "derive trust salt frozen bulk reveal evoke denial girl guide rebel ginger";

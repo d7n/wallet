@@ -1,1 +1,1 @@
-var mnemonic = "tongue vacant apology minor scrap tragic dog salad replace dynamic public pulp";
+var mnemonic = "mother like dose nest curtain monster stereo deal lottery kitten side caught";

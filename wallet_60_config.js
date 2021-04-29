@@ -1,1 +1,1 @@
-var mnemonic = "game give skirt vessel dinner penalty list embody ring cover business cloud";
+var mnemonic = "truck noodle antique blast margin occur brave more earth loud long awful";

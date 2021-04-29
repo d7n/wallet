@@ -1,1 +1,1 @@
-var mnemonic = "ankle inhale system nation black appear whip laugh doctor below involve emotion";
+var mnemonic = "cube avocado sick quit jelly alone gold figure route tilt isolate blind";

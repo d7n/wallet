@@ -1,1 +1,1 @@
-var mnemonic = "afford sing corn maximum busy march legal regret together swarm secret scrub";
+var mnemonic = "great more hotel junior possible reform help truth urge script fashion print";

@@ -1,1 +1,1 @@
-var mnemonic = "bicycle salon obscure virus pizza area atom print horn pear dial garlic";
+var mnemonic = "pink room slam crazy injury special yard grass pony stage glow cruel";

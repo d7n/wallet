@@ -1,1 +1,1 @@
-var mnemonic = "ghost genuine cover owner print cross giggle south one giraffe fossil segment";
+var mnemonic = "team theory polar panel verify rotate husband reject summer sausage purchase live";

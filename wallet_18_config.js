@@ -1,1 +1,1 @@
-var mnemonic = "nice inhale grass amazing room rain syrup normal clutch wild finish elder";
+var mnemonic = "bachelor flat over faculty knee pudding tell cream napkin deal garment page";

@@ -1,1 +1,1 @@
-var mnemonic = "priority ski mistake favorite small deer firm perfect tissue spider negative aware";
+var mnemonic = "process biology agree dinner vessel hedgehog plunge subject bargain tongue live topple";

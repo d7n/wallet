@@ -1,1 +1,1 @@
-var mnemonic = "lazy defense control swarm donor arctic before ride situate polar general gaze";
+var mnemonic = "minor wheel toddler family system crater road like feature exist sunset safe";

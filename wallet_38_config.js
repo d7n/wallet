@@ -1,1 +1,1 @@
-var mnemonic = "identify blanket guess mimic menu trash menu hip prize panda smart clump";
+var mnemonic = "lava small camera moon museum hover scene draw wage sport remember gadget";

@@ -1,1 +1,1 @@
-var mnemonic = "response ketchup purse payment sea pony prefer fluid hospital truth again soup";
+var mnemonic = "wash shiver wall light margin arctic extra first laptop interest black diagram";

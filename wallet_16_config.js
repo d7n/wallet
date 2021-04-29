@@ -1,1 +1,1 @@
-var mnemonic = "floor piano fatigue vendor pizza love pitch wedding much puzzle custom advice";
+var mnemonic = "drama you bone cheap undo genius knock ocean soda brass desert hurt";

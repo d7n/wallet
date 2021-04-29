@@ -1,1 +1,1 @@
-var mnemonic = "rice supply lounge element cash rule illness tomorrow doll bring hedgehog menu";
+var mnemonic = "cake gap slogan ripple slam depend minor soldier toward fox shy other";

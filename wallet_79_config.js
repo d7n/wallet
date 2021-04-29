@@ -1,1 +1,1 @@
-var mnemonic = "stumble deny month hire bamboo agent assume cream pulse tail spot mango";
+var mnemonic = "process midnight employ domain shop myself car pipe cover canyon gorilla reunion";

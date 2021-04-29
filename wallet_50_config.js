@@ -1,1 +1,1 @@
-var mnemonic = "enhance super salad vivid satoshi bag limb flee have junior genre fluid";
+var mnemonic = "radio appear fiber spoon input invest aware talk shell water unhappy resemble";

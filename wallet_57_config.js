@@ -1,1 +1,1 @@
-var mnemonic = "noise magnet inch steel rich soccer seek ankle stove cotton canoe hood";
+var mnemonic = "reveal depart model lunch gadget snap quality very scorpion mercy awake ride";

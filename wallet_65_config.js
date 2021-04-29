@@ -1,1 +1,1 @@
-var mnemonic = "record carpet chaos evolve business coffee upgrade spare cruise hero okay special";
+var mnemonic = "arrange virus toilet march impose fantasy volcano supply hip vicious glow hidden";

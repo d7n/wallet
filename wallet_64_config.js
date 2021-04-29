@@ -1,1 +1,1 @@
-var mnemonic = "mobile peasant crystal forward gas catalog empty merry tower swing hip resemble";
+var mnemonic = "injury invite october alter laptop grace flight glare grass zero tennis high";

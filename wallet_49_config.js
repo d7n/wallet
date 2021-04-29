@@ -1,1 +1,1 @@
-var mnemonic = "build system future work wide pool illegal mansion table analyst ill advice";
+var mnemonic = "sorry receive enroll path capital bone canyon atom valid actual need wish";

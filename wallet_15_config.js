@@ -1,1 +1,1 @@
-var mnemonic = "tool announce warm flock industry inmate oblige kitten knee devote purpose mass";
+var mnemonic = "friend coffee tuition layer thought negative useful veteran travel subject romance alert";

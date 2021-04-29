@@ -1,1 +1,1 @@
-var mnemonic = "dynamic minute topple spot column toss autumn index cook price accuse cool";
+var mnemonic = "nerve fluid rocket poverty memory orchard sample abuse gather artefact unveil cross";

@@ -1,1 +1,1 @@
-var mnemonic = "receive ocean sell prize warm steel ball comic devote daring kid extend";
+var mnemonic = "deliver sorry travel kiss breeze demise boy multiply junior narrow weird bar";

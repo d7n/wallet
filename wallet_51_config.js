@@ -1,1 +1,1 @@
-var mnemonic = "upper cube slogan menu cave unfair blouse brown music dune concert route";
+var mnemonic = "educate van trophy stadium foil moment grid profit rare switch soda because";

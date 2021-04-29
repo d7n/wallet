@@ -1,1 +1,1 @@
-var mnemonic = "stool yard lawn pause verify brass plug smooth ribbon cattle cake syrup";
+var mnemonic = "onion daring welcome goat pass assault angle perfect predict weasel goat clever";

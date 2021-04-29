@@ -1,1 +1,1 @@
-var mnemonic = "garden moment element retreat doll north mention yellow best food cloth merry";
+var mnemonic = "volume zoo action pass host phrase stable wagon apart deliver path refuse";

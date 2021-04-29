@@ -1,1 +1,1 @@
-var mnemonic = "volume hamster move there mixed endless between jungle maximum absurd leave usual";
+var mnemonic = "announce manual elbow sun picnic magic afford usage cradle caution salmon artist";

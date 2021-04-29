@@ -1,1 +1,1 @@
-var mnemonic = "army suspect sail album father consider trash aware across train never neglect";
+var mnemonic = "impulse heart endless believe punch stove aware blush manage evidence ordinary wife";

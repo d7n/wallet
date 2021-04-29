@@ -1,1 +1,1 @@
-var mnemonic = "dutch struggle frozen maid same baby oil hurry vault ship hotel clap";
+var mnemonic = "arm inside young tomato pear horse tourist flee soccer glue chunk chicken";

@@ -1,1 +1,1 @@
-var mnemonic = "puzzle federal imitate shed cancel lava almost color core tuna leopard define";
+var mnemonic = "short rebel attack divorce candy penalty gesture food involve mule mountain various";

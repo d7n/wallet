@@ -1,1 +1,1 @@
-var mnemonic = "network assault tool trumpet arm chapter whip junk other peasant radar proof";
+var mnemonic = "steel snow ski connect lion escape few way stuff during pact sample";

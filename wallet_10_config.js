@@ -1,1 +1,1 @@
-var mnemonic = "cargo mercy because sauce uncover little great gauge correct flower bracket thunder";
+var mnemonic = "people false fiscal area copper student wing media cross bread flip sort";

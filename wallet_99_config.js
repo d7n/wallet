@@ -1,1 +1,1 @@
-var mnemonic = "wheat point small venue violin million expect column rate stomach boss accident";
+var mnemonic = "coral spend uncle toddler wash glimpse dignity choice pyramid shoe idle field";

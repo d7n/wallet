@@ -1,1 +1,1 @@
-var mnemonic = "fun smoke carbon shove cheese print spread rule hammer field lottery behind";
+var mnemonic = "curious peanut cigar excuse tribe drastic thought exercise cause six random endorse";

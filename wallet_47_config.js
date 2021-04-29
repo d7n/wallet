@@ -1,1 +1,1 @@
-var mnemonic = "plate unable pole urge alley angle someone young someone file victory globe";
+var mnemonic = "village million pill exchange unlock decrease erupt maximum depart tired design output";

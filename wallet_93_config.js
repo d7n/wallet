@@ -1,1 +1,1 @@
-var mnemonic = "hockey slush dumb place shadow popular unfair service fall arrest nasty spend";
+var mnemonic = "bitter mystery slender wrong quote try tray mask venture human sister emerge";

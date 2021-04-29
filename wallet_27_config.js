@@ -1,1 +1,1 @@
-var mnemonic = "horn alone lens write gown chunk link grief initial mutual purse apart";
+var mnemonic = "brick tell liar guide fitness ticket clip shove element fame ancient defy";

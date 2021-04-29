@@ -1,1 +1,1 @@
-var mnemonic = "remind holiday world draft virus genuine cream borrow decorate novel weekend nature";
+var mnemonic = "endorse music find insect upset fine celery guilt salute kiwi roast horror";

@@ -1,1 +1,1 @@
-var mnemonic = "chest diamond goddess moral crystal skirt tired certain require mechanic mix canoe";
+var mnemonic = "already oil occur concert abuse census umbrella husband traffic trash poverty easy";

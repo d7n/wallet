@@ -1,1 +1,1 @@
-var mnemonic = "penalty impose borrow innocent kid popular mercy moral shine month guilt fat";
+var mnemonic = "turn accuse retreat silver wait obvious enjoy like uniform suffer shock involve";

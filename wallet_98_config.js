@@ -1,1 +1,1 @@
-var mnemonic = "wine unusual jelly render valid reform hybrid patch left sorry kiwi genuine";
+var mnemonic = "dress recall truth nation benefit tank flip vivid employ elevator calm diagram";

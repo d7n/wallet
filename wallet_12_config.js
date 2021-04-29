@@ -1,1 +1,1 @@
-var mnemonic = "language smoke benefit weather aerobic square dinner solar connect antenna decide quarter";
+var mnemonic = "chimney hip test install frozen worry marriage lady absorb job chest step";

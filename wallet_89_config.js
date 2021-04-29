@@ -1,1 +1,1 @@
-var mnemonic = "unhappy oil giant hedgehog barely knee brain utility world kidney drip seven";
+var mnemonic = "drive prefer rotate slight shuffle write common wear certain pumpkin hundred have";

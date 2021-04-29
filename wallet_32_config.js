@@ -1,1 +1,1 @@
-var mnemonic = "cool vibrant hood aim useful advance night rare flight stem crush flight";
+var mnemonic = "away have own spread culture carry notice medal check weasel barely omit";

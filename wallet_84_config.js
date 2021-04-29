@@ -1,1 +1,1 @@
-var mnemonic = "item brush assault neck evil thank inspire rule merry vacant frost combine";
+var mnemonic = "man maze flower require slim hobby dirt fan tell wrong raccoon cave";

@@ -1,1 +1,1 @@
-var mnemonic = "gate drill lecture miss interest tired civil law refuse invest mom original";
+var mnemonic = "vague winter project slush hub raw dream ivory load pave spare settle";

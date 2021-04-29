@@ -1,1 +1,1 @@
-var mnemonic = "merry auto adult job scan effort pact sand spatial like galaxy grocery";
+var mnemonic = "asset flavor maple sell truck whale swift fat lazy team twenty theme";

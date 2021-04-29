@@ -1,1 +1,1 @@
-var mnemonic = "wasp carry rabbit call truth garlic cargo decide choice aunt finish luxury";
+var mnemonic = "combine pupil bulk aisle twice cloth view antenna border glue fish dove";

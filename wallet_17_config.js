@@ -1,1 +1,1 @@
-var mnemonic = "obey actress pelican poem conduct basket model party shift veteran remove great";
+var mnemonic = "forum else infant buffalo ordinary online extend sniff soup affair coyote disagree";

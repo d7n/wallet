@@ -1,1 +1,1 @@
-var mnemonic = "penalty pet put humble early cushion few foil cave kit faculty flight";
+var mnemonic = "shadow neutral climb ahead dynamic evil talent point sheriff slam predict mad";

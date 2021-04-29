@@ -1,1 +1,1 @@
-var mnemonic = "jungle bind perfect subway solution hurt silent snake share organ confirm parent";
+var mnemonic = "around attack bracket magnet bind pelican industry desk tray claw dumb choice";

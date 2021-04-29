@@ -1,1 +1,1 @@
-var mnemonic = "drink family become despair assault rack assume saddle grape tail erupt few";
+var mnemonic = "fence melody pizza science quarter trap kiwi tomato confirm legal carpet ugly";

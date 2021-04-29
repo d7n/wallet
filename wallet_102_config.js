@@ -1,1 +1,1 @@
-var mnemonic = "husband garden brush grid calm buddy dry error visit toy awful confirm";
+var mnemonic = "orange where soon sausage joy rebel there coast adapt idea chicken blush";

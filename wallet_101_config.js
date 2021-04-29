@@ -1,1 +1,1 @@
-var mnemonic = "film capital fence blush define online autumn crouch buzz shock candy brush";
+var mnemonic = "scheme bracket broom brown shop margin describe sunset nest hundred island suggest";

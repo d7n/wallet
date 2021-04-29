@@ -1,1 +1,1 @@
-var mnemonic = "road car lawn rib tackle young bunker apple brand mansion robust pink";
+var mnemonic = "maze kidney yard clock oak problem spirit bulk predict civil miracle tackle";

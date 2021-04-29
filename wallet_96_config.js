@@ -1,1 +1,1 @@
-var mnemonic = "liberty path around misery hub seek spawn solid south anger resist curve";
+var mnemonic = "eyebrow cheap squeeze horse hint grief pattern purse shine brisk print purpose";

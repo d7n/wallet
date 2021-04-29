@@ -1,1 +1,1 @@
-var mnemonic = "alert alone coconut soccer between found claim guard call require melt tray";
+var mnemonic = "have jacket mechanic gas genius key thrive manage tank wisdom robot tube";

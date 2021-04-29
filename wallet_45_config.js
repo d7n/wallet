@@ -1,1 +1,1 @@
-var mnemonic = "census canal claim shed olive alpha around asthma confirm wing equal idle";
+var mnemonic = "pole enemy middle true issue author success submit script connect diet apart";

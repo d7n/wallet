@@ -1,1 +1,1 @@
-var mnemonic = "similar output visa add truly state dolphin mad truck base spawn coast";
+var mnemonic = "drip rough gun blind skirt reopen later slice base armor divorce bird";

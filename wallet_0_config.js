@@ -1,1 +1,1 @@
-var mnemonic = "enlist surprise bone message unknown soul spirit sword about neutral attract enable";
+var mnemonic = "switch grape episode luggage actor stuff bar decline amazing river glass vast";

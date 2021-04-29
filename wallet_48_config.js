@@ -1,1 +1,1 @@
-var mnemonic = "venue drastic much fantasy maple tennis about salute lawsuit element there predict";
+var mnemonic = "adapt country garlic youth fog wise hip endorse satoshi crop lunch ribbon";

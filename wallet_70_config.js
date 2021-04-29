@@ -1,1 +1,1 @@
-var mnemonic = "trade dragon name degree cart later advance consider moment hollow organ fine";
+var mnemonic = "aim print electric enlist squirrel various seek place sponsor artefact include salon";

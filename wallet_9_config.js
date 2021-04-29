@@ -1,1 +1,1 @@
-var mnemonic = "female patch month trip despair envelope clump frown fiction soon silent execute";
+var mnemonic = "art diary limit arena split foam twice swing announce amused become small";

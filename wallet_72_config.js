@@ -1,1 +1,1 @@
-var mnemonic = "boss pony worth thing myself primary jazz news diagram visa agree artwork";
+var mnemonic = "lazy judge outdoor thing play desk abstract you matrix train journey often";

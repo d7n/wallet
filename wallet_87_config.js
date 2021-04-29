@@ -1,1 +1,1 @@
-var mnemonic = "regular pyramid spoil surge define mention federal hour abstract first entire inspire";
+var mnemonic = "worry intact usage snake soda curve emerge cabin resist cup rural toddler";

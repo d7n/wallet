@@ -1,1 +1,1 @@
-var mnemonic = "wool tunnel spike mobile chronic you reward unfold inside fancy swallow board";
+var mnemonic = "bronze search bulk fault orphan drift pave tube engine one hip admit";

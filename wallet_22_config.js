@@ -1,1 +1,1 @@
-var mnemonic = "soccer shadow three cloth capital attack slow learn shiver kitten gold volcano";
+var mnemonic = "mechanic require gold tiger virus kangaroo focus wrestle bus knee apart pond";

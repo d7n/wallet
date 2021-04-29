@@ -1,1 +1,1 @@
-var mnemonic = "brush wink blood net select into door survey pattern obscure gown tennis";
+var mnemonic = "turtle insect monkey tilt field inmate extend now sing donate thank flight";

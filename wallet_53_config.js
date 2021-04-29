@@ -1,1 +1,1 @@
-var mnemonic = "print possible join noodle strike rail worth spirit punch tumble poet any";
+var mnemonic = "erosion spawn flavor camera turkey west share kick omit artefact short bridge";

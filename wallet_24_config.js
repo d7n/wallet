@@ -1,1 +1,1 @@
-var mnemonic = "harsh history cannon thing stairs blanket equal alone table sample fatal strong";
+var mnemonic = "scissors tennis legal result medal warm armor fabric rack ski laugh elite";

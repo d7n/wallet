@@ -1,1 +1,1 @@
-var mnemonic = "narrow cost minimum ignore review stone document illness peace nurse morning wrist";
+var mnemonic = "gift group believe own exercise cube comfort cool woman six coyote feature";

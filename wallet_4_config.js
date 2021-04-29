@@ -1,1 +1,1 @@
-var mnemonic = "spoon tube camera enrich trouble practice math pupil crystal pole tone skill";
+var mnemonic = "hunt divert motion agent yard melody few swift more video sing girl";

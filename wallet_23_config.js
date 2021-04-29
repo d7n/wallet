@@ -1,1 +1,1 @@
-var mnemonic = "very duty spread stock thunder afford suit client output toward rescue symptom";
+var mnemonic = "venture figure nose purpose coast father broom limit gesture twice hint ahead";

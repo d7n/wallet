@@ -1,1 +1,1 @@
-var mnemonic = "drift saddle mention prepare crater dust coffee text butter lyrics match salad";
+var mnemonic = "bulk tired heart hire text earn own fence torch meadow over drift";

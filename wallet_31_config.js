@@ -1,1 +1,1 @@
-var mnemonic = "dry slab label release prepare deliver file plug clog high moon connect";
+var mnemonic = "food upset identify fine basic fade forest input spider quarter easily angry";

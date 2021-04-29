@@ -1,1 +1,1 @@
-var mnemonic = "purpose hidden alone romance pulse wide time buffalo enhance stairs resource cross";
+var mnemonic = "top initial embrace rookie raccoon equal crumble secret worry message acquire smile";

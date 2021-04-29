@@ -1,1 +1,1 @@
-var mnemonic = "cement minimum inner pig aspect napkin basic mean quarter energy fetch depend";
+var mnemonic = "code document domain zone cage voyage aim sugar license sound cement burden";

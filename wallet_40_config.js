@@ -1,1 +1,1 @@
-var mnemonic = "egg rally walnut measure crouch scale annual taste silver forest lecture level";
+var mnemonic = "foil canvas spawn fancy relief voice coral climb unusual aunt cricket mouse";
