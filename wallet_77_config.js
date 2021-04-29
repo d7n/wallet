@@ -1,1 +1,1 @@
-var mnemonic = "major amount fit sudden genre second hobby kite adapt baby cereal skull";
+var mnemonic = "design gravity hockey regular raccoon tired faculty close need random sense tuna";

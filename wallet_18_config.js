@@ -1,1 +1,1 @@
-var mnemonic = "access receive favorite erupt glory belt travel wealth owner ice round wheat";
+var mnemonic = "reform solve rude flock cheese license alert double since release shock print";

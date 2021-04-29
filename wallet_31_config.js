@@ -1,1 +1,1 @@
-var mnemonic = "hand cup thing snap search total duty one snake engage hospital slogan";
+var mnemonic = "weasel loyal science where spike airport noble mother bridge margin walk tomato";

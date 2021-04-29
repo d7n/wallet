@@ -1,1 +1,1 @@
-var mnemonic = "obvious gesture food ready wife diagram carpet wasp limb sorry argue onion";
+var mnemonic = "mouse want cute rabbit amazing park vault couch bike drop tribe mammal";

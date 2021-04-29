@@ -1,1 +1,1 @@
-var mnemonic = "curtain source apple romance wear gym teach muscle quiz head cook raccoon";
+var mnemonic = "memory arena snack faint idea proof kitten cram boy salon easily barrel";

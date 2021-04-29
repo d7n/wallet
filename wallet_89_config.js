@@ -1,1 +1,1 @@
-var mnemonic = "exhibit floor radio fiction nest angry tent mango still squeeze unhappy rhythm";
+var mnemonic = "hint decide shoulder what close inherit adjust ketchup loop merry silver immune";

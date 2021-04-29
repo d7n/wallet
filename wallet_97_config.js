@@ -1,1 +1,1 @@
-var mnemonic = "vessel hand cable ball forget pretty charge traffic caught learn bracket lend";
+var mnemonic = "turkey laptop toss list guitar lizard supreme inside half nice excite trip";

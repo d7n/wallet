@@ -1,1 +1,1 @@
-var mnemonic = "much side finish sport wasp first arctic capital rotate crop case video";
+var mnemonic = "soccer winter antique radio relief pretty little alien inform reward dizzy crime";

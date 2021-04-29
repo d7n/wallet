@@ -1,1 +1,1 @@
-var mnemonic = "face mention phone always harvest remind seed heart lucky keen sight impulse";
+var mnemonic = "access viable little pepper check detail venture moon forward prize spend season";

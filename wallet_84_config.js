@@ -1,1 +1,1 @@
-var mnemonic = "actual gym settle toast second beauty saddle pause buyer system staff cost";
+var mnemonic = "curious bring ribbon minor artefact vehicle defy security winter foam lawn trick";

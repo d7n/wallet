@@ -1,1 +1,1 @@
-var mnemonic = "eager remember aspect crane beef brother romance element decorate industry adapt save";
+var mnemonic = "web iron velvet fresh afford unique lawsuit erode hard long oppose bubble";

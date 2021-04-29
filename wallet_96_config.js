@@ -1,1 +1,1 @@
-var mnemonic = "pyramid mistake tiger clutch around valid exercise six bamboo world baby repair";
+var mnemonic = "possible room bench trip affair knife second pull cloth bunker clever easily";

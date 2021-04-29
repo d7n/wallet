@@ -1,1 +1,1 @@
-var mnemonic = "raw shed kind spare month mechanic parade corn faculty rude disease fan";
+var mnemonic = "elevator stumble tape improve canoe nice grocery bone inhale news dignity remain";

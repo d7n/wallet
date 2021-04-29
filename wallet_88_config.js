@@ -1,1 +1,1 @@
-var mnemonic = "sing quality message loan unhappy eternal series fiction kitchen copper vault kiwi";
+var mnemonic = "unfold sleep plastic oval prefer text reopen analyst salon final any century";

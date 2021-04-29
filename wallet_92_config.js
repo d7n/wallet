@@ -1,1 +1,1 @@
-var mnemonic = "debris rich industry find laptop abuse orbit candy grit caught mad vendor";
+var mnemonic = "holiday blame echo either box chalk job regular dinner stone fish knife";

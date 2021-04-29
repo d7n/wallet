@@ -1,1 +1,1 @@
-var mnemonic = "bicycle flee pretty chicken physical comic inspire sun favorite lunar rug borrow";
+var mnemonic = "share level dust rally cake warm roof surround machine upgrade surround wife";

@@ -1,1 +1,1 @@
-var mnemonic = "subject task guide stereo survey bulb pelican laptop fine leisure dutch game";
+var mnemonic = "champion unaware impose popular welcome jazz define quit manual usage column cycle";

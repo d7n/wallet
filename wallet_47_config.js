@@ -1,1 +1,1 @@
-var mnemonic = "home deny aunt oil dolphin dinosaur toilet trigger seed limit easy edge";
+var mnemonic = "car void scrub alien series globe shed april anger reopen crumble scale";

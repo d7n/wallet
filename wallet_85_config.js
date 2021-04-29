@@ -1,1 +1,1 @@
-var mnemonic = "surround coffee swim advice spot burger before protect water wheat rather bread";
+var mnemonic = "ranch kangaroo two inside strong unveil crucial equal glass mouse minor beef";

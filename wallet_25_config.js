@@ -1,1 +1,1 @@
-var mnemonic = "surge violin dry able acoustic gate dad employ casino custom lunar daughter";
+var mnemonic = "wing special kitchen mimic color shrimp actual cook luxury tip enact couple";

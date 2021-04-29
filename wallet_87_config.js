@@ -1,1 +1,1 @@
-var mnemonic = "potato dolphin hockey spare behave jewel flavor ticket system dash vital acoustic";
+var mnemonic = "switch gas position puppy relief place credit seat stone asthma glide current";

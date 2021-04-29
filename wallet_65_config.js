@@ -1,1 +1,1 @@
-var mnemonic = "extend genre range perfect famous collect vessel child balcony quit argue pond";
+var mnemonic = "tone avoid tide vote hill muscle humble state gym absurd fly produce";

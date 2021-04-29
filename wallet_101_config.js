@@ -1,1 +1,1 @@
-var mnemonic = "decline ritual balance nominee bless certain client fetch lunar attack caught nest";
+var mnemonic = "more general grit mystery online rug stem inside shy ginger fame nurse";

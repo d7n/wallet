@@ -1,1 +1,1 @@
-var mnemonic = "begin episode mix useless appear nasty yard jacket congress parrot bullet stay";
+var mnemonic = "lemon census doctor artwork three radar aim special absent stable issue undo";

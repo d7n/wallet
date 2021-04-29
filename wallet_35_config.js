@@ -1,1 +1,1 @@
-var mnemonic = "garden expose lumber work minor three excite obvious seed exchange dog mixture";
+var mnemonic = "farm border drift elevator raccoon mind stay cactus comfort awake ordinary truth";

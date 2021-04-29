@@ -1,1 +1,1 @@
-var mnemonic = "exotic immune country bracket spin used start timber indicate budget appear option";
+var mnemonic = "trust surface damp energy visit heavy crouch powder rural they head month";

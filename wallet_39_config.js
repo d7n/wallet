@@ -1,1 +1,1 @@
-var mnemonic = "aunt rain recall double road wood what cream home vendor vicious lift";
+var mnemonic = "honey helmet park topic ice lunch retire vintage ticket enlist walnut guess";

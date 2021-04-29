@@ -1,1 +1,1 @@
-var mnemonic = "inform reflect taste rural develop acquire negative knife odor degree crucial heart";
+var mnemonic = "volcano deny barely fan muscle truly grid sing deal surround verify add";

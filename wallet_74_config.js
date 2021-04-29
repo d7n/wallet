@@ -1,1 +1,1 @@
-var mnemonic = "mixed magnet normal carpet approve bachelor very east master taxi share movie";
+var mnemonic = "process fitness duty amazing field stool business arrow helmet asset strike avocado";

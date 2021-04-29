@@ -1,1 +1,1 @@
-var mnemonic = "disease moral evidence general elevator kiss modify staff clarify owner curious loud";
+var mnemonic = "result luxury upper advance say inform domain glory gap document sponsor wife";

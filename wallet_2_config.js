@@ -1,1 +1,1 @@
-var mnemonic = "come tiny bachelor must segment double calm junior stumble agent trash egg";
+var mnemonic = "trend island during cupboard depth famous crop tag scan silent spread garment";

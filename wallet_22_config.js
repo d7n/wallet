@@ -1,1 +1,1 @@
-var mnemonic = "laugh arrange equal project ramp alien harsh wink myself happy sport snake";
+var mnemonic = "napkin reduce unit awesome assume risk approve just traffic fog scare sunny";

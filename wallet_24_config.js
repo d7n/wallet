@@ -1,1 +1,1 @@
-var mnemonic = "display survey wheat dash observe rotate gold myth fat drill summer announce";
+var mnemonic = "ancient maid boring end barrel right club concert cannon roast receive edge";

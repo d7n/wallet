@@ -1,1 +1,1 @@
-var mnemonic = "economy charge immune rally pear ice sheriff evolve favorite list clip team";
+var mnemonic = "motion word verify immune junk volcano half defense rival shine neglect boost";

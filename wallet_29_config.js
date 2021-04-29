@@ -1,1 +1,1 @@
-var mnemonic = "fat scorpion gym cherry danger measure spring labor snake unable language lyrics";
+var mnemonic = "knock punch federal kidney upgrade violin tomato wasp dress wheat crystal angle";

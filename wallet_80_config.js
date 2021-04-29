@@ -1,1 +1,1 @@
-var mnemonic = "nurse mirror assault lumber sniff float door limit quiz wild pelican dog";
+var mnemonic = "exclude hundred habit lady note start pink dust youth dentist follow shiver";

@@ -1,1 +1,1 @@
-var mnemonic = "chuckle refuse bronze lunar basket rule pupil aunt fitness swallow length chase";
+var mnemonic = "finish season fresh awesome kick dinner awake tobacco card expand cry sudden";

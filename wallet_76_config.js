@@ -1,1 +1,1 @@
-var mnemonic = "firm deal satoshi fine guess enforce subject replace put finish shed story";
+var mnemonic = "upon bus parent insane romance lizard struggle screen render loud eyebrow usage";

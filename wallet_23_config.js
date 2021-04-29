@@ -1,1 +1,1 @@
-var mnemonic = "easy beach omit mountain ancient isolate gap lizard shove scale pizza tray";
+var mnemonic = "knock drama orient document scatter wall doctor fish crater alley noise neutral";

@@ -1,1 +1,1 @@
-var mnemonic = "arrive cattle today skull garage beyond develop venue alter bounce toast lobster";
+var mnemonic = "project either innocent health metal liberty wave chase suspect park sauce interest";

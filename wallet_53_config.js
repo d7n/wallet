@@ -1,1 +1,1 @@
-var mnemonic = "have helmet scorpion fade hover image armed trouble bird lemon fitness crop";
+var mnemonic = "device youth lab program knife decide west age parent fetch glory spice";

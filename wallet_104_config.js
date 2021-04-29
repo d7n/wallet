@@ -1,1 +1,1 @@
-var mnemonic = "jelly tongue blood aisle soap unaware spend toilet economy major awkward mother";
+var mnemonic = "wage tonight guess easily tooth still art helmet home aim bird push";

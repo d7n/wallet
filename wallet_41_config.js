@@ -1,1 +1,1 @@
-var mnemonic = "shock industry meadow huge rug armed similar loud nose jealous offer parade";
+var mnemonic = "wild edge limb sleep bitter physical naive deputy wheat first already trophy";

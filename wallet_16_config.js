@@ -1,1 +1,1 @@
-var mnemonic = "baby egg certain vendor confirm border aisle book wide rocket beyond since";
+var mnemonic = "goat dilemma toddler divide bone bless leader bargain body slight extend hard";

@@ -1,1 +1,1 @@
-var mnemonic = "nephew wool one result zoo hazard resemble cushion degree spend inherit twist";
+var mnemonic = "december current frame abuse assume require battle appear real silk adjust enroll";

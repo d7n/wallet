@@ -1,1 +1,1 @@
-var mnemonic = "movie shed swamp outdoor pulp arch aware dial clay excess island cluster";
+var mnemonic = "hidden young goat analyst gauge menu manual fetch evolve amount prosper gold";

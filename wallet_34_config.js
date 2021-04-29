@@ -1,1 +1,1 @@
-var mnemonic = "craft drama frown pig boy arch bargain theory remind link direct need";
+var mnemonic = "ticket aerobic host tiny violin mass give goat stereo ability wonder powder";

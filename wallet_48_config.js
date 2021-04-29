@@ -1,1 +1,1 @@
-var mnemonic = "cloud dune wisdom pepper such fabric alarm hard client rural fetch cherry";
+var mnemonic = "fever chimney snack glue patrol toast bullet agree resemble trip culture salt";

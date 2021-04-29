@@ -1,1 +1,1 @@
-var mnemonic = "indicate nest grit twin become hen disorder monster renew menu green oblige";
+var mnemonic = "inform popular toe outside patient improve decorate river tooth course useful often";

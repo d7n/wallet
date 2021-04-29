@@ -1,1 +1,1 @@
-var mnemonic = "magnet wait quarter man bottom soul road flash raven hand heavy orphan";
+var mnemonic = "bind spot lend power silly update illegal field dutch foster wheat retire";

@@ -1,1 +1,1 @@
-var mnemonic = "express swarm trust sorry monster agree soccer glance unique modify cupboard chronic";
+var mnemonic = "civil wrestle tail mail aunt since liquid toilet mask invest layer brother";

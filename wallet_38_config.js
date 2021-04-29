@@ -1,1 +1,1 @@
-var mnemonic = "destroy panda series tool fault squirrel clean govern panther pledge shiver welcome";
+var mnemonic = "struggle grid almost supreme foot you rival train acquire pen trap still";

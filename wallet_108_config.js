@@ -1,1 +1,1 @@
-var mnemonic = "afraid blossom text country ignore ill harsh hybrid layer jacket team drum";
+var mnemonic = "peace lottery critic element arctic flush cause salad increase poverty tape idea";

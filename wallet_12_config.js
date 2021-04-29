@@ -1,1 +1,1 @@
-var mnemonic = "filter inmate token stage base great bread champion olympic theme ramp abandon";
+var mnemonic = "seminar square review act tent stable vibrant orphan attack erupt poem load";

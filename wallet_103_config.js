@@ -1,1 +1,1 @@
-var mnemonic = "pitch domain like pledge antique loan luxury sense dinner matter run minimum";
+var mnemonic = "prevent humble wish wisdom inspire flight minor host dizzy review mercy awful";

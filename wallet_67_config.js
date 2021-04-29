@@ -1,1 +1,1 @@
-var mnemonic = "panther valve arena play favorite remind eternal debris creek drink goose clerk";
+var mnemonic = "act vocal portion guard snack father amateur company area all bulb dog";

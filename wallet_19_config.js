@@ -1,1 +1,1 @@
-var mnemonic = "gap legend color parent rocket salt vault copy ramp brass limb lemon";
+var mnemonic = "tray language any stairs tip custom rhythm tape lamp behave museum empty";

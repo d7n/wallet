@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo height warrior firm attack wheat run claim brass mammal width bamboo";
+var mnemonic = "garlic weird jar soccer unlock main focus hat ladder miracle found bronze";

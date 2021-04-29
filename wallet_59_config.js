@@ -1,1 +1,1 @@
-var mnemonic = "upper gaze allow file flavor cupboard scout volcano dinner pluck ceiling carbon";
+var mnemonic = "outdoor into sauce payment labor win riot depend south bridge treat found";

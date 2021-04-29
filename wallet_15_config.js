@@ -1,1 +1,1 @@
-var mnemonic = "curve fresh finish alley luggage ancient chimney pig outside comic edit sudden";
+var mnemonic = "intact firm input rib blush neglect drop trip name monitor whip tone";

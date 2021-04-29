@@ -1,1 +1,1 @@
-var mnemonic = "museum prefer prosper shed sniff solid warm whip exercise valve tortoise iron";
+var mnemonic = "fuel kit speed pretty flat garden alarm confirm august lunch airport peasant";

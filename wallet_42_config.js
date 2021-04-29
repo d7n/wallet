@@ -1,1 +1,1 @@
-var mnemonic = "response wreck system also prepare rib cannon enemy grid window various poet";
+var mnemonic = "zone charge rival shiver industry crater nut fame liberty twelve bag pencil";

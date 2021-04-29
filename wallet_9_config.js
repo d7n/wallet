@@ -1,1 +1,1 @@
-var mnemonic = "illness ozone phone involve stuff olive kit same search rack mesh prison";
+var mnemonic = "fan ramp inject host quiz retreat setup demise throw novel hurry valid";

@@ -1,1 +1,1 @@
-var mnemonic = "awesome curtain unlock youth much provide nerve must course rack myself early";
+var mnemonic = "hub combine crawl shell route brisk grit toilet actor spy time segment";

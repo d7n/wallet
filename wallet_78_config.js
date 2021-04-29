@@ -1,1 +1,1 @@
-var mnemonic = "item age accuse slush grit million alarm attitude during peanut drip remain";
+var mnemonic = "salad celery happy fun issue inform warfare album cushion sad dune toddler";

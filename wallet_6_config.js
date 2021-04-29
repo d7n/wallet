@@ -1,1 +1,1 @@
-var mnemonic = "transfer amateur sadness slab easily rotate marine staff loyal adult merit liberty";
+var mnemonic = "fade exist question dish frozen differ grunt release dynamic drop bag depend";

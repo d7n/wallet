@@ -1,1 +1,1 @@
-var mnemonic = "skate scare hand carbon liar buffalo approve hard crime want dose shoe";
+var mnemonic = "father hollow bread silly balcony erupt grape hurry ice shoe cave basket";

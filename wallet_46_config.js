@@ -1,1 +1,1 @@
-var mnemonic = "then inform evidence else spend clog pelican notice rib nature mandate rose";
+var mnemonic = "convince peanut clown slam butter gap series transfer pizza danger believe book";

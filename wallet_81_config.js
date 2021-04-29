@@ -1,1 +1,1 @@
-var mnemonic = "swarm merry strong bleak pumpkin maid win modify capable glad salmon fancy";
+var mnemonic = "civil execute session rotate human oak wolf toss rely zero improve explain";

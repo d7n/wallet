@@ -1,1 +1,1 @@
-var mnemonic = "echo mention identify artist that spread left orphan rifle tragic season minimum";
+var mnemonic = "dish receive steak laugh swing shrug ostrich lunch sort point fringe vacuum";

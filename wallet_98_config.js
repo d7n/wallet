@@ -1,1 +1,1 @@
-var mnemonic = "unable clean access slow enlist receive ranch joke cage south blanket charge";
+var mnemonic = "monster cheese salt addict myth chest fashion skill save mimic twelve page";

@@ -1,1 +1,1 @@
-var mnemonic = "combine drift enable army level battle spray cup garbage brown chef danger";
+var mnemonic = "connect earn gun sibling neutral few correct organ cabin ivory office desert";

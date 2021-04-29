@@ -1,1 +1,1 @@
-var mnemonic = "bright rough innocent large fox illness lunar pledge click rare cliff rabbit";
+var mnemonic = "someone left rebel series venture ginger pulp wave nest fish one apart";

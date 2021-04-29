@@ -1,1 +1,1 @@
-var mnemonic = "badge cool hurdle man true long bleak capable uniform disagree road veteran";
+var mnemonic = "drill stereo upon toy potato alley shine peasant six soap radar another";

@@ -1,1 +1,1 @@
-var mnemonic = "sense mean scale attack almost gesture donor express network tribe mother actor";
+var mnemonic = "there mix this expect clown purse network turtle result time dream know";

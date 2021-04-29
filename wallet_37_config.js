@@ -1,1 +1,1 @@
-var mnemonic = "strong soap wage stem area never advice wise check conduct fluid chunk";
+var mnemonic = "island print argue crowd quantum youth spawn cinnamon attack update source stable";

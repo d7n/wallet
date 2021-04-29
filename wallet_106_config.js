@@ -1,1 +1,1 @@
-var mnemonic = "dirt slot thank dust ankle abstract surge ivory sword cool theory also";
+var mnemonic = "captain kid reunion world degree chimney glare burst oval chair suspect stable";

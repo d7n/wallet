@@ -1,1 +1,1 @@
-var mnemonic = "action yellow present kite offer aspect guilt people frozen favorite december talk";
+var mnemonic = "panther identify wedding virus wet crisp minor churn congress bring hover rebel";

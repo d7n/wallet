@@ -1,1 +1,1 @@
-var mnemonic = "beach invest little quick monkey ancient cover invite air amount keep quote";
+var mnemonic = "crucial country cup birth address fame car camera lonely bright rebel price";

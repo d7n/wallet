@@ -1,1 +1,1 @@
-var mnemonic = "obscure junior twist recall room normal depart sword situate matter grant educate";
+var mnemonic = "toilet lend lion mansion woman vanish bird illegal whip claw rapid eight";

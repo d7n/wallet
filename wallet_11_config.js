@@ -1,1 +1,1 @@
-var mnemonic = "car ridge fox rival type snack elbow bus slice easily casino enforce";
+var mnemonic = "defy pudding cement eight crash mutual aspect repair field quit kid evil";

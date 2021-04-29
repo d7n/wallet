@@ -1,1 +1,1 @@
-var mnemonic = "uniform hotel panel worth cancel cry elbow velvet penalty margin submit swing";
+var mnemonic = "mimic idea curious trip eye bone prison sell flight tourist another agent";

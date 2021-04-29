@@ -1,1 +1,1 @@
-var mnemonic = "stuff frown govern cluster juice earth receive million hair raw stamp margin";
+var mnemonic = "first mind basic deal evidence rack grid agree version wood service wage";

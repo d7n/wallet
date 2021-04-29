@@ -1,1 +1,1 @@
-var mnemonic = "found shiver income chaos point pride bird reason sorry citizen solution math";
+var mnemonic = "above divide fabric engage major leopard vote skill involve tone oval miracle";

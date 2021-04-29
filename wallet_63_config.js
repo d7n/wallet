@@ -1,1 +1,1 @@
-var mnemonic = "erode crowd abuse opera glory deposit fence iron topic shock pet own";
+var mnemonic = "waste question athlete virtual divorce bone vital heart post shaft forward ugly";

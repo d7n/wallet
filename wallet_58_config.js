@@ -1,1 +1,1 @@
-var mnemonic = "improve rose leader mass flash dove hole belt verb puzzle shrimp carbon";
+var mnemonic = "weird spawn drive stamp open brass carbon crack radar monster budget couch";

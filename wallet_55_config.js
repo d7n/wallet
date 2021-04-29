@@ -1,1 +1,1 @@
-var mnemonic = "turtle crucial cook noodle spell result lens aspect dice grow gap slab";
+var mnemonic = "isolate step proof daughter rude butter cousin silk gasp monster knee junk";

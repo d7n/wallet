@@ -1,1 +1,1 @@
-var mnemonic = "potato leg wonder net inmate moon need damage body mask infant sick";
+var mnemonic = "thrive elephant midnight sound grocery market false hello suspect whale hammer source";

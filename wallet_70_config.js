@@ -1,1 +1,1 @@
-var mnemonic = "lion kind general coin frozen pilot denial spin whisper birth cause wave";
+var mnemonic = "clown used furnace road dumb someone sound card trend insect divide amused";

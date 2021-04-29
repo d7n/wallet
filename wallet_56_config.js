@@ -1,1 +1,1 @@
-var mnemonic = "penalty deal legend error gap story lunar piece alien patient broccoli scene";
+var mnemonic = "aspect film zebra evolve beyond plug sad essay dwarf spray arrest pluck";

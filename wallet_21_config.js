@@ -1,1 +1,1 @@
-var mnemonic = "price water cash thrive predict among balance test carbon youth wild inspire";
+var mnemonic = "crime spatial inch news used flower latin object stable lava inform ribbon";
