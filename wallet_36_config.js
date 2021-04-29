@@ -1,1 +1,1 @@
-var mnemonic = "wish borrow sign universe atom rude civil rail day armor fuel cattle";
+var mnemonic = "voyage filter quarter cabbage health hero awful submit differ lizard birth mutual";

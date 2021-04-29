@@ -1,1 +1,1 @@
-var mnemonic = "trouble senior change beauty pen ankle consider shadow glass merry bread invite";
+var mnemonic = "despair artist destroy own fatal arrive mystery abuse leisure arch bulb surge";

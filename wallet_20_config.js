@@ -1,1 +1,1 @@
-var mnemonic = "seek suffer husband cycle surge name negative grace jungle lobster decade split";
+var mnemonic = "moon join wall post across wood napkin meadow stable sting liberty image";

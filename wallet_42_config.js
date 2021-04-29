@@ -1,1 +1,1 @@
-var mnemonic = "cycle robust pioneer tone pave wet barrel limb atom cash shove burden";
+var mnemonic = "bracket debris cash rude unlock identify distance goat denial steel plastic match";

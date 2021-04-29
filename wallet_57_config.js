@@ -1,1 +1,1 @@
-var mnemonic = "when tent solid abandon stereo unhappy castle kingdom stem leave east april";
+var mnemonic = "nature actress session eight always doctor find double impact screen pyramid summer";

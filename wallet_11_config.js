@@ -1,1 +1,1 @@
-var mnemonic = "upgrade wrist expose income total host author mushroom labor story chimney night";
+var mnemonic = "cabbage million thought vicious piano glass clip grant denial until lawn cabbage";

@@ -1,1 +1,1 @@
-var mnemonic = "name keen flock idle ancient health route involve race detect task trigger";
+var mnemonic = "evil zebra hip relief picnic wood jaguar enforce moral reject spare twelve";

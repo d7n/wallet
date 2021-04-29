@@ -1,1 +1,1 @@
-var mnemonic = "sting hundred end swamp emerge crane tragic quit tribe flag helmet lab";
+var mnemonic = "pass crane cry unaware easy dress wolf glad please pipe gate crack";

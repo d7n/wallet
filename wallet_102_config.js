@@ -1,1 +1,1 @@
-var mnemonic = "ride gentle lumber force wet become cover friend gentle kiss trophy rely";
+var mnemonic = "elephant agree easy deal until demise banner harsh carbon nut galaxy silver";

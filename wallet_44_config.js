@@ -1,1 +1,1 @@
-var mnemonic = "gun puzzle torch thank oyster order gun usual report inside grain snack";
+var mnemonic = "ten give angry half twin elephant list cotton speed scout talk theme";

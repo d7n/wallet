@@ -1,1 +1,1 @@
-var mnemonic = "hard device system ranch brain habit welcome disagree admit right route abuse";
+var mnemonic = "dragon enable guilt mechanic use fatal chaos mule target logic exhaust swear";

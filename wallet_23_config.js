@@ -1,1 +1,1 @@
-var mnemonic = "vibrant desert fatal surge degree topic wine oak attack symptom couch thumb";
+var mnemonic = "tent swing aunt keep lottery banner attitude mistake reject vessel shadow intact";

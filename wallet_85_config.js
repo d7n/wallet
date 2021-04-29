@@ -1,1 +1,1 @@
-var mnemonic = "nice aunt census calm index upset hammer identify diamond normal barely corn";
+var mnemonic = "scatter say derive still elite already advance cheap risk gap together code";

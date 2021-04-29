@@ -1,1 +1,1 @@
-var mnemonic = "slice sausage pen frozen alone wine virus educate pig slogan brisk laundry";
+var mnemonic = "seat pudding brain clinic shop spring liquid slam undo they where exotic";

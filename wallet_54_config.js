@@ -1,1 +1,1 @@
-var mnemonic = "federal track recipe satoshi gossip skirt angry broom sugar inmate couple angry";
+var mnemonic = "junk diamond disorder hammer maple wall wave earn crush access portion cement";

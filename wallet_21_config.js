@@ -1,1 +1,1 @@
-var mnemonic = "token remember young option lunch romance fortune width indoor unfold lecture soul";
+var mnemonic = "chunk fantasy parade cattle ranch man piano face trophy atom hat question";

@@ -1,1 +1,1 @@
-var mnemonic = "forget side sniff just where defy type fatal marine observe sweet social";
+var mnemonic = "mom melt fly gravity tenant claim obvious piano kingdom moral erase march";

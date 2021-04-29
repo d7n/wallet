@@ -1,1 +1,1 @@
-var mnemonic = "more figure planet hire hard notable target wave book wine such trophy";
+var mnemonic = "alarm brave inquiry neck tragic zebra bubble modify mosquito risk record address";

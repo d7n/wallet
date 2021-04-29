@@ -1,1 +1,1 @@
-var mnemonic = "profit area more kid trumpet bomb fatigue glue plate naive voice birth";
+var mnemonic = "flat symptom hub anxiety else square best wage cruise city blouse excess";

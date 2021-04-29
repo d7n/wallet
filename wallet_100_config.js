@@ -1,1 +1,1 @@
-var mnemonic = "bonus kick used leopard like violin emerge flash trend moon visa aware";
+var mnemonic = "aware globe festival coach apart search vendor jacket bus wrist about drill";

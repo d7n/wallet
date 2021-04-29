@@ -1,1 +1,1 @@
-var mnemonic = "tongue adult divert produce sword reflect turn media cousin already prevent skin";
+var mnemonic = "bracket adult gown artist top stone purity defy basket ostrich veteran warrior";

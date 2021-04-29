@@ -1,1 +1,1 @@
-var mnemonic = "pony syrup sand minor treat twelve account weapon people warfare expand alter";
+var mnemonic = "ozone usual rebuild wear rifle nominee opinion jealous attend party beyond whale";

@@ -1,1 +1,1 @@
-var mnemonic = "defy swallow category ecology stumble famous cable cycle claim defense prosper marriage";
+var mnemonic = "buyer useless brain asset leave camera exercise health pulp obscure give believe";

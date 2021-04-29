@@ -1,1 +1,1 @@
-var mnemonic = "identify gown walnut wrap vendor student flag mind right once spare edge";
+var mnemonic = "dinner tortoise autumn fish shield enemy asset dog inch intact mesh cash";

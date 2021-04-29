@@ -1,1 +1,1 @@
-var mnemonic = "jaguar worth pill kite trophy fine drive owner sunset addict wire radio";
+var mnemonic = "city outdoor inherit away metal can phrase raven attitude chronic accident typical";

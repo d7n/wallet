@@ -1,1 +1,1 @@
-var mnemonic = "shine axis gate pyramid garment cage notable destroy punch normal media plunge";
+var mnemonic = "churn survey organ trend despair close orange tag unable toe fly metal";

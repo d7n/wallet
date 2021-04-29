@@ -1,1 +1,1 @@
-var mnemonic = "inquiry conduct hope stomach gauge exercise ugly switch upset stone acid spoon";
+var mnemonic = "amateur giraffe resource globe oval fat cat gossip present token dream tail";

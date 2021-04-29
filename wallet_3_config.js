@@ -1,1 +1,1 @@
-var mnemonic = "effort rib grunt fringe kingdom earn calm sight tent jealous forum motor";
+var mnemonic = "buddy toward invite sense stuff bird spin reform crack course diary base";

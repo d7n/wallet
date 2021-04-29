@@ -1,1 +1,1 @@
-var mnemonic = "wear shock deputy fit enough grid logic avocado fashion blush tower palm";
+var mnemonic = "stereo pond hole dinner copper lizard ritual eagle click proof spoon source";

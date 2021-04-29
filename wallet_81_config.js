@@ -1,1 +1,1 @@
-var mnemonic = "card connect length arm decide execute waste drill bleak eyebrow puppy swing";
+var mnemonic = "into defense pipe people project arena mobile valley annual sure comic layer";

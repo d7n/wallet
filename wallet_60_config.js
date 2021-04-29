@@ -1,1 +1,1 @@
-var mnemonic = "wide panther tail corn foam jacket depend teach bird nothing rigid mechanic";
+var mnemonic = "like favorite danger fuel oblige hire ridge sell almost prepare reflect shoulder";

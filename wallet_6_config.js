@@ -1,1 +1,1 @@
-var mnemonic = "inner total sing fiction age siege head device age scissors napkin inflict";
+var mnemonic = "raven debris brief chase remain air attitude main solution primary castle clerk";

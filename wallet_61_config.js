@@ -1,1 +1,1 @@
-var mnemonic = "taxi season document wealth detail reduce dance snake hint plate feel evoke";
+var mnemonic = "can approve clever suspect child card gorilla section gossip bachelor speed knock";

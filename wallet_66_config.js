@@ -1,1 +1,1 @@
-var mnemonic = "govern report moral usual fetch mule tube lucky accuse nothing series slide";
+var mnemonic = "balcony make soap gesture raven knee mass weasel glass expose simple page";

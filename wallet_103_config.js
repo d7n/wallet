@@ -1,1 +1,1 @@
-var mnemonic = "delay essence option attitude twin slight frame battle lyrics utility size horn";
+var mnemonic = "hunt frown inner shy join wash couch color erosion proud sniff broken";

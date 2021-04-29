@@ -1,1 +1,1 @@
-var mnemonic = "utility pilot gauge robot govern like hill pool budget modify network myself";
+var mnemonic = "unlock photo join feature item ship biology retire vicious broom trust weather";

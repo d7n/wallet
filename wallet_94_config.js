@@ -1,1 +1,1 @@
-var mnemonic = "science wine napkin spike network erupt elite virtual october knock rack rug";
+var mnemonic = "measure black february visa faint tackle load toddler raven universe region burst";

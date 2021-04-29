@@ -1,1 +1,1 @@
-var mnemonic = "fossil spatial debris rail merry horn avoid state output harbor culture force";
+var mnemonic = "angle blood layer mad claim gadget decline grit urge target price drop";

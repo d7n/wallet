@@ -1,1 +1,1 @@
-var mnemonic = "grid lazy tunnel bench dance change wreck never team primary hobby coconut";
+var mnemonic = "welcome situate cannon upgrade crop horse pretty fun devote alley volume brush";

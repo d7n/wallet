@@ -1,1 +1,1 @@
-var mnemonic = "obtain quality roast ginger kitchen faculty vivid utility ceiling army exile dog";
+var mnemonic = "stand wheat infant culture pear ocean attract matter oblige vote twelve ring";

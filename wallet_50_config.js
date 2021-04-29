@@ -1,1 +1,1 @@
-var mnemonic = "chief genuine draft combine cool general bargain equal trap stuff nothing lobster";
+var mnemonic = "maple forward fitness mosquito twelve glimpse seat item that shrimp couch alley";

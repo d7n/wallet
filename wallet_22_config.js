@@ -1,1 +1,1 @@
-var mnemonic = "situate awesome kite slogan crumble federal earth picnic afford brush coin senior";
+var mnemonic = "spray key truck manage clean wing social sign skirt chair wolf romance";

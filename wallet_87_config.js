@@ -1,1 +1,1 @@
-var mnemonic = "glimpse broccoli noodle outdoor wisdom convince decide lemon joke pride office prevent";
+var mnemonic = "firm inform success hockey spray badge can bike express smooth sauce enforce";

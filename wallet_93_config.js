@@ -1,1 +1,1 @@
-var mnemonic = "advice spend armed night pool gain gravity sphere own recipe gold tape";
+var mnemonic = "mushroom cup skin charge glad bullet head service feed outer kitten fabric";

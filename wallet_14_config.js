@@ -1,1 +1,1 @@
-var mnemonic = "dismiss praise urban diamond sea glory antique sphere canyon response bargain present";
+var mnemonic = "insect detail artist battle profit sheriff kite select foam dutch border wine";

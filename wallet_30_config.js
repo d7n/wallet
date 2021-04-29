@@ -1,1 +1,1 @@
-var mnemonic = "faith squeeze strike garbage mercy potato energy next betray decline merge jealous";
+var mnemonic = "aerobic thunder enroll ribbon cotton vendor damage police scan duty adapt audit";

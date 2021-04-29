@@ -1,1 +1,1 @@
-var mnemonic = "shield view palm gravity satisfy used dove village lend convince unknown write";
+var mnemonic = "expect roast tent cry trash pet jazz today soup wasp segment immune";

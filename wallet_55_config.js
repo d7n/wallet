@@ -1,1 +1,1 @@
-var mnemonic = "immense donkey cook process people liberty siege million royal ribbon degree inquiry";
+var mnemonic = "scare street visa energy ripple will economy monster pumpkin metal dawn solution";

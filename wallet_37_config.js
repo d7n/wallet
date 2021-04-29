@@ -1,1 +1,1 @@
-var mnemonic = "soap oval spider buddy pen decade draft citizen phrase wine outer advance";
+var mnemonic = "happy lion goddess novel entire piece follow pulse series slow jungle aware";

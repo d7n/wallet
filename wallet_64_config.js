@@ -1,1 +1,1 @@
-var mnemonic = "kit never disorder volume small else answer eye morning angle mesh ensure";
+var mnemonic = "push audit loud priority version frown grass enact speak enforce bracket steel";

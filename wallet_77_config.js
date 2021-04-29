@@ -1,1 +1,1 @@
-var mnemonic = "undo minute december exist island today armor sell risk pony below release";
+var mnemonic = "orient enhance early fetch aunt tail recall cruel kind simple property fury";

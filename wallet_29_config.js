@@ -1,1 +1,1 @@
-var mnemonic = "atom side crazy magic negative vote task smile thunder jacket depend keen";
+var mnemonic = "tone clip foil rent february gift subject latin pink daughter uncover old";

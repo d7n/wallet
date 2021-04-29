@@ -1,1 +1,1 @@
-var mnemonic = "silver legend camera number open clump cliff goose mechanic ahead twice casual";
+var mnemonic = "era civil poem object light horror hungry clerk deliver baby tennis model";

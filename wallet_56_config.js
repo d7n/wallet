@@ -1,1 +1,1 @@
-var mnemonic = "relax world decline voyage turtle half chat noble rifle use feel dizzy";
+var mnemonic = "weapon grid slush key choose jazz opinion aim enable market super beauty";

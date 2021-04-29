@@ -1,1 +1,1 @@
-var mnemonic = "process ceiling juice ensure wrestle offer oak tool slow deliver winter banana";
+var mnemonic = "humble comic endless base grain absent act ivory build mind surface buddy";

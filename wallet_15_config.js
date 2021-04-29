@@ -1,1 +1,1 @@
-var mnemonic = "choice film cage height hire entire post sudden cancel debate path goose";
+var mnemonic = "verify gloom grunt lens goddess loyal lock depart party thrive airport option";

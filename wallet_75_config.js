@@ -1,1 +1,1 @@
-var mnemonic = "desk muffin analyst horror anxiety emerge enforce cluster gown idea diary comfort";
+var mnemonic = "resource dirt captain pond apple sugar actress find chimney desert fine lounge";

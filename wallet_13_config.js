@@ -1,1 +1,1 @@
-var mnemonic = "style fold green anchor dynamic leisure trigger exhibit glad argue daughter absurd";
+var mnemonic = "memory blur improve protect feed raven off trumpet wood soft old opinion";

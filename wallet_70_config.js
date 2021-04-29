@@ -1,1 +1,1 @@
-var mnemonic = "release dove gate this talk evil involve sorry they sport bike sail";
+var mnemonic = "tray material include merit wife whip sting loyal aspect depend alcohol focus";

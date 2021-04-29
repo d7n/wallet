@@ -1,1 +1,1 @@
-var mnemonic = "gaze merry call kiss tree arrange slam slim method merry idea minor";
+var mnemonic = "envelope finish sense music caution envelope dutch table learn clarify minimum crawl";

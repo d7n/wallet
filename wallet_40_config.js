@@ -1,1 +1,1 @@
-var mnemonic = "hazard escape vendor roast aisle plug gallery cave vital display transfer joy";
+var mnemonic = "design lonely lesson try apart act hunt dice endorse kingdom rose warrior";

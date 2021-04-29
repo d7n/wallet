@@ -1,1 +1,1 @@
-var mnemonic = "skate jump claw scheme tail firm patch taxi torch lottery wife clip";
+var mnemonic = "jeans tube reveal vacant traffic spike frame govern cushion pond march manage";

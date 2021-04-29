@@ -1,1 +1,1 @@
-var mnemonic = "shaft senior recall distance hurt mind family anger wait risk unaware screen";
+var mnemonic = "jealous cup frown scout coconut blame frame forget warfare have absent obtain";

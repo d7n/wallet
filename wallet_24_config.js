@@ -1,1 +1,1 @@
-var mnemonic = "injury current then alert rally first baby mad patch mean fabric neither";
+var mnemonic = "hood clutch use item drop deliver absent grief cruel sand favorite flavor";

@@ -1,1 +1,1 @@
-var mnemonic = "element shock brain image habit quantum advice snack slow absent bundle update";
+var mnemonic = "involve surround artwork curtain draft curious impose pioneer vacuum blossom soft struggle";

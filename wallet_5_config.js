@@ -1,1 +1,1 @@
-var mnemonic = "average pudding click situate biology company bomb bomb invite kiss goose confirm";
+var mnemonic = "home mercy bunker tide news title accident middle bottom reward advice rich";

@@ -1,1 +1,1 @@
-var mnemonic = "furnace wing upset appear stable enrich genre title host chase vague rapid";
+var mnemonic = "that work detail argue review turn shaft alien divert chalk bundle opera";

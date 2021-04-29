@@ -1,1 +1,1 @@
-var mnemonic = "quote joke siren spell slot bench exit main midnight wreck chuckle cabbage";
+var mnemonic = "desert aspect tool witness worth brother hard furnace dish dragon heavy prize";

@@ -1,1 +1,1 @@
-var mnemonic = "estate wrist face salad reunion trophy drink mad east relief know athlete";
+var mnemonic = "waste error slush tourist civil candy siege border chronic motor donate usage";

@@ -1,1 +1,1 @@
-var mnemonic = "gadget jeans home common alarm move pig trigger pull aerobic analyst fix";
+var mnemonic = "novel plug hedgehog brother fever such flame matter monster grit actor strategy";

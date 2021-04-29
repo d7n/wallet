@@ -1,1 +1,1 @@
-var mnemonic = "method update sword empty sibling ensure need caught youth ladder mind route";
+var mnemonic = "priority casual advice chuckle size actual gospel damage decline total web fat";

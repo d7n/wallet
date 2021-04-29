@@ -1,1 +1,1 @@
-var mnemonic = "brand labor live exotic glad merge choose now small stuff kiwi long";
+var mnemonic = "struggle priority flavor fine dream photo unknown solution vintage anger exercise voyage";

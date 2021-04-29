@@ -1,1 +1,1 @@
-var mnemonic = "ride biology rigid pioneer purse blur oyster daring eager swim problem memory";
+var mnemonic = "change ocean must coffee same cause pave fruit crane summer below inject";

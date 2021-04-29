@@ -1,1 +1,1 @@
-var mnemonic = "inflict marriage typical science clinic tape club lizard allow flip equip indoor";
+var mnemonic = "skirt surprise auto legal average track budget village abuse peace tomorrow label";

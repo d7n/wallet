@@ -1,1 +1,1 @@
-var mnemonic = "trigger sort dilemma door bench hammer spend stomach pill eyebrow hood smooth";
+var mnemonic = "fog balcony romance output search cave include club gap mask liar various";

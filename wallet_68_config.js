@@ -1,1 +1,1 @@
-var mnemonic = "property hover pond chronic ticket since domain gift flat drum brisk taste";
+var mnemonic = "hour industry network leg twice avoid scrap cube lecture when kit setup";

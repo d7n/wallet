@@ -1,1 +1,1 @@
-var mnemonic = "render burden fever measure follow this equal sniff witness rocket festival leader";
+var mnemonic = "battle total clever hair flight shoe excess grab bulb angle circle arrest";

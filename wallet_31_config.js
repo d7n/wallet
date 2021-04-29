@@ -1,1 +1,1 @@
-var mnemonic = "start earn scheme chaos pass deer cherry robot kind lizard table army";
+var mnemonic = "similar social boy tourist grab arm cannon depth immense electric brother rookie";

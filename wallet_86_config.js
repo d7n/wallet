@@ -1,1 +1,1 @@
-var mnemonic = "work flag skull kiwi index power rain exhaust review clay practice among";
+var mnemonic = "million copy captain hill cupboard lunar immune vast purchase ring multiply fold";

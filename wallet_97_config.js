@@ -1,1 +1,1 @@
-var mnemonic = "enlist seven merge lottery repeat half prevent before relief deliver update lend";
+var mnemonic = "improve exhaust state spend left blouse panther much gravity book any outdoor";

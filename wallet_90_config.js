@@ -1,1 +1,1 @@
-var mnemonic = "broccoli carry merge fortune pulp number drive unable caught jewel enforce corn";
+var mnemonic = "shock town boring gentle script unusual joke outside about road unlock lady";

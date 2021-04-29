@@ -1,1 +1,1 @@
-var mnemonic = "salt rack poet virtual chalk mask legal fit elegant more syrup wide";
+var mnemonic = "able theme twist key bicycle gaze review wrestle verb off tumble exhaust";

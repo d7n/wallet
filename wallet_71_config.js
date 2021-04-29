@@ -1,1 +1,1 @@
-var mnemonic = "crazy inform pet goose happy theme leg used mom detail thought eagle";
+var mnemonic = "second normal wave dwarf baby science fury weird erupt auction kidney gas";

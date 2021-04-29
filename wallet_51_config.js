@@ -1,1 +1,1 @@
-var mnemonic = "dance round convince legal guide skill penalty eager dwarf destroy share already";
+var mnemonic = "eagle drama have type fancy excess dismiss guitar fury barrel loop rain";

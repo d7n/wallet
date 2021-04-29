@@ -1,1 +1,1 @@
-var mnemonic = "outdoor mass bid cruise connect kid hire crash news kiwi giant funny";
+var mnemonic = "code minor steak female office plug bunker wild switch federal rookie post";

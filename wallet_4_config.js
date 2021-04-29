@@ -1,1 +1,1 @@
-var mnemonic = "dynamic front reform empty choose fun problem second thumb net slender soda";
+var mnemonic = "limit update win hammer cradle violin dawn lawn frown apology undo baby";

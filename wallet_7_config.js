@@ -1,1 +1,1 @@
-var mnemonic = "grit tattoo estate section above shallow alley orange then kangaroo avoid idle";
+var mnemonic = "lecture cruel burst shrug motion still scorpion void witness cactus cherry photo";

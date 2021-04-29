@@ -1,1 +1,1 @@
-var mnemonic = "heart what album bomb estate art manual earn venture relax eagle wrap";
+var mnemonic = "scene wing chase spot tube real syrup submit present age negative aerobic";

@@ -1,1 +1,1 @@
-var mnemonic = "adult romance vicious soap actual disorder ugly wisdom silent alley enroll toss";
+var mnemonic = "alley concert bread pulse chapter fury bike subway remember term mean announce";

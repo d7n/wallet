@@ -1,1 +1,1 @@
-var mnemonic = "unknown rural apple gown measure capable great angry meat uncover city crash";
+var mnemonic = "live device jump symbol degree erupt will panel audit apart attack force";

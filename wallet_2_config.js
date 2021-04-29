@@ -1,1 +1,1 @@
-var mnemonic = "awesome sell knife water dinner soon year object just that tenant unknown";
+var mnemonic = "legend okay final inherit vintage sound second tomato repair inject loop glue";
