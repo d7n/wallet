@@ -1,1 +1,1 @@
-var mnemonic = "sibling kiss album citizen athlete reduce slow goddess employ solution usual margin";
+var mnemonic = "cactus liar noble pool swallow casino scale tree modify tired brush finger";

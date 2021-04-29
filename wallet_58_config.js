@@ -1,1 +1,1 @@
-var mnemonic = "cube cross disagree trend symbol world flavor brown entry demise embark flee";
+var mnemonic = "intact steak reunion insect glow era notable round unfold nut invite submit";

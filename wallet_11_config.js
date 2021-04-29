@@ -1,1 +1,1 @@
-var mnemonic = "donate loan clump ball cruise shield spin spare amused truth swamp allow";
+var mnemonic = "defy hour three only change demise sentence require sad sell coffee rubber";

@@ -1,1 +1,1 @@
-var mnemonic = "ethics author return load grunt today art desk jealous over amateur episode";
+var mnemonic = "give certain tide latin judge cushion artefact grape tone side hotel alien";

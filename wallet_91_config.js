@@ -1,1 +1,1 @@
-var mnemonic = "bargain dial friend where remain soon open word gate lava joke clap";
+var mnemonic = "mouse slush layer wise spare quantum embody relief great surface trap afraid";

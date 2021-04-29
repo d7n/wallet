@@ -1,1 +1,1 @@
-var mnemonic = "pepper swap loyal cook blouse sick dinner goddess cake focus chronic render";
+var mnemonic = "federal decorate such credit produce pencil want path spoil fan visual mobile";

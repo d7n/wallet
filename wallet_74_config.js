@@ -1,1 +1,1 @@
-var mnemonic = "erosion occur fever chronic shock pudding blind expose pond soda fantasy glove";
+var mnemonic = "slam tide behave reflect moral three arrange garage chest saddle drink job";

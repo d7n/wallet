@@ -1,1 +1,1 @@
-var mnemonic = "crunch hello together letter cute barrel orbit gorilla fuel talk assist salon";
+var mnemonic = "maze emotion exile scorpion hand scene adapt trade junk option young claim";

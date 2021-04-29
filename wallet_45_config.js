@@ -1,1 +1,1 @@
-var mnemonic = "path urge tail garlic arena maze host grain eye stay whale auction";
+var mnemonic = "dinner simple sleep catalog jump finger genre mention nuclear neck cactus drip";

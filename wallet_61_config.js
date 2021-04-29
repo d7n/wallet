@@ -1,1 +1,1 @@
-var mnemonic = "alcohol air police kidney junior gauge dial produce weather doctor vapor fabric";
+var mnemonic = "blame daring hover title media device reason chicken scan wreck brick cry";

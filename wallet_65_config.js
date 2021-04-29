@@ -1,1 +1,1 @@
-var mnemonic = "report nothing run review decrease uphold choice surface orphan rate actor train";
+var mnemonic = "gaze rib hire large talent jeans current climb maze tone alien dutch";

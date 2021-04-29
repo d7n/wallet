@@ -1,1 +1,1 @@
-var mnemonic = "legal either ignore culture negative acquire false shove segment paper era property";
+var mnemonic = "crew ten genuine misery olympic used milk vacuum blade pulp village able";

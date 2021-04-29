@@ -1,1 +1,1 @@
-var mnemonic = "biology season video antique opera sure planet caught patient thrive offer gospel";
+var mnemonic = "display injury sustain east tip seven lens visual member alone brief eye";

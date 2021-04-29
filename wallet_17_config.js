@@ -1,1 +1,1 @@
-var mnemonic = "load twenty young reflect core year tube advice behave garlic segment wise";
+var mnemonic = "mechanic engine tube polar gentle limit easily forward display cage flash tumble";

@@ -1,1 +1,1 @@
-var mnemonic = "pink loud fatigue drastic method slim surprise sand december ostrich walnut across";
+var mnemonic = "lottery gun sniff conduct ramp detail gauge portion course wrestle urban excess";

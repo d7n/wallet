@@ -1,1 +1,1 @@
-var mnemonic = "spray fuel view relax paddle urban connect magnet palm century tree narrow";
+var mnemonic = "kite chef wrap hollow piece bag early drum cereal pave bullet sort";

@@ -1,1 +1,1 @@
-var mnemonic = "black seminar sniff shuffle toddler audit marble wagon before physical that hotel";
+var mnemonic = "episode similar rookie elegant retreat inherit idea catch execute scare install giraffe";

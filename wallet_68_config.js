@@ -1,1 +1,1 @@
-var mnemonic = "again alien practice bird vanish old hurdle cup furnace absurd train mom";
+var mnemonic = "mercy use code innocent blood victory rice measure sister census goose buffalo";

@@ -1,1 +1,1 @@
-var mnemonic = "sword trumpet remove minor wide charge earn anger divert limit deposit blush";
+var mnemonic = "vapor garlic buffalo carpet fatal hurdle legend crisp behind shift inject undo";

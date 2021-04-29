@@ -1,1 +1,1 @@
-var mnemonic = "hero whisper off sleep surface kidney fatigue spawn swap coffee spatial attend";
+var mnemonic = "glimpse limb silent tunnel doll chaos drift purpose theory wait foot fiber";

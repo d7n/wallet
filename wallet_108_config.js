@@ -1,1 +1,1 @@
-var mnemonic = "raven control dolphin vital evil slice outer law grant degree assist voice";
+var mnemonic = "shield narrow make beauty bunker uncle expire stage surface concert square month";

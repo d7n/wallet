@@ -1,1 +1,1 @@
-var mnemonic = "husband again black connect smooth surface man impose glimpse gadget review any";
+var mnemonic = "thing drastic flash burst couch half hotel hurry axis goose dizzy enable";

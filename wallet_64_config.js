@@ -1,1 +1,1 @@
-var mnemonic = "sentence repeat bounce shy step clerk fury repair wall level action cave";
+var mnemonic = "soap tobacco ticket effort daring brand marble olympic misery hamster jaguar hub";

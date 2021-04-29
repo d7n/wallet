@@ -1,1 +1,1 @@
-var mnemonic = "jump fiscal naive marble false mystery patrol where castle endless doll popular";
+var mnemonic = "hat curious true member fly uniform improve awake element motion glow repeat";

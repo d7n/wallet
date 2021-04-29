@@ -1,1 +1,1 @@
-var mnemonic = "soccer increase exotic error earth vintage poet uniform antique trick twelve fire";
+var mnemonic = "hand dentist helmet obscure gift enable hint expect mammal use misery squirrel";

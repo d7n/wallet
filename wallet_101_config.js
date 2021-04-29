@@ -1,1 +1,1 @@
-var mnemonic = "shallow bottom section tell vanish excite lounge walk amused huge already try";
+var mnemonic = "crash situate ostrich faith title pretty ring trouble lunch general universe cousin";

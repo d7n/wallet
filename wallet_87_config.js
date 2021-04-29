@@ -1,1 +1,1 @@
-var mnemonic = "tank escape poet parent scan drama camera elbow barely before major advice";
+var mnemonic = "balance air wait manage card wrist ensure scatter leisure cereal amazing river";

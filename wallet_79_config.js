@@ -1,1 +1,1 @@
-var mnemonic = "number polar giant sleep column brisk portion into fever loyal opera fog";
+var mnemonic = "only zone silly used pave august prosper trumpet type enroll common act";

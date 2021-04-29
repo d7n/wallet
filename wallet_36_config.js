@@ -1,1 +1,1 @@
-var mnemonic = "slogan siege pause office gallery awesome brisk runway rather crane season true";
+var mnemonic = "metal group peanut promote fashion genius table divert pill carry other palace";

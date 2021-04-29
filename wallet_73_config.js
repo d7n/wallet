@@ -1,1 +1,1 @@
-var mnemonic = "aisle square spice vast save found cargo unveil lonely electric doctor pigeon";
+var mnemonic = "rare strike demise aisle size logic betray reform shell find wrestle common";

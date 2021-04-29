@@ -1,1 +1,1 @@
-var mnemonic = "miracle winner orange among file chair about unusual cute level biology address";
+var mnemonic = "view stand lesson lesson merge memory motion elephant brush exclude rule post";

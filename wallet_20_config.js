@@ -1,1 +1,1 @@
-var mnemonic = "cousin proof spatial museum veteran chaos behind over chaos brief order upper";
+var mnemonic = "uncover impose exhaust like limb around lyrics genius sketch relief rival armor";

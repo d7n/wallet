@@ -1,1 +1,1 @@
-var mnemonic = "nest point hurry civil govern faculty mushroom fragile cloth peasant process tumble";
+var mnemonic = "evidence era lock pledge gauge merge hamster secret eager effort carry nerve";

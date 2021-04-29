@@ -1,1 +1,1 @@
-var mnemonic = "garage era wrist arrive fluid valve recall conduct blanket brave faith bag";
+var mnemonic = "gentle captain amused theme illness protect motion rib tell pond trouble stomach";

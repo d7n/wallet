@@ -1,1 +1,1 @@
-var mnemonic = "foam payment vague proud mad still slogan cool injury private stomach spend";
+var mnemonic = "square velvet tower dwarf health wool churn wrestle cruise hand ensure surprise";

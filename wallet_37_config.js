@@ -1,1 +1,1 @@
-var mnemonic = "style veteran exercise fish lens name tent gas short banana spoil absurd";
+var mnemonic = "reason pair scan stool hedgehog pact enter decrease unveil knife ship movie";

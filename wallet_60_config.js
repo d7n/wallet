@@ -1,1 +1,1 @@
-var mnemonic = "tonight involve aim caution coil machine flat home transfer open hover worry";
+var mnemonic = "equip coil critic hub measure sphere milk reason tomorrow wave razor vintage";

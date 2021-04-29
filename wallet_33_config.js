@@ -1,1 +1,1 @@
-var mnemonic = "catch guitar health business doctor aerobic fancy lucky flower mix jewel essence";
+var mnemonic = "like always height sting magnet parent pioneer cactus barrel tone price antique";

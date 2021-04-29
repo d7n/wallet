@@ -1,1 +1,1 @@
-var mnemonic = "defy license forget bright casual sport faculty alpha donate opinion kingdom fox";
+var mnemonic = "roast husband piano identify escape display blossom bamboo mimic forum virus siren";

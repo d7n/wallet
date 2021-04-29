@@ -1,1 +1,1 @@
-var mnemonic = "swing differ maid wasp cattle honey return destroy piano eight oblige hub";
+var mnemonic = "view core merit tiny manage across region spice bench engine evil front";

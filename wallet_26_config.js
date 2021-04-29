@@ -1,1 +1,1 @@
-var mnemonic = "glance buyer more wire message able front rare border tray spider little";
+var mnemonic = "cinnamon bunker barely tree say wheat eyebrow expand simple code initial advice";

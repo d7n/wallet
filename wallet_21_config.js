@@ -1,1 +1,1 @@
-var mnemonic = "twice monitor silk denial hard master exhibit swallow damage upper spray fiction";
+var mnemonic = "hen engage enlist clump they correct vague spoon spy rug emerge mechanic";

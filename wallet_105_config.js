@@ -1,1 +1,1 @@
-var mnemonic = "found forward axis member relief distance miracle sorry course brave climb flame";
+var mnemonic = "wheel jewel echo pet where tomato light course victory congress choice pupil";

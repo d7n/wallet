@@ -1,1 +1,1 @@
-var mnemonic = "denial craft vital tobacco party mansion rotate biology retire depth wagon chalk";
+var mnemonic = "phrase artwork drastic immense kind today symbol urban predict kick ozone nuclear";

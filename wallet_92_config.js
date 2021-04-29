@@ -1,1 +1,1 @@
-var mnemonic = "list good mango run like nasty grass science what genre enact crop";
+var mnemonic = "update float unit polar syrup denial game style rich bike output hint";

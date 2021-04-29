@@ -1,1 +1,1 @@
-var mnemonic = "town paddle ginger noise rigid mosquito pig tank luggage mystery exhibit achieve";
+var mnemonic = "spoil try april salt wool next film ability nominee autumn ladder cement";

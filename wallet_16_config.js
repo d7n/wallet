@@ -1,1 +1,1 @@
-var mnemonic = "session desert weasel flame crew double blood risk canyon risk magic phone";
+var mnemonic = "scene beauty tuition romance dismiss zero unfair monster prison together swarm engage";

@@ -1,1 +1,1 @@
-var mnemonic = "fury antique assume thumb decrease merge tape hedgehog alpha deer potato refuse";
+var mnemonic = "unable sleep wink seed cheap repair meadow decline patch genre gate empower";

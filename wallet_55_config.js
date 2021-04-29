@@ -1,1 +1,1 @@
-var mnemonic = "essence wait deputy spawn inject priority barely impulse like potato distance matrix";
+var mnemonic = "minute edit organ admit quiz empty bomb rigid trust gate absent drip";

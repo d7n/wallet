@@ -1,1 +1,1 @@
-var mnemonic = "bridge tomorrow cube connect armed print know barely mind oxygen sheriff door";
+var mnemonic = "curious blue camp account toe satisfy climb panther put peace cluster aunt";

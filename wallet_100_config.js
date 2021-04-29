@@ -1,1 +1,1 @@
-var mnemonic = "draw judge smoke measure domain fit kind spin junk undo agree replace";
+var mnemonic = "neither rain ozone fragile domain scan slim win spider cruel stairs erase";

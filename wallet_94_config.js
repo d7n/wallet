@@ -1,1 +1,1 @@
-var mnemonic = "keep junior strike blood total rule allow boil bridge gauge toss busy";
+var mnemonic = "gym fine twist river blur popular farm enforce toss fine frozen job";

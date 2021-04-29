@@ -1,1 +1,1 @@
-var mnemonic = "bomb imitate output portion together bright check extend wise melody culture escape";
+var mnemonic = "camp gun spare hawk tail inside amateur cattle child lizard rack castle";

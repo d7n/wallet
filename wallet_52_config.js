@@ -1,1 +1,1 @@
-var mnemonic = "ramp virus abstract usage scout lens street ghost unable start gym tomato";
+var mnemonic = "exclude increase fancy zoo index glove weasel aim popular fly asset extra";

@@ -1,1 +1,1 @@
-var mnemonic = "opinion nut clean unusual normal vault flame symbol fruit rack steak concert";
+var mnemonic = "hobby quantum test explain miracle grit broom stone mystery village net outdoor";

@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur effort warrior wasp satisfy adult brave process category memory upset brass";
+var mnemonic = "over garment quote lecture army face void churn enrich fee slot rule";

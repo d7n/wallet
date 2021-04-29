@@ -1,1 +1,1 @@
-var mnemonic = "cancel fatal sell submit belt lab phrase float tomato knee must rubber";
+var mnemonic = "dutch tragic mass language crouch food salmon spot car ensure friend balance";

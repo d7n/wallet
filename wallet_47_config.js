@@ -1,1 +1,1 @@
-var mnemonic = "seat twelve copy ribbon goose bulk mirror critic flash voyage glove box";
+var mnemonic = "online jaguar garage defy ginger skill miracle grunt resist vacuum liar torch";

@@ -1,1 +1,1 @@
-var mnemonic = "entire start project flip pool unknown people tube exile anchor flee surface";
+var mnemonic = "icon cargo endless bubble flee attract just laugh hammer sadness jacket dose";

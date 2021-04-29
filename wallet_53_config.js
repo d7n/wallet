@@ -1,1 +1,1 @@
-var mnemonic = "quantum sell copper slush crush roof crane hospital confirm dune fan talk";
+var mnemonic = "twenty absorb display receive salt step isolate sentence infant dynamic winner arrive";

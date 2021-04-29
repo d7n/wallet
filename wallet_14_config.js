@@ -1,1 +1,1 @@
-var mnemonic = "myself risk oppose number sheriff hair awkward morning shine dad ranch ostrich";
+var mnemonic = "fatigue blue account deliver naive limb keen debris stereo excuse speed entry";

@@ -1,1 +1,1 @@
-var mnemonic = "version night other enough open rather trick wrestle toss delay album join";
+var mnemonic = "believe broom ridge little current senior raise deny bunker evoke verb weasel";

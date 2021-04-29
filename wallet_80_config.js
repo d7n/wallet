@@ -1,1 +1,1 @@
-var mnemonic = "catalog inherit text invest what bullet praise derive boring heart clip mail";
+var mnemonic = "cotton deny nominee engage property beef woman casual crime identify flight remind";

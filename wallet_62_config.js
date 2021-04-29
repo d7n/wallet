@@ -1,1 +1,1 @@
-var mnemonic = "slush wash manage act youth rail antique analyst wave wet aisle frame";
+var mnemonic = "media make shine dwarf speak layer like domain ghost reveal giggle prefer";

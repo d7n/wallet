@@ -1,1 +1,1 @@
-var mnemonic = "budget attack earth magic either payment measure judge sound wrist wheel cream";
+var mnemonic = "balance lunch owner glow certain latin leisure vanish deal gossip skill artwork";

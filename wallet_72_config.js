@@ -1,1 +1,1 @@
-var mnemonic = "snap tape ginger private click wave glimpse ice finish have borrow wonder";
+var mnemonic = "this often habit cargo impact dad total floor bless method power finish";

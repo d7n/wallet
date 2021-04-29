@@ -1,1 +1,1 @@
-var mnemonic = "often rate chunk toward movie art wrestle asset wave relax field notable";
+var mnemonic = "prize safe law pitch turn method wrap acquire behind aim share ranch";

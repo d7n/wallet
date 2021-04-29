@@ -1,1 +1,1 @@
-var mnemonic = "stove track finger rebuild future produce cupboard alcohol gesture question lamp soccer";
+var mnemonic = "tent major stock blue album acid boy tourist meat describe neither pride";

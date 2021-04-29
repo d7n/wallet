@@ -1,1 +1,1 @@
-var mnemonic = "lift century assault cricket ski labor tape engage thing journey buyer ride";
+var mnemonic = "describe want team spatial trim mandate inspire scout cement portion boat ski";

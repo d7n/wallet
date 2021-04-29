@@ -1,1 +1,1 @@
-var mnemonic = "include lottery hedgehog audit panther language jar crime memory more cinnamon base";
+var mnemonic = "grab spray thank purchase resource original south merry edit travel observe surprise";

@@ -1,1 +1,1 @@
-var mnemonic = "soon swing ill rice seven service cliff eagle runway better lens royal";
+var mnemonic = "general early loud position witness nut behave fire arm until soft state";

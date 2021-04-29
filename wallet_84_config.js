@@ -1,1 +1,1 @@
-var mnemonic = "switch interest simple robot dove harbor entry chronic lift digital trade mosquito";
+var mnemonic = "attitude ripple proof planet you category build young abuse suit trap laundry";

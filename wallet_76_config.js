@@ -1,1 +1,1 @@
-var mnemonic = "match wish border topple spoon table wagon any fluid caution riot gaze";
+var mnemonic = "stomach hybrid sea soon shiver learn polar know fury floor nerve bachelor";

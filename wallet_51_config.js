@@ -1,1 +1,1 @@
-var mnemonic = "differ pink matrix lab squeeze canoe grocery fiber cargo voyage under jump";
+var mnemonic = "armor diary donate glove current child turtle effort ostrich dirt keen weapon";

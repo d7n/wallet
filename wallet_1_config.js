@@ -1,1 +1,1 @@
-var mnemonic = "payment purity return neglect upgrade guard month monkey glare work language ladder";
+var mnemonic = "crisp matter later own bench inhale gun corn master alarm brief video";

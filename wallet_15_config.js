@@ -1,1 +1,1 @@
-var mnemonic = "tattoo response solar ask green unit rotate key swap snap inner pizza";
+var mnemonic = "volcano perfect lumber convince ill wealth mixture sword hawk decade roof black";

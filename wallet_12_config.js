@@ -1,1 +1,1 @@
-var mnemonic = "unit shallow vacuum category shoulder stem defense rose gesture split claim access";
+var mnemonic = "lobster burden thought quarter barrel device depart tank spirit warm jewel ride";

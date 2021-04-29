@@ -1,1 +1,1 @@
-var mnemonic = "minor gadget young pluck equip tumble shy captain palm chronic fan liberty";
+var mnemonic = "ring card rebel sick foam wall elegant traffic false decorate grunt bulk";

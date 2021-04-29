@@ -1,1 +1,1 @@
-var mnemonic = "device second option disagree outdoor mandate way hockey ranch correct gallery satoshi";
+var mnemonic = "resemble sport useless excite sadness sense pumpkin ignore glimpse version disease demand";

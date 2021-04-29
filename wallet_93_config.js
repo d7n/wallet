@@ -1,1 +1,1 @@
-var mnemonic = "stove hurry hood vendor iron nut thumb all glow cruise acoustic error";
+var mnemonic = "cave people wrestle pistol oven exotic tenant devote kangaroo february gesture glory";

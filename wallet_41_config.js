@@ -1,1 +1,1 @@
-var mnemonic = "tower pass hub fault knee idle inmate rookie asset any glass lend";
+var mnemonic = "sister chimney scout choice menu strategy target focus leaf eagle ill hub";

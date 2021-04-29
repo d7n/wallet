@@ -1,1 +1,1 @@
-var mnemonic = "syrup junior produce train city boost return barely canal emerge crowd level";
+var mnemonic = "more hat maid search undo note auction friend future punch empower float";

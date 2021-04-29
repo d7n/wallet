@@ -1,1 +1,1 @@
-var mnemonic = "slender fiscal husband enroll damp puppy club clean daughter hybrid pitch thrive";
+var mnemonic = "else know step between planet brief problem credit fold era unlock grain";

@@ -1,1 +1,1 @@
-var mnemonic = "base merge what lumber avoid purity change vast rib error rug scrap";
+var mnemonic = "program dice bench crop awesome industry prize achieve mass ranch cupboard clump";

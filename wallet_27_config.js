@@ -1,1 +1,1 @@
-var mnemonic = "great panic guitar fit unit price excite close witness fish drill express";
+var mnemonic = "bracket beauty agree deputy normal spray duty fade party special vocal scheme";

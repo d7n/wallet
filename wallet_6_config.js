@@ -1,1 +1,1 @@
-var mnemonic = "fire borrow happy chase hole hat rely elephant link gadget brave shrimp";
+var mnemonic = "net flavor patch rabbit smoke replace duty horn dutch wife mixture universe";

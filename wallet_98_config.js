@@ -1,1 +1,1 @@
-var mnemonic = "organ reflect end noble develop drastic material toward emotion gift inmate tobacco";
+var mnemonic = "quote black lend reflect priority tip giggle bench visual rigid strike print";

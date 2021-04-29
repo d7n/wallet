@@ -1,1 +1,1 @@
-var mnemonic = "ripple picnic margin cloth expect video echo match card museum squirrel group";
+var mnemonic = "cancel depart eye warm index swing nice leaf shrug jelly lyrics civil";

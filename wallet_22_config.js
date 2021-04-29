@@ -1,1 +1,1 @@
-var mnemonic = "talk index cloud same speak response pipe crack tired deer space analyst";
+var mnemonic = "chronic latin fatigue concert board bird album light helmet post submit mobile";

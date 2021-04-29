@@ -1,1 +1,1 @@
-var mnemonic = "hospital eight alcohol dress forward hold board more onion brand able glad";
+var mnemonic = "century concert annual know reduce want proud extra execute follow student just";

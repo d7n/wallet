@@ -1,1 +1,1 @@
-var mnemonic = "orient illegal smart hedgehog above just glide pull say item local humor";
+var mnemonic = "oblige seven elite match effort second conduct direct wreck garbage allow below";

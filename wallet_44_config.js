@@ -1,1 +1,1 @@
-var mnemonic = "nephew refuse gun universe depend sibling fashion extra stool hawk veteran domain";
+var mnemonic = "wire cotton exact pretty mutual girl unveil cliff antenna hotel second venture";

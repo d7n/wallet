@@ -1,1 +1,1 @@
-var mnemonic = "above melody electric blur gym travel tooth rug vague confirm soap route";
+var mnemonic = "obvious library dinner achieve invest select puppy flat math game direct error";
