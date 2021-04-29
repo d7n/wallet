@@ -1,1 +1,1 @@
-var mnemonic = "envelope blue clay casual tribe embody maximum seminar engine palace mail surprise";
+var mnemonic = "scrub exile fall avocado brick special pizza trophy lucky brother siege panel";

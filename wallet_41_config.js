@@ -1,1 +1,1 @@
-var mnemonic = "dolphin humor garage any gloom title blade peace name hard canoe sphere";
+var mnemonic = "federal host inform measure aisle jelly mention frame one lava runway feel";

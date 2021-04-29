@@ -1,1 +1,1 @@
-var mnemonic = "primary mansion grain kitchen boil sausage hill cat grass image subject crazy";
+var mnemonic = "develop teach exchange ladder village record supply antenna task later then report";

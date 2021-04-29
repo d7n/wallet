@@ -1,1 +1,1 @@
-var mnemonic = "detect pencil client embrace casino body pig tribe afraid spend crowd genuine";
+var mnemonic = "problem wing convince volume accident keep guard attitude hybrid oppose capable length";

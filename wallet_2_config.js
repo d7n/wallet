@@ -1,1 +1,1 @@
-var mnemonic = "rude thunder quarter absent tissue traffic very chuckle grid drive grab perfect";
+var mnemonic = "tornado art version lyrics round cover forward nice wheat glare ecology can";

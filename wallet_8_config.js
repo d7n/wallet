@@ -1,1 +1,1 @@
-var mnemonic = "wing fly isolate mesh lawn alarm ramp piano mimic swallow foam proof";
+var mnemonic = "icon mutual prefer romance orphan drop lottery move normal famous frog retreat";

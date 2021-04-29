@@ -1,1 +1,1 @@
-var mnemonic = "verify clown outside stone intact save echo situate bid round inflict essence";
+var mnemonic = "mind pluck trumpet govern useless subject hub mass magic color universe junior";

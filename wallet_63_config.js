@@ -1,1 +1,1 @@
-var mnemonic = "young over need damp coach fashion civil industry million radio moment kick";
+var mnemonic = "once glass torch kit quick network kangaroo learn capable keep amateur lava";

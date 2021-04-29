@@ -1,1 +1,1 @@
-var mnemonic = "festival picnic nest science nerve fiber lamp elbow bargain fly slow icon";
+var mnemonic = "almost trim spend relief seven horn tool luggage vocal second survey wink";

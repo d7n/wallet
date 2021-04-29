@@ -1,1 +1,1 @@
-var mnemonic = "try child law echo biology clay layer firm beef push another awful";
+var mnemonic = "consider snap crucial decade empty caught envelope mystery guitar dove crash camera";

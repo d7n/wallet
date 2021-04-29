@@ -1,1 +1,1 @@
-var mnemonic = "organ squeeze road income knife yellow item puzzle glass upon embark weasel";
+var mnemonic = "south able sadness speed violin sweet tired near lawn ridge case patch";

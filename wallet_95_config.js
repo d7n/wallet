@@ -1,1 +1,1 @@
-var mnemonic = "flame arrow dry model habit salmon rural equip amount forest cabin next";
+var mnemonic = "immense submit draw spy animal talent face swarm physical advance depth apple";

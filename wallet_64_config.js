@@ -1,1 +1,1 @@
-var mnemonic = "employ dial enlist drive piece until express forum story craft snow pluck";
+var mnemonic = "lecture track flee near ceiling time language also grant local wasp rally";

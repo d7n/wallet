@@ -1,1 +1,1 @@
-var mnemonic = "ethics valid hole gap open retire tobacco knock nerve dirt hope crush";
+var mnemonic = "vault cost arrive appear civil piano curtain arch rural image draft toy";

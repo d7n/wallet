@@ -1,1 +1,1 @@
-var mnemonic = "garden sister doctor group egg employ update peanut inflict cheap example top";
+var mnemonic = "table defy huge radio glare minor warm segment garlic knee fly athlete";

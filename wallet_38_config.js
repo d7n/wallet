@@ -1,1 +1,1 @@
-var mnemonic = "wait valid mutual anger ship convince wedding vivid govern cart please project";
+var mnemonic = "unhappy depend style canyon question artist width tunnel ordinary hip wing orbit";

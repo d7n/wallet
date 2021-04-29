@@ -1,1 +1,1 @@
-var mnemonic = "report end mass state sign turn scan bag step rival rate hub";
+var mnemonic = "spoon bleak animal fancy gauge olive strike scorpion siren casino replace shock";

@@ -1,1 +1,1 @@
-var mnemonic = "industry law lucky choose couple goose blossom seek suit tired paddle gym";
+var mnemonic = "visit razor always system prepare treat defy wait anger term toss tonight";

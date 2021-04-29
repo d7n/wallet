@@ -1,1 +1,1 @@
-var mnemonic = "divorce field cover first can predict maple popular fine spell proof submit";
+var mnemonic = "used pole obtain job tag heavy wine silver despair sweet strong dinner";

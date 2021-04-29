@@ -1,1 +1,1 @@
-var mnemonic = "voice shrimp sick neck lion lion come ridge peanut flower vanish eye";
+var mnemonic = "route angry welcome quantum unknown height speed narrow owner fault coach reflect";

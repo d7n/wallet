@@ -1,1 +1,1 @@
-var mnemonic = "month minute thumb debris risk pear ready spice orange donkey win solve";
+var mnemonic = "virus pride conduct rescue stairs often hover what space sentence loan wasp";

@@ -1,1 +1,1 @@
-var mnemonic = "oval drip hat earth coil pitch cliff dentist audit eye acid organ";
+var mnemonic = "tomorrow labor another radio lazy grant urban transfer adult exit brave camera";

@@ -1,1 +1,1 @@
-var mnemonic = "viable elite thought best evoke like bag dust wave banana owner reduce";
+var mnemonic = "reform mixture finger system expose general enemy learn flat helmet tent girl";

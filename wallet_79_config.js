@@ -1,1 +1,1 @@
-var mnemonic = "stuff detail timber arrange excess coral boost fringe often call stomach farm";
+var mnemonic = "long lazy absorb pole razor flame differ pulse ice office era menu";

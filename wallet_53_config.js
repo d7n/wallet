@@ -1,1 +1,1 @@
-var mnemonic = "lion faint immune nominee reopen shoe baby wolf someone trade fall argue";
+var mnemonic = "cross motion danger pizza milk whale faith sting pink mouse outside simple";

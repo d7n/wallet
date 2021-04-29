@@ -1,1 +1,1 @@
-var mnemonic = "evil tag word blood prosper salon fiction script gold mention merry basic";
+var mnemonic = "bleak mesh useless south print regular absent resemble shop profit twice oxygen";

@@ -1,1 +1,1 @@
-var mnemonic = "develop jealous upon rhythm arm crop layer wedding just steel artwork naive";
+var mnemonic = "warm average wood detect pulse orphan sphere ghost victory hybrid arch foster";

@@ -1,1 +1,1 @@
-var mnemonic = "live issue network crawl action sausage seek ski obvious purity panic loop";
+var mnemonic = "wait velvet guitar elder stove require wonder road dwarf express fragile volcano";

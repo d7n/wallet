@@ -1,1 +1,1 @@
-var mnemonic = "welcome hunt sign similar law few flower razor section broccoli bean wish";
+var mnemonic = "choose crew strong same census sister nest antique merit mushroom pledge satoshi";

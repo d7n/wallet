@@ -1,1 +1,1 @@
-var mnemonic = "stand skill dynamic shiver shift moon dwarf mimic portion pioneer myself violin";
+var mnemonic = "audit claim journey have couple climb shrug attack isolate midnight naive pulse";

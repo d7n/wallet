@@ -1,1 +1,1 @@
-var mnemonic = "ecology chuckle figure jacket menu problem ridge reform tomato hidden round angry";
+var mnemonic = "saddle wish goddess course mail turn payment hat else together card region";

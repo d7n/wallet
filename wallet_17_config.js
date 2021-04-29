@@ -1,1 +1,1 @@
-var mnemonic = "repair small tool harbor unfair canal rebel chronic spread tool mass basic";
+var mnemonic = "escape lazy acid extend tortoise mirror clinic change world three soda work";

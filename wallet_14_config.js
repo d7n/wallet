@@ -1,1 +1,1 @@
-var mnemonic = "control dial brand torch grocery alert absurd brief page canyon shoe uncover";
+var mnemonic = "galaxy leg able tattoo quit screen fitness excess glare master afford powder";

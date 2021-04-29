@@ -1,1 +1,1 @@
-var mnemonic = "comic illegal fox fade civil stomach borrow grain one artefact trash onion";
+var mnemonic = "face radar enhance decide saddle eager pet impose rack hen true enough";

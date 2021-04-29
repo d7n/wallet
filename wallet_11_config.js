@@ -1,1 +1,1 @@
-var mnemonic = "consider social napkin club voice shine grunt bronze mesh swarm wrestle syrup";
+var mnemonic = "glide fever over silver border decrease tattoo coach slim security crew shaft";

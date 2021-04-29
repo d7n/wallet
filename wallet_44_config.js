@@ -1,1 +1,1 @@
-var mnemonic = "question tail rotate ostrich produce input picture atom anger please mail airport";
+var mnemonic = "improve globe despair now truth dragon siege math comfort route extend goddess";

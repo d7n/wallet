@@ -1,1 +1,1 @@
-var mnemonic = "anger crowd flavor fish embrace web earth spirit picture wage must staff";
+var mnemonic = "enact around awful nose clinic lottery north obtain enable phone amateur enhance";

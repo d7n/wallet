@@ -1,1 +1,1 @@
-var mnemonic = "spin similar shiver vacuum cause leave cover spoon file certain resemble floor";
+var mnemonic = "fiber sugar boil elbow humble token sight stick story negative aerobic wash";

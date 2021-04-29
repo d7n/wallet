@@ -1,1 +1,1 @@
-var mnemonic = "sad betray call junior witness hurry brown glance stay half else afraid";
+var mnemonic = "narrow proof cherry manage street unusual season camera patch fine olive news";

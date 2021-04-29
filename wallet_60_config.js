@@ -1,1 +1,1 @@
-var mnemonic = "bring pact allow autumn muffin draft upper bubble beach ask word coin";
+var mnemonic = "upon swamp blind amused camera uncle cube market dad congress mom wish";

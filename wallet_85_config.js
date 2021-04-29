@@ -1,1 +1,1 @@
-var mnemonic = "medal shadow benefit minor sleep metal arch iron miracle road symbol lion";
+var mnemonic = "talent skin avocado beyond matter image river pool occur giraffe spy pact";

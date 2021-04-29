@@ -1,1 +1,1 @@
-var mnemonic = "diesel little lemon boss clerk cram lunch guess daring fire neck enact";
+var mnemonic = "attend jeans dizzy suggest fiction used fault beauty cliff float fossil animal";

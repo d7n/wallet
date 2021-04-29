@@ -1,1 +1,1 @@
-var mnemonic = "frozen coyote pepper cave wheel expand fault jungle park transfer endorse zebra";
+var mnemonic = "divert senior absurd baby purpose action nothing sell glove marble castle social";

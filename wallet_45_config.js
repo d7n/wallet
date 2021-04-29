@@ -1,1 +1,1 @@
-var mnemonic = "topple coach perfect pass tube talent deer deposit coconut expire salt bid";
+var mnemonic = "uniform trophy good hawk employ emotion history code merit choice ignore uphold";

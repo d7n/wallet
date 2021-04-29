@@ -1,1 +1,1 @@
-var mnemonic = "match cart trumpet state resist away assist voice library slice pipe sense";
+var mnemonic = "volcano extend prosper exclude sentence attend empty abstract burst burger prefer fiction";

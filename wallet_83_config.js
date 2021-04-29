@@ -1,1 +1,1 @@
-var mnemonic = "cannon cannon tooth century task type lunar sing fade fitness trouble rubber";
+var mnemonic = "eagle trip author harbor veteran problem cream delay boil pink abstract pioneer";

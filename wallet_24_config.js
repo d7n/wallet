@@ -1,1 +1,1 @@
-var mnemonic = "crack unit unlock drift sheriff shrug damp buffalo give observe truck silver";
+var mnemonic = "imitate omit there joy lens song job priority undo include plate bacon";

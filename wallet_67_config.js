@@ -1,1 +1,1 @@
-var mnemonic = "disorder gun oven scatter drift eagle february tired dragon pulse identify caution";
+var mnemonic = "normal race secret fitness stamp public junior smoke grocery update drip together";

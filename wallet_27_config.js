@@ -1,1 +1,1 @@
-var mnemonic = "parade holiday october country guard rapid job radar prevent laundry clip rebel";
+var mnemonic = "horse wish secret arrive ball betray season predict pudding hawk absorb win";

@@ -1,1 +1,1 @@
-var mnemonic = "atom husband target empty now naive cargo prepare robot maximum loud misery";
+var mnemonic = "topic round traffic mansion birth raw mad season barely genre tube wish";

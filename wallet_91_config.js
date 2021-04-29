@@ -1,1 +1,1 @@
-var mnemonic = "chair glow energy pepper twist expand online copper venture walnut client heavy";
+var mnemonic = "they radar lady eternal save cupboard hat garage child mail ceiling pond";

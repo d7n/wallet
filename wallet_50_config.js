@@ -1,1 +1,1 @@
-var mnemonic = "chaos question garden peasant change tool abstract assume trigger miss jaguar amateur";
+var mnemonic = "add marriage benefit endless luggage sail camp close slab dentist logic unfold";

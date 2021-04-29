@@ -1,1 +1,1 @@
-var mnemonic = "small ocean receive document fancy boil noble auto rain barely cycle glance";
+var mnemonic = "online salon coffee junk drama roof ring alcohol bacon liar average off";

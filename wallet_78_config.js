@@ -1,1 +1,1 @@
-var mnemonic = "correct enter scan such lyrics story bicycle burden scissors pencil another enemy";
+var mnemonic = "muffin foam asthma robust budget artefact goddess female loud miracle culture mouse";

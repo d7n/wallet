@@ -1,1 +1,1 @@
-var mnemonic = "fiber skirt bachelor festival shallow dignity spawn skill hundred school reward tide";
+var mnemonic = "all rude cruise genius pair blue nurse cake embody country champion protect";

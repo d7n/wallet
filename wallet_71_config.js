@@ -1,1 +1,1 @@
-var mnemonic = "foot novel valve flower olympic lake powder uphold exist breeze horror glove";
+var mnemonic = "search hub garden weather warrior venue core say invest usage inform acid";

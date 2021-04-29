@@ -1,1 +1,1 @@
-var mnemonic = "promote erase travel stumble debris thunder income right direct grab cliff roof";
+var mnemonic = "walk accuse concert symbol blue route health arctic ritual option obvious excess";

@@ -1,1 +1,1 @@
-var mnemonic = "fun jelly salt planet cool acid can until cliff shrimp vicious brisk";
+var mnemonic = "mix embark learn lady brush copper fox denial economy defense bus pumpkin";

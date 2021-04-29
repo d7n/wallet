@@ -1,1 +1,1 @@
-var mnemonic = "hungry mesh employ night road wine school anger cotton ignore knock trade";
+var mnemonic = "thought loyal avoid absent seminar virus stage field coyote basic interest simple";

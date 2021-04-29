@@ -1,1 +1,1 @@
-var mnemonic = "execute run disagree visa stay bacon birth advice round lizard artefact dream";
+var mnemonic = "thunder layer dirt humor hockey dinosaur anger olympic field print winter surge";

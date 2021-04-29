@@ -1,1 +1,1 @@
-var mnemonic = "post betray flavor cup install rotate language mansion festival major praise fire";
+var mnemonic = "online volume scare element wise display melt custom cube cake together just";

@@ -1,1 +1,1 @@
-var mnemonic = "draft skull harvest author output visual layer double glide today smoke visual";
+var mnemonic = "enemy frequent frozen gentle october cinnamon armed renew begin enroll table lift";

@@ -1,1 +1,1 @@
-var mnemonic = "tape object music estate link edit muscle skin dog section physical wrap";
+var mnemonic = "perfect call audit citizen sick review coconut potato country version carbon island";

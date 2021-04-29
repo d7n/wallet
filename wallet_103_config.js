@@ -1,1 +1,1 @@
-var mnemonic = "vapor donor announce chef connect social harbor turtle transfer video flame leisure";
+var mnemonic = "orbit force flag equal zoo force between feature mystery grant destroy grit";

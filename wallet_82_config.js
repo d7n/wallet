@@ -1,1 +1,1 @@
-var mnemonic = "hold beyond syrup lawn toddler survey sock artefact purchase cry fever cheese";
+var mnemonic = "unfold can spin rival shift ship suggest maple alley found clay shuffle";

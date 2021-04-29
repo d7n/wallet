@@ -1,1 +1,1 @@
-var mnemonic = "trouble embody pulse month head decade below other arm certain chicken current";
+var mnemonic = "joke pitch rule iron knee avoid next coast yard sponsor choice bachelor";

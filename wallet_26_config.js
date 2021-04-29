@@ -1,1 +1,1 @@
-var mnemonic = "quote castle expand loud member mass scheme husband elegant art road muscle";
+var mnemonic = "plug fitness issue ensure spray help skull seek charge stage humor swear";

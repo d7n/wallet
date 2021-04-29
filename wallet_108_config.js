@@ -1,1 +1,1 @@
-var mnemonic = "thunder resemble soft shoe mention company fiction nothing hundred industry result tilt";
+var mnemonic = "scout also huge crumble limit increase credit industry wagon magnet view fiction";

@@ -1,1 +1,1 @@
-var mnemonic = "abuse nephew input ugly involve soft grid scrap coin solid drive other";
+var mnemonic = "fee cushion valve stem symptom forest three smooth firm basket what apart";

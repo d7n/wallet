@@ -1,1 +1,1 @@
-var mnemonic = "loyal enforce super flower choice trust error assault arrange fiscal else distance";
+var mnemonic = "maximum jump gauge craft salt hawk flush embark path uphold still bone";

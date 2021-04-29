@@ -1,1 +1,1 @@
-var mnemonic = "local lend zoo bonus firm memory drill motion search orange curious promote";
+var mnemonic = "recall basket social latin doll night napkin remember else hint avocado faint";

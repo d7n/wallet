@@ -1,1 +1,1 @@
-var mnemonic = "glimpse tenant marine rotate theme shell patrol today chaos fashion father coyote";
+var mnemonic = "affair aisle upset wheat blind infant patient reunion divide cigar ghost coil";

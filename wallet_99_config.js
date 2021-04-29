@@ -1,1 +1,1 @@
-var mnemonic = "topic choice embrace isolate club scrub current mind ocean other scrap provide";
+var mnemonic = "enjoy vivid dirt age obey urge swing orbit metal uniform burger nation";

@@ -1,1 +1,1 @@
-var mnemonic = "addict able salon enhance praise thing among supply library trash elite split";
+var mnemonic = "hazard crowd seed discover middle bonus north innocent shield empty mobile coconut";

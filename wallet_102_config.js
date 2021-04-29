@@ -1,1 +1,1 @@
-var mnemonic = "cool brick loan yellow rare female garage monkey garlic negative spoon juice";
+var mnemonic = "enforce polar merit giggle fatigue exhaust project mountain scout portion person embody";

@@ -1,1 +1,1 @@
-var mnemonic = "husband mean aisle fault kangaroo entire shy dutch shrug claim nest bullet";
+var mnemonic = "swim safe sleep window sell churn idle sausage vanish engage banner broom";

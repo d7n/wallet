@@ -1,1 +1,1 @@
-var mnemonic = "ability diary spell awkward barely infant squeeze grit toward tenant people prize";
+var mnemonic = "fever top season snack clarify globe element capital copper powder tourist arrive";

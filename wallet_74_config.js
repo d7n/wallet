@@ -1,1 +1,1 @@
-var mnemonic = "remain grow loan walk wild present captain few stereo divide random biology";
+var mnemonic = "drip snap audit student rain organ frog praise nasty tell behind fresh";

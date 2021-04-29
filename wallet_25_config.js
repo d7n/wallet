@@ -1,1 +1,1 @@
-var mnemonic = "drip judge toilet notice dumb ribbon anger whale play garage satoshi sphere";
+var mnemonic = "jelly sunny fruit explain under woman casino pass mixed under marine remain";

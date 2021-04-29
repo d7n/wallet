@@ -1,1 +1,1 @@
-var mnemonic = "faculty girl surround devote digital guard champion coral lawn almost tone render";
+var mnemonic = "alley potato gossip salad thing rug hold witness very sand increase accident";

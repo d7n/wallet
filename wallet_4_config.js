@@ -1,1 +1,1 @@
-var mnemonic = "coast diagram prepare midnight swift nerve saddle three worry hint matter blur";
+var mnemonic = "lava empty vote adjust endless life brush brother sea goose word lamp";

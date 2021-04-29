@@ -1,1 +1,1 @@
-var mnemonic = "lonely link core gun museum purity suit brush valley off dizzy liquid";
+var mnemonic = "dress leg useless athlete lunch inform foot pistol tuna tuition what lecture";

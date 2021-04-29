@@ -1,1 +1,1 @@
-var mnemonic = "once ready blush guess social february success garage ankle symbol rose circle";
+var mnemonic = "seek easy burst bulb silk spider pond layer swim enlist vacant disagree";

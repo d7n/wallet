@@ -1,1 +1,1 @@
-var mnemonic = "next cradle method want juice topic husband concert initial measure window stomach";
+var mnemonic = "link fee harbor prize grief pause also depend clown draw copy column";

@@ -1,1 +1,1 @@
-var mnemonic = "huge assist quote unknown caution bottom frozen boat noodle roast inside emotion";
+var mnemonic = "cannon science okay dignity lazy news chase merge faith spare delay card";

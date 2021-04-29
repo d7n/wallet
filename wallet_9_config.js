@@ -1,1 +1,1 @@
-var mnemonic = "puppy plug safe canvas remain income adjust trip steak fashion scrap mouse";
+var mnemonic = "radar warrior design boil drama dose umbrella injury scissors print digital nuclear";

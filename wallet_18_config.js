@@ -1,1 +1,1 @@
-var mnemonic = "tide juice fish accuse prison lunar door face large arrive please blue";
+var mnemonic = "car cage hospital brick ribbon envelope message glad hen gorilla bone coach";

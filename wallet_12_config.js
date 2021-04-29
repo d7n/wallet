@@ -1,1 +1,1 @@
-var mnemonic = "lunar mansion reason clever peasant accuse tube toy shy oyster doll sting";
+var mnemonic = "author giraffe float opinion wood evidence business ecology denial mimic exact lion";

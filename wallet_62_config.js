@@ -1,1 +1,1 @@
-var mnemonic = "hair dad carbon soda narrow agent cave eyebrow six buzz forward anchor";
+var mnemonic = "reform city fence shift photo crop ecology during easily glue monster eyebrow";
