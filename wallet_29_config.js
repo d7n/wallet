@@ -1,1 +1,1 @@
-var mnemonic = "burden human attitude novel faint effort rifle seed distance portion hood luggage";
+var mnemonic = "shoe harbor inhale someone sphere estate robot ride depth truth demise hire";

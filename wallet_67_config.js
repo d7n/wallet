@@ -1,1 +1,1 @@
-var mnemonic = "fresh long give pond multiply kidney music century strong health cart cup";
+var mnemonic = "mandate various expose catalog digital obtain pattern angry slot level buddy coach";

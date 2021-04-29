@@ -1,1 +1,1 @@
-var mnemonic = "stock make blanket offer kit stone appear hazard gather wealth lesson museum";
+var mnemonic = "output actor swim blade chat month bundle farm pass easy kit property";

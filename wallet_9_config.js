@@ -1,1 +1,1 @@
-var mnemonic = "weird angle miss skate cliff rapid submit fever exhaust gloom enact timber";
+var mnemonic = "frequent tuition pen affair jungle original swarm zoo vivid belt differ dolphin";

@@ -1,1 +1,1 @@
-var mnemonic = "sport ask clever reject produce current bubble chronic ginger habit fade poverty";
+var mnemonic = "antique ladder scare stereo arm night box crime cherry sad exhibit box";

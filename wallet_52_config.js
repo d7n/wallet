@@ -1,1 +1,1 @@
-var mnemonic = "brush ability cabbage hold punch soup boy interest solve nut razor sweet";
+var mnemonic = "craft slender cheap tennis original champion art baby cloud lounge poem frame";

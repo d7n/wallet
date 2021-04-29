@@ -1,1 +1,1 @@
-var mnemonic = "parent burden behave swarm rough mean valid night fever absurd antenna salt";
+var mnemonic = "mixed toe hero coach patch kiwi tackle push dose kitchen ten type";

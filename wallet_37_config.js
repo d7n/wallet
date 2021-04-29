@@ -1,1 +1,1 @@
-var mnemonic = "manage treat idle silly response price climb response identify assume praise salt";
+var mnemonic = "pumpkin trophy remember domain tent novel space champion amateur runway park shield";

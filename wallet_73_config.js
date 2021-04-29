@@ -1,1 +1,1 @@
-var mnemonic = "panda favorite glad demise engage swallow afford round wave vote glad grocery";
+var mnemonic = "swift satisfy world lobster fitness bracket sense crime daring bright timber denial";

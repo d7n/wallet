@@ -1,1 +1,1 @@
-var mnemonic = "panic path nurse upon wire letter jewel gallery blush exercise gospel hood";
+var mnemonic = "water mango wine honey mutual offer tiger load grant acquire again wet";

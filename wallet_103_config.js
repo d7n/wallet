@@ -1,1 +1,1 @@
-var mnemonic = "fatigue romance render shed knife dream gather antique life wire share copper";
+var mnemonic = "trend strategy lazy aim someone cluster maple spike combine wire weapon urge";

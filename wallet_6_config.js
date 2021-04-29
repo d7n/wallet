@@ -1,1 +1,1 @@
-var mnemonic = "bicycle cream copper focus inner odor barely imitate observe online carpet garlic";
+var mnemonic = "victory nature clean resist egg survey ride recall identify drastic just survey";

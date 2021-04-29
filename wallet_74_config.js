@@ -1,1 +1,1 @@
-var mnemonic = "address future vintage breeze pause display fiber dawn cancel ginger fish purpose";
+var mnemonic = "inmate exercise pink thunder simple magnet coral lecture toast price crucial monster";

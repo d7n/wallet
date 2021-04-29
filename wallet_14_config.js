@@ -1,1 +1,1 @@
-var mnemonic = "poem name trick inherit police dance keep cry toss craft elbow orbit";
+var mnemonic = "pig dance park entry thank fury thunder mom announce arch afford laptop";

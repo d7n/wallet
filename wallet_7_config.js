@@ -1,1 +1,1 @@
-var mnemonic = "joy brisk buddy cement opinion timber math zebra buyer palace animal jealous";
+var mnemonic = "apart shoe net eight book diamond swear shallow pause couch code town";

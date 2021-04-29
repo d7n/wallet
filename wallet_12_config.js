@@ -1,1 +1,1 @@
-var mnemonic = "remember minor inherit price mouse claw sniff truly near jaguar shoot truly";
+var mnemonic = "scrub shield neck angle green source turtle script service raven usage steel";

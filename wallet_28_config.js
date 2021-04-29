@@ -1,1 +1,1 @@
-var mnemonic = "client suggest profit rebel jungle degree treat bridge panel front lunar lamp";
+var mnemonic = "muscle swamp fabric panda setup squeeze atom tilt garden blame napkin puzzle";

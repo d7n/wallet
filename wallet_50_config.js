@@ -1,1 +1,1 @@
-var mnemonic = "brown raw exotic kiss code avocado clog senior model camera apart theory";
+var mnemonic = "torch extend middle nest hidden boat camera ivory access away flight faith";

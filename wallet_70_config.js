@@ -1,1 +1,1 @@
-var mnemonic = "typical convince slam dynamic negative bean example laptop exist sting cart base";
+var mnemonic = "express phrase aware trial wool also unhappy access caution issue middle cancel";

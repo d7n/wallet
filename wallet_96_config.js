@@ -1,1 +1,1 @@
-var mnemonic = "token spatial draw candy scene saddle midnight thought swallow occur loud usual";
+var mnemonic = "gift stairs avoid nephew twenty desk believe hollow address surround erode cat";

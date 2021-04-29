@@ -1,1 +1,1 @@
-var mnemonic = "knock build motion limit sword day daughter dove receive victory almost tell";
+var mnemonic = "tennis engage pen spray record concert oil bird govern giggle dentist permit";

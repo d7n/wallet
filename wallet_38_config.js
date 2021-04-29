@@ -1,1 +1,1 @@
-var mnemonic = "private emotion love cotton ridge van scrub garbage lunch armed minute tumble";
+var mnemonic = "rail country diary husband summer antenna language mad receive sail accuse spoon";

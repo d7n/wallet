@@ -1,1 +1,1 @@
-var mnemonic = "inch tackle outside ostrich anchor physical increase original crazy hammer loyal knife";
+var mnemonic = "dish easily smile monkey disorder cereal come urge close swap hybrid warm";

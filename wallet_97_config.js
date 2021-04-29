@@ -1,1 +1,1 @@
-var mnemonic = "acquire know card bid cross pitch intact monitor term dragon organ claim";
+var mnemonic = "slot hybrid flush kiwi fault coast royal problem isolate arrest school economy";

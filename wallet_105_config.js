@@ -1,1 +1,1 @@
-var mnemonic = "wreck avoid hundred lounge true raise feel frown tent afford wheel cement";
+var mnemonic = "pyramid lion deny leaf asset will make include avoid east royal demise";

@@ -1,1 +1,1 @@
-var mnemonic = "diary welcome disease envelope muffin opinion kind decade flag bird nice subject";
+var mnemonic = "trouble belt sadness ritual manage half dog will another police acquire edge";

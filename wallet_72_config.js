@@ -1,1 +1,1 @@
-var mnemonic = "achieve draft spend trumpet bullet hand wrist trumpet famous warrior program comfort";
+var mnemonic = "road rifle dynamic near sound identify shrimp degree chapter relief already morning";

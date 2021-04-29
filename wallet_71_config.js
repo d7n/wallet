@@ -1,1 +1,1 @@
-var mnemonic = "public bus warm school soft option balance drastic hover favorite knee vital";
+var mnemonic = "language cross loop small suggest picnic maze uncle second wedding wreck range";

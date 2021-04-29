@@ -1,1 +1,1 @@
-var mnemonic = "south fragile sponsor mixed hamster round major keen very govern electric random";
+var mnemonic = "obey isolate viable improve nose soap symptom load reward hub offer shine";

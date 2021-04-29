@@ -1,1 +1,1 @@
-var mnemonic = "dash dish tip canyon aim detect acquire cinnamon suggest stuff noise buzz";
+var mnemonic = "gauge skull season imitate spatial project sunny unique pond tent meat awake";

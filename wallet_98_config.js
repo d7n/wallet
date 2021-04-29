@@ -1,1 +1,1 @@
-var mnemonic = "ride same hip opera gauge visual ignore useful ribbon belt cancel lecture";
+var mnemonic = "across sea scan tunnel jaguar trash cactus make draw youth donate cart";

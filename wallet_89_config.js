@@ -1,1 +1,1 @@
-var mnemonic = "session quote danger pizza chimney blast busy drill scheme furnace history curious";
+var mnemonic = "trust gadget patient special draft swim holiday already nut almost wet picture";

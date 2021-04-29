@@ -1,1 +1,1 @@
-var mnemonic = "room dismiss already fit exit supply alone object practice fox silk market";
+var mnemonic = "rain prosper bring diet equal blame square divorce weekend lend rival ghost";

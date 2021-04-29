@@ -1,1 +1,1 @@
-var mnemonic = "eight since conduct spin resist impose camera afford mixed embrace junk kingdom";
+var mnemonic = "meadow install post throw ill crystal alarm equal like shadow believe brother";

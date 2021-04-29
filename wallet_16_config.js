@@ -1,1 +1,1 @@
-var mnemonic = "donor best typical police scale parrot race transfer chase jungle sadness pioneer";
+var mnemonic = "excess payment draw tape adult hockey assume gown nominee pact error digital";

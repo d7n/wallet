@@ -1,1 +1,1 @@
-var mnemonic = "skate outer negative eager raw length deputy engine step long candy ask";
+var mnemonic = "random seat plate trim smooth famous load abuse gentle picture build margin";

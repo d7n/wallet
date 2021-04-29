@@ -1,1 +1,1 @@
-var mnemonic = "bike mirror dune acquire quit shaft seed amount lock copper major awake";
+var mnemonic = "usual differ arena meat conduct divide worth hero weasel trash around ordinary";

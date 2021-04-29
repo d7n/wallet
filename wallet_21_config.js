@@ -1,1 +1,1 @@
-var mnemonic = "chaos cover wolf give whip street furnace appear valid sand mesh result";
+var mnemonic = "consider segment board phone mesh bench raise parent abandon mother segment apart";

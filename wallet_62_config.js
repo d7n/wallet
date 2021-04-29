@@ -1,1 +1,1 @@
-var mnemonic = "consider armor gold style reason heavy phrase mesh orchard style price blame";
+var mnemonic = "junior valley capable seek wolf argue popular supreme betray document aware legend";

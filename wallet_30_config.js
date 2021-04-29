@@ -1,1 +1,1 @@
-var mnemonic = "suit business kiwi antenna feature garlic picture hip abuse burst bright picture";
+var mnemonic = "tone blame neck lift legal dragon act involve awful child antenna base";

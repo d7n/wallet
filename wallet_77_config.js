@@ -1,1 +1,1 @@
-var mnemonic = "pupil release giraffe afford wear ticket boring welcome price voyage leader acoustic";
+var mnemonic = "inmate fish mirror this dust fold indicate gaze ripple dust people gossip";

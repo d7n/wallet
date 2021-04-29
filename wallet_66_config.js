@@ -1,1 +1,1 @@
-var mnemonic = "tourist conduct alien key add keep resist two error caution barrel stay";
+var mnemonic = "sponsor punch eye earn distance royal fox route mobile lucky whale gorilla";

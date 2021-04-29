@@ -1,1 +1,1 @@
-var mnemonic = "credit shine hood bring idle federal canvas profit immune ring engage stomach";
+var mnemonic = "silk health aerobic nominee piece plastic hurdle sure trouble cruise know asset";

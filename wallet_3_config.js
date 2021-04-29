@@ -1,1 +1,1 @@
-var mnemonic = "protect true ritual property napkin relax brief remove move strong carpet boring";
+var mnemonic = "club spare dizzy empower cinnamon fruit wage source inquiry left movie weird";

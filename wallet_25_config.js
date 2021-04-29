@@ -1,1 +1,1 @@
-var mnemonic = "quiz wrestle mention clog timber glue aisle rival liquid silent syrup voice";
+var mnemonic = "leave gasp kangaroo opinion master hybrid power dove elder flower kingdom sad";

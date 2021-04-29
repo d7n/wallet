@@ -1,1 +1,1 @@
-var mnemonic = "peace income divorce chalk skirt toe forget beyond weather spoon tell carbon";
+var mnemonic = "angry whip hidden outer system cherry family require cry before vessel differ";

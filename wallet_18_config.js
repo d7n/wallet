@@ -1,1 +1,1 @@
-var mnemonic = "question pluck error kitchen mammal cancel toddler mention stage high edge sphere";
+var mnemonic = "laptop slam lunch life poem party thank primary hamster tree sense message";

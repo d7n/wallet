@@ -1,1 +1,1 @@
-var mnemonic = "blue process advice north grid swing hamster number apart rain grain mouse";
+var mnemonic = "hamster pole glare cupboard believe chronic okay sight car nose choose sock";

@@ -1,1 +1,1 @@
-var mnemonic = "fragile mind decrease trade wheel know cost cream island ill heavy right";
+var mnemonic = "over salon tip topic chair squirrel tonight orient slush reopen way salute";

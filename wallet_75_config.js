@@ -1,1 +1,1 @@
-var mnemonic = "wine title witness today traffic usual flame service affair response onion final";
+var mnemonic = "stairs cherry wing draft disagree buyer mechanic replace improve dragon shaft census";

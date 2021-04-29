@@ -1,1 +1,1 @@
-var mnemonic = "cage habit mirror useful hour save engage sure pretty winter goddess trend";
+var mnemonic = "bounce ten security earn jacket bind waste whisper dignity wet when coconut";

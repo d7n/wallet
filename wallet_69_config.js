@@ -1,1 +1,1 @@
-var mnemonic = "shy reflect garment course vibrant hero spread corn corn clap track improve";
+var mnemonic = "math light artefact muffin plate canoe fabric bundle plug list sponsor wash";

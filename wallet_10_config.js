@@ -1,1 +1,1 @@
-var mnemonic = "stool tonight nothing autumn lounge taste brush dice engine waste very funny";
+var mnemonic = "allow palace peasant leaf hip measure urban sustain hope label news remember";

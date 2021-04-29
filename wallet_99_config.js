@@ -1,1 +1,1 @@
-var mnemonic = "huge caught slogan extra game cherry cruise hawk team deer face assume";
+var mnemonic = "oxygen silly caution among stadium rival attend remind fantasy slogan tonight unique";

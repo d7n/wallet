@@ -1,1 +1,1 @@
-var mnemonic = "resemble flee sound match young sight dance alpha meadow metal tumble diary";
+var mnemonic = "upon pet source width profit plug bacon issue buddy lunch network beauty";

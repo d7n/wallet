@@ -1,1 +1,1 @@
-var mnemonic = "faculty defense pig rabbit barely brain thought tonight point flat tortoise never";
+var mnemonic = "west energy quiz erase bulb good one stone utility sister must airport";

@@ -1,1 +1,1 @@
-var mnemonic = "fly force bonus ride broom net olympic evolve oyster point mouse will";
+var mnemonic = "defense step pipe garlic panther sport world wrap armed group stock recycle";

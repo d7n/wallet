@@ -1,1 +1,1 @@
-var mnemonic = "fame scan hole spawn unknown tiny game color convince powder luggage dismiss";
+var mnemonic = "beef spider surge day chicken pass sort beauty measure battle arm artefact";

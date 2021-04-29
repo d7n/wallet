@@ -1,1 +1,1 @@
-var mnemonic = "toilet item document jaguar board embrace confirm coast unit girl page swim";
+var mnemonic = "candy way fiscal lonely pulp analyst similar faith myth random sentence pool";

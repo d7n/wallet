@@ -1,1 +1,1 @@
-var mnemonic = "illness pigeon armor kitten movie salmon purpose drastic cactus velvet struggle fence";
+var mnemonic = "elevator palace enrich climb clock tone cable toward plastic drink maid joke";

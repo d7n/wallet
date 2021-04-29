@@ -1,1 +1,1 @@
-var mnemonic = "plunge pride peace beef detect mountain vapor equip bar attract upon antique";
+var mnemonic = "myself stick pyramid differ kind check slush unaware guitar tragic royal ensure";

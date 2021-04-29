@@ -1,1 +1,1 @@
-var mnemonic = "science hidden supreme hedgehog jump antique liar harbor cupboard rifle peace problem";
+var mnemonic = "menu secret wolf spare fitness disorder repair chair swamp water public suggest";

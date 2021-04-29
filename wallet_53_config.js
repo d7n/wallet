@@ -1,1 +1,1 @@
-var mnemonic = "sad kitchen ready harsh display era mask federal risk endorse code march";
+var mnemonic = "immense sphere fix arrive result few acid remove layer wait wheel index";

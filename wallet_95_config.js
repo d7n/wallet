@@ -1,1 +1,1 @@
-var mnemonic = "annual tell error light run drink skull cat flight foil unable kind";
+var mnemonic = "occur shock brief unusual rice exotic join upper online dust course fame";

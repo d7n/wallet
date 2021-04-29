@@ -1,1 +1,1 @@
-var mnemonic = "dune symptom green blame civil finger check noise sunny cradle color warm";
+var mnemonic = "input school wheel drip mushroom trophy ignore moral pony you machine entire";

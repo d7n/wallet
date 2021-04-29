@@ -1,1 +1,1 @@
-var mnemonic = "update hour exhaust inherit true slow trigger wool brand crack there feel";
+var mnemonic = "coin deposit sort hybrid naive deposit concert time garbage hurry essence awkward";

@@ -1,1 +1,1 @@
-var mnemonic = "later fat explain snap smart bread pull dress web raven also journey";
+var mnemonic = "fatal tool acquire youth adult mushroom view must spice term expose ridge";

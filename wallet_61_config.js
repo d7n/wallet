@@ -1,1 +1,1 @@
-var mnemonic = "plunge tornado open man gesture joy usual frost bind ancient cliff uncle";
+var mnemonic = "patch grant raven cotton pink pizza renew soda common lecture before can";

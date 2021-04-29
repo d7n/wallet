@@ -1,1 +1,1 @@
-var mnemonic = "infant age solid must pond monitor cinnamon lift critic ocean draft muffin";
+var mnemonic = "smooth virtual scissors list cigar door cage arrange dilemma salute predict soup";

@@ -1,1 +1,1 @@
-var mnemonic = "frame crack hospital angle alley shrug like midnight general van screen bicycle";
+var mnemonic = "emerge bargain harsh merge critic find shiver pulse wise mixed surge wing";

@@ -1,1 +1,1 @@
-var mnemonic = "stay blouse impose true beauty valve cake explain blanket scene doctor dance";
+var mnemonic = "unhappy spare talent sponsor one mix couple vessel water tooth base large";

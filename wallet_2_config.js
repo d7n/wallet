@@ -1,1 +1,1 @@
-var mnemonic = "position transfer remove apple hair home brave under usage buddy kitchen trend";
+var mnemonic = "truth mystery suggest process wrong timber addict season hip prosper soul domain";

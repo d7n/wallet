@@ -1,1 +1,1 @@
-var mnemonic = "trash pottery edit confirm mistake hero concert february gap oak just uphold";
+var mnemonic = "gain artist burger close among mystery mansion injury degree erupt view deny";

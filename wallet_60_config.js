@@ -1,1 +1,1 @@
-var mnemonic = "dress admit omit antique salt off dismiss bring image bomb unknown stamp";
+var mnemonic = "mention soap nothing alert inspire nature salad cream risk chest sign hurry";

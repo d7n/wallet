@@ -1,1 +1,1 @@
-var mnemonic = "shadow reason siren angry hollow figure answer seven person medal crane post";
+var mnemonic = "robot useless viable song figure risk arch cute profit sail annual super";

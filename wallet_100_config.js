@@ -1,1 +1,1 @@
-var mnemonic = "access dilemma canvas sustain sheriff polar flower scare empower yellow guard pigeon";
+var mnemonic = "web penalty crazy middle cat settle evolve taste smart bike old kind";

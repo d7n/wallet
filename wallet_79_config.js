@@ -1,1 +1,1 @@
-var mnemonic = "abuse method stomach rough ask face key quote harsh danger group century";
+var mnemonic = "devote apple funny wide gesture world impose happy expect lumber pumpkin north";

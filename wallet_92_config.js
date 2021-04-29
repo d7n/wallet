@@ -1,1 +1,1 @@
-var mnemonic = "trip cousin ankle rebuild raw aware cave birth jelly wrong pig nerve";
+var mnemonic = "armed survey spice boost zoo civil market sport consider famous fabric warfare";

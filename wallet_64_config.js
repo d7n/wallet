@@ -1,1 +1,1 @@
-var mnemonic = "gasp cup distance man undo waste horn spatial alert become crane denial";
+var mnemonic = "taxi illegal quarter town duck mutual degree lend lounge liar penalty trend";

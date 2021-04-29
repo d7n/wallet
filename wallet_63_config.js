@@ -1,1 +1,1 @@
-var mnemonic = "system age acquire ankle notable patient cat milk meadow faith code despair";
+var mnemonic = "roast grief arch fine flight later topple donor fix chef mobile wheat";

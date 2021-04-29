@@ -1,1 +1,1 @@
-var mnemonic = "clog shadow autumn hello critic basket just invite awake forum beef evoke";
+var mnemonic = "spider mountain enlist sadness kingdom certain nest modify caution build oblige visit";

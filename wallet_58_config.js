@@ -1,1 +1,1 @@
-var mnemonic = "neither unveil luxury shed coach canvas basket apart pause pave risk indoor";
+var mnemonic = "bounce smile couch gold fringe ride toe truly behave celery second snap";

@@ -1,1 +1,1 @@
-var mnemonic = "knee practice will fossil bottom sentence equip neck repair fix solid rare";
+var mnemonic = "simple skill found abuse figure bachelor trophy change panic tree breeze pledge";

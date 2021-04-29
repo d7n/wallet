@@ -1,1 +1,1 @@
-var mnemonic = "imitate tonight scrub when panic tired limit lift help inject logic weather";
+var mnemonic = "home cricket plate island result radio whale razor kite mirror theme giraffe";

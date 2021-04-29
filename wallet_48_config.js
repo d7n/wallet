@@ -1,1 +1,1 @@
-var mnemonic = "viable twelve basket hybrid airport jump diamond border fancy divert display gain";
+var mnemonic = "horror frozen loan clog divert month dog park crumble smile glue marble";

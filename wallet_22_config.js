@@ -1,1 +1,1 @@
-var mnemonic = "file final silk blade length shoot feature wide vessel once forum future";
+var mnemonic = "illegal you fancy endless owner grab radar perfect dial dismiss just word";

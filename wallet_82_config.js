@@ -1,1 +1,1 @@
-var mnemonic = "toss morning tray nominee alarm trial pipe bonus twice main mesh black";
+var mnemonic = "fine glory venue door silk frown screen amount country orbit basic between";

@@ -1,1 +1,1 @@
-var mnemonic = "spell hope major twin fun protect level tower toilet action jealous nest";
+var mnemonic = "title situate hold gym caught possible embody smart regular grace adapt stadium";

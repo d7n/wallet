@@ -1,1 +1,1 @@
-var mnemonic = "sunset arrive toddler neither toe odor zoo expand soul enforce route timber";
+var mnemonic = "civil brand weather return wife point unique emerge power transfer space bird";

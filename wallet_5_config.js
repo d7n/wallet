@@ -1,1 +1,1 @@
-var mnemonic = "scan planet there pen rose club submit observe cancel better wealth float";
+var mnemonic = "planet float hungry giggle shuffle when eye pelican rebuild drop drip property";

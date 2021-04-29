@@ -1,1 +1,1 @@
-var mnemonic = "collect reflect foster lava pelican blouse super march post voyage ranch table";
+var mnemonic = "athlete beauty thrive prison swift law acquire lock region wreck private truly";

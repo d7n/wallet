@@ -1,1 +1,1 @@
-var mnemonic = "slice suggest debate unlock tree manage employ february rack devote bullet engage";
+var mnemonic = "box crane goat turtle steak hello major shallow orchard sniff student tunnel";
