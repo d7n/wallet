@@ -1,1 +1,1 @@
-var mnemonic = "height private prize room heart lazy frozen appear estate truck patch address";
+var mnemonic = "stock make blanket offer kit stone appear hazard gather wealth lesson museum";

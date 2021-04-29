@@ -1,1 +1,1 @@
-var mnemonic = "amateur pave cloud aspect olive weapon desk uphold conduct turn poem crush";
+var mnemonic = "access dilemma canvas sustain sheriff polar flower scare empower yellow guard pigeon";

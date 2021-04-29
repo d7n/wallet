@@ -1,1 +1,1 @@
-var mnemonic = "hungry uphold wave faith harsh autumn faith include original night nut dolphin";
+var mnemonic = "brown raw exotic kiss code avocado clog senior model camera apart theory";

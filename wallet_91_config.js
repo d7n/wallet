@@ -1,1 +1,1 @@
-var mnemonic = "creek token area clerk marriage spread assault scare engage dance river lunar";
+var mnemonic = "illness pigeon armor kitten movie salmon purpose drastic cactus velvet struggle fence";

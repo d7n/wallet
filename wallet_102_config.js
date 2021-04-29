@@ -1,1 +1,1 @@
-var mnemonic = "sadness physical idea allow grid pilot spike mammal piano awake tape agree";
+var mnemonic = "clog shadow autumn hello critic basket just invite awake forum beef evoke";

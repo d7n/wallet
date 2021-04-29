@@ -1,1 +1,1 @@
-var mnemonic = "cruise wedding hover soft web cheap obey tomorrow surface wave picnic outdoor";
+var mnemonic = "infant age solid must pond monitor cinnamon lift critic ocean draft muffin";

@@ -1,1 +1,1 @@
-var mnemonic = "october trophy lawn sun grass year faculty host camp expand reward zoo";
+var mnemonic = "weird angle miss skate cliff rapid submit fever exhaust gloom enact timber";

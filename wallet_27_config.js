@@ -1,1 +1,1 @@
-var mnemonic = "discover sheriff adapt mosquito pelican case april unknown crop seek south daughter";
+var mnemonic = "run select fatal maze grain derive rural unable divert humor boss cook";

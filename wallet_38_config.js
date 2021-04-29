@@ -1,1 +1,1 @@
-var mnemonic = "engage whip task oppose over achieve enroll symbol ethics cattle mom square";
+var mnemonic = "private emotion love cotton ridge van scrub garbage lunch armed minute tumble";

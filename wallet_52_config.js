@@ -1,1 +1,1 @@
-var mnemonic = "very card meadow remind unit garlic response embody auto foot recall glimpse";
+var mnemonic = "brush ability cabbage hold punch soup boy interest solve nut razor sweet";

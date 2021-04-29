@@ -1,1 +1,1 @@
-var mnemonic = "scorpion shove sense neglect young drop system bunker primary damp unable sphere";
+var mnemonic = "trip cousin ankle rebuild raw aware cave birth jelly wrong pig nerve";

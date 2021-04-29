@@ -1,1 +1,1 @@
-var mnemonic = "next arena margin exchange repeat echo palm menu quality salute receive minute";
+var mnemonic = "cage habit mirror useful hour save engage sure pretty winter goddess trend";

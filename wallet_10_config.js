@@ -1,1 +1,1 @@
-var mnemonic = "reunion column mushroom shop monster quarter craft furnace calm detail photo margin";
+var mnemonic = "stool tonight nothing autumn lounge taste brush dice engine waste very funny";

@@ -1,1 +1,1 @@
-var mnemonic = "champion close increase portion enable era engage duty avoid answer measure solid";
+var mnemonic = "session quote danger pizza chimney blast busy drill scheme furnace history curious";

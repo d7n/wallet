@@ -1,1 +1,1 @@
-var mnemonic = "congress sail describe fun dash ready almost dutch twin stone island exile";
+var mnemonic = "pistol predict tunnel village awful ghost swarm major truck similar sister rapid";

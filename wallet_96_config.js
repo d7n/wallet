@@ -1,1 +1,1 @@
-var mnemonic = "canyon rally afraid join gas wing fun police noble hen hair abandon";
+var mnemonic = "token spatial draw candy scene saddle midnight thought swallow occur loud usual";

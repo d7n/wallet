@@ -1,1 +1,1 @@
-var mnemonic = "speak fringe define amused fall reason wise enable involve reunion reflect soldier";
+var mnemonic = "spell hope major twin fun protect level tower toilet action jealous nest";

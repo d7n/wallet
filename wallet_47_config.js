@@ -1,1 +1,1 @@
-var mnemonic = "ozone rival cherry art fever wood health jazz tumble slice drop display";
+var mnemonic = "sunset arrive toddler neither toe odor zoo expand soul enforce route timber";

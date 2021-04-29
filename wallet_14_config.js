@@ -1,1 +1,1 @@
-var mnemonic = "pole produce novel garbage opera venue army gown apart upon aware increase";
+var mnemonic = "poem name trick inherit police dance keep cry toss craft elbow orbit";

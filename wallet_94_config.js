@@ -1,1 +1,1 @@
-var mnemonic = "network blouse radar portion earth success bracket hurt announce cattle service same";
+var mnemonic = "collect reflect foster lava pelican blouse super march post voyage ranch table";

@@ -1,1 +1,1 @@
-var mnemonic = "this curtain hold item banner private banner return burst winter creek math";
+var mnemonic = "flower chase scrap pause endorse decrease kind elegant crane connect grape jazz";

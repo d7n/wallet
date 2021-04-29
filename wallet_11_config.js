@@ -1,1 +1,1 @@
-var mnemonic = "end rose pill bubble fringe sport bridge purchase miracle help present tag";
+var mnemonic = "frame crack hospital angle alley shrug like midnight general van screen bicycle";

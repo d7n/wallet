@@ -1,1 +1,1 @@
-var mnemonic = "frame recycle asset round album field virus maze pill grid strategy tube";
+var mnemonic = "wisdom river crane broccoli loan weird report loan claw quantum chaos valley";

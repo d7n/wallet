@@ -1,1 +1,1 @@
-var mnemonic = "nuclear rookie differ around lottery alone security physical impose idle flee tuition";
+var mnemonic = "panic path nurse upon wire letter jewel gallery blush exercise gospel hood";

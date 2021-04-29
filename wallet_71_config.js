@@ -1,1 +1,1 @@
-var mnemonic = "suit coffee area hidden nice smoke maximum oppose tortoise market success song";
+var mnemonic = "public bus warm school soft option balance drastic hover favorite knee vital";

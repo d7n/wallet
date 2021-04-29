@@ -1,1 +1,1 @@
-var mnemonic = "sea two february crystal best figure coin level bench face coil bridge";
+var mnemonic = "couch afford visual wool plug horse unknown street gentle casino purse clay";

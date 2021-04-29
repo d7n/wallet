@@ -1,1 +1,1 @@
-var mnemonic = "baby direct craft derive danger rain shy upper loan more drive army";
+var mnemonic = "toss morning tray nominee alarm trial pipe bonus twice main mesh black";

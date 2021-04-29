@@ -1,1 +1,1 @@
-var mnemonic = "wave eager engine catalog lemon harsh wear save mass verify output weasel";
+var mnemonic = "inch tackle outside ostrich anchor physical increase original crazy hammer loyal knife";

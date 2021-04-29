@@ -1,1 +1,1 @@
-var mnemonic = "resist frost play oil aerobic mandate sock deal crime assist gauge art";
+var mnemonic = "knee practice will fossil bottom sentence equip neck repair fix solid rare";

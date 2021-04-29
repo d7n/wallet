@@ -1,1 +1,1 @@
-var mnemonic = "below fantasy knife spell warfare crawl garlic ecology banana clerk train become";
+var mnemonic = "typical convince slam dynamic negative bean example laptop exist sting cart base";

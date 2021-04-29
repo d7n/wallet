@@ -1,1 +1,1 @@
-var mnemonic = "rib ten dragon double picture mirror smooth filter situate notice improve rebel";
+var mnemonic = "parent burden behave swarm rough mean valid night fever absurd antenna salt";

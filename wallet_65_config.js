@@ -1,1 +1,1 @@
-var mnemonic = "stereo wrong assist smart crowd slam brass grit cry panel stock moon";
+var mnemonic = "wheat gown jungle brand setup target proof appear cheese awful capital husband";

@@ -1,1 +1,1 @@
-var mnemonic = "enact man custom dirt sing jar turn access media keep runway photo";
+var mnemonic = "quiz wrestle mention clog timber glue aisle rival liquid silent syrup voice";

@@ -1,1 +1,1 @@
-var mnemonic = "credit network warm confirm family symbol good laptop roast adult achieve tower";
+var mnemonic = "viable twelve basket hybrid airport jump diamond border fancy divert display gain";

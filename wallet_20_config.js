@@ -1,1 +1,1 @@
-var mnemonic = "alien busy cloth dish retreat note carry essence vacuum rhythm wait veteran";
+var mnemonic = "later fat explain snap smart bread pull dress web raven also journey";

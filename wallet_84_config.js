@@ -1,1 +1,1 @@
-var mnemonic = "divide choice review small grocery law discover major riot youth daughter cherry";
+var mnemonic = "south fragile sponsor mixed hamster round major keen very govern electric random";

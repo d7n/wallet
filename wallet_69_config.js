@@ -1,1 +1,1 @@
-var mnemonic = "mail inner crisp link strike frequent frown oil aerobic valley exchange best";
+var mnemonic = "shy reflect garment course vibrant hero spread corn corn clap track improve";

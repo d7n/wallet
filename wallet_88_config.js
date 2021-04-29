@@ -1,1 +1,1 @@
-var mnemonic = "dragon notice hand federal accuse perfect flat combine sketch innocent prepare own";
+var mnemonic = "plunge pride peace beef detect mountain vapor equip bar attract upon antique";

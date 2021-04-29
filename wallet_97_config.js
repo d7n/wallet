@@ -1,1 +1,1 @@
-var mnemonic = "notice blossom dynamic estate dream hedgehog rose hero auction clarify custom spice";
+var mnemonic = "acquire know card bid cross pitch intact monitor term dragon organ claim";

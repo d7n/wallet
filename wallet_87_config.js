@@ -1,1 +1,1 @@
-var mnemonic = "front expand always say act team patrol emerge group diagram absurd slow";
+var mnemonic = "actor game horse burst sauce ready negative half moment violin swamp honey";

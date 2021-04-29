@@ -1,1 +1,1 @@
-var mnemonic = "craft grief warfare blush short margin slam vacant rely theme candy major";
+var mnemonic = "resemble flee sound match young sight dance alpha meadow metal tumble diary";

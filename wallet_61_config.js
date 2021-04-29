@@ -1,1 +1,1 @@
-var mnemonic = "galaxy online now either solar provide junior cram spray duck return robot";
+var mnemonic = "plunge tornado open man gesture joy usual frost bind ancient cliff uncle";

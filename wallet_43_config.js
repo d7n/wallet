@@ -1,1 +1,1 @@
-var mnemonic = "thunder into trap athlete filter obtain bulk matter basket core ostrich physical";
+var mnemonic = "brass forward cruel limit update current tenant nest always palace scale candy";

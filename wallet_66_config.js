@@ -1,1 +1,1 @@
-var mnemonic = "large lock giant ship traffic dash gift design ancient front depart goddess";
+var mnemonic = "tourist conduct alien key add keep resist two error caution barrel stay";

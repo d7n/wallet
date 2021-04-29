@@ -1,1 +1,1 @@
-var mnemonic = "chair cereal warrior cave pink super noise random champion menu enhance pencil";
+var mnemonic = "question pluck error kitchen mammal cancel toddler mention stage high edge sphere";

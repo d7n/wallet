@@ -1,1 +1,1 @@
-var mnemonic = "into dust garden eternal patch day dentist noise industry toss runway sea";
+var mnemonic = "room dismiss already fit exit supply alone object practice fox silk market";

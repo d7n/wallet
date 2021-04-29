@@ -1,1 +1,1 @@
-var mnemonic = "cable cereal lawsuit aerobic believe edit recipe social regular churn vague answer";
+var mnemonic = "client suggest profit rebel jungle degree treat bridge panel front lunar lamp";

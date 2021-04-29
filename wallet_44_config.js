@@ -1,1 +1,1 @@
-var mnemonic = "captain dismiss pitch candy intact endorse buyer chicken bird clutch asset point";
+var mnemonic = "stay blouse impose true beauty valve cake explain blanket scene doctor dance";

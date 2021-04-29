@@ -1,1 +1,1 @@
-var mnemonic = "slim planet layer jealous trophy pigeon reward simple dignity execute stamp have";
+var mnemonic = "ethics afraid eagle learn ask oyster short fossil inflict wine finish ecology";

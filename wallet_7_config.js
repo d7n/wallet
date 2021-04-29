@@ -1,1 +1,1 @@
-var mnemonic = "unveil hour journey alpha shine target upper bleak other unfold grace claw";
+var mnemonic = "joy brisk buddy cement opinion timber math zebra buyer palace animal jealous";

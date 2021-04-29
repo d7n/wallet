@@ -1,1 +1,1 @@
-var mnemonic = "near soup ginger team loop ribbon toss shove planet divorce toddler inspire";
+var mnemonic = "dress admit omit antique salt off dismiss bring image bomb unknown stamp";

@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow glass under obvious situate street connect shaft file paddle crouch evoke";
+var mnemonic = "achieve draft spend trumpet bullet hand wrist trumpet famous warrior program comfort";

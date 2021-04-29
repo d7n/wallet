@@ -1,1 +1,1 @@
-var mnemonic = "earth vital solution baby wood loan grow virtual monkey pizza cycle grocery";
+var mnemonic = "solve egg trend spread cargo pudding bright car tray dial shop flower";

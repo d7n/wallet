@@ -1,1 +1,1 @@
-var mnemonic = "hollow useless famous vast ability junk luxury minor fiscal harbor try announce";
+var mnemonic = "ride same hip opera gauge visual ignore useful ribbon belt cancel lecture";

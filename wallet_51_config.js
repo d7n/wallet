@@ -1,1 +1,1 @@
-var mnemonic = "protect slot popular later exclude fossil spring half supply basket cliff better";
+var mnemonic = "shadow reason siren angry hollow figure answer seven person medal crane post";

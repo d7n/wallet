@@ -1,1 +1,1 @@
-var mnemonic = "unfold slide style blush brush arena boil gate scatter label flame track";
+var mnemonic = "sad kitchen ready harsh display era mask federal risk endorse code march";

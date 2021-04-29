@@ -1,1 +1,1 @@
-var mnemonic = "risk walnut thing toss avoid poverty guilt vivid wool library purchase pottery";
+var mnemonic = "protect true ritual property napkin relax brief remove move strong carpet boring";

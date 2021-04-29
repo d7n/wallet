@@ -1,1 +1,1 @@
-var mnemonic = "possible foot guess poem world place measure sunny second theory wonder dash";
+var mnemonic = "pupil release giraffe afford wear ticket boring welcome price voyage leader acoustic";

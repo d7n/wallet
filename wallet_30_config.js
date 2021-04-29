@@ -1,1 +1,1 @@
-var mnemonic = "alone hand test member rather correct artwork birth puppy clarify chimney dice";
+var mnemonic = "suit business kiwi antenna feature garlic picture hip abuse burst bright picture";

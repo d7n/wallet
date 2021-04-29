@@ -1,1 +1,1 @@
-var mnemonic = "aunt result rifle fiber inflict tide spell spin olympic buyer palm also";
+var mnemonic = "address future vintage breeze pause display fiber dawn cancel ginger fish purpose";

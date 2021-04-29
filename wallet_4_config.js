@@ -1,1 +1,1 @@
-var mnemonic = "match hope artefact normal balance hair tribe company renew wall pumpkin color";
+var mnemonic = "fancy gather van crack relief glimpse forget wonder case prosper inhale monster";

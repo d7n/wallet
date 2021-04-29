@@ -1,1 +1,1 @@
-var mnemonic = "pudding scare quit pluck pledge notable gauge exile column armed balcony rack";
+var mnemonic = "eight since conduct spin resist impose camera afford mixed embrace junk kingdom";

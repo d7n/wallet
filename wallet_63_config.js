@@ -1,1 +1,1 @@
-var mnemonic = "clerk giraffe vague space planet obscure voice paper carry cluster finish model";
+var mnemonic = "system age acquire ankle notable patient cat milk meadow faith code despair";

@@ -1,1 +1,1 @@
-var mnemonic = "memory stadium demise record lottery grit people allow enemy expose pave jaguar";
+var mnemonic = "scan planet there pen rose club submit observe cancel better wealth float";

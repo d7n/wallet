@@ -1,1 +1,1 @@
-var mnemonic = "emotion town clutch left arm skirt awesome text raw strike discover stumble";
+var mnemonic = "skate outer negative eager raw length deputy engine step long candy ask";

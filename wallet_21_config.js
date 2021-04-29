@@ -1,1 +1,1 @@
-var mnemonic = "swallow fiber main glare lobster hybrid mimic glue mutual verb budget day";
+var mnemonic = "chaos cover wolf give whip street furnace appear valid sand mesh result";

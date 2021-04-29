@@ -1,1 +1,1 @@
-var mnemonic = "taxi ignore goat useful parade gun memory mom govern tag income various";
+var mnemonic = "diary welcome disease envelope muffin opinion kind decade flag bird nice subject";

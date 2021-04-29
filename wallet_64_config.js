@@ -1,1 +1,1 @@
-var mnemonic = "year narrow crazy shoot raise rotate rent arch glow any novel oval";
+var mnemonic = "gasp cup distance man undo waste horn spatial alert become crane denial";

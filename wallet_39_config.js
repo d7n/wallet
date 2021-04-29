@@ -1,1 +1,1 @@
-var mnemonic = "horror nice lounge logic game acquire fruit buyer cheap physical future stereo";
+var mnemonic = "silent search morning kitten title rookie armor barrel normal citizen color sick";

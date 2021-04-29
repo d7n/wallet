@@ -1,1 +1,1 @@
-var mnemonic = "question express rail olive brown twenty dumb deliver aspect connect flash patch";
+var mnemonic = "donor best typical police scale parrot race transfer chase jungle sadness pioneer";

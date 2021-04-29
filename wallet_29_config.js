@@ -1,1 +1,1 @@
-var mnemonic = "eager chalk canvas thing state barrel chat trick afford stereo dinner grass";
+var mnemonic = "burden human attitude novel faint effort rifle seed distance portion hood luggage";

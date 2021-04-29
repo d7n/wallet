@@ -1,1 +1,1 @@
-var mnemonic = "unit obey mandate toe gossip salt extend banana flower together jelly resource";
+var mnemonic = "huge caught slogan extra game cherry cruise hawk team deer face assume";

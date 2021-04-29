@@ -1,1 +1,1 @@
-var mnemonic = "suffer jaguar panel deliver collect usual left chaos tail rifle stuff vivid";
+var mnemonic = "peace income divorce chalk skirt toe forget beyond weather spoon tell carbon";

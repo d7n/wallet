@@ -1,1 +1,1 @@
-var mnemonic = "funny figure airport maze execute food copy music bacon behave buffalo coach";
+var mnemonic = "blue process advice north grid swing hamster number apart rain grain mouse";

@@ -1,1 +1,1 @@
-var mnemonic = "supreme combine electric wink popular omit shield casual initial danger economy wish";
+var mnemonic = "fame scan hole spawn unknown tiny game color convince powder luggage dismiss";

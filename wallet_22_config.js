@@ -1,1 +1,1 @@
-var mnemonic = "coin expect room consider target alert raw differ advance priority tip since";
+var mnemonic = "file final silk blade length shoot feature wide vessel once forum future";

@@ -1,1 +1,1 @@
-var mnemonic = "nuclear note delay engage crowd idea quote loan safe impose honey arena";
+var mnemonic = "dash dish tip canyon aim detect acquire cinnamon suggest stuff noise buzz";

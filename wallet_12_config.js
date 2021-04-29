@@ -1,1 +1,1 @@
-var mnemonic = "still pig battle bunker ceiling nominee typical rally solid flee render assault";
+var mnemonic = "remember minor inherit price mouse claw sniff truly near jaguar shoot truly";

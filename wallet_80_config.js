@@ -1,1 +1,1 @@
-var mnemonic = "old math minimum such menu energy source squirrel blouse elite ball face";
+var mnemonic = "trash pottery edit confirm mistake hero concert february gap oak just uphold";

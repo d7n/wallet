@@ -1,1 +1,1 @@
-var mnemonic = "cause point proud into increase limit pull acquire depart into detail guard";
+var mnemonic = "fog motor fame venture orbit gun canal baby invest drill power blush";

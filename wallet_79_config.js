@@ -1,1 +1,1 @@
-var mnemonic = "agent rigid unaware injury hero glimpse alpha fantasy machine people drama merit";
+var mnemonic = "abuse method stomach rough ask face key quote harsh danger group century";

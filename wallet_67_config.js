@@ -1,1 +1,1 @@
-var mnemonic = "solve tourist bicycle enhance visa brisk step token regret seat sort glory";
+var mnemonic = "fresh long give pond multiply kidney music century strong health cart cup";

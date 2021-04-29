@@ -1,1 +1,1 @@
-var mnemonic = "struggle outdoor group enlist champion quantum must chunk ecology inside man minute";
+var mnemonic = "faculty defense pig rabbit barely brain thought tonight point flat tortoise never";

@@ -1,1 +1,1 @@
-var mnemonic = "blush bundle engage void receive stumble lunch subway exhibit thumb blood canyon";
+var mnemonic = "update hour exhaust inherit true slow trigger wool brand crack there feel";

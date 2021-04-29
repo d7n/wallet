@@ -1,1 +1,1 @@
-var mnemonic = "mansion step latin behind dismiss arctic kitten clarify kitchen inherit chalk grace";
+var mnemonic = "fly force bonus ride broom net olympic evolve oyster point mouse will";
