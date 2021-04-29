@@ -1,1 +1,1 @@
-var mnemonic = "labor thought zebra diet guess fragile honey airport public panel pride shop";
+var mnemonic = "summer birth bring trap enter elder salmon embody dentist umbrella just empty";

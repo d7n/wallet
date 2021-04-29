@@ -1,1 +1,1 @@
-var mnemonic = "soap tobacco ticket effort daring brand marble olympic misery hamster jaguar hub";
+var mnemonic = "version leader clump october rain someone entire eagle fashion below crop ready";

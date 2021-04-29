@@ -1,1 +1,1 @@
-var mnemonic = "more hat maid search undo note auction friend future punch empower float";
+var mnemonic = "bundle thunder era erase light found detect frame warfare banana decrease soda";

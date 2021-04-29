@@ -1,1 +1,1 @@
-var mnemonic = "gym fine twist river blur popular farm enforce toss fine frozen job";
+var mnemonic = "accident pioneer fog control metal funny focus ill agree evidence stem first";

@@ -1,1 +1,1 @@
-var mnemonic = "exclude increase fancy zoo index glove weasel aim popular fly asset extra";
+var mnemonic = "talent crumble imitate monster share comfort such federal story tank tribe pool";

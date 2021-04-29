@@ -1,1 +1,1 @@
-var mnemonic = "enough mirror poem thumb suffer all relax involve range hill edit neutral";
+var mnemonic = "animal lion chief surround merit animal cry brick crane divorce spice domain";

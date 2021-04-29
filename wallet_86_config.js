@@ -1,1 +1,1 @@
-var mnemonic = "roast husband piano identify escape display blossom bamboo mimic forum virus siren";
+var mnemonic = "nest poet amateur orbit proud will sight scare monkey tail square soccer";

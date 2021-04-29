@@ -1,1 +1,1 @@
-var mnemonic = "balance lunch owner glow certain latin leisure vanish deal gossip skill artwork";
+var mnemonic = "space type lesson boat slot away easily call miracle industry wood adapt";

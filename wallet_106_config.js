@@ -1,1 +1,1 @@
-var mnemonic = "describe want team spatial trim mandate inspire scout cement portion boat ski";
+var mnemonic = "cat tumble possible crack wage raw imitate like wreck winter entry caution";

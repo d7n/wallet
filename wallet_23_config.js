@@ -1,1 +1,1 @@
-var mnemonic = "crew ten genuine misery olympic used milk vacuum blade pulp village able";
+var mnemonic = "lend reward mother pool grocery level host ramp strong clerk topple cousin";

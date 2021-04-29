@@ -1,1 +1,1 @@
-var mnemonic = "problem empty honey position blast naive eight squirrel reform twin achieve draft";
+var mnemonic = "salt upon team announce push ranch spring parent risk iron swift wear";

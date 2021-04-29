@@ -1,1 +1,1 @@
-var mnemonic = "give certain tide latin judge cushion artefact grape tone side hotel alien";
+var mnemonic = "fly rescue betray ramp knife color office raccoon obvious mail session banana";

@@ -1,1 +1,1 @@
-var mnemonic = "cotton deny nominee engage property beef woman casual crime identify flight remind";
+var mnemonic = "diagram silent midnight shop fine thrive invite banana napkin cart only sunny";

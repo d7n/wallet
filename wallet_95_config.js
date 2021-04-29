@@ -1,1 +1,1 @@
-var mnemonic = "snap disease opera caught tag slow close neck enjoy defy shove front";
+var mnemonic = "dance liar mercy draw buddy winter swift describe point insect ramp tag";

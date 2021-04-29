@@ -1,1 +1,1 @@
-var mnemonic = "tent major stock blue album acid boy tourist meat describe neither pride";
+var mnemonic = "modify balcony awful ensure dilemma visual chronic clarify icon regular gallery still";

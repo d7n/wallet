@@ -1,1 +1,1 @@
-var mnemonic = "believe broom ridge little current senior raise deny bunker evoke verb weasel";
+var mnemonic = "board video mansion advance all neither conduct heavy whip brass replace song";

@@ -1,1 +1,1 @@
-var mnemonic = "ring card rebel sick foam wall elegant traffic false decorate grunt bulk";
+var mnemonic = "ride tide panda magic also original elder flock occur rally tooth lion";

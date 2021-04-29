@@ -1,1 +1,1 @@
-var mnemonic = "hobby quantum test explain miracle grit broom stone mystery village net outdoor";
+var mnemonic = "use knock junk shell error absorb identify balcony cabbage average pause coin";

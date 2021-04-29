@@ -1,1 +1,1 @@
-var mnemonic = "cave people wrestle pistol oven exotic tenant devote kangaroo february gesture glory";
+var mnemonic = "funny october scorpion photo second easy insect combine situate spin waste fragile";

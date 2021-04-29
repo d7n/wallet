@@ -1,1 +1,1 @@
-var mnemonic = "hand dentist helmet obscure gift enable hint expect mammal use misery squirrel";
+var mnemonic = "decade wealth ladder alter axis exit truth reunion mechanic stairs dial fancy";

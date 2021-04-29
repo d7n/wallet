@@ -1,1 +1,1 @@
-var mnemonic = "federal decorate such credit produce pencil want path spoil fan visual mobile";
+var mnemonic = "tomato habit unaware chunk bag fantasy gospel pair security actor garage neck";

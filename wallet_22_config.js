@@ -1,1 +1,1 @@
-var mnemonic = "chronic latin fatigue concert board bird album light helmet post submit mobile";
+var mnemonic = "kiss episode purchase exact lesson fatal method typical clap rather layer echo";

@@ -1,1 +1,1 @@
-var mnemonic = "general early loud position witness nut behave fire arm until soft state";
+var mnemonic = "general desert rapid sad field mad canvas satoshi wine raise cheese panel";

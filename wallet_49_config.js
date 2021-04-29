@@ -1,1 +1,1 @@
-var mnemonic = "push cup antique maximum taste depth push dolphin useful people region slender";
+var mnemonic = "square defy acoustic rice goat casual cloth chalk pistol damp home salmon";

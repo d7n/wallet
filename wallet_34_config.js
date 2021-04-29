@@ -1,1 +1,1 @@
-var mnemonic = "curious blue camp account toe satisfy climb panther put peace cluster aunt";
+var mnemonic = "ball twice hobby narrow immune grape timber food motion audit gain hour";

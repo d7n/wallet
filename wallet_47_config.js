@@ -1,1 +1,1 @@
-var mnemonic = "online jaguar garage defy ginger skill miracle grunt resist vacuum liar torch";
+var mnemonic = "own grain harbor release power paper suspect route fog wink heavy violin";

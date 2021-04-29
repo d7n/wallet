@@ -1,1 +1,1 @@
-var mnemonic = "wire cotton exact pretty mutual girl unveil cliff antenna hotel second venture";
+var mnemonic = "apple choice inside black love certain hospital together december surprise clarify genius";

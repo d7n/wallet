@@ -1,1 +1,1 @@
-var mnemonic = "vapor garlic buffalo carpet fatal hurdle legend crisp behind shift inject undo";
+var mnemonic = "wine stuff alien wall ribbon chimney canyon trigger arena endless measure poem";

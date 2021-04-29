@@ -1,1 +1,1 @@
-var mnemonic = "spoil try april salt wool next film ability nominee autumn ladder cement";
+var mnemonic = "describe rival nominee cinnamon helmet gain ramp silly own insect dust kingdom";

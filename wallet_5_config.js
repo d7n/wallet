@@ -1,1 +1,1 @@
-var mnemonic = "program dice bench crop awesome industry prize achieve mass ranch cupboard clump";
+var mnemonic = "dumb movie story skate artefact comic thumb thumb flee globe island pitch";

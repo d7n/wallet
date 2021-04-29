@@ -1,1 +1,1 @@
-var mnemonic = "this often habit cargo impact dad total floor bless method power finish";
+var mnemonic = "also gadget fade ask twice menu pause reopen mom ribbon scatter view";

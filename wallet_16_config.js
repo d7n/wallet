@@ -1,1 +1,1 @@
-var mnemonic = "scene beauty tuition romance dismiss zero unfair monster prison together swarm engage";
+var mnemonic = "snake leaf smooth tissue lava source wreck earn yellow cover adjust pulse";

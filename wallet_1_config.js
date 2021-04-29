@@ -1,1 +1,1 @@
-var mnemonic = "crisp matter later own bench inhale gun corn master alarm brief video";
+var mnemonic = "today spend tag assist afraid puzzle penalty frequent word guard mansion lucky";

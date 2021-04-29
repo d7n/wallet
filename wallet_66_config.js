@@ -1,1 +1,1 @@
-var mnemonic = "maze emotion exile scorpion hand scene adapt trade junk option young claim";
+var mnemonic = "gasp regret quote never feel furnace express marriage dish winter axis attack";

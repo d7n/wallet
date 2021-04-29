@@ -1,1 +1,1 @@
-var mnemonic = "hat curious true member fly uniform improve awake element motion glow repeat";
+var mnemonic = "frame heavy insane abstract stadium space rely replace grid either inform ladder";

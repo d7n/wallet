@@ -1,1 +1,1 @@
-var mnemonic = "oblige seven elite match effort second conduct direct wreck garbage allow below";
+var mnemonic = "pistol tank found kiss arrow blossom family town throw course abandon seven";

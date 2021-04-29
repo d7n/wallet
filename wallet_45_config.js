@@ -1,1 +1,1 @@
-var mnemonic = "dinner simple sleep catalog jump finger genre mention nuclear neck cactus drip";
+var mnemonic = "fever drink sustain empty fortune suit rice follow ankle element input hospital";

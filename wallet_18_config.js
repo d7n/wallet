@@ -1,1 +1,1 @@
-var mnemonic = "excuse frown segment return scrub comic lawsuit tray polar tone gaze stereo";
+var mnemonic = "globe blast story knee soft entire obey moral repair gloom cute sound";

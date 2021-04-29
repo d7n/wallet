@@ -1,1 +1,1 @@
-var mnemonic = "dutch tragic mass language crouch food salmon spot car ensure friend balance";
+var mnemonic = "protect trim tip public laundry apology soap hurt near ceiling fragile solar";

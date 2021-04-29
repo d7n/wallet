@@ -1,1 +1,1 @@
-var mnemonic = "shoe sense spike almost type together pudding audit boss clown item banner";
+var mnemonic = "mixture teach bus other another either express foot tray element aware snap";

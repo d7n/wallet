@@ -1,1 +1,1 @@
-var mnemonic = "neither rain ozone fragile domain scan slim win spider cruel stairs erase";
+var mnemonic = "region stumble room major fog damp bind favorite point genuine story pet";

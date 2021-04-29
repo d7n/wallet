@@ -1,1 +1,1 @@
-var mnemonic = "only zone silly used pave august prosper trumpet type enroll common act";
+var mnemonic = "flame like cluster trend bus feel mix lake mistake seminar volcano decorate";

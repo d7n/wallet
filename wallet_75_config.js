@@ -1,1 +1,1 @@
-var mnemonic = "prize safe law pitch turn method wrap acquire behind aim share ranch";
+var mnemonic = "offer dose critic trip design dutch hammer vivid intact slender either sausage";

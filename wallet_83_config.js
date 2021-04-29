@@ -1,1 +1,1 @@
-var mnemonic = "cactus liar noble pool swallow casino scale tree modify tired brush finger";
+var mnemonic = "wool dish bullet enough uncover onion decline pole decorate abstract fold song";

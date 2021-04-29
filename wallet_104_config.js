@@ -1,1 +1,1 @@
-var mnemonic = "obvious library dinner achieve invest select puppy flat math game direct error";
+var mnemonic = "world sunset range kiwi harbor actress spike prefer orient lion exercise excess";

@@ -1,1 +1,1 @@
-var mnemonic = "view stand lesson lesson merge memory motion elephant brush exclude rule post";
+var mnemonic = "general change goose all scout harbor risk exclude feel federal right describe";

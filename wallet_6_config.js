@@ -1,1 +1,1 @@
-var mnemonic = "net flavor patch rabbit smoke replace duty horn dutch wife mixture universe";
+var mnemonic = "select forest rifle van dragon firm tray salad chicken jacket dust cross";

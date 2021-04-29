@@ -1,1 +1,1 @@
-var mnemonic = "defy hour three only change demise sentence require sad sell coffee rubber";
+var mnemonic = "damage jealous rather sound kidney denial link jelly cruel riot ribbon myth";

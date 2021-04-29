@@ -1,1 +1,1 @@
-var mnemonic = "lava million design vague frame cart laptop prosper write cram pool riot";
+var mnemonic = "panda cake badge surprise despair hospital door trigger useful program two video";

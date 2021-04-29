@@ -1,1 +1,1 @@
-var mnemonic = "chair pyramid rude connect visual void glide useless dice empower parade mass";
+var mnemonic = "swarm later gesture answer pluck flock embody lucky ugly resource embrace fresh";

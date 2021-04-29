@@ -1,1 +1,1 @@
-var mnemonic = "sister chimney scout choice menu strategy target focus leaf eagle ill hub";
+var mnemonic = "fit spin join tuition client gentle dawn main smooth baby wool abandon";

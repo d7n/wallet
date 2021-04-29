@@ -1,1 +1,1 @@
-var mnemonic = "kite chef wrap hollow piece bag early drum cereal pave bullet sort";
+var mnemonic = "rural unusual victory citizen anger buyer ketchup patch boring large travel bachelor";

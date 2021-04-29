@@ -1,1 +1,1 @@
-var mnemonic = "media make shine dwarf speak layer like domain ghost reveal giggle prefer";
+var mnemonic = "scene author sort swallow eager mandate chunk rail food job upper current";

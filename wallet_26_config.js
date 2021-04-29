@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon bunker barely tree say wheat eyebrow expand simple code initial advice";
+var mnemonic = "regret cabin slight ritual shallow sand brush early unusual point escape bleak";

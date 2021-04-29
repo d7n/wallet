@@ -1,1 +1,1 @@
-var mnemonic = "episode similar rookie elegant retreat inherit idea catch execute scare install giraffe";
+var mnemonic = "orange leader educate arrest figure patch vocal error novel bronze false slab";

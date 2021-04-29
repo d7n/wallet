@@ -1,1 +1,1 @@
-var mnemonic = "update float unit polar syrup denial game style rich bike output hint";
+var mnemonic = "offer settle disease clutch dilemma song abandon arch depend prefer rack throw";

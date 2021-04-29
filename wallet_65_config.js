@@ -1,1 +1,1 @@
-var mnemonic = "gaze rib hire large talent jeans current climb maze tone alien dutch";
+var mnemonic = "sea street injury collect jar knock weather junk raccoon emotion giant about";

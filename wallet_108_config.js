@@ -1,1 +1,1 @@
-var mnemonic = "shield narrow make beauty bunker uncle expire stage surface concert square month";
+var mnemonic = "abandon source require hope rare reunion loyal gate promote stomach filter sing";

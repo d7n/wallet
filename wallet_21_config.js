@@ -1,1 +1,1 @@
-var mnemonic = "hen engage enlist clump they correct vague spoon spy rug emerge mechanic";
+var mnemonic = "garment wrong major trouble swim promote mammal aerobic fit deal angle accuse";

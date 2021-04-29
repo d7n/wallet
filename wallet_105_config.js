@@ -1,1 +1,1 @@
-var mnemonic = "wheel jewel echo pet where tomato light course victory congress choice pupil";
+var mnemonic = "business twelve host gorilla pen milk dutch inch service couple carpet among";

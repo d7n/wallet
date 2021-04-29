@@ -1,1 +1,1 @@
-var mnemonic = "bracket beauty agree deputy normal spray duty fade party special vocal scheme";
+var mnemonic = "delay valve melody void harbor subway accuse current vendor learn wall mechanic";

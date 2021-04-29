@@ -1,1 +1,1 @@
-var mnemonic = "phrase artwork drastic immense kind today symbol urban predict kick ozone nuclear";
+var mnemonic = "half marriage caution nerve trial child alone quantum pioneer connect fire recycle";

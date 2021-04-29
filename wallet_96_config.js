@@ -1,1 +1,1 @@
-var mnemonic = "cancel depart eye warm index swing nice leaf shrug jelly lyrics civil";
+var mnemonic = "awkward system filter venture output silver twist aim uncover party knock pool";

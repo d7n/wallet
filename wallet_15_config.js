@@ -1,1 +1,1 @@
-var mnemonic = "volcano perfect lumber convince ill wealth mixture sword hawk decade roof black";
+var mnemonic = "brick wonder bike theme minimum before crash option edit van write daughter";

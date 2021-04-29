@@ -1,1 +1,1 @@
-var mnemonic = "lobster burden thought quarter barrel device depart tank spirit warm jewel ride";
+var mnemonic = "snack middle south harvest quality news scene destroy pattern whip weather abstract";

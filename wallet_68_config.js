@@ -1,1 +1,1 @@
-var mnemonic = "mercy use code innocent blood victory rice measure sister census goose buffalo";
+var mnemonic = "impulse raccoon pony hello wage dish sell right rookie guide there stable";

@@ -1,1 +1,1 @@
-var mnemonic = "square velvet tower dwarf health wool churn wrestle cruise hand ensure surprise";
+var mnemonic = "vanish seven ship accident pumpkin art birth inject north rough exact garage";

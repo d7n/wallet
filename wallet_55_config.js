@@ -1,1 +1,1 @@
-var mnemonic = "minute edit organ admit quiz empty bomb rigid trust gate absent drip";
+var mnemonic = "social penalty bonus clump demand that aisle bracket dad half aim capital";

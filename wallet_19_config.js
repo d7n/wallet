@@ -1,1 +1,1 @@
-var mnemonic = "glimpse limb silent tunnel doll chaos drift purpose theory wait foot fiber";
+var mnemonic = "meadow amateur fetch tank shy jacket property print umbrella athlete access sister";

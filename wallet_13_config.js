@@ -1,1 +1,1 @@
-var mnemonic = "camp gun spare hawk tail inside amateur cattle child lizard rack castle";
+var mnemonic = "turn whisper pull palace always talent ridge detect evidence junior people differ";

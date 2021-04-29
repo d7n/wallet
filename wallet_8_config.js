@@ -1,1 +1,1 @@
-var mnemonic = "found market swing music swing disorder bridge coffee recall ripple letter enter";
+var mnemonic = "grace rare tennis fossil regret survey clutch mango card evidence casual trade";

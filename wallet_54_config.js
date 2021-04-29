@@ -1,1 +1,1 @@
-var mnemonic = "century concert annual know reduce want proud extra execute follow student just";
+var mnemonic = "law margin erase ritual buddy happy clarify loop truck wisdom region indoor";

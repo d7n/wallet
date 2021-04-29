@@ -1,1 +1,1 @@
-var mnemonic = "icon cargo endless bubble flee attract just laugh hammer sadness jacket dose";
+var mnemonic = "liquid there matter float monitor year fog relief smile mammal when cabbage";

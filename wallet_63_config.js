@@ -1,1 +1,1 @@
-var mnemonic = "number inform object dog result patient impose false dinosaur foam quantum infant";
+var mnemonic = "syrup twist install chase market net property world tornado gentle couch evolve";

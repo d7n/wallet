@@ -1,1 +1,1 @@
-var mnemonic = "opinion practice stable total multiply float urge away enrich middle lizard bacon";
+var mnemonic = "cause garden coyote infant sight flock manual there essence pencil alone custom";

@@ -1,1 +1,1 @@
-var mnemonic = "like always height sting magnet parent pioneer cactus barrel tone price antique";
+var mnemonic = "theme oval benefit cart raccoon cart scorpion first wide diamond ice casual";

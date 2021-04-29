@@ -1,1 +1,1 @@
-var mnemonic = "metal group peanut promote fashion genius table divert pill carry other palace";
+var mnemonic = "device frame fade view repair anger awake muffin jacket seminar genre anger";

@@ -1,1 +1,1 @@
-var mnemonic = "mouse slush layer wise spare quantum embody relief great surface trap afraid";
+var mnemonic = "describe genuine attend lecture wine decline chat visa brisk alpha tower museum";

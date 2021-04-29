@@ -1,1 +1,1 @@
-var mnemonic = "attitude ripple proof planet you category build young abuse suit trap laundry";
+var mnemonic = "couple phone sound cart frequent answer bundle bone obscure material sweet suggest";

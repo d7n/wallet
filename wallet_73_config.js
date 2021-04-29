@@ -1,1 +1,1 @@
-var mnemonic = "rare strike demise aisle size logic betray reform shell find wrestle common";
+var mnemonic = "close allow night lonely goose two have pencil month cement people betray";

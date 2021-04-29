@@ -1,1 +1,1 @@
-var mnemonic = "obey amount grocery tired inquiry keen museum pave behind emerge husband egg";
+var mnemonic = "hungry fringe charge prefer egg wonder purity cat sense crazy aisle group";

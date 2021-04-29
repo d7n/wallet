@@ -1,1 +1,1 @@
-var mnemonic = "blame daring hover title media device reason chicken scan wreck brick cry";
+var mnemonic = "energy raise diamond term half shoe hello hip fat beauty tray predict";

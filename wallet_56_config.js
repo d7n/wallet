@@ -1,1 +1,1 @@
-var mnemonic = "over garment quote lecture army face void churn enrich fee slot rule";
+var mnemonic = "tray occur spike purchase chapter stairs tired bachelor taxi predict pass attract";

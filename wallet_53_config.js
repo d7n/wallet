@@ -1,1 +1,1 @@
-var mnemonic = "twenty absorb display receive salt step isolate sentence infant dynamic winner arrive";
+var mnemonic = "inspire rival guide oblige trip segment blind cement pair disagree universe able";

@@ -1,1 +1,1 @@
-var mnemonic = "happy course slide illegal piece under local mom bracket south flip cabbage";
+var mnemonic = "later panther outdoor town ivory panda gown bargain fuel popular unaware river";

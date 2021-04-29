@@ -1,1 +1,1 @@
-var mnemonic = "intact steak reunion insect glow era notable round unfold nut invite submit";
+var mnemonic = "bean coral lobster turtle nut beauty bounce lobster ostrich dilemma plug genre";

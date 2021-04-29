@@ -1,1 +1,1 @@
-var mnemonic = "slam tide behave reflect moral three arrange garage chest saddle drink job";
+var mnemonic = "pulp dress father regret ecology thought fine sudden trick brand elbow fringe";

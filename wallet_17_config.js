@@ -1,1 +1,1 @@
-var mnemonic = "mechanic engine tube polar gentle limit easily forward display cage flash tumble";
+var mnemonic = "flat board already blanket exchange camp black fortune hello better they arch";

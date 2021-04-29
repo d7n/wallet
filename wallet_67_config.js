@@ -1,1 +1,1 @@
-var mnemonic = "else know step between planet brief problem credit fold era unlock grain";
+var mnemonic = "mean ritual reward sunny correct trial poverty camp shift identify physical attitude";

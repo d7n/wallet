@@ -1,1 +1,1 @@
-var mnemonic = "resemble sport useless excite sadness sense pumpkin ignore glimpse version disease demand";
+var mnemonic = "goose wink version dragon sign young ask flat useless vital comfort forward";

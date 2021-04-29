@@ -1,1 +1,1 @@
-var mnemonic = "equip coil critic hub measure sphere milk reason tomorrow wave razor vintage";
+var mnemonic = "expose slight eternal smooth moral next have brave dove method real hybrid";

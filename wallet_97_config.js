@@ -1,1 +1,1 @@
-var mnemonic = "view core merit tiny manage across region spice bench engine evil front";
+var mnemonic = "other midnight mimic census buyer snap final drum phrase fog okay document";

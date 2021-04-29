@@ -1,1 +1,1 @@
-var mnemonic = "fatigue blue account deliver naive limb keen debris stereo excuse speed entry";
+var mnemonic = "damp bubble list muffin stick crawl multiply fog service grain tennis infant";

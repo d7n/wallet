@@ -1,1 +1,1 @@
-var mnemonic = "stomach hybrid sea soon shiver learn polar know fury floor nerve bachelor";
+var mnemonic = "artwork walk sad isolate wheat track laundry grab desert suspect produce pioneer";
