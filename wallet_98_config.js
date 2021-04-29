@@ -1,1 +1,1 @@
-var mnemonic = "snake jaguar arrow budget friend thumb cattle special coffee involve person reopen";
+var mnemonic = "round welcome reason wish can work approve cattle refuse fresh enable stock";

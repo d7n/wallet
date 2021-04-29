@@ -1,1 +1,1 @@
-var mnemonic = "jealous cup frown scout coconut blame frame forget warfare have absent obtain";
+var mnemonic = "exist tray gym ten butter link party worry math great day crane";

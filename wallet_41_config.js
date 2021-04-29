@@ -1,1 +1,1 @@
-var mnemonic = "era civil poem object light horror hungry clerk deliver baby tennis model";
+var mnemonic = "lawn upset human kidney behind great find approve pink suggest skin genuine";

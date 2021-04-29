@@ -1,1 +1,1 @@
-var mnemonic = "weapon grid slush key choose jazz opinion aim enable market super beauty";
+var mnemonic = "draft position radar junior crisp birth duck lecture rib shallow wait beauty";

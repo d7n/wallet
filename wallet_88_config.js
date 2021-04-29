@@ -1,1 +1,1 @@
-var mnemonic = "struggle priority flavor fine dream photo unknown solution vintage anger exercise voyage";
+var mnemonic = "ensure convince element supreme nature normal coin call coach royal ice chicken";

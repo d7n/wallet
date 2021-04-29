@@ -1,1 +1,1 @@
-var mnemonic = "heart master broccoli nuclear divide gesture truth wealth wing bus vague kite";
+var mnemonic = "warfare cupboard good narrow voyage during flag farm anxiety scheme monitor practice";

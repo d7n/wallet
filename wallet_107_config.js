@@ -1,1 +1,1 @@
-var mnemonic = "humble comic endless base grain absent act ivory build mind surface buddy";
+var mnemonic = "crystal diary retreat worth give dutch chunk also gain dove scorpion garbage";

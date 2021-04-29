@@ -1,1 +1,1 @@
-var mnemonic = "mom melt fly gravity tenant claim obvious piano kingdom moral erase march";
+var mnemonic = "crush second jazz reason damp angry spoon wine couple eight addict finger";

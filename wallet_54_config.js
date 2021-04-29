@@ -1,1 +1,1 @@
-var mnemonic = "junk diamond disorder hammer maple wall wave earn crush access portion cement";
+var mnemonic = "ill situate involve pizza shrimp monster fit insect material neglect hockey course";

@@ -1,1 +1,1 @@
-var mnemonic = "utility elevator prosper trade walk maid twenty unfold pattern budget torch crew";
+var mnemonic = "jar pistol parent comfort across discover piano proof wage usage retreat pupil";

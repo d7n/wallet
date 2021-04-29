@@ -1,1 +1,1 @@
-var mnemonic = "multiply unaware answer exit defy pony six black cloud abstract loan decrease";
+var mnemonic = "blanket repair eager father wonder gas industry often pledge stable zone pigeon";

@@ -1,1 +1,1 @@
-var mnemonic = "change ocean must coffee same cause pave fruit crane summer below inject";
+var mnemonic = "lend club inform invest road cattle mass affair market property super child";

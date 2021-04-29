@@ -1,1 +1,1 @@
-var mnemonic = "unlock photo join feature item ship biology retire vicious broom trust weather";
+var mnemonic = "bird cage multiply list shock find gown future merge demise detect faith";

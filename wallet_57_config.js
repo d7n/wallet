@@ -1,1 +1,1 @@
-var mnemonic = "nature actress session eight always doctor find double impact screen pyramid summer";
+var mnemonic = "donate inherit day whisper photo pact month panther gossip text excuse present";

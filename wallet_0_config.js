@@ -1,1 +1,1 @@
-var mnemonic = "desert aspect tool witness worth brother hard furnace dish dragon heavy prize";
+var mnemonic = "powder pet find lecture vague stuff fossil turtle shoulder display cage upper";

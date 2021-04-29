@@ -1,1 +1,1 @@
-var mnemonic = "moon join wall post across wood napkin meadow stable sting liberty image";
+var mnemonic = "name pole peanut heart sleep dune fever marriage vanish luxury diamond company";

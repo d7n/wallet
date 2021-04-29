@@ -1,1 +1,1 @@
-var mnemonic = "stereo pond hole dinner copper lizard ritual eagle click proof spoon source";
+var mnemonic = "empower hammer solve device prefer kick crisp shine still broken wrap island";

@@ -1,1 +1,1 @@
-var mnemonic = "dad push marble message village trouble logic welcome abandon invite glance word";
+var mnemonic = "design pilot replace motor more initial toe swing delay later have adapt";

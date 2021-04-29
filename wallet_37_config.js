@@ -1,1 +1,1 @@
-var mnemonic = "happy lion goddess novel entire piece follow pulse series slow jungle aware";
+var mnemonic = "canal discover sense finish enlist few atom salmon strong match sound hero";

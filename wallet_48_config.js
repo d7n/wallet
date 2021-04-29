@@ -1,1 +1,1 @@
-var mnemonic = "near desk taxi wheat lizard absorb opinion grunt target pledge valid normal";
+var mnemonic = "ring hungry math quiz rapid muscle equal balcony great square tower avocado";

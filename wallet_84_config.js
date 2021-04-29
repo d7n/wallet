@@ -1,1 +1,1 @@
-var mnemonic = "welcome situate cannon upgrade crop horse pretty fun devote alley volume brush";
+var mnemonic = "actor social shell hip still enroll board brisk photo timber sunny will";

@@ -1,1 +1,1 @@
-var mnemonic = "aware globe festival coach apart search vendor jacket bus wrist about drill";
+var mnemonic = "assume ball brave erode drastic release path upset potato address history guide";

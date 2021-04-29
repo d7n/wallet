@@ -1,1 +1,1 @@
-var mnemonic = "shock town boring gentle script unusual joke outside about road unlock lady";
+var mnemonic = "nuclear time grant age above armed slice large then announce forget buddy";

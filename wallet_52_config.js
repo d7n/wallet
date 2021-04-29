@@ -1,1 +1,1 @@
-var mnemonic = "dragon enable guilt mechanic use fatal chaos mule target logic exhaust swear";
+var mnemonic = "minor option soap actress dream bench pyramid piano october alter curtain jaguar";

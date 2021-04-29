@@ -1,1 +1,1 @@
-var mnemonic = "voyage filter quarter cabbage health hero awful submit differ lizard birth mutual";
+var mnemonic = "right people disagree jewel come tone skin nasty stuff innocent oblige argue";

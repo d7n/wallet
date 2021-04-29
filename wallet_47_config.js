@@ -1,1 +1,1 @@
-var mnemonic = "dinner tortoise autumn fish shield enemy asset dog inch intact mesh cash";
+var mnemonic = "can enhance bird common banner lumber balcony civil drop movie hurry acquire";

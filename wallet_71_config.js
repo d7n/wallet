@@ -1,1 +1,1 @@
-var mnemonic = "second normal wave dwarf baby science fury weird erupt auction kidney gas";
+var mnemonic = "scrub phrase huge loan avocado black tool knock mechanic issue table unusual";

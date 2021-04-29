@@ -1,1 +1,1 @@
-var mnemonic = "swim project stay resist basic this isolate injury spawn garden skin need";
+var mnemonic = "skill please rude excess convince defy point soap credit future witness twenty";

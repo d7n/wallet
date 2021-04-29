@@ -1,1 +1,1 @@
-var mnemonic = "churn survey organ trend despair close orange tag unable toe fly metal";
+var mnemonic = "under account breeze myth business total creek mansion melt judge device sense";

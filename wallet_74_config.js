@@ -1,1 +1,1 @@
-var mnemonic = "stand wheat infant culture pear ocean attract matter oblige vote twelve ring";
+var mnemonic = "seminar brush festival bench enhance change pact warfare shrimp vocal carbon ranch";

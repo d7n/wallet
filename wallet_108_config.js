@@ -1,1 +1,1 @@
-var mnemonic = "involve surround artwork curtain draft curious impose pioneer vacuum blossom soft struggle";
+var mnemonic = "buffalo dash heavy squirrel local oil pet minimum cannon emerge one era";

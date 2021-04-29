@@ -1,1 +1,1 @@
-var mnemonic = "alarm brave inquiry neck tragic zebra bubble modify mosquito risk record address";
+var mnemonic = "same clock tired make kid slim ghost float concert abstract together emerge";

@@ -1,1 +1,1 @@
-var mnemonic = "pass crane cry unaware easy dress wolf glad please pipe gate crack";
+var mnemonic = "step diet fold alpha note empower safe real inspire elevator tomato client";

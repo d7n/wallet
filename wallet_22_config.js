@@ -1,1 +1,1 @@
-var mnemonic = "spray key truck manage clean wing social sign skirt chair wolf romance";
+var mnemonic = "engine fashion other festival faculty away whip shiver glue couch give will";

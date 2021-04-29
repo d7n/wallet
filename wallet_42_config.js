@@ -1,1 +1,1 @@
-var mnemonic = "bracket debris cash rude unlock identify distance goat denial steel plastic match";
+var mnemonic = "alarm someone fine where path effort either stem grass december arena dune";

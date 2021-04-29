@@ -1,1 +1,1 @@
-var mnemonic = "city outdoor inherit away metal can phrase raven attitude chronic accident typical";
+var mnemonic = "arch grit museum purpose uniform sample hammer shrimp salon north swarm huge";

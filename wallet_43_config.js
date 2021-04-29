@@ -1,1 +1,1 @@
-var mnemonic = "edit arctic unaware obtain demise blast share shadow divide embark ribbon ritual";
+var mnemonic = "cliff cotton arm fiscal cost entire shield ticket cook close venture snap";

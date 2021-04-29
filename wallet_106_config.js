@@ -1,1 +1,1 @@
-var mnemonic = "rent oppose fence enhance travel desert gift mammal parrot differ fetch spoon";
+var mnemonic = "stamp filter wool observe robot patch metal afford expand ugly timber dismiss";

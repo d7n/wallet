@@ -1,1 +1,1 @@
-var mnemonic = "mom fatigue velvet excite anchor hybrid spell biology escape choose ticket game";
+var mnemonic = "merry squeeze increase easily demand valley jeans glare buyer hire liar jar";

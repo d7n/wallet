@@ -1,1 +1,1 @@
-var mnemonic = "memory blur improve protect feed raven off trumpet wood soft old opinion";
+var mnemonic = "crew embody arrive buzz mom powder fever month deliver game focus gesture";

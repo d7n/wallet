@@ -1,1 +1,1 @@
-var mnemonic = "limit update win hammer cradle violin dawn lawn frown apology undo baby";
+var mnemonic = "budget smile purchase smooth mansion wood vault model trash tired speed example";

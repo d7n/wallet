@@ -1,1 +1,1 @@
-var mnemonic = "improve exhaust state spend left blouse panther much gravity book any outdoor";
+var mnemonic = "nuclear feed define unveil pride office detect dilemma absurd rose brief find";

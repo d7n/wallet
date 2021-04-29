@@ -1,1 +1,1 @@
-var mnemonic = "cost garlic coil tide monster minute sample ugly blade promote topple find";
+var mnemonic = "amazing address soul dial bronze notice blood symbol occur enhance hamster penalty";

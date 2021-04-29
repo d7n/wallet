@@ -1,1 +1,1 @@
-var mnemonic = "amateur giraffe resource globe oval fat cat gossip present token dream tail";
+var mnemonic = "day palm human warm else start forum misery great crystal dignity kite";

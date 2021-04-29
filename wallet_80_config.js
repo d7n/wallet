@@ -1,1 +1,1 @@
-var mnemonic = "battle total clever hair flight shoe excess grab bulb angle circle arrest";
+var mnemonic = "silly grant neutral jar brave valley submit young fantasy blood salad wall";

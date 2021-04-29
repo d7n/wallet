@@ -1,1 +1,1 @@
-var mnemonic = "mushroom cup skin charge glad bullet head service feed outer kitten fabric";
+var mnemonic = "hunt unhappy brick consider strike radar market process click exhaust stock better";

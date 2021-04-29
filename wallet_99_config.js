@@ -1,1 +1,1 @@
-var mnemonic = "jeans tube reveal vacant traffic spike frame govern cushion pond march manage";
+var mnemonic = "anger anxiety family wet prize finish drip champion kidney romance loan control";

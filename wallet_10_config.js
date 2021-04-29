@@ -1,1 +1,1 @@
-var mnemonic = "flat symptom hub anxiety else square best wage cruise city blouse excess";
+var mnemonic = "front benefit divert cherry soul symbol bicycle parrot miss dizzy current body";

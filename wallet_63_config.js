@@ -1,1 +1,1 @@
-var mnemonic = "evil zebra hip relief picnic wood jaguar enforce moral reject spare twelve";
+var mnemonic = "spin couch figure vessel long exist blind arrive other legal equal arrive";

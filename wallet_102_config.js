@@ -1,1 +1,1 @@
-var mnemonic = "elephant agree easy deal until demise banner harsh carbon nut galaxy silver";
+var mnemonic = "obtain picnic capital ecology churn key cabin hole track custom hedgehog surprise";

@@ -1,1 +1,1 @@
-var mnemonic = "million copy captain hill cupboard lunar immune vast purchase ring multiply fold";
+var mnemonic = "buzz settle picture culture social imitate wear swim engine humble sort finish";

@@ -1,1 +1,1 @@
-var mnemonic = "seat pudding brain clinic shop spring liquid slam undo they where exotic";
+var mnemonic = "celery miss seed asset umbrella affair boil indicate alley magic minor penalty";

@@ -1,1 +1,1 @@
-var mnemonic = "skirt surprise auto legal average track budget village abuse peace tomorrow label";
+var mnemonic = "regular force merge cancel arrive stamp unknown there embrace lounge half blouse";

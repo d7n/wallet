@@ -1,1 +1,1 @@
-var mnemonic = "raven debris brief chase remain air attitude main solution primary castle clerk";
+var mnemonic = "theme review miracle insect gold food initial kind skill total drill dog";

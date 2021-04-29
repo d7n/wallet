@@ -1,1 +1,1 @@
-var mnemonic = "that work detail argue review turn shaft alien divert chalk bundle opera";
+var mnemonic = "chimney labor coin lumber crystal faculty rigid castle feel mother sketch isolate";

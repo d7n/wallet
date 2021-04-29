@@ -1,1 +1,1 @@
-var mnemonic = "chunk fantasy parade cattle ranch man piano face trophy atom hat question";
+var mnemonic = "fetch twelve tragic maple explain emerge panel stumble text crucial oil muffin";

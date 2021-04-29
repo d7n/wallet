@@ -1,1 +1,1 @@
-var mnemonic = "direct ethics output wealth forward curious more mind fruit split benefit cable";
+var mnemonic = "reunion badge minimum want promote light slam dignity legal speed false price";

@@ -1,1 +1,1 @@
-var mnemonic = "first avoid track sock narrow nasty thank outer access denial prize direct";
+var mnemonic = "song diet length garlic leg fury source fan casino mean palm crop";

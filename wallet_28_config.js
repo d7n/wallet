@@ -1,1 +1,1 @@
-var mnemonic = "expect roast tent cry trash pet jazz today soup wasp segment immune";
+var mnemonic = "faint urban hamster park border federal mean lens upset fox custom multiply";

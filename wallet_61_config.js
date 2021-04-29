@@ -1,1 +1,1 @@
-var mnemonic = "can approve clever suspect child card gorilla section gossip bachelor speed knock";
+var mnemonic = "route time similar near tail obtain chapter attend awake goose cloud raw";

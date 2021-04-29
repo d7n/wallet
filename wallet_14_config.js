@@ -1,1 +1,1 @@
-var mnemonic = "insect detail artist battle profit sheriff kite select foam dutch border wine";
+var mnemonic = "level spy one civil cry small decorate program goat rate mom suspect";

@@ -1,1 +1,1 @@
-var mnemonic = "similar social boy tourist grab arm cannon depth immense electric brother rookie";
+var mnemonic = "festival eight sleep stereo return cause ritual thought blue food pigeon tape";

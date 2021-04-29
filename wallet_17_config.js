@@ -1,1 +1,1 @@
-var mnemonic = "buyer useless brain asset leave camera exercise health pulp obscure give believe";
+var mnemonic = "sell clock cost unable sustain across express dragon creek impose story kiss";

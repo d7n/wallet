@@ -1,1 +1,1 @@
-var mnemonic = "live device jump symbol degree erupt will panel audit apart attack force";
+var mnemonic = "evolve spend title ill noise boat group saddle wall exhibit exit figure";

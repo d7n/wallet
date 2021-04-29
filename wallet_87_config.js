@@ -1,1 +1,1 @@
-var mnemonic = "firm inform success hockey spray badge can bike express smooth sauce enforce";
+var mnemonic = "absent earth disagree weasel broken talent harvest pigeon glass multiply uncover obscure";

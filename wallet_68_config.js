@@ -1,1 +1,1 @@
-var mnemonic = "hour industry network leg twice avoid scrap cube lecture when kit setup";
+var mnemonic = "panic mass chaos magic lens occur muffin industry excite blur bargain train";

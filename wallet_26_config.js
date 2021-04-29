@@ -1,1 +1,1 @@
-var mnemonic = "novel plug hedgehog brother fever such flame matter monster grit actor strategy";
+var mnemonic = "pet equip cruel original humble field category stock razor memory bar crunch";

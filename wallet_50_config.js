@@ -1,1 +1,1 @@
-var mnemonic = "maple forward fitness mosquito twelve glimpse seat item that shrimp couch alley";
+var mnemonic = "excuse certain pumpkin sure oil spray museum friend art town penalty avocado";

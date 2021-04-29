@@ -1,1 +1,1 @@
-var mnemonic = "into defense pipe people project arena mobile valley annual sure comic layer";
+var mnemonic = "faith outer master ribbon mountain dry enemy move roof abandon album walk";

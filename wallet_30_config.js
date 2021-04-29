@@ -1,1 +1,1 @@
-var mnemonic = "aerobic thunder enroll ribbon cotton vendor damage police scan duty adapt audit";
+var mnemonic = "biology anchor satoshi nephew split renew describe stumble arch unique nothing okay";

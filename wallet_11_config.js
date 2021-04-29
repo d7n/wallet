@@ -1,1 +1,1 @@
-var mnemonic = "cabbage million thought vicious piano glass clip grant denial until lawn cabbage";
+var mnemonic = "session average frequent razor powder lava raise rabbit ritual egg feature culture";

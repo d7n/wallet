@@ -1,1 +1,1 @@
-var mnemonic = "design lonely lesson try apart act hunt dice endorse kingdom rose warrior";
+var mnemonic = "habit must voyage country boring prize unknown pistol chair test hungry around";

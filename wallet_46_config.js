@@ -1,1 +1,1 @@
-var mnemonic = "fog balcony romance output search cave include club gap mask liar various";
+var mnemonic = "two famous voyage bubble shoe digital attract social hold abandon where insane";

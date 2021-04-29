@@ -1,1 +1,1 @@
-var mnemonic = "measure black february visa faint tackle load toddler raven universe region burst";
+var mnemonic = "shift afraid palace select spoil ten input approve exact vocal random friend";

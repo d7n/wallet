@@ -1,1 +1,1 @@
-var mnemonic = "able theme twist key bicycle gaze review wrestle verb off tumble exhaust";
+var mnemonic = "name boring inherit hurdle afford ski good crash normal deal tortoise warfare";

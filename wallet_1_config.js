@@ -1,1 +1,1 @@
-var mnemonic = "angle blood layer mad claim gadget decline grit urge target price drop";
+var mnemonic = "surround clutch miracle enable crew minor dirt session gentle use detect axis";

@@ -1,1 +1,1 @@
-var mnemonic = "scare street visa energy ripple will economy monster pumpkin metal dawn solution";
+var mnemonic = "canvas crop scene quality venue lock tag object fitness manage undo quote";

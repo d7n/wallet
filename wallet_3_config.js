@@ -1,1 +1,1 @@
-var mnemonic = "buddy toward invite sense stuff bird spin reform crack course diary base";
+var mnemonic = "pair disagree boost patient list yellow scatter market law bless giraffe antique";

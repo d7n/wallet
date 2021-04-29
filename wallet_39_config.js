@@ -1,1 +1,1 @@
-var mnemonic = "alley concert bread pulse chapter fury bike subway remember term mean announce";
+var mnemonic = "teach dish palace glass shiver gather wisdom employ setup evidence sun border";

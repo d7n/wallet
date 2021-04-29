@@ -1,1 +1,1 @@
-var mnemonic = "ten give angry half twin elephant list cotton speed scout talk theme";
+var mnemonic = "suffer forget sheriff victory picnic fabric genius figure curtain syrup valve vault";

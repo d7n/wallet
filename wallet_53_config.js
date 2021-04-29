@@ -1,1 +1,1 @@
-var mnemonic = "around sign vintage angle scale shadow erosion east gaze derive cradle call";
+var mnemonic = "resist inflict fresh phone butter venue adult weapon leg insect loop pair";

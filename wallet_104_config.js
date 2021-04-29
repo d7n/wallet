@@ -1,1 +1,1 @@
-var mnemonic = "despair artist destroy own fatal arrive mystery abuse leisure arch bulb surge";
+var mnemonic = "symptom ecology blue coin saddle cat cycle eyebrow learn evolve milk angle";

@@ -1,1 +1,1 @@
-var mnemonic = "verify gloom grunt lens goddess loyal lock depart party thrive airport option";
+var mnemonic = "erosion trophy orphan dust exile garlic oak piano cancel wool deal sorry";

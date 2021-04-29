@@ -1,1 +1,1 @@
-var mnemonic = "pave kitchen zero move blood galaxy museum slice never enough matrix book";
+var mnemonic = "aspect tool huge knife swear permit early cool offer celery verify inch";

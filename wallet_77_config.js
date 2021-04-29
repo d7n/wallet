@@ -1,1 +1,1 @@
-var mnemonic = "orient enhance early fetch aunt tail recall cruel kind simple property fury";
+var mnemonic = "camp accuse cherry logic wave draw scan twelve deer wage brick fatal";

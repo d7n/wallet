@@ -1,1 +1,1 @@
-var mnemonic = "envelope finish sense music caution envelope dutch table learn clarify minimum crawl";
+var mnemonic = "dumb end try observe enter blouse dog nation reveal badge saddle erupt";

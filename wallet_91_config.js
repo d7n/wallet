@@ -1,1 +1,1 @@
-var mnemonic = "bamboo basket wrap firm section sister horse raccoon wild evil enrich hazard";
+var mnemonic = "bean clown client spice tape donate lunar valley song cycle unknown liquid";
