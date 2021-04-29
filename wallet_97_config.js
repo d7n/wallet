@@ -1,1 +1,1 @@
-var mnemonic = "boss runway thank mammal mountain urban tumble worry nest hurdle kite earn";
+var mnemonic = "swing differ maid wasp cattle honey return destroy piano eight oblige hub";

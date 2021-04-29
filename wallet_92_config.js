@@ -1,1 +1,1 @@
-var mnemonic = "card ramp farm combine thought cross guilt harbor music night file make";
+var mnemonic = "list good mango run like nasty grass science what genre enact crop";

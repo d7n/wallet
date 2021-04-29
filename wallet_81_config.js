@@ -1,1 +1,1 @@
-var mnemonic = "host crowd renew two chef decline sample screen credit reward town hold";
+var mnemonic = "group soup lonely long output radar rally armor girl you verify prevent";

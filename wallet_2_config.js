@@ -1,1 +1,1 @@
-var mnemonic = "network session library predict fatigue wear witness rely champion cabin island typical";
+var mnemonic = "black seminar sniff shuffle toddler audit marble wagon before physical that hotel";

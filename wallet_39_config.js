@@ -1,1 +1,1 @@
-var mnemonic = "blur ankle cradle web jealous famous oblige kiwi edit join material brisk";
+var mnemonic = "orient illegal smart hedgehog above just glide pull say item local humor";

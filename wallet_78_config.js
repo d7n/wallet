@@ -1,1 +1,1 @@
-var mnemonic = "item process twelve rich home canoe place subject cause glare protect sand";
+var mnemonic = "canoe tuna neutral yard bike music firm omit tornado force scatter goat";

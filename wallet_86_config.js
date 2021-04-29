@@ -1,1 +1,1 @@
-var mnemonic = "castle other coil solid hammer moon mushroom eagle spirit acoustic wish pink";
+var mnemonic = "defy license forget bright casual sport faculty alpha donate opinion kingdom fox";

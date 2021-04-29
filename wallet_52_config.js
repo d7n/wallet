@@ -1,1 +1,1 @@
-var mnemonic = "brain damage cube tissue milk evil plug emerge flock buzz verify left";
+var mnemonic = "ramp virus abstract usage scout lens street ghost unable start gym tomato";

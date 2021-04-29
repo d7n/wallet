@@ -1,1 +1,1 @@
-var mnemonic = "harbor shine gesture dish ocean bleak ball mean gallery deal truck tattoo";
+var mnemonic = "beauty panic random hub nice connect file abstract because float toddler double";

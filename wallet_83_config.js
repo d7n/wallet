@@ -1,1 +1,1 @@
-var mnemonic = "mass person vital that critic economy cushion witness fit gospel purchase gaze";
+var mnemonic = "sibling kiss album citizen athlete reduce slow goddess employ solution usual margin";

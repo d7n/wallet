@@ -1,1 +1,1 @@
-var mnemonic = "wish connect soda mass cancel session awake panda hedgehog uniform only cement";
+var mnemonic = "jump fiscal naive marble false mystery patrol where castle endless doll popular";

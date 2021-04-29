@@ -1,1 +1,1 @@
-var mnemonic = "entry just wool train famous tool equip three volume labor tomato animal";
+var mnemonic = "keep junior strike blood total rule allow boil bridge gauge toss busy";

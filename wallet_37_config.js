@@ -1,1 +1,1 @@
-var mnemonic = "fire mosquito surround zoo web fashion cradle trophy sustain inspire champion toward";
+var mnemonic = "style veteran exercise fish lens name tent gas short banana spoil absurd";

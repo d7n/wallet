@@ -1,1 +1,1 @@
-var mnemonic = "palace uncover empower dance butter poet client vast fantasy loyal banana hamster";
+var mnemonic = "nest point hurry civil govern faculty mushroom fragile cloth peasant process tumble";

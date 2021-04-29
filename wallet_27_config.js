@@ -1,1 +1,1 @@
-var mnemonic = "possible token owner gun foster flush arctic produce retreat addict letter happy";
+var mnemonic = "great panic guitar fit unit price excite close witness fish drill express";

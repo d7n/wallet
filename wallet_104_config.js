@@ -1,1 +1,1 @@
-var mnemonic = "diet figure ecology vendor food comic hollow live broom crime unknown cupboard";
+var mnemonic = "above melody electric blur gym travel tooth rug vague confirm soap route";

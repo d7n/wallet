@@ -1,1 +1,1 @@
-var mnemonic = "what giraffe achieve agent leaf skate slush tell noise bargain cup inquiry";
+var mnemonic = "cousin proof spatial museum veteran chaos behind over chaos brief order upper";

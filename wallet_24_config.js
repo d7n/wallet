@@ -1,1 +1,1 @@
-var mnemonic = "convince remember birth bottom obvious gauge female top ankle unhappy isolate ecology";
+var mnemonic = "foam payment vague proud mad still slogan cool injury private stomach spend";

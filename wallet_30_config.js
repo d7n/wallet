@@ -1,1 +1,1 @@
-var mnemonic = "garbage grit midnight whip manage flame office syrup perfect wealth garage valley";
+var mnemonic = "entire start project flip pool unknown people tube exile anchor flee surface";

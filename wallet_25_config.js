@@ -1,1 +1,1 @@
-var mnemonic = "multiply river hen embody poverty circle vote witness only check device apple";
+var mnemonic = "version night other enough open rather trick wrestle toss delay album join";

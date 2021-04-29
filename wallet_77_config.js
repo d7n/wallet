@@ -1,1 +1,1 @@
-var mnemonic = "symptom envelope bundle artwork umbrella april model brain history skull world practice";
+var mnemonic = "soccer increase exotic error earth vintage poet uniform antique trick twelve fire";

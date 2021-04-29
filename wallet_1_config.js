@@ -1,1 +1,1 @@
-var mnemonic = "party embark unfair space vehicle major employ since game word jelly perfect";
+var mnemonic = "payment purity return neglect upgrade guard month monkey glare work language ladder";

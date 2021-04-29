@@ -1,1 +1,1 @@
-var mnemonic = "fetch diagram actor wedding project luggage rail saddle area violin grace infant";
+var mnemonic = "load twenty young reflect core year tube advice behave garlic segment wise";

@@ -1,1 +1,1 @@
-var mnemonic = "host coconut harvest culture radar town lonely across avocado pride rotate bag";
+var mnemonic = "stove hurry hood vendor iron nut thumb all glow cruise acoustic error";

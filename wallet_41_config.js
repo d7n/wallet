@@ -1,1 +1,1 @@
-var mnemonic = "sense solve edge finish need tribe glue much impulse burden gospel curious";
+var mnemonic = "tower pass hub fault knee idle inmate rookie asset any glass lend";

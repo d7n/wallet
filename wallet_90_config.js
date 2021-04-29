@@ -1,1 +1,1 @@
-var mnemonic = "dance favorite spell fun embody erase illness orbit find sunny give husband";
+var mnemonic = "hospital flee kitten orphan feel peasant assume cute fan stomach wink script";

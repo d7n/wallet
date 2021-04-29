@@ -1,1 +1,1 @@
-var mnemonic = "bright cabin mixture erase vacant alley enroll gather good shock green system";
+var mnemonic = "tonight involve aim caution coil machine flat home transfer open hover worry";

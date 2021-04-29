@@ -1,1 +1,1 @@
-var mnemonic = "episode female despair sample coil select across advice mango mail broken share";
+var mnemonic = "lesson door actor crisp churn eight heart life make super truth mule";

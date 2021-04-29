@@ -1,1 +1,1 @@
-var mnemonic = "turn law gain theory chronic slot dawn velvet volcano chuckle orient town";
+var mnemonic = "shallow bottom section tell vanish excite lounge walk amused huge already try";

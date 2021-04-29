@@ -1,1 +1,1 @@
-var mnemonic = "cute true skate ask cargo various mansion slice pulse cup appear immense";
+var mnemonic = "number polar giant sleep column brisk portion into fever loyal opera fog";

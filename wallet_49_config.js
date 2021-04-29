@@ -1,1 +1,1 @@
-var mnemonic = "segment great army orbit dwarf romance correct boss menu suspect race gesture";
+var mnemonic = "advance bracket fame increase normal steak half tired shift ostrich solar present";

@@ -1,1 +1,1 @@
-var mnemonic = "violin awful mad color outer grid misery dice push vivid few uphold";
+var mnemonic = "found forward axis member relief distance miracle sorry course brave climb flame";

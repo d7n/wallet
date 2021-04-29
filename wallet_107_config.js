@@ -1,1 +1,1 @@
-var mnemonic = "work cycle edge kid deposit index mercy veteran settle home payment you";
+var mnemonic = "opinion nut clean unusual normal vault flame symbol fruit rack steak concert";

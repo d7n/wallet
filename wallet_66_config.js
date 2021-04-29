@@ -1,1 +1,1 @@
-var mnemonic = "dawn symbol away one talent few sauce squeeze detect crime core sunset";
+var mnemonic = "crunch hello together letter cute barrel orbit gorilla fuel talk assist salon";

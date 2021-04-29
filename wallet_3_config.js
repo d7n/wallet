@@ -1,1 +1,1 @@
-var mnemonic = "define bicycle anxiety online icon forward holiday genre add miss they raw";
+var mnemonic = "town paddle ginger noise rigid mosquito pig tank luggage mystery exhibit achieve";

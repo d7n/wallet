@@ -1,1 +1,1 @@
-var mnemonic = "together allow laundry canyon pluck narrow size various pluck fitness eager casual";
+var mnemonic = "topple load inspire never slow dial execute despair bless trophy fence draw";

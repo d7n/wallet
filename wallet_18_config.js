@@ -1,1 +1,1 @@
-var mnemonic = "security rally voice grief cabin obey prison strategy couple fruit escape drive";
+var mnemonic = "thing lesson clap street fiscal wealth disorder olive such police emerge renew";

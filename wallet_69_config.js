@@ -1,1 +1,1 @@
-var mnemonic = "uphold book helmet expose elder draft mask whip cactus file genius tuna";
+var mnemonic = "light language visit pupil make slogan ensure mirror south pitch finger position";

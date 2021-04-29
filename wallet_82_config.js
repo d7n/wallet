@@ -1,1 +1,1 @@
-var mnemonic = "fancy volcano clap spoil funny bubble frown gather brief post moment penalty";
+var mnemonic = "budget attack earth magic either payment measure judge sound wrist wheel cream";

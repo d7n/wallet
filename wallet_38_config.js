@@ -1,1 +1,1 @@
-var mnemonic = "walk steak snake antique reflect swift canyon weapon junior wish galaxy strategy";
+var mnemonic = "sword trumpet remove minor wide charge earn anger divert limit deposit blush";

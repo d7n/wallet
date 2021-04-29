@@ -1,1 +1,1 @@
-var mnemonic = "vital run ribbon sport sense core female now uphold cradle game slogan";
+var mnemonic = "raven control dolphin vital evil slice outer law grant degree assist voice";

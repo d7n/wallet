@@ -1,1 +1,1 @@
-var mnemonic = "romance urge nominee unaware merit silk pilot love lawsuit rookie over silly";
+var mnemonic = "snap tape ginger private click wave glimpse ice finish have borrow wonder";

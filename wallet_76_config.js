@@ -1,1 +1,1 @@
-var mnemonic = "burden monkey alley pass proof either dinosaur answer give push bike level";
+var mnemonic = "match wish border topple spoon table wagon any fluid caution riot gaze";

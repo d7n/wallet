@@ -1,1 +1,1 @@
-var mnemonic = "laptop volcano match case bomb caught lyrics typical father ritual rail lock";
+var mnemonic = "session desert weasel flame crew double blood risk canyon risk magic phone";

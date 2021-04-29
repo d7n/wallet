@@ -1,1 +1,1 @@
-var mnemonic = "law apart evidence mirror hire unique matter rule census staff tissue check";
+var mnemonic = "slush wash manage act youth rail antique analyst wave wet aisle frame";

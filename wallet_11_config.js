@@ -1,1 +1,1 @@
-var mnemonic = "shadow salon double fabric before cheese promote bundle lava surface exchange steel";
+var mnemonic = "donate loan clump ball cruise shield spin spare amused truth swamp allow";

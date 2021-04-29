@@ -1,1 +1,1 @@
-var mnemonic = "multiply profit pole toss worth pottery sweet cabbage proud alone speed impose";
+var mnemonic = "bridge tomorrow cube connect armed print know barely mind oxygen sheriff door";

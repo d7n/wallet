@@ -1,1 +1,1 @@
-var mnemonic = "weapon sad hawk fatigue strategy resemble shrug patrol sheriff blush total come";
+var mnemonic = "base merge what lumber avoid purity change vast rib error rug scrap";

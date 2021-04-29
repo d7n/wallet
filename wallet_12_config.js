@@ -1,1 +1,1 @@
-var mnemonic = "kiss orphan waste tiger wait pepper apart snake secret awesome vote quality";
+var mnemonic = "unit shallow vacuum category shoulder stem defense rose gesture split claim access";

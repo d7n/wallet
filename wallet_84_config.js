@@ -1,1 +1,1 @@
-var mnemonic = "spatial sunset session flame tray core canyon purpose thrive pear bulb find";
+var mnemonic = "switch interest simple robot dove harbor entry chronic lift digital trade mosquito";

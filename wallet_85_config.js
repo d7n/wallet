@@ -1,1 +1,1 @@
-var mnemonic = "trophy unveil hover feed curve cart pill hawk cradle home blouse false";
+var mnemonic = "miracle winner orange among file chair about unusual cute level biology address";

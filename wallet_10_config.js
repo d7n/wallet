@@ -1,1 +1,1 @@
-var mnemonic = "patrol horse speed obey elevator awesome forest board resource group rule multiply";
+var mnemonic = "pepper swap loyal cook blouse sick dinner goddess cake focus chronic render";

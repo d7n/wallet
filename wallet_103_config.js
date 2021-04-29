@@ -1,1 +1,1 @@
-var mnemonic = "result priority fragile ripple vivid people radar minute bundle egg raw cancel";
+var mnemonic = "pink loud fatigue drastic method slim surprise sand december ostrich walnut across";

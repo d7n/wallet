@@ -1,1 +1,1 @@
-var mnemonic = "hold laptop afford gate surprise announce paddle budget hybrid tube april virus";
+var mnemonic = "essence wait deputy spawn inject priority barely impulse like potato distance matrix";

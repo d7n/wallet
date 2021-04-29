@@ -1,1 +1,1 @@
-var mnemonic = "speed dirt orient donate already agree entry learn avocado bulb make clinic";
+var mnemonic = "talk index cloud same speak response pipe crack tired deer space analyst";

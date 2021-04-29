@@ -1,1 +1,1 @@
-var mnemonic = "garage hire series please summer quick elephant stock turn inflict trip file";
+var mnemonic = "draw judge smoke measure domain fit kind spin junk undo agree replace";

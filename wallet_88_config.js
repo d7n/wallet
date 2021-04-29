@@ -1,1 +1,1 @@
-var mnemonic = "pole rebel master guilt mushroom wage leave square away barrel amused midnight";
+var mnemonic = "fury antique assume thumb decrease merge tape hedgehog alpha deer potato refuse";

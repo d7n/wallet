@@ -1,1 +1,1 @@
-var mnemonic = "pizza omit opera found place whip brown edit spot auto sniff blush";
+var mnemonic = "differ pink matrix lab squeeze canoe grocery fiber cargo voyage under jump";

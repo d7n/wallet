@@ -1,1 +1,1 @@
-var mnemonic = "minor talent unusual net squeeze misery excuse helmet boy champion permit around";
+var mnemonic = "report nothing run review decrease uphold choice surface orphan rate actor train";

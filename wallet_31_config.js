@@ -1,1 +1,1 @@
-var mnemonic = "burger excuse task beach satisfy crouch lemon switch visa suspect enact boil";
+var mnemonic = "include lottery hedgehog audit panther language jar crime memory more cinnamon base";

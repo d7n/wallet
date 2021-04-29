@@ -1,1 +1,1 @@
-var mnemonic = "able glad nut town blade know swamp atom wagon word denial story";
+var mnemonic = "ripple picnic margin cloth expect video echo match card museum squirrel group";

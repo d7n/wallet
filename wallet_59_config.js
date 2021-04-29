@@ -1,1 +1,1 @@
-var mnemonic = "horse ritual lounge pulp actress ice end true avocado current search enroll";
+var mnemonic = "myself wave diesel execute sing panic album near series cluster pledge hole";

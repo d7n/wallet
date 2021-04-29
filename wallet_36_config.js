@@ -1,1 +1,1 @@
-var mnemonic = "prevent comfort bus hint warfare excess unable pitch foil tongue elder report";
+var mnemonic = "slogan siege pause office gallery awesome brisk runway rather crane season true";

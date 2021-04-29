@@ -1,1 +1,1 @@
-var mnemonic = "diamond slab elephant public sunset blind matter submit brass inch zebra raven";
+var mnemonic = "organ reflect end noble develop drastic material toward emotion gift inmate tobacco";

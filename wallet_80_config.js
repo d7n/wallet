@@ -1,1 +1,1 @@
-var mnemonic = "leg brush cake seek rib earth midnight soft total parade decide range";
+var mnemonic = "catalog inherit text invest what bullet praise derive boring heart clip mail";

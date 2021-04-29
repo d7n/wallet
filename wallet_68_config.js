@@ -1,1 +1,1 @@
-var mnemonic = "alert pulp talk volcano never pen prefer sad border attend close monitor";
+var mnemonic = "again alien practice bird vanish old hurdle cup furnace absurd train mom";

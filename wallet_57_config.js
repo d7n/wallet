@@ -1,1 +1,1 @@
-var mnemonic = "crystal monitor off judge meadow paper attract twelve bind sheriff orange bulk";
+var mnemonic = "spray fuel view relax paddle urban connect magnet palm century tree narrow";

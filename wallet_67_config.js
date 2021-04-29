@@ -1,1 +1,1 @@
-var mnemonic = "design middle skate expect jealous pumpkin assume mobile save step sound poverty";
+var mnemonic = "slender fiscal husband enroll damp puppy club clean daughter hybrid pitch thrive";

@@ -1,1 +1,1 @@
-var mnemonic = "snack change index sun ramp smile fiction dance click access wash exhibit";
+var mnemonic = "biology season video antique opera sure planet caught patient thrive offer gospel";

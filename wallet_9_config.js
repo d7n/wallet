@@ -1,1 +1,1 @@
-var mnemonic = "coast pig health company settle vessel manual tackle grow setup visa garden";
+var mnemonic = "minor gadget young pluck equip tumble shy captain palm chronic fan liberty";

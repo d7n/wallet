@@ -1,1 +1,1 @@
-var mnemonic = "equal fly found group prefer bargain festival august super join cluster drill";
+var mnemonic = "device second option disagree outdoor mandate way hockey ranch correct gallery satoshi";

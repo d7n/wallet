@@ -1,1 +1,1 @@
-var mnemonic = "focus pave frequent enact paper lake patrol spell acid bike city crumble";
+var mnemonic = "alcohol air police kidney junior gauge dial produce weather doctor vapor fabric";

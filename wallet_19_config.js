@@ -1,1 +1,1 @@
-var mnemonic = "million body lake churn patrol fossil wagon van denial fan host spin";
+var mnemonic = "hero whisper off sleep surface kidney fatigue spawn swap coffee spatial attend";

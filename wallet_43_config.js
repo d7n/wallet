@@ -1,1 +1,1 @@
-var mnemonic = "bachelor conduct ankle flock cabin walk sense sand security vehicle mirror fix";
+var mnemonic = "denial craft vital tobacco party mansion rotate biology retire depth wagon chalk";

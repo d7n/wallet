@@ -1,1 +1,1 @@
-var mnemonic = "crop obey gentle unknown dice head matrix arrive person solution fiscal rack";
+var mnemonic = "dress chronic sock shock deputy fetch type knock inquiry reunion burden describe";

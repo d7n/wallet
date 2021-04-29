@@ -1,1 +1,1 @@
-var mnemonic = "mystery close supply mind move air cannon endorse soul jar basic ugly";
+var mnemonic = "syrup junior produce train city boost return barely canal emerge crowd level";

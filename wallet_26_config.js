@@ -1,1 +1,1 @@
-var mnemonic = "muffin music fiction coast hill idea welcome review empty poverty wait satoshi";
+var mnemonic = "glance buyer more wire message able front rare border tray spider little";

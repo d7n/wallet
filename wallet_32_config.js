@@ -1,1 +1,1 @@
-var mnemonic = "increase chaos evidence great genius tornado biology income merry local draw exit";
+var mnemonic = "exotic either column bread spare license giraffe weird text pair crater shine";

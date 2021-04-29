@@ -1,1 +1,1 @@
-var mnemonic = "margin arctic endless someone panda whisper post question bomb wisdom logic devote";
+var mnemonic = "hospital eight alcohol dress forward hold board more onion brand able glad";

@@ -1,1 +1,1 @@
-var mnemonic = "student puzzle harvest ski dizzy sorry mimic turn list core planet poet";
+var mnemonic = "cancel fatal sell submit belt lab phrase float tomato knee must rubber";

@@ -1,1 +1,1 @@
-var mnemonic = "asset photo hawk network old erode reveal explain lizard shrug all cool";
+var mnemonic = "catch guitar health business doctor aerobic fancy lucky flower mix jewel essence";

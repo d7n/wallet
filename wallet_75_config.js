@@ -1,1 +1,1 @@
-var mnemonic = "stuff process axis brave group electric warm february thumb useful secret blanket";
+var mnemonic = "often rate chunk toward movie art wrestle asset wave relax field notable";

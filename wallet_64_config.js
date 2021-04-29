@@ -1,1 +1,1 @@
-var mnemonic = "umbrella goat valve program reason door rebuild exact romance solve afraid hotel";
+var mnemonic = "sentence repeat bounce shy step clerk fury repair wall level action cave";

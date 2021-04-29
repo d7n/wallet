@@ -1,1 +1,1 @@
-var mnemonic = "lion hotel jar smoke shiver unveil estate squirrel mom render fault enlist";
+var mnemonic = "quantum sell copper slush crush roof crane hospital confirm dune fan talk";

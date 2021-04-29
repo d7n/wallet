@@ -1,1 +1,1 @@
-var mnemonic = "capital feed initial squeeze miss anxiety icon rent eyebrow hobby now brand";
+var mnemonic = "bargain dial friend where remain soon open word gate lava joke clap";

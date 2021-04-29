@@ -1,1 +1,1 @@
-var mnemonic = "reveal fiction depth shuffle buyer unusual salon float just giraffe miss boil";
+var mnemonic = "bomb imitate output portion together bright check extend wise melody culture escape";

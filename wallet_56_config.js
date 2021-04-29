@@ -1,1 +1,1 @@
-var mnemonic = "nominee side age time coast margin nasty quit suit noodle pencil tornado";
+var mnemonic = "dinosaur effort warrior wasp satisfy adult brave process category memory upset brass";
