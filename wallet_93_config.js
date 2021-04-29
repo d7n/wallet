@@ -1,1 +1,1 @@
-var mnemonic = "museum digital siege grape young fashion settle bacon addict occur animal misery";
+var mnemonic = "provide frozen client box apology rebel whip current rival evolve reveal age";

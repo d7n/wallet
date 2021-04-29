@@ -1,1 +1,1 @@
-var mnemonic = "image glide catalog isolate echo raccoon dwarf kidney ranch raw drip lend";
+var mnemonic = "field gauge magnet near toilet spatial image decade step bullet jar sport";

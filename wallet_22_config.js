@@ -1,1 +1,1 @@
-var mnemonic = "canoe burst sense adapt banner apart word wide uncover later aisle weasel";
+var mnemonic = "garment rescue tonight shoot dad skin supply ranch throw attack disease portion";

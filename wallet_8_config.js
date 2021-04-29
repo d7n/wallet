@@ -1,1 +1,1 @@
-var mnemonic = "cargo goat become sphere say spy shove random fiscal flip daring old";
+var mnemonic = "lawsuit angry clown biology purpose brown depth ankle happy noodle build latin";

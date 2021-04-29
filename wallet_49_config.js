@@ -1,1 +1,1 @@
-var mnemonic = "clarify impact fragile tomorrow lesson material praise wide render pepper shell fashion";
+var mnemonic = "enter uniform cluster derive teach odor chair pencil illegal hill century just";

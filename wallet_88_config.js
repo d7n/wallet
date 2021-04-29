@@ -1,1 +1,1 @@
-var mnemonic = "pact letter sword table cost board print tuna mimic kick razor fish";
+var mnemonic = "victory relax lyrics rib mass mass mad album vanish gap thumb car";

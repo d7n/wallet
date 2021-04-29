@@ -1,1 +1,1 @@
-var mnemonic = "elbow flavor blind twice amused process security modify effort monster trigger draw";
+var mnemonic = "trigger document boy jewel submit float trial lab cloud swap seek merit";

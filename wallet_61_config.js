@@ -1,1 +1,1 @@
-var mnemonic = "swamp magnet faculty become day agree waste reveal gloom drum poverty enrich";
+var mnemonic = "engine vicious disorder sing retire potato crowd curve desk sniff script divert";

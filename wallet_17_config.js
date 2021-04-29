@@ -1,1 +1,1 @@
-var mnemonic = "clinic craft pet lucky scout bracket toast cave impulse update volume honey";
+var mnemonic = "setup cute crush order top leopard echo quit van lunch endless execute";

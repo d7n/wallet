@@ -1,1 +1,1 @@
-var mnemonic = "fashion mystery reject ripple sick ugly number dumb flee remain rotate random";
+var mnemonic = "error grocery claim renew valley cabin tornado either play gun once tank";

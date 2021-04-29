@@ -1,1 +1,1 @@
-var mnemonic = "jazz green tent market keen someone market brave alpha fabric gold thing";
+var mnemonic = "coach infant frozen edit roast close ask room mobile case coffee dirt";

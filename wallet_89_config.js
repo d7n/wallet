@@ -1,1 +1,1 @@
-var mnemonic = "vendor pass energy suspect ripple draw whip kitchen face easy rotate palace";
+var mnemonic = "arena joy plastic little alert spice town assault riot neutral display local";

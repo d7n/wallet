@@ -1,1 +1,1 @@
-var mnemonic = "debate rose treat eagle mystery magnet sketch food grant blush truly energy";
+var mnemonic = "window initial solve traffic more wonder clap pride siege ready sample leopard";

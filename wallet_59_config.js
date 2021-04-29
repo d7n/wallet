@@ -1,1 +1,1 @@
-var mnemonic = "duty candy violin buffalo bless later lift winner often imitate evil sweet";
+var mnemonic = "virtual yard summer insane west deer good execute meadow fold garden same";

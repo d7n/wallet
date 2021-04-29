@@ -1,1 +1,1 @@
-var mnemonic = "wrong crazy letter father elevator super vivid since torch gossip skill roast";
+var mnemonic = "grant slight music charge blue toe pole observe comfort sense solution bring";

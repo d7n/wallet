@@ -1,1 +1,1 @@
-var mnemonic = "harvest season fence maple few shaft engage hotel load approve victory chef";
+var mnemonic = "swear flee enable three true repeat orient empty cable island swap arrive";

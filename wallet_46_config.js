@@ -1,1 +1,1 @@
-var mnemonic = "pyramid elder reopen piece daring fever awesome oyster rack oval salad jeans";
+var mnemonic = "capable outer dune expand visual insane inquiry survey daring chuckle arrive evoke";

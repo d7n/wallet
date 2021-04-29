@@ -1,1 +1,1 @@
-var mnemonic = "theme that cancel train claw cherry profit unusual buffalo mobile letter card";
+var mnemonic = "inmate wet decide what umbrella light initial pluck device above chimney erosion";

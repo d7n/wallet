@@ -1,1 +1,1 @@
-var mnemonic = "theme key reunion cheap dragon attack reunion faith pepper vibrant trip leisure";
+var mnemonic = "spy aspect enable adapt there remain cheap brother rebuild wage mother oak";

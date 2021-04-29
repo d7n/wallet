@@ -1,1 +1,1 @@
-var mnemonic = "during flush present tape dad lake brave universe ticket voice stumble grace";
+var mnemonic = "horse choose awake priority idea moment cake steel surprise thumb solution weird";

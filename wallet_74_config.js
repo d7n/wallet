@@ -1,1 +1,1 @@
-var mnemonic = "chief assault castle dice into lunar grass craft early direct latin flat";
+var mnemonic = "chaos candy report elegant denial silly goat raise visit car mail income";

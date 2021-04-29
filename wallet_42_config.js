@@ -1,1 +1,1 @@
-var mnemonic = "task regret attract kidney canyon ice series stairs enroll guess broccoli box";
+var mnemonic = "punch stamp sphere giraffe diesel sample impulse liar thunder loyal casino add";

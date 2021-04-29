@@ -1,1 +1,1 @@
-var mnemonic = "exhaust gather over across ski canyon blood stage obtain flame canvas kit";
+var mnemonic = "blouse salad border sock wait addict twenty crumble auto scan liquid plunge";

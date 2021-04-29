@@ -1,1 +1,1 @@
-var mnemonic = "rigid piece perfect guitar decide home bridge approve force license coffee finish";
+var mnemonic = "hint first silk body ancient fine dune slam large yard cash hazard";

@@ -1,1 +1,1 @@
-var mnemonic = "near typical gun host elephant maximum action prize witness vocal nice payment";
+var mnemonic = "surface razor artwork subway mutual rich negative cannon rookie educate ceiling renew";

@@ -1,1 +1,1 @@
-var mnemonic = "artefact this license smart inside once tunnel capable bonus solar sudden income";
+var mnemonic = "direct prize grace elbow undo demise million fall recall erupt thumb sail";

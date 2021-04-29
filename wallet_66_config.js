@@ -1,1 +1,1 @@
-var mnemonic = "stadium visa test whisper glare final test creek carry canyon fringe expect";
+var mnemonic = "history fold cave car dance answer fury chaos film festival blood man";

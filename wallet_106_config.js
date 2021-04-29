@@ -1,1 +1,1 @@
-var mnemonic = "because axis exhibit carry potato flame sword traffic vague diet odor oak";
+var mnemonic = "tissue author obey blind oven mad goddess short vendor price priority law";

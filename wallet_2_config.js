@@ -1,1 +1,1 @@
-var mnemonic = "wealth series chimney math brief hood injury truck change gap ill glance";
+var mnemonic = "repair train menu disagree home fashion genuine toss hint true kit unique";

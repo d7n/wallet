@@ -1,1 +1,1 @@
-var mnemonic = "dawn remove express reject pig shy random monitor recycle veteran diet finish";
+var mnemonic = "setup age venue rib cricket holiday tone admit business naive virtual inspire";

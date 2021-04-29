@@ -1,1 +1,1 @@
-var mnemonic = "joke behind gauge face hope rather news unknown lady busy strong practice";
+var mnemonic = "flight tiny huge guitar glow stage inflict deposit deal series endless film";

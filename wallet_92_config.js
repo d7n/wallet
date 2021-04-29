@@ -1,1 +1,1 @@
-var mnemonic = "slot empty demise before stamp disorder another gauge tennis poverty bounce clever";
+var mnemonic = "step wreck mind man wise leg beach lecture lamp isolate draft toe";

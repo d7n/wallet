@@ -1,1 +1,1 @@
-var mnemonic = "gown original option social bid smile brush depart absorb drift valid key";
+var mnemonic = "ugly always all basic imitate hollow chat draft also tent language dirt";

@@ -1,1 +1,1 @@
-var mnemonic = "during surprise phone twin dignity have drip chaos baby observe reunion current";
+var mnemonic = "ginger rich border bus lab suggest vessel remove boy used dignity vibrant";

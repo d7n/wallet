@@ -1,1 +1,1 @@
-var mnemonic = "menu audit demise dumb initial shove alert nasty diamond canvas exist village";
+var mnemonic = "above match oven outside eagle memory lab author nurse senior quiz embody";

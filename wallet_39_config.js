@@ -1,1 +1,1 @@
-var mnemonic = "beyond ancient join join reform pigeon update differ unveil reopen snack logic";
+var mnemonic = "second engine size fiber type scissors under client nurse vacant inside clever";

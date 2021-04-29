@@ -1,1 +1,1 @@
-var mnemonic = "rent income spin card wonder super audit tissue wealth cook dice mountain";
+var mnemonic = "tuition critic illegal velvet basic kind trim gasp barrel fit transfer warrior";

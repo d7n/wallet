@@ -1,1 +1,1 @@
-var mnemonic = "habit offer tank tenant example pole camera worth wheel beyond diesel process";
+var mnemonic = "animal later into volcano pyramid athlete flavor skate pioneer laptop sad try";

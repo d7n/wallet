@@ -1,1 +1,1 @@
-var mnemonic = "avocado ginger term fade bachelor exchange soul note huge measure fluid pony";
+var mnemonic = "panther situate size neutral unfold artist pepper defense bonus slam awake paper";

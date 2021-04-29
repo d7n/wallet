@@ -1,1 +1,1 @@
-var mnemonic = "lake certain shed lyrics equip sense cotton cousin local engine hour body";
+var mnemonic = "series sniff arctic explain lock horror cable trip cover tooth indoor grit";

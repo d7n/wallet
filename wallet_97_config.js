@@ -1,1 +1,1 @@
-var mnemonic = "journey acquire apple sea below design pear tone budget detect camera easy";
+var mnemonic = "certain report bike wing sustain sleep puppy still wolf juice cement click";

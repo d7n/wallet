@@ -1,1 +1,1 @@
-var mnemonic = "tunnel quiz leopard cart any pool frame riot candy blouse unusual napkin";
+var mnemonic = "predict february join gun uniform wheel always mango fiction industry marriage disagree";

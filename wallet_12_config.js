@@ -1,1 +1,1 @@
-var mnemonic = "humor material glow frequent visit nest grass example surprise output celery used";
+var mnemonic = "range plastic master doctor drastic industry grace april citizen credit admit quit";

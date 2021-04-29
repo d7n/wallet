@@ -1,1 +1,1 @@
-var mnemonic = "guide six exile wheel december tilt north sadness rough bottom garage pass";
+var mnemonic = "muscle guitar cargo conduct mistake burger march demise capital dial second thought";

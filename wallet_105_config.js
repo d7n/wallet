@@ -1,1 +1,1 @@
-var mnemonic = "lock exhibit lend easily brick vicious auto fever crowd evoke despair goat";
+var mnemonic = "empty degree pride result double define raise reunion auction head mammal month";

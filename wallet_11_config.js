@@ -1,1 +1,1 @@
-var mnemonic = "area oppose easily fiction waste enlist damage essence acquire romance useless other";
+var mnemonic = "law quote devote latin memory outdoor two wagon express image drink scrub";

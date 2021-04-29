@@ -1,1 +1,1 @@
-var mnemonic = "bar bus forward proof glove net render monster pave buyer dolphin meat";
+var mnemonic = "member spatial meat stairs prefer blossom piano bargain eager labor fiction solar";

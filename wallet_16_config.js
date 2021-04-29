@@ -1,1 +1,1 @@
-var mnemonic = "lava laptop kite egg goddess forward patrol walk cute strategy force symbol";
+var mnemonic = "soccer shuffle nose border sing injury yellow veteran post digital scale segment";

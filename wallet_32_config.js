@@ -1,1 +1,1 @@
-var mnemonic = "diagram habit income much holiday obtain path source neglect next before affair";
+var mnemonic = "voice vault gap math chimney giant warfare universe cage stage salt lamp";

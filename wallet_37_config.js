@@ -1,1 +1,1 @@
-var mnemonic = "useful grow spot innocent start carpet worth husband opinion vehicle rare carry";
+var mnemonic = "soda diary idea produce leaf gorilla hire twist celery sausage daring slogan";

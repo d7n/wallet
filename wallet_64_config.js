@@ -1,1 +1,1 @@
-var mnemonic = "share script festival goat casino warrior live chuckle tiger jump camera razor";
+var mnemonic = "achieve swim coral core clump supreme gravity cream place lyrics become bachelor";

@@ -1,1 +1,1 @@
-var mnemonic = "spend web hurdle trouble salmon midnight seminar nothing moment parade calm cabin";
+var mnemonic = "trial syrup bunker quote kind neither fox price food doctor tool trash";

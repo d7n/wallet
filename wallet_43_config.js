@@ -1,1 +1,1 @@
-var mnemonic = "fortune network fly stone pave parent poem range tell ivory shallow whisper";
+var mnemonic = "diet brick donor banner damp change music divide live brand fault father";

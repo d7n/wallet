@@ -1,1 +1,1 @@
-var mnemonic = "ribbon cactus shift foot zebra dry drip regret hidden bleak shock sail";
+var mnemonic = "vague caution mixture junior stairs sibling supreme away draft spawn crawl ball";

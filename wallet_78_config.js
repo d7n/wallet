@@ -1,1 +1,1 @@
-var mnemonic = "traffic offer polar weekend stock split flat better divert siren update push";
+var mnemonic = "donkey bubble virus give afford sugar finger pear front october silk arch";

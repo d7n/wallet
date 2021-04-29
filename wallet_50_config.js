@@ -1,1 +1,1 @@
-var mnemonic = "omit spice error measure absorb lonely hen feel favorite present ticket fashion";
+var mnemonic = "window girl armor reject few canoe bonus erase appear snap today medal";

@@ -1,1 +1,1 @@
-var mnemonic = "odor across search flash primary program trial bundle panic toast stable dynamic";
+var mnemonic = "illness fiber exchange wedding demise route inhale remind few broom napkin train";

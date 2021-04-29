@@ -1,1 +1,1 @@
-var mnemonic = "elbow giraffe idle ethics shoot tool sadness crop sound mother luggage wrist";
+var mnemonic = "stable hello swim joke swim stairs clerk miss vast immense silent scheme";

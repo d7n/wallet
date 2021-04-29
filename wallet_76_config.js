@@ -1,1 +1,1 @@
-var mnemonic = "minor crouch mouse behind crucial laugh glow vicious ill harvest metal nephew";
+var mnemonic = "sound safe step pretty atom security job valid layer cabbage dynamic tiny";

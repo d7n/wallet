@@ -1,1 +1,1 @@
-var mnemonic = "matrix illegal weather dentist toddler extra mutual dune next deliver solution echo";
+var mnemonic = "target spell budget minor dad guilt lift round kitchen elevator shed copper";

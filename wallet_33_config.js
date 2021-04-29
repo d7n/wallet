@@ -1,1 +1,1 @@
-var mnemonic = "green stuff old wear gun quote weapon chalk cage uncover artist marriage";
+var mnemonic = "tissue master absurd notable skin refuse gift six thing chase pottery party";

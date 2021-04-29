@@ -1,1 +1,1 @@
-var mnemonic = "apple theory shine install borrow program note include absurd book october just";
+var mnemonic = "random hero pool enjoy lift sister cute next cherry retreat meadow chunk";

@@ -1,1 +1,1 @@
-var mnemonic = "elbow speak camp position salmon wrestle drop this giggle hold budget bone";
+var mnemonic = "skate where civil cable milk power skin impose limit speed loud crystal";

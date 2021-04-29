@@ -1,1 +1,1 @@
-var mnemonic = "one rocket amazing advice glory young direct festival tip boring stove arrive";
+var mnemonic = "inform admit basic crush away exotic impact grid royal hurry run anger";

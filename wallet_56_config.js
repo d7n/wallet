@@ -1,1 +1,1 @@
-var mnemonic = "old pencil boat dentist main call please large luxury legend loop used";
+var mnemonic = "mansion they popular mask beef jelly absorb crop ten exist unhappy stock";

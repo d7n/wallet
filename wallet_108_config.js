@@ -1,1 +1,1 @@
-var mnemonic = "sick fame crisp cabbage leg mixture valley lava focus nasty crystal column";
+var mnemonic = "tennis electric rotate ostrich media trash travel bulk purse focus odor spot";

@@ -1,1 +1,1 @@
-var mnemonic = "chase inflict cage identify insect squeeze assault fetch eyebrow mask sell divert";
+var mnemonic = "hip crack exotic seminar cradle lemon neither digital praise loud prevent author";

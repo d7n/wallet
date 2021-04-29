@@ -1,1 +1,1 @@
-var mnemonic = "engage dash truly exchange liberty whisper message artist prize mammal celery carbon";
+var mnemonic = "young demise grab story village ten fiction evolve imitate pioneer insect property";

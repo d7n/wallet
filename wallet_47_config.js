@@ -1,1 +1,1 @@
-var mnemonic = "outdoor age pilot cotton stadium feature boy main net mixture place humor";
+var mnemonic = "awake cruel face blood spider bronze giant world color tree awkward office";

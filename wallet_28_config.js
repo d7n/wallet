@@ -1,1 +1,1 @@
-var mnemonic = "ignore deny useful boil slot office ride tragic then tuna have submit";
+var mnemonic = "valid copy fuel hurdle twelve enhance special priority giant tomato profit will";

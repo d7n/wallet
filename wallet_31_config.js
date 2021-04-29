@@ -1,1 +1,1 @@
-var mnemonic = "goose roof legend thing avocado muscle remove kiwi core exotic phrase knife";
+var mnemonic = "pluck crawl marble emerge differ miss heart cruise pool tone shop canoe";

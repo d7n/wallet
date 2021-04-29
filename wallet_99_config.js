@@ -1,1 +1,1 @@
-var mnemonic = "legal foil culture test fabric cable symptom object eight energy mask digital";
+var mnemonic = "original bracket wife olive month cat little symptom leave start blue grace";

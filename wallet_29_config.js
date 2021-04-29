@@ -1,1 +1,1 @@
-var mnemonic = "lesson ignore napkin ignore laundry icon team brave glass waste source doll";
+var mnemonic = "step deputy parent monkey bind expand tone topple path fine slogan latin";

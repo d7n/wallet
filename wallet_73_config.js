@@ -1,1 +1,1 @@
-var mnemonic = "submit razor frame measure food hazard expect party raw cancel grit section";
+var mnemonic = "sail feature siege broken pelican harsh help cannon rescue noise remind indicate";

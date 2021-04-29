@@ -1,1 +1,1 @@
-var mnemonic = "orient fade butter ball nature episode together visit carry stereo jealous toward";
+var mnemonic = "outer seek initial pony thought spring wool olive observe swim try identify";

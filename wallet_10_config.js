@@ -1,1 +1,1 @@
-var mnemonic = "salon hungry sign hidden great analyst agree feel pencil race marble base";
+var mnemonic = "quarter jeans nose range derive decade note athlete scene glove nut night";

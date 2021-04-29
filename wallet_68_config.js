@@ -1,1 +1,1 @@
-var mnemonic = "hundred other giant hire truth slice city sheriff attitude pelican tooth build";
+var mnemonic = "love oxygen steak fame crucial celery unable trust credit evolve bean scatter";

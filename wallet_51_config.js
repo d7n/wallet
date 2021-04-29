@@ -1,1 +1,1 @@
-var mnemonic = "clown sock afford slab garlic soap drive wink oven north liberty search";
+var mnemonic = "impulse swing wing dignity thing sing castle sister goat volume lizard praise";

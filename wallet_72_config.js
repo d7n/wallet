@@ -1,1 +1,1 @@
-var mnemonic = "pact zebra remember reduce tornado skill envelope gauge youth clip case behind";
+var mnemonic = "crowd cheese detail hill rent term unable screen labor already patch catalog";

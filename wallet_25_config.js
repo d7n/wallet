@@ -1,1 +1,1 @@
-var mnemonic = "deliver vast payment enforce buyer craft clay warfare describe order goose erosion";
+var mnemonic = "tourist weapon device glory planet baby usual elegant library decline scissors fit";

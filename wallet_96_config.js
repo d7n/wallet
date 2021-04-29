@@ -1,1 +1,1 @@
-var mnemonic = "antenna when item light achieve resource syrup glow garment more toss differ";
+var mnemonic = "climb gallery wonder please sketch movie finger census wrestle expand kidney decline";

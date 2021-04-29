@@ -1,1 +1,1 @@
-var mnemonic = "evil game pilot throw parade test build color vivid learn chuckle curtain";
+var mnemonic = "normal crater honey goat item response nuclear maid chef bleak borrow bench";

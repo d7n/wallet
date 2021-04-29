@@ -1,1 +1,1 @@
-var mnemonic = "butter violin tiny all brave cover sunset fun weasel reduce clerk tobacco";
+var mnemonic = "perfect element whale soup soft various elegant garage right decide goose save";

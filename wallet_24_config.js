@@ -1,1 +1,1 @@
-var mnemonic = "click arch veteran fuel enemy arena hollow arena senior sign toss cigar";
+var mnemonic = "wagon boat purpose list anchor beef grunt lumber test above tragic control";

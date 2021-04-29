@@ -1,1 +1,1 @@
-var mnemonic = "half improve ring basic text stuff giggle prize grass winner possible achieve";
+var mnemonic = "dilemma cat tribe soft endless diesel enlist laugh whale shop youth image";

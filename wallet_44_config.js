@@ -1,1 +1,1 @@
-var mnemonic = "comfort kingdom mobile prison pond gaze caught monster manual carpet hub leader";
+var mnemonic = "siren ship chat move portion early before issue order injury install then";

@@ -1,1 +1,1 @@
-var mnemonic = "tide visual ranch perfect river into recycle pluck merge what boil upset";
+var mnemonic = "depend inject blanket print power load heart love girl thrive often reflect";

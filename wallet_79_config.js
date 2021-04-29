@@ -1,1 +1,1 @@
-var mnemonic = "obvious radio wear relax radio couch wage prefer range cabin random defy";
+var mnemonic = "illegal valley victory resource observe hotel lesson priority rude laugh quiz snow";

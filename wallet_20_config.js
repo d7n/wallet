@@ -1,1 +1,1 @@
-var mnemonic = "clog trip tilt purity profit mistake clean disease reveal leisure remove text";
+var mnemonic = "few twelve switch news feed monkey bar public jeans urge identify evil";

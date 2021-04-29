@@ -1,1 +1,1 @@
-var mnemonic = "saddle speak angry nose smart mosquito rail obey super scene obscure usage";
+var mnemonic = "major major impose snake balance crawl elephant elbow boost leave stone aunt";

@@ -1,1 +1,1 @@
-var mnemonic = "pill direct believe reflect already enroll stool ocean raise guilt copy first";
+var mnemonic = "oval churn other item reduce bring merit devote verify dose shoe nephew";
