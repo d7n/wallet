@@ -1,1 +1,1 @@
-var mnemonic = "skill bonus stool salon occur inject able color better switch must segment";
+var mnemonic = "dash city game square pyramid federal border dentist bag duck cactus basket";

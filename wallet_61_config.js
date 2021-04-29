@@ -1,1 +1,1 @@
-var mnemonic = "sea amazing will donor wire defense strike bean pole like option scale";
+var mnemonic = "pretty absorb trash report velvet vicious maple brown release chest disease wing";

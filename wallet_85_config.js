@@ -1,1 +1,1 @@
-var mnemonic = "tired farm city lobster nerve ugly cart goat army virtual session siren";
+var mnemonic = "cinnamon song pair session adult travel trap alert rice blur acquire typical";

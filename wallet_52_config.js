@@ -1,1 +1,1 @@
-var mnemonic = "forum conduct mountain edit hurry twice fame piece guess figure track enjoy";
+var mnemonic = "wife prison obvious move junk energy blur tissue athlete faith debris rail";

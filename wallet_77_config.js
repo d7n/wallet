@@ -1,1 +1,1 @@
-var mnemonic = "noble beauty hope model obey green view casual fame hedgehog word equal";
+var mnemonic = "chaos hungry loan special clog hour verb attitude topic jeans giraffe print";

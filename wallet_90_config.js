@@ -1,1 +1,1 @@
-var mnemonic = "confirm give coral ball human silly purchase crisp twice fun spike apple";
+var mnemonic = "admit kangaroo begin gallery seat click impose spoon verify decide just elevator";

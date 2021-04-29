@@ -1,1 +1,1 @@
-var mnemonic = "sound blush duty match celery add bright faculty board inject mango boss";
+var mnemonic = "ordinary weather loan frequent alarm trim rib crack ketchup unveil easy meat";

@@ -1,1 +1,1 @@
-var mnemonic = "stumble make erupt pioneer magnet reveal stuff banana sound erosion excite disagree";
+var mnemonic = "special rural trust sister excess soda success average arrest velvet bleak warrior";

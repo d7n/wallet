@@ -1,1 +1,1 @@
-var mnemonic = "media doctor rebuild coast front shadow staff certain online onion carbon west";
+var mnemonic = "depend end future angle tomato begin prize material solid series nuclear fish";

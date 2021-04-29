@@ -1,1 +1,1 @@
-var mnemonic = "goddess rural large palace trust slice west slide dove arrest already human";
+var mnemonic = "camp side comfort trouble bronze chuckle gloom trick foam coffee regret recipe";

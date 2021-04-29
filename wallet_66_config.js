@@ -1,1 +1,1 @@
-var mnemonic = "idea riot know enemy nurse sail finish model remove spread foam empty";
+var mnemonic = "moon talent pony obtain benefit memory doll hobby woman episode limb vote";

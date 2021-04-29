@@ -1,1 +1,1 @@
-var mnemonic = "calm host flame defense illegal outdoor hint trim picture weird hungry huge";
+var mnemonic = "flock breeze cereal throw point maid call about apple crew gate suggest";

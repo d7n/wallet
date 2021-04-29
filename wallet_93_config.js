@@ -1,1 +1,1 @@
-var mnemonic = "situate case volume desert shaft shell hollow equal merge ten knee electric";
+var mnemonic = "skill suffer protect husband poverty donate lion system tenant forest mango mobile";

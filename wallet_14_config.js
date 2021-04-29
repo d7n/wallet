@@ -1,1 +1,1 @@
-var mnemonic = "almost top double brass deposit edit film blame expect admit panel device";
+var mnemonic = "cat control parrot region lounge father worth task public board describe royal";

@@ -1,1 +1,1 @@
-var mnemonic = "liquid illness bachelor since woman arch bonus mask educate honey twenty million";
+var mnemonic = "box client install predict prefer lock stumble effort kitchen junior copper income";

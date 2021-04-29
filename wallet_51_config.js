@@ -1,1 +1,1 @@
-var mnemonic = "borrow puppy huge charge mechanic six symptom marriage stage use machine issue";
+var mnemonic = "office gaze casual artefact human powder coffee voice diet pledge relax cereal";

@@ -1,1 +1,1 @@
-var mnemonic = "owner journey cable lizard business exotic empty suggest logic mercy below sweet";
+var mnemonic = "weather dust uniform energy alley tent wide deal tissue wrong tattoo merry";

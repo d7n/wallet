@@ -1,1 +1,1 @@
-var mnemonic = "ride quality vapor sibling jealous basic connect trouble fix acquire track develop";
+var mnemonic = "genre minute dismiss minor message submit series stadium fame firm view client";

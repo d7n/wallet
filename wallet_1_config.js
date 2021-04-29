@@ -1,1 +1,1 @@
-var mnemonic = "sibling rich aware genre afford velvet intact clean opera bring napkin cave";
+var mnemonic = "source situate dilemma alone fat fury security bamboo toss wasp auto huge";

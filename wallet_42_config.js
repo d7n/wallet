@@ -1,1 +1,1 @@
-var mnemonic = "give diary crisp hurt flee decline cat child love timber inspire online";
+var mnemonic = "extend burst loop silk unusual belt leisure private weekend bonus happy bleak";

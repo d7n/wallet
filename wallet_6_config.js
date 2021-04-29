@@ -1,1 +1,1 @@
-var mnemonic = "indoor advice two impulse extend into lab boy matrix circle guide chief";
+var mnemonic = "unable cargo bitter execute talent bubble broken demand topic surface quick maple";

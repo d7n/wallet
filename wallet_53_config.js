@@ -1,1 +1,1 @@
-var mnemonic = "pelican boost twin evil soldier gallery injury assault fitness cook void total";
+var mnemonic = "north keep lyrics engage ready insect question wealth confirm run learn possible";

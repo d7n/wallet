@@ -1,1 +1,1 @@
-var mnemonic = "special post luxury attitude worry defense duck calm light plunge asthma toy";
+var mnemonic = "abstract few rookie amount chase wave hat ripple repair cushion recipe enable";

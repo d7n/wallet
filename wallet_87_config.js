@@ -1,1 +1,1 @@
-var mnemonic = "useless raise fix soccer either vault master meat elder devote food palace";
+var mnemonic = "lift embark weather behave detect river glance ribbon input aisle proof learn";

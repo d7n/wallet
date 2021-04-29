@@ -1,1 +1,1 @@
-var mnemonic = "symbol blossom box reunion cherry critic permit young embody pelican dutch ability";
+var mnemonic = "sugar viable acid rather alcohol direct blue front say actual abuse color";

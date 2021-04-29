@@ -1,1 +1,1 @@
-var mnemonic = "nose viable allow life bag version palm horror crystal tent spawn fog";
+var mnemonic = "lobster pave suit position able avoid box ethics clown model tide drama";

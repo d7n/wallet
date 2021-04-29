@@ -1,1 +1,1 @@
-var mnemonic = "truck load spell ugly top release vault decide busy deal toward hybrid";
+var mnemonic = "brisk level boss glance awesome census often record clutch vibrant inflict absent";

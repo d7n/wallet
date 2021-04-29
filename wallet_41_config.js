@@ -1,1 +1,1 @@
-var mnemonic = "rather wild manage book fruit inhale wide symptom decline blood garden topple";
+var mnemonic = "accuse uncle wife quiz unknown truly kitten dragon wear travel dolphin mystery";

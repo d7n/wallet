@@ -1,1 +1,1 @@
-var mnemonic = "lock defy cactus split private wreck notable stamp recall crater race myth";
+var mnemonic = "hover fetch mango earth educate abandon cushion man sell actress father april";

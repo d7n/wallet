@@ -1,1 +1,1 @@
-var mnemonic = "truck pledge run gate ozone expect carpet error ivory witness someone violin";
+var mnemonic = "cash brush silk student south beauty age forest glance issue fever violin";

@@ -1,1 +1,1 @@
-var mnemonic = "accident welcome chronic nuclear slender term canyon spike mammal eyebrow elite rain";
+var mnemonic = "jeans pet dove stereo happy because banana razor quit theory sick comfort";

@@ -1,1 +1,1 @@
-var mnemonic = "student wall dog couple rose choose example limit inner print dune reward";
+var mnemonic = "oil social pottery captain chest knife cart crash hammer gossip banana venue";

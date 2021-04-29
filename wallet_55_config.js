@@ -1,1 +1,1 @@
-var mnemonic = "country culture cotton surface island grow group educate lesson exile shrimp mass";
+var mnemonic = "staff obvious spoon vehicle six cage memory curve typical steel two faculty";

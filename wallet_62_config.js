@@ -1,1 +1,1 @@
-var mnemonic = "improve inner minimum uphold venue lunar case broccoli desk time idea kangaroo";
+var mnemonic = "mouse derive small quiz inhale wrestle vivid test sun atom produce orient";

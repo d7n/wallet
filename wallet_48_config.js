@@ -1,1 +1,1 @@
-var mnemonic = "say test exclude pulse sight shop clump clutch twist miss barrel dirt";
+var mnemonic = "speak top audit disease message situate provide royal review genre wasp twice";

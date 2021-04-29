@@ -1,1 +1,1 @@
-var mnemonic = "buddy canyon portion angle seven bitter rude measure model huge nominee promote";
+var mnemonic = "laptop six muffin flag explain stock truly spell pipe silver leisure lucky";

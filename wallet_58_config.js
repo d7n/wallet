@@ -1,1 +1,1 @@
-var mnemonic = "afraid omit puppy share when wealth blade comfort oak tonight title oxygen";
+var mnemonic = "coconut pilot paper mirror company neck junior remain kit cancel student mobile";

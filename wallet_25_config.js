@@ -1,1 +1,1 @@
-var mnemonic = "term pact borrow split practice velvet body reflect filter zero ensure raw";
+var mnemonic = "uncover scheme know transfer report swap ivory dynamic magnet beef piano coast";

@@ -1,1 +1,1 @@
-var mnemonic = "link excite dress immune young what struggle network parrot spot method test";
+var mnemonic = "valley walk region lecture dragon grunt art fantasy divorce release audit skull";

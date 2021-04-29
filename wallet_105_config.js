@@ -1,1 +1,1 @@
-var mnemonic = "inhale bean warfare scheme music quarter round prison apple broom little above";
+var mnemonic = "uncle any resource retreat crop ask come unable thumb time wrong seek";

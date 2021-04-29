@@ -1,1 +1,1 @@
-var mnemonic = "critic imitate rocket broccoli glare car shoot offer flee opera hero black";
+var mnemonic = "rate riot summer alert skull notable obey describe brisk arctic latin frozen";

@@ -1,1 +1,1 @@
-var mnemonic = "custom tourist health audit muscle salmon dignity discover join run urban sail";
+var mnemonic = "benefit fire detail boil cabin borrow dizzy upgrade grape luxury actual grow";

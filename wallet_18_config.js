@@ -1,1 +1,1 @@
-var mnemonic = "obtain state clock mixture express pulp stock present taxi manual debris bird";
+var mnemonic = "junk slot airport market gravity coach build fruit kind evoke write erosion";

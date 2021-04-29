@@ -1,1 +1,1 @@
-var mnemonic = "cake buzz pride legal style decade reward kid plate force attack raw";
+var mnemonic = "normal also tide blind unfold always already cute renew tip family wall";

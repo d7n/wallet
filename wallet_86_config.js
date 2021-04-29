@@ -1,1 +1,1 @@
-var mnemonic = "glory acquire approve poverty stumble strike tiny smile vault extra heavy size";
+var mnemonic = "column borrow wine catch there sign prevent moon belt artwork flush gain";

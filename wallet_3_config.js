@@ -1,1 +1,1 @@
-var mnemonic = "cruel dragon trend wear process injury pig balance tent license siege scare";
+var mnemonic = "humble salmon load rude prefer immense tuna road client hollow butter jump";

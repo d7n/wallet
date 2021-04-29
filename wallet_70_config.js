@@ -1,1 +1,1 @@
-var mnemonic = "render seek drop liberty snow lock keep axis inject short congress foster";
+var mnemonic = "fan junior radio vintage news caught cluster sting drum basket mobile holiday";

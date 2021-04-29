@@ -1,1 +1,1 @@
-var mnemonic = "logic trash famous two avoid dilemma left dial field cup anxiety claim";
+var mnemonic = "vast smart desk buddy machine vintage safe olympic exhibit talent nation ugly";

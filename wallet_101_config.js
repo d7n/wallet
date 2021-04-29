@@ -1,1 +1,1 @@
-var mnemonic = "roof try roast crime wonder auto pill wasp exile hollow notice mask";
+var mnemonic = "spider winter settle slow cereal decorate math peace whisper sport stone limb";

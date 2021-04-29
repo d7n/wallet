@@ -1,1 +1,1 @@
-var mnemonic = "fury village fiction arena adapt relief clap stand pigeon eight tiger diet";
+var mnemonic = "save cup sheriff reopen wash rare kite race concert essay damp hockey";

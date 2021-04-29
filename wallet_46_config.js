@@ -1,1 +1,1 @@
-var mnemonic = "news chair dutch zero expire top obtain usual spend shoulder false crane";
+var mnemonic = "vanish robust position grape bar learn pool master exotic very custom gospel";

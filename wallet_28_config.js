@@ -1,1 +1,1 @@
-var mnemonic = "hidden rapid camp scheme away truck silver toss round buddy room hurt";
+var mnemonic = "question animal same raw tattoo analyst elder stock ahead fruit chuckle pink";

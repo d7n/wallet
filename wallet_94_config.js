@@ -1,1 +1,1 @@
-var mnemonic = "heavy guess worth answer naive alcohol gun odor saddle garbage wonder welcome";
+var mnemonic = "object pink student mixed mention tribe alpha key style fee alter repeat";

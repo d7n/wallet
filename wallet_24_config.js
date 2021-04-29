@@ -1,1 +1,1 @@
-var mnemonic = "capable venture paddle cloud arrow pen smart visa claw nose oxygen save";
+var mnemonic = "stairs child frost peasant delay axis cost enough hedgehog ostrich genre answer";

@@ -1,1 +1,1 @@
-var mnemonic = "list state board alcohol business alarm crisp board screen opinion thumb original";
+var mnemonic = "truth force search input liar parade deliver digital impose tennis object fetch";

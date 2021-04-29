@@ -1,1 +1,1 @@
-var mnemonic = "renew obtain phone soon risk shadow what fall fine acquire champion rural";
+var mnemonic = "okay mother solid outside firm legal initial garden captain off where session";

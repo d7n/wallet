@@ -1,1 +1,1 @@
-var mnemonic = "gas panel run worry hire own gesture erosion tilt radio current item";
+var mnemonic = "cliff face original below typical decorate orphan enter gadget enjoy length grace";

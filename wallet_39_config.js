@@ -1,1 +1,1 @@
-var mnemonic = "oven priority habit degree disagree pair surface chronic fine faint grow busy";
+var mnemonic = "borrow evil middle deny mushroom portion strategy announce giant river admit swallow";

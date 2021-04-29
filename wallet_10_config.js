@@ -1,1 +1,1 @@
-var mnemonic = "height forget bottom lizard good couch step plastic pottery camp swift swallow";
+var mnemonic = "hole unhappy spring slow box crawl snap organ poverty lecture tower dynamic";

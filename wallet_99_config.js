@@ -1,1 +1,1 @@
-var mnemonic = "brass brief pattern coyote become cinnamon witness symptom gadget actress deer hole";
+var mnemonic = "address fashion toilet buzz together dentist gesture juice race depend remember bacon";

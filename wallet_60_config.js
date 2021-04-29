@@ -1,1 +1,1 @@
-var mnemonic = "kid hobby cactus execute inner point soul lawn exact garment garlic book";
+var mnemonic = "parade large slight success space sentence vapor mountain sunny celery name armed";

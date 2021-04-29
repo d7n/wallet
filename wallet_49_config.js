@@ -1,1 +1,1 @@
-var mnemonic = "fall use about march defy age exist room luggage ride purse thunder";
+var mnemonic = "enact journey antenna horse solution six castle august alarm picture swim garment";

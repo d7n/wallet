@@ -1,1 +1,1 @@
-var mnemonic = "across gravity race wolf spring blind nominee lecture quality turn arrest robot";
+var mnemonic = "girl coin calm comic inflict foster develop library access vapor rack keen";

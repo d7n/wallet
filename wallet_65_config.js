@@ -1,1 +1,1 @@
-var mnemonic = "else cement style sport club siege blur ankle yard project garbage erode";
+var mnemonic = "speed amount glue february tragic dinner universe answer stage skill include egg";

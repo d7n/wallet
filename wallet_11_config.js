@@ -1,1 +1,1 @@
-var mnemonic = "spare outdoor kangaroo token kick spray gym carry sniff material column pattern";
+var mnemonic = "female story provide drama mesh acoustic staff coil better hedgehog video material";

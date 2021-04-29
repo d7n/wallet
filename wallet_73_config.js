@@ -1,1 +1,1 @@
-var mnemonic = "weasel spoil winner believe sauce tape supply strategy scene tube music total";
+var mnemonic = "walnut area estate frequent alien demand animal donor legal surround kangaroo oxygen";

@@ -1,1 +1,1 @@
-var mnemonic = "bind uniform spy front require shove round verb one area open wagon";
+var mnemonic = "claim three doctor maid detail brief museum diagram wait between lock walk";

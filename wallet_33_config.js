@@ -1,1 +1,1 @@
-var mnemonic = "kid opinion return valve trade column immense barrel quit like ugly ship";
+var mnemonic = "damp modify crane under fix pill room siege equip snap cattle crouch";

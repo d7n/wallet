@@ -1,1 +1,1 @@
-var mnemonic = "flame slush universe gym hero toward shed scissors organ install possible small";
+var mnemonic = "trigger body census slice neither flat amused mail swim choice view motion";

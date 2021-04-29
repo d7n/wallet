@@ -1,1 +1,1 @@
-var mnemonic = "rotate alley hold december congress lyrics three figure tent sport fury setup";
+var mnemonic = "jealous hard advice cheese march picnic thank rival filter road benefit mammal";

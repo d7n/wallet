@@ -1,1 +1,1 @@
-var mnemonic = "crater certain width section merit pepper negative roast digital mosquito there spike";
+var mnemonic = "detect school smile physical rail measure giant athlete oak wine space genius";

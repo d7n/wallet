@@ -1,1 +1,1 @@
-var mnemonic = "various fit liar genius grow luxury capital sibling slim mechanic steel derive";
+var mnemonic = "dry chalk step hidden dismiss scrap tell cram equip train disagree rocket";

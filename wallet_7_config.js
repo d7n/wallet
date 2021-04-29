@@ -1,1 +1,1 @@
-var mnemonic = "movie armed soap result this derive movie remain camera lucky citizen add";
+var mnemonic = "admit shoulder bright actor noble valve must fancy stool ticket public rally";

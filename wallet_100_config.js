@@ -1,1 +1,1 @@
-var mnemonic = "oven friend tongue able bachelor ketchup cost portion field trap order caught";
+var mnemonic = "blossom surprise destroy bundle feature lesson boring vapor eternal alcohol reopen repair";

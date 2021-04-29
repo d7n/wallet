@@ -1,1 +1,1 @@
-var mnemonic = "wealth begin pole island donkey purity worry when judge orange salon scrub";
+var mnemonic = "awful talk absent arrow little chalk cloth crater please animal summer behind";

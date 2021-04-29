@@ -1,1 +1,1 @@
-var mnemonic = "tonight deposit rifle pepper margin motor other safe brief deliver ugly curious";
+var mnemonic = "pulse idea remain about zone link actual evoke gather survey photo party";

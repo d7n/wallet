@@ -1,1 +1,1 @@
-var mnemonic = "hover fuel title glimpse rhythm feed mind engine flash shop host hazard";
+var mnemonic = "biology remember broken edge ribbon tomato relief firm parent time useful daughter";

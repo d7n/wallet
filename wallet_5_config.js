@@ -1,1 +1,1 @@
-var mnemonic = "toe crop ocean try color main need hurdle margin interest manage derive";
+var mnemonic = "bus inmate room labor save pledge antenna world drama cabin eager describe";

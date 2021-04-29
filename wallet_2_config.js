@@ -1,1 +1,1 @@
-var mnemonic = "move hip trap stuff fox cloud fresh tunnel beach test rely they";
+var mnemonic = "theory ivory elegant afraid leg master all run pigeon exact adult tenant";

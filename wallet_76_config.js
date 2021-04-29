@@ -1,1 +1,1 @@
-var mnemonic = "average jazz author notice avocado escape sauce bracket artwork reopen antique list";
+var mnemonic = "panda heavy rebel actress laundry warm sunset canal release frown jump name";

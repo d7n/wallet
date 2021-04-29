@@ -1,1 +1,1 @@
-var mnemonic = "involve neglect crush stuff razor jacket avoid pilot cousin day degree play";
+var mnemonic = "control skull crunch supreme bargain win guess despair vital junior asset travel";

@@ -1,1 +1,1 @@
-var mnemonic = "alert flame fan aerobic squirrel cloud buzz cheap empower pelican video pizza";
+var mnemonic = "knee verb record satisfy promote bundle live april broken loan blame retire";

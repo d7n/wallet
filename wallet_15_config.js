@@ -1,1 +1,1 @@
-var mnemonic = "earth abstract like such offer require bone sound exit story blouse destroy";
+var mnemonic = "drum miss private brief crucial able wear buyer spell bitter arrange enemy";

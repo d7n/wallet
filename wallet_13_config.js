@@ -1,1 +1,1 @@
-var mnemonic = "holiday short stone warm pretty garden wonder cherry beyond acoustic voyage layer";
+var mnemonic = "entire mechanic bean prepare draft vendor original announce perfect sick drink burger";

@@ -1,1 +1,1 @@
-var mnemonic = "hockey bubble level evil tell wisdom marine allow select huge peasant hockey";
+var mnemonic = "glad coffee autumn husband ticket guide enrich castle strong depend fashion cook";

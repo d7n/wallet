@@ -1,1 +1,1 @@
-var mnemonic = "soft fetch wild marine position hill seed seven layer stone afraid trick";
+var mnemonic = "toast advice pudding pyramid collect various elevator chase evil grab sunset rose";

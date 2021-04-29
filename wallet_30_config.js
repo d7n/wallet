@@ -1,1 +1,1 @@
-var mnemonic = "youth phrase kite enrich silver mutual laptop mask pottery couple toilet evidence";
+var mnemonic = "logic sweet option aerobic depart tortoise initial cat same quick review crazy";

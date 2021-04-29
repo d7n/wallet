@@ -1,1 +1,1 @@
-var mnemonic = "awkward victory goat law joke veteran seat grit update journey buyer mixed";
+var mnemonic = "math turn south income tonight include midnight butter job piece wrap police";

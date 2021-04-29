@@ -1,1 +1,1 @@
-var mnemonic = "foot spike frequent rate half spider maid space off chair solution infant";
+var mnemonic = "mystery raise drama fire ring execute laptop melt crawl cereal announce decline";
