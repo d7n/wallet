@@ -1,1 +1,1 @@
-var mnemonic = "orange illness toy safe badge adapt north mix equal quit ignore stick";
+var mnemonic = "jazz enact rescue spawn opinion floor vital utility armed advance giggle machine";

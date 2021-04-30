@@ -1,1 +1,1 @@
-var mnemonic = "script sense result edit erupt issue enemy alarm nest want eternal crowd";
+var mnemonic = "you undo physical survey charge local unfair pencil tent section august flat";

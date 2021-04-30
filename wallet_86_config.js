@@ -1,1 +1,1 @@
-var mnemonic = "weird picnic wisdom fever hero wonder bind tackle document exchange language method";
+var mnemonic = "remember lobster ostrich glimpse december adapt danger connect deposit foam laugh churn";

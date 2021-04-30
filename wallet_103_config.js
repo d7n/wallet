@@ -1,1 +1,1 @@
-var mnemonic = "laundry now input helmet endless chat guard trip guess avocado taxi blade";
+var mnemonic = "step visa canal step mercy amount merry achieve joy hero divorce negative";

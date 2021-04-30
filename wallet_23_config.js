@@ -1,1 +1,1 @@
-var mnemonic = "rather gather eye salon daughter potato nothing alert worry spirit wink work";
+var mnemonic = "cradle soft drift dance diet hobby chunk diesel bench toward scissors strong";

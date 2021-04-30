@@ -1,1 +1,1 @@
-var mnemonic = "unlock sniff clean noble library drastic arrive forest pitch any noble bone";
+var mnemonic = "nurse entire brain identify blanket gadget account below horn blind code negative";

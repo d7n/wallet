@@ -1,1 +1,1 @@
-var mnemonic = "hello shine myth spawn cupboard loan foster dignity tomorrow neither convince cycle";
+var mnemonic = "uniform exact tiny oak crumble gaze coffee slide alcohol hundred mosquito turkey";

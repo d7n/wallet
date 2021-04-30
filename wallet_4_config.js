@@ -1,1 +1,1 @@
-var mnemonic = "harvest wine stereo web describe occur wreck unfold alley coffee catch lunar";
+var mnemonic = "feed arm legend people jar sad loan fan struggle crime kiss horn";

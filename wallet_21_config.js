@@ -1,1 +1,1 @@
-var mnemonic = "siren water void survey sock cloud because cruise chair quote simple slow";
+var mnemonic = "warm dolphin payment girl modify patrol achieve fiction fresh cram skate business";

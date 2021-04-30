@@ -1,1 +1,1 @@
-var mnemonic = "skate canal sauce route junk panic satoshi emotion skate total hat music";
+var mnemonic = "thank tip object impact boring combine rally west submit guess truly buyer";

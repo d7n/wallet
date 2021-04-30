@@ -1,1 +1,1 @@
-var mnemonic = "thunder race glimpse leisure stage anxiety choose flavor series rough praise manual";
+var mnemonic = "waste afford curve very fluid return mass retire local stove rally soldier";

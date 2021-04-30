@@ -1,1 +1,1 @@
-var mnemonic = "eager above glide trend ethics amount journey stamp donkey later mean city";
+var mnemonic = "priority cable task apart slogan open damage exile flush panel enemy badge";

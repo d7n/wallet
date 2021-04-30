@@ -1,1 +1,1 @@
-var mnemonic = "settle route inflict cost mansion afford giraffe capable knee glimpse sample fire";
+var mnemonic = "any barely engine lamp panic kitten harbor loyal sunny unable list live";

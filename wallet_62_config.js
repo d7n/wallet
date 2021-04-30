@@ -1,1 +1,1 @@
-var mnemonic = "ceiling mixture angry region piano improve symbol canvas member sign beauty stable";
+var mnemonic = "glory elephant night merry foam scale guilt surprise fiscal shaft farm wide";

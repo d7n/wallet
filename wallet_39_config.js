@@ -1,1 +1,1 @@
-var mnemonic = "expand share addict twelve sadness patrol cruel damage great harbor cool scorpion";
+var mnemonic = "alter song tag pill secret damage vapor release oak lounge spirit sword";

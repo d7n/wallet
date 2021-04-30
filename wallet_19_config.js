@@ -1,1 +1,1 @@
-var mnemonic = "ginger purse measure cricket soda frost history admit click check kit gaze";
+var mnemonic = "monster tattoo test spoil way build club engage invite garden float best";

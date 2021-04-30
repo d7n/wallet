@@ -1,1 +1,1 @@
-var mnemonic = "again title jelly year book sure record coach apple put atom loyal";
+var mnemonic = "shine wear cram radar stereo pony credit glass leave cute rebel foil";

@@ -1,1 +1,1 @@
-var mnemonic = "way height today crash disorder keep between polar involve elder promote hole";
+var mnemonic = "blade run fresh wild rib best hat calm oblige final candy average";

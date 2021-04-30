@@ -1,1 +1,1 @@
-var mnemonic = "crew hill vehicle party stove hole identify small reward layer either wrestle";
+var mnemonic = "badge ocean dune inform dash upper media lecture easy utility space keep";

@@ -1,1 +1,1 @@
-var mnemonic = "math coconut title autumn receive destroy humble flee forward job gain strike";
+var mnemonic = "hurry minimum cage glove derive question bubble welcome weasel slam dust under";

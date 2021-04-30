@@ -1,1 +1,1 @@
-var mnemonic = "scissors east soccer embark mother magnet budget index then august supreme soccer";
+var mnemonic = "taxi match steel uncover scare bunker fix later all rent swamp actress";

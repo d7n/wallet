@@ -1,1 +1,1 @@
-var mnemonic = "sheriff crater vendor giggle eager entire cook winner reunion result lazy amount";
+var mnemonic = "equal hidden title rib praise ladder define medal ordinary later just what";

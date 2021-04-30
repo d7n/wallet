@@ -1,1 +1,1 @@
-var mnemonic = "notice spawn rabbit nephew feel dignity current delay knife stone skirt sure";
+var mnemonic = "plastic script alcohol pupil armor rally please donor rescue ankle end fancy";

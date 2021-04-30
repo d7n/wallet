@@ -1,1 +1,1 @@
-var mnemonic = "monkey unaware robot crystal knife lunar pizza swarm donor twist vacant spike";
+var mnemonic = "dolphin limit work again boss matrix moment size donor armed riot method";

@@ -1,1 +1,1 @@
-var mnemonic = "neutral infant volcano sorry finger flip nothing burst property cradle clown ice";
+var mnemonic = "often amused citizen acid rebel veteran float shoe toilet open oblige poem";

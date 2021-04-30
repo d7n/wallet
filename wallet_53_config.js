@@ -1,1 +1,1 @@
-var mnemonic = "reunion beyond broom amateur nerve spoil shadow dog crop neutral there faith";
+var mnemonic = "speed oppose utility whisper spice dream cinnamon coast output maximum vast essay";

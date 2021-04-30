@@ -1,1 +1,1 @@
-var mnemonic = "print neglect voyage truth accident swamp pepper chicken enlist misery gloom beauty";
+var mnemonic = "vendor prize memory teach pledge dove into heavy act vintage marble trade";

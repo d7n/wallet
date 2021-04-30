@@ -1,1 +1,1 @@
-var mnemonic = "bunker black dad wing bind detail begin season rely impulse endless transfer";
+var mnemonic = "system vehicle tell village wasp oil key tattoo profit during crumble funny";

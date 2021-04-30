@@ -1,1 +1,1 @@
-var mnemonic = "decline alert simple daring tooth truck throw guitar version must copy huge";
+var mnemonic = "empower cactus athlete mule dress resource lion rabbit bubble laundry aim spoil";

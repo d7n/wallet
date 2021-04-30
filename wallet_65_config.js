@@ -1,1 +1,1 @@
-var mnemonic = "wool crime october blur seminar trip grunt assist open poet twelve shed";
+var mnemonic = "border scissors answer history crime basket sponsor coil salt silver drill enough";

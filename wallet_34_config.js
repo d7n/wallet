@@ -1,1 +1,1 @@
-var mnemonic = "orchard harsh sheriff control spoon express salad medal adapt narrow beauty claim";
+var mnemonic = "aware better final scan domain harbor foot rely attract decline guide mom";

@@ -1,1 +1,1 @@
-var mnemonic = "cheap heavy enroll panel post online correct blood genius casino recycle keep";
+var mnemonic = "rhythm hard unable avoid pyramid fly sleep flee penalty viable page fashion";

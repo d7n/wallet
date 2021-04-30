@@ -1,1 +1,1 @@
-var mnemonic = "pig youth diamond quarter demand picnic frost soul better boat asset word";
+var mnemonic = "mad science ask keen flower like saddle brave rebuild stand member under";

@@ -1,1 +1,1 @@
-var mnemonic = "manual able bottom calm funny fiber subject region chase home pudding drive";
+var mnemonic = "wonder tattoo era chief can stumble couple flight jeans cart economy switch";

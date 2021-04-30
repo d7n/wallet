@@ -1,1 +1,1 @@
-var mnemonic = "abandon sleep they badge joy want valley blossom adult rose dry avoid";
+var mnemonic = "affair uncle guilt sphere motor sleep curtain draft poem hole pizza arrow";

@@ -1,1 +1,1 @@
-var mnemonic = "panic pond allow metal wire trophy climb bread chapter diesel reduce slight";
+var mnemonic = "clap disease execute cream dream high dismiss hand stomach orient lucky crash";

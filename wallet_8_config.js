@@ -1,1 +1,1 @@
-var mnemonic = "cloth soldier bicycle vague shine square pledge supreme scene great monitor caution";
+var mnemonic = "kite arch swing enact pepper around smart uniform gown pear wide mesh";

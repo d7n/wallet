@@ -1,1 +1,1 @@
-var mnemonic = "weapon either pet message help budget mix trend sure bid stock lake";
+var mnemonic = "south metal this pulse odor budget weekend law sunset width divert pig";

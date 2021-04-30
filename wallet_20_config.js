@@ -1,1 +1,1 @@
-var mnemonic = "resemble film hip invest add fragile recipe denial bracket evolve room brief";
+var mnemonic = "boat inmate moral upper surge affair table accident manual trumpet skull wild";

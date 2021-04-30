@@ -1,1 +1,1 @@
-var mnemonic = "problem gain camera victory cradle year initial link very furnace tunnel symbol";
+var mnemonic = "fan boost vintage wood gift flash connect decrease social turkey pitch order";

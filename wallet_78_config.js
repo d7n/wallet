@@ -1,1 +1,1 @@
-var mnemonic = "submit detail duck chaos camp conduct banana another check roast mass chunk";
+var mnemonic = "satoshi gravity cabin evolve know object exotic ginger truly taxi athlete hotel";

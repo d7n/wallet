@@ -1,1 +1,1 @@
-var mnemonic = "apart giant main fault music catch color ankle myself story helmet bone";
+var mnemonic = "lake leader today force pulse maple lock camp chunk year shiver social";

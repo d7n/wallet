@@ -1,1 +1,1 @@
-var mnemonic = "dynamic all roof animal hunt garlic burger black action vintage enlist chuckle";
+var mnemonic = "wagon creek arctic crater age chief orient upset ski razor law pair";

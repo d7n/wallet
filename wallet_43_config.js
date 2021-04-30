@@ -1,1 +1,1 @@
-var mnemonic = "soul nuclear proof scatter million identify reopen curious top edge large infant";
+var mnemonic = "wheat similar upper close flat unlock poverty about ten popular doll better";

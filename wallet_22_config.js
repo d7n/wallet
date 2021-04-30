@@ -1,1 +1,1 @@
-var mnemonic = "wrestle author desk crystal dog naive cement stock fun few wealth fly";
+var mnemonic = "multiply lecture once myself upon normal hotel music peasant clever hip trumpet";

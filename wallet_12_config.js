@@ -1,1 +1,1 @@
-var mnemonic = "essence oil hollow second nerve program delay pizza then bike truly picture";
+var mnemonic = "area hire absorb salt bleak ivory skull still mosquito program talent stumble";

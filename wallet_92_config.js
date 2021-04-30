@@ -1,1 +1,1 @@
-var mnemonic = "spirit liar found adapt popular idle capital digital attract arm swallow genuine";
+var mnemonic = "hotel infant head lunar neutral immune sudden purse just theme oil decline";

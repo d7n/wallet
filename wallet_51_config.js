@@ -1,1 +1,1 @@
-var mnemonic = "woman medal want pulse element around cool predict escape child any fitness";
+var mnemonic = "excess abstract sustain science tennis bamboo hamster gold nice keep riot satoshi";

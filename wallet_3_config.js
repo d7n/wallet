@@ -1,1 +1,1 @@
-var mnemonic = "ivory crane tragic civil health happy dignity dune drill chicken glory material";
+var mnemonic = "senior view target retreat light detail inmate depart immune recipe usual start";

@@ -1,1 +1,1 @@
-var mnemonic = "sadness seed swing strike stem tissue around spawn universe select shoot chat";
+var mnemonic = "expand vanish rebuild carbon jaguar catch exact wink october glimpse eager bounce";

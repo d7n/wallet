@@ -1,1 +1,1 @@
-var mnemonic = "sadness seed agree doctor boost auction virtual fit license joke pole detect";
+var mnemonic = "mask crumble brick few invite virtual allow alcohol mammal obey belt ozone";

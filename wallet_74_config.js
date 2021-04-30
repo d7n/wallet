@@ -1,1 +1,1 @@
-var mnemonic = "custom cabbage clump orbit orbit okay actress yard draft question note benefit";
+var mnemonic = "rack afraid bachelor axis speed hazard gift capital relax dash three cattle";

@@ -1,1 +1,1 @@
-var mnemonic = "kingdom suit evidence cook honey notice congress happy mutual pulse question farm";
+var mnemonic = "enjoy shrug radio energy normal student plastic tree frog sheriff stem claim";

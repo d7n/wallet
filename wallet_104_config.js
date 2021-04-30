@@ -1,1 +1,1 @@
-var mnemonic = "require east kidney chest thing rare grit session culture web oblige novel";
+var mnemonic = "denial camp blind extra gauge album street snap bitter code trumpet matrix";

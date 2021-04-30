@@ -1,1 +1,1 @@
-var mnemonic = "drink silver add bar wealth possible strategy water purity post brown odor";
+var mnemonic = "tiger blouse lottery race witness fringe play bench raw sponsor unable stumble";

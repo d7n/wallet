@@ -1,1 +1,1 @@
-var mnemonic = "wood element humble tumble around device unfair vapor trick lumber detail isolate";
+var mnemonic = "zebra run game rich swift talent champion make legal fringe debris sick";

@@ -1,1 +1,1 @@
-var mnemonic = "arena pudding quarter begin choose they dirt minor want nut scare burden";
+var mnemonic = "exile mix tissue play hollow appear slogan betray belt flat hero bread";

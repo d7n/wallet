@@ -1,1 +1,1 @@
-var mnemonic = "laugh special baby math charge rookie music hire salon bridge false rapid";
+var mnemonic = "melody budget shaft base mouse travel term clutch coil car pond check";

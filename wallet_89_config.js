@@ -1,1 +1,1 @@
-var mnemonic = "forum discover dial blade also job place face universe galaxy peanut brush";
+var mnemonic = "patient spoon artefact glance they wrist clay cake assist elegant clarify best";

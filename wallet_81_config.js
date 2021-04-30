@@ -1,1 +1,1 @@
-var mnemonic = "quit toss hurry blue sun mix earn else very gorilla kingdom hat";
+var mnemonic = "quiz oyster cake honey steel bicycle pyramid ignore regret junior letter broom";

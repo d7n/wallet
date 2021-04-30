@@ -1,1 +1,1 @@
-var mnemonic = "action victory tone scrub voice burden horror check image reform merit capable";
+var mnemonic = "pledge tissue naive axis wrong grant oyster glare dutch alien stumble firm";

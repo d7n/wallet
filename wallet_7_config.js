@@ -1,1 +1,1 @@
-var mnemonic = "abstract used erupt birth report monitor custom glow pattern arena city calm";
+var mnemonic = "pencil mango purse rural fringe ten soft depth couch cradle cable canyon";

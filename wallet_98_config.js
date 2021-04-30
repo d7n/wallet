@@ -1,1 +1,1 @@
-var mnemonic = "weird index bicycle wife vocal cupboard water cram win wool tilt display";
+var mnemonic = "immune lock emotion subject crash pledge degree mimic bridge there furnace oil";

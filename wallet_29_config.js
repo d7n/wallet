@@ -1,1 +1,1 @@
-var mnemonic = "winter tonight agent ecology shallow oil jewel mobile dynamic cool name sweet";
+var mnemonic = "hole rice ocean scrub lemon heavy correct fade have next couch brush";

@@ -1,1 +1,1 @@
-var mnemonic = "orchard peace motion fetch pledge alert tip test design front gauge survey";
+var mnemonic = "annual fatal burden local bounce ethics pipe arch example park pulp science";

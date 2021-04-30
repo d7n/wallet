@@ -1,1 +1,1 @@
-var mnemonic = "point hundred punch other lawsuit angry true hundred chalk swim rural multiply";
+var mnemonic = "hockey city awful speak inmate pave laptop since obtain romance apple cactus";

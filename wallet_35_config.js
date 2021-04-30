@@ -1,1 +1,1 @@
-var mnemonic = "core banana taste pet raw change tornado fog control sphere fetch option";
+var mnemonic = "hurdle drop catch outside farm yard black rigid chaos shoulder sudden sight";

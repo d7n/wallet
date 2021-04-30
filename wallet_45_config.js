@@ -1,1 +1,1 @@
-var mnemonic = "reunion rely share unit repair wall shiver business note what marble half";
+var mnemonic = "question meadow connect box great treat embody miracle acoustic pig legal region";

@@ -1,1 +1,1 @@
-var mnemonic = "animal hood bean excess spare orchard village ceiling junior toddler lava grape";
+var mnemonic = "define radio vague already tide castle truck material clarify draw tumble verb";

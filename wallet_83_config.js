@@ -1,1 +1,1 @@
-var mnemonic = "accident foot swift doctor gesture front charge real rotate nasty royal symptom";
+var mnemonic = "gasp double like apology assume bind legal waste fly vague business excess";

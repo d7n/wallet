@@ -1,1 +1,1 @@
-var mnemonic = "soda lottery defy imitate owner tip uncle vast swap stay violin about";
+var mnemonic = "dumb artist range satisfy stereo ridge unknown hobby state easily meat rotate";

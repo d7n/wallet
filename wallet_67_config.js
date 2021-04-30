@@ -1,1 +1,1 @@
-var mnemonic = "grain tattoo bird dumb fat inherit erosion word round cool basket target";
+var mnemonic = "talk caught pause flock juice rice assist poet display sudden unit burger";

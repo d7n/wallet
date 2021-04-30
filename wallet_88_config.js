@@ -1,1 +1,1 @@
-var mnemonic = "sign pioneer situate practice matrix unaware strategy tenant excuse sea liquid bottom";
+var mnemonic = "tattoo bacon dutch doll during gun april frame minute frame gauge pear";

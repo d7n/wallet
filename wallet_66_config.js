@@ -1,1 +1,1 @@
-var mnemonic = "enable spell weasel hub model drink capable act minute hair hunt draw";
+var mnemonic = "asset spell friend tail glare super describe milk mango weapon nephew sunset";

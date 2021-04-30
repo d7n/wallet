@@ -1,1 +1,1 @@
-var mnemonic = "recall swallow appear gospel nerve stone execute glory cigar junior fruit coast";
+var mnemonic = "year rifle glove fish grocery twice project inherit myself daring subject arctic";

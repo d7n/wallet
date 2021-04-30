@@ -1,1 +1,1 @@
-var mnemonic = "theory note corn salmon champion mixed mushroom world degree memory animal clinic";
+var mnemonic = "marble entire autumn output picnic play shallow wool settle apology borrow dial";

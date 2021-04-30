@@ -1,1 +1,1 @@
-var mnemonic = "three rebuild cream menu portion expand cave flush cart short illegal proud";
+var mnemonic = "grit alter thunder genius cluster situate satoshi reflect afford future piano oak";

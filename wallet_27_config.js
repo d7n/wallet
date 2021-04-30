@@ -1,1 +1,1 @@
-var mnemonic = "orient change novel fruit giant south cat glass mouse rival math moon";
+var mnemonic = "perfect ghost unfold fat duck embark undo they lamp unlock goose food";

@@ -1,1 +1,1 @@
-var mnemonic = "panel minute blossom surge consider bike under manage orchard motor cattle trim";
+var mnemonic = "loop buffalo scale say major nut dolphin hand kingdom need rebuild typical";

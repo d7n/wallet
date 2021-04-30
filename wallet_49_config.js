@@ -1,1 +1,1 @@
-var mnemonic = "swap addict upper ignore maximum catalog version judge bounce envelope auto phrase";
+var mnemonic = "report day lazy bench transfer finish elevator poet switch party question page";

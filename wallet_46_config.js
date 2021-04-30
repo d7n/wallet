@@ -1,1 +1,1 @@
-var mnemonic = "exile gather umbrella either average charge sock kitchen stereo thing broken model";
+var mnemonic = "spy topple update frozen run supreme stone staff only size giggle keep";

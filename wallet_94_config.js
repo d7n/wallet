@@ -1,1 +1,1 @@
-var mnemonic = "wire lonely eager catalog word token column blouse sense canyon peace woman";
+var mnemonic = "pact agree whale monkey rocket sibling mistake sight false reject soldier bike";

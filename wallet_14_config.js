@@ -1,1 +1,1 @@
-var mnemonic = "scale cradle comic chicken drip village party shield fame fall pluck nerve";
+var mnemonic = "divorce beach exhaust junior quick crowd basic elephant gesture recipe swing cake";

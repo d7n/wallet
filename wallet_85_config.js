@@ -1,1 +1,1 @@
-var mnemonic = "minimum bird clutch spare tent poverty author bargain sense forget list chronic";
+var mnemonic = "boss endorse coyote praise shift note payment uncle simple hello sun omit";

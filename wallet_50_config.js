@@ -1,1 +1,1 @@
-var mnemonic = "busy glue finger timber arrow position wine pattern street guard job family";
+var mnemonic = "broken suggest ribbon health rack future fiction issue churn trend alone car";

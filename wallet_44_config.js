@@ -1,1 +1,1 @@
-var mnemonic = "choose squeeze track holiday wood tennis job supply wealth century sleep ring";
+var mnemonic = "decorate tooth field method speak ball chase pony scare orient identify merge";

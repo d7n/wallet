@@ -1,1 +1,1 @@
-var mnemonic = "hip pulse polar alpha welcome slim dynamic ecology size casual carry nasty";
+var mnemonic = "ball conduct joke galaxy market half invite boat inch object tissue polar";

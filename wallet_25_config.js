@@ -1,1 +1,1 @@
-var mnemonic = "piano drum rug team dog usual flavor adapt mixture rescue brown luxury";
+var mnemonic = "improve fly hotel write pelican expire tone sea almost obvious nerve they";

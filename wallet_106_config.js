@@ -1,1 +1,1 @@
-var mnemonic = "observe polar dwarf original butter welcome oxygen monster dog report weather choose";
+var mnemonic = "poverty impulse bike armed apart filter company swap satisfy eager any duck";

@@ -1,1 +1,1 @@
-var mnemonic = "width example disagree faith aim raven food observe jacket satisfy arrive belt";
+var mnemonic = "lyrics burden predict average bottom boost clay such fabric scorpion message sketch";

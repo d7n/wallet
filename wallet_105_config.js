@@ -1,1 +1,1 @@
-var mnemonic = "glance away ginger ring enact type game neck oak candy magnet gasp";
+var mnemonic = "enemy evil stereo rigid similar check trend cherry habit hill idle helmet";

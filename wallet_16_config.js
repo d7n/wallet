@@ -1,1 +1,1 @@
-var mnemonic = "topic chuckle slogan peasant cabbage false cancel fire alarm business column proud";
+var mnemonic = "leaf science category sign course aspect plastic despair stairs large priority exit";

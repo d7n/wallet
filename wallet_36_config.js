@@ -1,1 +1,1 @@
-var mnemonic = "remain fortune crew strong leaf toward olympic load silver march custom narrow";
+var mnemonic = "unknown round height despair forum sell stereo amateur hair coach stay cruel";

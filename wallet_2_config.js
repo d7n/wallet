@@ -1,1 +1,1 @@
-var mnemonic = "pear absurd inner album rare actress keen shoot alpha finish furnace shrimp";
+var mnemonic = "skate winner bench coyote economy help team heavy like hire nice boring";
