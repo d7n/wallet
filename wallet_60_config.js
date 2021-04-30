@@ -1,1 +1,1 @@
-var mnemonic = "excuse expand topic myth leg crawl birth area feature attend home then";
+var mnemonic = "day trigger lock phone elephant frequent random blind marine high parrot combine";

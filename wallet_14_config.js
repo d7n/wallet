@@ -1,1 +1,1 @@
-var mnemonic = "aisle armor clever extra apology marriage like tribe impulse hour ability right";
+var mnemonic = "spice local curve awful service order pottery math today embody demise earth";

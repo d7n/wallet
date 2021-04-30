@@ -1,1 +1,1 @@
-var mnemonic = "enable owner chase total agent track isolate demand metal rubber before girl";
+var mnemonic = "robot avocado rifle clean top stomach blush force faint edge length love";

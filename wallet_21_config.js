@@ -1,1 +1,1 @@
-var mnemonic = "cereal shield tattoo ketchup wedding maid choose bamboo satisfy clarify leopard increase";
+var mnemonic = "kangaroo second size cannon educate clarify select elbow spot impact panther poet";

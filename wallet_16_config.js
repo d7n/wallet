@@ -1,1 +1,1 @@
-var mnemonic = "leg lonely settle social have kangaroo coin ahead return warfare junk index";
+var mnemonic = "assume grape medal stand update tired staff crisp current view liberty record";

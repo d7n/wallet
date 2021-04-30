@@ -1,1 +1,1 @@
-var mnemonic = "surge across moral genius ski toast ill about loyal open habit shadow";
+var mnemonic = "torch ship monster afraid curtain gesture camera high local town obscure tornado";

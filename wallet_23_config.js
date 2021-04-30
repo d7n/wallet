@@ -1,1 +1,1 @@
-var mnemonic = "history useful adapt dwarf sustain prepare armor program coral arrange save taxi";
+var mnemonic = "session coffee tired loyal orient convince fish amount flip hundred raccoon jealous";

@@ -1,1 +1,1 @@
-var mnemonic = "future useless alpha nominee balcony remove enter core tray person midnight sport";
+var mnemonic = "bargain utility trigger monster nominee wear episode hub zoo purchase police wolf";

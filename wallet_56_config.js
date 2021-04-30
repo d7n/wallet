@@ -1,1 +1,1 @@
-var mnemonic = "improve tenant awkward put grant misery liberty spring task rule bus render";
+var mnemonic = "room advance borrow shrug thank wish very elevator excess quote clean switch";

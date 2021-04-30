@@ -1,1 +1,1 @@
-var mnemonic = "dawn nest worry step reward envelope town loop betray eternal resource spare";
+var mnemonic = "second combine day wrestle sign patrol slide topple group poverty apart inject";

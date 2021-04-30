@@ -1,1 +1,1 @@
-var mnemonic = "hole original abuse kidney wise blanket cancel inherit survey erosion humor bus";
+var mnemonic = "used matrix fly clarify maple always collect giraffe cradle inspire coin fine";

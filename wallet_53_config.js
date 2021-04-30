@@ -1,1 +1,1 @@
-var mnemonic = "behave spell essence stereo depend palace argue split black exercise ivory office";
+var mnemonic = "fit rule because term grit desk animal arrow ice shell art diesel";

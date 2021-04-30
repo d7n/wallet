@@ -1,1 +1,1 @@
-var mnemonic = "level knee assume gesture day wrestle acquire step kidney blouse quarter bicycle";
+var mnemonic = "demand feel grape knee fish income half toddler urge human bamboo impact";

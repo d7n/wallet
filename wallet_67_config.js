@@ -1,1 +1,1 @@
-var mnemonic = "fatigue service miss reflect tube coach project clean pupil rigid foot child";
+var mnemonic = "reward vacant boost duty junk tuna apple glance step melody maple adult";

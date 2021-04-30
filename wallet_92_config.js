@@ -1,1 +1,1 @@
-var mnemonic = "change such absent bike enroll pig view ankle dilemma obvious garbage carpet";
+var mnemonic = "short edge weapon where mix crater spider together obey garbage leaf finger";

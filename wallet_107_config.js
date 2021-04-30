@@ -1,1 +1,1 @@
-var mnemonic = "melt sniff physical safe weird process barrel cave hint sad rule chef";
+var mnemonic = "soul trend promote rail someone table pole glimpse insect host poem frost";

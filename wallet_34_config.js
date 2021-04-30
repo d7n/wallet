@@ -1,1 +1,1 @@
-var mnemonic = "refuse poverty ice room dose struggle fiscal perfect surface again core forget";
+var mnemonic = "virus worth weapon dutch shield guilt height boss snap retreat loyal violin";

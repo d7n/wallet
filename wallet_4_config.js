@@ -1,1 +1,1 @@
-var mnemonic = "blanket riot grocery flag wagon dose web choice tissue woman cram marriage";
+var mnemonic = "elegant chase awful clinic pill become theme army staff room gift galaxy";

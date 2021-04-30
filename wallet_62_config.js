@@ -1,1 +1,1 @@
-var mnemonic = "youth again upgrade school head swift alley poet uphold tower silver mushroom";
+var mnemonic = "recall genre humble suffer insect direct car apology extra erase ethics palm";

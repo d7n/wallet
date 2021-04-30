@@ -1,1 +1,1 @@
-var mnemonic = "rubber isolate patient anger wage joy august leave area guess wreck expose";
+var mnemonic = "range toward insane crane story eternal submit already grace eye foot dry";

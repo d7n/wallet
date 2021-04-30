@@ -1,1 +1,1 @@
-var mnemonic = "flee canyon onion morning honey sadness bike item exhaust world vintage toilet";
+var mnemonic = "hamster embody valid legal brush enter coyote exit soon shoe finish polar";

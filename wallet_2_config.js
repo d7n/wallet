@@ -1,1 +1,1 @@
-var mnemonic = "soda two load day outdoor gun muscle debate ask surround aspect nominee";
+var mnemonic = "social message place eyebrow couple assist tower sign subject call gate equip";

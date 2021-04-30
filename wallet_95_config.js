@@ -1,1 +1,1 @@
-var mnemonic = "mystery okay elevator ability oak gravity garlic wave evidence exist dream twin";
+var mnemonic = "praise lobster buddy type power genre clerk shove attitude badge mad wife";

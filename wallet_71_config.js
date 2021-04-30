@@ -1,1 +1,1 @@
-var mnemonic = "action rather autumn wait decrease jazz feed ramp glad car seat kid";
+var mnemonic = "virtual squirrel bright miss venue crack seminar phrase ensure clip ask curious";

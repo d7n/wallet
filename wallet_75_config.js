@@ -1,1 +1,1 @@
-var mnemonic = "aspect obtain ocean logic swap course tilt conduct theme casino inmate blind";
+var mnemonic = "wish second swear note hunt motion forum ostrich concert expose cost coast";

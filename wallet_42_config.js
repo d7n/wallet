@@ -1,1 +1,1 @@
-var mnemonic = "repair stairs shoot across plunge attack usage mixed guitar roof digital essence";
+var mnemonic = "leg enlist exhaust episode devote gadget evil blush object post depth amazing";

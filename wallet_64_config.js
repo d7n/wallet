@@ -1,1 +1,1 @@
-var mnemonic = "wedding maple loop cupboard fame gentle answer accuse poet sock motion conduct";
+var mnemonic = "blur tongue load square fee unveil kit oval leisure hurdle digital camera";

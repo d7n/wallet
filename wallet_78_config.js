@@ -1,1 +1,1 @@
-var mnemonic = "immune bounce garden shy prevent champion merry olympic violin decade fragile goose";
+var mnemonic = "negative bird embrace eager rack refuse faculty arena diesel van junk ride";

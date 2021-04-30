@@ -1,1 +1,1 @@
-var mnemonic = "damage under chief purse flip tray come fall adult omit vicious dentist";
+var mnemonic = "daughter melody order hole end lucky rice note skate slim rabbit vivid";

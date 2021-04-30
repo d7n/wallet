@@ -1,1 +1,1 @@
-var mnemonic = "opinion happy setup flavor parade example ladder rigid adapt fancy jealous notable";
+var mnemonic = "ignore cable wife silent chapter lemon fold borrow oak woman wrap among";

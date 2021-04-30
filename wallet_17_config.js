@@ -1,1 +1,1 @@
-var mnemonic = "thank coast coil enter cheap analyst fox sport tower cancel impact denial";
+var mnemonic = "relax fruit release decade atom bounce faint proof wealth matter tray violin";

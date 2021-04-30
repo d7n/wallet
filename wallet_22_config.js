@@ -1,1 +1,1 @@
-var mnemonic = "horror funny until wet trim reject inflict dad shine bamboo discover hair";
+var mnemonic = "dolphin tool cradle sponsor note sniff lyrics enforce maze leisure engage tail";

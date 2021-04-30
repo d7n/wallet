@@ -1,1 +1,1 @@
-var mnemonic = "van armed comfort believe biology rely predict drift coral security post blast";
+var mnemonic = "scale educate wall view burden flash label duty between coast fine wheel";

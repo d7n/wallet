@@ -1,1 +1,1 @@
-var mnemonic = "decade fiction lens more rookie year excess tip orchard situate grid poem";
+var mnemonic = "ribbon bleak feed patrol ladder health girl glory kitchen problem document sad";

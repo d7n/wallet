@@ -1,1 +1,1 @@
-var mnemonic = "weather top sword game jaguar skin slim task peace renew curious fire";
+var mnemonic = "genuine venue kitchen nut pelican pride high behind again maid segment strategy";

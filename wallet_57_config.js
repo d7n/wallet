@@ -1,1 +1,1 @@
-var mnemonic = "double auto another scale vessel enough tiny phrase music announce pattern tone";
+var mnemonic = "unhappy domain angry echo clerk one child hurry scene large rose can";

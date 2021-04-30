@@ -1,1 +1,1 @@
-var mnemonic = "clever quality congress eager under must ensure pupil host prepare knife abuse";
+var mnemonic = "grant amount champion liar cherry assume obscure into grief grant follow move";

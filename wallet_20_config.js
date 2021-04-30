@@ -1,1 +1,1 @@
-var mnemonic = "bachelor eyebrow ripple scheme fish blush law zoo curious kiwi mother gather";
+var mnemonic = "talk kitten shop foam couple dry blush sadness window review exhibit start";

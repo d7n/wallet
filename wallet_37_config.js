@@ -1,1 +1,1 @@
-var mnemonic = "annual train elbow gravity banner citizen stove worry clump glare body claw";
+var mnemonic = "amused march chimney armed suggest caution solve correct best pencil basic unhappy";

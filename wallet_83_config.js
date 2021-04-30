@@ -1,1 +1,1 @@
-var mnemonic = "thunder galaxy access zoo egg loud result salon color floor bicycle execute";
+var mnemonic = "cargo upper office horn loud shield subject zone rescue utility inhale draft";

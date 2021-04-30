@@ -1,1 +1,1 @@
-var mnemonic = "black hole toward group wreck soft elbow salute arrest genuine piece trial";
+var mnemonic = "palace bonus theme novel chest wolf blood fatal casino reunion can sunset";

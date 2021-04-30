@@ -1,1 +1,1 @@
-var mnemonic = "dance hello century fiscal speak spring panel fiscal noble amused act core";
+var mnemonic = "kite quiz cluster attack sock memory staff december during type top raw";

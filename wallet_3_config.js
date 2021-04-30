@@ -1,1 +1,1 @@
-var mnemonic = "express kick ignore fame pool position priority talent hybrid hair stick marine";
+var mnemonic = "olive praise gallery ribbon heavy oxygen link stick live depth raven mansion";

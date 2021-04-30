@@ -1,1 +1,1 @@
-var mnemonic = "spawn perfect entire crack exotic lawsuit angry tonight gym bargain arch trouble";
+var mnemonic = "gym frost zoo sock remove sting hundred puzzle rhythm brass tell depend";

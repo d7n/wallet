@@ -1,1 +1,1 @@
-var mnemonic = "claim feel resist budget army source scorpion jacket monitor silly rich room";
+var mnemonic = "where load rookie state nose annual vacuum place lady twin whisper modify";

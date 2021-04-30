@@ -1,1 +1,1 @@
-var mnemonic = "monitor illness lift gadget picnic warrior helmet snap bonus bundle immune mixture";
+var mnemonic = "detail whale cancel fatal rack fame day wide myth portion dune pelican";

@@ -1,1 +1,1 @@
-var mnemonic = "know glass gallery mad guitar space sustain trap refuse rifle fossil speed";
+var mnemonic = "thumb donate police donkey mass quality explain text unaware basic hold old";

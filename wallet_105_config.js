@@ -1,1 +1,1 @@
-var mnemonic = "girl teach work length cruel broken crop marriage charge market wealth improve";
+var mnemonic = "kiss swear ocean wrist reflect buzz business credit eager cage program leader";

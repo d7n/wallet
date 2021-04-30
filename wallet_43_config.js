@@ -1,1 +1,1 @@
-var mnemonic = "disagree venture treat lens employ car run because blossom direct divorce burden";
+var mnemonic = "ozone summer cake pelican mail swim oblige seek ozone boring drink moral";

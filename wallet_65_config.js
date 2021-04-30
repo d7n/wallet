@@ -1,1 +1,1 @@
-var mnemonic = "wait wave first boring layer bacon junk fabric inner amazing useless pupil";
+var mnemonic = "rule build typical dumb casino grow carry depth abstract crawl piano embrace";

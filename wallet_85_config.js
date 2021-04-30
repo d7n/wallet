@@ -1,1 +1,1 @@
-var mnemonic = "sugar rebel web heart claim basket oven repeat nothing raccoon muscle relief";
+var mnemonic = "phrase need shoe sustain warfare gloom install news language similar outside arch";

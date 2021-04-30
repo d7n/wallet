@@ -1,1 +1,1 @@
-var mnemonic = "soda ignore narrow that viable illegal riot pool dune dawn dad unit";
+var mnemonic = "hope banana slice midnight nasty coral sand basket plug garment way wrist";

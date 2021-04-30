@@ -1,1 +1,1 @@
-var mnemonic = "bubble wink foam monkey apology category hub air satoshi cradle omit era";
+var mnemonic = "accident rebuild insane essence glory usage tenant switch point nominee piece this";

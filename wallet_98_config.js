@@ -1,1 +1,1 @@
-var mnemonic = "talk marine engine wash father example fold slice bomb strategy matrix street";
+var mnemonic = "promote popular sugar smooth prize relief success fitness toy warrior vital outer";

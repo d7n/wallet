@@ -1,1 +1,1 @@
-var mnemonic = "occur vicious moral theme name cousin flat bridge shaft donate leopard host";
+var mnemonic = "advice pipe slam final destroy midnight sentence tone trade tortoise case soldier";

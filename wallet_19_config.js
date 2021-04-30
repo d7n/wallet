@@ -1,1 +1,1 @@
-var mnemonic = "shadow cliff still height walnut mountain amazing label add leg market common";
+var mnemonic = "path wealth refuse depth tackle hundred comic dance churn blouse outdoor alien";

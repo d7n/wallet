@@ -1,1 +1,1 @@
-var mnemonic = "sleep more suggest saddle toast room almost bike tone portion giggle shift";
+var mnemonic = "strong furnace derive husband pattern main lumber glide top wink pumpkin vivid";

@@ -1,1 +1,1 @@
-var mnemonic = "clown crawl person tragic include actual memory rookie egg innocent husband wise";
+var mnemonic = "work depth disorder uphold length chicken country wife toy they news garment";

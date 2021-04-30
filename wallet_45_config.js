@@ -1,1 +1,1 @@
-var mnemonic = "hen seminar reflect pool dial field elegant salt tonight debate enough tag";
+var mnemonic = "tragic glue save urge exit because candy napkin actual two blast episode";

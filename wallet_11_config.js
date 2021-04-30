@@ -1,1 +1,1 @@
-var mnemonic = "vague banner census fiber tortoise flavor long boy spike bulk hamster devote";
+var mnemonic = "cute luxury plunge female anxiety marine mango exile gauge daughter bachelor infant";

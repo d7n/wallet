@@ -1,1 +1,1 @@
-var mnemonic = "pool exotic hammer asthma inside exist shy unlock demise drill creek issue";
+var mnemonic = "bullet hotel useless junior machine tobacco father parrot permit exact math old";

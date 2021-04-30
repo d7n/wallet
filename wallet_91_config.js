@@ -1,1 +1,1 @@
-var mnemonic = "floor outdoor program gesture ridge album rhythm inflict pet apart final pride";
+var mnemonic = "crystal surge number coffee horn next orange devote neck sponsor mass crack";

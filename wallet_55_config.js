@@ -1,1 +1,1 @@
-var mnemonic = "embrace garment rack spoil fragile inquiry cycle bar strike goat arch wave";
+var mnemonic = "game program race parrot cargo erode draw match write marriage sting analyst";

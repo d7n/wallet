@@ -1,1 +1,1 @@
-var mnemonic = "peanut boat ahead about elephant border elite demand helmet amount oyster grow";
+var mnemonic = "cake pink ripple judge release ghost corn embrace love note stuff usage";

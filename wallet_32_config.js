@@ -1,1 +1,1 @@
-var mnemonic = "hello snack magic harbor wild foam average lab vendor match hill cancel";
+var mnemonic = "wheel canoe practice theme neutral jar bulk abandon item inspire pond knife";

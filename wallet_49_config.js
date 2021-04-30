@@ -1,1 +1,1 @@
-var mnemonic = "alone train move among unique blame hire box frame derive purpose student";
+var mnemonic = "master disorder actual impose media air true aware alone oven balcony solid";

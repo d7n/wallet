@@ -1,1 +1,1 @@
-var mnemonic = "glove loud page strategy edge special female one student ribbon wash december";
+var mnemonic = "over mix claw memory twin pizza acoustic six minor dignity half walnut";

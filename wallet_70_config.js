@@ -1,1 +1,1 @@
-var mnemonic = "awful quarter start settle gap gaze song soup youth good cycle cigar";
+var mnemonic = "fox dinner tongue seek present impose polar fat capital cash topple panther";

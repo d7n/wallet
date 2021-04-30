@@ -1,1 +1,1 @@
-var mnemonic = "pipe protect scout use north sunny leave square endless pattern immense tissue";
+var mnemonic = "edge rare melt job mad increase sniff advice upset three cram equal";

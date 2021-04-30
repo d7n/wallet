@@ -1,1 +1,1 @@
-var mnemonic = "renew good radar border hard wear expose hungry crunch dash clinic arena";
+var mnemonic = "false business monster noodle indicate endless wine tumble salmon syrup goddess story";

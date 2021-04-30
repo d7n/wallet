@@ -1,1 +1,1 @@
-var mnemonic = "office must couch warrior tongue resource power rare embody balance flip refuse";
+var mnemonic = "path engine above great dune chase sad member tobacco ranch dune unit";

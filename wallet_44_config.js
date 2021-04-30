@@ -1,1 +1,1 @@
-var mnemonic = "spatial believe usual beach kit trial fantasy vanish ribbon boss disagree april";
+var mnemonic = "uphold practice spider quiz jaguar sheriff card smart vital injury quality boring";

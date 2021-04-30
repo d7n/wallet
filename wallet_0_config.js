@@ -1,1 +1,1 @@
-var mnemonic = "maximum during ankle diamond term ice point boss fabric idle fetch divorce";
+var mnemonic = "live alpha tennis hint antique dream rice cancel awful ketchup steak joke";

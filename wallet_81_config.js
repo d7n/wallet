@@ -1,1 +1,1 @@
-var mnemonic = "pupil venture mix rabbit battle they critic cluster thrive cover protect few";
+var mnemonic = "six spring sweet jump fringe glare demise market potato seven margin settle";

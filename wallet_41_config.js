@@ -1,1 +1,1 @@
-var mnemonic = "enjoy correct liquid rely link lottery dizzy draft final thunder welcome sight";
+var mnemonic = "food leg top lab frost face indicate reduce goddess perfect upper jealous";

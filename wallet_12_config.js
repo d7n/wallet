@@ -1,1 +1,1 @@
-var mnemonic = "rude example ladder risk over stereo pumpkin novel rival achieve ready quiz";
+var mnemonic = "reason arch height decline chaos prevent inspire army shrimp notable yellow piano";

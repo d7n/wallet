@@ -1,1 +1,1 @@
-var mnemonic = "duck average vast volcano like isolate bone allow shrimp enrich enough worth";
+var mnemonic = "day soccer bracket pause broccoli muscle network slice noble gym give ship";

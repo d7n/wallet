@@ -1,1 +1,1 @@
-var mnemonic = "cigar flock caution photo room donor maximum twenty relax fuel like oil";
+var mnemonic = "output trumpet venture average pledge swarm bring oven dawn lunar butter eternal";

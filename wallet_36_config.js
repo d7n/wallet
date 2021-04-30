@@ -1,1 +1,1 @@
-var mnemonic = "trigger consider shield page wrong genius assist usage benefit cart exist bless";
+var mnemonic = "embrace knee expose health foot combine become enrich south catalog foster provide";

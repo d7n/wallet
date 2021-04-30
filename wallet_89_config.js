@@ -1,1 +1,1 @@
-var mnemonic = "wrestle wash muscle kick orient tumble talk smart build shaft grid kidney";
+var mnemonic = "version lonely cruel grid clean upset tell pet stamp few junk turkey";

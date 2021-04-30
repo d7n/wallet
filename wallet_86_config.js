@@ -1,1 +1,1 @@
-var mnemonic = "person century bus side mixture capable found erase grunt tail unit slim";
+var mnemonic = "alcohol virtual science cash pen believe naive debate vendor tornado exotic cattle";

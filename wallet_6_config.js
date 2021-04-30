@@ -1,1 +1,1 @@
-var mnemonic = "rabbit boost cement damage lecture salad pilot sea scorpion awesome enrich stereo";
+var mnemonic = "album length mask undo kite monster wolf erase host bus seat nasty";

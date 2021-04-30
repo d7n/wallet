@@ -1,1 +1,1 @@
-var mnemonic = "kid system sauce purse still sad critic oval athlete seek congress animal";
+var mnemonic = "pig crop boat demise output youth control father fragile eyebrow story border";

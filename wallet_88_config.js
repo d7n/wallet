@@ -1,1 +1,1 @@
-var mnemonic = "harsh gadget close inherit abandon planet foot cotton culture autumn brisk often";
+var mnemonic = "siege giant sword category affair syrup glove couple select much urban frog";

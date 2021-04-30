@@ -1,1 +1,1 @@
-var mnemonic = "coast top keen worth suit swallow usage vapor street salute fabric dinosaur";
+var mnemonic = "canyon push inch puppy office moral athlete mesh arrive toward economy keep";

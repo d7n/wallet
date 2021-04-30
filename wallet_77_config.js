@@ -1,1 +1,1 @@
-var mnemonic = "draw bonus toast pause result nest arrest fuel gun bring ready crucial";
+var mnemonic = "jar intact maid village enact bitter veteran analyst vanish you eye keen";

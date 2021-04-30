@@ -1,1 +1,1 @@
-var mnemonic = "wrestle length amused twice hollow trap rookie major essence giant outer twenty";
+var mnemonic = "sound air purchase limit pulp join someone hub short easily gate raccoon";

@@ -1,1 +1,1 @@
-var mnemonic = "sport meadow fog drum head future cigar recipe raise cage essence negative";
+var mnemonic = "start course taste filter ethics under pumpkin click choose search emotion goddess";

@@ -1,1 +1,1 @@
-var mnemonic = "hip shiver famous crucial receive zone snap life doll mom grape timber";
+var mnemonic = "input use palace curious nominee snake apology adapt appear square mushroom thunder";

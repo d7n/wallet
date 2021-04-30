@@ -1,1 +1,1 @@
-var mnemonic = "cactus drum penalty crunch bag rain sure nerve milk patch reopen canyon";
+var mnemonic = "donor must solution fetch garden feature shoulder accident crater pattern royal device";

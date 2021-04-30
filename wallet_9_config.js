@@ -1,1 +1,1 @@
-var mnemonic = "rack grit range divide curtain marriage vicious lunar shadow tenant ranch olive";
+var mnemonic = "axis glare stairs evolve final sweet proud oxygen trick chalk tiger wagon";

@@ -1,1 +1,1 @@
-var mnemonic = "power memory spice input bird borrow clerk fork manual wagon leader width";
+var mnemonic = "require gain pipe oxygen amazing mammal trim never fiscal resist aware acoustic";

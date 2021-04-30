@@ -1,1 +1,1 @@
-var mnemonic = "myth trade faculty friend melt drill trap swing squeeze birth drip toilet";
+var mnemonic = "tortoise immense valid bean coconut boss clap anxiety because cart quit food";

@@ -1,1 +1,1 @@
-var mnemonic = "convince dance quarter crack cherry room increase parade chaos pig plate cannon";
+var mnemonic = "suit pass thank citizen cost forum hurry tissue garbage bundle genuine farm";

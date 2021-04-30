@@ -1,1 +1,1 @@
-var mnemonic = "year quote setup later pony have camp gap theme bargain nuclear twelve";
+var mnemonic = "wage exercise echo horn hockey silly fiscal fog merge meat later member";

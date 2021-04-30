@@ -1,1 +1,1 @@
-var mnemonic = "crumble steak produce inch onion patch rubber remain sponsor caution color emerge";
+var mnemonic = "october fetch proud bleak appear text under balcony betray blush prefer bulb";
