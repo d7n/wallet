@@ -1,1 +1,1 @@
-var mnemonic = "kite north blue crane pipe venture mercy aisle pluck crash grass toe";
+var mnemonic = "time skill olympic jazz flush clinic crack sand crack shock pretty dune";

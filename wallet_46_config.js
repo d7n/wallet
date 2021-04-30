@@ -1,1 +1,1 @@
-var mnemonic = "voyage scout curious enlist grab swallow protect congress utility urge roast absurd";
+var mnemonic = "candy merit menu tool bunker stuff dance rate avoid black clarify art";

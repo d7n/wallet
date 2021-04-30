@@ -1,1 +1,1 @@
-var mnemonic = "jaguar glimpse summer eager film stock strike answer winner proof deer soccer";
+var mnemonic = "defy horn bonus upset clarify road author replace light wheat congress pond";

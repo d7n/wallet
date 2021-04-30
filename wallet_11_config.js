@@ -1,1 +1,1 @@
-var mnemonic = "stone economy fortune top math mixture hire furnace hospital february moon health";
+var mnemonic = "nest drastic ship rain exclude twelve potato blind usage orbit zero fee";

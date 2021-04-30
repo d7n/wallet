@@ -1,1 +1,1 @@
-var mnemonic = "addict hobby athlete endless transfer slab page matter vacuum marine absurd settle";
+var mnemonic = "eagle drama champion play list powder crater crack hurdle vast govern bubble";

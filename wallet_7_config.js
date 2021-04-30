@@ -1,1 +1,1 @@
-var mnemonic = "virus upper maximum target whale trim setup add find client tilt alien";
+var mnemonic = "feel pink poverty lemon fatigue sister follow inquiry canal fashion author aunt";

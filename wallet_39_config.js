@@ -1,1 +1,1 @@
-var mnemonic = "permit clinic harsh coconut draw sweet title vocal bunker aspect ginger very";
+var mnemonic = "scare ticket cross liquid excuse wash stage senior measure biology guard common";

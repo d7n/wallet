@@ -1,1 +1,1 @@
-var mnemonic = "urban wall much present wide bring device among match roast horror address";
+var mnemonic = "small hunt above vicious flag hobby rubber ketchup spoon dash vanish clock";

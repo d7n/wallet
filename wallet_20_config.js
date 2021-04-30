@@ -1,1 +1,1 @@
-var mnemonic = "broom spider beauty near cause rib melt dinner dignity tomorrow warrior tattoo";
+var mnemonic = "shine lucky undo almost angry spread load duck display family knee rocket";

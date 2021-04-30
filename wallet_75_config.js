@@ -1,1 +1,1 @@
-var mnemonic = "private cheap motor frost accident parade husband industry leave antique shrimp spoil";
+var mnemonic = "damage civil electric trophy cluster visit easy cabbage rubber grape tape meat";

@@ -1,1 +1,1 @@
-var mnemonic = "genius place urban curve dolphin mad elder found velvet uniform guess rebel";
+var mnemonic = "such ketchup nasty fix allow owner enable cabbage blush you suffer jealous";

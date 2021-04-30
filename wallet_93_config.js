@@ -1,1 +1,1 @@
-var mnemonic = "layer sugar athlete melt join fetch way inner super build sheriff skull";
+var mnemonic = "marble trust slender logic cluster ceiling broom reason bubble defy endless name";

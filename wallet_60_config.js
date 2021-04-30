@@ -1,1 +1,1 @@
-var mnemonic = "stem sentence clerk rescue damage security better ecology upset security fluid educate";
+var mnemonic = "safe soft ordinary rely hurdle earth tell distance survey energy spread kiss";

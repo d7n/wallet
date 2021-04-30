@@ -1,1 +1,1 @@
-var mnemonic = "naive behave final salad walk idle media scare marine pride slam among";
+var mnemonic = "world hammer day waste flavor corn peace excuse winter visa analyst mixture";

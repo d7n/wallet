@@ -1,1 +1,1 @@
-var mnemonic = "tell spike spell wear above start property tattoo insect lounge text equip";
+var mnemonic = "ranch involve leaf reopen fantasy inflict mistake cement female treat attend dial";

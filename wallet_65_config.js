@@ -1,1 +1,1 @@
-var mnemonic = "doctor ozone goose slam scorpion stable inherit huge record ridge caught slide";
+var mnemonic = "monster nasty entire elegant raven current hero feed special pear blouse frequent";

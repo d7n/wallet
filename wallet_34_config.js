@@ -1,1 +1,1 @@
-var mnemonic = "unfold basic case monster day stomach spy express eager oak forward donate";
+var mnemonic = "save force purpose boring record patrol find liar forest eight dry holiday";

@@ -1,1 +1,1 @@
-var mnemonic = "cheese more resource smile elbow hour scene sample uphold anchor endless smart";
+var mnemonic = "police crunch glory warrior truly draft build engine barrel benefit smart fossil";

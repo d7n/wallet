@@ -1,1 +1,1 @@
-var mnemonic = "vote income rapid system marine stone chuckle mirror auto cluster craft boss";
+var mnemonic = "decade quit witness sleep cigar pull exchange cheese super immense remind bind";

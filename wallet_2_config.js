@@ -1,1 +1,1 @@
-var mnemonic = "pepper turn curve ignore where angle replace seed axis snack meat grow";
+var mnemonic = "trim clutch kit extend park merit flee stay sail mystery print shop";

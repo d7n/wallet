@@ -1,1 +1,1 @@
-var mnemonic = "come uncle you exhaust unknown uncle someone moon beyond govern cage soda";
+var mnemonic = "guide naive will labor flee impact essay brisk sniff sign comic glass";

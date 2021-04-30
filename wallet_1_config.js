@@ -1,1 +1,1 @@
-var mnemonic = "alien route zone purpose win coffee jaguar pact seek midnight bunker zebra";
+var mnemonic = "fun gym arrow grocery head parade impulse gravity profit valley liberty raise";

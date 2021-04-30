@@ -1,1 +1,1 @@
-var mnemonic = "heart borrow become impose lend bridge silver receive neglect dog clarify music";
+var mnemonic = "actor mushroom march broken receive icon please virtual release yellow situate bacon";

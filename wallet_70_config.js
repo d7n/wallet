@@ -1,1 +1,1 @@
-var mnemonic = "monster stick curve table model rigid oblige better wheel abstract stable life";
+var mnemonic = "duty asset absorb clutch method hidden size blood truth face tell climb";

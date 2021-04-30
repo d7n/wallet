@@ -1,1 +1,1 @@
-var mnemonic = "casual aware crucial engine climb focus entire twelve gym spy romance grocery";
+var mnemonic = "parent job noodle polar outdoor gossip phone recipe bicycle rifle force chief";

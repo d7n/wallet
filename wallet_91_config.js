@@ -1,1 +1,1 @@
-var mnemonic = "capital frozen dog endless pull budget eyebrow action suffer toddler cake sound";
+var mnemonic = "steel pigeon title bus thunder useless uphold early suffer artefact pistol claim";

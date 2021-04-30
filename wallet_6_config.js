@@ -1,1 +1,1 @@
-var mnemonic = "october bunker physical correct orient sorry oval tongue labor laundry glide olympic";
+var mnemonic = "master spice message story hobby vital spice sleep cute burden domain leopard";

@@ -1,1 +1,1 @@
-var mnemonic = "promote hockey rent verify reflect napkin enter concert horn defense skin slice";
+var mnemonic = "december aunt fold since bulk uncle symbol theory broom fringe debris floor";

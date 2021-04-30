@@ -1,1 +1,1 @@
-var mnemonic = "govern impulse hover issue double spare violin cream attract health crack plug";
+var mnemonic = "digital pattern setup bring bunker guide mobile hamster ethics daring license surround";

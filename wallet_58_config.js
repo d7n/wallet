@@ -1,1 +1,1 @@
-var mnemonic = "adapt name filter arena excuse stone next math quarter air earn wrap";
+var mnemonic = "job chunk gain chunk deny void sign liar awake leaf speak toward";

@@ -1,1 +1,1 @@
-var mnemonic = "cigar hospital laundry fluid entire timber swarm prevent tag rhythm peasant bulk";
+var mnemonic = "convince reopen educate atom danger gun device never wish hint entire ancient";

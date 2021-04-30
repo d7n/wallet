@@ -1,1 +1,1 @@
-var mnemonic = "clock trial push island swamp coral invest crane flag fix pair hurry";
+var mnemonic = "holiday ticket whale dinner dignity finish silver filter play bitter talk make";

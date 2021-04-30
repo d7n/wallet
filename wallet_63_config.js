@@ -1,1 +1,1 @@
-var mnemonic = "situate regular sport essence inch correct grass polar finish rebuild other exile";
+var mnemonic = "spin false tree unlock chef blind wine base episode history level reject";

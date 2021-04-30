@@ -1,1 +1,1 @@
-var mnemonic = "setup rare mad remember twelve truth hint category social snake firm catch";
+var mnemonic = "session genuine forest clarify frog when screen dog pledge mercy inject write";

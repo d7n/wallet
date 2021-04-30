@@ -1,1 +1,1 @@
-var mnemonic = "tooth slush behave announce damage puzzle orchard rubber faith network special boring";
+var mnemonic = "zoo daring fog fancy mandate topple rack analyst retreat twice front shy";

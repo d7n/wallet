@@ -1,1 +1,1 @@
-var mnemonic = "decorate daughter cigar online fossil sure control quote issue sign ribbon foam";
+var mnemonic = "start sausage reflect aerobic ozone bargain pear next evolve address hurry rain";

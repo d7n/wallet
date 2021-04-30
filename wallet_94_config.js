@@ -1,1 +1,1 @@
-var mnemonic = "sail slender oak belt tonight street jar banner gallery case upset what";
+var mnemonic = "lottery dream update solve lemon boost cinnamon veteran another weekend number finger";

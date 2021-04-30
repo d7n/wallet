@@ -1,1 +1,1 @@
-var mnemonic = "blue recycle arrange acquire umbrella donkey author improve mirror tray whisper glue";
+var mnemonic = "hand seminar fine ill rabbit subject stand pizza calm body salt era";

@@ -1,1 +1,1 @@
-var mnemonic = "dirt moral stable trip viable attend pond century announce swing hawk adjust";
+var mnemonic = "prize oak door science accuse fat slide smile twelve answer muscle heavy";

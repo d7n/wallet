@@ -1,1 +1,1 @@
-var mnemonic = "private explain lady group shallow heavy lamp member art execute box relax";
+var mnemonic = "differ trigger exotic breeze loud away anxiety smooth relax inquiry shrimp moon";

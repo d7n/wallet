@@ -1,1 +1,1 @@
-var mnemonic = "crater slot reject salt smooth present run law friend hurdle derive family";
+var mnemonic = "sunny file quarter weather impact poverty nominee ranch critic fog worry swing";

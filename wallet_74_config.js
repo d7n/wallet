@@ -1,1 +1,1 @@
-var mnemonic = "toddler casino error civil next forget scare original weapon secret brick regret";
+var mnemonic = "gallery please address sketch version dinner width staff coach visual drop surprise";

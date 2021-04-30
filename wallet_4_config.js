@@ -1,1 +1,1 @@
-var mnemonic = "expire punch minute track hybrid view wife inmate cushion grunt budget valid";
+var mnemonic = "parent stairs drum hub window beyond property visa beyond judge document pull";

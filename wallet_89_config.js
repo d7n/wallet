@@ -1,1 +1,1 @@
-var mnemonic = "matter define apology jeans culture settle oyster antique coral track garden large";
+var mnemonic = "easily logic penalty already win opera pluck fun lawsuit engine case ocean";

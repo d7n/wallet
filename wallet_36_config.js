@@ -1,1 +1,1 @@
-var mnemonic = "voice tool skull capable extend final base army recycle sword blast crash";
+var mnemonic = "flag arctic knee inform capital frequent game merry turkey page spatial mask";

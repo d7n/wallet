@@ -1,1 +1,1 @@
-var mnemonic = "exact result pencil close eye kit property aware kiwi average cargo else";
+var mnemonic = "pill soda current whale music jewel stage cube tobacco above circle wood";

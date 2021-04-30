@@ -1,1 +1,1 @@
-var mnemonic = "relax road token clarify alert shoot million visa dismiss happy mesh milk";
+var mnemonic = "relief undo ball enroll that slender tumble chronic exhibit print else sand";

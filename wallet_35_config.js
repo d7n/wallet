@@ -1,1 +1,1 @@
-var mnemonic = "merry crash property cousin flip pave recycle assume swallow common inch joke";
+var mnemonic = "squeeze parade school dance piece dutch wall shoe sting layer alpha inform";

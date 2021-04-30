@@ -1,1 +1,1 @@
-var mnemonic = "topple injury either party axis maple diet spike arrive black visa document";
+var mnemonic = "replace coach purity behave town pledge talent garbage comic fly empty fly";

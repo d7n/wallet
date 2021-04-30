@@ -1,1 +1,1 @@
-var mnemonic = "bridge obey saddle violin shallow oxygen account cat air climb gauge panic";
+var mnemonic = "rookie cabbage eight ill shift blade seminar peasant avoid first quick easy";

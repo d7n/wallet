@@ -1,1 +1,1 @@
-var mnemonic = "base throw vivid south usual airport stuff warrior weekend skill multiply jelly";
+var mnemonic = "vintage warfare such differ use suspect tag you subway daughter excess portion";

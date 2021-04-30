@@ -1,1 +1,1 @@
-var mnemonic = "gun tenant uphold minute sample still slogan romance royal wish glass dizzy";
+var mnemonic = "gun crew ocean goat census lumber park blind area melody toe carpet";

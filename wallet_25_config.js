@@ -1,1 +1,1 @@
-var mnemonic = "good giraffe powder maximum local mistake plate people census cement flee order";
+var mnemonic = "thunder creek behind acquire bulk key zoo artefact cave dragon lyrics subway";

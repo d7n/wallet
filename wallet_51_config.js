@@ -1,1 +1,1 @@
-var mnemonic = "struggle stumble solve head board fresh net blame fiscal nation sudden vault";
+var mnemonic = "this cabin current repair hazard pattern baby buyer chair extra shift future";

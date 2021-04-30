@@ -1,1 +1,1 @@
-var mnemonic = "ranch quick arrive discover inside hero pause fluid bleak hen type pledge";
+var mnemonic = "busy head kite power boss nurse heart breeze error cable biology awful";

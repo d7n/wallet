@@ -1,1 +1,1 @@
-var mnemonic = "name fetch caution wink shallow donkey song salon radar friend afraid next";
+var mnemonic = "clerk amazing kitten fossil invest gown tag release welcome twin swift cup";

@@ -1,1 +1,1 @@
-var mnemonic = "erupt excess cloud phrase accuse wrong opinion great verb length you very";
+var mnemonic = "fantasy task spell buzz member dust pride steak cook dune trick faculty";

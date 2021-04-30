@@ -1,1 +1,1 @@
-var mnemonic = "devote kick bundle rare inherit absent rich rare impulse virus concert exact";
+var mnemonic = "winner manage morning cover shrug buyer seminar pepper response oak shuffle average";

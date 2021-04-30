@@ -1,1 +1,1 @@
-var mnemonic = "glove celery envelope maze entry mixed chief super rather main unable exile";
+var mnemonic = "gown text convince genuine abandon decrease fruit release today camp penalty diesel";

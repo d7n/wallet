@@ -1,1 +1,1 @@
-var mnemonic = "knife fish shove cruise wire gorilla stick close subway trip giant time";
+var mnemonic = "enforce antenna obscure wheat spider next media urban furnace awesome wagon female";

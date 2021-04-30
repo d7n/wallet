@@ -1,1 +1,1 @@
-var mnemonic = "pizza turtle under erosion citizen curious satisfy seminar happy infant best private";
+var mnemonic = "tissue maze wrist subject shove lumber absurd suffer drill term mutual include";

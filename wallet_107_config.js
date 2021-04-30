@@ -1,1 +1,1 @@
-var mnemonic = "skin element laundry edge exotic weasel carry dog false duty require voice";
+var mnemonic = "scene good exhibit baby drift poem law wood broom budget guitar once";

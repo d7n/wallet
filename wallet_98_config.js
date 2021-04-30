@@ -1,1 +1,1 @@
-var mnemonic = "flush core renew keen sort hazard happy dust win nothing seek suspect";
+var mnemonic = "example excuse mandate crucial lizard clean stand clerk bonus alley leader grunt";

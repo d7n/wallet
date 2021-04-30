@@ -1,1 +1,1 @@
-var mnemonic = "settle garage midnight romance become mandate ship lumber track master athlete best";
+var mnemonic = "nut yard vicious feel circle friend bounce stamp spawn cloud wait roof";

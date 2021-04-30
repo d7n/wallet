@@ -1,1 +1,1 @@
-var mnemonic = "voyage bracket shine govern digital stuff input under smooth icon universe rabbit";
+var mnemonic = "stereo clay chase episode lady exact move quick speed fat fresh lava";

@@ -1,1 +1,1 @@
-var mnemonic = "good swallow sweet symbol grace cricket depart interest episode still age rhythm";
+var mnemonic = "embody genuine portion grit toe combine arrest trigger world caution misery rail";

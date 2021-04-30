@@ -1,1 +1,1 @@
-var mnemonic = "tortoise wool gift wet huge dream place critic kingdom spot empty stumble";
+var mnemonic = "aware situate blouse second sound session frame kingdom setup kiwi zoo nasty";

@@ -1,1 +1,1 @@
-var mnemonic = "angry shrimp cupboard crop obvious elegant foster accident sunset path analyst small";
+var mnemonic = "basic enrich jacket success few drama bread kitten bamboo cube daughter uphold";

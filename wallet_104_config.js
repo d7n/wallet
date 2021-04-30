@@ -1,1 +1,1 @@
-var mnemonic = "skull copy crisp style turtle what scrap dismiss win penalty solar dutch";
+var mnemonic = "void jelly shrimp inch enroll desk abuse replace jeans dash jump elephant";

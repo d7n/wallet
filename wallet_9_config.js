@@ -1,1 +1,1 @@
-var mnemonic = "mail plastic random marriage endless biology stamp dentist science peanut twenty peasant";
+var mnemonic = "tower space viable ride chicken winter peasant moral lawn immense error cage";

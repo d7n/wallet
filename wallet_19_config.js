@@ -1,1 +1,1 @@
-var mnemonic = "fix same symbol amazing giggle volcano paper little curtain scout lemon chuckle";
+var mnemonic = "season pluck blush flat use once release bid history cart couch undo";

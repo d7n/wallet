@@ -1,1 +1,1 @@
-var mnemonic = "loud tag scrap initial exist already cabin seek barrel worth visual next";
+var mnemonic = "extra outside result lens issue upon title axis hour useless ecology coconut";

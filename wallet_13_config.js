@@ -1,1 +1,1 @@
-var mnemonic = "curtain you mixed toss sleep ship build burden power public shrimp impose";
+var mnemonic = "mushroom retire occur lava witness improve want suffer flush chest length bid";

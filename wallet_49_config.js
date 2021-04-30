@@ -1,1 +1,1 @@
-var mnemonic = "sketch space balcony survey kidney pyramid arctic clarify yard notice feel brass";
+var mnemonic = "peace brand say method cruise dash require place tissue grace tonight mosquito";

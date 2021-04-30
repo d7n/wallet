@@ -1,1 +1,1 @@
-var mnemonic = "blur fitness word disagree party quote cost virtual people kitten echo erosion";
+var mnemonic = "fame assault fatal onion advice length ignore day awkward faculty camp enable";

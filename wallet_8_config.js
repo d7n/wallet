@@ -1,1 +1,1 @@
-var mnemonic = "lamp bless hospital transfer era wisdom ability muscle sting sick duck aerobic";
+var mnemonic = "job fox crazy record alone metal orange visit under latin knife clerk";

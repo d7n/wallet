@@ -1,1 +1,1 @@
-var mnemonic = "argue cost receive sugar double inject confirm erupt furnace empower quiz bacon";
+var mnemonic = "question exchange course bundle embark ball error stable argue harbor country pass";

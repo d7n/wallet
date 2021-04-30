@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit pen slogan master path garage flight basic uncover muscle outer input";
+var mnemonic = "payment kingdom view merge word vanish shine alley clap lift twice action";

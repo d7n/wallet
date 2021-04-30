@@ -1,1 +1,1 @@
-var mnemonic = "bread toe forum exclude whale climb glue manage inherit casino source ride";
+var mnemonic = "lecture output adapt clerk diet era before alter choose relief wreck busy";

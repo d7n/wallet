@@ -1,1 +1,1 @@
-var mnemonic = "cry moral banner behave river inhale key theme shop town stay castle";
+var mnemonic = "actor need push aunt scan exclude beef tackle solution damp other extra";

@@ -1,1 +1,1 @@
-var mnemonic = "warm scan valve square vintage sea clock letter capable maple escape match";
+var mnemonic = "tumble scan obscure attract swarm merit ride way push illness stove faculty";

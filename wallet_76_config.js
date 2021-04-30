@@ -1,1 +1,1 @@
-var mnemonic = "govern jazz display easy bundle clap model adult slice flight alcohol small";
+var mnemonic = "kitchen pizza mammal seminar later mother stem save file flame velvet remain";

@@ -1,1 +1,1 @@
-var mnemonic = "culture olive oil side fork example donkey want scrap quit thunder like";
+var mnemonic = "hobby success gallery hope observe kidney solid reflect just install mimic daughter";

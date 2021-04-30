@@ -1,1 +1,1 @@
-var mnemonic = "range access document open melody van legend equal wash wrap deliver diary";
+var mnemonic = "icon attack teach moment iron spot stamp behave theme acquire twin donor";

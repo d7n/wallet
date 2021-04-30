@@ -1,1 +1,1 @@
-var mnemonic = "essence travel funny certain fitness exchange private similar approve page menu idle";
+var mnemonic = "olympic update noble easy chaos find flee purity face happy coffee hour";

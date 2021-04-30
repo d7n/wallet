@@ -1,1 +1,1 @@
-var mnemonic = "gown disorder together retire march melody device document recipe faith repeat social";
+var mnemonic = "fame slow industry casino purchase bring index vocal false toy reflect melody";
