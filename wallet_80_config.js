@@ -1,1 +1,1 @@
-var mnemonic = "crisp dynamic stock prevent almost crunch genius rely truth van huge bulb";
+var mnemonic = "obscure bridge sniff muffin reward material medal bulk talent unveil anchor welcome";

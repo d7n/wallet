@@ -1,1 +1,1 @@
-var mnemonic = "bird feel funny mountain nose during educate desk plastic bounce roof clever";
+var mnemonic = "minor kitten poet dune danger toy opera sure actress prosper verb pink";

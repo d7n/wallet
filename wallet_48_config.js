@@ -1,1 +1,1 @@
-var mnemonic = "depth space upgrade piece traffic sound praise lesson absent deal fluid strike";
+var mnemonic = "scissors pluck salon trust weather obscure oyster hollow regret cave alter glance";

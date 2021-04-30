@@ -1,1 +1,1 @@
-var mnemonic = "fault goat topic explain sadness toy joke feel picture palace economy wool";
+var mnemonic = "try act panic slush obtain clarify famous question blame maximum wisdom pond";

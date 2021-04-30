@@ -1,1 +1,1 @@
-var mnemonic = "balcony excess horn lab anger act edge guide end venue federal flame";
+var mnemonic = "wise almost vague coyote midnight cry drastic alley captain bomb spring barrel";

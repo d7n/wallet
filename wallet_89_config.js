@@ -1,1 +1,1 @@
-var mnemonic = "provide marine shoot debate close machine erode coil drink erode myself man";
+var mnemonic = "street guitar head fruit coral matrix loan bottom act badge wait brick";

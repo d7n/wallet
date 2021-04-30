@@ -1,1 +1,1 @@
-var mnemonic = "bike slice choose fork give comic budget minute worry blur recall vivid";
+var mnemonic = "flash unknown theory rely spirit opera start napkin hill ten until traffic";

@@ -1,1 +1,1 @@
-var mnemonic = "force soul sweet satoshi name recall morning toy eagle drive velvet favorite";
+var mnemonic = "bless poem resource genre enemy cloud giant wise tray drop glide tumble";

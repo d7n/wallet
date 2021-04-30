@@ -1,1 +1,1 @@
-var mnemonic = "silly giggle hurt wine butter joke among turn sweet exile fever clutch";
+var mnemonic = "lesson goat plug real renew emerge actor loud rain inner iron wool";

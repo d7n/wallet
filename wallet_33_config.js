@@ -1,1 +1,1 @@
-var mnemonic = "digital give fade battle cushion main riot own toddler dwarf either struggle";
+var mnemonic = "sing glare visual grab census lion help siren minor donor gospel bleak";

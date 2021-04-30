@@ -1,1 +1,1 @@
-var mnemonic = "forum advice badge hobby unusual sponsor tattoo diagram evolve youth attitude extra";
+var mnemonic = "force payment festival initial furnace dose huge announce hurt wild grid daring";

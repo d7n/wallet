@@ -1,1 +1,1 @@
-var mnemonic = "glide until suit detect fan august silly memory paper swear game reopen";
+var mnemonic = "portion bird syrup meat vault boring fall input crop smooth arch venue";

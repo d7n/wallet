@@ -1,1 +1,1 @@
-var mnemonic = "damp cliff state whale six era news call youth jar there change";
+var mnemonic = "dutch conduct attack raw road reunion cotton woman tackle hundred omit olive";

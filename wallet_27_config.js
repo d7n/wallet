@@ -1,1 +1,1 @@
-var mnemonic = "allow vocal hat bone finish cigar during usage client mom return aunt";
+var mnemonic = "flag release attend object suit impulse talent problem barrel love hole hobby";

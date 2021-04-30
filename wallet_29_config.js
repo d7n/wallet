@@ -1,1 +1,1 @@
-var mnemonic = "nut effort staff sentence lesson comic poverty chimney huge people often device";
+var mnemonic = "mask dilemma wink curtain dentist version pulp matrix danger cargo witness cruel";

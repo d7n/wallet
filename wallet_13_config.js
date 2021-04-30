@@ -1,1 +1,1 @@
-var mnemonic = "foot shoulder bone violin key comfort obey retire pink mixed either fix";
+var mnemonic = "hammer grant host know kite dash zebra render undo tired thumb phone";

@@ -1,1 +1,1 @@
-var mnemonic = "eagle engage evolve average blind entire chair all dad name wave resemble";
+var mnemonic = "bike power dial ski ticket tackle forest lamp student rose sphere legend";

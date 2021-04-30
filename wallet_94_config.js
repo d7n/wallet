@@ -1,1 +1,1 @@
-var mnemonic = "add name price secret legal fancy carry vicious turn plug aunt art";
+var mnemonic = "cook region arrow faint riot syrup sock cause tissue exact essence foam";

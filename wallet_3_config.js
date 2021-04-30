@@ -1,1 +1,1 @@
-var mnemonic = "open potato tomorrow bone oyster hat head awesome brother fiber smoke develop";
+var mnemonic = "phrase plug indoor approve rubber corn scatter quarter coast peace layer idea";

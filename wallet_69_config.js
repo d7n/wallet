@@ -1,1 +1,1 @@
-var mnemonic = "airport vast discover spatial obvious paper knee siren acid anxiety aunt blouse";
+var mnemonic = "dinner process mobile topic erupt danger sustain flip spot such air injury";

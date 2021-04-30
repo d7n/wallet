@@ -1,1 +1,1 @@
-var mnemonic = "fold swift jaguar scrap differ knock flash level forum crash feed session";
+var mnemonic = "fetch brief treat smile armed replace cloud chimney gadget next science tape";

@@ -1,1 +1,1 @@
-var mnemonic = "ripple minute daughter tonight feature author picture prepare clump ancient leave barrel";
+var mnemonic = "age shrug joke broccoli key injury soccer erode jacket divert gorilla know";

@@ -1,1 +1,1 @@
-var mnemonic = "paddle economy rare ketchup one enable speed slice knee scrub eager meadow";
+var mnemonic = "sing rebuild team spice mail energy clap pink idea silly crew float";

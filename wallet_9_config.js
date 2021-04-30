@@ -1,1 +1,1 @@
-var mnemonic = "junior clap metal old action sea explain say innocent mesh between cement";
+var mnemonic = "luxury fiction weekend apart filter trim penalty crisp remind disorder glide debate";

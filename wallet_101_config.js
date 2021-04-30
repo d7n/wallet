@@ -1,1 +1,1 @@
-var mnemonic = "animal drift figure reject skirt tank nature utility rabbit work enough sudden";
+var mnemonic = "fiction type nice anger heart diagram pond field never view uncle rate";

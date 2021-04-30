@@ -1,1 +1,1 @@
-var mnemonic = "repeat episode hen anger round soap renew member trend poem receive elevator";
+var mnemonic = "smoke silk maximum opinion clap rapid glad amount witness viable diesel shrug";

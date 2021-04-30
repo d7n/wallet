@@ -1,1 +1,1 @@
-var mnemonic = "chronic vacant bottom fetch scout put narrow solve collect wheel mouse hub";
+var mnemonic = "tool clever fancy empower fatal holiday concert else impulse repair flat tackle";

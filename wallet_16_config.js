@@ -1,1 +1,1 @@
-var mnemonic = "piece mean citizen thunder modify fortune drama trophy health sunset drum day";
+var mnemonic = "couch thunder accident coffee crouch moment minute detect sad never excuse pact";

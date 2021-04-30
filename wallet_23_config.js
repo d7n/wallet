@@ -1,1 +1,1 @@
-var mnemonic = "achieve peasant exclude casino drink phrase silent hurry rotate casual summer dragon";
+var mnemonic = "rocket sphere supreme promote crucial remind mixture hungry feature method boy buyer";

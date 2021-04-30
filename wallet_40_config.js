@@ -1,1 +1,1 @@
-var mnemonic = "slab toilet best fossil verify globe talent float behind promote mirror record";
+var mnemonic = "blast spot expose furnace give carry major improve crunch cannon crawl current";

@@ -1,1 +1,1 @@
-var mnemonic = "dial magic gloom topple flush code burst fit foster blur quick loan";
+var mnemonic = "whale royal later awful supply quit grunt grant walk actual sibling south";

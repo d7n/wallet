@@ -1,1 +1,1 @@
-var mnemonic = "way unknown rhythm resource power crater noise welcome tower arm market trouble";
+var mnemonic = "man transfer bid dutch bench situate climb exile ready clever color unaware";

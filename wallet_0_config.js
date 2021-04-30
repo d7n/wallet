@@ -1,1 +1,1 @@
-var mnemonic = "enable mention screen duty inside attract walk junior soup humor shield buzz";
+var mnemonic = "clutch basket february century anger grace exact buffalo when canvas exist feel";

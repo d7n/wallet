@@ -1,1 +1,1 @@
-var mnemonic = "feature decade patient address yard favorite zebra emerge hair moon impact athlete";
+var mnemonic = "deputy toilet resource whale plate palm amused negative home breeze warrior benefit";

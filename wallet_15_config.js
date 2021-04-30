@@ -1,1 +1,1 @@
-var mnemonic = "mad youth wet silver divide excite clinic winner pupil poet genuine rose";
+var mnemonic = "trick punch lake move stadium width february merge vehicle cloth civil neutral";

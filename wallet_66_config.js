@@ -1,1 +1,1 @@
-var mnemonic = "twin limit dance outside patch avocado measure page myth cushion suffer helmet";
+var mnemonic = "legal hawk end parade analyst seat major sad doll fence bonus timber";

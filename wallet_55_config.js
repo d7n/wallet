@@ -1,1 +1,1 @@
-var mnemonic = "music under surround embrace start slice note unveil actor autumn enemy main";
+var mnemonic = "craft club wasp thing find canyon sphere believe curious abuse broccoli nominee";

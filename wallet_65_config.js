@@ -1,1 +1,1 @@
-var mnemonic = "measure turn enlist first science journey vocal dune elbow slab true rescue";
+var mnemonic = "indicate ranch rally update carbon future pyramid current bubble useless pride achieve";

@@ -1,1 +1,1 @@
-var mnemonic = "section ticket alien cannon blur tackle saddle response float napkin cage tourist";
+var mnemonic = "regret absent monkey device genius dinosaur mosquito correct mixture sugar ozone finger";

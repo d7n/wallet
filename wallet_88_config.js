@@ -1,1 +1,1 @@
-var mnemonic = "destroy identify useful price winter avoid absent hire glide trend arrow firm";
+var mnemonic = "rotate outdoor million victory enact position rural pet person judge sugar know";

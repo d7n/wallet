@@ -1,1 +1,1 @@
-var mnemonic = "spawn face trial warfare polar disagree clip case coconut van slot hunt";
+var mnemonic = "enter struggle version check certain dentist tell early virtual entire assist vital";

@@ -1,1 +1,1 @@
-var mnemonic = "can limb lecture warfare quantum verb injury federal spatial crunch radar skull";
+var mnemonic = "enjoy supply iron exercise choose secret oyster master youth spider super ready";

@@ -1,1 +1,1 @@
-var mnemonic = "kid exit behind decide inflict flash galaxy fuel room empty cinnamon cable";
+var mnemonic = "pride gym embark attend forum ball observe tide congress eyebrow excuse shine";

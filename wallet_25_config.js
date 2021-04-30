@@ -1,1 +1,1 @@
-var mnemonic = "stomach material age join act stand before large reflect enable matrix rail";
+var mnemonic = "wet caught husband six ten dress raise news teach post trial venue";

@@ -1,1 +1,1 @@
-var mnemonic = "valve you craft clinic spirit slush rich science base excess rack cat";
+var mnemonic = "trick eagle price attack chair sing husband stairs turn echo chalk furnace";

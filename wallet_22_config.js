@@ -1,1 +1,1 @@
-var mnemonic = "unlock minimum bulk hill wagon wet quality actual dove tell scorpion lift";
+var mnemonic = "cherry oven oil roast hurdle wild head actual cable session arch enforce";

@@ -1,1 +1,1 @@
-var mnemonic = "crawl motor manual critic jeans wet before cluster army upon need cloud";
+var mnemonic = "confirm bike swamp mammal flight tiny renew since tunnel stem autumn name";

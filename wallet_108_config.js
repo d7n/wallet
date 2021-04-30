@@ -1,1 +1,1 @@
-var mnemonic = "lizard boy industry tomato link they avoid confirm sheriff chase bacon picture";
+var mnemonic = "ozone honey defy bonus shield exchange weird case brass result genre fruit";

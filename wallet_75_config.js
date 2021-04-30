@@ -1,1 +1,1 @@
-var mnemonic = "desert erupt autumn stick neither sugar scan silly woman power deputy hamster";
+var mnemonic = "protect parent bus stock any water pact noodle purity embrace session quick";

@@ -1,1 +1,1 @@
-var mnemonic = "return issue captain sense strike share powder enter air seed ranch famous";
+var mnemonic = "embody october blade extend clay abstract aim manage hello settle cereal marriage";

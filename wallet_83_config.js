@@ -1,1 +1,1 @@
-var mnemonic = "valley size cannon carry march discover endless circle brain traffic deliver trip";
+var mnemonic = "good harsh garlic forum conduct arch dance syrup brick undo wild chaos";

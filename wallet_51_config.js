@@ -1,1 +1,1 @@
-var mnemonic = "rocket tool gun negative bulk useful suggest gaze image jacket obvious capable";
+var mnemonic = "weapon inspire ranch cotton trip deer federal twist depend ensure evil quote";

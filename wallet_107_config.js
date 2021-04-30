@@ -1,1 +1,1 @@
-var mnemonic = "install gate certain siren case soap window wall swap purchase episode spray";
+var mnemonic = "useless hurry need unhappy skin cross burden bring tenant ugly world camp";

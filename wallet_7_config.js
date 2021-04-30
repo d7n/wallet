@@ -1,1 +1,1 @@
-var mnemonic = "breeze lonely credit oak butter until image appear energy vintage giggle release";
+var mnemonic = "detect also scan spend company unlock forget crucial occur neither tail lock";

@@ -1,1 +1,1 @@
-var mnemonic = "furnace pair tone wonder pipe exhaust weird wisdom rude inspire future card";
+var mnemonic = "vault hybrid loop oyster turkey doll rent excuse axis have alert foster";

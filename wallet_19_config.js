@@ -1,1 +1,1 @@
-var mnemonic = "father police car bullet moon express chimney vintage achieve above gauge tail";
+var mnemonic = "bring trip decorate ball affair myth connect paddle inflict soft market notable";

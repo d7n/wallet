@@ -1,1 +1,1 @@
-var mnemonic = "skill bench shine double shaft news adjust toe riot unique sure salmon";
+var mnemonic = "remove mandate cliff polar embark detect pumpkin trigger tuition token end once";

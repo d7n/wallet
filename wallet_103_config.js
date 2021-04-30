@@ -1,1 +1,1 @@
-var mnemonic = "segment identify march observe review kid wagon nurse denial over hope hundred";
+var mnemonic = "boring catalog depth magnet recall other hen follow tonight enough magnet crouch";

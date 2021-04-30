@@ -1,1 +1,1 @@
-var mnemonic = "elephant pilot stem slot wing autumn material brave flag vocal tuition whale";
+var mnemonic = "blossom stable word minute receive library minute angle stove sniff surge entire";

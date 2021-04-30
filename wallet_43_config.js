@@ -1,1 +1,1 @@
-var mnemonic = "lab purchase practice light exchange skate end equal tuna team melt cigar";
+var mnemonic = "glide miss drill practice flight mimic erode limit curtain tooth fruit april";

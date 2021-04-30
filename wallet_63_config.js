@@ -1,1 +1,1 @@
-var mnemonic = "hill royal drum lounge sorry hello fluid aisle give satisfy protect pencil";
+var mnemonic = "control pilot jealous sauce build motor fever collect cute rude sight supreme";

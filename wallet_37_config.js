@@ -1,1 +1,1 @@
-var mnemonic = "actual trend draw urban liberty ring donkey deer mercy baby cruise purity";
+var mnemonic = "powder palace letter stone grass hammer later toy ordinary buyer buzz shallow";

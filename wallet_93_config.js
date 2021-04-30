@@ -1,1 +1,1 @@
-var mnemonic = "spring north margin video stove proof sand knife share purpose trap picture";
+var mnemonic = "hammer vocal couch catch flag initial film razor finish super file maze";

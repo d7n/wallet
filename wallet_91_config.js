@@ -1,1 +1,1 @@
-var mnemonic = "ranch brother sea certain damage already seat denial rib decade actual eager";
+var mnemonic = "merge glimpse oil tired thunder target trouble cricket blame system replace response";

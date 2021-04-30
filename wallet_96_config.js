@@ -1,1 +1,1 @@
-var mnemonic = "fever antique large obey sport warrior average almost eight execute find frequent";
+var mnemonic = "auction excuse fee extra genuine void destroy giggle decade glimpse deputy caught";

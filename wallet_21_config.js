@@ -1,1 +1,1 @@
-var mnemonic = "recall senior allow bounce dry mutual canvas hat empower tilt item monster";
+var mnemonic = "churn fame cart view flee grocery maze shuffle misery arctic sadness wine";

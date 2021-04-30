@@ -1,1 +1,1 @@
-var mnemonic = "century federal soda keen turtle program little leave battle exchange curve payment";
+var mnemonic = "amount panda panther final control tonight lyrics ill future public dance simple";

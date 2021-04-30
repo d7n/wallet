@@ -1,1 +1,1 @@
-var mnemonic = "vote upgrade claim have credit tonight cool galaxy record olive mango narrow";
+var mnemonic = "earth camera digital earn skate kidney cram slush together nut chicken hand";

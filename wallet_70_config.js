@@ -1,1 +1,1 @@
-var mnemonic = "holiday nose call thought sketch warrior priority zebra remain salon wisdom wool";
+var mnemonic = "glad execute multiply cat point farm cargo twist story floor code divert";

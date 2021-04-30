@@ -1,1 +1,1 @@
-var mnemonic = "ten student north small air flee disagree ice near clever giggle mean";
+var mnemonic = "hospital bone enrich diary venue mobile spy device manage man sure off";

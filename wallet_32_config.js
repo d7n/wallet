@@ -1,1 +1,1 @@
-var mnemonic = "member arrest obvious city super spot plunge trick metal faith mango network";
+var mnemonic = "next okay gather coast hotel armed recall delay rifle cup little tag";

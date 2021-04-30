@@ -1,1 +1,1 @@
-var mnemonic = "beach ocean dad vast mammal warrior come maple dress taxi enlist tongue";
+var mnemonic = "grief acquire mask raven vicious glide all child relax sketch crisp cube";

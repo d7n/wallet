@@ -1,1 +1,1 @@
-var mnemonic = "front lonely anchor angle unit engine march nephew stomach harbor history orbit";
+var mnemonic = "bamboo small almost vehicle resource awkward example uncover gown swarm flight rose";

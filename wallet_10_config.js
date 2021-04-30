@@ -1,1 +1,1 @@
-var mnemonic = "busy parent derive spirit ski desert caution summer giraffe quote poverty item";
+var mnemonic = "option solution parent food garbage vicious earn erase worry improve alarm monkey";

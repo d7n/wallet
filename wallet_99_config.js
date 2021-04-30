@@ -1,1 +1,1 @@
-var mnemonic = "dog hammer march usage celery plastic paper claim second piece make dose";
+var mnemonic = "once total harbor pause acoustic chief coral symptom donkey across true situate";

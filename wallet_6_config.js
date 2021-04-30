@@ -1,1 +1,1 @@
-var mnemonic = "panel damage labor museum unit step end fiber monitor street move gold";
+var mnemonic = "casino easy april post comfort vessel scrap hip crop ocean loan soon";

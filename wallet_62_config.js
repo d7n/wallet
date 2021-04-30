@@ -1,1 +1,1 @@
-var mnemonic = "gadget worry tent crucial artwork ghost stumble aisle scale little cigar jazz";
+var mnemonic = "wife bread cost access mixed dice renew prize kid seven harbor harvest";

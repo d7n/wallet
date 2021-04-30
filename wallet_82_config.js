@@ -1,1 +1,1 @@
-var mnemonic = "razor fiscal what window simple armed supreme magic lonely initial index anger";
+var mnemonic = "core bracket kitten town dog decrease proof usual wish grass banner bridge";

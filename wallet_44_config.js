@@ -1,1 +1,1 @@
-var mnemonic = "dynamic wash run post frequent media dwarf document aim embark hover repeat";
+var mnemonic = "feature firm catalog dune chicken swamp ill critic author shadow birth smile";

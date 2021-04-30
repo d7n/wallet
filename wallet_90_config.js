@@ -1,1 +1,1 @@
-var mnemonic = "predict depth space author oak bicycle siege honey illegal nerve hollow illness";
+var mnemonic = "add used speed eternal sugar damage lazy become among just phrase genuine";

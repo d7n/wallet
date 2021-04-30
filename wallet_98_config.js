@@ -1,1 +1,1 @@
-var mnemonic = "library craft crunch topple legal ostrich style fetch steak extend client town";
+var mnemonic = "top mistake absorb culture universe hedgehog depend half oblige winner assault test";

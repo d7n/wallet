@@ -1,1 +1,1 @@
-var mnemonic = "shrimp spice twenty cattle kick gas mean outside net access absurd salon";
+var mnemonic = "wish mistake define gather age year remind wait swamp path dad enroll";

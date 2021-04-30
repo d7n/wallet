@@ -1,1 +1,1 @@
-var mnemonic = "analyst trouble trial wool fun dismiss blade usual pigeon tribe stomach mirror";
+var mnemonic = "night among garlic furnace vicious host milk desert razor kid submit clown";

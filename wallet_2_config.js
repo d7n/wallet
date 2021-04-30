@@ -1,1 +1,1 @@
-var mnemonic = "spoil century december spatial talent happy rather merit air protect dress employ";
+var mnemonic = "order recycle lyrics spy husband bike faint risk stove effort reopen anchor";

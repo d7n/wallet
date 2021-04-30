@@ -1,1 +1,1 @@
-var mnemonic = "enrich meadow banner arena route feed sense vast manual post issue security";
+var mnemonic = "library scatter win essay human embody large divorce lunar fluid iron alcohol";

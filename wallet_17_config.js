@@ -1,1 +1,1 @@
-var mnemonic = "flower tribe marriage island govern category oven nerve finger have never target";
+var mnemonic = "woman hamster oven carpet narrow divert mass prize pilot paddle luxury segment";

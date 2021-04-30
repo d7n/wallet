@@ -1,1 +1,1 @@
-var mnemonic = "worry appear claw divorce rocket wedding voyage casino payment upper term hover";
+var mnemonic = "indicate ranch bunker right tiger differ poet lift alone coffee burst lawsuit";

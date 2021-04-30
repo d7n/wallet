@@ -1,1 +1,1 @@
-var mnemonic = "vote labor choice face churn design absurd caution nose depend mother process";
+var mnemonic = "drop illness wealth achieve ride coconut range bunker vessel certain tissue puppy";

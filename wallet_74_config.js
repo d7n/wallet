@@ -1,1 +1,1 @@
-var mnemonic = "measure science circle direct want voice smooth exile cousin mean obvious forget";
+var mnemonic = "lady insect another cube solve bundle giggle elegant excuse diesel deputy kick";
