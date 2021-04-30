@@ -1,1 +1,1 @@
-var mnemonic = "pact retreat car custom raccoon piano harsh absorb cake must proof open";
+var mnemonic = "wave liar biology umbrella height vast federal monkey echo elephant atom sting";

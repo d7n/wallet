@@ -1,1 +1,1 @@
-var mnemonic = "rent water rural title around stereo evidence hammer trip live error mixed";
+var mnemonic = "weird stairs ahead mandate display brown convince planet holiday access armed pill";

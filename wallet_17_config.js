@@ -1,1 +1,1 @@
-var mnemonic = "panel quantum paper topple source crazy reflect ice quarter wasp spot scorpion";
+var mnemonic = "spoon similar august wine indicate mean pear immune honey inherit crystal else";

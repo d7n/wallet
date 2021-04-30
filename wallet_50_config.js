@@ -1,1 +1,1 @@
-var mnemonic = "you riot lawsuit cancel bless clarify exit family exile script eternal pulse";
+var mnemonic = "spell suit letter adapt comic chef main chaos hotel replace sadness search";

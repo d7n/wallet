@@ -1,1 +1,1 @@
-var mnemonic = "expire stay brick unknown cliff junk ship census police sand verify van";
+var mnemonic = "wood embrace heart subject wheel winner chalk marble merry pelican chapter liar";

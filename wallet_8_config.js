@@ -1,1 +1,1 @@
-var mnemonic = "mesh gown divorce razor someone pond vendor soon pride payment motor goat";
+var mnemonic = "outdoor green general wage smart dream siege truth absorb horse ordinary finger";

@@ -1,1 +1,1 @@
-var mnemonic = "perfect december liberty call brick hockey fashion bag demise grief horse drop";
+var mnemonic = "cliff lawsuit digital erase abandon dinner indicate animal crouch swarm organ clog";

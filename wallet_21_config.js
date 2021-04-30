@@ -1,1 +1,1 @@
-var mnemonic = "will stumble brush maximum mountain draw bar faint cluster dignity trash thought";
+var mnemonic = "device prosper wrong smart sunny twelve scan feed omit round cram between";

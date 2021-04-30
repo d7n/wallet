@@ -1,1 +1,1 @@
-var mnemonic = "verify system spread can square rebuild olive resist special steak olive spell";
+var mnemonic = "canoe hero cake give reopen toast inherit payment april love episode humble";

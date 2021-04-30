@@ -1,1 +1,1 @@
-var mnemonic = "enjoy time pattern orient soldier river float twin salad art celery record";
+var mnemonic = "virtual witness now ill position transfer quarter tourist owner raise asset weekend";

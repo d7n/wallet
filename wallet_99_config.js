@@ -1,1 +1,1 @@
-var mnemonic = "hello pepper point best mixed space follow arrow exist install maple drop";
+var mnemonic = "milk security half surge hungry penalty salmon luxury rely brand poverty task";

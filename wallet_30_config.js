@@ -1,1 +1,1 @@
-var mnemonic = "spice jungle decrease guilt elevator wrap end beach name rib candy tiny";
+var mnemonic = "travel venue increase cool logic miss vessel program consider sort permit arctic";

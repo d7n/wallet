@@ -1,1 +1,1 @@
-var mnemonic = "make dry jewel despair license slight candy trade earth diagram drop usual";
+var mnemonic = "oven wish decline prison when clarify verify emotion behind van afford lava";

@@ -1,1 +1,1 @@
-var mnemonic = "flight relax liquid stage tell title virtual hollow morning nose later radio";
+var mnemonic = "table twenty long icon valve primary bamboo firm concert climb swing render";

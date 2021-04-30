@@ -1,1 +1,1 @@
-var mnemonic = "about undo pottery around organ staff protect embrace couple arrest viable rice";
+var mnemonic = "solar return pave toilet total endless solid require zone zoo lake suspect";

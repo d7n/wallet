@@ -1,1 +1,1 @@
-var mnemonic = "chest ensure damp page shadow cat size spell pole depart become harvest";
+var mnemonic = "goddess knock brisk any design route melt arctic arm climb adjust gold";

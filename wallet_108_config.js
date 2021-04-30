@@ -1,1 +1,1 @@
-var mnemonic = "step essay copy open waste swap solid nasty regret decrease dove give";
+var mnemonic = "force fork genre angle always orchard penalty nice assume focus strike tide";

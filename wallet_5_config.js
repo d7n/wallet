@@ -1,1 +1,1 @@
-var mnemonic = "chapter nation program maid crawl pelican beef excuse spring file ramp glove";
+var mnemonic = "column rather they code myth pig talent ivory argue street possible wedding";

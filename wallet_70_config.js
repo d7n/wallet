@@ -1,1 +1,1 @@
-var mnemonic = "toilet pole business viable feel ocean regular width illness glance near orient";
+var mnemonic = "extra motor vivid deny bag stereo debris census phone oak swing adapt";

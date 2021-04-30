@@ -1,1 +1,1 @@
-var mnemonic = "gasp either believe duck debris alter wild divide canyon ozone north kid";
+var mnemonic = "dawn thunder rubber badge basic office school exist frost kiwi warrior timber";

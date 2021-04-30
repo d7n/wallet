@@ -1,1 +1,1 @@
-var mnemonic = "truly valley chunk melody casual bleak auto nephew orbit still tube suspect";
+var mnemonic = "brief engage stone ahead sad protect test uncle cereal element toilet entire";

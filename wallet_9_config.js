@@ -1,1 +1,1 @@
-var mnemonic = "will exile enough hire flash quality intact hold clinic boil enable edit";
+var mnemonic = "couch chief antenna company seat improve country canal erase bag enough orbit";

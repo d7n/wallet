@@ -1,1 +1,1 @@
-var mnemonic = "tube must tomorrow hip inspire advance mercy echo chat matrix cute filter";
+var mnemonic = "sock near supply approve evil turn asthma axis rent great orange tray";

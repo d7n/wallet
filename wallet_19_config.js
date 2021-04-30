@@ -1,1 +1,1 @@
-var mnemonic = "tilt sell corn wash profit orbit make enact bring buzz mention innocent";
+var mnemonic = "shield smile primary olive armor spoon amused school fitness spoil toilet voice";

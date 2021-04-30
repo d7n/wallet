@@ -1,1 +1,1 @@
-var mnemonic = "stock quote cattle friend bright hour coral barely open excess rebuild cousin";
+var mnemonic = "twin comfort radio utility night infant wisdom century visit matrix anger clog";

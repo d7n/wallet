@@ -1,1 +1,1 @@
-var mnemonic = "fabric bus sustain bitter sand happy birth list cable suffer good empty";
+var mnemonic = "sheriff upper marine wild inform source light tiger memory scheme alarm eternal";

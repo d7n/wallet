@@ -1,1 +1,1 @@
-var mnemonic = "drift miracle used conduct honey draft photo logic cloth sponsor zoo alcohol";
+var mnemonic = "youth rule city supreme zone rotate worry lab benefit bean canoe carpet";

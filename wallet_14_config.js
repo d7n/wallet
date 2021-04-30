@@ -1,1 +1,1 @@
-var mnemonic = "pattern desk author outer vault universe wrong similar drive mask victory initial";
+var mnemonic = "lucky swallow wrong convince ramp salute barrel friend save struggle pumpkin hidden";

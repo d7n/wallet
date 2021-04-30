@@ -1,1 +1,1 @@
-var mnemonic = "idea ten blind daring shy chest village bottom know trick coin possible";
+var mnemonic = "beach plastic siren fold crucial become winter label column toe stadium inject";

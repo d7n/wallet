@@ -1,1 +1,1 @@
-var mnemonic = "ginger stone banana law inside subject swamp sniff sure primary oven kidney";
+var mnemonic = "morning scare wrap emerge since exact outside staff service this wool monkey";

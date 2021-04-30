@@ -1,1 +1,1 @@
-var mnemonic = "skin immense ostrich spoon pitch seed husband pumpkin shoulder page ugly useless";
+var mnemonic = "fish cereal direct response toilet orange holiday must wage position leopard elephant";

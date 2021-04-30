@@ -1,1 +1,1 @@
-var mnemonic = "pony almost budget item boss lake town mention human east master human";
+var mnemonic = "clerk time mom you reveal song direct become faint citizen bunker million";

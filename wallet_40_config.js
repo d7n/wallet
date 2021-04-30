@@ -1,1 +1,1 @@
-var mnemonic = "leg evil orient other canal science edge east number supreme join pool";
+var mnemonic = "flash undo pair venue vicious faculty train crush shiver finish flee limit";

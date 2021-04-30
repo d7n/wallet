@@ -1,1 +1,1 @@
-var mnemonic = "deny unaware marble tell renew lucky pilot pear inherit guess click confirm";
+var mnemonic = "pool theory iron worth waste expand come fox yellow oppose deposit deal";

@@ -1,1 +1,1 @@
-var mnemonic = "april design bind roof april regular guard obey once raise series humor";
+var mnemonic = "hotel puzzle fault success exile much design captain either feature scheme license";

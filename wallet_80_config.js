@@ -1,1 +1,1 @@
-var mnemonic = "ladder pelican discover holiday canal across machine toss citizen anchor route chuckle";
+var mnemonic = "milk quarter erase amateur before total when hire aim strategy volcano artefact";

@@ -1,1 +1,1 @@
-var mnemonic = "toilet hero fame egg citizen floor noble duty guide asset account despair";
+var mnemonic = "tunnel outside stick cook panel time verb disease seek name claim grow";

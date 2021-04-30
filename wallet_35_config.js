@@ -1,1 +1,1 @@
-var mnemonic = "humble wine misery coconut picnic satoshi field salon deposit visit inspire loop";
+var mnemonic = "pave cinnamon treat flush rack master suit party relax marble roof vocal";

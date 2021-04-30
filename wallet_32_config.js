@@ -1,1 +1,1 @@
-var mnemonic = "dry sail eager measure tortoise skirt radar tumble entry mule rural decorate";
+var mnemonic = "bitter hope blouse stomach illness veteran strategy van twenty faculty mixture bracket";

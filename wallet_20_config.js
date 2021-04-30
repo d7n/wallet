@@ -1,1 +1,1 @@
-var mnemonic = "resist hammer demise cage oak icon assume permit police tribe salmon enlist";
+var mnemonic = "catch strong latin fruit virtual suffer smart popular light stone model blue";

@@ -1,1 +1,1 @@
-var mnemonic = "monitor what select swear dish carpet clap sure jeans phone neutral uncover";
+var mnemonic = "clock spatial achieve puzzle rescue rifle wave media curious uniform injury viable";

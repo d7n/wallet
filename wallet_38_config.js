@@ -1,1 +1,1 @@
-var mnemonic = "grain scan sleep link toilet answer check melt control thought wire all";
+var mnemonic = "advance silk blame edge donate gravity destroy target gas busy walnut citizen";

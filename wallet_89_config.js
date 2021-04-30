@@ -1,1 +1,1 @@
-var mnemonic = "foil movie item history sketch time success riot barrel lounge wage escape";
+var mnemonic = "high portion theme winter kick lunch melt check verify spare melt owner";

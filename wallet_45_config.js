@@ -1,1 +1,1 @@
-var mnemonic = "enroll account artist pyramid innocent cushion bicycle margin gap game novel sample";
+var mnemonic = "dose bounce veteran cable together that dismiss control cement ocean never duty";

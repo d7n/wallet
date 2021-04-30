@@ -1,1 +1,1 @@
-var mnemonic = "glow level chair scene flame diesel gate hub miss track unusual dove";
+var mnemonic = "oppose dolphin rebel tuition horn viable turtle dinosaur rigid slush unveil ticket";

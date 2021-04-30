@@ -1,1 +1,1 @@
-var mnemonic = "rug conduct sunset shine arch marriage tuition volume execute almost merge paddle";
+var mnemonic = "six heart duck mutual photo rubber guide key garlic cousin squeeze dune";

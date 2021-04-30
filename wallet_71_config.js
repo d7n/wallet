@@ -1,1 +1,1 @@
-var mnemonic = "news stadium confirm average item inject song horn family box sunset shock";
+var mnemonic = "regular clinic artist kick chaos urge sick acid flame dash fringe blur";

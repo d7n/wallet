@@ -1,1 +1,1 @@
-var mnemonic = "range myth own turkey cloud cattle usual clog behind polar talent blanket";
+var mnemonic = "return gown balance pyramid mix hollow deal inch iron cute lift motion";

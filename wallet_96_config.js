@@ -1,1 +1,1 @@
-var mnemonic = "much taste language impose sail egg million equip claw garden tooth kid";
+var mnemonic = "report hair future genre smile castle home shallow glance mystery ripple buyer";

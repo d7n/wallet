@@ -1,1 +1,1 @@
-var mnemonic = "tip decade awful gas pass saddle hawk slow cart riot frost only";
+var mnemonic = "member consider cycle already ribbon humor ceiling wide during clutch identify cinnamon";

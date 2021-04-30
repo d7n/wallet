@@ -1,1 +1,1 @@
-var mnemonic = "change voice safe travel together olive route style rough brand apple bone";
+var mnemonic = "people digital vacant scatter tank pull receive satisfy actress blossom start acquire";

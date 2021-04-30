@@ -1,1 +1,1 @@
-var mnemonic = "already solution quality core refuse biology naive boil bronze chuckle easy apart";
+var mnemonic = "moon client shed wool castle cotton bullet rose scan shove clog soon";

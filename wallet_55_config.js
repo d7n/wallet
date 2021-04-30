@@ -1,1 +1,1 @@
-var mnemonic = "top riot mimic gather frequent spoon alone loan approve open client about";
+var mnemonic = "group common video fault since bid aspect earn mesh violin large ramp";

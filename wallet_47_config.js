@@ -1,1 +1,1 @@
-var mnemonic = "ankle quote improve basket cloth expire antique group clinic bubble step mind";
+var mnemonic = "permit assume useless jacket milk mushroom sword stay glare input hand blur";

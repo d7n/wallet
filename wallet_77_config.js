@@ -1,1 +1,1 @@
-var mnemonic = "brave glimpse response bulk december attend decline grace merit enforce short issue";
+var mnemonic = "angle arrive install proof purchase juice winner town imitate rely hope leopard";

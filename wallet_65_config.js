@@ -1,1 +1,1 @@
-var mnemonic = "nurse cereal glass park cycle six rather angry discover dice first toilet";
+var mnemonic = "movie kitten drink power easy toss claw swear plastic day forest abuse";

@@ -1,1 +1,1 @@
-var mnemonic = "roof quiz salmon lumber fringe giggle heavy six find crowd away shy";
+var mnemonic = "type garlic general fee retire east polar issue inside piano height obvious";

@@ -1,1 +1,1 @@
-var mnemonic = "find inspire elevator quality unveil speak pepper dumb aisle ceiling original first";
+var mnemonic = "sport clinic add burger nest honey general faith turkey father chair person";

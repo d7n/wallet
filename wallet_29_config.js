@@ -1,1 +1,1 @@
-var mnemonic = "impose vital key code spider roast business filter garbage wrestle buddy replace";
+var mnemonic = "proof slight chair mistake family canal laundry novel follow truth upgrade kiss";

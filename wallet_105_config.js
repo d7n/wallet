@@ -1,1 +1,1 @@
-var mnemonic = "tiny pipe excite level pupil shy swarm fatal gasp rather verb gain";
+var mnemonic = "explain physical toe tooth tragic brown govern tent express travel marine dumb";

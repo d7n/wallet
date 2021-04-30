@@ -1,1 +1,1 @@
-var mnemonic = "clarify lock beyond intact flight idle suffer rude there sense lesson hundred";
+var mnemonic = "other trust squeeze plug attack equip travel ticket mammal exchange lady paddle";

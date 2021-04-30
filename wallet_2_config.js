@@ -1,1 +1,1 @@
-var mnemonic = "idea crush anxiety aim height town boring advance neglect blind include juice";
+var mnemonic = "velvet dune lecture drastic obey loyal fence business castle boy asthma super";

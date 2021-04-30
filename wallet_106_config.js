@@ -1,1 +1,1 @@
-var mnemonic = "twice hat vast circle idle cross gold pepper scene fringe talent bird";
+var mnemonic = "stumble decrease chat maze abuse outdoor limit couple tree tobacco cross orange";

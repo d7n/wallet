@@ -1,1 +1,1 @@
-var mnemonic = "control occur tonight camera wing embark category fragile chicken theory save indoor";
+var mnemonic = "party light three matter desk aunt zero add cattle keen engage curve";

@@ -1,1 +1,1 @@
-var mnemonic = "lobster cloud wage rack night jacket before cabbage wedding ready west cousin";
+var mnemonic = "gauge fury loud aunt bundle humble dentist display combine shine symbol length";

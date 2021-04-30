@@ -1,1 +1,1 @@
-var mnemonic = "real pupil pumpkin guilt gold siren hazard fossil mule pattern regular shop";
+var mnemonic = "bright girl wire gun rabbit clap occur slow hip print blind visa";

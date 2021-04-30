@@ -1,1 +1,1 @@
-var mnemonic = "achieve rival frost brave sheriff arrange series siren pattern ancient voice possible";
+var mnemonic = "jungle auction museum cement wrist call dumb aim stay panic stem chalk";

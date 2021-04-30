@@ -1,1 +1,1 @@
-var mnemonic = "shop visit front update prize artist manual edge march job fat guilt";
+var mnemonic = "wish cloth box inspire alarm cheap swamp situate emotion hover urge sting";

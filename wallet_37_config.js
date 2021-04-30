@@ -1,1 +1,1 @@
-var mnemonic = "car pluck castle royal battle between attract salon wild acquire cricket legend";
+var mnemonic = "obey wolf spoil hurdle elephant cream boat lottery cabbage elevator iron fit";

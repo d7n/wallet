@@ -1,1 +1,1 @@
-var mnemonic = "proud security general total helmet smooth champion giant worth naive people clerk";
+var mnemonic = "fantasy join dentist mixture bomb about dog pair behave subway fruit stone";

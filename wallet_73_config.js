@@ -1,1 +1,1 @@
-var mnemonic = "damp arch symptom loop monitor twin object swallow few border spoil shuffle";
+var mnemonic = "basic torch vessel blush exotic question film glide bag inmate brother brown";

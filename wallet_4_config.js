@@ -1,1 +1,1 @@
-var mnemonic = "card humble swallow obey frozen midnight tree lady result asset ahead traffic";
+var mnemonic = "boy say digital maple payment spider toward august share muffin boil style";

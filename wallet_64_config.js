@@ -1,1 +1,1 @@
-var mnemonic = "accident panel spare chest disorder vast tank develop armor latin bread enhance";
+var mnemonic = "infant sail shock almost gas physical paddle river impulse photo brand question";

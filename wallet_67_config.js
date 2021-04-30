@@ -1,1 +1,1 @@
-var mnemonic = "honey sight fox vague defense frown deposit swift small fossil proud debris";
+var mnemonic = "poet screen work quiz worry fade clarify list sunset useful cook wool";

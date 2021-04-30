@@ -1,1 +1,1 @@
-var mnemonic = "favorite toy manage art vote into iron write session tissue much diamond";
+var mnemonic = "essay leader soft sad heavy host happy harvest vibrant lady grab hope";

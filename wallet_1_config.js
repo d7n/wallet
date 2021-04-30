@@ -1,1 +1,1 @@
-var mnemonic = "fine lumber local siren denial tag nurse nothing funny artefact fork you";
+var mnemonic = "anger soccer tree spend impulse roof brave cake dance praise detect rhythm";

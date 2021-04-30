@@ -1,1 +1,1 @@
-var mnemonic = "tragic bus east kit hello address six pelican festival organ boat cushion";
+var mnemonic = "very stone fish blossom book sponsor train wait world power syrup daughter";

@@ -1,1 +1,1 @@
-var mnemonic = "accident female puppy bunker escape entire payment shoe present utility palace barely";
+var mnemonic = "health cliff motor lumber smoke live increase escape bundle snow alley foil";

@@ -1,1 +1,1 @@
-var mnemonic = "scale sheriff biology ridge cute prepare physical bitter much prize dynamic canvas";
+var mnemonic = "gospel chronic sure cabbage hint merge dinosaur tip either calm harbor accident";

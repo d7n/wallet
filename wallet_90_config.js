@@ -1,1 +1,1 @@
-var mnemonic = "tray grab obtain start trouble emotion blue shell decrease much connect stamp";
+var mnemonic = "forest little design thank gift tray swap replace uphold echo spoon service";

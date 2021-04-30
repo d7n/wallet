@@ -1,1 +1,1 @@
-var mnemonic = "toss deposit butter genre attract apple soccer split camp air smart badge";
+var mnemonic = "gorilla problem police utility utility year task mad bomb also taxi poet";

@@ -1,1 +1,1 @@
-var mnemonic = "veteran door erode drive grain doll spawn muffin robot ozone powder devote";
+var mnemonic = "organ fever hood sort above total throw labor arm banner object impose";

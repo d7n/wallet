@@ -1,1 +1,1 @@
-var mnemonic = "parent walk surface regular bunker insect deal rural insane symbol negative jeans";
+var mnemonic = "supreme social observe oval program approve play joy input wagon first palace";

@@ -1,1 +1,1 @@
-var mnemonic = "absurd mad change blood correct liquid truly trim estate club manage rain";
+var mnemonic = "card grocery pulp satoshi wash square leg plate infant tape now employ";

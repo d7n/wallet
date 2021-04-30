@@ -1,1 +1,1 @@
-var mnemonic = "bulk oak mountain scrub crawl liquid combine fury when trust appear treat";
+var mnemonic = "wish document blossom forum corn stand truck option glad spider fold twin";
