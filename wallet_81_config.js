@@ -1,1 +1,1 @@
-var mnemonic = "believe system sorry satisfy guilt story during evolve near warrior staff lounge";
+var mnemonic = "canal only affair average analyst spider claw describe physical ring candy around";

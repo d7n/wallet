@@ -1,1 +1,1 @@
-var mnemonic = "mad seminar vapor radio swarm decide genius chaos click frown clinic blame";
+var mnemonic = "remember song crouch rate anchor cute follow peace gauge shuffle ski mail";

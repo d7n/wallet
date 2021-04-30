@@ -1,1 +1,1 @@
-var mnemonic = "elevator nation diet ask million unaware snake carry member strike clutch ride";
+var mnemonic = "clutch enter noble venue net saddle school desk model latin review pepper";

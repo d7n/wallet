@@ -1,1 +1,1 @@
-var mnemonic = "clock foot property lounge blur depart mix deputy repair social donor write";
+var mnemonic = "lazy image west orchard odor hamster solar rather laundry flat cover stage";

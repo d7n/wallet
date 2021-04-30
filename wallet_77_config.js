@@ -1,1 +1,1 @@
-var mnemonic = "baby culture despair material side behind donkey author cereal clean swap kiwi";
+var mnemonic = "hub increase solid crawl edit shallow merry bag slow labor fly benefit";

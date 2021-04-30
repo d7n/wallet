@@ -1,1 +1,1 @@
-var mnemonic = "coil shove case world mix shy unusual loud increase interest coil into";
+var mnemonic = "step keep garbage square delay giraffe treat anchor suffer logic width churn";

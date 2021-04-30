@@ -1,1 +1,1 @@
-var mnemonic = "try access spring various fortune season service tiger wet mercy tell boring";
+var mnemonic = "alter insect double kit transfer permit awake sport actress emerge snake visit";

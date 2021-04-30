@@ -1,1 +1,1 @@
-var mnemonic = "museum flight cargo document antique around seek legal young cover hint other";
+var mnemonic = "addict timber maple furnace hard supply print adjust erase catalog text state";

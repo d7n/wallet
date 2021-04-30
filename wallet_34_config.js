@@ -1,1 +1,1 @@
-var mnemonic = "bird shoulder elbow happy artefact cigar series cereal close weapon stone person";
+var mnemonic = "they wrap joy ocean soup cement dynamic rebuild gesture balcony own random";

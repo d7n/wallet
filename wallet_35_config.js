@@ -1,1 +1,1 @@
-var mnemonic = "warfare senior practice ride pact must sleep tank unlock ceiling year aspect";
+var mnemonic = "vacant obey weekend hub demise evolve glue gift useless feature pink world";

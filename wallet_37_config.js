@@ -1,1 +1,1 @@
-var mnemonic = "town exhaust fossil flush sock pride theme among twenty way tragic trick";
+var mnemonic = "jungle shock ignore coyote profit float hand process wet cross relief umbrella";

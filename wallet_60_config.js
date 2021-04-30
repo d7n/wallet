@@ -1,1 +1,1 @@
-var mnemonic = "now aware exist regret odor choice cradle frame coach media pigeon expire";
+var mnemonic = "assault tornado excite asthma derive thing release flight echo flame awesome awful";

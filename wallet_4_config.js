@@ -1,1 +1,1 @@
-var mnemonic = "salt chimney various bronze sunset club insane toddler business rib trade chalk";
+var mnemonic = "arena security comic sing walk wisdom grow blanket rich modify setup fabric";

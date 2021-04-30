@@ -1,1 +1,1 @@
-var mnemonic = "salute illness razor work security eyebrow during matter dentist system labor between";
+var mnemonic = "club coconut diagram very lunar era recall float turkey industry tree betray";

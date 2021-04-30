@@ -1,1 +1,1 @@
-var mnemonic = "surface flavor tilt repeat one adjust balcony neck end enhance excess control";
+var mnemonic = "tiny primary squirrel ankle length battle joke same mercy lounge measure course";

@@ -1,1 +1,1 @@
-var mnemonic = "sleep between entry choice black item cash antenna pilot friend decade kick";
+var mnemonic = "glue just spoon measure patrol sweet royal skirt decorate feature win remind";

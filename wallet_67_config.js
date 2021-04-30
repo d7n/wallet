@@ -1,1 +1,1 @@
-var mnemonic = "urge island march cupboard rural sunset vendor dirt dust task accuse video";
+var mnemonic = "hybrid satoshi bus pottery first whisper sword anchor snap cloud canyon list";

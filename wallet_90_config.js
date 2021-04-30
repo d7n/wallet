@@ -1,1 +1,1 @@
-var mnemonic = "misery squeeze weekend gift trial curve glimpse legend various this agree three";
+var mnemonic = "seven gift ecology novel identify glass apple exist gasp knee novel penalty";

@@ -1,1 +1,1 @@
-var mnemonic = "gown vacant legend patch aim soda spawn illegal ceiling hurry benefit apple";
+var mnemonic = "bullet squeeze scissors major any afford rhythm flip entire addict mobile recycle";

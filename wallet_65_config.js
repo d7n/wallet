@@ -1,1 +1,1 @@
-var mnemonic = "chronic risk sport equip usual fault sign hospital also anxiety result mom";
+var mnemonic = "trial payment error churn kiss sunset crane fee fantasy caution chunk point";

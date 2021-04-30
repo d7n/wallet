@@ -1,1 +1,1 @@
-var mnemonic = "athlete dutch dinner loan surge sponsor region approve initial outer attract news";
+var mnemonic = "pattern wait quit riot gauge cause arrest view trigger powder plug nominee";

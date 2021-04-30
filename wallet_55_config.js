@@ -1,1 +1,1 @@
-var mnemonic = "tortoise ketchup country code wink federal broken exile cruise they swamp vicious";
+var mnemonic = "stand return pattern barrel add either tissue shift bundle retire salad cinnamon";

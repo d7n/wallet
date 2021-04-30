@@ -1,1 +1,1 @@
-var mnemonic = "adapt image section asthma depart federal cover become bring word please eyebrow";
+var mnemonic = "level veteran term bench desert angle soup uncle dentist render reward honey";

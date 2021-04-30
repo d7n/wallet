@@ -1,1 +1,1 @@
-var mnemonic = "almost forward subway olive alpha soul problem monkey defense assist sudden cute";
+var mnemonic = "demise glow major roast mixture true must couch boost tribe party uncle";

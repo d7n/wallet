@@ -1,1 +1,1 @@
-var mnemonic = "venture repeat lecture once dose consider question mutual devote version orange acid";
+var mnemonic = "people journey police lounge bag sure control comfort question rotate beef anchor";

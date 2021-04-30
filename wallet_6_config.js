@@ -1,1 +1,1 @@
-var mnemonic = "pottery grain crush bonus scatter eternal system have blast clinic chapter popular";
+var mnemonic = "bar acoustic laugh hospital ball series barrel token milk behind logic infant";

@@ -1,1 +1,1 @@
-var mnemonic = "nest today organ effort mass bonus barrel drill receive museum lava sadness";
+var mnemonic = "public winter indicate rival swarm radar advice fix acid harvest super replace";

@@ -1,1 +1,1 @@
-var mnemonic = "inquiry reunion foster cheap magnet around chase palace burden pattern absorb wrap";
+var mnemonic = "rhythm wave sadness lonely leave police stay note hill giant review rug";

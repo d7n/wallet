@@ -1,1 +1,1 @@
-var mnemonic = "annual boat noodle april curtain sure make van fly client correct token";
+var mnemonic = "dumb top since gold double success stay process surround elegant moon west";

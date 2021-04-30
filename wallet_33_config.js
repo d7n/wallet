@@ -1,1 +1,1 @@
-var mnemonic = "involve mystery code supreme win hundred shine lens sunset small cabbage hub";
+var mnemonic = "fix nothing code knife wink fix flush rude teach decrease believe quiz";

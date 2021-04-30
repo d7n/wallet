@@ -1,1 +1,1 @@
-var mnemonic = "rural keen weird enemy wave problem super area truly hub present speed";
+var mnemonic = "ginger artwork bronze around east shift portion silly media bike food frame";

@@ -1,1 +1,1 @@
-var mnemonic = "rent door barely spatial afford common insane upset broom fix pink hello";
+var mnemonic = "spice remember exhaust ritual dry click spy solution payment sugar rough hello";

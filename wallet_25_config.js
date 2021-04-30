@@ -1,1 +1,1 @@
-var mnemonic = "cliff joy huge bracket hill uncle can oven disorder lamp initial cat";
+var mnemonic = "short mosquito image shallow walnut mad render guide route angle immune coach";

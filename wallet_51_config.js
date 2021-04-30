@@ -1,1 +1,1 @@
-var mnemonic = "dizzy acoustic topic piano guilt gesture vessel between around fit narrow noise";
+var mnemonic = "acid wink toilet clump banana judge neutral build spot punch supreme mushroom";

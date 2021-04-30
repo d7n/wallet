@@ -1,1 +1,1 @@
-var mnemonic = "multiply vanish elephant shuffle federal produce letter enact finger cloth round entry";
+var mnemonic = "ring detail fluid lesson agree air wrap cram slab dice expect lucky";

@@ -1,1 +1,1 @@
-var mnemonic = "shuffle miracle soft depth payment next inherit betray wife cabin mirror pet";
+var mnemonic = "pony ball eyebrow kind blouse million blind humor vibrant chaos domain neck";

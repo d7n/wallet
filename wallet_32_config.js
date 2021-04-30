@@ -1,1 +1,1 @@
-var mnemonic = "reunion much recycle above bright mass slide ill patient globe mean away";
+var mnemonic = "dinner canvas replace tuition opinion raccoon address pluck crane lecture potato away";

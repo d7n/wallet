@@ -1,1 +1,1 @@
-var mnemonic = "bonus orange update youth mushroom april pledge south civil night clarify before";
+var mnemonic = "album wealth dwarf hazard answer dose actual capable allow neck limit either";

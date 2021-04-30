@@ -1,1 +1,1 @@
-var mnemonic = "dolphin make multiply rally entire clog guitar bamboo shaft mesh night accuse";
+var mnemonic = "tongue mountain slight auto correct river phone october verify angry merge seminar";

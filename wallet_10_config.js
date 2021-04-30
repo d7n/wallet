@@ -1,1 +1,1 @@
-var mnemonic = "latin area snake camera exact abuse season theme fresh clown hurry wide";
+var mnemonic = "post festival old duty canvas they rich mouse caught fame toast income";

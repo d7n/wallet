@@ -1,1 +1,1 @@
-var mnemonic = "asthma crisp assist sorry display fade cliff lunch box decorate morning air";
+var mnemonic = "blind park second live silent foster reason empower idea rocket liar abandon";

@@ -1,1 +1,1 @@
-var mnemonic = "diamond choose salad castle poem follow steak author puzzle local high month";
+var mnemonic = "mind trophy bid icon napkin bless snack luxury lion fame fury moon";

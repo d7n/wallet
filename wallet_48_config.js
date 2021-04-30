@@ -1,1 +1,1 @@
-var mnemonic = "process private measure insane client between farm garden discover spawn cat taxi";
+var mnemonic = "inside daring shallow bachelor puppy used accident walnut element myth spike girl";

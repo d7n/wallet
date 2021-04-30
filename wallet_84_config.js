@@ -1,1 +1,1 @@
-var mnemonic = "slender reward aim brass energy vicious devote sadness battle glass dish wrist";
+var mnemonic = "skill heart there pause detect pole embark any roast laugh secret sphere";

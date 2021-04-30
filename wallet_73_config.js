@@ -1,1 +1,1 @@
-var mnemonic = "conduct gym race warm ritual peace day weapon obtain depend return lecture";
+var mnemonic = "skin multiply ill forum shove learn abstract pretty plug put inhale advice";

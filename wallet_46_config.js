@@ -1,1 +1,1 @@
-var mnemonic = "eternal rescue solar piece other ball pill trust depend detail hire dynamic";
+var mnemonic = "park permit fly select trust run member flower spatial area sing bag";

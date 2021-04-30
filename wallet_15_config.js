@@ -1,1 +1,1 @@
-var mnemonic = "average dose talk organ february heart intact turn few involve mad treat";
+var mnemonic = "address tribe prevent steak matrix expect connect settle gaze frequent emerge shrimp";

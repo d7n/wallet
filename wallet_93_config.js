@@ -1,1 +1,1 @@
-var mnemonic = "woman nut then adjust surprise admit original clarify punch clarify push system";
+var mnemonic = "magnet build enable lesson mercy proof citizen festival adjust tool labor what";

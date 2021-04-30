@@ -1,1 +1,1 @@
-var mnemonic = "artist cement guilt umbrella absorb curious bag october banana outer rabbit dune";
+var mnemonic = "awesome fluid recycle novel flat turtle grain nation useful cube person piece";

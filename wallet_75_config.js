@@ -1,1 +1,1 @@
-var mnemonic = "wrap armed coach attack symbol afford first devote noise luggage supply royal";
+var mnemonic = "depth hurdle supreme drastic hedgehog kiwi ketchup heart unusual weird record quote";

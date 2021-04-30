@@ -1,1 +1,1 @@
-var mnemonic = "risk glass march blast parent rabbit cruel hedgehog depend inmate garage post";
+var mnemonic = "dream explain edge update window satoshi ski rare onion struggle galaxy sock";

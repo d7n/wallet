@@ -1,1 +1,1 @@
-var mnemonic = "sing fog pelican help phrase team snap mule borrow crisp affair clutch";
+var mnemonic = "renew vast parent opera ladder comfort auction ice scout gesture couch marine";

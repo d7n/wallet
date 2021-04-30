@@ -1,1 +1,1 @@
-var mnemonic = "december pledge apple comfort transfer thing cinnamon plate have immense lab rural";
+var mnemonic = "bone shuffle cousin dial early deputy like milk begin retire symbol fatal";

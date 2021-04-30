@@ -1,1 +1,1 @@
-var mnemonic = "iron coast energy lucky various turtle salt coffee twelve illegal tourist candy";
+var mnemonic = "interest diary tired artwork hunt twist note awful gallery remain hover universe";

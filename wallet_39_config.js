@@ -1,1 +1,1 @@
-var mnemonic = "stuff town ignore hammer palace clock harsh slow camera uncle intact tuna";
+var mnemonic = "whale clock runway crater need garden stumble hour lend outdoor sausage congress";

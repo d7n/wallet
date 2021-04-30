@@ -1,1 +1,1 @@
-var mnemonic = "edit dawn dad shop runway obey awful differ trap scatter force various";
+var mnemonic = "submit monkey shell upset purchase damage erase old vocal novel invite equip";

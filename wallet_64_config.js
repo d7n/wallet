@@ -1,1 +1,1 @@
-var mnemonic = "purse clown smile degree nose slow state turkey cash project glue include";
+var mnemonic = "girl earth shed ranch people spoon vocal organ lava absent quality result";

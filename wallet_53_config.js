@@ -1,1 +1,1 @@
-var mnemonic = "equal wrist rather aspect example rate husband hurry donate matter clock ethics";
+var mnemonic = "provide guide fruit eternal flush tank garbage buddy lock bacon assist gauge";

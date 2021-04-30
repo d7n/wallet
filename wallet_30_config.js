@@ -1,1 +1,1 @@
-var mnemonic = "clog crystal story mask kiwi fuel tonight banner morning tape collect lesson";
+var mnemonic = "creek force voice horse effort angle attitude sort account anchor electric grab";

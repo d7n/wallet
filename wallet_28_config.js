@@ -1,1 +1,1 @@
-var mnemonic = "disorder crawl rabbit toddler skull supply brass keep fortune cool dinner call";
+var mnemonic = "upgrade siege menu glove live drum sphere path inform custom leaf twenty";

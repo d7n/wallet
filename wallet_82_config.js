@@ -1,1 +1,1 @@
-var mnemonic = "elite basket review immense depend cement amazing picture screen glimpse include need";
+var mnemonic = "scorpion famous grief base divorce lock section reason follow fix pledge virus";

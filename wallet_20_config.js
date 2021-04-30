@@ -1,1 +1,1 @@
-var mnemonic = "idle quantum hello shrimp pledge scrap utility enforce summer rice speed grow";
+var mnemonic = "slim network quick strong monitor cliff bamboo armor ozone island number ill";

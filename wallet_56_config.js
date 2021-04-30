@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit peanut torch rapid comic life stuff garden vacant genuine clutch drum";
+var mnemonic = "catalog own bottom desert ordinary wasp raven coral furnace lion pizza unique";

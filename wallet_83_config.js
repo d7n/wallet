@@ -1,1 +1,1 @@
-var mnemonic = "mandate glass menu tent boost human spoil minute goose stumble spot again";
+var mnemonic = "guitar work high huge intact note fruit armor clever slim cabin news";

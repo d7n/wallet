@@ -1,1 +1,1 @@
-var mnemonic = "unit stadium solar father raw author color syrup glove giant song crazy";
+var mnemonic = "explain purity swap yard lonely food oven plug loud frequent provide seven";

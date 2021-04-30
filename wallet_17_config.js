@@ -1,1 +1,1 @@
-var mnemonic = "jacket grant assume segment element army snack gather stem cattle person harsh";
+var mnemonic = "often ramp siege front good voyage baby rail shaft speak submit power";

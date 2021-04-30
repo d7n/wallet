@@ -1,1 +1,1 @@
-var mnemonic = "awful insect foot cage depth aisle invest wing ankle squeeze bid brave";
+var mnemonic = "expose actual strike category invite warrior chef wage kite helmet fatigue dance";

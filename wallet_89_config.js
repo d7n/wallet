@@ -1,1 +1,1 @@
-var mnemonic = "add yard soon slot rate grass sphere current horror galaxy arrange knife";
+var mnemonic = "slice warrior amused sauce laundry all hedgehog mammal ridge lemon window cry";

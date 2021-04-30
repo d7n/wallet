@@ -1,1 +1,1 @@
-var mnemonic = "ghost manage monitor kingdom other confirm ball age spy lunch conduct topple";
+var mnemonic = "lake sick maple cook regular wink rebuild mutual rural legal drill bike";

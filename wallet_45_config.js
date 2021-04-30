@@ -1,1 +1,1 @@
-var mnemonic = "runway clinic alpha mixed answer child identify black abuse bring boy misery";
+var mnemonic = "violin border slam ethics banana jaguar jaguar kick use faculty jealous wish";

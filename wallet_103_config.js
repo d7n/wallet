@@ -1,1 +1,1 @@
-var mnemonic = "earn run era service salmon badge tiny grit release merry charge discover";
+var mnemonic = "kind jump indicate wolf outside ribbon useless endorse execute alter catch dawn";

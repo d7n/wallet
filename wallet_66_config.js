@@ -1,1 +1,1 @@
-var mnemonic = "naive eye east screen scan quick drink honey logic mobile ill gas";
+var mnemonic = "toilet goose eight weapon nephew best surprise stand question picnic energy light";

@@ -1,1 +1,1 @@
-var mnemonic = "joke gallery dwarf reopen tube unable sadness mirror marble ask curious virtual";
+var mnemonic = "index critic south exotic artwork town brief nothing picnic pride dinner high";

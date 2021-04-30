@@ -1,1 +1,1 @@
-var mnemonic = "ask region empower avoid business pause odor panther topic art danger horse";
+var mnemonic = "fat thing december maze uniform bright impact token orchard eager scissors select";

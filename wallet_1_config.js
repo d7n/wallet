@@ -1,1 +1,1 @@
-var mnemonic = "lake dragon drop interest else differ gallery polar fat blouse mansion evoke";
+var mnemonic = "busy lunar indicate renew desert mobile spend canal blur dish purpose nut";

@@ -1,1 +1,1 @@
-var mnemonic = "lake right shadow helmet cotton object minor bubble check item traffic huge";
+var mnemonic = "history drill cook thrive chase canoe quick drip service obscure license solid";

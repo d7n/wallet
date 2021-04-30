@@ -1,1 +1,1 @@
-var mnemonic = "flame initial gain current fence vicious apart case bean engage exhaust current";
+var mnemonic = "shaft define attract afford scout little cricket soon august version cannon medal";

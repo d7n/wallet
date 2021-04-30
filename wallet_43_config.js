@@ -1,1 +1,1 @@
-var mnemonic = "grant exercise service dial wheel must firm lizard seven alone try come";
+var mnemonic = "bundle paddle admit language rice quantum surround require estate alien social insane";

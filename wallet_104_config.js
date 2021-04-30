@@ -1,1 +1,1 @@
-var mnemonic = "song cruise heart upgrade yard orchard room quit dynamic achieve uncle trial";
+var mnemonic = "air volcano west core route holiday fortune helmet discover gas donate check";

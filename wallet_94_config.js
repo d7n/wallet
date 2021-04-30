@@ -1,1 +1,1 @@
-var mnemonic = "impact uncover bid lonely sting derive cotton rely icon demise gown shiver";
+var mnemonic = "involve judge little advice saddle dawn lounge jelly language corn matter abandon";

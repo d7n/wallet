@@ -1,1 +1,1 @@
-var mnemonic = "hill keen simple prefer work harsh sweet south imitate seat iron pear";
+var mnemonic = "arrow six credit maid document flower utility year chaos blanket head reveal";

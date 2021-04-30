@@ -1,1 +1,1 @@
-var mnemonic = "sport innocent photo bunker soccer veteran planet rice field engine panther peanut";
+var mnemonic = "exhaust easily alert lizard again pencil six expose mirror busy visit insect";

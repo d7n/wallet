@@ -1,1 +1,1 @@
-var mnemonic = "horror detail rigid panda actress danger grunt floor tower boil work burger";
+var mnemonic = "juice siren region biology motor educate fee audit cruise address basic lend";

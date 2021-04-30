@@ -1,1 +1,1 @@
-var mnemonic = "aunt neck toe bamboo ramp betray beyond pulp print topple public enough";
+var mnemonic = "double gate seven convince arm immense occur obscure agree dress dinosaur shuffle";

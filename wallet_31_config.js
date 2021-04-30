@@ -1,1 +1,1 @@
-var mnemonic = "coffee stamp village wealth minimum subject moral diesel warrior staff few name";
+var mnemonic = "drama mango history novel stable pupil come climb van concert pen fat";

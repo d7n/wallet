@@ -1,1 +1,1 @@
-var mnemonic = "reveal nest unveil maple extra circle key under intact grunt chief again";
+var mnemonic = "drink era prefer ozone gas chapter garden drum game just use priority";

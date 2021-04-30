@@ -1,1 +1,1 @@
-var mnemonic = "high report summer prison elegant enact mandate gas fetch unfair later sample";
+var mnemonic = "decorate tube alarm tide shaft program future taxi shrimp nice series trim";

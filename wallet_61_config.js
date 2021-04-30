@@ -1,1 +1,1 @@
-var mnemonic = "local else hidden rate skate shift oyster skill tent napkin repair wolf";
+var mnemonic = "toss despair degree enroll view hover tube chuckle dragon wing tortoise close";

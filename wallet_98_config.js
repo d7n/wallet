@@ -1,1 +1,1 @@
-var mnemonic = "marine bread note define magnet wing connect cash spoon fragile copy remain";
+var mnemonic = "response afford click day mobile genuine soul begin hill achieve brush produce";

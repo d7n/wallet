@@ -1,1 +1,1 @@
-var mnemonic = "winner blood dune finish fly attract news gaze disorder window small shock";
+var mnemonic = "harvest panda daughter net gown urge tomato coach cause actual hazard obvious";

@@ -1,1 +1,1 @@
-var mnemonic = "crumble poet vacuum aware narrow wrong only marine giggle aspect health differ";
+var mnemonic = "mirror term piece laundry mobile adult apple symbol coral outdoor accuse rack";

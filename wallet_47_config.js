@@ -1,1 +1,1 @@
-var mnemonic = "upper month junior fee flower obey useless degree forget winter suit check";
+var mnemonic = "twice cereal comfort slight muscle want coral nut certain truly discover globe";

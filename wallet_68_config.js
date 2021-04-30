@@ -1,1 +1,1 @@
-var mnemonic = "fault shoe supply picture outer bird author bunker unfold mutual beauty claim";
+var mnemonic = "moral lonely cool vintage item effort noble poverty immune wage royal arrive";
