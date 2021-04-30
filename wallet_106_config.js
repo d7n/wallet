@@ -1,1 +1,1 @@
-var mnemonic = "stumble decrease chat maze abuse outdoor limit couple tree tobacco cross orange";
+var mnemonic = "junior side future moon cube mountain galaxy venue crisp left region short";

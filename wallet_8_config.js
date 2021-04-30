@@ -1,1 +1,1 @@
-var mnemonic = "outdoor green general wage smart dream siege truth absorb horse ordinary finger";
+var mnemonic = "decorate uphold indoor three vote genius forget also social few game unique";

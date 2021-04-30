@@ -1,1 +1,1 @@
-var mnemonic = "proof slight chair mistake family canal laundry novel follow truth upgrade kiss";
+var mnemonic = "shop supreme fat dress dish sea library rough fit female gossip craft";

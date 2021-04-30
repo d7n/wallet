@@ -1,1 +1,1 @@
-var mnemonic = "empower silver drastic proud lend impact liar off enjoy powder traffic empty";
+var mnemonic = "lamp amount original shoot swear today flash occur make estate car notable";

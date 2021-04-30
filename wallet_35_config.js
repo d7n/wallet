@@ -1,1 +1,1 @@
-var mnemonic = "pave cinnamon treat flush rack master suit party relax marble roof vocal";
+var mnemonic = "rather bright unveil joke borrow arena fever super horse buzz ritual rural";

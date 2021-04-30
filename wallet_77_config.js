@@ -1,1 +1,1 @@
-var mnemonic = "angle arrive install proof purchase juice winner town imitate rely hope leopard";
+var mnemonic = "obvious fresh major popular seat car result region era course typical hill";

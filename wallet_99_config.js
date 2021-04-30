@@ -1,1 +1,1 @@
-var mnemonic = "milk security half surge hungry penalty salmon luxury rely brand poverty task";
+var mnemonic = "enlist swear sunset swamp hard cargo again innocent mercy humor crash orchard";

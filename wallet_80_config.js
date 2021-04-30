@@ -1,1 +1,1 @@
-var mnemonic = "milk quarter erase amateur before total when hire aim strategy volcano artefact";
+var mnemonic = "view tag manual pull mobile scorpion spider develop ozone define excess float";

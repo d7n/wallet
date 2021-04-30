@@ -1,1 +1,1 @@
-var mnemonic = "supreme social observe oval program approve play joy input wagon first palace";
+var mnemonic = "unusual banana pluck idle below note float glad erosion proud labor truck";

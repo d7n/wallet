@@ -1,1 +1,1 @@
-var mnemonic = "catch strong latin fruit virtual suffer smart popular light stone model blue";
+var mnemonic = "drastic bright aware enroll prosper urge destroy please topple anxiety want situate";

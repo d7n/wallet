@@ -1,1 +1,1 @@
-var mnemonic = "spoon similar august wine indicate mean pear immune honey inherit crystal else";
+var mnemonic = "busy antenna wage work grape ugly prepare knee verify original culture object";

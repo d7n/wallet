@@ -1,1 +1,1 @@
-var mnemonic = "gospel chronic sure cabbage hint merge dinosaur tip either calm harbor accident";
+var mnemonic = "office also educate organ genre stable envelope shiver dice wheat champion used";

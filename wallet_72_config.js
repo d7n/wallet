@@ -1,1 +1,1 @@
-var mnemonic = "swarm grunt energy rocket all wild snap solve jar bid end click";
+var mnemonic = "proof boil era seek vendor cycle field cargo entire cement funny intact";

@@ -1,1 +1,1 @@
-var mnemonic = "blossom orphan slab scissors kidney wisdom roast turn dove lock upon cram";
+var mnemonic = "attend jealous wife addict erase pledge meadow piece blanket total away arch";

@@ -1,1 +1,1 @@
-var mnemonic = "dress mother accident elite else love pupil flash earth spirit genius neck";
+var mnemonic = "about tired receive future write sand neglect prison into media mother inner";

@@ -1,1 +1,1 @@
-var mnemonic = "basic torch vessel blush exotic question film glide bag inmate brother brown";
+var mnemonic = "gown hurry theme provide affair chief relief voice hamster genre order ostrich";

@@ -1,1 +1,1 @@
-var mnemonic = "return gown balance pyramid mix hollow deal inch iron cute lift motion";
+var mnemonic = "seminar traffic embrace giggle rebuild flush north choice unknown expire essence aim";

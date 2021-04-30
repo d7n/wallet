@@ -1,1 +1,1 @@
-var mnemonic = "couch chief antenna company seat improve country canal erase bag enough orbit";
+var mnemonic = "ritual trigger front afraid local tool uniform fiscal ticket uncle picture modify";

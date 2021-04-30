@@ -1,1 +1,1 @@
-var mnemonic = "infant sail shock almost gas physical paddle river impulse photo brand question";
+var mnemonic = "carry over buyer wing history other truth turtle motion bracket maximum skate";

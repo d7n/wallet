@@ -1,1 +1,1 @@
-var mnemonic = "forest little design thank gift tray swap replace uphold echo spoon service";
+var mnemonic = "owner client term since agree ticket crane spin raven sign pottery afraid";

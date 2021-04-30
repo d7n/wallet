@@ -1,1 +1,1 @@
-var mnemonic = "defense code toss convince clerk duck wrist weather gesture nut airport mansion";
+var mnemonic = "find zone drink collect frost silent science robust isolate danger daring choose";

@@ -1,1 +1,1 @@
-var mnemonic = "people digital vacant scatter tank pull receive satisfy actress blossom start acquire";
+var mnemonic = "ring require mask copy mind quick alpha jaguar brother indoor crime waste";

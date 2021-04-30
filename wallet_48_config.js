@@ -1,1 +1,1 @@
-var mnemonic = "sport clinic add burger nest honey general faith turkey father chair person";
+var mnemonic = "drip mountain future wet lift kiwi museum wolf child chat cushion derive";

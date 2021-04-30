@@ -1,1 +1,1 @@
-var mnemonic = "siege dance friend armor index lawsuit case spring swamp trust foil spin";
+var mnemonic = "coffee slim silent crop anger wreck spawn race couple arctic slender gain";

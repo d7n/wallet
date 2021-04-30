@@ -1,1 +1,1 @@
-var mnemonic = "very stone fish blossom book sponsor train wait world power syrup daughter";
+var mnemonic = "fluid vicious round transfer strong flock awful film excuse total loyal flock";

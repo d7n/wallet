@@ -1,1 +1,1 @@
-var mnemonic = "goddess knock brisk any design route melt arctic arm climb adjust gold";
+var mnemonic = "travel spin skin wrestle host hat demise maple cook ostrich smoke knife";

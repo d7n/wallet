@@ -1,1 +1,1 @@
-var mnemonic = "explain physical toe tooth tragic brown govern tent express travel marine dumb";
+var mnemonic = "best large apart announce race glue trouble cheese meat rail ostrich pyramid";

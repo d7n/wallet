@@ -1,1 +1,1 @@
-var mnemonic = "social digital arctic jaguar space alcohol movie baby address hen demise orchard";
+var mnemonic = "throw shrug gain learn lucky attitude network caught account hobby brick company";

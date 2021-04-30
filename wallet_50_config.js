@@ -1,1 +1,1 @@
-var mnemonic = "spell suit letter adapt comic chef main chaos hotel replace sadness search";
+var mnemonic = "fence black sing clog industry toy vessel material child galaxy clarify rent";

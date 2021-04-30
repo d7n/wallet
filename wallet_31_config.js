@@ -1,1 +1,1 @@
-var mnemonic = "axis video alter cloth shop chat ticket delay speed combine danger round";
+var mnemonic = "file tenant kid goose hotel business advice legal crush this strong canyon";

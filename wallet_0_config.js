@@ -1,1 +1,1 @@
-var mnemonic = "age boss struggle depart swim give fish rookie soap keen soon mouse";
+var mnemonic = "upon search write stadium person upon dawn find tuition pole cinnamon zebra";

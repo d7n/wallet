@@ -1,1 +1,1 @@
-var mnemonic = "flash undo pair venue vicious faculty train crush shiver finish flee limit";
+var mnemonic = "rich below volume deny play coffee marriage rent slam method motion orient";

@@ -1,1 +1,1 @@
-var mnemonic = "party light three matter desk aunt zero add cattle keen engage curve";
+var mnemonic = "pig rude license face canal flavor art describe energy aisle prosper dutch";

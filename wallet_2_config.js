@@ -1,1 +1,1 @@
-var mnemonic = "velvet dune lecture drastic obey loyal fence business castle boy asthma super";
+var mnemonic = "bind breeze acoustic strike behind planet miracle tornado enable silent eager december";

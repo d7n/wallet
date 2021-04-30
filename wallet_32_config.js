@@ -1,1 +1,1 @@
-var mnemonic = "bitter hope blouse stomach illness veteran strategy van twenty faculty mixture bracket";
+var mnemonic = "column soldier cook protect today child best school okay rib panel sort";

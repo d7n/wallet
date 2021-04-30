@@ -1,1 +1,1 @@
-var mnemonic = "gauge fury loud aunt bundle humble dentist display combine shine symbol length";
+var mnemonic = "pull source island discover type install fiber bamboo collect foster rather sing";

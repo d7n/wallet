@@ -1,1 +1,1 @@
-var mnemonic = "other trust squeeze plug attack equip travel ticket mammal exchange lady paddle";
+var mnemonic = "step person onion husband boat harsh scare blind clay rebuild couple pulp";

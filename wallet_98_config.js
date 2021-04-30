@@ -1,1 +1,1 @@
-var mnemonic = "fish cereal direct response toilet orange holiday must wage position leopard elephant";
+var mnemonic = "link help banner horn blood develop giraffe loud flat depart poem found";

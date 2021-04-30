@@ -1,1 +1,1 @@
-var mnemonic = "weird stairs ahead mandate display brown convince planet holiday access armed pill";
+var mnemonic = "fever arm page ginger stable giggle merry enjoy useless taste cotton rule";

@@ -1,1 +1,1 @@
-var mnemonic = "essay leader soft sad heavy host happy harvest vibrant lady grab hope";
+var mnemonic = "ability credit breeze kiss believe roof denial sibling sell fade flight what";

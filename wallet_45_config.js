@@ -1,1 +1,1 @@
-var mnemonic = "dose bounce veteran cable together that dismiss control cement ocean never duty";
+var mnemonic = "aware dress dog van need van palace powder six february tattoo voice";

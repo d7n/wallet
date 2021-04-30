@@ -1,1 +1,1 @@
-var mnemonic = "tree supreme board gate live useless anger arrest garden often skin swarm";
+var mnemonic = "sword umbrella adapt speak digital infant napkin cousin frame busy lab candy";

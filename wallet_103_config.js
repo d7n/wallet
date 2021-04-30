@@ -1,1 +1,1 @@
-var mnemonic = "solar return pave toilet total endless solid require zone zoo lake suspect";
+var mnemonic = "diesel loyal say eager ring cup throw accuse gather tide rigid sample";

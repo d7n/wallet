@@ -1,1 +1,1 @@
-var mnemonic = "tunnel outside stick cook panel time verb disease seek name claim grow";
+var mnemonic = "merry ramp joy prize devote crystal embrace island round emotion twin fame";

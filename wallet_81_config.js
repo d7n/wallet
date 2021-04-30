@@ -1,1 +1,1 @@
-var mnemonic = "type garlic general fee retire east polar issue inside piano height obvious";
+var mnemonic = "slice result robust scout frame soup hood symbol pizza erosion soldier practice";

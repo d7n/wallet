@@ -1,1 +1,1 @@
-var mnemonic = "jazz drum outside viable staff chief when source eager item upgrade immense";
+var mnemonic = "pyramid trim explain accuse radio upper evolve actress lion cradle obvious erode";

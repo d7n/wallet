@@ -1,1 +1,1 @@
-var mnemonic = "beach plastic siren fold crucial become winter label column toe stadium inject";
+var mnemonic = "issue crew stock donor gold motion slow scheme tray north become novel";

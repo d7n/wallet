@@ -1,1 +1,1 @@
-var mnemonic = "room until jump clump senior please defy screen zero bread good surround";
+var mnemonic = "attack pistol sword hour cute equip onion will strong run inquiry season";

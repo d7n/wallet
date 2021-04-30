@@ -1,1 +1,1 @@
-var mnemonic = "gorilla problem police utility utility year task mad bomb also taxi poet";
+var mnemonic = "awkward source helmet source noble brass toy piano sick photo dizzy bottom";

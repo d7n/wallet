@@ -1,1 +1,1 @@
-var mnemonic = "super uncover talk inherit attend dog melt critic circle ketchup obvious dynamic";
+var mnemonic = "record region donate rapid market drink live vessel young cloud invite pact";

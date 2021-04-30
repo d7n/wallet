@@ -1,1 +1,1 @@
-var mnemonic = "quit source innocent charge address traffic drive print rice doll short wash";
+var mnemonic = "army salt helmet leisure buffalo belt tribe finish uphold catch innocent distance";

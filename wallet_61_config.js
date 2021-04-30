@@ -1,1 +1,1 @@
-var mnemonic = "oven wish decline prison when clarify verify emotion behind van afford lava";
+var mnemonic = "garbage artefact spend rough clog kick promote feel infant biology pet exist";

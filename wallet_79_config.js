@@ -1,1 +1,1 @@
-var mnemonic = "valid almost blush version sudden identify chest also erosion anxiety glory shove";
+var mnemonic = "relief margin puzzle truth rival royal lonely search oppose gym matrix globe";

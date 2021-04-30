@@ -1,1 +1,1 @@
-var mnemonic = "oppose dolphin rebel tuition horn viable turtle dinosaur rigid slush unveil ticket";
+var mnemonic = "cycle window flash disorder capital wide arena six enrich month film problem";

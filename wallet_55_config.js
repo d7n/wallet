@@ -1,1 +1,1 @@
-var mnemonic = "group common video fault since bid aspect earn mesh violin large ramp";
+var mnemonic = "supreme black injury toe daughter alarm exist million orphan dizzy circle tiny";

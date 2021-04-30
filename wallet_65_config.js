@@ -1,1 +1,1 @@
-var mnemonic = "movie kitten drink power easy toss claw swear plastic day forest abuse";
+var mnemonic = "zoo used column coyote route fit famous brass more youth resource argue";

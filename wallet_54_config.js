@@ -1,1 +1,1 @@
-var mnemonic = "bright girl wire gun rabbit clap occur slow hip print blind visa";
+var mnemonic = "logic nest chicken rifle bargain furnace like grab skirt slot often glad";

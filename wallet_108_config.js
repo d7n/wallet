@@ -1,1 +1,1 @@
-var mnemonic = "force fork genre angle always orchard penalty nice assume focus strike tide";
+var mnemonic = "state paddle shy wish sweet pill salon tide mother cushion royal taste";

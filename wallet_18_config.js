@@ -1,1 +1,1 @@
-var mnemonic = "morning scare wrap emerge since exact outside staff service this wool monkey";
+var mnemonic = "circle bring can blush float shoulder regret cupboard dawn gaze arrive hold";

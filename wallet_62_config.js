@@ -1,1 +1,1 @@
-var mnemonic = "brief engage stone ahead sad protect test uncle cereal element toilet entire";
+var mnemonic = "flag join throw actress aspect choose bunker cause luxury add endless fetch";

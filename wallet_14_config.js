@@ -1,1 +1,1 @@
-var mnemonic = "lucky swallow wrong convince ramp salute barrel friend save struggle pumpkin hidden";
+var mnemonic = "evoke twice clay south height manual guess fly renew notable razor gain";

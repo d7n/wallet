@@ -1,1 +1,1 @@
-var mnemonic = "poet screen work quiz worry fade clarify list sunset useful cook wool";
+var mnemonic = "brass hockey improve matrix crater stand shift south obtain inhale despair alone";

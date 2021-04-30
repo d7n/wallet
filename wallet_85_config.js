@@ -1,1 +1,1 @@
-var mnemonic = "twin comfort radio utility night infant wisdom century visit matrix anger clog";
+var mnemonic = "item army sniff decline kidney reopen key check merit coral tattoo slice";

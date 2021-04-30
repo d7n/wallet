@@ -1,1 +1,1 @@
-var mnemonic = "wish document blossom forum corn stand truck option glad spider fold twin";
+var mnemonic = "anger surprise bomb earth glory sugar stairs fine harsh sort useless armed";

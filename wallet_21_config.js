@@ -1,1 +1,1 @@
-var mnemonic = "device prosper wrong smart sunny twelve scan feed omit round cram between";
+var mnemonic = "basic awkward broccoli alpha day margin baby pizza asset leave similar edit";

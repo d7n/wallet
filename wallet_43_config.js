@@ -1,1 +1,1 @@
-var mnemonic = "member consider cycle already ribbon humor ceiling wide during clutch identify cinnamon";
+var mnemonic = "true hero enhance sight tragic glimpse tower update enrich traffic mechanic curious";

@@ -1,1 +1,1 @@
-var mnemonic = "fantasy join dentist mixture bomb about dog pair behave subway fruit stone";
+var mnemonic = "steak uncover print follow solution jacket alert tail shell attitude symbol pupil";

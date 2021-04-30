@@ -1,1 +1,1 @@
-var mnemonic = "column rather they code myth pig talent ivory argue street possible wedding";
+var mnemonic = "select chat road ugly banana maximum left apology assist inch exact then";

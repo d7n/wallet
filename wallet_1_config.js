@@ -1,1 +1,1 @@
-var mnemonic = "anger soccer tree spend impulse roof brave cake dance praise detect rhythm";
+var mnemonic = "immense frame warm fiction want unique cereal blur image disorder true flat";

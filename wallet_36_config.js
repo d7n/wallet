@@ -1,1 +1,1 @@
-var mnemonic = "gadget game forget jar grass make silent empower erosion during spread shield";
+var mnemonic = "cram wonder insane rotate truck element lawn guitar zebra best security gospel";

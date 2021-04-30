@@ -1,1 +1,1 @@
-var mnemonic = "obey wolf spoil hurdle elephant cream boat lottery cabbage elevator iron fit";
+var mnemonic = "income patrol enroll ship time bounce forum moral edit they welcome giggle";

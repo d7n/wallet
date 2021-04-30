@@ -1,1 +1,1 @@
-var mnemonic = "napkin require boil habit puppy ring empower arrest evoke capital speak era";
+var mnemonic = "potato door decide edge balcony rug remind cute humble loan genuine holiday";

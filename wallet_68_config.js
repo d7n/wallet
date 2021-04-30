@@ -1,1 +1,1 @@
-var mnemonic = "sheriff upper marine wild inform source light tiger memory scheme alarm eternal";
+var mnemonic = "romance lift nice above leaf feed hill dog afraid solid fork syrup";

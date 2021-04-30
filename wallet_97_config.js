@@ -1,1 +1,1 @@
-var mnemonic = "sock near supply approve evil turn asthma axis rent great orange tray";
+var mnemonic = "attitude cupboard polar unknown rifle tired bless enable limb icon invest legend";

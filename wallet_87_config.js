@@ -1,1 +1,1 @@
-var mnemonic = "pool theory iron worth waste expand come fox yellow oppose deposit deal";
+var mnemonic = "iron slender switch gate slam crash juice useless tape believe stock model";

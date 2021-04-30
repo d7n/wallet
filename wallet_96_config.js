@@ -1,1 +1,1 @@
-var mnemonic = "report hair future genre smile castle home shallow glance mystery ripple buyer";
+var mnemonic = "grit twelve peanut typical promote path dice shield dash just net enhance";

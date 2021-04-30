@@ -1,1 +1,1 @@
-var mnemonic = "boy say digital maple payment spider toward august share muffin boil style";
+var mnemonic = "exercise sort retreat slush session acoustic debate tilt silly shadow display sure";

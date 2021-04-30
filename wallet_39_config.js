@@ -1,1 +1,1 @@
-var mnemonic = "wave liar biology umbrella height vast federal monkey echo elephant atom sting";
+var mnemonic = "level list shallow eager wolf ridge unfair mean crowd address knife year";

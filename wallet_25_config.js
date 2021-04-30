@@ -1,1 +1,1 @@
-var mnemonic = "health cliff motor lumber smoke live increase escape bundle snow alley foil";
+var mnemonic = "deal include drift dream ride survey then photo caught phrase art place";

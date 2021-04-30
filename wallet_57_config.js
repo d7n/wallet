@@ -1,1 +1,1 @@
-var mnemonic = "jungle auction museum cement wrist call dumb aim stay panic stem chalk";
+var mnemonic = "daughter polar glove raise fantasy prefer mirror parade abuse admit evidence slush";

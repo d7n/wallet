@@ -1,1 +1,1 @@
-var mnemonic = "clerk time mom you reveal song direct become faint citizen bunker million";
+var mnemonic = "such can actress kidney sick proof child often honey dynamic slide fresh";

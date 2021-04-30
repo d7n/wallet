@@ -1,1 +1,1 @@
-var mnemonic = "enough horror volcano expose buyer divorce result mad skull volcano era bulk";
+var mnemonic = "tail bike release crumble onion ritual dad cash detail resemble dutch arena";

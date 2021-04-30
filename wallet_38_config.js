@@ -1,1 +1,1 @@
-var mnemonic = "advance silk blame edge donate gravity destroy target gas busy walnut citizen";
+var mnemonic = "twice spell jazz jewel donate gesture gift orphan lazy bright unable doctor";

@@ -1,1 +1,1 @@
-var mnemonic = "organ fever hood sort above total throw labor arm banner object impose";
+var mnemonic = "baby farm prosper depend initial joy slow best candy garlic ticket infant";

@@ -1,1 +1,1 @@
-var mnemonic = "dawn thunder rubber badge basic office school exist frost kiwi warrior timber";
+var mnemonic = "author project novel audit soap business room clip convince pill unit hockey";

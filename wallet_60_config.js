@@ -1,1 +1,1 @@
-var mnemonic = "wish cloth box inspire alarm cheap swamp situate emotion hover urge sting";
+var mnemonic = "gym wage spell survey sniff upgrade stem scan welcome cream finger tiny";

@@ -1,1 +1,1 @@
-var mnemonic = "permit assume useless jacket milk mushroom sword stay glare input hand blur";
+var mnemonic = "shield volume ozone collect blanket half inform head behind sport correct crush";

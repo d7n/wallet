@@ -1,1 +1,1 @@
-var mnemonic = "virtual witness now ill position transfer quarter tourist owner raise asset weekend";
+var mnemonic = "scrap crisp exchange baby display load gloom spy capable move moral want";

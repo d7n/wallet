@@ -1,1 +1,1 @@
-var mnemonic = "gate idle tiny grunt catalog salmon cost tone angry stomach warm garbage";
+var mnemonic = "sweet remain guilt inside virtual audit wealth toilet vanish save column number";

@@ -1,1 +1,1 @@
-var mnemonic = "card grocery pulp satoshi wash square leg plate infant tape now employ";
+var mnemonic = "hold indicate pride orphan similar ice maple panic unhappy ensure path escape";

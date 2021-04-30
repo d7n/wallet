@@ -1,1 +1,1 @@
-var mnemonic = "bag dice ketchup fruit swift ramp adapt shallow raw sentence install person";
+var mnemonic = "bubble cement comfort above hope maze very purity guide advance this replace";

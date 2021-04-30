@@ -1,1 +1,1 @@
-var mnemonic = "regular clinic artist kick chaos urge sick acid flame dash fringe blur";
+var mnemonic = "verify school egg interest record swap wonder virtual step clever defense smoke";

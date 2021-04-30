@@ -1,1 +1,1 @@
-var mnemonic = "aim evolve athlete office entire sorry solve pulp vault myth clap submit";
+var mnemonic = "city grief speak person patch sudden potato indoor decorate cousin excite wave";

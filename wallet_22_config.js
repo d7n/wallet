@@ -1,1 +1,1 @@
-var mnemonic = "cliff lawsuit digital erase abandon dinner indicate animal crouch swarm organ clog";
+var mnemonic = "round reward sort despair cute isolate moral defense adult twin bird way";

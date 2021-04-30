@@ -1,1 +1,1 @@
-var mnemonic = "extra motor vivid deny bag stereo debris census phone oak swing adapt";
+var mnemonic = "awkward market lemon narrow stove kangaroo deliver obscure holiday future post guess";
