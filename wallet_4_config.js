@@ -1,1 +1,1 @@
-var mnemonic = "exercise sort retreat slush session acoustic debate tilt silly shadow display sure";
+var mnemonic = "dial magic gloom topple flush code burst fit foster blur quick loan";

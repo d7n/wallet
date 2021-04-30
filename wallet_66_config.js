@@ -1,1 +1,1 @@
-var mnemonic = "sweet remain guilt inside virtual audit wealth toilet vanish save column number";
+var mnemonic = "twin limit dance outside patch avocado measure page myth cushion suffer helmet";

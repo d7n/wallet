@@ -1,1 +1,1 @@
-var mnemonic = "diet address couple coconut wealth second wave tank hood often useless zero";
+var mnemonic = "dynamic wash run post frequent media dwarf document aim embark hover repeat";

@@ -1,1 +1,1 @@
-var mnemonic = "true hero enhance sight tragic glimpse tower update enrich traffic mechanic curious";
+var mnemonic = "lab purchase practice light exchange skate end equal tuna team melt cigar";

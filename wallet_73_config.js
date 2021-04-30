@@ -1,1 +1,1 @@
-var mnemonic = "gown hurry theme provide affair chief relief voice hamster genre order ostrich";
+var mnemonic = "beach ocean dad vast mammal warrior come maple dress taxi enlist tongue";

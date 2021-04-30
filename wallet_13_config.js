@@ -1,1 +1,1 @@
-var mnemonic = "pull source island discover type install fiber bamboo collect foster rather sing";
+var mnemonic = "foot shoulder bone violin key comfort obey retire pink mixed either fix";

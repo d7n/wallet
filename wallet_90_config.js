@@ -1,1 +1,1 @@
-var mnemonic = "owner client term since agree ticket crane spin raven sign pottery afraid";
+var mnemonic = "predict depth space author oak bicycle siege honey illegal nerve hollow illness";

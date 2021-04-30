@@ -1,1 +1,1 @@
-var mnemonic = "drastic bright aware enroll prosper urge destroy please topple anxiety want situate";
+var mnemonic = "drive effort youth adult silent tooth crash quantum stereo chef diet hello";

@@ -1,1 +1,1 @@
-var mnemonic = "office also educate organ genre stable envelope shiver dice wheat champion used";
+var mnemonic = "panther hungry citizen demand great column foil danger spice razor arctic result";

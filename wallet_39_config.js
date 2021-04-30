@@ -1,1 +1,1 @@
-var mnemonic = "level list shallow eager wolf ridge unfair mean crowd address knife year";
+var mnemonic = "vote labor choice face churn design absurd caution nose depend mother process";

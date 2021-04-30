@@ -1,1 +1,1 @@
-var mnemonic = "aware dress dog van need van palace powder six february tattoo voice";
+var mnemonic = "analyst trouble trial wool fun dismiss blade usual pigeon tribe stomach mirror";

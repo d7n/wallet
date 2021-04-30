@@ -1,1 +1,1 @@
-var mnemonic = "busy antenna wage work grape ugly prepare knee verify original culture object";
+var mnemonic = "flower tribe marriage island govern category oven nerve finger have never target";

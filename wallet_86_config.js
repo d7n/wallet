@@ -1,1 +1,1 @@
-var mnemonic = "change chest find clap suggest sugar attack blast bachelor change oak east";
+var mnemonic = "elephant pilot stem slot wing autumn material brave flag vocal tuition whale";

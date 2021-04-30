@@ -1,1 +1,1 @@
-var mnemonic = "rich below volume deny play coffee marriage rent slam method motion orient";
+var mnemonic = "slab toilet best fossil verify globe talent float behind promote mirror record";

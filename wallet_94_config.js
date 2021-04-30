@@ -1,1 +1,1 @@
-var mnemonic = "merry ramp joy prize devote crystal embrace island round emotion twin fame";
+var mnemonic = "add name price secret legal fancy carry vicious turn plug aunt art";

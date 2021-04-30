@@ -1,1 +1,1 @@
-var mnemonic = "tag guard heart cattle wagon pet nominee glory couch wink all drum";
+var mnemonic = "valve you craft clinic spirit slush rich science base excess rack cat";

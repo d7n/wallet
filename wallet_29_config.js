@@ -1,1 +1,1 @@
-var mnemonic = "shop supreme fat dress dish sea library rough fit female gossip craft";
+var mnemonic = "nut effort staff sentence lesson comic poverty chimney huge people often device";

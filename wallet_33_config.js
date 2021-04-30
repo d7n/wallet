@@ -1,1 +1,1 @@
-var mnemonic = "pig rude license face canal flavor art describe energy aisle prosper dutch";
+var mnemonic = "digital give fade battle cushion main riot own toddler dwarf either struggle";

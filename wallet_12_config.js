@@ -1,1 +1,1 @@
-var mnemonic = "throw shrug gain learn lucky attitude network caught account hobby brick company";
+var mnemonic = "century federal soda keen turtle program little leave battle exchange curve payment";

@@ -1,1 +1,1 @@
-var mnemonic = "attitude cupboard polar unknown rifle tired bless enable limb icon invest legend";
+var mnemonic = "crawl motor manual critic jeans wet before cluster army upon need cloud";

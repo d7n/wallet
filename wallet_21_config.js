@@ -1,1 +1,1 @@
-var mnemonic = "basic awkward broccoli alpha day margin baby pizza asset leave similar edit";
+var mnemonic = "recall senior allow bounce dry mutual canvas hat empower tilt item monster";

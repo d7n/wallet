@@ -1,1 +1,1 @@
-var mnemonic = "empower spirit rigid bundle betray taste seed modify drink blanket elegant zebra";
+var mnemonic = "worry appear claw divorce rocket wedding voyage casino payment upper term hover";

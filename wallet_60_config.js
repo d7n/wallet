@@ -1,1 +1,1 @@
-var mnemonic = "gym wage spell survey sniff upgrade stem scan welcome cream finger tiny";
+var mnemonic = "forum advice badge hobby unusual sponsor tattoo diagram evolve youth attitude extra";

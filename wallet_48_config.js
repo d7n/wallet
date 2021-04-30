@@ -1,1 +1,1 @@
-var mnemonic = "drip mountain future wet lift kiwi museum wolf child chat cushion derive";
+var mnemonic = "depth space upgrade piece traffic sound praise lesson absent deal fluid strike";

@@ -1,1 +1,1 @@
-var mnemonic = "immense frame warm fiction want unique cereal blur image disorder true flat";
+var mnemonic = "feature decade patient address yard favorite zebra emerge hair moon impact athlete";

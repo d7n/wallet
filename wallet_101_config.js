@@ -1,1 +1,1 @@
-var mnemonic = "anger surprise bomb earth glory sugar stairs fine harsh sort useless armed";
+var mnemonic = "animal drift figure reject skirt tank nature utility rabbit work enough sudden";

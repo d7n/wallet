@@ -1,1 +1,1 @@
-var mnemonic = "view tag manual pull mobile scorpion spider develop ozone define excess float";
+var mnemonic = "crisp dynamic stock prevent almost crunch genius rely truth van huge bulb";

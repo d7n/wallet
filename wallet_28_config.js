@@ -1,1 +1,1 @@
-var mnemonic = "egg autumn easy soul embody crater neither cricket dutch alone enrich sand";
+var mnemonic = "kid exit behind decide inflict flash galaxy fuel room empty cinnamon cable";

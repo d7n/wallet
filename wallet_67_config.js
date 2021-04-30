@@ -1,1 +1,1 @@
-var mnemonic = "brass hockey improve matrix crater stand shift south obtain inhale despair alone";
+var mnemonic = "balcony excess horn lab anger act edge guide end venue federal flame";

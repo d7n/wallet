@@ -1,1 +1,1 @@
-var mnemonic = "column soldier cook protect today child best school okay rib panel sort";
+var mnemonic = "member arrest obvious city super spot plunge trick metal faith mango network";

@@ -1,1 +1,1 @@
-var mnemonic = "state paddle shy wish sweet pill salon tide mother cushion royal taste";
+var mnemonic = "lizard boy industry tomato link they avoid confirm sheriff chase bacon picture";

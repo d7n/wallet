@@ -1,1 +1,1 @@
-var mnemonic = "obvious fresh major popular seat car result region era course typical hill";
+var mnemonic = "agent mask quick fiber salute awake scene okay shift around child crater";

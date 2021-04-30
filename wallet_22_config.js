@@ -1,1 +1,1 @@
-var mnemonic = "round reward sort despair cute isolate moral defense adult twin bird way";
+var mnemonic = "unlock minimum bulk hill wagon wet quality actual dove tell scorpion lift";

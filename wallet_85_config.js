@@ -1,1 +1,1 @@
-var mnemonic = "item army sniff decline kidney reopen key check merit coral tattoo slice";
+var mnemonic = "lyrics conduct yellow tomorrow fog print another hockey time library bird image";

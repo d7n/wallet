@@ -1,1 +1,1 @@
-var mnemonic = "shield volume ozone collect blanket half inform head behind sport correct crush";
+var mnemonic = "scale since obtain shield recipe oven safe memory cave menu found atom";

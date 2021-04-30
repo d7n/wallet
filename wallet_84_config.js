@@ -1,1 +1,1 @@
-var mnemonic = "such can actress kidney sick proof child often honey dynamic slide fresh";
+var mnemonic = "fold swift jaguar scrap differ knock flash level forum crash feed session";

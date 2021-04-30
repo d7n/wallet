@@ -1,1 +1,1 @@
-var mnemonic = "wrap frame chest finish rocket trumpet amateur crop surge sad fancy govern";
+var mnemonic = "provide marine shoot debate close machine erode coil drink erode myself man";

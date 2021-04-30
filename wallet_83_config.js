@@ -1,1 +1,1 @@
-var mnemonic = "ability credit breeze kiss believe roof denial sibling sell fade flight what";
+var mnemonic = "valley size cannon carry march discover endless circle brain traffic deliver trip";

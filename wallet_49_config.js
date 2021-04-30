@@ -1,1 +1,1 @@
-var mnemonic = "city grief speak person patch sudden potato indoor decorate cousin excite wave";
+var mnemonic = "bird feel funny mountain nose during educate desk plastic bounce roof clever";

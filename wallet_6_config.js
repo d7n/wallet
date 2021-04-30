@@ -1,1 +1,1 @@
-var mnemonic = "hold indicate pride orphan similar ice maple panic unhappy ensure path escape";
+var mnemonic = "panel damage labor museum unit step end fiber monitor street move gold";

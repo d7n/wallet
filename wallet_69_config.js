@@ -1,1 +1,1 @@
-var mnemonic = "sword umbrella adapt speak digital infant napkin cousin frame busy lab candy";
+var mnemonic = "airport vast discover spatial obvious paper knee siren acid anxiety aunt blouse";

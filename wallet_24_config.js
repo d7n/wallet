@@ -1,1 +1,1 @@
-var mnemonic = "fluid vicious round transfer strong flock awful film excuse total loyal flock";
+var mnemonic = "sleep number absorb never balcony rice dolphin nasty gas april vote dune";

@@ -1,1 +1,1 @@
-var mnemonic = "income patrol enroll ship time bounce forum moral edit they welcome giggle";
+var mnemonic = "actual trend draw urban liberty ring donkey deer mercy baby cruise purity";

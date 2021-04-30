@@ -1,1 +1,1 @@
-var mnemonic = "decorate uphold indoor three vote genius forget also social few game unique";
+var mnemonic = "space strong turkey soft unfair undo disorder such pudding auction pact knife";

@@ -1,1 +1,1 @@
-var mnemonic = "baby farm prosper depend initial joy slow best candy garlic ticket infant";
+var mnemonic = "believe frown crime truck first mobile august transfer bring word ball board";

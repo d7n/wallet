@@ -1,1 +1,1 @@
-var mnemonic = "enlist swear sunset swamp hard cargo again innocent mercy humor crash orchard";
+var mnemonic = "dog hammer march usage celery plastic paper claim second piece make dose";

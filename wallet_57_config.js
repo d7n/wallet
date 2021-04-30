@@ -1,1 +1,1 @@
-var mnemonic = "daughter polar glove raise fantasy prefer mirror parade abuse admit evidence slush";
+var mnemonic = "front lonely anchor angle unit engine march nephew stomach harbor history orbit";

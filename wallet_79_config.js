@@ -1,1 +1,1 @@
-var mnemonic = "relief margin puzzle truth rival royal lonely search oppose gym matrix globe";
+var mnemonic = "damp cliff state whale six era news call youth jar there change";

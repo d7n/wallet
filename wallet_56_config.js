@@ -1,1 +1,1 @@
-var mnemonic = "attend jealous wife addict erase pledge meadow piece blanket total away arch";
+var mnemonic = "dolphin chapter tumble answer frown index eagle tube spider agree old device";

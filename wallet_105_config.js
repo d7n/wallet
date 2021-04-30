@@ -1,1 +1,1 @@
-var mnemonic = "best large apart announce race glue trouble cheese meat rail ostrich pyramid";
+var mnemonic = "fault goat topic explain sadness toy joke feel picture palace economy wool";

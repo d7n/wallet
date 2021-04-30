@@ -1,1 +1,1 @@
-var mnemonic = "find zone drink collect frost silent science robust isolate danger daring choose";
+var mnemonic = "spawn face trial warfare polar disagree clip case coconut van slot hunt";

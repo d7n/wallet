@@ -1,1 +1,1 @@
-var mnemonic = "army salt helmet leisure buffalo belt tribe finish uphold catch innocent distance";
+var mnemonic = "silly giggle hurt wine butter joke among turn sweet exile fever clutch";

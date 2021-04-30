@@ -1,1 +1,1 @@
-var mnemonic = "carry over buyer wing history other truth turtle motion bracket maximum skate";
+var mnemonic = "chronic vacant bottom fetch scout put narrow solve collect wheel mouse hub";

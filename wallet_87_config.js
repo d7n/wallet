@@ -1,1 +1,1 @@
-var mnemonic = "iron slender switch gate slam crash juice useless tape believe stock model";
+var mnemonic = "ethics galaxy ahead left analyst swallow season price catch beach whisper lawn";

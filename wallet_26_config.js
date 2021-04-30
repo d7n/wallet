@@ -1,1 +1,1 @@
-var mnemonic = "author project novel audit soap business room clip convince pill unit hockey";
+var mnemonic = "can limb lecture warfare quantum verb injury federal spatial crunch radar skull";

@@ -1,1 +1,1 @@
-var mnemonic = "garbage artefact spend rough clog kick promote feel infant biology pet exist";
+var mnemonic = "glide until suit detect fan august silly memory paper swear game reopen";

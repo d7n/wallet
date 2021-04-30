@@ -1,1 +1,1 @@
-var mnemonic = "fence black sing clog industry toy vessel material child galaxy clarify rent";
+var mnemonic = "raven tide wine talent orchard live excess memory cup comfort pave spawn";

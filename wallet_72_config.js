@@ -1,1 +1,1 @@
-var mnemonic = "proof boil era seek vendor cycle field cargo entire cement funny intact";
+var mnemonic = "repeat episode hen anger round soap renew member trend poem receive elevator";

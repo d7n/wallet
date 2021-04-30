@@ -1,1 +1,1 @@
-var mnemonic = "cricket quit begin crater skate lazy math lady salt permit carpet cherry";
+var mnemonic = "destroy identify useful price winter avoid absent hire glide trend arrow firm";

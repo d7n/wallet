@@ -1,1 +1,1 @@
-var mnemonic = "cycle window flash disorder capital wide arena six enrich month film problem";
+var mnemonic = "unusual suggest explain garlic devote series bus obtain critic chief web firm";

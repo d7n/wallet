@@ -1,1 +1,1 @@
-var mnemonic = "fever arm page ginger stable giggle merry enjoy useless taste cotton rule";
+var mnemonic = "oppose vapor cabbage step wet zone odor puppy afraid case ghost weapon";

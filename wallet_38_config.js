@@ -1,1 +1,1 @@
-var mnemonic = "twice spell jazz jewel donate gesture gift orphan lazy bright unable doctor";
+var mnemonic = "vote upgrade claim have credit tonight cool galaxy record olive mango narrow";

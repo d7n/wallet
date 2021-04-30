@@ -1,1 +1,1 @@
-var mnemonic = "link help banner horn blood develop giraffe loud flat depart poem found";
+var mnemonic = "library craft crunch topple legal ostrich style fetch steak extend client town";

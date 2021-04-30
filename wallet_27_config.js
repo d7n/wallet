@@ -1,1 +1,1 @@
-var mnemonic = "record region donate rapid market drink live vessel young cloud invite pact";
+var mnemonic = "allow vocal hat bone finish cigar during usage client mom return aunt";

@@ -1,1 +1,1 @@
-var mnemonic = "potato door decide edge balcony rug remind cute humble loan genuine holiday";
+var mnemonic = "hill royal drum lounge sorry hello fluid aisle give satisfy protect pencil";

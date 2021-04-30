@@ -1,1 +1,1 @@
-var mnemonic = "cram wonder insane rotate truck element lawn guitar zebra best security gospel";
+var mnemonic = "paddle economy rare ketchup one enable speed slice knee scrub eager meadow";

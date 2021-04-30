@@ -1,1 +1,1 @@
-var mnemonic = "travel spin skin wrestle host hat demise maple cook ostrich smoke knife";
+var mnemonic = "open potato tomorrow bone oyster hat head awesome brother fiber smoke develop";

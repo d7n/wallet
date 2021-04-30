@@ -1,1 +1,1 @@
-var mnemonic = "square cook upgrade tribe dignity original ugly unfair verb shop warrior disease";
+var mnemonic = "razor fiscal what window simple armed supreme magic lonely initial index anger";

@@ -1,1 +1,1 @@
-var mnemonic = "upon search write stadium person upon dawn find tuition pole cinnamon zebra";
+var mnemonic = "enable mention screen duty inside attract walk junior soup humor shield buzz";

@@ -1,1 +1,1 @@
-var mnemonic = "circle bring can blush float shoulder regret cupboard dawn gaze arrive hold";
+var mnemonic = "tunnel badge skate stem cat gauge now source mansion purchase wage write";

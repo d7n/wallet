@@ -1,1 +1,1 @@
-var mnemonic = "awkward market lemon narrow stove kangaroo deliver obscure holiday future post guess";
+var mnemonic = "holiday nose call thought sketch warrior priority zebra remain salon wisdom wool";

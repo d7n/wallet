@@ -1,1 +1,1 @@
-var mnemonic = "logic nest chicken rifle bargain furnace like grab skirt slot often glad";
+var mnemonic = "return issue captain sense strike share powder enter air seed ranch famous";

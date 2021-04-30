@@ -1,1 +1,1 @@
-var mnemonic = "supply define summer tattoo dolphin hockey pride found across maid script amount";
+var mnemonic = "spring north margin video stove proof sand knife share purpose trap picture";

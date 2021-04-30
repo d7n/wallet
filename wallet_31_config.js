@@ -1,1 +1,1 @@
-var mnemonic = "file tenant kid goose hotel business advice legal crush this strong canyon";
+var mnemonic = "ecology mechanic forest thing used scheme nature follow motion birth wave state";

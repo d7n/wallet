@@ -1,1 +1,1 @@
-var mnemonic = "issue crew stock donor gold motion slow scheme tray north become novel";
+var mnemonic = "bike slice choose fork give comic budget minute worry blur recall vivid";

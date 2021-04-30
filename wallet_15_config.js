@@ -1,1 +1,1 @@
-var mnemonic = "about tired receive future write sand neglect prison into media mother inner";
+var mnemonic = "mad youth wet silver divide excite clinic winner pupil poet genuine rose";

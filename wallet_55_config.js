@@ -1,1 +1,1 @@
-var mnemonic = "supreme black injury toe daughter alarm exist million orphan dizzy circle tiny";
+var mnemonic = "music under surround embrace start slice note unveil actor autumn enemy main";

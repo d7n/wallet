@@ -1,1 +1,1 @@
-var mnemonic = "promote evolve struggle artwork clerk raccoon alley swallow umbrella film damage general";
+var mnemonic = "desert erupt autumn stick neither sugar scan silly woman power deputy hamster";

@@ -1,1 +1,1 @@
-var mnemonic = "bind breeze acoustic strike behind planet miracle tornado enable silent eager december";
+var mnemonic = "spoil century december spatial talent happy rather merit air protect dress employ";

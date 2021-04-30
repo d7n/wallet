@@ -1,1 +1,1 @@
-var mnemonic = "steak uncover print follow solution jacket alert tail shell attitude symbol pupil";
+var mnemonic = "top rack exotic virus thumb output gesture man oppose mixed common topic";

@@ -1,1 +1,1 @@
-var mnemonic = "junior side future moon cube mountain galaxy venue crisp left region short";
+var mnemonic = "section ticket alien cannon blur tackle saddle response float napkin cage tourist";

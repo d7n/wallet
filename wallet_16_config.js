@@ -1,1 +1,1 @@
-var mnemonic = "tail bike release crumble onion ritual dad cash detail resemble dutch arena";
+var mnemonic = "piece mean citizen thunder modify fortune drama trophy health sunset drum day";

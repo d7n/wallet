@@ -1,1 +1,1 @@
-var mnemonic = "flag join throw actress aspect choose bunker cause luxury add endless fetch";
+var mnemonic = "gadget worry tent crucial artwork ghost stumble aisle scale little cigar jazz";

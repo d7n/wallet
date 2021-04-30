@@ -1,1 +1,1 @@
-var mnemonic = "coffee slim silent crop anger wreck spawn race couple arctic slender gain";
+var mnemonic = "ten student north small air flee disagree ice near clever giggle mean";

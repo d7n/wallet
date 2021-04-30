@@ -1,1 +1,1 @@
-var mnemonic = "grit twelve peanut typical promote path dice shield dash just net enhance";
+var mnemonic = "fever antique large obey sport warrior average almost eight execute find frequent";

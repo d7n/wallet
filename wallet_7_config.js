@@ -1,1 +1,1 @@
-var mnemonic = "scrap crisp exchange baby display load gloom spy capable move moral want";
+var mnemonic = "breeze lonely credit oak butter until image appear energy vintage giggle release";

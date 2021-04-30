@@ -1,1 +1,1 @@
-var mnemonic = "select chat road ugly banana maximum left apology assist inch exact then";
+var mnemonic = "furnace pair tone wonder pipe exhaust weird wisdom rude inspire future card";

@@ -1,1 +1,1 @@
-var mnemonic = "romance lift nice above leaf feed hill dog afraid solid fork syrup";
+var mnemonic = "pipe aware start void ranch inherit wrist scorpion ask among unique cause";

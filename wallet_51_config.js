@@ -1,1 +1,1 @@
-var mnemonic = "bubble cement comfort above hope maze very purity guide advance this replace";
+var mnemonic = "rocket tool gun negative bulk useful suggest gaze image jacket obvious capable";

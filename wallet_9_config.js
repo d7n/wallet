@@ -1,1 +1,1 @@
-var mnemonic = "ritual trigger front afraid local tool uniform fiscal ticket uncle picture modify";
+var mnemonic = "junior clap metal old action sea explain say innocent mesh between cement";

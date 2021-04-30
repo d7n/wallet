@@ -1,1 +1,1 @@
-var mnemonic = "step person onion husband boat harsh scare blind clay rebuild couple pulp";
+var mnemonic = "achieve peasant exclude casino drink phrase silent hurry rotate casual summer dragon";
