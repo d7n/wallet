@@ -1,1 +1,1 @@
-var mnemonic = "glide miss drill practice flight mimic erode limit curtain tooth fruit april";
+var mnemonic = "hill edit chat dinner vapor sting oyster market defy ugly admit modify";

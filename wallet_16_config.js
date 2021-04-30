@@ -1,1 +1,1 @@
-var mnemonic = "couch thunder accident coffee crouch moment minute detect sad never excuse pact";
+var mnemonic = "stay length will hint battle traffic pupil humor home gaze depth voice";

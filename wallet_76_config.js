@@ -1,1 +1,1 @@
-var mnemonic = "flash unknown theory rely spirit opera start napkin hill ten until traffic";
+var mnemonic = "client admit romance deputy lava twist scale come kiwi love pupil rice";

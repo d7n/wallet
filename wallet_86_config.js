@@ -1,1 +1,1 @@
-var mnemonic = "blossom stable word minute receive library minute angle stove sniff surge entire";
+var mnemonic = "jelly injury donkey fine hotel card clever honey raw raven chicken wire";

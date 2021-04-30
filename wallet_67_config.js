@@ -1,1 +1,1 @@
-var mnemonic = "wise almost vague coyote midnight cry drastic alley captain bomb spring barrel";
+var mnemonic = "chunk lake divert drive degree idle ticket parrot provide oven expose duty";

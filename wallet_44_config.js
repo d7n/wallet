@@ -1,1 +1,1 @@
-var mnemonic = "feature firm catalog dune chicken swamp ill critic author shadow birth smile";
+var mnemonic = "expand material nut nest weird milk flush rifle normal follow ugly wait";

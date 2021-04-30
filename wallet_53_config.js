@@ -1,1 +1,1 @@
-var mnemonic = "hospital bone enrich diary venue mobile spy device manage man sure off";
+var mnemonic = "churn erode diary possible one damage engine range senior october together disorder";

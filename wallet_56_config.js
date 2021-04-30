@@ -1,1 +1,1 @@
-var mnemonic = "manage panic issue direct access regret spoil garlic stick maple ethics same";
+var mnemonic = "clutch lobster ladder empty proof arm shift dog carpet business index coach";

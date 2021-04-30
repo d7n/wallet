@@ -1,1 +1,1 @@
-var mnemonic = "giraffe over kitten reunion connect island reduce ketchup cabin kitten eight thought";
+var mnemonic = "feed course steak donate prosper enjoy scale this merit neglect bronze stairs";

@@ -1,1 +1,1 @@
-var mnemonic = "top mistake absorb culture universe hedgehog depend half oblige winner assault test";
+var mnemonic = "sell inner gasp shallow also foster dentist round output around cage cross";

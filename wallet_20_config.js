@@ -1,1 +1,1 @@
-var mnemonic = "exotic crowd shed enough another crawl wing able portion width dolphin draft";
+var mnemonic = "oyster wing pact hover nation novel smile lava head knock across large";

@@ -1,1 +1,1 @@
-var mnemonic = "fiction type nice anger heart diagram pond field never view uncle rate";
+var mnemonic = "law century favorite chunk always craft cheap ramp social trick fade flight";

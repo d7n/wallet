@@ -1,1 +1,1 @@
-var mnemonic = "hammer vocal couch catch flag initial film razor finish super file maze";
+var mnemonic = "delay intact enter corn distance fortune tag dice become artist solar rifle";

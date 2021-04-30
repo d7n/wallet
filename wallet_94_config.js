@@ -1,1 +1,1 @@
-var mnemonic = "cook region arrow faint riot syrup sock cause tissue exact essence foam";
+var mnemonic = "inside enlist come duck popular coyote identify just age narrow hawk reason";

@@ -1,1 +1,1 @@
-var mnemonic = "wet caught husband six ten dress raise news teach post trial venue";
+var mnemonic = "scorpion butter diamond siege dignity jeans cradle comic exist clap squeeze meadow";

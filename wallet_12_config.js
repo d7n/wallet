@@ -1,1 +1,1 @@
-var mnemonic = "amount panda panther final control tonight lyrics ill future public dance simple";
+var mnemonic = "cost uncover auto mechanic enact misery vendor minimum slight author fresh lesson";

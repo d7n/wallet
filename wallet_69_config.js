@@ -1,1 +1,1 @@
-var mnemonic = "dinner process mobile topic erupt danger sustain flip spot such air injury";
+var mnemonic = "awkward calm race poverty genre coil annual congress slogan check daring kitchen";

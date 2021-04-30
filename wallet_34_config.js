@@ -1,1 +1,1 @@
-var mnemonic = "lesson goat plug real renew emerge actor loud rain inner iron wool";
+var mnemonic = "veteran finish buyer avoid obvious rescue magnet hard lucky dose snow dash";

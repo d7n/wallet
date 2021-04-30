@@ -1,1 +1,1 @@
-var mnemonic = "grief acquire mask raven vicious glide all child relax sketch crisp cube";
+var mnemonic = "silent oil safe aware scare annual height style lucky install foam history";

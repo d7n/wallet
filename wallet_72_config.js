@@ -1,1 +1,1 @@
-var mnemonic = "smoke silk maximum opinion clap rapid glad amount witness viable diesel shrug";
+var mnemonic = "bronze panther parade tobacco twin warrior diet barrel hello wood share blind";

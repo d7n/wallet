@@ -1,1 +1,1 @@
-var mnemonic = "confirm bike swamp mammal flight tiny renew since tunnel stem autumn name";
+var mnemonic = "divide great ostrich lucky cinnamon quiz model appear midnight flame erase person";

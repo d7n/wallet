@@ -1,1 +1,1 @@
-var mnemonic = "next okay gather coast hotel armed recall delay rifle cup little tag";
+var mnemonic = "venture token occur evoke still solution video danger special faint tooth this";

@@ -1,1 +1,1 @@
-var mnemonic = "enter struggle version check certain dentist tell early virtual entire assist vital";
+var mnemonic = "tissue buzz upset evoke kingdom image police truck blossom install rally purse";

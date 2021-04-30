@@ -1,1 +1,1 @@
-var mnemonic = "obscure bridge sniff muffin reward material medal bulk talent unveil anchor welcome";
+var mnemonic = "arm upon fossil black arrow barely october reduce fall interest breeze pipe";

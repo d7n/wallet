@@ -1,1 +1,1 @@
-var mnemonic = "physical jeans result athlete include topple list rough accuse fluid security labor";
+var mnemonic = "hurdle area scene stairs cradle desk fox mixture pledge section sign habit";

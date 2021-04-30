@@ -1,1 +1,1 @@
-var mnemonic = "portion bird syrup meat vault boring fall input crop smooth arch venue";
+var mnemonic = "hazard later zebra reason craft element gate behave virtual stove head evoke";

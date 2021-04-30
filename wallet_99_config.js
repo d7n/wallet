@@ -1,1 +1,1 @@
-var mnemonic = "once total harbor pause acoustic chief coral symptom donkey across true situate";
+var mnemonic = "solution remind blast forward rug outer bicycle check snack version push jeans";

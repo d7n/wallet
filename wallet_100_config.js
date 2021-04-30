@@ -1,1 +1,1 @@
-var mnemonic = "spider hat throw horn lunar hungry online donor biology legend nuclear model";
+var mnemonic = "smart mom badge response brief crane message deer strike awesome also praise";

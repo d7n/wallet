@@ -1,1 +1,1 @@
-var mnemonic = "night among garlic furnace vicious host milk desert razor kid submit clown";
+var mnemonic = "item idea chef reopen undo enhance patrol census deny panic shy cherry";

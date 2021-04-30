@@ -1,1 +1,1 @@
-var mnemonic = "mask dilemma wink curtain dentist version pulp matrix danger cargo witness cruel";
+var mnemonic = "medal crime jealous industry bread cycle mean memory soda subway width trumpet";

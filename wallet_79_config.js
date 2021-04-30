@@ -1,1 +1,1 @@
-var mnemonic = "dutch conduct attack raw road reunion cotton woman tackle hundred omit olive";
+var mnemonic = "improve involve palace engage abstract regret junior raise draw collect roast employ";

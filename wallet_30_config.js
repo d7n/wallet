@@ -1,1 +1,1 @@
-var mnemonic = "man transfer bid dutch bench situate climb exile ready clever color unaware";
+var mnemonic = "walnut night yellow afford marriage cradle kind trash ecology cushion cattle crystal";

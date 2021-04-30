@@ -1,1 +1,1 @@
-var mnemonic = "library scatter win essay human embody large divorce lunar fluid iron alcohol";
+var mnemonic = "similar impact boring raise cube crime stamp load gravity casino spoon remind";

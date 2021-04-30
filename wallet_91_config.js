@@ -1,1 +1,1 @@
-var mnemonic = "merge glimpse oil tired thunder target trouble cricket blame system replace response";
+var mnemonic = "miracle misery father announce whip blame clutch car share text fantasy glove";

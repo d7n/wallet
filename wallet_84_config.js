@@ -1,1 +1,1 @@
-var mnemonic = "fetch brief treat smile armed replace cloud chimney gadget next science tape";
+var mnemonic = "elegant weather guilt notice rebel always collect economy rather tooth nuclear spare";

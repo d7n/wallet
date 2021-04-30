@@ -1,1 +1,1 @@
-var mnemonic = "trick eagle price attack chair sing husband stairs turn echo chalk furnace";
+var mnemonic = "erupt alter ready penalty zero purchase cart exchange space banana picnic pear";

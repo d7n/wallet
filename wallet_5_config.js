@@ -1,1 +1,1 @@
-var mnemonic = "vault hybrid loop oyster turkey doll rent excuse axis have alert foster";
+var mnemonic = "brother alpha spot observe term trend siren flip solar prosper fish blade";

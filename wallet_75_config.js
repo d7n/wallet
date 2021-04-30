@@ -1,1 +1,1 @@
-var mnemonic = "protect parent bus stock any water pact noodle purity embrace session quick";
+var mnemonic = "cream exotic bottom panther goat hawk insect snack garlic thunder yard art";

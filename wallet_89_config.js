@@ -1,1 +1,1 @@
-var mnemonic = "street guitar head fruit coral matrix loan bottom act badge wait brick";
+var mnemonic = "frame humble business travel laugh crisp vote sample buyer enlist quality exile";

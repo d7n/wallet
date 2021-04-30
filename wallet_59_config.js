@@ -1,1 +1,1 @@
-var mnemonic = "coral express label bubble gap hope license champion glare click unfair upgrade";
+var mnemonic = "another discover vague force clinic chalk auction earn garlic like clump neglect";

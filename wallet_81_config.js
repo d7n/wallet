@@ -1,1 +1,1 @@
-var mnemonic = "age shrug joke broccoli key injury soccer erode jacket divert gorilla know";
+var mnemonic = "impulse laundry memory hockey dry brother umbrella target eagle catch blade sort";

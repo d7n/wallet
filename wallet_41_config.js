@@ -1,1 +1,1 @@
-var mnemonic = "fatigue ski lift panel patch smooth comic fantasy true easily under kitten";
+var mnemonic = "immense project roof logic bullet dynamic verb piece until liberty october chief";

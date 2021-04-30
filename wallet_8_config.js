@@ -1,1 +1,1 @@
-var mnemonic = "avocado arena jelly green elegant resemble fashion next tree great payment seek";
+var mnemonic = "spike income recipe arm what media that awesome sample insect fun best";

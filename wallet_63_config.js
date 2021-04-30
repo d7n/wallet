@@ -1,1 +1,1 @@
-var mnemonic = "control pilot jealous sauce build motor fever collect cute rude sight supreme";
+var mnemonic = "pyramid anger friend tennis float sketch screen fan awful gap bind hold";

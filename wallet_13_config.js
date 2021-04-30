@@ -1,1 +1,1 @@
-var mnemonic = "hammer grant host know kite dash zebra render undo tired thumb phone";
+var mnemonic = "blush trip burger often water silver orbit equip engine defy crumble kidney";

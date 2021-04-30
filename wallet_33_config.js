@@ -1,1 +1,1 @@
-var mnemonic = "sing glare visual grab census lion help siren minor donor gospel bleak";
+var mnemonic = "glove path panda gravity super cause put tornado neck weather art zero";

@@ -1,1 +1,1 @@
-var mnemonic = "regret absent monkey device genius dinosaur mosquito correct mixture sugar ozone finger";
+var mnemonic = "judge fit domain inside carry card board scare curve boat swing top";

@@ -1,1 +1,1 @@
-var mnemonic = "whale royal later awful supply quit grunt grant walk actual sibling south";
+var mnemonic = "series regular jealous food parrot symptom remain inch chuckle carry vintage source";

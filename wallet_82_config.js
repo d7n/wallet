@@ -1,1 +1,1 @@
-var mnemonic = "core bracket kitten town dog decrease proof usual wish grass banner bridge";
+var mnemonic = "razor video kiwi caution cream enter funny chapter vote indicate shell inmate";

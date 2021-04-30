@@ -1,1 +1,1 @@
-var mnemonic = "try act panic slush obtain clarify famous question blame maximum wisdom pond";
+var mnemonic = "drink thumb expire garment witness law seed garbage focus become paddle buffalo";

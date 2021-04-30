@@ -1,1 +1,1 @@
-var mnemonic = "churn fame cart view flee grocery maze shuffle misery arctic sadness wine";
+var mnemonic = "exhibit news decade satoshi answer fall size ritual pear net tool wife";

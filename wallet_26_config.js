@@ -1,1 +1,1 @@
-var mnemonic = "enjoy supply iron exercise choose secret oyster master youth spider super ready";
+var mnemonic = "couch zebra gossip lake sudden feed note bless maximum retreat napkin chunk";

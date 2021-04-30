@@ -1,1 +1,1 @@
-var mnemonic = "add used speed eternal sugar damage lazy become among just phrase genuine";
+var mnemonic = "domain trend angle quiz snow despair calm pause exhibit swamp depart ten";

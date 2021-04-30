@@ -1,1 +1,1 @@
-var mnemonic = "cherry oven oil roast hurdle wild head actual cable session arch enforce";
+var mnemonic = "glow crawl mother ginger silly peanut else inflict bread phrase end behind";

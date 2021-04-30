@@ -1,1 +1,1 @@
-var mnemonic = "sadness jeans runway elephant catalog number domain differ bleak search credit solid";
+var mnemonic = "shed range rally jaguar chat below surge toilet drama inside include black";

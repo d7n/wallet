@@ -1,1 +1,1 @@
-var mnemonic = "rocket sphere supreme promote crucial remind mixture hungry feature method boy buyer";
+var mnemonic = "real wagon deliver raccoon february blame error mad trumpet hurry cupboard cube";

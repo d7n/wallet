@@ -1,1 +1,1 @@
-var mnemonic = "blast spot expose furnace give carry major improve crunch cannon crawl current";
+var mnemonic = "settle follow rapid toy idea rent wisdom member ship quarter extend wall";

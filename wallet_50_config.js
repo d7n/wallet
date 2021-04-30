@@ -1,1 +1,1 @@
-var mnemonic = "theme essence cream caution bus suggest supply page below sad announce manual";
+var mnemonic = "awkward tribe skill kite arm radio hope urban payment smooth start clerk";

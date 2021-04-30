@@ -1,1 +1,1 @@
-var mnemonic = "weapon inspire ranch cotton trip deer federal twist depend ensure evil quote";
+var mnemonic = "stove control lounge dutch raccoon produce tail horn violin trip uncover faith";

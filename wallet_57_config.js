@@ -1,1 +1,1 @@
-var mnemonic = "bamboo small almost vehicle resource awkward example uncover gown swarm flight rose";
+var mnemonic = "finish basket velvet trial enforce siege rice viable pluck entry limit meat";

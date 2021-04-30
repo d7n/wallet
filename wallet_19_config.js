@@ -1,1 +1,1 @@
-var mnemonic = "bring trip decorate ball affair myth connect paddle inflict soft market notable";
+var mnemonic = "endorse virus magic capital double ribbon crisp obvious unusual simple bar sell";

@@ -1,1 +1,1 @@
-var mnemonic = "wish mistake define gather age year remind wait swamp path dad enroll";
+var mnemonic = "air valve shine stay tourist marble cousin differ wreck ask orange size";

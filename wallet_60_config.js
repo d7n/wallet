@@ -1,1 +1,1 @@
-var mnemonic = "force payment festival initial furnace dose huge announce hurt wild grid daring";
+var mnemonic = "goddess stomach repair eternal fury list tube cabbage mystery scorpion cousin lunar";

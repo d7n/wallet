@@ -1,1 +1,1 @@
-var mnemonic = "embody october blade extend clay abstract aim manage hello settle cereal marriage";
+var mnemonic = "gas cigar term maid drip device fetch pen borrow culture exhaust churn";

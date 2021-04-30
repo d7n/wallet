@@ -1,1 +1,1 @@
-var mnemonic = "scissors pluck salon trust weather obscure oyster hollow regret cave alter glance";
+var mnemonic = "six tube staff hire emerge just trash food evil mechanic diary release";

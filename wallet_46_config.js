@@ -1,1 +1,1 @@
-var mnemonic = "bless poem resource genre enemy cloud giant wise tray drop glide tumble";
+var mnemonic = "cream brush method earth exhibit admit enjoy online coffee lazy donkey benefit";

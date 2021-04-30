@@ -1,1 +1,1 @@
-var mnemonic = "craft club wasp thing find canyon sphere believe curious abuse broccoli nominee";
+var mnemonic = "tone media annual fire letter voice paper actual video ship human lounge";

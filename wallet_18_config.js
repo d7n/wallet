@@ -1,1 +1,1 @@
-var mnemonic = "ritual fish bachelor say scorpion first achieve stem better estate price believe";
+var mnemonic = "wild cinnamon that harvest weird unfold bone drop check dwarf next supply";

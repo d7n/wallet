@@ -1,1 +1,1 @@
-var mnemonic = "example message chimney silent minute dust picnic anchor music brick window glide";
+var mnemonic = "piano road noodle local wrestle thrive decrease cheap robust office claim about";

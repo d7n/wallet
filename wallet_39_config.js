@@ -1,1 +1,1 @@
-var mnemonic = "drop illness wealth achieve ride coconut range bunker vessel certain tissue puppy";
+var mnemonic = "shrug expect more whip junk crystal off camera buzz combine album beauty";

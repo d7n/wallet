@@ -1,1 +1,1 @@
-var mnemonic = "car alcohol crew royal road hair high vault wedding sweet club resist";
+var mnemonic = "gain hedgehog album rib cousin access embark recipe orient finger symptom segment";

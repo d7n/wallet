@@ -1,1 +1,1 @@
-var mnemonic = "ripple cradle bring excite point breeze fragile vague mom purpose fog blind";
+var mnemonic = "duck drastic drink life valid arrow model resource hole pride very wise";

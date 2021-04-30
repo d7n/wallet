@@ -1,1 +1,1 @@
-var mnemonic = "drop fine canal thought ketchup nation filter churn happy toward hybrid foil";
+var mnemonic = "term found solid pill demand dinner ugly teach bridge rough describe better";

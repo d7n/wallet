@@ -1,1 +1,1 @@
-var mnemonic = "auction excuse fee extra genuine void destroy giggle decade glimpse deputy caught";
+var mnemonic = "pig total finger swim adjust scorpion employ install suffer fatal better bleak";

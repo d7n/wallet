@@ -1,1 +1,1 @@
-var mnemonic = "ozone honey defy bonus shield exchange weird case brass result genre fruit";
+var mnemonic = "fiber window gesture sure drip inner worth nerve beef snake achieve youth";

@@ -1,1 +1,1 @@
-var mnemonic = "order recycle lyrics spy husband bike faint risk stove effort reopen anchor";
+var mnemonic = "loan dune bright found promote razor alcohol census loud tragic mansion method";

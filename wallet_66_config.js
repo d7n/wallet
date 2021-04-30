@@ -1,1 +1,1 @@
-var mnemonic = "legal hawk end parade analyst seat major sad doll fence bonus timber";
+var mnemonic = "sight limb miss sea few romance access desert cute voyage eight front";

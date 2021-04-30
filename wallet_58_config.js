@@ -1,1 +1,1 @@
-var mnemonic = "fox desert slot spawn minute edit luxury hedgehog afraid height chuckle slot";
+var mnemonic = "cover raise pizza indicate warfare blossom begin innocent click hen misery absorb";

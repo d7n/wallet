@@ -1,1 +1,1 @@
-var mnemonic = "shuffle paddle rival valve hurry dad dawn grit print announce negative offer";
+var mnemonic = "bread mail behave maid isolate wrong flock fame such confirm daring library";

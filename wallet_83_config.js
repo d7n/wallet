@@ -1,1 +1,1 @@
-var mnemonic = "good harsh garlic forum conduct arch dance syrup brick undo wild chaos";
+var mnemonic = "act supreme nose fluid material palace priority pride deliver climb rug brain";

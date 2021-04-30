@@ -1,1 +1,1 @@
-var mnemonic = "trick punch lake move stadium width february merge vehicle cloth civil neutral";
+var mnemonic = "miracle skate vote jungle rail worth wrong marine text chat abandon laptop";

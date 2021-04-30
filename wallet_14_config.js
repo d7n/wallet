@@ -1,1 +1,1 @@
-var mnemonic = "remove mandate cliff polar embark detect pumpkin trigger tuition token end once";
+var mnemonic = "scout barrel engine cash federal pass anxiety ticket screen tank keen tissue";

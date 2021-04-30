@@ -1,1 +1,1 @@
-var mnemonic = "deputy toilet resource whale plate palm amused negative home breeze warrior benefit";
+var mnemonic = "term glue valve crawl thumb relief turtle stumble awesome broom tide evil";

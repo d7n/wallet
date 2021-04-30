@@ -1,1 +1,1 @@
-var mnemonic = "option solution parent food garbage vicious earn erase worry improve alarm monkey";
+var mnemonic = "promote trade basket point casual actor canyon parent eternal unable excite talent";

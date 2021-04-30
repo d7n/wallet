@@ -1,1 +1,1 @@
-var mnemonic = "pride gym embark attend forum ball observe tide congress eyebrow excuse shine";
+var mnemonic = "loyal police survey market main snake hub inner humor labor tackle gap";

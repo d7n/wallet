@@ -1,1 +1,1 @@
-var mnemonic = "lady insect another cube solve bundle giggle elegant excuse diesel deputy kick";
+var mnemonic = "insect metal crop boy supreme similar note sell shell never lazy beef";

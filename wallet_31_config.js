@@ -1,1 +1,1 @@
-var mnemonic = "crouch wasp eager extend seven guess wet beyond climb forget verb cheap";
+var mnemonic = "guess vague essay artwork private loud blur expire economy setup lab tuition";

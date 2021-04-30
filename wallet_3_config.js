@@ -1,1 +1,1 @@
-var mnemonic = "phrase plug indoor approve rubber corn scatter quarter coast peace layer idea";
+var mnemonic = "reveal easy friend floor crazy when endorse decline boring mountain coach stone";

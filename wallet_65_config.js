@@ -1,1 +1,1 @@
-var mnemonic = "indicate ranch rally update carbon future pyramid current bubble useless pride achieve";
+var mnemonic = "casual never glide door drip senior galaxy unaware impose basic position faith";

@@ -1,1 +1,1 @@
-var mnemonic = "indicate ranch bunker right tiger differ poet lift alone coffee burst lawsuit";
+var mnemonic = "fragile profit mercy hill jaguar slush daring pulse burger praise whisper essay";
