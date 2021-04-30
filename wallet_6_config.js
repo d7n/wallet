@@ -1,1 +1,1 @@
-var mnemonic = "bar sorry dust mandate bus squeeze tragic indoor people gain suspect helmet";
+var mnemonic = "october bunker physical correct orient sorry oval tongue labor laundry glide olympic";

@@ -1,1 +1,1 @@
-var mnemonic = "width acid exclude curious member kid cradle salmon large era neutral latin";
+var mnemonic = "erupt excess cloud phrase accuse wrong opinion great verb length you very";

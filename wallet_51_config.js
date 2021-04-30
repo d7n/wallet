@@ -1,1 +1,1 @@
-var mnemonic = "also wolf dignity profit link version possible wool medal perfect ahead cool";
+var mnemonic = "struggle stumble solve head board fresh net blame fiscal nation sudden vault";

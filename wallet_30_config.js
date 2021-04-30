@@ -1,1 +1,1 @@
-var mnemonic = "twin throw reform item human match decrease similar club access approve unknown";
+var mnemonic = "crunch author nothing meat easy solid always market first caught cover tribe";

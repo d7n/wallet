@@ -1,1 +1,1 @@
-var mnemonic = "able salmon prosper hamster target image female cloth ostrich delay laugh delay";
+var mnemonic = "proud tower recall agent good hello deputy add swallow seminar over busy";

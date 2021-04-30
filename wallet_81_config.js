@@ -1,1 +1,1 @@
-var mnemonic = "crop around tomorrow defense modify sample blood point height van cricket salt";
+var mnemonic = "ranch quick arrive discover inside hero pause fluid bleak hen type pledge";

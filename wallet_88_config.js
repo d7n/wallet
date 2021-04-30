@@ -1,1 +1,1 @@
-var mnemonic = "beauty loop calm nature huge fuel damp siren lounge tomorrow symptom slide";
+var mnemonic = "taste oppose play theory clerk warfare health match domain purity rocket illegal";

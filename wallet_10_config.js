@@ -1,1 +1,1 @@
-var mnemonic = "eight govern bulk smart illness among similar cinnamon host screen shift pigeon";
+var mnemonic = "tortoise wool gift wet huge dream place critic kingdom spot empty stumble";

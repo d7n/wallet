@@ -1,1 +1,1 @@
-var mnemonic = "layer friend spoil maid canoe night forest trip vacuum mixed matter fringe";
+var mnemonic = "curtain you mixed toss sleep ship build burden power public shrimp impose";

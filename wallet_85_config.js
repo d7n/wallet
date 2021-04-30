@@ -1,1 +1,1 @@
-var mnemonic = "review badge mule valid rather shaft poet seminar toward tail much habit";
+var mnemonic = "loud tag scrap initial exist already cabin seek barrel worth visual next";

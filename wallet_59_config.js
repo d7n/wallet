@@ -1,1 +1,1 @@
-var mnemonic = "wisdom use lion skin other peace more lamp funny where cat devote";
+var mnemonic = "game mushroom protect pause unit night day left suggest brief mechanic risk";

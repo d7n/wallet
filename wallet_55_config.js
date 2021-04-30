@@ -1,1 +1,1 @@
-var mnemonic = "witness rapid floor hip naive boy improve animal emerge left edge actual";
+var mnemonic = "bundle stone ocean govern tool either long episode total unit syrup reflect";

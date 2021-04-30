@@ -1,1 +1,1 @@
-var mnemonic = "adjust gaze fossil fat mutual garage enlist barrel weather uphold corn salad";
+var mnemonic = "kid vanish rotate odor jungle door grocery cliff baby battle shrimp walk";

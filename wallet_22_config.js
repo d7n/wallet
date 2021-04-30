@@ -1,1 +1,1 @@
-var mnemonic = "wonder novel defy afford outside process strike analyst fall inside chair catalog";
+var mnemonic = "clock trial push island swamp coral invest crane flag fix pair hurry";

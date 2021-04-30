@@ -1,1 +1,1 @@
-var mnemonic = "riot dilemma also cash subject glare bike shine squirrel help wolf yard";
+var mnemonic = "monster stick curve table model rigid oblige better wheel abstract stable life";

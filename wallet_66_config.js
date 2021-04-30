@@ -1,1 +1,1 @@
-var mnemonic = "jacket walnut romance fragile huge indicate gauge super side action balance organ";
+var mnemonic = "kite north blue crane pipe venture mercy aisle pluck crash grass toe";

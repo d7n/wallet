@@ -1,1 +1,1 @@
-var mnemonic = "perfect attack occur crash same update seed voice pull mother boy shrug";
+var mnemonic = "layer sugar athlete melt join fetch way inner super build sheriff skull";

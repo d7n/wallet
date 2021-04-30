@@ -1,1 +1,1 @@
-var mnemonic = "scissors opera village hill error misery mystery level unhappy force firm elbow";
+var mnemonic = "situate regular sport essence inch correct grass polar finish rebuild other exile";

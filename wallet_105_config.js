@@ -1,1 +1,1 @@
-var mnemonic = "adapt false first dignity abandon fresh captain rack surface crucial devote lawsuit";
+var mnemonic = "name fetch caution wink shallow donkey song salon radar friend afraid next";

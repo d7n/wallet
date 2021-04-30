@@ -1,1 +1,1 @@
-var mnemonic = "ship wreck will test element diet purchase strong tribe tray broom also";
+var mnemonic = "private explain lady group shallow heavy lamp member art execute box relax";

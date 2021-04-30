@@ -1,1 +1,1 @@
-var mnemonic = "inch vanish stable obtain gift cushion salon extend prepare tissue segment submit";
+var mnemonic = "urban wall much present wide bring device among match roast horror address";

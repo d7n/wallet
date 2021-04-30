@@ -1,1 +1,1 @@
-var mnemonic = "movie nominee teach flame home myth enroll sort science crime hen drink";
+var mnemonic = "stem sentence clerk rescue damage security better ecology upset security fluid educate";

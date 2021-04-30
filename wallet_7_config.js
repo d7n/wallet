@@ -1,1 +1,1 @@
-var mnemonic = "spike rug spy barrel curtain bridge knock horse large pistol fame trap";
+var mnemonic = "virus upper maximum target whale trim setup add find client tilt alien";

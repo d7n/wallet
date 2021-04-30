@@ -1,1 +1,1 @@
-var mnemonic = "pelican loud super bulk genre hope hire elder announce expose word cool";
+var mnemonic = "decorate daughter cigar online fossil sure control quote issue sign ribbon foam";

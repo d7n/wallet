@@ -1,1 +1,1 @@
-var mnemonic = "taxi boy cabin whip screen gift episode orient defense bone neutral brush";
+var mnemonic = "miracle office help enroll tortoise wagon spawn enough advice lock small quality";

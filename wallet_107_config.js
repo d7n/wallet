@@ -1,1 +1,1 @@
-var mnemonic = "gallery swim tape defense useless stuff turn course borrow desert renew connect";
+var mnemonic = "skin element laundry edge exotic weasel carry dog false duty require voice";

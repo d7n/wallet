@@ -1,1 +1,1 @@
-var mnemonic = "crucial brother movie rally chief parade clay element perfect cigar cruel bring";
+var mnemonic = "aim leave guess jungle snake scene odor foster portion toddler pulse cart";

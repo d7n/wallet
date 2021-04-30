@@ -1,1 +1,1 @@
-var mnemonic = "obscure secret winter worth planet fossil above report grunt cute dawn sample";
+var mnemonic = "good swallow sweet symbol grace cricket depart interest episode still age rhythm";

@@ -1,1 +1,1 @@
-var mnemonic = "family shoot mushroom cook book typical pepper satoshi sentence job globe fee";
+var mnemonic = "toddler casino error civil next forget scare original weapon secret brick regret";

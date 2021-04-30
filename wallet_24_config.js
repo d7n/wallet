@@ -1,1 +1,1 @@
-var mnemonic = "escape across repair siren bicycle unique only help holiday woman dwarf deputy";
+var mnemonic = "warm scan valve square vintage sea clock letter capable maple escape match";

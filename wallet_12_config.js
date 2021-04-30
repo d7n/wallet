@@ -1,1 +1,1 @@
-var mnemonic = "danger bike armed elegant combine diamond diesel lady average enforce tobacco mesh";
+var mnemonic = "lawsuit pen slogan master path garage flight basic uncover muscle outer input";

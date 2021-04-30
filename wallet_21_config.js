@@ -1,1 +1,1 @@
-var mnemonic = "fabric shop fatigue betray symbol divide ten ride laptop barely buffalo power";
+var mnemonic = "tooth slush behave announce damage puzzle orchard rubber faith network special boring";

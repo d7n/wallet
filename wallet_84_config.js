@@ -1,1 +1,1 @@
-var mnemonic = "skull sentence develop always cheese glory security evil soup yellow curve casual";
+var mnemonic = "essence travel funny certain fitness exchange private similar approve page menu idle";

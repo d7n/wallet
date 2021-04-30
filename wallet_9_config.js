@@ -1,1 +1,1 @@
-var mnemonic = "give joy coin creek vault depend kidney beauty barely escape dress glue";
+var mnemonic = "mail plastic random marriage endless biology stamp dentist science peanut twenty peasant";

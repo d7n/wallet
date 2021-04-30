@@ -1,1 +1,1 @@
-var mnemonic = "used verb erase census account leader airport upset antenna identify crush decorate";
+var mnemonic = "flush core renew keen sort hazard happy dust win nothing seek suspect";

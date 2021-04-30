@@ -1,1 +1,1 @@
-var mnemonic = "alert cupboard student planet pull boil basic base half shine eagle arrow";
+var mnemonic = "voyage bracket shine govern digital stuff input under smooth icon universe rabbit";

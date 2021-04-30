@@ -1,1 +1,1 @@
-var mnemonic = "bean innocent science fan govern hockey student hunt rocket enact position surprise";
+var mnemonic = "enroll junk federal bless suffer huge diary moral donate elevator fury exercise";

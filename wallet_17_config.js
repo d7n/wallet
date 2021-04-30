@@ -1,1 +1,1 @@
-var mnemonic = "mountain million strategy plug huge tobacco lady refuse romance leg puppy deliver";
+var mnemonic = "gown disorder together retire march melody device document recipe faith repeat social";

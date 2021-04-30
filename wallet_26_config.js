@@ -1,1 +1,1 @@
-var mnemonic = "divide scorpion tortoise loud always autumn expand learn welcome truly arena heavy";
+var mnemonic = "casual aware crucial engine climb focus entire twelve gym spy romance grocery";

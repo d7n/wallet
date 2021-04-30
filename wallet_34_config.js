@@ -1,1 +1,1 @@
-var mnemonic = "move safe lumber switch meadow charge require tuition split boil brave mystery";
+var mnemonic = "unfold basic case monster day stomach spy express eager oak forward donate";

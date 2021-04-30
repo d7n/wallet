@@ -1,1 +1,1 @@
-var mnemonic = "walk nephew antenna term holiday window acid tongue average dilemma tongue mobile";
+var mnemonic = "relax road token clarify alert shoot million visa dismiss happy mesh milk";

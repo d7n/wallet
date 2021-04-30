@@ -1,1 +1,1 @@
-var mnemonic = "unknown sausage pistol real hunt develop relief unfair march farm crouch slush";
+var mnemonic = "tell spike spell wear above start property tattoo insect lounge text equip";

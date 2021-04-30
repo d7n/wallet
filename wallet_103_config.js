@@ -1,1 +1,1 @@
-var mnemonic = "split absent pumpkin bonus ask return inner angry grass hope rescue spin";
+var mnemonic = "cheese more resource smile elbow hour scene sample uphold anchor endless smart";

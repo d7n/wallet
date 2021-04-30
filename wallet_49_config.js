@@ -1,1 +1,1 @@
-var mnemonic = "leg firm combine network impose defy grief swamp face wear cradle language";
+var mnemonic = "sketch space balcony survey kidney pyramid arctic clarify yard notice feel brass";

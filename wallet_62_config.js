@@ -1,1 +1,1 @@
-var mnemonic = "gun used recall method awful churn ignore blur source depth vanish armor";
+var mnemonic = "nose defy ribbon donate excess night gift conduct aim angle hawk put";

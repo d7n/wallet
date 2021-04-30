@@ -1,1 +1,1 @@
-var mnemonic = "target leader vacant echo soul shell love number hard gown claw gravity";
+var mnemonic = "pizza turtle under erosion citizen curious satisfy seminar happy infant best private";

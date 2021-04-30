@@ -1,1 +1,1 @@
-var mnemonic = "warrior simple boy term divert yard into actual holiday galaxy olympic ghost";
+var mnemonic = "wife minute few cool warrior divide betray direct agent catch balcony afford";

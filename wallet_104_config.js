@@ -1,1 +1,1 @@
-var mnemonic = "inject lift alone case process mass equal hobby damage multiply flag buddy";
+var mnemonic = "skull copy crisp style turtle what scrap dismiss win penalty solar dutch";

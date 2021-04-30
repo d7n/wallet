@@ -1,1 +1,1 @@
-var mnemonic = "screen range plunge update behind inquiry table polar juice hospital history fish";
+var mnemonic = "exact result pencil close eye kit property aware kiwi average cargo else";

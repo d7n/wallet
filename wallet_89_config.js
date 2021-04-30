@@ -1,1 +1,1 @@
-var mnemonic = "real owner buzz rigid ability ranch toss gather inmate sausage motion orient";
+var mnemonic = "matter define apology jeans culture settle oyster antique coral track garden large";

@@ -1,1 +1,1 @@
-var mnemonic = "roast merry present level message unaware ethics bleak major vague velvet topic";
+var mnemonic = "voice tool skull capable extend final base army recycle sword blast crash";

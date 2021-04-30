@@ -1,1 +1,1 @@
-var mnemonic = "elbow anchor once column region crisp convince say wet innocent neutral govern";
+var mnemonic = "voyage scout curious enlist grab swallow protect congress utility urge roast absurd";

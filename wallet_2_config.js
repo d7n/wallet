@@ -1,1 +1,1 @@
-var mnemonic = "thunder stereo butter valid stamp build consider tourist field attack orient step";
+var mnemonic = "pepper turn curve ignore where angle replace seed axis snack meat grow";

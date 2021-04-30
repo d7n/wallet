@@ -1,1 +1,1 @@
-var mnemonic = "image genuine jacket fever lyrics photo speak squirrel talent purity learn find";
+var mnemonic = "setup rare mad remember twelve truth hint category social snake firm catch";

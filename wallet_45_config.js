@@ -1,1 +1,1 @@
-var mnemonic = "trick gown wish blouse green rubber stomach hat avocado nurse creek walnut";
+var mnemonic = "middle want scatter struggle news labor feed drop escape gym empower aunt";

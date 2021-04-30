@@ -1,1 +1,1 @@
-var mnemonic = "spoon this infant awesome gun wonder glad bid multiply balance siege direct";
+var mnemonic = "fiber share execute report crater plug choice tray elbow banner glance tongue";

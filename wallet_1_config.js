@@ -1,1 +1,1 @@
-var mnemonic = "make involve cattle buzz grocery runway monkey stem goose few lounge gentle";
+var mnemonic = "alien route zone purpose win coffee jaguar pact seek midnight bunker zebra";

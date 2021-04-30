@@ -1,1 +1,1 @@
-var mnemonic = "mother cream maid great stage hard suspect timber saddle raise almost tackle";
+var mnemonic = "heart borrow become impose lend bridge silver receive neglect dog clarify music";

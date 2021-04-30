@@ -1,1 +1,1 @@
-var mnemonic = "parent negative claw garment cheese reduce issue grain primary lemon giraffe net";
+var mnemonic = "addict hobby athlete endless transfer slab page matter vacuum marine absurd settle";

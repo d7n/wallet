@@ -1,1 +1,1 @@
-var mnemonic = "reject gadget chapter only security unique vague behind certain power unusual mail";
+var mnemonic = "argue cost receive sugar double inject confirm erupt furnace empower quiz bacon";

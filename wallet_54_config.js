@@ -1,1 +1,1 @@
-var mnemonic = "amused input pizza sunset accuse wash shop staff enter cream monster churn";
+var mnemonic = "response lion stuff wreck sport say fence like obey visa culture unable";

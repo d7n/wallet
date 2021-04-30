@@ -1,1 +1,1 @@
-var mnemonic = "crime wide creek wolf skull lawsuit car chalk desert swamp embark lamp";
+var mnemonic = "doctor ozone goose slam scorpion stable inherit huge record ridge caught slide";

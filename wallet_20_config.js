@@ -1,1 +1,1 @@
-var mnemonic = "fly dash member certain year tiny lift online canvas busy version gap";
+var mnemonic = "broom spider beauty near cause rib melt dinner dignity tomorrow warrior tattoo";

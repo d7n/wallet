@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow prize swing ability skull coffee profit dragon imitate people next taste";
+var mnemonic = "culture olive oil side fork example donkey want scrap quit thunder like";

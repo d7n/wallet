@@ -1,1 +1,1 @@
-var mnemonic = "denial quick silk relax window case sibling region fatal situate receive thumb";
+var mnemonic = "dirt moral stable trip viable attend pond century announce swing hawk adjust";

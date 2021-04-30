@@ -1,1 +1,1 @@
-var mnemonic = "tackle nation trouble turn upon provide sail toss soccer silly flush lawn";
+var mnemonic = "private cheap motor frost accident parade husband industry leave antique shrimp spoil";

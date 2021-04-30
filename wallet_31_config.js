@@ -1,1 +1,1 @@
-var mnemonic = "apple curtain female giggle throw bachelor fuel expect fatal method bitter cancel";
+var mnemonic = "salad addict glow boss cement avoid move flush pioneer dirt critic damp";

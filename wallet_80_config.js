@@ -1,1 +1,1 @@
-var mnemonic = "swamp judge rapid seat amazing smooth bag venture exclude bamboo clap rule";
+var mnemonic = "promote hockey rent verify reflect napkin enter concert horn defense skin slice";

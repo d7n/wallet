@@ -1,1 +1,1 @@
-var mnemonic = "oxygen please post public thunder what merge need goose april bleak agree";
+var mnemonic = "crater slot reject salt smooth present run law friend hurdle derive family";

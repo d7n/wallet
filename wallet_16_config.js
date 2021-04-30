@@ -1,1 +1,1 @@
-var mnemonic = "mixed sister twenty idle middle during install motor dog attract brass permit";
+var mnemonic = "genius place urban curve dolphin mad elder found velvet uniform guess rebel";

@@ -1,1 +1,1 @@
-var mnemonic = "pelican miss badge robot tumble derive tent champion either march wild auction";
+var mnemonic = "devote kick bundle rare inherit absent rich rare impulse virus concert exact";

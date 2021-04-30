@@ -1,1 +1,1 @@
-var mnemonic = "reject focus owner brush walk fetch space canvas capable predict want public";
+var mnemonic = "fix same symbol amazing giggle volcano paper little curtain scout lemon chuckle";

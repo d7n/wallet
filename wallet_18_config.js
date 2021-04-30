@@ -1,1 +1,1 @@
-var mnemonic = "cute this idle slam wealth stereo improve elegant blanket thank zebra wool";
+var mnemonic = "blur fitness word disagree party quote cost virtual people kitten echo erosion";

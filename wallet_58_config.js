@@ -1,1 +1,1 @@
-var mnemonic = "bike clean senior leopard program biology camera logic biology acid acoustic prepare";
+var mnemonic = "adapt name filter arena excuse stone next math quarter air earn wrap";

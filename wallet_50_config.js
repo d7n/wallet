@@ -1,1 +1,1 @@
-var mnemonic = "wonder lunch air music cupboard sport miracle despair physical leader trouble rifle";
+var mnemonic = "come uncle you exhaust unknown uncle someone moon beyond govern cage soda";

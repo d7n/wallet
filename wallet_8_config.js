@@ -1,1 +1,1 @@
-var mnemonic = "mixture consider aware arrange vicious puppy rich harsh bundle aunt cinnamon increase";
+var mnemonic = "lamp bless hospital transfer era wisdom ability muscle sting sick duck aerobic";

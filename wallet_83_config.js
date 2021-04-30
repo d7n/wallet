@@ -1,1 +1,1 @@
-var mnemonic = "knee cherry follow robust pave dolphin marriage gaze relief lunch animal visit";
+var mnemonic = "glove celery envelope maze entry mixed chief super rather main unable exile";

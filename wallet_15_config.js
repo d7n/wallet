@@ -1,1 +1,1 @@
-var mnemonic = "select subject soft claw fringe weapon remind gallery ticket alley slab family";
+var mnemonic = "topple injury either party axis maple diet spike arrive black visa document";

@@ -1,1 +1,1 @@
-var mnemonic = "exhibit treat ocean roast harbor more fat clean wall clog quarter account";
+var mnemonic = "viable minor float peanut rice bracket sunny evil cross isolate divide frozen";

@@ -1,1 +1,1 @@
-var mnemonic = "swallow dose lecture drift dice planet custom draw whisper embark promote picture";
+var mnemonic = "vote income rapid system marine stone chuckle mirror auto cluster craft boss";

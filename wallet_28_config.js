@@ -1,1 +1,1 @@
-var mnemonic = "spider arena fault employ sentence solar screen only harvest paper small tired";
+var mnemonic = "bread toe forum exclude whale climb glue manage inherit casino source ride";

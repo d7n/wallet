@@ -1,1 +1,1 @@
-var mnemonic = "girl kite dentist apology can silly cousin orchard special reason sibling domain";
+var mnemonic = "stone economy fortune top math mixture hire furnace hospital february moon health";

@@ -1,1 +1,1 @@
-var mnemonic = "exist thumb trash satisfy inherit maze juice soccer company pioneer loyal fan";
+var mnemonic = "range access document open melody van legend equal wash wrap deliver diary";

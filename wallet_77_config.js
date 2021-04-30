@@ -1,1 +1,1 @@
-var mnemonic = "brave ask slush gown drill tornado theme whisper close cannon mind kitten";
+var mnemonic = "naive behave final salad walk idle media scare marine pride slam among";

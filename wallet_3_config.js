@@ -1,1 +1,1 @@
-var mnemonic = "attitude hand draw plate violin insect story kitchen company cube note differ";
+var mnemonic = "cry moral banner behave river inhale key theme shop town stay castle";

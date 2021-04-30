@@ -1,1 +1,1 @@
-var mnemonic = "rifle horse steak rude shadow resist miss say suffer inherit yellow pizza";
+var mnemonic = "merry crash property cousin flip pave recycle assume swallow common inch joke";

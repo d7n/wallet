@@ -1,1 +1,1 @@
-var mnemonic = "drip must artefact unaware seminar crash staff wonder script lunar security cat";
+var mnemonic = "permit clinic harsh coconut draw sweet title vocal bunker aspect ginger very";

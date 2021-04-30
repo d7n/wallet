@@ -1,1 +1,1 @@
-var mnemonic = "edit belt eager again soup marble arctic shift tortoise hunt because illness";
+var mnemonic = "bridge obey saddle violin shallow oxygen account cat air climb gauge panic";

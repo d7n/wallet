@@ -1,1 +1,1 @@
-var mnemonic = "ocean ecology beef fossil old keep wealth power fade trust leave alien";
+var mnemonic = "cigar hospital laundry fluid entire timber swarm prevent tag rhythm peasant bulk";
