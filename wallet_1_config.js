@@ -1,1 +1,1 @@
-var mnemonic = "busy lunar indicate renew desert mobile spend canal blur dish purpose nut";
+var mnemonic = "make involve cattle buzz grocery runway monkey stem goose few lounge gentle";

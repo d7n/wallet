@@ -1,1 +1,1 @@
-var mnemonic = "toilet goose eight weapon nephew best surprise stand question picnic energy light";
+var mnemonic = "jacket walnut romance fragile huge indicate gauge super side action balance organ";

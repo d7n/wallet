@@ -1,1 +1,1 @@
-var mnemonic = "tongue mountain slight auto correct river phone october verify angry merge seminar";
+var mnemonic = "wolf joy inquiry bunker bind bread initial fence air learn ship drip";

@@ -1,1 +1,1 @@
-var mnemonic = "vacant obey weekend hub demise evolve glue gift useless feature pink world";
+var mnemonic = "rifle horse steak rude shadow resist miss say suffer inherit yellow pizza";

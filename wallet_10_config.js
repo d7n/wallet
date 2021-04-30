@@ -1,1 +1,1 @@
-var mnemonic = "post festival old duty canvas they rich mouse caught fame toast income";
+var mnemonic = "eight govern bulk smart illness among similar cinnamon host screen shift pigeon";

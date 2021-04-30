@@ -1,1 +1,1 @@
-var mnemonic = "drink era prefer ozone gas chapter garden drum game just use priority";
+var mnemonic = "gun used recall method awful churn ignore blur source depth vanish armor";

@@ -1,1 +1,1 @@
-var mnemonic = "shaft define attract afford scout little cricket soon august version cannon medal";
+var mnemonic = "walk nephew antenna term holiday window acid tongue average dilemma tongue mobile";

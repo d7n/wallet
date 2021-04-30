@@ -1,1 +1,1 @@
-var mnemonic = "whale clock runway crater need garden stumble hour lend outdoor sausage congress";
+var mnemonic = "drip must artefact unaware seminar crash staff wonder script lunar security cat";

@@ -1,1 +1,1 @@
-var mnemonic = "interest diary tired artwork hunt twist note awful gallery remain hover universe";
+var mnemonic = "auction mass slow clip buzz surround slender ostrich upper venue between practice";

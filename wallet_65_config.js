@@ -1,1 +1,1 @@
-var mnemonic = "trial payment error churn kiss sunset crane fee fantasy caution chunk point";
+var mnemonic = "crime wide creek wolf skull lawsuit car chalk desert swamp embark lamp";

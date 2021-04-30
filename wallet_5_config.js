@@ -1,1 +1,1 @@
-var mnemonic = "decorate tube alarm tide shaft program future taxi shrimp nice series trim";
+var mnemonic = "mother cream maid great stage hard suspect timber saddle raise almost tackle";

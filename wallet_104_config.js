@@ -1,1 +1,1 @@
-var mnemonic = "air volcano west core route holiday fortune helmet discover gas donate check";
+var mnemonic = "inject lift alone case process mass equal hobby damage multiply flag buddy";

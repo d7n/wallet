@@ -1,1 +1,1 @@
-var mnemonic = "depth tooth umbrella recall then ensure someone connect security select excuse blame";
+var mnemonic = "warrior simple boy term divert yard into actual holiday galaxy olympic ghost";

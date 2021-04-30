@@ -1,1 +1,1 @@
-var mnemonic = "alter insect double kit transfer permit awake sport actress emerge snake visit";
+var mnemonic = "thunder stereo butter valid stamp build consider tourist field attack orient step";

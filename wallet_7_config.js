@@ -1,1 +1,1 @@
-var mnemonic = "bone shuffle cousin dial early deputy like milk begin retire symbol fatal";
+var mnemonic = "spike rug spy barrel curtain bridge knock horse large pistol fame trap";

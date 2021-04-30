@@ -1,1 +1,1 @@
-var mnemonic = "dwarf useless frown inject bottom december organ hurdle sing shoe month expand";
+var mnemonic = "girl kite dentist apology can silly cousin orchard special reason sibling domain";

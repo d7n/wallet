@@ -1,1 +1,1 @@
-var mnemonic = "explain purity swap yard lonely food oven plug loud frequent provide seven";
+var mnemonic = "inch vanish stable obtain gift cushion salon extend prepare tissue segment submit";

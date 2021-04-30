@@ -1,1 +1,1 @@
-var mnemonic = "rubber taxi unaware stage bleak buffalo wasp close retire believe choose siege";
+var mnemonic = "tomorrow prize swing ability skull coffee profit dragon imitate people next taste";

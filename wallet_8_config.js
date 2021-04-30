@@ -1,1 +1,1 @@
-var mnemonic = "blind park second live silent foster reason empower idea rocket liar abandon";
+var mnemonic = "mixture consider aware arrange vicious puppy rich harsh bundle aunt cinnamon increase";

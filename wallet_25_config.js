@@ -1,1 +1,1 @@
-var mnemonic = "short mosquito image shallow walnut mad render guide route angle immune coach";
+var mnemonic = "heavy shadow warfare rally guitar future onion orient crush quality forum note";

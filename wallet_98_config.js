@@ -1,1 +1,1 @@
-var mnemonic = "response afford click day mobile genuine soul begin hill achieve brush produce";
+var mnemonic = "used verb erase census account leader airport upset antenna identify crush decorate";

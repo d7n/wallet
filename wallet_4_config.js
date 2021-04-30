@@ -1,1 +1,1 @@
-var mnemonic = "arena security comic sing walk wisdom grow blanket rich modify setup fabric";
+var mnemonic = "lens public valve story salon evidence permit curve supply lake cage believe";

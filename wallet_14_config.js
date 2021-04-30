@@ -1,1 +1,1 @@
-var mnemonic = "popular volcano economy plate ship arrow leg holiday session staff wasp rough";
+var mnemonic = "taxi boy cabin whip screen gift episode orient defense bone neutral brush";

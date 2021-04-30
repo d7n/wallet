@@ -1,1 +1,1 @@
-var mnemonic = "club coconut diagram very lunar era recall float turkey industry tree betray";
+var mnemonic = "prosper gossip property release arrive prepare debate flight slide art gadget sport";

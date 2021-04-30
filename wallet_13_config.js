@@ -1,1 +1,1 @@
-var mnemonic = "spice remember exhaust ritual dry click spy solution payment sugar rough hello";
+var mnemonic = "layer friend spoil maid canoe night forest trip vacuum mixed matter fringe";

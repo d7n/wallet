@@ -1,1 +1,1 @@
-var mnemonic = "mechanic absurd knife custom dry lesson home sword coin ugly omit scare";
+var mnemonic = "ocean ecology beef fossil old keep wealth power fade trust leave alien";

@@ -1,1 +1,1 @@
-var mnemonic = "beach february section fashion fitness endorse kit obscure bomb pizza cream grain";
+var mnemonic = "enhance logic trash rival remember tool major choose sunny delay enough pole";

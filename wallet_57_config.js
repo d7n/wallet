@@ -1,1 +1,1 @@
-var mnemonic = "people journey police lounge bag sure control comfort question rotate beef anchor";
+var mnemonic = "estate elevator anchor clock wide erosion enemy mail company appear real practice";

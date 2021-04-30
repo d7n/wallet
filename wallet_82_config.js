@@ -1,1 +1,1 @@
-var mnemonic = "scorpion famous grief base divorce lock section reason follow fix pledge virus";
+var mnemonic = "exist thumb trash satisfy inherit maze juice soccer company pioneer loyal fan";

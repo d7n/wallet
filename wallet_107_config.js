@@ -1,1 +1,1 @@
-var mnemonic = "pattern wait quit riot gauge cause arrest view trigger powder plug nominee";
+var mnemonic = "gallery swim tape defense useless stuff turn course borrow desert renew connect";

@@ -1,1 +1,1 @@
-var mnemonic = "assault tornado excite asthma derive thing release flight echo flame awesome awful";
+var mnemonic = "movie nominee teach flame home myth enroll sort science crime hen drink";

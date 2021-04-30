@@ -1,1 +1,1 @@
-var mnemonic = "planet grass glue hero music web rebuild brain glide success horn faint";
+var mnemonic = "adapt false first dignity abandon fresh captain rack surface crucial devote lawsuit";

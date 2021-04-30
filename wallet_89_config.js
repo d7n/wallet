@@ -1,1 +1,1 @@
-var mnemonic = "slice warrior amused sauce laundry all hedgehog mammal ridge lemon window cry";
+var mnemonic = "real owner buzz rigid ability ranch toss gather inmate sausage motion orient";

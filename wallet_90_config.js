@@ -1,1 +1,1 @@
-var mnemonic = "seven gift ecology novel identify glass apple exist gasp knee novel penalty";
+var mnemonic = "category now village wink maple recycle crew dentist cheap topic sudden census";

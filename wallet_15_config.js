@@ -1,1 +1,1 @@
-var mnemonic = "address tribe prevent steak matrix expect connect settle gaze frequent emerge shrimp";
+var mnemonic = "select subject soft claw fringe weapon remind gallery ticket alley slab family";

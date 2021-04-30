@@ -1,1 +1,1 @@
-var mnemonic = "catalog own bottom desert ordinary wasp raven coral furnace lion pizza unique";
+var mnemonic = "pelican loud super bulk genre hope hire elder announce expose word cool";

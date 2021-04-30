@@ -1,1 +1,1 @@
-var mnemonic = "bar acoustic laugh hospital ball series barrel token milk behind logic infant";
+var mnemonic = "bar sorry dust mandate bus squeeze tragic indoor people gain suspect helmet";

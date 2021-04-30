@@ -1,1 +1,1 @@
-var mnemonic = "submit monkey shell upset purchase damage erase old vocal novel invite equip";
+var mnemonic = "ship wreck will test element diet purchase strong tribe tray broom also";

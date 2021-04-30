@@ -1,1 +1,1 @@
-var mnemonic = "expose actual strike category invite warrior chef wage kite helmet fatigue dance";
+var mnemonic = "reject focus owner brush walk fetch space canvas capable predict want public";

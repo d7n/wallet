@@ -1,1 +1,1 @@
-var mnemonic = "public winter indicate rival swarm radar advice fix acid harvest super replace";
+var mnemonic = "air margin ramp adult elite join fetch music sentence south funny crowd";

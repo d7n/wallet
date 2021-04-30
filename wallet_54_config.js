@@ -1,1 +1,1 @@
-var mnemonic = "ginger artwork bronze around east shift portion silly media bike food frame";
+var mnemonic = "amused input pizza sunset accuse wash shop staff enter cream monster churn";

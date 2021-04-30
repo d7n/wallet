@@ -1,1 +1,1 @@
-var mnemonic = "kind jump indicate wolf outside ribbon useless endorse execute alter catch dawn";
+var mnemonic = "split absent pumpkin bonus ask return inner angry grass hope rescue spin";

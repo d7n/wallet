@@ -1,1 +1,1 @@
-var mnemonic = "stand return pattern barrel add either tissue shift bundle retire salad cinnamon";
+var mnemonic = "witness rapid floor hip naive boy improve animal emerge left edge actual";

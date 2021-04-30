@@ -1,1 +1,1 @@
-var mnemonic = "drama mango history novel stable pupil come climb van concert pen fat";
+var mnemonic = "apple curtain female giggle throw bachelor fuel expect fatal method bitter cancel";

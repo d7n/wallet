@@ -1,1 +1,1 @@
-var mnemonic = "jungle shock ignore coyote profit float hand process wet cross relief umbrella";
+var mnemonic = "denial quick silk relax window case sibling region fatal situate receive thumb";

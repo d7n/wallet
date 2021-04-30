@@ -1,1 +1,1 @@
-var mnemonic = "slim network quick strong monitor cliff bamboo armor ozone island number ill";
+var mnemonic = "fly dash member certain year tiny lift online canvas busy version gap";

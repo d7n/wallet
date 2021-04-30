@@ -1,1 +1,1 @@
-var mnemonic = "bullet squeeze scissors major any afford rhythm flip entire addict mobile recycle";
+var mnemonic = "leg firm combine network impose defy grief swamp face wear cradle language";

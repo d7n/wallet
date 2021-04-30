@@ -1,1 +1,1 @@
-var mnemonic = "album wealth dwarf hazard answer dose actual capable allow neck limit either";
+var mnemonic = "riot dilemma also cash subject glare bike shine squirrel help wolf yard";

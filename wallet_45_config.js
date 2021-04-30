@@ -1,1 +1,1 @@
-var mnemonic = "violin border slam ethics banana jaguar jaguar kick use faculty jealous wish";
+var mnemonic = "trick gown wish blouse green rubber stomach hat avocado nurse creek walnut";

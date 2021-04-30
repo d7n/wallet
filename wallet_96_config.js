@@ -1,1 +1,1 @@
-var mnemonic = "exhaust easily alert lizard again pencil six expose mirror busy visit insect";
+var mnemonic = "thank series shaft sword repair lesson quarter guitar pumpkin goddess milk ketchup";

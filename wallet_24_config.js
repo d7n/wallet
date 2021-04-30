@@ -1,1 +1,1 @@
-var mnemonic = "index critic south exotic artwork town brief nothing picnic pride dinner high";
+var mnemonic = "escape across repair siren bicycle unique only help holiday woman dwarf deputy";

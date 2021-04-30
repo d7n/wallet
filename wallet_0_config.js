@@ -1,1 +1,1 @@
-var mnemonic = "dream explain edge update window satoshi ski rare onion struggle galaxy sock";
+var mnemonic = "crucial brother movie rally chief parade clay element perfect cigar cruel bring";

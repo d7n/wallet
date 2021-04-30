@@ -1,1 +1,1 @@
-var mnemonic = "park permit fly select trust run member flower spatial area sing bag";
+var mnemonic = "elbow anchor once column region crisp convince say wet innocent neutral govern";

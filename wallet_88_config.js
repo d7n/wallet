@@ -1,1 +1,1 @@
-var mnemonic = "addict timber maple furnace hard supply print adjust erase catalog text state";
+var mnemonic = "beauty loop calm nature huge fuel damp siren lounge tomorrow symptom slide";

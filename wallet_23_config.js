@@ -1,1 +1,1 @@
-var mnemonic = "stereo farm solid usual water pen motion roast zero tray believe next";
+var mnemonic = "vibrant dilemma clerk milk feature dirt move skirt exit pumpkin coffee powder";

@@ -1,1 +1,1 @@
-var mnemonic = "remember song crouch rate anchor cute follow peace gauge shuffle ski mail";
+var mnemonic = "review badge mule valid rather shaft poet seminar toward tail much habit";

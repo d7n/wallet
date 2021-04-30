@@ -1,1 +1,1 @@
-var mnemonic = "dumb top since gold double success stay process surround elegant moon west";
+var mnemonic = "only tell industry spy close exile illegal exhaust produce evidence mind oppose";

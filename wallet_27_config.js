@@ -1,1 +1,1 @@
-var mnemonic = "harvest panda daughter net gown urge tomato coach cause actual hazard obvious";
+var mnemonic = "adjust gaze fossil fat mutual garage enlist barrel weather uphold corn salad";

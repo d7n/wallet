@@ -1,1 +1,1 @@
-var mnemonic = "awesome fluid recycle novel flat turtle grain nation useful cube person piece";
+var mnemonic = "wonder novel defy afford outside process strike analyst fall inside chair catalog";

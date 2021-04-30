@@ -1,1 +1,1 @@
-var mnemonic = "tiny primary squirrel ankle length battle joke same mercy lounge measure course";
+var mnemonic = "parent negative claw garment cheese reduce issue grain primary lemon giraffe net";

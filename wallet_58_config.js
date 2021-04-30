@@ -1,1 +1,1 @@
-var mnemonic = "human gold gravity toss lesson reduce valve cement music cost scare poem";
+var mnemonic = "bike clean senior leopard program biology camera logic biology acid acoustic prepare";

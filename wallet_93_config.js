@@ -1,1 +1,1 @@
-var mnemonic = "magnet build enable lesson mercy proof citizen festival adjust tool labor what";
+var mnemonic = "perfect attack occur crash same update seed voice pull mother boy shrug";

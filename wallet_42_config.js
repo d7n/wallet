@@ -1,1 +1,1 @@
-var mnemonic = "arrow six credit maid document flower utility year chaos blanket head reveal";
+var mnemonic = "pelican miss badge robot tumble derive tent champion either march wild auction";

@@ -1,1 +1,1 @@
-var mnemonic = "clutch enter noble venue net saddle school desk model latin review pepper";
+var mnemonic = "family shoot mushroom cook book typical pepper satoshi sentence job globe fee";

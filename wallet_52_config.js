@@ -1,1 +1,1 @@
-var mnemonic = "select silver cactus loan silent noodle process ride gesture wild tray cup";
+var mnemonic = "giggle scout kidney model music drill ugly soft angle jewel spray often";

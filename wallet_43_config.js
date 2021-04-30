@@ -1,1 +1,1 @@
-var mnemonic = "bundle paddle admit language rice quantum surround require estate alien social insane";
+var mnemonic = "width acid exclude curious member kid cradle salmon large era neutral latin";

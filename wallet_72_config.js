@@ -1,1 +1,1 @@
-var mnemonic = "step keep garbage square delay giraffe treat anchor suffer logic width churn";
+var mnemonic = "unknown sausage pistol real hunt develop relief unfair march farm crouch slush";

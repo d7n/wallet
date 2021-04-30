@@ -1,1 +1,1 @@
-var mnemonic = "they wrap joy ocean soup cement dynamic rebuild gesture balcony own random";
+var mnemonic = "move safe lumber switch meadow charge require tuition split boil brave mystery";

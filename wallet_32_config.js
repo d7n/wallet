@@ -1,1 +1,1 @@
-var mnemonic = "dinner canvas replace tuition opinion raccoon address pluck crane lecture potato away";
+var mnemonic = "design zero alien tortoise option bundle carpet earn salt ripple prepare music";

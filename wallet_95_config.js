@@ -1,1 +1,1 @@
-var mnemonic = "pony ball eyebrow kind blouse million blind humor vibrant chaos domain neck";
+var mnemonic = "screen range plunge update behind inquiry table polar juice hospital history fish";

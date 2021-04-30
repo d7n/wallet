@@ -1,1 +1,1 @@
-var mnemonic = "upgrade siege menu glove live drum sphere path inform custom leaf twenty";
+var mnemonic = "spider arena fault employ sentence solar screen only harvest paper small tired";

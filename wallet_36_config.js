@@ -1,1 +1,1 @@
-var mnemonic = "lazy image west orchard odor hamster solar rather laundry flat cover stage";
+var mnemonic = "roast merry present level message unaware ethics bleak major vague velvet topic";

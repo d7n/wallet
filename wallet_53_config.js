@@ -1,1 +1,1 @@
-var mnemonic = "provide guide fruit eternal flush tank garbage buddy lock bacon assist gauge";
+var mnemonic = "exhibit treat ocean roast harbor more fat clean wall clog quarter account";

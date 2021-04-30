@@ -1,1 +1,1 @@
-var mnemonic = "hybrid satoshi bus pottery first whisper sword anchor snap cloud canyon list";
+var mnemonic = "spoon this infant awesome gun wonder glad bid multiply balance siege direct";

@@ -1,1 +1,1 @@
-var mnemonic = "lake sick maple cook regular wink rebuild mutual rural legal drill bike";
+var mnemonic = "swallow dose lecture drift dice planet custom draw whisper embark promote picture";

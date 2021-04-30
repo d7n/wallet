@@ -1,1 +1,1 @@
-var mnemonic = "mind trophy bid icon napkin bless snack luxury lion fame fury moon";
+var mnemonic = "oxygen please post public thunder what merge need goose april bleak agree";

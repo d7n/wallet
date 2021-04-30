@@ -1,1 +1,1 @@
-var mnemonic = "depth hurdle supreme drastic hedgehog kiwi ketchup heart unusual weird record quote";
+var mnemonic = "tackle nation trouble turn upon provide sail toss soccer silly flush lawn";

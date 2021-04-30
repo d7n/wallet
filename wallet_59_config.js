@@ -1,1 +1,1 @@
-var mnemonic = "ring detail fluid lesson agree air wrap cram slab dice expect lucky";
+var mnemonic = "wisdom use lion skin other peace more lamp funny where cat devote";

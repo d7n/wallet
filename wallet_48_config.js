@@ -1,1 +1,1 @@
-var mnemonic = "inside daring shallow bachelor puppy used accident walnut element myth spike girl";
+var mnemonic = "obscure secret winter worth planet fossil above report grunt cute dawn sample";

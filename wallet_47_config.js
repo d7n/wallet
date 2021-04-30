@@ -1,1 +1,1 @@
-var mnemonic = "twice cereal comfort slight muscle want coral nut certain truly discover globe";
+var mnemonic = "indicate glance person oven bomb suspect supply sea visit nothing maid sponsor";

@@ -1,1 +1,1 @@
-var mnemonic = "skin multiply ill forum shove learn abstract pretty plug put inhale advice";
+var mnemonic = "derive flower purse toddler dish royal wage remember also sign yard chimney";

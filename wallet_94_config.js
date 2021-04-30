@@ -1,1 +1,1 @@
-var mnemonic = "involve judge little advice saddle dawn lounge jelly language corn matter abandon";
+var mnemonic = "goat buyer exotic divert profit daughter please merry liberty any claw devote";

@@ -1,1 +1,1 @@
-var mnemonic = "photo debate finger reward need robust coil robot tornado conduct final popular";
+var mnemonic = "danger bike armed elegant combine diamond diesel lady average enforce tobacco mesh";

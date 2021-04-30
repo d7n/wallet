@@ -1,1 +1,1 @@
-var mnemonic = "canal only affair average analyst spider claw describe physical ring candy around";
+var mnemonic = "crop around tomorrow defense modify sample blood point height van cricket salt";

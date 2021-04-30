@@ -1,1 +1,1 @@
-var mnemonic = "juice siren region biology motor educate fee audit cruise address basic lend";
+var mnemonic = "reject gadget chapter only security unique vague behind certain power unusual mail";

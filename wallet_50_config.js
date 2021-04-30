@@ -1,1 +1,1 @@
-var mnemonic = "crazy flush pitch cinnamon time off minimum adult fatal barrel clean until";
+var mnemonic = "wonder lunch air music cupboard sport miracle despair physical leader trouble rifle";

@@ -1,1 +1,1 @@
-var mnemonic = "fix nothing code knife wink fix flush rude teach decrease believe quiz";
+var mnemonic = "able salmon prosper hamster target image female cloth ostrich delay laugh delay";

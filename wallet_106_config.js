@@ -1,1 +1,1 @@
-var mnemonic = "demise glow major roast mixture true must couch boost tribe party uncle";
+var mnemonic = "target leader vacant echo soul shell love number hard gown claw gravity";

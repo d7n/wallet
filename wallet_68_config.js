@@ -1,1 +1,1 @@
-var mnemonic = "moral lonely cool vintage item effort noble poverty immune wage royal arrive";
+var mnemonic = "alert cupboard student planet pull boil basic base half shine eagle arrow";

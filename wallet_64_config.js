@@ -1,1 +1,1 @@
-var mnemonic = "girl earth shed ranch people spoon vocal organ lava absent quality result";
+var mnemonic = "impulse initial play focus bunker deny discover easy diagram pass winter true";

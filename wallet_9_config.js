@@ -1,1 +1,1 @@
-var mnemonic = "express wrist mobile easy noise enlist curtain desert valid mind alien vintage";
+var mnemonic = "give joy coin creek vault depend kidney beauty barely escape dress glue";

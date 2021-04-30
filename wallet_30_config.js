@@ -1,1 +1,1 @@
-var mnemonic = "creek force voice horse effort angle attitude sort account anchor electric grab";
+var mnemonic = "twin throw reform item human match decrease similar club access approve unknown";

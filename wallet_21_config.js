@@ -1,1 +1,1 @@
-var mnemonic = "credit zebra faith leopard banner version safe sheriff talent ice bitter frog";
+var mnemonic = "fabric shop fatigue betray symbol divide ten ride laptop barely buffalo power";
