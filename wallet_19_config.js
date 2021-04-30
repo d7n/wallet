@@ -1,1 +1,1 @@
-var mnemonic = "agent embark soft world crunch barrel puzzle where suffer glide ritual sight";
+var mnemonic = "fade priority trumpet media practice agree tilt critic recycle come pact frame";

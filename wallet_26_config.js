@@ -1,1 +1,1 @@
-var mnemonic = "same average renew tray artefact bamboo donkey vintage walk check river welcome";
+var mnemonic = "switch gift maximum tail path mad security same wage into vicious poverty";

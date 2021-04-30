@@ -1,1 +1,1 @@
-var mnemonic = "front local turn rude velvet multiply review voyage program mean laugh fetch";
+var mnemonic = "atom say fine invest annual pigeon doll ancient trim guard coach elite";

@@ -1,1 +1,1 @@
-var mnemonic = "imitate rule certain nominee normal awake hamster obscure salon vocal silk cable";
+var mnemonic = "brief toilet budget under stamp another desert whip immense code honey render";

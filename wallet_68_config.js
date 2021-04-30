@@ -1,1 +1,1 @@
-var mnemonic = "regret fatigue person weasel water trend immune raven chair kick apple fit";
+var mnemonic = "cycle salon embark display foam surprise keep property recipe damp atom ordinary";

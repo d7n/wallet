@@ -1,1 +1,1 @@
-var mnemonic = "truly struggle swear crunch quit regret talk cheese hood deputy neutral coral";
+var mnemonic = "slice fruit rib reunion resemble camp vivid satisfy brother cream distance leopard";

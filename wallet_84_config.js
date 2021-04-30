@@ -1,1 +1,1 @@
-var mnemonic = "spider pill mail ring cart chat hotel bright board release they medal";
+var mnemonic = "come innocent barrel neglect spice barely enjoy jungle volcano alone current dust";

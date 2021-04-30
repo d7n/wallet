@@ -1,1 +1,1 @@
-var mnemonic = "tuna bundle sign success violin grain cradle reflect gossip belt phone supply";
+var mnemonic = "wrong know they myself liquid cycle tube kitchen absent finish fuel undo";

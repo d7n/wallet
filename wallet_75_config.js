@@ -1,1 +1,1 @@
-var mnemonic = "camp shrimp sketch dignity wave blush half hand quote squeeze violin govern";
+var mnemonic = "tank same alter price rich weapon treat today tooth van brief sleep";

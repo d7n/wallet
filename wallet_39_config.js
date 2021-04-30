@@ -1,1 +1,1 @@
-var mnemonic = "enhance grocery wear brief grow churn delay public chaos matter switch pitch";
+var mnemonic = "boring pill ozone lift steak program useful enter harbor husband nature system";

@@ -1,1 +1,1 @@
-var mnemonic = "garage puppy honey wrist grass ride embody extra hood wire tone betray";
+var mnemonic = "long pig gasp balcony chief way rescue cat adapt rival occur vapor";

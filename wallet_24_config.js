@@ -1,1 +1,1 @@
-var mnemonic = "neglect arch ancient debate rely pride inflict purpose all option senior word";
+var mnemonic = "crucial two stuff trap walk liberty silly scare raven universe proud two";

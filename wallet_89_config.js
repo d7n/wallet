@@ -1,1 +1,1 @@
-var mnemonic = "provide gloom valve hotel avoid increase mouse require usage wave remain panther";
+var mnemonic = "give bus dismiss thought monster shiver focus embark office rude panther thought";

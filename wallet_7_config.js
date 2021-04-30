@@ -1,1 +1,1 @@
-var mnemonic = "hen biology inhale helmet damp observe scrap finger enforce blur east afraid";
+var mnemonic = "version ten please double enforce obtain cabin garage decorate mosquito among baby";

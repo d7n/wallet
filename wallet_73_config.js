@@ -1,1 +1,1 @@
-var mnemonic = "loan secret trip oppose total scare among prosper peanut lunch menu come";
+var mnemonic = "turn despair park smooth chuckle shoulder legal try sea work hamster soul";

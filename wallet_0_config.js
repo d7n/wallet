@@ -1,1 +1,1 @@
-var mnemonic = "fork virtual fatal clown butter anchor bird wedding maze egg kick essay";
+var mnemonic = "soldier omit people actual rain essence run solid say split opera produce";

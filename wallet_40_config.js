@@ -1,1 +1,1 @@
-var mnemonic = "post biology want tube pencil cool oven act rice side scout rose";
+var mnemonic = "absent army catch drastic chief embrace sphere point kidney cart come fit";

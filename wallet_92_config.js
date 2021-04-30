@@ -1,1 +1,1 @@
-var mnemonic = "clump report tumble chimney purity pupil swamp ramp arch supreme emerge burden";
+var mnemonic = "stable brass credit tide slot exotic genre aisle custom muscle joy pause";

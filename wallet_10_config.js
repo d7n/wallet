@@ -1,1 +1,1 @@
-var mnemonic = "wish student where accuse return damage primary purity symbol wheel smooth emerge";
+var mnemonic = "napkin because mansion rose more radio muffin core review stay raven ability";

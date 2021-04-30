@@ -1,1 +1,1 @@
-var mnemonic = "direct cross hub seminar fork view worry someone begin eight click analyst";
+var mnemonic = "detail announce erupt still link alley ball remind guitar buzz absurd merry";

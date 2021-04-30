@@ -1,1 +1,1 @@
-var mnemonic = "potato involve joke poet panel luxury shock carry delay idea appear demand";
+var mnemonic = "physical find pelican viable garden frown same drum pencil rich final stick";

@@ -1,1 +1,1 @@
-var mnemonic = "debate multiply head life math proud hope awkward menu spend used penalty";
+var mnemonic = "drill fetch also oxygen erode bullet impact fury cereal scale silk unit";

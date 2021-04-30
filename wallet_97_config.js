@@ -1,1 +1,1 @@
-var mnemonic = "ankle vast photo sauce display wisdom slim boss idea radio bubble candy";
+var mnemonic = "monkey limit sad float indicate soap fashion embrace second tattoo deliver embrace";

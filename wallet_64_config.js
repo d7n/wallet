@@ -1,1 +1,1 @@
-var mnemonic = "harbor final shaft antique speed spot index meadow scene right glass arrange";
+var mnemonic = "feed purity garment help chimney other neck question tongue snow pepper cake";

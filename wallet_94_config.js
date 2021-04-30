@@ -1,1 +1,1 @@
-var mnemonic = "spoil flip pill idle view helmet toss few window transfer gesture spin";
+var mnemonic = "father acid term buyer wrist blade prepare village dolphin edit extend first";

@@ -1,1 +1,1 @@
-var mnemonic = "gossip mandate economy rally exact sibling lottery legend fork satisfy post easily";
+var mnemonic = "van pact inject degree mystery believe toilet tell absurd crime puppy account";

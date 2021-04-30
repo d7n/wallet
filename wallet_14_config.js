@@ -1,1 +1,1 @@
-var mnemonic = "employ hawk marine galaxy bicycle vault spend maid stool panic window space";
+var mnemonic = "rival fitness force enforce wisdom member sick current parrot interest purpose believe";

@@ -1,1 +1,1 @@
-var mnemonic = "refuse figure error female gauge simple wedding knock gate day apple saddle";
+var mnemonic = "special shadow physical essay before venue beauty mimic upon tiny gym nose";

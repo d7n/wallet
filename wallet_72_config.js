@@ -1,1 +1,1 @@
-var mnemonic = "still suggest field gauge moral drink mesh only consider text elevator boy";
+var mnemonic = "expect shadow become salmon maximum canyon urban yard yellow assume slam naive";

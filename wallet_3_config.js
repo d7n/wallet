@@ -1,1 +1,1 @@
-var mnemonic = "surround interest index library once battle fame hollow already lens exclude sausage";
+var mnemonic = "defy mean render believe pig guilt museum magic chat mammal pink course";

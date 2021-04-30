@@ -1,1 +1,1 @@
-var mnemonic = "media scene glove buyer prosper winner rug fog cycle fitness peasant display";
+var mnemonic = "inch topple van hint cross catch vehicle rifle nasty force luggage mean";

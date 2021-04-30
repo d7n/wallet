@@ -1,1 +1,1 @@
-var mnemonic = "domain false sort pave fold when news slush zebra march wheel memory";
+var mnemonic = "define mouse radio spin front loud slight income game release dolphin spike";

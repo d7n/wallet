@@ -1,1 +1,1 @@
-var mnemonic = "say blur vacuum motion loop dynamic lobster stay puppy hybrid erupt type";
+var mnemonic = "rather staff woman satisfy filter guitar fine actual squeeze lock fortune say";

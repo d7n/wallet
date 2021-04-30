@@ -1,1 +1,1 @@
-var mnemonic = "traffic gasp vibrant artwork urban step radar heavy spice wise potato april";
+var mnemonic = "chicken abstract unfold pumpkin cover method below post shrimp flip jaguar tuition";

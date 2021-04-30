@@ -1,1 +1,1 @@
-var mnemonic = "illegal sniff cheese canal similar gold pudding crumble index month portion keen";
+var mnemonic = "borrow manual shoulder door pudding secret jump force mass recipe trick bench";

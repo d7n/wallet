@@ -1,1 +1,1 @@
-var mnemonic = "hover inquiry globe abstract egg teach report carpet bleak bacon umbrella play";
+var mnemonic = "label animal galaxy spice clown dash drill bitter point cup keen engine";

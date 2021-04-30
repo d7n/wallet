@@ -1,1 +1,1 @@
-var mnemonic = "nuclear bar rent outer melody outside page tackle later spawn pretty brush";
+var mnemonic = "tray silly dad series soup wolf wage safe green also exile alarm";

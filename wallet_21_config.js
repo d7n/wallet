@@ -1,1 +1,1 @@
-var mnemonic = "kick pill jewel addict melt consider physical submit upper true crucial trick";
+var mnemonic = "scout zone sock disease visit giant sausage aisle mechanic duty fossil treat";

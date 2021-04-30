@@ -1,1 +1,1 @@
-var mnemonic = "move crane priority category buzz theory joke thought feature zebra exclude recycle";
+var mnemonic = "hood ridge danger tide favorite display magnet deal spread movie release staff";

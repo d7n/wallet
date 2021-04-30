@@ -1,1 +1,1 @@
-var mnemonic = "typical move oppose east august error dwarf mail february bag check head";
+var mnemonic = "endorse open athlete juice away exclude gas wasp close embark glove uncle";

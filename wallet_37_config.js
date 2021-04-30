@@ -1,1 +1,1 @@
-var mnemonic = "wrestle alien material yard forget pistol forward stick near damage dynamic behind";
+var mnemonic = "track bean steel silk bird air private sail afford another valid manual";

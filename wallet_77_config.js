@@ -1,1 +1,1 @@
-var mnemonic = "secret degree purchase domain cluster pet cover worth smoke leaf axis child";
+var mnemonic = "sick seed monster word drama squirrel salad category deny crew outside inspire";

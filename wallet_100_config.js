@@ -1,1 +1,1 @@
-var mnemonic = "wreck point explain insect lounge poem liberty rubber width enact grunt love";
+var mnemonic = "laundry scrub surge trim monster melt label image very also expire tape";

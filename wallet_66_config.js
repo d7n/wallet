@@ -1,1 +1,1 @@
-var mnemonic = "month crystal nice taxi atom note top legal body defy mother spread";
+var mnemonic = "digital violin laundry jelly deputy genuine harsh view anchor happy win gaze";

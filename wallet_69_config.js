@@ -1,1 +1,1 @@
-var mnemonic = "gold small same silent weird will coral job team code gun giant";
+var mnemonic = "accuse convince depth catalog melt fiscal damp box liar extend unlock wear";

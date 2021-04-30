@@ -1,1 +1,1 @@
-var mnemonic = "pupil budget bachelor tired release portion depart eager title river furnace secret";
+var mnemonic = "among alone urban fiber transfer slow acoustic invest cycle story robust steak";

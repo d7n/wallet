@@ -1,1 +1,1 @@
-var mnemonic = "tired gloom zebra swallow alone cause pigeon tiny fly cluster impulse energy";
+var mnemonic = "burst hunt swear tent suspect pencil anxiety monkey silver civil rhythm shy";

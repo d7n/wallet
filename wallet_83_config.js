@@ -1,1 +1,1 @@
-var mnemonic = "push grid anger exit state spoon damp usage else decade path extend";
+var mnemonic = "stereo rack size elder flip nothing million lawsuit kiss pepper jaguar federal";

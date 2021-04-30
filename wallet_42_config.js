@@ -1,1 +1,1 @@
-var mnemonic = "punch claim knife lab genre tide eternal impact cheap upgrade cry knee";
+var mnemonic = "frost vessel turn receive short drum cereal what shiver wheat entire trophy";

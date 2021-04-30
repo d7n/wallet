@@ -1,1 +1,1 @@
-var mnemonic = "warrior ginger city denial tell lens tomato perfect fence kind occur section";
+var mnemonic = "decide sure major smile tower cactus invest sugar rhythm undo brick either";

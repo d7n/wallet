@@ -1,1 +1,1 @@
-var mnemonic = "job ivory rent indicate glove brick goddess drop evoke nephew pluck satoshi";
+var mnemonic = "friend nice east become cargo miracle warfare mutual scare firm hair trick";

@@ -1,1 +1,1 @@
-var mnemonic = "cattle blood close cost rescue nut note crazy token true bottom marble";
+var mnemonic = "turkey scorpion kitten wrist distance enable source guard rare kite slide motion";

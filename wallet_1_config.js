@@ -1,1 +1,1 @@
-var mnemonic = "parade shy please find cool pet agent sure palm tape chaos siren";
+var mnemonic = "garden trip solar split series mixed mixture planet dynamic used host area";

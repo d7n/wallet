@@ -1,1 +1,1 @@
-var mnemonic = "frown abstract jelly fat fiber admit habit quality concert coconut amount clinic";
+var mnemonic = "sunny inch enrich inherit depart address table work affair apology vicious sleep";

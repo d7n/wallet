@@ -1,1 +1,1 @@
-var mnemonic = "asthma lonely fox monster since bean weapon sketch render pass carry remain";
+var mnemonic = "salmon design defy close more muscle brick unique water fat twelve reopen";

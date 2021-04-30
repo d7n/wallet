@@ -1,1 +1,1 @@
-var mnemonic = "budget sphere easy blind catch install find vocal believe owner network island";
+var mnemonic = "harsh kick funny jacket erode excuse absorb garage insect coyote faith stage";

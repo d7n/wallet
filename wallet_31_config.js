@@ -1,1 +1,1 @@
-var mnemonic = "voyage recipe shiver police jacket deal diary naive adjust major cage fly";
+var mnemonic = "planet dry metal apart vessel practice palace check caught safe ladder member";

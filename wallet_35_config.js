@@ -1,1 +1,1 @@
-var mnemonic = "violin order uncle gas panel embody tumble scrub dice broken prevent proof";
+var mnemonic = "wet company position speed fault teach twice taxi garlic total order globe";

@@ -1,1 +1,1 @@
-var mnemonic = "notice share muscle hair agent tuition skate unaware chunk vivid pig away";
+var mnemonic = "much reveal piano digital scan have fetch lemon title minor file range";

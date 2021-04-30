@@ -1,1 +1,1 @@
-var mnemonic = "width label afford select grape dutch sick glad spirit hawk mirror lunch";
+var mnemonic = "core brand acoustic under require online leader another hat town head hawk";

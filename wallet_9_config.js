@@ -1,1 +1,1 @@
-var mnemonic = "reopen liar width slide clean orange mouse peasant anger enroll wreck smoke";
+var mnemonic = "light frame mixed manual alley twice burst dad shine reform manual salt";

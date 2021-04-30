@@ -1,1 +1,1 @@
-var mnemonic = "soccer maze theme popular bundle much brain oppose coil actor picture client";
+var mnemonic = "lizard tray zone glare magic punch hunt gauge muffin supply weasel tobacco";

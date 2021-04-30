@@ -1,1 +1,1 @@
-var mnemonic = "tail sand mouse letter cupboard tooth sort manual issue crumble liquid buzz";
+var mnemonic = "fatigue promote badge circle near antique clump wonder pond permit buzz club";

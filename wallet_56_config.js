@@ -1,1 +1,1 @@
-var mnemonic = "sort nature term kingdom evil quick mechanic eyebrow plastic obvious cliff conduct";
+var mnemonic = "sail trip pigeon solar emerge orient leader garage slim receive derive hold";

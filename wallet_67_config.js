@@ -1,1 +1,1 @@
-var mnemonic = "fancy shoe ritual guide head weasel eyebrow load digital stadium bird agree";
+var mnemonic = "unaware bounce endorse security return switch network woman peasant uncle neither today";

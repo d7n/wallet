@@ -1,1 +1,1 @@
-var mnemonic = "spike crunch casino often mixture muffin pipe grass trust general spring slam";
+var mnemonic = "relief fruit umbrella wire pole term vapor point power wild spring awful";

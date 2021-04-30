@@ -1,1 +1,1 @@
-var mnemonic = "general unhappy grocery upon second immense brush myself problem axis enroll fine";
+var mnemonic = "fan slow bicycle stumble course armor announce run erase kangaroo puppy finger";

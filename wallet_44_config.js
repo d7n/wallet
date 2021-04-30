@@ -1,1 +1,1 @@
-var mnemonic = "pride trend dune rug pulp advance knee curve elder puppy name spawn";
+var mnemonic = "spot shuffle casual dolphin ladder average rather fame trash select piano grunt";

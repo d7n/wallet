@@ -1,1 +1,1 @@
-var mnemonic = "labor pole slice process grace kid topple foster present wrong enough kid";
+var mnemonic = "drink resource crop enroll exhibit tiny true dash vanish list left destroy";

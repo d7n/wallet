@@ -1,1 +1,1 @@
-var mnemonic = "muscle inform airport power wine paddle fork salute economy volcano once ski";
+var mnemonic = "core damp move budget clay recall jealous kingdom betray reform yard burst";

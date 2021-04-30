@@ -1,1 +1,1 @@
-var mnemonic = "crime veteran message tobacco edit town language earth essay sister cheese appear";
+var mnemonic = "grape jelly wild desk snack grocery aspect boost lemon injury inhale interest";

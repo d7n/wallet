@@ -1,1 +1,1 @@
-var mnemonic = "panda audit possible opinion item kingdom kangaroo vocal close disagree inmate sausage";
+var mnemonic = "sustain thumb solid miracle ask lemon proud genre wolf leisure actual tail";

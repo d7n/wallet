@@ -1,1 +1,1 @@
-var mnemonic = "square claw fitness scatter sure cabbage flip this miss right view try";
+var mnemonic = "height nuclear follow define trial nation vacant census economy time effort portion";

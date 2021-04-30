@@ -1,1 +1,1 @@
-var mnemonic = "busy mushroom hero hold luggage vague loan enemy profit bless midnight knee";
+var mnemonic = "situate donate appear motion card drum furnace old six gate hazard damage";

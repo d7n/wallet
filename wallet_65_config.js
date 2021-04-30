@@ -1,1 +1,1 @@
-var mnemonic = "lava spend stage pen judge best hen resist upon mention trigger human";
+var mnemonic = "fancy come vendor smile village beach bus anchor transfer tilt beauty clinic";

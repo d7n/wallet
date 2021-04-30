@@ -1,1 +1,1 @@
-var mnemonic = "mix combine permit deer crucial home easy stadium member belt acquire clown";
+var mnemonic = "miracle paddle baby aisle moment demise involve enrich advance error piece mention";

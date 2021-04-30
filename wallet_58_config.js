@@ -1,1 +1,1 @@
-var mnemonic = "develop can average travel village fitness pepper write perfect animal control burst";
+var mnemonic = "squeeze rug improve injury best cliff used flush sea spin day enrich";

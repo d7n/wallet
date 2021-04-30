@@ -1,1 +1,1 @@
-var mnemonic = "wrap unveil country street abandon good notable drip foam man boat popular";
+var mnemonic = "derive wrap version shift twin correct hockey discover east under return skirt";

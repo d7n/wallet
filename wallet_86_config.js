@@ -1,1 +1,1 @@
-var mnemonic = "hundred cable orient better switch electric face broccoli plate clerk cup stairs";
+var mnemonic = "flash friend genre dismiss version life genre tribe shift eye alter scout";

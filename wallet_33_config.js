@@ -1,1 +1,1 @@
-var mnemonic = "lobster unfold leisure imitate math verify trial please donkey flat author donate";
+var mnemonic = "warfare logic fruit nurse lawsuit attend upper rate ring release student quiz";

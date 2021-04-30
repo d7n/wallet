@@ -1,1 +1,1 @@
-var mnemonic = "repair race coil like boost grace utility advice tilt sister drop gaze";
+var mnemonic = "wagon fury creek raise list donor ability anger divorce about accuse syrup";

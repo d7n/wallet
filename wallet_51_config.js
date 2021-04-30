@@ -1,1 +1,1 @@
-var mnemonic = "dance creek relief budget item output conduct penalty ready initial evoke pass";
+var mnemonic = "seat flip moment hockey oyster coach soul trumpet client dentist easily duck";

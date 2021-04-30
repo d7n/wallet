@@ -1,1 +1,1 @@
-var mnemonic = "arrive silent confirm better grape chapter lunar gadget salute cliff arctic notable";
+var mnemonic = "fruit defy concert news castle dragon captain pear arrange elder super screen";

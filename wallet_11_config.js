@@ -1,1 +1,1 @@
-var mnemonic = "chunk return amazing example champion deposit chronic lunar wrap paddle swim file";
+var mnemonic = "top polar bright immune situate mail air unveil coffee skate badge street";

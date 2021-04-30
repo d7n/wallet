@@ -1,1 +1,1 @@
-var mnemonic = "chimney game social urge fan trick deputy easy actual spot void under";
+var mnemonic = "wagon cereal inside few lawsuit sister roast distance office chuckle stamp trumpet";
