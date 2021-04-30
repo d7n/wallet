@@ -1,1 +1,1 @@
-var mnemonic = "panic corn mean jar call dinosaur economy install such client enact fabric";
+var mnemonic = "picnic credit crisp twin maze ready health buzz upset flee fortune brief";

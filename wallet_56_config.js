@@ -1,1 +1,1 @@
-var mnemonic = "hockey lava index jungle slow fan host pen half receive path stay";
+var mnemonic = "this brush decorate pyramid apology wreck drama slim renew toy wrist suit";

@@ -1,1 +1,1 @@
-var mnemonic = "pear purchase yellow leisure scrub ocean arm stumble copper snap ride stereo";
+var mnemonic = "differ unveil mandate corn lizard umbrella behave dignity upper hawk elite guard";

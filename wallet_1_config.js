@@ -1,1 +1,1 @@
-var mnemonic = "elephant record soap flip dolphin grape dentist arrange spike airport symptom pen";
+var mnemonic = "cup chaos mystery blossom arch velvet seek april rotate hungry tribe ring";

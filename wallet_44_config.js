@@ -1,1 +1,1 @@
-var mnemonic = "skin inflict double evoke era river height quality ranch equal code tray";
+var mnemonic = "grit throw elbow spot fresh chat humor girl symbol paddle vessel oxygen";

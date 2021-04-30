@@ -1,1 +1,1 @@
-var mnemonic = "stuff slow possible street potato fee uphold ghost excite entry owner canoe";
+var mnemonic = "shy bundle emotion club beyond know jealous bullet early used require cat";

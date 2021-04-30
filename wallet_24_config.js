@@ -1,1 +1,1 @@
-var mnemonic = "room glory target firm develop merge soon strike funny grab shrug mom";
+var mnemonic = "royal type robust champion absorb riot merry undo food ten cake lobster";

@@ -1,1 +1,1 @@
-var mnemonic = "again test sibling jump attack permit dumb label fat idle pill gospel";
+var mnemonic = "path obey popular ship work stage figure moment parrot flame parade flash";

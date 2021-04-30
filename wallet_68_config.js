@@ -1,1 +1,1 @@
-var mnemonic = "nothing wide game puzzle empower gentle reunion thought forget leave avocado twelve";
+var mnemonic = "boost unknown rather hotel domain exclude pizza silver trick often depend often";

@@ -1,1 +1,1 @@
-var mnemonic = "turkey spin quarter cycle asset crisp thrive drama pig sell cart lobster";
+var mnemonic = "abuse begin oyster hunt team pact company used true rapid infant vital";

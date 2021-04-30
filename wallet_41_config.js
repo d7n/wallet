@@ -1,1 +1,1 @@
-var mnemonic = "isolate flip pitch cement blame script park spell theme refuse help muffin";
+var mnemonic = "kidney kick sick feel void trumpet soup question elephant extra merit wink";

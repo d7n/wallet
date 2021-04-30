@@ -1,1 +1,1 @@
-var mnemonic = "summer skill antenna person noble notice smooth legend where depth chimney speak";
+var mnemonic = "pulp brave cement bounce daughter civil exact actress pause disorder spot fine";

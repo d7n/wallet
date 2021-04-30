@@ -1,1 +1,1 @@
-var mnemonic = "fold cruise hospital horror duty wheel service kingdom build voyage eager shrug";
+var mnemonic = "welcome elegant culture noise zero letter door glove when sand diagram transfer";

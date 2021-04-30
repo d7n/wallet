@@ -1,1 +1,1 @@
-var mnemonic = "toss furnace doctor very theory flavor gas happy year leave turn profit";
+var mnemonic = "smart easy misery boost game material dose dose sponsor drink century lab";

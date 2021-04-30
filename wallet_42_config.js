@@ -1,1 +1,1 @@
-var mnemonic = "salad buddy age roof state exchange entire legend proud carbon illness refuse";
+var mnemonic = "palm note sound grief fan dress ramp year text universe invite tomorrow";

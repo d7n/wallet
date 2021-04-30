@@ -1,1 +1,1 @@
-var mnemonic = "divide tobacco street neck away patch sight quiz sick moment few letter";
+var mnemonic = "veteran unfold tonight legal rally arctic story fan cake impose pitch exit";

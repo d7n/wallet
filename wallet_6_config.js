@@ -1,1 +1,1 @@
-var mnemonic = "coffee typical insect medal canal crew clerk bitter version purity junk fence";
+var mnemonic = "they nature image beyond reduce rent list short this shed purse muffin";

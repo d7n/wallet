@@ -1,1 +1,1 @@
-var mnemonic = "elite degree unfold giant ski miss write begin index expire response wife";
+var mnemonic = "sugar what expand grid payment shiver exotic dawn maple try surface drill";

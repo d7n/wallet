@@ -1,1 +1,1 @@
-var mnemonic = "prevent permit blue vote private column neutral vendor ranch chalk foil wolf";
+var mnemonic = "cement oak digital chair disease they penalty benefit will donate era team";

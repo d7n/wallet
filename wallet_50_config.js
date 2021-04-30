@@ -1,1 +1,1 @@
-var mnemonic = "burger kite injury obvious rotate sea spray liar enter giggle wedding trash";
+var mnemonic = "glare eagle return issue fun city around friend brisk marriage opinion enact";

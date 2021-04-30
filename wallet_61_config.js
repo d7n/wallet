@@ -1,1 +1,1 @@
-var mnemonic = "again exercise dish amused antenna warrior gloom lens blossom estate jump leisure";
+var mnemonic = "allow dash aspect leopard embark physical leg borrow drama foam attend tomato";

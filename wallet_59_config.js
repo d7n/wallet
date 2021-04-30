@@ -1,1 +1,1 @@
-var mnemonic = "express chronic shock minor trial myself defy absent square father dolphin dizzy";
+var mnemonic = "dinner orbit rely tattoo fever move return have point author meat bread";

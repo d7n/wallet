@@ -1,1 +1,1 @@
-var mnemonic = "wife wood security system risk surround citizen transfer expand decide day absorb";
+var mnemonic = "engage angle crater normal grid cactus vital crowd fine garage ice chicken";

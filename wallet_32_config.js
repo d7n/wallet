@@ -1,1 +1,1 @@
-var mnemonic = "digital deposit reunion excite capital hen mixed require receive fiction clay bag";
+var mnemonic = "pony science trouble cube embody entry shaft proud pretty roast vital cycle";

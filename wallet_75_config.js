@@ -1,1 +1,1 @@
-var mnemonic = "dress enrich fog alien disease abandon analyst find salute vital front reveal";
+var mnemonic = "punch local obscure visa mechanic apple urge dinosaur sniff erode photo bright";

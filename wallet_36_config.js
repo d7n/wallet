@@ -1,1 +1,1 @@
-var mnemonic = "stadium fine citizen ring car nurse child tank bunker loud curtain hedgehog";
+var mnemonic = "faculty copper noble wedding agree laptop enforce quote suit episode strike rebuild";

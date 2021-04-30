@@ -1,1 +1,1 @@
-var mnemonic = "unlock harvest surge whale acid mango naive choice blush again awful cheese";
+var mnemonic = "monster urge ask victory absent grass brave winner shuffle morning alien horror";

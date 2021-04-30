@@ -1,1 +1,1 @@
-var mnemonic = "iron genuine science churn apple tray nasty trap love electric dry series";
+var mnemonic = "fringe seat decrease easy add never gasp jump point catalog inject peanut";

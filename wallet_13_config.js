@@ -1,1 +1,1 @@
-var mnemonic = "evil fashion advice code expose decrease series armed can climb feel world";
+var mnemonic = "shaft coffee mango erode general mail someone silver tongue outdoor marine spider";

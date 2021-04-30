@@ -1,1 +1,1 @@
-var mnemonic = "attitude intact level detect muscle that table reason capital next tooth police";
+var mnemonic = "proud toss wagon federal notable expect want hair soup will someone subject";

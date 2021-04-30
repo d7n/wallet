@@ -1,1 +1,1 @@
-var mnemonic = "glare under kid correct balcony opera draw cart record credit lab trap";
+var mnemonic = "corn uphold retire atom town frog shoot frame fee daring grab deal";

@@ -1,1 +1,1 @@
-var mnemonic = "include little swear slow door settle arrow maximum elephant rifle owner message";
+var mnemonic = "south rib syrup merry badge divorce layer glory hurdle cream disagree often";

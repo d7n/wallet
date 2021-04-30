@@ -1,1 +1,1 @@
-var mnemonic = "sea skill front advice polar hire scheme zebra forum evoke diesel rate";
+var mnemonic = "depart decrease warfare visit daughter genre true increase girl student scorpion chief";

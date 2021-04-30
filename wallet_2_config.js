@@ -1,1 +1,1 @@
-var mnemonic = "must ticket orchard title cereal hollow print soon fashion hammer caution warfare";
+var mnemonic = "dash access frozen venue main rule giant gas inch combine pencil fossil";

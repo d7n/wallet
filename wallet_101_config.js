@@ -1,1 +1,1 @@
-var mnemonic = "apart rug victory unusual report road despair annual auction receive fantasy verb";
+var mnemonic = "emerge decide spin clown grace couple video inquiry ketchup holiday kind dash";

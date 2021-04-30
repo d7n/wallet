@@ -1,1 +1,1 @@
-var mnemonic = "place expose blast popular energy modify six abstract song floor fringe brown";
+var mnemonic = "wear leisure execute wet harbor pave hollow boss member left pig adapt";

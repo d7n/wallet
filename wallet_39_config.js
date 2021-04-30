@@ -1,1 +1,1 @@
-var mnemonic = "brown dutch actor panther hotel pause still page tumble boil fold crisp";
+var mnemonic = "rifle polar sorry leg public arm promote matter process fabric ugly reform";

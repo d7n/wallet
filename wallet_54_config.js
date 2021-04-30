@@ -1,1 +1,1 @@
-var mnemonic = "picnic cream mix maid recipe ship man humor peasant spice oil run";
+var mnemonic = "huge evoke mask fresh hockey prosper dignity lunar slender tray property busy";

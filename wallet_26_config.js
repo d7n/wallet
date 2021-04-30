@@ -1,1 +1,1 @@
-var mnemonic = "duty fat merit six learn tenant eyebrow nerve earth erosion emerge peanut";
+var mnemonic = "fog alone loyal response usual drastic sweet chicken guess repeat chicken tumble";

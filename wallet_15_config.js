@@ -1,1 +1,1 @@
-var mnemonic = "gentle honey endorse cherry sting magnet absent holiday tide settle more water";
+var mnemonic = "airport puzzle clown core sun depend void section afford lava blush cheap";

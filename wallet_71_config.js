@@ -1,1 +1,1 @@
-var mnemonic = "combine walnut dress badge rice rescue resist define cart try hedgehog silver";
+var mnemonic = "upon lawn pulse ring deal inch ankle rabbit pride palace brisk tip";

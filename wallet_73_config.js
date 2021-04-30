@@ -1,1 +1,1 @@
-var mnemonic = "giant grunt leader frost put boost funny bag fetch false cereal scrub";
+var mnemonic = "matrix diet indicate rough pottery design off beef report liberty ridge person";

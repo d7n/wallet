@@ -1,1 +1,1 @@
-var mnemonic = "obtain air basket six crawl insane argue oak tortoise tennis small dose";
+var mnemonic = "session question valley fiber great frog future side vicious seek about scissors";

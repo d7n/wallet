@@ -1,1 +1,1 @@
-var mnemonic = "spread miss sketch photo slim mixture spider earn inspire fork error lamp";
+var mnemonic = "fossil wolf laptop tuition clown laugh amount sound bunker once sure they";

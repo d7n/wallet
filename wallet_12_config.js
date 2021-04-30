@@ -1,1 +1,1 @@
-var mnemonic = "pudding buzz valid satisfy clinic beauty make fit praise enrich deliver fuel";
+var mnemonic = "evil winner faint diagram grain combine panic observe wolf cattle rotate roast";

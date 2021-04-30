@@ -1,1 +1,1 @@
-var mnemonic = "various dog relax twice sugar loud kiss jewel tobacco vote private resource";
+var mnemonic = "era mutual cigar real used panther walk join pupil people occur kiss";

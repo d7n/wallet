@@ -1,1 +1,1 @@
-var mnemonic = "perfect gasp scrap original pony corn obey runway concert capital point century";
+var mnemonic = "oak stuff aspect wise record across clarify valid audit wolf floor knife";

@@ -1,1 +1,1 @@
-var mnemonic = "crew olive uniform elegant mammal pause law unlock defy ankle candy never";
+var mnemonic = "rotate awkward opera online program enemy action claim path cabin then sister";

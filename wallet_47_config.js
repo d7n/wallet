@@ -1,1 +1,1 @@
-var mnemonic = "slam juice theme zebra solution media monitor clown fan network miss little";
+var mnemonic = "anchor student estate occur usual seed claim raven crane exotic isolate mystery";

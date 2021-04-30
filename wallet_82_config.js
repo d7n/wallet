@@ -1,1 +1,1 @@
-var mnemonic = "strong cheese snake worth tourist awake analyst final conduct atom mutual half";
+var mnemonic = "express ten sentence rib hurt swing kick trend motor fancy split about";

@@ -1,1 +1,1 @@
-var mnemonic = "derive lottery gentle essence kind indicate hurt gas nurse spray onion absorb";
+var mnemonic = "oyster toy online loud minor ridge daughter deny ten stool oxygen enlist";

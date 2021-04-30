@@ -1,1 +1,1 @@
-var mnemonic = "civil cause pioneer bind core invite suffer appear vanish hawk reopen sunny";
+var mnemonic = "token dove lyrics rhythm shift custom era swing letter minor august curtain";

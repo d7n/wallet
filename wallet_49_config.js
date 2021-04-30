@@ -1,1 +1,1 @@
-var mnemonic = "print retreat village blouse burst depth car slim ice now work market";
+var mnemonic = "annual history work tape hotel helmet switch nephew spin cave disagree rough";

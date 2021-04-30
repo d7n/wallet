@@ -1,1 +1,1 @@
-var mnemonic = "sad onion treat menu easy guitar require input husband camp prepare furnace";
+var mnemonic = "sort filter pretty matter retreat year winter clever leisure else summer artwork";

@@ -1,1 +1,1 @@
-var mnemonic = "gentle album oak cry acoustic upset extend protect hundred endorse liquid donor";
+var mnemonic = "reflect leaf naive gain purse axis flee frown level motor fit race";

@@ -1,1 +1,1 @@
-var mnemonic = "unknown farm release keen multiply love enlist wheat warfare ticket peace prepare";
+var mnemonic = "define seat small clap blue manual patrol corn choose alcohol good brother";

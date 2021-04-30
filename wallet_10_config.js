@@ -1,1 +1,1 @@
-var mnemonic = "ancient maple mandate become air impulse cat intact total brother ranch sample";
+var mnemonic = "million brush chalk length gasp logic bomb transfer drum knife muscle great";

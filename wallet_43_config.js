@@ -1,1 +1,1 @@
-var mnemonic = "useful lamp empty wage gloom vessel talent slender play brief virtual alone";
+var mnemonic = "woman great early demise estate error secret normal impact rally system earth";

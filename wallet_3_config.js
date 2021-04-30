@@ -1,1 +1,1 @@
-var mnemonic = "pool business garbage pole early struggle slab lizard front furnace upgrade bless";
+var mnemonic = "denial quick multiply praise aisle brass genuine pond park scatter cereal supply";

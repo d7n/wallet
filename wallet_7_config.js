@@ -1,1 +1,1 @@
-var mnemonic = "route output forget custom axis path elder mammal today because still mango";
+var mnemonic = "marriage tattoo tomato agree enemy unusual gauge utility candy element vault symbol";

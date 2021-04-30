@@ -1,1 +1,1 @@
-var mnemonic = "model wool snow glare solve fatal robust outdoor throw disease female craft";
+var mnemonic = "domain soldier output action offer snow jeans able great refuse half duck";

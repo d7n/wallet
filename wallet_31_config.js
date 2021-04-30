@@ -1,1 +1,1 @@
-var mnemonic = "run figure vague save asthma divorce undo capital gather vendor what area";
+var mnemonic = "arctic ordinary expose shuffle travel beef stove bird used bargain rigid quantum";

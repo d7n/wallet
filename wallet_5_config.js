@@ -1,1 +1,1 @@
-var mnemonic = "addict learn gravity silver segment grid drastic pet material oxygen remove wrestle";
+var mnemonic = "subject post unable same forward giraffe story stick lend tissue hero heavy";

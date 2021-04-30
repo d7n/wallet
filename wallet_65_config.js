@@ -1,1 +1,1 @@
-var mnemonic = "kind firm vibrant repair real blush dress car stamp disease tomato liquid";
+var mnemonic = "double ginger identify pear poverty increase index timber member dwarf tape heart";

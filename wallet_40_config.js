@@ -1,1 +1,1 @@
-var mnemonic = "topic penalty borrow derive illness slush crunch rapid mistake nuclear eternal nerve";
+var mnemonic = "strong skirt win robot cry bachelor catch undo upgrade patch aim swift";

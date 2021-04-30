@@ -1,1 +1,1 @@
-var mnemonic = "luggage valid famous act rhythm taste differ rather pipe glare mixed minute";
+var mnemonic = "magic valid helmet bid episode slow follow exist merge wonder hire figure";

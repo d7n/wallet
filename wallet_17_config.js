@@ -1,1 +1,1 @@
-var mnemonic = "front camp mind flip embrace will guide comic waste cloud flight secret";
+var mnemonic = "doll where stove accident equip clean pride asset negative bus sphere duty";

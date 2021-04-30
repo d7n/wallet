@@ -1,1 +1,1 @@
-var mnemonic = "april shallow away weapon dance canyon cotton right bronze razor vocal light";
+var mnemonic = "tilt print box recycle liberty album witness law smooth absurd solar similar";

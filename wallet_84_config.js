@@ -1,1 +1,1 @@
-var mnemonic = "this obvious equip photo secret history stove unhappy suggest ozone divert thrive";
+var mnemonic = "excess protect kiss dry away sudden hybrid undo afford cereal secret hawk";

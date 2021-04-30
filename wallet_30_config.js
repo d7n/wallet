@@ -1,1 +1,1 @@
-var mnemonic = "monitor recycle neutral awesome reject two stock version settle despair lazy you";
+var mnemonic = "capable panel awake flag pizza toward ghost buzz item velvet draw chapter";

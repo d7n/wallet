@@ -1,1 +1,1 @@
-var mnemonic = "ripple mansion first time kingdom interest dash elite sign innocent core sad";
+var mnemonic = "drift under lion more merge step mosquito math arctic stay cry antenna";

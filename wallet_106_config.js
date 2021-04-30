@@ -1,1 +1,1 @@
-var mnemonic = "buzz trade crime muffin decrease above high lawsuit ghost dog wait bonus";
+var mnemonic = "fix jeans girl slice sell suspect magnet peace voice ecology used spring";

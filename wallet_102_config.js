@@ -1,1 +1,1 @@
-var mnemonic = "plunge fatal kiss like cliff system brave corn enlist left welcome gauge";
+var mnemonic = "cross bulk ancient grab swamp primary surprise poet long noble know pear";

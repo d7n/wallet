@@ -1,1 +1,1 @@
-var mnemonic = "milk march ritual rug accuse rib rule dawn parrot robust genre priority";
+var mnemonic = "nothing banner task scene easily life aunt surprise lawn scissors knee path";

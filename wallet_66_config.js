@@ -1,1 +1,1 @@
-var mnemonic = "antenna split normal swarm profit drastic melt joy fat napkin shine nephew";
+var mnemonic = "gravity glare fee width onion strike hill wait trim tell subject among";

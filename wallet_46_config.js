@@ -1,1 +1,1 @@
-var mnemonic = "cloth grunt polar enter exile song code balcony glimpse card balcony often";
+var mnemonic = "forest vanish arrest roast tape thunder flush door neither unfair enlist female";

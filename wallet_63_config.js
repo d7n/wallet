@@ -1,1 +1,1 @@
-var mnemonic = "endorse base relief skill already cycle drink vintage front twist police report";
+var mnemonic = "limit innocent helmet walnut scene proof roof crazy swallow present cube buffalo";

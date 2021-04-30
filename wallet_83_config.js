@@ -1,1 +1,1 @@
-var mnemonic = "gentle citizen cost hospital vapor flash odor recall rare possible sock vendor";
+var mnemonic = "among wool method frog fuel settle drama coconut live wash glad era";

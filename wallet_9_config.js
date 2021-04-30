@@ -1,1 +1,1 @@
-var mnemonic = "oval token noise excess clay diesel fan match mango radar actor pyramid";
+var mnemonic = "blush rule garage census excuse tide curtain artist tip act sword market";

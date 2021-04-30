@@ -1,1 +1,1 @@
-var mnemonic = "hope combine retreat knife club tomato inhale seminar eager dish mimic lecture";
+var mnemonic = "scout feel industry diary cheese bullet final solution cannon diary swarm unusual";

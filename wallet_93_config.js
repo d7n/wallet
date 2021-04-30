@@ -1,1 +1,1 @@
-var mnemonic = "garlic ready truck sibling praise search remove bus dawn fancy then ostrich";
+var mnemonic = "mind luggage wonder damage column decorate advance miracle flat obvious mass surprise";

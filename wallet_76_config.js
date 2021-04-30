@@ -1,1 +1,1 @@
-var mnemonic = "junk gorilla parrot adapt ginger piano bachelor dumb first soda apple mouse";
+var mnemonic = "elephant aware draft fat chimney girl fashion carbon yellow round imitate learn";

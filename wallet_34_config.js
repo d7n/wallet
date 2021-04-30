@@ -1,1 +1,1 @@
-var mnemonic = "tornado spawn fall wheat sick ladder obey double grant sample salt mechanic";
+var mnemonic = "kitchen grocery race calm own welcome rule trick change shuffle skull lyrics";

@@ -1,1 +1,1 @@
-var mnemonic = "kiwi anger phone build ankle alpha pony month bid track reunion often";
+var mnemonic = "web leopard drama stick awful predict glove session sing barely lady twice";

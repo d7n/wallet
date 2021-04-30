@@ -1,1 +1,1 @@
-var mnemonic = "erode draw raw route guitar cabin wrestle addict subway friend seminar outside";
+var mnemonic = "crop improve vault churn culture attract range famous hair genre vote enemy";

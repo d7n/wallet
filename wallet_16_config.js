@@ -1,1 +1,1 @@
-var mnemonic = "vintage word filter police start case various over border young sweet ecology";
+var mnemonic = "style record cube seminar twice nice wasp duck fun aunt kitten flip";

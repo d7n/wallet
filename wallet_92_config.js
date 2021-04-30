@@ -1,1 +1,1 @@
-var mnemonic = "please much grape trade shrimp cargo mosquito never plug height ability uniform";
+var mnemonic = "truth region fury now erupt gown bless pull dragon degree time dumb";

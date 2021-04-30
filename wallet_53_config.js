@@ -1,1 +1,1 @@
-var mnemonic = "office youth loyal artefact dignity shield mad visit source betray manual raise";
+var mnemonic = "sketch version hub hard shiver process mistake plate junior kiss legal prevent";

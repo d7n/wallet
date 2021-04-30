@@ -1,1 +1,1 @@
-var mnemonic = "drama unhappy chair fox voyage explain honey music fortune spin foot enforce";
+var mnemonic = "medal slight salad rifle distance level chalk trash critic fever bulk real";

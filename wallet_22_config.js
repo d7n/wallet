@@ -1,1 +1,1 @@
-var mnemonic = "report exclude cover blue town useless pause obtain ice verb dignity jar";
+var mnemonic = "evolve stairs clean hidden cactus unfair wealth bronze viable cross nose empower";

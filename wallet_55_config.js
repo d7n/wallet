@@ -1,1 +1,1 @@
-var mnemonic = "wool match elite merge relief banana seat build uncover slot recipe actor";
+var mnemonic = "trade write web raise enough outer bleak distance foam spoon episode kick";

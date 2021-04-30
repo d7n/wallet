@@ -1,1 +1,1 @@
-var mnemonic = "version interest own section town elder menu sudden pig shoe daughter sand";
+var mnemonic = "basic dizzy mobile vast turn sail relief brother verb normal leader refuse";

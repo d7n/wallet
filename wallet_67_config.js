@@ -1,1 +1,1 @@
-var mnemonic = "express rebuild book captain taste better bracket discover tiger rotate endorse silly";
+var mnemonic = "act click monkey pair trust chimney decrease divert blood friend innocent canvas";
