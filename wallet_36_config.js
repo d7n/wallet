@@ -1,1 +1,1 @@
-var mnemonic = "route donor enhance aerobic direct truck bonus dutch void film state ticket";
+var mnemonic = "guide alpha proof amazing cheese will erode boring minor aspect old squeeze";

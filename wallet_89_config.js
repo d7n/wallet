@@ -1,1 +1,1 @@
-var mnemonic = "frame humble business travel laugh crisp vote sample buyer enlist quality exile";
+var mnemonic = "retreat afford perfect world solid health october inflict word egg garment shallow";

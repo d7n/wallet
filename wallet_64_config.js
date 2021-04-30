@@ -1,1 +1,1 @@
-var mnemonic = "artwork stand ribbon style clutch bone ridge document also rug service baby";
+var mnemonic = "fame pistol rifle gorilla tip square rib suit fiscal dose milk royal";

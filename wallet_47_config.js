@@ -1,1 +1,1 @@
-var mnemonic = "term found solid pill demand dinner ugly teach bridge rough describe better";
+var mnemonic = "correct bench industry alert galaxy dismiss creek doctor elephant weapon lend olive";

@@ -1,1 +1,1 @@
-var mnemonic = "another discover vague force clinic chalk auction earn garlic like clump neglect";
+var mnemonic = "okay random amount wing ketchup basic lemon file ocean crop country potato";

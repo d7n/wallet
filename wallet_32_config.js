@@ -1,1 +1,1 @@
-var mnemonic = "venture token occur evoke still solution video danger special faint tooth this";
+var mnemonic = "regret film very spring quit enemy awful juice fashion arm input ceiling";

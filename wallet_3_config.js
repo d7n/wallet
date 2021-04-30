@@ -1,1 +1,1 @@
-var mnemonic = "reveal easy friend floor crazy when endorse decline boring mountain coach stone";
+var mnemonic = "cushion snap drive guess giggle index width marble armed dry climb absurd";

@@ -1,1 +1,1 @@
-var mnemonic = "endorse virus magic capital double ribbon crisp obvious unusual simple bar sell";
+var mnemonic = "still cash rival bean bus speed improve sleep bundle remember purpose dragon";

@@ -1,1 +1,1 @@
-var mnemonic = "target outside pool finger flame when rubber hood slice dinosaur electric this";
+var mnemonic = "crowd decorate cousin faith suspect gown sure pear nasty select team struggle";

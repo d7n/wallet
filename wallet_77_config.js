@@ -1,1 +1,1 @@
-var mnemonic = "shed range rally jaguar chat below surge toilet drama inside include black";
+var mnemonic = "deal caution laundry ready blush wire relief way kite fog glory endorse";

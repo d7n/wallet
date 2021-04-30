@@ -1,1 +1,1 @@
-var mnemonic = "wild cinnamon that harvest weird unfold bone drop check dwarf next supply";
+var mnemonic = "quarter focus book jewel uphold era pride eye this cluster tuna fabric";

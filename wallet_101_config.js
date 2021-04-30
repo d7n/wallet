@@ -1,1 +1,1 @@
-var mnemonic = "law century favorite chunk always craft cheap ramp social trick fade flight";
+var mnemonic = "replace spot purity pumpkin ice sun pulp plastic sense pear little vast";

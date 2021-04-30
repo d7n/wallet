@@ -1,1 +1,1 @@
-var mnemonic = "hurdle area scene stairs cradle desk fox mixture pledge section sign habit";
+var mnemonic = "art now speed palace increase album scissors property trap boring burger girl";

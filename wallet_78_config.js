@@ -1,1 +1,1 @@
-var mnemonic = "air valve shine stay tourist marble cousin differ wreck ask orange size";
+var mnemonic = "roof refuse latin critic twelve meadow high buddy force struggle much patient";

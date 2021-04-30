@@ -1,1 +1,1 @@
-var mnemonic = "sell inner gasp shallow also foster dentist round output around cage cross";
+var mnemonic = "okay blame omit february sudden warfare young vendor fence physical labor wrong";

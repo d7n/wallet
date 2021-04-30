@@ -1,1 +1,1 @@
-var mnemonic = "loyal police survey market main snake hub inner humor labor tackle gap";
+var mnemonic = "case sand aspect bone people home lyrics ship observe enroll evil sausage";

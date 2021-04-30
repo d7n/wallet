@@ -1,1 +1,1 @@
-var mnemonic = "cream exotic bottom panther goat hawk insect snack garlic thunder yard art";
+var mnemonic = "park fuel orbit vague toast they gym menu orchard random accuse nasty";

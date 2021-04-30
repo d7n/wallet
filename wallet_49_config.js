@@ -1,1 +1,1 @@
-var mnemonic = "select feed advance wage miracle awesome rely tube lion control enlist motor";
+var mnemonic = "approve genre animal online orchard length dog wage profit fuel sad toward";

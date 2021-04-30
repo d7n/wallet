@@ -1,1 +1,1 @@
-var mnemonic = "scorpion butter diamond siege dignity jeans cradle comic exist clap squeeze meadow";
+var mnemonic = "author sing hurry deal fluid world eyebrow board garage slogan scene drive";

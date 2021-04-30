@@ -1,1 +1,1 @@
-var mnemonic = "settle follow rapid toy idea rent wisdom member ship quarter extend wall";
+var mnemonic = "alert time birth rack wire verify great crawl maze valve relax toe";

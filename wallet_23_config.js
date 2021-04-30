@@ -1,1 +1,1 @@
-var mnemonic = "real wagon deliver raccoon february blame error mad trumpet hurry cupboard cube";
+var mnemonic = "time equal truck castle galaxy essay prison expire vintage ladder move satoshi";

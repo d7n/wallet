@@ -1,1 +1,1 @@
-var mnemonic = "glove path panda gravity super cause put tornado neck weather art zero";
+var mnemonic = "member goddess virus front chimney mom reveal abuse day insane apology cute";

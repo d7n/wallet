@@ -1,1 +1,1 @@
-var mnemonic = "stove control lounge dutch raccoon produce tail horn violin trip uncover faith";
+var mnemonic = "phrase height airport shop jazz film trash jacket forest current story member";

@@ -1,1 +1,1 @@
-var mnemonic = "clutch lobster ladder empty proof arm shift dog carpet business index coach";
+var mnemonic = "frown bundle suit shaft genuine knock meadow measure decrease school cross pill";

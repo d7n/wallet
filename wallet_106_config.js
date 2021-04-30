@@ -1,1 +1,1 @@
-var mnemonic = "judge fit domain inside carry card board scare curve boat swing top";
+var mnemonic = "measure ankle say observe until orange end umbrella anchor chalk pupil dash";

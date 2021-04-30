@@ -1,1 +1,1 @@
-var mnemonic = "delay intact enter corn distance fortune tag dice become artist solar rifle";
+var mnemonic = "sorry tenant broccoli ancient wedding crazy educate ask move seminar glimpse chunk";

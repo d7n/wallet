@@ -1,1 +1,1 @@
-var mnemonic = "miracle skate vote jungle rail worth wrong marine text chat abandon laptop";
+var mnemonic = "nation culture abuse identify mask model present aware degree strong dirt plastic";

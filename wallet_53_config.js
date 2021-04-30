@@ -1,1 +1,1 @@
-var mnemonic = "churn erode diary possible one damage engine range senior october together disorder";
+var mnemonic = "horror bridge win promote soul type dolphin improve alarm tiger melt good";

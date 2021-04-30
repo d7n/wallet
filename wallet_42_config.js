@@ -1,1 +1,1 @@
-var mnemonic = "piano road noodle local wrestle thrive decrease cheap robust office claim about";
+var mnemonic = "enable know clown cargo rhythm code drive pepper marriage picture visa crop";

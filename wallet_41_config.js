@@ -1,1 +1,1 @@
-var mnemonic = "immense project roof logic bullet dynamic verb piece until liberty october chief";
+var mnemonic = "frog arch biology avocado rely basket this network annual decide bless keen";

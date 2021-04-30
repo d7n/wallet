@@ -1,1 +1,1 @@
-var mnemonic = "silent oil safe aware scare annual height style lucky install foam history";
+var mnemonic = "coast bacon parade bundle clap card ghost nephew luxury usage ticket define";

@@ -1,1 +1,1 @@
-var mnemonic = "tissue buzz upset evoke kingdom image police truck blossom install rally purse";
+var mnemonic = "debris crime illegal alien whip human high tilt prison farm firm eager";

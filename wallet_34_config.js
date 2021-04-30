@@ -1,1 +1,1 @@
-var mnemonic = "veteran finish buyer avoid obvious rescue magnet hard lucky dose snow dash";
+var mnemonic = "mushroom poem unable witness pink shrimp spray host erase gospel fog snake";

@@ -1,1 +1,1 @@
-var mnemonic = "fragile profit mercy hill jaguar slush daring pulse burger praise whisper essay";
+var mnemonic = "despair nasty win lunar debris price fat seed feel differ captain fragile";

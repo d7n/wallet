@@ -1,1 +1,1 @@
-var mnemonic = "solution remind blast forward rug outer bicycle check snack version push jeans";
+var mnemonic = "push near wide fever example useful mammal gasp shoulder scan video lesson";

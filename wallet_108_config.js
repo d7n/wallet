@@ -1,1 +1,1 @@
-var mnemonic = "fiber window gesture sure drip inner worth nerve beef snake achieve youth";
+var mnemonic = "neglect same jelly fine ancient lens hover prefer giraffe access casual insect";

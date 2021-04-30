@@ -1,1 +1,1 @@
-var mnemonic = "pig total finger swim adjust scorpion employ install suffer fatal better bleak";
+var mnemonic = "nuclear joy suggest skirt ginger improve scene slow era cricket security future";

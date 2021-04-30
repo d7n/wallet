@@ -1,1 +1,1 @@
-var mnemonic = "feed course steak donate prosper enjoy scale this merit neglect bronze stairs";
+var mnemonic = "sun famous grant sand crumble minimum envelope alley annual claw say glove";

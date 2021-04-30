@@ -1,1 +1,1 @@
-var mnemonic = "similar impact boring raise cube crime stamp load gravity casino spoon remind";
+var mnemonic = "foster foam spoon begin patrol shell night have tool moral hurry hybrid";

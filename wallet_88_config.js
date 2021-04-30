@@ -1,1 +1,1 @@
-var mnemonic = "buyer monitor finish mutual grunt retire globe believe find mango kick congress";
+var mnemonic = "lyrics small panda scheme shop follow civil undo clarify enough gadget mixture";

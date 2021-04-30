@@ -1,1 +1,1 @@
-var mnemonic = "push desert diamond tool purchase pet loud guitar decide bus famous oak";
+var mnemonic = "plunge hunt december issue reopen length code crucial planet gallery visa festival";

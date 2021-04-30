@@ -1,1 +1,1 @@
-var mnemonic = "series regular jealous food parrot symptom remain inch chuckle carry vintage source";
+var mnemonic = "nose shuffle blast puzzle grab post tourist brain lizard network liberty cattle";

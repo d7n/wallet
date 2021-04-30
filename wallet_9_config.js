@@ -1,1 +1,1 @@
-var mnemonic = "invest merit super purchase share book master loop treat boss file project";
+var mnemonic = "crop erode notice umbrella palace friend cruise grow oppose enforce brisk earn";

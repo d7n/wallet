@@ -1,1 +1,1 @@
-var mnemonic = "tone media annual fire letter voice paper actual video ship human lounge";
+var mnemonic = "omit fish jealous bonus limit deputy quick satisfy power pistol wash equal";

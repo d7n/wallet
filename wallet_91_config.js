@@ -1,1 +1,1 @@
-var mnemonic = "miracle misery father announce whip blame clutch car share text fantasy glove";
+var mnemonic = "unhappy blur ring funny inject praise rug east ten earn soap saddle";

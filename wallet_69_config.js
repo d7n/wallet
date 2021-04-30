@@ -1,1 +1,1 @@
-var mnemonic = "awkward calm race poverty genre coil annual congress slogan check daring kitchen";
+var mnemonic = "rack adult sign sick you crime proof glance group disorder planet acoustic";

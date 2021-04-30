@@ -1,1 +1,1 @@
-var mnemonic = "promote trade basket point casual actor canyon parent eternal unable excite talent";
+var mnemonic = "taste fuel foil swap kit turtle drill stereo dirt hazard another initial";

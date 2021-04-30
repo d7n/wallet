@@ -1,1 +1,1 @@
-var mnemonic = "shrug expect more whip junk crystal off camera buzz combine album beauty";
+var mnemonic = "foam gossip weasel student share detail mosquito bean polar innocent return critic";

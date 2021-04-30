@@ -1,1 +1,1 @@
-var mnemonic = "act supreme nose fluid material palace priority pride deliver climb rug brain";
+var mnemonic = "horror garment twin share unit suit practice purchase position chicken kid shiver";

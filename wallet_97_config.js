@@ -1,1 +1,1 @@
-var mnemonic = "divide great ostrich lucky cinnamon quiz model appear midnight flame erase person";
+var mnemonic = "casual link tuition illness carbon slide hidden fish vast school alley token";

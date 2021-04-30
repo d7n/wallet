@@ -1,1 +1,1 @@
-var mnemonic = "much deer multiply pumpkin combine dutch leisure unfold share swallow regret talk";
+var mnemonic = "sunny other energy museum estate weasel unfair steak fiction soda swear witness";

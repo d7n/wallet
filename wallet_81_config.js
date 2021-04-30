@@ -1,1 +1,1 @@
-var mnemonic = "impulse laundry memory hockey dry brother umbrella target eagle catch blade sort";
+var mnemonic = "shaft clown milk stomach squirrel way leaf rich caught notice height pulp";

@@ -1,1 +1,1 @@
-var mnemonic = "hill edit chat dinner vapor sting oyster market defy ugly admit modify";
+var mnemonic = "ginger sing alarm omit minor boost spawn try express job diesel pretty";

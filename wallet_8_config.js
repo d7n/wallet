@@ -1,1 +1,1 @@
-var mnemonic = "spike income recipe arm what media that awesome sample insect fun best";
+var mnemonic = "taxi dad foil ill yard burden snap away picture base quality rival";

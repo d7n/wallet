@@ -1,1 +1,1 @@
-var mnemonic = "word clip extend toddler exotic spirit bullet carpet achieve basket alpha october";
+var mnemonic = "economy discover margin concert axis robust echo someone rely demise erosion eternal";

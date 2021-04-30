@@ -1,1 +1,1 @@
-var mnemonic = "guess vague essay artwork private loud blur expire economy setup lab tuition";
+var mnemonic = "weekend pattern head remain clay comfort police rifle peace fancy diary symbol";

@@ -1,1 +1,1 @@
-var mnemonic = "loan dune bright found promote razor alcohol census loud tragic mansion method";
+var mnemonic = "video protect deputy power dutch bitter mobile sail coil scan crew dragon";

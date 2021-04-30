@@ -1,1 +1,1 @@
-var mnemonic = "blush trip burger often water silver orbit equip engine defy crumble kidney";
+var mnemonic = "nominee combine harvest cluster sword border palace system rally lazy visual cattle";

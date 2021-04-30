@@ -1,1 +1,1 @@
-var mnemonic = "end omit subway box bubble cool tiny depart timber crisp liar sign";
+var mnemonic = "type wrestle heart eye mobile sail chunk aspect weekend alert plunge predict";

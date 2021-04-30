@@ -1,1 +1,1 @@
-var mnemonic = "gain hedgehog album rib cousin access embark recipe orient finger symptom segment";
+var mnemonic = "between apple hire bounce scorpion punch swallow rule layer board also member";

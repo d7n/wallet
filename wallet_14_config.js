@@ -1,1 +1,1 @@
-var mnemonic = "scout barrel engine cash federal pass anxiety ticket screen tank keen tissue";
+var mnemonic = "tray party claim finger sweet rocket setup hover put shell hold budget";

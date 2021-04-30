@@ -1,1 +1,1 @@
-var mnemonic = "pyramid anger friend tennis float sketch screen fan awful gap bind hold";
+var mnemonic = "surprise vote reason barrel taste elbow labor exit nest craft control magnet";

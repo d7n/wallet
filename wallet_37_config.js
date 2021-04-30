@@ -1,1 +1,1 @@
-var mnemonic = "acid what random garlic talent apart parrot dose rookie dress chunk jar";
+var mnemonic = "two clay track explain kitchen ancient include author couch endorse wheel trick";

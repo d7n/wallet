@@ -1,1 +1,1 @@
-var mnemonic = "hazard later zebra reason craft element gate behave virtual stove head evoke";
+var mnemonic = "drip sun pave tortoise alarm canvas assault soul feed muffin garbage step";

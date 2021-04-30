@@ -1,1 +1,1 @@
-var mnemonic = "awkward tribe skill kite arm radio hope urban payment smooth start clerk";
+var mnemonic = "drama person illness random denial sheriff zone fine one dismiss fresh elevator";

@@ -1,1 +1,1 @@
-var mnemonic = "brother alpha spot observe term trend siren flip solar prosper fish blade";
+var mnemonic = "load pilot hill tragic client snow drill test drive split shift great";

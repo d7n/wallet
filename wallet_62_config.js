@@ -1,1 +1,1 @@
-var mnemonic = "quit opinion tiny lizard join shell curtain chase stamp fancy pizza leg";
+var mnemonic = "badge found magnet erode wall uncover usual verify cost rhythm hold market";

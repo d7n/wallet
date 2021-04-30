@@ -1,1 +1,1 @@
-var mnemonic = "razor video kiwi caution cream enter funny chapter vote indicate shell inmate";
+var mnemonic = "order cancel direct cruise ten relief expose wave club video equal give";

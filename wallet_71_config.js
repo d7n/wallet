@@ -1,1 +1,1 @@
-var mnemonic = "bread mail behave maid isolate wrong flock fame such confirm daring library";
+var mnemonic = "tide earn curtain sweet census diamond humor mushroom stand flag glad bread";

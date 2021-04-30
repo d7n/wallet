@@ -1,1 +1,1 @@
-var mnemonic = "oil tomorrow glad arrow inspire twist vacuum device column observe claim champion";
+var mnemonic = "vault wide wink grief enable search drum income hill over acquire style";

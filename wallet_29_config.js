@@ -1,1 +1,1 @@
-var mnemonic = "medal crime jealous industry bread cycle mean memory soda subway width trumpet";
+var mnemonic = "gold one flash wire try course water cross coconut faculty phone strike";

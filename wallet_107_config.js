@@ -1,1 +1,1 @@
-var mnemonic = "black giraffe moral maximum reveal minor grass improve broken gasp flower outdoor";
+var mnemonic = "random cream rifle velvet brown anger throw expand economy version tunnel attack";

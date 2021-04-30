@@ -1,1 +1,1 @@
-var mnemonic = "inside enlist come duck popular coyote identify just age narrow hawk reason";
+var mnemonic = "nice vote liberty hip action envelope ice depart boost bread clerk village";

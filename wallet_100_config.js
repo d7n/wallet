@@ -1,1 +1,1 @@
-var mnemonic = "smart mom badge response brief crane message deer strike awesome also praise";
+var mnemonic = "clerk fiction garment fabric decade drama build program noble never impose electric";

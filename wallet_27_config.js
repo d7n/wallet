@@ -1,1 +1,1 @@
-var mnemonic = "screen fancy media bless random lend visit fit advance myself reward grace";
+var mnemonic = "deputy sample whale lobster sunny breeze update nature select nuclear scene soda";

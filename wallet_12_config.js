@@ -1,1 +1,1 @@
-var mnemonic = "cost uncover auto mechanic enact misery vendor minimum slight author fresh lesson";
+var mnemonic = "hidden confirm tank kid indoor blush finish avocado car correct elder fiscal";

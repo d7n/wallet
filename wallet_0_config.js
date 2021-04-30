@@ -1,1 +1,1 @@
-var mnemonic = "mention real race enable marble buffalo train burst long narrow whip pledge";
+var mnemonic = "toe endless pistol dignity topple giraffe math price filter satisfy approve infant";

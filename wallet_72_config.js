@@ -1,1 +1,1 @@
-var mnemonic = "bronze panther parade tobacco twin warrior diet barrel hello wood share blind";
+var mnemonic = "family remind ozone language satoshi summer cricket list angle nothing crime wheel";

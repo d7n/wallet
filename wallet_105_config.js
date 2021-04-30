@@ -1,1 +1,1 @@
-var mnemonic = "drink thumb expire garment witness law seed garbage focus become paddle buffalo";
+var mnemonic = "key purchase paddle silk join book blood section egg glass apology true";

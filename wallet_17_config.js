@@ -1,1 +1,1 @@
-var mnemonic = "calm before obtain police grass island dirt title sudden tank ice flock";
+var mnemonic = "when plunge fine chronic castle jar pet notice example pact pond weird";

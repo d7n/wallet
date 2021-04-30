@@ -1,1 +1,1 @@
-var mnemonic = "duck drastic drink life valid arrow model resource hole pride very wise";
+var mnemonic = "initial enroll keen steak auction surface chunk trap joy dance north attitude";

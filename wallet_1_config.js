@@ -1,1 +1,1 @@
-var mnemonic = "term glue valve crawl thumb relief turtle stumble awesome broom tide evil";
+var mnemonic = "catalog oval nephew crouch response fossil corn favorite voice sunset trick nation";

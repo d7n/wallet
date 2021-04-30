@@ -1,1 +1,1 @@
-var mnemonic = "walnut night yellow afford marriage cradle kind trash ecology cushion cattle crystal";
+var mnemonic = "cheese option excess ostrich struggle bounce scrap next slam alley code twenty";

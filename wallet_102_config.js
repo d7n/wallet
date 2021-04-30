@@ -1,1 +1,1 @@
-var mnemonic = "erupt alter ready penalty zero purchase cart exchange space banana picnic pear";
+var mnemonic = "source sound disagree decade emerge hen clean old elephant toss remove output";

@@ -1,1 +1,1 @@
-var mnemonic = "jelly injury donkey fine hotel card clever honey raw raven chicken wire";
+var mnemonic = "case glance mansion either creek scorpion total exercise elephant heart news lizard";

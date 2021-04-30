@@ -1,1 +1,1 @@
-var mnemonic = "improve involve palace engage abstract regret junior raise draw collect roast employ";
+var mnemonic = "memory kid tray garden civil ignore unlock renew pistol zoo video guide";

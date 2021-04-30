@@ -1,1 +1,1 @@
-var mnemonic = "client admit romance deputy lava twist scale come kiwi love pupil rice";
+var mnemonic = "health cause athlete dose drama velvet nothing cable segment veteran only pen";

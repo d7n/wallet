@@ -1,1 +1,1 @@
-var mnemonic = "goddess stomach repair eternal fury list tube cabbage mystery scorpion cousin lunar";
+var mnemonic = "grab relax robot behind tribe emerge suit person purpose add fork program";

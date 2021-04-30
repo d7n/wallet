@@ -1,1 +1,1 @@
-var mnemonic = "chunk lake divert drive degree idle ticket parrot provide oven expose duty";
+var mnemonic = "wave armed social doll ticket absorb pear hurdle coral budget naive upper";

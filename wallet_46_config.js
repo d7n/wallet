@@ -1,1 +1,1 @@
-var mnemonic = "cream brush method earth exhibit admit enjoy online coffee lazy donkey benefit";
+var mnemonic = "start arrive catch talent rescue inform math wave unusual cheese piano wheat";

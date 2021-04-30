@@ -1,1 +1,1 @@
-var mnemonic = "soccer above fire force cannon attract vessel connect torch car galaxy never";
+var mnemonic = "loan theory maple benefit scale shield hub source earth veteran pencil modify";

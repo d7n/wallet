@@ -1,1 +1,1 @@
-var mnemonic = "arm upon fossil black arrow barely october reduce fall interest breeze pipe";
+var mnemonic = "inform walnut flavor hollow cave camp rice grace husband merit empty capable";

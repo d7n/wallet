@@ -1,1 +1,1 @@
-var mnemonic = "six tube staff hire emerge just trash food evil mechanic diary release";
+var mnemonic = "stay tuna noble true faith weapon follow bind honey emerge dove flat";
