@@ -1,1 +1,1 @@
-var mnemonic = "risk tragic blue steak boring move ranch burger olive squirrel absent deer";
+var mnemonic = "debate multiply head life math proud hope awkward menu spend used penalty";

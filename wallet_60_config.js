@@ -1,1 +1,1 @@
-var mnemonic = "upper alcohol slim office airport obey craft phone shoot there evidence gold";
+var mnemonic = "pupil budget bachelor tired release portion depart eager title river furnace secret";

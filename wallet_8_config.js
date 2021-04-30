@@ -1,1 +1,1 @@
-var mnemonic = "assist day adjust pitch all unaware primary tribe brush gate slot endorse";
+var mnemonic = "soccer maze theme popular bundle much brain oppose coil actor picture client";

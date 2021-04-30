@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur bamboo shield swamp dentist way denial camera actress nasty cute stand";
+var mnemonic = "typical move oppose east august error dwarf mail february bag check head";

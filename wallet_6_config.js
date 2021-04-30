@@ -1,1 +1,1 @@
-var mnemonic = "dress useful service episode exhaust elder hair kitchen green gravity ten hurry";
+var mnemonic = "media scene glove buyer prosper winner rug fog cycle fitness peasant display";

@@ -1,1 +1,1 @@
-var mnemonic = "camera unusual easily coconut inform install absurd admit deliver liberty drop notable";
+var mnemonic = "grass focus short brown capital anchor digital doll sibling habit employ bridge";

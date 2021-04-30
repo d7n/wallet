@@ -1,1 +1,1 @@
-var mnemonic = "keep youth harsh blade size cricket craft destroy remember foam permit upgrade";
+var mnemonic = "plug chest sample vault glue law quote minor hurry pledge stadium clock";

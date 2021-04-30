@@ -1,1 +1,1 @@
-var mnemonic = "weapon profit federal quarter prosper family online story ghost tube divert island";
+var mnemonic = "gasp limit return village toilet defy south hidden ahead glad century alien";

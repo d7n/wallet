@@ -1,1 +1,1 @@
-var mnemonic = "bus minimum high tip loyal gather urban light best pink fold dwarf";
+var mnemonic = "secret degree purchase domain cluster pet cover worth smoke leaf axis child";

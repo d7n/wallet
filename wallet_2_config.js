@@ -1,1 +1,1 @@
-var mnemonic = "common surround travel milk copy tornado daring child comfort educate oppose hobby";
+var mnemonic = "gossip mandate economy rally exact sibling lottery legend fork satisfy post easily";

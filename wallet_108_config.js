@@ -1,1 +1,1 @@
-var mnemonic = "axis infant behave excess plastic cereal future gaze long scout beauty soccer";
+var mnemonic = "imitate rule certain nominee normal awake hamster obscure salon vocal silk cable";

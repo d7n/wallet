@@ -1,1 +1,1 @@
-var mnemonic = "ranch length catalog speed talent improve boy business term voyage smoke fade";
+var mnemonic = "ankle vast photo sauce display wisdom slim boss idea radio bubble candy";

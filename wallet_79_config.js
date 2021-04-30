@@ -1,1 +1,1 @@
-var mnemonic = "miracle betray stone beauty another coral rain wolf index stomach step stomach";
+var mnemonic = "spike crunch casino often mixture muffin pipe grass trust general spring slam";

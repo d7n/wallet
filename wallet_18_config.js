@@ -1,1 +1,1 @@
-var mnemonic = "there ski worry account green feed case fall awesome absent human omit";
+var mnemonic = "frown abstract jelly fat fiber admit habit quality concert coconut amount clinic";

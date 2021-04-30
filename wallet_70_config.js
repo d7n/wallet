@@ -1,1 +1,1 @@
-var mnemonic = "trap sniff gap lemon predict region glue three diamond exhibit ramp worry";
+var mnemonic = "move crane priority category buzz theory joke thought feature zebra exclude recycle";

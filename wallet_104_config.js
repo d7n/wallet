@@ -1,1 +1,1 @@
-var mnemonic = "flat chief tourist cattle quality echo valid breeze flush spawn antenna subway";
+var mnemonic = "labor pole slice process grace kid topple foster present wrong enough kid";

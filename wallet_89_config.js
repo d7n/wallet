@@ -1,1 +1,1 @@
-var mnemonic = "across melt loyal busy segment rude almost ketchup casual final valid mention";
+var mnemonic = "provide gloom valve hotel avoid increase mouse require usage wave remain panther";

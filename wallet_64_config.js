@@ -1,1 +1,1 @@
-var mnemonic = "fall immense hurdle ten better cement hedgehog loyal snow minute lawsuit rent";
+var mnemonic = "harbor final shaft antique speed spot index meadow scene right glass arrange";

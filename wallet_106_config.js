@@ -1,1 +1,1 @@
-var mnemonic = "borrow level daring accuse any obtain near address wage protect planet aware";
+var mnemonic = "mix combine permit deer crucial home easy stadium member belt acquire clown";

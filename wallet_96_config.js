@@ -1,1 +1,1 @@
-var mnemonic = "bachelor blade mobile spot velvet deposit trade virus neglect crisp volume differ";
+var mnemonic = "budget sphere easy blind catch install find vocal believe owner network island";

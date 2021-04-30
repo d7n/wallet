@@ -1,1 +1,1 @@
-var mnemonic = "clean also unique abstract angry stomach stone hammer enjoy kitchen leg shuffle";
+var mnemonic = "develop can average travel village fitness pepper write perfect animal control burst";

@@ -1,1 +1,1 @@
-var mnemonic = "buffalo message assist make flee puppy payment strategy arrow mandate equip cage";
+var mnemonic = "width label afford select grape dutch sick glad spirit hawk mirror lunch";

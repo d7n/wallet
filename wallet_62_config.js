@@ -1,1 +1,1 @@
-var mnemonic = "wolf hedgehog spray funny horror people embark lunar play fantasy autumn crucial";
+var mnemonic = "memory present club park ripple drum letter unique lunar universe impulse rain";

@@ -1,1 +1,1 @@
-var mnemonic = "concert perfect hair bicycle frown want wise keep model song physical cereal";
+var mnemonic = "repair race coil like boost grace utility advice tilt sister drop gaze";

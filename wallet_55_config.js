@@ -1,1 +1,1 @@
-var mnemonic = "divide know border kit grocery vast myself enrich limb throw dial dish";
+var mnemonic = "pig erase raven course confirm audit liar attend cricket humble inmate ship";

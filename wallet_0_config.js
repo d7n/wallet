@@ -1,1 +1,1 @@
-var mnemonic = "pink flash wash guilt congress zebra culture muscle face analyst glove seed";
+var mnemonic = "fork virtual fatal clown butter anchor bird wedding maze egg kick essay";

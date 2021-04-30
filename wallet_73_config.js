@@ -1,1 +1,1 @@
-var mnemonic = "spread galaxy off seminar battle very program warm question bleak welcome dose";
+var mnemonic = "loan secret trip oppose total scare among prosper peanut lunch menu come";

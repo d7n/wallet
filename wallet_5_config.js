@@ -1,1 +1,1 @@
-var mnemonic = "slot toe flash muffin permit cheese blouse journey stable sport grief clog";
+var mnemonic = "tail sand mouse letter cupboard tooth sort manual issue crumble liquid buzz";

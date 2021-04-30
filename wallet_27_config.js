@@ -1,1 +1,1 @@
-var mnemonic = "swap toss cargo wild collect wedding clarify bind know book cube grow";
+var mnemonic = "cattle blood close cost rescue nut note crazy token true bottom marble";

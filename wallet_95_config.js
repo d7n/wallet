@@ -1,1 +1,1 @@
-var mnemonic = "cement naive either vocal tool auction token seed orient pepper stable produce";
+var mnemonic = "front local turn rude velvet multiply review voyage program mean laugh fetch";

@@ -1,1 +1,1 @@
-var mnemonic = "defy worry stool diesel devote dismiss vessel dress slide elephant bleak advice";
+var mnemonic = "lava spend stage pen judge best hen resist upon mention trigger human";

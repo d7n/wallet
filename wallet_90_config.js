@@ -1,1 +1,1 @@
-var mnemonic = "man loyal tip output basket consider cactus funny question rare desk goddess";
+var mnemonic = "arrive silent confirm better grape chapter lunar gadget salute cliff arctic notable";

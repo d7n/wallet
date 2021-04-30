@@ -1,1 +1,1 @@
-var mnemonic = "medal reduce code fold right art project warfare machine much battle velvet";
+var mnemonic = "fancy shoe ritual guide head weasel eyebrow load digital stadium bird agree";

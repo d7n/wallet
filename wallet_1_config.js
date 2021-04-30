@@ -1,1 +1,1 @@
-var mnemonic = "sign sea maple brave still cover use barrel kingdom ribbon renew female";
+var mnemonic = "parade shy please find cool pet agent sure palm tape chaos siren";

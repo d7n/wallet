@@ -1,1 +1,1 @@
-var mnemonic = "inflict modify fly human save medal afraid ritual speed aunt lock avoid";
+var mnemonic = "spoil flip pill idle view helmet toss few window transfer gesture spin";

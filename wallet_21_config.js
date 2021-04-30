@@ -1,1 +1,1 @@
-var mnemonic = "jungle abandon what wheat demise balcony general hover demand alley radar tag";
+var mnemonic = "kick pill jewel addict melt consider physical submit upper true crucial trick";

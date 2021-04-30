@@ -1,1 +1,1 @@
-var mnemonic = "grain crush ten mind diamond tonight double urge visa practice breeze dinosaur";
+var mnemonic = "slide friend blush gown crisp dentist almost debris want depend pig toy";

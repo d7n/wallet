@@ -1,1 +1,1 @@
-var mnemonic = "drink pause agree public jungle rough series voice section success below dream";
+var mnemonic = "voyage recipe shiver police jacket deal diary naive adjust major cage fly";

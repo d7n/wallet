@@ -1,1 +1,1 @@
-var mnemonic = "reform author run carbon brass defense wonder result priority jelly announce excite";
+var mnemonic = "general unhappy grocery upon second immense brush myself problem axis enroll fine";

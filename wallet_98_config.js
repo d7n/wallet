@@ -1,1 +1,1 @@
-var mnemonic = "juice urban cereal wool alarm brass eye suspect banana bounce maid sadness";
+var mnemonic = "tuna bundle sign success violin grain cradle reflect gossip belt phone supply";

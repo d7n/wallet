@@ -1,1 +1,1 @@
-var mnemonic = "spring regret then zebra account pink squeeze seed cream assist mother arena";
+var mnemonic = "panda audit possible opinion item kingdom kangaroo vocal close disagree inmate sausage";

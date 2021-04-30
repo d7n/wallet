@@ -1,1 +1,1 @@
-var mnemonic = "rural spawn good rate concert delay rack immense engage soon curve skull";
+var mnemonic = "reopen liar width slide clean orange mouse peasant anger enroll wreck smoke";

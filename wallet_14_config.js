@@ -1,1 +1,1 @@
-var mnemonic = "velvet post tornado angry purchase budget change blur sniff error spike creek";
+var mnemonic = "employ hawk marine galaxy bicycle vault spend maid stool panic window space";

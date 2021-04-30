@@ -1,1 +1,1 @@
-var mnemonic = "defy legend surge special fly peanut punch boat violin casual critic slide";
+var mnemonic = "post biology want tube pencil cool oven act rice side scout rose";

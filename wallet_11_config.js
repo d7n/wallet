@@ -1,1 +1,1 @@
-var mnemonic = "struggle master auto live rather hire bomb edit mean talk limit volcano";
+var mnemonic = "chunk return amazing example champion deposit chronic lunar wrap paddle swim file";

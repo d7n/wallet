@@ -1,1 +1,1 @@
-var mnemonic = "abstract abstract gap suffer leg caught edit cram history crowd faint more";
+var mnemonic = "upgrade speed attack divide boost found wisdom aerobic hint cash custom grief";

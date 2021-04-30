@@ -1,1 +1,1 @@
-var mnemonic = "swarm cram access smile evidence live alter force curtain mixture tone feature";
+var mnemonic = "accident alley card fatal glass admit harvest cycle rival mistake blush try";

@@ -1,1 +1,1 @@
-var mnemonic = "skirt certain car peace basic rely gossip retire mention amateur undo cabbage";
+var mnemonic = "regret fatigue person weasel water trend immune raven chair kick apple fit";

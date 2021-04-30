@@ -1,1 +1,1 @@
-var mnemonic = "once rotate reunion room swap visa predict length climb jungle easy focus";
+var mnemonic = "cabin light ability behave mango raven trigger ginger crack bright hungry kangaroo";

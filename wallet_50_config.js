@@ -1,1 +1,1 @@
-var mnemonic = "earn song song scissors timber unlock grab damage panic feature zebra ritual";
+var mnemonic = "warrior ginger city denial tell lens tomato perfect fence kind occur section";

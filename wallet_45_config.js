@@ -1,1 +1,1 @@
-var mnemonic = "cradle paper live point cousin airport alert farm inform speed trend uncle";
+var mnemonic = "direct cross hub seminar fork view worry someone begin eight click analyst";

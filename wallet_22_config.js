@@ -1,1 +1,1 @@
-var mnemonic = "mention surprise buddy cruise photo service spread clinic knock kit claim vault";
+var mnemonic = "say blur vacuum motion loop dynamic lobster stay puppy hybrid erupt type";

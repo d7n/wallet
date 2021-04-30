@@ -1,1 +1,1 @@
-var mnemonic = "rocket elder dog vintage develop erupt group mimic destroy judge snap jacket";
+var mnemonic = "crime veteran message tobacco edit town language earth essay sister cheese appear";

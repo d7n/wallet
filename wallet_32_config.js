@@ -1,1 +1,1 @@
-var mnemonic = "rotate desert afford cover record whisper amused lobster sense appear print eager";
+var mnemonic = "traffic gasp vibrant artwork urban step radar heavy spice wise potato april";

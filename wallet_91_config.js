@@ -1,1 +1,1 @@
-var mnemonic = "shallow grain organ permit van onion rescue hub announce hood token horse";
+var mnemonic = "tired gloom zebra swallow alone cause pigeon tiny fly cluster impulse energy";

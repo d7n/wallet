@@ -1,1 +1,1 @@
-var mnemonic = "remain trigger video truck power custom possible outer guitar gather female judge";
+var mnemonic = "notice share muscle hair agent tuition skate unaware chunk vivid pig away";

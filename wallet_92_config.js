@@ -1,1 +1,1 @@
-var mnemonic = "drum jelly quote ceiling battle harsh rifle exile cream inhale nerve artwork";
+var mnemonic = "clump report tumble chimney purity pupil swamp ramp arch supreme emerge burden";

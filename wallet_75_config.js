@@ -1,1 +1,1 @@
-var mnemonic = "cactus theory absurd flavor evolve label box battle organ reunion gun loud";
+var mnemonic = "camp shrimp sketch dignity wave blush half hand quote squeeze violin govern";

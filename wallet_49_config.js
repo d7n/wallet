@@ -1,1 +1,1 @@
-var mnemonic = "safe zero alter dolphin maid cost under magic fever honey intact drop";
+var mnemonic = "strategy also wish since muscle battle please bracket noodle tray dragon unknown";

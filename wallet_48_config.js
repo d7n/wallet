@@ -1,1 +1,1 @@
-var mnemonic = "mother nominee almost meat neutral silver actual good retire live bright renew";
+var mnemonic = "floor census wheel never large cereal virtual twist sand dry nerve infant";

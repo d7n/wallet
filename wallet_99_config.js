@@ -1,1 +1,1 @@
-var mnemonic = "laptop section flush verify bus donkey away modify announce enforce vehicle civil";
+var mnemonic = "mixture oak foot safe dilemma escape fault keep answer become grant ridge";

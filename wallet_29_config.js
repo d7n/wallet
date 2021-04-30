@@ -1,1 +1,1 @@
-var mnemonic = "wire code option gas capital salt kit churn stadium protect law disagree";
+var mnemonic = "domain false sort pave fold when news slush zebra march wheel memory";

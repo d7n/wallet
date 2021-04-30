@@ -1,1 +1,1 @@
-var mnemonic = "peace boss goddess grape squirrel shallow spy desert recipe current huge hour";
+var mnemonic = "border call virtual fall bus include decline wreck alcohol soldier faculty glide";

@@ -1,1 +1,1 @@
-var mnemonic = "twist harbor purpose nice post find grief above tonight often body eagle";
+var mnemonic = "chimney game social urge fan trick deputy easy actual spot void under";

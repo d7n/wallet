@@ -1,1 +1,1 @@
-var mnemonic = "entry athlete finish analyst head attract panda spin panther auto quote civil";
+var mnemonic = "wish student where accuse return damage primary purity symbol wheel smooth emerge";

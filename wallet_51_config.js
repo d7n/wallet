@@ -1,1 +1,1 @@
-var mnemonic = "despair flower ethics holiday link cause purity art just sample purpose autumn";
+var mnemonic = "dance creek relief budget item output conduct penalty ready initial evoke pass";

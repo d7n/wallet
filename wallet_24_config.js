@@ -1,1 +1,1 @@
-var mnemonic = "during blush degree legal climb vague enter host depend away bridge execute";
+var mnemonic = "neglect arch ancient debate rely pride inflict purpose all option senior word";

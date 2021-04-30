@@ -1,1 +1,1 @@
-var mnemonic = "pattern daughter cradle leopard ladder behave sail behind grace wedding father bulb";
+var mnemonic = "still suggest field gauge moral drink mesh only consider text elevator boy";

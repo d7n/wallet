@@ -1,1 +1,1 @@
-var mnemonic = "good adjust seed lift merry celery lens review sand trigger angle boy";
+var mnemonic = "surround interest index library once battle fame hollow already lens exclude sausage";

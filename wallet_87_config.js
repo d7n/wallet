@@ -1,1 +1,1 @@
-var mnemonic = "mad horn virtual page canyon girl decade abandon cage alert bread curious";
+var mnemonic = "potato involve joke poet panel luxury shock carry delay idea appear demand";

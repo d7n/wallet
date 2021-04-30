@@ -1,1 +1,1 @@
-var mnemonic = "depend forward trophy weather error head stomach supply reform flock term obscure";
+var mnemonic = "month crystal nice taxi atom note top legal body defy mother spread";

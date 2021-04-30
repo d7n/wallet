@@ -1,1 +1,1 @@
-var mnemonic = "loud rude trial toe measure polar face winner diagram stable fiber accident";
+var mnemonic = "lobster unfold leisure imitate math verify trial please donkey flat author donate";

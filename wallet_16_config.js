@@ -1,1 +1,1 @@
-var mnemonic = "member endless trust reunion amateur try tomato thought scare tissue eager correct";
+var mnemonic = "innocent whip panel tape have only indoor candy urge drive hungry tank";

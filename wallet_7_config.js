@@ -1,1 +1,1 @@
-var mnemonic = "armor trouble recall symptom program churn beef fork mercy shine usage crisp";
+var mnemonic = "hen biology inhale helmet damp observe scrap finger enforce blur east afraid";

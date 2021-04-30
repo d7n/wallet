@@ -1,1 +1,1 @@
-var mnemonic = "prevent noodle virus spike screen bamboo camp second pelican police base round";
+var mnemonic = "six toilet dizzy open clown dinosaur grape record quarter remember reform police";

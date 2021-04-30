@@ -1,1 +1,1 @@
-var mnemonic = "use utility phone power rebel connect local shock design clay fly eagle";
+var mnemonic = "illegal sniff cheese canal similar gold pudding crumble index month portion keen";

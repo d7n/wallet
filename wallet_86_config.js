@@ -1,1 +1,1 @@
-var mnemonic = "shiver utility display dial wedding clown return lawn apple shadow equal tell";
+var mnemonic = "hundred cable orient better switch electric face broccoli plate clerk cup stairs";

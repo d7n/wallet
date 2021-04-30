@@ -1,1 +1,1 @@
-var mnemonic = "bag cool relax addict shuffle wrap corn long march sort version abandon";
+var mnemonic = "course trend camera leaf trash capital elbow lady picnic palm cabbage record";

@@ -1,1 +1,1 @@
-var mnemonic = "ring avoid river space attend clog mirror model lumber scan road chef";
+var mnemonic = "sort nature term kingdom evil quick mechanic eyebrow plastic obvious cliff conduct";

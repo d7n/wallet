@@ -1,1 +1,1 @@
-var mnemonic = "dentist width entire humor craft require top service guard warfare burger credit";
+var mnemonic = "gold small same silent weird will coral job team code gun giant";

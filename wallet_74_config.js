@@ -1,1 +1,1 @@
-var mnemonic = "ticket increase use upon tumble armor family extra industry tiger deposit sponsor";
+var mnemonic = "muscle inform airport power wine paddle fork salute economy volcano once ski";

@@ -1,1 +1,1 @@
-var mnemonic = "juice clown crazy high width relax admit judge entire basket outer domain";
+var mnemonic = "busy mushroom hero hold luggage vague loan enemy profit bless midnight knee";

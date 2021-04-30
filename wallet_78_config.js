@@ -1,1 +1,1 @@
-var mnemonic = "fix cricket odor parrot kid brass struggle manage police inch track split";
+var mnemonic = "nuclear bar rent outer melody outside page tackle later spawn pretty brush";

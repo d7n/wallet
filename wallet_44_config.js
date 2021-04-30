@@ -1,1 +1,1 @@
-var mnemonic = "gun cattle silent cup music omit beauty wrong base gloom slender math";
+var mnemonic = "pride trend dune rug pulp advance knee curve elder puppy name spawn";

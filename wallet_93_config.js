@@ -1,1 +1,1 @@
-var mnemonic = "picture exit follow purpose step gauge income other milk catch distance exhaust";
+var mnemonic = "three wink else beyond major add sadness grow much joke hammer travel";

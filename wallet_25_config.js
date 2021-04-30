@@ -1,1 +1,1 @@
-var mnemonic = "job wagon credit wire clog glimpse indicate mammal divert column profit depth";
+var mnemonic = "educate forest smoke increase soft burger bomb blast beyond misery method arrest";

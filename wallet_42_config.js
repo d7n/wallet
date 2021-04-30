@@ -1,1 +1,1 @@
-var mnemonic = "hamster diet token sunny genius prefer roast language forget advance fame letter";
+var mnemonic = "punch claim knife lab genre tide eternal impact cheap upgrade cry knee";

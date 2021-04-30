@@ -1,1 +1,1 @@
-var mnemonic = "doll cabbage youth monster wisdom obtain mystery walk process material fortune notice";
+var mnemonic = "agent embark soft world crunch barrel puzzle where suffer glide ritual sight";

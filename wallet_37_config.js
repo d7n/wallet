@@ -1,1 +1,1 @@
-var mnemonic = "second divorce senior dinner update inflict cinnamon glare tower carpet west champion";
+var mnemonic = "wrestle alien material yard forget pistol forward stick near damage dynamic behind";

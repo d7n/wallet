@@ -1,1 +1,1 @@
-var mnemonic = "essence rack heart dizzy outside blast chalk goose escape security anxiety again";
+var mnemonic = "beauty degree tag saddle train venue priority mistake split fish shell panel";
