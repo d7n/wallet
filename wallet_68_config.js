@@ -1,1 +1,1 @@
-var mnemonic = "degree husband flame visual bright food include gym good blood frozen execute";
+var mnemonic = "pitch notable coral panda current follow gravity hole weather lamp hello step";

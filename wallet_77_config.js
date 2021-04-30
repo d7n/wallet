@@ -1,1 +1,1 @@
-var mnemonic = "blade run fresh wild rib best hat calm oblige final candy average";
+var mnemonic = "nephew viable pigeon topple entire protect poet series sadness gentle fence lobster";

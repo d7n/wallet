@@ -1,1 +1,1 @@
-var mnemonic = "nurse entire brain identify blanket gadget account below horn blind code negative";
+var mnemonic = "rookie diagram lobster brown away toe expire empty balcony slam demise wise";

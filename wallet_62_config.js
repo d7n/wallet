@@ -1,1 +1,1 @@
-var mnemonic = "glory elephant night merry foam scale guilt surprise fiscal shaft farm wide";
+var mnemonic = "cabbage stone risk scheme ghost tired sunny leg neglect chuckle frown evoke";

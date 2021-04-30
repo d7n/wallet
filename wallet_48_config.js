@@ -1,1 +1,1 @@
-var mnemonic = "lyrics burden predict average bottom boost clay such fabric scorpion message sketch";
+var mnemonic = "immense message public room salt maid area own zone cute icon organ";

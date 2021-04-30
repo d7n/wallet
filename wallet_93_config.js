@@ -1,1 +1,1 @@
-var mnemonic = "badge ocean dune inform dash upper media lecture easy utility space keep";
+var mnemonic = "weasel then abstract thank magic gather harbor usual stay defense surround trust";

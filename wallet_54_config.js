@@ -1,1 +1,1 @@
-var mnemonic = "thank tip object impact boring combine rally west submit guess truly buyer";
+var mnemonic = "wife banner maid version chest lawsuit lock shield million limb change sock";

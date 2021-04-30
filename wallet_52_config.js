@@ -1,1 +1,1 @@
-var mnemonic = "fan boost vintage wood gift flash connect decrease social turkey pitch order";
+var mnemonic = "mixed blue stay meadow hold width glare lazy void size month west";

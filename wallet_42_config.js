@@ -1,1 +1,1 @@
-var mnemonic = "solid palm junk skate know daring nut fox involve start want alien";
+var mnemonic = "web siege kingdom mixture hello major response happy glue cruise actor seed";

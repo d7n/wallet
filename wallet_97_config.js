@@ -1,1 +1,1 @@
-var mnemonic = "any barely engine lamp panic kitten harbor loyal sunny unable list live";
+var mnemonic = "exercise vessel praise home potato order decide romance immune please winter dirt";

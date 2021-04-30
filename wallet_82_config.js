@@ -1,1 +1,1 @@
-var mnemonic = "ocean doctor elephant primary borrow tribe above six riot elephant movie sunny";
+var mnemonic = "another buyer lab crazy blouse earn push segment similar neck actor lemon";

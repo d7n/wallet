@@ -1,1 +1,1 @@
-var mnemonic = "expand vanish rebuild carbon jaguar catch exact wink october glimpse eager bounce";
+var mnemonic = "minimum mechanic school antique random jewel once february coil journey long syrup";

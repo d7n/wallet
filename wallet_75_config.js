@@ -1,1 +1,1 @@
-var mnemonic = "vendor prize memory teach pledge dove into heavy act vintage marble trade";
+var mnemonic = "shallow unfold huge aware cruise home able essay liquid desert grow retreat";

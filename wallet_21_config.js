@@ -1,1 +1,1 @@
-var mnemonic = "warm dolphin payment girl modify patrol achieve fiction fresh cram skate business";
+var mnemonic = "budget race enrich shop soft consider enforce speed blossom balcony toilet enough";

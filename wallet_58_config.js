@@ -1,1 +1,1 @@
-var mnemonic = "system vehicle tell village wasp oil key tattoo profit during crumble funny";
+var mnemonic = "clever stuff supply dial illness joy such senior will clay shadow issue";

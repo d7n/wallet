@@ -1,1 +1,1 @@
-var mnemonic = "enjoy shrug radio energy normal student plastic tree frog sheriff stem claim";
+var mnemonic = "gasp rookie install swing slab stable long helmet primary gravity clock this";

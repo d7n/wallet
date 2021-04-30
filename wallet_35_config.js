@@ -1,1 +1,1 @@
-var mnemonic = "hurdle drop catch outside farm yard black rigid chaos shoulder sudden sight";
+var mnemonic = "nurse sunset case sunny day gesture earth admit focus catalog flower lava";

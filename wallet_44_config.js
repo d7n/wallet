@@ -1,1 +1,1 @@
-var mnemonic = "decorate tooth field method speak ball chase pony scare orient identify merge";
+var mnemonic = "spawn silent fluid decade tribe powder please find unique frown alone beauty";

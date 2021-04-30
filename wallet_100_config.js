@@ -1,1 +1,1 @@
-var mnemonic = "hurry minimum cage glove derive question bubble welcome weasel slam dust under";
+var mnemonic = "notice measure sail drip sword bamboo expire drill trash tired base onion";

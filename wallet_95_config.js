@@ -1,1 +1,1 @@
-var mnemonic = "clap disease execute cream dream high dismiss hand stomach orient lucky crash";
+var mnemonic = "nerve woman soul update enroll damage swallow person juice exit involve carpet";

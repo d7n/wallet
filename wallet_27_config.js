@@ -1,1 +1,1 @@
-var mnemonic = "perfect ghost unfold fat duck embark undo they lamp unlock goose food";
+var mnemonic = "cluster deliver detail coin hire behind olympic vapor water convince emotion illegal";

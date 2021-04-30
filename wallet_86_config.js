@@ -1,1 +1,1 @@
-var mnemonic = "remember lobster ostrich glimpse december adapt danger connect deposit foam laugh churn";
+var mnemonic = "attack use pattern merge hundred face fold dwarf shop planet bubble pet";

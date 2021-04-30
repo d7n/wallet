@@ -1,1 +1,1 @@
-var mnemonic = "annual fatal burden local bounce ethics pipe arch example park pulp science";
+var mnemonic = "virtual wide ketchup hood pen despair surge fuel unfair observe force theme";

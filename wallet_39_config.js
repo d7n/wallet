@@ -1,1 +1,1 @@
-var mnemonic = "alter song tag pill secret damage vapor release oak lounge spirit sword";
+var mnemonic = "whisper above grain decide minute spawn net avoid throw palm dry coconut";

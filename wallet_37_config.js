@@ -1,1 +1,1 @@
-var mnemonic = "aerobic outer bundle forum unveil indicate blue melt into general screen acquire";
+var mnemonic = "crime cat bacon split sleep trip topic fall hello trip bus speed";

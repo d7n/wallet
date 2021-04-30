@@ -1,1 +1,1 @@
-var mnemonic = "mask crumble brick few invite virtual allow alcohol mammal obey belt ozone";
+var mnemonic = "adapt road wool behave minor danger note potato inhale gravity mask riot";

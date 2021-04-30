@@ -1,1 +1,1 @@
-var mnemonic = "waste afford curve very fluid return mass retire local stove rally soldier";
+var mnemonic = "tomato taxi setup range jeans message base flight crazy recycle figure insane";

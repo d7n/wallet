@@ -1,1 +1,1 @@
-var mnemonic = "senior view target retreat light detail inmate depart immune recipe usual start";
+var mnemonic = "love flash design great fever general mixed energy inflict spell above vessel";

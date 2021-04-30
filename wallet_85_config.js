@@ -1,1 +1,1 @@
-var mnemonic = "boss endorse coyote praise shift note payment uncle simple hello sun omit";
+var mnemonic = "coffee film pretty ensure salad clinic push hawk dirt idea material main";

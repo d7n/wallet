@@ -1,1 +1,1 @@
-var mnemonic = "taxi match steel uncover scare bunker fix later all rent swamp actress";
+var mnemonic = "pigeon veteran blur kangaroo wash tissue afford grab rug leave mind goat";

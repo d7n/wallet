@@ -1,1 +1,1 @@
-var mnemonic = "riot roof way jaguar season obey aerobic bacon ship minor skin valley";
+var mnemonic = "siren scissors powder jeans loop film sustain trap vacant whale icon parade";

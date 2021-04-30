@@ -1,1 +1,1 @@
-var mnemonic = "uniform exact tiny oak crumble gaze coffee slide alcohol hundred mosquito turkey";
+var mnemonic = "jar music detect wreck lesson liberty food light battle income expose forest";

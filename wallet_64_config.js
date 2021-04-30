@@ -1,1 +1,1 @@
-var mnemonic = "noodle circle rain title erase city chat three unique love brand amount";
+var mnemonic = "race auto remove crack inner leader tourist aerobic taxi toddler island inner";

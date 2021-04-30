@@ -1,1 +1,1 @@
-var mnemonic = "dumb artist range satisfy stereo ridge unknown hobby state easily meat rotate";
+var mnemonic = "index consider entire protect fat wedding casual leaf brass rookie air strong";

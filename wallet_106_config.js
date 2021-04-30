@@ -1,1 +1,1 @@
-var mnemonic = "poverty impulse bike armed apart filter company swap satisfy eager any duck";
+var mnemonic = "uncover response buddy fringe amazing target eight cargo tape garlic must matter";

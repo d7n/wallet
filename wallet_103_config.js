@@ -1,1 +1,1 @@
-var mnemonic = "step visa canal step mercy amount merry achieve joy hero divorce negative";
+var mnemonic = "siege wear never fortune dwarf pulse access review buzz west spoon kite";

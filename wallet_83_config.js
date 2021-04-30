@@ -1,1 +1,1 @@
-var mnemonic = "gasp double like apology assume bind legal waste fly vague business excess";
+var mnemonic = "arrange sad liquid window replace cupboard foam pig tape crop manual stumble";

@@ -1,1 +1,1 @@
-var mnemonic = "equal hidden title rib praise ladder define medal ordinary later just what";
+var mnemonic = "gauge remind spatial hobby corn balcony estate detail ranch arch above sauce";

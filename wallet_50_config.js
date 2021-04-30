@@ -1,1 +1,1 @@
-var mnemonic = "broken suggest ribbon health rack future fiction issue churn trend alone car";
+var mnemonic = "supply marriage rib horror lyrics whale time play output slide inmate oven";

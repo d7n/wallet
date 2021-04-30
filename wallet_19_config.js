@@ -1,1 +1,1 @@
-var mnemonic = "monster tattoo test spoil way build club engage invite garden float best";
+var mnemonic = "present once chapter detail fever fame light inmate behind ancient sample spray";

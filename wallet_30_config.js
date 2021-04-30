@@ -1,1 +1,1 @@
-var mnemonic = "affair uncle guilt sphere motor sleep curtain draft poem hole pizza arrow";
+var mnemonic = "cactus author coil crowd output team double elbow injury cricket enforce enrich";

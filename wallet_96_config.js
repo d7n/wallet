@@ -1,1 +1,1 @@
-var mnemonic = "hockey city awful speak inmate pave laptop since obtain romance apple cactus";
+var mnemonic = "erosion feed divide swamp divide hockey divide ecology clay camera phone produce";

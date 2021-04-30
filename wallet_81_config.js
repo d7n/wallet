@@ -1,1 +1,1 @@
-var mnemonic = "quiz oyster cake honey steel bicycle pyramid ignore regret junior letter broom";
+var mnemonic = "snap hedgehog scheme state museum train crunch people rubber orbit half monster";

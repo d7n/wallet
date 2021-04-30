@@ -1,1 +1,1 @@
-var mnemonic = "pencil mango purse rural fringe ten soft depth couch cradle cable canyon";
+var mnemonic = "distance negative solid response simple swear sweet gun trigger grit table equip";

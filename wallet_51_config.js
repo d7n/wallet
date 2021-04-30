@@ -1,1 +1,1 @@
-var mnemonic = "excess abstract sustain science tennis bamboo hamster gold nice keep riot satoshi";
+var mnemonic = "deer giant robot regret solid pass view moral cry half battle adult";

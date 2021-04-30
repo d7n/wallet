@@ -1,1 +1,1 @@
-var mnemonic = "ball conduct joke galaxy market half invite boat inch object tissue polar";
+var mnemonic = "bargain eye bachelor fun conduct page amused reason used yellow mammal tunnel";

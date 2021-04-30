@@ -1,1 +1,1 @@
-var mnemonic = "hotel infant head lunar neutral immune sudden purse just theme oil decline";
+var mnemonic = "hood human fortune chaos grief salon normal toss absurd metal crisp room";

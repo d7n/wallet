@@ -1,1 +1,1 @@
-var mnemonic = "cradle soft drift dance diet hobby chunk diesel bench toward scissors strong";
+var mnemonic = "mean debris select vivid step tooth jealous volcano scheme hawk neck hungry";

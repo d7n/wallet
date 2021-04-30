@@ -1,1 +1,1 @@
-var mnemonic = "daring weekend chief evil negative shield enrich volume legend lesson dash upon";
+var mnemonic = "draw drop exhaust reduce betray edit toe slab enrich taste rug sunset";

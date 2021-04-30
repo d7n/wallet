@@ -1,1 +1,1 @@
-var mnemonic = "wonder tattoo era chief can stumble couple flight jeans cart economy switch";
+var mnemonic = "vanish loud interest sheriff survey mountain monitor glance fame cotton rocket catch";

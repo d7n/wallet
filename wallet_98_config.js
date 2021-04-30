@@ -1,1 +1,1 @@
-var mnemonic = "immune lock emotion subject crash pledge degree mimic bridge there furnace oil";
+var mnemonic = "panther heart gravity garage busy wall still caught auto enhance piano ill";

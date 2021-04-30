@@ -1,1 +1,1 @@
-var mnemonic = "divorce beach exhaust junior quick crowd basic elephant gesture recipe swing cake";
+var mnemonic = "stool first purpose position corn evidence luxury reward ecology actress retire crisp";

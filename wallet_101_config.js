@@ -1,1 +1,1 @@
-var mnemonic = "wash cushion into match add veteran index sight fitness simple laptop unlock";
+var mnemonic = "employ lunar purse cabbage divide traffic unlock rebel city relax slot climb";

@@ -1,1 +1,1 @@
-var mnemonic = "lake leader today force pulse maple lock camp chunk year shiver social";
+var mnemonic = "lizard cash country route loan cloud prefer develop already siren random solid";

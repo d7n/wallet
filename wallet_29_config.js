@@ -1,1 +1,1 @@
-var mnemonic = "hole rice ocean scrub lemon heavy correct fade have next couch brush";
+var mnemonic = "shy become six leader identify theory west bunker chat kind soccer dial";

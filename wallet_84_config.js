@@ -1,1 +1,1 @@
-var mnemonic = "melody budget shaft base mouse travel term clutch coil car pond check";
+var mnemonic = "harbor uniform lift inner alone odor blanket clog weird despair achieve amazing";

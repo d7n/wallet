@@ -1,1 +1,1 @@
-var mnemonic = "select legend lake nothing theory connect garment sheriff use receive impulse cluster";
+var mnemonic = "step fiscal extend this regular reward zone deer kidney super cube wave";

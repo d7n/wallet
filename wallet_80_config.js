@@ -1,1 +1,1 @@
-var mnemonic = "marble entire autumn output picnic play shallow wool settle apology borrow dial";
+var mnemonic = "donate trial three trade endorse parrot winter hire plunge local salute shine";

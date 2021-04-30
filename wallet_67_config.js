@@ -1,1 +1,1 @@
-var mnemonic = "talk caught pause flock juice rice assist poet display sudden unit burger";
+var mnemonic = "shrug wide design cram resource control usual crystal oil brown fantasy romance";

@@ -1,1 +1,1 @@
-var mnemonic = "year rifle glove fish grocery twice project inherit myself daring subject arctic";
+var mnemonic = "abuse ribbon bus goddess autumn cannon police book trim silly echo noodle";

@@ -1,1 +1,1 @@
-var mnemonic = "unlock unfair cement become sentence culture release tide humble sight walnut scheme";
+var mnemonic = "cinnamon torch hen assault smile vital arrow virtual use venue life kitchen";

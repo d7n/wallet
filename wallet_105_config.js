@@ -1,1 +1,1 @@
-var mnemonic = "enemy evil stereo rigid similar check trend cherry habit hill idle helmet";
+var mnemonic = "song immense name orange brief prefer hamster shallow lunch gravity rookie enable";

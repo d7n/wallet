@@ -1,1 +1,1 @@
-var mnemonic = "shine wear cram radar stereo pony credit glass leave cute rebel foil";
+var mnemonic = "wrist secret cost sun comic surround entire book have lamp upper bubble";

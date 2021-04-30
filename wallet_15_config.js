@@ -1,1 +1,1 @@
-var mnemonic = "grit alter thunder genius cluster situate satoshi reflect afford future piano oak";
+var mnemonic = "outdoor uphold pulp then umbrella swallow ranch vacant blur catalog cream purchase";

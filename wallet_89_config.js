@@ -1,1 +1,1 @@
-var mnemonic = "patient spoon artefact glance they wrist clay cake assist elegant clarify best";
+var mnemonic = "object decline license fat kind comfort repair mesh loyal notable junk erase";

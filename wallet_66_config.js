@@ -1,1 +1,1 @@
-var mnemonic = "asset spell friend tail glare super describe milk mango weapon nephew sunset";
+var mnemonic = "fossil hybrid result swift poem sample narrow scare car submit choose shaft";

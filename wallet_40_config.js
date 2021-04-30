@@ -1,1 +1,1 @@
-var mnemonic = "unfair live melody birth gather powder kite topic meadow poverty mushroom wing";
+var mnemonic = "first boss apology humble iron depth bread good earth come ability reflect";

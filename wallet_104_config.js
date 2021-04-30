@@ -1,1 +1,1 @@
-var mnemonic = "denial camp blind extra gauge album street snap bitter code trumpet matrix";
+var mnemonic = "caught mosquito behave patrol caution chair funny photo radar flip reward inherit";

@@ -1,1 +1,1 @@
-var mnemonic = "skate winner bench coyote economy help team heavy like hire nice boring";
+var mnemonic = "undo stand whip shoe gasp hen general receive adjust media cereal decline";

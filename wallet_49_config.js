@@ -1,1 +1,1 @@
-var mnemonic = "report day lazy bench transfer finish elevator poet switch party question page";
+var mnemonic = "tobacco grain energy fog snap amused reopen sting boring clock thunder van";

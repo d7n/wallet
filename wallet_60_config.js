@@ -1,1 +1,1 @@
-var mnemonic = "you undo physical survey charge local unfair pencil tent section august flat";
+var mnemonic = "fun protect zero rib crucial squirrel liberty gravity inch normal number donkey";

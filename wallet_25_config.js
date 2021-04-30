@@ -1,1 +1,1 @@
-var mnemonic = "improve fly hotel write pelican expire tone sea almost obvious nerve they";
+var mnemonic = "spawn slot orbit check exit month solid noble ridge black where admit";

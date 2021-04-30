@@ -1,1 +1,1 @@
-var mnemonic = "dolphin limit work again boss matrix moment size donor armed riot method";
+var mnemonic = "armor soup online crazy amused skill year company then liberty tower balcony";

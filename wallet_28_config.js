@@ -1,1 +1,1 @@
-var mnemonic = "exile mix tissue play hollow appear slogan betray belt flat hero bread";
+var mnemonic = "trash midnight virtual romance sudden doctor way border arm tomato dress resource";

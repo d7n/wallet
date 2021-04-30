@@ -1,1 +1,1 @@
-var mnemonic = "fabric pause foster guide stomach rich sick october wheat wedding invest extra";
+var mnemonic = "case tragic impose shrimp similar album dentist movie action squirrel flavor nephew";

@@ -1,1 +1,1 @@
-var mnemonic = "tiger blouse lottery race witness fringe play bench raw sponsor unable stumble";
+var mnemonic = "segment upgrade comfort abuse negative claw test mammal tower visa huge equal";

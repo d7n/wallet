@@ -1,1 +1,1 @@
-var mnemonic = "border scissors answer history crime basket sponsor coil salt silver drill enough";
+var mnemonic = "fitness question body scorpion demand lava visit crazy amateur rifle affair visit";

@@ -1,1 +1,1 @@
-var mnemonic = "jazz enact rescue spawn opinion floor vital utility armed advance giggle machine";
+var mnemonic = "credit fade asthma size scheme movie pool border toddler surge boring mosquito";

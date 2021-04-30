@@ -1,1 +1,1 @@
-var mnemonic = "south metal this pulse odor budget weekend law sunset width divert pig";
+var mnemonic = "disease strike horse hover grace anxiety toe grow post vibrant sand survey";

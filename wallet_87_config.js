@@ -1,1 +1,1 @@
-var mnemonic = "bachelor dwarf media finger flash ghost nose avoid home dawn soccer laugh";
+var mnemonic = "arch antique struggle rotate elegant ship situate hazard minute quiz alter speed";

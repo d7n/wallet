@@ -1,1 +1,1 @@
-var mnemonic = "speed oppose utility whisper spice dream cinnamon coast output maximum vast essay";
+var mnemonic = "way giant dwarf shift habit learn camp embody whip solid path mom";

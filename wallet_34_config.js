@@ -1,1 +1,1 @@
-var mnemonic = "aware better final scan domain harbor foot rely attract decline guide mom";
+var mnemonic = "divide wash retreat bar whale primary stumble because dream link plunge glow";

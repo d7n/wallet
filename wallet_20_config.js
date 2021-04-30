@@ -1,1 +1,1 @@
-var mnemonic = "boat inmate moral upper surge affair table accident manual trumpet skull wild";
+var mnemonic = "alley initial chimney trend plastic fatal gadget afraid express will room spot";

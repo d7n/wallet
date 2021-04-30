@@ -1,1 +1,1 @@
-var mnemonic = "wheat similar upper close flat unlock poverty about ten popular doll better";
+var mnemonic = "carbon orbit manual rally knee tide viable omit doll fantasy velvet behave";

@@ -1,1 +1,1 @@
-var mnemonic = "define radio vague already tide castle truck material clarify draw tumble verb";
+var mnemonic = "merry path hurry mountain vote sight cloud umbrella scene hundred awesome humor";

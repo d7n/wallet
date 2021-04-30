@@ -1,1 +1,1 @@
-var mnemonic = "plastic script alcohol pupil armor rally please donor rescue ankle end fancy";
+var mnemonic = "install left explain around cause pulp make rate airport top fame gather";
