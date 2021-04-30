@@ -1,1 +1,1 @@
-var mnemonic = "filter guilt mystery solve canyon leg omit wave similar apology brisk jaguar";
+var mnemonic = "engage tiny desk bronze vast wrap salt garment giggle cycle random check";

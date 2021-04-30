@@ -1,1 +1,1 @@
-var mnemonic = "bid catalog please blouse notable shop early bid surround monitor hard broom";
+var mnemonic = "tennis hero lobster worth gold brisk brown mushroom payment zebra game flock";

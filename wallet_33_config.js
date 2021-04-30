@@ -1,1 +1,1 @@
-var mnemonic = "until bone sort disagree aisle collect hundred glance catch strong tortoise track";
+var mnemonic = "lawsuit purpose cactus rookie border picnic comic library spin goddess often guilt";

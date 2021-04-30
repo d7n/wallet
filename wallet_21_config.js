@@ -1,1 +1,1 @@
-var mnemonic = "city cinnamon powder deer path brass motor gym simple bulk argue extra";
+var mnemonic = "dune floor screen fish nose local jungle industry memory junior that mobile";

@@ -1,1 +1,1 @@
-var mnemonic = "magnet metal prepare tonight erosion science swim icon mercy tide neither suggest";
+var mnemonic = "silver ask super steak injury rich type opinion hazard winner crouch garage";

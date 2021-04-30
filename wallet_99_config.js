@@ -1,1 +1,1 @@
-var mnemonic = "wire doctor assist blouse replace medal lion price rural ladder decline spoon";
+var mnemonic = "predict debris steel power tooth virtual canyon summer few meadow belt kiss";

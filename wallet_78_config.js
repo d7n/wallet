@@ -1,1 +1,1 @@
-var mnemonic = "gloom plug always bid report tiger dune when sudden camera antenna seek";
+var mnemonic = "air force age dignity oval jeans empty atom reform damp grief dwarf";

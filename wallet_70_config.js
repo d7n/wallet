@@ -1,1 +1,1 @@
-var mnemonic = "diamond join capable shell grant typical depart intact giggle canvas mansion object";
+var mnemonic = "seek powder orphan veteran flip liberty sweet hill dove crowd income member";

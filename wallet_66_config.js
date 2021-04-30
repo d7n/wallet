@@ -1,1 +1,1 @@
-var mnemonic = "exact juice confirm reveal fix inquiry slam fiber forum script upset genuine";
+var mnemonic = "maple penalty odor core afford robot seek wish cupboard laugh pull prosper";

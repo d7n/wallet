@@ -1,1 +1,1 @@
-var mnemonic = "double vanish guard tooth acid twice crowd problem ramp dinner salon alarm";
+var mnemonic = "toast trigger treat twice furnace ridge tenant ring resemble piece dress giggle";

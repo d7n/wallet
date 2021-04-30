@@ -1,1 +1,1 @@
-var mnemonic = "language parent easy later rotate iron various couch sorry suspect escape guard";
+var mnemonic = "what wealth glare piece vivid crisp cool faint age boss jealous regular";

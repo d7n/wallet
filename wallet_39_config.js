@@ -1,1 +1,1 @@
-var mnemonic = "panther remind west patrol sunny about ordinary indicate before flame shop lunch";
+var mnemonic = "must legend morning vague couch repeat cannon hard sausage keep arrow over";

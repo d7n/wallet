@@ -1,1 +1,1 @@
-var mnemonic = "balcony hire random approve frequent enough hand number engage climb enable crumble";
+var mnemonic = "program unit lava moon space sunset mean popular odor stable protect pet";

@@ -1,1 +1,1 @@
-var mnemonic = "knife clerk please need arena monkey clock pave hire unit catalog state";
+var mnemonic = "smoke must dumb scrap feel eyebrow cancel purchase invite library way price";

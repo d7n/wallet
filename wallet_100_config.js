@@ -1,1 +1,1 @@
-var mnemonic = "vapor road balance arm cannon entire wine magic crowd awake injury cliff";
+var mnemonic = "afford section stumble mammal early life gun indoor wrap unfold august stamp";

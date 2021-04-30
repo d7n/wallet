@@ -1,1 +1,1 @@
-var mnemonic = "chimney film country seek snow cancel loyal hazard cave sun bag badge";
+var mnemonic = "screen proof noble used toilet engage include iron usual nasty zebra screen";

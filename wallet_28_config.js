@@ -1,1 +1,1 @@
-var mnemonic = "wrong nose mixture busy excuse kiss foster payment hat select pigeon extra";
+var mnemonic = "tortoise remain belt benefit prepare tone lounge disagree cook develop hospital blouse";

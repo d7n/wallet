@@ -1,1 +1,1 @@
-var mnemonic = "such heavy type tattoo month neglect shaft mandate truck combine trigger sail";
+var mnemonic = "fold clump crime library also make trouble employ march daughter black album";

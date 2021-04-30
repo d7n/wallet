@@ -1,1 +1,1 @@
-var mnemonic = "cabbage shed weird apple noble vacuum net relax mutual price buyer oyster";
+var mnemonic = "mixed voice favorite aspect work strike tribe stumble desert cruise evolve vintage";

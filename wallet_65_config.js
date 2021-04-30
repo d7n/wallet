@@ -1,1 +1,1 @@
-var mnemonic = "frost patrol say fitness citizen era duty squirrel script sadness voice pepper";
+var mnemonic = "orchard lecture essence second help budget very away marriage earn movie street";

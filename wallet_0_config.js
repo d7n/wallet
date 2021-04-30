@@ -1,1 +1,1 @@
-var mnemonic = "weather cruel hour shine embrace pond tank resource problem royal honey uphold";
+var mnemonic = "arm fault raise siege suggest movie rail sheriff extend festival suggest hockey";

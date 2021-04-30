@@ -1,1 +1,1 @@
-var mnemonic = "blossom entire indicate seek display wrap umbrella wink robot mean fox penalty";
+var mnemonic = "frozen industry before picture vendor fatal student captain letter venue remember path";

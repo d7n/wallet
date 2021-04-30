@@ -1,1 +1,1 @@
-var mnemonic = "exit tourist mass exit toast pride wagon inch strategy bachelor twenty stone";
+var mnemonic = "fiber rose spoon hood weird menu matrix general gate mom ostrich inflict";

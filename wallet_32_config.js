@@ -1,1 +1,1 @@
-var mnemonic = "used satisfy weapon offer slogan produce skill demand scan soda orient rather";
+var mnemonic = "sentence shop inject boat later zero door blush remove essay slush normal";

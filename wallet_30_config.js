@@ -1,1 +1,1 @@
-var mnemonic = "prosper gospel suit trap pyramid morning caught purity sail universe invest kiwi";
+var mnemonic = "foot artefact spin adjust version sad supreme lens popular dish library fabric";

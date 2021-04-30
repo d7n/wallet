@@ -1,1 +1,1 @@
-var mnemonic = "decade secret problem crash skirt before explain team armed razor bless divert";
+var mnemonic = "bar uncover gesture cart rigid panda flash ramp riot bulb shell unfair";

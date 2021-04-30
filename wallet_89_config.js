@@ -1,1 +1,1 @@
-var mnemonic = "cause purity month tobacco guard warrior recall have auto wrap little quick";
+var mnemonic = "casino better thank curious initial tunnel attend novel grunt metal cash option";

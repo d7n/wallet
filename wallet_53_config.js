@@ -1,1 +1,1 @@
-var mnemonic = "unknown bone puzzle cupboard meat bicycle grunt chimney canyon sting cheap vibrant";
+var mnemonic = "spike ridge spice equal good style vacant gentle lens fog ribbon thank";

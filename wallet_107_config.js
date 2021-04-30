@@ -1,1 +1,1 @@
-var mnemonic = "horror prison correct mosquito inhale silver scheme lyrics obey skate series inform";
+var mnemonic = "kidney comic success warfare shrimp ski near bag alpha switch turtle regular";

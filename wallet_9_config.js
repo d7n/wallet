@@ -1,1 +1,1 @@
-var mnemonic = "obey sense unusual gown journey right install anxiety twelve unfold essence ritual";
+var mnemonic = "plate install animal picnic donor notice fold duck shoot have canyon very";

@@ -1,1 +1,1 @@
-var mnemonic = "garment release glad prevent latin guess cool sing affair member ill lyrics";
+var mnemonic = "suit cheese dismiss share girl random mad harsh wisdom imitate inquiry inflict";

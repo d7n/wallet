@@ -1,1 +1,1 @@
-var mnemonic = "belt punch kit garment caution monkey morning actress noise outdoor joke need";
+var mnemonic = "toast frost hurry public ginger canyon other secret divide border simple latin";

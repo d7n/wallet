@@ -1,1 +1,1 @@
-var mnemonic = "area mushroom pelican input purse armed artefact cricket ring please arctic first";
+var mnemonic = "expect tissue regular nut violin huge december proof idle stage doctor mass";

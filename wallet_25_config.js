@@ -1,1 +1,1 @@
-var mnemonic = "quit melt pear meat sniff stay cattle shrimp erase sea margin can";
+var mnemonic = "rapid object focus fresh ribbon security brief hurt omit oven alone moon";

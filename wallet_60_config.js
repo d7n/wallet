@@ -1,1 +1,1 @@
-var mnemonic = "census satoshi away duty drastic tomato this gloom grab disorder sort lizard";
+var mnemonic = "code plastic scout surprise hungry siege village time reward smart debate pink";

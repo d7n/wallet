@@ -1,1 +1,1 @@
-var mnemonic = "phrase innocent ask cute sustain menu ability decorate demand steel crane bid";
+var mnemonic = "donkey pattern travel position nephew fossil desert trim orange ripple knock alpha";

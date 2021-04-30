@@ -1,1 +1,1 @@
-var mnemonic = "barrel suffer pepper arctic opera chapter human soup light connect very come";
+var mnemonic = "attitude aware corn rotate shrimp flag chicken warm setup olympic slim unable";

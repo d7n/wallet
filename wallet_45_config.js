@@ -1,1 +1,1 @@
-var mnemonic = "spoon load found urban spider become speak memory drastic during core pioneer";
+var mnemonic = "fit glory fuel great cart hawk soon solid design gloom mobile sunny";

@@ -1,1 +1,1 @@
-var mnemonic = "box actual crunch gasp flight wish wall tail real gasp tent chief";
+var mnemonic = "save fringe sauce famous protect ready weekend wrap fun crater rural route";

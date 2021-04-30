@@ -1,1 +1,1 @@
-var mnemonic = "bachelor lake gallery slide dilemma crush pitch tip drama valve stomach dinner";
+var mnemonic = "rare scene essence mandate average cotton rude squirrel until process coin coconut";

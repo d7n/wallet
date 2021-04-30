@@ -1,1 +1,1 @@
-var mnemonic = "crisp bitter bulk evolve flower toss such sunset rug lunch basic property";
+var mnemonic = "various argue primary reopen slogan melody castle erosion symptom defense material movie";

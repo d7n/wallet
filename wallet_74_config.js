@@ -1,1 +1,1 @@
-var mnemonic = "spin response force express extra like shadow alter reason endorse simple fall";
+var mnemonic = "noble broken across swallow rice crazy paper inmate captain indicate yard deny";

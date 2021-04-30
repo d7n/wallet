@@ -1,1 +1,1 @@
-var mnemonic = "satoshi level client double museum curious nice orbit quote rhythm wrap vicious";
+var mnemonic = "boost liberty kite family umbrella express drill border usual mystery below engage";

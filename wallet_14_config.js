@@ -1,1 +1,1 @@
-var mnemonic = "surprise whip puppy pact old situate fox foam end avocado fault final";
+var mnemonic = "blossom seven exact iron birth garbage wrist gate agree mass magic plug";

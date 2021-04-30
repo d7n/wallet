@@ -1,1 +1,1 @@
-var mnemonic = "identify mention comfort case cancel style enough outside focus foil long one";
+var mnemonic = "inside leaf antique curtain sword talk glide nasty blade remain cram jaguar";

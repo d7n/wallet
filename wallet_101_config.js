@@ -1,1 +1,1 @@
-var mnemonic = "afford fluid veteran almost mammal police ankle leg season much glow model";
+var mnemonic = "antenna addict dog blouse vintage journey afford monster enjoy crunch manual hidden";

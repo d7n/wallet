@@ -1,1 +1,1 @@
-var mnemonic = "pet minimum subway mom swing pumpkin lucky bundle shock live shine bundle";
+var mnemonic = "banner lottery suggest hold rhythm shoe destroy water jump faculty love topic";

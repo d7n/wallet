@@ -1,1 +1,1 @@
-var mnemonic = "analyst huge affair staff hurry shadow marble true check talk essence stay";
+var mnemonic = "vapor assume motion foster invite panther wool nurse apart flower claim tape";

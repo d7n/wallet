@@ -1,1 +1,1 @@
-var mnemonic = "exist medal member inch table hope join captain cream scatter debate famous";
+var mnemonic = "pink false immense other poet wheat pledge skirt swift crop sniff mountain";

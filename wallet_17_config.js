@@ -1,1 +1,1 @@
-var mnemonic = "advance garage casual carry mobile cube cluster weasel situate measure cannon stone";
+var mnemonic = "flight stereo cotton unusual atom slot wood speak model squirrel swallow kit";

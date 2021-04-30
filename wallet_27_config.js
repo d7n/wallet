@@ -1,1 +1,1 @@
-var mnemonic = "alien tiny boat cigar corn insect rabbit nephew danger board left harsh";
+var mnemonic = "notable color impact such mimic athlete ordinary volcano debris match way friend";

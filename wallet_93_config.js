@@ -1,1 +1,1 @@
-var mnemonic = "student domain wine print same journey train item scatter north multiply guitar";
+var mnemonic = "orphan gasp speak derive history adjust true motor keen noble mixture fossil";

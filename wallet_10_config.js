@@ -1,1 +1,1 @@
-var mnemonic = "unusual title input floor account decline onion about private excess hill attend";
+var mnemonic = "elbow garment angry trash neither gun guitar demand muscle travel speak intact";

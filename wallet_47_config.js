@@ -1,1 +1,1 @@
-var mnemonic = "solution alter wrist lift that clarify metal peace similar flight nice empower";
+var mnemonic = "degree level equip cake plunge crater faint swim nasty visit glow company";

@@ -1,1 +1,1 @@
-var mnemonic = "same swap reform health damp any consider screen found legal believe chuckle";
+var mnemonic = "liberty gun beach vault ramp cluster bacon brief concert lonely earn fan";

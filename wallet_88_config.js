@@ -1,1 +1,1 @@
-var mnemonic = "present gift axis grass ability short kingdom network false obtain stadium road";
+var mnemonic = "cactus rate keep bargain room lamp check chair castle tail denial mandate";

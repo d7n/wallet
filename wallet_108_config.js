@@ -1,1 +1,1 @@
-var mnemonic = "quantum clerk rude tumble abuse check cloud book salmon cart believe response";
+var mnemonic = "airport soda rally awake card erase town body stadium laptop sea rain";

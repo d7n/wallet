@@ -1,1 +1,1 @@
-var mnemonic = "guard tag decade over three coffee together legend north begin old tuna";
+var mnemonic = "obvious inmate brain type cause gravity float radio dolphin spin raccoon ski";

@@ -1,1 +1,1 @@
-var mnemonic = "twenty price lounge now crisp define wrong keep critic peace captain grain";
+var mnemonic = "someone dynamic asset gauge rich mango acquire weather midnight undo smile eagle";

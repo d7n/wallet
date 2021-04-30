@@ -1,1 +1,1 @@
-var mnemonic = "old stairs deal old junior speak weird video pass bridge gasp social";
+var mnemonic = "antenna quantum lunar true ribbon wrist borrow carry civil genre aisle then";

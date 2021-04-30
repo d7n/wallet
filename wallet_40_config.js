@@ -1,1 +1,1 @@
-var mnemonic = "tip hospital crazy travel reject act myth salon divert spoon summer social";
+var mnemonic = "broccoli wet short turtle cool clip owner ski box edge birth brick";

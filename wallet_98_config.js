@@ -1,1 +1,1 @@
-var mnemonic = "produce hip unveil soft good pupil witness scout letter fame short stuff";
+var mnemonic = "scissors aspect liberty rug install easy slot enrich spider raw turkey silly";

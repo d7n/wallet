@@ -1,1 +1,1 @@
-var mnemonic = "dinner giraffe sick medal behind raise cage humble smooth fossil prize sheriff";
+var mnemonic = "hint mesh decrease bridge giant brick trap journey scene noise stereo kiwi";

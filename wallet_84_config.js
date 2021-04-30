@@ -1,1 +1,1 @@
-var mnemonic = "average coyote draft close prevent check forget axis can wreck together north";
+var mnemonic = "avoid veteran insane chronic defense attitude century crush bean keep host nasty";

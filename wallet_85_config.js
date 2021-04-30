@@ -1,1 +1,1 @@
-var mnemonic = "pony collect board afraid urge merit puppy inch gym dress know deputy";
+var mnemonic = "flush peace pitch scrub invite leisure lonely tragic trigger rescue nothing brick";

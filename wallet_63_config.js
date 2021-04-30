@@ -1,1 +1,1 @@
-var mnemonic = "party mirror hazard average brisk laundry human group drift remove hen alpha";
+var mnemonic = "floor consider smooth dish humor friend fresh vendor sand athlete rescue school";

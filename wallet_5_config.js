@@ -1,1 +1,1 @@
-var mnemonic = "pair final rival speak olive orbit leave express sweet exit human ecology";
+var mnemonic = "april river service gesture true ecology small artwork april eternal render vendor";

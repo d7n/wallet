@@ -1,1 +1,1 @@
-var mnemonic = "cost need quick visual clip flag fish mushroom eyebrow addict stand royal";
+var mnemonic = "area enable opera mention picnic truth execute fury athlete honey claim judge";

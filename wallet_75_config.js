@@ -1,1 +1,1 @@
-var mnemonic = "unique embody elbow pigeon tomato switch shop sunny pledge bid violin raw";
+var mnemonic = "refuse iron remove cook border erupt vessel cheese mind car hero gossip";

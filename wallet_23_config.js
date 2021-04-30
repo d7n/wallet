@@ -1,1 +1,1 @@
-var mnemonic = "wheat version safe sea morning price spray runway renew spray course check";
+var mnemonic = "analyst swamp silk robot phrase robot concert submit pilot avoid industry secret";

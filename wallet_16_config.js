@@ -1,1 +1,1 @@
-var mnemonic = "gate toward excite myth banana evoke blur bright scissors gather light front";
+var mnemonic = "damp mosquito more over match hip improve tiny join luxury calm rescue";

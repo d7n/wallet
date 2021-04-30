@@ -1,1 +1,1 @@
-var mnemonic = "scout seat mother matter west double cheap jump romance sunny general bunker";
+var mnemonic = "fetch game such repeat regret pizza ready punch laugh demand fade embark";

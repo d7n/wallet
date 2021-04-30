@@ -1,1 +1,1 @@
-var mnemonic = "situate unaware essay hazard train chalk cool bag poverty fossil fatigue moral";
+var mnemonic = "learn human walk head stand loan dog acid charge welcome term system";

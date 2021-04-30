@@ -1,1 +1,1 @@
-var mnemonic = "unit goose upgrade afraid engage memory hospital square farm naive valve few";
+var mnemonic = "ladder hood end unaware coach helmet useful clinic awkward super chat obtain";

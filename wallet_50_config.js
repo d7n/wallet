@@ -1,1 +1,1 @@
-var mnemonic = "cheese garment call describe vibrant coffee thank approve place senior acoustic only";
+var mnemonic = "million artefact west edge club scale nut divert nothing endless offer copy";

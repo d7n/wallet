@@ -1,1 +1,1 @@
-var mnemonic = "cactus monster hungry permit history resist absorb razor scan crew neutral evoke";
+var mnemonic = "better disorder ceiling theme cliff cash mean park actress half rally anxiety";

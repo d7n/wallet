@@ -1,1 +1,1 @@
-var mnemonic = "interest retreat suffer seven brain meadow magnet borrow slab disorder infant decline";
+var mnemonic = "silver pink vapor panic barely crew milk gasp clutch ordinary topic kidney";

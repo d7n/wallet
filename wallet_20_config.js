@@ -1,1 +1,1 @@
-var mnemonic = "day toe hole local vacant polar mask silly crouch own impose primary";
+var mnemonic = "into lesson tail cement stereo badge thrive seven guess section april sure";

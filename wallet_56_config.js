@@ -1,1 +1,1 @@
-var mnemonic = "mirror federal segment market number surface summer benefit nut learn mirror height";
+var mnemonic = "blind razor desk bulk swallow kind admit risk dial enhance bomb kind";

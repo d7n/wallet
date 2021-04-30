@@ -1,1 +1,1 @@
-var mnemonic = "street zone gasp addict advice tip liberty immense draft tornado milk promote";
+var mnemonic = "fish opera enter erosion kitchen become change program enact ice bicycle spare";

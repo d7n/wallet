@@ -1,1 +1,1 @@
-var mnemonic = "define brand muffin legend earth silk east better wire curtain reveal note";
+var mnemonic = "city piano cost drift naive predict light napkin genre shy quarter tomorrow";

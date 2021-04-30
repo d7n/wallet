@@ -1,1 +1,1 @@
-var mnemonic = "elite neglect reward slim topple true parade sustain turn monster exotic spoon";
+var mnemonic = "agent apology sail chest define pretty obtain state differ dose fiscal daring";

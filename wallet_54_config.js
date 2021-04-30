@@ -1,1 +1,1 @@
-var mnemonic = "mask sniff panel basket snake omit provide hat wrong live problem palm";
+var mnemonic = "cruise raccoon budget connect earth danger poet fix clinic chunk spawn cute";
