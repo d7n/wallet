@@ -1,1 +1,1 @@
-var mnemonic = "twin announce acoustic retreat ethics train jar force rescue involve labor cupboard";
+var mnemonic = "repeat document snack honey jelly pass lonely ten history exchange carbon spin";

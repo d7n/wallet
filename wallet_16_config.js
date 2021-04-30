@@ -1,1 +1,1 @@
-var mnemonic = "label champion select flip bottom carry void know list solution sight erosion";
+var mnemonic = "genuine aware alert under share never alter marine hire inner capital soul";

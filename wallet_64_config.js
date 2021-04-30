@@ -1,1 +1,1 @@
-var mnemonic = "prefer tower jump husband diary update hockey real liberty elephant obey soft";
+var mnemonic = "fold claim truly twice betray dragon bomb toss wool genre enjoy organ";

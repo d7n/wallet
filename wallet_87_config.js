@@ -1,1 +1,1 @@
-var mnemonic = "dove fox correct clump inform orbit during clown girl screen visit cigar";
+var mnemonic = "lava banana night document canvas miracle dolphin diesel february spirit budget story";

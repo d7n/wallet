@@ -1,1 +1,1 @@
-var mnemonic = "have clutch lucky jewel double gauge green laugh smooth hub teach project";
+var mnemonic = "actual devote odor icon bitter reveal random supreme second win nerve burden";

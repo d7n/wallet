@@ -1,1 +1,1 @@
-var mnemonic = "pencil rival echo jazz solid polar enjoy earn merge universe insane type";
+var mnemonic = "chest lunch action toast level enhance fiscal walk skin village aisle fatal";

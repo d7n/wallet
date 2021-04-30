@@ -1,1 +1,1 @@
-var mnemonic = "wedding glass furnace orange order predict together sunny win knee tent squeeze";
+var mnemonic = "duck people salad hurry retire future jewel vicious canal cinnamon piece vault";

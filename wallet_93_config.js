@@ -1,1 +1,1 @@
-var mnemonic = "super salon earn rice nation impact farm unique august allow distance music";
+var mnemonic = "elder ordinary hen cinnamon elite purse possible young spatial candy dust assume";

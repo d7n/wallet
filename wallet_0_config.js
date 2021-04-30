@@ -1,1 +1,1 @@
-var mnemonic = "option pattern surface example image mail pride border tomato neck sick mobile";
+var mnemonic = "taste advance minimum duty patrol eagle fancy seek magnet flee eternal element";

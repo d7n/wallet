@@ -1,1 +1,1 @@
-var mnemonic = "behind food cross legend divert join rally ripple more light age butter";
+var mnemonic = "snack wire brisk glance camp milk leaf palm ancient pull answer novel";

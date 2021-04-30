@@ -1,1 +1,1 @@
-var mnemonic = "half reward drip armor thought catch film write outer find file ensure";
+var mnemonic = "voyage thing square notice song expand faculty cave boring fetch museum mansion";

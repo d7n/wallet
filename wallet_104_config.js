@@ -1,1 +1,1 @@
-var mnemonic = "sad sudden club stock endless asset either call portion stove clap anchor";
+var mnemonic = "duty room what dizzy salmon unit alert glimpse sense sudden hour version";

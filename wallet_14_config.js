@@ -1,1 +1,1 @@
-var mnemonic = "name catch deny slender grief royal between enjoy fade please sunset cup";
+var mnemonic = "animal scorpion fuel unveil recipe unknown reunion ridge derive egg bulk select";

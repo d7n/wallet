@@ -1,1 +1,1 @@
-var mnemonic = "cube exhaust police cargo math skate inform record into leave tenant stage";
+var mnemonic = "plug twelve coconut later involve nice arrest slab worry scrap jacket hotel";

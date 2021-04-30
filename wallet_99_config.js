@@ -1,1 +1,1 @@
-var mnemonic = "decade expand fog attract amazing december faith pottery extra clump parade bid";
+var mnemonic = "area gas vibrant love crouch patient habit hole auction eyebrow neutral finish";

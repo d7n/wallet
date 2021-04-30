@@ -1,1 +1,1 @@
-var mnemonic = "verify foot weird weapon home move case punch sketch version infant knock";
+var mnemonic = "image win erase confirm fortune shoe pact clown project goat service pink";

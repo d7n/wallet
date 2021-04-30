@@ -1,1 +1,1 @@
-var mnemonic = "hurt laptop opera about aunt chalk plunge human change cinnamon anxiety twenty";
+var mnemonic = "exclude goddess solid lobster sentence atom meat cover drama tattoo confirm trim";

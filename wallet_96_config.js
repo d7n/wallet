@@ -1,1 +1,1 @@
-var mnemonic = "movie comfort nurse confirm orange acid predict helmet pear hip paper rail";
+var mnemonic = "battle ready orient intact measure melt kingdom loud veteran connect elevator split";

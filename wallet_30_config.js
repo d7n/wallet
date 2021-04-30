@@ -1,1 +1,1 @@
-var mnemonic = "cup envelope scissors silly tray float broom interest verify elevator coil service";
+var mnemonic = "habit follow small kit royal dry tenant thumb gift mercy exchange keen";

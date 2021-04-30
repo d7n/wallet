@@ -1,1 +1,1 @@
-var mnemonic = "bronze rally wheat stable august arrest good prefer diary host slender mesh";
+var mnemonic = "remain top diet south ethics ozone sick hill tape robust pulse morning";

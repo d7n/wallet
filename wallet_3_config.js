@@ -1,1 +1,1 @@
-var mnemonic = "balance forward believe soda recipe science special sad mother afraid capable exile";
+var mnemonic = "endless heavy grab tissue gorilla grass fall crater injury ostrich penalty vapor";

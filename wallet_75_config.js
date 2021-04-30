@@ -1,1 +1,1 @@
-var mnemonic = "clerk frequent urge govern gym drift exhaust update method road quality allow";
+var mnemonic = "boost rule seed tragic giraffe donor purchase outside swallow arena lunch among";

@@ -1,1 +1,1 @@
-var mnemonic = "toss ripple walnut trade inside differ pioneer panel scissors puzzle surge cabbage";
+var mnemonic = "vacant lyrics theory food salad raise rug enough average utility inherit frame";

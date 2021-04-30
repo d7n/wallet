@@ -1,1 +1,1 @@
-var mnemonic = "globe math trend tag punch twist silent local explain tape ranch robust";
+var mnemonic = "cost answer harbor sport farm hurt fall immune cart clip column reduce";

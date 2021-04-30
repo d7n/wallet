@@ -1,1 +1,1 @@
-var mnemonic = "rail tuition bread bubble round nominee aspect black sport rhythm silk thought";
+var mnemonic = "bacon satoshi vibrant alien advice lyrics balcony manual essence salt response describe";

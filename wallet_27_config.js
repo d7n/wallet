@@ -1,1 +1,1 @@
-var mnemonic = "mention theory rotate armed correct cabin vicious exact canal gap chase solve";
+var mnemonic = "crouch december cushion spread flight trim silk fat always have quarter same";

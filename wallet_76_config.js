@@ -1,1 +1,1 @@
-var mnemonic = "ceiling spare anxiety celery crucial hurt hungry custom other simple provide amount";
+var mnemonic = "critic hamster weekend glove two hour panther round entry urban lesson pet";

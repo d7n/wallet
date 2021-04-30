@@ -1,1 +1,1 @@
-var mnemonic = "rely force crunch student debate skill sock robot kitchen summer rail vacant";
+var mnemonic = "mushroom matter couple various ski spy bargain public rebuild bag solar fade";

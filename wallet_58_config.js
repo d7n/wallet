@@ -1,1 +1,1 @@
-var mnemonic = "version will attract derive sentence alley lecture box badge transfer dutch payment";
+var mnemonic = "consider cake poet lottery index mimic clock want wool daring laugh gospel";

@@ -1,1 +1,1 @@
-var mnemonic = "diagram volume meadow vivid goat rotate love beauty cactus shoe modify cotton";
+var mnemonic = "wild film twist bulk wonder empty behind student nominee lawn coin amazing";

@@ -1,1 +1,1 @@
-var mnemonic = "add size harbor novel six dismiss copy repair put south certain kite";
+var mnemonic = "half derive cave fatal surround speed roof enjoy mixed way pencil talent";

@@ -1,1 +1,1 @@
-var mnemonic = "agree comfort company advance blanket fire cage enlist parade purse pudding inherit";
+var mnemonic = "initial guilt admit quiz teach polar useful kitten govern bid sell suggest";

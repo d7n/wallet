@@ -1,1 +1,1 @@
-var mnemonic = "misery negative cheese reunion fold object achieve royal outer evil assume wet";
+var mnemonic = "address velvet civil suit pledge prosper coyote donkey hold coral front ski";

@@ -1,1 +1,1 @@
-var mnemonic = "grant unfair cup royal present lucky live forget hen only course parent";
+var mnemonic = "exercise pet put black then special hint domain ski isolate ginger chunk";

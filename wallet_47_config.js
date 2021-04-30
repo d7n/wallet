@@ -1,1 +1,1 @@
-var mnemonic = "knife office medal famous boil grant stuff bind march library dust woman";
+var mnemonic = "path wall endless describe country pride warrior usual alley lift suggest sketch";

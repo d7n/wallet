@@ -1,1 +1,1 @@
-var mnemonic = "cube defy bean heart avoid expect found unveil step narrow similar pulp";
+var mnemonic = "among detail cheap trophy atom cry taxi occur make top heart loop";

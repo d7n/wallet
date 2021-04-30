@@ -1,1 +1,1 @@
-var mnemonic = "fiction home diary better abandon address curious source cinnamon engage shuffle joy";
+var mnemonic = "flag own anger slight cotton slice fame park only spare victory beauty";

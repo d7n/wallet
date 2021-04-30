@@ -1,1 +1,1 @@
-var mnemonic = "shell stove truck combine obtain gesture high jacket soup lunar stomach broom";
+var mnemonic = "path depth prize way mean tunnel unit discover pulse ready tree once";

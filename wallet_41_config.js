@@ -1,1 +1,1 @@
-var mnemonic = "giraffe jazz marriage coffee violin cloud fortune paddle rain pistol abstract when";
+var mnemonic = "caught dish atom soldier caution engine crack fence describe fine skirt dog";

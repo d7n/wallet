@@ -1,1 +1,1 @@
-var mnemonic = "space train steak summer budget column cricket pitch excite sail maze current";
+var mnemonic = "right chimney divorce weasel sheriff loan coin leisure shrug song pig regret";

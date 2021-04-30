@@ -1,1 +1,1 @@
-var mnemonic = "walk voice sunny cream canal major example comic dove hunt forest about";
+var mnemonic = "clutch town page else escape ready robust hunt glimpse shove welcome auto";

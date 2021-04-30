@@ -1,1 +1,1 @@
-var mnemonic = "core episode surround artist kid season spray program carpet venue hair material";
+var mnemonic = "park swear orange story bubble energy wish fringe ostrich dash surround mechanic";

@@ -1,1 +1,1 @@
-var mnemonic = "deer rely clerk price alley suffer swing rug seat crush ribbon anxiety";
+var mnemonic = "obey network basket anxiety clay thumb convince clever laugh napkin hidden minimum";

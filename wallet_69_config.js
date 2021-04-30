@@ -1,1 +1,1 @@
-var mnemonic = "legend just century soda predict hammer ugly cat love swear salt input";
+var mnemonic = "seminar humor decorate improve siege verify usual arrive square burst cluster lock";

@@ -1,1 +1,1 @@
-var mnemonic = "mistake canvas stool frog alter provide shield luggage beach play shed gap";
+var mnemonic = "oven dinner country sell mimic blood want tilt clay enemy girl pipe";

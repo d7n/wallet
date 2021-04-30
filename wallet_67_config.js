@@ -1,1 +1,1 @@
-var mnemonic = "ticket pumpkin where danger father cave dice right helmet ethics genre kitchen";
+var mnemonic = "advance foil stamp buffalo inch filter eternal sorry derive expect program circle";

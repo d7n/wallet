@@ -1,1 +1,1 @@
-var mnemonic = "diesel cricket vital organ style border slice case bronze cream vintage sing";
+var mnemonic = "party verify scorpion sphere plastic citizen muscle access target cabbage carbon duck";

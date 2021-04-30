@@ -1,1 +1,1 @@
-var mnemonic = "toast tray pass holiday miracle cabbage march make unit special duck giggle";
+var mnemonic = "clever other vast multiply double odor decline network mind slight fun amused";

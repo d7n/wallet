@@ -1,1 +1,1 @@
-var mnemonic = "roof maple lunar city hand blast human manage legal ignore cherry choose";
+var mnemonic = "fold perfect bright rhythm power job dream alpha dash like island cat";

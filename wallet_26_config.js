@@ -1,1 +1,1 @@
-var mnemonic = "upon ball cabin radio cost pluck actress army beef enhance motion mechanic";
+var mnemonic = "motor produce tissue way alone absent client depend puzzle glory brush someone";

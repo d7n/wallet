@@ -1,1 +1,1 @@
-var mnemonic = "fine average suffer puzzle orphan candy job egg elder stable upper oxygen";
+var mnemonic = "basket duty feature tray cliff aisle rural lemon ramp describe include office";

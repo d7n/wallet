@@ -1,1 +1,1 @@
-var mnemonic = "transfer occur glow code melt sponsor nice east corn negative crunch menu";
+var mnemonic = "silent update outer muffin hint confirm frame move host unit badge disorder";

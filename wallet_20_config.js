@@ -1,1 +1,1 @@
-var mnemonic = "expect often middle universe tribe grape spirit smile raccoon east dial aim";
+var mnemonic = "erode range need point verb rally jewel make cousin enhance man section";

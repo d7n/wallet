@@ -1,1 +1,1 @@
-var mnemonic = "galaxy ripple flat rare snake jewel useless eager wife recall ring civil";
+var mnemonic = "position skin proof athlete camera stadium little vote pair spawn virus fault";

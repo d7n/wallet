@@ -1,1 +1,1 @@
-var mnemonic = "miss leaf shallow barrel hold lake assume hazard power siege insect furnace";
+var mnemonic = "couch donor brown chuckle copper limb silk certain law primary sign about";

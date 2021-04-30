@@ -1,1 +1,1 @@
-var mnemonic = "device course case curious emerge weather night dog absurd multiply palace invite";
+var mnemonic = "police wine ball rookie art social olive twin apology tray pitch stool";

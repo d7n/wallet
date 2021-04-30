@@ -1,1 +1,1 @@
-var mnemonic = "fame hybrid sleep benefit able project common win claw already bright chase";
+var mnemonic = "cute allow raw wink question across educate behind taxi scorpion whisper chuckle";

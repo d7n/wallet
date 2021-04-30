@@ -1,1 +1,1 @@
-var mnemonic = "embark egg apart prize pepper mix include immune wisdom noodle cannon smooth";
+var mnemonic = "adult cricket candy ability blouse mistake mixture torch grab area entire cross";

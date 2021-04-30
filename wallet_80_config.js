@@ -1,1 +1,1 @@
-var mnemonic = "fiscal shed visit indicate damage congress elite leaf rookie baby reason august";
+var mnemonic = "elbow area travel apart rate bar useful magnet before frame opinion release";

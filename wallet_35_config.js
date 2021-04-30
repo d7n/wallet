@@ -1,1 +1,1 @@
-var mnemonic = "rail play then neck child dry nice marble put cry science vault";
+var mnemonic = "still knife net gallery floor person observe network sad arrest camp drama";

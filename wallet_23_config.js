@@ -1,1 +1,1 @@
-var mnemonic = "stuff clutch flight cement road rose camera initial vocal animal prosper aunt";
+var mnemonic = "chunk slide upset banner debris ranch earth service bomb adult bind luggage";

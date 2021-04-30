@@ -1,1 +1,1 @@
-var mnemonic = "method critic jungle image tomato awesome skin kid quality water hip scatter";
+var mnemonic = "case inherit unusual victory enhance lion project magic step suit enjoy drastic";

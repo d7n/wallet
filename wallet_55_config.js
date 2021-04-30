@@ -1,1 +1,1 @@
-var mnemonic = "smile vapor couch orbit peanut dwarf badge frog oxygen cube enroll birth";
+var mnemonic = "lava hockey admit obtain island merit utility affair slow open puppy cherry";

@@ -1,1 +1,1 @@
-var mnemonic = "melody crush produce bulb half crater tiny elder local aisle heavy giggle";
+var mnemonic = "salmon tray lizard afford wire tent away arena shoot blind capital save";

@@ -1,1 +1,1 @@
-var mnemonic = "raise sister brisk news credit family entry empower use noble into age";
+var mnemonic = "remove milk assault walnut unusual cabin seek mom body submit theme refuse";

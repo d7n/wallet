@@ -1,1 +1,1 @@
-var mnemonic = "fix next holiday board glimpse detect vehicle race aunt inhale magic weasel";
+var mnemonic = "proud work prosper stool habit alcohol left announce foil dutch auto notice";

@@ -1,1 +1,1 @@
-var mnemonic = "crash abstract retire angle grunt believe fantasy tag era two flock unfold";
+var mnemonic = "sick disorder tone acid receive awake glory become sense must trigger upset";

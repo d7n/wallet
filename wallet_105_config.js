@@ -1,1 +1,1 @@
-var mnemonic = "laugh blush filter rubber walk tennis punch latin deer neck ivory change";
+var mnemonic = "daughter pioneer spawn victory bridge aerobic deposit couple naive goddess grain silver";

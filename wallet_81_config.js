@@ -1,1 +1,1 @@
-var mnemonic = "same steel priority couple retire hawk muscle summer brother route inject point";
+var mnemonic = "whale ask caught card loan payment control range level resource moon enable";

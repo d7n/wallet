@@ -1,1 +1,1 @@
-var mnemonic = "simple fog rapid salmon cook laugh fault divorce trigger keep universe math";
+var mnemonic = "bomb junior wife segment brass kitchen slogan acid cigar indoor own vanish";

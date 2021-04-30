@@ -1,1 +1,1 @@
-var mnemonic = "cherry sword muscle quote alpha used simple hole ill liquid story all";
+var mnemonic = "crawl problem flash banner arrow canoe paper delay trend small penalty material";

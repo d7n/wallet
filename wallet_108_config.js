@@ -1,1 +1,1 @@
-var mnemonic = "suggest eye top high tourist pistol room bulb depth extend upon remove";
+var mnemonic = "celery element weapon earth slight answer outside arrest cloth girl copper blame";

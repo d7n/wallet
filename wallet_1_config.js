@@ -1,1 +1,1 @@
-var mnemonic = "atom guilt wealth enforce blush inject lesson kind action modify region idle";
+var mnemonic = "jungle brief budget add ill clarify magnet layer produce display wood badge";

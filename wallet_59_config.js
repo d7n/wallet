@@ -1,1 +1,1 @@
-var mnemonic = "actor when team hope hunt service omit hole carpet address diagram evil";
+var mnemonic = "genre eyebrow brother grab oval reward grief dinosaur volcano spare kite noise";

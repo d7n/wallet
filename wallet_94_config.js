@@ -1,1 +1,1 @@
-var mnemonic = "addict kiss dawn afford zoo crucial eight approve direct win patch enrich";
+var mnemonic = "spawn broom admit pass pulp film spawn milk moment kiwi machine fat";

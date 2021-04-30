@@ -1,1 +1,1 @@
-var mnemonic = "enlist outer pioneer pen reopen roof evil pumpkin below inflict slender erupt";
+var mnemonic = "win repair circle love can attack hawk pluck add eager story mammal";

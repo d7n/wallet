@@ -1,1 +1,1 @@
-var mnemonic = "sauce situate sunset where tank tattoo then keen text tone circle total";
+var mnemonic = "turkey guide produce sugar release series culture icon arrange slow found faith";

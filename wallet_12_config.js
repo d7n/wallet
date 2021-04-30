@@ -1,1 +1,1 @@
-var mnemonic = "oven balance amount heart display black stomach elder angle chimney piece zoo";
+var mnemonic = "spring trial swallow topic head absorb good chief lottery pitch lava science";

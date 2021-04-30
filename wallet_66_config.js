@@ -1,1 +1,1 @@
-var mnemonic = "chef frown pattern script useless crunch innocent sausage news spider replace wide";
+var mnemonic = "sausage clarify estate drip logic hard comic category media belt jelly taxi";

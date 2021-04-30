@@ -1,1 +1,1 @@
-var mnemonic = "matter draft record enter super measure clog lady gun essay turtle alley";
+var mnemonic = "coconut stay taste artist bitter dumb minor try then guide aisle oxygen";

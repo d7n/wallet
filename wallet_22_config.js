@@ -1,1 +1,1 @@
-var mnemonic = "pigeon token shadow metal mother dry couple front agree category jewel drift";
+var mnemonic = "clip then glue squirrel senior learn impact exotic rude measure illness casual";

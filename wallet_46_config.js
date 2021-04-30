@@ -1,1 +1,1 @@
-var mnemonic = "insect engine country music click forget august crash hard unhappy need cube";
+var mnemonic = "differ polar subway open frost scrap tuna lady word step load cattle";

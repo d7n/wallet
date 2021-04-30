@@ -1,1 +1,1 @@
-var mnemonic = "cash evil okay setup mirror pride tower gaze symbol absurd frozen wedding";
+var mnemonic = "genius imitate absurd leisure trust hockey life time liquid remind soul pyramid";

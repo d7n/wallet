@@ -1,1 +1,1 @@
-var mnemonic = "bronze capable woman owner vital thank skirt jump lake innocent drink occur";
+var mnemonic = "alert infant dance confirm delay spend puppy liar pig lava business fat";

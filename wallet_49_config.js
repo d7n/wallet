@@ -1,1 +1,1 @@
-var mnemonic = "noble oxygen spirit garden cancel crowd income icon kick elder pool tilt";
+var mnemonic = "guilt gospel orchard viable cheap burst assume tunnel oppose large mosquito kingdom";

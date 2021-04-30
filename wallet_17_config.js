@@ -1,1 +1,1 @@
-var mnemonic = "spoil diagram climb rookie sing sunny spatial icon swamp wild half spider";
+var mnemonic = "render clock eight ridge pill ability hedgehog net myself grape cage vault";

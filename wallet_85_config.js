@@ -1,1 +1,1 @@
-var mnemonic = "fish rug resource offer utility myself fury true spray slide hope clump";
+var mnemonic = "tail cactus rich under kit acid wheat turn glare jewel rich flame";

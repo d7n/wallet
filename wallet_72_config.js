@@ -1,1 +1,1 @@
-var mnemonic = "stuff ripple ability foster sponsor spider elephant anger sniff siege width inspire";
+var mnemonic = "conduct lake upon adjust cluster melody teach evil bracket demise dizzy inhale";

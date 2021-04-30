@@ -1,1 +1,1 @@
-var mnemonic = "fiscal guard blanket mad snack shield half walk invest fade tag soda";
+var mnemonic = "gauge garlic grow onion old script orphan youth desert demise drastic obey";

@@ -1,1 +1,1 @@
-var mnemonic = "cup service direct rally surface approve silent sea notice ticket satoshi result";
+var mnemonic = "glove cave differ wave again muffin require volcano shaft voyage avocado flash";

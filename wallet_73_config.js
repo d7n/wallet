@@ -1,1 +1,1 @@
-var mnemonic = "airport rich naive wedding video pattern weekend summer way street asset object";
+var mnemonic = "around bargain school fly gloom apart kit reject garbage copy fluid fury";
