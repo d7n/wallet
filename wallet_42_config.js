@@ -1,1 +1,1 @@
-var mnemonic = "address velvet civil suit pledge prosper coyote donkey hold coral front ski";
+var mnemonic = "hill keen simple prefer work harsh sweet south imitate seat iron pear";

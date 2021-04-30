@@ -1,1 +1,1 @@
-var mnemonic = "initial guilt admit quiz teach polar useful kitten govern bid sell suggest";
+var mnemonic = "rural keen weird enemy wave problem super area truly hub present speed";

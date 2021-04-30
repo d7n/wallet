@@ -1,1 +1,1 @@
-var mnemonic = "duty room what dizzy salmon unit alert glimpse sense sudden hour version";
+var mnemonic = "song cruise heart upgrade yard orchard room quit dynamic achieve uncle trial";

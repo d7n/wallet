@@ -1,1 +1,1 @@
-var mnemonic = "consider cake poet lottery index mimic clock want wool daring laugh gospel";
+var mnemonic = "ignore chunk mango fortune pony arch any bottom finish scale fog caution";

@@ -1,1 +1,1 @@
-var mnemonic = "clever other vast multiply double odor decline network mind slight fun amused";
+var mnemonic = "rent door barely spatial afford common insane upset broom fix pink hello";

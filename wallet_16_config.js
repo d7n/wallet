@@ -1,1 +1,1 @@
-var mnemonic = "genuine aware alert under share never alter marine hire inner capital soul";
+var mnemonic = "lake right shadow helmet cotton object minor bubble check item traffic huge";

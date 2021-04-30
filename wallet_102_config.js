@@ -1,1 +1,1 @@
-var mnemonic = "disorder brother enough spice enrich reason embark senior bunker critic refuse river";
+var mnemonic = "surface flavor tilt repeat one adjust balcony neck end enhance excess control";

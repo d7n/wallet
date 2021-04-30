@@ -1,1 +1,1 @@
-var mnemonic = "vacant lyrics theory food salad raise rug enough average utility inherit frame";
+var mnemonic = "bird shoulder elbow happy artefact cigar series cereal close weapon stone person";

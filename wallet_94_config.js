@@ -1,1 +1,1 @@
-var mnemonic = "spawn broom admit pass pulp film spawn milk moment kiwi machine fat";
+var mnemonic = "impact uncover bid lonely sting derive cotton rely icon demise gown shiver";

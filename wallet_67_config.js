@@ -1,1 +1,1 @@
-var mnemonic = "advance foil stamp buffalo inch filter eternal sorry derive expect program circle";
+var mnemonic = "urge island march cupboard rural sunset vendor dirt dust task accuse video";

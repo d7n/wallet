@@ -1,1 +1,1 @@
-var mnemonic = "half derive cave fatal surround speed roof enjoy mixed way pencil talent";
+var mnemonic = "average dose talk organ february heart intact turn few involve mad treat";

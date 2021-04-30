@@ -1,1 +1,1 @@
-var mnemonic = "genre eyebrow brother grab oval reward grief dinosaur volcano spare kite noise";
+var mnemonic = "multiply vanish elephant shuffle federal produce letter enact finger cloth round entry";

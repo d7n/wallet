@@ -1,1 +1,1 @@
-var mnemonic = "area gas vibrant love crouch patient habit hole auction eyebrow neutral finish";
+var mnemonic = "ask region empower avoid business pause odor panther topic art danger horse";

@@ -1,1 +1,1 @@
-var mnemonic = "arrange cream maximum maid iron auction try decline rate found normal fortune";
+var mnemonic = "nest today organ effort mass bonus barrel drill receive museum lava sadness";

@@ -1,1 +1,1 @@
-var mnemonic = "taxi heavy allow oppose around inform follow carpet buzz body already peanut";
+var mnemonic = "december pledge apple comfort transfer thing cinnamon plate have immense lab rural";

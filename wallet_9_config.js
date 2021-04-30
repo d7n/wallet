@@ -1,1 +1,1 @@
-var mnemonic = "cost answer harbor sport farm hurt fall immune cart clip column reduce";
+var mnemonic = "remove leaf body affair unable certain pattern casual faith urban valley float";

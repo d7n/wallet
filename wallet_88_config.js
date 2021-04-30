@@ -1,1 +1,1 @@
-var mnemonic = "chest lunch action toast level enhance fiscal walk skin village aisle fatal";
+var mnemonic = "museum flight cargo document antique around seek legal young cover hint other";

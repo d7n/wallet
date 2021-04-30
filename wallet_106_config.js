@@ -1,1 +1,1 @@
-var mnemonic = "duck people salad hurry retire future jewel vicious canal cinnamon piece vault";
+var mnemonic = "almost forward subway olive alpha soul problem monkey defense assist sudden cute";

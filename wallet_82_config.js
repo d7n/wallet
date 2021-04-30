@@ -1,1 +1,1 @@
-var mnemonic = "exclude goddess solid lobster sentence atom meat cover drama tattoo confirm trim";
+var mnemonic = "elite basket review immense depend cement amazing picture screen glimpse include need";

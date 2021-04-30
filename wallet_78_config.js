@@ -1,1 +1,1 @@
-var mnemonic = "sick disorder tone acid receive awake glory become sense must trigger upset";
+var mnemonic = "ghost manage monitor kingdom other confirm ball age spy lunch conduct topple";

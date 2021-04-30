@@ -1,1 +1,1 @@
-var mnemonic = "fold claim truly twice betray dragon bomb toss wool genre enjoy organ";
+var mnemonic = "purse clown smile degree nose slow state turkey cash project glue include";

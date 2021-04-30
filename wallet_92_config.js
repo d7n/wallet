@@ -1,1 +1,1 @@
-var mnemonic = "lottery bean win female bean frown car couple raise civil question scout";
+var mnemonic = "diamond choose salad castle poem follow steak author puzzle local high month";

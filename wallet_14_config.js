@@ -1,1 +1,1 @@
-var mnemonic = "animal scorpion fuel unveil recipe unknown reunion ridge derive egg bulk select";
+var mnemonic = "want robust art dynamic figure intact edit culture awesome regular defense slogan";

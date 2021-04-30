@@ -1,1 +1,1 @@
-var mnemonic = "cute allow raw wink question across educate behind taxi scorpion whisper chuckle";
+var mnemonic = "shuffle miracle soft depth payment next inherit betray wife cabin mirror pet";

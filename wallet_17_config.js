@@ -1,1 +1,1 @@
-var mnemonic = "render clock eight ridge pill ability hedgehog net myself grape cage vault";
+var mnemonic = "jacket grant assume segment element army snack gather stem cattle person harsh";

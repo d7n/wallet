@@ -1,1 +1,1 @@
-var mnemonic = "celery element weapon earth slight answer outside arrest cloth girl copper blame";
+var mnemonic = "sleep between entry choice black item cash antenna pilot friend decade kick";

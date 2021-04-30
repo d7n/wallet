@@ -1,1 +1,1 @@
-var mnemonic = "oven dinner country sell mimic blood want tilt clay enemy girl pipe";
+var mnemonic = "patient walnut grocery lava entry blouse joy opinion gift today dizzy achieve";

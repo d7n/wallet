@@ -1,1 +1,1 @@
-var mnemonic = "critic hamster weekend glove two hour panther round entry urban lesson pet";
+var mnemonic = "inquiry reunion foster cheap magnet around chase palace burden pattern absorb wrap";

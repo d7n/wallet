@@ -1,1 +1,1 @@
-var mnemonic = "tail cactus rich under kit acid wheat turn glare jewel rich flame";
+var mnemonic = "mad seminar vapor radio swarm decide genius chaos click frown clinic blame";

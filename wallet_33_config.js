@@ -1,1 +1,1 @@
-var mnemonic = "party verify scorpion sphere plastic citizen muscle access target cabbage carbon duck";
+var mnemonic = "involve mystery code supreme win hundred shine lens sunset small cabbage hub";

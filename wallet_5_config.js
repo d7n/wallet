@@ -1,1 +1,1 @@
-var mnemonic = "genius imitate absurd leisure trust hockey life time liquid remind soul pyramid";
+var mnemonic = "high report summer prison elegant enact mandate gas fetch unfair later sample";

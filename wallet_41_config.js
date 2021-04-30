@@ -1,1 +1,1 @@
-var mnemonic = "caught dish atom soldier caution engine crack fence describe fine skirt dog";
+var mnemonic = "letter home material fringe kidney carpet find blood bounce inmate jar oil";

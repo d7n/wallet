@@ -1,1 +1,1 @@
-var mnemonic = "collect announce model adjust hold inquiry snow curtain reunion river reveal unhappy";
+var mnemonic = "misery squeeze weekend gift trial curve glimpse legend various this agree three";

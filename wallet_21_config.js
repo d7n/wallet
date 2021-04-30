@@ -1,1 +1,1 @@
-var mnemonic = "wild film twist bulk wonder empty behind student nominee lawn coin amazing";
+var mnemonic = "love orient muscle tobacco child mixed estate claw strike execute snow execute";

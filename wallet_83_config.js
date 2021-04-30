@@ -1,1 +1,1 @@
-var mnemonic = "voyage thing square notice song expand faculty cave boring fetch museum mansion";
+var mnemonic = "mandate glass menu tent boost human spoil minute goose stumble spot again";

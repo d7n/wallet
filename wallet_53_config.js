@@ -1,1 +1,1 @@
-var mnemonic = "position skin proof athlete camera stadium little vote pair spawn virus fault";
+var mnemonic = "equal wrist rather aspect example rate husband hurry donate matter clock ethics";

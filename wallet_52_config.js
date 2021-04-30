@@ -1,1 +1,1 @@
-var mnemonic = "habit unit hen utility essence bundle cliff alley athlete clutch pelican axis";
+var mnemonic = "unhappy broom surge other skirt rhythm submit deal glory dirt embark note";

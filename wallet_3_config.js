@@ -1,1 +1,1 @@
-var mnemonic = "endless heavy grab tissue gorilla grass fall crater injury ostrich penalty vapor";
+var mnemonic = "barely exercise retreat chronic spray lucky boat beach online country nest love";

@@ -1,1 +1,1 @@
-var mnemonic = "mercy kitten hamster apple inner erase cube menu sketch child kite unhappy";
+var mnemonic = "edit dawn dad shop runway obey awful differ trap scatter force various";

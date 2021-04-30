@@ -1,1 +1,1 @@
-var mnemonic = "image win erase confirm fortune shoe pact clown project goat service pink";
+var mnemonic = "elevator nation diet ask million unaware snake carry member strike clutch ride";

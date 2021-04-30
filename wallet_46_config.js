@@ -1,1 +1,1 @@
-var mnemonic = "differ polar subway open frost scrap tuna lady word step load cattle";
+var mnemonic = "eternal rescue solar piece other ball pill trust depend detail hire dynamic";

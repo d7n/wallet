@@ -1,1 +1,1 @@
-var mnemonic = "quiz potato decade man online base sail october guitar laugh butter hamster";
+var mnemonic = "dizzy acoustic topic piano guilt gesture vessel between around fit narrow noise";

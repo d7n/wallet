@@ -1,1 +1,1 @@
-var mnemonic = "lyrics dream hour mad company stuff limb start addict broken absent coconut";
+var mnemonic = "joke gallery dwarf reopen tube unable sadness mirror marble ask curious virtual";

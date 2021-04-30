@@ -1,1 +1,1 @@
-var mnemonic = "conduct lake upon adjust cluster melody teach evil bracket demise dizzy inhale";
+var mnemonic = "coil shove case world mix shy unusual loud increase interest coil into";

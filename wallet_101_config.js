@@ -1,1 +1,1 @@
-var mnemonic = "obey network basket anxiety clay thumb convince clever laugh napkin hidden minimum";
+var mnemonic = "unit stadium solar father raw author color syrup glove giant song crazy";

@@ -1,1 +1,1 @@
-var mnemonic = "motor produce tissue way alone absent client depend puzzle glory brush someone";
+var mnemonic = "adapt image section asthma depart federal cover become bring word please eyebrow";

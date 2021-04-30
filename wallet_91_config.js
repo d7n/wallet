@@ -1,1 +1,1 @@
-var mnemonic = "proud work prosper stool habit alcohol left announce foil dutch auto notice";
+var mnemonic = "annual boat noodle april curtain sure make van fly client correct token";

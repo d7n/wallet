@@ -1,1 +1,1 @@
-var mnemonic = "turkey guide produce sugar release series culture icon arrange slow found faith";
+var mnemonic = "now aware exist regret odor choice cradle frame coach media pigeon expire";

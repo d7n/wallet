@@ -1,1 +1,1 @@
-var mnemonic = "illegal brain elder dirt online slot midnight quantum ship salute stick hawk";
+var mnemonic = "salute illness razor work security eyebrow during matter dentist system labor between";

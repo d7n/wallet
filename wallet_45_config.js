@@ -1,1 +1,1 @@
-var mnemonic = "annual ankle right ritual goddess receive fossil excess okay eager birth glide";
+var mnemonic = "runway clinic alpha mixed answer child identify black abuse bring boy misery";

@@ -1,1 +1,1 @@
-var mnemonic = "clip then glue squirrel senior learn impact exotic rude measure illness casual";
+var mnemonic = "artist cement guilt umbrella absorb curious bag october banana outer rabbit dune";

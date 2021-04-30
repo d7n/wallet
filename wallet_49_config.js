@@ -1,1 +1,1 @@
-var mnemonic = "guilt gospel orchard viable cheap burst assume tunnel oppose large mosquito kingdom";
+var mnemonic = "gown vacant legend patch aim soda spawn illegal ceiling hurry benefit apple";

@@ -1,1 +1,1 @@
-var mnemonic = "bacon satoshi vibrant alien advice lyrics balcony manual essence salt response describe";
+var mnemonic = "slender reward aim brass energy vicious devote sadness battle glass dish wrist";

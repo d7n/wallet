@@ -1,1 +1,1 @@
-var mnemonic = "jungle brief budget add ill clarify magnet layer produce display wood badge";
+var mnemonic = "lake dragon drop interest else differ gallery polar fat blouse mansion evoke";

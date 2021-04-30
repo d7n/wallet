@@ -1,1 +1,1 @@
-var mnemonic = "boost rule seed tragic giraffe donor purchase outside swallow arena lunch among";
+var mnemonic = "wrap armed coach attack symbol afford first devote noise luggage supply royal";

@@ -1,1 +1,1 @@
-var mnemonic = "among detail cheap trophy atom cry taxi occur make top heart loop";
+var mnemonic = "reunion much recycle above bright mass slide ill patient globe mean away";

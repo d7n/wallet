@@ -1,1 +1,1 @@
-var mnemonic = "gauge garlic grow onion old script orphan youth desert demise drastic obey";
+var mnemonic = "earn run era service salmon badge tiny grit release merry charge discover";

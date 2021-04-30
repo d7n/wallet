@@ -1,1 +1,1 @@
-var mnemonic = "right chimney divorce weasel sheriff loan coin leisure shrug song pig regret";
+var mnemonic = "chronic risk sport equip usual fault sign hospital also anxiety result mom";

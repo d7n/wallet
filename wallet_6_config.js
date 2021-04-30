@@ -1,1 +1,1 @@
-var mnemonic = "remain top diet south ethics ozone sick hill tape robust pulse morning";
+var mnemonic = "pottery grain crush bonus scatter eternal system have blast clinic chapter popular";

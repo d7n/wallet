@@ -1,1 +1,1 @@
-var mnemonic = "battle ready orient intact measure melt kingdom loud veteran connect elevator split";
+var mnemonic = "sport innocent photo bunker soccer veteran planet rice field engine panther peanut";

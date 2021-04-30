@@ -1,1 +1,1 @@
-var mnemonic = "glove cave differ wave again muffin require volcano shaft voyage avocado flash";
+var mnemonic = "local else hidden rate skate shift oyster skill tent napkin repair wolf";

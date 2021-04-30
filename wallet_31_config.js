@@ -1,1 +1,1 @@
-var mnemonic = "silent update outer muffin hint confirm frame move host unit badge disorder";
+var mnemonic = "coffee stamp village wealth minimum subject moral diesel warrior staff few name";

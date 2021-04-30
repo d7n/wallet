@@ -1,1 +1,1 @@
-var mnemonic = "clutch town page else escape ready robust hunt glimpse shove welcome auto";
+var mnemonic = "latin area snake camera exact abuse season theme fresh clown hurry wide";

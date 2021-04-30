@@ -1,1 +1,1 @@
-var mnemonic = "taste advance minimum duty patrol eagle fancy seek magnet flee eternal element";
+var mnemonic = "risk glass march blast parent rabbit cruel hedgehog depend inmate garage post";

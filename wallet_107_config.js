@@ -1,1 +1,1 @@
-var mnemonic = "notice advice beyond ethics curve gain sick worth sustain brick then stuff";
+var mnemonic = "athlete dutch dinner loan surge sponsor region approve initial outer attract news";

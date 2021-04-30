@@ -1,1 +1,1 @@
-var mnemonic = "alert infant dance confirm delay spend puppy liar pig lava business fat";
+var mnemonic = "horse already online want donor ride little famous vacuum impose naive earn";

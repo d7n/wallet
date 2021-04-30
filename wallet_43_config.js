@@ -1,1 +1,1 @@
-var mnemonic = "crawl problem flash banner arrow canoe paper delay trend small penalty material";
+var mnemonic = "grant exercise service dial wheel must firm lizard seven alone try come";

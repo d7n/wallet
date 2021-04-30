@@ -1,1 +1,1 @@
-var mnemonic = "still knife net gallery floor person observe network sad arrest camp drama";
+var mnemonic = "warfare senior practice ride pact must sleep tank unlock ceiling year aspect";

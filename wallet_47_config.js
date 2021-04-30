@@ -1,1 +1,1 @@
-var mnemonic = "path wall endless describe country pride warrior usual alley lift suggest sketch";
+var mnemonic = "upper month junior fee flower obey useless degree forget winter suit check";

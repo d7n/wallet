@@ -1,1 +1,1 @@
-var mnemonic = "basket duty feature tray cliff aisle rural lemon ramp describe include office";
+var mnemonic = "try access spring various fortune season service tiger wet mercy tell boring";

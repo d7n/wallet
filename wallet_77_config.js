@@ -1,1 +1,1 @@
-var mnemonic = "path depth prize way mean tunnel unit discover pulse ready tree once";
+var mnemonic = "baby culture despair material side behind donkey author cereal clean swap kiwi";

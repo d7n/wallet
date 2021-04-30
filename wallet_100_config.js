@@ -1,1 +1,1 @@
-var mnemonic = "coconut stay taste artist bitter dumb minor try then guide aisle oxygen";
+var mnemonic = "casino crush pull arrange gasp stand cup faculty keep accuse scare fall";

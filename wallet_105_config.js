@@ -1,1 +1,1 @@
-var mnemonic = "daughter pioneer spawn victory bridge aerobic deposit couple naive goddess grain silver";
+var mnemonic = "travel raise season planet barely omit math brief ship heart game hold";

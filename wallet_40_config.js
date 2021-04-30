@@ -1,1 +1,1 @@
-var mnemonic = "flag own anger slight cotton slice fame park only spare victory beauty";
+var mnemonic = "flame initial gain current fence vicious apart case bean engage exhaust current";

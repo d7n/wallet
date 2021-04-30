@@ -1,1 +1,1 @@
-var mnemonic = "blouse discover utility install resemble miracle cinnamon outside section daughter rubber chicken";
+var mnemonic = "bonus orange update youth mushroom april pledge south civil night clarify before";

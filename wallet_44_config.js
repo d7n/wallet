@@ -1,1 +1,1 @@
-var mnemonic = "salmon tray lizard afford wire tent away arena shoot blind capital save";
+var mnemonic = "sun amount model olive hurt genuine bike satisfy blame access move true";

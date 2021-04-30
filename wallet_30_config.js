@@ -1,1 +1,1 @@
-var mnemonic = "habit follow small kit royal dry tenant thumb gift mercy exchange keen";
+var mnemonic = "clog crystal story mask kiwi fuel tonight banner morning tape collect lesson";

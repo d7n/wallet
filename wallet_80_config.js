@@ -1,1 +1,1 @@
-var mnemonic = "elbow area travel apart rate bar useful magnet before frame opinion release";
+var mnemonic = "sing fog pelican help phrase team snap mule borrow crisp affair clutch";

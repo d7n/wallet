@@ -1,1 +1,1 @@
-var mnemonic = "bomb junior wife segment brass kitchen slogan acid cigar indoor own vanish";
+var mnemonic = "clock foot property lounge blur depart mix deputy repair social donor write";

@@ -1,1 +1,1 @@
-var mnemonic = "win repair circle love can attack hawk pluck add eager story mammal";
+var mnemonic = "awful insect foot cage depth aisle invest wing ankle squeeze bid brave";

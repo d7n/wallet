@@ -1,1 +1,1 @@
-var mnemonic = "plug twelve coconut later involve nice arrest slab worry scrap jacket hotel";
+var mnemonic = "stuff town ignore hammer palace clock harsh slow camera uncle intact tuna";

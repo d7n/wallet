@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit until elder east phone adjust pear car outdoor cool mobile burst";
+var mnemonic = "marine bread note define magnet wing connect cash spoon fragile copy remain";

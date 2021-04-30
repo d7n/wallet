@@ -1,1 +1,1 @@
-var mnemonic = "case inherit unusual victory enhance lion project magic step suit enjoy drastic";
+var mnemonic = "cliff joy huge bracket hill uncle can oven disorder lamp initial cat";

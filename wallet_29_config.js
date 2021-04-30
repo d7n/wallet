@@ -1,1 +1,1 @@
-var mnemonic = "mushroom matter couple various ski spy bargain public rebuild bag solar fade";
+var mnemonic = "aunt neck toe bamboo ramp betray beyond pulp print topple public enough";

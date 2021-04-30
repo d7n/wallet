@@ -1,1 +1,1 @@
-var mnemonic = "erode range need point verb rally jewel make cousin enhance man section";
+var mnemonic = "idle quantum hello shrimp pledge scrap utility enforce summer rice speed grow";

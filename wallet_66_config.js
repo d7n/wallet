@@ -1,1 +1,1 @@
-var mnemonic = "sausage clarify estate drip logic hard comic category media belt jelly taxi";
+var mnemonic = "naive eye east screen scan quick drink honey logic mobile ill gas";

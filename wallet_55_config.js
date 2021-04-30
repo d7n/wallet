@@ -1,1 +1,1 @@
-var mnemonic = "lava hockey admit obtain island merit utility affair slow open puppy cherry";
+var mnemonic = "tortoise ketchup country code wink federal broken exile cruise they swamp vicious";

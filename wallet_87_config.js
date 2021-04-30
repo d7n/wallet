@@ -1,1 +1,1 @@
-var mnemonic = "lava banana night document canvas miracle dolphin diesel february spirit budget story";
+var mnemonic = "dolphin make multiply rally entire clog guitar bamboo shaft mesh night accuse";

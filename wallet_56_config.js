@@ -1,1 +1,1 @@
-var mnemonic = "repeat document snack honey jelly pass lonely ten history exchange carbon spin";
+var mnemonic = "lawsuit peanut torch rapid comic life stuff garden vacant genuine clutch drum";

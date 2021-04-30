@@ -1,1 +1,1 @@
-var mnemonic = "actual devote odor icon bitter reveal random supreme second win nerve burden";
+var mnemonic = "town exhaust fossil flush sock pride theme among twenty way tragic trick";

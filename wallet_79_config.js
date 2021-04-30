@@ -1,1 +1,1 @@
-var mnemonic = "remove milk assault walnut unusual cabin seek mom body submit theme refuse";
+var mnemonic = "iron coast energy lucky various turtle salt coffee twelve illegal tourist candy";
