@@ -1,1 +1,1 @@
-var mnemonic = "ginger vicious estate nature abandon camp release three prison gossip alert music";
+var mnemonic = "endless judge biology response appear buffalo day cattle stand fire pepper type";

@@ -1,1 +1,1 @@
-var mnemonic = "reflect can sport rotate example skirt walnut primary insect dash blue organ";
+var mnemonic = "speed skull lounge direct mimic three pen enough peasant best bean remind";

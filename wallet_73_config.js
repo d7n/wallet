@@ -1,1 +1,1 @@
-var mnemonic = "broccoli toss wine cycle chicken bring neglect people stem merry emotion excuse";
+var mnemonic = "physical shoe spray assist front giraffe turtle inherit unique visa stable fever";

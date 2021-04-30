@@ -1,1 +1,1 @@
-var mnemonic = "catch hill solution chaos mouse alone sibling paper quick trouble goddess vendor";
+var mnemonic = "law pledge crouch reason few rug dish craft kick vapor inch public";

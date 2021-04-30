@@ -1,1 +1,1 @@
-var mnemonic = "cross you pizza secret then grunt will main frequent manage remain valve";
+var mnemonic = "wild saddle good gentle spray cry aware balance crawl supreme youth say";

@@ -1,1 +1,1 @@
-var mnemonic = "joke mule reform action soccer eye foil odor poverty similar giraffe pill";
+var mnemonic = "few fabric ozone can until license give resemble cruel toward borrow romance";

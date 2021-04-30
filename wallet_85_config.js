@@ -1,1 +1,1 @@
-var mnemonic = "suit end melody useful hybrid basic term gadget age celery sound draft";
+var mnemonic = "ball wagon parade universe blush inject target inspire feel cherry acoustic boil";

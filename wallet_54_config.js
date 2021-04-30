@@ -1,1 +1,1 @@
-var mnemonic = "present artist stone spirit unusual resource warrior squirrel cushion present old convince";
+var mnemonic = "arch flag glove response around switch time brief upper fix donkey venue";

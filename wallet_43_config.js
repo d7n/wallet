@@ -1,1 +1,1 @@
-var mnemonic = "mom noble divorce lock collect almost forward apple jungle crucial diesel that";
+var mnemonic = "armor danger physical dilemma artwork icon use good have example damp type";

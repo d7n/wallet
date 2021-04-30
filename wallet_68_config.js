@@ -1,1 +1,1 @@
-var mnemonic = "radar smart cruise spirit sea zoo pretty matter mad flame index chunk";
+var mnemonic = "oppose grief pig mind kid tongue carbon puzzle alcohol yellow key kitchen";

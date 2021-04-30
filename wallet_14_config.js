@@ -1,1 +1,1 @@
-var mnemonic = "vendor want entry size sudden cannon claim sunny prison spike appear ask";
+var mnemonic = "club good tackle robot version adjust spring bounce arrow job nice beauty";

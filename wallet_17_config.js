@@ -1,1 +1,1 @@
-var mnemonic = "romance utility cake box chaos lobster fan airport act tortoise possible hammer";
+var mnemonic = "inquiry tribe glove screen depth demise adult resemble wonder sock boss vibrant";

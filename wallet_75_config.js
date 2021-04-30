@@ -1,1 +1,1 @@
-var mnemonic = "wise damage clutch circle repair offer isolate busy suit auction retreat figure";
+var mnemonic = "latin runway leader sport ketchup dust pony charge pattern spring voyage render";

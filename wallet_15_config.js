@@ -1,1 +1,1 @@
-var mnemonic = "green nerve forest alcohol lemon flower doctor item brush eight reform shrimp";
+var mnemonic = "review practice whale critic number gorilla seven someone split much pet short";

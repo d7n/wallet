@@ -1,1 +1,1 @@
-var mnemonic = "chunk fruit basket frog raven all short noble foot gallery sword burden";
+var mnemonic = "trumpet join clinic virtual cushion word tube carry ostrich mobile payment disagree";

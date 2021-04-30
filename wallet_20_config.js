@@ -1,1 +1,1 @@
-var mnemonic = "already cattle clerk order pottery armor nature multiply hour candy polar know";
+var mnemonic = "gold shed tube fame cake board today sun endless regret brown rescue";

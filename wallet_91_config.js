@@ -1,1 +1,1 @@
-var mnemonic = "beef salmon finish cinnamon grunt wealth junior velvet oppose stereo cattle start";
+var mnemonic = "benefit adult believe impose glory awake coconut portion cousin arctic buddy problem";

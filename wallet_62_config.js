@@ -1,1 +1,1 @@
-var mnemonic = "ignore blade grid oxygen pave butter long elephant exercise talent erosion proof";
+var mnemonic = "deer moral hidden ordinary build wealth assist enough slender cloth utility combine";

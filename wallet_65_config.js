@@ -1,1 +1,1 @@
-var mnemonic = "swift embody thank aware narrow reason man cheap firm train spider aisle";
+var mnemonic = "kiwi violin sign address transfer powder scheme diet news target boss tomorrow";

@@ -1,1 +1,1 @@
-var mnemonic = "elegant oxygen later retreat lady enlist analyst latin dial melody domain tray";
+var mnemonic = "science ostrich start nut upon excite flavor memory blind member solution scan";

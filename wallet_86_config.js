@@ -1,1 +1,1 @@
-var mnemonic = "craft inside spider version blind olive elephant lens filter girl book monitor";
+var mnemonic = "eager label tilt scare puzzle blanket hair april huge onion priority stool";

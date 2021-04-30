@@ -1,1 +1,1 @@
-var mnemonic = "drum drift annual tuna rubber rib obtain vendor average harvest topple kiwi";
+var mnemonic = "harbor tip powder perfect inside picture bargain mask top stuff brush magic";

@@ -1,1 +1,1 @@
-var mnemonic = "kitten swarm trust buffalo attend miracle mind main forum unfold inherit replace";
+var mnemonic = "payment enact distance minor chalk spawn wealth any one sausage post card";

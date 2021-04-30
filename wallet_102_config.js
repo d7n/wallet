@@ -1,1 +1,1 @@
-var mnemonic = "educate history cycle kind husband direct cheese merit like mixed zoo arch";
+var mnemonic = "pride segment flower bitter wrong rely odor crisp book truly genre betray";

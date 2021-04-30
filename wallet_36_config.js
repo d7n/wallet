@@ -1,1 +1,1 @@
-var mnemonic = "kick upset glue cancel fragile total subway error senior base burger dragon";
+var mnemonic = "cactus swarm vital can erupt umbrella verify normal version victory nest use";

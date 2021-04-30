@@ -1,1 +1,1 @@
-var mnemonic = "question puzzle barely liquid claw time powder divide end decrease about day";
+var mnemonic = "lesson car trend mimic desk poet about gate consider leave else avocado";

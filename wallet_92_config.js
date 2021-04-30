@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow august clerk either elegant topple wash humor proud reflect equip afford";
+var mnemonic = "basket intact fortune cabin window veteran sadness play polar decade fancy yard";

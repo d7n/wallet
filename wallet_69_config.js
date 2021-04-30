@@ -1,1 +1,1 @@
-var mnemonic = "museum genius exhaust damp canyon observe surround indoor large dial party unique";
+var mnemonic = "coin fiscal flame area close glimpse stool sight once gold alien merry";

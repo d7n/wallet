@@ -1,1 +1,1 @@
-var mnemonic = "sell valley violin velvet miss gadget armor upper alley tomato surge celery";
+var mnemonic = "globe dismiss salt sting entry identify dismiss decorate derive wise always display";

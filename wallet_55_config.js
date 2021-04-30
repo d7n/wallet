@@ -1,1 +1,1 @@
-var mnemonic = "rabbit board episode reason betray volume display rocket connect maze teach movie";
+var mnemonic = "normal velvet hotel move hotel normal cabin glare fragile puzzle salt pen";

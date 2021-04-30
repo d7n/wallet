@@ -1,1 +1,1 @@
-var mnemonic = "differ amazing bitter truly pond depart awesome result danger floor artefact black";
+var mnemonic = "manage weekend alone mercy energy wave winter creek asset slam muffin mystery";

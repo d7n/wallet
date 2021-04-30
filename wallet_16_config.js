@@ -1,1 +1,1 @@
-var mnemonic = "list drift snow recycle pulse peasant hazard drill ignore drama gravity toward";
+var mnemonic = "glimpse ancient rain gate confirm helmet cement forest glad eager dust grain";

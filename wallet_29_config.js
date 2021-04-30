@@ -1,1 +1,1 @@
-var mnemonic = "need craft robot volume zebra awesome mad win planet knock autumn emotion";
+var mnemonic = "chef apology plug fold mass detail train reopen region ladder gesture found";

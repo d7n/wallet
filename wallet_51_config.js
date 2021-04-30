@@ -1,1 +1,1 @@
-var mnemonic = "awful door metal indoor burden card stamp off rebuild soccer stamp lunch";
+var mnemonic = "walk prosper oak ill upset cinnamon gloom typical leg abuse uniform call";

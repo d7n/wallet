@@ -1,1 +1,1 @@
-var mnemonic = "twist slam until magnet keen catalog leg box hair car exercise tongue";
+var mnemonic = "lecture please multiply zebra lizard green penalty table bunker glide hobby obscure";

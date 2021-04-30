@@ -1,1 +1,1 @@
-var mnemonic = "world upper agent virtual tired involve energy guitar right mobile success improve";
+var mnemonic = "field before gold case hockey knock couple method urge tone digital power";

@@ -1,1 +1,1 @@
-var mnemonic = "warfare cliff eight salad bridge figure parrot lesson clump spend sad snap";
+var mnemonic = "pyramid thumb topic vocal size left strike wreck text service safe radio";

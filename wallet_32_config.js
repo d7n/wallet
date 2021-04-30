@@ -1,1 +1,1 @@
-var mnemonic = "pyramid talent athlete volume scrap bean reflect liquid radio cram beauty amazing";
+var mnemonic = "hidden discover again pelican artefact nurse joke fish rigid donor easy breeze";

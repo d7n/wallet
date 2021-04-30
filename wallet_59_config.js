@@ -1,1 +1,1 @@
-var mnemonic = "confirm judge regret cram punch among fat like snap wide dad pony";
+var mnemonic = "also mixed fever rotate whisper case pulse flag hour donor auto muffin";

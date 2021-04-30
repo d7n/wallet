@@ -1,1 +1,1 @@
-var mnemonic = "arrow know oil critic absorb brand hour fruit april truck length tattoo";
+var mnemonic = "doll food salute rather shuffle frozen harsh snack weird flavor first almost";

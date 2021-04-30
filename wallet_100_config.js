@@ -1,1 +1,1 @@
-var mnemonic = "soccer palace tomato sample yellow amateur keen spray race tackle equip section";
+var mnemonic = "popular shift just else board garden garlic virus motor orange auto fancy";

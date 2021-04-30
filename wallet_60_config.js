@@ -1,1 +1,1 @@
-var mnemonic = "chimney seat spend multiply general float donor armor swear genuine tissue diesel";
+var mnemonic = "replace guard stone tornado wise eager always occur weasel joy disease rhythm";

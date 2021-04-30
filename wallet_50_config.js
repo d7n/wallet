@@ -1,1 +1,1 @@
-var mnemonic = "old autumn tag critic visual fame promote cute carpet satoshi volcano concert";
+var mnemonic = "sad special keen now umbrella must item enroll pave social spirit change";

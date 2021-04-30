@@ -1,1 +1,1 @@
-var mnemonic = "dose drill arrow chest fiscal predict want tide noise merry nuclear alter";
+var mnemonic = "source liar glove siren fun power broccoli wet voice flee walnut faint";

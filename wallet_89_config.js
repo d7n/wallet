@@ -1,1 +1,1 @@
-var mnemonic = "harvest appear spoil math snake hood month trial comic duty captain thrive";
+var mnemonic = "bean october panther off tower rule room lemon bright outside finger layer";

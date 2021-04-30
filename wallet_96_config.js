@@ -1,1 +1,1 @@
-var mnemonic = "hub betray warfare bicycle hobby unit habit throw regular cause citizen pudding";
+var mnemonic = "phrase couple vibrant knock absurd odor bar horn warfare long outside tired";

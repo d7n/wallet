@@ -1,1 +1,1 @@
-var mnemonic = "lounge develop today pelican cabin treat final unable element fragile chalk squirrel";
+var mnemonic = "opera link vehicle relax episode genius acoustic type river barrel arrange reform";

@@ -1,1 +1,1 @@
-var mnemonic = "legend addict picnic nice doctor cool rude color time scrub bulk calm";
+var mnemonic = "world balance random shaft calm used wasp bus vague large ripple used";

@@ -1,1 +1,1 @@
-var mnemonic = "inherit suggest way ancient olympic deputy inflict antenna try lawn actor type";
+var mnemonic = "fiction return idea meadow fan observe pave olympic chaos flip basic never";

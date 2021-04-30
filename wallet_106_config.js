@@ -1,1 +1,1 @@
-var mnemonic = "soda road snow weird visit ugly wood tired stable fragile hill walk";
+var mnemonic = "rather box assist capital dentist until glass seven blame modify wall salad";

@@ -1,1 +1,1 @@
-var mnemonic = "bus confirm spy speak leisure birth evil disagree impulse know jaguar parent";
+var mnemonic = "morning second type planet cushion thing post school current together uniform giraffe";

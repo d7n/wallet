@@ -1,1 +1,1 @@
-var mnemonic = "supreme neck copper slab host unique cool tell organ obvious veteran noble";
+var mnemonic = "core gate master knife pupil wild biology deliver remain change happy pistol";

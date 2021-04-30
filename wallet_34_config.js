@@ -1,1 +1,1 @@
-var mnemonic = "enjoy kitten fat ugly vague viable essay unveil improve knock mouse intact";
+var mnemonic = "olympic pelican reason pill link strong vocal fly weekend doll depend tired";

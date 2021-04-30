@@ -1,1 +1,1 @@
-var mnemonic = "canvas ring decide happy panel oppose claw must dad deal misery okay";
+var mnemonic = "gain promote eye clerk vital night oven seminar blast major enact gym";

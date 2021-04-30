@@ -1,1 +1,1 @@
-var mnemonic = "bracket focus chaos bind split divorce furnace fuel stereo drastic olympic secret";
+var mnemonic = "pitch duty ivory life elephant dawn beef elder school shop beyond era";

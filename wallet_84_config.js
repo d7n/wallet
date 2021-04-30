@@ -1,1 +1,1 @@
-var mnemonic = "post appear advance skate brother rather erase alarm surprise yellow genius uniform";
+var mnemonic = "employ habit donate bulb glory aisle fox dismiss destroy gap gas sand";

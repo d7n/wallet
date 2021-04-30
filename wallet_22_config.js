@@ -1,1 +1,1 @@
-var mnemonic = "wash dog alcohol shuffle involve chronic uncover vast before honey dial act";
+var mnemonic = "maid loyal wife move novel possible unaware few witness dash govern advice";

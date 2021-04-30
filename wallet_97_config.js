@@ -1,1 +1,1 @@
-var mnemonic = "fresh stumble umbrella decorate impose clarify this wet sting ice rail artwork";
+var mnemonic = "ill dawn diamond guess occur fashion state inflict silly story popular seek";

@@ -1,1 +1,1 @@
-var mnemonic = "high trophy negative range tissue diet usual tennis wine face universe chef";
+var mnemonic = "axis switch gentle rent north decrease orbit misery decade sausage kick again";

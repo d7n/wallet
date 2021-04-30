@@ -1,1 +1,1 @@
-var mnemonic = "dawn symptom parrot you pencil alarm chef valley input flip hope into";
+var mnemonic = "vibrant cotton patch share ocean damage half write pigeon chat police ozone";

@@ -1,1 +1,1 @@
-var mnemonic = "spice butter dream crop luxury move parent palm list dress age black";
+var mnemonic = "hurdle tuna pelican faith cup wide broom hotel utility they village ostrich";

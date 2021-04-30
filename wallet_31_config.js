@@ -1,1 +1,1 @@
-var mnemonic = "swift wave device solid jewel draft clay sea olympic crew announce enforce";
+var mnemonic = "lesson bitter animal envelope tribe prevent runway usage marriage friend surface stage";

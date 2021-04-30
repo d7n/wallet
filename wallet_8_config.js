@@ -1,1 +1,1 @@
-var mnemonic = "drift blossom disorder fragile dust weather high defy inquiry dance vibrant hat";
+var mnemonic = "jump whip vintage near undo lyrics post topic vault merit now rhythm";

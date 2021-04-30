@@ -1,1 +1,1 @@
-var mnemonic = "service fan drastic drum drastic adult mother suspect resemble mother receive prefer";
+var mnemonic = "lunch soap local leave main utility gauge tiny mixture gap rebuild heavy";

@@ -1,1 +1,1 @@
-var mnemonic = "below viable demise jeans need doctor chronic problem credit speed cost absent";
+var mnemonic = "swing expand raccoon thing lottery task filter circle dawn fortune river busy";

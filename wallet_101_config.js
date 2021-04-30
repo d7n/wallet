@@ -1,1 +1,1 @@
-var mnemonic = "drive parent crack shed sand point brass tuition vocal visit eye noble";
+var mnemonic = "soul voice hair cheese crane judge chimney volume bless unveil hedgehog angry";

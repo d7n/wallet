@@ -1,1 +1,1 @@
-var mnemonic = "fiscal normal pet train cycle afford trumpet screen shoulder meat switch process";
+var mnemonic = "raven imitate mistake midnight accuse frozen remind subject balance immense vast false";

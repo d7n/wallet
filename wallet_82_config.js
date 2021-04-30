@@ -1,1 +1,1 @@
-var mnemonic = "enlist real father sort blood solution silver glad leg diagram income female";
+var mnemonic = "machine differ unable venture insect carbon nuclear unique hard warrior hobby load";

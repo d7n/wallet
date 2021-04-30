@@ -1,1 +1,1 @@
-var mnemonic = "lonely reason what detect young curve stone mercy matrix basic toward consider";
+var mnemonic = "muscle picnic used require flame pass test flash chase soda chunk license";

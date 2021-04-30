@@ -1,1 +1,1 @@
-var mnemonic = "arrange cross music obey message apology skill sister swap style punch outdoor";
+var mnemonic = "earn eagle night tomorrow visit surge monitor barrel fancy galaxy network prepare";

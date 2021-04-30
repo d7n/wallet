@@ -1,1 +1,1 @@
-var mnemonic = "apart easily erase prevent photo clap penalty sport tonight dinner napkin remain";
+var mnemonic = "skate cave scatter section any stomach false cereal sword various laugh vague";

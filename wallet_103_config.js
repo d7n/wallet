@@ -1,1 +1,1 @@
-var mnemonic = "basket donate plunge filter runway tiger cable transfer casual size path cricket";
+var mnemonic = "margin mansion left regret barely fetch coconut hurry enough six cereal wild";

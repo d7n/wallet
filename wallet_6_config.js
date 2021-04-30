@@ -1,1 +1,1 @@
-var mnemonic = "february embody husband pattern uniform run library neglect wheel aim observe try";
+var mnemonic = "supply fine tourist bench cross melt wet still budget shy evil hand";

@@ -1,1 +1,1 @@
-var mnemonic = "renew custom push myself eagle inflict unusual erupt key shield butter because";
+var mnemonic = "kidney spawn hammer grunt sniff hero donor tone liar chaos inform village";

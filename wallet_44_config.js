@@ -1,1 +1,1 @@
-var mnemonic = "skull lottery shove excess thank monster sleep shy olive hold syrup morning";
+var mnemonic = "fame dress fatigue copper census payment exhibit illegal blossom ceiling kick deal";

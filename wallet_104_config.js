@@ -1,1 +1,1 @@
-var mnemonic = "explain machine empty similar frame denial inflict eternal rail cloud blood rally";
+var mnemonic = "thank subject chest online mimic sketch actual apple bone trouble remain youth";

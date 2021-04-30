@@ -1,1 +1,1 @@
-var mnemonic = "regret sadness tip delay sketch bar tissue celery reward light danger siren";
+var mnemonic = "promote market update people flock dinosaur movie gauge income grid country gain";

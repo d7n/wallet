@@ -1,1 +1,1 @@
-var mnemonic = "huge good funny drill reason canyon slender pulp purpose drama cart judge";
+var mnemonic = "differ girl decorate dish clay veteran hope scatter super end robot excuse";

@@ -1,1 +1,1 @@
-var mnemonic = "found spatial earth jealous argue beauty barely lake cloth good dress there";
+var mnemonic = "divide connect beauty large melt feature play tumble damage raven gaze urban";

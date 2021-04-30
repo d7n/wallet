@@ -1,1 +1,1 @@
-var mnemonic = "inner exile all rally uncover label scare wagon ill dismiss light cliff";
+var mnemonic = "blanket execute panda doctor disorder achieve balance neutral joke absent foster ski";

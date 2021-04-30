@@ -1,1 +1,1 @@
-var mnemonic = "transfer indicate fee lumber error lawsuit glory ridge jump guilt survey cereal";
+var mnemonic = "jaguar olive kangaroo virus toilet dress purchase party pass west field thunder";

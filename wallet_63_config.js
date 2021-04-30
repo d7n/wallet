@@ -1,1 +1,1 @@
-var mnemonic = "faint satoshi whip shuffle aisle allow venture wash scale jeans slight spread";
+var mnemonic = "belt onion merry series family minute few general uncover invite front neck";

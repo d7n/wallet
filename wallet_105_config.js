@@ -1,1 +1,1 @@
-var mnemonic = "attract cook mercy crush style correct crop network adjust day month maple";
+var mnemonic = "churn always mammal pause retire punch frame price police father venue clever";

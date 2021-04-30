@@ -1,1 +1,1 @@
-var mnemonic = "section report now what spirit diet name flat brave surface tragic enter";
+var mnemonic = "display error easy naive beach odor pledge call pair mammal brain cabin";

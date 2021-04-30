@@ -1,1 +1,1 @@
-var mnemonic = "advance film salt message brave asset federal exhaust basic patrol home horror";
+var mnemonic = "believe stumble choose rude bullet remember fortune bless any cluster cage resist";

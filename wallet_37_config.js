@@ -1,1 +1,1 @@
-var mnemonic = "plug acid diamond cargo lunch mind bundle pigeon stool glory riot royal";
+var mnemonic = "popular work amateur attract buyer return method erupt cover evidence pulp clip";

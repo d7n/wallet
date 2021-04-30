@@ -1,1 +1,1 @@
-var mnemonic = "follow blind ten squeeze sign zero panda bomb giraffe kind delay idle";
+var mnemonic = "popular vanish toy romance trick judge hotel item insect canyon drama glow";

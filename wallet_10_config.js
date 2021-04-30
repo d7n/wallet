@@ -1,1 +1,1 @@
-var mnemonic = "wall update submit ethics sample moon retire army burst unfold lottery mixed";
+var mnemonic = "since have wise plug blade palm build loyal swamp knife wrong ability";

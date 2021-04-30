@@ -1,1 +1,1 @@
-var mnemonic = "enact federal tape coffee post exercise seek trim provide train blast pudding";
+var mnemonic = "animal close alarm iron artist purchase excite rough crouch soon gap input";

@@ -1,1 +1,1 @@
-var mnemonic = "parent diet fossil exchange pizza vessel real help retreat phone hour journey";
+var mnemonic = "tag tennis crucial copy youth mechanic unveil roast entire bid member shaft";

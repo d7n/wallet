@@ -1,1 +1,1 @@
-var mnemonic = "jaguar fiscal tenant slight decade choice symbol soda fault silent pear float";
+var mnemonic = "defy silent smooth aerobic will churn come strategy sight add detail life";

@@ -1,1 +1,1 @@
-var mnemonic = "slow era gentle lift music lunch ready release among among law pony";
+var mnemonic = "snap update often glare license giggle awful swift advice grunt siren choice";

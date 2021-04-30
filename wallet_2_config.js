@@ -1,1 +1,1 @@
-var mnemonic = "task mom true social blanket one method typical spring motion slogan rail";
+var mnemonic = "pretty tail zone miss shy erosion glue pet shrimp social blast garbage";
