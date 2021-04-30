@@ -1,1 +1,1 @@
-var mnemonic = "fog focus egg sick wrong canoe hawk inspire shock club erode able";
+var mnemonic = "swap addict upper ignore maximum catalog version judge bounce envelope auto phrase";

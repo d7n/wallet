@@ -1,1 +1,1 @@
-var mnemonic = "one engage place science moon wear stone little main settle leg cause";
+var mnemonic = "reunion rely share unit repair wall shiver business note what marble half";

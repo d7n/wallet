@@ -1,1 +1,1 @@
-var mnemonic = "lumber fall mistake usual retire execute dish link album relief light civil";
+var mnemonic = "spirit liar found adapt popular idle capital digital attract arm swallow genuine";

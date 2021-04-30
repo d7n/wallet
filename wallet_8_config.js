@@ -1,1 +1,1 @@
-var mnemonic = "rescue attend news magnet require inner kiwi repeat disagree pistol funny soup";
+var mnemonic = "cloth soldier bicycle vague shine square pledge supreme scene great monitor caution";

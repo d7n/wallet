@@ -1,1 +1,1 @@
-var mnemonic = "burden panel soldier oyster year income raise divide crater grocery narrow north";
+var mnemonic = "topic chuckle slogan peasant cabbage false cancel fire alarm business column proud";

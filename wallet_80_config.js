@@ -1,1 +1,1 @@
-var mnemonic = "print universe crystal garment student force orange false bulk wheat ginger sorry";
+var mnemonic = "theory note corn salmon champion mixed mushroom world degree memory animal clinic";

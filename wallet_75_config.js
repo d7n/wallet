@@ -1,1 +1,1 @@
-var mnemonic = "fix flame urge erosion supreme disagree piece retreat cloud garment anchor hobby";
+var mnemonic = "print neglect voyage truth accident swamp pepper chicken enlist misery gloom beauty";

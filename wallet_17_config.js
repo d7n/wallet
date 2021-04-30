@@ -1,1 +1,1 @@
-var mnemonic = "grief trial define script parrot useless lab excuse domain identify cry dizzy";
+var mnemonic = "again title jelly year book sure record coach apple put atom loyal";

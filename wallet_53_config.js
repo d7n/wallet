@@ -1,1 +1,1 @@
-var mnemonic = "option token sheriff acquire enough hold razor rain roast snap cement margin";
+var mnemonic = "reunion beyond broom amateur nerve spoil shadow dog crop neutral there faith";

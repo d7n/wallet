@@ -1,1 +1,1 @@
-var mnemonic = "shiver expect truck glide black check brother model design grocery code catalog";
+var mnemonic = "grain tattoo bird dumb fat inherit erosion word round cool basket target";

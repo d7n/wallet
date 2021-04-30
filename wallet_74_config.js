@@ -1,1 +1,1 @@
-var mnemonic = "supply panel fade brick vibrant enjoy plastic possible enrich lift kitten vacant";
+var mnemonic = "custom cabbage clump orbit orbit okay actress yard draft question note benefit";

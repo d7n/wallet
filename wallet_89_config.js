@@ -1,1 +1,1 @@
-var mnemonic = "whip into hollow carpet leopard keen suit slush matrix lucky venue polar";
+var mnemonic = "forum discover dial blade also job place face universe galaxy peanut brush";

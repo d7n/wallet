@@ -1,1 +1,1 @@
-var mnemonic = "consider pony desert number bicycle debris trap eyebrow almost picture grid young";
+var mnemonic = "orchard peace motion fetch pledge alert tip test design front gauge survey";

@@ -1,1 +1,1 @@
-var mnemonic = "vote join slam sting secret fabric inner position breeze measure forum winner";
+var mnemonic = "scissors east soccer embark mother magnet budget index then august supreme soccer";

@@ -1,1 +1,1 @@
-var mnemonic = "picnic saddle brain bubble mushroom hard lottery boss blossom acoustic thing shine";
+var mnemonic = "know state just access noise cake destroy latin envelope woman tuition chunk";

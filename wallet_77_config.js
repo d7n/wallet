@@ -1,1 +1,1 @@
-var mnemonic = "divert genuine mask hundred dish sight gloom dynamic machine acid hundred mad";
+var mnemonic = "way height today crash disorder keep between polar involve elder promote hole";

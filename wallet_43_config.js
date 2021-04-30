@@ -1,1 +1,1 @@
-var mnemonic = "discover rifle loud wrap denial vast hire sad sheriff adjust face hungry";
+var mnemonic = "soul nuclear proof scatter million identify reopen curious top edge large infant";

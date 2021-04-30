@@ -1,1 +1,1 @@
-var mnemonic = "suffer fame forget impact glimpse risk gossip merry satisfy spring crew tube";
+var mnemonic = "expand share addict twelve sadness patrol cruel damage great harbor cool scorpion";

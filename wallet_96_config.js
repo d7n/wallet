@@ -1,1 +1,1 @@
-var mnemonic = "capable eight squeeze short rice wrong digital drum width pioneer drop crush";
+var mnemonic = "point hundred punch other lawsuit angry true hundred chalk swim rural multiply";

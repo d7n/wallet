@@ -1,1 +1,1 @@
-var mnemonic = "forest trouble fade quantum sort please glass pulp obtain icon erase narrow";
+var mnemonic = "purity offer animal live setup fat novel crowd pizza force sad initial";

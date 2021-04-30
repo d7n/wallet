@@ -1,1 +1,1 @@
-var mnemonic = "course notable deputy huge milk coil poverty fashion room cup bottom priority";
+var mnemonic = "panel minute blossom surge consider bike under manage orchard motor cattle trim";

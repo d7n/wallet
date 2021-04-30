@@ -1,1 +1,1 @@
-var mnemonic = "fresh satoshi mistake globe hair same blind cherry duty lecture enjoy dumb";
+var mnemonic = "thunder race glimpse leisure stage anxiety choose flavor series rough praise manual";

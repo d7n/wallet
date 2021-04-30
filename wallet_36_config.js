@@ -1,1 +1,1 @@
-var mnemonic = "motion settle lizard weapon arrow act choice roast nothing athlete spawn calm";
+var mnemonic = "remain fortune crew strong leaf toward olympic load silver march custom narrow";

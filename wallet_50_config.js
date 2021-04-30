@@ -1,1 +1,1 @@
-var mnemonic = "moral planet resource speed glad hold minute just umbrella actor flight embrace";
+var mnemonic = "busy glue finger timber arrow position wine pattern street guard job family";

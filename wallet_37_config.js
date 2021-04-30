@@ -1,1 +1,1 @@
-var mnemonic = "stone series leaf wasp deposit voice shaft shift kick animal raven helmet";
+var mnemonic = "bus extra zebra any speed seminar slam fence humble cake surround dove";

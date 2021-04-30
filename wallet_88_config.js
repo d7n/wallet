@@ -1,1 +1,1 @@
-var mnemonic = "curtain flash choice mixture alpha destroy drill dawn trend bounce chapter split";
+var mnemonic = "sign pioneer situate practice matrix unaware strategy tenant excuse sea liquid bottom";

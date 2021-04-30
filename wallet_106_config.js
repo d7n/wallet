@@ -1,1 +1,1 @@
-var mnemonic = "initial mule athlete surge two main camera frequent offer nothing absurd notable";
+var mnemonic = "observe polar dwarf original butter welcome oxygen monster dog report weather choose";

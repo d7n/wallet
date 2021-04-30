@@ -1,1 +1,1 @@
-var mnemonic = "obscure wife caution version cup bulb mean top scout book select cheese";
+var mnemonic = "require east kidney chest thing rare grit session culture web oblige novel";

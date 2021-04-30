@@ -1,1 +1,1 @@
-var mnemonic = "club donkey drink idea sock salt cheese become follow march shop emotion";
+var mnemonic = "exile gather umbrella either average charge sock kitchen stereo thing broken model";

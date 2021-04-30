@@ -1,1 +1,1 @@
-var mnemonic = "minimum piano switch cat exhibit furnace scare armor curve orchard struggle runway";
+var mnemonic = "wood element humble tumble around device unfair vapor trick lumber detail isolate";

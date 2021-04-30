@@ -1,1 +1,1 @@
-var mnemonic = "finger female exit spread clinic cat assume pretty buzz reopen double nurse";
+var mnemonic = "sadness seed swing strike stem tissue around spawn universe select shoot chat";

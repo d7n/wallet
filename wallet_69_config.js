@@ -1,1 +1,1 @@
-var mnemonic = "caution dismiss steak diagram margin manual angle owner team exhibit arrive leave";
+var mnemonic = "monkey unaware robot crystal knife lunar pizza swarm donor twist vacant spike";

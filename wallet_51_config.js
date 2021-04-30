@@ -1,1 +1,1 @@
-var mnemonic = "fold try fog link symbol vital develop moon still north elevator alpha";
+var mnemonic = "woman medal want pulse element around cool predict escape child any fitness";

@@ -1,1 +1,1 @@
-var mnemonic = "online race subject expand cinnamon shield perfect filter rapid person pepper proof";
+var mnemonic = "neutral infant volcano sorry finger flip nothing burst property cradle clown ice";

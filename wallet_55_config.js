@@ -1,1 +1,1 @@
-var mnemonic = "present drastic embrace verb salon demise casual size oppose ripple source weasel";
+var mnemonic = "weapon either pet message help budget mix trend sure bid stock lake";

@@ -1,1 +1,1 @@
-var mnemonic = "device fatigue enforce ceiling pool miss mandate current pelican worth tooth pattern";
+var mnemonic = "apart giant main fault music catch color ankle myself story helmet bone";

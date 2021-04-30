@@ -1,1 +1,1 @@
-var mnemonic = "apple bubble harbor drama heart royal castle warm illegal icon frown large";
+var mnemonic = "ivory crane tragic civil health happy dignity dune drill chicken glory material";

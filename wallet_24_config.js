@@ -1,1 +1,1 @@
-var mnemonic = "supreme balance style lamp desk sun payment decline depend lawn curtain equal";
+var mnemonic = "orange illness toy safe badge adapt north mix equal quit ignore stick";

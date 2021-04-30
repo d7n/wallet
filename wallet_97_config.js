@@ -1,1 +1,1 @@
-var mnemonic = "space theme valid aspect normal sure eager punch kiss limb flavor that";
+var mnemonic = "settle route inflict cost mansion afford giraffe capable knee glimpse sample fire";

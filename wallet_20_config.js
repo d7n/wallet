@@ -1,1 +1,1 @@
-var mnemonic = "grass merge biology boat decline taste shiver agent cactus suit unlock reunion";
+var mnemonic = "resemble film hip invest add fragile recipe denial bracket evolve room brief";

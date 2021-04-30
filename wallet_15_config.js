@@ -1,1 +1,1 @@
-var mnemonic = "dry tomato bar correct expose surprise prepare exhibit able spy coyote night";
+var mnemonic = "three rebuild cream menu portion expand cave flush cart short illegal proud";

@@ -1,1 +1,1 @@
-var mnemonic = "choice swear patch latin make loyal almost miracle slam brain step march";
+var mnemonic = "orchard harsh sheriff control spoon express salad medal adapt narrow beauty claim";

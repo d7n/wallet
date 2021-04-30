@@ -1,1 +1,1 @@
-var mnemonic = "shield method cream step cupboard protect clay carpet orbit clown soda valid";
+var mnemonic = "dynamic all roof animal hunt garlic burger black action vintage enlist chuckle";

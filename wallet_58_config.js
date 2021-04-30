@@ -1,1 +1,1 @@
-var mnemonic = "sheriff swallow text outside pull famous audit grit first orphan stay lucky";
+var mnemonic = "bunker black dad wing bind detail begin season rely impulse endless transfer";

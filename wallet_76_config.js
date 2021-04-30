@@ -1,1 +1,1 @@
-var mnemonic = "flock tobacco favorite typical skin tail neck three heavy live kite choose";
+var mnemonic = "pig youth diamond quarter demand picnic frost soul better boat asset word";

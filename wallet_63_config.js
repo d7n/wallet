@@ -1,1 +1,1 @@
-var mnemonic = "palm world east siren merge icon poverty guess admit oblige security judge";
+var mnemonic = "manual able bottom calm funny fiber subject region chase home pudding drive";

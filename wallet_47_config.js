@@ -1,1 +1,1 @@
-var mnemonic = "crater stable renew bitter leopard cake receive boss panel turkey feed impact";
+var mnemonic = "monkey giraffe legal average awake family rare because fitness danger roof trust";

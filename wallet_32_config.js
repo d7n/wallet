@@ -1,1 +1,1 @@
-var mnemonic = "comic spare lesson radio circle walnut shoulder sleep idea gym view drop";
+var mnemonic = "action victory tone scrub voice burden horror check image reform merit capable";

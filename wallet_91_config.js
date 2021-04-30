@@ -1,1 +1,1 @@
-var mnemonic = "cabin august define once venture female aunt squeeze pear idea mule input";
+var mnemonic = "notice spawn rabbit nephew feel dignity current delay knife stone skirt sure";

@@ -1,1 +1,1 @@
-var mnemonic = "taste peasant enact rookie follow term limit write canvas field between focus";
+var mnemonic = "decline alert simple daring tooth truck throw guitar version must copy huge";

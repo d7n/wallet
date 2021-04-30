@@ -1,1 +1,1 @@
-var mnemonic = "trumpet quantum find snow pass oak brief great immune rocket actress reason";
+var mnemonic = "soda lottery defy imitate owner tip uncle vast swap stay violin about";

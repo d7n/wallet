@@ -1,1 +1,1 @@
-var mnemonic = "around upon raccoon cheap village smooth boring goat mobile breeze photo guess";
+var mnemonic = "kingdom suit evidence cook honey notice congress happy mutual pulse question farm";

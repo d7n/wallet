@@ -1,1 +1,1 @@
-var mnemonic = "parrot inherit high case jaguar camera rather visa economy track goddess harsh";
+var mnemonic = "crew hill vehicle party stove hole identify small reward layer either wrestle";

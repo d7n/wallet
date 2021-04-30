@@ -1,1 +1,1 @@
-var mnemonic = "spy local spawn hockey peanut tower symptom play enter salmon host music";
+var mnemonic = "problem gain camera victory cradle year initial link very furnace tunnel symbol";

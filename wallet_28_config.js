@@ -1,1 +1,1 @@
-var mnemonic = "gossip cloth strong crane rich drive public wine kick file people critic";
+var mnemonic = "arena pudding quarter begin choose they dirt minor want nut scare burden";

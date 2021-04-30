@@ -1,1 +1,1 @@
-var mnemonic = "enable discover husband gauge puppy mixture there educate nothing piano such submit";
+var mnemonic = "harvest wine stereo web describe occur wreck unfold alley coffee catch lunar";

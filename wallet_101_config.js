@@ -1,1 +1,1 @@
-var mnemonic = "latin valley earth cat dish second curious toilet fresh razor thunder brush";
+var mnemonic = "bread police page door order earth speed alarm quote chaos across vanish";

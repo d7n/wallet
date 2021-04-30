@@ -1,1 +1,1 @@
-var mnemonic = "idle west narrow space success brick attitude pull dish cook brother corn";
+var mnemonic = "skate canal sauce route junk panic satoshi emotion skate total hat music";

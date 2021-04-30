@@ -1,1 +1,1 @@
-var mnemonic = "party chest stove bronze staff click future giggle junk scatter lumber dash";
+var mnemonic = "laugh special baby math charge rookie music hire salon bridge false rapid";

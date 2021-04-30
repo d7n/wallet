@@ -1,1 +1,1 @@
-var mnemonic = "please pigeon ridge pioneer affair else sustain tobacco doll embody move journey";
+var mnemonic = "rather gather eye salon daughter potato nothing alert worry spirit wink work";

@@ -1,1 +1,1 @@
-var mnemonic = "cheap arrange position alley much skate wise task square daring dilemma doctor";
+var mnemonic = "weird index bicycle wife vocal cupboard water cram win wool tilt display";

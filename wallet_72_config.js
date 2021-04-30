@@ -1,1 +1,1 @@
-var mnemonic = "culture hour inhale addict tide normal spike wheel valley armor punch lab";
+var mnemonic = "pelican pelican enact portion nation undo crane poet world between oyster hobby";

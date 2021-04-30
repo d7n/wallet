@@ -1,1 +1,1 @@
-var mnemonic = "describe virus razor afford inject east hair pig radio elevator train radar";
+var mnemonic = "sadness seed agree doctor boost auction virtual fit license joke pole detect";

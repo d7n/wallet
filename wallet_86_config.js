@@ -1,1 +1,1 @@
-var mnemonic = "audit anchor pigeon sentence dance play deal course wear live west tent";
+var mnemonic = "weird picnic wisdom fever hero wonder bind tackle document exchange language method";

@@ -1,1 +1,1 @@
-var mnemonic = "surge card notable flat cargo filter must rain lawsuit raven sausage piece";
+var mnemonic = "wire lonely eager catalog word token column blouse sense canyon peace woman";

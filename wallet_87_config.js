@@ -1,1 +1,1 @@
-var mnemonic = "cruel help thunder asthma person tackle material health venue oil magnet truck";
+var mnemonic = "return goose bless glory usual analyst machine review bitter salmon limb final";

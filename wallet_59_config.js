@@ -1,1 +1,1 @@
-var mnemonic = "wait crumble blame emerge barely avocado learn cry feel gadget frown laundry";
+var mnemonic = "cheap heavy enroll panel post online correct blood genius casino recycle keep";

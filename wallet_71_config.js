@@ -1,1 +1,1 @@
-var mnemonic = "welcome chimney again supreme follow person boost clap useful setup youth defy";
+var mnemonic = "range tooth mirror pelican escape planet test increase garlic body bonus walk";

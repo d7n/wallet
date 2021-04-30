@@ -1,1 +1,1 @@
-var mnemonic = "lion unaware embrace invite ostrich spike budget cake next affair mirror become";
+var mnemonic = "width example disagree faith aim raven food observe jacket satisfy arrive belt";

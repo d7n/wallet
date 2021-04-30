@@ -1,1 +1,1 @@
-var mnemonic = "large must history shop piece material cover despair card link town pride";
+var mnemonic = "winter tonight agent ecology shallow oil jewel mobile dynamic cool name sweet";

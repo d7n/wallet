@@ -1,1 +1,1 @@
-var mnemonic = "deer expect kite milk pink learn foster pledge armed gloom accident oxygen";
+var mnemonic = "submit detail duck chaos camp conduct banana another check roast mass chunk";

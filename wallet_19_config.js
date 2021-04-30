@@ -1,1 +1,1 @@
-var mnemonic = "barrel laundry wage curious tobacco misery mansion certain fire talent wrestle valve";
+var mnemonic = "ginger purse measure cricket soda frost history admit click check kit gaze";

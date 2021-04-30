@@ -1,1 +1,1 @@
-var mnemonic = "kidney space boat ship actor upon oblige bachelor coin wedding broken goddess";
+var mnemonic = "impulse trap poverty pact cluster cactus kiss guard ready curious whale recall";

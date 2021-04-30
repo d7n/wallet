@@ -1,1 +1,1 @@
-var mnemonic = "tray clump balcony clog lottery history strategy trust pyramid dismiss exile cup";
+var mnemonic = "minimum bird clutch spare tent poverty author bargain sense forget list chronic";

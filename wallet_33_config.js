@@ -1,1 +1,1 @@
-var mnemonic = "all exist actual popular coach genuine scout glory have near dress hair";
+var mnemonic = "hello shine myth spawn cupboard loan foster dignity tomorrow neither convince cycle";

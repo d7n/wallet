@@ -1,1 +1,1 @@
-var mnemonic = "delay scan flock wear mail later advance puzzle system brisk issue same";
+var mnemonic = "piano drum rug team dog usual flavor adapt mixture rescue brown luxury";

@@ -1,1 +1,1 @@
-var mnemonic = "suspect tuna note limit thing guilt sibling payment drum move cancel dad";
+var mnemonic = "panic pond allow metal wire trophy climb bread chapter diesel reduce slight";

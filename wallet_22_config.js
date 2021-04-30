@@ -1,1 +1,1 @@
-var mnemonic = "bike leave walnut rich robot cinnamon false sort hello mad object primary";
+var mnemonic = "wrestle author desk crystal dog naive cement stock fun few wealth fly";

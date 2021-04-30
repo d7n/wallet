@@ -1,1 +1,1 @@
-var mnemonic = "deliver burger creek dad awful media grief liquid drip rate tray able";
+var mnemonic = "accident foot swift doctor gesture front charge real rotate nasty royal symptom";

@@ -1,1 +1,1 @@
-var mnemonic = "depend burst bubble taxi clever thought marine hobby property output wet unique";
+var mnemonic = "wool crime october blur seminar trip grunt assist open poet twelve shed";

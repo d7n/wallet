@@ -1,1 +1,1 @@
-var mnemonic = "little author wonder vocal zero opera candy umbrella adult kangaroo deal resist";
+var mnemonic = "ceiling mixture angry region piano improve symbol canvas member sign beauty stable";

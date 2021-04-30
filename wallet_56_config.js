@@ -1,1 +1,1 @@
-var mnemonic = "smart appear vicious artefact much deputy second appear empower spray iron current";
+var mnemonic = "sheriff crater vendor giggle eager entire cook winner reunion result lazy amount";

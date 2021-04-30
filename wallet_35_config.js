@@ -1,1 +1,1 @@
-var mnemonic = "trust awesome craft vault cancel dizzy usual decade transfer busy shoe flip";
+var mnemonic = "core banana taste pet raw change tornado fog control sphere fetch option";

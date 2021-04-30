@@ -1,1 +1,1 @@
-var mnemonic = "kick release bone task combine surface gather tell trophy duck patrol note";
+var mnemonic = "laundry now input helmet endless chat guard trip guess avocado taxi blade";

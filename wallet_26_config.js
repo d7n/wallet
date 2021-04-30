@@ -1,1 +1,1 @@
-var mnemonic = "excuse jeans raven throw lake tenant dash mirror divide immense tragic convince";
+var mnemonic = "hip pulse polar alpha welcome slim dynamic ecology size casual carry nasty";

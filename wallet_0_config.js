@@ -1,1 +1,1 @@
-var mnemonic = "buyer hero guide high shy exchange fat legal bargain flower error camera";
+var mnemonic = "eager above glide trend ethics amount journey stamp donkey later mean city";

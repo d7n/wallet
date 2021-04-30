@@ -1,1 +1,1 @@
-var mnemonic = "blood vocal base skill mushroom pepper elite disagree diet purpose verb peasant";
+var mnemonic = "siren water void survey sock cloud because cruise chair quote simple slow";

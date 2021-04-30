@@ -1,1 +1,1 @@
-var mnemonic = "genius attack crane hundred company song thrive polar axis issue aim little";
+var mnemonic = "spray stool swarm crater obscure dynamic zoo eight alarm narrow stick utility";

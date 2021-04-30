@@ -1,1 +1,1 @@
-var mnemonic = "possible hurry purchase skull comic path twice call path carbon document flower";
+var mnemonic = "quit toss hurry blue sun mix earn else very gorilla kingdom hat";

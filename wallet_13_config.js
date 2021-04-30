@@ -1,1 +1,1 @@
-var mnemonic = "portion fiber gather essence vital extra now sell level vibrant beach physical";
+var mnemonic = "drink silver add bar wealth possible strategy water purity post brown odor";

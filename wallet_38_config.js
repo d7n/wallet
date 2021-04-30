@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin ivory harsh gather boring brown since badge mosquito original pencil grocery";
+var mnemonic = "market sausage promote stool crack zero skull depend clerk vacuum select nurse";

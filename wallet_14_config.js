@@ -1,1 +1,1 @@
-var mnemonic = "okay stage fashion dinner until range blanket oxygen reveal motion need nominee";
+var mnemonic = "scale cradle comic chicken drip village party shield fame fall pluck nerve";

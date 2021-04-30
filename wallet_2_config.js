@@ -1,1 +1,1 @@
-var mnemonic = "black tiger empower today bench raccoon song equal camera sight capital retreat";
+var mnemonic = "pear absurd inner album rare actress keen shoot alpha finish furnace shrimp";

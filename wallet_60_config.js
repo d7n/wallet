@@ -1,1 +1,1 @@
-var mnemonic = "bundle brave thank wrong finish mystery tiger master alert genius symptom actual";
+var mnemonic = "script sense result edit erupt issue enemy alarm nest want eternal crowd";

@@ -1,1 +1,1 @@
-var mnemonic = "plunge broken rich cable style like another plate economy canyon comic autumn";
+var mnemonic = "unlock sniff clean noble library drastic arrive forest pitch any noble bone";
