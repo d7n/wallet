@@ -1,1 +1,1 @@
-var mnemonic = "prison fiction outside deliver onion gap patrol exhibit claim uncle cost top";
+var mnemonic = "tell blouse quote setup youth neglect scatter nurse dish sad paper sheriff";

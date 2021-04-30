@@ -1,1 +1,1 @@
-var mnemonic = "tide ticket work basic job churn razor upset crack below clay apple";
+var mnemonic = "canyon caught busy enact country initial purity borrow tiny island journey toddler";

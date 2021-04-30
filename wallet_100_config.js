@@ -1,1 +1,1 @@
-var mnemonic = "upset benefit vapor shuffle miss kite meat frost work drink pudding seven";
+var mnemonic = "color person picnic design spend guess cactus ready scorpion region world romance";

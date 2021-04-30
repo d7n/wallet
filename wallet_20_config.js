@@ -1,1 +1,1 @@
-var mnemonic = "include document pool urban divorce habit solar word crew legend private wash";
+var mnemonic = "million craft submit inject stable shallow clock diary unique stable sand december";

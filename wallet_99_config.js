@@ -1,1 +1,1 @@
-var mnemonic = "relief issue split gasp fault crisp address suspect garment chase theory question";
+var mnemonic = "ginger evil cram puzzle blouse frost tornado huge slogan slim blur donate";

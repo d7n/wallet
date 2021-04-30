@@ -1,1 +1,1 @@
-var mnemonic = "toilet purpose team used tip pave crawl success ribbon sphere sort lumber";
+var mnemonic = "awesome skirt permit curtain spell work peasant dove noise jump super pass";

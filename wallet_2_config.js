@@ -1,1 +1,1 @@
-var mnemonic = "north unfold leg forest mule decorate media insect average typical record dress";
+var mnemonic = "crane funny better sail stage soul manual excuse pattern gym endorse render";

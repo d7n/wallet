@@ -1,1 +1,1 @@
-var mnemonic = "age private rookie invest thing simple captain essence spot gift zero jump";
+var mnemonic = "blossom drift field limb bracket symptom crane fee original fan enact novel";

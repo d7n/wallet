@@ -1,1 +1,1 @@
-var mnemonic = "clap bring latin exhaust gold lunar opera obey bring ramp burger auto";
+var mnemonic = "kangaroo chunk fish toy staff three skull sustain reopen large drill cinnamon";

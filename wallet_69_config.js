@@ -1,1 +1,1 @@
-var mnemonic = "advance test ride chaos section scheme cliff hockey possible transfer group ill";
+var mnemonic = "fork domain trim correct dash estate various ugly chat owner vacant reform";

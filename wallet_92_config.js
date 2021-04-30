@@ -1,1 +1,1 @@
-var mnemonic = "primary source kid notable ready hotel cat receive boss onion elephant oyster";
+var mnemonic = "school tube faith black dawn choose describe unhappy common lucky slab impose";

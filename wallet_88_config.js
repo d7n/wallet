@@ -1,1 +1,1 @@
-var mnemonic = "brass motion regret pond crouch section level decide danger address submit race";
+var mnemonic = "script stable wage rebuild security situate tragic fetch stamp treat engage maze";

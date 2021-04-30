@@ -1,1 +1,1 @@
-var mnemonic = "source such beef toss radio rare prepare lunch buzz vicious century install";
+var mnemonic = "pretty run robust perfect wrong moon neck slogan mistake reveal inside today";

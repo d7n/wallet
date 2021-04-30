@@ -1,1 +1,1 @@
-var mnemonic = "enter decide wing clarify forest later voyage together supply pumpkin right possible";
+var mnemonic = "burger away view toe noodle piece drift velvet nothing chimney virus pink";

@@ -1,1 +1,1 @@
-var mnemonic = "rich wisdom video broken during tattoo secret nest return manual slogan proud";
+var mnemonic = "slice sentence coach ensure master wheat kite news parent display climb pair";

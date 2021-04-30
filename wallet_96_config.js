@@ -1,1 +1,1 @@
-var mnemonic = "dentist aunt skill three oval home ivory together clutch lounge floor office";
+var mnemonic = "define shine portion essay grief shuffle sample harsh grief tree inject obvious";

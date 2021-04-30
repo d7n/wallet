@@ -1,1 +1,1 @@
-var mnemonic = "spike dove rent table erosion pave normal shrimp fashion wash boil message";
+var mnemonic = "pigeon blossom dry cram actress west only park afraid wide gather across";

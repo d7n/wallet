@@ -1,1 +1,1 @@
-var mnemonic = "sight slide black open satisfy make option obtain crystal error school hard";
+var mnemonic = "about crazy broom casual void evolve tent jealous because tool list original";

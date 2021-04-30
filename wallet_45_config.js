@@ -1,1 +1,1 @@
-var mnemonic = "model pumpkin net excite screen say cigar cousin expand giant lion rely";
+var mnemonic = "reunion ticket fruit enter apple matter catalog lion hurdle nephew food veteran";

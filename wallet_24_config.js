@@ -1,1 +1,1 @@
-var mnemonic = "version fire once bicycle obey top invite answer used action hidden water";
+var mnemonic = "plug old voyage away inject right deal isolate foster essence sample pepper";

@@ -1,1 +1,1 @@
-var mnemonic = "knock drift brown private first behave idle alcohol drift palm spare sun";
+var mnemonic = "later clump output lobster iron debate shoulder shine neck punch badge blast";

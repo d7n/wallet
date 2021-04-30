@@ -1,1 +1,1 @@
-var mnemonic = "chronic day swarm enrich entry ancient island grit spy cheese body scrap";
+var mnemonic = "pig toast pelican exit giggle avocado demise merge attitude lamp pizza under";

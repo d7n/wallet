@@ -1,1 +1,1 @@
-var mnemonic = "day project wrestle deer pause dinner involve stock candy shallow crucial crystal";
+var mnemonic = "tattoo welcome rent option battle boost item orphan dwarf card symptom author";

@@ -1,1 +1,1 @@
-var mnemonic = "grape height senior apple rule worth vapor pink onion scout demise tool";
+var mnemonic = "motor loan butter satisfy robot magic umbrella fade mandate forest climb buddy";

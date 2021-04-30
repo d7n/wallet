@@ -1,1 +1,1 @@
-var mnemonic = "year dance practice half satoshi orient arctic flee tattoo fish text wait";
+var mnemonic = "lawsuit learn high project hold purchase birth render insect century truck write";

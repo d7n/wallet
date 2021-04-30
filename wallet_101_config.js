@@ -1,1 +1,1 @@
-var mnemonic = "tunnel diary spoon siege control safe coconut view bamboo coast museum drip";
+var mnemonic = "cement blush hockey federal west layer film stamp salmon suspect peace arrive";

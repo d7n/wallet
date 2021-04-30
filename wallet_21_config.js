@@ -1,1 +1,1 @@
-var mnemonic = "series eyebrow absurd mutual ceiling toast dad tray unit recycle burst bargain";
+var mnemonic = "cherry lunar foam already night empower grid razor false endless monkey detect";

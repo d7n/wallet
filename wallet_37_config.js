@@ -1,1 +1,1 @@
-var mnemonic = "crop gap chalk enrich atom situate evolve symptom chaos repair adapt blind";
+var mnemonic = "steel jaguar manage liquid detail feel fame dignity fork crew lava snack";

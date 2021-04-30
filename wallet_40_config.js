@@ -1,1 +1,1 @@
-var mnemonic = "hood beach chair sense window once accident soccer globe roast neglect walk";
+var mnemonic = "secret orphan hen diary rebel cricket obtain original hat brain dragon tooth";

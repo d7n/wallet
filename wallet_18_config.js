@@ -1,1 +1,1 @@
-var mnemonic = "save fold day bench fee client pelican power canal ill verb bicycle";
+var mnemonic = "step fatigue myth roof soul unhappy fox found tongue spy mix oven";

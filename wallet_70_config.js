@@ -1,1 +1,1 @@
-var mnemonic = "river sniff task angle lunar deliver blind dilemma remain oppose congress garment";
+var mnemonic = "creek venue soldier green bring marble observe work kind confirm inject convince";

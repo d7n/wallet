@@ -1,1 +1,1 @@
-var mnemonic = "clay fox negative milk school volcano leader weather private thought stand club";
+var mnemonic = "time deputy dash shed safe cruise audit ranch box sword dry clean";

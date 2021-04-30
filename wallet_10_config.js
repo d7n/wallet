@@ -1,1 +1,1 @@
-var mnemonic = "junk clinic various powder spin idea head auction depth wolf melody mimic";
+var mnemonic = "tennis congress enrich clap laundry rubber stuff kiwi cube slush enact audit";

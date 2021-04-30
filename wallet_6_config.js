@@ -1,1 +1,1 @@
-var mnemonic = "cabin next depart among apart arrest awesome unfold fuel pause head cute";
+var mnemonic = "radar truck mule filter cover grocery work list wall busy camp absent";

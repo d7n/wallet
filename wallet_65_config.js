@@ -1,1 +1,1 @@
-var mnemonic = "search goddess nose blouse foot warm ankle coral damage scout twin win";
+var mnemonic = "peace silly must coral public visit spread first early citizen aim pluck";

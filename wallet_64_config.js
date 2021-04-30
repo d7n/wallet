@@ -1,1 +1,1 @@
-var mnemonic = "one kit addict awful head major muscle conduct enrich sure ramp lonely";
+var mnemonic = "pact message cannon certain final puzzle gorilla cigar inquiry antenna typical column";

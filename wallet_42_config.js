@@ -1,1 +1,1 @@
-var mnemonic = "youth saddle never uniform yellow summer height success hold rocket actual topic";
+var mnemonic = "genuine before section cream expire child surface slot blanket health account cage";

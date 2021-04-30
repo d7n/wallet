@@ -1,1 +1,1 @@
-var mnemonic = "owner glad begin kiss dentist asset infant clap price super vital expire";
+var mnemonic = "easily solid bone mansion double sweet decade close apart message begin pyramid";

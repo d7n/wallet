@@ -1,1 +1,1 @@
-var mnemonic = "finger water weapon mutual wrap tennis critic object immense dance assault must";
+var mnemonic = "kingdom increase lunar uniform put frame kitten okay town reveal palm young";

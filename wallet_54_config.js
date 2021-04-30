@@ -1,1 +1,1 @@
-var mnemonic = "eight happy alpha caution armed speak rigid empower satoshi reunion globe label";
+var mnemonic = "sphere grow exhibit know write tail bird vintage firm casual legend decrease";

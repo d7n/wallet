@@ -1,1 +1,1 @@
-var mnemonic = "market idle title harvest switch veteran bright upper moral report trend table";
+var mnemonic = "manual cactus clay demise buyer stomach shuffle ramp swim among depart bread";

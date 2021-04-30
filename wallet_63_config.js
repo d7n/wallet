@@ -1,1 +1,1 @@
-var mnemonic = "glad isolate guitar chair ring drop fashion kick sunset holiday put window";
+var mnemonic = "marble purpose example engage magnet crime unit ski weasel few spot save";

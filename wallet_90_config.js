@@ -1,1 +1,1 @@
-var mnemonic = "usage auction rather when season snow pitch robot very future execute reveal";
+var mnemonic = "soft narrow repeat left country peace angle ketchup waste analyst demise spin";

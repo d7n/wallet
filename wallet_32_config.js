@@ -1,1 +1,1 @@
-var mnemonic = "glide soccer success exchange coast accident pear because add moment mountain decade";
+var mnemonic = "never defy cable furnace camera live panda power citizen mail enough flash";

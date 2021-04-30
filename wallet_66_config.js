@@ -1,1 +1,1 @@
-var mnemonic = "devote spatial squeeze modify media jump kidney wear update economy credit exclude";
+var mnemonic = "calm never cheap leopard series kind plunge poem air evil feature oblige";

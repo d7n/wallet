@@ -1,1 +1,1 @@
-var mnemonic = "loyal material middle decade symbol hill owner credit arrest surge village retire";
+var mnemonic = "people rich bubble motion oxygen useful civil tag upper shrimp begin erupt";

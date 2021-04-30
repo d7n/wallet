@@ -1,1 +1,1 @@
-var mnemonic = "bracket vague program argue proof elbow limit kangaroo frozen hockey roof memory";
+var mnemonic = "wine stay anxiety giraffe ribbon plunge february define twist bargain stone mixture";

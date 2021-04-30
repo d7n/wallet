@@ -1,1 +1,1 @@
-var mnemonic = "demise poet fix hello resource shove endless online dove egg tumble tornado";
+var mnemonic = "patrol spice month victory identify know climb habit else admit where panel";

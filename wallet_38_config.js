@@ -1,1 +1,1 @@
-var mnemonic = "hood spirit light note merit erupt write become alarm obscure domain open";
+var mnemonic = "spoil detail window jaguar impose text turkey risk pink juice royal release";

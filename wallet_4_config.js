@@ -1,1 +1,1 @@
-var mnemonic = "stick orange jelly deposit topple game alley dad tired floor agent mosquito";
+var mnemonic = "deputy pulp icon bright mad describe panel corn toward help foam nose";

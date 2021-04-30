@@ -1,1 +1,1 @@
-var mnemonic = "write win nominee spray genuine city divorce art exotic glass sudden expand";
+var mnemonic = "digital treat axis injury earth modify tenant budget mango genre mosquito hotel";

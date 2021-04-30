@@ -1,1 +1,1 @@
-var mnemonic = "hockey favorite correct rail canyon life sample blame tip random club speak";
+var mnemonic = "learn woman couple column cage another double roast one unique pretty inject";

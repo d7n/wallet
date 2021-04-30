@@ -1,1 +1,1 @@
-var mnemonic = "drama crash silent marriage demand merry hover local satoshi ghost evidence hen";
+var mnemonic = "around hole dizzy remain female know point unusual layer outer marriage depend";

@@ -1,1 +1,1 @@
-var mnemonic = "reject leaf dutch relax ship repeat page behind gadget potato throw near";
+var mnemonic = "hunt island soon banana fiber analyst aspect harsh palm oven decade trap";

@@ -1,1 +1,1 @@
-var mnemonic = "involve trick day bicycle pill fall observe oak blade punch minute plastic";
+var mnemonic = "bunker delay budget degree seminar grunt trial flower exhibit demise envelope soon";

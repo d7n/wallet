@@ -1,1 +1,1 @@
-var mnemonic = "decrease call dash economy table scale wash curtain cook uncover source mango";
+var mnemonic = "woman deny duck evil midnight grow rely squeeze teach hawk bag canal";

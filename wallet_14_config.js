@@ -1,1 +1,1 @@
-var mnemonic = "marriage three more flame horn ring mango foot length hen task cross";
+var mnemonic = "wing detail large follow impulse say veteran earth real vocal mention actress";

@@ -1,1 +1,1 @@
-var mnemonic = "small hobby shock reject private transfer ocean rally light wild extend current";
+var mnemonic = "tobacco unusual habit sudden dignity jump reflect remind tree train fossil shove";

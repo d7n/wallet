@@ -1,1 +1,1 @@
-var mnemonic = "tongue blade wire ribbon ozone dry brother alien lyrics slogan employ what";
+var mnemonic = "mammal runway slogan brave other cricket nasty rent apology fever congress message";

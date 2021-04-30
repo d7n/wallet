@@ -1,1 +1,1 @@
-var mnemonic = "broken sad flock tomorrow flame marriage pull rebuild goose lumber various canal";
+var mnemonic = "gym subject smooth biology acoustic slice salute spy effort scatter route pitch";

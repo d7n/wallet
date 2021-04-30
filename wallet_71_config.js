@@ -1,1 +1,1 @@
-var mnemonic = "uncle cruise melody annual comfort assist exist regular change vapor punch garment";
+var mnemonic = "wire erode nurse steel hint visual truck grace other green dutch ordinary";

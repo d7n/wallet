@@ -1,1 +1,1 @@
-var mnemonic = "device loud outside saddle fun female increase corn smile follow replace cave";
+var mnemonic = "frog bargain ill group month fan twelve denial foot useful method page";

@@ -1,1 +1,1 @@
-var mnemonic = "notable engine mass spike hint feed crucial tortoise sunset chair funny disease";
+var mnemonic = "tumble stadium sheriff cluster leopard glance find nature sell mouse man panel";

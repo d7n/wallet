@@ -1,1 +1,1 @@
-var mnemonic = "unlock ghost point sunny save text shy patrol stem myself concert video";
+var mnemonic = "inspire lobster rib ivory example torch stove vintage claim detect hunt where";

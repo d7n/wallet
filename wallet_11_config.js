@@ -1,1 +1,1 @@
-var mnemonic = "system host drink coach monkey pulp public praise dentist path believe problem";
+var mnemonic = "local combine result smoke exist mimic coach rent social hospital rotate cave";

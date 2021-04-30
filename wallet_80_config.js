@@ -1,1 +1,1 @@
-var mnemonic = "tumble right render try quality live render gloom woman clown thrive morning";
+var mnemonic = "grunt spin grain garlic dog athlete sweet autumn panic position hand involve";

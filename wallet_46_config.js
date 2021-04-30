@@ -1,1 +1,1 @@
-var mnemonic = "rotate street noise sunny focus judge own patient isolate clarify type annual";
+var mnemonic = "village opera assume digital picnic version sentence fish hawk wheat trust major";

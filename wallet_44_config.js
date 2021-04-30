@@ -1,1 +1,1 @@
-var mnemonic = "nasty place thank fault flower double ramp sadness jacket tobacco milk dish";
+var mnemonic = "stage maid sorry attract empower accident problem holiday elephant upset squirrel airport";

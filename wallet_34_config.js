@@ -1,1 +1,1 @@
-var mnemonic = "fall scan vibrant large produce pride echo reward nasty decrease logic senior";
+var mnemonic = "donate blanket bar intact toe luggage wrist fitness advance lab maid limb";

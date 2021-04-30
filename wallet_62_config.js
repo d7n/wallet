@@ -1,1 +1,1 @@
-var mnemonic = "forget spatial art virus muscle surface concert walnut enlist only bargain giraffe";
+var mnemonic = "wear world fat step empty multiply afford flag lunch glory jump million";

@@ -1,1 +1,1 @@
-var mnemonic = "gold fox drastic wrestle nerve access royal session husband daughter remember suffer";
+var mnemonic = "hover question economy message kangaroo roof now glue favorite funny arrange security";

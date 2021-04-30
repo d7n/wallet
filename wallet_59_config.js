@@ -1,1 +1,1 @@
-var mnemonic = "delay novel task castle kitten popular apart angle reason royal payment awkward";
+var mnemonic = "youth talent output dynamic frame fitness pulse monitor address february region token";

@@ -1,1 +1,1 @@
-var mnemonic = "spatial hurdle adjust burger mass another canal cycle toy chicken dune praise";
+var mnemonic = "rich logic people scare type adult cattle vicious silent enhance bread also";

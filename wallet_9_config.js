@@ -1,1 +1,1 @@
-var mnemonic = "bunker scissors peanut this burst swallow gadget promote amateur faculty refuse ability";
+var mnemonic = "hood latin reform between grace faint alien leisure near sniff fork awful";

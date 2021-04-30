@@ -1,1 +1,1 @@
-var mnemonic = "cargo hold art pig pepper chest scrap canal miracle lion furnace void";
+var mnemonic = "proof pond axis alcohol author shaft ginger lamp genuine accuse purchase tool";

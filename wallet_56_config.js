@@ -1,1 +1,1 @@
-var mnemonic = "depart attitude text vehicle reopen wrestle amount pizza front must bean fetch";
+var mnemonic = "frequent increase lyrics view maid sleep come please mechanic amateur true soft";

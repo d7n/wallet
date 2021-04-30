@@ -1,1 +1,1 @@
-var mnemonic = "inch fame umbrella patrol payment moral shed panic maple action that zero";
+var mnemonic = "author essay urge walk bronze view champion move describe opera benefit lava";

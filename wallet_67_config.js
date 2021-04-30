@@ -1,1 +1,1 @@
-var mnemonic = "embody swear fuel cereal tornado earn race imitate enemy boss barely lottery";
+var mnemonic = "carpet control plastic bunker report logic donate laptop woman humble alert crunch";

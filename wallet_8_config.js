@@ -1,1 +1,1 @@
-var mnemonic = "park uniform opinion lizard paddle crucial segment half pupil fiscal card pizza";
+var mnemonic = "during minute glow demise midnight logic ride stand enlist ahead mistake general";

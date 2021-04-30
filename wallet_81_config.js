@@ -1,1 +1,1 @@
-var mnemonic = "push cherry there cream explain suspect winter math burst umbrella patrol child";
+var mnemonic = "blanket drastic lawn brand poet sibling donor rather mutual whale cable cruise";

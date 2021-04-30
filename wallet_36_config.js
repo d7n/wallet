@@ -1,1 +1,1 @@
-var mnemonic = "pill prize deputy illness fly mountain patrol card spy cook diet tornado";
+var mnemonic = "lady tourist dune clinic crack bag dolphin fog radar draw rib humble";

@@ -1,1 +1,1 @@
-var mnemonic = "hub hawk scorpion undo amazing velvet bike giggle pyramid frown radar position";
+var mnemonic = "near rescue pave pattern wine famous swap wear gadget nut claim annual";

@@ -1,1 +1,1 @@
-var mnemonic = "armor organ topic skate fox brown aunt nasty canvas waste program buffalo";
+var mnemonic = "hybrid scrub blind tortoise seek fabric cradle glide essence sudden rude later";

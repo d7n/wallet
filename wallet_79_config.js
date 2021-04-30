@@ -1,1 +1,1 @@
-var mnemonic = "beef dilemma good myth law debate woman pretty short smile artist wasp";
+var mnemonic = "dose future side orient mimic heart clay model regular alpha damp build";

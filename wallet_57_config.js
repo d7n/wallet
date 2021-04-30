@@ -1,1 +1,1 @@
-var mnemonic = "duck rebuild drum room summer frame believe mask viable boy sound outdoor";
+var mnemonic = "opinion harsh surprise they fiction exclude target unhappy void spread final describe";

@@ -1,1 +1,1 @@
-var mnemonic = "addict few stadium train hedgehog pepper tuition liberty express obey chef current";
+var mnemonic = "output inflict height shove slogan rude copper convince mansion shoe eagle gift";

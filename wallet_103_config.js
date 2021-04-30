@@ -1,1 +1,1 @@
-var mnemonic = "face venture garbage zoo curve debris track venue cube word mobile tobacco";
+var mnemonic = "dial caution logic way energy inform borrow orient interest vivid load sound";

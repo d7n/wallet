@@ -1,1 +1,1 @@
-var mnemonic = "sock proof situate kiss tank trash soap crazy feature diesel engine island";
+var mnemonic = "sorry liberty forum frozen pony throw top capital artist shoulder vehicle hurdle";

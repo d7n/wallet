@@ -1,1 +1,1 @@
-var mnemonic = "seven leopard under ability push model cook assume snake gap write tongue";
+var mnemonic = "fragile bargain almost hat soccer spray matrix dinosaur outdoor wool profit motion";

@@ -1,1 +1,1 @@
-var mnemonic = "mixed fabric shed deal perfect sleep fade endless ostrich lobster pact disease";
+var mnemonic = "digital horn display rapid long armor census test clog lobster burger permit";

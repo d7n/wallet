@@ -1,1 +1,1 @@
-var mnemonic = "dentist bonus guard luxury depend crash lion tissue sport uniform mom hazard";
+var mnemonic = "once human drill average toddler eagle gun panda cotton truck crowd volume";
