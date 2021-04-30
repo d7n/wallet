@@ -1,1 +1,1 @@
-var mnemonic = "random cream rifle velvet brown anger throw expand economy version tunnel attack";
+var mnemonic = "swear measure style clever off uncover east crater orange aisle crawl sauce";

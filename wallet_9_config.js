@@ -1,1 +1,1 @@
-var mnemonic = "crop erode notice umbrella palace friend cruise grow oppose enforce brisk earn";
+var mnemonic = "patient pyramid siren weird dilemma sign rough famous rib noble slice humor";

@@ -1,1 +1,1 @@
-var mnemonic = "best purity faint close wife dad conduct tired lunar glass expose gallery";
+var mnemonic = "grain clog hip walk upgrade cycle drink void pride animal render couch";

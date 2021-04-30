@@ -1,1 +1,1 @@
-var mnemonic = "catalog oval nephew crouch response fossil corn favorite voice sunset trick nation";
+var mnemonic = "pool radio pyramid hundred kingdom canal empty primary tool skirt measure update";

@@ -1,1 +1,1 @@
-var mnemonic = "order cancel direct cruise ten relief expose wave club video equal give";
+var mnemonic = "argue input push bean chapter alcohol congress drama pitch infant audit syrup";

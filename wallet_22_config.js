@@ -1,1 +1,1 @@
-var mnemonic = "wonder butter pet energy scorpion climb reveal member clutch mask dynamic flame";
+var mnemonic = "spider lamp mountain ceiling east fiber witness false capital bamboo slush quantum";

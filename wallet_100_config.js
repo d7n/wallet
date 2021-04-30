@@ -1,1 +1,1 @@
-var mnemonic = "clerk fiction garment fabric decade drama build program noble never impose electric";
+var mnemonic = "across sense short occur sniff property lock sunny frost artist ill toilet";

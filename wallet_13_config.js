@@ -1,1 +1,1 @@
-var mnemonic = "nominee combine harvest cluster sword border palace system rally lazy visual cattle";
+var mnemonic = "sibling name pond captain reveal pumpkin sort daring brisk kitten idea current";

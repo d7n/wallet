@@ -1,1 +1,1 @@
-var mnemonic = "quarter focus book jewel uphold era pride eye this cluster tuna fabric";
+var mnemonic = "tail cancel motor denial cradle topic creek want friend alpha teach memory";

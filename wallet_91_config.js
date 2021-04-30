@@ -1,1 +1,1 @@
-var mnemonic = "unhappy blur ring funny inject praise rug east ten earn soap saddle";
+var mnemonic = "middle drip ghost scout engine duck wise truly intact fatal consider drastic";

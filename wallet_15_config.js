@@ -1,1 +1,1 @@
-var mnemonic = "nation culture abuse identify mask model present aware degree strong dirt plastic";
+var mnemonic = "wedding table mention bullet city forest coin era talk spend erosion faint";

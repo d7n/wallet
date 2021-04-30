@@ -1,1 +1,1 @@
-var mnemonic = "drip sun pave tortoise alarm canvas assault soul feed muffin garbage step";
+var mnemonic = "come buddy tumble frozen motor helmet slogan say column arctic siren cliff";

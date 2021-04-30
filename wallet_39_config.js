@@ -1,1 +1,1 @@
-var mnemonic = "foam gossip weasel student share detail mosquito bean polar innocent return critic";
+var mnemonic = "pulp attack achieve silent home very city patient retreat tonight candy globe";

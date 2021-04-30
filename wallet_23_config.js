@@ -1,1 +1,1 @@
-var mnemonic = "time equal truck castle galaxy essay prison expire vintage ladder move satoshi";
+var mnemonic = "want kiwi trial outside feature borrow federal hill still ignore glue already";

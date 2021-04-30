@@ -1,1 +1,1 @@
-var mnemonic = "gold one flash wire try course water cross coconut faculty phone strike";
+var mnemonic = "churn junk ugly treat athlete rely trust tuna share canal always infant";

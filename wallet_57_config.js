@@ -1,1 +1,1 @@
-var mnemonic = "action alpha prepare final syrup frown split feature muscle token harbor fortune";
+var mnemonic = "still filter circle argue royal jaguar fossil morning push egg spice drift";

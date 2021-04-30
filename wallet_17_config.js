@@ -1,1 +1,1 @@
-var mnemonic = "when plunge fine chronic castle jar pet notice example pact pond weird";
+var mnemonic = "mule column brass idle appear remember sphere around ketchup summer betray lazy";

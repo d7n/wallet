@@ -1,1 +1,1 @@
-var mnemonic = "deputy sample whale lobster sunny breeze update nature select nuclear scene soda";
+var mnemonic = "notable fortune imitate remove base under planet earth govern horn bind arrow";

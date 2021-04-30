@@ -1,1 +1,1 @@
-var mnemonic = "omit fish jealous bonus limit deputy quick satisfy power pistol wash equal";
+var mnemonic = "various begin perfect bench indicate place load sunny fee trumpet discover stadium";

@@ -1,1 +1,1 @@
-var mnemonic = "sunny other energy museum estate weasel unfair steak fiction soda swear witness";
+var mnemonic = "change one verify manage senior card have timber exile deliver toy day";

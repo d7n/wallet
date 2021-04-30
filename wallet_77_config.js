@@ -1,1 +1,1 @@
-var mnemonic = "deal caution laundry ready blush wire relief way kite fog glory endorse";
+var mnemonic = "list prison fix crime nature roast leave ski benefit divert hunt chimney";

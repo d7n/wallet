@@ -1,1 +1,1 @@
-var mnemonic = "still cash rival bean bus speed improve sleep bundle remember purpose dragon";
+var mnemonic = "either correct coast antenna pitch believe voice say clinic circle element brother";

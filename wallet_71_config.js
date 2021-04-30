@@ -1,1 +1,1 @@
-var mnemonic = "tide earn curtain sweet census diamond humor mushroom stand flag glad bread";
+var mnemonic = "draw egg rare sting blanket tomorrow melt stumble sting mystery battle turkey";

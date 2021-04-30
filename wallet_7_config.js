@@ -1,1 +1,1 @@
-var mnemonic = "economy discover margin concert axis robust echo someone rely demise erosion eternal";
+var mnemonic = "rent knife robust curious decade add bulb blue inspire legend collect park";

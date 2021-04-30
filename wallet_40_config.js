@@ -1,1 +1,1 @@
-var mnemonic = "alert time birth rack wire verify great crawl maze valve relax toe";
+var mnemonic = "giant voyage clerk inject pioneer weird ginger render ethics leave trip spend";

@@ -1,1 +1,1 @@
-var mnemonic = "coast bacon parade bundle clap card ghost nephew luxury usage ticket define";
+var mnemonic = "tattoo auction sort insane next rabbit north reason wool panda forget leader";

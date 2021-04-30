@@ -1,1 +1,1 @@
-var mnemonic = "case sand aspect bone people home lyrics ship observe enroll evil sausage";
+var mnemonic = "area ribbon ridge senior pulp mirror tank milk own adjust april allow";

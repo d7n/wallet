@@ -1,1 +1,1 @@
-var mnemonic = "measure ankle say observe until orange end umbrella anchor chalk pupil dash";
+var mnemonic = "glare aisle imitate toast black enter math quote describe remember casual fish";

@@ -1,1 +1,1 @@
-var mnemonic = "frog arch biology avocado rely basket this network annual decide bless keen";
+var mnemonic = "fault fault wreck rich never space pond math butter scale involve zebra";

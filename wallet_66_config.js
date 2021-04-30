@@ -1,1 +1,1 @@
-var mnemonic = "deliver talent burst ritual rude faint cube sauce jelly run unusual timber";
+var mnemonic = "fine filter sauce image group beyond blanket fever cloud resource general income";

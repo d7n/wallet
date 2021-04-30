@@ -1,1 +1,1 @@
-var mnemonic = "source sound disagree decade emerge hen clean old elephant toss remove output";
+var mnemonic = "brave unlock lend kick ancient cream solve dust cereal kingdom derive slush";

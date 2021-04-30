@@ -1,1 +1,1 @@
-var mnemonic = "runway river differ material violin sense jaguar write envelope rotate poet gather";
+var mnemonic = "age flower develop attack arrow raw right coin firm curious small zero";

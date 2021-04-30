@@ -1,1 +1,1 @@
-var mnemonic = "okay random amount wing ketchup basic lemon file ocean crop country potato";
+var mnemonic = "siren practice oblige swear drip harsh shy deny spot stage legal fun";

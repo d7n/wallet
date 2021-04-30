@@ -1,1 +1,1 @@
-var mnemonic = "weekend pattern head remain clay comfort police rifle peace fancy diary symbol";
+var mnemonic = "bus step because furnace pill slab ripple toe bargain evil museum unfold";

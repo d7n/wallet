@@ -1,1 +1,1 @@
-var mnemonic = "key purchase paddle silk join book blood section egg glass apology true";
+var mnemonic = "pear soft green place steak outdoor gorilla clay shock surround taxi action";

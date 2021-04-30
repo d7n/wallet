@@ -1,1 +1,1 @@
-var mnemonic = "case glance mansion either creek scorpion total exercise elephant heart news lizard";
+var mnemonic = "squeeze front grass ridge lab forward piece salad luggage caught coil awesome";

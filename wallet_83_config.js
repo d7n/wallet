@@ -1,1 +1,1 @@
-var mnemonic = "horror garment twin share unit suit practice purchase position chicken kid shiver";
+var mnemonic = "remind sort material helmet joy upper mind tourist border hurry dizzy bag";

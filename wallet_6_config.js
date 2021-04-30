@@ -1,1 +1,1 @@
-var mnemonic = "plunge hunt december issue reopen length code crucial planet gallery visa festival";
+var mnemonic = "rabbit easily whale fitness flock river sunny sock fine outdoor strong album";

@@ -1,1 +1,1 @@
-var mnemonic = "retreat afford perfect world solid health october inflict word egg garment shallow";
+var mnemonic = "voice eye antenna giggle fade mention shine smooth enemy lab bone oval";

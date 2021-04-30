@@ -1,1 +1,1 @@
-var mnemonic = "stay tuna noble true faith weapon follow bind honey emerge dove flat";
+var mnemonic = "silent giraffe south gain rabbit weather donor business tiger emotion hospital outside";

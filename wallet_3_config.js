@@ -1,1 +1,1 @@
-var mnemonic = "cushion snap drive guess giggle index width marble armed dry climb absurd";
+var mnemonic = "hammer gloom emotion awful lonely twelve swap shop issue welcome strike appear";

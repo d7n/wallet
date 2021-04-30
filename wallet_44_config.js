@@ -1,1 +1,1 @@
-var mnemonic = "almost often gallery reveal version purity floor win churn follow often risk";
+var mnemonic = "pottery ready learn rain stove diagram mosquito alcohol one dream local aspect";

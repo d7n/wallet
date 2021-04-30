@@ -1,1 +1,1 @@
-var mnemonic = "despair nasty win lunar debris price fat seed feel differ captain fragile";
+var mnemonic = "curious jaguar pony process moment sniff ankle grit harvest dash weasel hunt";

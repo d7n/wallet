@@ -1,1 +1,1 @@
-var mnemonic = "toe endless pistol dignity topple giraffe math price filter satisfy approve infant";
+var mnemonic = "vicious hood assault mention garbage genuine noise evolve rebel print raven fire";

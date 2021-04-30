@@ -1,1 +1,1 @@
-var mnemonic = "fun piano notice future moon asthma clever almost resist math width market";
+var mnemonic = "virtual elegant find like milk sentence base insane arrange virus trust item";

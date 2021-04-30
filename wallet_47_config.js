@@ -1,1 +1,1 @@
-var mnemonic = "correct bench industry alert galaxy dismiss creek doctor elephant weapon lend olive";
+var mnemonic = "favorite point glimpse silk clever ethics maximum say foster quit torch foil";

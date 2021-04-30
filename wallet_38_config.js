@@ -1,1 +1,1 @@
-var mnemonic = "crowd decorate cousin faith suspect gown sure pear nasty select team struggle";
+var mnemonic = "announce fiction swallow fiscal slender admit fashion shiver circle add jazz volume";

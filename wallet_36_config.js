@@ -1,1 +1,1 @@
-var mnemonic = "guide alpha proof amazing cheese will erode boring minor aspect old squeeze";
+var mnemonic = "organ abuse sleep luggage ticket mind peace camera force kitchen congress reason";

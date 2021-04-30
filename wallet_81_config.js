@@ -1,1 +1,1 @@
-var mnemonic = "shaft clown milk stomach squirrel way leaf rich caught notice height pulp";
+var mnemonic = "drama tent pen derive neutral spell fly repair please cupboard day diesel";

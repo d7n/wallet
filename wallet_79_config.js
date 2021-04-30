@@ -1,1 +1,1 @@
-var mnemonic = "memory kid tray garden civil ignore unlock renew pistol zoo video guide";
+var mnemonic = "birth matrix settle option electric peanut thank tobacco day sun crucial switch";

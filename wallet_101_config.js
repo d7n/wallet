@@ -1,1 +1,1 @@
-var mnemonic = "replace spot purity pumpkin ice sun pulp plastic sense pear little vast";
+var mnemonic = "frown gadget junior diary juice start carbon pudding ancient exhibit owner fine";

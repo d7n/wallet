@@ -1,1 +1,1 @@
-var mnemonic = "rack adult sign sick you crime proof glance group disorder planet acoustic";
+var mnemonic = "alone claim recipe frost video harsh act youth unveil junk stomach mobile";

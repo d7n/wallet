@@ -1,1 +1,1 @@
-var mnemonic = "between apple hire bounce scorpion punch swallow rule layer board also member";
+var mnemonic = "sand leaf juice castle final material swim animal sun expose material egg";

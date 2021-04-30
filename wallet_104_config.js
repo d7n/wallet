@@ -1,1 +1,1 @@
-var mnemonic = "sun famous grant sand crumble minimum envelope alley annual claw say glove";
+var mnemonic = "brass ketchup session broom control skate diamond retreat clerk duty file switch";

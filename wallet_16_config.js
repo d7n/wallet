@@ -1,1 +1,1 @@
-var mnemonic = "urge slow pilot scheme round adapt luxury title fruit foot chief junior";
+var mnemonic = "destroy either clap staff river rally lawsuit exact mandate dream spoon rural";

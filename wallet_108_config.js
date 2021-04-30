@@ -1,1 +1,1 @@
-var mnemonic = "neglect same jelly fine ancient lens hover prefer giraffe access casual insect";
+var mnemonic = "window cross demise celery have pen link gentle obtain worry kiss wrist";

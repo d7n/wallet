@@ -1,1 +1,1 @@
-var mnemonic = "author sing hurry deal fluid world eyebrow board garage slogan scene drive";
+var mnemonic = "hybrid picture today differ party whip often loop toward vault mixture taxi";

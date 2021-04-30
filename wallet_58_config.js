@@ -1,1 +1,1 @@
-var mnemonic = "average lion merge trash romance embark limb age balcony deer surround toss";
+var mnemonic = "fossil toe turkey child clean brass ketchup stereo phrase pioneer tray armed";

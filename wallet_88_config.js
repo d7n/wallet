@@ -1,1 +1,1 @@
-var mnemonic = "lyrics small panda scheme shop follow civil undo clarify enough gadget mixture";
+var mnemonic = "impose safe cry lawsuit couch journey hand knock choose shield owner glide";

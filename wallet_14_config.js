@@ -1,1 +1,1 @@
-var mnemonic = "tray party claim finger sweet rocket setup hover put shell hold budget";
+var mnemonic = "oak shaft banana grid control half sunset lizard toss gaze spread road";

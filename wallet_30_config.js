@@ -1,1 +1,1 @@
-var mnemonic = "cheese option excess ostrich struggle bounce scrap next slam alley code twenty";
+var mnemonic = "wide consider excess decide wire wink fame cart chronic proof borrow release";

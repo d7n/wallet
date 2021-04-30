@@ -1,1 +1,1 @@
-var mnemonic = "nuclear joy suggest skirt ginger improve scene slow era cricket security future";
+var mnemonic = "unable viable ski recycle company exact state genuine trophy worth toward paddle";

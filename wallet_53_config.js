@@ -1,1 +1,1 @@
-var mnemonic = "horror bridge win promote soul type dolphin improve alarm tiger melt good";
+var mnemonic = "gate runway field medal merit lesson eager swap cross face open engage";

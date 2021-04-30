@@ -1,1 +1,1 @@
-var mnemonic = "ginger sing alarm omit minor boost spawn try express job diesel pretty";
+var mnemonic = "ankle eagle state age daughter kingdom antique print fabric either review kite";

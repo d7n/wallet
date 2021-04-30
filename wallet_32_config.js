@@ -1,1 +1,1 @@
-var mnemonic = "regret film very spring quit enemy awful juice fashion arm input ceiling";
+var mnemonic = "tilt blue buyer rug resist march owner fragile exclude broccoli city cherry";

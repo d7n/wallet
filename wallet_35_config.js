@@ -1,1 +1,1 @@
-var mnemonic = "foster foam spoon begin patrol shell night have tool moral hurry hybrid";
+var mnemonic = "treat desert trash lock tree ladder news fence grocery clock galaxy oil";

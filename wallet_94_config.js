@@ -1,1 +1,1 @@
-var mnemonic = "nice vote liberty hip action envelope ice depart boost bread clerk village";
+var mnemonic = "violin talk tag hockey sauce solar leaf label debris solution patrol real";

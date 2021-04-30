@@ -1,1 +1,1 @@
-var mnemonic = "sleep blind athlete novel label pill above vote maid father cat front";
+var mnemonic = "trash kangaroo inflict rain tiny town proud crane situate output size number";

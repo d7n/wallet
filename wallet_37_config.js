@@ -1,1 +1,1 @@
-var mnemonic = "two clay track explain kitchen ancient include author couch endorse wheel trick";
+var mnemonic = "head amused employ harvest lobster width fog cool lizard coffee unaware predict";

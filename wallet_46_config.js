@@ -1,1 +1,1 @@
-var mnemonic = "start arrive catch talent rescue inform math wave unusual cheese piano wheat";
+var mnemonic = "pitch family train approve screen never into aim police cheap anxiety journey";

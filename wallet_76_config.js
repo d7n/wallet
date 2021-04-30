@@ -1,1 +1,1 @@
-var mnemonic = "health cause athlete dose drama velvet nothing cable segment veteran only pen";
+var mnemonic = "smooth sugar orbit indicate original salad pony rail woman panther priority fall";

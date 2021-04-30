@@ -1,1 +1,1 @@
-var mnemonic = "limb pluck rifle prosper leaf click unveil elbow please swamp immune nest";
+var mnemonic = "sound rib gown salute desk olive high board inside ask join athlete";

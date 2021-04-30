@@ -1,1 +1,1 @@
-var mnemonic = "type wrestle heart eye mobile sail chunk aspect weekend alert plunge predict";
+var mnemonic = "jelly aerobic fashion two repeat balance bird shoulder dwarf mirror situate empower";

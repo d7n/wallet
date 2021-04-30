@@ -1,1 +1,1 @@
-var mnemonic = "casual link tuition illness carbon slide hidden fish vast school alley token";
+var mnemonic = "cloud basket fantasy extend wheat margin company general chuckle early quantum guard";

@@ -1,1 +1,1 @@
-var mnemonic = "art now speed palace increase album scissors property trap boring burger girl";
+var mnemonic = "scale crouch inner panel blush cook vibrant inmate horse century spend hurdle";

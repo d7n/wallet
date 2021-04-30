@@ -1,1 +1,1 @@
-var mnemonic = "badge found magnet erode wall uncover usual verify cost rhythm hold market";
+var mnemonic = "used talent project magic resource side fix tent state dance clump cereal";

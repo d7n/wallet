@@ -1,1 +1,1 @@
-var mnemonic = "okay blame omit february sudden warfare young vendor fence physical labor wrong";
+var mnemonic = "atom dish wise humor panel scissors nurse acoustic memory outer curtain season";

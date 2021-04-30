@@ -1,1 +1,1 @@
-var mnemonic = "middle nominee parrot stadium weapon fatal second total debate child ridge used";
+var mnemonic = "sing kind gym violin leaf exhibit proud maximum blame machine valley morning";

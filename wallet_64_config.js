@@ -1,1 +1,1 @@
-var mnemonic = "fame pistol rifle gorilla tip square rib suit fiscal dose milk royal";
+var mnemonic = "safe increase logic sleep change spin bench prison eyebrow unusual apart mention";

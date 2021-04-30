@@ -1,1 +1,1 @@
-var mnemonic = "push near wide fever example useful mammal gasp shoulder scan video lesson";
+var mnemonic = "furnace yellow slot slim excess spot version timber express grace planet occur";

@@ -1,1 +1,1 @@
-var mnemonic = "phrase height airport shop jazz film trash jacket forest current story member";
+var mnemonic = "casino horror bread similar loyal world layer gather crunch drift crunch erase";

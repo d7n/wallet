@@ -1,1 +1,1 @@
-var mnemonic = "park fuel orbit vague toast they gym menu orchard random accuse nasty";
+var mnemonic = "together people immense key cause panda squeeze laptop dawn lake laptop always";

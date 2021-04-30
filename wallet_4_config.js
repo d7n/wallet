@@ -1,1 +1,1 @@
-var mnemonic = "nose shuffle blast puzzle grab post tourist brain lizard network liberty cattle";
+var mnemonic = "lock mail host struggle tail wheel hill jeans parrot cloud arena struggle";

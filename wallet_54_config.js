@@ -1,1 +1,1 @@
-var mnemonic = "twice fun inch february skin pull fame west believe risk tragic song";
+var mnemonic = "begin away police tenant shed evolve weather afraid day velvet lesson robust";
