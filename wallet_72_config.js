@@ -1,1 +1,1 @@
-var mnemonic = "grocery noise eternal car remember drip produce into option pulp mountain robust";
+var mnemonic = "couple uniform tennis badge tail auto artefact poem pen noodle upset race";

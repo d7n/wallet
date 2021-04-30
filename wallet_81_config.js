@@ -1,1 +1,1 @@
-var mnemonic = "quote install canvas float predict shed office letter search rhythm between awake";
+var mnemonic = "code mention banana juice appear turtle face never wedding impose core town";

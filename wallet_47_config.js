@@ -1,1 +1,1 @@
-var mnemonic = "price cargo bless provide pioneer ten mass say feel brave skirt float";
+var mnemonic = "diamond october sponsor absorb tank senior pass robust elbow vessel weapon rack";

@@ -1,1 +1,1 @@
-var mnemonic = "core memory depth endless snap major age return zebra ecology rail buffalo";
+var mnemonic = "lizard ball flight brave castle oxygen material there mosquito tone ghost innocent";

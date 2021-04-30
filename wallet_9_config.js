@@ -1,1 +1,1 @@
-var mnemonic = "muscle add west clump smoke vintage magic undo science axis disagree minor";
+var mnemonic = "city program swift excite obtain crazy worry enroll way audit device want";

@@ -1,1 +1,1 @@
-var mnemonic = "shallow mushroom fade burger vendor layer acid panda casino mouse across puzzle";
+var mnemonic = "dinosaur dolphin toward design trigger start age govern purchase fantasy movie spoon";

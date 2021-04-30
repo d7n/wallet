@@ -1,1 +1,1 @@
-var mnemonic = "trick always trust affair source push reunion heavy cry cement rotate jaguar";
+var mnemonic = "rose crack nephew gadget trial mean hub obscure effort album silly forum";

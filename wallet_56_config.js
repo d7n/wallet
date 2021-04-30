@@ -1,1 +1,1 @@
-var mnemonic = "grit vendor hundred found reopen club royal junk primary palace tunnel pudding";
+var mnemonic = "drift letter wear eager ozone damp outdoor gospel turn salt shop tip";

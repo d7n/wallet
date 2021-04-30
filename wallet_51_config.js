@@ -1,1 +1,1 @@
-var mnemonic = "actor path umbrella advance modify connect vivid chief neither head toddler grit";
+var mnemonic = "heavy skull regular diesel enrich bracket people fade seat size inner asset";

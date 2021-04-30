@@ -1,1 +1,1 @@
-var mnemonic = "ready clay hidden sight small sail tag brave hub crazy puzzle bike";
+var mnemonic = "tissue valley summer allow virtual front ahead boost minimum topple grain scheme";

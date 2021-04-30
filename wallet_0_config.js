@@ -1,1 +1,1 @@
-var mnemonic = "kidney average logic mobile vacuum oxygen lemon labor spell liquid debris mango";
+var mnemonic = "essay original picnic step lemon gravity benefit crouch lion notable cherry bachelor";

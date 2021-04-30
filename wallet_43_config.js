@@ -1,1 +1,1 @@
-var mnemonic = "cute evolve carpet vendor slam price travel people stamp slide situate gas";
+var mnemonic = "quiz hungry embody ability deliver science inquiry bean jar reason pipe crawl";

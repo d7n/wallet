@@ -1,1 +1,1 @@
-var mnemonic = "thunder clinic mystery jelly flash first pride risk kangaroo author humble aware";
+var mnemonic = "make fence minor brave talk card glue excite sing awesome vault north";

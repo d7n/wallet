@@ -1,1 +1,1 @@
-var mnemonic = "together glass hurry total cream useful uniform aware glare poverty tilt dice";
+var mnemonic = "major favorite analyst task twenty provide shallow squirrel resemble island champion idle";

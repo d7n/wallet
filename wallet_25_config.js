@@ -1,1 +1,1 @@
-var mnemonic = "nest token race title bracket envelope dirt galaxy monitor warfare clock buzz";
+var mnemonic = "sunset chapter village volcano bench sell nasty dash issue eternal firm just";

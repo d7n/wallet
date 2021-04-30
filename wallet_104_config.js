@@ -1,1 +1,1 @@
-var mnemonic = "tag siren eternal prosper critic chaos hotel fence rude gossip bullet only";
+var mnemonic = "elbow oven arena weather morning install friend broccoli risk scene giant busy";

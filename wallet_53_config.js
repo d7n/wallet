@@ -1,1 +1,1 @@
-var mnemonic = "drill rude dragon onion own aspect confirm phone utility unaware rapid jacket";
+var mnemonic = "whale vital people reduce joy awkward pelican donate farm enforce depth mule";

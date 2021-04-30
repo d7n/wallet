@@ -1,1 +1,1 @@
-var mnemonic = "bargain arrow core bread bean female disease uncover regular history box tonight";
+var mnemonic = "swap notice album crystal gauge correct file federal brand cost hidden utility";

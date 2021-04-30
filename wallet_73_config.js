@@ -1,1 +1,1 @@
-var mnemonic = "purpose foot fall fork picnic company window mouse camera casino law sting";
+var mnemonic = "limit obscure pet tiger immune diagram sea pool wonder undo music very";

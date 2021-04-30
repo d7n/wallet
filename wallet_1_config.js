@@ -1,1 +1,1 @@
-var mnemonic = "notice way ribbon doll medal advice settle man stage argue torch consider";
+var mnemonic = "various mountain unveil verify horn wedding curtain color grow regular taste split";

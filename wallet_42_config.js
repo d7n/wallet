@@ -1,1 +1,1 @@
-var mnemonic = "believe rapid lady leaf term social giggle grain duck razor present crater";
+var mnemonic = "nature toilet art mixed dust retire monkey blame cage dance chicken market";

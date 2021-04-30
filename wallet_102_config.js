@@ -1,1 +1,1 @@
-var mnemonic = "oyster pill verb oppose ring party trend moral expect option small cushion";
+var mnemonic = "salon color trend evoke speed rotate network mammal circle wide typical interest";

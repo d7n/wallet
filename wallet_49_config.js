@@ -1,1 +1,1 @@
-var mnemonic = "enhance donor can draft maid ticket brick suffer toy trim shell sketch";
+var mnemonic = "impose eternal index page animal harvest gift young cup joke cupboard town";

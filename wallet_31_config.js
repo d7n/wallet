@@ -1,1 +1,1 @@
-var mnemonic = "blush party pony clock bird hidden elephant gadget economy mistake cook draft";
+var mnemonic = "poet heart leave razor build patch sustain skate word interest economy hill";

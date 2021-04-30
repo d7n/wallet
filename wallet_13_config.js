@@ -1,1 +1,1 @@
-var mnemonic = "page cram relax among distance wet stereo door trip catalog assault bundle";
+var mnemonic = "mimic impact ladder floor rack select ramp trial frog taxi sleep ridge";

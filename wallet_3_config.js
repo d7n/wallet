@@ -1,1 +1,1 @@
-var mnemonic = "real dragon section attract armed update valley still rookie question curious express";
+var mnemonic = "cover panel much okay crucial end put slow lab hard bomb youth";

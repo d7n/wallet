@@ -1,1 +1,1 @@
-var mnemonic = "inner amateur limb coil grid stool month pipe inherit side magic master";
+var mnemonic = "gaze enjoy strategy identify warrior mom ensure spy peanut peace please practice";

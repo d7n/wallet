@@ -1,1 +1,1 @@
-var mnemonic = "top arctic cupboard client question alien essay spoil laptop candy permit script";
+var mnemonic = "raise bid coyote light exotic head cushion verb spin general obvious winter";

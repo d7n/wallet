@@ -1,1 +1,1 @@
-var mnemonic = "pattern sad garment actor lava maximum simple path tornado note twelve argue";
+var mnemonic = "dry attract potato option desk near only monkey maze used extra main";

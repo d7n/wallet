@@ -1,1 +1,1 @@
-var mnemonic = "universe easy myth foster alert indoor despair trust mosquito lemon notable car";
+var mnemonic = "car apology agent extend mask chapter act confirm dawn tuition elevator draw";

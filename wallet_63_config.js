@@ -1,1 +1,1 @@
-var mnemonic = "bulk lunar picnic divide purchase design reduce congress exercise mountain load dog";
+var mnemonic = "crime since neglect build build embrace appear crush dash mechanic wrist away";

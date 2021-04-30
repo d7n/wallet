@@ -1,1 +1,1 @@
-var mnemonic = "treat document title spoil since bulb blue sing between desk capital devote";
+var mnemonic = "siren crucial evolve answer prosper timber essence ski avocado master bridge spray";

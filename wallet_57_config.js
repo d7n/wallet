@@ -1,1 +1,1 @@
-var mnemonic = "spring walnut life corn deposit prison connect tip stuff sun exercise trouble";
+var mnemonic = "rent glimpse mistake actress capital license want journey couple few staff simple";

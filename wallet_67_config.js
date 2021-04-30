@@ -1,1 +1,1 @@
-var mnemonic = "excite expect patient glass material process weasel rough car term stable rail";
+var mnemonic = "slogan strategy lunar again refuse submit solution breeze much office until marine";

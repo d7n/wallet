@@ -1,1 +1,1 @@
-var mnemonic = "guard hill bitter layer flock prevent solution fatal lunch track vocal celery";
+var mnemonic = "abstract index luggage kangaroo citizen onion bind offer exclude crawl elder inflict";

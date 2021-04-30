@@ -1,1 +1,1 @@
-var mnemonic = "trip great cage police brain thought length entire quit grace snap clutch";
+var mnemonic = "vault will virus soccer book found matter blame candy own review barely";

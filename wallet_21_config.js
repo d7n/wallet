@@ -1,1 +1,1 @@
-var mnemonic = "adapt velvet reward useful hour then apart among damp seek medal useful";
+var mnemonic = "all tomato common baby twelve manual pen army steak runway number memory";

@@ -1,1 +1,1 @@
-var mnemonic = "kind spray useful enlist already shuffle soul prize roof mosquito tenant myth";
+var mnemonic = "brain cruise zebra aerobic brown increase match drink call trouble swing diagram";

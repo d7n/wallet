@@ -1,1 +1,1 @@
-var mnemonic = "know impose divide audit thing seed slim ladder alone lemon broccoli scorpion";
+var mnemonic = "brush frog garlic pave stereo little hamster crystal dust tape trouble rent";

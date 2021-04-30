@@ -1,1 +1,1 @@
-var mnemonic = "old ask calm plunge short flag crash nest learn logic slice scheme";
+var mnemonic = "bean wine creek find midnight oppose glimpse excess rice grain strong swarm";

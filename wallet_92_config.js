@@ -1,1 +1,1 @@
-var mnemonic = "squirrel people motion damage fresh mountain sword use swim idle friend broccoli";
+var mnemonic = "luxury gospel entire sell drama ginger enrich flower card ice sell riot";

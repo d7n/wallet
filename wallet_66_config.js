@@ -1,1 +1,1 @@
-var mnemonic = "walnut section weapon quantum stock menu upon alone ridge since slab message";
+var mnemonic = "book symbol echo muscle exercise fault entire nasty artist can stand border";

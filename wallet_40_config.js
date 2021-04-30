@@ -1,1 +1,1 @@
-var mnemonic = "famous basket engage lawsuit belt kiwi broken renew shield soap humble address";
+var mnemonic = "maple critic switch run hover young cash search fee patch proof learn";

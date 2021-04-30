@@ -1,1 +1,1 @@
-var mnemonic = "boring refuse discover vanish permit divert immense record dinosaur add deny side";
+var mnemonic = "harvest cheese light visit exotic asthma insect mystery odor record wave barely";

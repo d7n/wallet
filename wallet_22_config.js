@@ -1,1 +1,1 @@
-var mnemonic = "place arch bonus urban field major aerobic glory lunch tired melt soon";
+var mnemonic = "weekend family boost canal snack stadium render worth axis tonight castle repeat";

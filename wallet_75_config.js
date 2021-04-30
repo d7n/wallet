@@ -1,1 +1,1 @@
-var mnemonic = "blade laundry lamp length symptom viable hawk anger belt noodle dose enroll";
+var mnemonic = "any ketchup joke bunker repeat dolphin duty cloth vocal evolve wrist rain";

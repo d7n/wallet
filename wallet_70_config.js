@@ -1,1 +1,1 @@
-var mnemonic = "judge fancy young pizza breeze error develop because vapor decide taste various";
+var mnemonic = "hold edit cat hope wear mind fun educate price drill test angle";

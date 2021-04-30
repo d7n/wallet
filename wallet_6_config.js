@@ -1,1 +1,1 @@
-var mnemonic = "rail rotate ensure south culture bind owner very describe reason eye sheriff";
+var mnemonic = "time piece alpha clerk draw matter father pluck blade expose only gown";

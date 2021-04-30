@@ -1,1 +1,1 @@
-var mnemonic = "unable congress humble color sick ring deliver base nuclear since can oil";
+var mnemonic = "eight smile cushion stove glimpse floor bless remember random water repair heavy";

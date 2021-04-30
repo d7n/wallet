@@ -1,1 +1,1 @@
-var mnemonic = "cram usual mouse scheme push parent discover royal able tortoise give deny";
+var mnemonic = "remain lumber indicate tag reform play any subway improve spin shy pass";

@@ -1,1 +1,1 @@
-var mnemonic = "sudden guard real response blouse mean speed manage jaguar vote ask blame";
+var mnemonic = "wait invite glow debate utility iron arena rebel film blue little chaos";

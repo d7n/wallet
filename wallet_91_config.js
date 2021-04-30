@@ -1,1 +1,1 @@
-var mnemonic = "baby front hope mushroom crush priority evoke double defense buddy tobacco sock";
+var mnemonic = "knee web come drop release aerobic issue junk force leisure verb speak";

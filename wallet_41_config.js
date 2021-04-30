@@ -1,1 +1,1 @@
-var mnemonic = "solution pulse vintage orchard gravity shoot blast snow close rival real palm";
+var mnemonic = "assist say model will pizza truck question extend sphere sound legal civil";

@@ -1,1 +1,1 @@
-var mnemonic = "always guess idea sick giggle afford bone sure purity badge network exhaust";
+var mnemonic = "mass proof maximum puzzle point alarm element grid air danger dial file";

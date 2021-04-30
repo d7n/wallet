@@ -1,1 +1,1 @@
-var mnemonic = "turn tuna toast cycle arm license result extra winter antenna legend orange";
+var mnemonic = "balance alter salt duck margin fresh armed skate pull usual island rubber";

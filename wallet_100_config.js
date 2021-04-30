@@ -1,1 +1,1 @@
-var mnemonic = "occur feature spot wear inquiry warrior pioneer neutral hybrid hand humor adapt";
+var mnemonic = "surround distance vivid scare because pill price knife badge infant olive ocean";

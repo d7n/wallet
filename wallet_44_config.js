@@ -1,1 +1,1 @@
-var mnemonic = "spy angry educate report jazz emotion size rebuild between more moon tilt";
+var mnemonic = "because extra find pretty enough during more hospital crumble infant spot practice";

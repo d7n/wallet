@@ -1,1 +1,1 @@
-var mnemonic = "shop regular couple switch puppy almost initial canyon step sheriff ugly solid";
+var mnemonic = "lunch rapid zebra choose famous feed express mail sound ladder timber field";

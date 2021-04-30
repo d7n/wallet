@@ -1,1 +1,1 @@
-var mnemonic = "sign chat lizard seminar please thrive talent charge split hungry jacket hip";
+var mnemonic = "fan resist twenty blame salt critic debate romance mimic enhance aspect fetch";

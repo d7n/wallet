@@ -1,1 +1,1 @@
-var mnemonic = "panel man hole tattoo yard lawn monster charge left exile frame agree";
+var mnemonic = "alter pave train please toddler own water ancient trash mask firm version";

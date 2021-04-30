@@ -1,1 +1,1 @@
-var mnemonic = "join chat alone pole book oven false puzzle quantum museum wedding hover";
+var mnemonic = "predict install funny like habit garment metal awesome actual reason meadow lawn";

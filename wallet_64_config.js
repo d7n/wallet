@@ -1,1 +1,1 @@
-var mnemonic = "north gun pistol lumber under spell rival west horse oxygen better render";
+var mnemonic = "gospel robust cricket raven drip gospel myth another advance gain enroll leisure";

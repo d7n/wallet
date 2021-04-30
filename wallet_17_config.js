@@ -1,1 +1,1 @@
-var mnemonic = "dust trigger submit rubber version mutual gun lamp success wide sea lucky";
+var mnemonic = "enhance pond alter strike eight fuel acoustic produce quarter spray upgrade critic";

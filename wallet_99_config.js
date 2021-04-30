@@ -1,1 +1,1 @@
-var mnemonic = "argue brain fade input volume stay glass quick lady enter robot sting";
+var mnemonic = "cement object certain memory weasel dolphin cycle protect joke victory provide ancient";

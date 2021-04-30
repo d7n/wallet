@@ -1,1 +1,1 @@
-var mnemonic = "grief online violin magic siege around violin another track clinic crater wide";
+var mnemonic = "palm off stumble drastic drink public buzz coffee rate beauty atom father";

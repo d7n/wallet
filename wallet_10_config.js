@@ -1,1 +1,1 @@
-var mnemonic = "lock diamond answer yellow ready answer duck shoe learn salmon pond wire";
+var mnemonic = "praise agent pelican ritual control birth edge affair room marine zero rich";

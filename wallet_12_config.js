@@ -1,1 +1,1 @@
-var mnemonic = "sad aware enact enough wheat lava slot crazy change way convince myth";
+var mnemonic = "entire seminar bench recipe squirrel stove embrace member inch series build skin";

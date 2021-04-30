@@ -1,1 +1,1 @@
-var mnemonic = "able tuna umbrella glance noise squirrel corn harvest inherit wink question modify";
+var mnemonic = "silly gospel sad custom million stool limb wet disease ribbon devote sign";

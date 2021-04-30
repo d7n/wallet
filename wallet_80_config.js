@@ -1,1 +1,1 @@
-var mnemonic = "admit prize pear hard before thought topple often away way police engage";
+var mnemonic = "special proud dish swear december opera manual belt whale lawsuit replace body";

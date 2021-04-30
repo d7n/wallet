@@ -1,1 +1,1 @@
-var mnemonic = "honey caught curtain drift fork tenant open pause shine ghost hockey disorder";
+var mnemonic = "canoe skate track brain boss great cat limb sing panther apart kitchen";

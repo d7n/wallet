@@ -1,1 +1,1 @@
-var mnemonic = "lucky capital spawn unit river pudding lab amateur effort decline frame crouch";
+var mnemonic = "diamond voice announce name trouble clinic nurse current choose country tomato corn";

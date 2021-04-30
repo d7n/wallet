@@ -1,1 +1,1 @@
-var mnemonic = "acid error panda awful certain enjoy lyrics prevent drive pet island kid";
+var mnemonic = "tobacco harsh song tape shadow stable typical erase prepare brick assault divorce";

@@ -1,1 +1,1 @@
-var mnemonic = "picture expire anxiety long custom autumn hawk attack input shove coast wonder";
+var mnemonic = "fatal enact rival achieve garden bulk crew marriage plunge cave denial crunch";

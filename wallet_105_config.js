@@ -1,1 +1,1 @@
-var mnemonic = "end mask text joke napkin clock science radar entire trouble door old";
+var mnemonic = "core guard carpet boss dune client breeze person unusual volcano prevent swarm";

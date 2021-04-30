@@ -1,1 +1,1 @@
-var mnemonic = "mimic atom what engage eagle typical blind eight embody fantasy route insane";
+var mnemonic = "debris anger mix volcano maid hurt door collect baby cash first solid";

@@ -1,1 +1,1 @@
-var mnemonic = "squirrel speed beach animal forest guard talk cactus pony kiwi owner trust";
+var mnemonic = "obvious boil section tired multiply equip script sausage desert sheriff action cross";

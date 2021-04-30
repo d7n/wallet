@@ -1,1 +1,1 @@
-var mnemonic = "tent daring square curious shaft fantasy type advice gadget voyage able truth";
+var mnemonic = "pink mom symbol baby tape gravity deny cliff arrest lady tobacco fit";

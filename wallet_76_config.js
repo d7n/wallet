@@ -1,1 +1,1 @@
-var mnemonic = "comfort wear twin ketchup across require lock scout normal client vapor eternal";
+var mnemonic = "clever school ritual over street creek metal venue attack bird fault skull";

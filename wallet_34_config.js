@@ -1,1 +1,1 @@
-var mnemonic = "gesture axis bar stem hollow radio minimum potato junk major head this";
+var mnemonic = "stuff biology blind clinic butter gauge thrive mercy feed between crash submit";

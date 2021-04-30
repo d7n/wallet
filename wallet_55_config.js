@@ -1,1 +1,1 @@
-var mnemonic = "paper anchor bright buzz talent mixed horror eye gasp emotion afford equip";
+var mnemonic = "escape hidden prefer cliff man sponsor denial assault clump nothing object jelly";

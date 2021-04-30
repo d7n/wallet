@@ -1,1 +1,1 @@
-var mnemonic = "shell recycle opera feature wage tomato vivid buyer candy dignity pupil ignore";
+var mnemonic = "arrange upgrade lawn monkey dinosaur forward mimic robot pottery ticket screen account";

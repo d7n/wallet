@@ -1,1 +1,1 @@
-var mnemonic = "economy public prevent jump admit clutch correct isolate shock raven corn hover";
+var mnemonic = "salt cousin mean action torch eye afford insane elder repair pulp weekend";

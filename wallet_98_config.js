@@ -1,1 +1,1 @@
-var mnemonic = "crazy glue leisure portion secret athlete carry enroll source afraid humble kangaroo";
+var mnemonic = "fan group slow swamp alcohol gap burden filter stem glow index bulb";

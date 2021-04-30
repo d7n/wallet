@@ -1,1 +1,1 @@
-var mnemonic = "parade turtle power sugar below text legend unknown decorate polar tornado ribbon";
+var mnemonic = "grit already raise random comic actress fetch dice borrow joy erase feel";

@@ -1,1 +1,1 @@
-var mnemonic = "spend assume dignity hope edge faint injury second wine destroy try champion";
+var mnemonic = "cluster fabric february wealth neither material hello buffalo nature bring exit poverty";

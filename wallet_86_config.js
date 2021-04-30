@@ -1,1 +1,1 @@
-var mnemonic = "lunch refuse refuse near bid young barrel crater inside primary wasp dream";
+var mnemonic = "occur kiwi key arctic country rail quantum zero alter wheel vote chuckle";

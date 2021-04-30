@@ -1,1 +1,1 @@
-var mnemonic = "outside word learn usual balcony west twenty valid shallow toy effort glide";
+var mnemonic = "unfair cushion volume inform toe behave office disagree nut trip midnight piano";

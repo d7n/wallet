@@ -1,1 +1,1 @@
-var mnemonic = "cart exist inquiry alley there debate other trap napkin shallow fish melt";
+var mnemonic = "point fence twenty actor ski hurdle script wild sleep frost replace shed";

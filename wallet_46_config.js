@@ -1,1 +1,1 @@
-var mnemonic = "sheriff matter dutch fiber gorilla outdoor crazy term level stove spatial wait";
+var mnemonic = "cluster entry clarify raven call afraid rare into mosquito labor surge episode";

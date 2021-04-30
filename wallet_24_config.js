@@ -1,1 +1,1 @@
-var mnemonic = "sand steak nuclear chief what model great major suggest observe wedding amount";
+var mnemonic = "cereal board better hard alarm hurt canyon cube curious entry lunar firm";

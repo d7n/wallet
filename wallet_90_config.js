@@ -1,1 +1,1 @@
-var mnemonic = "prepare funny multiply above copper unknown swallow betray shiver feel host vault";
+var mnemonic = "law people awesome excite fault impulse photo top profit crime silly inch";
