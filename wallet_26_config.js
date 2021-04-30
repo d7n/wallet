@@ -1,1 +1,1 @@
-var mnemonic = "badge six phone wage always oven film visual ankle theory churn gas";
+var mnemonic = "point busy earth destroy hidden math enact train dune avoid puppy ladder";

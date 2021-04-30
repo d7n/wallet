@@ -1,1 +1,1 @@
-var mnemonic = "laugh sponsor jacket age glove horse wink approve biology hello remove candy";
+var mnemonic = "aerobic orbit utility lens predict fragile faith pigeon erase bargain faith warm";

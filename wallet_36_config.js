@@ -1,1 +1,1 @@
-var mnemonic = "beauty possible provide weasel cotton ready put common author lava human saddle";
+var mnemonic = "worry wedding symptom rare search alley above special gospel blur clog canal";

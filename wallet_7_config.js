@@ -1,1 +1,1 @@
-var mnemonic = "network blue bird between inhale enlist deny smart pool demand wrong will";
+var mnemonic = "birth rigid hand question recall edit jealous news egg magic duty potato";

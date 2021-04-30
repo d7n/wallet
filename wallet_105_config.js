@@ -1,1 +1,1 @@
-var mnemonic = "caution sing mistake crazy network hollow spring chief race lawsuit alone merit";
+var mnemonic = "wrist ridge juice right trigger tenant tell vintage search caught cliff bone";

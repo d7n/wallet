@@ -1,1 +1,1 @@
-var mnemonic = "scheme crane nephew tomato exclude garment senior pond coyote man such believe";
+var mnemonic = "toast sound walnut hero foam control dust rebuild bracket bullet tomato remove";

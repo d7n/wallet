@@ -1,1 +1,1 @@
-var mnemonic = "expand mention album phone churn clump weather region minute link trigger east";
+var mnemonic = "mechanic basic sheriff rapid mule inherit humor lamp lamp live never nuclear";

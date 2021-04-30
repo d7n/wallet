@@ -1,1 +1,1 @@
-var mnemonic = "man morning nation topple collect spoon cotton trade vocal design either laundry";
+var mnemonic = "brief session finger stock dress various awesome sweet toe focus flush lemon";

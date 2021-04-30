@@ -1,1 +1,1 @@
-var mnemonic = "alter pull raven crouch dune mammal rhythm phrase angle pulp metal next";
+var mnemonic = "answer spring option bargain mirror work blanket steak ozone sibling next swallow";

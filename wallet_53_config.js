@@ -1,1 +1,1 @@
-var mnemonic = "front inmate plastic sheriff burger veteran rebel above example young expire question";
+var mnemonic = "patient engage quiz wife token eager bulb hamster repeat border captain find";

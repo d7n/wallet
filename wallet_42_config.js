@@ -1,1 +1,1 @@
-var mnemonic = "sick mouse spoon install clog borrow shuffle coral fee minimum joke pulp";
+var mnemonic = "outside wisdom rookie dash found route believe pole collect sort sponsor enrich";

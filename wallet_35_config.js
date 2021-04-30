@@ -1,1 +1,1 @@
-var mnemonic = "guard empty reform glass sister toddler used buyer century disagree before junior";
+var mnemonic = "crowd volcano can endorse enrich success virus toddler champion clown waste banner";

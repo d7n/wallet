@@ -1,1 +1,1 @@
-var mnemonic = "tag asthma bomb drink magnet random lucky raw also gown car trash";
+var mnemonic = "page inmate curtain illness grit tornado unaware tuna wasp false book cancel";

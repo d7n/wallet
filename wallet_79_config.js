@@ -1,1 +1,1 @@
-var mnemonic = "thought thunder catch nothing salon curious diesel express equip turkey injury concert";
+var mnemonic = "base observe treat kit pistol angle asthma pass wrong neglect seed sword";

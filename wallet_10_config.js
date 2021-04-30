@@ -1,1 +1,1 @@
-var mnemonic = "ankle dad mercy rude amateur forget network bright hawk awesome concert asset";
+var mnemonic = "chapter donate gold trick pig urge journey bronze orphan stove motion illegal";

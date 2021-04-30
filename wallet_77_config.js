@@ -1,1 +1,1 @@
-var mnemonic = "debate limb obtain gesture raise pull bronze grant hotel vacant tiny sad";
+var mnemonic = "wonder magnet knee glad face lottery equal machine sport include position install";

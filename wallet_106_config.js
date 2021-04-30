@@ -1,1 +1,1 @@
-var mnemonic = "fantasy drill cherry disorder soccer merit pool setup similar strike churn onion";
+var mnemonic = "family divorce adjust injury object announce riot girl furnace hockey lemon oblige";

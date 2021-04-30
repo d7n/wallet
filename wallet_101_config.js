@@ -1,1 +1,1 @@
-var mnemonic = "supply decorate cradle mix purpose vacuum unusual diary crazy math chimney glove";
+var mnemonic = "furnace exclude dismiss will camp phrase light gas silver spray wave dash";

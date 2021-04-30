@@ -1,1 +1,1 @@
-var mnemonic = "live shield habit exact measure blame match acquire spring purpose copy crouch";
+var mnemonic = "invite rug catch team improve sand immense various exhaust stage dove item";

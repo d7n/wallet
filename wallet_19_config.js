@@ -1,1 +1,1 @@
-var mnemonic = "repeat prison elite repeat front morning position tree nest work arrest surprise";
+var mnemonic = "plunge february syrup judge fiscal ozone security uncover sniff humor royal future";

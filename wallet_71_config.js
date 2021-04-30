@@ -1,1 +1,1 @@
-var mnemonic = "sport bounce release all wink topple express remain battle dress piano noodle";
+var mnemonic = "face sight hungry clump various width link history toss derive rhythm run";

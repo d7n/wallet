@@ -1,1 +1,1 @@
-var mnemonic = "ridge modify find trophy resemble figure tennis table employ basic crane offer";
+var mnemonic = "brass connect cabin below forget excite solar make fortune notable misery girl";

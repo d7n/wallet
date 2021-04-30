@@ -1,1 +1,1 @@
-var mnemonic = "give jaguar account one clump morning mammal order crowd bread clean scheme";
+var mnemonic = "pause conduct orphan answer place forum power rally race verify march purse";

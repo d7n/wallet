@@ -1,1 +1,1 @@
-var mnemonic = "say clown blame rifle quit rural spread rebuild list talent dove drip";
+var mnemonic = "salute flavor return stem youth lazy napkin control recipe erase way best";

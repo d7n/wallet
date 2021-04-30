@@ -1,1 +1,1 @@
-var mnemonic = "list cliff pizza frame humble input permit hawk home quantum suffer animal";
+var mnemonic = "fame finger hurry skin recipe duck spring medal dirt side laptop ordinary";

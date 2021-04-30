@@ -1,1 +1,1 @@
-var mnemonic = "arrive mushroom cushion knife crash camp diet tiger spike toe dwarf field";
+var mnemonic = "grass crater book entire atom purchase baby couple brass february debris course";

@@ -1,1 +1,1 @@
-var mnemonic = "they often sick pen claw tree voyage inject roast script sister step";
+var mnemonic = "thunder bacon awful jar digital famous spirit embody dust detail monster extend";

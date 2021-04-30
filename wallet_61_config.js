@@ -1,1 +1,1 @@
-var mnemonic = "tiny more cycle enrich fluid portion airport cactus smile rotate lawn garbage";
+var mnemonic = "mercy into lecture lawsuit empty boring happy faith moon inside twenty extend";

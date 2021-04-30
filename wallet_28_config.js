@@ -1,1 +1,1 @@
-var mnemonic = "leg step blue diamond gospel brand word used wise edit dilemma super";
+var mnemonic = "abstract need tornado offer resist loan invest skin large recipe cluster vote";

@@ -1,1 +1,1 @@
-var mnemonic = "chalk plastic lyrics error whip breeze lounge pizza better snow impulse tonight";
+var mnemonic = "auto trick flush hair ritual blind donor feel life spell bullet spread";

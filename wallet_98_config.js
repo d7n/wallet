@@ -1,1 +1,1 @@
-var mnemonic = "cloth refuse turn bracket exile neglect toward nasty bounce van arrest erupt";
+var mnemonic = "gym gadget island truth such notable flip almost era talent crisp shine";

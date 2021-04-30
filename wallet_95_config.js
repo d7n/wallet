@@ -1,1 +1,1 @@
-var mnemonic = "abuse want proud business honey stick recipe decrease found crash stay pigeon";
+var mnemonic = "economy pottery much cargo taxi project domain twenty wood lift derive sound";

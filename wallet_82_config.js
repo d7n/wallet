@@ -1,1 +1,1 @@
-var mnemonic = "ecology health enrich update bright zero throw mistake sell finish west bone";
+var mnemonic = "media number chase bless gap fresh scorpion script fee bless orchard mystery";

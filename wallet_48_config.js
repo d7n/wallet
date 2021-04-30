@@ -1,1 +1,1 @@
-var mnemonic = "drink friend guitar cactus fat agent meadow grant speed distance chimney drastic";
+var mnemonic = "setup exist decide input warrior pilot trade tiny hair knee naive very";

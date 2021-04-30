@@ -1,1 +1,1 @@
-var mnemonic = "robust biology ask slow hedgehog face witness entire target wreck silly define";
+var mnemonic = "upon march century claw final myself honey village forest kangaroo speed kid";

@@ -1,1 +1,1 @@
-var mnemonic = "foam coconut risk cup model bitter combine mother mango lab gorilla session";
+var mnemonic = "equip become attract erosion bone burden boss all option mobile jaguar hair";

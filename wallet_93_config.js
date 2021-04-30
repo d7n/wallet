@@ -1,1 +1,1 @@
-var mnemonic = "muscle prison garden year aerobic party trend juice jungle tilt aunt pizza";
+var mnemonic = "buffalo frost soap radio usual own robot man during private motion renew";

@@ -1,1 +1,1 @@
-var mnemonic = "trim hint nephew congress display soccer grocery moment runway yellow pupil treat";
+var mnemonic = "fragile blame chalk marine sense crazy hope awkward pause spoon trip jewel";

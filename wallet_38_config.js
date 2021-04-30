@@ -1,1 +1,1 @@
-var mnemonic = "place arctic lizard quarter account defy public dolphin toilet amazing spice eternal";
+var mnemonic = "fish struggle blouse diary logic honey sibling ill cricket pumpkin trip club";

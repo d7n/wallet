@@ -1,1 +1,1 @@
-var mnemonic = "fan theme mouse about runway ancient soon bottom rescue glass mobile someone";
+var mnemonic = "outside manage dinner mosquito push armor matrix world clinic usual wreck pumpkin";

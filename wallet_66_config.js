@@ -1,1 +1,1 @@
-var mnemonic = "work inspire wild chronic occur edit yard discover empower practice above crazy";
+var mnemonic = "essay behind earth define waste visual december panic crew enjoy route roof";

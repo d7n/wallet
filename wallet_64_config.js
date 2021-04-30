@@ -1,1 +1,1 @@
-var mnemonic = "awake expect twin cotton dilemma book that nominee during apple crucial debris";
+var mnemonic = "slogan kangaroo stomach bunker eye bicycle galaxy hill uncover organ disagree sign";

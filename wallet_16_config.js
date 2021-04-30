@@ -1,1 +1,1 @@
-var mnemonic = "address enforce cherry dice weird exercise crouch south pigeon side cousin love";
+var mnemonic = "flavor deer inmate board fence trophy scout squirrel love involve ride fortune";

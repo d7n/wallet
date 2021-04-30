@@ -1,1 +1,1 @@
-var mnemonic = "obscure short ride like renew palm inhale skate setup tiger purpose erode";
+var mnemonic = "derive father trash response way glow solid coffee damp exhibit escape vital";

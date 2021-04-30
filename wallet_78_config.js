@@ -1,1 +1,1 @@
-var mnemonic = "despair plate juice brain dirt pipe stem fan noble merge core tent";
+var mnemonic = "whisper tennis solar transfer live adapt develop tube have average subway jelly";

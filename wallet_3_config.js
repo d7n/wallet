@@ -1,1 +1,1 @@
-var mnemonic = "inmate junk have surprise juice gloom library deliver apple wife rely brush";
+var mnemonic = "express snake armed guide jump mixed crash liquid sleep ranch bitter finish";

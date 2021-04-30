@@ -1,1 +1,1 @@
-var mnemonic = "foot brief deny swallow rely upper famous zone magic engine diary main";
+var mnemonic = "movie extra right display cover key palace blossom process birth where business";

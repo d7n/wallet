@@ -1,1 +1,1 @@
-var mnemonic = "brief moment century favorite gaze wine rigid saddle cool divert polar omit";
+var mnemonic = "super alert deal knee hurdle evil tiny unlock network vacuum ankle define";

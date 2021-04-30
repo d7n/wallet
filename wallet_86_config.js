@@ -1,1 +1,1 @@
-var mnemonic = "destroy sister cactus mutual debate man uncle prepare evolve napkin auction settle";
+var mnemonic = "benefit cushion coach foot curious panic thumb ginger bridge word siren purity";

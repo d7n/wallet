@@ -1,1 +1,1 @@
-var mnemonic = "case next zero this noodle that genre bronze since must move laptop";
+var mnemonic = "bring dilemma ride melody foot squirrel axis unique guess panther wife above";

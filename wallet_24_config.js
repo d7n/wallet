@@ -1,1 +1,1 @@
-var mnemonic = "flush beach secret upgrade valid tomato theory home betray sample address trouble";
+var mnemonic = "idea lunch false swift brass matrix tiger danger asthma body transfer birth";

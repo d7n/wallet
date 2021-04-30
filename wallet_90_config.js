@@ -1,1 +1,1 @@
-var mnemonic = "expand private pupil decrease side wage caution purity enable draft weird weapon";
+var mnemonic = "capable tenant lab oppose domain naive easily usage fortune short nice flavor";

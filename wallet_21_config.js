@@ -1,1 +1,1 @@
-var mnemonic = "shift collect peasant master devote gun raccoon tape magic soldier prize eternal";
+var mnemonic = "panic little miss material cube suffer fashion ship distance boost above palm";

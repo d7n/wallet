@@ -1,1 +1,1 @@
-var mnemonic = "this around demand crawl sure keen provide pilot execute zero wheel noble";
+var mnemonic = "fork grief zone quit sail make spoon decade bus exile pig during";

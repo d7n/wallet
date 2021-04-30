@@ -1,1 +1,1 @@
-var mnemonic = "apology tourist random sample slender cannon thunder camera connect grass trade mutual";
+var mnemonic = "gesture enough library inherit family clinic speed size design liar section wine";

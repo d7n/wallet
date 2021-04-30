@@ -1,1 +1,1 @@
-var mnemonic = "trend uncover width happy join couple fashion bubble soft expose harsh ordinary";
+var mnemonic = "jar physical sausage wave wink fragile hollow whip festival ability path equip";

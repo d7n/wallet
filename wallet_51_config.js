@@ -1,1 +1,1 @@
-var mnemonic = "depth master erosion artefact night section monitor genuine public cinnamon aspect afford";
+var mnemonic = "donor pave code royal artefact love come shoulder toward dentist spirit observe";

@@ -1,1 +1,1 @@
-var mnemonic = "equip place bright fan receive monster high banana speak warrior green faculty";
+var mnemonic = "regret meadow clip axis game master detect describe olive fashion puzzle piece";

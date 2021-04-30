@@ -1,1 +1,1 @@
-var mnemonic = "brown six follow scare enable milk best coast spray flip success lens";
+var mnemonic = "judge sweet pattern copper amused east relief any slam kitten account modify";

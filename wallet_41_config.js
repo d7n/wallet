@@ -1,1 +1,1 @@
-var mnemonic = "barely cruise pulp quantum hunt silver thought dog timber obey law jaguar";
+var mnemonic = "member water mango recipe betray ripple cannon float speed crumble young nurse";

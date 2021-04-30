@@ -1,1 +1,1 @@
-var mnemonic = "caution ginger slice club seek castle pave source sentence purpose female rent";
+var mnemonic = "very door rather firm vivid during joy seat medal scissors cargo crop";

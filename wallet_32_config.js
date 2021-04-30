@@ -1,1 +1,1 @@
-var mnemonic = "trash trick carbon judge popular toe farm tiny element phone destroy regular";
+var mnemonic = "purchase link fluid useless material prevent order slight prepare arrive can faculty";

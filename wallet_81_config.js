@@ -1,1 +1,1 @@
-var mnemonic = "abuse weekend great virtual analyst verb design inject lizard captain flag plug";
+var mnemonic = "pull this aim razor angle easy purity valid tiny wire fatigue middle";

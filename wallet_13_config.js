@@ -1,1 +1,1 @@
-var mnemonic = "shrimp invest foam mother brain gallery beach sauce dish hidden language task";
+var mnemonic = "wide release scrub boost famous profit settle ritual gentle excess wedding nuclear";

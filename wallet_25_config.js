@@ -1,1 +1,1 @@
-var mnemonic = "toast frame airport prosper clerk winner story lion tooth bless gas best";
+var mnemonic = "sense domain room patch weird palace mirror hotel lunar suit bomb property";

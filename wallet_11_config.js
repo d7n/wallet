@@ -1,1 +1,1 @@
-var mnemonic = "attitude faith tomato tomorrow list seat waste polar injury quote brief state";
+var mnemonic = "curtain suffer kidney frown clever toilet similar emotion goddess drip when clog";

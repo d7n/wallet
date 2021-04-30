@@ -1,1 +1,1 @@
-var mnemonic = "pepper coffee little artist feel table eternal need despair faith worry doctor";
+var mnemonic = "fan melody zone rabbit aisle zone prosper destroy zebra warrior vanish spend";

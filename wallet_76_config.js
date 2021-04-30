@@ -1,1 +1,1 @@
-var mnemonic = "funny echo spend craft knee tissue wood august need renew buzz lab";
+var mnemonic = "problem shrug pulp slow fitness lens gym surround swallow push diesel require";

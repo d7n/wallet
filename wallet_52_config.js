@@ -1,1 +1,1 @@
-var mnemonic = "donor narrow plate ticket orphan floor dismiss organ pioneer voyage much float";
+var mnemonic = "step soldier spread poverty squirrel hazard over neutral history balance fun grunt";

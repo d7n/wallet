@@ -1,1 +1,1 @@
-var mnemonic = "donor plunge truth print gym city sword often ordinary push employ arena";
+var mnemonic = "mass where snake glare write note melt sniff truly clarify eyebrow reject";

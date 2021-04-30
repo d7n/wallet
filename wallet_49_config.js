@@ -1,1 +1,1 @@
-var mnemonic = "frozen direct learn lady boy dismiss accident dream step winter axis hawk";
+var mnemonic = "display crop autumn green husband exist conduct box drink belt chef half";

@@ -1,1 +1,1 @@
-var mnemonic = "repeat kiss pudding doll just mercy ridge shiver profit cool walnut hour";
+var mnemonic = "glare tennis pulse manage health spirit rare act hollow tired pottery truck";

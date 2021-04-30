@@ -1,1 +1,1 @@
-var mnemonic = "bean faith nut raise fit ghost bundle attract winter wash online fame";
+var mnemonic = "liquid syrup reopen over exist someone guide drip know joy verify diary";

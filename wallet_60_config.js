@@ -1,1 +1,1 @@
-var mnemonic = "joy asthma pause deposit mystery grid together laptop fetch cabbage public quality";
+var mnemonic = "carry movie cute nominee artwork spin correct need garage rough confirm network";

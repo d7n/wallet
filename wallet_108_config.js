@@ -1,1 +1,1 @@
-var mnemonic = "chronic various include push urban verb traffic mixture involve elegant panic shift";
+var mnemonic = "bubble copper fury stem crowd august simple infant canyon dad rally badge";

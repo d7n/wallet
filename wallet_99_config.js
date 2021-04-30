@@ -1,1 +1,1 @@
-var mnemonic = "anchor luggage noodle basic captain tape stairs banana village mask rib assume";
+var mnemonic = "reward law rabbit inner library believe cycle desert begin syrup basic balcony";

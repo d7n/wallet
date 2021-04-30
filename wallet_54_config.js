@@ -1,1 +1,1 @@
-var mnemonic = "robust junk force skin narrow matrix strategy indoor shrimp easily inherit wasp";
+var mnemonic = "bachelor brand wait limb ignore fly virus field joke abandon design fix";

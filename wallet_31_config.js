@@ -1,1 +1,1 @@
-var mnemonic = "age public leg boil lesson miss follow cream guess town segment slide";
+var mnemonic = "coil palm belt february clarify unfold portion property stock sunny bag hero";

@@ -1,1 +1,1 @@
-var mnemonic = "minimum squeeze gift alley ordinary maximum day pole only craft fancy model";
+var mnemonic = "uncle canal slide accident gloom possible cliff network uphold avoid champion lunch";

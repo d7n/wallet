@@ -1,1 +1,1 @@
-var mnemonic = "farm frost kangaroo pilot people amused obscure lion praise recycle tree arena";
+var mnemonic = "fox era juice bulk walk gossip number tip island citizen sniff primary";
