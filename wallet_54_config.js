@@ -1,1 +1,1 @@
-var mnemonic = "stock much tooth flash limit venture peace divorce access filter rain essence";
+var mnemonic = "push siege second repeat cliff stereo embark awesome city grant advice divert";

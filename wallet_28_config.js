@@ -1,1 +1,1 @@
-var mnemonic = "manage sorry copy kidney include hospital pencil chimney tool crater float hero";
+var mnemonic = "junk pulp any true inflict access total join inform crouch robot damage";

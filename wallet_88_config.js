@@ -1,1 +1,1 @@
-var mnemonic = "melody neglect among empty bleak call abandon staff loan lawsuit thought plunge";
+var mnemonic = "fame attitude speed barrel shed waste shy symptom disease movie hockey defy";

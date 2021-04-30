@@ -1,1 +1,1 @@
-var mnemonic = "urban slab harsh title ecology duck adult fatal absent supreme test round";
+var mnemonic = "taste cash congress snap satisfy cycle reveal tilt order casino crop basket";

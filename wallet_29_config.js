@@ -1,1 +1,1 @@
-var mnemonic = "open power cricket river edge armed now number case silly until video";
+var mnemonic = "artist wheat device immense group swallow gentle rich liberty wash east sweet";

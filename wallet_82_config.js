@@ -1,1 +1,1 @@
-var mnemonic = "someone boy offer obvious believe peanut firm spy trend corn like punch";
+var mnemonic = "trust supreme grace piece equip federal super blur mercy model wrong train";

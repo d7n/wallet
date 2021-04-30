@@ -1,1 +1,1 @@
-var mnemonic = "dream envelope unable raccoon lab affair illness impulse detect alpha neither awesome";
+var mnemonic = "rate this weapon system swift escape gold mean hint field busy keen";

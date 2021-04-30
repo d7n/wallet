@@ -1,1 +1,1 @@
-var mnemonic = "used elegant security impulse olive engine update eager mobile expect gather lunar";
+var mnemonic = "brick reward hope clerk vendor bundle culture twenty observe adapt neglect sing";

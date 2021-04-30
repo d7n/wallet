@@ -1,1 +1,1 @@
-var mnemonic = "market virus onion second copper dignity travel people edit laundry spare know";
+var mnemonic = "cactus alert slab screen involve live tape deliver cat hedgehog banana goose";

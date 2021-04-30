@@ -1,1 +1,1 @@
-var mnemonic = "file purity just segment captain summer token crater unaware evil maple miracle";
+var mnemonic = "evil reunion slow raise subject badge whale gorilla bleak manage hat blouse";

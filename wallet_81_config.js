@@ -1,1 +1,1 @@
-var mnemonic = "column exile spoon way volcano history capable east task join yard control";
+var mnemonic = "father empower hawk push quit risk dumb uphold cycle change web learn";

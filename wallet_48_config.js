@@ -1,1 +1,1 @@
-var mnemonic = "gate cousin ill film alert baby absent believe burst rabbit ethics badge";
+var mnemonic = "choice cabin train bamboo blush draw thrive build blossom olympic depend volcano";

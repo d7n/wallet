@@ -1,1 +1,1 @@
-var mnemonic = "enlist foot tool case label endorse abandon movie neglect whisper sure total";
+var mnemonic = "blur depth best quantum empty loan cannon sketch face scale private renew";

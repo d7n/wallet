@@ -1,1 +1,1 @@
-var mnemonic = "gesture poem donor speed matrix primary judge foam spell butter mesh twenty";
+var mnemonic = "mention admit insane bundle divert love seven flee amused upgrade april olive";

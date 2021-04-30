@@ -1,1 +1,1 @@
-var mnemonic = "skin spin fashion raw edit right angry peanut bridge crash coyote goose";
+var mnemonic = "dentist elder raw transfer smooth twice bunker eyebrow negative record truck lawn";

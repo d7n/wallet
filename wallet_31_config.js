@@ -1,1 +1,1 @@
-var mnemonic = "connect fuel sweet empty soccer frost toy shaft health lens illegal three";
+var mnemonic = "era course gasp quantum toss exit year joy humble interest oil pave";

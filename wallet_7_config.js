@@ -1,1 +1,1 @@
-var mnemonic = "avoid kitchen impulse reform regular grow appear rotate leader chapter life cigar";
+var mnemonic = "help viable bounce rail prison verify tackle drink tower auction number blood";

@@ -1,1 +1,1 @@
-var mnemonic = "stomach believe tragic appear hair pioneer blast update coil obscure coil bottom";
+var mnemonic = "slide hybrid coffee napkin choice sorry table become tourist depart quarter include";

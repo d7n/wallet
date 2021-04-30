@@ -1,1 +1,1 @@
-var mnemonic = "dutch faint noise aunt flash color away volume novel grid cup trial";
+var mnemonic = "east road topic parrot owner misery metal sad upgrade pipe sword error";

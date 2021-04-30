@@ -1,1 +1,1 @@
-var mnemonic = "narrow equal vacant simple ordinary scorpion club smooth rule close danger alert";
+var mnemonic = "exercise lamp sunset coral minimum gather shallow birth away depth enrich faith";

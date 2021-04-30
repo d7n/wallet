@@ -1,1 +1,1 @@
-var mnemonic = "wall chaos color wedding quick govern drop radio payment surround very credit";
+var mnemonic = "enrich antique equip fame area crop total candy wide balcony frost secret";

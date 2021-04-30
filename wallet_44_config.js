@@ -1,1 +1,1 @@
-var mnemonic = "disease brave local resist egg twice ball bleak parent safe salon found";
+var mnemonic = "donkey cat bleak flat that soft august glad seminar foil turkey inherit";

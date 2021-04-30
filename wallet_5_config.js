@@ -1,1 +1,1 @@
-var mnemonic = "flock sheriff energy hero purchase upgrade rude equip sock exit height scheme";
+var mnemonic = "put caution adult length actual paper naive sniff enemy obey leave powder";

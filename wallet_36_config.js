@@ -1,1 +1,1 @@
-var mnemonic = "badge wave era innocent amazing output area winner gain alpha decrease vehicle";
+var mnemonic = "mandate key dose like sniff donate ranch key tilt history else like";

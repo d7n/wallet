@@ -1,1 +1,1 @@
-var mnemonic = "salon trend carbon tube clap bunker under hero rigid museum couch orchard";
+var mnemonic = "run intact melt trade energy wet labor amazing park buyer planet bitter";

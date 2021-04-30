@@ -1,1 +1,1 @@
-var mnemonic = "olympic ask actor review mammal absent lawsuit caught neglect whisper truth skirt";
+var mnemonic = "squirrel woman sketch tent tortoise crazy filter melt motor female mansion final";

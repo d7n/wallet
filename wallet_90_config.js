@@ -1,1 +1,1 @@
-var mnemonic = "accident invite educate cushion frequent share peace devote relax later science garlic";
+var mnemonic = "undo clean ridge delay path inject egg during robot cage copy stumble";

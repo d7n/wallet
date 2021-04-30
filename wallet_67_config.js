@@ -1,1 +1,1 @@
-var mnemonic = "deny wall trumpet finger juice term bean quantum theme survey spawn pause";
+var mnemonic = "indoor gown proof step bird edge virus cash race review leg build";

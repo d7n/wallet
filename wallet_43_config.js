@@ -1,1 +1,1 @@
-var mnemonic = "exclude jar town cupboard rally plunge flower earn mimic sustain equal season";
+var mnemonic = "film trial include wheat hip hobby evil involve sport nut dumb victory";

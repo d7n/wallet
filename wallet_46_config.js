@@ -1,1 +1,1 @@
-var mnemonic = "duck quantum caught rate layer arrow theme robust tip industry float exclude";
+var mnemonic = "paper owner purchase slow heart include slender hat broken route pigeon nothing";

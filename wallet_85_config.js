@@ -1,1 +1,1 @@
-var mnemonic = "fresh mass abuse wine accident humor upset sadness mouse fiction middle provide";
+var mnemonic = "lucky attitude alter satoshi tilt estate report tube sick wonder maximum cat";

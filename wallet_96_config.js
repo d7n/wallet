@@ -1,1 +1,1 @@
-var mnemonic = "catch scatter garage dune found dad family claw any lumber struggle remain";
+var mnemonic = "finger wisdom brisk road frown amazing pull funny tiny trouble slight maze";

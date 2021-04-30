@@ -1,1 +1,1 @@
-var mnemonic = "secret finish milk sibling need confirm snake gown capital this subject enact";
+var mnemonic = "horse fruit carbon army escape diesel now cheap estate notable gossip boil";

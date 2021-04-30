@@ -1,1 +1,1 @@
-var mnemonic = "bullet bitter allow seven host bike detect jar cheese entire rubber critic";
+var mnemonic = "matrix lock siren lake gather brain witness enhance hockey swim relief write";

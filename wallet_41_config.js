@@ -1,1 +1,1 @@
-var mnemonic = "stem pattern step rival asthma paper pool federal share profit sting please";
+var mnemonic = "bag harsh wife palace town reform truly symptom offer slender fish wink";

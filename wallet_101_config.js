@@ -1,1 +1,1 @@
-var mnemonic = "dutch victory beyond spirit general output wise draft toward enforce across credit";
+var mnemonic = "flavor fragile vapor future lumber render pen sand wrist sail proof sniff";

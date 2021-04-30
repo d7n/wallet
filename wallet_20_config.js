@@ -1,1 +1,1 @@
-var mnemonic = "speak indicate pink abuse inch help impact omit evoke shell trip nothing";
+var mnemonic = "add special aisle firm shy crater orange veteran liberty term review early";

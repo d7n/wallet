@@ -1,1 +1,1 @@
-var mnemonic = "industry outside camp piece people palm rib purse source entire anger decrease";
+var mnemonic = "used master wild eagle license answer canoe gown leaf toy cabin sword";

@@ -1,1 +1,1 @@
-var mnemonic = "weekend phrase rebuild toddler theme race excess tomato chase major cost tree";
+var mnemonic = "empower raven mystery attract palace couple cannon silly culture drum fragile thing";

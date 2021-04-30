@@ -1,1 +1,1 @@
-var mnemonic = "grid erase strong month dust enable mean today false mind total stage";
+var mnemonic = "bread raccoon lonely hello tribe usage garlic split wagon bring basket lonely";

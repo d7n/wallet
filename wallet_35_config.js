@@ -1,1 +1,1 @@
-var mnemonic = "pigeon novel entire chicken tunnel dial harsh casino broom cost call ocean";
+var mnemonic = "dismiss slam topple claim clip decrease hammer spirit bridge found sun squeeze";

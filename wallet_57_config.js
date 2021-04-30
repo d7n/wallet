@@ -1,1 +1,1 @@
-var mnemonic = "honey honey obscure skate sauce tiny wagon guide blame upset dragon obtain";
+var mnemonic = "humble potato labor transfer tackle silk cereal ski toy nominee awkward they";

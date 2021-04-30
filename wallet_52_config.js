@@ -1,1 +1,1 @@
-var mnemonic = "oak pass ice join spell asset trust minute street million ring dwarf";
+var mnemonic = "unfair loyal dilemma whale permit cluster chapter fabric return modify shield core";

@@ -1,1 +1,1 @@
-var mnemonic = "share engage knee champion bunker defense amount grow solve hip balance stable";
+var mnemonic = "butter cancel hunt truth race eight desert tray raccoon young direct lobster";

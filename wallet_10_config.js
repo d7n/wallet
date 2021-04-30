@@ -1,1 +1,1 @@
-var mnemonic = "shove visual turn broken thank shadow ability jungle hurdle undo mirror cattle";
+var mnemonic = "tuna garbage female palm profit mushroom home ready sand win island dance";

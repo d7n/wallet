@@ -1,1 +1,1 @@
-var mnemonic = "afford corn moment cram author lab deliver motor above trumpet jazz nothing";
+var mnemonic = "derive person palace true language nephew virtual renew rain clean suit bullet";

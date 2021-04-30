@@ -1,1 +1,1 @@
-var mnemonic = "tower caution pair video business maximum tongue price clog three drama cross";
+var mnemonic = "enact tape blind measure water twenty host miracle execute impact success candy";

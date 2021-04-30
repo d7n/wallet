@@ -1,1 +1,1 @@
-var mnemonic = "worth oxygen upon infant latin turtle rookie liquid sister boss erupt trouble";
+var mnemonic = "tool nut eager receive fade evolve nurse velvet win put arrange mutual";

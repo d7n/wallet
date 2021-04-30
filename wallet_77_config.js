@@ -1,1 +1,1 @@
-var mnemonic = "goat letter dirt assist captain junior ring search debris glove blush number";
+var mnemonic = "vessel popular detail inner about shuffle pluck salute label seminar few lock";

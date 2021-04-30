@@ -1,1 +1,1 @@
-var mnemonic = "apology test diagram journey next wide just use design fetch stamp mind";
+var mnemonic = "point chat bar already pool name clerk school replace food choose pumpkin";

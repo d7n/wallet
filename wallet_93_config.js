@@ -1,1 +1,1 @@
-var mnemonic = "water primary before laundry urban click winner legend tissue snack film age";
+var mnemonic = "train minor mystery peanut afraid female pupil alien toast negative chapter snack";

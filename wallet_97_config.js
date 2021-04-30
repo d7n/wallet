@@ -1,1 +1,1 @@
-var mnemonic = "home split unknown hamster hockey bracket myth metal tide mosquito family century";
+var mnemonic = "permit demise river emerge bring reward toilet hybrid glide impose voice typical";

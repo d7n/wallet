@@ -1,1 +1,1 @@
-var mnemonic = "turkey gentle credit idle obey cruise loyal usual cactus uncle junk neglect";
+var mnemonic = "walnut enforce wave tunnel harvest rug toward island equip aware exit cliff";

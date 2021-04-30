@@ -1,1 +1,1 @@
-var mnemonic = "fit pattern solid kid stereo industry runway cactus virtual stumble hello wall";
+var mnemonic = "awake coconut taxi rose loop grief base human best badge shock convince";

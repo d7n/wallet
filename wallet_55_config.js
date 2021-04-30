@@ -1,1 +1,1 @@
-var mnemonic = "rebel dune noise like fruit denial smoke west mule gaze rapid nurse";
+var mnemonic = "crunch shiver casual author orbit diet second dinner short top dial feature";

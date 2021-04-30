@@ -1,1 +1,1 @@
-var mnemonic = "coin barrel already essay nut wine moon address half firm fringe leaf";
+var mnemonic = "drip differ cost bread charge help payment layer curve turn verb orchard";

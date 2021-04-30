@@ -1,1 +1,1 @@
-var mnemonic = "inhale man attend help rib pave settle team age rice pioneer rigid";
+var mnemonic = "motor fatal canal tenant suffer permit example crash tone cost faculty whip";

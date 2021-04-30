@@ -1,1 +1,1 @@
-var mnemonic = "square sphere eight correct jealous cousin print motion approve eyebrow deal novel";
+var mnemonic = "below pair flat enjoy nature agree clown client cage across basket life";

@@ -1,1 +1,1 @@
-var mnemonic = "doll barely unusual seat chest give diagram brisk win delay resource jealous";
+var mnemonic = "south impose innocent never curtain busy layer trouble light spoil animal adapt";

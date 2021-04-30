@@ -1,1 +1,1 @@
-var mnemonic = "horn before dignity robust garlic photo climb frame keen runway scare jaguar";
+var mnemonic = "view reunion violin consider water limb trial vast sunny steak fire visual";

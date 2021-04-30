@@ -1,1 +1,1 @@
-var mnemonic = "crouch tuna nation obtain ketchup cliff replace negative enrich undo piano umbrella";
+var mnemonic = "silk comfort marble snake pill simple best spin melt kidney ignore fiber";

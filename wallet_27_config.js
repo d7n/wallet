@@ -1,1 +1,1 @@
-var mnemonic = "autumn blouse enforce siege gravity giggle inhale nuclear crowd juice hint silk";
+var mnemonic = "mask gravity release sample draft oak adapt debris elegant enroll mosquito ceiling";

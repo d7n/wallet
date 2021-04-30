@@ -1,1 +1,1 @@
-var mnemonic = "violin pole exotic ensure embody rocket ostrich cupboard october snap extend hungry";
+var mnemonic = "tiger eight crumble fun circle achieve cactus relief warrior almost circle stairs";

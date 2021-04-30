@@ -1,1 +1,1 @@
-var mnemonic = "husband unaware acoustic mimic ship wild police dilemma stage puppy ripple labor";
+var mnemonic = "rebuild hole merry idea harbor like wall donor slight ripple canyon broken";

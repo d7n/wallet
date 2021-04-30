@@ -1,1 +1,1 @@
-var mnemonic = "crawl pretty keep pipe pistol atom miss jelly film boil vibrant tail";
+var mnemonic = "below steel inject view first carry cheese token hint use record future";

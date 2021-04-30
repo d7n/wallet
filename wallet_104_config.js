@@ -1,1 +1,1 @@
-var mnemonic = "quit funny nasty hurt inquiry essay turkey oil only vocal captain idea";
+var mnemonic = "girl follow abuse useless similar hour giggle brass hold crisp tiny magic";

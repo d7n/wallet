@@ -1,1 +1,1 @@
-var mnemonic = "choose employ whisper season pave year vague wonder object entry utility fun";
+var mnemonic = "decorate wise federal effort lens radar off initial young banana flip social";

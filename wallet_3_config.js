@@ -1,1 +1,1 @@
-var mnemonic = "disorder repeat piece tackle jar boy notice ridge double stomach hungry era";
+var mnemonic = "wash motion twenty champion civil cage post rhythm thought pact broom edge";

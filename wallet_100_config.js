@@ -1,1 +1,1 @@
-var mnemonic = "flee alien kiss father cannon feature extra there parade coral add detect";
+var mnemonic = "weasel paddle alter step giraffe also benefit rely erosion try trend shift";

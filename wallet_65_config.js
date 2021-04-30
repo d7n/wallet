@@ -1,1 +1,1 @@
-var mnemonic = "above dress tooth enact mixed affair goddess rug excite tape hybrid hero";
+var mnemonic = "possible solid label wire more divide order come predict lemon minor nice";

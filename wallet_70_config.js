@@ -1,1 +1,1 @@
-var mnemonic = "desert grow judge smile pencil misery body spy jazz fatigue track reopen";
+var mnemonic = "regular erase olive drink catalog melt essay dwarf thank soap rack retreat";

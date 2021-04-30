@@ -1,1 +1,1 @@
-var mnemonic = "library popular pen funny cabbage hip fossil culture metal muscle junk panda";
+var mnemonic = "era alcohol gorilla pill direct visit carbon best lock industry egg thumb";

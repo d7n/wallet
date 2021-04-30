@@ -1,1 +1,1 @@
-var mnemonic = "image ivory helmet zebra observe iron bargain east bone vehicle test leave";
+var mnemonic = "word choose ski need tide vehicle chair onion pluck deposit ridge bracket";

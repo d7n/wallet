@@ -1,1 +1,1 @@
-var mnemonic = "foam improve again fabric voyage unique stock jungle hire jelly shallow melt";
+var mnemonic = "keep radar prison clip stick arch public grow same multiply faculty antique";

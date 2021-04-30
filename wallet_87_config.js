@@ -1,1 +1,1 @@
-var mnemonic = "history nature skirt unit warrior anchor rebuild leg coyote fuel topic assume";
+var mnemonic = "rice section dynamic hammer physical smile bundle ranch rice emerge fall have";

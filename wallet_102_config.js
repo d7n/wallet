@@ -1,1 +1,1 @@
-var mnemonic = "daring exhibit rabbit occur order figure broccoli course below task patient raw";
+var mnemonic = "oxygen science depend ridge mansion seek boss tomato embrace leisure elder erase";

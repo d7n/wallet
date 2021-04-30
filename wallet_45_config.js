@@ -1,1 +1,1 @@
-var mnemonic = "chunk dismiss very suggest base sad donate spray universe exotic tray quarter";
+var mnemonic = "mesh chase lawn off town general surface program hood subway case travel";

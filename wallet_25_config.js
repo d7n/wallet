@@ -1,1 +1,1 @@
-var mnemonic = "onion anchor sing design uniform era donkey buzz vivid bulb captain turn";
+var mnemonic = "any garage keep hotel dish public abstract comic pet six exist home";

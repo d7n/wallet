@@ -1,1 +1,1 @@
-var mnemonic = "such neutral champion suffer unhappy flash hill super park hood eight orchard";
+var mnemonic = "upon seek alien insane crop magic asset dilemma glance vibrant shield joke";

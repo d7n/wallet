@@ -1,1 +1,1 @@
-var mnemonic = "ugly slogan surround negative sort analyst chef stable kiwi alpha frog brisk";
+var mnemonic = "onion crouch reopen horn entire soul market noise degree income fame erode";

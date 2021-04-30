@@ -1,1 +1,1 @@
-var mnemonic = "soon verb churn embark chronic fault soon keep mushroom couple retreat jelly";
+var mnemonic = "notable web march enrich monster vivid dinosaur balcony cage earn card fine";

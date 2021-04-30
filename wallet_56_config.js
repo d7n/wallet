@@ -1,1 +1,1 @@
-var mnemonic = "whisper word sword police hurdle reflect tuna wide fly fit vicious hat";
+var mnemonic = "stereo reject deal own boss agree zone draw image lend object marine";

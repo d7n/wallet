@@ -1,1 +1,1 @@
-var mnemonic = "tape pen blush march bid pottery write relief slab position embrace rice";
+var mnemonic = "section sight team party ready cannon battle pig toe route mammal follow";

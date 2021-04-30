@@ -1,1 +1,1 @@
-var mnemonic = "confirm essay tuna office laundry gaze next physical high hidden cloth used";
+var mnemonic = "neglect scout caught museum nuclear helmet buffalo drum dutch chase obvious over";

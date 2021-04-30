@@ -1,1 +1,1 @@
-var mnemonic = "planet behind wide ladder distance history doctor banner key tell iron cabin";
+var mnemonic = "mixture win deposit apart disagree bird prefer refuse crystal interest panda hotel";

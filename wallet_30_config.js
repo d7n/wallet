@@ -1,1 +1,1 @@
-var mnemonic = "crumble same metal quiz move mountain garage eye paper rice card filter";
+var mnemonic = "brown toss theme patch key circle follow curious anchor busy stove lazy";

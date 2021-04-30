@@ -1,1 +1,1 @@
-var mnemonic = "assume stand drip throw flush beauty nurse minor snake any virtual rich";
+var mnemonic = "royal guide good left tiger spider between child key exclude nest alarm";

@@ -1,1 +1,1 @@
-var mnemonic = "start dilemma badge suit dutch style army surprise bracket wolf depart soul";
+var mnemonic = "hammer transfer mechanic mansion dawn prevent near canyon galaxy mail water stone";
