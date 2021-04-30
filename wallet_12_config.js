@@ -1,1 +1,1 @@
-var mnemonic = "engage tiny desk bronze vast wrap salt garment giggle cycle random check";
+var mnemonic = "spatial hurdle adjust burger mass another canal cycle toy chicken dune praise";

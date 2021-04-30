@@ -1,1 +1,1 @@
-var mnemonic = "boost liberty kite family umbrella express drill border usual mystery below engage";
+var mnemonic = "hub hawk scorpion undo amazing velvet bike giggle pyramid frown radar position";

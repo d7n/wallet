@@ -1,1 +1,1 @@
-var mnemonic = "rapid object focus fresh ribbon security brief hurt omit oven alone moon";
+var mnemonic = "grape height senior apple rule worth vapor pink onion scout demise tool";

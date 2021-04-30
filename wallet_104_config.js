@@ -1,1 +1,1 @@
-var mnemonic = "antenna quantum lunar true ribbon wrist borrow carry civil genre aisle then";
+var mnemonic = "drama crash silent marriage demand merry hover local satoshi ghost evidence hen";

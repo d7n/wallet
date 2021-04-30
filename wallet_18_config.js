@@ -1,1 +1,1 @@
-var mnemonic = "city piano cost drift naive predict light napkin genre shy quarter tomorrow";
+var mnemonic = "save fold day bench fee client pelican power canal ill verb bicycle";

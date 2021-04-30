@@ -1,1 +1,1 @@
-var mnemonic = "fit glory fuel great cart hawk soon solid design gloom mobile sunny";
+var mnemonic = "model pumpkin net excite screen say cigar cousin expand giant lion rely";

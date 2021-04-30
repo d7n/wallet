@@ -1,1 +1,1 @@
-var mnemonic = "smoke must dumb scrap feel eyebrow cancel purchase invite library way price";
+var mnemonic = "tumble right render try quality live render gloom woman clown thrive morning";

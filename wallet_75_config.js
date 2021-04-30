@@ -1,1 +1,1 @@
-var mnemonic = "refuse iron remove cook border erupt vessel cheese mind car hero gossip";
+var mnemonic = "age private rookie invest thing simple captain essence spot gift zero jump";

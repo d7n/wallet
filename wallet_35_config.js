@@ -1,1 +1,1 @@
-var mnemonic = "object detect illegal rely fabric nut impact harsh dove march drip solid";
+var mnemonic = "reject leaf dutch relax ship repeat page behind gadget potato throw near";

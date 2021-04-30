@@ -1,1 +1,1 @@
-var mnemonic = "screen proof noble used toilet engage include iron usual nasty zebra screen";
+var mnemonic = "beef dilemma good myth law debate woman pretty short smile artist wasp";

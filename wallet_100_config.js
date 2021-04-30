@@ -1,1 +1,1 @@
-var mnemonic = "afford section stumble mammal early life gun indoor wrap unfold august stamp";
+var mnemonic = "upset benefit vapor shuffle miss kite meat frost work drink pudding seven";

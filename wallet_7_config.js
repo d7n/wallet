@@ -1,1 +1,1 @@
-var mnemonic = "ladder hood end unaware coach helmet useful clinic awkward super chat obtain";
+var mnemonic = "gold fox drastic wrestle nerve access royal session husband daughter remember suffer";

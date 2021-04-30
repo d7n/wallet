@@ -1,1 +1,1 @@
-var mnemonic = "pave inherit where kidney stereo cousin word mirror receive size nephew tourist";
+var mnemonic = "face venture garbage zoo curve debris track venue cube word mobile tobacco";

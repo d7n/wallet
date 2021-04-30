@@ -1,1 +1,1 @@
-var mnemonic = "wealth ripple creek rug chronic shock shrimp blur siege blur render razor";
+var mnemonic = "spring dream bulb eight wine cycle chicken young once dog gown river";

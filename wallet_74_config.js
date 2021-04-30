@@ -1,1 +1,1 @@
-var mnemonic = "noble broken across swallow rice crazy paper inmate captain indicate yard deny";
+var mnemonic = "source such beef toss radio rare prepare lunch buzz vicious century install";

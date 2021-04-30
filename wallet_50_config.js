@@ -1,1 +1,1 @@
-var mnemonic = "million artefact west edge club scale nut divert nothing endless offer copy";
+var mnemonic = "inside bunker zebra this inject cave story city pottery giraffe cook twice";

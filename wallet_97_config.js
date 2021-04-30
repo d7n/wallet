@@ -1,1 +1,1 @@
-var mnemonic = "program unit lava moon space sunset mean popular odor stable protect pet";
+var mnemonic = "demise poet fix hello resource shove endless online dove egg tumble tornado";

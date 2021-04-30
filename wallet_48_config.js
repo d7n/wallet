@@ -1,1 +1,1 @@
-var mnemonic = "unknown own gasp sock fame live nation guard derive argue demise click";
+var mnemonic = "addict few stadium train hedgehog pepper tuition liberty express obey chef current";

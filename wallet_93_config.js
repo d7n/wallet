@@ -1,1 +1,1 @@
-var mnemonic = "orphan gasp speak derive history adjust true motor keen noble mixture fossil";
+var mnemonic = "tone machine index rural again captain sibling artefact tail ask vicious valid";

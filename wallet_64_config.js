@@ -1,1 +1,1 @@
-var mnemonic = "better disorder ceiling theme cliff cash mean park actress half rally anxiety";
+var mnemonic = "one kit addict awful head major muscle conduct enrich sure ramp lonely";

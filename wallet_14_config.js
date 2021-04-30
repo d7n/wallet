@@ -1,1 +1,1 @@
-var mnemonic = "blossom seven exact iron birth garbage wrist gate agree mass magic plug";
+var mnemonic = "marriage three more flame horn ring mango foot length hen task cross";

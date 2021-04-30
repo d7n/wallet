@@ -1,1 +1,1 @@
-var mnemonic = "flush peace pitch scrub invite leisure lonely tragic trigger rescue nothing brick";
+var mnemonic = "element south that lawsuit ride mammal kit behave select ramp police click";

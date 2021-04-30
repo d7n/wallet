@@ -1,1 +1,1 @@
-var mnemonic = "situate aisle globe giant female moral cup boy alcohol seminar bottom lion";
+var mnemonic = "toilet purpose team used tip pave crawl success ribbon sphere sort lumber";

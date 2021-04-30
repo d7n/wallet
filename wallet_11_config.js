@@ -1,1 +1,1 @@
-var mnemonic = "just rent hazard void cart group tumble scene answer path accident inhale";
+var mnemonic = "system host drink coach monkey pulp public praise dentist path believe problem";

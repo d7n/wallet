@@ -1,1 +1,1 @@
-var mnemonic = "kidney comic success warfare shrimp ski near bag alpha switch turtle regular";
+var mnemonic = "unlock ghost point sunny save text shy patrol stem myself concert video";

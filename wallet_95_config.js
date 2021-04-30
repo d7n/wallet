@@ -1,1 +1,1 @@
-var mnemonic = "task fan whip parrot december stage oppose rose spin another inmate view";
+var mnemonic = "knock drift brown private first behave idle alcohol drift palm spare sun";

@@ -1,1 +1,1 @@
-var mnemonic = "must legend morning vague couch repeat cannon hard sausage keep arrow over";
+var mnemonic = "prison fiction outside deliver onion gap patrol exhibit claim uncle cost top";

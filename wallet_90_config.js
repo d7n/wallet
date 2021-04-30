@@ -1,1 +1,1 @@
-var mnemonic = "suit cheese dismiss share girl random mad harsh wisdom imitate inquiry inflict";
+var mnemonic = "usage auction rather when season snow pitch robot very future execute reveal";

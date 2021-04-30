@@ -1,1 +1,1 @@
-var mnemonic = "elbow garment angry trash neither gun guitar demand muscle travel speak intact";
+var mnemonic = "junk clinic various powder spin idea head auction depth wolf melody mimic";

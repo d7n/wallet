@@ -1,1 +1,1 @@
-var mnemonic = "cruise raccoon budget connect earth danger poet fix clinic chunk spawn cute";
+var mnemonic = "eight happy alpha caution armed speak rigid empower satoshi reunion globe label";

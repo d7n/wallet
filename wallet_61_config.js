@@ -1,1 +1,1 @@
-var mnemonic = "dash violin excess project team settle riot brief green knee half delay";
+var mnemonic = "sock proof situate kiss tank trash soap crazy feature diesel engine island";

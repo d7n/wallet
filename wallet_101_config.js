@@ -1,1 +1,1 @@
-var mnemonic = "antenna addict dog blouse vintage journey afford monster enjoy crunch manual hidden";
+var mnemonic = "tunnel diary spoon siege control safe coconut view bamboo coast museum drip";

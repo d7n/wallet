@@ -1,1 +1,1 @@
-var mnemonic = "juice muscle matter vendor grow film collect alter reopen carbon parent cancel";
+var mnemonic = "method cost shine lock actual glue shed bike excess sheriff fat deputy";

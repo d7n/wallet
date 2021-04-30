@@ -1,1 +1,1 @@
-var mnemonic = "fish opera enter erosion kitchen become change program enact ice bicycle spare";
+var mnemonic = "notable engine mass spike hint feed crucial tortoise sunset chair funny disease";

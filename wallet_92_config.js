@@ -1,1 +1,1 @@
-var mnemonic = "outdoor ring asthma asset world can clump require expand intact real tumble";
+var mnemonic = "primary source kid notable ready hotel cat receive boss onion elephant oyster";

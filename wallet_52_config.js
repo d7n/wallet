@@ -1,1 +1,1 @@
-var mnemonic = "save fringe sauce famous protect ready weekend wrap fun crater rural route";
+var mnemonic = "broken sad flock tomorrow flame marriage pull rebuild goose lumber various canal";

@@ -1,1 +1,1 @@
-var mnemonic = "vapor assume motion foster invite panther wool nurse apart flower claim tape";
+var mnemonic = "cabin next depart among apart arrest awesome unfold fuel pause head cute";

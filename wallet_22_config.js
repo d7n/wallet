@@ -1,1 +1,1 @@
-var mnemonic = "what wealth glare piece vivid crisp cool faint age boss jealous regular";
+var mnemonic = "decrease call dash economy table scale wash curtain cook uncover source mango";

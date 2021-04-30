@@ -1,1 +1,1 @@
-var mnemonic = "damp mosquito more over match hip improve tiny join luxury calm rescue";
+var mnemonic = "desk enforce such mobile throw owner cook neck increase history loud hen";

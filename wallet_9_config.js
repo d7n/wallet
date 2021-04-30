@@ -1,1 +1,1 @@
-var mnemonic = "plate install animal picnic donor notice fold duck shoot have canyon very";
+var mnemonic = "bunker scissors peanut this burst swallow gadget promote amateur faculty refuse ability";

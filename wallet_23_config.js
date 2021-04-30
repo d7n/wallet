@@ -1,1 +1,1 @@
-var mnemonic = "analyst swamp silk robot phrase robot concert submit pilot avoid industry secret";
+var mnemonic = "sight slide black open satisfy make option obtain crystal error school hard";

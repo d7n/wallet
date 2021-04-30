@@ -1,1 +1,1 @@
-var mnemonic = "auction guitar wage flee huge idea use mule pen vendor egg stadium";
+var mnemonic = "vendor clever card tuition layer column board history believe borrow spider robot";

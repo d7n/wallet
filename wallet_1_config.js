@@ -1,1 +1,1 @@
-var mnemonic = "camp assault example frost flee that hen comic impulse govern car metal";
+var mnemonic = "cargo hold art pig pepper chest scrap canal miracle lion furnace void";

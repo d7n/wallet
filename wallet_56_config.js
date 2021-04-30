@@ -1,1 +1,1 @@
-var mnemonic = "blind razor desk bulk swallow kind admit risk dial enhance bomb kind";
+var mnemonic = "depart attitude text vehicle reopen wrestle amount pizza front must bean fetch";

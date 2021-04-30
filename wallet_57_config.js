@@ -1,1 +1,1 @@
-var mnemonic = "silver pink vapor panic barely crew milk gasp clutch ordinary topic kidney";
+var mnemonic = "duck rebuild drum room summer frame believe mask viable boy sound outdoor";

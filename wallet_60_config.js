@@ -1,1 +1,1 @@
-var mnemonic = "code plastic scout surprise hungry siege village time reward smart debate pink";
+var mnemonic = "armor organ topic skate fox brown aunt nasty canvas waste program buffalo";

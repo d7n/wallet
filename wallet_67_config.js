@@ -1,1 +1,1 @@
-var mnemonic = "deposit shell favorite island electric dance truck eager vital habit unusual service";
+var mnemonic = "embody swear fuel cereal tornado earn race imitate enemy boss barely lottery";

@@ -1,1 +1,1 @@
-var mnemonic = "broccoli wet short turtle cool clip owner ski box edge birth brick";
+var mnemonic = "hood beach chair sense window once accident soccer globe roast neglect walk";

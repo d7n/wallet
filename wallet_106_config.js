@@ -1,1 +1,1 @@
-var mnemonic = "cat can educate learn student appear album object lab attend tree heavy";
+var mnemonic = "dentist bonus guard luxury depend crash lion tissue sport uniform mom hazard";

@@ -1,1 +1,1 @@
-var mnemonic = "ozone biology extra keep assume tunnel cycle run horse caught loud survey";
+var mnemonic = "abstract anxiety truck powder eyebrow elder spirit scorpion invite uphold network animal";

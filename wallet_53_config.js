@@ -1,1 +1,1 @@
-var mnemonic = "spike ridge spice equal good style vacant gentle lens fog ribbon thank";
+var mnemonic = "tip talent jelly income army denial sunny slam trim daring mass major";

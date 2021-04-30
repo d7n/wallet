@@ -1,1 +1,1 @@
-var mnemonic = "air force age dignity oval jeans empty atom reform damp grief dwarf";
+var mnemonic = "tongue blade wire ribbon ozone dry brother alien lyrics slogan employ what";

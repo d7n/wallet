@@ -1,1 +1,1 @@
-var mnemonic = "cactus rate keep bargain room lamp check chair castle tail denial mandate";
+var mnemonic = "brass motion regret pond crouch section level decide danger address submit race";

@@ -1,1 +1,1 @@
-var mnemonic = "foot artefact spin adjust version sad supreme lens popular dish library fabric";
+var mnemonic = "write win nominee spray genuine city divorce art exotic glass sudden expand";

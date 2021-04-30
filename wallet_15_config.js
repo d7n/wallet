@@ -1,1 +1,1 @@
-var mnemonic = "inside leaf antique curtain sword talk glide nasty blade remain cram jaguar";
+var mnemonic = "market idle title harvest switch veteran bright upper moral report trend table";

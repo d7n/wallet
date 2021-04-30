@@ -1,1 +1,1 @@
-var mnemonic = "various argue primary reopen slogan melody castle erosion symptom defense material movie";
+var mnemonic = "mixed fabric shed deal perfect sleep fade endless ostrich lobster pact disease";

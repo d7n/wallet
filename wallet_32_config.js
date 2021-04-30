@@ -1,1 +1,1 @@
-var mnemonic = "sentence shop inject boat later zero door blush remove essay slush normal";
+var mnemonic = "glide soccer success exchange coast accident pear because add moment mountain decade";

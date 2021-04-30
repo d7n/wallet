@@ -1,1 +1,1 @@
-var mnemonic = "attitude aware corn rotate shrimp flag chicken warm setup olympic slim unable";
+var mnemonic = "finger water weapon mutual wrap tennis critic object immense dance assault must";

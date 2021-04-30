@@ -1,1 +1,1 @@
-var mnemonic = "law calm scheme traffic eager minor mom guilt mystery copy hedgehog athlete";
+var mnemonic = "crop gap chalk enrich atom situate evolve symptom chaos repair adapt blind";

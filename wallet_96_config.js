@@ -1,1 +1,1 @@
-var mnemonic = "toast trigger treat twice furnace ridge tenant ring resemble piece dress giggle";
+var mnemonic = "dentist aunt skill three oval home ivory together clutch lounge floor office";

@@ -1,1 +1,1 @@
-var mnemonic = "liberty gun beach vault ramp cluster bacon brief concert lonely earn fan";
+var mnemonic = "uncle cruise melody annual comfort assist exist regular change vapor punch garment";

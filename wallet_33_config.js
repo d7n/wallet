@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit purpose cactus rookie border picnic comic library spin goddess often guilt";
+var mnemonic = "year dance practice half satoshi orient arctic flee tattoo fish text wait";

@@ -1,1 +1,1 @@
-var mnemonic = "banner lottery suggest hold rhythm shoe destroy water jump faculty love topic";
+var mnemonic = "rotate street noise sunny focus judge own patient isolate clarify type annual";

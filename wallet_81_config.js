@@ -1,1 +1,1 @@
-var mnemonic = "frozen industry before picture vendor fatal student captain letter venue remember path";
+var mnemonic = "push cherry there cream explain suspect winter math burst umbrella patrol child";

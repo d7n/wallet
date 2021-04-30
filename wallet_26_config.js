@@ -1,1 +1,1 @@
-var mnemonic = "table bronze pool rack program wish capable believe gift round wagon edit";
+var mnemonic = "owner glad begin kiss dentist asset infant clap price super vital expire";

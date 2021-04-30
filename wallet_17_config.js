@@ -1,1 +1,1 @@
-var mnemonic = "flight stereo cotton unusual atom slot wood speak model squirrel swallow kit";
+var mnemonic = "inch fame umbrella patrol payment moral shed panic maple action that zero";

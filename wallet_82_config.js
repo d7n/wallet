@@ -1,1 +1,1 @@
-var mnemonic = "quarter steak laundry level target trip hood bachelor pair shoot fork update";
+var mnemonic = "museum index minor invest subject output hill knock slot century jazz burger";

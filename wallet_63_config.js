@@ -1,1 +1,1 @@
-var mnemonic = "floor consider smooth dish humor friend fresh vendor sand athlete rescue school";
+var mnemonic = "glad isolate guitar chair ring drop fashion kick sunset holiday put window";

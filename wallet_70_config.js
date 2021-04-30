@@ -1,1 +1,1 @@
-var mnemonic = "seek powder orphan veteran flip liberty sweet hill dove crowd income member";
+var mnemonic = "river sniff task angle lunar deliver blind dilemma remain oppose congress garment";

@@ -1,1 +1,1 @@
-var mnemonic = "tortoise remain belt benefit prepare tone lounge disagree cook develop hospital blouse";
+var mnemonic = "exist frame pact long conduct moon inflict horror crane school world aim";

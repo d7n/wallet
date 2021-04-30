@@ -1,1 +1,1 @@
-var mnemonic = "dune floor screen fish nose local jungle industry memory junior that mobile";
+var mnemonic = "series eyebrow absurd mutual ceiling toast dad tray unit recycle burst bargain";

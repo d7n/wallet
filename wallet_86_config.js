@@ -1,1 +1,1 @@
-var mnemonic = "ski coil supreme magic broken pause panda budget add focus warm region";
+var mnemonic = "fruit prosper express bracket attract sail range apology battle major material donor";

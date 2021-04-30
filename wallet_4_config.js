@@ -1,1 +1,1 @@
-var mnemonic = "rule online tower auto just eternal champion push scheme sadness fabric before";
+var mnemonic = "stick orange jelly deposit topple game alley dad tired floor agent mosquito";

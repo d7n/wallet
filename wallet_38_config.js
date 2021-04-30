@@ -1,1 +1,1 @@
-var mnemonic = "soup scan lava wrestle wood hockey fiction lecture desert width menu sleep";
+var mnemonic = "hood spirit light note merit erupt write become alarm obscure domain open";

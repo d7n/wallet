@@ -1,1 +1,1 @@
-var mnemonic = "taste share that february opinion spell raise case make wealth hen sort";
+var mnemonic = "park uniform opinion lizard paddle crucial segment half pupil fiscal card pizza";

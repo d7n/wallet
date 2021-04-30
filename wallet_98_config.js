@@ -1,1 +1,1 @@
-var mnemonic = "scissors aspect liberty rug install easy slot enrich spider raw turkey silly";
+var mnemonic = "tide ticket work basic job churn razor upset crack below clay apple";

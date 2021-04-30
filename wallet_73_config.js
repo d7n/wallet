@@ -1,1 +1,1 @@
-var mnemonic = "donkey pattern travel position nephew fossil desert trim orange ripple knock alpha";
+var mnemonic = "bracket vague program argue proof elbow limit kangaroo frozen hockey roof memory";

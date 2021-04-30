@@ -1,1 +1,1 @@
-var mnemonic = "airport soda rally awake card erase town body stadium laptop sea rain";
+var mnemonic = "day project wrestle deer pause dinner involve stock candy shallow crucial crystal";

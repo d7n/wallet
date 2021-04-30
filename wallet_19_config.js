@@ -1,1 +1,1 @@
-var mnemonic = "expect tissue regular nut violin huge december proof idle stage doctor mass";
+var mnemonic = "chronic day swarm enrich entry ancient island grit spy cheese body scrap";

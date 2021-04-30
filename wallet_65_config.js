@@ -1,1 +1,1 @@
-var mnemonic = "orchard lecture essence second help budget very away marriage earn movie street";
+var mnemonic = "search goddess nose blouse foot warm ankle coral damage scout twin win";

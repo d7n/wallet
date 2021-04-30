@@ -1,1 +1,1 @@
-var mnemonic = "learn human walk head stand loan dog acid charge welcome term system";
+var mnemonic = "clay fox negative milk school volcano leader weather private thought stand club";

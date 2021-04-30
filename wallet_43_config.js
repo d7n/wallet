@@ -1,1 +1,1 @@
-var mnemonic = "rare scene essence mandate average cotton rude squirrel until process coin coconut";
+var mnemonic = "diagram dash cage any announce decade cancel history usual stone mad monster";

@@ -1,1 +1,1 @@
-var mnemonic = "arm fault raise siege suggest movie rail sheriff extend festival suggest hockey";
+var mnemonic = "loyal material middle decade symbol hill owner credit arrest surge village retire";

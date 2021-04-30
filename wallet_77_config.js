@@ -1,1 +1,1 @@
-var mnemonic = "tennis hero lobster worth gold brisk brown mushroom payment zebra game flock";
+var mnemonic = "seven leopard under ability push model cook assume snake gap write tongue";

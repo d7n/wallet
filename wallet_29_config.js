@@ -1,1 +1,1 @@
-var mnemonic = "area enable opera mention picnic truth execute fury athlete honey claim judge";
+var mnemonic = "retreat tooth observe usual mushroom twice collect leader fashion cereal cloth swear";

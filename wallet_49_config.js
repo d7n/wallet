@@ -1,1 +1,1 @@
-var mnemonic = "mixed voice favorite aspect work strike tribe stumble desert cruise evolve vintage";
+var mnemonic = "device loud outside saddle fun female increase corn smile follow replace cave";

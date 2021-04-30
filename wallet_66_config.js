@@ -1,1 +1,1 @@
-var mnemonic = "maple penalty odor core afford robot seek wish cupboard laugh pull prosper";
+var mnemonic = "devote spatial squeeze modify media jump kidney wear update economy credit exclude";
