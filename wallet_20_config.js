@@ -1,1 +1,1 @@
-var mnemonic = "gold shed tube fame cake board today sun endless regret brown rescue";
+var mnemonic = "bachelor eyebrow ripple scheme fish blush law zoo curious kiwi mother gather";

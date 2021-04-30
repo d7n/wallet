@@ -1,1 +1,1 @@
-var mnemonic = "differ girl decorate dish clay veteran hope scatter super end robot excuse";
+var mnemonic = "deer say entire pulp perfect junk lab rug fortune fix mother wife";

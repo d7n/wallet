@@ -1,1 +1,1 @@
-var mnemonic = "replace guard stone tornado wise eager always occur weasel joy disease rhythm";
+var mnemonic = "excuse expand topic myth leg crawl birth area feature attend home then";

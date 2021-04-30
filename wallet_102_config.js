@@ -1,1 +1,1 @@
-var mnemonic = "pride segment flower bitter wrong rely odor crisp book truly genre betray";
+var mnemonic = "surge across moral genius ski toast ill about loyal open habit shadow";

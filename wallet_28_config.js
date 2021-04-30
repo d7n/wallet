@@ -1,1 +1,1 @@
-var mnemonic = "harbor tip powder perfect inside picture bargain mask top stuff brush magic";
+var mnemonic = "decade fiction lens more rookie year excess tip orchard situate grid poem";

@@ -1,1 +1,1 @@
-var mnemonic = "pitch duty ivory life elephant dawn beef elder school shop beyond era";
+var mnemonic = "pupil venture mix rabbit battle they critic cluster thrive cover protect few";

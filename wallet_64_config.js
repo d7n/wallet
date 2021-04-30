@@ -1,1 +1,1 @@
-var mnemonic = "vibrant cotton patch share ocean damage half write pigeon chat police ozone";
+var mnemonic = "wedding maple loop cupboard fame gentle answer accuse poet sock motion conduct";

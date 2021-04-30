@@ -1,1 +1,1 @@
-var mnemonic = "lesson car trend mimic desk poet about gate consider leave else avocado";
+var mnemonic = "duck average vast volcano like isolate bone allow shrimp enrich enough worth";

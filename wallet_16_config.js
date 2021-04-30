@@ -1,1 +1,1 @@
-var mnemonic = "glimpse ancient rain gate confirm helmet cement forest glad eager dust grain";
+var mnemonic = "leg lonely settle social have kangaroo coin ahead return warfare junk index";

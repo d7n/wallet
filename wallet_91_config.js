@@ -1,1 +1,1 @@
-var mnemonic = "benefit adult believe impose glory awake coconut portion cousin arctic buddy problem";
+var mnemonic = "floor outdoor program gesture ridge album rhythm inflict pet apart final pride";

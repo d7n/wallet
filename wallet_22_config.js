@@ -1,1 +1,1 @@
-var mnemonic = "maid loyal wife move novel possible unaware few witness dash govern advice";
+var mnemonic = "horror funny until wet trim reject inflict dad shine bamboo discover hair";

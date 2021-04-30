@@ -1,1 +1,1 @@
-var mnemonic = "few fabric ozone can until license give resemble cruel toward borrow romance";
+var mnemonic = "game sword top shoot hint adapt clap gloom tail three disorder bus";

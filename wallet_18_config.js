@@ -1,1 +1,1 @@
-var mnemonic = "earn eagle night tomorrow visit surge monitor barrel fancy galaxy network prepare";
+var mnemonic = "undo denial orient common pudding broken tower drastic other shine advance pencil";

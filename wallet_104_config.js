@@ -1,1 +1,1 @@
-var mnemonic = "thank subject chest online mimic sketch actual apple bone trouble remain youth";
+var mnemonic = "pipe protect scout use north sunny leave square endless pattern immense tissue";

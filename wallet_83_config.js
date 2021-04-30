@@ -1,1 +1,1 @@
-var mnemonic = "fiction return idea meadow fan observe pave olympic chaos flip basic never";
+var mnemonic = "thunder galaxy access zoo egg loud result salon color floor bicycle execute";

@@ -1,1 +1,1 @@
-var mnemonic = "armor danger physical dilemma artwork icon use good have example damp type";
+var mnemonic = "disagree venture treat lens employ car run because blossom direct divorce burden";

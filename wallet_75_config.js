@@ -1,1 +1,1 @@
-var mnemonic = "latin runway leader sport ketchup dust pony charge pattern spring voyage render";
+var mnemonic = "aspect obtain ocean logic swap course tilt conduct theme casino inmate blind";

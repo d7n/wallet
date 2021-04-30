@@ -1,1 +1,1 @@
-var mnemonic = "kidney spawn hammer grunt sniff hero donor tone liar chaos inform village";
+var mnemonic = "dawn nest worry step reward envelope town loop betray eternal resource spare";

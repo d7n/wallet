@@ -1,1 +1,1 @@
-var mnemonic = "morning second type planet cushion thing post school current together uniform giraffe";
+var mnemonic = "flee canyon onion morning honey sadness bike item exhaust world vintage toilet";

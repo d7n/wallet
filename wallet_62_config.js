@@ -1,1 +1,1 @@
-var mnemonic = "deer moral hidden ordinary build wealth assist enough slender cloth utility combine";
+var mnemonic = "youth again upgrade school head swift alley poet uphold tower silver mushroom";

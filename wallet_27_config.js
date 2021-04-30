@@ -1,1 +1,1 @@
-var mnemonic = "husband until trial quarter liquid mammal cabbage brush stone order exit buyer";
+var mnemonic = "hip shiver famous crucial receive zone snap life doll mom grape timber";

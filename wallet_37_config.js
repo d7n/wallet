@@ -1,1 +1,1 @@
-var mnemonic = "popular work amateur attract buyer return method erupt cover evidence pulp clip";
+var mnemonic = "annual train elbow gravity banner citizen stove worry clump glare body claw";

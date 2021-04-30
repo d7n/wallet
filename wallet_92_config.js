@@ -1,1 +1,1 @@
-var mnemonic = "basket intact fortune cabin window veteran sadness play polar decade fancy yard";
+var mnemonic = "change such absent bike enroll pig view ankle dilemma obvious garbage carpet";

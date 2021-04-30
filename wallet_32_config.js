@@ -1,1 +1,1 @@
-var mnemonic = "hidden discover again pelican artefact nurse joke fish rigid donor easy breeze";
+var mnemonic = "hello snack magic harbor wild foam average lab vendor match hill cancel";

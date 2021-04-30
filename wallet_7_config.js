@@ -1,1 +1,1 @@
-var mnemonic = "world balance random shaft calm used wasp bus vague large ripple used";
+var mnemonic = "fuel angle rival erupt antique excess conduct awake once dawn leave coral";

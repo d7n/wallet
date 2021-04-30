@@ -1,1 +1,1 @@
-var mnemonic = "doll food salute rather shuffle frozen harsh snack weird flavor first almost";
+var mnemonic = "improve tenant awkward put grant misery liberty spring task rule bus render";

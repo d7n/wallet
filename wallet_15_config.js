@@ -1,1 +1,1 @@
-var mnemonic = "review practice whale critic number gorilla seven someone split much pet short";
+var mnemonic = "cactus drum penalty crunch bag rain sure nerve milk patch reopen canyon";

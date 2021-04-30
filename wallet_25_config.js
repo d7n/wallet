@@ -1,1 +1,1 @@
-var mnemonic = "law pledge crouch reason few rug dish craft kick vapor inch public";
+var mnemonic = "opinion happy setup flavor parade example ladder rigid adapt fancy jealous notable";

@@ -1,1 +1,1 @@
-var mnemonic = "pyramid thumb topic vocal size left strike wreck text service safe radio";
+var mnemonic = "occur vicious moral theme name cousin flat bridge shaft donate leopard host";

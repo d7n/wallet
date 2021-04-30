@@ -1,1 +1,1 @@
-var mnemonic = "review rough puzzle ethics essay endless put guard eye surround diet search";
+var mnemonic = "behave spell essence stereo depend palace argue split black exercise ivory office";

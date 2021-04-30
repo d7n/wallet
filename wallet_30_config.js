@@ -1,1 +1,1 @@
-var mnemonic = "speed skull lounge direct mimic three pen enough peasant best bean remind";
+var mnemonic = "bicycle web learn creek brush write bike jeans ready uncover female observe";

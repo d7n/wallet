@@ -1,1 +1,1 @@
-var mnemonic = "cactus swarm vital can erupt umbrella verify normal version victory nest use";
+var mnemonic = "trigger consider shield page wrong genius assist usage benefit cart exist bless";

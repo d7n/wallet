@@ -1,1 +1,1 @@
-var mnemonic = "coin fiscal flame area close glimpse stool sight once gold alien merry";
+var mnemonic = "knee equip fault jaguar point proof truth profit tail street obtain muffin";

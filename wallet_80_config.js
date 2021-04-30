@@ -1,1 +1,1 @@
-var mnemonic = "shock orange neck hotel peace state size image output snake thing horse";
+var mnemonic = "myth trade faculty friend melt drill trap swing squeeze birth drip toilet";

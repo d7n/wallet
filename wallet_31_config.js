@@ -1,1 +1,1 @@
-var mnemonic = "lesson bitter animal envelope tribe prevent runway usage marriage friend surface stage";
+var mnemonic = "weather top sword game jaguar skin slim task peace renew curious fire";

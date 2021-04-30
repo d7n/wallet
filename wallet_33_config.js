@@ -1,1 +1,1 @@
-var mnemonic = "skate cave scatter section any stomach false cereal sword various laugh vague";
+var mnemonic = "year quote setup later pony have camp gap theme bargain nuclear twelve";

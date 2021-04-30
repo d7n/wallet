@@ -1,1 +1,1 @@
-var mnemonic = "globe dismiss salt sting entry identify dismiss decorate derive wise always display";
+var mnemonic = "black hole toward group wreck soft elbow salute arrest genuine piece trial";

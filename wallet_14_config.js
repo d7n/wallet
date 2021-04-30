@@ -1,1 +1,1 @@
-var mnemonic = "club good tackle robot version adjust spring bounce arrow job nice beauty";
+var mnemonic = "aisle armor clever extra apology marriage like tribe impulse hour ability right";

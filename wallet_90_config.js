@@ -1,1 +1,1 @@
-var mnemonic = "valve holiday dutch match follow insect tomato draft window shadow time kitchen";
+var mnemonic = "dance hello century fiscal speak spring panel fiscal noble amused act core";

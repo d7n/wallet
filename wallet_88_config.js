@@ -1,1 +1,1 @@
-var mnemonic = "laugh leisure shield actress slow tired dish observe kind cool child zebra";
+var mnemonic = "harsh gadget close inherit abandon planet foot cotton culture autumn brisk often";

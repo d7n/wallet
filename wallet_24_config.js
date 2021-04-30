@@ -1,1 +1,1 @@
-var mnemonic = "popular vanish toy romance trick judge hotel item insect canyon drama glow";
+var mnemonic = "poem room top goddess beef decade ecology ship obey patient stage sun";

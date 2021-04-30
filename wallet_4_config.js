@@ -1,1 +1,1 @@
-var mnemonic = "pretty kidney judge hold figure cancel century jump reform machine core trash";
+var mnemonic = "blanket riot grocery flag wagon dose web choice tissue woman cram marriage";

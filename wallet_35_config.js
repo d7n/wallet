@@ -1,1 +1,1 @@
-var mnemonic = "source liar glove siren fun power broccoli wet voice flee walnut faint";
+var mnemonic = "bubble wink foam monkey apology category hub air satoshi cradle omit era";

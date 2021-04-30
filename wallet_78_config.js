@@ -1,1 +1,1 @@
-var mnemonic = "jaguar olive kangaroo virus toilet dress purchase party pass west field thunder";
+var mnemonic = "immune bounce garden shy prevent champion merry olympic violin decade fragile goose";

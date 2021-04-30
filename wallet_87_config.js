@@ -1,1 +1,1 @@
-var mnemonic = "manage weekend alone mercy energy wave winter creek asset slam muffin mystery";
+var mnemonic = "office must couch warrior tongue resource power rare embody balance flip refuse";

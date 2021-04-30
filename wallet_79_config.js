@@ -1,1 +1,1 @@
-var mnemonic = "snap update often glare license giggle awful swift advice grunt siren choice";
+var mnemonic = "woman pig catalog destroy play trick another act dwarf hurry ghost grunt";

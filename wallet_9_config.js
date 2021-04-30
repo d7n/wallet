@@ -1,1 +1,1 @@
-var mnemonic = "science ostrich start nut upon excite flavor memory blind member solution scan";
+var mnemonic = "rack grit range divide curtain marriage vicious lunar shadow tenant ranch olive";

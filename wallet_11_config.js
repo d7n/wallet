@@ -1,1 +1,1 @@
-var mnemonic = "divide connect beauty large melt feature play tumble damage raven gaze urban";
+var mnemonic = "vague banner census fiber tortoise flavor long boy spike bulk hamster devote";

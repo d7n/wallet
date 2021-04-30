@@ -1,1 +1,1 @@
-var mnemonic = "arch flag glove response around switch time brief upper fix donkey venue";
+var mnemonic = "cigar flock caution photo room donor maximum twenty relax fuel like oil";

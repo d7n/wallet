@@ -1,1 +1,1 @@
-var mnemonic = "lecture please multiply zebra lizard green penalty table bunker glide hobby obscure";
+var mnemonic = "maximum during ankle diamond term ice point boss fabric idle fetch divorce";

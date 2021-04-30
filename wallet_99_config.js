@@ -1,1 +1,1 @@
-var mnemonic = "wild saddle good gentle spray cry aware balance crawl supreme youth say";
+var mnemonic = "kid system sauce purse still sad critic oval athlete seek congress animal";

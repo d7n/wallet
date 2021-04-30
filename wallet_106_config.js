@@ -1,1 +1,1 @@
-var mnemonic = "rather box assist capital dentist until glass seven blame modify wall salad";
+var mnemonic = "van armed comfort believe biology rely predict drift coral security post blast";

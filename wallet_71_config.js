@@ -1,1 +1,1 @@
-var mnemonic = "spike slide canal flavor proof shove mix spoon place style special dinner";
+var mnemonic = "action rather autumn wait decrease jazz feed ramp glad car seat kid";

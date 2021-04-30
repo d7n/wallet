@@ -1,1 +1,1 @@
-var mnemonic = "also mixed fever rotate whisper case pulse flag hour donor auto muffin";
+var mnemonic = "hole original abuse kidney wise blanket cancel inherit survey erosion humor bus";

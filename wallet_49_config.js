@@ -1,1 +1,1 @@
-var mnemonic = "muscle picnic used require flame pass test flash chase soda chunk license";
+var mnemonic = "alone train move among unique blame hire box frame derive purpose student";

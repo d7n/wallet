@@ -1,1 +1,1 @@
-var mnemonic = "chef apology plug fold mass detail train reopen region ladder gesture found";
+var mnemonic = "enable owner chase total agent track isolate demand metal rubber before girl";

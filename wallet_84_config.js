@@ -1,1 +1,1 @@
-var mnemonic = "employ habit donate bulb glory aisle fox dismiss destroy gap gas sand";
+var mnemonic = "crumble steak produce inch onion patch rubber remain sponsor caution color emerge";

@@ -1,1 +1,1 @@
-var mnemonic = "hurdle tuna pelican faith cup wide broom hotel utility they village ostrich";
+var mnemonic = "draw bonus toast pause result nest arrest fuel gun bring ready crucial";

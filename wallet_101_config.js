@@ -1,1 +1,1 @@
-var mnemonic = "soul voice hair cheese crane judge chimney volume bless unveil hedgehog angry";
+var mnemonic = "level knee assume gesture day wrestle acquire step kidney blouse quarter bicycle";

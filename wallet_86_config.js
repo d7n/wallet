@@ -1,1 +1,1 @@
-var mnemonic = "eager label tilt scare puzzle blanket hair april huge onion priority stool";
+var mnemonic = "person century bus side mixture capable found erase grunt tail unit slim";

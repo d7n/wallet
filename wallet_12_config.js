@@ -1,1 +1,1 @@
-var mnemonic = "field before gold case hockey knock couple method urge tone digital power";
+var mnemonic = "rude example ladder risk over stereo pumpkin novel rival achieve ready quiz";

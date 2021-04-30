@@ -1,1 +1,1 @@
-var mnemonic = "sweet gossip expose cabbage blind body october feed sound alcohol nation trash";
+var mnemonic = "clever quality congress eager under must ensure pupil host prepare knife abuse";

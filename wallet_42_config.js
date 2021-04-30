@@ -1,1 +1,1 @@
-var mnemonic = "blanket execute panda doctor disorder achieve balance neutral joke absent foster ski";
+var mnemonic = "repair stairs shoot across plunge attack usage mixed guitar roof digital essence";

@@ -1,1 +1,1 @@
-var mnemonic = "swing expand raccoon thing lottery task filter circle dawn fortune river busy";
+var mnemonic = "double auto another scale vessel enough tiny phrase music announce pattern tone";

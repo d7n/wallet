@@ -1,1 +1,1 @@
-var mnemonic = "belt onion merry series family minute few general uncover invite front neck";
+var mnemonic = "coast top keen worth suit swallow usage vapor street salute fabric dinosaur";

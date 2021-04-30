@@ -1,1 +1,1 @@
-var mnemonic = "churn always mammal pause retire punch frame price police father venue clever";
+var mnemonic = "girl teach work length cruel broken crop marriage charge market wealth improve";

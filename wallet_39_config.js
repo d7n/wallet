@@ -1,1 +1,1 @@
-var mnemonic = "gain promote eye clerk vital night oven seminar blast major enact gym";
+var mnemonic = "wrestle length amused twice hollow trap rookie major essence giant outer twenty";

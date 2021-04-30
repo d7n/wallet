@@ -1,1 +1,1 @@
-var mnemonic = "inquiry tribe glove screen depth demise adult resemble wonder sock boss vibrant";
+var mnemonic = "thank coast coil enter cheap analyst fox sport tower cancel impact denial";

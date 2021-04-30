@@ -1,1 +1,1 @@
-var mnemonic = "display error easy naive beach odor pledge call pair mammal brain cabin";
+var mnemonic = "spawn perfect entire crack exotic lawsuit angry tonight gym bargain arch trouble";

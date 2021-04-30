@@ -1,1 +1,1 @@
-var mnemonic = "believe stumble choose rude bullet remember fortune bless any cluster cage resist";
+var mnemonic = "response lesson fly city panther olive filter bonus dumb name visual truly";

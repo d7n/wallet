@@ -1,1 +1,1 @@
-var mnemonic = "bean october panther off tower rule room lemon bright outside finger layer";
+var mnemonic = "wrestle wash muscle kick orient tumble talk smart build shaft grid kidney";

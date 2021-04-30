@@ -1,1 +1,1 @@
-var mnemonic = "debate uncover crime bulb camp victory visual crawl display pencil point wish";
+var mnemonic = "convince dance quarter crack cherry room increase parade chaos pig plate cannon";

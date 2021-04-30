@@ -1,1 +1,1 @@
-var mnemonic = "physical shoe spray assist front giraffe turtle inherit unique visa stable fever";
+var mnemonic = "renew good radar border hard wear expose hungry crunch dash clinic arena";

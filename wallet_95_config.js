@@ -1,1 +1,1 @@
-var mnemonic = "useful canoe food dinosaur arrive nut domain twist area vendor stay sand";
+var mnemonic = "mystery okay elevator ability oak gravity garlic wave evidence exist dream twin";

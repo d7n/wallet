@@ -1,1 +1,1 @@
-var mnemonic = "machine differ unable venture insect carbon nuclear unique hard warrior hobby load";
+var mnemonic = "glove loud page strategy edge special female one student ribbon wash december";

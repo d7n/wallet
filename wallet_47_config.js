@@ -1,1 +1,1 @@
-var mnemonic = "ski meat hockey dose turn leave want miss what enhance camp beauty";
+var mnemonic = "virus useful nominee wink exchange device they obvious impulse language special file";

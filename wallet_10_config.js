@@ -1,1 +1,1 @@
-var mnemonic = "since have wise plug blade palm build loyal swamp knife wrong ability";
+var mnemonic = "damage under chief purse flip tray come fall adult omit vicious dentist";

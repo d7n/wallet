@@ -1,1 +1,1 @@
-var mnemonic = "pretty tail zone miss shy erosion glue pet shrimp social blast garbage";
+var mnemonic = "soda two load day outdoor gun muscle debate ask surround aspect nominee";

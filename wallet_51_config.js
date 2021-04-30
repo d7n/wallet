@@ -1,1 +1,1 @@
-var mnemonic = "walk prosper oak ill upset cinnamon gloom typical leg abuse uniform call";
+var mnemonic = "know glass gallery mad guitar space sustain trap refuse rifle fossil speed";

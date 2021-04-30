@@ -1,1 +1,1 @@
-var mnemonic = "trumpet join clinic virtual cushion word tube carry ostrich mobile payment disagree";
+var mnemonic = "enjoy correct liquid rely link lottery dizzy draft final thunder welcome sight";

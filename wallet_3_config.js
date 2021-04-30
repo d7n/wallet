@@ -1,1 +1,1 @@
-var mnemonic = "defy silent smooth aerobic will churn come strategy sight add detail life";
+var mnemonic = "express kick ignore fame pool position priority talent hybrid hair stick marine";

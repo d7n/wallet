@@ -1,1 +1,1 @@
-var mnemonic = "lunch soap local leave main utility gauge tiny mixture gap rebuild heavy";
+var mnemonic = "sport meadow fog drum head future cigar recipe raise cage essence negative";

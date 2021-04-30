@@ -1,1 +1,1 @@
-var mnemonic = "popular shift just else board garden garlic virus motor orange auto fancy";
+var mnemonic = "power memory spice input bird borrow clerk fork manual wagon leader width";

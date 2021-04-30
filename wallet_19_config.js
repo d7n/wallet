@@ -1,1 +1,1 @@
-var mnemonic = "endless judge biology response appear buffalo day cattle stand fire pepper type";
+var mnemonic = "shadow cliff still height walnut mountain amazing label add leg market common";

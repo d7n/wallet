@@ -1,1 +1,1 @@
-var mnemonic = "kiwi violin sign address transfer powder scheme diet news target boss tomorrow";
+var mnemonic = "wait wave first boring layer bacon junk fabric inner amazing useless pupil";

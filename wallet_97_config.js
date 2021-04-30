@@ -1,1 +1,1 @@
-var mnemonic = "ill dawn diamond guess occur fashion state inflict silly story popular seek";
+var mnemonic = "clown crawl person tragic include actual memory rookie egg innocent husband wise";
