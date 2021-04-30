@@ -1,1 +1,1 @@
-var mnemonic = "repeat law develop property size edit engine describe angle income fossil caught";
+var mnemonic = "resist valve auto trial chef convince obscure weather decrease there man pride";

@@ -1,1 +1,1 @@
-var mnemonic = "cover artist candy lyrics tilt mean town sheriff endless pride seed off";
+var mnemonic = "one whip assault ensure leaf height merit hammer diary bring where symbol";

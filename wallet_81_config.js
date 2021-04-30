@@ -1,1 +1,1 @@
-var mnemonic = "goat choose ball pipe curious fall athlete neither curtain retire stem gadget";
+var mnemonic = "pattern intact diamond hundred rent crouch boy bamboo remind cycle cruel wing";

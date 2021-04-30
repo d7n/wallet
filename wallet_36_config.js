@@ -1,1 +1,1 @@
-var mnemonic = "staff census immense asset better else kid dial song erosion raccoon feed";
+var mnemonic = "stone laundry unfair prosper vendor remain fit genius brisk find earth idea";

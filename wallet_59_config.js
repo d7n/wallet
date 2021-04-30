@@ -1,1 +1,1 @@
-var mnemonic = "ticket slot fall way laundry pride wonder muscle rookie dragon net grief";
+var mnemonic = "minute horse humble hundred column online loud river mom exhaust bean leopard";

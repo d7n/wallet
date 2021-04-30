@@ -1,1 +1,1 @@
-var mnemonic = "dirt firm peanut lend lonely soft vacuum portion island cancel road oxygen";
+var mnemonic = "large unique acoustic charge skull stereo travel onion design surround tattoo defense";

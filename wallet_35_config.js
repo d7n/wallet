@@ -1,1 +1,1 @@
-var mnemonic = "inherit canyon immense addict borrow bar bone infant flip camera tree tired";
+var mnemonic = "test keep erupt because strike message flight balance banner solid elite input";

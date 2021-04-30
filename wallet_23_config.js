@@ -1,1 +1,1 @@
-var mnemonic = "ginger game drift tip recipe dry neutral what orchard identify nerve stomach";
+var mnemonic = "ski blanket yard dress define mom appear bargain tone path soldier destroy";

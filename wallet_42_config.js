@@ -1,1 +1,1 @@
-var mnemonic = "crime trial between arrive pet base letter firm nest program junk rally";
+var mnemonic = "north spatial chaos desk range govern nature spend behave gather fatigue defy";

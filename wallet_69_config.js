@@ -1,1 +1,1 @@
-var mnemonic = "harbor goddess kind merge mimic race problem raven strategy orchard junk antenna";
+var mnemonic = "equip language fiction wear talk punch fringe sight toy enact meadow spirit";

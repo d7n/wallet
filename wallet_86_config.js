@@ -1,1 +1,1 @@
-var mnemonic = "toilet chuckle puppy sweet script shift able clown example area track wealth";
+var mnemonic = "object rude mask night pepper shoe boring foam horse cousin cheese penalty";

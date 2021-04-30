@@ -1,1 +1,1 @@
-var mnemonic = "accident pattern ribbon smile salon area only oil corn system giggle verb";
+var mnemonic = "bundle hint runway early forum joke pretty adult correct educate correct vessel";

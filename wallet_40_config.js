@@ -1,1 +1,1 @@
-var mnemonic = "sister train social actual verb grit idle state grass open solution era";
+var mnemonic = "angle early siren strike lab embrace very reward bottom net key three";

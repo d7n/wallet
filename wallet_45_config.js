@@ -1,1 +1,1 @@
-var mnemonic = "woman acoustic sea panic daughter viable twenty upgrade tortoise owner depend vibrant";
+var mnemonic = "federal marble work inspire satoshi exhaust night into believe stool flame pull";

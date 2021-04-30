@@ -1,1 +1,1 @@
-var mnemonic = "slim always special merit loyal gas ability program sample menu april carpet";
+var mnemonic = "they tilt awake bar fiscal pony round remind round torch galaxy course";

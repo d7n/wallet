@@ -1,1 +1,1 @@
-var mnemonic = "one category goddess edge useful initial opera conduct charge slim edge gloom";
+var mnemonic = "cancel strategy engine toss raccoon cactus puppy seat disagree tube wreck lounge";

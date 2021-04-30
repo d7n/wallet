@@ -1,1 +1,1 @@
-var mnemonic = "describe payment sister rude garbage era ship patch sister pause danger purpose";
+var mnemonic = "annual castle coin churn vacuum viable tag chalk hurt smooth rib fetch";

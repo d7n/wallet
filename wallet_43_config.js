@@ -1,1 +1,1 @@
-var mnemonic = "own rescue miracle random job maple hedgehog outdoor mail peace suffer car";
+var mnemonic = "visual hood magnet police success limit way town execute loud reward annual";

@@ -1,1 +1,1 @@
-var mnemonic = "practice art false puzzle execute virus journey senior moment bag label tell";
+var mnemonic = "slab upon bracket life side verify huge name stone lock neutral exercise";

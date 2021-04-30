@@ -1,1 +1,1 @@
-var mnemonic = "very balcony funny true picnic merit ski bounce ticket recall private addict";
+var mnemonic = "gauge future diagram palm eternal wonder ice box harsh vehicle pulse shy";

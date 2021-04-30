@@ -1,1 +1,1 @@
-var mnemonic = "morning fat boring panda skull option month circle pact shadow immune absent";
+var mnemonic = "output search become board test post foot copy actress swing cook edit";

@@ -1,1 +1,1 @@
-var mnemonic = "jeans rubber network addict luggage antique arrive nasty interest hill blood agree";
+var mnemonic = "genius artist luxury disorder animal loyal exotic air tuna short artwork six";

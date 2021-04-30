@@ -1,1 +1,1 @@
-var mnemonic = "agent knife spy since economy uniform enroll van rule board bitter like";
+var mnemonic = "man utility ugly cabin funny unique help field rapid vehicle rubber video";

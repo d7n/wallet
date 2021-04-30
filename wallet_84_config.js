@@ -1,1 +1,1 @@
-var mnemonic = "nephew sample armed invite aunt abandon best shell wolf pilot smooth arena";
+var mnemonic = "fade peace order case property illegal host dignity vacuum river quick armor";

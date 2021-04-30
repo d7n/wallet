@@ -1,1 +1,1 @@
-var mnemonic = "envelope question merry issue finger bounce curve play like escape snap flame";
+var mnemonic = "merry saddle evidence guard whip message glass minimum dice style slide session";

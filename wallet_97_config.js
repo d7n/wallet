@@ -1,1 +1,1 @@
-var mnemonic = "sadness horse social flat ocean undo combine rice captain learn connect beyond";
+var mnemonic = "sketch bracket carpet rotate select time apart rice frame off sword smile";

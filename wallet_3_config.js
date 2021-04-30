@@ -1,1 +1,1 @@
-var mnemonic = "fruit tuition kingdom beach aspect guilt donkey tray lawn over inside naive";
+var mnemonic = "device write pet brass funny blade town emotion state worry absent flash";

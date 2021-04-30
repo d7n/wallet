@@ -1,1 +1,1 @@
-var mnemonic = "result zoo arena curtain more attend private ability version olive more salute";
+var mnemonic = "street relief collect shield joy session tribe apology sight market frozen idle";

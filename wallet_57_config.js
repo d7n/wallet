@@ -1,1 +1,1 @@
-var mnemonic = "glow resource join hello forum noodle trim project wonder unable kite hurdle";
+var mnemonic = "prison marble potato grass dolphin armor viable convince spread increase shoe rebuild";

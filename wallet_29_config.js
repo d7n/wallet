@@ -1,1 +1,1 @@
-var mnemonic = "victory dog language nerve tobacco salad estate rich panic seminar track quality";
+var mnemonic = "among manage asset domain spread answer subway whip size spoon judge valve";

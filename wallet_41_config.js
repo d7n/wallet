@@ -1,1 +1,1 @@
-var mnemonic = "canyon parrot bag dad script silent sustain puppy sleep curious poem dynamic";
+var mnemonic = "mouse decorate stamp hood sample entry huge nation skill achieve bread news";

@@ -1,1 +1,1 @@
-var mnemonic = "tattoo antique salon lounge advice vintage liar palace valid report witness tiger";
+var mnemonic = "hard empty tube retreat green involve split cupboard cost dress fade sudden";

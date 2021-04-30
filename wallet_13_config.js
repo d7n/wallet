@@ -1,1 +1,1 @@
-var mnemonic = "prefer slide correct neutral sauce invest exchange network soul aunt walnut mass";
+var mnemonic = "usage merge rather blouse machine pause during mobile warfare damp menu now";

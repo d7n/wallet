@@ -1,1 +1,1 @@
-var mnemonic = "wall tomato local sadness license brave era vivid memory iron floor trumpet";
+var mnemonic = "knee forest resist quote wonder pottery sniff finish stick pride brown beef";

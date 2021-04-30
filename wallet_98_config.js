@@ -1,1 +1,1 @@
-var mnemonic = "roast utility border prevent unit twist subway giggle toddler adult announce spike";
+var mnemonic = "fun build video glare embark fade library slight fiction adjust crunch submit";

@@ -1,1 +1,1 @@
-var mnemonic = "smoke immense tape paddle breeze under grab entire train panda hundred label";
+var mnemonic = "nose more measure mad cancel debate alone flavor winner online sick fragile";

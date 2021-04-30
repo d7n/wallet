@@ -1,1 +1,1 @@
-var mnemonic = "hair choose about there case husband devote zebra horn endorse slow mountain";
+var mnemonic = "legend canyon cross car math tag nest basket teach seminar eagle witness";

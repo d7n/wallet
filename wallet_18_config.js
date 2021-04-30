@@ -1,1 +1,1 @@
-var mnemonic = "exile pretty wash plug tilt cabin situate pave express very visa series";
+var mnemonic = "position youth depart kite crouch text notable long kite margin diary dream";

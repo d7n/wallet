@@ -1,1 +1,1 @@
-var mnemonic = "budget danger liberty accuse globe smart pond sunny bag warrior chicken police";
+var mnemonic = "fiction victory casual rate forum dinner poet icon giant comic glance cream";

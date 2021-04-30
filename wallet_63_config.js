@@ -1,1 +1,1 @@
-var mnemonic = "ceiling beef resource relax inform time mutual spirit corn infant food adapt";
+var mnemonic = "shy picture diary seminar tool rocket swap share flight simple upgrade eye";

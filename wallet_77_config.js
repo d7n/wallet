@@ -1,1 +1,1 @@
-var mnemonic = "nose flash thing portion output control burst subway throw air runway fine";
+var mnemonic = "leisure fee clock venture action doctor artwork search crumble topic october okay";

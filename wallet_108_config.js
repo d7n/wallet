@@ -1,1 +1,1 @@
-var mnemonic = "deliver cute crop gesture soul dog absent since pumpkin title during blame";
+var mnemonic = "purchase melody squeeze lunch jelly force tool nose spot correct critic turtle";

@@ -1,1 +1,1 @@
-var mnemonic = "scale loyal impulse exercise ignore beyond legal funny exist pact monitor slender";
+var mnemonic = "bicycle true old year accuse fork little clinic swallow primary dawn wrestle";

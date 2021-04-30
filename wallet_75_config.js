@@ -1,1 +1,1 @@
-var mnemonic = "riot frown merit tooth smart similar weird nose ethics crumble next put";
+var mnemonic = "rigid gun faith gloom aisle saddle lizard fatigue apology slam there repair";

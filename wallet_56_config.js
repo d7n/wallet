@@ -1,1 +1,1 @@
-var mnemonic = "bulb pattern verb hidden december rack civil inflict sudden volcano whisper science";
+var mnemonic = "security rely system leg immense virus toss amateur fork impulse despair crater";

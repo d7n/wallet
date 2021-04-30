@@ -1,1 +1,1 @@
-var mnemonic = "vacant relief gown good jealous snow blame either text flip camera broom";
+var mnemonic = "forum trade speed kitchen rice farm cannon replace sort course lawsuit february";

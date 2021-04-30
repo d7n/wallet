@@ -1,1 +1,1 @@
-var mnemonic = "hurdle doll mosquito verb boring inner rate penalty brain climb detect wide";
+var mnemonic = "era voyage south stumble quantum ivory deliver blanket phrase off rule earn";

@@ -1,1 +1,1 @@
-var mnemonic = "amateur during win early inquiry echo brain rival arrive noise boy kitten";
+var mnemonic = "badge nature team coyote tomato member report rural review emotion film faculty";

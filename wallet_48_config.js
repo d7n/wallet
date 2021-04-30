@@ -1,1 +1,1 @@
-var mnemonic = "invest cotton fall execute good park crunch century lava sock fire page";
+var mnemonic = "stomach planet quiz side hidden skin animal sock side ball zoo chapter";

@@ -1,1 +1,1 @@
-var mnemonic = "hundred kiss sad parrot sure rapid execute fiscal task solve audit item";
+var mnemonic = "still predict happy still flash air social where inherit tobacco shy grain";

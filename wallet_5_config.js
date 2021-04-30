@@ -1,1 +1,1 @@
-var mnemonic = "rotate sorry despair close aim address level cinnamon deliver system unit develop";
+var mnemonic = "city raise water coconut desk mirror river meat rate crime length liberty";

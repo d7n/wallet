@@ -1,1 +1,1 @@
-var mnemonic = "alien essay such hair wave annual raccoon alter defense armor keep grape";
+var mnemonic = "image slab clutch north rack another pipe morning axis dumb future capable";

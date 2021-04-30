@@ -1,1 +1,1 @@
-var mnemonic = "burst punch dinosaur aspect away thunder arrest open adjust couch torch purity";
+var mnemonic = "crowd any worth peanut engage obvious paper orbit cloud choose prefer maid";

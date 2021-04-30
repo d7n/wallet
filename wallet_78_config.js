@@ -1,1 +1,1 @@
-var mnemonic = "assume frost dutch culture dirt limit album profit quit ranch trash ocean";
+var mnemonic = "rail east pen debate cool enforce column notable loud whale more pulse";

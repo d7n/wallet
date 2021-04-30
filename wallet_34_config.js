@@ -1,1 +1,1 @@
-var mnemonic = "unusual drill antenna talent apart crunch orange main town resemble delay culture";
+var mnemonic = "wood glass insane inform ice private weird drum fluid spend feel duck";

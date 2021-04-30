@@ -1,1 +1,1 @@
-var mnemonic = "brain sniff current spray pluck load copper bid floor grow fee segment";
+var mnemonic = "into claim under vessel chef brush mushroom cry obvious camera pilot ethics";

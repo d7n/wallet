@@ -1,1 +1,1 @@
-var mnemonic = "tortoise prison omit purchase patrol proud amazing renew sight ski story aunt";
+var mnemonic = "biology loyal paddle skirt envelope express regular seven very camera nature control";

@@ -1,1 +1,1 @@
-var mnemonic = "miss october tower debris leader across entire circle spoon forward gorilla access";
+var mnemonic = "drift myself coffee next unlock desert gaze end hockey captain giant blossom";

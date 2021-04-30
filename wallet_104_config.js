@@ -1,1 +1,1 @@
-var mnemonic = "rich potato evil orange crowd mercy jelly valley index never add unaware";
+var mnemonic = "mobile digital sleep parent report shell health route brisk actual tower hover";

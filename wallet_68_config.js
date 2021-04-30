@@ -1,1 +1,1 @@
-var mnemonic = "round calm fire juice turtle horn source festival bleak develop debate ready";
+var mnemonic = "gate proof olympic lady cotton polar method drop annual during midnight shrug";

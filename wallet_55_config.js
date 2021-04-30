@@ -1,1 +1,1 @@
-var mnemonic = "gap combine exhibit flat valid direct beach ten state remove boy bicycle";
+var mnemonic = "input media thumb lottery goat afford wonder aim clump dinner skill art";

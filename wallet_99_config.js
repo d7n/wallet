@@ -1,1 +1,1 @@
-var mnemonic = "vacant latin mother path act theory occur forget focus betray guard session";
+var mnemonic = "upgrade clinic manual two recall under gadget swamp alarm wheat top party";

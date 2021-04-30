@@ -1,1 +1,1 @@
-var mnemonic = "salute cloth demise gap believe sail shine crane latin spring victory wreck";
+var mnemonic = "stove chef topic question resource goose dinosaur skill wise siege detail drip";

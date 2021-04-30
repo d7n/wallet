@@ -1,1 +1,1 @@
-var mnemonic = "hold battle certain capable common divorce work dismiss drum kidney cage gallery";
+var mnemonic = "ginger basket stumble venue young admit normal ginger spend device admit attract";

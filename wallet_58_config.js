@@ -1,1 +1,1 @@
-var mnemonic = "useless rely blind expose confirm ramp enough apple spice ozone taste gloom";
+var mnemonic = "blade athlete company raccoon achieve identify cream patient tornado domain win differ";

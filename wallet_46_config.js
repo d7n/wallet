@@ -1,1 +1,1 @@
-var mnemonic = "kit plastic great gauge recall chest paper mad govern ostrich scissors endorse";
+var mnemonic = "price job stool mansion develop aim announce reduce success later core wave";

@@ -1,1 +1,1 @@
-var mnemonic = "same real mercy wrist fashion elevator outside program pitch abstract ski vintage";
+var mnemonic = "galaxy hammer obey deputy warrior fortune pave elder spend diesel cool knee";

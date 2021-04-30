@@ -1,1 +1,1 @@
-var mnemonic = "crystal exit desk tissue people cake myth correct divert pudding frame switch";
+var mnemonic = "mean shaft drip balcony skill three shock real scare present spider lucky";

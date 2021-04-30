@@ -1,1 +1,1 @@
-var mnemonic = "rug vital garlic pledge fun surface scorpion vault blame pretty gap language";
+var mnemonic = "quiz devote promote digital object armed reveal gaze annual between velvet garden";

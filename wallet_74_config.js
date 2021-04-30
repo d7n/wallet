@@ -1,1 +1,1 @@
-var mnemonic = "online corn fan walk access senior stadium kiwi erosion decorate type chair";
+var mnemonic = "detail purity unfold ugly flip creek album shine other shed cousin leisure";

@@ -1,1 +1,1 @@
-var mnemonic = "brass luxury girl witness unveil brush arrow ribbon rally strong art sick";
+var mnemonic = "round deal tongue vacuum picnic life scrap tomato this erase clown relief";

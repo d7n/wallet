@@ -1,1 +1,1 @@
-var mnemonic = "coral cliff weapon dad erase purity mention dismiss swap life vast head";
+var mnemonic = "tattoo song walk pride inform swift foil video honey theme social mechanic";

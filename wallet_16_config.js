@@ -1,1 +1,1 @@
-var mnemonic = "outer vital tuna security cash vacuum mix obtain burden ketchup dream pumpkin";
+var mnemonic = "joy torch confirm news brick daring boy spell focus ocean spice occur";

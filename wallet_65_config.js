@@ -1,1 +1,1 @@
-var mnemonic = "planet trend pipe way want name grant swamp else actual need elbow";
+var mnemonic = "deliver wolf oblige raccoon stock sausage gate riot lamp prepare trim giant";

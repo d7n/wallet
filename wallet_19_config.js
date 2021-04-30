@@ -1,1 +1,1 @@
-var mnemonic = "dress layer inhale victory intact payment hotel finger artwork erode draw solid";
+var mnemonic = "fringe essay six elevator steak two media life roof despair sad connect";

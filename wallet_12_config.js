@@ -1,1 +1,1 @@
-var mnemonic = "agent game person stool century include hello cat sight pride circle cable";
+var mnemonic = "hero depart unhappy ordinary ring bus dismiss cycle portion decline october reflect";

@@ -1,1 +1,1 @@
-var mnemonic = "average food trust slice drastic wonder view diagram one struggle city senior";
+var mnemonic = "note october repeat sunset chase hood pitch pear poem argue chuckle endless";

@@ -1,1 +1,1 @@
-var mnemonic = "battle hockey tag bright apart dash hawk input menu label smooth sphere";
+var mnemonic = "frost trim awful curious fantasy correct earn peanut obey gift visa october";

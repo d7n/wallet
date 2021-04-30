@@ -1,1 +1,1 @@
-var mnemonic = "hub know upon bring essay upper universe sustain swarm core tornado aware";
+var mnemonic = "notice bright guard nest father birth decade shadow theory injury fold employ";

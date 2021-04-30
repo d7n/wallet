@@ -1,1 +1,1 @@
-var mnemonic = "kitten spatial sketch combine depth wagon strong victory glow air exercise treat";
+var mnemonic = "observe another nasty frog dice harbor cave lawn rain craft online pottery";

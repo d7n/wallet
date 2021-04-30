@@ -1,1 +1,1 @@
-var mnemonic = "suspect salad april topic utility suggest tattoo found sister sentence flame access";
+var mnemonic = "predict way board flash loyal fitness obscure used modify dizzy exist gate";

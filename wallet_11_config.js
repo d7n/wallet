@@ -1,1 +1,1 @@
-var mnemonic = "stock flavor type reunion venue car century cause thumb tail egg mixture";
+var mnemonic = "report manage salute hill dismiss innocent lunar mistake despair frost circle trophy";

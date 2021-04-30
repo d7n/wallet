@@ -1,1 +1,1 @@
-var mnemonic = "hope sign phrase easy evil vanish derive lounge carbon tree danger round";
+var mnemonic = "duty drum easily salon federal spy birth west artwork because sausage bacon";

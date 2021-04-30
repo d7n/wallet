@@ -1,1 +1,1 @@
-var mnemonic = "leg wonder bomb trigger pave satisfy screen lottery shaft budget shove decide";
+var mnemonic = "solution spoil immense barrel hedgehog cream boat enforce puppy obey razor elephant";

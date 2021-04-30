@@ -1,1 +1,1 @@
-var mnemonic = "pretty concert supreme flag gallery accuse nest primary guard faculty reform predict";
+var mnemonic = "key venture magic exercise border silk harsh soft enforce allow design notice";

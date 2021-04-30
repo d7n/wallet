@@ -1,1 +1,1 @@
-var mnemonic = "ocean pull salon wise spread deputy around canvas perfect trick category skill";
+var mnemonic = "bottom chaos crazy charge toward case bean taxi tilt canvas history gauge";

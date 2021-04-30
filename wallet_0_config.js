@@ -1,1 +1,1 @@
-var mnemonic = "galaxy bike uniform lava stone balcony monitor very coral inflict rapid loan";
+var mnemonic = "world carbon chronic harvest shield announce polar era lecture close half way";

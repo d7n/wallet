@@ -1,1 +1,1 @@
-var mnemonic = "oyster festival brush region again situate couch govern alone best group hospital";
+var mnemonic = "pelican argue frog intact oppose feed derive possible vibrant obvious era oven";

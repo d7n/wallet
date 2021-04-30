@@ -1,1 +1,1 @@
-var mnemonic = "divide gather brand shy comic hip early throw stone foster away intact";
+var mnemonic = "steak joy crunch equip sadness bundle card dry display offer general version";

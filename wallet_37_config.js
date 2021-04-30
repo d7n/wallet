@@ -1,1 +1,1 @@
-var mnemonic = "autumn minimum valley order kick voice peace expire jazz harbor word elegant";
+var mnemonic = "galaxy ice pizza ancient believe father surge fetch arena double guide cotton";
