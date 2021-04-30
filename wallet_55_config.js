@@ -1,1 +1,1 @@
-var mnemonic = "opinion okay situate fog coast horse source ankle educate cigar bubble neither";
+var mnemonic = "stem verb walnut better quality cable kind today discover grape heart live";

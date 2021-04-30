@@ -1,1 +1,1 @@
-var mnemonic = "banner impulse biology rent hero improve area rhythm surprise copy sketch diet";
+var mnemonic = "wife bulb announce marble belt legend meadow response stay broom copper nothing";

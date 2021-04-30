@@ -1,1 +1,1 @@
-var mnemonic = "person combine swim amused open update play floor wagon object blur already";
+var mnemonic = "riot kiss echo offer kite venue regret armed exile keen lucky mystery";

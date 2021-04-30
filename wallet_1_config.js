@@ -1,1 +1,1 @@
-var mnemonic = "feature slender tumble cat organ boil uniform olympic you elevator exit cheese";
+var mnemonic = "priority exhibit office image oak vapor exhibit renew cheese ignore hurry cruise";

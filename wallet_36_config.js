@@ -1,1 +1,1 @@
-var mnemonic = "interest erase before satisfy air parent cancel season physical south portion attend";
+var mnemonic = "ability ozone wild random sphere praise seminar injury stage duck boat work";

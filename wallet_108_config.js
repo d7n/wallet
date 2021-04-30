@@ -1,1 +1,1 @@
-var mnemonic = "luggage eyebrow fiber buffalo wisdom dolphin such find unlock faculty oxygen exotic";
+var mnemonic = "picture sight truck slide short bring throw problem program settle bar impulse";

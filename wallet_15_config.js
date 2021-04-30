@@ -1,1 +1,1 @@
-var mnemonic = "mushroom verb language profit mutual bracket confirm monster damage glare receive cave";
+var mnemonic = "another share risk income bleak before trust era steak narrow act visit";

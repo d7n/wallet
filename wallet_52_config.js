@@ -1,1 +1,1 @@
-var mnemonic = "correct viable tackle wise nuclear quick song gap moment gym news unable";
+var mnemonic = "luggage vapor office layer crystal pony gas school slide hazard name stumble";

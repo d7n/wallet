@@ -1,1 +1,1 @@
-var mnemonic = "across glory label wrong dilemma bid pyramid gas shove city film wink";
+var mnemonic = "nation problem code cause butter laugh label east tuition seminar memory lizard";

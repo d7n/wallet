@@ -1,1 +1,1 @@
-var mnemonic = "belt ladder cement quote apology rule undo able sad fork welcome expand";
+var mnemonic = "gadget arch wrist wrong boring toss flee vast emotion scheme document alone";

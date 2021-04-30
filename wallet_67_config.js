@@ -1,1 +1,1 @@
-var mnemonic = "neutral protect zebra notice meadow zebra enrich miss seek tonight food when";
+var mnemonic = "thank loyal sleep female blossom satisfy august custom ten print toy duck";

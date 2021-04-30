@@ -1,1 +1,1 @@
-var mnemonic = "cloud size dose mask fluid clarify wise muffin embrace better apology word";
+var mnemonic = "board sketch quantum region priority engine rural wolf pass junior castle gesture";

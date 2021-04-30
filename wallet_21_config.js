@@ -1,1 +1,1 @@
-var mnemonic = "skill zebra giggle multiply what organ fame please pass spatial bonus reward";
+var mnemonic = "mango fantasy canoe original turn where rather young primary pioneer velvet recycle";

@@ -1,1 +1,1 @@
-var mnemonic = "monitor scheme company language father elbow flush distance fork cool argue exile";
+var mnemonic = "economy wasp wrestle web trigger marine shrug tornado cake next topic bargain";

@@ -1,1 +1,1 @@
-var mnemonic = "enemy major birth eight wait hen gift flock crack island cloth benefit";
+var mnemonic = "ask gift goose deliver outer black frozen still eyebrow lake once glue";

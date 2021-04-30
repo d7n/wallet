@@ -1,1 +1,1 @@
-var mnemonic = "siege correct cotton false mandate consider wall fabric spawn flush screen cement";
+var mnemonic = "denial light member solve tackle card eternal tourist elbow south damage fall";

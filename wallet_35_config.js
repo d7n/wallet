@@ -1,1 +1,1 @@
-var mnemonic = "pear adult fatigue old airport treat pretty inch frown skate struggle turn";
+var mnemonic = "lab between erosion monkey unable crawl seat tip bar van grace crunch";

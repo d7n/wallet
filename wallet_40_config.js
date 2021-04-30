@@ -1,1 +1,1 @@
-var mnemonic = "orange sight wise battle swallow orient purse trim gate hazard visit cream";
+var mnemonic = "bind brisk scan kit still fold trick blur argue magnet rifle actual";

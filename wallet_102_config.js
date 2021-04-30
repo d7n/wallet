@@ -1,1 +1,1 @@
-var mnemonic = "syrup east sign result exotic need tattoo draft wash stone home weird";
+var mnemonic = "scheme core rail mom width long crime beauty gaze baby august voice";

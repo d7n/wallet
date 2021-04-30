@@ -1,1 +1,1 @@
-var mnemonic = "weapon fox again truly push target cargo tube juice night prefer pumpkin";
+var mnemonic = "radio unfold child winner adult ostrich black neutral run horse calm noble";

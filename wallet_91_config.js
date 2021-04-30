@@ -1,1 +1,1 @@
-var mnemonic = "evidence retire affair tribe derive bomb caught parade praise hurdle vocal false";
+var mnemonic = "cheap next vague category race caught exotic garbage minor grocery renew alcohol";

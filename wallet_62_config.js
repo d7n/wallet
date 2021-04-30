@@ -1,1 +1,1 @@
-var mnemonic = "gentle skull skill trouble awake aisle west slim ostrich upper road route";
+var mnemonic = "episode elevator digital bulk fade one melody cable gallery supply october zebra";

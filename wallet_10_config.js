@@ -1,1 +1,1 @@
-var mnemonic = "chair bring gift auction riot angry seat grant valley crane actual trial";
+var mnemonic = "sound fence alert domain shy love bulk miss cheese universe distance runway";

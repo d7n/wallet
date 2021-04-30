@@ -1,1 +1,1 @@
-var mnemonic = "pioneer film apple shove sphere gas kind sting question south raise merge";
+var mnemonic = "know pudding hidden brisk orange glare language exclude hope worth kidney stand";

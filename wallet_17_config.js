@@ -1,1 +1,1 @@
-var mnemonic = "real cruel blood human punch budget mule equip slim cat scout snap";
+var mnemonic = "wall mouse trick sight party fall staff crop tree today fold aspect";

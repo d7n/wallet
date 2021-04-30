@@ -1,1 +1,1 @@
-var mnemonic = "ripple arrange pony cradle wrist insane flavor stamp skate exit unveil private";
+var mnemonic = "slender horn feed material travel honey parade mutual eye crack slender couple";

@@ -1,1 +1,1 @@
-var mnemonic = "fantasy hold fruit memory clock purity noodle hole two useful vapor chief";
+var mnemonic = "panther museum green history yard slow destroy lonely secret bachelor romance crystal";

@@ -1,1 +1,1 @@
-var mnemonic = "pioneer duty pretty range obtain isolate vapor ask fancy rhythm machine cup";
+var mnemonic = "reason pen wedding ceiling view release door remove daring embark like run";

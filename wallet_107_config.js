@@ -1,1 +1,1 @@
-var mnemonic = "switch outer army fatigue embody music nasty property van broom frown promote";
+var mnemonic = "music cushion depth vacant jewel atom beach merge solve vehicle roof permit";

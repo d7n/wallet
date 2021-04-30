@@ -1,1 +1,1 @@
-var mnemonic = "arrest filter blade popular relief casino assume original vast behave marine margin";
+var mnemonic = "lobster timber husband typical shed spoon paddle join puppy wealth cereal enter";

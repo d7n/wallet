@@ -1,1 +1,1 @@
-var mnemonic = "dice popular business salad crumble inform small arch unfold eye unlock hurdle";
+var mnemonic = "discover govern refuse demand worry pioneer tribe differ swift winner genius label";

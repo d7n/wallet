@@ -1,1 +1,1 @@
-var mnemonic = "clutch crystal clown noodle mad car animal miss hamster security repeat rain";
+var mnemonic = "humble decide away winter normal vessel bid ahead music tiger panda world";

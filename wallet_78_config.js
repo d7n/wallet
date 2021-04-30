@@ -1,1 +1,1 @@
-var mnemonic = "left forget people snake achieve govern gravity chimney adjust science fiction soda";
+var mnemonic = "master intact suit deer rich gossip test grape mention farm hat wasp";

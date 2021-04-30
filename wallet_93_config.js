@@ -1,1 +1,1 @@
-var mnemonic = "shoe outside myth december marriage observe match guitar cake dirt later quote";
+var mnemonic = "chapter kid demand core prefer tank crop stomach spell release pudding fruit";

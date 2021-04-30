@@ -1,1 +1,1 @@
-var mnemonic = "obey liar try improve recipe aunt alter sniff start nurse fold edge";
+var mnemonic = "outside giggle grape fantasy under upset human sound there joke wide sugar";

@@ -1,1 +1,1 @@
-var mnemonic = "clog dilemma random idea sadness until skull right believe farm crumble dinosaur";
+var mnemonic = "outside select wonder autumn gentle obvious alter coffee width wrong come pair";

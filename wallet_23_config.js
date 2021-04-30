@@ -1,1 +1,1 @@
-var mnemonic = "scissors high pattern indoor food library march dose argue produce word art";
+var mnemonic = "lemon hurdle lizard face tell grunt market anxiety debris black tent chimney";

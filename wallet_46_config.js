@@ -1,1 +1,1 @@
-var mnemonic = "leave party relax twist cool inspire direct couch joy theme false exhaust";
+var mnemonic = "behind cruel future garage depend favorite bulk visual tail marine ability chief";

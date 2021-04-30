@@ -1,1 +1,1 @@
-var mnemonic = "soap enhance wool plate creek cereal kid rack online naive solar banana";
+var mnemonic = "match fix wink lumber range wave promote laundry outdoor real sugar cool";

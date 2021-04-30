@@ -1,1 +1,1 @@
-var mnemonic = "when polar stairs source fox once motion borrow remain visual joy taxi";
+var mnemonic = "jazz original clay provide you cupboard aware addict amused acoustic project quarter";

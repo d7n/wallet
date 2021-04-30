@@ -1,1 +1,1 @@
-var mnemonic = "region coconut notable clay love public what burden comfort illness trip tumble";
+var mnemonic = "beach blur name figure flip panic topple final wrestle wide climb rabbit";

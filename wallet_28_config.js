@@ -1,1 +1,1 @@
-var mnemonic = "correct garlic slab motor trap can yellow ribbon movie fashion head wet";
+var mnemonic = "angry suit code taxi escape young vital piece bonus soul leg theme";

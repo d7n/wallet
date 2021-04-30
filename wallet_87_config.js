@@ -1,1 +1,1 @@
-var mnemonic = "charge pond trick inch together vintage model village trash local near night";
+var mnemonic = "cheap beauty envelope crucial summer recall analyst glue cinnamon spell city pupil";

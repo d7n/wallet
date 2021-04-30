@@ -1,1 +1,1 @@
-var mnemonic = "occur bridge female speak room viable deposit end unknown autumn cave bullet";
+var mnemonic = "palm family bless game sea make cube curious write able model cat";

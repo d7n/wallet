@@ -1,1 +1,1 @@
-var mnemonic = "rate decide skill soul eagle ginger ginger come shoe shoe solar wait";
+var mnemonic = "end beef flock doll approve rebuild ice install razor rule output crucial";

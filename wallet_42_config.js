@@ -1,1 +1,1 @@
-var mnemonic = "vital appear picnic rich border unfair crazy depart fly bike churn chaos";
+var mnemonic = "slush village dog chef junior morning crystal jealous forum citizen myself outdoor";

@@ -1,1 +1,1 @@
-var mnemonic = "art sugar tooth answer vanish family decide spin pretty goat donate push";
+var mnemonic = "rib pear wealth monkey tip state ill craft garbage clarify famous fossil";

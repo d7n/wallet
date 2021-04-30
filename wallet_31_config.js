@@ -1,1 +1,1 @@
-var mnemonic = "theme very resist grace region peace require august stamp one wool tomato";
+var mnemonic = "void vast inherit sound rose glove battle grant desk rice entire record";

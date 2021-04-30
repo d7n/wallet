@@ -1,1 +1,1 @@
-var mnemonic = "badge invite ghost myself heart solution minute wagon meat tiny various idea";
+var mnemonic = "person hedgehog trip vocal enforce proud step cupboard affair cool undo tooth";

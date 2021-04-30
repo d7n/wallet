@@ -1,1 +1,1 @@
-var mnemonic = "season arrive clean bright adjust swear weasel tenant olive now surface trade";
+var mnemonic = "injury hood climb skirt prepare rate observe bottom cruel multiply seed island";

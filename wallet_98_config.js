@@ -1,1 +1,1 @@
-var mnemonic = "feature bronze tongue wrap fitness cross wrap cart session yard like minor";
+var mnemonic = "prosper aerobic surge asthma cash extra column supply arena atom collect void";

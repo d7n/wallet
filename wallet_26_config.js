@@ -1,1 +1,1 @@
-var mnemonic = "fruit above paper stamp suspect august ahead strategy mask symptom matter believe";
+var mnemonic = "hello inform cube deer truck rival chicken oblige camera dance island critic";

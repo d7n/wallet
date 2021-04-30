@@ -1,1 +1,1 @@
-var mnemonic = "predict barrel shallow spawn debate fortune mix essay dry spawn host puzzle";
+var mnemonic = "horse candy ocean grief cruise rate tissue miracle negative easy glance color";

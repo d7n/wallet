@@ -1,1 +1,1 @@
-var mnemonic = "north core enrich fiction okay student crater fog family throw there buzz";
+var mnemonic = "dust someone laptop card marble humor edge tunnel history gate replace reveal";

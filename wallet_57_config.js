@@ -1,1 +1,1 @@
-var mnemonic = "elbow fix normal bulk upset hotel second social inform vote warrior focus";
+var mnemonic = "shrimp mobile clip where release hair erase double north wolf habit warfare";

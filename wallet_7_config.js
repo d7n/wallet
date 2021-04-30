@@ -1,1 +1,1 @@
-var mnemonic = "danger problem apple broccoli suffer scatter alarm decide silly license powder inherit";
+var mnemonic = "jar dress image subject february town video book weird few fish develop";

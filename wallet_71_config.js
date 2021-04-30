@@ -1,1 +1,1 @@
-var mnemonic = "slow develop marine depend benefit soul asthma hurt size blanket high hold";
+var mnemonic = "kiwi rotate work jungle farm clay envelope alcohol potato fit sphere letter";

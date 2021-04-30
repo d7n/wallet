@@ -1,1 +1,1 @@
-var mnemonic = "clinic melt process educate pool gate update horse excite come true wagon";
+var mnemonic = "script father tube wreck polar attend boost alley video thunder bike piano";

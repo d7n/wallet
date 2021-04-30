@@ -1,1 +1,1 @@
-var mnemonic = "morning hamster poverty float liar giraffe lemon garlic rough urban cave man";
+var mnemonic = "deliver transfer armor order gospel mansion quick ceiling define brown fiscal mixed";

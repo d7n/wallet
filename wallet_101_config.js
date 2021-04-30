@@ -1,1 +1,1 @@
-var mnemonic = "credit weird situate utility donkey morning shadow interest december advance begin horse";
+var mnemonic = "hub law egg mansion vocal often doctor they orient fish now act";

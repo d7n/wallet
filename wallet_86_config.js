@@ -1,1 +1,1 @@
-var mnemonic = "sniff weapon host planet vivid work expect share health chapter father great";
+var mnemonic = "curious smooth draw scorpion inner elbow sea cube mimic wage library noodle";

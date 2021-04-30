@@ -1,1 +1,1 @@
-var mnemonic = "assist thunder gossip solve rebel barrel artist skate achieve armor pioneer deny";
+var mnemonic = "rich space silver category depth cable attitude remember mother uncover eternal wedding";

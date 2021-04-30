@@ -1,1 +1,1 @@
-var mnemonic = "arrest broccoli click lesson toast since finish east main toward toilet supreme";
+var mnemonic = "lens mimic jelly volume rack nut stay differ core real uniform plunge";

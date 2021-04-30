@@ -1,1 +1,1 @@
-var mnemonic = "best noise obvious guilt dial ball tool exact mad area where crunch";
+var mnemonic = "grief miracle isolate aerobic inform squeeze secret balcony kiss beauty unit actor";

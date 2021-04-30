@@ -1,1 +1,1 @@
-var mnemonic = "card base dove balance knock deal advance actor absent scrap timber indoor";
+var mnemonic = "start stadium pencil tower alley virtual scale bundle riot govern lamp glove";

@@ -1,1 +1,1 @@
-var mnemonic = "have match invest embark power devote creek genuine august cliff famous hurt";
+var mnemonic = "story used sport melt humor just actor walk melt entire element venue";

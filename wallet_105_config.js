@@ -1,1 +1,1 @@
-var mnemonic = "lunch envelope position fox normal forget neglect spot neck champion antenna junior";
+var mnemonic = "hat around shaft bridge remain good desert van float flee trouble quarter";

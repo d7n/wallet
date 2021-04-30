@@ -1,1 +1,1 @@
-var mnemonic = "embody business never glare erase alien cabbage amused welcome glare feed region";
+var mnemonic = "harvest physical drift tongue action quick cigar ordinary month pave inflict logic";

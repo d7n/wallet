@@ -1,1 +1,1 @@
-var mnemonic = "elbow over green save match hip diagram need winter valid jazz earth";
+var mnemonic = "roast accuse swim blush similar popular number rug uncover tackle allow indicate";

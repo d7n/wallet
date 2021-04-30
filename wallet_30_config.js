@@ -1,1 +1,1 @@
-var mnemonic = "top click credit enjoy charge current shine matrix swamp dutch frost genius";
+var mnemonic = "truck slender bundle people rebel permit innocent food entire budget quantum crash";

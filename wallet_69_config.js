@@ -1,1 +1,1 @@
-var mnemonic = "fit chicken soon near soda prosper scare camp slab elevator leopard pet";
+var mnemonic = "load legend major comfort reveal afford sign spring suspect dutch similar skill";

@@ -1,1 +1,1 @@
-var mnemonic = "horror doll catalog duty sauce name toddler meat sense monster pumpkin fall";
+var mnemonic = "daughter tornado license lamp beauty syrup begin unit scare shuffle inquiry execute";

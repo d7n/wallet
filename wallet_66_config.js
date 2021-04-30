@@ -1,1 +1,1 @@
-var mnemonic = "annual race disease vote vote glare abandon carpet cloud neither prison render";
+var mnemonic = "defense dutch loop lens snow jelly grid sadness ticket steel seed maze";

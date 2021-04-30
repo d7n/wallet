@@ -1,1 +1,1 @@
-var mnemonic = "floor frame bargain tip sting lunar amused turkey faith rug frown rug";
+var mnemonic = "text state cannon degree census judge cradle struggle address eagle various long";

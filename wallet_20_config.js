@@ -1,1 +1,1 @@
-var mnemonic = "nephew long scissors picnic three zoo correct space permit immense bunker drop";
+var mnemonic = "spot record depend manage demise boss identify wagon giggle oval object prison";

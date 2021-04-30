@@ -1,1 +1,1 @@
-var mnemonic = "wire quarter peanut return shop nothing crew print venture exit elegant bamboo";
+var mnemonic = "anger spider flash blanket ivory sort swing sentence local vote organ poet";

@@ -1,1 +1,1 @@
-var mnemonic = "wine leaf rival noodle they minute father clarify crouch culture project rain";
+var mnemonic = "maid resemble left critic weird refuse price spare frog casino over sail";

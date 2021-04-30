@@ -1,1 +1,1 @@
-var mnemonic = "pass term idea crop combine equip finish mouse piece pink fatigue rail";
+var mnemonic = "kitten arrest black script pilot arm sound drop ghost judge zero hover";

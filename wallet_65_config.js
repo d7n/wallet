@@ -1,1 +1,1 @@
-var mnemonic = "gesture fold price pause goose never duck royal repeat above debris wrist";
+var mnemonic = "leopard right valley island small clinic shy long cheese light dash ugly";

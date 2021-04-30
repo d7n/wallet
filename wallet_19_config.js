@@ -1,1 +1,1 @@
-var mnemonic = "omit rug dial notice abstract crack age gossip cheap illegal ten input";
+var mnemonic = "rescue tower purse photo inject lazy mixed title cargo field gauge consider";

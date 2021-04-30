@@ -1,1 +1,1 @@
-var mnemonic = "decline raw marriage comfort fame make ketchup suffer believe marriage mix lamp";
+var mnemonic = "planet doctor legend fun execute shuffle sorry maze marine battle flock bar";

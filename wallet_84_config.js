@@ -1,1 +1,1 @@
-var mnemonic = "offer science odor today yellow decline genre spawn middle strike siren amateur";
+var mnemonic = "candy gas cook sure anger shine virtual romance truly marine exact zoo";

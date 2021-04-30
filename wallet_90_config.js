@@ -1,1 +1,1 @@
-var mnemonic = "father drum person slogan bid oven distance lady divide void priority ability";
+var mnemonic = "danger donor almost common allow armed gift material direct ice office helmet";

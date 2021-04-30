@@ -1,1 +1,1 @@
-var mnemonic = "civil solution window royal exact infant cinnamon smooth unit olympic slot special";
+var mnemonic = "between dance extend legal decrease wall push black fish stand jar talent";

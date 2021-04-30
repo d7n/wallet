@@ -1,1 +1,1 @@
-var mnemonic = "require hurdle artefact real joy price vivid ski gesture maximum flush mirror";
+var mnemonic = "ecology pelican ketchup juice moment hour thing trim rather tiger broccoli oven";

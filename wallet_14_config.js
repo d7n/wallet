@@ -1,1 +1,1 @@
-var mnemonic = "belt aware tip ski hover topic duck practice fork street tribe steak";
+var mnemonic = "what kidney security festival effort sustain text kangaroo turn farm trip primary";
