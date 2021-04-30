@@ -1,1 +1,1 @@
-var mnemonic = "balance alter salt duck margin fresh armed skate pull usual island rubber";
+var mnemonic = "autumn purity mushroom need joy auction bundle brick tonight clown install grunt";

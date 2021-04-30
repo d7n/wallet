@@ -1,1 +1,1 @@
-var mnemonic = "escape hidden prefer cliff man sponsor denial assault clump nothing object jelly";
+var mnemonic = "december lamp cancel success voyage wood engage position retire omit dog awesome";

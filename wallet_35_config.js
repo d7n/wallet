@@ -1,1 +1,1 @@
-var mnemonic = "lunch rapid zebra choose famous feed express mail sound ladder timber field";
+var mnemonic = "tool lounge amateur lamp answer code deputy switch floor forward office retire";

@@ -1,1 +1,1 @@
-var mnemonic = "tobacco harsh song tape shadow stable typical erase prepare brick assault divorce";
+var mnemonic = "student domain wine print same journey train item scatter north multiply guitar";

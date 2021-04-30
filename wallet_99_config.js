@@ -1,1 +1,1 @@
-var mnemonic = "cement object certain memory weasel dolphin cycle protect joke victory provide ancient";
+var mnemonic = "wire doctor assist blouse replace medal lion price rural ladder decline spoon";

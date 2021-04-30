@@ -1,1 +1,1 @@
-var mnemonic = "drift letter wear eager ozone damp outdoor gospel turn salt shop tip";
+var mnemonic = "mirror federal segment market number surface summer benefit nut learn mirror height";

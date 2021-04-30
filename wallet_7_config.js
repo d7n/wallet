@@ -1,1 +1,1 @@
-var mnemonic = "village dish relief chief fault roast skin pioneer evil afford miracle imitate";
+var mnemonic = "unit goose upgrade afraid engage memory hospital square farm naive valve few";

@@ -1,1 +1,1 @@
-var mnemonic = "predict install funny like habit garment metal awesome actual reason meadow lawn";
+var mnemonic = "climb major pledge spy monitor oxygen armor often daughter debris more surface";

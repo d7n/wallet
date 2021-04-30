@@ -1,1 +1,1 @@
-var mnemonic = "surround distance vivid scare because pill price knife badge infant olive ocean";
+var mnemonic = "vapor road balance arm cannon entire wine magic crowd awake injury cliff";

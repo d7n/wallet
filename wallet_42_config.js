@@ -1,1 +1,1 @@
-var mnemonic = "nature toilet art mixed dust retire monkey blame cage dance chicken market";
+var mnemonic = "dinner giraffe sick medal behind raise cage humble smooth fossil prize sheriff";

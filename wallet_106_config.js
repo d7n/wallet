@@ -1,1 +1,1 @@
-var mnemonic = "unfair cushion volume inform toe behave office disagree nut trip midnight piano";
+var mnemonic = "found display type field master cycle dinosaur bronze fiscal magnet poverty leader";

@@ -1,1 +1,1 @@
-var mnemonic = "fuel oxygen shy demise wasp radar excite zebra first mountain gym deposit";
+var mnemonic = "cheese garment call describe vibrant coffee thank approve place senior acoustic only";

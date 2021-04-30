@@ -1,1 +1,1 @@
-var mnemonic = "luxury gospel entire sell drama ginger enrich flower card ice sell riot";
+var mnemonic = "turkey mercy okay bunker sail congress affair wage make upon tiger print";

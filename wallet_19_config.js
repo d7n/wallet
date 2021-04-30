@@ -1,1 +1,1 @@
-var mnemonic = "debris anger mix volcano maid hurt door collect baby cash first solid";
+var mnemonic = "area mushroom pelican input purse armed artefact cricket ring please arctic first";

@@ -1,1 +1,1 @@
-var mnemonic = "canoe skate track brain boss great cat limb sing panther apart kitchen";
+var mnemonic = "surprise whip puppy pact old situate fox foam end avocado fault final";

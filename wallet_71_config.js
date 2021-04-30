@@ -1,1 +1,1 @@
-var mnemonic = "siren crucial evolve answer prosper timber essence ski avocado master bridge spray";
+var mnemonic = "same swap reform health damp any consider screen found legal believe chuckle";

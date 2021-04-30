@@ -1,1 +1,1 @@
-var mnemonic = "hold edit cat hope wear mind fun educate price drill test angle";
+var mnemonic = "diamond join capable shell grant typical depart intact giggle canvas mansion object";

@@ -1,1 +1,1 @@
-var mnemonic = "gaze enjoy strategy identify warrior mom ensure spy peanut peace please practice";
+var mnemonic = "define brand muffin legend earth silk east better wire curtain reveal note";

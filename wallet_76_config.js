@@ -1,1 +1,1 @@
-var mnemonic = "clever school ritual over street creek metal venue attack bird fault skull";
+var mnemonic = "abstract senior toddler crisp refuse injury guilt urban airport sunny fork tail";

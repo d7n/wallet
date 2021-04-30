@@ -1,1 +1,1 @@
-var mnemonic = "impose eternal index page animal harvest gift young cup joke cupboard town";
+var mnemonic = "cabbage shed weird apple noble vacuum net relax mutual price buyer oyster";

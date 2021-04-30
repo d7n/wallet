@@ -1,1 +1,1 @@
-var mnemonic = "occur kiwi key arctic country rail quantum zero alter wheel vote chuckle";
+var mnemonic = "garage spoil project twelve feature useless hurdle practice split tuition melt way";

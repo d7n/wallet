@@ -1,1 +1,1 @@
-var mnemonic = "rose crack nephew gadget trial mean hub obscure effort album silly forum";
+var mnemonic = "quantum clerk rude tumble abuse check cloud book salmon cart believe response";

@@ -1,1 +1,1 @@
-var mnemonic = "essay original picnic step lemon gravity benefit crouch lion notable cherry bachelor";
+var mnemonic = "weather cruel hour shine embrace pond tank resource problem royal honey uphold";

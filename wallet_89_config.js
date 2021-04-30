@@ -1,1 +1,1 @@
-var mnemonic = "swap notice album crystal gauge correct file federal brand cost hidden utility";
+var mnemonic = "cause purity month tobacco guard warrior recall have auto wrap little quick";

@@ -1,1 +1,1 @@
-var mnemonic = "salt cousin mean action torch eye afford insane elder repair pulp weekend";
+var mnemonic = "balcony hire random approve frequent enough hand number engage climb enable crumble";

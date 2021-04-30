@@ -1,1 +1,1 @@
-var mnemonic = "salon color trend evoke speed rotate network mammal circle wide typical interest";
+var mnemonic = "will setup puppy cotton because trim sort glory false popular bright emerge";

@@ -1,1 +1,1 @@
-var mnemonic = "maple critic switch run hover young cash search fee patch proof learn";
+var mnemonic = "tip hospital crazy travel reject act myth salon divert spoon summer social";

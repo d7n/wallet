@@ -1,1 +1,1 @@
-var mnemonic = "make fence minor brave talk card glue excite sing awesome vault north";
+var mnemonic = "wheat version safe sea morning price spray runway renew spray course check";

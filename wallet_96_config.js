@@ -1,1 +1,1 @@
-var mnemonic = "car apology agent extend mask chapter act confirm dawn tuition elevator draw";
+var mnemonic = "double vanish guard tooth acid twice crowd problem ramp dinner salon alarm";

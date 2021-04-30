@@ -1,1 +1,1 @@
-var mnemonic = "cover panel much okay crucial end put slow lab hard bomb youth";
+var mnemonic = "satoshi level client double museum curious nice orbit quote rhythm wrap vicious";

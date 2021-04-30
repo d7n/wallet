@@ -1,1 +1,1 @@
-var mnemonic = "fashion guard circle body south wedding recipe prize pig umbrella thank proud";
+var mnemonic = "suggest place rural rubber expand slab art other accuse match have cheap";

@@ -1,1 +1,1 @@
-var mnemonic = "obvious boil section tired multiply equip script sausage desert sheriff action cross";
+var mnemonic = "present gift axis grass ability short kingdom network false obtain stadium road";

@@ -1,1 +1,1 @@
-var mnemonic = "pink mom symbol baby tape gravity deny cliff arrest lady tobacco fit";
+var mnemonic = "frost patrol say fitness citizen era duty squirrel script sadness voice pepper";

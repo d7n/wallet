@@ -1,1 +1,1 @@
-var mnemonic = "grit already raise random comic actress fetch dice borrow joy erase feel";
+var mnemonic = "afford fluid veteran almost mammal police ankle leg season much glow model";

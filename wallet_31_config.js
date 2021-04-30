@@ -1,1 +1,1 @@
-var mnemonic = "poet heart leave razor build patch sustain skate word interest economy hill";
+var mnemonic = "street zone gasp addict advice tip liberty immense draft tornado milk promote";

@@ -1,1 +1,1 @@
-var mnemonic = "fan group slow swamp alcohol gap burden filter stem glow index bulb";
+var mnemonic = "produce hip unveil soft good pupil witness scout letter fame short stuff";

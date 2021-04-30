@@ -1,1 +1,1 @@
-var mnemonic = "brain cruise zebra aerobic brown increase match drink call trouble swing diagram";
+var mnemonic = "bid catalog please blouse notable shop early bid surround monitor hard broom";

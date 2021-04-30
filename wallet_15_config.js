@@ -1,1 +1,1 @@
-var mnemonic = "bean wine creek find midnight oppose glimpse excess rice grain strong swarm";
+var mnemonic = "identify mention comfort case cancel style enough outside focus foil long one";

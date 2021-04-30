@@ -1,1 +1,1 @@
-var mnemonic = "elbow oven arena weather morning install friend broccoli risk scene giant busy";
+var mnemonic = "old stairs deal old junior speak weird video pass bridge gasp social";

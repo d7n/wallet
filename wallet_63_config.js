@@ -1,1 +1,1 @@
-var mnemonic = "crime since neglect build build embrace appear crush dash mechanic wrist away";
+var mnemonic = "party mirror hazard average brisk laundry human group drift remove hen alpha";

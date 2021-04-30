@@ -1,1 +1,1 @@
-var mnemonic = "mimic impact ladder floor rack select ramp trial frog taxi sleep ridge";
+var mnemonic = "crisp bitter bulk evolve flower toss such sunset rug lunch basic property";

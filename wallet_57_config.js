@@ -1,1 +1,1 @@
-var mnemonic = "rent glimpse mistake actress capital license want journey couple few staff simple";
+var mnemonic = "interest retreat suffer seven brain meadow magnet borrow slab disorder infant decline";

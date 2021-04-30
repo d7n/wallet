@@ -1,1 +1,1 @@
-var mnemonic = "raise bid coyote light exotic head cushion verb spin general obvious winter";
+var mnemonic = "can spot lake sunset upon exhaust horror muscle world tonight alley detect";

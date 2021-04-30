@@ -1,1 +1,1 @@
-var mnemonic = "menu legend west punch vacuum screen pole tired feature olive margin sunset";
+var mnemonic = "usage divert curve laundry detect bounce private shrimp bench intact parent intact";

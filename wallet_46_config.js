@@ -1,1 +1,1 @@
-var mnemonic = "cluster entry clarify raven call afraid rare into mosquito labor surge episode";
+var mnemonic = "pet minimum subway mom swing pumpkin lucky bundle shock live shine bundle";

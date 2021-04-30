@@ -1,1 +1,1 @@
-var mnemonic = "heavy skull regular diesel enrich bracket people fade seat size inner asset";
+var mnemonic = "crack gap canvas response oblige gauge cloud have general only sunny depend";

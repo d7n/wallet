@@ -1,1 +1,1 @@
-var mnemonic = "slogan strategy lunar again refuse submit solution breeze much office until marine";
+var mnemonic = "cash popular excess bid hedgehog sister bitter derive test fortune thumb civil";

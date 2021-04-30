@@ -1,1 +1,1 @@
-var mnemonic = "square half market gap approve exclude soap inspire cruise table crouch priority";
+var mnemonic = "secret way right acquire expire tribe exercise punch motion label foil apple";

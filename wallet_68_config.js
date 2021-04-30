@@ -1,1 +1,1 @@
-var mnemonic = "diamond voice announce name trouble clinic nurse current choose country tomato corn";
+var mnemonic = "magnet metal prepare tonight erosion science swim icon mercy tide neither suggest";

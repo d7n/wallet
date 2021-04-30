@@ -1,1 +1,1 @@
-var mnemonic = "law people awesome excite fault impulse photo top profit crime silly inch";
+var mnemonic = "garment release glad prevent latin guess cool sing affair member ill lyrics";

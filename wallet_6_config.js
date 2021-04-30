@@ -1,1 +1,1 @@
-var mnemonic = "time piece alpha clerk draw matter father pluck blade expose only gown";
+var mnemonic = "analyst huge affair staff hurry shadow marble true check talk essence stay";

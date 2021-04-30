@@ -1,1 +1,1 @@
-var mnemonic = "because extra find pretty enough during more hospital crumble infant spot practice";
+var mnemonic = "exist medal member inch table hope join captain cream scatter debate famous";

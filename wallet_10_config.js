@@ -1,1 +1,1 @@
-var mnemonic = "praise agent pelican ritual control birth edge affair room marine zero rich";
+var mnemonic = "unusual title input floor account decline onion about private excess hill attend";

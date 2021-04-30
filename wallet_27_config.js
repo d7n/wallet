@@ -1,1 +1,1 @@
-var mnemonic = "remain lumber indicate tag reform play any subway improve spin shy pass";
+var mnemonic = "alien tiny boat cigar corn insect rabbit nephew danger board left harsh";

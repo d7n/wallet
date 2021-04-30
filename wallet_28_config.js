@@ -1,1 +1,1 @@
-var mnemonic = "mass proof maximum puzzle point alarm element grid air danger dial file";
+var mnemonic = "wrong nose mixture busy excuse kiss foster payment hat select pigeon extra";

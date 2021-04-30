@@ -1,1 +1,1 @@
-var mnemonic = "alter pave train please toddler own water ancient trash mask firm version";
+var mnemonic = "spoon load found urban spider become speak memory drastic during core pioneer";

@@ -1,1 +1,1 @@
-var mnemonic = "exit zero bomb kite skate canal clog used banner cushion theme mistake";
+var mnemonic = "chimney film country seek snow cancel loyal hazard cave sun bag badge";

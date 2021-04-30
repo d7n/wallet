@@ -1,1 +1,1 @@
-var mnemonic = "core guard carpet boss dune client breeze person unusual volcano prevent swarm";
+var mnemonic = "tiger dynamic alarm segment page combine gather measure crowd pull luggage quit";

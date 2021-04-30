@@ -1,1 +1,1 @@
-var mnemonic = "leader engage wink cheese midnight churn smoke appear state virtual unveil large";
+var mnemonic = "average coyote draft close prevent check forget axis can wreck together north";

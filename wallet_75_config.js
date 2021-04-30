@@ -1,1 +1,1 @@
-var mnemonic = "any ketchup joke bunker repeat dolphin duty cloth vocal evolve wrist rain";
+var mnemonic = "unique embody elbow pigeon tomato switch shop sunny pledge bid violin raw";

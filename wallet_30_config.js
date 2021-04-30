@@ -1,1 +1,1 @@
-var mnemonic = "cluster fabric february wealth neither material hello buffalo nature bring exit poverty";
+var mnemonic = "prosper gospel suit trap pyramid morning caught purity sail universe invest kiwi";

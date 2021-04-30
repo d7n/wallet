@@ -1,1 +1,1 @@
-var mnemonic = "knee web come drop release aerobic issue junk force leisure verb speak";
+var mnemonic = "decade secret problem crash skirt before explain team armed razor bless divert";

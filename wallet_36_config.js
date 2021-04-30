@@ -1,1 +1,1 @@
-var mnemonic = "lizard ball flight brave castle oxygen material there mosquito tone ghost innocent";
+var mnemonic = "scout seat mother matter west double cheap jump romance sunny general bunker";

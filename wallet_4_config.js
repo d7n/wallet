@@ -1,1 +1,1 @@
-var mnemonic = "travel dose club crumble jewel nose bleak elevator guard leisure argue hire";
+var mnemonic = "wrong enemy devote dentist night saddle window focus remain cycle trash stay";

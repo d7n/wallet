@@ -1,1 +1,1 @@
-var mnemonic = "sunset chapter village volcano bench sell nasty dash issue eternal firm just";
+var mnemonic = "quit melt pear meat sniff stay cattle shrimp erase sea margin can";

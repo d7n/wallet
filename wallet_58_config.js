@@ -1,1 +1,1 @@
-var mnemonic = "fan resist twenty blame salt critic debate romance mimic enhance aspect fetch";
+var mnemonic = "bus oblige ankle advice genius pass mother tent share modify law grab";

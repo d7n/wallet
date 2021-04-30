@@ -1,1 +1,1 @@
-var mnemonic = "damp educate drama safe sight snack dwarf genre oil iron equip wink";
+var mnemonic = "such heavy type tattoo month neglect shaft mandate truck combine trigger sail";

@@ -1,1 +1,1 @@
-var mnemonic = "stuff biology blind clinic butter gauge thrive mercy feed between crash submit";
+var mnemonic = "twenty price lounge now crisp define wrong keep critic peace captain grain";

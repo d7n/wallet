@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur dolphin toward design trigger start age govern purchase fantasy movie spoon";
+var mnemonic = "panther remind west patrol sunny about ordinary indicate before flame shop lunch";

@@ -1,1 +1,1 @@
-var mnemonic = "together chief venture pistol jewel dash soda frost light sock whisper grunt";
+var mnemonic = "cost need quick visual clip flag fish mushroom eyebrow addict stand royal";

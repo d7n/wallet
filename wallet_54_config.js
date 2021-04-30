@@ -1,1 +1,1 @@
-var mnemonic = "inquiry people genuine sure mouse amount breeze spare force stick easily file";
+var mnemonic = "mask sniff panel basket snake omit provide hat wrong live problem palm";

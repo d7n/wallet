@@ -1,1 +1,1 @@
-var mnemonic = "wait invite glow debate utility iron arena rebel film blue little chaos";
+var mnemonic = "situate unaware essay hazard train chalk cool bag poverty fossil fatigue moral";

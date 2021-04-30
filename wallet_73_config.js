@@ -1,1 +1,1 @@
-var mnemonic = "limit obscure pet tiger immune diagram sea pool wonder undo music very";
+var mnemonic = "phrase innocent ask cute sustain menu ability decorate demand steel crane bid";

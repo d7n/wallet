@@ -1,1 +1,1 @@
-var mnemonic = "weekend family boost canal snack stadium render worth axis tonight castle repeat";
+var mnemonic = "language parent easy later rotate iron various couch sorry suspect escape guard";

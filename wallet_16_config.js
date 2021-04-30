@@ -1,1 +1,1 @@
-var mnemonic = "tissue valley summer allow virtual front ahead boost minimum topple grain scheme";
+var mnemonic = "gate toward excite myth banana evoke blur bright scissors gather light front";

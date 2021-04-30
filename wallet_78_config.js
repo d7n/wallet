@@ -1,1 +1,1 @@
-var mnemonic = "travel prosper soap virus airport weasel good betray protect armor vehicle around";
+var mnemonic = "gloom plug always bid report tiger dune when sudden camera antenna seek";

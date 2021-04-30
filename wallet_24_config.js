@@ -1,1 +1,1 @@
-var mnemonic = "cereal board better hard alarm hurt canyon cube curious entry lunar firm";
+var mnemonic = "elite neglect reward slim topple true parade sustain turn monster exotic spoon";

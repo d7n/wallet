@@ -1,1 +1,1 @@
-var mnemonic = "eight smile cushion stove glimpse floor bless remember random water repair heavy";
+var mnemonic = "day toe hole local vacant polar mask silly crouch own impose primary";

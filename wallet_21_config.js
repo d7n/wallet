@@ -1,1 +1,1 @@
-var mnemonic = "all tomato common baby twelve manual pen army steak runway number memory";
+var mnemonic = "city cinnamon powder deer path brass motor gym simple bulk argue extra";

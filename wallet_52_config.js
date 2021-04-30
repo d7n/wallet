@@ -1,1 +1,1 @@
-var mnemonic = "focus auto upset useless record medal hill box swear radar orphan clog";
+var mnemonic = "box actual crunch gasp flight wish wall tail real gasp tent chief";

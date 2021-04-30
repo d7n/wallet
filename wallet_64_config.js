@@ -1,1 +1,1 @@
-var mnemonic = "gospel robust cricket raven drip gospel myth another advance gain enroll leisure";
+var mnemonic = "cactus monster hungry permit history resist absorb razor scan crew neutral evoke";

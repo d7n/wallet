@@ -1,1 +1,1 @@
-var mnemonic = "silly gospel sad custom million stool limb wet disease ribbon devote sign";
+var mnemonic = "orbit parrot girl asthma slow melt slender humble glide diagram random ranch";

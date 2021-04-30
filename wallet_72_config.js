@@ -1,1 +1,1 @@
-var mnemonic = "couple uniform tennis badge tail auto artefact poem pen noodle upset race";
+var mnemonic = "exit tourist mass exit toast pride wagon inch strategy bachelor twenty stone";

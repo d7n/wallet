@@ -1,1 +1,1 @@
-var mnemonic = "now feed minimum prize balcony skate craft machine desk gain pilot jungle";
+var mnemonic = "correct void oval will front owner sea domain sell below belt hip";

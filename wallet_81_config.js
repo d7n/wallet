@@ -1,1 +1,1 @@
-var mnemonic = "code mention banana juice appear turtle face never wedding impose core town";
+var mnemonic = "blossom entire indicate seek display wrap umbrella wink robot mean fox penalty";

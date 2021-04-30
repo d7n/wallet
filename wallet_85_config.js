@@ -1,1 +1,1 @@
-var mnemonic = "demise monster usual lab attack rebuild field cause tilt mansion notable glimpse";
+var mnemonic = "pony collect board afraid urge merit puppy inch gym dress know deputy";

@@ -1,1 +1,1 @@
-var mnemonic = "assist say model will pizza truck question extend sphere sound legal civil";
+var mnemonic = "belt punch kit garment caution monkey morning actress noise outdoor joke need";

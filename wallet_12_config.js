@@ -1,1 +1,1 @@
-var mnemonic = "entire seminar bench recipe squirrel stove embrace member inch series build skin";
+var mnemonic = "filter guilt mystery solve canyon leg omit wave similar apology brisk jaguar";

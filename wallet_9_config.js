@@ -1,1 +1,1 @@
-var mnemonic = "city program swift excite obtain crazy worry enroll way audit device want";
+var mnemonic = "obey sense unusual gown journey right install anxiety twelve unfold essence ritual";

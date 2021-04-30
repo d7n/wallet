@@ -1,1 +1,1 @@
-var mnemonic = "dry attract potato option desk near only monkey maze used extra main";
+var mnemonic = "muffin fatigue black strategy helmet stand tower vague agree climb fatal immense";

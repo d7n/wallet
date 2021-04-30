@@ -1,1 +1,1 @@
-var mnemonic = "whale vital people reduce joy awkward pelican donate farm enforce depth mule";
+var mnemonic = "unknown bone puzzle cupboard meat bicycle grunt chimney canyon sting cheap vibrant";
