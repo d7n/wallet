@@ -1,1 +1,1 @@
-var mnemonic = "crumble hurry wide easy update connect assault bridge drift tonight cool flip";
+var mnemonic = "cradle paper live point cousin airport alert farm inform speed trend uncle";

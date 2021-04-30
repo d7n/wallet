@@ -1,1 +1,1 @@
-var mnemonic = "razor resemble believe anger voice trade rookie trap later cause transfer coach";
+var mnemonic = "buffalo message assist make flee puppy payment strategy arrow mandate equip cage";

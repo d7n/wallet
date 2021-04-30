@@ -1,1 +1,1 @@
-var mnemonic = "modify secret distance where space dash state citizen usage bulb science strong";
+var mnemonic = "spread galaxy off seminar battle very program warm question bleak welcome dose";

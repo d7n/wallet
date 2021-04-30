@@ -1,1 +1,1 @@
-var mnemonic = "flock diet peasant doll mango surprise gym exact fruit fantasy cradle speed";
+var mnemonic = "fall immense hurdle ten better cement hedgehog loyal snow minute lawsuit rent";

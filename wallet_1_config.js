@@ -1,1 +1,1 @@
-var mnemonic = "mimic tiny debris bridge pig erode lucky metal suit absurd voyage upon";
+var mnemonic = "sign sea maple brave still cover use barrel kingdom ribbon renew female";

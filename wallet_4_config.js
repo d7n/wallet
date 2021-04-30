@@ -1,1 +1,1 @@
-var mnemonic = "rookie twin acoustic flee million twelve defy deposit brother holiday foster champion";
+var mnemonic = "puppy radio dentist element cash impact bridge dress auto size wolf want";

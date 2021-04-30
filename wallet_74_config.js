@@ -1,1 +1,1 @@
-var mnemonic = "pledge alien era bottom trash inside pulp later snack mobile offer select";
+var mnemonic = "ticket increase use upon tumble armor family extra industry tiger deposit sponsor";

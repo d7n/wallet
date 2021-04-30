@@ -1,1 +1,1 @@
-var mnemonic = "list excess hen horror venture genre limb inside culture march item name";
+var mnemonic = "good adjust seed lift merry celery lens review sand trigger angle boy";

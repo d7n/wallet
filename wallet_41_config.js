@@ -1,1 +1,1 @@
-var mnemonic = "luggage merge peanut either item refuse you picture fall always bracket pass";
+var mnemonic = "once rotate reunion room swap visa predict length climb jungle easy focus";

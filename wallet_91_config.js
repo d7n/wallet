@@ -1,1 +1,1 @@
-var mnemonic = "human canyon author paddle describe garbage awesome catalog primary help hub flash";
+var mnemonic = "shallow grain organ permit van onion rescue hub announce hood token horse";

@@ -1,1 +1,1 @@
-var mnemonic = "soldier guilt butter able inject canyon mad best width define acid engine";
+var mnemonic = "position lazy tonight crucial school piano original art label skin unlock drum";

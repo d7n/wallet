@@ -1,1 +1,1 @@
-var mnemonic = "breeze caution surface paper auction define myth security banana conduct decide okay";
+var mnemonic = "upper alcohol slim office airport obey craft phone shoot there evidence gold";

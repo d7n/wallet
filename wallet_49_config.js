@@ -1,1 +1,1 @@
-var mnemonic = "blind anger boring solution have diet gain buzz faculty click write hole";
+var mnemonic = "safe zero alter dolphin maid cost under magic fever honey intact drop";

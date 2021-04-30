@@ -1,1 +1,1 @@
-var mnemonic = "outside adapt midnight heavy ring rely warfare timber deputy remind produce glass";
+var mnemonic = "inflict modify fly human save medal afraid ritual speed aunt lock avoid";

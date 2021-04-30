@@ -1,1 +1,1 @@
-var mnemonic = "stuff ordinary awake journey cage remove inform cannon dream wear farm loop";
+var mnemonic = "entry athlete finish analyst head attract panda spin panther auto quote civil";

@@ -1,1 +1,1 @@
-var mnemonic = "black super lottery endorse crowd major almost crash rug exhibit nose earth";
+var mnemonic = "juice urban cereal wool alarm brass eye suspect banana bounce maid sadness";

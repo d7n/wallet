@@ -1,1 +1,1 @@
-var mnemonic = "tent convince mix cinnamon witness noble that motor piece throw trick lady";
+var mnemonic = "picture exit follow purpose step gauge income other milk catch distance exhaust";

@@ -1,1 +1,1 @@
-var mnemonic = "negative team obscure virtual income tennis flag allow smoke potato team desk";
+var mnemonic = "defy worry stool diesel devote dismiss vessel dress slide elephant bleak advice";

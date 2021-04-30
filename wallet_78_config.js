@@ -1,1 +1,1 @@
-var mnemonic = "resist relax ostrich initial slab walk scrub height dolphin edge despair vicious";
+var mnemonic = "fix cricket odor parrot kid brass struggle manage police inch track split";

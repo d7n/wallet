@@ -1,1 +1,1 @@
-var mnemonic = "rule oyster game motor infant humor fossil inquiry among turkey bicycle entry";
+var mnemonic = "common surround travel milk copy tornado daring child comfort educate oppose hobby";

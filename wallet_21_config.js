@@ -1,1 +1,1 @@
-var mnemonic = "cause salute despair anxiety mimic tower wool disease monitor gym water tattoo";
+var mnemonic = "jungle abandon what wheat demise balcony general hover demand alley radar tag";

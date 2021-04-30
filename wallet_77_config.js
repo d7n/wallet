@@ -1,1 +1,1 @@
-var mnemonic = "mass beach lucky fatal faculty spy invest undo only garbage phone december";
+var mnemonic = "bus minimum high tip loyal gather urban light best pink fold dwarf";

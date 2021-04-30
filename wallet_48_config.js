@@ -1,1 +1,1 @@
-var mnemonic = "brush merry attitude express admit voyage huge mouse brand hip lake length";
+var mnemonic = "mother nominee almost meat neutral silver actual good retire live bright renew";

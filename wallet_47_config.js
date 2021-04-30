@@ -1,1 +1,1 @@
-var mnemonic = "pudding north artwork lizard fix control better put south wish mushroom entry";
+var mnemonic = "inform curious rail slam rose viable jump rain art staff squirrel roof";

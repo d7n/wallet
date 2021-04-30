@@ -1,1 +1,1 @@
-var mnemonic = "kite because crater stock ranch visit vicious scatter peanut umbrella immune nasty";
+var mnemonic = "job wagon credit wire clog glimpse indicate mammal divert column profit depth";

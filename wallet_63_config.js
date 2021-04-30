@@ -1,1 +1,1 @@
-var mnemonic = "fresh monster nature target again throw energy radio divide soldier potato portion";
+var mnemonic = "depend gallery lion wisdom conduct bubble width defy have junior exact siren";

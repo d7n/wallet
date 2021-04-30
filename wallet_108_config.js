@@ -1,1 +1,1 @@
-var mnemonic = "word execute mutual file deer bar own disease echo net observe material";
+var mnemonic = "axis infant behave excess plastic cereal future gaze long scout beauty soccer";

@@ -1,1 +1,1 @@
-var mnemonic = "chalk traffic upper wreck draw raccoon useful bulb vessel candy empower word";
+var mnemonic = "during blush degree legal climb vague enter host depend away bridge execute";

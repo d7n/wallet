@@ -1,1 +1,1 @@
-var mnemonic = "crouch flag slot emerge scrub forget repeat exclude forum expire just crumble";
+var mnemonic = "camera unusual easily coconut inform install absurd admit deliver liberty drop notable";

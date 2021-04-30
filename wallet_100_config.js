@@ -1,1 +1,1 @@
-var mnemonic = "load only avoid convince already kangaroo panel bomb spring truly state bird";
+var mnemonic = "army spend close say amateur whale phrase glue manual clean junior title";

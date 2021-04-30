@@ -1,1 +1,1 @@
-var mnemonic = "symbol broken margin drama eagle focus faith same exit among large recall";
+var mnemonic = "doll cabbage youth monster wisdom obtain mystery walk process material fortune notice";

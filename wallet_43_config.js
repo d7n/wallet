@@ -1,1 +1,1 @@
-var mnemonic = "vapor bottom average baby east legal blouse inspire eight fix feel chat";
+var mnemonic = "churn deal cruel agent gate cliff harsh vacant swift thought feed expose";

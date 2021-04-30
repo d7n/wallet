@@ -1,1 +1,1 @@
-var mnemonic = "dentist raven float monkey submit volume flag exclude phrase remain tornado enlist";
+var mnemonic = "swarm cram access smile evidence live alter force curtain mixture tone feature";

@@ -1,1 +1,1 @@
-var mnemonic = "spare issue put try shallow top feature obscure slush six boy dignity";
+var mnemonic = "legal outdoor couch come aware junk grief tide connect weather wreck scorpion";

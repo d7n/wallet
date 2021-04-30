@@ -1,1 +1,1 @@
-var mnemonic = "moon goat matrix era orphan yellow pretty afraid spoil auction fury clap";
+var mnemonic = "gun cattle silent cup music omit beauty wrong base gloom slender math";

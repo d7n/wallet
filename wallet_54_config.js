@@ -1,1 +1,1 @@
-var mnemonic = "series sick ripple open menu congress mango brush december purity credit father";
+var mnemonic = "funny pudding palace milk best guide general audit risk account army prison";

@@ -1,1 +1,1 @@
-var mnemonic = "wife retreat awkward park winter escape harsh century liberty love such odor";
+var mnemonic = "rocket elder dog vintage develop erupt group mimic destroy judge snap jacket";

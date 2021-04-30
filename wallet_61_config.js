@@ -1,1 +1,1 @@
-var mnemonic = "ginger interest defy suit february patch rural cherry update faith bring wave";
+var mnemonic = "scorpion nose merit vocal ceiling banana puppy rescue mad pepper vapor then";

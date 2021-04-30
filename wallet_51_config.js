@@ -1,1 +1,1 @@
-var mnemonic = "that wool tourist suit knock afraid main employ rare antenna kiss pledge";
+var mnemonic = "despair flower ethics holiday link cause purity art just sample purpose autumn";

@@ -1,1 +1,1 @@
-var mnemonic = "miss security matter web elephant kite comfort document pull anxiety absurd dial";
+var mnemonic = "across melt loyal busy segment rude almost ketchup casual final valid mention";

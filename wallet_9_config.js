@@ -1,1 +1,1 @@
-var mnemonic = "talent cloth pepper alley miracle dwarf gain pizza umbrella engage orange appear";
+var mnemonic = "rural spawn good rate concert delay rack immense engage soon curve skull";

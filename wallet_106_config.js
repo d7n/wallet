@@ -1,1 +1,1 @@
-var mnemonic = "magnet turtle skirt distance eternal hunt baby liar inform donor jazz lunar";
+var mnemonic = "borrow level daring accuse any obtain near address wage protect planet aware";

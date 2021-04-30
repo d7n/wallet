@@ -1,1 +1,1 @@
-var mnemonic = "depend corn elephant boil lamp fluid deputy best harbor duty poverty crunch";
+var mnemonic = "essence rack heart dizzy outside blast chalk goose escape security anxiety again";

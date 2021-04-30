@@ -1,1 +1,1 @@
-var mnemonic = "debris elephant agree sorry what bubble system tape actor return embody sell";
+var mnemonic = "grain crush ten mind diamond tonight double urge visa practice breeze dinosaur";

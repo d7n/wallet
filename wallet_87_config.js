@@ -1,1 +1,1 @@
-var mnemonic = "dream trick trouble mandate put search cook better broken lawsuit much burden";
+var mnemonic = "mad horn virtual page canyon girl decade abandon cage alert bread curious";

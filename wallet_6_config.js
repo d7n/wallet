@@ -1,1 +1,1 @@
-var mnemonic = "cupboard siege acquire dust price celery when life aim judge club inherit";
+var mnemonic = "dress useful service episode exhaust elder hair kitchen green gravity ten hurry";

@@ -1,1 +1,1 @@
-var mnemonic = "caught pizza table view dove police small toast race object alpha hint";
+var mnemonic = "ring avoid river space attend clog mirror model lumber scan road chef";

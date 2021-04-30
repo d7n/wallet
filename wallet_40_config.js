@@ -1,1 +1,1 @@
-var mnemonic = "minor cousin goose sketch front word elbow pulse slender topple option also";
+var mnemonic = "defy legend surge special fly peanut punch boat violin casual critic slide";

@@ -1,1 +1,1 @@
-var mnemonic = "benefit chimney glare prison cousin choice obey snap shrug best payment hope";
+var mnemonic = "pink flash wash guilt congress zebra culture muscle face analyst glove seed";

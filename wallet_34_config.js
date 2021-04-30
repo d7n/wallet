@@ -1,1 +1,1 @@
-var mnemonic = "you distance hat beach save tilt crowd cube together spell can thought";
+var mnemonic = "weapon profit federal quarter prosper family online story ghost tube divert island";

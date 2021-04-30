@@ -1,1 +1,1 @@
-var mnemonic = "same cotton over loyal burst need kitten catch survey pause spirit meat";
+var mnemonic = "assist day adjust pitch all unaware primary tribe brush gate slot endorse";

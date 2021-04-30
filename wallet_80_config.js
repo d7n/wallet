@@ -1,1 +1,1 @@
-var mnemonic = "hub choose chaos media absent organ problem draw brief sunny fluid absurd";
+var mnemonic = "farm sphere jelly helmet juice assist relax truck special bunker beef tent";

@@ -1,1 +1,1 @@
-var mnemonic = "bracket best drama soccer whale company super decrease load web maple train";
+var mnemonic = "second divorce senior dinner update inflict cinnamon glare tower carpet west champion";

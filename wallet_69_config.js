@@ -1,1 +1,1 @@
-var mnemonic = "record fee law gallery visit learn hazard bubble beach sudden talent muffin";
+var mnemonic = "dentist width entire humor craft require top service guard warfare burger credit";

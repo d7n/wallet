@@ -1,1 +1,1 @@
-var mnemonic = "arm one motor aisle south check vast review mushroom shock hospital sword";
+var mnemonic = "drum jelly quote ceiling battle harsh rifle exile cream inhale nerve artwork";

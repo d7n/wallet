@@ -1,1 +1,1 @@
-var mnemonic = "increase warfare surge paper novel absorb extra chronic aware fringe screen animal";
+var mnemonic = "earn song song scissors timber unlock grab damage panic feature zebra ritual";

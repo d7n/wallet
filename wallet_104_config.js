@@ -1,1 +1,1 @@
-var mnemonic = "make virus midnight sea nation toss outside dragon danger magic emerge arena";
+var mnemonic = "flat chief tourist cattle quality echo valid breeze flush spawn antenna subway";

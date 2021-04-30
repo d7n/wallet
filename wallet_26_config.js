@@ -1,1 +1,1 @@
-var mnemonic = "yellow farm mother master lunar average game misery west few kingdom timber";
+var mnemonic = "bread grief frame claim cabin report truly image choice upon kiwi wreck";

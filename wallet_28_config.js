@@ -1,1 +1,1 @@
-var mnemonic = "cloth same flower amused never farm cricket need author tide hub want";
+var mnemonic = "math mask leopard bird nephew viable slow chicken since raven crunch resource";

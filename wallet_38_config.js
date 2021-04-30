@@ -1,1 +1,1 @@
-var mnemonic = "grace board own beyond hope razor water stumble frozen assist pact clump";
+var mnemonic = "peace boss goddess grape squirrel shallow spy desert recipe current huge hour";

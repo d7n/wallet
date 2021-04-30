@@ -1,1 +1,1 @@
-var mnemonic = "escape bunker cupboard liquid impulse roast symbol real icon general ladder apple";
+var mnemonic = "use utility phone power rebel connect local shock design clay fly eagle";

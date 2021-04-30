@@ -1,1 +1,1 @@
-var mnemonic = "raven crisp depth deny pulse giant airport hold can success dynamic barrel";
+var mnemonic = "risk tragic blue steak boring move ranch burger olive squirrel absent deer";

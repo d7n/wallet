@@ -1,1 +1,1 @@
-var mnemonic = "disease return level melody beauty mistake muscle renew witness naive net gorilla";
+var mnemonic = "reform author run carbon brass defense wonder result priority jelly announce excite";

@@ -1,1 +1,1 @@
-var mnemonic = "eternal swallow start people cart control casino load away supply wedding flag";
+var mnemonic = "swap toss cargo wild collect wedding clarify bind know book cube grow";

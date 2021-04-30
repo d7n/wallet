@@ -1,1 +1,1 @@
-var mnemonic = "upon plastic annual wing boil census affair embrace clip iron idle crew";
+var mnemonic = "bachelor blade mobile spot velvet deposit trade virus neglect crisp volume differ";

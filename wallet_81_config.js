@@ -1,1 +1,1 @@
-var mnemonic = "dream flag travel rough clip agent news vehicle student index obscure caught";
+var mnemonic = "voice fork access leopard lend trash movie cattle radar close quiz obvious";

@@ -1,1 +1,1 @@
-var mnemonic = "train suspect garlic quality text atom swap crucial aim oblige trigger lift";
+var mnemonic = "skirt certain car peace basic rely gossip retire mention amateur undo cabbage";

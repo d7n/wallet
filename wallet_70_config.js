@@ -1,1 +1,1 @@
-var mnemonic = "evolve wrap rhythm boil brown shift typical echo supply shock network deposit";
+var mnemonic = "trap sniff gap lemon predict region glue three diamond exhibit ramp worry";

@@ -1,1 +1,1 @@
-var mnemonic = "true rice kiwi spell federal anchor script family swap olive focus chase";
+var mnemonic = "drink pause agree public jungle rough series voice section success below dream";

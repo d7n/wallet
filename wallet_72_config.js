@@ -1,1 +1,1 @@
-var mnemonic = "enhance judge woman shoulder energy lion update swarm bitter jazz donor light";
+var mnemonic = "pattern daughter cradle leopard ladder behave sail behind grace wedding father bulb";

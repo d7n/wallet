@@ -1,1 +1,1 @@
-var mnemonic = "chunk sport heavy blade urban purity sauce stick disease eight pipe stock";
+var mnemonic = "remain trigger video truck power custom possible outer guitar gather female judge";

@@ -1,1 +1,1 @@
-var mnemonic = "unveil lion drill resemble erase zero speak jealous solve add wedding surface";
+var mnemonic = "bag cool relax addict shuffle wrap corn long march sort version abandon";

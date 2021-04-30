@@ -1,1 +1,1 @@
-var mnemonic = "donor upper rely soldier cube great icon ready armed size cradle million";
+var mnemonic = "keep youth harsh blade size cricket craft destroy remember foam permit upgrade";

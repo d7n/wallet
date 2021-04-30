@@ -1,1 +1,1 @@
-var mnemonic = "deliver picnic yellow leaf cram defense rough butter luggage speed lamp veteran";
+var mnemonic = "divide know border kit grocery vast myself enrich limb throw dial dish";

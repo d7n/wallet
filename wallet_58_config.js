@@ -1,1 +1,1 @@
-var mnemonic = "divorce please finger squeeze better wash manual become sun route toy title";
+var mnemonic = "clean also unique abstract angry stomach stone hammer enjoy kitchen leg shuffle";

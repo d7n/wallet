@@ -1,1 +1,1 @@
-var mnemonic = "funny nerve chimney castle scrub off wagon bird fancy fuel visual detect";
+var mnemonic = "man loyal tip output basket consider cactus funny question rare desk goddess";

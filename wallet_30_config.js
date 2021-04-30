@@ -1,1 +1,1 @@
-var mnemonic = "acquire access firm insect torch husband bamboo abandon notable page panda inch";
+var mnemonic = "concert perfect hair bicycle frown want wise keep model song physical cereal";

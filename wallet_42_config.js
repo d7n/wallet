@@ -1,1 +1,1 @@
-var mnemonic = "total museum plunge frown destroy keen lumber radar shoe there bargain insane";
+var mnemonic = "hamster diet token sunny genius prefer roast language forget advance fame letter";

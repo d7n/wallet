@@ -1,1 +1,1 @@
-var mnemonic = "arctic crunch shiver first grow avocado bitter mesh hold air imitate effort";
+var mnemonic = "cactus theory absurd flavor evolve label box battle organ reunion gun loud";

@@ -1,1 +1,1 @@
-var mnemonic = "protect build choose stick announce balance artist issue final fame pulp gallery";
+var mnemonic = "into diagram rubber become they purity potato chase describe calm search scorpion";

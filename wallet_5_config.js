@@ -1,1 +1,1 @@
-var mnemonic = "leopard chunk metal nephew wait stereo vault similar business develop deputy march";
+var mnemonic = "slot toe flash muffin permit cheese blouse journey stable sport grief clog";

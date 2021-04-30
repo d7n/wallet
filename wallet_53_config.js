@@ -1,1 +1,1 @@
-var mnemonic = "cool acid casino drama soccer siren belt mind trap enable repair sweet";
+var mnemonic = "spring regret then zebra account pink squeeze seed cream assist mother arena";

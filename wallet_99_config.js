@@ -1,1 +1,1 @@
-var mnemonic = "property broken share price mad kick evidence strike later gaze draft inside";
+var mnemonic = "laptop section flush verify bus donkey away modify announce enforce vehicle civil";

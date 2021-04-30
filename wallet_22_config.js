@@ -1,1 +1,1 @@
-var mnemonic = "gentle vacant exchange rail poem coast dumb gather syrup still toast attack";
+var mnemonic = "mention surprise buddy cruise photo service spread clinic knock kit claim vault";

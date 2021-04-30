@@ -1,1 +1,1 @@
-var mnemonic = "twelve forum begin feed double normal cigar require lonely eagle any sun";
+var mnemonic = "earn rice fold upper leisure warrior lonely truck panic damp maple now";

@@ -1,1 +1,1 @@
-var mnemonic = "kitten milk horse enrich boat below town kangaroo dust keep now mistake";
+var mnemonic = "medal reduce code fold right art project warfare machine much battle velvet";
