@@ -1,1 +1,1 @@
-var mnemonic = "area gallery air exact purity repeat ready guilt fury turkey gentle sunset";
+var mnemonic = "prefer slide correct neutral sauce invest exchange network soul aunt walnut mass";

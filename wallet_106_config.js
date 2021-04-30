@@ -1,1 +1,1 @@
-var mnemonic = "scale educate wall view burden flash label duty between coast fine wheel";
+var mnemonic = "wreck envelope bread identify seed borrow stove receive shock service absurd debris";

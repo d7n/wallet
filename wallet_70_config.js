@@ -1,1 +1,1 @@
-var mnemonic = "fox dinner tongue seek present impose polar fat capital cash topple panther";
+var mnemonic = "miss october tower debris leader across entire circle spoon forward gorilla access";

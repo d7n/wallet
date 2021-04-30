@@ -1,1 +1,1 @@
-var mnemonic = "amazing side reveal tomato again game mercy away bench concert rookie surround";
+var mnemonic = "budget danger liberty accuse globe smart pond sunny bag warrior chicken police";

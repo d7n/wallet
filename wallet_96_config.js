@@ -1,1 +1,1 @@
-var mnemonic = "cake pink ripple judge release ghost corn embrace love note stuff usage";
+var mnemonic = "amateur during win early inquiry echo brain rival arrive noise boy kitten";

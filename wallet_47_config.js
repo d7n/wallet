@@ -1,1 +1,1 @@
-var mnemonic = "useful mammal ignore tourist gravity oak loan margin burger hollow typical cradle";
+var mnemonic = "alien essay such hair wave annual raccoon alter defense armor keep grape";

@@ -1,1 +1,1 @@
-var mnemonic = "thumb donate police donkey mass quality explain text unaware basic hold old";
+var mnemonic = "tail sauce oak husband easy table ice toe arena bullet silent team";

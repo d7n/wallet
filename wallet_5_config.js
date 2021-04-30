@@ -1,1 +1,1 @@
-var mnemonic = "advice pipe slam final destroy midnight sentence tone trade tortoise case soldier";
+var mnemonic = "rotate sorry despair close aim address level cinnamon deliver system unit develop";

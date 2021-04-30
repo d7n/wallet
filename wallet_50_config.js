@@ -1,1 +1,1 @@
-var mnemonic = "bullet hotel useless junior machine tobacco father parrot permit exact math old";
+var mnemonic = "wall tomato local sadness license brave era vivid memory iron floor trumpet";

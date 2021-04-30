@@ -1,1 +1,1 @@
-var mnemonic = "input use palace curious nominee snake apology adapt appear square mushroom thunder";
+var mnemonic = "hope sign phrase easy evil vanish derive lounge carbon tree danger round";

@@ -1,1 +1,1 @@
-var mnemonic = "six spring sweet jump fringe glare demise market potato seven margin settle";
+var mnemonic = "goat choose ball pipe curious fall athlete neither curtain retire stem gadget";

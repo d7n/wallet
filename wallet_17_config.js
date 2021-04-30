@@ -1,1 +1,1 @@
-var mnemonic = "relax fruit release decade atom bounce faint proof wealth matter tray violin";
+var mnemonic = "dad flush middle mobile excess else ride filter range oven wrestle omit";

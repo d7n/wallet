@@ -1,1 +1,1 @@
-var mnemonic = "kite quiz cluster attack sock memory staff december during type top raw";
+var mnemonic = "dirt firm peanut lend lonely soft vacuum portion island cancel road oxygen";

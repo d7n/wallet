@@ -1,1 +1,1 @@
-var mnemonic = "boost grab talent pupil hotel medal seat direct slow congress pluck visual";
+var mnemonic = "burst punch dinosaur aspect away thunder arrest open adjust couch torch purity";

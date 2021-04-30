@@ -1,1 +1,1 @@
-var mnemonic = "talk kitten shop foam couple dry blush sadness window review exhibit start";
+var mnemonic = "news satoshi borrow scare cat lawn print tag tornado burden fruit cup";

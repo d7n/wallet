@@ -1,1 +1,1 @@
-var mnemonic = "crystal surge number coffee horn next orange devote neck sponsor mass crack";
+var mnemonic = "repeat law develop property size edit engine describe angle income fossil caught";

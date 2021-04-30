@@ -1,1 +1,1 @@
-var mnemonic = "hope banana slice midnight nasty coral sand basket plug garment way wrist";
+var mnemonic = "hub know upon bring essay upper universe sustain swarm core tornado aware";

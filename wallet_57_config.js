@@ -1,1 +1,1 @@
-var mnemonic = "unhappy domain angry echo clerk one child hurry scene large rose can";
+var mnemonic = "glow resource join hello forum noodle trim project wonder unable kite hurdle";

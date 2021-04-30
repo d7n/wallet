@@ -1,1 +1,1 @@
-var mnemonic = "second combine day wrestle sign patrol slide topple group poverty apart inject";
+var mnemonic = "rug vital garlic pledge fun surface scorpion vault blame pretty gap language";

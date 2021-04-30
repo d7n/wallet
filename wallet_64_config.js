@@ -1,1 +1,1 @@
-var mnemonic = "blur tongue load square fee unveil kit oval leisure hurdle digital camera";
+var mnemonic = "tank announce since tuna cruise regular crush parrot tool wheat grid butter";

@@ -1,1 +1,1 @@
-var mnemonic = "kiss swear ocean wrist reflect buzz business credit eager cage program leader";
+var mnemonic = "divide gather brand shy comic hip early throw stone foster away intact";

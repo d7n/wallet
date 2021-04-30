@@ -1,1 +1,1 @@
-var mnemonic = "soul trend promote rail someone table pole glimpse insect host poem frost";
+var mnemonic = "jeans rubber network addict luggage antique arrive nasty interest hill blood agree";

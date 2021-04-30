@@ -1,1 +1,1 @@
-var mnemonic = "spice local curve awful service order pottery math today embody demise earth";
+var mnemonic = "brain sniff current spray pluck load copper bid floor grow fee segment";

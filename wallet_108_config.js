@@ -1,1 +1,1 @@
-var mnemonic = "suit pass thank citizen cost forum hurry tissue garbage bundle genuine farm";
+var mnemonic = "deliver cute crop gesture soul dog absent since pumpkin title during blame";

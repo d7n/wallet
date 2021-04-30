@@ -1,1 +1,1 @@
-var mnemonic = "nest onion nest need print crop river engage learn uncover delay throw";
+var mnemonic = "smoke immense tape paddle breeze under grab entire train panda hundred label";

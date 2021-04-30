@@ -1,1 +1,1 @@
-var mnemonic = "negative bird embrace eager rack refuse faculty arena diesel van junk ride";
+var mnemonic = "assume frost dutch culture dirt limit album profit quit ranch trash ocean";

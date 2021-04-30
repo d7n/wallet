@@ -1,1 +1,1 @@
-var mnemonic = "short edge weapon where mix crater spider together obey garbage leaf finger";
+var mnemonic = "identify few hill cousin frame bind athlete police between cupboard jungle world";

@@ -1,1 +1,1 @@
-var mnemonic = "strong furnace derive husband pattern main lumber glide top wink pumpkin vivid";
+var mnemonic = "kit plastic great gauge recall chest paper mad govern ostrich scissors endorse";

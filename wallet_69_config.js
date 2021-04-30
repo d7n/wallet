@@ -1,1 +1,1 @@
-var mnemonic = "wide damage circle alert tell gold asset own attend option guide rhythm";
+var mnemonic = "harbor goddess kind merge mimic race problem raven strategy orchard junk antenna";

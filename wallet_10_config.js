@@ -1,1 +1,1 @@
-var mnemonic = "daughter melody order hole end lucky rice note skate slim rabbit vivid";
+var mnemonic = "coral cliff weapon dad erase purity mention dismiss swap life vast head";

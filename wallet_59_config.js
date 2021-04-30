@@ -1,1 +1,1 @@
-var mnemonic = "used matrix fly clarify maple always collect giraffe cradle inspire coin fine";
+var mnemonic = "ticket slot fall way laundry pride wonder muscle rookie dragon net grief";

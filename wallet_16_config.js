@@ -1,1 +1,1 @@
-var mnemonic = "assume grape medal stand update tired staff crisp current view liberty record";
+var mnemonic = "outer vital tuna security cash vacuum mix obtain burden ketchup dream pumpkin";

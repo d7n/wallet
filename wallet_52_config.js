@@ -1,1 +1,1 @@
-var mnemonic = "grant amount champion liar cherry assume obscure into grief grant follow move";
+var mnemonic = "gold behind dutch dice oyster boost life service two critic buddy flat";

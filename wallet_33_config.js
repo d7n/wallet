@@ -1,1 +1,1 @@
-var mnemonic = "wage exercise echo horn hockey silly fiscal fog merge meat later member";
+var mnemonic = "hurdle doll mosquito verb boring inner rate penalty brain climb detect wide";

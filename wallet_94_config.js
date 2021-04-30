@@ -1,1 +1,1 @@
-var mnemonic = "bargain utility trigger monster nominee wear episode hub zoo purchase police wolf";
+var mnemonic = "riot shoe cricket stadium heart stick rocket camera penalty mistake fish canyon";

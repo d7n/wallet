@@ -1,1 +1,1 @@
-var mnemonic = "amused march chimney armed suggest caution solve correct best pencil basic unhappy";
+var mnemonic = "autumn minimum valley order kick voice peace expire jazz harbor word elegant";

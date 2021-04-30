@@ -1,1 +1,1 @@
-var mnemonic = "worth stairs egg object peace visual kidney sudden web real snap current";
+var mnemonic = "average food trust slice drastic wonder view diagram one struggle city senior";

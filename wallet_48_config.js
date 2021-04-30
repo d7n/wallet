@@ -1,1 +1,1 @@
-var mnemonic = "blur access leave fragile rely tornado mesh abandon elite donor stock balance";
+var mnemonic = "invest cotton fall execute good park crunch century lava sock fire page";

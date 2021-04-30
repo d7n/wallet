@@ -1,1 +1,1 @@
-var mnemonic = "reward vacant boost duty junk tuna apple glance step melody maple adult";
+var mnemonic = "pretty concert supreme flag gallery accuse nest primary guard faculty reform predict";

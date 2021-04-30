@@ -1,1 +1,1 @@
-var mnemonic = "recall genre humble suffer insect direct car apology extra erase ethics palm";
+var mnemonic = "morning fat boring panda skull option month circle pact shadow immune absent";

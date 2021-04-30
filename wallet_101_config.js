@@ -1,1 +1,1 @@
-var mnemonic = "demand feel grape knee fish income half toddler urge human bamboo impact";
+var mnemonic = "oyster festival brush region again situate couch govern alone best group hospital";

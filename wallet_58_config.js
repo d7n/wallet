@@ -1,1 +1,1 @@
-var mnemonic = "start course taste filter ethics under pumpkin click choose search emotion goddess";
+var mnemonic = "useless rely blind expose confirm ramp enough apple spice ozone taste gloom";

@@ -1,1 +1,1 @@
-var mnemonic = "rule build typical dumb casino grow carry depth abstract crawl piano embrace";
+var mnemonic = "planet trend pipe way want name grant swamp else actual need elbow";

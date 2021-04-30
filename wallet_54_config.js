@@ -1,1 +1,1 @@
-var mnemonic = "output trumpet venture average pledge swarm bring oven dawn lunar butter eternal";
+var mnemonic = "tattoo antique salon lounge advice vintage liar palace valid report witness tiger";

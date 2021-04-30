@@ -1,1 +1,1 @@
-var mnemonic = "pig crop boat demise output youth control father fragile eyebrow story border";
+var mnemonic = "vacant latin mother path act theory occur forget focus betray guard session";

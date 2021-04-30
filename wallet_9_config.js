@@ -1,1 +1,1 @@
-var mnemonic = "axis glare stairs evolve final sweet proud oxygen trick chalk tiger wagon";
+var mnemonic = "leg wonder bomb trigger pave satisfy screen lottery shaft budget shove decide";

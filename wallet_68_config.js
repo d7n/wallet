@@ -1,1 +1,1 @@
-var mnemonic = "raise double danger one income garbage actress captain decrease saddle cycle dance";
+var mnemonic = "round calm fire juice turtle horn source festival bleak develop debate ready";

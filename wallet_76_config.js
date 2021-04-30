@@ -1,1 +1,1 @@
-var mnemonic = "palace bonus theme novel chest wolf blood fatal casino reunion can sunset";
+var mnemonic = "invest jungle piano just review napkin ribbon typical emerge banana syrup bicycle";

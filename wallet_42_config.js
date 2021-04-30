@@ -1,1 +1,1 @@
-var mnemonic = "leg enlist exhaust episode devote gadget evil blush object post depth amazing";
+var mnemonic = "crime trial between arrive pet base letter firm nest program junk rally";

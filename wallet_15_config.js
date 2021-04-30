@@ -1,1 +1,1 @@
-var mnemonic = "donor must solution fetch garden feature shoulder accident crater pattern royal device";
+var mnemonic = "suspect salad april topic utility suggest tattoo found sister sentence flame access";

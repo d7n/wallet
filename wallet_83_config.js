@@ -1,1 +1,1 @@
-var mnemonic = "cargo upper office horn loud shield subject zone rescue utility inhale draft";
+var mnemonic = "describe payment sister rude garbage era ship patch sister pause danger purpose";

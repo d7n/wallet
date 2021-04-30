@@ -1,1 +1,1 @@
-var mnemonic = "album length mask undo kite monster wolf erase host bus seat nasty";
+var mnemonic = "slim always special merit loyal gas ability program sample menu april carpet";

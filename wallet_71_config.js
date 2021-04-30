@@ -1,1 +1,1 @@
-var mnemonic = "virtual squirrel bright miss venue crack seminar phrase ensure clip ask curious";
+var mnemonic = "one category goddess edge useful initial opera conduct charge slim edge gloom";

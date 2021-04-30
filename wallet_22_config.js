@@ -1,1 +1,1 @@
-var mnemonic = "dolphin tool cradle sponsor note sniff lyrics enforce maze leisure engage tail";
+var mnemonic = "same ability impact caution asthma swear theme ring base slab rate word";

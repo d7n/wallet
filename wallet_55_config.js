@@ -1,1 +1,1 @@
-var mnemonic = "game program race parrot cargo erode draw match write marriage sting analyst";
+var mnemonic = "gap combine exhibit flat valid direct beach ten state remove boy bicycle";

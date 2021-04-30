@@ -1,1 +1,1 @@
-var mnemonic = "path wealth refuse depth tackle hundred comic dance churn blouse outdoor alien";
+var mnemonic = "dress layer inhale victory intact payment hotel finger artwork erode draw solid";

@@ -1,1 +1,1 @@
-var mnemonic = "ignore cable wife silent chapter lemon fold borrow oak woman wrap among";
+var mnemonic = "hundred kiss sad parrot sure rapid execute fiscal task solve audit item";

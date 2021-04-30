@@ -1,1 +1,1 @@
-var mnemonic = "ozone summer cake pelican mail swim oblige seek ozone boring drink moral";
+var mnemonic = "own rescue miracle random job maple hedgehog outdoor mail peace suffer car";

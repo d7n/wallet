@@ -1,1 +1,1 @@
-var mnemonic = "where load rookie state nose annual vacuum place lady twin whisper modify";
+var mnemonic = "result zoo arena curtain more attend private ability version olive more salute";

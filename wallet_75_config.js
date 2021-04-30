@@ -1,1 +1,1 @@
-var mnemonic = "wish second swear note hunt motion forum ostrich concert expose cost coast";
+var mnemonic = "riot frown merit tooth smart similar weird nose ethics crumble next put";

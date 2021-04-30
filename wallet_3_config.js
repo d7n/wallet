@@ -1,1 +1,1 @@
-var mnemonic = "olive praise gallery ribbon heavy oxygen link stick live depth raven mansion";
+var mnemonic = "fruit tuition kingdom beach aspect guilt donkey tray lawn over inside naive";

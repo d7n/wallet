@@ -1,1 +1,1 @@
-var mnemonic = "tortoise immense valid bean coconut boss clap anxiety because cart quit food";
+var mnemonic = "blur clerk decrease panel join arrive race genuine boss leader wrap future";

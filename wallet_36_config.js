@@ -1,1 +1,1 @@
-var mnemonic = "embrace knee expose health foot combine become enrich south catalog foster provide";
+var mnemonic = "staff census immense asset better else kid dial song erosion raccoon feed";

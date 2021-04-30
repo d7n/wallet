@@ -1,1 +1,1 @@
-var mnemonic = "unusual glove digital excuse gate soup leaf gauge timber name river volcano";
+var mnemonic = "online corn fan walk access senior stadium kiwi erosion decorate type chair";

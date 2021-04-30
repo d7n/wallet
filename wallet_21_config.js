@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo second size cannon educate clarify select elbow spot impact panther poet";
+var mnemonic = "battle hockey tag bright apart dash hawk input menu label smooth sphere";

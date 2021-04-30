@@ -1,1 +1,1 @@
-var mnemonic = "october fetch proud bleak appear text under balcony betray blush prefer bulb";
+var mnemonic = "nephew sample armed invite aunt abandon best shell wolf pilot smooth arena";

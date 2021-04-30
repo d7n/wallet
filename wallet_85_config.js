@@ -1,1 +1,1 @@
-var mnemonic = "phrase need shoe sustain warfare gloom install news language similar outside arch";
+var mnemonic = "salute cloth demise gap believe sail shine crane latin spring victory wreck";

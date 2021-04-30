@@ -1,1 +1,1 @@
-var mnemonic = "execute fox sponsor mix nasty spatial battle need insane duty cattle gather";
+var mnemonic = "exile pretty wash plug tilt cabin situate pave express very visa series";

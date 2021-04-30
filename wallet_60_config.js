@@ -1,1 +1,1 @@
-var mnemonic = "day trigger lock phone elephant frequent random blind marine high parrot combine";
+var mnemonic = "crystal exit desk tissue people cake myth correct divert pudding frame switch";

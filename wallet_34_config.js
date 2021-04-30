@@ -1,1 +1,1 @@
-var mnemonic = "virus worth weapon dutch shield guilt height boss snap retreat loyal violin";
+var mnemonic = "unusual drill antenna talent apart crunch orange main town resemble delay culture";

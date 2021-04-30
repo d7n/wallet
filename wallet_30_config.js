@@ -1,1 +1,1 @@
-var mnemonic = "enrich lady skull now project elbow avocado broom subject omit demise know";
+var mnemonic = "hair choose about there case husband devote zebra horn endorse slow mountain";

@@ -1,1 +1,1 @@
-var mnemonic = "gym frost zoo sock remove sting hundred puzzle rhythm brass tell depend";
+var mnemonic = "sister train social actual verb grit idle state grass open solution era";

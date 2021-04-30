@@ -1,1 +1,1 @@
-var mnemonic = "edge rare melt job mad increase sniff advice upset three cram equal";
+var mnemonic = "rich potato evil orange crowd mercy jelly valley index never add unaware";

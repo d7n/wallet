@@ -1,1 +1,1 @@
-var mnemonic = "over mix claw memory twin pizza acoustic six minor dignity half walnut";
+var mnemonic = "body birth major adjust idle sell furnace cool hip combine butter alarm";

@@ -1,1 +1,1 @@
-var mnemonic = "room advance borrow shrug thank wish very elevator excess quote clean switch";
+var mnemonic = "bulb pattern verb hidden december rack civil inflict sudden volcano whisper science";

@@ -1,1 +1,1 @@
-var mnemonic = "path engine above great dune chase sad member tobacco ranch dune unit";
+var mnemonic = "same real mercy wrist fashion elevator outside program pitch abstract ski vintage";

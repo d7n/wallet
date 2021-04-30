@@ -1,1 +1,1 @@
-var mnemonic = "robot avocado rifle clean top stomach blush force faint edge length love";
+var mnemonic = "victory dog language nerve tobacco salad estate rich panic seminar track quality";

@@ -1,1 +1,1 @@
-var mnemonic = "siege giant sword category affair syrup glove couple select much urban frog";
+var mnemonic = "baby quantum print live fantasy later olive story laugh develop dress harsh";

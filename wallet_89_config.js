@@ -1,1 +1,1 @@
-var mnemonic = "version lonely cruel grid clean upset tell pet stamp few junk turkey";
+var mnemonic = "actress wide lion style elite orange cruise heavy smoke elevator below federal";

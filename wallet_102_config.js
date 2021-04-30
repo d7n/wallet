@@ -1,1 +1,1 @@
-var mnemonic = "torch ship monster afraid curtain gesture camera high local town obscure tornado";
+var mnemonic = "hold battle certain capable common divorce work dismiss drum kidney cage gallery";

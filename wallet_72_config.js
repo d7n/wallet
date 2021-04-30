@@ -1,1 +1,1 @@
-var mnemonic = "hamster embody valid legal brush enter coyote exit soon shoe finish polar";
+var mnemonic = "grit drift question horror fever audit endless later cigar dial lift hollow";

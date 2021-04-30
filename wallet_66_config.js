@@ -1,1 +1,1 @@
-var mnemonic = "range toward insane crane story eternal submit already grace eye foot dry";
+var mnemonic = "envelope question merry issue finger bounce curve play like escape snap flame";

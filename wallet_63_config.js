@@ -1,1 +1,1 @@
-var mnemonic = "canyon push inch puppy office moral athlete mesh arrive toward economy keep";
+var mnemonic = "ceiling beef resource relax inform time mutual spirit corn infant food adapt";

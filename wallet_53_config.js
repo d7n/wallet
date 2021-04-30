@@ -1,1 +1,1 @@
-var mnemonic = "fit rule because term grit desk animal arrow ice shell art diesel";
+var mnemonic = "south effort hair ugly clerk vague pitch rich pattern sorry toss illness";

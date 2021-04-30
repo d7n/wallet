@@ -1,1 +1,1 @@
-var mnemonic = "genuine venue kitchen nut pelican pride high behind again maid segment strategy";
+var mnemonic = "analyst ocean catalog differ salad egg milk mobile enough end wife warm";

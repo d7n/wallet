@@ -1,1 +1,1 @@
-var mnemonic = "alcohol virtual science cash pen believe naive debate vendor tornado exotic cattle";
+var mnemonic = "toilet chuckle puppy sweet script shift able clown example area track wealth";

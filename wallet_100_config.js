@@ -1,1 +1,1 @@
-var mnemonic = "require gain pipe oxygen amazing mammal trim never fiscal resist aware acoustic";
+var mnemonic = "nasty decade family quiz novel civil worry kind tube horse give pupil";

@@ -1,1 +1,1 @@
-var mnemonic = "day soccer bracket pause broccoli muscle network slice noble gym give ship";
+var mnemonic = "accident pattern ribbon smile salon area only oil corn system giggle verb";

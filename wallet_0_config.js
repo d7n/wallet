@@ -1,1 +1,1 @@
-var mnemonic = "live alpha tennis hint antique dream rice cancel awful ketchup steak joke";
+var mnemonic = "galaxy bike uniform lava stone balcony monitor very coral inflict rapid loan";

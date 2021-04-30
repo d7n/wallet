@@ -1,1 +1,1 @@
-var mnemonic = "sound air purchase limit pulp join someone hub short easily gate raccoon";
+var mnemonic = "very balcony funny true picnic merit ski bounce ticket recall private addict";

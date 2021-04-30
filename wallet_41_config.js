@@ -1,1 +1,1 @@
-var mnemonic = "food leg top lab frost face indicate reduce goddess perfect upper jealous";
+var mnemonic = "canyon parrot bag dad script silent sustain puppy sleep curious poem dynamic";

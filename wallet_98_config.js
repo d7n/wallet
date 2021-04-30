@@ -1,1 +1,1 @@
-var mnemonic = "promote popular sugar smooth prize relief success fitness toy warrior vital outer";
+var mnemonic = "roast utility border prevent unit twist subway giggle toddler adult announce spike";
