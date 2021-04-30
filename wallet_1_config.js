@@ -1,1 +1,1 @@
-var mnemonic = "similar pink math fat rug various bicycle parent figure film flash develop";
+var mnemonic = "can crouch orange option scrub crunch primary disagree wrong divert sauce gather";

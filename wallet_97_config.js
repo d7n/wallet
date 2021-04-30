@@ -1,1 +1,1 @@
-var mnemonic = "inspire enough brief food test quote turn harbor author permit general midnight";
+var mnemonic = "home split unknown hamster hockey bracket myth metal tide mosquito family century";

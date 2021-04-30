@@ -1,1 +1,1 @@
-var mnemonic = "indoor buddy piano stable ignore bulk library category similar short guess theory";
+var mnemonic = "fresh mass abuse wine accident humor upset sadness mouse fiction middle provide";

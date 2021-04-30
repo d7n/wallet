@@ -1,1 +1,1 @@
-var mnemonic = "mercy used rally off sunset point tragic tube amused wrap tourist become";
+var mnemonic = "apology test diagram journey next wide just use design fetch stamp mind";

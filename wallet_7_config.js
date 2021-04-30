@@ -1,1 +1,1 @@
-var mnemonic = "view alpha multiply vault try arena bomb rescue spin abuse exotic envelope";
+var mnemonic = "avoid kitchen impulse reform regular grow appear rotate leader chapter life cigar";

@@ -1,1 +1,1 @@
-var mnemonic = "flush debate blue traffic stage eager aunt between banana jaguar piece tool";
+var mnemonic = "task erupt speak amused access truck orchard review nerve jaguar success vessel";

@@ -1,1 +1,1 @@
-var mnemonic = "slim assault eyebrow pyramid west response pull release undo camera cupboard wreck";
+var mnemonic = "turkey gentle credit idle obey cruise loyal usual cactus uncle junk neglect";

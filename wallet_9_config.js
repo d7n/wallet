@@ -1,1 +1,1 @@
-var mnemonic = "effort choice hurdle door hunt sustain smooth recycle vacuum tail agree snow";
+var mnemonic = "enlist foot tool case label endorse abandon movie neglect whisper sure total";

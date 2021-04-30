@@ -1,1 +1,1 @@
-var mnemonic = "top federal steak fatal nut cart target crash almost differ garage shoe";
+var mnemonic = "disorder repeat piece tackle jar boy notice ridge double stomach hungry era";

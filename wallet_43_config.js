@@ -1,1 +1,1 @@
-var mnemonic = "vacuum robust seek asset van nominee reduce anchor clever mechanic mix aerobic";
+var mnemonic = "exclude jar town cupboard rally plunge flower earn mimic sustain equal season";

@@ -1,1 +1,1 @@
-var mnemonic = "trade crash crowd steel cousin dry kidney puppy juice laugh clip ocean";
+var mnemonic = "dutch faint noise aunt flash color away volume novel grid cup trial";

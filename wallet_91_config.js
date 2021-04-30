@@ -1,1 +1,1 @@
-var mnemonic = "govern secret grab bench combine access brand dismiss heavy rotate crumble glass";
+var mnemonic = "level stereo unveil comic blanket mean shop fabric vessel civil provide vault";

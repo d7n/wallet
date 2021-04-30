@@ -1,1 +1,1 @@
-var mnemonic = "letter patient rally cotton sail category absurd various shiver gasp jeans indicate";
+var mnemonic = "shove visual turn broken thank shadow ability jungle hurdle undo mirror cattle";

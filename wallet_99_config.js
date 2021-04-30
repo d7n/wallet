@@ -1,1 +1,1 @@
-var mnemonic = "cargo inhale favorite volume equip casual spell purchase magic hawk window number";
+var mnemonic = "staff car post guitar coconut health birth pig cinnamon road cotton creek";

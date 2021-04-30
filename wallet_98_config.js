@@ -1,1 +1,1 @@
-var mnemonic = "keep hundred title faculty sphere fashion develop secret balcony lake auto page";
+var mnemonic = "atom dice file tourist tag negative figure food glove tilt pair virus";

@@ -1,1 +1,1 @@
-var mnemonic = "syrup copper employ swap toward bone opinion donkey common drastic million impact";
+var mnemonic = "used elegant security impulse olive engine update eager mobile expect gather lunar";

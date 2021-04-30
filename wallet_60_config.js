@@ -1,1 +1,1 @@
-var mnemonic = "predict angle treat pepper detail promote team blade ordinary damp play cliff";
+var mnemonic = "salon trend carbon tube clap bunker under hero rigid museum couch orchard";

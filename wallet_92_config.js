@@ -1,1 +1,1 @@
-var mnemonic = "hope film charge nice rally pen long cart loud again congress yard";
+var mnemonic = "such neutral champion suffer unhappy flash hill super park hood eight orchard";

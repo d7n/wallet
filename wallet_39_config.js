@@ -1,1 +1,1 @@
-var mnemonic = "gauge retire velvet artist midnight rural clip guess uncle mixed crystal tiny";
+var mnemonic = "coin barrel already essay nut wine moon address half firm fringe leaf";

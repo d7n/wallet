@@ -1,1 +1,1 @@
-var mnemonic = "chest pepper race come mirror couch kid swallow tower occur park please";
+var mnemonic = "flee alien kiss father cannon feature extra there parade coral add detect";

@@ -1,1 +1,1 @@
-var mnemonic = "fat height enact aspect latin hill life one survey hunt sheriff shallow";
+var mnemonic = "column exile spoon way volcano history capable east task join yard control";

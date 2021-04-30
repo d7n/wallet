@@ -1,1 +1,1 @@
-var mnemonic = "illegal seminar frog damp north swim shaft destroy fossil enlist host major";
+var mnemonic = "bottom scare hard abandon prison gather empty jealous quarter salad harbor speak";

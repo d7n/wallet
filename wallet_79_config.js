@@ -1,1 +1,1 @@
-var mnemonic = "shine tumble define hint broom leg clown calm cruise cake final rebuild";
+var mnemonic = "urban slab harsh title ecology duck adult fatal absent supreme test round";

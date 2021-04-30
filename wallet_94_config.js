@@ -1,1 +1,1 @@
-var mnemonic = "essay fringe addict kidney fabric awake escape puppy knee battle action cook";
+var mnemonic = "tape pen blush march bid pottery write relief slab position embrace rice";

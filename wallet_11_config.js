@@ -1,1 +1,1 @@
-var mnemonic = "rent phrase square finger account favorite split spike absent flower sunset erode";
+var mnemonic = "kitten sphere fortune globe employ raise palace text know bundle cherry naive";

@@ -1,1 +1,1 @@
-var mnemonic = "unaware solution great wheel circle carry you brain empty tobacco inner size";
+var mnemonic = "history nature skirt unit warrior anchor rebuild leg coyote fuel topic assume";

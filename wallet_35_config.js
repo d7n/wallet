@@ -1,1 +1,1 @@
-var mnemonic = "chest spoon pledge hurry auto harsh valley soap chapter shop alter kind";
+var mnemonic = "pigeon novel entire chicken tunnel dial harsh casino broom cost call ocean";

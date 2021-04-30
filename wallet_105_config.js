@@ -1,1 +1,1 @@
-var mnemonic = "cushion bonus around treat flame divorce stock when any plate practice siren";
+var mnemonic = "cup bicycle spell shove annual brand relief sea blame trend educate client";

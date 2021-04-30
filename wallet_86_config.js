@@ -1,1 +1,1 @@
-var mnemonic = "violin glue siege fluid tail rotate spread message limit sausage gown ride";
+var mnemonic = "narrow equal vacant simple ordinary scorpion club smooth rule close danger alert";

@@ -1,1 +1,1 @@
-var mnemonic = "crime mistake lake melt paddle more join rebuild wood because chunk void";
+var mnemonic = "worth oxygen upon infant latin turtle rookie liquid sister boss erupt trouble";

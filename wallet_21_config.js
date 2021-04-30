@@ -1,1 +1,1 @@
-var mnemonic = "depend behind palace noise empower common dilemma resource brand salon sudden double";
+var mnemonic = "cruel sentence frost loop kitten point lobster jacket mix regret pottery yard";

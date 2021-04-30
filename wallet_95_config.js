@@ -1,1 +1,1 @@
-var mnemonic = "way carpet humble toss matter review venture taxi enough build utility cannon";
+var mnemonic = "stomach believe tragic appear hair pioneer blast update coil obscure coil bottom";

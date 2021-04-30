@@ -1,1 +1,1 @@
-var mnemonic = "jeans monitor rebuild mammal lizard erupt garment ocean jump embody ordinary custom";
+var mnemonic = "dream envelope unable raccoon lab affair illness impulse detect alpha neither awesome";

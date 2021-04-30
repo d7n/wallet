@@ -1,1 +1,1 @@
-var mnemonic = "echo consider always glimpse park absent sound twist tag inhale clay loyal";
+var mnemonic = "violin pole exotic ensure embody rocket ostrich cupboard october snap extend hungry";

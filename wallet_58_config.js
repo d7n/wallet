@@ -1,1 +1,1 @@
-var mnemonic = "palm measure sorry topic reunion mirror chunk stick minimum misery laugh start";
+var mnemonic = "soup fabric obvious cost pride silver risk spell brave ball tribe reward";

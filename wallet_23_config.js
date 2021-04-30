@@ -1,1 +1,1 @@
-var mnemonic = "stand blue eternal purity hero outer desk salt flower jealous talk economy";
+var mnemonic = "doll barely unusual seat chest give diagram brisk win delay resource jealous";

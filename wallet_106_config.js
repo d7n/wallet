@@ -1,1 +1,1 @@
-var mnemonic = "advice submit trial describe pond solar grit love party sick enlist second";
+var mnemonic = "library popular pen funny cabbage hip fossil culture metal muscle junk panda";

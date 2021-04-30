@@ -1,1 +1,1 @@
-var mnemonic = "dry august meat sand cool crazy mirror fatal intact swamp swift boy";
+var mnemonic = "flock sheriff energy hero purchase upgrade rude equip sock exit height scheme";

@@ -1,1 +1,1 @@
-var mnemonic = "inquiry edge industry install inspire lend faint chat strong glance tag fish";
+var mnemonic = "tip aisle brand effort reason science denial cool economy year bench pride";

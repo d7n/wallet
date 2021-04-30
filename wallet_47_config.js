@@ -1,1 +1,1 @@
-var mnemonic = "candy canyon expose wool squirrel amused donkey steak radio crowd divorce wine";
+var mnemonic = "inhale man attend help rib pave settle team age rice pioneer rigid";

@@ -1,1 +1,1 @@
-var mnemonic = "sunny salon talk beef narrow visual lava close wreck pilot vote silver";
+var mnemonic = "fury club axis hidden grain appear fade elephant order glass birth media";

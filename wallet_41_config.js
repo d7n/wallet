@@ -1,1 +1,1 @@
-var mnemonic = "seminar badge sound earn fresh eight field food arrive swear auction ritual";
+var mnemonic = "stem pattern step rival asthma paper pool federal share profit sting please";

@@ -1,1 +1,1 @@
-var mnemonic = "shock gasp donkey turtle alone leisure destroy decrease imitate arctic aim ecology";
+var mnemonic = "onion anchor sing design uniform era donkey buzz vivid bulb captain turn";

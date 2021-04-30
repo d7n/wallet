@@ -1,1 +1,1 @@
-var mnemonic = "solution popular fit spoil rail alone slot pudding oyster grace sheriff island";
+var mnemonic = "pluck update chaos buzz earn hunt spend miss rotate swamp affair sniff";

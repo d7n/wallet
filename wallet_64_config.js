@@ -1,1 +1,1 @@
-var mnemonic = "water decline trouble brown mother that chicken act elevator lend much trigger";
+var mnemonic = "wall chaos color wedding quick govern drop radio payment surround very credit";

@@ -1,1 +1,1 @@
-var mnemonic = "jealous rule grace report exercise enact surface visa banana behind isolate bomb";
+var mnemonic = "orange maze aunt orphan accident height culture question barrel this front pumpkin";

@@ -1,1 +1,1 @@
-var mnemonic = "mule kite movie tree corn mesh magnet stomach hire flag naive destroy";
+var mnemonic = "duck quantum caught rate layer arrow theme robust tip industry float exclude";

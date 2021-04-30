@@ -1,1 +1,1 @@
-var mnemonic = "cycle glance pupil cook spatial calm middle caution citizen rude analyst hire";
+var mnemonic = "industry outside camp piece people palm rib purse source entire anger decrease";

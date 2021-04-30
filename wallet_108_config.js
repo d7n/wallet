@@ -1,1 +1,1 @@
-var mnemonic = "attract police orient include walk lawsuit field tackle energy surprise cousin nominee";
+var mnemonic = "avocado change assume when asset music ketchup above west panther scheme short";

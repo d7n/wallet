@@ -1,1 +1,1 @@
-var mnemonic = "junk must move wet coral brown audit pudding garbage upon escape vast";
+var mnemonic = "badge wave era innocent amazing output area winner gain alpha decrease vehicle";

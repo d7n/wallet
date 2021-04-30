@@ -1,1 +1,1 @@
-var mnemonic = "shy elephant liar keep illegal arrange shallow cruel way tell drive wine";
+var mnemonic = "manage sorry copy kidney include hospital pencil chimney tool crater float hero";

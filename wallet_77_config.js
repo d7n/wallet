@@ -1,1 +1,1 @@
-var mnemonic = "hidden mammal ripple absurd pass often kick width glow seek amazing warrior";
+var mnemonic = "goat letter dirt assist captain junior ring search debris glove blush number";

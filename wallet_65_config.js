@@ -1,1 +1,1 @@
-var mnemonic = "file elder unfair diet open bring bag carpet social winner fine bounce";
+var mnemonic = "above dress tooth enact mixed affair goddess rug excite tape hybrid hero";

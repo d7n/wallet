@@ -1,1 +1,1 @@
-var mnemonic = "huge drum fatigue zebra isolate uphold empty citizen exchange bone demise boss";
+var mnemonic = "connect fuel sweet empty soccer frost toy shaft health lens illegal three";

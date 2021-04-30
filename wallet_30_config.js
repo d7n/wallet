@@ -1,1 +1,1 @@
-var mnemonic = "denial silk fancy science mansion prevent purpose action tomato power vague table";
+var mnemonic = "crumble same metal quiz move mountain garage eye paper rice card filter";

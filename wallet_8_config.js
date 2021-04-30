@@ -1,1 +1,1 @@
-var mnemonic = "chest dutch cage sibling predict analyst roast dragon ability slim cannon box";
+var mnemonic = "fit pattern solid kid stereo industry runway cactus virtual stumble hello wall";

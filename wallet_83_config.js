@@ -1,1 +1,1 @@
-var mnemonic = "olive carbon situate tragic melody ball saddle seminar tuna couch fiber style";
+var mnemonic = "glue cradle blood stick myth citizen cream tuition acid visa work scare";

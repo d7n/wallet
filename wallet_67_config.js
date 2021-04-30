@@ -1,1 +1,1 @@
-var mnemonic = "volume melody kid occur injury gesture pelican must wear minimum bike brand";
+var mnemonic = "deny wall trumpet finger juice term bean quantum theme survey spawn pause";

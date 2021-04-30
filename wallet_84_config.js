@@ -1,1 +1,1 @@
-var mnemonic = "green picture access copper wage alone edge journey desk secret crumble weekend";
+var mnemonic = "ugly slogan surround negative sort analyst chef stable kiwi alpha frog brisk";

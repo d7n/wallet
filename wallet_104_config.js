@@ -1,1 +1,1 @@
-var mnemonic = "electric attract sell off wheat chaos symbol very divide dance reunion penalty";
+var mnemonic = "quit funny nasty hurt inquiry essay turkey oil only vocal captain idea";

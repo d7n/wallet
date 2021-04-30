@@ -1,1 +1,1 @@
-var mnemonic = "pigeon body must north stem kid steel call junior book planet end";
+var mnemonic = "whisper word sword police hurdle reflect tuna wide fly fit vicious hat";

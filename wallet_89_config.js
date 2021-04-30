@@ -1,1 +1,1 @@
-var mnemonic = "trust bulb athlete garlic gold glad tortoise before retreat board style fatal";
+var mnemonic = "start dilemma badge suit dutch style army surprise bracket wolf depart soul";

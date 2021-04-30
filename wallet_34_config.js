@@ -1,1 +1,1 @@
-var mnemonic = "tape math quiz impulse file slam feed tomorrow zero soda photo mirror";
+var mnemonic = "file purity just segment captain summer token crater unaware evil maple miracle";

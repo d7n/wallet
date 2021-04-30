@@ -1,1 +1,1 @@
-var mnemonic = "vacant crush turn excess spike museum join tackle please time found section";
+var mnemonic = "disease brave local resist egg twice ball bleak parent safe salon found";

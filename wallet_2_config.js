@@ -1,1 +1,1 @@
-var mnemonic = "boat select entry sphere phone soap crane spider minute axis powder injury";
+var mnemonic = "snake shiver right assault original retire fashion vintage meat coral pride fruit";

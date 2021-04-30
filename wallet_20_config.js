@@ -1,1 +1,1 @@
-var mnemonic = "ahead pear butter nasty truly lunch evil drink cheese ostrich mix regret";
+var mnemonic = "speak indicate pink abuse inch help impact omit evoke shell trip nothing";

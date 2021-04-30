@@ -1,1 +1,1 @@
-var mnemonic = "enough birth else drink razor enable jacket insane enrich bus smile harvest";
+var mnemonic = "open power cricket river edge armed now number case silly until video";

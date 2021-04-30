@@ -1,1 +1,1 @@
-var mnemonic = "shield busy crop congress now august edge now cake case label depend";
+var mnemonic = "code disease upon era plunge spy arrive prepare match glare wisdom abuse";

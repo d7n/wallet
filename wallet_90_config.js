@@ -1,1 +1,1 @@
-var mnemonic = "fan market whisper awesome slim perfect worry spend follow dolphin pottery able";
+var mnemonic = "accident invite educate cushion frequent share peace devote relax later science garlic";

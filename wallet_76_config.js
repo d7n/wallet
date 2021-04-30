@@ -1,1 +1,1 @@
-var mnemonic = "cattle upset ability sudden grain fan fog pool ranch lab solve sweet";
+var mnemonic = "image ivory helmet zebra observe iron bargain east bone vehicle test leave";

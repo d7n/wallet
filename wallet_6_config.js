@@ -1,1 +1,1 @@
-var mnemonic = "easy satisfy ride morning guide venue wash exchange present apple baby ability";
+var mnemonic = "foam improve again fabric voyage unique stock jungle hire jelly shallow melt";

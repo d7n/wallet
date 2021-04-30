@@ -1,1 +1,1 @@
-var mnemonic = "general walnut monster goddess group olympic eagle rigid mesh tuna sight victory";
+var mnemonic = "oak pass ice join spell asset trust minute street million ring dwarf";

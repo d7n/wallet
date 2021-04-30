@@ -1,1 +1,1 @@
-var mnemonic = "ball tattoo rough name outside swallow find future jaguar web feed romance";
+var mnemonic = "cup verb panic large decline object near sell donkey awake bronze canyon";

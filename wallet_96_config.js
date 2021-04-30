@@ -1,1 +1,1 @@
-var mnemonic = "inject flight figure harvest staff mushroom express control tribe vault property absent";
+var mnemonic = "catch scatter garage dune found dad family claw any lumber struggle remain";

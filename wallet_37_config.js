@@ -1,1 +1,1 @@
-var mnemonic = "vast friend detect glory voice lens dwarf vast rude kind process peanut";
+var mnemonic = "library orchard regular phone hamster uniform vacuum maid breeze shock audit venue";

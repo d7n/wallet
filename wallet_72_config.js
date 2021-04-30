@@ -1,1 +1,1 @@
-var mnemonic = "bread wall devote monster around twin fiscal cross museum obtain tail sun";
+var mnemonic = "tower caution pair video business maximum tongue price clog three drama cross";

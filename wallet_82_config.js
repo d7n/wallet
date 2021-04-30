@@ -1,1 +1,1 @@
-var mnemonic = "response arena aim language blur can behave lake fetch gospel height one";
+var mnemonic = "someone boy offer obvious believe peanut firm spy trend corn like punch";

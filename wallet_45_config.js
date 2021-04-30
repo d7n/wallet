@@ -1,1 +1,1 @@
-var mnemonic = "camp brand private series idea million soon high iron join fabric state";
+var mnemonic = "chunk dismiss very suggest base sad donate spray universe exotic tray quarter";

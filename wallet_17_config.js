@@ -1,1 +1,1 @@
-var mnemonic = "empty aim display acquire summer flower version assume wood other diet tip";
+var mnemonic = "skin spin fashion raw edit right angry peanut bridge crash coyote goose";

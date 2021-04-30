@@ -1,1 +1,1 @@
-var mnemonic = "case stem salad comfort ice fantasy post dragon diary merge world emotion";
+var mnemonic = "stock much tooth flash limit venture peace divorce access filter rain essence";

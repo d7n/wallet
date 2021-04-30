@@ -1,1 +1,1 @@
-var mnemonic = "tornado news depend human jungle garment coin deliver visit festival lamp start";
+var mnemonic = "assume stand drip throw flush beauty nurse minor snake any virtual rich";

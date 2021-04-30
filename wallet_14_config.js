@@ -1,1 +1,1 @@
-var mnemonic = "panther gadget ugly clean genre february usual orient speed blade swallow holiday";
+var mnemonic = "soon verb churn embark chronic fault soon keep mushroom couple retreat jelly";

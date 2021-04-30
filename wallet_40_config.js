@@ -1,1 +1,1 @@
-var mnemonic = "jump feature brain inject oppose dress desert appear desk spoil outer wonder";
+var mnemonic = "enact okay face senior tape long patient afford fiction duty thunder describe";

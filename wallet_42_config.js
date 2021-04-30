@@ -1,1 +1,1 @@
-var mnemonic = "fresh dinner bird mesh senior layer motion satisfy clutch mix fine crop";
+var mnemonic = "square sphere eight correct jealous cousin print motion approve eyebrow deal novel";

@@ -1,1 +1,1 @@
-var mnemonic = "limit december inner trash wait summer move result onion lumber pizza nominee";
+var mnemonic = "secret finish milk sibling need confirm snake gown capital this subject enact";

@@ -1,1 +1,1 @@
-var mnemonic = "sunset front title torch mountain office box tilt canoe diesel view surprise";
+var mnemonic = "grid erase strong month dust enable mean today false mind total stage";

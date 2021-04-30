@@ -1,1 +1,1 @@
-var mnemonic = "slogan wrap kid detect bundle oak collect aisle trophy pride inspire can";
+var mnemonic = "share engage knee champion bunker defense amount grow solve hip balance stable";

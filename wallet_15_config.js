@@ -1,1 +1,1 @@
-var mnemonic = "forget where pretty blood rapid blind alone mixed injury bulb swear indoor";
+var mnemonic = "husband unaware acoustic mimic ship wild police dilemma stage puppy ripple labor";

@@ -1,1 +1,1 @@
-var mnemonic = "machine jealous april ready edit warm face pond weasel spice option armor";
+var mnemonic = "honey honey obscure skate sauce tiny wagon guide blame upset dragon obtain";

@@ -1,1 +1,1 @@
-var mnemonic = "situate behave trend energy pill victory woman spy label ecology trumpet bench";
+var mnemonic = "confirm essay tuna office laundry gaze next physical high hidden cloth used";

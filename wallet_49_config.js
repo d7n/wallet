@@ -1,1 +1,1 @@
-var mnemonic = "width safe clown emotion govern help surprise gloom pole uniform anger blue";
+var mnemonic = "crawl pretty keep pipe pistol atom miss jelly film boil vibrant tail";

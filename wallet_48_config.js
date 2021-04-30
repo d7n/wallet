@@ -1,1 +1,1 @@
-var mnemonic = "tissue peace scene genre spy primary occur spell silent impose lucky arena";
+var mnemonic = "gate cousin ill film alert baby absent believe burst rabbit ethics badge";
