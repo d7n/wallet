@@ -1,1 +1,1 @@
-var mnemonic = "rug tenant wife sauce tennis power apart fly recipe supreme antenna volcano";
+var mnemonic = "certain fantasy suffer eager kingdom volcano fire guilt exact intact furnace ugly";

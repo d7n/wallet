@@ -1,1 +1,1 @@
-var mnemonic = "pulp attack achieve silent home very city patient retreat tonight candy globe";
+var mnemonic = "permit problem notice segment say bullet execute fix ozone wrestle once solid";

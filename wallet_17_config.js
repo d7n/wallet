@@ -1,1 +1,1 @@
-var mnemonic = "mule column brass idle appear remember sphere around ketchup summer betray lazy";
+var mnemonic = "wrestle neck monkey observe mandate old bicycle avoid crumble unfold render guard";

@@ -1,1 +1,1 @@
-var mnemonic = "remind sort material helmet joy upper mind tourist border hurry dizzy bag";
+var mnemonic = "first talk sunset bleak pig stay gate pact depend present occur caution";

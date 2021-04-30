@@ -1,1 +1,1 @@
-var mnemonic = "churn junk ugly treat athlete rely trust tuna share canal always infant";
+var mnemonic = "sport fruit capable mail paper trim room shield crew suspect mind excess";

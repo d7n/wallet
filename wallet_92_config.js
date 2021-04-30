@@ -1,1 +1,1 @@
-var mnemonic = "curious jaguar pony process moment sniff ankle grit harvest dash weasel hunt";
+var mnemonic = "crawl century next receive hero avocado crystal tooth afraid dial problem draw";

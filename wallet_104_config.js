@@ -1,1 +1,1 @@
-var mnemonic = "brass ketchup session broom control skate diamond retreat clerk duty file switch";
+var mnemonic = "agree patrol pumpkin disorder gloom bottom auto fruit obscure unit again sight";

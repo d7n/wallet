@@ -1,1 +1,1 @@
-var mnemonic = "virtual elegant find like milk sentence base insane arrange virus trust item";
+var mnemonic = "drip pink evil useless one drastic image alarm income chuckle captain fan";

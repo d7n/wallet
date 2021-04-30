@@ -1,1 +1,1 @@
-var mnemonic = "puzzle badge bunker mesh guitar kiwi typical maze ostrich survey response cricket";
+var mnemonic = "rail about acid fiber inner wedding elite swamp champion inspire broccoli dinosaur";

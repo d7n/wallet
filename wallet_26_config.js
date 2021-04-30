@@ -1,1 +1,1 @@
-var mnemonic = "grain clog hip walk upgrade cycle drink void pride animal render couch";
+var mnemonic = "riot sleep insect begin what depart adult snake movie also grow luggage";

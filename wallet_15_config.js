@@ -1,1 +1,1 @@
-var mnemonic = "wedding table mention bullet city forest coin era talk spend erosion faint";
+var mnemonic = "glow first despair scan glad suspect boss ensure cave steak minor betray";

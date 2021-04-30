@@ -1,1 +1,1 @@
-var mnemonic = "announce fiction swallow fiscal slender admit fashion shiver circle add jazz volume";
+var mnemonic = "heart name master knife true define settle eternal evoke blood immense rubber";

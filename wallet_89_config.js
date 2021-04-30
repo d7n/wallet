@@ -1,1 +1,1 @@
-var mnemonic = "voice eye antenna giggle fade mention shine smooth enemy lab bone oval";
+var mnemonic = "chuckle pill identify dry shift tent okay knee oval fancy lock tray";

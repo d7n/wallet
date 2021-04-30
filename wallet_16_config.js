@@ -1,1 +1,1 @@
-var mnemonic = "destroy either clap staff river rally lawsuit exact mandate dream spoon rural";
+var mnemonic = "ozone bone hold pilot sting gym captain pride trick wedding link wolf";

@@ -1,1 +1,1 @@
-var mnemonic = "consider jaguar print cute water purity spider front bean envelope notice rubber";
+var mnemonic = "sample divorce area name wife airport aim remember about card pipe place";

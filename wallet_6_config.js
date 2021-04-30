@@ -1,1 +1,1 @@
-var mnemonic = "rabbit easily whale fitness flock river sunny sock fine outdoor strong album";
+var mnemonic = "soldier return exact hobby culture smoke rack put brief effort jump almost";

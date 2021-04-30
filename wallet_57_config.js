@@ -1,1 +1,1 @@
-var mnemonic = "still filter circle argue royal jaguar fossil morning push egg spice drift";
+var mnemonic = "mirror inmate ski couch length rich meat book two bridge laundry picture";

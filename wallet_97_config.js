@@ -1,1 +1,1 @@
-var mnemonic = "cloud basket fantasy extend wheat margin company general chuckle early quantum guard";
+var mnemonic = "dolphin dismiss midnight mail net galaxy minute swift weasel someone calm uncle";

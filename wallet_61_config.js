@@ -1,1 +1,1 @@
-var mnemonic = "come buddy tumble frozen motor helmet slogan say column arctic siren cliff";
+var mnemonic = "fiction custom wine notice half erase depend broom crumble artist stomach glance";

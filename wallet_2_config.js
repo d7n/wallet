@@ -1,1 +1,1 @@
-var mnemonic = "riot bid speed piano always cabbage success wrong firm axis range spare";
+var mnemonic = "effort spin area lend peace trial shock proud risk season scene cave";

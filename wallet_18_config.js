@@ -1,1 +1,1 @@
-var mnemonic = "tail cancel motor denial cradle topic creek want friend alpha teach memory";
+var mnemonic = "antenna cave wheel quarter network spring immense few swarm vocal outer body";

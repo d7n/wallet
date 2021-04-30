@@ -1,1 +1,1 @@
-var mnemonic = "orphan primary debris legend elbow chuckle circle pilot outer buddy mule stem";
+var mnemonic = "assume all trim lunar item kingdom fork tomato world intact diary jazz";

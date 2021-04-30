@@ -1,1 +1,1 @@
-var mnemonic = "fine gallery mixture cinnamon jewel index spare three army eagle venture visit";
+var mnemonic = "result magic series saddle seven weasel abandon festival lab carpet culture mutual";

@@ -1,1 +1,1 @@
-var mnemonic = "pitch family train approve screen never into aim police cheap anxiety journey";
+var mnemonic = "invite gain subject antenna assault inmate tilt balcony party metal fantasy fragile";

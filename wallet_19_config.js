@@ -1,1 +1,1 @@
-var mnemonic = "either correct coast antenna pitch believe voice say clinic circle element brother";
+var mnemonic = "follow hybrid opinion apart time hazard net harbor holiday few barely possible";

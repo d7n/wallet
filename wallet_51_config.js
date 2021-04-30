@@ -1,1 +1,1 @@
-var mnemonic = "casino horror bread similar loyal world layer gather crunch drift crunch erase";
+var mnemonic = "alley pulse plunge zone neutral mail cushion violin useless goat real laptop";

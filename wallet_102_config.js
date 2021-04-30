@@ -1,1 +1,1 @@
-var mnemonic = "brave unlock lend kick ancient cream solve dust cereal kingdom derive slush";
+var mnemonic = "rain aisle human where athlete sad car south fitness party wood quit";

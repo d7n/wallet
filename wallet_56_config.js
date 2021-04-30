@@ -1,1 +1,1 @@
-var mnemonic = "demand depth someone scrap doctor clump insane below metal welcome pelican mouse";
+var mnemonic = "student scout cannon wisdom capital tobacco ethics ranch foster parent vacant riot";

@@ -1,1 +1,1 @@
-var mnemonic = "angry admit duty fork present impulse change canvas leaf guess mirror wood";
+var mnemonic = "juice casual swallow pitch robust struggle vote equip state offer scan chaos";

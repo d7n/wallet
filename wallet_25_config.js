@@ -1,1 +1,1 @@
-var mnemonic = "hybrid picture today differ party whip often loop toward vault mixture taxi";
+var mnemonic = "pyramid figure journey sweet huge enlist blossom belt rich agent cereal flavor";

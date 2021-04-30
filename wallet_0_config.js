@@ -1,1 +1,1 @@
-var mnemonic = "vicious hood assault mention garbage genuine noise evolve rebel print raven fire";
+var mnemonic = "predict govern nice shell organ hammer milk budget zone access mobile chest";

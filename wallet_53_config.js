@@ -1,1 +1,1 @@
-var mnemonic = "gate runway field medal merit lesson eager swap cross face open engage";
+var mnemonic = "fun gentle double legal frost flock advice kitten north cliff evoke flush";

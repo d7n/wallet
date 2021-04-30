@@ -1,1 +1,1 @@
-var mnemonic = "impose safe cry lawsuit couch journey hand knock choose shield owner glide";
+var mnemonic = "badge vintage neither word name surge current kid borrow make gravity tuna";

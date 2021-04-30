@@ -1,1 +1,1 @@
-var mnemonic = "draw egg rare sting blanket tomorrow melt stumble sting mystery battle turkey";
+var mnemonic = "toast column extend aware federal wool iron crouch clever fury then pull";

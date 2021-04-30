@@ -1,1 +1,1 @@
-var mnemonic = "drama tent pen derive neutral spell fly repair please cupboard day diesel";
+var mnemonic = "essence side coyote equal easy fossil annual soft consider twelve pipe exhibit";

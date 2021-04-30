@@ -1,1 +1,1 @@
-var mnemonic = "alone claim recipe frost video harsh act youth unveil junk stomach mobile";
+var mnemonic = "mother sun axis duck swear senior label around unique current object solve";

@@ -1,1 +1,1 @@
-var mnemonic = "receive drastic beyond bleak damage unfair already switch visa lyrics guide alarm";
+var mnemonic = "jeans arrive powder bacon vacuum subject cinnamon head gather exclude crater trophy";

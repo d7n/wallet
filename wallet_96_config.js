@@ -1,1 +1,1 @@
-var mnemonic = "unable viable ski recycle company exact state genuine trophy worth toward paddle";
+var mnemonic = "pen weather estate thank lab jeans similar mirror shove soft coin invest";

@@ -1,1 +1,1 @@
-var mnemonic = "treat desert trash lock tree ladder news fence grocery clock galaxy oil";
+var mnemonic = "ghost insect agent puzzle mix robust also mobile diesel leopard audit toilet";

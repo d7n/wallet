@@ -1,1 +1,1 @@
-var mnemonic = "giant voyage clerk inject pioneer weird ginger render ethics leave trip spend";
+var mnemonic = "reason hurdle recycle doctor entire waste try spatial stadium float funny order";

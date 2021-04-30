@@ -1,1 +1,1 @@
-var mnemonic = "patient pyramid siren weird dilemma sign rough famous rib noble slice humor";
+var mnemonic = "bounce rapid panda deer plastic remain tone minimum donor start length naive";

@@ -1,1 +1,1 @@
-var mnemonic = "file squeeze below fringe police amount fatigue useless prosper duck benefit learn";
+var mnemonic = "blur decrease royal purity panic trophy almost direct wild model fragile march";

@@ -1,1 +1,1 @@
-var mnemonic = "pottery ready learn rain stove diagram mosquito alcohol one dream local aspect";
+var mnemonic = "lend engine spell desk demand grab imitate creek fever lyrics trumpet similar";

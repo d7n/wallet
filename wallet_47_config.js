@@ -1,1 +1,1 @@
-var mnemonic = "favorite point glimpse silk clever ethics maximum say foster quit torch foil";
+var mnemonic = "void snack invite when select describe wise wink crime plastic mesh bean";

@@ -1,1 +1,1 @@
-var mnemonic = "jelly aerobic fashion two repeat balance bird shoulder dwarf mirror situate empower";
+var mnemonic = "lobster disorder timber army cover bird embody vacuum tone clump say dilemma";

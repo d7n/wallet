@@ -1,1 +1,1 @@
-var mnemonic = "work runway nation size alien vocal rookie check anger gain stay slab";
+var mnemonic = "swamp cradle mad recycle salad clump melt enact alley napkin wheel abandon";

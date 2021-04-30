@@ -1,1 +1,1 @@
-var mnemonic = "sing kind gym violin leaf exhibit proud maximum blame machine valley morning";
+var mnemonic = "reflect duck time canvas slogan begin chunk hello urge kitten rabbit burst";

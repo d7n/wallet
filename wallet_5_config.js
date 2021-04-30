@@ -1,1 +1,1 @@
-var mnemonic = "used talk mesh latin hope own tribe grain essay pencil west virus";
+var mnemonic = "patient exhaust scout tail rule pen neutral pulse ritual vicious build credit";

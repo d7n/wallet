@@ -1,1 +1,1 @@
-var mnemonic = "unlock boss erupt hurt tunnel access account universe average couch slush weasel";
+var mnemonic = "mirror pact onion reunion measure amount egg cruel accident airport snack glimpse";

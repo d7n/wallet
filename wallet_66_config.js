@@ -1,1 +1,1 @@
-var mnemonic = "fine filter sauce image group beyond blanket fever cloud resource general income";
+var mnemonic = "plunge fringe monster sibling cherry gun brave gap approve scrub night example";

@@ -1,1 +1,1 @@
-var mnemonic = "fault fault wreck rich never space pond math butter scale involve zebra";
+var mnemonic = "patrol size zebra mimic office switch moment tenant you ahead sick web";

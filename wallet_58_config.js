@@ -1,1 +1,1 @@
-var mnemonic = "fossil toe turkey child clean brass ketchup stereo phrase pioneer tray armed";
+var mnemonic = "recipe cabin erase symbol mind despair photo stadium vintage kick ticket double";

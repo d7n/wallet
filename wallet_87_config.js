@@ -1,1 +1,1 @@
-var mnemonic = "scale crouch inner panel blush cook vibrant inmate horse century spend hurdle";
+var mnemonic = "market van abuse system stand age trend upset undo type fix crew";

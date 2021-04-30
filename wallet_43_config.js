@@ -1,1 +1,1 @@
-var mnemonic = "ankle eagle state age daughter kingdom antique print fabric either review kite";
+var mnemonic = "lawn salute crowd purity bamboo vocal twin border dad floor unable renew";

@@ -1,1 +1,1 @@
-var mnemonic = "lock mail host struggle tail wheel hill jeans parrot cloud arena struggle";
+var mnemonic = "infant rebel liberty must grape mom canyon cheap life brass stamp slight";

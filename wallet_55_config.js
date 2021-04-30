@@ -1,1 +1,1 @@
-var mnemonic = "various begin perfect bench indicate place load sunny fee trumpet discover stadium";
+var mnemonic = "infant where juice horror give clean point few cheap repair pet mail";

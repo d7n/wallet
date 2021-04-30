@@ -1,1 +1,1 @@
-var mnemonic = "lizard odor fashion want armed sustain response point annual narrow wheat favorite";
+var mnemonic = "display firm flush truth unaware food piano under useful front index easily";

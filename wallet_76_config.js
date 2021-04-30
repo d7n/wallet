@@ -1,1 +1,1 @@
-var mnemonic = "smooth sugar orbit indicate original salad pony rail woman panther priority fall";
+var mnemonic = "hero double master trial ripple blossom ski honey budget quick wrestle visual";

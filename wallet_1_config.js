@@ -1,1 +1,1 @@
-var mnemonic = "pool radio pyramid hundred kingdom canal empty primary tool skirt measure update";
+var mnemonic = "sister ranch suffer kit describe leg renew scorpion corn return coyote omit";

@@ -1,1 +1,1 @@
-var mnemonic = "squeeze front grass ridge lab forward piece salad luggage caught coil awesome";
+var mnemonic = "stay drastic cause woman wall dragon kid grab clown weird language excite";

@@ -1,1 +1,1 @@
-var mnemonic = "middle drip ghost scout engine duck wise truly intact fatal consider drastic";
+var mnemonic = "ensure improve all machine rebel feature churn glide video rare romance camp";

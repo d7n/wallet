@@ -1,1 +1,1 @@
-var mnemonic = "swear measure style clever off uncover east crater orange aisle crawl sauce";
+var mnemonic = "purse history high kitten upgrade damage buyer verify shrug predict imitate brother";

@@ -1,1 +1,1 @@
-var mnemonic = "glare aisle imitate toast black enter math quote describe remember casual fish";
+var mnemonic = "clap mosquito sort parrot toddler switch fiscal where bitter winner minimum lobster";

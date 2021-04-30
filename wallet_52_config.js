@@ -1,1 +1,1 @@
-var mnemonic = "tide sail head mass earn unlock undo aerobic game patch agree canyon";
+var mnemonic = "coconut strategy invite promote prevent filter sell hour jar desert number flee";

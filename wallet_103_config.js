@@ -1,1 +1,1 @@
-var mnemonic = "change one verify manage senior card have timber exile deliver toy day";
+var mnemonic = "shift patient blue medal cash cannon label smile team outside home athlete";

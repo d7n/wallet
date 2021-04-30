@@ -1,1 +1,1 @@
-var mnemonic = "siren practice oblige swear drip harsh shy deny spot stage legal fun";
+var mnemonic = "demise abstract leopard agent remember track similar tray total unveil major reunion";

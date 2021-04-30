@@ -1,1 +1,1 @@
-var mnemonic = "pear soft green place steak outdoor gorilla clay shock surround taxi action";
+var mnemonic = "liberty vibrant mutual orphan bounce census fog ring hello credit agree fuel";

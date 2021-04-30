@@ -1,1 +1,1 @@
-var mnemonic = "frown gadget junior diary juice start carbon pudding ancient exhibit owner fine";
+var mnemonic = "travel crush endorse skill question happy leader brisk alert among major ridge";

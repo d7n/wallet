@@ -1,1 +1,1 @@
-var mnemonic = "jazz crystal during bread physical melt work myself awesome nerve explain civil";
+var mnemonic = "voice orchard razor potato drastic point grape advice mansion sample floor hungry";

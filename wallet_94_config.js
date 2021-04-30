@@ -1,1 +1,1 @@
-var mnemonic = "violin talk tag hockey sauce solar leaf label debris solution patrol real";
+var mnemonic = "canoe rib before mail rail venue describe wolf calm video faith inner";

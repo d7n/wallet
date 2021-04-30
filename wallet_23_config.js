@@ -1,1 +1,1 @@
-var mnemonic = "want kiwi trial outside feature borrow federal hill still ignore glue already";
+var mnemonic = "trash shoulder crop pulse grid hammer human wave cement girl smooth stamp";

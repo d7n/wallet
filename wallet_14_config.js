@@ -1,1 +1,1 @@
-var mnemonic = "oak shaft banana grid control half sunset lizard toss gaze spread road";
+var mnemonic = "image inflict month hero enact release anchor boat lawsuit note inmate business";

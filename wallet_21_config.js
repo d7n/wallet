@@ -1,1 +1,1 @@
-var mnemonic = "age flower develop attack arrow raw right coin firm curious small zero";
+var mnemonic = "duck story galaxy view cabbage smile material boy tortoise audit later hollow";

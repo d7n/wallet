@@ -1,1 +1,1 @@
-var mnemonic = "document have sorry shell art addict quit draft sleep gather track lunar";
+var mnemonic = "about tilt try orient forest caution legal immune noodle appear chunk media";

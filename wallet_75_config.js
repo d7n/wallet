@@ -1,1 +1,1 @@
-var mnemonic = "together people immense key cause panda squeeze laptop dawn lake laptop always";
+var mnemonic = "story improve leaf tag diesel genre gold lab hour finish fame live";

@@ -1,1 +1,1 @@
-var mnemonic = "chest robot buyer kiwi drift shallow swim sleep knock style aunt market";
+var mnemonic = "cause rule stable virtual climb fix because mass excuse call desert trade";

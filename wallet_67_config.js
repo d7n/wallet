@@ -1,1 +1,1 @@
-var mnemonic = "weekend device act fee arm pulp female asset output ramp chunk elephant";
+var mnemonic = "glue neither mountain romance beef over section grape picture year airport achieve";

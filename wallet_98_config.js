@@ -1,1 +1,1 @@
-var mnemonic = "atom dish wise humor panel scissors nurse acoustic memory outer curtain season";
+var mnemonic = "volume poet shield actual legend puzzle start dignity patrol aerobic series bag";

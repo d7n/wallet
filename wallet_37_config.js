@@ -1,1 +1,1 @@
-var mnemonic = "head amused employ harvest lobster width fog cool lizard coffee unaware predict";
+var mnemonic = "vibrant clarify super gallery fortune meat fault smoke prosper ethics measure idea";

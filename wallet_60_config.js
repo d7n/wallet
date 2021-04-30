@@ -1,1 +1,1 @@
-var mnemonic = "suggest used amazing clown click initial tail kingdom ship rose valve scatter";
+var mnemonic = "dove crew try boil monitor off shop lens thing basic joke disease";

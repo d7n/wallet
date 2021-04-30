@@ -1,1 +1,1 @@
-var mnemonic = "used talent project magic resource side fix tent state dance clump cereal";
+var mnemonic = "word debate gallery fruit owner chair capable coyote pigeon sauce cannon mule";

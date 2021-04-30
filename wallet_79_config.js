@@ -1,1 +1,1 @@
-var mnemonic = "birth matrix settle option electric peanut thank tobacco day sun crucial switch";
+var mnemonic = "purity inform bulb lesson modify trade intact shine indoor olympic hole solar";

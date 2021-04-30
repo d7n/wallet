@@ -1,1 +1,1 @@
-var mnemonic = "chronic arm smart ship supreme damp steak hybrid ridge evidence insect parent";
+var mnemonic = "will lounge slight wolf pool divert drift smooth crash extend grape pyramid";

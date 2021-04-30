@@ -1,1 +1,1 @@
-var mnemonic = "bus step because furnace pill slab ripple toe bargain evil museum unfold";
+var mnemonic = "grit physical chief film flavor grab pig wrong small wage knee donkey";

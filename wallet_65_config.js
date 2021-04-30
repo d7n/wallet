@@ -1,1 +1,1 @@
-var mnemonic = "negative parrot depth guess sad balcony alert report range crop liberty jacket";
+var mnemonic = "toward smooth tissue cheese toast loan liquid mass bridge achieve era cliff";

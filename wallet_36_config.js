@@ -1,1 +1,1 @@
-var mnemonic = "organ abuse sleep luggage ticket mind peace camera force kitchen congress reason";
+var mnemonic = "skin nurse picture obvious odor advance stool rival juice dad joy must";

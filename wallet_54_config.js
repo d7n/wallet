@@ -1,1 +1,1 @@
-var mnemonic = "begin away police tenant shed evolve weather afraid day velvet lesson robust";
+var mnemonic = "island glide proof sponsor harvest crystal amount alien cabbage dinner pottery fit";

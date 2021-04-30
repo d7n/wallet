@@ -1,1 +1,1 @@
-var mnemonic = "sunset despair armed afraid cloud despair jacket stand october sponsor check turkey";
+var mnemonic = "into chaos sustain employ nuclear meadow true review cost define hungry lock";

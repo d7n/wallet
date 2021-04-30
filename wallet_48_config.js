@@ -1,1 +1,1 @@
-var mnemonic = "silent giraffe south gain rabbit weather donor business tiger emotion hospital outside";
+var mnemonic = "brave silly saddle solution wedding lounge little wall swim shell confirm weapon";

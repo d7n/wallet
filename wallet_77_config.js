@@ -1,1 +1,1 @@
-var mnemonic = "list prison fix crime nature roast leave ski benefit divert hunt chimney";
+var mnemonic = "life property change check chronic awesome protect melt true push leisure ethics";

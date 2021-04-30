@@ -1,1 +1,1 @@
-var mnemonic = "rent knife robust curious decade add bulb blue inspire legend collect park";
+var mnemonic = "glow blame double owner pride tent meat gauge ask medal pulse chicken";

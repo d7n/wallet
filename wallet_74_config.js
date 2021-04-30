@@ -1,1 +1,1 @@
-var mnemonic = "sound rib gown salute desk olive high board inside ask join athlete";
+var mnemonic = "list modify tooth amazing reflect nominee globe lion rate account lizard monitor";

@@ -1,1 +1,1 @@
-var mnemonic = "furnace yellow slot slim excess spot version timber express grace planet occur";
+var mnemonic = "husband asthma joke parent deposit bubble select orient ahead kit pelican aunt";

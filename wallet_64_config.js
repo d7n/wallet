@@ -1,1 +1,1 @@
-var mnemonic = "safe increase logic sleep change spin bench prison eyebrow unusual apart mention";
+var mnemonic = "valley wrestle consider retreat quote display staff hawk crew pole despair scatter";

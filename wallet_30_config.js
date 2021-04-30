@@ -1,1 +1,1 @@
-var mnemonic = "wide consider excess decide wire wink fame cart chronic proof borrow release";
+var mnemonic = "exist oven fly armor donate sustain abandon account charge sorry hunt cigar";

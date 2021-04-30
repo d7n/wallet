@@ -1,1 +1,1 @@
-var mnemonic = "trash kangaroo inflict rain tiny town proud crane situate output size number";
+var mnemonic = "canal lamp observe hint armor swap pattern sad perfect trophy later keen";

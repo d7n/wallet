@@ -1,1 +1,1 @@
-var mnemonic = "tilt blue buyer rug resist march owner fragile exclude broccoli city cherry";
+var mnemonic = "winter note draft funny zebra hair huge nephew play illegal absent expect";
