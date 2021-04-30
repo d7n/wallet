@@ -1,1 +1,1 @@
-var mnemonic = "boring pill ozone lift steak program useful enter harbor husband nature system";
+var mnemonic = "cannon title mention park bind goat dress devote surge river hood fire";

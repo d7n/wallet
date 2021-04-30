@@ -1,1 +1,1 @@
-var mnemonic = "napkin because mansion rose more radio muffin core review stay raven ability";
+var mnemonic = "hollow next inquiry subway ski design typical magnet habit file walk earn";

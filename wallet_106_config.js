@@ -1,1 +1,1 @@
-var mnemonic = "miracle paddle baby aisle moment demise involve enrich advance error piece mention";
+var mnemonic = "dentist family erode surprise evoke select twin hour tuna select vital ginger";

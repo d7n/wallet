@@ -1,1 +1,1 @@
-var mnemonic = "crucial two stuff trap walk liberty silly scare raven universe proud two";
+var mnemonic = "south flat neither ability bachelor orphan produce usual ensure apart switch jaguar";

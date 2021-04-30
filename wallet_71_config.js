@@ -1,1 +1,1 @@
-var mnemonic = "much reveal piano digital scan have fetch lemon title minor file range";
+var mnemonic = "hub barrel music rather fiction canyon mean laptop delay supreme once pulse";

@@ -1,1 +1,1 @@
-var mnemonic = "expect shadow become salmon maximum canyon urban yard yellow assume slam naive";
+var mnemonic = "visual key vintage expose fan script unhappy rail obtain system frost junk";

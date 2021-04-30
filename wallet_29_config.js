@@ -1,1 +1,1 @@
-var mnemonic = "define mouse radio spin front loud slight income game release dolphin spike";
+var mnemonic = "civil program visa trap east lamp sustain gun artwork border cool purpose";

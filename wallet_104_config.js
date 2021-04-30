@@ -1,1 +1,1 @@
-var mnemonic = "drink resource crop enroll exhibit tiny true dash vanish list left destroy";
+var mnemonic = "throw where moon cement dove laptop fuel credit lion saddle stool bounce";

@@ -1,1 +1,1 @@
-var mnemonic = "fatigue promote badge circle near antique clump wonder pond permit buzz club";
+var mnemonic = "cupboard title patrol govern toy stone digital alert frozen brother cave report";

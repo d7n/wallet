@@ -1,1 +1,1 @@
-var mnemonic = "digital violin laundry jelly deputy genuine harsh view anchor happy win gaze";
+var mnemonic = "faint ski fatal clinic brisk sniff define escape despair scrap grocery twist";

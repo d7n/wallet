@@ -1,1 +1,1 @@
-var mnemonic = "endorse open athlete juice away exclude gas wasp close embark glove uncle";
+var mnemonic = "during tape pear valid other feature spoil essay shrimp purpose outside canal";

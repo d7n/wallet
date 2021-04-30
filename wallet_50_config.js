@@ -1,1 +1,1 @@
-var mnemonic = "decide sure major smile tower cactus invest sugar rhythm undo brick either";
+var mnemonic = "now abuse rabbit rare pave armed chef december acquire energy click into";

@@ -1,1 +1,1 @@
-var mnemonic = "turn despair park smooth chuckle shoulder legal try sea work hamster soul";
+var mnemonic = "hard village mad attitude pony peasant syrup culture right large dance kit";

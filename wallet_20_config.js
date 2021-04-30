@@ -1,1 +1,1 @@
-var mnemonic = "fan slow bicycle stumble course armor announce run erase kangaroo puppy finger";
+var mnemonic = "amateur high material camera alcohol style culture corn liquid skin coffee annual";

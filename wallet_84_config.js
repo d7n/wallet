@@ -1,1 +1,1 @@
-var mnemonic = "come innocent barrel neglect spice barely enjoy jungle volcano alone current dust";
+var mnemonic = "deputy load bulk snack hub control history axis report fine indicate era";

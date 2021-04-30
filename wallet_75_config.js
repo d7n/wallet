@@ -1,1 +1,1 @@
-var mnemonic = "tank same alter price rich weapon treat today tooth van brief sleep";
+var mnemonic = "blouse dose genuine buzz flavor edge outer curious humor fault garlic frozen";

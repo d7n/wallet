@@ -1,1 +1,1 @@
-var mnemonic = "derive wrap version shift twin correct hockey discover east under return skirt";
+var mnemonic = "field client behind sock moment coast movie else rough possible follow today";

@@ -1,1 +1,1 @@
-var mnemonic = "sick seed monster word drama squirrel salad category deny crew outside inspire";
+var mnemonic = "shallow bless genius provide team witness school ketchup shock lucky gain mail";

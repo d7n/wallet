@@ -1,1 +1,1 @@
-var mnemonic = "inch topple van hint cross catch vehicle rifle nasty force luggage mean";
+var mnemonic = "rifle tape pioneer duck wreck absurd deputy vibrant master okay excite alter";

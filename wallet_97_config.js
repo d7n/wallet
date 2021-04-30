@@ -1,1 +1,1 @@
-var mnemonic = "monkey limit sad float indicate soap fashion embrace second tattoo deliver embrace";
+var mnemonic = "parent drink fashion enroll employ soccer upon foam plate flame obey void";

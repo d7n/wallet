@@ -1,1 +1,1 @@
-var mnemonic = "turkey scorpion kitten wrist distance enable source guard rare kite slide motion";
+var mnemonic = "tonight grid hurdle crystal size alcohol shove wrist season water amount chase";

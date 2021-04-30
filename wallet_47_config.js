@@ -1,1 +1,1 @@
-var mnemonic = "holiday real child crack error elevator range hard stairs expose brisk flower";
+var mnemonic = "total team gown vote fiscal among envelope dragon reason bench design planet";

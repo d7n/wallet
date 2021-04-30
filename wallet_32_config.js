@@ -1,1 +1,1 @@
-var mnemonic = "chicken abstract unfold pumpkin cover method below post shrimp flip jaguar tuition";
+var mnemonic = "answer oyster output broccoli glance dad december dinosaur indoor execute pelican stick";

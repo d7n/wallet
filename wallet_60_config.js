@@ -1,1 +1,1 @@
-var mnemonic = "among alone urban fiber transfer slow acoustic invest cycle story robust steak";
+var mnemonic = "page index caught book oyster apart naive twenty silly purchase photo limb";

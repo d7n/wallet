@@ -1,1 +1,1 @@
-var mnemonic = "same sign penalty maximum advance portion assist sing wild enough feature yard";
+var mnemonic = "logic leisure brisk merry estate female nominee property pledge price like valve";

@@ -1,1 +1,1 @@
-var mnemonic = "unaware use more soft worry tube topic clean lumber gentle table announce";
+var mnemonic = "green soul company street balance abuse grow nuclear card find achieve winner";

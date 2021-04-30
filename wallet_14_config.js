@@ -1,1 +1,1 @@
-var mnemonic = "rival fitness force enforce wisdom member sick current parrot interest purpose believe";
+var mnemonic = "ritual cabbage leopard spoon prevent mad mutual hurdle coffee unfold hero curious";

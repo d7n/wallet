@@ -1,1 +1,1 @@
-var mnemonic = "luggage keep vote impose hard result obvious toilet gather organ project festival";
+var mnemonic = "laugh trick wash teach input bunker camp denial display demise express mouse";

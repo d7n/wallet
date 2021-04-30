@@ -1,1 +1,1 @@
-var mnemonic = "warfare logic fruit nurse lawsuit attend upper rate ring release student quiz";
+var mnemonic = "stadium insane insect recycle water ketchup network above grab grow industry ivory";

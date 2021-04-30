@@ -1,1 +1,1 @@
-var mnemonic = "burst hunt swear tent suspect pencil anxiety monkey silver civil rhythm shy";
+var mnemonic = "quality earth tail slot blood still trade skin spatial teach bridge flee";

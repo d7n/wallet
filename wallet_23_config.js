@@ -1,1 +1,1 @@
-var mnemonic = "friend nice east become cargo miracle warfare mutual scare firm hair trick";
+var mnemonic = "leg regular they grape worth move follow small mad marble purpose dish";

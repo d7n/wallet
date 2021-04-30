@@ -1,1 +1,1 @@
-var mnemonic = "hood ridge danger tide favorite display magnet deal spread movie release staff";
+var mnemonic = "marine whale father wife trim cement peanut high plunge dry vast shiver";

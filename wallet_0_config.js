@@ -1,1 +1,1 @@
-var mnemonic = "soldier omit people actual rain essence run solid say split opera produce";
+var mnemonic = "choose panda duck salad process excuse awake multiply dream cake waste strategy";

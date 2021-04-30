@@ -1,1 +1,1 @@
-var mnemonic = "stable brass credit tide slot exotic genre aisle custom muscle joy pause";
+var mnemonic = "clean stock power patient opinion hamster cash dad mammal entire era post";

@@ -1,1 +1,1 @@
-var mnemonic = "goat enter combine attract still tide student blast notice surround fine patient";
+var mnemonic = "sponsor rich outdoor enjoy float weekend gold join anchor umbrella monster chuckle";

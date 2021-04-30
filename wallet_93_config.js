@@ -1,1 +1,1 @@
-var mnemonic = "license penalty word loan student wasp cool merit logic autumn brisk uniform";
+var mnemonic = "robust betray future urban shift intact gain digital mom wisdom reveal render";

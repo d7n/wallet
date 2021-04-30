@@ -1,1 +1,1 @@
-var mnemonic = "fruit defy concert news castle dragon captain pear arrange elder super screen";
+var mnemonic = "identify return such agree gym kit venue donor order dose weekend all";

@@ -1,1 +1,1 @@
-var mnemonic = "fade priority trumpet media practice agree tilt critic recycle come pact frame";
+var mnemonic = "rely mango inquiry special unknown daring embrace gospel illegal twist horn lock";

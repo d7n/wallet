@@ -1,1 +1,1 @@
-var mnemonic = "drill fetch also oxygen erode bullet impact fury cereal scale silk unit";
+var mnemonic = "razor tomato valid spider topple often female rail next differ rain coach";

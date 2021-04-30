@@ -1,1 +1,1 @@
-var mnemonic = "label animal galaxy spice clown dash drill bitter point cup keen engine";
+var mnemonic = "until syrup keep start wonder switch mimic attack system order village tube";

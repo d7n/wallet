@@ -1,1 +1,1 @@
-var mnemonic = "sustain thumb solid miracle ask lemon proud genre wolf leisure actual tail";
+var mnemonic = "prosper video talk satisfy execute they stool honey hero normal water merry";

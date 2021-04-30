@@ -1,1 +1,1 @@
-var mnemonic = "rather staff woman satisfy filter guitar fine actual squeeze lock fortune say";
+var mnemonic = "master upper surge capital avoid subway knee around kick media armed embrace";

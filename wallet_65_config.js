@@ -1,1 +1,1 @@
-var mnemonic = "fancy come vendor smile village beach bus anchor transfer tilt beauty clinic";
+var mnemonic = "fog hub night wise orphan genuine minimum wool marble team village clever";

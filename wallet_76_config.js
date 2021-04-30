@@ -1,1 +1,1 @@
-var mnemonic = "situate donate appear motion card drum furnace old six gate hazard damage";
+var mnemonic = "mass sure end myth interest pencil destroy wild child bleak hat inmate";

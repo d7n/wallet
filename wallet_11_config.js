@@ -1,1 +1,1 @@
-var mnemonic = "top polar bright immune situate mail air unveil coffee skate badge street";
+var mnemonic = "benefit town hood load chair laptop aisle time false decorate false modify";

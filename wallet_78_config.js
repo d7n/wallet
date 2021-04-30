@@ -1,1 +1,1 @@
-var mnemonic = "tray silly dad series soup wolf wage safe green also exile alarm";
+var mnemonic = "meat fury despair sight polar great angle public latin unique guess visual";

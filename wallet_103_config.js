@@ -1,1 +1,1 @@
-var mnemonic = "easily meat beef salad student loan trick ginger project toward art title";
+var mnemonic = "gospel bless endorse similar rebel donate shell resist spell tray prepare ask";

@@ -1,1 +1,1 @@
-var mnemonic = "flash friend genre dismiss version life genre tribe shift eye alter scout";
+var mnemonic = "drip maximum quantum below neutral ask dolphin volume correct erode dwarf blind";

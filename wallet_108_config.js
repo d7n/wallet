@@ -1,1 +1,1 @@
-var mnemonic = "brief toilet budget under stamp another desert whip immense code honey render";
+var mnemonic = "tired match monster reject erosion category object caution affair chapter confirm thrive";

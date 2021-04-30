@@ -1,1 +1,1 @@
-var mnemonic = "bid length rich lunch quarter sight engine nation carbon dragon issue twelve";
+var mnemonic = "found soon boring thank labor bracket language major regular room enter isolate";

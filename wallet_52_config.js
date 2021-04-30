@@ -1,1 +1,1 @@
-var mnemonic = "plunge knock february debris display balcony must mosquito fog fat buyer light";
+var mnemonic = "idle people aim beyond silk link actress bunker neglect clarify toss heart";

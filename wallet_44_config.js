@@ -1,1 +1,1 @@
-var mnemonic = "spot shuffle casual dolphin ladder average rather fame trash select piano grunt";
+var mnemonic = "festival palace spike sample denial army virus mammal labor win crane amount";

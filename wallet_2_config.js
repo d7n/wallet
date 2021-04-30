@@ -1,1 +1,1 @@
-var mnemonic = "van pact inject degree mystery believe toilet tell absurd crime puppy account";
+var mnemonic = "vehicle raw banana walk range spider input dizzy option bacon outdoor narrow";

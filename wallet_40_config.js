@@ -1,1 +1,1 @@
-var mnemonic = "absent army catch drastic chief embrace sphere point kidney cart come fit";
+var mnemonic = "quit uphold joy afraid glory orphan fox crater avoid output clip bicycle";

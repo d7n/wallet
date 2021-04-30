@@ -1,1 +1,1 @@
-var mnemonic = "squeeze rug improve injury best cliff used flush sea spin day enrich";
+var mnemonic = "secret current angle fall paddle latin cup beauty best video act skirt";

@@ -1,1 +1,1 @@
-var mnemonic = "laundry scrub surge trim monster melt label image very also expire tape";
+var mnemonic = "couple echo van direct spawn near vast ordinary resource garage deposit teach";

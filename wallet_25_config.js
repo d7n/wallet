@@ -1,1 +1,1 @@
-var mnemonic = "dilemma autumn ripple symbol whale turn shield mother breeze term copy claw";
+var mnemonic = "elite game toe concert bag crush swarm shaft flavor dial aunt couple";

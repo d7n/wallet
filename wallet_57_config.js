@@ -1,1 +1,1 @@
-var mnemonic = "long pig gasp balcony chief way rescue cat adapt rival occur vapor";
+var mnemonic = "divert assault camera peace nation gap rotate virtual glance volume dance cool";

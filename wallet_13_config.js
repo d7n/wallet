@@ -1,1 +1,1 @@
-var mnemonic = "core brand acoustic under require online leader another hat town head hawk";
+var mnemonic = "mix name barely actress key clutch walk intact carpet master wave energy";

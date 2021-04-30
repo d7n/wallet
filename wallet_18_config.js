@@ -1,1 +1,1 @@
-var mnemonic = "sunny inch enrich inherit depart address table work affair apology vicious sleep";
+var mnemonic = "treat insane snow dismiss alarm obvious shaft become reform ranch near own";

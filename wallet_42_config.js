@@ -1,1 +1,1 @@
-var mnemonic = "frost vessel turn receive short drum cereal what shiver wheat entire trophy";
+var mnemonic = "link expose bubble armor shaft claw tomato market faint dinosaur lake impose";

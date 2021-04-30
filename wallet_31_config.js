@@ -1,1 +1,1 @@
-var mnemonic = "planet dry metal apart vessel practice palace check caught safe ladder member";
+var mnemonic = "satisfy anchor curious average occur shrimp adapt disorder measure illegal visa effort";

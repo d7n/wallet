@@ -1,1 +1,1 @@
-var mnemonic = "track bean steel silk bird air private sail afford another valid manual";
+var mnemonic = "ugly blade joy rifle addict leaf ball shaft route time brush head";

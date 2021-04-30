@@ -1,1 +1,1 @@
-var mnemonic = "stereo rack size elder flip nothing million lawsuit kiss pepper jaguar federal";
+var mnemonic = "color spatial ridge net boost edge kangaroo cricket car destroy pumpkin dumb";

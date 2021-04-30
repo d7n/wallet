@@ -1,1 +1,1 @@
-var mnemonic = "unaware bounce endorse security return switch network woman peasant uncle neither today";
+var mnemonic = "music erupt useful soda dawn great swallow indicate hazard quality expire trial";

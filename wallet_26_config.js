@@ -1,1 +1,1 @@
-var mnemonic = "switch gift maximum tail path mad security same wage into vicious poverty";
+var mnemonic = "fossil also spell record pave shop three visa walk idle nerve bright";

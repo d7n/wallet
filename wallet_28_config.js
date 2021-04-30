@@ -1,1 +1,1 @@
-var mnemonic = "salmon design defy close more muscle brick unique water fat twelve reopen";
+var mnemonic = "small boil blame sure fitness frozen deposit bag pear phrase that eight";

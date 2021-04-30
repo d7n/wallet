@@ -1,1 +1,1 @@
-var mnemonic = "father acid term buyer wrist blade prepare village dolphin edit extend first";
+var mnemonic = "damp govern music dress cry boring force liberty bomb item forget bird";

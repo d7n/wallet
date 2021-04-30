@@ -1,1 +1,1 @@
-var mnemonic = "panther nurse blouse idea rack certain insane rebel found chalk faith length";
+var mnemonic = "loop impose broom typical banner fade pen bulb equip piece paddle arrive";

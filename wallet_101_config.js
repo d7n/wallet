@@ -1,1 +1,1 @@
-var mnemonic = "bright butter shed figure cattle bounce impact skull bar fever aerobic patrol";
+var mnemonic = "renew weekend table any fluid symptom autumn velvet ill medal oven hunt";

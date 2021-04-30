@@ -1,1 +1,1 @@
-var mnemonic = "lizard tray zone glare magic punch hunt gauge muffin supply weasel tobacco";
+var mnemonic = "tomorrow demise evidence canal net stage solar process unable clap chapter turn";

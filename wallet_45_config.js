@@ -1,1 +1,1 @@
-var mnemonic = "detail announce erupt still link alley ball remind guitar buzz absurd merry";
+var mnemonic = "chief aspect job pigeon thumb radio planet echo electric kid iron weekend";

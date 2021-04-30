@@ -1,1 +1,1 @@
-var mnemonic = "modify twist gloom result arrive timber decorate clown wheel fatal skull twelve";
+var mnemonic = "funny stand sheriff typical chest loop carbon put sponsor resource answer tiger";

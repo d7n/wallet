@@ -1,1 +1,1 @@
-var mnemonic = "height nuclear follow define trial nation vacant census economy time effort portion";
+var mnemonic = "test initial electric eye forward announce around smoke wool antique test pact";

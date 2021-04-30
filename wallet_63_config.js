@@ -1,1 +1,1 @@
-var mnemonic = "slice fruit rib reunion resemble camp vivid satisfy brother cream distance leopard";
+var mnemonic = "tomorrow oval crush stereo attend unveil cinnamon exercise powder emerge capital slow";

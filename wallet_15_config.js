@@ -1,1 +1,1 @@
-var mnemonic = "wagon cereal inside few lawsuit sister roast distance office chuckle stamp trumpet";
+var mnemonic = "noise plate antique expect age skirt popular food still cable rocket lock";

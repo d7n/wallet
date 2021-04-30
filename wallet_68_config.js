@@ -1,1 +1,1 @@
-var mnemonic = "cycle salon embark display foam surprise keep property recipe damp atom ordinary";
+var mnemonic = "season top code drum maximum dice ghost antenna section creek magnet anxiety";

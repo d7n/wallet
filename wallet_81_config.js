@@ -1,1 +1,1 @@
-var mnemonic = "mercy spare brown various there easily huge tattoo reunion prepare tomato tragic";
+var mnemonic = "stumble blue royal tell orbit grape gasp loop donate melt kick style";

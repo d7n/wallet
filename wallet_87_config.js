@@ -1,1 +1,1 @@
-var mnemonic = "physical find pelican viable garden frown same drum pencil rich final stick";
+var mnemonic = "voyage morning nature practice material switch obscure expect flag luxury churn remember";

@@ -1,1 +1,1 @@
-var mnemonic = "exclude arctic nut say only donor direct legend scatter damage half hill";
+var mnemonic = "oyster project room entry nut sell junior table bargain cup end give";

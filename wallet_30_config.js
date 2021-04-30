@@ -1,1 +1,1 @@
-var mnemonic = "wagon fury creek raise list donor ability anger divorce about accuse syrup";
+var mnemonic = "silly feed chair laugh morning young material second glide ticket toddler knock";

@@ -1,1 +1,1 @@
-var mnemonic = "job become gap play since story pyramid relief quality trim angle worry";
+var mnemonic = "anchor unknown fatigue pen remember daughter few zone blanket blood crowd actress";

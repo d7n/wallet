@@ -1,1 +1,1 @@
-var mnemonic = "banana team hurry welcome still power soap maze exile public toast cannon";
+var mnemonic = "oxygen whip orbit census mammal virus garage suit security night slight muffin";

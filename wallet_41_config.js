@@ -1,1 +1,1 @@
-var mnemonic = "another limb author group soap wall industry occur later empower stereo clown";
+var mnemonic = "fuel minimum insane defense only twice leaf popular crouch cream output call";

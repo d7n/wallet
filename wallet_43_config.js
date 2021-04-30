@@ -1,1 +1,1 @@
-var mnemonic = "special shadow physical essay before venue beauty mimic upon tiny gym nose";
+var mnemonic = "alcohol royal hello horse pumpkin allow reduce hand divorce craft lounge thing";

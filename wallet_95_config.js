@@ -1,1 +1,1 @@
-var mnemonic = "atom say fine invest annual pigeon doll ancient trim guard coach elite";
+var mnemonic = "brother chest error snow muscle repeat great trade advice water during congress";

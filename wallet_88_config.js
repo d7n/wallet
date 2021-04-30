@@ -1,1 +1,1 @@
-var mnemonic = "ginger disagree recall race correct ride thought control destroy search orphan deputy";
+var mnemonic = "mention stage benefit gadget smooth scrub chest subject because zone trophy level";

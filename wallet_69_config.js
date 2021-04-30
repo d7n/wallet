@@ -1,1 +1,1 @@
-var mnemonic = "accuse convince depth catalog melt fiscal damp box liar extend unlock wear";
+var mnemonic = "habit eagle rug fancy chief skirt trade anger share eagle globe edit";

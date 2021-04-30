@@ -1,1 +1,1 @@
-var mnemonic = "relief fruit umbrella wire pole term vapor point power wild spring awful";
+var mnemonic = "rather chief idea visual curious endorse finish easy suspect utility okay skirt";

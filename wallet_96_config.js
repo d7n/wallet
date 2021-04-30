@@ -1,1 +1,1 @@
-var mnemonic = "harsh kick funny jacket erode excuse absorb garage insect coyote faith stage";
+var mnemonic = "spend first swim make pride modify ghost badge turkey pet glue violin";

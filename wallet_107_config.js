@@ -1,1 +1,1 @@
-var mnemonic = "grape jelly wild desk snack grocery aspect boost lemon injury inhale interest";
+var mnemonic = "angry canyon truth creek saddle real neck donor say balcony equal erode";
