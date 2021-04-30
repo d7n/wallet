@@ -1,1 +1,1 @@
-var mnemonic = "sport fruit capable mail paper trim room shield crew suspect mind excess";
+var mnemonic = "horror doll catalog duty sauce name toddler meat sense monster pumpkin fall";

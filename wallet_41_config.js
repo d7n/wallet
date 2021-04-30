@@ -1,1 +1,1 @@
-var mnemonic = "patrol size zebra mimic office switch moment tenant you ahead sick web";
+var mnemonic = "pony frog carpet winner fish jewel razor bitter label lyrics rain ozone";

@@ -1,1 +1,1 @@
-var mnemonic = "sister era under lyrics forum genre fragile outer stem shrimp keen upset";
+var mnemonic = "rate decide skill soul eagle ginger ginger come shoe shoe solar wait";

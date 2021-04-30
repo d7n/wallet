@@ -1,1 +1,1 @@
-var mnemonic = "student scout cannon wisdom capital tobacco ethics ranch foster parent vacant riot";
+var mnemonic = "stick outdoor stereo alien spider song flip area accident fashion tree accuse";

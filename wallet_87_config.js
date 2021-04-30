@@ -1,1 +1,1 @@
-var mnemonic = "market van abuse system stand age trend upset undo type fix crew";
+var mnemonic = "charge pond trick inch together vintage model village trash local near night";

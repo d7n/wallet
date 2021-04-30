@@ -1,1 +1,1 @@
-var mnemonic = "jeans arrive powder bacon vacuum subject cinnamon head gather exclude crater trophy";
+var mnemonic = "wine leaf rival noodle they minute father clarify crouch culture project rain";

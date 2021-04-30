@@ -1,1 +1,1 @@
-var mnemonic = "vibrant clarify super gallery fortune meat fault smoke prosper ethics measure idea";
+var mnemonic = "decline raw marriage comfort fame make ketchup suffer believe marriage mix lamp";

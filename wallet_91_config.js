@@ -1,1 +1,1 @@
-var mnemonic = "ensure improve all machine rebel feature churn glide video rare romance camp";
+var mnemonic = "evidence retire affair tribe derive bomb caught parade praise hurdle vocal false";

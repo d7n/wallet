@@ -1,1 +1,1 @@
-var mnemonic = "reflect duck time canvas slogan begin chunk hello urge kitten rabbit burst";
+var mnemonic = "offer science odor today yellow decline genre spawn middle strike siren amateur";

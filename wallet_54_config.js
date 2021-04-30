@@ -1,1 +1,1 @@
-var mnemonic = "island glide proof sponsor harvest crystal amount alien cabbage dinner pottery fit";
+var mnemonic = "night note kidney piece mirror group tray tide base gown moment fortune";

@@ -1,1 +1,1 @@
-var mnemonic = "travel crush endorse skill question happy leader brisk alert among major ridge";
+var mnemonic = "credit weird situate utility donkey morning shadow interest december advance begin horse";

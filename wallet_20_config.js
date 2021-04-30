@@ -1,1 +1,1 @@
-var mnemonic = "reveal gas cricket crane off bag silly assist desk amount patch funny";
+var mnemonic = "nephew long scissors picnic three zoo correct space permit immense bunker drop";

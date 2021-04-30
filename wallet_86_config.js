@@ -1,1 +1,1 @@
-var mnemonic = "stay drastic cause woman wall dragon kid grab clown weird language excite";
+var mnemonic = "sniff weapon host planet vivid work expect share health chapter father great";

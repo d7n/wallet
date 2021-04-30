@@ -1,1 +1,1 @@
-var mnemonic = "demise abstract leopard agent remember track similar tray total unveil major reunion";
+var mnemonic = "animal shock excuse capable loop cabbage warrior junk divide observe odor scale";

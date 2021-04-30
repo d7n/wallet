@@ -1,1 +1,1 @@
-var mnemonic = "effort spin area lend peace trial shock proud risk season scene cave";
+var mnemonic = "best noise obvious guilt dial ball tool exact mad area where crunch";

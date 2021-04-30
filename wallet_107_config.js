@@ -1,1 +1,1 @@
-var mnemonic = "purse history high kitten upgrade damage buyer verify shrug predict imitate brother";
+var mnemonic = "switch outer army fatigue embody music nasty property van broom frown promote";

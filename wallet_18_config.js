@@ -1,1 +1,1 @@
-var mnemonic = "antenna cave wheel quarter network spring immense few swarm vocal outer body";
+var mnemonic = "drastic quality oven solution nation train sport emotion exercise mad laundry budget";

@@ -1,1 +1,1 @@
-var mnemonic = "twenty crumble update scout pony kingdom increase undo mosquito tape company license";
+var mnemonic = "enrich stem ticket razor smart undo spoil neck use coach black impose";

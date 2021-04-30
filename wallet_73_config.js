@@ -1,1 +1,1 @@
-var mnemonic = "twice envelope keep wine document onion head hen differ staff embark uniform";
+var mnemonic = "have match invest embark power devote creek genuine august cliff famous hurt";

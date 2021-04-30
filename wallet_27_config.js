@@ -1,1 +1,1 @@
-var mnemonic = "enforce target panther worth cool cinnamon debris police short execute feature day";
+var mnemonic = "across glory label wrong dilemma bid pyramid gas shove city film wink";

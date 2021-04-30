@@ -1,1 +1,1 @@
-var mnemonic = "brave silly saddle solution wedding lounge little wall swim shell confirm weapon";
+var mnemonic = "dice popular business salad crumble inform small arch unfold eye unlock hurdle";

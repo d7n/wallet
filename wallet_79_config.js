@@ -1,1 +1,1 @@
-var mnemonic = "purity inform bulb lesson modify trade intact shine indoor olympic hole solar";
+var mnemonic = "stock tape puppy come stable juice write comfort wrist letter glad clinic";

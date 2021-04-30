@@ -1,1 +1,1 @@
-var mnemonic = "will lounge slight wolf pool divert drift smooth crash extend grape pyramid";
+var mnemonic = "weapon fox again truly push target cargo tube juice night prefer pumpkin";

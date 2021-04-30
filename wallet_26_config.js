@@ -1,1 +1,1 @@
-var mnemonic = "riot sleep insect begin what depart adult snake movie also grow luggage";
+var mnemonic = "fruit above paper stamp suspect august ahead strategy mask symptom matter believe";

@@ -1,1 +1,1 @@
-var mnemonic = "pyramid figure journey sweet huge enlist blossom belt rich agent cereal flavor";
+var mnemonic = "ripple arrange pony cradle wrist insane flavor stamp skate exit unveil private";

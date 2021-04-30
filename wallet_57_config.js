@@ -1,1 +1,1 @@
-var mnemonic = "mirror inmate ski couch length rich meat book two bridge laundry picture";
+var mnemonic = "elbow fix normal bulk upset hotel second social inform vote warrior focus";

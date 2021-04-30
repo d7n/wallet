@@ -1,1 +1,1 @@
-var mnemonic = "shift patient blue medal cash cannon label smile team outside home athlete";
+var mnemonic = "pioneer film apple shove sphere gas kind sting question south raise merge";

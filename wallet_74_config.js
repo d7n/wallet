@@ -1,1 +1,1 @@
-var mnemonic = "list modify tooth amazing reflect nominee globe lion rate account lizard monitor";
+var mnemonic = "knife garment manual speak width sense sun rebuild tone slam pet effort";

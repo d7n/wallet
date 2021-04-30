@@ -1,1 +1,1 @@
-var mnemonic = "grit physical chief film flavor grab pig wrong small wage knee donkey";
+var mnemonic = "theme very resist grace region peace require august stamp one wool tomato";

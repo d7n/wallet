@@ -1,1 +1,1 @@
-var mnemonic = "life property change check chronic awesome protect melt true push leisure ethics";
+var mnemonic = "occur bridge female speak room viable deposit end unknown autumn cave bullet";

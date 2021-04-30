@@ -1,1 +1,1 @@
-var mnemonic = "juice casual swallow pitch robust struggle vote equip state offer scan chaos";
+var mnemonic = "theme provide valley average board excess traffic exist animal lunar camera kingdom";

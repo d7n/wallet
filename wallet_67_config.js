@@ -1,1 +1,1 @@
-var mnemonic = "glue neither mountain romance beef over section grape picture year airport achieve";
+var mnemonic = "neutral protect zebra notice meadow zebra enrich miss seek tonight food when";

@@ -1,1 +1,1 @@
-var mnemonic = "alley pulse plunge zone neutral mail cushion violin useless goat real laptop";
+var mnemonic = "light tenant brain ceiling sure actress audit meat glue able club cheap";

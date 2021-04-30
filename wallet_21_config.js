@@ -1,1 +1,1 @@
-var mnemonic = "duck story galaxy view cabbage smile material boy tortoise audit later hollow";
+var mnemonic = "skill zebra giggle multiply what organ fame please pass spatial bonus reward";

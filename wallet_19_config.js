@@ -1,1 +1,1 @@
-var mnemonic = "follow hybrid opinion apart time hazard net harbor holiday few barely possible";
+var mnemonic = "omit rug dial notice abstract crack age gossip cheap illegal ten input";

@@ -1,1 +1,1 @@
-var mnemonic = "dove crew try boil monitor off shop lens thing basic joke disease";
+var mnemonic = "elbow over green save match hip diagram need winter valid jazz earth";

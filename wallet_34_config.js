@@ -1,1 +1,1 @@
-var mnemonic = "result magic series saddle seven weasel abandon festival lab carpet culture mutual";
+var mnemonic = "banner impulse biology rent hero improve area rhythm surprise copy sketch diet";

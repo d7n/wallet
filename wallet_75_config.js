@@ -1,1 +1,1 @@
-var mnemonic = "story improve leaf tag diesel genre gold lab hour finish fame live";
+var mnemonic = "obey liar try improve recipe aunt alter sniff start nurse fold edge";

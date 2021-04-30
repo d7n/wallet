@@ -1,1 +1,1 @@
-var mnemonic = "toast column extend aware federal wool iron crouch clever fury then pull";
+var mnemonic = "slow develop marine depend benefit soul asthma hurt size blanket high hold";

@@ -1,1 +1,1 @@
-var mnemonic = "liberty vibrant mutual orphan bounce census fog ring hello credit agree fuel";
+var mnemonic = "lunch envelope position fox normal forget neglect spot neck champion antenna junior";

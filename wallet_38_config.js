@@ -1,1 +1,1 @@
-var mnemonic = "heart name master knife true define settle eternal evoke blood immense rubber";
+var mnemonic = "fantasy hold fruit memory clock purity noodle hole two useful vapor chief";

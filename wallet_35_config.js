@@ -1,1 +1,1 @@
-var mnemonic = "ghost insect agent puzzle mix robust also mobile diesel leopard audit toilet";
+var mnemonic = "pear adult fatigue old airport treat pretty inch frown skate struggle turn";

@@ -1,1 +1,1 @@
-var mnemonic = "mother sun axis duck swear senior label around unique current object solve";
+var mnemonic = "fit chicken soon near soda prosper scare camp slab elevator leopard pet";

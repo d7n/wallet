@@ -1,1 +1,1 @@
-var mnemonic = "predict govern nice shell organ hammer milk budget zone access mobile chest";
+var mnemonic = "across theme coral orbit rigid magnet denial museum crystal blood chronic escape";

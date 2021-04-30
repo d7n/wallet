@@ -1,1 +1,1 @@
-var mnemonic = "sample divorce area name wife airport aim remember about card pipe place";
+var mnemonic = "fence catalog dash sight live couch ribbon embrace one dash novel tool";

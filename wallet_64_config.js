@@ -1,1 +1,1 @@
-var mnemonic = "valley wrestle consider retreat quote display staff hawk crew pole despair scatter";
+var mnemonic = "assist thunder gossip solve rebel barrel artist skate achieve armor pioneer deny";

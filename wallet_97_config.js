@@ -1,1 +1,1 @@
-var mnemonic = "dolphin dismiss midnight mail net galaxy minute swift weasel someone calm uncle";
+var mnemonic = "arrest broccoli click lesson toast since finish east main toward toilet supreme";

@@ -1,1 +1,1 @@
-var mnemonic = "patient exhaust scout tail rule pen neutral pulse ritual vicious build credit";
+var mnemonic = "card base dove balance knock deal advance actor absent scrap timber indoor";

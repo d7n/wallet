@@ -1,1 +1,1 @@
-var mnemonic = "permit problem notice segment say bullet execute fix ozone wrestle once solid";
+var mnemonic = "enemy major birth eight wait hen gift flock crack island cloth benefit";

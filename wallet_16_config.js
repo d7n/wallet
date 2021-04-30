@@ -1,1 +1,1 @@
-var mnemonic = "ozone bone hold pilot sting gym captain pride trick wedding link wolf";
+var mnemonic = "region coconut notable clay love public what burden comfort illness trip tumble";

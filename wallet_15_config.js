@@ -1,1 +1,1 @@
-var mnemonic = "glow first despair scan glad suspect boss ensure cave steak minor betray";
+var mnemonic = "mushroom verb language profit mutual bracket confirm monster damage glare receive cave";

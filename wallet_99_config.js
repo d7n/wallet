@@ -1,1 +1,1 @@
-var mnemonic = "husband asthma joke parent deposit bubble select orient ahead kit pelican aunt";
+var mnemonic = "embody business never glare erase alien cabbage amused welcome glare feed region";

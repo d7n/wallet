@@ -1,1 +1,1 @@
-var mnemonic = "exist oven fly armor donate sustain abandon account charge sorry hunt cigar";
+var mnemonic = "top click credit enjoy charge current shine matrix swamp dutch frost genius";

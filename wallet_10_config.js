@@ -1,1 +1,1 @@
-var mnemonic = "tribe early divide confirm slice trophy disorder minute lock curve idea bicycle";
+var mnemonic = "chair bring gift auction riot angry seat grant valley crane actual trial";

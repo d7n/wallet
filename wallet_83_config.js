@@ -1,1 +1,1 @@
-var mnemonic = "first talk sunset bleak pig stay gate pact depend present occur caution";
+var mnemonic = "pioneer duty pretty range obtain isolate vapor ask fancy rhythm machine cup";

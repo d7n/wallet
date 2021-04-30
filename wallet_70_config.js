@@ -1,1 +1,1 @@
-var mnemonic = "mirror pact onion reunion measure amount egg cruel accident airport snack glimpse";
+var mnemonic = "siege correct cotton false mandate consider wall fabric spawn flush screen cement";

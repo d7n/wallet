@@ -1,1 +1,1 @@
-var mnemonic = "lend engine spell desk demand grab imitate creek fever lyrics trumpet similar";
+var mnemonic = "clog dilemma random idea sadness until skull right believe farm crumble dinosaur";

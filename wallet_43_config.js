@@ -1,1 +1,1 @@
-var mnemonic = "lawn salute crowd purity bamboo vocal twin border dad floor unable renew";
+var mnemonic = "clutch crystal clown noodle mad car animal miss hamster security repeat rain";

@@ -1,1 +1,1 @@
-var mnemonic = "invite gain subject antenna assault inmate tilt balcony party metal fantasy fragile";
+var mnemonic = "leave party relax twist cool inspire direct couch joy theme false exhaust";

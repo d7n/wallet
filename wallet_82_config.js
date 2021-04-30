@@ -1,1 +1,1 @@
-var mnemonic = "spoon oblige medal someone vibrant degree pelican bracket kidney marriage spray lucky";
+var mnemonic = "morning hamster poverty float liar giraffe lemon garlic rough urban cave man";

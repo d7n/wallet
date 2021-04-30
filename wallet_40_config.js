@@ -1,1 +1,1 @@
-var mnemonic = "reason hurdle recycle doctor entire waste try spatial stadium float funny order";
+var mnemonic = "orange sight wise battle swallow orient purse trim gate hazard visit cream";

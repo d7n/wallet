@@ -1,1 +1,1 @@
-var mnemonic = "infant where juice horror give clean point few cheap repair pet mail";
+var mnemonic = "opinion okay situate fog coast horse source ankle educate cigar bubble neither";

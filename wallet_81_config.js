@@ -1,1 +1,1 @@
-var mnemonic = "essence side coyote equal easy fossil annual soft consider twelve pipe exhibit";
+var mnemonic = "season arrive clean bright adjust swear weasel tenant olive now surface trade";

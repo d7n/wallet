@@ -1,1 +1,1 @@
-var mnemonic = "certain fantasy suffer eager kingdom volcano fire guilt exact intact furnace ugly";
+var mnemonic = "capable tide disease federal wasp twice eagle exotic cargo dust toe priority";

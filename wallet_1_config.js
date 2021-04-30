@@ -1,1 +1,1 @@
-var mnemonic = "sister ranch suffer kit describe leg renew scorpion corn return coyote omit";
+var mnemonic = "feature slender tumble cat organ boil uniform olympic you elevator exit cheese";

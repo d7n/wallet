@@ -1,1 +1,1 @@
-var mnemonic = "blur decrease royal purity panic trophy almost direct wild model fragile march";
+var mnemonic = "cereal strong become rich stem tiny spoon okay hammer embrace raw skull";

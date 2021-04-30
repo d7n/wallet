@@ -1,1 +1,1 @@
-var mnemonic = "canoe rib before mail rail venue describe wolf calm video faith inner";
+var mnemonic = "degree six tissue side outdoor desert pause fiber decrease apart parade basic";

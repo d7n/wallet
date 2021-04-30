@@ -1,1 +1,1 @@
-var mnemonic = "assume all trim lunar item kingdom fork tomato world intact diary jazz";
+var mnemonic = "soap enhance wool plate creek cereal kid rack online naive solar banana";

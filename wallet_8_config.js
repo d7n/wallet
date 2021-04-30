@@ -1,1 +1,1 @@
-var mnemonic = "voice orchard razor potato drastic point grape advice mansion sample floor hungry";
+var mnemonic = "net visa scatter clump jewel smooth derive away exist panda elegant escape";

@@ -1,1 +1,1 @@
-var mnemonic = "rain aisle human where athlete sad car south fitness party wood quit";
+var mnemonic = "syrup east sign result exotic need tattoo draft wash stone home weird";

@@ -1,1 +1,1 @@
-var mnemonic = "check lawn memory art dynamic crack supply protect bind make today garment";
+var mnemonic = "pass term idea crop combine equip finish mouse piece pink fatigue rail";

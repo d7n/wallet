@@ -1,1 +1,1 @@
-var mnemonic = "drip pink evil useless one drastic image alarm income chuckle captain fan";
+var mnemonic = "march fiber someone lamp moral collect then volcano human supply hazard cover";

@@ -1,1 +1,1 @@
-var mnemonic = "coconut strategy invite promote prevent filter sell hour jar desert number flee";
+var mnemonic = "correct viable tackle wise nuclear quick song gap moment gym news unable";

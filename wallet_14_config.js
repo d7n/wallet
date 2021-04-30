@@ -1,1 +1,1 @@
-var mnemonic = "image inflict month hero enact release anchor boat lawsuit note inmate business";
+var mnemonic = "belt aware tip ski hover topic duck practice fork street tribe steak";

@@ -1,1 +1,1 @@
-var mnemonic = "into chaos sustain employ nuclear meadow true review cost define hungry lock";
+var mnemonic = "shoe outside myth december marriage observe match guitar cake dirt later quote";

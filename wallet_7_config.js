@@ -1,1 +1,1 @@
-var mnemonic = "glow blame double owner pride tent meat gauge ask medal pulse chicken";
+var mnemonic = "danger problem apple broccoli suffer scatter alarm decide silly license powder inherit";

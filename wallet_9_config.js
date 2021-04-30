@@ -1,1 +1,1 @@
-var mnemonic = "bounce rapid panda deer plastic remain tone minimum donor start length naive";
+var mnemonic = "person combine swim amused open update play floor wagon object blur already";

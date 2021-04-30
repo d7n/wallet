@@ -1,1 +1,1 @@
-var mnemonic = "wrestle neck monkey observe mandate old bicycle avoid crumble unfold render guard";
+var mnemonic = "real cruel blood human punch budget mule equip slim cat scout snap";

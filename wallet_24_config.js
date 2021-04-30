@@ -1,1 +1,1 @@
-var mnemonic = "display firm flush truth unaware food piano under useful front index easily";
+var mnemonic = "tree engage where palm door marriage bonus sadness crunch bar flee problem";

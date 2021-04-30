@@ -1,1 +1,1 @@
-var mnemonic = "agree patrol pumpkin disorder gloom bottom auto fruit obscure unit again sight";
+var mnemonic = "oblige decrease erosion element spatial coyote leader box cruise warfare chief damage";

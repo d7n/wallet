@@ -1,1 +1,1 @@
-var mnemonic = "swamp cradle mad recycle salad clump melt enact alley napkin wheel abandon";
+var mnemonic = "vital appear picnic rich border unfair crazy depart fly bike churn chaos";

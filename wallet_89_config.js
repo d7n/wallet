@@ -1,1 +1,1 @@
-var mnemonic = "chuckle pill identify dry shift tent okay knee oval fancy lock tray";
+var mnemonic = "wire quarter peanut return shop nothing crew print venture exit elegant bamboo";

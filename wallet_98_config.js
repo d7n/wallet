@@ -1,1 +1,1 @@
-var mnemonic = "volume poet shield actual legend puzzle start dignity patrol aerobic series bag";
+var mnemonic = "feature bronze tongue wrap fitness cross wrap cart session yard like minor";

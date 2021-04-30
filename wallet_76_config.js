@@ -1,1 +1,1 @@
-var mnemonic = "hero double master trial ripple blossom ski honey budget quick wrestle visual";
+var mnemonic = "art sugar tooth answer vanish family decide spin pretty goat donate push";

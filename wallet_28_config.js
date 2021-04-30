@@ -1,1 +1,1 @@
-var mnemonic = "panic exclude nice brain wait major spoil fuel thumb nuclear amused punch";
+var mnemonic = "correct garlic slab motor trap can yellow ribbon movie fashion head wet";

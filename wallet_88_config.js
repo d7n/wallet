@@ -1,1 +1,1 @@
-var mnemonic = "badge vintage neither word name surge current kid borrow make gravity tuna";
+var mnemonic = "monitor scheme company language father elbow flush distance fork cool argue exile";

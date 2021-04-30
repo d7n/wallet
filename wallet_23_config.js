@@ -1,1 +1,1 @@
-var mnemonic = "trash shoulder crop pulse grid hammer human wave cement girl smooth stamp";
+var mnemonic = "scissors high pattern indoor food library march dose argue produce word art";

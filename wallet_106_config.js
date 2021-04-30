@@ -1,1 +1,1 @@
-var mnemonic = "clap mosquito sort parrot toddler switch fiscal where bitter winner minimum lobster";
+var mnemonic = "floor frame bargain tip sting lunar amused turkey faith rug frown rug";

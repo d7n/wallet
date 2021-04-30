@@ -1,1 +1,1 @@
-var mnemonic = "skin nurse picture obvious odor advance stool rival juice dad joy must";
+var mnemonic = "interest erase before satisfy air parent cancel season physical south portion attend";

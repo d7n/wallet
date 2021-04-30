@@ -1,1 +1,1 @@
-var mnemonic = "fiction custom wine notice half erase depend broom crumble artist stomach glance";
+var mnemonic = "predict barrel shallow spawn debate fortune mix essay dry spawn host puzzle";

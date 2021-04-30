@@ -1,1 +1,1 @@
-var mnemonic = "cause rule stable virtual climb fix because mass excuse call desert trade";
+var mnemonic = "clinic melt process educate pool gate update horse excite come true wagon";

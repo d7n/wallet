@@ -1,1 +1,1 @@
-var mnemonic = "fun gentle double legal frost flock advice kitten north cliff evoke flush";
+var mnemonic = "north core enrich fiction okay student crater fog family throw there buzz";

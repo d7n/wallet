@@ -1,1 +1,1 @@
-var mnemonic = "enable sorry virtual figure cheap slim two fire retreat genius embark coffee";
+var mnemonic = "require hurdle artefact real joy price vivid ski gesture maximum flush mirror";

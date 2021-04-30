@@ -1,1 +1,1 @@
-var mnemonic = "about tilt try orient forest caution legal immune noodle appear chunk media";
+var mnemonic = "badge invite ghost myself heart solution minute wagon meat tiny various idea";

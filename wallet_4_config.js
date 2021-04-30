@@ -1,1 +1,1 @@
-var mnemonic = "infant rebel liberty must grape mom canyon cheap life brass stamp slight";
+var mnemonic = "whale lady bar lawsuit next before upper leisure calm canoe cradle empty";

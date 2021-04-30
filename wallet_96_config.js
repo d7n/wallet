@@ -1,1 +1,1 @@
-var mnemonic = "pen weather estate thank lab jeans similar mirror shove soft coin invest";
+var mnemonic = "wild company oven grace feed iron have season nation way guess shuffle";
