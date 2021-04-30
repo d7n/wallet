@@ -1,1 +1,1 @@
-var mnemonic = "steak joy crunch equip sadness bundle card dry display offer general version";
+var mnemonic = "tilt emerge reject knife color fiscal dream original gap educate setup balance";

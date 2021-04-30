@@ -1,1 +1,1 @@
-var mnemonic = "knee forest resist quote wonder pottery sniff finish stick pride brown beef";
+var mnemonic = "annual expand fat flock swing dignity utility bicycle question volume oxygen debate";

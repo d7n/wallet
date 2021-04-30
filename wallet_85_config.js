@@ -1,1 +1,1 @@
-var mnemonic = "stove chef topic question resource goose dinosaur skill wise siege detail drip";
+var mnemonic = "unlock glance cart dress blur column marine cloud ripple humble sketch sheriff";

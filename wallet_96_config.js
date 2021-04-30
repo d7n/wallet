@@ -1,1 +1,1 @@
-var mnemonic = "badge nature team coyote tomato member report rural review emotion film faculty";
+var mnemonic = "pass unfair teach evolve blur penalty buyer popular private danger coast develop";

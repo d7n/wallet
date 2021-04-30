@@ -1,1 +1,1 @@
-var mnemonic = "joy torch confirm news brick daring boy spell focus ocean spice occur";
+var mnemonic = "slender repeat clerk boat legal bonus split infant force walnut injury assume";

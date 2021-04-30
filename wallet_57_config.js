@@ -1,1 +1,1 @@
-var mnemonic = "prison marble potato grass dolphin armor viable convince spread increase shoe rebuild";
+var mnemonic = "fuel human tornado embark surface rural noise now crop wisdom zebra enhance";

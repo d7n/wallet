@@ -1,1 +1,1 @@
-var mnemonic = "hard empty tube retreat green involve split cupboard cost dress fade sudden";
+var mnemonic = "print stool omit furnace squeeze spot merry stool exchange nice put seed";

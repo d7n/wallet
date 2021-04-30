@@ -1,1 +1,1 @@
-var mnemonic = "merry saddle evidence guard whip message glass minimum dice style slide session";
+var mnemonic = "march expose fragile tackle section two alpha pair inflict kiwi process eternal";

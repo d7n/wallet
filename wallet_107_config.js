@@ -1,1 +1,1 @@
-var mnemonic = "genius artist luxury disorder animal loyal exotic air tuna short artwork six";
+var mnemonic = "motor wife wagon penalty coil mosquito bright win trend giggle become knife";

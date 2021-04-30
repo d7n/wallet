@@ -1,1 +1,1 @@
-var mnemonic = "mobile digital sleep parent report shell health route brisk actual tower hover";
+var mnemonic = "clutch chimney wire coin scrap forward mind pool attract soccer dumb tuna";

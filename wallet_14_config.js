@@ -1,1 +1,1 @@
-var mnemonic = "into claim under vessel chef brush mushroom cry obvious camera pilot ethics";
+var mnemonic = "expose control celery future ride ensure captain include law across deal display";

@@ -1,1 +1,1 @@
-var mnemonic = "mean shaft drip balcony skill three shock real scare present spider lucky";
+var mnemonic = "start churn tired illegal knee judge word solar equal until strike wheel";

@@ -1,1 +1,1 @@
-var mnemonic = "frost trim awful curious fantasy correct earn peanut obey gift visa october";
+var mnemonic = "post cliff paddle hello enter flat stock leave laundry frog garden soda";

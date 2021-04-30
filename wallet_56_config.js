@@ -1,1 +1,1 @@
-var mnemonic = "security rely system leg immense virus toss amateur fork impulse despair crater";
+var mnemonic = "middle beef aisle success pattern tuition library cash radar puzzle daughter alarm";

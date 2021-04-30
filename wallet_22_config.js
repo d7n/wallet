@@ -1,1 +1,1 @@
-var mnemonic = "beach buyer over spike rice lady rice orient empty unfold dolphin rebel";
+var mnemonic = "patient tuition liberty bag flip pledge story common eager educate clap blush";

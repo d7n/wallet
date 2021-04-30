@@ -1,1 +1,1 @@
-var mnemonic = "among manage asset domain spread answer subway whip size spoon judge valve";
+var mnemonic = "salon merge beef sausage announce fluid style swim project draw tennis critic";

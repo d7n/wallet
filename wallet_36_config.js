@@ -1,1 +1,1 @@
-var mnemonic = "stone laundry unfair prosper vendor remain fit genius brisk find earth idea";
+var mnemonic = "sunset language cost parrot music grocery trumpet client raven disorder any matrix";

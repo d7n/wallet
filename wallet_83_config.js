@@ -1,1 +1,1 @@
-var mnemonic = "annual castle coin churn vacuum viable tag chalk hurt smooth rib fetch";
+var mnemonic = "curtain carpet castle cool above enter brush fragile labor robust return success";

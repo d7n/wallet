@@ -1,1 +1,1 @@
-var mnemonic = "damage dolphin essay hotel release delay large mirror dust jar pulp model";
+var mnemonic = "miss wheat grocery lawsuit cool suggest copper equip hawk move still minimum";

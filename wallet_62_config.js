@@ -1,1 +1,1 @@
-var mnemonic = "output search become board test post foot copy actress swing cook edit";
+var mnemonic = "lava huge false twin marriage multiply certain enroll unhappy clap key make";

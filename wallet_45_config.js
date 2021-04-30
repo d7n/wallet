@@ -1,1 +1,1 @@
-var mnemonic = "federal marble work inspire satoshi exhaust night into believe stool flame pull";
+var mnemonic = "maze noble burst calm grow people learn wing horse rib state fade";

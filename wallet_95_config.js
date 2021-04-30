@@ -1,1 +1,1 @@
-var mnemonic = "bottom chaos crazy charge toward case bean taxi tilt canvas history gauge";
+var mnemonic = "card borrow badge custom fiber laugh kiss tornado drastic choice picture poem";

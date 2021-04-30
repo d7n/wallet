@@ -1,1 +1,1 @@
-var mnemonic = "jungle feature three citizen fame pig forget tooth humor manual mix once";
+var mnemonic = "trend dentist hill dove hat fashion ugly shove pottery honey torch immense";

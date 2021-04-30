@@ -1,1 +1,1 @@
-var mnemonic = "ticket verify hero snap away isolate melody palm puppy awesome finish harvest";
+var mnemonic = "glide shift oyster build scale shift next faint robot rotate purchase gauge";

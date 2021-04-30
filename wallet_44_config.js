@@ -1,1 +1,1 @@
-var mnemonic = "slab upon bracket life side verify huge name stone lock neutral exercise";
+var mnemonic = "rain peasant wink sudden fan time boat woman burst helmet oak area";

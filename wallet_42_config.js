@@ -1,1 +1,1 @@
-var mnemonic = "north spatial chaos desk range govern nature spend behave gather fatigue defy";
+var mnemonic = "spell remind catalog merge foot harbor soap knife hero mixture idea ahead";

@@ -1,1 +1,1 @@
-var mnemonic = "galaxy ice pizza ancient believe father surge fetch arena double guide cotton";
+var mnemonic = "super payment symbol tattoo rabbit cook comic kite write wreck secret fork";

@@ -1,1 +1,1 @@
-var mnemonic = "duty drum easily salon federal spy birth west artwork because sausage bacon";
+var mnemonic = "shine amused frog about finger patch faculty candy battle bitter slow force";

@@ -1,1 +1,1 @@
-var mnemonic = "key venture magic exercise border silk harsh soft enforce allow design notice";
+var mnemonic = "awful oak describe drama surge eye blind draft fantasy victory idea spring";

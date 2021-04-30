@@ -1,1 +1,1 @@
-var mnemonic = "brief rare couch box mule walk present hurry often tomorrow blanket cliff";
+var mnemonic = "rail notice decorate utility cruel escape average about heart junior sniff waste";

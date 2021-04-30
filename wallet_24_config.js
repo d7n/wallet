@@ -1,1 +1,1 @@
-var mnemonic = "fiction victory casual rate forum dinner poet icon giant comic glance cream";
+var mnemonic = "hamster song danger force service spike camera canyon disease estate tower march";

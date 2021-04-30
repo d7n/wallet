@@ -1,1 +1,1 @@
-var mnemonic = "visual hood magnet police success limit way town execute loud reward annual";
+var mnemonic = "weekend wheat protect ill leader spring need arrange market lobster enforce mix";

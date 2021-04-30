@@ -1,1 +1,1 @@
-var mnemonic = "tattoo song walk pride inform swift foil video honey theme social mechanic";
+var mnemonic = "emerge diet shoot caught typical tree tip edge arrange behave soap unique";

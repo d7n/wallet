@@ -1,1 +1,1 @@
-var mnemonic = "predict way board flash loyal fitness obscure used modify dizzy exist gate";
+var mnemonic = "noble level era capital clever alert material test curious rescue acquire thank";

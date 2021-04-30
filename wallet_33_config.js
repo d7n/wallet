@@ -1,1 +1,1 @@
-var mnemonic = "era voyage south stumble quantum ivory deliver blanket phrase off rule earn";
+var mnemonic = "tiger card load visit agree soft armor easily approve blood talk grunt";

@@ -1,1 +1,1 @@
-var mnemonic = "fun build video glare embark fade library slight fiction adjust crunch submit";
+var mnemonic = "cattle rescue report captain remove valve plunge control cereal trap grow trial";

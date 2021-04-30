@@ -1,1 +1,1 @@
-var mnemonic = "pattern intact diamond hundred rent crouch boy bamboo remind cycle cruel wing";
+var mnemonic = "fix swing admit angle wool gadget latin bicycle cushion april assist music";

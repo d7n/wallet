@@ -1,1 +1,1 @@
-var mnemonic = "version color smoke food clarify flip stock sound sun egg bounce aerobic";
+var mnemonic = "wheel acoustic cake lock tragic news brain warrior pen shed blame banana";

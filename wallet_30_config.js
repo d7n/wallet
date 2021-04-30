@@ -1,1 +1,1 @@
-var mnemonic = "legend canyon cross car math tag nest basket teach seminar eagle witness";
+var mnemonic = "parent leopard sport lens chapter maze birth october burden pool cake bachelor";

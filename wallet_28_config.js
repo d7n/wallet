@@ -1,1 +1,1 @@
-var mnemonic = "man utility ugly cabin funny unique help field rapid vehicle rubber video";
+var mnemonic = "canvas check extend such horn salad genuine detect almost proof tiny six";

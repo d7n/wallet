@@ -1,1 +1,1 @@
-var mnemonic = "deliver wolf oblige raccoon stock sausage gate riot lamp prepare trim giant";
+var mnemonic = "monster grace exclude mushroom wine hire close burden measure regular dynamic wolf";

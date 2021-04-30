@@ -1,1 +1,1 @@
-var mnemonic = "biology loyal paddle skirt envelope express regular seven very camera nature control";
+var mnemonic = "raven happy essay organ luggage fringe true busy rather flush relax piece";

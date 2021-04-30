@@ -1,1 +1,1 @@
-var mnemonic = "junior inject occur alter inmate cigar margin quick canyon image excess toddler";
+var mnemonic = "burger clean equal jaguar prefer dance ginger promote still immense coach prison";

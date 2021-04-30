@@ -1,1 +1,1 @@
-var mnemonic = "street relief collect shield joy session tribe apology sight market frozen idle";
+var mnemonic = "captain orchard fatigue crazy debate bubble never chalk cup town boost group";

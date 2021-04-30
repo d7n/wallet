@@ -1,1 +1,1 @@
-var mnemonic = "purchase melody squeeze lunch jelly force tool nose spot correct critic turtle";
+var mnemonic = "another casual wife canyon bacon speak endorse tooth trial suit buyer surround";

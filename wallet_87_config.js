@@ -1,1 +1,1 @@
-var mnemonic = "galaxy hammer obey deputy warrior fortune pave elder spend diesel cool knee";
+var mnemonic = "response fever hollow coach story away among grit ill violin empower tube";

@@ -1,1 +1,1 @@
-var mnemonic = "world carbon chronic harvest shield announce polar era lecture close half way";
+var mnemonic = "sad gesture swim around pair fly document depend unknown marine furnace off";

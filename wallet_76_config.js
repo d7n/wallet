@@ -1,1 +1,1 @@
-var mnemonic = "plastic anger urban special tide goat artefact crack express trophy depth funny";
+var mnemonic = "series gather endorse cause say fringe lemon siren penalty coyote record divide";

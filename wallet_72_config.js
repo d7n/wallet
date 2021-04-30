@@ -1,1 +1,1 @@
-var mnemonic = "bus when setup service drive elevator choice process banner sound person same";
+var mnemonic = "steak thought message siege hub lucky river between soon corn joke another";

@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin apart april lottery drill cycle favorite pull math high sorry kid";
+var mnemonic = "floor donate brown tip animal flat diesel maid benefit artwork wine squeeze";

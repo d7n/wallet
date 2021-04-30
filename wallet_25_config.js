@@ -1,1 +1,1 @@
-var mnemonic = "still predict happy still flash air social where inherit tobacco shy grain";
+var mnemonic = "uphold daughter alpha else disorder magnet zoo agent thought rule often entire";

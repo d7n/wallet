@@ -1,1 +1,1 @@
-var mnemonic = "shy picture diary seminar tool rocket swap share flight simple upgrade eye";
+var mnemonic = "forget wild shed torch announce alpha fork wash march thought lock army";

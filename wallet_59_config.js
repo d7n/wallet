@@ -1,1 +1,1 @@
-var mnemonic = "minute horse humble hundred column online loud river mom exhaust bean leopard";
+var mnemonic = "destroy leaf best asthma seminar flee trade arch photo execute mercy casual";

@@ -1,1 +1,1 @@
-var mnemonic = "fade peace order case property illegal host dignity vacuum river quick armor";
+var mnemonic = "ball name detect dignity rigid hawk split hope glance spy pizza snack";

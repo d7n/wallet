@@ -1,1 +1,1 @@
-var mnemonic = "nose more measure mad cancel debate alone flavor winner online sick fragile";
+var mnemonic = "aisle frown truly silver bunker resist burst foster divide crazy stairs wire";

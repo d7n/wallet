@@ -1,1 +1,1 @@
-var mnemonic = "copy print real document frame require blossom piece exercise buzz hobby grocery";
+var mnemonic = "cruel sausage phrase wife seminar buffalo success nephew velvet lounge gospel liquid";

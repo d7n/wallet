@@ -1,1 +1,1 @@
-var mnemonic = "round deal tongue vacuum picnic life scrap tomato this erase clown relief";
+var mnemonic = "segment reveal erode early extend beach fox diet brick govern need another";

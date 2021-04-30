@@ -1,1 +1,1 @@
-var mnemonic = "note october repeat sunset chase hood pitch pear poem argue chuckle endless";
+var mnemonic = "fork erupt melt knee drive sing submit sniff puppy crowd hidden churn";

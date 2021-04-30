@@ -1,1 +1,1 @@
-var mnemonic = "text spare pull bone auction owner please people try trust shop gesture";
+var mnemonic = "shift merry burger hawk stick switch color denial bid tomorrow huge maid";

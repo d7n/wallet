@@ -1,1 +1,1 @@
-var mnemonic = "forum trade speed kitchen rice farm cannon replace sort course lawsuit february";
+var mnemonic = "few announce resist bachelor season warfare attend liquid author pupil color myself";

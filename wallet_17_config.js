@@ -1,1 +1,1 @@
-var mnemonic = "venture luxury mistake vocal humble club layer lazy audit winner pumpkin salon";
+var mnemonic = "scout distance push promote virtual crash ostrich artefact belt unveil enjoy pluck";

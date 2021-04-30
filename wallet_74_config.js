@@ -1,1 +1,1 @@
-var mnemonic = "detail purity unfold ugly flip creek album shine other shed cousin leisure";
+var mnemonic = "wage awkward aunt often size problem beach excess when mixed method toward";

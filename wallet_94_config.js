@@ -1,1 +1,1 @@
-var mnemonic = "receive adapt code govern people winner picture surface debris mirror lunch monitor";
+var mnemonic = "orphan expect sense story share song liar canoe aspect lemon refuse height";

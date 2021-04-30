@@ -1,1 +1,1 @@
-var mnemonic = "wood glass insane inform ice private weird drum fluid spend feel duck";
+var mnemonic = "run cattle drink mechanic catch enhance luggage achieve father indoor apology cattle";

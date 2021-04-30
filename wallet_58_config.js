@@ -1,1 +1,1 @@
-var mnemonic = "blade athlete company raccoon achieve identify cream patient tornado domain win differ";
+var mnemonic = "over swing sea paddle improve about coin silly wheel denial opera half";

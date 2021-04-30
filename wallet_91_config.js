@@ -1,1 +1,1 @@
-var mnemonic = "resist valve auto trial chef convince obscure weather decrease there man pride";
+var mnemonic = "race parade lawsuit analyst argue giraffe finish remind glow replace first analyst";

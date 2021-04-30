@@ -1,1 +1,1 @@
-var mnemonic = "ski blanket yard dress define mom appear bargain tone path soldier destroy";
+var mnemonic = "dash frog slogan confirm service roof twenty marriage vacuum like oxygen install";

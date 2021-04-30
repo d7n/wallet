@@ -1,1 +1,1 @@
-var mnemonic = "ginger basket stumble venue young admit normal ginger spend device admit attract";
+var mnemonic = "purity smart prosper escape hold kitten invest truth tonight auction help cannon";

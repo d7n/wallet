@@ -1,1 +1,1 @@
-var mnemonic = "object rude mask night pepper shoe boring foam horse cousin cheese penalty";
+var mnemonic = "alone cave fresh staff evolve milk blind grant reopen flavor metal aunt";

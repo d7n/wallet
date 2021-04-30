@@ -1,1 +1,1 @@
-var mnemonic = "test keep erupt because strike message flight balance banner solid elite input";
+var mnemonic = "grace century zebra vault tuna bacon region else chef young scout alert";

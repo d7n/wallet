@@ -1,1 +1,1 @@
-var mnemonic = "fringe essay six elevator steak two media life roof despair sad connect";
+var mnemonic = "near gauge return transfer oblige model focus ring right deputy annual text";

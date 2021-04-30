@@ -1,1 +1,1 @@
-var mnemonic = "mouse decorate stamp hood sample entry huge nation skill achieve bread news";
+var mnemonic = "review bright diet omit damage genius fade beyond where blanket unusual shy";

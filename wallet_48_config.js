@@ -1,1 +1,1 @@
-var mnemonic = "stomach planet quiz side hidden skin animal sock side ball zoo chapter";
+var mnemonic = "mountain quote what escape glad circle current amused bonus luggage obvious moral";

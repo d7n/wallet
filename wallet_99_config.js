@@ -1,1 +1,1 @@
-var mnemonic = "upgrade clinic manual two recall under gadget swamp alarm wheat top party";
+var mnemonic = "trash hammer brave fruit guide cart parade okay shock together appear east";

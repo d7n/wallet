@@ -1,1 +1,1 @@
-var mnemonic = "rigid gun faith gloom aisle saddle lizard fatigue apology slam there repair";
+var mnemonic = "access dust only marble suffer elite fossil orange buddy inmate trap chair";

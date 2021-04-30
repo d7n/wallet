@@ -1,1 +1,1 @@
-var mnemonic = "drift myself coffee next unlock desert gaze end hockey captain giant blossom";
+var mnemonic = "change rocket melt produce survey tilt boil pen scrub saddle express finger";

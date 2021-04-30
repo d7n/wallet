@@ -1,1 +1,1 @@
-var mnemonic = "rail east pen debate cool enforce column notable loud whale more pulse";
+var mnemonic = "globe unveil mesh envelope common equal tag visit method option what forget";

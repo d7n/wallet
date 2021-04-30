@@ -1,1 +1,1 @@
-var mnemonic = "quiz devote promote digital object armed reveal gaze annual between velvet garden";
+var mnemonic = "cabin innocent excite term human shoot voyage country draw reward earth april";

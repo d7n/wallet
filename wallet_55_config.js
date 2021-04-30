@@ -1,1 +1,1 @@
-var mnemonic = "input media thumb lottery goat afford wonder aim clump dinner skill art";
+var mnemonic = "fault brass know seed limit face typical steak torch april exotic remain";

@@ -1,1 +1,1 @@
-var mnemonic = "liberty hub pause donate horror used leopard green screen forget surface spy";
+var mnemonic = "require cook early adjust hedgehog patient main admit purse slot tool spoon";

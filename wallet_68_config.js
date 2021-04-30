@@ -1,1 +1,1 @@
-var mnemonic = "gate proof olympic lady cotton polar method drop annual during midnight shrug";
+var mnemonic = "limit trouble girl prize crush fence thing oil caught myth hill mountain";

@@ -1,1 +1,1 @@
-var mnemonic = "notice bright guard nest father birth decade shadow theory injury fold employ";
+var mnemonic = "clump champion audit flat wrist earth exchange biology inch tortoise cactus liquid";

@@ -1,1 +1,1 @@
-var mnemonic = "image slab clutch north rack another pipe morning axis dumb future capable";
+var mnemonic = "vintage shrug pelican route circle pioneer rebuild motor mosquito eyebrow snack region";
