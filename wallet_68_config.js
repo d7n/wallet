@@ -1,1 +1,1 @@
-var mnemonic = "butter cancel hunt truth race eight desert tray raccoon young direct lobster";
+var mnemonic = "trash concert slight wolf language shove random wedding sugar diamond column worth";

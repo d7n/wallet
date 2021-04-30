@@ -1,1 +1,1 @@
-var mnemonic = "tenant spring labor size carry orchard gravity twelve session lobster turtle wood";
+var mnemonic = "they often sick pen claw tree voyage inject roast script sister step";

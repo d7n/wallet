@@ -1,1 +1,1 @@
-var mnemonic = "view reunion violin consider water limb trial vast sunny steak fire visual";
+var mnemonic = "chapter adult sing sheriff since bar film fall industry shield shock mention";

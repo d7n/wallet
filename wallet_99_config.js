@@ -1,1 +1,1 @@
-var mnemonic = "ethics hurry story property primary rough scorpion fabric asthma symbol usage nice";
+var mnemonic = "anchor luggage noodle basic captain tape stairs banana village mask rib assume";

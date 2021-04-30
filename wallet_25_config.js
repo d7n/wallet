@@ -1,1 +1,1 @@
-var mnemonic = "any garage keep hotel dish public abstract comic pet six exist home";
+var mnemonic = "toast frame airport prosper clerk winner story lion tooth bless gas best";

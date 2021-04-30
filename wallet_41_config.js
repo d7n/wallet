@@ -1,1 +1,1 @@
-var mnemonic = "bag harsh wife palace town reform truly symptom offer slender fish wink";
+var mnemonic = "barely cruise pulp quantum hunt silver thought dog timber obey law jaguar";

@@ -1,1 +1,1 @@
-var mnemonic = "keep radar prison clip stick arch public grow same multiply faculty antique";
+var mnemonic = "trend uncover width happy join couple fashion bubble soft expose harsh ordinary";

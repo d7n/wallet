@@ -1,1 +1,1 @@
-var mnemonic = "bread raccoon lonely hello tribe usage garlic split wagon bring basket lonely";
+var mnemonic = "repeat prison elite repeat front morning position tree nest work arrest surprise";

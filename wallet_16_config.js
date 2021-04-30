@@ -1,1 +1,1 @@
-var mnemonic = "cactus alert slab screen involve live tape deliver cat hedgehog banana goose";
+var mnemonic = "address enforce cherry dice weird exercise crouch south pigeon side cousin love";

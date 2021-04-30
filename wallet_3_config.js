@@ -1,1 +1,1 @@
-var mnemonic = "wash motion twenty champion civil cage post rhythm thought pact broom edge";
+var mnemonic = "inmate junk have surprise juice gloom library deliver apple wife rely brush";

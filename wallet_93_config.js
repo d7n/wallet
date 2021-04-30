@@ -1,1 +1,1 @@
-var mnemonic = "train minor mystery peanut afraid female pupil alien toast negative chapter snack";
+var mnemonic = "muscle prison garden year aerobic party trend juice jungle tilt aunt pizza";

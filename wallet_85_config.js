@@ -1,1 +1,1 @@
-var mnemonic = "lucky attitude alter satoshi tilt estate report tube sick wonder maximum cat";
+var mnemonic = "scheme crane nephew tomato exclude garment senior pond coyote man such believe";

@@ -1,1 +1,1 @@
-var mnemonic = "drip differ cost bread charge help payment layer curve turn verb orchard";
+var mnemonic = "kid pen impose crumble one yard child sheriff social wire grit nut";

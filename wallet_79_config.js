@@ -1,1 +1,1 @@
-var mnemonic = "taste cash congress snap satisfy cycle reveal tilt order casino crop basket";
+var mnemonic = "thought thunder catch nothing salon curious diesel express equip turkey injury concert";

@@ -1,1 +1,1 @@
-var mnemonic = "below best air zone cash useful sign success liar bench only enforce";
+var mnemonic = "apology tourist random sample slender cannon thunder camera connect grass trade mutual";

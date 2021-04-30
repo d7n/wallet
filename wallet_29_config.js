@@ -1,1 +1,1 @@
-var mnemonic = "artist wheat device immense group swallow gentle rich liberty wash east sweet";
+var mnemonic = "brief moment century favorite gaze wine rigid saddle cool divert polar omit";

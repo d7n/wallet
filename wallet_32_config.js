@@ -1,1 +1,1 @@
-var mnemonic = "decorate wise federal effort lens radar off initial young banana flip social";
+var mnemonic = "trash trick carbon judge popular toe farm tiny element phone destroy regular";

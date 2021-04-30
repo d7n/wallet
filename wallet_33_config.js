@@ -1,1 +1,1 @@
-var mnemonic = "neglect scout caught museum nuclear helmet buffalo drum dutch chase obvious over";
+var mnemonic = "this around demand crawl sure keen provide pilot execute zero wheel noble";

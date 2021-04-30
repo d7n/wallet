@@ -1,1 +1,1 @@
-var mnemonic = "run intact melt trade energy wet labor amazing park buyer planet bitter";
+var mnemonic = "joy asthma pause deposit mystery grid together laptop fetch cabbage public quality";

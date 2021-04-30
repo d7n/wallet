@@ -1,1 +1,1 @@
-var mnemonic = "donkey cat bleak flat that soft august glad seminar foil turkey inherit";
+var mnemonic = "donor plunge truth print gym city sword often ordinary push employ arena";

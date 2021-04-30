@@ -1,1 +1,1 @@
-var mnemonic = "era alcohol gorilla pill direct visit carbon best lock industry egg thumb";
+var mnemonic = "fantasy drill cherry disorder soccer merit pool setup similar strike churn onion";

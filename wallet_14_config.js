@@ -1,1 +1,1 @@
-var mnemonic = "notable web march enrich monster vivid dinosaur balcony cage earn card fine";
+var mnemonic = "crime entire ancient kit install defy reform say tumble adapt run harsh";

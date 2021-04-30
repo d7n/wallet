@@ -1,1 +1,1 @@
-var mnemonic = "below steel inject view first carry cheese token hint use record future";
+var mnemonic = "frozen direct learn lady boy dismiss accident dream step winter axis hawk";

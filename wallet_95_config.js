@@ -1,1 +1,1 @@
-var mnemonic = "slide hybrid coffee napkin choice sorry table become tourist depart quarter include";
+var mnemonic = "abuse want proud business honey stick recipe decrease found crash stay pigeon";

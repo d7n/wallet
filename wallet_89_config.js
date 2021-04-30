@@ -1,1 +1,1 @@
-var mnemonic = "hammer transfer mechanic mansion dawn prevent near canyon galaxy mail water stone";
+var mnemonic = "regret permit tobacco collect cause human butter soccer assist rail noble unfold";

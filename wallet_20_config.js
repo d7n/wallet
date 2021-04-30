@@ -1,1 +1,1 @@
-var mnemonic = "add special aisle firm shy crater orange veteran liberty term review early";
+var mnemonic = "narrow very step hair nothing network student bracket sphere comic dune maximum";

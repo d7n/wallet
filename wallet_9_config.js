@@ -1,1 +1,1 @@
-var mnemonic = "blur depth best quantum empty loan cannon sketch face scale private renew";
+var mnemonic = "diamond skull upgrade cotton squeeze neglect satoshi slot logic virus green sting";

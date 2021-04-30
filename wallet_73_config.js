@@ -1,1 +1,1 @@
-var mnemonic = "convince cheap paddle treat surround hungry net dismiss imitate prevent hurdle cook";
+var mnemonic = "equip place bright fan receive monster high banana speak warrior green faculty";

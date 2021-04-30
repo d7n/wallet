@@ -1,1 +1,1 @@
-var mnemonic = "urban heart rubber indicate absurd answer crater tongue jacket robot dry nothing";
+var mnemonic = "monitor staff proud slim museum panther fruit light merge six service route";

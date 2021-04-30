@@ -1,1 +1,1 @@
-var mnemonic = "possible solid label wire more divide order come predict lemon minor nice";
+var mnemonic = "midnight album input offer sport neither home maximum wool once basket fluid";

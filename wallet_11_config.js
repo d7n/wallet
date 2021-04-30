@@ -1,1 +1,1 @@
-var mnemonic = "action fiber shiver dish kind original uphold heart urban furnace hard wagon";
+var mnemonic = "attitude faith tomato tomorrow list seat waste polar injury quote brief state";

@@ -1,1 +1,1 @@
-var mnemonic = "girl follow abuse useless similar hour giggle brass hold crisp tiny magic";
+var mnemonic = "foam coconut risk cup model bitter combine mother mango lab gorilla session";

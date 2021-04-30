@@ -1,1 +1,1 @@
-var mnemonic = "regular erase olive drink catalog melt essay dwarf thank soap rack retreat";
+var mnemonic = "list cliff pizza frame humble input permit hawk home quantum suffer animal";

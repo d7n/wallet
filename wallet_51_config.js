@@ -1,1 +1,1 @@
-var mnemonic = "flower slush nasty avocado mesh stem hungry boil extra music position involve";
+var mnemonic = "depth master erosion artefact night section monitor genuine public cinnamon aspect afford";

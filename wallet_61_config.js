@@ -1,1 +1,1 @@
-var mnemonic = "mixture win deposit apart disagree bird prefer refuse crystal interest panda hotel";
+var mnemonic = "tiny more cycle enrich fluid portion airport cactus smile rotate lawn garbage";

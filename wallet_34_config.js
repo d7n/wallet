@@ -1,1 +1,1 @@
-var mnemonic = "evil reunion slow raise subject badge whale gorilla bleak manage hat blouse";
+var mnemonic = "chalk plastic lyrics error whip breeze lounge pizza better snow impulse tonight";

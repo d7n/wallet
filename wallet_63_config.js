@@ -1,1 +1,1 @@
-var mnemonic = "used master wild eagle license answer canoe gown leaf toy cabin sword";
+var mnemonic = "kingdom weekend minor diary struggle expire giggle enlist have lumber claw warrior";

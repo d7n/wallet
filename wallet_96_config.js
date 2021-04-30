@@ -1,1 +1,1 @@
-var mnemonic = "finger wisdom brisk road frown amazing pull funny tiny trouble slight maze";
+var mnemonic = "robust biology ask slow hedgehog face witness entire target wreck silly define";

@@ -1,1 +1,1 @@
-var mnemonic = "matrix lock siren lake gather brain witness enhance hockey swim relief write";
+var mnemonic = "ozone goose rich destroy van giraffe assist twin audit pitch become belt";

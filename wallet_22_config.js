@@ -1,1 +1,1 @@
-var mnemonic = "east road topic parrot owner misery metal sad upgrade pipe sword error";
+var mnemonic = "pepper coffee little artist feel table eternal need despair faith worry doctor";

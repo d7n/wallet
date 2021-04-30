@@ -1,1 +1,1 @@
-var mnemonic = "tube venue brisk horror tumble wolf switch seminar gain busy meat minimum";
+var mnemonic = "artwork need find artwork transfer year argue suspect hat melody magic bread";

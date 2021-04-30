@@ -1,1 +1,1 @@
-var mnemonic = "mention admit insane bundle divert love seven flee amused upgrade april olive";
+var mnemonic = "farm frost kangaroo pilot people amused obscure lion praise recycle tree arena";

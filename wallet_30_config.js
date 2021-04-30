@@ -1,1 +1,1 @@
-var mnemonic = "brown toss theme patch key circle follow curious anchor busy stove lazy";
+var mnemonic = "arrive mushroom cushion knife crash camp diet tiger spike toe dwarf field";

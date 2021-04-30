@@ -1,1 +1,1 @@
-var mnemonic = "enrich antique equip fame area crop total candy wide balcony frost secret";
+var mnemonic = "awake expect twin cotton dilemma book that nominee during apple crucial debris";

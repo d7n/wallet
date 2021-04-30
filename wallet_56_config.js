@@ -1,1 +1,1 @@
-var mnemonic = "stereo reject deal own boss agree zone draw image lend object marine";
+var mnemonic = "give jaguar account one clump morning mammal order crowd bread clean scheme";

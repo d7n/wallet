@@ -1,1 +1,1 @@
-var mnemonic = "permit demise river emerge bring reward toilet hybrid glide impose voice typical";
+var mnemonic = "borrow please true typical economy now monitor hockey speed hidden flower blossom";

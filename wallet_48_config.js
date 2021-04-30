@@ -1,1 +1,1 @@
-var mnemonic = "choice cabin train bamboo blush draw thrive build blossom olympic depend volcano";
+var mnemonic = "drink friend guitar cactus fat agent meadow grant speed distance chimney drastic";

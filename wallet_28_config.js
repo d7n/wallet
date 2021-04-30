@@ -1,1 +1,1 @@
-var mnemonic = "junk pulp any true inflict access total join inform crouch robot damage";
+var mnemonic = "leg step blue diamond gospel brand word used wise edit dilemma super";

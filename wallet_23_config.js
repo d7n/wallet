@@ -1,1 +1,1 @@
-var mnemonic = "south impose innocent never curtain busy layer trouble light spoil animal adapt";
+var mnemonic = "expand mention album phone churn clump weather region minute link trigger east";

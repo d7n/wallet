@@ -1,1 +1,1 @@
-var mnemonic = "push siege second repeat cliff stereo embark awesome city grant advice divert";
+var mnemonic = "robust junk force skin narrow matrix strategy indoor shrimp easily inherit wasp";

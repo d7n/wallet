@@ -1,1 +1,1 @@
-var mnemonic = "section sight team party ready cannon battle pig toe route mammal follow";
+var mnemonic = "vessel arrive swift melody acoustic doctor portion already lumber strong across maid";

@@ -1,1 +1,1 @@
-var mnemonic = "strategy neglect connect crawl fold shiver misery slot sketch gaze must stone";
+var mnemonic = "fan theme mouse about runway ancient soon bottom rescue glass mobile someone";

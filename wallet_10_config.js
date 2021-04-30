@@ -1,1 +1,1 @@
-var mnemonic = "tuna garbage female palm profit mushroom home ready sand win island dance";
+var mnemonic = "ankle dad mercy rude amateur forget network bright hawk awesome concert asset";

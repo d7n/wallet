@@ -1,1 +1,1 @@
-var mnemonic = "trust supreme grace piece equip federal super blur mercy model wrong train";
+var mnemonic = "ecology health enrich update bright zero throw mistake sell finish west bone";

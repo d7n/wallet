@@ -1,1 +1,1 @@
-var mnemonic = "slot reopen accident excess wreck syrup metal major expect flock seed profit";
+var mnemonic = "alter pull raven crouch dune mammal rhythm phrase angle pulp metal next";

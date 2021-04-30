@@ -1,1 +1,1 @@
-var mnemonic = "enact tape blind measure water twenty host miracle execute impact success candy";
+var mnemonic = "balance attitude solid fatigue nice enrich report one balance walk high young";

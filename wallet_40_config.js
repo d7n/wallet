@@ -1,1 +1,1 @@
-var mnemonic = "wine toast unit rubber settle dutch act base silver help later turkey";
+var mnemonic = "bean faith nut raise fit ghost bundle attract winter wash online fame";

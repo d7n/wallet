@@ -1,1 +1,1 @@
-var mnemonic = "awake coconut taxi rose loop grief base human best badge shock convince";
+var mnemonic = "advice spice urge aisle vacuum menu glide alcohol town fork bargain below";

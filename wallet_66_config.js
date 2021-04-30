@@ -1,1 +1,1 @@
-var mnemonic = "tiger eight crumble fun circle achieve cactus relief warrior almost circle stairs";
+var mnemonic = "work inspire wild chronic occur edit yard discover empower practice above crazy";

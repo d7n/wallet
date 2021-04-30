@@ -1,1 +1,1 @@
-var mnemonic = "dentist elder raw transfer smooth twice bunker eyebrow negative record truck lawn";
+var mnemonic = "verify erosion digital basket absurd work leaf happy clap knife cabin group";

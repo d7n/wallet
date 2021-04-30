@@ -1,1 +1,1 @@
-var mnemonic = "weasel paddle alter step giraffe also benefit rely erosion try trend shift";
+var mnemonic = "obscure short ride like renew palm inhale skate setup tiger purpose erode";

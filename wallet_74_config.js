@@ -1,1 +1,1 @@
-var mnemonic = "squirrel woman sketch tent tortoise crazy filter melt motor female mansion final";
+var mnemonic = "repeat kiss pudding doll just mercy ridge shiver profit cool walnut hour";

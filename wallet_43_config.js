@@ -1,1 +1,1 @@
-var mnemonic = "film trial include wheat hip hobby evil involve sport nut dumb victory";
+var mnemonic = "minimum squeeze gift alley ordinary maximum day pole only craft fancy model";

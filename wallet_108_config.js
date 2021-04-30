@@ -1,1 +1,1 @@
-var mnemonic = "table hair wage mask alcohol issue wink bridge ritual speak other rough";
+var mnemonic = "chronic various include push urban verb traffic mixture involve elegant panic shift";

@@ -1,1 +1,1 @@
-var mnemonic = "indoor gown proof step bird edge virus cash race review leg build";
+var mnemonic = "duty region now dutch casino key popular finish isolate normal moral police";

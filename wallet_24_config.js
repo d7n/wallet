@@ -1,1 +1,1 @@
-var mnemonic = "tool nut eager receive fade evolve nurse velvet win put arrange mutual";
+var mnemonic = "flush beach secret upgrade valid tomato theory home betray sample address trouble";

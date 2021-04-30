@@ -1,1 +1,1 @@
-var mnemonic = "undo clean ridge delay path inject egg during robot cage copy stumble";
+var mnemonic = "expand private pupil decrease side wage caution purity enable draft weird weapon";

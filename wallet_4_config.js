@@ -1,1 +1,1 @@
-var mnemonic = "point chat bar already pool name clerk school replace food choose pumpkin";
+var mnemonic = "shock heart much device usual carbon uniform wing valley casual sudden then";

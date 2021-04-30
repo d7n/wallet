@@ -1,1 +1,1 @@
-var mnemonic = "oxygen science depend ridge mansion seek boss tomato embrace leisure elder erase";
+var mnemonic = "caution ginger slice club seek castle pave source sentence purpose female rent";

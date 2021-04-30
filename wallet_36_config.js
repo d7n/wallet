@@ -1,1 +1,1 @@
-var mnemonic = "mandate key dose like sniff donate ranch key tilt history else like";
+var mnemonic = "beauty possible provide weasel cotton ready put common author lava human saddle";

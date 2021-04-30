@@ -1,1 +1,1 @@
-var mnemonic = "put caution adult length actual paper naive sniff enemy obey leave powder";
+var mnemonic = "apple one rug airport dynamic museum quality borrow excuse lonely cloud load";

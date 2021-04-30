@@ -1,1 +1,1 @@
-var mnemonic = "crunch shiver casual author orbit diet second dinner short top dial feature";
+var mnemonic = "brown six follow scare enable milk best coast spray flip success lens";

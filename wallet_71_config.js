@@ -1,1 +1,1 @@
-var mnemonic = "talk purse vote fatigue screen fancy great endless canvas weekend notable remain";
+var mnemonic = "sport bounce release all wink topple express remain battle dress piano noodle";

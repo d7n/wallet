@@ -1,1 +1,1 @@
-var mnemonic = "add repeat broom donor romance post script enemy water upset acid trumpet";
+var mnemonic = "live shield habit exact measure blame match acquire spring purpose copy crouch";

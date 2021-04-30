@@ -1,1 +1,1 @@
-var mnemonic = "motor fatal canal tenant suffer permit example crash tone cost faculty whip";
+var mnemonic = "feed radio bracket fuel thank slide remind various tooth monitor hawk duty";

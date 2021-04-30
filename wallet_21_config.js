@@ -1,1 +1,1 @@
-var mnemonic = "table wheat fade wheel canal private gown spawn match occur guilt manual";
+var mnemonic = "shift collect peasant master devote gun raccoon tape magic soldier prize eternal";

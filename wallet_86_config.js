@@ -1,1 +1,1 @@
-var mnemonic = "exercise lamp sunset coral minimum gather shallow birth away depth enrich faith";
+var mnemonic = "destroy sister cactus mutual debate man uncle prepare evolve napkin auction settle";

@@ -1,1 +1,1 @@
-var mnemonic = "royal guide good left tiger spider between child key exclude nest alarm";
+var mnemonic = "ivory brown build promote crack insane seek noble explain field profit toy";

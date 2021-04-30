@@ -1,1 +1,1 @@
-var mnemonic = "rice section dynamic hammer physical smile bundle ranch rice emerge fall have";
+var mnemonic = "tag asthma bomb drink magnet random lucky raw also gown car trash";

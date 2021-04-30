@@ -1,1 +1,1 @@
-var mnemonic = "fame attitude speed barrel shed waste shy symptom disease movie hockey defy";
+var mnemonic = "mountain water inhale dirt acid taxi nerve limb error saddle author junior";

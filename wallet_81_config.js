@@ -1,1 +1,1 @@
-var mnemonic = "father empower hawk push quit risk dumb uphold cycle change web learn";
+var mnemonic = "abuse weekend great virtual analyst verb design inject lizard captain flag plug";

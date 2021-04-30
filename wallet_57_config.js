@@ -1,1 +1,1 @@
-var mnemonic = "humble potato labor transfer tackle silk cereal ski toy nominee awkward they";
+var mnemonic = "foot brief deny swallow rely upper famous zone magic engine diary main";

@@ -1,1 +1,1 @@
-var mnemonic = "help viable bounce rail prison verify tackle drink tower auction number blood";
+var mnemonic = "network blue bird between inhale enlist deny smart pool demand wrong will";

@@ -1,1 +1,1 @@
-var mnemonic = "era course gasp quantum toss exit year joy humble interest oil pave";
+var mnemonic = "age public leg boil lesson miss follow cream guess town segment slide";

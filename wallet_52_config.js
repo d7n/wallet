@@ -1,1 +1,1 @@
-var mnemonic = "unfair loyal dilemma whale permit cluster chapter fabric return modify shield core";
+var mnemonic = "donor narrow plate ticket orphan floor dismiss organ pioneer voyage much float";

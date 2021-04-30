@@ -1,1 +1,1 @@
-var mnemonic = "horse fruit carbon army escape diesel now cheap estate notable gossip boil";
+var mnemonic = "front inmate plastic sheriff burger veteran rebel above example young expire question";

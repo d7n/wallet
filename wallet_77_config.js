@@ -1,1 +1,1 @@
-var mnemonic = "vessel popular detail inner about shuffle pluck salute label seminar few lock";
+var mnemonic = "debate limb obtain gesture raise pull bronze grant hotel vacant tiny sad";

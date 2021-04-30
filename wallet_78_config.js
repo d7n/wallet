@@ -1,1 +1,1 @@
-var mnemonic = "brick reward hope clerk vendor bundle culture twenty observe adapt neglect sing";
+var mnemonic = "despair plate juice brain dirt pipe stem fan noble merge core tent";
