@@ -1,1 +1,1 @@
-var mnemonic = "wine evil plate ethics make dinosaur moon jump shell trim office course";
+var mnemonic = "advice submit trial describe pond solar grit love party sick enlist second";

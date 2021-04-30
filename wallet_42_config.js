@@ -1,1 +1,1 @@
-var mnemonic = "olympic cement sauce remain pizza tell such quantum lab sphere type find";
+var mnemonic = "fresh dinner bird mesh senior layer motion satisfy clutch mix fine crop";

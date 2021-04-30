@@ -1,1 +1,1 @@
-var mnemonic = "life damage inherit diesel enforce machine foot slim pulp sleep muscle pledge";
+var mnemonic = "candy canyon expose wool squirrel amused donkey steak radio crowd divorce wine";

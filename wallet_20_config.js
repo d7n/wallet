@@ -1,1 +1,1 @@
-var mnemonic = "mutual ranch pledge evidence avoid summer tortoise original invest dismiss memory swarm";
+var mnemonic = "ahead pear butter nasty truly lunch evil drink cheese ostrich mix regret";

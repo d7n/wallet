@@ -1,1 +1,1 @@
-var mnemonic = "solution auto lady unhappy trap soap duty view cake moment multiply party";
+var mnemonic = "top federal steak fatal nut cart target crash almost differ garage shoe";

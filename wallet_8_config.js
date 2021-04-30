@@ -1,1 +1,1 @@
-var mnemonic = "spend exit pill call vote pistol display traffic remain only oblige stadium";
+var mnemonic = "chest dutch cage sibling predict analyst roast dragon ability slim cannon box";

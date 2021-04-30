@@ -1,1 +1,1 @@
-var mnemonic = "gap market black spy toddler lunch pigeon master diesel nothing cherry gate";
+var mnemonic = "shock gasp donkey turtle alone leisure destroy decrease imitate arctic aim ecology";

@@ -1,1 +1,1 @@
-var mnemonic = "usual profit donate danger prefer prize face forward depart certain ghost hen";
+var mnemonic = "slogan wrap kid detect bundle oak collect aisle trophy pride inspire can";

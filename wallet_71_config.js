@@ -1,1 +1,1 @@
-var mnemonic = "bright satoshi voyage twelve venue business satoshi bachelor glove side mistake rhythm";
+var mnemonic = "inquiry edge industry install inspire lend faint chat strong glance tag fish";

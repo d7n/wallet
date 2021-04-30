@@ -1,1 +1,1 @@
-var mnemonic = "decade coach write fall athlete invite retire present gesture crazy tumble jelly";
+var mnemonic = "attract police orient include walk lawsuit field tackle energy surprise cousin nominee";

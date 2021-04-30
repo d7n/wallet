@@ -1,1 +1,1 @@
-var mnemonic = "width leopard notable hungry alien spirit expect mirror air hire also about";
+var mnemonic = "letter patient rally cotton sail category absurd various shiver gasp jeans indicate";

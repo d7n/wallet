@@ -1,1 +1,1 @@
-var mnemonic = "pilot theory cherry company poverty melody mixture valley light wood season drink";
+var mnemonic = "chest spoon pledge hurry auto harsh valley soap chapter shop alter kind";

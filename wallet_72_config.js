@@ -1,1 +1,1 @@
-var mnemonic = "neck excite toy behind dentist clown rocket reopen illegal require gym wink";
+var mnemonic = "bread wall devote monster around twin fiscal cross museum obtain tail sun";

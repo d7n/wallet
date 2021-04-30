@@ -1,1 +1,1 @@
-var mnemonic = "march vote top crisp update faint example coyote picture office pond quiz";
+var mnemonic = "general walnut monster goddess group olympic eagle rigid mesh tuna sight victory";

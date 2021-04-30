@@ -1,1 +1,1 @@
-var mnemonic = "border will play elevator easily kick rule couch witness level office fluid";
+var mnemonic = "faculty roast success expand survey satoshi oblige security length electric syrup birth";

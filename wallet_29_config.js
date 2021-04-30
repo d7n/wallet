@@ -1,1 +1,1 @@
-var mnemonic = "fiscal illegal addict section fetch wolf muffin cry screen mutual hockey mass";
+var mnemonic = "enough birth else drink razor enable jacket insane enrich bus smile harvest";

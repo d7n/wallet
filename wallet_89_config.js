@@ -1,1 +1,1 @@
-var mnemonic = "debris violin suffer spend head fossil clerk decade please address mystery forget";
+var mnemonic = "trust bulb athlete garlic gold glad tortoise before retreat board style fatal";

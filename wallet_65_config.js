@@ -1,1 +1,1 @@
-var mnemonic = "valid acquire toss letter pizza timber bamboo reunion annual city pool note";
+var mnemonic = "file elder unfair diet open bring bag carpet social winner fine bounce";

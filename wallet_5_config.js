@@ -1,1 +1,1 @@
-var mnemonic = "need control holiday disorder profit crunch swamp hire account common super laugh";
+var mnemonic = "dry august meat sand cool crazy mirror fatal intact swamp swift boy";

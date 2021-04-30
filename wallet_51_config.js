@@ -1,1 +1,1 @@
-var mnemonic = "reopen manual switch track corn build pond soon slice grocery reunion beauty";
+var mnemonic = "solution popular fit spoil rail alone slot pudding oyster grace sheriff island";

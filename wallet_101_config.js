@@ -1,1 +1,1 @@
-var mnemonic = "robust cup match blind matrix latin job height call effort puzzle cook";
+var mnemonic = "exit ticket abstract kiwi have fatigue oppose prefer resemble proof arrive claw";

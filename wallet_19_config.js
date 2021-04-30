@@ -1,1 +1,1 @@
-var mnemonic = "orange broccoli brisk gate verify approve assault put enter illegal moon major";
+var mnemonic = "sunset front title torch mountain office box tilt canoe diesel view surprise";

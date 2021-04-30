@@ -1,1 +1,1 @@
-var mnemonic = "kiwi first scrap sniff world profit boss cradle south parrot soon valley";
+var mnemonic = "shine tumble define hint broom leg clown calm cruise cake final rebuild";

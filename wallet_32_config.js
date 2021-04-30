@@ -1,1 +1,1 @@
-var mnemonic = "rough sock level rough movie empty very blanket gaze remember salt short";
+var mnemonic = "immense fly toddler aisle wage moral october segment wrist coin armed achieve";

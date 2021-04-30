@@ -1,1 +1,1 @@
-var mnemonic = "trumpet medal lamp gun doctor reflect absorb message above actor immense course";
+var mnemonic = "panther gadget ugly clean genre february usual orient speed blade swallow holiday";

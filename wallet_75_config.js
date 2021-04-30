@@ -1,1 +1,1 @@
-var mnemonic = "neglect wage depth ancient shine dutch tip equal rabbit admit farm silver";
+var mnemonic = "flush debate blue traffic stage eager aunt between banana jaguar piece tool";

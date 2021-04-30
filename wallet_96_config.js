@@ -1,1 +1,1 @@
-var mnemonic = "ugly found art stove garage canyon swear parrot sort vote canal cabin";
+var mnemonic = "inject flight figure harvest staff mushroom express control tribe vault property absent";

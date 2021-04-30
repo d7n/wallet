@@ -1,1 +1,1 @@
-var mnemonic = "taste sail depart neutral family impose music typical more hard venture meadow";
+var mnemonic = "denial silk fancy science mansion prevent purpose action tomato power vague table";

@@ -1,1 +1,1 @@
-var mnemonic = "club hurdle skirt wild lawsuit beauty demand oil ring rural diary lady";
+var mnemonic = "width safe clown emotion govern help surprise gloom pole uniform anger blue";

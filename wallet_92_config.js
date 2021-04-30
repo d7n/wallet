@@ -1,1 +1,1 @@
-var mnemonic = "news zebra pupil unknown whale provide pony blood funny route ask decline";
+var mnemonic = "hope film charge nice rally pen long cart loud again congress yard";

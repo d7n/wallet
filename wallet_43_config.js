@@ -1,1 +1,1 @@
-var mnemonic = "cube below engage short design purity river live cactus sort oppose valve";
+var mnemonic = "vacuum robust seek asset van nominee reduce anchor clever mechanic mix aerobic";

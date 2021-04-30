@@ -1,1 +1,1 @@
-var mnemonic = "cross rack myself raise assume what soap clutch garage middle image like";
+var mnemonic = "ceiling normal multiply middle safe blood surround tilt actor frog desert scene";

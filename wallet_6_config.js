@@ -1,1 +1,1 @@
-var mnemonic = "theory cement social screen bacon lady novel fly boss drop flame nothing";
+var mnemonic = "easy satisfy ride morning guide venue wash exchange present apple baby ability";

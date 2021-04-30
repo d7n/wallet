@@ -1,1 +1,1 @@
-var mnemonic = "offer animal spider silly write fiscal child february orphan ice loan young";
+var mnemonic = "volume melody kid occur injury gesture pelican must wear minimum bike brand";

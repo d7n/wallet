@@ -1,1 +1,1 @@
-var mnemonic = "puppy final stomach shallow print nest unlock brand vapor index drill spring";
+var mnemonic = "indoor buddy piano stable ignore bulk library category similar short guess theory";

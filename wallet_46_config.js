@@ -1,1 +1,1 @@
-var mnemonic = "time keen coin pretty security solution monster jazz orbit orchard blush onion";
+var mnemonic = "mule kite movie tree corn mesh magnet stomach hire flag naive destroy";

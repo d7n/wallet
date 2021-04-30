@@ -1,1 +1,1 @@
-var mnemonic = "fragile wrist faith arena double ritual board pride plate party motion unusual";
+var mnemonic = "jeans monitor rebuild mammal lizard erupt garment ocean jump embody ordinary custom";

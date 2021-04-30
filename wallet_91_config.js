@@ -1,1 +1,1 @@
-var mnemonic = "discover program atom worry habit soon differ bargain calm admit mouse skull";
+var mnemonic = "govern secret grab bench combine access brand dismiss heavy rotate crumble glass";

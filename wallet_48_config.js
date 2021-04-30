@@ -1,1 +1,1 @@
-var mnemonic = "grow transfer tag stick way neck region vanish visa iron safe fit";
+var mnemonic = "tissue peace scene genre spy primary occur spell silent impose lucky arena";

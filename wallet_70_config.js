@@ -1,1 +1,1 @@
-var mnemonic = "north crawl dawn hole flip quit resource same dice reform drift acid";
+var mnemonic = "post strong crisp net swamp allow melody yellow advice bronze release air";

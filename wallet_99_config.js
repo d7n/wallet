@@ -1,1 +1,1 @@
-var mnemonic = "acid yellow indicate machine split want text surround coil floor gift shoot";
+var mnemonic = "cargo inhale favorite volume equip casual spell purchase magic hawk window number";

@@ -1,1 +1,1 @@
-var mnemonic = "erosion nephew conduct example school find believe penalty collect hill whale much";
+var mnemonic = "cycle glance pupil cook spatial calm middle caution citizen rude analyst hire";

@@ -1,1 +1,1 @@
-var mnemonic = "relief outside debate panther estate mind alcohol tongue sheriff usage exclude elder";
+var mnemonic = "jealous rule grace report exercise enact surface visa banana behind isolate bomb";

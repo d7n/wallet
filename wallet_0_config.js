@@ -1,1 +1,1 @@
-var mnemonic = "dentist reunion since blanket foster curious another board input print appear upgrade";
+var mnemonic = "slim assault eyebrow pyramid west response pull release undo camera cupboard wreck";

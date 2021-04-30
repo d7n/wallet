@@ -1,1 +1,1 @@
-var mnemonic = "short fiscal chest make two ask grass lion attitude mad unaware govern";
+var mnemonic = "palm measure sorry topic reunion mirror chunk stick minimum misery laugh start";

@@ -1,1 +1,1 @@
-var mnemonic = "lady game bulb twin sing behind finger art team orient person drift";
+var mnemonic = "violin glue siege fluid tail rotate spread message limit sausage gown ride";

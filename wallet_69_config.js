@@ -1,1 +1,1 @@
-var mnemonic = "give garment tide bright you pluck quit age avocado rebel cupboard wedding";
+var mnemonic = "illegal seminar frog damp north swim shaft destroy fossil enlist host major";

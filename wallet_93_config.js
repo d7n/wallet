@@ -1,1 +1,1 @@
-var mnemonic = "uniform deal sausage wheel you soap kid moment follow once control group";
+var mnemonic = "crumble cherry cigar transfer physical follow rigid marriage wild hurt artwork audit";

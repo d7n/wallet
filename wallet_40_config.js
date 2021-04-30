@@ -1,1 +1,1 @@
-var mnemonic = "wage outdoor tenant limb panther page stand secret wear attend glad fault";
+var mnemonic = "jump feature brain inject oppose dress desert appear desk spoil outer wonder";

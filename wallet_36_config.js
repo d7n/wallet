@@ -1,1 +1,1 @@
-var mnemonic = "kid correct forum people stand final piano speed two glad wash paper";
+var mnemonic = "junk must move wet coral brown audit pudding garbage upon escape vast";

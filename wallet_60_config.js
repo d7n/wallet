@@ -1,1 +1,1 @@
-var mnemonic = "index settle render menu wolf afford side end spirit fit primary marble";
+var mnemonic = "predict angle treat pepper detail promote team blade ordinary damp play cliff";

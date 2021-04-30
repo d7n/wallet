@@ -1,1 +1,1 @@
-var mnemonic = "learn series spider zoo squeeze gun seat learn dumb entry skin cry";
+var mnemonic = "tube left rescue ginger bachelor cover cry deal worry august wine sorry";

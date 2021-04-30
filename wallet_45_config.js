@@ -1,1 +1,1 @@
-var mnemonic = "boring basic retreat interest thumb toddler carbon sure thrive stamp embrace silent";
+var mnemonic = "camp brand private series idea million soon high iron join fabric state";

@@ -1,1 +1,1 @@
-var mnemonic = "ketchup sibling dance volume fetch whale coil elevator surprise brown method cabin";
+var mnemonic = "pen ill happy online pause need rain okay rookie cattle arm fiscal";

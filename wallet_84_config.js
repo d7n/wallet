@@ -1,1 +1,1 @@
-var mnemonic = "monkey lava cheap bitter orbit board half assume involve fit accuse duty";
+var mnemonic = "green picture access copper wage alone edge journey desk secret crumble weekend";

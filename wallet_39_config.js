@@ -1,1 +1,1 @@
-var mnemonic = "enrich balcony lumber universe six ridge dove choice hold pet endorse sibling";
+var mnemonic = "gauge retire velvet artist midnight rural clip guess uncle mixed crystal tiny";

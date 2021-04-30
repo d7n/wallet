@@ -1,1 +1,1 @@
-var mnemonic = "wheat best news gallery one slogan marine private become scene illegal cluster";
+var mnemonic = "frame wire pencil bike glove truth rather raven upgrade junior barrel garbage";

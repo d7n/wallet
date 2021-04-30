@@ -1,1 +1,1 @@
-var mnemonic = "raw excess ostrich rail clip satisfy able steak supply fee maximum cabbage";
+var mnemonic = "essay fringe addict kidney fabric awake escape puppy knee battle action cook";

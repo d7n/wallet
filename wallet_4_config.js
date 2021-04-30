@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow route idea broom learn prison slight dizzy video local team news";
+var mnemonic = "mercy used rally off sunset point tragic tube amused wrap tourist become";

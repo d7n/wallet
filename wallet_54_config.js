@@ -1,1 +1,1 @@
-var mnemonic = "suspect ignore pave beach gesture belt dawn polar adjust drastic flock easy";
+var mnemonic = "case stem salad comfort ice fantasy post dragon diary merge world emotion";

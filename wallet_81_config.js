@@ -1,1 +1,1 @@
-var mnemonic = "just hamster tree affair toss gun this pave sister code inherit thunder";
+var mnemonic = "fat height enact aspect latin hill life one survey hunt sheriff shallow";

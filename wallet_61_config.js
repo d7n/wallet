@@ -1,1 +1,1 @@
-var mnemonic = "very soccer enrich extend glue trip assault profit buyer gloom danger flip";
+var mnemonic = "dirt rare box elephant pistol write job soap suffer student admit buddy";

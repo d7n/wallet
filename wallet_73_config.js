@@ -1,1 +1,1 @@
-var mnemonic = "adjust gallery denial ignore athlete basic peanut media violin vague general escape";
+var mnemonic = "sunny salon talk beef narrow visual lava close wreck pilot vote silver";

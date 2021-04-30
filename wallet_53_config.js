@@ -1,1 +1,1 @@
-var mnemonic = "coast erode private airport admit trust fun punch peace festival birth cactus";
+var mnemonic = "limit december inner trash wait summer move result onion lumber pizza nominee";

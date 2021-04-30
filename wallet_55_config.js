@@ -1,1 +1,1 @@
-var mnemonic = "tone planet mother border sunny across shiver ill arrest size bunker cushion";
+var mnemonic = "torch circle entry indoor hen crew captain field vanish repair client nose";

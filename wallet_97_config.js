@@ -1,1 +1,1 @@
-var mnemonic = "picnic chapter rule kit short guess age drama airport danger hurt message";
+var mnemonic = "inspire enough brief food test quote turn harbor author permit general midnight";

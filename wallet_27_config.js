@@ -1,1 +1,1 @@
-var mnemonic = "negative pepper artefact bleak kangaroo coin occur weekend occur torch ecology either";
+var mnemonic = "brown level rabbit rotate benefit link program moon smooth predict retire agent";

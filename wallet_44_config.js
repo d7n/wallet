@@ -1,1 +1,1 @@
-var mnemonic = "jungle attitude bonus danger transfer web radio village degree engine copy cash";
+var mnemonic = "vacant crush turn excess spike museum join tackle please time found section";

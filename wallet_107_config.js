@@ -1,1 +1,1 @@
-var mnemonic = "crawl fiction smart appear blossom kind soul price genre satoshi pole dust";
+var mnemonic = "trigger lunar jungle chase term cabin slide health either anxiety glad bus";

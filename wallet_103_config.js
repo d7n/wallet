@@ -1,1 +1,1 @@
-var mnemonic = "mansion author slot mirror reflect post label host camp concert infant grain";
+var mnemonic = "shield busy crop congress now august edge now cake case label depend";

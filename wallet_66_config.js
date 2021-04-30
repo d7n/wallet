@@ -1,1 +1,1 @@
-var mnemonic = "dizzy auction veteran decline effort clinic swamp hip agent frame prefer ticket";
+var mnemonic = "echo consider always glimpse park absent sound twist tag inhale clay loyal";

@@ -1,1 +1,1 @@
-var mnemonic = "force harvest retire abandon fancy feed bridge museum opinion impact suggest ticket";
+var mnemonic = "forget where pretty blood rapid blind alone mixed injury bulb swear indoor";

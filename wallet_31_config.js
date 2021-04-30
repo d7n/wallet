@@ -1,1 +1,1 @@
-var mnemonic = "rural hello confirm trouble wire genius primary crouch submit actor circle where";
+var mnemonic = "huge drum fatigue zebra isolate uphold empty citizen exchange bone demise boss";

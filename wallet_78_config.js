@@ -1,1 +1,1 @@
-var mnemonic = "hurdle burst ranch sudden next dream scare attend oppose wide shrug tool";
+var mnemonic = "syrup copper employ swap toward bone opinion donkey common drastic million impact";

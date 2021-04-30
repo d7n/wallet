@@ -1,1 +1,1 @@
-var mnemonic = "marriage rapid turtle scatter gate nerve viable jump kitten sample engage mom";
+var mnemonic = "ignore mirror hat venue staff sense attack sheriff gravity erupt recall domain";

@@ -1,1 +1,1 @@
-var mnemonic = "design replace blur hold fossil long filter furnace pig same mosquito liquid";
+var mnemonic = "chest pepper race come mirror couch kid swallow tower occur park please";

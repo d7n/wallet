@@ -1,1 +1,1 @@
-var mnemonic = "junior employ annual cattle crawl dose ill obvious life usage meadow budget";
+var mnemonic = "pigeon body must north stem kid steel call junior book planet end";

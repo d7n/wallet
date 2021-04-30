@@ -1,1 +1,1 @@
-var mnemonic = "raise work range breeze pool donkey forest cloth crime burger soon quick";
+var mnemonic = "olive carbon situate tragic melody ball saddle seminar tuna couch fiber style";

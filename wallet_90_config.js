@@ -1,1 +1,1 @@
-var mnemonic = "alien area size clutch protect confirm gaze remove security story what economy";
+var mnemonic = "fan market whisper awesome slim perfect worry spend follow dolphin pottery able";

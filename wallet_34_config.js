@@ -1,1 +1,1 @@
-var mnemonic = "noble turkey traffic vicious elevator hundred drastic prize toddler loop kitten thumb";
+var mnemonic = "tape math quiz impulse file slam feed tomorrow zero soda photo mirror";

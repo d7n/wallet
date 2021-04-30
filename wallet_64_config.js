@@ -1,1 +1,1 @@
-var mnemonic = "diagram swarm protect cannon mechanic clown rose volume soup pulp always enhance";
+var mnemonic = "water decline trouble brown mother that chicken act elevator lend much trigger";

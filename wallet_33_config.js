@@ -1,1 +1,1 @@
-var mnemonic = "pulp reject right resource glow imitate horror main physical coast frog total";
+var mnemonic = "situate behave trend energy pill victory woman spy label ecology trumpet bench";

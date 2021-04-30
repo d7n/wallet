@@ -1,1 +1,1 @@
-var mnemonic = "drum benefit actual whale goddess aunt clean lift female please disease enough";
+var mnemonic = "cushion bonus around treat flame divorce stock when any plate practice siren";

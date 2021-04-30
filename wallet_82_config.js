@@ -1,1 +1,1 @@
-var mnemonic = "account flush during ripple discover nation asset return float sting jealous sword";
+var mnemonic = "response arena aim language blur can behave lake fetch gospel height one";

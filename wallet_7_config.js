@@ -1,1 +1,1 @@
-var mnemonic = "lend kitchen phrase ring dad sing blanket initial still link apart wear";
+var mnemonic = "view alpha multiply vault try arena bomb rescue spin abuse exotic envelope";

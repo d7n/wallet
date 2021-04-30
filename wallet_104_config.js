@@ -1,1 +1,1 @@
-var mnemonic = "width flee debris moral tiny crew funny million surface boil flock marble";
+var mnemonic = "electric attract sell off wheat chaos symbol very divide dance reunion penalty";

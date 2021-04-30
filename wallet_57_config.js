@@ -1,1 +1,1 @@
-var mnemonic = "dolphin price rhythm private use stamp blouse adapt debris industry dove universe";
+var mnemonic = "machine jealous april ready edit warm face pond weasel spice option armor";

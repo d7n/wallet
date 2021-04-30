@@ -1,1 +1,1 @@
-var mnemonic = "people rough burden under candy between allow chat youth record joy example";
+var mnemonic = "seminar badge sound earn fresh eight field food arrive swear auction ritual";
